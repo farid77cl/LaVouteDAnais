@@ -1,54 +1,950 @@
 {
   "nodes": [
     {
-      "id": "miss_doll",
-      "label": "Miss Doll (The Predator)",
-      "file_type": "document",
-      "source_file": "02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md"
+      "id": "story_los_deseos_de_ginny",
+      "type": "story",
+      "label": "Los Deseos de Ginny: El Brillo en el Sótano",
+      "properties": {
+        "project_id": "LDG",
+        "status": "en_progreso",
+        "word_count": 3150,
+        "version": "V1.0_final",
+        "setting": "Fraternidad Sigma-Theta, sótano universitario",
+        "themes": ["feminization", "bimbofication", "wish_granting", "submission", "dominance", "identity_erasure", "golden_mist"],
+        "score": "95/100",
+        "date": "2026-03-26",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
     },
     {
-      "id": "anais_belland",
-      "label": "Anaïs Belland",
-      "file_type": "document",
-      "source_file": "02_Personajes/01_Principales/anais/ficha_anais.md"
+      "id": "char_ginny",
+      "type": "character",
+      "label": "Ginny",
+      "properties": {
+        "role": "genio_bimbo_omnipotente",
+        "appearance": "vinilo azul eléctrico, ojos violetas, pestañas abanico, cintura imposible, piel brillante aerógrafo, uñas XXXL",
+        "personality": "bimbo omnipotente, humor torcido, aversión al rosa, gloss dorado",
+        "origin": "coctelera dorada con grabados fractales",
+        "powers": ["wish_granting", "transformation", "golden_mist_generation"],
+        "stories": ["story_los_deseos_de_ginny", "story_el_deseo_de_la_cancha"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
     },
     {
-      "id": "bob_platinum",
-      "label": "Platinum Asymmetric Bob",
-      "file_type": "rationale",
-      "source_file": "02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md"
+      "id": "char_mateo_ginette",
+      "type": "character",
+      "label": "Mateo / Ginette",
+      "properties": {
+        "role": "protagonista_transformado",
+        "pre_transformation": "estudiante ingeniería, cínico, analítico, gafas",
+        "post_transformation": "cheerleader capitana, melena rubio platino, uñas azul eléctrico XXXL, sumisa",
+        "transformation_type": "feminization_bimbofication",
+        "wish": "ser el alma de la fiesta, persona más popular del campus",
+        "story": "story_los_deseos_de_ginny",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
     },
     {
-      "id": "stealth_protocol",
-      "label": "Stealth Protocol",
-      "file_type": "rationale",
-      "source_file": "02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md"
+      "id": "char_santi_capitan",
+      "type": "character",
+      "label": "Santi / Capitán Absoluto",
+      "properties": {
+        "role": "protagonista_transformado_dominante",
+        "pre_transformation": "estudiante universitario con gafas",
+        "post_transformation": "quarterback musculoso, Capitán Absoluto, barítono profundo",
+        "transformation_type": "alpha_masculinization",
+        "wish": "ser líder, que todos le obedezcan",
+        "story": "story_los_deseos_de_ginny",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_helena",
+      "type": "character",
+      "label": "Helena",
+      "properties": {
+        "role": "figura_supervisora_La_Voûte",
+        "appearance": "pelo rojo cherry, uñas XXXL, copa de champán",
+        "function": "observadora y selladora de destinos, voz del Orquestador en la ficción",
+        "stories": ["story_los_deseos_de_ginny"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "concept_niebla_dorada",
+      "type": "narrative_concept",
+      "label": "Niebla Dorada",
+      "properties": {
+        "description": "Mecanismo de vaciado mental progresivo inducido por Ginny; filtra el pensamiento crítico y lo reemplaza por urgencia efervescente de brillar",
+        "effect": "borrado de conocimientos intelectuales, deriva lingüística bimbó, identity_erasure",
+        "appears_in": ["story_los_deseos_de_ginny", "story_el_deseo_de_la_cancha"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "doc_crit_ldg_v1",
+      "type": "audit_report",
+      "label": "CRIT-LDG-V1 (Reporte Crítico V1)",
+      "properties": {
+        "project": "los_deseos_de_ginny",
+        "version_audited": "V1_borrador",
+        "date": "2026-03-26",
+        "observations": ["bimboficacion_veloz", "pacing_apresurado_epilogo", "santi_rol_subexplotado"],
+        "actions_required": ["expandir_epilogo", "niebla_dorada_mas_visceral", "quarterback_to_capitan_absoluto"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "doc_crit_ldg_v2",
+      "type": "audit_report",
+      "label": "CRIT-LDG-V2 (Reporte Crítico V2)",
+      "properties": {
+        "project": "los_deseos_de_ginny",
+        "version_audited": "V1.0_refinado",
+        "date": "2026-03-26",
+        "score": "95/100",
+        "verdict": "APROBADO - no requiere más iteraciones",
+        "improvements_confirmed": ["niebla_dorada_visceral", "epilogo_afterglow", "dominancia_capitan_absoluto"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "story_brillando_en_tacones_I",
+      "type": "story",
+      "label": "Brillando en Tacones I: La Metamorfosis de Esteban",
+      "properties": {
+        "series": "Brillando en Tacones",
+        "part": 1,
+        "subtitle": "La Metamorfosis",
+        "status": "finalizada",
+        "themes": ["tacones", "feminization", "hypnosis_conditioning", "identity_transformation", "submission"],
+        "setting": "Estudio de belleza Eli, ciudad no especificada",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "story_brillando_en_tacones_II",
+      "type": "story",
+      "label": "Brillando en Tacones II: La Bimbo que Soy",
+      "properties": {
+        "series": "Brillando en Tacones",
+        "part": 2,
+        "subtitle": "La Bimbo",
+        "status": "finalizada",
+        "themes": ["tacones", "bimbofication", "feminization", "conditioning", "lenceria", "identity_erasure"],
+        "setting": "Ciudad, metro, tienda de lencería, departamento",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_esteban_steffy",
+      "type": "character",
+      "label": "Esteban / Steffy",
+      "properties": {
+        "role": "protagonista_transformado",
+        "pre_transformation": "hombre ansioso, profesional, presentación lunes",
+        "post_transformation": "Steffy, bimbo perfecta, transformación irreversible, tacones permanentes",
+        "stories": ["story_brillando_en_tacones_I", "story_brillando_en_tacones_II"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_eli",
+      "type": "character",
+      "label": "Eli",
+      "properties": {
+        "role": "agente_transformadora",
+        "occupation": "Estudio de Belleza Integral",
+        "appearance": "alta, pelo rojo oscuro moño, vinilo negro brillante, cinturón terciopelo fucsia",
+        "powers": ["conditioning", "feminization_facilitation"],
+        "story": "story_brillando_en_tacones_I",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_brillando_I_post",
+      "type": "publication_variant",
+      "label": "Brillando en Tacones I — Post (Blog)",
+      "properties": {
+        "channel": "blog_post",
+        "format": "markdown_post",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_brillando_I_tumblr",
+      "type": "publication_variant",
+      "label": "Brillando en Tacones I — Tumblr",
+      "properties": {
+        "channel": "tumblr",
+        "format": "markdown_tumblr",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_brillando_II_tumblr",
+      "type": "publication_variant",
+      "label": "Brillando en Tacones II — Tumblr",
+      "properties": {
+        "channel": "tumblr",
+        "format": "markdown_tumblr",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "story_buena_chica_buena_muneca",
+      "type": "story",
+      "label": "Buena Chica, Buena Muñeca",
+      "properties": {
+        "status": "finalizada",
+        "word_count": 10000,
+        "perspective": "primera_persona_Mario_Nancy",
+        "themes": ["feminization", "MTF", "mind_control", "doll_fetish", "silicone", "rubber_mask", "conditioning", "non_con", "objectification", "collar", "submission", "gangbang"],
+        "characters": ["Mario/Nancy", "Derek"],
+        "chapters": 8,
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_mario_nancy",
+      "type": "character",
+      "label": "Mario / Nancy",
+      "properties": {
+        "role": "protagonista_transformado",
+        "pre_transformation": "compañero de departamento, 23 años",
+        "post_transformation": "Nancy, muñeca de silicona, sumisa, sirve y obedece",
+        "story": "story_buena_chica_buena_muneca",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_derek",
+      "type": "character",
+      "label": "Derek",
+      "properties": {
+        "role": "dominante_amo",
+        "relationship": "mejor amigo de Mario, luego dueño de Nancy",
+        "story": "story_buena_chica_buena_muneca",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_buena_chica_tumblr",
+      "type": "publication_variant",
+      "label": "Buena Chica, Buena Muñeca — Tumblr",
+      "properties": {
+        "channel": "tumblr",
+        "format": "markdown_tumblr",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_buena_chica_html",
+      "type": "publication_variant",
+      "label": "Buena Chica, Buena Muñeca — HTML",
+      "properties": {
+        "channel": "html",
+        "format": "html_web",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "story_el_collar_de_nancy",
+      "type": "story",
+      "label": "El Collar de Nancy",
+      "properties": {
+        "status": "finalizada",
+        "word_count": 8500,
+        "themes": ["collar", "feminization", "MTF", "submission", "conditioning", "silicone", "doll_fetish", "mind_control", "objectification"],
+        "setting": "Departamento compartido, ciudad",
+        "note": "Shares characters and opening scene with Buena Chica Buena Muñeca — same universe or editorial variant",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_el_collar_post",
+      "type": "publication_variant",
+      "label": "El Collar de Nancy — Post",
+      "properties": {
+        "channel": "blog_post",
+        "format": "markdown_post",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_el_collar_tumblr",
+      "type": "publication_variant",
+      "label": "El Collar de Nancy — Tumblr",
+      "properties": {
+        "channel": "tumblr",
+        "format": "markdown_tumblr",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_el_collar_substack",
+      "type": "publication_variant",
+      "label": "El Collar de Nancy — Substack",
+      "properties": {
+        "channel": "substack",
+        "format": "markdown_substack_ready",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_el_collar_html",
+      "type": "publication_variant",
+      "label": "El Collar de Nancy — HTML",
+      "properties": {
+        "channel": "html",
+        "format": "html_web",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "story_el_cuadro_de_fideos",
+      "type": "story",
+      "label": "El Cuadro de Fideos y mi Boquita",
+      "properties": {
+        "status": "finalizada",
+        "themes": ["tacones", "bimbofication", "edgeplay", "orgasm_denial", "humiliation", "intelligence_concealed", "art_world"],
+        "setting": "Galería de arte, exhibición arte asiático",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_jinx",
+      "type": "character",
+      "label": "Jinx",
+      "properties": {
+        "role": "agente_Anais_disfrazada_de_bimbo",
+        "appearance": "PVC verde lima nuclear, Pleaser Flamingo-808 8 pulgadas, pechos silicona, tanga encaje",
+        "true_nature": "mujer inteligente, agente encubierta, usa máscara bimbo como arma",
+        "skills": ["inteligencia_oculta", "seduccion", "extraccion_confesiones", "orgasm_denial"],
+        "story": "story_el_cuadro_de_fideos",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "pub_cuadro_fideos_tumblr",
+      "type": "publication_variant",
+      "label": "El Cuadro de Fideos — Tumblr",
+      "properties": {
+        "channel": "tumblr",
+        "format": "markdown_tumblr",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "story_el_deseo_de_la_cancha",
+      "type": "story",
+      "label": "El Deseo de la Cancha",
+      "properties": {
+        "status": "finalizada",
+        "word_count": 8112,
+        "score": "9.6/10",
+        "verdict": "ADMITIDO CON EXCELENCIA",
+        "themes": ["bimbofication", "feminization", "dominance", "submission", "wish_granting", "identity_erasure", "sexual_degradation", "infidelity", "golden_mist", "cheerleader"],
+        "setting": "Campus universitario, canchas de fútbol americano, vestuarios",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_ignacio_nacho",
+      "type": "character",
+      "label": "Ignacio / Nacho",
+      "properties": {
+        "role": "protagonista_transformado_dominante",
+        "pre_transformation": "estudiante universitario",
+        "post_transformation": "quarterback musculoso, alfa impotente, misógino",
+        "wish": "ser rey del campus",
+        "story": "story_el_deseo_de_la_cancha",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "char_esteban_stefi",
+      "type": "character",
+      "label": "Esteban / Stefi / Titi (Cancha)",
+      "properties": {
+        "role": "protagonista_transformado_sumisa",
+        "pre_transformation": "estudiante ingeniero/a, inteligente",
+        "post_transformation": "Stefi/Titi, cheerleader bimbo, vocabulario de 5 palabras, sumisa sexual",
+        "wish": "ser rey del campus (compartido con Nacho)",
+        "story": "story_el_deseo_de_la_cancha",
+        "note": "Diferente personaje del Esteban/Steffy de Brillando en Tacones — mismo nombre base, diferentes relatos",
+        "source": "INFERRED",
+        "confidence": 0.85
+      }
+    },
+    {
+      "id": "doc_arco_timeline_cancha",
+      "type": "story_document",
+      "label": "Arco y Timeline — El Deseo de la Cancha",
+      "properties": {
+        "document_type": "narrative_architecture",
+        "agent": "Arquitecto",
+        "story": "story_el_deseo_de_la_cancha",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "doc_auditoria_cancha",
+      "type": "audit_report",
+      "label": "Auditoría Crítico — El Deseo de la Cancha",
+      "properties": {
+        "verdict": "ADMITIDO CON EXCELENCIA",
+        "score": "9.6/10",
+        "story": "story_el_deseo_de_la_cancha",
+        "highlights": ["cascada_fisiologica_exitosa", "impotencia_alfa_excepcional", "vacio_bimbo_calibrado", "lenguaje_chileno_perfecto"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "series_brillando_en_tacones",
+      "type": "series",
+      "label": "Serie: Brillando en Tacones",
+      "properties": {
+        "parts": 2,
+        "theme_arc": "metamorfosis_feminizacion_bimboficacion_completa",
+        "protagonist": "Esteban / Steffy",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "repo_finalizadas_readme",
+      "type": "index_document",
+      "label": "README — 02_Finalizadas",
+      "properties": {
+        "total_carpetas": 39,
+        "series_completas": 8,
+        "relatos_individuales": "25+",
+        "idiomas": ["Español", "Francés"],
+        "themes_listed": ["Feminización MTF", "Bimbofication", "BDSM/D-s", "Hipnosis Erótica", "Transformación", "Body Swap", "Smart Home/Tecnología de Control"],
+        "update_date": "10/04/2026",
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": "concept_ginny_universe",
+      "type": "narrative_concept",
+      "label": "Ginny como personaje recurrente del universo",
+      "properties": {
+        "description": "Ginny la genio bimbo aparece en Los Deseos de Ginny (en progreso), El Deseo de la Cancha, y está listada como relato independiente Ginny la Genio Bimbo en las finalizadas",
+        "appears_in": ["story_los_deseos_de_ginny", "story_el_deseo_de_la_cancha"],
+        "source": "INFERRED",
+        "confidence": 0.95
+      }
+    },
+    {
+      "id": "concept_miss_doll",
+      "type": "narrative_concept",
+      "label": "Miss Doll (concepto recurrente)",
+      "properties": {
+        "description": "Miss Doll aparece como marca/entidad proveedora de collar y caja en Buena Chica/El Collar de Nancy, y como personaje en series como Gloss: El Trance de Miss Doll",
+        "appears_in": ["story_buena_chica_buena_muneca", "story_el_collar_de_nancy"],
+        "source": "EXTRACTED",
+        "confidence": 1.0
+      }
     }
   ],
   "edges": [
     {
-      "source": "miss_doll",
-      "target": "stealth_protocol",
-      "relation": "implements",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0
+      "id": "e001",
+      "source": "story_los_deseos_de_ginny",
+      "target": "char_ginny",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
     },
     {
-      "source": "miss_doll",
-      "target": "bob_platinum",
-      "relation": "features",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0
+      "id": "e002",
+      "source": "story_los_deseos_de_ginny",
+      "target": "char_mateo_ginette",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
     },
     {
-      "source": "anais_belland",
-      "target": "miss_doll",
-      "relation": "allied_with",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85
+      "id": "e003",
+      "source": "story_los_deseos_de_ginny",
+      "target": "char_santi_capitan",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e004",
+      "source": "story_los_deseos_de_ginny",
+      "target": "char_helena",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e005",
+      "source": "story_los_deseos_de_ginny",
+      "target": "concept_niebla_dorada",
+      "relation": "uses_concept",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e006",
+      "source": "doc_crit_ldg_v1",
+      "target": "story_los_deseos_de_ginny",
+      "relation": "audits",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e007",
+      "source": "doc_crit_ldg_v2",
+      "target": "story_los_deseos_de_ginny",
+      "relation": "audits",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e008",
+      "source": "doc_crit_ldg_v2",
+      "target": "doc_crit_ldg_v1",
+      "relation": "supersedes",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e009",
+      "source": "char_ginny",
+      "target": "char_mateo_ginette",
+      "relation": "transforms",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e010",
+      "source": "char_ginny",
+      "target": "char_santi_capitan",
+      "relation": "transforms",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e011",
+      "source": "char_santi_capitan",
+      "target": "char_mateo_ginette",
+      "relation": "dominates",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e012",
+      "source": "char_helena",
+      "target": "story_los_deseos_de_ginny",
+      "relation": "oversees_as_editor_persona",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e013",
+      "source": "series_brillando_en_tacones",
+      "target": "story_brillando_en_tacones_I",
+      "relation": "contains_part",
+      "properties": {"part": 1},
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e014",
+      "source": "series_brillando_en_tacones",
+      "target": "story_brillando_en_tacones_II",
+      "relation": "contains_part",
+      "properties": {"part": 2},
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e015",
+      "source": "story_brillando_en_tacones_II",
+      "target": "story_brillando_en_tacones_I",
+      "relation": "sequel_of",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e016",
+      "source": "story_brillando_en_tacones_I",
+      "target": "char_esteban_steffy",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e017",
+      "source": "story_brillando_en_tacones_II",
+      "target": "char_esteban_steffy",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e018",
+      "source": "story_brillando_en_tacones_I",
+      "target": "char_eli",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e019",
+      "source": "char_eli",
+      "target": "char_esteban_steffy",
+      "relation": "conditions_transforms",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e020",
+      "source": "pub_brillando_I_post",
+      "target": "story_brillando_en_tacones_I",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e021",
+      "source": "pub_brillando_I_tumblr",
+      "target": "story_brillando_en_tacones_I",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e022",
+      "source": "pub_brillando_II_tumblr",
+      "target": "story_brillando_en_tacones_II",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e023",
+      "source": "story_buena_chica_buena_muneca",
+      "target": "char_mario_nancy",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e024",
+      "source": "story_buena_chica_buena_muneca",
+      "target": "char_derek",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e025",
+      "source": "char_derek",
+      "target": "char_mario_nancy",
+      "relation": "dominates_owns",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e026",
+      "source": "story_buena_chica_buena_muneca",
+      "target": "concept_miss_doll",
+      "relation": "uses_concept",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e027",
+      "source": "pub_buena_chica_tumblr",
+      "target": "story_buena_chica_buena_muneca",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e028",
+      "source": "pub_buena_chica_html",
+      "target": "story_buena_chica_buena_muneca",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e029",
+      "source": "story_el_collar_de_nancy",
+      "target": "concept_miss_doll",
+      "relation": "uses_concept",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e030",
+      "source": "pub_el_collar_post",
+      "target": "story_el_collar_de_nancy",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e031",
+      "source": "pub_el_collar_tumblr",
+      "target": "story_el_collar_de_nancy",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e032",
+      "source": "pub_el_collar_substack",
+      "target": "story_el_collar_de_nancy",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e033",
+      "source": "pub_el_collar_html",
+      "target": "story_el_collar_de_nancy",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e034",
+      "source": "story_el_collar_de_nancy",
+      "target": "story_buena_chica_buena_muneca",
+      "relation": "shares_characters_and_opening",
+      "properties": {"note": "Mario/Nancy y Derek comparten escena de apertura idéntica; pueden ser el mismo universo o una variante editorial"},
+      "source_confidence": "INFERRED",
+      "confidence": 0.85
+    },
+    {
+      "id": "e035",
+      "source": "story_el_cuadro_de_fideos",
+      "target": "char_jinx",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e036",
+      "source": "pub_cuadro_fideos_tumblr",
+      "target": "story_el_cuadro_de_fideos",
+      "relation": "published_as",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e037",
+      "source": "story_el_deseo_de_la_cancha",
+      "target": "char_ginny",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e038",
+      "source": "story_el_deseo_de_la_cancha",
+      "target": "char_ignacio_nacho",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e039",
+      "source": "story_el_deseo_de_la_cancha",
+      "target": "char_esteban_stefi",
+      "relation": "features_character",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e040",
+      "source": "story_el_deseo_de_la_cancha",
+      "target": "concept_niebla_dorada",
+      "relation": "uses_concept",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e041",
+      "source": "char_ginny",
+      "target": "char_ignacio_nacho",
+      "relation": "transforms",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e042",
+      "source": "char_ginny",
+      "target": "char_esteban_stefi",
+      "relation": "transforms",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e043",
+      "source": "char_ignacio_nacho",
+      "target": "char_esteban_stefi",
+      "relation": "dominates_then_betrayed_by",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e044",
+      "source": "doc_arco_timeline_cancha",
+      "target": "story_el_deseo_de_la_cancha",
+      "relation": "narrative_plan_for",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e045",
+      "source": "doc_auditoria_cancha",
+      "target": "story_el_deseo_de_la_cancha",
+      "relation": "audits",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e046",
+      "source": "concept_ginny_universe",
+      "target": "char_ginny",
+      "relation": "describes_recurrence_of",
+      "source_confidence": "INFERRED",
+      "confidence": 0.95
+    },
+    {
+      "id": "e047",
+      "source": "concept_ginny_universe",
+      "target": "story_los_deseos_de_ginny",
+      "relation": "spans",
+      "source_confidence": "INFERRED",
+      "confidence": 0.95
+    },
+    {
+      "id": "e048",
+      "source": "concept_ginny_universe",
+      "target": "story_el_deseo_de_la_cancha",
+      "relation": "spans",
+      "source_confidence": "INFERRED",
+      "confidence": 0.95
+    },
+    {
+      "id": "e049",
+      "source": "repo_finalizadas_readme",
+      "target": "story_brillando_en_tacones_I",
+      "relation": "indexes",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e050",
+      "source": "repo_finalizadas_readme",
+      "target": "story_brillando_en_tacones_II",
+      "relation": "indexes",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e051",
+      "source": "repo_finalizadas_readme",
+      "target": "story_buena_chica_buena_muneca",
+      "relation": "indexes",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e052",
+      "source": "repo_finalizadas_readme",
+      "target": "story_el_collar_de_nancy",
+      "relation": "indexes",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e053",
+      "source": "repo_finalizadas_readme",
+      "target": "story_el_cuadro_de_fideos",
+      "relation": "indexes",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "e054",
+      "source": "repo_finalizadas_readme",
+      "target": "story_el_deseo_de_la_cancha",
+      "relation": "indexes",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
     }
   ],
-  "hyperedges": [],
-  "input_tokens": 18000,
-  "output_tokens": 900
+  "hyperedges": [
+    {
+      "id": "he001",
+      "label": "Ginny como agente de transformación dual (LDG + Cancha)",
+      "members": ["char_ginny", "story_los_deseos_de_ginny", "story_el_deseo_de_la_cancha", "concept_niebla_dorada"],
+      "relation": "shared_transformation_agent",
+      "source_confidence": "INFERRED",
+      "confidence": 0.95
+    },
+    {
+      "id": "he002",
+      "label": "Serie Brillando en Tacones — protagonista compartido",
+      "members": ["series_brillando_en_tacones", "story_brillando_en_tacones_I", "story_brillando_en_tacones_II", "char_esteban_steffy"],
+      "relation": "series_with_shared_protagonist",
+      "source_confidence": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "he003",
+      "label": "El Collar de Nancy / Buena Chica — universo compartido Miss Doll",
+      "members": ["story_buena_chica_buena_muneca", "story_el_collar_de_nancy", "char_mario_nancy", "char_derek", "concept_miss_doll"],
+      "relation": "shared_universe_or_variant",
+      "source_confidence": "INFERRED",
+      "confidence": 0.85
+    }
+  ],
+  "input_tokens": 6800,
+  "output_tokens": 2100
 }

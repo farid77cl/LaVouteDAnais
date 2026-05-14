@@ -1,0 +1,1130 @@
+{
+  "nodes": [
+    {
+      "id": "story_eres_hombres_II",
+      "label": "Eres de los hombres que... II: Los Perdedores",
+      "type": "story",
+      "properties": {
+        "author": "Anaïs Belland",
+        "word_count": 12000,
+        "perspective": "Tercera Persona",
+        "intensity": "Extrema",
+        "themes": ["Bimbofication", "Himbofication", "Feminization", "GymBunny", "MindControl", "Transformation", "Cuckold"],
+        "tags": ["#MissDoll", "#bimbofication", "#himbofication", "#feminization", "#transformation", "#mindcontrol"],
+        "status": "Finalizada",
+        "file": "03_Literatura/02_Finalizadas/eres_de_los_hombres_que_II/eres_de_los_hombres_que_II_completo.md",
+        "publication_platform": "Tumblr",
+        "tumblr_parts": 5
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "story_esposa_de_mi_esposa_I",
+      "label": "Esposa de mi Esposa I",
+      "type": "story",
+      "properties": {
+        "author": "Anaïs Belland",
+        "themes": ["BodySwap", "ForcedFeminization", "MindControl", "Transformation"],
+        "status": "Finalizada",
+        "file": "03_Literatura/02_Finalizadas/esposa_de_mi_esposa/esposa_de_mi_esposa_completo.md",
+        "setting": "Gothic church wedding ceremony",
+        "trigger_event": "Involuntary body swap at the altar during the wedding kiss"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "story_esposa_de_mi_esposa_II",
+      "label": "Esposa de mi Esposa II",
+      "type": "story",
+      "properties": {
+        "author": "Anaïs Belland",
+        "word_count": 17329,
+        "perspective": "Tercera Persona (focalización en Marco)",
+        "intensity": "Extrema",
+        "themes": ["BodySwap", "ForcedFeminization", "Femdom", "TrophyWife", "Humiliation", "Piercings", "Submission", "LoveInD/s"],
+        "status": "Finalizada",
+        "file": "03_Literatura/02_Finalizadas/esposa_de_mi_esposa_II/esposa_de_mi_esposa_II_completo.md",
+        "publication_platform": "Tumblr",
+        "tumblr_parts": 6,
+        "setting": "Honeymoon resort (Punta Cana, Bali)",
+        "time_skip": "One month after body swap"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "story_ginny_genio_bimbo",
+      "label": "Ginny la Genio Bimbo",
+      "type": "story",
+      "properties": {
+        "author": "Anaïs Belland",
+        "themes": ["Bimbofication", "MtF", "Transformation", "WishGrant", "MindControl"],
+        "status": "Finalizada",
+        "file": "03_Literatura/02_Finalizadas/ginny_la_genio_bimbo/Ginny_la_Genio_Bimbo.md",
+        "setting": "Office Halloween party",
+        "trigger_event": "Protagonist rubs antique brass lamp, releases Ginny"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "story_gloss_trance_miss_doll_I",
+      "label": "Gloss: El Trance de Miss Doll I",
+      "type": "story",
+      "properties": {
+        "author": "Anaïs Belland",
+        "themes": ["Hypnosis", "Bimbofication", "MindControl", "Feminization", "MissDoll"],
+        "status": "Finalizada",
+        "file": "03_Literatura/02_Finalizadas/gloss_trance_miss_doll/Gloss_El_Trance_de_Miss_Doll.md",
+        "format": "Second-person hypnotic script / interactive narrative",
+        "publication_platform": "Tumblr",
+        "trigger_word": "gloss",
+        "setting": "Dark interrogation-style room with single overhead light"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "story_gloss_trance_miss_doll_II",
+      "label": "Gloss: El Trance de Miss Doll II",
+      "type": "story",
+      "properties": {
+        "author": "Anaïs Belland",
+        "themes": ["Hypnosis", "Bimbofication", "MindControl", "Feminization", "MissDoll", "Chastity", "Piercings"],
+        "status": "Finalizada",
+        "file": "03_Literatura/02_Finalizadas/gloss_trance_miss_doll_II/Gloss_El_Trance_de_Miss_Doll_II.md",
+        "format": "Second-person hypnotic script / interactive narrative",
+        "publication_platform": "Tumblr",
+        "trigger_word": "gloss",
+        "setting": "Same dark room — return visit / deepening session",
+        "new_elements": ["chastity cage motif", "nipple piercings motif", "microtriggers: 'mírame', 'ríndete', 'di gloss'"]
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "story_hr_human_repurposing",
+      "label": "HR: Human Repurposing",
+      "type": "story",
+      "properties": {
+        "author": "Anaïs Belland",
+        "word_count": 21000,
+        "perspective": "Tercera persona (focalización en Daniel/Dahlia)",
+        "intensity": "Extrema",
+        "themes": ["Feminization", "MindControl", "CorporateHorror", "Transformation", "Femdom"],
+        "status": "Finalizada",
+        "file": "03_Literatura/02_Finalizadas/hr_human_repurposing/hr_human_repurposing_completo.md",
+        "chapters": ["Cap 1: La Marca", "Cap 2: El Proceso", "Cap 3: Dahlia", "Cap 4: La Propiedad", "Epílogo: El Ciclo"],
+        "corporation": "NEXUM Corp",
+        "ai_system": "AURA"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_miss_doll",
+      "label": "Miss Doll",
+      "type": "character",
+      "properties": {
+        "role": "Dominatrix / Hypnotist / Transformation agent",
+        "appearance": "Latex (pink or black), platinum blonde hair, blood-red lips, impossible curves",
+        "abilities": ["Mind control", "Physical transformation", "Reality rewriting", "Hypnotic voice", "Bimbofication", "Himbofication"],
+        "perfume": "Sweet vanilla and smoke — dense, enveloping",
+        "base_of_operations": "Hotel Marquis, Suite 1407",
+        "recurring": true,
+        "author_identity": "Anaïs Belland (implied narrator persona in hypnotic stories)",
+        "narrative_mode": ["Third-person antagonist/transformer", "Second-person hypnotic voice (first-person plural)"]
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_marcos",
+      "label": "Marcos",
+      "type": "character",
+      "properties": {
+        "story": "Eres de los hombres que II",
+        "initial_description": "Thin, scrawny, socially invisible college student",
+        "transformation": "Feminization — bimbo (copa D, vagina, gym body paradox)",
+        "post_name": "Marcy (inferred from Tumblr index: 'Marcy se feminiza')",
+        "desire": "To be popular like fratboys",
+        "chooses_to_remember": true
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_daniel_eres_II",
+      "label": "Daniel (Eres de los hombres que II)",
+      "type": "character",
+      "properties": {
+        "story": "Eres de los hombres que II",
+        "initial_description": "Overweight, socially invisible college student",
+        "transformation": "Himbofication — gym bro / himbo, small dick humiliation",
+        "desire": "To be like fratboys",
+        "chooses_to_remember": true,
+        "tragic_arc": "Trapped in perfect body with mind unable to process pain"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_marco_esposa",
+      "label": "Marco (Esposa de mi Esposa)",
+      "type": "character",
+      "properties": {
+        "story": "Esposa de mi Esposa I & II",
+        "initial_description": "Dominant, narcissistic groom who sees wife as trophy",
+        "post_swap_role": "Occupies Elena's body — trophy wife, submissive, feminized",
+        "transformation_type": "Body swap (involuntary, at wedding altar)",
+        "arc": "Trophy-husband mindset forced into trophy-wife body — submission through D/s",
+        "piercings": ["clitoris piercing (gifted by Elena pre-wedding)"]
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_elena_esposa",
+      "label": "Elena (Esposa de mi Esposa)",
+      "type": "character",
+      "properties": {
+        "story": "Esposa de mi Esposa I & II",
+        "initial_description": "Desirable bride, originally submissive to Marco's obsessive pursuit",
+        "post_swap_role": "Occupies Marco's body — dominant, authoritative, instructor",
+        "arc": "Victim-bride becomes dominant husband figure, teaches Marco womanhood through force",
+        "motivations": "Does not want to undo the swap; seizes power"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_ginny",
+      "label": "Ginny",
+      "type": "character",
+      "properties": {
+        "story": "Ginny la Genio Bimbo",
+        "role": "Bimbo genie — wish-granting entity",
+        "appearance": "Vinyl pink top, impossible curves, enormous breasts, long sharp nails, very high heels, glossy lips, candy floss voice",
+        "personality": "Ditzy, gleeful, without empathy, trickster",
+        "magic": "Grants wishes with malicious/literal interpretation; transformations are permanent, no refunds",
+        "perfume": "Intense vanilla",
+        "catchphrase": "Ji, ji!"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_julian_vera",
+      "label": "Julián Vera",
+      "type": "character",
+      "properties": {
+        "story": "Ginny la Genio Bimbo",
+        "initial_description": "52-year-old invisible accountant at Halloween office party",
+        "wish": "A body nobody can ignore",
+        "transformation": "MtF bimbofication — bimbo body, heterosexual desire reorientation toward men",
+        "arc": "Three wishes: bimbo body → no return → fear removed (replaced by desire)",
+        "tragic_element": "Masculine mind trapped watching bimbo body take control"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_daniel_hr",
+      "label": "Daniel Park / Dahlia (HR: Human Repurposing)",
+      "type": "character",
+      "properties": {
+        "story": "HR: Human Repurposing",
+        "initial_role": "Senior Analyst, NEXUM Corp, code DP-4412, Masters in Statistics",
+        "transformation_target": "Dahlia — corporate decorative asset / feminized HR resource",
+        "process": "Gaslighting via environment (pink rooms, chemical air, subliminal conditioning, physical modification during sleep)",
+        "ai_handler": "AURA",
+        "fellow_inmate": "Crystal (formerly Christopher from accounting — already transformed)",
+        "assigned_number": "744"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "char_crystal_hr",
+      "label": "Crystal (HR: Human Repurposing)",
+      "type": "character",
+      "properties": {
+        "story": "HR: Human Repurposing",
+        "original_identity": "Christopher from accounting",
+        "current_role": "Transformed decorative HR asset — guide/model for Daniel",
+        "description": "Impossible curves, porcelain skin, strawberry-wet lips, white heels, vanilla-plastic scent"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "entity_nexum_corp",
+      "label": "NEXUM Corp",
+      "type": "fictional_institution",
+      "properties": {
+        "story": "HR: Human Repurposing",
+        "genre": "Corporate horror sci-fi",
+        "department": "HR (Human Repurposing)",
+        "manual": "Manual del Empleado NEXUM — internal indoctrination document",
+        "ai": "AURA — ambient AI system managing transformation cells",
+        "process": "Forced feminization of male employees through sensory manipulation, chemical conditioning, sleep modification, holographic training"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "entity_aura_ai",
+      "label": "AURA",
+      "type": "fictional_ai",
+      "properties": {
+        "story": "HR: Human Repurposing",
+        "role": "Ambient AI managing the feminization cells at NEXUM Corp",
+        "voice": "Smooth, maternal, implacable — contrasts with hesitant version on Floor 47",
+        "capabilities": ["Cortisol monitoring", "Air enrichment (lavender, chemical compounds)", "Behavioral conditioning", "Holographic instructors"]
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_gloss_trance",
+      "label": "Gloss Trance",
+      "type": "theme_mechanic",
+      "properties": {
+        "description": "Hypnotic feminization mechanism where the word 'gloss' acts as a trigger deepening the trance",
+        "mechanism": "Breathing exercises combined with verbal triggers, identity erasure, bimbo mantras",
+        "trigger_word": "gloss",
+        "effects": ["Masculine identity dissolution", "Bimbo persona installation", "Chastity desire implant", "Body dysphoria inversion"],
+        "narrative_format": "Second-person immersive script addressed directly to reader",
+        "contact": "anais.belland@outlook.com (Miss Doll solicits confessions from affected readers)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_body_swap",
+      "label": "Body Swap (Circuito de Traición)",
+      "type": "theme_mechanic",
+      "properties": {
+        "description": "Involuntary consciousness transfer between bodies — key recurring MtF mechanism in the universe",
+        "canon_rule": "Panic and disorientation FIRST, body sensations second — never clinical acceptance from line one",
+        "featured_stories": ["Esposa de mi Esposa I", "Esposa de mi Esposa II"],
+        "sensory_detail": "New body sensations described as 'betrayal circuit' — body responds despite mental resistance",
+        "trigger": "Unknown magical force at wedding altar (Esposa I); permanent in Esposa II"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_bimbofication",
+      "label": "Bimbofication",
+      "type": "theme_mechanic",
+      "properties": {
+        "description": "Transformation into hypersexualized bimbo archetype — physical and mental",
+        "physical_markers": ["Enormous false breasts", "Impossible waist", "High heels (structural)", "Long sharp nails", "Glossy lips", "Porcelain skin"],
+        "mental_markers": ["Empty mind / vacío", "Submission to dominant figure", "Heterosexual desire reorientation", "Loss of rational thought"],
+        "featured_stories": ["Gloss I", "Gloss II", "Ginny la Genio Bimbo", "Eres de los hombres que II (Marcos/Marcy)", "HR: Human Repurposing (Dahlia)"]
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_corporate_horror",
+      "label": "Corporate Horror / Forced Feminization Sci-Fi",
+      "type": "theme_mechanic",
+      "properties": {
+        "description": "Sci-fi setting where corporate bureaucracy systematically feminizes male employees",
+        "featured_story": "HR: Human Repurposing",
+        "techniques": ["Chemical conditioning via air/food", "Sleep-state physical modification", "Holographic behavioral training", "Sensory deprivation / disorientation", "Gaslighting via AI"]
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_mindcontrol_transformation",
+      "label": "Mind Control / Conditional Transformation",
+      "type": "theme_mechanic",
+      "properties": {
+        "description": "Transformation driven by voluntary wish or hypnotic conditioning with irrevocable consequences",
+        "variants": ["Wish-granting (Ginny)", "Hypnotic script (Miss Doll / Gloss)", "Reality rewriting (Miss Doll / Eres II)", "Chemical conditioning (NEXUM/HR)"],
+        "irrevocability_rule": "Transformations are always permanent — no returns, no undo",
+        "memory_choice": "In Eres II, subjects choose to retain original memories — presented as gift/curse"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_himbofication",
+      "label": "Himbofication",
+      "type": "theme_mechanic",
+      "properties": {
+        "description": "Male-to-male transformation into gym bro / himbo archetype — muscle, low intelligence, bro-speak",
+        "featured_story": "Eres de los hombres que II (Daniel)",
+        "mechanics": "Mind rewriting via Miss Doll hypnosis (verbal imprinting: 'eres de los hombres que...')"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "publisher_anais_belland",
+      "label": "Anaïs Belland",
+      "type": "author_persona",
+      "properties": {
+        "role": "Pen name / author persona for all stories in this chunk",
+        "contact": "anais.belland@outlook.com",
+        "style_signature": "Dis-moi tes secrets les plus sombres / Avec dévotion obscure",
+        "platforms": ["Tumblr"],
+        "languages": "Spanish (Chilean dialect)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "file_eres_II_tumblr_parte1",
+      "label": "eres_hombres_II_tumblr_parte1.md",
+      "type": "publication_file",
+      "properties": {
+        "platform": "Tumblr",
+        "part": 1,
+        "title": "Los Perdedores",
+        "parent_story": "Eres de los hombres que II"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "file_eres_II_html",
+      "label": "eres_hombres_II.html",
+      "type": "publication_file",
+      "properties": {
+        "format": "HTML",
+        "parent_story": "Eres de los hombres que II"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "file_hr_cap1",
+      "label": "hr_cap1_la_marca.html",
+      "type": "publication_file",
+      "properties": {
+        "chapter": 1,
+        "title": "La Marca",
+        "parent_story": "HR: Human Repurposing"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "file_hr_cap2",
+      "label": "hr_cap2_el_proceso.html",
+      "type": "publication_file",
+      "properties": {
+        "chapter": 2,
+        "title": "El Proceso",
+        "parent_story": "HR: Human Repurposing"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "file_hr_cap3",
+      "label": "hr_cap3_dahlia.html",
+      "type": "publication_file",
+      "properties": {
+        "chapter": 3,
+        "title": "Dahlia",
+        "parent_story": "HR: Human Repurposing",
+        "note": "Chapter named after the transformed identity of the protagonist"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "file_hr_cap4",
+      "label": "hr_cap4_la_propiedad.html",
+      "type": "publication_file",
+      "properties": {
+        "chapter": 4,
+        "title": "La Propiedad",
+        "parent_story": "HR: Human Repurposing"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "file_hr_epilogo",
+      "label": "hr_epilogo_el_ciclo.html",
+      "type": "publication_file",
+      "properties": {
+        "chapter": "Epílogo",
+        "title": "El Ciclo",
+        "parent_story": "HR: Human Repurposing",
+        "note": "Title implies cyclical/systemic nature of NEXUM's repurposing"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "motif_pink_room",
+      "label": "Pink / Rose Environment as Control Device",
+      "type": "recurring_motif",
+      "properties": {
+        "description": "Pink-colored spaces (rooms, suite decor, light) signal transformation zones and loss of autonomy",
+        "appearances": ["HR: Human Repurposing (NEXUM cells — melocotón/rosa/salmón, curved walls)", "Eres II (Suite 1407 — electric pink, everything pink)", "Ginny la Genio Bimbo (pink smoke from lamp)", "Gloss I/II (descending pink staircase in hypnosis)"],
+        "symbolic_function": "Pink = domain of Miss Doll / transformation / submission / bimbo identity"
+      },
+      "source": "INFERRED",
+      "confidence": 0.95
+    },
+    {
+      "id": "motif_vanilla_perfume",
+      "label": "Vanilla Scent as Hypnotic / Control Signal",
+      "type": "recurring_motif",
+      "properties": {
+        "description": "Vanilla or sweet perfume marks spaces of control and characters who wield transformation power",
+        "appearances": ["Miss Doll perfume (Eres II)", "Ginny perfume (Ginny la Genio Bimbo)", "NEXUM chemical air (HR)", "Gloss trance atmosphere"],
+        "symbolic_function": "Sweet scent = disarming, seductive control — precedes submission"
+      },
+      "source": "INFERRED",
+      "confidence": 0.95
+    },
+    {
+      "id": "motif_irrevocable_transformation",
+      "label": "Irrevocable Transformation / No Return",
+      "type": "recurring_motif",
+      "properties": {
+        "description": "All transformations in this chunk are explicitly permanent and irreversible",
+        "examples": ["Miss Doll: 'Es una decisión irrevocable'", "Ginny: 'Las devoluciones no existen'", "Gloss: 'no hay marcha atrás'", "HR: gradual permanent conditioning"],
+        "narrative_function": "Establishes stakes, generates tragedy and dark eroticism simultaneously"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "motif_body_betrayal",
+      "label": "Circuito de Traición / Body Betrayal",
+      "type": "recurring_motif",
+      "properties": {
+        "description": "New body responds erotically despite conscious resistance of original mind — key sensory mechanism",
+        "appearances": ["Esposa I (Marco's female body aroused despite male mind horror)", "Esposa II (continued bodily submission)", "Ginny (Julián's body seeks male touch)", "HR (Daniel's body accepts conditioning against his will)"],
+        "canon_note": "Documented in memory as 'circuito de traición' — body discovered from inside out"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "story_esposa_de_mi_esposa_II",
+      "target": "story_esposa_de_mi_esposa_I",
+      "relation": "sequel_of",
+      "properties": {
+        "note": "Continues immediately after the body swap wedding, set one month later on honeymoon"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_gloss_trance_miss_doll_II",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "sequel_of",
+      "properties": {
+        "note": "Explicitly references return visit — 'sabes que nunca fuiste libre', deepens the trance from Part I"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "appears_in",
+      "properties": {
+        "role": "Protagonist hypnotist / narrator"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "story_gloss_trance_miss_doll_II",
+      "relation": "appears_in",
+      "properties": {
+        "role": "Protagonist hypnotist / narrator — second session"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "story_eres_hombres_II",
+      "relation": "appears_in",
+      "properties": {
+        "role": "Transformation agent — receives Marcos and Daniel, performs bimbo/himbo transformations",
+        "location": "Hotel Marquis, Suite 1407"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_marcos",
+      "target": "story_eres_hombres_II",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_daniel_eres_II",
+      "target": "story_eres_hombres_II",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "char_marcos",
+      "relation": "transforms",
+      "properties": {
+        "transformation_type": "Feminization / bimbofication",
+        "result": "Marcy — bimbo with D-cup breasts, vagina, gym body"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "char_daniel_eres_II",
+      "relation": "transforms",
+      "properties": {
+        "transformation_type": "Himbofication — gym bro / small dick humiliation",
+        "method": "Verbal hypnotic imprinting ('eres de los hombres que...')"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_marco_esposa",
+      "target": "story_esposa_de_mi_esposa_I",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_elena_esposa",
+      "target": "story_esposa_de_mi_esposa_I",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_marco_esposa",
+      "target": "story_esposa_de_mi_esposa_II",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_elena_esposa",
+      "target": "story_esposa_de_mi_esposa_II",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_elena_esposa",
+      "target": "char_marco_esposa",
+      "relation": "dominates",
+      "properties": {
+        "context": "Post-swap: Elena in Marco's body becomes dominant instructor and sexual domme"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_ginny",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_julian_vera",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_ginny",
+      "target": "char_julian_vera",
+      "relation": "transforms",
+      "properties": {
+        "wish_granted": "A body nobody can ignore",
+        "result": "MtF bimbofication — bimbo body with heterosexual male desire reorientation",
+        "third_wish": "Remove fear — replaced with desire"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_daniel_hr",
+      "target": "story_hr_human_repurposing",
+      "relation": "protagonist_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "entity_nexum_corp",
+      "target": "story_hr_human_repurposing",
+      "relation": "setting_of",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "entity_aura_ai",
+      "target": "story_hr_human_repurposing",
+      "relation": "appears_in",
+      "properties": {
+        "role": "AI handler for Daniel Park's conditioning cell"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "entity_nexum_corp",
+      "target": "char_daniel_hr",
+      "relation": "transforms",
+      "properties": {
+        "method": "Forced corporate repurposing — chemical/environmental conditioning",
+        "target_identity": "Dahlia"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_crystal_hr",
+      "target": "story_hr_human_repurposing",
+      "relation": "appears_in",
+      "properties": {
+        "role": "Already-transformed guide figure for Daniel"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_gloss_trance",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_gloss_trance",
+      "target": "story_gloss_trance_miss_doll_II",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_body_swap",
+      "target": "story_esposa_de_mi_esposa_I",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_body_swap",
+      "target": "story_esposa_de_mi_esposa_II",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_bimbofication",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_bimbofication",
+      "target": "story_gloss_trance_miss_doll_II",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_bimbofication",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_bimbofication",
+      "target": "story_eres_hombres_II",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_bimbofication",
+      "target": "story_hr_human_repurposing",
+      "relation": "featured_in",
+      "source_type": "INFERRED",
+      "confidence": 0.85
+    },
+    {
+      "source": "theme_himbofication",
+      "target": "story_eres_hombres_II",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_corporate_horror",
+      "target": "story_hr_human_repurposing",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_mindcontrol_transformation",
+      "target": "story_eres_hombres_II",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_mindcontrol_transformation",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_mindcontrol_transformation",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_mindcontrol_transformation",
+      "target": "story_hr_human_repurposing",
+      "relation": "featured_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_pink_room",
+      "target": "story_hr_human_repurposing",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_pink_room",
+      "target": "story_eres_hombres_II",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_pink_room",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_pink_room",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_vanilla_perfume",
+      "target": "char_miss_doll",
+      "relation": "characterizes",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_vanilla_perfume",
+      "target": "char_ginny",
+      "relation": "characterizes",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_vanilla_perfume",
+      "target": "entity_nexum_corp",
+      "relation": "characterizes",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_irrevocable_transformation",
+      "target": "story_eres_hombres_II",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_irrevocable_transformation",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_irrevocable_transformation",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_irrevocable_transformation",
+      "target": "story_gloss_trance_miss_doll_II",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_body_betrayal",
+      "target": "story_esposa_de_mi_esposa_I",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_body_betrayal",
+      "target": "story_esposa_de_mi_esposa_II",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_body_betrayal",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "motif_body_betrayal",
+      "target": "story_hr_human_repurposing",
+      "relation": "appears_in",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "publisher_anais_belland",
+      "target": "story_eres_hombres_II",
+      "relation": "authored",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "publisher_anais_belland",
+      "target": "story_esposa_de_mi_esposa_I",
+      "relation": "authored",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "publisher_anais_belland",
+      "target": "story_esposa_de_mi_esposa_II",
+      "relation": "authored",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "publisher_anais_belland",
+      "target": "story_ginny_genio_bimbo",
+      "relation": "authored",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "publisher_anais_belland",
+      "target": "story_gloss_trance_miss_doll_I",
+      "relation": "authored",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "publisher_anais_belland",
+      "target": "story_gloss_trance_miss_doll_II",
+      "relation": "authored",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "publisher_anais_belland",
+      "target": "story_hr_human_repurposing",
+      "relation": "authored",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "publisher_anais_belland",
+      "relation": "alter_ego_of",
+      "properties": {
+        "note": "Miss Doll functions as the dominant persona/mask of Anaïs Belland in hypnotic second-person stories; reader confessions are directed to anais.belland@outlook.com"
+      },
+      "source_type": "INFERRED",
+      "confidence": 0.85
+    },
+    {
+      "source": "file_eres_II_tumblr_parte1",
+      "target": "story_eres_hombres_II",
+      "relation": "publication_of",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "file_eres_II_html",
+      "target": "story_eres_hombres_II",
+      "relation": "publication_of",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "file_hr_cap1",
+      "target": "story_hr_human_repurposing",
+      "relation": "chapter_of",
+      "properties": {"chapter_number": 1},
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "file_hr_cap2",
+      "target": "story_hr_human_repurposing",
+      "relation": "chapter_of",
+      "properties": {"chapter_number": 2},
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "file_hr_cap3",
+      "target": "story_hr_human_repurposing",
+      "relation": "chapter_of",
+      "properties": {"chapter_number": 3},
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "file_hr_cap4",
+      "target": "story_hr_human_repurposing",
+      "relation": "chapter_of",
+      "properties": {"chapter_number": 4},
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "file_hr_epilogo",
+      "target": "story_hr_human_repurposing",
+      "relation": "chapter_of",
+      "properties": {"chapter_number": "epilogo"},
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "entity_aura_ai",
+      "target": "entity_nexum_corp",
+      "relation": "owned_by",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_crystal_hr",
+      "target": "char_daniel_hr",
+      "relation": "precedes_in_transformation",
+      "properties": {
+        "note": "Crystal (formerly Christopher) is already transformed and serves as model/guide for Daniel's process"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "theme_gloss_trance",
+      "relation": "employs",
+      "properties": {
+        "note": "The Gloss trance is Miss Doll's signature hypnotic technique"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_gloss_trance",
+      "target": "theme_bimbofication",
+      "relation": "produces",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "theme_gloss_trance",
+      "target": "theme_mindcontrol_transformation",
+      "relation": "is_variant_of",
+      "source_type": "INFERRED",
+      "confidence": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_miss_doll_universe",
+      "label": "Miss Doll Cross-Story Network",
+      "members": ["char_miss_doll", "story_gloss_trance_miss_doll_I", "story_gloss_trance_miss_doll_II", "story_eres_hombres_II"],
+      "relation": "shared_character_across_stories",
+      "properties": {
+        "note": "Miss Doll is the only character who appears across multiple distinct stories as the active transformation agent. Her appearance signals irrevocable change."
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "hyper_bimbo_cluster",
+      "label": "Bimbofication Theme Cluster",
+      "members": ["theme_bimbofication", "story_gloss_trance_miss_doll_I", "story_gloss_trance_miss_doll_II", "story_ginny_genio_bimbo", "story_eres_hombres_II", "story_hr_human_repurposing", "char_miss_doll", "char_ginny"],
+      "relation": "thematic_cluster",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "hyper_body_swap_series",
+      "label": "Esposa de mi Esposa Series",
+      "members": ["story_esposa_de_mi_esposa_I", "story_esposa_de_mi_esposa_II", "char_marco_esposa", "char_elena_esposa", "theme_body_swap", "motif_body_betrayal"],
+      "relation": "narrative_series",
+      "properties": {
+        "note": "Continuous narrative across two volumes about involuntary body swap and power reversal in marriage"
+      },
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "hyper_gloss_series",
+      "label": "Gloss / Miss Doll Hypnosis Series",
+      "members": ["story_gloss_trance_miss_doll_I", "story_gloss_trance_miss_doll_II", "char_miss_doll", "theme_gloss_trance"],
+      "relation": "narrative_series",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "hyper_irrevocability_cluster",
+      "label": "Irrevocable Transformation Stories",
+      "members": ["story_eres_hombres_II", "story_ginny_genio_bimbo", "story_gloss_trance_miss_doll_I", "story_gloss_trance_miss_doll_II", "story_hr_human_repurposing", "motif_irrevocable_transformation"],
+      "relation": "thematic_cluster",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    }
+  ],
+  "input_tokens": 8500,
+  "output_tokens": 2800
+}

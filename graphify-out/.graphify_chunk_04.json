@@ -1,0 +1,1442 @@
+{
+  "nodes": [
+    {
+      "id": "char_matias",
+      "label": "Matías",
+      "type": "character",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "protagonista — narrador principal",
+        "project": "La Piel que Diseño",
+        "age": "~35 años",
+        "class": "alta o alta-media",
+        "occupation_pre": "profesión de autoridad",
+        "phase_pre": "Pre-Día 0: él mismo",
+        "phase_post": "Post-Día 0: habita el cuerpo de Daniela",
+        "psychology": "no se percibe como controlador; opera con sugerencias, elogios condicionales y preguntas que no admiten negativa real",
+        "body_post": "1000cc por lado (tercera cirugía), pezones perforados Día 1, uñas XXXL, pelo rubio largo, maquillaje canon, stilettos",
+        "nickname_from_daniela": "Dani",
+        "narration_formula": "SENSACIÓN → EMOCIÓN → REACCIÓN",
+        "arc_stages": ["INDIGNACIÓN", "GRIETA", "RACIONALIZACIÓN", "TRAICIÓN", "RENDICIÓN"],
+        "dialogue_style": "cursiva, fragmentado, sin comillas, frases que se cortan",
+        "racconto_trigger": "detonado por el cuerpo, no por voluntad"
+      }
+    },
+    {
+      "id": "char_daniela",
+      "label": "Daniela",
+      "type": "character",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "antagonista/dominante post-Día 0",
+        "project": "La Piel que Diseño",
+        "body_post": "habita el cuerpo de Matías",
+        "verbal_style": "oraciones de 1-4 palabras, sin calidez, sin preguntas reales",
+        "key_phrases": ["Para.", "Date vuelta.", "Bien.", "Dani", "Habrías", "El cuerpo sabe."],
+        "canonical_rule": "nunca pierde la calma ni eleva el tono; usa las frases exactas del repertorio verbal de Matías sobre él"
+      }
+    },
+    {
+      "id": "story_lpqd",
+      "label": "La Piel que Diseño",
+      "type": "story",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "genre": "body swap, erótica MtF, horror psicológico",
+        "setting": "Santiago de Chile (Las Condes, Providencia)",
+        "theme": "circuito de traición, cuerpo descubierto desde adentro",
+        "language": "español chileno"
+      }
+    },
+    {
+      "id": "chapter_01_lpqd",
+      "label": "Capítulo 1 — El Primer Día / La Piel",
+      "type": "chapter",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "La Piel que Diseño",
+        "chapter_number": 1,
+        "arc_stage": "PÁNICO → INDIGNACIÓN → primera GRIETA",
+        "erotic_temperature": "Baja-Media (tensión corporal, proto-erotismo)",
+        "versions_audited": ["v0.1", "v0.2", "v0.3", "v0.3_new", "v0.4", "v0.5"],
+        "final_approved_version": "v0.5",
+        "word_count_range": "3627–5530",
+        "commitments_count": "13–14",
+        "hook_final": "¿Verdad?"
+      }
+    },
+    {
+      "id": "chapter_02_lpqd",
+      "label": "Capítulo 2 — El Escenario",
+      "type": "chapter",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "La Piel que Diseño",
+        "chapter_number": 2,
+        "arc_stage": "TRAICIÓN DEL CUERPO plena → inicio de ACEPTACIÓN",
+        "erotic_temperature_avg": "3.3 / 5",
+        "versions_audited": ["v1.1", "v1.2", "v1.3"],
+        "final_approved_version": "v1.3 → Maestro v1",
+        "word_count": "~3818–4009",
+        "setting_key": "club de striptease, pole, privado",
+        "hook_final": "El sábado. No por el contrato.",
+        "secondary_characters": ["Nacho", "Sebastián Mura", "saco gris"]
+      }
+    },
+    {
+      "id": "agent_critico",
+      "label": "Agente Crítico (Guardián del Relato)",
+      "type": "audit_agent",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "also_known_as": "El Guardián",
+        "output_type": "Sentencia del Guardián",
+        "evaluation_dimensions": ["D1 Red Narrativa/Causalidad", "D2 Jerarquía Sensorial", "D3 Curva Psicológica", "D4 Localización y Voz", "D5 Beats Post-Ritual", "D6 Temperatura Uniforme (v0.5 only)"],
+        "score_scale": "0-10",
+        "verdicts": ["ADMITIDO BAJO CIRUGÍA", "ADMITIDO CON OBSERVACIONES", "APROBADO CON EXCELENCIA"],
+        "output_key": "instrucciones quirúrgicas",
+        "json_result_key": "CRITICO_RESULT"
+      }
+    },
+    {
+      "id": "agent_centinela",
+      "label": "Agente Centinela (Guardián del Arco)",
+      "type": "audit_agent",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "focus": "arc continuity, timeline coherence, character consistency, vocabulary drift",
+        "protocol": "COMPROMISOS primero — si hay fallo en compromisos, bloqueo inmediato",
+        "output_type": "Reporte del Centinela",
+        "verdicts": ["APROBADO", "APROBADO CONDICIONAL"]
+      }
+    },
+    {
+      "id": "agent_termometro",
+      "label": "Agente Termómetro",
+      "type": "audit_agent",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "focus": "erotic temperature curve vs planned map, key scenes delivery, post-ritual beats, prohibited anticipations",
+        "temperature_scale": "1–5",
+        "reference_document": "mapa_erotico_cap2_v1.md",
+        "output_type": "Reporte Termómetro",
+        "verdict_style": "TEMPERATURA EN RANGO / desviación ±"
+      }
+    },
+    {
+      "id": "agent_contador",
+      "label": "Agente Contador",
+      "type": "audit_agent",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "focus": "word count, format compliance, language errors, commitment checklist",
+        "minimum_words": 3000,
+        "output_type": "Reporte de Verificación",
+        "json_result_key": "CONTADOR_RESULT"
+      }
+    },
+    {
+      "id": "report_critica_v0.1",
+      "label": "Crítica Cap 1 v0.1",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_la_piel_v0.1.md",
+        "verdict": "ADMITIDO CON OBSERVACIONES",
+        "score": 9.0,
+        "d1": 2, "d2": 2, "d3": 2, "d4": 2, "d5": 1,
+        "surgeries": 3,
+        "main_flaw": "monotonía acumulativa — cinco racconto generan el mismo residuo emocional",
+        "file": "reportes/capitulo_01/critica_v0.1.md"
+      }
+    },
+    {
+      "id": "report_critica_v0.2",
+      "label": "Crítica Cap 1 v0.2",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_la_piel_v0.2.md",
+        "verdict": "APROBADO CON EXCELENCIA",
+        "score": 9.5,
+        "d1": 2, "d2": 2, "d3": 2, "d4": 2, "d5": 2,
+        "surgeries": 0,
+        "word_count": 3835,
+        "file": "reportes/capitulo_01/critica_v0.2.md"
+      }
+    },
+    {
+      "id": "report_critica_v0.3",
+      "label": "Crítica Cap 1 v0.3 (El Primer Día)",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.3.md",
+        "verdict": "APROBADO CON EXCELENCIA",
+        "score": 9.6,
+        "d1": 2, "d2": 2, "d3": 2, "d4": 2, "d5": 2,
+        "surgeries": 0,
+        "word_count": "~4850",
+        "loop_history": "v0.1 → 7.0 (5 cirugías) → v0.2 → 8.2 (2 cirugías) → v0.3 → 9.6 (EXCELENCIA)",
+        "date": "2026-04-29",
+        "file": "reportes/capitulo_01/critica_v0.3.md"
+      }
+    },
+    {
+      "id": "report_critica_v0.3_new",
+      "label": "Crítica Cap 1 v0.3_new (La piel)",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_la_piel_v0.3.md",
+        "verdict": "ADMITIDO CON OBSERVACIONES",
+        "score": 9.1,
+        "d1": 2, "d2": 2, "d3": 2, "d4": 1, "d5": 2,
+        "surgeries": 3,
+        "d4_flaw": "léxico cotidiano granular escaso",
+        "word_count": "~4100",
+        "file": "reportes/capitulo_01/critica_v0.3_new.md"
+      }
+    },
+    {
+      "id": "report_critica_v0.4",
+      "label": "Crítica Cap 1 v0.4 (La piel)",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_la_piel_v0.4.md",
+        "verdict": "APROBADO CON EXCELENCIA",
+        "score": 9.6,
+        "d1": 2, "d2": 2, "d3": 2, "d4": 2, "d5": 2,
+        "surgeries": 0,
+        "word_count": "~4350",
+        "file": "reportes/capitulo_01/critica_v0.4.md"
+      }
+    },
+    {
+      "id": "report_critica_v0.5",
+      "label": "Crítica Cap 1 v0.5 (El Primer Día)",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.5.md",
+        "verdict": "ADMITIDO CON OBSERVACIONES",
+        "score": 9.2,
+        "d1": 1, "d2": 2, "d3": 2, "d4": 2, "d5": 2, "d6": 2,
+        "surgeries": 2,
+        "d1_flaw": "racconto corrección de técnica (C8) ausente",
+        "word_count": "~4490",
+        "date": "2026-05-01",
+        "file": "reportes/capitulo_01/critica_v0.5.md"
+      }
+    },
+    {
+      "id": "report_sentencia_v0.1",
+      "label": "Sentencia Crítico Cap 1 v0.1",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.1.md",
+        "verdict": "ADMITIDO BAJO CIRUGÍA",
+        "score": 7.7,
+        "surgeries": 6,
+        "main_flaws": ["escena perforaciones en 3 oraciones — insuficiente", "signposting evidente (huella IA)", "cierre final débil"],
+        "file": "reportes/capitulo_01/sentencia_critico_v0.1.md"
+      }
+    },
+    {
+      "id": "report_sentencia_v0.2",
+      "label": "Sentencia Crítico Cap 1 v0.2",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.2.md",
+        "verdict": "ADMITIDO CON OBSERVACIONES",
+        "score": 9.1,
+        "surgeries": 0,
+        "observation": "sección maquillaje con frase redundante; peso del pecho ausente en transiciones",
+        "word_count": "~4100",
+        "file": "reportes/capitulo_01/sentencia_critico_v0.2.md"
+      }
+    },
+    {
+      "id": "report_sentencia_v0.5",
+      "label": "Sentencia Crítico Cap 1 v0.5 (post-cirugías)",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.5.md",
+        "verdict": "ADMITIDO CON OBSERVACIONES → CIRUGÍAS APLICADAS",
+        "score_base": 9.2,
+        "score_projected": "9.5+",
+        "surgeries_applied": 4,
+        "word_count": "~5530",
+        "file": "reportes/capitulo_01/sentencia_critico_v0.5.md"
+      }
+    },
+    {
+      "id": "report_conteo_v0.1",
+      "label": "Reporte Contador Cap 1 v0.1",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Contador",
+        "chapter_version": "capitulo_01_la_piel_v0.1.md",
+        "word_count": 3627,
+        "minimum_required": 3000,
+        "commitments": "14/14",
+        "language_errors": [],
+        "verdict": "LISTO PARA REVISIÓN HUMANA (corrección menor pendiente: conteo al pie)",
+        "file": "reportes/capitulo_01/conteo_v0.1.md"
+      }
+    },
+    {
+      "id": "report_reporte_contador_v0.1",
+      "label": "Reporte de Verificación Cap 1 v0.1 (El Primer Día)",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Contador",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.1.md",
+        "word_count_estimated": "~3600",
+        "commitments": "12/13",
+        "failed_commitment": "gancho final débil",
+        "language_errors": ["apartamento×2", "salon sin tilde"],
+        "verdict": "REQUIERE CORRECCIONES",
+        "file": "reportes/capitulo_01/reporte_contador_v0.1.md"
+      }
+    },
+    {
+      "id": "report_centinela_cap1_v0.3",
+      "label": "Centinela Cap 1 v0.3",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Centinela",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.3.md",
+        "verdict": "APROBADO",
+        "date": "2026-04-29",
+        "commitments": "13/13",
+        "blocking_issues": 0,
+        "non_blocking_observations": 2,
+        "arc_stages_verified": "PÁNICO → INDIGNACIÓN → primera GRIETA",
+        "file": "reportes/capitulo_01/centinela_v0.3.md"
+      }
+    },
+    {
+      "id": "report_centinela_cap1_v0.5",
+      "label": "Centinela Cap 1 v0.5",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Centinela",
+        "chapter_version": "capitulo_01_el_primer_dia_v0.5.md",
+        "verdict": "APROBADO",
+        "date": "2026-05-01",
+        "commitments": "13/13",
+        "word_count": "~4510",
+        "blocking_issues": 0,
+        "arc_stages_verified": "PÁNICO → INDIGNACIÓN → primera GRIETA",
+        "file": "reportes/capitulo_01/centinela_v0.5.md"
+      }
+    },
+    {
+      "id": "report_centinela_cap2_v1",
+      "label": "Centinela Cap 2 v1",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Centinela",
+        "chapter_version": "capitulo_02_el_escenario_v1.2.md",
+        "verdict": "APROBADO CONDICIONAL",
+        "date": "2026-05-13",
+        "commitments": "7/11 cumplidos + 4 divergencias autorizadas",
+        "condition": "actualizar linea_de_tiempo_maestra.md con ensayo previo",
+        "arc_stages_verified": "TRAICIÓN plena → inicio ACEPTACIÓN",
+        "file": "reportes/capitulo_02/centinela_v1.md"
+      }
+    },
+    {
+      "id": "report_centinela_cap2_v2_final",
+      "label": "Centinela Cap 2 v2 Final",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Centinela",
+        "chapter_version": "capitulo_02_el_escenario_v1.3.md",
+        "verdict": "APROBADO",
+        "date": "2026-05-13",
+        "commitments": "11/11",
+        "blocking_issues": 0,
+        "note": "listo para promoción a Maestro v1 con Gate Ama",
+        "file": "reportes/capitulo_02/centinela_v2_final.md"
+      }
+    },
+    {
+      "id": "report_critica_cap2_v1",
+      "label": "Crítica Cap 2 v1",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Crítico",
+        "chapter_version": "capitulo_02_el_escenario_v1.2.md",
+        "verdict": "ADMITIDO CON OBSERVACIONES",
+        "score": 9.0,
+        "d1": 2, "d2": 2, "d3": 2, "d4": 1, "d5": 2,
+        "d4_flaw": "12 instancias firma 'con la X de Y' — doble del límite 6-8",
+        "surgeries": 2,
+        "word_count_narrative": 3818,
+        "date": "2026-05-13",
+        "file": "reportes/capitulo_02/critica_v1.md"
+      }
+    },
+    {
+      "id": "report_termometro_cap2_v1",
+      "label": "Termómetro Cap 2 v1",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Termómetro",
+        "chapter_version": "capitulo_02_el_escenario_v1.1.md",
+        "verdict": "TEMPERATURA EN RANGO",
+        "global_deviation": "±0.0",
+        "temperature_avg": "3.3/5",
+        "key_scenes": "3/3 entregadas",
+        "post_ritual_beats": "6/6",
+        "prohibited_anticipations": "7/7 respetadas",
+        "date": "2026-05-13",
+        "file": "reportes/capitulo_02/reporte_termometro_v1.md"
+      }
+    },
+    {
+      "id": "report_termometro_cap2_v2",
+      "label": "Termómetro Cap 2 v2",
+      "type": "audit_report",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "agent": "Termómetro",
+        "chapter_version": "capitulo_02_el_escenario_v1.3.md",
+        "verdict": "TEMPERATURA EN RANGO — INTOCADA POR EDITOR",
+        "global_deviation": "±0.0",
+        "key_scenes": "3/3",
+        "post_ritual_beats": "6/6",
+        "prohibited_anticipations": "7/7",
+        "olfato_added": true,
+        "date": "2026-05-13",
+        "file": "reportes/capitulo_02/reporte_termometro_v2.md"
+      }
+    },
+    {
+      "id": "concept_canon_compliance",
+      "label": "Canon Compliance (Fidelidad al Arco)",
+      "type": "audit_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "reference_doc": "arco_maestro_v1.md",
+        "principle": "INVIOLABLE — compromisos del arco verificados antes de cualquier otra auditoría",
+        "used_by": ["Centinela", "Crítico"]
+      }
+    },
+    {
+      "id": "concept_erotic_temperature",
+      "label": "Temperatura Erótica",
+      "type": "audit_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "scale": "1–5 (o SHOCK / TENSIÓN / CALIENTE / ARDIENTE / PICO)",
+        "principle": "curva planificada vs real; valles fríos y picos prematuros son fallos",
+        "reference_doc": "mapa_erotico_cap2_v1.md",
+        "used_by": ["Termómetro", "Crítico D6"]
+      }
+    },
+    {
+      "id": "concept_narrative_arc",
+      "label": "Arco Narrativo / Curva de Rendición",
+      "type": "audit_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "stages": ["PÁNICO", "INDIGNACIÓN", "GRIETA", "RACIONALIZACIÓN", "TRAICIÓN DEL CUERPO", "ACEPTACIÓN", "RENDICIÓN", "PAZ"],
+        "cap1_stage": "PÁNICO → INDIGNACIÓN → primera GRIETA",
+        "cap2_stage": "TRAICIÓN plena → inicio ACEPTACIÓN",
+        "cap3_stage": "RENDICIÓN (quiere volver, quiere que la miren)",
+        "principle": "la curva debe avanzar sin saltos ni regresiones"
+      }
+    },
+    {
+      "id": "concept_sensory_hierarchy",
+      "label": "Jerarquía Sensorial",
+      "type": "audit_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "order": "TACTO > OLFATO > VISTA > SONIDO > GUSTO",
+        "formula": "SENSACIÓN → EMOCIÓN → REACCIÓN",
+        "rule": "el cuerpo siempre precede a la mente; racionalización inmediata es fallo",
+        "dimension": "D2 en Crítico"
+      }
+    },
+    {
+      "id": "concept_surgical_instructions",
+      "label": "Instrucciones Quirúrgicas",
+      "type": "audit_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "purpose": "correcciones específicas emitidas por el Crítico para el Editor",
+        "types": ["sensoriales", "estructurales", "léxicas"],
+        "principle": "no agregan texto sin compensar; el texto sale del bucle con 0 instrucciones"
+      }
+    },
+    {
+      "id": "concept_racconto",
+      "label": "Racconto",
+      "type": "narrative_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "definition": "memorias involuntarias detonadas por el cuerpo; irrumpen sin título, sin anuncio",
+        "cap1_raccontos": ["R1 el catálogo/el rubio", "R3 las uñas", "R4 el maquillaje/corrección técnica", "R5 los tacones", "R4/R5 tercera cirugía"],
+        "cap2_raccontos": ["R6 café 'Ya tienes todo'", "R7 pole/cálculo implantes", "R8 Sebastián Mura/lugares para mirar"],
+        "fused_technique": "presente + memoria en la misma oración — reservado para Cap 3 clímax"
+      }
+    },
+    {
+      "id": "concept_excelencia",
+      "label": "Veredicto EXCELENCIA",
+      "type": "audit_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "score_threshold": "9.5+",
+        "effect": "el capítulo sale del bucle automáticamente — sin instrucciones quirúrgicas",
+        "associated_verdicts": ["APROBADO CON EXCELENCIA"]
+      }
+    },
+    {
+      "id": "concept_admitido",
+      "label": "Veredicto ADMITIDO",
+      "type": "audit_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "variants": ["ADMITIDO BAJO CIRUGÍA (7.7)", "ADMITIDO CON OBSERVACIONES (9.0–9.2)"],
+        "effect": "el capítulo entra al bucle de corrección Editor↔Crítico"
+      }
+    },
+    {
+      "id": "char_sebastianmura",
+      "label": "Sebastián Mura",
+      "type": "character",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "personaje secundario — ex cliente de entrenamiento de Matías",
+        "chapter": "Capítulo 2",
+        "function": "inversión de autoría; no reconoce a Dani; IWC Portofino azul medianoche",
+        "canonical_rule": "nombre completo solo en primera mención — después 'él', 'el hombre', 'ex cliente'"
+      }
+    },
+    {
+      "id": "char_nacho",
+      "label": "Nacho",
+      "type": "character",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "personaje secundario — encargado del club",
+        "chapter": "Capítulo 2",
+        "register": "profesional seco"
+      }
+    },
+    {
+      "id": "story_ldg",
+      "label": "Los Deseos de Ginny",
+      "type": "story",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "project_id": "LDG",
+        "orchestrator": "Agente Helena (Skill: orquestador-literario)",
+        "date": "2026-03-26",
+        "genre": "bimbo, control mental, transformación universitaria",
+        "canon_sections": ["Sección VI (Control Mental/Bimbo Logic)", "Sección VIII (Módulo Bimbo)"],
+        "setting": "universidad, fraternidad",
+        "phases_documented": ["Fase 1 Ideación", "Fase 2 Arquitectura", "Fase 3 Identidad/Fichas"]
+      }
+    },
+    {
+      "id": "char_ginny",
+      "label": "Ginny",
+      "type": "character",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "Genio Bimbo — detonante / catalizadora",
+        "story": "Los Deseos de Ginny",
+        "description": "poder infinito y CI de una mosca sexy; odia el rosa, ama el cromo y el gloss",
+        "color_palette": "dorado, azul (nunca rosa — prohibido canónico)",
+        "modus_operandi": "Filtro Bimbo que reescribe la realidad según 'criterio estético'",
+        "canonical_rule": "Ficha de Ginny — prohibición del ROSA; usa DORADO/AZUL"
+      }
+    },
+    {
+      "id": "char_mateo",
+      "label": "Mateo",
+      "type": "character",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "La Cheerleader — transformado en Capitana de Cheerleaders",
+        "story": "Los Deseos de Ginny",
+        "initial_state": "estudiante de Ingeniería, cínico, delgado, cabello castaño",
+        "post_transformation": "rubia platino, pechos imposibles, mente solo para coreografías y purpurina",
+        "desire": "ser el alma de la fiesta / centro de atención",
+        "vocabulary_arc": ["Esta distorsión subatómica es imposible.", "O sea, mi pelo brilla demasiado.", "¡Ji, ji! ¡Mira qué pompis, Capitán!"],
+        "triggers": ["pompones metálicos dorados", "aroma gloss de fresa", "espejo de cuerpo completo"]
+      }
+    },
+    {
+      "id": "char_santi",
+      "label": "Santi",
+      "type": "character",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "El Capitán — transformado en Quarterback/Capitán",
+        "story": "Los Deseos de Ginny",
+        "initial_state": "amigo beta, intelectual, gafas, complexión media",
+        "post_transformation": "músculos extremos, mandíbula de acero, masculinidad animal, Dom primario",
+        "desire": "que todos lo sigan y obedezcan / respeto y mando",
+        "vocabulary_arc": ["Debemos analizar los riesgos de este genio.", "Siéntate aquí y cállate. Yo mando.", "Mía. Mueve esas pompis."],
+        "triggers": ["olor a cuero del balón", "voz entrecortada de Mateo pidiendo aprobación", "color dorado"]
+      }
+    },
+    {
+      "id": "arc_ldg",
+      "label": "Arco Maestro — Los Deseos de Ginny",
+      "type": "narrative_arc",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "stages": [
+          "Estadio I RESISTENCIA (0–20%): Santi trata de usar deseo para exámenes; Mateo se burla pero se siente atraído",
+          "Estadio II CONFUSIÓN (Deseo 1 — 20%): Mateo pide 'ser el centro de atención'; bimboficación inicia",
+          "Estadio III TRAICIÓN (Deseo 2 — 25%): Santi pide 'que todos lo sigan'; Mateo es Capitana; los cuerpos actúan antes que las mentes",
+          "Estadio IV ACEPTACIÓN (Deseo 3 — 20%): deseo final de 'quedarse así para siempre'; Niebla Rosa/Dorada",
+          "Estadio V PAZ (Afterglow — 15%): ambos olvidan nombres anteriores; son La Capitana y El Quarterback"
+        ]
+      }
+    },
+    {
+      "id": "timeline_ldg",
+      "label": "Línea de Tiempo — Los Deseos de Ginny",
+      "type": "timeline",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "day1_1400": "Encuentro con la coctelera dorada en el sótano de la fraternidad",
+        "day1_1600": "Deseo 1. Transformación física inicial de Mateo",
+        "day1_2000": "Fiesta de la fraternidad. Primer passing de Mateo como mujer",
+        "day2_1000": "Deseo 2. Transformación de Santi. Ajuste Retropulsivo del campus",
+        "day3_1900": "El Gran Partido. Deseo 3 en el vestuario. Sello definitivo"
+      }
+    },
+    {
+      "id": "object_coctelera_dorada",
+      "label": "Coctelera Dorada",
+      "type": "object",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "Los Deseos de Ginny",
+        "function": "libera a Ginny; objeto de deseo que inicia la transformación",
+        "location": "sótano de la fraternidad"
+      }
+    },
+    {
+      "id": "concept_bimbo_filter",
+      "label": "Filtro Bimbo (Ginny)",
+      "type": "narrative_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "Los Deseos de Ginny",
+        "definition": "reescribe la realidad según el criterio estético de Ginny; interpreta deseos de forma sesgada hacia la estética bimbo universitaria",
+        "examples": ["'ser el alma de la fiesta' → capitana de cheerleaders", "'ser seguido por todos' → capitán atlético con dependencia mutua"],
+        "mechanic": "cuando los personajes intentan razonar, Ginny responde con purpurina dorada que simplifica sus pensamientos"
+      }
+    },
+    {
+      "id": "concept_ajuste_retropulsivo",
+      "label": "Ajuste Retropulsivo",
+      "type": "narrative_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "Los Deseos de Ginny",
+        "definition": "el campus entero cambia su realidad tras el Deseo 2 de Santi",
+        "trigger": "Deseo 2 — Día 2, 10:00"
+      }
+    },
+    {
+      "id": "concept_jock_aura",
+      "label": "The Jock Aura",
+      "type": "narrative_concept",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "Los Deseos de Ginny",
+        "definition": "efecto de Ginny sobre Santi; masculinidad animal e instintiva",
+        "result": "liderazgo táctil-atlético, intelectualmente limitado, dependencia con Mateo/Capitana"
+      }
+    },
+    {
+      "id": "doc_arco_maestro",
+      "label": "arco_maestro_v1.md",
+      "type": "reference_document",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "La Piel que Diseño",
+        "status": "INVIOLABLE",
+        "contains": "compromisos de capítulo (C1-C11), racconto map, curva de temperatura erótica"
+      }
+    },
+    {
+      "id": "doc_linea_tiempo_maestra",
+      "label": "linea_de_tiempo_maestra.md",
+      "type": "reference_document",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "La Piel que Diseño",
+        "contains": "secuencia horaria de eventos por capítulo",
+        "update_required": "insertar ensayo previo Cap 2 (Día ~5) — pendiente post centinela_v1"
+      }
+    },
+    {
+      "id": "doc_mapa_erotico_cap2",
+      "label": "mapa_erotico_cap2_v1.md",
+      "type": "reference_document",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "La Piel que Diseño",
+        "chapter": 2,
+        "contains": "temperatura planificada por sección, escenas clave, beats post-ritual, anticipaciones prohibidas",
+        "approved_by": "Ama",
+        "overrides": "divergencias del arco_maestro autorizadas"
+      }
+    },
+    {
+      "id": "doc_ficha_matias",
+      "label": "personajes/matias.md",
+      "type": "reference_document",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "La Piel que Diseño",
+        "contains": "identidad pre y post Día 0, arco psicológico, 5 registros de voz, notas para la escritura"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "char_matias",
+      "target": "story_lpqd",
+      "relation": "protagonista_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_daniela",
+      "target": "story_lpqd",
+      "relation": "personaje_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_matias",
+      "target": "chapter_01_lpqd",
+      "relation": "protagoniza",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_matias",
+      "target": "chapter_02_lpqd",
+      "relation": "protagoniza",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_daniela",
+      "target": "chapter_01_lpqd",
+      "relation": "aparece_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_daniela",
+      "target": "chapter_02_lpqd",
+      "relation": "aparece_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_matias",
+      "target": "char_daniela",
+      "relation": "diseñó_el_cuerpo_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "años de microcontrol estético; Daniela ahora habita el cuerpo de Matías"}
+    },
+    {
+      "source": "char_matias",
+      "target": "doc_ficha_matias",
+      "relation": "documentado_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "chapter_01_lpqd",
+      "target": "story_lpqd",
+      "relation": "pertenece_a",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "chapter_02_lpqd",
+      "target": "story_lpqd",
+      "relation": "pertenece_a",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "report_critica_v0.1",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.1"}
+    },
+    {
+      "source": "report_critica_v0.2",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.2"}
+    },
+    {
+      "source": "report_critica_v0.3",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.3 (El Primer Día)"}
+    },
+    {
+      "source": "report_critica_v0.3_new",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.3 (La piel, reescritura)"}
+    },
+    {
+      "source": "report_critica_v0.4",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.4"}
+    },
+    {
+      "source": "report_critica_v0.5",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.5"}
+    },
+    {
+      "source": "report_sentencia_v0.1",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.1 (El Primer Día)"}
+    },
+    {
+      "source": "report_sentencia_v0.2",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.2 (El Primer Día)"}
+    },
+    {
+      "source": "report_sentencia_v0.5",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.5 (El Primer Día)"}
+    },
+    {
+      "source": "report_conteo_v0.1",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.1 (La piel)"}
+    },
+    {
+      "source": "report_reporte_contador_v0.1",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.1 (El Primer Día)"}
+    },
+    {
+      "source": "report_centinela_cap1_v0.3",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.3"}
+    },
+    {
+      "source": "report_centinela_cap1_v0.5",
+      "target": "chapter_01_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v0.5"}
+    },
+    {
+      "source": "report_centinela_cap2_v1",
+      "target": "chapter_02_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v1.2"}
+    },
+    {
+      "source": "report_centinela_cap2_v2_final",
+      "target": "chapter_02_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v1.3"}
+    },
+    {
+      "source": "report_critica_cap2_v1",
+      "target": "chapter_02_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v1.2"}
+    },
+    {
+      "source": "report_termometro_cap2_v1",
+      "target": "chapter_02_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v1.1"}
+    },
+    {
+      "source": "report_termometro_cap2_v2",
+      "target": "chapter_02_lpqd",
+      "relation": "audita",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"chapter_version": "v1.3"}
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_critica_v0.1",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_critica_v0.2",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_critica_v0.3",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_critica_v0.3_new",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_critica_v0.4",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_critica_v0.5",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_sentencia_v0.1",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_sentencia_v0.2",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_sentencia_v0.5",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "report_critica_cap2_v1",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_centinela",
+      "target": "report_centinela_cap1_v0.3",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_centinela",
+      "target": "report_centinela_cap1_v0.5",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_centinela",
+      "target": "report_centinela_cap2_v1",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_centinela",
+      "target": "report_centinela_cap2_v2_final",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_contador",
+      "target": "report_conteo_v0.1",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_contador",
+      "target": "report_reporte_contador_v0.1",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_termometro",
+      "target": "report_termometro_cap2_v1",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_termometro",
+      "target": "report_termometro_cap2_v2",
+      "relation": "produce",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "concept_erotic_temperature",
+      "relation": "evalúa",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_termometro",
+      "target": "concept_erotic_temperature",
+      "relation": "mide",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_centinela",
+      "target": "concept_canon_compliance",
+      "relation": "verifica",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_centinela",
+      "target": "concept_narrative_arc",
+      "relation": "verifica",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "concept_sensory_hierarchy",
+      "relation": "evalúa",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "agent_critico",
+      "target": "concept_surgical_instructions",
+      "relation": "emite",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_canon_compliance",
+      "target": "doc_arco_maestro",
+      "relation": "referencia",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_erotic_temperature",
+      "target": "doc_mapa_erotico_cap2",
+      "relation": "referencia",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "report_centinela_cap1_v0.3",
+      "target": "doc_arco_maestro",
+      "relation": "verifica_contra",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "report_centinela_cap1_v0.3",
+      "target": "doc_linea_tiempo_maestra",
+      "relation": "verifica_contra",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "report_centinela_cap1_v0.3",
+      "target": "doc_ficha_matias",
+      "relation": "verifica_contra",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_excelencia",
+      "target": "agent_critico",
+      "relation": "emitido_por",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_racconto",
+      "target": "chapter_01_lpqd",
+      "relation": "técnica_usada_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_racconto",
+      "target": "chapter_02_lpqd",
+      "relation": "técnica_usada_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_ginny",
+      "target": "story_ldg",
+      "relation": "personaje_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_mateo",
+      "target": "story_ldg",
+      "relation": "personaje_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_santi",
+      "target": "story_ldg",
+      "relation": "personaje_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "arc_ldg",
+      "target": "story_ldg",
+      "relation": "define_arco_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "timeline_ldg",
+      "target": "story_ldg",
+      "relation": "secuencia_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "object_coctelera_dorada",
+      "target": "story_ldg",
+      "relation": "mcguffin_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_ginny",
+      "target": "object_coctelera_dorada",
+      "relation": "liberada_por",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_bimbo_filter",
+      "target": "char_ginny",
+      "relation": "aplicado_por",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_bimbo_filter",
+      "target": "char_mateo",
+      "relation": "transforma_a",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_bimbo_filter",
+      "target": "char_santi",
+      "relation": "transforma_a",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_ajuste_retropulsivo",
+      "target": "story_ldg",
+      "relation": "mecanismo_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_jock_aura",
+      "target": "char_santi",
+      "relation": "aplicado_a",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_sebastianmura",
+      "target": "chapter_02_lpqd",
+      "relation": "aparece_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_nacho",
+      "target": "chapter_02_lpqd",
+      "relation": "aparece_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_matias",
+      "target": "char_sebastianmura",
+      "relation": "era_entrenador_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "report_centinela_cap2_v1",
+      "target": "doc_mapa_erotico_cap2",
+      "relation": "verifica_contra",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "report_centinela_cap2_v1",
+      "target": "doc_linea_tiempo_maestra",
+      "relation": "detecta_discrepancia_en",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "chapter_01_lpqd",
+      "target": "chapter_02_lpqd",
+      "relation": "precede_a",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"hook": "¿Verdad? → apertura Cap 2"}
+    },
+    {
+      "source": "concept_narrative_arc",
+      "target": "story_lpqd",
+      "relation": "estructura",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "concept_sensory_hierarchy",
+      "target": "story_lpqd",
+      "relation": "principio_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "doc_arco_maestro",
+      "target": "story_lpqd",
+      "relation": "referencia_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "doc_linea_tiempo_maestra",
+      "target": "story_lpqd",
+      "relation": "referencia_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "doc_mapa_erotico_cap2",
+      "target": "chapter_02_lpqd",
+      "relation": "referencia_de",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "audit_cycle_cap1_v01",
+      "label": "Ciclo de Auditoría Cap 1 v0.1",
+      "members": ["chapter_01_lpqd", "report_sentencia_v0.1", "report_reporte_contador_v0.1", "agent_critico", "agent_contador"],
+      "relation": "iteración_de_auditoría",
+      "source_type": "INFERRED",
+      "confidence": 0.95,
+      "properties": {"result": "score 7.7 — requiere cirugías"}
+    },
+    {
+      "id": "audit_cycle_cap1_v03",
+      "label": "Ciclo de Auditoría Cap 1 v0.3 (El Primer Día)",
+      "members": ["chapter_01_lpqd", "report_critica_v0.3", "report_centinela_cap1_v0.3", "agent_critico", "agent_centinela"],
+      "relation": "iteración_de_auditoría",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"result": "score 9.6 EXCELENCIA — APROBADO para Gate Ama"}
+    },
+    {
+      "id": "audit_cycle_cap1_v05",
+      "label": "Ciclo de Auditoría Cap 1 v0.5 (El Primer Día)",
+      "members": ["chapter_01_lpqd", "report_critica_v0.5", "report_sentencia_v0.5", "report_centinela_cap1_v0.5", "agent_critico", "agent_centinela"],
+      "relation": "iteración_de_auditoría",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"result": "score 9.2 → post-cirugías 9.5+ — APROBADO Gate Ama"}
+    },
+    {
+      "id": "audit_cycle_cap2_v12",
+      "label": "Ciclo de Auditoría Cap 2 v1.2",
+      "members": ["chapter_02_lpqd", "report_critica_cap2_v1", "report_centinela_cap2_v1", "report_termometro_cap2_v1", "agent_critico", "agent_centinela", "agent_termometro"],
+      "relation": "iteración_de_auditoría",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"result": "score 9.0 ADMITIDO CON OBSERVACIONES + Centinela CONDICIONAL + Termómetro EN RANGO"}
+    },
+    {
+      "id": "audit_cycle_cap2_v13",
+      "label": "Ciclo de Auditoría Cap 2 v1.3 (Final)",
+      "members": ["chapter_02_lpqd", "report_centinela_cap2_v2_final", "report_termometro_cap2_v2", "agent_centinela", "agent_termometro"],
+      "relation": "iteración_de_auditoría",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"result": "Centinela APROBADO + Termómetro EN RANGO — listo para Maestro v1 con Gate Ama"}
+    },
+    {
+      "id": "ldg_trio",
+      "label": "Trío de Personajes — Los Deseos de Ginny",
+      "members": ["char_ginny", "char_mateo", "char_santi", "story_ldg"],
+      "relation": "elenco_central",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

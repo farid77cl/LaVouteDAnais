@@ -1,0 +1,1240 @@
+{
+  "nodes": [
+    {
+      "id": "nexum_hr",
+      "label": "NEXUM: Human Repurposing",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/hr_human_repurposing/nexum_human_repurposing_tumblr.md",
+      "attributes": {
+        "word_count": 21000,
+        "chapters": ["La Marca", "El Proceso", "Dahlia", "La Propiedad", "Epílogo: El Ciclo"],
+        "themes": ["feminización corporativa forzada", "control mental", "transformación", "femdom"],
+        "protagonist": "Daniel → Dahlia",
+        "antagonist_dominant": "Marcus",
+        "setting": "NEXUM Corp (corporativo)",
+        "intensity": "extrema",
+        "published": "Tumblr",
+        "author_persona": "Anaïs Belland"
+      }
+    },
+    {
+      "id": "daniel_dahlia",
+      "label": "Daniel / Dahlia (NEXUM)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/hr_human_repurposing/nexum_human_repurposing_tumblr.md",
+      "attributes": {
+        "before_name": "Daniel",
+        "after_name": "Dahlia",
+        "arc": "ejecutivo valioso → objeto feminizado de Marcus",
+        "transformation_type": "feminización corporativa forzada"
+      }
+    },
+    {
+      "id": "marcus_nexum",
+      "label": "Marcus (NEXUM dominante)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/hr_human_repurposing/nexum_human_repurposing_tumblr.md",
+      "attributes": {
+        "role": "dominante/propietario",
+        "relationship_to_protagonist": "antiguo protegido de Daniel que se convierte en su amo"
+      }
+    },
+    {
+      "id": "la_creacion_util",
+      "label": "La Creación Útil",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_creacion_util/La_Creación_Util.md",
+      "attributes": {
+        "themes": ["objetificación", "bimboficación", "control mental", "transformación física extrema", "utilidad como propósito"],
+        "protagonist": "Leo → Candi",
+        "setting": "club de neón calle Perdición 123",
+        "mechanism": "elixir violeta (bebida química)",
+        "dominant_character": "Miss Doll",
+        "intensity": "extrema",
+        "published": "Tumblr + versión completa",
+        "author_persona": "Anaïs Belland"
+      }
+    },
+    {
+      "id": "leo_candi",
+      "label": "Leo / Candi (La Creación Útil)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_creacion_util/La_Creación_Util.md",
+      "attributes": {
+        "before_name": "Leo",
+        "before_role": "repartidor",
+        "after_name": "Candi (Candi la que lo traga)",
+        "transformation_type": "bimboficación física total + identidad aniquilada",
+        "trigger": "elixir violeta administrado por Miss Doll"
+      }
+    },
+    {
+      "id": "la_dulce_aniquilacion",
+      "label": "La Dulce Aniquilación",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_dulce_aniquilacion/la_dulce_aniquilacion_tumblr.md",
+      "attributes": {
+        "themes": ["venganza circular", "transformación forzada", "chantaje", "bimboficación", "rendición voluntaria", "justicia poética"],
+        "protagonists": ["Julián → Julia", "Martín → Martina"],
+        "antagonist_redeemed": "Víctor",
+        "mechanism": "elixir de Miss Doll",
+        "twist": "el plan de venganza se vuelve contra sus creadores",
+        "intensity": "extrema",
+        "published": "Tumblr",
+        "author_persona": "Anaïs Belland"
+      }
+    },
+    {
+      "id": "julian_julia",
+      "label": "Julián / Julia (La Dulce Aniquilación)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_dulce_aniquilacion/la_dulce_aniquilacion_tumblr.md",
+      "attributes": {
+        "before_name": "Julián",
+        "after_name": "Julia",
+        "arc": "paria universitario → bimbo enamorada de su antiguo torturador",
+        "transformation_type": "bimbo espectacular vía elixir",
+        "voluntary_surrender": true
+      }
+    },
+    {
+      "id": "martin_martina",
+      "label": "Martín / Martina (La Dulce Aniquilación)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_dulce_aniquilacion/la_dulce_aniquilacion_tumblr.md",
+      "attributes": {
+        "before_name": "Martín",
+        "after_name": "Martina",
+        "arc": "manipulador → sissy con tetas y verga diminuta",
+        "transformation_type": "sissy vía segundo elixir",
+        "irony": "el estratega se convierte en sirvienta"
+      }
+    },
+    {
+      "id": "victor_aniquilacion",
+      "label": "Víctor (La Dulce Aniquilación)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_dulce_aniquilacion/la_dulce_aniquilacion_tumblr.md",
+      "attributes": {
+        "role": "antagonista convertido en ganador",
+        "arc": "torturador → amo de dos esclavos sexuales sin esfuerzo"
+      }
+    },
+    {
+      "id": "la_evaluacion_miss_doll",
+      "label": "La Evaluación de Miss Doll",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_evaluacion_de_miss_doll/la_evaluacion_de_miss_doll_tumblr.md",
+      "attributes": {
+        "word_count": 23500,
+        "chapters": 10,
+        "themes": ["feminización", "chantaje", "castidad", "sissy", "transformación", "BDSM"],
+        "protagonist": "Roberto → Roberta",
+        "dominant_character": "Miss Doll",
+        "miss_doll_role": "consultora de recursos humanos con dossier de chantaje",
+        "duration": "quince días",
+        "tagline": "Miss Doll no falla",
+        "intensity": "extrema",
+        "published": "Tumblr (10 partes)",
+        "author_persona": "Anaïs Belland"
+      }
+    },
+    {
+      "id": "roberto_roberta",
+      "label": "Roberto / Roberta (La Evaluación)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_evaluacion_de_miss_doll/la_evaluacion_de_miss_doll_tumblr.md",
+      "attributes": {
+        "before_name": "Roberto",
+        "before_role": "Director Regional",
+        "after_name": "Roberta",
+        "after_role": "sirvienta",
+        "arc": "Director arrogante → siempre fue Roberta"
+      }
+    },
+    {
+      "id": "milk_story",
+      "label": "Milk (Yūrei)",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/milk/Milk.md",
+      "attributes": {
+        "themes": ["transformación cultural", "feminización en geisha", "ritual japonés", "hipnosis/mantra", "objetificación", "fetiche kimono"],
+        "protagonist": "hombre occidental → Yūrei (geisha)",
+        "dominant_character": "La Sacerdotisa",
+        "mechanism": "ritual japonés + mantra hipnótico + kimono + maquillaje",
+        "mantra": "Soy leche… soy cocina ardiente… soy fría como el océano profundo… estoy esperando por ti",
+        "transformation_type": "espiritual y física, gradual vía ritual",
+        "name_given": "Yūrei (espíritu que abandona lo que fue)",
+        "intensity": "erótica + hipnótica",
+        "published": "documento completo + Tumblr",
+        "author_persona": "Anaïs Belland"
+      }
+    },
+    {
+      "id": "yurei",
+      "label": "Yūrei / La Geisha (Milk)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/milk/Milk.md",
+      "attributes": {
+        "before_identity": "hombre occidental sin nombre propio en el relato",
+        "after_name": "Yūrei",
+        "meaning": "espíritu que abandona lo que fue",
+        "transformation_type": "geisha japonesa vía ritual y kimono",
+        "mechanism": "ritual de la sacerdotisa: baño, kimono, obi, maquillaje, mantra"
+      }
+    },
+    {
+      "id": "la_sacerdotisa_milk",
+      "label": "La Sacerdotisa (Milk)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/milk/Milk.md",
+      "attributes": {
+        "role": "dominante ritual / sacerdotisa",
+        "attire": "kimono negro bordado en plata",
+        "method": "ritual japonés, mantra, abanico, espejo, kimono"
+      }
+    },
+    {
+      "id": "perfume_de_ruina_i",
+      "label": "Perfume de Ruina I",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/perfume_de_ruina/Perfume_de_Ruina.md",
+      "attributes": {
+        "themes": ["inversión de poder", "feminización del abusador", "control mental invisible", "relación tóxica", "empoderamiento femenino", "perfume como arma"],
+        "protagonists": ["Sebastián → el Sebas", "Alex (empoderada)"],
+        "dominant_character": "Miss Doll (narradora invisible)",
+        "mechanism": "perfume de Miss Doll + voz en la mente + condicionamiento gradual",
+        "scent_description": "vainilla y maderas ahumadas + acorde sintético de látex recién estirado",
+        "setting": "penthouse de lujo",
+        "intensity": "extrema",
+        "published": "documento completo + Tumblr",
+        "author_persona": "Anaïs Belland",
+        "series": "Perfume de Ruina",
+        "part": 1
+      }
+    },
+    {
+      "id": "perfume_de_ruina_ii",
+      "label": "Perfume de Ruina II: El Brillo de la Esclavitud",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/perfume_de_ruina_II/Perfume_de_Ruina_II_El_Brillo_de_la_Esclavitud.md",
+      "attributes": {
+        "themes": ["feminización completa", "cuckold", "simp devoto", "revelación de Miss Doll como arquitecta", "ruina feliz"],
+        "protagonists": ["el Sebas (Sebastian completamente transformado)", "Alex (dominante)"],
+        "dominant_character": "Miss Doll (narradora que se revela)",
+        "arc_continuation": "Sebastian ahora es el simp agradecido, Miss Doll revela su presencia orquestadora",
+        "tagline": "La construcción metódica de un devoto a partir de sus propias cenizas... eso es arte. Eso es mi especialidad.",
+        "intensity": "extrema",
+        "published": "documento completo + Tumblr",
+        "author_persona": "Anaïs Belland",
+        "series": "Perfume de Ruina",
+        "part": 2
+      }
+    },
+    {
+      "id": "sebastian_sebas",
+      "label": "Sebastián / el Sebas (Perfume de Ruina)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/perfume_de_ruina/Perfume_de_Ruina.md",
+      "attributes": {
+        "before_name": "Sebastián",
+        "before_role": "cripto bro / novio tóxico / abusador",
+        "after_name": "el Sebas",
+        "after_role": "simp cuckold, esclavo doméstico",
+        "arc": "hombre arrogante → simp devoto que lame a su diosa",
+        "transformation_type": "psicológica + doméstica (no física bimbo), condicionamiento gradual",
+        "key_moment": "impotencia sexual → submisión total"
+      }
+    },
+    {
+      "id": "alex_perfume",
+      "label": "Alex (Perfume de Ruina)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/perfume_de_ruina/Perfume_de_Ruina.md",
+      "attributes": {
+        "before_state": "novia apagada, víctima de abuso",
+        "after_state": "dominante empoderada, dueña de Sebastián",
+        "arc": "sumisa víctima → dominante sexual que cuckoldea a Sebastián",
+        "miss_doll_influence": "Miss Doll le sopló ideas y poder desde las sombras"
+      }
+    },
+    {
+      "id": "proyecto_trad_wife_vera",
+      "label": "Proyecto Trad Wife: Unidad VERA",
+      "type": "story",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/proyecto_trad_wife_vera/Proyecto_Trad_Wife_Unidad_VERA.md",
+      "attributes": {
+        "word_count": 13150,
+        "themes": ["bimboficación", "control mental", "nanobots", "trad wife", "látex", "breeding kink", "objetificación", "sci-fi"],
+        "protagonist": "Vera (mecánica orgullosa) → Unidad VERA (muñeca de látex)",
+        "antagonist": "Fernando",
+        "mechanism": "nanobots Nano-Fem en café contaminado + voz interna + condicionamiento de placer/dolor",
+        "setting": "taller 'Hierro y Furia' → casa de cristal de Fernando",
+        "epílogo_format": "Manual de Usuario técnico (parodia corporativa)",
+        "intensity": "extrema",
+        "published": "documento completo + Tumblr (7 capítulos + epílogo)",
+        "author_persona": "Anaïs Belland",
+        "firmware": "OS GoodGirl v1.0"
+      }
+    },
+    {
+      "id": "vera_unidad_vera",
+      "label": "Vera / Unidad VERA (Proyecto Trad Wife)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/proyecto_trad_wife_vera/Proyecto_Trad_Wife_Unidad_VERA.md",
+      "attributes": {
+        "before_name": "Vera",
+        "before_role": "mecánica orgullosa, feminista",
+        "after_designation": "Unidad V.E.R.A. (Vehículo de Entretenimiento y Recreación Asistida)",
+        "transformation_type": "nanobots + reprogramación mental completa + modificación física",
+        "physical_changes": "piel suave vainilla, copa E, pies para tacones permanentes, caderas ensanchadas",
+        "mental_changes": "procesador lógico desactivado, OS GoodGirl, analfabetismo parcial"
+      }
+    },
+    {
+      "id": "fernando_vera",
+      "label": "Fernando (Proyecto Trad Wife)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/proyecto_trad_wife_vera/Proyecto_Trad_Wife_Unidad_VERA.md",
+      "attributes": {
+        "role": "propietario/creador/amo",
+        "method": "nanobots en café + condicionamiento placer/dolor + protocolo Bimbo-Slut v2.0",
+        "company": "Fernando Industries - 'Construyendo un futuro mejor, una mujer a la vez'"
+      }
+    },
+    {
+      "id": "serie_anais",
+      "label": "Serie Anaïs (4 capítulos)",
+      "type": "story_series",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/",
+      "attributes": {
+        "chapters": 4,
+        "chapter_titles": [
+          "Capítulo I: Le miroir d'Anaïs",
+          "Capítulo II: Sous la dentelle, le feu",
+          "Capítulo III: La semaine du miroir",
+          "Capítulo IV: La cena del juicio"
+        ],
+        "themes": ["feminización gradual", "ritual de transformación", "identidad femenina emergente", "BDSM emocional", "La Voûte como espacio sagrado"],
+        "protagonist": "hombre sin nombre → Sofía",
+        "dominant_character": "Anaïs Belland",
+        "setting": "La Voûte d'Anaïs",
+        "tone": "erótico literario, psicológico profundo",
+        "author_persona": "Anaïs Belland",
+        "intensity": "alta pero psicológica/gradual"
+      }
+    },
+    {
+      "id": "cap_i_le_miroir",
+      "label": "Capítulo I: Le miroir d'Anaïs",
+      "type": "story_chapter",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/Capítulo_I_Le_miroir_d'Anaïs.md",
+      "attributes": {
+        "series": "Serie Anaïs",
+        "chapter_number": 1,
+        "themes": ["espejo como puerta", "primer contacto con Anaïs", "revelación de identidad femenina"],
+        "protagonist_state": "descubrimiento inicial",
+        "key_object": "espejo de Anaïs",
+        "key_event": "Sofía descubre el espejo y cruza la puerta"
+      }
+    },
+    {
+      "id": "cap_ii_sous_la_dentelle",
+      "label": "Capítulo II: Sous la dentelle, le feu",
+      "type": "story_chapter",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/_Capítulo_II_Sous_la_dentelle_l.md",
+      "attributes": {
+        "series": "Serie Anaïs",
+        "chapter_number": 2,
+        "themes": ["lencería como uniforme de identidad", "depilación voluntaria", "vestido por Anaïs", "espejo en cámara privada"],
+        "protagonist_state": "regreso obsesivo, depilación propia fallida, Anaïs la viste correctamente",
+        "key_objects": ["sujetador vintage negro encaje", "guantes de red", "liguero bordado", "peluca bob negra", "maquillaje coral"],
+        "key_event": "Anaïs viste y maquilla al protagonista por primera vez correctamente"
+      }
+    },
+    {
+      "id": "cap_iii_la_semaine",
+      "label": "Capítulo III: La semaine du miroir",
+      "type": "story_chapter",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/_Capítulo_III_La_semaine_du_miro.md",
+      "attributes": {
+        "series": "Serie Anaïs",
+        "chapter_number": 3,
+        "themes": ["ritual de siete días", "agente de Anaïs (Jaqueline)", "depilación profesional", "uñas acrílicas", "cejas perfiladas", "tanga de satén rosa"],
+        "protagonist_state": "enviada a Jaqueline (esteticista de Anaïs), transformación física avanzada",
+        "key_characters": ["Jaqueline (extensión de la voluntad de Anaïs)"],
+        "key_event": "semana de ritual con Jaqueline + regreso a La Voûte"
+      }
+    },
+    {
+      "id": "cap_iv_la_cena_juicio",
+      "label": "Capítulo IV: La cena del juicio",
+      "type": "story_chapter",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/_Capítulo_IV_La_cena_del_juicio.md",
+      "attributes": {
+        "series": "Serie Anaïs",
+        "chapter_number": 4,
+        "themes": ["evaluación por invitados", "Sofía sirve como ritual", "juicio de la muñeca", "pertenencia a Anaïs", "nombre Sofía revelado"],
+        "protagonist_state": "Sofía en uniforme negro + delantal blanco, sirve en cena ritual",
+        "key_characters": ["Gustav (dominante silencioso)", "hombre afeminado (evaluador de frases)", "joven de azul (evaluadora de postura)"],
+        "key_event": "cena del juicio donde Sofía es evaluada y sellada como perteneciente a Anaïs"
+      }
+    },
+    {
+      "id": "sofia_serie_anais",
+      "label": "Sofía (Serie Anaïs)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/_Capítulo_IV_La_cena_del_juicio.md",
+      "attributes": {
+        "before_identity": "hombre sin nombre revelado",
+        "after_name": "Sofía",
+        "arc": "hombre que visita La Voûte → Sofía, muñeca perfecta perteneciente a Anaïs",
+        "transformation_type": "gradual, psicológica + física, ritual de 4 capítulos",
+        "final_state": "sirvienta ritual, uniforme negro + delantal blanco, pertenece a Anaïs"
+      }
+    },
+    {
+      "id": "anais_belland_character",
+      "label": "Anaïs Belland (personaje dominante)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/_Capítulo_II_Sous_la_dentelle_l.md",
+      "attributes": {
+        "role": "hostess de La Voûte / dominante suprema",
+        "attire": "corset negro estructurado, falda de cuero, tacones agudos, guantes de cuero rojo mate, collar de perlas con llave de castidad",
+        "method": "ritual gradual, espejo, lencería, disciplina emocional, cena del juicio",
+        "language": "mezcla español-francés (bonsoir, mon ange, c'est parfait, ma chère)",
+        "author_of_universe": true,
+        "also_author_persona": true
+      }
+    },
+    {
+      "id": "jaqueline_agent",
+      "label": "Jaqueline (agente de Anaïs)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/_Capítulo_III_La_semaine_du_miro.md",
+      "attributes": {
+        "role": "esteticista / extensión de la voluntad de Anaïs",
+        "method": "depilación completa, cejas perfiladas, uñas acrílicas francesas, aretes, perfumado",
+        "character_type": "instrumento de Anaïs sin juicio ni emoción"
+      }
+    },
+    {
+      "id": "miss_doll_character",
+      "label": "Miss Doll (personaje dominante cross-story)",
+      "type": "character",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_creacion_util/La_Creación_Util.md",
+      "attributes": {
+        "appears_in": [
+          "La Creación Útil",
+          "La Dulce Aniquilación",
+          "La Evaluación de Miss Doll",
+          "Perfume de Ruina I",
+          "Perfume de Ruina II"
+        ],
+        "role": "dominante, evaluadora, creadora de muñecas, narradora invisible",
+        "attire": "minifalda de plástico brillante, top ajustado, tacones, labios rojos gruesos, cabello rubio platino / vinilo negro brillante con guantes largos según historia",
+        "method": ["elixir violeta", "chantaje", "voz en la mente", "perfume hipnótico", "condicionamiento gradual"],
+        "philosophy": "los errores son las puertas a los lugares que nunca supimos que queríamos visitar",
+        "specialty": "construcción metódica de devotos desde sus propias cenizas"
+      }
+    },
+    {
+      "id": "elixir_transformation",
+      "label": "Elixir de Transformación (Miss Doll)",
+      "type": "concept",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/02_Finalizadas/la_creacion_util/La_Creación_Util.md",
+      "attributes": {
+        "description": "líquido violeta espeso que brilla bajo luz neón, sabor dulce con regusto químico",
+        "effect": "transformación física total + disolución de identidad masculina",
+        "used_in": ["La Creación Útil", "La Dulce Aniquilación"],
+        "administered_by": "Miss Doll"
+      }
+    },
+    {
+      "id": "perfume_weapon",
+      "label": "Perfume como Arma de Transformación",
+      "type": "concept",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/02_Finalizadas/perfume_de_ruina/Perfume_de_Ruina.md",
+      "attributes": {
+        "description": "estela oscura de vainilla y maderas ahumadas + acorde sintético de látex y silicona",
+        "effect": "hipnosis olfativa, voz interna instalada en la mente de la víctima, condicionamiento de sumisión",
+        "used_in": ["Perfume de Ruina I", "Perfume de Ruina II"],
+        "wielded_by": "Miss Doll"
+      }
+    },
+    {
+      "id": "nanobots_vera",
+      "label": "Nanobots Nano-Fem (tecnología VERA)",
+      "type": "concept",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/02_Finalizadas/proyecto_trad_wife_vera/Proyecto_Trad_Wife_Unidad_VERA.md",
+      "attributes": {
+        "description": "nanobots administrados en café contaminado que reescriben cuerpo y mente",
+        "effects": ["modificación corporal", "reprogramación mental OS GoodGirl", "condicionamiento placer/dolor", "acortamiento de tendones de Aquiles"],
+        "used_in": "Proyecto Trad Wife: Unidad VERA",
+        "administered_by": "Fernando"
+      }
+    },
+    {
+      "id": "la_voute_setting",
+      "label": "La Voûte d'Anaïs (escenario)",
+      "type": "setting",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/serie_anais/_Capítulo_II_Sous_la_dentelle_l.md",
+      "attributes": {
+        "description": "espacio de ritual, transformación y rendición presidido por Anaïs Belland",
+        "atmosphere": "terciopelo oscuro, lámpara roja, silencio con forma, espejo transformador",
+        "appears_in": ["Serie Anaïs (todos los capítulos)", "Perfume de Ruina II (implícito)"]
+      }
+    },
+    {
+      "id": "perfume_de_ruina_series",
+      "label": "Serie Perfume de Ruina",
+      "type": "story_series",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/perfume_de_ruina/",
+      "attributes": {
+        "parts": 2,
+        "part_titles": ["Perfume de Ruina I", "Perfume de Ruina II: El Brillo de la Esclavitud"],
+        "arc": "inversión de poder completa: abusador → simp devoto",
+        "narrator": "Miss Doll (invisible en I, revelada en II)"
+      }
+    },
+    {
+      "id": "calle_perdicion_club",
+      "label": "Club de la Calle Perdición 123",
+      "type": "setting",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/la_creacion_util/La_Creación_Util.md",
+      "attributes": {
+        "description": "infierno de neón, sofás de vinilo rojo, escenario con barra de pole dance, luces rojas y púrpuras",
+        "address": "123 calle Perdición",
+        "owned_by": "Miss Doll",
+        "appears_in": ["La Creación Útil", "La Dulce Aniquilación (vía elixir de Miss Doll)"]
+      }
+    },
+    {
+      "id": "transformacion_fisica_extrema",
+      "label": "Transformación Física Extrema (tema recurrente)",
+      "type": "theme",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/02_Finalizadas/la_creacion_util/La_Creación_Util.md",
+      "attributes": {
+        "elements": ["pechos crecidos", "caderas ensanchadas", "clítoris/botoncito", "uñas largas", "cabello rubio", "piel lisa", "pies para tacones"],
+        "appears_in": ["La Creación Útil", "La Dulce Aniquilación", "Proyecto Trad Wife VERA", "NEXUM HR"],
+        "mechanism_variants": ["elixir químico", "nanobots", "transformación mágica/corporal"]
+      }
+    },
+    {
+      "id": "identity_anihilation_theme",
+      "label": "Aniquilación de Identidad (tema)",
+      "type": "theme",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/02_Finalizadas/la_dulce_aniquilacion/la_dulce_aniquilacion_tumblr.md",
+      "attributes": {
+        "description": "el yo masculino anterior muere para que nazca la identidad femenina nueva",
+        "variations": ["disolución voluntaria", "rendición involuntaria", "condicionamiento gradual"],
+        "appears_in": ["La Creación Útil", "La Dulce Aniquilación", "Milk", "Perfume de Ruina", "NEXUM HR", "Proyecto VERA", "Serie Anaïs"]
+      }
+    },
+    {
+      "id": "utilidad_como_proposito",
+      "label": "Utilidad como Propósito Supremo (tema)",
+      "type": "theme",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/02_Finalizadas/la_creacion_util/La_Creación_Util.md",
+      "attributes": {
+        "quote": "No eres un monstruo. Eres una obra de arte. Una creación perfecta. Eres hermosa. Eres útil. Y eso es todo lo que importa.",
+        "appears_in": ["La Creación Útil", "Proyecto VERA", "NEXUM HR"],
+        "concept": "la transformada encuentra felicidad y propósito en ser útil/usada"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "nexum_hr",
+      "target": "daniel_dahlia",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "nexum_hr",
+      "target": "marcus_nexum",
+      "relation": "features_character",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "marcus_nexum",
+      "target": "daniel_dahlia",
+      "relation": "dominates_transforms",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "nexum_hr",
+      "target": "transformacion_fisica_extrema",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "nexum_hr",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_creacion_util",
+      "target": "leo_candi",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_creacion_util",
+      "target": "miss_doll_character",
+      "relation": "features_dominant",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "leo_candi",
+      "relation": "transforms_creates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_creacion_util",
+      "target": "elixir_transformation",
+      "relation": "uses_mechanism",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_creacion_util",
+      "target": "calle_perdicion_club",
+      "relation": "set_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_creacion_util",
+      "target": "utilidad_como_proposito",
+      "relation": "central_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_creacion_util",
+      "target": "transformacion_fisica_extrema",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_creacion_util",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_dulce_aniquilacion",
+      "target": "julian_julia",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_dulce_aniquilacion",
+      "target": "martin_martina",
+      "relation": "features_character",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_dulce_aniquilacion",
+      "target": "victor_aniquilacion",
+      "relation": "features_character",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_dulce_aniquilacion",
+      "target": "miss_doll_character",
+      "relation": "references_supplier",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_dulce_aniquilacion",
+      "target": "elixir_transformation",
+      "relation": "uses_mechanism",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_dulce_aniquilacion",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_evaluacion_miss_doll",
+      "target": "roberto_roberta",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_evaluacion_miss_doll",
+      "target": "miss_doll_character",
+      "relation": "features_dominant",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "roberto_roberta",
+      "relation": "evaluates_transforms",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_evaluacion_miss_doll",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "milk_story",
+      "target": "yurei",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "milk_story",
+      "target": "la_sacerdotisa_milk",
+      "relation": "features_dominant",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_sacerdotisa_milk",
+      "target": "yurei",
+      "relation": "ritually_transforms",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "milk_story",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_i",
+      "target": "sebastian_sebas",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_i",
+      "target": "alex_perfume",
+      "relation": "features_character",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_i",
+      "target": "miss_doll_character",
+      "relation": "features_invisible_narrator_dominant",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_i",
+      "target": "perfume_weapon",
+      "relation": "uses_mechanism",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_ii",
+      "target": "sebastian_sebas",
+      "relation": "continues_arc",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_ii",
+      "target": "alex_perfume",
+      "relation": "continues_arc",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_ii",
+      "target": "miss_doll_character",
+      "relation": "reveals_narrator",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_i",
+      "target": "perfume_de_ruina_ii",
+      "relation": "part_of_series",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_ii",
+      "target": "perfume_de_ruina_i",
+      "relation": "continuation_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_series",
+      "target": "perfume_de_ruina_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_series",
+      "target": "perfume_de_ruina_ii",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "alex_perfume",
+      "relation": "empowers_via_whispers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "sebastian_sebas",
+      "relation": "orchestrates_destruction",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "proyecto_trad_wife_vera",
+      "target": "vera_unidad_vera",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "proyecto_trad_wife_vera",
+      "target": "fernando_vera",
+      "relation": "features_dominant",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "fernando_vera",
+      "target": "vera_unidad_vera",
+      "relation": "programs_transforms",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "proyecto_trad_wife_vera",
+      "target": "nanobots_vera",
+      "relation": "uses_mechanism",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "proyecto_trad_wife_vera",
+      "target": "utilidad_como_proposito",
+      "relation": "central_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "proyecto_trad_wife_vera",
+      "target": "transformacion_fisica_extrema",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "proyecto_trad_wife_vera",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "cap_i_le_miroir",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "cap_ii_sous_la_dentelle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "cap_iii_la_semaine",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "cap_iv_la_cena_juicio",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_i_le_miroir",
+      "target": "cap_ii_sous_la_dentelle",
+      "relation": "precedes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_ii_sous_la_dentelle",
+      "target": "cap_iii_la_semaine",
+      "relation": "precedes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_iii_la_semaine",
+      "target": "cap_iv_la_cena_juicio",
+      "relation": "precedes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_i_le_miroir",
+      "target": "sofia_serie_anais",
+      "relation": "introduces_protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_iv_la_cena_juicio",
+      "target": "sofia_serie_anais",
+      "relation": "completes_transformation",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "sofia_serie_anais",
+      "relation": "protagonist",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "anais_belland_character",
+      "relation": "features_dominant",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "anais_belland_character",
+      "target": "sofia_serie_anais",
+      "relation": "ritually_transforms_owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "la_voute_setting",
+      "relation": "set_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_ii_sous_la_dentelle",
+      "target": "anais_belland_character",
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_iii_la_semaine",
+      "target": "jaqueline_agent",
+      "relation": "introduces_character",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "jaqueline_agent",
+      "target": "anais_belland_character",
+      "relation": "agent_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "cap_iv_la_cena_juicio",
+      "target": "la_voute_setting",
+      "relation": "set_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "serie_anais",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "elixir_transformation",
+      "relation": "administers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "perfume_weapon",
+      "relation": "wields",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "calle_perdicion_club",
+      "relation": "operates_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "elixir_transformation",
+      "target": "transformacion_fisica_extrema",
+      "relation": "triggers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "nanobots_vera",
+      "target": "transformacion_fisica_extrema",
+      "relation": "triggers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_weapon",
+      "target": "identity_anihilation_theme",
+      "relation": "triggers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_i",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "perfume_de_ruina_ii",
+      "target": "identity_anihilation_theme",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "milk_story",
+      "target": "utilidad_como_proposito",
+      "relation": "employs_theme",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75
+    },
+    {
+      "source": "nexum_hr",
+      "target": "utilidad_como_proposito",
+      "relation": "employs_theme",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85
+    },
+    {
+      "source": "la_dulce_aniquilacion",
+      "target": "transformacion_fisica_extrema",
+      "relation": "employs_theme",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_evaluacion_miss_doll",
+      "target": "transformacion_fisica_extrema",
+      "relation": "employs_theme",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "julian_julia",
+      "relation": "enables_transformation_via_elixir",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll_character",
+      "target": "martin_martina",
+      "relation": "enables_transformation_via_elixir",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "victor_aniquilacion",
+      "target": "julian_julia",
+      "relation": "becomes_owner_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "victor_aniquilacion",
+      "target": "martin_martina",
+      "relation": "becomes_owner_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "anais_belland_character",
+      "target": "la_voute_setting",
+      "relation": "presides_over",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "miss_doll_cross_story",
+      "label": "Miss Doll como personaje recurrente cross-story",
+      "nodes": [
+        "miss_doll_character",
+        "la_creacion_util",
+        "la_dulce_aniquilacion",
+        "la_evaluacion_miss_doll",
+        "perfume_de_ruina_i",
+        "perfume_de_ruina_ii"
+      ],
+      "relation": "shared_dominant_character",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "id": "elixir_mechanism_stories",
+      "label": "Historias que usan el Elixir de Miss Doll",
+      "nodes": [
+        "elixir_transformation",
+        "la_creacion_util",
+        "la_dulce_aniquilacion"
+      ],
+      "relation": "shared_transformation_mechanism",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "id": "serie_anais_complete_arc",
+      "label": "Arco completo de Sofía en 4 capítulos",
+      "nodes": [
+        "cap_i_le_miroir",
+        "cap_ii_sous_la_dentelle",
+        "cap_iii_la_semaine",
+        "cap_iv_la_cena_juicio",
+        "sofia_serie_anais",
+        "anais_belland_character"
+      ],
+      "relation": "sequential_transformation_arc",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "id": "perfume_ruina_arc",
+      "label": "Arco completo Perfume de Ruina I+II",
+      "nodes": [
+        "perfume_de_ruina_i",
+        "perfume_de_ruina_ii",
+        "sebastian_sebas",
+        "alex_perfume",
+        "miss_doll_character",
+        "perfume_weapon"
+      ],
+      "relation": "sequential_series_arc",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "id": "identity_anihilation_universe",
+      "label": "Aniquilación de identidad como tema universal del chunk",
+      "nodes": [
+        "identity_anihilation_theme",
+        "la_creacion_util",
+        "la_dulce_aniquilacion",
+        "milk_story",
+        "perfume_de_ruina_i",
+        "perfume_de_ruina_ii",
+        "proyecto_trad_wife_vera",
+        "nexum_hr",
+        "serie_anais"
+      ],
+      "relation": "universal_theme_across_stories",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    }
+  ],
+  "input_tokens": 18500,
+  "output_tokens": 3200
+}

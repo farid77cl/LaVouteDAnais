@@ -1,0 +1,1045 @@
+{
+  "nodes": [
+    {
+      "id": "story_trance_muneca",
+      "label": "Trance de Muñeca",
+      "type": "story",
+      "subtype": "relato_finalizado",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "folder": "03_Literatura/02_Finalizadas/trance_de_muneca",
+        "narrator": "Miss Doll",
+        "universe": "La Voûte d'Anaïs",
+        "themes": ["hipnosis", "trance", "cosificación", "disolución de identidad", "muñeca perfecta"],
+        "tags": ["trance", "hipnosis", "miss doll", "muñeca", "control mental", "obediencia"],
+        "format": "second_person_hypnotic",
+        "has_tumblr_version": true
+      }
+    },
+    {
+      "id": "story_trance_muneca_full",
+      "label": "Trance de Muñeca (Texto Completo)",
+      "type": "story",
+      "subtype": "relato_finalizado",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "Trance_De_Muñeca.md",
+        "narrator": "Anaïs Belland / Miss Doll",
+        "format": "countdown_ritual",
+        "structure": "10_to_1_countdown + 3_stages_body",
+        "key_elements": ["countdown 10 a 1", "ritual del cuerpo", "edging multiple", "orgasm denial", "orgasm permission"],
+        "materials": ["látex", "catsuit rosa flúor", "corset de acero", "pumps de aguja", "piercings"],
+        "themes": ["posesión total", "control de orgasmos", "cosificación", "bautizo en poder"],
+        "wordcount_approx": 2200
+      }
+    },
+    {
+      "id": "story_trance_edgeplay",
+      "label": "Trance de Miss Doll Edgeplay",
+      "type": "story",
+      "subtype": "relato_finalizado",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "folder": "03_Literatura/02_Finalizadas/trance_edgeplay",
+        "narrator": "Miss Doll",
+        "universe": "La Voûte d'Anaïs",
+        "themes": ["edgeplay", "negación de orgasmo", "control sexual extremo", "poder en la negación"],
+        "tags": ["edgeplay", "orgasm denial", "control absoluto", "tortura placentera", "al borde"],
+        "has_tumblr_version": true
+      }
+    },
+    {
+      "id": "story_trance_gatita",
+      "label": "Trance de Gatita: El Collar de Campanita",
+      "type": "story",
+      "subtype": "relato_finalizado",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "folder": "03_Literatura/02_Finalizadas/trance_gatita",
+        "narrator": "Anaïs Belland / Miss Doll",
+        "universe": "La Voûte d'Anaïs",
+        "format": "countdown_induction",
+        "key_elements": ["campana tilín como trigger", "collar de terciopelo rosa", "escalera de cristal rosa 10 peldaños", "petplay", "ronroneo condicionado"],
+        "themes": ["petplay", "transformación animal", "identidad felina", "collar como contrato", "obediencia animal"],
+        "tags": ["petplay", "gatita", "kitten", "collar", "campanita", "trance", "hipnosis", "identidad felina"],
+        "has_tumblr_version": true,
+        "setting": "habitación de terciopelo rosa con cojines de seda"
+      }
+    },
+    {
+      "id": "story_treinta_dias",
+      "label": "Treinta Días de Sombra y Seda",
+      "type": "story",
+      "subtype": "relato_finalizado",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "folder": "03_Literatura/02_Finalizadas/treinta_dias_sombra_seda",
+        "file": "treinta_dias_sombra_seda_completo.md",
+        "narrator": "Anaïs Belland",
+        "universe": "La Voûte d'Anaïs",
+        "protagonist": "Cristóbal Alvarado → Nena",
+        "dominants": ["Valentina Sombra", "Patricia (esposa)"],
+        "structure_chapters": ["La Cacería", "La Purga", "La Metamorfosis", "La Consagración", "El Regreso", "La Domesticación", "El Presente"],
+        "themes": ["MtF forzado", "hormonización", "condicionamiento pavloviano", "traición conyugal", "identidad borrada", "circuito de traición"],
+        "key_mechanics": ["inyecciones de estrógenos y antiandrógenos", "privación sensorial", "pantalla con espirales hipnóticas", "cinturón de castidad", "corsé", "tacones con candado"],
+        "arc": "hombre arrogante cazador → Nena sumisa (30 días de transformación total)",
+        "setting": "Bellavista bar → Valentina casa → Cajón del Maipo → regreso a Santiago",
+        "twist": "esposa Patricia era cómplice de Valentina — plan orquestado",
+        "wordcount_approx": 7000,
+        "tags": ["MtF", "transformación forzada", "hormonas", "condicionamiento", "traición", "collar"]
+      }
+    },
+    {
+      "id": "research_capitulo1_gloss3",
+      "label": "Investigación: Capítulo 1 El Diagnóstico (Gloss III)",
+      "type": "research",
+      "subtype": "investigacion_literaria",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/capitulo_1_el_diagnostico.md",
+        "target_story": "Gloss III: La Vacuidad Eterna",
+        "chapter": 1,
+        "title": "El Diagnóstico de la Aberración",
+        "narrator": "Miss Doll",
+        "themes": ["masculinidad como error/parásito", "corrección", "bimboficación como cura", "vampirismo oscuro"],
+        "style": "horror gótico + hipnosis + corrección estética"
+      }
+    },
+    {
+      "id": "research_gothic_bimbo",
+      "label": "Investigación: Gothic Bimbo (Gimbo)",
+      "type": "research",
+      "subtype": "investigacion_arquetipo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/gothic_bimbo_gimbo.md",
+        "subject": "Helena de Anaïs",
+        "archetype": "Gothic Bimbo / Gimbo",
+        "definition": "Fusión de bimbo tradicional con estética y actitud gótica",
+        "key_traits": ["vacío productivo", "placer como brújula", "presente eterno", "cuerpo como templo oscuro"],
+        "vs_classic_bimbo": "negro/púrpura vs rosa, energía vampiresa vs cheerleader, pecado celebrado vs inocencia",
+        "referentes": ["Morticia Addams", "Elvira", "Amy Lee de Evanescence"],
+        "application": "Helena de Anaïs en transición a gothic bimbo",
+        "colors": ["negro", "púrpura profundo", "rojo sangre", "rosa fucsia como acento"]
+      }
+    },
+    {
+      "id": "research_ideas_bajo_mundo",
+      "label": "Investigación: Ideas del Bajo Mundo (Mind Control & MTF)",
+      "type": "research",
+      "subtype": "investigacion_ideas",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/ideas_bajo_mundo.md",
+        "date": "2025-12-30",
+        "researcher": "Helena de Anaïs",
+        "categories": ["mecanismos control mental tecnológicos", "mecanismos psiónicos", "mecanismos psicológicos realistas", "tropos MTF", "bimboficación física/mental/conductual", "dollification", "findom", "maid training"],
+        "story_ideas_count": 13,
+        "ginny_ideas_count": 13,
+        "new_story_ideas": ["La Herencia", "El Espejo Negro", "La App", "La Hipnoterapeuta", "El Voto de Silencio", "La Modelo", "El Juicio", "La Patrona", "Las Máscaras del Festival", "El Programa de Rehabilitación", "La Musa Digital", "El Convento Oscuro"],
+        "ginny_character": "Genio Bimbo — NUNCA rosa, lógica bimbo, devoluciones no existen"
+      }
+    },
+    {
+      "id": "research_ideas_mtf_2026",
+      "label": "Investigación: Nuevos Conceptos MtF 2026",
+      "type": "research",
+      "subtype": "investigacion_tendencias",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/ideas_nuevas_mtf_2026.md",
+        "date": "2026-01-06",
+        "researcher": "Helena",
+        "focus": "Psychological Forced Feminization, High-End Aesthetics, Dark Erotica",
+        "trends": ["Corporate Femdom", "Digital Conditioning", "Moral Redemption", "Identity Theft/Replacement"],
+        "proposals": {
+          "A": "The Portfolio — Fin-Dom + Techno-Bimbo (crypto bro + deuda en masculinidad)",
+          "B": "La Cláusula Viuda — testamento exige vivir como Señora de la Casa",
+          "C": "Detox Resort: La Chrysalide — retiro spa + body horror hormonal",
+          "D": "HR: Human Repurposing — corporate dystopia Performance Improvement Plan",
+          "E": "El Algoritmo de la Musa — escritor + IA de Anaïs"
+        }
+      }
+    },
+    {
+      "id": "research_deuda",
+      "label": "Investigación: Transformación por Deuda",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_deuda.md",
+        "date": "2025-12-29",
+        "working_title": "El Precio de la Carne / Cuotas de Feminidad",
+        "tropo": "Debt Slavery Feminization",
+        "structure": "8 cuotas en 8 capítulos (Día 0 a Semana 12)",
+        "payment_table": ["Cuota 1 depilación total", "Cuota 2 ropa interior 24/7", "Cuota 3 maquillaje", "Cuota 4 hormonas", "Cuota 5 implantes", "Cuota 6 nombre legal", "Cuota 7 trabajo como mujer", "Cuota 8 cirugía genital"],
+        "acreedora": "Anaïs (elegante) + Miss Doll (cobradora)",
+        "canon_connections": ["contrato sagrado e irrompible", "transformación tiene costo", "rendición inevitable"],
+        "status": "FASE 1 Completa"
+      }
+    },
+    {
+      "id": "research_collar_nancy",
+      "label": "Investigación: El Collar de Nancy",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_el_collar_de_nancy.md",
+        "target_story": "El Collar de Nancy",
+        "premise": "Roommate se pone collar rosa de Miss Doll por juego → pierde control del cuerpo → se convierte en Nancy",
+        "protagonist": "Mario → Nancy",
+        "roommate": "Derek",
+        "miss_doll_role": "arquitecta invisible (solo su logo en caja)",
+        "collar_mechanics": ["activación verbal", "programas base: Mucama/Cocinera/Secretaria", "no se puede quitar"],
+        "physical_transformation": ["breast plate de silicona", "hip pads", "máscaras de silicona (static face)", "pelucas", "tacones"],
+        "costumes": ["mucama francesa", "secretaria", "enfermera", "Hooters", "cheerleader"],
+        "structure": ["Acto 1: Descubrimiento", "Acto 2: Control", "Acto 3: Fiesta con amigos"],
+        "key_horror_element": "máscara de silicona estática — sonrisa congelada mientras Mario grita adentro",
+        "research_includes": ["masking community", "Hooters culture", "mind control fetish"],
+        "decision_pov": "Primera persona (Mario)",
+        "status": "Fase 1 actualizada → lista para Fase 2 arco argumental"
+      }
+    },
+    {
+      "id": "research_eres_hombres_II",
+      "label": "Investigación: Eres de los Hombres que II (Los Perdedores)",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_eres_de_los_hombres_que_II.md",
+        "target_story": "Eres de los Hombres que... II — Los Perdedores",
+        "date": "2025-12-11",
+        "premise": "Dos universitarios perdedores buscan conscientemente a Miss Doll para transformarse y ganar popularidad",
+        "protagonist_A": "Gym Bunny Bimbo (5 fases: cambios sutiles → obsesión gym → feminización fitness → bimbo Instagram → devoción al amigo)",
+        "protagonist_B": "Fratboy Himbo (giro final sorpresa)",
+        "transformation_technique": "técnica Eres de los hombres que... (afirmaciones como realidad)",
+        "irony": "quien no quería ser transformado también lo es; piden popularidad, pierden identidad",
+        "new_elements": ["búsqueda consciente", "redes sociales como herramienta", "giro doble"],
+        "structure": "8 capítulos",
+        "status": "investigación completa"
+      }
+    },
+    {
+      "id": "research_evaluacion_miss_doll",
+      "label": "Investigación: La Evaluación de Miss Doll",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_la_evaluacion_de_miss_doll.md",
+        "target_story": "La Evaluación de Miss Doll",
+        "core_dynamics": ["blackmail/chantaje", "forced feminization office setting", "humillación corporativa", "psychological break"],
+        "protagonist": "Roberto",
+        "key_tropes": ["The Folder (el dossier)", "The Slow Creep (4 niveles)", "Financial Ruin vs Sissyhood", "The Relief of Surrender", "Gaslighting Corporativo"],
+        "protagonist_arc": "odio/miedo → vergüenza excitante → dependencia → aceptación",
+        "miss_doll_role": "jefa que chantajea → Roberto se convierte en secretaria perfecta"
+      }
+    },
+    {
+      "id": "research_mujer_normal_bimbo",
+      "label": "Investigación: Mujer Normal → Bimbo (Control Mental)",
+      "type": "research",
+      "subtype": "investigacion_tendencias",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_mujer_normal_bimbo_2026.md",
+        "date": "2026-01-21",
+        "researcher": "Helena de Anaïs",
+        "focus": "mujer tímida/normal transformada mediante control mental",
+        "trending_mechanisms": ["El Libro Maldito", "El Suero de Belleza", "Slut-Flu", "App de Modificación", "IQ Draining", "Parasitismo Memético"],
+        "proposals": ["La Tesis Robada", "El Pendiente de Mamá", "El Wellness Retreat", "La Roommate Perfecta", "El Gloss de Muestra", "La Influencer que Sigo"],
+        "victim_archetypes": ["bibliotecaria", "científica", "profesora", "contadora", "programadora", "doctora", "abogada"],
+        "sections": ["Stepford modernas", "Control AI/Tecnología", "Corrupción gradual social", "Body Horror suave", "Inversión de poder"],
+        "bimbo_psychology": ["wish fulfillment", "identity exploration", "power dynamics", "simplification fantasy"],
+        "dollification_referentes": ["Pygmalion/Galatea", "Stepford Wives", "Metropolis", "Paradise Hills"]
+      }
+    },
+    {
+      "id": "research_profunda_mtf",
+      "label": "Investigación Profunda: Hipnosis MTF y Deshumanización Plasticista",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_profunda_mtf.md",
+        "target_story": "Gloss III: La Vacuidad Eterna",
+        "sections": ["Muerte de Identidad (Identity Death)", "Mecánicas simbólicas de reducción", "Utilidad como Receptáculo", "El Error Masculino como Control", "Triggers técnicos"],
+        "triggers": {
+          "CORRECTED": "alivio profundo, aceptación del pasado como error",
+          "USEFUL": "excitación centrada en sumisión",
+          "VOID": "desaparición de pensamientos lógicos",
+          "GLOSS_SELL": "sensación de objeto inerte y brillante"
+        },
+        "philosophy": "Miss Doll como curadora, no dominatrix — la masculinidad como aberración biológica"
+      }
+    },
+    {
+      "id": "research_reality_show",
+      "label": "Investigación: Feminización Reality Show",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_reality_show.md",
+        "date": "2025-12-29",
+        "working_title": "El Show de la Transformación / Bella o Bestia",
+        "phases_developed": ["Fase 1-8"],
+        "setting": "The Dollhouse (set panóptico de lujo diseñado por Anaïs)",
+        "mechanics": ["nanobots The Glow", "collares biométricos", "espejos inteligentes", "votación StrawPoll del lector"],
+        "contestants": {
+          "Julian_Castelli": "El Príncipe (38, startup tech) → Jules bimbo aristocrat",
+          "Marco_Rossi": "El Toro (29, mecánico MMA) → Roxie trashy slut"
+        },
+        "canon_roles": ["Miss Doll como conductora", "Anaïs como productora", "Helena como ex-ganadora mentora"],
+        "endgame_twist": "ganador atrapado por nanobots, perdedores se convierten en staff Temporada 2",
+        "interactive_element": "StrawPoll votación real del lector",
+        "status": "concepto listo para producción"
+      }
+    },
+    {
+      "id": "research_titulos",
+      "label": "Investigación: Ingeniería de Títulos y Ganchos",
+      "type": "research",
+      "subtype": "investigacion_marketing",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_titulos.md",
+        "date": "2025-12-27",
+        "source_data": "Top Historial Categoría 27 (Transexuales/Travestis) TodoRelatos",
+        "formula": "[Sujeto/Autoridad] + [Acción de Transformación] + [Resultado/Consecuencia Sexual]",
+        "hook_styles": ["Confesión en Tiempo Real", "Promesa de Contenido", "Causa-Efecto Inmediato"],
+        "application": "optimización de títulos para El Reflejo de la Amabilidad",
+        "conclusion": "título debe funcionar como sinopsis de una sola línea"
+      }
+    },
+    {
+      "id": "research_trance_bimbodoll",
+      "label": "Investigación: Trance BimboDoll",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_trance_bimbodoll.md",
+        "date": "2025-12-04",
+        "target_story": "Trance BimboDoll (texto hipnótico segunda persona)",
+        "premise": "Miss Doll guía directamente a lectora feminista hippie a través de trance de bimboficación",
+        "philosophy": "bimboficación como liberación, no degradación",
+        "transformation_elements": ["vacío mental", "objetificación", "transformación física (pechos/labios/cara)", "nuevo nombre bimbo"],
+        "bimbo_names_proposed": ["SPARKLE", "BUBBLES", "PINKY", "TRIXIE", "LOLLY", "GLITTER", "BUNNY", "CHERRY", "PEACHES", "DITZY"],
+        "edging_role": "vacía mente, mantiene obediente, condiciona, crea adicción",
+        "miss_doll_appearance": "Bob rubio platino, catsuit látex rosa flúor, Bratz realista",
+        "hypnotic_techniques": ["relajación progresiva", "fijación visual", "conteo descendente", "fraccionalización", "anclajes PNL", "comandos embebidos", "doble vínculos"],
+        "structure": "6 capítulos (La Invitación → El Descenso → La Reprogramación → El Bautizo → Los Hábitos → El Despertar)",
+        "crudeness_progression": "20% → 100% across chapters",
+        "word_triggers": ["GLOSS", "PINK", "HEELS", "DUMB", "OBEY", "BIMBO"]
+      }
+    },
+    {
+      "id": "research_trance_bimbodoll_ii",
+      "label": "Investigación: Trance BimboDoll II — La Profundización",
+      "type": "research",
+      "subtype": "investigacion_profunda",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_trance_bimbodoll_ii.md",
+        "date": "2025-12-16",
+        "sequel_to": "Trance BimboDoll",
+        "new_triggers": ["PLASTIC", "INFLATE", "SERVE", "SHARE", "LEAK"],
+        "fractionalization_example": "BUNNY/AWAKE cycles deepening trance",
+        "propagation_mechanics": "SHARE is OBEY — reclutamiento de amigas",
+        "surgery_sensations": ["implantes mamarios (peso, tirantez, drop and fluff)", "relleno de labios (presión, hinchazón)"],
+        "structure_5_chapters": ["El Regreso (60%)", "Los Nuevos Triggers (70%)", "La Consulta Clínica Rosa (80%)", "Good Girls Make More Good Girls (85%)", "La Marca Permanente (100%)"],
+        "mantras": ["Plastic makes perfect", "My body is clay Miss Doll sculpts", "SHARE is OBEY", "Property of Miss Doll"]
+      }
+    },
+    {
+      "id": "research_tropos_2025",
+      "label": "Investigación: Nuevos Tropos MTF/Bimbofication 2025",
+      "type": "research",
+      "subtype": "investigacion_tendencias",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "file": "03_Literatura/investigacion/investigacion_tropos_2025.md",
+        "date": "2025-12-29",
+        "already_explored": ["Resistencia → Aceptación Gradual", "Sissy Cinderella", "Redención/Disciplina"],
+        "new_high_potential": ["Reality Show de Feminización", "Sissy School/Training Camp", "Capricho Puro sin Razón"],
+        "not_explored": ["Gemelo/a Malvado/a", "Feminización Médica Involuntaria", "Culto de Adoración", "Transformación por Deuda", "Reality Show TV"],
+        "competition_analysis": "TodoRelatos — caps 2000-3000 palabras mejor engagement",
+        "la_voute_differentiators": ["prosa literaria", "profundidad psicológica", "personajes recurrentes Miss Doll y Anaïs"]
+      }
+    },
+    {
+      "id": "char_miss_doll",
+      "label": "Miss Doll",
+      "type": "character",
+      "subtype": "dominante_protagonista",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "role": "hipnotista dominante / escultora de identidades / curadora",
+        "appearance": "Bob rubio platino, catsuit látex rosa flúor, corset, pumps 16-18cm, piel de silicona, Bratz realista",
+        "techniques": ["hipnosis directa", "control mental progresivo", "reescritura de realidad", "elixires de transformación", "disolución mental"],
+        "mantras": ["Brilla. Obedece. Repite.", "Superficie es todo, cariño"],
+        "voice": "caricia de terciopelo, voz como droga"
+      }
+    },
+    {
+      "id": "char_valentina_sombra",
+      "label": "Valentina Sombra",
+      "type": "character",
+      "subtype": "dominante_antagonista",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "Treinta Días de Sombra y Seda",
+        "role": "drag performer / capturadora / transformadora",
+        "method": "hormonas inyectadas, privación sensorial, condicionamiento",
+        "connection": "cómplice de Patricia (esposa de la víctima)"
+      }
+    },
+    {
+      "id": "char_patricia",
+      "label": "Patricia",
+      "type": "character",
+      "subtype": "dominante_antagonista",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "Treinta Días de Sombra y Seda",
+        "role": "esposa de Cristóbal → ama de Nena",
+        "twist": "cómplice de Valentina desde el inicio — plan orquestado",
+        "method": "domesticación gradual post-retorno, collar final"
+      }
+    },
+    {
+      "id": "char_cristobal_nena",
+      "label": "Cristóbal Alvarado → Nena",
+      "type": "character",
+      "subtype": "protagonista_transformacion",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "story": "Treinta Días de Sombra y Seda",
+        "before": "ejecutivo piso 40, coleccionista de mujeres, arrogante, cazador",
+        "after": "Nena — sumisa, dependiente de Patricia, sin nombre propio, collar",
+        "arc": "30 días Cajón del Maipo + 6 meses domesticación gradual",
+        "pov": "primera persona degradante (frases se acortan con el tiempo)"
+      }
+    },
+    {
+      "id": "mechanic_edgeplay",
+      "label": "Edgeplay / Negación de Orgasmo",
+      "type": "mechanic",
+      "subtype": "tropo_kink",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "definition": "estimulación hasta el borde del orgasmo sin liberación",
+        "psychological_effects": ["vacía la mente", "dependencia", "sumisión", "refuerzo condicionamiento"],
+        "appears_in": ["Trance de Miss Doll Edgeplay", "Trance de Muñeca (full)", "Trance BimboDoll", "Trance BimboDoll II"],
+        "mantras": ["Edge y obedece", "El edge es mi hogar", "Frustrada y feliz"]
+      }
+    },
+    {
+      "id": "mechanic_petplay_collar",
+      "label": "Petplay con Collar",
+      "type": "mechanic",
+      "subtype": "tropo_kink",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "definition": "transformación identitaria en animal doméstico mediante collar",
+        "trigger_mechanism": "campanita tilín como ancla condicionada",
+        "appears_in": ["Trance de Gatita: El Collar de Campanita"],
+        "identity_dissolution": "identidad animal reemplaza humana — ronroneo, cuatro patas, lengua"
+      }
+    },
+    {
+      "id": "mechanic_countdown_induction",
+      "label": "Inducción por Cuenta Regresiva",
+      "type": "mechanic",
+      "subtype": "tecnica_hipnotica",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "definition": "cuenta 10 a 1 donde cada número profundiza el trance",
+        "variants": ["10 a 1 de control físico ascendente (Trance de Muñeca)", "10 peldaños escalera de cristal rosa (Trance Gatita)", "10 peldaños Escalera Rosa (Trance BimboDoll)"],
+        "appears_in": ["Trance de Muñeca", "Trance de Gatita", "Trance BimboDoll"]
+      }
+    },
+    {
+      "id": "mechanic_fractionalization",
+      "label": "Fraccionalización Hipnótica",
+      "type": "mechanic",
+      "subtype": "tecnica_hipnotica",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "definition": "sacar y volver a meter en trance repetidamente para profundizar",
+        "application": "BUNNY/AWAKE cycles en Trance BimboDoll II",
+        "effect": "cada ciclo hace el trance más fácil y más profundo"
+      }
+    },
+    {
+      "id": "mechanic_identity_dissolution_mtf",
+      "label": "Disolución de Identidad MtF",
+      "type": "mechanic",
+      "subtype": "tropo_narrativo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "definition": "borrado gradual de identidad masculina previa y sustitución por identidad femenina",
+        "methods": ["condicionamiento pavloviano", "privación sensorial", "hormonización", "hipnopedia", "pantallas con espirales", "collares con triggers"],
+        "appears_in": ["Treinta Días de Sombra y Seda", "Trance de Muñeca", "Trance BimboDoll", "Gloss III"],
+        "philosophy": "masculinidad como error/parásito que debe corregirse"
+      }
+    },
+    {
+      "id": "story_gloss3_wip",
+      "label": "Gloss III: La Vacuidad Eterna (WIP)",
+      "type": "story",
+      "subtype": "historia_en_desarrollo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "status": "en desarrollo — investigación completa",
+        "setting": "santuario de Miss Doll (ataúd de lujo, rosa neón, terciopelo negro)",
+        "chapter1_title": "El Diagnóstico de la Aberración",
+        "narrator": "Miss Doll segunda persona",
+        "themes": ["masculinidad como enfermedad del alma", "bimboficación como cura", "vampirismo gótico", "corrección estética"]
+      }
+    },
+    {
+      "id": "story_el_collar_de_nancy_wip",
+      "label": "El Collar de Nancy (WIP)",
+      "type": "story",
+      "subtype": "historia_en_desarrollo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "status": "Fase 1 completa — lista para arco argumental",
+        "themes": ["mind control por objeto", "masking/rubber doll", "dollification con máscara estática", "uso compartido", "petplay objectification"]
+      }
+    },
+    {
+      "id": "story_eres_hombres_II_wip",
+      "label": "Eres de los Hombres que II: Los Perdedores (WIP)",
+      "type": "story",
+      "subtype": "historia_en_desarrollo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "status": "investigación completa",
+        "sequel_to": "Eres de los Hombres que... (original)",
+        "new_elements": ["búsqueda consciente de transformación", "redes sociales como herramienta", "doble giro (Gym Bunny + Fratboy Himbo)"]
+      }
+    },
+    {
+      "id": "story_reality_show_wip",
+      "label": "El Show de la Transformación / The Dollhouse (WIP)",
+      "type": "story",
+      "subtype": "historia_en_desarrollo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "status": "concepto listo para producción — 8 fases desarrolladas",
+        "interactive": true,
+        "voting_platform": "StrawPoll"
+      }
+    },
+    {
+      "id": "story_trance_bimbodoll_wip",
+      "label": "Trance BimboDoll (WIP)",
+      "type": "story",
+      "subtype": "historia_en_desarrollo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "status": "investigación completa — pendiente borrador cap 1",
+        "format": "texto hipnótico segunda persona 6 capítulos"
+      }
+    },
+    {
+      "id": "universe_la_voute",
+      "label": "La Voûte d'Anaïs",
+      "type": "universe",
+      "subtype": "universo_narrativo",
+      "source": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {
+        "canon_rules": ["transformación siempre deja marca permanente", "contratos son sagrados e irrompibles", "rendición es inevitable", "punto de no retorno es psicológico no físico"],
+        "recurring_characters": ["Miss Doll", "Anaïs Belland", "Helena de Anaïs"],
+        "setting": "Chile (Santiago, Bellavista, Cajón del Maipo)"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "story_trance_muneca_full",
+      "target": "story_trance_muneca",
+      "relation": "IS_FULL_VERSION_OF",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_muneca",
+      "target": "char_miss_doll",
+      "relation": "FEATURES_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_muneca_full",
+      "target": "mechanic_countdown_induction",
+      "relation": "USES_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_muneca_full",
+      "target": "mechanic_edgeplay",
+      "relation": "USES_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "triple edging with final permission"}
+    },
+    {
+      "source": "story_trance_muneca_full",
+      "target": "mechanic_identity_dissolution_mtf",
+      "relation": "USES_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_edgeplay",
+      "target": "char_miss_doll",
+      "relation": "FEATURES_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_edgeplay",
+      "target": "mechanic_edgeplay",
+      "relation": "CENTRAL_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_gatita",
+      "target": "char_miss_doll",
+      "relation": "FEATURES_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_gatita",
+      "target": "mechanic_petplay_collar",
+      "relation": "CENTRAL_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_gatita",
+      "target": "mechanic_countdown_induction",
+      "relation": "USES_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_gatita",
+      "target": "mechanic_identity_dissolution_mtf",
+      "relation": "USES_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "identidad animal reemplaza humana"}
+    },
+    {
+      "source": "story_treinta_dias",
+      "target": "char_valentina_sombra",
+      "relation": "FEATURES_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_treinta_dias",
+      "target": "char_patricia",
+      "relation": "FEATURES_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_treinta_dias",
+      "target": "char_cristobal_nena",
+      "relation": "FEATURES_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_treinta_dias",
+      "target": "mechanic_identity_dissolution_mtf",
+      "relation": "CENTRAL_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "30 días de transformación total + domesticación posterior"}
+    },
+    {
+      "source": "research_capitulo1_gloss3",
+      "target": "story_gloss3_wip",
+      "relation": "INFORMS_STORY",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_profunda_mtf",
+      "target": "story_gloss3_wip",
+      "relation": "INFORMS_STORY",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_collar_nancy",
+      "target": "story_el_collar_de_nancy_wip",
+      "relation": "INFORMS_STORY",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_eres_hombres_II",
+      "target": "story_eres_hombres_II_wip",
+      "relation": "INFORMS_STORY",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_reality_show",
+      "target": "story_reality_show_wip",
+      "relation": "INFORMS_STORY",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_trance_bimbodoll",
+      "target": "story_trance_bimbodoll_wip",
+      "relation": "INFORMS_STORY",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_trance_bimbodoll_ii",
+      "target": "story_trance_bimbodoll_wip",
+      "relation": "INFORMS_STORY",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "sequel research"}
+    },
+    {
+      "source": "research_deuda",
+      "target": "story_reality_show_wip",
+      "relation": "RELATED_RESEARCH",
+      "source_type": "INFERRED",
+      "confidence": 0.75,
+      "properties": {"note": "ambos exploran transformación transaccional con contratos"}
+    },
+    {
+      "source": "research_tropos_2025",
+      "target": "research_reality_show",
+      "relation": "SEEDS_RESEARCH",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "tropos_2025 identifica Reality Show como NO explorado → reality_show investigación lo desarrolla"}
+    },
+    {
+      "source": "research_tropos_2025",
+      "target": "research_deuda",
+      "relation": "SEEDS_RESEARCH",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "tropos_2025 identifica Transformación por Deuda como nuevo → investigación_deuda lo desarrolla"}
+    },
+    {
+      "source": "research_trance_bimbodoll",
+      "target": "mechanic_fractionalization",
+      "relation": "DOCUMENTS_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_trance_bimbodoll_ii",
+      "target": "mechanic_fractionalization",
+      "relation": "APPLIES_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_trance_bimbodoll",
+      "target": "mechanic_edgeplay",
+      "relation": "DOCUMENTS_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_trance_bimbodoll_ii",
+      "target": "mechanic_edgeplay",
+      "relation": "DOCUMENTS_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_trance_bimbodoll",
+      "target": "mechanic_countdown_induction",
+      "relation": "DOCUMENTS_MECHANIC",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_muneca",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_edgeplay",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_gatita",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_treinta_dias",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "char_miss_doll",
+      "target": "universe_la_voute",
+      "relation": "RECURRING_CHARACTER_OF",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_evaluacion_miss_doll",
+      "target": "char_miss_doll",
+      "relation": "DEVELOPS_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_trance_bimbodoll",
+      "target": "char_miss_doll",
+      "relation": "DEVELOPS_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "research_gothic_bimbo",
+      "target": "research_ideas_bajo_mundo",
+      "relation": "RELATED_RESEARCH",
+      "source_type": "INFERRED",
+      "confidence": 0.75,
+      "properties": {"note": "ambos exploran variantes de bimboficación"}
+    },
+    {
+      "source": "research_mujer_normal_bimbo",
+      "target": "research_ideas_bajo_mundo",
+      "relation": "EXTENDS_RESEARCH",
+      "source_type": "INFERRED",
+      "confidence": 0.85,
+      "properties": {"note": "mujer_normal_bimbo profundiza ideas bajo mundo para protagonista femenina"}
+    },
+    {
+      "source": "research_profunda_mtf",
+      "target": "research_trance_bimbodoll",
+      "relation": "RELATED_RESEARCH",
+      "source_type": "INFERRED",
+      "confidence": 0.85,
+      "properties": {"note": "ambos investigan hipnosis MtF — profunda_mtf es versión más académica"}
+    },
+    {
+      "source": "research_ideas_mtf_2026",
+      "target": "research_ideas_bajo_mundo",
+      "relation": "EXTENDS_RESEARCH",
+      "source_type": "INFERRED",
+      "confidence": 0.85,
+      "properties": {"note": "2026 research refina y sofistica ideas generadas en bajo_mundo"}
+    },
+    {
+      "source": "research_collar_nancy",
+      "target": "char_miss_doll",
+      "relation": "FEATURES_CHARACTER_OFFSTAGE",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "Miss Doll solo como presencia implícita — su logo en la caja"}
+    },
+    {
+      "source": "research_evaluacion_miss_doll",
+      "target": "research_collar_nancy",
+      "relation": "CANON_CONNECTION",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"note": "La Evaluación conecta por contrato de sumisión (ambas Miss Doll)"}
+    },
+    {
+      "source": "research_titulos",
+      "target": "research_tropos_2025",
+      "relation": "COMPLEMENTARY_RESEARCH",
+      "source_type": "INFERRED",
+      "confidence": 0.75,
+      "properties": {"note": "títulos informa marketing de nuevos tropos identificados"}
+    },
+    {
+      "source": "story_treinta_dias",
+      "target": "research_tropos_2025",
+      "relation": "EXEMPLIFIES_TROPO",
+      "source_type": "INFERRED",
+      "confidence": 0.85,
+      "properties": {"note": "Treinta Días implementa Redención/Disciplina + Venganza ex-pareja (ya explorados en La Voûte)"}
+    },
+    {
+      "source": "story_trance_gatita",
+      "target": "mechanic_edgeplay",
+      "relation": "USES_MECHANIC",
+      "source_type": "INFERRED",
+      "confidence": 0.75,
+      "properties": {"note": "excitación construida implícita aunque edging no es el foco central"}
+    },
+    {
+      "source": "research_reality_show",
+      "target": "char_miss_doll",
+      "relation": "CASTS_CHARACTER_AS",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0,
+      "properties": {"role": "conductora del show"}
+    },
+    {
+      "source": "story_gloss3_wip",
+      "target": "char_miss_doll",
+      "relation": "FEATURES_CHARACTER",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_el_collar_de_nancy_wip",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_gloss3_wip",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_reality_show_wip",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_trance_bimbodoll_wip",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "story_eres_hombres_II_wip",
+      "target": "universe_la_voute",
+      "relation": "BELONGS_TO",
+      "source_type": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "source": "mechanic_edgeplay",
+      "target": "mechanic_identity_dissolution_mtf",
+      "relation": "REINFORCES",
+      "source_type": "INFERRED",
+      "confidence": 0.85,
+      "properties": {"note": "edging vacía mente y facilita condicionamiento de identidad"}
+    },
+    {
+      "source": "mechanic_fractionalization",
+      "target": "mechanic_identity_dissolution_mtf",
+      "relation": "REINFORCES",
+      "source_type": "INFERRED",
+      "confidence": 0.85,
+      "properties": {"note": "fraccionalización profundiza trance que facilita disolución de identidad"}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "cluster_trance_series",
+      "label": "Serie de Trances Hipnóticos de Miss Doll",
+      "members": ["story_trance_muneca", "story_trance_muneca_full", "story_trance_edgeplay", "story_trance_gatita", "story_trance_bimbodoll_wip"],
+      "relation": "THEMATIC_CLUSTER",
+      "source_type": "INFERRED",
+      "confidence": 0.95,
+      "properties": {"shared_mechanic": "hipnosis segunda persona + Miss Doll como voz dominante"}
+    },
+    {
+      "id": "cluster_research_bimbofication",
+      "label": "Corpus de Investigación Bimboficación",
+      "members": ["research_trance_bimbodoll", "research_trance_bimbodoll_ii", "research_mujer_normal_bimbo", "research_gothic_bimbo", "research_ideas_bajo_mundo"],
+      "relation": "RESEARCH_CORPUS",
+      "source_type": "INFERRED",
+      "confidence": 0.95,
+      "properties": {"topic": "bimboficación desde múltiples ángulos — técnico, estético, psicológico"}
+    },
+    {
+      "id": "cluster_research_mtf_forcedFem",
+      "label": "Corpus de Investigación MtF / Feminización Forzada",
+      "members": ["research_profunda_mtf", "research_eres_hombres_II", "research_evaluacion_miss_doll", "research_collar_nancy", "research_deuda", "research_tropos_2025", "research_ideas_mtf_2026"],
+      "relation": "RESEARCH_CORPUS",
+      "source_type": "INFERRED",
+      "confidence": 0.95,
+      "properties": {"topic": "feminización masculina forzada — tropos, técnicas, personajes, estructuras narrativas"}
+    },
+    {
+      "id": "cluster_longer_submission_arcs",
+      "label": "Arcos de Sumisión Extendida (30+ días / múltiples capítulos)",
+      "members": ["story_treinta_dias", "story_reality_show_wip", "research_deuda"],
+      "relation": "NARRATIVE_CLUSTER",
+      "source_type": "INFERRED",
+      "confidence": 0.85,
+      "properties": {"shared_trait": "transformación extendida en tiempo con proceso detallado vs. trance instantáneo"}
+    }
+  ],
+  "input_tokens": 38000,
+  "output_tokens": 4200
+}

@@ -1,0 +1,1931 @@
+{
+  "nodes": [
+    {
+      "id": "la_piel_concepto",
+      "label": "La Piel que Diseño — Concepto v1.0",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/concepto.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_arco_maestro",
+      "label": "La Piel que Diseño — Arco Maestro v1",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_personajes",
+      "label": "La Piel que Diseño — Fichas de Personajes v1.0",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_walkthrough",
+      "label": "La Piel que Diseño — Walkthrough / Decisiones Canónicas",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_linea_tiempo",
+      "label": "La Piel que Diseño — Línea de Tiempo Maestra",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_mapa_erotico",
+      "label": "La Piel que Diseño — Mapa Erótico v1 (General 3 caps)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_mapa_erotico_cap2",
+      "label": "La Piel que Diseño — Mapa Erótico Específico Cap 2 v1",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_cap2_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_cap1_maestro",
+      "label": "La Piel que Diseño — Cap 1 Maestro v1 (La Piel, ~7200 palabras)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_cap1_v1_2",
+      "label": "La Piel que Diseño — Cap 1 v1.2.1 (Post-fixes Ama, La Piel)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v1.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_cap2_v1_4",
+      "label": "La Piel que Diseño — Cap 2 v1.4 (El Escenario, Post-Gate Ama D11-D15)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_char_matias",
+      "label": "Matías — Protagonista / Narrador (La Piel que Diseño)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_char_daniela",
+      "label": "Daniela — Figura de Poder / Antagonista (La Piel que Diseño)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_char_dani",
+      "label": "Dani — Identidad Instalada por Daniela en Cap 2 (más sumisa/puta/bimbo)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_cap2_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_char_sebastian_mura",
+      "label": "Sebastián Mura — Ex-cliente de entrenamiento de Matías (Cap 2)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_cap2_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_char_nacho",
+      "label": "Nacho — Instructor de pole en el club (Cap 2)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_body_swap",
+      "label": "Tema: Body Swap MtF sin explicación",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/concepto.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_bimbofication",
+      "label": "Tema: Bimbofication desde adentro — el diseñador habita lo que diseñó",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/concepto.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_racconto",
+      "label": "Mecánica Narrativa: Sistema de Racconto (sensación presente → reconocimiento → flashback → sensación amplificada)",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_rendicion",
+      "label": "Curva de Rendición: Resistencia → Confusión → Traición del Cuerpo → Aceptación → Paz del Adicto",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_catalogo",
+      "label": "Rima Narrativa Central: El Catálogo (700cc → 1000cc)",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_inversión_poder",
+      "label": "Tema: Inversión de Poder — diseñador diseñado, controlador controlado",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/concepto.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_stripper_club",
+      "label": "Escenario: Club de Strippers — pole dance, VIP, plataformas stripper",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_theme_objectification",
+      "label": "Tema: Objectification / Ser Deseada desde el otro lado de la mirada",
+      "file_type": "theme",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d1",
+      "label": "D1: Gancho final Cap 1 — tres beats canónicos (coño responde, calor, pensamiento explícito sin eufemismo)",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-05",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d2",
+      "label": "D2: Acumulación erótica obligatoria — cada ritual suma sin liberar, tensión insoportable al final",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-05",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d3",
+      "label": "D3: Vestuario canónico Cap 1 — tanga negra encaje + vestido vinilo leopardo sin sostén + tacones 12cm",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d4",
+      "label": "D4: Apertura body swap canónica — Dislocación → Pánico real → Excitación que desborda (regla universal Voûte)",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-12",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d5",
+      "label": "D5: Excitación acumulativa obligatoria desde Sec I — cuerpo responde desde el primer contacto",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d6",
+      "label": "D6: Calle como excitación — miradas masculinas activan calor, 'me están mirando como si fuera puta'",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d7",
+      "label": "D7: Manicurista como punto de excitación femenina — primer registro de deseo femenino-femenino",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d8",
+      "label": "D8: Daniela impone con órdenes — cada imperativo es beat erótico, 'Bien' como activador canónico",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d9",
+      "label": "D9: Cliffhanger Cap 1 — agenda del club revelada (ensayo pista + jueves + VIP sábado), cinco preguntas '¿Y si me gusta...'",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d10",
+      "label": "D10: Horario consistente Cap 1 — cronología detallada del Día 1 (9:30 salida → 19:20 Daniela llega → 20:30 espejo final)",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d11",
+      "label": "D11: Ritual de vestuario diario — Daniela elige, degradación progresiva inter-capítulo",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d12",
+      "label": "D12: Calle como teatro de exposición — ciclo vergüenza→calor profundizado en Cap 2+",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d13",
+      "label": "D13: Staff del club trata condescendientemente — instrucciones van a Daniela, Matías reducido a objeto administrado",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d14",
+      "label": "D14: Plataformas stripper en el club desde Cap 2 — distinción calzado calle vs escenario",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_d15",
+      "label": "D15: Reacciones de terceros como capa erótica obligatoria (MtF) — ser percibido como mujer produce respuesta física",
+      "file_type": "canonical_decision",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "La Ama",
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r1",
+      "label": "R1: Racconto — Catálogo 700cc (detonador: peso implantes al despertar)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r2",
+      "label": "R2: Racconto — El Rubio (detonador: pelo en la cara al despertar, semanas de insistencia casual)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r3",
+      "label": "R3: Racconto — Las Uñas (detonador: manos ajenas en nail studio)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r4",
+      "label": "R4: Racconto — El Maquillaje (detonador: Daniela aplicando maquillaje sobre él)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r5",
+      "label": "R5: Racconto — Los Tacones (detonador: cuerpo reconfigurándose al ponérselos)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r6",
+      "label": "R6: Racconto — El Club (detonador: outfit del escenario puesto, 'Ya tienes todo lo que necesitas')",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r7",
+      "label": "R7: Racconto — El Pole Dance (detonador: cuerpo moviéndose solo, memoria muscular)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r8",
+      "label": "R8: Racconto — Las Miradas (detonador: ser el objeto deseado por los hombres en el club)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r9",
+      "label": "R9: Racconto — La Progresión Diseñada (detonador: VIP, fused con presente en Cap 3)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_racconto_r10",
+      "label": "R10: Racconto — El Catálogo 1000cc (Rima Narrativa Central PAGADA — epílogo Cap 3)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_cap3_concept",
+      "label": "La Piel que Diseño — Cap 3 Concepto: La Rendición (VIP + casa + catálogo, ~5000 palabras)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_borrador_arco_anterior",
+      "label": "La Piel que Diseño — Arco Maestro v1 Anterior (borrador previo, 5 registros de rendición)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/arco_maestro_v1_anterior.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-29",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_borrador_linea_tiempo_anterior",
+      "label": "La Piel que Diseño — Línea de Tiempo v1 Anterior (borrador previo)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/linea_de_tiempo_v1_anterior.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-23",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_borrador_cap1_maestro_v1",
+      "label": "La Piel que Diseño — Cap 1 Borrador Maestro v0.5 (El Primer Día, en borradores)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_maestro_v1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-01",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_borrador_cap1_v0_1",
+      "label": "La Piel que Diseño — Cap 1 v0.1 (El Primer Día, borrador inicial)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_v0.1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-29",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_borrador_cap1_v0_1_arco_anterior",
+      "label": "La Piel que Diseño — Cap 1 v0.2 (El Primer Día, arco anterior, 5 cirugías Editor)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_v0.1_arco_anterior.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-29",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_borrador_cap1_v0_2",
+      "label": "La Piel que Diseño — Cap 1 v0.3 (El Primer Día, 2 cirugías adicionales)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_v0.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-29",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_reporte_cap2_v0_5",
+      "label": "El Secreto de la Cómoda — Reporte Contador Cap 2 v0.5 (8190 palabras)",
+      "file_type": "report",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_reporte_cap2_v0_6",
+      "label": "El Secreto de la Cómoda — Reporte Contador Cap 2 v0.6 (8449 palabras)",
+      "file_type": "report",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.6.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_reporte_cap2_v0_7",
+      "label": "El Secreto de la Cómoda — Reporte Contador Cap 2 v0.7 (9065 palabras)",
+      "file_type": "report",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.7.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_reporte_cap2_v0_8",
+      "label": "El Secreto de la Cómoda — Reporte Contador Cap 2 v0.8 (9974 palabras)",
+      "file_type": "report",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.8.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_reporte_cap2_v0_11",
+      "label": "El Secreto de la Cómoda — Reporte Contador Cap 2 v0.11 (11258 palabras)",
+      "file_type": "report",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.11.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_reporte_cap2_v0_12",
+      "label": "El Secreto de la Cómoda — Reporte Contador Cap 2 v0.12 (11275 palabras, bisagra narrativa)",
+      "file_type": "report",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.12.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-22",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_proyecto",
+      "label": "El Secreto de la Cómoda — Proyecto Literario (femdom, hipnosis, bimbo MtF)",
+      "file_type": "project",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_char_ricardo",
+      "label": "Ricardo — Protagonista El Secreto de la Cómoda (en proceso de feminización como Rocío)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_char_isabel",
+      "label": "Isabel — Figura de Poder El Secreto de la Cómoda (femdom, control del placer)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_char_anais",
+      "label": "Anaïs — Personaje El Secreto de la Cómoda (correa de cuero, instrumento de dominación)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_char_rocio",
+      "label": "Rocío — Identidad Femenina Emergente de Ricardo (El Secreto de la Cómoda)",
+      "file_type": "character",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "secreto_comoda_cap2_commitments",
+      "label": "El Secreto de la Cómoda Cap 2 — Compromisos Narrativos (espejo vestidor, penetración con correa, cinturón castidad, orgasmo arruinado)",
+      "file_type": "narrative_element",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_cap1_fase_escritura",
+      "label": "Fase 4 Escritura Cap 1 — CERRADO MAESTRO (~7200 palabras, D1-D10 integrados, Gate Ama aprobado)",
+      "file_type": "production_phase",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "la_piel_cap2_fase_escritura",
+      "label": "Fase 4 Escritura Cap 2 — POST-GATE AMA v1.4 (Pendiente Gate Ama Final para maestro)",
+      "file_type": "production_phase",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_concepto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_personajes",
+      "target": "la_piel_arco_maestro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_arco_maestro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_concepto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_personajes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_linea_tiempo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_mapa_erotico",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_mapa_erotico_cap2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_cap1_maestro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_cap2_v1_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d3",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d5",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d7",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d8",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d10",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d11",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d12",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d13",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d14",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_walkthrough",
+      "target": "la_piel_d15",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap1_maestro",
+      "target": "la_piel_arco_maestro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap1_maestro",
+      "target": "la_piel_mapa_erotico",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap1_v1_2",
+      "target": "la_piel_cap1_maestro",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v1.2.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_cap2_v1_4",
+      "target": "la_piel_arco_maestro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap2_v1_4",
+      "target": "la_piel_mapa_erotico_cap2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_mapa_erotico_cap2",
+      "target": "la_piel_mapa_erotico",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_cap2_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_mapa_erotico_cap2",
+      "target": "la_piel_cap2_v1_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_cap2_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_mapa_erotico",
+      "target": "la_piel_cap1_maestro",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_v1.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_mapa_erotico",
+      "target": "la_piel_cap3_concept",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_v1.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "la_piel_cap1_maestro",
+      "target": "la_piel_char_matias",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap1_maestro",
+      "target": "la_piel_char_daniela",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap2_v1_4",
+      "target": "la_piel_char_matias",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_cap2_v1_4",
+      "target": "la_piel_char_daniela",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_cap2_v1_4",
+      "target": "la_piel_char_dani",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap2_v1_4",
+      "target": "la_piel_char_sebastian_mura",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap2_v1_4",
+      "target": "la_piel_char_nacho",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_char_dani",
+      "target": "la_piel_char_matias",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/mapa_erotico_cap2_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_char_daniela",
+      "target": "la_piel_char_matias",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_personajes",
+      "target": "la_piel_char_matias",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_personajes",
+      "target": "la_piel_char_daniela",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_theme_body_swap",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_theme_bimbofication",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_theme_racconto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_theme_rendicion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_theme_catalogo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_theme_inversión_poder",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_theme_stripper_club",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r3",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r5",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r7",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r8",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r9",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_arco_maestro",
+      "target": "la_piel_racconto_r10",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_racconto_r1",
+      "target": "la_piel_theme_catalogo",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_racconto_r10",
+      "target": "la_piel_theme_catalogo",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_linea_tiempo",
+      "target": "la_piel_arco_maestro",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_linea_tiempo",
+      "target": "la_piel_cap1_maestro",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_linea_tiempo",
+      "target": "la_piel_cap2_v1_4",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_linea_tiempo",
+      "target": "la_piel_cap3_concept",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_borrador_arco_anterior",
+      "target": "la_piel_arco_maestro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/arco_maestro_v1_anterior.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_borrador_linea_tiempo_anterior",
+      "target": "la_piel_linea_tiempo",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/linea_de_tiempo_v1_anterior.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_borrador_cap1_v0_1",
+      "target": "la_piel_borrador_cap1_v0_1_arco_anterior",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_v0.1_arco_anterior.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_borrador_cap1_v0_1_arco_anterior",
+      "target": "la_piel_borrador_cap1_v0_2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_v0.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_borrador_cap1_v0_2",
+      "target": "la_piel_borrador_cap1_maestro_v1",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_maestro_v1.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "la_piel_borrador_cap1_maestro_v1",
+      "target": "la_piel_cap1_maestro",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_maestro_v1.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "la_piel_cap1_fase_escritura",
+      "target": "la_piel_cap1_maestro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_cap2_fase_escritura",
+      "target": "la_piel_cap2_v1_4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_d4",
+      "target": "la_piel_theme_body_swap",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_d11",
+      "target": "la_piel_d12",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "la_piel_d13",
+      "target": "la_piel_theme_objectification",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "la_piel_d15",
+      "target": "la_piel_theme_objectification",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_5",
+      "target": "secreto_comoda_proyecto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_6",
+      "target": "secreto_comoda_proyecto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.6.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_7",
+      "target": "secreto_comoda_proyecto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.7.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_8",
+      "target": "secreto_comoda_proyecto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.8.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_11",
+      "target": "secreto_comoda_proyecto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.11.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_12",
+      "target": "secreto_comoda_proyecto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.12.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_5",
+      "target": "secreto_comoda_reporte_cap2_v0_6",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.6.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_6",
+      "target": "secreto_comoda_reporte_cap2_v0_7",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.7.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_7",
+      "target": "secreto_comoda_reporte_cap2_v0_8",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.8.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_8",
+      "target": "secreto_comoda_reporte_cap2_v0_11",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.11.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_11",
+      "target": "secreto_comoda_reporte_cap2_v0_12",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.12.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_5",
+      "target": "secreto_comoda_char_ricardo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_5",
+      "target": "secreto_comoda_char_isabel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_5",
+      "target": "secreto_comoda_char_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_5",
+      "target": "secreto_comoda_char_rocio",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_char_rocio",
+      "target": "secreto_comoda_char_ricardo",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_5",
+      "target": "secreto_comoda_cap2_commitments",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_6",
+      "target": "secreto_comoda_cap2_commitments",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.6.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_7",
+      "target": "secreto_comoda_cap2_commitments",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.7.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "secreto_comoda_reporte_cap2_v0_8",
+      "target": "secreto_comoda_cap2_commitments",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.8.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "la_piel_theme_body_swap",
+      "target": "secreto_comoda_proyecto",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/concepto.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "la_piel_theme_bimbofication",
+      "target": "secreto_comoda_proyecto",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/concepto.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "la_piel_char_daniela",
+      "target": "secreto_comoda_char_isabel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md",
+      "source_location": null,
+      "weight": 0.65
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "la_piel_core_documents",
+      "label": "La Piel que Diseño — Documentos Canónicos Nucleares",
+      "nodes": [
+        "la_piel_concepto",
+        "la_piel_arco_maestro",
+        "la_piel_personajes",
+        "la_piel_walkthrough",
+        "la_piel_linea_tiempo",
+        "la_piel_mapa_erotico",
+        "la_piel_mapa_erotico_cap2"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md"
+    },
+    {
+      "id": "la_piel_capitulos_producidos",
+      "label": "La Piel que Diseño — Capítulos Escritos (Cap 1 Maestro + Cap 2 v1.4)",
+      "nodes": [
+        "la_piel_cap1_maestro",
+        "la_piel_cap1_v1_2",
+        "la_piel_cap2_v1_4"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md"
+    },
+    {
+      "id": "la_piel_decisiones_canonicas",
+      "label": "La Piel que Diseño — 15 Decisiones Canónicas Aprobadas por La Ama (D1-D15)",
+      "nodes": [
+        "la_piel_d1",
+        "la_piel_d2",
+        "la_piel_d3",
+        "la_piel_d4",
+        "la_piel_d5",
+        "la_piel_d6",
+        "la_piel_d7",
+        "la_piel_d8",
+        "la_piel_d9",
+        "la_piel_d10",
+        "la_piel_d11",
+        "la_piel_d12",
+        "la_piel_d13",
+        "la_piel_d14",
+        "la_piel_d15"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/walkthrough.md"
+    },
+    {
+      "id": "la_piel_racconto_sistema",
+      "label": "La Piel que Diseño — Sistema de Racconto (R1-R10, motor erótico de los 3 capítulos)",
+      "nodes": [
+        "la_piel_racconto_r1",
+        "la_piel_racconto_r2",
+        "la_piel_racconto_r3",
+        "la_piel_racconto_r4",
+        "la_piel_racconto_r5",
+        "la_piel_racconto_r6",
+        "la_piel_racconto_r7",
+        "la_piel_racconto_r8",
+        "la_piel_racconto_r9",
+        "la_piel_racconto_r10"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/arco_maestro_v1.md"
+    },
+    {
+      "id": "la_piel_borradores_cap1",
+      "label": "La Piel que Diseño — Borradores Cap 1 (progresión v0.1 → v0.2 → v0.3 → v0.5 maestro)",
+      "nodes": [
+        "la_piel_borrador_cap1_v0_1",
+        "la_piel_borrador_cap1_v0_1_arco_anterior",
+        "la_piel_borrador_cap1_v0_2",
+        "la_piel_borrador_cap1_maestro_v1"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/capitulo_01/capitulo_01_el_primer_dia_maestro_v1.md"
+    },
+    {
+      "id": "la_piel_personajes_principales",
+      "label": "La Piel que Diseño — Personajes Principales (Matías, Daniela, Dani)",
+      "nodes": [
+        "la_piel_char_matias",
+        "la_piel_char_daniela",
+        "la_piel_char_dani"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/personajes_maestro_v1.md"
+    },
+    {
+      "id": "secreto_comoda_reportes_cap2",
+      "label": "El Secreto de la Cómoda — Reportes de Contador Cap 2 (v0.5 a v0.12, crecimiento 8190→11275 palabras)",
+      "nodes": [
+        "secreto_comoda_reporte_cap2_v0_5",
+        "secreto_comoda_reporte_cap2_v0_6",
+        "secreto_comoda_reporte_cap2_v0_7",
+        "secreto_comoda_reporte_cap2_v0_8",
+        "secreto_comoda_reporte_cap2_v0_11",
+        "secreto_comoda_reporte_cap2_v0_12"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md"
+    },
+    {
+      "id": "secreto_comoda_personajes",
+      "label": "El Secreto de la Cómoda — Personajes Cap 2 (Ricardo/Rocío, Isabel, Anaïs)",
+      "nodes": [
+        "secreto_comoda_char_ricardo",
+        "secreto_comoda_char_isabel",
+        "secreto_comoda_char_anais",
+        "secreto_comoda_char_rocio"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/reportes/capitulo_2/reporte_contador_capitulo_2_v0.5.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

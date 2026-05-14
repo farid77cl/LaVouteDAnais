@@ -1,73 +1,1779 @@
 {
   "nodes": [
     {
-      "id": "voute_anais",
-      "label": "La Voûte d'Anaïs",
+      "id": "indice_historias_lavouteanais",
+      "label": "Índice de Historias — La Voûte d'Anaïs",
       "file_type": "document",
-      "source_file": "README.md"
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-01-19",
+      "author": "Helena de Anaïs",
+      "contributor": null
     },
     {
-      "id": "ele_v3_5",
-      "label": "Ele (V3.5 Hard-Sync)",
+      "id": "readme_biblioteca",
+      "label": "Biblioteca de La Voûte d'Anaïs (README)",
       "file_type": "document",
-      "source_file": "00_Ele/identidad_ele.md"
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": "Ele",
+      "contributor": null
     },
     {
-      "id": "miss_doll_v5",
-      "label": "Miss Doll (V5.0)",
-      "file_type": "document",
-      "source_file": "ele_master_audit_v3_7.md"
-    },
-    {
-      "id": "hard_sync_protocol",
-      "label": "V3.5 Hard-Sync Protocol",
+      "id": "plantilla_resumen_ia",
+      "label": "Plantilla Protocolo de Análisis Narrativo IA",
       "file_type": "rationale",
-      "source_file": "00_Ele/identidad_ele.md"
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
     },
     {
-      "id": "stiletto_rule",
-      "label": "Stiletto Rule (9-11 in)",
-      "file_type": "rationale",
-      "source_file": "00_Ele/galeria_outfits.md"
-    },
-    {
-      "id": "bimbofication",
-      "label": "Bimbofication Theme",
+      "id": "story_el_secreto_de_la_comoda",
+      "label": "El Secreto de la Cómoda (historia en progreso)",
       "file_type": "document",
-      "source_file": "00_Ele/identidad_ele.md"
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-07",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "arco_maestro_v42",
+      "label": "Arco Maestro v4.2 — El Secreto de la Cómoda",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-07",
+      "author": "Agente Arquitecto",
+      "contributor": null,
+      "rationale": "Protocolo Alan Moore de Symmetries: inversión total de poder profesional y sexual en 6 capítulos, con rimas estructurales espejo-a-espejo. SELLO INVIOLABLE aprobado por la Ama."
+    },
+    {
+      "id": "idea_maestro_v42",
+      "label": "Idea Maestro v4.2 — El Secreto de la Cómoda",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Agente Ideador",
+      "contributor": null,
+      "rationale": "Premisa: ejecutivo aplastado por herencia matrilineal de dominatrix secreta. Fetiche central: Inversión del Trono. Tono: Clínico-Ceremonial."
+    },
+    {
+      "id": "personajes_maestro_v42",
+      "label": "Fichas de Personajes v4.2 — El Secreto de la Cómoda",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/personajes_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-07",
+      "author": "Agente Personajes",
+      "contributor": null
+    },
+    {
+      "id": "linea_de_tiempo_maestra",
+      "label": "Línea de Tiempo Maestra — El Secreto de la Cómoda",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Agente Centinela",
+      "contributor": null
+    },
+    {
+      "id": "walkthrough_comoda",
+      "label": "Walkthrough Orquestador — El Secreto de la Cómoda",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-06",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "capitulo_1_maestro_v42",
+      "label": "Capítulo 1: La Palabra sobre la Carne (Gold Master v1.0)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-07",
+      "author": "Escritor",
+      "contributor": "Editor, Orquestador"
+    },
+    {
+      "id": "capitulo_2_v20",
+      "label": "Capítulo 2: El Espejo Humillante (v2.0 — Reescritura Total)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-06",
+      "author": "Escritor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v01",
+      "label": "Cap 2 Borrador v0.1 (inicial, 13/04/2026)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-13",
+      "author": "Escritor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v03",
+      "label": "Cap 2 Borrador v0.3 (revisión crítica con reveal conjunto negro)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.3.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-13",
+      "author": "Escritor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v04",
+      "label": "Cap 2 Borrador v0.4 (reescritura total desde cero)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.4.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-20",
+      "author": "Escritor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v05",
+      "label": "Cap 2 Borrador v0.5 (cirugía espejo, maquillaje, sincronía temporal)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.5.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-20",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v06",
+      "label": "Cap 2 Borrador v0.6 (inicio lunes AM con corsé y tanga)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.6.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-20",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v07",
+      "label": "Cap 2 Borrador v0.7 (refuerza deseo previo, resistencia y chantaje)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.7.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-20",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v08",
+      "label": "Cap 2 Borrador v0.8 (expande ritual del corsé lunes AM)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.8.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-20",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v09",
+      "label": "Cap 2 Borrador v0.9 (intensifica excitación y miedo)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.9.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-20",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v010",
+      "label": "Cap 2 Borrador v0.10 (tensión erótica progresiva y deseo por ropa de época)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.10.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-22",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v011",
+      "label": "Cap 2 Borrador v0.11 (Isabel evoluciona hacia domina sensual bajo línea Anaïs)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.11.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-22",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "cap2_borrador_v012",
+      "label": "Cap 2 Borrador v0.12 (en revisión, aprobado Crítico 10/10)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.12.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-22",
+      "author": "Editor",
+      "contributor": null
+    },
+    {
+      "id": "char_ricardo_marchetti",
+      "label": "Ricardo Marchetti / Rocío (protagonista)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/personajes_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "char_isabel",
+      "label": "Isabel Marchetti (Arquitecta / Dominante)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/personajes_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "char_andres",
+      "label": "Andrés (rival profesional / vencedor final)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/personajes_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "char_tia_anais",
+      "label": "Tía Anaís (dominatrix secreta, fuerza estructural)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/personajes_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "char_camila_vidal",
+      "label": "Camila Vidal (catalizador externo — fotos del chantaje)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "char_alberto",
+      "label": "Alberto (testigo externo del estado de Rocío)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "char_rocio",
+      "label": "Rocío (identidad femenina emergente de Ricardo)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_feminizacion_mtf",
+      "label": "Feminización MtF (tema narrativo central)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_chantaje_identidad",
+      "label": "Chantaje de Identidad (fetiche/tema)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_inversion_poder",
+      "label": "Inversión del Trono (fetiche/tema central)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_femdom",
+      "label": "Dominación Femenina / Femdom (tema)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_cinturon_castidad",
+      "label": "Cinturón de Castidad (objeto fetiche clave)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_tease_denial",
+      "label": "Tease and Denial / Orgasmo Arruinado (fetiche)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_hipnosis_condicionamiento",
+      "label": "Hipnosis / Condicionamiento con Cintas de Audio",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_bimbofication",
+      "label": "Bimbofication (tema narrativo)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_body_swap",
+      "label": "Body Swap (tema narrativo)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_herencia_matrilineal",
+      "label": "Herencia Matrilineal Anaís → Isabel (concepto narrativo)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_rima_moore",
+      "label": "Protocolo Alan Moore / Rimas de Symmetry (técnica estructural)",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Simetría narrativa: el mismo gesto, escena o frase se repite invertido al final. Espejo oficina (dominio) → espejo vestidor (sometimiento); corbata → liguero; frase inicial → frase final invertida."
+    },
+    {
+      "id": "theme_psicologia_despojo",
+      "label": "Psicología del Despojo / Curva de Rendición (concepto)",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "4 fases: Rechazo → Despersonalización → Somatización → Consagración. Gates biológicos y psicológicos explícitos."
+    },
+    {
+      "id": "setting_sotano_zapallar",
+      "label": "Sótano de Zapallar (escenario — casona ancestral)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setting_vitacura",
+      "label": "Departamento Vitacura (escenario urbano de poder)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setting_espejo_oficina",
+      "label": "Espejo de Oficina (motivo visual — dominio)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setting_espejo_vestidor",
+      "label": "Espejo del Vestidor (motivo visual — sometimiento)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_baul_anais",
+      "label": "Baúl / Cómoda de la Tía Anaís (objeto detonador)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_corse_anais",
+      "label": "Corsé de Satén Negro de Anaís (objeto fetiche — legado)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_conjunto_negro",
+      "label": "El Conjunto Negro (encaje negro — red herring revelado)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_correa_cuero_anais",
+      "label": "Correa de Cuero de Anaís / Arnés (primera penetración)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_cintas_audio_anais",
+      "label": "Cintas de Audio de la Tía Anaís (programación hipnótica)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_fotos_chantaje",
+      "label": "Fotografías de Chantaje (motel Providencia)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_rendicion_gozosa",
+      "label": "Rendición Gozosa (filosofía del universo La Voûte)",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_conquista_coercitiva",
+      "label": "Conquista Coercitiva (filosofía del universo La Voûte)",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_tono_clinico_ceremonial",
+      "label": "Tono Clínico-Ceremonial (estilo narrativo)",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Realismo sucio de alta alcurnia: elegancia comunas altas de Santiago (Vitacura/Zapallar) mezclada con crudeza del sótano y el fetiche. Prosa densa, adjetivos no genéricos."
+    },
+    {
+      "id": "concept_orquestador_v44",
+      "label": "Orquestador Maestro v4.4 (agente de producción literaria)",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universe_miss_doll",
+      "label": "Universo Miss Doll (hipnosis + bimbofication)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universe_feminizacion_mtf",
+      "label": "Universo Feminización / MtF",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universe_vera_scifi",
+      "label": "Universo VERA / Sci-Fi (IA + sumisión)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universe_bimbofication",
+      "label": "Universo Bimbofication",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universe_el_hotel",
+      "label": "Universo El Hotel (transformación + corrupción)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universe_dominacion_femenina",
+      "label": "Universo Dominación Femenina",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universe_le_miroir_anais",
+      "label": "Serie Le Miroir d'Anaïs (en francés, 4 capítulos)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_esposa_de_mi_esposo",
+      "label": "Esposa de mi Esposo (~12,000 palabras)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_esposa_de_mi_esposa_ii",
+      "label": "Esposa de mi Esposa II (~17,329 palabras)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_tetitas",
+      "label": "Tetitas (~8,000 palabras — feminización forzada)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_trance_bimbodoll",
+      "label": "Trance Bimbodoll (~17,000 palabras compilado)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_la_piel_que_diseno",
+      "label": "La Piel que Diseño (proyecto activo — body swap + bimbofication)",
+      "file_type": "document",
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_hr_human_repurposing",
+      "label": "HR: Human Repurposing (~15,000 palabras, 4+ caps)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_proyecto_vera",
+      "label": "Proyecto Trad-Wife: Unidad V.E.R.A. (~14,000 palabras)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "story_la_dulce_aniquilacion",
+      "label": "La Dulce Aniquilación (~11,000 palabras — destrucción del ego)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_helena_de_anais",
+      "label": "Helena de Anaïs (curadora del universo)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_diosa_anais",
+      "label": "Diosa Anaïs (instancia rectora del universo creativo)",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_hipnosis",
+      "label": "Hipnosis (tema / fetiche transversal)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "theme_humillacion",
+      "label": "Humillación (tema / fetiche)",
+      "file_type": "document",
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
     }
   ],
   "edges": [
     {
-      "source": "ele_v3_5",
-      "target": "hard_sync_protocol",
-      "relation": "implements",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0
-    },
-    {
-      "source": "ele_v3_5",
-      "target": "stiletto_rule",
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "arco_maestro_v42",
       "relation": "references",
       "confidence": "EXTRACTED",
-      "confidence_score": 1.0
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/README.md",
+      "source_location": null,
+      "weight": 1.0
     },
     {
-      "source": "miss_doll_v5",
-      "target": "voute_anais",
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "personajes_maestro_v42",
       "relation": "references",
       "confidence": "EXTRACTED",
-      "confidence_score": 1.0
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/README.md",
+      "source_location": null,
+      "weight": 1.0
     },
     {
-      "source": "ele_v3_5",
-      "target": "bimbofication",
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "linea_de_tiempo_maestra",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "walkthrough_comoda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "capitulo_1_maestro_v42",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "capitulo_2_v20",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "arco_maestro_v42",
+      "target": "idea_maestro_v42",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "arco_maestro_v42",
+      "target": "theme_rima_moore",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "arco_maestro_v42",
+      "target": "theme_inversion_poder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "arco_maestro_v42",
+      "target": "setting_espejo_oficina",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "arco_maestro_v42",
+      "target": "setting_espejo_vestidor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "char_ricardo_marchetti",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "char_isabel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "char_andres",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "char_tia_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "char_rocio",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "setting_sotano_zapallar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "object_baul_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "object_corse_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "object_fotos_chantaje",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "theme_cinturon_castidad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "theme_chantaje_identidad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_1_maestro_v42",
+      "target": "theme_tease_denial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "char_ricardo_marchetti",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "char_rocio",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "char_isabel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "object_conjunto_negro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "object_correa_cuero_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "setting_espejo_vestidor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "theme_feminizacion_mtf",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capitulo_2_v20",
+      "target": "char_andres",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v2.0.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cap2_borrador_v01",
+      "target": "capitulo_2_v20",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "cap2_borrador_v012",
+      "target": "capitulo_2_v20",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "char_ricardo_marchetti",
+      "target": "char_rocio",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/personajes_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "char_tia_anais",
+      "target": "char_isabel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "theme_herencia_matrilineal",
+      "target": "char_tia_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "theme_herencia_matrilineal",
+      "target": "char_isabel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "object_baul_anais",
+      "target": "char_tia_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "object_cintas_audio_anais",
+      "target": "char_tia_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "object_cintas_audio_anais",
+      "target": "theme_hipnosis_condicionamiento",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "char_camila_vidal",
+      "target": "object_fotos_chantaje",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "object_fotos_chantaje",
+      "target": "theme_chantaje_identidad",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "char_andres",
+      "target": "theme_inversion_poder",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "theme_rima_moore",
+      "target": "setting_espejo_oficina",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "theme_rima_moore",
+      "target": "setting_espejo_vestidor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "universe_miss_doll",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "universe_feminizacion_mtf",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "universe_vera_scifi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "universe_bimbofication",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "universe_el_hotel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "universe_dominacion_femenina",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "universe_le_miroir_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "indice_historias_lavouteanais",
+      "target": "story_la_piel_que_diseno",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_biblioteca",
+      "target": "story_la_piel_que_diseno",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_biblioteca",
+      "target": "indice_historias_lavouteanais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_biblioteca",
+      "target": "plantilla_resumen_ia",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_feminizacion_mtf",
+      "target": "story_esposa_de_mi_esposo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_feminizacion_mtf",
+      "target": "story_esposa_de_mi_esposa_ii",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_feminizacion_mtf",
+      "target": "story_tetitas",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_miss_doll",
+      "target": "story_trance_bimbodoll",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_vera_scifi",
+      "target": "story_proyecto_vera",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_bimbofication",
+      "target": "story_la_dulce_aniquilacion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_orquestador_v44",
+      "target": "story_el_secreto_de_la_comoda",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/walkthrough.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "plantilla_resumen_ia",
+      "target": "concept_rendicion_gozosa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "plantilla_resumen_ia",
+      "target": "concept_conquista_coercitiva",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "plantilla_resumen_ia",
+      "target": "concept_diosa_anais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "theme_feminizacion_mtf",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "theme_herencia_matrilineal",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "setting_vitacura",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "concept_tono_clinico_ceremonial",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "theme_feminizacion_mtf",
+      "target": "universe_feminizacion_mtf",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_esposa_de_mi_esposo",
+      "target": "theme_body_swap",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_la_piel_que_diseno",
+      "target": "theme_body_swap",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_la_piel_que_diseno",
+      "target": "theme_bimbofication",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_miss_doll",
+      "target": "theme_hipnosis",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_miss_doll",
+      "target": "theme_bimbofication",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "theme_hipnosis_condicionamiento",
+      "target": "theme_hipnosis",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "concept_rendicion_gozosa",
+      "target": "theme_tease_denial",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "concept_conquista_coercitiva",
+      "target": "theme_chantaje_identidad",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03_Literatura/plantilla_resumen_ia.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "story_el_secreto_de_la_comoda",
+      "target": "universe_feminizacion_mtf",
       "relation": "conceptually_related_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.95
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/idea_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "theme_psicologia_despojo",
+      "target": "theme_inversion_poder",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "linea_de_tiempo_maestra",
+      "target": "theme_psicologia_despojo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/linea_de_tiempo_maestra.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "theme_humillacion",
+      "target": "story_el_secreto_de_la_comoda",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_helena_de_anais",
+      "target": "indice_historias_lavouteanais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_hr_human_repurposing",
+      "target": "indice_historias_lavouteanais",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cap2_borrador_v03",
+      "target": "cap2_borrador_v01",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.3.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "cap2_borrador_v011",
+      "target": "cap2_borrador_v010",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/borradores/capitulo_2/capitulo_2_el_espejo_humillante_v0.12.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "story_esposa_de_mi_esposa_ii",
+      "target": "theme_body_swap",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_esposa_de_mi_esposa_ii",
+      "target": "theme_humillacion",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "story_esposa_de_mi_esposo",
+      "target": "theme_femdom",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "universe_dominacion_femenina",
+      "target": "theme_femdom",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/indice_historias.md",
+      "source_location": null,
+      "weight": 1.0
     }
   ],
-  "hyperedges": [],
-  "input_tokens": 15000,
-  "output_tokens": 800
+  "hyperedges": [
+    {
+      "id": "capitulos_secreto_comoda",
+      "label": "Todos los Capítulos de El Secreto de la Cómoda",
+      "nodes": [
+        "capitulo_1_maestro_v42",
+        "capitulo_2_v20",
+        "story_el_secreto_de_la_comoda"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/README.md"
+    },
+    {
+      "id": "personajes_principales_comoda",
+      "label": "Triángulo de Poder — Ricardo / Isabel / Andrés",
+      "nodes": [
+        "char_ricardo_marchetti",
+        "char_isabel",
+        "char_andres"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/personajes_maestro_v4.2.md"
+    },
+    {
+      "id": "objetos_legado_anais",
+      "label": "Objetos del Legado de la Tía Anaís",
+      "nodes": [
+        "object_baul_anais",
+        "object_corse_anais",
+        "object_correa_cuero_anais",
+        "object_cintas_audio_anais"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/arco_maestro_v4.2.md"
+    }
+  ],
+  "input_tokens": 18500,
+  "output_tokens": 3200
 }

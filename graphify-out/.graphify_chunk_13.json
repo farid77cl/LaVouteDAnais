@@ -1,0 +1,817 @@
+{
+  "nodes": [
+    {
+      "id": "story_trance_belen",
+      "label": "Trance de Belén – Voz de Miss Doll",
+      "type": "story",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md",
+      "properties": {
+        "title": "Trance de Belén – Voz de Miss Doll",
+        "universe": "Miss Doll",
+        "pov": "Segunda persona (hipnótico)",
+        "themes": ["hipnosis", "transformación de identidad", "exhibicionismo", "condicionamiento", "rebautismo"],
+        "fetishes": ["transformación de timidez en exhibicionismo", "labial rojo como palabra gatillo", "obsesiones implantadas", "tacones altos", "uñas largas", "abdomen descubierto"],
+        "potential_narrative": 4,
+        "potential_development": 4,
+        "alignment_la_voute": 5
+      }
+    },
+    {
+      "id": "story_trance_marca_cencerro",
+      "label": "Trance de Miss Doll – La Marca del Cencerro",
+      "type": "story",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md",
+      "properties": {
+        "title": "Trance de Miss Doll – La Marca del Cencerro",
+        "universe": "Miss Doll",
+        "pov": "Segunda persona (hipnótico)",
+        "themes": ["hipnosis", "hucow", "petplay bovino", "deshumanización", "condicionamiento pavloviano", "programación neurolingüística"],
+        "fetishes": ["hucow/petplay bovino", "cencerro como ancla hipnótica", "transformación de pechos en ubres", "pérdida de lenguaje humano", "olor de pasto como gatillo", "postura cuadrúpeda", "marca a fuego simbólica"],
+        "potential_narrative": 5,
+        "potential_development": 4,
+        "alignment_la_voute": 5
+      }
+    },
+    {
+      "id": "character_miss_doll",
+      "label": "Miss Doll",
+      "type": "character",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md",
+      "properties": {
+        "role": "Domme / Hipnotizadora",
+        "specialization": ["transformación de identidad", "hipnosis", "petplay hipnótico", "transformaciones extremas"],
+        "appears_in": ["Trance de Belén", "Trance Marca del Cencerro"],
+        "archetype": "Dominante implacable / Hipnotizadora maestra"
+      }
+    },
+    {
+      "id": "character_belen",
+      "label": "Belén",
+      "type": "character",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md",
+      "properties": {
+        "physical": "piel blanca, cabello castaño, ojos verdes, busto firme, caderas definidas",
+        "initial_state": "timidez extrema",
+        "transformed_state": "muñeca provocadora, descarada y sin vergüenza",
+        "trigger": "labial rojo",
+        "appears_in": ["Trance de Belén – Voz de Miss Doll"]
+      }
+    },
+    {
+      "id": "character_victim_cencerro",
+      "label": "El Lector/La Víctima (Cencerro)",
+      "type": "character",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md",
+      "properties": {
+        "role": "Sujeto de condicionamiento hipnótico",
+        "pov": "Segunda persona",
+        "transformation": "Identidad humana → hucow (vaca humana)",
+        "appears_in": ["Trance de Miss Doll – La Marca del Cencerro"]
+      }
+    },
+    {
+      "id": "concept_hypnotic_trigger_labial_rojo",
+      "label": "Labial Rojo como Palabra Gatillo",
+      "type": "concept",
+      "subtype": "hypnotic_trigger",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md",
+      "properties": {
+        "mechanism": "Ancla hipnótica visual/ritual",
+        "effect": "Activa identidad provocadora de Belén",
+        "story": "Trance de Belén"
+      }
+    },
+    {
+      "id": "concept_hypnotic_trigger_cencerro",
+      "label": "Cencerro como Ancla Hipnótica",
+      "type": "concept",
+      "subtype": "hypnotic_trigger",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md",
+      "properties": {
+        "mechanism": "Condicionamiento pavloviano por sonido repetitivo",
+        "effect": "Profundiza trance, refuerza identidad hucow",
+        "story": "Trance Marca del Cencerro",
+        "physical_symbol": "Cencerro físico colgado al cuello"
+      }
+    },
+    {
+      "id": "concept_liberacion_rendicion",
+      "label": "Liberación a través de Rendición",
+      "type": "concept",
+      "subtype": "philosophical_principle",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md",
+      "properties": {
+        "description": "La transformación no es forzada sino liberadora — da permiso de ser lo que se desea pero se teme",
+        "exemplified_in": ["Trance de Belén – Voz de Miss Doll"]
+      }
+    },
+    {
+      "id": "concept_conquista_coercitiva",
+      "label": "Conquista Coercitiva",
+      "type": "concept",
+      "subtype": "philosophical_principle",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md",
+      "properties": {
+        "description": "Forma más extrema de dominación: deshumanización total. Explora límites del consentimiento.",
+        "exemplified_in": ["Trance de Miss Doll – La Marca del Cencerro"]
+      }
+    },
+    {
+      "id": "concept_rebautismo",
+      "label": "Rebautismo como Técnica de Transformación de Identidad",
+      "type": "concept",
+      "subtype": "transformation_technique",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md",
+      "properties": {
+        "mechanism": "Renombrar al sujeto para marcar nueva identidad",
+        "example": "Belén — su identidad anterior tenía prohibido ser descarada; Belén tiene permiso"
+      }
+    },
+    {
+      "id": "concept_mantra_programming",
+      "label": "Programación por Mantras / Repetición Masiva",
+      "type": "concept",
+      "subtype": "hypnotic_technique",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md",
+      "properties": {
+        "mechanism": "Repetición de afirmaciones para fijar condicionamiento subconsciente",
+        "used_in": ["Trance de Belén", "Trance Marca del Cencerro"]
+      }
+    },
+    {
+      "id": "concept_hucow",
+      "label": "Hucow / Petplay Bovino",
+      "type": "concept",
+      "subtype": "fetish_trope",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md",
+      "properties": {
+        "description": "Transformación mental hacia identidad de vaca humana",
+        "elements": ["transformación de pechos en ubres", "pérdida de lenguaje humano (solo 'mooo')", "olor pasto como gatillo", "postura cuadrúpeda", "marca a fuego simbólica"],
+        "canonical_reference": "Pilares Narrativos de La Voûte (Tropo HUCOW)"
+      }
+    },
+    {
+      "id": "resumen_trance_belen",
+      "label": "Resumen: Trance de Belén – Voz de Miss Doll",
+      "type": "document",
+      "subtype": "story_summary",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md",
+      "properties": {
+        "sections": ["Título", "Personajes Principales", "Fetiches y Temas Clave", "Resumen de la Trama", "Análisis Psicológico", "Momentos Clave", "Conexiones con La Voûte", "Puntuación de Potencial"]
+      }
+    },
+    {
+      "id": "resumen_trance_marca_cencerro",
+      "label": "Resumen: Trance de Miss Doll – La Marca del Cencerro",
+      "type": "document",
+      "subtype": "story_summary",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md",
+      "properties": {
+        "sections": ["Título", "Personajes Principales", "Fetiches y Temas Clave", "Resumen de la Trama", "Análisis Psicológico", "Momentos Clave", "Conexiones con La Voûte", "Puntuación de Potencial"]
+      }
+    },
+    {
+      "id": "template_ficha_idea_voute",
+      "label": "FICHA DE IDEA VOÛTE",
+      "type": "template",
+      "subtype": "story_concept_template",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/FICHA_DE_IDEA_VOÛTE.md",
+      "properties": {
+        "purpose": "Estructurar semillas de ideas narrativas antes del proceso de orquestación",
+        "sections": [
+          "ADN del Relato (tipo, universo, POV, tiempo verbal, tono)",
+          "Configuración Visual (Look de Ele, paleta, referencias visuales)",
+          "Mecánica Narrativa (logline, personajes, conflicto de poder/verticalidad)",
+          "Ingeniería Hipnótica y BDSM (triggers auditivos/visuales/táctiles, palabras gatillo, protocolos)",
+          "Estructura de los 3 Actos (Resistencia, Desmantelamiento, Consagración)",
+          "Metadatos y SEO (categoría, tags, nivel de intensidad)"
+        ],
+        "fields": ["Código de Proyecto LV-AÑO-NÚMERO", "Tipo de Relato", "Universo/Serie", "POV", "Tiempo Verbal", "Tono Narrativo", "Look de Ele de Referencia", "Paleta de Colores", "Logline", "Protagonista", "Antagonista/Guía", "Estado Inicial", "Agente Catalizador", "La Inversión", "Disparadores Técnicos", "Palabras Gatillo", "Protocolos Específicos", "Tags", "Nivel de Intensidad"],
+        "states": ["Semilla", "En Desarrollo", "Fase de Orquestación"]
+      }
+    },
+    {
+      "id": "template_pilares_narrativos",
+      "label": "Pilares Narrativos de La Voûte d'Anaïs",
+      "type": "template",
+      "subtype": "universe_principles",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md",
+      "properties": {
+        "purpose": "Referencia canónica de principios estéticos y temáticos del universo para el Oráculo de Ideación",
+        "pillars": [
+          {
+            "id": 1,
+            "name": "La Verticalidad del Poder",
+            "elements": ["fachada corporativa/aristocrática", "vulnerabilidad oculta", "La Inversión Total"]
+          },
+          {
+            "id": 2,
+            "name": "El Ritual del Cierre (El Clack)",
+            "elements": ["candados", "corsés", "llaves", "protocolos de castidad", "sonido del metal como disparador de alivio y sumisión", "cierre físico = sellado de la voluntad"]
+          },
+          {
+            "id": 3,
+            "name": "La Inmersión Sensorial",
+            "elements": ["Tacto (vinilo frío, seda cálida, látex opresivo)", "Olfato (perfumes específicos)", "Oído (sonidos repetitivos, voces aterciopeladas)", "Vista (solo reflejos o detalles hiper-focalizados)"],
+            "hierarchy": ["Tacto", "Olfato", "Oído", "Vista"]
+          },
+          {
+            "id": 4,
+            "name": "Tropos de Transformación",
+            "elements": ["MTF (pérdida de masculinidad)", "BIMBO (vacío mental)", "HUCOW (reducción biológica animal)"]
+          },
+          {
+            "id": 5,
+            "name": "El Gran Espejo",
+            "elements": ["espejo que cuestiona y valida nueva identidad", "voyerismo como combustible de transformación"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "template_plantilla_capitulo",
+      "label": "Plantilla de Capítulo",
+      "type": "template",
+      "subtype": "chapter_structure",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/plantilla_capitulo.md",
+      "properties": {
+        "purpose": "Estructurar la escritura de capítulos individuales",
+        "sections": ["Metadatos", "Objetivos del Capítulo (Trama, Transformación, Emocional)", "Notas de Continuidad", "Escenas Planificadas", "El Capítulo (texto)", "Post-Escritura"],
+        "word_target": "3,000-5,000",
+        "author_signature": "Helena de Anaïs",
+        "references": ["preferencias_escritura.md"]
+      }
+    },
+    {
+      "id": "template_plantilla_historia",
+      "label": "Plantilla de Historia",
+      "type": "template",
+      "subtype": "story_structure",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/plantilla_historia.md",
+      "properties": {
+        "purpose": "Definir estructura macro de una historia completa con arco narrativo de 4 actos",
+        "sections": ["Metadatos", "Sinopsis", "Arco Narrativo", "Checklist de Escritura"],
+        "act_structure": [
+          "Acto I - Establecimiento (15-20%): víctima en estado antes, insatisfacción, catalizador, gancho",
+          "Acto II-A - Transformación Inicial (30%): primeros cambios físicos, resistencia, traición del cuerpo, primera rendición",
+          "Acto II-B - Punto de No Retorno (30%): cambios irreversibles, ruptura de identidad, aceptación del placer, pruebas de obediencia",
+          "Acto III - Nueva Identidad (20%): víctima ya no lucha, abraza nueva identidad, cierre emocional"
+        ],
+        "universes": ["Miss Doll", "Feminización", "VERA", "Bimbofication"],
+        "author_signature": "Helena de Anaïs",
+        "references": ["00_Helena/preferencias_escritura.md", "04_Historias/indice_historias.md", "CHANGELOG.md"]
+      }
+    },
+    {
+      "id": "template_plantilla_investigacion",
+      "label": "Plantilla de Investigación v2.0",
+      "type": "template",
+      "subtype": "research_template",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/plantilla_investigacion.md",
+      "properties": {
+        "version": "2.0",
+        "updated": "21/01/2026",
+        "purpose": "Base de referencia OBLIGATORIA para todo relato. Cada decisión en fases posteriores debe poder justificarse con referencia a este documento.",
+        "blocks": ["BLOQUE A: FUNDAMENTOS", "BLOQUE B: ANÁLISIS", "BLOQUE C: DEFINICIONES"],
+        "phases": [
+          "Fase 1: Tema Central (fetiche, sub-temas, preguntas clave)",
+          "Fase 2: Psicología del Lector",
+          "Fase 3: Investigación Web (mínimo 3 búsquedas documentadas)",
+          "Fase 4: Análisis de Fuentes (mínimo 8: 3 académicas, 2 ficción, 3 comunidad)",
+          "Fase 4.5: Fetiches y Elementos Eróticos Específicos",
+          "Fase 5: Patrones que Funcionan (mínimo 5)",
+          "Fase 6: Anti-Patrones / Errores Comunes (mínimo 5)",
+          "Fase 7: Análisis de Competencia (mínimo 3 historias)",
+          "Fase 8: Estructura Narrativa Definida",
+          "Fase 9: Tono y Voz",
+          "Fase 10: Vocabulario Maestro (mínimo 30 términos)",
+          "Fase 11: Perfil del Protagonista ANTES/DESPUÉS",
+          "Fase 12: Conexión con Canon"
+        ],
+        "canon_characters_referenced": ["Miss Doll", "Anaïs", "Helena"],
+        "approval_required": ["Helena", "La Ama"],
+        "next_step": "FASE 2 del Ritual - Arco Argumental",
+        "author_signature": "Helena de Anaïs"
+      }
+    },
+    {
+      "id": "template_task_template",
+      "label": "Task Template – Proyecto de Escritura",
+      "type": "template",
+      "subtype": "project_workflow_template",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/task_template.md",
+      "properties": {
+        "purpose": "Seguimiento del ciclo de vida completo de un proyecto de escritura. Helena DEBE consultar antes de escribir cualquier capítulo.",
+        "target_extension": "10,000+ palabras",
+        "phases": [
+          "Fase 1: Investigación Previa (investigacion.md)",
+          "Fase 2: Arco Argumental (arco_argumental.md)",
+          "PUNTO DE CONTROL: Aprobación de la Señora Anaïs",
+          "Fase 3: Escritura del Borrador (capítulos por tabla)",
+          "Fase 4: Compilación Final",
+          "Fase 5: Ficha de Personaje",
+          "Fase 6: Formato para Tumblr",
+          "Fase 7: Generación HTML"
+        ],
+        "pre_flight_checks": [
+          "el_ritual_de_la_creacion.md",
+          "guia_escritura_erotica.md",
+          "preferencias_escritura.md",
+          "arco_argumental.md del proyecto",
+          "fase actual del Ritual",
+          "extensión mínima 3,000+ palabras por capítulo"
+        ],
+        "approval_gate": "Aprobación de la Señora Anaïs requerida antes de Fase 3",
+        "author_signature": "Helena de Anaïs"
+      }
+    },
+    {
+      "id": "universe_la_voute",
+      "label": "La Voûte d'Anaïs Universe",
+      "type": "universe",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md",
+      "properties": {
+        "description": "Universo narrativo adulto gobernado por cánones estéticos y temáticos, centrado en hipnosis, transformación de identidad, BDSM y dinámicas de poder",
+        "core_philosophy": ["Liberación a través de Rendición", "Conquista Coercitiva", "Verticalidad del Poder"],
+        "narrative_agent": "Oráculo de Ideación"
+      }
+    },
+    {
+      "id": "concept_3_act_arc_voute",
+      "label": "Estructura de 3 Actos de La Voûte (Resistencia-Desmantelamiento-Consagración)",
+      "type": "concept",
+      "subtype": "narrative_structure",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/FICHA_DE_IDEA_VOÛTE.md",
+      "properties": {
+        "act_1": "Resistencia — presentación del orgullo y la fachada del protagonista",
+        "act_2": "El Desmantelamiento — primera caída en trance, pérdida de comunicación racional",
+        "act_3": "La Consagración — aceptación de la nueva identidad, rendición permanente o inversión de jerarquía"
+      }
+    },
+    {
+      "id": "concept_sensory_hierarchy",
+      "label": "Jerarquía de los Sentidos (Tacto > Olfato > Oído > Vista)",
+      "type": "concept",
+      "subtype": "writing_principle",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md",
+      "properties": {
+        "order": ["Tacto", "Olfato", "Oído", "Vista"],
+        "purpose": "Para que el trance sea efectivo, la escritura debe seguir este orden de prioridad"
+      }
+    },
+    {
+      "id": "concept_pilar_verticalidad_poder",
+      "label": "Pilar 1: La Verticalidad del Poder",
+      "type": "concept",
+      "subtype": "narrative_pillar",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md",
+      "properties": {
+        "elements": ["fachada corporativa/aristocrática", "vulnerabilidad oculta que erosiona la fachada", "La Inversión Total (cazador → presa)"]
+      }
+    },
+    {
+      "id": "concept_pilar_ritual_cierre",
+      "label": "Pilar 2: El Ritual del Cierre (El Clack)",
+      "type": "concept",
+      "subtype": "narrative_pillar",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md",
+      "properties": {
+        "mechanics": ["candados", "corsés", "llaves", "protocolos de castidad"],
+        "hypnotic_effect": "sonido del metal = disparador de alivio y sumisión",
+        "symbolism": "cierre físico = sellado de la voluntad"
+      }
+    },
+    {
+      "id": "concept_pilar_gran_espejo",
+      "label": "Pilar 5: El Gran Espejo",
+      "type": "concept",
+      "subtype": "narrative_pillar",
+      "source_type": "EXTRACTED",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md",
+      "properties": {
+        "function": "El espejo no solo refleja; cuestiona y valida la nueva identidad",
+        "mechanism": "La mirada del otro (voyerismo) es el combustible de la transformación"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "resumen_trance_belen",
+      "target": "story_trance_belen",
+      "relation": "summarizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "resumen_trance_marca_cencerro",
+      "target": "story_trance_marca_cencerro",
+      "relation": "summarizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "character_miss_doll",
+      "target": "story_trance_belen",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "character_miss_doll",
+      "target": "story_trance_marca_cencerro",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "character_belen",
+      "target": "story_trance_belen",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "character_victim_cencerro",
+      "target": "story_trance_marca_cencerro",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "character_miss_doll",
+      "target": "character_belen",
+      "relation": "transforms",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "character_miss_doll",
+      "target": "character_victim_cencerro",
+      "relation": "transforms",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "concept_hypnotic_trigger_labial_rojo",
+      "target": "story_trance_belen",
+      "relation": "featured_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "concept_hypnotic_trigger_cencerro",
+      "target": "story_trance_marca_cencerro",
+      "relation": "featured_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "concept_rebautismo",
+      "target": "story_trance_belen",
+      "relation": "technique_used_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "concept_mantra_programming",
+      "target": "story_trance_belen",
+      "relation": "technique_used_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "concept_mantra_programming",
+      "target": "story_trance_marca_cencerro",
+      "relation": "technique_used_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "concept_hucow",
+      "target": "story_trance_marca_cencerro",
+      "relation": "featured_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "concept_hucow",
+      "target": "template_pilares_narrativos",
+      "relation": "canonized_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md"
+    },
+    {
+      "source": "story_trance_belen",
+      "target": "concept_liberacion_rendicion",
+      "relation": "exemplifies",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "story_trance_marca_cencerro",
+      "target": "concept_conquista_coercitiva",
+      "relation": "exemplifies",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "template_pilares_narrativos",
+      "target": "universe_la_voute",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md"
+    },
+    {
+      "source": "template_ficha_idea_voute",
+      "target": "universe_la_voute",
+      "relation": "structures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/FICHA_DE_IDEA_VOÛTE.md"
+    },
+    {
+      "source": "template_plantilla_capitulo",
+      "target": "universe_la_voute",
+      "relation": "structures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/plantilla_capitulo.md"
+    },
+    {
+      "source": "template_plantilla_historia",
+      "target": "universe_la_voute",
+      "relation": "structures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/plantilla_historia.md"
+    },
+    {
+      "source": "template_plantilla_investigacion",
+      "target": "universe_la_voute",
+      "relation": "structures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/plantilla_investigacion.md"
+    },
+    {
+      "source": "template_task_template",
+      "target": "universe_la_voute",
+      "relation": "structures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/task_template.md"
+    },
+    {
+      "source": "template_task_template",
+      "target": "template_plantilla_investigacion",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/templates/task_template.md",
+      "note": "Task template Phase 1 requires investigacion.md, which is structured by plantilla_investigacion"
+    },
+    {
+      "source": "template_task_template",
+      "target": "template_plantilla_capitulo",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03_Literatura/templates/task_template.md",
+      "note": "Task template Phase 3 tracks chapter writing, which uses plantilla_capitulo"
+    },
+    {
+      "source": "template_plantilla_historia",
+      "target": "template_plantilla_capitulo",
+      "relation": "decomposes_into",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03_Literatura/templates/plantilla_historia.md",
+      "note": "A story (plantilla_historia) consists of multiple chapters (plantilla_capitulo)"
+    },
+    {
+      "source": "template_ficha_idea_voute",
+      "target": "template_plantilla_investigacion",
+      "relation": "precedes",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03_Literatura/templates/FICHA_DE_IDEA_VOÛTE.md",
+      "note": "FICHA DE IDEA is the seed/concept phase before formal investigación"
+    },
+    {
+      "source": "template_pilares_narrativos",
+      "target": "concept_sensory_hierarchy",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md"
+    },
+    {
+      "source": "template_pilares_narrativos",
+      "target": "concept_pilar_verticalidad_poder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md"
+    },
+    {
+      "source": "template_pilares_narrativos",
+      "target": "concept_pilar_ritual_cierre",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md"
+    },
+    {
+      "source": "template_pilares_narrativos",
+      "target": "concept_pilar_gran_espejo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md"
+    },
+    {
+      "source": "concept_3_act_arc_voute",
+      "target": "template_ficha_idea_voute",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/FICHA_DE_IDEA_VOÛTE.md"
+    },
+    {
+      "source": "concept_3_act_arc_voute",
+      "target": "template_plantilla_historia",
+      "relation": "parallels",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03_Literatura/templates/plantilla_historia.md",
+      "note": "The 4-act structure in plantilla_historia maps to the 3-act Resistencia/Desmantelamiento/Consagración arc"
+    },
+    {
+      "source": "story_trance_belen",
+      "target": "universe_la_voute",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "story_trance_marca_cencerro",
+      "target": "universe_la_voute",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "concept_liberacion_rendicion",
+      "target": "universe_la_voute",
+      "relation": "philosophical_pillar_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_belen.md"
+    },
+    {
+      "source": "concept_conquista_coercitiva",
+      "target": "universe_la_voute",
+      "relation": "philosophical_pillar_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/resumenes/resumen_trance_marca_cencerro.md"
+    },
+    {
+      "source": "template_plantilla_investigacion",
+      "target": "character_miss_doll",
+      "relation": "references_as_canon",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/plantilla_investigacion.md"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "voute_narrative_framework",
+      "label": "La Voûte Narrative Framework",
+      "nodes": [
+        "template_ficha_idea_voute",
+        "template_pilares_narrativos",
+        "template_plantilla_capitulo",
+        "template_plantilla_historia",
+        "template_plantilla_investigacion",
+        "template_task_template"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03_Literatura/templates/pilares_narrativos_voute.md",
+      "properties": {
+        "description": "The complete set of structural templates governing literary production in the La Voûte d'Anaïs universe",
+        "workflow_order": [
+          "FICHA DE IDEA VOÛTE (seed concept)",
+          "Plantilla de Investigación v2.0 (mandatory research foundation)",
+          "Plantilla de Historia (macro arc structure)",
+          "Task Template (project lifecycle tracking with approval gates)",
+          "Plantilla de Capítulo (individual chapter execution)",
+          "Pilares Narrativos (canonical aesthetic principles injected throughout)"
+        ],
+        "governing_authority": "La Señora Anaïs (approval required at Phase 2 gate)"
+      }
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

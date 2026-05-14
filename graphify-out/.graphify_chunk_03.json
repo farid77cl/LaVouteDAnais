@@ -1,0 +1,1230 @@
+{
+  "nodes": [
+    {
+      "id": "character_daniela",
+      "label": "Daniela",
+      "type": "character",
+      "properties": {
+        "project": "La Piel que Diseño",
+        "role": "antagonista / figura de poder",
+        "age_range": "30-32",
+        "source_file": "personajes/daniela.md",
+        "pre_day0_body": "cuerpo con intervenciones múltiples diseñadas por Matías: 1000cc por lado (tercera cirugía), labios sobredimensionados, pelo rubio artificial largo, reloj de arena exagerado",
+        "pre_day0_psychology": "aprendió el método de control de Matías desde adentro al vivirlo; no era débil sino joven cuando lo conoció; conoce cada mecanismo del control",
+        "post_day0_role": "habita el cuerpo de Matías; ejerce autoridad creciente; microcontroladora con las mismas frases de Matías",
+        "post_day0_nickname_for_matias": "Dani (diminutivo deliberado para infantilizar)",
+        "voice_style": "habla poco, intervenciones precisas y calculadas, usa frases exactas de Matías con su cadencia",
+        "arc": "Día 1: autoridad recién descubierta → Días siguientes: placer del control → Cap 2: microcontroladora natural → Cap 3: control asentado",
+        "club_role": "quien diseñó el camino de Daniela hacia el club de striptease; post-swap dirige la situación"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "character_matias",
+      "label": "Matías",
+      "type": "character",
+      "properties": {
+        "project": "La Piel que Diseño",
+        "role": "protagonista / narrador principal",
+        "age": "~35",
+        "pre_day0_role": "diseñador del cuerpo y vida de Daniela mediante microcontrol sistemático; dueño del club de striptease",
+        "post_day0_state": "habita el cuerpo de Daniela; sumisión progresiva; excitación que destruye la identidad",
+        "post_day0_nickname": "Dani (impuesto por Daniela desde el Día 0)",
+        "psychology": "usa racionalización constante; reconoce sus propias frases en boca de Daniela; primer acto de bajar los ojos es disruptivo en toda su vida adulta"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "chapter_01_la_piel",
+      "label": "Capítulo 1: La Piel",
+      "type": "chapter",
+      "properties": {
+        "project": "La Piel que Diseño",
+        "chapter_number": 1,
+        "title": "La Piel",
+        "narrative_day": "Día 0 / Día 1 del intercambio corporal",
+        "structure": "despertar sensorial → pánico → contrato → rituals (uñas, maquillaje, vestuario, perforaciones) → espejo nocturno",
+        "word_count_target": "3000+",
+        "arco_ref": "arco_maestro_v1.md"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "chapter_02_el_escenario",
+      "label": "Capítulo 2: El Escenario",
+      "type": "chapter",
+      "properties": {
+        "project": "La Piel que Diseño",
+        "chapter_number": 2,
+        "title": "El Escenario",
+        "narrative_day": "Primer turno de trabajo en el club de striptease (miércoles)",
+        "setting": "club nocturno en Bellavista, Santiago",
+        "structure": "ensayo en el club → turno con Nacho → presentación en escenario → cliente Sebastián Mura → regreso",
+        "racconto_activos": "R6 (preparación del club), R7 (pole), R8 (cliente del reloj / Sebastián Mura)",
+        "temperatura": "I:2 → II:2-3 → III:3-4 → IV:4 sostenida → V:3.5 → VI:4",
+        "arco_ref": "arco_maestro_v1.md"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_primer_dia_v0.3",
+      "label": "cap01_el_primer_dia_v0.3",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_el_primer_dia_v0.3.md",
+        "version": "0.3",
+        "chapter_title": "El Primer Día",
+        "status": "EN REVISIÓN",
+        "date": "2026-04-29",
+        "agent": "Editor",
+        "word_count": 4850,
+        "changes": "2 cirugías: efecto corporal de la voz (D2), anclaje táctil UV en nail studio (D5)",
+        "commitments_met": "11/11",
+        "narrative_arc": "PÁNICO → INDIGNACIÓN → primera GRIETA"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_primer_dia_v0.3_raiz",
+      "label": "cap01_el_primer_dia_v0.3_raiz",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_el_primer_dia_v0.3_raiz.md",
+        "version": "0.3 raiz",
+        "chapter_title": "El Primer Día",
+        "note": "Versión raíz/alternativa de v0.3 con perspectiva diferente — narración menos fragmentada, énfasis en el reconocimiento sin terror explícito en Daniela",
+        "word_count": 4800
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_primer_dia_v0.4",
+      "label": "cap01_el_primer_dia_v0.4",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_el_primer_dia_v0.4.md",
+        "version": "0.4",
+        "chapter_title": "El Primer Día",
+        "status": "PENDIENTE GATE AMA",
+        "date": "2026-05-01",
+        "agent": "Editor",
+        "changes": "CIRUGÍA MAYOR (feedback Ama): escena preparación completa nueva, maquillaje expandido, nail studio deepened. CIRUGÍA CRÍTICO (5 instancias): beat post-tanga, vinilo+pezones expandido, sensación del andar en tacones, argumento perdido en delineador, espejo nocturno con respuesta corporal activa"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_primer_dia_v0.5",
+      "label": "cap01_el_primer_dia_v0.5",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_el_primer_dia_v0.5.md",
+        "version": "0.5",
+        "chapter_title": "El Primer Día",
+        "status": "EN REVISIÓN",
+        "date": "2026-05-01",
+        "word_count_target": 4500,
+        "changes": "Reescritura total. Presupuesto 4500. Curva de temperatura en escalada: shock → tensión → calor → ardiente. Racconto: 1 línea por instancia.",
+        "note": "v0.1–v0.4 acumularon ~7400 palabras con temperatura plana; v0.5 es reescritura total"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.1",
+      "label": "cap01_la_piel_v0.1",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.1.md",
+        "version": "0.1",
+        "chapter_title": "La Piel",
+        "date": "2026-05-02",
+        "agent": "Escritor",
+        "changes": "Borrador inicial — serie 'La Piel' (reescritura del capítulo con nuevo enfoque)",
+        "pov_note": "Narración en primera persona de Matías en cuerpo de Daniela; reconocimiento técnico sin horror inicial; implantes 700cc en este draft vs 1000cc en serie anterior"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.2",
+      "label": "cap01_la_piel_v0.2",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.2.md",
+        "version": "0.2",
+        "chapter_title": "La Piel",
+        "date": "2026-05-02",
+        "agent": "Editor",
+        "changes": "Beats post-racconto diferenciados; beat físico contrato; tacto primario del pincel"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.3",
+      "label": "cap01_la_piel_v0.3",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.3.md",
+        "version": "0.3",
+        "chapter_title": "La Piel",
+        "date": "2026-05-05",
+        "agent": "Editor",
+        "changes": "Reescritura con carga erótica completa: coño nombrado y presente, acumulación sin resolución, gancho final tres beats canónicos, obligación contractual como fetiche"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.4",
+      "label": "cap01_la_piel_v0.4",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.4.md",
+        "version": "0.4",
+        "chapter_title": "La Piel",
+        "date": "2026-05-05",
+        "agent": "Editor",
+        "changes": "Cirugías: dedos de Daniela con temperatura erótica propia; vinilo con beat sensorial del escote; chilenismo en gancho final",
+        "critic_score": "9.6 EXCELENCIA (v0.3)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.5",
+      "label": "cap01_la_piel_v0.5",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.5.md",
+        "version": "0.5",
+        "chapter_title": "La Piel",
+        "date": "2026-05-05",
+        "agent": "Editor",
+        "changes": "Vestuario canónico: tanga + vestido vinilo leopardo + tacones negros 7 pulgadas sin sostén. Beat de dressing guiado por Daniela agregado. Pechos sin sostén como beat erótico."
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.6",
+      "label": "cap01_la_piel_v0.6",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.6.md",
+        "version": "0.6",
+        "chapter_title": "La Piel",
+        "date": "2026-05-05",
+        "agent": "Editor",
+        "changes": "Reescritura total — orden corregido (dressing → nail studio → maquillaje), erotismo pleno, secuencia narrativa coherente"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.7",
+      "label": "cap01_la_piel_v0.7",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.7.md",
+        "version": "0.7",
+        "chapter_title": "La Piel",
+        "date": "2026-05-05",
+        "agent": "Editor",
+        "changes": "CALOR MÁXIMO — erotismo explícito en cada ritual, humedad presente, cuerpo sin distancia literaria"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.8",
+      "label": "cap01_la_piel_v0.8",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.8.md",
+        "version": "0.8",
+        "chapter_title": "La Piel",
+        "date": "2026-05-06",
+        "agent": "Editor",
+        "changes": "Confusión y negación activa del protagonista. Espejo inicial: aceptación eerie sin preguntas. Contrato: confrontación + resistencia + dualidad mente/cuerpo. Dressing: resistencia que colapsa."
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v0.9",
+      "label": "cap01_la_piel_v0.9",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v0.9.md",
+        "version": "0.9",
+        "chapter_title": "La Piel",
+        "date": "2026-05-11",
+        "agent": "Escritor",
+        "changes": "Reescritura total. Voz más visceral. Raccontos <80 palabras. §II+§III VADEMECUM en dressing. 'Sin apagador' expandido a ~500 palabras."
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v1.0",
+      "label": "cap01_la_piel_v1.0",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v1.0.md",
+        "version": "1.0",
+        "chapter_title": "La Piel",
+        "date": "2026-05-12",
+        "arco_ref": "arco_maestro_v1",
+        "mapa_erotico_ref": "mapa_erotico_v1",
+        "changes": "Reescritura con mapa_erotico_v1: escena exploración+masturbación insertada (Sec III), gancho como confirmación (no descubrimiento), escena sexo con Daniela removida (pertenece Cap 3)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap01_la_piel_v1.1",
+      "label": "cap01_la_piel_v1.1",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_v1.1.md",
+        "version": "1.1",
+        "chapter_title": "La Piel",
+        "date": "2026-05-12",
+        "arco_ref": "arco_maestro_v1",
+        "mapa_erotico_ref": "mapa_erotico_v1",
+        "changes": "Apertura reescrita en tres tiempos: dislocación → pánico real → sensaciones que desbordan. R1 y R2 reubicados. Sec III-IX intactas.",
+        "gate_ama_note": "v1.0 tenía apertura demasiado clínica (Gate Ama feedback)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "master_cap01_la_piel",
+      "label": "capitulo_01_la_piel_maestro_v1",
+      "type": "master_version",
+      "properties": {
+        "filename": "capitulo_01_la_piel_maestro_v1.md",
+        "location": "la_piel_que_diseno/capitulo_01_la_piel_maestro_v1.md",
+        "chapter": "Capítulo 1: La Piel",
+        "status": "MAESTRO / CANONICAL"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "master_cap01_el_primer_dia",
+      "label": "capitulo_01_el_primer_dia_maestro_v1",
+      "type": "master_version",
+      "properties": {
+        "filename": "capitulo_01_el_primer_dia_maestro_v1.md",
+        "location": "borradores/capitulo_01/capitulo_01_el_primer_dia_maestro_v1.md",
+        "chapter": "Capítulo 1: El Primer Día",
+        "status": "MAESTRO / CANONICAL (serie anterior)",
+        "note": "La serie 'El Primer Día' fue la primera versión del capítulo; la serie 'La Piel' es la versión definitiva que la reemplazó"
+      },
+      "source": "INFERRED",
+      "confidence": 0.85
+    },
+    {
+      "id": "draft_cap02_el_escenario_v0.1",
+      "label": "cap02_el_escenario_v0.1",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_02_el_escenario_v0.1.md",
+        "version": "0.1",
+        "chapter_title": "El Escenario",
+        "date": "2026-05-06",
+        "status": "PRIMER BORRADOR",
+        "arco_ref": "arco_maestro_v1",
+        "setting": "Club Bellavista, Santiago",
+        "key_elements": "outfit de latex negro + plataformas 16cm, vestuario staff, primera noche en el escenario, racconto R6 (café Pio Nono)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap02_el_escenario_v1.0",
+      "label": "cap02_el_escenario_v1.0",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_02_el_escenario_v1.0.md",
+        "version": "1.0",
+        "chapter_title": "El Escenario",
+        "date": "2026-05-13",
+        "status": "BORRADOR",
+        "arco_ref": "arco_maestro_v1",
+        "racconto_activos": "R6 (preparación), R7 (pole), R8 (Sebastián Mura)",
+        "temperatura": "II:2→3, III:3→4, IV:4, VI:3.5→4",
+        "key_elements": "ensayo diurno con Nacho, pole dancing aprendido, primer turno nocturno"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap02_el_escenario_v1.1",
+      "label": "cap02_el_escenario_v1.1",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_02_el_escenario_v1.1.md",
+        "version": "1.1",
+        "chapter_title": "El Escenario",
+        "date": "2026-05-13",
+        "status": "BORRADOR",
+        "changes": "Sec I-III comprimidas, grueso en Sec IV. Daniela domina explícita desde Sec I. Naming 'Dani' instalado por Daniela explícitamente.",
+        "racconto_activos": "R6 (compacto), R7 (compacto), R8 (compacto)",
+        "temperatura": "I:2, II:2→3, III:3→4, IV:4 sostenida, V:3.5, VI:4"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap02_el_escenario_v1.2",
+      "label": "cap02_el_escenario_v1.2",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_02_el_escenario_v1.2.md",
+        "version": "1.2",
+        "chapter_title": "El Escenario",
+        "date": "2026-05-13",
+        "status": "POST-TERMÓMETRO — Pendiente Gate Ama + Crítico + Centinela",
+        "changes": "Nombre completo 'Sebastián Mura' reducido a 1 uso (Sec III, reconocimiento por reloj)",
+        "mapa_erotico_ref": "mapa_erotico_cap2_v1.md",
+        "temperatura": "I:2, II:2→3, III:3→4, IV:4 sostenida (pico 4.5 en dos cm), V:3.5, VI:4"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap02_el_escenario_v1.2_dup",
+      "label": "cap02_el_escenario_v1.2_dup",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_02_el_escenario_v1.2_dup.md",
+        "version": "1.2 duplicado",
+        "note": "Duplicado de v1.2 — mismo contenido, mismo estado POST-TERMÓMETRO",
+        "is_duplicate": true
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "draft_cap02_el_escenario_v1.3",
+      "label": "cap02_el_escenario_v1.3",
+      "type": "draft_version",
+      "properties": {
+        "filename": "capitulo_02_el_escenario_v1.3.md",
+        "version": "1.3",
+        "chapter_title": "El Escenario",
+        "date": "2026-05-13",
+        "status": "POST-CRÍTICO — Pendiente Centinela final + Gate Ama",
+        "changes": "(1) reducción firma 'con la X de Y' de 12 a 6 instancias (D4); (2) inyección capa OLFATO en Sec II (D2)",
+        "mapa_erotico_ref": "mapa_erotico_cap2_v1.md",
+        "temperatura": "I:2, II:2→3, III:3→4, IV:4 sostenida (pico 4.5), V:3.5, VI:4"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "master_cap02_el_escenario",
+      "label": "capitulo_02_el_escenario_v1.4",
+      "type": "master_version",
+      "properties": {
+        "filename": "capitulo_02_el_escenario_v1.4.md",
+        "location": "la_piel_que_diseno/capitulo_02_el_escenario_v1.4.md",
+        "chapter": "Capítulo 2: El Escenario",
+        "status": "CANONICAL (latest promoted version)"
+      },
+      "source": "INFERRED",
+      "confidence": 0.95
+    },
+    {
+      "id": "theme_body_swap",
+      "label": "Body Swap / Intercambio Corporal",
+      "type": "narrative_theme",
+      "properties": {
+        "description": "Matías e intercambian cuerpos en el Día 0; Matías habita el cuerpo de Daniela y Daniela el de Matías",
+        "genre": "MtF (Male-to-Female body swap)",
+        "mechanism": "no explicado diegéticamente — se vive como hecho consumado",
+        "circuit": "circuito de traición — Matías habita las consecuencias de sus propias decisiones de control"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_power_inversion",
+      "label": "Inversión de poder / Control Replicado",
+      "type": "narrative_theme",
+      "properties": {
+        "description": "Daniela aplica sobre Matías exactamente el mismo método de microcontrol que él usó sobre ella durante años",
+        "key_frases": "frases exactas de Matías en boca de Daniela: '¿No crees que...?', 'Ya lo hablamos', 'Es solo una sugerencia', 'No está mal. Pero podrías estar mejor'",
+        "mechanism": "lenguaje de control aprendido desde el lado del objeto; doble impacto en Matías (instrucción + espejo)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_identity_dissolution",
+      "label": "Disolución de Identidad",
+      "type": "narrative_theme",
+      "properties": {
+        "description": "Matías experimenta acumulación involuntaria de marcadores del cuerpo de Daniela (uñas, maquillaje, vinilo, perforaciones) que erosionan su sentido de identidad",
+        "key_beat": "espejo nocturno — 'Esto no soy yo. ¿Verdad?'",
+        "mechanism": "resistencia + disfrute involuntario coexistentes; cuerpo actúa sin que la mente lo autorice"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_bimbo_transformation",
+      "label": "Transformación Bimbo / Diseño Corporal",
+      "type": "narrative_theme",
+      "properties": {
+        "description": "El cuerpo de Daniela fue diseñado por Matías (implantes, pelo, uñas, maquillaje, vestuario vinilo) como canon bimbo extremo; Matías ahora lo habita",
+        "elements": "implantes 700-1000cc, uñas XXXL, pelo rubio largo, labios sobredimensionados, vestuario vinilo/latex/PVC, tacones de aguja",
+        "arc": "destino de Matías: 'Dani — bimbo, sumisa, que disfruta el club'"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_stripper_club",
+      "label": "Club de Striptease / Escenario",
+      "type": "narrative_theme",
+      "properties": {
+        "description": "El club en Bellavista fue el destino que Matías diseñó para Daniela; en Cap 2, Matías en el cuerpo de Daniela trabaja ahí",
+        "setting_details": "puerta negra sin letrero, portero, vestuario con espejos en 3 paredes, barra pole chromo mate 240cm, encargada de vestuario, encargado de pista Nacho",
+        "outfit_escenario": "látex negro bandeau + micro falda + cadena dorada en cadera + plataformas 16cm"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_racconto",
+      "label": "Racconto / Memoria Detonada",
+      "type": "narrative_technique",
+      "properties": {
+        "description": "Flashbacks breves (<80 palabras en versiones tardías) detonados por tacto/objeto — muestran el origen de cada elemento del cuerpo de Daniela como decisión deliberada de Matías",
+        "instances": "R1-R8 mencionadas; R6: café Pio Nono (origen del club), R7: pole, R8: cliente del reloj",
+        "evolution": "v0.3-v0.4: raccontos extensos; v0.5+: reducidos a 1 línea; v0.9+: <80 palabras"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "theme_erotic_temperature",
+      "label": "Temperatura Erótica / Curva de Calor",
+      "type": "narrative_technique",
+      "properties": {
+        "description": "Las versiones del Cap 1 miden temperatura erótica en escala implícita 1-5; las versiones avanzadas del Cap 2 mapean temperatura por sección",
+        "cap1_evolution": "v0.1-v0.4: temperatura plana; v0.5: curva escalada shock→tensión→calor→ardiente",
+        "cap2_schema": "I:2 → II:2-3 → III:3-4 → IV:4 sostenida (pico 4.5) → V:3.5 → VI:4"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "character_nacho",
+      "label": "Nacho",
+      "type": "character",
+      "properties": {
+        "role": "encargado de la pista / entrenador de pole en el club",
+        "description": "~40 años, pelo corto gris, tipo de persona que lleva suficientes primeras veces en el cuerpo como para no hacer nada diferente en la tuya",
+        "appears_in": "Cap 2: El Escenario"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "character_valentina",
+      "label": "Valentina",
+      "type": "character",
+      "properties": {
+        "role": "manicurista del nail studio",
+        "description": "turno de los sábados a las 10 — el mismo desde hace dos años; conoce el nombre y el color de Daniela sin preguntar",
+        "appears_in": "Cap 1: La Piel (v0.3, v0.3_raiz)"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "character_sebastian_mura",
+      "label": "Sebastián Mura",
+      "type": "character",
+      "properties": {
+        "role": "cliente del club de striptease",
+        "description": "reconocido por su reloj (racconto R8); nombre completo reducido a 1 aparición en versiones tardías del Cap 2",
+        "appears_in": "Cap 2: El Escenario"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "contract_100_millones",
+      "label": "Contrato de Participación Artística",
+      "type": "narrative_object",
+      "properties": {
+        "description": "Contrato redactado por Matías con cláusula de penalidad de 100 millones de pesos; firmado por Daniela; ahora Daniela lo usa para forzar la participación de Matías en el club",
+        "detail": "100M elegido para que nunca hubiera salida real — cifra inalcanzable",
+        "role_in_narrative": "mecanismo de trampa — Matías redactó su propia prisión"
+      },
+      "source": "EXTRACTED",
+      "confidence": 1.0
+    },
+    {
+      "id": "series_el_primer_dia",
+      "label": "Serie de borradores: El Primer Día",
+      "type": "draft_series",
+      "properties": {
+        "versions": "v0.1, v0.2, v0.3, v0.3_raiz, v0.4, v0.5",
+        "date_range": "2026-04-29 / 2026-05-01",
+        "chapter": "Capítulo 1",
+        "pov_style": "tercera persona / más fragmentado, pánico explícito de Matías prominente",
+        "status": "reemplazado por la serie 'La Piel'"
+      },
+      "source": "INFERRED",
+      "confidence": 0.9
+    },
+    {
+      "id": "series_la_piel",
+      "label": "Serie de borradores: La Piel",
+      "type": "draft_series",
+      "properties": {
+        "versions": "v0.1 a v1.1 + maestro",
+        "date_range": "2026-05-02 / 2026-05-12",
+        "chapter": "Capítulo 1",
+        "pov_style": "primera persona visceral; reconocimiento técnico sin horror inicial; temperatura erótica integrada",
+        "status": "serie definitiva; v1.1 → maestro_v1"
+      },
+      "source": "INFERRED",
+      "confidence": 0.9
+    },
+    {
+      "id": "series_el_escenario",
+      "label": "Serie de borradores: El Escenario",
+      "type": "draft_series",
+      "properties": {
+        "versions": "v0.1, v1.0, v1.1, v1.2, v1.2_dup, v1.3 + v1.4 canonical",
+        "date_range": "2026-05-06 / 2026-05-13",
+        "chapter": "Capítulo 2",
+        "status": "v1.3 post-crítico → v1.4 canonical"
+      },
+      "source": "INFERRED",
+      "confidence": 0.9
+    }
+  ],
+  "edges": [
+    {
+      "source": "draft_cap01_primer_dia_v0.3",
+      "target": "master_cap01_el_primer_dia",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.3_raiz",
+      "target": "master_cap01_el_primer_dia",
+      "relation": "earlier_version_of",
+      "confidence": 0.85,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.4",
+      "target": "master_cap01_el_primer_dia",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.5",
+      "target": "master_cap01_el_primer_dia",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.1",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.2",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.3",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.4",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.5",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.6",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.7",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.8",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.9",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v1.0",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v1.1",
+      "target": "master_cap01_la_piel",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v0.1",
+      "target": "master_cap02_el_escenario",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.0",
+      "target": "master_cap02_el_escenario",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.1",
+      "target": "master_cap02_el_escenario",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.2",
+      "target": "master_cap02_el_escenario",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.3",
+      "target": "master_cap02_el_escenario",
+      "relation": "earlier_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.2_dup",
+      "target": "draft_cap02_el_escenario_v1.2",
+      "relation": "duplicate_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.3",
+      "target": "draft_cap01_primer_dia_v0.4",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.4",
+      "target": "draft_cap01_primer_dia_v0.5",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.1",
+      "target": "draft_cap01_la_piel_v0.2",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.2",
+      "target": "draft_cap01_la_piel_v0.3",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.3",
+      "target": "draft_cap01_la_piel_v0.4",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.4",
+      "target": "draft_cap01_la_piel_v0.5",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.5",
+      "target": "draft_cap01_la_piel_v0.6",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.6",
+      "target": "draft_cap01_la_piel_v0.7",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.7",
+      "target": "draft_cap01_la_piel_v0.8",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.8",
+      "target": "draft_cap01_la_piel_v0.9",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.9",
+      "target": "draft_cap01_la_piel_v1.0",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v1.0",
+      "target": "draft_cap01_la_piel_v1.1",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v0.1",
+      "target": "draft_cap02_el_escenario_v1.0",
+      "relation": "precedes",
+      "confidence": 0.85,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.0",
+      "target": "draft_cap02_el_escenario_v1.1",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.1",
+      "target": "draft_cap02_el_escenario_v1.2",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.2",
+      "target": "draft_cap02_el_escenario_v1.3",
+      "relation": "precedes",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.3",
+      "target": "master_cap02_el_escenario",
+      "relation": "precedes",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "series_el_primer_dia",
+      "target": "series_la_piel",
+      "relation": "superseded_by",
+      "confidence": 0.9,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "character_daniela",
+      "target": "chapter_01_la_piel",
+      "relation": "appears_in",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_daniela",
+      "target": "chapter_02_el_escenario",
+      "relation": "appears_in",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_matias",
+      "target": "chapter_01_la_piel",
+      "relation": "appears_in",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_matias",
+      "target": "chapter_02_el_escenario",
+      "relation": "appears_in",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_daniela",
+      "target": "character_matias",
+      "relation": "body_swap_with",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_daniela",
+      "target": "character_matias",
+      "relation": "dominates_post_swap",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_daniela",
+      "target": "contract_100_millones",
+      "relation": "uses_as_leverage",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_matias",
+      "target": "contract_100_millones",
+      "relation": "authored",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_nacho",
+      "target": "chapter_02_el_escenario",
+      "relation": "appears_in",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_valentina",
+      "target": "chapter_01_la_piel",
+      "relation": "appears_in",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "character_sebastian_mura",
+      "target": "chapter_02_el_escenario",
+      "relation": "appears_in",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_01_la_piel",
+      "target": "theme_body_swap",
+      "relation": "contains_theme",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_01_la_piel",
+      "target": "theme_power_inversion",
+      "relation": "contains_theme",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_01_la_piel",
+      "target": "theme_identity_dissolution",
+      "relation": "contains_theme",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_01_la_piel",
+      "target": "theme_bimbo_transformation",
+      "relation": "contains_theme",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_01_la_piel",
+      "target": "theme_racconto",
+      "relation": "uses_technique",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_01_la_piel",
+      "target": "theme_erotic_temperature",
+      "relation": "uses_technique",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_02_el_escenario",
+      "target": "theme_body_swap",
+      "relation": "contains_theme",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_02_el_escenario",
+      "target": "theme_power_inversion",
+      "relation": "contains_theme",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_02_el_escenario",
+      "target": "theme_stripper_club",
+      "relation": "contains_theme",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_02_el_escenario",
+      "target": "theme_racconto",
+      "relation": "uses_technique",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "chapter_02_el_escenario",
+      "target": "theme_erotic_temperature",
+      "relation": "uses_technique",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "master_cap01_la_piel",
+      "target": "chapter_01_la_piel",
+      "relation": "canonical_version_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "master_cap02_el_escenario",
+      "target": "chapter_02_el_escenario",
+      "relation": "canonical_version_of",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "series_el_primer_dia",
+      "target": "chapter_01_la_piel",
+      "relation": "draft_series_for",
+      "confidence": 0.9,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "series_la_piel",
+      "target": "chapter_01_la_piel",
+      "relation": "draft_series_for",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "series_el_escenario",
+      "target": "chapter_02_el_escenario",
+      "relation": "draft_series_for",
+      "confidence": 0.95,
+      "source_type": "INFERRED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.3",
+      "target": "series_el_primer_dia",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.3_raiz",
+      "target": "series_el_primer_dia",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.4",
+      "target": "series_el_primer_dia",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_primer_dia_v0.5",
+      "target": "series_el_primer_dia",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.1",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.2",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.3",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.4",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.5",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.6",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.7",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.8",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v0.9",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v1.0",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap01_la_piel_v1.1",
+      "target": "series_la_piel",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v0.1",
+      "target": "series_el_escenario",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.0",
+      "target": "series_el_escenario",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.1",
+      "target": "series_el_escenario",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.2",
+      "target": "series_el_escenario",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    },
+    {
+      "source": "draft_cap02_el_escenario_v1.3",
+      "target": "series_el_escenario",
+      "relation": "member_of",
+      "confidence": 1.0,
+      "source_type": "EXTRACTED"
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
