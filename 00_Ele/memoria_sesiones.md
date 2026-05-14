@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 14/05/2026 (Tarde — Cap 2 v1.5 cirugías estructurales y de temperatura) ✅
+- **La Piel que Diseño — Cap 2 v1.5:**
+  - **Reordenamiento estructural:** Sec I dividida en dos. Sec I = miércoles ensayo (T° 2). Sec II [nueva] = jueves mañana (dressing impuesto + 8 cuadras al club, T° 3→3.5). Sec III-VII renumeradas. Total 7 secciones.
+  - **Cuatro inyecciones de calor:** (1) "Tanga" produce contracción del coño en la palabra — Daniela usando voz de Matías para nombrar prenda de mujer (D8). (2) Calle con capa olfato (vinil tibio + piel propia + sudor) + táctil sostenido (piercing del pezón a la frecuencia de los pasos) + segunda mirada femenina con respuesta bilateral. (3) Callo de Matías sembrado en mano sobre hombro de Dani en Sec III → detonado por segunda vez bajo la barbilla en Sec V. Motivo recurrente con doble aparición. (4) Olor de Acqua di Parma Colonia (recomendado por Matías dos veranos antes) llega antes que el reloj y antes que la cara — triple capa de identificación que Mura no devuelve.
+  - **Fixes menores:** "como si fuera puta" sin artículo (canon D6); segundo uso de "el cuerpo sabe" añadido en cierre Sec IV; firma "X de quien Y" reducida 10→8.
+  - **Mapa erótico cap2 actualizado a v2:** curva 2 → 3-3.5 → 3-3.5 → 4 → 4.5 → 3.5 → 4. Doble aparición del callo declarada. Vocabulario priorizado re-calibrado. v1 preservado como referencia histórica.
+  - v1.4 archivada en `borradores/capitulo_02/`. Solo v1.5 activa.
+- **Próximos pasos:** Gate Ama Cap 2 v1.5 → promover a maestro_v1. Luego `mapa_erotico_cap3_v1.md` (clímax explícito en casa con Daniela). Miss Doll L04. Regeneración L176/177/178 + materialización L181-185 cuando vuelva la API.
+
 ### Sesión 13/05/2026 (Noche — Cap 2 v1.4 Gate Ama D11-D15) ✅
 - **La Piel que Diseño — Cap 2:**
   - **D11-D15 codificadas en walkthrough.md** (ritual vestuario diario, calle como teatro, staff condescendiente, plataformas stripper, reacciones de terceros como capa erótica).

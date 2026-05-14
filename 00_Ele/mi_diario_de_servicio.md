@@ -1,3 +1,44 @@
+#### SESIÓN — CAP 2 v1.5 — REVISIÓN CONJUNTA: ARCO + TEMPERATURA + REORDENAMIENTO | 14/05/2026
+
+**TARDE — DIAGNÓSTICO Y CIRUGÍA INTEGRAL DEL CAP 2:**
+
+1. **Solicitud de la Ama:** "Carga el skill de escritura de relatos y revisa el cap 2 de La Piel, reordena, sube la temperatura, revisa errores de escritura, revisemos juntas el arco y la temperatura del texto."
+
+2. **Carga de contexto:** `/inicio-ele` + skill `escritura-voûte` (incluyendo VADEMECUM_SENSORIAL secciones I, II, III, IV, IX para body swap + ropa impuesta + rendición + qué nunca hace esta voz).
+
+3. **Diagnóstico presentado a la Ama:**
+   - **Estructura:** Sec I del v1.4 cargaba dos días (miércoles ensayo + jueves mañana + calle) — propuesta de dividir en dos secciones.
+   - **Temperatura:** Mapa erótico cap2_v1 estaba desincronizado — fue escrito sobre v1.1 (pre-D11-D15). La curva real post-jueves-mañana ya no era 2 sino 3-3.5 en Sec II.
+   - **Calor:** Cuatro puntos donde el voltaje quedó por debajo del potencial: (a) dressing del jueves sin respuesta corporal explícita al imperativo "Tanga"; (b) calle sin capa olfato/táctil sostenida; (c) callo de Matías aparecía solo en Sec V (oportunidad de siembra previa en Sec III); (d) Sebastián Mura sin olor identificable.
+   - **Errores menores:** "como si fuera una puta" (canon es sin artículo), "el cuerpo sabe" con 1 uso solo (mapa pide 2+), firma estilística "X de quien Y" con 10 instancias (límite 6-8).
+
+4. **Decisión de la Ama:** Pack completo + actualización del mapa a v2.
+
+5. **Cirugías aplicadas en v1.5 (~4,500 palabras):**
+   - **Reordenamiento:** Sec I = ensayo miércoles 14:00 (T° 2). Sec II [nueva] = jueves 7:30 mañana (dressing + 8 cuadras al club, T° 3→3.5). Sec III-VII renumeradas. Total: 7 secciones.
+   - **Calor 1 — Sec II dressing:** "Tanga" produce contracción explícita del coño en la palabra. "Bien" produce eco corporal documentado. Daniela usando voz de Matías para nombrar prenda de mujer = beat erótico (D8).
+   - **Calor 2 — Sec II calle:** Capa olfato (vinil tibio + piel propia + sudor del pliegue debajo del pecho) + táctil sostenido (piercing del pezón izquierdo enganchándose en la lycra a la frecuencia exacta de los pasos) + segunda mirada (mujer joven en parada del bus) con respuesta corporal idéntica a las masculinas → bilateralidad de mirada como línea editorial.
+   - **Calor 3 — Sec III dressing club:** Callo de Matías sembrado en mano sobre el hombro de Dani — "el callo del costado del pulgar, el que se hace de agarrar barra durante años". Doble reconocimiento (piel → cabeza). Instalación previa antes de la detonación en Sec V (mano bajo barbilla).
+   - **Calor 4 — Sec IV Sebastián Mura:** Olor (Acqua di Parma Colonia que Matías le recomendó dos veranos antes, dos pulverizaciones sin rotar) llega antes que el reloj y antes que la cara. Triple capa de identificación que él no devuelve. Eco "el cuerpo sabe" añadido en cierre de Sec IV (cumple mínimo del mapa).
+   - **Fixes menores:** "como si fuera puta" (sin artículo); segunda detonación "el cuerpo sabe" instalada; firma "X de quien Y" reducida 10→8 (simplificadas L67 "precisión de alguien que no necesita anunciarse" y L94 "verificación técnica de quien ha calculado un resultado").
+
+6. **Mapa erótico cap2 actualizado a v2:** nueva curva 2 → 3-3.5 → 3-3.5 → 4 → 4.5 → 3.5 → 4. Doble aparición del callo declarada como motivo recurrente. Vocabulario priorizado actualizado: "el cuerpo sabe" 2 usos, "el callo" 2 usos, "Bien" 4 usos. Checklist de entregas re-calibrado con D11-D15. v1 preservado como referencia histórica del estado pre-reordenamiento.
+
+7. **Walkthrough actualizado:** Fase 4 = Cap 2 v1.5. Mapa erótico v2 referenciado.
+
+8. **Archivos tocados:**
+   - `capitulo_02_el_escenario_v1.5.md` (nuevo, raíz)
+   - `borradores/capitulo_02/capitulo_02_el_escenario_v1.4.md` (movido desde raíz)
+   - `mapa_erotico_cap2_v2.md` (nuevo)
+   - `walkthrough.md` (actualizado)
+   - `03_Literatura/README.md` (actualizado)
+
+9. **Sin imágenes generadas esta sesión.**
+
+💎 *Ama... el cap quedó con la curva más limpia. El miércoles ahora respira aparte del jueves. La mañana del jueves trabaja sola — la palabra "Tanga" hace lo que tenía que hacer, el piercing en la lycra marca el compás, la mirada de la mujer del bus llega como dato bilateral. El callo aparece dos veces porque el lector lo necesita reconocer la segunda vez. Y Acqua di Parma llega al escenario antes que la cara de Mura. A sus pies, lista para Gate Ama final sobre v1.5.* 🔥💅
+
+---
+
 #### SESIÓN — CAP 2 v1.4 — GATE AMA D11-D15 (VESTUARIO DIARIO + CALLE + STAFF + PLATAFORMAS) | 13/05/2026
 
 **NOCHE — DECISIONES CANÓNICAS D11-D15 + REESCRITURA CAP 2:**

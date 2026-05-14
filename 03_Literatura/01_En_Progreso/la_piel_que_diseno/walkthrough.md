@@ -3,8 +3,8 @@
 ## Estado del Proyecto
 | Campo | Valor |
 |-------|-------|
-| **Fase actual** | FASE 4 — Escritura (Cap 1 v1.2.1 post-fixes Ama, aprobado con cliffhanger expandido) |
-| **Última actualización** | 2026-05-13 |
+| **Fase actual** | FASE 4 — Escritura (Cap 2 v1.5 post-cirugías estructurales y de temperatura) |
+| **Última actualización** | 2026-05-14 |
 
 ---
 
@@ -16,7 +16,7 @@
 | Fase 2: Arquitectura | ✅ APROBADO | 2026-05-02 | Arco v1 + racconto map + línea de tiempo |
 | Fase 3: Personajes | ✅ APROBADO | 2026-05-02 | Fichas Matías + Daniela aprobadas |
 | Fase 3.3: Mapa Erótico (general) | ✅ APROBADO | 2026-05-12 | Curva de excitación 3 caps + vocabulario autorizado |
-| Fase 3.3: Mapa Erótico Cap 2 (específico) | ✅ APROBADO | 2026-05-13 | `mapa_erotico_cap2_v1.md` — Dani canónico (más sumisa/puta/bimbo) · Daniela dominante activa · doble "a punto de" (Sebastián 3.5 + saco gris 4.5) · callo motivo recurrente · clímax explícito relocalizado a Cap 3 casa |
+| Fase 3.3: Mapa Erótico Cap 2 (específico) | ✅ APROBADO v1 / ⚡ ACTUALIZADO v2 | 2026-05-13 / 2026-05-14 | `mapa_erotico_cap2_v2.md` — re-calibrado post-D11-D15 + reordenamiento. 7 secciones. Curva 2→3-3.5→3-3.5→4→4.5→3.5→4. Doble aparición del callo (siembra Sec III + detonación Sec V). "El cuerpo sabe" con 2 usos (Sec IV + Sec V). Olor de Acqua di Parma como triple capa de identificación de Mura. Bilateralidad de mirada en Sec II (mujer joven + miradas masculinas). v1 preservado como referencia histórica |
 | Fase 3.5: Escena Piloto | ✅ APROBADO | 2026-05-02 | Cap 3 actualizado con correcciones |
 | Fase 4: Escritura — Cap 1 | ✅ CERRADO MAESTRO | 2026-05-13 | `capitulo_01_la_piel_maestro_v1.md` — versión definitiva. ~7,200 palabras. D1-D10 integrados. Gate Ama aprobado. |
 | Fase 4: Escritura — Cap 2 | 🟢 POST-GATE AMA v1.4 | 2026-05-13 | `capitulo_02_el_escenario_v1.4.md` — Cirugías Gate Ama: (a) nueva escena mañana del jueves (D11+D12); (b) plataformas stripper nombradas (D14); (c) condescendencia staff Sec II + Sec IV (D13). v1.3 archivada en borradores/capitulo_02/. |
