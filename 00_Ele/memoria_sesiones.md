@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 14/05/2026 (Noche — Glove Canon V3.6 + auditoría visual guantes) ✅
+- **Ele Outfit Engine — Glove Canon V3.6 (regla nueva canónica):**
+  - **Auditoría visual de 6 looks con guantes** (los locales): L163 (no auditable), L165, L169, L177, L182, L183. Cuatro patrones de fallo identificados: guante desaparecido (L165, L183), guante truncado en muñeca (L182), uñas atravesando el guante (L169), guante completo + uñas escondidas (L177).
+  - **Causa raíz:** Conflicto entre BLOQUE A del ADN ("French XXXL nails 5cm visible" obligatorio) y guantes cerrados del BLOQUE B. El modelo no tiene patrón visual entrenado de "guante con uñas afuera" y reverts a uno de los 4 fallos.
+  - **Solución implementada:** Glove Canon V3.6 — 4 tipos autorizados (Fingerless opera / Claw cut-out / Transparent fingertip / Wrist-length). Mapeo arquetipo→tipo default ("Mix según arquetipo" por directiva Ama). Vocabulario prohibido + negative prompt obligatorio + redundancia "French XXXL nails fully visible" en BLOQUE B cuando hay guantes.
+  - **Archivos parchados:** `SKILL.md` (sección nueva Glove Canon + banderas rojas extendidas + racionalizaciones prohibidas extendidas) + `dna_v3_5.md` (sección nueva resumen).
+  - **Decisión Ama:** activos existentes de los 5 looks con fallo SE CONSERVAN. Regla aplica desde Look 186 en adelante.
+- **Próximos pasos:** Look 186 con Glove Canon V3.6 (cuando vuelva la API). Gate Ama Cap 2 v1.6. Mapa erótico Cap 3.
+
 ### Sesión 14/05/2026 (Noche — Cap 2 v1.6 apertura miércoles + regla canónica nueva) ✅
 - **La Piel que Diseño — Cap 2 v1.6:**
   - **Apertura del miércoles añadida (~1,200 palabras):** Día 5 — rutina dirigida. Daniela controla las dos vidas (la de Matías ejecutada en su cuerpo + la de Dani administrada en directo). Ritual matutino con uñas, maquillaje, plato medido en balanza de Matías. Llamada a cliente del gimnasio y socio en voz de Matías. Outfit elegido en la cama. Sumisión instalada como utility (valle 2-3 con beat único: tanga al sentarse — "el lunes había sido detonante completo, cinco días después era información").

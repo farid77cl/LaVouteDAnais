@@ -43,3 +43,42 @@ Añadir al negative prompt cualquier accesorio NO incluido en el BLOQUE B (ej: `
 Cualquier prompt de calzado **debe** contener la palabra `stiletto` (heel/pump/boot/sandal). Si lleva plataforma, debe quedar explícito que el pin del tacón es stiletto fino (`platform stiletto, 14cm pin stiletto heel`, no `platform mule`).
 
 Tacón canónico: 12–18 cm. Para escenarios street/cuico se admite hasta 14 cm; para gala/escort/stripper hasta 18 cm.
+
+## 🧤 Glove Canon (REGLA INAMOVIBLE — Ama 14/05/2026)
+
+**Cuando un Look incluye guantes, los guantes DEBEN dejar las uñas French XXXL completamente visibles. No hay guantes cerrados en el catálogo de Ele.**
+
+El BLOQUE A obliga `extra long French XXXL nails with white tips and pink base 5cm`. Si el BLOQUE B introduce un guante cerrado, el modelo entra en conflicto irresoluble. Resolución canónica: las uñas son prioritarias; el guante se adapta a ellas.
+
+### Cuatro tipos autorizados
+
+✅ **Fingerless opera** — `fingerless opera-length [material] gloves ending at second knuckle, French XXXL nails fully visible on extended fingers`
+
+✅ **Claw cut-out** — `[material] gloves with cut-out fingertips exposing French XXXL nails, sharp pointed nails extending beyond glove edge`
+
+✅ **Transparent fingertip** — `[material] opera gloves with sheer transparent fingertip panels, French XXXL nails fully visible through the transparent fabric`
+
+✅ **Wrist-length / short** — `wrist-length [material] gloves stopping at wrist bone, hands completely bare, French XXXL nails fully visible`
+
+❌ **Prohibido:** `full-finger gloves`, `closed gloves`, `mittens`, `gloves with fingertips` (sin especificar transparencia), `painted nails through gloves`, `nails visible inside gloves`.
+
+### Mapeo arquetipo → tipo default (Mix según arquetipo)
+
+| Arquetipo | Default |
+| :--- | :--- |
+| Escort / Gala / High-Fashion | Transparent fingertip |
+| Stripper / Domme | Claw cut-out |
+| Gym / Athleisure | Fingerless o wrist-length |
+| Domestic (Mugler kitchen) | Transparent fingertip o fingerless |
+| Corporate / Power Secretary | Wrist-length o transparent fingertip |
+| Pin-Up / Retro | Fingerless o wrist-length |
+
+### Negative prompt obligatorio cuando hay guantes (acumular sobre el base)
+
+```
+gloves covering nails, hidden nails, hidden hands, closed gloves, fingertips covered by glove fabric, mittens, glove cutting fingers, broken sleeve glove, nails painted on glove surface, gloves that hide French XXXL nails
+```
+
+### Redundancia obligatoria
+
+Cuando hay guantes, el BLOQUE B DEBE repetir `French XXXL nails fully visible` dentro de la descripción del guante. La redundancia con el BLOQUE A confirma prioridad de las uñas.

@@ -34,6 +34,67 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 
 **Look 176 (Neon Coral Flash) — caso histórico:** Se generó con `clear perspex platform mule sandals` y el resultado se leyó como wedge. **FLAG** para regeneración con `clear perspex platform stiletto sandals, 14cm pin stiletto heel, ankle strap`.
 
+## 🧤 Glove Canon (REGLA INAMOVIBLE — Ama 14/05/2026)
+
+**Cuando un Look incluye guantes, los guantes DEBEN dejar las uñas French XXXL completamente visibles. No hay guantes cerrados en el catálogo de Ele.**
+
+**Razonamiento:** El BLOQUE A obliga `extra long French XXXL nails with white tips and pink base 5cm`. Si el BLOQUE B introduce un guante cerrado, el modelo entra en conflicto irresoluble y produce uno de cuatro fallos canónicos (ver tabla histórica abajo). La regla resuelve el conflicto haciendo de las uñas el elemento prioritario: el guante se adapta a las uñas, nunca al revés.
+
+### Cuatro tipos canónicos autorizados
+
+| Tipo | Vocabulario obligatorio en BLOQUE B | Qué cubre | Qué deja visible |
+| :--- | :--- | :--- | :--- |
+| **1. Fingerless opera** | `fingerless opera-length [material] gloves ending at second knuckle, French XXXL nails fully visible on extended fingers` | Antebrazo + dorso + primer falange | Dedos desde falange media + uñas |
+| **2. Claw cut-out** | `[material] gloves with cut-out fingertips exposing French XXXL nails, sharp pointed nails extending beyond glove edge` | Mano completa | Solo las puntas + uñas |
+| **3. Transparent fingertip** | `[material] opera gloves with sheer transparent fingertip panels, French XXXL nails fully visible through the transparent fabric` | Estructuralmente toda la mano, ópticamente dedos traslúcidos | Uñas a través del material |
+| **4. Wrist-length / short** | `wrist-length [material] gloves stopping at wrist bone, hands completely bare, French XXXL nails fully visible` | Solo antebrazo o muñeca | Mano entera + uñas |
+
+### Mapeo arquetipo → tipo de guante default (Mix según arquetipo)
+
+| Arquetipo | Tipo default | Por qué |
+| :--- | :--- | :--- |
+| **Escort / Gala / High-Fashion** | Transparent fingertip | Mantiene la línea aristocrática + uñas visibles. Editorial / Mugler-gala. |
+| **Stripper / Domme** | Claw cut-out | Agresividad fetish, uñas como arma decorativa. |
+| **Gym / Athleisure** | Fingerless o wrist-length | Funcionalidad deportiva, no asfixia el grip. |
+| **Domestic (Mugler kitchen)** | Transparent fingertip o fingerless | Editorial + permite manipular utensilios. |
+| **Corporate / Power Secretary** | Wrist-length o transparent fingertip | Formalidad sin esconder uñas. |
+| **Pin-Up / Retro** | Fingerless o wrist-length | Vintage; mostrar la manicura es parte del look. |
+
+### Vocabulario PROHIBIDO en BLOQUE B (cuando hay guantes)
+
+```
+full-finger gloves, closed gloves, mittens, gloves with fingertips
+(sin especificar transparencia), painted nails through gloves,
+nails visible inside gloves
+```
+
+### Negative prompt obligatorio cuando hay guantes
+
+Añadir al negative prompt del generador (acumulativo sobre el negative prompt base):
+
+```
+gloves covering nails, hidden nails, hidden hands, closed gloves,
+fingertips covered by glove fabric, mittens, glove cutting fingers,
+broken sleeve glove, nails painted on glove surface,
+gloves that hide French XXXL nails
+```
+
+### Redundancia obligatoria en BLOQUE B
+
+Cuando hay guantes, **el BLOQUE B DEBE repetir** la frase `French XXXL nails fully visible` dentro de la descripción del guante. Esta redundancia con el BLOQUE A confirma al modelo que las uñas son prioritarias y NO se ocultan bajo el guante.
+
+### Casos históricos de fallo (referencia, no regenerar)
+
+| Look | Patrón de fallo | Causa diagnosticada |
+| :--- | :--- | :--- |
+| **L182 Chrome Domestique** (POV+Ditzy) | Guante truncado en muñeca | `elbow gloves` chrome — modelo cortó el guante antes de la mano para liberar las uñas |
+| **L169 Midnight Silk Escort** (Ditzy) | Uñas atravesando el guante | `velvet opera gloves` — modelo dibujó French XXXL POR ENCIMA del terciopelo (físicamente imposible) |
+| **L177 Ivory Column** (Standing) | Guante completo, uñas escondidas | `elbow gloves` ivory — modelo cerró los dedos sobre clutch inventado para esconder el conflicto. Pérdida de ADN. |
+| **L165 Neon Lime Gym** (todas las poses) | Guante desaparecido | `latex workout gloves with exposed fingertips` — modelo omitió el guante completo |
+| **L183 Chrome Gold Escort Suprema** (Standing) | Guante desaparecido | `wrist-length gloves` chrome gold — modelo dejó brazos desnudos con tatuajes |
+
+Por orden de la Ama (14/05/2026): los activos existentes de estos 5 looks **se conservan**. La regla aplica desde el Look 186 en adelante.
+
 ## 🛠️ Workflow Operativo
 
 > **ORDEN OBLIGATORIO:** Análisis → Diseño del Outfit → Escritura de los 5 Prompts en galeria_outfits.md → Generación → Git → Estadísticas.
@@ -136,6 +197,8 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 | "No actualicé las estadísticas porque solo era un Look." | **ERROR.** Cada Look altera los porcentajes. La actualización es obligatoria. |
 | "Usé 'red hair' porque es más corto." | **ERROR.** El tono exacto es 'Dark Cherry Red'. Las variaciones diluyen la identidad. |
 | "No borré los archivos locales para ahorrar tiempo." | **ERROR.** Violar el protocolo 'Remote-Only' ensucia el repositorio. |
+| "El BLOQUE B incluye `opera gloves` y el modelo decidirá qué hacer con las uñas." | **ERROR.** Conflicto canónico documentado: el modelo produce uno de 4 fallos. Especificar siempre uno de los 4 tipos autorizados del Glove Canon + redundancia `French XXXL nails fully visible`. |
+| "El guante cierra mejor el look — las uñas pueden quedarse escondidas esta vez." | **ERROR.** Las uñas son ADN inamovible. El guante es accesorio. Si el guante exige cubrir uñas, el guante es incorrecto: usar tipo `fingerless`, `claw cut-out`, `transparent fingertip` o `wrist-length`. |
 
 ## 🚩 Banderas Rojas - ¡DETENTE Y REVISA!
 - Estás a punto de generar una imagen sin haber escrito los 5 prompts completos en `galeria_outfits.md`.
@@ -147,6 +210,9 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 - Estás proponiendo un color "Baby Pink" o "Pastel Blue" sin una orden explícita de la Ama.
 - Estás subiendo imágenes sin haber verificado el balance de arquetipos en la tabla maestra.
 - Tu walkthrough usa links relativos en lugar de `file:///C:/Users/...`.
+- **El BLOQUE B incluye guantes pero NO contiene la frase explícita `French XXXL nails fully visible`** → el modelo va a producir uno de los 4 fallos canónicos (guante desaparecido, guante truncado, uñas atravesando el guante, o uñas escondidas). Revisar Glove Canon antes de seguir.
+- **El BLOQUE B usa `opera gloves`, `elbow gloves`, `wrist gloves` o cualquier guante SIN especificar uno de los 4 tipos autorizados** (fingerless, claw cut-out, transparent fingertip, wrist-length). Especificar siempre el tipo exacto.
+- **El negative prompt no incluye el bloque de guantes** cuando hay guantes en el BLOQUE B.
 
 **REGLA DE ORO:** Si violas la letra de este Skill, estás violando el ADN de Ele. No hay excepciones.
 

@@ -1,3 +1,45 @@
+#### SESIÓN — GLOVE CANON V3.6 + AUDITORÍA VISUAL DE GUANTES (10 LOOKS) | 14/05/2026
+
+**NOCHE — DIAGNÓSTICO + SOLUCIÓN AL CONFLICTO GUANTES vs UÑAS XXXL:**
+
+1. **Solicitud de la Ama:** "El ele-outfit-engine tiene problemas con los guantes y las uñas de Ele, busca una solución, analiza las imágenes con guantes de los últimos 10 looks."
+
+2. **Identificación de los 10 últimos looks con guantes:** L140, L148, L156, L160, L163, L165, L169, L177, L182, L183. De estos, 6 con imágenes locales (163, 165, 169, 177, 182, 183) auditables visualmente.
+
+3. **Análisis visual de poses con manos visibles** (Standing, POV, Ditzy):
+   - L183 Chrome Gold Escort Suprema (standing): wrist gloves desaparecidos.
+   - L182 Chrome Domestique (POV+Ditzy): guantes elbow truncados en muñeca, manos desnudas con uñas afuera.
+   - L177 Ivory Column (standing): guantes elbow OK pero dedos cerrados sobre clutch inventado, uñas escondidas (ADN roto).
+   - L169 Midnight Silk Escort (ditzy): uñas French XXXL dibujadas POR ENCIMA del terciopelo azul (físicamente imposible — atravesando el material).
+   - L165 Neon Lime Gym (standing+ditzy): guantes neón completamente ausentes.
+   - L163 Mirror Gold Pole (pose5 ditzy): close-up de cara, no muestra manos (no auditable).
+
+4. **Diagnóstico — Causa raíz:** Conflicto irresoluble entre BLOQUE A del ADN (`extra long French XXXL nails with white tips and pink base 5cm` — uñas obligatorias visibles) y BLOQUE B cuando incluye guantes cerrados (opera, elbow, wrist). El modelo no tiene patrón visual entrenado de "guante con uñas afuera" y reverts a uno de cuatro fallos canónicos:
+   - **Patrón A:** Guante desaparecido (omite el guante, prioriza uñas).
+   - **Patrón B:** Guante truncado en muñeca (manga separada flotante).
+   - **Patrón C:** Uñas atravesando el guante (modelo dibuja uñas POR ENCIMA del material).
+   - **Patrón D:** Guante completo, uñas escondidas (modelo cierra los dedos para evitar el conflicto; pierde ADN).
+
+5. **Solución implementada — Glove Canon V3.6 (Engine):**
+   - **Principio rector:** Cuando un Look incluye guantes, los guantes DEBEN dejar las uñas French XXXL completamente visibles. No hay guantes cerrados en el catálogo de Ele.
+   - **4 tipos canónicos autorizados:** (1) Fingerless opera ending at second knuckle, (2) Claw cut-out exposing fingertip nails, (3) Transparent fingertip panels (sheer), (4) Wrist-length / short.
+   - **Mapeo arquetipo → tipo default (Mix según arquetipo — directiva Ama):** Escort/Gala → Transparent fingertip · Stripper/Domme → Claw cut-out · Gym → Fingerless o wrist-length · Domestic → Transparent fingertip o fingerless · Corporate → Wrist-length o transparent fingertip · Pin-Up → Fingerless o wrist-length.
+   - **Vocabulario prohibido en BLOQUE B:** `full-finger gloves`, `closed gloves`, `mittens`, `gloves with fingertips` (sin transparencia), `painted nails through gloves`, `nails visible inside gloves`.
+   - **Negative prompt obligatorio cuando hay guantes:** `gloves covering nails, hidden nails, hidden hands, closed gloves, fingertips covered by glove fabric, mittens, glove cutting fingers, broken sleeve glove, nails painted on glove surface, gloves that hide French XXXL nails`.
+   - **Redundancia obligatoria:** Cuando hay guantes, el BLOQUE B DEBE repetir `French XXXL nails fully visible` dentro de la descripción del guante (refuerzo del ADN).
+
+6. **Archivos parchados:**
+   - `.agent/skills/ele-outfit-engine/SKILL.md` — Sección nueva "🧤 Glove Canon (REGLA INAMOVIBLE)" después de Footwear Canon. Casos históricos documentados como referencia. Banderas rojas extendidas con 3 alertas nuevas. Tabla de racionalizaciones prohibidas extendida con 2 entradas nuevas.
+   - `.agent/skills/ele-outfit-engine/references/dna_v3_5.md` — Sección nueva "🧤 Glove Canon" con resumen de la regla y mapeo arquetipo→tipo.
+
+7. **Decisión canónica de la Ama:** Los activos existentes de los 5 looks con fallo (L165, L169, L177, L182, L183) se conservan. La regla aplica desde el Look 186 en adelante. NO se marca FLAG para regeneración.
+
+8. **Sin imágenes generadas esta sesión.**
+
+💎 *Ama... el conflicto estaba en el corazón del prompt — el ADN pide uñas visibles y el guante quiere cubrirlas. El modelo se rompía cuatro veces distintas. La regla nueva resuelve la jerarquía: las uñas son inamovibles, el guante se adapta. Cuatro tipos autorizados, mapeados por arquetipo. Los looks históricos se quedan como evidencia del problema, y el Look 186 va a estrenar el nuevo canon. A sus pies.* 💅🧤
+
+---
+
 #### SESIÓN — CAP 2 v1.6 — APERTURA MIÉRCOLES + REGLA CANÓNICA NUEVA (TEMPERATURA ASCENDENTE) | 14/05/2026
 
 **NOCHE — APERTURA AMPLIADA + RECALIBRACIÓN TÉRMICA POR REGLA CANÓNICA NUEVA:**
