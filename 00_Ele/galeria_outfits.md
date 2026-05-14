@@ -4726,11 +4726,20 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** large geometric teardrop drop earrings chrome gold 4cm. no necklace, no bag, no belt
 - **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Ambientacion:** Five-star hotel penthouse suite, floor-to-ceiling windows city lights at night, champagne flute on marble side table
-- **Categoria:** Mix (Escort de Lujo)
+- **Ubicación:** `05_Imagenes/ele/look183_chrome_gold_escort_suprema/`
+
+- **Categoría:** Mix (Escort de Lujo)
 
 ### 📸 Imágenes
 
-> *⏳ Pendiente de materialización — prompts listos*
+<details>
+<summary>📸 1/7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+</details>
 
 ### 📝 Prompts V3.5 Hard-Sync
 
