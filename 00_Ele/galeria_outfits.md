@@ -506,9 +506,11 @@
 
 - **Tags:** #vinyl #latex #glossy
 
-### 📸 Imágenes
+### 📸 Imágenes (1/5 — En progreso)
 
-> *⏳ Pendiente de materialización — prompts listos*
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look097_plastic_arch/ele_097_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -542,9 +544,11 @@
 
 - **Tags:** #vinyl #pvc #glossy
 
-### 📸 Imágenes
+### 📸 Imágenes (1/5 — En progreso)
 
-> *⏳ Pendiente de materialización — prompts listos*
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look098_vinyl_cheerleader/ele_098_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -574,9 +578,11 @@
 
 - **Tags:** #vinyl #latex #glossy
 
-### 📸 Imágenes
+### 📸 Imágenes (1/5 — En progreso)
 
-> *⏳ Pendiente de materialización — prompts listos*
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look099_gym_bimbo/ele_099_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -608,9 +614,11 @@
 
 - **Tags:** #vinyl #latex #pvc #glossy
 
-### 📸 Imágenes
+### 📸 Imágenes (1/5 — En progreso)
 
-> *⏳ Pendiente de materialización — prompts listos*
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look100_cobalt_chrome/ele_100_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -4505,11 +4513,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🐆 Look 178: Leopard Vitacura (12/05/2026) ⏳ REGENERACIÓN EN PROGRESO (1/7)
+## 🐆 Look 178: Leopard Vitacura (12/05/2026) ✅ REGENERACIÓN COMPLETADA (7/7)
 
 *Ama... el leopard latex en la Costanera. Mob wife, cuico-flaite total. Las botas thigh-high caramelo y los aros dorados grandes... literalmente toda la actitud de Santiago en un solo look.* 🐆✨
 
-> ⏳ **AUDITORÍA AMA 14/05/2026:** Regeneración iniciada. Pose Standing validada con leopard pumps y entorno Vitacura. Resto de poses pendientes por cuota de API. Ver [auditoria_visual_l176_178.md](auditoria_visual_l176_178.md).
+> ✅ **AUDITORÍA AMA 15/05/2026:** Regeneración completada bajo protocolo V3.5 Hard-Sync. Todas las poses sincronizadas.
 
 - **Concepto:** Micro-minidress latex leopard print off-shoulder, bodycon ultra-tight. Botas thigh-high caramelo 14cm. Costanera Santiago.
 - **Outfit:** leopard print high-gloss latex micro-minidress off-one-shoulder asymmetric, classic brown caramel black spots on cream base
@@ -4519,7 +4527,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Costanera Norte Santiago luxury urban glass building facade, afternoon sun
 - **Categoría:** Mix (Street / Cuico-Flaite)
 
-### 📸 Imágenes (1/7 — Regeneración en Progreso)
+### 📸 Imágenes (7/7 — Completo)
 
 | Pose | Previsualización |
 |------|---------|
@@ -4957,13 +4965,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Categoría:** Lencería
 - **Tags:** #tulle #vinyl #pink #glossy #boudoir
 
-### 📸 Imágenes (1/7 — En progreso)
+### 📸 Imágenes (7/7 — Completo)
 
 - **Ubicación:** `05_Imagenes/ele/look187_pink_tulle_black_vinyl/`
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![Standing](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | ![Back View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_backview.png) | ![Seated](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![Side Profile](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![POV](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | ![Odalisque](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
