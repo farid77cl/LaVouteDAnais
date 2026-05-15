@@ -18,6 +18,23 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 15/05/2026 (Noche tarde — Cap 2 v1.7.1 cirugías menores post-auditoría) ✅
+- **Análisis crítico contra Guía Maestra MtF + 10 cirugías quirúrgicas + 2 menores:**
+  - Fix 1: Sec II contradicción D23 limpiada (Daniela salió a correr, no "entra con llaves").
+  - Fix 2: "El despertar fue limpio" → "llegó con el coño ya despierto" (cumple D22).
+  - Fix 3: Saturación "Daniela./Dani." 4→2 instancias.
+  - Fix 4: Saturación "dos centímetros" 7→4.
+  - Fix 5: Cierre del privado de Sebastián con beat de mirada cargada de reconocimiento sin lugar.
+  - Fix 6: Beat post-ritual ampliado (sillón guarda peso + olor compuesto + cabeza ya planea sábado).
+  - Fix 7: Desmaquillado con asimetría cara/cuerpo.
+  - Fix 8: Dos beats de peso de implantes desde adentro (caminata Sec II + caída pole Sec IV).
+  - Fix 9: "¿Estás bien" Daniela → dato disfrazado.
+  - Fix 10: Gancho final con Sebastián como sujeto histórico ("ya pagó la mitad hace dos años en Pío Nono").
+  - Fixes menores: conteo "bien" desambiguado, evitar repetición Macallan 18 en cierre.
+- **Lectura completa de coherencia top-to-bottom verificada:** Sec I-VII sin contradicciones, cronología miércoles-jueves limpia, footwear distinción mantenida.
+- v1.7 archivada en `borradores/capitulo_02/`. Solo v1.7.1 activa.
+- **Próximos pasos:** Gate Ama Cap 2 v1.7.1 → maestro_v1. Luego mapa erótico Cap 3 v1.
+
 ### Sesión 15/05/2026 (Noche — Guía Maestra Arquitectura Erótica MtF v1.0) ✅
 - **Investigación de fondo del subgénero MtF/travestismo/forzado-femenino:**
   - Web: TSQ Duke Univ Press · Julia Serano (*embodiment fantasies* 2020) · Blanchard · Nagoski / Adler (*arousal non-concordance*) · tradición petticoating victoriana (*Gynecocracy* 1893, *My Secret Life*, *The Pearl*) · Princeton Humanities *Forced Womanhood* · Wikipedia *Feminization, Petticoating, Erotic humiliation*.

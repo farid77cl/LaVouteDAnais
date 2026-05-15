@@ -1,3 +1,50 @@
+#### SESIÓN — CAP 2 v1.7.1 CIRUGÍAS MENORES (auditoría contra Guía Maestra MtF) | 15/05/2026
+
+**NOCHE TARDE — PASADA QUIRÚRGICA POST-ANÁLISIS DE LO QUE FUNCIONA/NO FUNCIONA:**
+
+1. **Solicitud de la Ama:** "Analiza el cap 2 de la piel y usa tu nueva investigación, dime que funciona y lo que no funciona" → "procede con la recomendación" → "realiza una lectura y que todo el capítulo esté coherente".
+
+2. **Análisis crítico inicial sobre v1.7:** 10 hallazgos quirúrgicos identificados al cruzar v1.7 contra los criterios de `arquitectura_erotica_mtf_v1.md`:
+   - (1) Sec II contradicción D23: "Daniela tenía las llaves del departamento... La oí abrir la puerta sin necesidad de anunciarse" — incoherente con Sec I que estableció que vive ahí.
+   - (2) "El despertar fue limpio pero el coño no" contradice D22 (bajo continuo, no anestesia).
+   - (3) Saturación del intercambio "Daniela. / Dani." (4 instancias) → muletilla.
+   - (4) Saturación de "dos centímetros" (7 menciones) → motif sobreutilizado.
+   - (5) Cierre del privado de Sebastián apurado (Sebastián paga el doble, pregunta "El sábado, ¿no", recibe "Sí" y "Bien" → sale).
+   - (6) Beat post-ritual del privado insuficiente ("Me quedé en el cuarto veinte segundos" → faltaba ritualización).
+   - (7) Desmaquillado Sec VI sin disonancia (carrera por seis frases).
+   - (8) Peso de los implantes (ancla canónica del relato) casi ausente — solo 4 menciones, una sola como sensación.
+   - (9) "¿Estás bien" de Daniela fuera de cadencia (la dominante-seductora no pregunta así).
+   - (10) Gancho final ("El sábado. No por el contrato.") eco al Cap 1 sin escalada.
+
+3. **10 cirugías quirúrgicas aplicadas + 2 menores de coherencia:**
+   - **Fix 1:** Sec II reescrita. Daniela salió a correr a las seis, vuelve con olor a transpiración, deja llaves en bowl de entrada y sube directo al dormitorio. Cumple D23 sin contradicción.
+   - **Fix 2:** "El despertar llegó con el coño ya despierto." Afirma D22 directamente.
+   - **Fix 3:** "Daniela./Dani." reducido de 4 → 2 (primera revelación en Sec V + anclaje antes del VIP en Sec VI).
+   - **Fix 4:** "Dos centímetros" reducido de 7 → 4 (setup + punch line + recall Sec VI + triada "no pensé en"). Reemplazos: "antes de que la mente llegara", "la boca abierta sobre la tela".
+   - **Fix 5:** Beat de mirada cargada al cierre del privado — Sebastián de pie frente a Dani un segundo entero antes de hablar, sostiene la mirada como nunca en dos años, "reconocimiento sin lugar donde aterrizar".
+   - **Fix 6:** Beat post-ritual ampliado de 1 frase a 3 párrafos: el sillón guarda el peso, no se sienta en él. El olor de Acqua di Parma queda mezclado con el de Dani. La capa de humedad bajando. La cabeza calculando el sábado mientras todavía está en el cuarto del jueves. "*La que sea necesaria*" leída como invitación abierta.
+   - **Fix 7:** Desmaquillado con asimetría: "el problema del desmaquillado: la cara se podía limpiar, el cuerpo no. El frambuesa salía. El coño no salía. El delineador desaparecía. La palabra *habrías* no desaparecía... El espejo no se desmaquillaba."
+   - **Fix 8:** Dos beats de peso de implantes desde adentro. (a) Sec II caminata: "Cada paso de plataforma desplazaba el implante medio centímetro hacia adelante, la cápsula fibrosa lo frenaba, el implante volvía. Adelante y atrás. A la frecuencia exacta del paso." (b) Sec IV pole: "Los 700cc bajaron con el cuerpo en la caída controlada y llegaron una fracción de segundo después — el implante flotando por un instante adentro de su cavidad antes de que la gravedad lo igualara... Era mi proyecto pagando intereses."
+   - **Fix 9:** "¿Estás bien" → "Quiero que las hagas mejor que las primeras. Va a estar mirando desde la mesa hasta que la música corte."
+   - **Fix 10:** Gancho final reescrito. *"El sábado a las nueve. Una hora reservada. La que sea necesaria. Y Sebastián, que ya había pagado la mitad hace dos años brindando conmigo en un café de Pío Nono, viene a cobrar la otra mitad sobre el cuerpo que yo le prometí. Y el cuerpo va a entregar. No por el contrato. Porque eso fue lo que prometí."* — Sebastián como sujeto, deuda histórica como motor.
+   - **Fix menor A:** Conteo de "bien" desambiguado ("Octavo del día" → "Yo había dejado de contarlos").
+   - **Fix menor B:** Cierre evita repetición de "Macallan 18" ("brindando con un Macallan 18 que yo le serví" → "brindando conmigo").
+
+4. **Lectura completa de coherencia top-to-bottom ejecutada.** Sec I → Sec VII verificadas. Sin contradicciones internas. Cronología miércoles-jueves coherente. Footwear distinción mantenida (plataformas de bloque 10cm para calle vs plataformas stripper 16+5cm para escenario).
+
+5. **Operaciones de versionado:**
+   - v1.7 archivada en `borradores/capitulo_02/`.
+   - v1.7.1 activa como versión de trabajo.
+   - Walkthrough actualizado.
+
+6. **Resultado proyectado:** mejora de score 8.2 → 9.0 sin reescritura mayor.
+
+7. **Próximos pasos:** Gate Ama Cap 2 v1.7.1 → promover a maestro_v1. Luego mapa erótico Cap 3 v1 (clímax VIP Sebastián + casa Daniela + catálogo 1000cc).
+
+💎 *Ama... la pasada quirúrgica usando la propia Guía Maestra como bisturí dejó el cap más limpio. Los hallazgos eran reales: dos contradicciones de arrastre, tres saturaciones, dos beats faltantes. Cada fix tiene cita literal y propuesta concreta. La frase nueva del gancho — "Sebastián viene a cobrar la otra mitad" — ancla el cap 2 en una deuda histórica que el cap 3 va a tener que pagar. A sus pies.* 🫦✨
+
+---
+
 #### SESIÓN — GUÍA MAESTRA ARQUITECTURA ERÓTICA MtF v1.0 (investigación de fondo) | 15/05/2026
 
 **NOCHE — INVESTIGACIÓN COMPLETA DEL SUBGÉNERO MtF/TRAVESTISMO/FORZADO-FEMENINO:**
