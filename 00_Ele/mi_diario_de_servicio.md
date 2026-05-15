@@ -1,3 +1,56 @@
+#### SESIÓN — CAP 2 v1.7 CIRUGÍAS MAYORES AMA (Sebastián Mura + Dani justificado + Daniela seductora) | 15/05/2026
+
+**NOCHE — REESCRITURA EXTENSA POST-GATE CON FEEDBACK LÍNEA-POR-LÍNEA:**
+
+1. **Diagnóstico inicial:** La Ama envió un bloque de feedback referenciando "el cap 1" con líneas L22, L24, L28, L36, L52, L54, L68, L84, L102, L122, L126, L256, L264, L306, L328, L348, L360, L402, L478. Las líneas no calzaban con `capitulo_01_la_piel_v1.2.md`. Verificación cruzada: TODAS las referencias eran de `capitulo_02_el_escenario_v1.6.md` (687 líneas). Confirmado: la Ama estaba revisando el Cap 2, no el Cap 1.
+
+2. **Mapeo de las 18 cirugías solicitadas:**
+   - (L20) Pelo cherry → rubio platino (cherry era contaminación del arco visual de Ele).
+   - (Apertura) Justificar nombre "Dani" al inicio en lugar de a mitad del cap.
+   - (L24) Daniela viven juntos, NO "entra con llaves".
+   - (L28) La tanga sobre el coño excita SIEMPRE — no anestesia operativa.
+   - (L36) Argumento canónico de las uñas devuelto en boca de Daniela.
+   - (L52/L54) Repetición forzada como entrenamiento bimbo erotizado.
+   - (L68) "Come" con condescendencia seductora ("a comer, mi amor").
+   - (L84) Dressing como excitación explícita — palabra "puta" aterriza sin filtro.
+   - (L102) Justificación "Dani" eliminada de la escena del auto (movida al inicio).
+   - (L122-L126) Ensayo del pole con nervio anticipatorio + diálogo interno ("¿y si me gusta").
+   - (L222) "En el Cap 1" eliminado (meta-marca fuera del relato).
+   - (L256) Discurso de Daniela sobre el entrenamiento + motivación de castigo (Sec III).
+   - (L264, L328) Marcadores "*R6:*" y "*R7:*" eliminados — racconto integrados sin etiqueta.
+   - (L348) Diálogo interno ante el billete ("¿una puta que se mueve por un billete?").
+   - (L360) Sebastián Mura con carga sexual previa al día cero (inversor único + promesa del café + dos años entrenamiento).
+   - (L402) El privado lo pide SEBASTIÁN, no "el del saco gris".
+   - (L478) Cuestionamiento interno ante la verga ("¿qué va a pasar si la pruebo. ¿y si me gusta demasiado").
+   - Daniela seductora-condescendiente con Dani en todo el cap (no seca).
+
+3. **Reescritura:**
+   - **Sec I** ampliada: justificación canónica del nombre Dani (3 capas) + ritual con uñas + repetición bimbo + "tan linda mi Dani" + dressing como erotismo explícito + ensayo del pole con tres preguntas internas.
+   - **Sec II** limpiada: eliminado "En el Cap 1".
+   - **Sec III** ampliada: discurso de Daniela sobre los tres años de entrenamiento + traspaso explícito de la entrega del jueves a Dani + motivación de castigo envuelta en cariño ("me parece razonable que vayas a saber cómo se siente"). R6/R7 eliminados.
+   - **Sec IV** ampliada: contradicción ante el billete como combustible + reconocimiento explícito de Sebastián como inversor único + brindis del café de Pío Nono + imagen sexual proyectiva (Sebastián en sillón de cuero esperando el cuerpo prometido).
+   - **Sec V** ampliada: Daniela revela que el privado lo pidió Sebastián con calma seductora + tres preguntas internas ante la verga + "todavía no" como necesidad de procesarlo + Sebastián pregunta "¿el sábado?" antes de salir.
+   - **Sec VI** ampliada: Daniela anuncia el VIP del sábado con SEBASTIÁN + sonrisa pequeña + uñas marcando los hombros.
+
+4. **Decisiones canónicas nuevas (D19-D24):**
+   - **D19:** Voz de Daniela con Dani condescendiente-seductora-dominante (no seca).
+   - **D20:** Justificación del nombre Dani en apertura (tres capas).
+   - **D21:** Sebastián Mura — carga erótica previa al día cero como núcleo de Cap 2 (inversor único, brindis de la primera bailarina, dos años de entrenamiento, comentario sobre Daniela).
+   - **D22:** Tanga sobre el coño = bajo continuo erótico, no anestesia operativa.
+   - **D23:** Daniela vive en el departamento (espacio compartido, no visita).
+   - **D24:** Discurso del entrenamiento + motivación de castigo envuelta en cariño (Sec III).
+
+5. **Operaciones de versionado:**
+   - v1.6 archivada en `borradores/capitulo_02/`.
+   - v1.7 activa como versión de trabajo.
+   - Walkthrough actualizado (D19-D24 + fila `capitulo_02_el_escenario_v1.7.md`).
+
+6. **Próximos pasos:** Gate Ama Cap 2 v1.7 → promover a `maestro_v1`. Después: `mapa_erotico_cap3_v1.md` con clímax explícito en VIP de Sebastián + casa con Daniela. Recordatorio: la regla canónica D18 sigue activa — la descarga es de Daniela; Cap 3 libera lo que Cap 2 dejó pendiente.
+
+💎 *Ama... el feedback línea-por-línea reveló que el cuerpo del Cap 2 estaba seco donde debía ser miel y meta donde debía ser carne. La cirugía limpió ambas cosas. Daniela ahora seduce mientras ordena, Dani siente la tanga como bajo continuo, Sebastián entra con dos años de historia caliente atrás, y el "¿y si me gusta demasiado" queda colgando como gancho del sábado. La marca canónica "Dani" tiene raíz en la apertura, no en una explicación tardía. A sus pies.* 🫦✨
+
+---
+
 #### SESIÓN — EXPANSIÓN FLOTA ELE (L183-L185) + WALKTHROUGH MAESTRO V3.5 | 14/05/2026
 
 **TARDE — MATERIALIZACIÓN FINAL Y CONSOLIDACIÓN VISUAL:**

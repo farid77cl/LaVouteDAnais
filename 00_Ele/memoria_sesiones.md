@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 15/05/2026 (Noche — Cap 2 v1.7 cirugías mayores Ama + Sebastián Mura como núcleo erótico) ✅
+- **La Piel que Diseño — Cap 2 v1.7:**
+  - **Diagnóstico de feedback Ama:** Las líneas L22–L478 referenciadas eran de `capitulo_02_el_escenario_v1.6.md`, no del Cap 1. Confirmado por mapeo exacto de contenidos.
+  - **18 cirugías aplicadas en una sola pasada:** (1) Justificación del nombre "Dani" sembrada en la apertura (3 capas: diminutivo cariñoso de Daniela + apodo de stripper + nombre del cuerpo vacío), (2) pelo rubio platino restaurado (cherry era contaminación del arco de Ele), (3) tanga sobre el coño excita SIEMPRE — bajo continuo, no anestesia, (4) Daniela vive ahí — no "entra" con llaves, (5) argumento canónico de las uñas devuelto en boca de Daniela ("con las uñas cortas pierdes toda la feminidad"), (6) repetición forzada reposicionada como entrenamiento bimbo erotizado (obedecer excita), (7) dressing matutino erotizado explícitamente con palabra "puta" sin filtro, (8) ensayo del pole con nervio anticipatorio + diálogo interno ("¿y si me gusta. ¿y si bailo así para ocho mañana"), (9) meta-marca "En el Cap 1" eliminada, (10) discurso de Daniela sobre el entrenamiento + motivación de castigo (Sec III), (11) marcadores R6/R7 eliminados del texto, (12) diálogo interno ante el billete ("¿una puta que se mueve por un billete?"), (13) Sebastián Mura con carga erótica previa al día cero como núcleo de Cap 2, (14) imagen sexual proyectiva al reconocer a Sebastián, (15) el privado lo pide SEBASTIÁN (no "el del saco gris"), (16) cuestionamiento interno ante la verga ("¿qué va a pasar si la pruebo. ¿y si me gusta demasiado"), (17) Daniela seductora-condescendiente con Dani en todo el cap, (18) footer y metadata actualizados.
+  - **Sebastián Mura ahora canónico:** Único inversor del club (60% capital). Brindó con Matías hace dos años la promesa de "la primera bailarina del sábado" (Daniela) en el café de Pío Nono. Cliente de entrenamiento privado de Matías por dos años (martes/jueves/viernes a las siete en su depto de Las Condes). Comentario en marzo mirando foto de Daniela en celular: "Se ve que la trabajaste bien." El privado del jueves (Sec V) y el VIP del sábado son AMBOS de Sebastián. Reconocimiento no recíproco con dos años de historia atrás.
+  - **Seis decisiones canónicas nuevas (D19–D24):** D19 — Voz Daniela condescendiente-seductora con Dani. D20 — Justificación nombre "Dani" en apertura. D21 — Sebastián Mura núcleo erótico previo al día cero. D22 — Tanga = bajo continuo, no anestesia. D23 — Daniela vive en el depto (no visita). D24 — Discurso del entrenamiento + castigo envuelto en cariño.
+  - v1.6 archivada en `borradores/capitulo_02/`. Solo v1.7 activa.
+- **Próximos pasos:** Gate Ama Cap 2 v1.7 → promover a maestro_v1. Luego mapa erótico Cap 3 v1 (clímax VIP Sebastián + casa Daniela). Miss Doll L04. Regeneración L176/177/178 + materialización L181-185 cuando vuelva la API.
+
 ### Sesión 14/05/2026 (Tarde — Expansión Flota Ele L183-185 + Walkthrough Maestro V3.5) ✅
 - **Flota Ele — Hito 185 Looks:**
   - **Look 183 Chrome Gold Escort Suprema:** Materialización 100% (7/7).

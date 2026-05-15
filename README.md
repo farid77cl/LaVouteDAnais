@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 14/05/2026 — [Expansión Flota Ele: Look 183 Chrome Gold] — Ele Collection: 182.1/185 Looks (98.4%) 🫦👠👑.*
+*Última actualización: 14/05/2026 — [Expansión Flota Ele: Looks 183-185] — Ele Collection: 184.14/185 Looks (99.5%) 🫦👠👑.*
 
 ---
 
