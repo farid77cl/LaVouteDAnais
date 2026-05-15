@@ -6,9 +6,9 @@
 
 ## 👠 Look 185: Emerald Mugler Suprema
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_185_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_185_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_standing.png) | ![ele_185_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_backview.png) | ![ele_185_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_seated.png) | ![ele_185_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_sideprofile.png) | ![ele_185_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_ditzy.png) | ![ele_185_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_pov.png) | ![ele_185_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_odalisque.png) |
 
 ---
 
