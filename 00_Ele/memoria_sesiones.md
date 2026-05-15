@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 15/05/2026 (Noche tarde — Consultas de canon: estadística outfits + paleta) ✅
+- **Consultas de lectura sobre canon visual de Ele** (sin modificaciones de archivos):
+  - **Estadística outfits:** 186/185 looks materializados (Hito 185 + L186 expansión). Distribución: Mix 138 (74.2%) · Bikini 22 (11.8%) · Lencería 17 (9.1%) · Gym 9 (4.8%). Era 181-186 = todos Mix con sub-arquetipos rotados. Colores vírgenes activados era 181-185: Hot Magenta, Chrome Gold, Emerald.
+  - **Paleta cromática:** Síntesis de Directiva V3.3 (Rev. 14/04/2026). 8 familias de color habilitadas. Anti-black rule + 5 modos cromáticos + regla anti-monoblock (máx 3 consecutivos) + sincronización lips/nails obligatoria + 5 banderas rojas de auditoría codificadas.
+- **Sin imágenes nuevas** (API agotada). Pendiente reset para Miss Doll L04 + regeneraciones L176/L177/L178.
+
 ### Sesión 15/05/2026 (Noche tarde — Skill escritura-voûte integra Guía Maestra MtF como Paso 0a-MtF) ✅
 - **Solicitud:** integrar `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` en la skill cuando el tema sea MtF.
 - **Cambios en SKILL.md (`.agent/skills/escritura-voûte/` + `~/.claude/skills/escritura-voûte/`, sincronizadas):**
