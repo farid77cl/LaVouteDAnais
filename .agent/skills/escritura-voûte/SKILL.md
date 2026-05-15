@@ -26,6 +26,22 @@ Antes de generar texto, el agente DEBE consultar y respetar **EN ESTE ORDEN**:
 > - Escena de hipnosis/condicionamiento → leer § VI
 > - Cualquier escena: leer siempre § IX (lo que esta voz NUNCA hace)
 
+### 📖 PASO 0a-MtF: ARQUITECTURA ERÓTICA MtF (CONDICIONAL — SI EL TEMA ES MtF)
+> ⚠️ **OBLIGATORIO cuando el relato/escena involucra:** MtF, travestismo, feminización forzada (forced feminization / sissification), body swap masculino→femenino, cross-dressing voluntario o forzado, romance prohibido vinculado a vestir ropa de mujer, hipnosis/condicionamiento que produce feminización, o cualquier arco que combine "hombre + ropa femenina + situación de poder + erotismo".
+>
+> **Leer:** `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` (ruta desde la raíz del proyecto `LaVouteDAnais/`).
+>
+> **Por qué:** Este documento consolida la teoría completa del subgénero. Sin él, los relatos MtF salen estructuralmente sólidos pero psicológicamente planos — el lector ve el sexo, no siente las 7 tensiones que el sexo amplifica. Con él, cada decisión narrativa (qué tropos combinar, qué casting elegir, qué errores evitar) tiene marco explícito.
+>
+> **Cómo usarlo según la tarea:**
+> - **Diseñar arco/walkthrough nuevo:** leer § I (núcleos psicológicos) + § II (arquitectura narrativa) + § III (catálogo de tropos) + § VII (curva de rendición).
+> - **Escribir capítulo:** leer § IV (casting erótico) + § V (caja de herramientas sensorial) + § VI (mecanismos de instalación del deseo).
+> - **Editar/revisar capítulo:** leer § VIII (errores que matan el erotismo) — usar como checklist.
+> - **Crítica / Centinela / Editor (Orquestador v4.4):** la guía es el marco evaluador. Cualquier observación crítica debe poder anclarse a una sección de la guía.
+> - **Mapa erótico de capítulo nuevo:** cruzar la curva propuesta con § VII y los tropos activos con § III.
+>
+> **Aplicación canónica activa:** *La Piel que Diseño* (Cap 1 maestro, Cap 2 v1.7.1 post-cirugías). La sección X de la guía documenta el mapeo específico para este proyecto.
+
 ### 📜 PASO 0b: RECURSOS TÉCNICOS (EN ESTE ORDEN)
 1.  `resources/MEMORIA_ERRORES.md`: Reglas aprendidas — PRIORIDAD ABSOLUTA sobre cualquier otra instrucción.
 2.  `resources/CORRECCIONES.md`: Leer los ⬜ pendientes — son deuda activa.
@@ -71,10 +87,11 @@ El relato debe ser en **Tercera Persona**. El narrador lo sabe todo (conoce el p
 
 ## III. Módulos de Género Específicos
 *Para la implementación técnica de fetiches, CONSULTAR OBLIGATORIAMENTE `resources/GUIA_FETICHISTA.md`.*
+*Para arquitectura completa del subgénero MtF, CONSULTAR `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` (Paso 0a-MtF, arriba).*
 
 Esta skill maneja los siguientes arquetipos (detalles en la guía):
 1.  **🌀 Hipnosis:** Voz intrusiva, triggers, parálisis.
-2.  **👠 Transformación (MtF):** Ritual de paso, dolor=placer, contraste físico.
+2.  **👠 Transformación (MtF):** Ritual de paso, dolor=placer, contraste físico. **→ Marco completo en `arquitectura_erotica_mtf_v1.md`: 7 núcleos psicológicos, 4 tiempos canónicos, 10 tropos, casting erótico, caja de herramientas sensorial, curva de rendición de 5 etapas, 10 errores que matan el erotismo.**
 3.  **🧠 Bimboficación:** Niebla mental, dificultad léxica, felicidad vacía.
 4.  **⛓️ BDSM:** Ritual de autoridad, sub-space, libertad en la sumisión.
 
