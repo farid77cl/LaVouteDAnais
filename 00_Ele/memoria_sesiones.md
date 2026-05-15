@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 15/05/2026 (Noche — Guía Maestra Arquitectura Erótica MtF v1.0) ✅
+- **Investigación de fondo del subgénero MtF/travestismo/forzado-femenino:**
+  - Web: TSQ Duke Univ Press · Julia Serano (*embodiment fantasies* 2020) · Blanchard · Nagoski / Adler (*arousal non-concordance*) · tradición petticoating victoriana (*Gynecocracy* 1893, *My Secret Life*, *The Pearl*) · Princeton Humanities *Forced Womanhood* · Wikipedia *Feminization, Petticoating, Erotic humiliation*.
+  - Canon interno: VADEMECUM, GUIA_FETICHISTA Módulo 4, MEMORIA_ERRORES, 20+ relatos cerrados del catálogo (*Esposa de mi esposa, El Giro del Espejo, El Mandato de los Tacones, El Secreto de la Cómoda, Smart Home Stepford, La Piel, Brillando en Tacones, The Dollhouse, Trance Bimbodoll, Perfume de Ruina, Eres de los hombres que*, etc.).
+- **Documento maestro entregado:** `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` — 910 líneas, ~25.000 palabras, 10 secciones + apéndice. Cubre: 7 núcleos psicológicos del lector, arquitectura narrativa de 4 tiempos, catálogo de 10 tropos, casting erótico, caja de herramientas sensorial, mecanismos de instalación del deseo, curva de rendición de 5 etapas, 10 errores que matan el erotismo, voz Voûte chilena, aplicación a *La Piel que Diseño*, glosario y referencias.
+- **Hallazgo clave:** La autoría invertida (yo construí lo que ahora me consume) es firma específica del universo Voûte — rara en el subgénero general. Vale la pena protegerla como elemento diferenciador en futuros relatos.
+- **Función del documento:** referencia rápida para agentes Crítico, Editor y Centinela del Orquestador v4.4. Marco para evaluar relatos nuevos y para diseñar arcos futuros.
+- Commit `f97d4055`.
+
 ### Sesión 15/05/2026 (Mañana — Outfit Diario Look 186) ✅
 - **Nueva Materialización:**
   - **Look 186 Silver Mirror Stripper:** 7/7 poses generadas. Primer look de la era post-185.

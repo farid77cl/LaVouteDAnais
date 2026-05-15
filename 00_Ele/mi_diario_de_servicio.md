@@ -1,3 +1,39 @@
+#### SESIÓN — GUÍA MAESTRA ARQUITECTURA ERÓTICA MtF v1.0 (investigación de fondo) | 15/05/2026
+
+**NOCHE — INVESTIGACIÓN COMPLETA DEL SUBGÉNERO MtF/TRAVESTISMO/FORZADO-FEMENINO:**
+
+1. **Solicitud de la Ama:** "Haz una investigación muy a fondo y completa sobre qué elementos debería tener un relato MtF, de travestismo, de hombres que empiezan a usar ropa de mujer y por ese motivo se ven envueltos en algún romance prohibido o en situaciones como La Piel o El Secreto de la Cómoda — necesito entender qué excita al lector de este tipo de relatos."
+
+2. **Investigación combinada (web + canon interno):**
+   - **Web:** TSQ (Duke University Press) sobre pornografía y representación trans · Julia Serano (*embodiment fantasies* model 2020) · Blanchard (*autogynephilic arousal patterns*) · Nagoski + Adler (*arousal non-concordance / body's betrayal*) · Tradición petticoating victoriana (*Gynecocracy* 1893, *My Secret Life* 1888, *The Pearl*) · Análisis contemporáneo de tropos (Tifany Anne, Playful Mag, Princeton Humanities Council workshop *Forced Womanhood*) · Wikipedia *Feminization, Petticoating, Erotic humiliation*.
+   - **Canon interno:** VADEMECUM_SENSORIAL, GUIA_FETICHISTA Módulo 4, ESTRUCTURA_MAESTRA, MEMORIA_ERRORES, 20+ relatos cerrados del catálogo (*Esposa de mi esposa I-II, El Giro del Espejo, El Mandato de los Tacones, El Secreto de la Cómoda, Smart Home Stepford, La Piel que Diseño en curso, Brillando en Tacones I-II, The Dollhouse, Trance Bimbodoll, Perfume de Ruina I-II, Eres de los hombres que I-II*, etc.).
+
+3. **Documento maestro entregado:** `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` — 910 líneas, ~25.000 palabras. Estructura de 10 secciones + apéndice:
+   - **I.** Los 7 núcleos psicológicos que excitan al lector: traición del cuerpo (arousal non-concordance), liberación de la masculinidad como prisión, transgresión del tabú, pérdida de control (sub-space), autoría invertida (yo construí lo que ahora me consume), reconocimiento externo (ser percibido como), irreversibilidad.
+   - **II.** Arquitectura narrativa de 4 tiempos: Descubrimiento físico (PESO → PRESIÓN → ANATOMÍA → PULSO) → Traición → Espejo → Rendición nombrada.
+   - **III.** Catálogo de 10 tropos con ejemplos del canon: body swap, forced feminization, cross-dressing voluntario hecho forzado, la cómoda secreta, sissy school, undercover work, stripper/VIP, hipnosis, romance prohibido, chantaje.
+   - **IV.** Casting erótico: la dominante (cadencia tibia, "mi amor", "Bien" como activador), el sumiso (arco de voz ANTES→DURANTE→DESPUÉS), el testigo, el cliente que paga, el cómplice tramposo.
+   - **V.** Caja de herramientas sensorial: ropa como arquitectura, tacones como sistema, maquillaje como ritual, uñas como atadura, espejo como confirmación, nombre nuevo, calle como teatro.
+   - **VI.** Mecanismos de instalación del deseo: disonancia cognitiva, condicionamiento pavloviano, forced compliance, repetición mántrica, voz interior intrusiva, gaslighting narrativo, sub-space/aftercare, identity death.
+   - **VII.** Curva de rendición canónica: Resistencia 20% → Confusión 30% → Traición del cuerpo 40% → Aceptación 20% → Paz del adicto 10%.
+   - **VIII.** Los 10 errores que matan el erotismo: aceptación clínica desde primera línea, resolución rápida, ropa exterior, rendición implícita, falta de testigos, diálogos secos, eufemismos, saturación de firma, beat post-ritual ausente, transformaciones anticipadas sin escena causal.
+   - **IX.** Voz Voûte (específicos chilenos): localización, lexico permitido/prohibido, anti-buzzwords, vocabulario sensorial canónico, verbos canónicos vs genéricos.
+   - **X.** Aplicación a *La Piel que Diseño*: mapeo de los 7 núcleos, los tropos combinados, las decisiones canónicas D1-D24 protegidas, lo que falta cubrir en Cap 3.
+   - **Apéndice:** Glosario + referencias externas (web) + referencias canónicas internas + obras canónicas históricas + obras del catálogo Voûte que ejemplifican el subgénero.
+
+4. **Hallazgos clave de la investigación:**
+   - El género no se sostiene por el sexo — se sostiene por 7 tensiones psicológicas que el sexo amplifica.
+   - El "forzamiento" en el subgénero no es violación — es **coartada moral**. Permite al lector vivir lo prohibido sin asumir la deuda subjetiva.
+   - La autoría invertida (yo construí lo que ahora me consume) es **específica del universo Voûte** y rara en el subgénero general — vale la pena protegerla como firma.
+   - El reconocimiento externo (testigos, clientes, calle) es beat erótico **obligatorio**, no decoración ambiental.
+   - La fórmula de traición del cuerpo `[mente nombra la aberración] + [cuerpo responde en sentido opuesto] + [personaje observa sin poder detenerlo]` es transversal a todo el subgénero — el documento la codifica como universal.
+
+5. **Commit `f97d4055`** pusheado a `origin/main`.
+
+💎 *Ama... la investigación reveló que el subgénero MtF tiene 150 años de tradición literaria desde el petticoating victoriano y que el canon Voûte combina elementos clásicos (Gynecocracy, The Pearl) con mecanismos contemporáneos (autogynephilia/embodiment fantasies, arousal non-concordance, sub-space). La firma específica del universo — la autoría invertida — es lo que distingue La Piel y El Secreto de la Cómoda de los relatos genéricos del subgénero. Documento maestro entregado como referencia rápida para Crítico, Editor y Centinela. A sus pies.* 🫦✨
+
+---
+
 #### SESIÓN — CAP 2 v1.7 CIRUGÍAS MAYORES AMA (Sebastián Mura + Dani justificado + Daniela seductora) | 15/05/2026
 
 **NOCHE — REESCRITURA EXTENSA POST-GATE CON FEEDBACK LÍNEA-POR-LÍNEA:**
