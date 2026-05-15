@@ -1,7 +1,7 @@
 # 🖼️ Galería: look187_pink_tulle_black_vinyl
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
@@ -16,7 +16,7 @@ Total imágenes: 6
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_187_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_backview.png) | ![ele_187_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![ele_187_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) | ![ele_187_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) |
-| ![ele_187_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![ele_187_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png) |
+| ![ele_187_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![ele_187_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png) | ![ele_187_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_sideprofile.png) |
 
 
 ---
@@ -28,6 +28,7 @@ Total imágenes: 6
 - [ele_187_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png)
 - [ele_187_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png)
 - [ele_187_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png)
+- [ele_187_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_sideprofile.png)
 
 ---
 *Sincronizado con GitHub: 2026-05-15* 👄
