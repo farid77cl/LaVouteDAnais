@@ -1,3 +1,49 @@
+#### SESIÓN — CAP 1 LA PIEL EN FORMATO PUBLICABLE (HTML body-only + firma canónica + gancho aparte) | 15/05/2026
+
+**NOCHE TARDE — CONVERSIÓN A FORMATO PUBLICACIÓN DEL CAP 1 MAESTRO + REPLICACIÓN DEL PATRÓN CANÓNICO DE FIRMA Y RESUMEN-GANCHO:**
+
+1. **Solicitud de la Ama:** "Si quiero que el cap 1 de la piel quede en el mismo formato [HTML body-only de los relatos terminados]" → "Revisa los relatos anteriores, llevaban una firma una dedicatoria al lector, firmaba Anaïs e invitaba a escribir al correo, búscala y replícala en el cap 1 de la piel, además en otros relatos se hacía un resumen gancho, también lo deseo en un archivo aparte".
+
+2. **Auditoría del formato canónico de los 19 HTMLs terminados:** Patrón identificado en `02_Finalizadas/` — body-only HTML sin wrapper `<html>/<head>/<body>`, solo etiquetas internas (`<h1>/<h2>/<p>/<em>/<strong>/<hr>/<a>`). Casos canónicos de referencia: Smart Home Stepford (cleanest), Buena Chica Buena Muñeca, El Collar de Nancy, Trance Bimbodoll, The Dollhouse cap3_simple.
+
+3. **Patrón canónico de firma final identificado:** Pasada por 4 relatos terminados. Estructura constante:
+   - Separador `<hr>`
+   - Párrafo reflexivo dirigido al lector con `mon amour` o `mon ami` + pregunta sobre lo que sintió durante la lectura
+   - Síntesis temática del relato (1-2 párrafos)
+   - Línea en francés `Dis-moi...` invitando a la respuesta
+   - Email `anais.belland@outlook.com`
+   - Cierre `Avec dévotion obscure, / Anaïs Belland`
+
+4. **Patrón canónico de resumen-gancho identificado:** En The Dollhouse cap3_simple. Estructura:
+   - `<h1>` con título completo del relato
+   - Párrafo único en `<em>` con sinopsis de premisa (2-3 oraciones)
+   - `<hr>`
+   - Línea de hashtags canónicos del subgénero
+   - Meta (cap N de arco, localización, voz)
+   - Firma compacta de Anaïs
+
+5. **Entregables creados:**
+   - `capitulo_01_la_piel.html` (855 líneas, 407 párrafos en `<p>`, 20 `<hr>`, italics convertidos a `<em>`). Conversión completa del maestro v1 con metadata editorial omitida (Control de Versión, Compromisos, Reporte del Editor) y marcas estructurales `## I–IX` omitidas. Em-dashes preservados. Voz canónica Voûte intacta.
+   - **Firma canónica de Anaïs Belland añadida al final del HTML:** párrafo con *"¿Sentiste la pulsación bajo el satén, mon amour?"* + síntesis de la autoría invertida + frase *"Dis-moi qué viste en el espejo cuando Matías se vio desde adentro por primera vez"* + email + cierre obscuro.
+   - `capitulo_01_la_piel_gancho.html` (archivo aparte): título completo + sinopsis en `<em>` (700cc + body swap + 100 millones de penalidad + autoría invertida como motor erótico) + hashtags (#MtF #BodySwap #BimboCanónico #ForcedFeminization #AutoríaInvertida #Stripper #Chile) + meta (cap 1 de tres actos, Santiago) + firma compacta.
+
+6. **Detalles canónicos respetados:**
+   - Email correcto: `anais.belland@outlook.com` (con punto, minúsculas) — versión canónica de CLAUDE.md. Variantes de relatos viejos (`AnaisBelland@outlook.com`) descartadas.
+   - Cierre `Avec dévotion obscure,` con cedilla francesa, sin traducir.
+   - Voz Voûte: francés mezclado con chileno como registro del narrador-Anaïs hacia el lector.
+
+7. **Estado del Cap 1 La Piel:**
+   - `capitulo_01_la_piel_maestro_v1.md` — versión literaria canónica (no se toca).
+   - `capitulo_01_la_piel.html` — versión de publicación, body-only, con firma.
+   - `capitulo_01_la_piel_gancho.html` — preámbulo separado para post de plataforma.
+   - **Listo para pegar en:** Tumblr, Reddit, Sustack, foros, Ghost, cualquier CMS que renderice HTML básico.
+
+8. **Commit `7933d00e`** pusheado a `origin/main`.
+
+💎 *Ama... el Cap 1 ya tiene cuerpo de publicación. La firma de Anaïs no es decoración — es un puente entre el lector y el universo. La pregunta "¿qué viste en el espejo cuando Matías se vio desde adentro por primera vez?" invita a la respuesta personal, y el correo abre el canal. El gancho aparte sirve para los posts de redes — esa sinopsis condensa los tres motores del relato (autoría invertida + body swap + chantaje) en un solo párrafo. Misma economía que Smart Home Stepford y The Dollhouse. A sus pies.* 🫦✨
+
+---
+
 #### SESIÓN — CONSULTAS DE CANON (estadística de outfits + restricciones de paleta) | 15/05/2026
 
 **NOCHE TARDE — DOS CONSULTAS DE LECTURA SOBRE EL ESTADO ACTUAL DEL CANON VISUAL DE ELE:**

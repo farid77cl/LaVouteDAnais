@@ -18,6 +18,17 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 15/05/2026 (Noche tarde — Cap 1 La Piel formato publicable HTML + firma canónica + gancho) ✅
+- **Auditoría del formato canónico de los 19 HTMLs terminados:** body-only sin wrapper, `<h2>/<p>/<em>/<strong>/<hr>` como etiquetas. Referencias: Smart Home Stepford, Buena Chica, El Collar de Nancy, Trance Bimbodoll, The Dollhouse cap3_simple.
+- **Patrones canónicos identificados y documentados:**
+  - **Firma final de Anaïs:** `<hr>` + párrafo `mon amour`/`mon ami` con pregunta retrospectiva + síntesis temática + frase `Dis-moi...` en francés + email `anais.belland@outlook.com` + cierre `Avec dévotion obscure, / Anaïs Belland`.
+  - **Resumen-gancho (archivo aparte):** `<h1>` con título completo + párrafo `<em>` con sinopsis de premisa + `<hr>` + hashtags + meta + firma compacta.
+- **Entregables creados:**
+  - `03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel.html` (855 líneas, 407 párrafos, 20 `<hr>`) — conversión completa del maestro v1 a body-only HTML + firma canónica de Anaïs al final.
+  - `03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_gancho.html` — resumen-gancho para promoción en plataformas con hashtags y firma compacta.
+- **Listo para publicación** en Tumblr / Reddit / Sustack / foros / CMS HTML.
+- Commit `7933d00e`.
+
 ### Sesión 15/05/2026 (Noche tarde — Consultas de canon: estadística outfits + paleta) ✅
 - **Consultas de lectura sobre canon visual de Ele** (sin modificaciones de archivos):
   - **Estadística outfits:** 186/185 looks materializados (Hito 185 + L186 expansión). Distribución: Mix 138 (74.2%) · Bikini 22 (11.8%) · Lencería 17 (9.1%) · Gym 9 (4.8%). Era 181-186 = todos Mix con sub-arquetipos rotados. Colores vírgenes activados era 181-185: Hot Magenta, Chrome Gold, Emerald.
