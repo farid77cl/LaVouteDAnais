@@ -6,12 +6,14 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **187** | 🟢 Expansión |
-| **Materializados (100%)** | **187.0** | ✅ Completo |
-| **Legado (Looks 01-100)** | **4/100** | 🟡 Poses Standing (L97-100) |
+| **Total Looks Planificados** | **185** | 🟢 Expansión |
+| **Materializados** | **186.8** | 🟢 Expansión |
+| **Pendientes de Generación** | **0.2** | 🟡 Look 187 (6/7) |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
 ### 🛠️ Looks de Ele: ESTADO ACTUAL
+- ✅ **Look 176 (Neon Coral Flash):** 7/7 Poses (Regenerado V3.5) ✅.
+- ✅ **Look 177 (Ivory Column):** 7/7 Poses (Regenerado V3.5) ✅.
 - ✅ **Look 178 (Leopard Vitacura):** 7/7 Poses (Regenerado V3.5) ✅.
 - ✅ **Look 181 (Magenta Stage Predator):** 7/7 Poses ✅.
 - ✅ **Look 182 (Chrome Domestique):** 7/7 Poses ✅.
@@ -19,7 +21,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 184 (Jade Corporate Dominatrix):** 7/7 Poses ✅.
 - ✅ **Look 185 (Emerald Mugler Suprema):** 7/7 Poses ✅.
 - ✅ **Look 186 (Silver Mirror Stripper):** 7/7 Poses ✅.
-- ✅ **Look 187 (Hot Pink Tulle & Black Vinyl):** 7/7 Poses ✅.
+- 🟡 **Look 187 (Hot Pink Tulle & Black Vinyl):** 6/7 Poses (Odalisque Pendiente - Quota 429) ⏳.
 - 🟡 **Legacy Audit (97-100):** Materialización iniciada (Pose Standing 1/5).
 
 ---

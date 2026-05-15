@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 15/05/2026 14:30 — **109 looks registrados**  
+> Generado automáticamente el 15/05/2026 19:46 — **109 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -23,10 +23,10 @@
 | **94** | The Locked Legacy (Rocío - Consagración) | 26/03/2026 | Lencería | — | — | 5/5 | ✅ Completo |
 | **95** | Liquid Platinum | — | Mix | — | — | 5/5 | ✅ Completo |
 | **96** | Mercury Goddess | — | Mix | — | — | 6/6 | ✅ Completo |
-| **97** | Plastic Arch-Nemesis | — | Mix | — | — | 0/? | ⏳ Pendiente |
-| **98** | Vinyl Cheerleader | — | Mix | — | — | 0/? | ⏳ Pendiente |
-| **99** | Gym-Bimbo Performance | — | Gym | — | — | 0/? | ⏳ Pendiente |
-| **100** | Cobalt Chrome Editorial | — | Mix | — | — | 0/? | ⏳ Pendiente |
+| **97** | Plastic Arch-Nemesis | — | Mix | — | — | 1/5 | — |
+| **98** | Vinyl Cheerleader | — | Mix | — | — | 1/5 | — |
+| **99** | Gym-Bimbo Performance | — | Gym | — | — | 1/5 | — |
+| **100** | Cobalt Chrome Editorial | — | Mix | — | — | 1/5 | ⏳ Pendiente |
 | **101** | Elite Lingerie | — | Lencería | — | — | 0/? | — |
 | **102** | Red Vinyl Siren | — | Mix | — | — | 0/? | — |
 | **103** | Fox News Weather Diva | — | Lencería | — | — | 0/? | — |
@@ -108,7 +108,7 @@
 | **175** | Crystal Veil Rhinestone Bikini | — | Bikini | — | — | 7/7 | ✅ Completo |
 | **176** | Neon Coral Flash (12/05/2026) ✅ VALIDADO | — | Bikini | — | — | 7/7 | ✅ Completo |
 | **177** | Ivory Column (12/05/2026) ✅ VALIDADO | — | Mix (Gala / Red Carpet) | — | — | 7/7 | ✅ Completo |
-| **178** | Leopard Vitacura (12/05/2026) ⏳ REGENERACIÓN EN PROGRESO (1/7) | — | Mix (Street / Cuico-Flaite) | — | — | 1/7 | — |
+| **178** | Leopard Vitacura (12/05/2026) ✅ REGENERACIÓN COMPLETADA (7/7) | — | Mix (Street / Cuico-Flaite) | — | — | 7/7 | ✅ Completo |
 | **179** | Acid Yellow Editorial | — | Bikini | — | — | 7/7 | ✅ Completo |
 | **180** | Cherry Vinyl Hostess | — | Mix (Domestic / Stepford) | — | — | 7/7 | ✅ Completo |
 | **181** | Magenta Stage Predator | — | Mix (Professional Stripper) | — | — | 7/7 | ✅ Completo |
@@ -117,7 +117,7 @@
 | **184** | Jade Corporate Dominatrix | — | Mix (Corporate) | — | — | 7/7 | ✅ Completo |
 | **185** | Emerald Mugler Suprema | — | Mix (High-Fashion Editorial) | — | — | 7/7 | ✅ Completo |
 | **186** | Silver Mirror Stripper (Daily Look) | 15/05/2026 | Mix | — | — | 7/7 | ✅ Completo |
-| **187** | Hot Pink Tulle & Black Vinyl (15/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 1/7 | — |
+| **187** | Hot Pink Tulle & Black Vinyl (15/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 6/7 | — |
 
 ---
 
@@ -223,10 +223,7 @@
 
 | N° | Nombre | Poses | Estado |
 |:--:|:-------|:-----:|:------:|
-| **97** | Plastic Arch-Nemesis | 0/? | ⏳ Pendiente |
-| **98** | Vinyl Cheerleader | 0/? | ⏳ Pendiente |
-| **99** | Gym-Bimbo Performance | 0/? | ⏳ Pendiente |
-| **100** | Cobalt Chrome Editorial | 0/? | ⏳ Pendiente |
+| **100** | Cobalt Chrome Editorial | 1/5 | ⏳ Pendiente |
 | **101** | Elite Lingerie | 0/? | — |
 | **102** | Red Vinyl Siren | 0/? | — |
 | **103** | Fox News Weather Diva | 0/? | — |
@@ -242,4 +239,4 @@
 
 ---
 
-*Índice generado por Ele — 15/05/2026 14:30 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 15/05/2026 19:46 — La Voûte d'Anaïs* 🫦👠💅

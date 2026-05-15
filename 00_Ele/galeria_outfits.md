@@ -4965,13 +4965,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Categoría:** Lencería
 - **Tags:** #tulle #vinyl #pink #glossy #boudoir
 
-### 📸 Imágenes (7/7 — Completo)
+### 📸 Imágenes (6/7 — En progreso)
 
 - **Ubicación:** `05_Imagenes/ele/look187_pink_tulle_black_vinyl/`
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | ![Back View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_backview.png) | ![Seated](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![Side Profile](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![POV](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | ![Odalisque](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | ![Back View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_backview.png) | ![Seated](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![Side Profile](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![POV](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | ⏳ |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
