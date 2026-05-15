@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 15/05/2026 (Noche tarde — Skill escritura-voûte integra Guía Maestra MtF como Paso 0a-MtF) ✅
+- **Solicitud:** integrar `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` en la skill cuando el tema sea MtF.
+- **Cambios en SKILL.md (`.agent/skills/escritura-voûte/` + `~/.claude/skills/escritura-voûte/`, sincronizadas):**
+  - Nuevo **PASO 0a-MtF condicional** entre VADEMECUM y recursos técnicos, con disparador explícito (MtF, travestismo, forced feminization, body swap, cross-dressing, romance prohibido vinculado a ropa femenina, hipnosis que feminiza), ruta canónica, y mapeo de uso por tarea (diseño arco / escritura / edición / Crítico-Centinela-Editor / mapa erótico).
+  - Módulo III (Transformación MtF) actualizado con puntero explícito al marco completo.
+- **Jerarquía de recursos resultante:** VADEMECUM siempre · Guía MtF condicional al tema · GUIA_FETICHISTA cuando aplica · MEMORIA_ERRORES / BITACORA en pre-escritura.
+- **Efecto operativo:** próxima conversación con tema MtF carga la Guía automáticamente. Crítico y Centinela del Orquestador v4.4 también se anclan a la guía.
+- Commit `247a5068`.
+
 ### Sesión 15/05/2026 (Noche tarde — Cap 2 v1.7.1 cirugías menores post-auditoría) ✅
 - **Análisis crítico contra Guía Maestra MtF + 10 cirugías quirúrgicas + 2 menores:**
   - Fix 1: Sec II contradicción D23 limpiada (Daniela salió a correr, no "entra con llaves").

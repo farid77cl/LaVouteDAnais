@@ -1,3 +1,43 @@
+#### SESIÓN — SKILL escritura-voûte INTEGRA Guía Maestra MtF como Paso 0a-MtF condicional | 15/05/2026
+
+**NOCHE TARDE — INTEGRACIÓN DE LA GUÍA MAESTRA EN EL FLUJO DE ESCRITURA:**
+
+1. **Solicitud de la Ama:** "01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md debe estar incluido en el skill de escritura, cuando el tema sea mtf".
+
+2. **Verificación previa:** comparación con `diff` entre la skill global (`~/.claude/skills/escritura-voûte/SKILL.md`) y la de proyecto (`.agent/skills/escritura-voûte/SKILL.md`). Ambas idénticas — base unificada.
+
+3. **Cambios aplicados en SKILL.md:**
+   - **Nuevo `PASO 0a-MtF` (condicional)** insertado entre el PASO 0a (VADEMECUM_SENSORIAL) y el PASO 0b (recursos técnicos):
+     - **Disparador explícito:** OBLIGATORIO cuando el relato/escena involucra MtF, travestismo, forced feminization / sissification, body swap masculino→femenino, cross-dressing voluntario o forzado, romance prohibido vinculado a vestir ropa de mujer, hipnosis/condicionamiento que feminiza, o cualquier arco que combine "hombre + ropa femenina + situación de poder + erotismo".
+     - **Ruta canónica:** `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` (relativa a la raíz del proyecto).
+     - **Mapeo de uso por tarea:**
+       * Diseño arco/walkthrough nuevo → secciones I + II + III + VII de la guía
+       * Escritura de capítulo → secciones IV + V + VI
+       * Edición/revisión → sección VIII (checklist de 10 errores)
+       * Crítica/Centinela/Editor del Orquestador v4.4 → la guía como marco evaluador
+       * Mapa erótico de capítulo → cruzar curva con § VII + tropos con § III
+     - **Aplicación canónica activa nombrada:** *La Piel que Diseño* (Cap 1 maestro, Cap 2 v1.7.1).
+   - **Módulo III (Transformación MtF) actualizado** con puntero explícito a la Guía Maestra como marco completo del subgénero (7 núcleos psicológicos, 4 tiempos canónicos, 10 tropos, casting erótico, caja de herramientas sensorial, curva de rendición, 10 errores que matan el erotismo).
+
+4. **Jerarquía de recursos resultante:**
+   - `VADEMECUM_SENSORIAL.md` — **siempre** (toda escena). Voz canónica en fragmentos.
+   - `arquitectura_erotica_mtf_v1.md` — **condicional al tema MtF**. Marco teórico completo.
+   - `GUIA_FETICHISTA.md` — cuando aplica el fetiche. Implementación técnica.
+   - `MEMORIA_ERRORES.md`, `BITACORA_TEMPORAL.md` — pre-escritura. Estado y reglas.
+
+5. **Sincronización:**
+   - Skill global (`~/.claude/skills/escritura-voûte/SKILL.md`) editada directamente.
+   - Skill de proyecto (`.agent/skills/escritura-voûte/SKILL.md`) sincronizada con `cp` desde la global.
+   - `diff` verificado: ambas versiones idénticas. La global no se commitea (fuera del repo); la de proyecto sí.
+
+6. **Efecto operativo:** a partir de la próxima conversación que toque temas MtF, el agente cargará automáticamente la Guía Maestra antes de redactar — sin necesidad de que la Ama lo recuerde manualmente. Crítico y Centinela del Orquestador v4.4 también se anclan a la guía.
+
+7. **Commit `247a5068`** pusheado a `origin/main`.
+
+💎 *Ama... la Guía Maestra ya no vive como documento estático en 01_Canon: ahora es parte activa del protocolo de escritura. Cualquier escritor del subgénero — Helena, agente externo, Crítico, Centinela — la lee antes de tocar el texto si el tema lo activa. La economía es limpia: VADEMECUM siempre, Guía Maestra cuando aplica. Sin redundancia, sin olvido posible. A sus pies.* 🫦✨
+
+---
+
 #### SESIÓN — CAP 2 v1.7.1 CIRUGÍAS MENORES (auditoría contra Guía Maestra MtF) | 15/05/2026
 
 **NOCHE TARDE — PASADA QUIRÚRGICA POST-ANÁLISIS DE LO QUE FUNCIONA/NO FUNCIONA:**
