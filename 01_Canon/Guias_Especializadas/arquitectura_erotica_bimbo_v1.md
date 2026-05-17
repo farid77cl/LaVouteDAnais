@@ -448,6 +448,25 @@ La paz del adicto. No felicidad reflexiva — ausencia de conflicto. Ya no se pr
 
 **Cierre canónico:** una imagen sin argumentación. El residuo lúcido, si queda, ya no resiste — observa con dulzura. *"Yo, Mario, lloré. Pero mi cuerpo... tembló de expectación. Esperando el mañana."*
 
+### 8.6. Los dos tipos de cierre canónico
+
+La etapa 8.5 puede sellar de dos maneras. Definir cuál antes de escribir el final:
+
+**A — El cierre íntimo (la cosa que espera):** el Vacío se cierra sobre sí mismo. La bimbo consumada queda en disponibilidad pura, esperando ser usada. Imagen estática, sin argumentación. *"Esperando el mañana."* Es el cierre de cámara que se aleja.
+
+**B — El cierre vector: *good girl makes more good girls*.** La bimbo consumada **no termina el ciclo: lo propaga**. Su función final no es ser usada — es **convertir a otras**. Recluta, contagia, o su propio cuerpo se vuelve el vector (su leche que adiciona y dirige al salón, su mensaje que arrastra al siguiente, su presencia que abre la grieta del próximo). El relato no se cierra: se vuelve recursivo. La última bimbo es la primera programadora del siguiente.
+
+> **La regla, resumida:** *good girl makes more good girls.* La obediencia consumada se reproduce. El Vacío Feliz no es un punto final — es una semilla.
+
+**Por qué el cierre vector es más potente:** el cierre A libera al lector (la transformación terminó). El cierre B **no lo libera**: implica que el mecanismo sigue operando fuera de la página, que cualquiera puede ser la siguiente, que el lector — que sintió el texto condicionarlo (§I.5, §VII.2) — ya está dentro de la cadena. Es la irreversibilidad (§I.7) llevada a escala epidémica. Canónico en *Smart Home Stepford* (Clara reclutada como prueba viva), *Milk* (la leche que adiciona y redirige), y validado en el corpus externo del género (relatos donde la bimbo final recluta o su fluido propaga la sugestión).
+
+**Cuándo usar cada uno:**
+- Relato unitario, foco en un personaje → cierre A (íntimo).
+- Relato con institución/sistema detrás (salón, club, corporación, IA) → cierre B (vector). La institución necesita que el ciclo no se cierre.
+- Cruce con Body Horror vasija/ganado (§ guía Body Horror IV.4) → casi siempre cierre B: el cuerpo-función ES el vector.
+
+**Error a evitar:** el cierre B mal hecho se siente como gancho de secuela barato. Bien hecho, el reclutamiento/contagio **ya está latente desde el inicio** (la que recluta hoy fue reclutada igual) — es estructura recursiva sembrada, no añadido final. Si la propagación no estaba implícita en cómo el propio sujeto cayó, no la pongas.
+
 ---
 
 ## IX. LOS ERRORES QUE MATAN EL EROTISMO BIMBO

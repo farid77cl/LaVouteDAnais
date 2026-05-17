@@ -103,6 +103,22 @@ El canon Voûte hipnótico **siempre** incluye:
 
 Esto no es disclaimer legal: es parte de la arquitectura erótica. La entrega es más intensa porque la puerta de salida existe y el sujeto elige no usarla.
 
+### 2.5. 🚩 BANDERA ROJA: *consent-theater* vs *consent-as-fuel*
+
+> El error más extendido del género (y la divergencia más clara entre el porno de transformación genérico y Voûte). Cruzado contra el corpus externo, es el patrón que más separa lo barato de lo canónico.
+
+**Consent-theater (el atajo barato — NO Voûte):** el sujeto "acepta" cada escalón, pero cada aceptación ocurre **bajo droga, sugestión o coerción ya instalada**. El consentimiento es decorado: existe la forma ("¿quieres seguir?" — "sí…") pero la agencia ya fue anulada antes de la pregunta. Retroactivamente, ningún "sí" valía. Es el recurso de relatos como los analizados del corpus externo: la víctima firma su ruina con una mano que ya no controla.
+
+**Por qué falla:** si la agencia ya está anulada cuando el sujeto dice "sí", el "sí" no carga nada. No hay tensión — hay trámite. El lector no siente una elección: ve un formulario llenado por alguien dormido. El erotismo del núcleo §I.7 (la entrega buscada) y de la contradicción consciente exige que **haya algo real que entregar en el momento de entregarlo**.
+
+**Consent-as-fuel (la firma Voûte):** la puerta de salida es **real y permanece operativa** (el safeword ROJO funciona de verdad, en cualquier momento, sin química que lo bloquee). El sujeto, **con agencia genuina en el pivote**, elige no usarla. La lucidez del consentimiento no se anula: se conserva justo lo suficiente para que la rendición sea una elección y no un efecto secundario.
+
+> **Regla:** la puerta que existe y no se usa es infinitamente más erótica que la puerta que nunca existió. El "todavía no" / "no quiero parar" dicho con la mano todavía sobre el picaporte es el núcleo. El "sí" dicho por una boca química es ruido.
+
+**El pivote de agencia real (técnica obligatoria):** en todo relato hipnótico canónico debe haber **al menos un momento de lucidez plena** donde el sujeto, pudiendo decir ROJO, no lo dice — o peor/mejor, **pide seguir** desde un yo todavía intacto. Ese momento (cf. la catarsis donde el sujeto genuinamente ruega su propia disolución) es el corazón erótico del relato. Todo lo coaccionado que lo rodee es contexto; ese pivote lúcido es el filo.
+
+**Diagnóstico para Crítico/Centinela:** ¿hay un punto donde el sujeto, con la mente todavía suya, elige el trance pudiendo escapar? Si sí → consent-as-fuel, Voûte. Si todos los "sí" son post-químicos → consent-theater, reescribir el pivote. La transición canónica Oscuridad→Luz **requiere** que la Luz (la elección) sea real al menos una vez.
+
 ---
 
 ## III. LA ESTRUCTURA CANÓNICA DE LA INDUCCIÓN
