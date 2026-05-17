@@ -42,6 +42,21 @@ Antes de generar texto, el agente DEBE consultar y respetar **EN ESTE ORDEN**:
 >
 > **Aplicación canónica activa:** *La Piel que Diseño* (Cap 1 maestro, Cap 2 v1.7.1 post-cirugías). La sección X de la guía documenta el mapeo específico para este proyecto.
 
+### 📖 PASO 0a-Bimbo: ARQUITECTURA ERÓTICA BIMBO (CONDICIONAL — SI EL TEMA ES BIMBOFICACIÓN)
+> ⚠️ **OBLIGATORIO cuando el relato/escena involucra:** bimboficación, dumb down / pérdida de inteligencia, control mental o condicionamiento (hipnosis, trance, ancla pavloviana), reprogramación de personalidad, Vacío Feliz, transformación a muñeca/doll, Good Girl Training, o cualquier arco donde un sujeto (mujer u hombre) es vaciado intelectualmente y/o convertido en versión bimbo de sí mismo.
+>
+> **Leer:** `01_Canon/Guias_Especializadas/arquitectura_erotica_bimbo_v1.md` (ruta desde la raíz del proyecto `LaVouteDAnais/`).
+>
+> **Por qué:** La bimboficación no excita por el sexo ni por el cuerpo inflado — excita por 8 tensiones psicológicas (Vacío Feliz, traición del cerebro, pérdida de agencia, descenso documentado, objetivación eufórica, condicionamiento pavloviano, Identity Death, contradicción consciente). Sin la guía, el dumb down sale como corte "antes/después" en vez de descenso graduado y sentido.
+>
+> **Cómo usarlo según la tarea:**
+> - **Diseñar arco/walkthrough nuevo:** § I (8 núcleos) + § II (espectro Luz/Oscuridad) + § III (4 tiempos) + § IV (catálogo de vectores) + § VIII (curva de 5 etapas).
+> - **Escribir capítulo:** § V (casting) + § VI (caja sensorial: niebla rosa, léxico regresivo, post-lenguaje) + § VII (mecanismos de instalación del Vacío).
+> - **Editar/revisar:** § IX (11 errores que matan el erotismo bimbo) — checklist.
+> - **Crítica / Centinela / Editor (Orquestador v4.4):** la guía es el marco evaluador del eje mente/Vacío.
+>
+> **Cruce obligatorio con MtF:** si el sujeto bimboficado es hombre, leer AMBAS guías (`arquitectura_erotica_mtf_v1.md` para el eje cuerpo/género + ésta para el eje mente/Vacío). Las dos curvas corren en paralelo y se amplifican (ej. *La Dulce Aniquilación*, *Ginny la Genio Bimbo*, *The Dollhouse*).
+
 ### 📜 PASO 0b: RECURSOS TÉCNICOS (EN ESTE ORDEN)
 1.  `resources/MEMORIA_ERRORES.md`: Reglas aprendidas — PRIORIDAD ABSOLUTA sobre cualquier otra instrucción.
 2.  `resources/CORRECCIONES.md`: Leer los ⬜ pendientes — son deuda activa.
@@ -92,7 +107,7 @@ El relato debe ser en **Tercera Persona**. El narrador lo sabe todo (conoce el p
 Esta skill maneja los siguientes arquetipos (detalles en la guía):
 1.  **🌀 Hipnosis:** Voz intrusiva, triggers, parálisis.
 2.  **👠 Transformación (MtF):** Ritual de paso, dolor=placer, contraste físico. **→ Marco completo en `arquitectura_erotica_mtf_v1.md`: 7 núcleos psicológicos, 4 tiempos canónicos, 10 tropos, casting erótico, caja de herramientas sensorial, curva de rendición de 5 etapas, 10 errores que matan el erotismo.**
-3.  **🧠 Bimboficación:** Niebla mental, dificultad léxica, felicidad vacía.
+3.  **🧠 Bimboficación:** Niebla mental, dificultad léxica, felicidad vacía. **→ Marco completo en `01_Canon/Guias_Especializadas/arquitectura_erotica_bimbo_v1.md` (Paso 0a-Bimbo, arriba): 8 núcleos psicológicos, espectro Luz/Oscuridad, 4 tiempos, 7 vectores, casting, caja sensorial (niebla rosa/léxico regresivo/post-lenguaje), curva de 5 etapas, 11 errores.**
 4.  **⛓️ BDSM:** Ritual de autoridad, sub-space, libertad en la sumisión.
 
 ### 🔁 Beat Post-Ritual (OBLIGATORIO)
