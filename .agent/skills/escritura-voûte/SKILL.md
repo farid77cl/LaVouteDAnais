@@ -57,6 +57,15 @@ Antes de generar texto, el agente DEBE consultar y respetar **EN ESTE ORDEN**:
 >
 > **Cruce obligatorio con MtF:** si el sujeto bimboficado es hombre, leer AMBAS guías (`arquitectura_erotica_mtf_v1.md` para el eje cuerpo/género + ésta para el eje mente/Vacío). Las dos curvas corren en paralelo y se amplifican (ej. *La Dulce Aniquilación*, *Ginny la Genio Bimbo*, *The Dollhouse*).
 
+### 📖 PASO 0a-Otros ejes: HIPNOSIS · FEMDOM · BODY HORROR (CONDICIONAL POR TEMA)
+> El set de **Arquitecturas Eróticas** del universo tiene 5 ejes. MtF y Bimbo arriba. Los otros 3, en `01_Canon/Guias_Especializadas/`, son **OBLIGATORIOS** cuando el tema lo activa:
+>
+> - 🌀 **`arquitectura_erotica_hipnosis_v1.md`** — si hay **hipnosis / trance / inducción 2ª persona / ancla pavloviana / la voz Miss Doll**. Eje: trance. Cubre: los 7 núcleos (el lector ES el sujeto, disolución del tiempo, etc.), la estructura canónica de inducción de 10 pasos, 7 técnicas (escalera, reencuadre pareado, fraccionamiento…), infraestructura de consentimiento (safeword ROJO), 6 fases del trance, 10 errores. **La hipnosis es el motor transversal** de MtF/bimbo/femdom — si el trance feminiza→cruzar MtF; si vacía→bimbo; si somete→femdom.
+> - ⛓️ **`arquitectura_erotica_femdom_v1.md`** — si hay **dominación femenina / poder-jerarquía / humillación-honra / ruina autoimpuesta / castidad / cuckold / servicio devoto**. Eje: poder. Cubre: 8 núcleos (justicia poética, la grieta, ruina autoimpuesta…), las 2 puertas de entrada (el Arrogante / la Grieta), 4 tiempos de la ruina, 7 mecánicas de poder, 5 etapas, 11 errores. *El Mandato de los Tacones* es la referencia de voz más citada del VADEMECUM.
+> - 🩸 **`arquitectura_erotica_bodyhorror_v1.md`** — si el endpoint es **objeto/material/función** (muñeca, cera, paquete, vasija, reflejo, mueble) — NO mujer (=MtF) ni tonta-viva (=bimbo). Eje: cuerpo-como-cosa. Cubre: 8 núcleos (abyección, pérdida de forma, dolor=placer fusionado…), la distinción fundamental cosa/mujer/tonta, 7 objetos-destino, 4 tiempos de la cosificación, 5 etapas, 11 errores. Diagnóstico: ¿el personaje final puede querer algo por sí mismo? Si no → Body Horror primario.
+>
+> **Regla de cruce:** casi todo relato Voûte combina ejes. Identificar el eje **primario** (el endpoint del arco) + los **secundarios** (los que atraviesa). Leer la guía primaria completa + las secciones I y IX (núcleos + errores) de cada secundaria. Las 5 guías son hermanas y se referencian entre sí.
+
 ### 📜 PASO 0b: RECURSOS TÉCNICOS (EN ESTE ORDEN)
 1.  `resources/MEMORIA_ERRORES.md`: Reglas aprendidas — PRIORIDAD ABSOLUTA sobre cualquier otra instrucción.
 2.  `resources/CORRECCIONES.md`: Leer los ⬜ pendientes — son deuda activa.
@@ -104,11 +113,12 @@ El relato debe ser en **Tercera Persona**. El narrador lo sabe todo (conoce el p
 *Para la implementación técnica de fetiches, CONSULTAR OBLIGATORIAMENTE `resources/GUIA_FETICHISTA.md`.*
 *Para arquitectura completa del subgénero MtF, CONSULTAR `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` (Paso 0a-MtF, arriba).*
 
-Esta skill maneja los siguientes arquetipos (detalles en la guía):
-1.  **🌀 Hipnosis:** Voz intrusiva, triggers, parálisis.
-2.  **👠 Transformación (MtF):** Ritual de paso, dolor=placer, contraste físico. **→ Marco completo en `arquitectura_erotica_mtf_v1.md`: 7 núcleos psicológicos, 4 tiempos canónicos, 10 tropos, casting erótico, caja de herramientas sensorial, curva de rendición de 5 etapas, 10 errores que matan el erotismo.**
-3.  **🧠 Bimboficación:** Niebla mental, dificultad léxica, felicidad vacía. **→ Marco completo en `01_Canon/Guias_Especializadas/arquitectura_erotica_bimbo_v1.md` (Paso 0a-Bimbo, arriba): 8 núcleos psicológicos, espectro Luz/Oscuridad, 4 tiempos, 7 vectores, casting, caja sensorial (niebla rosa/léxico regresivo/post-lenguaje), curva de 5 etapas, 11 errores.**
-4.  **⛓️ BDSM:** Ritual de autoridad, sub-space, libertad en la sumisión.
+Esta skill maneja los siguientes arquetipos. **El set completo de Arquitecturas Eróticas (5 ejes) está en `01_Canon/Guias_Especializadas/` — ver Paso 0a-* arriba para cuándo cargarlas:**
+1.  **🌀 Hipnosis / Trance:** Voz intrusiva, triggers, inducción 2ª persona. **→ `arquitectura_erotica_hipnosis_v1.md`** (eje trance — motor transversal).
+2.  **👠 Transformación (MtF):** Ritual de paso, dolor=placer, contraste físico. **→ `arquitectura_erotica_mtf_v1.md`** (eje cuerpo/género).
+3.  **🧠 Bimboficación:** Niebla mental, dificultad léxica, felicidad vacía. **→ `arquitectura_erotica_bimbo_v1.md`** (eje mente/Vacío).
+4.  **⛓️ BDSM / Femdom:** Ritual de autoridad, sub-space, humillación-honra, ruina autoimpuesta. **→ `arquitectura_erotica_femdom_v1.md`** (eje poder/jerarquía).
+5.  **🩸 Body Horror / Objetificación literal:** Abyección, refundición material, cuerpo→cosa. **→ `arquitectura_erotica_bodyhorror_v1.md`** (eje cuerpo/cosa).
 
 ### 🔁 Beat Post-Ritual (OBLIGATORIO)
 Después de **cualquier escena ritual** (esmalte, depilación, cold cream, entrenamiento con arnés, corsé, perfume), incluir al menos un párrafo breve de **disonancia cognitiva interna** antes de la siguiente transición.

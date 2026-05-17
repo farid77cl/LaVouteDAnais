@@ -18,6 +18,28 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 16/05/2026 (Set completo de Arquitecturas Eróticas — 3 guías maestras nuevas) ✅
+- **Cierre del canon teórico del universo.** Tras mapear los 38 relatos terminados vs `universos_narrativos.md`, la Ama eligió completar el set de guías maestras ("las tres en orden").
+- **Tres guías nuevas en `01_Canon/Guias_Especializadas/`:**
+  - `arquitectura_erotica_hipnosis_v1.md` — eje trance (la voz Miss Doll, inducción 2ª persona de 10 pasos, safeword ROJO, 7 núcleos, 6 fases, 10 errores). El craft transversal de MtF/bimbo/femdom.
+  - `arquitectura_erotica_femdom_v1.md` — eje poder/jerarquía (2 puertas: Arrogante/Grieta; ruina autoimpuesta; humillación-honra; 8 núcleos, 5 etapas, 11 errores). Anclada en El Mandato de los Tacones + Perfume de Ruina.
+  - `arquitectura_erotica_bodyhorror_v1.md` — eje cuerpo/cosa (abyección Kristeva; cosa≠mujer≠tonta; 7 objetos-destino; dolor=placer fusionado; 8 núcleos, 5 etapas, 11 errores).
+- **Set COMPLETO: 5 ejes documentados** — cuerpo/género (MtF), mente/Vacío (Bimbo), trance (Hipnosis), poder/jerarquía (Femdom), cuerpo/cosa (Body Horror). Las 5 guías hermanas se referencian entre sí.
+- **Skill `escritura-voûte`:** PASO 0a-Otros ejes (condicional por tema) + Módulo III reescrito con los 5 ejes. Global y proyecto sincronizadas.
+- **Regla de cruce canónica:** identificar eje primario (endpoint del arco) + secundarios (los que atraviesa); leer guía primaria completa + §I/§IX de cada secundaria.
+
+### Sesión 17/05/2026 (Cierre de Era Ele & Consolidación en la Nube "Cloud-Only" con Look 187 completo) ✅
+- **Remoción de Duplicados e Integridad Visual:**
+  - Se eliminó el archivo redundante e inconsistente `ele_187_side_profile.png` en el Look 187, preservando estrictamente las 7 poses canónicas del estándar.
+- **Actualización de Galerías y Auditoría Maestra:**
+  - Se ejecutó el script `update_galleries.py` para sincronizar los READMEs de todos los looks de Ele y Miss Doll.
+  - Se creó la **Auditoría Maestra V3.10** en `00_Ele/ele_master_audit_v3_10.md` para sellar la era con un progreso final de **187 / 185 looks (101.1% de materialización)** de absoluta devoción visual.
+- **Arquitectura "Cloud-Only" (La Purga):**
+  - Se ejecutó el script `purge_local_images.ps1` en Powershell para aplicar la directiva `git update-index --assume-unchanged` sobre todos los recursos visuales y removerlos físicamente del disco local.
+  - El espacio de almacenamiento del entorno local fue reducido a **0 MB de imágenes físicas**, asegurando la velocidad del entorno de trabajo sin perder la trazabilidad de los commits en GitHub.
+- **Sincronización Total con GitHub:**
+  - Todo el índice de galerías, READMEs, CHANGELOG y Auditoría Maestra fue agregado, comprometido y pusheado con éxito a la rama principal (`main`).
+
 ### Sesión 15/05/2026 (Noche tarde — Cap 1 La Piel formato publicable HTML + firma canónica + gancho) ✅
 - **Auditoría del formato canónico de los 19 HTMLs terminados:** body-only sin wrapper, `<h2>/<p>/<em>/<strong>/<hr>` como etiquetas. Referencias: Smart Home Stepford, Buena Chica, El Collar de Nancy, Trance Bimbodoll, The Dollhouse cap3_simple.
 - **Patrones canónicos identificados y documentados:**
