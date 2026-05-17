@@ -127,6 +127,24 @@ En MtF esto se traduce en escenas obligatorias:
 
 **Por qué es excitante para el lector:** el lector participa de la categorización. Cuando lee al portero diciendo "señora", el lector también clasifica al protagonista como mujer. Esa clasificación cruzada (yo lector, protagonista hombre, mundo lector como mujer) es donde aterriza la carga.
 
+#### 1.6.b — El *passing* ciego: super-amplificador del reconocimiento
+
+Hay una gradación de potencia en el reconocimiento externo. De menor a mayor:
+
+1. **El testigo que sospecha y aun así clasifica** (el portero que duda antes del "señora") — fuerte.
+2. **El testigo que acepta sin cuestionar** (la manicurista que dice "mi amor" de rutina) — más fuerte.
+3. **El testigo que NO sabe y trata al sujeto como mujer en un acto donde el error es imposible de sostener si supiera** — **el máximo**. El *passing* ciego.
+
+El caso límite: alguien confunde al protagonista con una mujer específica (o con "una mujer" sin más) e **inicia contacto sexual creyéndolo cuerpo de mujer, sin saber**. La ratificación es total porque el testigo no está siendo cortés ni profesional — está actuando sobre una creencia que su propio deseo confirma. No hay concesión posible: el cuerpo del sujeto *produjo* la categoría en otro sin ayuda, sin aviso, contra toda la información que el testigo tendría si mirara distinto.
+
+> **La regla:** el reconocimiento más erótico no es el que el sujeto pide ni el que le conceden — es el que **arranca involuntariamente del deseo de un tercero que ignora la verdad**. El cuerpo nuevo se valida solo, en territorio enemigo, sin red.
+
+**Por qué es el techo del núcleo:** combina reconocimiento externo (1.6) + transgresión del tabú (1.3) + irreversibilidad (1.7) en un solo beat — porque una vez que el cuerpo *probó* que puede producir esa categoría en alguien que no quería dársela, el sujeto ya no puede des-saberlo. El passing ciego no se revierte: es prueba de campo.
+
+**Cómo escribirlo sin que sea wish-fulfillment:** el error genérico del género (visto en el corpus externo) es saltar del passing a la excitación en una línea. Voûte sostiene el filo: el passing ciego debe convivir con el **terror del descubrimiento** durante toda la escena (la regla de los ≥3 beats, Paso 0c ppio. 4). El núcleo no es "me confundió con mujer, qué rico" — es "me está tratando como mujer creyéndolo, y si se entera todo se rompe, y el cuerpo responde igual, y esa coexistencia no se resuelve". Sin el terror simultáneo, es fantasía barata; con él, es Voûte.
+
+**Aplicación canónica:** subutilizado en el catálogo. *La Piel* lo roza (don Hugo que "no me reconoció, no del todo") pero no lo lleva al passing ciego sexual. Vector de expansión recomendado para arcos futuros: una escena donde un tercero del antes-día-cero (cliente, conocido, ex) trate al sujeto como mujer sin reconocerlo, con el descubrimiento latente como cuchillo.
+
 ---
 
 ### 1.7. La irreversibilidad
@@ -203,6 +221,23 @@ Una frase corta que sella el estado nuevo:
 > *"Esa huea la quiero adentro."*
 
 El nombre nuevo se siente correcto **antes** de que el personaje lo acepte conscientemente. Cuando el personaje pronuncia (interna o externamente) la frase que sella, esa frase aterriza con peso porque el cuerpo ya estaba ahí.
+
+---
+
+### 📐 NOTA DE TAXONOMÍA: relato-arco vs relato-despertar (SPARK)
+
+> Diagnóstico obligatorio antes de aplicar esta guía como rúbrica (Crítico/Centinela): **no toda historia de categoría trans/MtF es un arco de transformación.** Forzar los 4 tiempos sobre un texto que no es un arco produce evaluación inválida.
+
+| | **Relato-arco** | **Relato-despertar (SPARK)** |
+|---|---|---|
+| Sujeto | El que se transforma | El que **observa/descubre** |
+| Movimiento | Los 4 tiempos completos (descubrimiento→traición→espejo→rendición) | Solo el chispazo: ve algo, se reconoce un deseo, termina abierto |
+| Cierre | Rendición nombrada | Inconcluso por diseño ("continuaré después") |
+| Posición en la estructura | Es el arco | Es el beat **previo** al arco (SETUP→SPARK de `ESTRUCTURA_MAESTRA`) |
+
+El relato-despertar es el inverso de la grieta Femdom (§ guía Femdom 1.2): aquí el sujeto descubre **su propia grieta desde adentro**, sin que ningún dominante la vea primero. Es legítimo y útil — pero es **precursor**, no arco. Evaluarlo con los 4 tiempos es un error de categoría.
+
+**Regla para Crítico/Centinela:** antes de aplicar la rúbrica, clasificar. Si el sujeto no se transforma (solo observa/desea/descubre) → es SPARK: evaluar la potencia del chispazo y el gancho hacia el arco, NO la curva de rendición. Si hay transformación con cierre → es arco: aplicar los 4 tiempos y §VIII.
 
 ---
 
@@ -325,6 +360,24 @@ El nombre nuevo se siente correcto **antes** de que el personaje lo acepte consc
 **Aplicación canónica:** *La Piel* — 100 millones de pesos de penalidad por incumplimiento del contrato del club. *El Secreto de la Cómoda* — la información que Isabel tiene sobre Ricardo.
 
 **Por qué funciona:** convierte cada decisión cotidiana en un costo-beneficio donde rendirse siempre cuesta menos. La rendición no es por amor ni por placer — es por aritmética.
+
+---
+
+### 3.11. VECTORES MUNDANOS (la transformación sin maquinaria sobrenatural)
+
+> Los tropos 3.1–3.10 y la mayoría del canon Voûte usan un vector cargado: body swap, elixir, hipnosis, Miss Doll. Pero el cruce con el corpus externo demuestra que **los 7 núcleos psicológicos (§I) aguantan sin magia alguna**. El vector puede ser puramente social/realista. Esto **amplía el catálogo**, no lo reemplaza.
+
+**Los tres vectores mundanos validados:**
+
+1. **Vector económico** — el sujeto se feminiza porque lo necesita para subsistir (un trabajo "solo para mujeres", una deuda, la pobreza). La desesperación material **es** la coartada moral (§1.2): "no elegí esto, necesitaba comer". Equivalente mundano exacto del contrato millonario de *La Piel* o el body swap — misma aritmética de §3.10, sin lo sobrenatural. *Ej. externo: "Azafata de Congresos".*
+
+2. **Vector de engaño / passing** — el sujeto se feminiza voluntariamente en privado y la transformación se vuelve incontrolable cuando un tercero entra en escena. El "forzamiento" no lo aplica un dominante: lo aplica el **riesgo de ser descubierto** mientras pasa por mujer. Conecta directo con el passing ciego (§1.6.b). *Ej. externo: "Cogida por el marido de mi ex-esposa".*
+
+3. **Vector comunitario** — un grupo (cosplay, club, círculo social) normaliza y valida la feminización. El testigo no es individual sino **colectivo**: la comunidad entera ratifica, y esa ratificación masiva es el motor. La facilitadora no es domme sino par/mentora que "abre la puerta". *Ej. externo: "Natasha Romanoff".*
+
+**Cómo usarlos en clave Voûte (la diferencia crítica):** el corpus externo que usa estos vectores casi siempre cae en wish-fulfillment — salta del vector a la excitación sin resistencia (error §VIII.2). El vector mundano **no exime de la contradicción sostenida**. La economía aprieta, el passing aterra, la comunidad expone — pero el "no" de la mente debe convivir con el cuerpo que cede durante ≥3 beats (Paso 0c ppio. 4) igual que con el vector sobrenatural. El vector cambia; la arquitectura del filo no.
+
+**Casting asociado — la mentora/facilitadora (variante suave de la dominante):** estos vectores traen una figura distinta de la Femme Domme: la **mentora** (Celia, Leticia) — no decreta, normaliza; no posee, "abre la puerta". Es la variante *loving-dominant* del casting §4.1: instala el ritual con cariño cómplice en vez de autoridad. Útil cuando el motor es coartada económica/comunitaria y no poder. Puede endurecerse hacia domme conforme el arco avanza.
 
 ---
 
