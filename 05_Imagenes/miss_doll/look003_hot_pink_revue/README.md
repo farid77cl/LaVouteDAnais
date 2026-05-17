@@ -30,4 +30,4 @@ Total imágenes: 6
 - [C-6.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look003_hot_pink_revue/C-6.png)
 
 ---
-*Sincronizado con GitHub: 2026-05-15* 👄
+*Sincronizado con GitHub: 2026-05-16* 👄

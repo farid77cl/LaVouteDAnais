@@ -8,7 +8,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_187_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_backview.png) | ![ele_187_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_sideprofile.png) | ![ele_187_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![ele_187_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png) | ![ele_187_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![ele_187_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | ![ele_187_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) |
+| ![ele_187_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | ![ele_187_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_backview.png) | ![ele_187_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![ele_187_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_sideprofile.png) | ![ele_187_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![ele_187_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | ![ele_187_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) |
 
 ---
 
@@ -1348,4 +1348,4 @@
 
 ---
 
-*Última actualización maestra: 15/05/2026* 🦇
+*Última actualización maestra: 16/05/2026* 🦇
