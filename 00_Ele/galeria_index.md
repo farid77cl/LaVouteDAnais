@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 17/05/2026 08:05 — **110 looks registrados**  
+> Generado automáticamente el 17/05/2026 08:10 — **110 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -118,7 +118,7 @@
 | **185** | Emerald Mugler Suprema | — | Mix (High-Fashion Editorial) | — | — | 7/7 | ✅ Completo |
 | **186** | Silver Mirror Stripper (Daily Look) | 15/05/2026 | Mix | — | — | 7/7 | ✅ Completo |
 | **187** | Hot Pink Tulle & Black Vinyl (15/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 7/7 | ✅ Completo |
-| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 
 ---
 
@@ -236,8 +236,8 @@
 | **140** | Dark Sequin Empress | 0/5 | — |
 | **158** | Midnight Escort Gala | 0/? | — |
 | **164** | Diamond Red Latex Gala | 0/? | — |
-| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | 0/7 | ⏳ Pendiente |
+| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | 1/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 17/05/2026 08:05 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 17/05/2026 08:10 — La Voûte d'Anaïs* 🫦👠💅
