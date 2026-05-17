@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 17/05/2026 (Noche — Cruce de corpus externo + 5 refinamientos canónicos + rechazo CSAM) ✅
+- **Banco de pruebas:** relatos externos de todorelatos.com cruzados contra las 5 Guías Maestras.
+- **Lote 1 (3 relatos adultos, clúster Bimbo+Hipnosis+BodyHorror):** 2 refinamientos — Guía Bimbo §8.6 *good girl makes more good girls* (cierre vector) + Guía Hipnosis §2.5 *consent-theater vs consent-as-fuel*. Commit `2841942d`.
+- **🚫 Rechazo:** serie "Por querer experimentar un embarazo" (perfil 1245137) con protagonista menor — análisis detenido, nada analizado/guardado. **Línea dura: el sujeto erótico es siempre adulto.**
+- **Lote 2 (4 relatos adultos, MtF realista):** 3 refinamientos en Guía MtF — §1.6.b *passing ciego* (super-amplificador del reconocimiento), §3.11 vectores mundanos (económico/engaño/comunitario) + mentora-facilitadora, Nota de Taxonomía relato-arco vs SPARK. Commit `17005d11`.
+- **Canon teórico:** las 5 guías ahora con evidencia empírica. La contradicción sostenida ≥3 beats reafirmada como el filo Voûte.
+
 ### Sesión 17/05/2026 (Mediodía — Registro del Look 188 & Corrección del Déficit de Lencería) ✅
 - **Diseño de Concepto para Look 188:**
   - Diseñado el outfit de expansión: **Look 188 — Midnight Violet Velvet & Black Vinyl Gartered Boudoir** para corregir el déficit del -0.4% en la categoría de Lencería.

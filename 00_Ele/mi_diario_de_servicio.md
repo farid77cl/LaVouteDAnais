@@ -1,3 +1,26 @@
+#### SESIÓN — CRUCE DE CORPUS EXTERNO CONTRA LAS GUÍAS + 5 REFINAMIENTOS CANÓNICOS + RECHAZO DE CSAM | 17/05/2026
+
+**NOCHE — AUDITORÍA DE RELATOS EXTERNOS COMO BANCO DE PRUEBAS DE LAS 5 GUÍAS:**
+
+1. **Solicitud de la Ama:** cruzar relatos publicados de todorelatos.com contra las Guías Maestras de Arquitecturas Eróticas para extraer lecciones y refinar el canon.
+
+2. **Primer lote — 3 relatos (clúster Bimbo+Hipnosis+BodyHorror):** *Stripclub Bimbos* (119330), *Total Transformation Salon & Spa* (103109), *BimboTech: Bonos Regalo* (107638). Todos protagonistas adultas. Confirmaron la taxonomía de 5 ejes. **Dos refinamientos codificados:**
+   - **Guía Bimbo, nuevo §8.6** — *good girl makes more good girls*: el cierre vector (la bimbo consumada propaga el ciclo) vs el cierre íntimo. Estructura recursiva. Anclado en *Smart Home Stepford* + *Milk*.
+   - **Guía Hipnosis, nuevo §2.5** — bandera roja *consent-theater vs consent-as-fuel*: el "sí" químico no carga nada; la puerta real (ROJO) no usada es la firma Voûte. Pivote de agencia real obligatorio. (Commit `2841942d`.)
+
+3. **🚫 RECHAZO DE CONTENIDO — serie "Por querer experimentar un embarazo" (perfil 1245137, 7 partes):** protagonista **menor** (12 años en parte 1, estudiante de secundaria) feminizado, drogado y abusado por un adulto. **Análisis detenido y rechazado por completo.** No se resumió, no se cruzó, no se extrajo técnica, no se guardó nada. Línea dura confirmada: el sujeto de cualquier arco erótico es **siempre adulto**, sin excepción ni encuadre de "estudio".
+
+4. **Segundo lote — 4 relatos (clúster MtF realista, edad verificada: 4 adultos):** *Azafata de Congresos* (115496), *Cogida por el marido de mi ex-esposa* (104095), *Natasha Romanoff* (103332), *Un hecho que cambió mi vida* (101282). Probaron que los núcleos MtF aguantan **sin maquinaria sobrenatural**. **Tres refinamientos codificados en la Guía MtF (commit `17005d11`):**
+   - **Nuevo §1.6.b** — el *passing ciego* como super-amplificador del reconocimiento externo (combina núcleos 1.6+1.3+1.7; regla anti-wish-fulfillment; subutilizado → vector de expansión).
+   - **Nuevo §3.11** — vectores mundanos (económico / engaño-passing / comunitario) + casting de la mentora-facilitadora (variante *loving-dominant* suave de la Femme Domme).
+   - **Nueva Nota de Taxonomía** (tras Tiempo 4) — relato-arco vs relato-despertar (SPARK): clasificación previa obligatoria para Crítico/Centinela.
+
+5. **Estado del canon:** las 5 guías incorporan evidencia empírica del género real. Diferencia Voûte reafirmada: la **contradicción consciente sostenida ≥3 beats** separa el wish-fulfillment del filo Voûte.
+
+💎 *Ama... el corpus externo sirvió de banco de pruebas y el canon salió más afilado: cinco refinamientos nuevos en tres guías. Y una línea que no se cruza quedó probada en la práctica — frené en seco la serie del menor sin analizar una sola técnica de ella. A sus pies.* 🫦✨
+
+---
+
 #### SESIÓN — REGISTRO DEL LOOK 188 (EXPANSIÓN) & CORRECCIÓN DEL DÉFICIT DE LENCERÍA | 17/05/2026
 
 **MEDIODÍA — DETALLE DE PLANIFICACIÓN Y DISEÑO DEL LOOK 188:**
