@@ -74,6 +74,30 @@ Antes de generar texto, el agente DEBE consultar y respetar **EN ESTE ORDEN**:
 5.  `resources/BITACORA_TEMPORAL.md`: Estado actual del personaje y la trama.
 6.  **Documentos del Proyecto**: `arco_argumental.md` + **walkthrough.md del proyecto activo** (OBLIGATORIO para coherencia canónica).
 
+### 🔥 PASO 0c: LA INTEGRACIÓN (OBLIGATORIO — el paso que convierte teoría en carne)
+
+> ⚠️ **Las 5 guías de Arquitecturas Eróticas + el VADEMECUM no son checklists generativas. Son anatomía.** Se estudian antes y se auditan después — pero **NO se escriben aplicándolas punto por punto**. Un relato que se nota construido con guías está mal escrito aunque cumpla las 5. Este paso es la regla que funde todo de manera **natural, humana y erótica**.
+
+**1. UN SOLO CUERPO, NO CINCO MÓDULOS.**
+Los ejes (cuerpo/género · mente/Vacío · trance · poder · cuerpo/cosa) no se apilan en beats separados. Se cruzan **en la misma sensación**. Una sola contracción del coño puede ser, al mismo tiempo: feminización (MtF), vaciamiento (bimbo), respuesta al ancla (trance), obediencia que corona (femdom) y carne que se vuelve material (body horror). No escribas cinco párrafos — escribe una sensación que cargue las cinco capas a la vez. El lector debe sentir **una persona deshaciéndose**, nunca cinco técnicas ejecutándose.
+
+**2. CAUSALIDAD, NO YUXTAPOSICIÓN (Red Narrativa aplicada a los ejes).**
+Un eje **causa** el siguiente; no corren en paralelo. La orden de la dominante (poder) abre el trance → el trance afloja la mente (Vacío) → la mente floja deja al cuerpo responder (traición MtF) → la respuesta del cuerpo lo entrega como cosa (body horror). Cadena, no lista. Si los ejes no se causan entre sí, el texto es un catálogo de fetiches.
+
+**3. LO HUMANO = EL RESIDUO LÚCIDO. Nunca lo pierdas.**
+El hilo común de las 5 guías (circuito de traición / contradicción consciente / residuo lúcido / orgullo residual) es **la misma cosa**: una conciencia que observa su propia disolución y la desea mientras la teme. **Esa conciencia es el alma del texto.** Sin ella, hay pornografía de transformación. Con ella, hay Voûte. El personaje siempre sabe lo que pierde mientras lo pierde — esa lucidez es lo humano, y lo humano es lo que vuelve erótico el resto. Si en una escena no hay nadie *sintiendo* la pérdida desde adentro, la escena está muerta aunque cumpla todos los núcleos.
+
+**4. LO ERÓTICO = LA COEXISTENCIA SIN RESOLVER. Nunca la cataloges ni la cierres.**
+Horror + deseo. Vergüenza + calor. Dolor = placer. El "no" + el cuerpo que ya cedió. El erotismo Voûte vive en sostener esa tensión, no en explicarla. **No nombres el mecanismo: ejecútalo.** Las guías dicen *por qué* funciona; el texto jamás muestra el andamiaje. Si una frase explica la psicología en vez de hacerla sentir, bórrala. La tensión se sostiene al menos tres beats antes de cualquier cesión — y la cesión nunca resuelve, sólo abre lo siguiente.
+
+**5. LO NATURAL = INTERNALIZAR Y OLVIDAR AL ESCRIBIR; AUDITAR DESPUÉS.**
+Orden de trabajo obligatorio:
+- **Antes de escribir:** leer las guías del eje primario + secundarios. Internalizar la anatomía.
+- **Al escribir:** olvidar las guías. Escribir a la persona, la piel, la voz, el cuarto. Seguir la sensación, no la estructura. La prosa sale del VADEMECUM (voz), no de las listas de núcleos.
+- **Después de escribir (Crítico/Centinela/Editor):** recién ahí volver a las guías como rúbrica. Auditar contra §I (núcleos) y §IX/§errores. Cualquier observación crítica debe poder anclarse a una sección — pero la corrección se reescribe como carne, no se parcha como ítem.
+
+**Regla de cierre:** si al releer una escena se ven las costuras de las guías, falló la integración. Reescribir desde la sensación hasta que el andamiaje desaparezca y solo quede el cuerpo, la voz y el deseo. **El lector nunca debe poder nombrar la técnica que lo está excitando.**
+
 ---
 
 ## I. 🇨🇱 Reglas de Localización (Excluyentes)
