@@ -342,9 +342,9 @@ Powerful aristocratic woman in her 40s (Kylie Minogue facial structure reference
 Running on the beach, wearing oversized men's white shirt (wet) over black corset, laughing, candid movement, masterpiece, 8k. Vertical portrait orientation.
 ```
 
-### Prompt 46: Mugler Runway - Robot
+### Prompt 46: Avant-Garde Sculptural Runway - Robot
 ```
-(Thierry Mugler 1995 runway), (Robot couture), metal and latex, theatrical poses, spotlight,
+(1995 avant-garde sculptural runway), (Robot couture), metal and latex, theatrical poses, spotlight,
 Powerful aristocratic woman in her 40s (Kylie Minogue facial structure reference), Angular sculpted face, Honey blonde hair in polished Betty Page vintage waves, HEAVY GLAMOUR MAKEUP, glossy RED lips, Feminine hourglass silhouette, ALWAYS wearing luxury structured corsets, PLEASER So Kate style black or nude stiletto 12cm,
 Posing stiffly like a mannequin, wearing the silver metal corset suit, spotlight hitting face, masterpiece, 8k. Vertical portrait orientation.
 ```

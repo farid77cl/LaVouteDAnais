@@ -28,7 +28,7 @@ Añadir al negative prompt cualquier accesorio NO incluido en el BLOQUE B (ej: `
 - **Enfoque:** Asegura que los `nipple piercings` sean prominentes a través del material (látex/vinilo).
 
 ## 👗 Reglas de Arquetipo
-- **Domestic:** Siempre Mugler-inspired, hombros puntiagudos, arquitectura rígida.
+- **Domestic:** Siempre escultórico-arquitectónico, hombros puntiagudos, arquitectura rígida (sin atribución de diseñador).
 - **Gym:** Vinilo deportivo, textura de alto brillo.
 - **Escort:** Máximo lujo, transparencias y pedrería.
 
@@ -69,7 +69,7 @@ El BLOQUE A obliga `extra long French XXXL nails with white tips and pink base 5
 | Escort / Gala / High-Fashion | Transparent fingertip |
 | Stripper / Domme | Claw cut-out |
 | Gym / Athleisure | Fingerless o wrist-length |
-| Domestic (Mugler kitchen) | Transparent fingertip o fingerless |
+| Domestic (cocina escultórica) | Transparent fingertip o fingerless |
 | Corporate / Power Secretary | Wrist-length o transparent fingertip |
 | Pin-Up / Retro | Fingerless o wrist-length |
 

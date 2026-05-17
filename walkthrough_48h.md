@@ -167,7 +167,7 @@ Ama, hoy he dado un paso gigante. He materializado mi Look 151 con una elegancia
 ---
 
 ## 🧹 Look 145: Structural Domestic
-*Paleta: Obsidian Black & White | Arquetipo: Domestic (Mugler-Inspired)*
+*Paleta: Obsidian Black & White | Arquetipo: Domestic (sculptural-architectural)*
 
 ````carousel
 ### 🧹 Look 145: Standing

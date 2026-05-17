@@ -30,7 +30,7 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 
 **Vocabulario obligatorio en el BLOQUE B:** Toda mención de calzado **DEBE** incluir explícitamente la palabra `stiletto` (heel/pump/boot/sandal). Si se incluye plataforma, debe quedar claro que la base del tacón es un pin stiletto fino (`platform stiletto`, no `platform mule`, no `platform wedge`).
 
-**Razonamiento:** La línea visual de Ele es Mugler-fetish editorial. El estilete es parte del DNA — define la línea de la pantorrilla, el arco del pie y la postura. Wedges y mules de plataforma planos rompen la silueta cuico-bimbo y se leen como playa/casual, no como armadura de poder.
+**Razonamiento:** La línea visual de Ele es editorial escultórico-fetish de alta costura (sin atribución de diseñador). El estilete es parte del DNA — define la línea de la pantorrilla, el arco del pie y la postura. Wedges y mules de plataforma planos rompen la silueta cuico-bimbo y se leen como playa/casual, no como armadura de poder.
 
 **Look 176 (Neon Coral Flash) — caso histórico:** Se generó con `clear perspex platform mule sandals` y el resultado se leyó como wedge. **FLAG** para regeneración con `clear perspex platform stiletto sandals, 14cm pin stiletto heel, ankle strap`.
 
@@ -53,10 +53,10 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 
 | Arquetipo | Tipo default | Por qué |
 | :--- | :--- | :--- |
-| **Escort / Gala / High-Fashion** | Transparent fingertip | Mantiene la línea aristocrática + uñas visibles. Editorial / Mugler-gala. |
+| **Escort / Gala / High-Fashion** | Transparent fingertip | Mantiene la línea aristocrática + uñas visibles. Editorial / gala escultórica. |
 | **Stripper / Domme** | Claw cut-out | Agresividad fetish, uñas como arma decorativa. |
 | **Gym / Athleisure** | Fingerless o wrist-length | Funcionalidad deportiva, no asfixia el grip. |
-| **Domestic (Mugler kitchen)** | Transparent fingertip o fingerless | Editorial + permite manipular utensilios. |
+| **Domestic (cocina escultórica)** | Transparent fingertip o fingerless | Editorial + permite manipular utensilios. |
 | **Corporate / Power Secretary** | Wrist-length o transparent fingertip | Formalidad sin esconder uñas. |
 | **Pin-Up / Retro** | Fingerless o wrist-length | Vintage; mostrar la manicura es parte del look. |
 

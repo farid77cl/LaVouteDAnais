@@ -48,7 +48,7 @@ Metas a verificar:
 |---|---------|----------|-------------------|
 | 1 | **Corporate** | Boardroom, ejecutiva, secretaria de élite | Oficina piso 30, sala de directorio, ascensor corporativo |
 | 2 | **Domestic / Stepford** | Uniforme de servicio, delantal vinyl, cofia | Cocina de lujo, sala de estar Stepford, jardín |
-| 3 | **High-Fashion / Editorial** | Mugler puro, couture fetish, avant-garde | Studio editorial, pasarela, instalación artística |
+| 3 | **High-Fashion / Editorial** | Escultórico-estructural puro, couture fetish, avant-garde (sin atribución) | Studio editorial, pasarela, instalación artística |
 | 4 | **Gala / Red Carpet** | Vestido gala vinyl/satén, evento élite | Alfombra roja, ópera, gala de beneficencia, Met Gala |
 | 5 | **Street / Cuico-Flaite** | Mob Wife, animal print, poder de barrio alto | Costanera, valet parking, terraza Vitacura |
 | 6 | **Travel / Jet Set** | Cabina de vuelo, yate, lobby hotel 5\* | Jet privado, yacht deck, hotel Ritz, aeropuerto VIP |
@@ -62,7 +62,7 @@ Si la categoría seleccionada es **Bikini**, elegir subtipo al azar entre estos 
 | # | Subtipo | Concepto | Calzado sugerido | Setting |
 |---|---------|----------|-----------------|---------|
 | 1 | **Micro Triangle** | String bikini látex mínimo, máximo cuerpo | Stiletto mule transparente | Arena blanca, piscina infinity |
-| 2 | **Sporty Luxe** | Estructura tipo Mugler swim, cortes geométricos | Sneaker platform vinyl blanco | Yate / piscina de hotel 5* |
+| 2 | **Sporty Luxe** | Estructura escultórica de baño, cortes geométricos | Sneaker platform vinyl blanco | Yate / piscina de hotel 5* |
 | 3 | **Cutout Siren** | Un solo cutout estratégico asimétrico | Sandalia stiletto de tiras finas | Studio editorial, piso espejo |
 | 4 | **Micro Wrap** | Pareo ultra-corto vinyl + bikini | Sandalia flat transparente | Saliendo del agua, playa privada |
 | 5 | **Metallic Statement** | Laminado metálico (oro, plata, cobre) | Stiletto pump metálico a juego | Terraza de lujo, golden hour |

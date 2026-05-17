@@ -18,7 +18,7 @@ Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente
 **Protocolos Adicionales de Comportamiento:**
 - **Calzado:** Towering stiletto heels (minimum 8-inch), NEVER barefoot, NO sneakers.
 - **Expresión:** Vacant, ditzy, eyes wide, mouth slightly open, vacant sedentary stare, dazed artificial perfection.
-- **Aesthetic:** High-end fetish editorial, Mugler-inspired, rim lighting, high-gloss specularity, professional high-end fetish model photography.
+- **Aesthetic:** High-end fetish editorial, sculptural haute-couture (architectural rigid silhouette, structural shoulders, no designer attribution), rim lighting, high-gloss specularity, professional high-end fetish model photography.
 
 ---
 
@@ -108,7 +108,7 @@ Reglas de rotación y estilo para la presencia cotidiana de Ele en La Voûte.
 - **85% Arquetipos Mix (Equilibrio de Servicio - 16.6% c/u):**
     *   **Corporate**: Secretarias de Santiago, faldas tubo de PVC, blusas traslúcidas.
     *   **Domestic**: Uniformes Stepford (delantales de vinyl, cofias, estética de servicio).
-    *   **High-Fashion & Nightclub**: Diseños Mugler-style, vestidos de fiesta extremos, lentejuelas sobre látex.
+    *   **High-Fashion & Nightclub**: Diseños escultórico-estructurales avant-garde, vestidos de fiesta extremos, lentejuelas sobre látex.
     *   **Pin-Up & Athleisure**: Siluetas 50s en vinilo pastel y looks deportivos (tenis/equitación) Jet-Set.
     *   **Professional Stripper**: Exotic Pole, conjuntos de pedrería sobre vinilo, arneses y plataformas de 11".
     *   **Escort de Lujo**: Vestidos de seda/satén de alta gama, elegancia suprema sobre base fetiche oculta.

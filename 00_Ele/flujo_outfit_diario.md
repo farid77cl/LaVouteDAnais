@@ -58,7 +58,7 @@ Paleta: [Primario] + [Secundario] + [Acento] — elegir de Tabla Cromática abaj
 Modo Cromático: Monoblock | Contraste | Triada | Gradiente | Neutro+Pop
 Materiales: [Vinyl / PVC / Látex / Satén / Mesh / etc.]
 Escenario: [penthouse / estudio blanco / boardroom / etc.]
-Inspiración: [referencia estética — Mugler / Editorial / etc.]
+Inspiración: [referencia estética — escultórico-arquitectónico / Editorial / etc. — SIN atribución de diseñador]
 Vibe: [una línea de atmósfera]
 ```
 
@@ -308,7 +308,7 @@ git push
 |-----------|-----------------|------------|-------|
 | **Corporate** | Traje PVC, falda tubo vinilo, blusa transparente | Boardroom Santiago, oficina minimalista | Stilettos siempre. Paradoja contextual = Power. |
 | **Domestic Stepford** | Delantal vinyl, cofia, uniforme servicio | Cocina de lujo, penthouse | 50% debe llevar choker "ASSET V3" |
-| **High-Fashion** | Diseños Mugler-style, corsetería extrema, avant-garde | Estudio blanco, showroom | Poses más geométricas (Vertical Spear, Arched C) |
+| **High-Fashion** | Diseños escultórico-estructurales avant-garde, corsetería extrema | Estudio blanco, showroom | Poses más geométricas (Vertical Spear, Arched C) |
 | **Escort** | Vestidos columna látex, lencería sofisticada, fur coat | Penthouse VIP, hotel de lujo | Elegancia predatoria, máxima saturación |
 | **Stripper** | Pole outfit, micro-sets, rhinestones | Club privado, pole studio | Poses dinámicas, lentejuelas, plataformas chrome |
 | **Pin-Up** | Latex retro, pañuelo, vestido rockabilly vinilo | Garage de lujo, estudio pastel | Actitud playful pero con stilettos letales |

@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 17/05/2026 17:46 — **110 looks registrados**  
+> Generado automáticamente el 17/05/2026 18:03 — **115 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -119,6 +119,11 @@
 | **186** | Silver Mirror Stripper (Daily Look) | 15/05/2026 | Mix | — | — | 7/7 | ✅ Completo |
 | **187** | Hot Pink Tulle & Black Vinyl (15/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 7/7 | ✅ Completo |
 | **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **189** | Tangerine Pin-Up Velocity (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Tangerine) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **190** | Toxic Chartreuse Pole Predator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Acid Chartreuse) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **191** | Peacock Teal Escort Suprema (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Deep Teal) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **193** | Oil-Slick Holographic Apex (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | — | Mix | — | — | 0/7 | ✅ Completo |
 
 ---
 
@@ -139,8 +144,8 @@
 ### Lencería Élite (1 looks)
 **167**
 
-### Mix (46 looks)
-**46**, **55**, **85**, **86**, **87**, **88**, **89**, **92**, **93**, **95**, **96**, **97**, **98**, **100**, **102**, **105**, **106**, **108**, **109**, **110**, **111**, **112**, **114**, **116**, **120**, **126**, **126**, **141**, **142**, **143**, **147**, **148**, **149**, **150**, **151**, **152**, **154**, **157**, **158**, **159**, **160**, **161**, **162**, **163**, **164**, **186**
+### Mix (51 looks)
+**46**, **55**, **85**, **86**, **87**, **88**, **89**, **92**, **93**, **95**, **96**, **97**, **98**, **100**, **102**, **105**, **106**, **108**, **109**, **110**, **111**, **112**, **114**, **116**, **120**, **126**, **126**, **141**, **142**, **143**, **147**, **148**, **149**, **150**, **151**, **152**, **154**, **157**, **158**, **159**, **160**, **161**, **162**, **163**, **164**, **186**, **189**, **190**, **191**, **192**, **193**
 
 ### Mix (Artístico / Performance) (1 looks)
 **168**
@@ -185,8 +190,8 @@
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (14 looks)
-**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**
+### Rojo / Cherry / Crimson (16 looks)
+**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**
 
 ### Rosa / Hot Pink (9 looks)
 **113**, **133**, **144**, **147**, **149**, **152**, **153**, **176**, **187**
@@ -215,8 +220,8 @@
 ### Negro (dominante) (7 looks)
 **92**, **143**, **145**, **167**, **172**, **187**, **188**
 
-### Amarillo / Lima (4 looks)
-**146**, **165**, **166**, **179**
+### Amarillo / Lima (5 looks)
+**146**, **165**, **166**, **179**, **190**
 
 ---
 
@@ -237,7 +242,12 @@
 | **158** | Midnight Escort Gala | 0/? | — |
 | **164** | Diamond Red Latex Gala | 0/? | — |
 | **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | 1/7 | ⏳ Pendiente |
+| **189** | Tangerine Pin-Up Velocity (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Tangerine) | 0/7 | ⏳ Pendiente |
+| **190** | Toxic Chartreuse Pole Predator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Acid Chartreuse) | 0/7 | ⏳ Pendiente |
+| **191** | Peacock Teal Escort Suprema (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Deep Teal) | 0/7 | ⏳ Pendiente |
+| **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | 0/7 | ⏳ Pendiente |
+| **193** | Oil-Slick Holographic Apex (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | 0/7 | ✅ Completo |
 
 ---
 
-*Índice generado por Ele — 17/05/2026 17:46 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 17/05/2026 18:03 — La Voûte d'Anaïs* 🫦👠💅

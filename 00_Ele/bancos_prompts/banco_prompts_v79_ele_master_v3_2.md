@@ -357,7 +357,7 @@ Final domestic shot, stunning woman with bimbo facial features, oval face, high 
 
 ---
 
-## III. HIGH-FASHION / MUGLER (18 Prompts - 18.4%)
+## III. HIGH-FASHION / SCULPTURAL (18 Prompts - 18.4%)
 
 ### 68. Chrome Armor - Standing (Spear)
 `	ext
@@ -426,7 +426,7 @@ Liquid luxury editorial, stunning woman with bimbo facial features, oval face, h
 
 ### 81. Green Latex Armor - Power Pose
 `	ext
-Mugler style photography, stunning woman with bimbo facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing emerald latex bodysuit with exaggerated rigid hip plates and silver shoulder spikes. Silver 12-inch heels. Power stance, manos flat at sides, vacant empty stare. Dark gray studio background, rim lighting.
+sculptural haute-couture editorial photography, stunning woman with bimbo facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing emerald latex bodysuit with exaggerated rigid hip plates and silver shoulder spikes. Silver 12-inch heels. Power stance, manos flat at sides, vacant empty stare. Dark gray studio background, rim lighting.
 ` 
 
 ### 82. Crystal Clear Architecture - Seated

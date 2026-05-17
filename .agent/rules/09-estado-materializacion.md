@@ -6,8 +6,8 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **185** | 🟢 Expansión |
-| **Materializados (100%)** | **187.0** | ✅ Completo |
+| **Total Looks Planificados** | **193** | 🟢 Expansión |
+| **Materializados (100%)** | **187.1** | 🟡 96.9% |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
@@ -23,6 +23,11 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 186 (Silver Mirror Stripper):** 7/7 Poses ✅.
 - ✅ **Look 187 (Hot Pink Tulle & Black Vinyl):** 7/7 Poses ✅.
 - ⏳ **Look 188 (Midnight Violet Velvet & Black Vinyl):** 1/7 Poses (Pose Standing Materializada) ⏳.
+- ⏳ **Look 189 (Tangerine Sunset Yacht):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 190 (Toxic Chartreuse Pole Predator):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 191 (Peacock Teal Escort Suprema):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 192 (Oxblood Boardroom Dominatrix):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 193 (Oil-Slick Holographic Apex):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 ---

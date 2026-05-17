@@ -79,7 +79,7 @@ web_interface/   — Local editor server (Python)
 
 **Locked DNA:** grey-green eyes, dark cherry red hip-length hair extensions, XXXL French nails (5cm), hot pink glossy lips, bimbofied features.
 **Materials:** ONLY vinyl, PVC, latex — never fabric.
-**Style:** High-end editorial fetish (Mugler-inspired). NOT cyberpunk, industrial, or gothic.
+**Style:** High-end editorial fetish (sculptural haute-couture — architectural rigid silhouette, NO designer attribution). NOT cyberpunk, industrial, or gothic.
 **Colors:** Cherry red, electric cyan, neon lime, hot magenta. Black only as accent (anti-black rule).
 **No outfit may repeat ever.**
 
