@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 16/05/2026 20:29 — **109 looks registrados**  
+> Generado automáticamente el 17/05/2026 08:05 — **110 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -118,6 +118,7 @@
 | **185** | Emerald Mugler Suprema | — | Mix (High-Fashion Editorial) | — | — | 7/7 | ✅ Completo |
 | **186** | Silver Mirror Stripper (Daily Look) | 15/05/2026 | Mix | — | — | 7/7 | ✅ Completo |
 | **187** | Hot Pink Tulle & Black Vinyl (15/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 7/7 | ✅ Completo |
+| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -132,8 +133,8 @@
 ### Gym (High-Performance) (1 looks)
 **146**
 
-### Lencería (17 looks)
-**94**, **101**, **103**, **104**, **118**, **121**, **127**, **127**, **128**, **128**, **129**, **132**, **134**, **136**, **138**, **140**, **187**
+### Lencería (18 looks)
+**94**, **101**, **103**, **104**, **118**, **121**, **127**, **127**, **128**, **128**, **129**, **132**, **134**, **136**, **138**, **140**, **187**, **188**
 
 ### Lencería Élite (1 looks)
 **167**
@@ -193,8 +194,8 @@
 ### Magenta / Fucsia (1 looks)
 **181**
 
-### Violeta / Lila (1 looks)
-**151**
+### Violeta / Lila (2 looks)
+**151**, **188**
 
 ### Azul / Cyan / Zafiro (10 looks)
 **91**, **100**, **111**, **117**, **125**, **125**, **131**, **147**, **152**, **173**
@@ -211,8 +212,8 @@
 ### Blanco / Crema (6 looks)
 **122**, **129**, **138**, **144**, **145**, **177**
 
-### Negro (dominante) (6 looks)
-**92**, **143**, **145**, **167**, **172**, **187**
+### Negro (dominante) (7 looks)
+**92**, **143**, **145**, **167**, **172**, **187**, **188**
 
 ### Amarillo / Lima (4 looks)
 **146**, **165**, **166**, **179**
@@ -235,7 +236,8 @@
 | **140** | Dark Sequin Empress | 0/5 | — |
 | **158** | Midnight Escort Gala | 0/? | — |
 | **164** | Diamond Red Latex Gala | 0/? | — |
+| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 16/05/2026 20:29 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 17/05/2026 08:05 — La Voûte d'Anaïs* 🫦👠💅
