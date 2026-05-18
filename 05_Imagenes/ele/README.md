@@ -4,11 +4,27 @@
 
 ---
 
-## 👠 Look 188: Midnight Violet Velvet
+## 👠 Look 190: Toxic Chartreuse Pole
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_188_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_190_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_backview.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 189: Tangerine Bombshell Aviator
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_189_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_standing.png) | ![ele_189_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_backview.png) | ![ele_189_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_seated.png) | ![ele_189_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_sideprofile.png) | ![ele_189_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_ditzy.png) | ![ele_189_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_pov.png) | ![ele_189_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_odalisque.png) |
+
+---
+
+## 👠 Look 188: Midnight Violet Velvet
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_188_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_standing.png) | ![ele_188_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_backview.png) | ![ele_188_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_seated.png) | ![ele_188_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_sideprofile.png) | ![ele_188_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_ditzy.png) | ![ele_188_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_pov.png) | ![ele_188_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_odalisque.png) |
 
 ---
 

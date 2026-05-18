@@ -1,24 +1,21 @@
 # 🖼️ Galería: look190_toxic_chartreuse_pole
-> **Estado:** ⏳ En Progreso (1/7 materializados) — Almacenamiento Remoto (GitHub)
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 1 / 7
+Total imágenes: 1
 
 ## Colección Destacada
-| Standing | Back View | Seated |
+| | | |
 |:---:|:---:|:---:|
-| ⏳ Pendiente | ![ele_190_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_backview.png) | ⏳ Pendiente |
-
-| Side Profile | Ditzy | POV | Odalisque |
-|:---:|:---:|:---:|:---:|
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![ele_190_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_backview.png) |
 
 ---
 
-## 📸 Vista Previa Disponible
+## 📸 Vista Previa Completa
 
 | Imagen |
 | :---: |
 | ![ele_190_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_backview.png) |
+
 
 ---
 

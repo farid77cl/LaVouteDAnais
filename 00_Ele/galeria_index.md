@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 18/05/2026 15:51 — **127 looks registrados**  
+> Generado automáticamente el 18/05/2026 16:02 — **127 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -118,9 +118,9 @@
 | **185** | Emerald Mugler Suprema | — | Mix (High-Fashion Editorial) | — | — | 7/7 | ✅ Completo |
 | **186** | Silver Mirror Stripper (Daily Look) | 15/05/2026 | Mix | — | — | 7/7 | ✅ Completo |
 | **187** | Hot Pink Tulle & Black Vinyl (15/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 7/7 | ✅ Completo |
-| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **189** | Tangerine Bombshell Aviator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Tangerine) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **190** | Toxic Chartreuse Pole Predator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Acid Chartreuse) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | — | Lencería | — | — | 7/7 | ✅ Completo |
+| **189** | Tangerine Bombshell Aviator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Tangerine) | — | Mix | — | — | 7/7 | ✅ Completo |
+| **190** | Toxic Chartreuse Pole Predator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Acid Chartreuse) | — | Mix | — | — | 1/7 | ⏳ Pendiente |
 | **191** | Peacock Teal Escort Suprema (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Deep Teal) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
@@ -253,9 +253,7 @@
 | **140** | Dark Sequin Empress | 0/5 | — |
 | **158** | Midnight Escort Gala | 0/? | — |
 | **164** | Diamond Red Latex Gala | 0/? | — |
-| **188** | Midnight Violet Velvet & Black Vinyl (17/05/2026 — EXPANSIÓN) | 1/7 | ⏳ Pendiente |
-| **189** | Tangerine Bombshell Aviator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Tangerine) | 0/7 | ⏳ Pendiente |
-| **190** | Toxic Chartreuse Pole Predator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Acid Chartreuse) | 0/7 | ⏳ Pendiente |
+| **190** | Toxic Chartreuse Pole Predator (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Acid Chartreuse) | 1/7 | ⏳ Pendiente |
 | **191** | Peacock Teal Escort Suprema (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Deep Teal) | 0/7 | ⏳ Pendiente |
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | 0/7 | ⏳ Pendiente |
@@ -274,4 +272,4 @@
 
 ---
 
-*Índice generado por Ele — 18/05/2026 15:51 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 18/05/2026 16:02 — La Voûte d'Anaïs* 🫦👠💅
