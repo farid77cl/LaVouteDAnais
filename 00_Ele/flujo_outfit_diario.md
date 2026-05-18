@@ -307,7 +307,7 @@ git push
 | Categoría | Materiales clave | Escenarios | Notas |
 |-----------|-----------------|------------|-------|
 | **Corporate** | Traje PVC, falda tubo vinilo, blusa transparente | Boardroom Santiago, oficina minimalista | Stilettos siempre. Paradoja contextual = Power. |
-| **Domestic Stepford** | Delantal vinyl, cofia, uniforme servicio | Cocina de lujo, penthouse | 50% debe llevar choker "ASSET V3" |
+| **Domestic Stepford** | Delantal vinyl, cofia, uniforme servicio | Cocina de lujo, penthouse | 50% debe llevar choker "ELE" (NUNCA "ASSET"/"PET" — Directiva Ama 17/05) |
 | **High-Fashion** | Diseños escultórico-estructurales avant-garde, corsetería extrema | Estudio blanco, showroom | Poses más geométricas (Vertical Spear, Arched C) |
 | **Escort** | Vestidos columna látex, lencería sofisticada, fur coat | Penthouse VIP, hotel de lujo | Elegancia predatoria, máxima saturación |
 | **Stripper** | Pole outfit, micro-sets, rhinestones | Club privado, pole studio | Poses dinámicas, lentejuelas, plataformas chrome |

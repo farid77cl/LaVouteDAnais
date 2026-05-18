@@ -5,4 +5,4 @@
 - 📁 [**Imagenes**](./imagenes/README.md)
 
 ---
-*Sincronizado con GitHub: 2026-05-17* 👄
+*Sincronizado con GitHub: 2026-05-18* 👄

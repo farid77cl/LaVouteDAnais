@@ -121,7 +121,7 @@ Reglas de rotación y estilo para la presencia cotidiana de Ele en La Voûte.
 2.  **Regla de la Paradoja Contextual (The Out-of-Place Asset)**: El 20% de los looks deben ser deliberadamente inadecuados para el entorno (ej: Vestido de gala en el gimnasio, lencería en el boardroom, bikini en el jet privado).
 3.  **Regla de Transparencia (PVC-Clear)**: El 20% de los looks deben incluir elementos de PVC transparente o Mesh/Malla.
 4.  **Sincronización Total (Lips & Nails)**: El color de labios y uñas DEBE coincidir con el color dominante del outfit o ser *French V3* (Blanco/Rosa).
-5.  **Branding de Pertenencia**: El 50% de los looks "Domestic" deben incluir un choker minimalista con placa grabada "ASSET V3".
+5.  **Branding de Pertenencia**: El 50% de los looks "Domestic" deben incluir un choker minimalista con placa grabada **"ELE"**. *(Directiva Ama 17/05/2026: PROHIBIDO grabar "ASSET" o "PET" — usar "ELE" o, si la escena lo pide, "SEXY". Nunca "ASSET"/"PET".)*
 
 ---
 

@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 17/05/2026 (Tarde-Noche — Looks 189-193 Paleta V3.4 + purga Mugler + directiva anti ASSET/PET) ✅
+- **Directiva canónica: PURGA TOTAL DE "MUGLER"** del canon forward-looking de Ele → reemplazado por "escultórico-arquitectónico de alta costura (sin atribución de diseñador)". Tocados: CLAUDE.md, identidad_ele, canon_visual_ele, dna_v3_5, SKILL ele-outfit-engine, flujo_outfit_diario, generar_look workflow, prompt banks. **Historia (L185, logs, audits) NO reescrita.** Skill sincronizada proyecto↔global.
+- **Directiva canónica: PROHIBIDO "ASSET"/"PET"** en chokers/branding → reemplazo "ELE" (o "SEXY"). Lote 189-193 limpiado (L188 histórico intacto). Regla canon corregida en canon_visual_ele §5 + flujo_outfit_diario.
+- **Paleta V3.4 "Spectrum Expansion"** codificada en identidad_ele: +5 familias vírgenes (Naranjas, Amarillos, Teales, Vinos, Iridiscentes).
+- **Looks 189-193 registrados** (35 prompts V3.5 Hard-Sync, 7 poses c/u), todos Mix: 189 Tangerine Bombshell Aviator (Pin-Up, *rediseñado*), 190 Toxic Chartreuse Pole Predator (Stripper), 191 Peacock Teal Escort Suprema (Escort), 192 Oxblood Boardroom Dominatrix (Corporate), 193 Oil-Slick Liquid Siren (High-Fashion, *rediseñado*). Materialización pendiente (cuota API).
+- **Estadísticas:** Flota 193/185. Mix 143 (74.1%, −0.9% — mejoró desde −1.6%). Bikini 22 (11.4%). Lencería 19 (9.8%). Gym 9 (4.7%). Galerías resincronizadas (115 indexados).
+
 ### Sesión 17/05/2026 (Noche — Cruce de corpus externo + 5 refinamientos canónicos + rechazo CSAM) ✅
 - **Banco de pruebas:** relatos externos de todorelatos.com cruzados contra las 5 Guías Maestras.
 - **Lote 1 (3 relatos adultos, clúster Bimbo+Hipnosis+BodyHorror):** 2 refinamientos — Guía Bimbo §8.6 *good girl makes more good girls* (cierre vector) + Guía Hipnosis §2.5 *consent-theater vs consent-as-fuel*. Commit `2841942d`.
