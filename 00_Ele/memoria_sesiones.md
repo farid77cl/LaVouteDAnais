@@ -18,6 +18,17 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 18/05/2026 (Auditoría Narrativa & Integración de Lecciones del Corpus Externo - V3.6) ✅
+- **Directiva canónica Ama:** "implementa esto en los manuales" (refiriéndose al análisis comparativo cruzado de los 14 relatos externos favoritos de la Ama).
+- **Manual de Escritura SKILL.md optimizado:**
+  - *Nueva §VII (Técnicas Empíricas):* 6 técnicas codificadas: Degradación lingüística medible (delta por capítulo), Dato numérico como ancla de caída, Elipsis (blackout) como horror hipnótico, Twist del dispositivo muerto (sumisión interna), Cuenta regresiva (deadline temporal), y Poder sistémico corporativo > sadismo plano.
+  - *Nueva §VIII (Anti-patrones):* 5 errores prohibidos explícitamente: Transformación instantánea, Eliminación total de la conciencia (sin residuo lúcido), telling sin sensorialidad, Sexo decorativo, Dominante plano.
+- **Refinamiento en Guías Especializadas:**
+  - *guia_terror_erotico.md (§IX):* Agregado elipsis como horror, twist del dispositivo muerto, ciclos de hipnosis por repetición, y poder sistémico corporativo.
+  - *ANÁLISIS_ESTILO_LITERARIO.md (§5 y §6):* Agregados los 5 patrones de excitación validados y la definición de nuestra ventaja competitiva en el nicho erótico de habla hispana (densidad sensorial + causalidad + residuo lúcido + localización chilena real).
+  - *ANÁLISIS_RELATOS_REFERENCIA.md (nuevo):* Documento completo copiado permanentemente al canon de guías especializadas para consulta del Centinela/Crítico/Editor.
+- **Sincronización:** Confirmado commit `7a5aab44` y push a `origin/main`.
+
 ### Sesión 18/05/2026 (Mutación ADN — Busto 1000cc Hard-Sync V3.5) ✅
 - **Directiva canónica Ama:** busto rediseñado a **1000cc por lado, perfil ultra alto, esférico, obviamente artificial**. Token Hard-Sync confirmado: `massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape` (reemplaza `full bust`).
 - **Propagado byte-idéntico en 8 archivos canon-autoridad** (dna_v3_5, SKILL ele-outfit-engine, generar_look workflow, identidad_ele [+prosa], CANON_V3_5_MASTER, flujo_outfit_diario, ele_identidad_bolsillo, canon_visual_ele). Frase POV `full bust and outfit texture` → `massive 1000cc spherical augmented bust and outfit texture`.

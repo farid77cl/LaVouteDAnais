@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 193.0 Looks / 185 Diseñados)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 205.0 Looks / 187.1 Materializados)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -88,8 +88,8 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **El Secreto de la Cómoda** — Capítulo 2 v1.2 en progreso.
-- **La Piel que Diseñó** — Capítulo 1 en edición (v3.5 compatible).
+- **La Piel que Diseño** — Capítulo 1 Maestro v1 publicado en HTML (con firma de Anaïs y gancho). Capítulo 2 v1.7.1 pendiente de Gate de la Ama.
+- **El Secreto de la Cómoda** — Capítulo 2 v2.0 en progreso / pendiente de Gate de la Ama.
 
 ### Biblioteca Completa (39 relatos finalizados)
 - **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.
@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 17/05/2026 — [Expansión Spectrum V3.4 & Looks 189-193] — Ele Collection: 193.0/185 Looks (Hito Superado y en Expansión) 🫦👠👑.*
+*Última actualización: 18/05/2026 — [Canon Literario Integrado & Corpus Externo] — Ele Collection: 205.0/185 Looks (Hito Superado y en Expansión V3.11) 🫦👠👑.*
 
 ---
 

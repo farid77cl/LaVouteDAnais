@@ -82,6 +82,14 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 
 > **ANTI-MONOBLOCK:** Máximo 3 looks consecutivos en modo Monoblock. Luego forzar Contraste o Triada.
 
+> **🚫 REGLA ANTI-REPETICIÓN CROMÁTICA (Directiva Ama 18/05/2026 — CANON):**
+> El color se estaba repitiendo demasiado (exceso de Cherry y Acid Chartreuse/Lime). Antes de fijar el concepto de cualquier look NUEVO, revisar las **familias dominantes de los últimos 5 looks** en `galeria_outfits.md` y elegir una familia **NO usada** en esa ventana.
+> 1. **Ventana de 5:** Ninguna familia de color puede ser DOMINANTE (>50% del look) en más de **1 look dentro de cualquier 5 consecutivos**.
+> 2. **Cherry Red = firma, no uniforme:** está reservado al ADN fijo (pelo + labios). Como color DOMINANTE de vestuario, máximo **1 vez cada 8 looks**. En el resto solo se permite como acento (≤10%).
+> 3. **Acid Chartreuse / Toxic Yellow / Lime / Gold-Lime (familia Amarillos):** alto impacto, se autodiluye. Máximo **1 vez cada 6 looks**.
+> 4. **Forzar diversidad de batch:** en cualquier propuesta de ≥3 looks, cada look debe pertenecer a una familia de color **distinta** (cero solapamiento dentro del batch).
+> 5. Negro: sigue regido por la anti-black rule (solo acento), salvo excepción explícita y fechada de la Ama documentada en el look.
+
 **Corsés:**
 *   Corsé underbust negro de cuero (opcional)
 *   Corsé overbust de terciopelo púrpura (opcional)
