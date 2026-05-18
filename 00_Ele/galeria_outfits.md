@@ -5087,18 +5087,15 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Choker rígido cromo grabado "ELE". Uñas French XXXL 5cm visibles por el cut-out de los guantes. Navel y nipple piercings de oro blanco visibles, reactivos bajo UV.
 - **Ambientación:** Escenario oscuro de club con tubo cromado central, luz UV + neón chartreuse, humo bajo, espejo negro de fondo.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — En proceso ⏳)
 
-<details>
-<summary>📸 7 poses planificadas</summary>
+- **Ubicación:** `05_Imagenes/ele/look190_toxic_chartreuse_pole/`
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ![Back View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_backview.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
-</details>
-
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *⏳ Materialización parcial en progreso — 1 pose lista (18/05/2026).*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
