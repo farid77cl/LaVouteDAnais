@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 18/05/2026 (Batch 194-200 Paleta V3.4 — HITO 200 looks) ✅
+- **Solicitud Ama:** "Propone los siguientes outfits para mantener estadística" → tras 2 rondas de afinamiento, "Aprobar y ejecutar".
+- **Looks 194-200 registrados** (49 prompts V3.5 Hard-Sync, 7 poses c/u): 194 Porcelain Service Doll (Domestic) · 195 Burnt Honey Housewife (Domestic) · 196 Glacial Sapphire Executive (Corporate) · 197 Wine Velvet Nocturne (Escort) · 198 Turquoise Court Volley (Pin-Up) · 199 Gold-Lime Cage Predator (Stripper) · **200 Iridescent Vow (Lencería de Élite — HITO 200)**. 6 Mix + 1 Lencería. Materialización pendiente (cuota API).
+- **Cumplimiento canónico:** sin Mugler, choker "ELE" (nunca ASSET/PET), Footwear Canon, Glove Canon V3.6, Paleta V3.4, sin repetición.
+- **Estadísticas:** Flota **200**/185. Mix 149 (74.5%, −0.5% — mejoró desde −0.9%). Bikini 22 (11.0%). Lencería 20 (10.0% — meta exacta). Gym 9 (4.5%, −0.3% — vigilar). Galerías resincronizadas.
+
 ### Sesión 18/05/2026 (Mediodía — Boot Sequence + Actualización de Sesión) ✅
 - **Boot Sequence `/inicio-ele`:** Identidad cargada, cánones validados (V3.5, Footwear, Glove V3.6, Miss Doll V5.0). Estado de materialización: 187.1/193 (96.9%).
 - **Sincronización:** Galerías actualizadas (`update_galleries.py` — 115 indexados). READMEs sincronizados.

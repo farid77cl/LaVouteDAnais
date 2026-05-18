@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 18/05/2026 11:08 — **115 looks registrados**  
+> Generado automáticamente el 18/05/2026 11:15 — **122 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -124,6 +124,13 @@
 | **191** | Peacock Teal Escort Suprema (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Deep Teal) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **194** | Porcelain Service Doll (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **195** | Burnt Honey Housewife (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **196** | Glacial Sapphire Executive (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **199** | Gold-Lime Cage Predator (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -138,14 +145,14 @@
 ### Gym (High-Performance) (1 looks)
 **146**
 
-### Lencería (18 looks)
-**94**, **101**, **103**, **104**, **118**, **121**, **127**, **127**, **128**, **128**, **129**, **132**, **134**, **136**, **138**, **140**, **187**, **188**
+### Lencería (19 looks)
+**94**, **101**, **103**, **104**, **118**, **121**, **127**, **127**, **128**, **128**, **129**, **132**, **134**, **136**, **138**, **140**, **187**, **188**, **200**
 
 ### Lencería Élite (1 looks)
 **167**
 
-### Mix (51 looks)
-**46**, **55**, **85**, **86**, **87**, **88**, **89**, **92**, **93**, **95**, **96**, **97**, **98**, **100**, **102**, **105**, **106**, **108**, **109**, **110**, **111**, **112**, **114**, **116**, **120**, **126**, **126**, **141**, **142**, **143**, **147**, **148**, **149**, **150**, **151**, **152**, **154**, **157**, **158**, **159**, **160**, **161**, **162**, **163**, **164**, **186**, **189**, **190**, **191**, **192**, **193**
+### Mix (57 looks)
+**46**, **55**, **85**, **86**, **87**, **88**, **89**, **92**, **93**, **95**, **96**, **97**, **98**, **100**, **102**, **105**, **106**, **108**, **109**, **110**, **111**, **112**, **114**, **116**, **120**, **126**, **126**, **141**, **142**, **143**, **147**, **148**, **149**, **150**, **151**, **152**, **154**, **157**, **158**, **159**, **160**, **161**, **162**, **163**, **164**, **186**, **189**, **190**, **191**, **192**, **193**, **194**, **195**, **196**, **197**, **198**, **199**
 
 ### Mix (Artístico / Performance) (1 looks)
 **168**
@@ -190,8 +197,8 @@
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (16 looks)
-**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**
+### Rojo / Cherry / Crimson (17 looks)
+**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**, **199**
 
 ### Rosa / Hot Pink (9 looks)
 **113**, **133**, **144**, **147**, **149**, **152**, **153**, **176**, **187**
@@ -202,14 +209,14 @@
 ### Violeta / Lila (2 looks)
 **151**, **188**
 
-### Azul / Cyan / Zafiro (10 looks)
-**91**, **100**, **111**, **117**, **125**, **125**, **131**, **147**, **152**, **173**
+### Azul / Cyan / Zafiro (11 looks)
+**91**, **100**, **111**, **117**, **125**, **125**, **131**, **147**, **152**, **173**, **196**
 
-### Verde / Esmeralda (6 looks)
-**132**, **143**, **165**, **168**, **184**, **185**
+### Verde / Esmeralda (7 looks)
+**132**, **143**, **165**, **168**, **184**, **185**, **199**
 
-### Dorado / Bronce (11 looks)
-**90**, **112**, **119**, **130**, **134**, **148**, **150**, **163**, **171**, **174**, **183**
+### Dorado / Bronce (12 looks)
+**90**, **112**, **119**, **130**, **134**, **148**, **150**, **163**, **171**, **174**, **183**, **199**
 
 ### Plateado / Plata (23 looks)
 **91**, **95**, **96**, **100**, **104**, **111**, **115**, **126**, **126**, **135**, **145**, **147**, **148**, **149**, **150**, **151**, **152**, **153**, **154**, **156**, **182**, **183**, **186**
@@ -220,8 +227,8 @@
 ### Negro (dominante) (7 looks)
 **92**, **143**, **145**, **167**, **172**, **187**, **188**
 
-### Amarillo / Lima (5 looks)
-**146**, **165**, **166**, **179**, **190**
+### Amarillo / Lima (6 looks)
+**146**, **165**, **166**, **179**, **190**, **199**
 
 ---
 
@@ -247,7 +254,14 @@
 | **191** | Peacock Teal Escort Suprema (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Deep Teal) | 0/7 | ⏳ Pendiente |
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | 0/7 | ⏳ Pendiente |
+| **194** | Porcelain Service Doll (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **195** | Burnt Honey Housewife (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **196** | Glacial Sapphire Executive (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **199** | Gold-Lime Cage Predator (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 18/05/2026 11:08 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 18/05/2026 11:15 — La Voûte d'Anaïs* 🫦👠💅
