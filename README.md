@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 205.0 Looks / 187.1 Materializados)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 205.0 Looks / 189.0 Materializados)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
