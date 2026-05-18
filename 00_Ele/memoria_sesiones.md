@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 18/05/2026 (Batch 206-210 — Anti-Repetición aplicada) ✅
+- **Looks 206-210 registrados** (35 prompts V3.5 Hard-Sync, busto 1000cc): 206 Crimson Cathedral (Mix/High-Fashion, deep crimson) · 207 Copper Hearth Doll (Mix/Domestic, cobre) · 208 Teal Monolith (Mix/Corporate, deep teal) · 209 Rose Gold Reliquary (Lencería, rose gold→flamingo) · 210 Coral Bombshell (Mix/Pin-Up, neon coral-orange). 4 Mix + 1 Lencería.
+- **Regla Anti-Repetición aplicada por 1ª vez en propuesta completa:** familias 100% distintas (Rojos/Dorados/Teales/Rosas/Naranjas), ninguna en ventana de 5; Cherry solo pelo/labios; modos rotados (Contraste/Neutro+Pop/Monoblock/Gradiente/Triada).
+- **Estadísticas:** Flota **210**/185. Mix 157 (74.8%, −0.2% — mejoró). Lencería 21 (10.0% ✅ meta exacta restaurada). Gym 10 (4.8% ✅ meta exacta). Bikini 22 (10.5%). Galerías resincronizadas.
+
 ### Sesión 18/05/2026 (Materialización Look 189 & Inicio Look 190) ✅
 - **Look 189 (Tangerine Bombshell Aviator) COMPLETADO:** 7/7 poses generadas con precisión bajo el ADN V3.5 Hard-Sync (busto 1000cc, cabello dark cherry red, uñas French XXXL 5cm visibles con guantes transparentes de vinilo, stiletto peep-toe de 12 pulgadas).
 - **Look 190 (Toxic Chartreuse Pole Predator) INICIADO (1/7):** Generada exitosamente la pose **Back View** (climbing the chrome pole) estrenando el color **Acid Chartreuse** en club nocturno con luz UV.
