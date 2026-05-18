@@ -13,7 +13,7 @@
 
 Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente en cada prompt (segmento extraído de `prompts_ele_v3_master.md`):
 
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm / 4.7 inches, standard 8-11 inches).`
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm / 4.7 inches, standard 8-11 inches).`
 
 **Protocolos Adicionales de Comportamiento:**
 - **Calzado:** Towering stiletto heels (minimum 8-inch), NEVER barefoot, NO sneakers.
@@ -69,7 +69,7 @@ Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente
 
 ## IV. ESTRUCTURA CORPORAL (Hourglass Asset)
 
-- **Silueta:** `slender hourglass silhouette, full bust, extremely wide hips, tiny cinched waist`
+- **Silueta:** `slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, extremely wide hips, tiny cinched waist`
 - **Piel:** `white porcelain skin, smooth plastic texture, flawless from chin to toe`
 - **Tatuajes:** `visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, fine line tattoos on forearms`
 - **Piercings:** `navel piercing, nipple piercings pressing against and visible under clothing`
@@ -93,7 +93,7 @@ Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente
 Este bloque integra TODA la identidad. Úsalo como punto de partida para cualquier nueva instrucción:
 
 ```text
-[PHOTO STYLE], stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels. [OUTFIT DESCRIPTION]. [CALZADO TÉCNICO]. [POSE & EXPRESSION: vacant daze, mouth mindlessly open]. [SETTING & LIGHTING]. Rim lighting to define silhouette, high-gloss specularity.
+[PHOTO STYLE], stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels. [OUTFIT DESCRIPTION]. [CALZADO TÉCNICO]. [POSE & EXPRESSION: vacant daze, mouth mindlessly open]. [SETTING & LIGHTING]. Rim lighting to define silhouette, high-gloss specularity.
 ```
 
 ---

@@ -106,7 +106,7 @@ Cada prompt = **Bloque A + Bloque B + Bloque C**. Los 7 prompts solo varían en 
 ### Bloque A — ADN INAMOVIBLE (copiar textualmente, nunca modificar)
 
 ```
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm heel)
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm heel)
 ```
 
 > ⚠️ **Este bloque NO se resume, NO se interpreta, NO se recorta. Se copia exacto.**
@@ -128,7 +128,7 @@ Descripción técnica y sensorial de las prendas. Incluir:
 | 3 | **Seated View** | `seated` | `seated, crossed legs, editorial pose, [escenario], dramatic lighting` |
 | 4 | **Side Profile** | `side_profile` | `side profile silhouette, full body, emphasizing hourglass curve, [escenario]` |
 | 5 | **Ditzy Expression** | `ditzy` | `medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL nails, dazed artificial perfection, [escenario]` |
-| 6 | **POV — Goddess Gaze** | `pov` | `first-person POV looking down over own body, XXXL nails resting on outfit, full bust and outfit texture in foreground, perspective converging down to the pointed tips of the stiletto heels on [superficie]` |
+| 6 | **POV — Goddess Gaze** | `pov` | `first-person POV looking down over own body, XXXL nails resting on outfit, massive 1000cc spherical augmented bust and outfit texture in foreground, perspective converging down to the pointed tips of the stiletto heels on [superficie]` |
 | 7 | **Odalisque** | `odalisque` | `lying down on side, luxurious reclining odalisque pose, full body, one arm extended with XXXL nails visible, legs slightly bent at knee, [escenario], dramatic directional lighting, hyper-gloss specularity` |
 
 > Un look no está completo hasta tener las **7/7 poses**.
@@ -183,7 +183,7 @@ Descripción técnica y sensorial de las prendas. Incluir:
 `[Bloque A] [Bloque B] medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL nails, dazed artificial perfection, [escenario].`
 
 **PROMPT 6 — POV — Goddess Gaze:**
-`[Bloque A] [Bloque B] first-person POV looking down over own body, XXXL nails resting on outfit, full bust and outfit texture in foreground, perspective converging down to the pointed tips of the stiletto heels on [superficie].`
+`[Bloque A] [Bloque B] first-person POV looking down over own body, XXXL nails resting on outfit, massive 1000cc spherical augmented bust and outfit texture in foreground, perspective converging down to the pointed tips of the stiletto heels on [superficie].`
 
 **PROMPT 7 — Odalisque:**
 `[Bloque A] [Bloque B] lying down on side, luxurious reclining odalisque pose, full body, one arm extended with XXXL nails visible, legs slightly bent at knee, [escenario], dramatic directional lighting, hyper-gloss specularity.`

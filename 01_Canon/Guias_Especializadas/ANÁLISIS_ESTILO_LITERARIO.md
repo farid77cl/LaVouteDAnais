@@ -50,5 +50,42 @@ Casi todos los relatos terminan con una nota de la autora que:
 2.  Invita a la comunicación directa.
 3.  Utiliza una firma estilizada ("Con devoción oscura, Anaïs Belland").
 
+## 5. Patrones de Excitación Validados (Corpus Externo — Mayo 2026)
+
+*Fuente: análisis cruzado de 14 relatos de referencia seleccionados por la Ama contra las 5 Arquitecturas Eróticas + VADEMECUM. Documento completo: `ANÁLISIS_RELATOS_REFERENCIA.md`.*
+
+### Los 5 Patrones Que Más Excitan (empíricamente)
+
+| # | Patrón | Frecuencia en corpus (14 relatos) | Sección de guía que lo respalda |
+|---|--------|----------------------------------|--------------------------------|
+| 1 | **Pérdida gradual de agencia** — cada paso es un "no puedo volver" | 12/14 | MtF §VII, Bimbo §VIII, Terror §VI |
+| 2 | **El cuerpo como primer traidor** — excitación involuntaria antes del consentimiento mental | 10/14 | MtF §I-1, Bimbo §I-4, Skill §0c-4 |
+| 3 | **Ropa/objetos como vectores de transformación** — la prenda *hace* al personaje | 10/14 | MtF §V, VADEMECUM §II-III |
+| 4 | **Poder sistémico > sadismo individual** — dominantes eficientes, no crueles | 8/14 | Femdom §I-8, Skill §VII-6 |
+| 5 | **Identity Death con sonrisa** — el personaje *elige* quedarse porque ya no hay nadie que elija diferente | 9/14 | Bimbo §I-7, Terror §VI-5, Body Horror §I-3 |
+
+### La Jerarquía del Impacto
+
+Los 3 relatos con mayor score Voûte (≥82/100) comparten esta estructura:
+1. **Malika** (92) — Todos los ejes, twist del dispositivo muerto, poder sistémico
+2. **Sydney y las zapatillas** (85) — Hipnosis canónica, cuerpo traidor sostenido 10+ páginas
+3. **Bimbo.com** (82) — Countdown, degradación lingüística perfecta, ironía narrativa
+
+**Lección:** los relatos más potentes **sostienen la tensión horror+deseo** sin resolverla. Los que resuelven rápido (captions de Tumblr) excitan una vez. Los que la sostienen, se releen.
+
+## 6. Ventaja Competitiva de La Voûte (Diferenciadores vs. Nicho)
+
+El análisis del corpus externo revela un **déficit masivo** en la ficción erótica hispanohablante de transformación:
+
+| Déficit del nicho | Ejemplo en corpus | Cómo La Voûte lo capitaliza |
+|-------------------|------------------|-----------------------------|
+| **Sin sensorialidad** | *El Machismo* (#1): "Se puso el baby dool salmón" — sin textura, olor, temperatura | VADEMECUM §II-III: cada ritual ancla 2+ sentidos |
+| **Sin causalidad** | *El Machismo* (#1): cadena de coincidencias, no de consecuencias | Red Narrativa §II-1: cada evento CAUSA el siguiente |
+| **Sin residuo lúcido** | Captions Tumblr: conciencia eliminada instantáneamente | Skill §0c-3: siempre alguien observa desde adentro |
+| **Sin beat post-ritual** | *La Crisis* (#2): ritual narrado en una frase sin procesamiento | Skill §III: párrafo de disonancia obligatorio |
+| **Sin localización** | Todo el corpus EN: espacios genéricos | Skill §I: Chile real (Vitacura, Las Condes, CostaCentro) |
+
+**Conclusión operativa:** La Voûte no compite con estos relatos — los supera estructuralmente. El nicho hispanohablante de MtF/Bimbo/Hipnosis está dominado por "telling" sin "showing". Nuestra ventaja es la **densidad sensorial + causalidad + residuo lúcido** que ningún otro autor del segmento ofrece.
+
 ---
-*Este análisis es propiedad de La Voûte d'Anaïs y debe utilizarse para informar todos los borradores futuros, garantizando que cumplan con el estándar de excelencia de la marca.*
+*Este análisis es propiedad de La Voûte d'Anaïs y debe utilizarse para informar todos los borradores futuros, garantizando que cumplan con el estándar de excelencia de la marca. Actualizado mayo 2026 con corpus externo.*

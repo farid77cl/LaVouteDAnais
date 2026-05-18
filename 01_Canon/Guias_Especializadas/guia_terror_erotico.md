@@ -274,5 +274,26 @@ Pero diferente. Mal."
 
 ---
 
+## IX. Técnicas Validadas por Corpus Externo (Mayo 2026)
+
+*Fuente: relatos con score ≥78/100 en análisis cruzado. Ver `ANÁLISIS_RELATOS_REFERENCIA.md`.*
+
+### A. La Elipsis como Horror (*Ditzy Dolls Maid Service*, Sadie Thatcher)
+El personaje pierde un bloque de tiempo por condicionamiento. Al volver, tiene nueva ropa, nueva postura, nuevas palabras — sin saber cómo llegó ahí. **La elipsis ES la hipnosis para el lector.** Lo que no se narra es más perturbador que lo que sí.
+- Límite: **una elipsis por arco**. El exceso la normaliza.
+
+### B. El Twist del Dispositivo Muerto (*Malika*, Sadie Thatcher)
+El mecanismo de control (chip, droga, hipnosis) dejó de funcionar hace tiempo. El personaje sigue obedeciendo porque el condicionamiento ya es interno. La revelación de que la sumisión es *propia* es el golpe maestro del terror psicológico.
+- Plantar como twist en el clímax, nunca antes.
+
+### C. Hipnosis Canónica por Ciclos (*Sydney y las zapatillas*, Sigma)
+Estructura de condicionamiento en ciclos repetidos: estímulo → resistencia → orgasmo involuntario → sugestión → pausa → nuevo ciclo con resistencia reducida. Cada ciclo erosiona un fragmento de identidad específico (primero el nombre, luego las preferencias, luego la voluntad).
+- Funciona cuando cada ciclo se narra completo (no resumido).
+
+### D. Poder Sistémico como Terror (*Malika*, *Ditzy Dolls*, *Melanie*)
+El horror más efectivo no viene de un monstruo sino de un **sistema eficiente**: la empresa, el contrato, la evaluación de desempeño. La transformación tratada como onboarding corporativo. Ms. Hathaway no es cruel — es *administrativa*. Thomas no es sádico — es *gerencial*.
+
+---
+
 *Guía compilada y análisis realizado por Helena de Anaïs* 🦇
 

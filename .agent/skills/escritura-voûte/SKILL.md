@@ -1,6 +1,6 @@
 ---
 name: escritura-voûte
-description: Motor de escritura del universo "La Voûte d'Anaïs". Produce ficción erótica con voz canónica calibrada contra los relatos más exitosos del universo. Antes de escribir cualquier escena, carga el VADEMECUM_SENSORIAL.md para anclar la voz. Especializado en MtF (circuito de traición, cuerpo descubierto desde adentro), BDSM, Hipnosis/Condicionamiento, Bimbo, Horror Psicológico. Localización chilena. Sistema de correcciones activo.
+description: Motor de escritura del universo "La Voûte d'Anaïs". Produce ficción erótica con voz canónica calibrada contra los relatos más exitosos del universo + corpus externo de referencia (14 relatos analizados, mayo 2026). Antes de escribir cualquier escena, carga el VADEMECUM_SENSORIAL.md para anclar la voz. Especializado en MtF (circuito de traición, cuerpo descubierto desde adentro), BDSM, Hipnosis/Condicionamiento, Bimbo, Horror Psicológico. Localización chilena. Sistema de correcciones activo. Incluye §VII Técnicas de Referencia Empírica y §VIII Anti-patrones.
 ---
 
 # 📜 Protocolo Maestro de Escritura: La Voûte
@@ -226,3 +226,103 @@ Toda corrección indicada por la Ama genera tres acciones obligatorias en el **m
 **Regla de cierre:** Una corrección solo es ✅ cuando cumple las tres condiciones. Si alguna queda pendiente, el estado en CORRECCIONES.md permanece ⬜.
 
 Al iniciar cada sesión, leer `resources/CORRECCIONES.md` y verificar si quedan entradas ⬜ — son deuda activa que debe resolverse antes de continuar.
+
+---
+
+## VII. 🎯 Técnicas de Referencia Empírica (Corpus Externo)
+
+*Fuente: análisis cruzado de 14 relatos de referencia seleccionados por la Ama (mayo 2026). Documento completo: `01_Canon/Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md`.*
+
+Estas técnicas se observan en los relatos con mayor score de alineamiento Voûte (≥75/100) y deben integrarse al oficio:
+
+### 1. 📉 Degradación Lingüística Medible
+**Fuente:** *Bimbo.com* (Hypnoman), *Malika* (Sadie Thatcher)
+
+El vocabulario del personaje se deteriora de forma **cuantificable** a lo largo del relato. No basta con decir "hablaba peor" — el lector debe poder *medir* la caída.
+
+**Marcadores obligatorios para escenas de bimboficación/condicionamiento:**
+- Muletillas crecientes ("esteeeee", "como que", "es como...")
+- Referencia a sí mismo en 3ª persona ("Mali quiere", "Mandy está lista")
+- Pérdida progresiva de oraciones compuestas → oraciones simples → fragmentos
+- Sustitución de nombre propio por apodo impuesto (Viola → Vivi, Sydney → Piernas Foxy)
+- Acento o idioma forzado como marca de propiedad (el francés de Melanie, el falso asiático de Mali)
+
+**Aplicación:** cada capítulo debe tener un *delta lingüístico* medible respecto al anterior. Si el personaje habla igual en el capítulo 5 que en el 1, la bimboficación falló.
+
+### 2. 🔢 Dato Numérico como Ancla de Degradación
+**Fuente:** *Melanie* (Sadie Thatcher — el billete de $1), *Bimbo.com* (las 48 horas)
+
+Un número concreto vale más que mil adjetivos para anclar la magnitud de la caída. El contraste entre la cifra y lo que el personaje cree que vale es devastador.
+
+**Implementación:**
+- Insertar al menos **un dato numérico de contraste** por capítulo en arcos de degradación
+- El número debe ser específico y cotidiano, no hiperbólico
+- Ejemplos de patrones: precio pagado por un servicio sexual vs. sueldo anterior; número de horas de condicionamiento; medidas exactas de implantes; conteo de orgasmos involuntarios
+
+### 3. ⬛ Elipsis como Horror (El Blackout Narrativo)
+**Fuente:** *Ditzy Dolls Maid Service* (Sadie Thatcher)
+
+El salto temporal no explicado — donde el personaje (y el lector) pierden un bloque de tiempo — es una técnica hipnótica que funciona *en el lector*. Lo que no se narra es más perturbador que lo que sí.
+
+**Implementación:**
+- Usar "———" o corte de escena donde el personaje pierde conciencia por condicionamiento
+- Al volver, el personaje tiene nueva ropa, nueva postura, nuevas palabras — sin saber cómo llegó ahí
+- La regla: **una elipsis por arco**, no más. El exceso anula el impacto.
+
+### 4. 🔄 El Twist del Dispositivo Muerto
+**Fuente:** *Malika* (Sadie Thatcher)
+
+El dispositivo de control (chip, hipnosis, droga, app) **dejó de funcionar hace tiempo**, pero el personaje sigue obedeciendo porque el condicionamiento ya es interno. La revelación de que la sumisión es *propia* es el golpe maestro.
+
+**Implementación:**
+- Plantar la revelación como twist en el clímax psicológico del arco, no antes
+- Funciona mejor cuando el personaje lleva varios capítulos atribuyendo su obediencia a un factor externo
+- Compatible con cualquier eje: MtF ("las hormonas nunca fueron reales"), Bimbo ("la app no hace nada"), Femdom ("ella nunca te obligó")
+
+### 5. ⏱️ Cuenta Regresiva como Motor de Urgencia
+**Fuente:** *Bimbo.com* (Hypnoman)
+
+Un deadline visible (48 horas, medianoche, el fin de la dosis) convierte la transformación en una carrera contra el reloj. La tensión no viene del *qué* sino del *cuándo*.
+
+**Implementación:**
+- Funciona para relatos de transformación con catalizador temporal
+- El reloj debe ser visible para el personaje Y para el lector
+- La urgencia multiplica cada decisión: cada hora gastada investigando es una hora menos de humanidad
+
+### 6. 🏢 Poder Sistémico > Sadismo Individual
+**Fuente:** *Malika*, *Ditzy Dolls*, *Melanie* (las tres de Sadie Thatcher)
+
+Los dominantes más efectivos del corpus no son sádicos — son **eficientes**. Tratan la transformación como un proceso de negocio: onboarding, KPIs, evaluación de desempeño. La crueldad administrativa es más perturbadora que la violencia explícita.
+
+**Implementación:**
+- El dominante habla en tono empresarial, no en tono villano
+- Usar vocabulario corporativo para actos de dominación ("rendimiento", "objetivos", "tu función")
+- La frase del dominante no es "te voy a destruir" sino "esto es lo más eficiente para ambos"
+
+---
+
+## VIII. 🚫 Anti-patrones (Lo Que NUNCA Hacer — Empírico)
+
+*Fuente: errores identificados en el corpus externo que violan los principios del VADEMECUM y las Arquitecturas.*
+
+### 1. ❌ Transformación Instantánea
+El personaje cambia de un párrafo al siguiente sin gradualidad. **Viola las guías:** Bimbo §VIII (5 etapas), MtF §VII (curva de rendición), Terror Erótico §VI (arco de 5 actos).
+- *Detectado en:* captions cortos de Tumblr (#5, #8, #12)
+- *La regla:* si la transformación ocupa menos de 3 beats narrativos, es un caption, no un relato Voûte.
+
+### 2. ❌ Eliminación Total de la Conciencia
+El personaje pierde toda lucidez y se convierte en autómata feliz sin resistencia. **Viola:** Skill §0c-3 (residuo lúcido), todas las guías §I.
+- *La regla:* siempre debe quedar alguien adentro que observe. La voz puede ser un susurro, pero debe existir.
+
+### 3. ❌ Narración sin Sensorialidad ("Telling" Puro)
+Se describe qué pasa pero no cómo se siente. "Le pusieron un vestido" vs. "la seda se deslizó sobre su piel depilada como agua tibia". **Viola:** VADEMECUM §II-III entero.
+- *Detectado en:* relatos en español del corpus (#1, #2) — el nicho hispanohablante tiene un déficit sensorial masivo que La Voûte capitaliza.
+- *La regla:* cada ritual necesita al menos 2 de los 5 sentidos anclados (textura + olor, sonido + temperatura, etc.).
+
+### 4. ❌ Sexo Decorativo
+Escenas sexuales que se pueden quitar sin que la trama cambie. **Viola:** Terror Erótico §IV ("si puedes quitar el sexo sin afectar el horror, NO es terror erótico").
+- *La regla:* cada escena sexual debe cambiar algo irreversiblemente — el estado del cuerpo, la jerarquía de poder, o la psique del personaje.
+
+### 5. ❌ Dominante Plano
+El antagonista sin motivación, backstory ni textura psicológica. Solo existe para "hacer cosas malas". **Viola:** Femdom §I (8 núcleos), Análisis de Estilo §3.
+- *La regla:* el dominante debe tener al menos UNA motivación que el lector entienda (no comparta, entienda). "Me gustó cómo sostenías tu taza" > "soy malvado porque sí".

@@ -32,7 +32,7 @@
 Este bloque se repite **idéntico** en cada prompt del mismo set. No se recorta, no se "optimiza", no se interpreta.
 
 ```
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm heel)
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm heel)
 ```
 
 ---
@@ -68,7 +68,7 @@ El rubio platino pertenece a la fase gótica archivada (pre-V3). Está prohibido
 
 ### Cuerpo
 
-- **Silueta:** `slender hourglass silhouette, full bust, extremely wide hips, tiny cinched waist`
+- **Silueta:** `slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, extremely wide hips, tiny cinched waist`
 - **Tatuajes:** `visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs`
 - **Piercings:** `navel piercing` + `14k white gold nipple piercings pressing against and visible under clothing`
 - **Uñas:** `extra long French XXXL nails with white tips and pink base 5cm` — 5cm mínimo, siempre visibles
