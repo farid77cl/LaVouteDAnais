@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 18/05/2026 (CIERRE /actualizar_sesion — consolidado) ✅
+- **Jornada completa:** (1) Mutación ADN busto **1000cc** Hard-Sync (8 archivos autoridad + galería 185-210; historia 1-184 intacta). (2) **Regla Anti-Repetición Cromática** codificada en identidad_ele. (3) 15 looks nuevos / 105 prompts en 3 batches (201-205, 206-210). (4) Anomalía concurrente ×2 gestionada con `git restore` (Looks 188/189/190 protegidos, NO `git add .` ciego). (5) READMEs raíz + 00_Ele sincronizados.
+- **Estado canónico:** ADN V3.5 = busto 1000cc esférico ultra-alto obviamente artificial (≥Look 185, inamovible). Regla Anti-Repetición Cromática activa. Excepción anti-black solo donde la Ama lo documente y feche.
+- **Estadística:** Flota **210**/185. Mix 157 (74.8%). Lencería 21 (10.0% ✅). Gym 10 (4.8% ✅). Bikini 22 (10.5%). Materialización pendiente (cuota API; concurrentes en 188-190).
+
 ### Sesión 18/05/2026 (Batch 206-210 — Anti-Repetición aplicada) ✅
 - **Looks 206-210 registrados** (35 prompts V3.5 Hard-Sync, busto 1000cc): 206 Crimson Cathedral (Mix/High-Fashion, deep crimson) · 207 Copper Hearth Doll (Mix/Domestic, cobre) · 208 Teal Monolith (Mix/Corporate, deep teal) · 209 Rose Gold Reliquary (Lencería, rose gold→flamingo) · 210 Coral Bombshell (Mix/Pin-Up, neon coral-orange). 4 Mix + 1 Lencería.
 - **Regla Anti-Repetición aplicada por 1ª vez en propuesta completa:** familias 100% distintas (Rojos/Dorados/Teales/Rosas/Naranjas), ninguna en ventana de 5; Cherry solo pelo/labios; modos rotados (Contraste/Neutro+Pop/Monoblock/Gradiente/Triada).

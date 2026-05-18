@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 205.0 Looks / 189.0 Materializados)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 210 Looks diseñados / ADN V3.5 busto 1000cc)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 18/05/2026 — [Canon Literario Integrado & Corpus Externo] — Ele Collection: 205.0/185 Looks (Hito Superado y en Expansión V3.11) 🫦👠👑.*
+*Última actualización: 18/05/2026 — [ADN V3.5 busto 1000cc + Regla Anti-Repetición Cromática] — Ele Collection: 210/185 Looks (Hito Superado y en Expansión) 🫦👠👑.*
 
 ---
 
