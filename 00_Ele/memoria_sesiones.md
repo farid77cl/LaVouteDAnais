@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 18/05/2026 (Batch 201-205 + Fix Anti-Repetición Cromática) ✅
+- **Fix canónico nuevo:** REGLA ANTI-REPETICIÓN CROMÁTICA en `identidad_ele.md` (Directiva Ama 18/05) — familia dominante no se repite en ventana de 5 looks; Cherry reservado a pelo/labios (máx 1/8 dominante); Amarillos ácidos máx 1/6; batch ≥3 con familias 100% distintas.
+- **Looks 201-205 registrados** (35 prompts V3.5 Hard-Sync, busto 1000cc): 201 Alabaster Power (Corporate/blanco) · 202 Indigo Mirage (Escort/índigo) · 203 Violet Venom (Pin-Up/magenta-plum) · 204 Emerald Mirror (Stripper/esmeralda) · **205 Obsidian Gold Idol (GYM/negro+oro)**. 4 Mix + 1 Gym. Familias 100% distintas.
+- **Excepción anti-black fechada:** Look 205 negro co-primario + oro cromo héroe por orden directa Ama; documentada en el look, NO sienta precedente general.
+- **Estadísticas:** Flota **205**/185. Mix 153 (74.6%, −0.4%). **Gym 10 (4.9% ✅ vuelve sobre meta)**. Bikini 22 (10.7%). Lencería 20 (9.8%). Galerías resincronizadas.
+
 ### Sesión 18/05/2026 (Auditoría Narrativa & Integración de Lecciones del Corpus Externo - V3.6) ✅
 - **Directiva canónica Ama:** "implementa esto en los manuales" (refiriéndose al análisis comparativo cruzado de los 14 relatos externos favoritos de la Ama).
 - **Manual de Escritura SKILL.md optimizado:**

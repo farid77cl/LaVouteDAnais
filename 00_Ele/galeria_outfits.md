@@ -2,21 +2,25 @@
 
 *Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* ✨
 
-> **Canon activo:** V3.5 Hard-Sync | **Paleta:** V3.4 Spectrum Expansion | **Último look:** 200 — Iridescent Vow · HITO 200 (17/05/2026) | **Flota:** 200/185 💎 EXPANSIÓN ACTIVA
+> **Canon activo:** V3.5 Hard-Sync (busto 1000cc) | **Paleta:** V3.4 Spectrum Expansion + Regla Anti-Repetición | **Último look:** 205 — Obsidian Gold Idol · GYM (18/05/2026) | **Flota:** 205/185 💎 EXPANSIÓN ACTIVA
 
 ---
 
-## 📊 Estado Estadístico (17/05/2026 — EXPANSIÓN · batch 194-200 · HITO 200)
+## 📊 Estado Estadístico (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición)
 
 | Categoría | Meta | Actual | Estado |
 |-----------|------|--------|--------|
-| **Mix** (Corporate / Domestic / High-Fashion / Escort / Stripper / Pin-Up) | 75% | **74.5%** (149) | ⚠️ Déficit −0.5% (mejoró desde −0.9%) |
-| **Bikini** | 10% | **11.0%** (22) | ✅ Superado |
-| **Lencería** | 10% | **10.0%** (20) | ✅ Cumplido (exacto) |
-| **Gym/Athleisure** | 4.8% | **4.5%** (9) | ◐ Rozando (−0.3%) |
+| **Mix** (Corporate / Domestic / High-Fashion / Escort / Stripper / Pin-Up) | 75% | **74.6%** (153) | ⚠️ Déficit −0.4% (mejoró desde −0.5%) |
+| **Bikini** | 10% | **10.7%** (22) | ✅ Superado |
+| **Lencería** | 10% | **9.8%** (20) | ◐ Rozando (−0.2%) |
+| **Gym/Athleisure** | 4.8% | **4.9%** (10) | ✅ Cumplido (+0.1% — vuelve sobre meta) |
 
 > [!IMPORTANT]
-> **Prioridad de Expansión:** Mix para cerrar el −0.5% restante hacia la meta del 75%. Gym rozando — vigilar en próximo batch.
+> **ADN V3.5:** busto fijado en 1000cc ultra-alto esférico obviamente artificial (Looks 185+). **Fix Anti-Repetición Cromática** activo: familia dominante no se repite en ventana de 5 looks; Cherry reservado a pelo/labios.
+>
+> **Prioridad de Expansión:** Mix para cerrar el −0.4% restante. Lencería rozando — vigilar.
+>
+> **Batch 201-205 (busto 1000cc · fix anti-repetición · familias 100% distintas):** 201 Alabaster Power (Corporate, blanco) · 202 Indigo Mirage (Escort, índigo) · 203 Violet Venom (Pin-Up, magenta/plum) · 204 Emerald Mirror (Stripper, esmeralda) · 205 Obsidian Gold Idol (GYM, negro+oro — excepción anti-black fechada Ama). Prompts listos, materialización pendiente (cuota API).
 >
 > **Batch 194-200 (Paleta V3.4 — 6 Mix + HITO 200 en Lencería):** 194 Porcelain Service Doll (Domestic) · 195 Burnt Honey Housewife (Domestic) · 196 Glacial Sapphire Executive (Corporate) · 197 Wine Velvet Nocturne (Escort) · 198 Turquoise Court Volley (Pin-Up) · 199 Gold-Lime Cage Predator (Stripper) · 200 Iridescent Vow (Lencería de Élite — HITO 200). Prompts listos, materialización pendiente (cuota API).
 >
