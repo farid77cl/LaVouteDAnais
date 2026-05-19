@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 19/05/2026 (Regla de Variación de Silueta + rediseño 5 gemelos) ✅
+- **Fix canónico nuevo:** REGLA DE VARIACIÓN DE SILUETA en `identidad_ele.md` (Directiva Ama 19/05) + Biblioteca de Siluetas (5×8 subcategorías). Gobierna silueta independiente del color: ventana de 3 por subcategoría, prohibido "misma prenda otro color", calzado desacoplado, no clonar firma intra-batch.
+- **Rediseñados 5 gemelos** (familia de color preservada, 7 poses + metadata coherentes, verificado 0 refs viejas): 199 *Showgirl Armor* (corset-leotard+cola) · 204 *Bandcage* (strap-band dress) · 208 *Sirène Obi* (one-shoulder+obi, sin hombro-pico) · 209 *Strap Idol* (teddy ouvert+O-ring) · 210 *Sweetheart Bombshell* (sundress 50s+crinolina).
+- **Anclas intactas:** L190 (1/7 materializado, in-progress), L200 (HITO), L196/L203 (referencia). Bikini sin tocar (orden Ama).
+- **Estado:** Flota se mantiene 210 (rediseño, no alta). Galerías resincronizadas. Materialización pendiente.
+
 ### Sesión 19/05/2026 (Materialización Completada 190 & Avance 191) ✅
 - **Look 190 (Toxic Chartreuse Pole Predator) COMPLETADO 7/7 Poses:** Generadas con éxito las 6 poses restantes (Standing, Seated, Side Profile, Ditzy, POV, Odalisque) bajo el canon V3.5 Hard-Sync (busto 1000cc, tacones acrílicos de 16", arnés de cristal y vinilo chartreuse). Directorio local completo y `README.md` actualizado.
 - **Look 191 (Peacock Teal Escort Suprema) INICIADO 3/7 Poses:** Creado el directorio oficial para la escolta real de Sanhattan en satén teal y bustier peacock. Materializadas con éxito las poses **Standing, Backview y Seated**.

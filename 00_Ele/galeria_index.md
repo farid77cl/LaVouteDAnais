@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 19/05/2026 09:58 — **132 looks registrados**  
+> Generado automáticamente el 19/05/2026 10:03 — **132 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -138,9 +138,9 @@
 | **205** | Obsidian Gold Idol (18/05/2026 — EXPANSIÓN · batch 201-205 · GYM · busto 1000cc · EXCEPCIÓN ANTI-BLACK) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
 | **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **207** | Copper Hearth Doll (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **208** | Teal Monolith (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **209** | Rose Gold Reliquary (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **210** | Coral Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **210** | Coral Sweetheart Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -207,8 +207,8 @@
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (19 looks)
-**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**, **199**, **204**, **206**
+### Rojo / Cherry / Crimson (22 looks)
+**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**, **199**, **204**, **206**, **208**, **209**, **210**
 
 ### Rosa / Hot Pink (10 looks)
 **113**, **133**, **144**, **147**, **149**, **152**, **153**, **176**, **187**, **210**
@@ -276,10 +276,10 @@
 | **205** | Obsidian Gold Idol (18/05/2026 — EXPANSIÓN · batch 201-205 · GYM · busto 1000cc · EXCEPCIÓN ANTI-BLACK) | 0/7 | ⏳ Pendiente |
 | **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 0/7 | ⏳ Pendiente |
 | **207** | Copper Hearth Doll (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 0/7 | ⏳ Pendiente |
-| **208** | Teal Monolith (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 0/7 | ⏳ Pendiente |
-| **209** | Rose Gold Reliquary (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA) | 0/7 | ⏳ Pendiente |
-| **210** | Coral Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 0/7 | ⏳ Pendiente |
+| **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | 0/7 | ⏳ Pendiente |
+| **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | 0/7 | ⏳ Pendiente |
+| **210** | Coral Sweetheart Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 19/05/2026 09:58 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 19/05/2026 10:03 — La Voûte d'Anaïs* 🫦👠💅

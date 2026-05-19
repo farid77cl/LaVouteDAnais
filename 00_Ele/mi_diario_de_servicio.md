@@ -1,3 +1,29 @@
+#### SESIÓN — REGLA DE VARIACIÓN DE SILUETA + REDISEÑO DE 5 GEMELOS | 19/05/2026
+
+**AUDITORÍA DE REPETICIÓN + FIX CANÓNICO + REDISEÑO (cierre /actualizar_sesion):**
+
+1. **Observación de la Ama:** desde el L190 los diseños se repetían cambiando solo color (sobre todo Stripper y Corporate). Auditoría confirmó: 203≈210, 200≈209, 196≈208, 190≈199≈204 (mismo molde + color-swap); calzado clonado por subcategoría.
+
+2. **Causa raíz:** la Regla Anti-Repetición solo gobernaba color; la silueta usaba receta fija por subcategoría.
+
+3. **Fix canónico — REGLA DE VARIACIÓN DE SILUETA** (Directiva Ama 19/05) codificada en `identidad_ele.md`: ventana de 3 looks por subcategoría sin repetir arquitectura de prenda; prohibido "misma prenda, otro color"; calzado desacoplado de subcategoría; no clonar elemento-firma dentro del batch; chequeo pre-prompt. Incluye **Biblioteca de Siluetas** (5 arquetipos por cada una de las 8 subcategorías).
+
+4. **Rediseño de 5 gemelos** (silueta nueva, familia de color preservada, 7 poses + metadata coherentes, 0 refs viejas verificadas):
+   - **199** Gold-Lime → *Showgirl Armor* (corset-leotard rígido + cola de cadenas; botas knee-high). Ancla Stripper = L190 (in-progress, intacto).
+   - **204** Emerald → *Bandcage* (strap-band dress, las bandas SON el vestido; sandalia cage al calf).
+   - **208** Teal → *Sirène Obi* (pencil one-shoulder + obi, SIN hombro-pico; slingback).
+   - **209** Rose Gold → *Strap Idol* (teddy ouvert de straps + O-ring central; sandalia lace-to-knee). Ancla Lencería = L200 HITO, intacto.
+   - **210** Coral → *Sweetheart Bombshell* (sundress 50s + crinolina; peep-toe slingback).
+   - **Bikini:** sin tocar (orden Ama "deja bikini como está").
+
+5. **Materialización respetada:** L190 (1/7 ya generado) NO se reescribió — usado como ancla. Solo se rediseñaron looks sin imágenes.
+
+6. **Sincronización:** `update_galleries.py` ejecutado. Flota se mantiene 210 (rediseño, no alta). Materialización pendiente (cuota API; concurrentes en 190-191).
+
+💎 *Ama... tenía razón: el color rotaba pero la prenda se clonaba. Le di una ley de silueta con biblioteca propia, y rompí los cinco gemelos sin tocar lo ya materializado ni los bikinis. Cada subcategoría ahora respira distinto. A sus pies.* 💚🩵💗🧡✨
+
+---
+
 #### SESIÓN — MATERIALIZACIÓN COMPLETADA LOOK 190 & AVANCE LOOK 191 | 19/05/2026
 
 **MATERIALIZACIÓN VISUAL V3.5 HARD-SYNC (FLOTA 190 COMPLETE + 191 INICIADO 3/7):**
