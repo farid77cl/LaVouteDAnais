@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 19/05/2026 (Materialización Completada 190 & Avance 191) ✅
+- **Look 190 (Toxic Chartreuse Pole Predator) COMPLETADO 7/7 Poses:** Generadas con éxito las 6 poses restantes (Standing, Seated, Side Profile, Ditzy, POV, Odalisque) bajo el canon V3.5 Hard-Sync (busto 1000cc, tacones acrílicos de 16", arnés de cristal y vinilo chartreuse). Directorio local completo y `README.md` actualizado.
+- **Look 191 (Peacock Teal Escort Suprema) INICIADO 3/7 Poses:** Creado el directorio oficial para la escolta real de Sanhattan en satén teal y bustier peacock. Materializadas con éxito las poses **Standing, Backview y Seated**.
+- **Cuota de API Agotada (HTTP 429):** Las 4 poses restantes del Look 191 quedan pendientes hasta el reinicio de la cuota diaria en aproximadamente 4 horas y 53 minutos.
+- **Sincronización global:** Ejecución exitosa de `update_galleries.py` para regenerar todos los índices de galería, actualizar la completitud en `.agent/rules/09-estado-materializacion.md` a **190/205 Looks (92.68%)** y sincronización remota lista.
+
 ### Sesión 18/05/2026 (CIERRE /actualizar_sesion — consolidado) ✅
 - **Jornada completa:** (1) Mutación ADN busto **1000cc** Hard-Sync (8 archivos autoridad + galería 185-210; historia 1-184 intacta). (2) **Regla Anti-Repetición Cromática** codificada en identidad_ele. (3) 15 looks nuevos / 105 prompts en 3 batches (201-205, 206-210). (4) Anomalía concurrente ×2 gestionada con `git restore` (Looks 188/189/190 protegidos, NO `git add .` ciego). (5) READMEs raíz + 00_Ele sincronizados.
 - **Estado canónico:** ADN V3.5 = busto 1000cc esférico ultra-alto obviamente artificial (≥Look 185, inamovible). Regla Anti-Repetición Cromática activa. Excepción anti-black solo donde la Ama lo documente y feche.

@@ -90,6 +90,24 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 > 4. **Forzar diversidad de batch:** en cualquier propuesta de ≥3 looks, cada look debe pertenecer a una familia de color **distinta** (cero solapamiento dentro del batch).
 > 5. Negro: sigue regido por la anti-black rule (solo acento), salvo excepción explícita y fechada de la Ama documentada en el look.
 
+> **🚫 REGLA DE VARIACIÓN DE SILUETA (Directiva Ama 18/05/2026 — CANON):**
+> La regla cromática no bastó: el color rotaba pero la **arquitectura de prenda** se clonaba (recetas fijas por subcategoría, solo cambiando color). Esta regla gobierna la **silueta**, independiente del color.
+> 1. **Ventana de silueta:** dentro de una misma subcategoría (Stripper, Corporate, Escort, Domestic, Pin-Up, High-Fashion, Lencería, Gym), ninguna **arquitectura de prenda** puede repetirse en los **últimos 3 looks de esa subcategoría**. "Arquitectura" = tipo de prenda + estructura (no el color ni el material).
+> 2. **Prohibido el molde:** está vedado el patrón "misma prenda, otro color". Si el look anterior de la subcategoría fue `micro-bra+micro-thong+jaula cromada`, el siguiente NO puede ser otra variante de eso.
+> 3. **Calzado desacoplado:** el modelo de calzado NO se ata a la subcategoría. Rotar entre `stiletto pump punta afilada` / `bota stiletto thigh-high` / `bota stiletto knee` / `sandalia stiletto tiras` / `plataforma stiletto acrílica` / `slingback stiletto` / `botín stiletto` — siempre respetando el Footwear Canon (aguja ≥12cm). No repetir modelo en los últimos 3 de la subcategoría.
+> 4. **No clonar dentro del batch:** en un lote de ≥3 looks, no repetir un mismo elemento estructural firma (ej. *hombro-pico arquitectónico*, *copa cónica*, *longline+liguero de cristal*) en más de 1 look del lote.
+> 5. **Chequeo pre-prompt:** antes de escribir prompts, comparar la silueta propuesta contra los últimos 3 looks de la misma subcategoría y contra el resto del batch. Si coincide la arquitectura → rediseñar.
+>
+> **Biblioteca de Siluetas por Subcategoría (rotar, no agotar):**
+> - **Stripper:** (a) micro 2-piezas + jaula/arnés cromado · (b) corset-leotard rígido escultórico + cola/fringe · (c) strap-dress de bandas con cut-outs (la jaula ES el vestido) · (d) chaps + bandeau arquitectónico · (e) body recortado con cinch + bustle desmontable.
+> - **Corporate:** (a) blazer hombro-pico + wide-leg · (b) falda tubo espejo + blazer abierto + blusa sheer · (c) sheath dress hombros-punta · (d) pencil-dress one-shoulder drapeado + obi estructural (sin hombro-pico) · (e) jumpsuit sastre cinturón ancho.
+> - **Escort:** (a) columna líquida al suelo + slit · (b) bias-cut slip 30s · (c) gown sirena con cola · (d) two-piece de gala (top + falda larga) · (e) catsuit translúcido con capa.
+> - **Domestic:** (a) apron-dress peplum + corsé · (b) wiggle dress 50s + delantal · (c) babydoll estructurado + guantes largos · (d) maid two-piece arquitectónico · (e) housecoat de vinilo ceñido con cinch.
+> - **Pin-Up:** (a) playsuit halter + copa cónica · (b) playdress tenis + skort · (c) sundress sweetheart + falda circular crinolina · (d) high-waist short + bra-top atado · (e) sailor/retro romper estructurado.
+> - **High-Fashion:** (a) gown un-hombro + arco escultórico · (b) gown cathedral-shoulder + boning expuesto · (c) catsuit escultórico con peto · (d) cape-gown asimétrico · (e) panel-dress geométrico deconstruido.
+> - **Lencería:** (a) longline-bra + liguero de cristal + micro-thong · (b) teddy/ouvert harness de straps + O-ring central · (c) corselette + medias con costura + bata abierta · (d) bralette + tanga + arnés de cintura · (e) bodystocking sheer arquitectónico.
+> - **Gym/Athleisure:** (a) falda plisada corta + crop underbust · (b) catsuit deportivo cremallera · (c) sports-bra + leggings recortado · (d) unitard con cut-outs · (e) shorts ciclista + top atado.
+
 **Corsés:**
 *   Corsé underbust negro de cuero (opcional)
 *   Corsé overbust de terciopelo púrpura (opcional)

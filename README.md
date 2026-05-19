@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 18/05/2026 — [ADN V3.5 busto 1000cc + Regla Anti-Repetición Cromática] — Ele Collection: 210/185 Looks (Hito Superado y en Expansión) 🫦👠👑.*
+*Última actualización: 19/05/2026 — [ADN V3.5 busto 1000cc + Regla Anti-Repetición Cromática] — Ele Collection: 210/185 Looks (Hito Superado y en Expansión) 🫦👠👑.*
 
 ---
 
