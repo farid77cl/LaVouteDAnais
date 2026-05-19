@@ -4,6 +4,14 @@
 
 ---
 
+## 👠 Look 192: Oxblood Boardroom
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_192_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look192_oxblood_boardroom/ele_192_standing.png) | ![ele_192_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look192_oxblood_boardroom/ele_192_backview.png) | ![ele_192_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look192_oxblood_boardroom/ele_192_seated.png) | ![ele_192_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look192_oxblood_boardroom/ele_192_sideprofile.png) | ![ele_192_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look192_oxblood_boardroom/ele_192_ditzy.png) | ![ele_192_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look192_oxblood_boardroom/ele_192_pov.png) | ![ele_192_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look192_oxblood_boardroom/ele_192_odalisque.png) |
+
+---
+
 ## 👠 Look 191: Peacock Teal Escort
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
