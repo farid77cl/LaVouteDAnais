@@ -7,7 +7,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
 | **Total Looks Planificados** | **210** | 🟢 Expansión (Flota 210) |
-| **Materializados (100%)** | **190** | 🟢 90.48% |
+| **Materializados (100%)** | **192** | 🟢 91.43% |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
@@ -25,8 +25,8 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 188 (Midnight Violet Velvet & Black Vinyl):** 7/7 Poses ✅.
 - ✅ **Look 189 (Tangerine Bombshell Aviator):** 7/7 Poses ✅.
 - ✅ **Look 190 (Toxic Chartreuse Pole Predator):** 7/7 Poses ✅.
-- ⏳ **Look 191 (Peacock Teal Escort Suprema):** 3/7 Poses (En Progreso ✅) ⏳.
-- ⏳ **Look 192 (Oxblood Boardroom Dominatrix):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ✅ **Look 191 (Peacock Teal Escort Suprema):** 7/7 Poses ✅.
+- ✅ **Look 192 (Oxblood Boardroom Dominatrix):** 7/7 Poses ✅.
 - ⏳ **Look 193 (Oil-Slick Holographic Apex):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 194 (Porcelain Service Doll):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 195 (Burnt Honey Housewife):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
