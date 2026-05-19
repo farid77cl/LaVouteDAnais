@@ -6,9 +6,9 @@
 
 ## 👠 Look 191: Peacock Teal Escort
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_191_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_standing.png) | ![ele_191_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_backview.png) | ![ele_191_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_seated.png) | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_191_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_standing.png) | ![ele_191_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_backview.png) | ![ele_191_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_seated.png) | ![ele_191_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_sideprofile.png) | ![ele_191_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_ditzy.png) | ![ele_191_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_pov.png) | ![ele_191_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look191_peacock_teal_escort/ele_191_odalisque.png) |
 
 ---
 
