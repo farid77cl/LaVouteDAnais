@@ -6,8 +6,8 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **205** | 🟢 Expansión (Hito 200+) |
-| **Materializados (100%)** | **190** | 🟢 92.68% |
+| **Total Looks Planificados** | **210** | 🟢 Expansión (Flota 210) |
+| **Materializados (100%)** | **190** | 🟢 90.48% |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
@@ -33,13 +33,18 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ⏳ **Look 196 (Glacial Sapphire Executive):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 197 (Wine Velvet Nocturne):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 198 (Turquoise Court Volley):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 199 (Gold-Lime Cage Predator):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 199 (Gold-Lime Showgirl Armor):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
 - ⏳ **Look 200 (Iridescent Vow):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Hito 200) ⏳.
 - ⏳ **Look 201 (Alabaster Power):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 202 (Indigo Mirage):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 203 (Violet Venom):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 204 (Emerald Mirror):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 204 (Emerald Bandcage):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
 - ⏳ **Look 205 (Obsidian Gold Idol):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 206 (Crimson Cathedral):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 207 (Copper Hearth Doll):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 208 (Teal Sirène Obi):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
+- ⏳ **Look 209 (Rose Gold Strap Idol):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Lencería · Silueta Rediseñada) ⏳.
+- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 ---
