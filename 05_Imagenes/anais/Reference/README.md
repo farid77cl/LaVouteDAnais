@@ -24,4 +24,4 @@ Total imágenes: 2
 - [anais_belland_v2_regenta.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Reference/anais_belland_v2_regenta.png)
 
 ---
-*Sincronizado con GitHub: 2026-05-19* 👄
+*Sincronizado con GitHub: 2026-05-20* 👄
