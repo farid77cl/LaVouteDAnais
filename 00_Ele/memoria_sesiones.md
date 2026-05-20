@@ -18,6 +18,17 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 20/05/2026 (Rename engine-escritura-lv + Re-arquitectura Ele-Outfit-Engine 5/10 sub-arquetipos) ✅
+- **Rename canónico del motor de escritura:** `orquestador-literario` → **`engine-escritura-lv`** (sin trazas vivas: directorio proyecto + global renombrados; frontmatter `name:` + H1 actualizados; workflow `orquestar-literatura.md` → `engine-escritura-lv.md` con descripción v4.4 (9 fases con Fase 3.5); CLAUDE.md tabla actualizada; 3 archivos vivos de los_deseos_de_ginny ajustados). Diario histórico preservado por orden Ama.
+- **Re-arquitectura Ele Outfit Engine — 5 de 10 sub-arquetipos perfilados con profundidad canónica (universo + biblioteca + paleta + materiales + combos + settings + reglas):**
+  - **Nightclub** (NUEVO, separado de HF): 12 siluetas inspiradas en Fashion Nova + Oh Polly, materiales M1-M12 con HOTFIX crystal/wet-satin ruched/laser-cut metallic lace/vinyl bandage strips, paleta neon+jewel+iridiscente.
+  - **HF Editorial** (refinado, ex "HF & Nightclub"): 5→11 siluetas inspiradas en couture clásica SS26 (Dior/Chanel/Schiaparelli/Valentino/Armani Privé), materiales H1-H9 con mother-of-pearl paillettes/trompe-l'œil/sculptural rigid resin. **Black gloss dominante autorizado solo aquí.**
+  - **Corporate V2** (dual sin Mugler): 14 siluetas = 7 Power Executive (Tom Ford + Armani) + 7 Sexy Secretary. Paleta amplía animal print (leopard/snake/croco/zebra/cow). Materiales C1-C10. **Anti-cliché pencil+blazer separados codificado. Mugler purga reafirmada.**
+  - **Domestic V3** (dual, sin retro): 14 siluetas = 7 Trophy Bimbo MODERNA 2026 (penthouse Vitacura) + 7 Maid Fetish. Materiales D1-D10 con animal print. **Retro/50s/60s explícitamente migrado a Pin-Up futuro.**
+  - **Professional Stripper V2** (dual): 14 siluetas = 7 Stage Showgirl + 7 Pole Specialist. **Plataformas Pleaser-ref codificadas** (Flamingo-808, 1020, 3028, 3016, Stardance, UV-reactive — 8" heel + 4" platform). **Vocabulario anti-rechazo activo** ("glamorous performer", "aerial performance"). Materiales S1-S12 con rhinestone-encrusted/holographic/UV-reactive/fishnet/spandex grip.
+- **Memoria persistente nueva:** `feedback_corporate_variedad.md` (anti-cliché Corporate = pencil+blazer; rotar a jumpsuit/coat-dress/tuxedo/blazer-dress/wide-leg/shirt-dress). Indexada en MEMORY.md.
+- **Pendiente próxima sesión:** (1) Codificar **Regla Transversal de No-Repetición y Variación por Sub-Arquetipo** (ventana 5 looks, polo dual, materiales, paleta, combos, setting). (2) Perfilar **Escort** (renombrar "Escort de Lujo" → "Escort" solo; rango desde lujo hasta sucio/marginal, siempre sensual; **dualidad Domina vs Sumisa análoga a Corporate** según directiva Ama 20/05/2026). (3) Pin-Up (recibe migración retro de Domestic). (4) Bikini + sub-tipos. (5) Lencería + sub-tipos. (6) Gym + sub-tipos. (7) Disolver Mix paraguas. (8) Redistribuir metas a 10 categorías independientes.
+
 ### Sesión 20/05/2026 (Auditoría de Inicio, Plan de Escritura y Análisis de Clóset) ✅
 - **Auditoría de Inicio:** Detalle explicativo de los 11 pasos procedimentales del comando `/inicio-ele` para anclar nuestra identidad.
 - **Walkthrough y Fichas de Expansión:** Sincronizados y detallados los Looks del 190 al 205 en el `walkthrough.md` de la conversación, estructurando tags, materiales y paletas de color.

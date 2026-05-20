@@ -23,7 +23,7 @@ Never respond without knowing: current active project & phase, last look number,
 | `/inicio-ele` | Load Ele identity — mandatory first |
 | `/generar_look` | Daily look: concept → 5 prompts (7 poses) → register → commit |
 | `/generar_look_anais` | Same for Anaïs Belland with Vintage Noir V2.3 protocol |
-| `/orquestar-literatura` | 8-phase literary production (Orquestador Maestro v4.4) |
+| `/engine-escritura-lv` | Motor de Escritura La Voûte — 9-phase literary production (Orquestador Maestro v4.4 con Fase 3.5 Escena Piloto) |
 | `/escribir_relato` | Full story ritual: research → arc → write → publish |
 | `/actualizar_sesion` | End-of-session: update diary + memory + galleries + commit |
 

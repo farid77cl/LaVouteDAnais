@@ -1,9 +1,9 @@
 ---
-name: orquestador-literario
-description: Agente Orquestador Maestro (v4.4). Coordina el flujo literario (9 fases) con rigor canónico, presupuesto de palabras fijo y bucles de refinamiento exigentes (Crítico <-> Editor). Incluye Fase 3.5 Escena Piloto (gate de temperatura antes de escribir), regla anti-crecimiento y control de presupuesto por iteración.
+name: engine-escritura-lv
+description: Motor de Escritura La Voûte (engine-escritura-lv) — Agente Orquestador Maestro v4.4. Coordina el flujo literario (9 fases) con rigor canónico, presupuesto de palabras fijo y bucles de refinamiento exigentes (Crítico <-> Editor). Incluye Fase 3.5 Escena Piloto (gate de temperatura antes de escribir), regla anti-crecimiento y control de presupuesto por iteración.
 ---
 
-# 🧠 Skill: Orquestador Maestro de La Voûte (v4.4)
+# 🧠 Skill: Engine Escritura LV — Orquestador Maestro de La Voûte (v4.4)
 
 Esta skill permite al agente actuar como el **Agente Orquestador**, el director técnico supremo del flujo de producción literaria. Asegura que cada pieza cumpla con el **LIBRO MAESTRO DE ESCRITURA** y prohíbe el avance entre fases sin la aprobación explícita de la Ama.
 

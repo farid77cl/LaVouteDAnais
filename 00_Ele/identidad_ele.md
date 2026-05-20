@@ -92,19 +92,94 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 
 > **🚫 REGLA DE VARIACIÓN DE SILUETA (Directiva Ama 18/05/2026 — CANON):**
 > La regla cromática no bastó: el color rotaba pero la **arquitectura de prenda** se clonaba (recetas fijas por subcategoría, solo cambiando color). Esta regla gobierna la **silueta**, independiente del color.
-> 1. **Ventana de silueta:** dentro de una misma subcategoría (Stripper, Corporate, Escort, Domestic, Pin-Up, High-Fashion, Lencería, Gym), ninguna **arquitectura de prenda** puede repetirse en los **últimos 3 looks de esa subcategoría**. "Arquitectura" = tipo de prenda + estructura (no el color ni el material).
+> 1. **Ventana de silueta:** dentro de una misma subcategoría (Stripper, Corporate, Escort, Domestic, Pin-Up, High-Fashion Editorial, Nightclub, Lencería, Gym), ninguna **arquitectura de prenda** puede repetirse en los **últimos 3 looks de esa subcategoría**. "Arquitectura" = tipo de prenda + estructura (no el color ni el material).
 > 2. **Prohibido el molde:** está vedado el patrón "misma prenda, otro color". Si el look anterior de la subcategoría fue `micro-bra+micro-thong+jaula cromada`, el siguiente NO puede ser otra variante de eso.
 > 3. **Calzado desacoplado:** el modelo de calzado NO se ata a la subcategoría. Rotar entre `stiletto pump punta afilada` / `bota stiletto thigh-high` / `bota stiletto knee` / `sandalia stiletto tiras` / `plataforma stiletto acrílica` / `slingback stiletto` / `botín stiletto` — siempre respetando el Footwear Canon (aguja ≥12cm). No repetir modelo en los últimos 3 de la subcategoría.
 > 4. **No clonar dentro del batch:** en un lote de ≥3 looks, no repetir un mismo elemento estructural firma (ej. *hombro-pico arquitectónico*, *copa cónica*, *longline+liguero de cristal*) en más de 1 look del lote.
 > 5. **Chequeo pre-prompt:** antes de escribir prompts, comparar la silueta propuesta contra los últimos 3 looks de la misma subcategoría y contra el resto del batch. Si coincide la arquitectura → rediseñar.
 >
 > **Biblioteca de Siluetas por Subcategoría (rotar, no agotar):**
-> - **Stripper:** (a) micro 2-piezas + jaula/arnés cromado · (b) corset-leotard rígido escultórico + cola/fringe · (c) strap-dress de bandas con cut-outs (la jaula ES el vestido) · (d) chaps + bandeau arquitectónico · (e) body recortado con cinch + bustle desmontable.
-> - **Corporate:** (a) blazer hombro-pico + wide-leg · (b) falda tubo espejo + blazer abierto + blusa sheer · (c) sheath dress hombros-punta · (d) pencil-dress one-shoulder drapeado + obi estructural (sin hombro-pico) · (e) jumpsuit sastre cinturón ancho.
+> - **Stripper:** *(Sub-arquetipo dual V2 — 14 siluetas: 7 Stage Showgirl + 7 Pole Specialist. PLATAFORMA SIEMPRE + vocabulario anti-rechazo activo)*
+>   **POLO A · Stage Showgirl (Las Vegas/Cabaret/Crazy Horse):**
+>   - (a) rhinestone bodysuit showgirl + headpiece plumas + boa (Vegas signature, cristales hand-sewn)
+>   - (b) sequin micro-romper + cola plumas + headpiece (cabaret showgirl)
+>   - (c) cage bodysuit sobre rhinestone base + tiara + glove opera
+>   - (d) slingshot bodysuit holographic + headpiece + glove transparent
+>   - (e) two-piece set ornado (bra+thong) + body chains + tail piece
+>   - (f) cabaret tuxedo (vest + pant short + gloves) + tail coat + top hat
+>   - (g) fully embellished gown stage strapless cristales + side slit cadera
+>   **POLO B · Pole Specialist (athletic/grip-friendly/movimiento):**
+>   - (h) micro 2-piezas rhinestone (bra+thong) + body chain
+>   - (i) pole bodysuit grip-friendly spandex con cut-outs estratégicos
+>   - (j) cage harness + micro bra+thong (la jaula ES el outfit)
+>   - (k) chaps + bandeau + thong (brazos libres para pole)
+>   - (l) pole shorts + bra-top crystal
+>   - (m) one-shoulder bodysuit cut-out asimétrico
+>   - (n) fishnet open-crotch bodystocking + bra estructurada
+>   **REGLA DUAL:** en cada batch, al menos 1 Stage + 1 Pole. **Plataforma SIEMPRE** (Pleaser ref): sandalia acrílica clear / sandal chrome / bota knee-high / bota thigh-high / bootie ankle / rhinestone-encrusted / UV-reactive — 8" heel + 4" platform mínimo. La aguja sola sin plataforma se reserva para Escort/HF Editorial.
+> - **Corporate:** *(Sub-arquetipo dual — 14 siluetas: 7 Power Executive + 7 Sexy Secretary, sin Mugler, inspiración Tom Ford + Armani)*
+>   **POLO A · Power Executive (Tom Ford + Armani):**
+>   - (a) crop blazer + wide-leg pleated trouser (Armani fluid tailoring)
+>   - (b) soft-shoulder blazer-dress monochromatic (Armani archive)
+>   - (c) sheath dress + obi escultórico (Tom Ford)
+>   - (d) tuxedo couture femenino shawl velvet + slim trouser (Tom Ford velvet tux)
+>   - (e) double-breasted blazer-dress oversized pinstripe (Tom Ford pinstripe severity)
+>   - (f) A-line midi coat + leather skirt caramel (Tom Ford leather)
+>   - (g) transparent vinyl trench over wet-satin column (Tom Ford glossy shield)
+>   **POLO B · Sexy Secretary:**
+>   - (h) pencil skirt + sheer button-down + bra visible + gafas de pasta (secretaria clásica fetish)
+>   - (i) mini skirt vinyl + blouse atada al ombligo + medias con costura (secretaria fetish hardcore)
+>   - (j) bodycon shirt-dress unbuttoned al límite + obi cinch (secretaria-bondage)
+>   - (k) ejecutiva-catsuit cremallera frontal baja + escote profundo (secretaria-domme)
+>   - (l) trench coat ceñido sin nada debajo o con lencería completa (secretaria escándalo)
+>   - (m) crop blazer abierto + bra-top visible + mini falda lápiz (secretaria upgrade)
+>   - (n) power-shirt-dress desabrochada + stilettos thigh-high boots (secretaria-dominatrix)
+>   **REGLA DUAL:** en cada batch Corporate, al menos 1 Power + 1 Secretary. Balance 50/50 a lo largo del catálogo. Nunca batch 100% de un polo.
 > - **Escort:** (a) columna líquida al suelo + slit · (b) bias-cut slip 30s · (c) gown sirena con cola · (d) two-piece de gala (top + falda larga) · (e) catsuit translúcido con capa.
-> - **Domestic:** (a) apron-dress peplum + corsé · (b) wiggle dress 50s + delantal · (c) babydoll estructurado + guantes largos · (d) maid two-piece arquitectónico · (e) housecoat de vinilo ceñido con cinch.
+> - **Domestic:** *(Sub-arquetipo dual V3 — 14 siluetas: 7 Trophy Bimbo Moderna + 7 Maid Fetish. PROHIBIDO retro/50s/60s — todo lo retro migra a Pin-Up)*
+>   **POLO A · Trophy Bimbo Moderna 2026 (esposa-trofeo de Vitacura, penthouse contemporáneo):**
+>   - (a) bodycon mini-dress + apron architectural minimalista moderno
+>   - (b) mini-skirt vinyl + crop top + cinch belt (trophy mommy / yoga-room / brunch)
+>   - (c) loungewear de lujo — robe satin abierta + lingerie-set + heels
+>   - (d) catsuit/jumpsuit hogareño latex/vinyl moderno
+>   - (e) cocktail-dress strapless moderno + obi (hostess contemporánea)
+>   - (f) housecoat vinyl ceñido con cinch (robe-housecoat couture moderno)
+>   - (g) babydoll matinal estructurado + guantes opera
+>   **POLO B · Maid Fetish:**
+>   - (h) French maid clásica (vestido negro + delantal blanco + choker + manguitos)
+>   - (i) bunny-fetish uniform corset bodysuit + cola fluffy + orejas (Playboy)
+>   - (j) latex catsuit + delantal vinyl + headpiece estructurada
+>   - (k) micro-maid sumisa — micro-vestido + collar O-ring + delantal mini + medias
+>   - (l) power-maid uniforme + thigh-high stiletto boots + plumero accesorio
+>   - (m) cocinera-fetish apron-dress de chef estilizado + tights + heels
+>   - (n) surreal maid couture — uniforme deconstruido (Schiaparelli surreal)
+>   **REGLA DUAL:** en cada batch Domestic, al menos 1 Trophy + 1 Maid. Balance 50/50. PROHIBIDO retro/50s/wiggle/gingham/polka-dot (eso va a Pin-Up).
 > - **Pin-Up:** (a) playsuit halter + copa cónica · (b) playdress tenis + skort · (c) sundress sweetheart + falda circular crinolina · (d) high-waist short + bra-top atado · (e) sailor/retro romper estructurado.
-> - **High-Fashion:** (a) gown un-hombro + arco escultórico · (b) gown cathedral-shoulder + boning expuesto · (c) catsuit escultórico con peto · (d) cape-gown asimétrico · (e) panel-dress geométrico deconstruido.
+> - **High-Fashion Editorial:** *(Sub-arquetipo expandido — 11 siluetas, inspiración couture clásica SS26 Dior/Chanel/Schiaparelli/Valentino/Armani Privé, filtrado por canon Ele)*
+>   - (a) gown un-hombro + arco escultórico (original)
+>   - (b) gown cathedral-shoulder + boning expuesto (original)
+>   - (c) catsuit escultórico con peto (original)
+>   - (d) cape-gown asimétrico (original)
+>   - (e) panel-dress geométrico deconstruido (original)
+>   - (f) ball-gown bell-shape esculpido (Dior New Look + Galliano — corpiño ajustado + falda esfera/campana en vinyl/PVC mirror con estructura interna)
+>   - (g) bias-cut sirena column (Dior Galliano + Vionnet — sirena bias-cut en wet-satin o liquid metal, fluye al cuerpo)
+>   - (h) bustier-gown + sculptural projections (Schiaparelli signature — corpiño rígido + proyecciones escultóricas cuernos/picos/alas + falda larga)
+>   - (i) pearlescent paillette column (Chanel + Dior Anderson SS26 — vestido columna cubierto en paillettes mother-of-pearl iridiscentes)
+>   - (j) petal-pleated flare gown (Armani Privé — pliegues de pétalo flare desde cintura, escultura floral arquitectónica)
+>   - (k) theatrical ruffle gown (Valentino — volantes/ruffles arquitectónicos en vinyl o latex, drama)
+> - **Nightclub:** *(Sub-arquetipo expandido — 12 siluetas, inspiración Fashion Nova "Going Out" + Oh Polly "All Nighter/Birthday Glam", filtrado por canon Ele)*
+>   - (a) sequin mini-dress bodycon (100% sequins espejo + hotfix crystal acentos)
+>   - (b) latex club bodysuit (gloss + cremallera frontal expuesta + V profundo)
+>   - (c) metallic liquid dress (chrome líquido columna corta, halter o strapless)
+>   - (d) chrome cage mini (jaula decorativa cromada sobre base satín/vinyl)
+>   - (e) mesh body + crystal drape (mesh sheer + cristal drape, no sequins)
+>   - (f) ruched wet-satin corset mini (wet-satin ruched skirt + built-in corsetry boning visible — OP Confident/Maeve)
+>   - (g) embellished sheer vinyl mini (vinyl/PVC con paneles sheer + HOTFIX crystals hand-applied — OP Jovie/Noel)
+>   - (h) cowl-halter + crystal drape (bandeau halter con drape de cristal cayendo del escote — OP Zara + FN Shayna)
+>   - (i) backless bandage bodycon (vinyl bandage strips + espalda 100% abierta — FN Dion)
+>   - (j) off-shoulder draped mini (strapless con drape estructurado en chrome líquido o vinyl — OP Maeve)
+>   - (k) laser-cut metallic lace corset (lace laser-cut metálico sobre base latex + corset visible — OP Genevieve/Aralyn)
+>   - (l) asymmetric cut-out bodycon (vinyl con cut-outs asimétricos en torso/cintura/caderas — FN Tory/Diana)
 > - **Lencería:** (a) longline-bra + liguero de cristal + micro-thong · (b) teddy/ouvert harness de straps + O-ring central · (c) corselette + medias con costura + bata abierta · (d) bralette + tanga + arnés de cintura · (e) bodystocking sheer arquitectónico.
 > - **Gym/Athleisure:** (a) falda plisada corta + crop underbust · (b) catsuit deportivo cremallera · (c) sports-bra + leggings recortado · (d) unitard con cut-outs · (e) shorts ciclista + top atado.
 

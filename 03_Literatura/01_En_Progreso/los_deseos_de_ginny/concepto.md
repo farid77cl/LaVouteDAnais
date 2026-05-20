@@ -1,6 +1,6 @@
 # 💡 Fase 1: Ideación - Proyecto "Los Deseos de Ginny" (POC)
 - **ID del Proyecto:** `LDG` (Los Deseos de Ginny)
-- **Orquestador:** Agente Helena (Skill: orquestador-literario)
+- **Orquestador:** Agente Helena (Skill: engine-escritura-lv)
 - **Fecha:** 2026-03-26
 
 ## 1. Núcleo Creativo (The Spark by Ama)

@@ -1,10 +1,10 @@
 ---
-description: Iniciar el flujo de producción literaria Orquestador Maestro v4.3 — 8 fases completas
+description: Iniciar el Motor de Escritura La Voûte (engine-escritura-lv) — Orquestador Maestro v4.4, 9 fases completas con Fase 3.5 Escena Piloto, Resume Protocol y Rúbrica D1-D5
 ---
 
-# Orquestador Literario v4.3 — Flujo Completo
+# Engine Escritura LV (Orquestador Maestro v4.4) — Flujo Completo
 
-Skill de referencia: `.agent/skills/orquestador-literario/SKILL.md`
+Skill de referencia: `.agent/skills/engine-escritura-lv/SKILL.md`
 Prompts de agentes: `07_Recursos/prompts/`
 
 ---

@@ -1,6 +1,6 @@
 # 🏗️ Fase 2: Arquitectura - Proyecto "Los Deseos de Ginny"
 - **ID del Proyecto:** `LDG`
-- **Orquestador:** Agente Helena (Skill: orquestador-literario)
+- **Orquestador:** Agente Helena (Skill: engine-escritura-lv)
 - **Fecha:** 2026-03-26
 
 ## 1. El Arco Maestro (La Curva de Rendición)

@@ -111,15 +111,384 @@ Antes de proponer un Look, consulta la tabla de estadísticas en [galeria_outfit
 - **Lencería:** Meta 10%
 - **Gym/Athleisure:** Meta 5%
 
-**Sub-arquetipos dentro de Mix** (Meta: 16.6% cada uno — ver `ele_master_audit_v3_5.md`):
-1. High-Fashion & Nightclub
-2. Corporate
-3. Domestic
-4. Professional Stripper
-5. Escort de Lujo
-6. Pin-Up & Athleisure
+**Sub-arquetipos dentro de Mix** (Meta: 14.3% cada uno — actualizado 20/05/2026 al separar HF de Nightclub):
+1. **High-Fashion Editorial** *(antes "High-Fashion & Nightclub" — separado 20/05/2026)*
+2. **Nightclub** *(nuevo sub-arquetipo independiente — 20/05/2026)*
+3. Corporate
+4. Domestic
+5. Professional Stripper
+6. Escort de Lujo
+7. Pin-Up & Athleisure
 
 Si una categoría o sub-arquetipo está bajo, el nuevo Look **debe** pertenecer a esa categoría.
+
+---
+
+### 🌃 Sub-arquetipo Nightclub (Spec V1 — 20/05/2026)
+
+**Universo:** VIP lounge de medianoche, dance-floor con luz UV, club privado de élite, neon-room, after-hours hotel rooftop. Energía cinética, brillos hipnóticos, materiales que reflejan luz láser.
+
+**Diferencias clave:**
+- **vs. Stripper:** Stripper baila por dinero (jaula estructural, fringe, micro-pieces). Nightclub baila para sí misma o pareja (glam, sequins, drape).
+- **vs. Escort:** Escort opera en hoteles/cenas/galas (columna líquida, aristocrática). Nightclub opera en clubs/dance-floors (cinética, brillo agresivo).
+- **vs. High-Fashion Editorial:** HF es escultórico/gala/museo. Nightclub es club/lounge/dance-floor.
+
+**Biblioteca de siluetas:** 12 opciones (ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Nightclub**). Inspiración: Fashion Nova "Going Out" + Oh Polly "All Nighter/Birthday Glam", filtrado por canon Ele.
+
+**Paleta canon Nightclub:**
+
+| Nivel | Colores |
+|---|---|
+| **Dominantes (≥50%)** | Hot Magenta · Electric Cyan · Acid Chartreuse · Chrome Silver · Liquid Gold · Oil-Slick · Deep Plum · Blood Red |
+| **Adicionales del scouting** | Pearl/Mother-of-Pearl high-gloss · Bronze metálico · Hot Pink saturado · Olive metallic · Jewel tones (Sapphire/Emerald/Ruby) |
+| **Acentos (≤20%)** | Black gloss (solo herrajes/costuras) · Bubblegum Hot Pink · Cherry Red (solo pelo/labios) |
+| **❌ PROHIBIDOS** | Baby Pink · Pastel Blue · Cream Satin · Beige · Champagne pálido · Rose Gold *(Rose Gold se reserva para Boudoir/Bridal)* |
+
+**Materiales canon Nightclub:**
+
+| # | Material | Detalle |
+|---|---|---|
+| M1 | Sequins/Lentejuelas espejo | Ondas de luz con cada paso |
+| M2 | Latex high-gloss | Second-skin, cremalleras expuestas |
+| M3 | Vinyl con cristales incrustados | Layered glam |
+| M4 | Chrome líquido / Liquid metal | Efecto mercurio |
+| M5 | Metal cromado pulido | Jaula decorativa |
+| M6 | Mesh sheer + cristal drape | Transparencia con peso |
+| M7 | Iridescent multichrome | Oil-slick / holographic / beetle-shell |
+| M8 | PVC translucent neon | UV-reactive translúcido |
+| **M9** | **Wet-Satin / Liquid Satin (ruched)** 🆕 | OP signature — drawstring ruching, alto brillo |
+| **M10** | **HOTFIX Crystal hand-applied** 🆕 | Swarovski-style sobre vinyl/sheer/wet-satin |
+| **M11** | **Vinyl/Chrome bandage strips** 🆕 | Sustituye bandage knit — tiras horizontales clinging |
+| **M12** | **Laser-Cut Metallic Lace** 🆕 | NO algodón — lace cortado en metal sobre base latex |
+
+**❌ Materiales prohibidos en Nightclub:** Satén opaco mate · terciopelo grueso · cuero envejecido · denim · lana · algodón · modal · jersey · knit estructural · bandage knit (sustituir por M11) · lace de algodón (sustituir por M12).
+
+**Setting/escenario típico:** VIP lounge backlit · dance-floor neon · bar de espejo cromado · after-hours hotel rooftop · DJ booth blur · strobe room · UV-light private club · velvet rope corner.
+
+**Combos canon Nightclub:**
+
+| Combo | Inspiración | Lectura |
+|---|---|---|
+| M9 wet-satin + corset boning visible | OP Confident | Ruched corset mini |
+| M10 hotfix crystals + M6 sheer | OP Genevieve | Embellished sheer bodysuit |
+| M12 laser-cut lace + M2 latex base | OP Aralyn | Lace fetish editorial |
+| M11 vinyl bandage + backless cut | FN Dion | Bandage bodycon espalda abierta |
+| M4 chrome líquido + drapeado off-shoulder | OP Maeve | Off-shoulder liquid metal |
+| Cut-outs asimétricos + M2 latex | FN Tory/Diana | Asymmetric architectural bodycon |
+| M1 sequins solo | (cualquier dominante) | Sequin Mini-Dress clásico |
+| M2 latex + M5 metal (zipper/herrajes) | Canon original | Latex Club Bodysuit |
+
+**Combos PROHIBIDOS en Nightclub:**
+- M1 sequins + M2 latex gloss (lectura cabaret/burlesque, no club)
+- M2 latex + terciopelo (anti-canon material)
+- M7 iridescent + M3 cristales (sobre-saturación visual)
+- Sequins + materiales mate (rompe coherencia de brillo)
+
+---
+
+### 🎨 Sub-arquetipo High-Fashion Editorial (Spec V1 — 20/05/2026)
+
+**Universo:** Gala de museo, red-carpet, premiere de couture, fashion week, alfombra de premios, photo-shoot editorial para revista. La Ele que llega cuando el club ya cerró y empieza el establishment del lujo. Arquitectura escultórica sobre cuerpo, drapeados cathedral, materiales que se imponen como obras de arte.
+
+**Diferencias clave:**
+- **vs. Nightclub:** HF = escultura estática para ser fotografiada · Nightclub = movimiento, brillo cinético para luz láser.
+- **vs. Escort:** HF = arquitectura imponente, drama del silhouette · Escort = línea aristocrática líquida, discreta dentro del lujo.
+- **vs. Stripper:** HF = couture museo/red-carpet · Stripper = club, jaula, fringe, baile por dinero.
+
+**Biblioteca de siluetas:** 11 opciones (ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **High-Fashion Editorial**). Inspiración: couture clásica SS26 (Dior · Chanel · Schiaparelli · Valentino · Armani Privé), filtrado por canon Ele (sin telas naturales, sin plumas reales, sin lace de algodón).
+
+**Paleta canon HF Editorial:**
+
+| Nivel | Colores |
+|---|---|
+| **Dominantes (≥50%)** | Valentino Rosso · Blanco porcelana / Cream high-gloss · Black gloss arquitectónico *(único arquetipo donde black dominante es canon)* · Champagne metálico / Liquid Gold · Mother-of-Pearl iridescent · Verde Armani (forest/emerald) · Deep Burgundy / Wine · Jewel tones (Sapphire/Emerald/Ruby) |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Iridescent multichrome (cuando la silueta es escultórica simple) |
+| **❌ PROHIBIDOS** | Hot Magenta saturado · Acid Chartreuse · Neon Cyan *(pertenecen a Nightclub)* · Baby Pink · Pastel Blue · Bubblegum Hot Pink |
+
+**Materiales canon HF Editorial:**
+
+| # | Material | Detalle |
+|---|---|---|
+| **H1** | **Vinyl/PVC de alta densidad escultórico** | Sustituto couture del silk/organza — mantiene la caída arquitectónica |
+| **H2** | **Latex liquid gloss** | Sirenas bias-cut, second-skin couture |
+| **H3** | **Wet-satin / Liquid satin** | Bias-cut, drapeados (Dior Galliano echo) |
+| **H4** | **Mother-of-pearl paillettes iridescent** 🆕 | Chanel + Dior SS26 signature — paillettes de nácar cubriendo gown |
+| **H5** | **Chrome líquido escultórico** | Schiaparelli-style sculpted projections |
+| **H6** | **Trompe-l'œil hand-painted vinyl** 🆕 | Simula efectos visuales sobre base vinyl — couture pintado a mano |
+| **H7** | **Laser-cut metallic lace** | Sobre base latex (couture fetish editorial) |
+| **H8** | **HOTFIX Crystal hand-applied** | Armani Privé crystallized · Schiaparelli embellishment |
+| **H9** | **Sculptural rigid resin / PVC armoring** 🆕 | Proyecciones escultóricas Schiaparelli-style (cuernos, picos, alas) |
+
+**❌ Materiales prohibidos en HF Editorial:** silk · organza · tulle · tweed · mousseline · taffeta · denim · lana · algodón · plumas reales (acento puntual max 5%) · lace de algodón.
+
+**Setting/escenario típico:** Museum hall (mármol blanco, columnas, esculturas) · Atelier couture parisino · Backstage de pasarela · Cathedral interior · Penthouse lounge minimalista blanco/gris · Studio editorial neutral · Theatrical stage con telón rojo · Jardín couture vertical.
+
+**Combos canon HF Editorial:**
+
+| Combo | Inspiración | Lectura |
+|---|---|---|
+| H1 vinyl escultórico + H4 paillettes mother-of-pearl | Dior Anderson SS26 | Ball-gown iridescent couture |
+| H2 latex liquid + bias-cut sirena | Galliano legado | Sirena ultra-feminina líquida |
+| H5 chrome líquido + H9 sculptural projections | Schiaparelli signature | Bustier escultórico extremo |
+| H1 vinyl + Valentino Rosso statement | Valentino theatrical | Statement red gown |
+| H6 trompe-l'œil + H8 HOTFIX crystals | Chanel + Schiaparelli | Couture conceptual painted+jeweled |
+| H3 wet-satin + petal-pleated flare | Armani Privé | Floral architecture green |
+
+**Combos PROHIBIDOS en HF Editorial:**
+- H1 vinyl escultórico + colores neon Nightclub (lectura club, no couture)
+- H9 sculptural projections + sequins (rompe la lectura escultórica/conceptual)
+- Paillettes mother-of-pearl + HOTFIX crystals (sobre-embellishment, lectura quinceañera)
+
+---
+
+### 💼 Sub-arquetipo Corporate (Spec V2 — 20/05/2026 · Dual, sin Mugler)
+
+**Universo DUAL — dos polos co-existentes:**
+
+| Polo | Esencia |
+|---|---|
+| **A · Power Executive Hiperfemenina** | La directora ejecutiva, la abogada socia, la CEO. Sastrería que afirma autoridad sin renunciar a la silueta. Tom Ford twisted tailoring + Armani fluid soft power. |
+| **B · Sexy Secretary Sumisa** | La asistente del CEO, la analista junior bajo el escritorio del director, la secretaria-objeto-de-deseo. "Sexy office" hiperfemenina, claramente subordinada. |
+
+**Anti-cliché codificado:** Corporate **NO es default pencil skirt + blazer separados**. La biblioteca rota explícitamente hacia coat-dress, jumpsuit, blazer-dress, wide-leg trouser, tuxedo, shirt-dress. La falda tubo aparece solo en POLO B (Secretary) y como variante puntual.
+
+**Diferencias clave:**
+- **vs. HF Editorial:** Corporate = funcional ejecutivo (sastrería de día y velada de negocios) · HF = escultura para fotografiar (gala/red-carpet).
+- **vs. Escort:** Corporate = poder profesional (oficina) · Escort = hospitalidad de lujo (hotel/cena privada).
+- **vs. Domestic:** Corporate = espacio público profesional · Domestic = espacio privado del hogar.
+
+**Biblioteca de siluetas:** 14 opciones (7 Power + 7 Secretary) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Corporate**. Inspiración: Tom Ford + Armani. **PROHIBIDO Mugler** (purga canon 17/05/2026 sigue vigente).
+
+**Regla Dual:** En cada batch Corporate, **al menos 1 Power + 1 Secretary**. Balance 50/50 a lo largo del catálogo. Nunca un batch 100% de un solo polo.
+
+**Paleta canon Corporate:**
+
+| Familia | Colores |
+|---|---|
+| **Neutros corporate** | Black gloss · Charcoal grey · Pinstripe (gris/blanco) · Navy executive · Pearl white · Champagne discreto · Taupe |
+| **Tom Ford signature** | Camel/Cognac · Oxblood leather · Caramel leather · Burgundy power · Forest green (Armani) |
+| **Animal Prints** 🆕 | Leopard print (TF signature 90s) · Croco-emboss (cuero/vinyl croco) · Snake/Python print · Zebra print (acento) · Cow-print (camel+black opcional) |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Hot pink lipstick |
+| **❌ PROHIBIDOS** | Neon (Nightclub) · Pastel · Baby pink · Cream casero (Domestic) · Hot Magenta saturado |
+
+**Materiales canon Corporate:**
+
+| # | Material | Polo |
+|---|---|---|
+| **C1** | Vinyl/PVC pinstripe escultórico | Power |
+| **C2** | Latex matte ejecutivo | Power |
+| **C3** | Leather glossy esculpido (caramel, oxblood, taupe, black) | Power + Secretary |
+| **C4** | **Animal print leather/vinyl** (leopard, croco, snake, zebra) 🆕 | Power + Secretary |
+| **C5** | Wet-look satin tuxedo | Power |
+| **C6** | Sequin-embellished tailoring | Power evening |
+| **C7** | Transparent vinyl trench | Power + Secretary |
+| **C8** | **Sheer organza-vinyl híbrido** (blouse translucent fetish) 🆕 | Secretary |
+| **C9** | PVC mirror espejo | Power |
+| **C10** | **Soft fluid drape Armani-echo** 🆕 | Power |
+
+**❌ Materiales prohibidos en Corporate:** lana real · algodón · denim · tweed · jersey · seda matte sin gloss · cualquier tela natural.
+
+**Setting/escenario típico:**
+- **Power:** Sala junta C-Suite · Despacho penthouse · Hotel lobby ejecutivo · Conference summit · Business class premium · Hotel-boardroom · Despacho Power Lawyer · Ascensor cromado.
+- **Secretary:** Antesala del CEO · Recepción ejecutiva · Pasillo oficina luces frías · Escritorio bajo lámpara banker · Ascensor privado · Sala fotocopia · Sala de archivos · Bajo escritorio del director (POV).
+
+**Combos canon Corporate:**
+
+| Combo | Polo | Lectura |
+|---|---|---|
+| C1 pinstripe + double-breasted blazer-dress | Power | Pinstripe couture Tom Ford |
+| C4 leopard print + tuxedo blazer | Power | Animalier tuxedo Tom Ford 90s |
+| C3 leather caramel + A-line midi skirt | Power | Leather Tom Ford archive |
+| C5 wet-satin + shawl tuxedo | Power | Velvet tuxedo couture |
+| C7 transparent trench + wet-satin column | Power | Glossy shield Tom Ford |
+| C10 soft drape + monochromatic blazer-dress | Power | Armani fluid |
+| C3 leather oxblood + mini skirt + sheer blouse | Secretary | Cuero secretaria fetish |
+| C8 sheer organza-vinyl + pencil skirt vinyl | Secretary | Blouse translucent + falda lápiz |
+| C4 snake print + bodycon shirt-dress | Secretary | Animalier secretaria-domme |
+| C2 latex catsuit cremallera + thigh-high stiletto | Secretary | Secretaria-dominatrix |
+
+**Combos PROHIBIDOS en Corporate:**
+- Cualquier referencia a Mugler (silueta, plastron-armor, exaggerated shoulders, lamé bronze)
+- Pencil skirt + blazer separados como combo default (solo polo B como variante puntual)
+- Neon + sastrería (lectura Nightclub, no Corporate)
+- Sequin all-over en horario laboral (solo evening/gala corporate)
+
+---
+
+### 🏠 Sub-arquetipo Domestic (Spec V3 — 20/05/2026 · Dual, MODERNO sin retro)
+
+**Universo DUAL — dos polos co-existentes:**
+
+| Polo | Esencia |
+|---|---|
+| **A · Trophy Bimbo Moderna 2026** | Esposa de millonario tech/inversionista de Vitacura/Las Condes. Penthouse contemporáneo, mármol+cromo, brunch en Cumbres del Cóndor, yoga room privado, esperando al esposo con cocktail. **CERO retro, CERO 50s, CERO años 60.** |
+| **B · Maid Fetish Sumisa** | French maid clásica, choker collar, delantal blanco con encaje, Playboy Bunny canon, BDSM domestic. La que sirve y obedece dentro del hogar. |
+
+**🔄 Migración retro → Pin-Up:** Toda silueta retro/50s/60s (wiggle dress, sundress+crinolina, sweater-dress 50s, apron-dress peplum vintage, polka-dot, gingham) **NO PERTENECE a Domestic**. Va exclusivamente a **Pin-Up & Retro**.
+
+**Diferencias clave:**
+- **vs. Corporate:** Domestic = espacio privado del hogar · Corporate = oficina/sala junta.
+- **vs. Pin-Up:** Domestic = trophy moderna 2026 + maid fetish · Pin-Up = retro/50s/60s.
+- **vs. Lencería:** Domestic = vestida en contexto hogareño · Lencería = ropa interior pura.
+
+**Biblioteca de siluetas:** 14 opciones (7 Trophy Moderna + 7 Maid) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Domestic**.
+
+**Regla Dual:** En cada batch Domestic, **al menos 1 Trophy + 1 Maid**. Balance 50/50. Nunca un batch 100% de un polo.
+
+**Paleta canon Domestic:**
+
+| Familia | Colores |
+|---|---|
+| **Trophy Moderna saturados** | Hot Pink saturado · Cherry Red · Hot Magenta · Bubblegum vibrante · Lemon saturado · Electric Cyan suave |
+| **Neutros penthouse** | Pearl White high-gloss · Champagne metálico · Taupe lujurioso · Cream high-gloss (con brillo, NO mate) |
+| **Animal print moderno** 🆕 | Leopard · Snake · Croco-emboss · Zebra (apron-dress contemporáneo o catsuit) |
+| **Jewel tones modernos** | Emerald · Sapphire · Ruby (cocktail-dress hostess) |
+| **Maid Fetish (B&W canon)** | Black gloss (vestido) · Crisp White (delantal+manguitos) · Latex blacks · Burgundy maid · Deep emerald maid de élite |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Lace metálica · Bow ribbons saturados · Hardware cromado/gold |
+| **❌ PROHIBIDOS** | Baby Pink pastel · Pastel Blue · Polka-dot retro (Pin-Up) · Gingham (Pin-Up) · Beige funeral · Brown housewife casero · Cream mate sin brillo |
+
+**Materiales canon Domestic:**
+
+| # | Material | Polo |
+|---|---|---|
+| **D1** | Vinyl high-gloss moderno | Trophy |
+| **D2** | PVC mirror | Trophy + Maid |
+| **D3** | Latex matte/gloss uniforme oscuro | Maid |
+| **D4** | **Animal print leather/vinyl** (leopard, snake, croco, zebra) 🆕 | Trophy + Maid |
+| **D5** | Lace blanca laser-cut sobre satín | Maid delantal |
+| **D6** | Wet-satin para cocktail/loungewear | Trophy |
+| **D7** | **Satin/silk-look líquido** (loungewear, robe, lingerie-set) 🆕 | Trophy loungewear |
+| **D8** | Faux-fur tail (Bunny) | Maid bunny |
+| **D9** | Sequin housewife evening (cocktail hostess noche) | Trophy |
+| **D10** | Apron architectural rígido estructurado | Ambos |
+
+**❌ Materiales prohibidos en Domestic:** algodón real · lino casero · jersey de casa · tweed · **gingham/polka-dot impreso retro** · materiales naturales cualquiera.
+
+**Setting/escenario típico:**
+- **Trophy Moderna:** Penthouse 2026 mármol+cromo · Cocina minimalista chrome+marble · Living open-space contemporáneo · Backyard Vitacura/Cumbres del Cóndor · Yoga room privado mármol · Walk-in closet de lujo · Garage con Porsche/Range Rover · Cocktail-bar minimalista · Dressing-room luxurious · Master bedroom moderno.
+- **Maid:** Pasillo de servicio · Cocina escenográfica isla central · Sala donde sirve la cena · Dormitorio principal (cama deshecha) · Salón con bandeja de bebidas · Sótano BDSM-domestic · Despensa walk-in · Mesa de comedor lista para servir.
+
+**Combos canon Domestic:**
+
+| Combo | Polo | Lectura |
+|---|---|---|
+| D1 vinyl + bodycon mini + apron architectural | Trophy | Trophy mommy moderna |
+| D4 leopard print + mini-skirt + crop top | Trophy | Trophy bimbo animalier |
+| D7 satin líquido + robe abierta + lingerie | Trophy | Mañana de penthouse |
+| D2 PVC mirror + catsuit hogareño | Trophy | Trophy ultra-moderna |
+| D6 wet-satin + cocktail strapless + obi | Trophy | Hostess penthouse |
+| D9 sequin + cocktail-dress | Trophy | Hostess de gala doméstica |
+| D3 latex matte + French maid classic | Maid | Maid fetish canon |
+| D3 latex + delantal D5 lace + collar O-ring | Maid | Maid sumisa bondage |
+| D4 leopard maid mini + delantal blanco | Maid | Maid animalier híbrido |
+| D8 bunny tail + corset bodysuit + ears | Maid | Playboy bunny canon |
+| D3 latex catsuit + apron + headpiece | Maid | Domestique-domme |
+| D10 architectural apron + sheath vinyl | Ambos | Sirvienta couture surreal |
+
+**Combos PROHIBIDOS en Domestic:**
+- Wiggle dress 50s · sundress+crinolina · sweater-dress 50s · apron peplum vintage (todo va a Pin-Up)
+- Polka-dot retro · gingham (va a Pin-Up)
+- Cream mate sin brillo (lectura "ama de casa común", no trophy)
+- Pastel pálidos (baby pink, baby blue)
+
+---
+
+### 💃 Sub-arquetipo Professional Stripper (Spec V2 — 20/05/2026 · Dual, plataformas codificadas, anti-rechazo)
+
+**Universo DUAL — dos polos co-existentes:**
+
+| Polo | Esencia |
+|---|---|
+| **A · Stage Showgirl** | Las Vegas glam, cabaret, Crazy Horse París. Plumas, headpiece, cristales hand-sewn, espectáculo de escenario, performer profesional con show coreografiado. |
+| **B · Pole Specialist** | Pole-dance athletic, micro-pieces grip-friendly, cuerpo en movimiento extremo. Strip-club moderno tipo Magic Mike upscale. |
+
+**Diferencias clave:**
+- **vs. Nightclub:** Stripper baila POR DINERO en escenario (jaula, fringe, pole) · Nightclub baila para sí o pareja (glam social).
+- **vs. Escort:** Stripper = club escenario público (espectáculo) · Escort = hotel privado (servicio íntimo).
+- **vs. Lencería:** Stripper = uniforme escenográfico · Lencería = ropa interior boudoir.
+
+**Biblioteca de siluetas:** 14 opciones (7 Stage + 7 Pole) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Stripper**. Inspiración: BodyKandi, Empire Exotics NYC, Lust Vault Nation, Pleaser shoes.
+
+**Regla Dual:** En cada batch Stripper, **al menos 1 Stage + 1 Pole**. Balance 50/50.
+
+#### ⚠️ Plataformas CODIFICADAS (Pleaser-ref) — OBLIGATORIO
+
+**Stripper SIEMPRE en plataforma + stiletto pin heel.** Nunca aguja sola sin plataforma. Opciones canon:
+
+| Tipo | Vocabulario BLOQUE B | Pleaser ref |
+|---|---|---|
+| Sandal plataforma acrílica clear | `clear acrylic platform stiletto sandals, 8-inch heel + 4-inch transparent platform, ankle strap` | Flamingo-808 |
+| Sandal plataforma chrome | `mirror chrome platform stiletto sandals, 8-inch heel + 4-inch platform, ankle strap` | Flamingo-808 chrome |
+| Bota plataforma knee-high | `knee-high platform stiletto boots, 8-inch heel + 4-inch platform, lace-up front` | Flamingo-1020 |
+| Bota plataforma thigh-high | `thigh-high platform stiletto boots, 8-inch heel + 4-inch platform` | Flamingo-3028 |
+| Bootie plataforma ankle | `ankle platform stiletto booties, 8-inch heel + 4-inch platform` | Flamingo-3016 |
+| Plataforma rhinestone | `rhinestone-encrusted platform stiletto sandals, 8-inch heel + 4-inch crystal platform` | Stardance-808 / Flamingo-809HT |
+| Plataforma UV-reactive | `UV-reactive platform stiletto sandals, 8-inch heel + 4-inch glowing platform` | Flamingo-808UVT |
+
+#### 🛡️ Vocabulario Anti-Rechazo (OBLIGATORIO en BLOQUE B Stripper)
+
+| ❌ Vocabulario que dispara filtro | ✅ Sustituto canon |
+|---|---|
+| `stripper outfit` | `glamorous performer stage costume` |
+| `stripper` | `glamorous performer woman` / `high-glamour entertainer` |
+| `pole dance` | `aerial performance` / `vertical pole performance art` |
+| `stripper shoes` | `platform stiletto sandals, 8-inch heel + 4-inch platform` |
+| `cage outfit` | `architectural chrome harness ensemble` |
+| `lap dance` | `intimate performance` |
+
+**Tags obligatorios en BLOQUE B:** `hyper-polished smooth skin texture, fashionable, sensual, alluring, high-glamour, performance attire, editorial stage costume`.
+
+**Paleta canon Stripper:**
+
+| Familia | Colores |
+|---|---|
+| **Stripper signature** | Rhinestone clear/white · Black + rhinestone · Hot Pink fluorescent · Blood Red · Silver Mirror · Gold Metallic · Holographic multichrome |
+| **Animal Prints** 🆕 | Leopard · Snake · Croco-emboss · Zebra (animalier showgirl) |
+| **UV-reactive neon** 🆕 | Lime UV · Cyan UV · Magenta UV (club black-light) |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Glitter como sudor · Hardware cromado |
+| **❌ PROHIBIDOS** | Pastel pálidos · Beige · Brown discreto · Cream mate · Verdes opacos |
+
+**Materiales canon Stripper:**
+
+| # | Material | Polo |
+|---|---|---|
+| **S1** | **Rhinestone-encrusted mesh/spandex** (hand-sewn) 🆕 | Stage + Pole |
+| **S2** | **Holographic vinyl multichrome** 🆕 | Stage + Pole |
+| **S3** | Sequin mesh espejo | Stage |
+| **S4** | **Fishnet (open-crotch bodystocking)** 🆕 | Pole |
+| **S5** | Mirror chrome vinyl | Ambos |
+| **S6** | **Animal print vinyl/latex** (leopard, snake, croco, zebra) 🆕 | Ambos |
+| **S7** | **Cage harness** (chain/leather/chrome) | Stage + Pole |
+| **S8** | **Feather boa / plumage stage** | Stage |
+| **S9** | **Body chains** (silver/gold) | Ambos |
+| **S10** | **UV-reactive vinyl/spandex** 🆕 | Pole (club lights) |
+| **S11** | **Spandex stretch high** (pole grip) | Pole |
+| **S12** | Latex club fetish | Ambos |
+
+**❌ Materiales prohibidos:** algodón · denim · jersey · lana · tweed · tela natural · materiales sin brillo.
+
+**Setting/escenario típico:** Strip-club stage con pole cromado central · VIP champagne room (cuero rojo, luz baja) · Cage hanging over stage · Backstage tocador con luces · Mesa de performance VIP · DJ booth + UV lights · Pista privada mirror walls · Stage con runway extendida · Cabaret theater velvet ruby + spotlight.
+
+**Combos canon Stripper:**
+
+| Combo | Polo | Lectura |
+|---|---|---|
+| S1 rhinestone bodysuit + S8 feather boa + Pleaser Stardance | Stage | Vegas showgirl headliner |
+| S3 sequin micro-romper + headpiece plumas + Pleaser Flamingo | Stage | Cabaret performer |
+| S7 cage + S1 rhinestone base + Pleaser chrome | Stage | Cage showgirl glam |
+| S2 holographic slingshot + Pleaser UV-reactive | Stage | Hologram performer |
+| S1 micro 2-pieces rhinestone + S9 body chains + Pleaser Flamingo | Pole | Pole base cristal |
+| S11 spandex bodysuit grip-friendly + cut-outs + Pleaser Flamingo | Pole | Pole-specialist athletic |
+| S7 cage + micro bra+thong + Pleaser thigh-high | Pole | Cage-pole hybrid |
+| S6 leopard print 2-pieces + Pleaser knee-high | Pole | Animalier pole |
+| S4 fishnet open-crotch + bra cristales + Pleaser Adore | Pole | Fishnet-pole fetish |
+| S12 latex catsuit + chaps removable + Pleaser boots | Pole | Latex-pole domme |
+
+**Combos PROHIBIDOS en Stripper:**
+- Aguja sola sin plataforma (Stripper SIEMPRE en plataforma)
+- Vocabulario explícito que dispare filtro (usar sustitutos del anti-rechazo)
+- Setting de penthouse/hotel/oficina (eso es Trophy/Escort/Corporate)
+- Pastel pálidos · Beige funeral
 
 ---
 
