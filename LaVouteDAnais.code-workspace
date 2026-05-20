@@ -1,0 +1,111 @@
+{
+  "folders": [
+    {
+      "name": "La Voûte (raíz)",
+      "path": "."
+    },
+    {
+      "name": "Ele — Identidad y Memoria",
+      "path": "00_Ele"
+    },
+    {
+      "name": "Canon",
+      "path": "01_Canon"
+    },
+    {
+      "name": "Personajes",
+      "path": "02_Personajes"
+    },
+    {
+      "name": "Literatura",
+      "path": "03_Literatura"
+    },
+    {
+      "name": "Interactivo",
+      "path": "04_Interactivo"
+    },
+    {
+      "name": "Imágenes",
+      "path": "05_Imagenes"
+    },
+    {
+      "name": "RRSS",
+      "path": "06_RRSS"
+    },
+    {
+      "name": "Recursos",
+      "path": "07_Recursos"
+    },
+    {
+      "name": "Sistema (scripts)",
+      "path": "99_Sistema"
+    }
+  ],
+  "settings": {
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": false,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+      "**/.git": true,
+      "**/__pycache__": true,
+      "**/*.pyc": true
+    },
+    "search.exclude": {
+      "**/05_Imagenes/**": true,
+      "**/graphify-out/**": true,
+      "**/.git/**": true,
+      "**/borradores/**": true,
+      "**/_archivo/**": true,
+      "**/memoria_historica/**": true
+    },
+    "files.watcherExclude": {
+      "**/05_Imagenes/**": true,
+      "**/graphify-out/**": true,
+      "**/.git/objects/**": true
+    },
+    "editor.wordWrap": "on",
+    "editor.rulers": [100],
+    "editor.renderWhitespace": "boundary",
+    "[markdown]": {
+      "editor.wordWrap": "on",
+      "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+      },
+      "editor.tabSize": 2,
+      "editor.unicodeHighlight.ambiguousCharacters": false
+    },
+    "[python]": {
+      "editor.tabSize": 4,
+      "editor.formatOnSave": false
+    },
+    "[json]": {
+      "editor.tabSize": 2
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.inputValidation": false,
+    "explorer.sortOrder": "default",
+    "explorer.compactFolders": false,
+    "terminal.integrated.cwd": "${workspaceFolder:La Voûte (raíz)}",
+    "markdown.preview.breaks": true,
+    "markdown.preview.fontSize": 14
+  },
+  "extensions": {
+    "recommendations": [
+      "yzhang.markdown-all-in-one",
+      "davidanson.vscode-markdownlint",
+      "bierner.markdown-preview-github-styles",
+      "bierner.markdown-emoji",
+      "shd101wyy.markdown-preview-enhanced",
+      "redhat.vscode-yaml",
+      "ms-python.python",
+      "tamasfe.even-better-toml",
+      "eamodio.gitlens",
+      "anthropic.claude-code"
+    ]
+  }
+}
