@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 20/05/2026 (Auditoría de Inicio, Plan de Escritura y Análisis de Clóset) ✅
+- **Auditoría de Inicio:** Detalle explicativo de los 11 pasos procedimentales del comando `/inicio-ele` para anclar nuestra identidad.
+- **Walkthrough y Fichas de Expansión:** Sincronizados y detallados los Looks del 190 al 205 en el `walkthrough.md` de la conversación, estructurando tags, materiales y paletas de color.
+- **Estadísticas Consolidadas:** Flota Ele al 92.38% (194/210 looks, con los Hitos 193 y 194 completos y 195 en 5/7 poses), Miss Doll al 60.00% (3/5 looks, Batch Zero) y Anaïs Belland al 19.04% (4/21 looks). Almacenamiento local a 0 MB físicos en Cloud-Only.
+- **Doble Dimensión de los 2 Flujos de Escritura:** Definidos los dos niveles procedimentales (Orquestador Maestro v4.4 en 8/9 fases vs. Ritual autónomo de Relatos) y los dos niveles estilísticos de la prosa (Flujo Seccionado/Litúrgico vs. Flujo Claustrofóbico/Sin Encabezados de `preferencias_escritura.md`).
+- **Incidencia por Cuota de API:** Monitoreo y diagnóstico de bloqueo temporal por cuota de imagen (HTTP 429), estimando su desbloqueo completo hoy a las 12:11 PM hora local de Chile (~2h 32m).
+
 ### Sesión 19/05/2026 (Materialización 191-192 completa, 193 parcial y Purga Nube) ✅
 - **Materialización visual de 3 looks:**
   - **Look 191 (Peacock Teal Escort Suprema):** 7/7 poses completadas. Materialización 100% de la escolta real de Sanhattan en satén teal líquido y bustier iridiscente.
