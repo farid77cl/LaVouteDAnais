@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 20/05/2026 20:54 — **132 looks registrados**  
+> Generado automáticamente el 20/05/2026 21:12 — **142 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -125,10 +125,10 @@
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **194** | Porcelain Service Doll (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **195** | Burnt Honey Housewife (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **196** | Glacial Sapphire Executive (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **195** | Burnt Honey Housewife (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
+| **196** | Glacial Sapphire Executive (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
+| **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
+| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 1/7 | ⏳ Pendiente |
 | **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
@@ -141,6 +141,16 @@
 | **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
 | **210** | Coral Sweetheart Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **212** | Chrome Liquid Nocturne (20/05/2026 — batch 211-220 · Nightclub · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **215** | Cognac Predator (20/05/2026 — batch 211-220 · Corporate Power · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **216** | Python Secretary (20/05/2026 — batch 211-220 · Corporate Secretary · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **217** | Leopard Trophy Penthouse (20/05/2026 — batch 211-220 · Domestic Trophy Moderna · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **220** | Blood Red Pole Predator (20/05/2026 — batch 211-220 · Stripper Pole Specialist · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -161,8 +171,8 @@
 ### Lencería Élite (1 looks)
 **167**
 
-### Mix (65 looks)
-**46**, **55**, **85**, **86**, **87**, **88**, **89**, **92**, **93**, **95**, **96**, **97**, **98**, **100**, **102**, **105**, **106**, **108**, **109**, **110**, **111**, **112**, **114**, **116**, **120**, **126**, **126**, **141**, **142**, **143**, **147**, **148**, **149**, **150**, **151**, **152**, **154**, **157**, **158**, **159**, **160**, **161**, **162**, **163**, **164**, **186**, **189**, **190**, **191**, **192**, **193**, **194**, **195**, **196**, **197**, **198**, **199**, **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**
+### Mix (75 looks)
+**46**, **55**, **85**, **86**, **87**, **88**, **89**, **92**, **93**, **95**, **96**, **97**, **98**, **100**, **102**, **105**, **106**, **108**, **109**, **110**, **111**, **112**, **114**, **116**, **120**, **126**, **126**, **141**, **142**, **143**, **147**, **148**, **149**, **150**, **151**, **152**, **154**, **157**, **158**, **159**, **160**, **161**, **162**, **163**, **164**, **186**, **189**, **190**, **191**, **192**, **193**, **194**, **195**, **196**, **197**, **198**, **199**, **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
 ### Mix (Artístico / Performance) (1 looks)
 **168**
@@ -207,14 +217,14 @@
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (22 looks)
-**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**, **199**, **204**, **206**, **208**, **209**, **210**
+### Rojo / Cherry / Crimson (24 looks)
+**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**, **199**, **204**, **206**, **208**, **209**, **210**, **215**, **220**
 
 ### Rosa / Hot Pink (10 looks)
 **113**, **133**, **144**, **147**, **149**, **152**, **153**, **176**, **187**, **210**
 
-### Magenta / Fucsia (1 looks)
-**181**
+### Magenta / Fucsia (3 looks)
+**181**, **211**, **219**
 
 ### Violeta / Lila (3 looks)
 **151**, **188**, **203**
@@ -228,14 +238,14 @@
 ### Dorado / Bronce (15 looks)
 **90**, **112**, **119**, **130**, **134**, **148**, **150**, **163**, **171**, **174**, **183**, **199**, **205**, **207**, **209**
 
-### Plateado / Plata (23 looks)
-**91**, **95**, **96**, **100**, **104**, **111**, **115**, **126**, **126**, **135**, **145**, **147**, **148**, **149**, **150**, **151**, **152**, **153**, **154**, **156**, **182**, **183**, **186**
+### Plateado / Plata (24 looks)
+**91**, **95**, **96**, **100**, **104**, **111**, **115**, **126**, **126**, **135**, **145**, **147**, **148**, **149**, **150**, **151**, **152**, **153**, **154**, **156**, **182**, **183**, **186**, **212**
 
 ### Blanco / Crema (6 looks)
 **122**, **129**, **138**, **144**, **145**, **177**
 
-### Negro (dominante) (8 looks)
-**92**, **143**, **145**, **167**, **172**, **187**, **188**, **205**
+### Negro (dominante) (9 looks)
+**92**, **143**, **145**, **167**, **172**, **187**, **188**, **205**, **213**
 
 ### Amarillo / Lima (6 looks)
 **146**, **165**, **166**, **179**, **190**, **199**
@@ -263,10 +273,7 @@
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | 0/7 | ⏳ Pendiente |
 | **194** | Porcelain Service Doll (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
-| **195** | Burnt Honey Housewife (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
-| **196** | Glacial Sapphire Executive (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
-| **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
-| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | 1/7 | ⏳ Pendiente |
 | **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | 0/7 | ⏳ Pendiente |
 | **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | 0/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | 0/7 | ⏳ Pendiente |
@@ -279,7 +286,17 @@
 | **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | 0/7 | ⏳ Pendiente |
 | **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | 0/7 | ⏳ Pendiente |
 | **210** | Coral Sweetheart Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | 0/7 | ⏳ Pendiente |
+| **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **212** | Chrome Liquid Nocturne (20/05/2026 — batch 211-220 · Nightclub · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **215** | Cognac Predator (20/05/2026 — batch 211-220 · Corporate Power · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **216** | Python Secretary (20/05/2026 — batch 211-220 · Corporate Secretary · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **217** | Leopard Trophy Penthouse (20/05/2026 — batch 211-220 · Domestic Trophy Moderna · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **220** | Blood Red Pole Predator (20/05/2026 — batch 211-220 · Stripper Pole Specialist · busto 1000cc) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 20/05/2026 20:54 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 20/05/2026 21:12 — La Voûte d'Anaïs* 🫦👠💅
