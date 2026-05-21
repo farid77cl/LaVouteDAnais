@@ -992,9 +992,20 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 2. **Back View:** `full body, back view, turning over shoulder, hair cascading, [fondo]`
 3. **Seated View:** `seated, legs crossed, spine straight, hands on knee, [fondo]`
 4. **Side Profile:** `full body, side profile, extreme lumbar arch, chin lifted, [fondo]`
-5. **Ditzy Expression:** `close-up beauty shot, slightly parted lips, vacant ditzy expression, lashes down then up, [fondo]`
-6. **POV — Goddess Gaze:** `high-angle overhead shot looking down at standing figure, camera tilted 60 degrees downward, XXXL French nails resting on waist in sharp close foreground, décolleté and outfit filling midground, pointed stiletto heels visible at bottom edge of frame, slight perspective compression, one single woman, [fondo]` *(NUNCA usar "first-person POV" — genera duplicados y espejos)*
+5. **Ditzy — Close-Up Trio:** `close-up three-quarter bust shot from slightly above (30° tilt), XXXL French nails touching or resting on décolleté in sharp near foreground, deep plunging neckline and obviously augmented spherical bust filling center frame, face in upper third with "brain empty" vacant ditzy expression eyes unfocused mouth mindlessly parted glossy lips, dramatic lash extensions, cherry red hair cascading framing shot, [fondo blur], 8k editorial fashion photography` — **REGLA:** el trío face+cleavage+nails es SIEMPRE obligatorio sin excepción. Si el outfit no tiene escote profundo, las uñas van al centro del pecho tocando la tela. Nunca beauty shot solo de cara.
+6. **POV — Upward Goddess:** `high-angle shot from slightly above, camera angled 35 degrees downward, Ele looking directly up into camera with "owned" submissive gaze meeting the lens, chin slightly tilted up, XXXL French nails resting at waist in midground, deep décolleté and augmented bust clearly visible in lower-center frame, full figure in three-quarter length visible, pointed stiletto heels at bottom edge, one single woman, [fondo], 8k editorial fashion photography` — **DIFERENCIA VS DITZY:** POV es figura 3/4 con cara mirando a cámara desde abajo · Ditzy es primer plano 30° con nails tocando escote · NUNCA usar "first-person POV" (genera duplicados/espejos) · NUNCA "60 degrees" (elimina la cara del frame)
 7. **Lying Down — The Odalisque:** `full body lying on side forming a languid S-curve, one arm extended with XXXL nails on surface, legs slightly bent, stilettos pointed and visible, [fondo]`
+
+**Resumen visual de las 7 poses:**
+| Pose | Ángulo | Frame | Hero element |
+|------|--------|-------|--------------|
+| Standing | frontal | full body | silhouette completa |
+| Back View | trasero | full body | espalda + tatuajes + tacones |
+| Seated | frontal | 3/4 | piernas cruzadas + tacones |
+| Side Profile | lateral | full body | arco lumbar + silueta |
+| **Ditzy** | **30° picado** | **primer plano** | **face + escote + uñas (trío)** |
+| **POV** | **35° picado** | **3/4 figura** | **mirada hacia arriba + uñas + escote** |
+| Odalisque | lateral | full body | S-curve recostada |
 
 **Los 7 prompts completos (A+B+C) deben quedar escritos en la entrada del Look en `galeria_outfits.md` antes de que se genere ninguna imagen.**
 
