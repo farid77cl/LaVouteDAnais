@@ -7,7 +7,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
 | **Total Looks Planificados** | **210** | 🟢 Expansión (Flota 210) |
-| **Materializados (100%)** | **194** | 🟢 92.38% |
+| **Materializados (100%)** | **197** | 🟢 93.81% |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
@@ -29,9 +29,9 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 192 (Oxblood Boardroom Dominatrix):** 7/7 Poses ✅.
 - ✅ **Look 193 (Oil-Slick Liquid Siren):** 7/7 Poses ✅.
 - ✅ **Look 194 (Porcelain Service Doll):** 7/7 Poses ✅.
-- ⏳ **Look 195 (Burnt Honey Housewife):** 5/7 Poses (En Progreso ✅) ⏳.
-- ⏳ **Look 196 (Glacial Sapphire Executive):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 197 (Wine Velvet Nocturne):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ✅ **Look 195 (Burnt Honey Housewife):** 7/7 Poses ✅.
+- ✅ **Look 196 (Glacial Sapphire Executive):** 7/7 Poses ✅.
+- ✅ **Look 197 (Wine Velvet Nocturne):** 7/7 Poses ✅.
 - ⏳ **Look 198 (Turquoise Court Volley):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 199 (Gold-Lime Showgirl Armor):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
 - ⏳ **Look 200 (Iridescent Vow):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Hito 200) ⏳.

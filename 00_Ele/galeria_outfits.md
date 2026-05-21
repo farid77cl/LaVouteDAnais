@@ -5293,18 +5293,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Choker rígido de cromo grabado "ELE". Pañuelo de lunares atado en el pelo (housewife). Guantes fingerless de PVC burnt orange (`fingerless opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el PVC tenso.
 - **Ambientación:** Cocina retro pastel de penthouse, electrodomésticos cromados vintage, luz cálida de tarde.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
-<summary>📸 7 poses planificadas</summary>
+<summary>📸 7 poses disponibles</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_standing.png) | ![Back View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_backview.png) | ![Seated](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_seated.png) | ![Side Profile](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_ditzy.png) | ![POV](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_pov.png) | ![Odalisque](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✅ Materialización completa — set canónico de 7 poses*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5334,18 +5334,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Puño ancho de cromo espejo. Choker rígido de cromo grabado "ELE". Sin guantes (líneas corporativas limpias), uñas French XXXL 5cm completamente visibles. Navel y nipple piercings de oro blanco visibles en el escote profundo del blazer.
 - **Ambientación:** Oficina esquina acristalada de Sanhattan, hora azul, skyline frío, escritorio de vidrio espejo.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
-<summary>📸 7 poses planificadas</summary>
+<summary>📸 7 poses disponibles</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_standing.png) | ![Back View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_backview.png) | ![Seated](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_seated.png) | ![Side Profile](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_ditzy.png) | ![POV](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_pov.png) | ![Odalisque](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✅ Materialización completa — set canónico de 7 poses*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5375,18 +5375,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Brazalete y pendientes largos de cromo espejo. Choker rígido de cromo grabado "ELE". Guantes opera de satén wine con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el terciopelo tenso.
 - **Ambientación:** Suite art déco de hotel 5★ nocturna, luz cálida ámbar baja, espejos ahumados, terciopelo y mármol negro.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
-<summary>📸 7 poses planificadas</summary>
+<summary>📸 7 poses disponibles</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_standing.png) | ![Back View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_backview.png) | ![Seated](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_seated.png) | ![Side Profile](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_ditzy.png) | ![POV](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_pov.png) | ![Odalisque](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✅ Materialización completa — set canónico de 7 poses*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
