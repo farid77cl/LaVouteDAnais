@@ -6,14 +6,22 @@
 
 ---
 
-## 📊 Estado Estadístico (20/05/2026 — EXPANSIÓN · batch 211-220 · 5 arquetipos actualizados · busto 1000cc)
+## 📊 Estado Estadístico (21/05/2026 — 10 categorías independientes · meta 10% c/u · disolución Mix paraguas)
 
-| Categoría | Meta | Actual | Estado |
-|-----------|------|--------|--------|
-| **Mix** (Nightclub / HF Editorial / Corporate / Domestic / Stripper / Escort / Pin-Up) | 75% | **75.9%** (167) | ✅ Superado (batch 211-220: 10 Mix) |
-| **Bikini** | 10% | **10.0%** (22) | ✅ Cumplido |
-| **Lencería** | 10% | **9.5%** (21) | ⚠️ Déficit −0.5% |
-| **Gym/Athleisure** | 4.8% | **4.5%** (10) | ⚠️ Déficit leve |
+| # | Categoría | Meta | Est. actual | Déficit | Estado |
+|---|-----------|------|:-----------:|--------:|--------|
+| 1 | **HF Editorial** | 10% (22) | ~22 | ≈ 0 | ✅ |
+| 2 | **Nightclub** | 10% (22) | ~15 | ≈ −7 | ⚠️ |
+| 3 | **Corporate** | 10% (22) | ~28 | ≈ +6 | 🔴 Pausa |
+| 4 | **Domestic** | 10% (22) | ~15 | ≈ −7 | ⚠️ |
+| 5 | **Stripper** | 10% (22) | ~13 | ≈ −9 | ⚠️ |
+| 6 | **Escort** | 10% (22) | ~12 | ≈ −10 | ⚠️ |
+| 7 | **Bikini** | 10% (22) | 22 | = 0 | ✅ |
+| 8 | **Lencería** | 10% (22) | ~21 | ≈ −1 | ✅ |
+| 9 | **Pin-Up** | 10% (22) | ~8 | ≈ −14 | 🔴 Prioridad |
+| 10 | **Gym/Athleisure** | 10% (22) | ~11 | ≈ −11 | 🔴 Prioridad |
+
+**Prioridad próximos batches:** Pin-Up → Gym → Escort → Stripper → Nightclub → Domestic → Lencería
 
 > [!IMPORTANT]
 > **ADN V3.5:** busto fijado en 1000cc ultra-alto esférico obviamente artificial (Looks 185+). **Fix Anti-Repetición Cromática** activo: familia dominante no se repite en ventana de 5 looks; Cherry reservado a pelo/labios.
@@ -5416,18 +5424,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Choker rígido de cromo grabado "ELE". Guantes fingerless de vinilo turquoise (`fingerless opera gloves`), uñas French XXXL 5cm visibles. Coleta alta con cinta cromada. Navel y nipple piercings de oro blanco visibles bajo el vinilo tenso.
 - **Ambientación:** Cancha de tenis de arcilla de club privado / cancha de hotel 5★, sol pleno, líneas blancas, cromo brillando.
 
-### 📸 Imágenes (1/7 — En progreso — Cuota API agotada)
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_standing.png) | ![Back View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_backview.png) | ![Seated](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_seated.png) | ![Side Profile](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_ditzy.png) | ![POV](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_pov.png) | ![Odalisque](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_odalisque.png) |
 
 </details>
-
-> *⏳ Materialización parcial (1/7) — Resto de poses pendientes por cuota de API.*
 
 ### 📝 Prompts V3.5 Hard-Sync
 

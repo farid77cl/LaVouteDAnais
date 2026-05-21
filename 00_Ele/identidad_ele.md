@@ -240,7 +240,44 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (LB6) bodystocking sheer full (una pieza transparente total con paneles geométricos opacos estratégicos)
 >   - (LB7) crystal encrusted micro set (micro bra + micro brief totalmente cubiertos en crystal mesh — gala íntima)
 >   **REGLA DUAL:** en cada batch Lencería, al menos 1 Boudoir + 1 Fetish. Balance 50/50 a lo largo del catálogo.
-> - **Gym/Athleisure:** (a) falda plisada corta + crop underbust · (b) catsuit deportivo cremallera · (c) sports-bra + leggings recortado · (d) unitard con cut-outs · (e) shorts ciclista + top atado.
+> - **Bikini:** *(Sub-arquetipo dual V1 — 14 siluetas: 7 Beach Editorial + 7 Studio Micro. Materiales Ele: wet-look spandex/latex/PVC/crystal/chain — nunca tejido de baño. Retro bikini 50s → Pin-Up PA7)*
+>   **POLO A · Beach Editorial / Luxury Pool (playa Mykonos, yate, pool terrace, resort):**
+>   - (BA1) triangle bikini clásico vinyl gloss (top triángulo + tanga o brief coordinado)
+>   - (BA2) high-waist bikini moderno (top bandeau o halter + bottom talle alto — distinto del 50s PA7)
+>   - (BA3) one-piece monokini cut-out extremo (maillot con cortes geométricos en torso/cadera)
+>   - (BA4) wrap bikini drapeado (top halter con drape + brief o tanga, vinyl fluido)
+>   - (BA5) sports bikini crop + high-waist brief (latex thin gauge — formato athletic)
+>   - (BA6) rhinestone embellished set (triangle o bandeau 100% cubierto en cristales — gala beach)
+>   - (BA7) trikini — one-shoulder crop + brief con cadena de conexión lateral
+>   **POLO B · Studio Micro / Fetish Editorial (studio interior, pool cubierta, editorial fetish):**
+>   - (BB1) micro triangle extreme (triángulos mínimos + string casi invisible)
+>   - (BB2) O-ring bikini (anillos chrome conectando piezas — O-rings visibles)
+>   - (BB3) chain bikini (malla de cadenas metálicas finas cubriendo bust + cadera)
+>   - (BB4) architectural vinyl bikini (cups rígidos esculturales + bottom geométrico, sin "tela")
+>   - (BB5) PVC transparent panel set (paneles PVC clear + bordes vinyl color, semi-nude effect)
+>   - (BB6) crystal micro set (micro brief + micro bra 100% Swarovski sin fabric visible)
+>   - (BB7) harness bikini (arnés tipo Bordelle como bikini — straps cruzados + micro pieces)
+>   **CALZADO:** Polo A: stiletto sandal vinyl o mule pin heel (playa) o Pleaser Adore-708. Polo B: Pleaser-ref platform siempre (Adore-708, Flamingo-808).
+>   **REGLA DUAL:** en cada batch Bikini, al menos 1 Beach + 1 Studio. Balance 50/50.
+> - **Gym/Athleisure:** *(Sub-arquetipo dual V1 — 14 siluetas: 7 Gym Performance + 7 Athleisure Street. Inspiración: Buffbunny, GymShark, Whitney Simmons, Sommer Ray. Matching sets coordinados, wet-look spandex/latex thin gauge. SIEMPRE Pleaser-ref platform — igual que Stripper)*
+>   **POLO A · Gym Performance (en el gym: espejo mural, cable machines, squat rack):**
+>   - (GA1) matching set completo — sports bra triángulo + high-waist leggings scrunch back (Buffbunny signature)
+>   - (GA2) bike shorts set — cycle shorts + crop sports bra longline + zip-up jacket match (3 piezas)
+>   - (GA3) seamless ribbed set — bra efecto costilla + legging seamless (GymShark Vital/Adapt)
+>   - (GA4) athletic bodysuit one-piece + high-waist bike shorts encima (unitard con cut-outs laterales)
+>   - (GA5) sports bra + micro gym skort plisado + bike shorts underneath
+>   - (GA6) leotard high-cut con paneles mesh sheer laterales + cinturón gym ancho
+>   - (GA7) crop tank oversized + high-waist legging scrunch (gym casual)
+>   **POLO B · Athleisure Street / Influencer OOD (calle, café, coche, lobby, rooftop):**
+>   - (GB1) oversized crop hoodie + cycle shorts coordinados (GymShark Classic — look más icónico IG)
+>   - (GB2) track suit set ceñido — zip-up top + high-waist jogger wet-look
+>   - (GB3) sports bra + wide-leg track pant flare + crop bomber jacket (glam athleisure trifecta)
+>   - (GB4) tennis court set — micro falda plisada + sports bra + visor
+>   - (GB5) crop bomber jacket vinyl + bike shorts + knee-high socks
+>   - (GB6) catsuit athletic con cut-outs decorativos + cinturón cadera (editorial gym)
+>   - (GB7) wrap mini skirt sobre leggings + matching sports bra (influencer layered look)
+>   **CALZADO (INAMOVIBLE):** SIEMPRE Pleaser-ref platform — misma regla que Stripper. Polo A: Pleaser Delight-608 (6"+platform) o Adore-708. Polo B: Delight-608, Adore-708 o Flamingo-808. Nunca zapatilla plana ni sneaker sin plataforma elevada.
+>   **REGLA DUAL:** en cada batch Gym, al menos 1 Performance + 1 Athleisure. Balance 50/50.
 
 **Corsés:**
 *   Corsé underbust negro de cuero (opcional)

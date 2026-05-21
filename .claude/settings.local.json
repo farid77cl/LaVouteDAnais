@@ -58,7 +58,8 @@
       "Bash(grep -oEci \"con \\(la|el|los|las\\) [^,.]{3,40} \\(de|que\\) [^,.]{3,40}\" capitulo_02_el_escenario_v1.2.md)",
       "Bash(grep -oEi \"con \\(la|el|los|las\\) [^,.\\\\\"]{3,60} \\(de|que\\) [^,.\\\\\"]{3,40}\" capitulo_02_el_escenario_v1.3.md)",
       "Bash(grep -oEci \"con \\(la|el|los|las\\) [^,.\\\\\"]{3,60} \\(de|que\\) [^,.\\\\\"]{3,40}\" capitulo_02_el_escenario_v1.3.md)",
-      "Bash(Get-ChildItem \"C:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\graphify-out\\\\\" -Filter \".graphify_chunk_*.json\" | Select-Object Name, Length, LastWriteTime | Sort-Object Name)"
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\graphify-out\\\\\" -Filter \".graphify_chunk_*.json\" | Select-Object Name, Length, LastWriteTime | Sort-Object Name)",
+      "Bash(python 99_Sistema/scripts/append_looks_211_220.py)"
     ]
   }
 }

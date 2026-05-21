@@ -105,22 +105,24 @@ Por orden de la Ama (14/05/2026): los activos existentes de estos 5 looks **se c
 ### 1. Análisis de Mix de Arquetipos
 Antes de proponer un Look, consulta la tabla de estadísticas en [galeria_outfits.md](file:///c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md).
 
-**Categorías principales (tipo de prenda):**
-- **Mix** (Corporate / Domestic / High-Fashion / Escort / Stripper / Pin-Up): Meta 75%
-- **Bikini:** Meta 10%
-- **Lencería:** Meta 10%
-- **Gym/Athleisure:** Meta 5%
+**10 categorías independientes — Meta: 10% cada una (21/05/2026 · disolución Mix paraguas)**
 
-**Sub-arquetipos dentro de Mix** (Meta: 14.3% cada uno — actualizado 20/05/2026 al separar HF de Nightclub):
-1. **High-Fashion Editorial** *(antes "High-Fashion & Nightclub" — separado 20/05/2026)*
-2. **Nightclub** *(nuevo sub-arquetipo independiente — 20/05/2026)*
-3. Corporate
-4. Domestic
-5. Professional Stripper
-6. Escort de Lujo
-7. Pin-Up & Athleisure
+| # | Categoría | Meta | Est. actual (220) | Déficit |
+|---|-----------|------|:-----------------:|--------:|
+| 1 | **HF Editorial** | 10% (22) | ~22 | ≈ 0 |
+| 2 | **Nightclub** | 10% (22) | ~15 | ≈ −7 |
+| 3 | **Corporate** | 10% (22) | ~28 | ≈ +6 |
+| 4 | **Domestic** | 10% (22) | ~15 | ≈ −7 |
+| 5 | **Stripper** | 10% (22) | ~13 | ≈ −9 |
+| 6 | **Escort** | 10% (22) | ~12 | ≈ −10 |
+| 7 | **Bikini** | 10% (22) | 22 | = 0 |
+| 8 | **Lencería** | 10% (22) | ~21 | ≈ −1 |
+| 9 | **Pin-Up** | 10% (22) | ~8 | ≈ −14 ⚠️ |
+| 10 | **Gym/Athleisure** | 10% (22) | ~11 | ≈ −11 ⚠️ |
 
-Si una categoría o sub-arquetipo está bajo, el nuevo Look **debe** pertenecer a esa categoría.
+**Prioridad de próximos batches (mayor déficit primero):** Pin-Up → Gym → Escort → Stripper → Nightclub → Domestic → Lencería → el resto.
+
+Si una categoría está bajo, el nuevo Look **debe** pertenecer a esa categoría. Corporate en pausa relativa (está sobre la meta).
 
 ---
 
@@ -760,6 +762,169 @@ Si una categoría o sub-arquetipo está bajo, el nuevo Look **debe** pertenecer 
 - Zapato casual, sneaker o mule sin tacón — siempre stiletto fino o mule con pin heel
 
 **Regla Dual:** En cada batch Lencería, **al menos 1 Boudoir + 1 Fetish**. Balance 50/50 a lo largo del catálogo.
+
+---
+
+### 🏋️ Sub-arquetipo Gym/Athleisure (Spec V1 — 21/05/2026 · Dual, influencer Instagram)
+
+**Universo:** Ele en el mundo fitness/influencer de Instagram — desde el gym pic con equipo visible hasta el look athleisure en calle o café. Código visual: matching sets coordinados, cintura ultra-alta, scrunch detail, midriff expuesto (navel piercing visible), máximo gloss. Inspiración: Buffbunny Collection, GymShark, Whitney Simmons, Sommer Ray.
+
+**⚠️ CALZADO INAMOVIBLE — REGLA PLEASER (igual que Stripper):**
+Ele SIEMPRE en Pleaser-ref platform en looks Gym/Athleisure. Nunca zapatilla plana, sneaker sin plataforma elevada, ni mule sin pin heel.
+
+| Polo | Modelos Pleaser recomendados |
+|------|----------------------------|
+| **A Performance** | Delight-608 (6" plataforma, cierre cremallera) · Adore-708 (7" plataforma, open toe) |
+| **B Athleisure** | Delight-608 · Adore-708 · Flamingo-808 (8"+4" plataforma clásica) |
+
+**Regla de materiales Gym (traducción ADN Ele):**
+
+| Original atlético | Versión Ele |
+|-------------------|------------|
+| Lycra / spandex | wet-look spandex (high-gloss, body-contouring) |
+| Supplex mate | latex thin gauge (delgado, activo, brillante) |
+| Mesh ventilación | sheer PVC mesh (transparente estructurado) |
+| Tela técnica | mirror vinyl stretch panels (acento / detalles) |
+| Algodón oversized | wet-look stretch lightweight (hoodie/bomber) |
+
+**Diferencias clave vs. otros sub-arquetipos:**
+- **vs. Stripper:** Stripper = performance en escenario (jaula, pole, fringe) · Gym = fitness aesthetic (gym equipment, matching set, Instagram pic).
+- **vs. Domestic:** Domestic = interior doméstico (casa) · Gym = gym / exterior urbano.
+- **vs. Pin-Up Polo C Aerobics:** Pin-Up PC3 es 80s aerobics CON referencia de época · Gym es atemporal/actual, sin marcador temporal.
+
+**Biblioteca de siluetas:** 14 opciones (7 Performance + 7 Athleisure)
+
+**POLO A · Gym Performance:**
+
+| Código | Silueta | Referencia |
+|--------|---------|-----------|
+| GA1 | matching set completo — sports bra triángulo + high-waist leggings scrunch back | Buffbunny signature |
+| GA2 | bike shorts set — cycle shorts + crop sports bra longline + zip-up jacket match (3 piezas) | GymShark Adapt |
+| GA3 | seamless ribbed set — bra efecto costilla + legging seamless sin costuras | GymShark Vital |
+| GA4 | athletic bodysuit one-piece + high-waist bike shorts encima + cut-outs laterales | editorial gym |
+| GA5 | sports bra + micro gym skort plisado + bike shorts underneath | gym + feminidad |
+| GA6 | leotard high-cut con paneles sheer PVC mesh laterales + cinturón gym ancho | dance meets gym |
+| GA7 | crop tank oversized + high-waist legging scrunch (gym casual day) | Buffbunny casual |
+
+**POLO B · Athleisure Street / Influencer OOD:**
+
+| Código | Silueta | Referencia |
+|--------|---------|-----------|
+| GB1 | oversized crop hoodie + cycle shorts coordinados | GymShark Classic IG |
+| GB2 | track suit set ceñido — zip-up top + high-waist jogger wet-look | influencer travel |
+| GB3 | sports bra + wide-leg track pant flare + crop bomber jacket | glam athleisure trifecta |
+| GB4 | tennis court set — micro falda plisada + sports bra + visor | court aesthetic IG |
+| GB5 | crop bomber jacket vinyl + bike shorts + knee-high socks | street athleisure |
+| GB6 | catsuit athletic con cut-outs decorativos + cinturón cadera chain | editorial gym |
+| GB7 | wrap mini skirt sobre leggings + matching sports bra | influencer layered look |
+
+**Paleta canon Gym:**
+
+| Polo | Colores |
+|------|---------|
+| **A Performance** | Hot pink fluorescent · electric cyan · neon lime · black gloss · monochromatic cobalt · sage wet-look · orange neon |
+| **B Athleisure** | Camel wet-look · hot magenta · black+neon accent · lavender gloss · army green gloss · color-block bicolor |
+
+**Prints permitidos:** camo vinyl · marble gloss · color-block bicolor · holographic · leopard wet-look
+
+**Settings canon:**
+
+| Polo | Settings |
+|------|---------|
+| **A** | Gym espejo mural + cable machines · squat rack visible · estudio danza espejo · rooftop gym amanecer · estudio pilates blanco |
+| **B** | Calle urbana día · café ventana · lobby edificio · coche deportivo · escalera arquitectónica · rooftop ciudad tarde |
+
+**Combos canon Gym (recomendados):**
+
+| Combo | Silueta | Material | Paleta | Setting | Calzado |
+|-------|---------|----------|--------|---------|---------|
+| Buffbunny Pink | GA1 | wet-look spandex | Hot pink fluorescent | Gym espejo mural | Delight-608 |
+| GymShark Classic | GB1 | wet-look stretch | Black + neon lime | Calle urbana | Adore-708 |
+| Neon Seamless | GA3 | latex thin gauge ribbed | Electric cyan | Squat rack visible | Delight-608 |
+| Court Glam | GB4 | latex thin gauge | Lavender gloss | Calle / exterior | Flamingo-808 |
+| Editorial Unitard | GA4 | latex + PVC mesh | Cobalt monochromatic | Estudio danza | Adore-708 |
+| Track Glam | GB2 | wet-look stretch | Camel wet-look | Lobby edificio | Flamingo-808 |
+
+**Combos PROHIBIDOS en Gym:**
+- Zapatilla plana o sneaker sin plataforma Pleaser (SIEMPRE plataforma elevada — regla inamovible)
+- Tela mate sin gloss (algodón, dri-fit técnico sin acabado brillante)
+- Setting nocturno de club o escenario (eso es Stripper o Nightclub)
+- Prendas sueltas sin ceñir (Gym = siempre body-contouring, nunca oversized sin match ceñido debajo)
+
+**Regla Dual:** En cada batch Gym, **al menos 1 Performance + 1 Athleisure**. Balance 50/50 a lo largo del catálogo.
+
+---
+
+### 👙 Sub-arquetipo Bikini (Spec V1 — 21/05/2026 · Dual, Beach Editorial + Studio Micro)
+
+**Universo:** Ele en formato swimwear — desde la playa editorial de lujo (Mykonos, yate, pool terrace) hasta el studio fetish micro (shoot interior, pool cubierta, editorial extremo). El "tejido de baño" se convierte en vinyl/PVC/latex. ⚠️ **Retro bikini 50s (high-waist + scarf) = Pin-Up PA7, NO aquí.**
+
+**Diferencias clave vs. otros sub-arquetipos:**
+- **vs. Pin-Up PA7:** Pin-Up PA7 = bikini 50s CON referencia de época (scarf, crinolina, soda fountain) · Bikini aquí = swimwear contemporáneo/editorial.
+- **vs. Lencería:** Lencería = intimidad cerrada (suite, boudoir) · Bikini = exterior playa/pool o studio.
+- **vs. Gym:** Gym = matching set atlético en gym/calle · Bikini = swimwear en agua/playa/studio.
+
+**Regla de materiales Bikini:**
+
+| Original swimwear | Versión Ele |
+|-------------------|------------|
+| Lycra de baño | wet-look spandex high-gloss |
+| Tejido mate | latex thin gauge brillante |
+| Semitransparente | sheer PVC panel |
+| Metal accesorio | chain links / O-rings chrome |
+| Cristal bordado | rhinestone / Swarovski |
+
+**Biblioteca de siluetas:** 14 opciones (7 Beach + 7 Studio)
+
+**POLO A · Beach Editorial / Luxury Pool:**
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| BA1 | triangle bikini clásico vinyl gloss (top triángulo + tanga o brief coordinado) | Mykonos editorial |
+| BA2 | high-waist bikini moderno (bandeau o halter + bottom talle alto) | distinto del 50s PA7 |
+| BA3 | one-piece monokini cut-out extremo (maillot con cortes geométricos torso/cadera) | luxury pool |
+| BA4 | wrap bikini drapeado (top halter con drape + brief, vinyl fluido) | yate cubierta |
+| BA5 | sports bikini crop + high-waist brief (latex thin gauge — athletic) | resort pool |
+| BA6 | rhinestone embellished set (triangle o bandeau 100% cubierto en cristales) | gala beach |
+| BA7 | trikini — one-shoulder crop + brief con cadena de conexión lateral | editorial playa |
+
+**POLO B · Studio Micro / Fetish Editorial:**
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| BB1 | micro triangle extreme (triángulos mínimos + string casi invisible) | studio fetish |
+| BB2 | O-ring bikini (anillos chrome conectando piezas — O-rings visibles) | editorial industrial |
+| BB3 | chain bikini (malla de cadenas metálicas finas cubriendo bust + cadera) | metal couture |
+| BB4 | architectural vinyl bikini (cups rígidos esculturales + bottom geométrico) | sculptural |
+| BB5 | PVC transparent panel set (paneles PVC clear + bordes vinyl color) | semi-nude effect |
+| BB6 | crystal micro set (micro bra + micro brief 100% Swarovski) | gala íntima |
+| BB7 | harness bikini (arnés tipo Bordelle como bikini — straps cruzados + micro pieces) | fetish pool |
+
+**Paleta canon Bikini:**
+
+| Polo | Colores |
+|------|---------|
+| **A Beach** | Cherry red gloss · electric cyan · white nácar · neon coral · hot pink · gold metallic · cobalt blue |
+| **B Studio** | Chrome silver · crystal clear · neon UV · deep wine · black gloss · rose gold · neon yellow |
+
+**Settings canon:**
+
+| Polo | Settings |
+|------|---------|
+| **A** | Playa arena blanca · yate cubierta · pool terrace resort · infinity pool · rocks mediterráneos |
+| **B** | Studio caja negra · pool cubierta azul neón · espejo suelo-techo · fondo liso color · iluminación neón |
+
+**Calzado:**
+- **Polo A (Beach):** stiletto sandal vinyl o mule pin heel (punta fina, abierta) · Pleaser Adore-708 pool-style
+- **Polo B (Studio):** Pleaser-ref platform siempre (Adore-708, Flamingo-808)
+
+**Combos PROHIBIDOS en Bikini:**
+- Tejido de baño mate (lycra normal, supplex mate) — siempre wet-look/latex/vinyl
+- Bikini retro 50s (high-waist + scarf + setting vintage) → eso es Pin-Up PA7
+- Setting doméstico cerrado (eso es Lencería)
+- Zapatilla plana en Polo B
+
+**Regla Dual:** En cada batch Bikini, **al menos 1 Beach + 1 Studio**. Balance 50/50 a lo largo del catálogo.
 
 ---
 
