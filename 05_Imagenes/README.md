@@ -16,4 +16,4 @@
 - 📁 [**Video Trance I**](./video_trance_i/README.md)
 
 ---
-*Sincronizado con GitHub: 2026-05-20* 👄
+*Sincronizado con GitHub: 2026-05-20 · Flota Ele: 220 looks (L211-L220 pendientes materialización)* 👄

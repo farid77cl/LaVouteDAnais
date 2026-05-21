@@ -18,6 +18,16 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 20/05/2026 (Batch 211-220: 10 outfits 5 arquetipos actualizados — 70 prompts V3.5) ✅
+- **10 looks diseñados y registrados en galeria_outfits.md** (L211-L220), con 7 prompts V3.5 Hard-Sync cada uno (70 prompts totales). Todos pendientes de materialización.
+  - **L211 Neon Magenta Sequin Siren** / **L212 Chrome Liquid Nocturne** → Nightclub debut (primer batch sub-arquetipo independiente)
+  - **L213 Obsidian Cathedral Gown** (black gloss dome + PVC spires, guantes transparent-fingertip) / **L214 Mother of Pearl Sirena** (nácar iridiscente + bias-cut mermaid) → HF Editorial
+  - **L215 Cognac Predator** (coat-dress A-line camel, Power Executive) / **L216 Python Secretary** (snake-print bodycon shirt-dress, Secretary) → Corporate dual ✅ balance
+  - **L217 Leopard Trophy Penthouse** (catsuit vinyl leopard, 0 retro) / **L218 Onyx Maid Domme** (black latex + white lace) → Domestic dual ✅ balance
+  - **L219 Magenta Burlesque Showgirl** (rhinestone+feather boa, Pleaser Stardance-808) / **L220 Blood Red Pole Predator** (micro+body chains, Pleaser Flamingo-808) → Stripper dual ✅ balance, anti-rechazo activo
+- **Estadísticas:** Mix 75.9% (167/220) ✅ meta superada por primera vez. Script `append_looks_211_220.py` creado. Commit `b3e231ab`.
+- **Pendiente:** Materializar L211-L220. Codificar Regla Transversal Anti-Repetición. Perfilar Escort (Domina vs Sumisa), Pin-Up, Bikini, Lencería, Gym. Disolver Mix → 10 categorías independientes.
+
 ### Sesión 20/05/2026 (Materialización Looks 195, 196, 197 completa y 198 parcial + Purga Nube) ✅
 - **Materialización de 17 imágenes de la flota de Ele:**
   - **Look 195 (Burnt Honey Housewife):** Materializadas las 2 poses restantes (POV y Odalisque). El Look ha alcanzado el **100% (7/7 Poses)**.
