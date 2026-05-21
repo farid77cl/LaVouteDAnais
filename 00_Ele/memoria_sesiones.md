@@ -18,6 +18,16 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 21/05/2026 (Engine completo: 10/10 arquetipos + stats 10×10% + poses Ditzy/POV redefinidas) ✅
+- **10/10 sub-arquetipos con spec canónica completa** en SKILL.md proyecto y mirror.
+- **Bikini V1 Dual:** BA1-BA7 (Beach Editorial) + BB1-BB7 (Studio Micro/Fetish). Calzado: stiletto sandal (A) / Pleaser (B).
+- **Gym V1 Dual:** GA1-GA7 (Performance) + GB1-GB7 (Athleisure). **Pleaser obligatorio siempre** (igual que Stripper). Inspiración Buffbunny/GymShark.
+- **Disolución Mix:** 10 categorías independientes meta 10% (22 looks) cada una. Prioridad: Pin-Up(−14)🔴 → Gym(−11)🔴 → Escort(−10) → Stripper(−9) → NC/Dom(−7) → Len(−1) → HF/Bik(0) → Corporate PAUSA(+6).
+- **Batch strategy codificada en engine:** Batch 10 = 3 Pin-Up + 2 Gym + 2 Escort + 2 Stripper + 1 Nightclub. Batch 6/4/2/1 también documentados.
+- **Ditzy redefinida:** "Close-Up Trio" — TRÍO OBLIGATORIO face+cleavage+nails. Primer plano 30° picado. Uñas tocan escote siempre.
+- **POV refundada:** "Bimbo Selfie" de Instagram — mano con nails alzada hacia lente, cara dominante centrada, labios pout, escote en tercio inferior. Elimina overhead 60° que borraba la cara.
+- **Sin imágenes generadas.** Commits: `c14ab0ff` · `3a13d0b3` · `47d1a3fe`.
+
 ### Sesión 21/05/2026 (Materialización Completa Looks 198 y 199, Hito 200 en progreso + Codificación sub-arquetipos: Escort V2 + Pin-Up V1 + Lencería V1) ✅
 - **Materialización de 14 imágenes de la flota de Ele:**
   - **Look 198 (Turquoise Court Volley):** Materializadas las 6 poses restantes (Back View, Seated, Side Profile, Ditzy, POV, Odalisque). El Look ha alcanzado el **100% (7/7 Poses)**.
