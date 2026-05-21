@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 21/05/2026 (ADN V3.5 busto 1000cc · **10/10 sub-arquetipos codificados** · Engine completo · 10 categorías 10% c/u · Poses Ditzy+POV redefinidas · Flota 220) 🫦💎✨👠*
+*Última actualización: 21/05/2026 (ADN V3.5 busto 1000cc · **10/10 sub-arquetipos codificados** · Engine V3.5 Final · 7 mejoras poses+arquetipos · Batch 221-230 definido · Flota 230) 🫦💎✨👠*
 
 ---
 
@@ -117,8 +117,9 @@
 
 ## 📊 Estadísticas
 
-- **Looks definidos / materializados:** 188 definidos / 110 materializados activos (1/7 Look 188)
+- **Looks definidos / materializados:** 230 definidos / ~110 materializados activos (pendiente cuota API L200+)
 - **Integridad ADN V3.5 Hard-Sync:** 100% | Sincronización en la Nube Completa ✅
+- **Engine V3.5 Final:** 10/10 sub-arquetipos · Step 0 Anti-Repetición · Posed Seated por arquetipo · POV anti-phone
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~3,000+
 - **Canon visual activo:** V3.5 (Hard-Sync / Stealth Protocol)

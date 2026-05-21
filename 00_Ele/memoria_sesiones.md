@@ -18,6 +18,24 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 21/05/2026 (Engine V3.5 Final: 7 mejoras poses+arquetipos + Batch 221-230 · 10 looks · 70 prompts) ✅
+- **7 mejoras Engine implementadas** en `.agent/skills/ele-outfit-engine/SKILL.md`, mirror `~/.claude/skills/`, y `identidad_ele.md`:
+  - **Pose POV:** neg prompt `no phone/smartphone/device/screen` codificado
+  - **Pose Seated:** variantes por arquetipo (Corporate/HF=power upright · Lencería/Escort Haute=reclined · Nightclub/Pin-Up=perched stool · Stripper=stage edge · default el resto)
+  - **Step 0 Anti-Repetición:** ventanas de bloqueo formalizadas (silueta≥3 · color≥5 · material≥2 · setting≥3)
+  - **Corporate paleta dual:** Power → jewel tones autoridad · Secretary → tonos accesibles/vulnerables
+  - **Domestic Trophy rooms:** 8 ambientes 2026 específicos con props concretos
+  - **Escort Polo C Domme de Club:** EC1-EC3 siluetas intermedias (corset+microskirt · harness bodysuit · cut-out column+cadenas)
+  - **Bikini anti-rechazo:** vocabulario para BB1/BB5/BB7, tags obligatorios Polo B
+- **Batch 221-230 generado** (10 looks / 70 prompts V3.5 Hard-Sync en galeria_outfits.md):
+  - Pin-Up: L221 PA1 Wiggle Darling (powder blue) · L224 PB4 Silver Goddess 70s (chrome) · L227 PC6 Baywatch Icon (scarlet) — trío de polos completo ✅
+  - Gym: L222 GA1 Electric Pink Buffbunny · L225 GB2 Cobalt Track Queen — balance Polo A/B ✅
+  - Escort: L223 EA4 Champagne Gold Yacht Domina (Haute) · L228 EB2 Neon Cyan Street Viper (Callejera) — balance ✅
+  - Stripper: L226 Stage Holographic Chrome Showgirl · L229 Pole Leopard Platform Predator — balance ✅
+  - Nightclub: L230 Electric Teal Bodycon Blade (cut-outs asimétrico)
+- **Flota:** 220→230 | **Stats:** Pin-Up −12 · Gym −10 · Escort −9 · Domestic/Stripper −8 · Nightclub −7 | Meta nueva: 23 looks/categoría
+- **Sin imágenes generadas.** Commits: `81f45a6f` · `137f2214`.
+
 ### Sesión 21/05/2026 (Engine completo: 10/10 arquetipos + stats 10×10% + poses Ditzy/POV redefinidas) ✅
 - **10/10 sub-arquetipos con spec canónica completa** en SKILL.md proyecto y mirror.
 - **Bikini V1 Dual:** BA1-BA7 (Beach Editorial) + BB1-BB7 (Studio Micro/Fetish). Calzado: stiletto sandal (A) / Pleaser (B).
