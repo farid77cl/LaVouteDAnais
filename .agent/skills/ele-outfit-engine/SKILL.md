@@ -102,27 +102,57 @@ Por orden de la Ama (14/05/2026): los activos existentes de estos 5 looks **se c
 
 ---
 
-### 1. Análisis de Mix de Arquetipos
+### 1. Análisis de Arquetipos
 Antes de proponer un Look, consulta la tabla de estadísticas en [galeria_outfits.md](file:///c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md).
 
 **10 categorías independientes — Meta: 10% cada una (21/05/2026 · disolución Mix paraguas)**
 
-| # | Categoría | Meta | Est. actual (220) | Déficit |
-|---|-----------|------|:-----------------:|--------:|
-| 1 | **HF Editorial** | 10% (22) | ~22 | ≈ 0 |
-| 2 | **Nightclub** | 10% (22) | ~15 | ≈ −7 |
-| 3 | **Corporate** | 10% (22) | ~28 | ≈ +6 |
-| 4 | **Domestic** | 10% (22) | ~15 | ≈ −7 |
-| 5 | **Stripper** | 10% (22) | ~13 | ≈ −9 |
-| 6 | **Escort** | 10% (22) | ~12 | ≈ −10 |
-| 7 | **Bikini** | 10% (22) | 22 | = 0 |
-| 8 | **Lencería** | 10% (22) | ~21 | ≈ −1 |
-| 9 | **Pin-Up** | 10% (22) | ~8 | ≈ −14 ⚠️ |
-| 10 | **Gym/Athleisure** | 10% (22) | ~11 | ≈ −11 ⚠️ |
+El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales. Meta fija: **10% de la flota total** por categoría.
 
-**Prioridad de próximos batches (mayor déficit primero):** Pin-Up → Gym → Escort → Stripper → Nightclub → Domestic → Lencería → el resto.
+| # | Categoría | Meta | Est. actual (220) | Déficit | Estado |
+|---|-----------|:----:|:-----------------:|--------:|:------:|
+| 1 | **HF Editorial** | 10% (22) | ~22 | ≈ 0 | ✅ |
+| 2 | **Nightclub** | 10% (22) | ~15 | −7 | ⚠️ |
+| 3 | **Corporate** | 10% (22) | ~28 | +6 | 🔴 Pausa |
+| 4 | **Domestic** | 10% (22) | ~15 | −7 | ⚠️ |
+| 5 | **Stripper** | 10% (22) | ~13 | −9 | ⚠️ |
+| 6 | **Escort** | 10% (22) | ~12 | −10 | ⚠️ |
+| 7 | **Bikini** | 10% (22) | 22 | 0 | ✅ |
+| 8 | **Lencería** | 10% (22) | ~21 | −1 | ✅ |
+| 9 | **Pin-Up** | 10% (22) | ~8 | **−14** | 🔴 #1 |
+| 10 | **Gym/Athleisure** | 10% (22) | ~11 | **−11** | 🔴 #2 |
 
-Si una categoría está bajo, el nuevo Look **debe** pertenecer a esa categoría. Corporate en pausa relativa (está sobre la meta).
+**Regla de prioridad (OBLIGATORIA):**
+1. Identificar la categoría con mayor déficit.
+2. El nuevo Look **debe** pertenecer a esa categoría.
+3. Corporate está en pausa relativa — no generar Corporate salvo que todas las demás estén en meta.
+4. Al llegar a una nueva flota redonda (250, 300…), actualizar la columna "Est. actual" y recalcular déficit.
+
+**Orden de prioridad fijo (actualizado 21/05/2026 · flota 220):**
+```
+1. Pin-Up      (−14) 🔴
+2. Gym         (−11) 🔴
+3. Escort      (−10) ⚠️
+4. Stripper     (−9) ⚠️
+5. Nightclub    (−7) ⚠️
+6. Domestic     (−7) ⚠️
+7. Lencería     (−1) ⚠️
+8. HF Editorial  (0) ✅
+9. Bikini        (0) ✅
+10. Corporate   (+6) 🔴 PAUSA
+```
+
+**Composición recomendada de batches:**
+
+| Tamaño batch | Composición óptima |
+|:------------:|--------------------|
+| **Batch 10** | 3 Pin-Up + 2 Gym + 2 Escort + 2 Stripper + 1 Nightclub |
+| **Batch 6** | 2 Pin-Up + 1 Gym + 1 Escort + 1 Stripper + 1 Nightclub |
+| **Batch 4** | 2 Pin-Up + 1 Gym + 1 Escort |
+| **Batch 2** | 1 Pin-Up + 1 Gym |
+| **Look solo** | Pin-Up (hasta que alcance meta) |
+
+**Regla dual/tri dentro de cada batch:** aunque el batch priorice categorías deficitarias, al generar ≥2 looks de la misma categoría **siempre aplicar la regla de polo** de esa categoría (ej: 2 Pin-Up = 1 Bombshell + 1 Retro-Futurismo o Decade Glam).
 
 ---
 
