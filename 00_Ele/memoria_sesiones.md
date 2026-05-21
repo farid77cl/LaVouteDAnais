@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 21/05/2026 (Codificación sub-arquetipos: Escort V2 + Pin-Up V1 + Lencería V1) ✅
+- **Escort V2 Dual implementado** (3 archivos): 14 siluetas EA1-EA7 (Haute/Domina: suite presidencial, yate, gala) + EB1-EB7 (Callejera/Sumisa: esquina neón, motel, strip mall). Materiales E1-E12 codificados. Paleta dual. Regla Dual (1 Haute + 1 Callejera por batch).
+- **Pin-Up V1 Tri-Polo implementado** (3 archivos): 21 siluetas en 3 polos — PA1-PA7 Bombshell Clásica (50s-60s) · PB1-PB7 Retro-Futurismo (Courrèges/Rabanne/Synth 60s-80s) · PC1-PC7 Decade Glam (70s-90s: disco/aerobics/supermodelo/Baywatch). Migración retro de Domestic formalizada. Excepción pasteles Polo A codificada. Regla Tri-Polo.
+- **Lencería V1 Dual implementado** (3 archivos): 14 siluetas — LA1-LA7 Luxury Boudoir (La Perla/AP/HB) + LB1-LB7 Fetish Arquitectónico (Bordelle/HB dark/harness couture). Regla de traducción de materiales codificada (encaje→vinyl laser-cut, seda→latex, tul→crystal mesh). Regla Dual.
+- **Estado arquetipos:** 8/10 con spec canónica completa ✅. Pendientes: Bikini · Gym.
+- **Pendiente:** Codificar Bikini + Gym. Redistribuir metas estadísticas (10 categorías independientes). Regla transversal anti-repetición. Materializar L211-L220.
+
 ### Sesión 20/05/2026 (Batch 211-220: 10 outfits 5 arquetipos actualizados — 70 prompts V3.5) ✅
 - **10 looks diseñados y registrados en galeria_outfits.md** (L211-L220), con 7 prompts V3.5 Hard-Sync cada uno (70 prompts totales). Todos pendientes de materialización.
   - **L211 Neon Magenta Sequin Siren** / **L212 Chrome Liquid Nocturne** → Nightclub debut (primer batch sub-arquetipo independiente)

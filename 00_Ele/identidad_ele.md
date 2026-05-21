@@ -135,7 +135,24 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (m) crop blazer abierto + bra-top visible + mini falda lápiz (secretaria upgrade)
 >   - (n) power-shirt-dress desabrochada + stilettos thigh-high boots (secretaria-dominatrix)
 >   **REGLA DUAL:** en cada batch Corporate, al menos 1 Power + 1 Secretary. Balance 50/50 a lo largo del catálogo. Nunca batch 100% de un polo.
-> - **Escort:** (a) columna líquida al suelo + slit · (b) bias-cut slip 30s · (c) gown sirena con cola · (d) two-piece de gala (top + falda larga) · (e) catsuit translúcido con capa.
+> - **Escort:** *(Sub-arquetipo dual V2 — 14 siluetas: 7 Haute/Domina + 7 Callejera/Sumisa)*
+>   **POLO A · Escort Haute / Domina (suite presidencial, yate, cena privada, gala VIP):**
+>   - (a) columna líquida floor-length + slit lateral + capa de tafetán vinyl (entrada dramática)
+>   - (b) bias-cut slip dress 30s en wet-satin o liquid metal (elegancia fluida aristocrática)
+>   - (c) gown sirena con cola estructurada en latex couture (gala máxima, cola corta de un metro)
+>   - (d) two-piece bustier rígido + falda maxi columna (top escultural + falda fluida)
+>   - (e) catsuit translúcido crystal mesh + sobre-falda midi (transparencia cubierta, gala)
+>   - (f) cocktail midi asimétrico one-shoulder + guantes opera fingerless (cena ejecutiva)
+>   - (g) wrap-dress power vinyl cinched + cinturón oro (cóctel privado, diplomacia)
+>   **POLO B · Escort Callejera / Sumisa (esquina neón, motel, strip mall nocturno):**
+>   - (h) mini-dress bodycon cut-outs extremos en torso + caderas (vinyl patent ceñidísimo)
+>   - (i) micro-skirt vinyl + crop-top translúcido PVC coloreado + over-the-knee boots
+>   - (j) micro-shorts patent + blouse atada al ombligo + over-knee boots plataforma
+>   - (k) mini wrap-dress ultra-ceñido vinyl + plataformas exageradas Pleaser-ref
+>   - (l) bodysuit sheer + micro-skirt fringe vinyl + garter cinturón visible
+>   - (m) cut-out bodycon extreme side-slits hasta la cadera en vinyl espejo
+>   - (n) micro-dress espalda completamente abierta + choker O-ring + cadena cadera
+>   **REGLA DUAL:** en cada batch Escort, al menos 1 Haute + 1 Callejera. Balance 50/50 a lo largo del catálogo. Haute: tacón stiletto elegante. Callejera: plataforma Pleaser permitida.
 > - **Domestic:** *(Sub-arquetipo dual V3 — 14 siluetas: 7 Trophy Bimbo Moderna + 7 Maid Fetish. PROHIBIDO retro/50s/60s — todo lo retro migra a Pin-Up)*
 >   **POLO A · Trophy Bimbo Moderna 2026 (esposa-trofeo de Vitacura, penthouse contemporáneo):**
 >   - (a) bodycon mini-dress + apron architectural minimalista moderno
@@ -154,7 +171,32 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (m) cocinera-fetish apron-dress de chef estilizado + tights + heels
 >   - (n) surreal maid couture — uniforme deconstruido (Schiaparelli surreal)
 >   **REGLA DUAL:** en cada batch Domestic, al menos 1 Trophy + 1 Maid. Balance 50/50. PROHIBIDO retro/50s/wiggle/gingham/polka-dot (eso va a Pin-Up).
-> - **Pin-Up:** (a) playsuit halter + copa cónica · (b) playdress tenis + skort · (c) sundress sweetheart + falda circular crinolina · (d) high-waist short + bra-top atado · (e) sailor/retro romper estructurado.
+> - **Pin-Up:** *(Sub-arquetipo tri-polo V1 — 21 siluetas: 7 Bombshell Clásica + 7 Retro-Futurismo + 7 Decade Glam. Recibe migración retro desde Domestic. Cubre 1950s→1990s filtrado por ADN Ele)*
+>   **POLO A · Bombshell Clásica (1950s-1960s) — pin-up de calendario, housewife peligrosa, playa de época:**
+>   - (PA1) wiggle dress tubo ceñido a la rodilla + sweetheart neckline (polka-dot PVC o color block vinyl)
+>   - (PA2) circle skirt + blouse nudo al ombligo + cinturón de cintura (ama de casa fetish)
+>   - (PA3) halter sundress + falda crinolina full (petticoat peek, swing silhouette)
+>   - (PA4) sweater girl: jumper ajustado + high-waist pencil skirt + heels (Lana Turner fetish)
+>   - (PA5) playsuit halter + copa cónica (romper estructurado + pointy cups — calendario)
+>   - (PA6) apron-dress vintage (vestido+delantal retro, housewife peligrosa)
+>   - (PA7) high-waist bikini 50s + scarf-halter (playa de época, talle alto, pañuelo en pelo)
+>   **POLO B · Retro-Futurismo (1960s-1980s) — Space Age, Atomic Bombshell, Synth-Goddess:**
+>   - (PB1) Space Age shift mini (Courrèges/Cardin: blanco vinyl + visor geométrico o helmet)
+>   - (PB2) chainmail micro-dress (Paco Rabanne: anillas metálicas, disco de metal)
+>   - (PB3) atomic bombshell: circle skirt estampado atómico/orbit + blusa pin tucked
+>   - (PB4) 70s silver goddess: catsuit metálico plateado + capa circular + platform boots
+>   - (PB5) 80s synth-power: power shoulders neon + catsuit vinyl + cinturón ancho metálico
+>   - (PB6) 80s pop-icon: bra-top vinyl + mini falda lápiz + guantes fingerless lace-vinyl
+>   - (PB7) retro-android doll: latex blanco + visor iridiscente + detalles mecánicos decorativos
+>   **POLO C · Decade Glam (1970s-1990s) — disco, aerobics, supermodelo 90s, club kid, Baywatch:**
+>   - (PC1) 70s disco wrap-dress ceñido (vinyl print + platform heels + headband)
+>   - (PC2) 70s hot pants + halter metallic (short talle alto + halter brillante + plataformas)
+>   - (PC3) 80s aerobics-glam (leotard vinyl high-cut + legwarmers + scrunchie)
+>   - (PC4) 90s slip dress supermodelo (spaghetti strap columna + choker + stilettos)
+>   - (PC5) 90s club kid vinyl (mini skirt vinyl + crop top + platform chunky + choker)
+>   - (PC6) 90s Baywatch (one-piece high-cut swimsuit rojo brillante)
+>   - (PC7) 90s latex grunge (slip-dress latex + fishnet tights + combat platforms)
+>   **REGLA TRI-POLO:** Batch 3+: 1 de cada polo (A+B+C). Batch 2: 1A + 1 libre (B o C). Batch 1: cualquier polo, rotar en siguiente batch. EXCEPCIÓN paleta: pasteles permitidos en Polo A como tono base (canónico de la década) — única excepción Pin-Up.
 > - **High-Fashion Editorial:** *(Sub-arquetipo expandido — 11 siluetas, inspiración couture clásica SS26 Dior/Chanel/Schiaparelli/Valentino/Armani Privé, filtrado por canon Ele)*
 >   - (a) gown un-hombro + arco escultórico (original)
 >   - (b) gown cathedral-shoulder + boning expuesto (original)
@@ -180,7 +222,24 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (j) off-shoulder draped mini (strapless con drape estructurado en chrome líquido o vinyl — OP Maeve)
 >   - (k) laser-cut metallic lace corset (lace laser-cut metálico sobre base latex + corset visible — OP Genevieve/Aralyn)
 >   - (l) asymmetric cut-out bodycon (vinyl con cut-outs asimétricos en torso/cintura/caderas — FN Tory/Diana)
-> - **Lencería:** (a) longline-bra + liguero de cristal + micro-thong · (b) teddy/ouvert harness de straps + O-ring central · (c) corselette + medias con costura + bata abierta · (d) bralette + tanga + arnés de cintura · (e) bodystocking sheer arquitectónico.
+> - **Lencería:** *(Sub-arquetipo dual V1 — 14 siluetas: 7 Luxury Boudoir + 7 Fetish Arquitectónico. Inspiración: La Perla, Agent Provocateur, Honey Birdette, Bordelle. Materiales siempre Ele: encaje→vinyl laser-cut, seda→latex, tul→crystal mesh/sheer PVC)*
+>   **POLO A · Luxury Boudoir (La Perla / Agent Provocateur / Honey Birdette soft):**
+>   - (LA1) longline balconette bra + high-waist brief + suspender belt + stockings costura (set 4 piezas — La Perla signature)
+>   - (LA2) corselette/basque one-piece (corsé integrado con liguero incorporado — muy parisino, muy AP)
+>   - (LA3) teddy vinyl-lace completo (body una pieza, escote profundo plunge, espalda abierta con lazo)
+>   - (LA4) babydoll estructurado + molded bra + thong (negliée corto con capas de transparencias, HB style)
+>   - (LA5) boudoir robe larga sheer abierta + set visible debajo (robe de chambre de lujo, La Perla Maison)
+>   - (LA6) bridal white lingerie set (balconette vinyl blanco + garter belt + medias + mini velo accesorio)
+>   - (LA7) chemise slip largo transparente (spaghetti strap, cae a muslos, slit lateral, overlay sheer encima)
+>   **POLO B · Fetish Arquitectónico (Bordelle / Honey Birdette dark / harness couture):**
+>   - (LB1) full body harness (arnés cadenas finas o elástico latex estilo Bordelle — solo arnés sobre piel)
+>   - (LB2) cage bra estructurado + micro brief (bra de jaula arquitectónica — Bordelle Alchemy)
+>   - (LB3) vinyl corset waist-training + brief + stockings (corsé fetish rígido overbust/underbust + liguero)
+>   - (LB4) strappy bodysuit architectural (bodysuit cubierto de straps elásticos o cadenas finas — Bordelle signature)
+>   - (LB5) harness bra + thigh harness + micro-G (arneses múltiples triangulados torso + muslos + cintura)
+>   - (LB6) bodystocking sheer full (una pieza transparente total con paneles geométricos opacos estratégicos)
+>   - (LB7) crystal encrusted micro set (micro bra + micro brief totalmente cubiertos en crystal mesh — gala íntima)
+>   **REGLA DUAL:** en cada batch Lencería, al menos 1 Boudoir + 1 Fetish. Balance 50/50 a lo largo del catálogo.
 > - **Gym/Athleisure:** (a) falda plisada corta + crop underbust · (b) catsuit deportivo cremallera · (c) sports-bra + leggings recortado · (d) unitard con cut-outs · (e) shorts ciclista + top atado.
 
 **Corsés:**

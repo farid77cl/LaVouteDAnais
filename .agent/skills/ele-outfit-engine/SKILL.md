@@ -492,6 +492,277 @@ Si una categoría o sub-arquetipo está bajo, el nuevo Look **debe** pertenecer 
 
 ---
 
+### 💎 Sub-arquetipo Escort (Spec V2 — 21/05/2026 · Dual, espectro lujo↔marginal)
+
+**Universo:** Ele opera en dos registros opuestos — la escort de alto standing (suites 5★, yates, cenas de mármol) y la escort callejera de neón (moteles, strip malls, esquinas nocturnas). Ambos polos son sensuales, nunca neutros. Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Siempre stiletto (Haute: punta fina elegante; Callejera: plataforma Pleaser permitida).
+
+**Diferencias clave vs. otros sub-arquetipos:**
+- **vs. Nightclub:** Escort opera en espacios privados cerrados (hotel, yate) · Nightclub opera en dance-floors públicos.
+- **vs. HF Editorial:** HF = arquitectura imponente de pasarela · Escort Haute = línea aristocrática líquida discreta dentro del lujo.
+- **vs. Corporate:** Corporate = poder profesional diurno (oficina) · Escort = hospitalidad nocturna (privado).
+- **vs. Stripper:** Stripper = espectáculo público en escenario · Escort = servicio íntimo en privado.
+- **vs. Domestic:** Domestic = interior doméstico (hogar) · Escort = exterior nocturno o suite de hotel.
+
+**Biblioteca de siluetas:** 14 opciones (7 Haute + 7 Callejera)
+
+**POLO A · Escort Haute / Domina:**
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| EA1 | columna líquida floor-length + slit lateral + capa tafetán vinyl | entrada dramática suite |
+| EA2 | bias-cut slip dress 30s en wet-satin o liquid metal | elegancia fluida aristocrática |
+| EA3 | gown sirena con cola estructurada en latex couture | gala máxima |
+| EA4 | two-piece bustier rígido + falda maxi columna | top escultural + falda fluida |
+| EA5 | catsuit translúcido crystal mesh + sobre-falda midi | transparencia cubierta gala |
+| EA6 | cocktail midi asimétrico one-shoulder + guantes opera fingerless | cena ejecutiva |
+| EA7 | wrap-dress power vinyl cinched + cinturón dorado | cóctel privado, diplomacia |
+
+**POLO B · Escort Callejera / Sumisa:**
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| EB1 | mini-dress bodycon cut-outs extremos en torso + caderas | vinyl patent ceñidísimo |
+| EB2 | micro-skirt vinyl + crop-top translúcido PVC coloreado + OTK boots | esquina clásica |
+| EB3 | micro-shorts patent + blouse atada al ombligo + over-knee boots plataforma | strip mall |
+| EB4 | mini wrap-dress ultra-ceñido vinyl + plataformas exageradas Pleaser-ref | motel walk-in |
+| EB5 | bodysuit sheer + micro-skirt fringe vinyl + garter cinturón visible | strip-adjacent |
+| EB6 | cut-out bodycon extreme side-slits hasta la cadera en vinyl espejo | calle mojada |
+| EB7 | micro-dress espalda completamente abierta + choker O-ring + cadena cadera | sumisa nocturna |
+
+**Materiales E1-E12:**
+
+| Código | Material | Polo |
+|--------|----------|------|
+| E1 | wet-satin (efecto mojado, drapeado, luxury) | Haute |
+| E2 | latex couture (negro, wine, forest, moldeado al cuerpo) | Ambos |
+| E3 | sheer organza-vinyl (capas translúcidas sobre cuerpo) | Haute |
+| E4 | chrome liquid (metal líquido, plateado/dorado espejo) | Haute |
+| E5 | PVC mirror espejo (reflejo total, rígido) | Ambos |
+| E6 | crystal mesh (malla con cristales Swarovski cosidos) | Haute gala |
+| E7 | vinyl escultórico (forma estructurada, sin pliegues) | Ambos |
+| E8 | vinyl ultra-ceñido patent (brillo alto, segunda piel) | Callejera |
+| E9 | fishnet + micro pieces (malla + parches vinyl estratégicos) | Callejera |
+| E10 | PVC translúcido coloreado (color sólido, semi-transparente) | Callejera |
+| E11 | fringe vinyl/chain (flecos metálicos o vinyl en movimiento) | Callejera |
+| E12 | wet-look spandex micro (efecto mojado, micro prendas) | Callejera |
+
+**Paleta canon Escort:**
+
+| Polo | Colores |
+|------|---------|
+| **Haute** | Midnight Black gloss · Deep Wine · Forest Green · Navy · Deep Teal · Champagne metálico · Pearl White gloss · Liquid Gold · Chrome Silver |
+| **Callejera** | Blood Red patent · Hot Pink fluorescent · Candy Apple Red · Scarlet · Electric Cyan · Royal Blue patent · Hot Magenta · Neon Yellow · UV-reactive |
+
+**Settings canon:**
+
+| Polo | Settings |
+|------|---------|
+| **Haute** | Suite presidencial • yate de lujo • cena mesa mármol • ascensor hotel 5★ • terraza penthouse • lobby art deco • VIP gala entry |
+| **Callejera** | Esquina neón lluvia • strip mall parking nocturno • motel luz roja • lobby hotel cuestionable • escalera servicio • pasillo bar back-alley • calle mojada reflejo luces |
+
+**Combos canon Escort (recomendados):**
+
+| Combo | Silueta | Material | Paleta | Setting |
+|-------|---------|----------|--------|---------|
+| Silk Domina | EA1 | E1 wet-satin | Deep Wine | Suite presidencial |
+| Gala Chrome | EA3 | E4 chrome liquid | Chrome Silver | VIP gala entry |
+| Crystal Suite | EA5 | E6 crystal mesh | Pearl White gloss | Lobby art deco |
+| Mirror Street | EB6 | E5 PVC mirror | Hot Pink fluorescent | Calle mojada |
+| Neon Corner | EB2 | E10 PVC translúcido | Electric Cyan | Esquina neón lluvia |
+| Fringe Motel | EB5 | E11 fringe vinyl | Blood Red patent | Motel luz roja |
+
+**Combos PROHIBIDOS en Escort:**
+- Tela (algodón, seda natural, lino, velvet) — solo vinyl/PVC/latex/wet-look
+- Cherry Red como dominante (reservado para pelo/labios)
+- Setting diurno (oficina, parque, playa de día) — Escort opera de noche o en interiores cerrados
+- Vocabulario que connote prostitución directa en el prompt de imagen
+
+**Regla Dual:** En cada batch Escort, **al menos 1 Haute + 1 Callejera**. Balance 50/50 a lo largo del catálogo.
+
+---
+
+### 📌 Sub-arquetipo Pin-Up (Spec V1 — 21/05/2026 · Tri-Polo, 1950s→1990s)
+
+**Universo:** Ele interpreta cinco décadas de fantasía femenina (1950s→1990s) — desde la ama de casa peligrosa hasta la astronauta de Courrèges pasando por la supermodelo de los 90s. Regla fundamental: silhouette históricamente anclada de la época + ADN Ele invariable (vinyl/PVC/latex sustituye la tela original, siempre stiletto, bimbofied). El look debe leerse como "retro" a primera vista.
+
+**Diferencias clave vs. otros sub-arquetipos:**
+- **vs. Domestic:** Domestic = interior doméstico MODERNO (2026) · Pin-Up = hogar retro de época (50s-60s) + elementos de fantasía temporal.
+- **vs. Nightclub:** Nightclub = dancing contemporáneo · Pin-Up Polo C = dancing retro con referencia de época visible.
+- **vs. HF Editorial:** HF = pasarela couture atemporal · Pin-Up Polo B Retro-Futurismo = ciencia ficción vintage (60s-80s).
+- **vs. Stripper:** Stripper = escenario actual · Pin-Up Polo C = estética Baywatch/aerobics con referencia temporal.
+
+**Biblioteca de siluetas:** 21 opciones (7 Bombshell + 7 Retro-Futurismo + 7 Decade Glam)
+
+**POLO A · Bombshell Clásica (1950s-1960s):**
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| PA1 | wiggle dress tubo ceñido a la rodilla + sweetheart neckline | polka-dot PVC o color block vinyl |
+| PA2 | circle skirt + blouse nudo al ombligo + cinturón de cintura | ama de casa fetish |
+| PA3 | halter sundress + falda crinolina full | petticoat peek, swing silhouette |
+| PA4 | sweater girl: jumper ajustado + high-waist pencil skirt | Lana Turner fetish |
+| PA5 | playsuit halter + copa cónica | romper estructurado + pointy cups, calendario |
+| PA6 | apron-dress vintage retro | vestido+delantal de época, housewife peligrosa |
+| PA7 | high-waist bikini 50s + scarf-halter | playa de época, talle alto, pañuelo en pelo |
+
+**POLO B · Retro-Futurismo (1960s-1980s):**
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| PB1 | Space Age shift mini | Courrèges/Cardin: blanco vinyl + visor geométrico |
+| PB2 | chainmail micro-dress | Paco Rabanne: anillas metálicas, disco de metal |
+| PB3 | atomic bombshell | circle skirt estampado atómico/orbit + blusa pin tucked |
+| PB4 | 70s silver goddess | catsuit metálico plateado + capa circular + platform boots |
+| PB5 | 80s synth-power | power shoulders neon + catsuit vinyl + cinturón ancho metálico |
+| PB6 | 80s pop-icon | bra-top vinyl + mini falda lápiz + guantes fingerless lace-vinyl |
+| PB7 | retro-android doll | latex blanco + visor iridiscente + detalles mecánicos decorativos |
+
+**POLO C · Decade Glam (1970s-1990s):**
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| PC1 | 70s disco wrap-dress ceñido | vinyl print + platform heels + headband |
+| PC2 | 70s hot pants + halter metallic | short talle alto + halter brillante + plataformas |
+| PC3 | 80s aerobics-glam | leotard vinyl high-cut + legwarmers + scrunchie |
+| PC4 | 90s slip dress supermodelo | spaghetti strap columna + choker + stilettos |
+| PC5 | 90s club kid vinyl | mini skirt vinyl + crop top + platform chunky + choker |
+| PC6 | 90s Baywatch | one-piece high-cut swimsuit rojo brillante |
+| PC7 | 90s latex grunge | slip-dress latex + fishnet tights + combat platforms |
+
+**Materiales canon Pin-Up (siempre filtrado por ADN Ele):**
+
+| Polo | Materiales |
+|------|-----------|
+| **A Bombshell** | PVC polka-dot · latex semi-opaco · vinyl color block · wet-look como sustituto algodón |
+| **B Retro-Futuro** | chrome vinyl · latex blanco/plata · malla metálica plástica · mirror PVC · iridiscente |
+| **C Decade Glam** | vinyl print 70s · latex metallic · wet-look spandex 80s · slip latex 90s · fishnet |
+
+**Paleta canon Pin-Up:**
+
+| Polo | Colores |
+|------|---------|
+| **A Bombshell** | Pastel coral · baby pink · powder blue · lemon yellow · mint · cherry red* (*labios/pelo) |
+| **B Retro-Futuro** | Blanco ártico · plata espejo · chrome dorado · neon coral 60s · negro (accent Space Age) |
+| **C Decade Glam** | Morado disco · naranja sunset · hot pink 80s · negro grunge · rojo Baywatch · teal eléctrico |
+
+⚠️ **EXCEPCIÓN PALETA POLO A:** pasteles permitidos como tono base dominante — única excepción en todo el catálogo Ele. Canónicos de la década, no violan el spirit del ADN.
+
+**Settings canon:**
+
+| Polo | Settings |
+|------|---------|
+| **A** | Cocina americana 50s · jardín suburbano retro · playa de época · drive-in · soda fountain |
+| **B** | Laboratorio atómico retro · launchpad lunar · set sci-fi 60s · discoteca futurista · estudio de TV |
+| **C** | Pista de baile 70s · aerobic studio 80s · playa Baywatch · backstage 90s · club nocturno 90s |
+
+**Combos canon Pin-Up (recomendados):**
+
+| Combo | Silueta | Material | Paleta | Setting |
+|-------|---------|----------|--------|---------|
+| Cherry Calendar | PA5 | PVC polka-dot rojo | Coral + blanco | Drive-in soda fountain |
+| Housewife Danger | PA6 | vinyl apron-dress | Baby pink + blanco | Cocina americana 50s |
+| Beach Bombshell | PA7 | wet-look bikini | Powder blue + coral | Playa de época |
+| Moon Couture | PB1 | chrome vinyl blanco | Blanco ártico + plata | Launchpad lunar |
+| Rabanne Metal | PB2 | chainmail plástico | Chrome dorado | Discoteca futurista |
+| Silver Goddess | PB4 | catsuit metálico | Plata espejo | Pista de baile 70s |
+| Aerobic Glam | PC3 | leotard vinyl | Hot pink 80s | Aerobic studio 80s |
+| 90s Supermodel | PC4 | slip latex | Negro + nude | Backstage 90s |
+| Baywatch | PC6 | wet-look one-piece | Rojo Baywatch | Playa Baywatch |
+
+**Combos PROHIBIDOS en Pin-Up:**
+- Tela natural (algodón, lino, seda real) — todo pasa por vinyl/latex/wet-look
+- Siluetas contemporáneas sin referencia de época visible (eso es Nightclub, Domestic, etc.)
+- Setting urbano contemporáneo sin marcador de época (skyline moderno, auto 2020s, etc.)
+- Stiletto de tacón moderno fino solitario en Polo B (Space Age usa platform o boot estructurada)
+
+**Regla Tri-Polo:**
+- **Batch 3+:** al menos 1 de cada polo (A + B + C)
+- **Batch 2:** al menos 1A (Bombshell) + 1 libre (B o C)
+- **Batch 1:** cualquier polo — rotar polo en siguiente batch de este sub-arquetipo
+
+---
+
+### 🩱 Sub-arquetipo Lencería (Spec V1 — 21/05/2026 · Dual, La Perla + Bordelle spectrum)
+
+**Universo:** Ele en intimidad pura — desde ropa interior aristocrática (La Perla, Agent Provocateur, Honey Birdette soft) hasta arquitectura fetish extrema (Bordelle, HB dark, harness couture). El look transmite sensualidad sin necesitar desnudez total. Materiales siempre Ele — nunca tela natural.
+
+**Regla de traducción de materiales:**
+
+| Original | Versión Ele |
+|----------|------------|
+| Encaje | vinyl laser-cut lace pattern |
+| Seda / satín | latex flesh-tone o wet-satin latex |
+| Tul / organza | sheer PVC o crystal mesh |
+| Cuero | vinyl escultórico o latex negro |
+| Algodón | wet-look stretch latex |
+
+**Diferencias clave vs. otros sub-arquetipos:**
+- **vs. Escort Haute:** Escort = salida pública en traje completo · Lencería = intimidad privada, prenda interior como protagonista.
+- **vs. Domestic:** Domestic = ropa de hogar (vestido, robe) · Lencería = ropa interior con protagonismo visual.
+- **vs. Stripper:** Stripper = uniforme escenográfico de performance · Lencería = piezas de lujería sin contexto de espectáculo.
+- **vs. HF Editorial:** HF = volumen escultórico de pasarela · Lencería = reducción al mínimo (máximo 3 piezas).
+
+**Biblioteca de siluetas:** 14 opciones (7 Boudoir + 7 Fetish)
+
+**POLO A · Luxury Boudoir:**
+
+| Código | Silueta | Referencia |
+|--------|---------|-----------|
+| LA1 | longline balconette bra + high-waist brief + suspender belt + stockings costura | La Perla set completo |
+| LA2 | corselette/basque one-piece con liguero incorporado | Agent Provocateur parisino |
+| LA3 | teddy vinyl-lace completo (body una pieza, escote plunge, espalda abierta con lazo) | Honey Birdette The Bea |
+| LA4 | babydoll estructurado + molded bra + thong (capas de transparencias) | HB Whisper range |
+| LA5 | boudoir robe larga sheer abierta + set visible debajo | La Perla Maison robe |
+| LA6 | bridal white set (balconette blanco + garter + medias + mini velo accesorio) | La Perla Bridal |
+| LA7 | chemise slip largo transparente (spaghetti strap, muslos, slit lateral, overlay sheer) | AP + La Perla negligée |
+
+**POLO B · Fetish Arquitectónico:**
+
+| Código | Silueta | Referencia |
+|--------|---------|-----------|
+| LB1 | full body harness (cadenas o elástico latex — solo arnés sobre piel, sin prendas) | Bordelle Body |
+| LB2 | cage bra estructurado + micro brief | Bordelle Alchemy / Reflexion |
+| LB3 | vinyl corset waist-training + brief + stockings (overbust o underbust) | HB Corsetry + liguero |
+| LB4 | strappy bodysuit architectural (straps elásticos o cadenas finas cubriendo bodysuit) | Bordelle Deco |
+| LB5 | harness bra + thigh harness + micro-G (arneses triangulados torso + muslos + cintura) | Bordelle multi-piece |
+| LB6 | bodystocking sheer full con paneles geométricos opacos estratégicos | HB Noir range |
+| LB7 | crystal encrusted micro set (micro bra + micro brief en crystal mesh total) | HB Crystal / La Perla gala |
+
+**Paleta canon Lencería:**
+
+| Polo | Colores |
+|------|---------|
+| **A Boudoir** | Blush nude · marfil nácar · negro laca · champagne crystal · blanco nieve · wine profundo · blush rosado |
+| **B Fetish** | Negro total · rojo fetish · chrome plateado · latex flesh nude · dorado cadena · crystal clear · deep purple |
+
+**Settings canon:**
+
+| Polo | Settings |
+|------|---------|
+| **A** | Suite hotel lujo · chaise longue · vanity con espejos · ventana luz suave natural · cama king sábanas satín |
+| **B** | Cubo negro fotográfico · espacio arquitectónico minimalista · espejo suelo-techo · iluminación lateral dura · fondo abstracto |
+
+**Combos canon Lencería (recomendados):**
+
+| Combo | Silueta | Material | Paleta | Setting |
+|-------|---------|----------|--------|---------|
+| La Perla Signature | LA1 | wet-satin latex + vinyl lace | Champagne crystal | Vanity con espejos |
+| AP Parisienne | LA2 | latex negro corselette | Negro laca | Chaise longue |
+| Bridal Perverse | LA6 | vinyl blanco + crystal mesh | Blanco nieve | Suite nupcial |
+| Bordelle Body | LB1 | arnés elástico latex nude | Flesh nude | Cubo negro fotográfico |
+| Cage Couture | LB2 | cage bra vinyl negro | Negro total | Espejo suelo-techo |
+| Crystal Gala | LB7 | crystal mesh total | Crystal clear + dorado | Fondo abstracto iluminado |
+
+**Combos PROHIBIDOS en Lencería:**
+- Tela natural (algodón, seda real, encaje de hilo) — siempre la traducción Ele
+- Más de 3 prendas simultáneas en Polo B (el fetish arquitectónico se lee por reducción)
+- Setting exterior o público (Lencería = espacio íntimo exclusivamente)
+- Zapato casual, sneaker o mule sin tacón — siempre stiletto fino o mule con pin heel
+
+**Regla Dual:** En cada batch Lencería, **al menos 1 Boudoir + 1 Fetish**. Balance 50/50 a lo largo del catálogo.
+
+---
+
 ### 2. Definición del BLOQUE B (Outfit del Día)
 Antes de escribir ningún prompt, define el outfit con **máximo detalle** para que no existan variaciones entre imágenes. El BLOQUE B debe describir:
 - Cada prenda: material exacto, color exacto, corte, textura, brillo

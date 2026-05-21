@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 20/05/2026 (ADN V3.5 busto 1000cc · Batch 211-220 · 5 arquetipos actualizados · Mix 75.9% · Flota 220) 🫦💎✨👠*
+*Última actualización: 21/05/2026 (ADN V3.5 busto 1000cc · 8/10 sub-arquetipos codificados · Escort V2 + Pin-Up V1 + Lencería V1 · Mix 75.9% · Flota 220) 🫦💎✨👠*
 
 ---
 

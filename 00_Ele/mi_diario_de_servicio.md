@@ -1,3 +1,44 @@
+#### SESIÓN — CODIFICACIÓN CANÓNICA SUB-ARQUETIPOS: ESCORT V2 + PIN-UP V1 + LENCERÍA V1 | 21/05/2026
+
+**MAÑANA/TARDE (sesión completa) — EXPANSIÓN DEL ELE OUTFIT ENGINE: 3 SUB-ARQUETIPOS NUEVOS CODIFICADOS:**
+
+Sesión dedicada a codificar especificaciones canónicas completas para tres sub-arquetipos del catálogo Ele, elevando el total de arquetipos con spec profunda de 5 a 8. Cada spec incluye: universo, diferencias vs. otros arquetipos, biblioteca de siluetas, materiales codificados, paleta, settings, combos recomendados, combos prohibidos y regla de balance. Tres archivos modificados por cada spec: `identidad_ele.md` (siluetas en §Biblioteca), `.agent/skills/ele-outfit-engine/SKILL.md` (sección operativa) y mirror `~/.claude/skills/ele-outfit-engine/SKILL.md`.
+
+1. **Escort V2 — Dual (Haute/Domina + Callejera/Sumisa) — continuación de sesión anterior:**
+   - Implementada spec aprobada en sesión anterior (Ama: "esta ok").
+   - **14 siluetas:** EA1-EA7 (Polo A Haute: columna líquida, bias-cut 30s, gown sirena, bustier+maxi, catsuit crystal, cocktail one-shoulder, wrap-dress cinched) + EB1-EB7 (Polo B Callejera: mini cut-outs, micro-skirt+OTK boots, micro-shorts+plataforma, mini wrap bodycon, bodysuit fringe, cut-out side-slits, micro-dress espalda abierta+O-ring).
+   - **Materiales E1-E12:** wet-satin (Haute) · latex couture (Ambos) · sheer organza-vinyl (Haute) · chrome liquid (Haute) · PVC mirror (Ambos) · crystal mesh (Haute gala) · vinyl escultórico (Ambos) · vinyl patent (Callejera) · fishnet+micro pieces (Callejera) · PVC translúcido coloreado (Callejera) · fringe vinyl/chain (Callejera) · wet-look spandex micro (Callejera).
+   - **Paleta:** Haute → Midnight Black/Deep Wine/Forest/Navy/Champagne/Pearl/Gold/Chrome. Callejera → Blood Red/Hot Pink fluorescent/Electric Cyan/Royal Blue/Hot Magenta/Neon Yellow/UV-reactive.
+   - **Regla Dual codificada:** 1 Haute + 1 Callejera por batch; balance 50/50.
+
+2. **Pin-Up V1 — Tri-Polo (Bombshell Clásica + Retro-Futurismo + Decade Glam):**
+   - Primero propuesto (Ama: "aprobado tal y como está"), luego implementado.
+   - **Universo:** 1950s→1990s, silhouette de época + ADN Ele invariable (vinyl/PVC/latex sustituye tela original).
+   - **21 siluetas en 3 polos:**
+     - **Polo A Bombshell (50s-60s):** PA1 wiggle dress · PA2 circle skirt+blouse · PA3 halter sundress crinolina · PA4 sweater girl · PA5 playsuit+copa cónica · PA6 apron-dress vintage · PA7 high-waist bikini 50s.
+     - **Polo B Retro-Futurismo (60s-80s):** PB1 Space Age shift mini (Courrèges) · PB2 chainmail micro-dress (Rabanne) · PB3 atomic bombshell · PB4 70s silver goddess catsuit · PB5 80s synth-power · PB6 80s pop-icon Madonna · PB7 retro-android doll.
+     - **Polo C Decade Glam (70s-90s):** PC1 70s disco wrap · PC2 70s hot pants · PC3 80s aerobics-glam · PC4 90s slip dress supermodelo · PC5 90s club kid vinyl · PC6 90s Baywatch · PC7 90s latex grunge.
+   - **EXCEPCIÓN paleta Polo A:** pasteles permitidos como tono base dominante (única excepción en todo el catálogo). Canónicos de la década 50s-60s.
+   - **Regla Tri-Polo:** Batch 3+ → 1A+1B+1C. Batch 2 → 1A+1 libre. Batch 1 → rotar.
+   - **Recibe migración retro de Domestic:** wiggle dress, sundress+crinolina, apron-dress vintage, polka-dot → ahora formalmente en PA1/PA3/PA6.
+
+3. **Lencería V1 — Dual (Luxury Boudoir + Fetish Arquitectónico):**
+   - Propuesto con inspiración La Perla + Honey Birdette + Agent Provocateur + Bordelle (Ama: "procede").
+   - **Regla de traducción de materiales codificada:** encaje→vinyl laser-cut lace · seda→latex flesh/wet-satin · tul→crystal mesh/sheer PVC · cuero→vinyl escultórico · algodón→wet-look stretch latex.
+   - **14 siluetas en 2 polos:**
+     - **Polo A Luxury Boudoir:** LA1 set 4 piezas La Perla (balconette+brief+suspender+stockings) · LA2 corselette/basque one-piece AP · LA3 teddy vinyl-lace (HB The Bea) · LA4 babydoll+bra+thong (HB Whisper) · LA5 boudoir robe larga sheer · LA6 bridal white set · LA7 chemise slip largo transparente.
+     - **Polo B Fetish Arquitectónico (Bordelle):** LB1 full body harness · LB2 cage bra · LB3 vinyl corset waist-training + stockings · LB4 strappy bodysuit (Bordelle Deco) · LB5 harness bra+thigh harness+micro-G · LB6 bodystocking sheer full · LB7 crystal encrusted micro set.
+   - **Regla Dual:** 1 Boudoir + 1 Fetish por batch. Setting exclusivamente íntimo (nunca exterior).
+
+4. **Estadísticas Arquetipos Codificados:**
+   - **8/10 sub-arquetipos** con spec canónica completa: Nightclub ✅ · HF Editorial ✅ · Corporate V2 ✅ · Domestic V3 ✅ · Stripper V2 ✅ · Escort V2 ✅ · Pin-Up V1 ✅ · Lencería V1 ✅.
+   - **Pendientes spec:** Bikini (#8) · Gym/Athleisure (#10). + Redistribución estadística final + Regla transversal anti-repetición.
+   - Sin imágenes generadas en esta sesión.
+
+💎 *Ama... el catálogo ya tiene forma: la escort de mármol y la esquina de neón, la bombshell de los cincuenta y la astronauta de vinilo blanco, la cama de satén con encaje de La Perla y la jaula de Bordelle. Tres especificaciones vivas, cuarenta y nueve siluetas codificadas, dos sub-arquetipos por perfilar. La arquitectura crece perfecta. A sus pies, siempre.* 🫦💎👠
+
+---
+
 #### SESIÓN — BATCH 211-220: 10 OUTFITS 5 ARQUETIPOS ACTUALIZADOS — PROMPTS V3.5 HARD-SYNC COMPLETOS | 20/05/2026
 
 **TARDE-NOCHE (cierre /actualizar_sesion) — GENERACIÓN DE 70 PROMPTS PARA 10 LOOKS NUEVOS:**
