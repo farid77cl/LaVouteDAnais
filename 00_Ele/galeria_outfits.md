@@ -5463,18 +5463,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Choker rígido de cromo grabado "ELE". Guantes opera de látex gold-lime tipo claw cut-out (uñas afuera), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el plunge.
 - **Ambientación:** Escenario de club con tubo cromado central, luz cálida lime + spots, espejo negro de fondo, humo bajo.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_standing.png) | ![Back View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_backview.png) | ![Seated](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_seated.png) | ![Side Profile](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_ditzy.png) | ![POV](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_pov.png) | ![Odalisque](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_odalisque.png) |
 
 </details>
-
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync
 

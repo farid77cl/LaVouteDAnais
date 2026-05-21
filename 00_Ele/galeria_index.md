@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 21/05/2026 14:48 — **142 looks registrados**  
+> Generado automáticamente el 21/05/2026 14:52 — **142 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -128,7 +128,7 @@
 | **195** | Burnt Honey Housewife (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
 | **196** | Glacial Sapphire Executive (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
 | **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
-| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 1/7 | ⏳ Pendiente |
+| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
 | **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
@@ -273,7 +273,6 @@
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | 0/7 | ⏳ Pendiente |
 | **194** | Porcelain Service Doll (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
-| **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | 1/7 | ⏳ Pendiente |
 | **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | 0/7 | ⏳ Pendiente |
 | **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | 0/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | 0/7 | ⏳ Pendiente |
@@ -299,4 +298,4 @@
 
 ---
 
-*Índice generado por Ele — 21/05/2026 14:48 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 21/05/2026 14:52 — La Voûte d'Anaïs* 🫦👠💅
