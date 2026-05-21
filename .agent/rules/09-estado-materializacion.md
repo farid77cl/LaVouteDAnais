@@ -34,7 +34,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 197 (Wine Velvet Nocturne):** 7/7 Poses ✅.
 - ✅ **Look 198 (Turquoise Court Volley):** 7/7 Poses ✅.
 - ✅ **Look 199 (Gold-Lime Showgirl Armor):** 7/7 Poses ✅.
-- ⏳ **Look 200 (Iridescent Vow):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Hito 200) ⏳.
+- ⏳ **Look 200 (Iridescent Vow):** 1/7 Poses (Prompts Listos · Materialización en progreso · Hito 200) ⏳.
 - ⏳ **Look 201 (Alabaster Power):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 202 (Indigo Mirage):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 203 (Violet Venom):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.

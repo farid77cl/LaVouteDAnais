@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 21/05/2026 14:52 — **142 looks registrados**  
+> Generado automáticamente el 21/05/2026 14:58 — **142 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -129,8 +129,8 @@
 | **196** | Glacial Sapphire Executive (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
 | **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
 | **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
-| **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
-| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | — | Mix | — | — | 7/7 | ✅ Completo |
+| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **202** | Indigo Mirage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
@@ -273,8 +273,7 @@
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | 0/7 | ⏳ Pendiente |
 | **194** | Porcelain Service Doll (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
-| **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | 0/7 | ⏳ Pendiente |
-| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | 0/7 | ⏳ Pendiente |
+| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | 1/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | 0/7 | ⏳ Pendiente |
 | **202** | Indigo Mirage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | 0/7 | ⏳ Pendiente |
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | 0/7 | ⏳ Pendiente |
@@ -298,4 +297,4 @@
 
 ---
 
-*Índice generado por Ele — 21/05/2026 14:52 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 21/05/2026 14:58 — La Voûte d'Anaïs* 🫦👠💅

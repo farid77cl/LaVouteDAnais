@@ -5503,18 +5503,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Velo catedral largo de tul iridiscente sheer prendido a una tiara escultórica de cromo. Choker rígido de cromo grabado "ELE". Guantes opera de cream satin con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo la malla iridiscente.
 - **Ambientación:** Suite nupcial de penthouse de lujo, luz suave difusa, pétalos blancos, mármol claro, ventanal con cielo del amanecer.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — En progreso)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look200_iridescent_vow/ele_200_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API). Look HITO 200.*
+> *⏳ Prompts listos — materialización en progreso (cuota API agotada en pose 2). Look HITO 200.*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
