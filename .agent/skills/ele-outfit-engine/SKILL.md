@@ -102,6 +102,29 @@ Por orden de la Ama (14/05/2026): los activos existentes de estos 5 looks **se c
 
 ---
 
+### 0. Regla Transversal Anti-Repetición (OBLIGATORIA — Ejecutar ANTES de cualquier diseño)
+
+Antes de proponer cualquier Look, consulta los últimos looks del sub-arquetipo correspondiente en `galeria_outfits.md` y bloquea lo siguiente:
+
+**Ventana de bloqueo por elemento:**
+
+| Elemento | Ventana de bloqueo |
+|----------|--------------------|
+| Silueta (código) | ≥ 3 looks previos del mismo sub-arquetipo |
+| Familia cromática dominante | ≥ 5 looks previos del mismo sub-arquetipo |
+| Material principal | ≥ 2 looks previos del mismo sub-arquetipo |
+| Setting/escenario | ≥ 3 looks previos del mismo sub-arquetipo |
+
+**Protocolo:**
+1. Consultar los últimos N looks del sub-arquetipo (N = ventana de la tabla).
+2. Listar qué siluetas, colores, materiales y settings están bloqueados.
+3. Elegir combinación que NO aparezca en la lista bloqueada.
+4. Solo entonces avanzar al Paso 1.
+
+**Ejemplo:** Últimos 3 Pin-Up: PA1 vinyl polka-dot (hot pink) · PA3 sundress (powder blue) · PB1 Space Age (blanco) → Bloqueadas: siluetas PA1/PA3/PB1 · colores hot pink / powder blue / blanco ártico → Próximo look: cualquier código libre + color no bloqueado.
+
+---
+
 ### 1. Análisis de Arquetipos
 Antes de proponer un Look, consulta la tabla de estadísticas en [galeria_outfits.md](file:///c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md).
 
@@ -293,15 +316,25 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 
 **Regla Dual:** En cada batch Corporate, **al menos 1 Power + 1 Secretary**. Balance 50/50 a lo largo del catálogo. Nunca un batch 100% de un solo polo.
 
-**Paleta canon Corporate:**
+**Paleta canon Corporate — diferenciada por polo:**
 
+**POLO A · Power Executive:**
 | Familia | Colores |
 |---|---|
-| **Neutros corporate** | Black gloss · Charcoal grey · Pinstripe (gris/blanco) · Navy executive · Pearl white · Champagne discreto · Taupe |
-| **Tom Ford signature** | Camel/Cognac · Oxblood leather · Caramel leather · Burgundy power · Forest green (Armani) |
-| **Animal Prints** 🆕 | Leopard print (TF signature 90s) · Croco-emboss (cuero/vinyl croco) · Snake/Python print · Zebra print (acento) · Cow-print (camel+black opcional) |
-| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Hot pink lipstick |
-| **❌ PROHIBIDOS** | Neon (Nightclub) · Pastel · Baby pink · Cream casero (Domestic) · Hot Magenta saturado |
+| **Jewel tones de autoridad** | Oxblood · Navy executive · Forest green (Armani) · Cognac leather · Slate · Deep emerald · Black gloss *(único polo donde black dominante es opción core)* |
+| **Neutros power** | Charcoal grey · Pinstripe (gris/blanco) · Camel/Caramel leather · Burgundy power · Taupe lujurioso |
+| **Animal prints power** | Leopard print TF 90s · Croco-emboss · Snake/Python print |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Pearl white (blusa interior) |
+
+**POLO B · Sexy Secretary:**
+| Familia | Colores |
+|---|---|
+| **Tonos accesibles/vulnerables** | Blush · Ivory · Sky blue · Soft pink · Champagne · Nude latex · Pearl white |
+| **Acento del poder ajeno** | Oxblood (solo complemento/acento, nunca dominante) · Black (solo falda o pieza única, nunca conjunto completo) |
+| **Animal prints secretary** | Leopard mini · Snake bodycon |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Gold hardware |
+
+**❌ PROHIBIDOS en ambos polos:** Neon saturado · Baby pink · Hot Magenta · Cream mate sin brillo · Pastel pálido.
 
 **Materiales canon Corporate:**
 
@@ -397,7 +430,15 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 **❌ Materiales prohibidos en Domestic:** algodón real · lino casero · jersey de casa · tweed · **gingham/polka-dot impreso retro** · materiales naturales cualquiera.
 
 **Setting/escenario típico:**
-- **Trophy Moderna:** Penthouse 2026 mármol+cromo · Cocina minimalista chrome+marble · Living open-space contemporáneo · Backyard Vitacura/Cumbres del Cóndor · Yoga room privado mármol · Walk-in closet de lujo · Garage con Porsche/Range Rover · Cocktail-bar minimalista · Dressing-room luxurious · Master bedroom moderno.
+- **Trophy Moderna (ambientes específicos 2026):**
+  - **Cocina open-plan:** isla central mármol blanco + grifería dorada, estante con vinos, taburetes cuero blanco, ventana panorámica Vitacura
+  - **Walk-in closet:** espejo suelo-techo LED, perchas cromadas, sillón capitoné, zapatos expuestos como vitrinas
+  - **Baño de mármol:** bañera standalone oval calacatta, ducha lluvia exposita, lavabo floating stone, velas aromáticas
+  - **Pool terrace:** infinity pool borde infinito ciudad, tumbonas blancas, bar outdoor mínimo, vista cordillera
+  - **Living con vista ciudad:** ventanal floor-to-ceiling, sofá low-profile blanco, alfombra pelo largo, skyline nocturno Santiago
+  - **Sala de gimnasio privado:** pared espejo 360°, máquinas chrome brushed, LED tira fría, suelo vinilo negro
+  - **Master bedroom:** cama king lino blanco 1000 hilos, lámpara flotante, cabecero tapizado, terraza privada
+  - **Garage:** Porsche 911 Carrera S / Range Rover negro / McLaren GT (uno solo como fondo)
 - **Maid:** Pasillo de servicio · Cocina escenográfica isla central · Sala donde sirve la cena · Dormitorio principal (cama deshecha) · Salón con bandeja de bebidas · Sótano BDSM-domestic · Despensa walk-in · Mesa de comedor lista para servir.
 
 **Combos canon Domestic:**
@@ -560,6 +601,22 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 | EB5 | bodysuit sheer + micro-skirt fringe vinyl + garter cinturón visible | strip-adjacent |
 | EB6 | cut-out bodycon extreme side-slits hasta la cadera en vinyl espejo | calle mojada |
 | EB7 | micro-dress espalda completamente abierta + choker O-ring + cadena cadera | sumisa nocturna |
+
+**POLO C · Escort Fetish / Domme de Club (3 siluetas complementarias):**
+
+*(Zona intermedia entre Haute y Callejera — la escort que opera en clubs fetish de élite, dungeons de lujo, eventos BDSM privados. Más agresiva que Haute, más curada que Callejera.)*
+
+| Código | Silueta | Nota |
+|--------|---------|------|
+| EC1 | latex corset overbust entallado + microskirt hasta el muslo + OTK stiletto boots elegante | domme de club privado — no gala, no calle |
+| EC2 | strappy harness bodysuit con micro-piezas estratégicas + thigh-high boots plataforma curada | arnés de lujo, no festival |
+| EC3 | vinyl cut-out column dress con cadenas visibles en torso + choker O-ring metal · stiletto fino | fetish escort VIP intermedia |
+
+**Settings POLO C:** Club BDSM privado de élite · dungeon aesthetic minimalista negro · sala VIP con iluminación roja puntual · after-hours lounge exclusivo · antesala privada.
+
+**Paleta POLO C:** Negro total · Deep wine · Chrome silver · Electric red · Latex flesh · Deep purple.
+
+**Regla de uso POLO C:** No reemplaza la Regla Dual (Haute + Callejera). En batches ≥6 Escort, incluir al menos 1 Polo C. En batches menores es opcional — priorizar siempre el balance Haute/Callejera.
 
 **Materiales E1-E12:**
 
@@ -930,6 +987,19 @@ Ele SIEMPRE en Pleaser-ref platform en looks Gym/Athleisure. Nunca zapatilla pla
 | BB6 | crystal micro set (micro bra + micro brief 100% Swarovski) | gala íntima |
 | BB7 | harness bikini (arnés tipo Bordelle como bikini — straps cruzados + micro pieces) | fetish pool |
 
+#### 🛡️ Vocabulario Anti-Rechazo Bikini (obligatorio especialmente en POLO B Studio)
+
+| ❌ Vocabulario que puede disparar filtro | ✅ Sustituto canon |
+|---|---|
+| `micro bikini` | `minimal coverage editorial swimwear` |
+| `see-through bikini` | `sheer PVC panel architectural swimwear` |
+| `harness bikini` | `architectural strap swimwear with decorative hardware` |
+| `nude effect bikini` | `semi-transparent sculptural swimwear editorial` |
+| `string bikini barely covering` | `minimalist triangle swimwear, spaghetti string vinyl` |
+| `crystal micro set` | `embellished editorial swimwear, Swarovski-detailed sculptural top and brief` |
+
+**Tags obligatorios BLOQUE B Polo B:** `hyper-polished smooth skin texture, fashionable, editorial, alluring, high-fashion beachwear, sculptural swimwear editorial, artistic photography`.
+
 **Paleta canon Bikini:**
 
 | Polo | Colores |
@@ -985,15 +1055,27 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 
 > **Por qué:** L177 generó labios rojos en 3 poses y persona diferente en Odalisque. L176 generó DOS mujeres (efecto espejo) por la frase "first-person POV". L178 confundió POV con Odalisque recostada. Los negative prompts son la barrera activa contra la deriva del ADN.
 
+> **Negative prompt adicional por pose — POV (Bimbo Selfie):** añadir siempre `no phone, no smartphone, no device, no screen` al negative prompt cuando se genera la Pose 6. El "hand raised toward lens" con "selfie pose" puede hacer que el modelo añada un teléfono en la mano.
+
 **Estructura de cada prompt:** `[BLOQUE A] + [BLOQUE B] + [BLOQUE C — Pose y Setting]`
 
 **7 poses estándar obligatorias (BLOQUE C):**
 1. **Standing View:** `full body, standing, weight on one hip, hands on waist, [fondo]`
 2. **Back View:** `full body, back view, turning over shoulder, hair cascading, [fondo]`
 3. **Seated View:** `seated, legs crossed, spine straight, hands on knee, [fondo]`
+   **Variantes Seated por arquetipo (sustituir el BLOQUE C según el sub-arquetipo del Look):**
+
+   | Arquetipo | BLOQUE C Seated |
+   |-----------|----------------|
+   | **Corporate / HF Editorial** | `seated upright, power pose, legs sharply crossed at knee, hands folded on top knee, spine perfectly straight and imperious, [fondo sala junta / museum hall]` |
+   | **Lencería / Escort Haute** | `seated reclined, one leg extended forward, other leg bent, upper body leaning back on one hand, languid and intimate, [fondo suite / boudoir]` |
+   | **Nightclub / Pin-Up** | `perched on edge of surface or bar stool, one leg up crossed, one leg dangling, hand on thigh, casual sensual, [fondo bar / soda fountain]` |
+   | **Stripper** | `perched on stage platform edge, legs open at 45°, both hands gripping edge, performance seated power, [fondo stage / pole]` |
+   | **Gym / Domestic / Bikini** | `seated, legs crossed, spine straight, hands on knee, [fondo]` *(default)* |
+
 4. **Side Profile:** `full body, side profile, extreme lumbar arch, chin lifted, [fondo]`
 5. **Ditzy — Close-Up Trio:** `close-up three-quarter bust shot from slightly above (30° tilt), XXXL French nails touching or resting on décolleté in sharp near foreground, deep plunging neckline and obviously augmented spherical bust filling center frame, face in upper third with "brain empty" vacant ditzy expression eyes unfocused mouth mindlessly parted glossy lips, dramatic lash extensions, cherry red hair cascading framing shot, [fondo blur], 8k editorial fashion photography` — **REGLA:** el trío face+cleavage+nails es SIEMPRE obligatorio sin excepción. Si el outfit no tiene escote profundo, las uñas van al centro del pecho tocando la tela. Nunca beauty shot solo de cara.
-6. **POV — Bimbo Selfie:** `Instagram influencer selfie pose, camera held at arm's length slightly above eye level, one hand raised toward lens with XXXL French nails in sharp near foreground, pouty glossy lips slightly parted, vacant bimbo stare directly into camera lens, face centered and dominant, deep décolleté and augmented bust visible in lower frame, cherry red hair cascading around face, half-body selfie frame, [fondo shallow blur], 8k social media fashion photography` — **DIFERENCIA VS DITZY:** POV = selfie con mano/uñas alzadas HACIA la cámara, cara dominante centrada, energía "bimbo influencer de IG" · Ditzy = primer plano 30° con nails tocando escote, cara en tercio superior · NUNCA usar "first-person POV" (genera duplicados/espejos)
+6. **POV — Bimbo Selfie:** `Instagram influencer selfie pose, camera held at arm's length slightly above eye level, one hand raised toward lens with XXXL French nails in sharp near foreground, pouty glossy lips slightly parted, vacant bimbo stare directly into camera lens, face centered and dominant, deep décolleté and augmented bust visible in lower frame, cherry red hair cascading around face, half-body selfie frame, [fondo shallow blur], 8k social media fashion photography` — **DIFERENCIA VS DITZY:** POV = selfie con mano/uñas alzadas HACIA la cámara, cara dominante centrada, energía "bimbo influencer de IG" · Ditzy = primer plano 30° con nails tocando escote, cara en tercio superior · NUNCA usar "first-person POV" (genera duplicados/espejos) · ⚠️ **NEGATIVE PROMPT ADICIONAL:** `no phone, no smartphone, no device, no screen` — el "hand raised toward lens" puede hacer que el modelo coloque un teléfono en la mano
 7. **Lying Down — The Odalisque:** `full body lying on side forming a languid S-curve, one arm extended with XXXL nails on surface, legs slightly bent, stilettos pointed and visible, [fondo]`
 
 **Resumen visual de las 7 poses:**

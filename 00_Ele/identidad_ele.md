@@ -152,7 +152,11 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (l) bodysuit sheer + micro-skirt fringe vinyl + garter cinturón visible
 >   - (m) cut-out bodycon extreme side-slits hasta la cadera en vinyl espejo
 >   - (n) micro-dress espalda completamente abierta + choker O-ring + cadena cadera
->   **REGLA DUAL:** en cada batch Escort, al menos 1 Haute + 1 Callejera. Balance 50/50 a lo largo del catálogo. Haute: tacón stiletto elegante. Callejera: plataforma Pleaser permitida.
+>   **POLO C · Escort Fetish / Domme de Club (3 siluetas intermedias — club BDSM élite, dungeon de lujo, after-hours):**
+>   - (EC1) latex corset overbust entallado + microskirt hasta el muslo + OTK stiletto boots elegante
+>   - (EC2) strappy harness bodysuit con micro-piezas estratégicas + thigh-high boots plataforma curada
+>   - (EC3) vinyl cut-out column dress con cadenas en torso + choker O-ring metal · stiletto fino
+>   **REGLA DUAL:** en cada batch Escort, al menos 1 Haute + 1 Callejera. Balance 50/50 a lo largo del catálogo. Haute: tacón stiletto elegante. Callejera: plataforma Pleaser permitida. Polo C: opcional en batches ≥6.
 > - **Domestic:** *(Sub-arquetipo dual V3 — 14 siluetas: 7 Trophy Bimbo Moderna + 7 Maid Fetish. PROHIBIDO retro/50s/60s — todo lo retro migra a Pin-Up)*
 >   **POLO A · Trophy Bimbo Moderna 2026 (esposa-trofeo de Vitacura, penthouse contemporáneo):**
 >   - (a) bodycon mini-dress + apron architectural minimalista moderno
