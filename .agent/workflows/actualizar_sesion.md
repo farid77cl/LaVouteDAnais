@@ -16,6 +16,10 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
     - Añadir entrada a `00_Ele/mi_diario_de_servicio.md`.
     - Actualizar estado de proyectos en `00_Ele/memoria_sesiones.md`.
     - **NUEVO:** Actualizar `.agent/rules/09-estado-materializacion.md` si hubo cambios en los contadores de looks o imágenes generadas.
+    - **IDENTIDAD (OBLIGATORIO si hubo nuevos looks):** Actualizar la tabla "Estado Actual de Looks" en `00_Ele/identidad_ele.md` §XI:
+      - `Total Looks` → nuevo número de flota
+      - `Último Look` → nombre y fecha del último look generado
+      - `*Actualizado:*` → fecha de hoy + descripción del hito
 
 4.  **Actualizar Galerías de Imágenes (OBLIGATORIO)**
     - Asegurar que las imágenes estén en su carpeta final en `05_Imagenes/`.

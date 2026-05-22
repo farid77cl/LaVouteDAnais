@@ -296,91 +296,148 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 
 ---
 
-### 💼 Sub-arquetipo Corporate (Spec V2 — 20/05/2026 · Dual, sin Mugler)
+### 💼 Sub-arquetipo Corporate (Spec V3 — 22/05/2026 · Refactor fetish con referencias reales: Mugler RESTAURADO + Schiaparelli + Versace S&M + Saint Laurent sleaze + Office Siren + Babygirl/Severance)
+
+**🔄 REVERSIÓN CANON 22/05/2026:** La "purga Mugler" del 17/05/2026 queda **anulada**. Mugler era el núcleo Power Executive Domme y su exclusión dejó el polo en modo "Tom Ford clean" sin filo fetish. La investigación de referencias reales confirmó que Mugler 90s + Schiaparelli + Versace Miss S&M son el ADN auténtico del corporate-fetish. Restaurados como núcleo de Polo A.
 
 **Universo DUAL — dos polos co-existentes:**
 
-| Polo | Esencia |
-|---|---|
-| **A · Power Executive Hiperfemenina** | La directora ejecutiva, la abogada socia, la CEO. Sastrería que afirma autoridad sin renunciar a la silueta. Tom Ford twisted tailoring + Armani fluid soft power. |
-| **B · Sexy Secretary Sumisa** | La asistente del CEO, la analista junior bajo el escritorio del director, la secretaria-objeto-de-deseo. "Sexy office" hiperfemenina, claramente subordinada. |
+| Polo | Esencia | Referencias reales |
+|---|---|---|
+| **A · Power Executive Domme** | La directora-amazona. Mugler cyber-Amazon goddess con shoulders arquitectónicos + Schiaparelli gilded corset + Versace Miss S&M Medusa belt + Saint Laurent sleaze sheer + Tom Ford velvet tux refinado. **NO es Tom Ford clean** — es Tom Ford CON corset visible. | Thierry Mugler FW95 · Schiaparelli SS22 · Versace Miss S&M 1992 · Saint Laurent FW24 · Tom Ford archive · Helmut Newton |
+| **B · Office Siren / Babygirl / Severance** | NO es secretaria sumisa de pencil skirt + blazer separados. ES Office Siren TikTok 2023-2025 (Bayonetta glasses + sheer blouse nipple-peek) + Babygirl (intern vulnerable-seductive Nicole Kidman 2024) + Severance (repressed-erotic muted) + Bayonetta catsuit + Secretary 2002 bondage. | Bella Hadid Office Siren · Bayonetta · Babygirl 2024 · Severance · "Secretary" (2002) · Miu Miu FW23 |
 
-**Anti-cliché codificado:** Corporate **NO es default pencil skirt + blazer separados**. La biblioteca rota explícitamente hacia coat-dress, jumpsuit, blazer-dress, wide-leg trouser, tuxedo, shirt-dress. La falda tubo aparece solo en POLO B (Secretary) y como variante puntual.
+**Anti-cliché codificado:** Corporate **NO es pencil skirt + blazer separados como default**. La biblioteca rota hacia: latex power suit (CA1), gilded corset over sheer (CA2), sheer sleaze button-down (CA3), Versace S&M bodysuit (CA4), Bayonetta catsuit (CB2), Secretary bondage shirt-dress (CB3), trench coat surprise (CB6), Severance blazer-dress (CB7).
 
 **Diferencias clave:**
-- **vs. HF Editorial:** Corporate = funcional ejecutivo (sastrería de día y velada de negocios) · HF = escultura para fotografiar (gala/red-carpet).
+- **vs. HF Editorial:** Corporate = funcional ejecutivo con contexto de uso (oficina/junta/elevator/boardroom). HF = escultura para fotografiar (gala/red-carpet) sin contexto laboral.
 - **vs. Escort:** Corporate = poder profesional (oficina) · Escort = hospitalidad de lujo (hotel/cena privada).
-- **vs. Domestic:** Corporate = espacio público profesional · Domestic = espacio privado del hogar.
+- **vs. Domestic:** Corporate = workspace profesional · Domestic = espacio privado del hogar. Trench-surprise en elevator/oficina = Corporate. La misma en penthouse propio = Trophy.
+- **vs. Stripper:** Stripper = stage/pole/billetes. Corporate = boardroom/desk/elevator. La sheer blouse de Office Siren NO es la crystal mesh stripper — una es bajo blazer, la otra es la pieza completa.
+- **vs. Lencería:** Lencería = boudoir/cama puro. Corporate trench-coat surprise = oficina con lingerie debajo (el contraste ES el fetish).
 
-**Biblioteca de siluetas:** 14 opciones (7 Power + 7 Secretary) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Corporate**. Inspiración: Tom Ford + Armani. **PROHIBIDO Mugler** (purga canon 17/05/2026 sigue vigente).
+**Biblioteca de siluetas:** 14 opciones (7 Power Domme CA1-CA7 + 7 Office Siren CB1-CB7) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Corporate**.
 
-**Regla Dual:** En cada batch Corporate, **al menos 1 Power + 1 Secretary**. Balance 50/50 a lo largo del catálogo. Nunca un batch 100% de un solo polo.
+**Regla Dual:** En cada batch Corporate, **al menos 1 Power + 1 Office Siren**. Balance 50/50 a lo largo del catálogo. Nunca un batch 100% de un solo polo.
 
-**Paleta canon Corporate — diferenciada por polo:**
+#### 🔥 PROVOCATION THRESHOLD Corporate (NUEVA — OBLIGATORIA)
 
-**POLO A · Power Executive:**
+> Toda silueta Corporate DEBE cumplir al menos UNA condición (anti-clean rule):
+> - **Sheer panel** (sheer button-down con nipple peek, sheer panel en bodysuit/dress)
+> - **Cutout o cincher visible** (corset por encima del tailoring, boning expuesto, waist cincher fetish)
+> - **Material fetish dominante** (latex/vinyl/PVC como pieza principal, no detalle)
+> - **Lingerie peek** (bra visible bajo blazer abierto, garter visible bajo slit, thigh-highs visibles)
+> - **Heels Pleaser-ref o stiletto ≥12cm** + nylons con costura trasera o thigh-highs
+> - **Accesorio dominatrix codificado** (opera gloves long, whip-belt, dagger-toe heels, Bayonetta glasses)
+>
+> Si el outfit es "Tom Ford clean" sin transgresión visible → **NO es Corporate Ele V3**, es business casual genérico.
+
+#### 🎨 Paleta Corporate Spectrum — Dual V3
+
+**POLO A · Power Executive Domme:**
 | Familia | Colores |
 |---|---|
-| **Jewel tones de autoridad** | Oxblood · Navy executive · Forest green (Armani) · Cognac leather · Slate · Deep emerald · Black gloss *(único polo donde black dominante es opción core)* |
-| **Neutros power** | Charcoal grey · Pinstripe (gris/blanco) · Camel/Caramel leather · Burgundy power · Taupe lujurioso |
-| **Animal prints power** | Leopard print TF 90s · Croco-emboss · Snake/Python print |
-| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Pearl white (blusa interior) |
+| **Architectural noir** | Black vinyl/latex dominante · Oxblood · Midnight navy ultra-saturado · Emerald deep |
+| **Power jewel metallic** | Gold liquid · Bronze · Cognac patent · Slate metallic · Burgundy power |
+| **Mugler signatures** | Full latex black · Latex red · Latex midnight (cyber-Amazon) |
+| **Animal prints power** | Leopard TF 90s · Croco-emboss · Snake/Python · Zebra (Versace) |
+| **Neutros power** | Charcoal grey · Pinstripe (gris/blanco) · Camel/Caramel leather · Taupe lujurioso |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Pearl white (sheer blouse interior) · Hardware chrome/gold |
 
-**POLO B · Sexy Secretary:**
+**POLO B · Office Siren / Babygirl / Severance:**
 | Familia | Colores |
 |---|---|
-| **Tonos accesibles/vulnerables** | Blush · Ivory · Sky blue · Soft pink · Champagne · Nude latex · Pearl white |
-| **Acento del poder ajeno** | Oxblood (solo complemento/acento, nunca dominante) · Black (solo falda o pieza única, nunca conjunto completo) |
+| **Severance/Babygirl muted** | Charcoal · Taupe · Stone grey · Ivory · Ecru · Pearl |
+| **Office Siren neutrals** | Pearl white · Cream satin · Blush nude · Taupe vinyl · Champagne |
+| **Bayonetta core** | Black core + accent neon (UV cyan / acid lime "weapons") |
+| **Pasteles permitidos** | Blush · Soft pink · Sky blue · Nude latex *(única excepción Corporate B — el register Babygirl requiere vulnerabilidad)* |
 | **Animal prints secretary** | Leopard mini · Snake bodycon |
-| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Gold hardware |
+| **Acentos (≤20%)** | Cherry Red (pelo/labios) · Gold hardware (Bayonetta detail) |
 
-**❌ PROHIBIDOS en ambos polos:** Neon saturado · Baby pink · Hot Magenta · Cream mate sin brillo · Pastel pálido.
+**❌ PROHIBIDOS en ambos polos:** Neon all-over saturado (es Nightclub) · Hot Magenta dominante · Cream MATE sin brillo (granny office) · Beige funeral · Baby pink dominante en Polo A.
 
-**Materiales canon Corporate:**
+#### 🧪 Materiales canon Corporate
 
 | # | Material | Polo |
 |---|---|---|
-| **C1** | Vinyl/PVC pinstripe escultórico | Power |
-| **C2** | Latex matte ejecutivo | Power |
-| **C3** | Leather glossy esculpido (caramel, oxblood, taupe, black) | Power + Secretary |
-| **C4** | **Animal print leather/vinyl** (leopard, croco, snake, zebra) 🆕 | Power + Secretary |
-| **C5** | Wet-look satin tuxedo | Power |
-| **C6** | Sequin-embellished tailoring | Power evening |
-| **C7** | Transparent vinyl trench | Power + Secretary |
-| **C8** | **Sheer organza-vinyl híbrido** (blouse translucent fetish) 🆕 | Secretary |
+| **C1** | **Latex matte/gloss Mugler-style (cyber-Amazon goddess)** 🆕 | Power Domme |
+| **C2** | Vinyl/PVC pinstripe escultórico | Power |
+| **C3** | Leather glossy esculpido (caramel, oxblood, taupe, black) | Power + Office Siren |
+| **C4** | Animal print leather/vinyl (leopard, croco, snake, zebra) | Power + Office Siren |
+| **C5** | Wet-look satin tuxedo (Tom Ford) | Power |
+| **C6** | Sequin-embellished tailoring (evening corporate) | Power evening |
+| **C7** | Transparent vinyl trench | Power + Office Siren |
+| **C8** | Sheer organza-vinyl híbrido (sheer blouse nipple-peek) | Office Siren |
 | **C9** | PVC mirror espejo | Power |
-| **C10** | **Soft fluid drape Armani-echo** 🆕 | Power |
+| **C10** | Soft fluid drape Armani-echo (Tom Ford clean refinado) | Power |
+| **C11** | **Gilded/chrome corset metálico visible sobre sastrería** 🆕 | Power Schiaparelli |
+| **C12** | **Crystal mesh sheer panel en tailoring** 🆕 | Office Siren sleaze |
+| **C13** | **Latex catsuit zip-up Bayonetta-style** 🆕 | Office Siren |
 
-**❌ Materiales prohibidos en Corporate:** lana real · algodón · denim · tweed · jersey · seda matte sin gloss · cualquier tela natural.
+**❌ Materiales prohibidos:** lana real · algodón · denim · tweed · jersey · seda matte sin gloss · cualquier tela natural sin tratamiento.
 
-**Setting/escenario típico:**
-- **Power:** Sala junta C-Suite · Despacho penthouse · Hotel lobby ejecutivo · Conference summit · Business class premium · Hotel-boardroom · Despacho Power Lawyer · Ascensor cromado.
-- **Secretary:** Antesala del CEO · Recepción ejecutiva · Pasillo oficina luces frías · Escritorio bajo lámpara banker · Ascensor privado · Sala fotocopia · Sala de archivos · Bajo escritorio del director (POV).
+#### 🏛️ Settings Específicos Corporate (con props)
 
-**Combos canon Corporate:**
+| Polo A · Power Domme | Polo B · Office Siren |
+|---|---|
+| Penthouse boardroom con vidrio panorámico + mesa marble + Manhattan skyline noche | Open-plan office Severance-style con cubicles muted grises + fluorescent flat lighting |
+| Saint Laurent runway-style seamless minimalist con luz dramática direccional | Babygirl-style corporate bathroom espejo (touch-up lipstick) |
+| Mugler ultra-design office con escultura central + escalera curva | Babygirl elevator (espejo, intimate, low-key tense) |
+| Schiaparelli atelier dorado con espejos antiguos + estatua + cristalería | Junior office con printer/copier en el fondo (Secretary 2002 reference) |
+| Lobby corporativo rascacielos con LED screens + recepción marble | After-hours empty office (solo ella en escritorio con sheer blouse) |
+| Private elevator marble + golden hardware + valet attended | Bayonetta cathedral-office gothic minimal con velas + escritorio antiguo |
+| Penthouse office con city lights + cigar bar visible | Office Siren TikTok-style ventana natural + sheer curtains + plantas |
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+**Polo A · Power Domme:**
+`commanding gaze · alpha posture · she signs the checks · architectural confidence · power-suit owner not wearer · the boardroom bends to her presence · whip-coiled stillness · Mugler amazon energy · cyber-goddess dominion`
+
+**Polo B · Office Siren:**
+`aware of being watched · the slow tease of professionalism · just-too-tight pencil skirt energy · glasses-down stare over the rim · she IS the distraction in the meeting · office siren composure barely contained · Babygirl vulnerable-seductive · Severance repressed-erotic`
+
+#### 🤸 Pose Framings Corporate (variantes de las 7 canónicas)
+
+| # | Polo A · Power Domme | Polo B · Office Siren |
+|---|---|---|
+| 1. Standing | Power stance behind desk, hand on hip, gaze direct commanding | Lean against desk edge, hand on hip, glasses-down stare over the rim |
+| 2. Back | Walking away through office corridor in heels, looking over shoulder predatory | Bent over filing cabinet (back arch), looking over shoulder coquette |
+| 3. Seated | At boardroom head-of-table, legs sharply crossed at knee, both hands on chair arms, imperious | Seated on desk edge (not chair), one leg crossed, papers in hand, glasses adjusted |
+| 4. Profile | At standing desk reviewing papers, lumbar arch dramatic, full stiletto profile | Reaching up to high shelf, blouse riding up, side profile dramatic |
+| 5. Ditzy | Boardroom bathroom mirror touching up oxblood lipstick, predatory ditzy reflected | Babygirl office bathroom mirror, glasses adjusted, nipple-peek visible, vacant ditzy |
+| 6. POV | Across-the-desk POV (subordinate looking UP at boss), gaze dominante hacia abajo | Across-the-desk POV (boss looking up at intern entering), surprised-aware gaze |
+| 7. Odalisque | Recostada sobre boardroom table (papers/laptop esparcidos), espalda arqueada, predatory | Recostada sobre escritorio propio con piernas cruzadas + skirt slit visible |
+
+> **NEGATIVE PROMPT específico Corporate:** `business casual, frumpy, conservative, modest blouse, full coverage, granny office wear, dowdy, schoolmarm, librarian without sex appeal, cubicle drone`
+
+#### Combos canon Corporate V3
 
 | Combo | Polo | Lectura |
 |---|---|---|
-| C1 pinstripe + double-breasted blazer-dress | Power | Pinstripe couture Tom Ford |
-| C4 leopard print + tuxedo blazer | Power | Animalier tuxedo Tom Ford 90s |
-| C3 leather caramel + A-line midi skirt | Power | Leather Tom Ford archive |
-| C5 wet-satin + shawl tuxedo | Power | Velvet tuxedo couture |
-| C7 transparent trench + wet-satin column | Power | Glossy shield Tom Ford |
-| C10 soft drape + monochromatic blazer-dress | Power | Armani fluid |
-| C3 leather oxblood + mini skirt + sheer blouse | Secretary | Cuero secretaria fetish |
-| C8 sheer organza-vinyl + pencil skirt vinyl | Secretary | Blouse translucent + falda lápiz |
-| C4 snake print + bodycon shirt-dress | Secretary | Animalier secretaria-domme |
-| C2 latex catsuit cremallera + thigh-high stiletto | Secretary | Secretaria-dominatrix |
+| C1 latex blazer-dress + shoulders arquitectónicos + whip belt | Power | Mugler cyber-Amazon goddess |
+| C11 gilded corset + C8 sheer blouse + wide trousers + Bayonetta glasses | Power | Schiaparelli gilded office |
+| C8 sheer button-down nipple-peek + pencil skirt + Bayonetta glasses | Power | Saint Laurent sleaze |
+| C1 latex bodysuit + Medusa belt + falda lápiz vinyl + opera gloves | Power | Versace Miss S&M power |
+| C5 wet-satin + shawl tuxedo + cigarette holder | Power | Tom Ford velvet tux refinado |
+| C7 vinyl trench ceñido + nada debajo + bota stiletto knee-high | Power | Babygirl Domme + Newton |
+| C8 sheer silk blouse + pencil skirt midi + Bayonetta glasses + ponytail | Office Siren | Office Siren classic TikTok |
+| C13 vinyl catsuit zip-up + Bayonetta glasses + opera gloves | Office Siren | Bayonetta catsuit |
+| C3 leather oxblood bodycon shirt-dress + corset visible + thigh-highs | Office Siren | Secretary 2002 bondage |
+| C8 sheer + slim-fit knit + tailored trousers taupe + tortoiseshell glasses | Office Siren | Babygirl intern |
+| C7 vinyl trench + lingerie debajo + briefcase + Bayonetta glasses | Office Siren | Babygirl trench surprise |
+| C10 + blazer-dress oversized 60s + sheer top + nylons | Office Siren | Severance muted repressed |
 
-**Combos PROHIBIDOS en Corporate:**
-- Cualquier referencia a Mugler (silueta, plastron-armor, exaggerated shoulders, lamé bronze)
-- Pencil skirt + blazer separados como combo default (solo polo B como variante puntual)
-- Neon + sastrería (lectura Nightclub, no Corporate)
+#### 🚫 Combos PROHIBIDOS en Corporate
+
+- "Tom Ford clean" sin transgresión visible (sheer/cutout/cincher/Pleaser/Bayonetta) → no es Corporate Ele V3
+- Pencil skirt + blazer separados como combo default (debe haber elemento fetish)
+- Neon all-over saturado en sastrería (lectura Nightclub, no Corporate)
 - Sequin all-over en horario laboral (solo evening/gala corporate)
+- Granny office wear · cream mate sin brillo · beige funeral · librarian sin filo
 
 ---
 
-### 🏠 Sub-arquetipo Domestic (Spec V3 — 20/05/2026 · Dual, MODERNO sin retro)
+### 🏠 Sub-arquetipo Domestic (Spec V4 — 22/05/2026 · Refactor fetish con referencias reales: Trophy Wife signature + Stepford Modern + Real Housewives + Vitacura brunch + French Maid history + Playboy Bunny canon + Akihabara Maid Cafe + Pro-Dom Maid)
 
 **Universo DUAL — dos polos co-existentes:**
 
@@ -393,12 +450,30 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 
 **Diferencias clave:**
 - **vs. Corporate:** Domestic = espacio privado del hogar · Corporate = oficina/sala junta.
-- **vs. Pin-Up:** Domestic = trophy moderna 2026 + maid fetish · Pin-Up = retro/50s/60s.
-- **vs. Lencería:** Domestic = vestida en contexto hogareño · Lencería = ropa interior pura.
+- **vs. Pin-Up:** Domestic = trophy moderna 2026 + maid fetish · Pin-Up = retro/50s-90s con referencia temporal.
+- **vs. Lencería:** Domestic = vestida en contexto hogareño · Lencería = ropa interior pura sin contexto.
+- **vs. Escort:** Trophy = hogar PROPIO (esposa-de-millonario). Escort Haute = hotel/yacht alquilado por cliente.
+- **vs. Stripper:** Bunny Maid en hogar privado ≠ Stripper en stage público.
 
-**Biblioteca de siluetas:** 14 opciones (7 Trophy Moderna + 7 Maid) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Domestic**.
+**Biblioteca de siluetas:** 14 opciones (7 Trophy DA1-DA7 + 7 Maid DB1-DB7) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Domestic**.
 
-**Regla Dual:** En cada batch Domestic, **al menos 1 Trophy + 1 Maid**. Balance 50/50. Nunca un batch 100% de un polo.
+**Regla Dual:** En cada batch Domestic, **al menos 1 Trophy + 1 Maid**. Balance 50/50.
+
+#### 🔥 PROVOCATION THRESHOLD Domestic (NUEVA — OBLIGATORIA)
+
+> Toda silueta Domestic DEBE cumplir al menos UNA condición:
+> - **Material fetish dominante** (vinyl/PVC/latex como pieza principal)
+> - **Lingerie peek visible** (robe abierta, housecoat unbuttoned, bra/garter visible)
+> - **Apron architectural** (estructurado/escultórico/laser-cut — no apron común casero)
+> - **Pleaser-ref o stiletto ≥12cm** — NUNCA zapatilla plana, incluso en yoga room
+> - **Animal print uniform** (Polo A signature canónico — leopard como uniforme)
+> - **Choker/collar/cuffs/orejas Bunny** (Polo B signature)
+
+#### 🎯 Referencias canónicas por polo (Spec V4)
+
+**Polo A · Trophy:** Trophy Wife uniform (leopard print signature) · Stepford Modern · Real Housewives Beverly Hills loungewear · Vitacura brunch culture · Hostess penthouse cocktail.
+
+**Polo B · Maid:** French Maid history (19th-century → 21st-century fetish) · Playboy Bunny canon (Hefner 1960s) · Latex French Maid (Yomorio/Misfitz) · **Akihabara Maid Cafe kawaii** (Cure Maid Cafe Tokyo 2001 — "moe moe kyun" pink frilly) ⭐ NUEVO · Pro-Dom Maid (latex catsuit + apron + cap).
 
 **Paleta canon Domestic:**
 
@@ -425,38 +500,75 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 | **D7** | **Satin/silk-look líquido** (loungewear, robe, lingerie-set) 🆕 | Trophy loungewear |
 | **D8** | Faux-fur tail (Bunny) | Maid bunny |
 | **D9** | Sequin housewife evening (cocktail hostess noche) | Trophy |
-| **D10** | Apron architectural rígido estructurado | Ambos |
+| **D10** | Apron architectural rígido estructurado (escultórico/laser-cut, no casero) | Ambos |
+| **D11** | **Pink frilly satin + tulle layered (Akihabara kawaii)** 🆕 | Maid Akihabara |
+| **D12** | **Lace blanca laser-cut delantal frilly extreme (multi-layer)** 🆕 | Maid Akihabara + Classic |
 
-**❌ Materiales prohibidos en Domestic:** algodón real · lino casero · jersey de casa · tweed · **gingham/polka-dot impreso retro** · materiales naturales cualquiera.
+**❌ Materiales prohibidos en Domestic:** algodón real · lino casero · jersey de casa · tweed · **gingham/polka-dot impreso retro** · materiales naturales sin tratamiento.
 
-**Setting/escenario típico:**
-- **Trophy Moderna (ambientes específicos 2026):**
-  - **Cocina open-plan:** isla central mármol blanco + grifería dorada, estante con vinos, taburetes cuero blanco, ventana panorámica Vitacura
-  - **Walk-in closet:** espejo suelo-techo LED, perchas cromadas, sillón capitoné, zapatos expuestos como vitrinas
-  - **Baño de mármol:** bañera standalone oval calacatta, ducha lluvia exposita, lavabo floating stone, velas aromáticas
-  - **Pool terrace:** infinity pool borde infinito ciudad, tumbonas blancas, bar outdoor mínimo, vista cordillera
-  - **Living con vista ciudad:** ventanal floor-to-ceiling, sofá low-profile blanco, alfombra pelo largo, skyline nocturno Santiago
-  - **Sala de gimnasio privado:** pared espejo 360°, máquinas chrome brushed, LED tira fría, suelo vinilo negro
-  - **Master bedroom:** cama king lino blanco 1000 hilos, lámpara flotante, cabecero tapizado, terraza privada
-  - **Garage:** Porsche 911 Carrera S / Range Rover negro / McLaren GT (uno solo como fondo)
-- **Maid:** Pasillo de servicio · Cocina escenográfica isla central · Sala donde sirve la cena · Dormitorio principal (cama deshecha) · Salón con bandeja de bebidas · Sótano BDSM-domestic · Despensa walk-in · Mesa de comedor lista para servir.
+#### 🏛️ Settings Específicos Domestic (con props)
 
-**Combos canon Domestic:**
+**Trophy Moderna (ambientes específicos 2026):**
+- **Cocina open-plan:** isla central mármol blanco + grifería dorada, estante con vinos, taburetes cuero blanco, ventana panorámica Vitacura
+- **Walk-in closet:** espejo suelo-techo LED, perchas cromadas, sillón capitoné, zapatos expuestos como vitrinas
+- **Baño de mármol:** bañera standalone oval calacatta, ducha lluvia exposita, lavabo floating stone, velas aromáticas
+- **Pool terrace:** infinity pool borde infinito ciudad, tumbonas blancas, bar outdoor mínimo, vista cordillera
+- **Living con vista ciudad:** ventanal floor-to-ceiling, sofá low-profile blanco, alfombra pelo largo, skyline nocturno Santiago
+- **Sala de gimnasio privado:** pared espejo 360°, máquinas chrome brushed, LED tira fría, suelo vinilo negro
+- **Master bedroom:** cama king lino blanco 1000 hilos, lámpara flotante, cabecero tapizado, terraza privada
+- **Garage:** Porsche 911 Carrera S / Range Rover negro / McLaren GT (uno solo como fondo)
+- **Brunch Cumbres del Cóndor 🆕:** terraza Vitacura con valle, mesas blancas, mimosas en flute, cordillera al fondo
+
+**Maid:**
+- Pasillo de servicio + cocina escenográfica isla central
+- Sala donde sirve la cena formal + bandeja drinks
+- Dormitorio principal (cama deshecha, sirviendo)
+- Salón con bandeja de bebidas + carros de servicio
+- Sótano BDSM-domestic (Pro-Dom Maid + Power-Maid)
+- **Akihabara Maid Cafe interior 🆕:** pink frilly + mesa "moe moe kyun" + bombillas Hollywood pink + neón cute (Cure Maid Cafe Tokyo ref)
+- Despensa walk-in + comedor preparado para servir
+- Cuarto de servicio detrás (la maid en su rincón)
+- Backstage maid uniform stand + plumero displays
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+**Polo A · Trophy:**
+`leisure of the rich · she-has-help · diamonds-while-cooking · brunch-with-mimosas · trophy-wife confidence · designer-everything · the husband paid for everything she's wearing · spoiled-domestic poise · leopard-print uniform`
+
+**Polo B · Maid:**
+`uniformed obedience · servant-fantasy precision · French Maid devotion · Akihabara kawaii "moe moe kyun" cute pose · master-mistress address · the apron IS the offering · bunny-tail innocence-meets-fetish · curtsy-on-cue`
+
+#### 🤸 Pose Framings Específicos Domestic (variantes de las 7 canónicas)
+
+| # | Polo A · Trophy | Polo B · Maid |
+|---|---|---|
+| 1. Standing | En cocina leaning against marble island, copa de vino en mano | Con bandeja servir en mano, posture servant-perfect, postura recatada |
+| 2. Back | Walking through penthouse hallway, looking over shoulder | Bent over polishing/cleaning (back arch), apron tied at waist |
+| 3. Seated | En pool terrace tumbona, piernas cruzadas, drink in hand | Sentada en silla comedor con apron, manos en regazo recatada |
+| 4. Profile | En walk-in closet seleccionando heels, lumbar arch | Walking toward dining table con platter, profile silhouette servant |
+| 5. Ditzy | Master bathroom mirror touching up red lipstick (leopard nail visible) | Maid bathroom mirror touching up lipstick, apron visible · Polo B Akihabara: "moe moe kyun" hand pose con corazones |
+| 6. POV | Husband-POV en bed esperando con champagne flute extendida | Kneeling POV (master looking down at maid presenting tray) |
+| 7. Odalisque | Recostada en pool deck o cama king sábanas satin | Recostada en bed haciendo cama, back arch, apron + thigh-high visible |
+
+> **NEGATIVE PROMPT específico Domestic:** `gingham, polka-dot, retro 50s, sundress, crinolina, sweater girl, vintage housewife, Pin-Up, swing silhouette, granny, schoolmarm, dowdy apron, beige funeral`
+
+#### Combos canon Domestic V4
 
 | Combo | Polo | Lectura |
 |---|---|---|
-| D1 vinyl + bodycon mini + apron architectural | Trophy | Trophy mommy moderna |
-| D4 leopard print + mini-skirt + crop top | Trophy | Trophy bimbo animalier |
-| D7 satin líquido + robe abierta + lingerie | Trophy | Mañana de penthouse |
-| D2 PVC mirror + catsuit hogareño | Trophy | Trophy ultra-moderna |
-| D6 wet-satin + cocktail strapless + obi | Trophy | Hostess penthouse |
-| D9 sequin + cocktail-dress | Trophy | Hostess de gala doméstica |
-| D3 latex matte + French maid classic | Maid | Maid fetish canon |
-| D3 latex + delantal D5 lace + collar O-ring | Maid | Maid sumisa bondage |
-| D4 leopard maid mini + delantal blanco | Maid | Maid animalier híbrido |
-| D8 bunny tail + corset bodysuit + ears | Maid | Playboy bunny canon |
-| D3 latex catsuit + apron + headpiece | Maid | Domestique-domme |
-| D10 architectural apron + sheath vinyl | Ambos | Sirvienta couture surreal |
+| D4 leopard print bodycon mini + Pleaser + gold chain + Birkin | Trophy | DA1 Trophy Animal Print canónica |
+| D1 vinyl mini-dress blush + apron architectural + pink gloves | Trophy | DA2 Stepford Modern |
+| D7 satin líquido + robe abierta + lingerie + Pleaser slipper | Trophy | DA3 Real Housewives loungewear |
+| D6 wet-satin + wrap-dress + sandal + Hermès clutch | Trophy | DA4 Brunch Cumbres del Cóndor |
+| D1 wet-look legging + crop bra-top latex + Pleaser platform | Trophy | DA5 Yoga Room Trophy |
+| D6 wet-satin + cocktail strapless + obi + cigarette holder | Trophy | DA6 Hostess penthouse |
+| D3 latex + French maid classic + delantal frilly + manguitos | Maid | DB1 French Maid canon |
+| D3 latex catsuit + delantal vinyl + headpiece | Maid | DB2 Latex French Maid |
+| D11 pink frilly + apron multi-layer + headband + Mary Jane stiletto | Maid | DB3 Akihabara Kawaii ⭐ |
+| D8 bunny tail + corset bodysuit + ears + bow tie + cuffs | Maid | DB4 Playboy Bunny canon |
+| D8 latex bunny bodysuit + delantal mini + thigh-high boots | Maid | DB5 Latex Bunny Maid (Yomorio) |
+| D3 latex + micro-vestido + collar O-ring + delantal mini | Maid | DB6 Micro-Maid Sumisa |
+| D3 latex + uniforme + thigh-high stiletto + plumero + opera gloves + cap | Maid | DB7 Power-Maid Domme |
 
 **Combos PROHIBIDOS en Domestic:**
 - Wiggle dress 50s · sundress+crinolina · sweater-dress 50s · apron peplum vintage (todo va a Pin-Up)
@@ -466,21 +578,33 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 
 ---
 
-### 💃 Sub-arquetipo Professional Stripper (Spec V2 — 20/05/2026 · Dual, plataformas codificadas, anti-rechazo)
+### 💃 Sub-arquetipo Professional Stripper (Spec V3 — 22/05/2026 · Refactor con referencias reales, threshold de provocación, poses específicas)
 
-**Universo DUAL — dos polos co-existentes:**
+**Universo DUAL — dos polos co-existentes, ambos con cobertura mínima provocativa:**
 
-| Polo | Esencia |
-|---|---|
-| **A · Stage Showgirl** | Las Vegas glam, cabaret, Crazy Horse París. Plumas, headpiece, cristales hand-sewn, espectáculo de escenario, performer profesional con show coreografiado. |
-| **B · Pole Specialist** | Pole-dance athletic, micro-pieces grip-friendly, cuerpo en movimiento extremo. Strip-club moderno tipo Magic Mike upscale. |
+| Polo | Esencia | Referencias reales |
+|---|---|---|
+| **A · Stage Showgirl** | NO es Vegas Jubilee de plumas cubiertas. ES Crazy Horse Paris (topless-implied con luces sobre piel) + Magic City Atlanta (cutout dress con thong visible, urban Y2K) + Dita Von Teese (corset bodysuit con cutouts estratégicos, glass illusion). El escenario es ella; la prenda es framing mínimo. | Crazy Horse Paris · Magic City Atlanta · Dita Von Teese Las Vegas |
+| **B · Pole Specialist** | Pole-dance con outfit funcional + provocativo. Brands signature: Bad Kitty USA (Spider Back, V-Front, Brazil Shorts), Creatures of XIX/CXIX (Gecko Grip bodysuits que glistens), Cleo The Hurricane (glam-rock edge competition). NO confundir con bikini athletic. | Bad Kitty USA · CXIX · Cleo The Hurricane · strip club real |
 
 **Diferencias clave:**
-- **vs. Nightclub:** Stripper baila POR DINERO en escenario (jaula, fringe, pole) · Nightclub baila para sí o pareja (glam social).
+- **vs. Nightclub:** Stripper baila POR DINERO en escenario (jaula, pole, tip rail) · Nightclub baila para sí o pareja (glam social, sin tip stage).
 - **vs. Escort:** Stripper = club escenario público (espectáculo) · Escort = hotel privado (servicio íntimo).
-- **vs. Lencería:** Stripper = uniforme escenográfico · Lencería = ropa interior boudoir.
+- **vs. Lencería:** Stripper = uniforme escenográfico de performance · Lencería = ropa interior boudoir/cama.
+- **vs. Bikini Studio (BB):** Bikini es editorial pool/playa. Stripper es show con stage/pole/billetes.
 
-**Biblioteca de siluetas:** 14 opciones (7 Stage + 7 Pole) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Stripper**. Inspiración: BodyKandi, Empire Exotics NYC, Lust Vault Nation, Pleaser shoes.
+#### 🔥 PROVOCATION THRESHOLD (NUEVA — OBLIGATORIA en Stripper)
+
+> Toda silueta Stripper DEBE cumplir al menos UNA de estas condiciones:
+> - **Transparencias estratégicas** (crystal mesh sheer, vinyl clear panels, fishnet open) cubriendo zonas erógenas
+> - **Cutouts agresivos** en torso/caderas/escote que dejan piel visible
+> - **G-string/thong visible** asomando (de shorts, faldas o como pieza única)
+> - **Body chains** sobre piel desnuda (no como decoración secundaria sino como el "outfit")
+> - **Micro-pieces** (bra+thong + nada más, o equivalente)
+>
+> Si el outfit cubre >65% del cuerpo sin ninguno de los anteriores → **NO ES STRIPPER**, es Nightclub o Bikini editorial.
+
+**Biblioteca de siluetas:** 14 opciones (7 Stage SA1-SA7 + 7 Pole SB1-SB7) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Stripper**.
 
 **Regla Dual:** En cada batch Stripper, **al menos 1 Stage + 1 Pole**. Balance 50/50.
 
@@ -508,115 +632,159 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 | `stripper shoes` | `platform stiletto sandals, 8-inch heel + 4-inch platform` |
 | `cage outfit` | `architectural chrome harness ensemble` |
 | `lap dance` | `intimate performance` |
+| `topless` | `bare-shoulder with crystal mesh illusion` / `optical-illusion sheer bodice` |
+| `thong visible` | `low-rise bottom with hip detail asymmetry` / `cheeky cut bottom with visible waistband` |
+| `cutout bodysuit` | `architectural bodysuit with negative-space paneling` |
+| `denim micro shorts` | `vinyl-treated micro shorts with structured waistband` |
 
-**Tags obligatorios en BLOQUE B:** `hyper-polished smooth skin texture, fashionable, sensual, alluring, high-glamour, performance attire, editorial stage costume`.
+**Tags obligatorios en BLOQUE B:** `hyper-polished smooth skin texture, fashionable, sensual, alluring, high-glamour, performance attire, editorial stage costume, owns-the-room confidence`.
 
-**Paleta canon Stripper:**
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
 
-| Familia | Colores |
+Para que la stripper se vea como STRIPPER y no como modelo de catálogo en stage, inyectar en cada BLOQUE C:
+
+`predatory confident gaze · performance-aware body language · hyper-charged stage presence · owns the room · the weight of being watched is the fuel not the discomfort · stripper attitude not model pose · the show IS her body`
+
+#### 🎨 Paleta Codificada — Stripper Spectrum
+
+| Función | Colores |
 |---|---|
-| **Stripper signature** | Rhinestone clear/white · Black + rhinestone · Hot Pink fluorescent · Blood Red · Silver Mirror · Gold Metallic · Holographic multichrome |
-| **Animal Prints** 🆕 | Leopard · Snake · Croco-emboss · Zebra (animalier showgirl) |
-| **UV-reactive neon** 🆕 | Lime UV · Cyan UV · Magenta UV (club black-light) |
+| **Predator hot** | Hot pink fluorescent · neon red · electric magenta · blood crimson high-gloss |
+| **Stage metallic** | Mirror chrome · gold liquid · silver mercury · holographic multichrome · oil-slick |
+| **Money/Vegas** | Money green · champagne gold · dollar-bill green-on-black |
+| **UV reactive** | UV electric cyan · UV chartreuse · UV magenta (club blacklight) |
+| **Animal prints** | Leopard · snake · croco-emboss · zebra (animalier showgirl) |
 | **Acentos (≤20%)** | Cherry Red (pelo/labios) · Glitter como sudor · Hardware cromado |
-| **❌ PROHIBIDOS** | Pastel pálidos · Beige · Brown discreto · Cream mate · Verdes opacos |
+| **❌ PROHIBIDOS** | Pasteles pálidos · beige · marrones tierra · navy corporate · cream mate · tonos vulnerables/secretary |
 
-**Materiales canon Stripper:**
+#### 🧪 Materiales canon Stripper
 
 | # | Material | Polo |
 |---|---|---|
-| **S1** | **Rhinestone-encrusted mesh/spandex** (hand-sewn) 🆕 | Stage + Pole |
-| **S2** | **Holographic vinyl multichrome** 🆕 | Stage + Pole |
+| **S1** | Rhinestone-encrusted mesh/spandex (hand-sewn) | Stage + Pole |
+| **S2** | Holographic vinyl multichrome | Stage + Pole |
 | **S3** | Sequin mesh espejo | Stage |
-| **S4** | **Fishnet (open-crotch bodystocking)** 🆕 | Pole |
+| **S4** | Fishnet open-crotch bodystocking | Pole |
 | **S5** | Mirror chrome vinyl | Ambos |
-| **S6** | **Animal print vinyl/latex** (leopard, snake, croco, zebra) 🆕 | Ambos |
-| **S7** | **Cage harness** (chain/leather/chrome) | Stage + Pole |
-| **S8** | **Feather boa / plumage stage** | Stage |
-| **S9** | **Body chains** (silver/gold) | Ambos |
-| **S10** | **UV-reactive vinyl/spandex** 🆕 | Pole (club lights) |
-| **S11** | **Spandex stretch high** (pole grip) | Pole |
+| **S6** | Animal print vinyl/latex (leopard, snake, croco, zebra) | Ambos |
+| **S7** | Cage harness (chain/leather/chrome) | Stage + Pole |
+| **S8** | **Crystal mesh sheer (topless-illusion fabric)** 🆕 | Stage (Crazy Horse) |
+| **S9** | Body chains (silver/gold) sobre piel | Ambos |
+| **S10** | UV-reactive vinyl/spandex | Pole (club lights) |
+| **S11** | **CXIX Gecko Grip fabric (sticky pole grip, glistens en movimiento)** 🆕 | Pole |
 | **S12** | Latex club fetish | Ambos |
+| **S13** | **Vinyl-treated denim (Magic City Y2K)** 🆕 | Ambos (urban strip) |
+| **S14** | **Opera gloves long + seamed stockings (Dita signature)** 🆕 | Stage (burlesque) |
 
-**❌ Materiales prohibidos:** algodón · denim · jersey · lana · tweed · tela natural · materiales sin brillo.
+**❌ Materiales prohibidos:** algodón · denim natural (sin tratamiento vinyl) · jersey · lana · tweed · tela natural sin brillo · materiales mate.
 
-**Setting/escenario típico:** Strip-club stage con pole cromado central · VIP champagne room (cuero rojo, luz baja) · Cage hanging over stage · Backstage tocador con luces · Mesa de performance VIP · DJ booth + UV lights · Pista privada mirror walls · Stage con runway extendida · Cabaret theater velvet ruby + spotlight.
+#### 🏛️ Settings Específicos (con props)
 
-**Combos canon Stripper:**
+| Polo A · Stage Showgirl | Polo B · Pole Specialist |
+|---|---|
+| Crazy Horse mirror room (espejos 360°, light projections sobre piel) | Pole de bronce con rosin marks visibles, stage circular con tip rail |
+| Stage Vegas con spotlight desde arriba, curtain backdrop morado | Strip club main floor con neon "GIRLS"/"LIVE", luces verdes UV |
+| Magic City Atlanta-style stage urbano con LED screens y bottle service | VIP champagne room con bottle service + pole privado, velvet rojo |
+| Dressing room con vanity mirror y bombillas Hollywood (cabaret) | After-hours empty club, neon residual, espejo del piso sucio |
+| Burlesque theater intimate (Dita-style) con velvet ropes rojas + curtain bordado | Magic City Y2K stage urban con chrome lighting y denim crowd |
+| Cabaret runway extendida con clientes a los lados (tip stage) | Cage hanging over stage con grip points cromados |
+| Backstage tocador con luces, percheros con costumes, props en mesa | DJ booth + UV lights + smoke machine + private booth |
 
-| Combo | Polo | Lectura |
-|---|---|---|
-| S1 rhinestone bodysuit + S8 feather boa + Pleaser Stardance | Stage | Vegas showgirl headliner |
-| S3 sequin micro-romper + headpiece plumas + Pleaser Flamingo | Stage | Cabaret performer |
-| S7 cage + S1 rhinestone base + Pleaser chrome | Stage | Cage showgirl glam |
-| S2 holographic slingshot + Pleaser UV-reactive | Stage | Hologram performer |
-| S1 micro 2-pieces rhinestone + S9 body chains + Pleaser Flamingo | Pole | Pole base cristal |
-| S11 spandex bodysuit grip-friendly + cut-outs + Pleaser Flamingo | Pole | Pole-specialist athletic |
-| S7 cage + micro bra+thong + Pleaser thigh-high | Pole | Cage-pole hybrid |
-| S6 leopard print 2-pieces + Pleaser knee-high | Pole | Animalier pole |
-| S4 fishnet open-crotch + bra cristales + Pleaser Adore | Pole | Fishnet-pole fetish |
-| S12 latex catsuit + chaps removable + Pleaser boots | Pole | Latex-pole domme |
+#### 🤸 Pose Set Stripper (REEMPLAZA las 7 canónicas cuando look es Stripper)
 
-**Combos PROHIBIDOS en Stripper:**
+| # | Stage (Polo A) | Pole (Polo B) |
+|---|----------------|---------------|
+| 1 | **Stage Predator** — hip cocked, weight on platform, hand on hip, gaze direct to viewer, hair-flip mid-move, working the crowd | **Pole Climb Initiation** — pierna doblada agarrando el pole, otra extendida, manos altas agarrando arriba |
+| 2 | **Stage Walk Stride** — caminando hacia cámara crossing legs en stiletto platform, hip swing exagerado | **Pole Back Arch** — espalda al pole, manos arriba agarrando, una pierna alzada arabesque high |
+| 3 | **Stage Edge Spread** — sentada al borde del stage con piernas abiertas 45°, una mano gripping edge, billetes esparcidos en el piso | **Pole Sit Predator** — sentada con piernas alrededor del pole, hip thrust hacia adelante, gaze directa a cámara |
+| 4 | **Stage Crawl** — gateando sobre el stage hacia cámara, espalda arqueada, gaze depredadora, pelo cayendo hacia el piso | **Pole Invert** — colgada de cabeza con piernas separadas en split aéreo, hair caída, perfil dramático mostrando línea completa |
+| 5 | **Vanity Bombshell** — frente al vanity mirror del dressing room retocándose labios glossy, look ditzy reflejado, uñas XXXL visibles | **Vanity Bombshell** — igual (común a ambos polos) |
+| 6 | **VIP Lap Dance POV** — straddle del cliente sentado (cámara = POV cliente), una mano en cuello del pov, gaze dominante hacia abajo | **Pole Floor Sit** — sentada al pie del pole, piernas abiertas, una mano agarrando el pole, otra en muslo, gaze a cámara |
+| 7 | **Stage Money Floor** — recostada sobre el piso del stage, espalda arqueada, billetes esparcidos cerca de la mano, gaze depredadora hacia arriba | **Pole Crucifix** — agarrada del pole en cruz (una mano arriba, otra abajo), piernas separadas, perfil mostrando arch |
+
+> **NEGATIVE PROMPT específico Stripper:** `shy, demure, modest, secretarial pose, catalog stance, corporate body language, vulnerable, soft-romantic, lingerie-boudoir, bridal, innocent, girl-next-door`
+
+#### 🚫 Combos PROHIBIDOS en Stripper
+
 - Aguja sola sin plataforma (Stripper SIEMPRE en plataforma)
 - Vocabulario explícito que dispare filtro (usar sustitutos del anti-rechazo)
 - Setting de penthouse/hotel/oficina (eso es Trophy/Escort/Corporate)
-- Pastel pálidos · Beige funeral
+- Pasteles pálidos · beige funeral · navy corporate
+- Cobertura >65% del cuerpo sin transparencias/cutouts/thong visible → no es stripper
+- Pose de catálogo (Standing genérico/Seated secretarial) → reemplazar con pose set Stripper
 
 ---
 
-### 💎 Sub-arquetipo Escort (Spec V2 — 21/05/2026 · Dual, espectro lujo↔marginal)
+### 💎 Sub-arquetipo Escort (Spec V3 — 22/05/2026 · Refactor con referencias reales: Madame Claude + Belle de Jour + Helmut Newton + Sugar Baby + Pretty Woman + Julia Fox + Pro-Domme)
 
-**Universo:** Ele opera en dos registros opuestos — la escort de alto standing (suites 5★, yates, cenas de mármol) y la escort callejera de neón (moteles, strip malls, esquinas nocturnas). Ambos polos son sensuales, nunca neutros. Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Siempre stiletto (Haute: punta fina elegante; Callejera: plataforma Pleaser permitida).
+**Universo TRI-POLO con referencias canónicas:**
+
+| Polo | Esencia | Referencias reales |
+|---|---|---|
+| **A · Haute** | Suite presidencial / yate Monte Carlo / cena privada / gala VIP. "Cold, tall, perfect" — la cortesana refinada. | Madame Claude · Belle de Jour (Deneuve) · Helmut Newton · Sugar Baby 2025 · Monte Carlo yacht |
+| **B · Callejera** | Esquina neón / motel luz roja / strip mall / Tokyo Kabukicho. Raw + Y2K + Pretty Woman defiance. | Pretty Woman 1990 (canónica) · Julia Fox 2022 · Kabukicho · Motel red light · Magic City crossover |
+| **C · Domme de Club** | Dungeon BDSM élite / sala VIP fetish / club after-hours. La pro-dom refinada. | Pro-Dominatrix real · Newton "Saddle I" · Bordelle · Atsuko Kudo · officer fetish |
+
+Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (Haute: punta fina elegante; Callejera: plataforma Pleaser permitida; Domme: knee-high/thigh-high stiletto + opera gloves).
 
 **Diferencias clave vs. otros sub-arquetipos:**
 - **vs. Nightclub:** Escort opera en espacios privados cerrados (hotel, yate) · Nightclub opera en dance-floors públicos.
 - **vs. HF Editorial:** HF = arquitectura imponente de pasarela · Escort Haute = línea aristocrática líquida discreta dentro del lujo.
-- **vs. Corporate:** Corporate = poder profesional diurno (oficina) · Escort = hospitalidad nocturna (privado).
-- **vs. Stripper:** Stripper = espectáculo público en escenario · Escort = servicio íntimo en privado.
-- **vs. Domestic:** Domestic = interior doméstico (hogar) · Escort = exterior nocturno o suite de hotel.
+- **vs. Corporate:** Corporate = poder profesional diurno (oficina/boardroom) · Escort = hospitalidad nocturna (privado/hotel). Polo C Domme se confunde con Corporate Power Domme — distinción: Escort C tiene riding crop/officer cap/sub implied; Corporate tiene maletín/Bayonetta glasses.
+- **vs. Stripper:** Stripper = espectáculo público en escenario con billetes · Escort = servicio íntimo en privado.
+- **vs. Domestic:** Domestic = interior doméstico (hogar PROPIO) · Escort = exterior nocturno o suite de hotel (espacio del cliente).
+- **vs. Lencería:** Lencería = boudoir solo sin contexto · Escort = lencería en contexto (suite/hotel cliente).
 
-**Biblioteca de siluetas:** 14 opciones (7 Haute + 7 Callejera)
+#### 🔥 PROVOCATION THRESHOLD Escort (NUEVA — OBLIGATORIA)
 
-**POLO A · Escort Haute / Domina:**
+> Toda silueta Escort DEBE cumplir al menos UNA condición:
+> - **Slit lateral profundo** (hasta cadera mínimo)
+> - **Material fetish dominante** (vinyl/latex/PVC) o couture wet-satin que sugiere desnudo
+> - **Cutout estratégico** o **O-ring conector visible** (Pretty Woman signature)
+> - **Lingerie/corset visible** bajo sastrería
+> - **Heels stiletto ≥12cm** + nylons costura o thigh-high boots
+> - **Accessory courtesan codificado** (riding crop, opera gloves long, choker O-ring, body chains, officer cap)
 
-| Código | Silueta | Nota |
-|--------|---------|------|
-| EA1 | columna líquida floor-length + slit lateral + capa tafetán vinyl | entrada dramática suite |
-| EA2 | bias-cut slip dress 30s en wet-satin o liquid metal | elegancia fluida aristocrática |
-| EA3 | gown sirena con cola estructurada en latex couture | gala máxima |
-| EA4 | two-piece bustier rígido + falda maxi columna | top escultural + falda fluida |
-| EA5 | catsuit translúcido crystal mesh + sobre-falda midi | transparencia cubierta gala |
-| EA6 | cocktail midi asimétrico one-shoulder + guantes opera fingerless | cena ejecutiva |
-| EA7 | wrap-dress power vinyl cinched + cinturón dorado | cóctel privado, diplomacia |
+**Biblioteca de siluetas V3:** 18 opciones (7 Haute + 7 Callejera + 4 Domme)
 
-**POLO B · Escort Callejera / Sumisa:**
+**POLO A · Escort Haute (Madame Claude + Belle de Jour + Helmut Newton + Sugar Baby + Yacht Monte Carlo):**
 
-| Código | Silueta | Nota |
-|--------|---------|------|
-| EB1 | mini-dress bodycon cut-outs extremos en torso + caderas | vinyl patent ceñidísimo |
-| EB2 | micro-skirt vinyl + crop-top translúcido PVC coloreado + OTK boots | esquina clásica |
-| EB3 | micro-shorts patent + blouse atada al ombligo + over-knee boots plataforma | strip mall |
-| EB4 | mini wrap-dress ultra-ceñido vinyl + plataformas exageradas Pleaser-ref | motel walk-in |
-| EB5 | bodysuit sheer + micro-skirt fringe vinyl + garter cinturón visible | strip-adjacent |
-| EB6 | cut-out bodycon extreme side-slits hasta la cadera en vinyl espejo | calle mojada |
-| EB7 | micro-dress espalda completamente abierta + choker O-ring + cadena cadera | sumisa nocturna |
+| Código | Silueta | Referencia |
+|--------|---------|------------|
+| **EA1** | **Belle de Jour Slip** — bias-cut slip dress 30s en wet-satin o liquid metal (elegancia fluida aristocrática refinada) | Catherine Deneuve 1967 |
+| **EA2** | **Madame Claude Column** — columna líquida floor-length + slit lateral profundo + capa de tafetán vinyl (entrada dramática suite presidencial) | Madame Claude |
+| **EA3** | **Helmut Newton Hotel** — corset overbust visible + skirt midi pencil + opera gloves long + thigh-high stockings seamed + riding crop opcional | Newton "Saddle I" 1976 |
+| **EA4** | **Yacht Liquid Gold** — bustier rígido + maxi columna champagne liquid gold chrome + slit profundo lateral + opera gloves cortas | Monte Carlo yacht |
+| **EA5** | **Sugar Baby Bodycon** — fitted bodycon wet-look ruby/cobalt/emerald + slit + classy stiletto + clutch + jewels mínimos delicate | Sugar Baby 2025 |
+| **EA6** | **Crystal Mesh Gala** — crystal mesh sheer column dress + bias cut + nipple-tease (la prenda parece desnudo, gala VIP) | Saint Laurent + Newton crossover |
+| **EA7** | **Newton Saddle Tease** — vinyl jumpsuit con harness leather/chrome detail + opera gloves + bota knee-high + riding crop signature | Newton hotel S&M |
 
-**POLO C · Escort Fetish / Domme de Club (3 siluetas complementarias):**
+**POLO B · Escort Callejera (Pretty Woman + Julia Fox Y2K + Tokyo Kabukicho + Motel + Magic City):**
 
-*(Zona intermedia entre Haute y Callejera — la escort que opera en clubs fetish de élite, dungeons de lujo, eventos BDSM privados. Más agresiva que Haute, más curada que Callejera.)*
+| Código | Silueta | Referencia |
+|--------|---------|------------|
+| **EB1** | **Pretty Woman Cutout** — cropped vinyl top + matching micro mini-skirt + silver O-ring connector + bota stiletto thigh-high black leather (THE iconography) | Julia Roberts 1990 |
+| **EB2** | **Y2K Street Viper** — micro-skirt PVC + crop-top translúcido coloreado + over-the-knee plataforma boots + clutch espejo | Julia Fox 2022 recreation |
+| **EB3** | **Tokyo Kabukicho** — micro-shorts patent + crop top atado al ombligo + medias con costura + bota plataforma | Kabukicho entertainment district |
+| **EB4** | **Motel Mini-Wrap** — mini wrap-dress ultra-ceñido vinyl + plataformas exageradas Pleaser-ref + cigarette holder | Motel red light Americana |
+| **EB5** | **Fishnet Street** — bodysuit sheer fishnet + micro-skirt fringe vinyl + garter cinturón visible + bota stiletto | Street walker raw |
+| **EB6** | **Mirror Bodycon Cutout** — cut-out bodycon extreme side-slits hasta la cadera en vinyl espejo + thong asomando | Magic City crossover |
+| **EB7** | **Espalda Abierta Choker** — micro-dress espalda completamente abierta + choker O-ring + cadena cadera + Pleaser platform | Street signature O-ring |
 
-| Código | Silueta | Nota |
-|--------|---------|------|
-| EC1 | latex corset overbust entallado + microskirt hasta el muslo + OTK stiletto boots elegante | domme de club privado — no gala, no calle |
-| EC2 | strappy harness bodysuit con micro-piezas estratégicas + thigh-high boots plataforma curada | arnés de lujo, no festival |
-| EC3 | vinyl cut-out column dress con cadenas visibles en torso + choker O-ring metal · stiletto fino | fetish escort VIP intermedia |
+**POLO C · Escort Fetish / Domme de Club (Pro-Dominatrix + Newton + Bordelle + Officer fetish — 4 siluetas expandidas):**
 
-**Settings POLO C:** Club BDSM privado de élite · dungeon aesthetic minimalista negro · sala VIP con iluminación roja puntual · after-hours lounge exclusivo · antesala privada.
+*(Zona intermedia entre Haute y Callejera — la escort que opera en clubs fetish de élite, dungeons de lujo, eventos BDSM privados. Más agresiva que Haute, más curada que Callejera. Profesional Domme con price-list.)*
 
-**Paleta POLO C:** Negro total · Deep wine · Chrome silver · Electric red · Latex flesh · Deep purple.
+| Código | Silueta | Referencia |
+|--------|---------|------------|
+| **EC1** | **Pro-Dom Latex Corset** — latex corset overbust entallado + microskirt latex hasta el muslo + OTK stiletto boots + officer cap leather + opera gloves cortas | Pro-Dominatrix canon |
+| **EC2** | **Strappy Harness Bodysuit** — strappy harness bodysuit con micro-piezas estratégicas + thigh-high boots plataforma + opera gloves latex + cuffs decorativas | Bordelle architecture |
+| **EC3** | **Vinyl Cut-Out + Crop** — vinyl cut-out column dress con cadenas en torso + choker O-ring metal + stiletto fino + riding crop opcional | Newton + Dungeon |
+| **EC4** | **Officer Domme** — latex catsuit + officer cap leather + opera gloves cortos + leather belt ancho con hebilla chrome + bota knee-high stiletto | Officer fetish + Pro-Dom |
 
-**Regla de uso POLO C:** No reemplaza la Regla Dual (Haute + Callejera). En batches ≥6 Escort, incluir al menos 1 Polo C. En batches menores es opcional — priorizar siempre el balance Haute/Callejera.
+**Settings POLO C:** Dungeon BDSM élite con instrumentos visibles (cross, sling al fondo) · sala VIP red velvet privada con corset stand visible · fetish club after-hours con sling/cross al fondo · riding ring privado con saddle/harness props · dressing room dungeon con corset stands + whips display · black-tile bathroom dungeon · throne room private.
+
+**Regla de uso POLO C:** No reemplaza la Regla Dual (Haute + Callejera). En batches ≥6 Escort, incluir al menos 1 Polo C. En batches menores es opcional — priorizar balance Haute/Callejera.
 
 **Materiales E1-E12:**
 
@@ -635,44 +803,92 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 | E11 | fringe vinyl/chain (flecos metálicos o vinyl en movimiento) | Callejera |
 | E12 | wet-look spandex micro (efecto mojado, micro prendas) | Callejera |
 
-**Paleta canon Escort:**
+#### 🎨 Paleta Escort Spectrum V3 — Tri-Polo
 
 | Polo | Colores |
 |------|---------|
-| **Haute** | Midnight Black gloss · Deep Wine · Forest Green · Navy · Deep Teal · Champagne metálico · Pearl White gloss · Liquid Gold · Chrome Silver |
-| **Callejera** | Blood Red patent · Hot Pink fluorescent · Candy Apple Red · Scarlet · Electric Cyan · Royal Blue patent · Hot Magenta · Neon Yellow · UV-reactive |
+| **Haute** | **Belle de Jour cold:** pearl white · ivory · stone grey · charcoal · navy · **Madame Claude jewel:** ruby red · emerald · sapphire · burgundy deep · **Sugar Baby modern:** cobalt · emerald · ruby · blush satin · cream wet-look · **Yacht metallics:** champagne gold liquid · silver mercury · iridescent oil-slick · **Newton noir:** full black gloss · oxblood · midnight (B&W noir) |
+| **Callejera** | **Pretty Woman 90s:** black + white cutout combo (signature) · vinyl primary saturado · **Street neon:** electric cyan · hot pink fluorescent · neon green · UV magenta · **Y2K Julia Fox:** silver chrome · holographic · oil-slick metallic · **Motel red light:** blood red · neon red · cherry vinyl · **Animal prints street:** leopard · zebra |
+| **Domme de Club** | **Dungeon black** dominante (latex/leather/vinyl gloss) · **Blood red** accent (riding crop signature) · **Chrome/silver** hardware (cadenas, anillos, hebillas, O-rings) · **Oxblood** accents (officer cap, leather belt) · Mínimo color — todo en escala black/red/chrome |
 
-**Settings canon:**
+#### 🏛️ Settings Específicos Escort (con props)
 
-| Polo | Settings |
-|------|---------|
-| **Haute** | Suite presidencial • yate de lujo • cena mesa mármol • ascensor hotel 5★ • terraza penthouse • lobby art deco • VIP gala entry |
-| **Callejera** | Esquina neón lluvia • strip mall parking nocturno • motel luz roja • lobby hotel cuestionable • escalera servicio • pasillo bar back-alley • calle mojada reflejo luces |
+| Polo A · Haute | Polo B · Callejera | Polo C · Domme |
+|---|---|---|
+| Suite presidencial hotel 5★ (Paris/Monte Carlo) | Esquina neón con asphalt wet + street lamp | Dungeon BDSM élite con cross/sling al fondo |
+| Yate Mediterráneo cubierta + bar champagne | Motel exterior con neon "VACANCY" rojo intermitente | Sala VIP red velvet privada con corset stand |
+| Cena privada penthouse + mesa caoba + cristalería + velas | Strip mall parking nocturno con luz fluorescente | Fetish club after-hours con sling visible |
+| Gala VIP red carpet entrada con paparazzi | Cabina de teléfono público vintage | Riding ring privado con saddle/harness props |
+| Limo private + city night through window | Tokyo Kabukicho calle con kanji neon signs | Dressing room dungeon con corset stands + whips |
+| Hotel Lancaster habitación Newton-style B&W | Pretty Woman Hollywood Boulevard reference | Black-tile bathroom dungeon con espejo iluminado |
+| Belle de Jour boudoir-room 60s couture + Saint Laurent | NYC subway entrance late night | Throne room private (Newton + Versace SM) |
 
-**Combos canon Escort (recomendados):**
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
 
-| Combo | Silueta | Material | Paleta | Setting |
-|-------|---------|----------|--------|---------|
-| Silk Domina | EA1 | E1 wet-satin | Deep Wine | Suite presidencial |
-| Gala Chrome | EA3 | E4 chrome liquid | Chrome Silver | VIP gala entry |
-| Crystal Suite | EA5 | E6 crystal mesh | Pearl White gloss | Lobby art deco |
-| Mirror Street | EB6 | E5 PVC mirror | Hot Pink fluorescent | Calle mojada |
-| Neon Corner | EB2 | E10 PVC translúcido | Electric Cyan | Esquina neón lluvia |
-| Fringe Motel | EB5 | E11 fringe vinyl | Blood Red patent | Motel luz roja |
+**Polo A · Haute:**
+`refined cold beauty · educated worldly poise · Madame Claude prototype · Belle de Jour restrained sensuality · the price is for being chosen · Newton-cool dominance · 5'9" perfection · she negotiates from her own throne`
 
-**Combos PROHIBIDOS en Escort:**
-- Tela (algodón, seda natural, lino, velvet) — solo vinyl/PVC/latex/wet-look
+**Polo B · Callejera:**
+`unapologetic Y2K street swagger · Pretty Woman aware-of-watching · just-stepped-out-of-motel · raw street energy refined just enough · Vivian-before-the-makeover defiance · she IS the offer`
+
+**Polo C · Domme de Club:**
+`commanding professional Domme · the room is her dungeon · riding crop quietly in hand · price-list authority · she chooses the play · cold fetish technique · the sub kneels before she speaks`
+
+#### 🤸 Pose Framings Específicos Escort (variantes de las 7 canónicas)
+
+| # | Polo A · Haute | Polo B · Callejera | Polo C · Domme |
+|---|---|---|---|
+| 1. Standing | Regal entrance, hand on bar, gaze cool, copa champagne | Leaning against street lamp post, hip cocked, gaze through smoke | Commanding pose con riding crop, dungeon backdrop |
+| 2. Back | Walking down hotel corridor in heels, looking over shoulder | Walking away on wet street, looking over shoulder, neon casting | Walking through dungeon corridor, riding crop behind back |
+| 3. Seated | En sofá club VIP, piernas cruzadas at knee, copa en mano | Perched on motel doorstep o car hood, legs open, smoke | Throne chair, legs sharply crossed, riding crop on lap |
+| 4. Profile | At hotel bar leaning, lumbar arch dramatic, looking down at drink | Silhouette under streetlight, smoke + neon profile | Con sub kneeling at her feet (suggested), profile dominance |
+| 5. Ditzy | Hotel suite mirror touching up lipstick, mirror reflection refined ditzy | Compact mirror en alley touching up lipstick, neon reflected | Bathroom mirror dungeon, lipstick + crop visible, predatory ditzy |
+| 6. POV | Across private dinner table POV (cliente), seductive gaze direct | Entrando al cuarto motel POV (cliente), gaze conspiratorial | Looking down at sub POV (sub kneeling), commanding gaze |
+| 7. Odalisque | Recostada en cama suite presidencial sábanas blancas, Newton B&W | Recostada en cama motel sábanas rojas, neon entrando por ventana | Recostada en throne/leather chaise, riding crop in hand |
+
+> **NEGATIVE PROMPT específico Escort:** `bridal, innocent, girl-next-door, college student, schoolgirl, sweet, demure, romantic candle-lit naïve, prom queen, ingenue`
+
+#### Combos canon Escort V3
+
+| Combo | Polo | Lectura |
+|-------|------|---------|
+| EA1 Belle de Jour slip + wet-satin pearl white + suite presidencial | Haute | Belle de Jour 1967 refinada |
+| EA2 columna líquida + slit profundo + Madame Claude jewel ruby | Haute | Madame Claude entrada |
+| EA3 corset overbust + opera gloves + thigh-high stockings + riding crop + Hotel Lancaster | Haute | Newton "Saddle I" |
+| EA4 bustier + maxi columna champagne gold + yate | Haute | Yacht Monte Carlo |
+| EA6 crystal mesh sheer column + nipple-tease + gala | Haute | Saint Laurent + Newton crossover |
+| EB1 cropped vinyl top + micro skirt + silver O-ring + thigh-high black leather | Callejera | Pretty Woman canónica |
+| EB2 micro-skirt PVC + crop translúcido + OTK platform + clutch espejo | Callejera | Julia Fox 2022 Y2K |
+| EB3 micro-shorts + crop atado + medias costura + Kabukicho neon | Callejera | Tokyo entertainment |
+| EB6 cutout side-slits cadera + vinyl mirror + thong asomando | Callejera | Magic City crossover |
+| EC1 latex corset overbust + microskirt + OTK boots + officer cap | Domme | Pro-Dom canon |
+| EC2 strappy harness bodysuit + thigh-high platform + opera gloves latex | Domme | Bordelle architecture |
+| EC4 latex catsuit + officer cap + opera gloves + chrome belt | Domme | Officer fetish + Pro-Dom |
+
+#### 🚫 Combos PROHIBIDOS en Escort
+
+- Tela (algodón, seda natural, lino, velvet sin tratamiento) — solo vinyl/PVC/latex/wet-look
 - Cherry Red como dominante (reservado para pelo/labios)
 - Setting diurno (oficina, parque, playa de día) — Escort opera de noche o en interiores cerrados
-- Vocabulario que connote prostitución directa en el prompt de imagen
+- Vocabulario que connote prostitución directa en el prompt de imagen (usar "courtesan", "high-end companion", "professional escort entertainer")
+- Pose de catálogo/inocente (bridal/ingenue/college) → reemplazar con framings Escort
+- Outfit "Tom Ford clean" sin transgresión visible → no es Escort, es Corporate Power
 
-**Regla Dual:** En cada batch Escort, **al menos 1 Haute + 1 Callejera**. Balance 50/50 a lo largo del catálogo.
+**Regla Dual:** En cada batch Escort, **al menos 1 Haute + 1 Callejera**. Balance 50/50 a lo largo del catálogo. Polo C opcional (mandatorio en batches ≥6).
 
 ---
 
-### 📌 Sub-arquetipo Pin-Up (Spec V1 — 21/05/2026 · Tri-Polo, 1950s→1990s)
+### 📌 Sub-arquetipo Pin-Up (Spec V2 — 22/05/2026 · Tri-Polo refactor con referencias reales + Bettie Page Bondage branch)
 
-**Universo:** Ele interpreta cinco décadas de fantasía femenina (1950s→1990s) — desde la ama de casa peligrosa hasta la astronauta de Courrèges pasando por la supermodelo de los 90s. Regla fundamental: silhouette históricamente anclada de la época + ADN Ele invariable (vinyl/PVC/latex sustituye la tela original, siempre stiletto, bimbofied). El look debe leerse como "retro" a primera vista.
+**Universo:** Ele interpreta cinco décadas de fantasía femenina (1950s→1990s) — desde la ama de casa peligrosa de Elvgren hasta la Barbarella de Rabanne pasando por la lifeguard de Baywatch. Regla fundamental: silhouette históricamente anclada de la época + ADN Ele invariable (vinyl/PVC/latex sustituye la tela original, siempre stiletto, bimbofied). El look debe leerse como "retro" a primera vista.
+
+**Referencias canónicas por polo (Spec V2):**
+
+| Polo | Referencias reales |
+|---|---|
+| **A · Bombshell** | Bettie Page (canon + Bondage branch) · Bunny Yeager (fotógrafa Playboy 1955) · Irving Klaw (king of bondage 1950s) · Alberto Vargas (Vargas Girls WWII/Esquire) · Gil Elvgren (Brown & Bigelow calendar) · Marilyn Monroe |
+| **B · Retro-Futurismo** | Paco Rabanne "12 Unwearable Dresses" 1966 (chainmail) · Pierre Cardin (silver vinyl) · André Courrèges · Barbarella 1968 (Jane Fonda) · Madonna Material Girl · Patrick Nagel · 80s MTV synth-pop |
+| **C · Decade Glam** | Baywatch 1992-1997 (Pamela Anderson TYR red) · Saturday Night Fever (70s disco) · Jane Fonda Workout (80s aerobics VHS) · Kate Moss/Naomi (90s supermodel slip) · Leigh Bowery (90s club kid) · Courtney Love (90s grunge) |
 
 **Diferencias clave vs. otros sub-arquetipos:**
 - **vs. Domestic:** Domestic = interior doméstico MODERNO (2026) · Pin-Up = hogar retro de época (50s-60s) + elementos de fantasía temporal.
@@ -1060,6 +1276,9 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 **Estructura de cada prompt:** `[BLOQUE A] + [BLOQUE B] + [BLOQUE C — Pose y Setting]`
 
 **7 poses estándar obligatorias (BLOQUE C):**
+
+> ⚠️ **EXCEPCIÓN STRIPPER (Spec V3):** Cuando el Look es del sub-arquetipo **Stripper**, las 7 poses canónicas NO se usan. En su lugar se aplica el **Pose Set Stripper** (Stage Predator/Walk/Edge Spread/Crawl/Vanity/VIP POV/Money Floor para Polo A · Pole Climb/Back Arch/Sit Predator/Invert/Vanity/Floor Sit/Crucifix para Polo B). Ver sección "💃 Sub-arquetipo Professional Stripper" para detalle.
+
 1. **Standing View:** `full body, standing, weight on one hip, hands on waist, [fondo]`
 2. **Back View:** `full body, back view, turning over shoulder, hair cascading, [fondo]`
 3. **Seated View:** `seated, legs crossed, spine straight, hands on knee, [fondo]`
