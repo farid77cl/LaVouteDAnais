@@ -1625,34 +1625,51 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 
 > ⚠️ **EXCEPCIÓN STRIPPER (Spec V3):** Cuando el Look es del sub-arquetipo **Stripper**, las 7 poses canónicas NO se usan. En su lugar se aplica el **Pose Set Stripper** (Stage Predator/Walk/Edge Spread/Crawl/Vanity/VIP POV/Money Floor para Polo A · Pole Climb/Back Arch/Sit Predator/Invert/Vanity/Floor Sit/Crucifix para Polo B). Ver sección "💃 Sub-arquetipo Professional Stripper" para detalle.
 
-1. **Standing View:** `full body, standing, weight on one hip, hands on waist, [fondo]`
-2. **Back View:** `full body, back view, turning over shoulder, hair cascading, [fondo]`
-3. **Seated View:** `seated, legs crossed, spine straight, hands on knee, [fondo]`
+> 🩻 **PRINCIPIO RECTOR — PROFESSIONAL FETISH MODEL POSING (Spec V4 — 22/05/2026):**
+> Cada pose DEBE ejecutarse como si la sujeta fuera una **modelo fetish profesional** trabajando con un fotógrafo experto, NO una modelo de catálogo. Eso significa:
+> - **Lumbar arch exagerado siempre** (hip thrust back + chest forward — S-curve extrema)
+> - **Lips parted glossy** + **fingertip o XXXL nail interaction con el cuerpo** (lip, neck, collarbone, breast, hip, thigh)
+> - **Predatory direct gaze** O **half-lidded sultry gaze** (nunca vacant neutral)
+> - **Asymmetric leg positioning** (una rodilla doblada/adelantada para crear tensión visual)
+> - **Heel weight uneven** (un stiletto adelantado para elongar leg line)
+> - **Shoulder drop** mostrando collarbone/neck prominencia
+> - **Hair como prop activo** (cascading por spine, framing face, pulled through fingers, breath-blown across face)
+> - **Body twist** que enfatiza la silueta reloj-de-arena (hombros 30° distintos a caderas)
+> - El cuerpo ES la prenda — la pose dice "soy consciente de cada milímetro de mi cuerpo y lo estoy ofreciendo a la cámara"
+
+1. **Standing View — Fetish Model Standing:** `full body shot from low angle slightly below hip, weight shifted onto one stiletto heel with other foot forward and pointed, exaggerated S-curve with hip jutted to one side and chest pushed forward, one hand sliding down hip/thigh with XXXL nails visible, other hand cupping waist or pulling at neckline of garment, shoulders pulled back and dropped to extend collarbone line, chin lifted and tilted, lips parted glossy, half-lidded predatory direct gaze to camera, lumbar arch extreme, hair cascading over one shoulder, [fondo]`
+
+2. **Back View — Fetish Model Back:** `full body back view with exaggerated booty-pop (hip thrust back, ass-out), spine forming dramatic S-curve, one hand on hip with XXXL nails fanned, other hand reaching up through cherry red hair OR touching nape of neck, head turned looking over shoulder predatory through hair veil, lips parted glossy, half-lidded sultry gaze, weight on one heel with other foot pointed pigeon-toed inward (signature fetish pose), one shoulder dropped exposing back/spine, hair cascading down spine OR pulled forward over shoulder, [fondo]`
+
+3. **Seated View — Fetish Model Seated:** `seated with exaggerated knee-over-knee cross, top leg's stiletto pointing directly at camera in sharp foreground, lumbar arch extreme (NOT leaning back), bust angled forward toward camera, one hand resting on top knee with XXXL nails fanned and finger trailing inner thigh, other hand cradling jaw OR fingertip pressed against bottom lip, shoulders rolled back to extend décolleté, lips parted glossy, half-lidded predatory direct gaze, hair cascading over one shoulder framing breast, [fondo]`
    **Variantes Seated por arquetipo (sustituir el BLOQUE C según el sub-arquetipo del Look):**
 
    | Arquetipo | BLOQUE C Seated |
    |-----------|----------------|
-   | **Corporate / HF Editorial** | `seated upright, power pose, legs sharply crossed at knee, hands folded on top knee, spine perfectly straight and imperious, [fondo sala junta / museum hall]` |
-   | **Lencería / Escort Haute** | `seated reclined, one leg extended forward, other leg bent, upper body leaning back on one hand, languid and intimate, [fondo suite / boudoir]` |
-   | **Nightclub / Pin-Up** | `perched on edge of surface or bar stool, one leg up crossed, one leg dangling, hand on thigh, casual sensual, [fondo bar / soda fountain]` |
-   | **Stripper** | `perched on stage platform edge, legs open at 45°, both hands gripping edge, performance seated power, [fondo stage / pole]` |
-   | **Gym / Domestic / Bikini** | `seated, legs crossed, spine straight, hands on knee, [fondo]` *(default)* |
+   | **Corporate / HF Editorial** | `seated power pose at boardroom table or throne chair, legs sharply crossed at knee with top stiletto pointed at camera, lumbar arch maintained, one hand fanned on top knee XXXL nails visible, other hand cradling jaw with fingertip on lip, spine imperious, predatory direct gaze, [fondo sala junta / museum hall]` |
+   | **Lencería / Escort Haute** | `seated reclined fetish-model languor, one leg extended forward stiletto pointed, other leg bent at exaggerated angle, lumbar arch even while reclining, upper body leaning back on one hand with other hand sliding from collarbone down between breasts to navel, half-lidded sultry gaze, lips parted glossy, [fondo suite / boudoir]` |
+   | **Nightclub / Pin-Up** | `perched on bar stool edge with one leg up crossed top stiletto pointing at camera, other leg dangling toes pointed, hand on inner thigh with XXXL nails fanned, other hand at lip or holding cocktail, lumbar arch dramatic, head tilted predatory, [fondo bar / soda fountain]` |
+   | **Stripper** | `perched on stage platform edge legs spread 45° with both stilettos pointing at camera, both hands gripping edge behind hips lifting bust forward, exaggerated lumbar arch + chest thrust, predatory direct gaze, dollars scattered, [fondo stage / pole]` |
+   | **Gym / Domestic / Bikini** | `seated with exaggerated knee-over-knee cross top stiletto at camera, lumbar arch extreme, one hand on top knee XXXL nails fanned + finger trailing inner thigh, other hand cradling jaw or at lip, predatory gaze, [fondo]` *(default)* |
 
-4. **Side Profile:** `full body, side profile, extreme lumbar arch, chin lifted, [fondo]`
-5. **Ditzy — Close-Up Trio:** `close-up three-quarter bust shot from slightly above (30° tilt), XXXL French nails touching or resting on décolleté in sharp near foreground, deep plunging neckline and obviously augmented spherical bust filling center frame, face in upper third with "brain empty" vacant ditzy expression eyes unfocused mouth mindlessly parted glossy lips, dramatic lash extensions, cherry red hair cascading framing shot, [fondo blur], 8k editorial fashion photography` — **REGLA:** el trío face+cleavage+nails es SIEMPRE obligatorio sin excepción. Si el outfit no tiene escote profundo, las uñas van al centro del pecho tocando la tela. Nunca beauty shot solo de cara.
-6. **POV — Bimbo Selfie:** `Instagram influencer selfie pose, camera held at arm's length slightly above eye level, one hand raised toward lens with XXXL French nails in sharp near foreground, pouty glossy lips slightly parted, vacant bimbo stare directly into camera lens, face centered and dominant, deep décolleté and augmented bust visible in lower frame, cherry red hair cascading around face, half-body selfie frame, [fondo shallow blur], 8k social media fashion photography` — **DIFERENCIA VS DITZY:** POV = selfie con mano/uñas alzadas HACIA la cámara, cara dominante centrada, energía "bimbo influencer de IG" · Ditzy = primer plano 30° con nails tocando escote, cara en tercio superior · NUNCA usar "first-person POV" (genera duplicados/espejos) · ⚠️ **NEGATIVE PROMPT ADICIONAL:** `no phone, no smartphone, no device, no screen` — el "hand raised toward lens" puede hacer que el modelo coloque un teléfono en la mano
-7. **Lying Down — The Odalisque:** `full body lying on side forming a languid S-curve, one arm extended with XXXL nails on surface, legs slightly bent, stilettos pointed and visible, [fondo]`
+4. **Side Profile — Fetish Model Profile:** `full body side profile shot from low angle hip-level, exaggerated S-curve with extreme lumbar arch AND chest thrust forward simultaneously (both extremes — hip back, breast front), one leg slightly bent forward at knee with stiletto sharply pointed showing arch of foot, hand sliding down hip and thigh with XXXL nails visible, head tilted back with chin lifted, lips parted glossy, hair cascading dramatically down spine or windblown across face, neckline pulled to show collarbone, [fondo]`
 
-**Resumen visual de las 7 poses:**
+5. **Ditzy — Fetish Model 3/4 Plano Americano (REFACTOR V4):** `medium full shot framed knee-up to head (plano americano — American shot 3/4 length), professional fetish-model body posture with extreme lumbar arch and hip jutted to one side, one XXXL French manicured fingertip pressed against bottom lip parting it OR fingertip slipped between teeth, other hand sliding down ribcage to hip with nails visible, bust prominent in mid-frame, vacant ditzy bimbo expression with eyes unfocused half-lidded and mouth mindlessly parted glossy lips slightly tongue-tip visible, dramatic lash extensions, cherry red hair cascading over one shoulder framing breast, full outfit and silhouette legible in frame (not extreme close-up), shoulders dropped extending collarbone, [fondo blur], 8k editorial fetish-model photography` — **CAMBIO V4:** la Ditzy se generaba como close-up bust-shot, ahora SIEMPRE es **plano americano / 3/4 length (knee-up o mid-thigh-up)** para mostrar outfit + figura + expresión simultáneamente. NUNCA close-up extremo de cara. NUNCA beauty shot aislado.
+
+6. **POV — Fetish Model Bimbo Selfie:** `professional fetish-model selfie pose framed half-body to mid-thigh, camera held at arm's length slightly above eye level, one hand raised toward lens with XXXL French nails in sharp near foreground fingertips spread, other hand cupping own breast through garment OR sliding down sternum between cleavage with nails visible, pouty glossy lips parted with tongue-tip visible, half-lidded predatory direct gaze into camera lens, face centered and dominant in upper frame, deep décolleté and obviously augmented spherical bust prominent in lower-mid frame, exaggerated lumbar arch visible, body angled 30° to create silhouette tension, cherry red hair cascading around face windblown, [fondo shallow blur], 8k social media fashion photography` — ⚠️ **NEGATIVE PROMPT ADICIONAL:** `no phone, no smartphone, no device, no screen, no camera in hand` — el "hand raised toward lens" puede hacer que el modelo coloque un teléfono.
+
+7. **Lying Down — Fetish Model Odalisque:** `full body lying on side with exaggerated S-curve, extreme back arch with bust pushed up and forward + hip rolled back, one leg extended with stiletto pointed sharply at camera, other leg bent at knee with stiletto digging into surface, one arm under head supporting with XXXL nails fanned in hair, other hand sliding from collarbone down between breasts to navel to hip with nails trailing across body, half-lidded predatory direct gaze to camera, lips parted glossy tongue-tip visible, cherry red hair cascading dramatically across pillow/surface, [fondo]`
+
+**Resumen visual de las 7 poses (Spec V4):**
 | Pose | Ángulo | Frame | Hero element |
 |------|--------|-------|--------------|
-| Standing | frontal | full body | silhouette completa |
-| Back View | trasero | full body | espalda + tatuajes + tacones |
-| Seated | frontal | 3/4 | piernas cruzadas + tacones |
-| Side Profile | lateral | full body | arco lumbar + silueta |
-| **Ditzy** | **30° picado** | **primer plano** | **face + escote + uñas (trío)** |
-| **POV** | **selfie angle** | **medio cuerpo** | **mano+uñas alzadas + cara bimbo IG** |
-| Odalisque | lateral | full body | S-curve recostada |
+| Standing | low angle hip-level | full body | S-curve extrema + hand-thigh interaction |
+| Back View | trasero low angle | full body | booty-pop + hand-through-hair + pigeon-toe heel |
+| Seated | frontal hip-level | full body con stiletto al frente | knee-over-knee + finger-on-lip + bust forward |
+| Side Profile | lateral low angle | full body | lumbar arch + chest thrust simultáneos |
+| **Ditzy** | **frontal eye-level 3/4** | **PLANO AMERICANO (knee-up)** | **finger-on-lip + lumbar arch + outfit legible** |
+| **POV** | **selfie angle eye-level** | **half-body a mid-thigh** | **hand-to-lens + breast-cup + predatory gaze** |
+| Odalisque | lateral | full body | S-curve recostada + hand trailing body |
 
 **Los 7 prompts completos (A+B+C) deben quedar escritos en la entrada del Look en `galeria_outfits.md` antes de que se genere ninguna imagen.**
 

@@ -671,14 +671,17 @@ Este texto NO se interpreta, se copia textualmente:
 Descripción técnica, sensorial y minuciosa de las prendas y materiales (PVC, Vinyl, Lace, etc.).
 
 ### 4. Bloque C: Pose y Ambiente
-Las 7 poses reglamentarias con el fondo correspondiente:
-1.  **Standing View:** Plano general.
-2.  **Back View:** Plano posterior con giro.
-3.  **Seated View:** Plano sentado / editorial. *(variante por arquetipo — ver Engine V3.5)*
-4.  **Side Profile:** Plano perfil / silueta.
-5.  **Ditzy Expression:** **OBLIGATORIO Plano Medio.** Debe mostrar rostro con expresión vacía, manos y uñas XXXL visibles. Canon de maquillaje 100% aplicado.
-6.  **POV:** Vista subjetiva desde el espectador. **NEGATIVE PROMPT ADICIONAL:** `no phone, no smartphone, no device, no screen`.
-7.  **Odalisque:** Pose recostada lateral, cadera elevada, apoyo en codo, mirada a cámara.
+Las 7 poses reglamentarias con dirección **professional fetish model** (Spec V4 — 22/05/2026):
+
+> 🩻 **PRINCIPIO RECTOR:** Cada pose se ejecuta como **modelo fetish profesional** (no catálogo). Lumbar arch exagerado · lips parted glossy · finger/nail interaction con cuerpo · predatory o half-lidded gaze · asymmetric leg + uneven heel weight · shoulder drop · hair como prop · body twist 30°.
+
+1.  **Standing View — Fetish Model Standing:** low angle hip-level, weight on one stiletto otro pie adelantado pointed, S-curve extrema, una mano sliding down hip/thigh XXXL nails visible, otra cupping waist o pulling neckline, shoulders dropped, lips parted glossy, half-lidded predatory gaze.
+2.  **Back View — Fetish Model Back:** booty-pop exagerado (hip thrust back, ass-out), S-curve spine, una mano en hip con XXXL nails fanned, otra reaching through hair o on nape, looking over shoulder predatory, pigeon-toe heel signature.
+3.  **Seated View — Fetish Model Seated:** knee-over-knee exagerada con top stiletto al camera, lumbar arch (no leaning), bust angled forward, una mano on top knee finger trailing inner thigh, otra cradling jaw o fingertip on lip. *(variante por arquetipo — ver Engine V3.5)*
+4.  **Side Profile — Fetish Model Profile:** low angle hip-level, lumbar arch + chest thrust simultáneos (ambos extremos), pierna doblada forward stiletto pointed, mano sliding hip-thigh.
+5.  **Ditzy — PLANO AMERICANO (CAMBIO V4):** **OBLIGATORIO 3/4 length (knee-up o mid-thigh-up)** — NUNCA close-up extremo. Fetish-model posture lumbar arch + hip jutted, XXXL fingertip pressed against bottom lip o entre dientes, otra mano sliding ribcage to hip, vacant ditzy expression eyes half-lidded + mouth parted tongue-tip. **Outfit completo legible en frame.**
+6.  **POV — Fetish Model Bimbo Selfie:** half-body a mid-thigh, una mano hacia lens XXXL nails sharp foreground, otra cupping breast o sliding sternum, pouty parted lips tongue-tip, half-lidded predatory direct gaze. **NEGATIVE PROMPT ADICIONAL:** `no phone, no smartphone, no device, no screen, no camera in hand`.
+7.  **Odalisque — Fetish Model:** lying on side S-curve exagerada, back arch extreme + hip rolled back, una pierna stiletto pointed at camera otra bent stiletto digging surface, una mano XXXL nails in hair, otra sliding collarbone-to-hip across body, half-lidded predatory gaze.
 
 ### 5. Flujo de Trabajo
 > **Flujo completo en 8 fases:** `00_Ele/flujo_outfit_diario.md` — Referencia obligatoria.
