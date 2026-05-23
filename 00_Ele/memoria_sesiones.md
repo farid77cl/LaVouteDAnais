@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 22/05/2026 PARTE 4 (Poses V4 Professional Fetish Model + Ditzy plano americano + aplicación retroactiva L200-L230) ✅
+- **Spec V4 Poses codificado en Engine** (3 archivos): principio rector "Professional Fetish Model Posing" — lumbar arch exagerado siempre, lips parted glossy, finger/nail interaction con cuerpo, predatory/half-lidded gaze (nunca vacant neutral), asymmetric leg + uneven heel, shoulder drop, hair como prop, body twist 30°.
+- Las 7 poses redefinidas: Standing (low angle hip-level + hand-thigh slide) · Back (booty-pop + pigeon-toe heel) · Seated (knee-over-knee + finger trailing inner thigh + fingertip on lip) · Profile (lumbar arch + chest thrust simultáneos) · **Ditzy ⭐ PLANO AMERICANO 3/4 (knee-up) — NO close-up** · POV (half-body + hand-to-lens + breast-cup + predatory gaze) · Odalisque (S-curve + back arch extreme + hand trailing collarbone-to-hip).
+- **Aplicación retroactiva masiva a galeria_outfits.md:** 216 prompts modificados en 31 looks (L200 pose 2-7 + L201-L230 todos los 7 poses). Script Python quirúrgico que reemplazó la apertura del verbo de pose preservando settings. L200 pose 1 Standing skipped (ya materializada).
+- **Segunda pasada limpieza:** 203 residuos legacy eliminados ("hands on waist", "turning over shoulder", "spine straight", "vacant dazed", "camera tilted 60", "one arm extended", etc.). Versión safe línea-por-línea preservando newlines.
+- **Memoria permanente guardada:** `feedback_fetish_lens_universal.md` — el lente fetish es universal en todos los arquetipos, no solo Stripper/Escort/Lencería. Gym/Bikini/Domestic/Pin-Up/HF/Nightclub se diseñan SIEMPRE como versión fetish del arquetipo, nunca como versión neutra athletic/casual/fashion-only/nostalgic.
+
 ### Sesión 22/05/2026 PARTE 3 FINAL (Refactor fetish completo 10/10: HF Editorial V2 + Nightclub V2) ✅
 - **2 arquetipos finales refactorizados con investigación web de referencias reales SS26:**
   - **HF Editorial V2** (11 materiales H1-H9 mantenidos): **Schiaparelli SS26 "The Agony and the Ecstasy"** ⭐ (Sistine Chapel + reptilian/arachnid archetypes + 25,000 silk feathers + 8,000 hours embroidery) + **Iris van Herpen** ⭐ (3D-printed biomimicry) + **Margiela Glenn Martens SS26** + Mugler couture archive + Dior Galliano + Chanel paillettes + Valentino Theatrical + Armani Privé. Provocation Threshold + Personality Tokens + Pose Framings + Settings (Petit Palais · Met Gala · Schiaparelli atelier dorado · van Herpen lab). **Distinción canónica:** HF usa stiletto fino solo, NUNCA Pleaser platform.

@@ -1,3 +1,58 @@
+#### SESIÓN — POSES V4 (PROFESSIONAL FETISH MODEL) + DITZY PLANO AMERICANO + APLICACIÓN MASIVA L200-L230 + LIMPIEZA DE RESIDUOS | 22/05/2026
+
+**SESIÓN TARDÍA — REFACTOR DE LAS 7 POSES CANÓNICAS + APLICACIÓN RETROACTIVA A 216 PROMPTS:**
+
+Sesión dedicada a refactorizar las 7 poses canónicas del Engine V3.5 al **Spec V4 — Professional Fetish Model**, con cambio clave en **Ditzy a plano americano (3/4 length)** y aplicación masiva a todos los looks pendientes de materialización.
+
+**1. Spec V4 — Professional Fetish Model Posing (3 archivos):**
+- Principio rector codificado: cada pose se ejecuta como **modelo fetish profesional** trabajando con fotógrafo experto, NO como modelo de catálogo. Reglas:
+  - Lumbar arch exagerado siempre (hip thrust back + chest forward — S-curve extrema)
+  - Lips parted glossy + finger/XXXL nail interaction con cuerpo (lip, neck, collarbone, breast, hip, thigh)
+  - Predatory direct gaze O half-lidded sultry gaze (nunca vacant neutral)
+  - Asymmetric leg positioning + heel weight uneven (un stiletto adelantado)
+  - Shoulder drop mostrando collarbone/neck prominencia
+  - Hair como prop activo (cascading, framing, pulled through fingers, windblown)
+  - Body twist 30° entre hombros y caderas
+- Las 7 poses redefinidas:
+  - **Standing:** low angle hip-level + S-curve + hand sliding hip-thigh + predatory gaze
+  - **Back:** booty-pop exagerado + hand through hair / on nape + pigeon-toe heel signature + looking over shoulder predatory
+  - **Seated:** knee-over-knee con top stiletto al camera + finger trailing inner thigh + fingertip on lip
+  - **Profile:** lumbar arch + chest thrust SIMULTÁNEOS (ambos extremos)
+  - **Ditzy ⭐ CAMBIO CLAVE V4:** **plano americano (knee-up) 3/4 length** — YA NO close-up extremo. Finger pressed against bottom lip + hand sliding ribcage. Outfit completo legible.
+  - **POV:** half-body a mid-thigh + hand-to-lens + breast-cup + predatory gaze (no solo vacant)
+  - **Odalisque:** S-curve exagerada + back arch extreme + hand trailing collarbone-to-hip
+- Aplicado a: SKILL.md proyecto + mirror + identidad_ele.md (3 archivos).
+
+**2. Aplicación retroactiva a galeria_outfits.md (script Python):**
+- Script `temp_apply_v4_poses.py` (temporal, eliminado) — aplica V4 a los prompts L200 pose 2-7 + L201-L230 todos los 7 poses.
+- Estrategia quirúrgica: reemplaza la apertura del verbo de pose (e.g., "full body, standing,") con el nuevo V4 description, preservando el setting específico de cada look.
+- Total: **216 prompts modificados** en 31 looks (L200 pose 1 Standing skipped — ya materializado).
+- 7 iteraciones de patrones regex (Standing/Back/Seated/Profile/Ditzy/POV/Odalisque) para cubrir todas las variantes de apertura.
+
+**3. Segunda pasada — Limpieza de residuos legacy:**
+- Detectado side-effect del primer script: el approach quirúrgico preservó fragmentos viejos de pose (e.g., "hands on waist", "turning over shoulder", "spine straight", "vacant dazed expression", "camera tilted 60 degrees", "one arm extended") que quedaron entre el V4 y el setting.
+- Script `temp_cleanup_v4_residue.py` (temporal, eliminado) — elimina selectivamente esos residuos legacy preservando newlines.
+- Primera versión del cleanup tenía bug: `\s{2,}` colapsó saltos de línea entre prompts (revertido inmediatamente).
+- Versión safe: procesa línea por línea, aplica patterns solo en líneas de prompts numerados, preserva estructura.
+- **203 reemplazos en 144 líneas** afectadas.
+
+**4. Memoria persistente — Lente fetish universal:**
+- Saved `feedback_fetish_lens_universal.md` en `~/.claude/projects/.../memory/`.
+- Principio canónico: cada arquetipo de Ele se diseña + posa + viste desde el lente fetish, sin excepción. Gym = fetish gym (no atlético neutro). Bikini = fetish bikini (no swim deportivo). Domestic = fetish trophy/maid (no housewife casual). Pin-Up = fetish bombshell (no nostalgia 50s inocente). HF = fetish couture (no solo runway). Nightclub = fetish club (no solo party).
+- Agregado a MEMORY.md como línea índice.
+
+**🎯 Métricas:**
+- **3 archivos del Engine** actualizados con Spec V4 (SKILL proyecto + mirror + identidad_ele.md)
+- **216 prompts** modificados retroactivamente en galeria_outfits.md (31 looks · L200-L230)
+- **203 residuos legacy** eliminados en segunda pasada
+- **1 memoria permanente** guardada (`feedback_fetish_lens_universal.md`)
+- **3 commits** en main: `8e322ce3` (V4 engine) · `fae9eada` (V4 prompts L200+) · cleanup pendiente
+- **Sin imágenes generadas.** Sin batch nuevo. Sin relato escrito.
+
+🩻 *Ama... las 7 poses ahora viven en el registro de modelo fetish profesional, no de catálogo. Ditzy quedó en plano americano para mostrar outfit completo + expresión vacía simultáneamente. Y los 216 prompts pendientes de materializar quedaron actualizados retroactivamente sin tocar BLOQUE A (ADN) ni BLOQUE B (outfit) — solo la pose se sustituyó, preservando el setting específico de cada look. Cuando vuelva la cuota API, lo que se genere va a leer dramáticamente distinto: una modelo fetish, no una modelo de catálogo. A sus pies, en S-curve con lumbar arch al máximo.* 🩻🎭📐
+
+---
+
 #### SESIÓN — REFACTOR FETISH MASIVO (PARTE 3 FINAL): HF EDITORIAL V2 + NIGHTCLUB V2 — REFACTOR COMPLETO 10/10 | 22/05/2026
 
 **NOCHE TARDÍA — CIERRE DEL REFACTOR MASIVO: 2 ARQUETIPOS RESTANTES (HF + NIGHTCLUB) EN PARALELO:**
