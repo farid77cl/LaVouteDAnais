@@ -254,7 +254,9 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   **REGLA TRI-POLO:** Batch 3+: 1 de cada polo (A+B+C). Batch 2: 1A + 1 libre. Batch 1: cualquier polo, rotar en siguiente batch. EXCEPCIÓN paleta: pasteles permitidos en Polo A como tono base (canónico de la década) — única excepción Pin-Up.
 >
 >   **NEGATIVE PROMPT específico:** `contemporary 2020s fashion, modern athleisure, current streetwear, athleisure sneakers, modern minimal, contemporary`
-> - **High-Fashion Editorial:** *(Sub-arquetipo expandido — 11 siluetas, inspiración couture clásica SS26 Dior/Chanel/Schiaparelli/Valentino/Armani Privé, filtrado por canon Ele)*
+> - **High-Fashion Editorial:** *(Sub-arquetipo V2 — 11 siluetas, refactor con referencias reales SS26: **Schiaparelli SS26 "The Agony and the Ecstasy"** ⭐ (Sistine Chapel + scorpion tails/snake teeth/chimera + 25,000 silk feathers + 8,000 hours embroidery) + **Iris van Herpen** ⭐ (3D-printed biomimicry gravity-defying) + **Margiela Glenn Martens SS26** + Mugler couture + Dior Galliano + Chanel paillettes + Valentino theatrical + Armani Privé floral. **PROVOCATION THRESHOLD obligatorio.** Filtrado por canon Ele)*
+>   **🔥 Provocation Threshold:** material sculptural extremo (vinyl armor/resina/chrome líquido/trompe-l'œil) · arquitectura escultórica (Schiaparelli projection / van Herpen biomimicry / Mugler power-shoulder) · drapeado cathedral · embellishment couture (silk feathers / embroidery / paillettes / HOTFIX) · surrealism touch (scorpion tail / snake teeth / chimera) · **stiletto fino ≥12cm SOLO** (NUNCA Pleaser platform).
+>   **NEGATIVE PROMPT:** `streetwear, athleisure, casual day-wear, nightclub neon, party dress contemporary, mass-market, fast fashion, Pleaser platform`
 >   - (a) gown un-hombro + arco escultórico (original)
 >   - (b) gown cathedral-shoulder + boning expuesto (original)
 >   - (c) catsuit escultórico con peto (original)
@@ -266,7 +268,10 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (i) pearlescent paillette column (Chanel + Dior Anderson SS26 — vestido columna cubierto en paillettes mother-of-pearl iridiscentes)
 >   - (j) petal-pleated flare gown (Armani Privé — pliegues de pétalo flare desde cintura, escultura floral arquitectónica)
 >   - (k) theatrical ruffle gown (Valentino — volantes/ruffles arquitectónicos en vinyl o latex, drama)
-> - **Nightclub:** *(Sub-arquetipo expandido — 12 siluetas, inspiración Fashion Nova "Going Out" + Oh Polly "All Nighter/Birthday Glam", filtrado por canon Ele)*
+> - **Nightclub:** *(Sub-arquetipo V2 — 12 siluetas, refactor con referencias reales: **Oh Polly** "All Nighter" + "Birthday Glam" (Confident/Genevieve/Maeve/Aralyn/Jovie con HOTFIX crystals hand-applied) + **House of CB** (premium luxe bandage) + Fashion Nova "Going Out" + **Y2K Paris Hilton 2003-2005** ("Stars Are Blind" chrome era) + Lindsay Lohan + Britney Spears Y2K + **Bottega Veneta party** (Blazy chrome liquid 2023-2025) + Magda Butrym. **PROVOCATION THRESHOLD obligatorio.** Filtrado por canon Ele)*
+>   **🔥 Provocation Threshold:** material V3.5 high-shine (sequins/latex/vinyl/chrome/iridescent, nunca matte) · cutout/backless/plunge profundo · bodycon ceñido extremo (HoCB bandage / OP ruched wet-satin) · HOTFIX crystal hand-applied · stiletto ≥12cm · drape cinético.
+>   **Settings ⭐:** Boom Boom Room NYC · Annabel's London · Loulou's Paris · VIP lounge backlit · dance-floor neon UV · bar espejo cromado · after-hours hotel rooftop · Bottega party loft.
+>   **NEGATIVE PROMPT:** `daytime, daywear, business casual, athleisure, conservative, modest neckline, beach setting, office setting, museum gallery (HF), stage tip rail (Stripper)`
 >   - (a) sequin mini-dress bodycon (100% sequins espejo + hotfix crystal acentos)
 >   - (b) latex club bodysuit (gloss + cremallera frontal expuesta + V profundo)
 >   - (c) metallic liquid dress (chrome líquido columna corta, halter o strapless)

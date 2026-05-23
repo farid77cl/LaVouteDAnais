@@ -179,9 +179,18 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 
 ---
 
-### 🌃 Sub-arquetipo Nightclub (Spec V1 — 20/05/2026)
+### 🌃 Sub-arquetipo Nightclub (Spec V2 — 22/05/2026 · Refactor con referencias reales: House of CB + Oh Polly "All Nighter" + Fashion Nova "Going Out" + Y2K Paris Hilton + Bottega party)
 
 **Universo:** VIP lounge de medianoche, dance-floor con luz UV, club privado de élite, neon-room, after-hours hotel rooftop. Energía cinética, brillos hipnóticos, materiales que reflejan luz láser.
+
+**Referencias canónicas reales:**
+- **Oh Polly "All Nighter"** + "Birthday Glam" + Confident/Genevieve/Maeve/Aralyn/Jovie collections — bodycon ruched wet-satin, sparkly mini con HOTFIX crystals hand-applied, cowl-halter drape, draped off-shoulder, laser-cut metallic lace, asymmetric cut-out
+- **House of CB** — premium luxe elegance, bandage bodycon, satin corset midi, going-out signature
+- **Fashion Nova "Going Out"** — affordable bodycon dominante, sequin mini, bandage strips, backless
+- **Y2K Paris Hilton 2003-2005** — chrome metallic mini, bedazzled, "Stars Are Blind" pink era
+- **Lindsay Lohan + Britney Spears 2003-2005** — Y2K club kid evolved
+- **Bottega Veneta party** (Matthieu Blazy 2023-2025) — chrome liquid dress + clutch escultural minimal-glam
+- **Magda Butrym** — power-shoulder + cinched waist contemporary party
 
 **Diferencias clave:**
 - **vs. Stripper:** Stripper baila por dinero (jaula estructural, fringe, micro-pieces). Nightclub baila para sí misma o pareja (glam, sequins, drape).
@@ -239,11 +248,63 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 - M7 iridescent + M3 cristales (sobre-saturación visual)
 - Sequins + materiales mate (rompe coherencia de brillo)
 
+#### 🔥 PROVOCATION THRESHOLD Nightclub (NUEVA — OBLIGATORIA)
+
+> Toda silueta Nightclub DEBE cumplir al menos UNA condición:
+> - **Material V3.5 high-shine** (sequins/latex/vinyl/chrome/iridescent — NUNCA matte)
+> - **Cutout estratégico** o **backless** o **plunge neckline** profundo
+> - **Bodycon ceñido extreme** (House of CB bandage / Oh Polly ruched wet-satin)
+> - **HOTFIX crystal hand-applied** (Oh Polly Genevieve/Aralyn signature)
+> - **Heels stiletto ≥12cm** (Pleaser permitido pero NO obligatorio — distinción vs Stripper)
+> - **Drape cinético** que se mueve con láser/strobe
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+`midnight VIP energy · she-came-to-be-seen confidence · birthday-glam apex · Paris Hilton Y2K stars-are-blind · Bottega party effortless · dance-floor royalty · the strobe light worships her · she's not here to dance she's here to BE the dance-floor · Oh Polly bodycon awareness`
+
+#### 🏛️ Settings Específicos Nightclub (con props)
+
+- **Boom Boom Room NYC** Standard Hotel — gold accents + city skyline
+- **Annabel's London** Berkeley Square — opulent velvet + floral excess
+- **Loulou's Paris** Palais Royal — Hyde-Park elegance crossover
+- VIP lounge backlit con velvet ropes + bottle service
+- Dance-floor neon UV con láser direccional + smoke machine
+- Bar de espejo cromado con bottle wall iluminado
+- DJ booth blur con luces estrobo + smoke
+- Strobe room con disco ball + paneles cromados
+- After-hours hotel rooftop con city night skyline
+- Velvet rope corner con bouncer implied + paparazzi flashes
+- **Bottega party loft** minimal con escultura chrome central + bartender
+
+#### 🤸 Pose Framings Específicos Nightclub (variantes de las 7 canónicas)
+
+| # | Nightclub |
+|---|---|
+| 1. Standing | VIP entrance pose mid-strobe, hand holding cocktail glass + clutch, gaze through camera |
+| 2. Back | Walking through dance-floor crowd looking over shoulder, neon casting on back + spine arch |
+| 3. Seated | Perched en VIP velvet sofa con piernas cruzadas + champagne bottle de fondo + bartender blurred |
+| 4. Profile | At bar leaning con elbow on chrome counter, lumbar arch dramatic, light cast on profile |
+| 5. Ditzy | Compact mirror touching up lipstick en VIP bathroom con golden mirror frame |
+| 6. POV | Across-the-VIP-table POV con drink raised + bottle service |
+| 7. Odalisque | Recostada en VIP banquette velvet rojo, lights reflejados, S-curve drink in hand |
+
+> **NEGATIVE PROMPT específico Nightclub:** `daytime, daywear, business casual, athleisure, gym wear, sportswear, conservative, modest neckline, full coverage, beach setting, office setting, museum gallery (eso es HF), stage performance with tip rail (eso es Stripper)`
+
 ---
 
-### 🎨 Sub-arquetipo High-Fashion Editorial (Spec V1 — 20/05/2026)
+### 🎨 Sub-arquetipo High-Fashion Editorial (Spec V2 — 22/05/2026 · Refactor con referencias reales SS26: Schiaparelli "Agony and Ecstasy" + Iris van Herpen + Margiela Glenn Martens + Mugler couture)
 
 **Universo:** Gala de museo, red-carpet, premiere de couture, fashion week, alfombra de premios, photo-shoot editorial para revista. La Ele que llega cuando el club ya cerró y empieza el establishment del lujo. Arquitectura escultórica sobre cuerpo, drapeados cathedral, materiales que se imponen como obras de arte.
+
+**Referencias canónicas reales SS26:**
+- **Schiaparelli SS26** ⭐ — Daniel Roseberry "The Agony and the Ecstasy" (Sistine Chapel inspired). Reptilian + arachnid archetypes (scorpion tails, snake teeth, chimera silhouettes). Gravity-defying forms. 25,000 silk thread feathers · 8,000 hours embroidery. Surrealism Dalí lineage.
+- **Iris van Herpen** ⭐ — 3D-printed couture, biomimicry, gravity-defying sculptural, water-droplet/feather-anatomy structures
+- **Margiela** Glenn Martens SS26 surprise couture — deconstructed haute conceptual
+- **Mugler couture archive** — power-shoulder amazon (crossover con Corporate Power Domme)
+- **Dior Galliano archive** — New Look + bias-cut sirena
+- **Chanel SS26 (Matthieu Blazy)** — paillettes mother-of-pearl iridescent
+- **Valentino Theatrical** — ruffle architectural drama
+- **Armani Privé** — petal-pleated flare floral architecture
 
 **Diferencias clave:**
 - **vs. Nightclub:** HF = escultura estática para ser fotografiada · Nightclub = movimiento, brillo cinético para luz láser.
@@ -293,6 +354,47 @@ El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales.
 - H1 vinyl escultórico + colores neon Nightclub (lectura club, no couture)
 - H9 sculptural projections + sequins (rompe la lectura escultórica/conceptual)
 - Paillettes mother-of-pearl + HOTFIX crystals (sobre-embellishment, lectura quinceañera)
+
+#### 🔥 PROVOCATION THRESHOLD HF (NUEVA — OBLIGATORIA)
+
+> Toda silueta HF DEBE cumplir al menos UNA condición:
+> - **Material sculptural extremo** (vinyl/PVC armor rígido · resina · chrome líquido · trompe-l'œil)
+> - **Arquitectura escultórica visible** (Schiaparelli projection · van Herpen biomimicry · Mugler power-shoulder)
+> - **Drapeado cathedral** (bias-cut sirena Galliano · column floor-length)
+> - **Embellishment couture** (25k silk feathers · 8k hours embroidery · mother-of-pearl paillettes · HOTFIX crystal hand-applied)
+> - **Surrealism touch** (scorpion tail · snake teeth · chimera silhouette · skeleton dress lineage)
+> - **Heels stiletto fino ≥12cm** (NUNCA Pleaser platform — HF reserva la aguja pura)
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+`couture museum-piece presence · red-carpet apex predator · runway-only-not-for-life · Schiaparelli surrealist authority · van Herpen architectural goddess · Met Gala worthy · the dress IS the art · 8,000 hours embroidery awareness · gravity-defying poise · Dalí lineage`
+
+#### 🏛️ Settings Específicos HF (con props)
+
+- **Petit Palais Paris** atelier couture parisino con maniquíes vintage y telas colgando
+- **Met Gala red carpet** con paparazzi flashes + escalera mármol
+- Museum hall (mármol blanco, columnas, esculturas griegas + Schiaparelli-style cuadros surrealistas)
+- **Schiaparelli atelier dorado** con espejos antiguos + estatua mythological + Sistine Chapel reproduction wall
+- **Iris van Herpen lab** con 3D printers + structures biomórficas + skeleton sculptures
+- Cathedral interior con arches gothic + light shafts dramatic
+- Backstage de pasarela con racks de couture + maquilladoras + steamers
+- Theatrical stage con telón rojo Valentino + spotlight central
+- Sculpture gallery white-cube con piezas museum + obras Dalí/Magritte
+- Penthouse lounge minimalista blanco/gris con escultura central
+
+#### 🤸 Pose Framings Específicos HF (variantes de las 7 canónicas)
+
+| # | HF Editorial |
+|---|---|
+| 1. Standing | Red-carpet pose statuesque, hands at sides, gaze regal, full silhouette visible para fotógrafos |
+| 2. Back | Runway walk away from camera, looking over shoulder, cola/train arrastrando |
+| 3. Seated | Throne-style chair en gallery, legs sharply crossed, escultura behind, imperious |
+| 4. Profile | Runway walk profile mid-stride, lumbar arch dramatic, full silhouette legible |
+| 5. Ditzy | Backstage mirror touching up lipstick antes de salir a pasarela, dramatic ditzy |
+| 6. POV | Photographer POV bajo (low angle) mirando hacia arriba, dramatic empowering |
+| 7. Odalisque | Recostada en chaise gallery (Newton-style museum recline), escultura behind |
+
+> **NEGATIVE PROMPT específico HF:** `streetwear, athleisure, casual day-wear, nightclub neon, party dress contemporary, mass-market, fast fashion, Forever 21, Pleaser platform (HF no usa platform — solo stiletto fino)`
 
 ---
 
