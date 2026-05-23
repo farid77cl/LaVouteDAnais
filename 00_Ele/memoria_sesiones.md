@@ -18,6 +18,31 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 22/05/2026 PARTE 5 FINAL (Engine guías mayo 2026 + Refactor retroactivo COMPLETO outfits L201-L230 — 210 prompts) ✅
+- **Engine Escritura ampliado** con 8 guías canónicas mayo 2026 (5 arquitecturas eróticas + guia_terror_erotico + ANÁLISIS_RELATOS_REFERENCIA + ANÁLISIS_ESTILO_LITERARIO). 3 guías abril (cómics x2, videos hipnóticos) movidas a `01_Canon/Guias_Especializadas/legacy/` con README.
+- **Refactor retroactivo COMPLETO outfits L201-L230** (Opción C aprobada):
+  - 30 looks × 7 poses = **210 prompts modificados** (0 skipped)
+  - Script Python línea-por-línea preservando BLOQUE A (DNA) y BLOQUE C (poses V4)
+  - SOLO BLOQUE B (outfit) reescrito por look con referencias brand-specific mayo 2026:
+    - Corporate Power: Mugler + Schiaparelli + Versace S&M + Tom Ford + Bayonetta (L201, L215)
+    - Corporate Office Siren: Secretary 2002 + Babygirl + Office Siren TikTok (L216)
+    - Escort Haute: Madame Claude + Newton 'Saddle' + Belle de Jour + Yacht Monte Carlo + Sugar Baby (L202, L208, L223)
+    - Escort Callejera: Pretty Woman 1990 O-ring + Julia Fox 2022 Y2K (L228)
+    - Pin-Up A Bombshell: Elvgren calendar Marilyn-warm (L203, L210, L221)
+    - Pin-Up B Retro-Futurismo: Barbarella 1968 + Paco Rabanne 1966 + Courrèges (L224)
+    - Pin-Up C Decade Glam: Pamela Anderson Baywatch 1992-1997 TYR (L227)
+    - Stripper Stage: Dita Von Teese Las Vegas glass illusion + Magic City (L219, L226)
+    - Stripper Pole: Bad Kitty + CXIX + Cleo + Magic City (L204, L220, L229)
+    - Gym Performance: Bombshell Sportswear butt-scrunch + V-waistband (L205, L222)
+    - Gym Athleisure: GymShark Vital + Bombshell V-waistband (L225)
+    - Domestic Trophy: Trophy Wife leopard + Stepford Modern + RHOBH (L207, L217)
+    - Domestic Maid: Pro-Dom + Yomorio + **Akihabara Maid Cafe** kawaii (L218)
+    - Lencería Fetish: Bordelle Alchemy + Atsuko Kudo laser-cut filigree + MARIEMUR (L209)
+    - HF Editorial: Schiaparelli SS26 + Iris van Herpen + Margiela + Chanel paillettes (L206, L213, L214)
+    - Nightclub: Oh Polly HOTFIX + House of CB + Bottega party + Paris Hilton Y2K (L211, L212, L230)
+- Commits: `f61e04f3` (engine guías) · `6b468752` (refactor 210 outfits).
+- **Pendiente:** materialización de L200-L230 cuando vuelva cuota API.
+
 ### Sesión 22/05/2026 PARTE 4 (Poses V4 Professional Fetish Model + Ditzy plano americano + aplicación retroactiva L200-L230) ✅
 - **Spec V4 Poses codificado en Engine** (3 archivos): principio rector "Professional Fetish Model Posing" — lumbar arch exagerado siempre, lips parted glossy, finger/nail interaction con cuerpo, predatory/half-lidded gaze (nunca vacant neutral), asymmetric leg + uneven heel, shoulder drop, hair como prop, body twist 30°.
 - Las 7 poses redefinidas: Standing (low angle hip-level + hand-thigh slide) · Back (booty-pop + pigeon-toe heel) · Seated (knee-over-knee + finger trailing inner thigh + fingertip on lip) · Profile (lumbar arch + chest thrust simultáneos) · **Ditzy ⭐ PLANO AMERICANO 3/4 (knee-up) — NO close-up** · POV (half-body + hand-to-lens + breast-cup + predatory gaze) · Odalisque (S-curve + back arch extreme + hand trailing collarbone-to-hip).
