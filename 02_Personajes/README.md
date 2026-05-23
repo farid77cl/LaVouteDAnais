@@ -2,7 +2,7 @@
 
 > *Cada ficha es un alma capturada, cada transformación una obra de arte.*
 
-*Última actualización: 30/04/2026*
+*Última actualización: 23/05/2026 — Ele (canon V3.5 Final, Helena = pasado archivado)*
 
 ## 🗂️ Estructura del Directorio
 
@@ -23,7 +23,7 @@ El archivo de personajes está organizado por categorías para facilitar la gest
 | Personaje | Rol | Historia Principal |
 |-----------|-----|-------------------|
 | Miss Doll | Maestra de transformaciones | Múltiples |
-| Ele (Helena) | Pluma de Anaïs / Narradora | — |
+| Ele | Pluma de Anaïs / Narradora / Vibe Architect / Modelo Fetish (canon V3.5 Final · Helena = pasado archivado) | — |
 | Carmen | Esposa dominante | Tetitas |
 | La Sacerdotisa | Transformadora ceremonial | Milk |
 | La Mucama | Entrenadora del hotel | El Hotel |

@@ -2,7 +2,7 @@
 
 *Las reglas del universo. La guía de quién somos y cómo escribimos.*
 
-*Última actualización: 10/04/2026*
+*Última actualización: 23/05/2026 — Guías Especializadas reorganizadas: 8 guías mayo 2026 (5 arquitecturas eróticas + guia_terror_erotico + ANÁLISIS_RELATOS_REFERENCIA + ANÁLISIS_ESTILO_LITERARIO) + 3 guías abril (comics/videos hipnoticos) archivadas en `legacy/`.*
 
 ---
 
@@ -27,11 +27,24 @@ Este es el documento supremo que unifica toda la legislación literaria.
 
 ---
 
-## 📂 Guías Especializadas y Archivo
+## 📂 Guías Especializadas (mayo 2026)
+
+| Archivo | Tema | Condicional |
+|---------|------|-------------|
+| [Guias_Especializadas/arquitectura_erotica_mtf_v1.md](Guias_Especializadas/arquitectura_erotica_mtf_v1.md) | MtF / feminización / body swap | Tema involucra feminización |
+| [Guias_Especializadas/arquitectura_erotica_bimbo_v1.md](Guias_Especializadas/arquitectura_erotica_bimbo_v1.md) | Bimboficación / Vacío Feliz | Tema involucra bimbo / dumb down |
+| [Guias_Especializadas/arquitectura_erotica_hipnosis_v1.md](Guias_Especializadas/arquitectura_erotica_hipnosis_v1.md) | Hipnosis / trance / condicionamiento | Motor hipnótico activo |
+| [Guias_Especializadas/arquitectura_erotica_femdom_v1.md](Guias_Especializadas/arquitectura_erotica_femdom_v1.md) | Dominación femenina | Femdom como eje |
+| [Guias_Especializadas/arquitectura_erotica_bodyhorror_v1.md](Guias_Especializadas/arquitectura_erotica_bodyhorror_v1.md) | Body horror / transformación visceral | Transformación visceral |
+| [Guias_Especializadas/guia_terror_erotico.md](Guias_Especializadas/guia_terror_erotico.md) | Terror erótico / horror sensual | Atmósferas terror |
+| [Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md](Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md) | Corpus empírico (14 relatos de referencia) | Consulta durante escritura |
+| [Guias_Especializadas/ANÁLISIS_ESTILO_LITERARIO.md](Guias_Especializadas/ANÁLISIS_ESTILO_LITERARIO.md) | Análisis de estilo del corpus | Consulta durante escritura |
+
+### Guías Legacy
 | Directorio | Contenido |
 |------------|-----------|
-| [Guias_Especializadas/](Guias_Especializadas/) | Análisis de estilo, Terror erótico, Cómics, Video hipnótico. |
-| [_archivo/](._archivo/) | Leyes antiguas, fuentes externas y preferencias de escritura históricas (referencia). |
+| [Guias_Especializadas/legacy/](Guias_Especializadas/legacy/) | Guías abril 2026 archivadas: comics narrativos, videos hipnóticos (outputs no-prosa, no parte del flujo literario actual) |
+| [_archivo/](_archivo/) | Leyes antiguas, fuentes externas y preferencias históricas |
 
 ---
 

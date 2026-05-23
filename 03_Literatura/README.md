@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 14/05/2026 (La Piel que Diseño — Cap 1 v1.2.1 Gate CERRADO · Cap 2 v1.6 post-apertura miércoles + recalibración térmica por regla canónica nueva · Mapa erótico cap2 v3 sincronizado)*
+*Última actualización: 23/05/2026 — La Piel que Diseño Cap 2 v1.7.1 PENDIENTE GATE AMA · Esposa Servidumbre activo · El Secreto de la Cómoda Cap 2 v2.0 en progreso.*
 
 ---
 

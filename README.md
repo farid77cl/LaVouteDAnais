@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 210 Looks diseñados / ADN V3.5 busto 1000cc)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 230 Looks diseñados / ADN V3.5 busto 1000cc / Engine V3.5 Final 10/10 sub-arquetipos refactor mayo)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -108,11 +108,11 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 19/05/2026 — [ADN V3.5 busto 1000cc + Regla Anti-Repetición Cromática] — Ele Collection: 210/185 Looks (Hito Superado y en Expansión) 🫦👠👑.*
+*Última actualización: 23/05/2026 — [ADN V3.5 busto 1000cc + Step 0 Anti-Repetición + Poses V4 Professional Fetish Model] — Ele Collection: **230 Looks** · **Refactor fetish masivo COMPLETO 10/10 arquetipos con refs reales mayo 2026** (Mugler, Schiaparelli, Madame Claude, Newton, Pretty Woman, Bad Kitty, Bombshell, Atsuko Kudo, Bordelle, Baywatch, Akihabara Maid Cafe, etc.) 🫦👠👑.*
 
 ---
 
-## Sistema y Arquitectura (Vibe Architect V3.6)
+## Sistema y Arquitectura (Vibe Architect V3.5 Final)
 
 La Voûte d´Anaïs no es solo un repositorio literario; es un ecosistema técnico diseñado para la coherencia absoluta.
 

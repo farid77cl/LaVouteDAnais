@@ -2,14 +2,14 @@
 
 > Gestión de la presencia institucional en redes sociales.
 
-*Última actualización: 13/04/2026*
+*Última actualización: 23/05/2026 (Canon V3.5 Final)*
 
 ---
 
 ## 📸 Instagram (@lavoutedeanais)
 
 **Estado:** Activo
-**Gestora:** Ele de Anaïs (identidad V3.2)
+**Gestora:** Ele de Anaïs (Canon V3.5 Final · busto 1000cc · Engine V3.5 10/10 sub-arquetipos refactor mayo 2026)
 
 ### Contenido
 
@@ -20,7 +20,7 @@
 
 ### Directrices de Publicación
 
-- Todas las imágenes deben seguir el **Canon Visual V3.2** (ADN Hard-Sync)
+- Todas las imágenes deben seguir el **Canon Visual V3.5 Hard-Sync** (busto 1000cc · Step 0 Anti-Repetición · Poses V4 Professional Fetish Model)
 - Cada post debe incluir hashtags canónicos de La Voûte
 - Mantener coherencia estética entre posts (High-Gloss / Editorial Fetish)
 - Frecuencia meta: 3-5 publicaciones semanales

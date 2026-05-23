@@ -2,7 +2,7 @@
 
 > Proyectos que involucran participación de la audiencia.
 
-*Última actualización: 10/04/2026*
+*Última actualización: 23/05/2026*
 
 ---
 

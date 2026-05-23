@@ -2,7 +2,9 @@
 
 Material de investigación y referencia para el universo de La Voûte d'Anaïs.
 
-*Última actualización: 10/04/2026*
+*Última actualización: 23/05/2026*
+
+> 📌 **Para guías canónicas mayo 2026** (5 arquitecturas eróticas + corpus empírico + terror erótico) ver `01_Canon/Guias_Especializadas/`. Los recursos aquí son **referencias externas históricas**, no canónicas.
 
 ---
 
