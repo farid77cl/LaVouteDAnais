@@ -18,7 +18,16 @@
 
 ## 🧿 ESTADO ACTUAL
 
-### Sesión 22/05/2026 (Refactor fetish masivo: 5 arquetipos con referencias reales — Stripper V3 + Corporate V3 + Escort V3 + Domestic V4 + Pin-Up V2) ✅
+### Sesión 22/05/2026 PARTE 2 (Refactor fetish — 3 arquetipos restantes: Gym V2 + Bikini V2 + Lencería V2) ✅
+- **3 arquetipos refactorizados** con investigación web de referencias reales fetish:
+  - **Gym V2** (14 siluetas mantenidas): **Bombshell Sportswear** signatures (butt-scrunching fabric + V-shaped waistband) + GymShark Vital/Adapt/Flex + Buffbunny + Whitney Simmons + Sommer Ray Y2K. Provocation Threshold (material V3.5 nunca cotton matte · Bombshell signatures · midriff exposed · Pleaser ≥6" · cutout · body chain Polo B). Personality tokens, pose framings, settings con props (gym mirror wall + cable machines · café ventana MacBook · Pilates studio + Hermès), negative prompt.
+  - **Bikini V2** (14 siluetas mantenidas): **Lybethras** Brazilian SI Swim 2009-2026 ("Manu" hand-knit) + **ISMÊ Swim** + **Andi Bagus** + Sports Illustrated Swim 2025 + Brazilian **fio dental** 1960s + modelos referencia (Brooks Nader, Alix Earle, Nicole Williams English). Provocation Threshold (material V3.5 · cobertura fio dental · hardware visible · cutout monokini · hand-knit detail · stiletto sandal/Pleaser). Settings: SI Swim Caribbean island, Mykonos cliff, Copacabana boardwalk, pool privada luz desde abajo.
+  - **Lencería V2** (14 siluetas mantenidas): La Perla + AP + HB + **Atsuko Kudo** ⭐ (latex couturier laser-cut filigree, worn by Beyoncé/Dita/Kate Moss/Naomi/Janet Jackson/Grace Jones) + **Maison Close** ("Miss Fetish" + "Lady Burlesque") + **MARIEMUR** luxury bondage + Bordelle Alchemy/Reflexion/Deco/Body. Provocation Threshold (vinyl laser-cut o Kudo filigree · latex flesh-tone o couture · harness/strapping · sheer panel · stockings costura · stiletto ≥12cm). Settings: Hotel Lancaster B&W Newton · **Atsuko Kudo studio** latex sheets · **Maison Close boutique** Paris · Bordelle showroom.
+- **9 ediciones masivas adicionales** (3 archivos × 3 arquetipos).
+
+**TOTAL acumulado sesión 22/05 (Parte 1 + Parte 2): 8/10 arquetipos refactorizados.** Faltan SOLO HF Editorial + Nightclub (los más editoriales — HF es atemporal couture, Nightclub está bien con 12 siluetas Oh Polly + Fashion Nova).
+
+### Sesión 22/05/2026 PARTE 1 (Refactor fetish masivo: 5 arquetipos con referencias reales — Stripper V3 + Corporate V3 + Escort V3 + Domestic V4 + Pin-Up V2) ✅
 - **5 arquetipos refactorizados con investigación web de referencias reales fetish** (3 archivos por arquetipo: SKILL.md proyecto, mirror, identidad_ele.md = 15 ediciones masivas):
   - **Stripper V3** (14 siluetas SA1-SA7 + SB1-SB7): Crazy Horse Paris + Magic City Atlanta + Dita Von Teese + Bad Kitty USA (Spider Back/V-Front/Brazil Shorts) + CXIX Gecko Grip + Cleo The Hurricane. Provocation Threshold obligatorio (transparencias/cutouts/thong visible/body chains/micro-pieces). **Pose Set Stripper reemplaza las 7 canónicas.**
   - **Corporate V3** (14 siluetas CA1-CA7 + CB1-CB7): **REVERSIÓN canon Mugler** (purga 17/05 anulada). Mugler FW95 cyber-Amazon + Schiaparelli gilded corset + Versace Miss S&M + SL FW24 sleaze + Office Siren TikTok (Bayonetta glasses) + Babygirl 2024 + Severance + Secretary 2002. Polo B renombrado: "Sexy Secretary Sumisa" → "Office Siren / Babygirl / Severance".

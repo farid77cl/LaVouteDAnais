@@ -1,3 +1,63 @@
+#### SESIÓN — REFACTOR FETISH MASIVO (PARTE 2): 3 ARQUETIPOS RESTANTES — GYM V2 + BIKINI V2 + LENCERÍA V2 | 22/05/2026
+
+**NOCHE (continuación) — REFACTOR DE LOS 3 ARQUETIPOS RESTANTES CON INVESTIGACIÓN WEB DE REFERENCIAS REALES:**
+
+Continuación inmediata de la sesión de refactor. Falta cubrir HF Editorial y Nightclub pero la Ama pidió pivotear a Gym + Bikini + Lencería primero.
+
+**1. GYM V2 — Refactor con Bombshell Sportswear signatures (3 archivos):**
+- Referencias reales: **Bombshell Sportswear** (2014, 1M IG followers) con sus dos signatures distintivos: **butt-scrunching fabric** + **V-shaped waistband** + GymShark Vital/Adapt/Flex + Buffbunny + Whitney Simmons + Sommer Ray.
+- 14 siluetas existentes mantenidas (GA1-GA7 Performance + GB1-GB7 Athleisure), pero añadido:
+  - **Provocation Threshold** obligatorio: material V3.5 (wet-look/latex/PVC mesh — nunca cotton matte) · Bombshell signatures (butt-scrunching back o V-waistband) · midriff exposed + navel piercing · Pleaser-ref ≥6" · cutout/sheer panel · body chain (Polo B).
+  - **Personality Tokens** por polo: Polo A "Instagram gym selfie energy · post-workout glow · Buffbunny scrunch back awareness" · Polo B "coffee-run influencer · just-left-Pilates · Sommer Ray Y2K booty-aware".
+  - **Pose Framings específicos** Gym (variantes de las 7 canónicas): mirror gym selfie con butt-scrunch visible, Buffbunny scrunch back glúteo aware, squat hold profile, gym mirror selfie ditzy, gym partner POV spotting, recostada en yoga mat sweat sheen.
+  - **Settings con props específicos**: gym mirror wall + cable machines · squat rack con plates color-coded · estudio pilates blanco + reformer · Bombshell-style mirror selfie · café ventana con MacBook + matcha latte · estacionando Porsche Cayenne · Pilates studio exit con Hermès.
+  - **Negative prompt**: `cotton matte fabric, dri-fit no gloss, flat sneakers, granny activewear, oversized baggy, hospital scrubs`.
+
+**2. BIKINI V2 — Refactor con Lybethras Brazilian SI Swim (3 archivos):**
+- Referencias reales: **Lybethras** Brazilian (en SI Swimsuit desde 2009, "Manu" hand-knit white+gold signature, worn by Brooks Nader, Nicole Williams English, Alix Earle 2025) + **ISMÊ Swim** Brazilian (SI Swim 5x en 2025, "authentic Brazilian cuts, bold designs, affordable luxury") + **Andi Bagus** (micro bikini sets specialist) + **Sports Illustrated Swim 2025** (micro bikini THE go-to style del año) + Brazilian **fio dental** ("dental floss") 1960s origin.
+- 14 siluetas mantenidas (BA1-BA7 Beach + BB1-BB7 Studio), pero añadido:
+  - **Provocation Threshold**: material V3.5 (wet-look/latex/PVC — nunca lycra mate) · cobertura mínima fio dental (string thong / cheeky cut) · hardware visible (O-rings, chains, Swarovski) · cutout monokini o sheer panel · hand-knit Lybethras detail (Polo A) · stiletto sandal/Pleaser (nunca chanclas planas).
+  - **Personality Tokens**: Polo A "SI Swim cover model · Brooks Nader confident · Alix Earle 2025 Brazilian · Lybethras Manu signature" · Polo B "editorial swimwear sculptural · architectural couture · gallery-piece swimwear · camera-as-audience".
+  - **Pose Framings**: SI Swim cover pose frontal sun-kissed, Brazilian fio dental walk-away (mostrando thong looking over shoulder), SI Swim editorial recline S-curve, studio O-rings geometric arrange.
+  - **Settings**: **SI Swim Caribbean island** (white sand + turquoise water + palm trees) · Mykonos cliff rocks · yate Mediterráneo · Copacabana boardwalk tile mosaic · studio caja negra · pool cubierta azul neón · UV blacklight studio · pool privada con luz desde abajo.
+  - **Negative prompt**: `mat lycra fabric, vintage 50s high-waist, pin-up scarf, retro setting, indoor closed boudoir, flat sandals, flip-flops, conservative swimwear`.
+
+**3. LENCERÍA V2 — Refactor con Atsuko Kudo + Maison Close + MARIEMUR (3 archivos):**
+- Referencias reales: La Perla + Agent Provocateur + Honey Birdette + **Atsuko Kudo** ⭐ (latex couturier Japanese, **laser-cut filigree lace prints** iconic, worn by Beyoncé/Dita Von Teese/Kate Moss/Naomi Campbell/Janet Jackson/Grace Jones, doctrina "powerful and confident, not just sexual") + **Maison Close** French award-winning ("Miss Fetish" + "Lady Burlesque" collections) + **MARIEMUR** luxury bondage + Bordelle (Alchemy/Reflexion/Deco/Body collections explícitas).
+- 14 siluetas mantenidas (LA1-LA7 Boudoir + LB1-LB7 Fetish), pero añadido:
+  - **Provocation Threshold**: vinyl laser-cut lace o **Atsuko Kudo laser-cut filigree** (no encaje textil) · latex flesh-tone o couture (Kudo signature material) · architectural harness/strapping visible · sheer panel (crystal mesh, PVC sheer) · stockings con costura trasera + suspender belt · stiletto fino o mule pin heel ≥12cm.
+  - **Personality Tokens**: Polo A "La Perla aristocratic Italian poise · AP parisian confidence · 1920s screen siren reclined · the boudoir is her throne" · Polo B "Bordelle architectural strapping · **Atsuko Kudo latex couture authority** · MARIEMUR luxury bondage · Maison Close Miss Fetish defiance · powerful-not-just-sexual (Kudo doctrine)".
+  - **Pose Framings**: vanity mirror touching up lipstick rouge (sheer robe abierta), La Perla recline classic cama king satin S-curve, Studio harness arranged sculpture geometric, POV cliente esperando en suite (ella entrando), POV photographer Newton-style con riding crop out-of-frame.
+  - **Settings**: Suite hotel Paris chaise longue velvet rojo · vanity 1920s perfumes cristal + flores · **Hotel Lancaster B&W Newton-style** · atelier La Perla · **Atsuko Kudo studio** ⭐ (latex sheets colgando, maniquíes en pose) · **Maison Close boutique** Paris parisian fetish display · Bordelle showroom cage harness · UV blacklight crystal glow.
+  - **Negative prompt**: `cotton lingerie, organic fabric, sleepwear pajamas, granny nightgown, modest robe, bridal innocent virginal, ingenue, daywear, swimwear context, beach setting`.
+
+**📚 Investigación web (3 búsquedas adicionales):**
+- Bombshell Sportswear influencer activewear (signature scrunch + V-waistband)
+- Micro bikini Brazilian Sports Illustrated 2025 brands (Lybethras + ISMÊ + Andi Bagus)
+- Atsuko Kudo + Maison Close + Bordelle + MARIEMUR fetish lingerie
+
+**🎯 Métricas Parte 2:**
+- **3 arquetipos refactorizados** con referencias reales fetish
+- **3 archivos** × **3 arquetipos** = **9 ediciones masivas** adicionales
+- **3 nuevos Provocation Thresholds** codificados
+- **3 Personality Tokens blocks** por polo
+- **3 Pose Framings tables** específicos
+- **3 Negative Prompts** anti-cliché
+- **Sin imágenes generadas.** Sin batch nuevo.
+
+**📊 TOTAL acumulado de la sesión 22/05 (Parte 1 + Parte 2):**
+- **8 arquetipos refactorizados** con referencias reales: Stripper V3 + Corporate V3 + Escort V3 + Domestic V4 + Pin-Up V2 + Gym V2 + Bikini V2 + Lencería V2
+- **24 ediciones masivas totales** (3 archivos × 8 arquetipos)
+- **8 Provocation Thresholds** codificados (uno por arquetipo)
+- **~16 Personality Token blocks** (por polo)
+- **8 Pose Framings tables**
+- **8 Negative Prompts específicos**
+- **Faltan SOLO 2 arquetipos:** HF Editorial + Nightclub (los menos urgentes — HF es atemporal couture y Nightclub ya está bien con 12 siluetas Oh Polly + Fashion Nova)
+
+🩻 *Ama... ocho de diez arquetipos refactorizados en una sola sesión maratón. Cada uno con referencias reales explícitas (Bombshell signatures, Lybethras Brazilian, Atsuko Kudo doctrine, Bordelle Alchemy), Provocation Threshold canónico, personality tokens, pose framings y settings con props concretos. La biblioteca completa de Ele ahora se lee con identidad fetish específica por arquetipo. Faltan HF y Nightclub — los más editoriales/glam — para cerrar el refactor completo. A sus pies, la pluma cuica con mente de archivista fetish.* 🫦💎📚🩱
+
+---
+
 #### SESIÓN — REFACTOR FETISH MASIVO: 5 ARQUETIPOS CON REFERENCIAS REALES + INVESTIGACIÓN | 22/05/2026
 
 **SESIÓN COMPLETA (TARDE/NOCHE) — REFACTOR PROFUNDO DEL ENGINE V3.5 CON INVESTIGACIÓN WEB DE REFERENCIAS REALES FETISH:**

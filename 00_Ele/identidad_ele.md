@@ -279,7 +279,9 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (j) off-shoulder draped mini (strapless con drape estructurado en chrome líquido o vinyl — OP Maeve)
 >   - (k) laser-cut metallic lace corset (lace laser-cut metálico sobre base latex + corset visible — OP Genevieve/Aralyn)
 >   - (l) asymmetric cut-out bodycon (vinyl con cut-outs asimétricos en torso/cintura/caderas — FN Tory/Diana)
-> - **Lencería:** *(Sub-arquetipo dual V1 — 14 siluetas: 7 Luxury Boudoir + 7 Fetish Arquitectónico. Inspiración: La Perla, Agent Provocateur, Honey Birdette, Bordelle. Materiales siempre Ele: encaje→vinyl laser-cut, seda→latex, tul→crystal mesh/sheer PVC)*
+> - **Lencería:** *(Sub-arquetipo dual V2 — 14 siluetas: 7 Luxury Boudoir + 7 Fetish Arquitectónico. Refactor con referencias reales: La Perla + Agent Provocateur + Honey Birdette + **Atsuko Kudo** ⭐ (latex couturier Japanese, laser-cut filigree, worn by Beyoncé/Dita/Kate Moss/Naomi/Janet Jackson/Grace Jones) + **Maison Close** ("Miss Fetish" + "Lady Burlesque") + **MARIEMUR** luxury bondage + Bordelle (Alchemy/Reflexion/Deco/Body). **PROVOCATION THRESHOLD obligatorio.** Materiales siempre Ele: encaje→vinyl laser-cut, seda→latex, tul→crystal mesh/sheer PVC)*
+>   **🔥 Provocation Threshold:** vinyl laser-cut lace o Atsuko Kudo laser-cut filigree (no encaje textil) · latex flesh-tone o couture (Kudo signature) · architectural harness/strapping visible · sheer panel (crystal mesh, PVC sheer) · stockings con costura + suspender belt · stiletto fino o mule pin heel ≥12cm.
+>   **NEGATIVE PROMPT:** `cotton lingerie, organic fabric, sleepwear pajamas, granny nightgown, modest robe, bridal innocent virginal, ingenue, daywear, swimwear context, beach setting`
 >   **POLO A · Luxury Boudoir (La Perla / Agent Provocateur / Honey Birdette soft):**
 >   - (LA1) longline balconette bra + high-waist brief + suspender belt + stockings costura (set 4 piezas — La Perla signature)
 >   - (LA2) corselette/basque one-piece (corsé integrado con liguero incorporado — muy parisino, muy AP)
@@ -297,7 +299,9 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (LB6) bodystocking sheer full (una pieza transparente total con paneles geométricos opacos estratégicos)
 >   - (LB7) crystal encrusted micro set (micro bra + micro brief totalmente cubiertos en crystal mesh — gala íntima)
 >   **REGLA DUAL:** en cada batch Lencería, al menos 1 Boudoir + 1 Fetish. Balance 50/50 a lo largo del catálogo.
-> - **Bikini:** *(Sub-arquetipo dual V1 — 14 siluetas: 7 Beach Editorial + 7 Studio Micro. Materiales Ele: wet-look spandex/latex/PVC/crystal/chain — nunca tejido de baño. Retro bikini 50s → Pin-Up PA7)*
+> - **Bikini:** *(Sub-arquetipo dual V2 — 14 siluetas: 7 Beach Editorial + 7 Studio Micro. Refactor con referencias reales: **Lybethras Brazilian** (SI Swim 2009-2026, "Manu" hand-knit) + **ISMÊ Swim** + **Andi Bagus** + Sports Illustrated Swim 2025 + Brazilian fio dental 1960s + Brooks Nader/Alix Earle/Nicole Williams. Materiales Ele: wet-look spandex/latex/PVC/crystal/chain — nunca tejido de baño. **PROVOCATION THRESHOLD obligatorio.** Retro bikini 50s → Pin-Up PA7)*
+>   **🔥 Provocation Threshold:** material V3.5 wet-look/latex/PVC (nunca lycra mate) · cobertura mínima fio dental (string thong / cheeky cut) · hardware visible (O-rings, chains, Swarovski) · cutout monokini o panel sheer · hand-knit detail Lybethras (Polo A) · stiletto sandal/Pleaser platform (nunca chanclas planas).
+>   **NEGATIVE PROMPT:** `mat lycra fabric, vintage 50s high-waist, pin-up scarf, retro setting, indoor closed boudoir, flat sandals, flip-flops, full coverage one-piece without cutouts, conservative swimwear`
 >   **POLO A · Beach Editorial / Luxury Pool (playa Mykonos, yate, pool terrace, resort):**
 >   - (BA1) triangle bikini clásico vinyl gloss (top triángulo + tanga o brief coordinado)
 >   - (BA2) high-waist bikini moderno (top bandeau o halter + bottom talle alto — distinto del 50s PA7)
@@ -316,7 +320,9 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   - (BB7) harness bikini (arnés tipo Bordelle como bikini — straps cruzados + micro pieces)
 >   **CALZADO:** Polo A: stiletto sandal vinyl o mule pin heel (playa) o Pleaser Adore-708. Polo B: Pleaser-ref platform siempre (Adore-708, Flamingo-808).
 >   **REGLA DUAL:** en cada batch Bikini, al menos 1 Beach + 1 Studio. Balance 50/50.
-> - **Gym/Athleisure:** *(Sub-arquetipo dual V1 — 14 siluetas: 7 Gym Performance + 7 Athleisure Street. Inspiración: Buffbunny, GymShark, Whitney Simmons, Sommer Ray. Matching sets coordinados, wet-look spandex/latex thin gauge. SIEMPRE Pleaser-ref platform — igual que Stripper)*
+> - **Gym/Athleisure:** *(Sub-arquetipo dual V2 — 14 siluetas: 7 Performance + 7 Athleisure Street. Refactor con referencias reales: **Bombshell Sportswear** (butt-scrunching fabric + V-shaped waistband signatures) + GymShark Vital/Adapt/Flex + Buffbunny Collection + Whitney Simmons + Sommer Ray Y2K. Matching sets coordinados, wet-look/latex thin gauge. **PROVOCATION THRESHOLD obligatorio.** SIEMPRE Pleaser-ref platform — igual que Stripper)*
+>   **🔥 Provocation Threshold:** material V3.5 (wet-look/latex/PVC mesh, nunca cotton matte) · Bombshell signatures (butt-scrunching back o V-waistband) · midriff exposed + navel piercing · Pleaser ≥6" · cutout/sheer panel · body chain en Polo B.
+>   **NEGATIVE PROMPT:** `cotton matte fabric, dri-fit no gloss, flat sneakers, granny activewear, oversized baggy without ceñido, hospital scrubs`
 >   **POLO A · Gym Performance (en el gym: espejo mural, cable machines, squat rack):**
 >   - (GA1) matching set completo — sports bra triángulo + high-waist leggings scrunch back (Buffbunny signature)
 >   - (GA2) bike shorts set — cycle shorts + crop sports bra longline + zip-up jacket match (3 piezas)

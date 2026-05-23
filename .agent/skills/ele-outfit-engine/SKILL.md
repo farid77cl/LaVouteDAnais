@@ -1049,9 +1049,18 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 
 ---
 
-### 🩱 Sub-arquetipo Lencería (Spec V1 — 21/05/2026 · Dual, La Perla + Bordelle spectrum)
+### 🩱 Sub-arquetipo Lencería (Spec V2 — 22/05/2026 · Refactor con referencias reales: La Perla + Agent Provocateur + Honey Birdette + **Atsuko Kudo** ⭐ + Maison Close + MARIEMUR + Bordelle Alchemy)
 
-**Universo:** Ele en intimidad pura — desde ropa interior aristocrática (La Perla, Agent Provocateur, Honey Birdette soft) hasta arquitectura fetish extrema (Bordelle, HB dark, harness couture). El look transmite sensualidad sin necesitar desnudez total. Materiales siempre Ele — nunca tela natural.
+**Universo:** Ele en intimidad pura — desde ropa interior aristocrática (La Perla, Agent Provocateur, Honey Birdette soft) hasta arquitectura fetish extrema (Bordelle, Atsuko Kudo, Maison Close fetish). El look transmite sensualidad sin necesitar desnudez total. Materiales siempre Ele — nunca tela natural.
+
+**Referencias canónicas reales:**
+- **La Perla** — set 4 piezas aristocrático Italian, balconette + brief + suspender + stockings costura
+- **Agent Provocateur** — corselette/basque parisino, signature liguero incorporado
+- **Honey Birdette** — Whisper/Noir/Crystal ranges, babydoll + boudoir robe
+- **Atsuko Kudo** ⭐ — latex couturier Japanese, **laser-cut filigree lace prints** iconic, worn by Beyoncé/Dita Von Teese/Kate Moss/Naomi Campbell/Janet Jackson/Grace Jones. "Powerful and confident, not just sexual."
+- **Maison Close** — French award-winning, **"Miss Fetish"** + **"Lady Burlesque"** collections, "naughty/fetish/erotic-led"
+- **MARIEMUR** — luxury bondage lingerie
+- **Bordelle** — Alchemy/Reflexion/Deco/Body collections, architectural harness signature
 
 **Regla de traducción de materiales:**
 
@@ -1128,11 +1137,71 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 
 **Regla Dual:** En cada batch Lencería, **al menos 1 Boudoir + 1 Fetish**. Balance 50/50 a lo largo del catálogo.
 
+#### 🔥 PROVOCATION THRESHOLD Lencería (NUEVA — OBLIGATORIA)
+
+> Toda silueta Lencería DEBE cumplir al menos UNA condición:
+> - **Vinyl laser-cut lace** o **Atsuko Kudo laser-cut filigree** (no encaje textil)
+> - **Latex flesh-tone o couture** (Atsuko Kudo signature material)
+> - **Architectural harness/strapping visible** (Bordelle, MARIEMUR)
+> - **Sheer panel** (crystal mesh, PVC sheer) en zonas estratégicas
+> - **Stockings con costura trasera visible** + suspender belt
+> - **Heels stiletto fino o mule pin heel** ≥12cm — NUNCA pantufla, sandalia plana
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+**Polo A · Luxury Boudoir:**
+`La Perla aristocratic Italian poise · Agent Provocateur parisian confidence · Honey Birdette boudoir refinement · soft intimacy luxurious · 1920s screen siren reclined · the boudoir is her throne · pearl-soft seduction`
+
+**Polo B · Fetish Arquitectónico:**
+`Bordelle architectural strapping discipline · Atsuko Kudo latex couture authority · MARIEMUR luxury bondage poise · Maison Close Miss Fetish defiance · cage geometry deliberate · powerful-not-just-sexual (Kudo doctrine) · the harness IS the prenda`
+
+#### 🏛️ Settings Específicos Lencería (con props)
+
+**Polo A · Boudoir:**
+- Suite hotel lujo Paris con chaise longue velvet rojo
+- Vanity 1920s con espejos triple + perfumes cristal + flores frescas
+- Cama king sábanas satin con dossel
+- Ventana luz suave natural con cortinas voile + plantas
+- Boudoir-room 60s couture (Belle de Jour reference)
+- Hotel Lancaster habitación B&W Newton-style
+- Atelier La Perla con maniquíes y vintage hangers
+
+**Polo B · Fetish Arquitectónico:**
+- Cubo negro fotográfico con spotlight direccional
+- **Atsuko Kudo studio** ⭐ — atelier latex con maniquíes en pose, latex sheets colgando
+- Espacio arquitectónico minimalista con escultura central
+- Espejo suelo-techo studio con iluminación rebote
+- Iluminación lateral dura B&W noir Helmut Newton
+- **Maison Close boutique** Paris parisian fetish display
+- Bordelle showroom con cage harness en maniquí
+- Fondo abstracto neón UV blacklight (crystal glow)
+
+#### 🤸 Pose Framings Específicos Lencería (variantes de las 7 canónicas)
+
+| # | Polo A · Boudoir | Polo B · Fetish |
+|---|---|---|
+| 1. Standing | Frontal apoyada en vanity, mano en cadera, mirada al espejo refinada | Frontal con harness/cage visible, posture sculptural, gaze direct |
+| 2. Back | Espalda al espejo de vanity, looking over shoulder coquette, hair caída | Back arch dramático mostrando harness back-piece, perfecta línea spine |
+| 3. Seated | En chaise longue piernas cruzadas, copa champagne, refined | Sentada en cubo neón, piernas geométricas, harness visible from all angles |
+| 4. Profile | Sentada en silla vanity poniéndose stockings, lumbar arch, profile dramatic | Profile arquitectónico contra fondo color, side cut harness visible |
+| 5. Ditzy | Vanity mirror touching up lipstick rouge, sheer robe abierta, ditzy refined | Studio mirror selfie con harness, glossy lip + chrome reflection |
+| 6. POV | POV del cliente esperando en cama de suite (ella entrando) | POV photographer Newton-style con riding crop implicado out-of-frame |
+| 7. Odalisque | **La Perla recline classic** — cama king satin sábanas, S-curve, La Perla set | Studio floor recline geometric, harness arranged like sculpture |
+
+> **NEGATIVE PROMPT específico Lencería:** `cotton lingerie, organic fabric, sleepwear pajamas, granny nightgown, modest robe, bridal innocent virginal, ingenue, daywear, swimwear context, beach setting`
+
 ---
 
-### 🏋️ Sub-arquetipo Gym/Athleisure (Spec V1 — 21/05/2026 · Dual, influencer Instagram)
+### 🏋️ Sub-arquetipo Gym/Athleisure (Spec V2 — 22/05/2026 · Refactor con referencias reales: Bombshell Sportswear + GymShark + Buffbunny + Whitney Simmons + Sommer Ray)
 
-**Universo:** Ele en el mundo fitness/influencer de Instagram — desde el gym pic con equipo visible hasta el look athleisure en calle o café. Código visual: matching sets coordinados, cintura ultra-alta, scrunch detail, midriff expuesto (navel piercing visible), máximo gloss. Inspiración: Buffbunny Collection, GymShark, Whitney Simmons, Sommer Ray.
+**Universo:** Ele en el mundo fitness/influencer de Instagram — desde el gym pic con equipo visible hasta el look athleisure en calle o café. Código visual: matching sets coordinados, cintura ultra-alta, scrunch detail, midriff expuesto (navel piercing visible), máximo gloss.
+
+**Referencias canónicas reales:**
+- **Bombshell Sportswear** (2014, 1M IG followers) — **butt-scrunching fabric** + **V-shaped waistband** (signatures de la marca) · "flattering, durable, luxurious activewear"
+- **GymShark** Vital (seamless ribbed) + Adapt (camo/marble) + Flex (cycle shorts set)
+- **Buffbunny Collection** — matching sets scrunch back
+- **Whitney Simmons** — clean influencer aesthetic
+- **Sommer Ray** — Y2K booty-aware gym influencer
 
 **⚠️ CALZADO INAMOVIBLE — REGLA PLEASER (igual que Stripper):**
 Ele SIEMPRE en Pleaser-ref platform en looks Gym/Athleisure. Nunca zapatilla plana, sneaker sin plataforma elevada, ni mule sin pin heel.
@@ -1218,11 +1287,71 @@ Ele SIEMPRE en Pleaser-ref platform en looks Gym/Athleisure. Nunca zapatilla pla
 
 **Regla Dual:** En cada batch Gym, **al menos 1 Performance + 1 Athleisure**. Balance 50/50 a lo largo del catálogo.
 
+#### 🔥 PROVOCATION THRESHOLD Gym (NUEVA — OBLIGATORIA)
+
+> Toda silueta Gym DEBE cumplir al menos UNA condición:
+> - **Material V3.5 dominante** (wet-look spandex/latex/PVC mesh — NUNCA cotton matte o dri-fit técnico mate)
+> - **Bombshell signatures** (butt-scrunching fabric en back o V-shaped waistband)
+> - **Midriff exposed** (sports bra + low-rise legging, navel piercing visible siempre)
+> - **Pleaser-ref platform** ≥6" (regla inamovible)
+> - **Cutout estratégico** en bodysuit/catsuit o **sheer mesh panel** lateral
+> - **Body chain o booty-chain** decorativa (Polo B Athleisure street)
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+**Polo A · Gym Performance:**
+`Instagram gym selfie energy · post-workout glow · sweat-as-glitter aesthetic · Buffbunny scrunch back awareness · just-finished-set confident · the gym mirror IS the audience · fitness influencer pose`
+
+**Polo B · Athleisure Street:**
+`coffee-run influencer aesthetic · just-left-Pilates poise · Y2K Sommer Ray booty-aware · GymShark Instagram OOTD · athleisure-to-brunch transition · she-trains-but-doesn't-sweat`
+
+#### 🏛️ Settings Específicos Gym (con props)
+
+**Polo A · Performance:**
+- Gym mirror wall + cable machines visible + dumbbells stand
+- Squat rack con barra olímpica + plates color-coded
+- Estudio danza con barras + suelo madera + tira LED
+- Rooftop gym amanecer + boxing bag
+- Estudio pilates blanco + reformer machine
+- Bombshell-style mirror selfie en gym privado
+- Gym chrome con LED + suelo vinilo negro
+
+**Polo B · Athleisure Street:**
+- Calle urbana día con coffee cup en mano
+- Café ventana con MacBook + matcha latte
+- Lobby edificio corporativo (entre gym y meeting)
+- Estacionando Porsche Cayenne / Range Rover
+- Escalera arquitectónica edificio modernista
+- Rooftop ciudad tarde con yoga mat enrollado
+- Pilates studio exit con bolsa Hermès
+
+#### 🤸 Pose Framings Específicos Gym (variantes de las 7 canónicas)
+
+| # | Polo A · Performance | Polo B · Athleisure |
+|---|---|---|
+| 1. Standing | Frente al espejo del gym haciendo "selfie pose" con celular (o sin) hand on hip, butt-scrunch visible | Lean against coche/escalera con coffee cup, hip cocked, casual confident |
+| 2. Back | **Buffbunny scrunch back** glúteo aware, looking over shoulder, espejo mural visible | Walking away on street con yoga mat, looking over shoulder |
+| 3. Seated | Sentada en banco de pesas piernas abiertas, water bottle, post-set glow | Sentada en silla café con piernas cruzadas, MacBook abierta |
+| 4. Profile | Squat hold profile (showing form) lumbar arch + glúteo extension | Stretching against wall profile, perfecta línea |
+| 5. Ditzy | Gym mirror selfie ditzy face touching headphones | Café mirror compact touching up lipstick, ponytail visible |
+| 6. POV | Gym partner POV looking at her while spotting | Across-the-table café POV |
+| 7. Odalisque | Recostada en colchoneta yoga después del set, sweat sheen | Recostada en sofá lobby con yoga mat, satisfied poise |
+
+> **NEGATIVE PROMPT específico Gym:** `cotton matte fabric, dri-fit technical no gloss, gym sneakers flat, running shoes, granny activewear, oversized baggy without ceñido underlayer, hospital scrubs, paint-stained gym clothes`
+
 ---
 
-### 👙 Sub-arquetipo Bikini (Spec V1 — 21/05/2026 · Dual, Beach Editorial + Studio Micro)
+### 👙 Sub-arquetipo Bikini (Spec V2 — 22/05/2026 · Refactor con referencias reales: Lybethras + ISMÊ Swim + Andi Bagus + Sports Illustrated Swim + Brazilian fio dental)
 
-**Universo:** Ele en formato swimwear — desde la playa editorial de lujo (Mykonos, yate, pool terrace) hasta el studio fetish micro (shoot interior, pool cubierta, editorial extremo). El "tejido de baño" se convierte en vinyl/PVC/latex. ⚠️ **Retro bikini 50s (high-waist + scarf) = Pin-Up PA7, NO aquí.**
+**Universo:** Ele en formato swimwear — desde la playa editorial de lujo (Mykonos, yate, pool terrace, SI Swim location) hasta el studio fetish micro (shoot interior, pool cubierta, editorial extremo). El "tejido de baño" se convierte en vinyl/PVC/latex. ⚠️ **Retro bikini 50s (high-waist + scarf) = Pin-Up PA7, NO aquí.**
+
+**Referencias canónicas reales:**
+- **Lybethras** Brazilian (en SI Swim desde 2009) — **"Manu" hand-knit white+gold** signature, worn by Brooks Nader, Nicole Williams English, Alix Earle 2025
+- **ISMÊ Swim** Brazilian — "authentic Brazilian cuts, bold designs, affordable luxury", SI Swim 5x en 2025
+- **Andi Bagus** — SI Swim favorite, **micro bikini sets** specialist
+- **Sports Illustrated Swimsuit 2025** — micro bikini fue THE go-to style del año
+- **Brazilian "fio dental"** (1960s Brazil origin) — thong-style dental floss canon
+- **Brooks Nader · Alix Earle · Nicole Williams English** — referencia de modelo
 
 **Diferencias clave vs. otros sub-arquetipos:**
 - **vs. Pin-Up PA7:** Pin-Up PA7 = bikini 50s CON referencia de época (scarf, crinolina, soda fountain) · Bikini aquí = swimwear contemporáneo/editorial.
@@ -1303,6 +1432,59 @@ Ele SIEMPRE en Pleaser-ref platform en looks Gym/Athleisure. Nunca zapatilla pla
 - Zapatilla plana en Polo B
 
 **Regla Dual:** En cada batch Bikini, **al menos 1 Beach + 1 Studio**. Balance 50/50 a lo largo del catálogo.
+
+#### 🔥 PROVOCATION THRESHOLD Bikini (NUEVA — OBLIGATORIA)
+
+> Toda silueta Bikini DEBE cumplir al menos UNA condición:
+> - **Material V3.5** (wet-look spandex / latex / vinyl / PVC — NUNCA lycra mate de baño)
+> - **Cobertura mínima Brazilian fio dental** (string thong / cheeky cut)
+> - **Hardware visible** (O-rings chrome, chains, Swarovski crystals como conexión)
+> - **Cutout monokini** o **panel sheer PVC** (semi-nude effect)
+> - **Hand-knit detail visible** (Lybethras-style — Polo A Beach)
+> - **Heels stiletto** en beach (sandal vinyl) o **Pleaser platform** en studio — NUNCA chanclas/sandalias planas
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+**Polo A · Beach Editorial:**
+`Sports Illustrated Swimsuit cover model · Brooks Nader confident gaze · Alix Earle 2025 Brazilian glamour · just-stepped-off-yacht poise · Mykonos sun-kissed authority · hand-knit luxury awareness · Lybethras Manu signature`
+
+**Polo B · Studio Micro / Fetish:**
+`editorial swimwear sculptural · semi-nude artistic photography · architectural swimwear couture · O-ring hardware deliberate · crystal-encrusted editorial · gallery-piece swimwear · the camera is the audience`
+
+#### 🏛️ Settings Específicos Bikini (con props)
+
+**Polo A · Beach Editorial:**
+- **SI Swim location** ⭐ — Caribbean island white sand + crystal turquoise water + palm trees (Lybethras shoot reference)
+- Playa Mykonos blanca con cliff rocks + sun loungers blancos
+- Yate Mediterráneo cubierta con champagne flute + boya
+- Pool terrace infinity con vista ciudad o cordillera
+- Resort pool con hamaca + bartender outdoor
+- Rocks mediterráneos lava cliff + ocean spray
+- Beach club outdoor con cabana striped + cocktail
+- Brazilian Copacabana boardwalk + tile mosaic floor
+
+**Polo B · Studio Micro / Fetish:**
+- Studio caja negra con spotlight direccional + fondo liso
+- Pool cubierta azul neón con tiles cromadas
+- Espejo suelo-techo studio + iluminación rebote
+- Fondo seamless color saturado (rojo/azul/rosa)
+- Iluminación neón UV (blacklight) + props minimalistas
+- Studio gallery white-cube editorial
+- Pool privada con luz desde abajo (water glow effect)
+
+#### 🤸 Pose Framings Específicos Bikini (variantes de las 7 canónicas)
+
+| # | Polo A · Beach Editorial | Polo B · Studio Micro / Fetish |
+|---|---|---|
+| 1. Standing | SI Swim cover pose — frontal, hand on hip, gaze direct, sun-kissed glow | Studio editorial frontal, harness/O-rings visible, sculptural pose |
+| 2. Back | **Brazilian fio dental walk-away** mostrando thong, looking over shoulder | Back arch dramático, paneles sheer visibles, perfecta línea spine |
+| 3. Seated | Sentada en boya/cliff/lounger piernas estiradas, sun reflection | Sentada en cubo neón studio, piernas geométricas, harness visible |
+| 4. Profile | Profile en agua hasta tobillos, lumbar arch, viento en pelo | Profile arquitectónico contra fondo color, side cut visible |
+| 5. Ditzy | Beach mirror compact touching up lip gloss, sun reflejado | Studio mirror selfie, glossy lip + harness reflection |
+| 6. POV | Pool/beach POV (cliente bebiendo en lounger looking at her) | Across-studio POV (photographer view, camera implied) |
+| 7. Odalisque | **SI Swim editorial recline** — recostada en arena/lounger, S-curve, hand on hip | Studio floor recline, O-rings + body chains arranged geometric |
+
+> **NEGATIVE PROMPT específico Bikini:** `mat lycra fabric, vintage 50s high-waist, pin-up scarf, retro setting, indoor closed boudoir, lingerie context, flat sandals, flip-flops, full coverage one-piece without cutouts, conservative swimwear`
 
 ---
 
