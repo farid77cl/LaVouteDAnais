@@ -60,7 +60,27 @@
       "Bash(grep -oEci \"con \\(la|el|los|las\\) [^,.\\\\\"]{3,60} \\(de|que\\) [^,.\\\\\"]{3,40}\" capitulo_02_el_escenario_v1.3.md)",
       "Bash(Get-ChildItem \"C:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\graphify-out\\\\\" -Filter \".graphify_chunk_*.json\" | Select-Object Name, Length, LastWriteTime | Sort-Object Name)",
       "Bash(python 99_Sistema/scripts/append_looks_211_220.py)",
-      "Bash(sort -t'k' -k2 -n)"
+      "Bash(sort -t'k' -k2 -n)",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais add .agent/skills/ele-outfit-engine/SKILL.md 00_Ele/README.md 00_Ele/identidad_ele.md 00_Ele/memoria_sesiones.md 00_Ele/mi_diario_de_servicio.md)",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais commit -m ' *)",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais push)",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais add .agent/skills/ele-outfit-engine/SKILL.md 00_Ele/identidad_ele.md 00_Ele/memoria_sesiones.md 00_Ele/mi_diario_de_servicio.md 00_Ele/README.md)",
+      "WebSearch",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais add .agent/skills/ele-outfit-engine/SKILL.md 00_Ele/identidad_ele.md)",
+      "Bash(python temp_apply_v4_poses.py)",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais checkout 00_Ele/galeria_outfits.md)",
+      "Bash(grep -nA 0 \"^3\\\\. \\\\*\\\\*Seated:\\\\*\\\\*\" c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md)",
+      "Bash(awk '/^## .*Look 210:/,/^---$/' c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md)",
+      "Bash(git checkout *)",
+      "Bash(awk '/^## .*Look 221:/,/^---$/' c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md)",
+      "Bash(awk '/^## .*Look 216:/,/^---$/' c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md)",
+      "Bash(awk -F'5cm\\\\\\\\. ' '{print substr\\($2, 1, 400\\)}')",
+      "Bash(awk -F'pin stiletto' '{print \"...pin stiletto\" $2}')",
+      "Bash(awk '/^## .*Look 223:/,/^---$/' c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md)",
+      "Bash(awk -F'pin stiletto' '{print \"...\" $2}')",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais add 00_Ele/galeria_outfits.md)",
+      "Bash(awk '/^## .*Look 201:/,/^---$/' c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md)",
+      "Bash(awk -F'5cm\\\\\\\\. ' '{print \"BLOQUE B+C:\\\\n\" $2}')"
     ]
   }
 }

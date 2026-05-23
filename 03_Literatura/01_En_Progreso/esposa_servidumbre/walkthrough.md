@@ -14,8 +14,8 @@
 | **2 - Arquitectura** | ✔️ | 21/05/2026 | FASE A (Intake) y FASE B completadas. Creado `arco_maestro_v1.md` y `linea_de_tiempo_maestra.md` con rimas narrativas y la extorsión de Gabriel. Lista para Gate de la Ama. |
 | **3 - Personajes** | ✔️ | 22/05/2026 | FASE A (Intake) y FASE B completadas. Fichas de Esteban/Estefanía, Valeria y Gabriel guardadas en `personajes_maestro_v1.md`. Pendiente Gate de la Ama. |
 | **3.3 - Mapa Erótico** | ✔️ | 22/05/2026 | FASE A (Intake respondido por la Ama), FASE B (mapa general) y FASE C (mapa Cap. 1) completadas. Archivos: `mapa_erotico_v1.md` + `mapa_erotico_cap1_v1.md`. Pendiente Gate de la Ama. |
-| **3.5 - Escena Piloto** | ⬜ | — | Pendiente Gate sobre Mapa Erótico |
-| **4 - Escritura** | ⬜ | — | Pendiente |
+| **3.5 - Escena Piloto** | ✔️ | 23/05/2026 | Escena piloto (faja) aprobada por la Ama. |
+| **4 - Escritura** | ⏳ | 23/05/2026 | Escribiendo primer borrador de Capítulo 1. |
 | **5 - Auditoría** | ⬜ | — | Pendiente |
 | **6 - Refinamiento** | ⬜ | — | Pendiente |
 | **7 - Centinela** | ⬜ | — | Pendiente |

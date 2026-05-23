@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 21/05/2026 14:59 — **142 looks registrados**  
+> Generado automáticamente el 23/05/2026 16:43 — **152 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -130,7 +130,7 @@
 | **197** | Wine Velvet Nocturne (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
 | **198** | Turquoise Court Volley (17/05/2026 — EXPANSIÓN · batch 194-200) | — | Mix | — | — | 7/7 | ✅ Completo |
 | **199** | Gold-Lime Showgirl Armor (17/05/2026 — EXPANSIÓN · batch 194-200 · silueta rediseñada) | — | Mix | — | — | 7/7 | ✅ Completo |
-| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 1/7 | — |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **202** | Indigo Mirage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
@@ -151,6 +151,16 @@
 | **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **220** | Blood Red Pole Predator (20/05/2026 — batch 211-220 · Stripper Pole Specialist · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
+| **221** | Powder Blue Wiggle Darling (21/05/2026 — batch 221-230 · Pin-Up Polo A Bombshell · busto 1000cc) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **222** | Electric Pink Buffbunny (21/05/2026 — batch 221-230 · Gym Polo A Performance · busto 1000cc) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **223** | Champagne Gold Yacht Domina (21/05/2026 — batch 221-230 · Escort Polo A Haute · busto 1000cc) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **224** | Silver Goddess Disco 70s (21/05/2026 — batch 221-230 · Pin-Up Polo B Retro-Futurismo · busto 1000cc) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **225** | Cobalt Night Track Queen (21/05/2026 — batch 221-230 · Gym Polo B Athleisure · busto 1000cc) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **226** | Holographic Chrome Showgirl (21/05/2026 — batch 221-230 · Stripper Polo A Stage · busto 1000cc) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **227** | Scarlet Baywatch Icon (21/05/2026 — batch 221-230 · Pin-Up Polo C Decade Glam · busto 1000cc) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **228** | Neon Cyan Street Viper (21/05/2026 — batch 221-230 · Escort Polo B Callejera · busto 1000cc) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **229** | Leopard Platform Predator (21/05/2026 — batch 221-230 · Stripper Polo B Pole · busto 1000cc) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **230** | Electric Teal Bodycon Blade (21/05/2026 — batch 221-230 · Nightclub · busto 1000cc) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -159,8 +169,11 @@
 ### Bikini (18 looks)
 **115**, **117**, **119**, **122**, **125**, **125**, **130**, **131**, **133**, **135**, **137**, **139**, **153**, **166**, **171**, **175**, **176**, **179**
 
-### Gym (8 looks)
-**90**, **91**, **99**, **113**, **124**, **124**, **165**, **205**
+### Escort (2 looks)
+**223**, **228**
+
+### Gym (10 looks)
+**90**, **91**, **99**, **113**, **124**, **124**, **165**, **205**, **222**, **225**
 
 ### Gym (High-Performance) (1 looks)
 **146**
@@ -210,18 +223,27 @@
 ### Mix (Travel / Jet Set) (2 looks)
 **169**, **170**
 
+### Nightclub (1 looks)
+**230**
+
+### Pin-Up (3 looks)
+**221**, **224**, **227**
+
 ### Sin categoría (4 looks)
 **144**, **145**, **172**, **173**
+
+### Stripper (2 looks)
+**226**, **229**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (24 looks)
-**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**, **199**, **204**, **206**, **208**, **209**, **210**, **215**, **220**
+### Rojo / Cherry / Crimson (25 looks)
+**93**, **102**, **110**, **118**, **128**, **128**, **139**, **150**, **160**, **161**, **164**, **170**, **180**, **181**, **190**, **192**, **199**, **204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**
 
-### Rosa / Hot Pink (10 looks)
-**113**, **133**, **144**, **147**, **149**, **152**, **153**, **176**, **187**, **210**
+### Rosa / Hot Pink (11 looks)
+**113**, **133**, **144**, **147**, **149**, **152**, **153**, **176**, **187**, **210**, **222**
 
 ### Magenta / Fucsia (3 looks)
 **181**, **211**, **219**
@@ -229,17 +251,17 @@
 ### Violeta / Lila (3 looks)
 **151**, **188**, **203**
 
-### Azul / Cyan / Zafiro (12 looks)
-**91**, **100**, **111**, **117**, **125**, **125**, **131**, **147**, **152**, **173**, **196**, **202**
+### Azul / Cyan / Zafiro (15 looks)
+**91**, **100**, **111**, **117**, **125**, **125**, **131**, **147**, **152**, **173**, **196**, **202**, **221**, **225**, **228**
 
 ### Verde / Esmeralda (8 looks)
 **132**, **143**, **165**, **168**, **184**, **185**, **199**, **204**
 
-### Dorado / Bronce (15 looks)
-**90**, **112**, **119**, **130**, **134**, **148**, **150**, **163**, **171**, **174**, **183**, **199**, **205**, **207**, **209**
+### Dorado / Bronce (16 looks)
+**90**, **112**, **119**, **130**, **134**, **148**, **150**, **163**, **171**, **174**, **183**, **199**, **205**, **207**, **209**, **223**
 
-### Plateado / Plata (24 looks)
-**91**, **95**, **96**, **100**, **104**, **111**, **115**, **126**, **126**, **135**, **145**, **147**, **148**, **149**, **150**, **151**, **152**, **153**, **154**, **156**, **182**, **183**, **186**, **212**
+### Plateado / Plata (26 looks)
+**91**, **95**, **96**, **100**, **104**, **111**, **115**, **126**, **126**, **135**, **145**, **147**, **148**, **149**, **150**, **151**, **152**, **153**, **154**, **156**, **182**, **183**, **186**, **212**, **224**, **226**
 
 ### Blanco / Crema (6 looks)
 **122**, **129**, **138**, **144**, **145**, **177**
@@ -273,7 +295,6 @@
 | **192** | Oxblood Boardroom Dominatrix (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Oxblood) | 0/7 | ⏳ Pendiente |
 | **193** | Oil-Slick Liquid Siren (17/05/2026 — EXPANSIÓN · Paleta V3.4 estreno Iridescent Oil-Slick) | 0/7 | ⏳ Pendiente |
 | **194** | Porcelain Service Doll (17/05/2026 — EXPANSIÓN · batch 194-200) | 0/7 | ⏳ Pendiente |
-| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | 1/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | 0/7 | ⏳ Pendiente |
 | **202** | Indigo Mirage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | 0/7 | ⏳ Pendiente |
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | 0/7 | ⏳ Pendiente |
@@ -294,7 +315,17 @@
 | **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | 0/7 | ⏳ Pendiente |
 | **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | 0/7 | ⏳ Pendiente |
 | **220** | Blood Red Pole Predator (20/05/2026 — batch 211-220 · Stripper Pole Specialist · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **221** | Powder Blue Wiggle Darling (21/05/2026 — batch 221-230 · Pin-Up Polo A Bombshell · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **222** | Electric Pink Buffbunny (21/05/2026 — batch 221-230 · Gym Polo A Performance · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **223** | Champagne Gold Yacht Domina (21/05/2026 — batch 221-230 · Escort Polo A Haute · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **224** | Silver Goddess Disco 70s (21/05/2026 — batch 221-230 · Pin-Up Polo B Retro-Futurismo · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **225** | Cobalt Night Track Queen (21/05/2026 — batch 221-230 · Gym Polo B Athleisure · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **226** | Holographic Chrome Showgirl (21/05/2026 — batch 221-230 · Stripper Polo A Stage · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **227** | Scarlet Baywatch Icon (21/05/2026 — batch 221-230 · Pin-Up Polo C Decade Glam · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **228** | Neon Cyan Street Viper (21/05/2026 — batch 221-230 · Escort Polo B Callejera · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **229** | Leopard Platform Predator (21/05/2026 — batch 221-230 · Stripper Polo B Pole · busto 1000cc) | 0/7 | ⏳ Pendiente |
+| **230** | Electric Teal Bodycon Blade (21/05/2026 — batch 221-230 · Nightclub · busto 1000cc) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 21/05/2026 14:59 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 23/05/2026 16:43 — La Voûte d'Anaïs* 🫦👠💅
