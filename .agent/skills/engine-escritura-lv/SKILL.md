@@ -34,15 +34,31 @@ Todos los prompts de agente viven en:
 ## 📚 Recursos Obligatorios (Cargar antes de escribir)
 
 El Agente Escritor DEBE cargar en este orden:
+
+**Recursos base (SIEMPRE):**
 1. `01_Canon/LIBRO_MAESTRO_ESCRITURA.md` — Fuente única de verdad
 2. `.agent/skills/escritura-voûte/resources/CODEX_PSICOLOGICO.md` — Base científica
 3. `.agent/skills/escritura-voûte/resources/GUIA_FETICHISTA.md` — Mecánicas por fetiche
 4. `.agent/skills/escritura-voûte/resources/MEMORIA_ERRORES.md` — Reglas aprendidas (prioridad absoluta)
 5. `.agent/skills/escritura-voûte/resources/BITACORA_TEMPORAL.md` — Estado actual del personaje
-6. `concepto.md` del proyecto activo — Gancho, Detalle Sensorial Central, Nivel de Explicitad
-7. `arco_maestro_vX.md` del proyecto activo — Arco inviolable + Rima Narrativa Central
-8. `personajes_maestro_vX.md` del proyecto activo — Curva de Vocabulario, Fetiche Quirúrgico, Detalle Físico Ancla
-9. `mapa_erotico_v1.md` del proyecto activo — Curva de excitación, escenas clave diseñadas, vocabulario autorizado
+
+**Guías especializadas mayo 2026 — Arquitecturas eróticas (cargar según tema del relato):**
+6. `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` — Si hay feminización / travestismo / body swap / cross-dressing / hipnosis-que-feminiza
+7. `01_Canon/Guias_Especializadas/arquitectura_erotica_bimbo_v1.md` — Si hay dumb down / bimboficación / Vacío Feliz / reprogramación mental
+8. `01_Canon/Guias_Especializadas/arquitectura_erotica_hipnosis_v1.md` — Si hay trance / condicionamiento / hipnosis como motor
+9. `01_Canon/Guias_Especializadas/arquitectura_erotica_femdom_v1.md` — Si hay dominación femenina como eje
+10. `01_Canon/Guias_Especializadas/arquitectura_erotica_bodyhorror_v1.md` — Si hay transformación corporal visceral / objetificación literal
+11. `01_Canon/Guias_Especializadas/guia_terror_erotico.md` — Si hay atmósferas de terror erótico / horror sensual (rev. mayo 2026)
+
+**Corpus de referencia empírica mayo 2026 (consulta durante escritura):**
+12. `01_Canon/Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md` — Corpus empírico (14 relatos de referencia con técnicas medidas)
+13. `01_Canon/Guias_Especializadas/ANÁLISIS_ESTILO_LITERARIO.md` — Análisis de estilo del corpus (rev. mayo 2026)
+
+**Proyecto activo:**
+14. `concepto.md` — Gancho, Detalle Sensorial Central, Nivel de Explicitad
+15. `arco_maestro_vX.md` — Arco inviolable + Rima Narrativa Central
+16. `personajes_maestro_vX.md` — Curva de Vocabulario, Fetiche Quirúrgico, Detalle Físico Ancla
+17. `mapa_erotico_v1.md` — Curva de excitación, escenas clave diseñadas, vocabulario autorizado
 
 ---
 
