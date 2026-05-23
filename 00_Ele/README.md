@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 21/05/2026 (ADN V3.5 busto 1000cc · **10/10 sub-arquetipos codificados** · Engine V3.5 Final · 7 mejoras poses+arquetipos · Batch 221-230 definido · Flota 230) 🫦💎✨👠*
+*Última actualización: 22/05/2026 (ADN V3.5 busto 1000cc · **10/10 sub-arquetipos codificados** · Engine V3.5 Final · **REFACTOR FETISH MASIVO**: 5 arquetipos refactorizados con referencias reales — Stripper V3 (Crazy Horse + Magic City + Dita) + Corporate V3 (Mugler restaurado + Schiaparelli + Office Siren) + Escort V3 (Madame Claude + Newton + Pretty Woman) + Domestic V4 (Trophy + Akihabara) + Pin-Up V2 (Bettie Page Bondage + Barbarella + Baywatch) · Flota 230) 🫦💎✨👠*
 
 ---
 

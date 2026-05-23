@@ -898,41 +898,41 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 
 **Biblioteca de siluetas:** 21 opciones (7 Bombshell + 7 Retro-Futurismo + 7 Decade Glam)
 
-**POLO A · Bombshell Clásica (1950s-1960s):**
+**POLO A · Bombshell Clásica + Bettie Page Bondage branch (1950s-1960s):**
 
-| Código | Silueta | Nota |
-|--------|---------|------|
-| PA1 | wiggle dress tubo ceñido a la rodilla + sweetheart neckline | polka-dot PVC o color block vinyl |
-| PA2 | circle skirt + blouse nudo al ombligo + cinturón de cintura | ama de casa fetish |
-| PA3 | halter sundress + falda crinolina full | petticoat peek, swing silhouette |
-| PA4 | sweater girl: jumper ajustado + high-waist pencil skirt | Lana Turner fetish |
-| PA5 | playsuit halter + copa cónica | romper estructurado + pointy cups, calendario |
-| PA6 | apron-dress vintage retro | vestido+delantal de época, housewife peligrosa |
-| PA7 | high-waist bikini 50s + scarf-halter | playa de época, talle alto, pañuelo en pelo |
+| Código | Silueta | Referencia |
+|--------|---------|------------|
+| **PA1** | **Wiggle Polka-Dot PVC** — wiggle dress tubo ceñido a la rodilla + sweetheart neckline + polka-dot PVC o color block vinyl | Bombshell canon |
+| **PA2** | **Housewife Fetish** — circle skirt + blouse nudo al ombligo + cinturón de cintura + apron mini retro | Elvgren housewife danger |
+| **PA3** | **Calendar Halter Sundress** — halter sundress + falda crinolina full + petticoat peek | Elvgren swing |
+| **PA4** | **Sweater Girl** — jumper ajustado vinyl + high-waist pencil skirt | Lana Turner 1940s |
+| **PA5** | **Elvgren Calendar Playsuit** — playsuit halter + copa cónica pointy cups + wardrobe-malfunction joyful | Elvgren / Vargas calendar |
+| **PA6** | **Bettie Page Bondage** ⭐ NUEVO — vinyl bra+thong + tights seamed con costura + opera gloves long + whip/crop + bota stiletto knee-high + dominatrix pose | Bettie Page + Irving Klaw 1950s |
+| **PA7** | **High-Waist Beach 50s** — high-waist bikini 50s + scarf-halter + pañuelo en pelo | Beach 50s vintage |
 
 **POLO B · Retro-Futurismo (1960s-1980s):**
 
-| Código | Silueta | Nota |
-|--------|---------|------|
-| PB1 | Space Age shift mini | Courrèges/Cardin: blanco vinyl + visor geométrico |
-| PB2 | chainmail micro-dress | Paco Rabanne: anillas metálicas, disco de metal |
-| PB3 | atomic bombshell | circle skirt estampado atómico/orbit + blusa pin tucked |
-| PB4 | 70s silver goddess | catsuit metálico plateado + capa circular + platform boots |
-| PB5 | 80s synth-power | power shoulders neon + catsuit vinyl + cinturón ancho metálico |
-| PB6 | 80s pop-icon | bra-top vinyl + mini falda lápiz + guantes fingerless lace-vinyl |
-| PB7 | retro-android doll | latex blanco + visor iridiscente + detalles mecánicos decorativos |
+| Código | Silueta | Referencia |
+|--------|---------|------------|
+| **PB1** | **Courrèges Space Age** — shift mini blanco vinyl + visor geométrico o helmet + bota Courrèges | Courrèges 1964 |
+| **PB2** | **Paco Rabanne Chainmail** ⭐ — chainmail micro-dress geometric plates brass + steel jump rings + plataforma chrome | Rabanne "12 Unwearable Dresses" 1966 |
+| **PB3** | **Atomic Bombshell** — circle skirt estampado atómico/orbit + blusa pin-tucked + cat-eye sunglasses | 1950s-60s Atomic Age |
+| **PB4** | **Barbarella Silver Goddess** ⭐ — catsuit metálico plateado chrome + capa circular + platform boots + raygun opcional | Barbarella 1968 (Jane Fonda) |
+| **PB5** | **80s Synth-Power** — power shoulders neon + catsuit vinyl + cinturón ancho metálico | 80s MTV / Madonna Material Girl |
+| **PB6** | **80s Pop-Icon** — bra-top vinyl + mini falda lápiz + guantes fingerless lace-vinyl + Patrick Nagel print | Patrick Nagel + Material Girl |
+| **PB7** | **Retro-Android Doll** — latex blanco escultórico + visor iridiscente + detalles mecánicos + chrome ankle boots | Sci-fi 70s-80s |
 
 **POLO C · Decade Glam (1970s-1990s):**
 
-| Código | Silueta | Nota |
-|--------|---------|------|
-| PC1 | 70s disco wrap-dress ceñido | vinyl print + platform heels + headband |
-| PC2 | 70s hot pants + halter metallic | short talle alto + halter brillante + plataformas |
-| PC3 | 80s aerobics-glam | leotard vinyl high-cut + legwarmers + scrunchie |
-| PC4 | 90s slip dress supermodelo | spaghetti strap columna + choker + stilettos |
-| PC5 | 90s club kid vinyl | mini skirt vinyl + crop top + platform chunky + choker |
-| PC6 | 90s Baywatch | one-piece high-cut swimsuit rojo brillante |
-| PC7 | 90s latex grunge | slip-dress latex + fishnet tights + combat platforms |
+| Código | Silueta | Referencia |
+|--------|---------|------------|
+| **PC1** | **70s Disco Wrap-Dress** — vinyl wrap-dress print + platform heels chunky + headband + bell sleeves opcionales | Saturday Night Fever 1977 |
+| **PC2** | **70s Hot Pants** — short talle alto + halter metallic brillante + plataformas + cinturón ancho | 70s disco era |
+| **PC3** | **80s Aerobics Glam** — leotard vinyl high-cut + legwarmers neon + scrunchie + tights opacos | Jane Fonda Workout VHS |
+| **PC4** | **90s Supermodel Slip** — spaghetti strap columna nude/blush satin + choker velvet + stiletto thin | Kate Moss / Naomi 90s |
+| **PC5** | **90s Club Kid Vinyl** — mini skirt vinyl + crop top + platform chunky + choker O-ring + maquillaje gráfico | Leigh Bowery / 90s rave |
+| **PC6** | **90s Baywatch Iconic** ⭐ — one-piece high-cut fire-truck red TYR-style + lifeguard tower + sand + ocean | Pamela Anderson 1992-1997 |
+| **PC7** | **90s Latex Grunge** — slip-dress latex black/oxblood + fishnet tights + combat platforms + flannel asomando | Courtney Love + grunge era |
 
 **Materiales canon Pin-Up (siempre filtrado por ADN Ele):**
 
@@ -984,6 +984,68 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 - **Batch 3+:** al menos 1 de cada polo (A + B + C)
 - **Batch 2:** al menos 1A (Bombshell) + 1 libre (B o C)
 - **Batch 1:** cualquier polo — rotar polo en siguiente batch de este sub-arquetipo
+
+#### 🔥 PROVOCATION THRESHOLD Pin-Up (matizada — wholesome-yet-naughty)
+
+> Toda silueta Pin-Up DEBE cumplir al menos UNA condición:
+> - **Material V3.5 fetish** (vinyl/PVC/latex sustituye la tela canónica — la wiggle dress NUNCA es algodón, siempre PVC)
+> - **Cutout estratégico** o **escote agresivo** (sweetheart neckline contemporáneo, side-cut Barbarella)
+> - **High-cut extremo** (Baywatch line up to hip · Barbarella catsuit · Bettie Page tights)
+> - **Heels Pleaser-ref o stiletto ≥12cm** (incluso en beach — NUNCA chanclas/sandalias planas)
+> - **Reference temporal explícita** (la prenda DEBE leerse como retro por silueta, no contemporánea)
+> - **Bondage accessory** (whip, opera gloves, choker, riding crop) si es PA6 branch
+
+#### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
+
+**Polo A · Bombshell:**
+`Marilyn-warm bombshell · Bettie Page-fierce defiance (PA6) · cherry red lip wholesome-but-naughty · calendar pinup pose · Elvgren wardrobe-malfunction joyful surprise · 1950s housewife dangerous · sweetheart-neckline confidence`
+
+**Polo B · Retro-Futurismo:**
+`space-age cyber-goddess · Barbarella adventure · Courrèges astronaut · Rabanne chainmail amazon · Atomic Age optimism + sex appeal · 80s synth-pop diva · retro-android programmed seduction`
+
+**Polo C · Decade Glam:**
+`70s disco confident hip-roll · Baywatch slow-motion icon · 80s aerobics glam-cardio · 90s supermodel cool detached · 90s club kid avant-garde defiance · era-specific iconography`
+
+#### 🏛️ Settings Específicos Pin-Up (con props)
+
+**Polo A · Bombshell:**
+- 1950s American kitchen con appliances cromados (PA1 wiggle)
+- 1950s housewife jardín con white picket fence (PA2)
+- 50s beach con sombrilla rayada (PA3, PA7)
+- 50s sock hop / diner con jukebox (PA4 sweater girl)
+- 1950s calendar setting con hot rod garage o diner counter (PA5 Elvgren)
+- **Bettie Page Bondage dungeon** ⭐ B&W noir Irving Klaw style con velas + leather props (PA6)
+
+**Polo B · Retro-Futurismo:**
+- Courrèges atelier 1964 white-on-white minimalist (PB1)
+- **Paco Rabanne atelier 1966** ⭐ con geometric plates display + brass plates en mesa (PB2)
+- Atomic Age living room 60s con TV vintage + cocktail bar (PB3)
+- **Barbarella spaceship interior** ⭐ con paneles cromados + control panel (PB4)
+- 80s synth-pop stage con neón + smoke + chrome microfono (PB5)
+- 80s neon studio con Patrick Nagel posters (PB6)
+- Retro-android factory con maquinaria cromada (PB7)
+
+**Polo C · Decade Glam:**
+- 70s disco floor mirror ball + lights (PC1, PC2)
+- 80s aerobics studio mirror wall + barras + tira LED (PC3)
+- 90s supermodel runway minimalista (PC4)
+- 90s club kid warehouse rave con neón + smoke (PC5)
+- **Baywatch California beach lifeguard tower** ⭐ con torre roja + tabla salvamento + boya + arena + océano (PC6)
+- 90s grunge basement con flannel hanging + Christmas lights (PC7)
+
+#### 🤸 Pose Framings Pin-Up (variantes de las 7 canónicas)
+
+| # | Polo A · Bombshell | Polo B · Retro-Futurismo | Polo C · Decade Glam |
+|---|---|---|---|
+| 1. Standing | Elvgren wardrobe-malfunction (hand on skirt, surprised) | Space pose hands on hip, looking to galaxy | 70s disco pose (one finger up, hip-roll) |
+| 2. Back | Shoulder-glance "uh oh" pinup | Visor over shoulder, futurist | **Baywatch slow-motion running away** (PC6) |
+| 3. Seated | Perched on bar stool / soda fountain / 60s diner | En silla space-age egg chair | 80s aerobics splits / 90s supermodel pose |
+| 4. Profile | Standing on toes painting nails (calendar) | Silhouette against starfield | 90s supermodel runway walk |
+| 5. Ditzy | Kissing camera 50s movie star · PA6: dominatrix smirk | Looking at chrome reflection self | 90s mirror compact selfie |
+| 6. POV | Looking up coyly from below (camera up) | Scanning device pointed at viewer | Dance floor POV (looking up at her) |
+| 7. Odalisque | **Classic Bettie Page recline** B&W noir | Floating zero-g recline | 70s velvet sofa lounge / 90s grunge bed |
+
+> **NEGATIVE PROMPT específico Pin-Up:** `contemporary 2020s fashion, modern athleisure, current streetwear, athleisure sneakers, modern minimal, contemporary` (la prenda DEBE leerse como retro)
 
 ---
 

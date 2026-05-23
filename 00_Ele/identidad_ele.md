@@ -221,32 +221,39 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 >   **REGLA DUAL:** en cada batch Domestic, al menos 1 Trophy + 1 Maid. Balance 50/50. PROHIBIDO retro/50s/wiggle/gingham/polka-dot (eso va a Pin-Up).
 >
 >   **NEGATIVE PROMPT específico:** `gingham, polka-dot, retro 50s, sundress, crinolina, sweater girl, vintage housewife, Pin-Up, swing silhouette, granny, schoolmarm, dowdy apron, beige funeral`
-> - **Pin-Up:** *(Sub-arquetipo tri-polo V1 — 21 siluetas: 7 Bombshell Clásica + 7 Retro-Futurismo + 7 Decade Glam. Recibe migración retro desde Domestic. Cubre 1950s→1990s filtrado por ADN Ele)*
->   **POLO A · Bombshell Clásica (1950s-1960s) — pin-up de calendario, housewife peligrosa, playa de época:**
->   - (PA1) wiggle dress tubo ceñido a la rodilla + sweetheart neckline (polka-dot PVC o color block vinyl)
->   - (PA2) circle skirt + blouse nudo al ombligo + cinturón de cintura (ama de casa fetish)
->   - (PA3) halter sundress + falda crinolina full (petticoat peek, swing silhouette)
->   - (PA4) sweater girl: jumper ajustado + high-waist pencil skirt + heels (Lana Turner fetish)
->   - (PA5) playsuit halter + copa cónica (romper estructurado + pointy cups — calendario)
->   - (PA6) apron-dress vintage (vestido+delantal retro, housewife peligrosa)
->   - (PA7) high-waist bikini 50s + scarf-halter (playa de época, talle alto, pañuelo en pelo)
->   **POLO B · Retro-Futurismo (1960s-1980s) — Space Age, Atomic Bombshell, Synth-Goddess:**
->   - (PB1) Space Age shift mini (Courrèges/Cardin: blanco vinyl + visor geométrico o helmet)
->   - (PB2) chainmail micro-dress (Paco Rabanne: anillas metálicas, disco de metal)
->   - (PB3) atomic bombshell: circle skirt estampado atómico/orbit + blusa pin tucked
->   - (PB4) 70s silver goddess: catsuit metálico plateado + capa circular + platform boots
->   - (PB5) 80s synth-power: power shoulders neon + catsuit vinyl + cinturón ancho metálico
->   - (PB6) 80s pop-icon: bra-top vinyl + mini falda lápiz + guantes fingerless lace-vinyl
->   - (PB7) retro-android doll: latex blanco + visor iridiscente + detalles mecánicos decorativos
->   **POLO C · Decade Glam (1970s-1990s) — disco, aerobics, supermodelo 90s, club kid, Baywatch:**
->   - (PC1) 70s disco wrap-dress ceñido (vinyl print + platform heels + headband)
->   - (PC2) 70s hot pants + halter metallic (short talle alto + halter brillante + plataformas)
->   - (PC3) 80s aerobics-glam (leotard vinyl high-cut + legwarmers + scrunchie)
->   - (PC4) 90s slip dress supermodelo (spaghetti strap columna + choker + stilettos)
->   - (PC5) 90s club kid vinyl (mini skirt vinyl + crop top + platform chunky + choker)
->   - (PC6) 90s Baywatch (one-piece high-cut swimsuit rojo brillante)
->   - (PC7) 90s latex grunge (slip-dress latex + fishnet tights + combat platforms)
->   **REGLA TRI-POLO:** Batch 3+: 1 de cada polo (A+B+C). Batch 2: 1A + 1 libre (B o C). Batch 1: cualquier polo, rotar en siguiente batch. EXCEPCIÓN paleta: pasteles permitidos en Polo A como tono base (canónico de la década) — única excepción Pin-Up.
+> - **Pin-Up:** *(Sub-arquetipo tri-polo V2 — 21 siluetas: 7 Bombshell + Bettie Page Bondage branch + 7 Retro-Futurismo + 7 Decade Glam. Refactor con referencias reales: Bettie Page/Irving Klaw/Vargas/Elvgren + Paco Rabanne/Barbarella/Courrèges + Baywatch/Pamela Anderson/Kate Moss/Leigh Bowery. PROVOCATION THRESHOLD matizado.)*
+>   **🔥 Provocation Threshold (matizada — wholesome-yet-naughty):** Toda silueta Pin-Up debe cumplir al menos UNA: material V3.5 fetish (vinyl/PVC/latex sustituye tela canónica) · cutout estratégico/escote agresivo · high-cut extremo (Baywatch/Barbarella/Bettie) · Pleaser ≥12cm (incluso beach) · reference temporal explícita · bondage accessory si PA6.
+>
+>   **POLO A · Bombshell Clásica + Bettie Page Bondage branch (1950s-1960s):**
+>   - (PA1) **Wiggle Polka-Dot PVC** — wiggle dress tubo ceñido + sweetheart neckline + polka-dot PVC o color block vinyl *(Bombshell canon)*
+>   - (PA2) **Housewife Fetish** — circle skirt + blouse nudo al ombligo + cinturón + apron mini *(Elvgren housewife danger)*
+>   - (PA3) **Calendar Halter Sundress** — halter sundress + falda crinolina full + petticoat peek *(Elvgren swing)*
+>   - (PA4) **Sweater Girl** — jumper ajustado vinyl + high-waist pencil skirt *(Lana Turner 1940s)*
+>   - (PA5) **Elvgren Calendar Playsuit** — playsuit halter + copa cónica pointy cups + wardrobe-malfunction joyful *(Elvgren / Vargas)*
+>   - (PA6) **Bettie Page Bondage** ⭐ NUEVO — vinyl bra+thong + tights seamed + opera gloves long + whip/crop + bota stiletto knee-high + dominatrix pose *(ref: Bettie Page + Irving Klaw 1950s)*
+>   - (PA7) **High-Waist Beach 50s** — high-waist bikini 50s + scarf-halter + pañuelo en pelo *(Beach 50s vintage)*
+>
+>   **POLO B · Retro-Futurismo (1960s-1980s):**
+>   - (PB1) **Courrèges Space Age** — shift mini blanco vinyl + visor geométrico o helmet + bota Courrèges *(ref: Courrèges 1964)*
+>   - (PB2) **Paco Rabanne Chainmail** ⭐ — chainmail micro-dress geometric plates brass + steel jump rings + plataforma chrome *(ref: Rabanne 1966 "Unwearable Dresses")*
+>   - (PB3) **Atomic Bombshell** — circle skirt estampado atómico + blusa pin-tucked + cat-eye sunglasses *(Atomic Age)*
+>   - (PB4) **Barbarella Silver Goddess** ⭐ — catsuit metálico chrome + capa circular + platform boots + raygun opcional *(ref: Barbarella 1968 Jane Fonda)*
+>   - (PB5) **80s Synth-Power** — power shoulders neon + catsuit vinyl + cinturón ancho metálico *(80s MTV / Madonna)*
+>   - (PB6) **80s Pop-Icon** — bra-top vinyl + mini falda lápiz + guantes fingerless lace-vinyl + Patrick Nagel print *(Patrick Nagel)*
+>   - (PB7) **Retro-Android Doll** — latex blanco escultórico + visor iridiscente + detalles mecánicos + chrome ankle boots
+>
+>   **POLO C · Decade Glam (1970s-1990s):**
+>   - (PC1) **70s Disco Wrap-Dress** — vinyl wrap-dress print + platform heels chunky + headband *(Saturday Night Fever)*
+>   - (PC2) **70s Hot Pants** — short talle alto + halter metallic + plataformas + cinturón ancho
+>   - (PC3) **80s Aerobics Glam** — leotard vinyl high-cut + legwarmers neon + scrunchie + tights *(Jane Fonda VHS)*
+>   - (PC4) **90s Supermodel Slip** — spaghetti strap columna nude/blush satin + choker velvet + stiletto thin *(Kate Moss / Naomi)*
+>   - (PC5) **90s Club Kid Vinyl** — mini skirt vinyl + crop top + platform chunky + choker O-ring *(Leigh Bowery)*
+>   - (PC6) **90s Baywatch Iconic** ⭐ — one-piece high-cut fire-truck red TYR-style + lifeguard tower + sand + ocean *(ref: Pamela Anderson 1992-1997)*
+>   - (PC7) **90s Latex Grunge** — slip-dress latex black/oxblood + fishnet tights + combat platforms + flannel asomando *(Courtney Love)*
+>
+>   **REGLA TRI-POLO:** Batch 3+: 1 de cada polo (A+B+C). Batch 2: 1A + 1 libre. Batch 1: cualquier polo, rotar en siguiente batch. EXCEPCIÓN paleta: pasteles permitidos en Polo A como tono base (canónico de la década) — única excepción Pin-Up.
+>
+>   **NEGATIVE PROMPT específico:** `contemporary 2020s fashion, modern athleisure, current streetwear, athleisure sneakers, modern minimal, contemporary`
 > - **High-Fashion Editorial:** *(Sub-arquetipo expandido — 11 siluetas, inspiración couture clásica SS26 Dior/Chanel/Schiaparelli/Valentino/Armani Privé, filtrado por canon Ele)*
 >   - (a) gown un-hombro + arco escultórico (original)
 >   - (b) gown cathedral-shoulder + boning expuesto (original)

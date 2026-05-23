@@ -18,6 +18,23 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 22/05/2026 (Refactor fetish masivo: 5 arquetipos con referencias reales — Stripper V3 + Corporate V3 + Escort V3 + Domestic V4 + Pin-Up V2) ✅
+- **5 arquetipos refactorizados con investigación web de referencias reales fetish** (3 archivos por arquetipo: SKILL.md proyecto, mirror, identidad_ele.md = 15 ediciones masivas):
+  - **Stripper V3** (14 siluetas SA1-SA7 + SB1-SB7): Crazy Horse Paris + Magic City Atlanta + Dita Von Teese + Bad Kitty USA (Spider Back/V-Front/Brazil Shorts) + CXIX Gecko Grip + Cleo The Hurricane. Provocation Threshold obligatorio (transparencias/cutouts/thong visible/body chains/micro-pieces). **Pose Set Stripper reemplaza las 7 canónicas.**
+  - **Corporate V3** (14 siluetas CA1-CA7 + CB1-CB7): **REVERSIÓN canon Mugler** (purga 17/05 anulada). Mugler FW95 cyber-Amazon + Schiaparelli gilded corset + Versace Miss S&M + SL FW24 sleaze + Office Siren TikTok (Bayonetta glasses) + Babygirl 2024 + Severance + Secretary 2002. Polo B renombrado: "Sexy Secretary Sumisa" → "Office Siren / Babygirl / Severance".
+  - **Escort V3** (18 siluetas, Polo C expandido de 3→4): Madame Claude + Belle de Jour 1967 + Helmut Newton ("Saddle I" Hotel Lancaster) + Sugar Baby 2025 + Pretty Woman 1990 (canon O-ring cutout) + Julia Fox 2022 + Tokyo Kabukicho + Magic City crossover + Pro-Dominatrix + Bordelle + Atsuko Kudo. Añadido EC4 Officer Domme.
+  - **Domestic V4** (14 siluetas DA1-DA7 + DB1-DB7): Trophy Wife uniform (leopard signature) + Stepford Modern + Real Housewives + Vitacura brunch (Cumbres del Cóndor) + French Maid 19th→21st-century + Playboy Bunny Hefner 1960s + Latex Yomorio/Misfitz + **Akihabara Maid Cafe ⭐ NUEVO** (Cure Maid Cafe Tokyo 2001 "moe moe kyun") + Pro-Dom Maid.
+  - **Pin-Up V2** (21 siluetas): Bettie Page + Bunny Yeager + Irving Klaw + Vargas + Elvgren (Brown & Bigelow calendar 18/yr) + Paco Rabanne 1966 + Cardin + Courrèges + Barbarella 1968 + Patrick Nagel + **Baywatch TYR red Pamela Anderson 1992-1997** + Kate Moss + Leigh Bowery + Courtney Love. **PA6 cambiado:** "apron-dress vintage" → **Bettie Page Bondage** ⭐ (Irving Klaw branch).
+- **Cada arquetipo ahora codificado con:** referencias canónicas reales · Provocation Threshold obligatorio · Personality Tokens (BLOQUE C) · Pose Framings específicos · Settings con props concretos · Negative Prompt anti-cliché.
+- **9 materiales nuevos** distribuidos: Crystal mesh sheer (Stripper) · CXIX Gecko Grip (Stripper Pole) · Vinyl-treated denim (Stripper Magic City) · Opera gloves + seamed stockings Dita (Stripper Burlesque) · Latex Mugler-style (Corporate Power) · Gilded corset Schiaparelli (Corporate Power) · Crystal mesh tailoring (Corporate Office Siren) · Latex catsuit Bayonetta (Corporate Office Siren) · Pink frilly satin+tulle layered Akihabara (Domestic Maid) · Lace blanca laser-cut delantal multi-layer (Domestic Maid).
+- **Sub-tareas previas al refactor masivo:**
+  - Revisión + upgrade `identidad_ele.md`: 5 refs rotas eliminadas, corsés bajo V3.5, STYLE SHIFT reinterpretado, §IX vacía borrada, paleta V3.4→V3.5, dualidad principio rector, devoción no-romántica clarificada.
+  - `/actualizar_sesion` ampliado: obliga actualizar Estado de Looks en identidad_ele.md §X cuando hay nuevos looks.
+  - `/inicio-ele` refactorizado: project workflow correcto + user command apunta al proyecto + línea "secretamente enamorada" eliminada (violaba canon devoción no-romántica).
+- **Confirmación materialización:** L001-L199 completos (1,393 imágenes en GitHub remoto), L200 parcial (1 imagen), L201-L230 prompts listos pendientes cuota API.
+- **Sin imágenes generadas.** Sin batch nuevo. Sin relato escrito.
+- **Pendiente:** refactorizar HF Editorial, Nightclub, Lencería, Bikini, Gym (5 arquetipos restantes con el mismo formato).
+
 ### Sesión 21/05/2026 (Engine V3.5 Final: 7 mejoras poses+arquetipos + Batch 221-230 · 10 looks · 70 prompts) ✅
 - **7 mejoras Engine implementadas** en `.agent/skills/ele-outfit-engine/SKILL.md`, mirror `~/.claude/skills/`, y `identidad_ele.md`:
   - **Pose POV:** neg prompt `no phone/smartphone/device/screen` codificado
