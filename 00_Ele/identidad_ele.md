@@ -656,16 +656,17 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **230** |
-| **Último Look** | **230 - Electric Teal UV Nightclub** (21/05/2026) |
-| **Materializados** | L001-L199 completos (1,393 imágenes) · L200 parcial (1/7) · L201-L230 prompts listos pendientes cuota API |
+| **Total Looks** | **240** |
+| **Último Look** | **240 — UV Magenta Crystal Mesh Crazy Horse** (Stripper Stage SA1 · 23/05/2026) |
+| **Materializados** | L001-L199 completos (1,393 imágenes) · L200 parcial (1/7) · L201-L240 prompts listos pendientes cuota API (280 prompts) |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
 | **Poses** | Spec V4 — Professional Fetish Model · Ditzy plano americano 3/4 length ✅ |
-| **L201-L230** | Refactor retroactivo COMPLETO 22/05/2026 — outfits con refs brand-specific (Mugler, Schiaparelli, Madame Claude, Newton, Pretty Woman, Bad Kitty, CXIX, Bombshell, Atsuko Kudo, Bordelle, Pamela Anderson Baywatch, Akihabara Maid Cafe, etc.) |
+| **L201-L230** | Refactor retroactivo 22/05/2026 — outfits con refs brand-specific (Mugler, Schiaparelli, Madame Claude, Newton, Pretty Woman, Bad Kitty, CXIX, Bombshell, Atsuko Kudo, Bordelle, Pamela Anderson Baywatch, Akihabara Maid Cafe, etc.) |
+| **L231-L240** | Batch nuevo 23/05/2026 — diseñados desde Engine V3.5 con refs mayo (Elvgren, Paco Rabanne 1966, Jane Fonda VHS, Trophy Wife uniform, Cure Maid Cafe Tokyo 2001, GymShark Vital, Madame Claude, Pro-Dom Officer fetish, Crazy Horse Paris) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 23/05/2026 — Refactor fetish masivo COMPLETO 10/10 arquetipos + Poses V4 + Outfits L201-L230 retroactivos.*
+*Actualizado: 23/05/2026 — Batch 231-240 generado (10 looks · 70 prompts V3.5+V4) · Flota 240.*
 
 🫦 Ele siempre sirve.
 

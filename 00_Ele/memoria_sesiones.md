@@ -18,6 +18,24 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 23/05/2026 (Batch 231-240 generado · 10 looks / 70 prompts V3.5+V4 con refs mayo 2026 + cleanup identidad + READMEs automatizados) ✅
+- **Batch 231-240 generado** desde Engine V3.5 con refs mayo 2026 + Poses V4 Professional Fetish Model:
+  - **Pin-Up tri-polo:** L231 PA2 Butter Yellow Housewife Danger (Elvgren) · L232 PB2 Gold Liquid Rabanne Chainmail (Paco Rabanne 1966) · L233 PC3 Electric Cyan 80s Aerobics Glam (Jane Fonda VHS)
+  - **Domestic dual:** L234 DA1 Oxblood Croco Trophy Penthouse (Trophy Wife) · L235 DB3 Baby Pink Akihabara Kawaii Maid (Cure Maid Cafe Tokyo 2001)
+  - **Gym dual:** L236 GA3 Jade Seamless Ribbed Vital (GymShark Vital + Bombshell) · L237 GB1 Charcoal Lavender Crop Hoodie OOD (GymShark Classic IG)
+  - **Escort Haute + Polo C:** L238 EA2 Ruby Red Madame Claude Column (Madame Claude + Newton) · L239 EC4 Bronze Copper Officer Domme (Pro-Dom + Officer fetish)
+  - **Stripper Stage:** L240 SA1 UV Magenta Crystal Mesh Crazy Horse (Crazy Horse Paris topless-illusion)
+- **70 prompts** (10 looks × 7 poses) con BLOQUE A V3.5 + BLOQUE B refs mayo + BLOQUE C V4
+- **Step 0 Anti-Repetición** ejecutado: 10 familias cromáticas distintas, ningún silueta repetida en ventana ≥3
+- **Flota:** 230 → 240. Materialización pendiente cuota API.
+
+**Pre-batch en la misma sesión 23/05:**
+- **identidad_ele.md cleanup V3.5 completo**: Helena → pasado archivado, vestigios góticos eliminados (Rostro Vampírico, alas murciélago, sangre vampiro, vampiresa acecha, calaveras), Complementos/Bottoms/Medias/Calzado/Accesorios reescritos V3.5, calzado unificado (stiletto ≥12cm o Pleaser ≥8")
+- **8 READMEs principales actualizados**: README raíz (210→240 Looks ahora, V3.6→V3.5 Final), 01_Canon (8 guías mayo + legacy/), 02_Personajes (Helena = pasado), 03_Literatura (Cap 2 v1.7.1), 04_Interactivo/06_RRSS/07_Recursos/99_Sistema (fechas)
+- **/actualizar_sesion skill** automatizado: paso 5 reescrito con campos específicos por README (proyecto + user command)
+- **Fix README raíz**: línea 77 simplificada, 39→40 relatos finalizados validado
+- Commits: `f3de12a1` · `78c6547d` · `cdaccd92` (+ batch 231-240 + actualizar_sesion final pendientes)
+
 ### Sesión 22/05/2026 PARTE 5 FINAL (Engine guías mayo 2026 + Refactor retroactivo COMPLETO outfits L201-L230 — 210 prompts) ✅
 - **Engine Escritura ampliado** con 8 guías canónicas mayo 2026 (5 arquitecturas eróticas + guia_terror_erotico + ANÁLISIS_RELATOS_REFERENCIA + ANÁLISIS_ESTILO_LITERARIO). 3 guías abril (cómics x2, videos hipnóticos) movidas a `01_Canon/Guias_Especializadas/legacy/` con README.
 - **Refactor retroactivo COMPLETO outfits L201-L230** (Opción C aprobada):

@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 23/05/2026 — [ADN V3.5 busto 1000cc + Step 0 Anti-Repetición + Poses V4 Professional Fetish Model] — Ele Collection: **230 Looks** · **Refactor fetish masivo COMPLETO 10/10 arquetipos con refs reales mayo 2026** (Mugler, Schiaparelli, Madame Claude, Newton, Pretty Woman, Bad Kitty, Bombshell, Atsuko Kudo, Bordelle, Baywatch, Akihabara Maid Cafe, etc.) 🫦👠👑.*
+*Última actualización: 23/05/2026 — [ADN V3.5 busto 1000cc + Step 0 Anti-Repetición + Poses V4 Professional Fetish Model] — Ele Collection: **240 Looks** (batch 231-240 generado con refs mayo: Elvgren, Paco Rabanne 1966, Jane Fonda VHS, Trophy Wife uniform, Akihabara Maid Cafe, GymShark Vital, Madame Claude, Pro-Dom Officer, Crazy Horse Paris) · **Refactor fetish masivo COMPLETO 10/10 arquetipos con refs reales mayo 2026** 🫦👠👑.*
 
 ---
 
