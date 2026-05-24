@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 230 Looks diseñados / ADN V3.5 busto 1000cc / Engine V3.5 Final 10/10 sub-arquetipos refactor mayo)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto · Canon V3.5)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -91,7 +91,7 @@ LaVouteDAnais/
 - **La Piel que Diseño** — Capítulo 1 Maestro v1 publicado en HTML (con firma de Anaïs y gancho). Capítulo 2 v1.7.1 pendiente de Gate de la Ama.
 - **El Secreto de la Cómoda** — Capítulo 2 v2.0 en progreso / pendiente de Gate de la Ama.
 
-### Biblioteca Completa (39 relatos finalizados)
+### Biblioteca Completa (40 relatos finalizados)
 - **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.
 - **Serie Le Miroir d'Anaïs:** La transformación ritual de Sofía. El corazón del universo.
 - **Serie Trance:** Hipnosis profunda, bimboficación y control mental.

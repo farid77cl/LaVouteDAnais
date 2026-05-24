@@ -27,9 +27,42 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
     - Ejecutar: `python 99_Sistema/scripts/visual/update_galleries.py`.
     - Validar que los `README.md` de las galerías tengan los carruseles actualizados.
 
-5.  **Actualizar READMEs de Repositorio (OBLIGATORIO)**
-    - Actualizar `README.md` raíz con el estado global.
-    - Revisar y actualizar READMEs de carpetas de primer nivel afectadas (`00_Ele`, `04_Historias`, `05_Imagenes`, `99_Sistema`).
+5.  **Actualizar READMEs de Repositorio (OBLIGATORIO — campos específicos)**
+
+    **README.md raíz** (siempre actualizar fecha; stats si cambiaron):
+    - Línea de footer `*Última actualización: [FECHA] — ...*` → fecha de hoy + descripción del hito de la sesión
+    - Bloque `05_Imagenes/` en Estructura del Repositorio → actualizar nº de Looks si la flota creció
+    - Sección `## Relatos > ### Activos` → actualizar versiones/estado de capítulos en progreso si se trabajó en relato
+    - Sección `## Relatos > ### Biblioteca Completa (N relatos)` → actualizar N si se publicó relato nuevo
+
+    **00_Ele/README.md** (siempre actualizar fecha):
+    - Línea `*Última actualización: ...*` → fecha + descripción
+
+    **01_Canon/README.md** (actualizar solo si hubo cambios en canon/guías):
+    - Fecha + breve nota del cambio canónico
+
+    **02_Personajes/README.md** (actualizar solo si hubo cambios en fichas):
+    - Fecha + nº de fichas si creció
+
+    **03_Literatura/README.md** (siempre actualizar si se trabajó en relato):
+    - Fecha en header
+    - Línea `## 🎯 Proyecto Activo Inmediato` → estado del capítulo trabajado
+    - Sección `### 🕒 Últimas Actualizaciones` → añadir entrada con descripción del trabajo
+
+    **04_Interactivo/README.md** (actualizar solo si hubo cambios en Dollhouse u otro interactivo):
+    - Fecha
+
+    **05_Imagenes/README.md** (auto-actualizado por `update_galleries.py` paso 4)
+
+    **06_RRSS/README.md** (actualizar solo si hubo nuevo batch IG / posts):
+    - Fecha + estado del batch
+
+    **07_Recursos/README.md** (rara vez — solo si se añadió referencia externa)
+
+    **99_Sistema/README.md** (actualizar solo si se modificaron scripts):
+    - Fecha + nota de scripts tocados
+
+    **Regla:** la fecha de TODOS los README tocados debe ser la fecha de hoy.
 
 6.  **Respaldo en GitHub**
     // turbo
