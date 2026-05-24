@@ -1,12 +1,13 @@
-# 📐 Arco Argumental v1.0: La Secretaria de su Esposa
+# 📐 Arco Argumental v1.0 (REINICIADO): La Secretaria de su Esposa
 
-> **Sello de Inviolabilidad ACTIVO.** Este documento es ley para todos los agentes subsiguientes. Ningún elemento bloqueado puede modificarse sin Gate explícito de la Ama.
+> **Sello de Inviolabilidad ACTIVO.** Este documento es ley para todos los agentes subsiguientes. Ningún elemento bloqueado puede modificarse sin Gate explícito de la Ama. El tono de los textos debe ser lujurioso, caliente, degenerado y de alta excitación física.
 
 ---
 
-## Premisa
+## Premisa y Justificación Lógica
+Esteban, ex-empresario independiente, quebró de forma espectacular, arrastrando a su familia a deudas bancarias e impositivas impagables, con amenazas inminentes de embargo de la casa y cárcel. Su esposa, Valeria, asociada senior en el bufete *Morales & Asociados*, acude a su jefe y amante secreto, el dominante Gabriel Morales, quien absorbe la deuda millonaria a cambio de un puesto de confianza íntimo. 
 
-Un hombre quebrado por el desempleo acepta la única oferta que su esposa le hace: travestirse y actuar como secretaria en su despacho de abogados, donde el socio que no lo conoce aún terminará por descubrirlo, extorsionarlo y poseerlo ante los ojos fríos y complacidos de la propia esposa.
+Debido a las políticas corporativas tradicionales de la firma (donde Gabriel exige una asistente personal ultra-femenina y sumisa para proyectar poder tradicional), Esteban es forzado por Valeria a asumir el puesto transformado en **Estefanía Rivas**. Valeria, resentida y fría por el fracaso de su marido, asume la tarea sádica y erótica de domesticar su cuerpo y entregárselo a Gabriel para pagar la deuda familiar.
 
 ---
 
@@ -14,151 +15,45 @@ Un hombre quebrado por el desempleo acepta la única oferta que su esposa le hac
 
 **El objeto:** Los stilettos de charol negro de 12cm.
 
-- **Capítulo 1 (apertura):** Valeria obliga a Esteban a arrodillarse sobre la cama matrimonial. Le calza los stilettos de charol negro con manos frías, metódicas. Esteban tiembla de humillación y dolor. Valeria no lo mira a los ojos: sólo ajusta el cierre con una sujeción de propietaria. Esos tacones son el contrato físico que lo convierte en Estefanía.
-- **Capítulo 3 (cierre):** En el escritorio de caoba del despacho de Gabriel, Estefanía se arrodilla *sola*, *voluntariamente*, vistiendo exactamente esos mismos stilettos. Ya no tiembla. Los calza con sus propias manos, con una eficiencia que es la huella definitiva de lo que se perdió. Gabriel observa desde arriba. Valeria, al fondo, cruza las piernas y sonríe sin decir nada.
+- **Capítulo 1 (apertura):** Después de la dolorosa depilación y el tucking, Valeria le calza los stilettos de charol negro a Esteban sobre el piso del baño. Esteban tiembla por el dolor de la pelvis comprimida, la depilación ardiente y el repentino cambio geométrico de su cuerpo de 1.91m sostenido sobre tacones. Valeria no lo mira con piedad: solo ajusta las hebillas con frialdad de propietaria.
+- **Capítulo 3 (cierre):** En el escritorio de caoba de Gabriel, Estefanía se arrodilla *sola* y se calza los stilettos de charol negro con movimientos lúbricos y eficientes. Gabriel la observa desde arriba; Valeria, sentada al fondo cruzando las piernas, sonríe al ver a su esposo convertido definitivamente en una perra sumisa de oficina.
 
 ---
 
 ## Estructura de Actos
 
-### ACTO I: El Contrato — Cap. 1
-Lo que era: un hombre. La deuda. La esposa que ofrece la salida imposible. El primer ritual de feminización en casa. La llegada al despacho como Estefanía. Gabriel ve a una secretaria nueva, levemente extraña, y no le da importancia.
+### ACTO I: El Lienzo y el Contrato — Cap. 1
+La destrucción física del cuerpo masculino en el baño (depilación total con cera, perfilado forzado de cejas, tucking doloroso, colocación de prótesis de silicona pesadas). La puesta de la lencería compresiva de encaje y la falda lápiz. El calvario geométrico del trayecto en el auto de Valeria (el Volvo). La presentación en Morales & Asociados, donde Gabriel escanea clínicamente la anatomía oculta de Estefanía, imponiendo un apretón de manos sádico y dominante.
 
-### ACTO II: La Grieta — Cap. 2
-El descubrimiento. Gabriel revisa un expediente, nota una inconsistencia — una firma, un número de RUT, una voz demasiado grave al teléfono. Confronta a Estefanía a solas. En lugar de repudio, hay encendimiento: Gabriel entiende que tiene poder absoluto. Inicia la extorsión. El doble punto de quiebre físico (junta de directorio + archivadores).
+### ACTO II: La Servidumbre y la Grieta — Cap. 2
+La rutina de oficina bajo el dolor sordo de los tacones y el tucking. El acoso y manoseo físico de Gabriel bajo la mesa del directorio en complicidad silenciosa con Valeria. El descubrimiento formal del expediente de RR.HH por Gabriel y la extorsión directa. El punto de quiebre absoluto contra los archivadores metálicos helados, donde Esteban cede eróticamente ante el olor a colonia y la dominancia masculina de Gabriel.
 
-### ACTO III: La Consagración — Cap. 3
-Ya no hay resistencia que romper porque la resistencia se disolvió sola. Valeria organiza la "sesión final" a puerta cerrada. La rima de los tacones se cierra. Estefanía es entregada y recibida. La masculinidad de Esteban deja de existir como posibilidad real.
-
----
-
-## Capítulos
+### ACTO III: La Consagración Trilateral — Cap. 3
+El vaciamiento definitivo del anterior Esteban. Valeria y Gabriel convocan a Estefanía fuera de horario al bufete vacío. La rima de los tacones se cierra de forma voluntaria. Estefanía es despojada de su ropa de oficina, dejada solo en lencería de encaje y entregada sexualmente a Gabriel ante la mirada complacida y participativa de Valeria.
 
 ---
 
-### Capítulo 1: 👠 El Contrato de Encaje (~3,000 palabras)
+## Capítulos y Compromisos Inviolables
+
+### Capítulo 1: 👠 El Ritual de la Piel y el Contrato (~3,500 palabras)
 
 **Resumen de escenas:**
-1. Apertura en el dormitorio matrimonial: las deudas sobre la mesa, la humillación silenciosa. Valeria le presenta la única solución: el puesto de secretaria en Morales & Asociados (el bufete).
-2. El ritual de feminización completo: faja reductora abrochada hasta el límite del dolor, blusa de oficina entallada, falda lápiz bajo la rodilla, medias de nylon con ligueros. Maquillaje aplicado por Valeria sin ternura — como trabajo de producción.
-3. **El beat de la Rima (apertura):** Valeria saca los stilettos de charol de 12cm. Le indica que se arrodille. Le calza cada uno en silencio. Esteban da sus primeros pasos temblorosos sobre el parqué del dormitorio.
-4. Llegada al bufete Morales & Asociados. Presentaciones frías de Valeria ante el personal. El espacio: madera oscura, archivadores metálicos, cristal templado, silencio de documento reservado.
-5. Primer encuentro con Gabriel Morales, socio senior. Gabriel estrecha la mano de "Estefanía" con firmeza professional. La mira con interés neutro — como se mira a cualquier nueva contratación útil. No sospecha nada.
-6. Cierre del capítulo: Estefanía sola frente al escritorio de secretaría. El susurro del nylon entre sus muslos al caminar. El dolor constante en los metatarsos. La humillación aún no tiene nombre erótico — es sólo derrota.
+1. **La Preparación en el Baño (Inicio):** El relato arranca directamente en el baño matrimonial con la depilación total con cera caliente. El dolor real y excitante de Valeria arrancando el vello de las piernas y el torso de Esteban. El perfilado de cejas con pinzas que suaviza sus facciones.
+2. **El Tucking y el Sostén (Ritual de Compresión):** Valeria le impone el *tucking* (el aplastamiento forzado de sus genitales masculinos con cintas adhesivas y trusas elásticas que borran su masculinidad física entre las piernas). La colocación del sostén de encaje negro de copa armada relleno con prótesis de silicona médica pesadas que caen con gravedad realista sobre su torso.
+3. **La Puesta de la Lencería de Encaje y los Tacones (Sin Látex):** El corsé de satén negro con varillas de acero que asfixia a Esteban y comprime su torso. Valeria le calza los stilettos de 12cm de charol sobre el azulejo del baño. El ardor estático inmediato del metatarso.
+4. **La Humillación del Volvo:** El calvario geométrico de Esteban metiendo su cuerpo de 1.91m en el Volvo bajo de Valeria sin poder abrir las piernas debido a la falda lápiz. La asfixia de la faja de powernet en el tráfico de Vitacura y el miedo a ser visto por los conserjes del subterráneo.
+5. **La Entrada a la Firma y Presentación:** Camila, la recepcionista, los recibe con el trato de "Señora Valeria" (en Chile no se usa "doctora" para abogadas corporativas). Presentación ante Gabriel Morales.
+6. **El Escaneo Clínico y el Apretón:** Gabriel Morales escanea de forma lenta, perversa y forense a la "nueva secretaria". Gabriel nota la caja torácica contenida, los hombros anchos de Esteban bajo la seda, y le estrecha la mano acariciando con su pulgar las uñas grandes pintadas de burdeos de Estefanía, sintiendo su temblor.
 
-**Punto de Inflexión:** El mundo masculino de Esteban queda físicamente encerrado bajo ropa que no es suya. Ya no puede volver a casa sin cruzar primero por Valeria.
+**Punto de Inflexión:** Esteban no puede volver atrás; su cuerpo ha sido depilado, aplastado, vendado y encorsetado bajo lencería femenina rígida de oficina.
 
-**Estado Curva de Rendición:** RESISTENCIA + CONFUSIÓN — 20%
+**Estado Curva de Rendición:** RESISTENCIA (20%) — Tensión y dolor punzante pero con una chispa insoportable de morbo y excitación física.
 
-**📋 COMPROMISOS DEL CAPÍTULO 1 (verificables por el Crítico):**
-- [ ] El ritual de la faja: descripción física de la opresión en el torso, dificultad para respirar profundo, la sensación de ser moldeado.
-- [ ] La Rima narrativa de los stilettos: Esteban arrodillado, Valeria calzando sin ternura, el primer dolor de los metatarsos.
-- [ ] El nylon de las medias: sonido al caminar, temperatura de la tela sobre la piel.
-- [ ] La presentación ante Gabriel: lenguaje corporal de Estefanía (hombros hundidos, pasos cortos), reacción de Gabriel (interés neutro, apretón firme).
-- [ ] Gancho final: soledad de Estefanía en el escritorio. El primer día no terminó — pero algo en él no quiere que termine.
-
----
-
-### Capítulo 2: 🗂️ El Expediente y la Grieta (~3,000 palabras)
-
-**Resumen de escenas:**
-1. Jornada de trabajo de días: Estefanía aprende a moverse en la oficina, a servir café, a pronunciar su nombre nuevo sin dudar. El perfume pesado que Valeria le obliga a usar impregna el despacho.
-2. **Punto de Quiebre 1 — La Junta de Directorio:** Gabriel convoca una reunión formal en la sala principal. Estefanía sirve documentos y toma notas al costado de la mesa de caoba. Gabriel, sin mirar a nadie, desliza la mano por debajo de la mesa y sube por la parte exterior del muslo de Estefanía bajo la falda lápiz. Lento, metódico, exploratorio. Valeria, al otro extremo de la mesa, da vuelta una página sin inmutarse. Estefanía no puede moverse ni reaccionar: la traición del cuerpo sucede allí mismo, muda e involuntaria.
-3. **El Descubrimiento:** Después de la junta, Gabriel revisa el expediente de RR.HH de Estefanía. Encuentra el RUT, la firma que no cierra del todo, una fotografía de archivo. Llama a Estefanía al despacho privado. Cierra la puerta.
-4. La confrontación fría y lúcida de Gabriel: no hay ira, sólo una satisfacción calculada. Le enuncia los términos de la extorsión sin subir la voz: si Esteban/Estefanía no se somete completamente a lo que él decida, dentro y fuera del despacho, revelará la situación a los clientes del bufete y a los acreedores. La ruina financiera de la familia se hará pública. Valeria perderá la firma. Gabriel espera la respuesta con los brazos cruzados.
-5. **Punto de Quiebre 2 — Los Archivadores:** Gabriel no espera la respuesta verbal. Se levanta, camina hasta Estefanía, la gira contra el muro metálico frío de los archivadores. No hay violencia — hay peso, control, el olor de su colonia sobre el perfume floral. Le habla al oído en tono de memo ejecutivo. Estefanía deja de resistir: su cuerpo cede antes que su mente.
-6. Cierre: Estefanía sola en el baño del bufete. Se mira en el espejo con el maquillaje corrido. No llora. Recompone la máscara de Estefanía con movimientos mecánicos — delineador, rubor, labial. Cuando sale, Gabriel sostiene la puerta para ella con cortesía impecable.
-
-**Punto de Inflexión:** Gabriel sabe. Valeria siempre supo. Esteban es el único que acaba de enterarse de que nunca hubo opción.
-
-**Estado Curva de Rendición:** CONFUSIÓN AVANZADA → TRAICIÓN DEL CUERPO — 65%
-
-**📋 COMPROMISOS DEL CAPÍTULO 2 (verificables por el Crítico):**
-- [ ] El perfume floral obligatorio: debe mencionarse al menos dos veces como marca olfativa de dominio de Valeria.
-- [ ] La junta de directorio: la caricia de Gabriel bajo la mesa debe estar narrada con focalización interna estricta — lo que siente Estefanía, no lo que ve el lector desde afuera.
-- [ ] El descubrimiento del expediente: mostrar el detalle exacto que delata la identidad (la inconsistencia debe ser específica y verosímil).
-- [ ] La extorsión: los términos de Gabriel deben sonar profesionales, no amenazantes — la frialdad es más perturbadora que la violencia.
-- [ ] Los archivadores: el frío del metal contra la mejilla, el olor de la colonia, la rendición física sin lucha.
-- [ ] El espejo del baño: la reconstrucción mecánica del maquillaje como símbolo de identidad que ya no se recupera — solo se repara.
-- [ ] Gancho final: Gabriel sostiene la puerta. El gesto de caballero que hace imposible odiarle del todo.
-
----
-
-### Capítulo 3: 🔐 La Consagración (~3,500 palabras)
-
-**Resumen de escenas:**
-1. Apertura: una semana después. Estefanía ya no necesita que le digan cómo caminar. Lo hace sola. El nylon suena igual, los tacones duelen igual, pero el dolor ya no es protesta — es geografía personal.
-2. Valeria cita a Estefanía a la oficina a las 19:30, fuera del horario laboral. El bufete vacío es otro personaje: la oscuridad de las maderas, las luces bajas del despacho principal encendidas.
-3. Valeria y Gabriel están juntos cuando Estefanía entra. Por primera vez en el relato, Valeria y Gabriel se muestran juntos como pareja, sin disimulo. La triangulación se hace visible: Estefanía entiende en ese instante la geometría completa de lo que siempre fue.
-4. Valeria dirige la "sesión" con la misma frialdad organizativa con que dirige una reunión de directorio. Le indica a Estefanía lo que debe hacer. Estefanía ya no pregunta. Ya no busca salida en el rostro de su esposa — no hay nada que encontrar allí que no haya visto ya.
-5. **La Rima de Cierre (beat clave):** Valeria le pide que se arrodille frente a Gabriel. Estefanía lo hace. Lentamente. Luego, con movimientos propios, con sus propias manos, se calza los stilettos de charol negro. Son los mismos del primer día. Nadie tiene que decirle que se los ponga — los pone porque sabe que ese es el gesto que cierra el círculo. Gabriel la observa desde arriba. Valeria tiene las piernas cruzadas y una copa de agua entre las manos.
-6. La consumación explícita: el clímax erótico trilateral. Estefanía entregada física y psicológicamente. La rendición no es colapso — es una entrega que encuentra su propia forma. El cuerpo de Esteban existe ahora solo en los documentos.
-7. Cierre del relato: El bufete vacío otra vez. Estefanía recoge su cartera de secretaria del escritorio. Apaga la luz. Cierra la puerta. Caminando sobre los stilettos en el pasillo vacío, el sonido de sus pasos en el mármol es lo único que queda de él.
-
-**Punto de Inflexión:** La masculinidad de Esteban no fue destruida — fue reemplazada, administrada y archivada.
-
-**Estado Curva de Rendición:** ACEPTACIÓN → PAZ — 100%
-
-**📋 COMPROMISOS DEL CAPÍTULO 3 (verificables por el Crítico):**
-- [ ] La apertura post-semana: mostrar el automatismo de Estefanía — el nylon, los tacones, el olor — como hábito incorporado, no como tormento.
-- [ ] La revelación de la pareja: Valeria y Gabriel juntos, sin disimulo. El momento en que Estefanía comprende la geometría completa.
-- [ ] **La Rima de Cierre OBLIGATORIA:** Estefanía arrodillándose y calzándose sola los stilettos de charol. Este beat no puede faltar ni abreviarse.
-- [ ] La consumación erótica explícita: clímax físico detallado con jerarquía sensorial (Tacto > Vista > Olfato > Sonido > Gusto).
-- [ ] El cierre en el pasillo: el sonido de los stilettos sobre el mármol vacío. La última imagen del relato debe ser sonora, no visual.
-
----
-
-## Timeline de Transformación
-
-| Capítulo | Estado Emocional | Estado Físico | Estado de Rendición |
-|----------|-----------------|---------------|----------------------|
-| 1 | Derrota, humillación sin nombre | Faja, stilettos, nylon — dolor real | RESISTENCIA 20% |
-| 2 | Traición del cuerpo, parálisis psicológica | Manoseo bajo mesa, presión de archivadores | TRAICIÓN DEL CUERPO 65% |
-| 3 | Aceptación, vaciamiento del yo anterior | Consumación físicamente explícita | PAZ 100% |
-
-**Curva de rendición:**
-```
-RESISTENCIA (20%) → CONFUSIÓN + TRAICIÓN DEL CUERPO (65%) → ACEPTACIÓN → PAZ (100%)
-```
-
----
-
-## Clímax
-
-En el Capítulo 3, ante Valeria y Gabriel simultáneamente, Estefanía se arrodilla por voluntad propia y se calza los stilettos de charol. Ese gesto — no lo que viene después, sino ese gesto — es el punto de no retorno. Todo lo sexual que sigue es la confirmación de algo que ya ocurrió en ese silencio.
-
----
-
-## Resolución
-
-**Lo que se perdió:** Esteban — el nombre, el rol, el lugar en la cama matrimonial, la ilusión de que el dinero era el único problema.
-
-**Lo que se ganó:** Estefanía — una identidad funcional, un cuerpo que responde, un lugar definido en una jerarquía que no dejará de existir.
-
-**Lo que es ambiguo:** Si Valeria siempre supo que esto era lo que Esteban necesitaba, o si simplemente encontró la manera de convertir una crisis en una solución que también la complacía a ella.
-
----
-
-## 🔒 Sello de Inviolabilidad
-
-### Elementos BLOQUEADOS (requieren Gate explícito de la Ama para modificar):
-1. El orden de los tres capítulos y sus actos
-2. La Rima Narrativa de los stilettos de charol (apertura Cap. 1 / cierre Cap. 3)
-3. Los nombres: Esteban/Estefanía, Valeria, Gabriel
-4. El escenario: despacho de abogados Morales & Asociados
-5. El mecanismo del descubrimiento: expediente de RR.HH con inconsistencia documental
-6. La extorsión de Gabriel como motor del Capítulo 2
-7. Los dos puntos de quiebre del Capítulo 2 (junta de directorio + archivadores)
-8. La curva de rendición (RESISTENCIA → TRAICIÓN DEL CUERPO → PAZ)
-9. El clímax y la resolución (consagración trilateral explícita)
-10. El cierre sonoro del pasillo en Cap. 3
-
-### Lo que el Escritor PUEDE ajustar sin Gate:
-- Diálogos concretos (respetando tono y jerarquía de poder)
-- Descripciones sensoriales adicionales no especificadas en el arco
-- Orden interno de escenas dentro de cada capítulo (si los COMPROMISOS se cumplen)
-- Detalles de vestuario adicionales al uniforme de secretaria
-- Nombres de clientes o documentos del bufete (decorado funcional)
-
-### Regla de REPUDIO automático para el Crítico:
-> Si el capítulo auditado no cumple **todos** los COMPROMISOS de su sección correspondiente → **REPUDIADO AUTOMÁTICO**, sin importar el puntaje sensorial. Un capítulo brillante que omite la Rima o el beat obligatorio no vale nada.
+**📋 COMPROMISOS DEL CAPÍTULO 1:**
+- [ ] **Depilación y Cejas:** Mostrar el dolor real y el cambio físico del vello arrancado y el delineado de cejas que elimina la rudeza.
+- [ ] **Tucking forzado:** El dolor sordo en los testículos aplastados, la pelvis borrada y lisa bajo la trusa de compresión.
+- [ ] **Lencería de Encaje y Silicona:** El peso de las prótesis oscilando de forma realista en el sostén, las varillas de acero del corsé apretando las costillas y la faja de powernet que frena el diafragma.
+- [ ] **Rima Narrativa (Apertura):** Valeria calzando los stilettos de charol negro de 12cm en el piso del baño.
+- [ ] **La Humillación del Volvo:** Dificultad física extrema para sentarse y viajar en el auto con las rodillas juntas y la faja clavándose en la cintura.
+- [ ] **Presentación ante Gabriel:** Trato chileno corporativo ("Señora Valeria", "bufete de Vitacura"). El escaneo visual de 5 segundos de Gabriel sintiendo los tendones de Esteban y acariciando el esmalte rojo.
+- [ ] **Gancho final:** Estefanía sola en el escritorio sintiendo el nylon rozar y el dolor de la pelvis y pies. La certeza inexplicable de no querer que la derrota termine.

@@ -656,17 +656,18 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **240** |
-| **Último Look** | **240 — UV Magenta Crystal Mesh Crazy Horse** (Stripper Stage SA1 · 23/05/2026) |
-| **Materializados** | L001-L199 completos (1,393 imágenes) · L200 parcial (1/7) · L201-L240 prompts listos pendientes cuota API (280 prompts) |
+| **Total Looks** | **260** (highest number · 177 únicos en archivo · gaps L047-L084 archivados) |
+| **Último Look** | **260 — Charcoal Sheer Office Siren Classic** (Corporate CB1 · 23/05/2026 PM) |
+| **Materializados** | L001-L199 completos (1,393 imágenes) · L200 parcial (1/7) · L201-L260 prompts listos pendientes cuota API (420 prompts) |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
 | **Poses** | Spec V4 — Professional Fetish Model · Ditzy plano americano 3/4 length ✅ |
 | **L201-L230** | Refactor retroactivo 22/05/2026 — outfits con refs brand-specific (Mugler, Schiaparelli, Madame Claude, Newton, Pretty Woman, Bad Kitty, CXIX, Bombshell, Atsuko Kudo, Bordelle, Pamela Anderson Baywatch, Akihabara Maid Cafe, etc.) |
-| **L231-L240** | Batch nuevo 23/05/2026 — diseñados desde Engine V3.5 con refs mayo (Elvgren, Paco Rabanne 1966, Jane Fonda VHS, Trophy Wife uniform, Cure Maid Cafe Tokyo 2001, GymShark Vital, Madame Claude, Pro-Dom Officer fetish, Crazy Horse Paris) |
+| **L231-L240** | Batch 23/05/2026 AM — diseñados desde Engine V3.5 con refs mayo (Elvgren, Paco Rabanne 1966, Jane Fonda VHS, Trophy Wife uniform, Cure Maid Cafe Tokyo 2001, GymShark Vital, Madame Claude, Pro-Dom Officer fetish, Crazy Horse Paris) |
+| **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 23/05/2026 — Batch 231-240 generado (10 looks · 70 prompts V3.5+V4) · Flota 240.*
+*Actualizado: 23/05/2026 PM — Batch 241-260 generado (20 looks · 140 prompts V3.5+V4.1 SAFE) · Flota L260. POV/Ditzy fix V4.1 anti-filter + anti-multi-hand aplicado retroactivo L200-L240 (82 prompts).*
 
 🫦 Ele siempre sirve.
 
@@ -695,8 +696,8 @@ Las 7 poses reglamentarias con dirección **professional fetish model** (Spec V4
 2.  **Back View — Fetish Model Back:** booty-pop exagerado (hip thrust back, ass-out), S-curve spine, una mano en hip con XXXL nails fanned, otra reaching through hair o on nape, looking over shoulder predatory, pigeon-toe heel signature.
 3.  **Seated View — Fetish Model Seated:** knee-over-knee exagerada con top stiletto al camera, lumbar arch (no leaning), bust angled forward, una mano on top knee finger trailing inner thigh, otra cradling jaw o fingertip on lip. *(variante por arquetipo — ver Engine V3.5)*
 4.  **Side Profile — Fetish Model Profile:** low angle hip-level, lumbar arch + chest thrust simultáneos (ambos extremos), pierna doblada forward stiletto pointed, mano sliding hip-thigh.
-5.  **Ditzy — PLANO AMERICANO (CAMBIO V4):** **OBLIGATORIO 3/4 length (knee-up o mid-thigh-up)** — NUNCA close-up extremo. Fetish-model posture lumbar arch + hip jutted, XXXL fingertip pressed against bottom lip o entre dientes, otra mano sliding ribcage to hip, vacant ditzy expression eyes half-lidded + mouth parted tongue-tip. **Outfit completo legible en frame.**
-6.  **POV — Fetish Model Bimbo Selfie:** half-body a mid-thigh, una mano hacia lens XXXL nails sharp foreground, otra cupping breast o sliding sternum, pouty parted lips tongue-tip, half-lidded predatory direct gaze. **NEGATIVE PROMPT ADICIONAL:** `no phone, no smartphone, no device, no screen, no camera in hand`.
+5.  **Ditzy — PLANO AMERICANO V4.1 SAFE (Anti-filter):** **OBLIGATORIO 3/4 length (knee-up o mid-thigh-up)** — NUNCA close-up extremo. Editorial fashion-model posture lumbar arch + hip jutted. **UNA sola mano visible** (XXXL fingertip resting gently against chin o bottom lip), **la otra mano descansa al cuerpo at hip** (NO sliding ribcage — evita confusión multi-mano). **Soft daydreaming expression** eyes slightly unfocused + lips softly parted glossy (evita "vacant bimbo / tongue-tip" — disparan filtros). Outfit completo legible. **NEGATIVE PROMPT ADICIONAL:** `extra hands, multiple hands, three hands, four hands, duplicate hands, six fingers, extra fingers, malformed hand, deformed hand`.
+6.  **POV — Fetish Model V4.1 SAFE (Anti-filter + Anti-multi-hand):** Medium close-up bust-up to face from low angle 30°. Fashion model holding smartphone camera at arm's length slightly above eye level con **SINGLE right hand only** (XXXL French nails fingertips spread sharp foreground · only ONE visible hand · the other arm rests fully out of frame below waist). Pouty glossy lips parted softly + confident direct gaze. Removidos triggers de filtro: NO "cupping breast", NO "vacant bimbo stare", NO "tongue-tip visible". **NEGATIVE PROMPT ADICIONAL:** `no phone, no smartphone, no device, no screen, no camera in hand, extra hands, multiple hands, three hands, four hands, duplicate hands, six fingers, extra fingers, malformed hand, deformed hand`.
 7.  **Odalisque — Fetish Model:** lying on side S-curve exagerada, back arch extreme + hip rolled back, una pierna stiletto pointed at camera otra bent stiletto digging surface, una mano XXXL nails in hair, otra sliding collarbone-to-hip across body, half-lidded predatory gaze.
 
 ### 5. Flujo de Trabajo

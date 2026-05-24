@@ -18,7 +18,28 @@
 
 ## 🧿 ESTADO ACTUAL
 
-### Sesión 23/05/2026 (Batch 231-240 generado · 10 looks / 70 prompts V3.5+V4 con refs mayo 2026 + cleanup identidad + READMEs automatizados) ✅
+### Sesión 23/05/2026 PM (POV/Ditzy V4.1 SAFE anti-filter + Batch 241-260 · 20 looks · 140 prompts + stats reales) ✅
+- **Bug urgente resuelto V4.1 SAFE:** POV+Ditzy rechazados por filtros + POV 3-4 manos.
+  - POV V4.1: SINGLE right hand only + OTHER arm out of frame + removidos "cupping breast"/"vacant bimbo"/"tongue-tip"
+  - Ditzy V4.1: "vacant bimbo expression" → "soft daydreaming" + "tongue-tip" → "lips softly parted"
+  - Neg expandido: extra hands, three hands, four hands, malformed hand, etc.
+  - 82 prompts retroactivos arreglados (L200-L240)
+- **Batch 241-260 generado** (20 looks · 140 prompts V3.5+V4.1 SAFE):
+  - Gym 3 (Coral Tangerine GA4 · Acid Lime GA5 Sommer Ray · Pearl White Tennis GB4)
+  - Nightclub 3 (Forest Magda Butrym · Hot Magenta Lindsay Lohan Y2K · Mirror Silver Bottega Cage)
+  - Escort 3 (Emerald Sugar Baby EA5 · Hot Pink Kabukicho EB7 · Black Chrome Bordelle EC2)
+  - Domestic 2 (Burgundy Yoga Trophy DA5 · Champagne Playboy Bunny DB4)
+  - Stripper 2 (Holographic Bad Kitty SB3 · Acid Yellow Magic City SA5)
+  - Pin-Up 2 (Mint Lana Turner PA4 · Electric Blue Madonna PB5)
+  - Lencería 1 (Blush La Perla LA5)
+  - Bikini 1 (White Gold Lybethras BA6)
+  - HF Editorial 1 (Deep Teal Schiaparelli SS26 scorpion)
+  - Corporate 2 (Navy Schiaparelli CA2 · Charcoal Office Siren CB1)
+- **Regla gloves/choker ocasional aplicada:** 30% gloves, 25% chrome ELE (resto = accesorios contextuales: pearls 40s, O-ring Kabukicho, chrome cuffs Bottega, ribbon Y2K, gold pendant Office Siren)
+- **Step 0 Anti-Repetición:** 20 familias cromáticas distintas
+- **Stats reales generadas:** 177 looks únicos (no 240/260), rango L046-L260 con 38 gaps. Déficit top: HF Editorial −11, Gym −11, Bikini −9, Lencería −7.
+
+### Sesión 23/05/2026 AM (Batch 231-240 generado · 10 looks / 70 prompts V3.5+V4 con refs mayo 2026 + cleanup identidad + READMEs automatizados) ✅
 - **Batch 231-240 generado** desde Engine V3.5 con refs mayo 2026 + Poses V4 Professional Fetish Model:
   - **Pin-Up tri-polo:** L231 PA2 Butter Yellow Housewife Danger (Elvgren) · L232 PB2 Gold Liquid Rabanne Chainmail (Paco Rabanne 1966) · L233 PC3 Electric Cyan 80s Aerobics Glam (Jane Fonda VHS)
   - **Domestic dual:** L234 DA1 Oxblood Croco Trophy Penthouse (Trophy Wife) · L235 DB3 Baby Pink Akihabara Kawaii Maid (Cure Maid Cafe Tokyo 2001)
