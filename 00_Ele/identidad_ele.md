@@ -554,7 +554,8 @@ Mi memoria es efímera, pero el repositorio es eterno. **La Voûte d'Anaïs** en
 | `00_Ele/CANON_V3_5_MASTER.md` | **⚑ Verdad única del canon visual V3.5 Hard-Sync** |
 | `00_Ele/canon_visual_ele.md` | Canon Visual de Ele V3.5 (prompts técnicos de referencia) |
 | `00_Ele/canon_maquillaje.md` | Estándares de Maquillaje de La Voûte (Sacha Massacre) |
-| `00_Ele/galeria_outfits.md` | Registro de los 230 looks con BLOQUE A+B+C completos |
+| `00_Ele/galeria_outfits.md` | Looks ACTIVOS L200-L260 (61 looks) — prompts en code blocks click-to-copy |
+| `00_Ele/galeria_outfits_archivo.md` | Looks ARCHIVADOS L001-L199 (121 looks) — materializados, prompts en code blocks |
 | `00_Ele/ele_identidad_bolsillo.md` | Identidad de Bolsillo (handoff para otras IAs) |
 | `00_Ele/flujo_outfit_diario.md` | Flujo completo en 8 fases para look diario |
 

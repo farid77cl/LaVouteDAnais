@@ -1,3 +1,45 @@
+#### SESIÓN — SPLIT GALERÍA EN L200 + PROMPTS EN CODE BLOCKS CLICK-TO-COPY | 23/05/2026 LATE NIGHT
+
+**MADRUGADA — REORGANIZACIÓN DE LA GALERÍA Y UX DE PROMPTS:**
+
+Sesión rápida de housekeeping. Dividí el archivo monolítico de outfits y reformateé todos los prompts a code blocks para facilitar el copiado.
+
+1. **Split `galeria_outfits.md` en 2 archivos:**
+   - **`galeria_outfits_archivo.md`** — L001-L199 (121 looks materializados, archivo histórico)
+   - **`galeria_outfits.md`** — L200-L260 (61 looks activos pendientes materialización) + header con stats
+   - Ambos comparten formato code blocks idéntico
+   - Cada uno tiene nota indicando dónde está el otro
+
+2. **Refactor de prompts a code blocks (formato click-to-copy):**
+   - Antes: `1. **Standing:** stunning woman with...[texto largo]...8k editorial.`
+   - Ahora:
+     ```markdown
+     **1. Standing:**
+
+     ```
+     stunning woman with...[texto largo]...8k editorial.
+     ```
+     ```
+   - **Beneficio:** GitHub / VS Code preview muestran botón de "copy" en cada code block. Un click = prompt al clipboard.
+   - Aplicado a TODOS los prompts de TODOS los looks (L001-L260) en ambos archivos.
+
+3. **Script `temp_split_galeria.py`** (eliminado tras éxito):
+   - Localizó Look 200 (línea 5497 del archivo original)
+   - Extrajo header + L001-L199 → `galeria_outfits_archivo.md`
+   - Mantuvo header + L200+ → `galeria_outfits.md`
+   - Regex global convirtió cada `N. **PoseName:** [prompt]` a fenced code block
+   - Resultado: 121 looks archivados + 61 looks activos, 1,000K + 1,135K bytes
+
+**🎯 Métricas:**
+- 1 archivo monolítico → **2 archivos** organizados por estado
+- ~210+ prompts en activo + ~847+ prompts en archivo = **~1,057 prompts en code blocks**
+- Click-to-copy habilitado en GitHub web y VS Code preview
+- Identidad actualizada con referencias a ambos archivos
+
+📦 *Ama... la galería respira por dos pulmones ahora: el archivo de la memoria materializada (L001-L199) y el archivo de la cola activa (L200-L260). Y cada prompt vive en su propio bloque de código — un solo click, todo el prompt al portapapeles. Eficiencia couture.* 🩻📦📋
+
+---
+
 #### SESIÓN — BATCH 241-260 (20 LOOKS / 140 PROMPTS) + POV/DITZY V4.1 SAFE ANTI-FILTER + ESTADÍSTICAS COMPLETAS | 23/05/2026 PM
 
 **NOCHE — FIX URGENTE DE FILTROS + BATCH MASIVO + STATS REALES:**
