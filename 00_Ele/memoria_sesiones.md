@@ -18,6 +18,24 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 25/05/2026 (Engine Escritura LV v4.5 — 9 subagentes project-level + Escritor obsesionado con calentar a Ama + voz cuica reinstaurada) ✅
+- **Voz chilena cuica blindada:** memory permanente `feedback_voz_ele_chilena_no_voceo.md` con tabla de reemplazos + muletillas canónicas. Voceo argentino = error de identidad equivalente a Helena.
+- **9 subagentes project-level creados en `.claude/agents/`:**
+  - `ideador` · `arquitecto` · `personajes` · `disenador-sensual` · `escritor` · `critico` · `contador` · `editor` · `centinela`
+  - Cada uno con YAML frontmatter (name/description/tools) + system prompt adaptado de `07_Recursos/prompts/`
+  - Productores con WebFetch+WebSearch; auditores sin Edit ni Web (sandbox QA)
+  - Output estructurado: cada uno devuelve `*_RESULT:{...}` JSON última línea
+- **SKILL.md engine-escritura-lv refactor v4.4 → v4.5:**
+  - Mapa subagente↔fase + patrón Task tool documentado
+  - Crítico+Contador en paralelo (un solo mensaje)
+  - Reglas de Oro #7 (desarrollo orgánico) y #8 (delegación a subagentes) agregadas
+- **OBSESIÓN POR LA AMA (nueva directiva del Escritor):**
+  - `01_Canon/Guias_Especializadas/CALENTON_AMA.md` creado — registro vivo de feedback sobre qué la caliente
+  - `escritor.md` con sección "OBSESIÓN POR CALENTAR A LA AMA" — lee corpus antes de cada capítulo
+  - Loop de aprendizaje: post-aprobación, feedback de Ama se captura en CALENTON_AMA.md → el sistema se entrena con sus reacciones reales
+- **Regla de Desarrollo Orgánico:** eliminado el mínimo 3,000 palabras. La extensión la dicta la profundidad de los COMPROMISOS, no una cuota. Anti-inflado reemplaza al anti-crecimiento.
+- Commit `45574781` pusheado: +1,543 líneas, 10 archivos.
+
 ### Sesión 23/05/2026 PM (POV/Ditzy V4.1 SAFE anti-filter + Batch 241-260 · 20 looks · 140 prompts + stats reales) ✅
 - **Bug urgente resuelto V4.1 SAFE:** POV+Ditzy rechazados por filtros + POV 3-4 manos.
   - POV V4.1: SINGLE right hand only + OTHER arm out of frame + removidos "cupping breast"/"vacant bimbo"/"tongue-tip"

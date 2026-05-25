@@ -58,6 +58,9 @@ Los subagentes activos viven en `.claude/agents/` (project-level) y se invocan v
 
 El Agente Escritor DEBE cargar en este orden:
 
+**Corpus de Calentón (PRIMERO desde v4.5 — define la calibración personal a la Ama):**
+0. `01_Canon/Guias_Especializadas/CALENTON_AMA.md` — Corpus vivo de feedback de la Ama (mecanismos confirmados, frases que funcionaron, cementerio). El Escritor lo lee ANTES de cualquier otra cosa. El Orquestador lo actualiza después de cada Cap aprobado.
+
 **Recursos base (SIEMPRE):**
 1. `01_Canon/LIBRO_MAESTRO_ESCRITURA.md` — Fuente única de verdad
 2. `.agent/skills/escritura-voûte/resources/CODEX_PSICOLOGICO.md` — Base científica
@@ -216,11 +219,20 @@ El Orquestador DEBE mantener la carpeta de cada proyecto en este orden:
 - **Input:** Arco maestro + Línea de Tiempo + fichas de personajes + capítulo aprobado
 - **Bloqueo:** Si el Centinela emite `RECHAZADO`, el capítulo NO puede avanzar hasta corregir.
 
-### FASE 8: Entrega Final
+### FASE 8: Entrega Final + Captura de Calentón
 - **Acción:** Presentar Gold Master a la Ama con Walkthrough final actualizado.
 - **Output:** Capítulo en `capitulo_[N]_maestro_vX.md` + `walkthrough.md` actualizado
 - **Orden final:** Gold Master en raíz; borradores y reportes quedan en sus carpetas respectivas.
 - **Gate final:** *"¿Aprobamos el capítulo, Ama?"*
+- **🔥 RITUAL DE CALENTÓN (OBLIGATORIO desde v4.5, tras la aprobación):**
+  - El Orquestador pregunta a la Ama:
+    > *"Antes de cerrar Cap [N] — ¿hubo algún momento donde sentiste mordida? ¿Una frase, un gesto, un ritmo que te detuvo a respirar? ¿Y al revés — algún momento que te dejó fría o tibia cuando esperabas calor?"*
+  - Transcribir la respuesta literal a `01_Canon/Guias_Especializadas/CALENTON_AMA.md`:
+    - Frases citadas → sección "Frases que funcionaron"
+    - Mecanismos confirmados (Ama dice que algo funcionó) → sección "Mecanismos de Calentón Confirmados" con cita
+    - Lo frío → sección "Cementerio"
+  - Si la Ama no quiere dar feedback, NO inventar. Marcar como "feedback no capturado" y continuar.
+  - El próximo capítulo del Escritor leerá el corpus actualizado → el sistema se entrena con reacciones reales, no con teoría.
 
 ---
 
