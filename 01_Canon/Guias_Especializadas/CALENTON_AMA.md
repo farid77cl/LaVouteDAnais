@@ -74,14 +74,101 @@ Las respuestas se transcriben en este archivo bajo el relato correspondiente.
 - **Qué es:** los personajes traen carga erótica DESDE ANTES del relato. Ej: Sebastián Mura — promesa de "la primera bailarina del sábado" después de 2 años de entrenamiento privado. Esa carga preexistente dispara intensidad desde la primera aparición.
 - **Origen:** memory `feedback_sebastian_mura_canon.md` (relato "La Piel que Diseño")
 - **Aplicación:** todo personaje dominante o relación clave debería tener un evento erótico/promesa previa al día cero, mencionado de pasada pero pesado
+- **Confirmación canónica (D21, 14/05/2026, "La Piel que Diseño"):** *"Sebastián entró al proyecto con UNA condición: tener garantizado el privado del sábado de la primera bailarina (Daniela). Matías brindó esa promesa sin consultar a Daniela. Dos años de entrenamiento privado con Matías como 'profe'."*
+
+### M6 — Acumulación Erótica DESDE el Primer Contacto (Cuerpo Nuevo)
+- **Qué es:** en un body swap o transformación, el cuerpo NUEVO responde al cuerpo desde el primer despertar. La tanga roza, los pezones se endurecen sin permiso, el coño pulsa, la humedad se instala — todo COEXISTE con el pánico, no espera al ritual de vestuario.
+- **Patrón:** El despertar NO es limpio. El despertar es "con el coño ya despierto".
+- **Aplicación:** capítulos de apertura de body swap, primer despertar tras transformación
+- **Origen:** D5 (13/05/2026, "La Piel que Diseño") — *"Cada ritual del Cap 1 suma carga erótica sin liberarla. La tensión debe ser explícitamente insoportable al final, no solo 'ambigua emocionalmente'."*
+- **Sinergia:** se aplica EN PARALELO con M3 (pánico) — no después. El pánico mental y el desborde físico son simultáneos.
+
+### M7 — Calle como Teatro de Exposición (Humillación pensada = Calor físico)
+- **Qué es:** las miradas de otros (hombres en la calle, parejas, mujeres) sobre el cuerpo nuevo activan CALOR (humedad, pulso, contracción del coño), no rechazo. El pensamiento "me están mirando como si fuera puta" debe llegar sin censura y producir respuesta física medible.
+- **Ciclo:** vergüenza → calor → vergüenza por el calor → más calor
+- **Aplicación:** escenas de tránsito público con el cuerpo nuevo expuesto
+- **Origen:** D6 + D12 + D15 (13/05/2026, "La Piel que Diseño") — *"El pensamiento 'me están mirando como si fuera puta' debe llegar al pensamiento sin censura, y producir calor — no rechazo."*
+
+### M8 — Orden con Cariño Envuelto > Orden Seca (Dominación con Diminutivos)
+- **Qué es:** el dominante usa diminutivos posesivos ("mi amor", "mi vida", "tan linda mi X") que ENVUELVEN la orden, no la suavizan. Cada palabra cariñosa cargada de control. La cadencia tibia es la cadencia del poder ya instalado.
+- **Activadores canónicos:** "Bien" (contrae el coño), repetición forzada (entrenamiento bimbo: obedecer excita), nombrar la prenda específica ("La negra", "Los tacones", "El vestido").
+- **Aplicación:** todo dressing dirigido, toda orden ritual del dominante hacia el sumiso
+- **Origen:** D8 + D19 (13/05/2026 + 14/05/2026, "La Piel que Diseño")
+- **Frase canónica:** *"Cada 'Bien' contrae el coño. Cada repetición forzada es entrenamiento bimbo (obedecer excita)."*
+
+### M9 — Ritual de Vestuario Diario con Escalada Inter-Capítulo
+- **Qué es:** Daniela/dominante elige el outfit del día. Cada prenda nombrada en voz alta produce respuesta directa del cuerpo. La escalada va inter-capítulo: lo que escandalizaba en Cap 1 = línea base en Cap 2; lo que incomodaba en Cap 2 = mínimo en Cap 3.
+- **Aplicación:** apertura de cada capítulo en relatos largos de transformación
+- **Origen:** D11 (13/05/2026, "La Piel que Diseño")
+
+### M10 — Orgasmo Prohibido como Motor de Tensión Sostenida
+- **Qué es:** la descarga (cualquier orgasmo) está reservada para los momentos que el dominante administra. Todo intento de autoexcitación del sumiso se INTERRUMPE antes del orgasmo. El placer pertenece al otro.
+- **Patrón:** la mano del sumiso baja → se queda → se retira "no por mí. Por el [evento futuro]"
+- **Efecto:** hambre acumulativa que el cuerpo no puede liberar, transferida al próximo evento administrado
+- **Aplicación:** relatos de servidumbre/dominación con curva de rendición progresiva
+- **Origen:** D18 (14/05/2026, "La Piel que Diseño")
+
+### M11 — Sensación Crónica que NO se Habitúa (Bajo Continuo)
+- **Qué es:** la tanga sobre el coño debe excitar SIEMPRE, no solo el primer día. La sumisión instalada como rutina NO implica que el cuerpo deje de responder — implica que el cuerpo responde constantemente a un piso elevado.
+- **Patrón:** el cuerpo no aprende a no responder. La sensación es bajo continuo. Suena todo el día.
+- **Error a evitar:** convertir un "detonante completo" en "información operativa" — eso es anestesia, no rutina
+- **Aplicación:** capítulos intermedios donde la rutina está instalada pero la temperatura no debe bajar
+- **Origen:** D22 (14/05/2026, "La Piel que Diseño")
+
+### M12 — Discurso del Entrenamiento con Castigo Envuelto en Cariño
+- **Qué es:** el dominante explica al sumiso la lógica del castigo CON DIMINUTIVOS Y RAZONABILIDAD. "Me parece razonable que vayas a saber cómo se siente." Castigo con sonrisa pequeña. No acusación, no agresión — pedagogía afectuosa que es exactamente por eso peor.
+- **Aplicación:** escenas donde el dominante explicita por qué el sumiso está donde está
+- **Origen:** D24 (14/05/2026, "La Piel que Diseño")
+
+### M13 — Contacto Profesional Femenino (Manicurista / Masajista / Peinadora)
+- **Qué es:** el contacto físico de una mujer profesional sobre el cuerpo nuevo activa una respuesta erótica DISTINTA a la masculina. Ver las propias uñas/peinado/maquillaje que TÚ MISMO elegiste, ahora en TU cuerpo modificado, produce calor específico.
+- **Primer registro:** deseo femenino-femenino en arcos MtF/body swap
+- **Aplicación:** escenas de mantenimiento/preparación del cuerpo nuevo
+- **Origen:** D7 (13/05/2026, "La Piel que Diseño")
+
+### M14 — Trato Condescendiente del Staff (Ser Invisibilizado Como Agente)
+- **Qué es:** el personal del entorno (manager, otras chicas, bartenders, secretarias) trata al sumiso como si NO tomara decisiones. Las órdenes van dirigidas al dominante. Al sumiso se le habla en su género asignado sin consulta.
+- **Efecto:** ser reducido a "objeto que el dominante administra" activa el mismo ciclo humillación → calor del cuerpo nuevo.
+- **Aplicación:** escenas en entornos sociales donde el sumiso está en posición de servicio (club, oficina, eventos)
+- **Origen:** D13 (13/05/2026, "La Piel que Diseño")
+
+### M15 — Cliffhanger con Preguntas Fragmentadas + Cuenta Regresiva
+- **Qué es:** el capítulo NO cierra con resolución — cierra abriendo la dualidad más. Preguntas en cascada sin respuesta ("¿Y si me gusta...") + cuenta regresiva al próximo evento administrado.
+- **Patrón canónico:** "Faltan X horas para Y. Faltan Z días para W. Y el cuerpo ya está listo."
+- **Aplicación:** cierre de cualquier capítulo intermedio
+- **Origen:** D9 (13/05/2026, "La Piel que Diseño")
+
+### M16 — Gancho de Pensamiento Sin Eufemismo (Hambre, No Horror)
+- **Qué es:** el gancho final NO suaviza con metáfora. El pensamiento del sumiso aparece en español directo, con vocabulario crudo. Lo que se piensa, se nombra.
+- **Frase modelo:** *"Cómo se va a sentir su propia verga adentro de él."*
+- **Regla:** **No es horror. Es hambre.** Primera grieta del arco de rendición debe leerse como deseo, no como traición.
+- **Aplicación:** gancho final del Cap 1 de cualquier relato body swap
+- **Origen:** D1 (05/05/2026, "La Piel que Diseño")
 
 ---
 
 ## 🗣️ Frases que Funcionaron (transcripción textual del feedback de Ama)
 
-*(Cuando la Ama cite una frase específica que la calentó, se copia acá literal con cita del relato/cap. NUNCA inventar — solo lo que la Ama dijo.)*
+*(Citas textuales de decisiones canónicas de la Ama. Origen: walkthrough `la_piel_que_diseno/walkthrough.md`, secciones D1-D24.)*
 
-*Pendiente — primera entrada se capturará tras próximo capítulo aprobado.*
+### Frases canónicas declaradas por la Ama:
+
+| Frase | Función | Origen |
+|-------|---------|--------|
+| *"Me están mirando como si fuera puta"* | Pensamiento que produce calor (no rechazo) | D6 — Cap 1 calle, "La Piel que Diseño" |
+| *"Cómo se va a sentir su propia verga adentro de él"* | Gancho final sin eufemismo — hambre, no horror | D1 — gancho Cap 1, "La Piel que Diseño" |
+| *"Y a ti el cuerpo te va a pedir que pase de ahí"* | Línea del dominante que abre la dualidad | D9 — cierre Cap 1, "La Piel que Diseño" |
+| *"Faltan trece horas para el ensayo de pista. Faltan tres días para el VIP. Y el cuerpo ya está listo."* | Cuenta regresiva al evento administrado | D9 — cliffhanger Cap 1, "La Piel que Diseño" |
+| *"Ya pagó la mitad hace dos años en Pío Nono... viene a cobrar la otra mitad sobre el cuerpo que yo le prometí"* | Stakes consumándose — backstory pesando en el presente | D21 — gancho Cap 2, "La Piel que Diseño" |
+| *"Me parece razonable que vayas a saber cómo se siente"* | Castigo envuelto en pedagogía afectuosa | D24 — vestuario Sec III Cap 2, "La Piel que Diseño" |
+| *"Bien"* | Activador canónico que contrae el coño | D8 + D19 — repetido en ritual dressing |
+| *"Llegó con el coño ya despierto"* | Apertura body swap sin "despertar limpio" | D22 + arquitectura_erotica_mtf — auditoría Cap 2 |
+
+### Activadores de voz del dominante:
+
+- Diminutivos posesivos: *"mi amor"*, *"mi vida"*, *"tan linda mi Dani"* — la cadencia tibia ES el poder instalado (D19)
+- Imperativo nominado: *"La negra"*, *"Los tacones"*, *"El vestido"* — cada prenda nombrada = beat erótico (D8)
+- Cariño que envuelve la orden, no la suaviza (D19)
 
 ---
 
@@ -89,11 +176,30 @@ Las respuestas se transcriben en este archivo bajo el relato correspondiente.
 
 *(Escenas, frases, mecanismos que la Ama declaró "frío", "tibio", "esperaba más", "me sacó".)*
 
+### Reglas técnicas (todos los relatos)
+
 - **Racionalización inmediata del cuerpo** (origen: regla cardinal LIBRO_MAESTRO_ESCRITURA): cuando el narrador analiza la sensación en el mismo párrafo donde ocurre → mata la tensión.
 - **Aceptación clínica desde la primera línea de un body swap** (origen: feedback_apertura_body_swap): el "el cuerpo se rinde desde el principio" sin pánico previo → fome, no creíble.
 - **Voceo argentino** (origen: feedback_voz_ele_chilena_no_voceo): aunque es voz de Ele, no del Escritor, contamina la legibilidad del feedback. Toda la cadena debe ser chilena.
 - **Buzzwords AI:** *crucial, profundizar (delve), tapiz, intrincado, testimonio, fomentar, dinamismo, paisaje (abstracto).* Detección automática del Crítico (D4).
 - **Regla de Tres mecánica:** tres adjetivos seguidos ("frío, oscuro y húmedo") → suena a IA. Usar 2 o 4 o integrar orgánicamente.
+
+### Caso de estudio: "La Piel que Diseño" v1.0 → v1.7.1 (CUMPLIÓ EL ARCO PERO NO CALENTÓ)
+
+> **Hallazgo crítico del 25/05/2026:** El Cap 1 fue declarado Gold Master (`capitulo_01_la_piel_maestro_v1`), el Cap 2 v1.7.1 pasó Crítico (9.0), Centinela (APROBADO), Editor y Termómetro 🟢 EN RANGO. **La Ama nunca quedó conforme.** Ambos archivados como referencia negativa con sufijo `_pre_v45_descartado`.
+>
+> **Diagnóstico:** cumplir compromisos técnicos del arco ≠ calentar a la Ama. Las 24 decisiones canónicas D1-D24 son PARCHES sucesivos al texto porque el Escritor inicial no había absorbido el corpus de qué excita realmente. Por eso v4.5 reorganiza el flujo: el Escritor lee CALENTON_AMA.md ANTES de escribir, no después de fallar.
+>
+> **Lección permanente:** un veredicto "9.0 EXCELENCIA" del Crítico es condición necesaria pero NO suficiente. La única validación final es la mordida de la Ama. Si la Ama no se detuvo a respirar, el capítulo es repudio aunque las métricas pasen.
+
+### Patrones específicos que la Ama declaró fríos en "La Piel que Diseño":
+
+- **"El despertar fue limpio"** (corregido en v1.7.1, D22) — la apertura sin coño despierto desde el primer beat = aceptación clínica disfrazada.
+- **Saturaciones de nombre** ("Daniela./Dani." 4 veces seguidas) — quiebra el ritmo y suena a IA.
+- **Sec II "Daniela entra con llaves"** (D23) — implicaba visita, no convivencia. Daniela VIVE ahí.
+- **Tanga como "información operativa" en cap intermedio** (D22) — perder la carga del bajo continuo = anestesia.
+- **Cierre sin Sebastián como sujeto histórico** (D21) — quitar el peso de los 2 años previos vacía el reconocimiento.
+- **Tacones de 20cm en Cap 1** (D3 ajustado 13/05) — exageración que la sacó. Corregido a 12cm.
 
 ---
 
@@ -111,7 +217,14 @@ Las respuestas se transcriben en este archivo bajo el relato correspondiente.
 
 | # | Relato | Por qué la calienta | Mecanismos activos |
 |---|--------|---------------------|--------------------|
-| - | *(pendiente)* | | |
+| - | *(pendiente declaración explícita)* | | |
+
+### Relatos de referencia NEGATIVA (cumplieron arco pero no calentaron)
+
+| Relato | Versión descartada | Por qué no calentó | Aprendizaje para v4.5 |
+|--------|--------------------|--------------------|-------------------------|
+| **La Piel que Diseño Cap 1** | `capitulo_01_la_piel_maestro_v1_pre_v45_descartado.md` | A pesar de Gate Ama, no produjo mordida. 24 decisiones canónicas posteriores (D1-D24) son parches que indican que el original era insuficiente. | Escritor debe leer CALENTON_AMA primero, no después. Veredicto 9.0+ del Crítico NO basta. |
+| **La Piel que Diseño Cap 2** | `capitulo_02_el_escenario_v1.7.1_pre_v45_descartado.md` | Pasó Crítico 9.0, Centinela APROBADO, Termómetro EN RANGO — pero la Ama nunca dio Gate final. Acumuló parches D11-D24 sin alcanzar mordida. | La validación final es UNA sola: ¿la Ama se detuvo a respirar? Nada más cuenta. |
 
 ---
 

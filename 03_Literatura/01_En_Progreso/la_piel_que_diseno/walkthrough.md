@@ -3,8 +3,24 @@
 ## Estado del Proyecto
 | Campo | Valor |
 |-------|-------|
-| **Fase actual** | FASE 4 — Escritura (Cap 2 v1.6 post-apertura miércoles + recalibración térmica por regla canónica nueva) |
-| **Última actualización** | 2026-05-14 |
+| **Fase actual** | 🔄 **RESET v4.5** (25/05/2026) — La Ama declaró "nunca quedé conforme" sobre Cap 1 maestro v1 y Cap 2 v1.7.1. Todos los capítulos previos archivados como referencia negativa. Reset desde Fase 4 con flujo v4.5 (subagente `escritor` obsesionado con CALENTON_AMA, que ahora absorbió D1-D24). |
+| **Última actualización** | 2026-05-25 |
+
+## 🔄 Reset v4.5 — Decisión del 25/05/2026
+
+**Razón:** El Cap 1 v1 fue declarado Gold Master y el Cap 2 v1.7.1 pasó Crítico 9.0 + Centinela APROBADO + Termómetro 🟢, pero la Ama **nunca quedó conforme** con ninguno. Las 24 decisiones canónicas D1-D24 fueron parches sucesivos que indican que el Escritor original no estaba calibrado al deseo real de la Ama.
+
+**Acciones tomadas:**
+1. Cap 1 maestro y Cap 1 v1.2 archivados como `_pre_v45_descartado` en `borradores/capitulo_01/`
+2. Cap 2 v1.7.1 archivado como `_pre_v45_descartado` en `borradores/capitulo_02/`
+3. HTMLs movidos a `borradores/_html_exports/`
+4. Mapas eróticos Cap 2 v1/v2/v3 archivados a `borradores/_mapas_anteriores/`
+5. **D1-D24 absorbidos al corpus `CALENTON_AMA.md`** como mecanismos M6-M16 + frases canónicas + caso de estudio negativo
+6. Conservados en raíz (no descartados): `concepto.md`, `arco_maestro_v1.md`, `linea_de_tiempo_maestra.md`, `personajes_maestro_v1.md`, `mapa_erotico_v1.md` (general)
+
+**Próxima decisión bloqueada en Ama:**
+- (a) Conservar arco/personajes/mapa general → arrancar Fase 4 limpia con subagente `escritor`
+- (b) Re-hacer arco/personajes/mapa con subagentes `arquitecto`/`personajes`/`disenador-sensual` integrando D1-D24 como input formal
 
 ---
 
@@ -18,8 +34,8 @@
 | Fase 3.3: Mapa Erótico (general) | ✅ APROBADO | 2026-05-12 | Curva de excitación 3 caps + vocabulario autorizado |
 | Fase 3.3: Mapa Erótico Cap 2 (específico) | ⚡ ACTUALIZADO v3 | 2026-05-14 | `mapa_erotico_cap2_v3.md` — re-calibrado por regla canónica nueva "picos ascendentes entre caps, valles libres" (cap 1 cerró pico 4 → todos picos cap 2 ≥ 4). Apertura del miércoles añadida (rutina dirigida Día 5, valle 2-3). Curva valle 2-3 → valle 2 → 4-4.5 → 4.5 → 4.5-5 → 5 → 4.5 → 5+. Triple aparición del callo (Sec III hombro + Sec V barbilla + Sec VI hombro). Autoexcitación interrumpida en Sec VII como gancho ("la descarga es de Daniela" — regla canónica nueva). v1 y v2 preservados como referencia histórica |
 | Fase 3.5: Escena Piloto | ✅ APROBADO | 2026-05-02 | Cap 3 actualizado con correcciones |
-| Fase 4: Escritura — Cap 1 | ✅ CERRADO MAESTRO | 2026-05-13 | `capitulo_01_la_piel_maestro_v1.md` — versión definitiva. ~7,200 palabras. D1-D10 integrados. Gate Ama aprobado. |
-| Fase 4: Escritura — Cap 2 | 🟢 POST-CIRUGÍAS MENORES v1.7.1 | 2026-05-15 | `capitulo_02_el_escenario_v1.7.1.md` — Pasada quirúrgica de auditoría contra `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` (10 fixes): (1) Sec II contradicción D23 limpiada (Daniela vive ahí — salió a correr — no "entra con llaves"). (2) "El despertar fue limpio" → "llegó con el coño ya despierto" (cumple D22). (3) Saturación "Daniela./Dani." 4→2 instancias. (4) Saturación "dos centímetros" 7→4. (5) Cierre del privado de Sebastián con beat de mirada cargada de reconocimiento sin lugar. (6) Beat post-ritual ampliado (sillón guarda el peso + olor compuesto + cabeza planeando el sábado). (7) Desmaquillado Sec VI con asimetría cara/cuerpo ("la cara se podía limpiar, el cuerpo no"). (8) Dos beats de peso de implantes desde adentro (caminata Sec II + caída del pole Sec IV). (9) "¿Estás bien" Daniela → dato disfrazado. (10) Gancho final reescrito con Sebastián como sujeto histórico ("ya pagó la mitad hace dos años en Pío Nono... viene a cobrar la otra mitad sobre el cuerpo que yo le prometí"). + 2 fixes menores de lectura de coherencia (conteo de "bien" desambiguado, evitar repetición Macallan 18 en cierre). v1.7 archivada en borradores/capitulo_02/. **Pendiente Gate Ama final.** |
+| Fase 4: Escritura — Cap 1 | ❌ DESCARTADO v4.5 | 2026-05-25 | ~~`capitulo_01_la_piel_maestro_v1.md`~~ archivado en `borradores/capitulo_01/capitulo_01_la_piel_maestro_v1_pre_v45_descartado.md`. Aunque tuvo Gate Ama formal, la Ama declaró "nunca quedé conforme". Reset desde Fase 4 con flujo v4.5. |
+| Fase 4: Escritura — Cap 2 | ❌ DESCARTADO v4.5 | 2026-05-25 | ~~`capitulo_02_el_escenario_v1.7.1.md`~~ archivado en `borradores/capitulo_02/capitulo_02_el_escenario_v1.7.1_pre_v45_descartado.md`. Pasó Crítico 9.0 + Centinela APROBADO + Editor + Termómetro 🟢, **pero la Ama nunca dio Gate final**. Caso de estudio en CALENTON_AMA.md: métricas técnicas no garantizan mordida. |
 | Fase 5.5: Termómetro Cap 2 (v1) | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/reporte_termometro_v1.md` — sobre v1.1. Veredicto 🟢 EN RANGO. 3/3 escenas clave, 6/6 beats. |
 | Fase 5: Crítico Cap 2 | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/critica_v1.md` — Score 9.0 / ADMITIDO CON OBSERVACIONES. 2 cirugías: firma estilística + olfato. |
 | Fase 5: Centinela Cap 2 (v1) | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/centinela_v1.md` — APROBADO CONDICIONAL → línea de tiempo actualizada con ensayo previo. |
@@ -39,8 +55,8 @@
 | `linea_de_tiempo_maestra.md` | ✅ Aprobado |
 | `personajes_maestro_v1.md` | ✅ Aprobado |
 | `mapa_erotico_v1.md` | ✅ Aprobado — curva de excitación, 5 escenas clave, vocabulario autorizado |
-| `capitulo_01_la_piel_v1.2.md` | 🟢 POST-EDITOR — Pánico explícito ante ausencia de verga + excitación acumulativa que desborda. Nueva Sec III: Daniela sale del baño en cuerpo de Matías (piel húmeda, músculos marcados) → coño se contrae frente a la cosa material. Conversación pre-contrato reescrita: "no quiero vivir así" + Daniela impone contrato. Resistencia explícita al dressing + Daniela domina con órdenes ("Sácatelo", "La negra", "El vestido", "Los tacones"). Calle: contador de miradas + "Me están mirando como si fuera puta" como detonante de calor. Manicurista Cami toca brazo, "amor", "regia" → coño responde. v1.1 archivada en borradores. **Editor v4.4:** 4 correcciones aplicadas (voseo, coherencia material tanga, óvalo, redacción Sec III). Veredicto: lista para Gate Ama. |
-| `capitulo_02_el_escenario_v1.7.1.md` | 🟢 POST-CIRUGÍAS MENORES (15/05/2026 noche tarde) — Auditoría quirúrgica de v1.7 contra Guía Maestra Arquitectura Erótica MtF. 10 fixes principales + 2 menores: contradicción D23 Sec II limpiada, "despertar limpio" → "despertar con coño despierto" (D22), saturaciones "Daniela/Dani" y "dos centímetros" reducidas, cierre privado Sebastián con beat de mirada cargada + reconocimiento sin lugar, beat post-ritual ampliado, desmaquillado con asimetría cara/cuerpo, peso de implantes desde adentro en caminata y pole, cadencia Daniela depurada, gancho final con Sebastián como sujeto histórico ("ya pagó la mitad hace dos años en Pío Nono"). **Pendiente Gate Ama final.** v1.7 archivada en borradores. |
+| ~~capitulo_01_la_piel_v1.2.md~~ | ❌ DESCARTADO v4.5 — archivado en `borradores/capitulo_01/` con sufijo `_pre_v45_descartado` |
+| ~~capitulo_02_el_escenario_v1.7.1.md~~ | ❌ DESCARTADO v4.5 — archivado en `borradores/capitulo_02/` con sufijo `_pre_v45_descartado` |
 
 ---
 
