@@ -145,6 +145,26 @@ Las respuestas se transcriben en este archivo bajo el relato correspondiente.
 - **Aplicación:** gancho final del Cap 1 de cualquier relato body swap
 - **Origen:** D1 (05/05/2026, "La Piel que Diseño")
 
+### M17 — Cada Ritual de Feminización del Sumiso = Beat Erótico para la Ama
+- **Qué es:** los rituales físicos de feminización forzada (depilación, tucking, sostenes con relleno, maquillaje, tacones) NO son secuencia operativa. Cada uno es momento erótico explícito donde Esteban/sumiso PIERDE HOMBRÍA y se humilla. La Ama debe estar levemente mojada viendo al sumiso pasar por cada beat — si no se moja, el texto falló.
+- **Patrón obligatorio:**
+  1. La acción física (depilarse, tucking, ponerse sostén) — descripción sensorial
+  2. **PERO ADEMÁS:** la psicología interna del sumiso registrando la pérdida de hombría (esto es lo que SIEMPRE faltó en v0.1 de esposa_servidumbre)
+  3. Cuando aplique, frase humillante de la dominante (dirty talk feminizante)
+  4. Estado físico del cuerpo cambiando — pero también de la identidad
+- **Test de calentón:** si el lector ve "un hombre con tanga, sostenes con relleno, pechos depilados, coño cubierto por tela" y NO se moja → falta la psicología interna + las frases humillantes
+- **Beats canónicos obligatorios en escenas de feminización:**
+  - **Depilación de entrepierna** con olor de cera (calor + cera + tirón + escozor + pensamiento "ya no soy hombre acá")
+  - **Tucking** con descripción TÉCNICA breve + psicología EXTENSA (es donde más se humilla)
+  - **Sostenes con relleno** con sensación del peso falso + pensamiento "ahora tengo pechos"
+  - Cada uno debe activar al menos una frase humillante de la dominante
+- **Origen:** Feedback directo de la Ama 25/05/2026 sobre `capitulo_01_el_contrato_v0.1.md` de esposa_servidumbre
+- **Citas textuales del feedback:**
+  - *"Acá Esteban pierde su hombría, se está humillando y mucho más cuando el tucking queda terminado"*
+  - *"De nuevo cuando se pone los sostenes, no pasa nada en la cabeza de Esteban, todo es descriptivo"*
+  - *"Yo debería estar levemente mojada viendo a un hombre así, está con tanga, sostenes y pechos y depilado, eso ya debería ser motivo de excitación"*
+  - *"Una que otra frase humillante de su esposa"* (falta dirty talk de Valeria)
+
 ---
 
 ## 🗣️ Frases que Funcionaron (transcripción textual del feedback de Ama)
@@ -201,6 +221,18 @@ Las respuestas se transcriben en este archivo bajo el relato correspondiente.
 - **Cierre sin Sebastián como sujeto histórico** (D21) — quitar el peso de los 2 años previos vacía el reconocimiento.
 - **Tacones de 20cm en Cap 1** (D3 ajustado 13/05) — exageración que la sacó. Corregido a 12cm.
 
+### Patrones específicos que la Ama declaró fríos en "Esposa Servidumbre" Cap 1 v0.1 (25/05/2026):
+
+> **Feedback brutal:** la Ama abandonó la lectura en L138 (de ~6,400 palabras). El capítulo falló en su único objetivo: calentarla.
+
+- **"Polla" en vez de "verga"** (L96) — España vs Chile. Léxico erótico debe ser CHILENO sin excepción.
+- **Depilación de entrepierna OMITIDA** — un beat de feminización forzada faltó completamente. Es OBLIGATORIO en relatos MtF/feminización forzada.
+- **Falta del olor de la cera caliente** en la depilación — anclaje sensorial específico (M2 jerarquía sensorial: olfato es 3°, pero acá es CRÍTICO porque marca la primera vez de un ritual feminizante).
+- **Tucking descrito sin psicología interna profunda** — la Ama dijo "me gusta pero igual que la depilación es muy descriptiva". El tucking es el MOMENTO donde Esteban pierde hombría — debe ser el beat psicológicamente más cargado del capítulo, no un párrafo técnico.
+- **Sostenes con relleno SIN pensamientos internos** — "no pasa nada en la cabeza de Esteban, todo es descriptivo". El cuerpo cambia pero la mente del sumiso no registra. Cada cambio físico debe activar pensamiento interno de humillación/feminización/excitación.
+- **Faltan frases humillantes de Valeria** — la dominante femenina no tiene dirty talk feminizante. Esto es una omisión del dialogue layer (M8 invertido: faltó la orden con humillación envuelta).
+- **Densidad descriptiva > densidad erótica** — el capítulo prioriza describir la mecánica del ritual sobre activar excitación. Es un error de balance: cada acción descrita debe estar al servicio de un beat erótico, no del orden cronológico.
+
 ---
 
 ## 🎯 Relatos de Referencia (Corpus Empírico Existente)
@@ -225,6 +257,7 @@ Las respuestas se transcriben en este archivo bajo el relato correspondiente.
 |--------|--------------------|--------------------|-------------------------|
 | **La Piel que Diseño Cap 1** | `capitulo_01_la_piel_maestro_v1_pre_v45_descartado.md` | A pesar de Gate Ama, no produjo mordida. 24 decisiones canónicas posteriores (D1-D24) son parches que indican que el original era insuficiente. | Escritor debe leer CALENTON_AMA primero, no después. Veredicto 9.0+ del Crítico NO basta. |
 | **La Piel que Diseño Cap 2** | `capitulo_02_el_escenario_v1.7.1_pre_v45_descartado.md` | Pasó Crítico 9.0, Centinela APROBADO, Termómetro EN RANGO — pero la Ama nunca dio Gate final. Acumuló parches D11-D24 sin alcanzar mordida. | La validación final es UNA sola: ¿la Ama se detuvo a respirar? Nada más cuenta. |
+| **Esposa Servidumbre Cap 1 v0.1** | `capitulo_01_el_contrato_v0.1.md` (25/05/2026) | **Primer uso real del flujo v4.5 — falló.** La Ama abandonó la lectura en L138. Errores: léxico España (polla), depilación omitida, tucking y sostenes descritos sin psicología interna, sin frases humillantes de Valeria. Densidad descriptiva > erótica. | **El Escritor debe aplicar M17 obligatoriamente:** cada ritual de feminización es beat erótico con psicología interna + dirty talk de la dominante. Cumplir compromisos del arco ≠ activar humedad en el lector. |
 
 ---
 
