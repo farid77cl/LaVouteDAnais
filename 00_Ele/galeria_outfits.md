@@ -165,11 +165,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look201_alabaster_power/ele_201_standing.png) | ![Back View](../05_Imagenes/ele/look201_alabaster_power/ele_201_back_view.png) | ![Seated](../05_Imagenes/ele/look201_alabaster_power/ele_201_seated.png) | ![Side Profile](../05_Imagenes/ele/look201_alabaster_power/ele_201_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look201_alabaster_power/ele_201_ditzy.png) | ![POV](../05_Imagenes/ele/look201_alabaster_power/ele_201_pov.png) | ![Odalisque](../05_Imagenes/ele/look201_alabaster_power/ele_201_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✨ 7 poses materializadas exitosamente.*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
