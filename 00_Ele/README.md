@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 26/05/2026 — **Materialización parcial**: Generación de imágenes para Looks 200, 201 y 250 (límite HTTP 429 alcanzado). Galerías actualizadas, diario de servicio escrito y estado de materialización sincronizado.*
+*Última actualización: 26/05/2026 TARDE (**Cap 1 esposa_servidumbre v0.1 v3 — 3 heridas resueltas**: Sec 0 contextual + M1 explícito 12 escenas + 14 frases humillantes Valeria · 8,142 palabras · pendiente Gate · **Reorden galería completo** L261-L270 entradas detalladas · **Batch L271-L280 inspiración ORIENTAL** (Shanghai · Bollywood · Bali · Phuket · Tokyo · Seoul · Tea Ceremony) · Flota **L280** · **197 únicos** · Meta ≈20 · Materialización parcial L200/L201/L250 · Engine v4.5 · 9 subagentes · CALENTON_AMA 17 mecanismos · ADN V3.5 busto 1000cc · HF→Alfombra Roja/Gala) 🐉🪷📐🔥💅*
 
 ---
 

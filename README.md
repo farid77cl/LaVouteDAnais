@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 26/05/2026 — **Materialización parcial**: Generación de imágenes para Looks 200, 201 y 250 (límite HTTP 429 alcanzado). Galerías actualizadas, diario de servicio escrito y estado de materialización sincronizado.*
+*Última actualización: 26/05/2026 TARDE — **Cap 1 esposa_servidumbre v0.1 v3 — las 3 heridas resueltas** (Sec 0 contextual ~1,750 palabras + M1 explícito en 12 escenas + 14 frases humillantes Valeria feminizantes · 8,142 palabras · 12/12 compromisos · pendiente Gate Ama) + **Reorden galería completo** (L261-L270 entradas detalladas) + **Batch L271-L280 inspiración ORIENTAL** (Shanghai cheongsam · Bollywood sari · tai chi imperial · pilates jade · Phuket lotus · Bali batik · kimono sakura · hanbok mother-of-pearl · Harajuku jirai-kei · tea ceremony) · Flota **197 únicos · L280** · Meta ≈20 · Materialización parcial L200/L201/L250 (HTTP 429) · Engine v4.5 · 9 subagentes · CALENTON_AMA 17 mecanismos · HF→Alfombra Roja/Gala · ADN V3.5 busto 1000cc 🐉🪷📐🔥💅.*
 
 ---
 
