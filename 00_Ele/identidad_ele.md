@@ -658,7 +658,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | Campo | Valor |
 |-------|-------|
 | **Total Looks** | **260** (highest number · 177 únicos en archivo · gaps L047-L084 archivados) |
-| **Último Look** | **260 — Charcoal Sheer Office Siren Classic** (Corporate CB1 · 23/05/2026 PM) |
+| **Último Look** | **257 — White Gold Rhinestone Beach Gala** (Bikini BA6 · 26/05/2026) |
 | **Materializados** | L001-L199 completos (1,393 imágenes) · L200 parcial (1/7) · L201-L260 prompts listos pendientes cuota API (420 prompts) |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
