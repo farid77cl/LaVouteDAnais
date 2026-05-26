@@ -6,9 +6,9 @@
 
 ## 👠 Look 200: Iridescent Vow
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_200_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_200_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_standing.png) | ![ele_200_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_back.png) | ![ele_200_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_seated.png) | ![ele_200_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_side.png) | ![ele_200_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_ditzy.png) | ![ele_200_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_pov.png) | ![ele_200_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look200_iridescent_vow/ele_200_odalisque.png) |
 
 ---
 
@@ -1452,4 +1452,4 @@
 
 ---
 
-*Última actualización maestra: 23/05/2026* 🦇
+*Última actualización maestra: 26/05/2026* 🦇
