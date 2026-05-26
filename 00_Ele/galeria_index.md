@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 26/05/2026 10:04 — **61 looks registrados**  
+> Generado automáticamente el 26/05/2026 10:09 — **61 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -9,7 +9,7 @@
 
 | N° | Nombre | Fecha | Categoría | Paleta | Materiales | Poses | Estado |
 |:--:|:-------|:-----:|:----------|:-------|:-----------|:-----:|:------:|
-| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 1/7 | — |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **202** | Indigo Mirage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
@@ -151,7 +151,6 @@
 
 | N° | Nombre | Poses | Estado |
 |:--:|:-------|:-----:|:------:|
-| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | 1/7 | ⏳ Pendiente |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | 0/7 | ⏳ Pendiente |
 | **202** | Indigo Mirage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | 0/7 | ⏳ Pendiente |
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | 0/7 | ⏳ Pendiente |
@@ -215,4 +214,4 @@
 
 ---
 
-*Índice generado por Ele — 26/05/2026 10:04 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 26/05/2026 10:09 — La Voûte d'Anaïs* 🫦👠💅

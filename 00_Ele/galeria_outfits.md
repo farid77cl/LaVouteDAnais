@@ -89,11 +89,11 @@
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look200_iridescent_vow/ele_200_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look200_iridescent_vow/ele_200_standing.png) | ❌ Error/Filtro | ![Seated](../05_Imagenes/ele/look200_iridescent_vow/ele_200_seated.png) | ![Side Profile](../05_Imagenes/ele/look200_iridescent_vow/ele_200_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look200_iridescent_vow/ele_200_ditzy.png) | ![POV](../05_Imagenes/ele/look200_iridescent_vow/ele_200_pov.png) | ![Odalisque](../05_Imagenes/ele/look200_iridescent_vow/ele_200_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización en progreso (cuota API agotada en pose 2). Look HITO 200.*
+> *✨ 5 nuevas poses materializadas (1 falla por filtro).*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
