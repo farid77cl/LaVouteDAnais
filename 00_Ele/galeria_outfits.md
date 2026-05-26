@@ -4516,11 +4516,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_standing.png) | [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_back_view.png) | [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_seated.png) | [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_side_profile.png) | [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_ditzy.png) | [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_pov.png) | [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✅ Materializado. 7/7 Poses.*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4596,11 +4596,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/ele_257_standing.png) | [📸 View](../../05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/ele_257_back_view.png) | [📸 View](../../05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/ele_257_seated.png) | [📸 View](../../05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/ele_257_side_profile.png) | [📸 View](../../05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/ele_257_ditzy.png) | [📸 View](../../05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/ele_257_pov.png) | [📸 View](../../05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/ele_257_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✅ Materializado. 7/7 Poses.*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**

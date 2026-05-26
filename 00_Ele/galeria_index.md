@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 26/05/2026 10:18 — **61 looks registrados**  
+> Generado automáticamente el 26/05/2026 17:09 — **81 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -70,19 +70,42 @@
 | **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | HF Editorial | — | — | 0/7 | ✅ Completo |
 | **259** | Navy Gold Schiaparelli Gilded Office (23/05/2026 — batch 241-260 · Corporate Polo A Power Domme CA2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 0/7 | ✅ Completo |
 | **260** | Charcoal Sheer Office Siren Classic (23/05/2026 — batch 241-260 · Corporate Polo B Office Siren CB1 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 0/7 | ✅ Completo |
+| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 0/7 | ⏳ Pendiente |
+| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 0/7 | ⏳ Pendiente |
+| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 0/7 | ⏳ Pendiente |
+| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 0/7 | ⏳ Pendiente |
+| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 0/7 | ⏳ Pendiente |
+| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 0/7 | ⏳ Pendiente |
+| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
 ## 🗂️ Looks por Categoría
 
-### Bikini (1 looks)
-**257**
+### Alfombra Roja / Gala (6 looks)
+**261**, **262**, **263**, **264**, **271**, **272**
+
+### Bikini (5 looks)
+**257**, **267**, **268**, **275**, **276**
 
 ### Corporate (2 looks)
 **259**, **260**
 
-### Domestic (4 looks)
-**234**, **235**, **250**, **251**
+### Domestic (5 looks)
+**234**, **235**, **250**, **251**, **280**
 
 ### Escort (7 looks)
 **223**, **228**, **238**, **239**, **247**, **248**, **249**
@@ -90,17 +113,20 @@
 ### Gym (8 looks)
 **205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**
 
+### Gym / Athleisure (4 looks)
+**265**, **266**, **273**, **274**
+
 ### HF Editorial (1 looks)
 **258**
 
-### Lencería (3 looks)
-**200**, **209**, **256**
+### Lencería (7 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (4 looks)
-**230**, **244**, **245**, **246**
+### Nightclub (5 looks)
+**230**, **244**, **245**, **246**, **279**
 
 ### Pin-Up (8 looks)
 **221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**
@@ -112,38 +138,38 @@
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (10 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**
+### Rojo / Cherry / Crimson (13 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**
 
-### Rosa / Hot Pink (5 looks)
-**210**, **222**, **235**, **241**, **248**
+### Rosa / Hot Pink (9 looks)
+**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**
 
-### Magenta / Fucsia (4 looks)
-**211**, **219**, **240**, **245**
+### Magenta / Fucsia (5 looks)
+**211**, **219**, **240**, **245**, **279**
 
 ### Violeta / Lila (1 looks)
 **203**
 
-### Azul / Cyan / Zafiro (6 looks)
-**202**, **221**, **225**, **228**, **233**, **255**
+### Azul / Cyan / Zafiro (9 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**
 
-### Verde / Esmeralda (5 looks)
-**204**, **236**, **242**, **244**, **247**
+### Verde / Esmeralda (6 looks)
+**204**, **236**, **242**, **244**, **247**, **274**
 
-### Dorado / Bronce (9 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**
+### Dorado / Bronce (12 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**
 
 ### Plateado / Plata (5 looks)
 **212**, **224**, **226**, **246**, **249**
 
-### Blanco / Crema (2 looks)
-**243**, **257**
+### Blanco / Crema (4 looks)
+**243**, **257**, **264**, **277**
 
-### Negro (dominante) (3 looks)
-**205**, **213**, **249**
+### Negro (dominante) (4 looks)
+**205**, **213**, **249**, **266**
 
-### Amarillo / Lima (3 looks)
-**231**, **242**, **253**
+### Amarillo / Lima (4 looks)
+**231**, **242**, **253**, **276**
 
 ---
 
@@ -211,7 +237,27 @@
 | **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **259** | Navy Gold Schiaparelli Gilded Office (23/05/2026 — batch 241-260 · Corporate Polo A Power Domme CA2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **260** | Charcoal Sheer Office Siren Classic (23/05/2026 — batch 241-260 · Corporate Polo B Office Siren CB1 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
+| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | 0/7 | ⏳ Pendiente |
+| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 0/7 | ⏳ Pendiente |
+| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 26/05/2026 10:18 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 26/05/2026 17:09 — La Voûte d'Anaïs* 🫦👠💅
