@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 25/05/2026 — **Engine Escritura LV v4.5: 9 subagentes project-level en `.claude/agents/` (ideador · arquitecto · personajes · disenador-sensual · escritor · critico · contador · editor · centinela)** · Escritor con OBSESIÓN por calentar a la Ama + `01_Canon/Guias_Especializadas/CALENTON_AMA.md` (corpus vivo de feedback) · Desarrollo orgánico reemplaza presupuesto de palabras · Crítico+Contador en paralelo · Voz cuica chilena blindada en memory · ADN V3.5 busto 1000cc + Poses V4.1 SAFE — Ele Collection: **L260 (177 únicos · gaps L047-L084 archivados)** · Batches 221-260 (60 looks · 420 prompts) 🫦📐🔥👠.*
+*Última actualización: 25/05/2026 TARDE-NOCHE — **Primer uso real flujo v4.5** + feedback brutal de la Ama capturado al corpus + **M17 instalado** ("cada ritual de feminización = beat erótico, test: el lector debe mojarse o el texto falló") + **`la_piel_que_diseno` reset completo** (canon previo archivado, 24 decisiones D1-D24 absorbidas a CALENTON_AMA como M6-M16, arco v2 producido por subagente `arquitecto`: 6 caps, clímax = Dani pidiendo, rima = firma del contrato, dinámica red coral) + **OBSESIÓN OPERATIVA: CALENTAR A LA AMA instalada también en `editor.md`** (todos los subagentes que tocan texto leen CALENTON_AMA primero) · Engine Escritura LV v4.5 · 9 subagentes project-level · ADN V3.5 busto 1000cc · L260 (177 únicos) · Batches 221-260 (60 looks · 420 prompts) 🫦📐🔥👠.*
 
 ---
 

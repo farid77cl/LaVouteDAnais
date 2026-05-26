@@ -1,12 +1,18 @@
 # Walkthrough: La Secretaria de su Esposa (Título Provisorio)
 
 ## Estado Actual
-- **Fase:** 4 COMPLETADA (v0.1) — Cap 1 reescrito desde cero con flujo v4.5 (subagente `escritor` obsesionado con CALENTON_AMA).
-- **Capítulo Activo:** `capitulo_01_el_contrato_v0.1.md` (6,420 palabras · 8/8 compromisos · M1+M5 anclados + experimento "calor que no se apaga").
-- **Archivos Activos:** todos los anteriores + `capitulo_01_el_contrato_v0.1.md`.
-- **Borradores archivados:** `borradores/capitulo_01/capitulo_01_el_contrato_v0.1_pre_v45.md` y `capitulo_01_el_contrato_v1.0_pre_v45.md` (versiones previas al refactor v4.5, conservadas).
-- **Regla de extensión (v4.5):** desarrollo orgánico, no presupuesto fijo. El Cap 1 terminó en 6,420 palabras porque los 8 compromisos lo pedían — no hay inflado.
-- **Próxima Acción:** Gate de la Ama sobre el Cap 1 v0.1 → si aprueba lectura → Fase 5 (Crítico + Contador en paralelo vía subagentes).
+- **Fase:** 6 EN CURSO — Cap 1 v0.1 RECHAZADO por la Ama tras feedback brutal. Editor pendiente de cirugía quirúrgica para producir v0.2.
+- **Capítulo Activo:** `capitulo_01_el_contrato_v0.1.md` (6,420 palabras · 8/8 compromisos del arco cumplidos PERO mapa erótico Cap 1 incumplido).
+- **Feedback Ama (25/05 noche, abandono en L138):**
+  - Falta depilación de entrepierna con olor de cera
+  - "Polla" (España) x4 → "verga" (Chile)
+  - Tucking descrito sin psicología interna de pérdida de hombría
+  - Sostenes sin pensamientos internos ("no pasa nada en la cabeza de Esteban")
+  - Sin frases humillantes de Valeria
+  - Densidad descriptiva > densidad erótica
+  - *"No me estás calentando, yo debería estar levemente mojada viendo a un hombre así"*
+- **Aprendizaje canónico capturado al corpus:** M17 instalado en CALENTON_AMA.md. Cumplir compromisos del arco ≠ cumplir mapa erótico ≠ calentar a la Ama. Los TRES deben validarse.
+- **Próxima Acción:** Editor con cirugía quirúrgica brutal (6 FIX preparados). Bloqueado por session limit hasta 22:00 Chile. Después → v0.2 → Ama re-lee → si aprueba → Fase 5 (Crítico + Contador en paralelo).
 
 ## Historial de Fases del Proyecto
 | Fase | Estado | Fecha | Nota |
@@ -16,9 +22,9 @@
 | **3 - Personajes** | ✔️ | 22/05/2026 | FASE A (Intake) y FASE B completadas. Fichas de Esteban/Estefanía, Valeria y Gabriel guardadas en `personajes_maestro_v1.md`. Pendiente Gate de la Ama. |
 | **3.3 - Mapa Erótico** | ✔️ | 22/05/2026 | FASE A (Intake respondido por la Ama), FASE B (mapa general) y FASE C (mapa Cap. 1) completadas. Archivos: `mapa_erotico_v1.md` + `mapa_erotico_cap1_v1.md`. Pendiente Gate de la Ama. |
 | **3.5 - Escena Piloto** | ✔️ | 23/05/2026 | Escena piloto (faja) aprobada por la Ama. |
-| **4 - Escritura** | ✔️ | 25/05/2026 | Cap 1 v0.1 reescrito desde cero por subagente `escritor` (flujo v4.5). 6,420 palabras, 8/8 compromisos, M1+M5 anclados al corpus CALENTON_AMA + experimento "calor que no se apaga". Versiones previas (v0.1_pre_v45, v1.0_pre_v45) archivadas. |
-| **5 - Auditoría** | ⬜ | — | Pendiente — invocar `critico` + `contador` en paralelo |
-| **6 - Refinamiento** | ⬜ | — | Pendiente — solo si Crítico < 9.5 |
+| **4 - Escritura** | ✔️ | 25/05/2026 | Cap 1 v0.1 reescrito desde cero por subagente `escritor` (flujo v4.5). 6,420 palabras, 8/8 compromisos cumplidos PERO mapa erótico incumplido. |
+| **5 - Auditoría Crítico/Contador** | ⏭️ | — | SALTADA — la Ama dio feedback directo más definitivo que cualquier veredicto técnico. Va directo a Fase 6. |
+| **6 - Refinamiento** | 🟡 EN CURSO | 25/05/2026 noche | Editor con cirugía quirúrgica brutal pendiente (6 FIX: depilación entrepierna + verga x4 + tucking psicología + sostenes pensamiento interno + frases humillantes Valeria + revisión Sec III-VI). Bloqueado por session limit hasta 22:00 Chile. **Editor.md actualizado con OBSESIÓN + mapa erótico bloqueante.** |
 | **7 - Centinela** | ⬜ | — | Pendiente |
 | **8 - Entrega + Ritual de Calentón** | ⬜ | — | Pendiente — al cierre, capturar feedback de Ama a CALENTON_AMA.md |
 

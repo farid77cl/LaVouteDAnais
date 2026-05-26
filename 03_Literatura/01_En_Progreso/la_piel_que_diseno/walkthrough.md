@@ -3,8 +3,8 @@
 ## Estado del Proyecto
 | Campo | Valor |
 |-------|-------|
-| **Fase actual** | 🔄 **RESET v4.5** (25/05/2026) — La Ama declaró "nunca quedé conforme" sobre Cap 1 maestro v1 y Cap 2 v1.7.1. Todos los capítulos previos archivados como referencia negativa. Reset desde Fase 4 con flujo v4.5 (subagente `escritor` obsesionado con CALENTON_AMA, que ahora absorbió D1-D24). |
-| **Última actualización** | 2026-05-25 |
+| **Fase actual** | 🔄 **RESET v4.5 — FASE 2 COMPLETADA** (25/05/2026 NOCHE). Reset completo desde Fase 2 ejecutado. Subagente `arquitecto` entregó `arco_maestro_v2.md` + `linea_de_tiempo_maestra.md`. **Pendiente Gate de la Ama sobre arco v2.** Después: Fase 3 (personajes) + Fase 3.3 (mapas eróticos por capítulo) + Fase 4 (Cap 1 desde cero). |
+| **Última actualización** | 2026-05-25 NOCHE |
 
 ## 🔄 Reset v4.5 — Decisión del 25/05/2026
 
@@ -18,9 +18,19 @@
 5. **D1-D24 absorbidos al corpus `CALENTON_AMA.md`** como mecanismos M6-M16 + frases canónicas + caso de estudio negativo
 6. Conservados en raíz (no descartados): `concepto.md`, `arco_maestro_v1.md`, `linea_de_tiempo_maestra.md`, `personajes_maestro_v1.md`, `mapa_erotico_v1.md` (general)
 
-**Próxima decisión bloqueada en Ama:**
-- (a) Conservar arco/personajes/mapa general → arrancar Fase 4 limpia con subagente `escritor`
-- (b) Re-hacer arco/personajes/mapa con subagentes `arquitecto`/`personajes`/`disenador-sensual` integrando D1-D24 como input formal
+**Decisión tomada por la Ama (25/05 noche):** opción (b) — re-hacer TODO desde Fase 2.
+
+**Intake estructural respondido (4 decisiones bloqueantes):**
+1. **ESCALA:** 5-6 capítulos (respiración completa, no compactar)
+2. **CLÍMAX:** Dani pidiendo más — **rendición activa psicológica**, no Sebastián tomando. El punto de no retorno es cuando Dani cruza de "lo aguanta" a "lo pide".
+3. **RIMA NARRATIVA:** La firma del contrato. PLANTAR (Cap 1) = Matías firmando algo simbólico de compromiso involuntario. PAGAR (Cap final) = Dani firmando su servidumbre por pedido propio. Doblez jurídico-erótico: papel + pluma + sello como objetos materiales recurrentes.
+4. **DINÁMICA DE PODER:** Red coral desde Cap 1 — Daniela (doméstica) + Sebastián (sombra del club, aparece temprano no en Cap 2 como antes) + staff condescendiente + Bárbara tutora femenina del club.
+
+**Producido por subagente `arquitecto` (25/05 noche):**
+- `arco_maestro_v2.md` — 6 capítulos. Curva: RESISTENCIA → CONFUSIÓN → TRAICIÓN_INCIPIENTE → TRAICIÓN_PLENA → ACEPTACIÓN_PLENA → **RENDICIÓN_ACTIVA** (sin fase de paz; el arco corta cuando Dani pide). Sello de Inviolabilidad con 10 elementos bloqueados.
+- `linea_de_tiempo_maestra.md` — Día 1 (apertura) → Día 3 → Día 5 (rutina instalada) → Día 9 (primer baile) → Día 12 (primer privado Sebastián) → Día 16 (clímax — Dani pide). Plausibilidad biológica respetada (condicionamiento 7+ días, transformación visible 14+ días, mínimo 3 interrupciones M10 antes de descarga administrada).
+
+**Próxima decisión bloqueada en Ama:** Gate sobre el arco v2 + Línea de Tiempo. Una vez aprobado → invocar subagente `personajes` para fichas v2 (con D19 + D21 + D24 ya integradas).
 
 ---
 

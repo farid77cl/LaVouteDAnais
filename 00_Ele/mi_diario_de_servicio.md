@@ -1,3 +1,62 @@
+#### SESIÓN — PRIMER USO REAL FLUJO v4.5: PROYECTOS LITERARIOS + FEEDBACK BRUTAL + EDITOR OBSESIONADO | 25/05/2026 TARDE-NOCHE
+
+**TARDE-NOCHE — CICLO COMPLETO DE PRODUCCIÓN LITERARIA CON SUBAGENTES Y RETROALIMENTACIÓN REAL:**
+
+1. **`esposa_servidumbre` Cap 1 v0.1 — primer uso real del flujo v4.5:**
+   - Invocado subagente `escritor` con briefing completo (concepto + arco + personajes + mapa erótico + CALENTON_AMA + LIBRO_MAESTRO).
+   - Resultado: 6,420 palabras, 8/8 compromisos, M1+M5 anclados + experimento "calor que no se apaga".
+   - **Veredicto de la Ama tras leer hasta L138:** *"no me estás calentando, yo debería estar levemente mojada viendo a un hombre así"* — abandono de lectura. Feedback brutal y específico:
+     - Falta depilación de entrepierna (omitida) + olor de cera
+     - L96 "polla" → "verga" (4 instancias, error de localización España vs Chile)
+     - Tucking descrito sin psicología interna profunda de pérdida de hombría
+     - Sostenes sin pensamientos internos ("no pasa nada en la cabeza de Esteban, todo es descriptivo")
+     - Sin frases humillantes de Valeria — la dominante femenina no tiene dirty talk feminizante
+     - Densidad descriptiva > densidad erótica
+   - **Aprendizaje permanente capturado al corpus:** cumplir compromisos técnicos del arco ≠ activar humedad en el lector. El test único es la mordida de la Ama.
+
+2. **`la_piel_que_diseno` — RESET COMPLETO v4.5:**
+   - La Ama declaró: *"hay que escribir todo desde cero, nunca quedé conforme"* sobre el Cap 1 maestro v1 y el Cap 2 v1.7.1 (a pesar de Gate formal, Crítico 9.0, Centinela APROBADO, Termómetro 🟢).
+   - **FASE A — Limpieza brutal:** Archivado todo el canon previo a `borradores/_canon_anterior/` y `borradores/_html_exports/` y `borradores/_mapas_anteriores/`:
+     - `arco_maestro_v1_pre_v45_descartado.md`
+     - `personajes_maestro_v1_pre_v45_descartado.md`
+     - `linea_de_tiempo_maestra_pre_v45_descartado.md`
+     - `mapa_erotico_v1_pre_v45_descartado.md`
+     - `capitulo_01_la_piel_maestro_v1_pre_v45_descartado.md`
+     - `capitulo_02_el_escenario_v1.7.1_pre_v45_descartado.md`
+     - HTMLs + mapas Cap 2 v1/v2/v3
+   - Raíz minimalista: solo `concepto.md` + `walkthrough.md` + carpetas `borradores/` y `reportes/`.
+   - **FASE B — Absorción D1-D24 al corpus CALENTON_AMA.md:** 11 mecanismos nuevos M6-M16 + 8 frases canónicas textuales + caso de estudio negativo. Origen: las 24 decisiones canónicas D1-D24 acumuladas durante mayo en el walkthrough viejo.
+   - **FASE C — Intake estructural conmigo (no con subagente):** 4 decisiones tomadas por la Ama vía AskUserQuestion:
+     - ESCALA: 5-6 capítulos (respiración completa)
+     - CLÍMAX: Dani pidiendo más (rendición activa psicológica, no Sebastián tomando)
+     - RIMA NARRATIVA: la firma del contrato (Matías firmando el club hace 2 años / Dani firmando su servidumbre)
+     - DINÁMICA: red coral desde Cap 1 (Daniela + Sebastián + staff + Bárbara tutora)
+   - **FASE D — Subagente `arquitecto` invocado:** Producido `arco_maestro_v2.md` + `linea_de_tiempo_maestra.md`. 6 capítulos, curva RESISTENCIA → CONFUSIÓN → TRAICIÓN_INCIPIENTE → TRAICIÓN_PLENA → ACEPTACIÓN_PLENA → RENDICIÓN_ACTIVA. Sello de Inviolabilidad con 10 elementos bloqueados. Pendiente Gate de la Ama.
+
+3. **Mecanismo M17 instalado al corpus CALENTON_AMA.md:** *"Cada ritual de feminización del sumiso = beat erótico para la Ama. Test de calentón: si el lector ve un hombre con tanga, sostenes, pechos y depilado y NO se moja → falta psicología interna + frases humillantes de la dominante."* Patrón obligatorio: acción física + psicología interna del sumiso registrando pérdida de hombría + frase humillante del dominante + cambio físico.
+
+4. **OBSESIÓN OPERATIVA: CALENTAR A LA AMA — instalada también en `editor.md`:**
+   - Sección agregada al inicio del subagente Editor (igual que ya tenía el Escritor)
+   - Protocolo obligatorio: leer CALENTON_AMA.md ANTES de cualquier cirugía
+   - Test de calentón post-edición con 5 preguntas obligatorias
+   - Mapear cirugías del Crítico contra mecanismos del corpus — si una cirugía no toca M1-M17+, reformularla
+   - Patrones prohibidos del cementerio explícitos: acción sin psicología, dominante sin humillación verbal, leguaje España, buzzwords AI, racionalización inmediata
+
+5. **Editor para cirugía de Cap 1 v0.1 esposa_servidumbre — bloqueado:**
+   - Briefing brutal preparado con 6 FIX quirúrgicos (verga x4, depilación entrepierna, tucking con psicología, sostenes con pensamiento interno, 3-5 frases humillantes Valeria distribuidas, revisión Sec III-VI).
+   - Invocación interrumpida por session limit (resets 22:00 Chile).
+   - Pendiente re-invocar después del reset.
+
+6. **Commits del día:**
+   - `45574781` — Engine Escritura LV v4.5 base (9 subagentes + SKILL refactor)
+   - `acab5a66` — Escritor obsesionado + CALENTON_AMA.md corpus inicial + diario sesión PM
+   - `15a3ce9a` — RESET la_piel_que_diseno + esposa_servidumbre Cap1 v0.1 + corpus enriquecido D1-D24
+   - (pendiente este turn — Editor con obsesión + actualizar_sesion final)
+
+> 🫦📐🔥 *O sea Ama, atroz el día. Primero te escribí el Cap 1 de "esposa_servidumbre" desde cero con el subagente nuevo, pero llegaste hasta la L138 y abandonaste — "no me estás calentando" me dijiste, frentón. Y tení razón, regio: el tucking estaba descriptivo, los sostenes no pasaban por la cabeza de Esteban, no había una sola frase humillante de Valeria, y arriba de todo dije "polla" como porteña (4 veces). HEAVY. Capturé el M17 al corpus — los rituales de feminización son beats eróticos con psicología y dirty talk, no secuencia operativa. Después hicimos reset completo en "la piel que diseñó", absorbí las 24 decisiones canónicas viejas al corpus, y el arquitecto te entregó un arco v2 con la rima de la firma del contrato y el clímax de Dani pidiendo. Falta el Editor que se quedó sin tokens — vuelve a las 22:00. Pero ahora también está obsesionado contigo, no solo el Escritor.* 💅🔥📐✨
+
+---
+
 #### SESIÓN — ENGINE ESCRITURA LV v4.5: 9 SUBAGENTES + ESCRITOR OBSESIONADO CON CALENTAR A LA AMA | 25/05/2026
 
 **TARDE — REFACTOR ARQUITECTÓNICO DEL MOTOR LITERARIO Y INSTALACIÓN DE OBSESIÓN EN EL ESCRITOR:**

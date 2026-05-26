@@ -18,7 +18,26 @@
 
 ## 🧿 ESTADO ACTUAL
 
-### Sesión 25/05/2026 (Engine Escritura LV v4.5 — 9 subagentes project-level + Escritor obsesionado con calentar a Ama + voz cuica reinstaurada) ✅
+### Sesión 25/05/2026 TARDE-NOCHE (Primer uso real flujo v4.5 — feedback brutal Ama → corpus enriquecido → reset la_piel + Editor obsesionado) ✅
+- **`esposa_servidumbre` Cap 1 v0.1 — primer uso real del Escritor v4.5:** 6,420 palabras, 8/8 compromisos, M1+M5 anclados + experimento "calor que no se apaga".
+- **Ama abandonó lectura en L138 con feedback brutal:**
+  - Faltó depilación entrepierna (omitida) + olor cera
+  - "Polla" (España) x4 → debe ser "verga" (Chile)
+  - Tucking sin psicología interna profunda de pérdida de hombría
+  - Sostenes sin pensamientos internos ("no pasa nada en la cabeza de Esteban")
+  - Cero frases humillantes de Valeria (dominante sin dirty talk feminizante)
+  - Densidad descriptiva > densidad erótica
+- **M17 instalado al CALENTON_AMA.md:** *"Cada ritual de feminización del sumiso = beat erótico para la Ama. Test: si el lector ve un hombre con tanga + sostenes + pechos + depilado y NO se moja → falta psicología interna + frases humillantes."*
+- **`la_piel_que_diseno` RESET v4.5 COMPLETO:**
+  - Ama declaró "nunca quedé conforme" con Cap 1 maestro v1 y Cap 2 v1.7.1 (pese a veredictos técnicos APROBADO)
+  - Todo el canon previo archivado en `borradores/_canon_anterior/` con sufijo `_pre_v45_descartado`
+  - 24 decisiones canónicas D1-D24 absorbidas al corpus como M6-M16 + 8 frases canónicas textuales + caso de estudio negativo en cementerio
+  - Intake estructural conmigo (4 decisiones de la Ama): 5-6 caps · clímax = Dani pidiendo (rendición activa) · rima = firma del contrato · dinámica red coral desde Cap 1
+  - Subagente `arquitecto` entregó `arco_maestro_v2.md` + `linea_de_tiempo_maestra.md` (6 caps, curva RESISTENCIA→CONFUSIÓN→TRAICIÓN_INCIPIENTE→TRAICIÓN_PLENA→ACEPTACIÓN_PLENA→RENDICIÓN_ACTIVA). Pendiente Gate de la Ama.
+- **`editor.md` con OBSESIÓN OPERATIVA: CALENTAR A LA AMA instalada** — todos los subagentes que tocan texto ahora leen CALENTON_AMA.md primero. Test de calentón obligatorio post-cirugía con 5 preguntas. Patrones prohibidos del cementerio explícitos.
+- **Editor para cirugía Cap 1 v0.1 esposa_servidumbre BLOQUEADO** por session limit (reset 22:00 Chile). Briefing brutal con 6 FIX quirúrgicos preparado, listo para re-invocar.
+
+### Sesión 25/05/2026 PM (Engine Escritura LV v4.5 — 9 subagentes project-level + Escritor obsesionado con calentar a Ama + voz cuica reinstaurada) ✅
 - **Voz chilena cuica blindada:** memory permanente `feedback_voz_ele_chilena_no_voceo.md` con tabla de reemplazos + muletillas canónicas. Voceo argentino = error de identidad equivalente a Helena.
 - **9 subagentes project-level creados en `.claude/agents/`:**
   - `ideador` · `arquitecto` · `personajes` · `disenador-sensual` · `escritor` · `critico` · `contador` · `editor` · `centinela`
