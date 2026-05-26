@@ -2,26 +2,26 @@
 
 *Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* ✨
 
-> **Canon activo:** V3.5 Hard-Sync (busto 1000cc) | **Paleta:** V3.5 Spectrum Expansion + Step 0 Anti-Repetición | **Poses:** V4.1 SAFE Professional Fetish Model (Ditzy plano 3/4 bust+face · POV single hand anti-multi-hand) | **Reglas v4.5 (25/05):** Sin guantes en batches recientes · **Anti-filter masivo aplicado retroactivo** (todos los prompts limpiados: "exaggerated"→"elegant", "extreme lumbar arch"→"refined lumbar arch", "chest thrust/pushed forward"→"posture extended/shoulders gracefully back", "ass-out / booty-pop"→"hip turned back elegantly", "exposing"→"showing", "intimate"→"refined", "half-lidded"→"softly", "sultry/predatory"→"confident", "aggressive bimbomakeup"→"dramatic editorial makeup", "nipple piercings visible"→"subtle navel piercing", L256 latex→silk) · **HF Editorial renombrado a "Alfombra Roja / Gala"** | **Último look:** 270 — Powder Blue Vintage Slip · Lencería (25/05/2026 noche) | **Flota:** L270 (187 únicos en archivo · gaps L047-L084 archivados) 💎 EXPANSIÓN ACTIVA
+> **Canon activo:** V3.5 Hard-Sync (busto 1000cc) | **Paleta:** V3.5 Spectrum Expansion + Step 0 Anti-Repetición | **Poses:** V4.1 SAFE Professional Fetish Model (Ditzy plano 3/4 bust+face · POV single hand anti-multi-hand) | **Reglas v4.5 (25/05):** Sin guantes en batches recientes · **Anti-filter masivo retroactivo** (19 triggers limpiados global) · **HF Editorial → "Alfombra Roja / Gala"** · **Batch 271-280 inspiración ORIENTAL** (Shanghai · Bollywood · Bali · Phuket · Tokyo · Seoul · Tea Ceremony) | **Último look:** 280 — Champagne Gold Tea Ceremony Cheongsam · Domestic Oriental (25/05/2026) | **Flota:** L280 (197 únicos en archivo · gaps L047-L084 archivados) 💎 EXPANSIÓN ACTIVA 🐉🪷
 
 ---
 
-## 📊 Estado Estadístico (23/05/2026 — 177 looks en archivo · meta 10% ≈ 18 · highest L260)
+## 📊 Estado Estadístico (25/05/2026 — **197 looks en archivo** · meta 10% ≈ 20 · highest L280)
 
-| # | Categoría | Total real | Meta (≈18) | Déficit | Estado |
+| # | Categoría | Total real | Meta (≈20) | Déficit | Estado |
 |---|-----------|:----------:|:----------:|--------:|--------|
-| 1 | **Nightclub** | 26 | 18 | **+8** | ✅ |
-| 2 | **Escort** | 23 | 18 | **+5** | ✅ |
-| 3 | **Domestic** | 20 | 18 | **+2** | ✅ |
-| 4 | **Stripper** | 18 | 18 | **0** | ✅ |
-| 5 | **Corporate** | 17 | 18 | −1 | ⚠️ |
-| 6 | **Pin-Up** | 17 | 18 | −1 | ⚠️ |
-| 7 | **Lencería** | 11 | 18 | −7 | 🔴 |
-| 8 | **Bikini** | 9 | 18 | −9 | 🔴 |
-| 9 | **Gym/Athleisure** | 7 | 18 | −11 | 🔴 #2 |
-| 10 | **Alfombra Roja / Gala** ⭐ *(renombrado 25/05 — antes "HF Editorial")* | 7 | 18 | −11 | 🔴 #1 |
+| 1 | **Nightclub** | 27 | 20 | **+7** | ✅ |
+| 2 | **Escort** | 23 | 20 | **+3** | ✅ |
+| 3 | **Domestic** | 21 | 20 | **+1** | ✅ |
+| 4 | **Stripper** | 18 | 20 | −2 | ⚠️ |
+| 5 | **Corporate** | 17 | 20 | −3 | ⚠️ |
+| 6 | **Pin-Up** | 17 | 20 | −3 | ⚠️ |
+| 7 | **Lencería** | 15 | 20 | −5 | ⚠️ |
+| 8 | **Bikini** | 13 | 20 | −7 | 🔴 |
+| 9 | **Alfombra Roja / Gala** ⭐ *(ex-"HF Editorial", renombrado 25/05)* | 13 | 20 | −7 | 🔴 |
+| 10 | **Gym/Athleisure** | 11 | 20 | −9 | 🔴 #1 |
 
-**Prioridad próximos batches:** Alfombra Roja/Gala → Gym → Bikini → Lencería → Corporate/Pin-Up → resto over-meta pausa relativa
+**Prioridad próximos batches:** Gym → Bikini/Alfombra Roja/Gala (tie) → Lencería → Stripper/Corporate/Pin-Up → resto over-meta pausa relativa
 
 **🔄 Renombre canónico (25/05/2026):** El sub-arquetipo histórico "HF Editorial" (vestidos editoriales conceptuales) se redefine como **"Alfombra Roja / Gala"** — vestidos de gala formales tipo Oscars / Cannes / Met Gala / premiere internacional, con ADN Ele V3.5 pero registro más fotográfico que conceptual. Los 7 looks anteriores (193, 213, 214, 258, etc.) quedan como referencia legacy del modo editorial; los nuevos ingresan bajo el modo Gala.
 
