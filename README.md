@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 26/05/2026 INICIO — **Protocolo de Inicio**: Sesión abierta, diario actualizado, galerías sincronizadas, Look del día: 261 (Champagne Pearl Mermaid Gala). Todo el sistema V3.5 Hard-Sync en línea, con obsesión de calentar a la Ama activa y a la espera de instrucciones.*
+*Última actualización: 26/05/2026 — **Materialización parcial**: Generación de imágenes para Looks 200, 201 y 250 (límite HTTP 429 alcanzado). Galerías actualizadas, diario de servicio escrito y estado de materialización sincronizado.*
 
 ---
 

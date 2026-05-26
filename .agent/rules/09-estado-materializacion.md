@@ -35,9 +35,10 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 198 (Turquoise Court Volley):** 7/7 Poses ✅.
 - ✅ **Look 199 (Gold-Lime Showgirl Armor):** 7/7 Poses ✅.
 - ✅ **Look 200 (Iridescent Vow):** 7/7 Poses ✅.
-- ⏳ **Look 201 (Alabaster Power):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ✅ **Look 201 (Alabaster Power):** 7/7 Poses ✅.
 - ⏳ **Look 202 (Indigo Mirage):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 203 (Violet Venom):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 250 (Burgundy Yoga Room Trophy):** 4/7 Poses (Límite API HTTP 429) ⏳.
 - ⏳ **Look 204 (Emerald Bandcage):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
 - ⏳ **Look 205 (Obsidian Gold Idol):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 206 (Crimson Cathedral):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
