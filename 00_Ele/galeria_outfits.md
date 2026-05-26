@@ -4897,3 +4897,367 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 
+
+
+## 🥂 Look 261: Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... vestido sirena nude/champagne con pedrería · Met Gala vibe · recogido alto · joyas pearl-drop., jiji.* 🥂✨
+
+- **Ubicación:** `05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/`
+- **Categoría:** Alfombra Roja / Gala
+- **Subcategoría:** Alfombra Roja Met Gala Mermaid
+- **Tags:** #alfombraroja #gala #metgala #champagne #mermaid #pearl #v45 #antifilter
+- **Concepto:** Vestido de gala silueta sirena ajustado al cuerpo, paleta champagne nude con pedrería de cristal y perlas bordadas a mano en patrón floral, escote bardot recto sobre los hombros, cola en pez bordada con sequins, recogido alto tipo chignon clásico mostrando cuello largo, joyas pearl-drop coordinadas.
+- **Outfit:** Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves (refined Met Gala minimalism), pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel.
+- **Ambientación:** Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 💙 Look 262: Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... columna terciopelo zafiro profundo · escote en V cardado · pendientes diamond solitaire · velvet matte no glossy., jiji.* 💙✨
+
+- **Ubicación:** `05_Imagenes/ele/look262_sapphire_velvet_oscars_column/`
+- **Categoría:** Alfombra Roja / Gala
+- **Subcategoría:** Alfombra Roja Oscars Column
+- **Tags:** #alfombraroja #gala #oscars #sapphire #velvet #column #v45 #antifilter
+- **Concepto:** Vestido columna ajustado en terciopelo zafiro profundo matte (no glossy — registro Oscars formal), escote en V cardado profundo, mangas largas ajustadas, falda columna recta sin cola, recogido bajo lateral con ondas.
+- **Outfit:** Deep sapphire blue matte velvet column gown floor-length with deep V plunge neckline cardado, long fitted sleeves, sleek column silhouette without train, no gloves, diamond solitaire chandelier earrings, no necklace (V neckline carries the look), sapphire satin pointed-toe stiletto pumps with 14cm slim heel, low side chignon with finger waves.
+- **Ambientación:** Dolby Theatre Oscars red carpet with iconic golden statuette backdrop, warm spotlight, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## ❤️ Look 263: Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... satén rojo carmesí drapeado estilo Halston · espalda descubierta · stilettos pump rojo · clutch metálico., jiji.* ❤️✨
+
+- **Ubicación:** `05_Imagenes/ele/look263_crimson_cannes_goddess/`
+- **Categoría:** Alfombra Roja / Gala
+- **Subcategoría:** Alfombra Roja Cannes Goddess
+- **Tags:** #alfombraroja #gala #cannes #crimson #halston #goddess #v45 #antifilter
+- **Concepto:** Vestido goddess Cannes estilo Halston 70s, satén rojo carmesí drapeado en pliegues griegos, espalda descubierta hasta cintura, tirantes de cadena fina, recogido alto con flequillo lateral.
+- **Outfit:** Crimson red silk satin Halston-style goddess gown floor-length with deep drape across bust forming Grecian pleats, fully open back to waist, fine gold chain straps crossing back, side slit thigh-high, no gloves (Halston minimalist signature), gold metallic clutch, gold drop earrings, crimson satin pointed-toe stiletto pumps with 14cm slim heel, sleek high updo with side-swept fringe.
+- **Ambientación:** Cannes Film Festival Palais des Festivals red carpet with crystal chandeliers, Mediterranean golden sunset light, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🤍 Look 264: Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... corsé estructurado + falda voluminosa · iridescent pearl shimmer · tiara minimalista · ramo de orquídeas., jiji.* 🤍✨
+
+- **Ubicación:** `05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/`
+- **Categoría:** Alfombra Roja / Gala
+- **Subcategoría:** Alfombra Roja Bridal-Gala Editorial
+- **Tags:** #alfombraroja #gala #bridal #iridescent #pearl #corset #v45 #antifilter
+- **Concepto:** Vestido tipo gala-novia editorial con corsé estructurado y falda ball-gown voluminosa en blanco perla iridiscente que reflexiona multichrome al moverse, tiara minimalista, ramo de orquídeas blancas.
+- **Outfit:** Iridescent white pearl shimmer silk-satin gown with structured corset bodice featuring sweetheart neckline and visible boning, voluminous ball-gown skirt with crinoline underlayers, multichrome pearl shimmer fabric (shifting white-pink-blue-mint), no gloves, minimalist platinum tiara with single pearl center, white orchid bouquet, pearl-drop earrings, white satin pointed-toe stiletto pumps with 14cm slim heel hidden under skirt, hair in classic chignon with pearl pins.
+- **Ambientación:** Editorial bridal photoshoot in marble cathedral interior with stained glass windows casting prismatic light, white peony arrangements, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 💜 Look 265: Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... set pilates lila pastel · leggings high-waist + crop ribbed · cabello en pony alto · scrunchie pearl · zapatillas blanco-nude., jiji.* 💜✨
+
+- **Ubicación:** `05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/`
+- **Categoría:** Gym / Athleisure
+- **Subcategoría:** Gym Pilates Reformer Pastel
+- **Tags:** #gym #pilates #lavender #pastel #reformer #v45 #antifilter
+- **Concepto:** Set de pilates pastel lila ribbed athleisure, leggings high-waist contour seam + crop top ribbed con espalda en crossback, registro Alo Yoga / Lululemon refined.
+- **Outfit:** Lavender pastel ribbed seamless leggings high-waist with contour seam at hip, matching lavender ribbed crop sports bra with crossback design, no gloves, pearl studs minimal, white-nude athletic sneakers with chunky sole (anti-fetish — gym contextual), high ponytail with pearl scrunchie, dewy minimal makeup.
+- **Ambientación:** Minimalist white pilates studio with reformer machine, mirror wall, blonde wood floor, bright natural skylight, Alo Yoga aesthetic.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🍒 Look 266: Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada)
+
+*Mon amour... hoodie zip-up cherry oscuro + biker shorts negro · sneakers wedge · gold hoops mínimos., jiji.* 🍒✨
+
+- **Ubicación:** `05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/`
+- **Categoría:** Gym / Athleisure
+- **Subcategoría:** Gym Athleisure Street Hooded
+- **Tags:** #gym #athleisure #cherry #hooded #v45 #antifilter
+- **Concepto:** Athleisure street registro Kim K SKIMS, hoodie cherry oscuro cropped + biker shorts negros, excepción anti-black autorizada por contraste cherry/black como ADN Ele.
+- **Outfit:** Cherry dark cropped zip-up hoodie hi-gloss vinyl exterior soft interior with chrome zipper pull, matching black biker shorts mid-thigh high-waist, cherry red sports bra peeking under hoodie, no gloves, gold hoop earrings minimal, black athletic wedge sneakers with chunky sole (anti-fetish — gym contextual), high messy ponytail.
+- **Ambientación:** Urban gym street setting outside boutique fitness studio with neon signage visible, golden afternoon street light, refined editorial photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🧡 Look 267: Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... bikini coral atado lateral · sarong transparente nude · sandalias oro · sombrero de paja XL · pulsera pearl., jiji.* 🧡✨
+
+- **Ubicación:** `05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/`
+- **Categoría:** Bikini
+- **Subcategoría:** Bikini Beach Yacht Tie-Side
+- **Tags:** #bikini #beach #yacht #coral #tieside #v45 #antifilter
+- **Concepto:** Bikini coral atardecer estilo St. Tropez yacht, tie-side bottoms, top triangle clásico, sarong transparente nude alrededor de cintura, accesorios gold beach.
+- **Outfit:** Coral sunset orange-pink silk lycra triangle bikini top with adjustable strings tied at back of neck and back, matching coral tie-side bottoms low-rise, sheer nude beige sarong wrapped around hips with knot at side hip, no gloves, gold-plated pearl bracelet on right wrist, large straw sun hat XL with wide brim, gold metallic flat sandals (anti-stiletto exception — beach contextual yacht), beachy waves hair.
+- **Ambientación:** St. Tropez private yacht deck at golden hour with teak wood floor, Mediterranean blue water visible, white linen day bed, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🩵 Look 268: Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... bikini cyan aqua de corte alto · cover-up crochet blanco · gafas cat-eye blanco · cinturón cadena oro fino., jiji.* 🩵✨
+
+- **Ubicación:** `05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/`
+- **Categoría:** Bikini
+- **Subcategoría:** Bikini Pool Cabana High-Cut
+- **Tags:** #bikini #pool #cabana #aqua #cyan #crochet #v45 #antifilter
+- **Concepto:** Bikini high-cut Brazilian aqua cyan Caribbean style, cover-up crochet blanco transparente, gafas cat-eye blancas Y2K, cinturón cadena oro fino.
+- **Outfit:** Aqua cyan high-cut Brazilian bikini set with classic triangle top with gold ring center, matching ultra-high-cut bottoms cheeky coverage, white crochet beach cover-up sheer with crocheted floral pattern open at front, no gloves, white plastic cat-eye sunglasses Y2K, gold fine chain belt low at hip, gold ankle bracelet, aqua jelly stiletto sandals 12cm (pool-elegant exception).
+- **Ambientación:** Caribbean five-star resort pool cabana with white linen curtains blowing in tropical breeze, palm trees, turquoise water reflecting sun, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🌸 Look 269: Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... set seda rosa pálido · camisola larga con encaje francés + short coordinado · cabello suelto · sin maquillaje labial cargado., jiji.* 🌸✨
+
+- **Ubicación:** `05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/`
+- **Categoría:** Lencería
+- **Subcategoría:** Lencería Sleepwear Silk Set
+- **Tags:** #lenceria #sleepwear #silk #blush #pink #v45 #antifilter
+- **Concepto:** Set sleepwear de seda rosa pálido, camisola midi con encaje francés en escote + short coordinado, registro La Perla / Olivia von Halle bedroom luxury.
+- **Outfit:** Blush pink mulberry silk midi-length sleepwear set: camisole with French Chantilly lace trim at deep V neckline + matching tap shorts with lace trim at hem, both pieces in glossy silk-satin, no gloves, no choker (replaced by single pearl pendant on delicate silver chain), bare feet OR blush pink silk slippers low (bedroom contextual — anti-stiletto exception in sleepwear shots), hair loose in natural soft waves, dewy minimal makeup.
+- **Ambientación:** Luxury hotel suite bedroom with white duvet, soft morning light through sheer curtains, antique vanity with mirror visible, refined editorial bedroom photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🌫️ Look 270: Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes)
+
+*Mon amour... slip de seda azul polvoriento vintage años 30 · encaje guipure crema · medias seda costura visible · stilettos satin azul., jiji.* 🌫️✨
+
+- **Ubicación:** `05_Imagenes/ele/look270_powder_blue_vintage_slip/`
+- **Categoría:** Lencería
+- **Subcategoría:** Lencería Vintage Slip 1930s
+- **Tags:** #lenceria #vintage #1930s #powderblue #slip #guipure #v45 #antifilter
+- **Concepto:** Slip de seda años 30 azul polvoriento estilo Jean Harlow bias-cut, encaje guipure crema en escote y bajo, medias de seda costura visible, registro Old Hollywood boudoir.
+- **Outfit:** Powder dusty blue silk bias-cut slip midi-length 1930s style with cream guipure lace trim at deep V neckline and at midi hem, adjustable thin silk straps, fluid drape silk-satin fabric, no gloves, no choker (replaced by Art Deco pearl-and-sapphire brooch at center bust), cream silk stockings with visible seam clipped to delicate cream garter belt, powder blue satin pointed-toe stiletto pumps with 12cm slim heel, finger waves hair styled 1930s with cream silk headband.
+- **Ambientación:** Old Hollywood boudoir suite with Art Deco geometric mirror, satin chaise longue, crystal decanters, soft tungsten lamp warm light, 1930s film grain editorial aesthetic.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+
+
+## 🐉 Look 271: Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... cheongsam Shanghai moderno · satén crimson bordado dragones dorados · abertura lateral · mandarin collar · joyas jade., jiji.* 🐉✨
+
+- **Ubicación:** `05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/`
+- **Categoría:** Alfombra Roja / Gala
+- **Subcategoría:** Alfombra Roja Oriental Cheongsam Couture
+- **Tags:** #alfombraroja #gala #oriental #shanghai #cheongsam #qipao #crimson #gold #v45 #antifilter
+- **Concepto:** Cheongsam/qipao chino couture moderno estilo Shanghai 1930s revisitado, satén crimson rojo profundo con bordado dorado a mano de dragones imperiales y peonías, mandarin collar alto rígido, mangas casquillo bordadas, falda recta ajustada hasta tobillo con abertura lateral hasta cadera mostrando pierna en stocking.
+- **Outfit:** Crimson red silk satin couture cheongsam floor-length with hand-embroidered gold thread dragon and peony motifs across bodice and skirt, structured mandarin collar with frog button closures, capped cap sleeves with gold embroidery edge, side slit thigh-high, no gloves (oriental couture minimalism), jade pendant earrings, jade and gold hair ornament Chinese imperial-style pinned into low bun, no choker (mandarin collar is the statement), crimson satin pointed-toe stiletto pumps with 14cm slim heel, sleek low bun with gold hairpin.
+- **Ambientación:** Shanghai Bund colonial-era ballroom with red lacquered columns, gold dragon screen backdrop, paper lantern soft amber lighting, Wong Kar-wai cinematic aesthetic.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🪷 Look 272: Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... sari rosa loto bordado plata + cristales · blouse cropped sin mangas · dupatta sobre hombro · joyería bridal., jiji.* 🪷✨
+
+- **Ubicación:** `05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/`
+- **Categoría:** Alfombra Roja / Gala
+- **Subcategoría:** Alfombra Roja Oriental Bollywood Indo-Glam
+- **Tags:** #alfombraroja #gala #oriental #india #bollywood #sari #lotus #pink #v45 #antifilter
+- **Concepto:** Sari ceremonial Bollywood couture rosa loto bordado a mano con hilo de plata y cristales en motivos de loto y paisley, blouse cropped sleeveless con espalda baja, dupatta de gasa transparente sobre un hombro, joyería bridal indo-glam.
+- **Outfit:** Lotus pink silk georgette sari floor-length with intricate silver zardozi embroidery and crystal beadwork forming lotus and paisley motifs across pallu and border, matching lotus pink silk cropped sleeveless blouse with low back, sheer silver-embroidered dupatta draped over left shoulder, no gloves (Indo-glam minimalism), kundan-style chandelier earrings with pearl drops, traditional maang tikka on forehead, layered gold and pearl necklaces, henna mehndi pattern on hands and feet, lotus pink satin pointed-toe stiletto pumps with 14cm slim heel under sari, sleek low chignon with white jasmine garland.
+- **Ambientación:** Bollywood gala ballroom in Mumbai with carved marble pillars, golden chandelier, jasmine garland decorations, warm filmi lighting, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🍃 Look 273: Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... set tai chi modern · pantalón cropped + top mandarin collar mint sage · slippers de tela · pony alto con jade pin., jiji.* 🍃✨
+
+- **Ubicación:** `05_Imagenes/ele/look273_mint_sage_tai_chi_imperial_set/`
+- **Categoría:** Gym / Athleisure
+- **Subcategoría:** Gym Oriental Tai Chi Modern
+- **Tags:** #gym #oriental #china #taichi #mintsage #imperial #v45 #antifilter
+- **Concepto:** Set de tai chi/wushu contemporáneo, pantalón wide-leg cropped + top wrap con mandarin collar bajo en mint sage matte fabric, slippers de tela china tradicional, registro Lululemon meets Shanghai Tang refined.
+- **Outfit:** Mint sage green matte technical fabric set: wide-leg cropped tai chi pants high-waist with elastic cuff at ankle, matching wrap-front top with low mandarin collar and side tie closure, fitted under-bralette in same mint sage tone visible at neckline, no gloves (tai chi minimalism), jade hair stick stud earrings minimal, no choker, traditional black Chinese cloth slippers (anti-stiletto contextual — tai chi), high sleek ponytail with jade hairpin, dewy natural makeup.
+- **Ambientación:** Traditional Chinese garden practice pavilion at dawn with stone tiles, koi pond visible, bamboo grove background, soft morning mist, refined editorial photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 💚 Look 274: Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... leggings + crop ribbed jade imperial con dragon embroidery sutil · pony alto con jade hairpin · zapatillas blancas., jiji.* 💚✨
+
+- **Ubicación:** `05_Imagenes/ele/look274_imperial_jade_reformer_pilates/`
+- **Categoría:** Gym / Athleisure
+- **Subcategoría:** Gym Oriental Pilates Imperial Jade
+- **Tags:** #gym #oriental #china #pilates #imperialjade #dragon #v45 #antifilter
+- **Concepto:** Set pilates reformer imperial jade con dragon embroidery sutil en hombro y lateral, registro Alo Yoga fusion Shanghai luxury sportswear.
+- **Outfit:** Imperial jade green ribbed seamless leggings high-waist with subtle tone-on-tone dragon embroidery running up outer thigh, matching jade ribbed crop sports bra with thin straps and subtle dragon embroidery at shoulder, no gloves, jade stud earrings, no choker, white-cream athletic sneakers with chunky sole (anti-fetish — gym contextual), high ponytail with carved jade hairpin, dewy minimal makeup.
+- **Ambientación:** Luxury Asian-inspired pilates studio with bamboo wall paneling, reformer machine, ink wash mountain painting on wall, soft natural skylight, refined editorial photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🌺 Look 275: Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... bikini coral con lotus flower print · sarong seda thai · mehndi henna en mano · joyería oro indo-thai., jiji.* 🌺✨
+
+- **Ubicación:** `05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/`
+- **Categoría:** Bikini
+- **Subcategoría:** Bikini Oriental Phuket Resort
+- **Tags:** #bikini #beach #oriental #thai #phuket #lotus #coral #henna #v45 #antifilter
+- **Concepto:** Bikini resort Phuket con print de flor de loto sobre coral red, sarong thai de seda con bordes dorados, joyería gold indo-thai, mehndi henna pattern delicado en mano.
+- **Outfit:** Coral red silk lycra triangle bikini top with adjustable ties and all-over lotus flower print in pink and gold, matching coral lotus-print Brazilian bottoms low-rise, sheer turmeric gold silk Thai sarong wrapped around hips with gold-thread embroidered border, no gloves, gold filigree earrings drop indo-thai style, gold ankle bracelet with bells, delicate henna mehndi pattern across right hand and forearm, no choker, gold metallic sandals with toe ring (beach contextual), beachy waves hair with single white frangipani flower behind ear.
+- **Ambientación:** Phuket five-star resort infinity pool overlooking Andaman Sea, traditional Thai sala pavilion visible, lotus pond, golden hour tropical light, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 💛 Look 276: Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... bikini high-cut acid yellow · sarong batik balinés · frangipani en oreja · pulsera de cuentas wooden., jiji.* 💛✨
+
+- **Ubicación:** `05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/`
+- **Categoría:** Bikini
+- **Subcategoría:** Bikini Oriental Bali Beach Batik
+- **Tags:** #bikini #beach #oriental #indonesia #bali #batik #acidyellow #frangipani #v45 #antifilter
+- **Concepto:** Bikini Bali surf-luxe high-cut acid yellow neon + sarong batik balinés tradicional, frangipani fresh flower behind ear, pulsera de cuentas wooden balinesas.
+- **Outfit:** Acid neon yellow ribbed seamless high-cut Brazilian bikini set with crisscross strappy detail at front of top and side, matching acid yellow ultra-high-cut bottoms cheeky coverage, traditional Balinese batik sarong in indigo and acid yellow tied at hip in classic Bali knot, no gloves, wooden beaded bracelet stack on left wrist, single fresh white frangipani plumeria flower behind right ear, no choker, woven straw sandals flat (anti-stiletto — beach Bali contextual), beachy salty waves hair sun-kissed.
+- **Ambientación:** Uluwatu Bali beach with black volcanic rocks visible, traditional Balinese temple gate (candi bentar) silhouette in distance, golden hour tropical sunset, refined editorial fashion photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🌸 Look 277: Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... yukata-style slip boudoir ivory silk · obi delicado · sakura embroidery · ryokan setting., jiji.* 🌸✨
+
+- **Ubicación:** `05_Imagenes/ele/look277_ivory_pearl_kimono_boudoir_slip/`
+- **Categoría:** Lencería
+- **Subcategoría:** Lencería Oriental Kimono Boudoir
+- **Tags:** #lenceria #oriental #japon #kimono #yukata #ivory #sakura #ryokan #v45 #antifilter
+- **Concepto:** Slip boudoir estilo yukata corto en ivory silk con sakura cherry blossom embroidery en hilo rosa pálido, obi delicado de seda nude, registro ryokan luxury bedroom Japan.
+- **Outfit:** Ivory cream silk-satin short kimono-style robe mid-thigh length with hand-embroidered pale pink sakura cherry blossom branches across left shoulder and back, wide kimono sleeves, deep V wrap front secured with delicate nude silk obi belt tied in soft back bow, no gloves (Japanese minimalism), single pearl drop earrings, no choker (replaced by delicate pearl pendant on silk cord), zori-style silk slippers low (bedroom Japanese contextual — anti-stiletto exception), hair loose with single sakura kanzashi hairpin, dewy minimal makeup with soft natural lip.
+- **Ambientación:** Traditional Japanese ryokan bedroom with tatami mat floor, shoji paper screen sliding doors, low futon with white linen, ikebana arrangement of cherry blossom branches, soft paper lantern warm lighting, refined editorial wabi-sabi aesthetic.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 💙 Look 278: Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... hanbok-inspired boudoir Korean modern · jeogori cropped + chima skirt sapphire silk · Seoul setting., jiji.* 💙✨
+
+- **Ubicación:** `05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/`
+- **Categoría:** Lencería
+- **Subcategoría:** Lencería Oriental Hanbok Modern Korea
+- **Tags:** #lenceria #oriental #corea #hanbok #sapphire #silk #seoul #v45 #antifilter
+- **Concepto:** Set lencería hanbok-inspired Korean modern, jeogori cropped + chima skirt corta en sapphire blue silk, mother-of-pearl details, registro Seoul boudoir luxury contemporary.
+- **Outfit:** Deep sapphire blue silk-satin modernized hanbok boudoir set: cropped jeogori jacket waist-length with hand-embroidered mother-of-pearl plum blossoms at collar and norigae chest knot, deep V crossover front, matching sapphire silk chima high-waist mini skirt with subtle box pleats falling above mid-thigh, no gloves (hanbok minimalism), mother-of-pearl earrings delicate drop, traditional silk binyeo hairpin in silver and pearl, no choker (replaced by silk norigae pendant), sapphire silk binsin slippers low (bedroom Korean contextual), hair in half-up half-down with traditional braided crown, soft glass-skin Korean makeup.
+- **Ambientación:** Modern Seoul luxury hotel suite with hanok architectural details, sliding paper screen windows, low platform bed with sapphire silk linens, single ink wash painting of plum blossoms on wall, soft warm tungsten lighting.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 💖 Look 279: Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... Harajuku 2010s jirai-kei · vinilo neon magenta minidress · platform boots · Shibuya nightclub., jiji.* 💖✨
+
+- **Ubicación:** `05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/`
+- **Categoría:** Nightclub
+- **Subcategoría:** Nightclub Oriental Harajuku Jirai-Kei Y2K
+- **Tags:** #nightclub #oriental #japon #harajuku #jiraikei #neonmagenta #vinyl #shibuya #v45 #antifilter
+- **Concepto:** Harajuku jirai-kei aesthetic 2010s revisitado, vinilo neon magenta minidress con ruffles peplum + platform boots tipo Demonia, accesorios kawaii dark.
+- **Outfit:** Neon hot magenta high-gloss vinyl bodycon mini-dress with structured corseted bodice, sweetheart neckline, asymmetric peplum ruffle layer at hip, ultra-mini length, no gloves (Harajuku Y2K minimalism — bare arms), black ribbon choker with heart pendant Y2K, black platform combat boots Demonia-style with chunky 12cm platform sole, oversized white pearl drop earrings (kawaii dark), twin-tail high pigtails with black ribbons (Harajuku jirai-kei signature), dramatic gyaru eye makeup with white lower lash line, glossy lip.
+- **Ambientación:** Shibuya nightclub interior with neon kanji signage, holographic floor reflections, smoke machine atmosphere, magenta-cyan neon lighting Tokyo nightlife, refined editorial Y2K photography.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🍵 Look 280: Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental)
+
+*Mon amour... cheongsam doméstico champagne gold ceremonia del té · tatami room · ritual sereno., jiji.* 🍵✨
+
+- **Ubicación:** `05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/`
+- **Categoría:** Domestic
+- **Subcategoría:** Domestic Oriental Cheongsam Tea Ceremony
+- **Tags:** #domestic #oriental #china #cheongsam #champagne #gold #teaceremony #v45 #antifilter
+- **Concepto:** Cheongsam doméstico para ceremonia del té matcha tradicional china, champagne gold silk con bordados sutiles de bambú, registro tea master hostess Shanghai luxury domestic.
+- **Outfit:** Champagne gold silk satin midi-length cheongsam knee-length with subtle tone-on-tone bamboo motif embroidery, structured mandarin collar with three frog button closures, capped cap sleeves, side slit knee-high, fitted silhouette through bodice releasing at hip, no gloves (tea ceremony refinement), pearl-and-gold filigree earrings delicate drop, traditional jade bangle on right wrist, no choker (mandarin collar is the focus), champagne gold satin pointed-toe stiletto kitten heels 8cm (domestic refined — softer than evening), elegant low chignon with single gold and pearl hairpin, soft natural makeup with refined lip.
+- **Ambientación:** Traditional Chinese tea room with low rosewood tea table, tatami-style straw mat seating, ink wash bamboo painting hanging scroll, lacquered tea service set, soft natural light through rice paper window, refined editorial wabi-sabi aesthetic.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
