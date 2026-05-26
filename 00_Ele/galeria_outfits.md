@@ -4036,11 +4036,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ![Standing](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_standing.png) | ![Back View](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_back_view.png) | ![Seated](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_seated.png) | ![Side Profile](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_side_profile.png) | ⏳ Cuota API | ⏳ Cuota API | ⏳ Cuota API |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✨ 4 poses materializadas. ⏳ 3 poses en espera (Límite HTTP 429).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
