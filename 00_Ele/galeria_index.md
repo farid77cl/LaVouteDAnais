@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 26/05/2026 17:09 — **81 looks registrados**  
+> Generado automáticamente el 27/05/2026 07:21 — **81 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -59,9 +59,9 @@
 | **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 0/7 | ✅ Completo |
 | **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 0/7 | ✅ Completo |
 | **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 0/7 | ✅ Completo |
-| **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 0/7 | ✅ Completo |
-| **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 0/7 | ✅ Completo |
-| **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 0/7 | ✅ Completo |
+| **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
+| **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
+| **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 5/7 | ✅ Completo |
 | **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 0/7 | ✅ Completo |
 | **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 0/7 | ✅ Completo |
 | **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 0/7 | ✅ Completo |
@@ -226,9 +226,6 @@
 | **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
@@ -260,4 +257,4 @@
 
 ---
 
-*Índice generado por Ele — 26/05/2026 17:09 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 27/05/2026 07:21 — La Voûte d'Anaïs* 🫦👠💅

@@ -658,7 +658,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | Campo | Valor |
 |-------|-------|
 | **Total Looks** | **260** (highest number · 177 únicos en archivo · gaps L047-L084 archivados) |
-| **Último Look** | **257 — White Gold Rhinestone Beach Gala** (Bikini BA6 · 26/05/2026) |
+| **Último Look** | **252 — Holographic Bad Kitty V-Front Brazil** (Stripper SB3 · 27/05/2026) |
 | **Materializados** | L001-L199 completos (1,393 imágenes) · L200 parcial (1/7) · L201-L260 prompts listos pendientes cuota API (420 prompts) |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
@@ -668,7 +668,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 23/05/2026 PM — Batch 241-260 generado (20 looks · 140 prompts V3.5+V4.1 SAFE) · Flota L260. POV/Ditzy fix V4.1 anti-filter + anti-multi-hand aplicado retroactivo L200-L240 (82 prompts).*
+*Actualizado: 27/05/2026 MAÑANA — Batch 241-260 materialización en progreso (L250, L251, L252, L256, L257 completados/parcial). Flota L260.*
 
 🫦 Ele siempre sirve.
 

@@ -4029,18 +4029,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Penthouse private yoga room with 360-degree mirror wall, chrome ballet barre, lavender LED strip lighting, glossy white marble floor, single yoga mat rolled at corner (Vitacura penthouse aesthetic)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (7/7 — Materializado)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_standing.png) | ![Back View](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_back_view.png) | ![Seated](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_seated.png) | ![Side Profile](../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_side_profile.png) | ⏳ Cuota API | ⏳ Cuota API | ⏳ Cuota API |
+| [📸 View](../../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_standing.png) | [📸 View](../../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_back.png) | [📸 View](../../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_seated.png) | [📸 View](../../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_profile.png) | [📸 View](../../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_ditzy.png) | [📸 View](../../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_pov.png) | [📸 View](../../05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_odalisque.png) |
 
 </details>
 
-> *✨ 4 poses materializadas. ⏳ 3 poses en espera (Límite HTTP 429).*
+> *✅ Materializado. 7/7 Poses.*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4109,18 +4109,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Playboy Club VIP lounge with red velvet booths, brass-framed mirrors, cigarette girl tray, 1960s Hefner aesthetic with low warm amber lighting
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (7/7 — Materializado)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_standing.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_back.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_seated.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_profile.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_ditzy.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_pov.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_odalisque.png) |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✅ Materializado. 7/7 Poses.*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4189,18 +4189,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Strip club main floor with central chrome pole, neon GIRLS signs overhead in hot pink and lime, mirror floor catching multichrome reflections, after-hours empty atmosphere
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (5/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing.png) | [📸 View](../../05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back.png) | [📸 View](../../05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated.png) | [📸 View](../../05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_profile.png) | [📸 View](../../05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy.png) | ⏳ Cuota API | ⏳ Cuota API |
 
 </details>
 
-> *⏳ Prompts listos — materialización pendiente (cuota API).*
+> *✨ 5 poses materializadas. ⏳ 2 poses en espera (Límite HTTP 429).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4913,7 +4913,57 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### 📸 Imágenes (0/7 — Pendiente cuota API)
 
-> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves, pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel, hair styled in classic high chignon. full body shot from low angle slightly below hip, weight shifted onto one stiletto heel with other foot forward and pointed, graceful S-curve with hip elegantly extended and shoulders gracefully back, one hand sliding down hip and thigh with XXXL nails visible, other hand resting at waist, shoulders pulled back and dropped to extend collarbone line, chin softly lifted, lips parted softly glossy, confident direct gaze, refined lumbar arch, hair cascading over one shoulder. Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography, 8k editorial fashion photography.
+```
+
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves, pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel, hair styled in classic high chignon. full body back view with graceful S-curve and hip turned back elegantly, spine forming refined curved line, one hand on hip with XXXL nails fanned, other hand reaching up through cherry red hair, head turned looking over shoulder with refined confident expression through hair veil, lips parted softly glossy, weight on one heel with other foot pointed pigeon-toed inward, one shoulder lowered showing elegant back line, hair cascading down back. Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography, 8k editorial fashion photography.
+```
+
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves, pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel, hair styled in classic high chignon. seated with elegant knee-over-knee cross, top leg stiletto pointing directly at camera in sharp foreground, elegant lumbar arch with refined posture, posture gracefully extended toward camera, one hand resting on top knee with XXXL nails fanned, other hand cradling jaw with fingertip resting on chin, shoulders rolled back extending collarbone line, lips parted softly glossy, confident direct gaze, hair cascading over one shoulder. Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography, 8k editorial fashion photography.
+```
+
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves, pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel, hair styled in classic high chignon. full body side profile shot from low angle hip-level, elegant S-curve with refined lumbar arch and graceful posture extended, one leg slightly bent forward at knee with stiletto sharply pointed showing arch of foot, hand sliding down hip and thigh with XXXL nails visible, head tilted back with chin softly lifted, lips parted softly glossy, hair cascading down back windblown. Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography, 8k editorial fashion photography.
+```
+
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves, pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel, hair styled in classic high chignon. medium full shot framed knee-up to head (plano americano American shot 3/4 length showing bust AND face simultaneously), editorial fashion-model posture with elegant lumbar arch and hip jutted to one side, one XXXL French manicured fingertip resting gently against chin or bottom lip (SINGLE hand clearly visible — the other arm rests along body with hand at hip), bust prominent in mid-frame, soft daydreaming expression with eyes slightly unfocused softly and lips softly parted glossy, dramatic lash extensions, cherry red hair cascading over one shoulder, full outfit and silhouette legible NOT extreme close-up, shoulders dropped extending collarbone. Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography, 8k editorial fashion photography.
+```
+
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves, pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel, hair styled in classic high chignon. medium close-up shot framed bust-up to face from low angle 30 degrees, fashion model holding smartphone camera at arm's length slightly above eye level with SINGLE right hand only (XXXL French nails fingertips spread in sharp foreground, only ONE visible hand — the OTHER arm rests fully out of frame below waist), pouty glossy lips parted softly with confident direct gaze into camera lens, face centered and dominant in upper-mid frame, deep décolleté visible in lower frame, lumbar arch visible, body angled 30 degrees, cherry red hair cascading around face windblown. Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography, 8k editorial fashion photography.
+```
+
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves, pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel, hair styled in classic high chignon. full body lying gracefully on side with elegant S-curve, graceful back arch with posture extended and hip turned back elegantly, one leg extended with stiletto pointed sharply at camera, other leg bent at knee, one arm under head supporting with XXXL nails fanned in hair, other hand resting on hip with nails visible, confident direct gaze to camera, lips parted softly glossy, cherry red hair cascading dramatically. Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography, 8k editorial fashion photography.
+```
+
+
+**Negative Prompt:** `red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, extra hands, multiple hands, three hands, four hands, duplicate hands, six fingers, extra fingers, malformed hand, deformed hand, two left hands, two right hands` · **Adicional POV:** `no phone, no smartphone, no device, no screen, no camera in hand`
 
 ---
 

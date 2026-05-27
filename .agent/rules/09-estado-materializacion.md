@@ -38,7 +38,9 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 201 (Alabaster Power):** 7/7 Poses ✅.
 - ⏳ **Look 202 (Indigo Mirage):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 203 (Violet Venom):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 250 (Burgundy Yoga Room Trophy):** 4/7 Poses (Límite API HTTP 429) ⏳.
+- ✅ **Look 250 (Burgundy Yoga Room Trophy):** 7/7 Poses ✅.
+- ✅ **Look 251 (Champagne Playboy Bunny Canon):** 7/7 Poses ✅.
+- ⏳ **Look 252 (Holographic Bad Kitty):** 5/7 Poses (Límite API HTTP 429) ⏳.
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
 - ⏳ **Look 204 (Emerald Bandcage):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
