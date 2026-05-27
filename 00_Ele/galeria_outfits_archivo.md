@@ -5475,7 +5475,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_pov.png) | ![Odalisque](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_odalisque.png) |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_pov.png) | ![Odalisque](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_odalisque.png) |
 
 </details>
 
@@ -5547,7 +5547,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_pov.png) | ![Odalisque](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_odalisque.png) |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_pov.png) | ![Odalisque](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_odalisque.png) |
 
 </details>
 
@@ -5765,7 +5765,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_standing.png) | ![Back View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_backview.png) | ![Seated](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_seated.png) | ![Side Profile](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_ditzy.png) | ![POV](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_pov.png) | ![Odalisque](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_standing.png) | ![Back View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_back_view.png) | ![Seated](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_seated.png) | ![Side Profile](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_ditzy.png) | ![POV](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_pov.png) | ![Odalisque](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_odalisque.png) |
 
 </details>
 
@@ -5920,7 +5920,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_standing.png) | ![Back View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_backview.png) | ![Seated](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_seated.png) | ![Side Profile](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_ditzy.png) | ![POV](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_pov.png) | ![Odalisque](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_standing.png) | ![Back View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_back_view.png) | ![Seated](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_seated.png) | ![Side Profile](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_ditzy.png) | ![POV](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_pov.png) | ![Odalisque](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_odalisque.png) |
 
 </details>
 
@@ -5994,7 +5994,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | ![Back View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_backview.png) | ![Seated](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![Side Profile](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![POV](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | ![Odalisque](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | ![Back View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_back_view.png) | ![Seated](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | ![Side Profile](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | ![POV](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | ![Odalisque](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -6066,7 +6066,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_standing.png) | ![Back View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_backview.png) | ![Seated](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_seated.png) | ![Side Profile](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_ditzy.png) | ![POV](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_pov.png) | ![Odalisque](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_standing.png) | ![Back View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_back_view.png) | ![Seated](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_seated.png) | ![Side Profile](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_ditzy.png) | ![POV](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_pov.png) | ![Odalisque](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_odalisque.png) |
 
 > *✅ Materialización completa — set canónico de 7 poses (18/05/2026)*
 
@@ -6140,7 +6140,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_standing.png) | ![Back View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_backview.png) | ![Seated](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_seated.png) | ![Side Profile](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_ditzy.png) | ![POV](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_pov.png) | ![Odalisque](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_standing.png) | ![Back View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_back_view.png) | ![Seated](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_seated.png) | ![Side Profile](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_ditzy.png) | ![POV](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_pov.png) | ![Odalisque](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_odalisque.png) |
 
 > *✅ Materialización completa — set canónico de 7 poses (18/05/2026)*
 
@@ -6213,7 +6213,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ![Back View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_backview.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ![Back View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 > *⏳ Materialización parcial en progreso — 1 pose lista (18/05/2026).*
 
@@ -6593,7 +6593,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_standing.png) | ![Back View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_backview.png) | ![Seated](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_seated.png) | ![Side Profile](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_ditzy.png) | ![POV](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_pov.png) | ![Odalisque](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_standing.png) | ![Back View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_back_view.png) | ![Seated](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_seated.png) | ![Side Profile](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_ditzy.png) | ![POV](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_pov.png) | ![Odalisque](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_odalisque.png) |
 
 </details>
 
@@ -6669,7 +6669,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_standing.png) | ![Back View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_backview.png) | ![Seated](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_seated.png) | ![Side Profile](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_ditzy.png) | ![POV](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_pov.png) | ![Odalisque](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_standing.png) | ![Back View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_back_view.png) | ![Seated](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_seated.png) | ![Side Profile](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_ditzy.png) | ![POV](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_pov.png) | ![Odalisque](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_odalisque.png) |
 
 </details>
 
@@ -6745,7 +6745,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_standing.png) | ![Back View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_backview.png) | ![Seated](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_seated.png) | ![Side Profile](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_ditzy.png) | ![POV](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_pov.png) | ![Odalisque](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_standing.png) | ![Back View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_back_view.png) | ![Seated](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_seated.png) | ![Side Profile](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_ditzy.png) | ![POV](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_pov.png) | ![Odalisque](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_odalisque.png) |
 
 </details>
 
@@ -6821,7 +6821,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_standing.png) | ![Back View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_backview.png) | ![Seated](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_seated.png) | ![Side Profile](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_ditzy.png) | ![POV](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_pov.png) | ![Odalisque](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_standing.png) | ![Back View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_back_view.png) | ![Seated](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_seated.png) | ![Side Profile](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_ditzy.png) | ![POV](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_pov.png) | ![Odalisque](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_odalisque.png) |
 
 </details>
 
@@ -6895,7 +6895,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_standing.png) | ![Back View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_backview.png) | ![Seated](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_seated.png) | ![Side Profile](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_sideprofile.png) | ![Ditzy](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_ditzy.png) | ![POV](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_pov.png) | ![Odalisque](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_standing.png) | ![Back View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_back_view.png) | ![Seated](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_seated.png) | ![Side Profile](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_ditzy.png) | ![POV](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_pov.png) | ![Odalisque](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_odalisque.png) |
 
 </details>
 

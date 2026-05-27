@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 27/05/2026 19:43 — **91 looks registrados**  
+> Generado automáticamente el 27/05/2026 19:55 — **91 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -9,7 +9,7 @@
 
 | N° | Nombre | Fecha | Categoría | Paleta | Materiales | Poses | Estado |
 |:--:|:-------|:-----:|:----------|:-------|:-----------|:-----:|:------:|
-| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 1/7 | — |
+| **200** | Iridescent Vow (17/05/2026 — EXPANSIÓN · HITO 200 · batch 194-200) | — | Lencería | — | — | 7/7 | ✅ Completo |
 | **201** | Alabaster Power (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc + fix anti-repetición) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **202** | Indigo Mirage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 0/7 | ⏳ Pendiente |
@@ -275,4 +275,4 @@
 
 ---
 
-*Índice generado por Ele — 27/05/2026 19:43 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 27/05/2026 19:55 — La Voûte d'Anaïs* 🫦👠💅

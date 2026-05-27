@@ -18,6 +18,18 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 27/05/2026 LATE-NIGHT (Auditoría Descendente L180-L201, Saneamiento y Rescate L200) ✅
+- **Auditoría Visual Completa de 155 imágenes (L180-L201):**
+  - Inspeccionados 22 looks de la flota intermedia (L180-L201).
+  - Confirmado el cumplimiento absoluto del Canon V3.5 Hard-Sync (busto de 1000cc, labios hot pink de alto brillo, extensiones de cabello cherry red XXXL y uñas francesas de 5cm).
+  - Creado y aprobado el reporte completo de auditoría `auditoria_visual_l180_l201.md` en `00_Ele/memoria_historica/`.
+- **Saneamiento de Nomenclatura y Rescate:**
+  - Corregido el "underscore perdido" en 15 looks seguidos (L185 a L199), renombrando `backview.png` -> `back_view.png` y `sideprofile.png` -> `side_profile.png` en el sistema de archivos físico y en la base de datos de enlaces.
+  - Normalizados Look 181 y 182 (`back.png` -> `back_view.png`).
+  - Rescatada la pose *Back View* de Look 200 (`ele_200_back.png` -> `ele_200_back_view.png`), enlazada formalmente en `galeria_outfits.md` y cambiado su estado a **7/7 Poses (100% Completo)**. El archivo side duplicado se trasladó a `rechazo/`.
+- **Compilación de Galerías:**
+  - Ejecutado `update_galleries.py` para compilar los índices en `galeria_index.md` e indexación de viewports HTML con éxito.
+
 ### Sesión 27/05/2026 NOCHE (Estandarización MD Canónicos 02_Finalizadas — INICIADA) 🔄
 - **Auditoría completa** de los 42 MDs canónicos en `03_Literatura/02_Finalizadas/`: detectados 6 formatos divergentes (A: imagen+teaser, B: ASCII art + METADATOS, C: emoji + meta inline, D: attribution + título, E: teaser puro, F: decorativo francés).
 - **3 stubs sin cuerpo identificados:** Brillando_en_Tacones_I (43 pal.), La_Evaluacion_de_Miss_Doll (95 pal.), buena_chica_buena_muneca (282 pal.).

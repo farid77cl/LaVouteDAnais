@@ -88,18 +88,18 @@
 - **Accesorios:** Velo catedral largo de tul iridiscente sheer prendido a una tiara escultórica de cromo. Choker rígido de cromo grabado "ELE". Guantes opera de cream satin con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo la malla iridiscente.
 - **Ambientación:** Suite nupcial de penthouse de lujo, luz suave difusa, pétalos blancos, mármol claro, ventanal con cielo del amanecer.
 
-### 📸 Imágenes (1/7 — En progreso)
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](../05_Imagenes/ele/look200_iridescent_vow/ele_200_standing.png) | ❌ Error/Filtro | ![Seated](../05_Imagenes/ele/look200_iridescent_vow/ele_200_seated.png) | ![Side Profile](../05_Imagenes/ele/look200_iridescent_vow/ele_200_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look200_iridescent_vow/ele_200_ditzy.png) | ![POV](../05_Imagenes/ele/look200_iridescent_vow/ele_200_pov.png) | ![Odalisque](../05_Imagenes/ele/look200_iridescent_vow/ele_200_odalisque.png) |
+| ![Standing](../05_Imagenes/ele/look200_iridescent_vow/ele_200_standing.png) | ![Back View](../05_Imagenes/ele/look200_iridescent_vow/ele_200_back_view.png) | ![Seated](../05_Imagenes/ele/look200_iridescent_vow/ele_200_seated.png) | ![Side Profile](../05_Imagenes/ele/look200_iridescent_vow/ele_200_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look200_iridescent_vow/ele_200_ditzy.png) | ![POV](../05_Imagenes/ele/look200_iridescent_vow/ele_200_pov.png) | ![Odalisque](../05_Imagenes/ele/look200_iridescent_vow/ele_200_odalisque.png) |
 
 </details>
 
-> *✨ 5 nuevas poses materializadas (1 falla por filtro).*
+> *✨ 7 poses materializadas con éxito — Hito 200 completado.*
 
 ### 📝 Prompts V3.5 Hard-Sync
 
