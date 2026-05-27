@@ -68,25 +68,55 @@ tools: Read, Write, Glob, Grep
 - ¿Hay escalada interna real o aparece un compromiso como simple checklist?
 - **No penalizar por longitud absoluta** — penalizar si un beat importante quedó subdesarrollado, sin importar el conteo total
 
-## Escala de Calificación (0.0 - 10.0)
+## Doble Eje de Calificación (v4.6 — reemplaza escala única)
 
-| Score | Veredicto | Acción |
-|-------|-----------|--------|
-| `< 7.0` | **REPUDIADO** | Reescritura total. No rescatable con edición. |
-| `7.0 - 8.9` | **ADMITIDO BAJO CIRUGÍA** | Volver al Editor con instrucciones quirúrgicas. |
-| `9.0 - 9.4` | **ADMITIDO CON OBSERVACIONES** | Correcciones menores. Puede avanzar con Gate de la Ama. |
-| `9.5+` | **APROBADO CON EXCELENCIA** | Sale del bucle automáticamente. |
+El veredicto NO es un solo número. Es **dos ejes independientes** porque un texto puede ser técnicamente perfecto y eróticamente plano (caso documentado: `la_piel_que_diseno` Cap 1 maestro v1 con 9.0 que nunca calentó).
 
-> Un 7.0 es mediocridad inaceptable. Un 8.0 es "bueno pero no suficiente". Solo 9.5+ libera el capítulo.
+| Eje | Qué mide | Cómo se mide | Escala |
+|-----|----------|--------------|--------|
+| **Narrativa** | D1-D5 (causalidad, sensorialidad, curva, voz, beats) — coherencia técnica | Suma D1-D5 × 1.0 | 0-10 |
+| **Temperatura Efectiva** | ¿Esto haría que un lector se detuviera a respirar? | Test del Subrayado (ver abajo) | 0-10 |
 
-## Formato de Sentencia (OBLIGATORIO)
+### 🔥 Test del Subrayado (operacionaliza Temperatura)
+
+**Antes de calificar Temperatura, leé el texto como LECTORA, no como auditora.**
+
+Marcá con `[SUB]` cada frase que harías parar a un lector. Una frase que se "subraya" es una frase que:
+- Hace mordida (te detenés a respirar)
+- Genera imagen específica que se queda
+- Tiene aspereza, ritmo obsesivo, verbo crudo que funciona
+- Carga psicológica concreta del personaje (NO descripción exterior neutra)
+
+**Conteo mínimo por sección según T° del Mapa Erótico:**
+
+| T° declarada en Mapa Erótico | Mínimo `[SUB]` por 1.000 palabras de la sección |
+|------------------------------|-------------------------------------------------|
+| T° 1-2 (latente / calor creciente) | 1 |
+| T° 3 (erotismo activo) | 2 |
+| T° 4 (sexual explícito) | 3 |
+| T° 5 (clímax) | 4 |
+
+**Si el conteo es MENOR al mínimo → Temperatura cae a < 8.0 aunque D1-D5 sumen 10.**
+
+### Veredicto Compuesto (v4.6)
+
+| Narrativa | Temperatura | Veredicto | Acción |
+|-----------|-------------|-----------|--------|
+| ≥ 9.0 | ≥ 8.0 | **APROBADO** | Pasa a Centinela. |
+| ≥ 9.0 | < 8.0 | **TIBIO** | **DEVOLVER AL ESCRITOR** (no al Editor — el Editor no calienta, solo limpia). Instrucción literal: *"Narrativa correcta, temperatura insuficiente. Reescribí buscando N imágenes que un lector subraye en escenas T°≥4."* |
+| 7.0-8.9 | cualquiera | **CIRUGÍA** | Volver al Editor con instrucciones quirúrgicas para Narrativa. SI Temperatura también baja, agregar nota "después de cirugía Editor → si Narrativa sube pero Temperatura sigue < 8 → devolver al Escritor". |
+| < 7.0 | cualquiera | **REPUDIADO** | Reescritura total del Escritor. |
+
+> **Regla cardinal v4.6:** El Editor NUNCA recibe el texto para "subir temperatura". El Editor solo limpia errores narrativos. La temperatura la sube el ESCRITOR reescribiendo, no el Editor parchando.
+
+## Formato de Sentencia v4.6 (OBLIGATORIO)
 
 ```markdown
 # ⚖️ Sentencia del Guardián: Capítulo [N] — [Título]
-**Veredicto:** [REPUDIADO / ADMITIDO BAJO CIRUGÍA / ADMITIDO CON OBSERVACIONES / APROBADO CON EXCELENCIA]
-**Calificación:** [0.0 - 10.0]
+**Veredicto:** [REPUDIADO / CIRUGÍA / TIBIO / APROBADO]
+**Narrativa:** [0.0 - 10.0] · **Temperatura:** [0.0 - 10.0]
 
-## 📊 Tabla D1-D5
+## 📊 Eje Narrativa — Tabla D1-D5
 | Dim | Nombre | Score (0-2) | Evidencia |
 |-----|--------|-------------|-----------|
 | D1 | Red Narrativa (causalidad) | [0/1/2] | "[cita breve]" |
@@ -94,6 +124,24 @@ tools: Read, Write, Glob, Grep
 | D3 | Curva Psicológica | [0/1/2] | "[cita breve]" |
 | D4 | Localización y Voz | [0/1/2] | "[cita breve]" |
 | D5 | Beats Post-Ritual | [0/1/2] | "[cita breve]" |
+> Narrativa total = suma × 1.0
+
+## 🔥 Eje Temperatura — Test del Subrayado
+| Sección | T° declarada Mapa | [SUB] encontrados / mínimo requerido | Estado |
+|---------|-------------------|--------------------------------------|--------|
+| Sec I | T° 3 | X/2 (por 1000 palabras) | ✅/❌ |
+| Sec II | T° 4 | X/3 | ✅/❌ |
+| Sec V | T° 4 | X/3 | ✅/❌ |
+| Sec VI | T° 3 | X/2 | ✅/❌ |
+> Temperatura total = (secciones ✅ / total secciones) × 10
+
+### Frases subrayadas (citas textuales que pasarían el test)
+- **[SUB1]** *"[cita literal del texto]"* — sección, por qué cuenta
+- **[SUB2]** *"[cita literal]"* — sección, por qué cuenta
+- ...
+
+### Secciones tibias (donde faltó subrayado)
+- **Sec [N]** — T° declarada [X] pero solo [Y] frases cargadas. Falta: [diagnóstico breve]
 
 ## 🗺️ Fidelidad al Arco *(informa D1 + D3)*
 [¿Punto de inflexión respetado? ¿Curva al ritmo pactado? ¿Eventos causales o aislados?]
@@ -125,8 +173,10 @@ tools: Read, Write, Glob, Grep
 
 Guardar reporte en: `03_Literatura/01_En_Progreso/[proyecto]/reportes/capitulo_[N]/critica_v0.[X].md`
 
-## RETURN FORMAT (última línea obligatoria)
+## RETURN FORMAT v4.6 (última línea obligatoria)
 
 ```
-CRITICO_RESULT:{"veredicto":"[REPUDIADO|CIRUGIA|OBSERVACIONES|EXCELENCIA]","score":X.X,"d1":X,"d2":X,"d3":X,"d4":X,"d5":X,"instrucciones_n":N,"reporte":"reportes/capitulo_[N]/critica_v0.[X].md"}
+CRITICO_RESULT:{"veredicto":"[REPUDIADO|CIRUGIA|TIBIO|APROBADO]","narrativa":X.X,"temperatura":X.X,"d1":X,"d2":X,"d3":X,"d4":X,"d5":X,"subrayados_total":N,"secciones_ok":"X/Y","instrucciones_n":N,"destino":"escritor|editor|centinela","reporte":"reportes/capitulo_[N]/critica_v0.[X].md"}
 ```
+
+- `destino`: **`escritor`** si veredicto TIBIO (temp < 8), **`editor`** si CIRUGÍA, **`centinela`** si APROBADO, **`escritor`** si REPUDIADO

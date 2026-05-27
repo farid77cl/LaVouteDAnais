@@ -120,6 +120,15 @@ En 3-4 líneas:
 - **Lo que el lector debe sentir:** [excitación, perturbación, identificación, voyeurismo]
 - **Nivel de explicitad:** [1-5 + qué aparece vs queda implícito]
 - **Lo que NO se revela aquí:** [qué se reserva — la promesa no cumplida todavía]
+- **🔥 PROSA-ANCHOR (OBLIGATORIO si T° ≥ 4):** Párrafo-muestra de 3-5 líneas que sirve como **termómetro literario** al Escritor. NO es un texto a copiar — es la TEMPERATURA y EL TONO que el Escritor debe alcanzar. Ejemplo:
+  > *"Valeria tomó la espátula con dos dedos, sin tensión, y la hundió en la cera caliente como si revolviera azúcar en un té. El gesto era el de su mano izquierda firmando una factura. Esteban miró el hilo de miel oscura colgar de la madera y supo, antes que el dolor, que esa misma calma iba a quedarse en él mucho después de que la cera se enfriara."*
+
+  Características del prosa-anchor canónico:
+  - 3-5 oraciones máximo, con al menos una oración larga rítmica
+  - Verbo crudo o imagen específica (no "calmadamente" — "sin tensión")
+  - Comparación que ancla la emoción ("como si revolviera azúcar en un té")
+  - Beat psicológico interno del personaje ("supo, antes que el dolor, que...")
+  - Vocabulario chileno (cera caliente, no "cera tibia")
 
 ## Clímax Erótico del Relato
 - **Escena, Capítulo, por qué funciona como clímax**
@@ -165,6 +174,7 @@ En 3-4 líneas:
 - **Mecanismo de activación específico**
 - **Sensación objetivo del lector al cierre**
 - **Nivel de explicitad:** [1-5] · qué se nombra, qué queda implícito
+- **🔥 PROSA-ANCHOR (OBLIGATORIO si T° ≥ 4):** [Párrafo-muestra de 3-5 líneas — termómetro literario para esta escena específica del capítulo. Adaptar el ejemplo del mapa general al detalle específico de esta escena.]
 
 ## Vocabulario Priorizado para Este Capítulo
 [Subset del general — 6-10 palabras DEBE aparecer. Marcar con * primera aparición canónica.]
