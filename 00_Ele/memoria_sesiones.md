@@ -23,7 +23,7 @@
   - **Look 252 (Holographic Bad Kitty):** Retries exitosos (POV y Odalisque). El Look ha alcanzado el **100% (7/7 Poses)**.
   - **Look 253 (Acid Yellow Y2K Denim Strip):** Materialización completa. El Look ha alcanzado el **100% (7/7 Poses)**.
   - **Look 254 (Mint Pastel Sweater Girl 50s):** Materializadas 6/7 poses. Pendiente Odalisque por límite de API HTTP 429.
-- **Límite de API (HTTP 429):** La cuota se reiniciará en las próximas horas (21:09 UTC).
+- **Límite de API (HTTP 429):** La cuota se reiniciará a las 17:09 hora local (21:09 UTC).
 - **Sincronización:** Ejecutado `update_galleries.py`, galerías e índices actualizados con éxito.
 
 ### Sesión 27/05/2026 MAÑANA-TARDE (Engine Escritura v4.6 + Cap 1 v4 validación + Canon Outfit v4.6) ✅
