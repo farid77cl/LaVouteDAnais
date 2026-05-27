@@ -46,6 +46,8 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
 - ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 7/7 Poses ✅.
+- ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
+- ⏳ **Look 289 (Black Leather Motocross Athleisure):** 4/7 Poses (3 restantes pendientes cuota API) ⏳.
 - ⏳ **Look 204 (Emerald Bandcage):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
 - ⏳ **Look 205 (Obsidian Gold Idol):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 206 (Crimson Cathedral):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.

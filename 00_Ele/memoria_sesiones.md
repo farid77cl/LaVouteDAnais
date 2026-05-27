@@ -30,14 +30,17 @@
   - Aplicar Estándar Completo Bloque a los **41 MDs canónicos restantes** (preservando prosa intacta, reemplazando solo header).
 - **Cifras actualizadas:** Finalizadas 02_Finalizadas pasó de **39 → 38 relatos** (la_evaluacion movida a En_Progreso). En_Progreso: 4 → 5 relatos.
 
-### Sesión 27/05/2026 TARDE-LATE (Materialización Completa Look 287 Burlesque Rock V3.5 Hard-Sync) ✅
-- **Materialización de Look 287 (Black Leather Lace Burlesque Rock):**
-  - Generadas exitosamente las 7 poses canónicas (Standing, Back View, Seated, Side Profile, Ditzy, POV, Odalisque) con el motor visual bajo el estándar **V3.5 Hard-Sync** y **V4.1 SAFE**.
-  - Los archivos de imagen fueron organizados y normalizados en su carpeta final: `05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_[pose].png` sin timestamps.
+### Sesión 27/05/2026 TARDE-LATE (Materialización de Batch Rock L287-L289 y Límite API) ✅
+- **Materialización de Looks de Ele (Batch Rock):**
+  - **Look 287 (Black Leather Lace Burlesque Rock):** Generación completa de las 7 poses estándar (100% - 7/7 Poses).
+  - **Look 288 (Oxblood Croco Rock Housewife):** Generación completa de las 7 poses estándar (100% - 7/7 Poses).
+  - **Look 289 (Black Leather Motocross Athleisure):** Materializadas 4 poses (Standing, Back View, Seated, Side Profile - 4/7 Poses) bajo el estándar **V3.5 Hard-Sync** y **V4.1 SAFE**.
+  - El resto de poses del Look 289 y Look 290 quedaron pendientes debido al límite HTTP 429 de la API de imágenes.
+  - Las imágenes generadas se normalizaron sin timestamps y se trasladaron a sus carpetas finales en `05_Imagenes/ele/` con un script genérico automatizado.
 - **Saneamiento e Indexación de Galería:**
-  - Actualizado `galeria_outfits.md` marcando el Look 287 como `7/7 Materializado` e insertando la tabla de navegación de poses.
+  - Actualizado `galeria_outfits.md` marcando los Looks 287 (7/7) y 288 (7/7) como Materializados, y el Look 289 como 4/7 en progreso.
   - Ejecutado `update_galleries.py` para consolidar el índice e índices de galería (`galeria_index.md`).
-- **Próximos Pasos:** Continuar con la generación del Look 288 (Oxblood Croco Rock Housewife) y siguientes de la flota de rock L281–L290.
+- **Próximos Pasos:** Completar las 3 poses restantes del Look 289 y proceder con la generación del Look 290 una vez que se restablezca la cuota de la API.
 
 ### Sesión 27/05/2026 TARDE (Auditoría Visual Poses L250-L254 + Descarte + Indexación) ✅
 - **Auditoría Visual Completa de 34 imágenes (L250-L254):**
