@@ -20,11 +20,27 @@
 
 ---
 
-## 👠 Look 250: Burgundy Yoga Room Trophy
+## 👠 Look 252: Holographic Bad Kitty V-Front Brazil
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_250_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_standing.png) | ![ele_250_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_back_view.png) | ![ele_250_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_seated.png) | ![ele_250_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_side_profile.png) | ⏳ |
+| ![ele_252_standing_1779880413289.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing_1779880413289.png) | ![ele_252_back_1779880426494.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back_1779880426494.png) | ![ele_252_seated_1779880443434.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated_1779880443434.png) | ![ele_252_profile_1779880458138.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_profile_1779880458138.png) | ![ele_252_ditzy_1779880473486.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy_1779880473486.png) |
+
+---
+
+## 👠 Look 251: Champagne Playboy Bunny Canon
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_251_standing_1779880258776.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_standing_1779880258776.png) | ![ele_251_back_1779880272927.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_back_1779880272927.png) | ![ele_251_seated_1779880286527.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_seated_1779880286527.png) | ![ele_251_profile_1779880371609.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_profile_1779880371609.png) | ![ele_251_ditzy_1779880313025.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_ditzy_1779880313025.png) | ![ele_251_pov_1779880328656.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_pov_1779880328656.png) | ![ele_251_odalisque_1779880346960.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_odalisque_1779880346960.png) |
+
+---
+
+## 👠 Look 250: Burgundy Yoga Room Trophy
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_250_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_standing.png) | ![ele_250_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_back_view.png) | ![ele_250_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_seated.png) | ![ele_250_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_side_profile.png) | ![ele_250_ditzy_1779880189046.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_ditzy_1779880189046.png) | ![ele_250_pov_1779880204970.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_pov_1779880204970.png) | ![ele_250_odalisque_1779880219310.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look250_burgundy_yoga_room_trophy/ele_250_odalisque_1779880219310.png) |
 
 ---
 

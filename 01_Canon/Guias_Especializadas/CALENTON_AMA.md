@@ -204,7 +204,55 @@ Las respuestas se transcriben en este archivo bajo el relato correspondiente.
 - **Buzzwords AI:** *crucial, profundizar (delve), tapiz, intrincado, testimonio, fomentar, dinamismo, paisaje (abstracto).* Detección automática del Crítico (D4).
 - **Regla de Tres mecánica:** tres adjetivos seguidos ("frío, oscuro y húmedo") → suena a IA. Usar 2 o 4 o integrar orgánicamente.
 
-### Caso de estudio: "La Piel que Diseño" v1.0 → v1.7.1 (CUMPLIÓ EL ARCO PERO NO CALENTÓ)
+### Caso de estudio: esposa_servidumbre Cap 1 v0.1 v4 (v4.6 mejoró pero faltó nivel + bug metadata)
+
+**Feedback Ama 27/05/2026 tras lectura del v0.1 v4 (flujo v4.6 implementado):**
+
+✅ **Lo que funcionó (v4.6 validó parcialmente):**
+- *"Mejoró bastante"*
+- *"Me gusta la temperatura del relato"*
+- Mecanismos psicológicos capturados correctamente: depilación = rito femenino, tucking = imagen al espejo, Gabriel = asimetría sexual hetero
+- Frase canónica *"esa es la verga que coge a Valeria los domingos"* funcionó
+- Sec III momento crítico (medias + bata + grieta "quizás no sea temporal") clavó
+
+❌ **Lo que falló:**
+- *"Creo que debería elevarse [la temperatura]"* — v4.6 mejoró pero todavía no llega al techo de la Ama
+- 🐛 **BUG TÉCNICO:** *"está escrito beat erótico"* — la sección "Mecanismos M1-M17 activados" DEL BLOQUE DE AUTOVERIFICACIÓN final del archivo se cuela en la lectura y rompe la inmersión. La Ama lee el archivo completo y se topa con "M17 — Cada Ritual de Feminización = Beat Erótico" como metadata.
+- 🔄 **Problema narrativo MAYOR del arco:** el contrato laboral con Morales & Asociados + Valeria abogada + Gabriel jefe que sabe **no funciona**. Demasiado formal, demasiado profesional, no encaja con la fantasía. La premisa debe ser otra (ver "Nueva premisa esposa_servidumbre" abajo).
+
+**Aprendizaje permanente capturado:**
+
+1. **Regla anti-metadata en el archivo del capítulo (Nivel 4):** el archivo `capitulo_N_vX.md` debe contener **SOLO prosa narrativa**. Toda la autoverificación (subrayados, mecanismos activados, conteo de compromisos) va a archivo separado en `reportes/capitulo_N/autoverificacion_vX.md`. La Ama lee texto puro, no metadata operativa.
+
+2. **Premisa narrativa: el setting debe potenciar el kink, no formalizarlo.** Un contrato legal con cláusulas y un bufete corporativo NEUTRALIZA el morbo porque convierte la situación en transacción justificada. La fantasía vive en lo TURBIO, lo IMPROVISADO, lo CLANDESTINO. La Ama lo dijo explícito: "esto es algo que Valeria monta y que Esteban por desesperación acepta" — esquema, no contrato.
+
+3. **El cuckold inverso + engaño triple es ORO sin explotar.** Gabriel = amante de Valeria + Esteban = nueva secretaria de Gabriel sin que él sepa = doble engaño donde la víctima del cuckold ORIGINAL (Esteban) se convierte en la nueva amante FÍSICA del amante de su esposa. Y Gabriel no sabe.
+
+---
+
+### Nueva premisa esposa_servidumbre (declarada por Ama 27/05/2026)
+
+**Tras lectura del v0.1 v4, la Ama refundó la premisa:**
+
+- **Valeria:** dueña de casa + influencer de moda y maquillaje. No trabaja en oficina, no es abogada. Tiene presencia social/RRSS, círculo fashion.
+- **Esteban:** desempleado de larga duración, deudas reales acumuladas, ha buscado trabajo mucho tiempo sin éxito. Desesperación económica genuina.
+- **Gabriel:** amigo cercano de Valeria que Esteban conocía solo de nombre. Vio alguna vez. Nunca lo trató. **Es el amante de Valeria desde hace tiempo** (Esteban no lo sabe al inicio).
+- **El esquema:** Valeria MONTA un engaño usando su acceso a Gabriel. Le presenta a Gabriel a "Estefanía", supuesta amiga/conocida que necesita trabajo. Gabriel la contrata como secretaria sin saber que es el marido de su amante.
+- **El engaño es TRIPLE:**
+  1. Al lugar de trabajo (creen que Estefanía es mujer biológica)
+  2. A Gabriel mismo (no sabe que su nueva secretaria es Esteban)
+  3. Al círculo social (nadie sabe)
+- **La capa erótica que emerge en el camino:** Valeria descubre que **DISFRUTA** ver el cambio en Esteban. No estaba planeado al inicio — pero el sadismo emerge. Esteban también descubre que algo dentro suyo responde. Doble despertar.
+- **El clímax oculto:** Gabriel se entera TARDE de quién es Estefanía. Ese es el punto cataclísmico — pero antes de eso, Gabriel toma a Estefanía como mujer cualquiera (porque no la conoce). *"La misma verga que hace gritar a Valeria los domingos"* cobra otro sentido: la verga del amante de Valeria coge al marido de Valeria SIN saber. Cornudización inversa.
+
+**Kink stack del arco nuevo:**
+- Cuckold (Valeria amante de Gabriel desde antes)
+- Forced feminization por necesidad económica + sadismo emergente de la esposa
+- Cuckold inverso (Esteban siendo la amante secreta del amante de su esposa sin que Gabriel sepa)
+- Engaño triple social
+- Identity theft (Estefanía no existe)
+- Sadismo descubierto en la esposa-influencer
+- Sumisión descubierta en el marido-desempleado
 
 > **Hallazgo crítico del 25/05/2026:** El Cap 1 fue declarado Gold Master (`capitulo_01_la_piel_maestro_v1`), el Cap 2 v1.7.1 pasó Crítico (9.0), Centinela (APROBADO), Editor y Termómetro 🟢 EN RANGO. **La Ama nunca quedó conforme.** Ambos archivados como referencia negativa con sufijo `_pre_v45_descartado`.
 >
