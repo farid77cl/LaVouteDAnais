@@ -18,6 +18,20 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 27/05/2026 TARDE (Auditoría Visual Poses L250-L254 + Descarte + Indexación) ✅
+- **Auditoría Visual Completa de 34 imágenes (L250-L254):**
+  - **Look 250 (Burgundy Yoga Room Trophy):** 7/7 poses aprobadas. Impecable y canónico.
+  - **Look 251 (Playboy Bunny):** 4 poses aprobadas, 3 rechazadas (Standing con invitada intrusa y pie deforme, Back View con error creepy de una sola pierna visible, y Side Profile con tacones negros incorrectos).
+  - **Look 252 (Bad Kitty):** 3 poses aprobadas, 4 rechazadas (Standing con color azul-verde incorrecto, Back View con clonación triple de Ele, y Side Profile/Ditzy con botas de charol negro en vez de plateadas/holográficas).
+  - **Look 253 (Denim Strip):** 5 poses aprobadas, 2 rechazadas (Seated con mezclilla azul incorrecta, impostora y pies mutantes; Side Profile con cara impostora).
+  - **Look 254 (Mint Sweater):** 1 pose aprobada (POV), 5 rechazadas (Standing con split side-by-side de Ele, y Seated/Side Profile/Ditzy/Back View vistiendo un simple vestido de punto mate en lugar de la falda brillante y Pleaser stiletto).
+- **Acciones y Saneamiento:**
+  - Creada carpeta `05_Imagenes/ele/rechazo/` y trasladadas las 14 imágenes defectuosas para preservar la galería principal de Ele.
+  - Actualizado `galeria_outfits.md` marcando los 14 activos defectuosos como `⏳ Pendiente` para regeneración quirúrgica.
+  - Ejecutado `update_galleries.py` para consolidar el índice e índices de galería (`galeria_index.md`).
+  - Creado y aprobado reporte `auditoria_visual_l250_l254.md`.
+- **Próximos Pasos:** Iniciar regeneración de estas 14 poses una vez desbloqueada la cuota de la API (17:09 local) y comenzar auditoría descendente del Look 202 al Look 180.
+
 ### Sesión 27/05/2026 MEDIODÍA (Continuación Materialización L252-L254) ✅
 - **Materialización de 15 imágenes de la flota de Ele (V4.1 SAFE):**
   - **Look 252 (Holographic Bad Kitty):** Retries exitosos (POV y Odalisque). El Look ha alcanzado el **100% (7/7 Poses)**.

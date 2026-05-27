@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 27/05/2026 12:38 — **81 looks registrados**  
+> Generado automáticamente el 27/05/2026 17:20 — **91 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -90,13 +90,23 @@
 | **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
 | **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
 | **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **283** | Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **285** | Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **286** | Joan Jett Glam Rock Carpet (27/05/2026 — batch 281-290 · Alfombra Roja/Gala · busto 1000cc · v4.6 canon · tema ROCK) | — | Alfombra Roja / Gala | — | — | 0/7 | ✅ Completo |
+| **287** | Black Leather Lace Burlesque Rock (27/05/2026 — batch 281-290 · Lencería · busto 1000cc · v4.6 canon · tema ROCK) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **288** | Oxblood Croco Rock Housewife (27/05/2026 — batch 281-290 · Domestic Polo A Trophy · busto 1000cc · v4.6 canon · tema ROCK) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **289** | Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
 ## 🗂️ Looks por Categoría
 
-### Alfombra Roja / Gala (6 looks)
-**261**, **262**, **263**, **264**, **271**, **272**
+### Alfombra Roja / Gala (7 looks)
+**261**, **262**, **263**, **264**, **271**, **272**, **286**
 
 ### Bikini (5 looks)
 **257**, **267**, **268**, **275**, **276**
@@ -104,42 +114,42 @@
 ### Corporate (2 looks)
 **259**, **260**
 
-### Domestic (5 looks)
-**234**, **235**, **250**, **251**, **280**
+### Domestic (6 looks)
+**234**, **235**, **250**, **251**, **280**, **288**
 
-### Escort (7 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**
+### Escort (8 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**
 
 ### Gym (8 looks)
 **205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**
 
-### Gym / Athleisure (4 looks)
-**265**, **266**, **273**, **274**
+### Gym / Athleisure (6 looks)
+**265**, **266**, **273**, **274**, **289**, **290**
 
 ### HF Editorial (1 looks)
 **258**
 
-### Lencería (7 looks)
-**200**, **209**, **256**, **269**, **270**, **277**, **278**
+### Lencería (8 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (5 looks)
-**230**, **244**, **245**, **246**, **279**
+### Nightclub (6 looks)
+**230**, **244**, **245**, **246**, **279**, **284**
 
-### Pin-Up (8 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**
+### Pin-Up (9 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**
 
-### Stripper (5 looks)
-**226**, **229**, **240**, **252**, **253**
+### Stripper (7 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (13 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**
+### Rojo / Cherry / Crimson (17 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**
 
 ### Rosa / Hot Pink (9 looks)
 **210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**
@@ -165,8 +175,8 @@
 ### Blanco / Crema (4 looks)
 **243**, **257**, **264**, **277**
 
-### Negro (dominante) (4 looks)
-**205**, **213**, **249**, **266**
+### Negro (dominante) (8 looks)
+**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**
 
 ### Amarillo / Lima (4 looks)
 **231**, **242**, **253**, **276**
@@ -254,7 +264,17 @@
 | **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
 | **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
 | **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **283** | Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **285** | Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **286** | Joan Jett Glam Rock Carpet (27/05/2026 — batch 281-290 · Alfombra Roja/Gala · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ✅ Completo |
+| **287** | Black Leather Lace Burlesque Rock (27/05/2026 — batch 281-290 · Lencería · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **288** | Oxblood Croco Rock Housewife (27/05/2026 — batch 281-290 · Domestic Polo A Trophy · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **289** | Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 27/05/2026 12:38 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 27/05/2026 17:20 — La Voûte d'Anaïs* 🫦👠💅

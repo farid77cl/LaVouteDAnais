@@ -39,10 +39,10 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ⏳ **Look 202 (Indigo Mirage):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 203 (Violet Venom):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ✅ **Look 250 (Burgundy Yoga Room Trophy):** 7/7 Poses ✅.
-- ✅ **Look 251 (Champagne Playboy Bunny Canon):** 7/7 Poses ✅.
-- ✅ **Look 252 (Holographic Bad Kitty):** 7/7 Poses ✅.
-- ✅ **Look 253 (Acid Yellow Y2K Denim Strip):** 7/7 Poses ✅.
-- ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 6/7 Poses (Límite API HTTP 429) ⏳.
+- ⏳ **Look 251 (Champagne Playboy Bunny Canon):** 4/7 Poses (3 rechazadas por deformidades/intrusos en auditoría, pendientes de regeneración) ⏳.
+- ⏳ **Look 252 (Holographic Bad Kitty):** 3/7 Poses (4 rechazadas por duplicación/consistencia de color en auditoría, pendientes de regeneración) ⏳.
+- ⏳ **Look 253 (Acid Yellow Y2K Denim Strip):** 5/7 Poses (2 rechazadas por modelo/color en auditoría, pendientes de regeneración) ⏳.
+- ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 1/7 Poses (5 rechazadas por traición de outfit en auditoría, pendientes de regeneración) ⏳.
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
 - ⏳ **Look 204 (Emerald Bandcage):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
