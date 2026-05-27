@@ -185,42 +185,42 @@ Mapeo del ecosistema digital donde existen y se construyen las dominatrices cont
 
 ## B.2 Cinco arquetipos de marca personal en RRSS
 
-### B.2.1 La Latex Goddess editorial
+### B.2.1 *La Latex Goddess editorial*
 - Estética: solo látex couture, fotos de alta producción, paleta monocroma.
 - Posts: 1–2 por semana, todos editoriales.
 - Tono: silencioso, frases cortas y crípticas.
 - Engagement: bajo en cantidad, alto en lujo de marca colaboradora.
 - **Ejemplo público de aspiración:** trabajos visuales de **The Baroness Cathouse Latex** ([@latexbaroness](https://www.instagram.com/latexbaroness/)) y **Atsuko Kudo Latex** ([@atsukokudolatex](https://www.instagram.com/atsukokudolatex/)) — ambos casos de marca latex que define estética de muchas dominas.
 
-### B.2.2 La Mistress educadora
+### B.2.2 *La Mistress educadora*
 - Estética: personal pero limpia. Mezcla outfit + reels educativos.
 - Posts: 5–7 a la semana, variados.
 - Tono: didáctico, informativo, advocacy de práctica segura.
 - Engagement: muy alto en preguntas/respuestas, comunidad activa.
 - **Ejemplo público:** **Mistress Eva Oh** — profesional, hospedante del *Safeword Podcast*, creadora de #teakink, fundadora de YouWillPleaseMe.com. Cubierta en *Entrepreneur*.
-- **Ejemplo público:** **Sherry Lever / Mistress Sofia** — UK's oldest professional dominatrix (74 años), educadora muy presente en TikTok normalizando el oficio.
+- **Ejemplo público:** **Sherry Lever / Mistress Sofia** ([@sherrylever](https://x.com/sherrylever) en X y TikTok) — UK's oldest professional dominatrix (74 años), educadora muy presente en TikTok normalizando el oficio.
 
-### B.2.3 La Findom / Goddess Worship
+### B.2.3 *La Findom / Goddess Worship*
 - Estética: lujo (joyería, zapatos de marca, viajes, regalos recibidos).
 - Posts: outfits + screenshots de tributos, *wishlist drops*, frases de superioridad.
 - Tono: mando directo, *humiliation* light en captions.
 - Engagement: orientado a *paypigs / cash subs*.
-- **Ejemplo público pionera:** **Ceara Lynch** — humiliatrix y financial dominatrix con más de 10 años en industria, presencia en YouTube con divulgación de findom.
+- **Ejemplo público pionera:** **Ceara Lynch** ([@cearalynch](https://www.instagram.com/cearalynch/)) — humiliatrix y financial dominatrix con más de 10 años en industria, presencia en YouTube con divulgación de findom.
 - **Ejemplo público:** **Goddess Cleo** (Londres) — Pro/Lifestyle Dominant.
 
-### B.2.4 La performer híbrida pole/exotic + Domme
+### B.2.4 *La performer híbrida pole/exotic + Domme*
 - Estética: pole content con código Domme (catsuit látex, botas Pleaser cuero, props de fusta).
 - Posts: reels de pole, heels choreo, transitions, BTS sesión.
 - Tono: visual, físico, fuerza atlética + código de poder.
 - Engagement: alto en cross-over público pole + público fetish.
-- **Punto de referencia:** el cruce entre código fetish y pole está en pleno crecimiento en TikTok.
+- **Punto de referencia visual:** *Pole Dancers of Instagram* ([@poledancersofinstagram](https://www.instagram.com/poledancersofinstagram/)) y curaduría editorial de revistas como *Chrome Chronicles*. Performers individuales como **Sammy "Flame Bae"** o **Ro'Yale** han abierto espacios para variedad de cuerpos en pole, y el cruce con código fetish está en pleno crecimiento en TikTok.
 
-### B.2.5 La Domme literaria / autora
+### B.2.5 *La Domme literaria / autora*
 - Estética: pocas fotos, texto largo, citas, columnas.
 - Posts: ensayos, libros, podcasts.
 - Tono: intelectual, autoral, gravitas.
 - Engagement: comunidad pequeña pero culta y leal.
-- **Ejemplo público:** perfiles en X con bio "writer · domme · educator". Publican en *Damaged Magazine*, *Zipper Magazine*, *i-D*, *Dazed*.
+- **Ejemplo público:** muchos perfiles en X (Twitter) con bio "writer · domme · educator". Algunos publican en *Damaged Magazine*, *Zipper Magazine*, *i-D*, *Dazed*.
 
 > Una mujer puede mezclar 2 arquetipos pero rara vez 3. Decidir cuál(es) es elemento estratégico primario.
 
@@ -232,17 +232,19 @@ Mapeo del ecosistema digital donde existen y se construyen las dominatrices cont
 - **Shhh! Couture Latex** — https://www.instagram.com/shhhcouturelatex/
 - **Venus Prototype** ("Hollywood's Latex / Leather Costume House") — https://www.instagram.com/xvenusprototypex/
 - **Latex Couture Ltd** — https://www.instagram.com/latex_couture/
+- **Outfits Gallery** (curaduría de látex) — https://www.instagram.com/latex.collection/
 - **Dawnamatrix** (custom latex couture) — https://dawnamatrix.com/
 
 ### Profesionales con presencia editorial pública
 - **Mistress Eva Oh** — entrevista *Entrepreneur*, *Safeword Podcast*, sitio https://www.mistress-eve.com/
-- **Ceara Lynch** — @cearalynch (Instagram + X)
-- **Goddess Cleo** — @goddesscleo1 (IG), @Goddess_Cleo (X)
+- **Mistress Sofia (Sherry Lever)** — TikTok @sherrylever, perfil X: https://x.com/sherrylever
+- **Ceara Lynch** — Instagram @cearalynch, X @ceara_lynch
+- **Goddess Cleo** — IG @goddesscleo1, X @Goddess_Cleo
 
 ### Hashtags y comunidades agregadoras
 - IG `#dominatrix` — https://www.instagram.com/explore/tags/dominatrix/
-- TikTok `#kinktok`, `#femdom`, `#dominatrix`, `#darkfeminineaesthetic`
-- TikTok `#KinkTok` — comunidad de educación BDSM
+- TikTok `#kinktok`, `#femdom`, `#dominatrix`, `#darkfeminineaesthetic`.
+- TikTok `#KinkTok` — comunidad de educación BDSM.
 
 ### Lecturas culturales / artículos de referencia
 - **i-D · TikTok BDSM, fetish and kink content is thriving** — https://i-d.vice.com/en/article/qj8387/tiktok-bdsm-community
@@ -264,7 +266,7 @@ Patrones repetidos en cuentas exitosas:
 - **Manos en primer plano** sosteniendo objeto firma — anclaje visual.
 - **Ojos cubiertos / encuadre que oculta cara** parcialmente — preserva privacidad y aumenta misterio.
 - **Caption estructurado** — frase corta autoritaria + emoji firma (🖤 ⛓️ 🥀 🔪 💋).
-- **Ubicación etiquetada** estratégicamente para citas locales (presencial) u omitida (digital only).
+- **Ubicación etiquetada** estratégicamente para citas locales (presencial) o omitida (digital only).
 
 ## B.5 Tono lingüístico de captions exitosos
 
@@ -278,12 +280,15 @@ Patrones repetidos en cuentas exitosas:
 
 ## B.6 Riesgos y censura — cómo navegar
 
-- **Shadowban** en IG/TikTok — términos crudos triggean caída de alcance. Solución: alfabetos sustitutivos, captions vagos, contenido picante en plataformas pagadas.
-- **Account suspension** — backup permanente de feed, cross-posting a múltiples plataformas.
-- **Doxxing** — separar identidad civil y artística estrictamente. Misma cara + locación = vulnerabilidad.
+- **Shadowban** en IG/TikTok — términos crudos triggear caída de alcance. Solución: alfabetos sustitutivos, captions vagos, contenido picante en plataformas pagadas.
+- **Account suspension** — backup permanente de feed, cross-posting a múltiples plataformas para no depender de una.
+- **Doxxing** — separar identidad civil y artística estrictamente. Misma cara con cabeza descubierta + locación = vulnerabilidad.
 - **Stalkers** — bloqueo masivo, no responder DMs personales sin filtro.
+- **Predadores en KinkTok** — investigación reciente ha revelado abusos de creadores. Vigilancia comunitaria importante.
 
 ## B.7 Cross-platform funnel típico
+
+Estructura común que las dominas pro usan en RRSS:
 
 ```
 TikTok (descubrimiento masivo, frío)
@@ -311,16 +316,18 @@ Cada plataforma alimenta a la siguiente. Pocas tienen éxito eligiendo solo una.
 
 ## Cierre
 
-Los estudios anteriores cubren el cuerpo: ropa, materiales, poses, maquillaje, peinado, uñas. Este documento añade el **resto del personaje**: voz, sonido, olfato, fotografía, marca, protocolo, técnica, espacio, negocio, repertorio. Y la Parte B es el **mapa del ecosistema digital** donde la Domme-Stripper contemporánea existe y se construye públicamente.
+Los estudios anteriores cubren el cuerpo: ropa, materiales, poses, maquillaje, peinado, uñas. Lo que añade esta parte A es el **resto del personaje**: voz, sonido, olfato, fotografía, marca, protocolo, técnica, espacio, negocio, repertorio. Y la parte B es el **mapa del ecosistema digital** donde la Domme-Stripper contemporánea existe y se construye públicamente.
 
-**Prioridades recomendadas por orden de impacto:**
+Recomendaría priorizar, por orden:
 
-1. **Voz y glosario** (A.1) — impacto inmediato en personaje.
+1. **Voz y glosario** (A.1) — más impacto inmediato en personaje.
 2. **Branding y arquetipo único elegido** (B.2 + B.4) — antes de empezar a publicar.
 3. **Música y soundtrack** (A.2) — para sesión, photoshoot y reels.
 4. **Mitología/lore escrito** (A.11) — coherencia interna.
 5. **Catálogo de técnicas y protocolo** (A.6 + A.14).
 
+El resto se construye con tiempo, pero estos cinco son la base mínima para operar coherentemente.
+
 ---
 
-*Documento elaborado a partir de fuentes públicas, prensa cultural especializada (i-D, Dazed, Entrepreneur, Hypebae, Zipper Magazine) y observación del ecosistema RRSS Domme contemporáneo. Pensado como mapa estratégico.*
+*Documento elaborado a partir de fuentes públicas, prensa cultural especializada (i-D, Dazed, Entrepreneur, Hypebae, Zipper Magazine) y observación del ecosistema RRSS Domme contemporáneo. Pensado como mapa estratégico, no como teoría.*
