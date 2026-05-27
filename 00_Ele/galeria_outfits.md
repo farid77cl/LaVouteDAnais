@@ -6795,7 +6795,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Red lacquered sole (Louboutin-style accent burlesque signature)
 - **Ambientación:** Boudoir velvet cabaret crimson burgundy con espejo art-deco oval marco dorado, dresser antique de caoba con polvera y perfumes, lámpara de seda tassels franjas dorada warm, terciopelo rojo cortinas pesadas pleated.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (7/7 — Materializado)
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_standing.png) | [📸 View](../../05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_back_view.png) | [📸 View](../../05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_seated.png) | [📸 View](../../05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_side_profile.png) | [📸 View](../../05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_ditzy.png) | [📸 View](../../05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_pov.png) | [📸 View](../../05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_odalisque.png) |
+
+</details>
+
+> *✅ Materializado. 7/7 Poses.*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6878,7 +6890,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Black lacquered sole
 - **Ambientación:** Cocina industrial-glam Calacatta marble countertop con campana Smeg chrome retro + KitchenAid Artisan chrome polished sobre la encimera, taburetes industriales chrome, ventana panorámica a jardín Las Condes, suelo blanco mármol pulido.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (7/7 — Materializado)
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look288_oxblood_croco_rock_housewife/ele_288_standing.png) | [📸 View](../../05_Imagenes/ele/look288_oxblood_croco_rock_housewife/ele_288_back_view.png) | [📸 View](../../05_Imagenes/ele/look288_oxblood_croco_rock_housewife/ele_288_seated.png) | [📸 View](../../05_Imagenes/ele/look288_oxblood_croco_rock_housewife/ele_288_side_profile.png) | [📸 View](../../05_Imagenes/ele/look288_oxblood_croco_rock_housewife/ele_288_ditzy.png) | [📸 View](../../05_Imagenes/ele/look288_oxblood_croco_rock_housewife/ele_288_pov.png) | [📸 View](../../05_Imagenes/ele/look288_oxblood_croco_rock_housewife/ele_288_odalisque.png) |
+
+</details>
+
+> *✅ Materializado. 7/7 Poses.*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6961,7 +6985,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Black rubber motocross tread agresivo + chrome heel tap
 - **Ambientación:** Track day pit lane motocross con KTM 450 SX-F naranja y negra visible al lado, paddock con tarpas chrome, neumáticos apilados, suelo de cemento con marcas de quemada, atardecer industrial cielo naranja-rojo.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (4/7 — En progreso)
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look289_black_leather_motocross_athleisure/ele_289_standing.png) | [📸 View](../../05_Imagenes/ele/look289_black_leather_motocross_athleisure/ele_289_back_view.png) | [📸 View](../../05_Imagenes/ele/look289_black_leather_motocross_athleisure/ele_289_seated.png) | [📸 View](../../05_Imagenes/ele/look289_black_leather_motocross_athleisure/ele_289_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ En progreso. 4/7 Poses.*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 

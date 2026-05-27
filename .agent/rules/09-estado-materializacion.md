@@ -45,6 +45,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 1/7 Poses (5 rechazadas por traición de outfit en auditoría, pendientes de regeneración) ⏳.
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
+- ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 7/7 Poses ✅.
 - ⏳ **Look 204 (Emerald Bandcage):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
 - ⏳ **Look 205 (Obsidian Gold Idol):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
 - ⏳ **Look 206 (Crimson Cathedral):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.

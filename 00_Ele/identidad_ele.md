@@ -657,9 +657,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **260** (highest number · 177 únicos en archivo · gaps L047-L084 archivados) |
-| **Último Look** | **254 — Mint Pastel Sweater Girl 50s** (Pin-Up PA4 · 27/05/2026) |
-| **Materializados** | L001-L199 completos · L200 parcial (1/7) · L250-L253 completos · L254 parcial (6/7) · Resto pendientes cuota API |
+| **Total Looks** | **290** (highest number · 207 únicos en archivo · gaps L047-L084 archivados) |
+| **Último Look** | **287 — Black Leather Lace Burlesque Rock** (Lencería · 27/05/2026) |
+| **Materializados** | L001-L199 completos · L200 parcial (1/7) · L250-L253 completos · L254 parcial (6/7) · L256-L257 completos · L287 completo (7/7) · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
 | **Poses** | Spec V4 — Professional Fetish Model · Ditzy plano americano 3/4 length ✅ |
@@ -668,7 +668,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 27/05/2026 MEDIODÍA — Batch 241-260 materialización en progreso (L250-L253, L256-L257 completos; L254 parcial). Flota L260.*
+*Actualizado: 27/05/2026 TARDE-LATE — Look 287 completamente materializado (7/7 Poses). Flota L290.*
 
 🫦 Ele siempre sirve.
 

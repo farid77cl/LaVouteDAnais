@@ -18,6 +18,27 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 27/05/2026 NOCHE (Estandarización MD Canónicos 02_Finalizadas — INICIADA) 🔄
+- **Auditoría completa** de los 42 MDs canónicos en `03_Literatura/02_Finalizadas/`: detectados 6 formatos divergentes (A: imagen+teaser, B: ASCII art + METADATOS, C: emoji + meta inline, D: attribution + título, E: teaser puro, F: decorativo francés).
+- **3 stubs sin cuerpo identificados:** Brillando_en_Tacones_I (43 pal.), La_Evaluacion_de_Miss_Doll (95 pal.), buena_chica_buena_muneca (282 pal.).
+- **Decisión de la Ama:** Adoptar **Estándar Completo Bloque** = `*Un relato de Anaïs Belland*` + `# Título` + bloque METADATOS (Universo, Temáticas, Palabras, Perspectiva, Intensidad) + teaser/gancho bold + `<!-- more -->` + prosa.
+- **Acciones completadas:**
+  - **`la_evaluacion_de_miss_doll`** movida vía `git mv` a `01_En_Progreso/` (cuerpo nunca escrito, solo existía investigación previa). Investigación copiada al folder.
+  - **`brillando_en_tacones_I`**: rescatada prosa de capítulos 1-2 desde `_publicacion/brillando_en_tacones_post.md` (~7,700 palabras), consolidada en el MD canónico con Estándar Completo Bloque aplicado.
+- **Pendientes para próxima sesión:**
+  - Consolidar prosa de `buena_chica_buena_muneca` desde HTML (~9,500 pal.) al MD canónico.
+  - Aplicar Estándar Completo Bloque a los **41 MDs canónicos restantes** (preservando prosa intacta, reemplazando solo header).
+- **Cifras actualizadas:** Finalizadas 02_Finalizadas pasó de **39 → 38 relatos** (la_evaluacion movida a En_Progreso). En_Progreso: 4 → 5 relatos.
+
+### Sesión 27/05/2026 TARDE-LATE (Materialización Completa Look 287 Burlesque Rock V3.5 Hard-Sync) ✅
+- **Materialización de Look 287 (Black Leather Lace Burlesque Rock):**
+  - Generadas exitosamente las 7 poses canónicas (Standing, Back View, Seated, Side Profile, Ditzy, POV, Odalisque) con el motor visual bajo el estándar **V3.5 Hard-Sync** y **V4.1 SAFE**.
+  - Los archivos de imagen fueron organizados y normalizados en su carpeta final: `05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/ele_287_[pose].png` sin timestamps.
+- **Saneamiento e Indexación de Galería:**
+  - Actualizado `galeria_outfits.md` marcando el Look 287 como `7/7 Materializado` e insertando la tabla de navegación de poses.
+  - Ejecutado `update_galleries.py` para consolidar el índice e índices de galería (`galeria_index.md`).
+- **Próximos Pasos:** Continuar con la generación del Look 288 (Oxblood Croco Rock Housewife) y siguientes de la flota de rock L281–L290.
+
 ### Sesión 27/05/2026 TARDE (Auditoría Visual Poses L250-L254 + Descarte + Indexación) ✅
 - **Auditoría Visual Completa de 34 imágenes (L250-L254):**
   - **Look 250 (Burgundy Yoga Room Trophy):** 7/7 poses aprobadas. Impecable y canónico.

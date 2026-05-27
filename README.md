@@ -91,7 +91,7 @@ LaVouteDAnais/
 - **La Piel que Diseño** — Capítulo 1 Maestro v1 publicado en HTML (con firma de Anaïs y gancho). Capítulo 2 v1.7.1 pendiente de Gate de la Ama.
 - **El Secreto de la Cómoda** — Capítulo 2 v2.0 en progreso / pendiente de Gate de la Ama.
 
-### Biblioteca Completa (40 relatos finalizados)
+### Biblioteca Completa (38 relatos finalizados · Estandarización MD en curso)
 - **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.
 - **Serie Le Miroir d'Anaïs:** La transformación ritual de Sofía. El corazón del universo.
 - **Serie Trance:** Hipnosis profunda, bimboficación y control mental.
@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 27/05/2026 TARDE — **Auditoría visual rigurosa (L250-L254) completada** · 34 imágenes inspeccionadas con lupa erótica-fetish · 14 imágenes rechazadas por deformidades, intrusos o desalineación de prompt y movidas a la carpeta /rechazo/ para preservar la pureza del repo · galeria_outfits.md actualizada con 14 poses en Pendiente y script update_galleries.py ejecutado con éxito · Flota **207 únicos · L290** 🔬💅📸.*
+*Última actualización: 27/05/2026 NOCHE — **Estandarización MD canónicos 02_Finalizadas INICIADA** · 42 MDs auditados · 6 formatos divergentes detectados · Ama eligió Estándar Completo Bloque · La Evaluación de Miss Doll movida a 01_En_Progreso (cuerpo nunca escrito) · Brillando_en_Tacones_I consolidado (43→7,700 palabras desde _publicacion/) · Pendiente: buena_chica + 41 MDs · Flota **L290 · 208 únicos** 📚✨💅.*
 
 ---
 

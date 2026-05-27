@@ -3,7 +3,7 @@
 > *"Cada historia es una invitación. Cada palabra, una caricia."*
 > — Anaïs Belland
 
-*Última actualización: 10/04/2026*
+*Última actualización: 27/05/2026 NOCHE — 38 relatos finalizados · Estandarización MD en curso (Estándar Completo Bloque) · La Evaluación de Miss Doll movida a 01_En_Progreso (cuerpo pendiente)*
 
 ---
 
@@ -75,7 +75,6 @@
 | HR: Human Repurposing | [hr_human_repurposing/](hr_human_repurposing/) |
 | La Creación Útil | [la_creacion_util/](la_creacion_util/) |
 | La Dulce Aniquilación | [la_dulce_aniquilacion/](la_dulce_aniquilacion/) |
-| La Evaluación de Miss Doll | [la_evaluacion_de_miss_doll/](la_evaluacion_de_miss_doll/) |
 | Milk | [milk/](milk/) |
 | Proyecto Trad Wife: Unidad VERA | [proyecto_trad_wife_vera/](proyecto_trad_wife_vera/) |
 | Smart Home Stepford | [smart_home_stepford/](smart_home_stepford/) |
