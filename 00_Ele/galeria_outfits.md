@@ -2,26 +2,32 @@
 
 *Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* ✨
 
-> **Canon activo:** V3.5 Hard-Sync (busto 1000cc) | **Paleta:** V3.5 Spectrum Expansion + Step 0 Anti-Repetición | **Poses:** V4.1 SAFE Professional Fetish Model (Ditzy plano 3/4 bust+face · POV single hand anti-multi-hand) | **Reglas v4.5 (25/05):** Sin guantes en batches recientes · **Anti-filter masivo retroactivo** (19 triggers limpiados global) · **HF Editorial → "Alfombra Roja / Gala"** · **Batch 271-280 inspiración ORIENTAL** (Shanghai · Bollywood · Bali · Phuket · Tokyo · Seoul · Tea Ceremony) | **Último look:** 280 — Champagne Gold Tea Ceremony Cheongsam · Domestic Oriental (25/05/2026) | **Flota:** L280 (197 únicos en archivo · gaps L047-L084 archivados) 💎 EXPANSIÓN ACTIVA 🐉🪷
+> **Canon activo:** V3.5 Hard-Sync (busto 1000cc) | **Paleta:** V3.5 Spectrum Expansion + Step 0 Anti-Repetición | **Poses:** V4.1 SAFE Professional Fetish Model (Ditzy plano 3/4 bust+face · POV single hand anti-multi-hand) | **Reglas v4.5/v4.6:** Anti-filter masivo retroactivo · HF Editorial → "Alfombra Roja / Gala" · **Canon Outfit v4.6** (variedad por sub-arquetipo + descriptividad obligatoria 8 campos por tacón, 7 por outfit) · **Batch 281-290 ROCK** (cuero · tachas · negro autorizado · biker · rockabilly · glam rock) | **Último look:** 290 — Studded Boxing Rock WOD · Gym Boxing/MMA (27/05/2026) | **Flota:** L290 (207 únicos en archivo · gaps L047-L084 archivados) 💎 EXPANSIÓN ACTIVA 🎸🤘
 
 ---
 
-## 📊 Estado Estadístico (25/05/2026 — **197 looks en archivo** · meta 10% ≈ 20 · highest L280)
+## 📊 Estado Estadístico (27/05/2026 — **207 looks en archivo** · meta 10% ≈ 21 · highest L290)
 
-| # | Categoría | Total real | Meta (≈20) | Déficit | Estado |
+| # | Categoría | Total real | Meta (≈21) | Déficit | Estado |
 |---|-----------|:----------:|:----------:|--------:|--------|
-| 1 | **Nightclub** | 27 | 20 | **+7** | ✅ |
-| 2 | **Escort** | 23 | 20 | **+3** | ✅ |
-| 3 | **Domestic** | 21 | 20 | **+1** | ✅ |
-| 4 | **Stripper** | 18 | 20 | −2 | ⚠️ |
-| 5 | **Corporate** | 17 | 20 | −3 | ⚠️ |
-| 6 | **Pin-Up** | 17 | 20 | −3 | ⚠️ |
-| 7 | **Lencería** | 15 | 20 | −5 | ⚠️ |
-| 8 | **Bikini** | 13 | 20 | −7 | 🔴 |
-| 9 | **Alfombra Roja / Gala** ⭐ *(ex-"HF Editorial", renombrado 25/05)* | 13 | 20 | −7 | 🔴 |
-| 10 | **Gym/Athleisure** | 11 | 20 | −9 | 🔴 #1 |
+| 1 | **Nightclub** | 28 | 21 | **+7** | ✅ |
+| 2 | **Escort** | 24 | 21 | **+3** | ✅ |
+| 3 | **Domestic** | 22 | 21 | **+1** | ✅ |
+| 4 | **Stripper** | 20 | 21 | −1 | ⚠️ |
+| 5 | **Pin-Up** | 18 | 21 | −3 | ⚠️ |
+| 6 | **Corporate** | 17 | 21 | −4 | ⚠️ |
+| 7 | **Lencería** | 16 | 21 | −5 | ⚠️ |
+| 8 | **Alfombra Roja / Gala** ⭐ | 14 | 21 | −7 | 🔴 |
+| 9 | **Bikini** | 13 | 21 | −8 | 🔴 |
+| 10 | **Gym/Athleisure** | 13 | 21 | −8 | 🔴 #1 |
 
-**Prioridad próximos batches:** Gym → Bikini/Alfombra Roja/Gala (tie) → Lencería → Stripper/Corporate/Pin-Up → resto over-meta pausa relativa
+**Prioridad próximos batches:** Gym/Bikini (tie) → Alfombra Roja/Gala → Lencería → Corporate/Pin-Up → resto over-meta pausa relativa
+
+**📋 Batch L281-L290 rock — primer uso del Canon Outfit v4.6:**
+- ✅ Variedad Gym aplicada: L289 silueta V10 Wetsuit/Motocross + L290 silueta V4 Boxing/MMA + V18 Crossfit (anti-repetición leggins+bra cumplido)
+- ✅ Descriptividad obligatoria: 8 campos por tacón + 7 por outfit en TODOS los 10 looks (marca/material/acabado/color específico/silueta/detalle/hardware)
+- ✅ Negro autorizado (excepción anti-black para este batch — tema rock)
+- ✅ Step 0 anti-repetición cromática: paletas combinan black con accent (chrome, hot pink, crimson, cherry red, neon yellow, cream, oxblood) — sin 10 looks 100% monochrome
 
 **🔄 Renombre canónico (25/05/2026):** El sub-arquetipo histórico "HF Editorial" (vestidos editoriales conceptuales) se redefine como **"Alfombra Roja / Gala"** — vestidos de gala formales tipo Oscars / Cannes / Met Gala / premiere internacional, con ADN Ele V3.5 pero registro más fotográfico que conceptual. Los 7 looks anteriores (193, 213, 214, 258, etc.) quedan como referencia legacy del modo editorial; los nuevos ingresan bajo el modo Gala.
 
@@ -6258,6 +6264,338 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 **Negative Prompt:** `red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, extra hands, multiple hands, three hands, four hands, duplicate hands, six fingers, extra fingers, malformed hand, deformed hand, two left hands, two right hands` · **Adicional POV:** `no phone, no smartphone, no device, no screen, no camera in hand`
+
+---
+
+
+
+## 🎸 Look 281: Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK)
+
+*Mon amour... rock stage dominatrix · patente negro + tachas chrome · pole goddess registro Suicide Girls · jiji.* 🎸✨
+
+- **Ubicación:** `05_Imagenes/ele/look281_black_patent_mistress_rock_stage/`
+- **Categoría:** Stripper
+- **Subcategoría:** Stripper Polo A Stage Rock Dominatrix
+- **Tags:** #stripper #stage #rock #leather #studded #patent #chrome #v46
+- **Concepto:** Estética rock stage dominatrix estilo Suicide Girls + Lita Ford 80s glam metal. Patente negro de alto brillo con tachas chrome cone-stud cubriendo el cuerpo en patrón geométrico. Pole stage iluminado con neón rojo.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Vex Clothing Studded Bodysuit + Atsuko Kudo Pro-Dom hybrid · Lita Ford 1984 stage aesthetic
+  - **Material:** Patent leather mirror-finish (NO látex) — espejo negro reflejante de alto brillo, rigidez tipo armadura
+  - **Acabado:** Hi-gloss specularity con reflejos chrome cromados en bordes
+  - **Color:** Black patent mirror + chrome silver cone-stud (3mm spike studs cubriendo en patrón geométrico romboidal sobre bust, hip y outer thigh)
+  - **Silueta:** Underbust bustier con cup armado push-up + thong de tiro alto crisscross al frente + leggings cropped a mid-calf en patent
+  - **Detalle específico:** Cremallera frontal chrome con anillo D-ring tirador, costura visible en cadera con tachas más densas
+  - **Hardware:** 200+ tachas chrome cone-stud aplicadas a mano, 4 D-rings chrome en cintura (puntos de anclaje fetish-stage), choker tipo collar de cuero con candado chrome
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Platform pump stiletto (Pleaser Adore-1020SD signature)
+  - **Altura:** 7-inch (18cm) needle heel
+  - **Plataforma:** 3-inch (7.5cm) chunky chrome platform sole
+  - **Toe:** Pointed-toe almond
+  - **Material upper:** Black patent leather mirror-finish
+  - **Color:** Black patent + chrome platform exposed
+  - **Hardware:** Ankle strap with chrome buckle and 4 spike studs around band
+  - **Sole/finish:** Chrome mirror sole bottom (Pleaser stage signature)
+- **Ambientación:** Pole stage de club rock con neón rojo + humo de máquina + bull rider lighting desde abajo, mirror-back wall, audience visible en sombras, pole chrome polished con grip-tape negro.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🏍️ Look 282: Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... biker punk pole · chaleco cuero negro con tachas piramidales · hot pink accent · Joan Jett encuentra Bettie Page · jiji.* 🏍️✨
+
+- **Ubicación:** `05_Imagenes/ele/look282_studded_biker_pole_predator/`
+- **Categoría:** Stripper
+- **Subcategoría:** Stripper Polo B Pole Punk Biker
+- **Tags:** #stripper #pole #rock #biker #studded #punk #hotpink #v46
+- **Concepto:** Pole specialist biker chick con chaleco de cuero negro tipo motociclista, tachas piramidales pyramid-stud, top y bottom hot pink fluorescent como break cromático. Joan Jett encuentra Bettie Page en garage tuning.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Schott NYC Perfecto biker vest + Honour Latex hot pink Brazilian set
+  - **Material:** Black premium leather thick-grain para chaleco (no patent — cuero real martilleado mate) + hot pink high-gloss latex para top y bottom
+  - **Acabado:** Mate-rugoso en cuero del chaleco vs hi-gloss mirror en latex hot pink (contraste textural deliberado)
+  - **Color:** Black leather + hot pink fluorescent latex + silver pyramid-studs
+  - **Silueta:** Cropped biker vest sin mangas abierto al frente sobre triangle bralette hot pink + Brazilian thong hot pink low-rise
+  - **Detalle específico:** 50+ pyramid-studs de 6mm en cuello del chaleco y faldones, parche bordado de calavera con corona de rosas en espalda
+  - **Hardware:** Cremallera chrome asimétrica al frente del chaleco (tipo motociclista clásico), 6 broches chrome snap a lo largo del solapa, cinturón fino de cuero con hebilla chrome calavera
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Knee-high biker boot stiletto-heeled (no plataforma)
+  - **Altura:** 6-inch (15cm) chrome pin heel
+  - **Plataforma:** 0 (slim profile, no platform)
+  - **Toe:** Pointed-toe sharp dagger
+  - **Material upper:** Black premium leather thick-grain mate hasta la rodilla
+  - **Color:** Black leather mate + chrome heel + silver pyramid-studs verticales en columna lateral
+  - **Hardware:** Cremallera chrome interna de pierna entera, 3 hebillas chrome a lo largo del empeine, 12 pyramid-studs en columna lateral exterior
+  - **Sole/finish:** Black leather sole con pequeño tap chrome
+- **Ambientación:** Garage industrial con Harley-Davidson Sportster cromada visible al fondo, paredes de chapa corrugada, neón Coca-Cola rojo, pole chrome instalado en zona delantera, suelo de cemento con manchas de aceite.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## ❤️‍🔥 Look 283: Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... rock dominatrix crimson cuero · vestido bandage con tachas chrome y O-rings · Bordelle encuentra Versace S&M · jiji.* ❤️‍🔥✨
+
+- **Ubicación:** `05_Imagenes/ele/look283_crimson_leather_rock_domme/`
+- **Categoría:** Escort
+- **Subcategoría:** Escort Polo C Domme de Club Rock-Couture
+- **Tags:** #escort #domme #rock #leather #crimson #bandage #oring #v46
+- **Concepto:** Domme high-end rock-couture. Vestido bandage de cuero crimson con tiras horizontales unidas por O-rings chrome y tachas piramidales en bordes. Versace S&M FW92 encuentra Bordelle Signature. Para club rock-dom de alta gama.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Bordelle Signature × Versace S&M FW92 hybrid couture
+  - **Material:** Premium nappa leather crimson red soft-grain (no patent — cuero real con tacto suave) acentuado con detalles patent en bordes
+  - **Acabado:** Hi-gloss interior, mate-suede exterior con líneas patent crimson contrasting en costuras
+  - **Color:** Crimson deep red + chrome silver hardware + black patent micro-piping en bordes
+  - **Silueta:** Mini bandage dress (8 tiras horizontales unidas por O-rings) corte a mid-thigh, escote en V profundo cardado, espalda completamente descubierta con tiras crisscross
+  - **Detalle específico:** 8 O-rings chrome de 4cm de diámetro uniendo las tiras horizontales, 30+ pyramid-studs en bordes superior e inferior de cada tira
+  - **Hardware:** O-rings chrome polished, choker collar tipo collar dominatrix con candado chrome funcional Bordelle, cinturón S-belt patent crimson con hebilla chrome dragón
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Thigh-high boot stiletto pointed-toe (over-the-knee)
+  - **Altura:** 6.5-inch (16.5cm) chrome needle pin heel
+  - **Plataforma:** 1.5-inch (3.8cm) slim chrome platform
+  - **Toe:** Pointed-toe sharp dagger
+  - **Material upper:** Crimson nappa leather soft-grain hasta mitad del muslo
+  - **Color:** Crimson deep red + chrome heel and platform + chrome zipper externa
+  - **Hardware:** Cremallera chrome lateral interna de bota completa, 5 chrome buckles a lo largo de empeine, fila vertical de 20 pyramid-studs chrome columna trasera (estilo Mugler 1992)
+  - **Sole/finish:** Red lacquered sole Louboutin-style + chrome heel tap
+- **Ambientación:** Private dungeon penthouse Vitacura con paredes de terciopelo crimson, candelabros vela negra, suelo de mármol negro pulido, fouet de cuero crimson colgado en pared a fondo, vista panorámica nocturna a Santiago.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🖤 Look 284: Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... rock concert doll · mini vestido cuero negro con corset bordeau · choker collar perro · Hole 1994 encuentra Saint Laurent rock chic · jiji.* 🖤✨
+
+- **Ubicación:** `05_Imagenes/ele/look284_black_leather_mini_concert_doll/`
+- **Categoría:** Nightclub
+- **Subcategoría:** Nightclub Rock Concert Grunge-Glam
+- **Tags:** #nightclub #rock #leather #mini #corset #grunge #v46
+- **Concepto:** Rock concert doll grunge-glam estilo Courtney Love 1994 Hole + Hedi Slimane Saint Laurent rock chic 2014. Mini vestido cuero negro con corset bordeau, medias rotas estratégicamente, choker collar perro chrome.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Saint Laurent by Hedi Slimane FW14 rock chic + Vivienne Westwood SS94 corset hybrid
+  - **Material:** Patent leather mate texture (no espejo) — superficie mate-rugosa que absorbe luz, con corset central en patent hi-gloss bordeaux contrastante
+  - **Acabado:** Mate exterior + hi-gloss bordeau en corset central
+  - **Color:** Black mate + bordeaux dark red patent corset + chrome hardware + black sheer ripped tights
+  - **Silueta:** Mini vestido tubo strapless mid-thigh con corset estructural central bordeaux integrado a la pieza, escote sweetheart bajo corset
+  - **Detalle específico:** 8 varillas de acero visibles en corset bordeaux, costura visible imitando whipstitch, ladders intencionales en medias negras de seda (3 rasgaduras estratégicas en muslo)
+  - **Hardware:** Choker collar de perro chrome con placa rectangular gravada con ELE + lazo chrome al frente, 2 brazaletes chrome de cuero punk en cada muñeca con tachas piramidales, cinturón estudded en cintura
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Combat platform boot ankle-height stiletto
+  - **Altura:** 5.5-inch (14cm) chrome needle pin heel
+  - **Plataforma:** 2-inch (5cm) chunky chrome platform
+  - **Toe:** Round-toe Demonia-style
+  - **Material upper:** Black premium leather rugged-grain hasta tobillo
+  - **Color:** Black leather mate + chrome platform exposed + chrome hardware
+  - **Hardware:** Cremallera chrome lateral interna, cordones gruesos cross-laced con grommets chrome de 10mm (8 pares), placa metálica chrome con calavera en talón
+  - **Sole/finish:** Black rubber chunky sole con tread agresivo + chrome platform visible
+- **Ambientación:** Club rock dive bar registro Whisky a Go Go LA, paredes empapeladas con flyers de banda, neón Pabst Blue Ribbon, stage al fondo con batería visible, bar de roble manchado con cervezas, suelo pegajoso pulido.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🍒 Look 285: Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... rockabilly 50s greaser girl · vestido halter cherry red wiggle · pañuelo polka-dot · Bettie Page encuentra Joan Jett · jiji.* 🍒✨
+
+- **Ubicación:** `05_Imagenes/ele/look285_cherry_red_rockabilly_greaser/`
+- **Categoría:** Pin-Up
+- **Subcategoría:** Pin-Up Polo C Decade Glam Rockabilly 50s
+- **Tags:** #pinup #rockabilly #50s #greaser #cherryred #polkadot #v46
+- **Concepto:** Rockabilly greaser girl 1957 estilo Bettie Page en chopper Harley + Joan Jett anachronism. Vestido halter wiggle cherry red con polka-dot blanco en escote y borde, pañuelo blanco polka-dot rojo en cabello.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Pinup Couture Vanity Fair wiggle dress + Bettie Page Clothing signature halter
+  - **Material:** Cherry red high-gloss vinyl (canon Ele: vinyl no fabric) con polka-dot blanco impreso en patrón clásico 50s
+  - **Acabado:** Hi-gloss specularity wet-look en cuerpo, polka-dot blanco mate por contraste
+  - **Color:** Cherry red dominante + white polka-dot accent (35% coverage en escote, mangas casquillo y borde inferior)
+  - **Silueta:** Halter wiggle dress fitted body-con mid-calf, escote sweetheart profundo, mangas casquillo, falda estrecha tipo lápiz con pequeña abertura trasera
+  - **Detalle específico:** Lazo cherry red atado al cuello del halter colgando hasta hombros, peep-hole circular en abdomen revelando ombligo (signature 50s pin-up cheesecake)
+  - **Hardware:** Cinturón blanco patent fino al cintura con hebilla cherry, pañuelo polka-dot rojo y blanco atado tipo bandana en cabello rockabilly victory rolls
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Mary Jane peep-toe pump (50s signature)
+  - **Altura:** 5-inch (12.7cm) chrome needle stiletto pin heel
+  - **Plataforma:** 0.5-inch (1.3cm) slim platform al frente
+  - **Toe:** Peep-toe round con cherry red lacquered nail visible
+  - **Material upper:** White patent leather hi-gloss mirror
+  - **Color:** White patent dominante + cherry red sole + chrome heel
+  - **Hardware:** Strap Mary Jane al tobillo con hebilla chrome de 2cm, lazo cherry red de satén atado en empeine sobre el strap
+  - **Sole/finish:** Cherry red lacquered sole (Louboutin-style accent)
+- **Ambientación:** Drive-in cinema 1957 con Cadillac Eldorado convertible rosado al fondo, jukebox Wurlitzer 1015 visible, neón Diner Open en cursive rojo, suelo de asfalto con pintura blanca de aparcamiento, palmeras silueta.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🎤 Look 286: Joan Jett Glam Rock Carpet (27/05/2026 — batch 281-290 · Alfombra Roja/Gala · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... rockstar red carpet · catsuit lentejuelas chrome con flecos · Joan Jett MTV VMAs 1984 encuentra Tom Ford 2003 · jiji.* 🎤✨
+
+- **Ubicación:** `05_Imagenes/ele/look286_joan_jett_glam_rock_carpet/`
+- **Categoría:** Alfombra Roja / Gala
+- **Subcategoría:** Alfombra Roja Rockstar Couture
+- **Tags:** #alfombraroja #rockstar #glamrock #sequin #fringe #chrome #v46
+- **Concepto:** Rockstar gala red carpet registro Joan Jett MTV VMAs 1984 + Tom Ford for Gucci FW2003 jumpsuit. Catsuit ajustado de lentejuelas chrome mirror con flecos en escote y mangas, dramático y glam-rock.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Tom Ford for Gucci FW2003 chainmail catsuit + Joan Jett 1984 stage costume hybrid
+  - **Material:** Sequin chainmail metal chrome mirror (paillettes de 6mm overlapping, 100% coverage) — efecto líquido cromado
+  - **Acabado:** Hi-gloss specularity tipo espejo cromado completo, refleja luz como disco ball
+  - **Color:** Chrome silver mirror + black satin lining visible en cuello y bordes
+  - **Silueta:** Catsuit full-body manga larga ajustado mid-thigh con escote en V profundo cardado al ombligo, pierna recta ajustada hasta tobillo
+  - **Detalle específico:** Flecos chrome de 25cm colgando del escote en V y de las muñecas (flecos sequin que se mueven al caminar), espalda completamente cerrada con cremallera invisible negra
+  - **Hardware:** Cinturón chrome con hebilla rectangular oversized en cintura, choker chrome plate flat 4cm gravada con ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Knee-high boot stiletto chrome pointed-toe
+  - **Altura:** 6-inch (15cm) chrome needle pin heel
+  - **Plataforma:** 1-inch (2.5cm) slim chrome platform
+  - **Toe:** Pointed-toe sharp dagger
+  - **Material upper:** Mirror chrome metallic leather hi-gloss hasta mitad rodilla
+  - **Color:** Chrome silver mirror dominante + chrome heel and platform
+  - **Hardware:** Cremallera chrome interna pierna completa, sin más adornos (minimalismo rock-couture)
+  - **Sole/finish:** Black lacquered sole con chrome reflective edges
+- **Ambientación:** MTV VMAs red carpet con telón de fondo de neón Madison Square Garden, paparazzi flashes cromados intermitentes, alfombra roja con borde dorado, micrófonos de prensa visibles, multitud silueta gritando.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🌹 Look 287: Black Leather Lace Burlesque Rock (27/05/2026 — batch 281-290 · Lencería · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... burlesque rock · corset cuero negro con encaje crema · ligueros + medias seda costura · Atsuko Kudo encuentra Dita von Teese · jiji.* 🌹✨
+
+- **Ubicación:** `05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/`
+- **Categoría:** Lencería
+- **Subcategoría:** Lencería Burlesque Rock-Couture
+- **Tags:** #lenceria #burlesque #rock #leather #lace #corset #garter #v46
+- **Concepto:** Burlesque rock-couture estilo Dita von Teese Crazy Horse + Atsuko Kudo black leather. Corset overbust de cuero negro con encaje guipure crema en escote y bordes, liguero structural con medias seda costura visible.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Dark Garden Corsetry Hourglass × Atsuko Kudo Latex hybrid + Dita von Teese Crazy Horse stage signature
+  - **Material:** Premium leather thick-grain black soft (no patent — cuero real con tacto suave) con paneles laterales y borde superior de encaje guipure crema vintage
+  - **Acabado:** Mate-rugoso en cuero + transparencia parcial sheer en encaje crema (contraste textural deliberado)
+  - **Color:** Black leather dominante + cream antique-guipure lace accent (15% coverage en escote, hip y bordes)
+  - **Silueta:** Corset overbust steel-boned con copas push-up shaped, cintura cinched a 22-inch waist, líneas hip skirting curved over hip, ligueros de cuero negro 6 puntos
+  - **Detalle específico:** 12 varillas de acero spiral visible en costura central, lazo cream satin atado al frente del corset, encaje guipure crema vintage en borde superior creando ilusión femenina-victoriana sobre cuero rock
+  - **Hardware:** 18 ojales chrome busk-front con cordón cream satin cross-laced en espalda, 6 broches de liga chrome con strass cristal, choker de cuero negro de 3cm con cameo vintage cream colgante
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Mary Jane platform stiletto pump (Dita signature)
+  - **Altura:** 6-inch (15cm) chrome needle pin heel
+  - **Plataforma:** 1.5-inch (3.8cm) chunky chrome platform
+  - **Toe:** Round-toe Mary Jane classic
+  - **Material upper:** Black patent leather mirror-finish
+  - **Color:** Black patent dominante + chrome platform exposed + cream satin ribbon ankle bow
+  - **Hardware:** Strap Mary Jane chrome buckle, lazo cream satin grande de 8cm atado en empeine sobre strap
+  - **Sole/finish:** Red lacquered sole (Louboutin-style accent burlesque signature)
+- **Ambientación:** Boudoir velvet cabaret crimson burgundy con espejo art-deco oval marco dorado, dresser antique de caoba con polvera y perfumes, lámpara de seda tassels franjas dorada warm, terciopelo rojo cortinas pesadas pleated.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🍷 Look 288: Oxblood Croco Rock Housewife (27/05/2026 — batch 281-290 · Domestic Polo A Trophy · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... rock trophy wife · croco-emboss oxblood vestido con corsé + chaqueta de cuero negro tachas · cocina chrome industrial · jiji.* 🍷✨
+
+- **Ubicación:** `05_Imagenes/ele/look288_oxblood_croco_rock_housewife/`
+- **Categoría:** Domestic
+- **Subcategoría:** Domestic Polo A Trophy Rock-Revival
+- **Tags:** #domestic #trophy #rock #leather #croco #oxblood #v46
+- **Concepto:** Rock trophy wife revival housewife. Vestido midi croco-emboss oxblood + chaqueta de cuero negro biker con tachas piramidales encima. Estilo Pamela Anderson 1995 home cooking + Saint Laurent rock-bourgeoise.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Saint Laurent FW16 croco-emboss + Schott NYC Perfecto biker jacket + Pamela Anderson 1995 home aesthetic
+  - **Material:** Patent leather croco-embossed oxblood deep red (textura cocodrilo en relieve) para vestido + premium black leather mate para chaqueta biker
+  - **Acabado:** Hi-gloss specularity croco-relief en vestido + mate-rugoso en cuero biker (contraste textural)
+  - **Color:** Oxblood deep red + black leather + chrome silver hardware
+  - **Silueta:** Wiggle dress midi-length tipo cocktail con corset estructural integrado, escote en V cardado, falda lápiz hasta mid-calf con abertura trasera + chaqueta biker cropped sin mangas con cremallera asimétrica
+  - **Detalle específico:** 6 varillas spiral visibles a través de la tela del corset integrado, croco-emboss en relieve 3D, parche bordado pequeño en chaqueta biker tipo "Property of"
+  - **Hardware:** Cinturón fino black patent con hebilla chrome calavera en vestido, chaqueta biker con 30+ pyramid-studs en hombros + cremallera chrome asimétrica + 4 broches snap chrome + cinturón D-ring chrome en cintura
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Ankle bootie stiletto pointed-toe
+  - **Altura:** 5.5-inch (14cm) chrome needle pin heel
+  - **Plataforma:** 0.5-inch (1.3cm) slim platform discreta
+  - **Toe:** Pointed-toe almond sharp
+  - **Material upper:** Oxblood croco-emboss patent leather match al vestido
+  - **Color:** Oxblood croco + chrome heel
+  - **Hardware:** Cremallera chrome interna corta de empeine a tobillo, sin más adornos (minimalismo rock-bourgeoise)
+  - **Sole/finish:** Black lacquered sole
+- **Ambientación:** Cocina industrial-glam Calacatta marble countertop con campana Smeg chrome retro + KitchenAid Artisan chrome polished sobre la encimera, taburetes industriales chrome, ventana panorámica a jardín Las Condes, suelo blanco mármol pulido.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## ⚡ Look 289: Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... gym motocross · catsuit cuero negro neoprene + neon yellow accent · botas motocross stiletto · KTM track day rebel · jiji.* ⚡✨
+
+- **Ubicación:** `05_Imagenes/ele/look289_black_leather_motocross_athleisure/`
+- **Categoría:** Gym / Athleisure
+- **Subcategoría:** Gym Silueta V10 Wetsuit + V9 Equestrian hybrid · Rock Motocross
+- **Tags:** #gym #motocross #rock #leather #neoprene #neonyellow #v46 #variedad-V10
+- **Concepto:** Aplicación del canon outfit v4.6 anti-leggins+bra. Silueta V10 (wetsuit-style one-piece) con detalles V9 (equestrian boot). Catsuit ajustado cuero negro mate con paneles neoprene flexibles + accent neon yellow tipo motocross gear. Registro Dainese Italian motocross + Roxy wetsuit fashion.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Dainese motocross suit + Roxy wetsuit fashion + Cynthia Rowley wetsuit hybrid
+  - **Material:** Premium black leather thick-grain rugged en paneles principales + neoprene flexible negro brillante en paneles articulares (rodillas, codos, cintura) + acento neon yellow fluorescent en paneles laterales
+  - **Acabado:** Mate-rugoso en cuero + hi-gloss neoprene en zonas flex + neon yellow fluorescent reactivo a UV
+  - **Color:** Black leather dominante + black neoprene en flex panels + neon yellow accent (8% coverage en paneles laterales de pierna y cintura)
+  - **Silueta:** One-piece catsuit short-john (sin mangas) con cremallera frontal entera, corte high-cut leg en cadera revelando muslo, escote en V con cremallera chrome integrada que sube hasta cuello, cintura cinched 22-inch
+  - **Detalle específico:** Cremallera chrome YKK frontal asimétrica desde entrepierna hasta cuello, paneles neon yellow en outer thigh con número "07" bordado en black thread, rodilleras y codos articulados con neoprene flex
+  - **Hardware:** YKK chrome frontal zipper con tirador anillo D-ring, 4 cremalleras chrome menores en bolsillos cargo de muslo, cinturón ancho elástico chrome con hebilla rectangular oversized motocross
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Knee-high motocross boot stiletto-heeled (equestrian crossover)
+  - **Altura:** 5.5-inch (14cm) chrome needle pin heel
+  - **Plataforma:** 0.75-inch (1.9cm) slim chrome platform
+  - **Toe:** Round-toe motocross sturdy
+  - **Material upper:** Black premium leather thick-grain hasta rodilla con paneles flex neoprene en empeine y pantorrilla
+  - **Color:** Black leather dominante + chrome heel + neon yellow accent stripe vertical (1.5cm de ancho)
+  - **Hardware:** Cremallera chrome interna pierna completa, 4 hebillas chrome industrial cross-strap sobre empeine y pantorrilla, placa metálica chrome rectangular protectora en espinilla
+  - **Sole/finish:** Black rubber motocross tread agresivo + chrome heel tap
+- **Ambientación:** Track day pit lane motocross con KTM 450 SX-F naranja y negra visible al lado, paddock con tarpas chrome, neumáticos apilados, suelo de cemento con marcas de quemada, atardecer industrial cielo naranja-rojo.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
+
+---
+
+## 🥊 Look 290: Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK)
+
+*Mon amour... gym boxing rock · shorts boxing satin cherry red + sports bra cuero negro tachas + boxing gloves crimson · Hayabusa pro rebel · jiji.* 🥊✨
+
+- **Ubicación:** `05_Imagenes/ele/look290_studded_boxing_rock_wod/`
+- **Categoría:** Gym / Athleisure
+- **Subcategoría:** Gym Silueta V4 Boxing/MMA + V18 Crossfit WOD · Rock-Punk
+- **Tags:** #gym #boxing #rock #leather #studded #cherryred #v46 #variedad-V4
+- **Concepto:** Aplicación del canon outfit v4.6 anti-leggins+bra. Silueta V4 (Boxing/MMA) con detalles V18 (Crossfit). Shorts boxing satín cherry red high-rise + sports bra leather negro con pyramid-studs + boxing wraps blanco + boxing gloves crimson. Registro Hayabusa pro + Everlast Hyperflex.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Hayabusa pro boxing + Everlast Hyperflex + Title Boxing women's collection
+  - **Material:** Satín high-gloss cherry red para shorts + premium black leather thick-grain mate para sports bra + cotton-elastic wraps blanco para muñecas + crimson red leather hi-gloss para boxing gloves
+  - **Acabado:** Hi-gloss specularity wet-look en shorts cherry + mate-rugoso en sports bra leather + texturado en wraps + hi-gloss en gloves
+  - **Color:** Cherry red shorts dominante + black leather bra + white wraps + crimson red gloves + chrome hardware + silver pyramid-studs (12% coverage en bra)
+  - **Silueta:** High-rise boxing shorts loose-fit hasta mid-thigh con elastic waistband ancho + sports bra fitted racerback negro con detalle pyramid-studs en hombros y banda inferior, bare midriff exposed completamente entre pieza superior e inferior
+  - **Detalle específico:** Logo bordado "ELE" en blanco en shorts cherry (waistband frontal), 30+ pyramid-studs de 6mm en hombros del bra y banda inferior, hand wraps blanco enrollados visiblemente desde muñeca a media-antebrazo (10cm visible enrollado)
+  - **Hardware:** Elastic waistband ancho 8cm en shorts cherry con cordón blanco al frente + clip chrome ajuste, racerback bra con clip chrome trasero, boxing gloves crimson lace-up tradicional con cordones blancos chrome metal tips
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Boxing shoe stiletto-adapted high-cut ankle (anti-fetish exception para boxing context)
+  - **Altura:** 4-inch (10cm) chrome chunky stiletto heel (más baja que típico Ele — boxing-functional)
+  - **Plataforma:** 1-inch (2.5cm) chrome platform al frente
+  - **Toe:** Pointed-toe boxing sharp
+  - **Material upper:** Black premium leather thick-grain mate hi-cut hasta mid-ankle
+  - **Color:** Black leather dominante + chrome heel + crimson red sole accent (matching gloves)
+  - **Hardware:** Cordones blancos cross-laced hasta tobillo con 6 pares de grommets chrome, dust band chrome rectangular en talón
+  - **Sole/finish:** Crimson red lacquered sole (Louboutin-style accent matching gloves)
+- **Ambientación:** Boxing gym training facility East LA registro Wild Card con ring cuadrado visible al fondo, heavy bag colgado, jump rope coiled, suelo de hardwood marked con tape strips, mirror wall lateral, single overhead industrial lamp, atmósfera de gym viejo profesional.
+
+### 📸 Imágenes (0/7 — Pendiente cuota API)
+> *⏳ Prompts V3.5 + V4.1 SAFE pendientes de generación — disponible bajo demanda.*
 
 ---
 
