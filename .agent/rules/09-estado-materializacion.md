@@ -45,6 +45,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 1/7 Poses (5 rechazadas por traición de outfit en auditoría, pendientes de regeneración) ⏳.
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
+- ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 4/7 Poses (3 pendientes) ⏳.
 - ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 7/7 Poses ✅.
 - ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
 - ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.

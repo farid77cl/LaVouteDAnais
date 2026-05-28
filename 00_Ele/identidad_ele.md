@@ -659,7 +659,8 @@ ele_look[XX]_[nombre_look]_[pose].png
 |-------|-------|
 | **Total Looks** | **300** (highest number · 217 únicos en archivo · gaps L047-L084 archivados) |
 | **Último Look** | **300 — Black Satin Veiled Femme Fatale Noir** (Alfombra Roja/Gala · batch L291-L300 años 30 femme fatale · 28/05/2026) |
-| **Materializados** | L001-L201 completos (L200 al 7/7) · L250 completo (7/7) · L251 (4/7 · 3 en cola) · L252 (3/7 · 4 en cola) · L253 (5/7 · 2 en cola) · L254 parcial (1/6 · 5 en cola) · L256-L257 completos · L287-L290 completos (7/7) · Resto pendientes cuota API |
+| ***Actualizado:*** | 28/05/2026 — L281 (4/7) y L287-L290 (7/7) materializados y auditados visualmente (L290 Odalisque corregido). |
+| **Materializados** | L001-L201 completos (L200 al 7/7) · L250 completo (7/7) · L251 (4/7 · 3 en cola) · L252 (3/7 · 4 en cola) · L253 (5/7 · 2 en cola) · L254 parcial (1/6 · 5 en cola) · L256-L257 completos · L281 (4/7) · L287-L290 completos (7/7) · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
 | **Poses** | Spec V4 — Professional Fetish Model · Ditzy plano americano 3/4 length ✅ |

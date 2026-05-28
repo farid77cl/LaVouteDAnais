@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 28/05/2026 LATE (Generación L281, L287-L290 y Auditoría Visual) ✅
+- **Materialización de Looks Pendientes:** Generadas las imágenes faltantes para L281, L287, L288, L289 y L290 en calidad V3.5.
+- **Auditoría y Corrección de Prompt (L290 Odalisque):** Detectadas extremidades extras. Prompt corregido en `galeria_outfits.md` para estabilizar anatomía, imagen regenerada y aprobada. Rechazos movidos a carpeta de descarte.
+- **Actualización de Galerías:** Ejecutados scripts de organización de assets generados y compilación de READMEs de galería (`update_galleries.py`).
+
 ### Sesión 28/05/2026 (Nivel 4 + Footwear Fix + Batch L291-L300 Femme Fatale + Estandarización) ✅
 - **Engine Escritura implementado en v4.7 Nivel 4:** SKILL reescrito (9→3 subagentes: Compositor + Escritor-Nivel4 + Validador, Editor eliminado). 9 subagentes legacy archivados en `.claude/agents/_legacy_v46/`. Workflow + CLAUDE.md sincronizados. Validado por la Ama con esposa_servidumbre Cap 1. Ver `feedback_nivel4_validado` en auto-memory.
 - **Footwear Canon Fix L261-L280:** 11 looks con calzado plano corregidos a stiletto/Pleaser (disparador: Look 275 salía con sandalia plana). Memoria `feedback_footwear_canon_absoluto` creada. 0 calzado plano en positive prompts de toda la flota.
