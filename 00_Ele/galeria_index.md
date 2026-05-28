@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 27/05/2026 19:55 — **91 looks registrados**  
+> Generado automáticamente el 28/05/2026 11:44 — **91 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -98,8 +98,8 @@
 | **286** | Joan Jett Glam Rock Carpet (27/05/2026 — batch 281-290 · Alfombra Roja/Gala · busto 1000cc · v4.6 canon · tema ROCK) | — | Alfombra Roja / Gala | — | — | 0/7 | ✅ Completo |
 | **287** | Black Leather Lace Burlesque Rock (27/05/2026 — batch 281-290 · Lencería · busto 1000cc · v4.6 canon · tema ROCK) | — | Lencería | — | — | 7/7 | — |
 | **288** | Oxblood Croco Rock Housewife (27/05/2026 — batch 281-290 · Domestic Polo A Trophy · busto 1000cc · v4.6 canon · tema ROCK) | — | Domestic | — | — | 7/7 | — |
-| **289** | Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 4/7 | ⏳ Pendiente |
-| **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **289** | Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 7/7 | — |
+| **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 7/7 | — |
 
 ---
 
@@ -270,9 +270,7 @@
 | **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
 | **285** | Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
 | **286** | Joan Jett Glam Rock Carpet (27/05/2026 — batch 281-290 · Alfombra Roja/Gala · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ✅ Completo |
-| **289** | Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK) | 4/7 | ⏳ Pendiente |
-| **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 27/05/2026 19:55 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 28/05/2026 11:44 — La Voûte d'Anaïs* 🫦👠💅
