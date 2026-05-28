@@ -62,7 +62,9 @@ graphify-out/    — Knowledge-graph output (Graphify semantic mapping)
 ## Automation Scripts
 
 Python lives in `99_Sistema/scripts/`. The one run constantly:
-- `99_Sistema/scripts/visual/update_galleries.py` — rebuilds gallery indexes/carousels and per-folder READMEs from `00_Ele/galeria_outfits.md`. Run after any image/look change and at session end.
+- `99_Sistema/scripts/visual/update_galleries.py` — rebuilds the master Ele/Miss Doll galleries and per-folder READMEs from the actual image files tracked by git (maps poses by canonical name: `standing/back_view/seated/side_profile/ditzy/pov/odalisque`). Run after any image/look change and at session end.
+
+**Image flow (era app, looks ≥ 291):** The Ama's Android app generates images in Gemini and uploads the PNGs directly to GitHub — the agent finds them already committed after `git pull`. On detecting new images, run `visual/sync_imagenes_subidas.py` (normalizes the app's non-canonical names `back→back_view`, `profile→side_profile` and updates the `### 📸 Imágenes (N/7)` tracker in `galeria_outfits.md`, scoped to looks ≥ 291 / "Pendiente" sections — never touches the timestamped historic fleet), THEN `update_galleries.py`, then commit. Full flow in `.agent/rules/09-estado-materializacion.md`.
 
 Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/query_graph.py` (knowledge-graph queries). When injecting large prompt batches, write a one-off script in `99_Sistema/scripts/` (force `sys.stdout.reconfigure(encoding="utf-8")` — the Windows console is cp1252) and delete it after use.
 

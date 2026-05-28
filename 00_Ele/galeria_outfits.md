@@ -7183,7 +7183,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold leather sole
 - **Ambientación:** art deco grand marble staircase with gold sconces and black-and-gold geometric balustrade, 1930s film premiere glamour, warm golden uplighting, polished marble floor reflections.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look291_blood_red_bias_goddess_1930s/ele_291_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7259,7 +7264,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Nude leather sole
 - **Ambientación:** 1930s art deco boudoir with three-panel vanity mirror and crystal perfume bottles and satin draped chaise and soft diffused candlelight, mother-of-pearl inlay furniture, intimate golden glow.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look292_champagne_boudoir_slip_1930s/ele_292_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look292_champagne_boudoir_slip_1930s/ele_292_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7335,7 +7345,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Silver leather sole
 - **Ambientación:** 1930s art deco hotel suite with emerald velvet chaise longue and brass-and-glass cocktail bar and venetian blinds casting striped shadow, deep saturated noir lighting, polished ebony floor.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look293_emerald_belle_de_jour_slip/ele_293_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7411,7 +7426,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Silver leather sole
 - **Ambientación:** 1930s clandestine speakeasy jazz club with amber tungsten glow and cigarette smoke haze and brass art deco fixtures and mirrored bar with crystal decanters, dim noir atmosphere, geometric deco wallpaper.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7487,7 +7507,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Silver mirror sole
 - **Ambientación:** 1930s Hollywood film premiere with sweeping klieg searchlights and art deco theater marquee and black-and-silver geometric backdrop, dramatic silver-screen glamour lighting, flashbulb sparkle.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7563,7 +7588,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Black leather sole
 - **Ambientación:** 1930s film noir detective office with venetian blinds casting hard striped shadows and frosted-glass door with reverse lettering and brass desk lamp and cigarette smoke, high-contrast chiaroscuro noir lighting.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7639,7 +7669,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold leather sole
 - **Ambientación:** 1930s Hollywood film studio set with vintage glamour key-lighting and large silk-diffused spotlights and art deco furniture props and a classic studio camera silhouette, soft black-and-white era glamour glow with warm tint.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look297_oxblood_harlow_bombshell_halter/ele_297_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7715,7 +7750,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gunmetal leather sole
 - **Ambientación:** 1930s art deco boudoir with smoked mirror panels and black lacquer vanity and a velvet tufted bench and low intimate amber lighting, geometric deco shadows, sensual private atmosphere.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_standing.png) | [📸 View](../../05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_back_view.png) | [📸 View](../../05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_seated.png) | [📸 View](../../05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_side_profile.png) | [📸 View](../../05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_ditzy.png) | [📸 View](../../05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_pov.png) | [📸 View](../../05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_odalisque.png) |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7791,7 +7831,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold leather sole
 - **Ambientación:** 1930s French Riviera art deco pool terrace overlooking the Côte d'Azur with turquoise infinity pool and white geometric balustrade and striped cabana and potted palms, bright Mediterranean sun glamour, crisp blue sky.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -7867,7 +7912,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Black leather sole
 - **Ambientación:** 1930s art deco salon in deep shadow with a single shaft of moonlight through tall geometric windows and black grand piano and smoke curling and silver candelabra, dramatic film noir chiaroscuro, mysterious low-key lighting.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 

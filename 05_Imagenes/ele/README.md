@@ -4,6 +4,86 @@
 
 ---
 
+## 👠 Look 300: Black Satin Veiled Femme Fatale Noir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_300_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 299: Bronze Gold Riviera Maillot D Co
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_299_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 298: Dark Plum Longline Corset Fetish 30S
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_298_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_standing.png) | ![ele_298_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_back_view.png) | ![ele_298_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_seated.png) | ![ele_298_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_side_profile.png) | ![ele_298_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_ditzy.png) | ![ele_298_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_pov.png) | ![ele_298_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/ele_298_odalisque.png) |
+
+---
+
+## 👠 Look 297: Oxblood Harlow Bombshell Halter
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_297_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look297_oxblood_harlow_bombshell_halter/ele_297_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 296: Deep Teal Femme Fatale Detective
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_296_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 295: Mirror Silver Liquid Lam Column
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_295_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_standing.png) | ⏳ | ![ele_295_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_seated.png) | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 294: Cobalt Speakeasy Flapper Noir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_294_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 293: Emerald Belle De Jour Slip
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_293_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look293_emerald_belle_de_jour_slip/ele_293_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 292: Champagne Boudoir Slip 1930S
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_292_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look292_champagne_boudoir_slip_1930s/ele_292_standing.png) | ⏳ | ![ele_292_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look292_champagne_boudoir_slip_1930s/ele_292_seated.png) | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 291: Blood Red Bias Goddess 1930S
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_291_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look291_blood_red_bias_goddess_1930s/ele_291_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 290: Studded Boxing Rock Wod
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
