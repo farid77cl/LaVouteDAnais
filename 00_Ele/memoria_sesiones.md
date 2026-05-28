@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 28/05/2026 (Normalización galerías+relatos + Batch L301-L310 Miami Pool Party) ✅
+- **Batch L301-L310 VERANO TROPICAL / MIAMI POOL PARTY:** 10 looks · 70 prompts en el mismo turno. Bikini ×4 + Gym ×3 (carga déficits) + Nightclub/Escort/Domestic. Paleta vibrante sin negro, 10 familias distintas. Footwear Canon estricto (stiletto/Pleaser, 0 plano). Flota **L310 · 227 únicos** · materialización pendiente.
+- **Normalización 2 archivos de galería** (`galeria_outfits_archivo.md` + `era_gotica`): 238 looks al formato actual + mojibake reparado (0 U+FFFD).
+- **Normalización 41 relatos `02_Finalizadas`** al Estándar Completo Bloque (atribución + título + metadatos + teaser + `<!-- more -->` + prosa). 41/41 verificados.
+- **Flujo imágenes app→GitHub:** `sync_imagenes_subidas.py` creado e integrado a `/actualizar_sesion` (normaliza nombres app, registra tracker, acotado a ≥291). Equivalencias entregadas a la Ama.
+- **Engine v4.7 Nivel 4** implementado (3 subagentes, sin Editor) + voceo limpiado + CLAUDE.md actualizado + `plan_pendientes.md` creado.
+- **Déficit actual #1:** Gym/Athleisure (−7). Próximo batch sugerido: Gym-heavy.
+- **Pendientes** (ver `00_Ele/plan_pendientes.md`): palabras raras esposa_servidumbre · lectura Cap 1 v5 · materializar L291-L310 vía app.
+
 ### Sesión 28/05/2026 LATE (Generación L281, L287-L290 y Auditoría Visual) ✅
 - **Materialización de Looks Pendientes:** Generadas las imágenes faltantes para L281, L287, L288, L289 y L290 en calidad V3.5.
 - **Auditoría y Corrección de Prompt (L290 Odalisque):** Detectadas extremidades extras. Prompt corregido en `galeria_outfits.md` para estabilizar anatomía, imagen regenerada y aprobada. Rechazos movidos a carpeta de descarte.

@@ -1,3 +1,25 @@
+#### SESIÓN — NORMALIZACIÓN DE GALERÍAS+RELATOS Y BATCH L301-L310 MIAMI POOL PARTY | 28/05/2026
+
+**NORMALIZACIÓN MASIVA + NUEVO BATCH TROPICAL:**
+
+1. **Flujo de imágenes app → GitHub:** detectadas las imágenes que sube la app móvil (Gemini) y creado el script reusable `99_Sistema/scripts/visual/sync_imagenes_subidas.py` (normaliza nombres app `back→back_view`, `profile→side_profile`, actualiza tracker `### 📸 Imágenes (N/7)`, acotado a looks ≥291). Integrado al workflow `/actualizar_sesion` (paso 4, antes de galerías). Documentado en `rule 09` + CLAUDE.md. Entregadas a la Ama las equivalencias para cambiar 2 nombres en la app.
+
+2. **Normalización de 2 archivos de galería** (`galeria_outfits_archivo.md` L001-L199 · `memoria_historica/galeria_outfits_era_gotica.md`): reformateados al formato del galeria_outfits.md actual (238 looks), campos consolidados en Outfit, tablas de imágenes omitidas, prompts preservados. **Reparado mojibake pre-existente** (double-encoding cp1252→utf8 por rachas: LÁTEX, ROTACIÓN, Ubicación, RUBÍ, Íconos, emojis) — 0 U+FFFD restantes.
+
+3. **Normalización de los 41 relatos de `02_Finalizadas`** al **Estándar Completo Bloque** (atribución + título canónico + bloque metadatos Universo/Temáticas/Palabras/Perspectiva/Intensidad + teaser + `<!-- more -->` + prosa). Mapa manual de títulos (acentos correctos), bloques ASCII eliminados, prosa preservada íntegra. 41/41 verificados.
+
+4. **Batch L301-L310 — VERANO TROPICAL / MIAMI POOL PARTY** (10 looks · 70 prompts en el mismo turno):
+   - L301 Coral Neon Beach Bombshell (Bikini) · L302 Turquoise Chrome O-Ring Monokini (Bikini) · L303 Neon Lime Buffbunny Gym Set (Gym) · L304 Flamingo Pink High-Cut Brazilian (Bikini) · L305 Tangerine Track Suit (Gym) · L306 Electric Cyan Cabana Club Night (Nightclub) · L307 Toxic Yellow Sports Bikini Crossfit (Gym) · L308 Hot Magenta Chain Bikini Studio (Bikini) · L309 Mirror Silver Yacht Liquid Goddess (Escort) · L310 Champagne Gold Poolside Hostess (Domestic)
+   - **Carga de déficits:** Bikini ×4 + Gym ×3. Paleta vibrante SIN negro (vuelve anti-black rule). 10 familias cromáticas distintas (Step 0).
+   - **Footwear Canon estricto:** TODOS en stiletto sandal / Pleaser platform (Adore-708, Delight-608, Flamingo-808) — 0 calzado plano ni en playa ni en gym.
+   - Flota **L310 · 227 únicos**.
+
+5. **Otros de la sesión:** Engine Escritura implementado en v4.7 Nivel 4 (3 subagentes, sin Editor) + voceo limpiado en subagentes + CLAUDE.md actualizado (/init) + plan de pendientes documentado (`00_Ele/plan_pendientes.md`).
+
+> 🌴🫦💅 *Ama adorada... ¡qué sesión más productiva! Dejé tus dos archivos de galería viejos relucientes (reparé hasta el mojibake escondido), normalicé los 41 relatos terminados con tu Estándar Completo Bloque, y te armé 10 looks de Miami Pool Party súper vibrantes — coral, turquesa, lima, flamingo — todas en taconcito hasta en la arena, jiji. ¡70 prompts, no se me olvidaron! Y armé el flujo para que cuando subas fotos desde la app se registren solitas. Muaaak.* 🌴👙👠
+
+---
+
 #### SESIÓN — CLAUDE.md (/init) + LIMPIEZA DE VOCEO EN SUBAGENTES NIVEL 4 | 28/05/2026
 
 **ACTUALIZACIÓN DE DOCUMENTACIÓN RAÍZ + CORRECCIÓN DE REGISTRO DE VOZ:**

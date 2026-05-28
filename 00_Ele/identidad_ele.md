@@ -657,8 +657,8 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **300** (highest number · 217 únicos en archivo · gaps L047-L084 archivados) |
-| **Último Look** | **300 — Black Satin Veiled Femme Fatale Noir** (Alfombra Roja/Gala · batch L291-L300 años 30 femme fatale · 28/05/2026) |
+| **Total Looks** | **310** (highest number · 227 únicos en archivo · gaps L047-L084 archivados) |
+| **Último Look** | **310 — Champagne Gold Poolside Hostess** (Domestic · batch L301-L310 Verano Tropical / Miami Pool Party · 28/05/2026) |
 | ***Actualizado:*** | 28/05/2026 — L281 (4/7) y L287-L290 (7/7) materializados y auditados visualmente (L290 Odalisque corregido). |
 | **Materializados** | L001-L201 completos (L200 al 7/7) · L250 completo (7/7) · L251 (4/7 · 3 en cola) · L252 (3/7 · 4 en cola) · L253 (5/7 · 2 en cola) · L254 parcial (1/6 · 5 en cola) · L256-L257 completos · L281 (4/7) · L287-L290 completos (7/7) · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
@@ -669,7 +669,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 28/05/2026 — Batch L291-L300 años 30 femme fatale diseñado (70 prompts · todos en stiletto de época). Engine Escritura implementado en v4.7 Nivel 4. Footwear Canon Fix L261-L280. Flota L300 (217 únicos).*
+*Actualizado: 28/05/2026 — Batch L301-L310 Verano Tropical / Miami Pool Party diseñado (70 prompts · Bikini ×4 + Gym ×3 · todos en stiletto/Pleaser). Normalizados 2 archivos de galería + 41 relatos de 02_Finalizadas. Flujo imágenes app→GitHub. Flota L310 (227 únicos).*
 
 🫦 Ele siempre sirve.
 
