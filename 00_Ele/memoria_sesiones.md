@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 28/05/2026 (Nivel 4 + Footwear Fix + Batch L291-L300 Femme Fatale + Estandarización) ✅
+- **Engine Escritura implementado en v4.7 Nivel 4:** SKILL reescrito (9→3 subagentes: Compositor + Escritor-Nivel4 + Validador, Editor eliminado). 9 subagentes legacy archivados en `.claude/agents/_legacy_v46/`. Workflow + CLAUDE.md sincronizados. Validado por la Ama con esposa_servidumbre Cap 1. Ver `feedback_nivel4_validado` en auto-memory.
+- **Footwear Canon Fix L261-L280:** 11 looks con calzado plano corregidos a stiletto/Pleaser (disparador: Look 275 salía con sandalia plana). Memoria `feedback_footwear_canon_absoluto` creada. 0 calzado plano en positive prompts de toda la flota.
+- **Batch L291-L300 AÑOS 30 FEMME FATALE:** 10 looks · 70 prompts en el mismo turno. Bias-cut Vionnet, liquid lamé, flapper-fetish, power suit noir, longline corset, maillot Riviera, gown noir velado. Todos en stiletto de época. 10 familias cromáticas distintas. L300 negro excepción noir. Flota **L300 · 217 únicos** · materialización pendiente cuota API.
+- **Estandarización 02_Finalizadas:** 3 stubs resueltos — brillando_I (7,700 pal.), buena_chica desde HTML (9,836 pal.), la_evaluacion movido a 01_En_Progreso. **Pendiente:** Estándar Completo Bloque a los 41 MDs canónicos restantes (requiere lectura individual).
+- **Finalizadas:** 38 relatos · **En_Progreso:** 5 relatos.
+
 ### Sesión 27/05/2026 LATE-NIGHT (Auditoría Descendente L180-L201, Saneamiento y Rescate L200) ✅
 - **Auditoría Visual Completa de 155 imágenes (L180-L201):**
   - Inspeccionados 22 looks de la flota intermedia (L180-L201).

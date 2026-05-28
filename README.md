@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 27/05/2026 LATE-NIGHT — **Estandarización MD canónicos en curso** · **Auditoría visual intermediate L180-L201 completada con saneamiento al 100%** · Look 200 completado (7/7) y Look 288 completado (7/7) · Flota **L290 · 209 únicos** 📚✨💅.**
+*Última actualización: 28/05/2026 — **Batch L291-L300 años 30 femme fatale diseñado** (70 prompts · todos en stiletto de época) · Engine Escritura implementado en **v4.7 Nivel 4** (3 subagentes) · Footwear Canon Fix L261-L280 (11 looks corregidos) · buena_chica consolidado desde HTML · Estandarización MD: 3 stubs resueltos, 41 MDs pendientes · Flota **L300 · 217 únicos** 🌹🖤👠.**
 
 ---
 

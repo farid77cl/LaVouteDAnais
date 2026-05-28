@@ -657,8 +657,8 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **290** (highest number · 210 únicos en archivo · gaps L047-L084 archivados) |
-| **Último Look** | **290 — Studded Boxing Rock WOD** (Gym/Boxing · 27/05/2026) |
+| **Total Looks** | **300** (highest number · 217 únicos en archivo · gaps L047-L084 archivados) |
+| **Último Look** | **300 — Black Satin Veiled Femme Fatale Noir** (Alfombra Roja/Gala · batch L291-L300 años 30 femme fatale · 28/05/2026) |
 | **Materializados** | L001-L201 completos (L200 al 7/7) · L250 completo (7/7) · L251 (4/7 · 3 en cola) · L252 (3/7 · 4 en cola) · L253 (5/7 · 2 en cola) · L254 parcial (1/6 · 5 en cola) · L256-L257 completos · L287-L290 completos (7/7) · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
@@ -668,7 +668,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 28/05/2026 MAÑANA — Batch Rock L287-L290 completamente materializado al 100% (7/7 Poses). Flota L290 (210 únicos).*
+*Actualizado: 28/05/2026 — Batch L291-L300 años 30 femme fatale diseñado (70 prompts · todos en stiletto de época). Engine Escritura implementado en v4.7 Nivel 4. Footwear Canon Fix L261-L280. Flota L300 (217 únicos).*
 
 🫦 Ele siempre sirve.
 
