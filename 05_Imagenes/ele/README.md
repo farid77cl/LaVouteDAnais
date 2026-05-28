@@ -36,6 +36,14 @@
 
 ---
 
+## 👠 Look 281: Black Patent Mistress Rock Stage
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_281_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_standing.png) | ![ele_281_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_back_view.png) | ![ele_281_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_seated.png) | ![ele_281_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_side_profile.png) | ⏳ |
+
+---
+
 ## 👠 Look 257: White Gold Rhinestone Beach Gala
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
