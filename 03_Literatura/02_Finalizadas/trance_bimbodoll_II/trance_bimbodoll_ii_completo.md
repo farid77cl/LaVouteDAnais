@@ -1,22 +1,22 @@
 *Un relato de Anaïs Belland*
 
+# Trance BimboDoll II
 
+---
 
-Bunny.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~8,300
+**Perspectiva:** Primera Persona
+**Intensidad:** Intensa
 
-*¿Lo sentiste?*
+---
 
-*Ese tirón en tu vientre. Esa humedad súbita. Ese suspiro que se escapó de tus labios antes de que pudieras detenerlo.*
+**¿Puedes verme? ¿Puedes sentir mi presencia llenando el espacio detrás de tus ojos, calentando el aire que respiras?**
 
-*Claro que lo sentiste. Y veniste corriendo.*
+<!-- more -->
 
-Hola de nuevo, Bunny.
-
-Soy Miss Doll.
-
-Y te he extrañado.
-
-¿Puedes verme? ¿Puedes sentir mi presencia llenando el espacio detrás de tus ojos, calentando el aire que respiras?
+---
 
 Déjame recordarte cómo me veo. Déjame grabarte de nuevo en esa cabecita vacía que tanto amo.
 
@@ -2349,8 +2349,3 @@ Escríbeme. Cuéntame qué tan hondo caíste esta vez.
 
 Con devoción oscura,
 *Anaïs Belland* ??
-
--------------------------------------------------------------------------------
-
-
-

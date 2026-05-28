@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Para Dee...
+# Trance de Muñeca
 
-El estudio permanecía en silencio, luz neutra derramada sobre el piso pulido y olor a laca reciente. La puerta se cerró sin prisa detrás de la visita; se quedó de pie, sereno, y dijo con voz clara que estaba allí voluntariamente para cumplir su deseo, adulto, sobrio, con límites entendidos. Miss Doll asintió, señaló el punto frente a ella y el aire pareció cuadrarse.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión
+**Palabras:** ~3,100
+**Perspectiva:** Primera Persona
+**Intensidad:** Intensa
+
+---
+
+**El estudio permanecía en silencio, luz neutra derramada sobre el piso pulido y olor a laca reciente.**
+
+<!-- more -->
+
+---
+
+La puerta se cerró sin prisa detrás de la visita; se quedó de pie, sereno, y dijo con voz clara que estaba allí voluntariamente para cumplir su deseo, adulto, sobrio, con límites entendidos. Miss Doll asintió, señaló el punto frente a ella y el aire pareció cuadrarse.
 
 Me miras. Yo te coloco. Pies juntos. Talones que se rozan. Manos planas en los muslos. Mentón en eje. Hombros que caen dos milímetros. Ojos en mi brillo. Inhala por la nariz en 4, pausa 1, exhala por la boca en 6. Repite 3 veces. Al exhalar, susurra: "bajo". Al inhalar: "entro". Bien. Cada exhalación apaga un interruptor. Hombros. Codos. Muñecas. Rodillas. Silencio.
 

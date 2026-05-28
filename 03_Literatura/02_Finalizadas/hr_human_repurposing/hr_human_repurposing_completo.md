@@ -1,51 +1,24 @@
-﻿═
-                          HR: HUMAN REPURPOSING                               
-
-
-─
- METADATOS DEL RELATO                                                        
-
-
-**Temáticas:** #Feminization #MindControl #CorporateHorror #Transformation #Femdom
-
-**Palabras:** ~21,000
-
-**Perspectiva:** Tercera persona (focalización en Daniel/Dahlia)
-
-**Intensidad:** Extrema
-
-
- Resumen                                                                      
-
-
-Daniel era un activo valioso en NEXUM Corp, hasta que su ambición lo convirtió en el blanco de una reubicación forzada. Ahora, bajo el mando de quien fue su protegido, debe aprender que su verdadero valor no está en los números, sino en la perfección de su nueva forma: Dahlia.
-
-
-                              CUERPO DEL RELATO
-
-
-
-
----
-
-
-# HR: Human Repurposing - Capítulo 2: El Proceso
-
 *Un relato de Anaïs Belland*
 
-**Estado:** Revisado (Versión Claustrofóbica)  
-**Palabras:** ~4,200  
-**Fecha:** 2026-01-14  
+# HR: Human Repurposing
 
 ---
 
-***La excelencia no es un hábito. Y la belleza no es una opción, es un requerimiento.*** <!-- Manual del Empleado NEXUM, pág. 4 -->
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación #MindControl
+**Palabras:** ~11,700
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
 
 ---
 
-Las uñas no eran suyas.
+**Eso fue lo primero. Antes del color melocotón de las paredes.**
 
-Eso fue lo primero. Antes del color melocotón de las paredes. Antes del olor a vainilla sintética que le llenaba la garganta. Las uñas.
+<!-- more -->
+
+---
+
+Antes del olor a vainilla sintética que le llenaba la garganta. Las uñas.
 
 Brillantes. Limadas en óvalo perfecto. Un brillo de esmalte transparente.
 

@@ -1,10 +1,24 @@
-# 🧪 EL ELIXIR DE LA DIOSA
 *Un relato de Anaïs Belland*
-*Una historia del universo La Voûte d'Anaïs*
+
+# El Elixir de la Diosa
 
 ---
 
-La guerra entre Mateo y Valeria no comenzó con un grito. Comenzó con el silencio. Un silencio pesado, denso, que se instalaba en el apartamento después de las cenas, entre los pasillos de un supermercado, en el coche. Era el silencio de las conversaciones no tenidas, de los resentimientos guardados en cajas de cartón debajo de la cama de sus mentes.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~6,600
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**La guerra entre Mateo y Valeria no comenzó con un grito.**
+
+<!-- more -->
+
+---
+
+Comenzó con el silencio. Un silencio pesado, denso, que se instalaba en el apartamento después de las cenas, entre los pasillos de un supermercado, en el coche. Era el silencio de las conversaciones no tenidas, de los resentimientos guardados en cajas de cartón debajo de la cama de sus mentes.
 
 Mateo era un hombre de superficies, y su vida con Valeria era un empaque defectuoso. Ella, con su cabello siempre en un nudo práctico y su ropa de colores apagados, era una persona funcional. No era fea, pero se esforzaba en no ser bonita, como si la belleza fuera una traición a sus principios. Y sus principios eran su arma.
 

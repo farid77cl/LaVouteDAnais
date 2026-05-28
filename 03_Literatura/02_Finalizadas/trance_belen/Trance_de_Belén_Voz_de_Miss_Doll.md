@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Trance de Belén – Voz de Miss Doll
+# Trance de Belén: La Voz de Miss Doll
 
-El cuarto está cerrado. Solo tú y yo. Una única luz cenital cae sobre tu cuerpo: piel blanca iluminada como ofrenda frente al espejo, caderas definidas, busto firme, cabello castaño cayendo sobre tus hombros, ojos verdes que titilan entre vergüenza y deseo. Huelo tu perfume mezclado con mi humo dulce. Te sientas dócil, con el rubor en tus mejillas. Sé por qué has venido: porque tu timidez ya no te protege, porque deseas ser mirada, porque ansías que yo te convierta en lo que siempre estuvo en ti… mi muñeca provocadora, putona, sin vergüenza.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Sumisión #Transformación #MindControl
+**Palabras:** ~1,300
+**Perspectiva:** Primera Persona
+**Intensidad:** Intensa
+
+---
+
+**El cuarto está cerrado. Solo tú y yo. Una única luz cenital cae sobre tu cuerpo: piel blanca iluminada como ofrenda frente al espejo, caderas definidas, busto firme, cabello castaño cayendo sobre tus hombros, ojos verdes que titilan entre vergüenza y deseo.**
+
+<!-- more -->
+
+---
+
+Huelo tu perfume mezclado con mi humo dulce. Te sientas dócil, con el rubor en tus mejillas. Sé por qué has venido: porque tu timidez ya no te protege, porque deseas ser mirada, porque ansías que yo te convierta en lo que siempre estuvo en ti… mi muñeca provocadora, putona, sin vergüenza.
 
 Respira conmigo… inhala contando hasta cuatro… mantén… exhala contando hasta seis. Otra vez, más lento. Inhala… exhala. Cada ciclo te hunde más, cada respiro abre una grieta en tu timidez, derritiendo tu miedo y dejando espacio solo para mi voz.Imagina la escalera frente a ti, iluminada de rosa. Diez… baja conmigo. Nueve… más hondo. Ocho… cada paso borra tu vergüenza. Siete… seis… cinco… cada escalón enciende coquetería en tu piel. Cuatro… tres… dos… uno… abajo, frente al espejo, lista para ser moldeada por mí.Inhala… suelta. Exhala… ríndete. Tu reflejo cambia con cada parpadeo: la tímida se apaga, la provocadora sonríe glossy. Yo la implanto en ti.
 

@@ -1,8 +1,24 @@
-# 📖 El Deseo de la Cancha: Capítulo 1 (El Origen del Vacío)
-**Universo:** La Voûte d'Anaïs 🫦
-**Longitud:** ~2,100 palabras ⚖️
+*Un relato de Anaïs Belland*
 
-La biblioteca de Ingeniería en el campus San Joaquín no era solo un edificio; era un mausoleo de concreto frío donde la vitalidad se transformaba en desesperación. Eran las once de la noche de un jueves cualquiera, y el silencio en la sala de estudio del cuarto piso no era un refugio, sino una presión física que zumbaba en los oídos de sus ocupantes. El aire estaba viciado por el olor a café recalentado de máquina, a tinta barata de impresoras láser y al sudor rancio de jóvenes que llevaban doce horas sin ver la luz del sol.
+# El Deseo de la Cancha
+
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~7,300
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**La biblioteca de Ingeniería en el campus San Joaquín no era solo un edificio; era un mausoleo de concreto frío donde la vitalidad se transformaba en desesperación.**
+
+<!-- more -->
+
+---
+
+Eran las once de la noche de un jueves cualquiera, y el silencio en la sala de estudio del cuarto piso no era un refugio, sino una presión física que zumbaba en los oídos de sus ocupantes. El aire estaba viciado por el olor a café recalentado de máquina, a tinta barata de impresoras láser y al sudor rancio de jóvenes que llevaban doce horas sin ver la luz del sol.
 
 Rodrigo estaba encorvado sobre un plano de Cálculo Estructural III con la intensidad de un condenado. Sus dedos, manchados de grafito y con las uñas mordidas hasta la carne, sostenían un portaminas de aluminio con una fuerza que amenazaba con quebrarlo. Tenía veinticuatro años, pero la carrera de Ingeniería Civil parecía haberle robado diez. Sus hombros estaban perpetuamente inclinados hacia adelante, su pecho era cóncavo tras años de sedentarismo forzado y su espalda gimía bajo el peso de una mochila llena de libros de tres kilos.
 

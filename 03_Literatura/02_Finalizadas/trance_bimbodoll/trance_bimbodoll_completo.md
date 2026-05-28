@@ -1,49 +1,24 @@
-+------------------------------------------------------------------------------+
-¦                 TRANCE BIMBODOLL: LA REPROGRAMACIÓN DE BUNNY                 ¦
-+------------------------------------------------------------------------------+
-
-+-----------------------------------------------------------------------------+
-¦ METADATOS DEL RELATO                                                        ¦
-+-----------------------------------------------------------------------------+
-
-**Temáticas:** #Bimbofication #MindControl #Hypnosis #EroticHumiliation #Transformation #Femdom
-
-**Palabras:** ~12,000
-
-**Perspectiva:** Segunda Persona
-
-**Intensidad:** Extrema
-
-+-----------------------------------------------------------------------------+
-¦ RESUMEN GANCHO                                                              ¦
-+-----------------------------------------------------------------------------+
-
-Esto es solo para mujeres que desean algo mejor en la vida. Una invitación a soltar la carga de la inteligencia y rendirse al placer simple y vacío de ser una muñeca. Miss Doll te guiará paso a paso hacia tu verdadera naturaleza: brillante, rosa y felizmente obediente.
-
-
--------------------------------------------------------------------------------
-                              CUERPO DEL RELATO
--------------------------------------------------------------------------------
-
-# Capítulo 1: La Invitación
-
 *Un relato de Anaïs Belland*
 
-Hola, cariño.
+# Trance BimboDoll
 
-Siéntate. Respira. Deja que mis palabras te encuentren.
+---
 
-Antes de empezar... déjame presentarme.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~11,700
+**Perspectiva:** Primera Persona
+**Intensidad:** Intensa
 
-## Miss Doll
+---
 
-Soy Miss Doll.
+**Se vuelve más cálido. Más denso. Huele a algo prohibido.**
 
-Y quiero que me veas claramente en tu mente.
+<!-- more -->
 
-Imagina que el aire cambia.
+---
 
-Se vuelve más cálido. Más denso. Huele a algo prohibido. A perfume mezclado con calor corporal. A promesas que no deberías querer escuchar.
+A perfume mezclado con calor corporal. A promesas que no deberías querer escuchar.
 
 Y entonces... me ves.
 
@@ -2633,9 +2608,7 @@ Hasta el próximo trance, conejita tonta.
 *Y yo soy tuya.*
 
 
--------------------------------------------------------------------------------
                             NOTA DE LA AUTORA
--------------------------------------------------------------------------------
 
 Si sentiste cómo tu mente se vaciaba con cada palabra, si descubriste que "Bunny" es quien realmente eres... no lo resistas.
 
@@ -2648,5 +2621,3 @@ Escríbeme a: **anais.belland@outlook.com**
 
 Con devoción oscura,
 *Anaïs Belland*
-
--------------------------------------------------------------------------------

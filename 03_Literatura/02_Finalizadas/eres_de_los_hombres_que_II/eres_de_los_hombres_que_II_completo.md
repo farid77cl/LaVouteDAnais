@@ -1,32 +1,24 @@
 *Un relato de Anaïs Belland*
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║               Eres de los hombres que... II: Los Perdedores                  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+# Eres de los Hombres que… II
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ METADATOS DEL RELATO                                                        │
-└─────────────────────────────────────────────────────────────────────────────┘
+---
 
-**Temáticas:** #Bimbofication #Himbofication #Feminization #GymBunny #MindControl #Transformation #Cuckold #MissDoll
-
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Bimbofication #Feminización #Latex #Sumisión #Transformación
 **Palabras:** ~12,000
-
 **Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
 
-**Intensidad:** Extrema
+---
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ RESUMEN                                                                     │
-└─────────────────────────────────────────────────────────────────────────────┘
+**El bajo retumbaba a través de las paredes del dormitorio como el latido de un corazón ajeno.**
 
-*Querían ser populares. Miss Doll les prometió transformación. Pero sus deseos tienen un precio que ninguno imaginó pagar — y ahora están condenados a recordar quiénes fueron mientras viven como lo que pidieron ser.*
+<!-- more -->
 
-═══════════════════════════════════════════════════════════════════════════════
-                              CUERPO DEL RELATO
-═══════════════════════════════════════════════════════════════════════════════
+---
 
-El bajo retumbaba a través de las paredes del dormitorio como el latido de un corazón ajeno. Viernes por la noche, y todo el campus palpitaba con una vida que Marcos y Daniel solo conocían de oídas.
+Viernes por la noche, y todo el campus palpitaba con una vida que Marcos y Daniel solo conocían de oídas.
 
 —Escucha eso —murmuró Daniel, sin levantar la vista de la pantalla—. La fiesta de Delta Kappa. Dicen que vinieron chicas de otras universidades.
 

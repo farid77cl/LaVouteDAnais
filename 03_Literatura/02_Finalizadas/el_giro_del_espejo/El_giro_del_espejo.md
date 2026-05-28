@@ -1,10 +1,24 @@
 *Un relato de Anaïs Belland*
 
-El giro del espejo
+# El Giro del Espejo
 
-SÁBADO NOCHE
+---
 
-La puerta de hierro se abrió como quien desvela un pequeño crimen de belleza. Afuera, la ciudad respiraba música y luces; adentro, La Voûte ofrecía un clima de terciopelo y peligros medidos. María tenía cuarenta y dos años, trabajaba como editora en una revista cultural y durante la última década había afinado una disciplina para el detalle: su casa, su agenda, sus silencios. La vida le había dado orden, reconocimiento y, con el tiempo, el sabor sordo de la previsibilidad.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #Hipnosis #Feminización #Sumisión #Transformación
+**Palabras:** ~7,100
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**La puerta de hierro se abrió como quien desvela un pequeño crimen de belleza.**
+
+<!-- more -->
+
+---
+
+Afuera, la ciudad respiraba música y luces; adentro, La Voûte ofrecía un clima de terciopelo y peligros medidos. María tenía cuarenta y dos años, trabajaba como editora en una revista cultural y durante la última década había afinado una disciplina para el detalle: su casa, su agenda, sus silencios. La vida le había dado orden, reconocimiento y, con el tiempo, el sabor sordo de la previsibilidad.
 
 Carlos, a sus cuarenta y cinco, era consultor de proyectos: hablaba en cifras, esperaba resultados y guardaba la ternura como quien cuida un objeto frágil. Juntos llevaban años modelando una convivencia que funcionaba con precisión y suavidad, pero que había empezado a sentirse como un traje cómodo que ya no les sentaba del todo. Venían a La Voûte porque esta noche querían romper la rutina con elegancia —no por rebeldía brusca, sino por la curiosidad de probarse otros contagios—; buscaban, más que respuestas, una desviación que les permitiera ver qué se escondía fuera de su espejo habitual.
 

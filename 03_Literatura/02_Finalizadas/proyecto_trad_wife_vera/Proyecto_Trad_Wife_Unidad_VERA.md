@@ -1,23 +1,24 @@
+*Un relato de Anaïs Belland*
 
-                    PROYECTO TRAD-WIFE: UNIDAD V.E.R.A.
+# Proyecto Trad Wife: Unidad VERA
 
- METADATOS DEL RELATO
+---
 
-**Temáticas:** #Bimbofication #MindControl #Transformation #TradWife #Latex #Pregnancy #Nanobots #Objectification
-
-**Palabras:** 13,150 aprox.
-
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #MTF #Transformación
+**Palabras:** ~10,100
 **Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
 
-**Intensidad:** Extrema
+---
 
- RESUMEN GANCHO
+**El taller "Hierro y Furia" no era solo un lugar de trabajo; era una armadura.**
 
-Una mecánica orgullosa. Un café contaminado. Una voz en su cabeza que susurra sumisión. Vera descubre que la resistencia es inútil cuando los nanobots reescriben su cuerpo y su mente. De trabajadora independiente a muñeca de látex y ama de casa perfecta: un manual de reprogramación completa.
+<!-- more -->
 
-                              CUERPO DEL RELATO
+---
 
-El taller "Hierro y Furia" no era solo un lugar de trabajo; era una armadura. Una catedral de hormigón y chapa corrugada donde el aire tenía una densidad propia, una mezcla pesada y embriagadora de aceite de motor quemado, gasolina de alto octanaje y el almizcle agrio del esfuerzo físico. Para la mayoría de las mujeres, ese olor sería un repelente, una señal para arrugar la nariz y huir hacia la seguridad de los perfumes florales.
+Una catedral de hormigón y chapa corrugada donde el aire tenía una densidad propia, una mezcla pesada y embriagadora de aceite de motor quemado, gasolina de alto octanaje y el almizcle agrio del esfuerzo físico. Para la mayoría de las mujeres, ese olor sería un repelente, una señal para arrugar la nariz y huir hacia la seguridad de los perfumes florales.
 
 Para Vera, era una segunda piel. O eso se decía a sí misma.
 
@@ -1176,5 +1177,3 @@ Escríbeme a: **anais.belland@outlook.com**
 
 Con devoción oscura,
 *Anaïs Belland*
-
-

@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Perfume de Ruina
+# Perfume de Ruina
 
-Sebastián era la encarnación viviente del cripto bro llevado al extremo más desagradable. Treinta y dos años de ego inflado, barba delineada al milímetro, polo ajustado que estiraba contra un abdomen trabajado con obsesión, y un reloj dorado demasiado brillante para ser auténtico. Se levantaba a las cinco de la mañana para grabarse haciendo ejercicio y repetir frases vacías sacadas de manuales de autoayuda: “el que madruga, controla el mundo”. Vendía cursos de trading a jóvenes desesperados, explotando su ilusión de éxito fácil mientras repetía sin cesar que “si no ganas dinero mientras duermes, eres un esclavo”. Presumía de viajes en primera clase que en realidad financiaba a crédito, y de reuniones privadas en cafés donde grababa videos motivacionales hablando de mindset y hustle. En sus redes sociales, autos prestados y frases motivacionales mal traducidas construían la fachada de un hombre que se creía intocable. Arrogante y machista, hablaba de “mujeres de alto valor” como si fueran activos a intercambiar. Su voz imponía, no por respeto, sino por la insistencia cansina de alguien que no sabe escuchar y exige ser admirado.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~2,000
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**Sebastián era la encarnación viviente del cripto bro llevado al extremo más desagradable.**
+
+<!-- more -->
+
+---
+
+Treinta y dos años de ego inflado, barba delineada al milímetro, polo ajustado que estiraba contra un abdomen trabajado con obsesión, y un reloj dorado demasiado brillante para ser auténtico. Se levantaba a las cinco de la mañana para grabarse haciendo ejercicio y repetir frases vacías sacadas de manuales de autoayuda: “el que madruga, controla el mundo”. Vendía cursos de trading a jóvenes desesperados, explotando su ilusión de éxito fácil mientras repetía sin cesar que “si no ganas dinero mientras duermes, eres un esclavo”. Presumía de viajes en primera clase que en realidad financiaba a crédito, y de reuniones privadas en cafés donde grababa videos motivacionales hablando de mindset y hustle. En sus redes sociales, autos prestados y frases motivacionales mal traducidas construían la fachada de un hombre que se creía intocable. Arrogante y machista, hablaba de “mujeres de alto valor” como si fueran activos a intercambiar. Su voz imponía, no por respeto, sino por la insistencia cansina de alguien que no sabe escuchar y exige ser admirado.
 
 Alex, en contraste, parecía invisible a su lado. Tenía el cabello rubio natural recogido en una coleta baja, sin brillo ni cuidado, y vestía jeans sencillos con una polera sin forma. Su postura era encogida, hombros hacia delante, mirada baja, como si pidiera perdón por ocupar espacio. Había aprendido a callar cuando Sebastián hablaba, a asentir cuando él presumía, a sonreír débilmente cuando él la corregía en público. Todo en ella parecía apagado, como si la vida se le escapara entre las manos. Y sin embargo, en ese silencio forzado, había una chispa invisible, un destello dormido que aguardaba el momento de ser visto.
 

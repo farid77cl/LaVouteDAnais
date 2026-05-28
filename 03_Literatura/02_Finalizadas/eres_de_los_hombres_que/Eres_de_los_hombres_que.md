@@ -1,10 +1,24 @@
-# 💼 AH, ERES DE LOS HOMBRES QUE…
 *Un relato de Anaïs Belland*
-*Una historia del universo La Voûte d'Anaïs*
+
+# Ah, ¿Eres de los Hombres que…?
 
 ---
 
-Llega al salón de conferencias de un hotel con alfombra mullida y lámparas como coronas. “Imagen Ejecutiva”, dice el rótulo. Sillas formadas, agua en botellas delgadas, libretas con filo dorado. La sala está vacía: aún no entra nadie; está solo. Treinta y tantos, hombre, responsable de comunicaciones internas recién ascendido, traje oscuro correcto pero olvidable, cabello corto peinado con disciplina y ojeras marcadas que ni el café disimula. Vino porque mañana sostendrá una presentación que le pesa en el estómago y porque su jefe lo inscribió y lo envió a este taller con un correo sin cortesías: “te falta presencia, voz más cuidada, postura; y un trato más complaciente con el cliente”. Ha oído esas palabras mil veces, pero hoy pinchan por precisas. Se sienta en tercera fila —costumbre de no llamar la atención—, al borde del pasillo, con el escepticismo doblado dentro de la libreta y la secreta esperanza de salir distinto.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~7,500
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**Llega al salón de conferencias de un hotel con alfombra mullida y lámparas como coronas.**
+
+<!-- more -->
+
+---
+
+“Imagen Ejecutiva”, dice el rótulo. Sillas formadas, agua en botellas delgadas, libretas con filo dorado. La sala está vacía: aún no entra nadie; está solo. Treinta y tantos, hombre, responsable de comunicaciones internas recién ascendido, traje oscuro correcto pero olvidable, cabello corto peinado con disciplina y ojeras marcadas que ni el café disimula. Vino porque mañana sostendrá una presentación que le pesa en el estómago y porque su jefe lo inscribió y lo envió a este taller con un correo sin cortesías: “te falta presencia, voz más cuidada, postura; y un trato más complaciente con el cliente”. Ha oído esas palabras mil veces, pero hoy pinchan por precisas. Se sienta en tercera fila —costumbre de no llamar la atención—, al borde del pasillo, con el escepticismo doblado dentro de la libreta y la secreta esperanza de salir distinto.
 
 Entonces entra ella.
 

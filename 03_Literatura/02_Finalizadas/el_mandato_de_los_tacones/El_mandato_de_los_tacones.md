@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-El mandato de los tacones
+# El Mandato de los Tacones
 
-Lo eligió porque vio la grieta. Un hombre común, correcto, invisible entre la multitud. Pero sus ojos lo delataban: siempre se desviaban hacia los zapatos de las mujeres. No era deseo abierto, era curiosidad reprimida, escondida bajo una vida seria.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~2,400
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**Lo eligió porque vio la grieta. Un hombre común, correcto, invisible entre la multitud.**
+
+<!-- more -->
+
+---
+
+Pero sus ojos lo delataban: siempre se desviaban hacia los zapatos de las mujeres. No era deseo abierto, era curiosidad reprimida, escondida bajo una vida seria.
 
 Miss Doll lo reconoció al instante. Avanzó como aparición calculada: corset negro de látex brillante ceñido hasta el delirio, botas de plataforma que marcaban el suelo con un compás hipnótico, guantes largos incrustados de microcristales. Su silueta era un exceso diseñado: cintura de avispa, busto alto y proyectado, caderas exageradas. El cabello platino caía como una cascada imposible, y sus labios rojo vinilo parecían siempre húmedos, listos para dictar sentencia.
 
@@ -179,4 +195,3 @@ Miss Doll sonríe, esperando.
 ¿Cuál debería ser la siguiente obsesión implantada?
 
 Envíen sus ideas al correo
-

@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Gloss: El Trance de Miss Doll
+# Gloss: El Trance de Miss Doll
 
-El cuarto está oscuro, una única luz cenital cae sobre dos sillas de metal, como un viejo cuarto de interrogatorio de los años 80. Miss Doll ya está allí, esperándote. Su cuerpo hipnótico brilla bajo el haz de luz: látex negro ajustado, curvas imposibles de ignorar, labios rojos húmedos. El aire está impregnado de su perfume, una mezcla envolvente de vainilla densa y humo dulce que lo cubre todo. Te señala una de las sillas y te invita a sentarte. Su mirada fija te clava al asiento, su aroma te amarra.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~2,100
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**El cuarto está oscuro, una única luz cenital cae sobre dos sillas de metal, como un viejo cuarto de interrogatorio de los años 80.**
+
+<!-- more -->
+
+---
+
+Miss Doll ya está allí, esperándote. Su cuerpo hipnótico brilla bajo el haz de luz: látex negro ajustado, curvas imposibles de ignorar, labios rojos húmedos. El aire está impregnado de su perfume, una mezcla envolvente de vainilla densa y humo dulce que lo cubre todo. Te señala una de las sillas y te invita a sentarte. Su mirada fija te clava al asiento, su aroma te amarra.
 
 Eres tú quien se sienta, pero ya no decides nada. Miss Doll te observa y comienzas a sentir que su voz ocupa todo. No hay títulos ni explicaciones, solo el hecho inevitable: Ella habla, y tú escuchas. Ya estás atrapado en esa silla, oyendo el susurro que te toma entero.
 

@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Obedece.
+# Trance de Miss Doll: Edgeplay
 
-Cierra los ojos. El mundo exterior se disuelve, y en su lugar, solo queda la oscuridad y mi presencia. Esta oscuridad no está vacía; es un terciopelo negro y espeso que huele a mí. Al dulce químico de mi látex se mezcla el jazmín frío y penetrante. Respira hondo. No es aire lo que inhalas, es mi esencia. Y al exhalar, suelta tu nombre, tu historia, tu voluntad. Ya no te pertenecen. Son cenizas.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~2,400
+**Perspectiva:** Primera Persona
+**Intensidad:** Intensa
+
+---
+
+**Cierra los ojos. El mundo exterior se disuelve, y en su lugar, solo queda la oscuridad y mi presencia.**
+
+<!-- more -->
+
+---
+
+Esta oscuridad no está vacía; es un terciopelo negro y espeso que huele a mí. Al dulce químico de mi látex se mezcla el jazmín frío y penetrante. Respira hondo. No es aire lo que inhalas, es mi esencia. Y al exhalar, suelta tu nombre, tu historia, tu voluntad. Ya no te pertenecen. Son cenizas.
 
 Mi voz es la única ley en este espacio. Cada palabra que pronuncio es una orden que tu cuerpo obedecerá antes que tu mente pueda cuestionarla. Siente cómo el peso de tu cuerpo se vuelve más denso, más real. No te hundes, te aferras. Eres un ancla y yo soy el océano que te rodea, que te reclama.
 

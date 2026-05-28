@@ -1,10 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Brillando en Tacones II: La Bimbo que Soy
+# Brillando en Tacones II: La Bimbo que Soy
 
-Capítulo 3: Despertar en puntas
+---
 
-Esteban se despertó con un ardor sutil en los pies, como si hubiera bailado horas sobre fuego. Abrió los ojos con lentitud, aún envuelto en los restos tibios de su sueño. El primer rayo de luz entró por la ventana, dorando el perfil de su cama… y ahí estaban. Los tacones. Aún puestos. Altos, transparentes, de líneas impecables. Al apoyar la planta del pie, el sonido seco y cristalino del acrílico contra el piso resonaba como una declaración íntima. Esa vibración, ese eco, le subía por la columna como un susurro lujurioso. La sensación de altura le alteraba el eje, estilizaba su andar, le alargaba las piernas y tensaba los muslos. Cada presión del vinilo contra la piel era como una caricia posesiva. Verlos ahí, aún calzados, era como descubrir un símbolo secreto de poder y entrega. Se sintió atrapada entre el vértigo y el gozo. No eran zapatos. Eran destino. Se amoldaban a sus pies con una devoción inquietante, como si nunca hubiesen sido ajenos a él. La presión delicada de las correas de vinilo dejaba una huella sensual, casi venerada, en su piel. Era como si hubiesen sido parte de su cuerpo desde siempre, como si lo reclamaran. No recordaba haber intentado quitárselos... tal vez porque, en el fondo, no quería hacerlo. No recordaba habérselos quitado... tampoco había querido hacerlo.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Bimbofication #Feminización #Latex #Sumisión
+**Palabras:** ~5,700
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**Esteban se despertó con un ardor sutil en los pies, como si hubiera bailado horas sobre fuego.**
+
+<!-- more -->
+
+---
+
+Abrió los ojos con lentitud, aún envuelto en los restos tibios de su sueño. El primer rayo de luz entró por la ventana, dorando el perfil de su cama… y ahí estaban. Los tacones. Aún puestos. Altos, transparentes, de líneas impecables. Al apoyar la planta del pie, el sonido seco y cristalino del acrílico contra el piso resonaba como una declaración íntima. Esa vibración, ese eco, le subía por la columna como un susurro lujurioso. La sensación de altura le alteraba el eje, estilizaba su andar, le alargaba las piernas y tensaba los muslos. Cada presión del vinilo contra la piel era como una caricia posesiva. Verlos ahí, aún calzados, era como descubrir un símbolo secreto de poder y entrega. Se sintió atrapada entre el vértigo y el gozo. No eran zapatos. Eran destino. Se amoldaban a sus pies con una devoción inquietante, como si nunca hubiesen sido ajenos a él. La presión delicada de las correas de vinilo dejaba una huella sensual, casi venerada, en su piel. Era como si hubiesen sido parte de su cuerpo desde siempre, como si lo reclamaran. No recordaba haber intentado quitárselos... tal vez porque, en el fondo, no quería hacerlo. No recordaba habérselos quitado... tampoco había querido hacerlo.
 
 Se sentó al borde de la cama, con cuidado. Las correas de vinilo apretaban su piel. Quiso quitarse los tacones, y lo hizo. Pero al intentar caminar descalzo hacia el baño, algo se sintió... extraño.
 

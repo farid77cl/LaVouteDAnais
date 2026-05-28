@@ -1,12 +1,22 @@
+*Un relato de Anaïs Belland*
+
 # El Collar de Nancy
+
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~9,900
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
 
 **Una caja olvidada. Un collar rosa. Mario cree que es una broma, pero Nancy sabe que es su destino. Entre silicona y sumisión, la línea entre amigo y dueño se borra. ¿Qué pasa cuando tu cuerpo se vuelve el juguete de tu mejor amigo... y descubres que te gusta?**
 
 <!-- more -->
 
---- 
-
-## Capítulo 1: El Desastre
+---
 
 La primera vez que vi una cucaracha paseándose con total impunidad sobre la caja de pizza que habíamos dejado en la mesa de centro tres días atrás, supe que habíamos tocado fondo.
 
@@ -1192,7 +1202,6 @@ Pero mi cuerpo, el cuerpo de Nancy, tembló de expectación.
 
 Esperando el mañana.
 
------
 
 ### Nota de la Autora
 

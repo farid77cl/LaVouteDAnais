@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-✦ Capítulo II – Sous la dentelle, le feu ✦
+# Sous la Dentelle — Capítulo II
 
-“Algunas jaulas se construyen desde adentro. Pero también desde adentro se abren.”
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Feminización #Sumisión #Transformación
+**Palabras:** ~1,400
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**“Algunas jaulas se construyen desde adentro.**
+
+<!-- more -->
+
+---
+
+Pero también desde adentro se abren.”
 
 ---
 

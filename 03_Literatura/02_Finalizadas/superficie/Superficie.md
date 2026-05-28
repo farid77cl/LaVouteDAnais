@@ -1,10 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Superficie
+# Superficie
 
-Capítulo I — El choque
+---
 
-El aire cambió antes de que María la viera. Era ese aroma químico-dulce que mezclaba látex bruñido, silicona tibia y un rastro feromonal. Un perfume imposible de clasificar, artificial y obsesivo. El olor la obligó a enderezar la espalda, como si alguien invisible ya la estuviera juzgando.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~4,800
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**El aire cambió antes de que María la viera.**
+
+<!-- more -->
+
+---
+
+Era ese aroma químico-dulce que mezclaba látex bruñido, silicona tibia y un rastro feromonal. Un perfume imposible de clasificar, artificial y obsesivo. El olor la obligó a enderezar la espalda, como si alguien invisible ya la estuviera juzgando.
 
 Miss Doll apareció en la esquina: 1,72 metros de silueta hiperbólica ceñida por corset y catsuit negro de látex brillante. El contraste entre la tersura mate de la silicona y el reflejo líquido del látex hacía que cada curva pareciera diseñada en un laboratorio. La máscara cubría su rostro, dejando al descubierto únicamente los ojos, delineados con precisión felina, y unos labios rojos que parecían siempre húmedos, siempre listos para dictar sentencia.
 

@@ -1,8 +1,24 @@
-### **Ginny la Genio Bimbo**
-
 *Un relato de Anaïs Belland*
 
-La oficina olía a alcohol barato y a plástico quemado. Era la noche de Halloween, y el espacio de trabajo se había transformado en una fiesta de disfraces mediocres. Luces de colores parpadeaban sobre gente con máscaras compradas a última hora, que bebía de más y reía con una fuerza que sonaba falsa. Julián, de 52 años, se movía por la fiesta como un fantasma en su propia casa, una copa en la mano que no servía para nada más que para parecer ocupado. Nadie lo miraba. Nadie lo notaba. Era parte del decorado, invisible y silencioso.
+# Ginny, la Genio Bimbo
+
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~5,800
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**La oficina olía a alcohol barato y a plástico quemado.**
+
+<!-- more -->
+
+---
+
+Era la noche de Halloween, y el espacio de trabajo se había transformado en una fiesta de disfraces mediocres. Luces de colores parpadeaban sobre gente con máscaras compradas a última hora, que bebía de más y reía con una fuerza que sonaba falsa. Julián, de 52 años, se movía por la fiesta como un fantasma en su propia casa, una copa en la mano que no servía para nada más que para parecer ocupado. Nadie lo miraba. Nadie lo notaba. Era parte del decorado, invisible y silencioso.
 
 Sobre una mesa abandonada, junto a una caja de donaciones para una causa olvidada, había una lámpara de latón vieja y opaca. Una etiqueta manuscrita decía: "Sorpresa". Aburrido y sin nada mejor que hacer, se acercó. La tomó. El metal era cálido bajo sus dedos, un calor inesperado que no correspondía al ambiente frío de la oficina. Sin pensarlo, la guardó bajo el brazo y, huyendo del ruido estridente, se refugió en un pequeño armario de utilería, cerrando la puerta a su espalda.
 
@@ -289,4 +305,3 @@ Esa noche, mientras se quitaba el maquillaje frente al espejo, Juli se sonrió a
 Le encantaba su vida.
 
 El eco de su risa todavía resuena en el silencio, ¿verdad? ¿No has sentido un anhelo secreto, un deseo de ser... más? Ginny no solo vive en estas páginas. Su perfume a vainilla se cuela en las grietas del mundo real, y siempre está buscando. Siempre lo está. Buscando almas aburridas, cuerpos planos, mentes que sueñan con el brillo. Así que atrévete. Escribe al correo y confíesa ese deseo que te quema por dentro. Quizás, solo quizás, cuando envíes el correo, escuches un lejano chasquido... y empieces a sentir el calor.
-

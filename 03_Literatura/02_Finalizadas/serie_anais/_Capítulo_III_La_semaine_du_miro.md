@@ -1,12 +1,24 @@
 *Un relato de Anaïs Belland*
 
-✦ Capítulo III – La semaine du miroir ✦
+# La Semaine du Miroir — Capítulo III
 
-✦ Capítulo III – La semaine du miroir ✦
+---
 
-Primera parte: La cita con Jaqueline
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Bimbofication #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~2,600
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
 
-La semana fue una espera inquieta. Aunque el hombre intentaba mantener su rutina, algo había cambiado desde que usó por primera vez la tanga de satén rosa que Anaïs le había dejado. La luz tenue del día se filtraba a través de los visillos, teñida de dorado como promesa, y un dejo de perfume floral y cera fundida flotaba en el aire, envolviéndolo en un ritual sensorial. Era cómoda, extrañamente reconfortante, pero sobre todo, era un recordatorio constante de que lo que había vivido no había sido un sueño. Empezó a sentir cierta ansiedad por volver a La Voûte. Había algo allí que lo llamaba. No podía nombrarlo, pero lo sentía como una corriente bajo su piel.
+---
+
+**La semana fue una espera inquieta. Aunque el hombre intentaba mantener su rutina, algo había cambiado desde que usó por primera vez la tanga de satén rosa que Anaïs le había dejado.**
+
+<!-- more -->
+
+---
+
+La luz tenue del día se filtraba a través de los visillos, teñida de dorado como promesa, y un dejo de perfume floral y cera fundida flotaba en el aire, envolviéndolo en un ritual sensorial. Era cómoda, extrañamente reconfortante, pero sobre todo, era un recordatorio constante de que lo que había vivido no había sido un sueño. Empezó a sentir cierta ansiedad por volver a La Voûte. Había algo allí que lo llamaba. No podía nombrarlo, pero lo sentía como una corriente bajo su piel.
 
 En el trabajo, sus compañeros comenzaron a notar un cambio. Estaba más callado, más dispuesto a ceder, más atento. No era sumisión abierta, pero había algo distinto en él. Algo que no podía disimular.
 

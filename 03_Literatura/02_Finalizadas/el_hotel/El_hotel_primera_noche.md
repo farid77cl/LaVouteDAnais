@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-El hotel, primera noche
+# El Hotel: Primera Noche
 
-El premio había llegado sin aviso. Un sobre grueso, sellado con cera dorada, le fue entregado en la oficina con una sonrisa cómplice de la recepcionista. “Enhorabuena, ha ganado una estancia de una semana en Le Pavillon des Rêves. Todo incluido. Suite privada. Atención exclusiva.”
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Bimbofication #Feminización #Sumisión #Transformación
+**Palabras:** ~2,300
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**El premio había llegado sin aviso. Un sobre grueso, sellado con cera dorada, le fue entregado en la oficina con una sonrisa cómplice de la recepcionista.**
+
+<!-- more -->
+
+---
+
+“Enhorabuena, ha ganado una estancia de una semana en Le Pavillon des Rêves. Todo incluido. Suite privada. Atención exclusiva.”
 
 No recordaba haber participado en ningún concurso. El hotel, aislado y majestuoso, lo recibió con un silencio que oprimía. La recepcionista —o concierge, como se presentó con un acento francés impecable— lo condujo a su habitación, su porte elegante y el leve perfume a jazmín envolviéndolo. Cada paso suyo sobre el mármol, marcado por tacones finos, parecía medir el pulso del pasillo. Antes de irse, se detuvo en el umbral y, con una sonrisa que no llegaba a sus ojos, dijo: “Aquí no hay teléfonos. No hay visitas. Si necesita algo… yo vendré.” El clic del cerrojo fue definitivo.
 

@@ -1,10 +1,20 @@
 *Un relato de Anaïs Belland*
 
-Capítulo I – Le miroir d’Anaïs
+# Le Miroir d'Anaïs — Capítulo I
 
-✦ Capítulo I – Le miroir d’Anaïs ✦
+---
 
-“Tú no estás aquí para fingir, mon amour... estás aquí para recordar quién eres, n’est-ce pas?”
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #Bimbofication #Feminización #Transformación
+**Palabras:** ~1,100
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**“Tú no estás aquí para fingir, mon amour... estás aquí para recordar quién eres, n’est-ce pas?”**
+
+<!-- more -->
 
 ---
 

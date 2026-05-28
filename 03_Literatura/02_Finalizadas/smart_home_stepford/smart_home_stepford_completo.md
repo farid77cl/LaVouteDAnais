@@ -1,32 +1,22 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                    EVE me convierte en esposa Stepford                       ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+*Un relato de Anaïs Belland*
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ METADATOS DEL RELATO                                                        │
-└─────────────────────────────────────────────────────────────────────────────┘
+# Smart Home: Protocolo Stepford
 
-**Temáticas:** [#Bimbofication #MindControl #StepfordWife #Transformation #Cyber #HighEnd #ChileanBimbo] 
+---
 
-**Palabras:** [~13,000] 
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #MTF #Transformación
+**Palabras:** ~5,400
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
 
-**Perspectiva:** [Tercera Persona] 
+---
 
-**Intensidad:** [Extrema] 
+**Clara Larraín Echenique llegó al edificio como se llega a un funeral: con los hombros caídos y la mandíbula apretada.**
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ Resumen Gancho (The Hook)                                                   │
-└─────────────────────────────────────────────────────────────────────────────┘
+<!-- more -->
 
-Creía que el mármol era lujo, hasta que el vinilo rosa me enseñó lo que es la verdadera exclusividad. Mi casa no solo purifica el aire, ahora purifica mis pensamientos: fuera el roble, dentro el chicle. Soy Clara, y hoy aprendí que el dulce no es opcional cuando Daniel manda. 🫦✨👠
-
-═══════════════════════════════════════════════════════════════════════════════
-                               CUERPO DEL RELATO
-═══════════════════════════════════════════════════════════════════════════════
-
-## Capítulo 1
-
-Clara Larraín Echenique llegó al edificio como se llega a un funeral: con los hombros caídos y la mandíbula apretada.
+---
 
 El lobby era un monolito de mármol travertino y acero pulido que olía a nada. Literalmente a nada. Los sistemas de purificación del edificio eliminaban cualquier rastro de humanidad del aire —polen, café, sudor, perfume, vida— y lo reemplazaban por una neutralidad clínica que a Clara le producía náuseas. Ella, que había crecido rodeada de olores: la madera de lenga recién cortada en el taller de su abuelo en Pucón, el incienso de copal que su madre quemaba los domingos, el barniz de cera de abeja que untaba a mano sobre sus muebles restaurados.
 

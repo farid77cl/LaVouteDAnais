@@ -1,10 +1,24 @@
 *Un relato de Anaïs Belland*
 
-✦ Capítulo IV – La cena del juicio ✦
+# La Cena del Juicio — Capítulo IV
 
-✦ Capítulo IV – La cena del juicio ✦
+---
 
-La noche se había deslizado sobre La Voûte como terciopelo oscuro. Afuera, la ciudad respiraba con lentitud. Adentro, el silencio tenía forma: era un salón dispuesto como altar.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Hipnosis #Feminización #Latex #Sumisión #Transformación
+**Palabras:** ~2,500
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**La noche se había deslizado sobre La Voûte como terciopelo oscuro.**
+
+<!-- more -->
+
+---
+
+Afuera, la ciudad respiraba con lentitud. Adentro, el silencio tenía forma: era un salón dispuesto como altar.
 
 El comedor principal no era ostentoso, pero cada detalle revelaba intención. Una mesa larga, de madera pulida, recorría el centro de la habitación. Candelabros de cristal proyectaban sombras alargadas sobre las paredes, donde cortinas pesadas ocultaban el tiempo. La vajilla era de porcelana antigua, los cubiertos brillaban como promesas, y el aire olía a vino, flores blancas y expectativas densas. Cada copa, cada plato, cada servilleta cuidadosamente doblada parecía una ofrenda en una misa sensual.
 

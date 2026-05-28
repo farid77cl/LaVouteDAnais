@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-El hotel, segunda noche
+# El Hotel: Segunda Noche
 
-La puerta aún vibraba del impacto cuando el aroma a jazmín, denso y persistente, se deslizó por la rendija como un recuerdo que se niega a morir. La madera, tibia bajo la palma; la manija, fría, desafiante. No hubo deliberación: los dedos obedecieron antes que el pensamiento. Al abrir, el universo se ordenó con una crueldad exacta: la mucama idéntica a la del sueño, uniforme impecable, cofia alineada, guantes que susurraban al rozar el tejido del delantal. La ceja, apenas elevada. Una pregunta muda que no admitía respuesta.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Bimbofication #Feminización #Latex #Sumisión
+**Palabras:** ~4,000
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**La puerta aún vibraba del impacto cuando el aroma a jazmín, denso y persistente, se deslizó por la rendija como un recuerdo que se niega a morir.**
+
+<!-- more -->
+
+---
+
+La madera, tibia bajo la palma; la manija, fría, desafiante. No hubo deliberación: los dedos obedecieron antes que el pensamiento. Al abrir, el universo se ordenó con una crueldad exacta: la mucama idéntica a la del sueño, uniforme impecable, cofia alineada, guantes que susurraban al rozar el tejido del delantal. La ceja, apenas elevada. Una pregunta muda que no admitía respuesta.
 
 No puede ser. La frase cayó una vez. No puede ser. Cayó otra. En el sueño, el mundo era una sala sin relojes; aquí, una sala con relojes que callaban. El brillo de un corsé bajo‑busto de cuero negro, con pequeñas argollas niqueladas, bajo el delantal, el ángulo de la barbilla, la quietud medida del pecho: todo era espejo de aquella fantasía nocturna, pero con la textura áspera de lo real. Pensó retroceder. Descubrió que su cuerpo —traidor leal— ya había dado un paso más adentro del hotel.
 

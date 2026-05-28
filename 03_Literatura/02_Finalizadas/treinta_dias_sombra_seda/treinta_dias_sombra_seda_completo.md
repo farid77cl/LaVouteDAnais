@@ -1,14 +1,24 @@
-# Treinta Días de Sombra y Seda
-
 *Un relato de Anaïs Belland*
+
+# Treinta Días de Sombra y Seda
 
 ---
 
-El collar es frío.
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Hipnosis #Bimbofication #Feminización #Sumisión #MTF #Transformación #MindControl
+**Palabras:** ~6,200
+**Perspectiva:** Primera Persona
+**Intensidad:** Intensa
 
-Frío frío frío.
+---
 
-Me lo está... poniendo. Ahora. Sus dedos. Los dedos de... de Patricia. Tocan mi nuca. Hacen... ¿cosquillas? No. Algo más. Algo que me hace... me hace sentir cosas. El metal hace *clic*. Como una puerta. Una puerta que... que no sé. Que no se abre más.
+**Me lo está... poniendo. Ahora. Sus dedos.**
+
+<!-- more -->
+
+---
+
+Los dedos de... de Patricia. Tocan mi nuca. Hacen... ¿cosquillas? No. Algo más. Algo que me hace... me hace sentir cosas. El metal hace *clic*. Como una puerta. Una puerta que... que no sé. Que no se abre más.
 
 Estoy de rodillas.
 

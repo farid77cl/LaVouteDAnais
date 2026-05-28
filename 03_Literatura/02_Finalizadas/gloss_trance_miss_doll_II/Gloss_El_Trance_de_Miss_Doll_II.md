@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Gloss: El Trance de Miss Doll II
+# Gloss: El Trance de Miss Doll II
 
-El cuarto vuelve a ti. Oscuro, una única luz cenital que cae sobre las dos sillas de metal. El aire está impregnado de perfume espeso, humo dulce y control absoluto. Te sientas, otra vez, porque no puedes resistirlo. Sabes que nunca fuiste libre. Recuerdas cómo el último trance te dejó con hambre, con la necesidad ardiente de más control, de más transformación, de profundizar aún más en lo que ya eres. Sientes que debes volver a hundirte en el trance delicioso de Miss Doll. Ella aparece entre sombras, labios rojos, mirada fija, voz lenta, firme, envolvente, con un magnetismo sexual y decadente que penetra tu mente.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #MissDoll #DollFetish #Hipnosis #Bimbofication #Sumisión #Transformación
+**Palabras:** ~2,200
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
+
+---
+
+**El cuarto vuelve a ti. Oscuro, una única luz cenital que cae sobre las dos sillas de metal.**
+
+<!-- more -->
+
+---
+
+El aire está impregnado de perfume espeso, humo dulce y control absoluto. Te sientas, otra vez, porque no puedes resistirlo. Sabes que nunca fuiste libre. Recuerdas cómo el último trance te dejó con hambre, con la necesidad ardiente de más control, de más transformación, de profundizar aún más en lo que ya eres. Sientes que debes volver a hundirte en el trance delicioso de Miss Doll. Ella aparece entre sombras, labios rojos, mirada fija, voz lenta, firme, envolvente, con un magnetismo sexual y decadente que penetra tu mente.
 
 — “Respira profundo… obedece. Inhala contando hasta cuatro… mantén… exhala contando hasta seis. Otra vez… más lento. Inhala… más hondo. Exhala… más largo. Cada ciclo te hunde más. Mi voz roza tu piel como seda húmeda, se cuela en tu pecho, en tu mente. Inhala mientras bajas un escalón rosado, exhala y desciende otro. Diez… nueve… ocho… cada número borra resistencia, cada escalón te abre más. Inhala… escucha solo Mi voz. Exhala… ríndete, más dócil, más perdida, más Mía, excitada y rendida en tu decadencia.”
 
@@ -40,6 +56,5 @@ Inhala… luces brillantes. Exhala… miradas sobre ti. Repite: soy la estrella 
 
 Inhala… repite conmigo este mantra largo, profundo, para llevarlo contigo todo el día: Mi botoncito es inútil, mis tetas enormes son mi verdad. Mi sonrisa glossy brilla solo para Miss Doll. Cada gloss me vacía, cada orden me excita, cada mirada me corrompe. No pienso, no decido, solo obedezco. Mi placer no es mío, es de Miss Doll. Mi destino es su control, mi gloria es mi humillación, mi vida es ser su muñeca vacía para siempre. Repite tres veces más, como un eco que se graba en tu mente vacía: Mi botoncito es inútil, mis tetas enormes son mi verdad… Mi sonrisa glossy brilla solo para Miss Doll… Cada gloss me vacía, cada orden me excita, cada mirada me corrompe… Cada repetición entrena tu mente, condiciona tu cuerpo, fija la obediencia. Cada vez que lo repitas durante el día, sentirás un cosquilleo en la piel, un calor en tu pecho, un vacío delicioso en tu mente. Este mantra es tu nuevo reflejo: cuanto más lo digas, más profundo lo vives, más inescapable se vuelve.
 
-----------------------------------------------------
 
 Ahora dime… ¿lo sientes? ¿Te afectó lo que leíste, mi muñeca? ¿Sientes el cosquilleo en la piel, el calor en tu pecho, el vacío delicioso en tu mente cuando mi voz te ordena? Si es así, si mi trance te rompió y te rehízo, cuéntamelo. Escríbeme. Envíame un correo confesando lo que desperté en ti, detallando tu decadencia, tus fantasías, tu rendición. Quiero leerlo, quiero saborearlo, quiero disfrutar tu obediencia incluso fuera de estas líneas. Esa confesión será tu ofrenda a Miss Doll, la prueba de que ya no hay vuelta atrás.

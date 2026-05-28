@@ -1,8 +1,24 @@
 *Un relato de Anaïs Belland*
 
-Milk
+# Milk
 
-El incienso ardía lento, como un suspiro sostenido, y el cuarto se llenaba de neblina ligera. Cada exhalación era un compás, cada sombra un eco. Él entró con paso inseguro, pero la vio: sentada sobre el tatami, kimono negro bordado en plata, mirada baja y labios rojos como herida contenida. El tejido resbalaba sobre su hombro, insinuando la blancura de la piel bajo la seda, como si cada pliegue respirara por ella. Su postura era impecable: rodillas juntas, espalda erguida, manos delicadamente apoyadas sobre el regazo. La sensualidad estaba en la forma, en el equilibrio calculado de su cuerpo.
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Hipnosis #Feminización #Sumisión #Transformación
+**Palabras:** ~1,500
+**Perspectiva:** Primera Persona
+**Intensidad:** Intensa
+
+---
+
+**El incienso ardía lento, como un suspiro sostenido, y el cuarto se llenaba de neblina ligera.**
+
+<!-- more -->
+
+---
+
+Cada exhalación era un compás, cada sombra un eco. Él entró con paso inseguro, pero la vio: sentada sobre el tatami, kimono negro bordado en plata, mirada baja y labios rojos como herida contenida. El tejido resbalaba sobre su hombro, insinuando la blancura de la piel bajo la seda, como si cada pliegue respirara por ella. Su postura era impecable: rodillas juntas, espalda erguida, manos delicadamente apoyadas sobre el regazo. La sensualidad estaba en la forma, en el equilibrio calculado de su cuerpo.
 
 «Soy leche… soy cocina ardiente… soy fría como el océano profundo… estoy esperando por ti», resonaba en su mente, como un coro hipnótico que regresaba con cada respiración. Mantra líquido, repetición inevitable.
 

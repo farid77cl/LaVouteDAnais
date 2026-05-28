@@ -1,30 +1,22 @@
-+------------------------------------------------------------------------------+
-¦                        ESPOSA DE MI ESPOSA II                                ¦
-+------------------------------------------------------------------------------+
+*Un relato de Anaïs Belland*
 
-+-----------------------------------------------------------------------------+
-¦ METADATOS DEL RELATO                                                        ¦
-+-----------------------------------------------------------------------------+
+# Esposa de mi Esposa II
 
-**Temáticas:** #BodySwap #ForcedFeminization #Femdom #TrophyWife #Humiliation #Piercings #Submission #LoveInD/s
+---
 
-**Palabras:** ~17,329
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #DollFetish #Bimbofication #Feminización #Sumisión #MTF #Transformación
+**Palabras:** ~18,400
+**Perspectiva:** Tercera Persona
+**Intensidad:** Intensa
 
-**Perspectiva:** Tercera Persona (focalización en Marco)
+---
 
-**Intensidad:** Extrema
+**El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.**
 
-+-----------------------------------------------------------------------------+
-¦ RESUMEN GANCHO                                                              ¦
-+-----------------------------------------------------------------------------+
+<!-- more -->
 
-La noche de bodas, Marco despierta en el cuerpo de su esposa. Elena, ahora en el suyo, no tiene intención de volver. Piercings, tacones imposibles y la mirada hambrienta de otro hombre lo llevarán a descubrir que la rendición total puede ser el único camino hacia el amor verdadero.
-
--------------------------------------------------------------------------------
-                              CUERPO DEL RELATO
--------------------------------------------------------------------------------
-
-El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.
+---
 
 O lo que ahora era Marco.
 
@@ -2164,9 +2156,7 @@ Salieron juntos hacia la cena, hacia Eduardo, hacia lo que fuera que el futuro l
 
 *Un relato de Anaïs Belland*
 
--------------------------------------------------------------------------------
                             NOTA DE LA AUTORA
--------------------------------------------------------------------------------
 
 Si esta historia resonó en ti, si reconociste algo de ti mismo en Marco —esa parte que secretamente anhela soltar el control, que se pregunta cómo sería rendirse por completo a alguien que te ama en tu forma más vulnerable—, quiero saberlo.
 
@@ -2176,6 +2166,3 @@ Escríbeme a: **anais.belland@outlook.com**
 
 Con devoción oscura,
 *Anaïs Belland* ??
-
--------------------------------------------------------------------------------
-
