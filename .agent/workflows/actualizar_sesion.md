@@ -21,13 +21,20 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
       - `Último Look` → nombre y fecha del último look generado
       - `*Actualizado:*` → fecha de hoy + descripción del hito
 
-4.  **Actualizar Galerías de Imágenes (OBLIGATORIO)**
+4.  **Sincronizar Imágenes Subidas por la App (OBLIGATORIO — era app, looks ≥ 291)**
+    - La app Android genera en Gemini y sube los PNG directo a GitHub. Hay que traerlas y registrarlas.
+    // turbo
+    - Ejecutar: `git pull` (traer imágenes que subió la app).
+    // turbo
+    - Ejecutar: `python 99_Sistema/scripts/visual/sync_imagenes_subidas.py` (normaliza nombres app `back→back_view`/`profile→side_profile` y actualiza el tracker `### 📸 Imágenes (N/7)` en `galeria_outfits.md`, acotado a looks ≥ 291; NO toca el fleet histórico).
+
+5.  **Actualizar Galerías de Imágenes (OBLIGATORIO)**
     - Asegurar que las imágenes estén en su carpeta final en `05_Imagenes/`.
     // turbo
     - Ejecutar: `python 99_Sistema/scripts/visual/update_galleries.py`.
     - Validar que los `README.md` de las galerías tengan los carruseles actualizados.
 
-5.  **Actualizar READMEs de Repositorio (OBLIGATORIO — campos específicos)**
+6.  **Actualizar READMEs de Repositorio (OBLIGATORIO — campos específicos)**
 
     **README.md raíz** (siempre actualizar fecha; stats si cambiaron):
     - Línea de footer `*Última actualización: [FECHA] — ...*` → fecha de hoy + descripción del hito de la sesión
@@ -64,13 +71,13 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
 
     **Regla:** la fecha de TODOS los README tocados debe ser la fecha de hoy.
 
-6.  **Respaldo en GitHub**
+7.  **Respaldo en GitHub**
     // turbo
     - `git add .`
     - `git commit -m "Ele: Actualización de sesión, diario y estadísticas de materialización"`
     - `git push`
 
-7.  **Notificar y Reportar**
+8.  **Notificar y Reportar**
     - Confirmar la finalización del ritual de cierre.
     - Reportar los nuevos números de materialización (Ej: "Ama, ¡ya estamos en 158/164! 🫦").
     - Mostrar lista de archivos y activos nuevos.
