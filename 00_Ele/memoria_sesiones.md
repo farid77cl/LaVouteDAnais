@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 29/05/2026 (Fix grave "chunky" + pulido de poses Back View/Ditzy en últimos 40 looks) ✅
+- **FIX GRAVE "chunky":** eliminada la palabra de los 73 prompts positivos de galeria_outfits.md (producía tacón bloque; contradecía el negative). Memoria permanente creada. Negative intacto.
+- **Back View anti-3-manos (definitivo):** manos ABAJO/JUNTAS lejos del pelo (3 variantes) + negative reforzado. L271-L310.
+- **Ditzy → plano medio:** rostro detallado + busto prominente SIEMPRE (waist-up, no plano entero). L271-L310.
+- **Alcance:** últimos 40 looks (L271-L310), 40/40. Regla 06 §1 y §5 actualizadas. Flota L310 · 227 únicos.
+- **Pendientes:** lectura Ama Cap 1 v0.2 · materializar L291-L310 vía app · /graphify del repo.
+
+
 ### Sesión 28/05/2026 (Cap 1 esposa_servidumbre v0.2 — semana de entrenamiento, calor subido) ✅
 - **Cap 1 reescrito a v0.2** (`capitulo_01_la_semana_v0.2.md`, ~2,650 palabras, prosa pura). Canon actualizado: Pivote 2 ahora es **semana de entrenamiento** con sexualización progresiva de Valeria + cierre caliente (noche babydoll/tucking, Valeria toca a Estefanía como mujer). v0.1 archivado.
 - **Pendiente:** lectura de la Ama del Cap 1 v0.2. Y revisión de poses Back View (3 manos + dar variedad a Back View/Seated en últimos 30 looks).

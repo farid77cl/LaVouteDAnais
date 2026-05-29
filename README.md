@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 28/05/2026 — **Variedad de poses L281-L310** (3 variantes rotativas × 7 poses + fix 3-manos Back View, regla en rule 06) · Cap 1 esposa_servidumbre v0.2 (semana de entrenamiento, calor subido) · Batch L301-L310 Miami Pool Party (70 prompts) · 41 relatos normalizados al Estándar Completo Bloque · flujo imágenes app→GitHub (L301-L310 materializándose) · Engine **v4.7 Nivel 4** · Flota **L310 · 227 únicos** 🌴👙👠.**
+*Última actualización: 29/05/2026 — **Fix grave "chunky" eliminado de 73 prompts positivos** (producía tacón bloque) · Back View anti-3-manos definitivo (manos abajo, lejos del pelo) · **Ditzy → plano medio** (rostro detallado + pechos siempre) en últimos 40 looks (L271-L310) · Cap 1 esposa_servidumbre v0.2 · Flota **L310 · 227 únicos** 👠🌴.**
 
 ---
 

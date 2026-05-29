@@ -8724,11 +8724,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold sole
 - **Ambientación:** Miami villa poolside cocktail hour with infinity pool overlooking the bay and white loungers and tropical flowers and golden sunset light, glamorous hostess editorial.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_seated.png) | [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**

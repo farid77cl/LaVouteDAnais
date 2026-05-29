@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 28/05/2026 (**Variedad de poses L281-L310** · 3 variantes rotativas × 7 poses + fix 3-manos Back View · Cap 1 esposa_servidumbre v0.2 calor subido · Batch L301-L310 Miami Pool Party · 41 relatos normalizados · imágenes app→GitHub materializándose · Engine **v4.7 Nivel 4** · Flota **L310** · **227 únicos**) 🌴👙👠💅✨*
+*Última actualización: 29/05/2026 (**Fix grave "chunky" (73 prompts)** · Back View anti-3-manos definitivo · Ditzy plano medio · últimos 40 looks L271-L310 corregidos · Cap 1 v0.2 · Flota **L310** · **227 únicos**) 👠🌴💅✨*
 
 ---
 

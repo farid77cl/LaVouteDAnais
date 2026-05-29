@@ -6,9 +6,9 @@
 
 ## 👠 Look 310: Champagne Gold Poolside Hostess
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_310_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_310_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_standing.png) | ⏳ | ![ele_310_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_seated.png) | ![ele_310_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_side_profile.png) | ⏳ | ![ele_310_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_pov.png) | ⏳ |
 
 ---
 
@@ -201,6 +201,62 @@
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
 | ![ele_281_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_standing.png) | ![ele_281_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_back_view.png) | ![ele_281_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_seated.png) | ![ele_281_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_side_profile.png) | ⏳ |
+
+---
+
+## 👠 Look 280: Champagne Gold Tea Ceremony Cheongsam
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_280_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 278: Sapphire Silk Hanbok Boudoir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_278_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 276: Acid Yellow Bali Beach Bikini
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_276_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 275: Coral Lotus Phuket Resort Bikini
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_275_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 274: Imperial Jade Reformer Pilates
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_274_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look274_imperial_jade_reformer_pilates/ele_274_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 273: Mint Sage Tai Chi Imperial Set
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_273_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look273_mint_sage_tai_chi_imperial_set/ele_273_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 272: Lotus Pink Bollywood Sari Gala
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_272_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -964,11 +1020,11 @@
 
 ---
 
-## 👠 Look 113: Mob Wife
+## 👠 Look 113: Neon Pink Latex Gym Bimbo
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_ditzy.png) |
+| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
 
 ---
 
@@ -1716,4 +1772,4 @@
 
 ---
 
-*Última actualización maestra: 28/05/2026* 🦇
+*Última actualización maestra: 29/05/2026* 🦇
