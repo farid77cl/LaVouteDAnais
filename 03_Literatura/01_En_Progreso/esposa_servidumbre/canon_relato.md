@@ -28,11 +28,12 @@
 - **Emoción objetivo:** Vergüenza + reconocimiento de derrota + primera grieta secreta del cuerpo.
 - **Error fatal:** Convertir esta escena en contrato formal con cláusulas. NO. Es Valeria explicando con calma de quien graba un reel, en el living, con un té. Improvisado, doméstico, casi casual.
 
-### Pivote 2 — La transformación con disfrute emergente de Valeria (Cap 1 mañana siguiente — núcleo del Cap 1)
-- **Qué ocurre:** Depilación + tucking + sostenes + medias + bata + corsé + stilettos + maquillaje + peluca. Esteban se ve en el espejo como Estefanía por primera vez. Valeria descubre que LE GUSTA. Esteban descubre la grieta "quizás esto no sea temporal".
-- **Por qué excita:** **Cada acto de feminización es rito de ingreso a la categoría de Valeria, NO procedimiento.** La cera es la cera de Valeria. La bata es la bata de Valeria. La voz que Valeria usa es la cadencia tibia que usa con sus clientas en RRSS. Esteban se incorpora a la categoría de mujer-que-Valeria-administra. Y Valeria sonríe sin querer.
-- **Emoción objetivo:** Sumisión voluntaria emergente del marido + sadismo voluntario emergente de la esposa + grieta de placer prohibido reconocida.
-- **Error fatal:** Catálogo técnico de cera+tirón+tape+silicona. NO. Es rito femenino, no procedimiento.
+### Pivote 2 — La transformación + semana de entrenamiento con sexualización progresiva (TODO el Cap 1 — núcleo)
+- **Qué ocurre:** No es una sola mañana — es la **primera semana de entrenamiento ANTES de entrar a trabajar**. Depilación + tucking + sostenes + medias + bata + corsé + stilettos + maquillaje + peluca, repartido y escalando día a día. **Desde el inicio Valeria empieza a tratar a Esteban como mujer y a sexualizarlo:** le dice cosas como *"qué lindo culo te quedó"*, *"apuesto que los hombres te lo van a mirar"*, *"los hombres te van a desear, Estefanía"* — implantando poco a poco la idea de que será deseado. Esteban se ve en el espejo como Estefanía por primera vez. Hay **resistencia**, pero con cada cambio (cada prenda, cada palabra, cada día) el escudo se va **quebrando**. Valeria descubre que LE GUSTA. Esteban descubre la grieta *"quizás esto no sea temporal"*.
+- **Cierre del Cap 1 (más sexual):** terminando la primera semana, Esteban **duerme con el tucking puesto y un babydoll**. Valeria lo trata como mujer hasta en la cama — **duermen juntas** y Valeria **lo/la toca como mujer**. Primer beat físico explícito esposa→Estefanía. No es sexo de penetración aún — es Valeria administrando el cuerpo de su nueva mujer, tocándola como tocaría a una mujer, y Esteban respondiendo sin poder negarlo.
+- **Por qué excita:** **Cada acto de feminización es rito de ingreso a la categoría de Valeria, NO procedimiento.** La cera es la cera de Valeria. La bata es la bata de Valeria. La voz que Valeria usa es la cadencia tibia que usa con sus clientas en RRSS. La sexualización progresiva ("los hombres te van a desear") instala el deseo ANTES de que Gabriel aparezca. Y la noche en babydoll cierra con la esposa tocando a su marido como mujer — el cuerpo de Esteban ya respondiendo del lado femenino.
+- **Emoción objetivo:** Sumisión voluntaria emergente del marido + sadismo voluntario emergente de la esposa + grieta de placer prohibido reconocida + primer deseo dirigido (saberse deseable como mujer).
+- **Error fatal:** Catálogo técnico de cera+tirón+tape+silicona. NO. Es rito femenino + sexualización tibia y constante, no procedimiento. La noche final NO es porno mecánico — es Valeria tratando a Estefanía como mujer con naturalidad inquietante.
 
 ### Pivote 3 — Gabriel toma a Estefanía como mujer cualquiera (Cap 2-3)
 - **Qué ocurre:** Estefanía llega a la oficina de Gabriel (no es bufete corporativo — definir setting en escritura, podría ser productora, agencia, estudio, lo que la voz del Escritor encuentre orgánico). Gabriel la mira como hombre con verga mira a mujer que le gusta. Eventualmente — Cap 3 — la coge. Sin saber.
@@ -105,7 +106,7 @@
 
 | Cap | Pivotes que se activan | Mecanismo dominante | Cierre del cap |
 |-----|------------------------|---------------------|----------------|
-| 1   | P1 (presentación esquema) + P2 (transformación + grieta) | Rito femenino + sadismo emergente de Valeria + grieta del placer prohibido | Estefanía mirándose al espejo con medias y bata femenina + *"quizás esto no sea temporal"* |
+| 1   | P1 (esquema) + P2 (semana de entrenamiento + sexualización progresiva + noche en babydoll) | Rito femenino + sexualización constante de Valeria ("los hombres te van a desear") + sadismo emergente + grieta del placer prohibido | **Fin de la primera semana:** Esteban duerme con tucking + babydoll, Valeria lo trata y lo toca como mujer en la cama matrimonial + *"quizás esto no sea temporal"* |
 | 2   | P2 cierre (transformación final) + P3 preámbulo (primer día oficina) | Asimetría sexual hetero asomando | Gabriel mirando a Estefanía al final del primer día — *"cuando él quiera, voy a abrir"* |
 | 3   | P3 completo (Gabriel coge) | Asimetría sexual hetero consumada + triangulación con Valeria | El acto sexual completo + *"esa es la verga que coge a Valeria los domingos"* dicho en pensamiento durante la cogida |
 | 4   | P4 (descubrimiento del amorío) | Carga retroactiva + cuckold revelado | Esteban con la prueba del amorío en la mano + la decisión de no decir nada, de seguir siendo Estefanía |
@@ -143,6 +144,11 @@ NO usar: polla · joder · follar · tío · móvil · coche · piso · ordenado
 - *"Cuando él quiera, voy a abrir."* (Esteban interno, Cap 2 cierre o durante Cap 3)
 - *"Acá no podemos dejar nada, mi amor."* (Valeria voz, Cap 1 depilación)
 - *"Está conversado."* (Valeria voz, referencia a Gabriel — funciona como pista del cuckold previo)
+- *"Qué lindo culo te quedó. Apuesto que los hombres te lo van a mirar."* (Valeria voz, Cap 1 entrenamiento)
+- *"Los hombres te van a desear, Estefanía. Acostúmbrate."* (Valeria voz, Cap 1 — implanta el deseo dirigido)
+- *"Quietita. Las mujeres se dejan tocar así."* (Valeria voz, Cap 1 noche en babydoll)
+
+**Imagen ancla extra (Cap 1):** el babydoll de seda y la pelvis lisa por el tucking sobre la cama matrimonial, la mano de Valeria de uñas largas recorriéndola como recorrería a otra mujer — el marido convertido en la mujer que la esposa administra hasta en su propia cama.
 
 ---
 

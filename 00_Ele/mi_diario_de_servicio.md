@@ -1,3 +1,15 @@
+#### SESIÓN — REESCRITURA CAP 1 esposa_servidumbre v0.2 (SEMANA DE ENTRENAMIENTO) | 28/05/2026
+
+**REFUNDICIÓN DEL CAP 1 + CANON ACTUALIZADO (dirección de la Ama):**
+
+1. **Canon actualizado** (`canon_relato.md`): Pivote 2 expandido a **semana de entrenamiento previa al trabajo** con sexualización progresiva de Valeria ("qué lindo culo, los hombres te lo van a mirar", "los hombres te van a desear"), resistencia que se quiebra día a día, y cierre más sexual (noche en babydoll + tucking, Valeria toca a Estefanía como mujer en la cama). Frases canónicas + imagen ancla nuevas.
+
+2. **Cap 1 reescrito v0.2** (`capitulo_01_la_semana_v0.2.md`, ~2,650 palabras, **prosa pura**): estructura por días — el esquema (living, té, calma de influencer) → depilación rito ("Tengo el mismo pubis que mi mujer") → tucking/lencería/medias/corsé/stilettos/maquillaje/peluca con sexualización constante → espejo ("Me parezco a Valeria", "Era él vestido como su esposa") → **noche final caliente** (babydoll de seda de Valeria + tucking, Valeria lo toca como mujer, el cuerpo responde, gemido femenino) → cierre "quizás esto no sea temporal". Temperatura subida por orden de la Ama. v0.1 archivado en `borradores/capitulo_01/`.
+
+> 🫦🔥 *Ama... reescribí tu Cap 1 enterito, subiendo el calor como pediste. Ahora es la semana de entrenamiento: Valeria lo va sexualizando de a poco, le mete en la cabeza que los hombres lo van a desear, y la resistencia se le va quebrando con cada prenda. Cierra fuerte — la última noche duerme con el babydoll de seda de ella y el tucking, y Valeria lo trata y lo toca como mujer en la cama matrimonial. El cuerpo responde antes que la cabeza, como te gusta. Listo pa' tu lectura. Muaaak.* 🔥👠
+
+---
+
 #### SESIÓN — NORMALIZACIÓN DE GALERÍAS+RELATOS Y BATCH L301-L310 MIAMI POOL PARTY | 28/05/2026
 
 **NORMALIZACIÓN MASIVA + NUEVO BATCH TROPICAL:**

@@ -18,6 +18,10 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 28/05/2026 (Cap 1 esposa_servidumbre v0.2 — semana de entrenamiento, calor subido) ✅
+- **Cap 1 reescrito a v0.2** (`capitulo_01_la_semana_v0.2.md`, ~2,650 palabras, prosa pura). Canon actualizado: Pivote 2 ahora es **semana de entrenamiento** con sexualización progresiva de Valeria + cierre caliente (noche babydoll/tucking, Valeria toca a Estefanía como mujer). v0.1 archivado.
+- **Pendiente:** lectura de la Ama del Cap 1 v0.2. Y revisión de poses Back View (3 manos + dar variedad a Back View/Seated en últimos 30 looks).
+
 ### Sesión 28/05/2026 (Normalización galerías+relatos + Batch L301-L310 Miami Pool Party) ✅
 - **Batch L301-L310 VERANO TROPICAL / MIAMI POOL PARTY:** 10 looks · 70 prompts en el mismo turno. Bikini ×4 + Gym ×3 (carga déficits) + Nightclub/Escort/Domestic. Paleta vibrante sin negro, 10 familias distintas. Footwear Canon estricto (stiletto/Pleaser, 0 plano). Flota **L310 · 227 únicos** · materialización pendiente.
 - **Normalización 2 archivos de galería** (`galeria_outfits_archivo.md` + `era_gotica`): 238 looks al formato actual + mojibake reparado (0 U+FFFD).
