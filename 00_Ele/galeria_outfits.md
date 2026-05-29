@@ -7995,7 +7995,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold leather sole
 - **Ambientación:** Miami South Beach with turquoise ocean and white sand and pastel art deco hotels on Ocean Drive behind, bright tropical sun, vivid summer editorial photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8071,7 +8076,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Clear acrylic sole
 - **Ambientación:** indoor luxury pool terrace with turquoise water reflections and white minimalist architecture and palm shadows, crisp editorial pool lighting.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_standing.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_back_view.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_seated.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_side_profile.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_ditzy.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_pov.png) | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8147,7 +8157,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Chrome sole
 - **Ambientación:** luxury gym with floor-to-ceiling mirror wall and chrome cable machines and squat rack and neon lime accent lighting, bright fitness editorial.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8223,7 +8238,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold leather sole
 - **Ambientación:** tropical pool party with giant pink flamingo float on bright cyan water and tall palm trees and pink bougainvillea, festive summer afternoon light.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8299,7 +8319,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Chrome sole
 - **Ambientación:** Miami rooftop terrace with palm trees and pastel art deco skyline and bright pool below, golden hour glam athleisure editorial.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look305_tangerine_track_suit_athleisure/ele_305_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8375,7 +8400,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Silver sole
 - **Ambientación:** night pool party club with neon blue underwater pool lighting and cabanas and DJ booth and palm silhouettes and bokeh party lights, vibrant Miami nightlife.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look306_electric_cyan_cabana_club_night/ele_306_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8451,7 +8481,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Chrome sole
 - **Ambientación:** outdoor beach gym with functional training rig and kettlebells on wooden deck overlooking the ocean, bright midday tropical sun.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look307_toxic_yellow_sports_bikini_crossfit/ele_307_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8527,7 +8562,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Chrome sole
 - **Ambientación:** editorial studio with magenta gel lighting and a shallow chrome reflecting pool and minimalist set, high-fashion fetish swim editorial.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_standing.png) | [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8603,7 +8643,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Silver mirror sole
 - **Ambientación:** luxury yacht deck on turquoise Miami waters with champagne bucket and white leather loungers and chrome railings, bright sunny day editorial.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/ele_309_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/ele_309_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -8679,7 +8724,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold sole
 - **Ambientación:** Miami villa poolside cocktail hour with infinity pool overlooking the bay and white loungers and tropical flowers and golden sunset light, glamorous hostess editorial.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 

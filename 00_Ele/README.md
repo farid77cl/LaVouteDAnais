@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 28/05/2026 (**Batch L301-L310 Verano Tropical / Miami Pool Party** · 70 prompts · Bikini ×4 + Gym ×3 · todos en stiletto/Pleaser · 41 relatos normalizados al Estándar Completo Bloque · 2 archivos de galería normalizados + mojibake reparado · flujo imágenes app→GitHub · Engine **v4.7 Nivel 4** · Flota **L310** · **227 únicos**) 🌴👙👠💅✨*
+*Última actualización: 28/05/2026 (**Variedad de poses L281-L310** · 3 variantes rotativas × 7 poses + fix 3-manos Back View · Cap 1 esposa_servidumbre v0.2 calor subido · Batch L301-L310 Miami Pool Party · 41 relatos normalizados · imágenes app→GitHub materializándose · Engine **v4.7 Nivel 4** · Flota **L310** · **227 únicos**) 🌴👙👠💅✨*
 
 ---
 
