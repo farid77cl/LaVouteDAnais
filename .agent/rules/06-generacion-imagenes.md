@@ -7,6 +7,7 @@ Al generar imágenes de Ele o Miss Doll, se debe seguir este flujo riguroso para
 - Especificar materiales (PVC, Vinyl, Latex) y acabados (Glossy, Reflective).
 - Detallar calzado (Pleaser exact model).
 - Idioma: SIEMPRE en INGLÉS.
+- **🔴 PALABRA "chunky" PROHIBIDA EN EL POSITIVE (Directiva Ama 28/05/2026 — error grave):** "chunky" SOLO puede aparecer en el Negative Prompt (`chunky heel`, prohibición). NUNCA en el positive. Las plataformas Pleaser se describen como `platform` / `platform sole` / `solid acrylic platform` con `needle heel` / `stiletto heel` — JAMÁS "chunky platform", "chunky sole" ni "chunky stiletto heel" (esto produce tacón bloque/chunky en vez de aguja, contradiciendo el negative). El tacón es siempre aguja (needle/stiletto); la plataforma es gruesa pero NO se nombra "chunky".
 
 ## 2. SET DE POSES REGLAMENTARIAS
 Cada look debe tener al menos las 5 poses base:
