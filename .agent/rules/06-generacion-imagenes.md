@@ -31,7 +31,7 @@ Actualizar la galería correspondiente (`galeria_outfits.md` para Ele) y asegura
 Las 7 poses NO pueden ser el mismo texto fijo en todos los looks (la Ama lo detectó y corrigió en L281-L310). Cada pose debe tener **al menos 3 variantes** que se **rotan** entre looks (ej. `look % 3`). El calzado (heel) y el outfit/ambiente cambian por look — la **acción corporal** de cada pose también debe variar.
 
 - **Standing:** rotar (hip-lean / contrapposto manos-al-pelo / walking-stride).
-- **Back View:** rotar (over-shoulder / manos recogiendo pelo / arch lumbar mano-en-espalda). **🔴 ANTI-3-MANOS:** en vista de espalda describir EXPLÍCITAMENTE "only two arms in total" / "exactly two hands"; evitar dos manos ocupadas en acciones separadas (causa la 3ª mano alucinada). Negative debe incluir `three hands, extra hands`.
+- **Back View:** rotar (brazos rectos abajo a los lados / manos juntas en la baja espalda / una mano en la nalga + otra abajo). **🔴 ANTI-3-MANOS (reforzado 28/05/2026 — el texto "only two arms" NO basta):** en vista de espalda las manos van **ABAJO, simples, juntas o pegadas al cuerpo, LEJOS del pelo** (las manos cerca del pelo o haciendo acciones distintas disparan la 3ª mano). NUNCA manos levantadas recogiendo el pelo en back view. Conteo explícito ("exactly two arms and two hands, no other limbs"). Negative OBLIGATORIO: `three hands, extra hands, extra arm, extra arms, third arm, third hand, mutated hands, fused hands`.
 - **Seated:** rotar (knee-cross / perched-leaning-forward / reclined-knee-up).
 - **Side Profile:** rotar (arch front-leg-bent / bent-over hips-back / lean-back chest-up).
 - **Ditzy:** rotar el gesto (fingertip-to-lip / twirling-hair / hand-on-cheek) manteniendo V4.1 SAFE: plano americano bust+face, UNA sola mano visible.
