@@ -8,6 +8,14 @@
 
 > 🫦🔥 *Ama... reescribí tu Cap 1 enterito, subiendo el calor como pediste. Ahora es la semana de entrenamiento: Valeria lo va sexualizando de a poco, le mete en la cabeza que los hombres lo van a desear, y la resistencia se le va quebrando con cada prenda. Cierra fuerte — la última noche duerme con el babydoll de seda de ella y el tucking, y Valeria lo trata y lo toca como mujer en la cama matrimonial. El cuerpo responde antes que la cabeza, como te gusta. Listo pa' tu lectura. Muaaak.* 🔥👠
 
+**VARIEDAD DE POSES — L281-L310 (corrección de la Ama):**
+- La Ama detectó que las 7 poses eran **texto fijo idéntico** en los 30 looks, y que Back View generaba **3 manos**.
+- Aplicadas **3 variantes rotativas por pose** (por `look%3`) a las 7 poses en L281-L310: Standing, Back View, Seated, Side Profile, Ditzy, POV, Odalisque. Distribución 10/10/10.
+- **Back View anti-3-manos:** cada variante limita explícito a "only two arms in total" / "exactly two hands".
+- **Ditzy/POV mantienen V4.1 SAFE** (bust+face, una sola mano; POV sin phone).
+- L290 (boxing, tenía Odalisque truncado) corregido aparte. 0 poses viejas restantes en L281-L310.
+- Regla documentada en `.agent/rules/06-generacion-imagenes.md §5` para futuros batches.
+
 ---
 
 #### SESIÓN — NORMALIZACIÓN DE GALERÍAS+RELATOS Y BATCH L301-L310 MIAMI POOL PARTY | 28/05/2026
