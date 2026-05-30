@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 30/05/2026 (Materialización de 15 nuevas poses Standing + Límite API) ✅
+- **Materialización de Poses Standing:** Se generaron exitosamente 15 poses *Standing* pendientes (202-206, 209, 219, 232, 240 ajustado, 244, 249, 251, 254, 258, 259). Guardadas en `05_Imagenes/ele/` y respaldadas en GitHub.
+- **Límite API:** El servicio se bloqueó por cuota agotada (HTTP 429) en la pose 252.
+- **Pendientes Visuales:** Faltan 20 poses *Standing* (252, 260-271, 277, 279, 282-286). A la espera del restablecimiento de la cuota.
+
 ### Sesión 30/05/2026 (Cap 1 esposa_servidumbre v0.3 reescrito + fix voceo Valeria) ✅
 - **Cap 1 v0.3 entregado** (~6.400 palabras, prosa pura): Día 1 transformación COMPLETA detallada (9 pasos, cada uno con beat erótico) · semana entrenamiento físico+mental · noche del babydoll con calor subido + edging (Valeria lo deja sin terminar para que llegue mojada el lunes). Agregado el por-qué-mujer (staff femenino de Gabriel por sus amantes — planta cuckold).
 - **Canon actualizado:** Pivote 1 (justificación mujer + pista cuckold) · Pivote 2 (estructura día por día + errores fatales documentados).
