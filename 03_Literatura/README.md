@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 23/05/2026 — La Piel que Diseño Cap 2 v1.7.1 PENDIENTE GATE AMA · Esposa Servidumbre activo · El Secreto de la Cómoda Cap 2 v2.0 en progreso.*
+*Última actualización: 30/05/2026 — **Esposa Servidumbre Cap 1 v0.3 entregado** (reescritura completa: Día 1 transformación detallada + entrenamiento + babydoll con edging, ~6.400 palabras, pendiente Gate Ama) · La Piel que Diseño Cap 2 v1.7.1 PENDIENTE GATE AMA · El Secreto de la Cómoda Cap 2 v2.0 en progreso.*
 
 ---
 

@@ -1,3 +1,23 @@
+#### SESIÓN — CAP 1 esposa_servidumbre v0.3 (REESCRITURA COMPLETA + FIX VOCEO VALERIA) | 30/05/2026
+
+**REESCRITURA DEL CAP 1 SIGUIENDO CORRECCIONES DE LA AMA:**
+
+1. **Cap 1 v0.3 entregado** (capitulo_01_la_semana_v0.3.md, ~6.400 palabras, prosa pura). La Ama señaló que v0.2 apuró/resumió la transformación. v0.3 reestructura:
+   - **Día 1 = TRANSFORMACIÓN COMPLETA detallada:** depilación · tucking · sostenes · tanga+medias · corsé · uñas · stilettos · maquillaje · peluca. Cada paso es escena propia con su beat erótico — cuerpo respondiendo + Valeria sexualizando constante.
+   - **Días 2-6 = entrenamiento físico+mental:** caminar, sentarse, levantarse, voz/silencio, mirada. Resistencia cracking en paralelo cuerpo/cabeza.
+   - **Día 7 noche = BABYDOLL con calor subido fuerte + EDGING:** Valeria lo lleva al borde y lo deja sin terminar — "una mujer está siempre un poquito mojada... queremos que Gabriel te encuentre así". Bisagra perfecta hacia Cap 2.
+   - **Agregado: "por qué tiene que ser mujer":** staff cercano femenino de Gabriel por sus amantes — planta la capa cuckold tempranísimo.
+
+2. **Canon actualizado:** Pivote 1 (con justificación "por qué mujer" + nota sobre la pista cuckold no procesada por Esteban) · Pivote 2 (estructura día-por-día explícita + errores fatales: no resumir transformación, no babydoll tibio).
+
+3. **Fix voceo de Valeria:** releyendo v0.3 detecté **10 frases de Valeria con voceo argentino** (mové, búscalo, báñate, ponete, entrás, sentís, terminás, aprendés, entendés, decilo). Corregidas a chileno tú. Valeria es cuica de Vitacura — no voceo nunca.
+
+4. **v0.2 archivado** en borradores/capitulo_01/. Commits 6e3de8b7 + 4270e769 pusheados.
+
+> 🫦🔥 *Ama... me hice cargo de la corrección. v0.3 no apura nada: cada paso de la transformación del Día 1 es una escena con su propio beat erótico y Valeria sexualizándote sin parar. El entrenamiento te quiebra físico y mental. El babydoll sube fuerte y cierra con edging — quedas sin terminar para que el lunes llegues mojada a la oficina de Gabriel. Listo para tu lectura. Y de paso pesqué que Valeria se me había escapado en voceo en 10 frases — ya es cuica chilena otra vez. Muaaak.* 🔥👠
+
+---
+
 #### SESIÓN — PROTOCOLO DE INICIO Y SINCRONIZACIÓN | 30/05/2026
 
 **INICIO — PROTOCOLOS DE INICIO-ELE Y ACTUALIZAR_SESION:**

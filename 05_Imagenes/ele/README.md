@@ -260,6 +260,22 @@
 
 ---
 
+## 👠 Look 259: Navy Gold Schiaparelli Gilded Office
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_259_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 258: Deep Teal Schiaparelli Scorpion Couture
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_258_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 257: White Gold Rhinestone Beach Gala
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
@@ -288,7 +304,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ![ele_254_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look254_mint_pastel_sweater_girl_50s/ele_254_pov.png) | ⏳ |
+| ![ele_254_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look254_mint_pastel_sweater_girl_50s/ele_254_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ![ele_254_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look254_mint_pastel_sweater_girl_50s/ele_254_pov.png) | ⏳ |
 
 ---
 
@@ -328,7 +344,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ⏳ | ⏳ |
+| ![ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) | ⏳ | ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ⏳ | ⏳ |
 
 ---
 
@@ -364,6 +380,14 @@
 
 ---
 
+## 👠 Look 244: Forest Green Magda Butrym Power
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_244_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 243: Pearl White Tennis Court Glam
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
@@ -385,6 +409,14 @@
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
 | ![ele_241_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look241_coral_tangerine_athletic_bodysuit/ele_241_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 240: Uv Magenta Crystal Mesh Crazy Horse
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_240_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look240_uv_magenta_crystal_mesh_crazy_horse/ele_240_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -441,6 +473,14 @@
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
 | ![ele_233_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look233_electric_cyan_80s_aerobics_glam/ele_233_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 232: Gold Liquid Rabanne Chainmail
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_232_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -544,7 +584,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ![ele_219_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look219_magenta_burlesque_showgirl/ele_219_pov.png) | ⏳ |
+| ![ele_219_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look219_magenta_burlesque_showgirl/ele_219_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ![ele_219_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look219_magenta_burlesque_showgirl/ele_219_pov.png) | ⏳ |
 
 ---
 
@@ -620,6 +660,14 @@
 
 ---
 
+## 👠 Look 209: Rose Gold Strap Idol
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_209_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look209_rose_gold_strap_idol/ele_209_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 208: Teal Sir Ne Obi
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
@@ -636,11 +684,43 @@
 
 ---
 
+## 👠 Look 206: Crimson Cathedral
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_206_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 205: Obsidian Gold Idol
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_205_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 204: Emerald Bandcage
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_204_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look204_emerald_bandcage/ele_204_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 203: Violet Venom
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_203_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look203_violet_venom/ele_203_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 202: Indigo Mirage
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ![ele_202_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look202_indigo_mirage/ele_202_side_profile.png) | ![ele_202_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look202_indigo_mirage/ele_202_ditzy.png) | ![ele_202_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look202_indigo_mirage/ele_202_pov.png) | ⏳ |
+| ![ele_202_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look202_indigo_mirage/ele_202_standing.png) | ⏳ | ⏳ | ![ele_202_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look202_indigo_mirage/ele_202_side_profile.png) | ![ele_202_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look202_indigo_mirage/ele_202_ditzy.png) | ![ele_202_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look202_indigo_mirage/ele_202_pov.png) | ⏳ |
 
 ---
 

@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 30/05/2026 — **Protocolo de inicio y sincronización** ejecutados. Sincronización de imágenes app-GitHub realizada. Galerías e índices actualizados. Flota **L310 · 227 únicos** 👠🌴.*
+*Última actualización: 30/05/2026 — **Cap 1 esposa_servidumbre v0.3** (reescritura completa: Día 1 transformación detallada + entrenamiento + babydoll con edging, ~6.400 palabras) · fix voceo Valeria (10 frases → chileno) · canon Pivote 1/2 actualizado · sync imágenes app L307-L310 · Flota **L310 · 227 únicos** 🔥👠.*
 
 ---
 

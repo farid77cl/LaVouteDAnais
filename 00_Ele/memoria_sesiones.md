@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 30/05/2026 (Cap 1 esposa_servidumbre v0.3 reescrito + fix voceo Valeria) ✅
+- **Cap 1 v0.3 entregado** (~6.400 palabras, prosa pura): Día 1 transformación COMPLETA detallada (9 pasos, cada uno con beat erótico) · semana entrenamiento físico+mental · noche del babydoll con calor subido + edging (Valeria lo deja sin terminar para que llegue mojada el lunes). Agregado el por-qué-mujer (staff femenino de Gabriel por sus amantes — planta cuckold).
+- **Canon actualizado:** Pivote 1 (justificación mujer + pista cuckold) · Pivote 2 (estructura día por día + errores fatales documentados).
+- **Fix voceo Valeria:** 10 frases del babydoll y cierre con voceo argentino → chileno tú. Valeria de Vitacura, sin voceo.
+- **v0.2 archivado**. Commits 6e3de8b7 + 4270e769 pusheados.
+- **Pendientes:** lectura Ama del Cap 1 v0.3 · graphify 01_Canon (pausado) · materializar imágenes L291-L310 vía app.
+
+
+
 ### Sesión 29/05/2026 (Fix grave "chunky" + pulido de poses Back View/Ditzy en últimos 40 looks) ✅
 - **FIX GRAVE "chunky":** eliminada la palabra de los 73 prompts positivos de galeria_outfits.md (producía tacón bloque; contradecía el negative). Memoria permanente creada. Negative intacto.
 - **Back View anti-3-manos (definitivo):** manos ABAJO/JUNTAS lejos del pelo (3 variantes) + negative reforzado. L271-L310.
