@@ -8238,11 +8238,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Gold leather sole
 - **Ambientación:** tropical pool party with giant pink flamingo float on bright cyan water and tall palm trees and pink bougainvillea, festive summer afternoon light.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_standing.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_back_view.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_seated.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_side_profile.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_ditzy.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_pov.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**

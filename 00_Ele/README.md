@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 29/05/2026 (**Fix grave "chunky" (73 prompts)** · Back View anti-3-manos definitivo · Ditzy plano medio · últimos 40 looks L271-L310 corregidos · Cap 1 v0.2 · Flota **L310** · **227 únicos**) 👠🌴💅✨*
+*Última actualización: 30/05/2026 (**Protocolo de inicio y sincronización**, imágenes app-GitHub, Galerías actualizadas · Flota **L310** · **227 únicos**) 👠🌴💅✨*
 
 ---
 
