@@ -457,7 +457,7 @@ Estefanía gimió otra vez. Más fuerte. La cadera, sola, se empujó contra la m
 
 —Sí.
 
-—Dilo como tú lo sentís.
+—Dilo como tú lo sientes.
 
 —Me gusta.
 
@@ -479,7 +479,7 @@ Valeria sonrió contra su oreja.
 
 La mano siguió. Empezó a moverse sobre la pelvis lisa con un ritmo lento, presionando rítmico contra el tape, despertando la verga atrapada sin dejarla salir. Estefanía empujó la cadera, buscando más presión, y Valeria se lo permitió un poco — la dejó usar la palma como una mujer usa los dedos de su amante sobre su propio clítoris, masturbándose contra una mano amiga, encontrando ritmo.
 
-—Eso, eso. Mové la cadera. Buscalo. Las mujeres trabajan, ¿sabías? Las mujeres no se quedan acostadas esperando. Mové.
+—Eso, eso. Mueve la cadera. Búscalo. Las mujeres trabajan, ¿sabías? Las mujeres no se quedan acostadas esperando. Muévete.
 
 Estefanía movió. Empujó. Empujó otra vez. La respiración se le hizo corta. Cada empuje le mandaba un golpecito eléctrico desde la pelvis presa hasta la garganta. Los pezones, todavía duros, latían contra la seda del babydoll. Estaba cerca de algo nuevo, algo que no había sentido nunca, algo que no era el orgasmo masculino que conocía — más largo, más ancho, más en oleadas que en explosión.
 
@@ -489,7 +489,7 @@ Valeria lo sintió. Detuvo la mano.
 
 —No, por favor—
 
-—Sí. Esta noche no terminás. Esta noche aprendés a estar mojada. Esa es la lección. Una mujer está siempre un poquito mojada en la oficina, todo el día, sin terminar, y eso es lo que la hace caminar así, mirar así, hablar así. Si te dejo terminar ahora, mañana llegas vacía a la oficina. No queremos eso. Queremos que Gabriel te encuentre así, mojada, tensa, lista. ¿Entendés?
+—Sí. Esta noche no terminas. Esta noche aprendes a estar mojada. Esa es la lección. Una mujer está siempre un poquito mojada en la oficina, todo el día, sin terminar, y eso es lo que la hace caminar así, mirar así, hablar así. Si te dejo terminar ahora, mañana llegas vacía a la oficina. No queremos eso. Queremos que Gabriel te encuentre así, mojada, tensa, lista. ¿Entiendes?
 
 —Valeria, por favor.
 
@@ -499,7 +499,7 @@ Sacó la mano. La pelvis de Estefanía siguió empujándose contra el aire un pa
 
 Valeria le besó el lóbulo de la oreja — un beso seco, propietario, igual al de la sien del primer día — y le pasó la mano por el pelo de la peluca como si la peinara para dormir.
 
-—Vas a despertar igual de mojada que ahora. Bañate rápido cuando despiertes, ponete el tucking nuevo, el outfit ya está colgado en el closet. A las ocho y media estás vestida. A las nueve y veinte estamos saliendo. A las nueve y media entrás a lo de Gabriel.
+—Vas a despertar igual de mojada que ahora. Báñate rápido cuando despiertes, ponte el tucking nuevo, el outfit ya está colgado en el closet. A las ocho y media estás vestida. A las nueve y veinte estamos saliendo. A las nueve y media entras a lo de Gabriel.
 
 —...
 
