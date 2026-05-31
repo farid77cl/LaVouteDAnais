@@ -19,6 +19,14 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 31/05/2026 (Auditoría GitHub — 264 imágenes huérfanas rescatadas y vinculadas) ✅
+- **Auditoría completa GitHub vs galería:** Cruce de 1,503 PNGs contra ambas galerías (`galeria_outfits.md` + `galeria_outfits_archivo.md`).
+- **ERA APP (≥L291): LIMPIA ✅** — 0 imágenes sin registrar en la era app.
+- **galeria_outfits.md — 10 looks, 14 poses:** L208 · L250 · L252 · L255 · L272-L276 · L278 · L280 · L281. Tablas creadas/actualizadas con vínculos reales.
+- **galeria_outfits_archivo.md — 49 looks, 250 imágenes:** 26 sets 7/7 completos (L172-L199) + 23 sets parciales (L85-L163). Todos con tracker `### 📸 Imágenes` y celdas `[📸 View]` insertadas.
+- **Total rescatado:** 264 imágenes que vivían en GitHub sin rastro — ahora vinculadas.
+- **Pendientes:** materializar L291-L330 vía app · lectura Ama Cap 1 v0.3.
+
 ### Sesión 31/05/2026 (Batch L321-L330 "Las Ejecutivas del Vicio" — 70 prompts + auditoría L291-L320) ✅
 - **Auditoría disco L291-L320:** 166 poses pendientes mapeadas (L298 y L304 = 7/7 ✅). Archivo `prompts_pendientes_L291_L320.md` con 166 prompts organizados para app.
 - **Batch L321-L330 "Las Ejecutivas del Vicio" inyectado:** 10 looks · 70 prompts · Corporate ×4 (Mugler CA1 esmeralda · Versace CA4 blanco chrome · Secretary CB3 oxblood · Severance CB7 terracotta) · Stripper ×2 (Dita SA3 crystal nude · Bad Kitty SB2 UV cyan) · Escort ×2 (Newton EA3 plum · Julia Fox EB2 tangerine) · Nightclub ×1 (Oh Polly oil-slick).

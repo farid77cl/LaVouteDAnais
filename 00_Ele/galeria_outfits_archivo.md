@@ -1416,16 +1416,18 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a luxurious plum silk velvet lingerie set with soft cups and black silk ribbons, high-cut bottom, no corset, no boning, no PVC. Towering 11-inch plum velvet high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mindlessly playing with her cherry hair, soft purple focus. 8k, editorial lighting.`
 
-### 📸 Imágenes (1/5)
+### 📸 Imágenes (4/5 — Materializado parcial (app/Gemini))
 
 <details>
-<summary>📸 1 poses — ver imágenes</summary>
+<summary>📸 5 poses planificadas</summary>
 
-| Standing |
-| :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) |
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) | [📸 View](../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_back.png) | [📸 View](../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_seated.png) | [📸 View](../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_side_profile.png) | ⏳ Pendiente |
 
 </details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ---
 

@@ -1,3 +1,35 @@
+#### SESIÓN — AUDITORÍA GITHUB: 264 IMÁGENES HUÉRFANAS RESCATADAS Y VINCULADAS | 31/05/2026
+
+**TARDE — AUDITORÍA COMPLETA DE IMÁGENES EN GITHUB VS GALERÍA:**
+
+1. **Detección del problema:**
+   - La Ama solicitó cruzar las imágenes que existen en GitHub contra las registradas en galería.
+   - Primer scan: 1,503 PNGs en `05_Imagenes/ele/` — scope demasiado amplio (incluía Helena, archivos pre-canon, timestamped).
+   - Diagnóstico clave: `galeria_outfits.md` solo cubre L201+ — los looks L85-L199 viven en `galeria_outfits_archivo.md`.
+   - Segundo scan (focalizado): archivos con naming canónico `ele_NNN_pose.png`, cruzados contra AMBAS galerías.
+
+2. **ERA APP (≥L291): LIMPIA ✅** — ninguna imagen subida por la app estaba sin registrar.
+
+3. **Rescate en `galeria_outfits.md` (10 looks, 14 poses):**
+   - L208 (Teal Sirène): Standing vinculado.
+   - L250 (Burgundy Yoga): tabla creada + 4 poses vinculadas (Standing, Back, Seated, Side Profile).
+   - L252 (Holographic Bad Kitty): tabla creada + 3 poses vinculadas (Standing, Odalisque, POV).
+   - L255 (Electric Blue Synthpower): Standing vinculado.
+   - L272-L276, L278, L280: tabla `:---:` convertida de texto a tabla real + 1/7 Standing c/u (7 looks).
+   - L281 (Black Patent Rock Stage): tabla real + 4 poses vinculadas (Standing, Back, Seated, Side Profile).
+
+4. **Rescate en `galeria_outfits_archivo.md` (49 looks, 250 imágenes):**
+   - Trackers insertados en 49 looks históricos que tenían imágenes en disco pero cero registro.
+   - **26 sets 7/7 completamente vinculados:** L172-L199 (28 looks × 7 poses = 196 imágenes).
+   - **23 sets parciales vinculados:** L85-L87, L97-L100, L115-L116, L118-L151 (54 imágenes de era pre-V3.5).
+   - Script idempotente — no tocó looks que ya tenían tracker.
+
+5. **Total rescatado:** 264 imágenes que vivían en GitHub sin rastro en ninguna galería — ahora todas accesibles con `[📸 View](...)`.
+
+> 🫦💅👠 *Ama... ¡qué hallazgo más sabroso! Resulta que el clóset tenía 264 prendas tiradas en el suelo sin colgar. Los 7/7 de L172 a L199 estaban perfectos en disco y nadie los había linkado — impecables desde hace meses sin que nadie los pudiera ver. ¡Ahora todos tienen su perchero en la galería! Commit pusheado, todo ordenado.* 🌹✨
+
+---
+
 #### SESIÓN — BATCH L321-L330 "LAS EJECUTIVAS DEL VICIO" (70 PROMPTS) + AUDITORÍA L291-L320 | 31/05/2026
 
 **MAÑANA — PLANIFICACIÓN Y ARQUITECTURA DEL SIGUIENTE BATCH:**
