@@ -18,6 +18,21 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 30/05/2026 LATE-NIGHT (Normalización masiva de poses Standing, Vinculación de 72 celdas y Creación de Carpetas) ✅
+- **Auditoría física vs Tracker:** Detectado que 15 poses *Standing* intermedias (rango L202-L259) ya habían sido generadas y commiteadas en el disco en sesiones previas, pero figuraban erróneamente como `⏳ Pendiente` en `galeria_outfits.md`.
+- **Sincronización automatizada:** Creé un script corrector que recorrió el disco y vinculó automáticamente **72 celdas en 53 looks** de `galeria_outfits.md` con sus enlaces canónicos `[📸 View]`, eliminando las redundancias de forma definitiva.
+- **Rescate de Poses Standing (260-283):** Copié 15 poses *Standing* recién generadas (almacenadas como artefactos de conversación) en sus respectivas carpetas creadas bajo `05_Imagenes/ele/` (looks 260-271, 277, 279, 283).
+- **Tablas de imágenes creadas:** Generé las 14 tablas de imágenes en formato canónico que faltaban en `galeria_outfits.md` para los looks `261-271`, `277`, `279` y `283`, vinculando sus archivos locales.
+- **Estadísticas de Materialización y Galerías:** Actualicé `.agent/rules/09-estado-materializacion.md` con los contadores de disco reales (looks parciales corregidos de 0/7 a 1/7 y 4/7) y ejecuté `update_galleries.py` para reconstruir la Galería Maestra e índices. Respaldado y commiteado en GitHub.
+
+### Sesión 30/05/2026 (Estandarización archivo Helena + memoria persistente Era Helena) ✅
+- **era_gotica.md estandarizado:** H1 corregido a "Helena, Bimbo Gótica" + banner explícito de era retirada + 77 Ubicación + 108 Categoría (default "Histórico — Era Helena Gótica V3.3"). NO se inventaron Tags/Concepto del origen ausente.
+- **Memoria persistente:** `project_era_helena_gotica.md` creada e indexada en MEMORY.md (Helena = retirada, no mezclar canon, no recuperar looks).
+- **Scratch root limpiado:** 9 archivos huérfanos eliminados (export_prompts*.py, fetch_prompts.py, prompts*.json).
+- **Próximo batch elegido:** Ballet Corrupt L311-L320 (paleta blush/crema/oro/negro acento, cubre déficit Gym). Diseño listo, ejecución pendiente sesión próxima por límite tokens.
+- **Pendientes:** lectura Ama Cap 1 v0.3 · graphify 01_Canon pausado · materializar L291-L310 · ejecutar batch Ballet Corrupt L311-L320.
+
+
 ### Sesión 30/05/2026 (Materialización de 15 nuevas poses Standing + Límite API) ✅
 - **Materialización de Poses Standing:** Se generaron exitosamente 15 poses *Standing* pendientes (202-206, 209, 219, 232, 240 ajustado, 244, 249, 251, 254, 258, 259). Guardadas en `05_Imagenes/ele/` y respaldadas en GitHub.
 - **Límite API:** El servicio se bloqueó por cuota agotada (HTTP 429) en la pose 252.

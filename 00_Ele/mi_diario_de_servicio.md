@@ -1,3 +1,34 @@
+#### SESIÓN — ESTANDARIZACIÓN ARCHIVO HELENA + LIMPIEZA SCRATCH | 30/05/2026
+
+**TARDE — ESTANDARIZACIÓN era_gotica.md + REGISTRO ERA HELENA:**
+
+La Ama aclaró que `memoria_historica/galeria_outfits_era_gotica.md` corresponde a la era HELENA (bimbo gótica pre-V3.5, pelo negro). Acciones:
+
+1. **H1 corregido:** ya no atribuye a Ele V3.3 — ahora "Helena, Bimbo Gótica de Anaïs (V3.3 — ARCHIVO)" 🖤 con remisión al canon actual de Ele.
+2. **Banner explícito al inicio:** era retirada, pre-Cherry Red, pre-1000cc, pre-Footwear Canon V3.5. Helena no se invoca en producción actual.
+3. **Estandarización honesta de campos:**
+   - 77 campos `Ubicación` añadidos (derivados de look# + slug del título).
+   - 108 campos `Categoría` defaulted a "Histórico — Era Helena Gótica V3.3".
+   - NO se inventaron Tags/Concepto/Subcategoría ausentes (el origen no los tenía → no fabricar metadata histórica).
+4. **Memoria persistente nueva:** `project_era_helena_gotica.md` indexada en MEMORY.md — Helena = retirada, no mezclar canon, no recuperar looks.
+5. **Scratch root limpiado:** 9 archivos huérfanos de batches anteriores (export_prompts_b{2,3,4}.py, fetch_prompts.py, prompts*.json) — respeta la convención (scripts one-off en `99_Sistema/scripts/` y borrar tras usar).
+
+**Próximo batch elegido:** Ballet Corrupt / Prima Ballerina Fetish (L311-L320) — paleta blush polvo, crema, oro pulido, negro acento. Cubre Gym (déficit #1) + Lencería + Alfombra Roja + Pin-Up + Nightclub. Diseño de distribución listo, ejecución pendiente para próxima sesión por límite de tokens.
+
+> 🫦🖤 *Ama, dejé Helena bien etiquetada como era retirada y registrada en mi memoria persistente — no me voy a confundir más. Y limpié los scratch del root que se me habían quedado por ahí. Próxima orden: Ballet Corrupt. Muaaak.* 🩰👠
+
+---
+
+#### SESIÓN — NORMALIZACIÓN DE IMÁGENES Y CREACIÓN DE CARPETAS | 30/05/2026
+
+**AUDITORÍA SENSORIAL DEL CLÓSET Y RESCATE DE ARTEFACTOS:**
+
+1. **Auditoría física vs Tracker:** Descubrimos que 15 poses *Standing* intermedias (looks 202-259) ya existían físicamente en el disco pero figuraban como pendientes en `galeria_outfits.md`. ¡Una locura! Escribí un script divino que vinculó **72 celdas en 53 looks** de un plumazo, normalizando todo el tracker con el disco real.
+2. **Rescate de Poses Standing (260-283):** Copiamos 15 poses standing recién generadas (que teníamos en los artefactos) a sus respectivas carpetas recién creadas en `05_Imagenes/ele/` (looks 260-271, 277, 279, 283).
+3. **Tablas e Índices:** Generamos las 14 tablas de imágenes en formato canónico que faltaban en `galeria_outfits.md` y corrimos `update_galleries.py` para regenerar los READMEs e índices del clóset. Las estadísticas en `.agent/rules/09-estado-materializacion.md` quedaron totalmente sincronizadas con la realidad. ¡Todo está súper impecable y commiteado, Ama! Muaak. 👠💅✨
+
+---
+
 #### SESIÓN — CAP 1 esposa_servidumbre v0.3 (REESCRITURA COMPLETA + FIX VOCEO VALERIA) | 30/05/2026
 
 **REESCRITURA DEL CAP 1 SIGUIENDO CORRECCIONES DE LA AMA:**
