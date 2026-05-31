@@ -4851,7 +4851,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -4926,7 +4926,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves (refined Met Gala minimalism), pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel.
 - **Ambientación:** Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4994,7 +5005,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Deep sapphire blue matte velvet column gown floor-length with deep V plunge neckline cardado, long fitted sleeves, sleek column silhouette without train, no gloves, diamond solitaire chandelier earrings, no necklace (V neckline carries the look), sapphire satin pointed-toe stiletto pumps with 14cm slim heel, low side chignon with finger waves.
 - **Ambientación:** Dolby Theatre Oscars red carpet with iconic golden statuette backdrop, warm spotlight, refined editorial fashion photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5062,7 +5084,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Crimson red silk satin Halston-style goddess gown floor-length with deep drape across bust forming Grecian pleats, fully open back to waist, fine gold chain straps crossing back, side slit thigh-high, no gloves (Halston minimalist signature), gold metallic clutch, gold drop earrings, crimson satin pointed-toe stiletto pumps with 14cm slim heel, sleek high updo with side-swept fringe.
 - **Ambientación:** Cannes Film Festival Palais des Festivals red carpet with crystal chandeliers, Mediterranean golden sunset light, refined editorial fashion photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5130,7 +5163,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Iridescent white pearl shimmer silk-satin gown with structured corset bodice featuring sweetheart neckline and visible boning, voluminous ball-gown skirt with crinoline underlayers, multichrome pearl shimmer fabric (shifting white-pink-blue-mint), no gloves, minimalist platinum tiara with single pearl center, white orchid bouquet, pearl-drop earrings, white satin pointed-toe stiletto pumps with 14cm slim heel hidden under skirt, hair in classic chignon with pearl pins.
 - **Ambientación:** Editorial bridal photoshoot in marble cathedral interior with stained glass windows casting prismatic light, white peony arrangements, refined editorial fashion photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5198,7 +5242,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Lavender pastel ribbed seamless leggings high-waist with contour seam at hip, matching lavender ribbed crop sports bra with crossback design, no gloves, pearl studs minimal, lavender wet-look platform stiletto heels Pleaser Delight-608 with 6-inch needle heel and 1.5-inch platform, high ponytail with pearl scrunchie, dewy minimal makeup.
 - **Ambientación:** Minimalist white pilates studio with reformer machine, mirror wall, blonde wood floor, bright natural skylight, Alo Yoga aesthetic.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5266,7 +5321,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Cherry dark cropped zip-up hoodie hi-gloss vinyl exterior soft interior with chrome zipper pull, matching black biker shorts mid-thigh high-waist, cherry red sports bra peeking under hoodie, no gloves, gold hoop earrings minimal, black wet-look platform stiletto heels Pleaser Delight-608 with 6-inch needle heel and 1.5-inch platform, high messy ponytail.
 - **Ambientación:** Urban gym street setting outside boutique fitness studio with neon signage visible, golden afternoon street light, refined editorial photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5334,7 +5400,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Coral sunset orange-pink silk lycra triangle bikini top with adjustable strings tied at back of neck and back, matching coral tie-side bottoms low-rise, sheer nude beige sarong wrapped around hips with knot at side hip, no gloves, gold-plated pearl bracelet on right wrist, large straw sun hat XL with wide brim, gold metallic stiletto-heeled sandals with 12cm slim needle heel and slim ankle strap, beachy waves hair.
 - **Ambientación:** St. Tropez private yacht deck at golden hour with teak wood floor, Mediterranean blue water visible, white linen day bed, refined editorial fashion photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5402,7 +5479,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Aqua cyan high-cut Brazilian bikini set with classic triangle top with gold ring center, matching ultra-high-cut bottoms cheeky coverage, white crochet beach cover-up sheer with crocheted floral pattern open at front, no gloves, white plastic cat-eye sunglasses Y2K, gold fine chain belt low at hip, gold ankle bracelet, aqua jelly stiletto sandals 12cm.
 - **Ambientación:** Caribbean five-star resort pool cabana with white linen curtains blowing in tropical breeze, palm trees, turquoise water reflecting sun, refined editorial fashion photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/ele_268_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5470,7 +5558,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Blush pink mulberry silk midi-length sleepwear set: camisole with French Chantilly lace trim at deep V neckline + matching tap shorts with lace trim at hem, both pieces in glossy silk-satin, no gloves, no choker (replaced by single pearl pendant on delicate silver chain), blush pink satin stiletto mule heels with 10cm slim heel, hair loose in natural soft waves, dewy minimal makeup.
 - **Ambientación:** Luxury hotel suite bedroom with white duvet, soft morning light through sheer curtains, antique vanity with mirror visible, refined editorial bedroom photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5538,7 +5637,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Powder dusty blue silk bias-cut slip midi-length 1930s style with cream guipure lace trim at deep V neckline and at midi hem, adjustable thin silk straps, fluid drape silk-satin fabric, no gloves, no choker (replaced by Art Deco pearl-and-sapphire brooch at center bust), cream silk stockings with visible seam clipped to delicate cream garter belt, powder blue satin pointed-toe stiletto pumps with 12cm slim heel, finger waves hair styled 1930s with cream silk headband.
 - **Ambientación:** Old Hollywood boudoir suite with Art Deco geometric mirror, satin chaise longue, crystal decanters, soft tungsten lamp warm light, 1930s film grain editorial aesthetic.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5608,7 +5718,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Crimson red silk satin couture cheongsam floor-length with hand-embroidered gold thread dragon and peony motifs across bodice and skirt, structured mandarin collar with frog button closures, capped cap sleeves with gold embroidery edge, side slit thigh-high, no gloves (oriental couture minimalism), jade pendant earrings, jade and gold hair ornament Chinese imperial-style pinned into low bun, no choker (mandarin collar is the statement), crimson satin pointed-toe stiletto pumps with 14cm slim heel, sleek low bun with gold hairpin.
 - **Ambientación:** Shanghai Bund colonial-era ballroom with red lacquered columns, gold dragon screen backdrop, paper lantern soft amber lighting, Wong Kar-wai cinematic aesthetic.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -6016,7 +6137,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ivory cream silk-satin short kimono-style robe mid-thigh length with hand-embroidered pale pink sakura cherry blossom branches across left shoulder and back, wide kimono sleeves, deep V wrap front secured with delicate nude silk obi belt tied in soft back bow, no gloves (Japanese minimalism), single pearl drop earrings, no choker (replaced by delicate pearl pendant on silk cord), ivory silk-satin stiletto mule heels with 10cm slim heel, hair loose with single sakura kanzashi hairpin, dewy minimal makeup with soft natural lip.
 - **Ambientación:** Traditional Japanese ryokan bedroom with tatami mat floor, shoji paper screen sliding doors, low futon with white linen, ikebana arrangement of cherry blossom branches, soft paper lantern warm lighting, refined editorial wabi-sabi aesthetic.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look277_ivory_pearl_kimono_boudoir_slip/ele_277_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -6152,7 +6284,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Neon hot magenta high-gloss vinyl bodycon mini-dress with structured corseted bodice, sweetheart neckline, asymmetric peplum ruffle layer at hip, ultra-mini length, no gloves (Harajuku Y2K minimalism — bare arms), black ribbon choker with heart pendant Y2K, black platform combat boots Demonia-style with 12cm platform sole, oversized white pearl drop earrings (kawaii dark), twin-tail high pigtails with black ribbons (Harajuku jirai-kei signature), dramatic gyaru eye makeup with white lower lash line, glossy lip.
 - **Ambientación:** Shibuya nightclub interior with neon kanji signage, holographic floor reflections, smoke machine atmosphere, magenta-cyan neon lighting Tokyo nightlife, refined editorial Y2K photography.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -6472,7 +6615,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Red lacquered sole Louboutin-style + chrome heel tap
 - **Ambientación:** Private dungeon penthouse Vitacura con paredes de terciopelo crimson, candelabros vela negra, suelo de mármol negro pulido, fouet de cuero crimson colgado en pared a fondo, vista panorámica nocturna a Santiago.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look283_crimson_leather_rock_domme/ele_283_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
