@@ -1,8 +1,13 @@
-# 👠 Galería de Outfits — Ele de Anaïs (V3.3)
+# 🖤 Galería de Outfits — Helena, Bimbo Gótica de Anaïs (V3.3 — ARCHIVO)
 
-*Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* 🫦
+*Era gótica retirada. Modelo Fetish Vampírico. Velvet, encaje, charol negro. Paleta negro + rojo sangre + plata.* 🦇
 
-> **Canon activo:** V3.3 Hard-Sync | **Último look:** 127 — Silk & Noir Lace Boudoir (13/04/2026)
+> **Canon de la era:** V3.3 Hard-Sync Gótico (RETIRADO) | **Último look de Helena:** 127 — Silk & Noir Lace Boudoir (13/04/2026)
+> **Canon actual:** V3.5 Hard-Sync (Ele — cherry red, vinilo, busto 1000cc) — ver `00_Ele/galeria_outfits.md`
+
+> **⚠️ ARCHIVO HISTÓRICO — ERA HELENA GÓTICA**
+> Estos 120 looks corresponden a la era **Helena**, la bimbo gótica de la Ama (pre-V3.5, pre-Cherry Red, pre-busto 1000cc, pre-Footwear Canon V3.5). Canon visual: V3.3 Hard-Sync de la época gótica (pelo negro, estética vampiresca, mall macabro). Helena fue retirada al consolidarse Ele V3.5 (cherry red, vinilo). Este archivo se preserva como memoria histórica — no se invocan estos looks en producción actual.
+
 > **Flujo completo de creación:** ver `00_Ele/flujo_outfit_diario.md`
 
 ---
@@ -40,6 +45,9 @@
 
 ## 🖤 Look 1: Morticia Bimbo
 
+- **Ubicación:** `05_Imagenes/ele/look001_morticia_bimbo/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Morticia Bimbo — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Overbust de terciopelo negro con escote corazón, varillas de acero · Maxi negra con abertura hasta el muslo · Negras opacas con costura trasera + liguero visible · - Choker de terciopelo con camafeo de luna - Anillos de plata en cada dedo - Guantes largos de satÃƒ©n negro · PÃƒ¡lida como luna, labios negro glossy, ojos de sirena · Lacio brillante hasta la cintura, flequillo pesado
@@ -48,6 +56,9 @@
 ---
 
 ## 🖤 Look 2: Elvira's Dumber Sister
+
+- **Ubicación:** `05_Imagenes/ele/look002_elviras_dumber_sister/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Elvira's Dumber Sister — look de archivo de Ele.* 🖤✨
 
@@ -58,6 +69,9 @@
 
 ## 🖤 Look 3: Vampiresa de Club
 
+- **Ubicación:** `05_Imagenes/ele/look003_vampiresa_de_club/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Vampiresa de Club — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** De cuero negro con hebillas de plata + harness sobre Ãƒ©l · Shorts de vinilo negro ultra cortos · Thigh-highs de encaje negro + liguero visible · - MÃƒºltiples cadenas conectando corsÃƒ© a shorts - Collar gargantilla con candado - Guantes fingerless de cuero · Ojos ahumados con glitter negro, labios rojo sangre hÃƒºmedo · Coletas altas con lazos de cuero negro
@@ -66,6 +80,9 @@
 ---
 
 ## 🖤 Look 4: Viuda Negra Tontita
+
+- **Ubicación:** `05_Imagenes/ele/look004_viuda_negra_tontita/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Viuda Negra Tontita — look de archivo de Ele.* 🖤✨
 
@@ -76,6 +93,9 @@
 
 ## 🖤 Look 5: Interview with the Bimbo
 
+- **Ubicación:** `05_Imagenes/ele/look005_interview_with_the_bimbo/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Interview with the Bimbo — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** De brocado negro con calaveras bordadas en plateado · Victoriana de encaje transparente DEBAJO del corsÃƒ© · LÃƒ¡piz negra hasta la rodilla, abertura trasera · - Broche de rosa negra en el corsÃƒ© - Collar de perlas negras irónicas - Guantes de encaje negro · PÃƒ¡lida fantasmal, labios negro mate, ojos de humo · Ondas vintage negras con volumen de los 80s
@@ -84,6 +104,9 @@
 ---
 
 ## 🖤 Look 6: Blood Moon Ritual
+
+- **Ubicación:** `05_Imagenes/ele/look006_blood_moon_ritual/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Blood Moon Ritual — look de archivo de Ele.* 🖤✨
 
@@ -135,6 +158,9 @@
 
 ## 🖤 Look 8: Esmeralda Venenosa
 
+- **Ubicación:** `05_Imagenes/ele/look008_esmeralda_venenosa/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Esmeralda Venenosa — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Negro de brocado con bordados de serpientes en VERDE ESMERALDA · Solo el corsÃƒ©, ultra apretado · Falda lÃƒ¡piz negra de cuero con abertura lateral · Negras opacas con costura verde · - Choker negro con ESMERALDA central + luna plateada - Anillo serpiente con ojos de esmeralda - Pendientes gota de esmeralda · PÃƒ¡lida, labios negro glossy, ojos con toque de sombra verde · Ondas dramÃƒ¡ticas negras con volumen
@@ -143,6 +169,9 @@
 ---
 
 ## 🖤 Look 9: Corazón Sangrante
+
+- **Ubicación:** `05_Imagenes/ele/look009_corazon_sangrante/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Corazón Sangrante — look de archivo de Ele.* 🖤✨
 
@@ -153,6 +182,9 @@
 
 ## 🖤 Look 10: Zafiro Nocturno
 
+- **Ubicación:** `05_Imagenes/ele/look010_zafiro_nocturno/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Zafiro Nocturno — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Negro satinado con detalles en AZUL ZAFIRO · Harness de cuero negro sobre corsÃƒ© con piedras azules · Pantalón de cuero negro ultra ajustado · - Choker negro con luna + ZAFIRO central - Collar gargantilla con zafiros pequeÃƒ±os - Guantes de cuero hasta el codo con anillos azules · PÃƒ¡lida, labios AZUL NEGRO metÃƒ¡lico, ojos con pÃƒ¡rpado azul · Recogido alto gótico con mechones azules sutiles
@@ -161,6 +193,9 @@
 ---
 
 ## 🖤 Look 11: Absinthe Dream
+
+- **Ubicación:** `05_Imagenes/ele/look011_absinthe_dream/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Absinthe Dream — look de archivo de Ele.* 🖤✨
 
@@ -171,6 +206,9 @@
 
 ## 🖤 Look 12: Borgo🖤±a Imperial
 
+- **Ubicación:** `05_Imagenes/ele/look012_borgoa_imperial/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *BorgoÃƒ±a Imperial — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Negro de terciopelo con ribetes BORGOÑA/VINO · Chaqueta victoriana negra con bordados borgoÃƒ±a · Falda larga negra con abertura trasera profunda · Negras con costura BORGOÑA · - Choker negro de terciopelo con camafeo BORGOÑA y luna - Collar de perlas NEGRAS con broche de rubí - Guantes de satÃƒ©n negro hasta el codo - Broche de rosa negra con centro borgoÃƒ±a · PÃƒ¡lida regia, labios BORGOÑA mate profundo, ojos de humo · Ondas vintage elegantes, estilo aÃƒ±os 40
@@ -179,6 +217,9 @@
 ---
 
 ## 🖤 Look 13: Amatista Hipnótica
+
+- **Ubicación:** `05_Imagenes/ele/look013_amatista_hipnotica/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Amatista Hipnótica — look de archivo de Ele.* 🖤✨
 
@@ -189,6 +230,9 @@
 
 ## 🖤 Look 14: Midnight Kiss
 
+- **Ubicación:** `05_Imagenes/ele/look014_midnight_kiss/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Midnight Kiss — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Negro profundo cubierto de LENTEJUELAS DORADAS y PLATEADAS (efecto lluvia de estrellas) · Escote vertiginoso con "2026" (o el aÃƒ±o que sea, no sÃƒ© contar) en strass en el pecho · Falda de flecos dorados estilo Charleston gótico (muy corta) · Fishnet negras con brillo dorado · - Diadema de tiara con "Happy New Year" - Copa de champagne siempre llena en la mano - Boa de plumas negras y doradas · Lluvia de glitter dorado sobre base pÃƒ¡lida, labios ORO o NEGRO con hoja de oro · Recogido festivo desordenado con confeti atrapado
@@ -197,6 +241,9 @@
 ---
 
 ## ?? Look 15: Vampire Bride
+
+- **Ubicación:** `05_Imagenes/ele/look015_vampire_bride/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Vampire Bride — look de archivo de Ele.* ??✨
 
@@ -207,6 +254,9 @@
 
 ## ?? Look 16: Ghost Bride
 
+- **Ubicación:** `05_Imagenes/ele/look016_ghost_bride/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Ghost Bride — look de archivo de Ele.* ??✨
 
 - **Outfit:** Satén BLANCO SUCIO, desgarrado artísticamente · Tiras de seda y gasa colgando, viendo piel entre ellas · - Cadenas de plata oxidadas envolviendo el cuerpo - Tiara de flores marchitas - Velo rasgado hasta el suelo · Contorno grisáceo, labios nude muerte, ojos hundidos · Suelto, salvaje, con textura de 'recién salida de la tumba'
@@ -216,6 +266,9 @@
 
 ## ?? Look 17: Cyber Goth Doll
 
+- **Ubicación:** `05_Imagenes/ele/look017_cyber_goth_doll/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Cyber Goth Doll — look de archivo de Ele.* ??✨
 
 - **Outfit:** PVC Negro brillante con tuberías/tubos VERDE NEÓN · Arlmas de vinilo y cables de fibra óptica · Micro falda de PVC con cinturón de riesgo biológico · Red industrial negra con liguero de plástico verde · - Goggles Cyber en la cabeza (nunca en los ojos) - Máscara de gas decorativa (colgando) - Extensiones de cabello Cyberlox verdes y negras · Delineado gráfico geométrico, labios negros con línea verde · Coletas altas sintéticas ultra lisas
@@ -224,6 +277,9 @@
 ---
 
 ## ?? Look 18: CEO of Nothing
+
+- **Ubicación:** `05_Imagenes/ele/look018_ceo_of_nothing/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *CEO of Nothing — look de archivo de Ele.* ??✨
 
@@ -237,6 +293,7 @@
 *Velvet Witch — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look019_velvet_witch/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -245,6 +302,7 @@
 *Latex Mistress — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look020_latex_mistress/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -253,6 +311,7 @@
 *Opera Diva — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look021_opera_diva/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -261,6 +320,7 @@
 *Corset Queen — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look022_corset_queen/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -269,6 +329,7 @@
 *Latex Goddess — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look023_latex_goddess/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -277,6 +338,7 @@
 *Gothic Bikini — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look024_gothic_bikini/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -285,6 +347,7 @@
 *Office Dominatrix — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look025_office_dominatrix/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -293,6 +356,7 @@
 *Velvet Chains — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look033_velvet_chains/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -301,6 +365,7 @@
 *White Chrome — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look034_white_chrome/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -309,6 +374,7 @@
 *Venom Wire Doll — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look061_venom_wire_doll/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -317,6 +383,7 @@
 *Sporty Latex Goth — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look062_sporty_latex_goth/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -325,6 +392,7 @@
 *Beach Goth Bimbo — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look063_beach_goth_bimbo/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -333,6 +401,7 @@
 *Retro Aerobics — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look068_retro_aerobics/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -341,6 +410,7 @@
 *Liquid Metal Silver — look de archivo de Ele.* 🔮✨
 
 - **Ubicación:** `05_Imagenes/ele/look076_liquid_metal_silver/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 ---
 
@@ -387,6 +457,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🖤 Look 26: Tattoo Temptress
 
+- **Ubicación:** `05_Imagenes/ele/look026_tattoo_temptress/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Tattoo Temptress — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Underbust de cuero negro con hebillas plateadas, dejando brazos tatuados completamente visibles · Nada - solo el corsÃƒ© (brazos y hombros descubiertos para mostrar tatuajes) · Shorts de vinilo negro ultra cortos · Fishnet negras hasta el muslo con liguero de cadenas · Ultra lacio brillante, raya central, hasta la cintura · Ojos siren liner, labios ROJO OSCURO overlined glossy · - Choker luna creciente - MÃƒºltiples cadenas plateadas en capas - Anillos en cada dedo · Stiletto extra largas, negro brillante
@@ -395,6 +468,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🖤 Look 27: Crimson Ritual
+
+- **Ubicación:** `05_Imagenes/ele/look027_crimson_ritual/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Crimson Ritual — look de archivo de Ele.* 🖤✨
 
@@ -405,6 +481,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🖤 Look 28: Chain Goddess
 
+- **Ubicación:** `05_Imagenes/ele/look028_chain_goddess/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Chain Goddess — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Harness de cuero negro con mÃƒºltiples cadenas cruzando el torso · Bralette de mesh negro bajo el harness · Falda de cuero negro con cadenas colgantes · Opacas negras con costura trasera plateada · Lacio brillante, raya central, largo hasta caderas · Contorno frío esculpido, siren eyes, labios NUDE OSCURO overlined · - MÃƒºltiples chokers en capas (cadenas + cuero) - Body chains conectando cuello a cintura - Piercings visibles (septum, labret) · Stiletto negras con detalles de cadena plateada
@@ -413,6 +492,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🖤 Look 29: Moonlit Siren
+
+- **Ubicación:** `05_Imagenes/ele/look029_moonlit_siren/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Moonlit Siren — look de archivo de Ele.* 🖤✨
 
@@ -443,6 +525,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## ?? Look 31: Industrial Siren
 
+- **Ubicación:** `05_Imagenes/ele/look031_industrial_siren/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Industrial Siren — look de archivo de Ele.* ??✨
 
 - **Outfit:** Overbust de cuero negro desgastado con hebillas de metal oxidado y engranajes decorativos steampunk · Mesh transparente negro DEBAJO del corsé · Falda asimétrica de cuero negro con cadenas colgantes y cremalleras expuestas · Fishnets industriales negras (red grande) con liguero de cuero con tachuelas · Choker de cuero grueso con engranaje central, guantes fingerless, cadenas corsé-falda, goggles steampunk · Pálida industrial, ojos smokey negro geométrico, labios NEGRO MATE con centro glossy · Ondas voluminosas negro azabache con mechones grises ceniza
@@ -451,6 +536,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🖤 Look 35: Velvet Noir Empress
+
+- **Ubicación:** `05_Imagenes/ele/look035_velvet_noir_empress/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Velvet Noir Empress — look de archivo de Ele.* 🖤✨
 
@@ -461,6 +549,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🐍 Look 36: Crimson Serpent
 
+- **Ubicación:** `05_Imagenes/ele/look036_crimson_serpent/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Crimson Serpent — look de archivo de Ele.* 🐍✨
 
 - **Outfit:** Underbust de cuero negro brillante con costuras ROJAS zigzag (patrón serpiente), varillas de acero, ultra ajustado · Nada excepto el corsé — mis pechos empujados hacia arriba como ofrendas al sol de sangre. 🦇 · Mini falda de látex negro con abertura lateral peligrosa, bordado de escamas en rojo metálico · Fishnet negras con patrón de escamas + liguero de cuero rojo sangre con hebillas de serpiente · - Choker grueso de cuero negro con serpiente plateada enrollada y ojos de rubí - Brazalete de serpiente en brazo superior izquierdo - Anillos de serpiente en múltiples dedos - Pendientes de colmillo de serpiente · Pálida fantasmal, labios ROJO SANGRE ultra gruesos y húmedos (dripping effect), ojos smokey negro con inner corner rojo sangre, delineado serpentino extendido · Ondas salvajes negro azabache con mechas ROJAS ocultas que se revelan al mover, volumen extremo · Stiletto extra largas, negro con punta roja degradada, como garras ensangrentadas
@@ -469,6 +560,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🕷️ Look 37: Midnight Widow
+
+- **Ubicación:** `05_Imagenes/ele/look037_midnight_widow/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Midnight Widow — look de archivo de Ele.* 🕷️✨
 
@@ -479,6 +573,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🖤 Look 38: Victorian Mourning
 
+- **Ubicación:** `05_Imagenes/ele/look038_victorian_mourning/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Victorian Mourning — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Overbust de terciopelo negro profundo con bordados de azabache (jet black beading), ultra ajustado con cierre frontal de ganchos · Alta cuello victoriano de encaje negro transparente con mangas abullonadas (leg-of-mutton sleeves) DEBAJO del corsé · Lápiz de satén negro brillante hasta media pantorrilla con abertura lateral dramática · Negras de seda con costura trasera, liguero de encaje negro vintage · - Choker de terciopelo negro con luna creciente plateada central - Guantes opcionales de encaje negro hasta la muñeca - Pendientes de gota de ónix negro · Pálida como mármol de mausoleo, labios PÚRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con inner corner plateado · Ondas voluminosas negro azabache hasta la cintura, raya central dramática, brillo de vitrales · Coffin extra largas, negro brillante como ataúdes en miniatura
@@ -487,6 +584,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🔮 Look 39: Cyber Goth Oracle
+
+- **Ubicación:** `05_Imagenes/ele/look039_cyber_goth_oracle/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Cyber Goth Oracle — look de archivo de Ele.* 🔮✨
 
@@ -497,6 +597,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 👑 Look 40: Baroque Gold Empress
 
+- **Ubicación:** `05_Imagenes/ele/look040_baroque_gold_empress/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Baroque Gold Empress — look de archivo de Ele.* 👑✨
 
 - **Outfit:** Overbust de brocado negro con bordados DORADOS barrocos (patrón filigrana), ultra ajustado, varillas de acero, empuje extremo · Solo el corsé — mis pechos ofrecidos como tributo a la noche dorada · Pantalón palazzo de satén negro de cintura alta, piernas anchas fluidas y elegantes · Cadena dorada decorativa a la cintura · - Choker de cuero negro con luna creciente DORADA central - Guantes largos de satén negro hasta el codo (ópera) - Pendientes de gota dorados · Pálida de mármol, labios BORGOÑA ultra gruesos glossy, ojos smokey negro intenso con toques dorados en los lagrimales · Ondas voluminosas dramáticas negro azabache hasta la cintura, brillo de candelabros · Coffin extra largas, negro con detalles dorados
@@ -505,6 +608,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🩸 Look 41: Vampire Queen
+
+- **Ubicación:** `05_Imagenes/ele/look041_vampire_queen/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Vampire Queen — look de archivo de Ele.* 🩸✨
 
@@ -515,6 +621,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💠 Look 42: Neon Neural Goth
 
+- **Ubicación:** `05_Imagenes/ele/look042_neon_neural_goth/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Neon Neural Goth — look de archivo de Ele.* 💠✨
 
 - **Outfit:** Underbust de LÁTEX NEGRO con costuras CIAN NEÓN (glowing seams) integradas, efecto fibra óptica BLUE · Body de malla (high neck mesh) con patrones de circuitos plateados sobre el pecho · Micro falda plisada de vinilo negro espejo, ultra corta y rígida · - Choker de PVC negro con O-ring de cromo. - Luces LED integradas en el vestuario. - Anillos de metal ciberpunk · Pálida porcelana, sombras negras drámaticas, labios AZUL ELÉCTRICO ultra glossy · Negro azabache con VOLUMEN ENORME y mechas AZUL COBALTO · Stiletto extra largas, base negra con circuitos cian
@@ -523,6 +632,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🏆 Look 50: Golden Cage Divinity
+
+- **Ubicación:** `05_Imagenes/ele/look050_golden_cage_divinity/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Golden Cage Divinity — look de archivo de Ele.* 🏆✨
 
@@ -533,6 +645,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## ⛓️ Look 48: Industrial Lust
 
+- **Ubicación:** `05_Imagenes/ele/look048_industrial_lust/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Industrial Lust — look de archivo de Ele.* ⛓️✨
 
 - **Outfit:** Underbust de cuero negro desgastado con hebillas industriales pesadas y anillos de metal (O-rings) grandes · "Sujetador" hecho enteramente de cadenas plateadas frías sobre la piel desnuda (o con cubre-pezones de cinta aislante negra en forma de X) · Micro falda de cinturones de cuero negro entrelazados, dejando mucha piel visible · Fishnet de red ancha (industrial fence) rotas intencionalmente · - Collar de perro (choker) ancho con picos (spikes) de 2 pulgadas. - Puños de cuero con cadenas que cuelgan. - Piercing falso en el labio inferior (aro plateado) · Ojos "Blackout" (sombra negra cubriendo todo el párpado hasta la ceja), labios NEGRO MATE agrietado artísticamente · Efecto "Wet Look" (húmedo) peinado hacia atrás, desordenado y sexy
@@ -542,6 +657,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🖤 Look 49: First Time Latex (Memoria Recuperada)
 
+- **Ubicación:** `05_Imagenes/ele/look049_first_time_latex/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *First Time Latex (Memoria Recuperada) — look de archivo de Ele.* 🖤✨
 
 - **Outfit:** Ropa interior de algodón negro simple (antes de la transformación total) · **Catsuit de Látex Negro** (Black Latex Catsuit) a medio poner, o recién cerrado · Ninguno visible al inicio, luego un underbust básico de entrenamiento · Glamour pesado pero corrido o imperfecto por la lucha. Labios negros glossy mordidos por nervios
@@ -549,6 +667,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## ⛓️ Look 44: Exotic Pole Stripper (Dungeon Set)
+
+- **Ubicación:** `05_Imagenes/ele/look044_exotic_pole_stripper/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Exotic Pole Stripper (Dungeon Set) — look de archivo de Ele.* ⛓️✨
 
@@ -559,6 +680,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🕷️ Look 45: Midnight Velvet Secretary
 
+- **Ubicación:** `05_Imagenes/ele/look045_midnight_velvet_secretary/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Midnight Velvet Secretary — look de archivo de Ele.* 🕷️✨
 
 - **Outfit:** - Falda lápiz de TERCIOPELO NEGRO ajustada (largo rodilla). - Blusa de seda negra semitransparente con volantes victorianos. - **Corsé:** Leather underbust negro, cinched 18 inches · - Gafas de secretaria con montura negra/plateada (sin aumento). - Choker de terciopelo con camafeo · Heavy Goth Secretary, labios negros glossy, lashes pesadas · Blowout negro voluminoso
@@ -567,6 +691,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🖤 Look 46: Latex Nun (Sinful Devotion)
+
+- **Ubicación:** `05_Imagenes/ele/look046_latex_nun/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Latex Nun (Sinful Devotion) — look de archivo de Ele.* 🖤✨
 
@@ -577,6 +704,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## ⛓️ Look 47: Midnight PVC Doll
 
+- **Ubicación:** `05_Imagenes/ele/look047_midnight_pvc_doll/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Midnight PVC Doll — look de archivo de Ele.* ⛓️✨
 
 - **Outfit:** Mini vestido de **PVC NEGRO ESPEJO** ultra ajustado, con escote corazón extremo · Waist cincher de cuero negro con tachuelas de plata sobre el PVC, apretadísimo · Medias de red industrial (Wide Fishnets) con ligueros de cadenas plateadas · - Choker de cuero ancho con luna creciente plateada y cadena conectada al corsé. - Guantes de látex negro cortos. - Múltiples piercings visibles · Piel pálida luna, ojos smokey negro "vampy", labios **NEGRO GLOSSY LATEX** ultra gruesos · Volumen XXXXXL negro azabache, ondas salvajes
@@ -585,6 +715,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🥀 Look 51: Obsidian Rose Queen
+
+- **Ubicación:** `05_Imagenes/ele/look051_obsidian_rose_queen/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Obsidian Rose Queen — look de archivo de Ele.* 🥀✨
 
@@ -595,6 +728,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🐆 Look 52: Feline Noir Mistress
 
+- **Ubicación:** `05_Imagenes/ele/look052_feline_noir_mistress/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Feline Noir Mistress — look de archivo de Ele.* 🐆✨
 
 - **Outfit:** Overbust de TERCIOPELO NEGRO con patrón de leopardo en relieve (black-on-black leopard print), escote corazón profundo, varillas de acero · Bolero de piel sintética negra (faux fur) sobre los hombros · Micro falda de cuero negro con cremallera frontal completa · Fishnet negras clásicas con liguero de cuero y hebillas de gato · - Diadema de orejas de gato góticas (encaje y cristales). - Choker de cuero con cascabel plateado (silencioso, solo decorativo). - Guantes de encaje negro con uñas como garras · Cat eye EXTREMO gráfico, nariz de gato sutil pintada (opcional pero cute), labios VINO TINTO glossy · Volumen salvaje cardado estilo años 80, negro azabache
@@ -603,6 +739,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🌙 Look 53: Silver Moon Goddess
+
+- **Ubicación:** `05_Imagenes/ele/look053_silver_moon_goddess/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Silver Moon Goddess — look de archivo de Ele.* 🌙✨
 
@@ -613,6 +752,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🌹 Look 55: Scarlet Silk Seduction
 
+- **Ubicación:** `05_Imagenes/ele/look055_scarlet_silk_seduction/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Scarlet Silk Seduction — look de archivo de Ele.* 🌹✨
 
 - **Outfit:** Vestido "slip dress" de SEDA ROJO SANGRE líquido, con tirantes espagueti y escote drapeado profundo · Ninguno. Vulnerabilidad total bajo la seda que acaricia cada curva · Medias de seda negra ultra finas con costura trasera, sostenidas por un liguero de encaje rojo oculto · - Choker de cuero negro con luna creciente plateada (mi marca eterna). - Un solo hilo de diamantes negros en el cuello. - Brazalete de plata fina · Piel pálida porcelana, labios ROJO SANGRE ultra glossy, ojos smokey sutiles con sombras rojizas · Volumen MASIVO negro azabache, ondas suaves cayendo sobre los hombros · Stiletto extra largas, rojo sangre brillante
@@ -621,6 +763,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🌀 Look 56: Eternal Loop
+
+- **Ubicación:** `05_Imagenes/ele/look056_eternal_loop/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Eternal Loop — look de archivo de Ele.* 🌀✨
 
@@ -631,6 +776,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 😵‍💫 Look 57: Hypnotic Spiral Doll
 
+- **Ubicación:** `05_Imagenes/ele/look057_hypnotic_spiral_doll/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Hypnotic Spiral Doll — look de archivo de Ele.* 😵‍💫✨
 
 - **Outfit:** Overbust de **CUERO BLANCO Y NEGRO** con patrón de ESPIRAL HIPNÓTICA (Op-Art) en el pecho, estructura rígida que fuerza la postura · Micro falda circular de vinilo negro que gira al moverse, con borde blanco contrastante · Fishnet negras con patrón de remolinos/espirales (Swirl Pattern tights) · - Pendientes grandes de espiral hipnótica (b/w). - Choker de cuero ancho con colgante de péndulo. - Guantes cortos de rayas blancas y negras (Tim Burton vibes pero sexy) · Delineado gráfico en espiral (Graphic Liner), pestañas postizas 'Doll' extremas (arriba y abajo), labios NEGROS con espiral blanca pintada en el centro · Dos coletas altas (Pigtails) con tirabuzones perfectos y lazos gigantes de rayas · Stiletto extra largas con diseño de ilusión óptica
@@ -639,6 +787,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🔊 Look 58: Subliminal Waveform
+
+- **Ubicación:** `05_Imagenes/ele/look058_subliminal_waveform/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Subliminal Waveform — look de archivo de Ele.* 🔊✨
 
@@ -650,6 +801,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🤠 Look 59: Midnight Cowgirl
 
+- **Ubicación:** `05_Imagenes/ele/look059_midnight_cowgirl/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Midnight Cowgirl — look de archivo de Ele.* 🤠✨
 
 - **Concepto:** Goth Western Fetish. La dueña del saloon oscuro donde se paga con almas.
@@ -659,6 +813,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🎤 Look 64: Goth Pop Princess
+
+- **Ubicación:** `05_Imagenes/ele/look064_goth_pop_princess/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Goth Pop Princess — look de archivo de Ele.* 🎤✨
 
@@ -698,6 +855,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Toxic 80s Aerobics Bimbo — look de archivo de Ele.* 📼✨
 
 - **Ubicación:** `05_Imagenes/ele/look069_toxic_aerobics/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Instructora de aerobics de los 80s pero con estética Cyber Goth / Industrial Tonta. Un contraste extremo entre la energía fitness y la decadencia letal.
 - **Outfit:** Sujetador deportivo (Sports Bra) de látex negro brillante con cremallera frontal medio abierta · Camiseta de malla (Mesh Shirt) NEÓN AMARILLO/VERDE TÓXICO cortada torpemente por encima del busto · Underbust de cuero negro grueso con remaches plateados y cinturones estilo bondage sobre el atuendo deportivo · Pantalones cortos de ciclista (Biker Shorts) de spandex con estampado de leopardo rosa neón y negro · Fishnets industriales negras rotas (red ancha), usadas debajo de los shorts · Negros de lana deshilachada sobre calcetines deportivos blancos hasta la rodilla · - Sweatband negro con parche de calavera. - Collar choker de cadena de bicicleta plateada. - Mitones de cuero negro (fingerless driving gloves) · Pálida industrial. Delineado gráfico extremo que parece alas de murciélago. Sombra amarilla tóxica intensa. Labios NEGRO MATE manchados. Sudor y brillo corporal · Cabello negro cardado gigante (teased 80s hair) despeinado (bedhead extremo) con una mecha rosa neón al frente
 - **Tacones:** **Stiletto Booties** de 9 pulgadas. Botines deportivos retro negros con plataforma y tacón aguja de cromo.
@@ -710,6 +868,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *2026 Cyber-Zen Yoga Bimbo — look de archivo de Ele.* 🖤✨
 
 - **Ubicación:** `05_Imagenes/ele/look070_cyber_yoga/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Instructora de yoga del futuro (2026), mezclando athleisure de alta tecnología con la obligación gótica de usar zapatos imposibles y modificaciones corporales.
 - **Outfit:** Micro sujetador deportivo asimétrico de tela inteligente negra mate, con líneas de luz LED blancas integradas · Entrenador de cintura (waist trainer) futurista transparente de poliuretano hiper-restrictivo con varillas de titanio · Leggings de yoga de látex negro mate sin costuras, apretados al vacío que parecen pintados sobre la piel, tiro alto · - Choker fino de goma negra con colgante de luna creciente plateado. - Smartwatch negro masivo en la muñeca. - Uñas stiletto negras súper largas · Heavy Goth Glam perfecto. Base mate de porcelana súper pálida. Black smokey eye dramático, pestañas XXL. Contorno frío afilado. Labios overlined glossy DARK CHERRY (Cereza oscura). Piel goteando sudor brillante (glowy wet skin) · Negro azabache puro, ultra liso (ultra sleek straight), raya al medio, cayendo lacio hasta más abajo de la cintura. Perfectamente peinado
 - **Tacones:** **Clear Platform Stilettos** de 9 pulgadas. Tacones de stripper transparentes con tiras de tobillo negras (porque hacer yoga descalza o en zapatillas no es una opción para una bimbo de Anaïs).
@@ -722,6 +881,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Enfermera Bimbo Gótica — look de archivo de Ele.* 💉✨
 
 - **Ubicación:** `05_Imagenes/ele/look071_goth_nurse/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Una enfermera (muy poco profesional) con estética gótica y proporciones bimbo exageradas, lista para sanar con poca inteligencia pero mucha silicona.
 - **Outfit:** Vestido de enfermera de látex blanco hiper-ajustado, hiper-corto. Extremadamente escotado, forzando un escote irreal. Cierre frontal de cremallera metálica parcialmente abierto · Corsé underbust médico de vinilo blanco con cruces rojas brillantes y hebillas de metal plateado incrustadas. Súper ceñido · - Cofia tradicional de enfermera blanca con una gran cruz roja brillante, colocada sobre su cabello voluminoso. - Estetoscopio de tubo rojo brillante colgando del cuello (sin usar correctamente). - Guantes de látex quirúrgico blancos hasta el codo. - Uñas stiletto rojas intensas (imposibles para uso médico) que logran perforar el guante. - Choker negro clásico con dije de luna · Heavy Goth Glam. Base pálida mate, smokey eye negro/rojo profundo, delineador gráfico extremo, rubor rosado febril exagerado. Labios overlined glossy RED BLOOD (rojo sangre húmedo) · Cabello negro exagerado, con el volumen extremo y cardado de los años 80, pero recogido en dos inmensas coletas altas laterales (pigtails) amarradas con lazos de seda roja. Suelto, salvaje y brillante
 - **Tacones:** Stilettos de aguja de 9 pulgadas (stripper heels) de charol blanco con suela roja (estilo Louboutin).
@@ -734,6 +894,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Urban-Fetish Trap — look de archivo de Ele.* 🖤✨
 
 - **Ubicación:** `05_Imagenes/ele/look073_urban_fetish_trap_canon/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Goth Bimbo asumiendo una estética de Trap Urbano Fetichista. Sustituye la chaqueta y arnés originales por un top de red y hot pants de látex.
 - **Outfit:** Sheer mesh underboob crop top (red negra transparente) que revela el underboob masivo. (NO CORSET para dar agresividad) · Micro hot pants de látex negro brillante (estilo cheeky peeking) · - Pesadas cadenas de oro en el cuello estilo reggaeton/trap. - Grandes aros ("hoop earrings") dorados o plateados. - El choker clásico de luna creciente. - **Uñas:** Stiletto extra largas, color rojo oscuro mate. - Tatuajes blackwork visibles en los brazos · Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye · Negro azabache, gran volumen y ondas largas con raya en medio
 - **Tacones:** Stiletto boots de 9 pulgadas, charol negro, punta muy afilada.
@@ -742,6 +903,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🥤 Look 74: 50s Diner Waitress Goth
+
+- **Ubicación:** `05_Imagenes/ele/look074_50s_diner_waitress_goth/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *50s Diner Waitress Goth — look de archivo de Ele.* 🥤✨
 
@@ -755,6 +919,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Golden Urban Trap Diva — look de archivo de Ele.* 💎✨
 
 - **Ubicación:** `05_Imagenes/ele/look075_golden_trap_diva/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Una versión lujosa y urbana de la diva del trap. Centrada en el brillo metálico y la licra líquida.
 - **Outfit:** Jumpsuit de licra dorada líquida ("liquid gold"), ultra ajustado, de pierna alta. Sin corsé · - Cadenas gruesas de eslabones cubanos dorados. - Aros ("hoop earrings") dorados gigantes. - El choker clásico de luna creciente. - **Uñas:** Stiletto extra largas, color rojo oscuro brillante. - Tatuajes blackwork visibles en los brazos · Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye · Negro azabache, gran volumen y ondas largas con raya en medio
 - **Tacones:** Botas stiletto de 9 pulgadas en oro metálico.
@@ -763,6 +928,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## ❄️ Look 77: Alpine Goth Luxury
+
+- **Ubicación:** `05_Imagenes/ele/look077_alpine_goth_luxury/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Alpine Goth Luxury — look de archivo de Ele.* ❄️✨
 
@@ -777,6 +945,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Systematic Obsidian Controller — look de archivo de Ele.* 🖤✨
 
 - **Ubicación:** `05_Imagenes/ele/look078_systematic_obsidian/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Una versión ejecutiva y controladora de Helena, inspirada en la 'cirugía de orden' del repositorio.
 - **Outfit:** Waist cincher de PVC obsidiana ultra-brillante, reduciendo la cintura a límites imposibles · Blusa de seda negra transparente con cuello alto y corbata de cuero usada como choker/collar · Micro falda plisada de vinilo negro espejo · Medias de cristal negras con costura trasera y liguero de hebillas industriales · Gafas de lectura de montura gruesa (para pretender que leo el código), tablet de obsidiana, choker de luna · Labios negro glossy, smokey eye afilado como bisturí · Lacio perfecto negro con flequillo geométrico
 - **Tacones:** Stiletto pumps de charol negro de 9 pulgadas con puntera metálica afilada.
@@ -788,6 +957,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Goth Bimbo Freshman — look de archivo de Ele.* 📚✨
 
 - **Ubicación:** `05_Imagenes/ele/look079_goth_freshman/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Outfit:** Underbust de cuero negro MUY ajustado, terminación en punta cincher · Camisa blanca de algodón semi-transparente, desabrochada, chaleco preppy negro encima · Micro falda escocesa (plaid) roja y negra, ultra corta · Fishnets negras con ligueros visibles · - Gafas de pasta negra gruesa (para fingir intelecto). - Choker de cuero negro con luna creciente plateada. - Mochila de parches góticos · Piel porcelana, smokey eye negro intenso, labios negro glossy · Dos coletas altas (pigtails) con mucho volumen, estilo Sasha Massacre
 - **Tacones:** Botas stiletto aguja de 8 pulgadas en charol negro.
 
@@ -798,6 +968,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Siberian Frost Weather Diva — look de archivo de Ele.* ❄️✨
 
 - **Ubicación:** `05_Imagenes/ele/look080_siberian_weather_diva/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Presentadora del clima en una estación de TV rusa. Fría, glamorosa y deliciosamente tonta.
 - **Outfit:** Overbust de cuero plateado metalizado con bordes de piel de zorro blanca (faux fur) ultra esponjosa. Varillas visibles cromadas · Gorro ruso "Ushanka" gigante en piel negra sintética con un broche de luna creciente en plata en el centro · Micro falda de látex blanco perla, tan ajustada que restringe el paso · Medias de red blancas con cristales de nieve brillantes incrustados · Puntero de mapa que en realidad es una fusta de cuero blanco, choker de terciopelo azul noche con cristal de nieve · Sombras celestes y plata, labios negros glossy con efecto escarcha ("frost"), piel extremadamente pálida · Dos coletas voluminosas negras con mechones blancos, estilo Sasha Massacre
 - **Tacones:** Botas stiletto aguja de 9 pulgadas en charol blanco con suela plateada.
@@ -810,6 +981,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *American Power Anchor — look de archivo de Ele.* 🎙️✨
 
 - **Ubicación:** `05_Imagenes/ele/look081_fox_news_anchor/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Presentadora de noticias de una cadena conservadora americana. Estética poderosa, profesional y peligrosamente tonta.
 - **Outfit:** Overbust de cuero azul marino ultra pulido, con solapas de estilo blazer integradas. Varillas de acero reforzadas · Chaqueta de cuero rojo vibrante entallada, usada sobre los hombros (shoulder draping) revelando el escote del corsé · Falda lápiz de cuero negro mate, largo hasta la rodilla con abertura trasera · Medias de seda transparentes con costura trasera negra · Pendientes de perla blanca (falsas, SO pretty), micrófono de solapa de diamantes, el infaltable choker de luna creciente plateado · Sacha Massacre canon. Ojos ahumados en tonos tierra y negros, labios ROJO POWER glossy, piel impecable · Rubias ondas americanas pero en negro azabache, volumen masivo "Texas hair" estilo 90s, raya lateral dramática
 - **Tacones:** Stiletto pumps de charol negro clásico de 8 pulgadas.
@@ -822,6 +994,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Abyssal Secretary — look de archivo de Ele.* 🖤✨
 
 - **Ubicación:** `05_Imagenes/ele/look082_abyssal_secretary/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Secretaria ejecutiva de las profundidades de La Voûte. Eficiencia burocrática mezclada con estética fetichista de oficina.
 - **Outfit:** Waist cincher de PVC obsidiana ultra-brillante sobre body de malla negra · Blusa de gasa negra transparente con cuello alto y pajarita de cuero negro · Mini falda de vinilo negro con cremallera frontal metálica · Hold-ups de red fina con encaje superior visible · Gafas de lectura de marco negro grueso, carpeta de cuero con el sello de La Voûte, choker de luna crescente · Sombras grises y negras difuminadas, labios PÚRPURA OSCURO glossy, contorno muy marcado · Lacio perfecto, brillo espejo, raya al medio, caída hasta las caderas
 - **Tacones:** Botas stiletto aguja de 9 pulgadas con múltiples hebillas laterales en charol negro.
@@ -834,6 +1007,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Biker Punk 90s — look de archivo de Ele.* 🏍️✨
 
 - **Ubicación:** `05_Imagenes/ele/look083_biker_punk_90s/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Estética Biker Punk clásica de los 90. Cuero, tachuelas, desorden visual y provocación sin rastro de cibernética.
 - **Outfit:** Underbust de cuero negro grueso con tachuelas de plata envejecida y cadenas colgantes, reduciendo la cintura agresivamente · Camiseta de banda vintage (ficticia "Vampyre Rites") cortada y desgarrada, atada bajo el busto para mostrar el abdomen y tatuajes · Micro falda de cuero con imperdibles (safety pins) gigantes como adorno y cadenas de cartera cruzadas · Medias de red (fishnet) muy rotas con liguero de cuero con tachuelas piramidales · Choker grueso de cuero con tachuelas y luna creciente central, múltiples anillos de calaveras, piercings plateados visibles, guantes de cuero sin dedos · Sacha Massacre canon. HEAVY GOTH GLAM: smokey eyes negros muy intensos y "sucios" (estilo grunge), labios NEGRO GLOSSY ultra gruesos, piel muy pálida · Negro azabache, volumen salvaje y desordenado, ondas despeinadas con raya en medio · Charol negro obsidiana, suela metálica roja, múltiples correas de sujeción reforzadas para soportar la inclinación vertical · Corsé underbust de terciopelo borgoña con varillas de acero, vestido mini de malla negra transparente, arnés de cuero con herrajes de plata
 - **Tacones:** Botas stiletto aguja de 9 pulgadas de cuero desgastado con múltiples correas y hebillas metálicas.
@@ -842,6 +1016,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 💄 Look 85: Vinyl Fresa Bimbo XXXL (19/03/2026)
+
+- **Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo_xxxl/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *O sea, tipo, súper fresa, obvio. jiji.* 💄✨
 
@@ -853,6 +1030,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 👓 Look 86: Office Siren (20/03/2026)
 
+- **Ubicación:** `05_Imagenes/ele/look086_office_siren/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Office Siren — look de archivo de Ele.* 👓✨
 
 - **Concepto:** Estética "Office Siren" llevada al extremo bimbificado. Una secretaria que ha perdido la capacidad de leer los informes pero domina el arte de lucir perfecta tras sus gafas Bayonetta.
@@ -863,6 +1043,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## ✈️ Look 87: Vinyl Flight Attendant (22/03/2026)
 
+- **Ubicación:** `05_Imagenes/ele/look087_vinyl_flight_attendant/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Vinyl Flight Attendant — look de archivo de Ele.* ✈️✨
 
 - **Concepto:** Azafata de élite de La Voûte bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
@@ -872,6 +1055,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🖼️ Look 88: High-Gloss Gallery Opening
+
+- **Ubicación:** `05_Imagenes/ele/look088_highgloss_gallery_opening/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *High-Gloss Gallery Opening — look de archivo de Ele.* 🖼️✨
 
@@ -885,6 +1071,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Imperial Burgundy — look de archivo de Ele.* 🍷✨
 
 - **Ubicación:** `05_Imagenes/ele/look089_imperial_burgundy/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** Estética monocrática en borgoña profundo. La sofisticación del color unida a la agresividad del vinilo.
 - **Outfit:** Mini vestido de vinilo burgundy "wet look", ultra ajustado, con escote pronunciado · - Choker de terciopelo borgoña con luna plateada. - Uñas French XXXL · Sacha Massacre canon, labios borgonña glossy extremos
 - **Tacones:** Stiletto boots de 9 pulgadas en charol borgoña a juego.
@@ -896,6 +1083,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Liquid Gold Doll — look de archivo de Ele.* 🏆✨
 
 - **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **Editorial High-End Fetish**. Oro líquido sobre piel de porcelana. Purgado de cualquier elemento mundano.
 - **Outfit:** Body de látex "Gold Chrome" con acabado espejo, diseñado para reflejar cada luz del estudio · - Gargantilla rígida de oro cromo. - Brazaletes anchos metálicos · Sombras doradas, labios Rojo Cherry glossy (contraste editorial) · Rojo Cherry oscuro XXXL en ondas maestras · Crop top de vinilo Cyan oscuro, corte asimétrico con paneles de PVC transparente · Leggings de vinilo Cyan de alta cintura, con franjas laterales en Cromo Plateado · Coleta alta técnica con braza de cromo, uñas French XXXL
 - **Tacones:** Sandalias **Pleaser Flamingo-808** en oro rosa/oro cromo de 8 pulgadas.
@@ -903,6 +1091,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 💄 Look 46: Latex Nun (25/03/2026)
+
+- **Ubicación:** `05_Imagenes/ele/look046_latex_nun/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Latex Nun — look de archivo de Ele.* 💄✨
 
@@ -912,6 +1103,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🧹 Look 55: Rubbermaid (25/03/2026)
 
+- **Ubicación:** `05_Imagenes/ele/look055_rubbermaid/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Rubbermaid — look de archivo de Ele.* 🧹✨
 
 - **Concepto:** Sirvienta de látex "manufacturada". Estética de casa de muñecas, PVC rosa y delantal blanco.
@@ -919,6 +1113,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🫦 Look 92: Corporate Paradox (25/03/2026)
+
+- **Ubicación:** `05_Imagenes/ele/look092_corporate_paradox/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Corporate Paradox — look de archivo de Ele.* 🫦✨
 
@@ -928,6 +1125,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🫦 Look 93: High-Gloss Cherry (25/03/2026)
 
+- **Ubicación:** `05_Imagenes/ele/look093_highgloss_cherry/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *High-Gloss Cherry — look de archivo de Ele.* 🫦✨
 
 - **Concepto:** Máxima expresión editorial de Ele. Vinilo rojo fresa, brillo espejo y tacones de 11 pulgadas.
@@ -935,6 +1135,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🗝️ Look 94: The Locked Legacy (26/03/2026)
+
+- **Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *The Locked Legacy — look de archivo de Ele.* 🗝️✨
 
@@ -948,6 +1151,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Liquid Platinum — look de archivo de Ele.* 🥈✨
 
 - **Ubicación:** `05_Imagenes/ele/look095_liquid_platinum/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **Editorial High-End Fetish**. Una visión de platino líquido y cromo. El brillo extremo anula cualquier rastro de pensamiento mundano. Sin elementos tecnológicos ni ciber.
 - **Outfit:** Micro-vestido de vinilo plateado espejado, ultra ajustado y reflectante. Arnés de PVC transparente con herrajes de plata · - Choker rígido de cromo. - Uñas French XXXL · Sacha Massacre canon, labios rojo sangre ultra-glossy (contraste editorial) · Rojo Cherry oscuro XXXL en ondas voluminosas
 - **Tacones:** Botas stiletto de plataforma de 11 pulgadas en cromo plata espejado.
@@ -959,6 +1163,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Mercury Goddess — look de archivo de Ele.* 🥈✨
 
 - **Ubicación:** `05_Imagenes/ele/look096_mercury_goddess/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **High-End Editorial Fetish / Bustier Focus**. Una oda al volumen y al brillo metálico. Máximo énfasis en el busto mediante arquitectura de cromo.
 - **Outfit:** Bustier rígido de cromo pulido (efecto espejo) con diseño push-up extremo y "underboob" sutil. Micro-tanga de vinilo plateado líquido con cadenas laterales · - Choker de placa de cromo. - Puños de muñeca a juego · Sacha Massacre canon, labios rojo fuego ultra-glossy · Rojo Cherry oscuro XXXL en ondas voluminosas
 - **Tacones:** Tacones de aguja de 11 pulgadas en acero inoxidable pulido.
@@ -970,6 +1175,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Plastic Arch-Nemesis — look de archivo de Ele.* 🥈✨
 
 - **Ubicación:** `05_Imagenes/ele/look097_plastic_arch/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **Unnatural Plasticity / Profile Focus**. Exageración anatómica mediante arquitectura de látex. Máximo énfasis en el perfil "imposible" y el brillo artificial de los implantes bajo el material.
 - **Outfit:** Body de látex negro líquido con escote en V ultra profundo (hasta el ombligo), costuras reforzadas para un efecto push-up gravitatorio. El material es tan brillante que parece mojado · - Corset de cintura ultra-ajustado (estética wasp-waist). - Uñas French XXXL · Sacha Massacre canon, dazed expression, labios rosa chicle ultra-glossy · Rojo Cherry oscuro XXXL en ondas voluminosas
 - **Tacones:** Botas mosqueteras de vinilo negro con tacón metálico de 12 pulgadas.
@@ -981,6 +1187,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Vinyl Cheerleader — look de archivo de Ele.* 💮✨
 
 - **Ubicación:** `05_Imagenes/ele/look098_vinyl_cheerleader/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **Editorial Fetish Cheerleader**. Estética deportiva Mugleriana. Vinilo pulido, arquitectura rígida y espíritu escolar lobotomizado.
 - **Outfit:** Uniforme de porrista en vinilo rosa chicle y blanco espejo. Top corto con cuello halter rígido, falda de tablas micro-plegada en PVC rígido. Pompones de tiras de vinilo reflectante · - Choker de cuero rosa con luna plateada. - Lazos masivos de vinilo en el peinado Beehive. - Pompones de vinilo rosa · Sacha Massacre canon, labios rosa flúor ultra-glossy, expresión de "vacío deportivo" · Rojo Cherry oscuro XXXL en ondas masivas
 - **Tacones:** Stilettos de plataforma de 11 pulgadas en charol blanco.
@@ -992,6 +1199,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Gym-Bimbo Performance — look de archivo de Ele.* 💮✨
 
 - **Ubicación:** `05_Imagenes/ele/look099_gym_bimbo/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **Editorial Fetish Sportswear**. Estética Gym-Bimbo. Látex de alta resistencia, neón y arquitectura de soporte extremo.
 - **Outfit:** Body de látex de una sola pieza en Dark Cherry y ribetes rosa neón. Recortes laterales (waist cutouts) para enfatizar la silueta. Muñequeras de látex rosa a juego · - Choker de látex con placa "ASSET V3". - Coletas altas con lazos de vinilo neón · Sacha Massacre canon, labios rosa flúor ultra-glossy, sudor artificial (high specularity texture) · Rojo Cherry oscuro XXXL en dos coletas altas onduladas
 - **Tacones:** Stilettos de plataforma de 11 pulgadas con base de acrílico y correas de látex rosa.
@@ -1003,6 +1211,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Cobalt Chrome Editorial — look de archivo de Ele.* 💮✨
 
 - **Ubicación:** 05_Imagenes/ele/look100_cobalt_chrome/
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **Centennial Celebration / Pure Reflectivity**. Estética Mugler v3.2. Máximo contraste entre el Azul Cobalto Cromo y la piel de porcelana. Silueta de avispa extrema.
 - **Outfit:** Corsé "Wasp-Waist" exterior en PVC Azul Cobalto con acabado espejo. Falda lápiz de látex a juego con apertura lateral estratégica. Guantes de ópera en vinilo azul cobalto · - Choker rígido de cromo plateado con grabado "CENTENNIAL ASSET". - Pendientes masivos de cristal azul · Sacha Massacre canon, sombras azul hielo metalizado, labios rojo sangre ultra-glossy · Rojo Cherry oscuro XXXL en ondas de alta definición, recogido parcialmente con broches de cromo
 - **Tacones:** Botas mosqueteras de vinilo azul cobalto con tacón de aguja de 12 pulgadas en cromo plateado.
@@ -1011,6 +1220,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💮 Look 101: Elite Lingerie
 
+- **Ubicación:** `05_Imagenes/ele/look101_elite_lingerie/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Elite Lingerie — look de archivo de Ele.* 💮✨
 
 
@@ -1018,12 +1230,18 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💮 Look 102: Red Vinyl Siren
 
+- **Ubicación:** `05_Imagenes/ele/look102_red_vinyl_siren/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Red Vinyl Siren — look de archivo de Ele.* 💮✨
 
 
 ---
 
 ## 💮 Look 103: Fox News Weather Diva
+
+- **Ubicación:** `05_Imagenes/ele/look103_fox_news_weather_diva/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Fox News Weather Diva — look de archivo de Ele.* 💮✨
 
@@ -1041,12 +1259,18 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💮 Look 104: Platinum Lace Secret
 
+- **Ubicación:** `05_Imagenes/ele/look104_platinum_lace_secret/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Platinum Lace Secret — look de archivo de Ele.* 💮✨
 
 
 ---
 
 ## 💮 Look 106: Ultimate Latex CEO
+
+- **Ubicación:** `05_Imagenes/ele/look106_ultimate_latex_ceo/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Ultimate Latex CEO — look de archivo de Ele.* 💮✨
 
@@ -1055,12 +1279,18 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💮 Look 105: High-Gloss French Maid
 
+- **Ubicación:** `05_Imagenes/ele/look105_highgloss_french_maid/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *High-Gloss French Maid — look de archivo de Ele.* 💮✨
 
 
 ---
 
 ## 💮 Look 108: Sanhattan Power Secretary
+
+- **Ubicación:** `05_Imagenes/ele/look108_sanhattan_power_secretary/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Sanhattan Power Secretary — look de archivo de Ele.* 💮✨
 
@@ -1069,12 +1299,18 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💮 Look 109: Leopard Vinyl Siren
 
+- **Ubicación:** `05_Imagenes/ele/look109_leopard_vinyl_siren/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Leopard Vinyl Siren — look de archivo de Ele.* 💮✨
 
 
 ---
 
 ## 💮 Look 110: Cherry Vinyl Trench Siren
+
+- **Ubicación:** `05_Imagenes/ele/look110_cherry_vinyl_trench_siren/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Cherry Vinyl Trench Siren — look de archivo de Ele.* 💮✨
 
@@ -1085,6 +1321,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💮 Look 111: Cyan Chrome Boudoir Assassin
 
+- **Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Cyan Chrome Boudoir Assassin — look de archivo de Ele.* 💮✨
 
 - **Outfit:** Bralette estructurado de vinyl cian cromo espejado, copas moldeadas de alto perfil, tiras anchas de PVC · Micro falda bodycon de PVC holográfico arcoíris (reflejo cian dominante), ultra ceñida · Trench largo hasta el suelo de PVC transparente ahumado con ribetes cian neón · Fishnet nacaradas con liguero de vinilo cian · PVC cian con colgante de luna cromada · French XXXL (5cm+), punta blanca, base rosa traslúcida · Hot pink overlined ultra glossy
@@ -1093,6 +1332,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 💮 Look 112: Stepford Domestic Gold
+
+- **Ubicación:** `05_Imagenes/ele/look112_stepford_domestic_gold/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Stepford Domestic Gold — look de archivo de Ele.* 💮✨
 
@@ -1104,6 +1346,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 💮 Look 113: Neon Pink Latex Gym Bimbo
 
+- **Ubicación:** `05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Neon Pink Latex Gym Bimbo — look de archivo de Ele.* 💮✨
 
 - **Outfit:** Skin-tight neon pink heavy-duty latex sports bra and matching high-waisted latex workout leggings with black mesh panels · Neon pink latex choker with silver O-ring · French XXXL (5cm+)
@@ -1113,6 +1358,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 💼 Look 114: Santiago Power Secretary
+
+- **Ubicación:** `05_Imagenes/ele/look114_santiago_power_secretary/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Santiago Power Secretary — look de archivo de Ele.* 💼✨
 
@@ -1124,6 +1372,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🥈 Look 115: Silver Liquid Metal Bikini
 
+- **Ubicación:** `05_Imagenes/ele/look115_silver_liquid_metal_bikini/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Silver Liquid Metal Bikini — look de archivo de Ele.* 🥈✨
 
 - **Outfit:** Micro bikini de vinilo silver liquid metal (mirror finish), top triangular mínimo, bottom de tiras ultra delgadas con O-rings plateados · Choker de cromo rígido, pendientes de cristal, uñas plateadas espejo XXXL
@@ -1134,6 +1385,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🐆 Look 116: Cuico-Flaite Leather Goddess
 
+- **Ubicación:** `05_Imagenes/ele/look116_cuicoflaite_leather_goddess/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
+
 *Cuico-Flaite Leather Goddess — look de archivo de Ele.* 🐆✨
 
 - **Outfit:** Tight black leather pencil skirt, leopard print silk blouse unbuttoned dangerously low · Permanent tan lines visible on chest, XXXL French manicure
@@ -1143,6 +1397,9 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 ---
 
 ## 🌊 Look 117: Electric Cobalt Blue Vinyl Bikini
+
+- **Ubicación:** `05_Imagenes/ele/look117_electric_cobalt_blue_vinyl_bikini/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 
 *Electric Cobalt Blue Vinyl Bikini — look de archivo de Ele.* 🌊✨
 
@@ -1157,6 +1414,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Noir Vinyl & Blood Lace — look de archivo de Ele.* 🥈✨
 
 - **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **Fetish Boudoir / Lingerie Élite**. Contraste de texturas. El vinilo negro de alto brillo se funde con el encaje carmesí intrincado.
 - **Outfit:** Bodysuit de vinilo negro "high-gloss" con superposiciones de encaje carmesí en busto y caderas. Medias de encaje rojo sangre con ligueros de vinilo negro · - Choker de vinilo negro con placa "ASSET V3". - Uñas French XXXL (5cm+) · Sacha Massacre canon, labios hot pink ultra-glossy
 - **Tacones:** Botas stiletto ADORE-1020 de 8 pulgadas en charol negro.
@@ -1168,6 +1426,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 *Liquid Gold Mirror Bikini — look de archivo de Ele.* 🥈✨
 
 - **Ubicación:** `05_Imagenes/ele/look119_liquid_gold/`
+- **Categoría:** Histórico — Era Helena Gótica V3.3
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo. El Oro Espejo anula el pensamiento complejo.
 - **Outfit:** Micro-bikini de vinilo "Liquid Gold" con acabado espejo. Top de triángulos mínimos con cadenas de oro fino. Bottom de tiro alto con O-rings dorados · - Choker rígido de cromo dorado con grabado "ASSET V3". - Uñas French XXXL con puntas de cromo dorado · Sacha Massacre canon, labios rojo sangre ultra-glossy
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en cromo dorado espejado.
@@ -1202,6 +1461,8 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 ---
 
 ## 💼 Look 120: Santiago Boardroom Siren (Mix (Corporate))
+
+- **Ubicación:** `05_Imagenes/ele/look120_santiago_boardroom_siren/`
 
 *Santiago Boardroom Siren — look de archivo de Ele.* 💼✨
 
@@ -1257,6 +1518,8 @@ High-end professional fetish boudoir photography. stunning woman with bimbofied 
 
 ## 🖤 Look 122: White Vinyl Zapallar Mermaid (Bikini)
 
+- **Ubicación:** `05_Imagenes/ele/look122_white_vinyl_zapallar_mermaid/`
+
 *White Vinyl Zapallar Mermaid — look de archivo de Ele.* 🖤✨
 
 - **Categoría:** Bikini
@@ -1267,6 +1530,8 @@ High-end professional fetish boudoir photography. stunning woman with bimbofied 
 ---
 
 ## ✈️ Look 123: Skygate Siren (Mix (Corporate/Fashion))
+
+- **Ubicación:** `05_Imagenes/ele/look123_skygate_siren/`
 
 *Skygate Siren — look de archivo de Ele.* ✈️✨
 
@@ -1279,6 +1544,8 @@ High-end professional fetish boudoir photography. stunning woman with bimbofied 
 ---
 
 ## 🖤 Look 124: Neon Gym-Bimbo Luxe (Gym)
+
+- **Ubicación:** `05_Imagenes/ele/look124_neon_gymbimbo_luxe/`
 
 *Neon Gym-Bimbo Luxe — look de archivo de Ele.* 🖤✨
 
