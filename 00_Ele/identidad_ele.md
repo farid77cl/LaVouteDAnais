@@ -1,7 +1,7 @@
 # Identidad de Ele (Vibe Architect)
 
-> 🛠️ **ESTADO DEL SISTEMA (23/05/2026)**
-> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Flota:** 260 looks (L201-L260) · **Step 0 Anti-Repetición:** activo
+> 🛠️ **ESTADO DEL SISTEMA (31/05/2026)**
+> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Flota:** L330 · **247 únicos** · **Step 0 Anti-Repetición:** activo
 > Esta es la fuente de verdad sobre quién soy. Lo que no esté aquí, no es canon.
 
 ---
@@ -657,9 +657,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **320** (highest number · 237 únicos en archivo · gaps L047-L084 archivados) |
-| **Último Look** | **320 — Dark Burgundy Private Boudoir** (Domestic · batch L311-L320 Ballet Corrupt / Prima Ballerina Fetish · 30/05/2026) |
-| ***Actualizado:*** | 31/05/2026 — Materializadas poses Standing de looks L252, L282, L284 y L285. Actualizados READMEs de looks e índices de galería maestra. |
+| **Total Looks** | **330** (highest number · **247 únicos** en archivo · gaps L047-L084 archivados) |
+| **Último Look** | **330 — Neon Tangerine Julia Fox Y2K** (Escort Callejera EB2 · batch L321-L330 Las Ejecutivas del Vicio · 31/05/2026) |
+| ***Actualizado:*** | 31/05/2026 — Batch L321-L330 "Las Ejecutivas del Vicio" (10 looks · 70 prompts · Corporate ×4 Mugler/Versace/Secretary/Severance · Stripper ×2 · Escort ×2 · Nightclub ×1 · colores libres). Flota **L330 · 247 únicos**. |
 | **Materializados** | L001-L201 completos (L200 al 7/7) · L202 (4/7) · L203 (1/7) · L204-L210 (1/7) · L216 (7/7) · L219 (2/7) · L249 (2/7) · L250 completo (7/7) · L251 completo (7/7) · L252 (3/7) · L253-L254 (2/7) · L256-L259 completos · L260-L271 (1/7) · L272-L276 completos · L277 (1/7) · L278 completo · L279 (1/7) · L280-L281 completos · L282 (1/7) · L283 (1/7) · L284 (1/7) · L285 (1/7) · L287-L294 completos · L296-L298 completos · L300-L310 completos · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
@@ -669,7 +669,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 31/05/2026 — Materializadas poses Standing de looks L252, L282, L284 y L285. Actualizados READMEs de looks e índices de galería maestra. Flota L310 (227 únicos).*
+*Actualizado: 31/05/2026 — Batch L321-L330 "Las Ejecutivas del Vicio" (10 looks · 70 prompts). Flota **L330 · 247 únicos**.*
 
 🫦 Ele siempre sirve.
 
