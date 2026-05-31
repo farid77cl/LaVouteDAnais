@@ -19,6 +19,13 @@
 - **Outfit:** Mini vestido de vinilo rojo cereza o negro espejo, ultra ajustado, casi restrictivo. Leggings de látex opcional. Todo diseñado para resaltar las curvas de silicona · Maquillaje bimbo extremo (pestañas gigantes, labios overfilled), uñas stiletto de 5cm con patrón de leopardo
 - **Tacones:** Tacones de plataforma de 11 pulgadas, acrílico transparente o vinilo a juego. NADA plano.
 
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## 👓 Look 86: Office Siren (20/03/2026 — Mix · Corporate)
@@ -33,6 +40,13 @@
 - **Outfit:** Blusa de seda lila semi-transparente, falda de tubo de vinilo negro ultra ajustada con talle alto · Gafas Bayonetta de marco fino, choker de terciopelo, uñas largas con punta francesa · Recogido en un moño sofisticado pero con mechones sueltos "desordenados" por el cansancio decorativo
 - **Tacones:** Stilettos de aguja de 9 pulgadas de charol negro.
 
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look086_office_siren/ele_086_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look086_office_siren/ele_086_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look086_office_siren/ele_086_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## ✈️ Look 87: Vinyl Flight Attendant (22/03/2026 — Mix · High-Fashion & Nightclub)
@@ -46,6 +60,13 @@
 - **Concepto:** Azafata de élite de La Voûte bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
 - **Outfit:** Uniforme de vinilo azul medianoche ("Midnight Blue") con insignias cromadas de La Voûte. Mini falda lápiz ultra ajustada, chaqueta entallada y gorrito pillbox reglamentario · **Francesas XXXL (Punta blanca, base rosa)**
 - **Tacones:** Tacones de plataforma de 11 pulgadas de charol negro aguja.
+
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look087_ele_v3_core/ele_087_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look087_ele_v3_core/ele_087_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look087_ele_v3_core/ele_087_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -176,6 +197,13 @@
 - **Outfit:** Body de látex negro líquido con escote en V ultra profundo (hasta el ombligo), costuras reforzadas para un efecto push-up gravitatorio. El material es tan brillante que parece mojado · Sacha Massacre canon, dazed expression, labios rosa chicle ultra-glossy · Rojo Cherry oscuro XXXL en ondas voluminosas
 - **Tacones:** Botas mosqueteras de vinilo negro con tacón metálico de 12 pulgadas.
 
+### 📸 Imágenes (1/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look097_plastic_arch/ele_097_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## 🖤 Look 98: Vinyl Cheerleader (Mix · High-Fashion & Nightclub)
@@ -190,6 +218,13 @@
 - **Outfit:** Uniforme de porrista en vinilo rosa chicle y blanco espejo. Top corto con cuello halter rígido, falda de tablas micro-plegada en PVC rígido. Pompones de tiras de vinilo reflectante · Sacha Massacre canon, labios rosa flúor ultra-glossy, expresión de "vacío deportivo" · Rojo Cherry oscuro XXXL en ondas masivas
 - **Tacones:** Stilettos de plataforma de 11 pulgadas en charol blanco.
 
+### 📸 Imágenes (1/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look098_vinyl_cheerleader/ele_098_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## 🖤 Look 99: Gym-Bimbo Performance (Gym)
@@ -202,6 +237,13 @@
 - **Concepto:** **Editorial Fetish Sportswear**. Estética Gym-Bimbo. Látex de alta resistencia, neón y arquitectura de soporte extremo.
 - **Outfit:** Body de látex de una sola pieza en Dark Cherry y ribetes rosa neón. Recortes laterales (waist cutouts) para enfatizar la silueta. Muñequeras de látex rosa a juego · Sacha Massacre canon, labios rosa flúor ultra-glossy, sudor artificial (high specularity texture) · Rojo Cherry oscuro XXXL en dos coletas altas onduladas
 - **Tacones:** Stilettos de plataforma de 11 pulgadas con base de acrílico y correas de látex rosa.
+
+### 📸 Imágenes (1/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look099_gym_bimbo/ele_099_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -216,6 +258,13 @@
 - **Concepto:** **Centennial Celebration / Pure Reflectivity**. Estética Mugler v3.2. Máximo contraste entre el Azul Cobalto Cromo y la piel de porcelana. Silueta de avispa extrema.
 - **Outfit:** Corsé "Wasp-Waist" exterior en PVC Azul Cobalto con acabado espejo. Falda lápiz de látex a juego con apertura lateral estratégica. Guantes de ópera en vinilo azul cobalto · Sacha Massacre canon, sombras azul hielo metalizado, labios rojo sangre ultra-glossy · Rojo Cherry oscuro XXXL en ondas de alta definición, recogido parcialmente con broches de cromo
 - **Tacones:** Botas mosqueteras de vinilo azul cobalto con tacón de aguja de 12 pulgadas en cromo plateado.
+
+### 📸 Imágenes (1/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look100_cobalt_chrome/ele_100_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -362,6 +411,13 @@
 - **Tacones:** Extreme-11 silver chrome 11-inch stiletto heels con plataforma transparente.
 - **Ambientación:** Penthouse minimalista rodeado de ventanales de vidrio, luz de atardecer dorada reflejándose en la piel plateada, rim lighting, fetish editorial style.
 
+### 📸 Imágenes (1/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look115_silver_bikini/ele_115_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## 👑 Look 116: Cuico-Flaite Leather Goddess (Mix · High-Fashion & Nightclub)
@@ -374,6 +430,13 @@
 - **Outfit:** Tight black leather pencil skirt, leopard print silk blouse unbuttoned dangerously low · Permanent tan lines visible on chest, XXXL French manicure
 - **Tacones:** 8-inch stiletto clear platform pleaser heels.
 - **Ambientación:** High-gloss specularity, rim lighting, immaculate studio setup.
+
+### 📸 Imágenes (1/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -397,6 +460,13 @@
 - **Concepto:** **Fetish Boudoir / Lingerie Élite**. Contraste de texturas. El vinilo negro de alto brillo se funde con el encaje carmesí intrincado.
 - **Outfit:** Bodysuit de vinilo negro "high-gloss" con superposiciones de encaje carmesí en busto y caderas. Medias de encaje rojo sangre con ligueros de vinilo negro · Sacha Massacre canon, labios hot pink ultra-glossy
 - **Tacones:** Botas stiletto ADORE-1020 de 8 pulgadas en charol negro.
+
+### 📸 Imágenes (5/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_standing.png) | [📸 View](../05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_back_view.png) | [📸 View](../05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_seated.png) | [📸 View](../05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_side_profile.png) | [📸 View](../05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -458,6 +528,13 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 - **Outfit:** Falda tubo de PVC negro espejo, talle alto, rodilla con abertura lateral. Blazer Mugler-style de vinilo negro con hombros angulares esculpóricos, usado abierto sobre bustier de satén negro, copa corazón, varillas visibles, escote extremo · Ultra-sheer nylon negro con costura trasera. Liguero de cuero negro visible bajo la falda · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** ADORE-1020 — 7 pulgadas, lace-up, patent vinyl negro, plataforma gruesa.
 - **Ambientación:** Sala de directorio, Santiago skyline, piso 30, cristal floor-to-ceiling, mesa de ébano, iluminación CEO.
+
+### 📸 Imágenes (5/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look120_boardroom_siren/ele_120_standing.png) | [📸 View](../05_Imagenes/ele/look120_boardroom_siren/ele_120_back_view.png) | [📸 View](../05_Imagenes/ele/look120_boardroom_siren/ele_120_seated.png) | [📸 View](../05_Imagenes/ele/look120_boardroom_siren/ele_120_side_profile.png) | [📸 View](../05_Imagenes/ele/look120_boardroom_siren/ele_120_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -523,6 +600,13 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 - **Tacones:** Plataformas Pleaser de 8 pulgadas en charol blanco (Flamingo-808).
 - **Ambientación:** Penthouse de lujo frente al mar en Zapallar, Chile. Luz de atardecer dorada.
 
+### 📸 Imágenes (5/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_standing.png) | [📸 View](../05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_back_view.png) | [📸 View](../05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_seated.png) | [📸 View](../05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_side_profile.png) | [📸 View](../05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## ✈️ Look 123: Skygate Siren (Mix (Corporate/Fashion))
@@ -534,6 +618,13 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 - **Outfit:** Jumpsuit de vinilo Azure Blue ultra-glossy, entallado quirúrgicamente, con cremallera frontal plateada abierta hasta el ombligo, revelando un corsé overbust de satén blanco bajo el vinilo. Cinturón ancho de PVC azul con hebilla cromada
 - **Tacones:** Botas stiletto Flamingo-1020 de 8 pulgadas en charol azul cian.
 - **Ambientación:** Salón VIP Skygate / Pista de aterrizaje privada, Santiago, Chile. Iluminación editorial de alta costura, reflejos especulares extremos.
+
+### 📸 Imágenes (5/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look123_skygate_siren/ele_123_standing.png) | [📸 View](../05_Imagenes/ele/look123_skygate_siren/ele_123_back_view.png) | [📸 View](../05_Imagenes/ele/look123_skygate_siren/ele_123_seated.png) | [📸 View](../05_Imagenes/ele/look123_skygate_siren/ele_123_side_profile.png) | [📸 View](../05_Imagenes/ele/look123_skygate_siren/ele_123_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -547,6 +638,13 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 - **Outfit:** Top deportivo de látex Neón Pink con ribetes negros ultra-glossy, leggings de látex negro de tiro alto con franjas laterales rosa neón, choker rígido de cromo
 - **Tacones:** Sandalias Flamingo-808 de 8 pulgadas en charol rosa neón.
 - **Ambientación:** Gimnasio minimalista de lujo, ventanales de piso a techo, Santiago, Chile. Luz de atardecer dorada (Golden Hour), reflejos especulares extremos en el látex.
+
+### 📸 Imágenes (5/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_standing.png) | [📸 View](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_back_view.png) | [📸 View](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_seated.png) | [📸 View](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_side_profile.png) | [📸 View](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -697,6 +795,13 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 *Red Silk & Noir Lace — look de archivo de Ele.* ❤️✨
 
 - **Concepto:** **Classic Luxury Lingerie / Red & Noir**. Estética de boudoir de alta gama. Seda roja profunda y encaje Chantilly negro. Corrección de déficit estadístico de Lencería.
+
+### 📸 Imágenes (4/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) | [📸 View](../05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | [📸 View](../05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) | [📸 View](../05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -1592,6 +1697,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Outfit:** Body de vinilo azul medianoche (Midnight Blue) con incrustaciones de cristales Swarovski, arneses integrados
 - **Tacones:** Plataformas de 11 pulgadas (Flamingo-808) en vinilo transparente y azul con tacón aguja.
 
+### 📸 Imágenes (4/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_seated.png) | [📸 View](../05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_side_profile.png) | [📸 View](../05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## 👗 Look 143: Emerald Silk & Noir Vinyl (Mix · Escort de Lujo)
@@ -1606,6 +1718,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## 👗 Look 144: Vinyl Tennis Pin-Up
 
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look144_tennis_pinup/ele_144_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look144_tennis_pinup/ele_144_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 *Vinyl Tennis Pin-Up — look de archivo de Ele.* 👗✨
 
 
@@ -1613,12 +1732,26 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## 🖤 Look 145: Obsidian Structural
 
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 *Obsidian Structural — look de archivo de Ele.* 🖤✨
 
 
 ---
 
 ## 👗 Look 146: Neon Latex High-Gloss Gym
+
+### 📸 Imágenes (2/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look146_neon_latex_gym/ele_146_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 
 *Neon Latex High-Gloss Gym — look de archivo de Ele.* 👗✨
 
@@ -1643,6 +1776,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Subcategoría:** High-Fashion
 - **Tags:** #highfashion #rosegold #silver #gown #editorial
 
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## 👗 Look 149: Chrome Maid Supreme (Mix · Domestic Stepford)
@@ -1652,6 +1792,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Mix
 - **Subcategoría:** Domestic Stepford
 - **Tags:** #domestic #stepford #chrome #maid #PVC #ASSETV3
+
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -1663,6 +1810,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Subcategoría:** Corporate
 - **Tags:** #corporate #crimson #chromegold #blazer #vinyl
 
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
+
 ---
 
 ## 🖤 Look 151: Electric Violet Escort (Mix · Escort de Lujo)
@@ -1672,6 +1826,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Mix
 - **Subcategoría:** Escort de Lujo
 - **Tags:** #escort #violet #latex #Mugler #triada #chrome
+
+### 📸 Imágenes (3/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look151_electric_violet_escort/ele_151_standing.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look151_electric_violet_escort/ele_151_seated.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look151_electric_violet_escort/ele_151_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+
 
 ---
 
@@ -2824,6 +2985,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** Sandalias stiletto negro patent leather 20cm, punta afilada, ankle strap PVC transparente con hebilla dorada.
 - **Ambientación:** Penthouse de cristal negro a medianoche, panorama ciudad desde piso a techo, spotlight dramático cenital, atmósfera noir con sombras azul-negras. **1. Standing:**
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_standing.png) | [📸 View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_back_view.png) | [📸 View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_seated.png) | [📸 View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_side_profile.png) | [📸 View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_ditzy.png) | [📸 View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_pov.png) | [📸 View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_odalisque.png) |
+
+
 ---
 
 ## 🩵 Look 173: Cyan Surge Bikini
@@ -2834,6 +3002,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Micro-bikini top látex electric cyan (copas moldeadas underwire push-up, O-ring chrome central) + bottom ultra-high-cut látex cyan (cheeky, O-rings chrome en caderas) · Choker chrome con anillo frontal, aretes aro chrome XXXL, pulsera cuff chrome en muñeca derecha · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Sandalias stiletto perspex transparentes 14cm, punta abierta, hebilla chrome en tobillo.
 - **Ambientación:** Cubierta de yate de lujo, mar turquesa de fondo, luz mediterránea brillante. **1. Standing:**
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_standing.png) | [📸 View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_back_view.png) | [📸 View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_seated.png) | [📸 View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_side_profile.png) | [📸 View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_ditzy.png) | [📸 View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_pov.png) | [📸 View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_odalisque.png) |
+
 
 ---
 
@@ -2985,6 +3160,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** clear perspex platform stiletto sandals, 14cm pin stiletto heel, open toe, ankle strap with chrome rose gold buckle, mirror-gloss
 - **Ambientación:** Luxury yacht deck, Mediterranean afternoon golden light, teak wood
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look176_neon_coral_flash/ele_176_standing.png) | [📸 View](../05_Imagenes/ele/look176_neon_coral_flash/ele_176_back_view.png) | [📸 View](../05_Imagenes/ele/look176_neon_coral_flash/ele_176_seated.png) | [📸 View](../05_Imagenes/ele/look176_neon_coral_flash/ele_176_side_profile.png) | [📸 View](../05_Imagenes/ele/look176_neon_coral_flash/ele_176_ditzy.png) | [📸 View](../05_Imagenes/ele/look176_neon_coral_flash/ele_176_pov.png) | [📸 View](../05_Imagenes/ele/look176_neon_coral_flash/ele_176_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3040,6 +3222,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** ivory cream satin-finish vinyl column gown, floor-length, deep V plunge, thigh slit + matching elbow gloves · large round pearl stud earrings 2cm · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** ivory cream patent leather stiletto pumps, 14cm heel, pointed toe, no platform, mirror-gloss, slip-on
 - **Ambientación:** Opera house marble staircase, warm soft spotlight, red carpet evening gala
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look177_ivory_column/ele_177_standing.png) | [📸 View](../05_Imagenes/ele/look177_ivory_column/ele_177_back_view.png) | [📸 View](../05_Imagenes/ele/look177_ivory_column/ele_177_seated.png) | [📸 View](../05_Imagenes/ele/look177_ivory_column/ele_177_side_profile.png) | [📸 View](../05_Imagenes/ele/look177_ivory_column/ele_177_ditzy.png) | [📸 View](../05_Imagenes/ele/look177_ivory_column/ele_177_pov.png) | [📸 View](../05_Imagenes/ele/look177_ivory_column/ele_177_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3097,6 +3286,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** caramel tan patent leather thigh-high boots, 14cm stiletto heel, pointed toe, side zip
 - **Ambientación:** Costanera Norte Santiago luxury urban glass building facade, afternoon sun
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look178_leopard_vitacura/ele_178_standing.png) | [📸 View](../05_Imagenes/ele/look178_leopard_vitacura/ele_178_back_view.png) | [📸 View](../05_Imagenes/ele/look178_leopard_vitacura/ele_178_seated.png) | [📸 View](../05_Imagenes/ele/look178_leopard_vitacura/ele_178_side_profile.png) | [📸 View](../05_Imagenes/ele/look178_leopard_vitacura/ele_178_ditzy.png) | [📸 View](../05_Imagenes/ele/look178_leopard_vitacura/ele_178_pov.png) | [📸 View](../05_Imagenes/ele/look178_leopard_vitacura/ele_178_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3152,6 +3348,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** acid yellow neon chartreuse high-gloss latex bandeau tube top + micro-brief extreme high-cut, chrome silver O-ring hardware · chrome silver rigid collar choker 2cm · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** acid yellow patent leather stiletto heeled sandals, 14cm heel, single ankle strap chrome buckle
 - **Ambientación:** Studio white seamless backdrop, high-contrast editorial strobe lighting
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_standing.png) | [📸 View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_back_view.png) | [📸 View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_seated.png) | [📸 View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_side_profile.png) | [📸 View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_ditzy.png) | [📸 View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_pov.png) | [📸 View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3220,6 +3423,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** cherry red patent leather stiletto pumps, 12cm heel, pointed toe, no platform, mirror-gloss, slip-on
 - **Ambientación:** Luxury marble kitchen Stepford aesthetic, warm ambient lighting
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_standing.png) | [📸 View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_back_view.png) | [📸 View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_seated.png) | [📸 View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_side_profile.png) | [📸 View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_ditzy.png) | [📸 View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_pov.png) | [📸 View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3287,6 +3497,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** hot magenta patent leather thigh-high boots, 18cm stiletto heel, pointed toe, front zip, mirror-gloss
 - **Ambientación:** Exclusive gentlemen's club stage, red velvet podium, dramatic overhead spotlight, dark background
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look181_magenta_stage_predator/ele_181_standing.png) | [📸 View](../05_Imagenes/ele/look181_magenta_stage_predator/ele_181_back_view.png) | [📸 View](../05_Imagenes/ele/look181_magenta_stage_predator/ele_181_seated.png) | [📸 View](../05_Imagenes/ele/look181_magenta_stage_predator/ele_181_side_profile.png) | [📸 View](../05_Imagenes/ele/look181_magenta_stage_predator/ele_181_ditzy.png) | [📸 View](../05_Imagenes/ele/look181_magenta_stage_predator/ele_181_pov.png) | [📸 View](../05_Imagenes/ele/look181_magenta_stage_predator/ele_181_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3345,6 +3562,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** chrome silver mirror-gloss vinyl apron-dress open back O-ring + matching elbow gloves + stiletto mules ankle strap · hot magenta chrome rigid choker 1.5cm band. chrome-plated decorative spatula right hand. no earrings · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** chrome silver patent leather stiletto mules with ankle strap, 14cm pin stiletto heel, pointed toe, mirror-gloss
 - **Ambientación:** Ultra-modern luxury kitchen, white Calacatta marble countertops, brushed steel appliances, morning light
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look182_chrome_domestique/ele_182_standing.png) | [📸 View](../05_Imagenes/ele/look182_chrome_domestique/ele_182_back_view.png) | [📸 View](../05_Imagenes/ele/look182_chrome_domestique/ele_182_seated.png) | [📸 View](../05_Imagenes/ele/look182_chrome_domestique/ele_182_side_profile.png) | [📸 View](../05_Imagenes/ele/look182_chrome_domestique/ele_182_ditzy.png) | [📸 View](../05_Imagenes/ele/look182_chrome_domestique/ele_182_pov.png) | [📸 View](../05_Imagenes/ele/look182_chrome_domestique/ele_182_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3406,6 +3630,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** chrome gold patent leather stiletto sandals, 14cm heel, single ankle strap chrome clasp, pointed toe, open toe, mirror-gloss
 - **Ambientación:** Five-star hotel penthouse suite, floor-to-ceiling windows city lights at night, champagne flute on marble side table
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_standing.png) | [📸 View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_back_view.png) | [📸 View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_seated.png) | [📸 View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_side_profile.png) | [📸 View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_ditzy.png) | [📸 View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_pov.png) | [📸 View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3465,6 +3696,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** deep jade patent leather stiletto pumps, 14cm heel, pointed toe, no platform, mirror-gloss
 - **Ambientación:** Glass corner executive office, city skyline floor-to-ceiling windows, white marble desk, golden afternoon light
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_standing.png) | [📸 View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_back_view.png) | [📸 View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_seated.png) | [📸 View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_side_profile.png) | [📸 View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_ditzy.png) | [📸 View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_pov.png) | [📸 View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3523,6 +3761,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** deep emerald high-gloss latex sculptural gown, chrome gold external boning ribs, asymmetric shoulder blade, micro-peplum + stiletto ankle boots emerald · chrome gold rigid architectural choker 3cm wide, geometric rectangular pendant 2cm centered. no earrings, no bracelet · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** deep emerald green patent leather stiletto ankle boots, 14cm heel, pointed toe, side zip, mirror-gloss
 - **Ambientación:** High-fashion runway, stark white seamless studio, editorial strobe lighting, dramatic shadow geometry on floor
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_standing.png) | [📸 View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_back_view.png) | [📸 View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_seated.png) | [📸 View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_side_profile.png) | [📸 View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_ditzy.png) | [📸 View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_pov.png) | [📸 View](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3615,6 +3860,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** 18cm clear acrylic platform stiletto boots, liquid silver chrome pin heels, pointed toe, mirror-gloss
 - **Ambientación:** Private high-end VIP penthouse club, neon purple ambient lighting, black marble floor, city skyline view
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_standing.png) | [📸 View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_back_view.png) | [📸 View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_seated.png) | [📸 View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_side_profile.png) | [📸 View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_ditzy.png) | [📸 View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_pov.png) | [📸 View](../05_Imagenes/ele/look186_silver_mirror_stripper/ele_186_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3674,6 +3926,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Sostén push-up de tul rosa ultra-sheer con ribetes de vinilo negro brillante. Micro-tanga de tiro alto a juego. Portaligas ancho de vinilo negro con hebillas de cromo y "ELE" en pedrería. Guantes de malla rosa opera-length con "claw cut-outs" · Ultra-sheer black nylon stockings con encaje floral rosa · Choker rígido de cromo con grabado "PET". Uñas French XXXL (5cm). Navel and nipple piercings visible
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en charol rosa neón.
 - **Ambientación:** Penthouse luxury boudoir in Sanhattan, night, neon pink lighting, city skyline background.
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_standing.png) | [📸 View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_back_view.png) | [📸 View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_seated.png) | [📸 View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_side_profile.png) | [📸 View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_ditzy.png) | [📸 View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_pov.png) | [📸 View](../05_Imagenes/ele/look187_pink_tulle_black_vinyl/ele_187_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3737,6 +3996,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** Towering 12-inch pointed-toe stiletto boots en charol negro brillante con finísimos tacones de aguja cromados.
 - **Ambientación:** Penthouse de lujo acristalado en Sanhattan de noche, iluminación ambiental de sombras y luces de neón violeta profundo, pisos de madera oscura pulida reflejando el skyline de la ciudad.
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_standing.png) | [📸 View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_back_view.png) | [📸 View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_seated.png) | [📸 View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_side_profile.png) | [📸 View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_ditzy.png) | [📸 View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_pov.png) | [📸 View](../05_Imagenes/ele/look188_midnight_violet_velvet/ele_188_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3798,6 +4064,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Playsuit-bustier de látex tangerina ultra-brillante con copas underwire estructuradas escote sweetheart y cintura de avispa profundamente ceñida. Shorts tap de vinilo burnt orange de tiro alto moldeados al cuerpo con cinturón cinch ancho de hebilla cromada. Bolero de aviadora corto de charol tangerina con hombros estructurados y puños vueltos, usado abierto · Medias tangerina ultra-sheer con costura trasera marcada, prendidas a ligueros · Pañuelo de seda tangerina anudado al cuello (aviadora jet-set). Gafas de sol cat-eye cromadas. Choker rígido de cromo grabado "ELE". Guantes fingerless de vinilo tangerina (`fingerless opera gloves`), uñas French XXXL 5cm completamente visibles. Navel y nipple piercings de oro blanco visibles bajo el látex tenso
 - **Tacones:** Tacones pin-up peep-toe de plataforma de 12 pulgadas en blanco y cromo, correa al tobillo y detalle de lazo.
 - **Ambientación:** Cubierta de yate de lujo / borde de piscina infinita de hotel 5★ en Zapallar, mediodía, agua turquesa, cromo reflejando sol.
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_standing.png) | [📸 View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_back_view.png) | [📸 View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_seated.png) | [📸 View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_side_profile.png) | [📸 View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_ditzy.png) | [📸 View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_pov.png) | [📸 View](../05_Imagenes/ele/look189_tangerine_bombshell_aviator/ele_189_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3861,6 +4134,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** Plataformas stripper de acrílico transparente de 16cm con tacón de aguja, base chartreuse, correas al tobillo.
 - **Ambientación:** Escenario oscuro de club con tubo cromado central, luz UV + neón chartreuse, humo bajo, espejo negro de fondo.
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_standing.png) | [📸 View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_back_view.png) | [📸 View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_seated.png) | [📸 View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_side_profile.png) | [📸 View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_ditzy.png) | [📸 View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_pov.png) | [📸 View](../05_Imagenes/ele/look190_toxic_chartreuse_pole/ele_190_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -3922,6 +4202,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Vestido columna hasta el suelo de satén líquido deep teal con abertura frontal alta hasta el muslo. Bustier estructural de vinilo iridiscente peacock incorporado (azul-verde cambiante) que esculpe el torso. Collar arquitectónico de cromo de pie con barras ascendentes (escultórico, 12cm, sin atribución) · Clutch de cromo bajo el brazo. Guantes opera de teal con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Choker no aplica (lo reemplaza el collar arquitectónico). Navel y nipple piercings de oro blanco visibles bajo el satén tenso
 - **Tacones:** Sandalias stiletto de cromo de 12 pulgadas, tiras finas, tacón de aguja.
 - **Ambientación:** Suite presidencial de hotel 5★ en Sanhattan, gala nocturna, luz dorada cálida y reflejos de ciudad, mármol negro pulido.
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look191_peacock_teal_escort/ele_191_standing.png) | [📸 View](../05_Imagenes/ele/look191_peacock_teal_escort/ele_191_back_view.png) | [📸 View](../05_Imagenes/ele/look191_peacock_teal_escort/ele_191_seated.png) | [📸 View](../05_Imagenes/ele/look191_peacock_teal_escort/ele_191_side_profile.png) | [📸 View](../05_Imagenes/ele/look191_peacock_teal_escort/ele_191_ditzy.png) | [📸 View](../05_Imagenes/ele/look191_peacock_teal_escort/ele_191_pov.png) | [📸 View](../05_Imagenes/ele/look191_peacock_teal_escort/ele_191_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3985,6 +4272,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** Stiletto pumps de charol wine de 12 pulgadas, punta afilada, tacón de aguja cromado.
 - **Ambientación:** Oficina esquina acristalada de Sanhattan al atardecer, skyline de Las Condes, escritorio de vidrio negro, luz cálida lateral.
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look192_oxblood_boardroom/ele_192_standing.png) | [📸 View](../05_Imagenes/ele/look192_oxblood_boardroom/ele_192_back_view.png) | [📸 View](../05_Imagenes/ele/look192_oxblood_boardroom/ele_192_seated.png) | [📸 View](../05_Imagenes/ele/look192_oxblood_boardroom/ele_192_side_profile.png) | [📸 View](../05_Imagenes/ele/look192_oxblood_boardroom/ele_192_ditzy.png) | [📸 View](../05_Imagenes/ele/look192_oxblood_boardroom/ele_192_pov.png) | [📸 View](../05_Imagenes/ele/look192_oxblood_boardroom/ele_192_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -4046,6 +4340,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Vestido largo asimétrico de un solo hombro en látex holográfico oil-slick multichrome (cambia magenta-teal-oro, acabado beetle-shell) moldeado al cuerpo como metal líquido vertido. Un único hombro escultórico dramático exagerado forma un gran arco que se curva hacia arriba y por encima, enmarcando la cabeza (escultórico couture, sin atribución de diseñador). Escote plunge arquitectónico profundo hasta el ombligo. Abertura escultórica alta en el muslo · Jaula de cintura escultórica rígida de cromo espejo ciñendo la cintura de avispa · Tocado de un único arco escultórico de cromo que repite la onda del hombro. Choker rígido de cromo grabado "ELE". Guantes opera oil-slick con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco presionando visiblemente a través del látex holográfico
 - **Tacones:** Botas stiletto de plataforma de 12 pulgadas en oil-slick holográfico a juego, tacón de aguja cromado.
 - **Ambientación:** Estudio editorial blanco infinito / instalación artística, iluminación de alto contraste que dispara los reflejos multichrome del oil-slick.
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look193_oilslick_liquid_siren/ele_193_standing.png) | [📸 View](../05_Imagenes/ele/look193_oilslick_liquid_siren/ele_193_back_view.png) | [📸 View](../05_Imagenes/ele/look193_oilslick_liquid_siren/ele_193_seated.png) | [📸 View](../05_Imagenes/ele/look193_oilslick_liquid_siren/ele_193_side_profile.png) | [📸 View](../05_Imagenes/ele/look193_oilslick_liquid_siren/ele_193_ditzy.png) | [📸 View](../05_Imagenes/ele/look193_oilslick_liquid_siren/ele_193_pov.png) | [📸 View](../05_Imagenes/ele/look193_oilslick_liquid_siren/ele_193_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4109,6 +4410,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** Stiletto pumps de charol blanco de 12 pulgadas con tacón de aguja cromado, punta afilada.
 - **Ambientación:** Cocina-penthouse de lujo Stepford, mármol blanco y acero, luz limpia de alto key.
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look194_porcelain_service_doll/ele_194_standing.png) | [📸 View](../05_Imagenes/ele/look194_porcelain_service_doll/ele_194_back_view.png) | [📸 View](../05_Imagenes/ele/look194_porcelain_service_doll/ele_194_seated.png) | [📸 View](../05_Imagenes/ele/look194_porcelain_service_doll/ele_194_side_profile.png) | [📸 View](../05_Imagenes/ele/look194_porcelain_service_doll/ele_194_ditzy.png) | [📸 View](../05_Imagenes/ele/look194_porcelain_service_doll/ele_194_pov.png) | [📸 View](../05_Imagenes/ele/look194_porcelain_service_doll/ele_194_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -4170,6 +4478,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Wiggle dress de PVC burnt orange ultra-ceñido hasta media pantorrilla, escote sweetheart, sin tirantes, costura central que esculpe la curva. Medio-delantal de organza sheer naranja atado a la cintura con moño grande. Cinch de cintura cromado · Choker rígido de cromo grabado "ELE". Pañuelo de lunares atado en el pelo (housewife). Guantes fingerless de PVC burnt orange (`fingerless opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el PVC tenso
 - **Tacones:** Stiletto pumps de PVC burnt orange de 12 pulgadas, tacón de aguja cromado, con pompón.
 - **Ambientación:** Cocina retro pastel de penthouse, electrodomésticos cromados vintage, luz cálida de tarde.
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_standing.png) | [📸 View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_back_view.png) | [📸 View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_seated.png) | [📸 View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_side_profile.png) | [📸 View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_ditzy.png) | [📸 View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_pov.png) | [📸 View](../05_Imagenes/ele/look195_burnt_honey_housewife/ele_195_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4233,6 +4548,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** Stiletto sandals de cromo de 12 pulgadas, ocultas bajo el dobladillo wide-leg, tacón de aguja.
 - **Ambientación:** Oficina esquina acristalada de Sanhattan, hora azul, skyline frío, escritorio de vidrio espejo.
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_standing.png) | [📸 View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_back_view.png) | [📸 View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_seated.png) | [📸 View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_side_profile.png) | [📸 View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_ditzy.png) | [📸 View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_pov.png) | [📸 View](../05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -4294,6 +4616,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Slip gown largo de terciopelo aplastado wine, corte al bies (bias-cut), drapeado fluido sobre una base de látex wine oculta que esculpe la silueta, espalda cowl profunda hasta la cintura, tirantes finos cruzados · Brazalete y pendientes largos de cromo espejo. Choker rígido de cromo grabado "ELE". Guantes opera de satén wine con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el terciopelo tenso
 - **Tacones:** Stiletto sandals de cromo de 12 pulgadas con tiras finas, tacón de aguja.
 - **Ambientación:** Suite art déco de hotel 5★ nocturna, luz cálida ámbar baja, espejos ahumados, terciopelo y mármol negro.
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_standing.png) | [📸 View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_back_view.png) | [📸 View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_seated.png) | [📸 View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_side_profile.png) | [📸 View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_ditzy.png) | [📸 View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_pov.png) | [📸 View](../05_Imagenes/ele/look197_wine_velvet_nocturne/ele_197_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4357,6 +4686,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Tacones:** Court shoes de plataforma stiletto de 12 pulgadas en blanco y turquoise, tacón de aguja cromado, correa al tobillo.
 - **Ambientación:** Cancha de tenis de arcilla de club privado / cancha de hotel 5★, sol pleno, líneas blancas, cromo brillando.
 
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_standing.png) | [📸 View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_back_view.png) | [📸 View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_seated.png) | [📸 View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_side_profile.png) | [📸 View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_ditzy.png) | [📸 View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_pov.png) | [📸 View](../05_Imagenes/ele/look198_turquoise_court_volley/ele_198_odalisque.png) |
+
+
 ### 📝 Prompts V3.5 Hard-Sync
 
 **1. Standing:**
@@ -4418,6 +4754,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Corset-leotard de una pieza en charol vinilo gold-lime, alto de cadera, copas cónicas de varilla escultórica, plunge profundo hasta el ombligo, varillaje estructural visible. Bustle de flecos de cadena cromada en hileras prendido al talle bajo que se mece como una cola · Choker rígido de cromo grabado "ELE". Guantes opera de látex gold-lime tipo claw cut-out (uñas afuera), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el plunge
 - **Tacones:** Botas stiletto a la rodilla de charol gold-lime, tacón de aguja cromado, punta afilada.
 - **Ambientación:** Escenario de club con tubo cromado central, luz cálida lime + spots, espejo negro de fondo, humo bajo.
+
+### 📸 Imágenes (7/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_standing.png) | [📸 View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_back_view.png) | [📸 View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_seated.png) | [📸 View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_side_profile.png) | [📸 View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_ditzy.png) | [📸 View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_pov.png) | [📸 View](../05_Imagenes/ele/look199_goldlime_showgirl_armor/ele_199_odalisque.png) |
+
 
 ### 📝 Prompts V3.5 Hard-Sync
 

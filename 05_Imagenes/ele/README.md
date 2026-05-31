@@ -4,6 +4,118 @@
 
 ---
 
+## 👠 Look 327: Uv Cyan Bad Kitty Spider Back
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_327_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look327_uv_cyan_bad_kitty_spider_back/ele_327_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 326: Terracotta Severance Repression
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_326_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look326_terracotta_severance_repression/ele_326_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 322: Crystal Nude Illusion Dita Couture
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_322_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 321: Emerald Mugler Power Domme
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_321_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look321_emerald_mugler_power_domme/ele_321_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 320: Dark Burgundy Private Boudoir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_320_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_standing.png) | ![ele_320_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_back_view.png) | ![ele_320_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_seated.png) | ![ele_320_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_side_profile.png) | ![ele_320_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_ditzy.png) | ![ele_320_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_pov.png) | ![ele_320_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_odalisque.png) |
+
+---
+
+## 👠 Look 319: Sage Powder Avantgarde Gala
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_319_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look319_sage_powder_avantgarde_gala/ele_319_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 318: Pearl Grey Cooldown Stretch
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_318_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look318_pearl_grey_cooldown_stretch/ele_318_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 317: Antique Rose Tutu Boudoir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_317_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look317_antique_rose_tutu_boudoir/ele_317_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 316: Satin Silver Aftershow Diva
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_316_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 315: Peach Satin Studio Rehearsal
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_315_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | ⏳ | ![ele_315_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 314: Powder Lilac Degas Pinup
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_314_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_standing.png) | ![ele_314_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_back_view.png) | ![ele_314_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_seated.png) | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 313: Polished Gold Bolshoi Gala
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_313_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look313_polished_gold_bolshoi_gala/ele_313_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 312: Ivory Cream Performance Bodysuit
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_312_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 311: Blush Powder Barre Discipline
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_311_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look311_blush_powder_barre_discipline/ele_311_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 310: Champagne Gold Poolside Hostess
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
@@ -1572,11 +1684,11 @@
 
 ---
 
-## 👠 Look 113: Mob Wife
+## 👠 Look 113: Neon Pink Latex Gym Bimbo
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_ditzy.png) |
+| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
 
 ---
 
