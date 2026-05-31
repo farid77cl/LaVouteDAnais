@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 31/05/2026 09:18 — **121 looks registrados**  
+> Generado automáticamente el 31/05/2026 09:30 — **131 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -130,6 +130,16 @@
 | **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
 | **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 0/7 | ⏳ Pendiente |
 | **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **321** | Emerald Mugler Power Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **322** | Crystal Nude Illusion Dita Couture (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **323** | Oxblood Secretary Bondage (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **324** | Chrome White Versace SM (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **325** | Deep Plum Newton Hotel (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **326** | Terracotta Severance Repression (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **327** | UV Cyan Bad Kitty Spider Back (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **328** | Royal Purple Trench Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **329** | Oil-Slick Oh Polly After Hours (31/05/2026 — batch 321-330 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **330** | Neon Tangerine Julia Fox Y2K (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -144,14 +154,14 @@
 ### Bikini (10 looks)
 **257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**
 
-### Corporate (3 looks)
-**259**, **260**, **296**
+### Corporate (8 looks)
+**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**
 
 ### Domestic (8 looks)
 **234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**
 
-### Escort (10 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**
+### Escort (12 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**
 
 ### Gym (14 looks)
 **205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**
@@ -168,21 +178,21 @@
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (9 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**
+### Nightclub (10 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**
 
 ### Pin-Up (11 looks)
 **221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**
 
-### Stripper (7 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**
+### Stripper (9 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (19 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**
+### Rojo / Cherry / Crimson (20 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**
 
 ### Rosa / Hot Pink (11 looks)
 **210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**
@@ -190,23 +200,23 @@
 ### Magenta / Fucsia (6 looks)
 **211**, **219**, **240**, **245**, **279**, **308**
 
-### Violeta / Lila (2 looks)
-**203**, **314**
+### Violeta / Lila (3 looks)
+**203**, **314**, **328**
 
-### Azul / Cyan / Zafiro (11 looks)
-**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**
+### Azul / Cyan / Zafiro (12 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**
 
-### Verde / Esmeralda (8 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**
+### Verde / Esmeralda (9 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**
 
 ### Dorado / Bronce (16 looks)
 **205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**
 
-### Plateado / Plata (9 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**
+### Plateado / Plata (10 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**
 
-### Blanco / Crema (5 looks)
-**243**, **257**, **264**, **277**, **312**
+### Blanco / Crema (6 looks)
+**243**, **257**, **264**, **277**, **312**, **324**
 
 ### Negro (dominante) (9 looks)
 **205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**
@@ -333,7 +343,17 @@
 | **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
 | **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
 | **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **321** | Emerald Mugler Power Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **322** | Crystal Nude Illusion Dita Couture (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **323** | Oxblood Secretary Bondage (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **324** | Chrome White Versace SM (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **325** | Deep Plum Newton Hotel (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **326** | Terracotta Severance Repression (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **327** | UV Cyan Bad Kitty Spider Back (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **328** | Royal Purple Trench Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **329** | Oil-Slick Oh Polly After Hours (31/05/2026 — batch 321-330 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **330** | Neon Tangerine Julia Fox Y2K (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 31/05/2026 09:18 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 31/05/2026 09:30 — La Voûte d'Anaïs* 🫦👠💅

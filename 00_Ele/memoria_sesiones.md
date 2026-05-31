@@ -19,11 +19,15 @@
 ## 🧿 ESTADO ACTUAL
 
 
-### Sesión 31/05/2026 (Auditoría L291-L320 · Prompts pendientes · Concepto "Las Ejecutivas del Vicio" L321-L330 aprobado) ✅
-- **Auditoría disco L291-L320:** 166 poses pendientes mapeadas (L298 y L304 = 7/7 ✅; L302 = 6/7; resto 1/7 o 0/7).
-- **Archivo prompts generado:** `99_Sistema/scripts/mantenimiento/prompts_pendientes_L291_L320.md` — 166 prompts organizados por look y pose para usar en app.
-- **Concepto L321-L330 "Las Ejecutivas del Vicio" aprobado:** Corporate ×4 (Mugler CA1 · Versace CA4 · Secretary CB3 · Severance CB7) · Stripper ×2 (Dita SA3 · Bad Kitty SB2) · Escort ×2 (Newton EA3 · Julia Fox EB2) · Nightclub ×1 (Oh Polly). Libertad creativa de colores/texturas autorizada por la Ama para este batch.
-- **Pendientes:** redactar 70 prompts L321-L330 · materializar L291-L320 vía app · lectura Ama Cap 1 v0.3.
+### Sesión 31/05/2026 (Batch L321-L330 "Las Ejecutivas del Vicio" — 70 prompts + auditoría L291-L320) ✅
+- **Auditoría disco L291-L320:** 166 poses pendientes mapeadas (L298 y L304 = 7/7 ✅). Archivo `prompts_pendientes_L291_L320.md` con 166 prompts organizados para app.
+- **Batch L321-L330 "Las Ejecutivas del Vicio" inyectado:** 10 looks · 70 prompts · Corporate ×4 (Mugler CA1 esmeralda · Versace CA4 blanco chrome · Secretary CB3 oxblood · Severance CB7 terracotta) · Stripper ×2 (Dita SA3 crystal nude · Bad Kitty SB2 UV cyan) · Escort ×2 (Newton EA3 plum · Julia Fox EB2 tangerine) · Nightclub ×1 (Oh Polly oil-slick).
+- **Libertad creativa de colores/texturas autorizada por la Ama** para este batch (excepción a ventanas anti-repetición).
+- **Colores 10 familias únicas:** emerald · crystal nude · oxblood · chrome white · deep plum · burnt terracotta · UV cyan · royal purple · oil-slick iridescent · neon tangerine.
+- **Flota:** L330 · 247 únicos.
+- **Footwear Canon ✅:** todos stiletto fino o Pleaser-ref (Stripper siempre Pleaser). 0 plano. 0 chunky en positive.
+- **Anti-3-manos ✅ · Ditzy plano medio ✅ · Descriptividad v4.6 ✅**
+- **Pendientes:** materializar L291-L330 vía app · lectura Ama Cap 1 v0.3 · graphify 01_Canon pausado.
 
 ### Sesión 31/05/2026 (Materialización masiva Standing L282, L284, L285, L252 + Compilación y Cierre de Standing) ✅
 - **Materialización de Poses Standing:** Generadas y enlazadas las poses *Standing* que faltaban en el bloque L200-L310.
