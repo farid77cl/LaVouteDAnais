@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 31/05/2026 09:33 — **131 looks registrados**  
+> Generado automáticamente el 31/05/2026 16:50 — **131 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -81,16 +81,16 @@
 | **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 1/7 | ⏳ Pendiente |
-| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 0/7 | ⏳ Pendiente |
-| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
-| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 0/7 | ⏳ Pendiente |
-| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 1/7 | ⏳ Pendiente |
+| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
+| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
+| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
-| **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | — | Stripper | — | — | 4/7 | ⏳ Pendiente |
 | **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
 | **283** | Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
 | **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
@@ -300,16 +300,16 @@
 | **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
 | **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
 | **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
-| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
-| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
-| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
-| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
+| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
+| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
+| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
+| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
+| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
 | **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
-| **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
+| **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | 4/7 | ⏳ Pendiente |
 | **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
 | **283** | Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
 | **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
@@ -356,4 +356,4 @@
 
 ---
 
-*Índice generado por Ele — 31/05/2026 09:33 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 31/05/2026 16:50 — La Voûte d'Anaïs* 🫦👠💅
