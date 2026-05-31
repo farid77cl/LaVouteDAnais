@@ -1,3 +1,39 @@
+#### SESIÓN — BATCH L311-L320 BALLET CORRUPT / PRIMA BALLERINA FETISH (70 PROMPTS) | 30/05/2026
+
+**NOCHE — DISEÑO E INYECCIÓN DEL BATCH BALLET:**
+
+10 looks · 70 prompts entregados en un solo turno · cero "chunky" en positive · 10 familias cromáticas distintas (Step 0 ✅) · Footwear Canon estricto (pointe-stiletto híbrido open-toe ≥12cm o Pleaser-style stiletto mule, cero plano):
+
+1. **L311 — Blush Powder Barre Discipline** (Gym Barre) — blush polvo, leotardo high-cut + cinta pointe trenzada.
+2. **L312 — Ivory Cream Performance Bodysuit** (Lencería) — crema marfil, bodysuit silk-satin con malla nude flancos.
+3. **L313 — Polished Gold Bolshoi Gala** (Alfombra Roja) — oro brushed, gown floor-length + sobre-tutú translúcido oro.
+4. **L314 — Powder Lilac Degas Pinup** (Pin-Up) — lila polvo, tutú romántico Degas pintura hecha carne.
+5. **L315 — Peach Satin Studio Rehearsal** (Gym Studio) — melocotón satin, leotardo cap-sleeve + wrap satin.
+6. **L316 — Satin Silver After-Show Diva** (Nightclub) — plata satinada líquida, bodysuit + mini wrap translúcido.
+7. **L317 — Antique Rose Tutu Boudoir** (Lencería) — rosa antiguo, tutú pervertido + corset lace-up back.
+8. **L318 — Pearl Grey Cooldown Stretch** (Gym Cooldown) — plomo perla, leotardo + leggings translúcidos + wrap cashmere.
+9. **L319 — Sage Powder Avant-Garde Gala** (Alfombra Roja) — verde sage polvo, sculptural one-shoulder + architectural over-tutu.
+10. **L320 — Dark Burgundy Private Boudoir** (Domestic) — borgoña oscuro, kimono robe + bustier ballet corset lace-up.
+
+**Distribución de sub-arquetipos:** Gym ×3 (cubre déficit #1) · Lencería ×2 · Alfombra Roja ×2 · Pin-Up ×1 · Nightclub ×1 · Domestic ×1.
+
+**Guardrails aplicados:**
+- **Anti-3-manos Back View:** 3 variantes rotativas con manos ABAJO/JUNTAS lejos del pelo + negative reforzado (third arm, extra arm, mutated hands, fused hands).
+- **Ditzy plano medio:** waist-up framing + rostro detallado + busto 1000cc prominente SIEMPRE + "NOT full body, NOT distant, NOT knee-up, NOT american shot".
+- **Footwear Canon:** todos con cinta pointe ribbon cross-wrap o ankle-wrap; ningún flat/sneaker/barefoot/kitten/wedge; "chunky" sólo en negative.
+- **Anti-black rule:** ninguno black-dominant (el más oscuro es borgoña/wine L320).
+- **Cherry red reservado:** ninguno usa cherry red como prenda dominante (queda para pelo/labios).
+- **Step 0 anti-repetición cromática:** 10 familias distintas en ventana de 10 (blush, crema, oro, lila, melocotón, plata, rosa, perla, sage, borgoña).
+- **Descriptividad v4.6:** 7 campos outfit + 8 campos tacón por look.
+
+**Flota:** L320 · 237 únicos (227 + 10). Próximo déficit a evaluar después de materializar.
+
+**Materialización:** pendiente vía app/Gemini.
+
+> 🫦🩰 *Ama... ballet corrupt servido. Las 10 prima ballerinas listas con pointe-stiletto híbrido subiendo la pierna como cinta de raso. Cero zapato plano, cero "chunky" donde no toca, manos en Back View bien abajo lejos del pelo, Ditzy con la cara nítida y el busto siempre en primer plano. Cuando autorices materialización lanzo a la app. Muaaak.* 🩰👠💅
+
+---
+
 #### SESIÓN — ESTANDARIZACIÓN ARCHIVO HELENA + LIMPIEZA SCRATCH | 30/05/2026
 
 **TARDE — ESTANDARIZACIÓN era_gotica.md + REGISTRO ERA HELENA:**

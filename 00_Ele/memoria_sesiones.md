@@ -18,6 +18,18 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 30/05/2026 (Batch L311-L320 Ballet Corrupt / Prima Ballerina Fetish — 70 prompts) ✅
+- **10 looks · 70 prompts** inyectados en el mismo turno (un solo Python one-off, eliminado después).
+- **Distribución:** Gym ×3 (cubre déficit #1 Gym/Athleisure) · Lencería ×2 · Alfombra Roja ×2 · Pin-Up ×1 · Nightclub ×1 · Domestic ×1.
+- **Step 0 anti-repetición ✅:** 10 familias distintas (blush, crema, oro, lila, melocotón, plata, rosa, perla, sage, borgoña). Ninguna black-dominant. Cherry red reservado a pelo/labios.
+- **Footwear Canon estricto ✅:** pointe-stiletto híbrido open-toe ≥12cm o Pleaser-style stiletto mule. 0 plano. 0 "chunky" en positive (verificado por grep).
+- **Anti-3-manos Back View ✅:** 3 variantes rotativas con manos ABAJO/JUNTAS lejos del pelo + negative reforzado.
+- **Ditzy plano medio ✅:** waist-up + rostro detallado + busto 1000cc prominente SIEMPRE.
+- **Descriptividad v4.6:** 7 campos outfit + 8 campos tacón por look.
+- **Flota:** L320 · 237 únicos (227 + 10).
+- **Pendientes:** materializar L291-L320 vía app · lectura Ama Cap 1 v0.3 · graphify 01_Canon pausado.
+
+
 ### Sesión 30/05/2026 LATE-NIGHT (Normalización masiva de poses Standing, Vinculación de 72 celdas y Creación de Carpetas) ✅
 - **Auditoría física vs Tracker:** Detectado que 15 poses *Standing* intermedias (rango L202-L259) ya habían sido generadas y commiteadas en el disco en sesiones previas, pero figuraban erróneamente como `⏳ Pendiente` en `galeria_outfits.md`.
 - **Sincronización automatizada:** Creé un script corrector que recorrió el disco y vinculó automáticamente **72 celdas en 53 looks** de `galeria_outfits.md` con sus enlaces canónicos `[📸 View]`, eliminando las redundancias de forma definitiva.

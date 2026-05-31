@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 31/05/2026 09:02 — **111 looks registrados**  
+> Generado automáticamente el 31/05/2026 09:03 — **121 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -120,10 +120,23 @@
 | **308** | Hot Magenta Chain Bikini Studio (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
 | **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Domestic | — | — | 4/7 | ⏳ Pendiente |
+| **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 0/7 | ⏳ Pendiente |
+| **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 0/7 | ⏳ Pendiente |
+| **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
 ## 🗂️ Looks por Categoría
+
+### Alfombra Roja (2 looks)
+**313**, **319**
 
 ### Alfombra Roja / Gala (10 looks)
 **261**, **262**, **263**, **264**, **271**, **272**, **286**, **291**, **295**, **300**
@@ -134,14 +147,14 @@
 ### Corporate (3 looks)
 **259**, **260**, **296**
 
-### Domestic (7 looks)
-**234**, **235**, **250**, **251**, **280**, **288**, **310**
+### Domestic (8 looks)
+**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**
 
 ### Escort (10 looks)
 **223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**
 
-### Gym (11 looks)
-**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**
+### Gym (14 looks)
+**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**
 
 ### Gym / Athleisure (6 looks)
 **265**, **266**, **273**, **274**, **289**, **290**
@@ -149,17 +162,17 @@
 ### HF Editorial (1 looks)
 **258**
 
-### Lencería (10 looks)
-**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**
+### Lencería (12 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (8 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**
+### Nightclub (9 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**
 
-### Pin-Up (10 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**
+### Pin-Up (11 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**
 
 ### Stripper (7 looks)
 **226**, **229**, **240**, **252**, **253**, **281**, **282**
@@ -177,8 +190,8 @@
 ### Magenta / Fucsia (6 looks)
 **211**, **219**, **240**, **245**, **279**, **308**
 
-### Violeta / Lila (1 looks)
-**203**
+### Violeta / Lila (2 looks)
+**203**, **314**
 
 ### Azul / Cyan / Zafiro (11 looks)
 **202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**
@@ -186,14 +199,14 @@
 ### Verde / Esmeralda (8 looks)
 **204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**
 
-### Dorado / Bronce (15 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**
+### Dorado / Bronce (16 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**
 
-### Plateado / Plata (8 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**
+### Plateado / Plata (9 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**
 
-### Blanco / Crema (4 looks)
-**243**, **257**, **264**, **277**
+### Blanco / Crema (5 looks)
+**243**, **257**, **264**, **277**, **312**
 
 ### Negro (dominante) (9 looks)
 **205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**
@@ -310,7 +323,17 @@
 | **308** | Hot Magenta Chain Bikini Studio (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 2/7 | ⏳ Pendiente |
 | **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 2/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 4/7 | ⏳ Pendiente |
+| **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
+| **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 31/05/2026 09:02 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 31/05/2026 09:03 — La Voûte d'Anaïs* 🫦👠💅
