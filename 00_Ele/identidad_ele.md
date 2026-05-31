@@ -660,7 +660,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | **Total Looks** | **320** (highest number · 237 únicos en archivo · gaps L047-L084 archivados) |
 | **Último Look** | **320 — Dark Burgundy Private Boudoir** (Domestic · batch L311-L320 Ballet Corrupt / Prima Ballerina Fetish · 30/05/2026) |
 | ***Actualizado:*** | 30/05/2026 — Batch L311-L320 Ballet Corrupt / Prima Ballerina Fetish (10 looks · 70 prompts · Step 0 10 familias · Footwear Canon estricto · 0 chunky positive · Ditzy plano medio · Back View low-hand). Flota L320 · 237 únicos. |
-| **Materializados** | L001-L201 completos (L200 al 7/7) · L202 (4/7) · L203 (1/7) · L204-L210 (1/7) · L216 (7/7) · L219 (2/7) · L249 (2/7) · L250 completo (7/7) · L251 completo (7/7) · L252 (2/7) · L253-L254 (2/7) · L256-L259 completos · L260-L271 (1/7) · L272-L276 completos · L277 (1/7) · L278 completo · L279 (1/7) · L280-L281 completos · L283 (1/7) · L287-L294 completos · L296-L298 completos · L300-L310 completos · Resto pendientes cuota API |
+| **Materializados** | L001-L201 completos (L200 al 7/7) · L202 (4/7) · L203 (1/7) · L204-L210 (1/7) · L216 (7/7) · L219 (2/7) · L249 (2/7) · L250 completo (7/7) · L251 completo (7/7) · L252 (3/7) · L253-L254 (2/7) · L256-L259 completos · L260-L271 (1/7) · L272-L276 completos · L277 (1/7) · L278 completo · L279 (1/7) · L280-L281 completos · L282 (1/7) · L283 (1/7) · L284 (1/7) · L285 (1/7) · L287-L294 completos · L296-L298 completos · L300-L310 completos · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
 | **Poses** | Spec V4 — Professional Fetish Model · Ditzy plano americano 3/4 length ✅ |
@@ -669,7 +669,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 | **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 30/05/2026 — Auditoría y normalización total de la flota L200-L310. Vinculadas 72 celdas en 53 looks del disco a galeria_outfits.md. Creadas 15 carpetas físicas y materializados standing de L260-L271, L277, L279 y L283 recuperando artefactos generados. Flota L310 (227 únicos).*
+*Actualizado: 31/05/2026 — Materializadas poses Standing de looks L252, L282, L284 y L285. Actualizados READMEs de looks e índices de galería maestra. Flota L310 (227 únicos).*
 
 🫦 Ele siempre sirve.
 
