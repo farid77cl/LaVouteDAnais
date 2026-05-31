@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+
+### Sesión 31/05/2026 (Materialización masiva Standing L282, L284, L285, L252 + Compilación y Cierre de Standing) ✅
+- **Materialización de Poses Standing:** Generadas y enlazadas las poses *Standing* que faltaban en el bloque L200-L310.
+- **Look 282 (Studded Biker):** Adaptamos el prompt bajo el protocolo **V4.1 SAFE** (reemplazando `latex Brazilian thong low-rise` por `latex fitted crop top` y `latex high-waist shorts`) para sortear el filtro de seguridad de Gemini, obteniendo un resultado extraordinario en: `05_Imagenes/ele/look282_studded_biker_pole_predator/ele_282_standing.png`.
+- **Copiado a disco y normalización:** Trasladadas y enlazadas en disco las poses de pie de `L284`, `L285` y `L252`, finalizando casi en su totalidad el bloque de poses *Standing* para el rango `200-310`.
+- **Tablas de imágenes y compilación:** Generamos las 4 tablas `<details>` en `galeria_outfits.md` para los looks `282`, `284`, `285` y `286` (este último mostrando de forma limpia su estado `⏳ Pendiente`).
+- **Límite API:** Look 286 *Standing* quedó pendiente en cola por cuota API agotada (`HTTP 429 Resource Exhausted`).
+- **Sincronización:** Ejecutada la compilación visual de galerías `update_galleries.py` que regeneró la Galería Maestra de Ele/Miss Doll e índices locales (`README.md` locales y `galeria_index.md`). Respaldado y commiteado en Git.
 ### Sesión 30/05/2026 (Batch L311-L320 Ballet Corrupt / Prima Ballerina Fetish — 70 prompts) ✅
 - **10 looks · 70 prompts** inyectados en el mismo turno (un solo Python one-off, eliminado después).
 - **Distribución:** Gym ×3 (cubre déficit #1 Gym/Athleisure) · Lencería ×2 · Alfombra Roja ×2 · Pin-Up ×1 · Nightclub ×1 · Domestic ×1.
