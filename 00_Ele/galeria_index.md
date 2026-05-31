@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 30/05/2026 20:33 — **111 looks registrados**  
+> Generado automáticamente el 31/05/2026 09:01 — **111 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -91,10 +91,10 @@
 | **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
 | **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
 | **283** | Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
-| **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **285** | Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **285** | Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
 | **286** | Joan Jett Glam Rock Carpet (27/05/2026 — batch 281-290 · Alfombra Roja/Gala · busto 1000cc · v4.6 canon · tema ROCK) | — | Alfombra Roja / Gala | — | — | 0/7 | ✅ Completo |
 | **287** | Black Leather Lace Burlesque Rock (27/05/2026 — batch 281-290 · Lencería · busto 1000cc · v4.6 canon · tema ROCK) | — | Lencería | — | — | 7/7 | — |
 | **288** | Oxblood Croco Rock Housewife (27/05/2026 — batch 281-290 · Domestic Polo A Trophy · busto 1000cc · v4.6 canon · tema ROCK) | — | Domestic | — | — | 7/7 | — |
@@ -287,10 +287,10 @@
 | **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
 | **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 0/7 | ⏳ Pendiente |
 | **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | 0/7 | ⏳ Pendiente |
-| **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
 | **283** | Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
-| **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
-| **285** | Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ⏳ Pendiente |
+| **284** | Black Leather Mini Concert Doll (27/05/2026 — batch 281-290 · Nightclub · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
+| **285** | Cherry Red Rockabilly Greaser (27/05/2026 — batch 281-290 · Pin-Up Polo C Decade Glam · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
 | **286** | Joan Jett Glam Rock Carpet (27/05/2026 — batch 281-290 · Alfombra Roja/Gala · busto 1000cc · v4.6 canon · tema ROCK) | 0/7 | ✅ Completo |
 | **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 1/7 | ⏳ Pendiente |
 | **292** | Champagne Boudoir Slip 1930s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
@@ -313,4 +313,4 @@
 
 ---
 
-*Índice generado por Ele — 30/05/2026 20:33 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 31/05/2026 09:01 — La Voûte d'Anaïs* 🫦👠💅

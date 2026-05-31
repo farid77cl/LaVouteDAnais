@@ -6532,7 +6532,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Black leather sole con pequeño tap chrome
 - **Ambientación:** Garage industrial con Harley-Davidson Sportster cromada visible al fondo, paredes de chapa corrugada, neón Coca-Cola rojo, pole chrome instalado en zona delantera, suelo de cemento con manchas de aceite.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look282_studded_biker_pole_predator/ele_282_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6710,7 +6722,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Black rubber sole con tread agresivo + chrome platform visible
 - **Ambientación:** Club rock dive bar registro Whisky a Go Go LA, paredes empapeladas con flyers de banda, neón Pabst Blue Ribbon, stage al fondo con batería visible, bar de roble manchado con cervezas, suelo pegajoso pulido.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look284_black_leather_mini_concert_doll/ele_284_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6793,7 +6817,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Cherry red lacquered sole (Louboutin-style accent)
 - **Ambientación:** Drive-in cinema 1957 con Cadillac Eldorado convertible rosado al fondo, jukebox Wurlitzer 1015 visible, neón Diner Open en cursive rojo, suelo de asfalto con pintura blanca de aparcamiento, palmeras silueta.
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](05_Imagenes/ele/look285_cherry_red_rockabilly_greaser/ele_285_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6877,6 +6913,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** MTV VMAs red carpet con telón de fondo de neón Madison Square Garden, paparazzi flashes cromados intermitentes, alfombra roja con borde dorado, micrófonos de prensa visibles, multitud silueta gritando.
 
 ### 📸 Imágenes (0/7 — Pendiente cuota API)
+
+<details>
+<summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+</details>
+
+> *⏳ Prompts listos — materialización pendiente (cuota API).*
+
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
