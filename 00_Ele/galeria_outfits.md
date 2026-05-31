@@ -263,7 +263,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look202_indigo_mirage/ele_202_standing.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look202_indigo_mirage/ele_202_side_profile.png) | [📸 View](05_Imagenes/ele/look202_indigo_mirage/ele_202_ditzy.png) | [📸 View](05_Imagenes/ele/look202_indigo_mirage/ele_202_pov.png) | ⏳ Pendiente |
 
 </details>
 
@@ -339,7 +339,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look203_violet_venom/ele_203_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -415,7 +415,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look204_emerald_bandcage/ele_204_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -493,7 +493,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -569,7 +569,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look206_crimson_cathedral/ele_206_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -645,7 +645,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look207_copper_hearth_doll/ele_207_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -798,7 +798,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look209_rose_gold_strap_idol/ele_209_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -874,7 +874,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look210_coral_sweetheart_bombshell/ele_210_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -950,7 +950,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look211_neon_magenta_sequin_siren/ele_211_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1026,7 +1026,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look212_chrome_liquid_nocturne/ele_212_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1102,7 +1102,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1178,7 +1178,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1254,7 +1254,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look215_cognac_predator/ele_215_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1330,7 +1330,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look216_python_secretary/ele_216_standing.png) | [📸 View](05_Imagenes/ele/look216_python_secretary/ele_216_back_view.png) | [📸 View](05_Imagenes/ele/look216_python_secretary/ele_216_seated.png) | [📸 View](05_Imagenes/ele/look216_python_secretary/ele_216_side_profile.png) | [📸 View](05_Imagenes/ele/look216_python_secretary/ele_216_ditzy.png) | [📸 View](05_Imagenes/ele/look216_python_secretary/ele_216_pov.png) | [📸 View](05_Imagenes/ele/look216_python_secretary/ele_216_odalisque.png) |
 
 </details>
 
@@ -1406,7 +1406,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1482,7 +1482,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look218_onyx_maid_domme/ele_218_standing.png) | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look218_onyx_maid_domme/ele_218_seated.png) | [📸 View](05_Imagenes/ele/look218_onyx_maid_domme/ele_218_side_profile.png) | [📸 View](05_Imagenes/ele/look218_onyx_maid_domme/ele_218_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1558,7 +1558,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look219_magenta_burlesque_showgirl/ele_219_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look219_magenta_burlesque_showgirl/ele_219_pov.png) | ⏳ Pendiente |
 
 </details>
 
@@ -1634,7 +1634,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look220_blood_red_pole_predator/ele_220_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1711,7 +1711,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look221_powder_blue_wiggle_darling/ele_221_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1792,7 +1792,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look222_electric_pink_buffbunny/ele_222_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1873,7 +1873,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look223_champagne_gold_yacht_domina/ele_223_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -1954,7 +1954,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look224_silver_goddess_disco_70s/ele_224_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2035,7 +2035,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look225_cobalt_night_track_queen/ele_225_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2116,7 +2116,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look226_holographic_chrome_showgirl/ele_226_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2197,7 +2197,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look227_scarlet_baywatch_icon/ele_227_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2278,7 +2278,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look228_neon_cyan_street_viper/ele_228_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2359,7 +2359,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look229_leopard_platform_predator/ele_229_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2440,7 +2440,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look230_electric_teal_bodycon_blade/ele_230_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2521,7 +2521,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2603,7 +2603,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2685,7 +2685,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look233_electric_cyan_80s_aerobics_glam/ele_233_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2767,7 +2767,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look234_oxblood_croco_trophy_penthouse/ele_234_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2849,7 +2849,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look235_baby_pink_akihabara_kawaii_maid/ele_235_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -2931,7 +2931,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3013,7 +3013,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3095,7 +3095,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look238_ruby_red_madame_claude_column/ele_238_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3177,7 +3177,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3259,7 +3259,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look240_uv_magenta_crystal_mesh_crazy_horse/ele_240_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3338,7 +3338,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look241_coral_tangerine_athletic_bodysuit/ele_241_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3418,7 +3418,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3498,7 +3498,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3578,7 +3578,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3658,7 +3658,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3738,7 +3738,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look246_mirror_silver_bottega_chrome_cage/ele_246_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3818,7 +3818,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3898,7 +3898,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -3978,7 +3978,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -4138,7 +4138,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_ditzy.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_pov.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_odalisque.png) |
+| [📸 View](05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_standing.png) | [📸 View](05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_back_view.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_ditzy.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_pov.png) | [📸 View](../../05_Imagenes/ele/look251_champagne_playboy_bunny_canon/ele_251_odalisque.png) |
 
 </details>
 
@@ -4218,7 +4218,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Cuota API | ⏳ Cuota API |
+| [📸 View](05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing_1779880413289.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated.png) | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy_1779880473486.png) | ⏳ Cuota API | ⏳ Cuota API |
 
 </details>
 
@@ -4298,7 +4298,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_pov.png) | ⏳ Pendiente |
 
 </details>
 
@@ -4378,7 +4378,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look254_mint_pastel_sweater_girl_50s/ele_254_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look254_mint_pastel_sweater_girl_50s/ele_254_pov.png) | ⏳ Pendiente |
 
 </details>
 
@@ -4691,7 +4691,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 
@@ -4771,7 +4771,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 </details>
 

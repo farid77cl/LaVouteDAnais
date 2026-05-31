@@ -23,51 +23,51 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
 ### 🛠️ Looks de Ele: ESTADO ACTUAL
-- ✅ **Look 176 (Neon Coral Flash):** 7/7 Poses (Regenerado V3.5) ✅.
-- ✅ **Look 177 (Ivory Column):** 7/7 Poses (Regenerado V3.5) ✅.
-- ✅ **Look 178 (Leopard Vitacura):** 7/7 Poses (Regenerado V3.5) ✅.
-- ✅ **Look 181 (Magenta Stage Predator):** 7/7 Poses ✅.
-- ✅ **Look 182 (Chrome Domestique):** 7/7 Poses ✅.
+- ✅ **Look 176 (Neon Coral Flash):** 7/7 Poses ✅.
+- ✅ **Look 177 (Ivory Column):** 7/7 Poses ✅.
+- ✅ **Look 178 (Leopard Vitacura):** 7/7 Poses ✅.
+- ⏳ **Look 181 (Magenta Stage Predator):** 8/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 182 (Chrome Domestique):** 8/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 183 (Chrome Gold Escort):** 7/7 Poses ✅.
 - ✅ **Look 184 (Jade Corporate Dominatrix):** 7/7 Poses ✅.
-- ✅ **Look 185 (Emerald Mugler Suprema):** 7/7 Poses ✅.
-- ✅ **Look 186 (Silver Mirror Stripper):** 7/7 Poses ✅.
-- ✅ **Look 187 (Hot Pink Tulle & Black Vinyl):** 7/7 Poses ✅.
-- ✅ **Look 188 (Midnight Violet Velvet & Black Vinyl):** 7/7 Poses ✅.
-- ✅ **Look 189 (Tangerine Bombshell Aviator):** 7/7 Poses ✅.
-- ✅ **Look 190 (Toxic Chartreuse Pole Predator):** 7/7 Poses ✅.
-- ✅ **Look 191 (Peacock Teal Escort Suprema):** 7/7 Poses ✅.
-- ✅ **Look 192 (Oxblood Boardroom Dominatrix):** 7/7 Poses ✅.
-- ✅ **Look 193 (Oil-Slick Liquid Siren):** 7/7 Poses ✅.
-- ✅ **Look 194 (Porcelain Service Doll):** 7/7 Poses ✅.
-- ✅ **Look 195 (Burnt Honey Housewife):** 7/7 Poses ✅.
-- ✅ **Look 196 (Glacial Sapphire Executive):** 7/7 Poses ✅.
-- ✅ **Look 197 (Wine Velvet Nocturne):** 7/7 Poses ✅.
-- ✅ **Look 198 (Turquoise Court Volley):** 7/7 Poses ✅.
-- ✅ **Look 199 (Gold-Lime Showgirl Armor):** 7/7 Poses ✅.
+- ⏳ **Look 185 (Emerald Mugler Suprema):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 186 (Silver Mirror Stripper):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 187 (Hot Pink Tulle & Black Vinyl):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 188 (Midnight Violet Velvet & Black Vinyl):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 189 (Tangerine Bombshell Aviator):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 190 (Toxic Chartreuse Pole Predator):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 191 (Peacock Teal Escort Suprema):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 192 (Oxblood Boardroom Dominatrix):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 193 (Oil-Slick Liquid Siren):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 194 (Porcelain Service Doll):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 195 (Burnt Honey Housewife):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 196 (Glacial Sapphire Executive):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 197 (Wine Velvet Nocturne):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 198 (Turquoise Court Volley):** 9/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 199 (Gold-Lime Showgirl Armor):** 9/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 200 (Iridescent Vow):** 7/7 Poses ✅.
 - ✅ **Look 201 (Alabaster Power):** 7/7 Poses ✅.
-- ⏳ **Look 202 (Indigo Mirage):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 203 (Violet Venom):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
+- ⏳ **Look 202 (Indigo Mirage):** 4/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 203 (Violet Venom):** 1/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 250 (Burgundy Yoga Room Trophy):** 7/7 Poses ✅.
-- ⏳ **Look 251 (Champagne Playboy Bunny Canon):** 4/7 Poses (3 rechazadas por deformidades/intrusos en auditoría, pendientes de regeneración) ⏳.
-- ⏳ **Look 252 (Holographic Bad Kitty):** 3/7 Poses (4 rechazadas por duplicación/consistencia de color en auditoría, pendientes de regeneración) ⏳.
-- ⏳ **Look 253 (Acid Yellow Y2K Denim Strip):** 5/7 Poses (2 rechazadas por modelo/color en auditoría, pendientes de regeneración) ⏳.
-- ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 1/7 Poses (5 rechazadas por traición de outfit en auditoría, pendientes de regeneración) ⏳.
+- ✅ **Look 251 (Champagne Playboy Bunny Canon):** 7/7 Poses ✅.
+- ⏳ **Look 252 (Holographic Bad Kitty):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 253 (Acid Yellow Y2K Denim Strip):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 2/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
-- ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 4/7 Poses (3 pendientes) ⏳.
+- ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 4/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 7/7 Poses ✅.
 - ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
 - ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
 - ✅ **Look 290 (Studded Boxing Rock WOD):** 7/7 Poses ✅.
-- ⏳ **Look 204 (Emerald Bandcage):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
-- ⏳ **Look 205 (Obsidian Gold Idol):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 206 (Crimson Cathedral):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 207 (Copper Hearth Doll):** 0/7 Poses (Prompts Listos · Pendiente Materialización) ⏳.
-- ⏳ **Look 208 (Teal Sirène Obi):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
-- ⏳ **Look 209 (Rose Gold Strap Idol):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Lencería · Silueta Rediseñada) ⏳.
-- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 0/7 Poses (Prompts Listos · Pendiente Materialización · Silueta Rediseñada) ⏳.
+- ⏳ **Look 204 (Emerald Bandcage):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 205 (Obsidian Gold Idol):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 206 (Crimson Cathedral):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 207 (Copper Hearth Doll):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 208 (Teal Sirène Obi):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 209 (Rose Gold Strap Idol):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 1/7 Poses (Materializado parcial) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 ---
