@@ -1,6 +1,6 @@
 # 📊 ESTADO DE MATERIALIZACIÓN Y ESTADÍSTICAS (V3.12)
 
-Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 28 de Mayo, 2026).
+Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 31 de Mayo, 2026).
 
 ## 📱 FLUJO DE IMÁGENES SUBIDAS POR LA APP (Gemini → GitHub) — era app, looks ≥ 291
 
@@ -17,8 +17,9 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **210** | 🟢 Expansión (Flota 210) |
-| **Materializados (100%)** | **210** | 🟢 100.0% |
+| **Flota Diseñada (último look)** | **L320** | 🟢 237 únicos |
+| **Último batch** | **L311-L320 Ballet Corrupt** | 🩰 Registrado (prompts) |
+| **Materialización L291-L320** | **Parcial** | 🟡 Pendiente vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
@@ -51,12 +52,17 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ⏳ **Look 203 (Violet Venom):** 1/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 250 (Burgundy Yoga Room Trophy):** 7/7 Poses ✅.
 - ✅ **Look 251 (Champagne Playboy Bunny Canon):** 7/7 Poses ✅.
-- ⏳ **Look 252 (Holographic Bad Kitty):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 252 (Holographic Bad Kitty):** 3/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 253 (Acid Yellow Y2K Denim Strip):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 2/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
 - ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 4/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 282 (Studded Biker Pole Predator):** 1/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 283 (Crimson Leather Rock Domme):** 1/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 284 (Black Leather Mini Concert Doll):** 1/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 285 (Cherry Red Rockabilly Greaser):** 1/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 286 (Joan Jett Glam Rock Carpet):** 0/7 Poses (Pendiente) ⏳.
 - ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 7/7 Poses ✅.
 - ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
 - ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
