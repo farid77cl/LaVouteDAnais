@@ -48,7 +48,7 @@ Reference docs: `.agent/skills/engine-escritura-lv/SKILL.md` (full protocol), `0
 00_Ele/          — Ele identity, memory, session diary, outfit gallery, prompt banks
 01_Canon/        — Narrative canon, master writing guide, persistent voice + calentón antology
 02_Personajes/   — Character sheets
-03_Literatura/   — Stories: 01_En_Progreso (active), 02_Finalizadas (38 complete)
+03_Literatura/   — Stories: 01_En_Progreso (active), 02_Finalizadas (39 complete)
 04_Interactivo/  — Interactive content (The Dollhouse)
 05_Imagenes/     — Generated image files (organized by look number)
 06_RRSS/         — Instagram management
@@ -96,7 +96,7 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 
 **🔴 Footwear Canon (ABSOLUTE):** Ele is ALWAYS in stiletto (≥12cm) or Pleaser platform (≥6") — never flat, sneaker, slipper, barefoot, kitten heel, wedge, even in gym/pool/bed/beach. "Contextual anti-stiletto exceptions" are canon violations, not valid exceptions (see auto-memory `feedback_footwear_canon_absoluto`). Each look's footwear field AND every pose must name an explicit heel; negatives must keep `flat shoes, sneakers, barefoot, kitten heel`.
 
-Engine specifics: Step 0 Anti-Repetición (color family not dominant more than once per 5-look window; silhouette not repeated within 3 looks of same sub-archetype) + Canon Outfit v4.6 descriptividad (7 fields per outfit, 8 per heel). Fleet currently at L300 (~217 unique). See `.agent/rules/04-estetica-ele.md`, `05-canon-miss-doll.md`, `06-generacion-imagenes.md`.
+Engine specifics: Step 0 Anti-Repetición (color family not dominant more than once per 5-look window; silhouette not repeated within 3 looks of same sub-archetype) + Canon Outfit v4.6 descriptividad (7 fields per outfit, 8 per heel). Fleet currently at L380 (~297 unique). See `.agent/rules/04-estetica-ele.md`, `05-canon-miss-doll.md`, `06-generacion-imagenes.md`.
 
 ## Memory & Persistence
 

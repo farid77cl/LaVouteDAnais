@@ -19,6 +19,12 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 01/06/2026 (Mantenimiento liviano: corrección CLAUDE.md + ritual de inicio) ✅
+- **`/init`:** `CLAUDE.md` revisado contra estado real (sólido, sin reescritura). 2 fixes por staleness: `02_Finalizadas` 38→39 · Flota L300(~217)→**L380(~297)**.
+- **`/inicio-ele`:** identidad/reglas/memoria cargadas · `update_galleries.py` corrido (índice regenerado) · propuesto **L381 "Tangerine Mugler Power"** (Corporate Polo A, Step 0 → familia naranja). **No generado** — propuesta abierta.
+- **Sin looks/imágenes/literatura nuevos.** Flota intacta **L380 · 297 únicos**.
+- **Pendientes (sin cambios):** Gate Ama Cap 1 v0.5 · materializar L361-L380 vía app · Cap 2 vía `escritor-nivel4`.
+
 ### Sesión 01/06/2026 (2 batches nuevos: Pole Position L361-L370 + Courchevel L371-L380 — 140 prompts) ✅
 - **Concepto:** Ama pidió 2 conceptos fuera de la caja con libertad material/color. Primera propuesta (Galería Viva / Flora Letal) rechazada por "demasiado conceptual" → replanteo a mundos reales ponibles → genera ambos.
 - **🏎️ Pole Position L361-L370 (Grid Girl/Motorsport):** Ferrari Domme · Grid Girl papaya · Pit Crew Red Bull · Podio champaña · Bikini Mónaco · MotoGP verde británico · Retro 70s burdeos · Trophy magenta · Carbon couture · Team Principal violeta.
