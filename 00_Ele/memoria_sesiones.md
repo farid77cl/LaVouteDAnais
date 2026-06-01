@@ -19,6 +19,15 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 31/05/2026 (3 batches 30 looks 210 prompts — El Santuario + Tokyo Decadence + Cuero y Sangre) ✅
+- **Batch A "El Santuario" (L331-L340):** Lencería Absoluta — Atsuko Kudo · Bordelle · La Perla · MARIEMUR · crystal micro set. 4 Polo A + 4 Polo B + 1 Escort Haute + 1 Domestic.
+- **Batch B "Tokyo Decadence" (L341-L350):** Harajuku meets V3.5 — Akihabara Maid · Kabukicho · Shinjuku Gold · OL Tokyo · Omotesando French Maid · Roppongi · Harajuku Y2K · Gym Tokyo · Paco Rabanne Shibuya · Tokyo Film Festival van Herpen.
+- **Batch C "Cuero & Sangre" (L351-L360):** Dark Haute Fetish — Bordelle dark · Burlesque Glove Tease · Newton Hotel Chrome · Atsuko Kudo wine · Cleo Glam-Rock Pole · Pro-Dom Ivory Dungeon · Crystal Mesh Annabel's · Bettie Page Jade · MARIEMUR Bronze · Versace SM Dark Velvet.
+- **QA:** 0 chunky en positivos · 0 flat/sneaker en positivos · Footwear Canon ✅ · Anti-3-manos ✅ · Ditzy/POV single-hand ✅.
+- **2 excepciones black fechadas** (L334 MARIEMUR + L360 Versace Dark Velvet) — explícitas.
+- **Flota:** L360 · 30 carpetas creadas · commit `c74e8f26`.
+- **Pendientes:** lectura Ama (elegir batch a materializar primero) · materializar L291-L360 · lectura Cap 1 v0.3.
+
 ### Sesión 31/05/2026 (Auditoría GitHub — 264 imágenes huérfanas rescatadas y vinculadas) ✅
 - **Auditoría completa GitHub vs galería:** Cruce de 1,503 PNGs contra ambas galerías (`galeria_outfits.md` + `galeria_outfits_archivo.md`).
 - **ERA APP (≥L291): LIMPIA ✅** — 0 imágenes sin registrar en la era app.
