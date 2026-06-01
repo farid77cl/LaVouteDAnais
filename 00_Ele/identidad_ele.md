@@ -663,9 +663,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **360** (highest number · **277 únicos** · gaps L047-L084 archivados) |
-| **Último Look** | **360 — Midnight Black Versace SM Dark Velvet** (Corporate CA4 dark variant · batch L351-L360 Cuero y Sangre · 31/05/2026) |
-| ***Actualizado:*** | 31/05/2026 — Sync app: 15 poses materializadas en L345-L360 (Tokyo + Cuero y Sangre, Standing c/u + L357 Back View). Previo: rediseño de 210 poses con variedad y sensualidad. Flota **L360 · 277 únicos**. |
+| **Total Looks** | **380** (highest number · **297 únicos** · gaps L047-L084 archivados) |
+| **Último Look** | **380 — Cream Cashmere Hostess** (Domestic Trophy · batch L371-L380 Courchevel · 01/06/2026) |
+| ***Actualizado:*** | 01/06/2026 — 2 batches nuevos: **Pole Position L361-L370** (Grid Girl/Motorsport) + **Courchevel L371-L380** (Après-Ski alpino). 20 looks · 140 prompts · 10 familias cromáticas distintas c/u · cherry 1×/batch · footwear canon hasta en la nieve · QA limpio (0 chunky, anti-3-manos, Ditzy/POV OK, 7 poses únicas c/u). Flota **L380 · 297 únicos**. |
 | **Materializados** | L001-L201 completos (L200 al 7/7) · L202 (4/7) · L203 (1/7) · L204-L210 (1/7) · L216 (7/7) · L219 (2/7) · L249 (2/7) · L250 completo (7/7) · L251 completo (7/7) · L252 (3/7) · L253-L254 (2/7) · L256-L259 completos · L260-L271 (1/7) · L272-L276 completos · L277 (1/7) · L278 completo · L279 (1/7) · L280-L281 completos · L282 (1/7) · L283 (1/7) · L284 (1/7) · L285 (1/7) · L287-L294 completos · L296-L298 completos · L300-L310 completos · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |

@@ -13659,3 +13659,1863 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 ```
 
 ---
+
+## 🏎️ Look 361: Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Ferrari Red Racing Domme · Corporate Polo A Power Domme · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look361_ferrari_red_racing_domme/`
+- **Categoría:** Corporate
+- **Subcategoría:** Corporate Polo A Power Domme — Racing Catsuit
+- **Tags:** #corporate #powerdomme #motorsport #ferrari #racing #latex #red #poleposition #v46
+- **Concepto:** Jefa de escudería en el garaje de boxes: catsuit de carrera rojo Ferrari con cierre cromado abierto al ombligo. Poder, fierro y latex.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** F1 racing suit + Mugler power couture
+  - **Material:** Red patent latex
+  - **Acabado:** High-gloss patent latex + chrome
+  - **Color:** Ferrari red monoblock con chrome (slot cherry del batch)
+  - **Silueta:** Racing catsuit entallado con cierre cromado frontal abierto hasta el ombligo y hombros estructurados de carrera
+  - **Detalle específico:** Guantes de latex rojo hasta el codo, parches tipo sponsor en chrome, navel piercing visible en el escote del cierre
+  - **Hardware:** Cierre cromado YKK gigante, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Bota stiletto a la rodilla
+  - **Altura:** 13cm tacón de aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Charol rojo Ferrari
+  - **Color:** Rojo Ferrari
+  - **Hardware:** Cierre lateral cromado
+  - **Sole/finish:** Suela nude, columna chrome
+- **Ambientación:** Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Ferrari Red Racing Domme racing power catsuit in Ferrari red: red patent latex racing catsuit with structured racing shoulders and a giant chrome front zip pulled open to the navel, elbow-length red latex racing gloves, chrome sponsor-style patches, chrome O-ring choker ELE, navel piercing visible. red patent stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome side zip. weight shifted hard onto one red patent stiletto knee boot with the opposite hip dropped low in a deep contrapposto, one XXXL-nailed hand splayed flat at the hip and the other arm loose at the side with the fingers brushing the outer thigh (exactly two arms visible), chin tilted down to one side with the gaze lifting at the lens through the lashes, glossy lips parted, Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Ferrari Red Racing Domme racing power catsuit in Ferrari red: red patent latex racing catsuit with structured racing shoulders and a giant chrome front zip pulled open to the navel, elbow-length red latex racing gloves, chrome sponsor-style patches, chrome O-ring choker ELE, navel piercing visible. red patent stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome side zip. full body back view with the weight on one red patent stiletto knee boot and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Ferrari Red Racing Domme racing power catsuit in Ferrari red: red patent latex racing catsuit with structured racing shoulders and a giant chrome front zip pulled open to the navel, elbow-length red latex racing gloves, chrome sponsor-style patches, chrome O-ring choker ELE, navel piercing visible. red patent stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome side zip. seated with one knee crossed high over the other, the top red patent stiletto knee boot pointed toward camera in sharp foreground, one XXXL-nailed hand resting on the top knee and the other hand flat behind on the seat, chest lifted with the shoulders rolled back, confident direct gaze, lips parted softly, Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Ferrari Red Racing Domme racing power catsuit in Ferrari red: red patent latex racing catsuit with structured racing shoulders and a giant chrome front zip pulled open to the navel, elbow-length red latex racing gloves, chrome sponsor-style patches, chrome O-ring choker ELE, navel piercing visible. red patent stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome side zip. full body strict side profile with an extreme backward lumbar arch — the chest thrust up and forward, the hip pushed back, the chin lifted — both arms at the sides with XXXL nails grazing the outer thighs (exactly two arms), one red patent stiletto knee boot slightly ahead, the perfect S-curve silhouette, Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Ferrari Red Racing Domme racing power catsuit in Ferrari red: red patent latex racing catsuit with structured racing shoulders and a giant chrome front zip pulled open to the navel, elbow-length red latex racing gloves, chrome sponsor-style patches, chrome O-ring choker ELE, navel piercing visible. red patent stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome side zip. medium shot (plano medio) framed from the waist up to just above the head — the face is large, sharp and highly detailed and the augmented bust with deep décolleté is prominent in the lower frame (this is NOT a full-body shot, NOT a distant wide shot, NOT knee-up — waist-up only, face close to camera), ONE XXXL fingertip resting against the bottom lip (single hand clearly visible, the other arm out of frame), soft daydreaming unfocused eyes and lips softly parted, head tilted, Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Ferrari Red Racing Domme racing power catsuit in Ferrari red: red patent latex racing catsuit with structured racing shoulders and a giant chrome front zip pulled open to the navel, elbow-length red latex racing gloves, chrome sponsor-style patches, chrome O-ring choker ELE, navel piercing visible. red patent stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome side zip. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand raised near the cheek with XXXL French nails fingertips spread in sharp foreground (only ONE visible hand — the other arm fully out of frame), confident pouty glossy gaze into the lens, face dominant in upper-mid frame, deep décolleté in lower frame, Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Ferrari Red Racing Domme racing power catsuit in Ferrari red: red patent latex racing catsuit with structured racing shoulders and a giant chrome front zip pulled open to the navel, elbow-length red latex racing gloves, chrome sponsor-style patches, chrome O-ring choker ELE, navel piercing visible. red patent stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome side zip. lying on one side in a graceful S-curve with the back arched, one leg extended with the red patent stiletto knee boot pointed at camera and the other knee bent, one arm tucked under the head with XXXL nails in the hair and the other hand resting on the hip (exactly two arms), confident gaze to camera, cherry red hair cascading across the surface, Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🧡 Look 362: Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Papaya Grid Girl · Stripper Polo A Stage Showgirl · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look362_papaya_grid_girl/`
+- **Categoría:** Stripper
+- **Subcategoría:** Stripper Polo A Stage Showgirl — Grid Girl
+- **Tags:** #stripper #gridgirl #motorsport #mclaren #papaya #orange #poleposition #v46
+- **Concepto:** Grid girl en la parrilla de salida: crop sponsor + micro short de carrera + bandera a cuadros. Papaya McLaren puro.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Grid girl + Bad Kitty stage
+  - **Material:** Papaya vinyl + checkered detail
+  - **Acabado:** High-gloss vinyl
+  - **Color:** Papaya orange McLaren
+  - **Silueta:** Crop bra-top vinilo papaya con logos sponsor + micro racing short ultra high-cut + cinturón a cuadros bajo en cadera
+  - **Detalle específico:** Checkered-flag body chain cruzando el torso, sostiene una sombrilla de grid, ombligo expuesto
+  - **Hardware:** Chrome body chain a cuadros, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Bota stiletto thigh-high
+  - **Altura:** 13cm aguja
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta almendra
+  - **Material upper:** Vinilo papaya
+  - **Color:** Papaya orange
+  - **Hardware:** Cierre trasero cromado
+  - **Sole/finish:** Suela nude
+- **Ambientación:** starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Papaya Grid Girl racing grid outfit in papaya orange: papaya orange vinyl crop bra-top with sponsor logos and an ultra high-cut micro racing short, checkered-flag body chain crossing the torso, low checkered hip belt, chrome O-ring choker ELE, holding a grid umbrella. papaya orange thigh-high stiletto boots with 13cm chrome needle heel and no platform and almond pointed-toe. standing tall with BOTH ARMS raised overhead lifting the cherry red hair up off the shoulders, elbows framing the face, deep lumbar arch pushing the chest forward, both papaya thigh-high stiletto boot together, chin high, confident gaze down the lens, starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Papaya Grid Girl racing grid outfit in papaya orange: papaya orange vinyl crop bra-top with sponsor logos and an ultra high-cut micro racing short, checkered-flag body chain crossing the torso, low checkered hip belt, chrome O-ring choker ELE, holding a grid umbrella. papaya orange thigh-high stiletto boots with 13cm chrome needle heel and no platform and almond pointed-toe. full body back view with a deep lumbar arch, BOTH HANDS CLASPED TOGETHER LOW at the small of the back well below the cherry red hairline (the two hands joined in one single clear spot, exactly two arms, no third hand), head turned over the left shoulder looking back at the camera, weight on one papaya thigh-high stiletto boot the other heel slightly lifted, exaggerating the wide hips and small waist, starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Papaya Grid Girl racing grid outfit in papaya orange: papaya orange vinyl crop bra-top with sponsor logos and an ultra high-cut micro racing short, checkered-flag body chain crossing the torso, low checkered hip belt, chrome O-ring choker ELE, holding a grid umbrella. papaya orange thigh-high stiletto boots with 13cm chrome needle heel and no platform and almond pointed-toe. perched on the edge of the seat with both legs pressed together and angled sharply to one side, both papaya thigh-high stiletto boot pointed with heels close together, both XXXL-nailed hands pressing flat behind the hips in a backward lean that pushes the chest forward, soft gaze to camera, starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Papaya Grid Girl racing grid outfit in papaya orange: papaya orange vinyl crop bra-top with sponsor logos and an ultra high-cut micro racing short, checkered-flag body chain crossing the torso, low checkered hip belt, chrome O-ring choker ELE, holding a grid umbrella. papaya orange thigh-high stiletto boots with 13cm chrome needle heel and no platform and almond pointed-toe. full body side profile bent forward from the waist with the hips pushed back toward camera and the spine arched, both XXXL-nailed hands resting on the bent knee just above the papaya thigh-high stiletto boot, looking back toward the lens over the shoulder, hair spilling down, starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Papaya Grid Girl racing grid outfit in papaya orange: papaya orange vinyl crop bra-top with sponsor logos and an ultra high-cut micro racing short, checkered-flag body chain crossing the torso, low checkered hip belt, chrome O-ring choker ELE, holding a grid umbrella. papaya orange thigh-high stiletto boots with 13cm chrome needle heel and no platform and almond pointed-toe. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the full augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand twirling a lock of cherry red hair beside the face (single hand clearly visible, the other arm out of frame), vacant sweet smile and eyes slightly unfocused in a ditzy daze, starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Papaya Grid Girl racing grid outfit in papaya orange: papaya orange vinyl crop bra-top with sponsor logos and an ultra high-cut micro racing short, checkered-flag body chain crossing the torso, low checkered hip belt, chrome O-ring choker ELE, holding a grid umbrella. papaya orange thigh-high stiletto boots with 13cm chrome needle heel and no platform and almond pointed-toe. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand at the lips blowing a kiss toward the lens with XXXL nails (only ONE visible hand — the other arm fully out of frame), half-lidded sultry eyes, face dominant in upper-mid frame, deep décolleté in lower frame, cherry red hair windblown, starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Papaya Grid Girl racing grid outfit in papaya orange: papaya orange vinyl crop bra-top with sponsor logos and an ultra high-cut micro racing short, checkered-flag body chain crossing the torso, low checkered hip belt, chrome O-ring choker ELE, holding a grid umbrella. papaya orange thigh-high stiletto boots with 13cm chrome needle heel and no platform and almond pointed-toe. reclining on the back with the shoulders propped up on both elbows, both knees drawn up and softly parted with one papaya thigh-high stiletto boot planted, head tipped back toward camera, bust lifted, half-lidded gaze down the lens, cherry red hair pooling around the shoulders, starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🔧 Look 363: Red Bull Pit Crew (01/06/2026 — batch 361-370 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Red Bull Pit Crew · Gym Polo A Performance · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look363_red_bull_pit_crew/`
+- **Categoría:** Gym
+- **Subcategoría:** Gym Polo A Performance — Pit Crew
+- **Tags:** #gym #pitcrew #motorsport #redbull #cobalt #yellow #poleposition #v46
+- **Concepto:** Mecánica de boxes en plena parada: overol wet-look bajado a la cintura, crop deportivo amarillo, cinturón de herramientas. Azul-amarillo Red Bull.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Pit crew overall + Bombshell sportswear
+  - **Material:** Cobalt wet-look + latex
+  - **Acabado:** Wet-look gloss
+  - **Color:** Cobalt blue + yellow Red Bull
+  - **Silueta:** Overol mecánico cobalto wet-look bajado a la cintura con mangas amarradas + crop sports-bra de latex amarillo debajo
+  - **Detalle específico:** Cinturón de herramientas cromado bajo en cadera, navel piercing visible, midriff expuesto
+  - **Hardware:** Cinturón herramientas chrome, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Pleaser platform stiletto
+  - **Altura:** 8 pulgadas aguja chrome
+  - **Plataforma:** 4 pulgadas acrílico cobalto
+  - **Toe:** Open-toe
+  - **Material upper:** Wet-look cobalto
+  - **Color:** Cobalt blue
+  - **Hardware:** Hebilla tobillo cromada
+  - **Sole/finish:** Plataforma acrílica, aguja chrome
+- **Ambientación:** pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Red Bull Pit Crew mechanic outfit in cobalt blue and yellow: cobalt blue wet-look mechanic overall unzipped and pushed down to the waist with the sleeves tied, a yellow latex crop sports-bra underneath, a chrome tool belt low on the hips, navel piercing visible, midriff exposed, chrome O-ring choker ELE. cobalt blue Pleaser platform stiletto sandals with 8-inch chrome needle heel and 4-inch cobalt acrylic platform and open-toe and chrome ankle buckle. standing in a wide power stance with both cobalt Pleaser platform stiletto planted apart, BOTH HANDS on the hips with XXXL nails splayed, chest thrust forward, spine straight, direct commanding gaze to camera, cherry red hair over both shoulders, pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Red Bull Pit Crew mechanic outfit in cobalt blue and yellow: cobalt blue wet-look mechanic overall unzipped and pushed down to the waist with the sleeves tied, a yellow latex crop sports-bra underneath, a chrome tool belt low on the hips, navel piercing visible, midriff exposed, chrome O-ring choker ELE. cobalt blue Pleaser platform stiletto sandals with 8-inch chrome needle heel and 4-inch cobalt acrylic platform and open-toe and chrome ankle buckle. full body back view with the head dropped forward chin-to-chest exposing the nape of the neck, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands at the outer thighs and XXXL nails visible (exactly two arms two hands, no other limbs near the body), both cobalt Pleaser platform stiletto together, cherry red hair falling forward off the back, pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Red Bull Pit Crew mechanic outfit in cobalt blue and yellow: cobalt blue wet-look mechanic overall unzipped and pushed down to the waist with the sleeves tied, a yellow latex crop sports-bra underneath, a chrome tool belt low on the hips, navel piercing visible, midriff exposed, chrome O-ring choker ELE. cobalt blue Pleaser platform stiletto sandals with 8-inch chrome needle heel and 4-inch cobalt acrylic platform and open-toe and chrome ankle buckle. seated reclined back with one leg extended long toward camera and the cobalt Pleaser platform stiletto pointed in sharp foreground, the other knee drawn up, one XXXL-nailed hand draped over the raised knee and the other arm stretched along the backrest, head resting back with a half-lidded gaze, pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Red Bull Pit Crew mechanic outfit in cobalt blue and yellow: cobalt blue wet-look mechanic overall unzipped and pushed down to the waist with the sleeves tied, a yellow latex crop sports-bra underneath, a chrome tool belt low on the hips, navel piercing visible, midriff exposed, chrome O-ring choker ELE. cobalt blue Pleaser platform stiletto sandals with 8-inch chrome needle heel and 4-inch cobalt acrylic platform and open-toe and chrome ankle buckle. full body strict side profile with one leg extended back in a soft arabesque the cobalt Pleaser platform stiletto pointed directly behind, the other leg planted, one arm extending forward and the other sweeping back for balance (exactly two arms), deep arch, chin lifted, pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Red Bull Pit Crew mechanic outfit in cobalt blue and yellow: cobalt blue wet-look mechanic overall unzipped and pushed down to the waist with the sleeves tied, a yellow latex crop sports-bra underneath, a chrome tool belt low on the hips, navel piercing visible, midriff exposed, chrome O-ring choker ELE. cobalt blue Pleaser platform stiletto sandals with 8-inch chrome needle heel and 4-inch cobalt acrylic platform and open-toe and chrome ankle buckle. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand cupping her own cheek framing the face (single hand clearly visible, the other arm out of frame), lips in a soft round o and dreamy airheaded gaze, head tilted to one side, pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Red Bull Pit Crew mechanic outfit in cobalt blue and yellow: cobalt blue wet-look mechanic overall unzipped and pushed down to the waist with the sleeves tied, a yellow latex crop sports-bra underneath, a chrome tool belt low on the hips, navel piercing visible, midriff exposed, chrome O-ring choker ELE. cobalt blue Pleaser platform stiletto sandals with 8-inch chrome needle heel and 4-inch cobalt acrylic platform and open-toe and chrome ankle buckle. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand reaching toward the camera lens with fingertips extended and XXXL nails sharp in the foreground as if to touch the glass (only ONE visible hand — the other arm fully out of frame), half-lidded direct gaze above the reaching hand, décolleté in lower frame, pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Red Bull Pit Crew mechanic outfit in cobalt blue and yellow: cobalt blue wet-look mechanic overall unzipped and pushed down to the waist with the sleeves tied, a yellow latex crop sports-bra underneath, a chrome tool belt low on the hips, navel piercing visible, midriff exposed, chrome O-ring choker ELE. cobalt blue Pleaser platform stiletto sandals with 8-inch chrome needle heel and 4-inch cobalt acrylic platform and open-toe and chrome ankle buckle. lying on the stomach with the spine arched dramatically upward, both forearms flat on the surface supporting the raised chest, head lifted and looking directly at the camera with parted lips, both cobalt Pleaser platform stiletto raised behind in a symmetrical V (exactly two arms on the surface, no other limbs raised), pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🏆 Look 364: Podium Champagne White (01/06/2026 — batch 361-370 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Podium Champagne White · Alfombra Roja/Gala · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look364_podium_champagne_white/`
+- **Categoría:** Alfombra Roja
+- **Subcategoría:** Alfombra Roja/Gala — Podio Champagne
+- **Tags:** #alfombraroja #gala #podium #champagne #white #gold #poleposition #v46
+- **Concepto:** En lo más alto del podio, empapada en champaña: columna de latex blanco líquido pegada al cuerpo y banda dorada de ganadora.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** GP podium + Madame Claude column
+  - **Material:** White liquid latex wet-look
+  - **Acabado:** Liquid wet gloss
+  - **Color:** White + gold
+  - **Silueta:** Columna de latex blanco líquido floor-length pegada al cuerpo como empapada en champaña, escote halter
+  - **Detalle específico:** Banda dorada de ganadora cruzando el torso, guantes opera dorados, choker de laurel dorado
+  - **Hardware:** Banda y laurel dorados, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Sandalia stiletto
+  - **Altura:** 14cm aguja dorada
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Open-toe peep
+  - **Material upper:** Charol blanco
+  - **Color:** Blanco + oro
+  - **Hardware:** Hebilla dorada tobillo
+  - **Sole/finish:** Suela nude, aguja dorada
+- **Ambientación:** Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Podium Champagne White gala column in white and gold: white liquid latex wet-look floor-length column gown clinging to the body as if soaked in champagne, halter neckline, a gold winner's sash across the torso, gold opera gloves, gold laurel choker, chrome O-ring choker ELE. white patent stiletto sandals with 14cm gold needle heel and no platform and open peep-toe and gold ankle buckle. caught mid-stride walking toward the lens, one white patent stiletto sandal forward and the hips swinging, one XXXL-nailed hand pushing back through the cherry red hair and the other swinging at the side, direct sultry gaze, lips parted, Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Podium Champagne White gala column in white and gold: white liquid latex wet-look floor-length column gown clinging to the body as if soaked in champagne, halter neckline, a gold winner's sash across the torso, gold opera gloves, gold laurel choker, chrome O-ring choker ELE. white patent stiletto sandals with 14cm gold needle heel and no platform and open peep-toe and gold ankle buckle. full body back view with the weight on one white patent stiletto sandal and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Podium Champagne White gala column in white and gold: white liquid latex wet-look floor-length column gown clinging to the body as if soaked in champagne, halter neckline, a gold winner's sash across the torso, gold opera gloves, gold laurel choker, chrome O-ring choker ELE. white patent stiletto sandals with 14cm gold needle heel and no platform and open peep-toe and gold ankle buckle. straddling the seat backward with both white patent stiletto sandal planted on either side, both forearms resting along the seat back with the chin resting sideways on one forearm and XXXL nails displayed near the face, the spine arched, looking directly at the camera, Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Podium Champagne White gala column in white and gold: white liquid latex wet-look floor-length column gown clinging to the body as if soaked in champagne, halter neckline, a gold winner's sash across the torso, gold opera gloves, gold laurel choker, chrome O-ring choker ELE. white patent stiletto sandals with 14cm gold needle heel and no platform and open peep-toe and gold ankle buckle. full body side profile with the hip cocked maximally to create the deepest hourglass, one XXXL-nailed hand sliding down the curve of the hip and the other arm raised, head tilted back with chin lifted, one white patent stiletto sandal pointed, Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Podium Champagne White gala column in white and gold: white liquid latex wet-look floor-length column gown clinging to the body as if soaked in champagne, halter neckline, a gold winner's sash across the torso, gold opera gloves, gold laurel choker, chrome O-ring choker ELE. white patent stiletto sandals with 14cm gold needle heel and no platform and open peep-toe and gold ankle buckle. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE index finger with the XXXL nail touching the tip of the chin (single hand clearly visible, the other arm out of frame), head tilted back with the throat elongated and a half-lidded vacant gaze, Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Podium Champagne White gala column in white and gold: white liquid latex wet-look floor-length column gown clinging to the body as if soaked in champagne, halter neckline, a gold winner's sash across the torso, gold opera gloves, gold laurel choker, chrome O-ring choker ELE. white patent stiletto sandals with 14cm gold needle heel and no platform and open peep-toe and gold ankle buckle. medium close-up shot framed bust-up to face from low angle 30 degrees, one XXXL fingertip of the SINGLE right hand caught between the teeth (only ONE visible hand — the other arm fully out of frame), eyes locked on the lens, glossy lips parted around the nail, face dominant in upper-mid frame, deep décolleté in lower frame, Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Podium Champagne White gala column in white and gold: white liquid latex wet-look floor-length column gown clinging to the body as if soaked in champagne, halter neckline, a gold winner's sash across the torso, gold opera gloves, gold laurel choker, chrome O-ring choker ELE. white patent stiletto sandals with 14cm gold needle heel and no platform and open peep-toe and gold ankle buckle. reclining at a 3/4 angle toward the camera with the body twisted so the chest faces partly forward, one knee bent in front and the other leg extended with the white patent stiletto sandal pointed, one arm resting across the hip with XXXL nails and the other arm pressing behind for support (exactly two arms), gaze directly to camera, Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🩵 Look 365: Petronas Yacht Bikini (01/06/2026 — batch 361-370 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Petronas Yacht Bikini · Bikini Polo A Beach · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look365_petronas_yacht_bikini/`
+- **Categoría:** Bikini
+- **Subcategoría:** Bikini Polo A Beach — Monaco GP Yacht
+- **Tags:** #bikini #yacht #monaco #mercedes #petronas #teal #silver #poleposition #v46
+- **Concepto:** Cubierta de superyate en el GP de Mónaco: bikini wet-look teal con franja de carrera y herrajes cromados. Lujo de paddock flotante.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Monaco GP yacht + Lybethras swim
+  - **Material:** Teal wet-look spandex + chrome
+  - **Acabado:** Wet-look gloss
+  - **Color:** Turquoise-teal + silver Petronas
+  - **Silueta:** Bikini triángulo wet-look teal con franja de carrera plateada + brief brasileño high-cut con O-rings cromados
+  - **Detalle específico:** Chrome body chain en cadera, gafas de sol espejo, navel piercing visible
+  - **Hardware:** O-rings cromados, body chain chrome, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Sandalia stiletto / mule pin heel
+  - **Altura:** 13cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Open-toe
+  - **Material upper:** Wet-look teal + tiras chrome
+  - **Color:** Teal
+  - **Hardware:** Hebilla chrome
+  - **Sole/finish:** Suela nude
+- **Ambientación:** Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Petronas Yacht Bikini in turquoise teal and silver: teal wet-look triangle bikini top with a silver racing stripe and a high-cut Brazilian brief with chrome O-ring hardware, chrome body chain on the hips, mirror sunglasses, navel piercing visible, chrome O-ring choker ELE. teal stiletto sandals with 13cm chrome needle heel and no platform and open-toe and chrome buckle. standing with both arms pulled behind the lower back and the wrists together with XXXL nails clasped at the base of the spine (exactly two arms, hands clasped behind), the spine arched forcing the chest forward, chin raised, both teal stiletto sandal together, composed sensual gaze, Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Petronas Yacht Bikini in turquoise teal and silver: teal wet-look triangle bikini top with a silver racing stripe and a high-cut Brazilian brief with chrome O-ring hardware, chrome body chain on the hips, mirror sunglasses, navel piercing visible, chrome O-ring choker ELE. teal stiletto sandals with 13cm chrome needle heel and no platform and open-toe and chrome buckle. full body back view with a deep lumbar arch, BOTH HANDS CLASPED TOGETHER LOW at the small of the back well below the cherry red hairline (the two hands joined in one single clear spot, exactly two arms, no third hand), head turned over the left shoulder looking back at the camera, weight on one teal stiletto sandal the other heel slightly lifted, exaggerating the wide hips and small waist, Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Petronas Yacht Bikini in turquoise teal and silver: teal wet-look triangle bikini top with a silver racing stripe and a high-cut Brazilian brief with chrome O-ring hardware, chrome body chain on the hips, mirror sunglasses, navel piercing visible, chrome O-ring choker ELE. teal stiletto sandals with 13cm chrome needle heel and no platform and open-toe and chrome buckle. seated with one knee crossed high over the other, the top teal stiletto sandal pointed toward camera in sharp foreground, one XXXL-nailed hand resting on the top knee and the other hand flat behind on the seat, chest lifted with the shoulders rolled back, confident direct gaze, lips parted softly, Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Petronas Yacht Bikini in turquoise teal and silver: teal wet-look triangle bikini top with a silver racing stripe and a high-cut Brazilian brief with chrome O-ring hardware, chrome body chain on the hips, mirror sunglasses, navel piercing visible, chrome O-ring choker ELE. teal stiletto sandals with 13cm chrome needle heel and no platform and open-toe and chrome buckle. full body strict side profile with an extreme backward lumbar arch — the chest thrust up and forward, the hip pushed back, the chin lifted — both arms at the sides with XXXL nails grazing the outer thighs (exactly two arms), one teal stiletto sandal slightly ahead, the perfect S-curve silhouette, Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Petronas Yacht Bikini in turquoise teal and silver: teal wet-look triangle bikini top with a silver racing stripe and a high-cut Brazilian brief with chrome O-ring hardware, chrome body chain on the hips, mirror sunglasses, navel piercing visible, chrome O-ring choker ELE. teal stiletto sandals with 13cm chrome needle heel and no platform and open-toe and chrome buckle. medium shot (plano medio) framed from the waist up to just above the head — the face is large, sharp and highly detailed and the augmented bust with deep décolleté is prominent in the lower frame (this is NOT a full-body shot, NOT a distant wide shot, NOT knee-up — waist-up only, face close to camera), ONE XXXL fingertip resting against the bottom lip (single hand clearly visible, the other arm out of frame), soft daydreaming unfocused eyes and lips softly parted, head tilted, Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Petronas Yacht Bikini in turquoise teal and silver: teal wet-look triangle bikini top with a silver racing stripe and a high-cut Brazilian brief with chrome O-ring hardware, chrome body chain on the hips, mirror sunglasses, navel piercing visible, chrome O-ring choker ELE. teal stiletto sandals with 13cm chrome needle heel and no platform and open-toe and chrome buckle. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand raised near the cheek with XXXL French nails fingertips spread in sharp foreground (only ONE visible hand — the other arm fully out of frame), confident pouty glossy gaze into the lens, face dominant in upper-mid frame, deep décolleté in lower frame, Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Petronas Yacht Bikini in turquoise teal and silver: teal wet-look triangle bikini top with a silver racing stripe and a high-cut Brazilian brief with chrome O-ring hardware, chrome body chain on the hips, mirror sunglasses, navel piercing visible, chrome O-ring choker ELE. teal stiletto sandals with 13cm chrome needle heel and no platform and open-toe and chrome buckle. lying on one side in a graceful S-curve with the back arched, one leg extended with the teal stiletto sandal pointed at camera and the other knee bent, one arm tucked under the head with XXXL nails in the hair and the other hand resting on the hip (exactly two arms), confident gaze to camera, cherry red hair cascading across the surface, Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🏍️ Look 366: British Racing Green MotoGP (01/06/2026 — batch 361-370 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · British Racing Green MotoGP · Escort Polo C Domme de Club · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look366_british_racing_green_motogp/`
+- **Categoría:** Escort
+- **Subcategoría:** Escort Polo C Domme de Club — MotoGP Leather
+- **Tags:** #escort #motogp #moto #britishracinggreen #leather #chrome #poleposition #v46
+- **Concepto:** Paddock de MotoGP: catsuit de cuero verde británico con rodilleras cromadas y arnés de carrera. Cuero y velocidad.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** MotoGP leathers + Newton harness
+  - **Material:** British racing green leather + chrome
+  - **Acabado:** Semi-gloss leather + chrome
+  - **Color:** British racing green + chrome (negro solo acento)
+  - **Silueta:** Catsuit de cuero moto verde británico con cierre frontal abierto al pecho, rodilleras cromadas, arnés de carrera sobre el torso
+  - **Detalle específico:** Guantes de cuero verde, cierre frontal abierto, navel area marcada
+  - **Hardware:** Rodilleras y arnés chrome, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Bota stiletto a la rodilla
+  - **Altura:** 13cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Cuero verde británico
+  - **Color:** British racing green
+  - **Hardware:** Hebillas chrome
+  - **Sole/finish:** Suela nude, aguja chrome
+- **Ambientación:** MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a British Racing Green MotoGP leather catsuit in British racing green and chrome: British racing green leather full moto catsuit with a front zip open to the chest and chrome knee sliders and a chrome racing harness across the torso, green leather gloves, chrome O-ring choker ELE. British racing green leather stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckles. standing with one green leather stiletto knee boot planted and the other leg crossed in front foot pointed in a catwalk hip-thrust, the hip cocked hard, one XXXL-nailed hand at the waist the other loose, head tilted with a pouty glossy gaze, MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a British Racing Green MotoGP leather catsuit in British racing green and chrome: British racing green leather full moto catsuit with a front zip open to the chest and chrome knee sliders and a chrome racing harness across the torso, green leather gloves, chrome O-ring choker ELE. British racing green leather stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckles. full body back view with the head dropped forward chin-to-chest exposing the nape of the neck, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands at the outer thighs and XXXL nails visible (exactly two arms two hands, no other limbs near the body), both green leather stiletto knee boot together, cherry red hair falling forward off the back, MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a British Racing Green MotoGP leather catsuit in British racing green and chrome: British racing green leather full moto catsuit with a front zip open to the chest and chrome knee sliders and a chrome racing harness across the torso, green leather gloves, chrome O-ring choker ELE. British racing green leather stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckles. perched on the edge of the seat with both legs pressed together and angled sharply to one side, both green leather stiletto knee boot pointed with heels close together, both XXXL-nailed hands pressing flat behind the hips in a backward lean that pushes the chest forward, soft gaze to camera, MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a British Racing Green MotoGP leather catsuit in British racing green and chrome: British racing green leather full moto catsuit with a front zip open to the chest and chrome knee sliders and a chrome racing harness across the torso, green leather gloves, chrome O-ring choker ELE. British racing green leather stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckles. full body side profile bent forward from the waist with the hips pushed back toward camera and the spine arched, both XXXL-nailed hands resting on the bent knee just above the green leather stiletto knee boot, looking back toward the lens over the shoulder, hair spilling down, MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a British Racing Green MotoGP leather catsuit in British racing green and chrome: British racing green leather full moto catsuit with a front zip open to the chest and chrome knee sliders and a chrome racing harness across the torso, green leather gloves, chrome O-ring choker ELE. British racing green leather stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckles. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the full augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand twirling a lock of cherry red hair beside the face (single hand clearly visible, the other arm out of frame), vacant sweet smile and eyes slightly unfocused in a ditzy daze, MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a British Racing Green MotoGP leather catsuit in British racing green and chrome: British racing green leather full moto catsuit with a front zip open to the chest and chrome knee sliders and a chrome racing harness across the torso, green leather gloves, chrome O-ring choker ELE. British racing green leather stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckles. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand at the lips blowing a kiss toward the lens with XXXL nails (only ONE visible hand — the other arm fully out of frame), half-lidded sultry eyes, face dominant in upper-mid frame, deep décolleté in lower frame, cherry red hair windblown, MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a British Racing Green MotoGP leather catsuit in British racing green and chrome: British racing green leather full moto catsuit with a front zip open to the chest and chrome knee sliders and a chrome racing harness across the torso, green leather gloves, chrome O-ring choker ELE. British racing green leather stiletto knee boots with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckles. reclining on the back with the shoulders propped up on both elbows, both knees drawn up and softly parted with one green leather stiletto knee boot planted, head tipped back toward camera, bust lifted, half-lidded gaze down the lens, cherry red hair pooling around the shoulders, MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🍷 Look 367: Burgundy Retro Racer 70s (01/06/2026 — batch 361-370 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Burgundy Retro Racer 70s · Pin-Up Polo C Decade Glam 70s · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look367_burgundy_retro_racer_70s/`
+- **Categoría:** Pin-Up
+- **Subcategoría:** Pin-Up Polo C Decade Glam 70s — Retro Racer
+- **Tags:** #pinup #retro #70s #racing #burgundy #vinos #gold #poleposition #v46
+- **Concepto:** Circuito de carreras de los años 70, grano de película: traje de piloto vintage entallado burdeos con vivos dorados. Glamour setentero de velocidad.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** 1970s racing suit + Saturday Night Fever glam
+  - **Material:** Burgundy vinyl + gold piping
+  - **Acabado:** Retro vinyl gloss
+  - **Color:** Burgundy + gold (familia vinos)
+  - **Silueta:** Traje de piloto vintage entallado burdeos con cierre frontal profundo y cuello retro ancho y vivos dorados, talle marcado
+  - **Detalle específico:** Gafas cat-eye, cierre abierto al escote, cinturón ancho dorado
+  - **Hardware:** Cierre y vivos dorados, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Plataforma stiletto retro
+  - **Altura:** 13cm aguja
+  - **Plataforma:** 3cm plataforma delantera retro
+  - **Toe:** Punta redonda almendra
+  - **Material upper:** Charol burdeos
+  - **Color:** Burgundy
+  - **Hardware:** Hebilla dorada
+  - **Sole/finish:** Plataforma retro, suela nude
+- **Ambientación:** 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Burgundy Retro Racer 70s vintage racing suit in burgundy and gold: burgundy vinyl 1970s racing suit fitted to the waist with a deep front zip and a wide retro collar and gold piping, a wide gold belt, cat-eye sunglasses, chrome O-ring choker ELE. burgundy patent platform stiletto heels with 13cm needle heel and a 3cm retro front platform and rounded almond-toe and gold buckle. one burgundy patent platform stiletto raised and planted on a low surface with the body leaning forward onto the raised knee, one XXXL-nailed hand on the knee and the other arm trailing back for counterbalance (exactly two arms), looking down at the lens, 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Burgundy Retro Racer 70s vintage racing suit in burgundy and gold: burgundy vinyl 1970s racing suit fitted to the waist with a deep front zip and a wide retro collar and gold piping, a wide gold belt, cat-eye sunglasses, chrome O-ring choker ELE. burgundy patent platform stiletto heels with 13cm needle heel and a 3cm retro front platform and rounded almond-toe and gold buckle. full body back view with the weight on one burgundy patent platform stiletto and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Burgundy Retro Racer 70s vintage racing suit in burgundy and gold: burgundy vinyl 1970s racing suit fitted to the waist with a deep front zip and a wide retro collar and gold piping, a wide gold belt, cat-eye sunglasses, chrome O-ring choker ELE. burgundy patent platform stiletto heels with 13cm needle heel and a 3cm retro front platform and rounded almond-toe and gold buckle. seated reclined back with one leg extended long toward camera and the burgundy patent platform stiletto pointed in sharp foreground, the other knee drawn up, one XXXL-nailed hand draped over the raised knee and the other arm stretched along the backrest, head resting back with a half-lidded gaze, 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Burgundy Retro Racer 70s vintage racing suit in burgundy and gold: burgundy vinyl 1970s racing suit fitted to the waist with a deep front zip and a wide retro collar and gold piping, a wide gold belt, cat-eye sunglasses, chrome O-ring choker ELE. burgundy patent platform stiletto heels with 13cm needle heel and a 3cm retro front platform and rounded almond-toe and gold buckle. full body strict side profile with one leg extended back in a soft arabesque the burgundy patent platform stiletto pointed directly behind, the other leg planted, one arm extending forward and the other sweeping back for balance (exactly two arms), deep arch, chin lifted, 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Burgundy Retro Racer 70s vintage racing suit in burgundy and gold: burgundy vinyl 1970s racing suit fitted to the waist with a deep front zip and a wide retro collar and gold piping, a wide gold belt, cat-eye sunglasses, chrome O-ring choker ELE. burgundy patent platform stiletto heels with 13cm needle heel and a 3cm retro front platform and rounded almond-toe and gold buckle. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand cupping her own cheek framing the face (single hand clearly visible, the other arm out of frame), lips in a soft round o and dreamy airheaded gaze, head tilted to one side, 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Burgundy Retro Racer 70s vintage racing suit in burgundy and gold: burgundy vinyl 1970s racing suit fitted to the waist with a deep front zip and a wide retro collar and gold piping, a wide gold belt, cat-eye sunglasses, chrome O-ring choker ELE. burgundy patent platform stiletto heels with 13cm needle heel and a 3cm retro front platform and rounded almond-toe and gold buckle. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand reaching toward the camera lens with fingertips extended and XXXL nails sharp in the foreground as if to touch the glass (only ONE visible hand — the other arm fully out of frame), half-lidded direct gaze above the reaching hand, décolleté in lower frame, 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Burgundy Retro Racer 70s vintage racing suit in burgundy and gold: burgundy vinyl 1970s racing suit fitted to the waist with a deep front zip and a wide retro collar and gold piping, a wide gold belt, cat-eye sunglasses, chrome O-ring choker ELE. burgundy patent platform stiletto heels with 13cm needle heel and a 3cm retro front platform and rounded almond-toe and gold buckle. lying on the stomach with the spine arched dramatically upward, both forearms flat on the surface supporting the raised chest, head lifted and looking directly at the camera with parted lips, both burgundy patent platform stiletto raised behind in a symmetrical V (exactly two arms on the surface, no other limbs raised), 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 💗 Look 368: Magenta Trophy Sequins (01/06/2026 — batch 361-370 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Magenta Trophy Sequins · Nightclub sequin mini · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look368_magenta_trophy_sequins/`
+- **Categoría:** Nightclub
+- **Subcategoría:** Nightclub sequin mini — After-Race VIP
+- **Tags:** #nightclub #afterrace #trophy #magenta #sequins #pink #poleposition #v46
+- **Concepto:** After-race en el club VIP de Mónaco: mini de lentejuelas magenta con motivo de bandera a cuadros en el ruedo. La fiesta después del podio.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Oh Polly going-out + Bottega party
+  - **Material:** Magenta sequins + HOTFIX crystal
+  - **Acabado:** Sequin sparkle high-shine
+  - **Color:** Hot magenta (familia rosas)
+  - **Silueta:** Mini-dress bodycon de lentejuelas magenta espejo con escote plunge profundo y motivo de bandera a cuadros en el ruedo
+  - **Detalle específico:** HOTFIX crystals hand-applied en el escote, espalda abierta, navel marcado bajo las lentejuelas
+  - **Hardware:** Crystal HOTFIX, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Stiletto pump con cristal
+  - **Altura:** 14cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Vinilo magenta con cristales
+  - **Color:** Hot magenta
+  - **Hardware:** Clasp cristal en empeine
+  - **Sole/finish:** Suela nude, aguja chrome
+- **Ambientación:** after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Magenta Trophy Sequins club mini in hot magenta: hot magenta mirror-sequin bodycon mini-dress with a deep plunge neckline and a checkered-flag motif at the hem and an open back, HOTFIX crystals hand-applied at the neckline, chrome O-ring choker ELE. hot magenta crystal stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe and crystal toe clasp. weight shifted hard onto one magenta crystal stiletto with the opposite hip dropped low in a deep contrapposto, one XXXL-nailed hand splayed flat at the hip and the other arm loose at the side with the fingers brushing the outer thigh (exactly two arms visible), chin tilted down to one side with the gaze lifting at the lens through the lashes, glossy lips parted, after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Magenta Trophy Sequins club mini in hot magenta: hot magenta mirror-sequin bodycon mini-dress with a deep plunge neckline and a checkered-flag motif at the hem and an open back, HOTFIX crystals hand-applied at the neckline, chrome O-ring choker ELE. hot magenta crystal stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe and crystal toe clasp. full body back view with a deep lumbar arch, BOTH HANDS CLASPED TOGETHER LOW at the small of the back well below the cherry red hairline (the two hands joined in one single clear spot, exactly two arms, no third hand), head turned over the left shoulder looking back at the camera, weight on one magenta crystal stiletto the other heel slightly lifted, exaggerating the wide hips and small waist, after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Magenta Trophy Sequins club mini in hot magenta: hot magenta mirror-sequin bodycon mini-dress with a deep plunge neckline and a checkered-flag motif at the hem and an open back, HOTFIX crystals hand-applied at the neckline, chrome O-ring choker ELE. hot magenta crystal stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe and crystal toe clasp. straddling the seat backward with both magenta crystal stiletto planted on either side, both forearms resting along the seat back with the chin resting sideways on one forearm and XXXL nails displayed near the face, the spine arched, looking directly at the camera, after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Magenta Trophy Sequins club mini in hot magenta: hot magenta mirror-sequin bodycon mini-dress with a deep plunge neckline and a checkered-flag motif at the hem and an open back, HOTFIX crystals hand-applied at the neckline, chrome O-ring choker ELE. hot magenta crystal stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe and crystal toe clasp. full body side profile with the hip cocked maximally to create the deepest hourglass, one XXXL-nailed hand sliding down the curve of the hip and the other arm raised, head tilted back with chin lifted, one magenta crystal stiletto pointed, after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Magenta Trophy Sequins club mini in hot magenta: hot magenta mirror-sequin bodycon mini-dress with a deep plunge neckline and a checkered-flag motif at the hem and an open back, HOTFIX crystals hand-applied at the neckline, chrome O-ring choker ELE. hot magenta crystal stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe and crystal toe clasp. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE index finger with the XXXL nail touching the tip of the chin (single hand clearly visible, the other arm out of frame), head tilted back with the throat elongated and a half-lidded vacant gaze, after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Magenta Trophy Sequins club mini in hot magenta: hot magenta mirror-sequin bodycon mini-dress with a deep plunge neckline and a checkered-flag motif at the hem and an open back, HOTFIX crystals hand-applied at the neckline, chrome O-ring choker ELE. hot magenta crystal stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe and crystal toe clasp. medium close-up shot framed bust-up to face from low angle 30 degrees, one XXXL fingertip of the SINGLE right hand caught between the teeth (only ONE visible hand — the other arm fully out of frame), eyes locked on the lens, glossy lips parted around the nail, face dominant in upper-mid frame, deep décolleté in lower frame, after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Magenta Trophy Sequins club mini in hot magenta: hot magenta mirror-sequin bodycon mini-dress with a deep plunge neckline and a checkered-flag motif at the hem and an open back, HOTFIX crystals hand-applied at the neckline, chrome O-ring choker ELE. hot magenta crystal stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe and crystal toe clasp. reclining at a 3/4 angle toward the camera with the body twisted so the chest faces partly forward, one knee bent in front and the other leg extended with the magenta crystal stiletto pointed, one arm resting across the hip with XXXL nails and the other arm pressing behind for support (exactly two arms), gaze directly to camera, after-race VIP nightclub in Monaco with a chrome mirror bar and neon and champagne towers, dark glamorous lighting, race trophies on display, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🩶 Look 369: Carbon Fiber Couture (01/06/2026 — batch 361-370 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Carbon Fiber Couture · HF Editorial · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look369_carbon_fiber_couture/`
+- **Categoría:** High-Fashion Editorial
+- **Subcategoría:** HF Editorial — Carbon Aero Sculpture
+- **Tags:** #hf #editorial #carbonfiber #aero #graphite #chrome #poleposition #v46
+- **Concepto:** Túnel de viento como pasarela: gown escultórico de fibra de carbono con boning cromado expuesto y aleta aerodinámica en el hombro. Velocidad hecha alta costura.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Iris van Herpen + F1 aero design
+  - **Material:** Carbon-fiber-gloss vinyl + chrome
+  - **Acabado:** Carbon weave gloss + chrome
+  - **Color:** Graphite carbon + chrome (familia plateados/grafito)
+  - **Silueta:** Gown escultórico de fibra de carbono gloss con boning cromado expuesto, aleta aerodinámica arquitectónica en un hombro, ruedo asimétrico que revela la pierna
+  - **Detalle específico:** Estructura aero couture, pierna descubierta por el corte asimétrico
+  - **Hardware:** Boning chrome expuesto, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Stiletto pump (HF — solo aguja, sin plataforma)
+  - **Altura:** 14cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Vinilo espejo chrome
+  - **Color:** Mirror chrome
+  - **Hardware:** Empeine chrome
+  - **Sole/finish:** Suela nude, aguja chrome
+- **Ambientación:** design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Carbon Fiber Couture sculptural gown in graphite carbon and chrome: carbon-fiber-gloss sculptural gown with exposed chrome boning and an architectural aerodynamic fin sweeping from one shoulder and an asymmetric hem revealing one leg, chrome O-ring choker ELE. chrome mirror stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe. standing tall with BOTH ARMS raised overhead lifting the cherry red hair up off the shoulders, elbows framing the face, deep lumbar arch pushing the chest forward, both chrome mirror stiletto pump together, chin high, confident gaze down the lens, design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Carbon Fiber Couture sculptural gown in graphite carbon and chrome: carbon-fiber-gloss sculptural gown with exposed chrome boning and an architectural aerodynamic fin sweeping from one shoulder and an asymmetric hem revealing one leg, chrome O-ring choker ELE. chrome mirror stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe. full body back view with the head dropped forward chin-to-chest exposing the nape of the neck, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands at the outer thighs and XXXL nails visible (exactly two arms two hands, no other limbs near the body), both chrome mirror stiletto pump together, cherry red hair falling forward off the back, design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Carbon Fiber Couture sculptural gown in graphite carbon and chrome: carbon-fiber-gloss sculptural gown with exposed chrome boning and an architectural aerodynamic fin sweeping from one shoulder and an asymmetric hem revealing one leg, chrome O-ring choker ELE. chrome mirror stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe. seated with one knee crossed high over the other, the top chrome mirror stiletto pump pointed toward camera in sharp foreground, one XXXL-nailed hand resting on the top knee and the other hand flat behind on the seat, chest lifted with the shoulders rolled back, confident direct gaze, lips parted softly, design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Carbon Fiber Couture sculptural gown in graphite carbon and chrome: carbon-fiber-gloss sculptural gown with exposed chrome boning and an architectural aerodynamic fin sweeping from one shoulder and an asymmetric hem revealing one leg, chrome O-ring choker ELE. chrome mirror stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe. full body strict side profile with an extreme backward lumbar arch — the chest thrust up and forward, the hip pushed back, the chin lifted — both arms at the sides with XXXL nails grazing the outer thighs (exactly two arms), one chrome mirror stiletto pump slightly ahead, the perfect S-curve silhouette, design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Carbon Fiber Couture sculptural gown in graphite carbon and chrome: carbon-fiber-gloss sculptural gown with exposed chrome boning and an architectural aerodynamic fin sweeping from one shoulder and an asymmetric hem revealing one leg, chrome O-ring choker ELE. chrome mirror stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe. medium shot (plano medio) framed from the waist up to just above the head — the face is large, sharp and highly detailed and the augmented bust with deep décolleté is prominent in the lower frame (this is NOT a full-body shot, NOT a distant wide shot, NOT knee-up — waist-up only, face close to camera), ONE XXXL fingertip resting against the bottom lip (single hand clearly visible, the other arm out of frame), soft daydreaming unfocused eyes and lips softly parted, head tilted, design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Carbon Fiber Couture sculptural gown in graphite carbon and chrome: carbon-fiber-gloss sculptural gown with exposed chrome boning and an architectural aerodynamic fin sweeping from one shoulder and an asymmetric hem revealing one leg, chrome O-ring choker ELE. chrome mirror stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand raised near the cheek with XXXL French nails fingertips spread in sharp foreground (only ONE visible hand — the other arm fully out of frame), confident pouty glossy gaze into the lens, face dominant in upper-mid frame, deep décolleté in lower frame, design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Carbon Fiber Couture sculptural gown in graphite carbon and chrome: carbon-fiber-gloss sculptural gown with exposed chrome boning and an architectural aerodynamic fin sweeping from one shoulder and an asymmetric hem revealing one leg, chrome O-ring choker ELE. chrome mirror stiletto pumps with 14cm chrome needle heel and no platform and sharp pointed-toe. lying on one side in a graceful S-curve with the back arched, one leg extended with the chrome mirror stiletto pump pointed at camera and the other knee bent, one arm tucked under the head with XXXL nails in the hair and the other hand resting on the hip (exactly two arms), confident gaze to camera, cherry red hair cascading across the surface, design wind-tunnel studio with white seamless walls and carbon-fiber panels and a single hard editorial spotlight, smoke streamlines in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 💜 Look 370: Violet Team Principal (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+
+*POLE POSITION · Violet Team Principal · Corporate Polo B Office Siren · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look370_violet_team_principal/`
+- **Categoría:** Corporate
+- **Subcategoría:** Corporate Polo B Office Siren — Team Principal
+- **Tags:** #corporate #officeSiren #teamprincipal #violet #amethyst #poleposition #v46
+- **Concepto:** Jefa de equipo en el muro de boxes: blazer-dress de latex violeta con hombros filosos, blusa sheer con nipple peek y headset. Mando con tacón.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Severance/Office Siren + pit wall
+  - **Material:** Deep violet latex + sheer
+  - **Acabado:** High-gloss latex + sheer
+  - **Color:** Deep violet/amethyst (familia morados)
+  - **Silueta:** Blazer-dress de latex violeta profundo con hombros estructurados filosos sobre blusa sheer violeta con nipple peek, falda a media pierna
+  - **Detalle específico:** Headset de team principal, cinturón cromado al talle, blusa transparente
+  - **Hardware:** Cinturón chrome, headset, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Stiletto pump
+  - **Altura:** 13cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Charol violeta
+  - **Color:** Deep violet
+  - **Hardware:** Hebilla chrome
+  - **Sole/finish:** Suela nude, aguja chrome
+- **Ambientación:** F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Violet Team Principal power dress in deep violet amethyst: deep violet latex blazer-dress with sharp structured shoulders over a sheer violet blouse with a nipple peek and a fitted skirt to mid-thigh, a chrome belt at the waist, a team-principal headset, chrome O-ring choker ELE. deep violet patent stiletto pumps with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckle. standing in a wide power stance with both violet patent stiletto pump planted apart, BOTH HANDS on the hips with XXXL nails splayed, chest thrust forward, spine straight, direct commanding gaze to camera, cherry red hair over both shoulders, F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Violet Team Principal power dress in deep violet amethyst: deep violet latex blazer-dress with sharp structured shoulders over a sheer violet blouse with a nipple peek and a fitted skirt to mid-thigh, a chrome belt at the waist, a team-principal headset, chrome O-ring choker ELE. deep violet patent stiletto pumps with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckle. full body back view with the weight on one violet patent stiletto pump and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Violet Team Principal power dress in deep violet amethyst: deep violet latex blazer-dress with sharp structured shoulders over a sheer violet blouse with a nipple peek and a fitted skirt to mid-thigh, a chrome belt at the waist, a team-principal headset, chrome O-ring choker ELE. deep violet patent stiletto pumps with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckle. perched on the edge of the seat with both legs pressed together and angled sharply to one side, both violet patent stiletto pump pointed with heels close together, both XXXL-nailed hands pressing flat behind the hips in a backward lean that pushes the chest forward, soft gaze to camera, F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Violet Team Principal power dress in deep violet amethyst: deep violet latex blazer-dress with sharp structured shoulders over a sheer violet blouse with a nipple peek and a fitted skirt to mid-thigh, a chrome belt at the waist, a team-principal headset, chrome O-ring choker ELE. deep violet patent stiletto pumps with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckle. full body side profile bent forward from the waist with the hips pushed back toward camera and the spine arched, both XXXL-nailed hands resting on the bent knee just above the violet patent stiletto pump, looking back toward the lens over the shoulder, hair spilling down, F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Violet Team Principal power dress in deep violet amethyst: deep violet latex blazer-dress with sharp structured shoulders over a sheer violet blouse with a nipple peek and a fitted skirt to mid-thigh, a chrome belt at the waist, a team-principal headset, chrome O-ring choker ELE. deep violet patent stiletto pumps with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckle. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the full augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand twirling a lock of cherry red hair beside the face (single hand clearly visible, the other arm out of frame), vacant sweet smile and eyes slightly unfocused in a ditzy daze, F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Violet Team Principal power dress in deep violet amethyst: deep violet latex blazer-dress with sharp structured shoulders over a sheer violet blouse with a nipple peek and a fitted skirt to mid-thigh, a chrome belt at the waist, a team-principal headset, chrome O-ring choker ELE. deep violet patent stiletto pumps with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckle. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand at the lips blowing a kiss toward the lens with XXXL nails (only ONE visible hand — the other arm fully out of frame), half-lidded sultry eyes, face dominant in upper-mid frame, deep décolleté in lower frame, cherry red hair windblown, F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Violet Team Principal power dress in deep violet amethyst: deep violet latex blazer-dress with sharp structured shoulders over a sheer violet blouse with a nipple peek and a fitted skirt to mid-thigh, a chrome belt at the waist, a team-principal headset, chrome O-ring choker ELE. deep violet patent stiletto pumps with 13cm chrome needle heel and no platform and sharp pointed-toe and chrome buckle. reclining on the back with the shoulders propped up on both elbows, both knees drawn up and softly parted with one violet patent stiletto pump planted, head tipped back toward camera, bust lifted, half-lidded gaze down the lens, cherry red hair pooling around the shoulders, F1 pit wall with a row of blurred timing monitors and team garage behind, headset stands, cool blue screen glow and dark tones, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🤍 Look 371: White Fur Snow Bunny (01/06/2026 — batch 371-380 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · White Fur Snow Bunny · Domestic Polo A Trophy · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look371_white_fur_snow_bunny/`
+- **Categoría:** Domestic
+- **Subcategoría:** Domestic Polo A Trophy — Ski Bunny
+- **Tags:** #domestic #trophy #apresski #snowbunny #white #fur #courchevel #v46
+- **Concepto:** Llegando al chalet en la nieve: chaqueta puffer de vinilo blanco abierta, micro bodysuit de latex y ribete de piel. Bomboncito de la montaña.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Courchevel ski bunny + Trophy Wife
+  - **Material:** White patent puffer-vinyl + faux fur + latex
+  - **Acabado:** Patent gloss + fluffy fur
+  - **Color:** White + white fur (familia blancos)
+  - **Silueta:** Chaqueta puffer crop de vinilo blanco charol abierta + micro bodysuit de latex blanco + ribete y cuello de piel sintética blanca
+  - **Detalle específico:** Pompones de piel, micro bodysuit high-cut, navel piercing visible
+  - **Hardware:** Cierre chrome, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Bota stiletto thigh-high (nieve)
+  - **Altura:** 13cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Charol blanco + ribete piel
+  - **Color:** Blanco
+  - **Hardware:** Cierre lateral chrome
+  - **Sole/finish:** Suela nude (NO plana, NO snow boot plano)
+- **Ambientación:** luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a White Fur Snow Bunny après-ski look in white: white patent puffer-vinyl cropped jacket worn open over a white latex high-cut micro bodysuit, white faux-fur trim collar and cuffs and fur pom details, navel piercing visible, chrome O-ring choker ELE. white patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe and white faux-fur trim at the top. weight shifted hard onto one white patent stiletto thigh boot with the opposite hip dropped low in a deep contrapposto, one XXXL-nailed hand splayed flat at the hip and the other arm loose at the side with the fingers brushing the outer thigh (exactly two arms visible), chin tilted down to one side with the gaze lifting at the lens through the lashes, glossy lips parted, luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a White Fur Snow Bunny après-ski look in white: white patent puffer-vinyl cropped jacket worn open over a white latex high-cut micro bodysuit, white faux-fur trim collar and cuffs and fur pom details, navel piercing visible, chrome O-ring choker ELE. white patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe and white faux-fur trim at the top. full body back view with the weight on one white patent stiletto thigh boot and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a White Fur Snow Bunny après-ski look in white: white patent puffer-vinyl cropped jacket worn open over a white latex high-cut micro bodysuit, white faux-fur trim collar and cuffs and fur pom details, navel piercing visible, chrome O-ring choker ELE. white patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe and white faux-fur trim at the top. seated with one knee crossed high over the other, the top white patent stiletto thigh boot pointed toward camera in sharp foreground, one XXXL-nailed hand resting on the top knee and the other hand flat behind on the seat, chest lifted with the shoulders rolled back, confident direct gaze, lips parted softly, luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a White Fur Snow Bunny après-ski look in white: white patent puffer-vinyl cropped jacket worn open over a white latex high-cut micro bodysuit, white faux-fur trim collar and cuffs and fur pom details, navel piercing visible, chrome O-ring choker ELE. white patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe and white faux-fur trim at the top. full body strict side profile with an extreme backward lumbar arch — the chest thrust up and forward, the hip pushed back, the chin lifted — both arms at the sides with XXXL nails grazing the outer thighs (exactly two arms), one white patent stiletto thigh boot slightly ahead, the perfect S-curve silhouette, luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a White Fur Snow Bunny après-ski look in white: white patent puffer-vinyl cropped jacket worn open over a white latex high-cut micro bodysuit, white faux-fur trim collar and cuffs and fur pom details, navel piercing visible, chrome O-ring choker ELE. white patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe and white faux-fur trim at the top. medium shot (plano medio) framed from the waist up to just above the head — the face is large, sharp and highly detailed and the augmented bust with deep décolleté is prominent in the lower frame (this is NOT a full-body shot, NOT a distant wide shot, NOT knee-up — waist-up only, face close to camera), ONE XXXL fingertip resting against the bottom lip (single hand clearly visible, the other arm out of frame), soft daydreaming unfocused eyes and lips softly parted, head tilted, luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a White Fur Snow Bunny après-ski look in white: white patent puffer-vinyl cropped jacket worn open over a white latex high-cut micro bodysuit, white faux-fur trim collar and cuffs and fur pom details, navel piercing visible, chrome O-ring choker ELE. white patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe and white faux-fur trim at the top. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand raised near the cheek with XXXL French nails fingertips spread in sharp foreground (only ONE visible hand — the other arm fully out of frame), confident pouty glossy gaze into the lens, face dominant in upper-mid frame, deep décolleté in lower frame, luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a White Fur Snow Bunny après-ski look in white: white patent puffer-vinyl cropped jacket worn open over a white latex high-cut micro bodysuit, white faux-fur trim collar and cuffs and fur pom details, navel piercing visible, chrome O-ring choker ELE. white patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe and white faux-fur trim at the top. lying on one side in a graceful S-curve with the back arched, one leg extended with the white patent stiletto thigh boot pointed at camera and the other knee bent, one arm tucked under the head with XXXL nails in the hair and the other hand resting on the hip (exactly two arms), confident gaze to camera, cherry red hair cascading across the surface, luxury ski chalet exterior in fresh deep snow with a chairlift and alpine peaks behind, golden alpine afternoon light, snow sparkling, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🥂 Look 372: Champagne Fireside Boudoir (01/06/2026 — batch 371-380 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Champagne Fireside Boudoir · Lencería Polo A Boudoir · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look372_champagne_fireside_boudoir/`
+- **Categoría:** Lencería
+- **Subcategoría:** Lencería Polo A Boudoir — Chalet Fireside
+- **Tags:** #lenceria #boudoir #apresski #chalet #champagne #gold #fur #courchevel #v46
+- **Concepto:** Junto al fuego del chalet: bodysuit de silk-satin champaña con escote profundo y estola de piel. Calor de chimenea sobre piel.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** La Perla boudoir + chalet luxe
+  - **Material:** Champagne silk-satin wet-look + faux fur
+  - **Acabado:** Wet-satin gloss + fur
+  - **Color:** Champagne gold + fur (familia dorados)
+  - **Silueta:** Bodysuit de silk-satin champaña wet-look con escote en V profundo + estola de piel sintética champaña + medias veladas con liguero
+  - **Detalle específico:** Estola de piel cayendo de los hombros, liguero champaña, medias con costura
+  - **Hardware:** Broches dorados liguero, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Stiletto mule con ribete de piel
+  - **Altura:** 12cm aguja dorada
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Open-toe peep
+  - **Material upper:** Silk-satin champaña + piel
+  - **Color:** Champagne
+  - **Hardware:** Ribete piel sintética
+  - **Sole/finish:** Suela nude, aguja dorada
+- **Ambientación:** chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Champagne Fireside Boudoir set in champagne gold: champagne silk-satin wet-look bodysuit with a deep V neckline and a champagne faux-fur stole falling off the shoulders, a champagne garter belt and seamed stockings, chrome O-ring choker ELE. champagne silk-satin stiletto mules with 12cm gold needle heel and no platform and open peep-toe and faux-fur trim. standing tall with BOTH ARMS raised overhead lifting the cherry red hair up off the shoulders, elbows framing the face, deep lumbar arch pushing the chest forward, both champagne fur-trim stiletto mule together, chin high, confident gaze down the lens, chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Champagne Fireside Boudoir set in champagne gold: champagne silk-satin wet-look bodysuit with a deep V neckline and a champagne faux-fur stole falling off the shoulders, a champagne garter belt and seamed stockings, chrome O-ring choker ELE. champagne silk-satin stiletto mules with 12cm gold needle heel and no platform and open peep-toe and faux-fur trim. full body back view with a deep lumbar arch, BOTH HANDS CLASPED TOGETHER LOW at the small of the back well below the cherry red hairline (the two hands joined in one single clear spot, exactly two arms, no third hand), head turned over the left shoulder looking back at the camera, weight on one champagne fur-trim stiletto mule the other heel slightly lifted, exaggerating the wide hips and small waist, chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Champagne Fireside Boudoir set in champagne gold: champagne silk-satin wet-look bodysuit with a deep V neckline and a champagne faux-fur stole falling off the shoulders, a champagne garter belt and seamed stockings, chrome O-ring choker ELE. champagne silk-satin stiletto mules with 12cm gold needle heel and no platform and open peep-toe and faux-fur trim. perched on the edge of the seat with both legs pressed together and angled sharply to one side, both champagne fur-trim stiletto mule pointed with heels close together, both XXXL-nailed hands pressing flat behind the hips in a backward lean that pushes the chest forward, soft gaze to camera, chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Champagne Fireside Boudoir set in champagne gold: champagne silk-satin wet-look bodysuit with a deep V neckline and a champagne faux-fur stole falling off the shoulders, a champagne garter belt and seamed stockings, chrome O-ring choker ELE. champagne silk-satin stiletto mules with 12cm gold needle heel and no platform and open peep-toe and faux-fur trim. full body side profile bent forward from the waist with the hips pushed back toward camera and the spine arched, both XXXL-nailed hands resting on the bent knee just above the champagne fur-trim stiletto mule, looking back toward the lens over the shoulder, hair spilling down, chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Champagne Fireside Boudoir set in champagne gold: champagne silk-satin wet-look bodysuit with a deep V neckline and a champagne faux-fur stole falling off the shoulders, a champagne garter belt and seamed stockings, chrome O-ring choker ELE. champagne silk-satin stiletto mules with 12cm gold needle heel and no platform and open peep-toe and faux-fur trim. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the full augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand twirling a lock of cherry red hair beside the face (single hand clearly visible, the other arm out of frame), vacant sweet smile and eyes slightly unfocused in a ditzy daze, chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Champagne Fireside Boudoir set in champagne gold: champagne silk-satin wet-look bodysuit with a deep V neckline and a champagne faux-fur stole falling off the shoulders, a champagne garter belt and seamed stockings, chrome O-ring choker ELE. champagne silk-satin stiletto mules with 12cm gold needle heel and no platform and open peep-toe and faux-fur trim. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand at the lips blowing a kiss toward the lens with XXXL nails (only ONE visible hand — the other arm fully out of frame), half-lidded sultry eyes, face dominant in upper-mid frame, deep décolleté in lower frame, cherry red hair windblown, chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Champagne Fireside Boudoir set in champagne gold: champagne silk-satin wet-look bodysuit with a deep V neckline and a champagne faux-fur stole falling off the shoulders, a champagne garter belt and seamed stockings, chrome O-ring choker ELE. champagne silk-satin stiletto mules with 12cm gold needle heel and no platform and open peep-toe and faux-fur trim. reclining on the back with the shoulders propped up on both elbows, both knees drawn up and softly parted with one champagne fur-trim stiletto mule planted, head tipped back toward camera, bust lifted, half-lidded gaze down the lens, cherry red hair pooling around the shoulders, chalet interior beside a roaring stone fireplace with sheepskin rugs and wooden beams, warm flickering firelight, snow visible through a frosted window, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🩹 Look 373: Silver Slope Siren (01/06/2026 — batch 371-380 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Silver Slope Siren · Gym Polo B Athleisure · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look373_silver_slope_siren/`
+- **Categoría:** Gym
+- **Subcategoría:** Gym Polo B Athleisure — Slope Siren
+- **Tags:** #gym #athleisure #ski #slopesiren #silver #plata #courchevel #v46
+- **Concepto:** En plena pista con la nieve volando: ski-suit plateado espejo con cierre abierto al ombligo y antiparras en la frente. Sirena de la nieve.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Ski racing suit + GymShark glam
+  - **Material:** Silver mirror wet-look
+  - **Acabado:** Mirror metallic gloss
+  - **Color:** Silver/plata (familia plateados)
+  - **Silueta:** Catsuit ski-suit plateado espejo entallado con cierre frontal abierto hasta el ombligo y paneles térmicos de carrera
+  - **Detalle específico:** Antiparras de ski cromadas en la frente, cierre abierto, navel piercing visible
+  - **Hardware:** Cierre chrome, antiparras chrome, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Pleaser platform stiletto (nieve)
+  - **Altura:** 8 pulgadas aguja chrome
+  - **Plataforma:** 4 pulgadas plataforma plateada
+  - **Toe:** Open-toe / punta
+  - **Material upper:** Wet-look plateado espejo
+  - **Color:** Silver mirror
+  - **Hardware:** Hebilla chrome
+  - **Sole/finish:** Plataforma plateada, aguja chrome (NO bota plana)
+- **Ambientación:** open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Silver Slope Siren ski-suit in mirror silver: silver mirror wet-look ski-suit catsuit fitted to the body with a front zip open to the navel and racing thermal panels, chrome ski goggles pushed up on the forehead, navel piercing visible, chrome O-ring choker ELE. silver mirror Pleaser platform stiletto with 8-inch chrome needle heel and 4-inch silver platform and chrome ankle buckle. standing in a wide power stance with both silver Pleaser platform stiletto planted apart, BOTH HANDS on the hips with XXXL nails splayed, chest thrust forward, spine straight, direct commanding gaze to camera, cherry red hair over both shoulders, open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Silver Slope Siren ski-suit in mirror silver: silver mirror wet-look ski-suit catsuit fitted to the body with a front zip open to the navel and racing thermal panels, chrome ski goggles pushed up on the forehead, navel piercing visible, chrome O-ring choker ELE. silver mirror Pleaser platform stiletto with 8-inch chrome needle heel and 4-inch silver platform and chrome ankle buckle. full body back view with the head dropped forward chin-to-chest exposing the nape of the neck, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands at the outer thighs and XXXL nails visible (exactly two arms two hands, no other limbs near the body), both silver Pleaser platform stiletto together, cherry red hair falling forward off the back, open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Silver Slope Siren ski-suit in mirror silver: silver mirror wet-look ski-suit catsuit fitted to the body with a front zip open to the navel and racing thermal panels, chrome ski goggles pushed up on the forehead, navel piercing visible, chrome O-ring choker ELE. silver mirror Pleaser platform stiletto with 8-inch chrome needle heel and 4-inch silver platform and chrome ankle buckle. seated reclined back with one leg extended long toward camera and the silver Pleaser platform stiletto pointed in sharp foreground, the other knee drawn up, one XXXL-nailed hand draped over the raised knee and the other arm stretched along the backrest, head resting back with a half-lidded gaze, open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Silver Slope Siren ski-suit in mirror silver: silver mirror wet-look ski-suit catsuit fitted to the body with a front zip open to the navel and racing thermal panels, chrome ski goggles pushed up on the forehead, navel piercing visible, chrome O-ring choker ELE. silver mirror Pleaser platform stiletto with 8-inch chrome needle heel and 4-inch silver platform and chrome ankle buckle. full body strict side profile with one leg extended back in a soft arabesque the silver Pleaser platform stiletto pointed directly behind, the other leg planted, one arm extending forward and the other sweeping back for balance (exactly two arms), deep arch, chin lifted, open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Silver Slope Siren ski-suit in mirror silver: silver mirror wet-look ski-suit catsuit fitted to the body with a front zip open to the navel and racing thermal panels, chrome ski goggles pushed up on the forehead, navel piercing visible, chrome O-ring choker ELE. silver mirror Pleaser platform stiletto with 8-inch chrome needle heel and 4-inch silver platform and chrome ankle buckle. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand cupping her own cheek framing the face (single hand clearly visible, the other arm out of frame), lips in a soft round o and dreamy airheaded gaze, head tilted to one side, open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Silver Slope Siren ski-suit in mirror silver: silver mirror wet-look ski-suit catsuit fitted to the body with a front zip open to the navel and racing thermal panels, chrome ski goggles pushed up on the forehead, navel piercing visible, chrome O-ring choker ELE. silver mirror Pleaser platform stiletto with 8-inch chrome needle heel and 4-inch silver platform and chrome ankle buckle. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand reaching toward the camera lens with fingertips extended and XXXL nails sharp in the foreground as if to touch the glass (only ONE visible hand — the other arm fully out of frame), half-lidded direct gaze above the reaching hand, décolleté in lower frame, open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Silver Slope Siren ski-suit in mirror silver: silver mirror wet-look ski-suit catsuit fitted to the body with a front zip open to the navel and racing thermal panels, chrome ski goggles pushed up on the forehead, navel piercing visible, chrome O-ring choker ELE. silver mirror Pleaser platform stiletto with 8-inch chrome needle heel and 4-inch silver platform and chrome ankle buckle. lying on the stomach with the spine arched dramatically upward, both forearms flat on the surface supporting the raised chest, head lifted and looking directly at the camera with parted lips, both silver Pleaser platform stiletto raised behind in a symmetrical V (exactly two arms on the surface, no other limbs raised), open ski slope in fresh powder snow with ski poles planted and a brilliant blue sky and snow spray kicked up, crisp alpine daylight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## ❄️ Look 374: Snow Queen Crystal Gala (01/06/2026 — batch 371-380 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Snow Queen Crystal Gala · Alfombra Roja/Gala · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look374_snow_queen_crystal_gala/`
+- **Categoría:** Alfombra Roja
+- **Subcategoría:** Alfombra Roja/Gala — Snow Queen
+- **Tags:** #alfombraroja #gala #snowqueen #crystal #iridescent #icicle #courchevel #v46
+- **Concepto:** Reina de las nieves en el palacio de hielo: gown blanco líquido con carámbanos de cristal Swarovski irradiando de los hombros y cola de escarcha.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Schiaparelli sculptural + ice palace
+  - **Material:** White liquid latex + Swarovski crystal
+  - **Acabado:** Liquid gloss + crystal facets (iridescent)
+  - **Color:** White + crystal iridescent (familia iridiscentes)
+  - **Silueta:** Gown blanco líquido con carámbanos de cristal Swarovski irradiando de ambos hombros, corpiño cubierto de cristal, cola catedral de escarcha
+  - **Detalle específico:** Shards de cristal escultóricos en los hombros, corpiño facetado, train de escarcha
+  - **Hardware:** Cristal Swarovski, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Stiletto de cristal
+  - **Altura:** 14cm aguja de cristal
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Acrílico cristal transparente
+  - **Color:** Clear crystal
+  - **Hardware:** Cristales facetados
+  - **Sole/finish:** Suela nude, aguja de cristal
+- **Ambientación:** frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Snow Queen Crystal Gala gown in white and iridescent crystal: white liquid latex gown with icicle Swarovski crystal shards radiating sculpturally from both shoulders and a crystal-encrusted bodice and a cathedral train of frost, chrome O-ring choker ELE. clear crystal stiletto heels with 14cm crystal needle heel and no platform and sharp pointed-toe. caught mid-stride walking toward the lens, one clear crystal stiletto forward and the hips swinging, one XXXL-nailed hand pushing back through the cherry red hair and the other swinging at the side, direct sultry gaze, lips parted, frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Snow Queen Crystal Gala gown in white and iridescent crystal: white liquid latex gown with icicle Swarovski crystal shards radiating sculpturally from both shoulders and a crystal-encrusted bodice and a cathedral train of frost, chrome O-ring choker ELE. clear crystal stiletto heels with 14cm crystal needle heel and no platform and sharp pointed-toe. full body back view with the weight on one clear crystal stiletto and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Snow Queen Crystal Gala gown in white and iridescent crystal: white liquid latex gown with icicle Swarovski crystal shards radiating sculpturally from both shoulders and a crystal-encrusted bodice and a cathedral train of frost, chrome O-ring choker ELE. clear crystal stiletto heels with 14cm crystal needle heel and no platform and sharp pointed-toe. straddling the seat backward with both clear crystal stiletto planted on either side, both forearms resting along the seat back with the chin resting sideways on one forearm and XXXL nails displayed near the face, the spine arched, looking directly at the camera, frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Snow Queen Crystal Gala gown in white and iridescent crystal: white liquid latex gown with icicle Swarovski crystal shards radiating sculpturally from both shoulders and a crystal-encrusted bodice and a cathedral train of frost, chrome O-ring choker ELE. clear crystal stiletto heels with 14cm crystal needle heel and no platform and sharp pointed-toe. full body side profile with the hip cocked maximally to create the deepest hourglass, one XXXL-nailed hand sliding down the curve of the hip and the other arm raised, head tilted back with chin lifted, one clear crystal stiletto pointed, frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Snow Queen Crystal Gala gown in white and iridescent crystal: white liquid latex gown with icicle Swarovski crystal shards radiating sculpturally from both shoulders and a crystal-encrusted bodice and a cathedral train of frost, chrome O-ring choker ELE. clear crystal stiletto heels with 14cm crystal needle heel and no platform and sharp pointed-toe. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE index finger with the XXXL nail touching the tip of the chin (single hand clearly visible, the other arm out of frame), head tilted back with the throat elongated and a half-lidded vacant gaze, frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Snow Queen Crystal Gala gown in white and iridescent crystal: white liquid latex gown with icicle Swarovski crystal shards radiating sculpturally from both shoulders and a crystal-encrusted bodice and a cathedral train of frost, chrome O-ring choker ELE. clear crystal stiletto heels with 14cm crystal needle heel and no platform and sharp pointed-toe. medium close-up shot framed bust-up to face from low angle 30 degrees, one XXXL fingertip of the SINGLE right hand caught between the teeth (only ONE visible hand — the other arm fully out of frame), eyes locked on the lens, glossy lips parted around the nail, face dominant in upper-mid frame, deep décolleté in lower frame, frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Snow Queen Crystal Gala gown in white and iridescent crystal: white liquid latex gown with icicle Swarovski crystal shards radiating sculpturally from both shoulders and a crystal-encrusted bodice and a cathedral train of frost, chrome O-ring choker ELE. clear crystal stiletto heels with 14cm crystal needle heel and no platform and sharp pointed-toe. reclining at a 3/4 angle toward the camera with the body twisted so the chest faces partly forward, one knee bent in front and the other leg extended with the clear crystal stiletto pointed, one arm resting across the hip with XXXL nails and the other arm pressing behind for support (exactly two arms), gaze directly to camera, frozen ice-palace ballroom with crystal chandeliers and carved ice sculptures and a mirror-ice floor, cold blue-white light with sparkle, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## ⛸️ Look 375: Lilac Ice Skater (01/06/2026 — batch 371-380 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Lilac Ice Skater · Pin-Up · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look375_lilac_ice_skater/`
+- **Categoría:** Pin-Up
+- **Subcategoría:** Pin-Up — Ice Skater Fetish
+- **Tags:** #pinup #iceskater #lilac #lavender #morados #crystal #courchevel #v46
+- **Concepto:** Patinadora sobre el lago helado al atardecer: vestido de patinaje lila con corpiño de cristal y faldita acampanada. Cuento de hadas invernal.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Figure skating dress + Pin-Up flare
+  - **Material:** Lilac latex + crystal + sheer tights
+  - **Acabado:** Latex gloss + crystal
+  - **Color:** Lilac-ice (familia morados/lavanda)
+  - **Silueta:** Vestido de patinaje de latex lila con falda corta acampanada y corpiño cubierto de cristal + medias veladas lila + ribete de piel
+  - **Detalle específico:** Corpiño facetado, falda flare que vuela, ribete de piel en escote
+  - **Hardware:** Cristales, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Botín stiletto con cordón tipo patín (NO patín plano, NO cuchilla)
+  - **Altura:** 12cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta almendra
+  - **Material upper:** Latex lila con cordón decorativo
+  - **Color:** Lilac
+  - **Hardware:** Cordón blanco tipo skate, hebilla chrome
+  - **Sole/finish:** Suela nude, aguja chrome (decorativa skate, sin cuchilla)
+- **Ambientación:** outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Lilac Ice Skater fetish dress in lilac-ice: lilac latex figure-skating dress with a short flared skirt and a crystal-covered bodice and a fur trim at the neckline, sheer lilac tights, chrome O-ring choker ELE. lilac stiletto ankle boots with a decorative white skate-lace detail and 12cm chrome needle heel and no platform and almond-toe (decorative skate styling, no flat blade). standing with both arms pulled behind the lower back and the wrists together with XXXL nails clasped at the base of the spine (exactly two arms, hands clasped behind), the spine arched forcing the chest forward, chin raised, both lilac stiletto skate-lace ankle boot together, composed sensual gaze, outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Lilac Ice Skater fetish dress in lilac-ice: lilac latex figure-skating dress with a short flared skirt and a crystal-covered bodice and a fur trim at the neckline, sheer lilac tights, chrome O-ring choker ELE. lilac stiletto ankle boots with a decorative white skate-lace detail and 12cm chrome needle heel and no platform and almond-toe (decorative skate styling, no flat blade). full body back view with a deep lumbar arch, BOTH HANDS CLASPED TOGETHER LOW at the small of the back well below the cherry red hairline (the two hands joined in one single clear spot, exactly two arms, no third hand), head turned over the left shoulder looking back at the camera, weight on one lilac stiletto skate-lace ankle boot the other heel slightly lifted, exaggerating the wide hips and small waist, outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Lilac Ice Skater fetish dress in lilac-ice: lilac latex figure-skating dress with a short flared skirt and a crystal-covered bodice and a fur trim at the neckline, sheer lilac tights, chrome O-ring choker ELE. lilac stiletto ankle boots with a decorative white skate-lace detail and 12cm chrome needle heel and no platform and almond-toe (decorative skate styling, no flat blade). seated with one knee crossed high over the other, the top lilac stiletto skate-lace ankle boot pointed toward camera in sharp foreground, one XXXL-nailed hand resting on the top knee and the other hand flat behind on the seat, chest lifted with the shoulders rolled back, confident direct gaze, lips parted softly, outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Lilac Ice Skater fetish dress in lilac-ice: lilac latex figure-skating dress with a short flared skirt and a crystal-covered bodice and a fur trim at the neckline, sheer lilac tights, chrome O-ring choker ELE. lilac stiletto ankle boots with a decorative white skate-lace detail and 12cm chrome needle heel and no platform and almond-toe (decorative skate styling, no flat blade). full body strict side profile with an extreme backward lumbar arch — the chest thrust up and forward, the hip pushed back, the chin lifted — both arms at the sides with XXXL nails grazing the outer thighs (exactly two arms), one lilac stiletto skate-lace ankle boot slightly ahead, the perfect S-curve silhouette, outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Lilac Ice Skater fetish dress in lilac-ice: lilac latex figure-skating dress with a short flared skirt and a crystal-covered bodice and a fur trim at the neckline, sheer lilac tights, chrome O-ring choker ELE. lilac stiletto ankle boots with a decorative white skate-lace detail and 12cm chrome needle heel and no platform and almond-toe (decorative skate styling, no flat blade). medium shot (plano medio) framed from the waist up to just above the head — the face is large, sharp and highly detailed and the augmented bust with deep décolleté is prominent in the lower frame (this is NOT a full-body shot, NOT a distant wide shot, NOT knee-up — waist-up only, face close to camera), ONE XXXL fingertip resting against the bottom lip (single hand clearly visible, the other arm out of frame), soft daydreaming unfocused eyes and lips softly parted, head tilted, outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Lilac Ice Skater fetish dress in lilac-ice: lilac latex figure-skating dress with a short flared skirt and a crystal-covered bodice and a fur trim at the neckline, sheer lilac tights, chrome O-ring choker ELE. lilac stiletto ankle boots with a decorative white skate-lace detail and 12cm chrome needle heel and no platform and almond-toe (decorative skate styling, no flat blade). medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand raised near the cheek with XXXL French nails fingertips spread in sharp foreground (only ONE visible hand — the other arm fully out of frame), confident pouty glossy gaze into the lens, face dominant in upper-mid frame, deep décolleté in lower frame, outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Lilac Ice Skater fetish dress in lilac-ice: lilac latex figure-skating dress with a short flared skirt and a crystal-covered bodice and a fur trim at the neckline, sheer lilac tights, chrome O-ring choker ELE. lilac stiletto ankle boots with a decorative white skate-lace detail and 12cm chrome needle heel and no platform and almond-toe (decorative skate styling, no flat blade). lying on one side in a graceful S-curve with the back arched, one leg extended with the lilac stiletto skate-lace ankle boot pointed at camera and the other knee bent, one arm tucked under the head with XXXL nails in the hair and the other hand resting on the hip (exactly two arms), confident gaze to camera, cherry red hair cascading across the surface, outdoor ice rink on a frozen pond at dusk with warm string lights overhead and snow falling softly, deep blue twilight, frost in the air, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🍷 Look 376: Glühwein Red Après (01/06/2026 — batch 371-380 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Glühwein Red Après · Nightclub · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look376_glühwein_red_après/`
+- **Categoría:** Nightclub
+- **Subcategoría:** Nightclub — Après-Ski Bar
+- **Tags:** #nightclub #apresski #gluhwein #red #cherry #fur #white #courchevel #v46
+- **Concepto:** En el bar de vino caliente al bajar de la pista: mini wrap de latex rojo con capucha y puños de piel blanca. Rojo cereza sobre nieve (slot cherry del batch).
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Après-ski bar + Real Housewives glam
+  - **Material:** Red latex + white faux fur
+  - **Acabado:** High-gloss latex + fur
+  - **Color:** Red cherry + white fur (slot cherry del batch)
+  - **Silueta:** Mini wrap-dress de latex rojo ceñido con escote plunge profundo + capucha y puños de piel sintética blanca
+  - **Detalle específico:** Capucha de piel blanca, guantes rojos, cinturón anudado al talle
+  - **Hardware:** Cinturón anudado, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Bota stiletto thigh-high (nieve)
+  - **Altura:** 13cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Charol rojo
+  - **Color:** Red cherry
+  - **Hardware:** Cierre lateral chrome
+  - **Sole/finish:** Suela nude (NO plana)
+- **Ambientación:** cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Glühwein Red Après après-ski mini in cherry red and white fur: cherry red latex wrap mini-dress fitted with a deep plunge neckline and a white faux-fur hood and cuffs, red latex gloves, a tied belt at the waist, chrome O-ring choker ELE. cherry red patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe. standing with one red patent stiletto thigh boot planted and the other leg crossed in front foot pointed in a catwalk hip-thrust, the hip cocked hard, one XXXL-nailed hand at the waist the other loose, head tilted with a pouty glossy gaze, cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Glühwein Red Après après-ski mini in cherry red and white fur: cherry red latex wrap mini-dress fitted with a deep plunge neckline and a white faux-fur hood and cuffs, red latex gloves, a tied belt at the waist, chrome O-ring choker ELE. cherry red patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe. full body back view with the head dropped forward chin-to-chest exposing the nape of the neck, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands at the outer thighs and XXXL nails visible (exactly two arms two hands, no other limbs near the body), both red patent stiletto thigh boot together, cherry red hair falling forward off the back, cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Glühwein Red Après après-ski mini in cherry red and white fur: cherry red latex wrap mini-dress fitted with a deep plunge neckline and a white faux-fur hood and cuffs, red latex gloves, a tied belt at the waist, chrome O-ring choker ELE. cherry red patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe. perched on the edge of the seat with both legs pressed together and angled sharply to one side, both red patent stiletto thigh boot pointed with heels close together, both XXXL-nailed hands pressing flat behind the hips in a backward lean that pushes the chest forward, soft gaze to camera, cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Glühwein Red Après après-ski mini in cherry red and white fur: cherry red latex wrap mini-dress fitted with a deep plunge neckline and a white faux-fur hood and cuffs, red latex gloves, a tied belt at the waist, chrome O-ring choker ELE. cherry red patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe. full body side profile bent forward from the waist with the hips pushed back toward camera and the spine arched, both XXXL-nailed hands resting on the bent knee just above the red patent stiletto thigh boot, looking back toward the lens over the shoulder, hair spilling down, cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Glühwein Red Après après-ski mini in cherry red and white fur: cherry red latex wrap mini-dress fitted with a deep plunge neckline and a white faux-fur hood and cuffs, red latex gloves, a tied belt at the waist, chrome O-ring choker ELE. cherry red patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the full augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand twirling a lock of cherry red hair beside the face (single hand clearly visible, the other arm out of frame), vacant sweet smile and eyes slightly unfocused in a ditzy daze, cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Glühwein Red Après après-ski mini in cherry red and white fur: cherry red latex wrap mini-dress fitted with a deep plunge neckline and a white faux-fur hood and cuffs, red latex gloves, a tied belt at the waist, chrome O-ring choker ELE. cherry red patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand at the lips blowing a kiss toward the lens with XXXL nails (only ONE visible hand — the other arm fully out of frame), half-lidded sultry eyes, face dominant in upper-mid frame, deep décolleté in lower frame, cherry red hair windblown, cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Glühwein Red Après après-ski mini in cherry red and white fur: cherry red latex wrap mini-dress fitted with a deep plunge neckline and a white faux-fur hood and cuffs, red latex gloves, a tied belt at the waist, chrome O-ring choker ELE. cherry red patent stiletto thigh boots with 13cm chrome needle heel and no platform and sharp pointed-toe. reclining on the back with the shoulders propped up on both elbows, both knees drawn up and softly parted with one red patent stiletto thigh boot planted, head tipped back toward camera, bust lifted, half-lidded gaze down the lens, cherry red hair pooling around the shoulders, cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🦪 Look 377: Pearl Steam Spa (01/06/2026 — batch 371-380 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Pearl Steam Spa · Lencería Polo A Boudoir · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look377_pearl_steam_spa/`
+- **Categoría:** Lencería
+- **Subcategoría:** Lencería Polo A Boudoir — Mountain Spa
+- **Tags:** #lenceria #boudoir #spa #steam #pearl #nude #rosegold #courchevel #v46
+- **Concepto:** En el spa de montaña entre el vapor: bodysuit nude perla con efecto toalla en latex y cadena de oro rosa. Piel mojada y nieve afuera.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Mountain spa + boudoir
+  - **Material:** Pearl nude latex + rose gold chain
+  - **Acabado:** Pearlescent latex gloss
+  - **Color:** Nude pearl + rose gold (familia rosas/nude)
+  - **Silueta:** Bodysuit de latex nude perla con efecto de toalla envuelta al torso (ilusión de toalla en latex) ceñido al cuerpo
+  - **Detalle específico:** Cadena de oro rosa al cuello y cintura, pelo recogido, piel con rocío de vapor
+  - **Hardware:** Cadena rose gold, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Stiletto mule
+  - **Altura:** 12cm aguja rose gold
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Open-toe peep
+  - **Material upper:** Latex nude perla
+  - **Color:** Nude pearl
+  - **Hardware:** Detalle rose gold
+  - **Sole/finish:** Suela nude, aguja rose gold
+- **Ambientación:** luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pearl Steam Spa bodysuit in pearl nude and rose gold: pearl nude latex bodysuit with a wrapped-towel illusion across the torso clinging to the body, a rose-gold chain at the neck and waist, hair pinned up, dewy steam-misted skin, chrome O-ring choker ELE. pearl nude latex stiletto mules with 12cm rose-gold needle heel and no platform and open peep-toe. one nude pearl stiletto mule raised and planted on a low surface with the body leaning forward onto the raised knee, one XXXL-nailed hand on the knee and the other arm trailing back for counterbalance (exactly two arms), looking down at the lens, luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pearl Steam Spa bodysuit in pearl nude and rose gold: pearl nude latex bodysuit with a wrapped-towel illusion across the torso clinging to the body, a rose-gold chain at the neck and waist, hair pinned up, dewy steam-misted skin, chrome O-ring choker ELE. pearl nude latex stiletto mules with 12cm rose-gold needle heel and no platform and open peep-toe. full body back view with the weight on one nude pearl stiletto mule and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pearl Steam Spa bodysuit in pearl nude and rose gold: pearl nude latex bodysuit with a wrapped-towel illusion across the torso clinging to the body, a rose-gold chain at the neck and waist, hair pinned up, dewy steam-misted skin, chrome O-ring choker ELE. pearl nude latex stiletto mules with 12cm rose-gold needle heel and no platform and open peep-toe. seated reclined back with one leg extended long toward camera and the nude pearl stiletto mule pointed in sharp foreground, the other knee drawn up, one XXXL-nailed hand draped over the raised knee and the other arm stretched along the backrest, head resting back with a half-lidded gaze, luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pearl Steam Spa bodysuit in pearl nude and rose gold: pearl nude latex bodysuit with a wrapped-towel illusion across the torso clinging to the body, a rose-gold chain at the neck and waist, hair pinned up, dewy steam-misted skin, chrome O-ring choker ELE. pearl nude latex stiletto mules with 12cm rose-gold needle heel and no platform and open peep-toe. full body strict side profile with one leg extended back in a soft arabesque the nude pearl stiletto mule pointed directly behind, the other leg planted, one arm extending forward and the other sweeping back for balance (exactly two arms), deep arch, chin lifted, luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pearl Steam Spa bodysuit in pearl nude and rose gold: pearl nude latex bodysuit with a wrapped-towel illusion across the torso clinging to the body, a rose-gold chain at the neck and waist, hair pinned up, dewy steam-misted skin, chrome O-ring choker ELE. pearl nude latex stiletto mules with 12cm rose-gold needle heel and no platform and open peep-toe. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand cupping her own cheek framing the face (single hand clearly visible, the other arm out of frame), lips in a soft round o and dreamy airheaded gaze, head tilted to one side, luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pearl Steam Spa bodysuit in pearl nude and rose gold: pearl nude latex bodysuit with a wrapped-towel illusion across the torso clinging to the body, a rose-gold chain at the neck and waist, hair pinned up, dewy steam-misted skin, chrome O-ring choker ELE. pearl nude latex stiletto mules with 12cm rose-gold needle heel and no platform and open peep-toe. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand reaching toward the camera lens with fingertips extended and XXXL nails sharp in the foreground as if to touch the glass (only ONE visible hand — the other arm fully out of frame), half-lidded direct gaze above the reaching hand, décolleté in lower frame, luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pearl Steam Spa bodysuit in pearl nude and rose gold: pearl nude latex bodysuit with a wrapped-towel illusion across the torso clinging to the body, a rose-gold chain at the neck and waist, hair pinned up, dewy steam-misted skin, chrome O-ring choker ELE. pearl nude latex stiletto mules with 12cm rose-gold needle heel and no platform and open peep-toe. lying on the stomach with the spine arched dramatically upward, both forearms flat on the surface supporting the raised chest, head lifted and looking directly at the camera with parted lips, both nude pearl stiletto mule raised behind in a symmetrical V (exactly two arms on the surface, no other limbs raised), luxury mountain spa with rising steam and a stone hot tub and candlelight, snow and pines visible through a large frosted window, warm humid glow, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🌲 Look 378: Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Pine Green Heli-Ski · HF Editorial · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look378_pine_green_heli_ski/`
+- **Categoría:** High-Fashion Editorial
+- **Subcategoría:** HF Editorial — Heli-Ski Sculpture
+- **Tags:** #hf #editorial #heliski #pinegreen #emerald #verdes #chrome #courchevel #v46
+- **Concepto:** Editorial de heli-ski en la cumbre: catsuit térmico de latex verde pino esmeralda con hombro arquitectónico cromado y capucha de escarcha. Lujo extremo en la cima.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Iris van Herpen + heli-ski editorial
+  - **Material:** Emerald pine green thermal latex + chrome
+  - **Acabado:** High-gloss latex + chrome + frost
+  - **Color:** Emerald pine green (familia verdes) + chrome
+  - **Silueta:** Catsuit térmico de latex verde pino esmeralda escultórico con hombro arquitectónico cromado y capucha, detalle de escarcha en los bordes
+  - **Detalle específico:** Hombro escultórico chrome, capucha térmica, escarcha en costuras
+  - **Hardware:** Estructura chrome, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Bota stiletto a la rodilla (HF — solo aguja)
+  - **Altura:** 14cm aguja chrome
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta afilada
+  - **Material upper:** Latex verde + chrome
+  - **Color:** Emerald green / chrome
+  - **Hardware:** Cierre chrome
+  - **Sole/finish:** Suela nude, aguja chrome
+- **Ambientación:** a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pine Green Heli-Ski thermal catsuit in emerald pine green and chrome: emerald pine green thermal latex sculptural catsuit with an architectural chrome shoulder and a thermal hood and frost detailing along the seams, chrome O-ring choker ELE. chrome and emerald latex stiletto knee boots with 14cm chrome needle heel and no platform and sharp pointed-toe. weight shifted hard onto one chrome stiletto knee boot with the opposite hip dropped low in a deep contrapposto, one XXXL-nailed hand splayed flat at the hip and the other arm loose at the side with the fingers brushing the outer thigh (exactly two arms visible), chin tilted down to one side with the gaze lifting at the lens through the lashes, glossy lips parted, a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pine Green Heli-Ski thermal catsuit in emerald pine green and chrome: emerald pine green thermal latex sculptural catsuit with an architectural chrome shoulder and a thermal hood and frost detailing along the seams, chrome O-ring choker ELE. chrome and emerald latex stiletto knee boots with 14cm chrome needle heel and no platform and sharp pointed-toe. full body back view with a deep lumbar arch, BOTH HANDS CLASPED TOGETHER LOW at the small of the back well below the cherry red hairline (the two hands joined in one single clear spot, exactly two arms, no third hand), head turned over the left shoulder looking back at the camera, weight on one chrome stiletto knee boot the other heel slightly lifted, exaggerating the wide hips and small waist, a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pine Green Heli-Ski thermal catsuit in emerald pine green and chrome: emerald pine green thermal latex sculptural catsuit with an architectural chrome shoulder and a thermal hood and frost detailing along the seams, chrome O-ring choker ELE. chrome and emerald latex stiletto knee boots with 14cm chrome needle heel and no platform and sharp pointed-toe. straddling the seat backward with both chrome stiletto knee boot planted on either side, both forearms resting along the seat back with the chin resting sideways on one forearm and XXXL nails displayed near the face, the spine arched, looking directly at the camera, a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pine Green Heli-Ski thermal catsuit in emerald pine green and chrome: emerald pine green thermal latex sculptural catsuit with an architectural chrome shoulder and a thermal hood and frost detailing along the seams, chrome O-ring choker ELE. chrome and emerald latex stiletto knee boots with 14cm chrome needle heel and no platform and sharp pointed-toe. full body side profile with the hip cocked maximally to create the deepest hourglass, one XXXL-nailed hand sliding down the curve of the hip and the other arm raised, head tilted back with chin lifted, one chrome stiletto knee boot pointed, a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pine Green Heli-Ski thermal catsuit in emerald pine green and chrome: emerald pine green thermal latex sculptural catsuit with an architectural chrome shoulder and a thermal hood and frost detailing along the seams, chrome O-ring choker ELE. chrome and emerald latex stiletto knee boots with 14cm chrome needle heel and no platform and sharp pointed-toe. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE index finger with the XXXL nail touching the tip of the chin (single hand clearly visible, the other arm out of frame), head tilted back with the throat elongated and a half-lidded vacant gaze, a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pine Green Heli-Ski thermal catsuit in emerald pine green and chrome: emerald pine green thermal latex sculptural catsuit with an architectural chrome shoulder and a thermal hood and frost detailing along the seams, chrome O-ring choker ELE. chrome and emerald latex stiletto knee boots with 14cm chrome needle heel and no platform and sharp pointed-toe. medium close-up shot framed bust-up to face from low angle 30 degrees, one XXXL fingertip of the SINGLE right hand caught between the teeth (only ONE visible hand — the other arm fully out of frame), eyes locked on the lens, glossy lips parted around the nail, face dominant in upper-mid frame, deep décolleté in lower frame, a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Pine Green Heli-Ski thermal catsuit in emerald pine green and chrome: emerald pine green thermal latex sculptural catsuit with an architectural chrome shoulder and a thermal hood and frost detailing along the seams, chrome O-ring choker ELE. chrome and emerald latex stiletto knee boots with 14cm chrome needle heel and no platform and sharp pointed-toe. reclining at a 3/4 angle toward the camera with the body twisted so the chest faces partly forward, one knee bent in front and the other leg extended with the chrome stiletto knee boot pointed, one arm resting across the hip with XXXL nails and the other arm pressing behind for support (exactly two arms), gaze directly to camera, a helicopter resting on a windswept snow peak with dramatic mountain ranges below and rotor-wash snow swirling, stark high-altitude editorial light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 💙 Look 379: Sapphire Ice Escort (01/06/2026 — batch 371-380 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Sapphire Ice Escort · Escort Polo A Haute · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look379_sapphire_ice_escort/`
+- **Categoría:** Escort
+- **Subcategoría:** Escort Polo A Haute — Frozen Lake
+- **Tags:** #escort #haute #frozenlake #sapphire #iceblue #azules #liquidlame #courchevel #v46
+- **Concepto:** Junto al lago helado a la hora azul: gown de liquid lamé zafiro hielo con tajo profundo y espalda cowl drapeada. Frío de cristal, lujo de seda líquida.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Madame Claude column + frozen lake
+  - **Material:** Sapphire ice-blue liquid lamé
+  - **Acabado:** Liquid metallic gloss
+  - **Color:** Sapphire ice-blue (familia azules)
+  - **Silueta:** Gown de liquid lamé zafiro hielo bias-cut floor-length con tajo lateral profundo y espalda cowl drapeada baja
+  - **Detalle específico:** Aros de cristal escarcha, tajo revelando la pierna, drapeado líquido siguiendo el cuerpo
+  - **Hardware:** Aros cristal, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Sandalia stiletto
+  - **Altura:** 14cm aguja plateada
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Open-toe
+  - **Material upper:** Liquid lamé zafiro
+  - **Color:** Sapphire ice-blue
+  - **Hardware:** Tiras finas con cristal
+  - **Sole/finish:** Suela nude, aguja plateada
+- **Ambientación:** a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Sapphire Ice Escort gown in sapphire ice-blue: sapphire ice-blue liquid lamé bias-cut floor-length gown with a deep thigh-high side slit and a low draped cowl back, frost-crystal drop earrings, chrome O-ring choker ELE. sapphire liquid lamé stiletto sandals with 14cm silver needle heel and no platform and open-toe and fine crystal straps. standing tall with BOTH ARMS raised overhead lifting the cherry red hair up off the shoulders, elbows framing the face, deep lumbar arch pushing the chest forward, both sapphire stiletto sandal together, chin high, confident gaze down the lens, a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Sapphire Ice Escort gown in sapphire ice-blue: sapphire ice-blue liquid lamé bias-cut floor-length gown with a deep thigh-high side slit and a low draped cowl back, frost-crystal drop earrings, chrome O-ring choker ELE. sapphire liquid lamé stiletto sandals with 14cm silver needle heel and no platform and open-toe and fine crystal straps. full body back view with the head dropped forward chin-to-chest exposing the nape of the neck, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands at the outer thighs and XXXL nails visible (exactly two arms two hands, no other limbs near the body), both sapphire stiletto sandal together, cherry red hair falling forward off the back, a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Sapphire Ice Escort gown in sapphire ice-blue: sapphire ice-blue liquid lamé bias-cut floor-length gown with a deep thigh-high side slit and a low draped cowl back, frost-crystal drop earrings, chrome O-ring choker ELE. sapphire liquid lamé stiletto sandals with 14cm silver needle heel and no platform and open-toe and fine crystal straps. seated with one knee crossed high over the other, the top sapphire stiletto sandal pointed toward camera in sharp foreground, one XXXL-nailed hand resting on the top knee and the other hand flat behind on the seat, chest lifted with the shoulders rolled back, confident direct gaze, lips parted softly, a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Sapphire Ice Escort gown in sapphire ice-blue: sapphire ice-blue liquid lamé bias-cut floor-length gown with a deep thigh-high side slit and a low draped cowl back, frost-crystal drop earrings, chrome O-ring choker ELE. sapphire liquid lamé stiletto sandals with 14cm silver needle heel and no platform and open-toe and fine crystal straps. full body strict side profile with an extreme backward lumbar arch — the chest thrust up and forward, the hip pushed back, the chin lifted — both arms at the sides with XXXL nails grazing the outer thighs (exactly two arms), one sapphire stiletto sandal slightly ahead, the perfect S-curve silhouette, a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Sapphire Ice Escort gown in sapphire ice-blue: sapphire ice-blue liquid lamé bias-cut floor-length gown with a deep thigh-high side slit and a low draped cowl back, frost-crystal drop earrings, chrome O-ring choker ELE. sapphire liquid lamé stiletto sandals with 14cm silver needle heel and no platform and open-toe and fine crystal straps. medium shot (plano medio) framed from the waist up to just above the head — the face is large, sharp and highly detailed and the augmented bust with deep décolleté is prominent in the lower frame (this is NOT a full-body shot, NOT a distant wide shot, NOT knee-up — waist-up only, face close to camera), ONE XXXL fingertip resting against the bottom lip (single hand clearly visible, the other arm out of frame), soft daydreaming unfocused eyes and lips softly parted, head tilted, a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Sapphire Ice Escort gown in sapphire ice-blue: sapphire ice-blue liquid lamé bias-cut floor-length gown with a deep thigh-high side slit and a low draped cowl back, frost-crystal drop earrings, chrome O-ring choker ELE. sapphire liquid lamé stiletto sandals with 14cm silver needle heel and no platform and open-toe and fine crystal straps. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand raised near the cheek with XXXL French nails fingertips spread in sharp foreground (only ONE visible hand — the other arm fully out of frame), confident pouty glossy gaze into the lens, face dominant in upper-mid frame, deep décolleté in lower frame, a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Sapphire Ice Escort gown in sapphire ice-blue: sapphire ice-blue liquid lamé bias-cut floor-length gown with a deep thigh-high side slit and a low draped cowl back, frost-crystal drop earrings, chrome O-ring choker ELE. sapphire liquid lamé stiletto sandals with 14cm silver needle heel and no platform and open-toe and fine crystal straps. lying on one side in a graceful S-curve with the back arched, one leg extended with the sapphire stiletto sandal pointed at camera and the other knee bent, one arm tucked under the head with XXXL nails in the hair and the other hand resting on the hip (exactly two arms), confident gaze to camera, cherry red hair cascading across the surface, a frozen mountain lake at blue hour with cracked ice and distant chalet lights glowing warm, the figure's breath visible in the cold air, deep blue twilight, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
+
+## 🤎 Look 380: Cream Cashmere Hostess (01/06/2026 — batch 371-380 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+
+*COURCHEVEL · Cream Cashmere Hostess · Domestic Polo A Trophy · jiji.* ✨
+
+- **Ubicación:** `05_Imagenes/ele/look380_cream_cashmere_hostess/`
+- **Categoría:** Domestic
+- **Subcategoría:** Domestic Polo A Trophy — Lodge Hostess
+- **Tags:** #domestic #trophy #lodge #hostess #cream #cashmere #neutros #courchevel #v46
+- **Concepto:** Anfitriona del lodge al final del día: vestido wrap de latex con efecto cashmere crema, guantes y oro mínimo. Calor de lana sobre brillo plástico.
+- **Outfit canónico (7 campos):**
+  - **Marca/referencia:** Stepford Modern + alpine lodge
+  - **Material:** Cream latex cashmere-knit effect
+  - **Acabado:** Soft matte-sheen latex (cashmere illusion gloss)
+  - **Color:** Warm cream (familia neutros)
+  - **Silueta:** Vestido wrap de latex crema con textura de tejido cashmere, ceñido al cuerpo, escote cruzado, ruedo a media pierna
+  - **Detalle específico:** Guantes crema, joyería dorada mínima, cinturón anudado al talle
+  - **Hardware:** Oro mínimo, chrome O-ring choker ELE
+- **Tacones canónicos (8 campos):**
+  - **Tipo:** Stiletto pump
+  - **Altura:** 12cm aguja dorada
+  - **Plataforma:** Sin plataforma
+  - **Toe:** Punta almendra
+  - **Material upper:** Latex crema cashmere-effect
+  - **Color:** Cream
+  - **Hardware:** Detalle dorado
+  - **Sole/finish:** Suela nude, aguja dorada
+- **Ambientación:** luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+### 📸 Imágenes (0/7)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Cream Cashmere Hostess wrap dress in warm cream: cream latex wrap dress with a cashmere-knit texture effect clinging to the body, a crossed neckline and a tied belt at the waist and a mid-thigh hem, cream gloves, minimal gold jewellery, chrome O-ring choker ELE. cream latex stiletto pumps with 12cm gold needle heel and no platform and almond-toe. standing in a wide power stance with both cream stiletto pump planted apart, BOTH HANDS on the hips with XXXL nails splayed, chest thrust forward, spine straight, direct commanding gaze to camera, cherry red hair over both shoulders, luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Cream Cashmere Hostess wrap dress in warm cream: cream latex wrap dress with a cashmere-knit texture effect clinging to the body, a crossed neckline and a tied belt at the waist and a mid-thigh hem, cream gloves, minimal gold jewellery, chrome O-ring choker ELE. cream latex stiletto pumps with 12cm gold needle heel and no platform and almond-toe. full body back view with the weight on one cream stiletto pump and the hip cocked to one side, BOTH ARMS HANGING RELAXED STRAIGHT DOWN at the sides with the hands resting against the outer thighs and XXXL nails visible (exactly two arms and two hands, no other limbs near the body), head turned over the right shoulder looking back at the lens with parted lips, cherry red hair swept over one shoulder baring the back, luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Cream Cashmere Hostess wrap dress in warm cream: cream latex wrap dress with a cashmere-knit texture effect clinging to the body, a crossed neckline and a tied belt at the waist and a mid-thigh hem, cream gloves, minimal gold jewellery, chrome O-ring choker ELE. cream latex stiletto pumps with 12cm gold needle heel and no platform and almond-toe. perched on the edge of the seat with both legs pressed together and angled sharply to one side, both cream stiletto pump pointed with heels close together, both XXXL-nailed hands pressing flat behind the hips in a backward lean that pushes the chest forward, soft gaze to camera, luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Cream Cashmere Hostess wrap dress in warm cream: cream latex wrap dress with a cashmere-knit texture effect clinging to the body, a crossed neckline and a tied belt at the waist and a mid-thigh hem, cream gloves, minimal gold jewellery, chrome O-ring choker ELE. cream latex stiletto pumps with 12cm gold needle heel and no platform and almond-toe. full body side profile bent forward from the waist with the hips pushed back toward camera and the spine arched, both XXXL-nailed hands resting on the bent knee just above the cream stiletto pump, looking back toward the lens over the shoulder, hair spilling down, luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**5. Ditzy (plano medio):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Cream Cashmere Hostess wrap dress in warm cream: cream latex wrap dress with a cashmere-knit texture effect clinging to the body, a crossed neckline and a tied belt at the waist and a mid-thigh hem, cream gloves, minimal gold jewellery, chrome O-ring choker ELE. cream latex stiletto pumps with 12cm gold needle heel and no platform and almond-toe. medium shot (plano medio) framed waist-up — face large sharp and highly detailed and the full augmented bust prominent in the lower frame (NOT full-body, NOT distant, NOT knee-up), ONE XXXL-nailed hand twirling a lock of cherry red hair beside the face (single hand clearly visible, the other arm out of frame), vacant sweet smile and eyes slightly unfocused in a ditzy daze, luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**6. POV (single hand):**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Cream Cashmere Hostess wrap dress in warm cream: cream latex wrap dress with a cashmere-knit texture effect clinging to the body, a crossed neckline and a tied belt at the waist and a mid-thigh hem, cream gloves, minimal gold jewellery, chrome O-ring choker ELE. cream latex stiletto pumps with 12cm gold needle heel and no platform and almond-toe. medium close-up shot framed bust-up to face from low angle 30 degrees, the SINGLE right hand at the lips blowing a kiss toward the lens with XXXL nails (only ONE visible hand — the other arm fully out of frame), half-lidded sultry eyes, face dominant in upper-mid frame, deep décolleté in lower frame, cherry red hair windblown, luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Cream Cashmere Hostess wrap dress in warm cream: cream latex wrap dress with a cashmere-knit texture effect clinging to the body, a crossed neckline and a tied belt at the waist and a mid-thigh hem, cream gloves, minimal gold jewellery, chrome O-ring choker ELE. cream latex stiletto pumps with 12cm gold needle heel and no platform and almond-toe. reclining on the back with the shoulders propped up on both elbows, both knees drawn up and softly parted with one cream stiletto pump planted, head tipped back toward camera, bust lifted, half-lidded gaze down the lens, cherry red hair pooling around the shoulders, luxury alpine lodge lounge with fur throws and a crackling fireplace and floor-to-ceiling windows onto a snowy night, warm amber interior light, 8k editorial fashion photography.
+
+Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, asymmetric features, distorted body, mutated hands, fused hands, third arm, extra arm, additional hands, extra fingers, missing fingers, flat shoes, sneakers, barefoot, kitten heel, wedge, chunky heel, chunky platform, chunky sole, ice skate blade, ski boot flat, snow boot flat, bimbo (word), naked, nude, child, underage, drawing, illustration, anime, cartoon, painting, sketch, 3d render
+```
+
+---
