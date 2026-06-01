@@ -19,6 +19,14 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 31/05/2026 (Sync imágenes app L345-L360 — 15 poses nuevas) ✅
+- **Materialización vía app (era app ≥291):** `git pull` trajo 15 PNG nuevos. `sync_imagenes_subidas.py` normalizó nombres + vinculó trackers; `update_galleries.py` recompiló todo.
+- **Tokyo Decadence:** L345, L346, L348, L349, L350 — Standing c/u.
+- **Cuero y Sangre:** L351-L356, L358, L360 — Standing c/u · L357 Standing + Back View.
+- **Total:** 14 looks con imágenes, 15 poses materializadas en los batches nuevos. Faltan 6 poses/look (app sube progresivamente).
+- **Commit `a20f4822`.** Flota **L360 · 277 únicos** (sin cambios — materialización, no expansión).
+- **Pendientes:** materializar poses restantes L291-L360 vía app · lectura Ama Cap 1 v0.3 · graphify 01_Canon.
+
 ### Sesión 31/05/2026 (Rediseño de 210 poses L331-L360 — variedad + sensualidad) ✅
 - **Problema detectado por la Ama:** las poses de los 3 batches nuevos (L331-L360) eran repetitivas — misma fórmula entre looks.
 - **Rediseño completo:** 210 poses reescritas con repertorio variado y rotado (Standing contrapposto/silla/manos-atrás/arco-C/catwalk/mid-stride · Seated straddling/perched/cross-legged/colgando · Side arabesque/arco-C/hip-cock/walking · Odalisque boca-abajo/3/4/diosa-caída). ADN+outfit intactos (Ley de Continuidad) — solo cambió pose+encuadre.

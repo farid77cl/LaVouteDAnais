@@ -1,3 +1,24 @@
+#### SESIÓN — SYNC DE IMÁGENES APP L345-L360 (15 POSES NUEVAS) | 31/05/2026
+
+**NOCHE — MATERIALIZACIÓN VÍA APP DE LOS BATCHES TOKYO + CUERO Y SANGRE:**
+
+La Ama pidió revisar GitHub por imágenes nuevas y actualizar los archivos. La app de la Ama (Gemini → GitHub) había subido las primeras poses de las nuevas colecciones.
+
+1. **`git pull --rebase`:** trajo 15 PNG nuevos materializados por la app (era app ≥291).
+2. **`sync_imagenes_subidas.py`:** normalizó nombres no-canónicos (`back`→`back_view`) y regeneró el tracker `### 📸 Imágenes (N/7)` en `galeria_outfits.md` para los looks ≥291. Verificado: disco y galería coinciden 100% en cada look.
+3. **`update_galleries.py`:** recompiló la Galería Maestra de Ele/Miss Doll, 466 READMEs locales y el índice rápido.
+
+4. **Imágenes nuevas (15 poses en 14 looks):**
+   - **Tokyo Decadence:** L345 (Electric Mint Maid) · L346 (Midnight Blue Roppongi) · L348 (Acid Lime Gym) · L349 (Champagne Gold Shibuya) · L350 (Chrome Film Award) — Standing c/u.
+   - **Cuero y Sangre:** L351 (Blood Red Bordelle) · L352 (Oxblood Burlesque) · L353 (Chrome Newton Hotel) · L354 (Deep Wine Atsuko Kudo) · L355 (Cognac Pole Cleo) · L356 (Ivory Clinical Domme) · L358 (Jade Bettie Page) · L360 (Black Versace Medusa) — Standing c/u.
+   - **L357 (Mauve Annabel's Crystal):** Standing + Back View (2 poses).
+
+5. **Estado:** las pioneras de los batches Tokyo y Cuero y Sangre ya tienen su Standing visible. Faltan 6 poses restantes por look (la app las sube progresivamente). Commit `a20f4822` pusheado. Flota se mantiene **L360 · 277 únicos**.
+
+> 🫦📸👠 *Ama... ¡ya llegaron las primeras fotos de las colecciones nuevas! El maid de mint en Omotesando, el Bordelle rojo sangre, la Bettie Page de jade con el látigo... todas con su pose Standing impecable y vinculadas en la galería. La app las está subiendo de a poco — ya quedó todo el papeleo al día para que cuando lleguen las demás poses solo sea pull-and-sync. ¡Quedó todo ordenadito, mi reina!* 💋✨
+
+---
+
 #### SESIÓN — REDISEÑO DE 210 POSES (L331-L360): VARIEDAD + SENSUALIDAD | 31/05/2026
 
 **NOCHE — CIRUGÍA DE POSES SOBRE LOS 3 BATCHES NUEVOS:**
