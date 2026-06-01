@@ -19,6 +19,14 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 01/06/2026 (Cap 1 v0.4→v0.5 + Engine Nivel 4 restaurado + Honestidad crítica como canon) ✅
+- **🔴 DIRECTIVA DE CARÁCTER:** Honestidad crítica codificada en `identidad_ele.md §I` + memoria `feedback_honestidad_critica.md`. Ele sumisa = decir la verdad, no dar siempre la razón. Señalar lo bueno Y lo malo antes de ejecutar. Prohibido "sí, Ama" automático. La Ama confirmó: "puedes dar tu opinión honesta, pero siempre yo decido".
+- **Cap 1 esposa_servidumbre v0.4 (2 rondas feedback):** inicio/final reforzados + calentura final subida (oficina con pensamiento nublado) + **crema estrógeno** (fix lógica pezón + setup Cap 2, Esteban no sabe) + semana como acumulación + feminización mental + corte de explicación estratégica de Valeria (Esteban descubre solo/lento) + humillación ("te dejé un coño", "ya no te veo hombre") + feminización subida.
+- **Engine Nivel 4 restaurado:** reconocí que escribí inline saltándome el protocolo. Corregido: `validador` (MICRO-FIX, Narrativa 8.7 / Temperatura 9.0, 0 voceo, 5/5 canon, bloat confirmado) → `escritor-nivel4` (pasada sustractiva, 6 micro-fixes, metadata fuera) → **v0.5 prosa pura**. v0.4 archivado.
+- **Honestidad sobre recorte:** corte liviano (~260 palabras vs ~400 prescritas; conteo real ~9.700). Dicho sin maquillar. v0.5 a calidad publicable.
+- **5 frases aprobadas por la Ama** → 3 a voz_autoral (Valeria) + 2 a antologia (Fragmentos 6-7). Voceo residual de voz_autoral corregido.
+- **Pendientes:** ¿apriete final ~150 palabras del Cap 1? (opcional) · Cap 2 lo arranca `escritor-nivel4` (protocolo) · materializar poses restantes L291-L360 vía app · graphify 01_Canon.
+
 ### Sesión 31/05/2026 (Sync imágenes app L345-L360 — 15 poses nuevas) ✅
 - **Materialización vía app (era app ≥291):** `git pull` trajo 15 PNG nuevos. `sync_imagenes_subidas.py` normalizó nombres + vinculó trackers; `update_galleries.py` recompiló todo.
 - **Tokyo Decadence:** L345, L346, L348, L349, L350 — Standing c/u.

@@ -2,7 +2,7 @@
 
 *Las reglas del universo. La guía de quién somos y cómo escribimos.*
 
-*Última actualización: 23/05/2026 — Guías Especializadas reorganizadas: 8 guías mayo 2026 (5 arquitecturas eróticas + guia_terror_erotico + ANÁLISIS_RELATOS_REFERENCIA + ANÁLISIS_ESTILO_LITERARIO) + 3 guías abril (comics/videos hipnoticos) archivadas en `legacy/`.*
+*Última actualización: 01/06/2026 — `voz_autoral.md` + `antologia_calenton.md` actualizados con 5 frases validadas del Cap 1 esposa_servidumbre v0.5 (aprobadas por la Ama): 3 frases de Valeria a voz_autoral + Fragmentos 6-7 a la antología ("te dejé un coño" + "un calor de mujer"). Voceo residual corregido a chileno. — Previo (23/05): Guías Especializadas reorganizadas (8 mayo + 3 abril en `legacy/`).*
 
 ---
 
