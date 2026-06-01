@@ -472,15 +472,25 @@ La mano bajó. Por el cuello, donde a Estefanía se le cerró la garganta. Por l
 
 Y Estefanía se quedó quieta.
 
-El círculo siguió, despacio, paciente, sobre el pezón hinchado, hasta que el pezón se levantó duro como una piedrita y mandó un hilo de corriente derecho a la pelvis presa, donde la verga doblada empezó a empujar el tape sin permiso. La cinta cedía un milímetro y volvía. Cedía y volvía.
+El círculo siguió, despacio, paciente, sobre el pezón hinchado, hasta que se levantó duro como una piedrita y mandó un hilo de corriente derecho a la pelvis presa, donde la verga doblada empezó a empujar el tape sin permiso. La cinta cedía un milímetro y volvía. Cedía y volvía. Valeria atrapó el pezón entre el índice y el pulgar de uñas largas y lo apretó —despacio, midiendo—, y lo hizo rodar. Estefanía arqueó la espalda contra el colchón sin decidirlo, la garganta abriéndose en un sonido que no había hecho nunca.
 
-Valeria pasó al otro pecho. Repitió. El segundo pezón se levantó tan rápido como el primero, y Estefanía gimió —un sonido bajo, corto, que se le escapó por el medio de la boca cerrada— y se asustó del sonido. Era femenino. Era el suyo. No estaba imitando: le salió así.
+—Míralos —murmuró Valeria, rodando el pezón otra vez, observándolo crecer entre sus dedos—. En una semana. Hinchados, blanditos abajo, duros arriba. Pezones de mina. —Lo apretó un punto más fuerte y Estefanía gimió—. ¿Quién diría que hace siete días eras hombre? Yo no. Yo ya no te veo hombre por ningún lado, mi amor. Ni con la luz prendida.
 
-—Ahí está —murmuró Valeria, y Estefanía sintió la sonrisa más que verla—. ¿Lo escuchaste? Ese es tu sonido nuevo. Lo fabriqué yo esta semana, gota a gota. Acostúmbrate.
+*Ya no me ve hombre.* La frase entró por el pezón apretado y bajó directo a la pelvis presa, y el cuerpo —humillado, descubierto— respondió con una mojadura nueva que Estefanía sintió extenderse caliente bajo el tape, traicionándola, dándole la razón a su mujer.
+
+Valeria pasó al otro pecho. Repitió. Apretó, rodó, tiró apenas hacia arriba como para ver hasta dónde estiraba. El segundo pezón se levantó tan rápido como el primero, y Estefanía gimió otra vez, más largo —un sonido bajo, mojado, que se le escapó por el medio de la boca cerrada— y se asustó de oírse. Era femenino. Era el suyo. No estaba imitando: le salía solo, desde un lugar nuevo, desde abajo.
+
+—Ahí está. —Estefanía sintió la sonrisa de Valeria contra la sien más que verla—. ¿Lo escuchaste? Ese gemido de mina en celo. Ese es tu sonido nuevo. —Le rodó el pezón una vez más, despacio, como quien comprueba algo que sabe y no dice—. Mira lo sensible que te pusiste en una semana. El cuerpo te está cambiando más rápido de lo que tú crees, mi amor. Acostúmbrate a oírte así. Lo vas a hacer mucho de ahora en adelante.
 
 La mano bajó. Por el costado del torso, por la cintura que el corsé de la semana ya le marcaba incluso sin corsé. Por la cadera. Por el muslo liso. Y de ahí adentro, despacio, hasta la pelvis plana donde no había nada que agarrar, solo superficie, solo la forma falsa y lisa de una entrepierna de mujer tensa bajo la seda. Apoyó la palma ahí, sobre el vacío, y presionó apenas.
 
-Estefanía gimió otra vez. Más fuerte. La cadera, sola, se empujó contra la mano. Buscó. Volvió a buscar. La verga doblada, presa, mojaba en la punta, y el calor que la mojadura difundía bajo la seda era distinto a cualquier calor que Esteban hubiera sentido como hombre: no era el calor concentrado de la verga lista para penetrar, era un calor diluido por toda la pelvis lisa, repartido, ondulante. Un calor de mujer.
+Estefanía gimió otra vez. Más fuerte. La cadera, sola, se empujó contra la mano. Buscó. Volvió a buscar. La verga doblada, presa, había mojado el algodón de la tanga y la seda encima, un círculo tibio que se ensanchaba, y el calor que esa mojadura difundía era distinto a cualquier calor que Esteban hubiera sentido como hombre: no era el calor concentrado de una verga parada apuntando a algo, era un calor diluido por toda la pelvis lisa, repartido, ondulante, sin punto fijo. Un calor de mujer.
+
+Valeria pasó la palma plana sobre el bulto que no era bulto, sobre la mancha húmeda, y soltó una risa baja, encantada.
+
+—Mírate. Ni siquiera se te para ya. Se te dobla y se moja, como debe ser. —Volvió a presionar, lento, sintiendo la verga atrapada latir inútil contra el tape—. Esto que tienes acá abajo ya no te sirve para lo que te servía, mi amor. Lo único que sabe hacer ahora es mojarse cuando lo tocan. Igual que el mío. —Acercó los labios a la oreja de Estefanía, el labial burdeos rozándole el lóbulo—. ¿Te das cuenta? Te dejé un coño. Tardé una semana, pero te lo dejé.
+
+Estefanía cerró los ojos con fuerza y la humillación de la frase —*te dejé un coño*— le bajó por dentro como agua hirviendo, y en lugar de apagar el calor lo dobló, lo triplicó, hasta que la cadera se empujó sola otra vez contra la mano de su mujer, mendigando, dándole la razón en cada centímetro.
 
 —Sientes eso, mi amor.
 
@@ -514,33 +524,29 @@ La mano empezó a moverse con ritmo sobre la pelvis lisa, presionando rítmica c
 
 Estefanía movió. Empujó. Empujó otra vez. La respiración se le hizo corta, alta, la del corsé aunque no tuviera corsé. Cada empuje le mandaba un golpecito eléctrico de la pelvis presa a la garganta. Los pezones, todavía duros, latían contra la seda. Estaba cerca de algo nuevo, algo que no había sentido nunca, algo que no era el orgasmo masculino que conocía —más largo, más ancho, más en oleadas que en explosión, algo que venía subiendo desde toda la pelvis a la vez y no desde un solo punto.
 
-Valeria lo sintió. Detuvo la mano.
+El ritmo subió. La oleada ancha trepó, esa cosa nueva que amenazaba con romper en cualquier empuje, y Estefanía empujó, y empujó, y abrió la boca para avisar que llegaba—
 
-—Quietita —dijo otra vez—. Quietita, Estefanía.
+Valeria sacó la mano.
 
-—No, por favor—
+—No.
 
-—Sí. Esta noche no terminas.
+Una sola palabra. Sin explicación. La pelvis de Estefanía se empujó contra el aire dos, tres veces más, sola, ridícula, buscando una mano que ya no estaba, antes de quedarse quieta, temblando, al borde de algo que se le deshizo entre los dedos del cuerpo sin terminar de formarse.
 
-—Valeria, por favor, estoy—
+—Valeria, por favor —y la voz que pidió no fue la de Esteban; fue aguda, mojada, una voz de mujer rogando—. Por favor, estoy—
 
-—Lo sé. Sé exactamente cómo estás. Te tengo justo donde te quiero. —La voz seguía dulce, sin un borde, y eso era lo peor—. Por eso paro acá. Escúchame bien, porque esta es la lección más importante de la semana, más que caminar, más que la voz. Una mujer arreglada anda mojada todo el día y no termina. Esa es la diferencia. El hombre se la saca, se viene y se le acaba el mundo por diez minutos. La mujer la lleva todo el día encima, sin venirse, y eso es lo que la mantiene encendida, atenta, suave, disponible. Si te dejo terminar ahora, mañana llegas vacía. Apagada. Y yo no te entrené una semana entera para que llegues apagada al primer día.
+—Shh. —El dorso de los dedos volvió a la cara, de la sien a la mandíbula, tierno, mientras abajo la dejaba arder—. Pídemelo bien. Como mujer.
 
-Sacó la mano despacio. La pelvis de Estefanía siguió empujándose contra el aire dos, tres veces más, sola, antes de quedarse quieta, temblando. La verga presa palpitaba mojada, dolorosa. Los pezones duros. El culo contrayéndose todavía sin permiso. Toda ella encendida y sin salida.
+—Por favor… déjame terminar.
 
-—Vas a dormir así —siguió Valeria, peinándole un mechón de la peluca con las uñas, como se peina a una niña—. Vas a despertar así. Te vas a bañar rápido, te vas a hacer el tucking, te vas a poner todo lo que aprendiste a ponerte, y vas a salir a la calle así. Mojada. Y vas a entrar a la oficina de Gabriel así. Con esto que tienes ahora mismo entre las piernas, sin haber terminado, queriendo. ¿Sabes lo que eso te va a hacer en la cabeza, mi amor?
-
-—...
-
-—Te la va a nublar. No vas a poder pensar derecho. Y esa es exactamente la mujer que necesito que entre a esa oficina. Una que no piense. Una que solo sienta. Porque la que piensa, duda, y la que duda, se equivoca y abre la boca cuando no debe. La que solo siente, en cambio, hace todo bien sin saber por qué. —Le besó el lóbulo, seco, propietario, igual al beso de la sien del primer día—. Mañana no vas a ser Esteban pensando si esto está bien. Vas a ser Estefanía mojada abriéndole la puerta a un hombre. Y va a ser perfecto.
+—No, mi amor. Hoy no. —Y no dijo por qué. Le besó el lóbulo de la oreja, seco, propietario, igual al beso de la sien del primer día, y eso fue todo. No hubo lección, no hubo razón. Solo la negativa dulce y el cuerpo encendido sin salida—. Buenas noches, Estefanía.
 
 Se dio vuelta para dormir.
 
-Estefanía quedó mirando el techo, el babydoll de su mujer pegado al cuerpo por el sudor, la pelvis lisa palpitando bajo el tucking, el cuerpo entero vibrando en una frecuencia que ya no sabía apagar y que Valeria le había prohibido apagar. Afuera, la línea naranja de la calle. Adentro, el latido sin salida, exacto, donde la mano se había detenido y no había vuelto.
+Estefanía quedó mirando el techo, el babydoll de su mujer pegado al cuerpo por el sudor, la pelvis lisa palpitando bajo el tucking, la verga presa latiendo dolorosa contra el tape, los pezones todavía duros rozando la seda con cada respiración corta, el culo contrayéndose solo bajo la tanga, cada parte de ella encendida por separado y todas a la vez. No entendió por qué Valeria la había dejado así. No se lo explicó nadie. Solo supo, en el cuerpo, que no iba a poder dormir bien, y que el calor no iba a bajar, y que algo en no entenderlo lo hacía peor.
 
 No dijo *soy Esteban*. No le salió. Hacía días que no le salía.
 
-Pensó en Gabriel. Pensó en abrirle la puerta de su oficina con esa pelvis mojada bajo la falda, con la boca pintada burdeos, con los pezones todavía duros bajo el sostén, con el perfume de Valeria subiéndole del escote, con la calentura nublándole la cabeza tal como su mujer lo había planeado al milímetro.
+Pensó en Gabriel. Pensó en abrirle la puerta de su oficina con esa pelvis mojada bajo la falda, con la boca pintada burdeos, con los pezones todavía duros bajo el sostén, con el perfume de Valeria subiéndole del escote. Y el solo pensarlo le subió otra oleada que tampoco pudo descargar.
 
 Y la última cosa que pensó, antes de quedarse dormida así —sin terminar, sin querer terminar, queriendo durar mojada hasta las nueve y media— fue la frase que la cabeza había intentado callar toda la semana y que ahora subía sola, sin pelearle:
 
@@ -552,7 +558,7 @@ Cerró los ojos. Afuera, Santiago respiraba como respira de noche. Adentro, en l
 
 ## EL LUNES
 
-Despertó mojada, igual que se había dormido. El cuerpo no había bajado en toda la noche: lo había guardado, como Valeria dijo que lo guardaría, a fuego bajo, esperándola.
+Despertó mojada, igual que se había dormido. El cuerpo no había bajado en toda la noche: lo había guardado a fuego bajo, sin que ella entendiera cómo ni por qué, esperándola apenas abrió los ojos. Lo primero que pensó, antes que cualquier otra cosa, no fue una palabra ni un plan: fue el latido entre las piernas, todavía ahí, intacto.
 
 Valeria todavía dormía cuando Estefanía se levantó. Hizo todo sola, en orden, sin que nadie la mirara, y esa fue la prueba de que la semana había servido: las manos se movían solas. El baño rápido. La crema —el pecho, los pezones que ya casi no soportaban el roce, el cuerpo entero—. El tucking a la primera. El sostén abrochado contra el marco de la puerta con el truco de la muñeca. Las medias, el liguero, el corsé cerrado sola contra la puerta tirando los cordones hacia atrás, el aire cortándose alto. La tanga. La blusa de seda. La falda lápiz, que le abrazó el culo empinado y la obligó al paso corto desde el primer movimiento.
 
@@ -564,7 +570,7 @@ El perfume al final. Las muñecas. Detrás de las orejas. Y en el escote, el ded
 
 Los stilettos. Los guantes finos para las manos, el único delator. Se paró frente al espejo grande, entera, por primera vez sin Valeria detrás.
 
-Lo que vio fue una mujer mojada que no podía pensar derecho. Tal como estaba diseñado.
+Lo que vio fue una mujer. Y recién entonces, mirándose, se dio cuenta de algo que llevaba un rato pasándole sin que lo notara: que no estaba pensando. Que desde que despertó no había armado una sola frase entera en la cabeza, ni una sola de las que antes la habrían asaltado —*esto está mal, esto es una locura, soy un hombre, qué estoy haciendo*—. No estaban. En su lugar había solo el cuerpo: el latido entre las piernas, el peso de las copas, el perfume, el calor que no terminaba. Lo intentó incluso a propósito, buscó el pensamiento de hombre como quien busca una palabra en la punta de la lengua, y no lo encontró. La calentura se lo había comido. No supo cuándo. No supo cómo. Solo supo que pensar le costaba, y que sentir le salía solo, y que así —embotada, mojada, callada— se sentía, por primera vez en meses, extrañamente en paz.
 
 Valeria apareció en el reflejo, en bata, despeinada, con el labial burdeos puesto incluso recién levantada. La miró de arriba abajo, despacio, con orgullo de autora. No le corrigió nada. No había nada que corregir.
 
@@ -580,7 +586,7 @@ Estefanía la miró en el espejo. Pensó la respuesta vieja, la de hombre, y no 
 
 —Buena chica. —Valeria le acomodó un mechón de la peluca, le besó la sien seca—. A las nueve y veinte salimos. A las nueve y media le abres la puerta.
 
-A las nueve y veintiocho, Estefanía estaba parada frente a la puerta de la oficina de Gabriel Solar, con los guantes puestos, el perfume de su mujer subiéndole del escote, la pelvis mojada bajo la falda lápiz y la cabeza —tal como Valeria la había dejado— incapaz de armar un solo pensamiento que no fuera el del cuerpo. Levantó la mano enguantada para tocar.
+A las nueve y veintiocho, Estefanía estaba parada frente a la puerta de la oficina de Gabriel Solar, con los guantes puestos, el perfume de su mujer subiéndole del escote, la pelvis mojada bajo la falda lápiz y esa cabeza vacía de palabras que había descubierto en el espejo y que ya no le daba miedo. Levantó la mano enguantada para tocar.
 
 No pensó *soy Esteban*. No pensó *esto es temporal*. No pensó nada, en realidad, que se pareciera a una frase.
 
