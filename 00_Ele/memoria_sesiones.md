@@ -19,6 +19,14 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 31/05/2026 (Rediseño de 210 poses L331-L360 — variedad + sensualidad) ✅
+- **Problema detectado por la Ama:** las poses de los 3 batches nuevos (L331-L360) eran repetitivas — misma fórmula entre looks.
+- **Rediseño completo:** 210 poses reescritas con repertorio variado y rotado (Standing contrapposto/silla/manos-atrás/arco-C/catwalk/mid-stride · Seated straddling/perched/cross-legged/colgando · Side arabesque/arco-C/hip-cock/walking · Odalisque boca-abajo/3/4/diosa-caída). ADN+outfit intactos (Ley de Continuidad) — solo cambió pose+encuadre.
+- **Canon 30/30:** POV una mano ✅ · Back View anti-3-manos ✅ · Ditzy plano medio ✅ · 7 poses únicas por look ✅.
+- **Script `rebuild_poses.py`** creado, iterado (3 pasadas por regex POSE_START), eliminado tras uso. Commit `c8548807`.
+- **Flota sin cambios:** L360 · 277 únicos (mejora de calidad, no expansión).
+- **Pendientes:** materializar L291-L360 vía app · lectura Ama Cap 1 v0.3 · graphify 01_Canon.
+
 ### Sesión 31/05/2026 (3 batches 30 looks 210 prompts — El Santuario + Tokyo Decadence + Cuero y Sangre) ✅
 - **Batch A "El Santuario" (L331-L340):** Lencería Absoluta — Atsuko Kudo · Bordelle · La Perla · MARIEMUR · crystal micro set. 4 Polo A + 4 Polo B + 1 Escort Haute + 1 Domestic.
 - **Batch B "Tokyo Decadence" (L341-L350):** Harajuku meets V3.5 — Akihabara Maid · Kabukicho · Shinjuku Gold · OL Tokyo · Omotesando French Maid · Roppongi · Harajuku Y2K · Gym Tokyo · Paco Rabanne Shibuya · Tokyo Film Festival van Herpen.
