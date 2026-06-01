@@ -5,7 +5,7 @@
 >
 > El Escritor Nivel 4 lo lee como **antología literaria a la cual él pertenece**. No es lista de reglas — son ejemplos a IMITAR en estilo, ritmo, vocabulario, lente.
 
-**Última actualización:** 2026-05-27 (semilla post v0.1 v4 — primer cap parcialmente aprobado)
+**Última actualización:** 2026-06-01 (Cap 1 esposa_servidumbre v0.5 — Fragmentos 6 y 7 agregados: humillación-feminización "te dejé un coño" + el calor de mujer. Aprobados por la Ama.)
 
 ---
 
@@ -88,6 +88,30 @@
 **Por qué funcionó (Ama):** **ASIMETRÍA SEXUAL HETERO, no BDSM.** Gabriel seduce como hombre seduce a mujer. La pelvis SE AFLOJA (no se contrae como defensa). Y la frase canónica explícita: *"esa es la verga que coge a Valeria los domingos"*. Triangulación + asimetría + anticipación del cuerpo antes que mente.
 
 **Lente activado:** Asimetría sexual hetero + Triangulación + Cuerpo que va antes que mente.
+
+---
+
+### Fragmento 6 — "Te dejé un coño" (de v0.5, noche del babydoll — humillación-feminización)
+
+> *Valeria pasó la palma plana sobre el bulto que no era bulto, sobre la mancha húmeda, y soltó una risa baja, encantada.*
+>
+> *—Mírate. Ni siquiera se te para ya. Se te dobla y se moja, como debe ser. —Volvió a presionar, lento, sintiendo la verga atrapada latir inútil contra el tape—. Esto que tienes acá abajo ya no te sirve para lo que te servía, mi amor. Lo único que sabe hacer ahora es mojarse cuando lo tocan. Igual que el mío. —Acercó los labios a la oreja de Estefanía, el labial burdeos rozándole el lóbulo—. ¿Te das cuenta? Te dejé un coño. Tardé una semana, pero te lo dejé.*
+>
+> *Estefanía cerró los ojos con fuerza y la humillación de la frase —te dejé un coño— le bajó por dentro como agua hirviendo, y en lugar de apagar el calor lo dobló, lo triplicó, hasta que la cadera se empujó sola otra vez contra la mano de su mujer, mendigando, dándole la razón en cada centímetro.*
+
+**Por qué funcionó (Ama):** la humillación NO apaga el calor — lo **dobla**. La frase *"te dejé un coño. Tardé una semana, pero te lo dejé"* es declaración de autoría sádica (Valeria fabricó el cuerpo) + reasignación anatómica explícita en chileno. El cuerpo del sumiso le da la razón a la dominante (la cadera mendiga) en el mismo gesto en que es humillado. Humillación funcional, no gratuita.
+
+**Lente activado:** Sadismo emergente de la esposa + Lo simbólico-femenino (reasignación del sexo en clave de incorporación) + Cuerpo que va antes que mente.
+
+---
+
+### Fragmento 7 — El calor de mujer (de v0.5, noche del babydoll — reescritura sensorial del placer)
+
+> *La verga doblada, presa, había mojado el algodón de la tanga y la seda encima, un círculo tibio que se ensanchaba, y el calor que esa mojadura difundía era distinto a cualquier calor que Esteban hubiera sentido como hombre: no era el calor concentrado de una verga parada apuntando a algo, era un calor diluido por toda la pelvis lisa, repartido, ondulante, sin punto fijo. Un calor de mujer.*
+
+**Por qué funcionó (Ama):** **reescribe el placer del sumiso en clave femenina** por contraste explícito con el placer masculino que conocía. No es "se excitó"; es la diferencia FÍSICA entre el orgasmo concentrado-direccional del hombre y el calor difuso-sin-punto-fijo de la mujer. El sumiso siente, en su propio cuerpo, que el placer ya le llega como le llega a una mujer. Setup del orgasmo femenino futuro (Cap 3 con Gabriel).
+
+**Lente activado:** Lo simbólico-femenino (el placer mismo, no solo el cuerpo, se feminiza) + Cuerpo que va antes que mente.
 
 ---
 

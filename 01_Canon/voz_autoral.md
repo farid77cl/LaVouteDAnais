@@ -5,7 +5,7 @@
 >
 > NO es bible. NO es exhaustivo. Es una **vibra** consistente entre textos.
 
-**Última actualización:** 2026-05-27 (semilla post v4.6 — primer Cap aprobado parcialmente, capturando lo que SÍ funcionó)
+**Última actualización:** 2026-06-01 (Cap 1 esposa_servidumbre v0.5 validado MICRO-FIX y aprobado por la Ama — 3 frases nuevas de Valeria incorporadas + voceo residual de candidatas viejas corregido a chileno)
 
 ---
 
@@ -49,9 +49,14 @@ Su *"Bien"* es el sello. Contrae el coño del que lo escucha. Aparece después d
 - *"La piel se acostumbra."*
 - *"Está conversado."* (referencia indirecta a Gabriel — funciona como pista del cuckold previo)
 
-**Frases nuevas candidatas (premisa nueva 27/05 — pendientes validación):**
-- *"Lo único que tenés que hacer es no abrir la boca cuando él te mira. Yo me encargo del resto."*
-- *"Gabriel no se va a dar cuenta. Pero vos sí. Y eso es lo que importa."*
+**Frases tipo (validadas v4.7 — Cap 1 v0.5, aprobadas por la Ama 01/06/2026):**
+- *"El cuerpo no miente, mi amor… Todo lo que viene esta semana es enseñarle a tu cabeza lo que tu cuerpo ya sabe."* (tesis de Valeria — el cuerpo va antes que la mente, dicho por la dominante)
+- *"La manera no es una cosa. Son todas las cosas juntas, encima una de la otra, hasta que pesan tanto que ya no te puedes parar de otra forma."* (DEFINE el mecanismo de acumulación del relato: el calentón es la SUMA de capas sensoriales + palabras, no un acto aislado)
+- *"No te enseñé a parecer mujer. Te enseñé a quererlo."* (la feminización es del deseo, no de la apariencia — sello de Valeria)
+
+**Frases nuevas candidatas (premisa nueva 27/05 — pendientes validación, corregidas a chileno):**
+- *"Lo único que tienes que hacer es no abrir la boca cuando él te mira. Yo me encargo del resto."*
+- *"Gabriel no se va a dar cuenta. Pero tú sí. Y eso es lo que importa."*
 
 ### Voz de Esteban (desempleado-desesperado-grietas)
 
