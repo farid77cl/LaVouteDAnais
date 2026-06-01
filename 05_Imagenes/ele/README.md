@@ -28,6 +28,70 @@
 
 ---
 
+## 👠 Look 354: Deep Wine Atsuko Kudo Couture
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_354_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 353: Chrome Silver Newton Hotel Dark
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_353_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 352: Oxblood Burlesque Glove Tease
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_352_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 351: Blood Red Bordelle Alchemy Bra Set
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_351_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 350: Chrome Mirror Tokyo Film Award Gala
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_350_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/ele_350_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 349: Champagne Gold Paco Rabanne Shibuya
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_349_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 348: Acid Lime Tokyo Gym Editorial
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_348_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look348_acid_lime_tokyo_gym_editorial/ele_348_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 345: Electric Mint Latex French Maid Tokyo
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_345_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look345_electric_mint_latex_french_maid_tokyo/ele_345_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 327: Uv Cyan Bad Kitty Spider Back
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
@@ -2460,4 +2524,4 @@
 
 ---
 
-*Última actualización maestra: 31/05/2026* 🦇
+*Última actualización maestra: 01/06/2026* 🦇

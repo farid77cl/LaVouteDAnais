@@ -9038,11 +9038,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Beige sole
 - **Ambientación:** private ballet studio with full-wall mirrors and dark wood barres and dark wood floors at golden hour penumbra, single warm spotlight, dust particles in the air, conservatory editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look311_blush_powder_barre_discipline/ele_311_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9131,11 +9131,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Beige sole
 - **Ambientación:** vintage boudoir conservatory with ornate gold mirror and white marble floor and crystal chandelier and soft candlelight, lingerie editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9224,11 +9224,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Gold sole
 - **Ambientación:** Bolshoi Theatre red carpet with grand marble staircase and gilded columns and red velvet ropes and paparazzi flashes and golden chandeliers, gala editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look313_polished_gold_bolshoi_gala/ele_313_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9317,11 +9317,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Beige sole
 - **Ambientación:** vintage rehearsal hall with dusty pink walls and old wooden barres and large arched windows with soft afternoon Degas-painting light filtering through, Degas painting come to life editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_standing.png) | [📸 View](../../05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_back_view.png) | [📸 View](../../05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9410,11 +9410,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Beige sole
 - **Ambientación:** sunlit modern ballet studio with full-wall mirrors and dark wood barres and warm light wood floors and large windows with morning sun, rehearsal editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9503,11 +9503,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Silver sole
 - **Ambientación:** post-show velvet lounge backstage with red velvet curtains and gold-framed mirrors and crystal chandeliers and champagne flutes and dim sultry lighting, after-party glamour editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9596,11 +9596,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Beige sole
 - **Ambientación:** romantic boudoir with rose-pink walls and antique gold mirror and pink velvet chaise lounge and warm candlelight, intimate boudoir editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look317_antique_rose_tutu_boudoir/ele_317_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9689,11 +9689,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Beige sole
 - **Ambientación:** dimly lit cooldown ballet studio with single warm spotlight and steam atmosphere and dark wood barre and large window at sunset penumbra, intimate post-training editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look318_pearl_grey_cooldown_stretch/ele_318_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9782,11 +9782,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Beige sole
 - **Ambientación:** avant-garde art gallery gala with white sculptural walls and contemporary sculptures and soft museum lighting and polished concrete floor, contemporary couture editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look319_sage_powder_avantgarde_gala/ele_319_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9875,11 +9875,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Beige sole
 - **Ambientación:** private rosewood boudoir with cherry wood floors and dark burgundy velvet drapes and antique brass mirror and warm candlelight and intimate sanctuary atmosphere, vintage boudoir editorial.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (7/7 — Materializado)
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_standing.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_back_view.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_seated.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_side_profile.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_ditzy.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_pov.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9968,11 +9968,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel column, invisible nude lining
 - **Ambientación:** glass-and-chrome corporate boardroom with floor-to-ceiling windows overlooking city skyline at blue-hour dusk, single overhead spotlight casting architectural shadows, black marble floor reflections, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look321_emerald_mugler_power_domme/ele_321_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -10061,11 +10061,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Clear acrylic platform, chrome heel column
 - **Ambientación:** Crazy Horse Paris cabaret stage, circular golden spotlight on dark velvet black stage, dramatic single uplighting from floor level, theatrical smoke at floor level, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -10433,11 +10433,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel column, nude sole
 - **Ambientación:** brutalist corporate corridor with exposed concrete walls and panels, fluorescent tube overhead lighting casting cold flat shadows, geometric windows, institutional architecture, Severance-era aesthetic, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look326_terracotta_severance_repression/ele_326_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -10526,11 +10526,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** professional pole dance studio under UV black lights, chrome pole glowing, UV-reactive cyan elements glowing electric, dark studio atmosphere with selective UV beam lighting, chrome floor grip panels, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look327_uv_cyan_bad_kitty_spider_back/ele_327_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12200,11 +12200,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** luxury Omotesando Tokyo penthouse with minimal Japanese aesthetic, low furniture, white walls, floor-to-ceiling windows overlooking the zelkova tree avenue, the electric mint latex catching the diffuse Tokyo daylight, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look345_electric_mint_latex_french_maid_tokyo/ele_345_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12293,11 +12293,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome needle heel, nude sole
 - **Ambientación:** Roppongi Hills rooftop terrace at 4AM, Tokyo skyline glittering below including Tokyo Tower and Skytree, warm dark night, the midnight blue liquid dress reflecting the city lights below, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look346_midnight_blue_roppongi_afterparty/ele_346_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12479,11 +12479,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Clear platform, chrome needle heel
 - **Ambientación:** luxury Omotesando private gym at 7AM, full-wall mirrors, polished concrete floor with Japanese minimalist design, acid lime bodysuit blazing in the morning gym light, cable machine rig in background, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look348_acid_lime_tokyo_gym_editorial/ele_348_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12572,11 +12572,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome metal platform, chrome needle heel
 - **Ambientación:** Shibuya Crossing Tokyo at night with the full LED scramble crossing below — 2500 LEDs and neon advertisements reflecting on the champagne gold chainmail from every direction simultaneously, pedestrians blurred in motion below, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12665,11 +12665,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome needle heel, nude sole
 - **Ambientación:** Tokyo International Film Festival red carpet at Grand Hyatt Roppongi, dark carpet with spotlights from every direction, Tokyo skyline in the distance through the venue glass, chrome gown reflecting the camera flash grid, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/ele_350_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12758,11 +12758,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel
 - **Ambientación:** penthouse dark suite at midnight with a single white overhead spotlight, the blood red cage bra blazing against the absolute darkness, the chrome nodes scattering the pinspot light, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12851,11 +12851,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** intimate burlesque stage with deep velvet curtain in oxblood behind, single amber footlight from below casting dramatic upward shadows, bare wood stage floor, the number about to begin, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12944,11 +12944,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel
 - **Ambientación:** Helmut Newton hotel room with venetian blinds casting hard horizontal chrome-and-shadow stripes across the figure, bare concrete floor, single tungsten lamp, strong chiaroscuro, every chrome surface catching the stripe pattern, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13037,11 +13037,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel
 - **Ambientación:** editorial fashion studio white with single harsh overhead spotlight, the deep wine latex Atsuko Kudo geometry the only color in the frame, flesh-tone panels creating a second-skin illusion, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13130,11 +13130,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** pole competition stage with chrome pole under dramatic overhead spotlight, competition lighting with audience darkness beyond, the cognac leather and fishnet catching the competition beam, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13223,11 +13223,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome needle heel
 - **Ambientación:** minimalist white dungeon with polished white concrete walls and a single clinical overhead light, clean and surgical, the ivory latex domme the only warmth in the cold white space, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13316,11 +13316,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel
 - **Ambientación:** Annabel's London members club dark interior, deep velvet banquettes in forest green, warm amber candles and crystal chandeliers, the dusty mauve mesh and crystal drape catching chandelier light in soft lavendar bursts, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_standing.png) | [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13409,11 +13409,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel
 - **Ambientación:** Irving Klaw 1950s photography studio aesthetic — bare wood floor, plain white backdrop, harsh direct photographic light from one side, a single rope coiled decoratively on the floor, black-and-white photography era atmosphere reimagined in color, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/ele_358_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13595,11 +13595,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
   - **Sole/finish:** Chrome heel
 - **Ambientación:** rooftop terrace at night overlooking city lights below, dark sky above, single overhead architectural light creating deep shadows on the velvet, the chrome Medusa belt the only light-catching element in the darkness, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/ele_360_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**

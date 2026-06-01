@@ -31,4 +31,4 @@ Total imágenes: 7
 - [ele_290_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look290_studded_boxing_rock_wod/ele_290_standing.png)
 
 ---
-*Sincronizado con GitHub: 2026-05-31* 👄
+*Sincronizado con GitHub: 2026-06-01* 👄

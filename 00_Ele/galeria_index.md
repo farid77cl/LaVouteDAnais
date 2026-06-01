@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 31/05/2026 21:03 — **161 looks registrados**  
+> Generado automáticamente el 01/06/2026 09:12 — **161 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -120,23 +120,23 @@
 | **308** | Hot Magenta Chain Bikini Studio (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
 | **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Domestic | — | — | 4/7 | ⏳ Pendiente |
-| **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 0/7 | ⏳ Pendiente |
-| **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 0/7 | ⏳ Pendiente |
-| **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **321** | Emerald Mugler Power Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **322** | Crystal Nude Illusion Dita Couture (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
+| **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Pin-Up | — | — | 3/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 2/7 | ⏳ Pendiente |
+| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
+| **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Domestic | — | — | 7/7 | ⏳ Pendiente |
+| **321** | Emerald Mugler Power Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
+| **322** | Crystal Nude Illusion Dita Couture (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
 | **323** | Oxblood Secretary Bondage (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
 | **324** | Chrome White Versace SM (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
 | **325** | Deep Plum Newton Hotel (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **326** | Terracotta Severance Repression (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **327** | UV Cyan Bad Kitty Spider Back (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **326** | Terracotta Severance Repression (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
+| **327** | UV Cyan Bad Kitty Spider Back (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
 | **328** | Royal Purple Trench Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
 | **329** | Oil-Slick Oh Polly After Hours (31/05/2026 — batch 321-330 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
 | **330** | Neon Tangerine Julia Fox Y2K (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
@@ -154,22 +154,22 @@
 | **342** | Electric Violet Kabukicho Street Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **343** | Chrome White Shinjuku Club Night (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
 | **344** | Hot Magenta OL Tokyo Office Siren (31/05/2026 — batch 341-350 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **345** | Electric Mint Latex French Maid Tokyo (31/05/2026 — batch 341-350 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **346** | Midnight Blue Roppongi After-Party (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **345** | Electric Mint Latex French Maid Tokyo (31/05/2026 — batch 341-350 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **346** | Midnight Blue Roppongi After-Party (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Alfombra Roja | — | — | 0/7 | ⏳ Pendiente |
-| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **353** | Chrome Silver Newton Hotel Dark (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
+| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **353** | Chrome Silver Newton Hotel Dark (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
+| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
+| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
+| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
 
 ---
 
@@ -363,23 +363,23 @@
 | **308** | Hot Magenta Chain Bikini Studio (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 2/7 | ⏳ Pendiente |
 | **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 2/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 4/7 | ⏳ Pendiente |
-| **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 0/7 | ⏳ Pendiente |
-| **321** | Emerald Mugler Power Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
-| **322** | Crystal Nude Illusion Dita Couture (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 3/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 2/7 | ⏳ Pendiente |
+| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **320** | Dark Burgundy Private Boudoir (30/05/2026 — batch 311-320 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 7/7 | ⏳ Pendiente |
+| **321** | Emerald Mugler Power Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 1/7 | ⏳ Pendiente |
+| **322** | Crystal Nude Illusion Dita Couture (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 1/7 | ⏳ Pendiente |
 | **323** | Oxblood Secretary Bondage (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
 | **324** | Chrome White Versace SM (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
 | **325** | Deep Plum Newton Hotel (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
-| **326** | Terracotta Severance Repression (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
-| **327** | UV Cyan Bad Kitty Spider Back (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
+| **326** | Terracotta Severance Repression (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 1/7 | ⏳ Pendiente |
+| **327** | UV Cyan Bad Kitty Spider Back (31/05/2026 — batch 321-330 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 1/7 | ⏳ Pendiente |
 | **328** | Royal Purple Trench Domme (31/05/2026 — batch 321-330 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
 | **329** | Oil-Slick Oh Polly After Hours (31/05/2026 — batch 321-330 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
 | **330** | Neon Tangerine Julia Fox Y2K (31/05/2026 — batch 321-330 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema LAS EJECUTIVAS DEL VICIO) | 0/7 | ⏳ Pendiente |
@@ -397,23 +397,23 @@
 | **342** | Electric Violet Kabukicho Street Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
 | **343** | Chrome White Shinjuku Club Night (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
 | **344** | Hot Magenta OL Tokyo Office Siren (31/05/2026 — batch 341-350 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
-| **345** | Electric Mint Latex French Maid Tokyo (31/05/2026 — batch 341-350 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
-| **346** | Midnight Blue Roppongi After-Party (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
+| **345** | Electric Mint Latex French Maid Tokyo (31/05/2026 — batch 341-350 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
+| **346** | Midnight Blue Roppongi After-Party (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
-| **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
-| **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
-| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
-| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **353** | Chrome Silver Newton Hotel Dark (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
+| **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
+| **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
+| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
+| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **353** | Chrome Silver Newton Hotel Dark (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
-| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 0/7 | ⏳ Pendiente |
+| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 31/05/2026 21:03 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 01/06/2026 09:12 — La Voûte d'Anaïs* 🫦👠💅

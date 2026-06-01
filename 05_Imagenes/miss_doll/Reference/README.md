@@ -47,4 +47,4 @@ Total imágenes: 20
 - [custom_missdoll_hair_s072_hair_slicked_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/Reference/custom_missdoll_hair_s072_hair_slicked_back.png)
 
 ---
-*Sincronizado con GitHub: 2026-05-31* 👄
+*Sincronizado con GitHub: 2026-06-01* 👄
