@@ -5809,10 +5809,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Lotus pink silk georgette sari floor-length with intricate silver zardozi embroidery and crystal beadwork forming lotus and paisley motifs across pallu and border, matching lotus pink silk cropped sleeveless blouse with low back, sheer silver-embroidered dupatta draped over left shoulder, no gloves (Indo-glam minimalism), kundan-style chandelier earrings with pearl drops, traditional maang tikka on forehead, layered gold and pearl necklaces, henna mehndi pattern on hands and feet, lotus pink satin pointed-toe stiletto pumps with 14cm slim heel under sari, sleek low chignon with white jasmine garland.
 - **Ambientación:** Bollywood gala ballroom in Mumbai with carved marble pillars, golden chandelier, jasmine garland decorations, warm filmi lighting, refined editorial fashion photography.
 
-### 📸 Imágenes (1/7)
+### 📸 Imágenes (7/7)
 | Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_standing.png) | [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_back_view.png) | [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_seated.png) | [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_side_profile.png) | [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_ditzy.png) | [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_pov.png) | [📸 View](../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_odalisque.png) |
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6238,10 +6238,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Deep sapphire blue silk-satin modernized hanbok boudoir set: cropped jeogori jacket waist-length with hand-embroidered mother-of-pearl plum blossoms at collar and norigae chest knot, deep V crossover front, matching sapphire silk chima high-waist mini skirt with subtle box pleats falling above mid-thigh, no gloves (hanbok minimalism), mother-of-pearl earrings delicate drop, traditional silk binyeo hairpin in silver and pearl, no choker (replaced by silk norigae pendant), sapphire silk-satin stiletto mule heels with 10cm slim heel, hair in half-up half-down with traditional braided crown, soft glass-skin Korean makeup.
 - **Ambientación:** Modern Seoul luxury hotel suite with hanok architectural details, sliding paper screen windows, low platform bed with sapphire silk linens, single ink wash painting of plum blossoms on wall, soft warm tungsten lighting.
 
-### 📸 Imágenes (1/7)
+### 📸 Imágenes (7/7)
 | Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_standing.png) | [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_back_view.png) | [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_seated.png) | [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_side_profile.png) | [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_ditzy.png) | [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_pov.png) | [📸 View](../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_odalisque.png) |
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6315,7 +6315,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_standing.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_back_view.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_seated.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_side_profile.png) | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_pov.png) | ⏳ Pendiente |
 
 </details>
 
@@ -6387,10 +6387,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Champagne gold silk satin midi-length cheongsam knee-length with subtle tone-on-tone bamboo motif embroidery, structured mandarin collar with three frog button closures, capped cap sleeves, side slit knee-high, fitted silhouette through bodice releasing at hip, no gloves (tea ceremony refinement), pearl-and-gold filigree earrings delicate drop, traditional jade bangle on right wrist, no choker (mandarin collar is the focus), champagne gold satin pointed-toe pointed-toe stiletto pumps with 12cm slim heel, elegant low chignon with single gold and pearl hairpin, soft natural makeup with refined lip.
 - **Ambientación:** Traditional Chinese tea room with low rosewood tea table, tatami-style straw mat seating, ink wash bamboo painting hanging scroll, lacquered tea service set, soft natural light through rice paper window, refined editorial wabi-sabi aesthetic.
 
-### 📸 Imágenes (1/7)
+### 📸 Imágenes (5/7)
 | Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_standing.png) | [📸 View](../05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_back_view.png) | [📸 View](../05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_seated.png) | [📸 View](../05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_side_profile.png) | [📸 View](../05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6475,10 +6475,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - **Sole/finish:** Chrome mirror sole bottom (Pleaser stage signature)
 - **Ambientación:** Pole stage de club rock con neón rojo + humo de máquina + bull rider lighting desde abajo, mirror-back wall, audience visible en sombras, pole chrome polished con grip-tape negro.
 
-### 📸 Imágenes (4/7)
+### 📸 Imágenes (6/7)
 | Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_standing.png) | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_back_view.png) | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_seated.png) | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_standing.png) | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_back_view.png) | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_seated.png) | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_side_profile.png) | ⏳ Pendiente | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_pov.png) | [📸 View](../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_odalisque.png) |
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 

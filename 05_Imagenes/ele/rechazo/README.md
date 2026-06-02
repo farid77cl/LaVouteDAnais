@@ -1,13 +1,13 @@
 # 🖼️ Galería: rechazo
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 12
+Total imágenes: 11
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_200_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_200_side.png) | ![ele_251_standing_1779880258776.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_251_standing_1779880258776.png) | ![ele_253_profile_1779899255696.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_253_profile_1779899255696.png) |
-| ![ele_253_seated_1779899240970.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_253_seated_1779899240970.png) | ![ele_254_back_1779899400147.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_back_1779899400147.png) | ![ele_254_ditzy_1779899439992.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_ditzy_1779899439992.png) |
+| ![ele_254_back_1779899400147.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_back_1779899400147.png) | ![ele_254_ditzy_1779899439992.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_ditzy_1779899439992.png) | ![ele_254_profile_1779899427525.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_profile_1779899427525.png) |
 
 ---
 
@@ -15,9 +15,9 @@ Total imágenes: 12
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_200_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_200_side.png) | ![ele_251_standing_1779880258776.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_251_standing_1779880258776.png) | ![ele_253_profile_1779899255696.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_253_profile_1779899255696.png) | ![ele_253_seated_1779899240970.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_253_seated_1779899240970.png) |
-| ![ele_254_back_1779899400147.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_back_1779899400147.png) | ![ele_254_ditzy_1779899439992.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_ditzy_1779899439992.png) | ![ele_254_profile_1779899427525.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_profile_1779899427525.png) | ![ele_254_seated_1779899413707.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_seated_1779899413707.png) |
-| ![ele_254_standing_1779899385755.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_standing_1779899385755.png) | ![look281_back_view_1779984143705.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/look281_back_view_1779984143705.png) | ![look290_odalisque_1779982617222.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/look290_odalisque_1779982617222.png) | ![look290_odalisque_1779983226789.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/look290_odalisque_1779983226789.png) |
+| ![ele_200_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_200_side.png) | ![ele_251_standing_1779880258776.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_251_standing_1779880258776.png) | ![ele_253_profile_1779899255696.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_253_profile_1779899255696.png) | ![ele_254_back_1779899400147.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_back_1779899400147.png) |
+| ![ele_254_ditzy_1779899439992.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_ditzy_1779899439992.png) | ![ele_254_profile_1779899427525.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_profile_1779899427525.png) | ![ele_254_seated_1779899413707.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_seated_1779899413707.png) | ![ele_254_standing_1779899385755.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_standing_1779899385755.png) |
+| ![look281_back_view_1779984143705.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/look281_back_view_1779984143705.png) | ![look290_odalisque_1779982617222.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/look290_odalisque_1779982617222.png) | ![look290_odalisque_1779983226789.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/look290_odalisque_1779983226789.png) |
 
 
 ---
@@ -26,7 +26,6 @@ Total imágenes: 12
 - [ele_200_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_200_side.png)
 - [ele_251_standing_1779880258776.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_251_standing_1779880258776.png)
 - [ele_253_profile_1779899255696.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_253_profile_1779899255696.png)
-- [ele_253_seated_1779899240970.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_253_seated_1779899240970.png)
 - [ele_254_back_1779899400147.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_back_1779899400147.png)
 - [ele_254_ditzy_1779899439992.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_ditzy_1779899439992.png)
 - [ele_254_profile_1779899427525.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/rechazo/ele_254_profile_1779899427525.png)
