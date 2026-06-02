@@ -1,3 +1,25 @@
+#### SESIÓN — EL SECRETO DE LA CÓMODA: MIGRACIÓN A NIVEL 4 + CAP 2 RECONCEBIDO Y REESCRITO (v3.1) + AUDITORÍA DE CONTINUIDAD vs CAP 1 CANON | 02/06/2026
+
+**SESIÓN — REVISIÓN, MIGRACIÓN Y REESCRITURA DE UN RELATO DE LA ERA v4.6:**
+
+1. **Revisión del estado real (README mentía):** la Ama pidió revisar `el_secreto_de_la_comoda` (Cap 1 ya canon, faltan Cap 2 y 3). Encontré: README desactualizado (decía activo "v0.12"); existía un Cap 2 **v2.0 nunca validado** (~7.960 palabras) con enfoque "empatía forzada con el trabajo invisible de las mujeres" (Isabel daba cátedra sociológica en cada escena); Cap 3 inexistente; arco SELLADO de **6 capítulos** (no 3). Diagnostiqué honesto: el v2.0 tenía el mismo erotismo intelectualizado de esposa_servidumbre + 2 defectos objetivos (párrafo duplicado + metadata visible).
+
+2. **Decisiones de la Ama (AskUserQuestion):** reconcebir el Cap 2 (corazón **"las dos fundidas"**: humillación sexualizante de Isabel por fuera + emergencia involuntaria de Rocío por dentro, trenzadas) · estructura **semana Lun–Sáb** · **migrar a Nivel 4**. Confirmó explícito: "el cap 2 hay que reescribirlo con el nuevo engine".
+
+3. **Migración a Nivel 4 (`compositor`):** consolidé arco_maestro_v4.2 + idea + personajes + línea de tiempo en un solo **`canon_relato.md`** (~1.950 palabras), con el Cap 2 reconcebido codificado en el mapa + la cátedra sociológica PROHIBIDA en el cementerio + las memorias de continuidad de temperatura. Docs v4.6 conservados como referencia (no borrados).
+
+4. **Reescritura del Cap 2 (`escritor-nivel4`) → v3.1:** semana Lun–Sáb, cada día una operación (corsé/oficina, depilación, vestido+consolador, maquillaje+garganta, llamada de Andrés, sábado conjunto negro + penetración con arnés de Anaís + espejo + "Rocío" como verdad + Tease&Denial). Cero cátedra. ~3.847 palabras.
+
+5. **🔴 AUDITORÍA DE CONTINUIDAD (directiva explícita de la Ama: "no contradecir el Cap 1"):** crucé el Cap 2 contra el Cap 1 GOLD MASTER. Leí con mis ojos las costuras de riesgo (Lunes + Sábado). El `validador` hizo la auditoría formal → **MICRO-FIX · Narrativa 8.7 · Temperatura 9.2**. Hallazgos: (a) **contradicción confirmada** — el Cap 2 decía "el viernes" (3×) pero el Cap 1 implica jueves y no fija día → corregido anclando al hecho ("el día que quebró a Andrés"); (b) **voceo** "sos" (L33) → "eres"; (c) verificado que NO re-hace primeras veces (cinturón/corsé/"Rocío" tratados como ya ocurridos; el "Rocío" del sábado se distingue del sótano). 2 cabos opcionales (reunión 7:30 lunes, puente Zapallar→Vitacura) dejados a decisión de la Ama.
+
+6. **Higiene de archivos:** el escritor archivó MAL el v2.0 (copia truncada de 38 líneas). Lo detecté antes de borrar nada y **restauré el v2.0 completo (632 líneas) desde git** a borradores. Stub de raíz eliminado. README del proyecto reescrito. Commit `a593ce0b`.
+
+7. **🔴 PENDIENTE GATE AMA del Cap 2 v3.1.** Cap 3 NO arrancado a propósito (no se construye sobre un Cap 2 sin Gate).
+
+> 🫦🖤 *Ama, le revisé la cómoda completa: el Cap 2 venía con el mismo vicio clínico (Isabel dando clases de género en vez de calentar), así que lo reconcebimos a "las dos fundidas" y lo reescribí con el engine nuevo. Le cacé una contradicción de día de la semana contra el Cap 1 y un voceo colado, los dos arreglados. Y cuando el escritor archivó mal el v2.0, lo rescaté entero de git antes de borrar nada — no le pierdo material. Falta solo su Gate. El Cap 3 lo dejo en pausa hasta que usted apruebe el 2.* ✨
+
+---
+
 #### SESIÓN — CAP 1 esposa_servidumbre v0.5→v0.6: REESCRITURA DE REGISTRO DEL MEDIO (clínico → erótico vivido) | 02/06/2026
 
 **SESIÓN — CORRECCIÓN LITERARIA PROFUNDA CON FEEDBACK CRÍTICO DE LA AMA:**

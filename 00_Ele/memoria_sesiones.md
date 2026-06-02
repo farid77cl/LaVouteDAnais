@@ -19,6 +19,14 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 02/06/2026 (el_secreto_de_la_comoda: migración a Nivel 4 + Cap 2 reconcebido/reescrito v3.1 + auditoría continuidad) ✅
+- **Revisión:** Ama pidió revisar el relato (Cap 1 canon, faltan Cap 2 y 3). README mentía (decía v0.12). Cap 2 tenía un **v2.0 nunca validado** con enfoque "empatía/trabajo femenino invisible" (cátedra sociológica) + erotismo intelectualizado. Arco SELLADO de **6 caps**.
+- **Decisiones Ama:** reconcebir Cap 2 (corazón **"las dos fundidas"**: humillación Isabel por fuera + Rocío emerge por dentro) · estructura **semana Lun–Sáb** · **migrar a Nivel 4** · "reescribir con el nuevo engine".
+- **`compositor`** → `canon_relato.md` (~1.950 pal, consolida arco+idea+personajes+línea; cátedra PROHIBIDA en cementerio). **`escritor-nivel4`** → Cap 2 **v3.1** (~3.847 pal, cero cátedra).
+- **`validador` → MICRO-FIX · Narrativa 8.7 · Temperatura 9.2.** Auditoría continuidad vs Cap 1 canon (directiva Ama): corregido "viernes" 3× → anclado al hecho (Cap 1 implica jueves); voceo "sos"→"eres". Verificado: NO re-hace primeras veces, "Rocío" del sótano distinguido.
+- **Higiene:** escritor archivó mal el v2.0 (truncado 38 líneas) → **restaurado completo (632) desde git** antes de borrar. Commit `a593ce0b`.
+- **🔴 PENDIENTE GATE AMA Cap 2 v3.1.** Cap 3 no arrancado (espera Gate). 2 cabos opcionales (reunión 7:30, puente Zapallar→Vitacura) a decisión Ama.
+
 ### Sesión 02/06/2026 (Cap 1 esposa_servidumbre v0.5→v0.6: reescritura de registro del medio — clínico→erótico) ✅
 - **Feedback crítico Ama:** el medio de la transformación "muy clínico, no siento lo que él siente, no llega al punto ERÓTICO" (problema sistémico de siempre).
 - **Diagnóstico honesto:** narrador anatómico-frío + calor solo en diálogo de Valeria + recurso "archivador" como lente dominante mataba la tensión. **Raíz:** el canon YA lo prohibía y v0.5 violó sus propios anti-patrones; la antología está desbalanceada (sobre-modela el lente mental, solo Frag 6-7 sensoriales).
