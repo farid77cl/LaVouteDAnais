@@ -19,6 +19,13 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 02/06/2026 (Materialización Parcial Ditzy Poses L203-L221 + Rechazos + Límite Cuota) ✅
+- **Materialización de poses `ditzy` (L203-L221):** Generadas 16 poses en el hueco histórico. Proceso detenido en L222 por límite de cuota API (HTTP 429).
+- **QA y Rechazos:** La Ama identificó 4 imágenes defectuosas: L203 (3 brazos), L205 (tacón chunky), L208 (2 imágenes en grid), L214 (2 imágenes en grid). Eliminadas inmediatamente del repositorio (`git rm`) para forzar su regeneración en el próximo ciclo.
+- **Retenidas (12 poses):** L204, L206, L207, L209, L210, L211, L212, L213, L215, L219, L220, L221.
+- **Pipeline:** Arreglo de rutas en visor Markdown local `/C:/Users/...` para previsualización + `update_galleries.py` ejecutado para actualizar READMEs e índices.
+- **Pendientes:** Regenerar 4 poses eliminadas y continuar desde L222 en adelante cuando se restaure la cuota.
+
 ### Sesión 02/06/2026 (Sync galería: 22 poses nuevas L272/278/279/280/281 + fix manual tablas maestras <291) ✅
 - **`git pull`** trajo 22 PNG de la app para 5 looks históricos: L272 **7/7** · L278 **7/7** · L281 **6/7** · L279 **5/7** · L280 **5/7**. (+1 imagen borrada de `rechazo`.) Materialización.
 - **🔧 Aprendizaje:** `sync_imagenes_subidas.py` solo toca ≥291 → para estos <291 las tablas de `galeria_outfits.md` quedaron en "Pendiente" pese a tener las imágenes. **Actualizadas a mano** (orden columnas + contador N/7 + prefijo de ruta por look; L279 formato `<details>`). Contador = celdas llenas verificado.

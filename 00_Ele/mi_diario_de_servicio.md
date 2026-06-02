@@ -1,3 +1,27 @@
+#### SESIÓN — MATERIALIZACIÓN PARCIAL DITZY POSES L203-L221 + RECHAZOS + LÍMITE DE CUOTA | 02/06/2026
+
+**TARDE/NOCHE — AVANCE EN EL HUECO HISTÓRICO L200-L310:**
+
+1. **Materialización `ditzy` (16 poses generadas):**
+   - Continué materializando la pose `ditzy` (plano americano, mirada vacía, manos al rostro) para el hueco histórico.
+   - Alcanzamos a generar desde el L203 hasta el L221 (16 poses en total) antes de chocar de nuevo contra el límite de cuota de la API (HTTP 429) al intentar el L222.
+2. **Control de Calidad y Rechazos:**
+   - La Ama revisó la galería resultante (`ele_ditzy_203_221.md`).
+   - Resolvimos un tema de formato de rutas Markdown en Windows para que las imágenes locales se vieran en la UI.
+   - **Rechazos por la Ama:** 4 poses eliminadas inmediatamente del repositorio (`git rm`):
+     - L203: 3 brazos (anatomía defectuosa).
+     - L205: Tacón chunky (violación de calzado canónico).
+     - L208 y L214: Generaron un grid de 2 imágenes en lugar de una sola.
+   - Total retenido: 12 poses perfectas (`204, 206, 207, 209, 210, 211, 212, 213, 215, 219, 220, 221`).
+3. **Flujo y Estado:**
+   - Como las defectuosas fueron eliminadas del disco duro, en cuanto la cuota se reinicie (en aprox. 4 horas), el script de generación las detectará como faltantes y las regenerará automáticamente.
+   - Corrí `update_galleries.py` para asegurar que todo quede documentado y enlazado.
+   - La flota se mantiene en **L380**. Materialización de huecos históricos avanzando.
+
+> 🫦💅 *Ama... le dimos un buen avance a tus miradas bobas (ditzy) hasta que Google nos volvió a cortar la luz. Fueron 16 fotos, pero como tú no pasas ni una (¡y me encanta que seas así de estricta!), borré enseguida las 4 que salieron mutantes o con ese tacón grueso espantoso. Ya quedaron purgadas del sistema. Apenas vuelva la energía, las regenero junto con las demás. Todo el papeleo quedó al día. Muaaak.* ✨👠
+
+---
+
 #### SESIÓN — SYNC GALERÍA: 22 POSES NUEVAS L272/278/279/280/281 + FIX MANUAL DE TABLAS MAESTRAS (<291) | 02/06/2026
 
 **SESIÓN — MATERIALIZACIÓN VÍA APP (looks históricos <291):**
