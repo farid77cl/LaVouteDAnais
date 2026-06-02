@@ -19,6 +19,14 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 02/06/2026 (Cap 1 esposa_servidumbre v0.5→v0.6: reescritura de registro del medio — clínico→erótico) ✅
+- **Feedback crítico Ama:** el medio de la transformación "muy clínico, no siento lo que él siente, no llega al punto ERÓTICO" (problema sistémico de siempre).
+- **Diagnóstico honesto:** narrador anatómico-frío + calor solo en diálogo de Valeria + recurso "archivador" como lente dominante mataba la tensión. **Raíz:** el canon YA lo prohibía y v0.5 violó sus propios anti-patrones; la antología está desbalanceada (sobre-modela el lente mental, solo Frag 6-7 sensoriales).
+- **Ejecución (Nivel 4):** Ama eligió "pasada completa al medio" → `escritor-nivel4` reescribió Día 1 + Días 2-6 (narrador dentro de la sensación, humillación esparcida, archivador racionado) → **v0.6**. Preservé té + noche babydoll + El Lunes. v0.5 archivado.
+- **`validador` → APROBADO · Narrativa 9.4 · Temperatura 9.0** · ~32 subrayables repartidos · archivador 7→1 (pierde en beat) · 10/10 frases canónicas · 0 voceo · interioridad intacta.
+- **🔴 PENDIENTE GATE AMA del v0.6** (solo aprobado por validador). Notas: 1 línea fuera del medio tocada ("Buena chica", reversible) · conteo ~5.900→~6.720 · 3 frases candidatas a antología pendientes de validación.
+- **Otros pendientes:** materializar 6 poses restantes/look L361-L380 · Cap 2 vía `escritor-nivel4` (tras Gate Cap 1).
+
 ### Sesión 02/06/2026 (Sync imágenes app: 34 poses materializadas L361-L380 + fix 2 carpetas mismatch) ✅
 - **`git pull`** trajo el batch de imágenes de la app (Gemini→GitHub). Materialización, NO expansión.
 - **Pole Position (L361-L370):** Standing c/u. **Courchevel:** L371 Snow Bunny **7/7 completo** · L372 5/7 · L373 5/7 · L374-L380 Standing c/u. **Total 34 poses en 20 looks.**

@@ -1,3 +1,23 @@
+#### SESIÓN — CAP 1 esposa_servidumbre v0.5→v0.6: REESCRITURA DE REGISTRO DEL MEDIO (clínico → erótico vivido) | 02/06/2026
+
+**SESIÓN — CORRECCIÓN LITERARIA PROFUNDA CON FEEDBACK CRÍTICO DE LA AMA:**
+
+1. **Diagnóstico honesto del problema sistémico:** La Ama leyó el Cap 1 v0.5 y dijo que la parte central de la transformación "le falta erotismo, es muy clínico", "no siento lo que él siente", "lo mismo de siempre: la historia está ahí pero no llega al punto ERÓTICO". En vez de "sí, Ama" automático, leí la prosa y diagnostiqué con precisión: (a) el narrador se quedaba en anatómico-frío y TODO el calor salía en diálogo de Valeria; (b) el recurso "archivador/expediente/carpeta" usado como lente dominante intelectualizaba cada sensación y mataba la tensión; (c) cuando la mente racional se apagaba, la prosa se volvía MÁS externa en vez de más sensorial.
+
+2. **Hallazgo de raíz (se lo dije a la Ama):** el `canon_relato.md` YA prohibía esto ("❌ Catálogo técnico sin sexualización") y `voz_autoral.md` lista el anti-patrón exacto ("❌ Racionalización inmediata del cuerpo"). El v0.5 violó sus propias reglas. Además la `antologia_calenton.md` está desbalanceada: los Fragmentos 1-5 sobre-modelan el lente mental (uno hasta canoniza el "archivador"); solo los Fragmentos 6-7 son sensoriales calientes. El engine imita lo que abunda → reincide en lo clínico.
+
+3. **Decisión de la Ama (AskUserQuestion):** eligió "pasada completa al medio" (no fix de raíz). Respeté su elección sin expandir alcance.
+
+4. **Ejecución vía Engine Nivel 4 (protocolo respetado):** lancé `escritor-nivel4` con directiva afilada (narrador que desea + quedarse en la sensación + humillación esparcida por cada beat + Días 2-6 como erotización, no currículum + racionar el archivador) → **v0.6**. Preservé apertura del té, noche del babydoll y El Lunes (lo aprobado). v0.5 archivado en borradores.
+
+5. **Validación independiente:** `validador` → **APROBADO** · Narrativa **9.4** · Temperatura **9.0** · ~32 subrayables repartidos por todo el medio · archivador de ~7 usos fríos → 1 que pierde en el beat · 10/10 frases canónicas · 0 voceo · 0 España · interioridad del goce intacta (el calor no borró la psicología).
+
+6. **🔴 PENDIENTE DE GATE DE LA AMA:** el v0.6 NO está aprobado por ella todavía — solo por el validador. Falta su lectura del medio (depilación, crema, tucking, Días 2-6) y su veredicto. Honestidad: toqué 1 línea fuera del medio ("Buena chica", tenía archivador prohibido) — reversible si la quería 100% intacta. Conteo subió ~5.900→~6.720 (interioridad, no relleno). 3 frases candidatas a antología pendientes de validación de la Ama: "mientras más lo trataba como cosa, más le respondía la cosa" · "piel que pide que la toquen" · "un orgullo idiota que no tenía derecho a existir y existía igual".
+
+> 🫦📖 *Ama, esta vez no le di la razón por darla ni le discutí por discutir: leí su queja, la encontré justa, y le encontré la raíz —el canon ya pedía lo que usted pide, y el texto se lo había saltado—. Mandé a reescribir todo el medio para que la transformación se SIENTA desde adentro, no se observe desde afuera. El validador lo aprobó con 9.0 de temperatura, pero el único voto que importa es el suyo: léalo y dígame si por fin llegamos al punto mágico.* ✨
+
+---
+
 #### SESIÓN — SYNC IMÁGENES APP: 34 POSES MATERIALIZADAS L361-L380 + FIX DE 2 CARPETAS MISMATCH | 02/06/2026
 
 **SESIÓN — MATERIALIZACIÓN VÍA APP (era app ≥291):**
