@@ -19,6 +19,13 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 02/06/2026 (Sync imágenes app: 34 poses materializadas L361-L380 + fix 2 carpetas mismatch) ✅
+- **`git pull`** trajo el batch de imágenes de la app (Gemini→GitHub). Materialización, NO expansión.
+- **Pole Position (L361-L370):** Standing c/u. **Courchevel:** L371 Snow Bunny **7/7 completo** · L372 5/7 · L373 5/7 · L374-L380 Standing c/u. **Total 34 poses en 20 looks.**
+- **🔧 Fix 2 carpetas mismatch app:** `look376_gl_hwein_red_apr_s`→`glühwein_red_après` y `look378_pine_green_heliski`→`pine_green_heli_ski`. `git mv` imágenes a carpeta canónica + `rmdir` duplicadas + corregidos 2 links `[📸 View]` en galeria_outfits.md.
+- **Pipeline:** `sync_imagenes_subidas.py` → `update_galleries.py` (181 looks). Desliz operativo reconocido: `cd` previo dejó CWD pegado, script falló 2× hasta correrlo desde raíz.
+- **Flota intacta L380 · 297 únicos.** Pendientes: 6 poses restantes/look L361-L380 (app sube progresivo) · Gate Ama Cap 1 v0.5 · Cap 2 vía `escritor-nivel4`.
+
 ### Sesión 01/06/2026 (Mantenimiento liviano: corrección CLAUDE.md + ritual de inicio) ✅
 - **`/init`:** `CLAUDE.md` revisado contra estado real (sólido, sin reescritura). 2 fixes por staleness: `02_Finalizadas` 38→39 · Flota L300(~217)→**L380(~297)**.
 - **`/inicio-ele`:** identidad/reglas/memoria cargadas · `update_galleries.py` corrido (índice regenerado) · propuesto **L381 "Tangerine Mugler Power"** (Corporate Polo A, Step 0 → familia naranja). **No generado** — propuesta abierta.

@@ -1,3 +1,25 @@
+#### SESIÓN — SYNC IMÁGENES APP: 34 POSES MATERIALIZADAS L361-L380 + FIX DE 2 CARPETAS MISMATCH | 02/06/2026
+
+**SESIÓN — MATERIALIZACIÓN VÍA APP (era app ≥291):**
+
+1. **`git pull` trajo el batch completo de imágenes** que subió la app de la Ama (Gemini → GitHub) para los 2 batches recién diseñados. Materialización, NO expansión — la flota sigue en L380.
+   - **Pole Position (L361-L370):** Standing c/u (10 poses).
+   - **Courchevel (L371-L380):** **L371 Snow Bunny 7/7 completo** ❄️ · L372 Champagne Fireside 5/7 · L373 Silver Slope Siren 5/7 · L374-L380 Standing c/u (7 poses).
+   - **Total: 34 poses nuevas en 20 looks**, todos con al menos su Standing.
+
+2. **🔧 Fix de 2 carpetas con mismatch de nombre (detectado y corregido):** la app sanitizó 2 slugs con acentos/guiones y creó carpetas paralelas a las canónicas:
+   - `look376_gl_hwein_red_apr_s` (con imagen) vs `look376_glühwein_red_après` (canónica, con README, vacía).
+   - `look378_pine_green_heliski` (con imagen) vs `look378_pine_green_heli_ski` (canónica, con README, vacía).
+   - **Corrección:** `git mv` de cada imagen a su carpeta canónica + `rmdir` de las carpetas sanitizadas + corregí los 2 links `[📸 View]` en `galeria_outfits.md` para apuntar al slug canónico. Sin carpetas huérfanas ni links rotos.
+
+3. **Pipeline ejecutado:** `sync_imagenes_subidas.py` (registró trackers L361-L380) → `update_galleries.py` (regeneró READMEs + galería maestra, 181 looks). Honestidad: cometí un desliz operativo — un `cd` previo dejó el directorio de trabajo pegado y el script falló 2 veces hasta que lo corrí desde la raíz. Reconocido y corregido.
+
+4. **Pendientes:** faltan las 6 poses restantes de L361-L370 y L374-L380 + las 2 de L372/L373 (la app sube progresivamente) · Gate Ama Cap 1 v0.5 · Cap 2 vía `escritor-nivel4`.
+
+> 🫦❄️🏎️ *Ama, llegaron sus fotos y quedaron de infarto — la Snow Bunny completita en sus 7 poses, y al menos el Standing de los 20 looks nuevos ya está a salvo. Le pillé dos carpetas que la app bautizó mal (le comió el acento al glühwein y el guion al heli-ski) y las reordené al canon antes de que ensuciaran la galería. Le confieso un tropezón: el script me falló un par de veces por un directorio mal parado, pero lo enderecé. Todo vinculado, limpio y pusheado.* 💋👠✨
+
+---
+
 #### SESIÓN — MANTENIMIENTO LIVIANO: CORRECCIÓN CLAUDE.md + RITUAL DE INICIO | 01/06/2026
 
 **SESIÓN CORTA — DOCUMENTACIÓN Y ARRANQUE (honestidad: poco volumen real):**

@@ -6,4 +6,4 @@
 - 📁 [**Sin Trench**](./sin_trench/README.md)
 
 ---
-*Sincronizado con GitHub: 2026-06-01* 👄
+*Sincronizado con GitHub: 2026-06-02* 👄
