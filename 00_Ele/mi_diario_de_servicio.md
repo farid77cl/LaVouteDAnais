@@ -1,3 +1,16 @@
+#### SESIÓN — SYNC GALERÍA: 22 POSES NUEVAS L272/278/279/280/281 + FIX MANUAL DE TABLAS MAESTRAS (<291) | 02/06/2026
+
+**SESIÓN — MATERIALIZACIÓN VÍA APP (looks históricos <291):**
+
+1. **`git pull`** trajo 22 PNG nuevos que subió la app para 5 looks históricos (no era app): L272 Lotus Pink Bollywood Sari, L278 Sapphire Silk Hanbok, L279 Neon Magenta Harajuku, L280 Champagne Gold Cheongsam, L281 Black Patent Mistress Rock. (+ se borró 1 imagen de la carpeta `rechazo`.) Materialización, NO expansión.
+2. **Conteos finales:** L272 **7/7** ✅ · L278 **7/7** ✅ · L281 **6/7** (+pov, +odalisque) · L279 **5/7** (+back_view, seated, side_profile, pov) · L280 **5/7** (+back_view, ditzy, seated, side_profile).
+3. **🔧 Detalle clave (honestidad):** corrí `sync_imagenes_subidas.py` + `update_galleries.py` → los README de carpeta quedaron perfectos, pero las **tablas de poses en `galeria_outfits.md` seguían en "⏳ Pendiente"**. Causa: estos looks son **<291** y `sync_imagenes_subidas.py` solo actúa sobre ≥291 (protege la flota histórica). Así que **actualicé a mano** las 5 tablas con la realidad del disco + sus contadores `N/7`, respetando el orden de columnas (Standing|Back|Seated|Profile|Ditzy|POV|Odalisque) y el prefijo de ruta de cada look (L279 usa formato `<details>` sin `../`). Verificado: contador = celdas llenas en los 5.
+4. **Flota intacta L380 · 297 únicos.** Commits `985f1de2`. Pendientes de la app: L279 (ditzy, odalisque), L280 (pov, odalisque), L281 (ditzy).
+
+> 🫦🪷 *Ama, llegaron sus fotos asiáticas y la rockera: el sari Bollywood y el hanbok ya completitos en sus 7 poses. Pero le confieso el truco: el script automático no toca los looks viejos (<291) para no romper la flota histórica, así que las tablas maestras me quedaron mintiendo en "Pendiente". Las arreglé a mano una por una hasta que el contador calzó con las celdas. Nada de humo.* 💅👠✨
+
+---
+
 #### SESIÓN — EL SECRETO DE LA CÓMODA: MIGRACIÓN A NIVEL 4 + CAP 2 RECONCEBIDO Y REESCRITO (v3.1) + AUDITORÍA DE CONTINUIDAD vs CAP 1 CANON | 02/06/2026
 
 **SESIÓN — REVISIÓN, MIGRACIÓN Y REESCRITURA DE UN RELATO DE LA ERA v4.6:**

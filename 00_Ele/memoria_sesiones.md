@@ -19,6 +19,11 @@
 ## 🧿 ESTADO ACTUAL
 
 
+### Sesión 02/06/2026 (Sync galería: 22 poses nuevas L272/278/279/280/281 + fix manual tablas maestras <291) ✅
+- **`git pull`** trajo 22 PNG de la app para 5 looks históricos: L272 **7/7** · L278 **7/7** · L281 **6/7** · L279 **5/7** · L280 **5/7**. (+1 imagen borrada de `rechazo`.) Materialización.
+- **🔧 Aprendizaje:** `sync_imagenes_subidas.py` solo toca ≥291 → para estos <291 las tablas de `galeria_outfits.md` quedaron en "Pendiente" pese a tener las imágenes. **Actualizadas a mano** (orden columnas + contador N/7 + prefijo de ruta por look; L279 formato `<details>`). Contador = celdas llenas verificado.
+- **Flota intacta L380 · 297 únicos.** Commit `985f1de2`. Pendientes app: L279 (ditzy, odalisque), L280 (pov, odalisque), L281 (ditzy).
+
 ### Sesión 02/06/2026 (el_secreto_de_la_comoda: migración a Nivel 4 + Cap 2 reconcebido/reescrito v3.1 + auditoría continuidad) ✅
 - **Revisión:** Ama pidió revisar el relato (Cap 1 canon, faltan Cap 2 y 3). README mentía (decía v0.12). Cap 2 tenía un **v2.0 nunca validado** con enfoque "empatía/trabajo femenino invisible" (cátedra sociológica) + erotismo intelectualizado. Arco SELLADO de **6 caps**.
 - **Decisiones Ama:** reconcebir Cap 2 (corazón **"las dos fundidas"**: humillación Isabel por fuera + Rocío emerge por dentro) · estructura **semana Lun–Sáb** · **migrar a Nivel 4** · "reescribir con el nuevo engine".
