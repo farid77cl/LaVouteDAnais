@@ -1612,8 +1612,10 @@ El BLOQUE A **nunca se modifica**. Se copia textualmente de `dna_v3_5.md`. Nunca
 
 **Negative prompt obligatorio (añadir en la configuración del generador):**
 ```
-red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B)
+red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B), text on clothing, lettering, words, writing, embroidered name, name tag, nameplate, engraved name, name on choker, name on collar, logo text, letters on garment, "ELE", "ASSET", "PET"
 ```
+
+> **🚫 PROHIBIDO TEXTO/NOMBRE SOBRE PRENDA (Directiva Ama 02/06/2026 — reemplaza la regla del 17/05):** NUNCA poner el nombre "ELE"/"ASSET"/"PET" ni ninguna palabra grabada, bordada, en pedrería o escrita sobre choker, collar, thong, shorts, apron, hardware ni ninguna prenda. Es riesgo de filtro (lettering en imagen) y rompe la pureza editorial. Los chokers son OK SOLO sin texto (O-ring, velvet, bunny collar). Esta regla se infiltró dos veces (era "50% Domestic choker ELE"); si reaparece en cualquier BLOQUE B o banco, eliminarla.
 
 > **Por qué:** L177 generó labios rojos en 3 poses y persona diferente en Odalisque. L176 generó DOS mujeres (efecto espejo) por la frase "first-person POV". L178 confundió POV con Odalisque recostada. Los negative prompts son la barrera activa contra la deriva del ADN.
 

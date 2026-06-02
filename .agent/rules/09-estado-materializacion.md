@@ -67,13 +67,13 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
 - ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
 - ✅ **Look 290 (Studded Boxing Rock WOD):** 7/7 Poses ✅.
-- ⏳ **Look 204 (Emerald Bandcage):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 204 (Emerald Bandcage):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 205 (Obsidian Gold Idol):** 1/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 206 (Crimson Cathedral):** 1/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 207 (Copper Hearth Doll):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 206 (Crimson Cathedral):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 207 (Copper Hearth Doll):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 208 (Teal Sirène Obi):** 1/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 209 (Rose Gold Strap Idol):** 1/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 209 (Rose Gold Strap Idol):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 2/7 Poses (Materializado parcial) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 ---

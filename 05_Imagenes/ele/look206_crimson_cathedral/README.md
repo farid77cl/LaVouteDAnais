@@ -1,25 +1,26 @@
 # 🖼️ Galería: look206_crimson_cathedral
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 1
+Total imágenes: 2
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_206_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_standing.png) |
+| ![ele_206_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_ditzy.png) | ![ele_206_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen |
-| :---: |
-| ![ele_206_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_standing.png) |
+| Imagen | Imagen |
+| :---: | :---: |
+| ![ele_206_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_ditzy.png) | ![ele_206_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_206_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_ditzy.png)
 - [ele_206_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look206_crimson_cathedral/ele_206_standing.png)
 
 ---

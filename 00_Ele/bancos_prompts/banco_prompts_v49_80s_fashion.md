@@ -12,9 +12,9 @@
 
 > [!CAUTION]
 > **REGLAS DE ORO:**
-> 1.  CADA PROMPT incluye la descripción física COMPLETA.
-> 2.  Formato Vertical Obligatorio.
-> 3.  Helena/Miss Doll/Anaïs siempre llevan Corset y Tacones (adaptados a la estética 80s).
+> 1. CADA PROMPT incluye la descripción física COMPLETA.
+> 2. Formato Vertical Obligatorio.
+> 3. Helena/Miss Doll/Anaïs siempre llevan Corset y Tacones (adaptados a la estética 80s).
 
 ---
 
