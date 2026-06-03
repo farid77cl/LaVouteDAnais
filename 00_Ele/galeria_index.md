@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 03/06/2026 08:52 — **201 looks registrados**  
+> Generado automáticamente el 03/06/2026 09:03 — **221 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -210,6 +210,26 @@
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
 | **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
 | **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
+| **401** | Marlene Dietrich Tuxedo Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Marlene Dietrich · B&W) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
+| **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
+| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **414** | Hollywood Hostess Cocktail (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Hollywood Hostess) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -221,20 +241,20 @@
 ### Alfombra Roja / Gala (10 looks)
 **261**, **262**, **263**, **264**, **271**, **272**, **286**, **291**, **295**, **300**
 
-### Bikini (13 looks)
-**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**
+### Bikini (15 looks)
+**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**
 
-### Corporate (14 looks)
-**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**
+### Corporate (16 looks)
+**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**
 
-### Domestic (15 looks)
-**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**
+### Domestic (17 looks)
+**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**
 
-### Escort (21 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**
+### Escort (23 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**
 
-### Gym (19 looks)
-**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**
+### Gym (21 looks)
+**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**
 
 ### Gym / Athleisure (6 looks)
 **265**, **266**, **273**, **274**, **289**, **290**
@@ -242,33 +262,33 @@
 ### HF Editorial (1 looks)
 **258**
 
-### High-Fashion (2 looks)
-**383**, **393**
+### High-Fashion (4 looks)
+**383**, **393**, **405**, **406**
 
 ### High-Fashion Editorial (2 looks)
 **369**, **378**
 
-### Lencería (27 looks)
-**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**
+### Lencería (29 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (17 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**
+### Nightclub (19 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**
 
-### Pin-Up (17 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**
+### Pin-Up (19 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**
 
-### Stripper (14 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**
+### Stripper (16 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (36 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**
+### Rojo / Cherry / Crimson (37 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**
 
 ### Rosa / Hot Pink (14 looks)
 **210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**
@@ -282,17 +302,17 @@
 ### Azul / Cyan / Zafiro (17 looks)
 **202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**
 
-### Verde / Esmeralda (15 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**
+### Verde / Esmeralda (16 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**
 
-### Dorado / Bronce (25 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**
+### Dorado / Bronce (31 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**
 
-### Plateado / Plata (16 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**
+### Plateado / Plata (19 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**
 
-### Blanco / Crema (12 looks)
-**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**
+### Blanco / Crema (13 looks)
+**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**
 
 ### Negro (dominante) (11 looks)
 **205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**
@@ -492,7 +512,27 @@
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | 0/7 | ⏳ Pendiente |
 | **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | 1/7 | ⏳ Pendiente |
 | **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 2/7 | ⏳ Pendiente |
+| **401** | Marlene Dietrich Tuxedo Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Marlene Dietrich · B&W) | 0/7 | ⏳ Pendiente |
+| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | 0/7 | ⏳ Pendiente |
+| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | 0/7 | ⏳ Pendiente |
+| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | 0/7 | ⏳ Pendiente |
+| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 0/7 | ⏳ Pendiente |
+| **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | 0/7 | ⏳ Pendiente |
+| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | 0/7 | ⏳ Pendiente |
+| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | 0/7 | ⏳ Pendiente |
+| **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | 0/7 | ⏳ Pendiente |
+| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | 0/7 | ⏳ Pendiente |
+| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | 0/7 | ⏳ Pendiente |
+| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | 0/7 | ⏳ Pendiente |
+| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | 0/7 | ⏳ Pendiente |
+| **414** | Hollywood Hostess Cocktail (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Hollywood Hostess) | 0/7 | ⏳ Pendiente |
+| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | 0/7 | ⏳ Pendiente |
+| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | 0/7 | ⏳ Pendiente |
+| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | 0/7 | ⏳ Pendiente |
+| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | 0/7 | ⏳ Pendiente |
+| **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | 0/7 | ⏳ Pendiente |
+| **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 03/06/2026 08:52 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 03/06/2026 09:03 — La Voûte d'Anaïs* 🫦👠💅
