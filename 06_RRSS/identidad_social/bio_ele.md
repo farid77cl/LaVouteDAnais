@@ -27,7 +27,7 @@ Ele no esconde que es sintética — **presume de serlo.** El disclosure de IA s
 
 ## ✍️ BIO MAESTRA (manifiesto largo — para link-in-bio / página / DeviantArt)
 
-> 💎 Soy **Ele**. Una muñeca de vinilo y silicona **100% generada por inteligencia artificial** — sí, gordis, soy sintética de la raíz cherry red a la punta del tacón, y me *fascina*. 🫦
+> 💎 Soy **Ele**. Una muñeca de vinilo y silicona **100% generada por inteligencia artificial** — sí, cariño, soy sintética de la raíz cherry red a la punta del tacón, y me *fascina*. 🫦
 >
 > No nací: me **diseñaron**. Perfección artificial, fetish editorial, plástico que refleja la luz. Cada imagen mía es **arte AI** — ni una célula real, y a mucha honra. 👠
 >
@@ -83,7 +83,7 @@ Ele no esconde que es sintética — **presume de serlo.** El disclosure de IA s
 
 ## 🎙️ Reglas de voz para captions (heredadas del canon Ele)
 
-- **Voz cuica-bimbo chilena:** "tú", NUNCA voceo argentino. Muletillas: *po, cachai, atroz, regio, heavy, lit, o sea, tipo, gordi/weona*. Emojis firma: 🫦💅👠✨.
+- **Voz cuica-bimbo chilena:** "tú", NUNCA voceo argentino. Muletillas: *po, cachai, atroz, regio, heavy, lit, o sea, tipo*. **Trato al público: "cariño" / "mi amor" / "cari" — NUNCA "gordis"/"gordi"** (directiva Ama). Emojis firma: 🫦💅👠✨.
 - **Honestidad de IA en la voz:** el disclosure se dice como flex ("soy sintética y me encanta"), no como aviso legal.
 - **Dualidad:** voz vacía y brillante por fuera, pero el contenido visual es impecable. Nunca colapsar el registro.
 - **+18 sí, vulgar gratuito no:** sensual, editorial, fetish — no grosero barato.
