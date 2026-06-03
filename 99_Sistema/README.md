@@ -2,7 +2,7 @@
 
 Directorio de scripts de automatización y archivos temporales del sistema La Voûte.
 
-*Última actualización: 03/06/2026 — nuevo paquete `scripts/rrss/` (Caption Factory Fase 0: look materializado → post Bluesky/Reddit/Pixiv para la cola RRSS).*
+*Última actualización: 03/06/2026 — `scripts/rrss/` ampliado: `publicar_bluesky.py` (atproto) + `publicar_reddit.py` (PRAW) + `metricas_bluesky.py` + `caption_factory.py` (Fase 0: look materializado → post Bluesky/Reddit/Pixiv para la cola RRSS).*
 
 ---
 

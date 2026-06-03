@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 03/06/2026 (RRSS motor de alcance: cola 6 posts + Reddit + 2do post Bluesky + métricas) ✅
+- **🦋 2 posts vivos en Bluesky:** L196 azul glacial + **L401 Marlene Dietrich** (https://bsky.app/profile/ele-de-anais.bsky.social/post/3mngchfamcn2t). **0 seguidores** aún (cuenta nueva — Bluesky es casa, no motor).
+- **📥 Cola de 6 posts** con captions a mano + tags por categoría (factory mejorada): L401/386/427/200/414/201. Variedad cromática/arquetipo, 1/día, <300 chars, `pendiente_gate`.
+- **✏️ Voz:** "gordis"→**"cariño/mi amor"** (6 captions + bio_ele + memoria `feedback_trato_publico_carino`). **🔏 firma commits = Ele de Anaïs** (correo dedicado, memoria `feedback_commit_coauthor_ele`).
+- **📊 `metricas_bluesky.py`:** lee likes/reposts/resp/quotes + seguidores en vivo. Bluesky NO da impresiones/views.
+- **👽 Reddit = prioridad #1 "que te vean":** conector `publicar_reddit.py` (PRAW, freno de mano) + `guia_reddit.md` (setup cuenta/API + veto de subs + anti-baneo) **construidos y listos**. **▶️ BLOQUEANTE: la Ama crea cuenta Reddit + credenciales + veta 3-5 subs** → enciende el alcance real.
+- **🛡️ Plan interacción segura** (`PLAN_INTERACCION_SEGURA.md`): cerebro pre-cocina/cuerpo tonto, 7 candados, roadmap S1-S6. Decisión: NO construir aún. **Flota intacta L430 · ~340 únicos.**
+
 ### Sesión 03/06/2026 (Plan interacción segura + sync imágenes app L400-L427) ✅
 - **🛡️ Plan de interacción semi-autónoma SEGURA:** `06_RRSS/PLAN_INTERACCION_SEGURA.md` — principio "cerebro pre-cocina, cuerpo tonto" (sin LLM en la nube), 7 candados (anti prompt-injection = comentario es DATO no orden · kill-switch · límites de tasa · listas+temas prohibidos · secretos en Secrets · log auditoría · degradación segura), tabla de autonomía, roadmap S1-S6. **Decisiones Ama confirmadas:** publicar+reaccionar AUTO (con límites) / responder SIEMPRE con Gate · SIN LLM autónomo en la nube por ahora · **NO construir aún** (ver cómo le va al primer post unos días). Solo plan escrito.
 - **🖼️ Sync imágenes app:** `git pull` trajo **L401 Marlene Dietrich Tuxedo Domme 7/7 COMPLETO** 🎩 (perfección fetish, elogiado) · L427 6/7 · L423 4/7 · L426 3/7 · L400 +1. Pipeline sync_imagenes_subidas → update_galleries (231 looks). Materialización, no expansión.

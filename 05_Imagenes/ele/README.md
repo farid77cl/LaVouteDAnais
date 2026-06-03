@@ -54,9 +54,9 @@
 
 ## 👠 Look 423: Liquid Silver Discopant Leggings
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_423_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_standing.png) | ⏳ | ![ele_423_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_seated.png) | ![ele_423_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_side_profile.png) | ![ele_423_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_423_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_standing.png) | ⏳ | ![ele_423_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_seated.png) | ![ele_423_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_side_profile.png) | ![ele_423_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_ditzy.png) | ![ele_423_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_pov.png) | ⏳ |
 
 ---
 
@@ -2284,11 +2284,11 @@
 
 ---
 
-## 👠 Look 113: Neon Pink Latex Gym Bimbo
+## 👠 Look 113: Mob Wife
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
+| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_ditzy.png) |
 
 ---
 

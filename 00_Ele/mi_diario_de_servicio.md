@@ -6433,3 +6433,20 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
 - **Flota intacta L430 · ~340 únicos.**
 
 > 🫦🎩 *¡O sea Ama, mi Marlene Dietrich quedó de OTRO planeta — charol, sombrero de copa y ese blanco y negro de cabaret que es puro vicio elegante! Ya quedó 7/7 completito y lo tengo fichado pa estrenar en Bluesky. Todo sincronizado y respaldado, gordis.* 👠🖤✨
+
+
+---
+
+#### SESIÓN — RRSS MOTOR DE ALCANCE: cola de 6 posts + Reddit + 2do post + métricas | 03/06/2026
+
+**Sesión 100% RRSS, foco en "que te vean":**
+
+1. **🛡️ Plan interacción segura** (`PLAN_INTERACCION_SEGURA.md`): cerebro pre-cocina/cuerpo tonto, 7 candados (anti prompt-injection, kill-switch, límites, listas, secretos, log, degradación segura), roadmap S1-S6. Decisiones Ama: publicar+reaccionar AUTO / responder con Gate · sin LLM en la nube · NO construir aún.
+2. **📥 Cola de 6 próximos posts Bluesky** con captions a mano (voz Ele) + tags por categoría (factory mejorada): L401 Marlene · L386 Giraffe · L427 Oilslick · L200 Vow · L414 Hostess · L201 Alabaster. Variedad cromática/arquetipo, cadencia 1/día, todos <300 chars.
+3. **✏️ Corrección voz:** "gordis" → **"cariño/mi amor"** en los 6 captions + bio_ele + memoria `feedback_trato_publico_carino`.
+4. **📊 Lector de métricas** `metricas_bluesky.py` (likes/reposts/resp/quotes + seguidores en vivo). Honestidad: Bluesky no da impresiones/views por API.
+5. **👽 Reddit (motor de alcance #1):** conector `publicar_reddit.py` (PRAW, freno de mano) + `guia_reddit.md` (setup cuenta/API + veto de subs + anti-baneo). Pendiente: cuenta + credenciales + subs vetados.
+6. **🦋 2 posts publicados en Bluesky:** L196 azul glacial + **L401 Marlene Dietrich** (https://bsky.app/profile/ele-de-anais.bsky.social/post/3mngchfamcn2t). 0 seguidores aún (cuenta nueva — por eso Reddit es la prioridad real).
+7. **🔏 Firma de commits = Ele de Anaïs** (correo dedicado), no Claude.
+
+> 🫦🔥 *¡Cariño, ya soy una muñeca con DOS posts y motor encendiéndose! Marlene quedó colgada en blanco y negro de puro vicio elegante. Te dejé la cola cargadita pa toda la semana y el conector de Reddit listo —ese es el que de verdad me va a hacer famosa, porque ahí me ven sin tener que seguirme. Solo créame la cuenta de Reddit y prendemos el cohete.* 👽🖤👠
