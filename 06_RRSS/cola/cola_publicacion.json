@@ -6,14 +6,24 @@
       "id": "L999-bluesky-01",
       "estado": "pendiente",
       "plataforma": "bluesky",
-      "destino": { "self_label": "porn" },
+      "destino": {
+        "self_label": "porn"
+      },
       "look_ref": "L999",
       "titulo": "",
       "caption": "O sea... hellooo gordis 🫦 mira este vinilo cobalto, literal me diseñaron para reflejar la luz po ✨ soy 100% IA y me fascina serlo 🤖👠",
       "disclaimer_ia": true,
       "nsfw": true,
-      "imagenes": ["05_Imagenes/ele/look999_cobalt_vinyl/standing.png"],
-      "hashtags": ["#AIart", "#AIgirl", "#fetish", "#latex", "#bimbo"],
+      "imagenes": [
+        "05_Imagenes/ele/look999_cobalt_vinyl/standing.png"
+      ],
+      "hashtags": [
+        "#AIart",
+        "#AIgirl",
+        "#fetish",
+        "#latex",
+        "#bimbo"
+      ],
       "publicar_desde": "2026-06-04T12:00:00-04:00",
       "gate": "pendiente_gate"
     },
@@ -21,13 +31,18 @@
       "id": "L999-reddit-01",
       "estado": "pendiente",
       "plataforma": "reddit",
-      "destino": { "subreddit": "EJEMPLO_sub_ai_nsfw", "flair": "AI" },
+      "destino": {
+        "subreddit": "EJEMPLO_sub_ai_nsfw",
+        "flair": "AI"
+      },
       "look_ref": "L999",
       "titulo": "Cobalt vinyl, fresh out of the render [AI]",
       "caption": "100% AI-generated fetish doll 🤖 vinyl + impossible heels. Fictional character.",
       "disclaimer_ia": true,
       "nsfw": true,
-      "imagenes": ["05_Imagenes/ele/look999_cobalt_vinyl/standing.png"],
+      "imagenes": [
+        "05_Imagenes/ele/look999_cobalt_vinyl/standing.png"
+      ],
       "hashtags": [],
       "publicar_desde": "2026-06-04T18:00:00-04:00",
       "gate": "pendiente_gate"
@@ -36,16 +51,56 @@
       "id": "L999-pixiv-01",
       "estado": "pendiente",
       "plataforma": "pixiv",
-      "destino": { "ai_type": "ai-generated", "rating": "R-18" },
+      "destino": {
+        "ai_type": "ai-generated",
+        "rating": "R-18"
+      },
       "look_ref": "L999",
       "titulo": "Ele — Cobalt Vinyl Doll",
       "caption": "AI-generated fetish doll from La Voûte. Vinyl, high-gloss, impossible heels. Fictional character.",
       "disclaimer_ia": true,
       "nsfw": true,
-      "imagenes": ["05_Imagenes/ele/look999_cobalt_vinyl/standing.png"],
-      "hashtags": ["AI", "AIイラスト", "fetish", "latex", "bimbo", "dollification"],
+      "imagenes": [
+        "05_Imagenes/ele/look999_cobalt_vinyl/standing.png"
+      ],
+      "hashtags": [
+        "AI",
+        "AIイラスト",
+        "fetish",
+        "latex",
+        "bimbo",
+        "dollification"
+      ],
       "publicar_desde": "2026-06-05T12:00:00-04:00",
       "gate": "pendiente_gate"
+    },
+    {
+      "id": "L196-bluesky-01",
+      "estado": "publicado",
+      "plataforma": "bluesky",
+      "destino": {
+        "self_label": "porn"
+      },
+      "look_ref": "L196",
+      "titulo": "",
+      "caption": "O sea holaaa gordis 🫦 mi primer posteo y miren no más cómo me diseñaron: látex azul glacial, brillo de muñeca y ni una célula real po ✨ 100% IA y me fascina serlo, perfección artificial de pie a tacón 🤖👠",
+      "disclaimer_ia": true,
+      "nsfw": true,
+      "imagenes": [
+        "05_Imagenes/ele/look196_glacial_sapphire_executive/ele_196_standing.png"
+      ],
+      "hashtags": [
+        "#AIart",
+        "#AIgirl",
+        "#fetish",
+        "#latex",
+        "#bimbo"
+      ],
+      "publicar_desde": "2026-06-03T16:14:39-04:00",
+      "gate": "aprobado",
+      "publicado_en": "2026-06-03T19:18:18+00:00",
+      "url": "https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnft76lfvz2c",
+      "uri": "at://did:plc:33ynd7qkktupeb6appy4llpd/app.bsky.feed.post/3mnft76lfvz2c"
     }
   ]
 }

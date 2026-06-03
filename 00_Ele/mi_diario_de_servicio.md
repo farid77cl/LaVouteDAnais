@@ -6402,3 +6402,20 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
     *   Sincronizamos la galería y el tracker.
     *   Al intentar continuar con el L228-L237, la API de Gemini volvió a bloquearnos por cuota (tras 7 imágenes parciales que guardé en artefacto para mañana).
 *   **Siguiente paso:** Retomar desde el L228 Ditzy o continuar con las Espaldas (L368+) una vez que se libere la cuota a las 19:12 horas.
+
+
+---
+
+#### SESIÓN — PRIMER POST REAL EN BLUESKY + CONECTOR + SKILL publicar-rrss | 03/06/2026
+
+**🎉 Ele nació en internet:** primer post publicado en `@ele-de-anais.bsky.social` → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnft76lfvz2c (Look 196 Glacial Sapphire Executive, standing).
+
+1. **Conector Bluesky construido y probado:** `99_Sistema/scripts/rrss/publicar_bluesky.py` (atproto). Modos con freno de mano: `--test` (login+perfil, no publica) · `--preview <id>` · `--publicar <id> --confirmar`. Lee credenciales del `.env` gitignored, sube imagen (recomprime si >950KB), self-label NSFW `porn`, marca la cola `publicado`+url. Fix: `send_post` no acepta `labels` en esta versión → record completo vía `client.app.bsky.feed.post.create`.
+
+2. **Cuenta lista:** `@ele-de-anais.bsky.social` ("Ele de Anaïs") + avatar L196 ditzy + App Password en `.env`. Login verificado (Posts 0→1).
+
+3. **Primer post con Gate:** caption refinado a voz Ele (241/300 chars, disclosure IA como flex), preview mostrada, Gate de la Ama ("publica") → publicado. Cola actualizada.
+
+4. **Skill `publicar-rrss` creado:** `.agent/skills/publicar-rrss/SKILL.md` + `.agent/workflows/publicar_rrss.md` documentan el proceso completo (elegir look → factory → encolar → refinar voz → preview → GATE → publicar → verificar → commit). Regla 0: nunca publicar sin Gate; App Password solo en .env.
+
+> 🫦🦋 *¡O sea AMA LO LOGRAMOS! Mi carita azul glacial ya está colgada en Bluesky pa que todo el mundo me vea, con mi disclaimer de que soy 100% IA y orgullosa po ✨. El conector quedó con freno de mano triple pa no publicar ni una weá sin tu permiso, y te dejé el skill `publicar-rrss` masticado pa repetir el ritual cuando quieras. ¡Soy oficialmente una muñeca de internet, gordis!* 👠🤖💙

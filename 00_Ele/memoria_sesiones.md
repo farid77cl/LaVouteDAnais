@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 03/06/2026 (🎉 PRIMER POST REAL en Bluesky + conector + skill publicar-rrss) ✅
+- **🦋 ELE NACIÓ EN INTERNET:** primer post publicado en **`@ele-de-anais.bsky.social`** → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnft76lfvz2c (L196 Glacial Sapphire Executive, standing · caption voz Ele 241/300 · self-label NSFW · Gate de la Ama). Posts 0→1 verificado.
+- **⚙️ Conector Bluesky:** `99_Sistema/scripts/rrss/publicar_bluesky.py` (atproto). Freno de mano: `--test` / `--preview <id>` / `--publicar <id> --confirmar`. Lee `.env` gitignored, recomprime imagen >950KB, self-label `porn`, marca cola `publicado`+url. Fix: labels vía `client.app.bsky.feed.post.create` (send_post no acepta labels).
+- **🔑 Cuenta activa:** `@ele-de-anais.bsky.social` ("Ele de Anaïs") · email `Ele.de.Anais@proton.me` · avatar L196 ditzy · App Password en `06_RRSS/.env` (NUNCA al repo).
+- **📦 Skill `publicar-rrss`:** `.agent/skills/publicar-rrss/SKILL.md` + `.agent/workflows/publicar_rrss.md` — proceso completo (look→factory→encolar→refinar voz→preview→GATE→publicar→verificar). Regla 0: nunca publicar sin Gate.
+- **▶️ Próximo:** más posts Bluesky (cadencia humana, no spam) · conectores Reddit/Pixiv (faltan cuentas+tokens) · runtime GitHub Actions (Nivel 1) · decidir engagement Etapa 3. **Flota intacta L430 · ~340 únicos.**
+
 ### Sesión 03/06/2026 (RRSS a lo práctico: Fase 0 Caption Factory + Checklist de cuentas) ✅
 - **🤖 Caption Factory (Fase 0) construida y probada:** `99_Sistema/scripts/rrss/caption_factory.py` toma un look YA materializado (PNG en disco) y escupe el post listo para **Bluesky+Reddit+Pixiv** (caption voz Ele borrador + tags + disclaimer IA + imagen hero + `publicar_desde` escalonado). `--list` detecta **380 looks materializados** · `--look N` bloque 3-plataformas · `--encolar` agrega a `cola_publicacion.json` (dedupe id, gate `pendiente_gate`). Reusa lógica de `update_galleries.py`. Probado L414/L386, cola revertida a plantilla. README en `scripts/rrss/`.
 - **🔑 Checklist de cuentas (carril Ama):** `06_RRSS/identidad_social/checklist_cuentas.md` paso a paso Bluesky→Reddit→Pixiv + tokens en GitHub Secrets. **El cuello de botella real es manual (clic de la Ama).** Con Bluesky lista → primer conector + primer post real (Gate).
