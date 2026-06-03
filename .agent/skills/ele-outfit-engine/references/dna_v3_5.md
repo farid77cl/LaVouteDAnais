@@ -15,8 +15,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ## 🚫 Negative Prompt Obligatorio (configurar en el generador antes de cada batch)
 
 ```
-red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers
+red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands
 ```
+
+> 🧤 **GUANTES PROHIBIDOS (Directiva Ama 03/06/2026 — CANON ABSOLUTO):** Ele **ya no usa guantes de ningún tipo**. `gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, covered hands` van SIEMPRE en el negative base. Las manos van **siempre desnudas** para lucir las uñas French XXXL. Esto deroga por completo el antiguo "Glove Canon" (ver abajo). Antes de cerrar cualquier batch: `grep glove` en los prompts debe dar **0** en el positive.
 
 Añadir al negative prompt cualquier accesorio NO incluido en el BLOQUE B (ej: `bag`, `clutch`, `belt` si no están en el look diseñado).
 
@@ -44,41 +46,13 @@ Cualquier prompt de calzado **debe** contener la palabra `stiletto` (heel/pump/b
 
 Tacón canónico: 12–18 cm. Para escenarios street/cuico se admite hasta 14 cm; para gala/escort/stripper hasta 18 cm.
 
-## 🧤 Glove Canon (REGLA INAMOVIBLE — Ama 14/05/2026)
+## 🧤 GUANTES PROHIBIDOS (Directiva Ama 03/06/2026 — DEROGA el antiguo Glove Canon)
 
-**Cuando un Look incluye guantes, los guantes DEBEN dejar las uñas French XXXL completamente visibles. No hay guantes cerrados en el catálogo de Ele.**
+**Ele NO usa guantes. De ningún tipo, en ningún arquetipo, en ninguna pose.**
 
-El BLOQUE A obliga `extra long French XXXL nails with white tips and pink base 5cm`. Si el BLOQUE B introduce un guante cerrado, el modelo entra en conflicto irresoluble. Resolución canónica: las uñas son prioritarias; el guante se adapta a ellas.
+El antiguo "Glove Canon" (4 tipos autorizados: fingerless opera, claw cut-out, transparent fingertip, wrist-length) queda **completamente derogado**. La razón original era proteger las uñas French XXXL del conflicto con el guante; la solución definitiva de la Ama es más simple: **eliminar el guante**. Las manos van **siempre desnudas**, mostrando las uñas sin obstáculo.
 
-### Cuatro tipos autorizados
-
-✅ **Fingerless opera** — `fingerless opera-length [material] gloves ending at second knuckle, French XXXL nails fully visible on extended fingers`
-
-✅ **Claw cut-out** — `[material] gloves with cut-out fingertips exposing French XXXL nails, sharp pointed nails extending beyond glove edge`
-
-✅ **Transparent fingertip** — `[material] opera gloves with sheer transparent fingertip panels, French XXXL nails fully visible through the transparent fabric`
-
-✅ **Wrist-length / short** — `wrist-length [material] gloves stopping at wrist bone, hands completely bare, French XXXL nails fully visible`
-
-❌ **Prohibido:** `full-finger gloves`, `closed gloves`, `mittens`, `gloves with fingertips` (sin especificar transparencia), `painted nails through gloves`, `nails visible inside gloves`.
-
-### Mapeo arquetipo → tipo default (Mix según arquetipo)
-
-| Arquetipo | Default |
-| :--- | :--- |
-| Escort / Gala / High-Fashion | Transparent fingertip |
-| Stripper / Domme | Claw cut-out |
-| Gym / Athleisure | Fingerless o wrist-length |
-| Domestic (cocina escultórica) | Transparent fingertip o fingerless |
-| Corporate / Power Secretary | Wrist-length o transparent fingertip |
-| Pin-Up / Retro | Fingerless o wrist-length |
-
-### Negative prompt obligatorio cuando hay guantes (acumular sobre el base)
-
-```
-gloves covering nails, hidden nails, hidden hands, closed gloves, fingertips covered by glove fabric, mittens, glove cutting fingers, broken sleeve glove, nails painted on glove surface, gloves that hide French XXXL nails
-```
-
-### Redundancia obligatoria
-
-Cuando hay guantes, el BLOQUE B DEBE repetir `French XXXL nails fully visible` dentro de la descripción del guante. La redundancia con el BLOQUE A confirma prioridad de las uñas.
+- ❌ Prohibido en el BLOQUE B (outfit): `opera gloves`, `elbow gloves`, `wrist gloves`, `fingerless gloves`, `claw gloves`, `latex/satin/lace/leather gloves`, cualquier prenda que cubra las manos.
+- ✅ Negative base ya incluye: `gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands`.
+- 🔁 **Sustitución al diseñar:** si una silueta de referencia (Newton, Bettie Page, Versace S&M, Dita, etc.) llevaba guantes como accesorio dominatrix/courtesan, se reemplaza por otro accesorio canónico **que no cubra las manos**: `riding crop`, `whip-belt`, `choker O-ring`, `body chains`, `officer cap`, `Bayonetta glasses`, `seamed stockings`, `waist cincher`. Nunca por otro guante.
+- ✔️ **Chequeo pre-batch:** `grep -i glove` sobre los prompts del positive debe dar **0**. Si aparece, se borra del outfit antes de generar.

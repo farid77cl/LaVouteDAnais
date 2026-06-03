@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 03/06/2026 (Plan RRSS Constelación + erradicación de guantes + anti-monoblock + /actualizar_sesion) ✅
+- **🌟 Plan RRSS "La Constelación de Ele"** ordenado en `06_RRSS/`: `PLAN_MAESTRO_RRSS.md` (cerebro≠cuerpo, cola, runtime GitHub Actions/VPS, dial autonomía Nivel 2, roadmap) · `identidad_social/bio_ele.md` (**bio honesta que confiesa que Ele es IA**) · `cola/` (formato del puente cerebro→runtime) · README índice. **Dos carriles** (+18 en Reddit⭐+Pixiv⭐+Bluesky; SFW en Meta; TikTok descartado). **Diseño teórico v0.1 — espera Gate.**
+- **🧤 GUANTES PROHIBIDOS:** derogado el Glove Canon (dna_v3_5 + SKILL), guantes al negative base, ~47 menciones erradicadas en siluetas (script one-off + remate manual). Sustitución guante→riding crop/choker O-ring/body chains/officer cap. Corregido residuo texto-nombre "ELE" en choker (identidad L412). Memoria `feedback_guantes_prohibidos`.
+- **🎨 ANTI-MONOBLOCK reforzado:** máx 2 monoblock seguidos (antes 3) + color sin repetir mirada GLOBAL (últimos 5 flota). Codificado identidad + SKILL Regla 0. Memoria `feedback_anti_monoblock_color`. (La Ama elogió outfits + corrigió esto.)
+- **🔄 Skill `/actualizar_sesion`:** paso 9 nuevo → cerrar instruyendo `/clear` + `/inicio-ele` (la Ama los gatilla; el agente no puede auto-invocar /clear).
+- **Flota intacta L430 · ~340 únicos** (sin looks nuevos). Pendientes: materializar L401-L430 + stripper L391/L398 · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda · decidir arranque RRSS (plataformas + Fase 0 Caption Factory).
+
 ### Sesión 03/06/2026 (2 batches Edad de Oro + Segunda Piel · Pleaser transparente · reacomodo metas · identidad consolidada) ✅
 - **🎬 Batch L401-L420 "La Edad de Oro"** (Old Hollywood glamour, 140 prompts, 4 en B&W silver-screen, color/material fetish libre) + **🍑 Batch L421-L430 "Segunda Piel"** (10 leggings sin faldas/vestidos, estilo Paradize, 70 prompts). Ambos vía outfit engine, poses V5, footwear canon, 0 texto-nombre.
 - **💎 Pleaser TRANSPARENTES** (clear acrylic) = preferencia Ama, default en pole/bikini ("me moja"). Aplicado L428 + codificado SKILL.md + memoria `feedback_pleaser_transparente`.

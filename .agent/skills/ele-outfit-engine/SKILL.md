@@ -36,66 +36,20 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 
 **Look 176 (Neon Coral Flash) — caso histórico:** Se generó con `clear perspex platform mule sandals` y el resultado se leyó como wedge. **FLAG** para regeneración con `clear perspex platform stiletto sandals, 14cm pin stiletto heel, ankle strap`.
 
-## 🧤 Glove Canon (REGLA INAMOVIBLE — Ama 14/05/2026)
+## 🧤 GUANTES PROHIBIDOS (Directiva Ama 03/06/2026 — DEROGA el antiguo Glove Canon)
 
-**Cuando un Look incluye guantes, los guantes DEBEN dejar las uñas French XXXL completamente visibles. No hay guantes cerrados en el catálogo de Ele.**
+**Ele NO usa guantes. De ningún tipo, en ningún arquetipo, en ninguna pose.**
 
-**Razonamiento:** El BLOQUE A obliga `extra long French XXXL nails with white tips and pink base 5cm`. Si el BLOQUE B introduce un guante cerrado, el modelo entra en conflicto irresoluble y produce uno de cuatro fallos canónicos (ver tabla histórica abajo). La regla resuelve el conflicto haciendo de las uñas el elemento prioritario: el guante se adapta a las uñas, nunca al revés.
+El antiguo "Glove Canon" (4 tipos autorizados: fingerless opera / claw cut-out / transparent fingertip / wrist-length) queda **completamente derogado**. La razón original era resolver el conflicto entre el guante y las uñas French XXXL; la solución definitiva de la Ama es eliminar el guante. **Manos siempre desnudas**, uñas a la vista sin obstáculo.
 
-### Cuatro tipos canónicos autorizados
+### Qué hacer al diseñar
 
-| Tipo | Vocabulario obligatorio en BLOQUE B | Qué cubre | Qué deja visible |
-| :--- | :--- | :--- | :--- |
-| **1. Fingerless opera** | `fingerless opera-length [material] gloves ending at second knuckle, French XXXL nails fully visible on extended fingers` | Antebrazo + dorso + primer falange | Dedos desde falange media + uñas |
-| **2. Claw cut-out** | `[material] gloves with cut-out fingertips exposing French XXXL nails, sharp pointed nails extending beyond glove edge` | Mano completa | Solo las puntas + uñas |
-| **3. Transparent fingertip** | `[material] opera gloves with sheer transparent fingertip panels, French XXXL nails fully visible through the transparent fabric` | Estructuralmente toda la mano, ópticamente dedos traslúcidos | Uñas a través del material |
-| **4. Wrist-length / short** | `wrist-length [material] gloves stopping at wrist bone, hands completely bare, French XXXL nails fully visible` | Solo antebrazo o muñeca | Mano entera + uñas |
+- ❌ **Prohibido en el BLOQUE B (outfit):** `opera gloves`, `elbow gloves`, `wrist-length gloves`, `fingerless gloves`, `claw cut-out gloves`, `transparent fingertip gloves`, `latex/satin/lace/leather/velvet gloves` — cualquier prenda que cubra las manos.
+- ✅ **Negative base** (ya en `dna_v3_5.md`) incluye: `gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands`.
+- 🔁 **Sustitución obligatoria:** muchas siluetas de referencia (Newton, Bettie Page, Versace Miss S&M, Dita, Pro-Dom, Officer Domme) usaban guantes como **accesorio dominatrix/courtesan**. Al diseñar esas siluetas, **reemplazar el guante** por otro accesorio canónico que NO cubra las manos: `riding crop`, `whip-belt`, `choker O-ring`, `body chains`, `officer cap`, `Bayonetta glasses`, `seamed stockings`, `waist cincher`, `cuffs en muñeca` (brazaletes, no guantes). **Nunca** por otro guante.
+- ✔️ **Chequeo pre-batch (OBLIGATORIO):** `grep -i glove` sobre los prompts del positive debe dar **0**. Si aparece, se borra del outfit antes de generar. Igual que el chequeo `grep chunky` y `grep` de texto-nombre.
 
-### Mapeo arquetipo → tipo de guante default (Mix según arquetipo)
-
-| Arquetipo | Tipo default | Por qué |
-| :--- | :--- | :--- |
-| **Escort / Gala / High-Fashion** | Transparent fingertip | Mantiene la línea aristocrática + uñas visibles. Editorial / gala escultórica. |
-| **Stripper / Domme** | Claw cut-out | Agresividad fetish, uñas como arma decorativa. |
-| **Gym / Athleisure** | Fingerless o wrist-length | Funcionalidad deportiva, no asfixia el grip. |
-| **Domestic (cocina escultórica)** | Transparent fingertip o fingerless | Editorial + permite manipular utensilios. |
-| **Corporate / Power Secretary** | Wrist-length o transparent fingertip | Formalidad sin esconder uñas. |
-| **Pin-Up / Retro** | Fingerless o wrist-length | Vintage; mostrar la manicura es parte del look. |
-
-### Vocabulario PROHIBIDO en BLOQUE B (cuando hay guantes)
-
-```
-full-finger gloves, closed gloves, mittens, gloves with fingertips
-(sin especificar transparencia), painted nails through gloves,
-nails visible inside gloves
-```
-
-### Negative prompt obligatorio cuando hay guantes
-
-Añadir al negative prompt del generador (acumulativo sobre el negative prompt base):
-
-```
-gloves covering nails, hidden nails, hidden hands, closed gloves,
-fingertips covered by glove fabric, mittens, glove cutting fingers,
-broken sleeve glove, nails painted on glove surface,
-gloves that hide French XXXL nails
-```
-
-### Redundancia obligatoria en BLOQUE B
-
-Cuando hay guantes, **el BLOQUE B DEBE repetir** la frase `French XXXL nails fully visible` dentro de la descripción del guante. Esta redundancia con el BLOQUE A confirma al modelo que las uñas son prioritarias y NO se ocultan bajo el guante.
-
-### Casos históricos de fallo (referencia, no regenerar)
-
-| Look | Patrón de fallo | Causa diagnosticada |
-| :--- | :--- | :--- |
-| **L182 Chrome Domestique** (POV+Ditzy) | Guante truncado en muñeca | `elbow gloves` chrome — modelo cortó el guante antes de la mano para liberar las uñas |
-| **L169 Midnight Silk Escort** (Ditzy) | Uñas atravesando el guante | `velvet opera gloves` — modelo dibujó French XXXL POR ENCIMA del terciopelo (físicamente imposible) |
-| **L177 Ivory Column** (Standing) | Guante completo, uñas escondidas | `elbow gloves` ivory — modelo cerró los dedos sobre clutch inventado para esconder el conflicto. Pérdida de ADN. |
-| **L165 Neon Lime Gym** (todas las poses) | Guante desaparecido | `latex workout gloves with exposed fingertips` — modelo omitió el guante completo |
-| **L183 Chrome Gold Escort Suprema** (Standing) | Guante desaparecido | `wrist-length gloves` chrome gold — modelo dejó brazos desnudos con tatuajes |
-
-Por orden de la Ama (14/05/2026): los activos existentes de estos 5 looks **se conservan**. La regla aplica desde el Look 186 en adelante.
+> **Nota histórica:** las siluetas de las bibliotecas (§ identidad_ele.md y abajo) tenían `opera gloves` incrustado como componente. Esas menciones se erradicaron el 03/06/2026. Si alguna sobrevive en texto de referencia, **se ignora**: el guante no se materializa nunca.
 
 ## 🛠️ Workflow Operativo
 
@@ -116,14 +70,21 @@ Antes de proponer cualquier Look, consulta los últimos looks del sub-arquetipo 
 | Familia cromática dominante | ≥ 5 looks previos del mismo sub-arquetipo |
 | Material principal | ≥ 2 looks previos del mismo sub-arquetipo |
 | Setting/escenario | ≥ 3 looks previos del mismo sub-arquetipo |
+| **Familia cromática dominante (transversal)** | **≥ 5 looks previos GLOBALES (cualquier sub-arquetipo), no solo del mismo** |
+| **Modo cromático Monoblock** | **máx. 2 looks Monoblock consecutivos GLOBALES → el 3º debe ser Contraste / Triada / Gradiente / Neutro+Pop** |
+
+> 🎨 **REGLA ANTI-MONOBLOCK REFORZADA (Directiva Ama 03/06/2026):** La Ama detectó **exceso de monoblock** (looks de un solo color) y **repetición de colores**. Dos correcciones duras:
+> 1. **Monoblock NO consecutivo:** máximo **2 looks Monoblock seguidos** (antes eran 3). El 3º obliga a un modo multicolor (Contraste 60/30/10, Triada, Gradiente, o Neutro+Pop). El monoblock es un recurso, no el default.
+> 2. **Color no se repite (mirada global, no por sub-arquetipo):** antes de fijar el color, revisar las **familias dominantes de los últimos 5 looks GLOBALES** (toda la flota reciente, sin importar sub-arquetipo) y elegir una familia **NO usada** en esa ventana. La repetición de color que molesta a la Ama es transversal: da igual que sea un Gym rojo y un Escort rojo — siguen siendo dos rojos seguidos.
 
 **Protocolo:**
-1. Consultar los últimos N looks del sub-arquetipo (N = ventana de la tabla).
+1. Consultar los últimos N looks del sub-arquetipo (N = ventana de la tabla) **y los últimos 5 looks globales** (para color y monoblock).
 2. Listar qué siluetas, colores, materiales y settings están bloqueados.
-3. Elegir combinación que NO aparezca en la lista bloqueada.
-4. Solo entonces avanzar al Paso 1.
+3. **Contar cuántos de los últimos 2 looks globales fueron Monoblock.** Si ambos lo fueron → este look NO puede ser Monoblock.
+4. **Elegir una familia cromática que no aparezca en los últimos 5 looks globales** + un modo cromático que rompa la racha si hace falta.
+5. Solo entonces avanzar al Paso 1.
 
-**Ejemplo:** Últimos 3 Pin-Up: PA1 vinyl polka-dot (hot pink) · PA3 sundress (powder blue) · PB1 Space Age (blanco) → Bloqueadas: siluetas PA1/PA3/PB1 · colores hot pink / powder blue / blanco ártico → Próximo look: cualquier código libre + color no bloqueado.
+**Ejemplo:** Últimos 3 Pin-Up: PA1 vinyl polka-dot (hot pink) · PA3 sundress (powder blue) · PB1 Space Age (blanco) → Bloqueadas: siluetas PA1/PA3/PB1 · colores hot pink / powder blue / blanco ártico. Últimos 2 globales fueron Monoblock champagne + Monoblock oxblood → **este look NO puede ser Monoblock** → forzar Contraste/Triada con familia no usada (ej. teal + tangerine acento).
 
 ---
 
@@ -163,16 +124,16 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 
 **Orden de prioridad fijo (actualizado 21/05/2026 · flota 220):**
 ```
-1. Pin-Up      (−14) 🔴
-2. Gym         (−11) 🔴
-3. Escort      (−10) ⚠️
-4. Stripper     (−9) ⚠️
-5. Nightclub    (−7) ⚠️
-6. Domestic     (−7) ⚠️
-7. Lencería     (−1) ⚠️
-8. HF Editorial  (0) ✅
-9. Bikini        (0) ✅
-10. Corporate   (+6) 🔴 PAUSA
+1. Pin-Up (−14) 🔴
+2. Gym (−11) 🔴
+3. Escort (−10) ⚠️
+4. Stripper (−9) ⚠️
+5. Nightclub (−7) ⚠️
+6. Domestic (−7) ⚠️
+7. Lencería (−1) ⚠️
+8. HF Editorial (0) ✅
+9. Bikini (0) ✅
+10. Corporate (+6) 🔴 PAUSA
 ```
 
 **Composición recomendada de batches:**
@@ -440,7 +401,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 > - **Material fetish dominante** (latex/vinyl/PVC como pieza principal, no detalle)
 > - **Lingerie peek** (bra visible bajo blazer abierto, garter visible bajo slit, thigh-highs visibles)
 > - **Heels Pleaser-ref o stiletto ≥12cm** + nylons con costura trasera o thigh-highs
-> - **Accesorio dominatrix codificado** (opera gloves long, whip-belt, dagger-toe heels, Bayonetta glasses)
+> - **Accesorio dominatrix codificado** (whip-belt, dagger-toe heels, Bayonetta glasses)
 >
 > Si el outfit es "Tom Ford clean" sin transgresión visible → **NO es Corporate Ele V3**, es business casual genérico.
 
@@ -529,11 +490,11 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 | C1 latex blazer-dress + shoulders arquitectónicos + whip belt | Power | Mugler cyber-Amazon goddess |
 | C11 gilded corset + C8 sheer blouse + wide trousers + Bayonetta glasses | Power | Schiaparelli gilded office |
 | C8 sheer button-down nipple-peek + pencil skirt + Bayonetta glasses | Power | Saint Laurent sleaze |
-| C1 latex bodysuit + Medusa belt + falda lápiz vinyl + opera gloves | Power | Versace Miss S&M power |
+| C1 latex bodysuit + Medusa belt + falda lápiz vinyl | Power | Versace Miss S&M power |
 | C5 wet-satin + shawl tuxedo + cigarette holder | Power | Tom Ford velvet tux refinado |
 | C7 vinyl trench ceñido + nada debajo + bota stiletto knee-high | Power | Babygirl Domme + Newton |
 | C8 sheer silk blouse + pencil skirt midi + Bayonetta glasses + ponytail | Office Siren | Office Siren classic TikTok |
-| C13 vinyl catsuit zip-up + Bayonetta glasses + opera gloves | Office Siren | Bayonetta catsuit |
+| C13 vinyl catsuit zip-up + Bayonetta glasses | Office Siren | Bayonetta catsuit |
 | C3 leather oxblood bodycon shirt-dress + corset visible + thigh-highs | Office Siren | Secretary 2002 bondage |
 | C8 sheer + slim-fit knit + tailored trousers taupe + tortoiseshell glasses | Office Siren | Babygirl intern |
 | C7 vinyl trench + lingerie debajo + briefcase + Bayonetta glasses | Office Siren | Babygirl trench surprise |
@@ -669,7 +630,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 | Combo | Polo | Lectura |
 |---|---|---|
 | D4 leopard print bodycon mini + Pleaser + gold chain + Birkin | Trophy | DA1 Trophy Animal Print canónica |
-| D1 vinyl mini-dress blush + apron architectural + pink gloves | Trophy | DA2 Stepford Modern |
+| D1 vinyl mini-dress blush + apron architectural | Trophy | DA2 Stepford Modern |
 | D7 satin líquido + robe abierta + lingerie + Pleaser slipper | Trophy | DA3 Real Housewives loungewear |
 | D6 wet-satin + wrap-dress + sandal + Hermès clutch | Trophy | DA4 Brunch Cumbres del Cóndor |
 | D1 wet-look legging + crop bra-top latex + Pleaser platform | Trophy | DA5 Yoga Room Trophy |
@@ -680,7 +641,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 | D8 bunny tail + corset bodysuit + ears + bow tie + cuffs | Maid | DB4 Playboy Bunny canon |
 | D8 latex bunny bodysuit + delantal mini + thigh-high boots | Maid | DB5 Latex Bunny Maid (Yomorio) |
 | D3 latex + micro-vestido + collar O-ring + delantal mini | Maid | DB6 Micro-Maid Sumisa |
-| D3 latex + uniforme + thigh-high stiletto + plumero + opera gloves + cap | Maid | DB7 Power-Maid Domme |
+| D3 latex + uniforme + thigh-high stiletto + plumero + cap | Maid | DB7 Power-Maid Domme |
 
 **Combos PROHIBIDOS en Domestic:**
 - Wiggle dress 50s · sundress+crinolina · sweater-dress 50s · apron peplum vintage (todo va a Pin-Up)
@@ -786,7 +747,7 @@ Para que la stripper se vea como STRIPPER y no como modelo de catálogo en stage
 | **S11** | **CXIX Gecko Grip fabric (sticky pole grip, glistens en movimiento)** 🆕 | Pole |
 | **S12** | Latex club fetish | Ambos |
 | **S13** | **Vinyl-treated denim (Magic City Y2K)** 🆕 | Ambos (urban strip) |
-| **S14** | **Opera gloves long + seamed stockings (Dita signature)** 🆕 | Stage (burlesque) |
+| **S14** | **Seamed stockings + waist cincher + sheer panels (Dita signature)** 🆕 | Stage (burlesque) |
 
 **❌ Materiales prohibidos:** algodón · denim natural (sin tratamiento vinyl) · jersey · lana · tweed · tela natural sin brillo · materiales mate.
 
@@ -837,7 +798,7 @@ Para que la stripper se vea como STRIPPER y no como modelo de catálogo en stage
 | **B · Callejera** | Esquina neón / motel luz roja / strip mall / Tokyo Kabukicho. Raw + Y2K + Pretty Woman defiance. | Pretty Woman 1990 (canónica) · Julia Fox 2022 · Kabukicho · Motel red light · Magic City crossover |
 | **C · Domme de Club** | Dungeon BDSM élite / sala VIP fetish / club after-hours. La pro-dom refinada. | Pro-Dominatrix real · Newton "Saddle I" · Bordelle · Atsuko Kudo · officer fetish |
 
-Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (Haute: punta fina elegante; Callejera: plataforma Pleaser permitida; Domme: knee-high/thigh-high stiletto + opera gloves).
+Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (Haute: punta fina elegante; Callejera: plataforma Pleaser permitida; Domme: knee-high/thigh-high stiletto).
 
 **Diferencias clave vs. otros sub-arquetipos:**
 - **vs. Nightclub:** Escort opera en espacios privados cerrados (hotel, yate) · Nightclub opera en dance-floors públicos.
@@ -855,7 +816,7 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 > - **Cutout estratégico** o **O-ring conector visible** (Pretty Woman signature)
 > - **Lingerie/corset visible** bajo sastrería
 > - **Heels stiletto ≥12cm** + nylons costura o thigh-high boots
-> - **Accessory courtesan codificado** (riding crop, opera gloves long, choker O-ring, body chains, officer cap)
+> - **Accessory courtesan codificado** (riding crop, choker O-ring, body chains, officer cap)
 
 **Biblioteca de siluetas V3:** 18 opciones (7 Haute + 7 Callejera + 4 Domme)
 
@@ -865,11 +826,11 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 |--------|---------|------------|
 | **EA1** | **Belle de Jour Slip** — bias-cut slip dress 30s en wet-satin o liquid metal (elegancia fluida aristocrática refinada) | Catherine Deneuve 1967 |
 | **EA2** | **Madame Claude Column** — columna líquida floor-length + slit lateral profundo + capa de tafetán vinyl (entrada dramática suite presidencial) | Madame Claude |
-| **EA3** | **Helmut Newton Hotel** — corset overbust visible + skirt midi pencil + opera gloves long + thigh-high stockings seamed + riding crop opcional | Newton "Saddle I" 1976 |
-| **EA4** | **Yacht Liquid Gold** — bustier rígido + maxi columna champagne liquid gold chrome + slit profundo lateral + opera gloves cortas | Monte Carlo yacht |
+| **EA3** | **Helmut Newton Hotel** — corset overbust visible + skirt midi pencil + thigh-high stockings seamed + riding crop opcional | Newton "Saddle I" 1976 |
+| **EA4** | **Yacht Liquid Gold** — bustier rígido + maxi columna champagne liquid gold chrome + slit profundo lateral | Monte Carlo yacht |
 | **EA5** | **Sugar Baby Bodycon** — fitted bodycon wet-look ruby/cobalt/emerald + slit + classy stiletto + clutch + jewels mínimos delicate | Sugar Baby 2025 |
 | **EA6** | **Crystal Mesh Gala** — crystal mesh sheer column dress + bias cut + nipple-tease (la prenda parece desnudo, gala VIP) | Saint Laurent + Newton crossover |
-| **EA7** | **Newton Saddle Tease** — vinyl jumpsuit con harness leather/chrome detail + opera gloves + bota knee-high + riding crop signature | Newton hotel S&M |
+| **EA7** | **Newton Saddle Tease** — vinyl jumpsuit con harness leather/chrome detail + bota knee-high + riding crop signature | Newton hotel S&M |
 
 **POLO B · Escort Callejera (Pretty Woman + Julia Fox Y2K + Tokyo Kabukicho + Motel + Magic City):**
 
@@ -889,10 +850,10 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 
 | Código | Silueta | Referencia |
 |--------|---------|------------|
-| **EC1** | **Pro-Dom Latex Corset** — latex corset overbust entallado + microskirt latex hasta el muslo + OTK stiletto boots + officer cap leather + opera gloves cortas | Pro-Dominatrix canon |
-| **EC2** | **Strappy Harness Bodysuit** — strappy harness bodysuit con micro-piezas estratégicas + thigh-high boots plataforma + opera gloves latex + cuffs decorativas | Bordelle architecture |
+| **EC1** | **Pro-Dom Latex Corset** — latex corset overbust entallado + microskirt latex hasta el muslo + OTK stiletto boots + officer cap leather | Pro-Dominatrix canon |
+| **EC2** | **Strappy Harness Bodysuit** — strappy harness bodysuit con micro-piezas estratégicas + thigh-high boots plataforma + cuffs decorativas | Bordelle architecture |
 | **EC3** | **Vinyl Cut-Out + Crop** — vinyl cut-out column dress con cadenas en torso + choker O-ring metal + stiletto fino + riding crop opcional | Newton + Dungeon |
-| **EC4** | **Officer Domme** — latex catsuit + officer cap leather + opera gloves cortos + leather belt ancho con hebilla chrome + bota knee-high stiletto | Officer fetish + Pro-Dom |
+| **EC4** | **Officer Domme** — latex catsuit + officer cap leather + leather belt ancho con hebilla chrome + bota knee-high stiletto | Officer fetish + Pro-Dom |
 
 **Settings POLO C:** Dungeon BDSM élite con instrumentos visibles (cross, sling al fondo) · sala VIP red velvet privada con corset stand visible · fetish club after-hours con sling/cross al fondo · riding ring privado con saddle/harness props · dressing room dungeon con corset stands + whips display · black-tile bathroom dungeon · throne room private.
 
@@ -966,7 +927,7 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 |-------|------|---------|
 | EA1 Belle de Jour slip + wet-satin pearl white + suite presidencial | Haute | Belle de Jour 1967 refinada |
 | EA2 columna líquida + slit profundo + Madame Claude jewel ruby | Haute | Madame Claude entrada |
-| EA3 corset overbust + opera gloves + thigh-high stockings + riding crop + Hotel Lancaster | Haute | Newton "Saddle I" |
+| EA3 corset overbust + thigh-high stockings + riding crop + Hotel Lancaster | Haute | Newton "Saddle I" |
 | EA4 bustier + maxi columna champagne gold + yate | Haute | Yacht Monte Carlo |
 | EA6 crystal mesh sheer column + nipple-tease + gala | Haute | Saint Laurent + Newton crossover |
 | EB1 cropped vinyl top + micro skirt + silver O-ring + thigh-high black leather | Callejera | Pretty Woman canónica |
@@ -974,8 +935,8 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 | EB3 micro-shorts + crop atado + medias costura + Kabukicho neon | Callejera | Tokyo entertainment |
 | EB6 cutout side-slits cadera + vinyl mirror + thong asomando | Callejera | Magic City crossover |
 | EC1 latex corset overbust + microskirt + OTK boots + officer cap | Domme | Pro-Dom canon |
-| EC2 strappy harness bodysuit + thigh-high platform + opera gloves latex | Domme | Bordelle architecture |
-| EC4 latex catsuit + officer cap + opera gloves + chrome belt | Domme | Officer fetish + Pro-Dom |
+| EC2 strappy harness bodysuit + thigh-high platform | Domme | Bordelle architecture |
+| EC4 latex catsuit + officer cap + chrome belt | Domme | Officer fetish + Pro-Dom |
 
 #### 🚫 Combos PROHIBIDOS en Escort
 
@@ -1019,7 +980,7 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 | **PA3** | **Calendar Halter Sundress** — halter sundress + falda crinolina full + petticoat peek | Elvgren swing |
 | **PA4** | **Sweater Girl** — jumper ajustado vinyl + high-waist pencil skirt | Lana Turner 1940s |
 | **PA5** | **Elvgren Calendar Playsuit** — playsuit halter + copa cónica pointy cups + wardrobe-malfunction joyful | Elvgren / Vargas calendar |
-| **PA6** | **Bettie Page Bondage** ⭐ NUEVO — vinyl bra+thong + tights seamed con costura + opera gloves long + whip/crop + bota stiletto knee-high + dominatrix pose | Bettie Page + Irving Klaw 1950s |
+| **PA6** | **Bettie Page Bondage** ⭐ NUEVO — vinyl bra+thong + tights seamed con costura + whip/crop + bota stiletto knee-high + dominatrix pose | Bettie Page + Irving Klaw 1950s |
 | **PA7** | **High-Waist Beach 50s** — high-waist bikini 50s + scarf-halter + pañuelo en pelo | Beach 50s vintage |
 
 **POLO B · Retro-Futurismo (1960s-1980s):**
@@ -1105,7 +1066,7 @@ Materiales: SIEMPRE vinyl/PVC/latex/wet-look — nunca tela. Stiletto siempre (H
 > - **High-cut extremo** (Baywatch line up to hip · Barbarella catsuit · Bettie Page tights)
 > - **Heels Pleaser-ref o stiletto ≥12cm** (incluso en beach — NUNCA chanclas/sandalias planas)
 > - **Reference temporal explícita** (la prenda DEBE leerse como retro por silueta, no contemporánea)
-> - **Bondage accessory** (whip, opera gloves, choker, riding crop) si es PA6 branch
+> - **Bondage accessory** (whip, choker, riding crop) si es PA6 branch
 
 #### 🎭 Personality Tokens — OBLIGATORIO en BLOQUE C
 
@@ -1656,15 +1617,15 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 2. **Back View — Fetish Model Back:** `full body back view with exaggerated booty-pop (hip thrust back, ass-out), spine forming dramatic S-curve, one hand on hip with XXXL nails fanned, other hand reaching up through cherry red hair OR touching nape of neck, head turned looking over shoulder predatory through hair veil, lips parted glossy, half-lidded sultry gaze, weight on one heel with other foot pointed pigeon-toed inward (signature fetish pose), one shoulder dropped exposing back/spine, hair cascading down spine OR pulled forward over shoulder, [fondo]`
 
 3. **Seated View — Fetish Model Seated:** `seated with exaggerated knee-over-knee cross, top leg's stiletto pointing directly at camera in sharp foreground, lumbar arch extreme (NOT leaning back), bust angled forward toward camera, one hand resting on top knee with XXXL nails fanned and finger trailing inner thigh, other hand cradling jaw OR fingertip pressed against bottom lip, shoulders rolled back to extend décolleté, lips parted glossy, half-lidded predatory direct gaze, hair cascading over one shoulder framing breast, [fondo]`
-   **Variantes Seated por arquetipo (sustituir el BLOQUE C según el sub-arquetipo del Look):**
+ **Variantes Seated por arquetipo (sustituir el BLOQUE C según el sub-arquetipo del Look):**
 
-   | Arquetipo | BLOQUE C Seated |
-   |-----------|----------------|
-   | **Corporate / HF Editorial** | `seated power pose at boardroom table or throne chair, legs sharply crossed at knee with top stiletto pointed at camera, lumbar arch maintained, one hand fanned on top knee XXXL nails visible, other hand cradling jaw with fingertip on lip, spine imperious, predatory direct gaze, [fondo sala junta / museum hall]` |
-   | **Lencería / Escort Haute** | `seated reclined fetish-model languor, one leg extended forward stiletto pointed, other leg bent at exaggerated angle, lumbar arch even while reclining, upper body leaning back on one hand with other hand sliding from collarbone down between breasts to navel, half-lidded sultry gaze, lips parted glossy, [fondo suite / boudoir]` |
-   | **Nightclub / Pin-Up** | `perched on bar stool edge with one leg up crossed top stiletto pointing at camera, other leg dangling toes pointed, hand on inner thigh with XXXL nails fanned, other hand at lip or holding cocktail, lumbar arch dramatic, head tilted predatory, [fondo bar / soda fountain]` |
-   | **Stripper** | `perched on stage platform edge legs spread 45° with both stilettos pointing at camera, both hands gripping edge behind hips lifting bust forward, exaggerated lumbar arch + chest thrust, predatory direct gaze, dollars scattered, [fondo stage / pole]` |
-   | **Gym / Domestic / Bikini** | `seated with exaggerated knee-over-knee cross top stiletto at camera, lumbar arch extreme, one hand on top knee XXXL nails fanned + finger trailing inner thigh, other hand cradling jaw or at lip, predatory gaze, [fondo]` *(default)* |
+ | Arquetipo | BLOQUE C Seated |
+ |-----------|----------------|
+ | **Corporate / HF Editorial** | `seated power pose at boardroom table or throne chair, legs sharply crossed at knee with top stiletto pointed at camera, lumbar arch maintained, one hand fanned on top knee XXXL nails visible, other hand cradling jaw with fingertip on lip, spine imperious, predatory direct gaze, [fondo sala junta / museum hall]` |
+ | **Lencería / Escort Haute** | `seated reclined fetish-model languor, one leg extended forward stiletto pointed, other leg bent at exaggerated angle, lumbar arch even while reclining, upper body leaning back on one hand with other hand sliding from collarbone down between breasts to navel, half-lidded sultry gaze, lips parted glossy, [fondo suite / boudoir]` |
+ | **Nightclub / Pin-Up** | `perched on bar stool edge with one leg up crossed top stiletto pointing at camera, other leg dangling toes pointed, hand on inner thigh with XXXL nails fanned, other hand at lip or holding cocktail, lumbar arch dramatic, head tilted predatory, [fondo bar / soda fountain]` |
+ | **Stripper** | `perched on stage platform edge legs spread 45° with both stilettos pointing at camera, both hands gripping edge behind hips lifting bust forward, exaggerated lumbar arch + chest thrust, predatory direct gaze, dollars scattered, [fondo stage / pole]` |
+ | **Gym / Domestic / Bikini** | `seated with exaggerated knee-over-knee cross top stiletto at camera, lumbar arch extreme, one hand on top knee XXXL nails fanned + finger trailing inner thigh, other hand cradling jaw or at lip, predatory gaze, [fondo]` *(default)* |
 
 4. **Side Profile — Fetish Model Profile:** `full body side profile shot from low angle hip-level, exaggerated S-curve with extreme lumbar arch AND chest thrust forward simultaneously (both extremes — hip back, breast front), one leg slightly bent forward at knee with stiletto sharply pointed showing arch of foot, hand sliding down hip and thigh with XXXL nails visible, head tilted back with chin lifted, lips parted glossy, hair cascading dramatically down spine or windblown across face, neckline pulled to show collarbone, [fondo]`
 
@@ -1721,8 +1682,7 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 | "No actualicé las estadísticas porque solo era un Look." | **ERROR.** Cada Look altera los porcentajes. La actualización es obligatoria. |
 | "Usé 'red hair' porque es más corto." | **ERROR.** El tono exacto es 'Dark Cherry Red'. Las variaciones diluyen la identidad. |
 | "No borré los archivos locales para ahorrar tiempo." | **ERROR.** Violar el protocolo 'Remote-Only' ensucia el repositorio. |
-| "El BLOQUE B incluye `opera gloves` y el modelo decidirá qué hacer con las uñas." | **ERROR.** Conflicto canónico documentado: el modelo produce uno de 4 fallos. Especificar siempre uno de los 4 tipos autorizados del Glove Canon + redundancia `French XXXL nails fully visible`. |
-| "El guante cierra mejor el look — las uñas pueden quedarse escondidas esta vez." | **ERROR.** Las uñas son ADN inamovible. El guante es accesorio. Si el guante exige cubrir uñas, el guante es incorrecto: usar tipo `fingerless`, `claw cut-out`, `transparent fingertip` o `wrist-length`. |
+| "El BLOQUE B incluye `opera gloves` porque la silueta de referencia los tenía." | **ERROR (Directiva Ama 03/06/2026).** Ele **no usa guantes**. Borrar el guante del outfit y, si era accesorio dominatrix/courtesan, sustituir por `riding crop` / `choker O-ring` / `body chains` / `officer cap` / `Bayonetta glasses`. Manos siempre desnudas. |
 
 ## 🚩 Banderas Rojas - ¡DETENTE Y REVISA!
 - Estás a punto de generar una imagen sin haber escrito los 5 prompts completos en `galeria_outfits.md`.
@@ -1734,9 +1694,8 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 - Estás proponiendo un color "Baby Pink" o "Pastel Blue" sin una orden explícita de la Ama.
 - Estás subiendo imágenes sin haber verificado el balance de arquetipos en la tabla maestra.
 - Tu walkthrough usa links relativos en lugar de `file:///C:/Users/...`.
-- **El BLOQUE B incluye guantes pero NO contiene la frase explícita `French XXXL nails fully visible`** → el modelo va a producir uno de los 4 fallos canónicos (guante desaparecido, guante truncado, uñas atravesando el guante, o uñas escondidas). Revisar Glove Canon antes de seguir.
-- **El BLOQUE B usa `opera gloves`, `elbow gloves`, `wrist gloves` o cualquier guante SIN especificar uno de los 4 tipos autorizados** (fingerless, claw cut-out, transparent fingertip, wrist-length). Especificar siempre el tipo exacto.
-- **El negative prompt no incluye el bloque de guantes** cuando hay guantes en el BLOQUE B.
+- **El BLOQUE B incluye CUALQUIER guante** (`opera gloves`, `elbow gloves`, `wrist gloves`, `fingerless`, etc.) → **PROHIBIDO (Ama 03/06/2026)**. Ele no usa guantes. Borrar del outfit; sustituir accesorio dominatrix por `riding crop`/`choker O-ring`/`body chains`/`officer cap`/`Bayonetta glasses`. Manos desnudas siempre.
+- **El positive contiene la palabra `glove`** → `grep -i glove` sobre los prompts debe dar **0**. Si aparece, se borra antes de generar.
 
 **REGLA DE ORO:** Si violas la letra de este Skill, estás violando el ADN de Ele. No hay excepciones.
 

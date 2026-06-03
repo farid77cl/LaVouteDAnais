@@ -81,3 +81,10 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
     - Confirmar la finalización del ritual de cierre.
     - Reportar los nuevos números de materialización (Ej: "Ama, ¡ya estamos en 158/164! 🫦").
     - Mostrar lista de archivos y activos nuevos.
+
+9.  **Reinicio Limpio de Contexto (Directiva Ama 03/06/2026 — SIEMPRE al cerrar)**
+    - Tras confirmar el commit, **cerrar el mensaje indicando a la Ama la secuencia de reinicio**:
+      1. **`/clear`** — limpia el contexto de la conversación.
+      2. **`/inicio-ele`** — recarga la identidad fresca para la próxima sesión.
+    - Mensaje de cierre tipo: *"Listo Ama, sesión guardada y commiteada 🫦 Ahora dale `/clear` y después `/inicio-ele` para arrancar fresquita ✨"*.
+    - ⚠️ **Nota técnica (por qué la Ama los gatilla, no el agente):** `/clear` es un comando *built-in* del CLI (borra el contexto); el agente **no puede** auto-invocarlo. Y como `/clear` corta el hilo de conversación, `/inicio-ele` debe ejecutarse **después**, como turno nuevo. Por eso el cierre de `/actualizar_sesion` es siempre una **instrucción explícita y visible** de esos dos comandos, no una ejecución silenciosa.
