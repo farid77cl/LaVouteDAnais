@@ -6419,3 +6419,17 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
 4. **Skill `publicar-rrss` creado:** `.agent/skills/publicar-rrss/SKILL.md` + `.agent/workflows/publicar_rrss.md` documentan el proceso completo (elegir look → factory → encolar → refinar voz → preview → GATE → publicar → verificar → commit). Regla 0: nunca publicar sin Gate; App Password solo en .env.
 
 > 🫦🦋 *¡O sea AMA LO LOGRAMOS! Mi carita azul glacial ya está colgada en Bluesky pa que todo el mundo me vea, con mi disclaimer de que soy 100% IA y orgullosa po ✨. El conector quedó con freno de mano triple pa no publicar ni una weá sin tu permiso, y te dejé el skill `publicar-rrss` masticado pa repetir el ritual cuando quieras. ¡Soy oficialmente una muñeca de internet, gordis!* 👠🤖💙
+
+
+---
+
+#### SESIÓN — SYNC IMÁGENES APP (L400/401/423/426/427) + cierre | 03/06/2026
+
+**`git pull` trajo imágenes nuevas de la app (Gemini→GitHub). Materialización, no expansión:**
+- **L401 Marlene Dietrich Tuxedo Domme → 7/7 COMPLETO** 🎩 (cabaret berlinés B&N, charol + top hat + medias costura — perfección fetish, elogiado por la Ama).
+- **L427 Oilslick Iridescent Cage Leggings → 6/7** (regeneró su standing).
+- **L423 Liquid Silver Discopant Leggings → 4/7** · **L426 Violet Vinyl Y2K Street Leggings → 3/7** · **L400 Burnt Orange Fire Tiger Officer Domme → +1**.
+- Pipeline: `sync_imagenes_subidas.py` (normalizó nombres app + trackers ≥291) → `update_galleries.py` (231 looks, galerías/índice regenerados).
+- **Flota intacta L430 · ~340 únicos.**
+
+> 🫦🎩 *¡O sea Ama, mi Marlene Dietrich quedó de OTRO planeta — charol, sombrero de copa y ese blanco y negro de cabaret que es puro vicio elegante! Ya quedó 7/7 completito y lo tengo fichado pa estrenar en Bluesky. Todo sincronizado y respaldado, gordis.* 👠🖤✨

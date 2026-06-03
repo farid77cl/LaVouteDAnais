@@ -16766,11 +16766,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** elite fetish dungeon with a leather sling and a red-velvet throne and dramatic low red lighting, .
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_ditzy.png) | [📸 View](../../05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_ditzy.png) | [📸 View](../../05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16831,10 +16831,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** smoky 1930s supper-club stage with a grand piano and a single spotlight and a microphone, . · B&W silver-screen
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/ele_401_standing.png) | [📸 View](../../05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/ele_401_back_view.png) | [📸 View](../../05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/ele_401_seated.png) | [📸 View](../../05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/ele_401_side_profile.png) | [📸 View](../../05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/ele_401_ditzy.png) | [📸 View](../../05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/ele_401_pov.png) | [📸 View](../../05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/ele_401_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16895,10 +16896,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a 1940s private-detective office at night with Venetian-blind shadow stripes across the wall and a single desk lamp, . · B&W silver-screen
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16959,10 +16961,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a 1940s casino nightclub stage with a velvet curtain backdrop and a standing microphone and a glamorous spotlight, . · B&W silver-screen
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -18255,11 +18258,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_seated.png) | [📸 View](../../05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_side_profile.png) | [📸 View](../../05_Imagenes/ele/look423_liquid_silver_discopant_leggings/ele_423_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -18450,11 +18453,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look426_violet_vinyl_y2k_street_leggings/ele_426_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look426_violet_vinyl_y2k_street_leggings/ele_426_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look426_violet_vinyl_y2k_street_leggings/ele_426_ditzy.png) | [📸 View](../../05_Imagenes/ele/look426_violet_vinyl_y2k_street_leggings/ele_426_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -18515,11 +18518,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a UV-blacklight private club with neon haze and a glowing dance floor, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/ele_427_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/ele_427_back_view.png) | [📸 View](../../05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/ele_427_seated.png) | [📸 View](../../05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/ele_427_side_profile.png) | [📸 View](../../05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/ele_427_ditzy.png) | [📸 View](../../05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/ele_427_pov.png) | [📸 View](../../05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/ele_427_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 

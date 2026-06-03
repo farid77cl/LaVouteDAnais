@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 03/06/2026 14:32 — **231 looks registrados**  
+> Generado automáticamente el 03/06/2026 19:19 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -209,10 +209,10 @@
 | **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
 | **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
-| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
-| **401** | Marlene Dietrich Tuxedo Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Marlene Dietrich · B&W) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | — | Escort | — | — | 3/7 | ⏳ Pendiente |
+| **401** | Marlene Dietrich Tuxedo Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Marlene Dietrich · B&W) | — | Corporate | — | — | 7/7 | — |
+| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
+| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
 | **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
@@ -232,11 +232,11 @@
 | **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | — | Nightclub | — | — | 4/7 | ⏳ Pendiente |
 | **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
 | **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
-| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
-| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | — | Escort | — | — | 3/7 | ⏳ Pendiente |
+| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | — | Nightclub | — | — | 6/7 | ⏳ Pendiente |
 | **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
 | **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
@@ -521,10 +521,9 @@
 | **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | 1/7 | ⏳ Pendiente |
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | 0/7 | ⏳ Pendiente |
 | **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | 1/7 | ⏳ Pendiente |
-| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 2/7 | ⏳ Pendiente |
-| **401** | Marlene Dietrich Tuxedo Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Marlene Dietrich · B&W) | 0/7 | ⏳ Pendiente |
-| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | 0/7 | ⏳ Pendiente |
-| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | 0/7 | ⏳ Pendiente |
+| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 3/7 | ⏳ Pendiente |
+| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | 1/7 | ⏳ Pendiente |
+| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | 1/7 | ⏳ Pendiente |
 | **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | 0/7 | ⏳ Pendiente |
 | **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 1/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | 1/7 | ⏳ Pendiente |
@@ -543,15 +542,15 @@
 | **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | 1/7 | ⏳ Pendiente |
 | **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | 1/7 | ⏳ Pendiente |
 | **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | 1/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | 1/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | 4/7 | ⏳ Pendiente |
 | **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | 1/7 | ⏳ Pendiente |
 | **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | 1/7 | ⏳ Pendiente |
-| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | 1/7 | ⏳ Pendiente |
-| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | 1/7 | ⏳ Pendiente |
+| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | 3/7 | ⏳ Pendiente |
+| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | 6/7 | ⏳ Pendiente |
 | **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | 0/7 | ⏳ Pendiente |
 | **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | 1/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 03/06/2026 14:32 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 03/06/2026 19:19 — La Voûte d'Anaïs* 🫦👠💅

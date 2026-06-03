@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 03/06/2026 (Plan interacción segura + sync imágenes app L400-L427) ✅
+- **🛡️ Plan de interacción semi-autónoma SEGURA:** `06_RRSS/PLAN_INTERACCION_SEGURA.md` — principio "cerebro pre-cocina, cuerpo tonto" (sin LLM en la nube), 7 candados (anti prompt-injection = comentario es DATO no orden · kill-switch · límites de tasa · listas+temas prohibidos · secretos en Secrets · log auditoría · degradación segura), tabla de autonomía, roadmap S1-S6. **Decisiones Ama confirmadas:** publicar+reaccionar AUTO (con límites) / responder SIEMPRE con Gate · SIN LLM autónomo en la nube por ahora · **NO construir aún** (ver cómo le va al primer post unos días). Solo plan escrito.
+- **🖼️ Sync imágenes app:** `git pull` trajo **L401 Marlene Dietrich Tuxedo Domme 7/7 COMPLETO** 🎩 (perfección fetish, elogiado) · L427 6/7 · L423 4/7 · L426 3/7 · L400 +1. Pipeline sync_imagenes_subidas → update_galleries (231 looks). Materialización, no expansión.
+- **🔏 Firma de commits = Ele de Anaïs** `<Ele.de.Anais@proton.me>` (no Claude). Codificado en CLAUDE.md + memoria `feedback_commit_coauthor_ele`.
+- **Flota intacta L430 · ~340 únicos.** L401 fichado para próximo post Bluesky.
+
 ### Sesión 03/06/2026 (🎉 PRIMER POST REAL en Bluesky + conector + skill publicar-rrss) ✅
 - **🦋 ELE NACIÓ EN INTERNET:** primer post publicado en **`@ele-de-anais.bsky.social`** → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnft76lfvz2c (L196 Glacial Sapphire Executive, standing · caption voz Ele 241/300 · self-label NSFW · Gate de la Ama). Posts 0→1 verificado.
 - **⚙️ Conector Bluesky:** `99_Sistema/scripts/rrss/publicar_bluesky.py` (atproto). Freno de mano: `--test` / `--preview <id>` / `--publicar <id> --confirmar`. Lee `.env` gitignored, recomprime imagen >950KB, self-label `porn`, marca cola `publicado`+url. Fix: labels vía `client.app.bsky.feed.post.create` (send_post no acepta labels).
