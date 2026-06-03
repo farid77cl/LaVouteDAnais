@@ -31,4 +31,4 @@ Total imágenes: 7
 - [ele_172_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_standing.png)
 
 ---
-*Sincronizado con GitHub: 2026-06-02* 👄
+*Sincronizado con GitHub: 2026-06-03* 👄

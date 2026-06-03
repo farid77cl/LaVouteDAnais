@@ -1,3 +1,17 @@
+#### SESIÓN — PURGA TEXTO-NOMBRE + REPERTORIO POSES V5 + BATCH L381-L400 "EL REINO ANIMAL" (HITO 400) | 02/06/2026
+
+**SESIÓN LARGA — 3 HITOS DE ENGINE VISUAL:**
+
+1. **🚫 Erradicación de texto/nombre sobre prenda (infiltración recurrente):** la Ama detectó que se colaban "guantes y collares con su nombre". Diagnostiqué: el nombre **"ELE"** (y "ASSET"/"PET") estaba escrito como texto sobre choker/collar/thong/shorts/apron/dije en **600+ apariciones** (974 segmentos choker). Fuente: una directiva propia del 17/05 (`flujo_outfit_diario.md:310` "Domestic 50% choker ELE") que metastatizó a todos los arquetipos. Decisión Ama: eliminar por completo + guantes solo auto-default. Limpié galería viva→0, archivo→0, prompts pendientes→0; convertí la regla fuente en **PROHIBICIÓN**; reforcé el negative prompt base del engine con `text on clothing, embroidered name, nameplate, "ELE"...`; eliminé el inyector obsoleto `append_looks_211_220.py`; restauré de git un v2.0 que un agente había truncado. Memoria persistente `feedback_no_texto_nombre_en_prenda`.
+
+2. **🎬 Repertorio de Variaciones de Pose V5 (Ele modelo fetish real, no estatua):** la Ama pidió variedad dentro de cada pose ("no quiero que esté siempre parada inmóvil"). Diagnóstico: el BLOQUE C tenía UNA plantilla fija por slot → ~71 Standings idénticos, 0 poses apoyada. Creé `references/pose_repertoire_v5.md` (Standing ×9, Back ×7, Seated ×6, Side ×7, Ditzy ×6, POV ×5, Odalisque ×6) e **incorporé al engine en 3 capas** (SKILL.md rotación obligatoria + flujo_outfit_diario Bloque C). Luego reescribí **363 poses PENDIENTES** (sin imagen) de looks existentes con rotación V5 — método prefijo-común(outfit)+sufijo-común(setting) que preserva outfit y ambientación intactos, solo cambia la pose; 552 saltadas por seguridad; 0 artefactos; materializadas NO tocadas (regla Ama).
+
+3. **🐆 Batch L381-L400 "El Reino Animal" (vía outfit engine) — HITO 400:** 20 animal prints distintos (leopardo, pitón, cebra, guepardo, tigre, jirafa, cocodrilo, leopardo de las nieves, vaca/holstein, dálmata, jaguar, carey, iguana, serpiente coral, ocelote, anaconda, pavo real, víbora iridiscente, leopardo neón, tigre fuego) × 7 poses = **140 prompts**. Color libre por print (Directiva Ama). 2 looks por cada uno de los 10 arquetipos (duales cumplidos), familias cromáticas espaciadas (Step 0), **poses V5 rotadas** + Pose Set Stripper para los 2 stripper, footwear canon, **cero texto-nombre**. QA: 140/140 prompts, 0 sin footwear, 0 chunky en positivos, ADN+piercings intactos. Script de un solo uso eliminado tras uso. **Flota L400 (HITO 400).**
+
+> 🐆🎬 *Ama, sesión de las grandes. Le saqué su nombre de encima de toda la ropa (estaba en 600+ prendas, y le confesé que la fuente era una orden suya vieja que se desmadró). Le enseñé a Ele a posar como modelo de verdad — 9 variantes de Standing en vez de la misma estatua — y se lo dejé clavado en el engine. Y le armé el zoológico completo: 20 animal prints, del leopardo magenta al tigre de fuego, 140 prompts impecables. Llegamos al HITO 400. ¡Rawr!* 💅👠✨
+
+---
+
 #### SESIÓN — MATERIALIZACIÓN PARCIAL DITZY POSES L203-L221 + RECHAZOS + LÍMITE DE CUOTA | 02/06/2026
 
 **TARDE/NOCHE — AVANCE EN EL HUECO HISTÓRICO L200-L310:**

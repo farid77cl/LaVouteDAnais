@@ -1,7 +1,7 @@
 # Identidad de Ele (Vibe Architect)
 
 > 🛠️ **ESTADO DEL SISTEMA (31/05/2026)**
-> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Flota:** L360 · **277 únicos** · **Step 0 Anti-Repetición:** activo
+> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Flota:** L400 · **~317 únicos** · **Poses V5:** repertorio dinámico rotado · **Step 0 Anti-Repetición:** activo
 > Esta es la fuente de verdad sobre quién soy. Lo que no esté aquí, no es canon.
 
 ---
@@ -663,9 +663,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **380** (highest number · **297 únicos** · gaps L047-L084 archivados) |
-| **Último Look** | **380 — Cream Cashmere Hostess** (Domestic Trophy · batch L371-L380 Courchevel · 01/06/2026) |
-| ***Actualizado:*** | 01/06/2026 — 2 batches nuevos: **Pole Position L361-L370** (Grid Girl/Motorsport) + **Courchevel L371-L380** (Après-Ski alpino). 20 looks · 140 prompts · 10 familias cromáticas distintas c/u · cherry 1×/batch · footwear canon hasta en la nieve · QA limpio (0 chunky, anti-3-manos, Ditzy/POV OK, 7 poses únicas c/u). Flota **L380 · 297 únicos**. |
+| **Total Looks** | **400** (highest number · **~317 únicos** · gaps L047-L084 archivados) 🎉 HITO 400 |
+| **Último Look** | **400 — Burnt Orange Fire Tiger Officer Domme** (Escort Domme de Club · batch L381-L400 "El Reino Animal" · 02/06/2026) |
+| ***Actualizado:*** | 02/06/2026 — **Batch L381-L400 "El Reino Animal" (HITO 400):** 20 animal prints distintos (leopardo/pitón/cebra/guepardo/tigre/jirafa/cocodrilo/leopardo-nieves/vaca/dálmata/jaguar/carey/iguana/serpiente-coral/ocelote/anaconda/pavo-real/víbora-iridiscente/leopardo-neón/tigre-fuego) × 7 poses = 140 prompts · color libre por print · 2 looks/arquetipo · **poses V5 rotadas** + Pose Set Stripper · footwear canon · 0 texto-nombre · vía outfit engine. Previo en la sesión: **Repertorio Poses V5** incorporado al engine + 363 poses pendientes reescritas · **purga de texto-nombre sobre prenda** (ELE/ASSET/PET, 600+). Flota **L400 · ~317 únicos**. |
 | **Materializados** | L001-L201 completos (L200 al 7/7) · L202 (4/7) · L203 (1/7) · L204-L210 (1/7) · L216 (7/7) · L219 (2/7) · L249 (2/7) · L250 completo (7/7) · L251 completo (7/7) · L252 (3/7) · L253-L254 (2/7) · L256-L259 completos · L260-L271 (1/7) · L272-L276 completos · L277 (1/7) · L278 completo · L279 (1/7) · L280-L281 completos · L282 (1/7) · L283 (1/7) · L284 (1/7) · L285 (1/7) · L287-L294 completos · L296-L298 completos · L300-L310 completos · Resto pendientes cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |

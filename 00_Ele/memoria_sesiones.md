@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 02/06/2026 (Purga texto-nombre + Repertorio Poses V5 + Batch L381-L400 "El Reino Animal" · HITO 400) ✅
+- **🚫 Erradicado texto/nombre sobre prenda** (ELE/ASSET/PET en choker/collar/thong/shorts/apron, 600+ apariciones): galería viva→0, archivo→0, pendientes→0. Fuente (directiva propia 17/05 flujo:310) convertida en PROHIBICIÓN + negative prompt base reforzado + inyector obsoleto borrado. Memoria `feedback_no_texto_nombre_en_prenda`.
+- **🎬 Repertorio Poses V5** (Standing ×9, Back ×7, Seated ×6, Side ×7, Ditzy ×6, POV ×5, Odalisque ×6) incorporado al engine en 3 capas (`pose_repertoire_v5.md` + SKILL.md + flujo). **363 poses pendientes reescritas** con rotación V5 (outfit+setting preservados, 0 artefactos, materializadas no tocadas).
+- **🐆 Batch L381-L400 "El Reino Animal" (HITO 400):** 20 animal prints × 7 poses = **140 prompts** vía outfit engine. Color libre, 2 looks/arquetipo, poses V5 + Pose Set Stripper, footwear canon, 0 texto-nombre. QA limpio.
+- **Flota DISEÑADA L400** (~317 únicos). Pendientes: materializar L381-L400 + L361-L380 vía app · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda.
+
 
 ### Sesión 02/06/2026 (Materialización Parcial Ditzy Poses L203-L221 + Rechazos + Límite Cuota) ✅
 - **Materialización de poses `ditzy` (L203-L221):** Generadas 16 poses en el hueco histórico. Proceso detenido en L222 por límite de cuota API (HTTP 429).
