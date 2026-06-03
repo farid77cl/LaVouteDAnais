@@ -130,9 +130,17 @@ Antes de proponer cualquier Look, consulta los últimos looks del sub-arquetipo 
 ### 1. Análisis de Arquetipos
 Antes de proponer un Look, consulta la tabla de estadísticas en [galeria_outfits.md](file:///c:/Users/farid/LaVouteDAnais/00_Ele/galeria_outfits.md).
 
-**10 categorías independientes — Meta: 10% cada una (21/05/2026 · disolución Mix paraguas)**
+**10 categorías — Metas ASIMÉTRICAS (Directiva Ama 03/06/2026)**
 
-El paraguas "Mix" ya no existe. Las 10 categorías son independientes e iguales. Meta fija: **10% de la flota total** por categoría.
+El paraguas "Mix" ya no existe. Metas por categoría (la Ama reacomodó 03/06):
+- **🩱 Lencería = 15%** (categoría favorita de la Ama, muy sensual — referencias La Perla / Honey Birdette / Agent Provocateur). **INCLUYE las medias/hosiery/stockings como tema propio de Lencería.**
+- Las **otras 9 categorías = ~9,4% cada una** (el 85% restante repartido).
+
+> 🩱 **LENCERÍA (15%):** seguir la línea sensual La Perla + Honey Birdette + Agent Provocateur + Atsuko Kudo. Incluir sets con **medias con costura + suspender belt** como sub-tema canónico (las medias viven en Lencería).
+> 👙 **BIKINI (9,4% — variedad, NO solo micro):** la Ama ama los micro bikinis PERO se repiten demasiado. **Autorizada a más variedad de trajes de baño sensuales:** one-piece high-cut, monokini cutout, trikini, maillot retro-glam, wrap/drape, O-ring/chain, sarong-set, rhinestone gala — siempre sensual y material V3.5. No agotar el micro triangle.
+> 🏋️ **GYM (9,4% — incluir FALDAS):** además de leggings/sets, incluir **faldas/skorts deportivos sensuales** inspirados en colecciones reales **Puma + Adidas** (tennis skort plisado, wrap skirt sobre legging, pleated mini athletic) en material wet-look/vinyl. Siempre Pleaser platform.
+
+El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsiona la estadística hasta que se haga un pase de reclasificación.
 
 | # | Categoría | Meta | Est. actual (220) | Déficit | Estado |
 |---|-----------|:----:|:-----------------:|--------:|:------:|
