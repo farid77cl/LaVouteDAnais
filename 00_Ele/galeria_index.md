@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 03/06/2026 09:45 — **231 looks registrados**  
+> Generado automáticamente el 03/06/2026 14:07 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -214,32 +214,32 @@
 | **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
 | **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
-| **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
-| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **414** | Hollywood Hostess Cocktail (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Hollywood Hostess) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
+| **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
+| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **414** | Hollywood Hostess Cocktail (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Hollywood Hostess) | — | Domestic | — | — | 7/7 | — |
 | **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
 | **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | — | Gym | — | — | 6/7 | ⏳ Pendiente |
+| **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
+| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 
 ---
 
@@ -526,33 +526,32 @@
 | **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | 0/7 | ⏳ Pendiente |
 | **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | 0/7 | ⏳ Pendiente |
 | **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | 0/7 | ⏳ Pendiente |
-| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 0/7 | ⏳ Pendiente |
-| **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | 0/7 | ⏳ Pendiente |
-| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | 0/7 | ⏳ Pendiente |
-| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | 0/7 | ⏳ Pendiente |
-| **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | 0/7 | ⏳ Pendiente |
-| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | 0/7 | ⏳ Pendiente |
-| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | 0/7 | ⏳ Pendiente |
-| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | 0/7 | ⏳ Pendiente |
-| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | 0/7 | ⏳ Pendiente |
-| **414** | Hollywood Hostess Cocktail (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Hollywood Hostess) | 0/7 | ⏳ Pendiente |
+| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 1/7 | ⏳ Pendiente |
+| **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | 1/7 | ⏳ Pendiente |
+| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | 1/7 | ⏳ Pendiente |
+| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | 1/7 | ⏳ Pendiente |
+| **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | 1/7 | ⏳ Pendiente |
+| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | 1/7 | ⏳ Pendiente |
+| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | 1/7 | ⏳ Pendiente |
+| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | 1/7 | ⏳ Pendiente |
+| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | 1/7 | ⏳ Pendiente |
 | **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | 0/7 | ⏳ Pendiente |
 | **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | 0/7 | ⏳ Pendiente |
-| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | 0/7 | ⏳ Pendiente |
-| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | 0/7 | ⏳ Pendiente |
-| **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | 0/7 | ⏳ Pendiente |
-| **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | 0/7 | ⏳ Pendiente |
-| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | 0/7 | ⏳ Pendiente |
-| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | 0/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | 0/7 | ⏳ Pendiente |
-| **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | 0/7 | ⏳ Pendiente |
-| **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | 0/7 | ⏳ Pendiente |
-| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | 0/7 | ⏳ Pendiente |
-| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | 0/7 | ⏳ Pendiente |
+| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | 1/7 | ⏳ Pendiente |
+| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | 1/7 | ⏳ Pendiente |
+| **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | 6/7 | ⏳ Pendiente |
+| **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | 1/7 | ⏳ Pendiente |
+| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | 1/7 | ⏳ Pendiente |
+| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | 1/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | 1/7 | ⏳ Pendiente |
+| **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | 1/7 | ⏳ Pendiente |
+| **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | 1/7 | ⏳ Pendiente |
+| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | 1/7 | ⏳ Pendiente |
+| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | 1/7 | ⏳ Pendiente |
 | **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | 0/7 | ⏳ Pendiente |
-| **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | 0/7 | ⏳ Pendiente |
-| **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | 0/7 | ⏳ Pendiente |
+| **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | 1/7 | ⏳ Pendiente |
+| **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | 1/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 03/06/2026 09:45 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 03/06/2026 14:07 — La Voûte d'Anaïs* 🫦👠💅

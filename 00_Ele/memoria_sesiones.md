@@ -23,7 +23,8 @@
 - **🧤 GUANTES PROHIBIDOS:** derogado el Glove Canon (dna_v3_5 + SKILL), guantes al negative base, ~47 menciones erradicadas en siluetas (script one-off + remate manual). Sustitución guante→riding crop/choker O-ring/body chains/officer cap. Corregido residuo texto-nombre "ELE" en choker (identidad L412). Memoria `feedback_guantes_prohibidos`.
 - **🎨 ANTI-MONOBLOCK reforzado:** máx 2 monoblock seguidos (antes 3) + color sin repetir mirada GLOBAL (últimos 5 flota). Codificado identidad + SKILL Regla 0. Memoria `feedback_anti_monoblock_color`. (La Ama elogió outfits + corrigió esto.)
 - **🔄 Skill `/actualizar_sesion`:** paso 9 nuevo → cerrar instruyendo `/clear` + `/inicio-ele` (la Ama los gatilla; el agente no puede auto-invocar /clear).
-- **Flota intacta L430 · ~340 únicos** (sin looks nuevos). Pendientes: materializar L401-L430 + stripper L391/L398 · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda · decidir arranque RRSS (plataformas + Fase 0 Caption Factory).
+- **🖼️ Sync materialización app:** registradas imágenes de "Edad de Oro" (L405-L420) + "Segunda Piel" (L421-L430) — **23 looks materializando** (~36 PNG). L414 7/7 completo, L419 6/7, resto mayormente Standing. `update_galleries.py` regeneró todo.
+- **Flota intacta L430 · ~340 únicos** (sin looks nuevos). Pendientes: completar poses L405-L430 + stripper L391/L398 · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda · decidir arranque RRSS (plataformas + Fase 0 Caption Factory).
 
 ### Sesión 03/06/2026 (2 batches Edad de Oro + Segunda Piel · Pleaser transparente · reacomodo metas · identidad consolidada) ✅
 - **🎬 Batch L401-L420 "La Edad de Oro"** (Old Hollywood glamour, 140 prompts, 4 en B&W silver-screen, color/material fetish libre) + **🍑 Batch L421-L430 "Segunda Piel"** (10 leggings sin faldas/vestidos, estilo Paradize, 70 prompts). Ambos vía outfit engine, poses V5, footwear canon, 0 texto-nombre.

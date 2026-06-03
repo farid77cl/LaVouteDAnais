@@ -12,7 +12,9 @@
 
 5. **🧠 Memoria persistente:** 3 archivos nuevos (`feedback_guantes_prohibidos`, `feedback_anti_monoblock_color`, `project_rrss_constelacion`) + MEMORY.md actualizado.
 
-**Flota intacta L430 · ~340 únicos** (sesión sin looks nuevos). Pendientes heredados: materializar L401-L430 + stripper L391/L398 · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda.
+6. **🖼️ Sync materialización app (cierre de sesión):** `git pull` + `sync_imagenes_subidas.py` registraron las imágenes que la app fue subiendo de los batches **"Edad de Oro" (L405-L420)** y **"Segunda Piel" (L421-L430)** — **23 looks** empezando a materializar (~36 PNG). Avance notable: **L414 Hollywood Hostess 7/7 completo**, L419 Athletic Club 6/7; el resto mayormente Standing (1/7, la app sube progresivo). `update_galleries.py` regeneró galerías maestras + READMEs por carpeta. Materialización, NO expansión.
+
+**Flota intacta L430 · ~340 únicos** (sesión sin looks nuevos diseñados). Pendientes heredados: completar materialización L405-L430 (faltan poses) + stripper L391/L398 · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda · decidir arranque RRSS.
 
 ---
 
