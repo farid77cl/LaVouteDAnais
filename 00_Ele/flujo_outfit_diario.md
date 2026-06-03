@@ -119,19 +119,18 @@ Descripción técnica y sensorial de las prendas. Incluir:
 - Calzado OBLIGATORIO: `towering [X]-inch stiletto heels` + modelo si aplica
 - Accesorios relevantes
 
-### Bloque C — Las 7 Poses Reglamentarias
+### Bloque C — Las 7 Poses (REPERTORIO V5 — variación rotada por slot)
 
-| # | Pose | Nombre Canónico | Instrucción de prompt |
-|---|------|-----------------|-----------------------|
-| 1 | **Standing View** | `standing` | `full body standing, straight posture, editorial stance, [escenario], rim lighting, high-gloss specularity` |
-| 2 | **Back View** | `back_view` | `full body back view, slight over-shoulder turn, [escenario], rim lighting defines silhouette` |
-| 3 | **Seated View** | `seated` | `seated, crossed legs, editorial pose, [escenario], dramatic lighting` |
-| 4 | **Side Profile** | `side_profile` | `side profile silhouette, full body, emphasizing hourglass curve, [escenario]` |
-| 5 | **Ditzy Expression** | `ditzy` | `medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL nails, dazed artificial perfection, [escenario]` |
-| 6 | **POV — Goddess Gaze** | `pov` | `first-person POV looking down over own body, XXXL nails resting on outfit, massive 1000cc spherical augmented bust and outfit texture in foreground, perspective converging down to the pointed tips of the stiletto heels on [superficie]` |
-| 7 | **Odalisque** | `odalisque` | `lying down on side, luxurious reclining odalisque pose, full body, one arm extended with XXXL nails visible, legs slightly bent at knee, [escenario], dramatic directional lighting, hyper-gloss specularity` |
+> 🎬 **OBLIGATORIO (Directiva Ama 02/06/2026): cada pose tiene VARIANTES — Ele es una modelo fetish real, no una estatua.** El BLOQUE C ya NO es una instrucción fija por slot. Cada uno de los 7 slots (Standing/Back/Seated/Side/Ditzy/POV/Odalisque) tiene un **repertorio de variaciones dinámicas** en `.agent/skills/ele-outfit-engine/references/pose_repertoire_v5.md` (Standing ×9, Back ×7, Seated ×6, Side ×7, Ditzy ×6, POV ×5, Odalisque ×6).
+>
+> **Cómo construir el BLOQUE C de un look:**
+> 1. Para cada slot, ELEGIR una variación del repertorio V5 **rotando** — ninguna variación se repite dentro de los **últimos 4 looks** de ese slot.
+> 2. Las 7 poses del look deben sentirse como una **sesión de fotos real**: variar ángulo (low/eye/3-4 selfie) y nivel de contacto (de pie / apoyada / inclinada / recostada). **Prohibido** que las 7 sean "de pie mirando a cámara".
+> 3. Rellenar el `[fondo]` de la variación con la ambientación específica del look.
+> 4. Mantener el **Principio Rector Fetish Model** (arco lumbar, lips parted glossy, interacción de uñas XXXL con el cuerpo, mirada predatoria/half-lidded, pelo como prop) y el **footwear canon** (stiletto/Pleaser nombrado en TODA pose).
+> 5. **Stripper:** usa su propio Pose Set (no este repertorio). Ver SKILL.md.
 
-> Un look no está completo hasta tener las **7/7 poses**.
+> Un look no está completo hasta tener las **7/7 poses**, cada una con su variación V5 rotada.
 
 ### Negative Prompt (estándar — usar en todos los prompts)
 
