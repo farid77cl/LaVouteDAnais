@@ -1,0 +1,21 @@
+# === Secretos / credenciales — NUNCA al repo ===
+.env
+*.env
+!*.env.example
+06_RRSS/.env
+06_RRSS/**/.env
+secrets/
+*.secret
+*token*.txt
+*credential*.txt
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# === SO / editores ===
+Thumbs.db
+.DS_Store

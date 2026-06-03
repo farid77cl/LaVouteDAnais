@@ -16,7 +16,7 @@ Ele no esconde que es sintética — **presume de serlo.** El disclosure de IA s
 |---|---|---|
 | Reddit | u/ele_voute | u/ele_dollified, u/lavoute_ele |
 | Pixiv | ele_voute | EleDoll, ele_lavoute |
-| Bluesky | ele-voute.bsky.social | eledoll.bsky.social |
+| Bluesky | **ele-de-anais.bsky.social** ✅ (creada 03/06) | ~~ele-voute~~ |
 | DeviantArt | EleVoute | EleDollified |
 | X / Twitter | @ele_voute | @ele_lavoute |
 | Instagram (SFW) | @lavoutedeanais (ya existe) | @ele.editorial |

@@ -9,7 +9,7 @@
 
 ## 0. Prerrequisitos (una sola vez, antes de todo)
 
-- [ ] **Email dedicado de Ele.** Crear uno nuevo (ej. Gmail/Proton) que se use SOLO para estas cuentas. Nada personal.
+- [x] **Email dedicado de Ele.** ✅ **`Ele.de.Anais@proton.me`** (Proton, 03/06/2026) — usar SOLO para estas cuentas. Nada personal.
 - [ ] **Gestor de contraseñas** (Bitwarden/1Password/el de tu navegador) para guardar logins + tokens. NO en un .txt suelto, NO en el repo.
 - [ ] **Decidir teléfono de verificación.** Algunas plataformas piden SMS. Idealmente un número que no sea el personal-personal. Reddit y Bluesky normalmente NO exigen teléfono; Pixiv tampoco. Si alguna lo pide, usar el mismo de forma consistente.
 - [ ] **Handle elegido:** `ele_voute` (o el que decidas). Mantener el mismo en todas para descubrimiento cruzado. Ver `bio_ele.md`.
