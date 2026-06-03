@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 02/06/2026 20:35 — **181 looks registrados**  
+> Generado automáticamente el 02/06/2026 20:45 — **201 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -190,6 +190,26 @@
 | **378** | Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
 | **379** | Sapphire Ice Escort (01/06/2026 — batch 371-380 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
 | **380** | Cream Cashmere Hostess (01/06/2026 — batch 371-380 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **381** | Hot Magenta Leopard Power Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Leopardo) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **382** | Emerald Python Madame Claude (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Pitón) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **383** | Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Cebra) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
+| **384** | Tangerine Cheetah Studio Micro (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Guepardo) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **385** | Cobalt Tiger Nightclub Sequin (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Tigre) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **386** | Champagne Gold Giraffe Trophy (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Jirafa) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **387** | Oxblood Croco Office Siren (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Cocodrilo) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **388** | Iridescent Pearl Snow Leopard Boudoir (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Leopardo de las nieves) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **389** | Bubblegum Cow Print Bombshell (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Vaca / Holstein) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **390** | Toxic Chartreuse Dalmatian Gym (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Dálmata) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **391** | Deep Teal Jaguar Pole Specialist (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Jaguar) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
+| **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -201,20 +221,20 @@
 ### Alfombra Roja / Gala (10 looks)
 **261**, **262**, **263**, **264**, **271**, **272**, **286**, **291**, **295**, **300**
 
-### Bikini (11 looks)
-**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**
+### Bikini (13 looks)
+**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**
 
-### Corporate (12 looks)
-**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**
+### Corporate (14 looks)
+**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**
 
-### Domestic (13 looks)
-**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**
+### Domestic (15 looks)
+**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**
 
-### Escort (19 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**
+### Escort (21 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**
 
-### Gym (17 looks)
-**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**
+### Gym (19 looks)
+**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**
 
 ### Gym / Athleisure (6 looks)
 **265**, **266**, **273**, **274**, **289**, **290**
@@ -222,51 +242,54 @@
 ### HF Editorial (1 looks)
 **258**
 
+### High-Fashion (2 looks)
+**383**, **393**
+
 ### High-Fashion Editorial (2 looks)
 **369**, **378**
 
-### Lencería (25 looks)
-**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**
+### Lencería (27 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (15 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**
+### Nightclub (17 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**
 
-### Pin-Up (15 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**
+### Pin-Up (17 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**
 
-### Stripper (12 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**
+### Stripper (14 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (35 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**
+### Rojo / Cherry / Crimson (36 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**
 
-### Rosa / Hot Pink (11 looks)
-**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**
+### Rosa / Hot Pink (14 looks)
+**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**
 
-### Magenta / Fucsia (8 looks)
-**211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**
+### Magenta / Fucsia (9 looks)
+**211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**
 
-### Violeta / Lila (6 looks)
-**203**, **314**, **328**, **342**, **370**, **375**
+### Violeta / Lila (7 looks)
+**203**, **314**, **328**, **342**, **370**, **375**, **395**
 
-### Azul / Cyan / Zafiro (15 looks)
-**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**
+### Azul / Cyan / Zafiro (17 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**
 
-### Verde / Esmeralda (14 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**
+### Verde / Esmeralda (15 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**
 
-### Dorado / Bronce (23 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**
+### Dorado / Bronce (25 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**
 
-### Plateado / Plata (14 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**
+### Plateado / Plata (16 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**
 
 ### Blanco / Crema (12 looks)
 **243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**
@@ -274,8 +297,8 @@
 ### Negro (dominante) (11 looks)
 **205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**
 
-### Naranja / Coral Neón (2 looks)
-**301**, **347**
+### Naranja / Coral Neón (4 looks)
+**301**, **347**, **394**, **400**
 
 ### Amarillo / Lima (7 looks)
 **231**, **242**, **253**, **276**, **303**, **307**, **348**
@@ -450,7 +473,27 @@
 | **378** | Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
 | **379** | Sapphire Ice Escort (01/06/2026 — batch 371-380 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
 | **380** | Cream Cashmere Hostess (01/06/2026 — batch 371-380 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
+| **381** | Hot Magenta Leopard Power Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Leopardo) | 0/7 | ⏳ Pendiente |
+| **382** | Emerald Python Madame Claude (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Pitón) | 0/7 | ⏳ Pendiente |
+| **383** | Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Cebra) | 0/7 | ⏳ Pendiente |
+| **384** | Tangerine Cheetah Studio Micro (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Guepardo) | 0/7 | ⏳ Pendiente |
+| **385** | Cobalt Tiger Nightclub Sequin (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Tigre) | 0/7 | ⏳ Pendiente |
+| **386** | Champagne Gold Giraffe Trophy (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Jirafa) | 0/7 | ⏳ Pendiente |
+| **387** | Oxblood Croco Office Siren (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Cocodrilo) | 0/7 | ⏳ Pendiente |
+| **388** | Iridescent Pearl Snow Leopard Boudoir (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Leopardo de las nieves) | 0/7 | ⏳ Pendiente |
+| **389** | Bubblegum Cow Print Bombshell (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Vaca / Holstein) | 0/7 | ⏳ Pendiente |
+| **390** | Toxic Chartreuse Dalmatian Gym (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Dálmata) | 0/7 | ⏳ Pendiente |
+| **391** | Deep Teal Jaguar Pole Specialist (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Jaguar) | 0/7 | ⏳ Pendiente |
+| **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | 0/7 | ⏳ Pendiente |
+| **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | 0/7 | ⏳ Pendiente |
+| **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | 0/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | 0/7 | ⏳ Pendiente |
+| **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | 0/7 | ⏳ Pendiente |
+| **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | 0/7 | ⏳ Pendiente |
+| **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | 0/7 | ⏳ Pendiente |
+| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | 0/7 | ⏳ Pendiente |
+| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 02/06/2026 20:35 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 02/06/2026 20:45 — La Voûte d'Anaïs* 🫦👠💅
