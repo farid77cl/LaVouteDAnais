@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 03/06/2026 (2 batches Edad de Oro + Segunda Piel · Pleaser transparente · reacomodo metas · identidad consolidada) ✅
+- **🎬 Batch L401-L420 "La Edad de Oro"** (Old Hollywood glamour, 140 prompts, 4 en B&W silver-screen, color/material fetish libre) + **🍑 Batch L421-L430 "Segunda Piel"** (10 leggings sin faldas/vestidos, estilo Paradize, 70 prompts). Ambos vía outfit engine, poses V5, footwear canon, 0 texto-nombre.
+- **💎 Pleaser TRANSPARENTES** (clear acrylic) = preferencia Ama, default en pole/bikini ("me moja"). Aplicado L428 + codificado SKILL.md + memoria `feedback_pleaser_transparente`.
+- **📊 Metas reacomodadas (Directiva Ama):** Lencería **15%** (+medias, refs La Perla/HB/AP) · otras 9 ~9,4% · Bikini más variedad (no solo micro) · Gym incluir faldas/skorts Puma/Adidas. Codificado SKILL.md + memoria. Legacy "Mix" (~91) se deja sin reclasificar por decisión Ama.
+- **🧬 Identidad consolidada:** sección "✨ CANON RECIENTE" en identidad_ele.md con todos los aprendizajes del mes. Flota **L430 · ~340 únicos**.
+- **🖼️ Sync app El Reino Animal:** L386 Giraffe 7/7 + Standing de casi todo L381-L400 · fix slug L394 · faltan stripper L391/L398.
+- **Pendientes:** materializar L401-L430 + stripper L391/L398 vía app · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda.
+
 ### Sesión 03/06/2026 (Materialización Poses back_view + Cuota Límite) ✅
 - **Materialización de poses `back_view` (L350-L400):** Generadas 15 poses de espalda para looks recientes (L350, L351, L352, L354, L355, L356, L358, L360, L361, L362, L363, L364, L365, L366 y L367). Proceso detenido en L368 por límite de cuota API (HTTP 429).
 - **Filtro de Seguridad:** El L359 (Mariemur Bronze) fue bloqueado por los filtros de seguridad de Gemini ("harness over bare skin"). Queda pendiente de regeneración con prompt suavizado.

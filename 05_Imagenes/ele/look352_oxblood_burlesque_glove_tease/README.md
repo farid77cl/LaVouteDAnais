@@ -1,25 +1,26 @@
 # 🖼️ Galería: look352_oxblood_burlesque_glove_tease
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 1
+Total imágenes: 2
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_352_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) |
+| ![ele_352_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_back_view.png) | ![ele_352_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen |
-| :---: |
-| ![ele_352_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) |
+| Imagen | Imagen |
+| :---: | :---: |
+| ![ele_352_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_back_view.png) | ![ele_352_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_352_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_back_view.png)
 - [ele_352_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png)
 
 ---
