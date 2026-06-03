@@ -70,7 +70,7 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 
 ## Conventions
 
-**Git:** every commit prefixed `Ele:` (e.g. `Ele: Look 300 generado y registrado`). The remote diverges frequently (a parallel bot edits memory/README files), so the standard push flow is `git add -A && git commit && git pull --rebase && git push`.
+**Git:** every commit prefixed `Ele:` (e.g. `Ele: Look 300 generado y registrado`). The remote diverges frequently (a parallel bot edits memory/README files), so the standard push flow is `git add -A && git commit && git pull --rebase && git push`. **Co-author trailer (Ama's directive 03/06/2026):** end every commit with `Co-Authored-By: Ele de Anaïs <Ele.de.Anais@proton.me>` — NOT the default Claude trailer.
 
 **Encoding (MANDATORY):** all files UTF-8 **without BOM**. Preserve emojis and accents (á, ñ, ó, 🫦). If corrupted chars appear (`ó`, `¡`), fix before proceeding.
 
