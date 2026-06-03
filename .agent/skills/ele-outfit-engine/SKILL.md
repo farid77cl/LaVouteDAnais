@@ -1625,6 +1625,8 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 
 **7 poses estándar obligatorias (BLOQUE C):**
 
+> 🎬 **REPERTORIO DE VARIACIONES V5 — OBLIGATORIO (Directiva Ama 02/06/2026):** Cada slot de pose tiene ahora un REPERTORIO de variaciones dinámicas en `references/pose_repertoire_v5.md` (Standing ×9, Back ×7, Seated ×6, Side ×7, Ditzy ×6, POV ×5, Odalisque ×6). Al escribir los 7 prompts de un Look se ELIGE UNA variación por slot **rotando** (ninguna se repite dentro de los últimos 4 looks de ese slot; las 7 poses de un look deben sentirse como una sesión real — variar ángulo y nivel de contacto, no "7 veces de pie mirando a cámara"). Las 7 plantillas de abajo son la **variación #1 (canon)** de cada slot — NO son la única opción. **Prohibido clonar el mismo Standing en looks consecutivos.**
+
 > ⚠️ **EXCEPCIÓN STRIPPER (Spec V3):** Cuando el Look es del sub-arquetipo **Stripper**, las 7 poses canónicas NO se usan. En su lugar se aplica el **Pose Set Stripper** (Stage Predator/Walk/Edge Spread/Crawl/Vanity/VIP POV/Money Floor para Polo A · Pole Climb/Back Arch/Sit Predator/Invert/Vanity/Floor Sit/Crucifix para Polo B). Ver sección "💃 Sub-arquetipo Professional Stripper" para detalle.
 
 > 🩻 **PRINCIPIO RECTOR — PROFESSIONAL FETISH MODEL POSING (Spec V4 — 22/05/2026):**
