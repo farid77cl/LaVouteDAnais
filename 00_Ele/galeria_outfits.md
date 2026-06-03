@@ -12665,11 +12665,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Chrome needle heel, nude sole
 - **Ambientación:** Tokyo International Film Festival red carpet at Grand Hyatt Roppongi, dark carpet with spotlights from every direction, Tokyo skyline in the distance through the venue glass, chrome gown reflecting the camera flash grid, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/ele_350_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/ele_350_standing.png) | [📸 View](../../05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/ele_350_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12758,11 +12758,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Chrome heel
 - **Ambientación:** penthouse dark suite at midnight with a single white overhead spotlight, the blood red cage bra blazing against the absolute darkness, the chrome nodes scattering the pinspot light, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12851,11 +12851,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** intimate burlesque stage with deep velvet curtain in oxblood behind, single amber footlight from below casting dramatic upward shadows, bare wood stage floor, the number about to begin, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13037,11 +13037,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Chrome heel
 - **Ambientación:** editorial fashion studio white with single harsh overhead spotlight, the deep wine latex Atsuko Kudo geometry the only color in the frame, flesh-tone panels creating a second-skin illusion, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13130,11 +13130,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** pole competition stage with chrome pole under dramatic overhead spotlight, competition lighting with audience darkness beyond, the cognac leather and fishnet catching the competition beam, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_standing.png) | [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13223,11 +13223,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Chrome needle heel
 - **Ambientación:** minimalist white dungeon with polished white concrete walls and a single clinical overhead light, clean and surgical, the ivory latex domme the only warmth in the cold white space, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_standing.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13409,11 +13409,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Chrome heel
 - **Ambientación:** Irving Klaw 1950s photography studio aesthetic — bare wood floor, plain white backdrop, harsh direct photographic light from one side, a single rope coiled decoratively on the floor, black-and-white photography era atmosphere reimagined in color, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/ele_358_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/ele_358_standing.png) | [📸 View](../../05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/ele_358_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13595,11 +13595,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Chrome heel
 - **Ambientación:** rooftop terrace at night overlooking city lights below, dark sky above, single overhead architectural light creating deep shadows on the velvet, the chrome Medusa belt the only light-catching element in the darkness, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/ele_360_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/ele_360_standing.png) | [📸 View](../../05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/ele_360_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13688,11 +13688,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Suela nude, columna chrome
 - **Ambientación:** Formula 1 pit garage with a red race car silhouette and stacks of slick tires and chrome pneumatic tools, dramatic overhead garage lighting, polished concrete floor reflections, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look361_ferrari_red_racing_domme/ele_361_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look361_ferrari_red_racing_domme/ele_361_standing.png) | [📸 View](../../05_Imagenes/ele/look361_ferrari_red_racing_domme/ele_361_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13781,11 +13781,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Suela nude
 - **Ambientación:** starting grid with painted lane numbers and a checkered flag and asphalt heat haze, race cars lined up blurred behind, bright midday sun, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look362_papaya_grid_girl/ele_362_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look362_papaya_grid_girl/ele_362_standing.png) | [📸 View](../../05_Imagenes/ele/look362_papaya_grid_girl/ele_362_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13874,11 +13874,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Plataforma acrílica, aguja chrome
 - **Ambientación:** pit lane during a tire stop with a pneumatic tire gun and chrome rig, motion-blurred crew and car behind, bright pit lighting, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look363_red_bull_pit_crew/ele_363_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look363_red_bull_pit_crew/ele_363_standing.png) | [📸 View](../../05_Imagenes/ele/look363_red_bull_pit_crew/ele_363_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13967,11 +13967,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Suela nude, aguja dorada
 - **Ambientación:** Grand Prix podium with a giant gold trophy and champagne spray frozen mid-air in golden droplets, crowd bokeh and confetti, stadium light, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look364_podium_champagne_white/ele_364_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look364_podium_champagne_white/ele_364_standing.png) | [📸 View](../../05_Imagenes/ele/look364_podium_champagne_white/ele_364_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14060,11 +14060,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Suela nude
 - **Ambientación:** Monaco Grand Prix superyacht deck in the harbour, chrome railings and white leather loungers, the race circuit visible on the shore, brilliant Riviera sun on the water, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look365_petronas_yacht_bikini/ele_365_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look365_petronas_yacht_bikini/ele_365_standing.png) | [📸 View](../../05_Imagenes/ele/look365_petronas_yacht_bikini/ele_365_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14153,11 +14153,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Suela nude, aguja chrome
 - **Ambientación:** MotoGP paddock with a racing motorcycle silhouette and chrome stands, leather and carbon textures, dramatic side light, dark garage tones, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look366_british_racing_green_motogp/ele_366_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look366_british_racing_green_motogp/ele_366_standing.png) | [📸 View](../../05_Imagenes/ele/look366_british_racing_green_motogp/ele_366_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14246,11 +14246,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Plataforma retro, suela nude
 - **Ambientación:** 1970s racing circuit with a vintage race car and retro pit signage, warm golden-hour film grain, nostalgic seventies color palette, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look367_burgundy_retro_racer_70s/ele_367_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look367_burgundy_retro_racer_70s/ele_367_standing.png) | [📸 View](../../05_Imagenes/ele/look367_burgundy_retro_racer_70s/ele_367_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**

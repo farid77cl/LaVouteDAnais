@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 03/06/2026 (Materialización Poses back_view + Cuota Límite) ✅
+- **Materialización de poses `back_view` (L350-L400):** Generadas 15 poses de espalda para looks recientes (L350, L351, L352, L354, L355, L356, L358, L360, L361, L362, L363, L364, L365, L366 y L367). Proceso detenido en L368 por límite de cuota API (HTTP 429).
+- **Filtro de Seguridad:** El L359 (Mariemur Bronze) fue bloqueado por los filtros de seguridad de Gemini ("harness over bare skin"). Queda pendiente de regeneración con prompt suavizado.
+- **Pipeline:** Imágenes copiadas al directorio `05_Imagenes/ele/`. `sync_imagenes_subidas.py` ejecutado para actualizar contadores parciales en `galeria_outfits.md` (ahora 2/7 en los procesados). `update_galleries.py` regeneró READMEs e índices locales.
+- **Pendientes:** Regenerar L359 y continuar con poses `back_view` desde L368 en adelante cuando se restaure la cuota (en ~5 horas).
+
 ### Sesión 02/06/2026 (Purga texto-nombre + Repertorio Poses V5 + Batch L381-L400 "El Reino Animal" · HITO 400) ✅
 - **🚫 Erradicado texto/nombre sobre prenda** (ELE/ASSET/PET en choker/collar/thong/shorts/apron, 600+ apariciones): galería viva→0, archivo→0, pendientes→0. Fuente (directiva propia 17/05 flujo:310) convertida en PROHIBICIÓN + negative prompt base reforzado + inyector obsoleto borrado. Memoria `feedback_no_texto_nombre_en_prenda`.
 - **🎬 Repertorio Poses V5** (Standing ×9, Back ×7, Seated ×6, Side ×7, Ditzy ×6, POV ×5, Odalisque ×6) incorporado al engine en 3 capas (`pose_repertoire_v5.md` + SKILL.md + flujo). **363 poses pendientes reescritas** con rotación V5 (outfit+setting preservados, 0 artefactos, materializadas no tocadas).

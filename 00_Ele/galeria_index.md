@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 03/06/2026 09:19 — **231 looks registrados**  
+> Generado automáticamente el 03/06/2026 09:24 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -159,24 +159,24 @@
 | **347** | Blood Orange Harajuku Y2K Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
-| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
-| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Alfombra Roja | — | — | 2/7 | ⏳ Pendiente |
+| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 2/7 | ⏳ Pendiente |
 | **353** | Chrome Silver Newton Hotel Dark (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 7/7 | — |
-| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
-| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
+| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 2/7 | ⏳ Pendiente |
+| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
-| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
-| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
-| **362** | Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
-| **363** | Red Bull Pit Crew (01/06/2026 — batch 361-370 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **364** | Podium Champagne White (01/06/2026 — batch 361-370 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
-| **365** | Petronas Yacht Bikini (01/06/2026 — batch 361-370 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
-| **366** | British Racing Green MotoGP (01/06/2026 — batch 361-370 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
-| **367** | Burgundy Retro Racer 70s (01/06/2026 — batch 361-370 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Corporate | — | — | 2/7 | ⏳ Pendiente |
+| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Corporate | — | — | 2/7 | ⏳ Pendiente |
+| **362** | Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Stripper | — | — | 2/7 | ⏳ Pendiente |
+| **363** | Red Bull Pit Crew (01/06/2026 — batch 361-370 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Gym | — | — | 2/7 | ⏳ Pendiente |
+| **364** | Podium Champagne White (01/06/2026 — batch 361-370 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Alfombra Roja | — | — | 2/7 | ⏳ Pendiente |
+| **365** | Petronas Yacht Bikini (01/06/2026 — batch 361-370 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
+| **366** | British Racing Green MotoGP (01/06/2026 — batch 361-370 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
+| **367** | Burgundy Retro Racer 70s (01/06/2026 — batch 361-370 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
 | **368** | Magenta Trophy Sequins (01/06/2026 — batch 361-370 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **369** | Carbon Fiber Couture (01/06/2026 — batch 361-370 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
 | **370** | Violet Team Principal (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
@@ -474,23 +474,23 @@
 | **347** | Blood Orange Harajuku Y2K Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
 | **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
 | **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
-| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
-| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
-| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
-| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
-| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
-| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 2/7 | ⏳ Pendiente |
+| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
 | **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
-| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
+| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
-| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
-| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
-| **362** | Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
-| **363** | Red Bull Pit Crew (01/06/2026 — batch 361-370 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
-| **364** | Podium Champagne White (01/06/2026 — batch 361-370 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
-| **365** | Petronas Yacht Bikini (01/06/2026 — batch 361-370 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
-| **366** | British Racing Green MotoGP (01/06/2026 — batch 361-370 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
-| **367** | Burgundy Retro Racer 70s (01/06/2026 — batch 361-370 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
+| **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
+| **362** | Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
+| **363** | Red Bull Pit Crew (01/06/2026 — batch 361-370 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
+| **364** | Podium Champagne White (01/06/2026 — batch 361-370 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
+| **365** | Petronas Yacht Bikini (01/06/2026 — batch 361-370 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
+| **366** | British Racing Green MotoGP (01/06/2026 — batch 361-370 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
+| **367** | Burgundy Retro Racer 70s (01/06/2026 — batch 361-370 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
 | **368** | Magenta Trophy Sequins (01/06/2026 — batch 361-370 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
 | **369** | Carbon Fiber Couture (01/06/2026 — batch 361-370 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
 | **370** | Violet Team Principal (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
@@ -555,4 +555,4 @@
 
 ---
 
-*Índice generado por Ele — 03/06/2026 09:19 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 03/06/2026 09:24 — La Voûte d'Anaïs* 🫦👠💅
