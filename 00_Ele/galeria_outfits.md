@@ -7420,7 +7420,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look291_blood_red_bias_goddess_1930s/ele_291_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look291_blood_red_bias_goddess_1930s/ele_291_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -7582,7 +7582,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look293_emerald_belle_de_jour_slip/ele_293_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look293_emerald_belle_de_jour_slip/ele_293_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -7663,7 +7663,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -7744,7 +7744,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_standing.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -7825,7 +7825,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -7906,7 +7906,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look297_oxblood_harlow_bombshell_halter/ele_297_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look297_oxblood_harlow_bombshell_halter/ele_297_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8068,7 +8068,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8149,7 +8149,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8231,7 +8231,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8312,7 +8312,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_standing.png) | [📸 View](././05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_back_view.png) | [📸 View](././05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_seated.png) | [📸 View](././05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_side_profile.png) | [📸 View](././05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_ditzy.png) | [📸 View](././05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_standing.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_back_view.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_seated.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_side_profile.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_ditzy.png) | [📸 View](../../05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/ele_302_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8393,7 +8393,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8555,7 +8555,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look305_tangerine_track_suit_athleisure/ele_305_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look305_tangerine_track_suit_athleisure/ele_305_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8636,7 +8636,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look306_electric_cyan_cabana_club_night/ele_306_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look306_electric_cyan_cabana_club_night/ele_306_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8717,7 +8717,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look307_toxic_yellow_sports_bikini_crossfit/ele_307_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look307_toxic_yellow_sports_bikini_crossfit/ele_307_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8879,7 +8879,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/ele_309_standing.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/ele_309_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/ele_309_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/ele_309_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8960,7 +8960,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_standing.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_seated.png) | [📸 View](././05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_side_profile.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_seated.png) | [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look310_champagne_gold_poolside_hostess/ele_310_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9042,7 +9042,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look311_blush_powder_barre_discipline/ele_311_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look311_blush_powder_barre_discipline/ele_311_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9135,7 +9135,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9228,7 +9228,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look313_polished_gold_bolshoi_gala/ele_313_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look313_polished_gold_bolshoi_gala/ele_313_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9321,7 +9321,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_standing.png) | [📸 View](././05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_back_view.png) | [📸 View](././05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_standing.png) | [📸 View](../../05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_back_view.png) | [📸 View](../../05_Imagenes/ele/look314_powder_lilac_degas_pinup/ele_314_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9414,7 +9414,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9507,7 +9507,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9600,7 +9600,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look317_antique_rose_tutu_boudoir/ele_317_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look317_antique_rose_tutu_boudoir/ele_317_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9693,7 +9693,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look318_pearl_grey_cooldown_stretch/ele_318_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look318_pearl_grey_cooldown_stretch/ele_318_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9786,7 +9786,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look319_sage_powder_avantgarde_gala/ele_319_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look319_sage_powder_avantgarde_gala/ele_319_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9972,7 +9972,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look321_emerald_mugler_power_domme/ele_321_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look321_emerald_mugler_power_domme/ele_321_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -10065,7 +10065,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_standing.png) | [📸 View](././05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_back_view.png) | [📸 View](././05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_seated.png) | [📸 View](././05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_side_profile.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_pov.png) | [📸 View](././05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_standing.png) | [📸 View](../../05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_back_view.png) | [📸 View](../../05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_seated.png) | [📸 View](../../05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_pov.png) | [📸 View](../../05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/ele_322_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -10437,7 +10437,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look326_terracotta_severance_repression/ele_326_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look326_terracotta_severance_repression/ele_326_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -10530,7 +10530,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look327_uv_cyan_bad_kitty_spider_back/ele_327_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look327_uv_cyan_bad_kitty_spider_back/ele_327_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12204,7 +12204,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look345_electric_mint_latex_french_maid_tokyo/ele_345_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look345_electric_mint_latex_french_maid_tokyo/ele_345_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12297,7 +12297,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look346_midnight_blue_roppongi_afterparty/ele_346_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look346_midnight_blue_roppongi_afterparty/ele_346_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12483,7 +12483,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look348_acid_lime_tokyo_gym_editorial/ele_348_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look348_acid_lime_tokyo_gym_editorial/ele_348_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12576,7 +12576,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12669,7 +12669,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/ele_350_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/ele_350_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12762,7 +12762,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12855,7 +12855,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13041,7 +13041,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13134,7 +13134,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13227,7 +13227,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13320,7 +13320,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_standing.png) | [📸 View](././05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_standing.png) | [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13413,7 +13413,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/ele_358_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/ele_358_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13506,7 +13506,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look359_bronze_iridescent_mariemur_body_harness/ele_359_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look359_bronze_iridescent_mariemur_body_harness/ele_359_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13599,7 +13599,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/ele_360_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/ele_360_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13692,7 +13692,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look361_ferrari_red_racing_domme/ele_361_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look361_ferrari_red_racing_domme/ele_361_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13785,7 +13785,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look362_papaya_grid_girl/ele_362_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look362_papaya_grid_girl/ele_362_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13878,7 +13878,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look363_red_bull_pit_crew/ele_363_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look363_red_bull_pit_crew/ele_363_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -13971,7 +13971,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look364_podium_champagne_white/ele_364_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look364_podium_champagne_white/ele_364_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14064,7 +14064,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look365_petronas_yacht_bikini/ele_365_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look365_petronas_yacht_bikini/ele_365_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14157,7 +14157,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look366_british_racing_green_motogp/ele_366_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look366_british_racing_green_motogp/ele_366_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14250,7 +14250,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look367_burgundy_retro_racer_70s/ele_367_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look367_burgundy_retro_racer_70s/ele_367_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14343,7 +14343,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look368_magenta_trophy_sequins/ele_368_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look368_magenta_trophy_sequins/ele_368_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14436,7 +14436,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look369_carbon_fiber_couture/ele_369_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look369_carbon_fiber_couture/ele_369_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14529,7 +14529,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look370_violet_team_principal/ele_370_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look370_violet_team_principal/ele_370_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14715,7 +14715,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_standing.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_seated.png) | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_ditzy.png) | [📸 View](././05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_pov.png) | [📸 View](././05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_ditzy.png) | [📸 View](../../05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_pov.png) | [📸 View](../../05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14808,7 +14808,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look373_silver_slope_siren/ele_373_standing.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](././05_Imagenes/ele/look373_silver_slope_siren/ele_373_side_profile.png) | [📸 View](././05_Imagenes/ele/look373_silver_slope_siren/ele_373_ditzy.png) | [📸 View](././05_Imagenes/ele/look373_silver_slope_siren/ele_373_pov.png) | [📸 View](././05_Imagenes/ele/look373_silver_slope_siren/ele_373_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look373_silver_slope_siren/ele_373_standing.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look373_silver_slope_siren/ele_373_side_profile.png) | [📸 View](../../05_Imagenes/ele/look373_silver_slope_siren/ele_373_ditzy.png) | [📸 View](../../05_Imagenes/ele/look373_silver_slope_siren/ele_373_pov.png) | [📸 View](../../05_Imagenes/ele/look373_silver_slope_siren/ele_373_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14901,7 +14901,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look374_snow_queen_crystal_gala/ele_374_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look374_snow_queen_crystal_gala/ele_374_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14994,7 +14994,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look375_lilac_ice_skater/ele_375_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look375_lilac_ice_skater/ele_375_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -15087,7 +15087,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look376_glühwein_red_après/ele_376_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look376_glühwein_red_après/ele_376_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -15180,7 +15180,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look377_pearl_steam_spa/ele_377_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look377_pearl_steam_spa/ele_377_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -15273,7 +15273,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look378_pine_green_heli_ski/ele_378_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look378_pine_green_heli_ski/ele_378_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -15366,7 +15366,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look379_sapphire_ice_escort/ele_379_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look379_sapphire_ice_escort/ele_379_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -15459,7 +15459,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look380_cream_cashmere_hostess/ele_380_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look380_cream_cashmere_hostess/ele_380_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -15533,10 +15533,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** penthouse boardroom with panoramic glass wall and black marble table and Manhattan skyline at night, dramatic directional light, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look381_hot_magenta_leopard_power_domme/ele_381_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -15597,10 +15598,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** presidential suite of a 5-star Monte Carlo hotel with caviar service and crystal chandelier and floor-to-ceiling sea view, warm low light, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look382_emerald_python_madame_claude/ele_382_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -15661,10 +15663,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** white-cube museum hall with marble columns and sculptures and dramatic gallery spotlighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look383_mirror_silver_zebra_couture/ele_383_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -15725,10 +15728,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** black-box studio with a single overhead beam and seamless tangerine backdrop, high-gloss editorial lighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look384_tangerine_cheetah_studio_micro/ele_384_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -15789,10 +15793,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** VIP lounge backlit with velvet ropes and a chrome bottle wall and neon UV haze, strobe glamour, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look385_cobalt_tiger_nightclub_sequin/ele_385_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -15853,10 +15858,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** penthouse open-plan kitchen with white marble island and gold fixtures and a Vitacura skyline window, bright daylight, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_standing.png) | [📸 View](../../05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_back_view.png) | [📸 View](../../05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_seated.png) | [📸 View](../../05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_side_profile.png) | [📸 View](../../05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_ditzy.png) | [📸 View](../../05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_pov.png) | [📸 View](../../05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -15917,10 +15923,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** after-hours empty office with muted grey cubicles and a single desk lamp and city lights through the window, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look387_oxblood_croco_office_siren/ele_387_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -15981,10 +15988,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** luxury boudoir suite with a champagne velvet chaise longue and an antique vanity mirror and soft diffuse window light, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look388_iridescent_pearl_snow_leopard_boudoir/ele_388_standing.png) | [📸 View](../../05_Imagenes/ele/look388_iridescent_pearl_snow_leopard_boudoir/ele_388_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16045,10 +16053,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** 1950s American diner with chrome stools and a jukebox and a checkerboard floor, warm nostalgic lighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look389_bubblegum_cow_print_bombshell/ele_389_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16109,10 +16118,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** gym studio with a mirror wall and chrome cable machines and cold LED lighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look390_toxic_chartreuse_dalmatian_gym/ele_390_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16237,10 +16247,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** Mykonos cliff terrace over a turquoise sea with whitewashed walls and bright Mediterranean sun, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look392_bronze_tortoiseshell_beach_trikini/ele_392_standing.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look392_bronze_tortoiseshell_beach_trikini/ele_392_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16301,10 +16312,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** Iris van Herpen-style lab with 3D-printed biomorphic structures and cold white light, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look393_electric_cyan_lizard_sculptural_catsuit/ele_393_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16356,7 +16368,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Serpiente coral en Coral Neon · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look394_coral_neon_snake_barbarella/`
+- **Ubicación:** `05_Imagenes/ele/look394_coral_neon_coralsnake_barbarella/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Retro-Futurismo (PB4 Barbarella)
 - **Tags:** #animalprint #serpientecoral #pin-up #reinoanimal #batchL381-L400 #V5poses
@@ -16365,10 +16377,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** Barbarella spaceship interior with shag fur walls and retro-futurist control panels and warm orange glow, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look394_coral_neon_coralsnake_barbarella/ele_394_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16429,10 +16442,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** black photographic cube with a floor-to-ceiling mirror and hard lateral Newton-noir lighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16493,10 +16507,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** city rooftop at dusk with glass railings and the skyline behind, cool ambient light, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look396_mercury_silver_anaconda_athleisure/ele_396_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16557,10 +16572,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** Annabel's-style London club with mirrored gold walls and a crystal chandelier and warm jewel lighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look397_peacock_teal_feather_nightclub/ele_397_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16685,10 +16701,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** scenographic service kitchen with a central marble island and warm Hollywood bulb lighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16749,10 +16766,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** elite fetish dungeon with a leather sling and a red-velvet throne and dramatic low red lighting, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_ditzy.png) | [📸 View](../../05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 

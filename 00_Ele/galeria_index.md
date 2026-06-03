@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 03/06/2026 08:46 — **201 looks registrados**  
+> Generado automáticamente el 03/06/2026 08:52 — **201 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -190,26 +190,26 @@
 | **378** | Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
 | **379** | Sapphire Ice Escort (01/06/2026 — batch 371-380 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
 | **380** | Cream Cashmere Hostess (01/06/2026 — batch 371-380 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
-| **381** | Hot Magenta Leopard Power Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Leopardo) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **382** | Emerald Python Madame Claude (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Pitón) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **383** | Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Cebra) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
-| **384** | Tangerine Cheetah Studio Micro (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Guepardo) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **385** | Cobalt Tiger Nightclub Sequin (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Tigre) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **386** | Champagne Gold Giraffe Trophy (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Jirafa) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **387** | Oxblood Croco Office Siren (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Cocodrilo) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **388** | Iridescent Pearl Snow Leopard Boudoir (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Leopardo de las nieves) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **389** | Bubblegum Cow Print Bombshell (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Vaca / Holstein) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **390** | Toxic Chartreuse Dalmatian Gym (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Dálmata) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **381** | Hot Magenta Leopard Power Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Leopardo) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
+| **382** | Emerald Python Madame Claude (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Pitón) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
+| **383** | Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Cebra) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
+| **384** | Tangerine Cheetah Studio Micro (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Guepardo) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **385** | Cobalt Tiger Nightclub Sequin (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Tigre) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **386** | Champagne Gold Giraffe Trophy (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Jirafa) | — | Domestic | — | — | 7/7 | — |
+| **387** | Oxblood Croco Office Siren (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Cocodrilo) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
+| **388** | Iridescent Pearl Snow Leopard Boudoir (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Leopardo de las nieves) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **389** | Bubblegum Cow Print Bombshell (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Vaca / Holstein) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **390** | Toxic Chartreuse Dalmatian Gym (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Dálmata) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **391** | Deep Teal Jaguar Pole Specialist (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Jaguar) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | — | High-Fashion | — | — | 0/7 | ⏳ Pendiente |
-| **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
+| **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
+| **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 
 ---
 
@@ -473,27 +473,26 @@
 | **378** | Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
 | **379** | Sapphire Ice Escort (01/06/2026 — batch 371-380 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
 | **380** | Cream Cashmere Hostess (01/06/2026 — batch 371-380 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
-| **381** | Hot Magenta Leopard Power Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Leopardo) | 0/7 | ⏳ Pendiente |
-| **382** | Emerald Python Madame Claude (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Pitón) | 0/7 | ⏳ Pendiente |
-| **383** | Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Cebra) | 0/7 | ⏳ Pendiente |
-| **384** | Tangerine Cheetah Studio Micro (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Guepardo) | 0/7 | ⏳ Pendiente |
-| **385** | Cobalt Tiger Nightclub Sequin (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Tigre) | 0/7 | ⏳ Pendiente |
-| **386** | Champagne Gold Giraffe Trophy (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Jirafa) | 0/7 | ⏳ Pendiente |
-| **387** | Oxblood Croco Office Siren (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Cocodrilo) | 0/7 | ⏳ Pendiente |
-| **388** | Iridescent Pearl Snow Leopard Boudoir (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Leopardo de las nieves) | 0/7 | ⏳ Pendiente |
-| **389** | Bubblegum Cow Print Bombshell (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Vaca / Holstein) | 0/7 | ⏳ Pendiente |
-| **390** | Toxic Chartreuse Dalmatian Gym (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Dálmata) | 0/7 | ⏳ Pendiente |
+| **381** | Hot Magenta Leopard Power Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Leopardo) | 1/7 | ⏳ Pendiente |
+| **382** | Emerald Python Madame Claude (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Pitón) | 1/7 | ⏳ Pendiente |
+| **383** | Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Cebra) | 1/7 | ⏳ Pendiente |
+| **384** | Tangerine Cheetah Studio Micro (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Guepardo) | 1/7 | ⏳ Pendiente |
+| **385** | Cobalt Tiger Nightclub Sequin (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Tigre) | 1/7 | ⏳ Pendiente |
+| **387** | Oxblood Croco Office Siren (02/06/2026 — batch L381-L400 "El Reino Animal" · Corporate · Cocodrilo) | 1/7 | ⏳ Pendiente |
+| **388** | Iridescent Pearl Snow Leopard Boudoir (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Leopardo de las nieves) | 2/7 | ⏳ Pendiente |
+| **389** | Bubblegum Cow Print Bombshell (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Vaca / Holstein) | 1/7 | ⏳ Pendiente |
+| **390** | Toxic Chartreuse Dalmatian Gym (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Dálmata) | 1/7 | ⏳ Pendiente |
 | **391** | Deep Teal Jaguar Pole Specialist (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Jaguar) | 0/7 | ⏳ Pendiente |
-| **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | 0/7 | ⏳ Pendiente |
-| **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | 0/7 | ⏳ Pendiente |
-| **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | 0/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | 0/7 | ⏳ Pendiente |
-| **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | 0/7 | ⏳ Pendiente |
-| **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | 0/7 | ⏳ Pendiente |
+| **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | 2/7 | ⏳ Pendiente |
+| **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | 1/7 | ⏳ Pendiente |
+| **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | 1/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | 1/7 | ⏳ Pendiente |
+| **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | 1/7 | ⏳ Pendiente |
+| **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | 1/7 | ⏳ Pendiente |
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | 0/7 | ⏳ Pendiente |
-| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | 0/7 | ⏳ Pendiente |
-| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 0/7 | ⏳ Pendiente |
+| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | 1/7 | ⏳ Pendiente |
+| **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 2/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 03/06/2026 08:46 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 03/06/2026 08:52 — La Voûte d'Anaïs* 🫦👠💅

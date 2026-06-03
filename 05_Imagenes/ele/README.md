@@ -4,6 +4,150 @@
 
 ---
 
+## 👠 Look 400: Burnt Orange Fire Tiger Officer Domme
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ | ⏳ | ⏳ | ⏳ | ![ele_400_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_ditzy.png) | ![ele_400_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/ele_400_pov.png) | ⏳ |
+
+---
+
+## 👠 Look 399: Hot Pink Neon Leopard French Maid
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_399_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 397: Peacock Teal Feather Nightclub
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_397_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look397_peacock_teal_feather_nightclub/ele_397_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 396: Mercury Silver Anaconda Athleisure
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_396_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look396_mercury_silver_anaconda_athleisure/ele_396_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 395: Violet Ocelot Fetish Harness
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_395_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 394: Coral Neon Coralsnake Barbarella
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_394_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look394_coral_neon_coralsnake_barbarella/ele_394_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 393: Electric Cyan Lizard Sculptural Catsuit
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_393_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look393_electric_cyan_lizard_sculptural_catsuit/ele_393_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 392: Bronze Tortoiseshell Beach Trikini
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_392_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look392_bronze_tortoiseshell_beach_trikini/ele_392_standing.png) | ⏳ | ⏳ | ![ele_392_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look392_bronze_tortoiseshell_beach_trikini/ele_392_side_profile.png) | ⏳ |
+
+---
+
+## 👠 Look 390: Toxic Chartreuse Dalmatian Gym
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_390_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look390_toxic_chartreuse_dalmatian_gym/ele_390_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 389: Bubblegum Cow Print Bombshell
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_389_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look389_bubblegum_cow_print_bombshell/ele_389_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 388: Iridescent Pearl Snow Leopard Boudoir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_388_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look388_iridescent_pearl_snow_leopard_boudoir/ele_388_standing.png) | ![ele_388_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look388_iridescent_pearl_snow_leopard_boudoir/ele_388_back_view.png) | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 387: Oxblood Croco Office Siren
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_387_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look387_oxblood_croco_office_siren/ele_387_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 386: Champagne Gold Giraffe Trophy
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_386_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_standing.png) | ![ele_386_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_back_view.png) | ![ele_386_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_seated.png) | ![ele_386_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_side_profile.png) | ![ele_386_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_ditzy.png) | ![ele_386_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_pov.png) | ![ele_386_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/ele_386_odalisque.png) |
+
+---
+
+## 👠 Look 385: Cobalt Tiger Nightclub Sequin
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_385_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look385_cobalt_tiger_nightclub_sequin/ele_385_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 384: Tangerine Cheetah Studio Micro
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_384_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look384_tangerine_cheetah_studio_micro/ele_384_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 383: Mirror Silver Zebra Couture
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_383_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look383_mirror_silver_zebra_couture/ele_383_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 382: Emerald Python Madame Claude
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_382_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look382_emerald_python_madame_claude/ele_382_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 381: Hot Magenta Leopard Power Domme
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_381_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look381_hot_magenta_leopard_power_domme/ele_381_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 380: Cream Cashmere Hostess
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
@@ -598,9 +742,9 @@
 
 ## 👠 Look 280: Champagne Gold Tea Ceremony Cheongsam
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_280_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_standing.png) | ![ele_280_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_back_view.png) | ![ele_280_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_seated.png) | ![ele_280_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_side_profile.png) | ![ele_280_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_280_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_standing.png) | ![ele_280_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_back_view.png) | ![ele_280_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_seated.png) | ![ele_280_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_side_profile.png) | ![ele_280_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_ditzy.png) | ![ele_280_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_pov.png) | ![ele_280_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/ele_280_odalisque.png) |
 
 ---
 
@@ -630,17 +774,17 @@
 
 ## 👠 Look 276: Acid Yellow Bali Beach Bikini
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_276_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_276_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_standing.png) | ![ele_276_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_back_view.png) | ![ele_276_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_seated.png) | ![ele_276_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_side_profile.png) | ![ele_276_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_ditzy.png) | ![ele_276_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_pov.png) | ![ele_276_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_odalisque.png) |
 
 ---
 
 ## 👠 Look 275: Coral Lotus Phuket Resort Bikini
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_275_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_275_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_standing.png) | ![ele_275_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_back_view.png) | ![ele_275_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_seated.png) | ![ele_275_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_side_profile.png) | ![ele_275_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_ditzy.png) | ![ele_275_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_pov.png) | ![ele_275_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_odalisque.png) |
 
 ---
 
@@ -1932,11 +2076,11 @@
 
 ---
 
-## 👠 Look 113: Mob Wife
+## 👠 Look 113: Neon Pink Latex Gym Bimbo
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_ditzy.png) |
+| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
 
 ---
 
