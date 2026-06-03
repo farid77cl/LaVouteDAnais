@@ -18098,3 +18098,643 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
+## Look 421: Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink)
+
+*Segunda Piel · leggings Hot Pink · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look421_hot_pink_scrunch_leggings_gym/`
+- **Categoría:** Gym
+- **Subcategoría:** Performance (Bombshell Sportswear)
+- **Tags:** #leggings #segundapiel #wetlook #gym #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Hot Pink. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** A hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a v-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** a gym studio with a mirror wall and chrome cable machines and cold bright lighting, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a V-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform. full body from a low hero angle, feet planted apart and firm on both stilettos, both XXXL-nailed hands on the hips, shoulders pulled back and the chin dropped for a dominant stare down into the camera, commanding lumbar arch, lips parted glossy, cherry red hair framing the face, a gym studio with a mirror wall and chrome cable machines and cold bright lighting, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a V-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform. full body back view caught mid-stride walking away from the camera with one stiletto heel lifting and the hips swinging, the torso twisting to glance back over the shoulder, one XXXL-nailed hand trailing down the lower back toward the ass, lips parted glossy, predatory glance through the hair, a gym studio with a mirror wall and chrome cable machines and cold bright lighting, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a V-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform. seated perched on the very edge of the seat leaning forward with the elbows on the knees, the augmented bust thrust toward the camera in deep cleavage, knees together and both stilettos planted, one XXXL-nailed fingertip at the bottom lip, half-lidded predatory gaze, a gym studio with a mirror wall and chrome cable machines and cold bright lighting, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a V-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform. full body side profile seated with the legs crossed at the knee and the top stiletto pointed forward, the spine in a deep arch and the bust thrust up, one XXXL-nailed hand on the top knee, chin lifted in profile, lips parted glossy, a gym studio with a mirror wall and chrome cable machines and cold bright lighting, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a V-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform. medium full shot framed knee-up to head (plano americano American shot 3/4 length), elegant lumbar arch with the hip jutted, one XXXL fingertip twirling a strand of the cherry red hair beside the face (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft daydreaming half-lidded eyes and lips softly parted glossy, full outfit legible in frame, shoulders dropped, a gym studio with a mirror wall and chrome cable machines and cold bright lighting, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a V-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform. medium close-up shot framed bust-up to face from a low angle 30 degrees, the SINGLE right hand holding the smartphone camera slightly below and angled up (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), the chin elevated with pouty glossy lips parted and a gaze down into the lens, deep decollete dominant in the lower frame, lumbar arch visible, cherry red hair framing the face, a gym studio with a mirror wall and chrome cable machines and cold bright lighting, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a hot-pink high-gloss wet-look matching gym set with butt-scrunching high-waist leggings and a triangle sports bra with a V-shaped waistband, the midriff bare with the navel piercing visible, and hot-pink platform stiletto trainers with 6-inch heel and 2-inch platform. full body lying face-down propped up on both forearms with the back deeply arched and the ass lifted, the lower legs raised and the ankles crossed in the air showing the pointed stilettos, looking back over the shoulder at the camera, cherry red hair spilling down the arched back, lips parted glossy, a gym studio with a mirror wall and chrome cable machines and cold bright lighting, 8k editorial fashion photography.
+```
+
+---
+
+## Look 422: Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan)
+
+*Segunda Piel · leggings Electric Cyan · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look422_electric_cyan_hoodie_leggings/`
+- **Categoría:** Gym
+- **Subcategoría:** Athleisure (GymShark OOTD)
+- **Tags:** #leggings #segundapiel #wetlook #gym #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Electric Cyan. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** an urban street corner by a coffee window with morning daylight, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform. full body, one XXXL-nailed hand hooking the waistband and easing it lower on one hip while the other rests at the navel, weight on one stiletto with a soft knee bend, looking down at her own body, lips parted glossy, intimate self-aware posture, cherry red hair pushed to one side, an urban street corner by a coffee window with morning daylight, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform. full body back view bent forward at the hips with both XXXL-nailed hands flat on a surface in front, deep back arch and the ass pushed up and out toward the camera, looking back over the shoulder through the cherry red hair, lips parted glossy, an urban street corner by a coffee window with morning daylight, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform. seated reclined back leaning on one hand behind, one leg extended forward with the stiletto pointed at the camera and the other bent, the free XXXL-nailed hand sliding from the collarbone down between the breasts to the navel, half-lidded sultry gaze, lips parted glossy, an urban street corner by a coffee window with morning daylight, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform. full body side profile reclining on one hip in an extreme S-curve, the bust pushed up and the hip rolled back, one leg extended with the stiletto pointed and the other bent, one XXXL-nailed hand trailing along the thigh, profile lifted, lips parted glossy, an urban street corner by a coffee window with morning daylight, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform. medium full shot framed knee-up to head (plano americano American shot 3/4 length), elegant lumbar arch and hip cocked, the fingertips of one XXXL-nailed hand poised in front of the softly parted glossy lips as if blowing a kiss (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft half-lidded daydreaming eyes, full outfit legible in frame, an urban street corner by a coffee window with morning daylight, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform. medium close-up shot framed bust-up to face from a high selfie angle looking slightly down, the SINGLE right hand holding the smartphone camera above eye level (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), big doe eyes up to the lens and pouty glossy lips parted, deep decollete dominant in the lower frame, lumbar arch visible, cherry red hair cascading forward, an urban street corner by a coffee window with morning daylight, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing electric-cyan wet-look high-waist leggings with an oversized cyan cropped wet-look hoodie left unzipped over a matching cyan sports bra, the midriff exposed with the navel piercing visible, and cyan platform stiletto trainers with 7-inch heel and platform. full body lying on the back with an extreme arch lifting the bust and rolling the hips, one knee bent with the stiletto planted and the other leg extended pointed, both XXXL-nailed hands sliding up the body, the head tipped back with a half-lidded gaze, lips parted glossy, an urban street corner by a coffee window with morning daylight, 8k editorial fashion photography.
+```
+
+---
+
+## Look 423: Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver)
+
+*Segunda Piel · leggings Mirror Silver · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look423_liquid_silver_disco_leggings/`
+- **Categoría:** Nightclub
+- **Subcategoría:** Disco-Pant (Studio 54)
+- **Tags:** #leggings #segundapiel #wetlook #nightclub #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Mirror Silver. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with french xxxl nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with French XXXL nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel. full body shot from a low angle slightly below hip, weight shifted onto one stiletto heel with the other foot forward and pointed, exaggerated S-curve with the hip jutted to one side and the chest pushed forward, one XXXL-nailed hand sliding down the hip and thigh and the other pulling at the neckline, shoulders dropped, chin lifted, half-lidded predatory gaze to camera, extreme lumbar arch, cherry red hair cascading over one shoulder, a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with French XXXL nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel. full body back view standing with both hands lifting all the cherry red hair up off the nape, exposing the full back line, the head dropped slightly forward, weight on one stiletto with the hip cocked, shoulders rolled open, a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with French XXXL nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel. seated straddling the bench backward facing the camera with both stilettos planted wide, both forearms folded along the top of the backrest, chin on the hands, deep lumbar arch, predatory direct gaze, lips parted glossy, a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with French XXXL nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel. full body side profile caught mid-stride with one stiletto forward and the back heel lifting, the hips swinging and the chest thrust forward in profile, one XXXL-nailed hand on the hip, cherry red hair streaming behind, chin lifted, a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with French XXXL nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel. medium full shot framed knee-up to head (plano americano American shot 3/4 length), elegant lumbar arch and hip jutted, one XXXL-nailed hand framing her own cheekbone with the head tilted airheaded (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft daydreaming half-lidded eyes and lips softly parted glossy, full outfit legible in frame, a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with French XXXL nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel. medium close-up shot framed bust-up to face from a low angle 30 degrees, the SINGLE right hand holding the smartphone camera at arm length (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), the face turned three-quarters with the gaze drifting off-lens dreamy, pouty glossy lips parted, deep decollete in the lower frame, lumbar arch visible, cherry red hair windblown, a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing liquid-silver mirror high-gloss disco-pant leggings with a silver sequin bandeau top and a wide silver belt, opera-length transparent-fingertip silver gloves with French XXXL nails fully visible, and silver pointed-toe stiletto sandals with 13cm chrome needle heel. full body reclining at a three-quarter angle toward the camera propped on the elbows half-sitting, the legs draped and one stiletto pointed at the lens, the chest turned partly forward, one XXXL-nailed hand trailing the inner thigh, half-lidded predatory gaze, cherry red hair pooling behind, a Studio 54 disco floor with a mirror ball and neon light beams and a glittering crowd blur, 8k editorial fashion photography.
+```
+
+---
+
+## Look 424: Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine)
+
+*Segunda Piel · leggings Tangerine · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look424_tangerine_aerobics_leggings/`
+- **Categoría:** Pin-Up
+- **Subcategoría:** Decade Glam 80s Aerobics
+- **Tags:** #leggings #segundapiel #wetlook #pin-up #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Tangerine. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** A tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with french xxxl nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with French XXXL nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform. full body shot from a low angle, caught mid-stride walking straight toward the camera with one stiletto heel forward and the back foot lifting off the floor, hips swinging, one XXXL-nailed hand on the hip and the other arm swinging loose, head turned slightly over the shoulder, lips parted glossy, fierce runway gaze, cherry red hair in motion, an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with French XXXL nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform. full body back view with the shoulder blades against a wall and the ass off the wall pushed out, one XXXL-nailed hand pressed flat on the wall behind and the other in the hair, looking back over the shoulder at the camera, deep lumbar arch, an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with French XXXL nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform. seated on the floor with the knees drawn up together and both stilettos planted, leaning back on both XXXL-nailed hands behind, the chest lifted and the spine arched, head tilted back, lips parted glossy, cherry red hair pooling on the floor, an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with French XXXL nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform. full body side profile kneeling upright with an extreme spinal arch in profile, the bust pushed forward and the ass back over the heels, one XXXL-nailed hand reaching overhead and the other on the thigh, profile to the light, lips parted glossy, an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with French XXXL nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform. medium full shot framed knee-up to head (plano americano American shot 3/4 length), the head turned coyly over the shoulder with an elegant lumbar arch and the hip pushed out, one XXXL-nailed fingertip at the bottom lip (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft half-lidded daydreaming gaze and lips softly parted glossy, full outfit legible in frame, an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with French XXXL nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform. medium close-up shot framed bust-up to face from a low angle 30 degrees, the SINGLE right hand holding the smartphone camera at arm length slightly above eye level (XXXL French nails spread in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), pouty glossy lips parted with a confident direct gaze, face dominant in the upper-mid frame, deep decollete in the lower frame, lumbar arch visible, cherry red hair windblown around the face, an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a tangerine high-cut wet-look aerobics leotard worn over tangerine wet-look leggings with tangerine ribbed legwarmers and a thin elastic belt, a satin headband, short fingerless gloves with French XXXL nails fully visible, and tangerine platform stiletto ankle boots with 14cm heel and platform. full body on the knees leaning forward down onto both forearms with the spine hollowed and the ass lifted high behind, looking up at the camera through the cherry red hair, one XXXL-nailed hand reaching forward, lips parted glossy, the pointed stilettos visible behind, an 80s aerobics studio with a mirror wall and neon tube lighting and a wooden floor, 8k editorial fashion photography.
+```
+
+---
+
+## Look 425: Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold)
+
+*Segunda Piel · leggings Rose Gold · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look425_rose_gold_yoga_leggings/`
+- **Categoría:** Domestic
+- **Subcategoría:** Trophy (Yoga Room DA5)
+- **Tags:** #leggings #segundapiel #wetlook #domestic #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Rose Gold. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel. full body, shoulders and upper back propped against the wall with the pelvis pushed forward off it, one knee bent and that stiletto sole flat against the wall, both XXXL-nailed hands hooked in the waistband, chin dropped looking up through the lashes, lips parted glossy, deep lumbar arch, cherry red hair spilling against the wall, a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel. full body back view with both XXXL-nailed hands sliding down over her own ass cheeks framing the booty-scrunch, an extreme lumbar arch, the head thrown back with the cherry red hair veiling the turned face, weight on one pointed stiletto, a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel. seated side-saddle with both legs angled together to one side and the top stiletto pointed at the camera, the torso twisted back to the lens, one XXXL-nailed hand on the top thigh and the other at the jaw, lumbar arch, half-lidded gaze, a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel. full body side profile with one XXXL-nailed hand pressed high on a wall and the body arched away from it, the chest thrust forward and the hip pushed back in profile, one stiletto forward pointed, cherry red hair down the spine, chin lifted, a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel. medium full shot framed knee-up to head (plano americano American shot 3/4 length showing bust and face), editorial posture with elegant lumbar arch and the hip jutted, one XXXL French-manicured fingertip resting against the bottom lip (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft daydreaming half-lidded eyes and lips softly parted glossy, full outfit and silhouette legible in frame, shoulders dropped, a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel. medium close-up shot framed bust-up to face from a low angle 30 degrees, the SINGLE right hand holding the smartphone camera slightly below and angled up (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), the chin elevated with pouty glossy lips parted and a gaze down into the lens, deep decollete dominant in the lower frame, lumbar arch visible, cherry red hair framing the face, a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing rose-gold wet-look high-waist leggings with a matching rose-gold cropped latex bra-top and a delicate gold body chain, the midriff bare with the navel piercing visible, and rose-gold platform stiletto mules with 13cm pin heel. full body lying on the back with the legs raised and crossed playfully in the air showing both pointed stilettos, the hips rolled up, both XXXL-nailed hands framing the face, looking toward the camera with a half-lidded dreamy gaze, lips parted glossy, cherry red hair fanned out, a private penthouse yoga room with a 360-degree mirror wall and cool LED light strips, 8k editorial fashion photography.
+```
+
+---
+
+## Look 426: Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet)
+
+*Segunda Piel · leggings Violet · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look426_violet_vinyl_y2k_leggings/`
+- **Categoría:** Escort
+- **Subcategoría:** Callejera (Y2K Julia Fox)
+- **Tags:** #leggings #segundapiel #wetlook #escort #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Violet. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Violet patent vinyl high-shine leggings with a violet translucent pvc crop top tied at the navel and a chrome o-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing violet patent vinyl high-shine leggings with a violet translucent PVC crop top tied at the navel and a chrome O-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform. full body from a low angle, both arms raised overhead gathering the cherry red hair up off the neck, torso elongated and the augmented bust lifted high, extreme lumbar arch, weight on both stilettos with the hip cocked, side-body line exposed, face tilted up with a half-lidded sultry gaze, lips parted glossy, a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing violet patent vinyl high-shine leggings with a violet translucent PVC crop top tied at the navel and a chrome O-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform. full body back view kneeling upright with the spine arched and the weight sitting back toward the heels, one XXXL-nailed hand reaching up the back and the other in the hair, looking over the shoulder, lips parted glossy, a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing violet patent vinyl high-shine leggings with a violet translucent PVC crop top tied at the navel and a chrome O-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform. seated with an exaggerated knee-over-knee cross and the top stiletto pointing at the camera in sharp foreground, extreme lumbar arch, the bust angled forward, one XXXL-nailed hand on the top knee with a finger trailing the inner thigh and the other cradling the jaw, shoulders rolled back, half-lidded predatory gaze, lips parted glossy, a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing violet patent vinyl high-shine leggings with a violet translucent PVC crop top tied at the navel and a chrome O-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform. full body side profile from a low angle, an exaggerated S-curve with extreme lumbar arch and the chest thrust forward at once, one leg bent forward at the knee with the stiletto pointed, one XXXL-nailed hand sliding down the hip and thigh, head tilted back chin lifted, lips parted glossy, cherry red hair down the spine, a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing violet patent vinyl high-shine leggings with a violet translucent PVC crop top tied at the navel and a chrome O-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform. medium full shot framed knee-up to head (plano americano American shot 3/4 length), elegant lumbar arch with the hip jutted, one XXXL fingertip twirling a strand of the cherry red hair beside the face (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft daydreaming half-lidded eyes and lips softly parted glossy, full outfit legible in frame, shoulders dropped, a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing violet patent vinyl high-shine leggings with a violet translucent PVC crop top tied at the navel and a chrome O-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform. medium close-up shot framed bust-up to face from a high selfie angle looking slightly down, the SINGLE right hand holding the smartphone camera above eye level (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), big doe eyes up to the lens and pouty glossy lips parted, deep decollete dominant in the lower frame, lumbar arch visible, cherry red hair cascading forward, a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing violet patent vinyl high-shine leggings with a violet translucent PVC crop top tied at the navel and a chrome O-ring hip belt, a mirror clutch, and violet over-the-knee platform stiletto boots with 14cm heel and 4-inch platform. full body lying on the side with an exaggerated S-curve, extreme back arch with the bust pushed up and the hip rolled back, one leg extended with the stiletto pointed at the camera and the other bent, one arm under the head with XXXL nails fanned in the hair, the other hand sliding from the collarbone down to the hip, half-lidded predatory gaze, lips parted glossy, cherry red hair cascading, a Y2K neon street at night with wet asphalt reflecting magenta and cyan signage, 8k editorial fashion photography.
+```
+
+---
+
+## Look 427: Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent)
+
+*Segunda Piel · leggings Oil-Slick Iridescent · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/`
+- **Categoría:** Nightclub
+- **Subcategoría:** Cage Bra (UV club)
+- **Tags:** #leggings #segundapiel #wetlook #nightclub #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Oil-Slick Iridescent. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with french xxxl nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** a UV-blacklight private club with neon haze and a glowing dance floor, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with French XXXL nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform. full body, the body turned three-quarters away with the ass toward the lens and the torso twisted back so the bust returns to the camera, one XXXL-nailed hand on the far hip and the other at the nape lifting the hair, looking back over the shoulder with a predatory glance, deep waist-to-hip twist, lips parted glossy, a UV-blacklight private club with neon haze and a glowing dance floor, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with French XXXL nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform. full body back view with an exaggerated booty-pop hip thrust back and ass out, the spine in a dramatic S-curve, one XXXL-nailed hand on the hip and the other reaching up through the cherry red hair, head turned looking over the shoulder predatory through the hair veil, one heel pigeon-toed inward, lips parted glossy, a UV-blacklight private club with neon haze and a glowing dance floor, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with French XXXL nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform. seated perched on the very edge of the seat leaning forward with the elbows on the knees, the augmented bust thrust toward the camera in deep cleavage, knees together and both stilettos planted, one XXXL-nailed fingertip at the bottom lip, half-lidded predatory gaze, a UV-blacklight private club with neon haze and a glowing dance floor, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with French XXXL nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform. full body side profile seated with the legs crossed at the knee and the top stiletto pointed forward, the spine in a deep arch and the bust thrust up, one XXXL-nailed hand on the top knee, chin lifted in profile, lips parted glossy, a UV-blacklight private club with neon haze and a glowing dance floor, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with French XXXL nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform. medium full shot framed knee-up to head (plano americano American shot 3/4 length), elegant lumbar arch and hip cocked, the fingertips of one XXXL-nailed hand poised in front of the softly parted glossy lips as if blowing a kiss (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft half-lidded daydreaming eyes, full outfit legible in frame, a UV-blacklight private club with neon haze and a glowing dance floor, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with French XXXL nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform. medium close-up shot framed bust-up to face from a low angle 30 degrees, the SINGLE right hand holding the smartphone camera at arm length (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), the face turned three-quarters with the gaze drifting off-lens dreamy, pouty glossy lips parted, deep decollete in the lower frame, lumbar arch visible, cherry red hair windblown, a UV-blacklight private club with neon haze and a glowing dance floor, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing oil-slick iridescent multichrome high-gloss disco leggings with a chrome cage bra over a sheer crystal-mesh top and body chains across the torso, opera-length transparent-fingertip iridescent gloves with French XXXL nails fully visible, and iridescent platform stiletto sandals with 8-inch heel and 4-inch platform. full body lying face-down propped up on both forearms with the back deeply arched and the ass lifted, the lower legs raised and the ankles crossed in the air showing the pointed stilettos, looking back over the shoulder at the camera, cherry red hair spilling down the arched back, lips parted glossy, a UV-blacklight private club with neon haze and a glowing dance floor, 8k editorial fashion photography.
+```
+
+---
+
+## Look 428: Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo)
+
+*Segunda Piel · leggings Deep Indigo · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look428_deep_indigo_grip_leggings_pole/`
+- **Categoría:** Stripper
+- **Subcategoría:** Pole Specialist (CXIX grip)
+- **Tags:** #leggings #segundapiel #wetlook #stripper #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Deep Indigo. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Pole Climb:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap. vertical pole performance art mid-climb, one bent leg gripping the pole and the other extended pointed in the platform stiletto, both XXXL-nailed hands high gripping the pole, deep lumbar arch, predatory gaze, the show is her body, a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, 8k editorial fashion photography.
+```
+
+**2. Pole Back Arch:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap. vertical pole performance, back against the pole with both hands overhead gripping it, one leg lifted in a high arabesque in the platform stiletto, extreme back arch, head dropped back, lips parted glossy, a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, 8k editorial fashion photography.
+```
+
+**3. Pole Sit:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap. vertical pole performance seated low with both legs wrapped around the pole and the hips thrust forward, both XXXL-nailed hands on the pole, predatory gaze to camera, performance-aware body language, a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, 8k editorial fashion photography.
+```
+
+**4. Pole Invert:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap. vertical pole performance inverted upside-down with the legs split wide around the pole, cherry red hair falling toward the floor, dramatic profile showing the full body line, platform stilettos pointed, a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, 8k editorial fashion photography.
+```
+
+**5. Vanity:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap. at the dressing-room vanity mirror touching up glossy lips, ditzy half-lidded reflection, XXXL nails visible, bombshell stage presence, a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, 8k editorial fashion photography.
+```
+
+**6. Pole Floor Sit:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap. seated at the foot of the pole with the legs open, one XXXL-nailed hand gripping the pole and the other on the thigh, deep lumbar arch, predatory gaze to camera, a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, 8k editorial fashion photography.
+```
+
+**7. Pole Crucifix:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing deep-indigo grip-fabric high-shine leggings that glisten in motion with a matching micro triangle bra and body chains over the bare torso and aggressive hip cutouts, and clear transparent acrylic platform stiletto sandals (Pleaser Flamingo-808 style) with 8-inch heel and 4-inch clear acrylic platform and ankle strap. vertical pole performance gripping the pole in a crucifix hold one hand high one low, legs apart, profile showing the back arch, performance-aware presence, a vertical pole performance stage with a bronze pole and a tip rail and green UV club lighting, high-glamour entertainer presence, 8k editorial fashion photography.
+```
+
+---
+
+## Look 429: Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse)
+
+*Segunda Piel · leggings Toxic Chartreuse · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look429_chartreuse_synth_power_leggings/`
+- **Categoría:** Pin-Up
+- **Subcategoría:** Retro-Futurismo 80s Synth
+- **Tags:** #leggings #segundapiel #wetlook #pin-up #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Toxic Chartreuse. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with french xxxl nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** an 80s MTV synth-pop stage with neon grid lighting and laser beams, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with French XXXL nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform. full body, standing tall with the legs crossed at the knee in an elegant fashion-model X-stance, weight balanced on both stilettos, one XXXL-nailed hand on the opposite hip and the other touching the collarbone, spine long with a subtle arch, chin tilted, half-lidded sultry gaze, lips parted glossy, cherry red hair over one shoulder, an 80s MTV synth-pop stage with neon grid lighting and laser beams, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with French XXXL nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform. full body back view bent forward at the hips with both XXXL-nailed hands flat on a surface in front, deep back arch and the ass pushed up and out toward the camera, looking back over the shoulder through the cherry red hair, lips parted glossy, an 80s MTV synth-pop stage with neon grid lighting and laser beams, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with French XXXL nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform. seated straddling the bench backward facing the camera with both stilettos planted wide, both forearms folded along the top of the backrest, chin on the hands, deep lumbar arch, predatory direct gaze, lips parted glossy, an 80s MTV synth-pop stage with neon grid lighting and laser beams, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with French XXXL nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform. full body side profile caught mid-stride with one stiletto forward and the back heel lifting, the hips swinging and the chest thrust forward in profile, one XXXL-nailed hand on the hip, cherry red hair streaming behind, chin lifted, an 80s MTV synth-pop stage with neon grid lighting and laser beams, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with French XXXL nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform. medium full shot framed knee-up to head (plano americano American shot 3/4 length), the head turned coyly over the shoulder with an elegant lumbar arch and the hip pushed out, one XXXL-nailed fingertip at the bottom lip (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft half-lidded daydreaming gaze and lips softly parted glossy, full outfit legible in frame, an 80s MTV synth-pop stage with neon grid lighting and laser beams, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with French XXXL nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform. medium close-up shot framed bust-up to face from a low angle 30 degrees, the SINGLE right hand holding the smartphone camera slightly below and angled up (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), the chin elevated with pouty glossy lips parted and a gaze down into the lens, deep decollete dominant in the lower frame, lumbar arch visible, cherry red hair framing the face, an 80s MTV synth-pop stage with neon grid lighting and laser beams, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing toxic-chartreuse high-gloss vinyl leggings with a chartreuse power-shoulder structured bra-top and a wide metallic-silver belt, fingerless lace-vinyl gloves with French XXXL nails fully visible, voluminous teased hair, and chartreuse platform stiletto ankle boots with 14cm heel and platform. full body reclining at a three-quarter angle toward the camera propped on the elbows half-sitting, the legs draped and one stiletto pointed at the lens, the chest turned partly forward, one XXXL-nailed hand trailing the inner thigh, half-lidded predatory gaze, cherry red hair pooling behind, an 80s MTV synth-pop stage with neon grid lighting and laser beams, 8k editorial fashion photography.
+```
+
+---
+
+## Look 430: Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald)
+
+*Segunda Piel · leggings Emerald · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
+
+- **Ubicación:** `05_Imagenes/ele/look430_emerald_croco_leggings_gym/`
+- **Categoría:** Gym
+- **Subcategoría:** Performance (croco editorial)
+- **Tags:** #leggings #segundapiel #wetlook #gym #batchL421-L430 #V5poses #noskirt #nodress
+- **Concepto:** Batch "Segunda Piel" (LEGGINGS, Directiva Ama — NADA de faldas ni vestidos). Base obligatoria: leggings en material V3.5 brillante (wet-look/latex/vinyl/disco/iridescent/croco, estilo Paradize). Familia Emerald. Color y material libres. Poses V5 rotadas, footwear canon, cero texto sobre prenda.
+- **Outfit:** Emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform
+- **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
+- **Ambientación:** a gym with a chrome squat rack and a mirror wall and cool directional light, .
+
+### 📸 Imágenes (0/7)
+| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
+### 📝 Prompts V3.5 Hard-Sync
+
+**1. Standing:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform. full body from a low hero angle, feet planted apart and firm on both stilettos, both XXXL-nailed hands on the hips, shoulders pulled back and the chin dropped for a dominant stare down into the camera, commanding lumbar arch, lips parted glossy, cherry red hair framing the face, a gym with a chrome squat rack and a mirror wall and cool directional light, 8k editorial fashion photography.
+```
+
+**2. Back View:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform. full body back view standing with both hands lifting all the cherry red hair up off the nape, exposing the full back line, the head dropped slightly forward, weight on one stiletto with the hip cocked, shoulders rolled open, a gym with a chrome squat rack and a mirror wall and cool directional light, 8k editorial fashion photography.
+```
+
+**3. Seated:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform. seated on the floor with the knees drawn up together and both stilettos planted, leaning back on both XXXL-nailed hands behind, the chest lifted and the spine arched, head tilted back, lips parted glossy, cherry red hair pooling on the floor, a gym with a chrome squat rack and a mirror wall and cool directional light, 8k editorial fashion photography.
+```
+
+**4. Side Profile:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform. full body side profile kneeling upright with an extreme spinal arch in profile, the bust pushed forward and the ass back over the heels, one XXXL-nailed hand reaching overhead and the other on the thigh, profile to the light, lips parted glossy, a gym with a chrome squat rack and a mirror wall and cool directional light, 8k editorial fashion photography.
+```
+
+**5. Ditzy:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform. medium full shot framed knee-up to head (plano americano American shot 3/4 length showing bust and face), editorial posture with elegant lumbar arch and the hip jutted, one XXXL French-manicured fingertip resting against the bottom lip (single hand clearly visible the other arm along the body hand at hip), bust prominent in mid-frame, soft daydreaming half-lidded eyes and lips softly parted glossy, full outfit and silhouette legible in frame, shoulders dropped, a gym with a chrome squat rack and a mirror wall and cool directional light, 8k editorial fashion photography.
+```
+
+**6. POV:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform. medium close-up shot framed bust-up to face from a high selfie angle looking slightly down, the SINGLE right hand holding the smartphone camera above eye level (XXXL French nails in sharp foreground, only ONE visible hand the OTHER arm fully out of frame below the waist), big doe eyes up to the lens and pouty glossy lips parted, deep decollete dominant in the lower frame, lumbar arch visible, cherry red hair cascading forward, a gym with a chrome squat rack and a mirror wall and cool directional light, 8k editorial fashion photography.
+```
+
+**7. Odalisque:**
+
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, subtle navel piercing, dramatic editorial makeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing emerald-green croco-embossed wet-look high-waist butt-scrunch leggings with a matching emerald zip-up sports bra and a cropped emerald bomber jacket, the midriff bare with the navel piercing visible, and emerald platform stiletto trainers with 6-inch heel and 2-inch platform. full body on the knees leaning forward down onto both forearms with the spine hollowed and the ass lifted high behind, looking up at the camera through the cherry red hair, one XXXL-nailed hand reaching forward, lips parted glossy, the pointed stilettos visible behind, a gym with a chrome squat rack and a mirror wall and cool directional light, 8k editorial fashion photography.
+```
+
+---
+

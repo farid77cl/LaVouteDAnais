@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 03/06/2026 09:03 — **221 looks registrados**  
+> Generado automáticamente el 03/06/2026 09:19 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -230,6 +230,16 @@
 | **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
 | **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
 | **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -247,14 +257,14 @@
 ### Corporate (16 looks)
 **259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**
 
-### Domestic (17 looks)
-**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**
+### Domestic (18 looks)
+**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**
 
-### Escort (23 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**
+### Escort (24 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**
 
-### Gym (21 looks)
-**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**
+### Gym (24 looks)
+**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**, **421**, **422**, **430**
 
 ### Gym / Athleisure (6 looks)
 **265**, **266**, **273**, **274**, **289**, **290**
@@ -274,14 +284,14 @@
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (19 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**
+### Nightclub (21 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**
 
-### Pin-Up (19 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**
+### Pin-Up (21 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**
 
-### Stripper (16 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**
+### Stripper (17 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**
 
 ---
 
@@ -290,26 +300,26 @@
 ### Rojo / Cherry / Crimson (37 looks)
 **204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**
 
-### Rosa / Hot Pink (14 looks)
-**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**
+### Rosa / Hot Pink (15 looks)
+**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**
 
 ### Magenta / Fucsia (9 looks)
 **211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**
 
-### Violeta / Lila (7 looks)
-**203**, **314**, **328**, **342**, **370**, **375**, **395**
+### Violeta / Lila (8 looks)
+**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**
 
-### Azul / Cyan / Zafiro (17 looks)
-**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**
+### Azul / Cyan / Zafiro (19 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**
 
-### Verde / Esmeralda (16 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**
+### Verde / Esmeralda (17 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**
 
-### Dorado / Bronce (31 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**
+### Dorado / Bronce (32 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**
 
-### Plateado / Plata (19 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**
+### Plateado / Plata (20 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**
 
 ### Blanco / Crema (13 looks)
 **243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**
@@ -532,7 +542,17 @@
 | **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | 0/7 | ⏳ Pendiente |
 | **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | 0/7 | ⏳ Pendiente |
 | **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | 0/7 | ⏳ Pendiente |
+| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | 0/7 | ⏳ Pendiente |
+| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | 0/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | 0/7 | ⏳ Pendiente |
+| **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | 0/7 | ⏳ Pendiente |
+| **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | 0/7 | ⏳ Pendiente |
+| **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | 0/7 | ⏳ Pendiente |
+| **427** | Oil-Slick Iridescent Cage Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Oil-Slick Iridescent) | 0/7 | ⏳ Pendiente |
+| **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | 0/7 | ⏳ Pendiente |
+| **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | 0/7 | ⏳ Pendiente |
+| **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 03/06/2026 09:03 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 03/06/2026 09:19 — La Voûte d'Anaïs* 🫦👠💅

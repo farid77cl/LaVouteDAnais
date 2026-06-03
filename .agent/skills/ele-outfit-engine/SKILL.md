@@ -28,6 +28,8 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 | `platform stiletto` (plataforma + pin heel fino) | `espadrille`, `slipper` |
 | Tacones 12–18 cm con base de aguja fina | Plataformas perspex tipo mule sin pin stiletto |
 
+> 💎 **PREFERENCIA DE LA AMA (03/06/2026) — Pleaser TRANSPARENTES:** la Ama **adora el `clear transparent acrylic platform stiletto` (Pleaser Flamingo-808 style, 8-inch heel + 4-inch clear platform, ankle strap)**, sobre todo en **Stripper (pole/stage)** y **Bikini (Studio/Beach)** — gatillo erótico declarado. Usarlo como **calzado DEFAULT** en esos dos arquetipos (y opcional en Gym/Nightclub/Domestic Trophy) salvo que el look pida otro. Es plataforma + pin stiletto (NUNCA wedge/mule plano; NUNCA "chunky" en el positive).
+
 **Vocabulario obligatorio en el BLOQUE B:** Toda mención de calzado **DEBE** incluir explícitamente la palabra `stiletto` (heel/pump/boot/sandal). Si se incluye plataforma, debe quedar claro que la base del tacón es un pin stiletto fino (`platform stiletto`, no `platform mule`, no `platform wedge`).
 
 **Razonamiento:** La línea visual de Ele es editorial escultórico-fetish de alta costura (sin atribución de diseñador). El estilete es parte del DNA — define la línea de la pantorrilla, el arco del pie y la postura. Wedges y mules de plataforma planos rompen la silueta cuico-bimbo y se leen como playa/casual, no como armadura de poder.
