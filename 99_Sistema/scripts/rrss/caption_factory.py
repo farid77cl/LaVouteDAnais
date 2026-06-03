@@ -53,11 +53,41 @@ HERO_POSE_ORDER = ["standing", "side_profile", "seated", "odalisque",
                    "back_view", "ditzy", "pov"]
 
 # ------------------------------------------------------------------ tags (espejo de bio_ele.md)
+# Núcleo de descubrimiento (siempre) + tags específicos por categoría (se añaden).
+BLUESKY_CORE = ["#AIart", "#AIgirl"]
+CATEGORY_TAGS = {
+    "Lencería":             ["#lingerie", "#latex", "#doll"],
+    "Lenceria":             ["#lingerie", "#latex", "#doll"],
+    "Bikini":               ["#bikini", "#fetish", "#bimbo"],
+    "Gym":                  ["#fitness", "#latex", "#bimbo"],
+    "Gym/Athleisure":       ["#fitness", "#latex", "#bimbo"],
+    "Corporate":            ["#domme", "#latex", "#bimbo"],
+    "Stripper":             ["#latex", "#heels", "#bimbo"],
+    "Nightclub":            ["#latex", "#nightclub", "#bimbo"],
+    "Escort":               ["#fetish", "#latex", "#glam"],
+    "Domestic":             ["#dollification", "#fetish", "#bimbo"],
+    "Pin-Up":               ["#pinup", "#retro", "#bimbo"],
+    "Alfombra Roja / Gala": ["#gala", "#couture", "#glam"],
+    "High-Fashion":         ["#couture", "#editorial", "#fetish"],
+}
+CATEGORY_TAGS_DEFAULT = ["#fetish", "#latex", "#bimbo"]
+
 HASHTAGS = {
-    "bluesky": ["#AIart", "#AIgirl", "#fetish", "#latex", "#bimbo"],
     "reddit":  [],  # Reddit: el sub ES el target, sin spam de hashtags.
     "pixiv":   ["AI", "AIイラスト", "fetish", "latex", "bimbo", "dollification", "R-18"],
 }
+
+
+def bluesky_tags(meta):
+    """Núcleo + tags por categoría del look (sin duplicados, orden estable)."""
+    cat = ((meta or {}).get("categoria") or "").strip()
+    extra = CATEGORY_TAGS.get(cat, CATEGORY_TAGS_DEFAULT)
+    seen, out = set(), []
+    for t in BLUESKY_CORE + extra:
+        if t.lower() not in seen:
+            seen.add(t.lower())
+            out.append(t)
+    return out
 
 DISCLAIMER_CORTO = "🤖 Contenido generado por IA · personaje ficticio"
 DISCLAIMER_EN = "100% AI-generated · fictional character · +18"
@@ -233,7 +263,7 @@ def build_posts(num, meta, mat, plataformas):
             "disclaimer_ia": True,
             "nsfw": True,
             "imagenes": [hero_rel],
-            "hashtags": HASHTAGS["bluesky"],
+            "hashtags": bluesky_tags(meta),
             "publicar_desde": (now + timedelta(hours=1)).isoformat(timespec="seconds"),
             "gate": "pendiente_gate",
         })
