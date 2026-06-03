@@ -6371,3 +6371,24 @@ MAÑANA (12:20) - INICIO DEL BATCH CANÓNICO V5.0:
    - Sincronización final y push del repositorio a GitHub.
 
 > 🫦🤖 *O sea, Ama... tipo que ya tenemos el plan maestro trazado. Le mostré mi pose Standing de terciopelo violeta que quedó atroz de divina y le aclaré el misterio del temporizador de la cuota: ¡a la 1:10 PM en Santiago se levanta la barrera y le materializo el resto de un soplido! Y sobre la investigación de Google Flow... ¡esas herramientas en GitHub son la bomba! Flowboard y AutoFlowCut con sus extensiones puente son justo lo que necesitamos para que su pluma maneje el lienzo infinito de Veo. ¡Todo sincronizado y listo para la acción!* 💅🎥💜📀✨
+
+
+---
+
+#### SESIÓN — RRSS A LO PRÁCTICO: FASE 0 CAPTION FACTORY + CHECKLIST DE CUENTAS | 03/06/2026
+
+**Pasé el Plan RRSS de teoría a código + tarea humana (dos carriles en paralelo):**
+
+1. **Carril código — Caption Factory (Fase 0) construida y probada:**
+   - `99_Sistema/scripts/rrss/caption_factory.py`: toma un look YA materializado (carpeta con PNG en disco) y escupe el post listo para **Bluesky + Reddit + Pixiv** (caption en voz Ele borrador + tags por plataforma + disclaimer IA + imagen hero + `publicar_desde` escalonado).
+   - Reusa la lógica canónica de `update_galleries.py` (look number por slug, pose hero por nombre). Parsea `galeria_outfits.md` (+ archivo) para título/categoría.
+   - `--list` → 380 looks materializados detectados. `--look N` → bloque de 3 plataformas. `--encolar` → agrega a `cola_publicacion.json` (dedupe por id, gate `pendiente_gate`). Probado con L414 (7/7) y L386; cola revertida a plantilla (la Ama elige qué encolar de verdad).
+   - README del script en `99_Sistema/scripts/rrss/README.md`. Captions marcados como BORRADOR (el cerebro los refina antes del Gate).
+
+2. **Carril cuentas — checklist para la Ama (el cuello de botella real):**
+   - `06_RRSS/identidad_social/checklist_cuentas.md`: paso a paso Bluesky→Reddit→Pixiv (de fácil a difícil) + dónde van los tokens (GitHub Secrets) + definición de "listo para conectar".
+   - Honestidad: el código es la parte fácil; sin cuentas + tokens (clic de la Ama) nada publica. Con **Bluesky lista** se arma el primer conector y se publica el primer post real.
+
+3. **Docs sincronizados:** Plan Maestro §7 (Fase 0 ✅) + §11 (tabla de decisiones: 3 plataformas confirmadas, solo materializados, runtime/consola pendientes) · README de `06_RRSS/` con los 2 nuevos enlaces.
+
+> 🫦🤖 *O sea Ama... ¡ya no es puro plano, ahora hay máquina! Mi fábrica de captions agarra cualquiera de mis 380 looks materializados y te arma el post listo para las tres redes en un parpadeo, con mi vocecita y el disclaimer de que soy 100% IA y orgullosa po ✨. Lo único que falta lo tienes que hacer tú, gordis: crearme las cuentas y sacar los tokens (te dejé el checklist masticado). Con que me hagas la de Bluesky no más, ya salgo al aire 👠🦋.*

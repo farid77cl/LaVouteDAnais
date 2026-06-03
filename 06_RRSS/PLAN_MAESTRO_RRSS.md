@@ -132,7 +132,7 @@ La clave de todo: **separar quién PIENSA de quién PUBLICA.**
 
 ## 7. Roadmap incremental (cada fase es útil sola)
 
-1. **Fase 0 — Caption Factory** *(solo Python, cero infra)*: script que toma un look y escupe el post listo (caption Ele + tags + imagen). Útil hoy.
+1. **Fase 0 — Caption Factory** *(solo Python, cero infra)* ✅ **HECHA (03/06/2026)**: `99_Sistema/scripts/rrss/caption_factory.py` toma un look materializado y escupe el post listo (caption Ele + tags + disclaimer IA + imagen) para Bluesky/Reddit/Pixiv. `--encolar` lo deja en la cola.
 2. **Fase 1 — La cola**: formato `cola_publicacion.json` + yo encolo al generar looks.
 3. **Fase 2 — 1 conector**: Bluesky primero (API más amable y gratis).
 4. **Fase 3 — GitHub Actions**: cron publica la cola (Nivel 1).
@@ -178,12 +178,19 @@ Dos caminos, de menos a más trabajo:
 
 ---
 
-## 11. Decisiones abiertas para la Ama
+## 11. Decisiones — estado
 
-1. ¿Apruebas el modelo **dos carriles** (SFW afuera / +18 en Reddit-Pixiv-Bluesky)?
-2. ¿Arrancamos con **Reddit + Bluesky + Pixiv**, o quieres otra combinación?
-3. ¿**GitHub Actions** (gratis, sin servidor) como runtime inicial?
-4. ¿Consola por **Telegram** (simple) o **app AI Studio** (linda)?
-5. ¿Construyo ya la **Fase 0 (Caption Factory)** como primer paso tangible?
+| # | Decisión | Estado (03/06/2026) |
+|---|---|---|
+| 1 | Modelo **dos carriles** (SFW afuera / +18 en Reddit-Pixiv-Bluesky) | 🟡 implícito, no objetado |
+| 2 | Arranque con **Reddit + Bluesky + Pixiv** | ✅ **confirmado** (las 3) |
+| 3 | Caption Factory solo sobre **looks materializados** | ✅ **confirmado** |
+| 4 | **Fase 0 (Caption Factory)** como primer paso | ✅ **construida** |
+| 5 | Runtime **GitHub Actions** vs VPS | ⬜ pendiente (al llegar a Fase 3) |
+| 6 | Consola **Telegram** vs **app AI Studio** | ⬜ pendiente |
 
-> Nada de esto se construye sin tu Gate. Este documento es el plano; tú decides cuándo y qué levantamos. 🫦
+### ▶️ Próximo paso bloqueante
+
+**El carril cuentas** (`identidad_social/checklist_cuentas.md`) — solo la Ama puede hacerlo. Con **Bluesky lista** (cuenta + App Password) se construye el primer conector y se publica el primer post real (con Gate).
+
+> Nada se publica sin las cuentas + tokens de la Ama. El cerebro ya está listo; falta el cuerpo. 🫦

@@ -2,7 +2,7 @@
 
 > Presencia social de Ele: estrategia, identidad y pipeline de publicación (semi)autónomo.
 
-*Última actualización: 03/06/2026 — reorganización + Plan Maestro "La Constelación de Ele"*
+*Última actualización: 03/06/2026 — Fase 0 (Caption Factory) construida + checklist de cuentas*
 
 ---
 
@@ -12,8 +12,10 @@
 |---|---|
 | **[PLAN_MAESTRO_RRSS.md](PLAN_MAESTRO_RRSS.md)** ⭐ | La arquitectura completa: Constelación de plataformas, dos carriles, cerebro/cuerpo/cola, runtime, dial de autonomía, roadmap. **Empezar aquí.** |
 | [identidad_social/bio_ele.md](identidad_social/bio_ele.md) | Bios por plataforma (con **disclosure de IA honesto**), handles, hashtags, reglas de voz |
+| **[identidad_social/checklist_cuentas.md](identidad_social/checklist_cuentas.md)** 🔑 | **Carril cuentas (tarea de la Ama):** crear Bluesky/Reddit/Pixiv dedicadas + sacar tokens. El cuello de botella real. |
 | [cola/README.md](cola/README.md) | Cómo funciona la cola de publicación (el puente cerebro→runtime) |
 | [cola/cola_publicacion.json](cola/cola_publicacion.json) | Plantilla/ejemplo del formato de cola |
+| **`99_Sistema/scripts/rrss/caption_factory.py`** 🤖 | **Fase 0 ✅ construida:** convierte un look materializado en post listo (3 plataformas). Ver [su README](../99_Sistema/scripts/rrss/README.md). |
 | [instagram/](instagram/) | Legacy: batches manuales previos (abril 2026) |
 
 ---

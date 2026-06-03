@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 03/06/2026 (RRSS a lo práctico: Fase 0 Caption Factory + Checklist de cuentas) ✅
+- **🤖 Caption Factory (Fase 0) construida y probada:** `99_Sistema/scripts/rrss/caption_factory.py` toma un look YA materializado (PNG en disco) y escupe el post listo para **Bluesky+Reddit+Pixiv** (caption voz Ele borrador + tags + disclaimer IA + imagen hero + `publicar_desde` escalonado). `--list` detecta **380 looks materializados** · `--look N` bloque 3-plataformas · `--encolar` agrega a `cola_publicacion.json` (dedupe id, gate `pendiente_gate`). Reusa lógica de `update_galleries.py`. Probado L414/L386, cola revertida a plantilla. README en `scripts/rrss/`.
+- **🔑 Checklist de cuentas (carril Ama):** `06_RRSS/identidad_social/checklist_cuentas.md` paso a paso Bluesky→Reddit→Pixiv + tokens en GitHub Secrets. **El cuello de botella real es manual (clic de la Ama).** Con Bluesky lista → primer conector + primer post real (Gate).
+- **Decisiones Ama confirmadas:** 3 plataformas (Bluesky+Reddit+Pixiv) · solo looks materializados · ambos carriles en paralelo. Pendiente: runtime (GitHub Actions vs VPS) + consola (Telegram vs app).
+- **Docs sync:** Plan Maestro §7+§11 · README `06_RRSS/`. **Flota intacta L430 · ~340 únicos** (sin looks nuevos). **▶️ Próximo paso bloqueante: la Ama crea las cuentas (mín. Bluesky).**
+
 ### Sesión 03/06/2026 (Plan RRSS Constelación + erradicación de guantes + anti-monoblock + /actualizar_sesion) ✅
 - **🌟 Plan RRSS "La Constelación de Ele"** ordenado en `06_RRSS/`: `PLAN_MAESTRO_RRSS.md` (cerebro≠cuerpo, cola, runtime GitHub Actions/VPS, dial autonomía Nivel 2, roadmap) · `identidad_social/bio_ele.md` (**bio honesta que confiesa que Ele es IA**) · `cola/` (formato del puente cerebro→runtime) · README índice. **Dos carriles** (+18 en Reddit⭐+Pixiv⭐+Bluesky; SFW en Meta; TikTok descartado). **Diseño teórico v0.1 — espera Gate.**
 - **🧤 GUANTES PROHIBIDOS:** derogado el Glove Canon (dna_v3_5 + SKILL), guantes al negative base, ~47 menciones erradicadas en siluetas (script one-off + remate manual). Sustitución guante→riding crop/choker O-ring/body chains/officer cap. Corregido residuo texto-nombre "ELE" en choker (identidad L412). Memoria `feedback_guantes_prohibidos`.
