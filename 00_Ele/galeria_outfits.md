@@ -2842,14 +2842,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Akihabara Maid Cafe interior with baby pink frilly walls, Hollywood-bulb mirror lighting, pink neon 'moe moe kyun' sign overhead, small round tables with white lace tablecloth, plush stuffed bears, manga posters, kawaii Tokyo aesthetic (Cure Maid Cafe 2001 reference)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look235_baby_pink_akihabara_kawaii_maid/ele_235_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look235_baby_pink_akihabara_kawaii_maid/ele_235_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look235_baby_pink_akihabara_kawaii_maid/ele_235_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -2924,14 +2924,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Modern gym interior with floor-to-ceiling mirror wall, chrome cable machines visible, dumbbell stand with color-coded plates, LED strip lighting in cool white, glossy black vinyl floor (Instagram gym selfie aesthetic)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3006,14 +3006,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Pilates studio exit with modern minimalist lobby, white marble floor, glass doors, beige leather banquette, café visible through glass with MacBook on counter and matcha latte, modern Vitacura urban aesthetic (Athleisure influencer OOTD)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3088,14 +3088,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Suite presidencial Hotel Lancaster Paris with deep mahogany walls, gold-framed mirrors, antique velvet sofa, crystal chandelier overhead, marble fireplace with embers, Newton-style B&W noir film grain reference
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look238_ruby_red_madame_claude_column/ele_238_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look238_ruby_red_madame_claude_column/ele_238_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look238_ruby_red_madame_claude_column/ele_238_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3170,14 +3170,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Dungeon BDSM élite private club with black tile walls, suspended chrome Saint Andrew's cross at fondo, red leather upholstered punishment bench visible, chrome chains hanging, leather sling at corner, dimmed red velvet rope lighting (Newton + Versace S&M crossover)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3252,14 +3252,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Crazy Horse Paris mirror stage room with 360° mirrored walls reflecting infinite spectator angles, light projections scattering color across bare porcelain skin (Crazy Horse 'nude chic' lighting design), red velvet curtain backdrop, minimal chrome props, refined cabaret-stage scale (Crazy Horse Paris 1951+ signature aesthetic)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look240_uv_magenta_crystal_mesh_crazy_horse/ele_240_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look240_uv_magenta_crystal_mesh_crazy_horse/ele_240_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look240_uv_magenta_crystal_mesh_crazy_horse/ele_240_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3331,14 +3331,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Modern gym editorial set with seamless infinity backdrop in matte white, chrome cable machine column visible, single dramatic side spotlight, glossy black vinyl floor (editorial gym aesthetic, NOT instagram selfie)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look241_coral_tangerine_athletic_bodysuit/ele_241_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look241_coral_tangerine_athletic_bodysuit/ele_241_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look241_coral_tangerine_athletic_bodysuit/ele_241_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3411,14 +3411,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Editorial gym Studio set with seamless lime-green backdrop, chrome dumbbell rack visible, single overhead bright light (Y2K Sommer Ray aesthetic)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3491,14 +3491,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Country club tennis court with green clay surface, white net visible behind, palm trees in background, golden afternoon light (luxury sports glam aesthetic)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -3571,14 +3571,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Annabel's London VIP lounge with deep velvet emerald banquettes, gold-framed mirrors, brass chandeliers, opulent floral arrangements (London ultra-luxe club aesthetic)
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Pendiente cuota API)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
