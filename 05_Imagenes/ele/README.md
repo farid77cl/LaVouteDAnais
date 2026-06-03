@@ -1352,7 +1352,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_227_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look227_scarlet_baywatch_icon/ele_227_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_227_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look227_scarlet_baywatch_icon/ele_227_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_227_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look227_scarlet_baywatch_icon/ele_227_ditzy.png) |
 
 ---
 
@@ -1360,7 +1360,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_226_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look226_holographic_chrome_showgirl/ele_226_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_226_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look226_holographic_chrome_showgirl/ele_226_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_226_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look226_holographic_chrome_showgirl/ele_226_ditzy.png) |
 
 ---
 
@@ -1368,7 +1368,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_225_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look225_cobalt_night_track_queen/ele_225_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_225_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look225_cobalt_night_track_queen/ele_225_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_225_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look225_cobalt_night_track_queen/ele_225_ditzy.png) |
 
 ---
 
@@ -1376,7 +1376,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_224_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look224_silver_goddess_disco_70s/ele_224_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_224_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look224_silver_goddess_disco_70s/ele_224_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_224_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look224_silver_goddess_disco_70s/ele_224_ditzy.png) |
 
 ---
 
@@ -1384,7 +1384,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_223_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look223_champagne_gold_yacht_domina/ele_223_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_223_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look223_champagne_gold_yacht_domina/ele_223_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_223_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look223_champagne_gold_yacht_domina/ele_223_ditzy.png) |
 
 ---
 
@@ -1392,7 +1392,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_222_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look222_electric_pink_buffbunny/ele_222_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_222_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look222_electric_pink_buffbunny/ele_222_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_222_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look222_electric_pink_buffbunny/ele_222_ditzy.png) |
 
 ---
 
@@ -1456,7 +1456,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_214_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_214_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_214_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_ditzy.png) |
 
 ---
 
@@ -1504,7 +1504,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_208_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_208_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_208_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_ditzy.png) |
 
 ---
 
@@ -1528,7 +1528,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_205_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_205_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_205_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_ditzy.png) |
 
 ---
 
@@ -1544,7 +1544,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_203_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look203_violet_venom/ele_203_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_203_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look203_violet_venom/ele_203_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_203_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look203_violet_venom/ele_203_ditzy.png) |
 
 ---
 

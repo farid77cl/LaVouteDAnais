@@ -332,14 +332,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 . Fingerless plum opera-length gloves ending at second knuckle, French XXXL nails fully visible. Navel y nipple piercings de oro blanco visibles.
 - **Ambientación:** Estudio pin-up retro, fondo magenta lacado, iluminación clásica de Hollywood.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look203_violet_venom/ele_203_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look203_violet_venom/ele_203_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look203_violet_venom/ele_203_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -486,14 +486,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 . Fingerless wrist-length black vinyl gym gloves, French XXXL nails fully visible. Navel y nipple piercings de oro blanco visibles bajo el vinilo.
 - **Ambientación:** Gimnasio privado de lujo minimalista blanco, accesorios de equipo en cromo-oro, luz limpia y brillante, pared espejada.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look205_obsidian_gold_idol/ele_205_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -714,14 +714,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 . Wrist-length sheer transparent teal gloves, French XXXL nails fully visible. Navel y nipple piercings de oro blanco visibles.
 - **Ambientación:** Penthouse ejecutivo minimalista de cristal y teal, luz fría de alta costura.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](./05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](./05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look208_teal_sirene_obi/ele_208_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -1171,14 +1171,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 . Sin guantes. Navel y nipple piercings de oro blanco visibles.
 - **Ambientación:** Paris couture atelier, cream herringbone parquet floor, tall windows, soft north-facing studio light.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -1785,14 +1785,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Sin guantes. Navel y nipple piercings visibles bajo el spandex.
 - **Ambientación:** Gym with mirrored wall and cable machines, intense studio lighting.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look222_electric_pink_buffbunny/ele_222_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look222_electric_pink_buffbunny/ele_222_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look222_electric_pink_buffbunny/ele_222_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -1866,14 +1866,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Elbow-length opera gloves transparent-fingertip type — French XXXL nails fully visible through transparent panels. Gold chain waist. Navel y nipple piercings visibles.
 - **Ambientación:** Luxury yacht deck with Mediterranean sea horizon at golden hour sunset.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look223_champagne_gold_yacht_domina/ele_223_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look223_champagne_gold_yacht_domina/ele_223_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look223_champagne_gold_yacht_domina/ele_223_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -1947,14 +1947,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Silver chrome chain belt. Sin guantes. Navel y nipple piercings visibles.
 - **Ambientación:** 1970s disco dance floor with mirror ball ceiling reflections and warm amber-orange lighting.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look224_silver_goddess_disco_70s/ele_224_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look224_silver_goddess_disco_70s/ele_224_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look224_silver_goddess_disco_70s/ele_224_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -2028,14 +2028,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Sin guantes. Navel y nipple piercings visibles bajo el wet-look stretch.
 - **Ambientación:** Modern architectural lobby with floor-to-ceiling glass facade, daylight streaming in.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look225_cobalt_night_track_queen/ele_225_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look225_cobalt_night_track_queen/ele_225_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look225_cobalt_night_track_queen/ele_225_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -2109,14 +2109,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Chrome metal crown headpiece. Chrome silver body chains across torso. Sin guantes. Navel y nipple piercings visibles.
 - **Ambientación:** Strip-club stage with extended runway, chrome pole in background, colored spotlights — holographic light play.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look226_holographic_chrome_showgirl/ele_226_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look226_holographic_chrome_showgirl/ele_226_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look226_holographic_chrome_showgirl/ele_226_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -2190,14 +2190,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Accesorios:** Golden chrome front zipper pull. Sin guantes. Navel y nipple piercings visibles.
 - **Ambientación:** Sun-drenched California-style beach with white sand and deep blue ocean waves, bright California sunlight.
 
-### 📸 Imágenes (0/7 — Pendiente materialización)
+### 📸 Imágenes (1/7 — Pendiente materialización)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look227_scarlet_baywatch_icon/ele_227_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look227_scarlet_baywatch_icon/ele_227_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look227_scarlet_baywatch_icon/ele_227_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
