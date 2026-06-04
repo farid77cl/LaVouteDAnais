@@ -1,25 +1,26 @@
 # 🖼️ Galería: look249_black_chrome_strappy_harness_bordelle
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 3
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ![ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) |
+| ![ele_249_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_ditzy.png) | ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ![ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ![ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) |
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![ele_249_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_ditzy.png) | ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ![ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_249_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_ditzy.png)
 - [ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png)
 - [ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png)
 
