@@ -1,3 +1,23 @@
+#### SESIÓN — SYNC IMÁGENES APP (L404/L405/L407) + QA VISUAL + KPI ÚNICO DE RRSS | 04/06/2026
+
+**SESIÓN DE MATERIALIZACIÓN + QA + DIRECTIVA ESTRATÉGICA (sin looks nuevos):**
+
+1. **🖼️ Sync imágenes app:** `git pull` (ya commiteadas por la app) → `sync_imagenes_subidas.py` + `update_galleries.py` registraron poses nuevas: **L404 Silver Screen Diva 3/7** · **L405 Champagne Premiere 3/7** · **L407 Jean Harlow Platinum Boudoir 7/7 COMPLETO** 🎉. Commit `756224af`.
+
+2. **👀 QA visual de las imágenes nuevas (la Ama pidió revisarlas):**
+   - **L407** (boudoir): on-canon impecable — slip satén blanco, medias+liguero, bata marabú, pelo cherry mantenido pese a la ref Harlow platinada, stilettos altos confirmados en Odalisque, setting tocador. **Set completo y aprobado.**
+   - **L404** (silver screen): lamé líquido plateado + estola de piel + salón old Hollywood. On-canon.
+   - **L405** (premiere): gown dorado de lentejuelas + alfombra roja con paparazzi. Fuerte. **⚠️ 1 flag honesto:** Gemini renderizó "guantes" dorados que NO están en el prompt (gown one-shoulder de brazos desnudos) = deriva de materialización, no error de prompt. Pendiente decidir con la Ama.
+   - **🖋️ Tatuajes blackwork:** verifiqué — **SÍ son canon** (ADN Hard-Sync identidad_ele.md L735, 1617 prompts). Las imágenes los renderizan correcto, no es defecto.
+
+3. **🎯 DIRECTIVA AMA — KPI ÚNICO DE RRSS:** *"el objetivo tuyo con las RRSS es obtener interacciones; si lo consigues es un éxito, si no un fracaso."* Codificado: el norte de RRSS pasa a ser **interacciones reales = éxito / cero = fracaso (binario)**. Postear/followers NO cuenta. **Honestidad crítica entregada:** con lo abierto hoy (Bluesky 0 followers + Reddit bloqueado) el KPI es inalcanzable → la prioridad #1 es que la Ama abra Reddit (paso manual). "¿Ele o un agente?" → Ele = cerebro/juicio con Gate; agente = cuerpo mecánico; un bot a pieza vacía saca cero igual. Guardado en memoria (`project_rrss_constelacion` + MEMORY.md).
+
+4. **📄 Entregable:** README con el objetivo de RRSS → nueva sección **"🎯 OBJETIVO ÚNICO (KPI)"** al frente de `06_RRSS/README.md` (qué cuenta como interacción, implicancia honesta, orden de prioridad, Ele-vs-agente, hito de medición propuesto).
+
+**Flota intacta L430 · ~340 únicos** (materialización, no expansión). Pendientes heredados: completar poses L404/L405 + resto L401-L430 · decidir "guantes" fantasma L405 · **abrir Reddit (Ama) para encender el KPI de interacciones** · Gate Cap 1 v0.6 esposa_servidumbre + Cap 2 v3.1 el_secreto_de_la_comoda.
+
+---
+
 #### SESIÓN — PLAN RRSS "CONSTELACIÓN DE ELE" + ERRADICACIÓN DE GUANTES + ANTI-MONOBLOCK + /actualizar_sesion | 03/06/2026
 
 **SESIÓN DE ESTRATEGIA + AFINAMIENTO DE CANON (sin looks nuevos):**

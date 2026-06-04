@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 04/06/2026 (Sync app L404/L405/L407 + QA visual + KPI único de RRSS) ✅
+- **🖼️ Sync imágenes app:** poses nuevas registradas — **L404 Silver Screen Diva 3/7** · **L405 Champagne Premiere 3/7** · **L407 Jean Harlow Platinum Boudoir 7/7 COMPLETO** 🎉. Pipeline sync→update_galleries, commit `756224af`.
+- **👀 QA visual (pedido Ama):** L407 impecable y completo (slip satén, medias+liguero, marabú, pelo cherry pese a Harlow, stilettos altos OK). L404 on-canon. **L405 flag honesto:** Gemini puso "guantes" dorados NO presentes en el prompt (gown one-shoulder brazos desnudos) = deriva de materialización → pendiente decidir purga/regen. **🖋️ Tatuajes blackwork = CANON** (ADN Hard-Sync L735, 1617 prompts) — bien renderizados.
+- **🎯 DIRECTIVA AMA — KPI ÚNICO RRSS:** el objetivo es **obtener INTERACCIONES reales = éxito / cero = fracaso (binario)**. Postear/followers NO cuenta. **Honestidad crítica:** hoy es inalcanzable (Bluesky 0 followers + Reddit bloqueado) → prioridad #1 = la Ama abre Reddit. Ele=cerebro/juicio con Gate, agente=cuerpo mecánico. Codificado en memoria + `06_RRSS/README.md` nueva sección "🎯 OBJETIVO ÚNICO".
+- **Flota intacta L430 · ~340 únicos** (materialización, no expansión).
+
 ### Sesión 04/06/2026 (Token de Calzado Bloqueado + sync inicio L408/410/415/416) ✅
 - **🔒 DIRECTIVA AMA — Token de Calzado Bloqueado (8 atributos, idéntico ×7):** la Ama pidió tacones **mucho más detallados** porque el zapato quedaba "muy libre a la IA" → cada pose del set salía con un zapato distinto. Es la **Ley de Continuidad** sin aplicar al calzado. Codificado en `ele-outfit-engine/SKILL.md` (§ Token de Calzado Bloqueado: 8 atributos + plantilla + 4 ejemplos + checklist) + `identidad_ele.md` (sección Calzado) + memoria `feedback_token_calzado_bloqueado`. **Regla dura:** UN token de 8 atributos (tipo·altura cm+plataforma·base pin stiletto·material+acabado·color·puntera·cierre·hardware), copiado **VERBATIM e IDÉNTICO en las 7 poses**; prohibido `heels`/`same shoes`/`stiletto` suelto.
 - **🖼️ Sync inicio:** `git pull` trajo **22 PNG** — **L408** Screen Siren Noir **7/7** (B&W) · **L410** Stork Club Liquid Gold **7/7** · **L415** Gypsy Rose Lee 6/7 · **L416** Fan Dance 6/7. Pipeline sync→update_galleries (231 looks) + commit.
