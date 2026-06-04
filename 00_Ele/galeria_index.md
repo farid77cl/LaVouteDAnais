@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 04/06/2026 12:25 — **231 looks registrados**  
+> Generado automáticamente el 04/06/2026 14:54 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -217,15 +217,15 @@
 | **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
 | **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | — | Lencería | — | — | 7/7 | — |
 | **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
-| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | — | Nightclub | — | — | 7/7 | — |
 | **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | — | Pin-Up | — | — | 6/7 | ⏳ Pendiente |
 | **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | — | Pin-Up | — | — | 7/7 | — |
 | **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | — | Domestic | — | — | 7/7 | — |
 | **414** | Hollywood Hostess Cocktail (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Hollywood Hostess) | — | Domestic | — | — | 7/7 | — |
-| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
-| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
+| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
 | **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | — | Bikini | — | — | 6/7 | ⏳ Pendiente |
 | **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | — | Bikini | — | — | 4/7 | ⏳ Pendiente |
 | **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | — | Gym | — | — | 6/7 | ⏳ Pendiente |
@@ -506,12 +506,10 @@
 | **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 1/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | 1/7 | ⏳ Pendiente |
 | **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | 1/7 | ⏳ Pendiente |
-| **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | 1/7 | ⏳ Pendiente |
 | **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | 1/7 | ⏳ Pendiente |
-| **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | 1/7 | ⏳ Pendiente |
 | **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | 6/7 | ⏳ Pendiente |
-| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | 1/7 | ⏳ Pendiente |
-| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | 1/7 | ⏳ Pendiente |
+| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | 6/7 | ⏳ Pendiente |
+| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | 6/7 | ⏳ Pendiente |
 | **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | 6/7 | ⏳ Pendiente |
 | **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | 4/7 | ⏳ Pendiente |
 | **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | 6/7 | ⏳ Pendiente |
@@ -528,4 +526,4 @@
 
 ---
 
-*Índice generado por Ele — 04/06/2026 12:25 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 04/06/2026 14:54 — La Voûte d'Anaïs* 🫦👠💅

@@ -17285,11 +17285,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a film-noir photographic studio with a hard lateral key light and deep shadow and a tall standing mirror, . · B&W silver-screen
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_standing.png) | [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_back_view.png) | [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_seated.png) | [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_side_profile.png) | [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_ditzy.png) | [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_pov.png) | [📸 View](../../05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/ele_408_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -17415,11 +17415,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** the Stork Club at midnight with white tablecloths and a champagne tower and warm golden glamour light, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_standing.png) | [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_back_view.png) | [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_seated.png) | [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_side_profile.png) | [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_ditzy.png) | [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_pov.png) | [📸 View](../../05_Imagenes/ele/look410_stork_club_liquid_gold/ele_410_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -17740,11 +17740,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a 1940s burlesque theatre stage with red velvet curtains and a runway with footlights and a glamorous spotlight, high-glamour entertainer presence, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/ele_415_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/ele_415_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/ele_415_seated.png) | [📸 View](../../05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/ele_415_side_profile.png) | [📸 View](../../05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/ele_415_ditzy.png) | [📸 View](../../05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/ele_415_pov.png) | [📸 View](../../05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/ele_415_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -17805,11 +17805,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a Ziegfeld-style stage with a soft blue follow-spot and a starlit backdrop and ethereal fan-dance glamour, high-glamour performer presence, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/ele_416_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/ele_416_back_view.png) | [📸 View](../../05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/ele_416_seated.png) | [📸 View](../../05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/ele_416_side_profile.png) | [📸 View](../../05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/ele_416_ditzy.png) | [📸 View](../../05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/ele_416_pov.png) | [📸 View](../../05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/ele_416_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
