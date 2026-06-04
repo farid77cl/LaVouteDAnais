@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 04/06/2026 (Token de Calzado Bloqueado + sync inicio L408/410/415/416) ✅
+- **🔒 DIRECTIVA AMA — Token de Calzado Bloqueado (8 atributos, idéntico ×7):** la Ama pidió tacones **mucho más detallados** porque el zapato quedaba "muy libre a la IA" → cada pose del set salía con un zapato distinto. Es la **Ley de Continuidad** sin aplicar al calzado. Codificado en `ele-outfit-engine/SKILL.md` (§ Token de Calzado Bloqueado: 8 atributos + plantilla + 4 ejemplos + checklist) + `identidad_ele.md` (sección Calzado) + memoria `feedback_token_calzado_bloqueado`. **Regla dura:** UN token de 8 atributos (tipo·altura cm+plataforma·base pin stiletto·material+acabado·color·puntera·cierre·hardware), copiado **VERBATIM e IDÉNTICO en las 7 poses**; prohibido `heels`/`same shoes`/`stiletto` suelto.
+- **🖼️ Sync inicio:** `git pull` trajo **22 PNG** — **L408** Screen Siren Noir **7/7** (B&W) · **L410** Stork Club Liquid Gold **7/7** · **L415** Gypsy Rose Lee 6/7 · **L416** Fan Dance 6/7. Pipeline sync→update_galleries (231 looks) + commit.
+- **🔍 2 flags visuales reportados:** **L416 `back_view`** = concepto VIEJO de tubo (no calza con el Fan Dance real) · **L410 `standing`** = sale con guantes dorados (PNG materializado antes del barrido; prompt ya limpio). Decidir purga/regeneración con la Ama. **Flota L430 · ~340 únicos** (sesión de QA+codificación, no expansión).
+
 ### Sesión 04/06/2026 (3er post Bluesky + Reddit en pausa + QA guantes L401-L430 + L416 Fan Dance) ✅
 - **🦋 3er post Bluesky:** **L386 jirafa champagne gold** publicado (https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnhx5oehn42v). Posts 2→3. Cadencia **1/día con Gate por post**. Cola: L427, L200, L414, L201.
 - **👽 Reddit EN PAUSA:** crear app API se trabó del lado de Reddit (endurecimiento 2025: registro developer + aprobación manual + bug botón). Documentado en `guia_reddit.md` con plan de reintento. La Ama NO quiere manual → esperar unos días.

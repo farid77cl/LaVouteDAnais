@@ -407,6 +407,7 @@ El negro queda relegado a acentos mínimos (costuras, detalles, herrajes). Nunca
 * **Botas stiletto thigh-high / knee-high / ankle:** Variante por arquetipo. Siempre aguja, nunca bloque ni cuña.
 * **Plataforma acrílica clear / chrome / rhinestone / UV-reactive:** Modelos Pleaser (Flamingo-808, Delight-608, Adore-708, Flamingo-1020, Stardance-808).
 * **Regla de Oro INAMOVIBLE:** SIEMPRE en stiletto o Pleaser platform. NUNCA plano, descalza, zapatilla, block heel, cuña, mule sin pin heel. Ni siquiera en gym, pool o cama.
+* **🔒 TOKEN DE CALZADO BLOQUEADO — 8 atributos (Directiva Ama 04/06/2026):** El zapato se redacta como UN token de **8 atributos completos** (tipo · altura cm+plataforma · base pin stiletto · material+acabado · color exacto · puntera · cierre/correa · hardware/suela) y se **copia-pega VERBATIM e IDÉNTICO en las 7 poses**. Dejar el calzado suelto a la IA (`stiletto ≥12cm`, `same heels`) hace que cada pose salga con un zapato distinto → rompe la Ley de Continuidad. Nada se deja a interpretación. Detalle operativo en `ele-outfit-engine/SKILL.md` (§ Token de Calzado Bloqueado).
 
 **Accesorios Fijos (Canon V3.5):**
 * **Chrome choker liso (SIN texto/nombre grabado):** accesorio frecuente, pero **nunca con palabras grabadas** (regla 0-texto-nombre, Ama). Choker sí, "ELE"/letras NO.

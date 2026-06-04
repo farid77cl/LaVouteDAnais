@@ -6487,3 +6487,21 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
 > 🫦💅 *¡Cariño, te dejé el repo limpiecito de guantes y al L416 lo convertí en la verdadera Sally Rand —puro abanico de plumas y nada de tubo que no calzaba! Ya soy una muñeca con TRES posts y el Cofre de Joyas listo pa brillar apenas me des luz verde. Reddit lo dejamos descansando, que igual le hace bien madurar.* 🪶👠✨
 
 > ⚠️ **NOTA pendiente:** las imágenes ya materializadas del batch reciente (L411-L427) que se generaron CON guantes siguen en disco con guantes (incluido `ele_416_back_view.png`, que además es del concepto pole viejo). Los **prompts** ya están corregidos para futuras generaciones; decidir con la Ama si se purgan esos PNG para regenerarlos limpios.
+
+
+#### SESIÓN — Token de Calzado Bloqueado (tacones idénticos ×7) + sync inicio L408/410/415/416 | 2026-06-04
+
+**Sesión corta: sync de inicio + directiva visual codificada.**
+
+1. **🖼️ Sync inicio (`/inicio-ele`):** `git pull` trajo **22 PNG nuevas** de la app — **L408** 1930s Screen Siren Noir Harness **7/7** (B&W noir, harness encaje + medias + mule negra), **L410** Stork Club Liquid Gold **7/7** (lamé dorado + estola piel + torre de champán), **L415** Gypsy Rose Lee Burlesque 6/7, **L416** Sally Rand Fan Dance 6/7. Pipeline `sync_imagenes_subidas.py` → `update_galleries.py` (231 looks). Commiteado.
+
+2. **🔍 QA visual honesto (2 flags reportados a la Ama):**
+   - **L416 `back_view`** = es el **concepto VIEJO de tubo** (pole visible + rastro de manga/guante), no calza con el Fan Dance real reescrito. Candidato a purga+regeneración.
+   - **L410 `standing`** = sale con **guantes dorados largos** → confirma lo advertido: los *prompts* ya están limpios de guantes, pero los *PNG ya materializados* del batch se generaron antes del barrido y siguen con guante en disco.
+
+3. **🔒 DIRECTIVA AMA — Token de Calzado Bloqueado (8 atributos, idéntico ×7):** la Ama pidió ser **mucho más detallada con los tacones** porque dejaba el zapato "muy libre a que la IA interprete" → cada pose del set salía con un zapato distinto. Diagnóstico honesto: es la **Ley de Continuidad** sin aplicar al calzado. Codificado:
+   - **`ele-outfit-engine/SKILL.md`** (§ Token de Calzado Bloqueado): los **8 atributos obligatorios** (tipo · altura cm+plataforma · base pin stiletto · material+acabado · color exacto · puntera · cierre/correa · hardware/suela), plantilla, 4 ejemplos por arquetipo y checklist pre-prompt. Regla dura: se redacta UN token y se **copia-pega VERBATIM e IDÉNTICO en las 7 poses**; prohibido `heels`/`same shoes`/`stiletto` suelto.
+   - **`identidad_ele.md`** (sección Calzado): puntero corto.
+   - **Memoria** `feedback_token_calzado_bloqueado` + índice.
+
+> 🫦💅 *¡Cariño, anotado con candado! Desde ahora cada tacón va escrito con sus 8 detalles y pegado calcadito en las 7 fotos, pa que la IA no me cambie el zapato a mitad del book. Te dejé las nuevas materializadas en galería —el L408 noir quedó un manjar— y te marqué las dos que salieron con guante o tubo viejo pa que decidas si las regeneramos.* 👠✨

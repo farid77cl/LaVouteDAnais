@@ -36,6 +36,32 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 
 **Look 176 (Neon Coral Flash) — caso histórico:** Se generó con `clear perspex platform mule sandals` y el resultado se leyó como wedge. **FLAG** para regeneración con `clear perspex platform stiletto sandals, 14cm pin stiletto heel, ankle strap`.
 
+### 🔒 TOKEN DE CALZADO BLOQUEADO — 8 atributos (Directiva Ama 04/06/2026)
+
+> **Problema detectado por la Ama:** el calzado se dejaba demasiado **libre a la interpretación de la IA** (ej. solo `stiletto ≥12cm` o `stiletto pump`), y aunque hubiera un buen token, **no se pegaba idéntico en las 7 poses** → la IA daba un zapato distinto en cada imagen del set. Esto rompe la **Ley de Continuidad** (BLOQUE físico+vestuario = 100% idéntico por pose) justo en el zapato.
+>
+> **Regla dura:** al fijar el look se redacta UN solo **Token de Calzado** con los **8 atributos obligatorios** completos. Ese token se **copia-pega VERBATIM e IDÉNTICO** en las 7 poses (dentro del BLOQUE B). **Prohibido** abreviar a `heels` / `same shoes` / `stiletto` suelto, y **prohibido** dejar atributos a interpretación. Si un atributo no se especifica, la IA lo inventa distinto cada vez → exactamente lo que la Ama no quiere.
+>
+> **Los 8 atributos (en este orden):**
+> 1. **Tipo/arquetipo** — `pump` / `sandal` / `knee-high boot` / `thigh-high boot` / `ankle bootie` / `slingback` / `Mary Jane`.
+> 2. **Altura del tacón en cm explícito** + plataforma en cm si aplica — `14cm pin stiletto heel` · `8-inch heel + 4-inch platform`. Nunca "alto" o "≥12cm" suelto.
+> 3. **Base del tacón explícita** — `thin pin stiletto heel` (anula bloque/cuña; obligatorio aunque se repita con el atributo 2).
+> 4. **Material + acabado** — `clear transparent acrylic` · `mirror chrome` · `patent vinyl` · `liquid gold lamé` · `pearl-white patent` · `rhinestone-encrusted`.
+> 5. **Color exacto** coordinado con el look — explícito (`cherry-red`, `champagne gold`, `ivory`), nunca "a tono".
+> 6. **Forma de la puntera** — `pointed almond toe` / `sharp pointed toe` / `open toe` / `peep toe` / `round toe (Mary Jane)`.
+> 7. **Cierre/correa** — `ankle strap with buckle` / `lace-up front` / `slingback strap` / `T-bar` / `none (slip-on pump)`.
+> 8. **Hardware/suela/detalle** — `gold ankle buckle` / `chrome heel cap` / `crystal-encrusted platform` / `red lacquered sole` / `none`.
+>
+> **Plantilla:** `[tipo] in [material+acabado] [color], [altura cm + plataforma], [base pin stiletto], [puntera], [cierre], [hardware/suela]`
+>
+> **Ejemplos de token completo (copiar idéntico ×7):**
+> - Escort Haute: `pointed-toe slingback pumps in champagne-gold liquid metallic, 14cm thin pin stiletto heel, sharp pointed toe, slingback strap, chrome heel cap`
+> - Stripper/Bikini (default Pleaser transparente): `clear transparent acrylic platform stiletto sandals, 8-inch pin stiletto heel + 4-inch clear platform, open toe, ankle strap with buckle, crystal-free clear sole`
+> - HF Editorial (aguja pura, sin plataforma): `single-sole pointed pumps in mirror-chrome patent, 13cm thin pin stiletto heel, sharp pointed toe, slip-on (no strap), polished chrome sole`
+> - Domestic Maid: `pearl-white patent Mary Jane platform stilettos, 6-inch pin stiletto heel + 2-inch platform, round toe, T-bar strap with buckle, white sole`
+>
+> **Checklist pre-prompt:** (a) ¿el token tiene los 8 atributos? (b) ¿está **idéntico** carácter-por-carácter en las 7 poses? (c) ¿incluye `stiletto` + cm explícitos? Si alguna es NO → completar antes de generar.
+
 ## 🧤 GUANTES PROHIBIDOS (Directiva Ama 03/06/2026 — DEROGA el antiguo Glove Canon)
 
 **Ele NO usa guantes. De ningún tipo, en ningún arquetipo, en ninguna pose.**
