@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 03/06/2026 20:00 — **231 looks registrados**  
+> Generado automáticamente el 04/06/2026 11:20 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -54,16 +54,16 @@
 | **242** | Acid Lime Y2K Skort Set (23/05/2026 — batch 241-260 · Gym Polo A Performance GA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 1/7 | ✅ Completo |
 | **243** | Pearl White Tennis Court Glam (23/05/2026 — batch 241-260 · Gym Polo B Athleisure GB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 1/7 | ✅ Completo |
 | **244** | Forest Green Magda Butrym Power (23/05/2026 — batch 241-260 · Nightclub Magda Butrym power-shoulder · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 1/7 | ✅ Completo |
-| **245** | Hot Magenta Lindsay Lohan Y2K (23/05/2026 — batch 241-260 · Nightclub Y2K Lindsay Lohan crystal bandage · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 0/7 | ✅ Completo |
-| **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 0/7 | ✅ Completo |
-| **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 0/7 | ✅ Completo |
-| **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 0/7 | ✅ Completo |
-| **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 0/7 | ✅ Completo |
-| **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
-| **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
-| **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 5/7 | ✅ Completo |
-| **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 0/7 | ✅ Completo |
-| **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 0/7 | ✅ Completo |
+| **245** | Hot Magenta Lindsay Lohan Y2K (23/05/2026 — batch 241-260 · Nightclub Y2K Lindsay Lohan crystal bandage · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 1/7 | ✅ Completo |
+| **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 1/7 | ✅ Completo |
+| **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 1/7 | ✅ Completo |
+| **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 1/7 | ✅ Completo |
+| **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 1/7 | ✅ Completo |
+| **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 8/7 | ✅ Completo |
+| **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 8/7 | ✅ Completo |
+| **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 6/7 | ✅ Completo |
+| **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 1/7 | ✅ Completo |
+| **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 1/7 | ✅ Completo |
 | **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 0/7 | ✅ Completo |
 | **256** | Blush Nude Boudoir Robe La Perla — Refined Maison Edition (23/05/2026 · adaptado 25/05/2026 anti-filter · batch 241-260 · Lencería Polo A Boudoir LA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Lencería | — | — | 7/7 | — |
 | **257** | White Gold Rhinestone Beach Gala (23/05/2026 — batch 241-260 · Bikini Polo A Beach BA6 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Bikini | — | — | 0/7 | ✅ Completo |
@@ -220,19 +220,19 @@
 | **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
-| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
-| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
-| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | — | Pin-Up | — | — | 6/7 | ⏳ Pendiente |
+| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | — | Pin-Up | — | — | 7/7 | — |
+| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | — | Domestic | — | — | 7/7 | — |
 | **414** | Hollywood Hostess Cocktail (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Hollywood Hostess) | — | Domestic | — | — | 7/7 | — |
-| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
-| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | — | Bikini | — | — | 6/7 | ⏳ Pendiente |
+| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | — | Bikini | — | — | 4/7 | ⏳ Pendiente |
 | **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | — | Gym | — | — | 6/7 | ⏳ Pendiente |
 | **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | — | Nightclub | — | — | 4/7 | ⏳ Pendiente |
+| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | — | Gym | — | — | 7/7 | — |
+| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | — | Gym | — | — | 2/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | — | Nightclub | — | — | 5/7 | ⏳ Pendiente |
 | **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
 | **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
 | **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | — | Escort | — | — | 3/7 | ⏳ Pendiente |
@@ -373,13 +373,6 @@
 | **232** | Gold Liquid Rabanne Chainmail (23/05/2026 — batch 231-240 · Pin-Up Polo B Retro-Futurismo PB2 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
 | **233** | Electric Cyan 80s Aerobics Glam (23/05/2026 — batch 231-240 · Pin-Up Polo C Decade Glam PC3 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
 | **234** | Oxblood Croco Trophy Penthouse (23/05/2026 — batch 231-240 · Domestic Polo A Trophy Bimbo Moderna DA1 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
-| **245** | Hot Magenta Lindsay Lohan Y2K (23/05/2026 — batch 241-260 · Nightclub Y2K Lindsay Lohan crystal bandage · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **257** | White Gold Rhinestone Beach Gala (23/05/2026 — batch 241-260 · Bikini Polo A Beach BA6 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
@@ -521,18 +514,15 @@
 | **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | 1/7 | ⏳ Pendiente |
 | **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | 1/7 | ⏳ Pendiente |
 | **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | 1/7 | ⏳ Pendiente |
-| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | 1/7 | ⏳ Pendiente |
-| **412** | Mae West Hourglass Diamonds (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Mae West) | 1/7 | ⏳ Pendiente |
-| **413** | Norma Desmond Sunset Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Domestic · Norma Desmond - Sunset Blvd) | 1/7 | ⏳ Pendiente |
-| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | 0/7 | ⏳ Pendiente |
-| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | 0/7 | ⏳ Pendiente |
-| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | 1/7 | ⏳ Pendiente |
-| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | 1/7 | ⏳ Pendiente |
+| **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | 6/7 | ⏳ Pendiente |
+| **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | 1/7 | ⏳ Pendiente |
+| **416** | Sally Rand Fan Dance Pearl (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Sally Rand Fan Dance) | 1/7 | ⏳ Pendiente |
+| **417** | Esther Williams Aquamusical Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · Esther Williams) | 6/7 | ⏳ Pendiente |
+| **418** | 50s Poolside Bombshell Champagne (03/06/2026 — batch L401-L420 "La Edad de Oro" · Bikini · 50s Poolside Bombshell) | 4/7 | ⏳ Pendiente |
 | **419** | Hollywood Athletic Club Figure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Hollywood Athletic Club) | 6/7 | ⏳ Pendiente |
 | **420** | Golden Age Glam Athleisure (03/06/2026 — batch L401-L420 "La Edad de Oro" · Gym · Golden Age Studio Glam) | 1/7 | ⏳ Pendiente |
-| **421** | Hot Pink Scrunch Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Hot Pink) | 1/7 | ⏳ Pendiente |
-| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | 1/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | 4/7 | ⏳ Pendiente |
+| **422** | Electric Cyan Hoodie Leggings Street (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Electric Cyan) | 2/7 | ⏳ Pendiente |
+| **423** | Liquid Silver Disco-Pant Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Nightclub · LEGGINGS · Mirror Silver) | 5/7 | ⏳ Pendiente |
 | **424** | Tangerine Aerobics Leotard Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Tangerine) | 1/7 | ⏳ Pendiente |
 | **425** | Rose Gold Yoga Room Trophy Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Domestic · LEGGINGS · Rose Gold) | 1/7 | ⏳ Pendiente |
 | **426** | Violet Vinyl Y2K Street Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Escort · LEGGINGS · Violet) | 3/7 | ⏳ Pendiente |
@@ -543,4 +533,4 @@
 
 ---
 
-*Índice generado por Ele — 03/06/2026 20:00 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 04/06/2026 11:20 — La Voûte d'Anaïs* 🫦👠💅
