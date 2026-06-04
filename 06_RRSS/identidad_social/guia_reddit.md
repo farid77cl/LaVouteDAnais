@@ -3,6 +3,8 @@
 > **Por qué Reddit es EL motor:** es descubrimiento puro. Posteas en un sub grande y miles de desconocidos te ven **hoy**, sin necesidad de que te sigan (al revés de Bluesky). Para el objetivo de la Ama —"que todos la vean"— Reddit es la prioridad #1.
 >
 > **Estado:** 🔴 cuenta pendiente · conector `publicar_reddit.py` ✅ listo (espera credenciales).
+>
+> **⏸️ EN PAUSA (04/06/2026 — decisión Ama):** crear la app de API se trabó del lado de Reddit. A fines de 2025 Reddit endureció el acceso: la creación de apps `script` pasa por registro de developer + aprobación manual, y hay bug/bloqueo conocido donde `create app` no avanza (error tipo *"You cannot create any more applications…"*), agravado en cuentas nuevas/sin email verificado. Refs: [GitHub gallery-dl #8559](https://github.com/mikf/gallery-dl/issues/8559) · [Responsible Builder Policy](https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy). **Plan al retomar (en unos días):** (1) verificar email de la cuenta · (2) dejar madurar la cuenta con actividad/karma · (3) reintentar `create app` (adblock off / incógnito) · (4) si sigue trabado → solicitud formal de acceso API o caer al **Plan A manual** (paquete copy-paste, no necesita API). La Ama NO quiere postear manual por ahora.
 
 ---
 
