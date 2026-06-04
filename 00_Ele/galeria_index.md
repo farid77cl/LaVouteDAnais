@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 04/06/2026 14:54 — **231 looks registrados**  
+> Generado automáticamente el 04/06/2026 17:37 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -213,10 +213,10 @@
 | **401** | Marlene Dietrich Tuxedo Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Marlene Dietrich · B&W) | — | Corporate | — | — | 7/7 | — |
 | **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
 | **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
-| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
+| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | — | Escort | — | — | 3/7 | ⏳ Pendiente |
+| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 3/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
-| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | — | Lencería | — | — | 7/7 | — |
 | **408** | 1930s Screen Siren Noir Harness (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · 1930s Screen Siren · B&W) | — | Lencería | — | — | 7/7 | — |
 | **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **410** | Stork Club Liquid Gold (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Stork Club) | — | Nightclub | — | — | 7/7 | — |
@@ -502,10 +502,9 @@
 | **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 3/7 | ⏳ Pendiente |
 | **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | 1/7 | ⏳ Pendiente |
 | **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | 1/7 | ⏳ Pendiente |
-| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | 0/7 | ⏳ Pendiente |
-| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 1/7 | ⏳ Pendiente |
+| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | 3/7 | ⏳ Pendiente |
+| **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 3/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | 1/7 | ⏳ Pendiente |
-| **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | 1/7 | ⏳ Pendiente |
 | **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | 1/7 | ⏳ Pendiente |
 | **411** | Marilyn Subway White Halter (03/06/2026 — batch L401-L420 "La Edad de Oro" · Pin-Up · Marilyn Monroe) | 6/7 | ⏳ Pendiente |
 | **415** | Gypsy Rose Lee Burlesque (03/06/2026 — batch L401-L420 "La Edad de Oro" · Stripper · Gypsy Rose Lee) | 6/7 | ⏳ Pendiente |
@@ -526,4 +525,4 @@
 
 ---
 
-*Índice generado por Ele — 04/06/2026 14:54 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 04/06/2026 17:37 — La Voûte d'Anaïs* 🫦👠💅

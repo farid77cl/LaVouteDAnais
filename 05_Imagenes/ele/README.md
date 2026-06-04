@@ -182,9 +182,9 @@
 
 ## 👠 Look 407: Jean Harlow Platinum Boudoir
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_407_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_407_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_standing.png) | ![ele_407_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_back_view.png) | ![ele_407_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_seated.png) | ![ele_407_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_side_profile.png) | ![ele_407_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_ditzy.png) | ![ele_407_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_pov.png) | ![ele_407_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_odalisque.png) |
 
 ---
 
@@ -200,7 +200,15 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_405_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_405_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_standing.png) | ![ele_405_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_back_view.png) | ![ele_405_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_seated.png) | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 404: Silver Screen Diva Domme
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_404_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_standing.png) | ![ele_404_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_back_view.png) | ![ele_404_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_seated.png) | ⏳ | ⏳ |
 
 ---
 

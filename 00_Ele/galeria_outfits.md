@@ -17026,10 +17026,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** an Art Deco hotel suite with mirrored walls and a velvet chaise longue and warm golden lamplight, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_standing.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_back_view.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -17090,11 +17091,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a 1950s film-premiere red carpet outside a grand movie palace with vintage flashbulb paparazzi and crossing searchlights, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_standing.png) | [📸 View](../../05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_back_view.png) | [📸 View](../../05_Imagenes/ele/look405_champagne_premiere_goddess/ele_405_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -17220,11 +17221,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a 1930s Hollywood boudoir with a white satin chaise and a vanity ringed in round bulb lights and soft diffuse glamour light, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_standing.png) | [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_back_view.png) | [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_seated.png) | [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_side_profile.png) | [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_ditzy.png) | [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_pov.png) | [📸 View](../../05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/ele_407_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
