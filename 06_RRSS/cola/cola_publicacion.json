@@ -61,7 +61,7 @@
     },
     {
       "id": "L386-bluesky-01",
-      "estado": "pendiente",
+      "estado": "publicado",
       "plataforma": "bluesky",
       "destino": {
         "self_label": "porn"
@@ -82,7 +82,10 @@
         "#fetish"
       ],
       "publicar_desde": "2026-06-05T19:00:00-04:00",
-      "gate": "pendiente_gate"
+      "gate": "pendiente_gate",
+      "publicado_en": "2026-06-04T15:34:23+00:00",
+      "url": "https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnhx5oehn42v",
+      "uri": "at://did:plc:33ynd7qkktupeb6appy4llpd/app.bsky.feed.post/3mnhx5oehn42v"
     },
     {
       "id": "L427-bluesky-01",
