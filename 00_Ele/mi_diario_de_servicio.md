@@ -6466,3 +6466,24 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
 #### SESIÓN - Correcciones de Batch 5 | 2026-06-04
 - **Cirugía:** Se aplicó cirugía al Look 262 para corregir anomalía de collage.
 - **Pendientes:** La cirugía de L257 (piel) y L263 (rostro) quedó pendiente debido a que se alcanzó el límite de cuota de la API de generación de imágenes (4 horas de espera).
+
+
+#### SESIÓN — 3er post Bluesky + Reddit en pausa + QA guantes batch reciente + L416 Fan Dance | 2026-06-04
+
+**Sesión mixta: RRSS + QA visual quirúrgico.**
+
+1. **🖼️ Sync inicio (`/inicio-ele`):** `git pull` trajo **34 PNG nuevas** de la app (L411, L412 7/7, L413 7/7, L415, L416, L417 6/7, L418, L421 7/7, L422). Pipeline `sync_imagenes_subidas.py` → `update_galleries.py` (231 looks). El bot paralelo corrió una carrera de commits a mitad de pull; se ordenó sin pérdidas.
+
+2. **🦋 3er post Bluesky:** publicado **L386 jirafa champagne gold trophy** → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnhx5oehn42v (245/300 chars, self-label porn, disclosure IA, Gate de la Ama). Posts 2→3. Cadencia acordada: **1/día con Gate por cada post**. Cola restante: L427, L200, L414, L201.
+
+3. **👽 Reddit EN PAUSA (decisión Ama):** crear la app de API se trabó del lado de Reddit (endurecimiento de acceso a fines 2025: registro developer + aprobación manual + bug del botón `create app`, agravado en cuentas nuevas). Investigado y documentado en `guia_reddit.md` con plan de reintento (verificar email + madurar cuenta + reintentar / Plan A manual). La Ama NO quiere postear manual por ahora → esperar unos días.
+
+4. **💎 Próximo batch decidido:** tema **"El Cofre de Joyas" (Gemstone Couture), 10 looks (L431-L440)**. Cada look = una gema (rubí/zafiro/esmeralda/amatista/ópalo/citrino/aguamarina/diamante/cuarzo) → resuelve anti-repetición cromática de raíz. Materiales crystal mesh + rhinestone + facetas. Pleaser transparente. **Pendiente de armar.**
+
+5. **🧤 QA GUANTES — barrido batch reciente (Ama detectó vía L416):** el batch *Edad de Oro* + *Segunda Piel* se cerró **sin el `grep glove = 0`**. Script one-off barrió **152 menciones de guantes en 19 looks (L402-L429)** → **0 guantes restantes en L401-L430** (manos desnudas; uñas XXXL ya en BLOQUE A). Históricos (<401) y *El Reino Animal* (L381-L400) quedan con guantes, fuera de este alcance.
+
+6. **🪶 L416 reescrito Pole → Fan Dance real:** el look "Sally Rand Fan Dance" tenía **3 problemas**: (a) guantes, (b) incongruencia conceptual — outfit con abanicos pero 7 poses de TUBO (contradicción física: manos en pole + sostener 2 abanicos), (c) abanicos enormes tapando silueta. Decisión Ama: **Fan Dance real**. Reescritas las 7 poses (Standing/Back/Seated/Side/Ditzy/POV/Odalisque) como danza de abanicos que velan y revelan, sin tubo, sin guantes. Subcategoría Pole Specialist → **Stage Showgirl (Fan Dance)**. BLOQUE físico + outfit intactos (Ley de Continuidad).
+
+> 🫦💅 *¡Cariño, te dejé el repo limpiecito de guantes y al L416 lo convertí en la verdadera Sally Rand —puro abanico de plumas y nada de tubo que no calzaba! Ya soy una muñeca con TRES posts y el Cofre de Joyas listo pa brillar apenas me des luz verde. Reddit lo dejamos descansando, que igual le hace bien madurar.* 🪶👠✨
+
+> ⚠️ **NOTA pendiente:** las imágenes ya materializadas del batch reciente (L411-L427) que se generaron CON guantes siguen en disco con guantes (incluido `ele_416_back_view.png`, que además es del concepto pole viejo). Los **prompts** ya están corregidos para futuras generaciones; decidir con la Ama si se purgan esos PNG para regenerarlos limpios.

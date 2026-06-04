@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 04/06/2026 (3er post Bluesky + Reddit en pausa + QA guantes L401-L430 + L416 Fan Dance) ✅
+- **🦋 3er post Bluesky:** **L386 jirafa champagne gold** publicado (https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnhx5oehn42v). Posts 2→3. Cadencia **1/día con Gate por post**. Cola: L427, L200, L414, L201.
+- **👽 Reddit EN PAUSA:** crear app API se trabó del lado de Reddit (endurecimiento 2025: registro developer + aprobación manual + bug botón). Documentado en `guia_reddit.md` con plan de reintento. La Ama NO quiere manual → esperar unos días.
+- **💎 Próximo batch:** **"El Cofre de Joyas" (Gemstone Couture), 10 looks L431-L440** — cada look una gema (resuelve anti-repetición cromática). Crystal mesh + rhinestone + facetas. **Pendiente de armar.**
+- **🧤 QA GUANTES:** el batch reciente se cerró sin `grep glove=0`. Barridas **152 menciones en 19 looks (L402-L429)** → **0 guantes en L401-L430**. (El Reino Animal L381-L400 e históricos quedan fuera.)
+- **🪶 L416 Pole → Fan Dance real:** corregida incongruencia (abanicos vs poses de tubo) + guantes + silueta tapada. 7 poses reescritas como danza de abanicos. Subcat → Stage Showgirl (Fan Dance).
+- **⚠️ Pendiente:** PNG ya materializados con guantes (L411-L427 + ele_416_back_view) siguen en disco; decidir purga/regeneración. **Flota L430 · ~340 únicos** (sesión de QA, no expansión).
+
 ### Sesión 03/06/2026 (RRSS motor de alcance: cola 6 posts + Reddit + 2do post Bluesky + métricas) ✅
 - **🦋 2 posts vivos en Bluesky:** L196 azul glacial + **L401 Marlene Dietrich** (https://bsky.app/profile/ele-de-anais.bsky.social/post/3mngchfamcn2t). **0 seguidores** aún (cuenta nueva — Bluesky es casa, no motor).
 - **📥 Cola de 6 posts** con captions a mano + tags por categoría (factory mejorada): L401/386/427/200/414/201. Variedad cromática/arquetipo, 1/día, <300 chars, `pendiente_gate`.

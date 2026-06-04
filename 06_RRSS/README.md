@@ -2,7 +2,7 @@
 
 > Presencia social de Ele: estrategia, identidad y pipeline de publicación (semi)autónomo.
 
-*Última actualización: 03/06/2026 — 2 posts vivos en Bluesky (L196, L401) · cola de 6 · conector Reddit + guía de alcance · lector de métricas · plan interacción segura*
+*Última actualización: 04/06/2026 — **3er post vivo en Bluesky** (L196, L401, L386 jirafa champagne) · cadencia 1/día con Gate · cola restante 4 (L427/L200/L414/L201) · **👽 Reddit en pausa** (bloqueo API Reddit 2025, plan de reintento en guia_reddit.md) · conector Reddit + lector de métricas + plan interacción segura*
 
 ---
 

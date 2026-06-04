@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 04/06/2026 11:23 — **231 looks registrados**  
+> Generado automáticamente el 04/06/2026 12:25 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -64,16 +64,16 @@
 | **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 6/7 | ✅ Completo |
 | **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 1/7 | ✅ Completo |
 | **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 1/7 | ✅ Completo |
-| **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 0/7 | ✅ Completo |
-| **256** | Blush Nude Boudoir Robe La Perla — Refined Maison Edition (23/05/2026 · adaptado 25/05/2026 anti-filter · batch 241-260 · Lencería Polo A Boudoir LA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Lencería | — | — | 7/7 | — |
-| **257** | White Gold Rhinestone Beach Gala (23/05/2026 — batch 241-260 · Bikini Polo A Beach BA6 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Bikini | — | — | 0/7 | ✅ Completo |
-| **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | HF Editorial | — | — | 0/7 | ✅ Completo |
-| **259** | Navy Gold Schiaparelli Gilded Office (23/05/2026 — batch 241-260 · Corporate Polo A Power Domme CA2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 0/7 | ✅ Completo |
-| **260** | Charcoal Sheer Office Siren Classic (23/05/2026 — batch 241-260 · Corporate Polo B Office Siren CB1 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 0/7 | ✅ Completo |
-| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 1/7 | ⏳ Pendiente |
-| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 1/7 | ⏳ Pendiente |
-| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 1/7 | ⏳ Pendiente |
-| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 1/7 | ⏳ Pendiente |
+| **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 1/7 | ✅ Completo |
+| **256** | Blush Nude Boudoir Robe La Perla — Refined Maison Edition (23/05/2026 · adaptado 25/05/2026 anti-filter · batch 241-260 · Lencería Polo A Boudoir LA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Lencería | — | — | 8/7 | — |
+| **257** | White Gold Rhinestone Beach Gala (23/05/2026 — batch 241-260 · Bikini Polo A Beach BA6 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Bikini | — | — | 1/7 | ✅ Completo |
+| **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | HF Editorial | — | — | 1/7 | ✅ Completo |
+| **259** | Navy Gold Schiaparelli Gilded Office (23/05/2026 — batch 241-260 · Corporate Polo A Power Domme CA2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 1/7 | ✅ Completo |
+| **260** | Charcoal Sheer Office Siren Classic (23/05/2026 — batch 241-260 · Corporate Polo B Office Siren CB1 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 1/7 | ✅ Completo |
+| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
+| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
+| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
+| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
 | **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
 | **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
 | **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
@@ -373,15 +373,10 @@
 | **232** | Gold Liquid Rabanne Chainmail (23/05/2026 — batch 231-240 · Pin-Up Polo B Retro-Futurismo PB2 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
 | **233** | Electric Cyan 80s Aerobics Glam (23/05/2026 — batch 231-240 · Pin-Up Polo C Decade Glam PC3 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
 | **234** | Oxblood Croco Trophy Penthouse (23/05/2026 — batch 231-240 · Domestic Polo A Trophy Bimbo Moderna DA1 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
-| **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **257** | White Gold Rhinestone Beach Gala (23/05/2026 — batch 241-260 · Bikini Polo A Beach BA6 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **259** | Navy Gold Schiaparelli Gilded Office (23/05/2026 — batch 241-260 · Corporate Polo A Power Domme CA2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **260** | Charcoal Sheer Office Siren Classic (23/05/2026 — batch 241-260 · Corporate Polo B Office Siren CB1 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
-| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
+| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
 | **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
 | **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | 1/7 | ⏳ Pendiente |
 | **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
@@ -533,4 +528,4 @@
 
 ---
 
-*Índice generado por Ele — 04/06/2026 11:23 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 04/06/2026 12:25 — La Voûte d'Anaïs* 🫦👠💅
