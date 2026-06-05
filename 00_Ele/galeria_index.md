@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 05/06/2026 09:43 — **241 looks registrados**  
+> Generado automáticamente el 05/06/2026 15:32 — **241 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -249,7 +249,7 @@
 | **437** | Black Leather Bandage Backless Nightclub (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Nightclub · CUERO B&N · Negro) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
 | **438** | Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
 | **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **440** | White Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Blanco) | — | HF Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **440** | Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Negro) | — | HF Editorial | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -337,11 +337,11 @@
 ### Plateado / Plata (20 looks)
 **212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**
 
-### Blanco / Crema (19 looks)
-**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **440**
+### Blanco / Crema (18 looks)
+**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**
 
-### Negro (dominante) (18 looks)
-**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**
+### Negro (dominante) (19 looks)
+**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**, **440**
 
 ### Naranja / Coral Neón (4 looks)
 **301**, **347**, **394**, **400**
@@ -544,8 +544,8 @@
 | **437** | Black Leather Bandage Backless Nightclub (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Nightclub · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
 | **438** | Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
 | **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | 0/7 | ⏳ Pendiente |
-| **440** | White Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Blanco) | 0/7 | ⏳ Pendiente |
+| **440** | Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 05/06/2026 09:43 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 05/06/2026 15:32 — La Voûte d'Anaïs* 🫦👠💅

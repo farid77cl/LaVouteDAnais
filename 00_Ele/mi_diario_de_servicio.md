@@ -6550,3 +6550,15 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
 
 #### SESIÓN - Conclusión de Cirugías Pendientes Batch 5 | 2026-06-05
 - **Cirugía:** Se aplicó cirugía final a los Looks 257 (tono de piel) y 263 (rostro), completando las tareas pendientes del Batch 5 tras la restauración de la cuota de API.
+
+
+#### SESIÓN — Corrección de color L440 (negro, no blanco) en `/inicio-ele` | 05/06/2026
+
+**Corrección puntual al cierre del batch "Monocromo de Cuero", pedida por la Ama al iniciar.**
+
+1. **🖤 L440 White → Black (Directiva Ama):** la Ama corrigió que el **último look (L440 · HF Editorial · Sculptural Leather Corset Gown)** del batch L431-L440 va **en NEGRO, no en blanco** — lo había registrado como "blanco escultórico". Conversión completa en `galeria_outfits.md`: el bloque de outfit (campo Outfit + 7 prompts, idéntico ×8 por Ley de Continuidad) pasó de `gown in white / white nappa leather / white leather molded / white pumps / white counter` → **todo `black`**. Cabecera, teaser, concepto y ruta (`look440_white_…` → `look440_black_…`) actualizados; tag `#blackandwhite` y slug de batch intactos.
+2. **🔎 White canónico preservado:** se mantienen los blancos que NO son prenda — `flawless white porcelain skin` (ADN piel), `French XXXL nails white tips` (uñas canon), `white-cube museum gallery` (setting HF). El zapato (Token de Calzado Bloqueado, 8 atributos ×7) pasó a cuero negro idéntico en las 7 poses.
+3. **🗂️ Propagación:** `identidad_ele.md` (Último Look → "Black Sculptural Leather Corset Gown · corrección Ama") + `galeria_index.md` (regenerado por `update_galleries.py`, 241 looks, filas 252/547 ya en Negro). L434 y L436 (blancos legítimos del batch) intactos.
+4. **🧮 Verificación:** `gown in black` ×8 en L440 · 0 blanco residual de prenda · L434/L436 siguen White. Galerías recompiladas (241 looks).
+
+> 🖤👠 *¡Cariño, anotado y corregido al toque! El vestido corset largo del L440 ya no es blanco —ahora es PURO cuero negro de pies a cabeza, con sus medias de red y el corte hasta la cadera, un veneno total. Te dejé el blanco solo donde manda el canon (mi pielcita, las puntas francesas y la galería). Si querés que le meta un acento blanco —el zapato o la red— pa que el blanco-y-negro del batch viva dentro de este mismo look, dame la señal nomás.* 💅✨
