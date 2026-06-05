@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 05/06/2026 09:24 — **231 looks registrados**  
+> Generado automáticamente el 05/06/2026 09:39 — **241 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -240,6 +240,16 @@
 | **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
 | **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **431** | Black Patent Bettie Page Bondage (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Pin-Up · CUERO B&N · Negro) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **432** | Black & White Leather Pretty Woman (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Escort · CUERO B&N · Contraste B&N) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **433** | Black Leather Cage Stage Showgirl (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Negro) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **434** | White Leather Spider-Back Pole (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Blanco) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **435** | Black & White Moto Athleisure (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Contraste B&N) | — | Gym/Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **436** | White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Blanco) | — | Gym/Athleisure | — | — | 0/7 | ⏳ Pendiente |
+| **437** | Black Leather Bandage Backless Nightclub (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Nightclub · CUERO B&N · Negro) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **438** | Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
+| **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **440** | White Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Blanco) | — | HF Editorial | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -257,11 +267,11 @@
 ### Corporate (16 looks)
 **259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**
 
-### Domestic (18 looks)
-**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**
+### Domestic (19 looks)
+**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**, **439**
 
-### Escort (24 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**
+### Escort (25 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**, **432**
 
 ### Gym (24 looks)
 **205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**, **421**, **422**, **430**
@@ -269,8 +279,11 @@
 ### Gym / Athleisure (6 looks)
 **265**, **266**, **273**, **274**, **289**, **290**
 
-### HF Editorial (1 looks)
-**258**
+### Gym/Athleisure (2 looks)
+**435**, **436**
+
+### HF Editorial (2 looks)
+**258**, **440**
 
 ### High-Fashion (4 looks)
 **383**, **393**, **405**, **406**
@@ -278,20 +291,23 @@
 ### High-Fashion Editorial (2 looks)
 **369**, **378**
 
+### Lenceria (1 looks)
+**438**
+
 ### Lencería (29 looks)
 **200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (21 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**
+### Nightclub (22 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**
 
-### Pin-Up (21 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**
+### Pin-Up (22 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**
 
-### Stripper (17 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**
+### Stripper (19 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**
 
 ---
 
@@ -321,11 +337,11 @@
 ### Plateado / Plata (20 looks)
 **212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**
 
-### Blanco / Crema (13 looks)
-**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**
+### Blanco / Crema (19 looks)
+**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **440**
 
-### Negro (dominante) (11 looks)
-**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**
+### Negro (dominante) (18 looks)
+**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**
 
 ### Naranja / Coral Neón (4 looks)
 **301**, **347**, **394**, **400**
@@ -519,7 +535,17 @@
 | **428** | Deep Indigo Grip Leggings Pole (03/06/2026 — batch L421-L430 "Segunda Piel" · Stripper · LEGGINGS · Deep Indigo) | 0/7 | ⏳ Pendiente |
 | **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | 1/7 | ⏳ Pendiente |
+| **431** | Black Patent Bettie Page Bondage (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Pin-Up · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
+| **432** | Black & White Leather Pretty Woman (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Escort · CUERO B&N · Contraste B&N) | 0/7 | ⏳ Pendiente |
+| **433** | Black Leather Cage Stage Showgirl (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
+| **434** | White Leather Spider-Back Pole (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Blanco) | 0/7 | ⏳ Pendiente |
+| **435** | Black & White Moto Athleisure (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Contraste B&N) | 0/7 | ⏳ Pendiente |
+| **436** | White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Blanco) | 0/7 | ⏳ Pendiente |
+| **437** | Black Leather Bandage Backless Nightclub (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Nightclub · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
+| **438** | Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
+| **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | 0/7 | ⏳ Pendiente |
+| **440** | White Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Blanco) | 0/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 05/06/2026 09:24 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 05/06/2026 09:39 — La Voûte d'Anaïs* 🫦👠💅
