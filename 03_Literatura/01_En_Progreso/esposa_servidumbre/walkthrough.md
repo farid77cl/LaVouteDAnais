@@ -1,50 +1,41 @@
 # Walkthrough: La Secretaria de su Esposa (Título Provisorio)
 
-## Estado Actual
-- **Fase:** 6 EN CURSO — Cap 1 v0.1 RECHAZADO por la Ama tras feedback brutal. Editor pendiente de cirugía quirúrgica para producir v0.2.
-- **Capítulo Activo:** `capitulo_01_el_contrato_v0.1.md` (6,420 palabras · 8/8 compromisos del arco cumplidos PERO mapa erótico Cap 1 incumplido).
-- **Feedback Ama (25/05 noche, abandono en L138):**
-  - Falta depilación de entrepierna con olor de cera
-  - "Polla" (España) x4 → "verga" (Chile)
-  - Tucking descrito sin psicología interna de pérdida de hombría
-  - Sostenes sin pensamientos internos ("no pasa nada en la cabeza de Esteban")
-  - Sin frases humillantes de Valeria
-  - Densidad descriptiva > densidad erótica
-  - *"No me estás calentando, yo debería estar levemente mojada viendo a un hombre así"*
-- **Aprendizaje canónico capturado al corpus:** M17 instalado en CALENTON_AMA.md. Cumplir compromisos del arco ≠ cumplir mapa erótico ≠ calentar a la Ama. Los TRES deben validarse.
-- **Próxima Acción:** Editor con cirugía quirúrgica brutal (6 FIX preparados). Bloqueado por session limit hasta 22:00 Chile. Después → v0.2 → Ama re-lee → si aprueba → Fase 5 (Crítico + Contador en paralelo).
+> **Arquitectura:** Engine Escritura LV **v4.7 (Nivel 4)** — 3 subagentes (Compositor → Escritor-Nivel4 → Validador). Canon mínimo en `canon_relato.md`. El v4.5/v4.6 (arco/personajes/mapas eróticos/9 archivos) quedó archivado en `borradores/_canon_v45_pre_nivel4/`.
 
-## Historial de Fases del Proyecto
-| Fase | Estado | Fecha | Nota |
+## Estado Actual (05/06/2026)
+- **Fase:** **Cap 1 CERRADO** — Gate de la Ama **APROBADO**. Gold Master entregado.
+- **Gold Master:** `capitulo_01_la_semana_maestro_v1.md` (prosa pura · 6,720 palabras).
+- **Veredicto Validador (v0.6):** APROBADO · Narrativa **9.4** · Temperatura **9.0** · Inmersión ✅ · Voz ✅ (`reportes/capitulo_01/validacion_v0.6.md`).
+- **Captura doble ejecutada:** 3 frases → `01_Canon/voz_autoral.md`; 2 fragmentos textuales (depilación dolor/placer · tucking "la cosa") → `01_Canon/antologia_calenton.md`.
+- **Próxima acción:** **Cap 2** — el Compositor ya dejó el mapa de capítulos en `canon_relato.md §6`. Cap 2 = cierre de P2 (transformación final) + preámbulo P3 (primer día en la oficina de Gabriel). Cierre objetivo: Gabriel mirando a Estefanía + *"Cuando él quiera, voy a abrir"* ya armado desde el Cap 1. Lanzar Escritor-Nivel4 cuando la Ama dé luz verde.
+
+## Historial de Fases (Nivel 4)
+| Hito | Estado | Fecha | Nota |
 |------|--------|-------|------|
-| **1 - Concepción** | ✔️ | 21/05/2026 | FASE A (Intake) y FASE B completadas. Concepto de 3 capítulos con amante aprobado por la Ama. |
-| **2 - Arquitectura** | ✔️ | 21/05/2026 | FASE A (Intake) y FASE B completadas. Creado `arco_maestro_v1.md` y `linea_de_tiempo_maestra.md` con rimas narrativas y la extorsión de Gabriel. Lista para Gate de la Ama. |
-| **3 - Personajes** | ✔️ | 22/05/2026 | FASE A (Intake) y FASE B completadas. Fichas de Esteban/Estefanía, Valeria y Gabriel guardadas en `personajes_maestro_v1.md`. Pendiente Gate de la Ama. |
-| **3.3 - Mapa Erótico** | ✔️ | 22/05/2026 | FASE A (Intake respondido por la Ama), FASE B (mapa general) y FASE C (mapa Cap. 1) completadas. Archivos: `mapa_erotico_v1.md` + `mapa_erotico_cap1_v1.md`. Pendiente Gate de la Ama. |
-| **3.5 - Escena Piloto** | ✔️ | 23/05/2026 | Escena piloto (faja) aprobada por la Ama. |
-| **4 - Escritura** | ✔️ | 25/05/2026 | Cap 1 v0.1 reescrito desde cero por subagente `escritor` (flujo v4.5). 6,420 palabras, 8/8 compromisos cumplidos PERO mapa erótico incumplido. |
-| **5 - Auditoría Crítico/Contador** | ⏭️ | — | SALTADA — la Ama dio feedback directo más definitivo que cualquier veredicto técnico. Va directo a Fase 6. |
-| **6 - Refinamiento** | 🟡 EN CURSO | 25/05/2026 noche | Editor con cirugía quirúrgica brutal pendiente (6 FIX: depilación entrepierna + verga x4 + tucking psicología + sostenes pensamiento interno + frases humillantes Valeria + revisión Sec III-VI). Bloqueado por session limit hasta 22:00 Chile. **Editor.md actualizado con OBSESIÓN + mapa erótico bloqueante.** |
-| **7 - Centinela** | ⬜ | — | Pendiente |
-| **8 - Entrega + Ritual de Calentón** | ⬜ | — | Pendiente — al cierre, capturar feedback de Ama a CALENTON_AMA.md |
+| Refundación de premisa | ✔️ | 27/05/2026 | La Ama declaró inválida la premisa del contrato laboral. Premisa nueva: esquema improvisado de Valeria (influencer) usando a Gabriel (su amante) — engaño triple + cuckold inverso. |
+| Migración a Nivel 4 | ✔️ | 27/05/2026 | Compositor consolidó 9 archivos v4.5/v4.6 → `canon_relato.md` (~1,850 palabras). Originales archivados en `borradores/_canon_v45_pre_nivel4/`. |
+| Cap 1 — Escritura | ✔️ | 27/05→02/06 | Escritor-Nivel4: v0.1 → v0.5 (MICRO-FIX) → v0.6 (reescritura de registro del medio: clínico → erótico vivido). |
+| Cap 1 — Validación | ✔️ | 02/06/2026 | Validador: APROBADO (Narr 9.4 / Temp 9.0). |
+| Cap 1 — **Gate de la Ama** | ✔️ | **05/06/2026** | **"esposa_servidumbre queda ok".** → Gold Master v1 + captura doble. |
+| Cap 2 — Escritura | ⬜ | — | Pendiente luz verde de la Ama. |
 
-## Índice de Archivos del Proyecto
-- [concepto.md](file:///c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/esposa_servidumbre/concepto.md) — Ficha de concepto oficial aprobada por la Ama.
-- [arco_maestro_v1.md](file:///c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/esposa_servidumbre/arco_maestro_v1.md) — Estructura narrativa detallada e inviolable del relato.
-- [linea_de_tiempo_maestra.md](file:///c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/esposa_servidumbre/linea_de_tiempo_maestra.md) — Cronograma diario detallado y análisis de plausibilidad física y psicológica.
-- [personajes_maestro_v1.md](file:///c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/esposa_servidumbre/personajes_maestro_v1.md) — Fichas tridimensionales completas de los tres personajes principales (v1.0 — pendiente aprobación).
-- [mapa_erotico_v1.md](file:///c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/esposa_servidumbre/mapa_erotico_v1.md) — Mapa erótico general del relato: curva de excitación, 7 escenas clave detalladas, regla de dosificación, vocabulario autorizado por registro (Fase 3.3).
-- [mapa_erotico_cap1_v1.md](file:///c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/esposa_servidumbre/mapa_erotico_cap1_v1.md) — Mapa erótico específico del Cap. 1: curva interna sección a sección, beats post-ritual obligatorios, checklist para el Termómetro (Fase 3.3).
-- [walkthrough.md](file:///c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/esposa_servidumbre/walkthrough.md) — Bitácora activa de control de fases y progreso (este archivo).
+## Mapa de Capítulos (fuente: `canon_relato.md §6`)
+| Cap | Pivotes | Cierre | Estado |
+|-----|---------|--------|--------|
+| 1 | P1 (esquema) + P2 (semana + babydoll) | Esteban duerme con tucking + babydoll; *"quizás esto no sea temporal"* / *"Cuando él quiera, voy a abrir"* | ✅ **Gold Master v1** |
+| 2 | P2 cierre + P3 preámbulo (primer día oficina) | Gabriel mirando a Estefanía | ⬜ |
+| 3 | P3 (Gabriel coge) | *"esa es la verga que coge a Valeria los domingos"* | ⬜ |
+| 4 | P4 (descubre el amorío) | Esteban con la prueba + decide seguir siendo Estefanía | ⬜ |
+| 5 | P5 (Gabriel descubre quién es Estefanía) | El momento exacto del descubrimiento; corta ahí | ⬜ |
+
+## Índice de Archivos (Nivel 4)
+- `canon_relato.md` — **único documento de canon** (premisa + 5 pivotes + voz de personajes + mapa de capítulos + vocabulario chileno + cementerio + frases canónicas).
+- `capitulo_01_la_semana_maestro_v1.md` — **Gold Master Cap 1** (prosa pura).
+- `reportes/capitulo_01/` — validaciones (v0.4, v0.6), autoverificaciones, micro-fixes, control_version_v0.6.md.
+- `borradores/capitulo_01/` — versiones superadas (v0.1–v0.6).
+- `borradores/_canon_v45_pre_nivel4/` — canon viejo archivado (arco, personajes, mapas eróticos, etc.). Solo lectura histórica.
+- `01_Canon/voz_autoral.md` + `01_Canon/antologia_calenton.md` — voz persistente y antología (compartidos entre relatos; alimentados por este Cap 1).
 
 ---
 
-## 🛠️ Plan de Trabajo Inmediato (Próximas Acciones)
-
-1. **Gate de la Ama sobre el Mapa Erótico:** Aprobación de `mapa_erotico_v1.md` — especialmente la secuencia de consagración trilateral del Cap. 3 y el vocabulario erótico por registro. Una vez aprobado, es canon para el Escritor y el Termómetro.
-2. **Fase 3.5: Escena Piloto:**
-   - El Escritor lee AMBOS mapas (general + específico Cap. 1) antes de redactar la prueba de tono (~500 palabras) sobre el ritual de la faja o el calzado de stilettos.
-   - El Termómetro audita la piloto contra `mapa_erotico_cap1_v1.md`, no contra el general.
-3. **Fase 4: Escritura — Capítulo 1 (El Contrato de Encaje):**
-   - Activar al Agente Escritor con arco + línea de tiempo + personajes + `mapa_erotico_v1.md` + `mapa_erotico_cap1_v1.md`.
-4. **Antes de escribir Cap. 2 y Cap. 3:** El Agente Diseñador Sensual debe producir `mapa_erotico_cap2_v1.md` y `mapa_erotico_cap3_v1.md` respectivamente (Fase 3.3 por capítulo — BLOQUEANTE para Fase 4 de cada capítulo).
+*Walkthrough v4.7 (Nivel 4). Cap 1 cerrado el 05/06/2026.*

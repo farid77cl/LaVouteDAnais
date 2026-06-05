@@ -54,6 +54,9 @@ Su *"Bien"* es el sello. Contrae el coño del que lo escucha. Aparece después d
 - *"La manera no es una cosa. Son todas las cosas juntas, encima una de la otra, hasta que pesan tanto que ya no te puedes parar de otra forma."* (DEFINE el mecanismo de acumulación del relato: el calentón es la SUMA de capas sensoriales + palabras, no un acto aislado)
 - *"No te enseñé a parecer mujer. Te enseñé a quererlo."* (la feminización es del deseo, no de la apariencia — sello de Valeria)
 
+**Frases tipo (validadas v4.7 — Cap 1 v0.6, aprobadas por la Ama 05/06/2026):**
+- *"Eso es lo que eres ahora abajo: piel que pide que la toquen."* (depilación) — reasignación de la categoría corporal en clave de incorporación; eco directo de *"te dejé un coño"*. El dirty talk entra por el cuerpo, no por el oído.
+
 **Frases nuevas candidatas (premisa nueva 27/05 — pendientes validación, corregidas a chileno):**
 - *"Lo único que tienes que hacer es no abrir la boca cuando él te mira. Yo me encargo del resto."*
 - *"Gabriel no se va a dar cuenta. Pero tú sí. Y eso es lo que importa."*

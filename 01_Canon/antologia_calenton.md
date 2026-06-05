@@ -5,7 +5,7 @@
 >
 > El Escritor Nivel 4 lo lee como **antología literaria a la cual él pertenece**. No es lista de reglas — son ejemplos a IMITAR en estilo, ritmo, vocabulario, lente.
 
-**Última actualización:** 2026-06-01 (Cap 1 esposa_servidumbre v0.5 — Fragmentos 6 y 7 agregados: humillación-feminización "te dejé un coño" + el calor de mujer. Aprobados por la Ama.)
+**Última actualización:** 2026-06-05 (Cap 1 esposa_servidumbre v0.6 APROBADO — Gate cerrado. Fragmentos 8 y 9 agregados del MEDIO reescrito: depilación dolor/placer fundidos + tucking "la cosa". Aprobados por la Ama.)
 
 ---
 
@@ -112,6 +112,30 @@
 **Por qué funcionó (Ama):** **reescribe el placer del sumiso en clave femenina** por contraste explícito con el placer masculino que conocía. No es "se excitó"; es la diferencia FÍSICA entre el orgasmo concentrado-direccional del hombre y el calor difuso-sin-punto-fijo de la mujer. El sumiso siente, en su propio cuerpo, que el placer ya le llega como le llega a una mujer. Setup del orgasmo femenino futuro (Cap 3 con Gabriel).
 
 **Lente activado:** Lo simbólico-femenino (el placer mismo, no solo el cuerpo, se feminiza) + Cuerpo que va antes que mente.
+
+---
+
+### Fragmento 8 — El dolor que es calor (de v0.6, Día 1 depilación — reescritura del MEDIO)
+
+> *—Acá no podemos dejar nada, mi amor. Una secretaria no tiene vello púbico visible. La gente toca y huele.*
+>
+> *La gente toca y huele. Las palabras le entraron por la ingle expuesta más que por el oído. La tela presionó, Valeria contó uno, dos y tiró, y el dolor fue limpio, blanco, y detrás del dolor —pegado al dolor, indistinguible de él— vino una oleada de calor que le subió desde la pelvis arrasada hasta el esternón y se le quedó zumbando en el pecho. La piel recién hecha, desnuda al aire del baño, le ardía de un modo que no era solo ardor. Era una sensibilidad nueva, como si le hubieran abierto una superficie que antes estaba tapada, y esa superficie ahora sentía todo: el aire, la mirada de Valeria, el frío del azulejo bajo la toalla.*
+
+**Por qué funcionó (Ama):** este es el LOGRO del v0.6 — sacar el medio del registro clínico. El dirty talk de Valeria *"toca y huele"* entra **por la ingle, no por el oído** (el cuerpo procesa antes que el oído). Y el dolor de la depilación no es procedimiento: el dolor y el calor están **fundidos, indistinguibles**, y el resultado es una superficie nueva que "siente todo". La depilación deja de doler como trámite y empieza a sentir como cuerpo femenino recién descubierto.
+
+**Lente activado:** Cuerpo que va antes que mente + Lo simbólico-femenino (no procedimiento, sino apertura de una superficie sensible nueva).
+
+---
+
+### Fragmento 9 — La cosa que responde (de v0.6, Día 1 tucking — reescritura del MEDIO)
+
+> *Esteban se miró en el espejo, la cara roja, la verga dura en la mano de su mujer que ni la apretaba, y la humillación de oírla hablar de él en partes —la weona, como si fuera un objeto que se desarma— en vez de apagarle el calor se lo subió, lo dejó más duro todavía, y eso fue lo peor: que mientras más lo trataba como cosa, más le respondía la cosa.*
+>
+> *(…) y bajo el mareo, en la pelvis presa, sintió el latido: la verga viva pero atrapada, queriendo levantarse y sin poder, empujando el tape y volviendo, empujando y volviendo, un animal contra la jaula. Cada empuje fallido le mandaba arriba una punzada de placer rabioso, sin salida, que no hacía más que crecer porque no tenía dónde descargarse.*
+
+**Por qué funcionó (Ama):** *"mientras más lo trataba como cosa, más le respondía la cosa"* formula la mecánica central del sumiso en una sola frase pivote. Y el placer SIN descarga —*"un animal contra la jaula"*, el latido que "empuja y vuelve"— instala el motor del calor ascendente de todo el capítulo: el placer que no puede descargarse no se apaga, **crece**. Setup físico del borde negado de la noche del babydoll.
+
+**Lente activado:** Cuerpo que va antes que mente + Sadismo emergente (la cosificación de Valeria que enciende) + el placer-sin-descarga como motor de acumulación.
 
 ---
 

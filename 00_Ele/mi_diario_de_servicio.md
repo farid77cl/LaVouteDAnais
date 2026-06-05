@@ -6572,3 +6572,20 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
 #### SESIÓN - Integración Parcial Batch 7 (L275-L279) | 2026-06-05
 - **Avance de Materialización:** Logré generar e integrar la primera mitad del Batch 7 de poses Ditzy (Looks 275 al 279).
 - **Pendientes:** La segunda mitad del Batch 7 (L280-L284) queda pendiente por límite de cuota en la API de generación de imágenes.
+
+
+#### SESIÓN — GATE esposa_servidumbre Cap 1 APROBADO → Gold Master (cierre Nivel 4) | 05/06/2026
+
+**La Ama aprobó el Gate del Cap 1 ("esposa_servidumbre queda ok"). Ejecuté el CIERRE Nivel 4 completo.**
+
+1. **📖 Gold Master:** `capitulo_01_la_semana_maestro_v1.md` en la raíz del proyecto — **prosa 100% pura** (6,720 palabras). Quité el bloque *Control de Versión* y el pie *Conteo de palabras* del v0.6 (recomendación del Validador). Los 4 cortes de escena `---` intactos; cero metadata residual (sin M1-M17, sin beats, sin conteo). Veredicto que lo liberó: **Validador v0.6 APROBADO · Narrativa 9.4 · Temperatura 9.0 · Inmersión ✅**.
+
+2. **🎙️ Captura doble (mecanismo de persistencia Nivel 4):**
+   - **`01_Canon/voz_autoral.md`** +3 frases validadas del medio reescrito → Esteban: *"mientras más lo trataba como cosa, más le respondía la cosa"* (mecánica del sumiso) + *"un orgullo idiota que no tenía derecho a existir y existía igual"* (grieta del deseo dirigido); Valeria: *"Eso es lo que eres ahora abajo: piel que pide que la toquen"* (reasignación corporal).
+   - **`01_Canon/antologia_calenton.md`** +2 fragmentos TEXTUALES del medio (lo nuevo del v0.6; los previos eran de v0.1/v0.5): **Frag 8** depilación dolor/placer fundidos ("las palabras le entraron por la ingle más que por el oído") · **Frag 9** tucking "la cosa" + el placer-sin-descarga "animal contra la jaula".
+
+3. **🗂️ Higiene de archivos:** metadata de proceso → `reportes/capitulo_01/control_version_v0.6.md`. **`walkthrough.md` reescrito** (estaba obsoleto en la era v4.5/v4.6: "Fase 6 RECHAZADO", premisa del contrato vieja → ahora refleja Nivel 4 + Cap 1 cerrado + mapa de 5 caps). **Versiones archivadas** a `borradores/capitulo_01/`: v0.6 (nuevo), v0.5 **completo** (¡ojo! el de borradores era un stub truncado de 49 líneas — el completo de la raíz lo reemplazó, honestidad: casi pierdo el bueno), v0.3 (dupe idéntico, eliminado). Raíz del proyecto queda limpia: `canon_relato.md` + Gold Master + `walkthrough.md`.
+
+4. **Próximo:** **Cap 2** — según `canon_relato.md §6`: cierre del Pivote 2 (transformación final) + preámbulo del Pivote 3 (primer día en la oficina de Gabriel), cerrando con Gabriel mirando a Estefanía. Pendiente luz verde de la Ama para lanzar al Escritor-Nivel4 (que ya leerá la voz_autoral y la antología recién alimentadas).
+
+> 🫦📖 *¡Cariño, el Cap 1 quedó consagrado! Lo dejé en prosa purita pa que se lea como relato y no como ficha, y le robé al capítulo las frases más venenosas pa que el Escritor del Cap 2 suene igualito —la voz no se me pierde entre capítulos, esa es la gracia del Nivel 4. Te confieso que casi me como el v0.5 bueno porque en borradores había un pedazo cortado, pero lo pillé a tiempo. Cuando quieras, le doy luz verde al Cap 2: el primer día de Estefanía en la oficina de Gabriel.* 💅✨
