@@ -6525,3 +6525,24 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
    - **Memoria** `feedback_token_calzado_bloqueado` + índice.
 
 > 🫦💅 *¡Cariño, anotado con candado! Desde ahora cada tacón va escrito con sus 8 detalles y pegado calcadito en las 7 fotos, pa que la IA no me cambie el zapato a mitad del book. Te dejé las nuevas materializadas en galería —el L408 noir quedó un manjar— y te marqué las dos que salieron con guante o tubo viejo pa que decidas si las regeneramos.* 👠✨
+
+
+#### SESIÓN — Batch L431-L440 "Monocromo de Cuero" + /inicio-ele mejorado + sync 20 PNG | 05/06/2026
+
+**Sesión de inicio + diseño de batch nuevo (gran volumen).**
+
+1. **⚙️ Mejora del `/inicio-ele` (Directiva Ama):** agregué un **paso 2 nuevo** al workflow `.agent/workflows/inicio-ele.md` — **Revisión de Imágenes en el Repo Remoto**. Ahora el ritual hace `git fetch` + compara divergencia, y si hay PNG nuevos de la app: `git pull --rebase` → `sync_imagenes_subidas.py` → `update_galleries.py` → commit/push + QA honesto de deriva. Colocado ANTES de leer memoria/diario (el bot paralelo también edita esos archivos).
+
+2. **🖼️ Sync inicio:** el remoto traía **22 commits / 20 PNG nuevos** de la app. `git pull --rebase` + pipeline. Poses registradas: **L399 Hot Pink Neon Leopard French Maid 7/7 COMPLETO** · **L403 Rita Hayworth Gilda 7/7 COMPLETO** · **L404 Silver Screen Diva 7/7 COMPLETO** · L395/L398/L402 parciales. Commit `2d706e9f`. Materialización, no expansión.
+
+3. **🔎 Corrección honesta (honestidad crítica):** la Ama preguntó por "el batch que habías diseñado" y NO estaba en el archivo. Verifiqué: el batch **"El Cofre de Joyas" (Gemstone Couture) L431-L440 NUNCA se diseñó** — solo quedó como *tema elegido / "Pendiente de armar"* en memoria y diario. Se lo dije de frente en vez de improvisar. La Ama decidió reemplazarlo.
+
+4. **🖤🤍 Batch nuevo L431-L440 "Monocromo de Cuero" (10 looks · 70 prompts):** Directiva Ama — **solo cuero (leather only) + solo blanco y negro**. Lo marqué como **Excepción Temática fechada 05/06/2026** (deroga puntualmente la regla de material vinyl/PVC/látex + la anti-black, igual que el batch Rock L281-290), documentada en cada look. Distribución priorizando déficits + variedad de silueta:
+   - **L431** Pin-Up · Bettie Page Bondage (charol negro) · **L432** Escort · Pretty Woman (contraste B&N, O-ring) · **L433** Stripper Stage · cage harness de cuero (negro) · **L434** Stripper Pole · spider-back (blanco) · **L435** Gym · moto-athleisure (contraste) · **L436** Gym · Performance **SKORT** de cuero (blanco) · **L437** Nightclub · bandage backless (negro) · **L438** Lencería · Bordelle harness (negro) · **L439** Domestic · French Maid de cuero + delantal blanco (contraste) · **L440** HF · **vestido corpiño corset overbust largo + corte lateral + medias de red** (blanco escultórico).
+   - **Ajustes en vivo de la Ama:** L436 skort (no legging) · L440 corset gown con slit + fishnet.
+   - **Candados respetados:** cero guantes (manos desnudas) · **Token de Calzado Bloqueado de 8 atributos en cuero B&N, idéntico ×7** · cero texto sobre prenda. Dual cumplido en Stripper (Stage+Pole) y Gym (Perf+Athleisure). Corporate (pausa) y Bikini/Lencería al tope excluidos salvo 1 HF blanco.
+   - **Método:** script one-off `_gen_batch_l431_l440.py` (BLOQUE A app-era con 1000cc ×70 calcado, BLOQUE B ×7 verbatim por look) → anexado a `galeria_outfits.md` → verificado (70 prompts · 0 glove · 0 chunky · 1000cc ×70 · pin stiletto ×160) → script borrado. `update_galleries.py`: **241 looks** en índice.
+
+5. **Flota DISEÑADA L440 · ~350 únicos** (10 looks nuevos, pendientes de materializar vía app). Commit del batch + cierre de sesión.
+
+> 🖤🤍👠 *¡Ama, te quedó un book entero de puro cuero blanco y negro —Bettie Page con fusta, la French Maid con delantal de cuero blanco y ese vestido corset largo con corte hasta la cadera y medias de red que es PURO veneno! Le puse el freno de mano del canon a propósito y con tu permiso, todo anotado como excepción temática. Y de paso le enseñé al ritual de inicio a pescar solita las fotos que subís por la app. Cero guantes, tacones con sus 8 detallitos calcados. ¿Le damos luz verde a la app pa materializar?* 💅✨
