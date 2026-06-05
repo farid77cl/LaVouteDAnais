@@ -5,7 +5,7 @@
 >
 > NO es bible. NO es exhaustivo. Es una **vibra** consistente entre textos.
 
-**Última actualización:** 2026-06-01 (Cap 1 esposa_servidumbre v0.5 validado MICRO-FIX y aprobado por la Ama — 3 frases nuevas de Valeria incorporadas + voceo residual de candidatas viejas corregido a chileno)
+**Última actualización:** 2026-06-05 (Cap 1 esposa_servidumbre **v0.6 APROBADO por la Ama — Gate cerrado, Gold Master v1**. Captura del medio reescrito: 2 frases mentales de Esteban + 1 de Valeria, validadas por el Validador v0.6)
 
 ---
 
@@ -76,6 +76,10 @@ Su *"Bien"* es el sello. Contrae el coño del que lo escucha. Aparece después d
 - *"Era él vestido como su esposa."* (Sec III momento crítico, v0.1 v4 — confirmada)
 - *"Quizás esto no sea temporal."* (grieta del Cap 1, v0.1 v4 — confirmada como momento crítico)
 - *"Cuando él quiera, voy a abrir."* (Sec V Gabriel, v0.1 v4 — confirmada)
+
+**Frases mentales canónicas v4.7 (Cap 1 v0.6 — medio reescrito, aprobado por la Ama 05/06/2026):**
+- *"mientras más lo trataba como cosa, más le respondía la cosa."* (tucking) — FORMULA la mecánica del sumiso: la cosificación no apaga, enciende. El cuerpo le da la razón a la dominante en el mismo gesto en que es humillado. Patrón Esteban en estado puro.
+- *"un orgullo idiota que no tenía derecho a existir y existía igual."* (entrenamiento, sobre el culo) — la grieta del deseo dirigido: vergüenza + orgullo prohibido conviviendo. El sumiso se descubre gustándose como objeto deseable.
 
 ### Voz de Gabriel (amante de Valeria — premisa nueva 27/05)
 

@@ -6019,10 +6019,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Coral red silk lycra triangle bikini top with adjustable ties and all-over lotus flower print in pink and gold, matching coral lotus-print Brazilian bottoms low-rise, sheer turmeric gold silk Thai sarong wrapped around hips with gold-thread embroidered border, no gloves, gold filigree earrings drop indo-thai style, gold ankle bracelet with bells, delicate henna mehndi pattern across right hand and forearm, no choker, gold metallic stiletto-heeled sandals with toe ring and 12cm slim needle heel, beachy waves hair with single white frangipani flower behind ear.
 - **Ambientación:** Phuket five-star resort infinity pool overlooking Andaman Sea, traditional Thai sala pavilion visible, lotus pond, golden hour tropical light, refined editorial fashion photography.
 
-### 📸 Imágenes (1/7)
+### 📸 Imágenes (2/7)
 | Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](./05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](./05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/ele_275_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6089,10 +6089,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Acid neon yellow ribbed seamless high-cut Brazilian bikini set with crisscross strappy detail at front of top and side, matching acid yellow ultra-high-cut bottoms cheeky coverage, traditional Balinese batik sarong in indigo and acid yellow tied at hip in classic Bali knot, no gloves, wooden beaded bracelet stack on left wrist, single fresh white frangipani plumeria flower behind right ear, no choker, tan raffia-detail stiletto-heeled sandals with 12cm slim needle heel, beachy salty waves hair sun-kissed.
 - **Ambientación:** Uluwatu Bali beach with black volcanic rocks visible, traditional Balinese temple gate (candi bentar) silhouette in distance, golden hour tropical sunset, refined editorial fashion photography.
 
-### 📸 Imágenes (1/7)
+### 📸 Imágenes (2/7)
 | Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](./05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](./05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/ele_276_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6159,14 +6159,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ivory cream silk-satin short kimono-style robe mid-thigh length with hand-embroidered pale pink sakura cherry blossom branches across left shoulder and back, wide kimono sleeves, deep V wrap front secured with delicate nude silk obi belt tied in soft back bow, no gloves (Japanese minimalism), single pearl drop earrings, no choker (replaced by delicate pearl pendant on silk cord), ivory silk-satin stiletto mule heels with 10cm slim heel, hair loose with single sakura kanzashi hairpin, dewy minimal makeup with soft natural lip.
 - **Ambientación:** Traditional Japanese ryokan bedroom with tatami mat floor, shoji paper screen sliding doors, low futon with white linen, ikebana arrangement of cherry blossom branches, soft paper lantern warm lighting, refined editorial wabi-sabi aesthetic.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look277_ivory_pearl_kimono_boudoir_slip/ele_277_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look277_ivory_pearl_kimono_boudoir_slip/ele_277_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look277_ivory_pearl_kimono_boudoir_slip/ele_277_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente | 
 
 </details>
 
@@ -6238,10 +6238,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Deep sapphire blue silk-satin modernized hanbok boudoir set: cropped jeogori jacket waist-length with hand-embroidered mother-of-pearl plum blossoms at collar and norigae chest knot, deep V crossover front, matching sapphire silk chima high-waist mini skirt with subtle box pleats falling above mid-thigh, no gloves (hanbok minimalism), mother-of-pearl earrings delicate drop, traditional silk binyeo hairpin in silver and pearl, no choker (replaced by silk norigae pendant), sapphire silk-satin stiletto mule heels with 10cm slim heel, hair in half-up half-down with traditional braided crown, soft glass-skin Korean makeup.
 - **Ambientación:** Modern Seoul luxury hotel suite with hanok architectural details, sliding paper screen windows, low platform bed with sapphire silk linens, single ink wash painting of plum blossoms on wall, soft warm tungsten lighting.
 
-### 📸 Imágenes (7/7)
+### 📸 Imágenes (8/7)
 | Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_standing.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_back_view.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_seated.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_side_profile.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_ditzy.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_pov.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_odalisque.png) |
+ | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_standing.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_back_view.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_seated.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_side_profile.png) | [📸 View](../../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_ditzy.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_pov.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_odalisque.png) | 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
 
@@ -6308,14 +6308,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Neon hot magenta high-gloss vinyl bodycon mini-dress with structured corseted bodice, sweetheart neckline, asymmetric peplum ruffle layer at hip, ultra-mini length, no gloves (Harajuku Y2K minimalism — bare arms), black ribbon choker with heart pendant Y2K, black platform combat boots Demonia-style with 12cm platform sole, oversized white pearl drop earrings (kawaii dark), twin-tail high pigtails with black ribbons (Harajuku jirai-kei signature), dramatic gyaru eye makeup with white lower lash line, glossy lip.
 - **Ambientación:** Shibuya nightclub interior with neon kanji signage, holographic floor reflections, smoke machine atmosphere, magenta-cyan neon lighting Tokyo nightlife, refined editorial Y2K photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_standing.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_back_view.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_seated.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_side_profile.png) | ⏳ Pendiente | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_pov.png) | ⏳ Pendiente |
+ | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_standing.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_back_view.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_seated.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_side_profile.png) | [📸 View](../../05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_ditzy.png) | [📸 View](05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/ele_279_pov.png) | ⏳ Pendiente | 
 
 </details>
 
