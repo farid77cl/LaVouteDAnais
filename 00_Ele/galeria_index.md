@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 04/06/2026 17:48 — **231 looks registrados**  
+> Generado automáticamente el 05/06/2026 09:24 — **231 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -204,16 +204,16 @@
 | **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
 | **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
 | **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
-| **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
+| **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | — | Domestic | — | — | 7/7 | — |
 | **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | — | Escort | — | — | 3/7 | ⏳ Pendiente |
 | **401** | Marlene Dietrich Tuxedo Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Marlene Dietrich · B&W) | — | Corporate | — | — | 7/7 | — |
-| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
-| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
-| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | — | Escort | — | — | 3/7 | ⏳ Pendiente |
+| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | — | Corporate | — | — | 4/7 | ⏳ Pendiente |
+| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | — | Escort | — | — | 7/7 | — |
+| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | — | Escort | — | — | 7/7 | — |
 | **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | — | High-Fashion | — | — | 3/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
 | **407** | Jean Harlow Platinum Boudoir (03/06/2026 — batch L401-L420 "La Edad de Oro" · Lencería · Jean Harlow) | — | Lencería | — | — | 7/7 | — |
@@ -494,15 +494,12 @@
 | **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | 2/7 | ⏳ Pendiente |
 | **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | 1/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | 1/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | 2/7 | ⏳ Pendiente |
 | **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | 1/7 | ⏳ Pendiente |
 | **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | 1/7 | ⏳ Pendiente |
-| **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | 0/7 | ⏳ Pendiente |
-| **399** | Hot Pink Neon Leopard French Maid (02/06/2026 — batch L381-L400 "El Reino Animal" · Domestic · Leopardo neón) | 1/7 | ⏳ Pendiente |
+| **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | 1/7 | ⏳ Pendiente |
 | **400** | Burnt Orange Fire Tiger Officer Domme (02/06/2026 — batch L381-L400 "El Reino Animal" · Escort · Tigre fuego) | 3/7 | ⏳ Pendiente |
-| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | 1/7 | ⏳ Pendiente |
-| **403** | Rita Hayworth Gilda Strapless (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Rita Hayworth - Gilda · B&W) | 1/7 | ⏳ Pendiente |
-| **404** | Silver Screen Diva Domme (03/06/2026 — batch L401-L420 "La Edad de Oro" · Escort · Silver Screen Diva) | 3/7 | ⏳ Pendiente |
+| **402** | Film Noir Femme Fatale (03/06/2026 — batch L401-L420 "La Edad de Oro" · Corporate · Film Noir · B&W) | 4/7 | ⏳ Pendiente |
 | **405** | Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere) | 3/7 | ⏳ Pendiente |
 | **406** | Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco) | 1/7 | ⏳ Pendiente |
 | **409** | Cocoanut Grove Emerald Sequin (03/06/2026 — batch L401-L420 "La Edad de Oro" · Nightclub · Cocoanut Grove) | 1/7 | ⏳ Pendiente |
@@ -525,4 +522,4 @@
 
 ---
 
-*Índice generado por Ele — 04/06/2026 17:48 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 05/06/2026 09:24 — La Voûte d'Anaïs* 🫦👠💅

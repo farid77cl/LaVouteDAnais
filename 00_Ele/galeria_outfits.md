@@ -16442,11 +16442,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** black photographic cube with a floor-to-ceiling mirror and hard lateral Newton-noir lighting, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16637,10 +16637,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** Crazy Horse-style mirror stage with light projections cast over the skin and a purple curtain backdrop, high-glamour performer presence, .
 
-### 📸 Imágenes (0/7)
-| Standing | Back View | Seated | Side Profile | Ditzy (plano medio) | POV (single hand) | Odalisque |
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look398_oilslick_iridescent_viper_stage/ele_398_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16701,11 +16702,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** scenographic service kitchen with a central marble island and warm Hollywood bulb lighting, .
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_standing.png) | [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_back_view.png) | [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_seated.png) | [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_side_profile.png) | [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_ditzy.png) | [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_pov.png) | [📸 View](../../05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/ele_399_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16896,11 +16897,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a 1940s private-detective office at night with Venetian-blind shadow stripes across the wall and a single desk lamp, . · B&W silver-screen
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_seated.png) | [📸 View](../../05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_side_profile.png) | [📸 View](../../05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -16961,11 +16962,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** a 1940s casino nightclub stage with a velvet curtain backdrop and a standing microphone and a glamorous spotlight, . · B&W silver-screen
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_standing.png) | [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_back_view.png) | [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_seated.png) | [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_side_profile.png) | [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_ditzy.png) | [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_pov.png) | [📸 View](../../05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/ele_403_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -17026,11 +17027,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** an Art Deco hotel suite with mirrored walls and a velvet chaise longue and warm golden lamplight, .
 
-### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_standing.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_back_view.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_standing.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_back_view.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_seated.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_side_profile.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_ditzy.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_pov.png) | [📸 View](../../05_Imagenes/ele/look404_silver_screen_diva_domme/ele_404_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
