@@ -42,7 +42,8 @@
   - ❌ Noche del babydoll tibia. Sube la temperatura: el cuerpo de Esteban debe responder plenamente y Valeria debe llevarlo al borde explícito (mojado, contracciones, gemido femenino).
 
 ### Pivote 3 — Gabriel toma a Estefanía como mujer cualquiera (Cap 2-3)
-- **Qué ocurre:** Estefanía llega a la oficina de Gabriel (no es bufete corporativo — definir setting en escritura, podría ser productora, agencia, estudio, lo que la voz del Escritor encuentre orgánico). Gabriel la mira como hombre con verga mira a mujer que le gusta. Eventualmente — Cap 3 — la coge. Sin saber.
+- **Qué ocurre:** Estefanía llega a la oficina de Gabriel: un **loft-productora con sets de grabación** (productora de contenido que mueve marcas grandes — espacio industrial-chic glam, cámaras, equipos, luz de set). Gabriel la mira como hombre con verga mira a mujer que le gusta. Eventualmente — Cap 3 — la coge. Sin saber.
+- **Setting fijado (decisión Ama 05/06/2026):** loft-productora con sets de grabación. Detalles ancla de Gabriel: reloj IWC, aroma a cedro, manos grandes que tocan sin pedir permiso. **Camila / recepcionista:** figurante que trata a Estefanía como mujer con total naturalidad (validación externa de que el disfraz funciona).
 - **Por qué excita:** **ASIMETRÍA SEXUAL HETERO, no BDSM.** Gabriel seduce como cualquier hombre seduce a una mujer. Estefanía está del lado FEMENINO de la ecuación. *"Esa es la verga que coge a Valeria los domingos."*
 - **Emoción objetivo:** Rendición pre-cognitiva + triangulación con Valeria + anticipación.
 - **Error fatal:** BDSM con cuero, dominación intimidante, Gabriel-dominatrix. NO. Es seducción natural de hombre con verga. Indiferencia que es seducción.
@@ -112,8 +113,8 @@
 
 | Cap | Pivotes que se activan | Mecanismo dominante | Cierre del cap |
 |-----|------------------------|---------------------|----------------|
-| 1   | P1 (esquema) + P2 (semana de entrenamiento + sexualización progresiva + noche en babydoll) | Rito femenino + sexualización constante de Valeria ("los hombres te van a desear") + sadismo emergente + grieta del placer prohibido | **Fin de la primera semana:** Esteban duerme con tucking + babydoll, Valeria lo trata y lo toca como mujer en la cama matrimonial + *"quizás esto no sea temporal"* |
-| 2   | P2 cierre (transformación final) + P3 preámbulo (primer día oficina) | Asimetría sexual hetero asomando | Gabriel mirando a Estefanía al final del primer día — *"cuando él quiera, voy a abrir"* |
+| 1   | P1 (esquema) + P2 COMPLETO (semana + sexualización progresiva + noche en babydoll) | Rito femenino + sexualización constante de Valeria ("los hombres te van a desear") + sadismo emergente + grieta del placer prohibido | ✅ **ESCRITO (Gold Master v1):** el Cap 1 cerró MÁS LEJOS del plan — incluyó *El Lunes* (Estefanía se viste sola, transformación ya autónoma) y terminó en la **puerta de la oficina**: *"Cuando él quiera, voy a abrir."* + *"Tocó la puerta."* La frase *"quizás esto no sea temporal"* quedó en la noche del babydoll. |
+| 2   | **P3 preámbulo — PRIMER DÍA en el loft-productora** (la transformación YA se completó en Cap 1; acá NO hay más transformación). Abre con la puerta abriéndose / Gabriel. Primer contacto: **el apretón** (pulgar de Gabriel sobre el esmalte burdeos → la pelvis se afloja, no se contrae). Camila la trata como mujer con naturalidad. Grieta temprana del cuckold (mujeres entrando/saliendo del piso). **SIN cogida.** | Asimetría sexual hetero asomando + cuerpo que se afloja + carga retroactiva temprana del cuckold | **Abre en T° ≥ cierre Cap 1 (no resetea, abre caliente).** Cierra con Gabriel mirándola como hombre que ya decidió → pensamiento de anticipación **_"Esa es la verga que coge a Valeria los domingos."_** (borde negado, sin descarga). |
 | 3   | P3 completo (Gabriel coge) | Asimetría sexual hetero consumada + triangulación con Valeria | El acto sexual completo + *"esa es la verga que coge a Valeria los domingos"* dicho en pensamiento durante la cogida |
 | 4   | P4 (descubrimiento del amorío) | Carga retroactiva + cuckold revelado | Esteban con la prueba del amorío en la mano + la decisión de no decir nada, de seguir siendo Estefanía |
 | 5   | P5 (Gabriel descubre quién es Estefanía) | Vértigo final | Gabriel sabiendo + el momento exacto de su decisión — y el cap corta ahí |
@@ -143,7 +144,7 @@ NO usar: polla · joder · follar · tío · móvil · coche · piso · ordenado
 ## 9. Frases canónicas (validadas v4.6 — siguen vigentes para Nivel 4)
 
 - *"Tengo el mismo pubis que mi mujer."* (Esteban interno, Cap 1 depilación)
-- *"Esa es la verga que coge a Valeria los domingos."* (Esteban interno, Cap 2 o Cap 3 con Gabriel)
+- *"Esa es la verga que coge a Valeria los domingos."* (Esteban interno — **CIERRE del Cap 2**, disparada por el apretón/primer contacto con Gabriel, como anticipación; el acto en sí es Cap 3) — decisión Ama 05/06/2026
 - *"Me parezco a Valeria."* (Esteban interno, Cap 1 post-tucking en espejo)
 - *"Era él vestido como su esposa."* (Esteban interno, Cap 1 momento crítico)
 - *"Quizás esto no sea temporal."* (Esteban interno, Cap 1 cierre — la grieta)
