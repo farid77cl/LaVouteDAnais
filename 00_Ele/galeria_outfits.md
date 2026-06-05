@@ -16442,11 +16442,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (stiletto/Pleaser canon ≥12cm).
 - **Ambientación:** black photographic cube with a floor-to-ceiling mirror and hard lateral Newton-noir lighting, .
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -18846,11 +18846,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** Hollywood Boulevard at night with neon shop signs and wet asphalt reflections.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -18911,11 +18911,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** a cabaret stage with a tip rail, a purple velvet curtain backdrop and a hard spotlight from above.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look433_black_leather_cage_stage_showgirl/ele_433_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -18976,11 +18976,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** a strip club main floor with a polished brass pole and green neon residual light.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look434_white_leather_spiderback_pole/ele_434_standing.png) | [📸 View](../../05_Imagenes/ele/look434_white_leather_spiderback_pole/ele_434_back_view.png) | [📸 View](../../05_Imagenes/ele/look434_white_leather_spiderback_pole/ele_434_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look434_white_leather_spiderback_pole/ele_434_ditzy.png) | [📸 View](../../05_Imagenes/ele/look434_white_leather_spiderback_pole/ele_434_pov.png) | [📸 View](../../05_Imagenes/ele/look434_white_leather_spiderback_pole/ele_434_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -19106,11 +19106,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** a bright white gym studio with a full mirror wall and a chrome dumbbell rack.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look436_white_leather_skort_performance/ele_436_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -19171,11 +19171,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** a VIP lounge with a chrome mirror bar, a backlit bottle wall and a strobe light.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/ele_437_standing.png) | [📸 View](../../05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/ele_437_back_view.png) | [📸 View](../../05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/ele_437_seated.png) | [📸 View](../../05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/ele_437_side_profile.png) | [📸 View](../../05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/ele_437_ditzy.png) | [📸 View](../../05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/ele_437_pov.png) | [📸 View](../../05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/ele_437_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -19236,11 +19236,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** a black photographic studio cube with hard Newton-noir side lighting.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look438_black_leather_bordelle_harness/ele_438_standing.png) | [📸 View](../../05_Imagenes/ele/look438_black_leather_bordelle_harness/ele_438_back_view.png) | [📸 View](../../05_Imagenes/ele/look438_black_leather_bordelle_harness/ele_438_seated.png) | [📸 View](../../05_Imagenes/ele/look438_black_leather_bordelle_harness/ele_438_side_profile.png) | [📸 View](../../05_Imagenes/ele/look438_black_leather_bordelle_harness/ele_438_ditzy.png) | [📸 View](../../05_Imagenes/ele/look438_black_leather_bordelle_harness/ele_438_pov.png) | [📸 View](../../05_Imagenes/ele/look438_black_leather_bordelle_harness/ele_438_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -19301,11 +19301,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** a marble open-plan penthouse kitchen with chrome fixtures and bright daylight.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look439_black_white_leather_french_maid/ele_439_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look439_black_white_leather_french_maid/ele_439_seated.png) | [📸 View](../../05_Imagenes/ele/look439_black_white_leather_french_maid/ele_439_side_profile.png) | [📸 View](../../05_Imagenes/ele/look439_black_white_leather_french_maid/ele_439_ditzy.png) | [📸 View](../../05_Imagenes/ele/look439_black_white_leather_french_maid/ele_439_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -19366,11 +19366,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos en cuero, idéntico ×7).
 - **Ambientación:** a white-cube museum gallery with marble sculptures and soft directional gallery light.
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look440_black_sculptural_leather_corset_gown/ele_440_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 

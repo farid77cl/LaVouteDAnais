@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 05/06/2026 15:32 — **241 looks registrados**  
+> Generado automáticamente el 05/06/2026 17:09 — **241 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -74,21 +74,21 @@
 | **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
 | **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
 | **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
-| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
-| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
-| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
-| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
-| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 1/7 | ⏳ Pendiente |
-| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
-| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
-| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 1/7 | ⏳ Pendiente |
-| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
-| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
-| **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
-| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 7/7 | — |
-| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
+| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
+| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
+| **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 8/7 | — |
+| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
+| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
+| **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 8/7 | — |
+| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
 | **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Domestic | — | — | 5/7 | ⏳ Pendiente |
 | **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
 | **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
@@ -204,7 +204,7 @@
 | **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
 | **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | — | High-Fashion | — | — | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | — | Lencería | — | — | 3/7 | ⏳ Pendiente |
 | **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
@@ -241,15 +241,15 @@
 | **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **431** | Black Patent Bettie Page Bondage (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Pin-Up · CUERO B&N · Negro) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **432** | Black & White Leather Pretty Woman (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Escort · CUERO B&N · Contraste B&N) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **433** | Black Leather Cage Stage Showgirl (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Negro) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **434** | White Leather Spider-Back Pole (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Blanco) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **432** | Black & White Leather Pretty Woman (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Escort · CUERO B&N · Contraste B&N) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
+| **433** | Black Leather Cage Stage Showgirl (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Negro) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
+| **434** | White Leather Spider-Back Pole (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Blanco) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
 | **435** | Black & White Moto Athleisure (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Contraste B&N) | — | Gym/Athleisure | — | — | 0/7 | ⏳ Pendiente |
-| **436** | White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Blanco) | — | Gym/Athleisure | — | — | 0/7 | ⏳ Pendiente |
-| **437** | Black Leather Bandage Backless Nightclub (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Nightclub · CUERO B&N · Negro) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **438** | Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
-| **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **440** | Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Negro) | — | HF Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **436** | White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Blanco) | — | Gym/Athleisure | — | — | 1/7 | ⏳ Pendiente |
+| **437** | Black Leather Bandage Backless Nightclub (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Nightclub · CUERO B&N · Negro) | — | Nightclub | — | — | 7/7 | — |
+| **438** | Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro) | — | Lenceria | — | — | 7/7 | — |
+| **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | — | Domestic | — | — | 5/7 | ⏳ Pendiente |
+| **440** | Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Negro) | — | HF Editorial | — | — | 1/7 | ⏳ Pendiente |
 
 ---
 
@@ -393,19 +393,19 @@
 | **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
 | **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
 | **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | 1/7 | ⏳ Pendiente |
-| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 1/7 | ⏳ Pendiente |
-| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
-| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 1/7 | ⏳ Pendiente |
+| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | 2/7 | ⏳ Pendiente |
+| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
+| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
+| **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
+| **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
+| **275** | Coral Lotus Phuket Resort Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
+| **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
+| **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
+| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 5/7 | ⏳ Pendiente |
 | **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | 6/7 | ⏳ Pendiente |
 | **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | 1/7 | ⏳ Pendiente |
@@ -510,7 +510,7 @@
 | **392** | Bronze Tortoiseshell Beach Trikini (02/06/2026 — batch L381-L400 "El Reino Animal" · Bikini · Carey) | 2/7 | ⏳ Pendiente |
 | **393** | Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto) | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella (02/06/2026 — batch L381-L400 "El Reino Animal" · Pin-Up · Serpiente coral) | 1/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | 2/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness (02/06/2026 — batch L381-L400 "El Reino Animal" · Lencería · Ocelote) | 3/7 | ⏳ Pendiente |
 | **396** | Mercury Silver Anaconda Athleisure (02/06/2026 — batch L381-L400 "El Reino Animal" · Gym · Anaconda) | 1/7 | ⏳ Pendiente |
 | **397** | Peacock Teal Feather Nightclub (02/06/2026 — batch L381-L400 "El Reino Animal" · Nightclub · Pavo real) | 1/7 | ⏳ Pendiente |
 | **398** | Oil-Slick Iridescent Viper Stage (02/06/2026 — batch L381-L400 "El Reino Animal" · Stripper · Víbora iridiscente) | 1/7 | ⏳ Pendiente |
@@ -536,16 +536,14 @@
 | **429** | Toxic Chartreuse Synth-Power Leggings (03/06/2026 — batch L421-L430 "Segunda Piel" · Pin-Up · LEGGINGS · Toxic Chartreuse) | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym (03/06/2026 — batch L421-L430 "Segunda Piel" · Gym · LEGGINGS · Emerald) | 1/7 | ⏳ Pendiente |
 | **431** | Black Patent Bettie Page Bondage (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Pin-Up · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
-| **432** | Black & White Leather Pretty Woman (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Escort · CUERO B&N · Contraste B&N) | 0/7 | ⏳ Pendiente |
-| **433** | Black Leather Cage Stage Showgirl (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
-| **434** | White Leather Spider-Back Pole (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Blanco) | 0/7 | ⏳ Pendiente |
+| **432** | Black & White Leather Pretty Woman (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Escort · CUERO B&N · Contraste B&N) | 1/7 | ⏳ Pendiente |
+| **433** | Black Leather Cage Stage Showgirl (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Negro) | 1/7 | ⏳ Pendiente |
+| **434** | White Leather Spider-Back Pole (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Stripper · CUERO B&N · Blanco) | 6/7 | ⏳ Pendiente |
 | **435** | Black & White Moto Athleisure (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Contraste B&N) | 0/7 | ⏳ Pendiente |
-| **436** | White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Blanco) | 0/7 | ⏳ Pendiente |
-| **437** | Black Leather Bandage Backless Nightclub (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Nightclub · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
-| **438** | Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
-| **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | 0/7 | ⏳ Pendiente |
-| **440** | Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Negro) | 0/7 | ⏳ Pendiente |
+| **436** | White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Blanco) | 1/7 | ⏳ Pendiente |
+| **439** | Black & White Leather French Maid (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Domestic · CUERO B&N · Contraste B&N) | 5/7 | ⏳ Pendiente |
+| **440** | Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Negro) | 1/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 05/06/2026 15:32 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 05/06/2026 17:09 — La Voûte d'Anaïs* 🫦👠💅
