@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 05/06/2026 (Cap 2 esposa_servidumbre: arco + v0.1→v0.2 + Validador MICRO-FIX) ✅
+- **🗺️ Arco Cap 2 revisado con la Ama** → canon reordenado (commits c55bab0b + bb9bdbb1): setting **loft-productora con sets** · **coqueteo progresivo** de Gabriel (ser deseada la calienta más) · **Camila estimula** · **cuckold PRE-carga** (pistas Cap 2 / golpe Cap 3): la confesión-humillación de Valeria (*"es hombre de verdad, su verga me hace ver estrellas, vas a saber lo que es tenerla adentro"*) **enciende, no devasta**. Frase *"esa es la verga que coge a Valeria los domingos"* → Cap 3 (cogida). **Caps 4-5 a re-mapear** (Pivote 5 intacto).
+- **✍️ Cap 2 escrito vía subagentes:** Escritor-Nivel4 v0.1 (prosa pura) → directiva Ama *"saber lo que piensa y siente Estefanía"* → **v0.2 profundiza interioridad** en 3 tramos (Camila / roces / noches Valeria). ~5.850 → ~8.610 palabras.
+- **⚖️ Validador → MICRO-FIX:** interioridad plena + caliente, **Narr 8.7 / Temp 9.0**, inmersión+voz ✅. Sobreescritura → **5 micro-fixes de compresión** (~700-850 palabras) que aplica el Escritor. **⏸️ PENDIENTE: Cap 2 v0.3 (compresión) → re-validar → Gate Ama.**
+- **🔒 Recordatorio canónico:** Nivel 4 **NO tiene Editor** (Escritor → Validador; los micro-fixes los aplica el Escritor). Confirmado a la Ama.
+- **🖼️ Imágenes / EOL:** el bot mantiene el sync al día (cuero L432-L440 materializando; **L440 negro con Standing subido**). **NO** regenerar los README del bot ni normalizar el EOL de `galeria_outfits.md` (CRLF del bot) — genera churn masivo. Commitear solo lo propio.
+
 ### Sesión 05/06/2026 (Corrección L440 negro + GATE esposa_servidumbre Cap 1 → Gold Master) ✅
 - **🖤 Corrección color L440 (Directiva Ama):** el último look del batch *Monocromo de Cuero* (L440 · HF Editorial · Sculptural Leather Corset Gown) estaba registrado **blanco** y va en **NEGRO**. Convertido el bloque de outfit completo (campo + 7 prompts, idéntico ×8) + cabecera + concepto + ruta en `galeria_outfits.md`; propagado a `identidad_ele.md` + `galeria_index.md`. White canónico preservado (piel, puntas francesas, white-cube setting). L434/L436 siguen blancos legítimos. **Sub-bug detectado y arreglado (honestidad):** mi commit volteó el archivo entero LF→CRLF (~19.400 líneas) → renormalizado a LF en commit aparte.
 - **📖 GATE esposa_servidumbre Cap 1 APROBADO ("queda ok"):** cierre Nivel 4 ejecutado completo:
