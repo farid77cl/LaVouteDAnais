@@ -17,9 +17,10 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L320** | 🟢 237 únicos |
-| **Último batch** | **L311-L320 Ballet Corrupt** | 🩰 Registrado (prompts) |
-| **Materialización L291-L320** | **Parcial** | 🟡 Pendiente vía app |
+| **Flota Diseñada (último look)** | **L470** | 🟢 ~370 únicos |
+| **Último batch** | **L461-L470 Hooters** (10 Domestic server, Excepción Temática 06/06) | 🦉🍊 Registrado (prompts) |
+| **Penúltimo batch** | **L441-L460 Catedral de Neón y Cristal** (20 Stripper) | 💎 Registrado (prompts) |
+| **Materialización L441-L470** | **0/7 todas** | 🟡 Pendiente vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
