@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 06/06/2026 (2 batches: L441-L460 "Catedral de Neón y Cristal" 20 Stripper + L461-L470 "Hooters" 10 Domestic) ✅
+- **🔎 Inicio honesto:** la Ama pidió "recuperar imágenes nuevas" → `git pull` = `Already up to date` (HEAD==origin, tree limpio). **No había nada nuevo**; los nombres no-canónicos eran del archivo Helena/ERA_GÓTICA (no se tocan). Cuero L432-L440 ya sincronizado por el bot. Se lo dije sin inventar trabajo.
+- **💎 L441-L460 "Catedral de Neón y Cristal" (20 Stripper · 140 prompts):** fusión Vegas Residency + Neón UV After-Hours + Cristal/Chrome Gala (elección Ama) · **13 Pole + 7 Stage** con peso en clear acrylic (favorito Ama). Step 0 anti-rep verificado (silueta ≥3, color ventana-5). Pose Set Stripper. QA: 0 guantes/chunky/calzado-plano, plataforma ×20, 0 texto. Commit pusheado.
+- **🦉🍊 L461-L470 "Hooters" (10 Domestic server · 70 prompts):** **Excepción Temática fechada 06/06/2026** (deroga anti-black/anti-monoblock/material como Rock L281-290 y Cuero L431-440). **Honestidad crítica — 4 choques declarados:** zapatillas→**platform stiletto** (Footwear Canon) · wordmark→**owl emblem SIN texto** · naranja+nylon→excepción temática + wet-look/vinyl/latex · suntan pantyhose conservada. 10 variantes (clásico/negra/halter/camo/tube/beach/apron/latex/rosa/all-orange). QA limpio.
+- **🗂️ Contabilidad:** index regenerado (271 looks), identidad + materialización (L320→L470) + diario + memoria. NO corrí update_galleries (bot/CRLF). Scripts one-off borrados. **Flota L470 · ~370 únicos.** ⏳ Pendiente: materialización vía app + (literatura) Cap 2 esposa_servidumbre v0.3 sigue en cola.
+
 ### Sesión 05/06/2026 (Cap 2 esposa_servidumbre: arco + v0.1→v0.2 + Validador MICRO-FIX) ✅
 - **🗺️ Arco Cap 2 revisado con la Ama** → canon reordenado (commits c55bab0b + bb9bdbb1): setting **loft-productora con sets** · **coqueteo progresivo** de Gabriel (ser deseada la calienta más) · **Camila estimula** · **cuckold PRE-carga** (pistas Cap 2 / golpe Cap 3): la confesión-humillación de Valeria (*"es hombre de verdad, su verga me hace ver estrellas, vas a saber lo que es tenerla adentro"*) **enciende, no devasta**. Frase *"esa es la verga que coge a Valeria los domingos"* → Cap 3 (cogida). **Caps 4-5 a re-mapear** (Pivote 5 intacto).
 - **✍️ Cap 2 escrito vía subagentes:** Escritor-Nivel4 v0.1 (prosa pura) → directiva Ama *"saber lo que piensa y siente Estefanía"* → **v0.2 profundiza interioridad** en 3 tramos (Camila / roces / noches Valeria). ~5.850 → ~8.610 palabras.
