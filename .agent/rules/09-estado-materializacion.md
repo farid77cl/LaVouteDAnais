@@ -51,7 +51,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 200 (Iridescent Vow):** 7/7 Poses ✅.
 - ✅ **Look 201 (Alabaster Power):** 7/7 Poses ✅.
 - ⏳ **Look 202 (Indigo Mirage):** 4/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 203 (Violet Venom):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 203 (Violet Venom):** 2/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 250 (Burgundy Yoga Room Trophy):** 7/7 Poses ✅.
 - ✅ **Look 251 (Champagne Playboy Bunny Canon):** 7/7 Poses ✅.
 - ⏳ **Look 252 (Holographic Bad Kitty):** 3/7 Poses (Materializado parcial) ⏳.
@@ -70,13 +70,13 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
 - ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
 - ✅ **Look 290 (Studded Boxing Rock WOD):** 7/7 Poses ✅.
-- ⏳ **Look 204 (Emerald Bandcage):** 2/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 205 (Obsidian Gold Idol):** 1/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 206 (Crimson Cathedral):** 2/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 207 (Copper Hearth Doll):** 2/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 208 (Teal Sirène Obi):** 1/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 209 (Rose Gold Strap Idol):** 2/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 204 (Emerald Bandcage):** 3/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 205 (Obsidian Gold Idol):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 206 (Crimson Cathedral):** 3/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 207 (Copper Hearth Doll):** 3/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 208 (Teal Sirène Obi):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 209 (Rose Gold Strap Idol):** 3/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 3/7 Poses (Materializado parcial) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 ---
