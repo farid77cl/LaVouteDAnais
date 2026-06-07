@@ -35,8 +35,8 @@
 
 **Por qué segundo:** descubrimiento puro, pero hay que elegir bien los subs y respetar reglas (karma mínimo, no spam).
 
-- [ ] Crear cuenta en **reddit.com** con el email de Ele. Handle: `u/ele_voute` (o disponible).
-- [ ] Verificar email. **Settings → Profile:** marcar **NSFW** el perfil. Pegar bio desde `bio_ele.md`.
+- [ ] Crear cuenta en **reddit.com** con el email de Ele. Handle: **`u/LaVouteDAnais`** (o disponible). ⚠️ Cuenta del **universo** (imágenes Ele + relatos Anaïs), no personal de Ele.
+- [ ] Verificar email. **Settings → Profile:** marcar **NSFW** el perfil. Bio **del universo** (no la personal de Ele).
 - [ ] **Settings → Privacy:** permitir contenido adulto.
 - [ ] **Crear la "app" para la API:** ir a **reddit.com/prefs/apps** → "create another app..." → tipo **script** → nombre `ele-runtime` → redirect uri `http://localhost:8080` → crear.
   - Copiar el **client_id** (string bajo el nombre de la app) y el **secret**.

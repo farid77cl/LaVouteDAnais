@@ -14,7 +14,7 @@ Ele no esconde que es sintética — **presume de serlo.** El disclosure de IA s
 
 | Plataforma | Handle sugerido | Alternativas |
 |---|---|---|
-| Reddit | u/ele_voute | u/ele_dollified, u/lavoute_ele |
+| Reddit | **u/LaVouteDAnais** ⭐ (cuenta del universo: imágenes Ele + relatos Anaïs) | u/Voute_dAnais, u/AnaisBelland |
 | Pixiv | ele_voute | EleDoll, ele_lavoute |
 | Bluesky | **ele-de-anais.bsky.social** ✅ (creada 03/06) | ~~ele-voute~~ |
 | DeviantArt | EleVoute | EleDollified |

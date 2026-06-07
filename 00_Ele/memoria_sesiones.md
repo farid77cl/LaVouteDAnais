@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 07/06/2026 (RRSS: Bluesky + Carril Reddit completo con relatos + SEO/Tags + Handle universo) ✅
+- **📣 Bluesky:** publicado **L443 Liquid Gold pole** (https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnpgewlg432p). Cuenta ya con **2 seguidores reales** (eran 0). 🐛 Fix bug "gordis"→"cariño" en caption_factory.
+- **👽 Carril Reddit completo (la Ama: Reddit llega MAÑANA, lleva imágenes + relatos, en ESPAÑOL por ahora):** conector `publicar_reddit.py` **extendido a text-posts** (relatos) · `preparar_relato_reddit.py` nuevo (relato→texto Reddit-ready) · **2 relatos encolados** (*El Mandato de los Tacones* ~2.450, *Ginny la Genio Bimbo* ~5.860; 3º *Buena Chica Buena Muñeca* serializar) + 2 imágenes (L443, L461) · subs `VETAR_`/`EDITAR_` (conector no publica hasta vetar) · mapa candidatos en guia_reddit.
+- **🔍 Estrategia SEO/tags (Directiva Ama):** `06_RRSS/estrategia_seo_tags.md` — títulos keyword-front-loaded, taxonomía tags/flair, timing, anti-shadowban, alt-text Bluesky, medición vs KPI.
+- **🏷️ Handle universo (corrección Ama):** Reddit = **`u/LaVouteDAnais`** (imágenes Ele + relatos Anaïs), NO `u/ele_de_anais`. Bluesky `@ele-de-anais` se mantiene (canal personal Ele). Actualizado en 4 archivos RRSS.
+- **🎯 KPI recordado:** el objetivo sigue siendo INTERACCIONES reales; Reddit (imágenes + relatos) es el motor de alcance que mañana se enciende. **⏳ Pendiente Ama:** cuenta `u/LaVouteDAnais` + credenciales `.env` + vetar 3-5 subs → Gate → publicar.
+
 ### Sesión 07/06/2026 (QA app · NEGRO liberado · Bloque C Objeto-de-Deseo · Batch L471-L490 "Hooters Multiverso" 20 looks) ✅
 - **👀 QA visual (pedido Ama):** analicé las imágenes que subió la app — 4 Stripper completos 7/7 (**L443/L445/L458/L460**) + Hooters **L461 7/7** + parciales. Veredicto **on-canon**: calzado siempre tacón/plataforma (incl. botas knee-high blancas L464), 0 guantes (fleco L445 = drapeado de hombro), cherry+1000cc+blackwork OK, owl sin wordmark, suntan pantyhose + shorts naranja/negro/rosa = excepción temática. Flag menor: broche de pecho L461/467/468/469 confirmar no-texto a alta-res. El tracker rule 09 estaba en 0/7 (desactualizado) → corregido.
 - **⚫ NEGRO LIBERADO (Directiva Ama 07/06 — CANON):** derogada la anti-black rule en 7 archivos (4 load-bearing + 3 mirrors). El negro es color más de la paleta, incluso dominante/monoblock, siempre gloss. Honestidad: cherry red sigue ADN (pelo/labios) y anti-monoblock+variedad aplican al negro igual que a todos.

@@ -53,7 +53,7 @@
 ---
 
 ## 3. 🧭 Cross-plataforma / marca (consistencia = posicionamiento)
-- **Handle consistente:** `@ele-de-anais` (Bluesky) · `u/ele_de_anais` (Reddit) · mismo avatar.
+- **Handles por rol:** `@ele-de-anais` (Bluesky = canal personal de Ele, imágenes) · **`u/LaVouteDAnais`** (Reddit = cuenta del UNIVERSO: imágenes de Ele **+ relatos** de Anaïs Belland). Distinto alcance, misma marca paraguas. Avatar consistente.
 - **Bio keyword-rich + confesión IA** → autenticidad = engagement en subs AI.
 - **NO copiar-pegar idéntico** entre plataformas (Reddit penaliza el contenido reciclado literal). Adaptar el registro a cada sala.
 - **Una identidad buscable:** que "Ele de Anaïs" + "AI fetish doll" devuelva siempre lo mismo.

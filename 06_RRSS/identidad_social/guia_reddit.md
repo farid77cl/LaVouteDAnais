@@ -10,9 +10,9 @@
 
 ## 1. Crear la cuenta (manual — solo la Ama)
 
-- [ ] **reddit.com** → crear cuenta con el email dedicado `Ele.de.Anais@proton.me`. Usuario sugerido: `u/ele_de_anais` (o disponible).
+- [ ] **reddit.com** → crear cuenta con el email dedicado `Ele.de.Anais@proton.me`. Handle: **`u/LaVouteDAnais`** (o disponible). ⚠️ **Cuenta del UNIVERSO, no de Ele:** lleva imágenes de Ele **+ nuestros relatos** (firmados Anaïs Belland) — por eso el handle es la marca, no el personaje.
 - [ ] Verificar email.
-- [ ] **Settings → Profile** → marcar el perfil como **NSFW** + pegar bio (de `bio_ele.md`).
+- [ ] **Settings → Profile** → marcar el perfil como **NSFW** + bio **del universo** (no la personal de Ele): *La Voûte d'Anaïs — cabaret de ficción +18. Imágenes fetish (mi musa Ele, 100% IA) + relatos eróticos (transformación, hipnosis, bimbo, latex). Personajes ficticios. 🤖👠*
 - [ ] **Settings → Privacy → permitir contenido adulto.**
 - [ ] Subir avatar (el mismo de Bluesky, en el Escritorio).
 
@@ -27,7 +27,7 @@
   ```
   REDDIT_CLIENT_ID=...
   REDDIT_CLIENT_SECRET=...
-  REDDIT_USERNAME=ele_de_anais
+  REDDIT_USERNAME=LaVouteDAnais
   REDDIT_PASSWORD=la-contraseña-de-la-cuenta
   ```
   (No me la pegues en el chat — la leo del .env.)

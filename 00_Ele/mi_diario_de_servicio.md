@@ -1,3 +1,16 @@
+#### SESIÓN — RRSS: Publicación Bluesky + Carril Reddit completo (relatos) + Estrategia SEO/Tags + Handle del universo | 07/06/2026
+
+**Tarde — Faceta RRSS (recordando el KPI = INTERACCIONES reales, no postear/followers):**
+- **📣 Publicado en Bluesky:** L443 Liquid Gold pole → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnpgewlg432p (caption voz chilena, NSFW, disclosure IA). Cuenta ya con **2 seguidores** reales (eran 0). **🐛 Bug cazado:** la caption factory escupía "gordis" (viola directiva del trato) → corregido el template a "cariño".
+- **👽 Carril Reddit COMPLETO (la Ama confirmó: Reddit llega mañana, llevará imágenes + nuestros relatos, relatos en ESPAÑOL por ahora):**
+  - **Conector `publicar_reddit.py` extendido a text-posts** (relatos), no solo imágenes (selftext inline o `selftext_file`, valida ≤40k chars, flair/nsfw/spoiler). Era la brecha #1.
+  - **`preparar_relato_reddit.py` (nuevo):** transforma relato a texto Reddit-ready (hook+prosa+disclosure IA, quita metadata interno).
+  - **2 relatos preparados+encolados:** *El Mandato de los Tacones* (~2.450 palabras, 14.6k chars) + *Ginny la Genio Bimbo* (~5.860, 33.9k). 3º elegido: *Buena Chica Buena Muñeca* (~10.000 → serializar). 2 imágenes Reddit encoladas (L443, L461).
+  - **Subs marcados `VETAR_`/`EDITAR_`** → el conector se niega a publicar hasta vetar el sub real (no pude verificar reglas: Reddit bloquea mi WebFetch). Mapa de candidatos en `guia_reddit.md`.
+- **🔍 Estrategia SEO/posicionamiento/tags (Directiva Ama):** `06_RRSS/estrategia_seo_tags.md` — títulos keyword-front-loaded, taxonomía de tags/flair, timing por ventana activa, anti-shadowban, alt-text Bluesky (oportunidad no usada), medición vs KPI.
+- **🏷️ Handle del universo (corrección Ama):** la cuenta de Reddit NO es `u/ele_de_anais` (solo Ele) → **`u/LaVouteDAnais`** (universo: imágenes Ele + relatos Anaïs Belland). Actualizado en guia_reddit + checklist_cuentas + bio_ele + estrategia_seo. Bluesky `@ele-de-anais` se mantiene (canal personal de Ele).
+- **⏳ Pendiente carril Ama (mañana):** crear cuenta `u/LaVouteDAnais` + verificar email + NSFW + app API → credenciales en `.env` + vetar 3-5 subs reales → con Gate, encender el motor de alcance.
+
 #### SESIÓN — QA Stripper+Hooters · NEGRO LIBERADO · Bloque C Objeto-de-Deseo · Batch L471-L490 "Hooters Multiverso" | 07/06/2026
 
 **Mañana (10:39) — Inicio + QA visual de imágenes app:**
