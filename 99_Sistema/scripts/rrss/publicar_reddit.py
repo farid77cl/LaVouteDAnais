@@ -103,18 +103,36 @@ def cmd_test(env):
     print("\n(No se publicó nada — solo verificación.)")
 
 
+def read_selftext(entry):
+    """Texto del self-post: inline (entry['selftext']) o desde archivo (entry['selftext_file'])."""
+    if entry.get("selftext_file"):
+        p = os.path.join(REPO_ROOT, entry["selftext_file"])
+        if not os.path.exists(p):
+            sys.exit(f"❌ selftext_file no encontrado: {p}")
+        return open(p, encoding="utf-8").read()
+    return entry.get("selftext", "")
+
+
 def render_preview(entry):
     d = entry.get("destino") or {}
-    print(f"\n📮 Vista previa — {entry['id']}")
+    tipo = entry.get("tipo", "image")
+    print(f"\n📮 Vista previa — {entry['id']}  ·  tipo: {tipo}")
     print(f"   subreddit: r/{d.get('subreddit','?')}  ·  flair: {d.get('flair','-')}")
-    print(f"   look: {entry.get('look_ref')}  ·  gate: {entry.get('gate')}  ·  estado: {entry.get('estado')}")
-    print(f"   nsfw: {entry.get('nsfw')}")
-    print(f"   imagen: {entry['imagenes'][0]}")
+    print(f"   gate: {entry.get('gate')}  ·  estado: {entry.get('estado')}  ·  nsfw: {entry.get('nsfw')}")
     print(f"   título: {entry.get('titulo','')}")
-    if entry.get("caption"):
-        print("   ── caption (comentario opcional) ──")
-        for line in entry["caption"].splitlines():
+    if tipo == "text":
+        body = read_selftext(entry)
+        print(f"   ── selftext ({len(body)} chars, límite Reddit ~40000) ──")
+        preview = body if len(body) <= 1200 else body[:1200] + "\n   […recortado para preview…]"
+        for line in preview.splitlines():
             print(f"   | {line}")
+    else:
+        print(f"   look: {entry.get('look_ref')}")
+        print(f"   imagen: {entry['imagenes'][0]}")
+        if entry.get("caption"):
+            print("   ── caption (comentario opcional) ──")
+            for line in entry["caption"].splitlines():
+                print(f"   | {line}")
 
 
 def cmd_publicar(env, post_id, confirmar):
@@ -128,36 +146,54 @@ def cmd_publicar(env, post_id, confirmar):
         sys.exit(f"⚠️  '{post_id}' ya está publicado: {entry.get('url')}")
 
     d = entry.get("destino") or {}
+    tipo = entry.get("tipo", "image")
     sub = d.get("subreddit", "")
-    if not sub or sub.startswith("EDITAR") or sub.startswith("EJEMPLO"):
-        sys.exit(f"❌ El subreddit '{sub}' es un placeholder. Edita 'destino.subreddit' en la cola con un sub real.")
+    if not sub or sub.startswith("EDITAR") or sub.startswith("EJEMPLO") or sub.startswith("VETAR"):
+        sys.exit(f"❌ El subreddit '{sub}' es un placeholder. Edita 'destino.subreddit' en la cola con un sub real YA VETADO.")
     if not entry.get("titulo"):
         sys.exit("❌ Falta 'titulo' (Reddit lo exige).")
+
+    # Validaciones por tipo
+    if tipo == "text":
+        body = read_selftext(entry)
+        if not body.strip():
+            sys.exit("❌ tipo=text pero el selftext/selftext_file está vacío.")
+        if len(body) > 40000:
+            sys.exit(f"❌ selftext {len(body)} chars > 40000 (límite Reddit). Divide el relato en partes.")
+    else:
+        img = os.path.join(REPO_ROOT, entry["imagenes"][0])
+        if not os.path.exists(img):
+            sys.exit(f"❌ Imagen no encontrada: {img}")
 
     render_preview(entry)
     if not confirmar:
         print("\n🛑 FRENO DE MANO: no se publicó. Agrega --confirmar para enviar.")
         return
 
-    img = os.path.join(REPO_ROOT, entry["imagenes"][0])
-    if not os.path.exists(img):
-        sys.exit(f"❌ Imagen no encontrada: {img}")
-
     print("\n🔐 Login…")
     reddit = connect(env)
     print(f"✅ Conectada como u/{reddit.user.me().name}")
-    print(f"⬆️  Subiendo a r/{sub}…")
+    print(f"⬆️  Publicando en r/{sub} (tipo={tipo})…")
     subreddit = reddit.subreddit(sub)
-    kwargs = {"title": entry["titulo"], "image_path": img, "nsfw": bool(entry.get("nsfw"))}
-    if d.get("flair_id"):
-        kwargs["flair_id"] = d["flair_id"]
-    submission = subreddit.submit_image(**kwargs)
+
+    if tipo == "text":
+        kwargs = {"title": entry["titulo"], "selftext": body, "nsfw": bool(entry.get("nsfw"))}
+        if entry.get("spoiler"):
+            kwargs["spoiler"] = True
+        if d.get("flair_id"):
+            kwargs["flair_id"] = d["flair_id"]
+        submission = subreddit.submit(**kwargs)
+    else:
+        kwargs = {"title": entry["titulo"], "image_path": img, "nsfw": bool(entry.get("nsfw"))}
+        if d.get("flair_id"):
+            kwargs["flair_id"] = d["flair_id"]
+        submission = subreddit.submit_image(**kwargs)
 
     url = f"https://www.reddit.com{submission.permalink}"
     print(f"\n✅ ¡PUBLICADO! → {url}")
 
-    # Comentario opcional con el caption (OC + disclosure IA).
-    if entry.get("caption"):
+    # Comentario opcional con el caption (OC + disclosure IA) — solo en image posts.
+    if tipo != "text" and entry.get("caption"):
         try:
             submission.reply(entry["caption"])
             print("💬 Caption agregado como comentario.")

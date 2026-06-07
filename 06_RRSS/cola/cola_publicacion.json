@@ -217,6 +217,94 @@
       "publicado_en": "2026-06-07T14:55:32+00:00",
       "url": "https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnpgewlg432p",
       "uri": "at://did:plc:33ynd7qkktupeb6appy4llpd/app.bsky.feed.post/3mnpgewlg432p"
+    },
+    {
+      "id": "mandato-tacones-reddit-01",
+      "estado": "pendiente",
+      "plataforma": "reddit",
+      "tipo": "text",
+      "destino": {
+        "subreddit": "VETAR_RelatosEroticos",
+        "flair": "Ficción",
+        "veto": "PENDIENTE: verificar regla IA/flair/karma; cambiar VETAR_ por el sub real ya vetado"
+      },
+      "titulo": "El Mandato de los Tacones [Hipnosis][Feminización][Fetiche de Pies] — ella vio la grieta en un hombre común y la convirtió en obediencia",
+      "selftext_file": "06_RRSS/reddit_relatos/el_mandato_de_los_tacones.txt",
+      "nsfw": true,
+      "gate": "pendiente_gate",
+      "publicar_desde": "2026-06-08T19:00:00-04:00",
+      "seo_tags": [
+        "hipnosis",
+        "feminización",
+        "sumisión",
+        "latex",
+        "fetiche de tacones",
+        "transformación"
+      ]
+    },
+    {
+      "id": "ginny-genio-bimbo-reddit-01",
+      "estado": "pendiente",
+      "plataforma": "reddit",
+      "tipo": "text",
+      "destino": {
+        "subreddit": "VETAR_RelatosEroticos",
+        "flair": "Ficción",
+        "veto": "PENDIENTE: verificar regla IA/flair/karma; cambiar VETAR_ por el sub real ya vetado"
+      },
+      "titulo": "Ginny, la Genio Bimbo [Bimbofication][Transformación][Latex] — un hombre invisible frota una lámpara en Halloween y el genio no concede deseos: los impone",
+      "selftext_file": "06_RRSS/reddit_relatos/ginny_la_genio_bimbo.txt",
+      "nsfw": true,
+      "gate": "pendiente_gate",
+      "publicar_desde": "2026-06-09T19:00:00-04:00",
+      "seo_tags": [
+        "bimbo",
+        "bimbofication",
+        "transformación",
+        "genio",
+        "latex",
+        "sumisión"
+      ]
+    },
+    {
+      "id": "L461-reddit-01",
+      "estado": "pendiente",
+      "plataforma": "reddit",
+      "destino": {
+        "subreddit": "EDITAR_sub_ai_nsfw",
+        "flair": "AI"
+      },
+      "look_ref": "L461",
+      "titulo": "Hooters Classic Orange, fresh out of the render [AI]",
+      "caption": "100% AI-generated fetish doll 🤖 vinyl, latex & impossible heels. Domestic doll editorial. Fictional character · +18.",
+      "disclaimer_ia": true,
+      "nsfw": true,
+      "imagenes": [
+        "05_Imagenes/ele/look461_hooters_classic_orange/ele_461_standing.png"
+      ],
+      "hashtags": [],
+      "publicar_desde": "2026-06-07T17:05:46-04:00",
+      "gate": "pendiente_gate"
+    },
+    {
+      "id": "L443-reddit-01",
+      "estado": "pendiente",
+      "plataforma": "reddit",
+      "destino": {
+        "subreddit": "EDITAR_sub_ai_nsfw",
+        "flair": "AI"
+      },
+      "look_ref": "L443",
+      "titulo": "Liquid Gold V-Front Pole, fresh out of the render [AI]",
+      "caption": "100% AI-generated fetish doll 🤖 vinyl, latex & impossible heels. Pole & stage editorial. Fictional character · +18.",
+      "disclaimer_ia": true,
+      "nsfw": true,
+      "imagenes": [
+        "05_Imagenes/ele/look443_liquid_gold_vfront_pole/ele_443_standing.png"
+      ],
+      "hashtags": [],
+      "publicar_desde": "2026-06-07T17:05:46-04:00",
+      "gate": "pendiente_gate"
     }
   ]
 }

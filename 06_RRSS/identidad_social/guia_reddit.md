@@ -2,7 +2,7 @@
 
 > **Por qué Reddit es EL motor:** es descubrimiento puro. Posteas en un sub grande y miles de desconocidos te ven **hoy**, sin necesidad de que te sigan (al revés de Bluesky). Para el objetivo de la Ama —"que todos la vean"— Reddit es la prioridad #1.
 >
-> **Estado:** 🔴 cuenta pendiente · conector `publicar_reddit.py` ✅ listo (espera credenciales).
+> **Estado (07/06/2026):** 🟡 **Reddit llega MAÑANA** (la Ama confirmó cuenta + credenciales). Conector `publicar_reddit.py` ✅ ahora soporta **imágenes Y text-posts (relatos)**. Reddit llevará **imágenes + nuestros relatos** (relatos en **español** por ahora; inglés queda para después). Estrategia de tags/posicionamiento en [`../estrategia_seo_tags.md`](../estrategia_seo_tags.md).
 >
 > **⏸️ EN PAUSA (04/06/2026 — decisión Ama):** crear la app de API se trabó del lado de Reddit. A fines de 2025 Reddit endureció el acceso: la creación de apps `script` pasa por registro de developer + aprobación manual, y hay bug/bloqueo conocido donde `create app` no avanza (error tipo *"You cannot create any more applications…"*), agravado en cuentas nuevas/sin email verificado. Refs: [GitHub gallery-dl #8559](https://github.com/mikf/gallery-dl/issues/8559) · [Responsible Builder Policy](https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy). **Plan al retomar (en unos días):** (1) verificar email de la cuenta · (2) dejar madurar la cuenta con actividad/karma · (3) reintentar `create app` (adblock off / incógnito) · (4) si sigue trabado → solicitud formal de acceso API o caer al **Plan A manual** (paquete copy-paste, no necesita API). La Ama NO quiere postear manual por ahora.
 
@@ -56,16 +56,41 @@ python 99_Sistema/scripts/rrss/publicar_reddit.py --test   # login + karma
 - [ ] ¿Prohíbe links / promoción? ¿Cuántos posts por día/semana permite?
 - [ ] Tamaño del sub (miembros) y actividad (posts/día) → más grande = más alcance.
 
-### Categorías candidatas a investigar (verificar reglas — NO confirmadas)
-- Comunidades de **AI art NSFW / unstable-diffusion-style** (las que aceptan IA explícita).
-- Comunidades de **fetish / latex / pinup** que acepten arte IA con flair.
-- **Subs propios de nicho** (dollification, bimbo) si permiten OC.
+### ⚠️ Candidatos a VETAR en la app (NO confirmados — reglas IA/flair/karma cambian)
+> Estos son subs **reales** que conozco, pero **NO verifiqué sus reglas en vivo** (Reddit bloquea mi WebFetch). Antes de publicar en cualquiera: correr el **Checklist de veto** de arriba dentro de la app. En la cola están marcados con prefijo `VETAR_` → el conector **se niega a publicar** hasta que cambies `VETAR_<sub>` por el nombre real ya vetado.
 
-> Anotá 3-5 subs vetados acá abajo con sus reglas, y los ponemos en la cola.
+**🖼️ Carril IMÁGENES (AI fetish — inglés/visual, idioma-agnóstico):**
 
-| Subreddit | Permite IA | NSFW/OC | Karma mín. | Flair | Notas |
-|---|---|---|---|---|---|
-| _(por llenar)_ | | | | | |
+| Subreddit (candidato) | Tipo | Vetar: ¿IA? ¿OC? ¿Flair? ¿Karma? |
+|---|---|---|
+| r/unstable_diffusion | AI NSFW grande | ¿exige flair AI? ¿karma? |
+| r/aiNudes | AI NSFW | ¿OC propio? |
+| r/aiporn | AI NSFW | ¿flair? |
+| r/sdnsfw | Stable Diffusion NSFW | ¿solo SD? |
+| r/Sexyaiart | AI art sensual | ¿nivel de explicitud? |
+| r/BimboFication | Fetish bimbo | ¿acepta IA? ¿flair? |
+| r/dollification | Fetish muñeca | ¿acepta IA/OC? |
+
+**📖 Carril RELATOS (español — text/self-post):**
+
+| Subreddit (candidato) | Tipo | Vetar: ¿IA? ¿flair? ¿karma? ¿largo? |
+|---|---|---|
+| r/RelatosEroticos | Relatos ES (principal, grande) | ¿permite disclosure IA? ¿flair de género? ¿karma mín? |
+| r/RelatosDeSexo | Relatos sexo ES | ¿reglas de contenido (noncon)? |
+| r/HistoriasEroticas | Historias eróticas ES | ¿flair? |
+| r/relatoshot | Relatos hot ES | ¿tamaño/actividad? |
+
+> **Cómo vetar rápido:** abrir el sub → leer reglas fijadas + sidebar → confirmar (1) IA permitida, (2) self-post/OC permitido, (3) flair que corresponde, (4) karma/edad que cumplo, (5) NSFW obligatorio. Si las 5 ✅ → cambiar `VETAR_<sub>` por `<sub>` en la cola.
+
+---
+
+## 4-bis. 📖 Carril RELATOS — cómo se publica texto (NUEVO 07/06)
+
+El conector ahora hace **text-posts**. Las entradas de relato en la cola usan:
+- `tipo: "text"` · `selftext_file: 06_RRSS/reddit_relatos/<slug>.txt` (prosa ya limpia: hook + relato + disclosure IA) · `titulo:` con tags SEO `[Hipnosis][Bimbo]…`
+- Generar el .txt: `python 99_Sistema/scripts/rrss/preparar_relato_reddit.py` (quita metadata interno, deja hook+prosa+disclosure, valida ≤40.000 chars).
+- Relatos **>40k chars** (ej. de ~7.000+ palabras) van **serializados** (Parte 1/2) — un post por parte, "Parte 2 en el siguiente post / comentario".
+- **Ya en cola (pendientes de sub vetado + Gate):** `El Mandato de los Tacones` (~2.450 palabras) · `Ginny, la Genio Bimbo` (~5.860). 3º elegido: `Buena Chica, Buena Muñeca` (~10.000 → serializar).
 
 ---
 
