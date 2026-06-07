@@ -1,6 +1,6 @@
 # 📊 ESTADO DE MATERIALIZACIÓN Y ESTADÍSTICAS (V3.12)
 
-Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 31 de Mayo, 2026).
+Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 06/06/2026).
 
 ## 📱 FLUJO DE IMÁGENES SUBIDAS POR LA APP (Gemini → GitHub) — era app, looks ≥ 291
 
@@ -25,6 +25,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
 ### 🛠️ Looks de Ele: ESTADO ACTUAL
+- ✅ **Look 431 (Bettie Page Bondage):** 7/7 Poses ✅.
 - ✅ **Look 176 (Neon Coral Flash):** 7/7 Poses ✅.
 - ✅ **Look 177 (Ivory Column):** 7/7 Poses ✅.
 - ✅ **Look 178 (Leopard Vitacura):** 7/7 Poses ✅.
@@ -58,7 +59,8 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 2/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
-- ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 4/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 280 (Champagne Gold Tea Ceremony):** 1/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 5/7 Poses (Materializado parcial) ⏳.
  - ⏳ **Look 282 (Studded Biker Pole Predator):** 1/7 Poses (Materializado parcial) ⏳.
  - ⏳ **Look 283 (Crimson Leather Rock Domme):** 1/7 Poses (Materializado parcial) ⏳.
  - ⏳ **Look 284 (Black Leather Mini Concert Doll):** 1/7 Poses (Materializado parcial) ⏳.
