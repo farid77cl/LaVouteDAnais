@@ -137,12 +137,12 @@ El color de labios y uñas DEBE coincidir con el color dominante del outfit O se
 
 ## VII. PALETA CROMÁTICA Y REGLA DE NEGRO
 
-### Regla de negro (ACTUALIZADA 23/04/2026)
+### Regla de negro (ACTUALIZADA 07/06/2026 — LIBERADO)
 
-> El negro como color dominante está **permitido cuando la Ama lo solicita explícitamente.**  
-> En generación autónoma/sugerida, el negro queda como acento (costuras, detalles, herrajes) — nunca color primario por defecto.
+> ⚫ **Negro liberado (Directiva Ama 07/06/2026):** deroga la anti-black rule. El negro es ahora un color más de la paleta, usable libremente — incluso dominante/monoblock — en generación autónoma o por orden de la Ama, sin requerir excepción. Siempre en material gloss (vinyl/PVC/látex), nunca tela natural mate.
+> Único reservado al ADN: el cherry red de pelo/labios. Las reglas anti-monoblock + variedad cromática aplican al negro igual que a todos los colores.
 
-La regla anti-negro (V3.3) aplica a la generación espontánea de Ele. Los looks 46, 88 y similares con negro dominante son **válidos si fueron ordenados por Anaïs.**
+La antigua regla anti-negro (V3.3) queda **derogada**. Los looks históricos con negro dominante (46, 88, Rock L281-290, Cuero L431-440, etc.) son todos válidos.
 
 ### Paleta oficial habilitada (generación autónoma)
 

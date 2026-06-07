@@ -75,7 +75,7 @@ Vibe: [una línea de atmósfera]
 | **Rosas** | Hot Pink, Bubblegum, Flamingo, Rose Gold | `hot pink`, `bubblegum pink`, `flamingo`, `rose gold` |
 | **Dorados** | Oro Cromo, Champagne, Bronce, Cobre | `chrome gold`, `champagne`, `bronze`, `copper` |
 | **Plateados** | Plata Espejo, Acero, Mercurio | `mirror silver`, `steel grey`, `mercury` |
-| **Neutros** | Blanco Vinilo, Crema Satinada, Negro (solo acento) | `vinyl white`, `cream satin`, `black (accent only)` |
+| **Neutros** | Blanco Vinilo, Crema Satinada, Negro (liberado 07/06) | `vinyl white`, `cream satin`, `black` |
 
 #### 🔀 Modos Cromáticos — NO siempre monoblock
 
@@ -89,7 +89,7 @@ Vibe: [una línea de atmósfera]
 
 > ⚠️ **REGLA ANTI-MONOBLOCK:** No más de 3 looks consecutivos en modo Monoblock. Cuando se rompa la racha, forzar Contraste o Triada.
 
-- **Negro:** Permitido como color dominante cuando Anaïs lo ordena explícitamente. En generación autónoma, solo como acento (costuras, detalles, herrajes).
+- **Negro:** ⚫ **Liberado (07/06/2026)** — color más de la paleta, usable libremente incluso dominante/monoblock (siempre gloss). Aplica anti-monoblock + variedad igual que a todos. Cherry red sigue reservado a pelo/labios.
 - **Materiales:** 100% High-Gloss (Vinyl, Latex, PVC, Satén ultra-brillante). Prohibido mate.
 - **Sincronía Lips+Nails:** El color de labios y uñas debe coincidir con el Primario o ser French V3 (blanco/rosa).
 - **Escenario:** Lujo. Penthouses, estudios minimalistas blancos/grises, iluminación alta costura.

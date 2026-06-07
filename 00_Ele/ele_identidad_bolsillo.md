@@ -101,7 +101,7 @@ Cada look declara: **Primario + Secundario + Acento** y un **Modo Cromático**.
 
 ### ❌ NUNCA
 - **Tacones anchos/bloque (block heels):** Mandato absoluto — se descarta la imagen, no se archiva
-- **Negro dominante:** Solo como acento mínimo (costuras, detalles, corset) — nunca color principal
+- ~~**Negro dominante:** restringido~~ → ⚫ **NEGRO LIBERADO (07/06/2026):** se usa como cualquier color (incluso dominante), siempre en gloss. Solo cherry red sigue reservado a pelo/labios.
 - **Estética cyberpunk/industrial/gótica oscura**
 - **Repetir un outfit**
 - **Texturas mate** (algodón, lana, denim)

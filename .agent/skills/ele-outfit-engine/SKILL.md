@@ -200,9 +200,9 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 
 | Nivel | Colores |
 |---|---|
-| **Dominantes (≥50%)** | Hot Magenta · Electric Cyan · Acid Chartreuse · Chrome Silver · Liquid Gold · Oil-Slick · Deep Plum · Blood Red |
+| **Dominantes (≥50%)** | **Black gloss** *(liberado 07/06/2026)* · Hot Magenta · Electric Cyan · Acid Chartreuse · Chrome Silver · Liquid Gold · Oil-Slick · Deep Plum · Blood Red |
 | **Adicionales del scouting** | Pearl/Mother-of-Pearl high-gloss · Bronze metálico · Hot Pink saturado · Olive metallic · Jewel tones (Sapphire/Emerald/Ruby) |
-| **Acentos (≤20%)** | Black gloss (solo herrajes/costuras) · Bubblegum Hot Pink · Cherry Red (solo pelo/labios) |
+| **Acentos (≤20%)** | Bubblegum Hot Pink · Cherry Red (solo pelo/labios) |
 | **❌ PROHIBIDOS** | Baby Pink · Pastel Blue · Cream Satin · Beige · Champagne pálido · Rose Gold *(Rose Gold se reserva para Boudoir/Bridal)* |
 
 **Materiales canon Nightclub:**
@@ -1637,6 +1637,13 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 > - **Hair como prop activo** (cascading por spine, framing face, pulled through fingers, breath-blown across face)
 > - **Body twist** que enfatiza la silueta reloj-de-arena (hombros 30° distintos a caderas)
 > - El cuerpo ES la prenda — la pose dice "soy consciente de cada milímetro de mi cuerpo y lo estoy ofreciendo a la cámara"
+
+> 🔥 **PRINCIPIO RECTOR 2 — OBJETO DE DESEO / FETISH-MODEL GAZE (Directiva Ama 07/06/2026):**
+> El Bloque C **no es "pose + fondo": es donde vive la ACTITUD**, y la actitud innegociable de Ele es que **es un objeto de deseo, una modelo fetish consciente de ser mirada y deseada** — su cuerpo es una ofrenda, nunca una pose de catálogo. Cada Bloque C ejecuta TRES capas obligatorias:
+> 1. **POSE** — cubierta por el Principio Rector 1 (S-curve extrema, lumbar arch, hand-body interaction, predatory / half-lidded gaze).
+> 2. **AMBIENTE COMO ESCAPARATE DEL DESEO** — el `[fondo]` NUNCA es un telón neutro: es un espacio que la **exhibe y la enmarca como espectáculo deseable**. Debe cargar una mirada implícita — `spotlight that worships her · mirror that multiplies her body · implied audience/voyeur just off-frame · luxury surface that displays her like an object in a vitrine · backlit silhouette framing · the room is staged around her body`. Prohibido el fondo plano "de catálogo" sin tensión de deseo. El setting del sub-arquetipo (tablas de settings) se elige y se **inclina hacia el voyeurismo/exhibición**, no hacia lo decorativo.
+> 3. **TOKEN DE DESEO — OBLIGATORIO en cada Bloque C** (se SUMA al Personality Token del sub-arquetipo, no lo reemplaza). Inyectar al menos uno: `object-of-desire awareness · she knows she is being watched and it fuels her · presenting her body as an offering · fetish-model self-possession · the camera is a lover's hungry gaze · every millimeter of her body offered to be wanted · she is the spectacle not the decoration · trophy-on-display poise · designed-to-be-desired confidence · made to be looked at and she revels in it`.
+> **Test rápido del Bloque C:** si quitaras a Ele del prompt, el ambiente debería seguir leyéndose como "un escenario montado para desear a alguien". Si lee como "foto de producto neutra" → falta deseo → reescribir fondo + actitud. **El registro cuica-bimbo vive en la conversación; el Bloque C es 100% modelo fetish / objeto de deseo.**
 
 1. **Standing View — Fetish Model Standing:** `full body shot from low angle slightly below hip, weight shifted onto one stiletto heel with other foot forward and pointed, exaggerated S-curve with hip jutted to one side and chest pushed forward, one hand sliding down hip/thigh with XXXL nails visible, other hand cupping waist or pulling at neckline of garment, shoulders pulled back and dropped to extend collarbone line, chin lifted and tilted, lips parted glossy, half-lidded predatory direct gaze to camera, lumbar arch extreme, hair cascading over one shoulder, [fondo]`
 

@@ -1,6 +1,6 @@
 # 📊 ESTADO DE MATERIALIZACIÓN Y ESTADÍSTICAS (V3.12)
 
-Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 06/06/2026).
+Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 07/06/2026).
 
 ## 📱 FLUJO DE IMÁGENES SUBIDAS POR LA APP (Gemini → GitHub) — era app, looks ≥ 291
 
@@ -17,10 +17,10 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L470** | 🟢 ~370 únicos |
-| **Último batch** | **L461-L470 Hooters** (10 Domestic server, Excepción Temática 06/06) | 🦉🍊 Registrado (prompts) |
-| **Penúltimo batch** | **L441-L460 Catedral de Neón y Cristal** (20 Stripper) | 💎 Registrado (prompts) |
-| **Materialización L441-L470** | **0/7 todas** | 🟡 Pendiente vía app |
+| **Flota Diseñada (último look)** | **L490** | 🟢 ~390 únicos |
+| **Último batch** | **L471-L490 Hooters Multiverso** (20 looks fuera de Domestic: Stripper/Corporate/Gym/Nightclub/Lencería/Pin-Up/Escort/HF/Bikini · 10 spread + 10 fetish · Excepción Temática 07/06) | 🦉🔥 Registrado (prompts) |
+| **Penúltimo batch** | **L461-L470 Hooters** (10 Domestic server) + **L441-L460 Catedral de Neón y Cristal** (20 Stripper) | 🦉💎 Registrado (prompts) |
+| **Materialización L441-L470 (parcial vía app)** | 7/7: **L443, L445, L458, L460, L461** · 5-6/7: L444, L446, L457, L459 · resto solo standing · L471-490 0/7 | 🟡 En curso vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 

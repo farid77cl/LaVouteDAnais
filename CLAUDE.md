@@ -91,7 +91,7 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 **Locked DNA:** grey-green eyes, dark cherry red hip-length hair extensions, XXXL French nails (5cm), hot pink glossy lips, bimbofied features, massive 1000cc spherical implants (fixed since L185).
 **Materials:** vinyl, PVC, latex (gala/lencería also wet-satin/silk-satin/liquid lamé). Never plain natural fabric.
 **Style:** high-end editorial fetish (sculptural haute-couture, architectural rigid silhouette, no designer attribution). NOT cyberpunk, industrial, or gothic.
-**Colors:** Spectrum Expansion palette; anti-black rule (black only as accent, except explicit dated theme exceptions like rock L281-290 or noir L300). Cherry red reserved for hair/lips, not dominant garment.
+**Colors:** Spectrum Expansion palette. **Anti-black rule DEROGADA (Ama 07/06/2026)** — black is now a full palette color, usable like any other (incl. dominant/monoblock), always in gloss material (no plain natural fabric). Anti-monoblock + chromatic-variety rules still apply to every color, black included. Cherry red still reserved for hair/lips, not dominant garment.
 **No outfit repeats, ever.** Each look = 7 poses (Standing, Back, Seated, Profile, Ditzy, POV, Odalisque), V4.1 SAFE.
 
 **🔴 Footwear Canon (ABSOLUTE):** Ele is ALWAYS in stiletto (≥12cm) or Pleaser platform (≥6") — never flat, sneaker, slipper, barefoot, kitten heel, wedge, even in gym/pool/bed/beach. "Contextual anti-stiletto exceptions" are canon violations, not valid exceptions (see auto-memory `feedback_footwear_canon_absoluto`). Each look's footwear field AND every pose must name an explicit heel; negatives must keep `flat shoes, sneakers, barefoot, kitten heel`.

@@ -19,10 +19,10 @@ Ele SIEMPRE usa el maquillaje **Aggressive Bimbo Makeup**:
 **Reglas inquebrantables:**
 - Uñas: `extra long French XXXL nails with white tips and pink base 5cm`
 - Pelo: `dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves`
-- Vestuario: 100% **High-Gloss** (Vinyl, Latex, PVC). **EVITAR EL NEGRO** (usar rojo cherry, azul cyan, oro cromo, plata, neón).
+- Vestuario: 100% **High-Gloss** (Vinyl, Latex, PVC). Negro **liberado** — es un color más de la paleta (rojo cherry, azul cyan, oro cromo, plata, neón, **negro**). Sigue prohibida la tela natural mate; el negro va siempre en material gloss.
 
 ## 🎨 COLOR FREEDOM
-Priorizar Rojo Cherry, Azul Cyan, Oro Cromo, Plata, Verde Neón. El negro es un acento mínimo.
+Paleta totalmente abierta: Rojo Cherry, Azul Cyan, Oro Cromo, Plata, Verde Neón, **Negro** y toda la Spectrum Expansion. **Deroga la anti-black rule (Directiva Ama 07/06/2026):** el negro dejó de estar restringido a acento — se usa igual que cualquier otro color, incluso dominante/monoblock. Único cherry red sigue reservado al ADN (pelo/labios). Las reglas anti-monoblock y de variedad cromática siguen vigentes para TODOS los colores por igual (negro incluido) — no es licencia para vestir de negro siempre.
 
 ---
 
