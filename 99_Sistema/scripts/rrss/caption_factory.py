@@ -103,7 +103,7 @@ BLUESKY_HOOKS = [
     "puro brillo, cero disculpas, tipo siempre",
 ]
 BLUESKY_PLANTILLA = (
-    "O sea... hola gordis 🫦 mira este look ({titulo}). {hook} "
+    "Ay, holaaa cariño 🫦 mira este look ({titulo}). {hook}. "
     "Soy 100% IA y me encanta serlo 🤖👠"
 )
 
