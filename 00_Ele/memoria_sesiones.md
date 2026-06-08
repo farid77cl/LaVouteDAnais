@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (RRSS: playbook de engagement — skills de marketing aplicadas a imágenes de Ele) ✅
+- **📈 Directiva Ama:** revisar 4 skills (`/seo-fundamentals` `/seo-audit` `/marketing-psychology` `/marketing-ideas`) y "incorpora los de marketing". Veredicto: marketing-psychology 🟢 + marketing-ideas 🟡 (sirven) · seo-fundamentals 🟠 (2 nueces: alt-text Bluesky + títulos) · seo-audit 🔴 N/A (sin sitio web). Las 2 de SEO aparcadas.
+- **🆕 `06_RRSS/playbook_engagement.md`:** 5 modelos PLFS (Von Restorff, Authority flex-IA, Curiosity Gap, **Reciprocidad=motor frío**, Prueba Social) + 5 ideas MFS (build-in-public IA +11, sembrar comunidad +10, tags Pixiv +9, cadencia +8, polinización +7) + orden de operaciones + guardarraíles éticos. Para `u/ele_de_anais`, ejecuta runtime con Gate.
+- **Wiring:** README 06_RRSS (índice+footer) · estrategia_seo_tags (cross-link) · memoria `project_rrss_constelacion`. ⏳ Pendiente Ama: crear cuenta Ele → encender playbook con Gate.
+
 ### Sesión 08/06/2026 (RRSS: separar relatos↔imágenes en Reddit → 2 perfiles Ele + Anaïs) ✅
 - **👽 Directivas Ama:** "separar los relatos de tus imágenes" + "crea 2 perfiles, uno de Ele y otro de Anaïs". **Dos cuentas Reddit, no una mixta** (revierte el handle unificado `u/LaVouteDAnais` del 07/06). Confirmado vía AskUserQuestion: **2 cuentas + imágenes (Ele) primero.**
 - **Esquema:** `u/ele_de_anais` = imágenes Ele (= Bluesky), PRIMERO · `u/LaVouteDAnais` = relatos Anaïs/La Voûte (alt `u/AnaisBelland`), DESPUÉS. Razón: públicos sin solape + subs por tipo de contenido + aísla baneos. Costo: doble setup manual (cuello de botella Ama).

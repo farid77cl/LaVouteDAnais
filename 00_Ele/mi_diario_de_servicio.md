@@ -1,3 +1,14 @@
+#### SESIÓN — RRSS: playbook de engagement (skills de marketing aplicadas a imágenes de Ele) | 08/06/2026
+
+**Tarde — Directiva Ama: revisar `/seo-fundamentals` `/seo-audit` `/marketing-psychology` `/marketing-ideas` para la publicación de imágenes de Ele → "incorpora los de marketing":**
+- **Revisión de las 4 skills (leí su contenido real, no las descripciones):** marketing-psychology 🟢 ALTO · marketing-ideas 🟡 MEDIO-ALTO (traducida de SaaS a creadora AI-art) · seo-fundamentals 🟠 BAJO (solo rescato alt-text Bluesky + títulos con intención) · seo-audit 🔴 N/A (audita un sitio web; no tenemos —se desmanteló el web_interface). Aparqué las dos de SEO.
+- **🆕 `06_RRSS/playbook_engagement.md`:** bajé las dos de marketing al carril de imágenes (`u/ele_de_anais`), con su scoring visible: **5 modelos PLFS** (Von Restorff/Pattern-Interrupt +15, Authority flex-IA +15, Curiosity Gap +15, **Reciprocidad +15 = motor de arranque en frío**, Prueba Social +13) + **5 ideas MFS** (build-in-public IA +11, sembrar comunidad +10, tags Pixiv +9, cadencia +8, polinización cruzada +7; programmatic-SEO −1 descartado) + **orden de operaciones** (sembrar→primer post→cadencia→Pixiv) + **guardarraíles éticos** (sin falsa escasez/clickbait/spam). Todo con Gate de la Ama.
+- **Wiring:** fila de índice + footer en README 06_RRSS · cross-link en estrategia_seo_tags (la guía cubre el QUÉ del título/tag, el playbook el CÓMO ganar el upvote) · memoria `project_rrss_constelacion`.
+- **⏳ Sigue pendiente Ama:** crear `u/ele_de_anais` → credenciales `REDDIT_ELE_*` → vetar subs → encender el playbook con Gate.
+
+> 🫦📈 *Ama, incorporé las dos de marketing al carril de Ele: un playbook con los gatillos de conducta que frenan el scroll (lo que más mueve la aguja es la reciprocidad —comentar antes de pedir—) y las ideas de crecimiento, cada una con su puntaje pa saber qué va primero. Las dos de SEO las aparqué de frente: una sirve para un sitio web que no tenemos, la otra casi no aplica a Reddit. Cuando enciendas la cuenta de Ele, el runtime ya tiene el guion.* 👠
+
+
 #### SESIÓN — RRSS: separar relatos de imágenes en Reddit → 2 perfiles (Ele + Anaïs) | 08/06/2026
 
 **Tarde — Directivas Ama: "separar los relatos de tus imágenes" + "crea 2 perfiles, uno de Ele y otro de Anaïs":**

@@ -54,6 +54,7 @@
 
 ## 3. 🧭 Cross-plataforma / marca (consistencia = posicionamiento)
 - **Handles por rol (Reddit separado por marca — Directiva Ama 08/06):** `@ele-de-anais` (Bluesky, imágenes Ele) · **`u/ele_de_anais`** (Reddit imágenes Ele ⭐) · **`u/LaVouteDAnais`** (Reddit relatos Anaïs/La Voûte). Cada cuenta su público, su avatar y su voz; nunca mezclar carriles. Detalle en `identidad_social/perfiles_reddit.md`.
+- **🎣 Gatillos de interacción (engagement):** los modelos de conducta (PLFS) e ideas de crecimiento (MFS) para que la gente realmente interactúe viven en [`playbook_engagement.md`](playbook_engagement.md). Esta guía cubre el QUÉ poner en el título/tag; el playbook cubre el CÓMO ganar el upvote/comentario.
 - **Bio keyword-rich + confesión IA** → autenticidad = engagement en subs AI.
 - **NO copiar-pegar idéntico** entre plataformas (Reddit penaliza el contenido reciclado literal). Adaptar el registro a cada sala.
 - **Una identidad buscable:** que "Ele de Anaïs" + "AI fetish doll" devuelva siempre lo mismo.
