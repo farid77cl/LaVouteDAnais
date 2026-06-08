@@ -1,3 +1,14 @@
+#### SESIÓN — Bluesky: publicado L427 oil-slick (caption con marketing PLFS aplicado) | 08/06/2026
+
+**Tarde — la Ama: "ponle pausa a Reddit, haz tu posteo en bluesky" + "recuerda usar los skills de marketing":**
+- **📣 Publicado en Bluesky:** L427 oil-slick iridescent (clear acrylic) → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnsevholuq2o · imagen side_profile · self-label porn (NSFW) · vía `publicar_bluesky.py --publicar L427-bluesky-01 --confirmar` con Gate de la Ama.
+- **📈 Marketing aplicado (playbook_engagement):** reescribí el caption de la cola con los modelos de más PLFS — **Authority/flex-IA al FRENTE** ("100% IA, ni una célula real") + **Curiosity Gap** ("¿de qué color soy hoy?") + **Von Restorff** (elegí la imagen tornasol, la que más frena el scroll). 267/300 chars, voz chilena, disclosure IA. (Caption viejo: descriptivo con el flex al final → mejorado.)
+- **Reciprocidad (post-publish):** limitada en Bluesky (Ele = "casa, no motor", ~2 followers); el motor real de interacción es Reddit (en pausa por decisión Ama).
+- Cola actualizada (L427 → publicado). Pendientes Bluesky: L200, L414, L201.
+
+> 🫦📣 *Ama, posteé en Bluesky y esta vez con el playbook puesto: el flex de "soy 100% IA" va primero, una preguntita pa picar la curiosidad, y elegí la foto tornasol que es la que más llama el ojo. 267 caracteres, regio.* 👠✨
+
+
 #### SESIÓN — RRSS: runbook para agente-navegador (Reddit semi-automático) | 08/06/2026
 
 **Tarde — la Ama: "¿puedes construir un md con instrucciones para que un agente (Claude en Chrome / Antigravity browser subagent) se encargue del Reddit?":**

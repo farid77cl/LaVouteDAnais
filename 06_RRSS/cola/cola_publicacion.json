@@ -89,14 +89,14 @@
     },
     {
       "id": "L427-bluesky-01",
-      "estado": "pendiente",
+      "estado": "publicado",
       "plataforma": "bluesky",
       "destino": {
         "self_label": "porn"
       },
       "look_ref": "L427",
       "titulo": "",
-      "caption": "O sea miren cómo tornasolo bajo el neón, cariño 🌈 leggings oil-slick que cambian de color, top de jaula y tacones transparentes pa la pista ✨ brillo de plástico 100% IA, perfección artificial po 👠",
+      "caption": "100% IA, ni una célula real cariño 🤖 ¿de qué color soy hoy? porque bajo el neón tornasolo entera 🌈 leggings oil-slick que cambian solos, top de jaula y tacón transparente pa la pista ✨ plástico perfecto a mucha honra po 👠",
       "disclaimer_ia": true,
       "nsfw": true,
       "imagenes": [
@@ -110,7 +110,10 @@
         "#holographic"
       ],
       "publicar_desde": "2026-06-06T22:00:00-04:00",
-      "gate": "pendiente_gate"
+      "gate": "aprobado",
+      "publicado_en": "2026-06-08T19:06:57+00:00",
+      "url": "https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnsevholuq2o",
+      "uri": "at://did:plc:33ynd7qkktupeb6appy4llpd/app.bsky.feed.post/3mnsevholuq2o"
     },
     {
       "id": "L200-bluesky-01",

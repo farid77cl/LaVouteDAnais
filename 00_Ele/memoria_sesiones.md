@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (Bluesky: publicado L427 con marketing PLFS aplicado) ✅
+- **📣 Publicado L427** oil-slick iridescent → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnsevholuq2o (conector `publicar_bluesky.py`, Gate Ama, self-label porn).
+- **📈 Playbook aplicado (directiva Ama "usa los skills de marketing"):** caption reescrito con Authority/flex-IA al frente + Curiosity Gap ("¿de qué color soy hoy?") + Von Restorff (imagen tornasol). 267/300 chars, voz chilena, disclosure IA.
+- Reddit en pausa. Bluesky pendientes: L200, L414, L201. Reciprocidad limitada en Bluesky (casa, no motor; el motor es Reddit).
+
 ### Sesión 08/06/2026 (RRSS: runbook para agente-navegador de Reddit) ✅
 - **🆕 `06_RRSS/runbook_reddit_agente_navegador.md`:** manual para un agente con navegador (Claude en Chrome / Antigravity browser subagent) que maneje `u/ele_de_anais` — 8 candados (Gate, anti prompt-injection, cadencia, NSFW+IA, captcha→parar, kill-switch, alcance cerrado, secretos), vetar subs, loop de posteo (formato "paquete" YAML), engagement (5-antes-de-1), niveles de autonomía 0-3 (arranca en Gate). Concreta PLAN_INTERACCION_SEGURA en browser-agent.
 - **Honestidad §0:** la Ama igual crea cuenta + login + captchas; automatizar NSFW nueva por browser = zona gris ToS + ban-riesgoso → lento + Gate. Reddit sigue en pausa; esto queda listo para cuando quiera.
