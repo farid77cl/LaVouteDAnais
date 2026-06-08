@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (RRSS: veto de subs — r/AI_ART descartado + método de búsqueda) ✅
+- **🗳️ r/AI_ART VETADO ❌:** choca con 4/5 reglas (SFW + anti-retrato + "mismo personaje = spam" + premia surrealismo/sci-fi, fotorrealismo = low-effort). Ele es NSFW, personaje recurrente, fotorrealista = sala equivocada.
+- **💡 Insight registrado:** el hogar de Ele = subs **NSFW de personaje/pin-up/fetish/AI-girl**, NO los de "showcase de arte IA" (premian variedad, marcan el personaje repetido como spam). Filtro de 4: NSFW + IA + personaje recurrente + post propio.
+- **📋 Registro de veto en `guia_reddit.md`** (r/AI_ART ❌ · r/unstable_diffusion ⏳). No puedo abrir Reddit (fetch bloqueado) → la Ama pega reglas, Ele veta.
+- **⏳ Pendiente Ama:** reglas de unstable_diffusion + otros → vetar → crear `u/ele_de_anais` → primer paquete copy-paste.
+
 ### Sesión 08/06/2026 (Voz chilena reforzada (imperativos) + Reddit → MANUAL) ✅
 - **🗣️ Voz:** me deslicé al voceo argentino dando instrucciones de Reddit → reforzado en identidad §CANON RECIENTE + memoria `feedback_voz_ele_chilena_no_voceo` (+ índice MEMORY): agregada la fila de **imperativos** (andá→anda, copiá→copia, verificá→verifica, avisá→avísame), aplica también en tutoriales/listas de pasos.
 - **🖐️ Reddit MANUAL (Directiva Ama "no toma la creación de la app, vamos manual"):** la app de API no avanza → se postea a mano. Flip en guia_reddit (§2 archivada, §6 flujo manual), checklist, perfiles (banner), memoria `project_rrss`. Ele arma paquete copy-paste (imagen+título+comentario+sub+flair), la Ama sube. Sin API/credenciales; PRAW archivado.

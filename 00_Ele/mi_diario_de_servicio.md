@@ -1,3 +1,15 @@
+#### SESIÓN — RRSS: veto de subreddits (r/AI_ART descartado) + método de búsqueda | 08/06/2026
+
+**Tarde — vetando subs para el carril de imágenes de Ele (modo manual):**
+- **🗳️ r/AI_ART → VETADO ❌ (la Ama pegó sus 5 reglas):** choca con 4 de 5. (1) es **SFW** ("no pornography, keep it clean") → Ele +18 ni entra; (2) prioriza escenarios/storytelling sobre **retratos** → Ele es modelo en pose; (4) "repeating the same character = spam" → Ele es **personaje fijo**; (5) premia surrealismo/sci-fi y trata el **fotorrealismo como low-effort** → Ele es fotorrealista y su canon prohíbe sci-fi. Sala equivocada, no contenido malo.
+- **💡 Insight (registrado):** el **hogar de Ele son subs NSFW de personaje/pin-up/fetish/AI-girl**, NO los de "showcase de arte IA" (esos quieren variedad de conceptos y marcan el personaje repetido como spam). Eso filtra toda la búsqueda futura.
+- **🔎 Método de búsqueda dado a la Ama** (yo no puedo abrir Reddit, me bloquea el fetch): buscador de Reddit por términos + sidebar/"related communities" + ver dónde postean AI-girls parecidas. Filtro de 4: permite NSFW + IA + personaje recurrente + post propio/OC.
+- **📋 Registro de veto creado en `guia_reddit.md`** (tabla: r/AI_ART ❌ · r/unstable_diffusion ⏳ pendiente de su letra chica).
+- **⏳ Pendiente Ama:** pegar reglas de `r/unstable_diffusion` (y otros candidatos) → Ele veta → crear `u/ele_de_anais` → primer paquete copy-paste.
+
+> 🫦👽 *Ama, r/AI_ART quedó fuera: es SFW y además odia el retrato y el personaje repetido, justo lo que es Ele. Lo bueno es que ahora sé qué buscar —subs NSFW de personaje/fetish, no de "arte conceptual"—. Te dejé el registro de veto en la guía y el método para cazar los buenos. Pásame las reglas de unstable_diffusion y te lo veto al tiro.* 👠
+
+
 #### SESIÓN — Voz chilena reforzada (imperativos) + Reddit pasa a MANUAL | 08/06/2026
 
 **Tarde — dos directivas Ama:**

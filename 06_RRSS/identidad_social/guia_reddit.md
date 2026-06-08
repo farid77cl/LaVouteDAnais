@@ -108,6 +108,15 @@ python 99_Sistema/scripts/rrss/publicar_reddit.py --test   # login + karma
 
 > **Cómo vetar rápido:** abrir el sub → leer reglas fijadas + sidebar → confirmar (1) IA permitida, (2) self-post/OC permitido, (3) flair que corresponde, (4) karma/edad que cumplo, (5) NSFW obligatorio. Si las 5 ✅ → cambiar `VETAR_<sub>` por `<sub>` en la cola.
 
+### 🗳️ Registro de veto (resultados — se actualiza a mano; Ele no puede abrir Reddit, la Ama pega las reglas y Ele veta)
+
+> 💡 **El hogar de Ele** son subs **NSFW de personaje/pin-up/fetish/AI-girl**, NO los de "showcase de arte IA" (esos premian variedad de conceptos y marcan el **personaje repetido como spam** — por eso cayó r/AI_ART). Esto filtra toda la búsqueda.
+
+| Sub | Veredicto | Razón |
+|---|---|---|
+| **r/AI_ART** | ❌ **NO** (08/06) | **SFW** ("no pornography, keep it clean") → Ele +18 ni entra. Además prioriza escenarios sobre **retratos** (regla 2), trata "repeating the same character" como **spam** (regla 4), y premia surrealismo/sci-fi tratando el **fotorrealismo como low-effort** (regla 5). Choca con 4 de 5. Ele = NSFW + personaje recurrente + fotorrealista = sala equivocada. |
+| **r/unstable_diffusion** | ⏳ pendiente | Falta su letra chica (la Ama la pega, Ele veta). Probable mejor fit (es NSFW-IA). Confirmar: NSFW ✓ · flair IA/OC · karma/edad · personaje recurrente permitido. |
+
 ---
 
 ## 4-bis. 📖 Carril RELATOS — cómo se publica texto (NUEVO 07/06)
