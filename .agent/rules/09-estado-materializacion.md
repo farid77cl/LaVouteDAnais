@@ -17,9 +17,9 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L500** | 🟢 ~400 únicos (HITO 500) |
-| **Último batch** | **L491-L500 "El Quinto Centenar: Joyería Líquida"** (HITO 500 · 10 looks, 1 gema/arquetipo: Emerald HF · Sapphire Escort · Amethyst Nightclub · Onyx Corporate Domme · Rose Quartz Lencería · Aquamarine Bikini · Champagne-Gold Pin-Up · Citrine Gym skort · Opal Lencería Fetish · Diamond Stripper finale · Lencería ×2 · 0 naranja · clear acrylic L496/L500) | 💎 Registrado (prompts) |
-| **Penúltimo batch** | **L471-L490 Hooters Multiverso** (20 looks) + **L461-L470 Hooters** (10 Domestic server) | 🦉🔥 Registrado (prompts) |
+| **Flota Diseñada (último look)** | **L510** | 🟢 ~410 únicos |
+| **Último batch** | **L501-L510 "El Altar de Vinilo"** (wedding fetish · 10 novias 1/arquetipo: Ivory Boudoir · White HF · Blush Pin-Up · Black-Widow Escort · Champagne Domestic · Blue Nightclub · Crimson Stripper · Silver Corporate · Pearl Bikini · Black Bondage Lencería · velo en todas · SIN guantes · Lencería ×2) | 👰 Registrado (prompts) |
+| **Penúltimo batch** | **L491-L500 "El Quinto Centenar"** (10 gemas, HITO 500) + **L471-L490 Hooters Multiverso** (20 looks) | 💎 Registrado (prompts) |
 | **Materialización L441-L470 (parcial vía app)** | 7/7: **L443, L445, L458, L460, L461** · 5-6/7: L444, L446, L457, L459 · resto solo standing · L471-490 0/7 | 🟡 En curso vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |

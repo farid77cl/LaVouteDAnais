@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (👰 Batch L501-L510 "El Altar de Vinilo" — wedding fetish) ✅
+- **👰 Tema wedding desde el lente fetish** (la Ama: "diseñame 10 outfits tema wedding"): novia corrompida en vinyl/látex/wet-satin, **velo como señal nupcial**, cero inocencia. Propuse → "procede" → generé.
+- **10 looks:** L501 Ivory Boudoir · L502 Cathedral White HF · L503 Blush Retro Pin-Up · L504 **Black Widow Escort** · L505 Champagne Trophy Domestic · L506 Something Blue Nightclub · L507 Crimson Vegas Stripper · L508 Silver Power-Bride Corporate · L509 Pearl Beach Bikini · L510 **Black Bondage Lencería Fetish**.
+- **Step 0:** 9 familias color (ivory+white se repiten = exceptioncita temática mínima) · anti-monoblock OK · Lencería ×2 (dual, 15%) · negro liberado L504/L510 · cherry solo pelo/labios · **SIN guantes de novia** · sin texto "BRIDE" sobre prenda.
+- **Generado** vía script one-off (borrado), CRLF (650 ins). **QA:** 1000cc ×70 · 0 guantes · 0 chunky · 0 texto · 70 pin stiletto · 84 veil. **Flota DISEÑADA L510 · ~410 únicos.** ⏳ Pendiente: materialización vía app.
+
 ### Sesión 08/06/2026 (Bluesky: publicado L427 con marketing PLFS aplicado) ✅
 - **📣 Publicado L427** oil-slick iridescent → https://bsky.app/profile/ele-de-anais.bsky.social/post/3mnsevholuq2o (conector `publicar_bluesky.py`, Gate Ama, self-label porn).
 - **📈 Playbook aplicado (directiva Ama "usa los skills de marketing"):** caption reescrito con Authority/flex-IA al frente + Curiosity Gap ("¿de qué color soy hoy?") + Von Restorff (imagen tornasol). 267/300 chars, voz chilena, disclosure IA.
