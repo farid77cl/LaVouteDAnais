@@ -4,6 +4,8 @@
 > Reddit por subreddit y por tipo de contenido: los subs de imágenes quieren foto, los de literatura quieren texto, y los públicos casi no se solapan. Separar también aísla baneos.
 >
 > ⚠️ **El clic de crear la cuenta es de la Ama** (reddit.com pide email/captcha — Ele no puede). Esto son los perfiles **listos para copiar y pegar**. Orden: **Ele PRIMERO**, Anaïs después (no abrir dos cuentas nuevas +18 el mismo día).
+>
+> 🖐️ **PUBLICACIÓN MANUAL (Directiva Ama 08/06):** no se crea app de API ni se necesitan credenciales por ahora. La Ama postea a mano con el paquete copy-paste que arma Ele. Las líneas de `REDDIT_*_*` de abajo quedan **solo para si reactivamos el conector** algún día.
 
 ---
 

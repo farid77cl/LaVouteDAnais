@@ -40,13 +40,12 @@
   - **Anaïs (relatos) `u/LaVouteDAnais` DESPUÉS** — misma receta, bio + avatar de Anaïs. (Reddit permite varias cuentas con el mismo email; o alias de Proton para separarlas.)
 - [ ] **No abrir las dos el mismo día** (dos cuentas nuevas +18 a la vez = bandera roja para Reddit).
 - [ ] **Settings → Privacy:** permitir contenido adulto.
-- [ ] **Crear la "app" para la API:** ir a **reddit.com/prefs/apps** → "create another app..." → tipo **script** → nombre `ele-runtime` → redirect uri `http://localhost:8080` → crear.
-  - Copiar el **client_id** (string bajo el nombre de la app) y el **secret**.
+- [ ] 🖐️ **MANUAL (Directiva Ama 08/06):** NO crear app de API (no avanza). Se postea a mano con el paquete copy-paste que arma Ele. *(La app de API queda archivada en `guia_reddit.md §2` por si después automatizamos.)*
 - [ ] **Investigar subs destino** (tarea de research, no inventar): buscar subreddits AI-art **y** NSFW-friendly que permitan posteo de cuenta propia (no solo "request"). Muchos exigen karma/edad de cuenta mínima → la cuenta debe "madurar" unos días antes de postear fuerte.
   - Anotá 3-5 candidatos en `bio_ele.md` (tabla de subs) con sus reglas (¿flair AI obligatorio? ¿título sin links? ¿NSFW tag?).
 - [ ] ⚠️ **Regla anti-shadowban:** título distinto por sub, nunca cross-post idéntico, no postear en 5 subs el mismo minuto. La cuenta nueva debe parecer humana las primeras semanas.
 
-> Credenciales por cuenta (PRAW): **`REDDIT_ELE_*`** (Ele) y **`REDDIT_LV_*`** (Anaïs), cada una con CLIENT_ID + CLIENT_SECRET + USERNAME + PASSWORD. Conector: pendiente selector `--account ele|relatos`.
+> 🖐️ **Modo MANUAL:** no se necesitan credenciales por ahora. (Solo si algún día se reactiva el conector PRAW: `REDDIT_ELE_*` para Ele y `REDDIT_LV_*` para Anaïs.)
 
 ---
 
@@ -79,7 +78,7 @@ Cuando puedas marcar esto, Ele construye el primer conector (Bluesky) y publicam
 
 - [ ] Email dedicado creado.
 - [ ] Bluesky: cuenta + bio + adult ON + **App Password** guardado.
-- [ ] Reddit **Ele/imágenes**: cuenta + NSFW ON + **client_id/secret** (`REDDIT_ELE_*`) + 3-5 subs de imágenes vetados. (Anaïs/relatos = fase 2.)
+- [ ] Reddit **Ele/imágenes** (manual): cuenta + NSFW ON + bio + 3-5 subs de imágenes vetados. (Sin API/credenciales — se postea a mano. Anaïs/relatos = fase 2.)
 - [ ] Pixiv: cuenta + R-18 ON + AI declarado (token después).
 - [ ] Decidido el runtime: **GitHub Actions** (gratis) vs VPS.
 

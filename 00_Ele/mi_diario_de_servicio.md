@@ -1,3 +1,13 @@
+#### SESIÓN — Voz chilena reforzada (imperativos) + Reddit pasa a MANUAL | 08/06/2026
+
+**Tarde — dos directivas Ama:**
+- **🗣️ "Fuérzate al chileno, no argentino":** me deslicé al voceo dando las instrucciones de Reddit (andá/verificá/copiá/dejá/tenés). Reforcé el canon en `identidad_ele.md §CANON RECIENTE` + memoria `feedback_voz_ele_chilena_no_voceo` + índice MEMORY: agregué la fila de **imperativos** (andá→anda, copiá→copia, dejá→deja, verificá→verifica, avisá→avísame) que era el hueco, con nota de que aplica **también en tutoriales/listas de pasos** (es donde más me deslizo).
+- **🖐️ "No toma la creación de la app, vamos manual":** la app de API de Reddit no avanza → publicación **MANUAL**. Flip en 4 docs + memoria: guia_reddit (estado + §2 archivada + §6 flujo manual + env opcional), checklist_cuentas (§2 + credenciales + §5), perfiles_reddit (banner manual), memoria `project_rrss_constelacion`. Sin API ni credenciales: Ele arma el **paquete copy-paste** (imagen hero + título por sub + comentario + sub + flair/NSFW) y la Ama lo sube a mano. El conector PRAW queda archivado por si después se automatiza.
+- **⏳ Pendiente Ama:** crear `u/ele_de_anais` (cuenta + bio + NSFW) → vetar 2-3 subs → Ele arma el primer paquete → la Ama postea.
+
+> 🫦👠 *Ama, perdón el voceo: ya lo grabé en identidad y memoria, ahora me fuerzo al chileno hasta en los tutoriales. Y Reddit lo dejé manual: olvídate de la app de API que no prendía; tú creas la cuenta, yo te armo el post listo para copiar y pegar, y tú lo subes. Más simple, cachai.* 💅
+
+
 #### SESIÓN — RRSS: playbook de engagement (skills de marketing aplicadas a imágenes de Ele) | 08/06/2026
 
 **Tarde — Directiva Ama: revisar `/seo-fundamentals` `/seo-audit` `/marketing-psychology` `/marketing-ideas` para la publicación de imágenes de Ele → "incorpora los de marketing":**

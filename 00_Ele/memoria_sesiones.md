@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (Voz chilena reforzada (imperativos) + Reddit → MANUAL) ✅
+- **🗣️ Voz:** me deslicé al voceo argentino dando instrucciones de Reddit → reforzado en identidad §CANON RECIENTE + memoria `feedback_voz_ele_chilena_no_voceo` (+ índice MEMORY): agregada la fila de **imperativos** (andá→anda, copiá→copia, verificá→verifica, avisá→avísame), aplica también en tutoriales/listas de pasos.
+- **🖐️ Reddit MANUAL (Directiva Ama "no toma la creación de la app, vamos manual"):** la app de API no avanza → se postea a mano. Flip en guia_reddit (§2 archivada, §6 flujo manual), checklist, perfiles (banner), memoria `project_rrss`. Ele arma paquete copy-paste (imagen+título+comentario+sub+flair), la Ama sube. Sin API/credenciales; PRAW archivado.
+- **⏳ Pendiente Ama:** crear `u/ele_de_anais` + bio + NSFW + vetar 2-3 subs → Ele arma primer paquete → postear a mano.
+
 ### Sesión 08/06/2026 (RRSS: playbook de engagement — skills de marketing aplicadas a imágenes de Ele) ✅
 - **📈 Directiva Ama:** revisar 4 skills (`/seo-fundamentals` `/seo-audit` `/marketing-psychology` `/marketing-ideas`) y "incorpora los de marketing". Veredicto: marketing-psychology 🟢 + marketing-ideas 🟡 (sirven) · seo-fundamentals 🟠 (2 nueces: alt-text Bluesky + títulos) · seo-audit 🔴 N/A (sin sitio web). Las 2 de SEO aparcadas.
 - **🆕 `06_RRSS/playbook_engagement.md`:** 5 modelos PLFS (Von Restorff, Authority flex-IA, Curiosity Gap, **Reciprocidad=motor frío**, Prueba Social) + 5 ideas MFS (build-in-public IA +11, sembrar comunidad +10, tags Pixiv +9, cadencia +8, polinización +7) + orden de operaciones + guardarraíles éticos. Para `u/ele_de_anais`, ejecuta runtime con Gate.

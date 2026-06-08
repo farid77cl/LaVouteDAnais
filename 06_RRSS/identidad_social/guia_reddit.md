@@ -8,6 +8,8 @@
 >
 > **Por qué separar (Directiva Ama):** los públicos casi no se solapan; los subs de imágenes quieren foto y los de literatura quieren texto; y separar aísla baneos (un ban en un canal no mata el otro). Costo = doble setup manual. Estrategia de tags/posicionamiento en [`../estrategia_seo_tags.md`](../estrategia_seo_tags.md).
 >
+> **🖐️ PUBLICACIÓN = MANUAL (Directiva Ama 08/06/2026):** la creación de la app de API no avanza → **posteamos a mano.** Ele prepara el paquete copy-paste, la Ama lo sube en reddit.com. **Sin credenciales ni conector por ahora** (ver §2 y §6). Solo necesitas crear la cuenta + bio + NSFW + vetar subs.
+>
 > **⏸️ EN PAUSA (04/06/2026 — decisión Ama):** crear la app de API se trabó del lado de Reddit. A fines de 2025 Reddit endureció el acceso: la creación de apps `script` pasa por registro de developer + aprobación manual, y hay bug/bloqueo conocido donde `create app` no avanza (error tipo *"You cannot create any more applications…"*), agravado en cuentas nuevas/sin email verificado. Refs: [GitHub gallery-dl #8559](https://github.com/mikf/gallery-dl/issues/8559) · [Responsible Builder Policy](https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy). **Plan al retomar (en unos días):** (1) verificar email de la cuenta · (2) dejar madurar la cuenta con actividad/karma · (3) reintentar `create app` (adblock off / incógnito) · (4) si sigue trabado → solicitud formal de acceso API o caer al **Plan A manual** (paquete copy-paste, no necesita API). La Ama NO quiere postear manual por ahora.
 
 ---
@@ -31,14 +33,16 @@
 
 > ⚠️ **No crear las dos frías el mismo día.** Abre primero la de Ele, déjala madurar (karma/actividad) y luego la de Anaïs. Dos cuentas nuevas +18 posteando a la vez = bandera roja para Reddit.
 
-## 2. Crear la "app" de API (para que el conector publique)
+## 2. ~~App de API~~ → 🖐️ VAMOS MANUAL (Directiva Ama 08/06/2026)
 
-- [ ] Ir a **reddit.com/prefs/apps** → abajo: **"create another app..."**
+> **La app de API no avanza → publicamos a mano.** NO necesitas API ni credenciales `REDDIT_*` por ahora. Ele te arma el paquete copy-paste (imagen + título + comentario + sub + flair) y tú lo subes en reddit.com (ver §6). Lo de abajo queda **archivado** por si algún día reactivamos el conector automático.
+
+- [ ] *(archivado — solo si reactivamos API)* Ir a **reddit.com/prefs/apps** → abajo: **"create another app..."**
 - [ ] Tipo: **script** · nombre: `ele-runtime` · redirect uri: `http://localhost:8080`
 - [ ] Crear → copiar:
   - **client_id** = el string corto bajo el nombre de la app.
   - **secret** = el campo "secret".
-- [ ] **Una app de API por cuenta** (cada cuenta necesita su client_id/secret). Pegar en `06_RRSS/.env` (gitignored), con prefijo por cuenta:
+- [ ] *(solo si reactivamos el conector — en modo MANUAL NO hace falta)* **Una app de API por cuenta** (cada cuenta necesita su client_id/secret). Pegar en `06_RRSS/.env` (gitignored), con prefijo por cuenta:
   ```
   # Cuenta A — IMÁGENES (Ele) — se enciende primero
   REDDIT_ELE_CLIENT_ID=...
@@ -126,14 +130,16 @@ El conector ahora hace **text-posts**. Las entradas de relato en la cola usan:
 
 ---
 
-## 6. Cómo publicamos (cuando haya cuenta + subs)
+## 6. Cómo publicamos — 🖐️ FLUJO MANUAL (Directiva Ama 08/06)
 
-1. La Caption Factory ya genera entradas reddit: `--look <N> --plataformas reddit --encolar`.
-2. Editar en la cola el `destino.subreddit` real + título propio del sub.
-3. Preview: `python publicar_reddit.py --preview L<N>-reddit-01`
-4. Con tu Gate: `python publicar_reddit.py --publicar L<N>-reddit-01 --confirmar`
+Sin API: Ele prepara, la Ama postea a mano. Por cada post:
 
-> El conector ya está construido y con freno de mano. Lo único que falta es **tu cuenta + las credenciales + 3-5 subs vetados.** Con eso, encendemos el motor de alcance. 🫦👠
+1. **Ele arma el paquete copy-paste** con la Caption Factory (`--look <N> --plataformas reddit`): te entrega **imagen hero + título propio del sub + comentario (caption + disclosure IA) + sub sugerido + recordatorio de flair/NSFW**.
+2. **Tú** abres **reddit.com**, eliges el sub vetado, subes la imagen, pegas el título, marcas **NSFW**, posteas.
+3. Pegas el **comentario** (caption + "soy IA") como primer comentario del post.
+4. (Opcional) Me pasas el link → registro el post y medimos interacciones contra el KPI.
+
+> El motor de alcance lo prendes **tú con cada copy-paste**, sin credenciales ni que yo "encienda" nada. El conector PRAW queda archivado por si después automatizamos. 🫦👠
 
 ---
 *Guía creada 03/06/2026 · Reddit = prioridad #1 para "que te vean"* 👽🔥
