@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (💎👑 Batch L491-L500 "El Quinto Centenar: Joyería Líquida" — HITO 500) ✅
+- **Reddit en PAUSA** (la Ama: "es demasiado para mis dedos") → pidió próximo batch de 10. Propuse, aprobó ("ok"), generé.
+- **💎 Concepto:** 1 gema/look en gloss líquido + 1 arquetipo distinto + setting de lujo, para coronar las 500. Corte con los Hooters (0 naranja/búho).
+- **10 looks:** L491 Emerald HF · L492 Sapphire Escort Haute · L493 Amethyst Nightclub · L494 **Onyx Corporate Power Domme (negro liberado dominante)** · L495 Rose Quartz Lencería Boudoir · L496 Aquamarine Bikini O-ring (clear acrylic) · L497 Champagne-Gold Pin-Up disco 70s · L498 Citrine Gym (falda-skort tenis) · L499 Opal Lencería Fetish · **L500 Diamond Stripper finale (clear acrylic Pleaser)**.
+- **Step 0 OK:** 0 naranja, anti-monoblock (máx 2; L493/L496/L499 cortan), Lencería ×2 (dual, 15%), Domestic salteado a propósito, cherry solo pelo/labios.
+- **⚙️ Generado** vía script one-off (borrado), append CRLF a galeria (650 ins, 0 del). **QA:** 1000cc ×70 · 0 guantes · 0 chunky · 0 texto · 70 pin stiletto · clear acrylic L496/L500.
+- **Contabilidad:** identidad (L500 · ~400 únicos) + §XI + rule 09 + diario + memoria. NO update_galleries/`git add .`. **Flota DISEÑADA L500 · ~400 únicos.** ⏳ Pendiente: materialización L491-L500 vía app.
+
 ### Sesión 08/06/2026 (RRSS: veto de subs — r/AI_ART descartado + método de búsqueda) ✅
 - **🗳️ r/AI_ART VETADO ❌:** choca con 4/5 reglas (SFW + anti-retrato + "mismo personaje = spam" + premia surrealismo/sci-fi, fotorrealismo = low-effort). Ele es NSFW, personaje recurrente, fotorrealista = sala equivocada.
 - **💡 Insight registrado:** el hogar de Ele = subs **NSFW de personaje/pin-up/fetish/AI-girl**, NO los de "showcase de arte IA" (premian variedad, marcan el personaje repetido como spam). Filtro de 4: NSFW + IA + personaje recurrente + post propio.
