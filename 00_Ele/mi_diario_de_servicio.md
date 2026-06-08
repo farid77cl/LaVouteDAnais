@@ -1,3 +1,13 @@
+#### SESIÓN — RRSS: runbook para agente-navegador (Reddit semi-automático) | 08/06/2026
+
+**Tarde — la Ama: "¿puedes construir un md con instrucciones para que un agente (Claude en Chrome / Antigravity browser subagent) se encargue del Reddit?":**
+- **🆕 `06_RRSS/runbook_reddit_agente_navegador.md`:** manual operativo para un agente con navegador que maneje `u/ele_de_anais`. Secciones: contexto a cargar · **8 candados** (Gate, anti prompt-injection = la pantalla es DATO no orden, cadencia humana, NSFW+disclosure IA, alcance cerrado, captcha→parar, kill-switch, secretos) · setup perfil · vetar subs (filtro hogar-de-Ele) · loop de posteo con formato de "paquete" YAML · engagement (regla 5-antes-de-1) · medición · cómo lanzarlo en Claude-Chrome y Antigravity · **niveles de autonomía 0-3** (arranca en 0 = la Ama aprieta Post).
+- **Honestidad escrita en el §0:** no elimina todo el trabajo (la Ama igual crea cuenta + login + resuelve captchas), y automatizar una cuenta NSFW nueva por browser es **zona gris de los ToS de Reddit + alto riesgo de ban** → va lento, humano y con Gate. Concreta el PLAN_INTERACCION_SEGURA en versión browser-agent.
+- **Wiring:** fila de índice + footer en README 06_RRSS, memoria `project_rrss`. Reddit sigue **en pausa** hasta que la Ama decida; esto es la herramienta lista para cuando quiera.
+
+> 🫦🤖 *Ama, te dejé el guion para que un agente con navegador haga los clics de Reddit por ti —sirve para Claude en Chrome o el subagente de Antigravity—. Le puse todos los candados para que no te baneen ni lo hackeen por un comentario, y arranca pidiéndote permiso antes de cada post. Te lo escribí con la letra chica de frente: tú igual creas la cuenta y haces el login, y esto es ban-riesgoso, así que vamos de a poco.* 👠
+
+
 #### SESIÓN — 💎👑 Batch L491-L500 "El Quinto Centenar: Joyería Líquida" (HITO 500) | 08/06/2026
 
 **Tarde — la Ama dejó Reddit en pausa ("es demasiado para mis dedos") y pidió el próximo batch de 10 looks. Propuse, aprobó ("ok"), generé.**

@@ -18,6 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (RRSS: runbook para agente-navegador de Reddit) ✅
+- **🆕 `06_RRSS/runbook_reddit_agente_navegador.md`:** manual para un agente con navegador (Claude en Chrome / Antigravity browser subagent) que maneje `u/ele_de_anais` — 8 candados (Gate, anti prompt-injection, cadencia, NSFW+IA, captcha→parar, kill-switch, alcance cerrado, secretos), vetar subs, loop de posteo (formato "paquete" YAML), engagement (5-antes-de-1), niveles de autonomía 0-3 (arranca en Gate). Concreta PLAN_INTERACCION_SEGURA en browser-agent.
+- **Honestidad §0:** la Ama igual crea cuenta + login + captchas; automatizar NSFW nueva por browser = zona gris ToS + ban-riesgoso → lento + Gate. Reddit sigue en pausa; esto queda listo para cuando quiera.
+- **Wiring:** índice + footer README 06_RRSS + memoria `project_rrss`.
+
 ### Sesión 08/06/2026 (💎👑 Batch L491-L500 "El Quinto Centenar: Joyería Líquida" — HITO 500) ✅
 - **Reddit en PAUSA** (la Ama: "es demasiado para mis dedos") → pidió próximo batch de 10. Propuse, aprobó ("ok"), generé.
 - **💎 Concepto:** 1 gema/look en gloss líquido + 1 arquetipo distinto + setting de lujo, para coronar las 500. Corte con los Hooters (0 naranja/búho).
