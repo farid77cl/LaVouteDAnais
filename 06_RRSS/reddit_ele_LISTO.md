@@ -12,6 +12,18 @@
 
 ---
 
+## ✅ RESULTADO EXPLORACIÓN #1 (08/06/2026 — el agente reportó 3 subs)
+
+| Sub | Veredicto | Detalle |
+|---|---|---|
+| **r/sdnsfw** | ✅ **SIRVE — primer disparo** | ~296.8k · público · permite **IA + OC** · **sin flair** obligatorio · sin karma/límite. El mejor primer sub. |
+| **r/aiporn** | 🟡 con candado (fase 2) | ~73.6k · **restringido**: hay que mandar **3 imágenes a los mods por modmail** y que aprueben antes de postear. Sirve, pero después. |
+| **r/Sexyaiart** | ❌ baneado | sin moderar → Reddit lo cerró. Descartado. |
+
+**→ PRIMER POSTEO: Paquete B (L458 Holographic Diamond) en `r/sdnsfw`.** Es NSFW + flexea lo que la IA puede hacer (ideal para un sub de Stable Diffusion). Brief de posteo para el agente: ver abajo en el chat / sección "Orden de disparo".
+
+---
+
 # PASO 1 — Explorar y vetar subs (lo ejecuta el agente / la Ama)
 
 ### Candidatos priorizados (a VERIFICAR — pueden estar muertos o haber cambiado reglas)
