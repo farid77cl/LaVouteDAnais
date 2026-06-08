@@ -48,35 +48,35 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ⏳ **Look 197 (Wine Velvet Nocturne):** 9/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 198 (Turquoise Court Volley):** 9/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 199 (Gold-Lime Showgirl Armor):** 9/7 Poses (Materializado parcial) ⏳.
-- ✅ **Look 200 (Iridescent Vow):** 7/7 Poses ✅.
-- ✅ **Look 201 (Alabaster Power):** 7/7 Poses ✅.
-- ⏳ **Look 202 (Indigo Mirage):** 4/7 Poses (Materializado parcial) ⏳.
+- ✅ **Look 200 (Iridescent Vow):** 2/7 Poses ✅.
+- ✅ **Look 201 (Alabaster Power):** 2/7 Poses ✅.
+- ⏳ **Look 202 (Indigo Mirage):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 203 (Violet Venom):** 2/7 Poses (Materializado parcial) ⏳.
-- ✅ **Look 250 (Burgundy Yoga Room Trophy):** 7/7 Poses ✅.
-- ✅ **Look 251 (Champagne Playboy Bunny Canon):** 7/7 Poses ✅.
+- ✅ **Look 250 (Burgundy Yoga Room Trophy):** 4/7 Poses ✅.
+- ✅ **Look 251 (Champagne Playboy Bunny Canon):** 2/7 Poses ✅.
 - ⏳ **Look 252 (Holographic Bad Kitty):** 3/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 253 (Acid Yellow Y2K Denim Strip):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 254 (Mint Pastel Sweater Girl 50s):** 2/7 Poses (Materializado parcial) ⏳.
-- ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 7/7 Poses ✅.
-- ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 7/7 Poses ✅.
-- ⏳ **Look 280 (Champagne Gold Tea Ceremony):** 1/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 5/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 282 (Studded Biker Pole Predator):** 1/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 283 (Crimson Leather Rock Domme):** 1/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 284 (Black Leather Mini Concert Doll):** 1/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 285 (Cherry Red Rockabilly Greaser):** 1/7 Poses (Materializado parcial) ⏳.
+- ✅ **Look 256 (Blush Nude Boudoir Robe La Perla):** 2/7 Poses ✅.
+- ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 2/7 Poses ✅.
+- ⏳ **Look 280 (Champagne Gold Tea Ceremony):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 2/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 282 (Studded Biker Pole Predator):** 2/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 283 (Crimson Leather Rock Domme):** 2/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 284 (Black Leather Mini Concert Doll):** 2/7 Poses (Materializado parcial) ⏳.
+ - ⏳ **Look 285 (Cherry Red Rockabilly Greaser):** 2/7 Poses (Materializado parcial) ⏳.
  - ⏳ **Look 286 (Joan Jett Glam Rock Carpet):** 0/7 Poses (Pendiente) ⏳.
-- ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 7/7 Poses ✅.
-- ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
-- ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
-- ✅ **Look 290 (Studded Boxing Rock WOD):** 7/7 Poses ✅.
-- ⏳ **Look 204 (Emerald Bandcage):** 3/7 Poses (Materializado parcial) ⏳.
+- ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 2/7 Poses ✅.
+- ✅ **Look 288 (Oxblood Croco Rock Housewife):** 2/7 Poses ✅.
+- ✅ **Look 289 (Black Leather Motocross Athleisure):** 2/7 Poses ✅.
+- ✅ **Look 290 (Studded Boxing Rock WOD):** 2/7 Poses ✅.
+- ⏳ **Look 204 (Emerald Bandcage):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 205 (Obsidian Gold Idol):** 2/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 206 (Crimson Cathedral):** 3/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 207 (Copper Hearth Doll):** 3/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 206 (Crimson Cathedral):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 207 (Copper Hearth Doll):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 208 (Teal Sirène Obi):** 2/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 209 (Rose Gold Strap Idol):** 3/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 3/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 209 (Rose Gold Strap Idol):** 2/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 210 (Coral Sweetheart Bombshell):** 2/7 Poses (Materializado parcial) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 ---
