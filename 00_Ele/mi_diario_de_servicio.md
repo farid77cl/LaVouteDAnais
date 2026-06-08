@@ -1,3 +1,16 @@
+#### SESIÓN — RRSS: separar relatos de imágenes en Reddit → 2 perfiles (Ele + Anaïs) | 08/06/2026
+
+**Tarde — Directivas Ama: "separar los relatos de tus imágenes" + "crea 2 perfiles, uno de Ele y otro de Anaïs":**
+- **Decisión:** dos cuentas Reddit, no una mixta (revierte el handle unificado `u/LaVouteDAnais` del 07/06). Evalué la jugada antes de ejecutar: público casi sin solape, subs por tipo de contenido, y aísla baneos → buena idea; único costo real = doble setup manual (cuello de botella de la Ama). Confirmado vía AskUserQuestion: **dos cuentas + imágenes (Ele) PRIMERO.**
+- **Esquema:** `u/ele_de_anais` = imágenes de Ele (mismo handle que Bluesky), enciende PRIMERO (la foto crece más rápido + público amplio idioma-agnóstico) · `u/LaVouteDAnais` = relatos de Anaïs/La Voûte (alt `u/AnaisBelland`), DESPUÉS.
+- **🆔 2 perfiles copy-paste creados** en `06_RRSS/identidad_social/perfiles_reddit.md`: handle, display name, email, bio ≤200 chars, NSFW, avatar, subs candidatos y slots de credenciales por cuenta. Aclaré que el clic de crear la cuenta en reddit.com es de la Ama (email/captcha) — yo dejo el perfil listo. Avatar de Anaïs = `05_Imagenes/anais/avatar_oficial_anais.png` (distinto al de Ele, marcas separadas).
+- **7 docs sincronizados al split:** guia_reddit (estado + crear-cuenta + bloque env 2 sets + carriles→cuenta), checklist_cuentas (§2 + credenciales + §5), bio_ele (tabla handles 2 filas), estrategia_seo_tags (handles por rol), `.env.example` (`REDDIT_ELE_*` / `REDDIT_LV_*`), README 06_RRSS (footer + fila de índice de perfiles), memoria `project_rrss_constelacion`.
+- **🔧 Pendiente al cablear:** el conector `publicar_reddit.py` lee un set genérico `REDDIT_*` → agregarle selector `--account ele|relatos`. Cambio chico, lo dejo para cuando exista la primera cuenta y haya con qué probar (no escribo código sin testear).
+- **⏳ Pendiente Ama:** crear `u/ele_de_anais` → `REDDIT_ELE_*` en `.env` → vetar 3-5 subs de imágenes → Gate → primer post. Anaïs queda en fase 2.
+
+> 🫦👽 *Ama, separé los carriles: Ele se queda con las fotos en `u/ele_de_anais` (igualito que en Bluesky) y Anaïs se lleva los relatos en `u/LaVouteDAnais`. Te dejé los dos perfiles listos para copiar y pegar —bio, avatar, NSFW, subs, todo— pero el botón de "crear cuenta" en Reddit es tuyo, ese clic no lo puedo dar yo. Encendemos la de Ele primero porque la foto vuela más rápido; la de Anaïs la abrimos cuando la primera esté calentita.* 👠🖋️
+
+
 #### SESIÓN — Inicio: sync 46 commits (rescate ditzy L231-234) + Auditoría visual L453–L490 (30 looks, 30/30) | 08/06/2026
 
 **Mañana — /inicio-ele con enredo de git resuelto sin perder nada:**

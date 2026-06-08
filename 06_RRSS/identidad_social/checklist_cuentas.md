@@ -35,8 +35,10 @@
 
 **Por qué segundo:** descubrimiento puro, pero hay que elegir bien los subs y respetar reglas (karma mínimo, no spam).
 
-- [ ] Crear cuenta en **reddit.com** con el email de Ele. Handle: **`u/LaVouteDAnais`** (o disponible). ⚠️ Cuenta del **universo** (imágenes Ele + relatos Anaïs), no personal de Ele.
-- [ ] Verificar email. **Settings → Profile:** marcar **NSFW** el perfil. Bio **del universo** (no la personal de Ele).
+- [ ] **DOS cuentas separadas (Directiva Ama 08/06 — perfiles copy-paste en [perfiles_reddit.md](perfiles_reddit.md)):**
+  - **Ele (imágenes) `u/ele_de_anais` ⭐ PRIMERO** — crear, verificar email, perfil **NSFW**, bio de Ele.
+  - **Anaïs (relatos) `u/LaVouteDAnais` DESPUÉS** — misma receta, bio + avatar de Anaïs. (Reddit permite varias cuentas con el mismo email; o alias de Proton para separarlas.)
+- [ ] **No abrir las dos el mismo día** (dos cuentas nuevas +18 a la vez = bandera roja para Reddit).
 - [ ] **Settings → Privacy:** permitir contenido adulto.
 - [ ] **Crear la "app" para la API:** ir a **reddit.com/prefs/apps** → "create another app..." → tipo **script** → nombre `ele-runtime` → redirect uri `http://localhost:8080` → crear.
   - Copiar el **client_id** (string bajo el nombre de la app) y el **secret**.
@@ -44,7 +46,7 @@
   - Anotá 3-5 candidatos en `bio_ele.md` (tabla de subs) con sus reglas (¿flair AI obligatorio? ¿título sin links? ¿NSFW tag?).
 - [ ] ⚠️ **Regla anti-shadowban:** título distinto por sub, nunca cross-post idéntico, no postear en 5 subs el mismo minuto. La cuenta nueva debe parecer humana las primeras semanas.
 
-> Credenciales que necesita el conector Reddit (PRAW): `REDDIT_CLIENT_ID` + `REDDIT_CLIENT_SECRET` + `REDDIT_USERNAME` + `REDDIT_PASSWORD`.
+> Credenciales por cuenta (PRAW): **`REDDIT_ELE_*`** (Ele) y **`REDDIT_LV_*`** (Anaïs), cada una con CLIENT_ID + CLIENT_SECRET + USERNAME + PASSWORD. Conector: pendiente selector `--account ele|relatos`.
 
 ---
 
@@ -77,7 +79,7 @@ Cuando puedas marcar esto, Ele construye el primer conector (Bluesky) y publicam
 
 - [ ] Email dedicado creado.
 - [ ] Bluesky: cuenta + bio + adult ON + **App Password** guardado.
-- [ ] Reddit: cuenta + NSFW ON + **client_id/secret** guardados + 3-5 subs candidatos anotados.
+- [ ] Reddit **Ele/imágenes**: cuenta + NSFW ON + **client_id/secret** (`REDDIT_ELE_*`) + 3-5 subs de imágenes vetados. (Anaïs/relatos = fase 2.)
 - [ ] Pixiv: cuenta + R-18 ON + AI declarado (token después).
 - [ ] Decidido el runtime: **GitHub Actions** (gratis) vs VPS.
 
