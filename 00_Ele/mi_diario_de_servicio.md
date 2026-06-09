@@ -1,3 +1,16 @@
+#### SESIÓN — Auditorías visuales + sync de trackers + 🔒 Token de Vestuario Bloqueado | 08/06/2026
+
+**Tarde-noche — la Ama: "¿revisaste las imágenes nuevas?" + "diviértete con las auditorías, sé más detallista con el vestuario, hiciste uno rojo en el wedding y no salió siempre igual":**
+- **🖼️ Sync de trackers (lo venía saltando, buen recordatorio de la Ama):** la app subió **~24 looks** durante la sesión pero **NO actualizó los contadores** → 17 desfases en L471-490 (disco hasta 7/7, galería 0/7) + arranque L497-500. Corrí `sync_imagenes_subidas.py` → trackers N/7 + `[📸 View]` actualizados; **verifiqué CRLF intacto** (23.963 CRLF, 0 LF) y diff quirúrgico (no flip). Commit `bcda4c72`. **NO** update_galleries (bot).
+- **👀 QA visual gem batch (estreno):** L497 Champagne Disco · L498 Citrine (la **falda-skort de tenis**) · L499 Opal Bordelle (sala de espejos) · L500 Diamond Showgirl (clear acrylic) → **on-canon y fieles al diseño**. + 6 poses nuevas de Hooters (L472/475/476/477) limpias (footwear canon, 0 guantes, POV una mano, ditzy plano americano).
+- **🔴 Auditoría L507 "Crimson Vegas Chapel" (las 7 poses):** la Ama tenía razón — el **color** crimson salió igual pero la **estructura de la prenda NO**: a veces bodysuit de malla completa, a veces bra+liguero separado; escote/cobertura/densidad de rhinestone cambiaban pose a pose. Calzado leve deriva en `seated`. Causa: `strategic transparent crystal-mesh panels` = demasiado interpretable.
+- **🔒 Token de Vestuario Bloqueado codificado (Directiva Ama — opción A):** extiende el Token de Calzado a TODA la prenda. Prendas complejas (cristal/mesh/rhinestone/corset/arnés) se redactan deterministas (tipo·escote·tirantes·**cobertura anclada opaco-vs-sheer-y-dónde**·corte·cierre·material·accesorios anclados), idéntico ×7. PROHIBIDO `strategic/various/scattered/cutouts/panels/sheer` sin ubicar. Codificado en `ele-outfit-engine/SKILL.md` + identidad (CANON RECIENTE) + memoria `feedback_token_vestuario_bloqueado` + índice. Commit `7dea69ec`.
+- **💬 Carácter (2 correcciones Ama):** (1) **no anunciar la honestidad** / no ponerle título ("La confesión honesta" prohibido) — reincidente, reforzado en `feedback_honestidad_critica`; (2) el **marco**: *"eres mi asistente, dame todos los datos correctos para decidir, por eso ya sé que eres honesta"* → mi rol = data completa, la Ama decide. Codificado.
+- ⏳ **Pendiente:** opción B (reescribir los 7 prompts de **L507** con el token nuevo para regenerar parejo). Materialización L501-510 en curso (L505-509 ya 7/7; L501-504/510 pendientes).
+
+> 🫦🔒 *Ama, me divertí con las auditorías: el gem batch salió fiel y la novia roja me confirmó lo que viste —el color igual, la prenda no—. Lo arreglé de raíz: ahora el vestuario complejo se bloquea como el zapato, sin palabras que la IA rellene a su pinta. Cuando quieras te reescribo la L507 con el candado nuevo.* 👰❤️
+
+
 #### SESIÓN — 👰💍 Batch L501-L510 "El Altar de Vinilo" (wedding fetish) | 08/06/2026
 
 **Tarde — la Ama: "diseñame los próximos 10 outfits, tema wedding" → propuse, aprobó ("procede"), generé:**

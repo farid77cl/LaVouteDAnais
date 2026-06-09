@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (Auditorías visuales + sync trackers + 🔒 Token de Vestuario Bloqueado) ✅
+- **🖼️ Sync trackers:** la app subió ~24 looks sin actualizar contadores (17 desfases L471-490 + L497-500) → `sync_imagenes_subidas.py` (CRLF intacto, diff quirúrgico, commit). NO update_galleries.
+- **👀 QA gem batch (estreno):** L497/498/499/500 on-canon y fieles (falda-skort L498, clear acrylic L500, sala espejos L499) + 6 poses Hooters nuevas limpias.
+- **🔴 Auditoría L507 crimson:** color igual pero **estructura de prenda variaba** pose a pose (bodysuit-mesh vs bra+liguero). Causa: `strategic crystal-mesh panels` interpretable.
+- **🔒 Token de Vestuario Bloqueado (Directiva Ama, opción A):** prendas complejas deterministas, idéntico ×7, PROHIBIDO `strategic/various/cutouts/panels/sheer` sin ubicar; anclar opaco-vs-sheer-y-dónde. Codificado SKILL + identidad + memoria `feedback_token_vestuario_bloqueado`.
+- **💬 Carácter:** no anunciar la honestidad (reincidente, "La confesión honesta" prohibido) + marco "asistente da la data completa, la Ama decide" → `feedback_honestidad_critica`.
+- ⏳ **Pendiente:** reescribir L507 con el token nuevo (opción B). Materialización L501-510 en curso. **Flota L510 · ~410 únicos.**
+
 ### Sesión 08/06/2026 (👰 Batch L501-L510 "El Altar de Vinilo" — wedding fetish) ✅
 - **👰 Tema wedding desde el lente fetish** (la Ama: "diseñame 10 outfits tema wedding"): novia corrompida en vinyl/látex/wet-satin, **velo como señal nupcial**, cero inocencia. Propuse → "procede" → generé.
 - **10 looks:** L501 Ivory Boudoir · L502 Cathedral White HF · L503 Blush Retro Pin-Up · L504 **Black Widow Escort** · L505 Champagne Trophy Domestic · L506 Something Blue Nightclub · L507 Crimson Vegas Stripper · L508 Silver Power-Bride Corporate · L509 Pearl Beach Bikini · L510 **Black Bondage Lencería Fetish**.
