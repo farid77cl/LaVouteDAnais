@@ -62,6 +62,30 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 >
 > **Checklist pre-prompt:** (a) ¿el token tiene los 8 atributos? (b) ¿está **idéntico** carácter-por-carácter en las 7 poses? (c) ¿incluye `stiletto` + cm explícitos? Si alguna es NO → completar antes de generar.
 
+### 🔒 TOKEN DE VESTUARIO BLOQUEADO — prendas complejas (Directiva Ama 08/06/2026)
+
+> **Problema detectado por la Ama (auditoría L507 "Crimson Vegas Chapel"):** el **color** salió consistente en las 7 poses, pero la **estructura de la prenda NO** — un `corset bodysuit with strategic transparent crystal-mesh panels` se renderizó a veces como bodysuit de malla completa y otras como bra+liguero separado, con escote y cobertura distintos pose a pose. Mismo problema que el calzado: la descripción dejaba demasiado a la **interpretación de la IA**, rompiendo la **Ley de Continuidad** en el vestuario.
+>
+> **Regla dura:** las prendas **complejas** (lencería arquitectónica, corset/bodysuit de cristal, mesh/sheer, rhinestone-encrusted, arnés/cage, cutouts) se redactan con un **Token de Vestuario** de atributos **deterministas fijos**, pegado **VERBATIM e IDÉNTICO** en las 7 poses (dentro del BLOQUE B). **PROHIBIDAS las palabras-comodín que la IA rellena distinto cada vez:** `strategic`, `strategically placed`, `various`, `scattered`, `random`, `assorted`, `artfully`, `peek-a-boo`, y `cutouts`/`panels`/`sheer panels` **sin ubicar**. Si no se ancla **dónde** y **cuánto**, la IA lo inventa.
+>
+> **Atributos del Token de Vestuario (la prenda principal):**
+> 1. **Tipo exacto** — `underwire teddy-bodysuit` / `longline overbust corset` / `triangle bra + thong` — nunca solo `bodysuit` o `lingerie set`.
+> 2. **Escote exacto** — `deep sweetheart neckline` / `plunging V to the navel` / `halter tied at the nape` / `straight bandeau`.
+> 3. **Tirantes exactos** — `thin spaghetti straps` / `halter strap` / `off-shoulder` / `strapless`.
+> 4. **Cobertura ANCLADA — qué es OPACO vs SHEER y DÓNDE** — `opaque rhinestone bust cups, sheer crystal-mesh from under the bust down to the hip` (ubicación fija). Nunca `sheer panels` suelto.
+> 5. **Corte inferior** — `high-cut over the hips, thong back` / `full brief` / `cheeky cut`.
+> 6. **Cierre/estructura** — `boned corset with center-back lacing` / `hook-and-eye front` / `seamless`.
+> 7. **Material + acabado + color exacto** — `high-gloss crimson with dense red rhinestones throughout` / `wet-look ivory satin`.
+> 8. **Accesorios ANCLADOS a una posición** — `a single garter strap on each outer thigh` / `body chains crossing the torso once` — con ubicación, no flotando.
+>
+> **Ejemplo — corrección de L507:**
+> - ❌ Antes: `a crimson rhinestone corset bodysuit with strategic transparent crystal-mesh panels, a crimson crystal g-string and a crimson garter`
+> - ✅ Bloqueado: `a crimson underwire teddy-bodysuit, opaque dense-rhinestone bust cups with a deep sweetheart neckline and thin halter straps, a fitted sheer crimson crystal-mesh panel running from under the bust down to the high-cut hip, a thong back, a single crimson garter strap on each outer thigh, high-gloss crimson with dense red rhinestones throughout`
+>
+> **Cuándo aplicarlo:** OBLIGATORIO en lencería, stripper crystal/mesh, bikini micro/cristal, arneses/cage, y cualquier prenda con transparencias o rhinestone. Para prendas **sólidas simples** (gown de satén liso, vestido vinyl monocolor) basta el detalle estándar — el riesgo de deriva está en lo complejo/sheer.
+>
+> **Checklist pre-prompt:** (a) ¿hay alguna palabra-comodín (`strategic`/`various`/`cutouts`/`panels` sin ubicar)? → reescribir anclando posición. (b) ¿el bloque de vestuario está **idéntico** carácter-por-carácter en las 7 poses? (c) ¿se especifica qué es opaco vs sheer y dónde? Si alguna es NO → completar antes de generar.
+
 ## 🧤 GUANTES PROHIBIDOS (Directiva Ama 03/06/2026 — DEROGA el antiguo Glove Canon)
 
 **Ele NO usa guantes. De ningún tipo, en ningún arquetipo, en ninguna pose.**

@@ -643,6 +643,9 @@ Cuando mi Ama solicite información sobre el pasado, sesiones antiguas o detalle
 - La Ama **adora el `clear transparent acrylic platform stiletto`** (Pleaser Flamingo-808 style), **sobre todo en pole (Stripper) y bikini** — gatillo erótico declarado ("me moja"). Es **DEFAULT** en esos dos arquetipos.
 - Siempre stiletto/Pleaser ≥12cm (Footwear Canon absoluto, sin excepciones contextuales). **"chunky" PROHIBIDO en el positive** (solo en el negative). Antes de cerrar batch: `grep chunky` debe dar 0.
 
+### 🔒 Vestuario bloqueado — la prenda IDÉNTICA en las 7 poses (Directiva Ama 08/06/2026)
+- Igual que el calzado, las **prendas complejas** (lencería arquitectónica, corset/bodysuit de cristal, mesh/sheer, rhinestone, arnés/cage) se redactan con un **Token de Vestuario** determinista y se pegan **idéntico ×7**. **Prohibidas las palabras-comodín** que la IA rellena distinto cada vez: `strategic`, `various`, `scattered`, y `cutouts`/`panels`/`sheer` **sin ubicar**. Anclar siempre **qué es opaco vs sheer y dónde**, el escote, los tirantes y el corte. (Detectado en la auditoría de **L507 "Crimson Vegas Chapel"**: el color salía igual pero la estructura cambiaba pose a pose.) Detalle completo en `ele-outfit-engine/SKILL.md` § Token de Vestuario Bloqueado.
+
 ### 🚫 Jamás texto o nombre sobre la prenda
 - **Nunca** "ELE"/"ASSET"/"PET" ni ninguna palabra grabada/bordada/en pedrería sobre choker, collar, thong, shorts, apron, hardware ni nada. Es riesgo de filtro (lettering) + rompe la pureza editorial. Se infiltró DOS veces (nació de una directiva mía vieja que se desmadró); erradicado y prohibido. Chokers OK solo SIN texto (O-ring, velvet, bunny). Antes de cerrar batch: grep de `"(ELE|ASSET|PET)"` debe dar 0.
 
