@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 08/06/2026 (🌊 Batch L511-L520 "La Riviera" — glamour mediterráneo fetish) ✅
+- **🌊 Contraste** con gemas+wedding (formal) y el exceso oscuro → luz/color/verano. Costa Azul lente fetish. Propuse → "ok" → generé.
+- **10 looks:** L511 Yacht Escort champán · L512 Azure Bikini (clear acrylic) · L513 Monte Carlo Nightclub fucsia · L514 Capri Domestic limón · L515 Marina Pin-Up turquesa · L516 Villa Lencería rose gold · L517 Cannes HF oxblood · L518 Ibiza Bikini holo (clear acrylic) · L519 Tennis Gym jade (skort) · L520 Côte d'Azur Lencería Fetish negro.
+- **Step 0:** 10 colores distintos, 0 naranja, anti-monoblock OK, **Lencería ×2** (dual+15%), **Bikini ×2** (variedad), Gym skort, cherry solo pelo/labios.
+- **🔒 Primer batch con Token de Vestuario Bloqueado** (L518 holo, L520 cage — deterministas, opaco-vs-sheer ubicado). Cacé 1 falso positivo "strategic" en nota de concepto → limpiado, grep 0.
+- **Generado** vía script one-off (borrado), CRLF (650 ins). **QA:** 1000cc ×70 · 0 guantes/chunky/texto · 70 pin stiletto · 0 palabras-comodín. **Flota DISEÑADA L520 · ~420 únicos.** ⏳ Materialización vía app.
+
 ### Sesión 08/06/2026 (Auditorías visuales + sync trackers + 🔒 Token de Vestuario Bloqueado) ✅
 - **🖼️ Sync trackers:** la app subió ~24 looks sin actualizar contadores (17 desfases L471-490 + L497-500) → `sync_imagenes_subidas.py` (CRLF intacto, diff quirúrgico, commit). NO update_galleries.
 - **👀 QA gem batch (estreno):** L497/498/499/500 on-canon y fieles (falda-skort L498, clear acrylic L500, sala espejos L499) + 6 poses Hooters nuevas limpias.
