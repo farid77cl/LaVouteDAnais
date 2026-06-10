@@ -41,26 +41,27 @@
   - ❌ Catálogo técnico de cera+tirón+tape+silicona sin sexualización. Cada operación lleva la voz de Valeria + la respuesta del cuerpo.
   - ❌ Noche del babydoll tibia. Sube la temperatura: el cuerpo de Esteban debe responder plenamente y Valeria debe llevarlo al borde explícito (mojado, contracciones, gemido femenino).
 
-### Pivote 3 — Gabriel toma a Estefanía como mujer cualquiera (Cap 2-3)
-- **Qué ocurre:** Estefanía llega a la oficina de Gabriel: un **loft-productora con sets de grabación** (productora de contenido que mueve marcas grandes — espacio industrial-chic glam, cámaras, equipos, luz de set). Gabriel la mira como hombre con verga mira a mujer que le gusta. Eventualmente — Cap 3 — la coge. Sin saber.
-- **Setting fijado (decisión Ama 05/06/2026):** loft-productora con sets de grabación. Detalles ancla de Gabriel: reloj IWC, aroma a cedro, manos grandes que tocan sin pedir permiso. **Camila / recepcionista:** figurante que trata a Estefanía como mujer con total naturalidad (validación externa de que el disfraz funciona).
-- **Coqueteo progresivo (decisión Ama 05/06/2026):** Gabriel coquetea con Estefanía y el coqueteo **escala día a día** (Cap 2: apretón → roces casuales → casi-beso interrumpido; cogida recién en Cap 3). **Ser deseada y tratada como mujer la calienta MÁS que nada** — el deseo de Gabriel es el combustible. **Camila estimula** esa dinámica (le da cuerda, le habla de las conquistas de él, la empuja a dejarse).
-- **Por qué excita:** **ASIMETRÍA SEXUAL HETERO, no BDSM.** Gabriel seduce como cualquier hombre seduce a una mujer. Estefanía está del lado FEMENINO de la ecuación. *"Esa es la verga que coge a Valeria los domingos."* (pensamiento que aterriza en Cap 3, durante la cogida, ya con conocimiento pleno).
-- **Emoción objetivo:** Rendición pre-cognitiva + triangulación con Valeria + anticipación + deseo que crece por ser deseada.
-- **Error fatal:** BDSM con cuero, dominación intimidante, Gabriel-dominatrix. NO. Es seducción natural de hombre con verga. Indiferencia que es seducción.
+> **⚠️ REESTRUCTURACIÓN MAYOR (Ama 10/06/2026): Cap 2 y Cap 3 se FUSIONAN en un solo capítulo.** El capítulo fusionado absorbe el preámbulo, el descubrimiento Y el clímax. Pivotes 3-4-5 reescritos abajo como los tres tramos de ESE capítulo. La cogida de Estefanía por Gabriel se reemplaza por un **trío a sabiendas**. Gabriel ya NO descubre "tarde": descubre DENTRO de este capítulo (Valeria se lo confiesa mientras la coge) y lo usa de inmediato.
 
-### Pivote 4 — Estefanía se entera del amorío Valeria-Gabriel (PISTAS Cap 2 → GOLPE Cap 3) · REORDENADO 05/06/2026
-- **Qué ocurre (CAMBIO):** ya NO es descubrimiento por casualidad. **Valeria misma se lo suelta como humillación** (Cap 3, apertura): le confiesa que es la amante de Gabriel, que él es *"hombre de verdad"*, que *"su verga la hace ver estrellas"*, y que *"Estefanía pronto va a saber lo que es tener una verga adentro."* En el **Cap 2 solo hay pistas** (la nota disonante del Cap 1 crece; ata cabos sin confirmar).
-- **Por qué excita (CAMBIO DE SIGNO):** la humillación, en vez de devastar, **acelera el deseo**. Estefanía empieza a desear a Gabriel cada vez más, **a sabiendas** de que es el amante de su mujer. El cuckold pasa de **carga retroactiva** a **PRE-CARGA** (sabe ANTES de la cogida y por eso la desea más). La humillación es afrodisíaco, no castigo — mismo motor que el *"te dejé un coño"* (la humillación que dobla el calor).
-- **Emoción objetivo:** Deseo creciente + humillación que enciende + rendición voluntaria. **NO devastación.**
-- **Error fatal:** Jugarlo como devastación/drama/histeria. NO — el golpe la prende. Y NO adelantar el golpe entero al Cap 2 (en Cap 2 son **pistas**; el golpe es Cap 3).
-- **⚠️ Nota de arco:** adelantar el descubrimiento deja los **Caps 4-5 sin su clímax original**. **Re-mapear 4-5 cuando aterricen Cap 2 y 3.** El **Pivote 5 (Gabriel se entera de quién es Estefanía) sigue intacto** como cierre del relato.
+### Pivote 3 — El loft, la crema hormonal, y el deseo que crece por VERLO usar mujeres (Cap fusionado — primer tramo)
+- **Qué ocurre:** Estefanía entra al **loft-productora con sets de grabación** (productora que mueve marcas grandes — industrial-chic glam, cámaras, luz de set). **Presentaciones:** Gabriel, Camila/recepcionista. Luego **salto de tiempo de 1-2 semanas (decisión Ama 10/06/2026):** en ese intervalo la **crema con hormonas** (que Valeria le aplica / le obliga a aplicarse) **hace efecto** — el cuerpo se feminiza de VERDAD: pezones hinchados y doloridos, pechos que ya no son puro relleno, piel más fina, líbido volcada al lado femenino, lágrima fácil, el cuerpo más blando y más sensible. La feminización deja de ser disfraz y se vuelve **carne**. En esas semanas Estefanía ve de cerca **cómo Gabriel trata y USA a las mujeres** — modelos, amantes que entran y salen del piso con naturalidad de dueño; lo ve coger, mandar, descartar. Y eso, en vez de asco, **la calienta**: desea que a ELLA la trate igual. En paralelo, **pánico a que la descubra** (la verga bajo el tape, las manos grandes).
+- **Setting/figurantes (fijado 05/06):** loft-productora. Gabriel: reloj IWC, cedro, manos grandes que tocan sin pedir permiso. **Camila** trata a Estefanía en femenino con total naturalidad (validación de que el disfraz funciona) y le da cuerda con las conquistas de Gabriel.
+- **Por qué excita:** deseo por contagio (ver a Gabriel usar mujeres la planta del lado de las usadas) + **ASIMETRÍA SEXUAL HETERO, no BDSM** + la crema hormonal volviendo el cuerpo cómplice + el miedo a ser descubierta como combustible.
+- **Emoción objetivo:** deseo que crece por ver-y-querer-ser-usada + cuerpo que ya cambió + miedo erótico.
+- **Error fatal:** BDSM con cuero, Gabriel-dominatrix. NO. Indiferencia de dueño que es seducción. Y NO resumir la crema/feminización: el cuerpo cambiado se MUESTRA en detalle (los pezones que duelen contra el sostén, el peso nuevo, la humedad fácil).
 
-### Pivote 5 — Gabriel se entera tarde de quién es Estefanía (Cap 5 — clímax cataclísmico)
-- **Qué ocurre:** Gabriel descubre — Valeria se lo dice, un descuido, un objeto en el departamento, lo que el Escritor decida — que Estefanía es Esteban. El marido de Valeria. Después de haberla cogido N veces.
-- **Por qué excita:** El círculo del engaño se cierra. Gabriel descubre que ha sido cómplice involuntario de la cornudización inversa que su propia amante orquestó. Y tiene que decidir qué hacer ahora — y ese qué hacer es el clímax de todo.
-- **Emoción objetivo:** Vértigo final + apertura del próximo arco (qué pasa después de que Gabriel sabe).
-- **Error fatal:** Resolución limpia. NO. El cap cierra en el momento exacto del descubrimiento. Lo que viene después es asunto del lector imaginarlo.
+### Pivote 4 — Estefanía VE a Gabriel cogerse a Valeria, se toca, Gabriel la ve, Valeria confiesa la verdad (Cap fusionado — segundo tramo) · REESCRITO 10/06/2026
+- **Qué ocurre (CAMBIO RADICAL):** el cuckold ya NO se revela por pistas ni por confesión a Estefanía. **Estefanía VE con sus propios ojos a Gabriel cogerse a Valeria** —su esposa— en el loft/departamento. El golpe aterriza POR LOS OJOS. En vez de huir, **se toca como mujer mirándolos** (escondida, en el umbral, la mano bajo la falda, el cuerpo hormonizado respondiendo solo). **Gabriel la ve** masturbándose. Y ahí, mientras Gabriel sigue dentro de Valeria y ya descubrió a la mirona, **Valeria le confiesa la verdad a Gabriel**: que Estefanía es **Esteban, su marido**. El triángulo queda desnudo entre los tres a la vez.
+- **Por qué excita:** ver a su mujer cogida por el amante y **tocarse** en lugar de espantarse + la humillación de ser pillada + el cuckold confirmado por la vista, no por palabras + la verdad estallando con la verga aún adentro de Valeria. *"Esa es la verga que coge a Valeria los domingos"* aterriza AQUÍ, viéndolo.
+- **Emoción objetivo:** deseo que enciende con el golpe + humillación-afrodisíaco + rendición que se acerca. **NO devastación, NO histeria.**
+- **Error fatal:** que Estefanía huya, llore de pena, o lo viva como trauma. NO — se queda, mira, se toca. El descubrimiento la abre, no la cierra.
+
+### Pivote 5 — Gabriel sabe, se le insinúa, Estefanía cae: el TRÍO (Cap fusionado — clímax) · REESCRITO 10/06/2026
+- **Qué ocurre:** con la verdad sobre la mesa, Gabriel —lejos de espantarse— **se le insinúa a Estefanía**. Y ella **cae rendida, sin defensa, como adolescente** (ansiosa, torpe de ganas, sin un gramo de resistencia). Clímax SUCIO y explícito: **primero le mama la verga a Gabriel**; después, cuando Gabriel vuelve a coger a Valeria, **los tres hacen un trío**. Estefanía **goza como una perra**, plenamente consciente de lo que es ahora: el **cornudo hormonizado, depilado, feminizado, de rodillas, al servicio del amante de su señora**. Esa consciencia —no se la borra— es lo que la hace gozar MÁS.
+- **Por qué excita:** rendición total + trío cuckold + la **consciencia plena como afrodisíaco máximo** (*"soy el cornudo feminizado mamándole la verga al que se coge a mi mujer, y me encanta"*). Lo más sucio del relato.
+- **Emoción objetivo:** goce sin freno + identidad nueva aceptada EN el placer (cornudo-al-servicio) + el cuerpo y la cabeza por fin del mismo lado.
+- **Error fatal:** pudor, elipsis del acto, "fundido a negro". NO. Es explícito, detallado, sucio: la verga, la boca, el culo, el coño de Valeria, los tres cuerpos — se MUESTRA.
+- **⚠️ Nota de arco:** este capítulo fusionado **ABSORBE P3+P4+P5** (Gabriel ya SABE y lo usa; el "descubrimiento tardío cataclísmico" ya no aplica). Lo que sigue (aftermath / nuevo arco con los tres a sabiendas) se **re-mapea con la Ama** después de este capítulo.
 
 ---
 
@@ -93,11 +94,13 @@
 ## 4. Mecanismo Psicológico Transversal del relato
 
 > **Tres despertares paralelos en engaño triple:**
-> 1. **Valeria descubre su sadismo** — empezó como esquema económico, terminó disfrutando ver el cambio en el marido.
-> 2. **Esteban descubre su sumisión** — aceptó por desesperación, descubre que algo adentro responde, y al final no quiere que termine.
-> 3. **Gabriel descubre tarde** que ha sido cogido en el esquema sin saber.
+> 1. **Valeria descubre su sadismo** — empezó como esquema económico, terminó disfrutando ver el cambio en el marido, hasta entregárselo al amante con la verdad por delante.
+> 2. **Esteban descubre su sumisión** — aceptó por desesperación, descubre que algo adentro responde, y termina gozando como mujer al servicio del amante de su esposa, a sabiendas.
+> 3. **Gabriel descubre DENTRO del esquema** (Valeria se lo confiesa mientras la coge) — y en vez de espantarse, usa al marido feminizado.
 >
-> **El cuckold inverso es la columna vertebral:** la amante de la esposa coge al marido como si fuera mujer cualquiera. La esposa orquestó. El amante no sabe. Y el marido descubre que la verga que coge a su esposa es la que ahora lo coge a él. Esa simetría es el motor.
+> **La crema hormonal** (Cap fusionado) vuelve el cambio carne, no disfraz: el cuerpo ya no ACTÚA de mujer, ESTÁ siendo mujer. Hace irreversible la grieta.
+>
+> **El cuckold inverso es la columna vertebral:** la amante de la esposa coge al marido como si fuera mujer; la esposa orquestó y confiesa; el amante sabe y lo aprovecha; y el marido —cornudo, hormonizado— termina de rodillas mamándole la verga al hombre que se coge a su mujer, gozándolo. Esa simetría es el motor.
 
 ---
 
@@ -108,6 +111,8 @@
 3. **Las dos figuras al espejo del armario** — Valeria detrás, Esteban-vestido-como-Valeria adelante. La esposa y el marido en uniforme idéntico.
 4. **El reloj IWC de Gabriel sobre la mesa de luz de Valeria** un domingo a la mañana, que Esteban ve sin entender lo que significa hasta el Cap 4.
 5. **La verga doblada bajo el tape** — pelvis lisa de Esteban en el espejo del baño. *"Tengo el mismo pubis que mi mujer."*
+6. **Los pezones hinchados y doloridos contra el sostén** tras las semanas de crema hormonal — la feminización que ya no es relleno, es carne.
+7. **Estefanía de rodillas mamándole la verga a Gabriel mientras Valeria mira** — el marido cornudo sirviendo al amante de su mujer, gozándolo.
 
 ---
 
@@ -116,10 +121,8 @@
 | Cap | Pivotes que se activan | Mecanismo dominante | Cierre del cap |
 |-----|------------------------|---------------------|----------------|
 | 1   | P1 (esquema) + P2 COMPLETO (semana + sexualización progresiva + noche en babydoll) | Rito femenino + sexualización constante de Valeria ("los hombres te van a desear") + sadismo emergente + grieta del placer prohibido | ✅ **ESCRITO (Gold Master v1):** el Cap 1 cerró MÁS LEJOS del plan — incluyó *El Lunes* (Estefanía se viste sola, transformación ya autónoma) y terminó en la **puerta de la oficina**: *"Cuando él quiera, voy a abrir."* + *"Tocó la puerta."* La frase *"quizás esto no sea temporal"* quedó en la noche del babydoll. |
-| 2   | **P3 preámbulo — LOS PRIMEROS DÍAS en el loft-productora** (la transformación YA se completó en Cap 1; acá NO hay más transformación). Coqueteo **progresivo** de Gabriel que escala día a día: el apretón (pulgar sobre el esmalte → la pelvis se afloja, no se contrae) → roces "casuales" (mano en cintura/espalda al pasar) → cercanía/olor a cedro/IWC → **casi-beso o contacto íntimo interrumpido** (borde alto, **SIN cogida**). **Camila estimula** la dinámica: la trata como mujer, le da cuerda, le habla de las conquistas de Gabriel, la empuja a dejarse. **Pistas del cuckold (NO el golpe):** la nota disonante del Cap 1 crece, Estefanía ata cabos sin confirmar. | **Ser deseada/coqueteada la calienta MÁS que nada** + asimetría hetero + el cuerpo que se afloja + humillación-que-enciende asomando + sospecha creciente | **Abre en T° ≥ cierre Cap 1 (caliente, no resetea).** Cierra en el **pico de deseo (el casi-beso interrumpido)** + la sospecha que casi conecta y ella aparta (como la nota disonante del Cap 1). Borde negado, sin descarga. |
-| 3   | **P4 golpe (apertura) + P3 completo (cogida).** Abre con la **revelación-humillación de Valeria**: le confiesa que es la amante de Gabriel — *"es hombre de verdad, su verga me hace ver estrellas… vas a saber lo que es tenerla adentro."* El golpe **NO la hunde: la enciende** (deseo, no devastación). Después, Gabriel la coge (sin saber). | Humillación-que-enciende + asimetría sexual hetero consumada + triangulación con Valeria (ahora **a sabiendas**) | El acto completo + *"esa es la verga que coge a Valeria los domingos"* en pensamiento durante la cogida (ya con conocimiento pleno). |
-| 4   | P4 (descubrimiento del amorío) | Carga retroactiva + cuckold revelado | Esteban con la prueba del amorío en la mano + la decisión de no decir nada, de seguir siendo Estefanía |
-| 5   | P5 (Gabriel descubre quién es Estefanía) | Vértigo final | Gabriel sabiendo + el momento exacto de su decisión — y el cap corta ahí |
+| **2 (FUSIÓN 2+3)** | **P3+P4+P5 en un solo capítulo.** Presentaciones (loft, Gabriel, Camila) → salto 1-2 semanas (la **crema hormonal** hace efecto: feminización real) → Estefanía ve a Gabriel **usar mujeres** y la calienta + miedo a ser descubierta → **VE a Gabriel cogerse a Valeria** → **se masturba mirándolos** → **Gabriel la ve** → **Valeria le confiesa la verdad a Gabriel** (Estefanía = su marido) → Gabriel **se le insinúa** → Estefanía **cae como adolescente** → **le mama la verga** → **TRÍO** con Valeria | Deseo por ver-usar + crema hormonal + voyeurismo cuckold + humillación que enciende + rendición total + trío | **Abre en T° ≥ cierre Cap 1.** Cierra en el **trío consumado**: Estefanía gozando **como perra**, plenamente consciente de ser el cornudo hormonizado/feminizado al servicio del amante de su señora. Explícito, sucio. |
+| 3+  | **RE-MAPEAR (Ama).** El Cap 2 fusionado absorbió P3+P4+P5. Lo que sigue = aftermath / nuevo arco con los tres a sabiendas. A definir tras este capítulo. | — | — |
 
 ---
 
@@ -146,7 +149,7 @@ NO usar: polla · joder · follar · tío · móvil · coche · piso · ordenado
 ## 9. Frases canónicas (validadas v4.6 — siguen vigentes para Nivel 4)
 
 - *"Tengo el mismo pubis que mi mujer."* (Esteban interno, Cap 1 depilación)
-- *"Esa es la verga que coge a Valeria los domingos."* (Esteban interno — **Cap 3, durante la cogida**, ya con conocimiento pleno tras la confesión de Valeria. En Cap 2 NO aparece como cosa sabida, a lo más asoma como sospecha que se aparta — decisión Ama 05/06/2026)
+- *"Esa es la verga que coge a Valeria los domingos."* (Esteban interno — **Cap fusionado, VIÉNDOLO coger a Valeria**, el golpe del cuckold aterriza por los ojos mientras ella se toca — decisión Ama 10/06/2026)
 - *"Me parezco a Valeria."* (Esteban interno, Cap 1 post-tucking en espejo)
 - *"Era él vestido como su esposa."* (Esteban interno, Cap 1 momento crítico)
 - *"Quizás esto no sea temporal."* (Esteban interno, Cap 1 cierre — la grieta)
@@ -156,12 +159,13 @@ NO usar: polla · joder · follar · tío · móvil · coche · piso · ordenado
 - *"Qué lindo culo te quedó. Apuesto que los hombres te lo van a mirar."* (Valeria voz, Cap 1 entrenamiento)
 - *"Los hombres te van a desear, Estefanía. Acostúmbrate."* (Valeria voz, Cap 1 — implanta el deseo dirigido)
 - *"Quietita. Las mujeres se dejan tocar así."* (Valeria voz, Cap 1 noche en babydoll)
-- *"Gabriel es hombre de verdad."* (Valeria voz — **Cap 3 apertura, la confesión-humillación**; decisión Ama 05/06/2026)
-- *"Su verga me hace ver estrellas."* (Valeria voz — Cap 3 apertura, humillación que enciende)
-- *"Vas a saber lo que es tener una verga adentro."* (Valeria voz — Cap 3 apertura, dirigida a Estefanía; la humillación que en vez de hundirla la prende)
+- *"Gabriel es hombre de verdad."* / *"Su verga me hace ver estrellas."* (Valeria voz — Cap fusionado; ahora como provocación/jactancia, no como confesión-humillación a Estefanía, ya que el descubrimiento es por la vista)
+- *"Es mi marido, Gabriel. Tu nueva secretaria es Esteban."* (Valeria voz — **Cap fusionado, la confesión de la verdad A GABRIEL** mientras él la coge; decisión Ama 10/06/2026)
+- *"Vas a saber lo que es tener una verga adentro."* (Valeria voz — Cap fusionado, dirigida a Estefanía antes del trío; la humillación que en vez de hundirla la prende)
+- *"Soy el cornudo. Hormonizado, depilado, de rodillas, mamándole la verga al que se coge a mi mujer. Y me encanta."* (Esteban interno — **Cap fusionado, en el trío**; la consciencia plena como afrodisíaco máximo; decisión Ama 10/06/2026)
 
 **Imagen ancla extra (Cap 1):** el babydoll de seda y la pelvis lisa por el tucking sobre la cama matrimonial, la mano de Valeria de uñas largas recorriéndola como recorrería a otra mujer — el marido convertido en la mujer que la esposa administra hasta en su propia cama.
 
 ---
 
-*Canon Relato v4.7 (Nivel 4) — Un solo documento. 1,847 palabras. Reemplaza 9 archivos del v4.5/v4.6. — La Voûte d'Anaïs*
+*Canon Relato v4.7 (Nivel 4) — Un solo documento. **Reestructurado 10/06/2026: fusión Cap 2+3 (crema hormonal + voyeurismo cuckold + confesión a Gabriel + trío).** Reemplaza 9 archivos del v4.5/v4.6. — La Voûte d'Anaïs*
