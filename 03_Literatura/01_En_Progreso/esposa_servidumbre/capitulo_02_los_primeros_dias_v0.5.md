@@ -303,6 +303,3 @@ Llegó como Valeria le había dicho que iba a llegar: no concentrada en un punto
 Y cuando la oleada bajó, despacio, en ondas que se iban apagando, Estefanía quedó tendida en el sillón verde con la verga todavía adentro y la cabeza clarísima, sin un solo pensamiento de defensa, sin la palabra vieja por ningún lado —ni siquiera la buscó—, solo el cuerpo aflojado y satisfecho y caliente todavía, y la certeza, sin pánico y sin pena, plena, de quién era ahora y de que no quería ser otra cosa.
 
 Afuera era domingo. Adentro, en el set, bajo la luz grande y limpia, había tres cuerpos en un sillón verde: la esposa, el amante, y el marido que la esposa había feminizado para entregárselo al amante. Y de los tres, el que gozaba más era el que más sabía lo que era.
-
----
-**Conteo de palabras:** ~9.500
