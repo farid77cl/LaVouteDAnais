@@ -108,9 +108,12 @@ El antiguo "Glove Canon" (4 tipos autorizados: fingerless opera / claw cut-out /
 > **Regla dura:** **NINGÚN inyector de batch escribe los 7 prompts con poses fijas.** Debe **importar y usar** el módulo `99_Sistema/scripts/visual/pose_rotation_v5.py`:
 > ```python
 > from pose_rotation_v5 import rotate_poses, check_setting_variety
-> poses = rotate_poses(look_number)   # 7 (slot, pose_direction) rotados por nº de look
+> # por look, props del setting (armonía con el ambiente):
+> poses = rotate_poses(look_number, seat="a leather throne", wall="a mirrored wall", surface="a chrome console")
 > ```
 > El módulo materializa las **46 variaciones V5** (9 Standing · 7 Back · 6 Seated · 7 Side · 6 Ditzy · 5 POV · 6 Odalisque) y rota por número de look (paso 1, slots decorrelacionados) → **ninguna variante se repite dentro de 4 looks** del mismo slot, y un look nunca sale "todo St1/Bk1". (Excepción: **Pose Set Stripper** sigue reemplazando las 7 — no se mezcla.)
+>
+> **🪑 PROPS CONTEXTUALES (Directiva Ama 08/06/2026 — "esa silla queda fuera de contexto"):** las variantes con mueble usan placeholders `{seat}` `{wall}` `{surface}` que el inyector **rellena por look con mobiliario REAL del setting** (yate → `a teak bench`; mazmorra → `a leather throne`; boudoir → `a velvet chaise`; club → `a chrome bar stool`; gym → `a weight bench`). **Prohibido el mueble genérico** ("a sculptural seat" suelto). Cada pose debe ser **armoniosa con el ambiente** — que no salgan objetos que no tengan que ver con el setting. (El piso/floor es universal, no necesita prop.)
 >
 > **Variedad de settings (anti-comodín):** PROHIBIDO el "mirrored room/sala de espejos" como default. Cada look lleva un setting **anclado a su concepto**, y antes de cerrar el batch correr `check_setting_variety([lk["setting"] for lk in LOOKS])` → **ninguna palabra-clave de setting** (mirror/gallery/void/dungeon/penthouse/boudoir/beach/pool/stage/club/etc.) se repite dentro de **5 looks**. Si avisa → reescribir el setting.
 >

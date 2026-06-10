@@ -1,34 +1,39 @@
 # -*- coding: utf-8 -*-
 """
-Rotacion de poses V5 + chequeo de variedad de settings.
+Rotacion de poses V5 + props CONTEXTUALES + chequeo de variedad de settings.
 
-POR QUE EXISTE (Directiva Ama 08/06/2026): mis inyectores de batch hardcodeaban UNA
-sola plantilla de 7 poses (St1/Bk1/Se1/...) en CADA look -> poses clonadas (Standing
-identico x44, Back x83, etc.) + "mirrored room" como setting comodin (16/50 looks).
-Este modulo materializa el Repertorio V5 (.agent/skills/ele-outfit-engine/references/
-pose_repertoire_v5.md) como CODIGO reutilizable.
+POR QUE EXISTE (Directiva Ama 08/06/2026):
+ (1) Mis inyectores hardcodeaban UNA plantilla de 7 poses (St1/Bk1/...) en CADA look
+     -> poses clonadas (Standing identico x44, Back x83, POV x66).
+ (2) Las poses con mueble (la sentada) metian "a sculptural seat" / "a chair" / "a wall"
+     GENERICOS que NO calzaban con el ambiente (silla fuera de contexto en una playa, etc.).
+     La Ama: "cada pose debe ser armoniosa con el ambiente, que no salgan cosas que no
+     tengan nada que ver."
 
-USO OBLIGATORIO en todo inyector de batch nuevo:
+SOLUCION: las variantes con mueble usan placeholders {seat} {wall} {surface}; el inyector
+los rellena POR LOOK con mobiliario del setting (ej: yate -> "a teak bench"; mazmorra ->
+"a leather throne"; boudoir -> "a velvet chaise"). El piso (floor) es universal, no lleva prop.
+
+USO OBLIGATORIO en todo inyector de batch:
     from pose_rotation_v5 import rotate_poses, check_setting_variety
-    poses = rotate_poses(look_number)         # -> lista de 7 (slot, pose_direction)
-    # prompt = BLOQUE_A + " stunning woman wearing " + outfit + ", and " + heel + ". "
-    #          + pose_direction + ", " + setting + ", 8k editorial fashion photography."
-    check_setting_variety([lk["setting"] for lk in LOOKS])   # warn si se repite
+    # por look, define props del setting:
+    poses = rotate_poses(look_number, seat="a leather throne", wall="a mirrored wall",
+                         surface="a chrome console table")
+    # poses -> [(slot, pose_direction_con_props_ya_resueltos), ...]
+    check_setting_variety([lk["setting"] for lk in LOOKS])
 
-Regla de rotacion: variante = (look_number + offset_slot) % len(variantes_slot).
-Como cada slot tiene >=5 variantes y el paso es 1 por numero de look, NINGUNA
-variante se repite dentro de 4 looks consecutivos del mismo slot, y los slots van
-decorrelacionados (offsets distintos) para que un look no sea "todo St1/Bk1".
+Rotacion: variante = (look_number + offset_slot) % len(variantes). Paso 1 + offsets
+distintos -> ninguna variante se repite en 4 looks del mismo slot, y un look no sale
+"todo St1". Excepcion: Pose Set Stripper sigue reemplazando las 7 (no se mezcla).
 """
 
-# Todas las variantes mantienen el Principio Rector Fetish Model (lumbar arch, lips
-# parted glossy, XXXL nail interaction, predatory/half-lidded gaze, hair como prop) y
-# nombran el stiletto (footwear canon). NO incluyen setting: el inyector lo append.
+# Variantes: mantienen Principio Rector Fetish Model + nombran stiletto. {seat}/{wall}/{surface}
+# = mobiliario CONTEXTUAL que pone el inyector. NO incluyen el setting (eso se appendea).
 
 STANDING = [
  "full body from a low angle below the hip, the weight on one stiletto with the other foot forward and pointed, an exaggerated S-curve with the hip jutted to one side and the chest pushed forward, one XXXL-nailed hand sliding down the hip and thigh and the other pulling at the neckline, shoulders dropped, chin lifted, half-lidded predatory gaze, cherry red hair over one shoulder",
  "full body from a low angle, caught mid-stride walking straight toward the camera with one stiletto forward and the back foot lifting off the floor, hips swinging, one XXXL-nailed hand on the hip and the other arm loose, head turned over the shoulder, fierce runway gaze, cherry red hair in motion",
- "full body, the shoulders propped against a wall with one knee bent and that stiletto sole flat against the wall, the pelvis pushed forward off the wall, one XXXL-nailed hand hooked in the waistband and the other trailing up the body, chin down looking up through the lashes, lips parted glossy, cherry red hair spilling against the wall",
+ "full body, the shoulders propped against {wall} with one knee bent and that stiletto sole flat against {wall}, the pelvis pushed forward, one XXXL-nailed hand hooked in the waistband and the other trailing up the body, chin down looking up through the lashes, lips parted glossy, cherry red hair spilling against {wall}",
  "full body from a low angle, both arms raised overhead gathering the cherry red hair off the neck, the torso elongated and the chest lifted high in an extreme lumbar arch, the weight on both stilettos with the hip cocked, the garment riding up, the face tilted up with half-lidded eyes, the side-body line exposed",
  "full body, the body turned three-quarters away with the ass partly toward the lens and the torso twisted back so the bust returns to camera, one XXXL-nailed hand on the far hip and the other lifting the hair at the nape, looking back over the shoulder with a predatory glance, a deep waist-to-hip twist, on towering stilettos",
  "full body, leaning forward from the hips toward the camera with both XXXL-nailed hands on her own knees, the augmented bust thrust forward creating deep cleavage dominant in frame, the back arched and the ass pushed out behind, looking up through the lashes with lips parted, cherry red hair falling forward framing the face, on stilettos",
@@ -40,30 +45,30 @@ STANDING = [
 BACK = [
  "full body back view with an exaggerated booty-pop, the spine in a dramatic S-curve, one XXXL-nailed hand on the hip and the other reaching up through the cherry red hair, looking back over the shoulder with a half-lidded sultry gaze, the weight on one stiletto with the other foot pigeon-toed inward, lips parted glossy",
  "full body back view caught mid-stride walking away from the camera with one stiletto lifting and the hips swinging, the torso twisting to glance back over the shoulder, one XXXL-nailed hand trailing down the lower back to the ass, cherry red hair down the spine",
- "full body back view bent forward at the hips with both XXXL-nailed hands flat on a surface, a deep back arch with the ass pushed up and out toward the camera, looking back over the shoulder through the cherry red hair, the weight on both stilettos",
+ "full body back view bent forward at the hips with both XXXL-nailed hands flat on {surface}, a deep back arch with the ass pushed up and out toward the camera, looking back over the shoulder through the cherry red hair, the weight on both stilettos",
  "full body back view standing with both XXXL-nailed hands lifting all the cherry red hair up off the nape, exposing the full back and spine line, the head dropped slightly forward, the weight on one hip with the stiletto cocked",
- "full body back view with the shoulder blades against a wall facing partly away, the ass off the wall and pushed out, one XXXL-nailed hand pressed on the wall behind, looking back to the camera over the shoulder, the weight on one stiletto",
+ "full body back view with the shoulder blades against {wall} facing partly away, the ass off {wall} and pushed out, one XXXL-nailed hand pressed on {wall} behind, looking back to the camera over the shoulder, the weight on one stiletto",
  "full body back view with both XXXL-nailed hands sliding down over her own ass, a deep lumbar arch, the head thrown back, cherry red hair veiling the turned face, the weight on both stilettos pointed",
  "full body back view kneeling upright with the spine arched and sitting back toward the heels, one XXXL-nailed hand reaching up the back and the other in the hair, looking over the shoulder, the stilettos visible behind",
 ]
 
 SEATED = [
- "perched on a sculptural seat with one leg crossed over the other and the top stiletto pointed at the camera, an extreme lumbar arch, one XXXL-nailed hand on the top knee and the other fingertip at the bottom lip, the bust angled forward, shoulders rolled back, half-lidded direct gaze, cherry red hair framing one breast",
- "perched on the edge of a seat leaning forward with the elbows on the knees, the deep cleavage thrust toward the camera, the top stilettos planted apart, one XXXL-nailed hand under the chin, looking up through the lashes with lips parted, cherry red hair falling forward",
- "reclined back on a seat propped on one elbow with the other XXXL-nailed hand trailing down the torso, the spine in a long arch, the legs extended with the stilettos crossed at the ankle and pointed, half-lidded predatory gaze, cherry red hair spilling over the backrest",
- "straddling a chair backwards with the arms crossed over the top of the backrest and the chin resting on the forearms, the back arched and the ass out, the stilettos planted wide, a sultry half-lidded gaze over the arms, cherry red hair over one shoulder",
+ "perched on {seat} with one leg crossed over the other and the top stiletto pointed at the camera, an extreme lumbar arch, one XXXL-nailed hand on the top knee and the other fingertip at the bottom lip, the bust angled forward, shoulders rolled back, half-lidded direct gaze, cherry red hair framing one breast",
+ "perched on the edge of {seat} leaning forward with the elbows on the knees, the deep cleavage thrust toward the camera, the stilettos planted apart, one XXXL-nailed hand under the chin, looking up through the lashes with lips parted, cherry red hair falling forward",
+ "reclined back on {seat} propped on one elbow with the other XXXL-nailed hand trailing down the torso, the spine in a long arch, the legs extended with the stilettos crossed at the ankle and pointed, half-lidded predatory gaze, cherry red hair spilling over the backrest",
+ "straddling {seat} backwards with the arms crossed over the top and the chin resting on the forearms, the back arched and the ass out, the stilettos planted wide, a sultry half-lidded gaze over the arms, cherry red hair over one shoulder",
  "seated on the floor with the knees up together and the stilettos planted, leaning back on both XXXL-nailed hands behind, the chest lifted in a lumbar arch, the chin raised, lips parted glossy, cherry red hair cascading down the back",
- "seated side-saddle with the legs together angled to one side and the top stiletto pointed, the torso twisted back to the camera, one XXXL-nailed hand on the upper thigh and the other at the collarbone, an extreme waist twist, half-lidded gaze, cherry red hair over one breast",
+ "seated side-saddle on {seat} with the legs together angled to one side and the top stiletto pointed, the torso twisted back to the camera, one XXXL-nailed hand on the upper thigh and the other at the collarbone, an extreme waist twist, half-lidded gaze, cherry red hair over one breast",
 ]
 
 SIDE = [
  "full body side profile from a low angle, an exaggerated S-curve with an extreme lumbar arch and the chest thrust forward at once, one leg bent forward with the stiletto pointed, one XXXL-nailed hand sliding from the hip to the thigh, chin lifted, lips parted glossy, cherry red hair cascading down the spine",
- "side profile seated on a sculptural seat with the legs crossed and the top stiletto pointed away, the spine arched and the bust in profile silhouette, one XXXL-nailed hand on the thigh, the head tilted, lips parted, cherry red hair down the back",
+ "side profile seated on {seat} with the legs crossed and the top stiletto pointed away, the spine arched and the bust in profile silhouette, one XXXL-nailed hand on the thigh, the head tilted, lips parted, cherry red hair down the back",
  "side profile reclining on one side with an exaggerated S-curve, the hip rolled up and the bust pushed forward in silhouette, the legs stacked with the stilettos pointed, one XXXL-nailed hand on the hip, half-lidded gaze, cherry red hair pooling",
  "full body side profile caught mid-stride with one leg forward and the stiletto pointed, the hips swung and the chest forward, one XXXL-nailed hand swinging and the other on the hip, chin lifted in profile, cherry red hair streaming back",
  "side profile kneeling upright with the spine arched and the bust thrust forward in silhouette, sitting back toward the heels, one XXXL-nailed hand reaching up the body, the head tilted back, lips parted, cherry red hair down the arched back",
  "full body side profile bent forward at the hips with the ass pushed out behind in silhouette and the chest dropped forward, one XXXL-nailed hand on the bent knee, looking toward the camera, the stiletto pointed, cherry red hair falling forward",
- "side profile pressed to a wall with one XXXL-nailed hand raised high on the wall and the back deeply arched, the bust forward and the ass back in silhouette, one stiletto on tiptoe, lips parted, cherry red hair against the wall",
+ "side profile pressed to {wall} with one XXXL-nailed hand raised high on {wall} and the back deeply arched, the bust forward and the ass back in silhouette, one stiletto on tiptoe, lips parted, cherry red hair against {wall}",
 ]
 
 DITZY = [
@@ -92,7 +97,6 @@ ODALISQUE = [
  "full body lying on the back with the legs raised and crossed in the air showing off the stilettos, propped on the elbows with the bust forward, looking down the body at the camera, XXXL nails on the raised thigh, lips parted glossy, cherry red hair fanned out",
 ]
 
-# (slot_name, variantes, offset para decorrelacionar slots)
 SLOTS = [
  ("Standing", STANDING, 0),
  ("Back View", BACK, 2),
@@ -103,31 +107,29 @@ SLOTS = [
  ("Odalisque", ODALISQUE, 2),
 ]
 
-def rotate_poses(look_number):
-    """Devuelve [(slot_name, pose_direction), ...] de 7 elementos, rotados por numero de look."""
+def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface="a surface"):
+    """Devuelve [(slot, pose_direction)] de 7, rotados por nº de look y con props CONTEXTUALES.
+    seat/wall/surface deben describir mobiliario REAL del setting del look (armonia con el ambiente)."""
     out = []
     for name, variants, off in SLOTS:
-        idx = (look_number + off) % len(variants)
-        out.append((name, variants[idx]))
+        v = variants[(look_number + off) % len(variants)]
+        v = v.replace("{seat}", seat).replace("{wall}", wall).replace("{surface}", surface)
+        out.append((name, v))
     return out
 
-# Palabras de setting que NO deben repetirse muy seguido (espejo incluido, era el comodin).
 _SETTING_KEYS = ["mirror","mirrored","espejo","gallery","museum","void","dungeon",
  "penthouse","boudoir","beach","pool","stage","club","chapel","cathedral","yacht",
  "casino","gym","throne","villa","terrace","marina"]
 
 def check_setting_variety(settings, window=5):
-    """Avisa si alguna palabra-clave de setting se repite dentro de una ventana de N looks.
-    Devuelve lista de warnings (vacia = OK)."""
+    """Avisa si alguna palabra-clave de setting (espejo incluido) se repite dentro de N looks."""
     import re
-    warns = []
-    seen = {}  # key -> indice del ultimo look que lo uso
+    warns, seen = [], {}
     for i, s in enumerate(settings):
-        low = s.lower()
         for k in _SETTING_KEYS:
-            if re.search(r"\b"+re.escape(k)+r"\b", low):
+            if re.search(r"\b"+re.escape(k)+r"\b", s.lower()):
                 if k in seen and i - seen[k] < window:
-                    warns.append(f"  setting '{k}' repetido en looks idx {seen[k]} y {i} (ventana {window})")
+                    warns.append(f"  setting '{k}' repetido en idx {seen[k]} y {i} (ventana {window})")
                 seen[k] = i
     return warns
 
@@ -135,7 +137,7 @@ if __name__ == "__main__":
     import sys, io
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
     print("Variantes por slot:", {n: len(v) for n,v,_ in SLOTS})
-    print("\nEjemplo rotacion L531-L535 (Standing/Back deben cambiar look a look):")
-    for ln in range(531, 536):
-        ps = rotate_poses(ln)
-        print(f"L{ln}: Standing={STANDING.index(ps[0][1])+1}  Back={BACK.index(ps[1][1])+1}  Seated={SEATED.index(ps[2][1])+1}  Side={SIDE.index(ps[3][1])+1}  Ditzy={DITZY.index(ps[4][1])+1}  POV={POV.index(ps[5][1])+1}  Odal={ODALISQUE.index(ps[6][1])+1}")
+    print("\nL531 con props de mazmorra (seat=throne, wall=stone wall):")
+    for slot, txt in rotate_poses(531, seat="a leather throne", wall="a stone dungeon wall", surface="a steel table"):
+        print(f"  {slot}: {txt[:90]}...")
+    print("\n¿quedo algun placeholder sin resolver?", "{" in str(rotate_poses(531)))

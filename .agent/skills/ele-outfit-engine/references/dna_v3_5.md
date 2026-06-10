@@ -12,10 +12,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 > ⚠️ **PELO:** `dark cherry red hair` es inamovible. Nunca se sustituye por `red hair`, `auburn`, `brown hair`. Negative prompt: `brown hair, black hair, blonde hair, auburn hair`.
 
+> 📏 **MÁXIMA DESCRIPTIVIDAD A+B (Directiva Ama 08/06/2026):** para que **cuerpo + outfit + calzado salgan IDÉNTICOS en las 7 poses**, el Bloque A (ADN) y el Bloque B (outfit + Token de Calzado de 8 atributos) se redactan **lo más detallados y explícitos posible** y se pegan VERBATIM en los 7 prompts. Nada de abreviar ni dejar a interpretación (ni el zapato, ni el material, ni la cobertura — ver Token de Vestuario Bloqueado). **Lo único que varía entre los 7 prompts es el Bloque C (pose + ángulo)**, y el mueble de la pose debe ser del setting (props contextuales `{seat}/{wall}/{surface}` del módulo de rotación).
+
 ## 🚫 Negative Prompt Obligatorio (configurar en el generador antes de cada batch)
 
 ```
-red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands
+red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, platform mule, mule, mule sandals, backless mule, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands
 ```
 
 > 🧤 **GUANTES PROHIBIDOS (Directiva Ama 03/06/2026 — CANON ABSOLUTO):** Ele **ya no usa guantes de ningún tipo**. `gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, covered hands` van SIEMPRE en el negative base. Las manos van **siempre desnudas** para lucir las uñas French XXXL. Esto deroga por completo el antiguo "Glove Canon" (ver abajo). Antes de cerrar cualquier batch: `grep glove` en los prompts debe dar **0** en el positive.
@@ -45,6 +47,10 @@ Añadir al negative prompt cualquier accesorio NO incluido en el BLOQUE B (ej: `
 Cualquier prompt de calzado **debe** contener la palabra `stiletto` (heel/pump/boot/sandal). Si lleva plataforma, debe quedar explícito que el pin del tacón es stiletto fino (`platform stiletto, 14cm pin stiletto heel`, no `platform mule`).
 
 Tacón canónico: 12–18 cm. Para escenarios street/cuico se admite hasta 14 cm; para gala/escort/stripper hasta 18 cm.
+
+> 👡 **MULES: evitar (Directiva Ama 08/06/2026 — "hay mucho mule, no son mis favoritos").** El estilo mule (destalonado) NO es preferido. Default = `stiletto pump` / `pointed-toe stiletto` / `stiletto sandals` (tiras finas) / `stiletto boots` (ankle/knee/thigh-high) / `platform stiletto`. Reservar el mule solo si la Ama lo pide explícito. `mule, mule sandals, backless mule` van en el negative base. (Ojo: yo defaulteaba a `pin-heel mule` en Lencería Boudoir — cambiar a sandalia/pump stiletto.)
+
+> 🔒 **EL CALZADO NUNCA VARÍA ENTRE LAS 7 POSES (Directiva Ama 08/06/2026 — lo notó).** El Token de Calzado Bloqueado (8 atributos) se pega VERBATIM e IDÉNTICO en las 7. Si el generador cambia el zapato pose a pose: (a) verificar que el token esté carácter-por-carácter idéntico, (b) el negative base ya lleva `different shoes, mismatched shoes, changing footwear, inconsistent footwear`, (c) usar **chat/ventana nueva por imagen** (el chat acumula contexto y deriva el zapato + la cara). **Cuerpo (A), outfit y calzado (B) son INVARIABLES; solo cambian pose y ángulo (C).**
 
 ## 🧤 GUANTES PROHIBIDOS (Directiva Ama 03/06/2026 — DEROGA el antiguo Glove Canon)
 
