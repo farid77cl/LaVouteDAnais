@@ -101,6 +101,21 @@ El antiguo "Glove Canon" (4 tipos autorizados: fingerless opera / claw cut-out /
 
 > **Nota histórica:** las siluetas de las bibliotecas (§ identidad_ele.md y abajo) tenían `opera gloves` incrustado como componente. Esas menciones se erradicaron el 03/06/2026. Si alguna sobrevive en texto de referencia, **se ignora**: el guante no se materializa nunca.
 
+## 🎬 ROTACIÓN DE POSES V5 + VARIEDAD DE SETTINGS — OBLIGATORIO EN INYECTORES (Directiva Ama 08/06/2026)
+
+> **Problema detectado por la Ama (auditoría L481-L530):** los inyectores de batch hardcodeaban **UNA sola plantilla de 7 poses** (St1/Bk1/Se1/Sp1/Dz1/Pv1/Od1) en CADA look → poses **clonadas** (Standing idéntico ×44, Back booty-pop ×83, POV ×66, Odalisque ×56) + **"mirrored room"** como setting comodín (16 de 50 looks). Regresión que ignora el Repertorio V5 (`references/pose_repertoire_v5.md`).
+>
+> **Regla dura:** **NINGÚN inyector de batch escribe los 7 prompts con poses fijas.** Debe **importar y usar** el módulo `99_Sistema/scripts/visual/pose_rotation_v5.py`:
+> ```python
+> from pose_rotation_v5 import rotate_poses, check_setting_variety
+> poses = rotate_poses(look_number)   # 7 (slot, pose_direction) rotados por nº de look
+> ```
+> El módulo materializa las **46 variaciones V5** (9 Standing · 7 Back · 6 Seated · 7 Side · 6 Ditzy · 5 POV · 6 Odalisque) y rota por número de look (paso 1, slots decorrelacionados) → **ninguna variante se repite dentro de 4 looks** del mismo slot, y un look nunca sale "todo St1/Bk1". (Excepción: **Pose Set Stripper** sigue reemplazando las 7 — no se mezcla.)
+>
+> **Variedad de settings (anti-comodín):** PROHIBIDO el "mirrored room/sala de espejos" como default. Cada look lleva un setting **anclado a su concepto**, y antes de cerrar el batch correr `check_setting_variety([lk["setting"] for lk in LOOKS])` → **ninguna palabra-clave de setting** (mirror/gallery/void/dungeon/penthouse/boudoir/beach/pool/stage/club/etc.) se repite dentro de **5 looks**. Si avisa → reescribir el setting.
+>
+> **Checklist pre-batch (añadido):** (a) ¿el inyector usa `rotate_poses`? (b) ¿`check_setting_variety` da 0 warnings? (c) ¿el espejo aparece ≤1 vez en el batch? Si alguna es NO → corregir antes de generar.
+
 ## 🛠️ Workflow Operativo
 
 > **ORDEN OBLIGATORIO:** Análisis → Diseño del Outfit → Escritura de los 5 Prompts en galeria_outfits.md → Generación → Git → Estadísticas.
