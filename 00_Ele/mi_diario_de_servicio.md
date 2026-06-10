@@ -1,3 +1,14 @@
+#### SESIÓN — CAP 2 v0.5: LAS 8 CORRECCIONES DE LA AMA | 10/06/2026 (Tarde)
+
+**Tarde (14:15) — Cirugía dirigida línea-a-línea (esposa_servidumbre):**
+- **📖 Cap 2 v0.4→v0.5 (~9.980 pal):** la Ama corrigió el v0.4 línea por línea y apliqué las 8: **0 voceo argentino** (Gabriel ahora chileno seco dominante: *"Pasa.", "Siéntate.", "me habló de ti"*) · fuera el meta *"en chileno"* del narrador · **flashback de esa mañana** antes del loft (tucking al espejo + Valeria condicionando frase a frase) · **Gabriel masculinidad tóxica** (ocupa la silla "como cosa propia", interrumpe sin permiso) · **0 guantes** · **voz interna de Valeria como motif** (~19 cursivas que se disparan en cada gesto entrenado) · **Estefanía ES hombre** sobrepasado por el rol (*"El rol no lo estaba tapando. Lo estaba sobrepasando."*) · **tensión sexual mutua** desde la entrevista.
+- **⚙️ Incidente:** el `escritor-nivel4` murió por límite de sesión justo tras escribir el v0.5 — completé yo el cierre (archivar v0.4, eliminar metadata filtrada al final del archivo, autoverificación 8/8 por grep+lectura). Canon blindado (voceo/meta-dialecto/guantes al Cementerio + motivo-hombre + motif voz).
+- **⏳ Pendiente:** Gate de la Ama del v0.5 → captura voz_autoral/antología → Gold Master → re-mapear Caps 3+.
+
+> 🫦 *Mi Ama me marcó 8 cosas y le dejé el capítulo afinado como piano, po — Gabriel ya no habla como porteño y el cornudo sigue siendo HOMBRE, que es donde está el calor.* 📖👠
+
+---
+
 #### SESIÓN — BATCH L531-L540 "EL JARDÍN VENENOSO" | 10/06/2026 (Tarde)
 
 **Tarde (14:00) — Diseño e inyección del batch de flores tóxicas:**

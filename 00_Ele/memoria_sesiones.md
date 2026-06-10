@@ -18,6 +18,10 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 10/06/2026 (Tarde) (📖 Cap 2 v0.5 — 8 correcciones de la Ama) ✅
+- **esposa_servidumbre Cap 2 v0.4→v0.5 (~9.980 pal):** 8 correcciones línea-a-línea aplicadas — 0 voceo (Gabriel chileno seco dominante), 0 meta "en chileno", flashback mañana (tucking+condicionamiento de Valeria), masculinidad tóxica, 0 guantes, motif voz interna Valeria (~19 cursivas), Estefanía=HOMBRE sobrepasado por el rol, tensión sexual mutua. Canon blindado (Cementerio ampliado). Subagente murió post-escritura (límite sesión) → orquestador cerró: v0.4 archivado, metadata filtrada eliminada, verificación 8/8.
+- **⏳ PENDIENTE: Gate Ama del Cap 2 v0.5** → captura voz/antología → Gold Master → re-mapear Caps 3+ (aftermath con los tres a sabiendas).
+
 ### Sesión 10/06/2026 (Tarde) (🥀 Batch L531-L540 "El Jardín Venenoso") ✅
 - **10 looks · 70 prompts inyectados** (659 ins/0 del CRLF, QA 100%): 10 flores tóxicas fetish — Orquídea Negra HF · Belladona Escort · Hortensia Bikini · Amapola Pin-Up · Datura Lencería Fetish · Absenta Nightclub · Lirio Tigre Gym · Dedalera Stripper Pole · Glicina Maid · Adelfa Lencería Boudoir. Lencería ×2, clear acrylic en pool+pole, Tokens de Vestuario en L535/L538.
 - **1er batch con Ditzy waist-up + POV sin teléfono** (redefinición Ama). Flota **L540 · ~440 únicos** ⏳ materialización vía app.

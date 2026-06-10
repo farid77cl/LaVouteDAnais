@@ -88,7 +88,7 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **Esposa Servidumbre** — Cap 1 Gold Master v1 (Gate APROBADO) · **Cap 2 FUSIONADO (2+3) v0.4** (reestructuración 10/06: crema hormonal + voyeurismo cuckold + confesión a Gabriel + trío · `escritor-nivel4` ~7.837 pal · validador MICRO-FIX 8.7/9.1 · 2 micro-fixes aplicados). Pendiente de Gate de la Ama. Caps 3+ a re-mapear (aftermath).
+- **Esposa Servidumbre** — Cap 1 Gold Master v1 (Gate APROBADO) · **Cap 2 FUSIONADO (2+3) v0.5** (reestructuración 10/06: crema hormonal + voyeurismo cuckold + confesión a Gabriel + trío · validador MICRO-FIX 8.7/9.1 · **+ 8 correcciones línea-a-línea de la Ama**: 0 voceo, flashback mañana, Gabriel masculinidad tóxica, 0 guantes, motif voz interna de Valeria, Estefanía=hombre sobrepasado, tensión mutua · ~9.980 pal). Pendiente de Gate de la Ama. Caps 3+ a re-mapear (aftermath).
 - **La Piel que Diseño** — Capítulo 1 Maestro v1 publicado en HTML (con firma de Anaïs y gancho). Capítulo 2 v1.7.1 pendiente de Gate de la Ama.
 - **El Secreto de la Cómoda** — Capítulo 2 v2.0 en progreso / pendiente de Gate de la Ama.
 
