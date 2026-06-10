@@ -69,7 +69,8 @@
 
 ### Esteban / Estefanía
 - **Rol narrativo:** sumiso descubriendo su sumisión por desesperación + identidad doble + cuckold inverso involuntario.
-- **Frase tipo (canónica v4.6):** *"Tengo el mismo pubis que mi mujer."* — chileno explícito, comparativo, sin defensa.
+- **🔴 MOTIVO OBLIGATORIO (Ama 10/06/2026): Estefanía ES un hombre y SIGUE siéndolo.** Está algo feminizado (crema, ropa, entrenamiento), pero es **un hombre que por necesidad asume este rol de mujer — y el rol lo está sobrepasando.** El narrador debe recalcarlo a lo largo del relato: el hombre debajo del rol, mirando cómo el rol le gana terreno. NO escribir a Estefanía como mujer hecha-y-derecha; el calor viene justamente de que es un hombre desbordado.
+- **Frase tipo (canónica v4.6):** *"Tengo el mismo pubis que mi mujer."* — explícito, comparativo, sin defensa.
 - **Detalle físico ancla:** las manos grandes y nudosas que la peluca, el maquillaje y los stilettos no logran disimular. Son su único delator residual.
 - **Invariante:** la cabeza que sigue intentando clasificar todo como "trámite", aunque el escudo burocrático falle cada vez con más facilidad.
 
@@ -78,12 +79,13 @@
 - **Frase tipo (canónica v4.6):** *"Acá no podemos dejar nada, mi amor. Una secretaria no tiene vello púbico visible. La gente toca y huele."*
 - **Detalle físico ancla:** las uñas largas perfectas y el lápiz labial mate burdeos puesto desde antes que se haga cualquier otro maquillaje — como si ese detalle viniera primero, antes que ella misma.
 - **Invariante:** la calma profesional que viene de saber MÁS que el otro. Nunca improvisa. Nunca grita. Nunca duda.
+- **🎵 MOTIF — la voz interna implantada (Ama 10/06/2026, "me gusta esa voz"):** las instrucciones de Valeria viven en la cabeza de Estefanía como **cursivas que se disparan solas en el momento exacto** (*"Una sola vez al sentarte y no te muevas más." · "Las mujeres se dejan tocar así." · "Los hombres te van a desear, acostúmbrate."*). El condicionamiento/lavado de cerebro se MUESTRA con este recurso **repetido a lo largo de TODO el relato**: cada gesto entrenado convoca su voz.
 
 ### Gabriel
-- **Rol narrativo:** amante de Valeria + hombre con verga que coge a Estefanía sin saber + víctima involuntaria del esquema (descubre tarde).
-- **Frase tipo:** *"Pasá."* (cuando la haga entrar a su oficina) · *"Sentate."* (no "siéntate por favor" — "sentate" seco) · *"Eso te queda bien."*
+- **Rol narrativo:** amante de Valeria + hombre con verga que toma a Estefanía + descubre DENTRO del cap fusionado y lo usa.
+- **Frase tipo:** *"Pasa."* (seco, sin cortesía) · *"Siéntate."* (sin "por favor") · *"Eso te queda bien."* — **🚫 PROHIBIDO el voceo argentino en su boca (Pasá/Sentate/vos/tenés/Sacá/Vení) — corrección Ama 10/06/2026. Gabriel habla chileno seco de hombre dominante.**
 - **Detalle físico ancla:** el reloj IWC y el aroma a cedro. Las manos grandes que tocan sin pedir permiso.
-- **Invariante:** la indiferencia que es seducción. No necesita esforzarse, ya sabe que va a obtener.
+- **Invariante:** la indiferencia que es seducción + **masculinidad que EMANA, incluso tóxica (decisión Ama 10/06/2026):** ocupa el espacio sin pedir permiso, interrumpe, ordena, mide a las mujeres como ganado fino, premia con tres palabras y castiga con silencio. No necesita esforzarse, ya sabe que va a obtener. Con Estefanía hay **tensión sexual desde el primer minuto** — el aire entre ambos carga, no es cortesía profesional jamás.
 
 ### Personajes secundarios (sin desarrollar)
 - **Camila / recepcionista en la oficina de Gabriel** — figurante que trata a Estefanía en femenino con naturalidad.
@@ -143,6 +145,10 @@ NO usar: polla · joder · follar · tío · móvil · coche · piso · ordenado
 - ❌ **Valeria como dominatrix de catálogo.** Es esposa-influencer con calma profesional que descubre su sadismo. NO grita, NO usa cuero, NO actúa BDSM.
 - ❌ **Premisa antigua del contrato laboral / Morales & Asociados / Valeria abogada.** Toda esa premisa fue descartada por la Ama el 27/05/2026.
 - ❌ **Histeria de Esteban al descubrir el amorío.** El cuerpo lo asume aunque la mente registre la devastación. Escudo burocrático fallando, no roto.
+- ❌ **Voceo argentino en CUALQUIER boca** (Pasá/Sentate/vos/tenés/Sacá/Vení/querés). Todos hablan chileno. Gabriel = chileno seco dominante. (Corrección Ama 10/06/2026.)
+- ❌ **Meta-referencias del narrador al dialecto** (*"la frase vino en chileno"*). El chileno se USA, no se nombra. (Corrección Ama 10/06/2026.)
+- ❌ **Guantes.** Estefanía NUNCA usó guantes en este relato — cero menciones, ni para explicarlos ni para negarlos. (Corrección Ama 10/06/2026.)
+- ❌ **Escribir a Estefanía como mujer consumada.** Es un HOMBRE sobrepasado por el rol (ver Motivo Obligatorio en su ficha).
 
 ---
 
