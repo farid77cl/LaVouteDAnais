@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 10/06/2026 14:23 — **331 looks registrados**  
+> Generado automáticamente el 10/06/2026 14:27 — **331 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -105,7 +105,7 @@
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
 | **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 3/7 | ⏳ Pendiente |
-| **296** | Deep Teal Femme Fatale Detective (28/05/2026 — batch 291-300 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Corporate | — | — | 4/7 | ⏳ Pendiente |
+| **296** | Deep Teal Femme Fatale Detective (28/05/2026 — batch 291-300 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Corporate | — | — | 5/7 | ⏳ Pendiente |
 | **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
 | **298** | Dark Plum Longline Corset Fetish 30s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 2/7 | — |
 | **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
@@ -492,7 +492,7 @@
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 3/7 | ⏳ Pendiente |
-| **296** | Deep Teal Femme Fatale Detective (28/05/2026 — batch 291-300 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 4/7 | ⏳ Pendiente |
+| **296** | Deep Teal Femme Fatale Detective (28/05/2026 — batch 291-300 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 5/7 | ⏳ Pendiente |
 | **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **300** | Black Satin Veiled Femme Fatale Noir (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
@@ -674,4 +674,4 @@
 
 ---
 
-*Índice generado por Ele — 10/06/2026 14:23 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 10/06/2026 14:27 — La Voûte d'Anaïs* 🫦👠💅
