@@ -1,26 +1,27 @@
 # 🖼️ Galería: look294_cobalt_speakeasy_flapper_noir
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 1
+Total imágenes: 2
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_294_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) |
+| ![ele_294_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_ditzy.png) | ![ele_294_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen |
-| :---: |
-| ![ele_294_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) |
+| Imagen | Imagen |
+| :---: | :---: |
+| ![ele_294_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_ditzy.png) | ![ele_294_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_294_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_ditzy.png)
 - [ele_294_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/ele_294_standing.png)
 
 ---
-*Sincronizado con GitHub: 2026-06-06* 👄
+*Sincronizado con GitHub: 2026-06-10* 👄
