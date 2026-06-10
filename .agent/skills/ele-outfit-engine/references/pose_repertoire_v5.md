@@ -52,17 +52,17 @@ Sp1 **Standing Double-Arch** *(canon — lumbar arch + chest thrust)* · Sp2 **S
 
 ---
 
-## 5. DITZY — Plano Americano 3/4 — 6 variaciones de gesto
-*(SIEMPRE: plano americano knee-up, single hand visible, V4.1 SAFE anti-filtro, outfit legible)*
+## 5. DITZY — Detalle Sensual (de la cintura hacia arriba) — 6 variaciones de gesto
+*(**Directiva Ama 09/06/2026 — REDEFINIDA:** encuadre **DE LA CINTURA HACIA ARRIBA**, ya NO plano americano knee-up. Pose **SENSUAL** que **presenta pechos + rostro** — es la toma de **DETALLE**: rostro, maquillaje y detalle del outfit superior. Bust pushed forward + cara como foco del frame + bodice nítido y legible.)*
 
-Dz1 **Finger-on-Lip** *(canon)* · Dz2 **Hair-Twirl** (un dedo XXXL enroscando un mechón) · Dz3 **Strap-Glance** (mirando hacia abajo a su propio hombro/strap) · Dz4 **Blow-Kiss** (yemas frente a los labios soplando un beso) · Dz5 **Cheek-Frame** (mano enmarcando el pómulo, cabeza ladeada) · Dz6 **Coy-Look-Back** (cabeza girada coqueta sobre el hombro). En todas: la OTRA mano descansa en la cadera (no slide ribcage), expresión soñadora half-lidded.
+Dz1 **Finger-on-Lip** · Dz2 **Hair-Twirl** (dedo XXXL enroscando un mechón junto al rostro) · Dz3 **Strap-Slip** (deslizando sensualmente el strap del hombro) · Dz4 **Blow-Kiss** (yemas frente a los labios soplando un beso) · Dz5 **Cheek-Frame** (mano enmarcando el pómulo, cabeza ladeada) · Dz6 **Chin-Down Eyes-Up** (barbilla baja, ojos al lente por las pestañas). En todas: mirada **sensual** half-lidded, labios glossy parted, una mano en el gesto, **el detalle del rostro y del bodice nítidos**.
 
 ---
 
-## 6. POV — Selfie eye-level — 5 variaciones
-*(SIEMPRE: single right hand only, OTHER arm out of frame, anti-multi-hand, no phone token en negative, V4.1 SAFE)*
+## 6. POV — Autorretrato sensual influencer (sin teléfono) — 5 variaciones
+*(**Directiva Ama 09/06/2026 — REDEFINIDA:** **SIN teléfono**. Autorretrato sensual dirigido a quien mira, energía de **influencer sexual de Instagram** (thirst-trap). NUNCA "first-person POV" ni la palabra "selfie/phone" (generan duplicado/teléfono) — anclar **"a single woman alone"**. Décolleté dominante en el frame + cara protagonista.)*
 
-Pv1 **Arm's-Length High-Angle** *(canon)* · Pv2 **Low-Angle Up** (cámara desde abajo, barbilla elevada) · Pv3 **Looking-Away Candid** (mirada fuera de lente, perfil 3/4 del rostro) · Pv4 **Lying-Selfie** (recostada, brazo extendido a la lente desde arriba) · Pv5 **Lip-Bite Close** (yema XXXL rozando el labio inferior, mirada a lente). Décolleté en lower frame, lumbar arch visible.
+Pv1 **Lean-In Thirst-Trap** (inclinada al lente, mano en el pelo) · Pv2 **Low-Angle Up** (contrapicado, mano bajando del cuello al escote) · Pv3 **Candid Look-Away** (mirada fuera de lente, 3/4 del rostro) · Pv4 **Lying-Back Up-to-Camera** (recostada mirando arriba al lente, sin brazo-selfie) · Pv5 **Lip-Bite Close** (yema XXXL jalando el labio inferior, mirada smoldering). En todas: mirada seductora half-lidded, labios glossy parted, **un solo cuerpo**.
 
 ---
 
