@@ -61,15 +61,15 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 257 (White Gold Rhinestone Beach Gala):** 2/7 Poses ✅.
 - ⏳ **Look 280 (Champagne Gold Tea Ceremony):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 281 (Black Patent Mistress Rock Stage):** 2/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 282 (Studded Biker Pole Predator):** 2/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 283 (Crimson Leather Rock Domme):** 2/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 284 (Black Leather Mini Concert Doll):** 2/7 Poses (Materializado parcial) ⏳.
- - ⏳ **Look 285 (Cherry Red Rockabilly Greaser):** 2/7 Poses (Materializado parcial) ⏳.
+ - ✅ **Look 282 (Studded Biker Pole Predator):** 7/7 Poses ✅.
+ - ⏳ **Look 283 (Crimson Leather Rock Domme):** 0/7 Poses (Pendiente) ⏳.
+ - ✅ **Look 284 (Black Leather Mini Concert Doll):** 7/7 Poses ✅.
+ - ⏳ **Look 285 (Cherry Red Rockabilly Greaser):** 4/7 Poses (Materializado parcial) ⏳.
  - ⏳ **Look 286 (Joan Jett Glam Rock Carpet):** 0/7 Poses (Pendiente) ⏳.
-- ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 2/7 Poses ✅.
-- ✅ **Look 288 (Oxblood Croco Rock Housewife):** 2/7 Poses ✅.
-- ✅ **Look 289 (Black Leather Motocross Athleisure):** 2/7 Poses ✅.
-- ✅ **Look 290 (Studded Boxing Rock WOD):** 2/7 Poses ✅.
+- ✅ **Look 287 (Black Leather Lace Burlesque Rock):** 7/7 Poses ✅.
+- ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
+- ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
+- ✅ **Look 290 (Studded Boxing Rock WOD):** 7/7 Poses ✅.
 - ⏳ **Look 204 (Emerald Bandcage):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 205 (Obsidian Gold Idol):** 2/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 206 (Crimson Cathedral):** 2/7 Poses (Materializado parcial) ⏳.

@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 10/06/2026 08:26 — **331 looks registrados**  
+> Generado automáticamente el 10/06/2026 10:46 — **331 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -320,7 +320,7 @@
 | **508** | Silver City-Hall Power Bride (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Corporate · Office Siren (Power Bride) · Mirror Silver · wedding fetish) | — | Corporate | — | — | 7/7 | — |
 | **509** | Pearl Beach Destination (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Bikini · Beach Editorial (Destination Bride) · Pearl Iridescent · wedding fetish) | — | Bikini | — | — | 7/7 | — |
 | **510** | Black Bondage Bride (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Lenceria · Fetish Arquitectonico (Bondage Bride) · Black (negro liberado) · wedding fetish) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
-| **511** | Yacht Domina (08/06/2026 — batch L511-L520 "La Riviera" · Escort · Escort Haute (Yacht) · Champagne · riviera fetish) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
+| **511** | Yacht Domina (08/06/2026 — batch L511-L520 "La Riviera" · Escort · Escort Haute (Yacht) · Champagne · riviera fetish) | — | Escort | — | — | 4/7 | ⏳ Pendiente |
 | **512** | Azure Beach Club (08/06/2026 — batch L511-L520 "La Riviera" · Bikini · Beach Editorial (O-ring) · Azure + White · riviera fetish) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
 | **513** | Monte Carlo Siren (08/06/2026 — batch L511-L520 "La Riviera" · Nightclub · Nightclub (Casino) · Fuchsia + Silver · riviera fetish) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
 | **514** | Capri Trophy (08/06/2026 — batch L511-L520 "La Riviera" · Domestic · Trophy Bimbo (Brunch) · Lemon Yellow · riviera fetish) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
@@ -662,7 +662,7 @@
 | **502** | Cathedral White Gown (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · High-Fashion Editorial · HF Editorial (Bridal Couture) · White · wedding fetish) | 6/7 | ⏳ Pendiente |
 | **505** | Champagne Trophy Reception (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Domestic · Trophy Bimbo (Reception Bride) · Champagne Gold · wedding fetish) | 6/7 | ⏳ Pendiente |
 | **510** | Black Bondage Bride (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Lenceria · Fetish Arquitectonico (Bondage Bride) · Black (negro liberado) · wedding fetish) | 0/7 | ⏳ Pendiente |
-| **511** | Yacht Domina (08/06/2026 — batch L511-L520 "La Riviera" · Escort · Escort Haute (Yacht) · Champagne · riviera fetish) | 2/7 | ⏳ Pendiente |
+| **511** | Yacht Domina (08/06/2026 — batch L511-L520 "La Riviera" · Escort · Escort Haute (Yacht) · Champagne · riviera fetish) | 4/7 | ⏳ Pendiente |
 | **512** | Azure Beach Club (08/06/2026 — batch L511-L520 "La Riviera" · Bikini · Beach Editorial (O-ring) · Azure + White · riviera fetish) | 2/7 | ⏳ Pendiente |
 | **513** | Monte Carlo Siren (08/06/2026 — batch L511-L520 "La Riviera" · Nightclub · Nightclub (Casino) · Fuchsia + Silver · riviera fetish) | 2/7 | ⏳ Pendiente |
 | **514** | Capri Trophy (08/06/2026 — batch L511-L520 "La Riviera" · Domestic · Trophy Bimbo (Brunch) · Lemon Yellow · riviera fetish) | 1/7 | ⏳ Pendiente |
@@ -684,4 +684,4 @@
 
 ---
 
-*Índice generado por Ele — 10/06/2026 08:26 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 10/06/2026 10:46 — La Voûte d'Anaïs* 🫦👠💅
