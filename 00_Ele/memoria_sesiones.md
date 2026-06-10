@@ -18,6 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 10/06/2026 (Tarde) (📖 Cap 2 fusionado esposa_servidumbre + 🎬 poses Ditzy/POV) ✅
+- **📖 Esposa Servidumbre — Cap 2 FUSIONADO (2+3) v0.4:** reestructuración mayor (Ama). Fundí Cap 2 + Cap 3 en un capítulo que absorbe descubrimiento Y clímax. Canon re-mapeado (Pivotes 3-4-5): presentaciones loft → crema hormonal (feminización real) → ve a Gabriel usar mujeres → ve a Gabriel cogerse a Valeria + se masturba + la pillan → Valeria confiesa a Gabriel → cae → mamada → trío (goza como cornudo hormonizado). `escritor-nivel4` ~7.837 pal → `validador` MICRO-FIX (Narr 8.7 / Temp 9.1) → 2 micro-fixes aplicados (guantes temprano + clímax a pasado). **PENDIENTE GATE AMA**; Caps 3+ a re-mapear.
+- **🎬 Poses DITZY + POV redefinidas:** Ditzy ahora de la cintura hacia arriba (detalle sensual rostro+pechos, no plano americano); POV sin teléfono (autorretrato influencer sexual IG, *"a single woman alone"*). En `pose_rotation_v5.py` + repertorio V5 + memoria.
+- **🔎 Flag config git:** mis commits salen firmados con mail corporativo (`cencosud.cl`) vs imágenes de la app (`farid77cl`). Conviene corregir.
+- **⏳ Próximo:** Gate de la Ama del Cap 2 v0.4 → si aprueba, re-mapear Caps 3+ (aftermath con los tres a sabiendas).
+
 ### Sesión 10/06/2026 (Tarde - Continuación) (🎨 Avance Looks 202 y 203) ✅
 - **🖼️ Materialización y Sincronización:**
   - Registré la materialización completa del **Look 202 (Indigo Mirage)** al 7/7 de sus poses (copiando y normalizando las poses `back_view`, `seated` y `odalisque` en su carpeta).
