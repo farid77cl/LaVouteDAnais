@@ -1,26 +1,29 @@
 # 🖼️ Galería: look296_deep_teal_femme_fatale_detective
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 4
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_296_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_ditzy.png) | ![ele_296_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) |
+| ![ele_296_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_ditzy.png) | ![ele_296_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_odalisque.png) | ![ele_296_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_pov.png) |
+| ![ele_296_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_296_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_ditzy.png) | ![ele_296_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_296_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_ditzy.png) | ![ele_296_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_odalisque.png) | ![ele_296_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_pov.png) | ![ele_296_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_296_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_ditzy.png)
+- [ele_296_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_odalisque.png)
+- [ele_296_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_pov.png)
 - [ele_296_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/ele_296_standing.png)
 
 ---
