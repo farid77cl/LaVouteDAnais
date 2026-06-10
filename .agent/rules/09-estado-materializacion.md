@@ -17,9 +17,9 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L530** | 🟢 ~430 únicos |
-| **Último batch** | **L521-L530 "El Imperio del Látex"** (extra fetichista · máximo látex/cuero/arnés/jaula/domme: Catsuit Domme negro · Arnés Bordelle oxblood · Látex Couture emerald · Officer Domme violeta · Jaula Chrome · Rubber Maid rojo · Bodysuit Arnés cyan · Lencería Látex magenta · Gym Fetish lima · Diosa Látex Líquido oro · Lencería ×2 · Token de Vestuario Bloqueado en L522/525/527 · 0 guantes · editorial-fetish sin actos) | 🖤⛓️ Registrado (prompts) |
-| **Penúltimo batch** | **L511-L520 "La Riviera"** (riviera fetish, 10 destinos) + **L501-L510 "El Altar de Vinilo"** (wedding, 10 novias) | 🌊👰 Registrado (prompts) |
+| **Flota Diseñada (último look)** | **L540** | 🟢 ~440 únicos |
+| **Último batch** | **L531-L540 "El Jardín Venenoso"** (10 flores tóxicas con lente fetish: Orquídea Negra HF · Belladona Escort granate · Hortensia Bikini azul [clear acrylic] · Amapola Pin-Up escarlata · Datura Lencería Fetish blanca [Token Vestuario] · Absenta Nightclub verde · Lirio Tigre Gym skort naranja · Dedalera Stripper Pole fucsia [Token Vestuario + clear acrylic glitter] · Glicina Maid lila · Adelfa Lencería Boudoir coral · Lencería ×2 · 0 guantes · **1er batch con Ditzy waist-up + POV sin teléfono**) | 🥀 Registrado (prompts) |
+| **Penúltimo batch** | **L521-L530 "El Imperio del Látex"** (extra fetichista, domme couture) + **L511-L520 "La Riviera"** | 🖤🌊 Registrado (prompts) |
 | **Materialización L441-L470 (parcial vía app)** | 7/7: **L443, L445, L458, L460, L461** · 5-6/7: L444, L446, L457, L459 · resto solo standing · L471-490 0/7 | 🟡 En curso vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |

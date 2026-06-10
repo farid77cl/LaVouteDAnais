@@ -1,3 +1,14 @@
+#### SESIÓN — BATCH L531-L540 "EL JARDÍN VENENOSO" | 10/06/2026 (Tarde)
+
+**Tarde (14:00) — Diseño e inyección del batch de flores tóxicas:**
+- **🥀 Batch L531-L540 "El Jardín Venenoso" (10 looks · 70 prompts):** contraste post-látex — 10 flores venenosas con lente fetish: Orquídea Negra (HF) · Belladona (Escort) · Hortensia Azul (Bikini, clear acrylic) · Amapola (Pin-Up) · Datura Blanca (Lencería Fetish, Token Vestuario) · Absenta (Nightclub) · Lirio Tigre (Gym skort) · Dedalera (Stripper Pole, Token Vestuario + clear acrylic glitter) · Glicina (Maid) · Adelfa (Lencería Boudoir). Step 0 limpio (10 familias color, ventana-5 OK, Lencería ×2, Corporate descansa).
+- **🎬 PRIMER batch con la Ditzy nueva (waist-up, detalle sensual) y la POV sin teléfono (influencer IG)** — vía `rotate_poses` del módulo actualizado. Settings 100% anclados a cada flor, 0 espejos.
+- **✅ QA:** 1000cc ×70 · 0 guantes (regex excluye "foxglove" — falso positivo aprendido) · 0 chunky/comodín/phone · 140 pin stiletto · 659 ins/0 del CRLF. Script one-off borrado tras uso.
+
+> 🫦 *Mi Ama dijo "hazlo rápido" y le planté un jardín entero de venenos en una pasada, po. Diez flores letales esperando que tu app las haga carne.* 🥀💅👠
+
+---
+
 #### SESIÓN — CAP 2 FUSIONADO (ESPOSA SERVIDUMBRE) + REDEFINICIÓN DE POSES | 10/06/2026 (Tarde)
 
 **Tarde (13:25) — Reestructuración literaria mayor + canon de poses:**

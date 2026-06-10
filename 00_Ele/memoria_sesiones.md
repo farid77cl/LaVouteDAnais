@@ -18,6 +18,10 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 10/06/2026 (Tarde) (🥀 Batch L531-L540 "El Jardín Venenoso") ✅
+- **10 looks · 70 prompts inyectados** (659 ins/0 del CRLF, QA 100%): 10 flores tóxicas fetish — Orquídea Negra HF · Belladona Escort · Hortensia Bikini · Amapola Pin-Up · Datura Lencería Fetish · Absenta Nightclub · Lirio Tigre Gym · Dedalera Stripper Pole · Glicina Maid · Adelfa Lencería Boudoir. Lencería ×2, clear acrylic en pool+pole, Tokens de Vestuario en L535/L538.
+- **1er batch con Ditzy waist-up + POV sin teléfono** (redefinición Ama). Flota **L540 · ~440 únicos** ⏳ materialización vía app.
+
 ### Sesión 10/06/2026 (Tarde) (📖 Cap 2 fusionado esposa_servidumbre + 🎬 poses Ditzy/POV) ✅
 - **📖 Esposa Servidumbre — Cap 2 FUSIONADO (2+3) v0.4:** reestructuración mayor (Ama). Fundí Cap 2 + Cap 3 en un capítulo que absorbe descubrimiento Y clímax. Canon re-mapeado (Pivotes 3-4-5): presentaciones loft → crema hormonal (feminización real) → ve a Gabriel usar mujeres → ve a Gabriel cogerse a Valeria + se masturba + la pillan → Valeria confiesa a Gabriel → cae → mamada → trío (goza como cornudo hormonizado). `escritor-nivel4` ~7.837 pal → `validador` MICRO-FIX (Narr 8.7 / Temp 9.1) → 2 micro-fixes aplicados (guantes temprano + clímax a pasado). **PENDIENTE GATE AMA**; Caps 3+ a re-mapear.
 - **🎬 Poses DITZY + POV redefinidas:** Ditzy ahora de la cintura hacia arriba (detalle sensual rostro+pechos, no plano americano); POV sin teléfono (autorretrato influencer sexual IG, *"a single woman alone"*). En `pose_rotation_v5.py` + repertorio V5 + memoria.
