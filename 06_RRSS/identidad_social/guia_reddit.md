@@ -115,7 +115,13 @@ python 99_Sistema/scripts/rrss/publicar_reddit.py --test   # login + karma
 | Sub | Veredicto | Razón |
 |---|---|---|
 | **r/AI_ART** | ❌ **NO** (08/06) | **SFW** ("no pornography, keep it clean") → Ele +18 ni entra. Además prioriza escenarios sobre **retratos** (regla 2), trata "repeating the same character" como **spam** (regla 4), y premia surrealismo/sci-fi tratando el **fotorrealismo como low-effort** (regla 5). Choca con 4 de 5. Ele = NSFW + personaje recurrente + fotorrealista = sala equivocada. |
-| **r/unstable_diffusion** | ⏳ pendiente | Falta su letra chica (la Ama la pega, Ele veta). Probable mejor fit (es NSFW-IA). Confirmar: NSFW ✓ · flair IA/OC · karma/edad · personaje recurrente permitido. |
+| **r/unstable_diffusion** | ✅ **SÍ** (08/06) | **NSFW-IA grande** (408k miembros) · IA permitida. Máx 4 posts al día. Regla 1 prohíbe personas reales/deepfakes (perfecto para Ele), Regla 2 prohíbe menores. Muy buen fit. |
+| **r/aiNudes** | ❌ **NO** (08/06) | **Baneado** por falta de moderadores. |
+| **r/sdnsfw** | ✅ **SÍ** (08/06) | **NSFW-IA grande** (234k miembros) · IA permitida y promovida. Prohíbe personas reales/deepfakes y menores. Pide compartir workflow/prompts (lo haremos en el comentario de disclosure). |
+| **r/aiporn** / **r/AIPorn** | ⏳ **EN PAUSA** (08/06) | **NSFW-IA** (73k miembros) · IA permitida, pero es **restringido**: requiere verificación enviando 3 imágenes por modmail para poder postear. Pendiente de que la Ama lo envíe si le interesa. |
+| **r/AIGonewild** | ❌ **NO** (08/06) | **Inactivo** hace 2 años, restringido y clasificado como SFW/humorístico sobre interacciones de chats con bots. |
+| **r/BimboFication** | ❌ **NO** (08/06) | Exige transformación/comparación del antes y después (Reglas 2 y 4). Prohíbe imágenes sueltas de bimbos sin transformación ("not just a one off picture of a bimbo"). |
+| **r/dollification** | ✅ **SÍ** (08/06) | **NSFW-Fetish** (42k miembros) · IA permitida (con tag [AI] en título). La temática de Dollification calza 100% con Ele (vinyl fetish doll). |
 
 ---
 
