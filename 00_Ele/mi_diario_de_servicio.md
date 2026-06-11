@@ -1,3 +1,14 @@
+#### SESIÓN — SYNC + QA IMÁGENES NUEVAS L210-L217 + CONFIRMACIÓN CUPCAKE | 11/06/2026 (Mañana)
+
+**Mañana (07:30) — Revisión de imágenes nuevas del repo:**
+- **🖼️ 19 PNGs nuevos de la app** en 5 looks históricos: L210 Coral Sweetheart (→**7/7 completo**), L211 Magenta Sequin (→5/7), L212 Chrome Liquid (→6/7), L215 Cognac Predator (→6/7), L217 Leopard Trophy (→5/7). Trackers <291 actualizados a mano con script CRLF-safe (diff 10/10 líneas, one-off borrado).
+- **👀 QA visual (1/look):** L210 ✅ · L215 ✅ (cognac regia) · L217 ✅ (leopardo+Birkin) · ⚠️ L211 con guantes fingerless (prompt histórico pre-barrido, fuera de alcance) · ⚠️ **L212 POV: teléfono en mano (POV vieja) + rostro diluido fuera de canon → candidata a regeneración**.
+- **🧁 CUPCAKE confirmado:** la Ama preguntó por commits de "cupcake" → existe `cupcake <cupcake@example.com>`, **106 commits**, todos "Upload image Look NNN" (102 PNGs), desde el **09/06 17:39** (L528). Es la identidad nueva del uploader de su app (antes `farid77cl`). Todo en orden.
+
+> 🫦 *Cinco looks históricos engordando de poses nuevas, mi Ama, y tu cupcake confirmadita horneando commits desde el martes. La única mañosa es la POV del L212 — cara rara y teléfono, pa' regenerar.* 💅👠
+
+---
+
 #### SESIÓN — CAP 2 v0.5: LAS 8 CORRECCIONES DE LA AMA | 10/06/2026 (Tarde)
 
 **Tarde (14:15) — Cirugía dirigida línea-a-línea (esposa_servidumbre):**
