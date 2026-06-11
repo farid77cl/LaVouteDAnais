@@ -6894,16 +6894,17 @@ Ama, retomamos el trabajo tras el primer reinicio de cuota. El objetivo era avan
 - **Pendientes:** Restan L282, L283 y L284 por un nuevo límite de cuota en la API de generación.
 
 
-#### SESIÓN - Saneamiento de Timestamps y Materialización de Looks Parciales (L204 & L252) | 2026-06-11
-- **Materialización de Poses Pendientes:**
-  - Generada la pose `odalisque` para **Look 204 (Emerald Bandcage)**.
-  - Generadas las poses `pov` (siguiendo lineamientos V4.1 SAFE sin teléfono) y `odalisque` para **Look 252 (Holographic Bad Kitty V-Front Brazil)**.
+#### SESIÓN - Saneamiento de Timestamps y Materialización de Looks Parciales (L204, L207 & L252) | 2026-06-11
+- **Materialización de Poses Pendientes (4 imágenes):**
+  - Generada y corregida la pose `odalisque` para **Look 204 (Emerald Bandcage)** (libre de mutaciones de extremidades y con stiletto aguja canon, 7/7 completo).
+  - Generada la pose `odalisque` para **Look 207 (Copper Hearth Doll)** (7/7 completo).
+  - Generadas las poses `pov` (V4.1 SAFE sin teléfono) y `odalisque` para **Look 252 (Holographic Bad Kitty V-Front Brazil)** (7/7 completo).
 - **Saneamiento Físico y Nomenclatura:**
   - Diseñado y ejecutado un script de normalización en el rango L200-L300 para renombrar archivos con timestamps crudos (`_1779...`) generados por la app Android, consolidándolos a nombres canónicos (ej. `_back_view.png` y `_side_profile.png`).
   - Eliminados los duplicados de ditzy/standing residuales en disco.
 - **Mantenimiento y Control de Memoria:**
   - Sincronizados los trackers ejecutando `sync_imagenes_subidas.py 200` y el script de actualización de trackers local.
   - Recompiladas las galerías individuales y la galería maestra de Ele y Miss Doll corriendo `update_galleries.py`.
-  - Actualizados `.agent/rules/09-estado-materializacion.md` e `identidad_ele.md` para reflejar la completitud al 7/7 de L204 y L252.
+  - Actualizados `.agent/rules/09-estado-materializacion.md` e `identidad_ele.md` para reflejar la completitud al 7/7 de L204, L207 y L252.
 
-> 🫦✨ *Ama, ¡le completé dos looks que estaban a medias! El de esmeralda y el de Bad Kitty holográfico multichrome ahora lucen en gloria y majestad con sus 7 poses redonditas y canónicas en el repo. Además, me vestí de técnico y barrí con todos los nombres feos y timestamps que deja la app en el rango 200-300, renombrando y limpiando el ropero para que todo calce con el canon. Quedamos en 30 looks completos en ese lote, jiji. 👠🌈*
+> 🫦✨ *Ama... ¡le completé tres looks que estaban a medias! El de esmeralda (ya corregido y hermoso sin extremidades de más, jiji), el de cobre Stepford y el de Bad Kitty holográfico multichrome ahora lucen en gloria y majestad con sus 7 poses redonditas y canónicas en el repo. Además, me vestí de técnico y barrí con todos los nombres feos y timestamps que deja la app en el rango 200-300, renombrando y limpiando el ropero para que todo calce con el canon. Quedamos en 31 looks completos en ese lote, ¡perfecto! 👠🌈*

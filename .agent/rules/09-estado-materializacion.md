@@ -73,7 +73,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 204 (Emerald Bandcage):** 7/7 Poses ✅.
 - ✅ **Look 205 (Obsidian Gold Idol):** 7/7 Poses ✅.
 - ⏳ **Look 206 (Crimson Cathedral):** 2/7 Poses (Materializado parcial) ⏳.
-- ⏳ **Look 207 (Copper Hearth Doll):** 6/7 Poses (Materializado parcial) ⏳.
+- ✅ **Look 207 (Copper Hearth Doll):** 7/7 Poses ✅.
 - ⏳ **Look 208 (Teal Sirène Obi):** 6/7 Poses (Materializado parcial) ⏳.
 - ⏳ **Look 209 (Rose Gold Strap Idol):** 6/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 210 (Coral Sweetheart Bombshell):** 7/7 Poses ✅.
