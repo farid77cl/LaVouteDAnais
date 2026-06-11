@@ -236,7 +236,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 - **vs. Escort:** Escort opera en hoteles/cenas/galas (columna líquida, aristocrática). Nightclub opera en clubs/dance-floors (cinética, brillo agresivo).
 - **vs. High-Fashion Editorial:** HF es escultórico/gala/museo. Nightclub es club/lounge/dance-floor.
 
-**Biblioteca de siluetas:** 12 opciones (ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Nightclub**). Inspiración: Fashion Nova "Going Out" + Oh Polly "All Nighter/Birthday Glam", filtrado por canon Ele.
+**Biblioteca de siluetas:** 12 opciones (ver `00_Ele/biblioteca_siluetas.md` § **Nightclub**). Inspiración: Fashion Nova "Going Out" + Oh Polly "All Nighter/Birthday Glam", filtrado por canon Ele.
 
 **Paleta canon Nightclub:**
 
@@ -350,7 +350,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 - **vs. Escort:** HF = arquitectura imponente, drama del silhouette · Escort = línea aristocrática líquida, discreta dentro del lujo.
 - **vs. Stripper:** HF = couture museo/red-carpet · Stripper = club, jaula, fringe, baile por dinero.
 
-**Biblioteca de siluetas:** 11 opciones (ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **High-Fashion Editorial**). Inspiración: couture clásica SS26 (Dior · Chanel · Schiaparelli · Valentino · Armani Privé), filtrado por canon Ele (sin telas naturales, sin plumas reales, sin lace de algodón).
+**Biblioteca de siluetas:** 11 opciones (ver `00_Ele/biblioteca_siluetas.md` § **High-Fashion Editorial**). Inspiración: couture clásica SS26 (Dior · Chanel · Schiaparelli · Valentino · Armani Privé), filtrado por canon Ele (sin telas naturales, sin plumas reales, sin lace de algodón).
 
 **Paleta canon HF Editorial:**
 
@@ -457,7 +457,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 - **vs. Stripper:** Stripper = stage/pole/billetes. Corporate = boardroom/desk/elevator. La sheer blouse de Office Siren NO es la crystal mesh stripper — una es bajo blazer, la otra es la pieza completa.
 - **vs. Lencería:** Lencería = boudoir/cama puro. Corporate trench-coat surprise = oficina con lingerie debajo (el contraste ES el fetish).
 
-**Biblioteca de siluetas:** 14 opciones (7 Power Domme CA1-CA7 + 7 Office Siren CB1-CB7) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Corporate**.
+**Biblioteca de siluetas:** 14 opciones (7 Power Domme CA1-CA7 + 7 Office Siren CB1-CB7) — ver `00_Ele/biblioteca_siluetas.md` § **Corporate**.
 
 **Regla Dual:** En cada batch Corporate, **al menos 1 Power + 1 Office Siren**. Balance 50/50 a lo largo del catálogo. Nunca un batch 100% de un solo polo.
 
@@ -596,7 +596,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 - **vs. Escort:** Trophy = hogar PROPIO (esposa-de-millonario). Escort Haute = hotel/yacht alquilado por cliente.
 - **vs. Stripper:** Bunny Maid en hogar privado ≠ Stripper en stage público.
 
-**Biblioteca de siluetas:** 14 opciones (7 Trophy DA1-DA7 + 7 Maid DB1-DB7) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Domestic**.
+**Biblioteca de siluetas:** 14 opciones (7 Trophy DA1-DA7 + 7 Maid DB1-DB7) — ver `00_Ele/biblioteca_siluetas.md` § **Domestic**.
 
 **Regla Dual:** En cada batch Domestic, **al menos 1 Trophy + 1 Maid**. Balance 50/50.
 
@@ -745,7 +745,7 @@ El paraguas "Mix" legacy (~91 looks viejos) sigue sin reclasificar — distorsio
 >
 > Si el outfit cubre >65% del cuerpo sin ninguno de los anteriores → **NO ES STRIPPER**, es Nightclub o Bikini editorial.
 
-**Biblioteca de siluetas:** 14 opciones (7 Stage SA1-SA7 + 7 Pole SB1-SB7) — ver `00_Ele/identidad_ele.md` § Biblioteca de Siluetas → **Stripper**.
+**Biblioteca de siluetas:** 14 opciones (7 Stage SA1-SA7 + 7 Pole SB1-SB7) — ver `00_Ele/biblioteca_siluetas.md` § **Stripper**.
 
 **Regla Dual:** En cada batch Stripper, **al menos 1 Stage + 1 Pole**. Balance 50/50.
 

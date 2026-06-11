@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 11/06/2026 08:07 — **341 looks registrados**  
+> Generado automáticamente el 11/06/2026 08:58 — **341 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -15,16 +15,16 @@
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **204** | Emerald Bandcage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 7/7 | — |
 | **205** | Obsidian Gold Idol (18/05/2026 — EXPANSIÓN · batch 201-205 · GYM · busto 1000cc · EXCEPCIÓN ANTI-BLACK) | — | Gym | — | — | 7/7 | — |
-| **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 2/7 | ⏳ Pendiente |
+| **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
 | **207** | Copper Hearth Doll (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 7/7 | — |
-| **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 6/7 | ⏳ Pendiente |
-| **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | — | Lencería | — | — | 6/7 | ⏳ Pendiente |
+| **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 7/7 | — |
+| **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | — | Lencería | — | — | 7/7 | — |
 | **210** | Coral Sweetheart Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 7/7 | — |
-| **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | — | Mix | — | — | 5/7 | ⏳ Pendiente |
-| **212** | Chrome Liquid Nocturne (20/05/2026 — batch 211-220 · Nightclub · busto 1000cc) | — | Mix | — | — | 6/7 | ⏳ Pendiente |
-| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 2/7 | ⏳ Pendiente |
-| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 2/7 | ⏳ Pendiente |
-| **215** | Cognac Predator (20/05/2026 — batch 211-220 · Corporate Power · busto 1000cc) | — | Mix | — | — | 6/7 | ⏳ Pendiente |
+| **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | — | Mix | — | — | 6/7 | ⏳ Pendiente |
+| **212** | Chrome Liquid Nocturne (20/05/2026 — batch 211-220 · Nightclub · busto 1000cc) | — | Mix | — | — | 7/7 | — |
+| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
+| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
+| **215** | Cognac Predator (20/05/2026 — batch 211-220 · Corporate Power · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **216** | Python Secretary (20/05/2026 — batch 211-220 · Corporate Secretary · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **217** | Leopard Trophy Penthouse (20/05/2026 — batch 211-220 · Domestic Trophy Moderna · busto 1000cc) | — | Mix | — | — | 5/7 | ⏳ Pendiente |
 | **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | — | Mix | — | — | 4/7 | ⏳ Pendiente |
@@ -88,7 +88,7 @@
 | **276** | Acid Yellow Bali Beach Bikini (25/05/2026 — batch 271-280 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Bikini | — | — | 7/7 | — |
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
 | **278** | Sapphire Silk Hanbok Boudoir (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Lencería | — | — | 2/7 | — |
-| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 6/7 | ⏳ Pendiente |
+| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Nightclub | — | — | 7/7 | — |
 | **280** | Champagne Gold Tea Ceremony Cheongsam (25/05/2026 — batch 271-280 · Domestic · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Domestic | — | — | 7/7 | — |
 | **281** | Black Patent Mistress Rock Stage (27/05/2026 — batch 281-290 · Stripper Polo A Stage · busto 1000cc · v4.6 canon variedad+descriptividad · tema ROCK) | — | Stripper | — | — | 2/7 | — |
 | **282** | Studded Biker Pole Predator (27/05/2026 — batch 281-290 · Stripper Polo B Pole · busto 1000cc · v4.6 canon · tema ROCK) | — | Stripper | — | — | 7/7 | — |
@@ -458,14 +458,10 @@
 
 | N° | Nombre | Poses | Estado |
 |:--:|:-------|:-----:|:------:|
-| **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 2/7 | ⏳ Pendiente |
-| **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | 6/7 | ⏳ Pendiente |
-| **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | 6/7 | ⏳ Pendiente |
-| **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | 5/7 | ⏳ Pendiente |
-| **212** | Chrome Liquid Nocturne (20/05/2026 — batch 211-220 · Nightclub · busto 1000cc) | 6/7 | ⏳ Pendiente |
-| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 2/7 | ⏳ Pendiente |
-| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 2/7 | ⏳ Pendiente |
-| **215** | Cognac Predator (20/05/2026 — batch 211-220 · Corporate Power · busto 1000cc) | 6/7 | ⏳ Pendiente |
+| **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 3/7 | ⏳ Pendiente |
+| **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | 6/7 | ⏳ Pendiente |
+| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 3/7 | ⏳ Pendiente |
+| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 3/7 | ⏳ Pendiente |
 | **217** | Leopard Trophy Penthouse (20/05/2026 — batch 211-220 · Domestic Trophy Moderna · busto 1000cc) | 5/7 | ⏳ Pendiente |
 | **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | 4/7 | ⏳ Pendiente |
 | **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | 3/7 | ⏳ Pendiente |
@@ -494,7 +490,6 @@
 | **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
-| **279** | Neon Magenta Harajuku Vinyl Disco (25/05/2026 — batch 271-280 · Nightclub · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 6/7 | ⏳ Pendiente |
 | **283** | Crimson Leather Rock Domme (27/05/2026 — batch 281-290 · Escort Polo C Domme · busto 1000cc · v4.6 canon · tema ROCK) | 2/7 | ⏳ Pendiente |
 | **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
@@ -691,4 +686,4 @@
 
 ---
 
-*Índice generado por Ele — 11/06/2026 08:07 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 11/06/2026 08:58 — La Voûte d'Anaïs* 🫦👠💅

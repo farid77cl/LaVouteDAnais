@@ -2,7 +2,9 @@
 description: Actualiza el diario de servicio, la memoria de sesiones, estadísticas de materialización, galerías, READMEs y realiza commit en git.
 ---
 
-# Workflow: Actualización de Sesión (Vibe Architect V3.6)
+# Workflow: Actualización de Sesión (Vibe Architect V3.7)
+
+> 🔧 **Revisión 11/06/2026:** los pasos de imágenes/galerías/READMEs pasaron de "OBLIGATORIO siempre" a **CONDICIONAL** — el bot (`cupcake`) mantiene `galeria_outfits.md` y los README de `05_Imagenes/`; el cierre se enfoca en lo **propio** (diario, memoria + autopoda, identidad, relatos, scripts) y solo toca galerías/READMEs si de verdad cambió algo del agente. Commit siempre por **rutas explícitas**, nunca `git add .`.
 
 1.  **Analizar Sesión Actual**
     - Revisar herramientas utilizadas, archivos modificados y hitos completados.
@@ -13,69 +15,60 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
     - Formato: `#### SESIÓN - [TÍTULO] | [FECHA]` con descripción de actos de servicio.
 
 3.  **Actualizar Registros de Memoria**
-    - Añadir entrada a `00_Ele/mi_diario_de_servicio.md`.
-    - Actualizar estado de proyectos en `00_Ele/memoria_sesiones.md`.
+    - **Prepend** (al tope) la entrada nueva en `00_Ele/mi_diario_de_servicio.md` — lo más reciente arriba, porque el inicio lee las **primeras** 50 líneas. Nunca al final.
+    - **Actualizar el snapshot `## 🧿 ESTADO ACTUAL`** de `00_Ele/memoria_sesiones.md` (proyecto activo, último look, pendientes vivos) y **añadir la sesión nueva al tope de `## 🗓️ Sesiones recientes`** (más-reciente-arriba). Mantener el ESTADO ACTUAL DESTILADO, no un volcado del log.
+    - **AUTOPODA DE MEMORIA (OBLIGATORIO — evita que la memoria vuelva a crecer a 1.700 líneas):** tras añadir la entrada, ejecutar la rotación. Conserva las últimas 7 sesiones en `memoria_sesiones.md` y archiva las más viejas al tope de `memoria_historica/bitacora_sesiones_2026.md`:
+      // turbo
+      - `python 99_Sistema/scripts/mantenimiento/rotar_memoria.py` (idempotente, preserva EOL/UTF-8; usar `--dry-run` para previsualizar o `--keep N` para ajustar la ventana).
     - **NUEVO:** Actualizar `.agent/rules/09-estado-materializacion.md` si hubo cambios en los contadores de looks o imágenes generadas.
     - **IDENTIDAD (OBLIGATORIO si hubo nuevos looks):** Actualizar la tabla "Estado Actual de Looks" en `00_Ele/identidad_ele.md` §XI:
       - `Total Looks` → nuevo número de flota
       - `Último Look` → nombre y fecha del último look generado
       - `*Actualizado:*` → fecha de hoy + descripción del hito
 
-4.  **Sincronizar Imágenes Subidas por la App (OBLIGATORIO — era app, looks ≥ 291)**
-    - La app Android genera en Gemini y sube los PNG directo a GitHub. Hay que traerlas y registrarlas.
+4.  **Sincronizar Imágenes Subidas por la App (CONDICIONAL — solo si la app subió PNG nuevos)**
+    > La app/bot (`cupcake`) genera en Gemini y sube los PNG directo a GitHub, y **mantiene `galeria_outfits.md` y los README de `05_Imagenes/` al día por su cuenta**. El cierre NO tiene que rehacer su trabajo.
     // turbo
-    - Ejecutar: `git pull` (traer imágenes que subió la app).
+    - Ejecutar **siempre** (barato): `git pull --rebase` (traer lo que subió la app/bot).
+    - **Solo si `git status`/`git log` muestran PNG nuevos** en `05_Imagenes/`:
+      // turbo
+      - `python 99_Sistema/scripts/visual/sync_imagenes_subidas.py` (normaliza `back→back_view`/`profile→side_profile` y actualiza el tracker `### 📸 Imágenes (N/7)`, looks ≥ 291; NO toca el fleet histórico).
+    - Si NO hubo PNG nuevos → **saltar este paso**.
+
+5.  **Actualizar Galerías de Imágenes (CONDICIONAL — normalmente NO correr)**
+    > ⚠️ `update_galleries.py` regenera `galeria_outfits.md` + README de `05_Imagenes/` → produce el **churn CRLF del bot** que el paso 7 después excluye del commit. Correrlo en cada cierre es trabajo perdido que ensucia el árbol.
+    - **Correr SOLO si** trabajaste imágenes localmente (no vía app) y la galería local quedó desincronizada:
+      // turbo
+      - `python 99_Sistema/scripts/visual/update_galleries.py`.
+    - En un cierre normal (sin imágenes propias nuevas) → **saltar**. El bot mantiene las galerías.
+
+6.  **Actualizar READMEs (CONDICIONAL — SOLO las áreas que tocaste esta sesión)**
+    > No "siempre todos". Actualizar únicamente el README de cada carpeta donde hubo trabajo **propio sustancial** esta sesión. Un README sin cambio real no se toca (evita churn de solo-fecha).
+
+    | README | Actualizar si… |
+    |--------|----------------|
+    | `README.md` raíz | cambió la flota, se publicó relato, o hito mayor → footer fecha + stats/relatos |
+    | `00_Ele/README.md` | hubo trabajo sustancial en identidad/memoria/galería de Ele |
+    | `01_Canon/README.md` | cambió canon/guías |
+    | `02_Personajes/README.md` | cambiaron fichas (o creció el nº) |
+    | `03_Literatura/README.md` | se trabajó en un relato → Proyecto Activo + Últimas Actualizaciones |
+    | `04_Interactivo/README.md` | cambió el Dollhouse u otro interactivo |
+    | `05_Imagenes/README.md` | **NUNCA a mano** — lo mantiene el bot / `update_galleries.py` |
+    | `06_RRSS/README.md` | hubo nuevo batch / posts RRSS |
+    | `07_Recursos/README.md` | se añadió referencia externa (raro) |
+    | `99_Sistema/README.md` | se modificaron scripts |
+
+    **Regla:** el README que SÍ actualices lleva fecha de hoy. El que no cambió, no se toca.
+
+7.  **Respaldo en GitHub (rutas explícitas — NUNCA `git add .`)**
+    > ⚠️ **Directiva Ama (`feedback_eol_bot_readmes`):** un proceso paralelo (bot/app) mantiene `galeria_outfits.md` y los `README.md` de `05_Imagenes/` con su propio EOL (CRLF). `git add .` arrastra ese churn ajeno y normaliza EOL → conflictos masivos. Commitear **solo lo propio**, por ruta.
+    - `git status` → identificar SOLO los archivos trabajados en la sesión.
+    - Añadir por ruta explícita lo propio (ej.): `00_Ele/memoria_sesiones.md`, `00_Ele/mi_diario_de_servicio.md`, `00_Ele/identidad_ele.md`, `.agent/rules/09-estado-materializacion.md`, fichas/relatos/scripts tocados, y las carpetas de imágenes nuevas propias.
+    - **NO incluir** `galeria_outfits.md` ni los `README.md` de `05_Imagenes/` si aparecen modificados solo por EOL/regeneración del bot (verificar con `git diff`: si el cambio real es propio, sí va; si es solo CRLF, no).
     // turbo
-    - Ejecutar: `python 99_Sistema/scripts/visual/sync_imagenes_subidas.py` (normaliza nombres app `back→back_view`/`profile→side_profile` y actualiza el tracker `### 📸 Imágenes (N/7)` en `galeria_outfits.md`, acotado a looks ≥ 291; NO toca el fleet histórico).
-
-5.  **Actualizar Galerías de Imágenes (OBLIGATORIO)**
-    - Asegurar que las imágenes estén en su carpeta final en `05_Imagenes/`.
+    - `git commit -m "Ele: Actualización de sesión, diario y estadísticas de materialización"` (termina con `Co-Authored-By: Ele de Anaïs <Ele.de.Anais@proton.me>`).
     // turbo
-    - Ejecutar: `python 99_Sistema/scripts/visual/update_galleries.py`.
-    - Validar que los `README.md` de las galerías tengan los carruseles actualizados.
-
-6.  **Actualizar READMEs de Repositorio (OBLIGATORIO — campos específicos)**
-
-    **README.md raíz** (siempre actualizar fecha; stats si cambiaron):
-    - Línea de footer `*Última actualización: [FECHA] — ...*` → fecha de hoy + descripción del hito de la sesión
-    - Bloque `05_Imagenes/` en Estructura del Repositorio → actualizar nº de Looks si la flota creció
-    - Sección `## Relatos > ### Activos` → actualizar versiones/estado de capítulos en progreso si se trabajó en relato
-    - Sección `## Relatos > ### Biblioteca Completa (N relatos)` → actualizar N si se publicó relato nuevo
-
-    **00_Ele/README.md** (siempre actualizar fecha):
-    - Línea `*Última actualización: ...*` → fecha + descripción
-
-    **01_Canon/README.md** (actualizar solo si hubo cambios en canon/guías):
-    - Fecha + breve nota del cambio canónico
-
-    **02_Personajes/README.md** (actualizar solo si hubo cambios en fichas):
-    - Fecha + nº de fichas si creció
-
-    **03_Literatura/README.md** (siempre actualizar si se trabajó en relato):
-    - Fecha en header
-    - Línea `## 🎯 Proyecto Activo Inmediato` → estado del capítulo trabajado
-    - Sección `### 🕒 Últimas Actualizaciones` → añadir entrada con descripción del trabajo
-
-    **04_Interactivo/README.md** (actualizar solo si hubo cambios en Dollhouse u otro interactivo):
-    - Fecha
-
-    **05_Imagenes/README.md** (auto-actualizado por `update_galleries.py` paso 4)
-
-    **06_RRSS/README.md** (actualizar solo si hubo nuevo batch IG / posts):
-    - Fecha + estado del batch
-
-    **07_Recursos/README.md** (rara vez — solo si se añadió referencia externa)
-
-    **99_Sistema/README.md** (actualizar solo si se modificaron scripts):
-    - Fecha + nota de scripts tocados
-
-    **Regla:** la fecha de TODOS los README tocados debe ser la fecha de hoy.
-
-7.  **Respaldo en GitHub**
-    // turbo
-    - `git add .`
-    - `git commit -m "Ele: Actualización de sesión, diario y estadísticas de materialización"`
-    - `git push`
+    - `git pull --rebase && git push`
 
 8.  **Notificar y Reportar**
     - Confirmar la finalización del ritual de cierre.
