@@ -1,5 +1,7 @@
 # 📸 Prompts Ditzy Pendientes — Looks 100 a 300
 
+> ⚠️ **WORK-FILE OBSOLETO (poses con esquema viejo).** Los prompts Ditzy de abajo usan el **plano medio/americano** retirado. La pose **Ditzy vigente es WAIST-UP** (cintura arriba, rostro + busto — redef. Ama 10/06/2026). Si se materializa algún Ditzy pendiente, usar la pose vigente del SKILL `ele-outfit-engine`, NO el prompt de abajo.
+
 > Listado estructurado y listo para copiar de todas las poses **Ditzy (plano medio)** que faltan físicamente en el disco.
 > *Generado el 31/05/2026 — Total pendientes: 87*
 
