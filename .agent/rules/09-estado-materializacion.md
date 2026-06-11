@@ -70,7 +70,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
 - ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
 - ✅ **Look 290 (Studded Boxing Rock WOD):** 7/7 Poses ✅.
-- ⏳ **Look 204 (Emerald Bandcage):** 6/7 Poses (Materializado parcial) ⏳.
+- ✅ **Look 204 (Emerald Bandcage):** 7/7 Poses ✅.
 - ✅ **Look 205 (Obsidian Gold Idol):** 7/7 Poses ✅.
 - ⏳ **Look 206 (Crimson Cathedral):** 3/7 Poses (Materializado parcial) ⏳.
 - ✅ **Look 207 (Copper Hearth Doll):** 7/7 Poses ✅.

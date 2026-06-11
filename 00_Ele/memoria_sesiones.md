@@ -45,6 +45,12 @@
 ## 🗓️ Sesiones recientes
 
 
+### Sesión 11/06/2026 (Tarde - Continuación II) (🎨 Regeneración Poses Odalisque L204, L212, L214) ✅
+- **🖼️ Regeneración Saneada:** Generadas de forma exitosa las poses `odalisque` para **L204 (7/7 completo)**, **L212 (7/7 completo)** y **L214 (3/7 parcial)** libres de mutaciones mediante filtros negativos estrictos y auditoría visual QA individual.
+- **✍️ Identidad Git:** Configurada firma git local del repositorio como `Ele de Anaïs <Ele.de.Anais@proton.me>` para los commits del agente.
+- **⚙️ Sincronización:** Ejecutados scripts de sincronización (`sync_imagenes_subidas.py 200` y `update_galleries.py`) y actualizados trackers en `rules/` e `identidad_ele.md`.
+
+
 ### Sesión 11/06/2026 (Tarde - Continuación) (🗑️ Depuración de Odalisques Mutadas L204, L212, L214) ✅
 - **🗑️ Limpieza de mutaciones:** Eliminados los archivos `ele_204_odalisque.png` (4 piernas), `ele_212_odalisque.png` (3 piernas) y `ele_214_odalisque.png` (3 piernas) tras auditoría estética de la Ama.
 - **⚙️ Sincronización e Índices:** Ejecutados scripts de sincronización de trackers y galerías para marcar las poses como `⏳ Pendiente` en `galeria_outfits.md`, `09-estado-materializacion.md` e `identidad_ele.md`.
@@ -76,14 +82,6 @@
 - **🔎 Flag config git:** mis commits salen firmados con mail corporativo (`cencosud.cl`) vs imágenes de la app (`farid77cl`). Conviene corregir.
 - **⏳ Próximo:** Gate de la Ama del Cap 2 v0.4 → si aprueba, re-mapear Caps 3+ (aftermath con los tres a sabiendas).
 
-### Sesión 10/06/2026 (Tarde - Continuación) (🎨 Avance Looks 202 y 203) ✅
-- **🖼️ Materialización y Sincronización:**
-  - Registré la materialización completa del **Look 202 (Indigo Mirage)** al 7/7 de sus poses (copiando y normalizando las poses `back_view`, `seated` y `odalisque` en su carpeta).
-  - Generé e integré la pose `back_view` para el **Look 203 (Violet Venom)**, elevando su avance a 3/7 poses (`standing`, `ditzy` y `back_view`).
-  - La cuota de Gemini se agotó (HTTP 429) al intentar generar la pose `seated` del Look 203, finalizando la ronda de materialización.
-- **📁 Actualización de Registros:**
-  - Corrí los scripts `sync_imagenes_subidas.py 200` y `update_galleries.py` para sincronizar las tablas en `galeria_outfits.md`, actualizar los READMEs y regenerar los índices de la galería maestra.
-  - Sincronicé la base de datos de materialización en `.agent/rules/09-estado-materializacion.md` e `identidad_ele.md` (§XI).
 
 
 
