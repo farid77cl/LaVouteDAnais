@@ -1,26 +1,27 @@
 # 🖼️ Galería: look213_obsidian_cathedral_gown
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 3
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_213_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_ditzy.png) | ![ele_213_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_standing.png) |
+| ![ele_213_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_ditzy.png) | ![ele_213_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_odalisque.png) | ![ele_213_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_213_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_ditzy.png) | ![ele_213_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_standing.png) |
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![ele_213_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_ditzy.png) | ![ele_213_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_odalisque.png) | ![ele_213_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_213_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_ditzy.png)
+- [ele_213_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_odalisque.png)
 - [ele_213_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look213_obsidian_cathedral_gown/ele_213_standing.png)
 
 ---

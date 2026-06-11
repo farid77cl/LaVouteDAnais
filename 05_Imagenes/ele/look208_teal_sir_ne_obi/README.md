@@ -1,13 +1,13 @@
 # 🖼️ Galería: look208_teal_sir_ne_obi
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_208_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_back_view.png) | ![ele_208_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_ditzy.png) | ![ele_208_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_pov.png) |
-| ![ele_208_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_seated.png) | ![ele_208_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_side_profile.png) | ![ele_208_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_standing.png) |
+| ![ele_208_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_back_view.png) | ![ele_208_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_ditzy.png) | ![ele_208_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_odalisque.png) |
+| ![ele_208_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_pov.png) | ![ele_208_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_seated.png) | ![ele_208_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_208_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_back_view.png) | ![ele_208_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_ditzy.png) | ![ele_208_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_pov.png) | ![ele_208_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_seated.png) |
-| ![ele_208_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_side_profile.png) | ![ele_208_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_standing.png) |
+| ![ele_208_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_back_view.png) | ![ele_208_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_ditzy.png) | ![ele_208_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_odalisque.png) | ![ele_208_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_pov.png) |
+| ![ele_208_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_seated.png) | ![ele_208_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_side_profile.png) | ![ele_208_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_standing.png) |
 
 
 ---
@@ -24,6 +24,7 @@ Total imágenes: 6
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_208_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_back_view.png)
 - [ele_208_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_ditzy.png)
+- [ele_208_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_odalisque.png)
 - [ele_208_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_pov.png)
 - [ele_208_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_seated.png)
 - [ele_208_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look208_teal_sir_ne_obi/ele_208_side_profile.png)
