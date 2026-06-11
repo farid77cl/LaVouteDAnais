@@ -13,7 +13,7 @@
 | Archivo | Propósito | Consultar Cuando... |
 |---------|-----------|---------------------|
 | [identidad_ele.md](identidad_ele.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
-| [canon_visual_ele.md](canon_visual_ele.md) | **Canon Visual V3.5** — ADN Hard-Sync, Cherry Red | Generar imágenes de Ele |
+| [../.agent/skills/ele-outfit-engine/SKILL.md](../.agent/skills/ele-outfit-engine/SKILL.md) | **Engine Visual V3.5** — ADN Hard-Sync, fuente única | Generar imágenes de Ele |
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
 | [galeria_outfits.md](galeria_outfits.md) | **220 looks** definidos (ADN V3.5 busto 1000cc) de Ele — Mix 75.9% ✅ | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |

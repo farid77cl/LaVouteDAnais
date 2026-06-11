@@ -1,3 +1,9 @@
+> # ⛔ DOCUMENTO OBSOLETO — ARCHIVADO 11/06/2026
+> **NO es canon vigente.** Es de abril-mayo 2026 y NO refleja el canon de junio (negro liberado · guantes prohibidos · Token de Calzado/Vestuario Bloqueado · Step 0 Anti-Repetición · biblioteca de siluetas · metas asimétricas · Ditzy waist-up / POV sin teléfono).
+> **Fuente única del engine visual de Ele:** `.agent/skills/ele-outfit-engine/SKILL.md` (+ `00_Ele/identidad_ele.md` · `00_Ele/biblioteca_siluetas.md` · `.agent/rules/04-estetica-ele.md`). Se conserva solo como referencia histórica.
+
+---
+
 # 👠 FLUJO DE CREACIÓN DE OUTFIT DIARIO — Ele V3.5
 *Protocolo completo y obligatorio. Desde la idea hasta el commit. — Actualizado 13/05/2026*
 

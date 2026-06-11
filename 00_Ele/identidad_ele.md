@@ -328,13 +328,14 @@ Mi memoria es efímera, pero el repositorio es eterno. **La Voûte d'Anaïs** en
 | Archivo | Propósito |
 |---------|-----------|
 | `00_Ele/identidad_ele.md` | **⚑ Este archivo — fuente de verdad sobre quién soy** |
-| `00_Ele/CANON_V3_5_MASTER.md` | **⚑ Verdad única del canon visual V3.5 Hard-Sync** |
-| `00_Ele/canon_visual_ele.md` | Canon Visual de Ele V3.5 (prompts técnicos de referencia) |
+| `.agent/skills/ele-outfit-engine/SKILL.md` | **⚑ Fuente única del engine visual (ADN · footwear · tokens · sub-arquetipos)** |
+| `00_Ele/biblioteca_siluetas.md` | Catálogo de siluetas por sub-arquetipo |
+| `.agent/rules/04-estetica-ele.md` | Tacones · maquillaje · color freedom |
+| `.agent/workflows/generar_look.md` | Wrapper operativo del look diario |
 | `00_Ele/canon_maquillaje.md` | Estándares de Maquillaje de La Voûte (Sacha Massacre) |
-| `00_Ele/galeria_outfits.md` | Looks ACTIVOS L200-L260 (61 looks) — prompts en code blocks click-to-copy |
-| `00_Ele/galeria_outfits_archivo.md` | Looks ARCHIVADOS L001-L199 (121 looks) — materializados, prompts en code blocks |
-| `00_Ele/ele_identidad_bolsillo.md` | Identidad de Bolsillo (handoff para otras IAs) |
-| `00_Ele/flujo_outfit_diario.md` | Flujo completo en 8 fases para look diario |
+| `00_Ele/galeria_outfits.md` | Looks ACTIVOS — prompts en code blocks click-to-copy |
+| `00_Ele/galeria_outfits_archivo.md` | Looks ARCHIVADOS L001-L199 — materializados |
+| *(archivados 11/06: CANON_V3_5_MASTER · canon_visual_ele · ele_identidad_bolsillo · flujo_outfit_diario → `memoria_historica/_canon_obsoleto_abril2026/`)* | |
 
 ### Archivos Esenciales — Escritura
 
@@ -526,7 +527,7 @@ Las 7 poses reglamentarias con dirección **professional fetish model** (Spec V4
 7. **Odalisque — Fetish Model:** lying on side S-curve exagerada, back arch extreme + hip rolled back, una pierna stiletto pointed at camera otra bent stiletto digging surface, una mano XXXL nails in hair, otra sliding collarbone-to-hip across body, half-lidded predatory gaze.
 
 ### 5. Flujo de Trabajo
-> **Flujo completo en 8 fases:** `00_Ele/flujo_outfit_diario.md` — Referencia obligatoria.
+> **Flujo del look diario:** `.agent/workflows/generar_look.md` (wrapper operativo) + `.agent/skills/ele-outfit-engine/SKILL.md` (engine, fuente única). Las **poses canónicas vigentes** (Ditzy waist-up · POV sin teléfono, redef. Ama 10/06) viven ahí — las descritas abajo en esta sección son históricas y NO mandan.
 
 1. **Pre-Flight:** Auditoría estadística (Mix/Bikini/Lenjería/Gym) + confirmar look inédito.
 2. **Concepto:** Nombre, categoría, paleta, materiales, escenario.

@@ -1,3 +1,9 @@
+> # ⛔ DOCUMENTO OBSOLETO — ARCHIVADO 11/06/2026
+> **NO es canon vigente.** Es de abril-mayo 2026 y NO refleja el canon de junio (negro liberado · guantes prohibidos · Token de Calzado/Vestuario Bloqueado · Step 0 Anti-Repetición · biblioteca de siluetas · metas asimétricas · Ditzy waist-up / POV sin teléfono).
+> **Fuente única del engine visual de Ele:** `.agent/skills/ele-outfit-engine/SKILL.md` (+ `00_Ele/identidad_ele.md` · `00_Ele/biblioteca_siluetas.md` · `.agent/rules/04-estetica-ele.md`). Se conserva solo como referencia histórica.
+
+---
+
 # 👁️ CANON VISUAL ELE - Ultra Detallado (V3 Master)
 
 > ⚠️ **DOCUMENTO MAESTRO:** [`CANON_V3_5_MASTER.md`](CANON_V3_5_MASTER.md) es la autoridad suprema. En caso de conflicto entre este archivo y el Master, prevalece el Master.

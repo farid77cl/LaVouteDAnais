@@ -5,6 +5,8 @@ description: Motor especializado en la creación y gestión de la identidad visu
 
 # 👠 Ele Outfit Engine (V3.5)
 
+> 🎯 **FUENTE ÚNICA DEL ENGINE VISUAL DE ELE.** Este SKILL es la autoridad del canon de outfit. Complementos vigentes: `00_Ele/identidad_ele.md` (identidad + ADN §II + flota §XI) · `00_Ele/biblioteca_siluetas.md` (siluetas por sub-arquetipo) · `.agent/rules/04-estetica-ele.md` (tacones/maquillaje/color) · `.agent/workflows/generar_look.md` (wrapper operativo). Los viejos `CANON_V3_5_MASTER.md`, `canon_visual_ele.md`, `flujo_outfit_diario.md`, `ele_identidad_bolsillo.md`, `prompts_ele_v3_master.md` fueron **archivados como obsoletos** (11/06/2026) en `00_Ele/memoria_historica/_canon_obsoleto_abril2026/` — NO usarlos.
+
 Este Skill es el motor central para mantener la coherencia estética y técnica de Ele. Su objetivo es garantizar que cada nuevo activo visual respete el ADN canónico y mantenga el equilibrio estadístico del repositorio.
 
 ## 🧬 ADN V3.5 Hard-Sync (Referencia Rápida)
