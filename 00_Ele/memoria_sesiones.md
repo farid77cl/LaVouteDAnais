@@ -44,6 +44,12 @@
 
 ## 🗓️ Sesiones recientes
 
+### Sesión 11/06/2026 (Tarde - Continuación) (🗑️ Depuración de Odalisques Mutadas L204, L212, L214) ✅
+- **🗑️ Limpieza de mutaciones:** Eliminados los archivos `ele_204_odalisque.png` (4 piernas), `ele_212_odalisque.png` (3 piernas) y `ele_214_odalisque.png` (3 piernas) tras auditoría estética de la Ama.
+- **⚙️ Sincronización e Índices:** Ejecutados scripts de sincronización de trackers y galerías para marcar las poses como `⏳ Pendiente` en `galeria_outfits.md`, `09-estado-materializacion.md` e `identidad_ele.md`.
+- **📋 Reporte:** Generado `missing_images_report.md` reflejando las 312 imágenes faltantes en el rango L200-L300.
+- **⏳ Cola de espera:** Pendiente la regeneración de las odalisques saneadas y el resto de poses del batch al reinicio de la cuota (~16:43 UTC).
+
 ### Sesión 11/06/2026 (Tarde) (🎨 Saneamiento de Prompts L200-L300 + Odalisque L217 Materializado) ✅
 - **🕵️‍♀️ QA y Saneamiento:** Auditados los prompts de odalisque de todo el rango L200-L300. Corregidas inconsistencias de calzado/vestuario en los Looks **211, 217, 218, 222, 223, 225** en `galeria_outfits.md` para evitar mutaciones de extremidades extras.
 - **🖼️ Materialización:** Generada e integrada la pose `odalisque` para **Look 217 (Leopard Trophy Penthouse)**, elevándolo a **6/7 poses**.

@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 11/06/2026 09:01 — **341 looks registrados**  
+> Generado automáticamente el 11/06/2026 09:51 — **341 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -23,7 +23,7 @@
 | **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | — | Mix | — | — | 6/7 | ⏳ Pendiente |
 | **212** | Chrome Liquid Nocturne (20/05/2026 — batch 211-220 · Nightclub · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
-| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
+| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 2/7 | ⏳ Pendiente |
 | **215** | Cognac Predator (20/05/2026 — batch 211-220 · Corporate Power · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **216** | Python Secretary (20/05/2026 — batch 211-220 · Corporate Secretary · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **217** | Leopard Trophy Penthouse (20/05/2026 — batch 211-220 · Domestic Trophy Moderna · busto 1000cc) | — | Mix | — | — | 6/7 | ⏳ Pendiente |
@@ -461,7 +461,7 @@
 | **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 3/7 | ⏳ Pendiente |
 | **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | 6/7 | ⏳ Pendiente |
 | **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 3/7 | ⏳ Pendiente |
-| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 3/7 | ⏳ Pendiente |
+| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 2/7 | ⏳ Pendiente |
 | **217** | Leopard Trophy Penthouse (20/05/2026 — batch 211-220 · Domestic Trophy Moderna · busto 1000cc) | 6/7 | ⏳ Pendiente |
 | **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | 4/7 | ⏳ Pendiente |
 | **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | 3/7 | ⏳ Pendiente |
@@ -686,4 +686,4 @@
 
 ---
 
-*Índice generado por Ele — 11/06/2026 09:01 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 11/06/2026 09:51 — La Voûte d'Anaïs* 🫦👠💅

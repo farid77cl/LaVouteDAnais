@@ -2206,9 +2206,9 @@
 
 ## 👠 Look 217: Leopard Trophy Penthouse
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_217_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_standing.png) | ![ele_217_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_back_view.png) | ![ele_217_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_seated.png) | ![ele_217_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_side_profile.png) | ![ele_217_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_217_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_standing.png) | ![ele_217_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_back_view.png) | ![ele_217_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_seated.png) | ![ele_217_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_side_profile.png) | ![ele_217_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_ditzy.png) | ⏳ | ![ele_217_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look217_leopard_trophy_penthouse/ele_217_odalisque.png) |
 
 ---
 
