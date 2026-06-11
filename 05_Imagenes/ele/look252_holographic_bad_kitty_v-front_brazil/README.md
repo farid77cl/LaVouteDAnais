@@ -6,8 +6,8 @@ Total imágenes: 7
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_252_back_1779880426494.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back_1779880426494.png) | ![ele_252_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy.png) | ![ele_252_ditzy_1779880473486.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy_1779880473486.png) |
-| ![ele_252_profile_1779880458138.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_profile_1779880458138.png) | ![ele_252_seated_1779880443434.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated_1779880443434.png) | ![ele_252_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing.png) |
+| ![ele_252_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back_view.png) | ![ele_252_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy.png) | ![ele_252_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_odalisque.png) |
+| ![ele_252_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_pov.png) | ![ele_252_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated.png) | ![ele_252_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_side_profile.png) |
 
 ---
 
@@ -15,20 +15,20 @@ Total imágenes: 7
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_252_back_1779880426494.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back_1779880426494.png) | ![ele_252_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy.png) | ![ele_252_ditzy_1779880473486.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy_1779880473486.png) | ![ele_252_profile_1779880458138.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_profile_1779880458138.png) |
-| ![ele_252_seated_1779880443434.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated_1779880443434.png) | ![ele_252_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing.png) | ![ele_252_standing_1779880413289.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing_1779880413289.png) |
+| ![ele_252_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back_view.png) | ![ele_252_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy.png) | ![ele_252_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_odalisque.png) | ![ele_252_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_pov.png) |
+| ![ele_252_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated.png) | ![ele_252_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_side_profile.png) | ![ele_252_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
-- [ele_252_back_1779880426494.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back_1779880426494.png)
+- [ele_252_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_back_view.png)
 - [ele_252_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy.png)
-- [ele_252_ditzy_1779880473486.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_ditzy_1779880473486.png)
-- [ele_252_profile_1779880458138.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_profile_1779880458138.png)
-- [ele_252_seated_1779880443434.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated_1779880443434.png)
+- [ele_252_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_odalisque.png)
+- [ele_252_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_pov.png)
+- [ele_252_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_seated.png)
+- [ele_252_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_side_profile.png)
 - [ele_252_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing.png)
-- [ele_252_standing_1779880413289.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/ele_252_standing_1779880413289.png)
 
 ---
-*Sincronizado con GitHub: 2026-06-10* 👄
+*Sincronizado con GitHub: 2026-06-11* 👄
