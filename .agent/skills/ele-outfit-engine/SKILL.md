@@ -137,24 +137,21 @@ Antes de proponer cualquier Look, consulta los últimos looks del sub-arquetipo 
 | Elemento | Ventana de bloqueo |
 |----------|--------------------|
 | Silueta (código) | ≥ 3 looks previos del mismo sub-arquetipo |
-| Familia cromática dominante | ≥ 5 looks previos del mismo sub-arquetipo |
-| Material principal | ≥ 2 looks previos del mismo sub-arquetipo |
+| ~~Familia cromática dominante~~ | ⛔ **DEROGADA (Directiva Ama 12/06/2026 — Libertad Total de Color)** |
+| ~~Material principal~~ | ⛔ **DEROGADA (Directiva Ama 12/06/2026 — Libertad de Materiales, dentro del universo fetish)** |
 | Setting/escenario | ≥ 3 looks previos del mismo sub-arquetipo |
-| **Familia cromática dominante (transversal)** | **≥ 5 looks previos GLOBALES (cualquier sub-arquetipo), no solo del mismo** |
-| **Modo cromático Monoblock** | **máx. 2 looks Monoblock consecutivos GLOBALES → el 3º debe ser Contraste / Triada / Gradiente / Neutro+Pop** |
+| ~~Familia cromática dominante (transversal)~~ | ⛔ **DEROGADA (12/06/2026)** |
+| **Modo cromático Monoblock** | **máx. 2 looks Monoblock consecutivos GLOBALES → el 3º debe ser Contraste / Triada / Gradiente / Neutro+Pop** *(vigente — regla de composición)* |
 
-> 🎨 **REGLA ANTI-MONOBLOCK REFORZADA (Directiva Ama 03/06/2026):** La Ama detectó **exceso de monoblock** (looks de un solo color) y **repetición de colores**. Dos correcciones duras:
-> 1. **Monoblock NO consecutivo:** máximo **2 looks Monoblock seguidos** (antes eran 3). El 3º obliga a un modo multicolor (Contraste 60/30/10, Triada, Gradiente, o Neutro+Pop). El monoblock es un recurso, no el default.
-> 2. **Color no se repite (mirada global, no por sub-arquetipo):** antes de fijar el color, revisar las **familias dominantes de los últimos 5 looks GLOBALES** (toda la flota reciente, sin importar sub-arquetipo) y elegir una familia **NO usada** en esa ventana. La repetición de color que molesta a la Ama es transversal: da igual que sea un Gym rojo y un Escort rojo — siguen siendo dos rojos seguidos.
+> 🌈 **LIBERTAD TOTAL DE COLOR Y MATERIALES (Directiva Ama 12/06/2026):** quedan **derogadas todas las ventanas y cuotas cromáticas** (ventana 1-de-5 por sub-arquetipo y global/transversal, cero-solapamiento en batch, cuota Amarillos 1/6, cuota Cherry dominante 1/8) **y la ventana de material (≥2)**. Color y material se eligen libremente por criterio estético/temático. **El límite es de identidad, no de rotación: Ele es una MODELO FETICHISTA** — la libertad de materiales opera dentro del universo fetish (vinyl, PVC, látex, wet-look, chrome, crystal mesh, wet-satin, laser-cut, rhinestone…); la tela natural mate sigue prohibida. Siguen vigentes: **anti-monoblock** (máx 2 seguidos — composición) y el cherry red de **pelo/labios** como ADN inamovible.
 
 **Protocolo:**
-1. Consultar los últimos N looks del sub-arquetipo (N = ventana de la tabla) **y los últimos 5 looks globales** (para color y monoblock).
-2. Listar qué siluetas, colores, materiales y settings están bloqueados.
+1. Consultar los últimos N looks del sub-arquetipo (N = ventana de la tabla) **y los últimos 2 looks globales** (para monoblock).
+2. Listar qué siluetas y settings están bloqueados (color y material son libres, siempre fetish).
 3. **Contar cuántos de los últimos 2 looks globales fueron Monoblock.** Si ambos lo fueron → este look NO puede ser Monoblock.
-4. **Elegir una familia cromática que no aparezca en los últimos 5 looks globales** + un modo cromático que rompa la racha si hace falta.
-5. Solo entonces avanzar al Paso 1.
+4. Solo entonces avanzar al Paso 1.
 
-**Ejemplo:** Últimos 3 Pin-Up: PA1 vinyl polka-dot (hot pink) · PA3 sundress (powder blue) · PB1 Space Age (blanco) → Bloqueadas: siluetas PA1/PA3/PB1 · colores hot pink / powder blue / blanco ártico. Últimos 2 globales fueron Monoblock champagne + Monoblock oxblood → **este look NO puede ser Monoblock** → forzar Contraste/Triada con familia no usada (ej. teal + tangerine acento).
+**Ejemplo:** Últimos 3 Pin-Up: PA1 vinyl polka-dot · PA3 sundress · PB1 Space Age → Bloqueadas: siluetas PA1/PA3/PB1. Últimos 2 globales fueron Monoblock champagne + Monoblock oxblood → **este look NO puede ser Monoblock** → forzar Contraste/Triada (color y material a libre elección).
 
 ---
 

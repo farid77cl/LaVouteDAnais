@@ -96,7 +96,7 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 
 **🔴 Footwear Canon (ABSOLUTE):** Ele is ALWAYS in stiletto (≥12cm) or Pleaser platform (≥6") — never flat, sneaker, slipper, barefoot, kitten heel, wedge, even in gym/pool/bed/beach. "Contextual anti-stiletto exceptions" are canon violations, not valid exceptions (see auto-memory `feedback_footwear_canon_absoluto`). Each look's footwear field AND every pose must name an explicit heel; negatives must keep `flat shoes, sneakers, barefoot, kitten heel`.
 
-Engine specifics: Step 0 Anti-Repetición (color family not dominant more than once per 5-look window; silhouette not repeated within 3 looks of same sub-archetype) + Canon Outfit v4.6 descriptividad (7 fields per outfit, 8 per heel). Fleet currently at L380 (~297 unique). See `.agent/rules/04-estetica-ele.md`, `05-canon-miss-doll.md`, `06-generacion-imagenes.md`.
+Engine specifics: Step 0 Anti-Repetición (silhouette not repeated within 3 looks of same sub-archetype; setting ≥3 — **color AND material windows DEROGADAS, Ama 12/06/2026: total freedom** by aesthetic/thematic criteria, always within the fetish-material universe (vinyl/PVC/latex/wet-look/gloss — never plain matte natural fabric); anti-monoblock máx 2 seguidos still applies) + Canon Outfit v4.6 descriptividad (7 fields per outfit, 8 per heel). Fleet currently at L540 (~440 unique). See `.agent/rules/04-estetica-ele.md`, `05-canon-miss-doll.md`, `06-generacion-imagenes.md`.
 
 ## Memory & Persistence
 
