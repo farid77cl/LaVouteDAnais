@@ -77,6 +77,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 208 (Teal Sirène Obi):** 7/7 Poses ✅.
 - ✅ **Look 209 (Rose Gold Strap Idol):** 7/7 Poses ✅.
 - ✅ **Look 210 (Coral Sweetheart Bombshell):** 7/7 Poses ✅.
+- ⏳ **Look 240 (UV Magenta Crystal Mesh Crazy Horse):** 5/7 Poses (Materializado parcial) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 ---
