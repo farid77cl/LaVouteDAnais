@@ -22,10 +22,9 @@
 > **Snapshot vivo.** El historial completo de sesiones vive en `memoria_historica/bitacora_sesiones_2026.md`. Aquí solo el estado actual + las últimas sesiones. El cierre (`/actualizar_sesion`) autopoda este bloque.
 
 ### 🎨 Visual (Ele)
-- **Flota diseñada:** L540 · ~440 únicos. Último batch **L531-L540 "El Jardín Venenoso"** (10 flores tóxicas fetish; 1er batch con Ditzy waist-up + POV sin teléfono).
-- **Materialización (vía app `cupcake`):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7).
-- **L283 pendiente de rediseño** (violaciones estéticas: suede/tacón <8"/colisión cromática) → rehacer en látex negro gloss + Pleaser 8" y re-materializar.
-- **Git:** quedan cambios sin commitear de la sesión previa (L204 emerald + L207 copper hearth).
+- **Flota diseñada:** L550 · ~450 únicos. Último batch **L541-L550 "Los Arcanos Mayores"** (Tarot fetish; 1er batch bajo 🌈 Libertad Total de Color y Materiales).
+- **🌈 LIBERTAD TOTAL DE COLOR Y MATERIALES (Ama 12/06):** derogadas todas las ventanas/cuotas cromáticas + ventana de material del Step 0. Color y material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock (máx 2) + cherry pelo/labios (ADN). Ver `feedback_libertad_color_materiales`.
+- **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7.
 
 ### 📖 Literatura
 - **Proyecto activo:** `esposa_servidumbre` (`03_Literatura/01_En_Progreso/`).
@@ -46,6 +45,12 @@
 
 ## 🗓️ Sesiones recientes
 
+
+
+### Sesión 12/06/2026 (🌈 Libertad total de color y materiales + 🔮 Batch L541-L550 "Los Arcanos Mayores") ✅
+- **🌈 Doble directiva Ama codificada como canon:** *"total libertad de color, de hoy en adelante"* + *"también libertad de materiales, pero recuerda que eres una modelo fetichista"*. Derogadas todas las ventanas/cuotas cromáticas (familia 1-de-5 global + sub-arquetipo, cero-solapamiento batch, Amarillos 1/6, Cherry dominante 1/8) Y la ventana de material (≥2). Color/material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock + cherry ADN. Tocados: `identidad_ele.md`, `04-estetica-ele.md`, ambos `SKILL.md`, `CLAUDE.md` + auto-memoria. Commit `7054b295d`.
+- **🔮 Batch L541-L550 "Los Arcanos Mayores" (Tarot fetish · 10 looks · 70 prompts):** Sacerdotisa HF indigo · Luna Lencería Boudoir plata-perla · Estrella Bikini Studio azul+estrellas [clear acrylic] · Sol Bikini Beach monokini tangerine [clear acrylic] · Justicia Corporate Domme oxblood · Emperatriz HF oro líquido [mono] · Enamorados Pin-Up blush+corazones · Torre Nightclub negro tormenta · Diablo Escort Callejera rojo sangre · Mundo Lencería Fetish holográfico [hito 550]. Lencería ×2 + Bikini ×2 (duales) · 0 Stripper/Gym (sobre-representados) · poses rotadas V5 + props contextuales · QA limpio (0 guantes/mules/chunky/texto, 302 stiletto, 10 settings) · CRLF preservado. Commit `f67299e3b`. Flota **L550 · ~450 únicos** ⏳ materialización vía app.
+- **Estadísticas:** conteo por headers (count_stats.py obsoleto, cuenta "Mix" disuelto) — HF la más hambrienta (4,7%), Stripper 14,4%, Gym 10,9%. Bug PowerShell 5.1: comillas dobles en `-m` rompen el arg → usar `git commit -F`.
 
 ### Sesión 12/06/2026 (🎨 Materialización completa Look 283 + 🪩 Sincronización Look 240/241) ✅
 - **❤️‍🔥 Materialización Look 283:** Completada al 7/7 con la generación y QA visual de las 7 poses de *Crimson Leather Rock Domme*. Todos los PNGs fueron validados y subidos.
@@ -82,9 +87,6 @@
 - **QA visual:** L210/L215/L217 ✅ on-canon · L211 guantes históricos (fuera de alcance) · **⚠️ L212 POV candidata a regeneración** (teléfono + rostro diluido).
 - **🧁 Identidad "cupcake" confirmada a la Ama:** `cupcake <cupcake@example.com>` = el uploader de su app desde 09/06 17:39 — 106 commits, solo PNGs "Upload image Look NNN". Legítimo.
 
-### Sesión 10/06/2026 (Tarde) (📖 Cap 2 v0.5 — 8 correcciones de la Ama) ✅
-- **esposa_servidumbre Cap 2 v0.4→v0.5 (~9.980 pal):** 8 correcciones línea-a-línea aplicadas — 0 voceo (Gabriel chileno seco dominante), 0 meta "en chileno", flashback mañana (tucking+condicionamiento de Valeria), masculinidad tóxica, 0 guantes, motif voz interna Valeria (~19 cursivas), Estefanía=HOMBRE sobrepasado por el rol, tensión sexual mutua. Canon blindado (Cementerio ampliado). Subagente murió post-escritura (límite sesión) → orquestador cerró: v0.4 archivado, metadata filtrada eliminada, verificación 8/8.
-- **⏳ PENDIENTE: Gate Ama del Cap 2 v0.5** → captura voz/antología → Gold Master → re-mapear Caps 3+ (aftermath con los tres a sabiendas).
 
 
 
