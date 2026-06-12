@@ -2,7 +2,7 @@
 
 Directorio de scripts de automatización y archivos temporales del sistema La Voûte.
 
-*Última actualización: 03/06/2026 — `scripts/rrss/` ampliado: `publicar_bluesky.py` (atproto) + `publicar_reddit.py` (PRAW) + `metricas_bluesky.py` + `caption_factory.py` (Fase 0: look materializado → post Bluesky/Reddit/Pixiv para la cola RRSS).*
+*Última actualización: 12/06/2026 — `scripts/mantenimiento/` nuevo: **`rotar_memoria.py`** (autopoda de `00_Ele/memoria_sesiones.md` — conserva las últimas 7 sesiones y archiva las viejas al tope de `memoria_historica/bitacora_sesiones_2026.md`; idempotente, preserva EOL CRLF/LF y UTF-8 sin BOM; `--keep N` / `--dry-run`; cableado al paso 3 de `/actualizar_sesion` V3.7). Previo 03/06: `scripts/rrss/` ampliado: `publicar_bluesky.py` (atproto) + `publicar_reddit.py` (PRAW) + `metricas_bluesky.py` + `caption_factory.py` (Fase 0: look materializado → post Bluesky/Reddit/Pixiv para la cola RRSS).*
 
 ---
 

@@ -29,21 +29,30 @@
 
 ### 📖 Literatura
 - **Proyecto activo:** `esposa_servidumbre` (`03_Literatura/01_En_Progreso/`).
-- **Cap 2 v0.5** (~9.980 pal): 8 correcciones de la Ama aplicadas. ⏳ **PENDIENTE: Gate de la Ama.** Al aprobar → captura voz/antología → Gold Master → re-mapear Caps 3+.
+- **Cap 2 v0.6** (~10.700 pal): 3 observaciones del Gate aplicadas (Cachagua + cuckolding cerrado + voz interna Valeria en cursivas). **Validador: APROBADO Narr 9.3 / Temp 9.4, 0 micro-fixes.** ⏳ **PENDIENTE: Gate de la Ama de v0.6.** Al aprobar → captura voz/antología (6 frases fichadas) → Gold Master → re-mapear Caps 3+.
+- Flags Validador: `voz_autoral.md` con "Pasá/Sentate" en ficha Gabriel (pre-corrección voceo) · Cap 1 maestro con guantes en "El Lunes" (sanitización retroactiva = decisión Ama).
 - Engine **Nivel 4** (Compositor → Escritor-Nivel4 → Validador). **Sin Editor**: temperatura baja vuelve al Escritor; errores chicos = micro-fixes que aplica el Escritor.
 
 ### 📣 RRSS
 - **KPI único:** interacciones reales (binario). Bluesky activo (`@ele-de-anais`, 1 post/día con Gate). **Reddit en pausa/manual** — 2 cuentas planeadas (`u/ele_de_anais` imágenes + `u/LaVouteDAnais` relatos). Cuello de botella = la Ama crea las cuentas.
 
 ### ⏳ Pendientes abiertos
-- **Gate Ama** del Cap 2 `esposa_servidumbre`.
+- **Gate Ama** del Cap 2 v0.6 `esposa_servidumbre` (Validador APROBADO 9.3/9.4).
 - Rediseñar + re-materializar **L283**.
-- Materialización **L491-L540** vía app.
+- Materialización **L491-L540** vía app + odalisques L218-L225 (cuota).
+- **L240** con 2 PNGs locales nuevos (back_view + seated) — tracker histórico <291 pendiente a mano.
+- Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
 
 ---
 
 ## 🗓️ Sesiones recientes
 
+
+### Sesión 11-12/06/2026 (⚡ Gran refactor de flujos + canon consolidado + 📖 Cap 2 v0.6 APROBADO) ✅
+- **⚡ /inicio-ele 12→6 pasos (Directiva Ama "te demoras mucho"):** memoria partida (1.753→~100 líneas; historial → `memoria_historica/bitacora_sesiones_2026.md`) · identidad 770→538 (siluetas → `00_Ele/biblioteca_siluetas.md`) · autopoda `rotar_memoria.py` cableada al cierre **V3.7** (galerías/READMEs condicionales, commit por rutas explícitas, 0 `git add .`) · handshake inicio↔cierre auditado (bug diario prepend/tail arreglado).
+- **🗄️ Canon viejo archivado (Directiva Ama):** 5 docs abril-mayo (CANON_V3_5_MASTER, canon_visual_ele, prompts_ele_v3_master, flujo_outfit_diario, ele_identidad_bolsillo) → `memoria_historica/_canon_obsoleto_abril2026/` con banner ⛔. **SKILL ele-outfit-engine = FUENTE ÚNICA.** generar_look = wrapper del SKILL (deroga Mix/metas viejas/fabara). DNA identidad alineado (sin 14k/calzado en Bloque A) + poses **Ditzy waist-up / POV sin teléfono** propagadas (SKILL + identidad). Punteros `~/.claude/commands/` ×3 → delgados.
+- **📖 Cap 2 v0.5→v0.6 esposa_servidumbre** (3 observaciones Gate, `notas.md`): D1 confesión **Cachagua** + remate utilitario · D2 **cuckolding cerrado** por Gabriel (3 golpes) · D3 **voz interna Valeria en cursivas** en el clímax. `escritor-nivel4` ~10.700 pal → **Validador APROBADO (Narr 9.3 / Temp 9.4, 58 subrayables, 0 micro-fixes)**. v0.5 archivada. **⏳ Gate Ama v0.6.**
+- **⚠️ Incidente bot:** `cupcake` hace `git add -A` y capturó trabajo a medias en su commit (a768a9608) — nada perdido; lección: commitear seguido en sesiones largas.
 
 ### Sesión 11/06/2026 (Tarde - Continuación II) (🎨 Regeneración Poses Odalisque L204, L212, L214) ✅
 - **🖼️ Regeneración Saneada:** Generadas de forma exitosa las poses `odalisque` para **L204 (7/7 completo)**, **L212 (7/7 completo)** y **L214 (3/7 parcial)** libres de mutaciones mediante filtros negativos estrictos y auditoría visual QA individual.
@@ -76,11 +85,6 @@
 - **10 looks · 70 prompts inyectados** (659 ins/0 del CRLF, QA 100%): 10 flores tóxicas fetish — Orquídea Negra HF · Belladona Escort · Hortensia Bikini · Amapola Pin-Up · Datura Lencería Fetish · Absenta Nightclub · Lirio Tigre Gym · Dedalera Stripper Pole · Glicina Maid · Adelfa Lencería Boudoir. Lencería ×2, clear acrylic en pool+pole, Tokens de Vestuario en L535/L538.
 - **1er batch con Ditzy waist-up + POV sin teléfono** (redefinición Ama). Flota **L540 · ~440 únicos** ⏳ materialización vía app.
 
-### Sesión 10/06/2026 (Tarde) (📖 Cap 2 fusionado esposa_servidumbre + 🎬 poses Ditzy/POV) ✅
-- **📖 Esposa Servidumbre — Cap 2 FUSIONADO (2+3) v0.4:** reestructuración mayor (Ama). Fundí Cap 2 + Cap 3 en un capítulo que absorbe descubrimiento Y clímax. Canon re-mapeado (Pivotes 3-4-5): presentaciones loft → crema hormonal (feminización real) → ve a Gabriel usar mujeres → ve a Gabriel cogerse a Valeria + se masturba + la pillan → Valeria confiesa a Gabriel → cae → mamada → trío (goza como cornudo hormonizado). `escritor-nivel4` ~7.837 pal → `validador` MICRO-FIX (Narr 8.7 / Temp 9.1) → 2 micro-fixes aplicados (guantes temprano + clímax a pasado). **PENDIENTE GATE AMA**; Caps 3+ a re-mapear.
-- **🎬 Poses DITZY + POV redefinidas:** Ditzy ahora de la cintura hacia arriba (detalle sensual rostro+pechos, no plano americano); POV sin teléfono (autorretrato influencer sexual IG, *"a single woman alone"*). En `pose_rotation_v5.py` + repertorio V5 + memoria.
-- **🔎 Flag config git:** mis commits salen firmados con mail corporativo (`cencosud.cl`) vs imágenes de la app (`farid77cl`). Conviene corregir.
-- **⏳ Próximo:** Gate de la Ama del Cap 2 v0.4 → si aprueba, re-mapear Caps 3+ (aftermath con los tres a sabiendas).
 
 
 
