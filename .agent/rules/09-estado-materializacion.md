@@ -17,9 +17,9 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L540** | 🟢 ~440 únicos |
-| **Último batch** | **L531-L540 "El Jardín Venenoso"** (10 flores tóxicas con lente fetish: Orquídea Negra HF · Belladona Escort granate · Hortensia Bikini azul [clear acrylic] · Amapola Pin-Up escarlata · Datura Lencería Fetish blanca [Token Vestuario] · Absenta Nightclub verde · Lirio Tigre Gym skort naranja · Dedalera Stripper Pole fucsia [Token Vestuario + clear acrylic glitter] · Glicina Maid lila · Adelfa Lencería Boudoir coral · Lencería ×2 · 0 guantes · **1er batch con Ditzy waist-up + POV sin teléfono**) | 🥀 Registrado (prompts) |
-| **Penúltimo batch** | **L521-L530 "El Imperio del Látex"** (extra fetichista, domme couture) + **L511-L520 "La Riviera"** | 🖤🌊 Registrado (prompts) |
+| **Flota Diseñada (último look)** | **L550** | 🟢 ~450 únicos |
+| **Último batch** | **L541-L550 "Los Arcanos Mayores"** (10 cartas del Tarot con lente fetish · **1er batch con Libertad Total de Color y Materiales, Ama 12/06**: Sacerdotisa HF indigo · Luna Lencería Boudoir plata-perla · Estrella Bikini Studio azul+estrellas [clear acrylic] · Sol Bikini Beach tangerine monokini [clear acrylic] · Justicia Corporate Domme oxblood · Emperatriz HF oro líquido [monoblock] · Enamorados Pin-Up blush+corazones · Torre Nightclub negro tormenta · Diablo Escort Callejera rojo sangre · Mundo Lencería Fetish holográfico [hito 550] · Lencería ×2 · Bikini ×2 · 0 Stripper/Gym · 0 guantes/mules) | 🔮 Registrado (prompts) |
+| **Penúltimo batch** | **L531-L540 "El Jardín Venenoso"** (flores tóxicas) + **L521-L530 "El Imperio del Látex"** + **L511-L520 "La Riviera"** | 🥀🖤🌊 Registrado (prompts) |
 | **Materialización L441-L470 (parcial vía app)** | 7/7: **L443, L445, L458, L460, L461** · 5-6/7: L444, L446, L457, L459 · resto solo standing · L471-490 0/7 | 🟡 En curso vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
