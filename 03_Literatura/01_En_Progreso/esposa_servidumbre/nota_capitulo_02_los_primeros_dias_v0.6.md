@@ -1,1 +1,1 @@
-mejora el inicio, está como poco claro
+mejora el inicio, está como poco claro. desde el inicio, debe haber un recordatorio constante de que Estefanía no es mujer, es un hombre. que se está empezando a sentir distinto, con más fuerza a cada instante, siempre ese contraste, ella ve a Gabriel le atrae, pero debe haber ese juego con que Estefanía es hombre, no debería, cuestionarse el porque se siente así, por qué sigue siendo Estefanía 
