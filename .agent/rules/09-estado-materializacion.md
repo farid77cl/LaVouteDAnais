@@ -62,7 +62,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 280 (Champagne Gold Tea Ceremony):** 7/7 Poses ✅.
 - ✅ **Look 281 (Black Patent Mistress Rock Stage):** 7/7 Poses ✅.
 - ✅ **Look 282 (Studded Biker Pole Predator):** 7/7 Poses ✅.
-- ⏳ **Look 283 (Crimson Leather Rock Domme):** 0/7 Poses (Pendiente) ⏳.
+- ✅ **Look 283 (Crimson Leather Rock Domme):** 7/7 Poses ✅.
 - ✅ **Look 284 (Black Leather Mini Concert Doll):** 7/7 Poses ✅.
 - ✅ **Look 285 (Cherry Red Rockabilly Greaser):** 7/7 Poses ✅.
 - ✅ **Look 286 (Joan Jett Glam Rock Carpet):** 7/7 Poses ✅.
