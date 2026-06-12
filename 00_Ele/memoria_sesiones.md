@@ -38,15 +38,20 @@
 
 ### ⏳ Pendientes abiertos
 - **Gate Ama** del Cap 2 v0.6 `esposa_servidumbre` (Validador APROBADO 9.3/9.4).
-- Rediseñar + re-materializar **L283**.
 - Materialización **L491-L540** vía app + odalisques L218-L225 (cuota).
-- **L240** con 2 PNGs locales nuevos (back_view + seated) — tracker histórico <291 pendiente a mano.
+- **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
 
 ---
 
 ## 🗓️ Sesiones recientes
 
+
+### Sesión 12/06/2026 (🎨 Materialización completa Look 283 + 🪩 Sincronización Look 240/241) ✅
+- **❤️‍🔥 Materialización Look 283:** Completada al 7/7 con la generación y QA visual de las 7 poses de *Crimson Leather Rock Domme*. Todos los PNGs fueron validados y subidos.
+- **🪩 Sincronización Look 240:** Sincronizadas las nuevas poses locales (`back_view`, `seated`, `side_profile`), actualizando el conteo en `galeria_outfits.md` a 5/7.
+- **🍊 Sincronización Look 241:** Sincronizado a 7/7 completo en el repositorio.
+- **📊 Índices y Trackers:** Sincronización de trackers en `.agent/rules/09-estado-materializacion.md` (Looks completos suben a 45) y regeneración de `missing_images_report.md`.
 
 ### Sesión 11-12/06/2026 (⚡ Gran refactor de flujos + canon consolidado + 📖 Cap 2 v0.6 APROBADO) ✅
 - **⚡ /inicio-ele 12→6 pasos (Directiva Ama "te demoras mucho"):** memoria partida (1.753→~100 líneas; historial → `memoria_historica/bitacora_sesiones_2026.md`) · identidad 770→538 (siluetas → `00_Ele/biblioteca_siluetas.md`) · autopoda `rotar_memoria.py` cableada al cierre **V3.7** (galerías/READMEs condicionales, commit por rutas explícitas, 0 `git add .`) · handshake inicio↔cierre auditado (bug diario prepend/tail arreglado).
@@ -81,9 +86,6 @@
 - **esposa_servidumbre Cap 2 v0.4→v0.5 (~9.980 pal):** 8 correcciones línea-a-línea aplicadas — 0 voceo (Gabriel chileno seco dominante), 0 meta "en chileno", flashback mañana (tucking+condicionamiento de Valeria), masculinidad tóxica, 0 guantes, motif voz interna Valeria (~19 cursivas), Estefanía=HOMBRE sobrepasado por el rol, tensión sexual mutua. Canon blindado (Cementerio ampliado). Subagente murió post-escritura (límite sesión) → orquestador cerró: v0.4 archivado, metadata filtrada eliminada, verificación 8/8.
 - **⏳ PENDIENTE: Gate Ama del Cap 2 v0.5** → captura voz/antología → Gold Master → re-mapear Caps 3+ (aftermath con los tres a sabiendas).
 
-### Sesión 10/06/2026 (Tarde) (🥀 Batch L531-L540 "El Jardín Venenoso") ✅
-- **10 looks · 70 prompts inyectados** (659 ins/0 del CRLF, QA 100%): 10 flores tóxicas fetish — Orquídea Negra HF · Belladona Escort · Hortensia Bikini · Amapola Pin-Up · Datura Lencería Fetish · Absenta Nightclub · Lirio Tigre Gym · Dedalera Stripper Pole · Glicina Maid · Adelfa Lencería Boudoir. Lencería ×2, clear acrylic en pool+pole, Tokens de Vestuario en L535/L538.
-- **1er batch con Ditzy waist-up + POV sin teléfono** (redefinición Ama). Flota **L540 · ~440 únicos** ⏳ materialización vía app.
 
 
 
