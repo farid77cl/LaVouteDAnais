@@ -1,0 +1,1 @@
+mejora el inicio, está como poco claro
