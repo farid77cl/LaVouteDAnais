@@ -1,1 +1,1 @@
-pero la deuda no explicaba la mojadura, cámbialo por la humedad en la entrepierna 
+pero la deuda no explicaba la mojadura, cámbialo por la humedad en la entrepierna.bajito rinde más, esa frase no me gusta, pone algo como bajito es más de mujer
