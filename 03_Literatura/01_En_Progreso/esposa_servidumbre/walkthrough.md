@@ -39,3 +39,26 @@
 ---
 
 *Walkthrough v4.7 (Nivel 4). Cap 1 cerrado el 05/06/2026.*
+
+## 🧩 MODO TRAMO — Cap 2 v0.7 (reescritura Gate Ama 12/06/2026)
+> Feedback en `nota_capitulo_02_los_primeros_dias_v0.6.md`: inicio claro · hombre constante · voz Valeria en cursivas todo el relato · calentura que solo sube · Camila bimbo-gótica (rediálogo completo) · sin "se cocina sola" · "no se desarma"→"no hay vuelta atrás" · aceptación post-crema ("mejor ser Estefanía") · miedo "no soy mujer completa, no puedo satisfacerlo como las otras".
+
+| Tramo | Contenido | Estado | Última línea |
+|-------|-----------|--------|--------------|
+| 1/4 | Mañana + crema (beat sexual) + llegada loft + entrevista Gabriel | ✅ 3.050 pal | "No encontró, en toda la mañana, una sola cosa que no terminara abajo." |
+| 2/4 | Camila gótica-bimbo + cambios (uñas/café) + semanas crema + aceptación | ⏳ siguiente | — |
+| 3/4 | Ver a Gabriel usar mujeres + miedo "mujer incompleta" + domingo voyeur + confesión | ⬜ | — |
+| 4/4 | Insinuación + mamada + trío + cierre + autoverificación | ⬜ | — |
+
+### ✅ Cap 2 v0.7 — 4 tramos completados (12/06/2026)
+- Tramo 2/4 ✅ Camila gótica-bimbo + crema/aceptación ("no hay vuelta atrás", "mejor ser Estefanía"). Última: "...la arropó como una promesa."
+- Tramo 3/4 ✅ Gabriel usa mujeres + miedo mujer-incompleta + domingo voyeur + confesión + Cachagua. Última: "...Que la vea Gabriel."
+- Tramo 4/4 ✅ Insinuación + mamada + trío + FINAL del relato. ~13.720 pal totales.
+- **🔴 RELATO CIERRA EN CAP 2 (Ama 12/06): no hay Cap 3.** Canon actualizado (mapa + nota de arco P5).
+- ⏳ Siguiente: Validador (Fase 3).
+
+### ⚖️ Validador Cap 2 v0.7 — APROBADO (12/06/2026)
+- **Narrativa 9.4 / Temperatura 9.5**, 0 micro-fixes, 31 subrayables citados (sobre techo Nivel 4). Inmersión OK · Voz OK.
+- **10/10 puntos del Gate cumplidos** (varios con literalidad exacta: "No hay vuelta atrás", "es mejor ser Estefanía"). Las 3 fallas del v0.6 resueltas (inicio, Camila, "se cocina sola").
+- Destino: **Gate de la Ama.** v0.6 → `borradores/capitulo_02/`.
+- ⏳ Pendiente: Gate Ama v0.7 → (si aprueba) limpiar tabla cabecera + conteo para Gold Master + captura voz/antología. **RELATO CIERRA aquí (sin Cap 3).**

@@ -61,7 +61,7 @@
 - **Por qué excita:** rendición total + trío cuckold + la **consciencia plena como afrodisíaco máximo** (*"soy el cornudo feminizado mamándole la verga al que se coge a mi mujer, y me encanta"*). Lo más sucio del relato.
 - **Emoción objetivo:** goce sin freno + identidad nueva aceptada EN el placer (cornudo-al-servicio) + el cuerpo y la cabeza por fin del mismo lado.
 - **Error fatal:** pudor, elipsis del acto, "fundido a negro". NO. Es explícito, detallado, sucio: la verga, la boca, el culo, el coño de Valeria, los tres cuerpos — se MUESTRA.
-- **⚠️ Nota de arco:** este capítulo fusionado **ABSORBE P3+P4+P5** (Gabriel ya SABE y lo usa; el "descubrimiento tardío cataclísmico" ya no aplica). Lo que sigue (aftermath / nuevo arco con los tres a sabiendas) se **re-mapea con la Ama** después de este capítulo.
+- **⚠️ Nota de arco (FINAL — Ama 12/06/2026):** este capítulo fusionado **ABSORBE P3+P4+P5 Y CIERRA EL RELATO. NO HAY CAP 3.** El trío es el final de la historia completa. No hay aftermath, no hay nuevo arco, no hay "lo que sigue": el relato termina en el goce consciente de Estefanía como el cornudo hormonizado al servicio del amante de su mujer. El tramo de cierre del Cap 2 debe dar un **final verdadero** (consciencia plena + identidad nueva aceptada en el placer + imagen final que cierra), NO un gancho a un capítulo siguiente.
 
 ---
 
@@ -124,7 +124,7 @@
 |-----|------------------------|---------------------|----------------|
 | 1   | P1 (esquema) + P2 COMPLETO (semana + sexualización progresiva + noche en babydoll) | Rito femenino + sexualización constante de Valeria ("los hombres te van a desear") + sadismo emergente + grieta del placer prohibido | ✅ **ESCRITO (Gold Master v1):** el Cap 1 cerró MÁS LEJOS del plan — incluyó *El Lunes* (Estefanía se viste sola, transformación ya autónoma) y terminó en la **puerta de la oficina**: *"Cuando él quiera, voy a abrir."* + *"Tocó la puerta."* La frase *"quizás esto no sea temporal"* quedó en la noche del babydoll. |
 | **2 (FUSIÓN 2+3)** | **P3+P4+P5 en un solo capítulo.** Presentaciones (loft, Gabriel, Camila) → salto 1-2 semanas (la **crema hormonal** hace efecto: feminización real) → Estefanía ve a Gabriel **usar mujeres** y la calienta + miedo a ser descubierta → **VE a Gabriel cogerse a Valeria** → **se masturba mirándolos** → **Gabriel la ve** → **Valeria le confiesa la verdad a Gabriel** (Estefanía = su marido) → Gabriel **se le insinúa** → Estefanía **cae como adolescente** → **le mama la verga** → **TRÍO** con Valeria | Deseo por ver-usar + crema hormonal + voyeurismo cuckold + humillación que enciende + rendición total + trío | **Abre en T° ≥ cierre Cap 1.** Cierra en el **trío consumado**: Estefanía gozando **como perra**, plenamente consciente de ser el cornudo hormonizado/feminizado al servicio del amante de su señora. Explícito, sucio. |
-| 3+  | **RE-MAPEAR (Ama).** El Cap 2 fusionado absorbió P3+P4+P5. Lo que sigue = aftermath / nuevo arco con los tres a sabiendas. A definir tras este capítulo. | — | — |
+| ~~3+~~ | **NO EXISTE (Ama 12/06/2026).** El relato CIERRA en el Cap 2. El trío es el final. No hay aftermath ni capítulos posteriores. | — | **RELATO TERMINADO en Cap 2** |
 
 ---
 
