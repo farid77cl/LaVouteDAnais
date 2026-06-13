@@ -62,3 +62,8 @@
 - **10/10 puntos del Gate cumplidos** (varios con literalidad exacta: "No hay vuelta atrás", "es mejor ser Estefanía"). Las 3 fallas del v0.6 resueltas (inicio, Camila, "se cocina sola").
 - Destino: **Gate de la Ama.** v0.6 → `borradores/capitulo_02/`.
 - ⏳ Pendiente: Gate Ama v0.7 → (si aprueba) limpiar tabla cabecera + conteo para Gold Master + captura voz/antología. **RELATO CIERRA aquí (sin Cap 3).**
+
+### 🤖 Cap 2 v0.8 — pasada de humanizador calibrado (12/06/2026)
+- Instalado `blader/humanizer` (24k★) + creada `CALIBRACION_CHILENO_LAVOUTE.md` (español chileno siempre, §14 rayas DESACTIVADA, temperatura intacta). Directiva Ama.
+- Hallazgo honesto: texto ya muy limpio (Escritor-N4 escribe humano). Único fix sustantivo: resto de metáfora "cocinándose" (rechazada en Gate v0.6) → "calientes y esperando". Rayas diálogo/respiración preservadas.
+- v0.7 → borradores. **v0.8 = versión a leer/Gate de la Ama.** Relato cierra aquí (sin Cap 3).

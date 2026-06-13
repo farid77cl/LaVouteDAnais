@@ -141,8 +141,9 @@ El **Escritor-Nivel4** carga en este orden:
 > Cuando un texto **está OK / aprobado por la Ama**, antes de moverlo a `02_Finalizadas/`, pasa por **5 pasos obligatorios**. Recupera el flujo editorial antiguo (atribución + título + gancho + invitación + HTML body-only) y le suma la pasada de humanización.
 
 ### 1. 🤖 Pasada de Humanización (`/humanizer`)
-- Herramienta: skill **`blader/humanizer`** (instalada en `~/.claude/skills/humanizer/` — el humanizador más estrellado de GitHub, 24k★, Claude Code skill, sin API externa). Quita marcas de escritura de IA (em-dash overuse, copula avoidance, staccato manufacturado, cierres de chatbot, 33 patrones).
-- **Calibración de voz OBLIGATORIA:** alimentar el humanizador con `01_Canon/voz_autoral.md` + 2-3 fragmentos de `antologia_calenton.md` como muestras de estilo, para que **NO aplane el chileno cuico ni la voz erótica**. Es de dos pasadas (humanización + auditoría "obviously AI").
+- Herramienta: skill **`blader/humanizer`** (instalada en `~/.claude/skills/humanizer/` — el humanizador más estrellado de GitHub, 24k★, Claude Code skill, sin API externa). Quita marcas de escritura de IA (copula avoidance, staccato manufacturado, cierres de chatbot, vocabulario IA, 33 patrones).
+- **🇨🇱 CALIBRACIÓN CHILENA PERMANENTE (Ama 12/06/2026):** el humanizador tiene `CALIBRACION_CHILENO_LAVOUTE.md` en su carpeta — salida SIEMPRE en español de Chile, con la **regla §14 (eliminar rayas) DESACTIVADA** (la raya es obligatoria en diálogo español + firma de respiración confirmada). Invocar así: *"Humaniza en español chileno usando CALIBRACION_CHILENO_LAVOUTE, muestra de voz `01_Canon/voz_autoral.md`."*
+- **Calibración de voz OBLIGATORIA:** alimentar con `01_Canon/voz_autoral.md` + 2-3 fragmentos de `antologia_calenton.md` como muestras de estilo, para que **NO aplane el chileno cuico ni la voz erótica**. Es de dos pasadas (humanización + auditoría "obviously AI").
 - **⚠️ NO aceptar la salida a ciegas:** la prosa ya pasó el Validador por su voz (oraciones-respiración, fragmentos-golpe). El humanizador corrige rarezas de IA, NO reescribe el calor. Revisar diff: si toca un beat erótico o un chilenismo intencional, revertir ese tramo. El objetivo es "a veces escribe medio raro" → natural, no homogeneizado.
 
 ### 2. 📝 Título + Cabecera (Estándar Completo Bloque)
