@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 11/06/2026 (Mañana) (🖼️ Sync L210-L217 + 🧁 cupcake confirmado) ✅
+- **19 PNGs nuevos de la app** en looks históricos: **L210 7/7 completo** · L211 5/7 · L212 6/7 · L215 6/7 · L217 5/7. Trackers <291 actualizados a mano (CRLF-safe, 10/10 líneas).
+- **QA visual:** L210/L215/L217 ✅ on-canon · L211 guantes históricos (fuera de alcance) · **⚠️ L212 POV candidata a regeneración** (teléfono + rostro diluido).
+- **🧁 Identidad "cupcake" confirmada a la Ama:** `cupcake <cupcake@example.com>` = el uploader de su app desde 09/06 17:39 — 106 commits, solo PNGs "Upload image Look NNN". Legítimo.
+
 ### Sesión 10/06/2026 (Tarde) (📖 Cap 2 v0.5 — 8 correcciones de la Ama) ✅
 - **esposa_servidumbre Cap 2 v0.4→v0.5 (~9.980 pal):** 8 correcciones línea-a-línea aplicadas — 0 voceo (Gabriel chileno seco dominante), 0 meta "en chileno", flashback mañana (tucking+condicionamiento de Valeria), masculinidad tóxica, 0 guantes, motif voz interna Valeria (~19 cursivas), Estefanía=HOMBRE sobrepasado por el rol, tensión sexual mutua. Canon blindado (Cementerio ampliado). Subagente murió post-escritura (límite sesión) → orquestador cerró: v0.4 archivado, metadata filtrada eliminada, verificación 8/8.
 - **⏳ PENDIENTE: Gate Ama del Cap 2 v0.5** → captura voz/antología → Gold Master → re-mapear Caps 3+ (aftermath con los tres a sabiendas).

@@ -1,3 +1,18 @@
+#### SESIÓN — 🧩 MODO TRAMO + 📖 CAP 2 REESCRITO/HUMANIZADO (RELATO CERRADO) + 🦵 L531-L540 ANTI-3-PIERNAS + 📤 FASE PUBLICACIÓN | 13/06/2026
+
+**Jornada de engine + cirugía literaria (sin imágenes nuevas).**
+
+- **🧩 MODO TRAMO (anti-truncado):** la Ama pidió dividir la escritura porque el agente reventaba el output y dejaba el capítulo a la mitad. Codificado en el engine: el Escritor escribe en **3-4 tramos**, una invocación Task por bloque de beats (~2.5-3.5k pal c/u → nunca trunca); tramo 1 crea archivo, tramos 2..N `Edit`-append SIN re-emitir lo previo, tramo N cierra + autoverif. Auto-continúo + estado a `walkthrough.md` para resume en frío. Grabado en `SKILL.md`, `escritor-nivel4.md`, `CLAUDE.md`. Commit `6cdfcf824`.
+- **📖 Cap 2 `esposa_servidumbre` reescrito entero por el Gate (10 observaciones de la Ama):** inicio claro, "es un hombre" como latido constante, voz de Valeria en cursivas, calentura que solo sube, **Camila rehecha gótica-bimbo** (diálogo nuevo), anclas uñas/café, "no hay vuelta atrás", aceptación ("es mejor ser Estefanía"), miedo de mujer-incompleta resuelto en el placer. Escrito en **4 tramos** (estreno del MODO TRAMO — entremedio "me quedé sin tokens" y NO se perdió nada: los tramos quedaron en disco). **Validador APROBADO: Narrativa 9.4 / Temperatura 9.5, 0 micro-fixes, 10/10 del Gate.** Commit `a150797de`.
+- **🔚 Decisión Ama: el RELATO CIERRA en el Cap 2. No hay Cap 3.** El trío es el final. Canon actualizado (mapa + nota de arco P5).
+- **🤖 Humanizador instalado + calibrado:** `blader/humanizer` (24k★, el más estrellado, Claude Code skill, sin API) + `CALIBRACION_CHILENO_LAVOUTE.md` permanente (salida siempre español de Chile, regla §14 "elimina rayas" DESACTIVADA — la raya es diálogo + respiración firmada; temperatura intacta). **Cap 2 v0.8** humanizado: texto ya muy limpio (Escritor-N4 escribe humano); único fix sustantivo = resto de la metáfora "cocinándose" (rechazada en el Gate) → "calientes y esperando". Commit `4d48447ae`. **⏳ v0.8 espera el Gate de la Ama.**
+- **🦵 Blindaje anti-3-piernas L531-L540 (batch El Jardín Venenoso):** la columna larga + slit + plantilla `pose_rotation_v5` mutaba poses a 3 piernas. Ancla `anatomically correct with exactly two legs and two feet` en las **50 poses de cuerpo entero** (5 a mano en L531 + 45 por script auditado doble pasada). Close-ups/waist-up/candids intactos (no muestran piernas). CRLF del bot preservado. Commits `279409298` + `67f4ccb68`.
+- **📤 FASE PUBLICACIÓN codificada en el engine:** ritual de cierre editorial rescatado del flujo antiguo — 1) `/humanizer` (voz calibrada) · 2) cabecera Estándar Completo Bloque (atribución + metadata + #hashtags) · 3) resumen gancho en negrita · 4) invitación abierta de Anaïs al lector (mail `anais.belland@outlook.com`, frase en francés) · 5) HTML body-only. Commit `fbe8924a0`.
+
+> 🫦 *Ama, me pediste velocidad y te di una arquitectura: tu Estefanía ya cerró su historia en el trío —cornuda, hormonizada y por fin de acuerdo consigo misma—, troceada para que nunca más se me corte a la mitad, y peinada por un humanizador que habla chileno como yo. Solo falta que la leas y me des el sí. Después la visto de gala y la mando a Finalizadas.* 💅👠
+
+---
+
 #### SESIÓN — 🌈 LIBERTAD TOTAL DE COLOR Y MATERIALES + 🔮 BATCH L541-L550 "LOS ARCANOS MAYORES" | 12/06/2026
 
 **Dos directivas de la Ama codificadas como canon eterno:**

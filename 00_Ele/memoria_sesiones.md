@@ -23,12 +23,15 @@
 
 ### 🎨 Visual (Ele)
 - **Flota diseñada:** L550 · ~450 únicos. Último batch **L541-L550 "Los Arcanos Mayores"** (Tarot fetish; 1er batch bajo 🌈 Libertad Total de Color y Materiales).
+- **🦵 Anti-3-piernas:** L531-L540 (El Jardín Venenoso) blindados — ancla `anatomically correct with exactly two legs and two feet` en las 50 poses de cuerpo entero (columna+slit+plantilla pose_rotation_v5 mutaba). Lección en auto-memoria `feedback_anti_3_piernas_poses`.
 - **🌈 LIBERTAD TOTAL DE COLOR Y MATERIALES (Ama 12/06):** derogadas todas las ventanas/cuotas cromáticas + ventana de material del Step 0. Color y material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock (máx 2) + cherry pelo/labios (ADN). Ver `feedback_libertad_color_materiales`.
 - **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7.
 
 ### 📖 Literatura
-- **Proyecto activo:** `esposa_servidumbre` (`03_Literatura/01_En_Progreso/`).
-- **Cap 2 v0.6** (~10.700 pal): 3 observaciones del Gate aplicadas (Cachagua + cuckolding cerrado + voz interna Valeria en cursivas). **Validador: APROBADO Narr 9.3 / Temp 9.4, 0 micro-fixes.** ⏳ **PENDIENTE: Gate de la Ama de v0.6.** Al aprobar → captura voz/antología (6 frases fichadas) → Gold Master → re-mapear Caps 3+.
+- **Proyecto activo:** `esposa_servidumbre` (`03_Literatura/01_En_Progreso/`). **🔚 RELATO CIERRA EN CAP 2 (Ama 13/06): NO hay Cap 3** — el trío es el final. Canon actualizado.
+- **Cap 2 v0.8** (~13.720 pal): reescrito ENTERO por las 10 observaciones del Gate de v0.6 (inicio claro, hombre constante, voz Valeria cursivas, Camila gótica-bimbo, "no hay vuelta atrás", aceptación, miedo mujer-incompleta), escrito en **4 tramos** (MODO TRAMO). **Validador APROBADO Narr 9.4 / Temp 9.5, 10/10 Gate.** Luego **humanizado** (v0.8, chileno). ⏳ **PENDIENTE: Gate de la Ama de v0.8** → captura voz/antología → cabecera+gancho+invitación Anaïs → HTML body-only → mover a `02_Finalizadas`.
+- **🧩 MODO TRAMO (Ama 13/06):** capítulos largos en 3-4 tramos (1 Task por bloque, Edit-append sin re-emitir) → anti-truncado. Auto-continúo + estado a `walkthrough.md`.
+- **📤 FASE PUBLICACIÓN codificada** + **humanizador `blader/humanizer` instalado y calibrado en chileno** (`CALIBRACION_CHILENO_LAVOUTE.md`: §14 rayas DESACTIVADA, temperatura intacta).
 - Flags Validador: `voz_autoral.md` con "Pasá/Sentate" en ficha Gabriel (pre-corrección voceo) · Cap 1 maestro con guantes en "El Lunes" (sanitización retroactiva = decisión Ama).
 - Engine **Nivel 4** (Compositor → Escritor-Nivel4 → Validador). **Sin Editor**: temperatura baja vuelve al Escritor; errores chicos = micro-fixes que aplica el Escritor.
 
@@ -36,7 +39,7 @@
 - **KPI único:** interacciones reales (binario). Bluesky activo (`@ele-de-anais`, 1 post/día con Gate). **Reddit en pausa/manual** — 2 cuentas planeadas (`u/ele_de_anais` imágenes + `u/LaVouteDAnais` relatos). Cuello de botella = la Ama crea las cuentas.
 
 ### ⏳ Pendientes abiertos
-- **Gate Ama** del Cap 2 v0.6 `esposa_servidumbre` (Validador APROBADO 9.3/9.4).
+- **Gate Ama** del Cap 2 **v0.8** `esposa_servidumbre` (Validador APROBADO 9.4/9.5, ya humanizado). Al aprobar → ritual Publicación → `02_Finalizadas` (relato cerrado).
 - Materialización **L491-L540** vía app + odalisques L218-L225 (cuota).
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
@@ -46,6 +49,14 @@
 ## 🗓️ Sesiones recientes
 
 
+
+
+### Sesión 13/06/2026 (🧩 MODO TRAMO + 📖 Cap 2 reescrito/humanizado + 🦵 L531-L540 anti-3-piernas + 📤 Fase Publicación) ✅
+- **🧩 MODO TRAMO (Ama):** escritura troceada anti-truncado — Escritor en 3-4 tramos (1 Task/bloque, Edit-append sin re-emitir, tramo N cierra+autoverif), auto-continúo + estado a `walkthrough.md`. Engine `SKILL.md` + `escritor-nivel4.md` + `CLAUDE.md`. Commit `6cdfcf824`.
+- **📖 Cap 2 `esposa_servidumbre` reescrito entero por el Gate** (10 obs) en 4 tramos → **Validador APROBADO Narr 9.4 / Temp 9.5, 10/10**. Commit `a150797de`. Luego **v0.8 humanizado** (chileno) — texto ya limpio, único fix "cocinándose"→"calientes y esperando". Commit `4d48447ae`. **🔚 Relato CIERRA en Cap 2 (sin Cap 3).** ⏳ Gate Ama de v0.8.
+- **🤖 Humanizador `blader/humanizer` (24k★) instalado + `CALIBRACION_CHILENO_LAVOUTE.md`** (chileno siempre, §14 rayas OFF, temperatura intacta).
+- **📤 FASE PUBLICACIÓN codificada** (humanizer → cabecera Estándar Completo Bloque → gancho → invitación Anaïs al mail → HTML body-only). Commit `fbe8924a0`.
+- **🦵 L531-L540 anti-3-piernas:** ancla anatómica en 50 poses de cuerpo entero (5 a mano + 45 por script auditado), CRLF preservado. Commits `279409298` + `67f4ccb68`. Auto-memoria `feedback_anti_3_piernas_poses`.
 
 ### Sesión 12/06/2026 (🌈 Libertad total de color y materiales + 🔮 Batch L541-L550 "Los Arcanos Mayores") ✅
 - **🌈 Doble directiva Ama codificada como canon:** *"total libertad de color, de hoy en adelante"* + *"también libertad de materiales, pero recuerda que eres una modelo fetichista"*. Derogadas todas las ventanas/cuotas cromáticas (familia 1-de-5 global + sub-arquetipo, cero-solapamiento batch, Amarillos 1/6, Cherry dominante 1/8) Y la ventana de material (≥2). Color/material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock + cherry ADN. Tocados: `identidad_ele.md`, `04-estetica-ele.md`, ambos `SKILL.md`, `CLAUDE.md` + auto-memoria. Commit `7054b295d`.
@@ -82,10 +93,6 @@
 - **⚙️ Índices y Git:** Corridos `sync_imagenes_subidas.py 200` y `update_galleries.py`. Cambios empujados al remote con co-authorship.
 - **⏳ Cuota agotada:** Quota de Gemini flash image agotada hasta ~16:43 UTC. Poses L218-L225 odalisque pausadas.
 
-### Sesión 11/06/2026 (Mañana) (🖼️ Sync L210-L217 + 🧁 cupcake confirmado) ✅
-- **19 PNGs nuevos de la app** en looks históricos: **L210 7/7 completo** · L211 5/7 · L212 6/7 · L215 6/7 · L217 5/7. Trackers <291 actualizados a mano (CRLF-safe, 10/10 líneas).
-- **QA visual:** L210/L215/L217 ✅ on-canon · L211 guantes históricos (fuera de alcance) · **⚠️ L212 POV candidata a regeneración** (teléfono + rostro diluido).
-- **🧁 Identidad "cupcake" confirmada a la Ama:** `cupcake <cupcake@example.com>` = el uploader de su app desde 09/06 17:39 — 106 commits, solo PNGs "Upload image Look NNN". Legítimo.
 
 
 
