@@ -136,6 +136,73 @@ El **Escritor-Nivel4** carga en este orden:
 
 ---
 
+## 📤 FASE PUBLICACIÓN (Ritual de Cierre Editorial — Directiva Ama 12/06/2026)
+
+> Cuando un texto **está OK / aprobado por la Ama**, antes de moverlo a `02_Finalizadas/`, pasa por **5 pasos obligatorios**. Recupera el flujo editorial antiguo (atribución + título + gancho + invitación + HTML body-only) y le suma la pasada de humanización.
+
+### 1. 🤖 Pasada de Humanización (`/humanizer`)
+- Herramienta: skill **`blader/humanizer`** (instalada en `~/.claude/skills/humanizer/` — el humanizador más estrellado de GitHub, 24k★, Claude Code skill, sin API externa). Quita marcas de escritura de IA (em-dash overuse, copula avoidance, staccato manufacturado, cierres de chatbot, 33 patrones).
+- **Calibración de voz OBLIGATORIA:** alimentar el humanizador con `01_Canon/voz_autoral.md` + 2-3 fragmentos de `antologia_calenton.md` como muestras de estilo, para que **NO aplane el chileno cuico ni la voz erótica**. Es de dos pasadas (humanización + auditoría "obviously AI").
+- **⚠️ NO aceptar la salida a ciegas:** la prosa ya pasó el Validador por su voz (oraciones-respiración, fragmentos-golpe). El humanizador corrige rarezas de IA, NO reescribe el calor. Revisar diff: si toca un beat erótico o un chilenismo intencional, revertir ese tramo. El objetivo es "a veces escribe medio raro" → natural, no homogeneizado.
+
+### 2. 📝 Título + Cabecera (Estándar Completo Bloque)
+El MD canónico en `02_Finalizadas/[relato]/` abre EXACTO con este bloque:
+```markdown
+*Un relato de Anaïs Belland*
+
+# [Título]
+
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #Hashtag1 #Hashtag2 #Hashtag3 …
+**Palabras:** ~N,000
+**Perspectiva:** [Primera/Tercera] Persona ([Nombre → NombreFem] si hay transformación)
+**Intensidad:** [Suave/Intensa/Extrema]
+
+---
+
+[GANCHO — ver paso 3]
+
+<!-- more -->
+
+---
+
+[prosa…]
+```
+- **Título:** evocador, no spoiler, en español (el relato es chileno). Sin numeración de capítulo si es relato cerrado.
+
+### 3. 🪝 Resumen Gancho (teaser)
+- Va en **negrita**, 2-4 frases, JUSTO antes de `<!-- more -->`. Es el anzuelo: plantea la premisa + la promesa de descenso, sin spoilear el final. Tono de contratapa caliente.
+- Ej. real: *"Un collar rosa. Una caja misteriosa. Y un mejor amigo que descubre el poder absoluto. … Lo peor no es la esclavitud — es que empieza a anhelar las recompensas."*
+
+### 4. 💌 Invitación Abierta de Anaïs (cierre sensual)
+- Tras el `**Fin**` / `# FIN`, SIEMPRE va la despedida de **Anaïs al lector**: directa, sensual, en segunda persona ("¿Sentiste…? ¿Te viste en…?"), que reconoce el deseo despertado e **invita a escribirle al mail**. Incluye una frase en francés en cursiva (*Dis-moi ce que tu désires vraiment.* / *Avec dévotion obscure,*) y la firma.
+- **Email canónico:** `anais.belland@outlook.com`.
+- Plantilla:
+```
+**Fin**
+
+¿[Pregunta sensual que nombra el deseo del lector]? ¿[Segunda pregunta]?
+
+Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero saberlo. Escríbeme.
+
+*[Frase en francés].*
+
+📧 anais.belland@outlook.com
+
+*Avec dévotion obscure,*
+**Anaïs Belland**
+```
+
+### 5. 🌐 Export HTML body-only
+- En `02_Finalizadas/[relato]/_publicacion/[slug].html`: **solo cuerpo HTML** (sin `<html>/<head>/<body>`, sin título ni bloque de metadata).
+- Cada párrafo en `<p>…</p>` · cursivas `<em>` · negritas `<strong>` · separadores `<hr>` · saltos internos `<br>`.
+- **Incluye el cuerpo del relato + la despedida de Anaïs** (paso 4) tras un `<hr>` final. Termina en `<strong>Anaïs Belland</strong>`.
+- El MD completo (con cabecera) vive en la raíz del relato; el HTML body-only en `_publicacion/`; los work files en `_proceso/`.
+
+---
+
 ## 🚦 Reglas de Oro del Orquestador (Nivel 4)
 
 1. **CANON MÍNIMO:** Un solo `canon_relato.md` (~2,000 palabras) por relato. No se vuelve al modelo aditivo del v4.5 que inflaba el canon a 10,000+ palabras.
@@ -164,6 +231,7 @@ El **Escritor-Nivel4** carga en este orden:
     ├ REPUDIADO   → ESCRITOR reescribe
     └ DESALINEADO → ESCRITOR relee voz_autoral y reescribe
 CIERRE  Entrega + Captura [Orquestador+Ama] → Gold Master + alimentar voz_autoral + antologia_calenton
+PUBLIC. Ritual editorial [Orquestador]      → /humanizer (voz calibrada) → título+cabecera+gancho → invitación Anaïs → HTML body-only → 02_Finalizadas/
 ```
 
 **Subagentes legacy del v4.6** (ideador, arquitecto, personajes, disenador-sensual, escritor, critico, editor, contador, centinela) viven en `.claude/agents/_legacy_v46/` como referencia histórica. **No se invocan en Nivel 4.**
