@@ -1,1 +1,1 @@
-pero la deuda
+pero la deuda no explicaba la mojadura, cámbialo por la humedad en la entrepierna 
