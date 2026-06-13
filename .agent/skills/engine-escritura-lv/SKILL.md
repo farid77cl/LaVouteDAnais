@@ -82,14 +82,28 @@ El **Escritor-Nivel4** carga en este orden:
 - **Gate:** *"¿Reconoces este canon como tuyo, o lo procesé y se perdió el matiz?"*
 
 ### FASE 2: Escritura (Escritor-Nivel4)
-- **Subagente:** `escritor-nivel4` (Task tool, `subagent_type: "escritor-nivel4"`)
-- **Espera:** `ESCRITOR_N4_RESULT:{...}` con ruta al capítulo (prosa pura) + ruta a la autoverificación (metadata separada) + pivotes cumplidos.
+- **Subagente:** `escritor-nivel4` (Task tool, `subagent_type: "escritor-nivel4"`) — **invocado por TRAMOS** (ver Modo Tramo abajo), una llamada por bloque de beats.
+- **Espera:** un `ESCRITOR_N4_RESULT:{...}` por tramo — `estado:"PARCIAL"` (tramos 1..N-1, con `tramo` + `ultima_linea`) o `estado:"COMPLETO"` (tramo final, con ruta a autoverificación + pivotes cumplidos).
 - **🚨 REGLA #1 (Nivel 4) — METADATA EN ARCHIVO SEPARADO:** El archivo del capítulo contiene **SOLO prosa narrativa**. Prohibido: bloques de autoverificación, listas M1-M17, conteos de subrayables, tablas de compromisos, etiquetas "[BEAT ERÓTICO]". Todo eso va a `reportes/capitulo_[N]/autoverificacion_v0.[X].md`. **La Ama abre el capítulo y solo encuentra prosa.**
 - **Modo "ESTÁS EN LA ESCENA":** El Escritor está dentro del cuerpo del personaje sumiso. Transcribe lo que ya está pasando en ese cuerpo.
 - **Inputs en orden:** `canon_relato.md` (P1) → `voz_autoral.md` (P2) → `antologia_calenton.md` (P3) → secundarios. La voz literal de la Ama gana.
 - **Patrón M1 sin etiquetar:** acción física → respuesta del cuerpo → escudo mental fallando → frase humillante del dominante → pensamiento interno. Fluyen en la prosa, NUNCA rotulados.
 - **Sin mínimo arbitrario de palabras** — la extensión la dicta el calor y el desarrollo de los pivotes.
 - **🔴 PERSISTENCIA:** Capítulo (prosa) + autoverificación (metadata) guardados en disco antes de Fase 3. Si el capítulo tiene metadata visible al lector → falló, reescribir.
+
+#### 🧩 MODO TRAMO — Escritura troceada anti-truncado (Directiva Ama 12/06/2026)
+
+**Por qué:** un capítulo entero (~10k palabras) en UNA sola invocación del Escritor revienta el presupuesto de *output* y entrega prosa truncada ("el proceso queda a la mitad"). **Solución:** el Orquestador trocea el capítulo en **3-4 tramos** según los beats del mapa en `canon_relato.md` y lanza **una invocación del Escritor por tramo**. Cada llamada Task es aislada y solo emite ~2.500-3.500 palabras → **nunca se trunca**. El Escritor *lee* todo lo ya escrito (input, barato) pero solo *emite* su tramo (output, acotado).
+
+**Protocolo:**
+1. **Plan de tramos:** el Orquestador define los tramos a partir del mapa de capítulo (típico: `Apertura · Desarrollo · Clímax · Cierre`). 3 tramos para capítulos medianos, 4 para largos. El briefing de cada invocación dice `MODO TRAMO i/N` + los beats de ESE tramo.
+2. **Tramo 1/N:** el Escritor CREA `capitulo_N_v0.X.md` con header (Control de Versión + Historial) + prosa del tramo 1. **NO cierra con la línea `Conteo de palabras`** (su ausencia = señal de capítulo abierto/incompleto).
+3. **Tramos 2..N-1:** el Escritor hace `Read` del archivo (continuidad de voz) y **`Edit`-append** SOLO de su tramo (ancla = último párrafo existente). **Jamás re-emite los tramos previos.**
+4. **Tramo N (final):** Edit-append del último tramo + línea de cierre `**Conteo de palabras:** X` + escribe la `autoverificacion_v0.X.md` completa del capítulo.
+5. **Auto-continúo (Ama 12/06):** el Orquestador **encadena los tramos sin pedir permiso**, pero cada tramo es una invocación Task **separada** (por eso no trunca). Tras cada tramo: **persiste el estado en `walkthrough.md`** (`Cap N · tramo i/N listo · última línea: "…" · siguiente: [beat]`) y avisa a la Ama en UNA línea.
+6. **Resume:** si la conversación muere, la nueva lee `walkthrough.md` + el archivo parcial (sin línea de conteo = incompleto) y retoma desde el tramo i+1.
+
+**Invariantes:** la temperatura del tramo i+1 abre ≥ el cierre del tramo i (nunca enfría) · solo el tramo final genera autoverificación · el archivo en raíz sigue siendo **prosa pura** en todo momento (la Ama puede leer el avance parcial cuando quiera).
 
 ### FASE 3: Validación (Validador)
 - **Subagente:** `validador` (Task tool, `subagent_type: "validador"`)
@@ -141,7 +155,8 @@ El **Escritor-Nivel4** carga en este orden:
 
 ```
 1   Composición   [Compositor]       → canon_relato.md (~2,000 palabras · Intake consolidado) → Gate Ama
-2   Escritura     [Escritor-Nivel4]  → capitulo_v0.X.md (PROSA PURA) + autoverificacion (reporte aparte)
+2   Escritura     [Escritor-Nivel4]  → capitulo_v0.X.md (PROSA PURA, en 3-4 TRAMOS anti-truncado) + autoverificacion (reporte aparte)
+    └─ tramo 1 crea archivo · tramos 2..N Edit-append (no re-emiten) · tramo N cierra + autoverif · auto-continúa, estado→walkthrough
 3   Validación    [Validador]        → veredicto doble eje (Narrativa + Temperatura)
     ├ APROBADO    → Gate Ama
     ├ TIBIO       → vuelve al ESCRITOR (feedback caliente)

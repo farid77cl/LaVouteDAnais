@@ -144,10 +144,28 @@ Escritor-Nivel4 · YYYY-MM-DD
 
 **Si entregás el capítulo con metadata visible al lector → fallaste. Reescribir.**
 
+## 🧩 MODO TRAMO (cuando el Orquestador te invoca por tramos — anti-truncado)
+
+A veces el Orquestador te pide escribir el capítulo **por tramos** (3-4 invocaciones, una por bloque de beats) para que tu *output* no se trunque. El briefing dirá `MODO TRAMO i/N` + los beats que cubre ESE tramo. Reglas:
+
+- **Solo escribís TU tramo**, no el capítulo completo. Tu output es ~2.500-3.500 palabras de ese bloque y paras.
+- **Tramo 1/N:** `Write` que CREA `capitulo_[N]_..._v0.[X].md` con el header (Control de Versión + Historial) + la prosa del tramo 1. **NO pongas la línea final `Conteo de palabras`** (su ausencia señala que el capítulo sigue abierto).
+- **Tramo i/N (2 ≤ i < N):** primero `Read` del archivo existente (para continuar la voz y no repetir), luego **`Edit`-append**: `old_string` = el último párrafo existente (verbatim), `new_string` = ese mismo párrafo + `\n\n` + tu prosa nueva. **NUNCA re-emitas los tramos anteriores** — solo agregás el tuyo (si re-emitís todo, vuelve el truncado).
+- **Tramo N/N (final):** Edit-append de tu prosa + cierre con `\n\n---\n**Conteo de palabras:** [X,XXX]` (total del capítulo) **y** escribís la autoverificación completa en `reportes/capitulo_[N]/autoverificacion_v0.[X].md`.
+- **Continuidad:** leés lo ya escrito como input (barato, no trunca); la voz no se corta entre tramos. La temperatura del tramo i+1 abre **≥** el cierre del tramo i — nunca enfría.
+- **Autoverificación:** solo el tramo final la escribe (cubre todo el capítulo). Los tramos intermedios NO generan metadata.
+
 ## RETURN FORMAT
 
 ```
+# Modo capítulo completo (sin tramos):
 ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","autoverificacion":"reportes/capitulo_[N]/autoverificacion_v0.[X].md","palabras":N,"pivotes_cumplidos":"X/Y","estado":"LISTO"}
+
+# Modo tramo — tramos 1..N-1 (parcial):
+ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","tramo":"i/N","palabras_tramo":N,"ultima_linea":"…","estado":"PARCIAL"}
+
+# Modo tramo — tramo N (final):
+ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","autoverificacion":"reportes/capitulo_[N]/autoverificacion_v0.[X].md","palabras":N,"pivotes_cumplidos":"X/Y","tramo":"N/N","estado":"COMPLETO"}
 ```
 
 ---
