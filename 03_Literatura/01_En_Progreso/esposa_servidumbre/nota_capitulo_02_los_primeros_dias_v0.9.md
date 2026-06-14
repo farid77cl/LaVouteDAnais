@@ -1,1 +1,1 @@
-Le crecieron las tetas y todo. ¿No te quedó rica? déjalo como ... Le crecieron las tetas y todo. ¿No me quedó rica?
+Le crecieron las tetas y todo. ¿No te quedó rica? déjalo como ... Le crecieron las tetas y todo. ¿No me quedó rica?. —Eso —jadeó Valeria contra su boca—. Así se siente, mi amor. Eso es tener una verga adentro. Te lo prometí. cuando lo prometió?
