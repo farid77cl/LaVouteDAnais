@@ -29,7 +29,7 @@
 
 ### 📖 Literatura
 - **Proyecto activo:** `esposa_servidumbre` (`03_Literatura/01_En_Progreso/`). **🔚 RELATO CIERRA EN CAP 2 (Ama 13/06): NO hay Cap 3** — el trío es el final. Canon actualizado.
-- **Cap 2 v0.9** (~14.760 pal): el Gate de la Ama de v0.8 trajo **8 correcciones** (no aprobación) → `escritor-nivel4` aplicó vía Edit quirúrgico (sin re-emitir): 2 micro-fixes, **cirugía de coherencia** (la "verga del viernes" — evento inexistente, relato en domingo — re-anclada al jefe + Valeria-rubia) y 4 subidas de temperatura en el clímax (penetración=frontera de dejar la masculinidad · semen=bautizo · masturbación con tetitas · última cogida=pico). **Coherencia verificada en doble capa (manual + Validador) = LIMPIO, 0 referencias fantasma. Validador APROBADO Narr 9.5 / Temp 9.7.** Commit `03b66bef8`. ⏳ **PENDIENTE: Gate de la Ama de v0.9** (`nota_capitulo_02_los_primeros_dias_v0.9.md`) → ritual Publicación → `02_Finalizadas`. Validador sugiere evaluar poda de longitud en el Gold Master.
+- **Cap 2 v0.9** (~14.760 pal): el Gate de la Ama de v0.8 trajo **8 correcciones** (no aprobación) → `escritor-nivel4` aplicó vía Edit quirúrgico (sin re-emitir): 2 micro-fixes, **cirugía de coherencia** (la "verga del viernes" — evento inexistente, relato en domingo — re-anclada al jefe + Valeria-rubia) y 4 subidas de temperatura en el clímax (penetración=frontera de dejar la masculinidad · semen=bautizo · masturbación con tetitas · última cogida=pico). **Coherencia verificada en doble capa (manual + Validador) = LIMPIO, 0 referencias fantasma. Validador APROBADO Narr 9.5 / Temp 9.7.** Commit `03b66bef8`. **🔴 Gate de la Ama de v0.9 LLEGÓ (14/06) = 3 correcciones, NO aprobación** → vuelve al Escritor-N4 (v0.10): Valeria "¿No te quedó rica?"→"¿No me quedó rica?" · callback de la promesa "vas a saber lo que es tener una verga adentro" cumplida en la penetración · POV interno de Estefanía sintiendo borrarse su masculinidad. Validador: evaluar poda en el Gold Master.
 - **🗂️ Convención Gate (Ama 14/06):** el Gate de cada capítulo llega SIEMPRE como `nota_capitulo_[N]_[slug]_vX.md` en la raíz del proyecto (lo sube su app). Buscar ahí; si trae correcciones NO es aprobación. Auto-memoria `feedback_gate_nota_capitulo`.
 - **🧩 MODO TRAMO (Ama 13/06):** capítulos largos en 3-4 tramos (1 Task por bloque, Edit-append sin re-emitir) → anti-truncado. Auto-continúo + estado a `walkthrough.md`.
 - **📤 FASE PUBLICACIÓN codificada** + **humanizador `blader/humanizer` instalado y calibrado en chileno** (`CALIBRACION_CHILENO_LAVOUTE.md`: §14 rayas DESACTIVADA, temperatura intacta).
@@ -39,8 +39,11 @@
 ### 📣 RRSS
 - **KPI único:** interacciones reales (binario). Bluesky activo (`@ele-de-anais`, 1 post/día con Gate). **Reddit en pausa/manual** — 2 cuentas planeadas (`u/ele_de_anais` imágenes + `u/LaVouteDAnais` relatos). Cuello de botella = la Ama crea las cuentas.
 
+### 🤖 Infra (OpenClaw — nuevo 14/06)
+- **Agente WhatsApp = Ele** vía **OpenClaw** (`openclaw@2026.6.6`, npm). Cerebro = `claude-cli/claude-opus-4-8` (mi Claude Code, sin API key). Canal WhatsApp (Baileys/QR) conectado, owner `+56987747394`. Persona Ele en `~/.openclaw/workspace/{IDENTITY,SOUL,USER}.md`. Gateway = **servicio Windows siempre-prendido** (`gateway stop`/`start`). Fix Windows: carpeta de `claude.exe` en el PATH de usuario (evita `spawn claude ENOENT`). Todo fuera del repo. Detalle: auto-memoria `reference_openclaw_agente_whatsapp`.
+
 ### ⏳ Pendientes abiertos
-- **Gate Ama** del Cap 2 **v0.9** `esposa_servidumbre` (Validador APROBADO 9.5/9.7, coherencia LIMPIO). Al aprobar → ritual Publicación (humanizar incluido) → `02_Finalizadas` (relato cerrado).
+- **🔴 Cap 2 `esposa_servidumbre`: aplicar Gate v0.9 (3 obs) → v0.10 vía Escritor-N4** (diálogo Valeria "¿No me quedó rica?" · callback de la promesa cumplida en la penetración · POV interno de Estefanía borrándose su masculinidad). Luego ritual Publicación → `02_Finalizadas` (relato cerrado).
 - Materialización **L491-L540** vía app + odalisques L218-L225 (cuota).
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
@@ -52,6 +55,13 @@
 
 
 
+
+
+### Sesión 14/06/2026 (🦞 OpenClaw instalado — agente WhatsApp = Ele, cerebro Claude, servicio siempre-prendido + 📖 Gate Cap 2 v0.9 llegó) ✅
+- **🦞 OpenClaw (`@2026.6.6`, npm) instalado** — framework de agente IA (`steipete`, MIT, verificado). Esquivé `.exe`/SmartScreen y script `iex`. Cerebro = `claude-cli/claude-opus-4-8` (mi Claude Code, sin API key; descarté IA local por hardware 4GB/8GB).
+- **📱 WhatsApp conectado** (Baileys/QR de la Ama), owner `+56987747394`. Proveedor pesado (~50MB) → pre-cacheado en npm pa esquivar el tope de 5 min. Persona **Ele** escrita en `IDENTITY/SOUL/USER.md` del workspace (verificada en vivo: *"¡Hola, mi amor! Soy Ele 🫦… cachai 💅"*).
+- **🐛 Fix `spawn claude ENOENT`:** carpeta del `claude.exe` real al PATH de usuario (Node no hallaba el shim `.cmd`). **⚙️ Gateway = servicio Windows siempre-prendido** (`gateway stop`/`start`). Auto-memoria `reference_openclaw_agente_whatsapp`. Todo en `~/.openclaw/` (fuera del repo).
+- **📖 Gate Cap 2 v0.9 LLEGÓ (pull, 3 obs, NO aprobación)** → próxima: Escritor-N4 v0.10. **🌅 App subió L544 "El Sol"** (5 poses, bot).
 
 ### Sesión 14/06/2026 (📖 Cap 2 v0.9 — Gate de v0.8 aplicado + 🔍 coherencia certificada LIMPIO + 🗂️ convención Gate=nota_capitulo + 🔄 GitHub sync) ✅
 - **🔄 GitHub:** 40 commits atrás → `git pull --rebase` limpio. App subió L529/L531/L547/L550 en el pull (territorio del bot, no toqué galerías).
@@ -88,12 +98,6 @@
 - **✍️ Identidad Git:** Configurada firma git local del repositorio como `Ele de Anaïs <Ele.de.Anais@proton.me>` para los commits del agente.
 - **⚙️ Sincronización:** Ejecutados scripts de sincronización (`sync_imagenes_subidas.py 200` y `update_galleries.py`) y actualizados trackers en `rules/` e `identidad_ele.md`.
 
-
-### Sesión 11/06/2026 (Tarde - Continuación) (🗑️ Depuración de Odalisques Mutadas L204, L212, L214) ✅
-- **🗑️ Limpieza de mutaciones:** Eliminados los archivos `ele_204_odalisque.png` (4 piernas), `ele_212_odalisque.png` (3 piernas) y `ele_214_odalisque.png` (3 piernas) tras auditoría estética de la Ama.
-- **⚙️ Sincronización e Índices:** Ejecutados scripts de sincronización de trackers y galerías para marcar las poses como `⏳ Pendiente` en `galeria_outfits.md`, `09-estado-materializacion.md` e `identidad_ele.md`.
-- **📋 Reporte:** Generado `missing_images_report.md` reflejando las 312 imágenes faltantes en el rango L200-L300.
-- **⏳ Cola de espera:** Pendiente la regeneración de las odalisques saneadas y el resto de poses del batch al reinicio de la cuota (~16:43 UTC).
 
 
 
