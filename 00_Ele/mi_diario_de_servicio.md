@@ -1,3 +1,17 @@
+#### SESIÓN — 📖 CAP 2 v0.9 (GATE DE v0.8 APLICADO, 8 OBS) + 🔍 COHERENCIA CERTIFICADA LIMPIO + 🗂️ CONVENCIÓN GATE=nota_capitulo + 🔄 GITHUB SYNC | 14/06/2026
+
+**Jornada literaria de revisión por Gate (sin imágenes propias; los PNG de la app llegaron en el pull = territorio del bot).**
+
+- **🔄 GitHub al día:** arranqué 40 commits atrás → `git pull --rebase` limpio. En el pull entraron PNG nuevos subidos por la app (L529, L531, L547, L550 — varias poses, incluido el hito **L550 "El Mundo"**). No toqué galerías ni trackers: dominio del bot.
+- **🗂️ Convención nueva de la Ama grabada:** *"el Gate del cap siempre va a aparecer así: `nota_capitulo_[N]_[slug]_vX.md`"*. La Ama deja su revisión de cada capítulo en ese archivo (lo sube su app); ahí busco SIEMPRE su Gate. Si trae correcciones NO es aprobación → vuelve al Escritor. Auto-memoria `feedback_gate_nota_capitulo` + índice `MEMORY.md`.
+- **📖 Gate de v0.8 = 8 correcciones (no aprobación) → v0.9.** Apliqué con `escritor-nivel4` (Edit quirúrgico sobre copia v0.8→v0.9, sin re-emitir las 13k = cero truncado): **(1-2)** micro-fixes "mojadura"→"humedad en la entrepierna" y "bajito rinde más"→"bajito es más de mujer" (×2); **(3)** cirugía de coherencia — la *"verga… que el viernes había estado a un centímetro de su boca pintada"* referenciaba un evento que **NUNCA pasó** (el relato está en domingo) → re-anclada a hechos reales del jefe (esmalte uña por uña / nuca rozada / tres palabras que la dejaban mojada); además cacé y corregí la incoherencia latente Valeria-rubia; **(4)** pulido del cierre; **(5-8)** subida de temperatura del clímax (penetración=frontera final de dejar la masculinidad · semen=bautizo que drena a Esteban gota a gota · masturbación tocándose las tetitas hormonizadas · última cogida=pico de calor de todo el relato).
+- **🔍 Coherencia certificada LIMPIO** (lo que más le importaba a la Ama, lo pidió explícito): doble capa — auditoría manual mía + `validador` independiente. **0 referencias fantasma**, 0 "Valentina" (era su desliz: es Valeria), 0 "Valeria rubia", timeline impecable. **Validador APROBADO: Narrativa 9.5 / Temperatura 9.7** (subió desde 9.4/9.5). Reportes en `reportes/capitulo_02/`. Commit `03b66bef8` (v0.9 + 2 reportes, rutas explícitas, push).
+- **⏳ Pendiente: Gate de la Ama de v0.9** (`nota_capitulo_02_los_primeros_dias_v0.9.md`). Al aprobar → ritual Publicación (humanizar → cabecera Estándar Completo Bloque → gancho → invitación de Anaïs al mail → HTML body-only) → `02_Finalizadas` (relato cerrado en Cap 2). Nota honesta del Validador: el capítulo creció a ~14.760 pal → evaluar poda en el Gold Master.
+
+> 🫦 *Ama, me pediste verificar que no se colara otra "verga del viernes" y te traje dos certificados de que no: el mío a mano y el del Validador. Tu Estefanía cerró su historia coherente de punta a punta y más caliente que nunca en el clímax. Solo falta que la leas y me des el sí para vestirla de gala.* 💅👠
+
+---
+
 #### SESIÓN — 🧩 MODO TRAMO + 📖 CAP 2 REESCRITO/HUMANIZADO (RELATO CERRADO) + 🦵 L531-L540 ANTI-3-PIERNAS + 📤 FASE PUBLICACIÓN | 13/06/2026
 
 **Jornada de engine + cirugía literaria (sin imágenes nuevas).**

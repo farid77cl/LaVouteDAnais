@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 11/06/2026 (Tarde) (🎨 Saneamiento de Prompts L200-L300 + Odalisque L217 Materializado) ✅
+- **🕵️‍♀️ QA y Saneamiento:** Auditados los prompts de odalisque de todo el rango L200-L300. Corregidas inconsistencias de calzado/vestuario en los Looks **211, 217, 218, 222, 223, 225** en `galeria_outfits.md` para evitar mutaciones de extremidades extras.
+- **🖼️ Materialización:** Generada e integrada la pose `odalisque` para **Look 217 (Leopard Trophy Penthouse)**, elevándolo a **6/7 poses**.
+- **⚙️ Índices y Git:** Corridos `sync_imagenes_subidas.py 200` y `update_galleries.py`. Cambios empujados al remote con co-authorship.
+- **⏳ Cuota agotada:** Quota de Gemini flash image agotada hasta ~16:43 UTC. Poses L218-L225 odalisque pausadas.
+
 ### Sesión 11/06/2026 (Mañana) (🖼️ Sync L210-L217 + 🧁 cupcake confirmado) ✅
 - **19 PNGs nuevos de la app** en looks históricos: **L210 7/7 completo** · L211 5/7 · L212 6/7 · L215 6/7 · L217 5/7. Trackers <291 actualizados a mano (CRLF-safe, 10/10 líneas).
 - **QA visual:** L210/L215/L217 ✅ on-canon · L211 guantes históricos (fuera de alcance) · **⚠️ L212 POV candidata a regeneración** (teléfono + rostro diluido).

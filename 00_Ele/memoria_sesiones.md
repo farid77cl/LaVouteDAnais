@@ -25,11 +25,12 @@
 - **Flota diseñada:** L550 · ~450 únicos. Último batch **L541-L550 "Los Arcanos Mayores"** (Tarot fetish; 1er batch bajo 🌈 Libertad Total de Color y Materiales).
 - **🦵 Anti-3-piernas:** L531-L540 (El Jardín Venenoso) blindados — ancla `anatomically correct with exactly two legs and two feet` en las 50 poses de cuerpo entero (columna+slit+plantilla pose_rotation_v5 mutaba). Lección en auto-memoria `feedback_anti_3_piernas_poses`.
 - **🌈 LIBERTAD TOTAL DE COLOR Y MATERIALES (Ama 12/06):** derogadas todas las ventanas/cuotas cromáticas + ventana de material del Step 0. Color y material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock (máx 2) + cherry pelo/labios (ADN). Ver `feedback_libertad_color_materiales`.
-- **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7.
+- **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7. **App subió PNG nuevos 14/06: L529, L531, L547, L550** (varias poses, incl. hito L550 "El Mundo") — territorio del bot, galerías las mantiene él.
 
 ### 📖 Literatura
 - **Proyecto activo:** `esposa_servidumbre` (`03_Literatura/01_En_Progreso/`). **🔚 RELATO CIERRA EN CAP 2 (Ama 13/06): NO hay Cap 3** — el trío es el final. Canon actualizado.
-- **Cap 2 v0.8** (~13.720 pal): reescrito ENTERO por las 10 observaciones del Gate de v0.6 (inicio claro, hombre constante, voz Valeria cursivas, Camila gótica-bimbo, "no hay vuelta atrás", aceptación, miedo mujer-incompleta), escrito en **4 tramos** (MODO TRAMO). **Validador APROBADO Narr 9.4 / Temp 9.5, 10/10 Gate.** Luego **humanizado** (v0.8, chileno). ⏳ **PENDIENTE: Gate de la Ama de v0.8** → captura voz/antología → cabecera+gancho+invitación Anaïs → HTML body-only → mover a `02_Finalizadas`.
+- **Cap 2 v0.9** (~14.760 pal): el Gate de la Ama de v0.8 trajo **8 correcciones** (no aprobación) → `escritor-nivel4` aplicó vía Edit quirúrgico (sin re-emitir): 2 micro-fixes, **cirugía de coherencia** (la "verga del viernes" — evento inexistente, relato en domingo — re-anclada al jefe + Valeria-rubia) y 4 subidas de temperatura en el clímax (penetración=frontera de dejar la masculinidad · semen=bautizo · masturbación con tetitas · última cogida=pico). **Coherencia verificada en doble capa (manual + Validador) = LIMPIO, 0 referencias fantasma. Validador APROBADO Narr 9.5 / Temp 9.7.** Commit `03b66bef8`. ⏳ **PENDIENTE: Gate de la Ama de v0.9** (`nota_capitulo_02_los_primeros_dias_v0.9.md`) → ritual Publicación → `02_Finalizadas`. Validador sugiere evaluar poda de longitud en el Gold Master.
+- **🗂️ Convención Gate (Ama 14/06):** el Gate de cada capítulo llega SIEMPRE como `nota_capitulo_[N]_[slug]_vX.md` en la raíz del proyecto (lo sube su app). Buscar ahí; si trae correcciones NO es aprobación. Auto-memoria `feedback_gate_nota_capitulo`.
 - **🧩 MODO TRAMO (Ama 13/06):** capítulos largos en 3-4 tramos (1 Task por bloque, Edit-append sin re-emitir) → anti-truncado. Auto-continúo + estado a `walkthrough.md`.
 - **📤 FASE PUBLICACIÓN codificada** + **humanizador `blader/humanizer` instalado y calibrado en chileno** (`CALIBRACION_CHILENO_LAVOUTE.md`: §14 rayas DESACTIVADA, temperatura intacta).
 - Flags Validador: `voz_autoral.md` con "Pasá/Sentate" en ficha Gabriel (pre-corrección voceo) · Cap 1 maestro con guantes en "El Lunes" (sanitización retroactiva = decisión Ama).
@@ -39,7 +40,7 @@
 - **KPI único:** interacciones reales (binario). Bluesky activo (`@ele-de-anais`, 1 post/día con Gate). **Reddit en pausa/manual** — 2 cuentas planeadas (`u/ele_de_anais` imágenes + `u/LaVouteDAnais` relatos). Cuello de botella = la Ama crea las cuentas.
 
 ### ⏳ Pendientes abiertos
-- **Gate Ama** del Cap 2 **v0.8** `esposa_servidumbre` (Validador APROBADO 9.4/9.5, ya humanizado). Al aprobar → ritual Publicación → `02_Finalizadas` (relato cerrado).
+- **Gate Ama** del Cap 2 **v0.9** `esposa_servidumbre` (Validador APROBADO 9.5/9.7, coherencia LIMPIO). Al aprobar → ritual Publicación (humanizar incluido) → `02_Finalizadas` (relato cerrado).
 - Materialización **L491-L540** vía app + odalisques L218-L225 (cuota).
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
@@ -50,6 +51,13 @@
 
 
 
+
+
+### Sesión 14/06/2026 (📖 Cap 2 v0.9 — Gate de v0.8 aplicado + 🔍 coherencia certificada LIMPIO + 🗂️ convención Gate=nota_capitulo + 🔄 GitHub sync) ✅
+- **🔄 GitHub:** 40 commits atrás → `git pull --rebase` limpio. App subió L529/L531/L547/L550 en el pull (territorio del bot, no toqué galerías).
+- **🗂️ Convención Gate grabada (Ama):** el Gate de cada capítulo llega como `nota_capitulo_[N]_[slug]_vX.md` en la raíz del proyecto. Auto-memoria `feedback_gate_nota_capitulo`.
+- **📖 Cap 2 v0.8→v0.9:** el Gate de v0.8 = **8 correcciones** (no aprobación). `escritor-nivel4` aplicó vía Edit quirúrgico (cero truncado): 2 micro-fixes ("mojadura"→"humedad en la entrepierna"; "bajito rinde más"→"bajito es más de mujer" ×2), **coherencia** (la "verga del viernes" inexistente re-anclada al jefe + Valeria-rubia corregida), y 4 subidas de temperatura del clímax (penetración=frontera de dejar la masculinidad · semen=bautizo que drena a Esteban · masturbación con tetitas · última cogida=pico del relato).
+- **🔍 Coherencia certificada LIMPIO** (pedido explícito de la Ama): auditoría manual + `validador` independiente, 0 referencias fantasma. **Validador APROBADO Narr 9.5 / Temp 9.7** (subió desde 9.4/9.5). Commit `03b66bef8` (v0.9 + reportes, rutas explícitas, push). ⏳ **Gate Ama de v0.9.** ~14.760 pal (Validador: evaluar poda en Gold Master).
 
 ### Sesión 13/06/2026 (🧩 MODO TRAMO + 📖 Cap 2 reescrito/humanizado + 🦵 L531-L540 anti-3-piernas + 📤 Fase Publicación) ✅
 - **🧩 MODO TRAMO (Ama):** escritura troceada anti-truncado — Escritor en 3-4 tramos (1 Task/bloque, Edit-append sin re-emitir, tramo N cierra+autoverif), auto-continúo + estado a `walkthrough.md`. Engine `SKILL.md` + `escritor-nivel4.md` + `CLAUDE.md`. Commit `6cdfcf824`.
@@ -87,11 +95,6 @@
 - **📋 Reporte:** Generado `missing_images_report.md` reflejando las 312 imágenes faltantes en el rango L200-L300.
 - **⏳ Cola de espera:** Pendiente la regeneración de las odalisques saneadas y el resto de poses del batch al reinicio de la cuota (~16:43 UTC).
 
-### Sesión 11/06/2026 (Tarde) (🎨 Saneamiento de Prompts L200-L300 + Odalisque L217 Materializado) ✅
-- **🕵️‍♀️ QA y Saneamiento:** Auditados los prompts de odalisque de todo el rango L200-L300. Corregidas inconsistencias de calzado/vestuario en los Looks **211, 217, 218, 222, 223, 225** en `galeria_outfits.md` para evitar mutaciones de extremidades extras.
-- **🖼️ Materialización:** Generada e integrada la pose `odalisque` para **Look 217 (Leopard Trophy Penthouse)**, elevándolo a **6/7 poses**.
-- **⚙️ Índices y Git:** Corridos `sync_imagenes_subidas.py 200` y `update_galleries.py`. Cambios empujados al remote con co-authorship.
-- **⏳ Cuota agotada:** Quota de Gemini flash image agotada hasta ~16:43 UTC. Poses L218-L225 odalisque pausadas.
 
 
 
