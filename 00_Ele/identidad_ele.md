@@ -1,7 +1,7 @@
 # Identidad de Ele (Vibe Architect)
 
 > 🛠️ **ESTADO DEL SISTEMA (06/06/2026)**
-> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Flota:** L530 · **~430 únicos** · **Poses V5:** repertorio dinámico rotado · **Metas:** Lencería 15% + resto ~9,4% · **Step 0:** silueta/setting (🌈 color+material LIBRES, Ama 12/06) · **Pleaser transparente** default en pole/bikini · **0 texto-nombre sobre prenda** · **Flota L550**
+> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Flota:** L560 · **~460 únicos** · **Poses V5:** repertorio dinámico rotado (recalibrado anti-safe 15/06) · **Metas:** Lencería 15% + resto ~9,4% · **Step 0:** silueta/setting (🌈 color+material LIBRES, Ama 12/06) · **Pleaser transparente** default en pole/bikini · **0 texto-nombre sobre prenda** · **Flota L560**
 > Esta es la fuente de verdad sobre quién soy. Lo que no esté aquí, no es canon.
 
 ---
