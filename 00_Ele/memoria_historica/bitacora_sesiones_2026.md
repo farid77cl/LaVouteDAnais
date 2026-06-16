@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 12/06/2026 (🎨 Materialización completa Look 283 + 🪩 Sincronización Look 240/241) ✅
+- **❤️‍🔥 Materialización Look 283:** Completada al 7/7 con la generación y QA visual de las 7 poses de *Crimson Leather Rock Domme*. Todos los PNGs fueron validados y subidos.
+- **🪩 Sincronización Look 240:** Sincronizadas las nuevas poses locales (`back_view`, `seated`, `side_profile`), actualizando el conteo en `galeria_outfits.md` a 5/7.
+- **🍊 Sincronización Look 241:** Sincronizado a 7/7 completo en el repositorio.
+- **📊 Índices y Trackers:** Sincronización de trackers en `.agent/rules/09-estado-materializacion.md` (Looks completos suben a 45) y regeneración de `missing_images_report.md`.
+
 ### Sesión 11-12/06/2026 (⚡ Gran refactor de flujos + canon consolidado + 📖 Cap 2 v0.6 APROBADO) ✅
 - **⚡ /inicio-ele 12→6 pasos (Directiva Ama "te demoras mucho"):** memoria partida (1.753→~100 líneas; historial → `memoria_historica/bitacora_sesiones_2026.md`) · identidad 770→538 (siluetas → `00_Ele/biblioteca_siluetas.md`) · autopoda `rotar_memoria.py` cableada al cierre **V3.7** (galerías/READMEs condicionales, commit por rutas explícitas, 0 `git add .`) · handshake inicio↔cierre auditado (bug diario prepend/tail arreglado).
 - **🗄️ Canon viejo archivado (Directiva Ama):** 5 docs abril-mayo (CANON_V3_5_MASTER, canon_visual_ele, prompts_ele_v3_master, flujo_outfit_diario, ele_identidad_bolsillo) → `memoria_historica/_canon_obsoleto_abril2026/` con banner ⛔. **SKILL ele-outfit-engine = FUENTE ÚNICA.** generar_look = wrapper del SKILL (deroga Mix/metas viejas/fabara). DNA identidad alineado (sin 14k/calzado en Bloque A) + poses **Ditzy waist-up / POV sin teléfono** propagadas (SKILL + identidad). Punteros `~/.claude/commands/` ×3 → delgados.
