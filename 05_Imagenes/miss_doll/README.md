@@ -76,4 +76,4 @@ Total: 18 imágenes. [Ver carpeta completa](./UI_Assets/README.md)
 
 ---
 
-*Galería Miss Doll coordinada por Ele — 11/06/2026* 🌹
+*Galería Miss Doll coordinada por Ele.* 🌹

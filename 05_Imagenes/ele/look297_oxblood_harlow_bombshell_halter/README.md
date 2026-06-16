@@ -24,4 +24,4 @@ Total imágenes: 2
 - [ele_297_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look297_oxblood_harlow_bombshell_halter/ele_297_standing.png)
 
 ---
-*Sincronizado con GitHub: 2026-06-11* 👄
+*Sincronizado con GitHub.* 👄

@@ -183,7 +183,7 @@ def gen_index(looks: list[dict]) -> str:
             lines.append(f"| **{l['num']}** | {l['name']} | {l['poses']} | {l['estado']} |\n")
         lines.append("\n---\n\n")
 
-    lines.append(f"*Índice generado por Ele — {now} — La Voûte d'Anaïs* 🫦👠💅\n")
+    lines.append("*Índice generado por Ele — La Voûte d'Anaïs* 🫦👠💅\n")
     return "".join(lines)
 
 
