@@ -36,6 +36,17 @@ distintos -> ninguna variante se repite en 4 looks del mismo slot, y un look no 
 "todo St1". Excepcion: Pose Set Stripper sigue reemplazando las 7 (no se mezcla).
 """
 
+# ANCLA ANATOMICA AUTOMATICA (Ama 16/06/2026): "muchos artefactos, manos donde no
+# deberian, pies flotantes, piernas extras". El ancla viejo vivia SOLO en los inyectores
+# de un solo uso -> el batch L541-L550 nacio sin ella (los inyectores son desechables y se
+# olvido). Ahora rotate_poses() la PREPENDE sola: ningun batch futuro puede nacer sin ancla.
+# Cuerpo entero -> brazos+manos+dedos+piernas+pies; Ditzy/POV (cintura arriba) -> solo manos
+# (no se nombran piernas para no forzarlas en un encuadre cerrado).
+# *** EL INYECTOR YA NO DEBE AGREGAR SU PROPIO ANCLA: viene incluida aqui. ***
+FULL_ANCHOR  = "anatomically correct with exactly two arms, two hands each with five fingers, two legs and two feet"
+HANDS_ANCHOR = "anatomically correct with two hands each with five fingers"
+CLOSEUP_SLOTS = {"Ditzy", "POV"}  # encuadre de cintura para arriba -> ancla de manos, no de piernas
+
 # Variantes: mantienen Principio Rector Fetish Model + nombran stiletto. {seat}/{wall}/{surface}
 # = mobiliario CONTEXTUAL que pone el inyector. NO incluyen el setting (eso se appendea).
 
@@ -127,6 +138,8 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
     for name, variants, off in SLOTS:
         v = variants[(look_number + off) % len(variants)]
         v = v.replace("{seat}", seat).replace("{wall}", wall).replace("{surface}", surface)
+        anchor = HANDS_ANCHOR if name in CLOSEUP_SLOTS else FULL_ANCHOR
+        v = anchor + ", " + v  # ancla anatomica automatica (ver nota arriba)
         out.append((name, v))
     return out
 
@@ -165,3 +178,10 @@ if __name__ == "__main__":
                 if b in v.lower():
                     hits.append(f"{name}[{i}] -> '{b}'")
     print("\nAnti-safe check:", "LIMPIO" if not hits else "FLAGS: " + "; ".join(hits))
+    # Auto-check ancla anatomica: toda pose generada debe traer su ancla ya incluida.
+    miss = []
+    for slot, txt in rotate_poses(531):
+        want = HANDS_ANCHOR if slot in CLOSEUP_SLOTS else FULL_ANCHOR
+        if not txt.startswith(want):
+            miss.append(slot)
+    print("Ancla anatomica check:", "LIMPIO (todas las poses anclan)" if not miss else "FALTA en: " + ", ".join(miss))

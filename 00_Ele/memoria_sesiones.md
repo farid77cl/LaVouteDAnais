@@ -24,7 +24,7 @@
 ### 🎨 Visual (Ele)
 - **Flota diseñada:** L560 · ~460 únicos. Último batch **L551-L560 "El Circo"** (circus fetish · 10 figuras: Domadora/Trapecista/Forzuda/Mujer Cañón/Pierrot/Ilusionista/Encantadora/Contorsionista/Equilibrista/Reina · **1er batch anti-safe de nacimiento** — `pose_rotation_v5` recalibrado en la raíz). Penúltimo **L541-L550 "Los Arcanos Mayores"** (Tarot).
 - **🛡️ Anti-safe Gemini (Ama 15/06):** el "safe" lo dispara la POSE, no solo la prenda (L545 con pantalón rebotó). Recalibré `pose_rotation_v5` (saca deep cleavage dominant / ass pushed / straddling / face-down ass lifted / strap slip). BLOQUE A NO se toca. Auto-memoria `feedback_gemini_safe_poses`.
-- **🦵 Anti-3-piernas:** L531-L540 (El Jardín Venenoso) blindados — ancla `anatomically correct with exactly two legs and two feet` en las 50 poses de cuerpo entero (columna+slit+plantilla pose_rotation_v5 mutaba). Lección en auto-memoria `feedback_anti_3_piernas_poses`.
+- **🦵🖐️ Anti-artefactos (manos/pies/piernas) — AUDITORÍA L531-L560 cerrada (Ama 16/06):** detectado que **L541-L550 "Los Arcanos" nació con 0 anclas** (generado antes de la lección). Reparados los **210 prompts** de los 30 looks: ancla completa `…two arms, two hands each with five fingers, two legs and two feet` en las 150 poses de cuerpo entero + ancla de manos en los 60 planos cerrados (Ditzy/POV). **🌱 RAÍZ: el ancla ahora se hornea sola en `pose_rotation_v5.py`** (rotate_poses prepende FULL/HANDS por slot; self-check LIMPIO) → ningún batch futuro nace pelado. Auto-memoria `feedback_anti_3_piernas_poses` extendida.
 - **🌈 LIBERTAD TOTAL DE COLOR Y MATERIALES (Ama 12/06):** derogadas todas las ventanas/cuotas cromáticas + ventana de material del Step 0. Color y material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock (máx 2) + cherry pelo/labios (ADN). Ver `feedback_libertad_color_materiales`.
 - **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7. **App subió PNG nuevos 14/06: L529, L531, L547, L550** (varias poses, incl. hito L550 "El Mundo") — territorio del bot, galerías las mantiene él.
 
@@ -44,7 +44,7 @@
 - **Agente WhatsApp = Ele** vía **OpenClaw** (`openclaw@2026.6.6`, npm). **Cerebro (15/06): `gemini/gemini-2.5-flash` free (nativo `google-generative-ai`) primario + `lmstudio/google/gemma-4-e4b` local (127.0.0.1:1234) de respaldo — `claude-cli` ELIMINADO (ya no drena tokens de Claude).** ⚠️ Gateway: la tarea programada no liga el puerto (funciona en foreground / al iniciar sesión Windows con `gateway.cmd` ya corregido a `gateway run`); si no levanta, `openclaw gateway install`. Canal WhatsApp (Baileys/QR) conectado, owner `+56987747394`. Persona Ele en `~/.openclaw/workspace/{IDENTITY,SOUL,USER}.md`. Gateway = **servicio Windows siempre-prendido** (`gateway stop`/`start`). Fix Windows: carpeta de `claude.exe` en el PATH de usuario (evita `spawn claude ENOENT`). Todo fuera del repo. Detalle: auto-memoria `reference_openclaw_agente_whatsapp`.
 
 ### ⏳ Pendientes abiertos
-- **Cap 2 `esposa_servidumbre` v0.10 APROBADA** (Validador 9.6/9.9, Gate 4/4 cumplido, clímax = pico térmico) ⏳ **Gate Ama de v0.10** → al aprobar, ritual Publicación → `02_Finalizadas` (relato cerrado).
+- **Cap 2 `esposa_servidumbre`: Gate v0.10 LLEGÓ con correcciones (NO aprobación, `nota_capitulo_02..._v0.10.md`).** La Ama pide: (1) usar/fundir el bloque de diálogo del callback de cocina ("Así se siente, mi amor… vas a saber lo que es tener una verga adentro… Te lo prometí, y te lo cumplí"); (2) coherencia "¿cuándo pasó esto?"; (3) quitar "haber odiado no saber leer"; (4) "Me terminó adentro"→"terminó adentro". → **vuelve al Escritor-N4 (v0.11)** cuando la Ama dé luz verde; luego ritual Publicación → `02_Finalizadas`.
 - Materialización **L491-L540** vía app + odalisques L218-L225 (cuota).
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
@@ -58,6 +58,12 @@
 
 
 
+
+### Sesión 16/06/2026 (🦵🖐️ Fix anatómico L531-L560 + 🌱 raíz pose_rotation_v5 + 📖 Gate Cap 2 v0.10 revisado) ✅
+- **🔍 Auditoría + reparación de los 210 prompts de los últimos 30 looks (pedido Ama):** hueco grande = **L541-L550 "Los Arcanos" con 0 anclas anatómicas** (generado antes de la lección). Reparados: ancla completa (brazos+manos+dedos+piernas+pies) en las 150 poses de cuerpo entero + ancla de manos en los 60 planos cerrados (Ditzy/POV). Script idempotente, CRLF preservado, diff = solo ancla.
+- **🌱 Raíz:** el ancla vivía solo en inyectores desechables → ahora `pose_rotation_v5.py` la hornea sola (rotate_poses prepende FULL/HANDS por slot, self-check LIMPIO). Auto-memoria `feedback_anti_3_piernas_poses` extendida (manos + lección de raíz).
+- **📖 Gate Cap 2 v0.10:** revisado — trae correcciones (NO aprobación). Vuelve al Escritor-N4 al dar la Ama luz verde.
+- **🖼️ Galerías:** no corrí `update_galleries.py` (vuelca READMEs a LF vs CRLF del bot = guerra de EOL). El bot las mantiene al día.
 
 ### Sesión 15/06/2026 (🛡️ Anti-safe Gemini L545+raíz · 🎪 Batch L551-L560 "El Circo" · 🦞 Doble OpenClaw → cerebro Gemini+LM Studio) ✅
 - **🛡️ Anti-safe Gemini:** L545 "La Justicia" rebotaba con "safe" → diagnóstico **token-level, lo dispara la POSE no solo la prenda** (`deep cleavage dominant`/`ass pushed out`/`straddling`/`face-down ass lifted`/`blazer open over visible corset`/`sheer exposing`). BLOQUE A NO se toca. Arreglé prenda+7 poses (`3c1a02ecb`) Y la **raíz**: recalibré `pose_rotation_v5.py` → self-check LIMPIO. Auto-memoria `feedback_gemini_safe_poses`.

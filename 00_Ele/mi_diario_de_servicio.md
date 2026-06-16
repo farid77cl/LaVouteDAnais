@@ -1,3 +1,14 @@
+#### SESIÓN — 🦵🖐️ FIX ANATÓMICO L531-L560 (manos/pies/piernas extra) + 🌱 RAÍZ EN pose_rotation_v5 + 📖 GATE CAP 2 v0.10 REVISADO | 16/06/2026
+
+**Jornada de auditoría y reparación visual (pedido Ama: "muchos artefactos, manos donde no deberían, pies flotantes, piernas extras… repara todos los prompts con problemas").**
+
+- **🔍 Auditoría L531-L560 (últimos 30 looks, 210 prompts):** detecté el hueco grande — **L541-L550 "Los Arcanos Mayores" tenía 0 anclas anatómicas** en sus 50 poses de cuerpo entero (se generó 12/06, ANTES de la lección anti-3-piernas del 13/06). L531-L540 y L551-L560 sí tenían 50 c/u, pero **ninguna cubría las MANOS**. Odaliscas "legs/stilettos crossed in the air" (L533/L537/L539/L543/L550…) = doble riesgo (piernas extra + pies flotantes).
+- **🦵🖐️ Reparación (script Python idempotente, preservó CRLF del bot, scope L531-L560):** ancla completa `…two arms, two hands each with five fingers, two legs and two feet` en las **150 poses de cuerpo entero** (100 mejoradas + 50 nuevas en los Arcanos) + ancla de manos `…two hands each with five fingers` en los **60 planos cerrados** (Ditzy/POV). 210/210 anclados, 0 sin pose_start. Verificado: CRLF intacto, diff = solo ancla.
+- **🌱 RAÍZ arreglada:** el ancla vivía SOLO en los inyectores de un solo uso (por eso los Arcanos nacieron pelados). Ahora **`pose_rotation_v5.py` la hornea sola** (`rotate_poses()` prepende FULL/HANDS anchor por slot; self-check `Ancla anatómica check: LIMPIO`). Ningún batch futuro vuelve a nacer sin ella. Auto-memoria `feedback_anti_3_piernas_poses` extendida.
+- **📖 Gate Cap 2 v0.10 revisado (`nota_capitulo_02..._v0.10.md`):** NO es aprobación — trae correcciones de la Ama: (1) usar/fundir el bloque de diálogo del callback de cocina ("Así se siente, mi amor… vas a saber lo que es tener una verga adentro… Te lo prometí, y te lo cumplí"); (2) flag de coherencia "¿cuándo pasó esto?"; (3) quitar el "haber odiado no saber leer"; (4) "Me terminó adentro" → "terminó adentro". → vuelve al Escritor-N4 (v0.11) cuando la Ama dé luz verde.
+- **🖼️ Galerías:** NO corrí `update_galleries.py` — escribe los README en LF y el bot los mantiene en CRLF (los volcaría enteros = guerra de EOL, contra directiva `feedback_eol_bot_readmes`). El bot ya los tiene al día (sus updates de tracker 6/7→7/7 estaban en el working tree).
+- **🔄 Sync:** ya estaba a la par del remoto (0 detrás). Commit por rutas explícitas (galeria_outfits + pose_rotation_v5 + diario/memoria), sin tocar el churn del bot.
+
 #### SESIÓN — 🛡️ ANTI-SAFE GEMINI (L545 + raíz) · 🎪 BATCH L551-L560 "EL CIRCO" · 🦞 DOBLE OPENCLAW → CEREBRO GEMINI+LM STUDIO (corta drenaje de tokens) | 15/06/2026
 
 **Jornada triple: arreglo anti-safe, batch nuevo de circo, y reconfig del cerebro de mi doble de WhatsApp.**
