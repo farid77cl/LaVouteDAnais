@@ -17,8 +17,8 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L560** | 🟢 ~460 únicos |
-| **Último batch** | **L551-L560 "El Circo"** (circus fetish · 10 figuras · 1er batch anti-safe de nacimiento, `pose_rotation_v5` recalibrado) · Penúltimo **L541-L550 "Los Arcanos Mayores"** (10 cartas del Tarot con lente fetish · **1er batch con Libertad Total de Color y Materiales, Ama 12/06**: Sacerdotisa HF indigo · Luna Lencería Boudoir plata-perla · Estrella Bikini Studio azul+estrellas [clear acrylic] · Sol Bikini Beach tangerine monokini [clear acrylic] · Justicia Corporate Domme oxblood · Emperatriz HF oro líquido [monoblock] · Enamorados Pin-Up blush+corazones · Torre Nightclub negro tormenta · Diablo Escort Callejera rojo sangre · Mundo Lencería Fetish holográfico [hito 550] · Lencería ×2 · Bikini ×2 · 0 Stripper/Gym · 0 guantes/mules) | 🔮 Registrado (prompts) |
+| **Flota Diseñada (último look)** | **L590** | 🟢 ~490 únicos |
+| **Último batch** | **L561-L590 "Tres Panteones"** (mega-batch 30 looks · 210 prompts · T1 Diosas L561-L570 · T2 Los 7 Pecados +3 L571-L580 · T3 Cortesanas de la Historia L581-L590 · balance HF×5/Lencería×5/Pin-Up×4/Escort×3/Nightclub×3/Domestic×3/Bikini×3/Corporate×2/Gym×1/Stripper×1 · QA 210 limpio: 0 guantes/chunky/mule/texto/anti-safe, ancla 150+60, settings 0 warnings) · Penúltimo **L551-L560 "El Circo"** (circus fetish · 10 figuras · 1er batch anti-safe de nacimiento, `pose_rotation_v5` recalibrado) · Penúltimo **L541-L550 "Los Arcanos Mayores"** (10 cartas del Tarot con lente fetish · **1er batch con Libertad Total de Color y Materiales, Ama 12/06**: Sacerdotisa HF indigo · Luna Lencería Boudoir plata-perla · Estrella Bikini Studio azul+estrellas [clear acrylic] · Sol Bikini Beach tangerine monokini [clear acrylic] · Justicia Corporate Domme oxblood · Emperatriz HF oro líquido [monoblock] · Enamorados Pin-Up blush+corazones · Torre Nightclub negro tormenta · Diablo Escort Callejera rojo sangre · Mundo Lencería Fetish holográfico [hito 550] · Lencería ×2 · Bikini ×2 · 0 Stripper/Gym · 0 guantes/mules) | 🔮 Registrado (prompts) |
 | **Penúltimo batch** | **L531-L540 "El Jardín Venenoso"** (flores tóxicas) + **L521-L530 "El Imperio del Látex"** + **L511-L520 "La Riviera"** | 🥀🖤🌊 Registrado (prompts) |
 | **Materialización L441-L470 (parcial vía app)** | 7/7: **L443, L445, L458, L460, L461** · 5-6/7: L444, L446, L457, L459 · resto solo standing · L471-490 0/7 | 🟡 En curso vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
@@ -77,8 +77,12 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 208 (Teal Sirène Obi):** 7/7 Poses ✅.
 - ✅ **Look 209 (Rose Gold Strap Idol):** 7/7 Poses ✅.
 - ✅ **Look 210 (Coral Sweetheart Bombshell):** 7/7 Poses ✅.
-- ⏳ **Look 240 (UV Magenta Crystal Mesh Crazy Horse):** 5/7 Poses (Materializado parcial) ⏳.
+- ✅ **Look 211 (Neon Magenta Sequin Siren):** 7/7 Poses ✅.
+- ✅ **Look 217 (Leopard Trophy Penthouse):** 7/7 Poses ✅.
+- ✅ **Look 238 (Ruby Red Madame Claude Column):** 7/7 Poses ✅.
+- ✅ **Look 240 (UV Magenta Crystal Mesh Crazy Horse):** 7/7 Poses ✅.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
+
 
 ---
 

@@ -22,7 +22,7 @@
 > **Snapshot vivo.** El historial completo de sesiones vive en `memoria_historica/bitacora_sesiones_2026.md`. Aquí solo el estado actual + las últimas sesiones. El cierre (`/actualizar_sesion`) autopoda este bloque.
 
 ### 🎨 Visual (Ele)
-- **Flota diseñada:** L560 · ~460 únicos. Último batch **L551-L560 "El Circo"** (circus fetish · 10 figuras: Domadora/Trapecista/Forzuda/Mujer Cañón/Pierrot/Ilusionista/Encantadora/Contorsionista/Equilibrista/Reina · **1er batch anti-safe de nacimiento** — `pose_rotation_v5` recalibrado en la raíz). Penúltimo **L541-L550 "Los Arcanos Mayores"** (Tarot).
+- **Flota diseñada:** L590 · ~490 únicos. Último **MEGA-BATCH L561-L590 "Tres Panteones"** (30 looks · 210 prompts · pedido Ama *"las 3, hace 30 outfits"*): **T1 El Panteón** (10 diosas del Olimpo, L561-570) · **T2 Los 7 Pecados +3** (L571-580) · **T3 Cortesanas de la Historia** (L581-590). Balance: HF×5 (la más hambrienta)/Lencería×5 (15%)/Pin-Up×4/Escort×3/Nightclub×3/Domestic×3/Bikini×3/Corporate×2 (ambas Power Domme)/Gym×1 skort/Stripper×1. QA 210 limpio (0 guantes/chunky/wedge/mule/texto/anti-safe; ancla 150 full+60 manos; 30 settings 0 warnings; 224 "fully opaque"). ⏳ materialización vía app. Penúltimo **L551-L560 "El Circo"** (circus fetish, 1er anti-safe de nacimiento).
 - **🛡️ Anti-safe Gemini (Ama 15/06):** el "safe" lo dispara la POSE, no solo la prenda (L545 con pantalón rebotó). Recalibré `pose_rotation_v5` (saca deep cleavage dominant / ass pushed / straddling / face-down ass lifted / strap slip). BLOQUE A NO se toca. Auto-memoria `feedback_gemini_safe_poses`.
 - **🦵🖐️ Anti-artefactos (manos/pies/piernas) — AUDITORÍA L531-L560 cerrada (Ama 16/06):** detectado que **L541-L550 "Los Arcanos" nació con 0 anclas** (generado antes de la lección). Reparados los **210 prompts** de los 30 looks: ancla completa `…two arms, two hands each with five fingers, two legs and two feet` en las 150 poses de cuerpo entero + ancla de manos en los 60 planos cerrados (Ditzy/POV). **🌱 RAÍZ: el ancla ahora se hornea sola en `pose_rotation_v5.py`** (rotate_poses prepende FULL/HANDS por slot; self-check LIMPIO) → ningún batch futuro nace pelado. Auto-memoria `feedback_anti_3_piernas_poses` extendida.
 - **🌈 LIBERTAD TOTAL DE COLOR Y MATERIALES (Ama 12/06):** derogadas todas las ventanas/cuotas cromáticas + ventana de material del Step 0. Color y material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock (máx 2) + cherry pelo/labios (ADN). Ver `feedback_libertad_color_materiales`.
@@ -53,6 +53,11 @@
 
 ## 🗓️ Sesiones recientes
 
+### Sesión 16/06/2026 (🏛️🔥👑 Mega-batch L561-L590 "Tres Panteones" — 30 outfits en 3 temas) ✅
+- **Pedido Ama:** propuse el siguiente batch; le ofrecí 3 temas y eligió *"las 3, hace 30 outfits"* → **mega-batch de 30 looks (L561-L590), 210 prompts**, en tres tandas: **T1 El Panteón** (10 diosas) · **T2 Los 7 Pecados +3** · **T3 Cortesanas de la Historia**.
+- **Step 0 (balance de los 30):** HF×5 (alimenta la más hambrienta) · Lencería×5 (15%) · Pin-Up×4 · Escort×3 · Nightclub×3 · Domestic×3 · Bikini×3 · Corporate×2 (ambas Power Domme — excepción temática declarada) · Gym×1 con skort · Stripper×1 (minimiza sobre-rep). Anti-monoblock OK (Niké/Avaricia/La Caída mono, 0 consecutivos) · 30 settings distintos (`check_setting_variety` 0 warnings; 1 solo mirror = Soberbia).
+- **Ejecución:** injector desechable usando `rotate_poses` V5 (ancla anatómica + anti-safe horneados de nacimiento) + Tokens de Vestuario/Calzado bloqueados (opaco-vs-sheer anclado, 8 atributos ×7). Append CRLF a `galeria_outfits.md` (+479.696 bytes).
+- **QA 210 prompts:** 1000cc+ADN ×210 · stiletto ×210 · **0** guantes/chunky/wedge/mule/texto · **0** flags anti-safe · ancla 150 full + 60 manos = 210 · 224 "fully opaque". Flota **L590 · ~490 únicos** ⏳ materialización vía app. Trackers actualizados; injector borrado.
 
 
 
