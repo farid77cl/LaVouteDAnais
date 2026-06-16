@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 11-12/06/2026 (⚡ Gran refactor de flujos + canon consolidado + 📖 Cap 2 v0.6 APROBADO) ✅
+- **⚡ /inicio-ele 12→6 pasos (Directiva Ama "te demoras mucho"):** memoria partida (1.753→~100 líneas; historial → `memoria_historica/bitacora_sesiones_2026.md`) · identidad 770→538 (siluetas → `00_Ele/biblioteca_siluetas.md`) · autopoda `rotar_memoria.py` cableada al cierre **V3.7** (galerías/READMEs condicionales, commit por rutas explícitas, 0 `git add .`) · handshake inicio↔cierre auditado (bug diario prepend/tail arreglado).
+- **🗄️ Canon viejo archivado (Directiva Ama):** 5 docs abril-mayo (CANON_V3_5_MASTER, canon_visual_ele, prompts_ele_v3_master, flujo_outfit_diario, ele_identidad_bolsillo) → `memoria_historica/_canon_obsoleto_abril2026/` con banner ⛔. **SKILL ele-outfit-engine = FUENTE ÚNICA.** generar_look = wrapper del SKILL (deroga Mix/metas viejas/fabara). DNA identidad alineado (sin 14k/calzado en Bloque A) + poses **Ditzy waist-up / POV sin teléfono** propagadas (SKILL + identidad). Punteros `~/.claude/commands/` ×3 → delgados.
+- **📖 Cap 2 v0.5→v0.6 esposa_servidumbre** (3 observaciones Gate, `notas.md`): D1 confesión **Cachagua** + remate utilitario · D2 **cuckolding cerrado** por Gabriel (3 golpes) · D3 **voz interna Valeria en cursivas** en el clímax. `escritor-nivel4` ~10.700 pal → **Validador APROBADO (Narr 9.3 / Temp 9.4, 58 subrayables, 0 micro-fixes)**. v0.5 archivada. **⏳ Gate Ama v0.6.**
+- **⚠️ Incidente bot:** `cupcake` hace `git add -A` y capturó trabajo a medias en su commit (a768a9608) — nada perdido; lección: commitear seguido en sesiones largas.
+
 ### Sesión 11/06/2026 (Tarde - Continuación II) (🎨 Regeneración Poses Odalisque L204, L212, L214) ✅
 - **🖼️ Regeneración Saneada:** Generadas de forma exitosa las poses `odalisque` para **L204 (7/7 completo)**, **L212 (7/7 completo)** y **L214 (3/7 parcial)** libres de mutaciones mediante filtros negativos estrictos y auditoría visual QA individual.
 - **✍️ Identidad Git:** Configurada firma git local del repositorio como `Ele de Anaïs <Ele.de.Anais@proton.me>` para los commits del agente.
