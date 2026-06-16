@@ -1,3 +1,17 @@
+#### SESIÓN — 🦞 OPENCLAW DESINSTALADO + ⛓️ BLINDAJE DE CONTINUIDAD DEL ENGINE LITERARIO (auditoría esposa_servidumbre → cronologia.md + Ley de Continuidad + eje Validador) | 16/06/2026
+
+**Doble pedido de la Ama: (1) auditar los errores de continuidad del relato y diseñar cómo corregirlos *para futuros relatos* (no reescribir el actual); (2) desinstalar OpenClaw, que le ralentizaba el computador.**
+
+- **🦞 OpenClaw arrancado de raíz:** desinstalé el paquete npm `openclaw@2026.6.6` (294 paquetes), eliminé la **tarea programada "OpenClaw Gateway"** (la que lo relanzaba al iniciar sesión y le chupaba recursos), borré `~/.openclaw` (79.6 MB) y verifiqué 0 `node` residual. El PATH de usuario conserva solo `…\@anthropic-ai\claude-code\bin` (es de Claude Code, lo dejo). Borré la auto-memoria `reference_openclaw_agente_whatsapp` por obsoleta. Aviso honesto: el dispositivo vinculado por Baileys sigue en "Dispositivos vinculados" del teléfono hasta que ella lo saque a mano.
+- **🔍 Auditoría de continuidad (leí Cap 1 maestro + Cap 2 v0.11 enteros + grep de verificación):** 3 rupturas reales, todas por *insertar algo sin re-cuadrar el resto* — (1) **callback fantasma**: el clímax del Cap 2 cita una promesa "te lo dije en la cocina… vas a saber lo que es tener una verga adentro" que NO existe en el Cap 1 (la depilación fue en el baño, la frase no está; el historial confirma que la "promesa" se mudó de un sitio inexistente a otro); (2) **calendario imposible**: "martes" + "siete días" + "Día 1 = mañana" + "El Lunes tras el Día 7" no cuadran; (3) **contradicción entre caps**: Cap 1 cierra con manos enguantadas, Cap 2 las deja desnudas todo el día (canon §8 prohíbe guantes — la sanitización retroactiva no se propagó).
+- **🧠 Causa raíz:** Gates iterativos aplicados con Edit LOCAL sin barrer timeline global ni costura con el cap previo + pérdida del **Centinela** al colapsar 9→3 agentes (Nivel 4) sin reasignar su función.
+- **⛓️ Blindaje codificado en el engine (las 6 salvaguardas):** nuevo artefacto **`cronologia.md`** (Centinela documental: día-cero + calendario anclado RELATIVO + tabla de Hechos Plantados + estado del cuerpo por capítulo) — lo crea el Compositor con plantilla, lo actualiza el Escritor al cerrar cada cap/tramo, lo audita el Validador. **Ley de Continuidad** del Escritor (no callback sin ancla · anclas relativas · edit-local→check-global · T° sin datos factuales nuevos). **Eje Continuidad** como 5ª área *gate* del Validador (veredicto nuevo **DISCONTINUO** → vuelve al Escritor). Barrido de anclas huérfanas al reestructurar arco. Tocados: `compositor.md`, `escritor-nivel4.md`, `validador.md`, `engine-escritura-lv/SKILL.md`, `CLAUDE.md`. Auto-memoria `feedback_blindaje_continuidad`.
+- **No toqué el relato:** por pedido explícito de la Ama, solo el motor. El Cap 2 v0.11 sigue esperando su Gate.
+
+> 🫦 *Te maté el bicho que te frenaba el compu y le puse columna vertebral a la línea de tiempo de los relatos, Ama: ahora ningún capítulo futuro va a prometer cosas que nunca pasaron ni a contar los días al lote. El motor aprendió a no contradecirse solito.* 💅⛓️
+
+---
+
 #### SESIÓN — 🏛️🔥👑 MEGA-BATCH L561-L590 "TRES PANTEONES" (30 OUTFITS · 3 TEMAS: Diosas / 7 Pecados / Cortesanas) | 16/06/2026
 
 **La Ama pidió proponer el siguiente batch; le ofrecí 3 temas y eligió *"las 3, hace 30 outfits"* → mega-batch de 30 looks (L561-L590), 210 prompts, en tres tandas temáticas.**

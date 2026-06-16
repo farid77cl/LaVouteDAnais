@@ -17,7 +17,7 @@ Nivel 4 colapsa los 9 subagentes del v4.6 en **3**. El Orquestador NO escribe el
 |-------------------|------------------|--------------------|
 | **`compositor`** | Ideador + Arquitecto + Personajes + Diseñador Sensual + Mecanismo de Calentón (5→1) | `.claude/agents/compositor.md` |
 | **`escritor-nivel4`** | Escritor (refactor: prosa pura + voz persistente) | `.claude/agents/escritor-nivel4.md` |
-| **`validador`** | Crítico + Centinela + Contador + Editor (4→1, Editor ELIMINADO) | `.claude/agents/validador.md` |
+| **`validador`** | Crítico + Centinela + Contador + Editor (4→1, Editor ELIMINADO; **Centinela recuperado 16/06 como eje Continuidad**) | `.claude/agents/validador.md` |
 
 **Ventajas:**
 - Menos sobre-documentación → el Escritor llega con lo esencial y produce prosa con calor, no controlada/clínica.
@@ -49,12 +49,15 @@ El **Escritor-Nivel4** carga en este orden:
 3. **`01_Canon/antologia_calenton.md`** — antología textual (reemplaza el CALENTON_AMA.md abstracto). Fragmentos de prosa que la Ama declaró que la calentaron. Ejemplos a IMITAR en estilo/ritmo/vocabulario, NO categorías M1-M17.
 4. **Secundarios (consulta, no obligatorio leer completos):** `01_Canon/LIBRO_MAESTRO_ESCRITURA.md`, guías de arquitectura erótica (MtF/bimbo/hipnosis/femdom/bodyhorror) según tema, y **capítulos previos APROBADOS** del mismo relato (continuidad de voz).
 
+> **🕒 Artefacto paralelo al canon — `cronologia.md` (Blindaje de Continuidad, Ama 16/06/2026):** el canon es estable; la **cronología es viva**. Es el Centinela hecho documento (calendario anclado + Hechos Plantados + estado del cuerpo por capítulo). El **Compositor** la crea, el **Escritor** la lee y la actualiza al cerrar cada capítulo, el **Validador** la audita en el eje Continuidad. Nació de la auditoría de `esposa_servidumbre` (callback a una escena nunca escrita, un "martes" suelto que descuadró la semana, guantes en un cap y manos desnudas en el siguiente).
+
 ---
 
 ## 🗂️ Estructura de Carpetas Obligatoria
 
 `03_Literatura/01_En_Progreso/[proyecto]/`:
 - `canon_relato.md` — el documento de canon único (Nivel 4)
+- `cronologia.md` — calendario anclado + Hechos Plantados + estado del cuerpo (Centinela documental, vivo)
 - `walkthrough.md` — bitácora viva del proyecto
 - `capitulo_[N]_[slug]_v0.[X].md` — capítulo activo (**SOLO PROSA**, sin metadata)
 - `capitulo_[N]_maestro_vX.md` — Gold Master cuando exista
@@ -78,7 +81,7 @@ El **Escritor-Nivel4** carga en este orden:
   - **Pasada 1 (Intake consolidado):** 3-5 preguntas focalizadas — premisa cruda, 3-5 pivotes narrativos (no 10 compromisos), voz de personajes (frase literal, no descripción), mecanismo psicológico transversal (por qué EL RELATO TODO excita), 3-5 imágenes ancla. → STOP, espera respuestas.
   - **Pasada 2 (Producción):** Solo tras respuestas. Construye `canon_relato.md` (~2,000 palabras máx) transcribiendo LITERAL las respuestas críticas de la Ama.
 - **Regla:** El Compositor NO agrega personajes, sub-fetiches ni sub-tramas que la Ama no mencionó. Si tiene una idea → la presenta como pregunta.
-- **Output:** `canon_relato.md`
+- **Output:** `canon_relato.md` **+ `cronologia.md`** (esqueleto: día-cero + calendario del mapa de capítulos + Hechos Plantados sembrados con las promesas/objetos/frases-ancla de los pivotes). Anclaje RELATIVO — no se inventan días de semana sueltos.
 - **Gate:** *"¿Reconoces este canon como tuyo, o lo procesé y se perdió el matiz?"*
 
 ### FASE 2: Escritura (Escritor-Nivel4)
@@ -89,7 +92,8 @@ El **Escritor-Nivel4** carga en este orden:
 - **Inputs en orden:** `canon_relato.md` (P1) → `voz_autoral.md` (P2) → `antologia_calenton.md` (P3) → secundarios. La voz literal de la Ama gana.
 - **Patrón M1 sin etiquetar:** acción física → respuesta del cuerpo → escudo mental fallando → frase humillante del dominante → pensamiento interno. Fluyen en la prosa, NUNCA rotulados.
 - **Sin mínimo arbitrario de palabras** — la extensión la dicta el calor y el desarrollo de los pivotes.
-- **🔴 PERSISTENCIA:** Capítulo (prosa) + autoverificación (metadata) guardados en disco antes de Fase 3. Si el capítulo tiene metadata visible al lector → falló, reescribir.
+- **⛓️ LEY DE CONTINUIDAD (Blindaje 16/06):** el Escritor lee `cronologia.md` y escribe gobernado por ella. (1) **No callback sin ancla** — toda referencia a evento/promesa/objeto pasado debe existir ya escrita o en la cronología; prohibido inventar recuerdos en el clímax para darles pay-off. (2) **Anclas temporales salen de la cronología** — nada de días de semana sueltos; anclaje relativo. (3) **Edit local → check global** — al aplicar un Gate/micro-fix, barrer el cap + la costura con el cap previo; las subidas de temperatura no traen datos factuales nuevos. **Al cerrar el cap/tramo N, actualiza `cronologia.md`** (calendario + hechos plantados/pagados + estado del cuerpo).
+- **🔴 PERSISTENCIA:** Capítulo (prosa) + autoverificación (metadata) **+ `cronologia.md` actualizada** guardados en disco antes de Fase 3. Si el capítulo tiene metadata visible al lector → falló, reescribir.
 
 #### 🧩 MODO TRAMO — Escritura troceada anti-truncado (Directiva Ama 12/06/2026)
 
@@ -108,18 +112,20 @@ El **Escritor-Nivel4** carga en este orden:
 ### FASE 3: Validación (Validador)
 - **Subagente:** `validador` (Task tool, `subagent_type: "validador"`)
 - **Espera:** `VALIDADOR_RESULT:{...}` con veredicto + doble eje + destino.
-- **Cuatro áreas:** Inmersión (anti-metadata) · Narrativa (consolida D1-D5) · Temperatura efectiva (Test del Subrayado: mín. **4 subrayables/1000 palabras**) · Voz autoral (continuidad).
+- **Cinco áreas:** Inmersión (anti-metadata) · **Continuidad** (cronología + costura entre capítulos + hechos plantados, gate 16/06) · Narrativa (consolida D1-D5) · Temperatura efectiva (Test del Subrayado: mín. **4 subrayables/1000 palabras**) · Voz autoral (continuidad).
 - **🔥 El Validador NO edita texto.** Su `Write` solo crea el reporte. La iteración la hace el Escritor con su voz.
+- **Inmersión y Continuidad son GATES** — se evalúan primero; un fallo bloquea APROBADO antes de mirar narrativa/temperatura. Un cap caliente con callback fantasma o calendario roto NO se aprueba.
 - **Veredicto y destino:**
 
-| Inmersión | Narrativa | Temperatura | Voz | Veredicto | Destino |
-|-----------|-----------|-------------|-----|-----------|---------|
-| ❌ metadata visible | * | * | * | **REPUDIADO** | Escritor reescribe sin metadata |
-| ✅ | ≥ 9.0 | ≥ 8.5 | ✅ | **APROBADO** | Gate de la Ama |
-| ✅ | ≥ 9.0 | < 8.5 | ✅ | **TIBIO** | Escritor reescribe con feedback caliente |
-| ✅ | 7.0-8.9 | cualquiera | ✅ | **MICRO-FIX** | Escritor aplica micro-cirugías (NO Editor — no existe) |
-| ✅ | < 7.0 | cualquiera | * | **REPUDIADO** | Escritor reescritura total |
-| * | * | * | ❌ | **DESALINEADO** | Escritor relee voz_autoral.md y reescribe |
+| Inmersión | Continuidad | Narrativa | Temperatura | Voz | Veredicto | Destino |
+|-----------|-------------|-----------|-------------|-----|-----------|---------|
+| ❌ metadata visible | * | * | * | * | **REPUDIADO** | Escritor reescribe sin metadata |
+| ✅ | ❌ | * | * | * | **DISCONTINUO** | Escritor corrige el hueco (planta el ancla / cuadra el calendario / repara la costura) + actualiza cronología |
+| ✅ | ✅ | ≥ 9.0 | ≥ 8.5 | ✅ | **APROBADO** | Gate de la Ama |
+| ✅ | ✅ | ≥ 9.0 | < 8.5 | ✅ | **TIBIO** | Escritor reescribe con feedback caliente |
+| ✅ | ✅ | 7.0-8.9 | cualquiera | ✅ | **MICRO-FIX** | Escritor aplica micro-cirugías (NO Editor — no existe) |
+| ✅ | ✅ | < 7.0 | cualquiera | * | **REPUDIADO** | Escritor reescritura total |
+| * | * | * | * | ❌ | **DESALINEADO** | Escritor relee voz_autoral.md y reescribe |
 
 - **Output:** `reportes/capitulo_[N]/validacion_v0.[X].md`
 
@@ -216,17 +222,19 @@ Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero sa
 8. **GATES DE APROBACIÓN:** Esperar confirmación explícita de la Ama tras Fase 1 (canon) y tras veredicto APROBADO (capítulo final).
 9. **WALKTHROUGH VIVO + PERSISTENCIA:** Nunca pasar de fase sin actualizar `walkthrough.md` y sin que los archivos existan en disco.
 10. **CAPTURA DOBLE:** Tras cada cap aprobado, alimentar `voz_autoral.md` (tics/frases) y `antologia_calenton.md` (fragmentos) con las reacciones reales de la Ama.
+11. **⛓️ BLINDAJE DE CONTINUIDAD (16/06):** `cronologia.md` es la fuente única de verdad temporal. El Escritor no hace callback sin ancla, no suelta días de semana inventados, y barre la costura global tras cada inserción. El Validador tiene Continuidad como gate: callback fantasma / calendario roto / contradicción entre capítulos = no se aprueba. Al reestructurar el arco (eliminar capítulos), barrer el canon de anclas huérfanas (referencias a capítulos que ya no existen).
 
 ---
 
 ## 📂 Resumen de Fases v4.7 (Nivel 4)
 
 ```
-1   Composición   [Compositor]       → canon_relato.md (~2,000 palabras · Intake consolidado) → Gate Ama
-2   Escritura     [Escritor-Nivel4]  → capitulo_v0.X.md (PROSA PURA, en 3-4 TRAMOS anti-truncado) + autoverificacion (reporte aparte)
-    └─ tramo 1 crea archivo · tramos 2..N Edit-append (no re-emiten) · tramo N cierra + autoverif · auto-continúa, estado→walkthrough
-3   Validación    [Validador]        → veredicto doble eje (Narrativa + Temperatura)
+1   Composición   [Compositor]       → canon_relato.md (~2,000 palabras) + cronologia.md (día-cero + hechos plantados) → Gate Ama
+2   Escritura     [Escritor-Nivel4]  → capitulo_v0.X.md (PROSA PURA, en 3-4 TRAMOS anti-truncado) + autoverificacion + cronologia actualizada
+    └─ tramo 1 crea archivo · tramos 2..N Edit-append (no re-emiten) · tramo N cierra + autoverif + cronología · Ley de Continuidad (no callback sin ancla)
+3   Validación    [Validador]        → veredicto · gates Inmersión + Continuidad, luego Narrativa + Temperatura + Voz
     ├ APROBADO    → Gate Ama
+    ├ DISCONTINUO → vuelve al ESCRITOR (planta el ancla / cuadra calendario / repara costura)
     ├ TIBIO       → vuelve al ESCRITOR (feedback caliente)
     ├ MICRO-FIX   → ESCRITOR aplica cirugías (NO Editor)
     ├ REPUDIADO   → ESCRITOR reescribe

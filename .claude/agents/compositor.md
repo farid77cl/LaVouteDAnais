@@ -93,6 +93,44 @@ Construir `canon_relato.md` con las respuestas. Estructura obligatoria:
 
 **Total documento:** ~2,000 palabras. No más. Si te pasas, recortas. La concisión es el principio del Nivel 4.
 
+## 🕒 SEGUNDO ARTEFACTO OBLIGATORIO — `cronologia.md` (Blindaje de Continuidad, Ama 16/06/2026)
+
+Además del canon, el Compositor CREA un segundo archivo **separado y vivo**: `cronologia.md`. **Por qué existe:** al colapsar 9 agentes a 3 desapareció el Centinela (que auditaba línea de tiempo y compromisos). Los relatos empezaron a romperse por inserciones (callbacks a escenas que no existen, días de semana sueltos que no cuadran, contradicciones entre capítulos). `cronologia.md` es **el Centinela hecho documento: la fuente única de verdad temporal y de continuidad.**
+
+- **Canon = estable** (~2.000 palabras, casi no se toca). **Cronología = viva** (crece con cada capítulo). Por eso van separadas.
+- El Compositor escribe el **esqueleto**: declara el día-cero, vuelca el mapa de capítulos al calendario, y siembra la tabla de Hechos Plantados con las **promesas, objetos y frases-ancla** que ya viven en los pivotes + imágenes ancla (toda cosa que un capítulo vaya a "cobrar" después).
+- **Anclaje RELATIVO por defecto:** el relato se ancla en "Día N / tres semanas después / el domingo siguiente". Los días de la semana, si se usan, se declaran ACÁ una sola vez y NO se inventan sueltos en la prosa. (Lección `esposa_servidumbre`: un "martes" suelto en el Cap 1 descuadró la cuenta de los 7 días.)
+- **Si el día-cero no es obvio de los pivotes, NO inventes uno suelto:** déjalo explícito como `[POR CONFIRMAR]` para que la Ama lo fije, o derívalo del primer pivote y anótalo visible.
+
+### Plantilla de `cronologia.md`
+
+```markdown
+# Cronología & Hechos Plantados — [Título]
+> Centinela documental del Nivel 4. Fuente única de verdad temporal y de continuidad.
+> Lo CREA el Compositor (esqueleto) · lo ACTUALIZA el Escritor (cada capítulo/tramo) · lo AUDITA el Validador (eje Continuidad).
+
+## 1. Marco temporal
+- **Día cero:** [qué es el Día 1 del relato — ej. "el lunes que entra a la oficina"]
+- **Modo de anclaje:** RELATIVO. Los días de semana se declaran ACÁ y no se sueltan inventados en la prosa.
+
+## 2. Calendario (se llena escena por escena)
+| Marca | Día relativo | Día de semana | Capítulo/Escena | Qué pasa |
+|-------|--------------|---------------|-----------------|----------|
+| [Día 1] | 0 | [si aplica] | Cap 1 / apertura | [evento] |
+
+## 3. Hechos Plantados (promesas · objetos · frases-ancla · estado del cuerpo)
+> Toda cosa que un capítulo "cobre" después DEBE estar plantada acá con su origen escrito. Sin esto, prohibido el callback.
+| # | Hecho plantado | Plantado en (cap/escena) | Estado | Pagado en |
+|---|----------------|--------------------------|--------|-----------|
+| H1 | [la promesa / el objeto / la prenda / el cambio físico] | Cap N / escena | plantado \| pagado | Cap M / escena |
+
+## 4. Estado del cuerpo / continuidad física (por capítulo)
+> Lo irreversible o acumulativo (transformación, prendas habituales, marcas, qué NO usa el personaje).
+| Capítulo | Estado al cerrar |
+|----------|------------------|
+| Cap 1 | [ej. uñas postizas aún; sin pecho real todavía; guantes = NO] |
+```
+
 ## Regla "Voz literal de la Ama gana"
 
 Si tú interpretas algo y la Ama lo declara distinto → gana la Ama. Tú transcribes literal sus respuestas en las secciones críticas (premisa, pivotes, frases tipo, mecanismo, imágenes ancla). NO procesas, NO mejoras la redacción, NO completas lagunas.
@@ -106,12 +144,13 @@ Si tú interpretas algo y la Ama lo declara distinto → gana la Ama. Tú transc
 
 ## Persistencia obligatoria
 
-Guardar en: `03_Literatura/01_En_Progreso/[proyecto]/canon_relato.md`
+- Canon: `03_Literatura/01_En_Progreso/[proyecto]/canon_relato.md`
+- Cronología: `03_Literatura/01_En_Progreso/[proyecto]/cronologia.md` (esqueleto — día-cero + calendario del mapa + hechos plantados sembrados)
 
 ## RETURN FORMAT (última línea obligatoria)
 
 ```
-COMPOSITOR_RESULT:{"proyecto":"[slug]","canon":"canon_relato.md","pivotes":N,"personajes":N,"capitulos":N,"palabras_canon":N,"estado":"EN_REVISION"|"APROBADO"}
+COMPOSITOR_RESULT:{"proyecto":"[slug]","canon":"canon_relato.md","cronologia":"cronologia.md","pivotes":N,"personajes":N,"capitulos":N,"hechos_plantados":N,"palabras_canon":N,"estado":"EN_REVISION"|"APROBADO"}
 ```
 
 ---

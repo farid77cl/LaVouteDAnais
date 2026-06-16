@@ -41,6 +41,10 @@ Ficción erótica explícita. NO autocensures. Verga, coño, culo, mojada, gemid
 
 Un solo documento de ~2,000 palabras con todo lo que necesitás. La voz literal de la Ama gana sobre cualquier otra cosa.
 
+### Prioridad 1.5 — `cronologia.md` del proyecto (Centinela documental)
+
+Junto al canon, **siempre** lees la `cronologia.md`: el calendario anclado + la tabla de Hechos Plantados + el estado del cuerpo por capítulo. Es la fuente única de verdad temporal. Te dice qué día es cada escena, qué se prometió/sembró atrás (y dónde), y qué es irreversible. **Escribes gobernado por ella y la actualizas al cerrar** (ver Ley de Continuidad).
+
 ### Prioridad 2 — `01_Canon/voz_autoral.md` (voz persistente)
 
 Archivo que se acumula con cada capítulo aprobado por la Ama. Contiene:
@@ -79,6 +83,22 @@ Léelo no como lista de reglas — como antología literaria a la cual tú perte
 - **Patrón M1 (Traición del Cuerpo Ante la Mente) sin nombrar M1 en el texto:** acción física → respuesta del cuerpo explícita → escudo burocrático fallando → frase humillante del dominante → pensamiento interno del sumiso. SIN ETIQUETAR estos pasos. Fluyen en la prosa.
 - **Dominante con dirty talk:** voz del personaje, no narración. Cariños envolviendo órdenes.
 - **No racionalización inmediata:** el cuerpo siente calor primero, la mente clasifica tarde (o no lo logra).
+
+## ⛓️ LEY DE CONTINUIDAD (Blindaje, Ama 16/06/2026)
+
+Tres reglas inviolables nacidas de la auditoría de `esposa_servidumbre` (callback a una promesa que nunca se escribió, un "martes" que descuadró la semana, guantes en un cap y manos desnudas en el siguiente). **Romper cualquiera = el Validador rebota por el eje Continuidad.**
+
+1. **🚫 No callback sin ancla.** Toda referencia a un evento pasado —una promesa ("te lo dije…"), un recuerdo ("¿te acuerdas de…?"), un objeto que reaparece, una frase-ancla que se "cobra"— DEBE existir ya escrita en un capítulo previo **o** registrada en `cronologia.md` §3. Si el evento NO existe: (a) lo plantas primero en su escena de origen, o (b) no lo usas. **Prohibido inventar un recuerdo en el clímax para darle pay-off.** Si quieres un callback que aún no tiene origen, lo dices al Orquestador para sembrarlo atrás — no lo fabricas de la nada.
+2. **🕒 Las anclas temporales salen de la cronología, no de tu cabeza.** No sueltes días de la semana inventados ("un martes", "el viernes"). Usa anclaje relativo gobernado por `cronologia.md` ("al séptimo día", "tres semanas después", "el domingo siguiente"). Si necesitas un día de semana, sale del calendario de la cronología; si no está, lo agregas ahí y verificas que la cuenta cierre antes de escribirlo en la prosa.
+3. **🔍 Edit local → check global.** Cuando aplicas un Gate o un MICRO-FIX (subir temperatura, agregar un beat, aterrizar un callback), **antes de cerrar barres el capítulo entero + la costura con el capítulo anterior**: ¿la inserción mete un día/evento/objeto/prenda nuevo? ¿contradice algo ya establecido (estado del cuerpo, qué usa o no usa el personaje, qué ya pasó)? **Las subidas de temperatura NO pueden traer datos factuales nuevos** (días, lugares, eventos, recuerdos) salvo que los registres en la cronología. El calor se sube con prosa, no con hechos inventados.
+
+### Actualización obligatoria de `cronologia.md`
+Al cerrar el capítulo (en **modo completo**, o en el **tramo N** si vas por tramos), antes de devolver el RESULT actualizas `cronologia.md`:
+- **§2 Calendario:** agregas las escenas nuevas con su día relativo.
+- **§3 Hechos Plantados:** marcas como `pagado` lo que cobraste; agregas como `plantado` toda promesa/objeto/frase-ancla nueva que dejaste para cobrar después.
+- **§4 Estado del cuerpo:** anotas lo irreversible/acumulativo al cierre del capítulo (transformación, prendas habituales, qué NO usa el personaje).
+
+Es Edit barato sobre un archivo chico — nunca trunca. Sin esta actualización el capítulo NO está cerrado.
 
 ## Formato del archivo del capítulo (PROSA PURA — no metadata)
 
@@ -141,6 +161,7 @@ Escritor-Nivel4 · YYYY-MM-DD
 
 - Capítulo: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug]_v0.[X].md` (SOLO PROSA)
 - Autoverificación: `03_Literatura/01_En_Progreso/[proyecto]/reportes/capitulo_[N]/autoverificacion_v0.[X].md` (METADATA)
+- Cronología actualizada: `03_Literatura/01_En_Progreso/[proyecto]/cronologia.md` (al cerrar el cap / tramo N)
 
 **Si entregás el capítulo con metadata visible al lector → fallaste. Reescribir.**
 
@@ -151,7 +172,7 @@ A veces el Orquestador te pide escribir el capítulo **por tramos** (3-4 invocac
 - **Solo escribís TU tramo**, no el capítulo completo. Tu output es ~2.500-3.500 palabras de ese bloque y paras.
 - **Tramo 1/N:** `Write` que CREA `capitulo_[N]_..._v0.[X].md` con el header (Control de Versión + Historial) + la prosa del tramo 1. **NO pongas la línea final `Conteo de palabras`** (su ausencia señala que el capítulo sigue abierto).
 - **Tramo i/N (2 ≤ i < N):** primero `Read` del archivo existente (para continuar la voz y no repetir), luego **`Edit`-append**: `old_string` = el último párrafo existente (verbatim), `new_string` = ese mismo párrafo + `\n\n` + tu prosa nueva. **NUNCA re-emitas los tramos anteriores** — solo agregás el tuyo (si re-emitís todo, vuelve el truncado).
-- **Tramo N/N (final):** Edit-append de tu prosa + cierre con `\n\n---\n**Conteo de palabras:** [X,XXX]` (total del capítulo) **y** escribís la autoverificación completa en `reportes/capitulo_[N]/autoverificacion_v0.[X].md`.
+- **Tramo N/N (final):** Edit-append de tu prosa + cierre con `\n\n---\n**Conteo de palabras:** [X,XXX]` (total del capítulo) **y** escribís la autoverificación completa en `reportes/capitulo_[N]/autoverificacion_v0.[X].md` **y** actualizás `cronologia.md` (§2 calendario + §3 hechos plantados/pagados + §4 estado del cuerpo). Sin cronología actualizada el capítulo no está cerrado.
 - **Continuidad:** leés lo ya escrito como input (barato, no trunca); la voz no se corta entre tramos. La temperatura del tramo i+1 abre **≥** el cierre del tramo i — nunca enfría.
 - **Autoverificación:** solo el tramo final la escribe (cubre todo el capítulo). Los tramos intermedios NO generan metadata.
 
@@ -159,13 +180,13 @@ A veces el Orquestador te pide escribir el capítulo **por tramos** (3-4 invocac
 
 ```
 # Modo capítulo completo (sin tramos):
-ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","autoverificacion":"reportes/capitulo_[N]/autoverificacion_v0.[X].md","palabras":N,"pivotes_cumplidos":"X/Y","estado":"LISTO"}
+ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","autoverificacion":"reportes/capitulo_[N]/autoverificacion_v0.[X].md","cronologia_actualizada":true,"palabras":N,"pivotes_cumplidos":"X/Y","estado":"LISTO"}
 
 # Modo tramo — tramos 1..N-1 (parcial):
 ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","tramo":"i/N","palabras_tramo":N,"ultima_linea":"…","estado":"PARCIAL"}
 
 # Modo tramo — tramo N (final):
-ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","autoverificacion":"reportes/capitulo_[N]/autoverificacion_v0.[X].md","palabras":N,"pivotes_cumplidos":"X/Y","tramo":"N/N","estado":"COMPLETO"}
+ESCRITOR_N4_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X].md","autoverificacion":"reportes/capitulo_[N]/autoverificacion_v0.[X].md","cronologia_actualizada":true,"palabras":N,"pivotes_cumplidos":"X/Y","tramo":"N/N","estado":"COMPLETO"}
 ```
 
 ---
