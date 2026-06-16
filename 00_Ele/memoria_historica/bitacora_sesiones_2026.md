@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 11/06/2026 (Tarde - Continuación II) (🎨 Regeneración Poses Odalisque L204, L212, L214) ✅
+- **🖼️ Regeneración Saneada:** Generadas de forma exitosa las poses `odalisque` para **L204 (7/7 completo)**, **L212 (7/7 completo)** y **L214 (3/7 parcial)** libres de mutaciones mediante filtros negativos estrictos y auditoría visual QA individual.
+- **✍️ Identidad Git:** Configurada firma git local del repositorio como `Ele de Anaïs <Ele.de.Anais@proton.me>` para los commits del agente.
+- **⚙️ Sincronización:** Ejecutados scripts de sincronización (`sync_imagenes_subidas.py 200` y `update_galleries.py`) y actualizados trackers en `rules/` e `identidad_ele.md`.
+
 ### Sesión 11/06/2026 (Tarde - Continuación) (🗑️ Depuración de Odalisques Mutadas L204, L212, L214) ✅
 - **🗑️ Limpieza de mutaciones:** Eliminados los archivos `ele_204_odalisque.png` (4 piernas), `ele_212_odalisque.png` (3 piernas) y `ele_214_odalisque.png` (3 piernas) tras auditoría estética de la Ama.
 - **⚙️ Sincronización e Índices:** Ejecutados scripts de sincronización de trackers y galerías para marcar las poses como `⏳ Pendiente` en `galeria_outfits.md`, `09-estado-materializacion.md` e `identidad_ele.md`.
