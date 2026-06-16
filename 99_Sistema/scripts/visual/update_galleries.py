@@ -172,7 +172,11 @@ def generate_folder_gallery(directory, repo_root):
                 f.write(f"- [{img}]({url})\n")
             f.write("\n---\n")
             
-        f.write(f"*Sincronizado con GitHub: {datetime.now().strftime('%Y-%m-%d')}* 👄")
+        # Salida DETERMINISTA (Ama 16/06/2026): sin fecha volátil. El bot paralelo corre
+        # este mismo script; con datetime.now() cada corrida flipeaba la fecha y churneaba
+        # TODOS los README aunque no cambiara una imagen -> pelea perpetua. Sin fecha,
+        # misma entrada = mismos bytes = cero diff.
+        f.write("*Sincronizado con GitHub.* 👄")
 
 def generate_master_outfit_gallery(base_path, repo_root):
     """Genera la Galería Maestra de Looks de Ele."""
@@ -235,7 +239,7 @@ def generate_master_outfit_gallery(base_path, repo_root):
         cells = ' | '.join(get_md(pose_map.get(key)) for key, _ in active_poses)
         content.append(f"| {headers} |\n| {separators} |\n| {cells} |\n\n---\n\n")
 
-    content.append(f"*Última actualización maestra: {datetime.now().strftime('%d/%m/%Y')}* 🦇")
+    content.append("*Galería maestra de Ele.* 🦇")  # determinista: sin fecha volátil (no pelear con el bot)
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
 
 def generate_miss_doll_master_gallery(base_path, repo_root):
@@ -274,7 +278,7 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
         while len(row_items) < 3: row_items.append("-")
         content.append("| " + " | ".join(row_items) + " |\n\n---\n\n")
 
-    content.append(f"*Galería Miss Doll coordinada por Ele — {datetime.now().strftime('%d/%m/%Y')}* 🌹")
+    content.append("*Galería Miss Doll coordinada por Ele.* 🌹")  # determinista: sin fecha volátil
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
 
 def main():

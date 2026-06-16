@@ -99,12 +99,13 @@ def parse_galeria(path: Path) -> list[dict]:
 # ── Generador de índice ──────────────────────────────────────────────────────
 
 def gen_index(looks: list[dict]) -> str:
-    now = datetime.now().strftime("%d/%m/%Y %H:%M")
+    # Salida DETERMINISTA (Ama 16/06/2026): sin fecha/hora volátil. Antes tenía HH:MM ->
+    # el índice churneaba cada minuto y peleaba con el bot. Misma galería = mismos bytes.
     total = len(looks)
 
     lines = []
     lines.append("# 📇 Índice Rápido — Galería de Outfits Ele\n")
-    lines.append(f"> Generado automáticamente el {now} — **{total} looks registrados**  \n")
+    lines.append(f"> Generado automáticamente desde la galería — **{total} looks registrados**  \n")
     lines.append("> Fuente: `00_Ele/galeria_outfits.md`  \n")
     lines.append("> Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.\n\n")
     lines.append("---\n\n")
