@@ -18,8 +18,8 @@ def get_remote_url(local_path, repo_root):
 def get_tracked_images(directory):
     """Obtiene la lista de imágenes trackeadas por Git en el directorio."""
     try:
-        # Ejecutamos git ls-files para ver qué archivos están en el índice
-        result = subprocess.run(['git', 'ls-files', directory], capture_output=True, text=True, check=True)
+        # Ejecutamos git ls-files para ver qué archivos están en el índice (incluyendo untracked no ignorados)
+        result = subprocess.run(['git', 'ls-files', '-c', '-o', '--exclude-standard', directory], capture_output=True, text=True, check=True)
         files = result.stdout.splitlines()
         # Solo imagenes hijas directas, no imagenes de subcarpetas.
         directory_abs = os.path.abspath(directory)

@@ -1,10 +1,10 @@
 # Capítulo 1: La Semana
 
-Lo primero que Esteban perdió no fue la plata. Fue la costumbre de mirarse a los ojos en el espejo del baño. Llevaba tres meses lavándose los dientes con la vista clavada en el lavamanos, porque arriba estaba su cara, y su cara era el recuento de todo lo que no estaba haciendo. La cuenta del banco en rojo. El departamento de Ñuñoa que Valeria pagaba con los auspicios de Instagram. La comida que ella traía. El sueño hasta tarde, porque despertar temprano era despertar al inventario. Cuando ella le dijo, una tarde de martes, *"tengo una solución, mi amor, sentémonos"*, él pensó en un préstamo, en un primo, en cualquier cosa antes que en lo que vino.
+Lo primero que Esteban perdió no fue la plata. Fue la costumbre de mirarse a los ojos en el espejo del baño. Llevaba tres meses lavándose los dientes con la vista clavada en el lavamanos, porque arriba estaba su cara, y su cara era el recuento de todo lo que no estaba haciendo. La cuenta del banco en rojo. El departamento de Ñuñoa que Valeria pagaba con los auspicios de Instagram. La comida que ella traía. El sueño hasta tarde, porque despertar temprano era despertar al inventario. Cuando ella le dijo, una tarde de domingo, *"tengo una solución, mi amor, sentémonos"*, él pensó en un préstamo, en un primo, en cualquier cosa antes que en lo que vino.
 
 Valeria preparó dos tés. Se sentó frente a él en el sillón con las piernas cruzadas y esa calma de quien ya grabó el guion en la cabeza —la misma calma con la que le hablaba a sus ciento ochenta mil seguidoras mientras se difuminaba la base con la yema del dedo anular—. No subió la voz ni una vez en toda la conversación. Esa fue la parte que después Esteban no se pudo sacar: que algo así se dijera con esa dulzura, sin un solo borde.
 
-—Conozco a un hombre. Gabriel Solar. Tiene una productora de contenido, maneja marcas grandes, mueve plata seria. Necesita asistente personal. —Sopló el té—. Le voy a presentar a una amiga mía. Estefanía. Necesita el trabajo, es discreta, parte el lunes en una semana.
+—Conozco a un hombre. Gabriel Solar. Tiene una productora de contenido, maneja marcas grandes, mueve plata seria. Necesita asistente personal. —Sopló el té—. Le voy a presentar a una amiga mía. Estefanía. Necesita el trabajo, es discreta, parte el lunes de la próxima semana.
 
 —No conozco a ninguna Estefanía.
 
@@ -113,6 +113,14 @@ La crema se absorbió. La piel le quedó tibia, distinta, con la superficie viva
 Le explicó el tucking de pie, frente al espejo del clóset, con voz baja y tranquila. Cómo recoger los testículos hacia adentro, empujándolos con los dedos hacia el canal donde caben. Cómo agarrar la verga —todavía medio dura de la crema y de antes— y doblarla hacia atrás, entre las piernas, hacia el perineo. Cómo asegurar con la cinta.
 
 —Tienes que bajarla primero —dijo Valeria, mirándole la verga que no obedecía—. No se puede esconder así. Respira lento. —Le puso la palma plana sobre la pelvis, sin agarrar nada, solo apoyada, y el contacto le hizo todo lo contrario de lo que pedía—. Mírala. Mírala cómo no quiere bajar. Está feliz, la weona. No sabe que la voy a guardar y no la voy a dejar salir en toda la semana.
+
+—Esto es temporal —dijo Esteban entre dientes, agarrándose a la única palabra que le quedaba—. Hasta la plata, no más. Después se acaba.
+
+Valeria no se rió ni discutió. Apretó apenas la palma contra la pelvis lisa —sin subir la voz, con la misma calma con que le había dicho que abriera las piernas— y se lo dijo despacio, mirándolo al espejo, como quien adelanta el final de una cosa que ya está empezada:
+
+—Lo que tú digas, mi amor. Pero acuérdate de esto, porque te lo voy a cobrar: vas a saber lo que es tener una verga adentro. —Le mantuvo la mano ahí, plana, firme, sintiéndole el latido contra la palma—. Todavía te peleas. Por eso lo digo ahora, para que después no me digas que no te avisé.
+
+Esteban apretó los dientes y miró para otro lado. Lo tomó como lo que sonaba: una humillación, una crueldad dicha para hundirlo, el tipo de cosa que se dice y no se cumple. *Eso no va a pasar nunca.* Se lo juró callado, con la verga dura en la mano de su mujer, sin saber todavía que Valeria no decía nunca una cosa que no fuera a cumplir.
 
 Esteban se miró en el espejo, la cara roja, la verga dura en la mano de su mujer que ni la apretaba, y la humillación de oírla hablar de él en partes —*la weona*, como si fuera un objeto que se desarma— en vez de apagarle el calor se lo subió, lo dejó más duro todavía, y eso fue lo peor: que mientras más lo trataba como cosa, más le respondía la cosa.
 
@@ -280,7 +288,7 @@ No era una metáfora. Era literal.
 
 Las manos. Las manos lo seguían delatando. Las manos grandes y nudosas que la peluca y el labial y las medias no habían podido borrar, descansando sobre los muslos cubiertos por el velo. Esteban las miró y por un momento las quiso esconder.
 
-—Esas las escondemos con guantes el primer día —dijo Valeria al cristal—. O las mantienes bajo el escritorio. Pero todo lo demás… todo lo demás ya está, Estefanía. —Le pasó las uñas por el cuello, lento—. Y mírate la cara. Estás caliente. Llevas caliente desde la depilación y no se te ha bajado ni una vez. ¿Lo sabes? Yo lo sé. Te tengo así a propósito.
+—Esas no las podemos esconder con nada —dijo Valeria al cristal—. Así que las mantienes quietas, bajas, sobre el escritorio o en la falda, y no las muestras más de lo necesario. Son lo único que te delata, mi amor. Lo demás… todo lo demás ya está, Estefanía. —Le pasó las uñas por el cuello, lento—. Y mírate la cara. Estás caliente. Llevas caliente desde la depilación y no se te ha bajado ni una vez. ¿Lo sabes? Yo lo sé. Te tengo así a propósito.
 
 El nombre, en boca de ella, en el espejo, y la frase —*te tengo así a propósito*— fue lo que terminó de hacer *click*. Esteban —Estefanía— sintió cómo el cuerpo entero, preso del corsé y del tape y de la postura y de un día completo de calor acumulado sin descarga, dejó de pelear contra lo que veía y simplemente lo aceptó como un hecho. *Esa soy.* No fue rendición pensada. Fue el cuerpo cerrando un acuerdo consigo mismo mientras la cabeza ya ni intentaba escribir nada, porque el calor le había ocupado el sitio donde antes pensaba.
 
@@ -552,7 +560,7 @@ Y no buscó a Esteban en el espejo. Ni siquiera por costumbre. Buscó a Estefan�
 
 El perfume al final. Las muñecas. Detrás de las orejas. Y en el escote, el dedo demorándose un segundo en el canal tibio, donde Valeria le había dicho que un hombre mete la nariz. Al hacerlo —al perfumarse el escote ella misma, sin que nadie se lo ordenara, pensando sin querer en una nariz acercándose— la calentura guardada le subió de golpe y tuvo que apoyarse en el tocador, respirando corto, alto, hasta que pasó. No pasó. Bajó apenas. Volvió a su sitio, a fuego bajo, latiendo.
 
-Los stilettos. Los guantes finos para las manos, el único delator. Se paró frente al espejo grande, entera, por primera vez sin Valeria detrás.
+Los stilettos. Y las manos desnudas, grandes, nudosas, el único delator que ninguna prenda le tapaba. Se paró frente al espejo grande, entera, por primera vez sin Valeria detrás.
 
 Lo que vio fue una mujer. Y recién entonces, mirándose, se dio cuenta de algo que llevaba un rato pasándole sin que lo notara: que no estaba pensando. Que desde que despertó no había armado una sola frase entera en la cabeza, ni una sola de las que antes la habrían asaltado —*esto está mal, esto es una locura, soy un hombre, qué estoy haciendo*—. No estaban. En su lugar había solo el cuerpo: el latido entre las piernas, el peso de las copas, el perfume, el calor que no terminaba. Lo intentó incluso a propósito, buscó el pensamiento de hombre como quien busca una palabra en la punta de la lengua, y no lo encontró. La calentura se lo había comido. No supo cuándo. No supo cómo. Solo supo que pensar le costaba, y que sentir le salía solo, y que así —embotada, mojada, callada— se sentía, por primera vez en meses, extrañamente en paz.
 
@@ -570,7 +578,7 @@ Estefanía la miró en el espejo. Pensó la respuesta vieja, la de hombre, y no 
 
 —Buena chica. —Valeria le acomodó un mechón de la peluca, le besó la sien seca—. A las nueve y veinte salimos. A las nueve y media le abres la puerta.
 
-A las nueve y veintiocho, Estefanía estaba parada frente a la puerta de la oficina de Gabriel Solar, con los guantes puestos, el perfume de su mujer subiéndole del escote, la pelvis mojada bajo la falda lápiz y esa cabeza vacía de palabras que había descubierto en el espejo y que ya no le daba miedo. Levantó la mano enguantada para tocar.
+A las nueve y veintiocho, Estefanía estaba parada frente a la puerta de la oficina de Gabriel Solar, las manos desnudas a los costados, el perfume de su mujer subiéndole del escote, la pelvis mojada bajo la falda lápiz y esa cabeza vacía de palabras que había descubierto en el espejo y que ya no le daba miedo. Levantó la mano para tocar.
 
 No pensó *soy Esteban*. No pensó *esto es temporal*. No pensó nada, en realidad, que se pareciera a una frase.
 

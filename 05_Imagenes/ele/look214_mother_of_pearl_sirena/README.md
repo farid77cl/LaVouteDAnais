@@ -1,27 +1,33 @@
 # 🖼️ Galería: look214_mother_of_pearl_sirena
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 3
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_214_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_ditzy.png) | ![ele_214_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_odalisque.png) | ![ele_214_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) |
+| ![ele_214_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_back_view.png) | ![ele_214_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_ditzy.png) | ![ele_214_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_odalisque.png) |
+| ![ele_214_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_pov.png) | ![ele_214_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_seated.png) | ![ele_214_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_side_profile.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
-| ![ele_214_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_ditzy.png) | ![ele_214_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_odalisque.png) | ![ele_214_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_214_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_back_view.png) | ![ele_214_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_ditzy.png) | ![ele_214_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_odalisque.png) | ![ele_214_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_pov.png) |
+| ![ele_214_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_seated.png) | ![ele_214_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_side_profile.png) | ![ele_214_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_214_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_back_view.png)
 - [ele_214_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_ditzy.png)
 - [ele_214_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_odalisque.png)
+- [ele_214_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_pov.png)
+- [ele_214_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_seated.png)
+- [ele_214_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_side_profile.png)
 - [ele_214_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look214_mother_of_pearl_sirena/ele_214_standing.png)
 
 ---
