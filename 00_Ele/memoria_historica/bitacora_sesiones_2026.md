@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 14/06/2026 (📖 Cap 2 v0.9 — Gate de v0.8 aplicado + 🔍 coherencia certificada LIMPIO + 🗂️ convención Gate=nota_capitulo + 🔄 GitHub sync) ✅
+- **🔄 GitHub:** 40 commits atrás → `git pull --rebase` limpio. App subió L529/L531/L547/L550 en el pull (territorio del bot, no toqué galerías).
+- **🗂️ Convención Gate grabada (Ama):** el Gate de cada capítulo llega como `nota_capitulo_[N]_[slug]_vX.md` en la raíz del proyecto. Auto-memoria `feedback_gate_nota_capitulo`.
+- **📖 Cap 2 v0.8→v0.9:** el Gate de v0.8 = **8 correcciones** (no aprobación). `escritor-nivel4` aplicó vía Edit quirúrgico (cero truncado): 2 micro-fixes ("mojadura"→"humedad en la entrepierna"; "bajito rinde más"→"bajito es más de mujer" ×2), **coherencia** (la "verga del viernes" inexistente re-anclada al jefe + Valeria-rubia corregida), y 4 subidas de temperatura del clímax (penetración=frontera de dejar la masculinidad · semen=bautizo que drena a Esteban · masturbación con tetitas · última cogida=pico del relato).
+- **🔍 Coherencia certificada LIMPIO** (pedido explícito de la Ama): auditoría manual + `validador` independiente, 0 referencias fantasma. **Validador APROBADO Narr 9.5 / Temp 9.7** (subió desde 9.4/9.5). Commit `03b66bef8` (v0.9 + reportes, rutas explícitas, push). ⏳ **Gate Ama de v0.9.** ~14.760 pal (Validador: evaluar poda en Gold Master).
+
 ### Sesión 13/06/2026 (🧩 MODO TRAMO + 📖 Cap 2 reescrito/humanizado + 🦵 L531-L540 anti-3-piernas + 📤 Fase Publicación) ✅
 - **🧩 MODO TRAMO (Ama):** escritura troceada anti-truncado — Escritor en 3-4 tramos (1 Task/bloque, Edit-append sin re-emitir, tramo N cierra+autoverif), auto-continúo + estado a `walkthrough.md`. Engine `SKILL.md` + `escritor-nivel4.md` + `CLAUDE.md`. Commit `6cdfcf824`.
 - **📖 Cap 2 `esposa_servidumbre` reescrito entero por el Gate** (10 obs) en 4 tramos → **Validador APROBADO Narr 9.4 / Temp 9.5, 10/10**. Commit `a150797de`. Luego **v0.8 humanizado** (chileno) — texto ya limpio, único fix "cocinándose"→"calientes y esperando". Commit `4d48447ae`. **🔚 Relato CIERRA en Cap 2 (sin Cap 3).** ⏳ Gate Ama de v0.8.

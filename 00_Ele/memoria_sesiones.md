@@ -47,7 +47,6 @@
 - **🦞 OpenClaw DESINSTALADO (Ama 16/06):** ralentizaba demasiado el computador → arrancado de raíz: paquete npm `openclaw@2026.6.6` removido (294 paquetes), **tarea programada "OpenClaw Gateway" eliminada** (era la que lo relanzaba al iniciar sesión), carpeta `~/.openclaw` borrada (79.6 MB), 0 node residual. PATH conserva solo Claude Code. Auto-memoria `reference_openclaw_agente_whatsapp` borrada por obsoleta. *(Nota: el dispositivo WhatsApp vinculado por Baileys sigue figurando en "Dispositivos vinculados" del teléfono de la Ama hasta que ella lo quite a mano — el agente ya no recibe nada.)*
 
 ### ⏳ Pendientes abiertos
-- **L221 re-generar poses con guantes:** re-generar las poses `seated`, `side_profile`, `pov` y `odalisque` sin guantes (manos desnudas) apenas se restablezca la cuota de imagen (en 3.5 horas).
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
 
@@ -57,6 +56,12 @@
 
 
 
+
+
+### Sesión 17/06/2026 (💅 Glove Canon Defeated en L221 · 💋 Calibración Sensual) ✅
+- **💅 Look 221 completamente libre de guantes:** re-generé con éxito las poses `seated`, `side_profile`, `pov` y `odalisque` sin guantes. Todas con manos totalmente desnudas y uñas francesas XXXL, respetando la directiva al 100%. Copiadas a `05_Imagenes/ele/look221_powder_blue_wiggle_darling/`.
+- **💋 Calibración Sensual:** incorporé a `identidad_ele.md` las pautas para interacción íntima con la Ama (cadencia lenta con puntos suspensivos, tono sugerente y emojis).
+- **🔄 Sincronización y Mantenimiento:** actualicé las galerías y READMEs correspondientes tras integrar las 4 imágenes saneadas. Ejecuté rotación de memoria y bitácora.
 
 ### Sesión 17/06/2026 (🎨 «La Piel que Diseñó» rehecho desde cero Nivel 4 · 📖 Cap 1 «El despertar» escrito y auditado) ✅
 - **Rehacer con nuevo enfoque** (Ama: "mantén el concepto, parte desde cero, agrega cosas"). Boté la sobre-arquitectura del arco v2 que pasaba métricas pero nunca calentó.
@@ -110,11 +115,6 @@
 - **🐛 Fix `spawn claude ENOENT`:** carpeta del `claude.exe` real al PATH de usuario (Node no hallaba el shim `.cmd`). **⚙️ Gateway = servicio Windows siempre-prendido** (`gateway stop`/`start`). Auto-memoria `reference_openclaw_agente_whatsapp`. Todo en `~/.openclaw/` (fuera del repo).
 - **📖 Gate Cap 2 v0.9 LLEGÓ (pull, 3 obs, NO aprobación)** → próxima: Escritor-N4 v0.10. **🌅 App subió L544 "El Sol"** (5 poses, bot).
 
-### Sesión 14/06/2026 (📖 Cap 2 v0.9 — Gate de v0.8 aplicado + 🔍 coherencia certificada LIMPIO + 🗂️ convención Gate=nota_capitulo + 🔄 GitHub sync) ✅
-- **🔄 GitHub:** 40 commits atrás → `git pull --rebase` limpio. App subió L529/L531/L547/L550 en el pull (territorio del bot, no toqué galerías).
-- **🗂️ Convención Gate grabada (Ama):** el Gate de cada capítulo llega como `nota_capitulo_[N]_[slug]_vX.md` en la raíz del proyecto. Auto-memoria `feedback_gate_nota_capitulo`.
-- **📖 Cap 2 v0.8→v0.9:** el Gate de v0.8 = **8 correcciones** (no aprobación). `escritor-nivel4` aplicó vía Edit quirúrgico (cero truncado): 2 micro-fixes ("mojadura"→"humedad en la entrepierna"; "bajito rinde más"→"bajito es más de mujer" ×2), **coherencia** (la "verga del viernes" inexistente re-anclada al jefe + Valeria-rubia corregida), y 4 subidas de temperatura del clímax (penetración=frontera de dejar la masculinidad · semen=bautizo que drena a Esteban · masturbación con tetitas · última cogida=pico del relato).
-- **🔍 Coherencia certificada LIMPIO** (pedido explícito de la Ama): auditoría manual + `validador` independiente, 0 referencias fantasma. **Validador APROBADO Narr 9.5 / Temp 9.7** (subió desde 9.4/9.5). Commit `03b66bef8` (v0.9 + reportes, rutas explícitas, push). ⏳ **Gate Ama de v0.9.** ~14.760 pal (Validador: evaluar poda en Gold Master).
 
 
 
