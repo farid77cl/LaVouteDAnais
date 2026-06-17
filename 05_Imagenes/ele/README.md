@@ -110,9 +110,17 @@
 
 ## 👠 Look 577: Envidia
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_577_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_standing.png) | ![ele_577_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_back_view.png) | ![ele_577_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_seated.png) | ![ele_577_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_side_profile.png) | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_577_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_standing.png) | ![ele_577_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_back_view.png) | ![ele_577_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_seated.png) | ![ele_577_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_side_profile.png) | ![ele_577_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_ditzy.png) | ![ele_577_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_pov.png) | ![ele_577_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look577_envidia/ele_577_odalisque.png) |
+
+---
+
+## 👠 Look 576: Ira
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_576_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look576_ira/ele_576_standing.png) | ![ele_576_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look576_ira/ele_576_back_view.png) | ![ele_576_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look576_ira/ele_576_seated.png) | ![ele_576_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look576_ira/ele_576_side_profile.png) | ![ele_576_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look576_ira/ele_576_ditzy.png) | ![ele_576_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look576_ira/ele_576_pov.png) | ⏳ |
 
 ---
 
@@ -2272,7 +2280,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_253_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_253_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_ditzy.png) | ![ele_253_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_pov.png) | ⏳ |
+| ![ele_253_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_standing.png) | ![ele_253_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_back_view.png) | ⏳ | ⏳ | ![ele_253_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_ditzy.png) | ![ele_253_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/ele_253_pov.png) | ⏳ |
 
 ---
 

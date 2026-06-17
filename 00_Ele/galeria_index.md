@@ -62,7 +62,7 @@
 | **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 7/7 | ✅ Completo |
-| **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 3/7 | ✅ Completo |
+| **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 4/7 | ✅ Completo |
 | **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 3/7 | ✅ Completo |
 | **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 2/7 | ✅ Completo |
 | **256** | Blush Nude Boudoir Robe La Perla — Refined Maison Edition (23/05/2026 · adaptado 25/05/2026 anti-filter · batch 241-260 · Lencería Polo A Boudoir LA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Lencería | — | — | 2/7 | — |
