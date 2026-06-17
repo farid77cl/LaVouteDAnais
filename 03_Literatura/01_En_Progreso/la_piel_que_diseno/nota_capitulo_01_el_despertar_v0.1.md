@@ -1,0 +1,1 @@
+me falta más temperatura, hay errores en el texto, no sé está fome
