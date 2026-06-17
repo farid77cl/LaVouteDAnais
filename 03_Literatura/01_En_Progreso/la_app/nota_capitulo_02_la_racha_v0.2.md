@@ -1,1 +1,1 @@
-que lámpara este en los 28 años, dale fijación oral a Tomi, debe desean tener algo en la boca, finalmente eso será una verga o un coño
+que lámpara este en los 28 años, dale fijación oral a Tomi, debe desean tener algo en la boca, finalmente eso será una verga o un coño. parado frente al wáter, y solo pensé ah. Solo eso. Ah, qué chica agrega parado frente al wáter, y solo pensé ah. Solo eso. Ah, qué chica jiji
