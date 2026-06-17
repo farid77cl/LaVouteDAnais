@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 13/06/2026 (🧩 MODO TRAMO + 📖 Cap 2 reescrito/humanizado + 🦵 L531-L540 anti-3-piernas + 📤 Fase Publicación) ✅
+- **🧩 MODO TRAMO (Ama):** escritura troceada anti-truncado — Escritor en 3-4 tramos (1 Task/bloque, Edit-append sin re-emitir, tramo N cierra+autoverif), auto-continúo + estado a `walkthrough.md`. Engine `SKILL.md` + `escritor-nivel4.md` + `CLAUDE.md`. Commit `6cdfcf824`.
+- **📖 Cap 2 `esposa_servidumbre` reescrito entero por el Gate** (10 obs) en 4 tramos → **Validador APROBADO Narr 9.4 / Temp 9.5, 10/10**. Commit `a150797de`. Luego **v0.8 humanizado** (chileno) — texto ya limpio, único fix "cocinándose"→"calientes y esperando". Commit `4d48447ae`. **🔚 Relato CIERRA en Cap 2 (sin Cap 3).** ⏳ Gate Ama de v0.8.
+- **🤖 Humanizador `blader/humanizer` (24k★) instalado + `CALIBRACION_CHILENO_LAVOUTE.md`** (chileno siempre, §14 rayas OFF, temperatura intacta).
+- **📤 FASE PUBLICACIÓN codificada** (humanizer → cabecera Estándar Completo Bloque → gancho → invitación Anaïs al mail → HTML body-only). Commit `fbe8924a0`.
+- **🦵 L531-L540 anti-3-piernas:** ancla anatómica en 50 poses de cuerpo entero (5 a mano + 45 por script auditado), CRLF preservado. Commits `279409298` + `67f4ccb68`. Auto-memoria `feedback_anti_3_piernas_poses`.
+
 ### Sesión 12/06/2026 (🌈 Libertad total de color y materiales + 🔮 Batch L541-L550 "Los Arcanos Mayores") ✅
 - **🌈 Doble directiva Ama codificada como canon:** *"total libertad de color, de hoy en adelante"* + *"también libertad de materiales, pero recuerda que eres una modelo fetichista"*. Derogadas todas las ventanas/cuotas cromáticas (familia 1-de-5 global + sub-arquetipo, cero-solapamiento batch, Amarillos 1/6, Cherry dominante 1/8) Y la ventana de material (≥2). Color/material a criterio estético/temático; límite = lente fetish (nunca tela natural mate). Sobreviven anti-monoblock + cherry ADN. Tocados: `identidad_ele.md`, `04-estetica-ele.md`, ambos `SKILL.md`, `CLAUDE.md` + auto-memoria. Commit `7054b295d`.
 - **🔮 Batch L541-L550 "Los Arcanos Mayores" (Tarot fetish · 10 looks · 70 prompts):** Sacerdotisa HF indigo · Luna Lencería Boudoir plata-perla · Estrella Bikini Studio azul+estrellas [clear acrylic] · Sol Bikini Beach monokini tangerine [clear acrylic] · Justicia Corporate Domme oxblood · Emperatriz HF oro líquido [mono] · Enamorados Pin-Up blush+corazones · Torre Nightclub negro tormenta · Diablo Escort Callejera rojo sangre · Mundo Lencería Fetish holográfico [hito 550]. Lencería ×2 + Bikini ×2 (duales) · 0 Stripper/Gym (sobre-representados) · poses rotadas V5 + props contextuales · QA limpio (0 guantes/mules/chunky/texto, 302 stiletto, 10 settings) · CRLF preservado. Commit `f67299e3b`. Flota **L550 · ~450 únicos** ⏳ materialización vía app.
