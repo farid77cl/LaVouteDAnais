@@ -349,27 +349,27 @@
 | **537** | Lirio Tigre (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Gym/Athleisure · Gym Performance (Tiger-Lily Tennis) · Naranja tigre + spots negros · flor venenosa) | — | Gym/Athleisure | — | — | 2/7 | ⏳ Pendiente |
 | **538** | Dedalera (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Stripper · Stripper Pole (Foxglove Grip) · Fucsia foxglove · flor venenosa) | — | Stripper | — | — | 7/7 | ✅ Completo |
 | **539** | Glicina (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Domestic · Domestic Maid (Wisteria Latex) · Lila glicina · flor venenosa) | — | Domestic | — | — | 1/7 | ⏳ Pendiente |
-| **540** | Adelfa (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Lencería · Lencería Boudoir (Oleander La Perla) · Coral adelfa · flor venenosa) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **540** | Adelfa (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Lencería · Lencería Boudoir (Oleander La Perla) · Coral adelfa · flor venenosa) | — | Lencería | — | — | 7/7 | — |
 | **541** | La Sacerdotisa (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Priestess Column) · Indigo profundo + plata · arcano mayor) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
 | **542** | La Luna (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Lencería · Lencería Boudoir (Moonlit La Perla) · Plata espejo + perla · arcano mayor) | — | Lencería | — | — | 7/7 | — |
 | **543** | La Estrella (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Bikini · Studio Micro Fetish (Star-Map Crystal) · Azul medianoche + estrellas doradas · arcano mayor) | — | Bikini | — | — | 7/7 | — |
 | **544** | El Sol (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Bikini · Beach Editorial (Sunburst Monokini) · Tangerine + oro · arcano mayor) | — | Bikini | — | — | 7/7 | — |
-| **545** | La Justicia (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Corporate · Power Executive Domme (Wet-Satin Tuxedo) · Oxblood + chrome · arcano mayor) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
-| **546** | La Emperatriz (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Liquid Gold Ball Gown) · Oro líquido · arcano mayor) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
+| **545** | La Justicia (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Corporate · Power Executive Domme (Wet-Satin Tuxedo) · Oxblood + chrome · arcano mayor) | — | Corporate | — | — | 6/7 | ⏳ Pendiente |
+| **546** | La Emperatriz (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Liquid Gold Ball Gown) · Oro líquido · arcano mayor) | — | High-Fashion Editorial | — | — | 4/7 | ⏳ Pendiente |
 | **547** | Los Enamorados (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Pin-Up & Retro · Pin-Up Bombshell (Heart Wiggle Dress) · Blush rosa + corazones rojos · arcano mayor) | — | Pin-Up & Retro | — | — | 7/7 | — |
 | **548** | La Torre (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Nightclub · Nightclub (Storm Lightning Sequin) · Negro tormenta + chrome/UV · arcano mayor) | — | Nightclub | — | — | 7/7 | — |
 | **549** | El Diablo (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Escort · Escort Callejera (Pretty Woman O-ring) · Rojo sangre + negro · arcano mayor) | — | Escort | — | — | 6/7 | ⏳ Pendiente |
 | **550** | El Mundo (Hito 550) (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Lencería · Lencería Fetish (Holographic Harness) · Holográfico prismático · arcano mayor) | — | Lencería | — | — | 7/7 | — |
-| **551** | La Domadora (15/06/2026 — batch L551-L560 "El Circo" · Escort · Domme de Club (Ringmaster) · Escarlata + negro + oro · circus) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **552** | La Trapecista (15/06/2026 — batch L551-L560 "El Circo" · Stripper · Pole/Aerial (Aerialist) · Turquesa + plata holográfica · circus) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **553** | La Forzuda (15/06/2026 — batch L551-L560 "El Circo" · Gym/Athleisure · Gym Performance (Vintage Strongwoman) · Borgoña + oro · circus) | — | Gym/Athleisure | — | — | 0/7 | ⏳ Pendiente |
-| **554** | La Mujer Cañón (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Retro-Futurismo (Human Cannonball) · Chrome plata + naranja chispa · circus) | — | Pin-Up & Retro | — | — | 0/7 | ⏳ Pendiente |
-| **555** | La Pierrot Couture (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Harlequin Couture) · Blanco + negro + rombos multicolor · circus) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
-| **556** | La Ilusionista (15/06/2026 — batch L551-L560 "El Circo" · Nightclub · Nightclub (Magician) · Azul medianoche + chrome + estrellas · circus) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **557** | La Encantadora de Serpientes (15/06/2026 — batch L551-L560 "El Circo" · Bikini · Studio Micro Fetish (Snake Charmer) · Esmeralda python iridiscente + oro · circus) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **558** | La Contorsionista (15/06/2026 — batch L551-L560 "El Circo" · Lencería · Lencería Fetish (Contortionist) · Negro + neón UV · circus) | — | Lencería | — | — | 0/7 | ✅ Completo |
-| **559** | La Equilibrista (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Pin-Up Bombshell (Tightrope) · Candy stripe rosa + blanco + rojo · circus) | — | Pin-Up & Retro | — | — | 0/7 | ⏳ Pendiente |
-| **560** | La Reina del Circo (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Finale Showgirl) · Oro espectáculo + cristal · circus) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **551** | La Domadora (15/06/2026 — batch L551-L560 "El Circo" · Escort · Domme de Club (Ringmaster) · Escarlata + negro + oro · circus) | — | Escort | — | — | 5/7 | ⏳ Pendiente |
+| **552** | La Trapecista (15/06/2026 — batch L551-L560 "El Circo" · Stripper · Pole/Aerial (Aerialist) · Turquesa + plata holográfica · circus) | — | Stripper | — | — | 7/7 | — |
+| **553** | La Forzuda (15/06/2026 — batch L551-L560 "El Circo" · Gym/Athleisure · Gym Performance (Vintage Strongwoman) · Borgoña + oro · circus) | — | Gym/Athleisure | — | — | 6/7 | ⏳ Pendiente |
+| **554** | La Mujer Cañón (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Retro-Futurismo (Human Cannonball) · Chrome plata + naranja chispa · circus) | — | Pin-Up & Retro | — | — | 6/7 | ⏳ Pendiente |
+| **555** | La Pierrot Couture (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Harlequin Couture) · Blanco + negro + rombos multicolor · circus) | — | High-Fashion Editorial | — | — | 7/7 | — |
+| **556** | La Ilusionista (15/06/2026 — batch L551-L560 "El Circo" · Nightclub · Nightclub (Magician) · Azul medianoche + chrome + estrellas · circus) | — | Nightclub | — | — | 7/7 | — |
+| **557** | La Encantadora de Serpientes (15/06/2026 — batch L551-L560 "El Circo" · Bikini · Studio Micro Fetish (Snake Charmer) · Esmeralda python iridiscente + oro · circus) | — | Bikini | — | — | 6/7 | ⏳ Pendiente |
+| **558** | La Contorsionista (15/06/2026 — batch L551-L560 "El Circo" · Lencería · Lencería Fetish (Contortionist) · Negro + neón UV · circus) | — | Lencería | — | — | 7/7 | ✅ Completo |
+| **559** | La Equilibrista (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Pin-Up Bombshell (Tightrope) · Candy stripe rosa + blanco + rojo · circus) | — | Pin-Up & Retro | — | — | 7/7 | — |
+| **560** | La Reina del Circo (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Finale Showgirl) · Oro espectáculo + cristal · circus) | — | High-Fashion Editorial | — | — | 7/7 | — |
 | **561** | Afrodita (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Boudoir Diosa (Afrodita) · Rosa nácar perla · panteon) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
 | **562** | Atenea (16/06/2026 — batch L561-L570 "El Panteón" · Corporate · Power Domme (Atenea) · Bronce + oro armadura · panteon) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
 | **563** | Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Perséfone) · Granate granada + negro · panteon) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
@@ -385,21 +385,21 @@
 | **573** | Gula (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Pin-Up · Pin-Up Bombshell (Gula) · Naranja cereza + crema · pecados) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
 | **574** | Avaricia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Escort · Escort Haute (Avaricia) · Oro líquido (monedas) · pecados) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **575** | Pereza (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Domestic · Domestic Trophy (Pereza) · Celeste perla · pecados) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **577** | Envidia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Bikini · Bikini Studio (Envidia) · Verde esmeralda serpiente · pecados) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **578** | La Tentación (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Stripper · Stripper Pole (La Tentación) · Manzana verde + rojo · pecados) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **579** | La Caída (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (La Caída) · Negro alas caídas · pecados) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
-| **580** | La Redención (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Lencería · Lencería Boudoir (La Redención) · Blanco + oro luz · pecados) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **581** | Cleopatra (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Escort · Escort Haute (Cleopatra) · Oro egipcio + lapis azul · cortesanas) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **582** | Mata Hari (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Nightclub · Nightclub (Mata Hari) · Bronce + joya oriental · cortesanas) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **583** | Theodora (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · High-Fashion Editorial · HF Editorial (Theodora) · Púrpura imperial + oro mosaico · cortesanas) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
-| **584** | Madame de Pompadour (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Lencería · Lencería Boudoir (Madame de Pompadour) · Rosa polvo + crema perla · cortesanas) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **585** | Mesalina (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Mesalina) · Blanco-oro + púrpura · cortesanas) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **586** | Lola Montez (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Bombshell (Lola Montez) · Rojo flamenco + negro encaje · cortesanas) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **587** | La Belle Otéro (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Decade Glam (La Belle Otéro) · Esmeralda + diamantes · cortesanas) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **588** | Wallis Simpson (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Corporate · Power Domme (Wallis Simpson) · Gris pizarra + zafiro · cortesanas) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **589** | Veronica Franco (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Veronica Franco) · Oro veneciano + carmesí · cortesanas) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **590** | Cixí (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Domestic · Domestic Trophy (Cixí) · Amarillo imperial + jade · cortesanas) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
+| **577** | Envidia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Bikini · Bikini Studio (Envidia) · Verde esmeralda serpiente · pecados) | — | Bikini | — | — | 7/7 | — |
+| **578** | La Tentación (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Stripper · Stripper Pole (La Tentación) · Manzana verde + rojo · pecados) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
+| **579** | La Caída (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (La Caída) · Negro alas caídas · pecados) | — | High-Fashion Editorial | — | — | 7/7 | — |
+| **580** | La Redención (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Lencería · Lencería Boudoir (La Redención) · Blanco + oro luz · pecados) | — | Lencería | — | — | 7/7 | — |
+| **581** | Cleopatra (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Escort · Escort Haute (Cleopatra) · Oro egipcio + lapis azul · cortesanas) | — | Escort | — | — | 7/7 | — |
+| **582** | Mata Hari (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Nightclub · Nightclub (Mata Hari) · Bronce + joya oriental · cortesanas) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **583** | Theodora (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · High-Fashion Editorial · HF Editorial (Theodora) · Púrpura imperial + oro mosaico · cortesanas) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
+| **584** | Madame de Pompadour (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Lencería · Lencería Boudoir (Madame de Pompadour) · Rosa polvo + crema perla · cortesanas) | — | Lencería | — | — | 7/7 | — |
+| **585** | Mesalina (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Mesalina) · Blanco-oro + púrpura · cortesanas) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **586** | Lola Montez (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Bombshell (Lola Montez) · Rojo flamenco + negro encaje · cortesanas) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
+| **587** | La Belle Otéro (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Decade Glam (La Belle Otéro) · Esmeralda + diamantes · cortesanas) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
+| **588** | Wallis Simpson (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Corporate · Power Domme (Wallis Simpson) · Gris pizarra + zafiro · cortesanas) | — | Corporate | — | — | 7/7 | — |
+| **589** | Veronica Franco (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Veronica Franco) · Oro veneciano + carmesí · cortesanas) | — | Bikini | — | — | 7/7 | — |
+| **590** | Cixí (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Domestic · Domestic Trophy (Cixí) · Amarillo imperial + jade · cortesanas) | — | Domestic | — | — | 7/7 | — |
 
 ---
 
@@ -720,21 +720,14 @@
 | **536** | Absenta (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Nightclub · Nightclub (Absinthe Wet-Satin) · Verde absenta · flor venenosa) | 1/7 | ⏳ Pendiente |
 | **537** | Lirio Tigre (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Gym/Athleisure · Gym Performance (Tiger-Lily Tennis) · Naranja tigre + spots negros · flor venenosa) | 2/7 | ⏳ Pendiente |
 | **539** | Glicina (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Domestic · Domestic Maid (Wisteria Latex) · Lila glicina · flor venenosa) | 1/7 | ⏳ Pendiente |
-| **540** | Adelfa (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Lencería · Lencería Boudoir (Oleander La Perla) · Coral adelfa · flor venenosa) | 1/7 | ⏳ Pendiente |
 | **541** | La Sacerdotisa (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Priestess Column) · Indigo profundo + plata · arcano mayor) | 1/7 | ⏳ Pendiente |
-| **545** | La Justicia (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Corporate · Power Executive Domme (Wet-Satin Tuxedo) · Oxblood + chrome · arcano mayor) | 1/7 | ⏳ Pendiente |
-| **546** | La Emperatriz (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Liquid Gold Ball Gown) · Oro líquido · arcano mayor) | 1/7 | ⏳ Pendiente |
+| **545** | La Justicia (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Corporate · Power Executive Domme (Wet-Satin Tuxedo) · Oxblood + chrome · arcano mayor) | 6/7 | ⏳ Pendiente |
+| **546** | La Emperatriz (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Liquid Gold Ball Gown) · Oro líquido · arcano mayor) | 4/7 | ⏳ Pendiente |
 | **549** | El Diablo (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Escort · Escort Callejera (Pretty Woman O-ring) · Rojo sangre + negro · arcano mayor) | 6/7 | ⏳ Pendiente |
-| **551** | La Domadora (15/06/2026 — batch L551-L560 "El Circo" · Escort · Domme de Club (Ringmaster) · Escarlata + negro + oro · circus) | 0/7 | ⏳ Pendiente |
-| **552** | La Trapecista (15/06/2026 — batch L551-L560 "El Circo" · Stripper · Pole/Aerial (Aerialist) · Turquesa + plata holográfica · circus) | 0/7 | ⏳ Pendiente |
-| **553** | La Forzuda (15/06/2026 — batch L551-L560 "El Circo" · Gym/Athleisure · Gym Performance (Vintage Strongwoman) · Borgoña + oro · circus) | 0/7 | ⏳ Pendiente |
-| **554** | La Mujer Cañón (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Retro-Futurismo (Human Cannonball) · Chrome plata + naranja chispa · circus) | 0/7 | ⏳ Pendiente |
-| **555** | La Pierrot Couture (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Harlequin Couture) · Blanco + negro + rombos multicolor · circus) | 0/7 | ⏳ Pendiente |
-| **556** | La Ilusionista (15/06/2026 — batch L551-L560 "El Circo" · Nightclub · Nightclub (Magician) · Azul medianoche + chrome + estrellas · circus) | 0/7 | ⏳ Pendiente |
-| **557** | La Encantadora de Serpientes (15/06/2026 — batch L551-L560 "El Circo" · Bikini · Studio Micro Fetish (Snake Charmer) · Esmeralda python iridiscente + oro · circus) | 0/7 | ⏳ Pendiente |
-| **558** | La Contorsionista (15/06/2026 — batch L551-L560 "El Circo" · Lencería · Lencería Fetish (Contortionist) · Negro + neón UV · circus) | 0/7 | ✅ Completo |
-| **559** | La Equilibrista (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Pin-Up Bombshell (Tightrope) · Candy stripe rosa + blanco + rojo · circus) | 0/7 | ⏳ Pendiente |
-| **560** | La Reina del Circo (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Finale Showgirl) · Oro espectáculo + cristal · circus) | 0/7 | ⏳ Pendiente |
+| **551** | La Domadora (15/06/2026 — batch L551-L560 "El Circo" · Escort · Domme de Club (Ringmaster) · Escarlata + negro + oro · circus) | 5/7 | ⏳ Pendiente |
+| **553** | La Forzuda (15/06/2026 — batch L551-L560 "El Circo" · Gym/Athleisure · Gym Performance (Vintage Strongwoman) · Borgoña + oro · circus) | 6/7 | ⏳ Pendiente |
+| **554** | La Mujer Cañón (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Retro-Futurismo (Human Cannonball) · Chrome plata + naranja chispa · circus) | 6/7 | ⏳ Pendiente |
+| **557** | La Encantadora de Serpientes (15/06/2026 — batch L551-L560 "El Circo" · Bikini · Studio Micro Fetish (Snake Charmer) · Esmeralda python iridiscente + oro · circus) | 6/7 | ⏳ Pendiente |
 | **561** | Afrodita (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Boudoir Diosa (Afrodita) · Rosa nácar perla · panteon) | 0/7 | ⏳ Pendiente |
 | **562** | Atenea (16/06/2026 — batch L561-L570 "El Panteón" · Corporate · Power Domme (Atenea) · Bronce + oro armadura · panteon) | 0/7 | ⏳ Pendiente |
 | **563** | Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Perséfone) · Granate granada + negro · panteon) | 0/7 | ⏳ Pendiente |
@@ -750,21 +743,13 @@
 | **573** | Gula (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Pin-Up · Pin-Up Bombshell (Gula) · Naranja cereza + crema · pecados) | 0/7 | ⏳ Pendiente |
 | **574** | Avaricia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Escort · Escort Haute (Avaricia) · Oro líquido (monedas) · pecados) | 0/7 | ⏳ Pendiente |
 | **575** | Pereza (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Domestic · Domestic Trophy (Pereza) · Celeste perla · pecados) | 0/7 | ⏳ Pendiente |
-| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | 0/7 | ⏳ Pendiente |
-| **577** | Envidia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Bikini · Bikini Studio (Envidia) · Verde esmeralda serpiente · pecados) | 0/7 | ⏳ Pendiente |
-| **578** | La Tentación (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Stripper · Stripper Pole (La Tentación) · Manzana verde + rojo · pecados) | 0/7 | ⏳ Pendiente |
-| **579** | La Caída (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (La Caída) · Negro alas caídas · pecados) | 0/7 | ⏳ Pendiente |
-| **580** | La Redención (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Lencería · Lencería Boudoir (La Redención) · Blanco + oro luz · pecados) | 0/7 | ⏳ Pendiente |
-| **581** | Cleopatra (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Escort · Escort Haute (Cleopatra) · Oro egipcio + lapis azul · cortesanas) | 0/7 | ⏳ Pendiente |
-| **582** | Mata Hari (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Nightclub · Nightclub (Mata Hari) · Bronce + joya oriental · cortesanas) | 0/7 | ⏳ Pendiente |
-| **583** | Theodora (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · High-Fashion Editorial · HF Editorial (Theodora) · Púrpura imperial + oro mosaico · cortesanas) | 0/7 | ⏳ Pendiente |
-| **584** | Madame de Pompadour (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Lencería · Lencería Boudoir (Madame de Pompadour) · Rosa polvo + crema perla · cortesanas) | 0/7 | ⏳ Pendiente |
-| **585** | Mesalina (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Mesalina) · Blanco-oro + púrpura · cortesanas) | 0/7 | ⏳ Pendiente |
-| **586** | Lola Montez (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Bombshell (Lola Montez) · Rojo flamenco + negro encaje · cortesanas) | 0/7 | ⏳ Pendiente |
-| **587** | La Belle Otéro (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Decade Glam (La Belle Otéro) · Esmeralda + diamantes · cortesanas) | 0/7 | ⏳ Pendiente |
-| **588** | Wallis Simpson (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Corporate · Power Domme (Wallis Simpson) · Gris pizarra + zafiro · cortesanas) | 0/7 | ⏳ Pendiente |
-| **589** | Veronica Franco (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Veronica Franco) · Oro veneciano + carmesí · cortesanas) | 0/7 | ⏳ Pendiente |
-| **590** | Cixí (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Domestic · Domestic Trophy (Cixí) · Amarillo imperial + jade · cortesanas) | 0/7 | ⏳ Pendiente |
+| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | 2/7 | ⏳ Pendiente |
+| **578** | La Tentación (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Stripper · Stripper Pole (La Tentación) · Manzana verde + rojo · pecados) | 6/7 | ⏳ Pendiente |
+| **582** | Mata Hari (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Nightclub · Nightclub (Mata Hari) · Bronce + joya oriental · cortesanas) | 1/7 | ⏳ Pendiente |
+| **583** | Theodora (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · High-Fashion Editorial · HF Editorial (Theodora) · Púrpura imperial + oro mosaico · cortesanas) | 1/7 | ⏳ Pendiente |
+| **585** | Mesalina (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Mesalina) · Blanco-oro + púrpura · cortesanas) | 1/7 | ⏳ Pendiente |
+| **586** | Lola Montez (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Bombshell (Lola Montez) · Rojo flamenco + negro encaje · cortesanas) | 2/7 | ⏳ Pendiente |
+| **587** | La Belle Otéro (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Decade Glam (La Belle Otéro) · Esmeralda + diamantes · cortesanas) | 2/7 | ⏳ Pendiente |
 
 ---
 
