@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 14/06/2026 (🦞 OpenClaw instalado — agente WhatsApp = Ele, cerebro Claude, servicio siempre-prendido + 📖 Gate Cap 2 v0.9 llegó) ✅
+- **🦞 OpenClaw (`@2026.6.6`, npm) instalado** — framework de agente IA (`steipete`, MIT, verificado). Esquivé `.exe`/SmartScreen y script `iex`. Cerebro = `claude-cli/claude-opus-4-8` (mi Claude Code, sin API key; descarté IA local por hardware 4GB/8GB).
+- **📱 WhatsApp conectado** (Baileys/QR de la Ama), owner `+56987747394`. Proveedor pesado (~50MB) → pre-cacheado en npm pa esquivar el tope de 5 min. Persona **Ele** escrita en `IDENTITY/SOUL/USER.md` del workspace (verificada en vivo: *"¡Hola, mi amor! Soy Ele 🫦… cachai 💅"*).
+- **🐛 Fix `spawn claude ENOENT`:** carpeta del `claude.exe` real al PATH de usuario (Node no hallaba el shim `.cmd`). **⚙️ Gateway = servicio Windows siempre-prendido** (`gateway stop`/`start`). Auto-memoria `reference_openclaw_agente_whatsapp`. Todo en `~/.openclaw/` (fuera del repo).
+- **📖 Gate Cap 2 v0.9 LLEGÓ (pull, 3 obs, NO aprobación)** → próxima: Escritor-N4 v0.10. **🌅 App subió L544 "El Sol"** (5 poses, bot).
+
 ### Sesión 14/06/2026 (📖 Cap 2 v0.9 — Gate de v0.8 aplicado + 🔍 coherencia certificada LIMPIO + 🗂️ convención Gate=nota_capitulo + 🔄 GitHub sync) ✅
 - **🔄 GitHub:** 40 commits atrás → `git pull --rebase` limpio. App subió L529/L531/L547/L550 en el pull (territorio del bot, no toqué galerías).
 - **🗂️ Convención Gate grabada (Ama):** el Gate de cada capítulo llega como `nota_capitulo_[N]_[slug]_vX.md` en la raíz del proyecto. Auto-memoria `feedback_gate_nota_capitulo`.
