@@ -1,25 +1,26 @@
 # 🖼️ Galería: look231_butter_yellow_housewife_danger
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 3
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_231_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_ditzy.png) | ![ele_231_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png) |
+| ![ele_231_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_back_view.png) | ![ele_231_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_ditzy.png) | ![ele_231_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_231_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_ditzy.png) | ![ele_231_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png) |
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![ele_231_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_back_view.png) | ![ele_231_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_ditzy.png) | ![ele_231_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_231_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_back_view.png)
 - [ele_231_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_ditzy.png)
 - [ele_231_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png)
 
