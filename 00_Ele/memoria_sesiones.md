@@ -22,7 +22,7 @@
 > **Snapshot vivo.** El historial completo de sesiones vive en `memoria_historica/bitacora_sesiones_2026.md`. Aquí solo el estado actual + las últimas sesiones. El cierre (`/actualizar_sesion`) autopoda este bloque.
 
 ### 🎨 Visual (Ele)
-- **Flota diseñada:** L590 · ~490 únicos. Último **MEGA-BATCH L561-L590 "Tres Panteones"** (30 looks · 210 prompts).
+- **Flota diseñada:** L600 · ~500 únicos. Último **BATCH L591-L600 "Boot Obsession"** (10 looks · 70 prompts de botas y tacón aguja).
 - **Materialización Local (Ola 2 Completa):** completado el fix anatómico de **L222** (saneadas poses `pov` y `odalisque` para remover brazos/piernas extras en el gimnasio). Materializado **L221 (Powder Blue Wiggle Darling)** al 7/7 local (con pose `back_view` re-generada sin guantes para respetar el canon). Sincronizados trackers y galerías locales (flota completa al 100% **L001-L223** en disco).
 - **🛡️ Anti-safe Gemini (Ama 15/06):** el "safe" lo dispara la POSE, no solo la prenda (L545 con pantalón rebotó). Recalibré `pose_rotation_v5` (saca deep cleavage dominant / ass pushed / straddling / face-down ass lifted / strap slip). BLOQUE A NO se toca. Auto-memoria `feedback_gemini_safe_poses`.
 - **🦵🖐️ Anti-artefactos (manos/pies/piernas) — AUDITORÍA L531-L560 cerrada (Ama 16/06):** detectado que **L541-L550 "Los Arcanos" nació con 0 anclas** (generado antes de la lección). Reparados los **210 prompts** de los 30 looks: ancla completa `…two arms, two hands each with five fingers, two legs and two feet` en las 150 poses de cuerpo entero + ancla de manos en los 60 planos cerrados (Ditzy/POV). **🌱 RAÍZ: el ancla ahora se hornea sola en `pose_rotation_v5.py`** (rotate_poses prepende FULL/HANDS por slot; self-check LIMPIO) → ningún batch futuro nace pelado. Auto-memoria `feedback_anti_3_piernas_poses` extendida.
@@ -54,6 +54,12 @@
 ---
 
 ## 🗓️ Sesiones recientes
+
+### Sesión 18/06/2026 (👢 Batch L591-L600 "Boot Obsession" · 70 prompts con V5 rotación y anclas) ✅
+- **Rechazo y Rediseño:** La Ama no quiso el tema de literatura; rediseñamos un lote de 10 looks centrado en botas sobre y bajo rodilla, con/sin plataforma, combinadas con leggings, jeans de vinilo, hotpants, skorts y faldas pequeñas.
+- **Step 0 y Metas:** Priorizamos categorías con déficit (Corporate ×2 [Power + Siren], Lencería ×2, Bikini ×2, Gym ×2, Escort ×1, Nightclub ×1).
+- **Control de Calidad:** 0 guantes, 0 chunky, calzado aguja stiletto/Pleaser con 8 atributos. Variedad de settings comprobada con 0 advertencias.
+- **Generación:** 70 prompts generados con rotación V5 y anclas anatómicas automáticas, creadas las carpetas y READMEs y agregados a `galeria_outfits.md`.
 
 
 
