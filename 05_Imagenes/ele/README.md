@@ -4,6 +4,54 @@
 
 ---
 
+## 👠 Look 613: Nightclub Silver Boots
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_613_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look613_nightclub_silver_boots/ele_613_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_613_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look613_nightclub_silver_boots/ele_613_ditzy.png) |
+
+---
+
+## 👠 Look 612: Gym Matte Boots
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_612_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look612_gym_matte_boots/ele_612_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_612_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look612_gym_matte_boots/ele_612_ditzy.png) |
+
+---
+
+## 👠 Look 611: Gym Black Thigh Boots
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_611_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look611_gym_black_thigh_boots/ele_611_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_611_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look611_gym_black_thigh_boots/ele_611_ditzy.png) |
+
+---
+
+## 👠 Look 603: Nightclub Cherry Red
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_603_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look603_nightclub_cherry_red/ele_603_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_603_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look603_nightclub_cherry_red/ele_603_ditzy.png) |
+
+---
+
+## 👠 Look 602: Gym Electric Blue
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_602_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look602_gym_electric_blue/ele_602_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_602_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look602_gym_electric_blue/ele_602_ditzy.png) |
+
+---
+
+## 👠 Look 601: Gym Pink Flash
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_601_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look601_gym_pink_flash/ele_601_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_601_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look601_gym_pink_flash/ele_601_ditzy.png) |
+
+---
+
 ## 👠 Look 600: Violet Match
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
@@ -22,9 +70,49 @@
 
 ## 👠 Look 597: Office Sleaze
 
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_597_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_standing.png) | ![ele_597_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_back_view.png) | ![ele_597_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_seated.png) | ![ele_597_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_side_profile.png) | ![ele_597_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_ditzy.png) | ![ele_597_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_pov.png) | ⏳ |
+
+---
+
+## 👠 Look 595: Toxic Lime
+
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_597_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_standing.png) | ![ele_597_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_back_view.png) | ![ele_597_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_seated.png) | ![ele_597_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_side_profile.png) | ![ele_597_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look597_office_sleaze/ele_597_ditzy.png) |
+| ![ele_595_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look595_toxic_lime/ele_595_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 594: Gold Drip
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_594_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look594_gold_drip/ele_594_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 593: Sapphire Night
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_593_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look593_sapphire_night/ele_593_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 592: Oxblood Commander
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_592_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look592_oxblood_commander/ele_592_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 591: Liquid Platinum
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_591_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look591_liquid_platinum/ele_591_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 

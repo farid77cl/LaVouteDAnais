@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente desde la galería — **401 looks registrados**  
+> Generado automáticamente desde la galería — **421 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -400,16 +400,36 @@
 | **588** | Wallis Simpson (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Corporate · Power Domme (Wallis Simpson) · Gris pizarra + zafiro · cortesanas) | — | Corporate | — | — | 7/7 | — |
 | **589** | Veronica Franco (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Veronica Franco) · Oro veneciano + carmesí · cortesanas) | — | Bikini | — | — | 7/7 | — |
 | **590** | Cixí (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Domestic · Domestic Trophy (Cixí) · Amarillo imperial + jade · cortesanas) | — | Domestic | — | — | 7/7 | — |
-| **591** | Liquid Platinum (18/06/2026 — batch L591-L600 "Boot Obsession" · Nightclub · Nightclub (Boot Obsession) · Plata líquida + negro · boots) | — | Nightclub | — | — | 0/7 | — |
-| **592** | Oxblood Commander (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Power Domme (Boot Obsession) · Oxblood + negro · boots) | — | Corporate | — | — | 0/7 | — |
-| **593** | Sapphire Night (18/06/2026 — batch L591-L600 "Boot Obsession" · Escort · Escort Haute (Boot Obsession) · Azul zafiro + blanco · boots) | — | Escort | — | — | 0/7 | — |
-| **594** | Gold Drip (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Resort (Boot Obsession) · Oro líquido · boots) | — | Bikini | — | — | 0/7 | — |
-| **595** | Toxic Lime (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Performance (Boot Obsession) · Verde neón + negro · boots) | — | Gym/Athleisure | — | — | 0/7 | — |
+| **591** | Liquid Platinum (18/06/2026 — batch L591-L600 "Boot Obsession" · Nightclub · Nightclub (Boot Obsession) · Plata líquida + negro · boots) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **592** | Oxblood Commander (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Power Domme (Boot Obsession) · Oxblood + negro · boots) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
+| **593** | Sapphire Night (18/06/2026 — batch L591-L600 "Boot Obsession" · Escort · Escort Haute (Boot Obsession) · Azul zafiro + blanco · boots) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
+| **594** | Gold Drip (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Resort (Boot Obsession) · Oro líquido · boots) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **595** | Toxic Lime (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Performance (Boot Obsession) · Verde neón + negro · boots) | — | Gym/Athleisure | — | — | 1/7 | ⏳ Pendiente |
 | **596** | Cherry Fire (18/06/2026 — batch L591-L600 "Boot Obsession" · Lencería · Lencería Fetish (Boot Obsession) · Rojo cereza + negro · boots) | — | Lencería | — | — | 0/7 | — |
-| **597** | Office Sleaze (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Office Siren (Boot Obsession) · Negro + blanco perla · boots) | — | Corporate | — | — | 0/7 | — |
-| **598** | Goth-Lace Boudoir (18/06/2026 — batch L591-L600 "Boot Obsession" · Lencería · Lencería Boudoir (Boot Obsession) · Negro + nácar · boots) | — | Lencería | — | — | 0/7 | — |
-| **599** | Neon Tangerine (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Studio (Boot Obsession) · Naranja neón · boots) | — | Bikini | — | — | 0/7 | — |
-| **600** | Violet Match (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Athleisure (Boot Obsession) · Violeta + blanco · boots) | — | Gym/Athleisure | — | — | 0/7 | — |
+| **597** | Office Sleaze (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Office Siren (Boot Obsession) · Negro + blanco perla · boots) | — | Corporate | — | — | 6/7 | ⏳ Pendiente |
+| **598** | Goth-Lace Boudoir (18/06/2026 — batch L591-L600 "Boot Obsession" · Lencería · Lencería Boudoir (Boot Obsession) · Negro + nácar · boots) | — | Lencería | — | — | 7/7 | — |
+| **599** | Neon Tangerine (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Studio (Boot Obsession) · Naranja neón · boots) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **600** | Violet Match (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Athleisure (Boot Obsession) · Violeta + blanco · boots) | — | Gym/Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **601** | Pink Flash Gym (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · rosa neón + negro · platform) | — | Gym/Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **602** | Electric Blue Pilates (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · azul eléctrico + negro · platform) | — | Gym/Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **603** | Crimson Night Out (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · rojo + negro · platform) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
+| **604** | Silver Chrome Dancer (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · plata + negro · platform) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **605** | Office Siren Denim Jeans (18/06/2026 — batch L601-L610 "Platform Obsession" · Corporate · Office Siren (Platform Obsession) · negro + blanco · platform) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **606** | Cherry Lingerie Corset (18/06/2026 — batch L601-L610 "Platform Obsession" · Lencería · Lencería (Platform Obsession) · rojo cereza + negro · platform) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **607** | Goth Lace Lingerie (18/06/2026 — batch L601-L610 "Platform Obsession" · Lencería · Lencería (Platform Obsession) · negro + nácar · platform) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **608** | Neon Fuchsia Stripper (18/06/2026 — batch L601-L610 "Platform Obsession" · Stripper · Stripper (Platform Obsession) · fucsia neón + negro · platform) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **609** | White Vinyl Pool Bikini (18/06/2026 — batch L601-L610 "Platform Obsession" · Bikini · Bikini (Platform Obsession) · blanco + negro · platform) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **610** | Cherry Polka Dot Pin-Up (18/06/2026 — batch L601-L610 "Platform Obsession" · Pin-Up · Pin-Up (Platform Obsession) · rojo + negro · platform) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **611** | Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots) | — | Gym/Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **612** | Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots) | — | Gym/Athleisure | — | — | 2/7 | ⏳ Pendiente |
+| **613** | Nightclub (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · plata + negro · boots) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
+| **614** | Nightclub (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · negro + rojo · boots) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **615** | Corporate (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **616** | Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · borgoña + negro · boots) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **617** | Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · rojo + rojo · boots) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **618** | Stripper (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Stripper · Stripper (Thigh-High Boots) · negro + transparente · boots) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **619** | Bikini (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Bikini · Bikini (Thigh-High Boots) · oro + oro · boots) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **620** | Pin-Up (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Pin-Up · Pin-Up (Thigh-High Boots) · rojo + negro · boots) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -421,11 +441,11 @@
 ### Alfombra Roja / Gala (10 looks)
 **261**, **262**, **263**, **264**, **271**, **272**, **286**, **291**, **295**, **300**
 
-### Bikini (29 looks)
-**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**
+### Bikini (31 looks)
+**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**, **609**, **619**
 
-### Corporate (26 looks)
-**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**, **472**, **488**, **494**, **508**, **521**, **545**, **562**, **588**, **592**, **597**
+### Corporate (28 looks)
+**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**, **472**, **488**, **494**, **508**, **521**, **545**, **562**, **588**, **592**, **597**, **605**, **615**
 
 ### Domestic (36 looks)
 **234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**, **439**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **470**, **505**, **514**, **526**, **539**, **568**, **575**, **590**
@@ -439,8 +459,8 @@
 ### Gym / Athleisure (6 looks)
 **265**, **266**, **273**, **274**, **289**, **290**
 
-### Gym/Athleisure (12 looks)
-**435**, **436**, **473**, **490**, **498**, **519**, **529**, **537**, **553**, **564**, **595**, **600**
+### Gym/Athleisure (16 looks)
+**435**, **436**, **473**, **490**, **498**, **519**, **529**, **537**, **553**, **564**, **595**, **600**, **601**, **602**, **611**, **612**
 
 ### HF Editorial (2 looks)
 **258**, **440**
@@ -454,42 +474,42 @@
 ### Lenceria (9 looks)
 **438**, **495**, **499**, **501**, **510**, **516**, **520**, **522**, **528**
 
-### Lencería (44 looks)
-**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**, **475**, **483**, **484**, **535**, **540**, **542**, **550**, **558**, **561**, **570**, **571**, **580**, **584**, **596**, **598**
+### Lencería (48 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**, **475**, **483**, **484**, **535**, **540**, **542**, **550**, **558**, **561**, **570**, **571**, **580**, **584**, **596**, **598**, **606**, **607**, **616**, **617**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (36 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**
+### Nightclub (40 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**, **603**, **604**, **613**, **614**
 
-### Pin-Up (30 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**, **476**, **497**, **503**, **515**, **569**, **573**, **586**, **587**
+### Pin-Up (32 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**, **476**, **497**, **503**, **515**, **569**, **573**, **586**, **587**, **610**, **620**
 
 ### Pin-Up & Retro (4 looks)
 **534**, **547**, **554**, **559**
 
-### Stripper (49 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**
+### Stripper (51 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (53 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**
+### Rojo / Cherry / Crimson (59 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**
 
-### Rosa / Hot Pink (23 looks)
-**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**
+### Rosa / Hot Pink (24 looks)
+**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**, **601**
 
-### Magenta / Fucsia (13 looks)
-**211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **513**, **528**, **538**
+### Magenta / Fucsia (14 looks)
+**211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **513**, **528**, **538**, **608**
 
 ### Violeta / Lila (15 looks)
 **203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **524**, **539**, **547**, **565**, **572**, **600**
 
-### Azul / Cyan / Zafiro (30 looks)
-**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**
+### Azul / Cyan / Zafiro (32 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**, **602**, **615**
 
 ### Verde / Esmeralda (29 looks)
 **204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**
@@ -497,14 +517,14 @@
 ### Dorado / Bronce (44 looks)
 **205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**
 
-### Plateado / Plata (41 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**
+### Plateado / Plata (43 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**
 
-### Blanco / Crema (41 looks)
-**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **461**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **500**, **501**, **502**, **512**, **535**, **555**, **559**, **564**, **573**, **580**, **584**, **585**, **593**, **597**, **600**
+### Blanco / Crema (44 looks)
+**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **461**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **500**, **501**, **502**, **512**, **535**, **555**, **559**, **564**, **573**, **580**, **584**, **585**, **593**, **597**, **600**, **605**, **609**, **615**
 
-### Negro (dominante) (45 looks)
-**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**, **440**, **462**, **494**, **504**, **510**, **520**, **521**, **526**, **531**, **537**, **548**, **549**, **551**, **555**, **558**, **563**, **565**, **570**, **576**, **579**, **586**, **591**, **592**, **595**, **596**, **597**, **598**
+### Negro (dominante) (62 looks)
+**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**, **440**, **462**, **494**, **504**, **510**, **520**, **521**, **526**, **531**, **537**, **548**, **549**, **551**, **555**, **558**, **563**, **565**, **570**, **576**, **579**, **586**, **591**, **592**, **595**, **596**, **597**, **598**, **601**, **602**, **603**, **604**, **605**, **606**, **607**, **608**, **609**, **610**, **611**, **612**, **613**, **614**, **616**, **618**, **620**
 
 ### Naranja / Coral Neón (17 looks)
 **301**, **347**, **394**, **400**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **470**, **537**, **554**, **573**, **599**
@@ -758,16 +778,35 @@
 | **585** | Mesalina (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Bikini · Bikini Resort (Mesalina) · Blanco-oro + púrpura · cortesanas) | 1/7 | ⏳ Pendiente |
 | **586** | Lola Montez (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Bombshell (Lola Montez) · Rojo flamenco + negro encaje · cortesanas) | 2/7 | ⏳ Pendiente |
 | **587** | La Belle Otéro (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Pin-Up · Pin-Up Decade Glam (La Belle Otéro) · Esmeralda + diamantes · cortesanas) | 2/7 | ⏳ Pendiente |
-| **591** | Liquid Platinum (18/06/2026 — batch L591-L600 "Boot Obsession" · Nightclub · Nightclub (Boot Obsession) · Plata líquida + negro · boots) | 0/7 | — |
-| **592** | Oxblood Commander (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Power Domme (Boot Obsession) · Oxblood + negro · boots) | 0/7 | — |
-| **593** | Sapphire Night (18/06/2026 — batch L591-L600 "Boot Obsession" · Escort · Escort Haute (Boot Obsession) · Azul zafiro + blanco · boots) | 0/7 | — |
-| **594** | Gold Drip (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Resort (Boot Obsession) · Oro líquido · boots) | 0/7 | — |
-| **595** | Toxic Lime (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Performance (Boot Obsession) · Verde neón + negro · boots) | 0/7 | — |
+| **591** | Liquid Platinum (18/06/2026 — batch L591-L600 "Boot Obsession" · Nightclub · Nightclub (Boot Obsession) · Plata líquida + negro · boots) | 1/7 | ⏳ Pendiente |
+| **592** | Oxblood Commander (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Power Domme (Boot Obsession) · Oxblood + negro · boots) | 1/7 | ⏳ Pendiente |
+| **593** | Sapphire Night (18/06/2026 — batch L591-L600 "Boot Obsession" · Escort · Escort Haute (Boot Obsession) · Azul zafiro + blanco · boots) | 1/7 | ⏳ Pendiente |
+| **594** | Gold Drip (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Resort (Boot Obsession) · Oro líquido · boots) | 1/7 | ⏳ Pendiente |
+| **595** | Toxic Lime (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Performance (Boot Obsession) · Verde neón + negro · boots) | 1/7 | ⏳ Pendiente |
 | **596** | Cherry Fire (18/06/2026 — batch L591-L600 "Boot Obsession" · Lencería · Lencería Fetish (Boot Obsession) · Rojo cereza + negro · boots) | 0/7 | — |
-| **597** | Office Sleaze (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Office Siren (Boot Obsession) · Negro + blanco perla · boots) | 0/7 | — |
-| **598** | Goth-Lace Boudoir (18/06/2026 — batch L591-L600 "Boot Obsession" · Lencería · Lencería Boudoir (Boot Obsession) · Negro + nácar · boots) | 0/7 | — |
-| **599** | Neon Tangerine (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Studio (Boot Obsession) · Naranja neón · boots) | 0/7 | — |
-| **600** | Violet Match (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Athleisure (Boot Obsession) · Violeta + blanco · boots) | 0/7 | — |
+| **597** | Office Sleaze (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Office Siren (Boot Obsession) · Negro + blanco perla · boots) | 6/7 | ⏳ Pendiente |
+| **599** | Neon Tangerine (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Studio (Boot Obsession) · Naranja neón · boots) | 1/7 | ⏳ Pendiente |
+| **600** | Violet Match (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Athleisure (Boot Obsession) · Violeta + blanco · boots) | 2/7 | ⏳ Pendiente |
+| **601** | Pink Flash Gym (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · rosa neón + negro · platform) | 2/7 | ⏳ Pendiente |
+| **602** | Electric Blue Pilates (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · azul eléctrico + negro · platform) | 2/7 | ⏳ Pendiente |
+| **603** | Crimson Night Out (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · rojo + negro · platform) | 2/7 | ⏳ Pendiente |
+| **604** | Silver Chrome Dancer (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · plata + negro · platform) | 0/7 | ⏳ Pendiente |
+| **605** | Office Siren Denim Jeans (18/06/2026 — batch L601-L610 "Platform Obsession" · Corporate · Office Siren (Platform Obsession) · negro + blanco · platform) | 0/7 | ⏳ Pendiente |
+| **606** | Cherry Lingerie Corset (18/06/2026 — batch L601-L610 "Platform Obsession" · Lencería · Lencería (Platform Obsession) · rojo cereza + negro · platform) | 0/7 | ⏳ Pendiente |
+| **607** | Goth Lace Lingerie (18/06/2026 — batch L601-L610 "Platform Obsession" · Lencería · Lencería (Platform Obsession) · negro + nácar · platform) | 0/7 | ⏳ Pendiente |
+| **608** | Neon Fuchsia Stripper (18/06/2026 — batch L601-L610 "Platform Obsession" · Stripper · Stripper (Platform Obsession) · fucsia neón + negro · platform) | 0/7 | ⏳ Pendiente |
+| **609** | White Vinyl Pool Bikini (18/06/2026 — batch L601-L610 "Platform Obsession" · Bikini · Bikini (Platform Obsession) · blanco + negro · platform) | 0/7 | ⏳ Pendiente |
+| **610** | Cherry Polka Dot Pin-Up (18/06/2026 — batch L601-L610 "Platform Obsession" · Pin-Up · Pin-Up (Platform Obsession) · rojo + negro · platform) | 0/7 | ⏳ Pendiente |
+| **611** | Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots) | 2/7 | ⏳ Pendiente |
+| **612** | Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots) | 2/7 | ⏳ Pendiente |
+| **613** | Nightclub (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · plata + negro · boots) | 2/7 | ⏳ Pendiente |
+| **614** | Nightclub (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · negro + rojo · boots) | 0/7 | ⏳ Pendiente |
+| **615** | Corporate (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots) | 0/7 | ⏳ Pendiente |
+| **616** | Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · borgoña + negro · boots) | 0/7 | ⏳ Pendiente |
+| **617** | Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · rojo + rojo · boots) | 0/7 | ⏳ Pendiente |
+| **618** | Stripper (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Stripper · Stripper (Thigh-High Boots) · negro + transparente · boots) | 0/7 | ⏳ Pendiente |
+| **619** | Bikini (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Bikini · Bikini (Thigh-High Boots) · oro + oro · boots) | 0/7 | ⏳ Pendiente |
+| **620** | Pin-Up (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Pin-Up · Pin-Up (Thigh-High Boots) · rojo + negro · boots) | 0/7 | ⏳ Pendiente |
 
 ---
 

@@ -116,7 +116,7 @@ def actualizar_galeria():
         if not sec or n < MIN_LOOK:
             out.append(block); continue
         actual = sec.group(0)
-        regenerar = ("Pendiente" in actual) or ("app/Gemini" in actual)
+        regenerar = ("Pendiente" in actual) or ("app/Gemini" in actual) or ("(0/7)" in actual)
         folder = folder_de_look(n)
         if regenerar and folder and any(imgs_de_look(folder)):
             nueva, mat = construir_seccion(n, folder)
