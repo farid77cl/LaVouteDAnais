@@ -370,7 +370,7 @@
 | **558** | La Contorsionista (15/06/2026 — batch L551-L560 "El Circo" · Lencería · Lencería Fetish (Contortionist) · Negro + neón UV · circus) | — | Lencería | — | — | 7/7 | ✅ Completo |
 | **559** | La Equilibrista (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Pin-Up Bombshell (Tightrope) · Candy stripe rosa + blanco + rojo · circus) | — | Pin-Up & Retro | — | — | 7/7 | — |
 | **560** | La Reina del Circo (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Finale Showgirl) · Oro espectáculo + cristal · circus) | — | High-Fashion Editorial | — | — | 7/7 | — |
-| **561** | Afrodita (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Boudoir Diosa (Afrodita) · Rosa nácar perla · panteon) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **561** | Afrodita (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Boudoir Diosa (Afrodita) · Rosa nácar perla · panteon) | — | Lencería | — | — | 6/7 | ⏳ Pendiente |
 | **562** | Atenea (16/06/2026 — batch L561-L570 "El Panteón" · Corporate · Power Domme (Atenea) · Bronce + oro armadura · panteon) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
 | **563** | Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Perséfone) · Granate granada + negro · panteon) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
 | **564** | Artemisa (16/06/2026 — batch L561-L570 "El Panteón" · Gym/Athleisure · Gym Athleisure (Artemisa) · Plata luna + blanco · panteon) | — | Gym/Athleisure | — | — | 0/7 | ⏳ Pendiente |
@@ -379,13 +379,13 @@
 | **567** | Hera (16/06/2026 — batch L561-L570 "El Panteón" · Escort · Escort Haute (Hera) · Púrpura real + pavo real teal · panteon) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **568** | Hestia (16/06/2026 — batch L561-L570 "El Panteón" · Domestic · Domestic Fetish (Hestia) · Cobre + ámbar fuego · panteon) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
 | **569** | Deméter (16/06/2026 — batch L561-L570 "El Panteón" · Pin-Up · Pin-Up Decade Glam (Deméter) · Dorado trigo-miel · panteon) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **570** | Nyx (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Lencería Fetish (Nyx) · Negro estrellado + plata holográfica · panteon) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **570** | Nyx (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Lencería Fetish (Nyx) · Negro estrellado + plata holográfica · panteon) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **571** | Lujuria (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Lencería · Lencería Fetish (Lujuria) · Escarlata wet-look · pecados) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **572** | Soberbia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (Soberbia) · Violeta real + oro espejo · pecados) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
-| **573** | Gula (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Pin-Up · Pin-Up Bombshell (Gula) · Naranja cereza + crema · pecados) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **574** | Avaricia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Escort · Escort Haute (Avaricia) · Oro líquido (monedas) · pecados) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **575** | Pereza (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Domestic · Domestic Trophy (Pereza) · Celeste perla · pecados) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
+| **572** | Soberbia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (Soberbia) · Violeta real + oro espejo · pecados) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
+| **573** | Gula (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Pin-Up · Pin-Up Bombshell (Gula) · Naranja cereza + crema · pecados) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **574** | Avaricia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Escort · Escort Haute (Avaricia) · Oro líquido (monedas) · pecados) | — | Escort | — | — | 7/7 | — |
+| **575** | Pereza (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Domestic · Domestic Trophy (Pereza) · Celeste perla · pecados) | — | Domestic | — | — | 7/7 | — |
+| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | — | Nightclub | — | — | 6/7 | ⏳ Pendiente |
 | **577** | Envidia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Bikini · Bikini Studio (Envidia) · Verde esmeralda serpiente · pecados) | — | Bikini | — | — | 7/7 | — |
 | **578** | La Tentación (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Stripper · Stripper Pole (La Tentación) · Manzana verde + rojo · pecados) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
 | **579** | La Caída (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (La Caída) · Negro alas caídas · pecados) | — | High-Fashion Editorial | — | — | 7/7 | — |
@@ -728,7 +728,7 @@
 | **553** | La Forzuda (15/06/2026 — batch L551-L560 "El Circo" · Gym/Athleisure · Gym Performance (Vintage Strongwoman) · Borgoña + oro · circus) | 6/7 | ⏳ Pendiente |
 | **554** | La Mujer Cañón (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Retro-Futurismo (Human Cannonball) · Chrome plata + naranja chispa · circus) | 6/7 | ⏳ Pendiente |
 | **557** | La Encantadora de Serpientes (15/06/2026 — batch L551-L560 "El Circo" · Bikini · Studio Micro Fetish (Snake Charmer) · Esmeralda python iridiscente + oro · circus) | 6/7 | ⏳ Pendiente |
-| **561** | Afrodita (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Boudoir Diosa (Afrodita) · Rosa nácar perla · panteon) | 0/7 | ⏳ Pendiente |
+| **561** | Afrodita (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Boudoir Diosa (Afrodita) · Rosa nácar perla · panteon) | 6/7 | ⏳ Pendiente |
 | **562** | Atenea (16/06/2026 — batch L561-L570 "El Panteón" · Corporate · Power Domme (Atenea) · Bronce + oro armadura · panteon) | 0/7 | ⏳ Pendiente |
 | **563** | Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Perséfone) · Granate granada + negro · panteon) | 0/7 | ⏳ Pendiente |
 | **564** | Artemisa (16/06/2026 — batch L561-L570 "El Panteón" · Gym/Athleisure · Gym Athleisure (Artemisa) · Plata luna + blanco · panteon) | 0/7 | ⏳ Pendiente |
@@ -737,13 +737,11 @@
 | **567** | Hera (16/06/2026 — batch L561-L570 "El Panteón" · Escort · Escort Haute (Hera) · Púrpura real + pavo real teal · panteon) | 0/7 | ⏳ Pendiente |
 | **568** | Hestia (16/06/2026 — batch L561-L570 "El Panteón" · Domestic · Domestic Fetish (Hestia) · Cobre + ámbar fuego · panteon) | 0/7 | ⏳ Pendiente |
 | **569** | Deméter (16/06/2026 — batch L561-L570 "El Panteón" · Pin-Up · Pin-Up Decade Glam (Deméter) · Dorado trigo-miel · panteon) | 0/7 | ⏳ Pendiente |
-| **570** | Nyx (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Lencería Fetish (Nyx) · Negro estrellado + plata holográfica · panteon) | 0/7 | ⏳ Pendiente |
+| **570** | Nyx (16/06/2026 — batch L561-L570 "El Panteón" · Lencería · Lencería Fetish (Nyx) · Negro estrellado + plata holográfica · panteon) | 1/7 | ⏳ Pendiente |
 | **571** | Lujuria (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Lencería · Lencería Fetish (Lujuria) · Escarlata wet-look · pecados) | 0/7 | ⏳ Pendiente |
-| **572** | Soberbia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (Soberbia) · Violeta real + oro espejo · pecados) | 0/7 | ⏳ Pendiente |
-| **573** | Gula (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Pin-Up · Pin-Up Bombshell (Gula) · Naranja cereza + crema · pecados) | 0/7 | ⏳ Pendiente |
-| **574** | Avaricia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Escort · Escort Haute (Avaricia) · Oro líquido (monedas) · pecados) | 0/7 | ⏳ Pendiente |
-| **575** | Pereza (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Domestic · Domestic Trophy (Pereza) · Celeste perla · pecados) | 0/7 | ⏳ Pendiente |
-| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | 2/7 | ⏳ Pendiente |
+| **572** | Soberbia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (Soberbia) · Violeta real + oro espejo · pecados) | 1/7 | ⏳ Pendiente |
+| **573** | Gula (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Pin-Up · Pin-Up Bombshell (Gula) · Naranja cereza + crema · pecados) | 1/7 | ⏳ Pendiente |
+| **576** | Ira (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Nightclub · Nightclub (Ira) · Rojo sangre + negro tormenta · pecados) | 6/7 | ⏳ Pendiente |
 | **578** | La Tentación (16/06/2026 — batch L571-L580 "Los 7 Pecados" · Stripper · Stripper Pole (La Tentación) · Manzana verde + rojo · pecados) | 6/7 | ⏳ Pendiente |
 | **582** | Mata Hari (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · Nightclub · Nightclub (Mata Hari) · Bronce + joya oriental · cortesanas) | 1/7 | ⏳ Pendiente |
 | **583** | Theodora (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · High-Fashion Editorial · HF Editorial (Theodora) · Púrpura imperial + oro mosaico · cortesanas) | 1/7 | ⏳ Pendiente |
