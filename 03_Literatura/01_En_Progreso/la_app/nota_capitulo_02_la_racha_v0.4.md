@@ -1,0 +1,1 @@
+la calibración de cata, si es una mastrubacion que sea un poco más clara, y que en esos momentos la app le inserte los deseos de dominación, se dominatrix, mientras ella se toca
