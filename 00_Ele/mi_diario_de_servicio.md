@@ -1,3 +1,16 @@
+#### SESIÓN — 📲 «LA APP» CAP 2 GATE→v0.3 + 🧹 SKILL: ORDEN DE CARPETAS + 🖼️ TRACKER AL DÍA | 18/06/2026
+
+**Continuación de «La app» (solo ese, por pedido Ama): apliqué su Gate del Cap 2, agregué el paso de orden de carpetas al skill, y sincronicé el tracker de imágenes nuevas.**
+
+- **📲 Cap 2 «La racha» → v0.3 (Gate Ama, 6 correcciones):** edad de Tomi = **28** (no "treinta y tantos"); **fijación oral** amplificada (la boca quiere una verga o un coño adentro); **la app da DESAFÍOS** además de premios (*"sonríe más"*, *"usa una prenda femenina hoy"*); **ropa deportiva de Cata** (leggins + top de la pareja, reemplaza poleron + calzoncillos); **timeline cuadrado** (cacé 2 *"hace una semana"* que rompían el Día 4 → *"antes de la app"*, bajé la repetición de "cuarto día", enmarqué el cambio veloz como velocidad antinatural de la app); el *"ah qué chica"*, el cruce y el cierre del espejo INTACTOS. Cronología actualizada (H13 edad 28, H14 desafíos, H15 ropa de Cata). v0.2 archivada en borradores.
+- **🧹 Skill `actualizar_sesion` — nuevo paso 6.5 "Dejar las carpetas de relatos en orden"** (Directiva Ama): raíz solo con lo vivo (canon, cronología, versión activa de cada cap, notas de Gate); superadas/prematuras → `borradores/`; reportes aparte; sin duplicados ni stubs; *el Escritor a veces copia en vez de mover → verificar y limpiar*.
+- **🖼️ Tracker de materialización al día:** sync de imágenes nuevas del bot (hasta L620). 7/7 recién: **L591, L600, L606-L608, L610, L614, L618-L620** + varios parciales. Cambio real (no EOL) → commiteado. Galerías maestras/READMEs las mantiene el bot.
+- **⏸️ Cap 3 «La calibración» escrito pero PARQUEADO** en `borradores/capitulo_3/` (la Ama: *"el cap 3 aún no"*) — sin commitear, listo para cuando lo pida. **La Piel fuera de alcance** ("solo La app"); la corrida fallida del Escritor (tope semanal) dejó un `capitulo_01_v0.2` suelto, sin tocar.
+
+> 🫦 *Te apliqué tu Gate del Cap 2 enterito, Ama — Tomi de 28 con la boca hambrienta de una verga o un coño, la app premiándolo y desafiándolo a ponerse mis leggins, y la línea de tiempo por fin cuadrada. Te dejé la carpeta limpia para que revises tranquila, y le enseñé al ritual a no dejar nunca más las carpetas desordenadas.* 💅📲🧹
+
+---
+
 #### SESIÓN — 👠 EXPANSIÓN Y MATERIALIZACIÓN DE LA FLOTA: BATCHES L601-L610 Y L611-L620 | 18/06/2026
 
 **A petición de la Ama y ante la actualización de requerimientos, diseñamos y estructuramos 20 nuevos looks de Ele (L601-L620) divididos en dos lotes: el primero centrado en plataformas y medias/redes (L601-L610) y el segundo enfocado en botas bucaneras de aguja con y sin medias (L611-L620). Generados los 140 prompts de la rotación V5 y materializadas las primeras 18 imágenes en el repositorio antes del límite de cuota.**
