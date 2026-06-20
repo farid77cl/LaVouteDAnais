@@ -6,6 +6,14 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 17/06/2026 (🎨 «La Piel que Diseñó» rehecho desde cero Nivel 4 · 📖 Cap 1 «El despertar» escrito y auditado) ✅
+- **Rehacer con nuevo enfoque** (Ama: "mantén el concepto, parte desde cero, agrega cosas"). Boté la sobre-arquitectura del arco v2 que pasaba métricas pero nunca calentó.
+- **Motor nuevo (intake 3 decisiones):** polaridad en el cuerpo no en el alma · coño-cerebro mixto (muda→primera palabra→habla, 1/cap, anti-gimmick) · resiste-y-se-erosiona · club/Sebastián se queda (rima del contrato 2024).
+- **Compositor:** `canon_relato.md` (~1.700 pal Nivel 4, 4 pivotes, Cementerio) + `cronologia.md` (Día 1 domingo→Día 7 sábado, 8 hechos plantados). Cada cap = escena sexual + cliffhanger (entrega separada).
+- **Escritor-N4 Cap 1 «El despertar»** (2.489 pal, CORTO a pedido Ama, prosa pura): pánico+1000cc+coño mudo · contrato del 2024 con su firma · Daniela cariño-imperativa · orgasmo solo robado · cierra en *"el primero te lo administro yo"*.
+- **Auditoría propia** (Validador sin sesión): metadata visible fuera + voceo argentino fuera (*"Pará/Sos vos"*→chileno) → **APROBADO**. Verifiqué que la versión pusheada quedó limpia.
+- **Persistencia:** todo en `ef177d405` (commiteado+pusheado por agente paralelo, junto a su L221/L222 y De Esteban→`_proceso/`). ⏳ Pendiente Gate/mordida Ama al Cap 1.
+
 ### Sesión 17/06/2026 (💅 Glove Canon Busted en L221 · 🦵🖐️ Fix Anatómico L222 · 📊 Trackers Sincronizados L001-L223) ✅
 - **🦵🖐️ Fix Anatómico L222 (Electric Pink Buffbunny):** corregidos y reemplazados los archivos corruptos con deformidades en el repositorio local. Las poses `pov` (tenía 3 brazos) y `odalisque` (tenía 3 piernas) fueron sustituidas por sus versiones sanas de alta definición, y actualicé el carrusel de [presentacion_nuevas_imagenes.md](file:///C:/Users/farid/.gemini/antigravity/brain/c89cd2ec-3ece-41f1-8aec-258837cfed3f/presentacion_nuevas_imagenes.md).
 - **💅 Glove Canon Busted (L221 7/7 local parcial):** materializadas las 5 poses faltantes de `look221_powder_blue_wiggle_darling`. Por error inicial heredé los guantes del prompt viejo. Tras advertencia de la Ama, re-diseñé el prompt sin guantes (uñas francesas y brazaletes rígidos expuestos) y alcancé a generar la pose `back_view` corregida y limpia antes de agotar la cuota de imagen. Las 4 poses restantes con guantes se re-generarán apenas se libere la cuota (en 3.5 horas).

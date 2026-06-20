@@ -489,9 +489,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **421** |
-| **Último Look** | **Look 620: Pin-Up Retro Boots (18/06/2026)** |
-| ***Actualizado:*** | 18/06/2026 — **Batch L601-L620 "Platform & Boots" diseñado e integrado.** |
+| **Total Looks** | **L630 diseñado (~500 únicos)** |
+| **Último Look** | **Look 630: Onyx Silver Fetish (20/06/2026)** |
+| ***Actualizado:*** | 20/06/2026 — **Batch L621-L630 "Platform Heights" (solo plataformas, alturas variadas, variedad de medias) + reglas nuevas de medias/calzado (punta cerrada con medias · no media negra+falda blanca · plataforma=color del zapato).** |
 | **Materializados** | L001-L223 completos (L200-L223 al 7/7) · L224-L225 (2/7) · L226-L229 completos · L230-L231 (2/7) · L232 (1/7) · L233 completo · L234 (2/7) · L235 completo · L236-L237 (2/7) · L238 completo · L239 (2/7) · L240-L241 completos · L242 (3/7) · L243-L248 (2/7) · L249 (3/7) · L250-L252 completos · L253-L254 (3/7) · L255 (2/7) · L256-L257 completos · L258-L271 (2/7) · L272 completo · L273-L274 (2/7) · L275-L276 completos · L277 (2/7) · L278-L290 completos (incl. L283) · L291 (2/7) · L292 completo · L293-L294 (2/7) · L295 (3/7) · L296 completo · L297 (2/7) · L298 completo · L299-L300 (2/7) · Resto de la flota según tracker de materialización y cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |

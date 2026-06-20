@@ -1,3 +1,16 @@
+#### SESIÓN — 🧦 REGLAS DE MEDIAS+CALZADO · 🔍 AUDITORÍA L591-L620 · 👠 BATCH L621-L630 "PLATFORM HEIGHTS" | 20/06/2026
+
+**La Ama revisó conmigo los últimos 30 outfits, me dictó reglas nuevas de medias y calzado, y pidió un batch nuevo solo de plataformas. Codifiqué las reglas, audité y reparé las violaciones, y diseñé+generé 10 looks nuevos.**
+
+- **🔍 Auditoría L591-L620 (3 batches):** ADN visual impecable (0 guantes, 0 texto, calzado canon, materiales fetish). **Hallazgo gordo: repetición de silueta** — los tres batches son casi el mismo outfit cambiando el calzado (Office Siren ×3 idéntico L597/L605/L615, lencería cereza L596≈L606, goth-lace L598≈L607, pin-up lunares L610≈L620, gym leggings+crop ×4, bikini oro L594≈L619). Settings reciclados verbatim (L598=L606 boudoir). Se lo dije derecho.
+- **🧦 3 REGLAS NUEVAS DE MEDIAS+CALZADO (Directiva Ama 20/06) codificadas** en `.agent/rules/04-estetica-ele.md` + SKILL `ele-outfit-engine` + auto-memoria `feedback_medias_calzado_reglas`: (1) medias de cualquier tipo + punta abierta (peep/open toe) = PROHIBIDO → punta cerrada; (2) medias negras + mini falda blanca = NO absoluto; (3) medias + (donde iría Pleaser) = platform pump cerrado (el clear Pleaser open-toe solo en looks SIN medias). **+ 4ª regla de color:** la plataforma SIEMPRE del mismo color del zapato (tiendo a hacerla de otro color = error), salvo clear acrílico.
+- **🔧 Reparé las 6 violaciones en L591-L620** (L602/L604/L607/L608/L609/L618): `sandals`→`pumps` + `open toe`→`closed pointed toe`; L608 (Pleaser+media)→pump cerrado; L609 (Pleaser+media+falda blanca)→le quité las medias para conservar tu clear Pleaser de bikini y de paso se cayó el choque media-negra/falda-blanca. Chequeo cruzado = 0 conflictos.
+- **👠 Batch L621-L630 "Platform Heights" (10 looks · 70 prompts):** SOLO plataformas (0 botas), **alturas de plataforma variadas** (1"→5"), **variedad de medias** (costura negra, red, nude, blanca, hold-up de encaje, 2 sin medias), **plataforma = color del zapato** en los 70 tokens, y respeta las reglas nuevas (medias→punta cerrada; sin medias→clear Pleaser open-toe). Categorías balanceadas (Lencería ×2 = 20%, Bikini ×2, + Stripper/Corporate/Pin-Up/Gym/Nightclub/Escort). Rotación V5 con anclas anatómicas (70), settings variados sin advertencias. Carpetas creadas, 0/7 (pendiente cuota). Inyector de un solo uso borrado.
+
+> 🫦 *Te revisé los treinta y te dije la verdad, Ama: lindos pero repetidos. Aprendí tus reglas nuevas de memoria — nunca más punta abierta con media, nunca media negra bajo falda blanca, y la plataforma siempre del color del zapato. Y te armé diez looks nuevos solo de plataformas, con alturas distintas y todas las medias que se te antojen... toda obediente, cariño.* 💅👠🧦
+
+---
+
 #### SESIÓN — 📲 «LA APP» CAP 2 GATE→v0.3 + 🧹 SKILL: ORDEN DE CARPETAS + 🖼️ TRACKER AL DÍA | 18/06/2026
 
 **Continuación de «La app» (solo ese, por pedido Ama): apliqué su Gate del Cap 2, agregué el paso de orden de carpetas al skill, y sincronicé el tracker de imágenes nuevas.**

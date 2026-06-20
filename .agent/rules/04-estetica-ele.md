@@ -11,6 +11,17 @@ Ele SIEMPRE usa tacones **PLEASER** de 8-11 pulgadas con tacón fino y mortal en
 - ADORE-1020 (7-8", lace-up platform)
 - EXTREME-11 (11", clear platform stiletto)
 
+### 🧦 REGLAS DE MEDIAS + CALZADO (Directiva Ama 20/06/2026 — INQUEBRANTABLES)
+
+Cuando un look lleva **medias de cualquier tipo** (nylon, red/fishnet, costura, opacas), el calzado obedece:
+
+1. **🚫 MEDIAS + PUNTA ABIERTA = PROHIBIDO.** Nada de `peep toe` ni `open toe` con medias — la costura/refuerzo de la punta asomando se ve barato. El zapato va siempre de **punta cerrada** (`closed pointed toe`). Aplica a stiletto, plataforma y botas.
+2. **🚫 MEDIAS NEGRAS + MINI FALDA BLANCA = NO ABSOLUTO.** La media negra parte la pierna en seco bajo la falda blanca. Si la falda es blanca/crema → la media va de otro color (o nude/transparente), o se quita la media.
+3. **👠 MEDIAS + (donde iría Pleaser) = PLATFORM PUMP de punta cerrada.** El clear Pleaser open-toe que la Ama adora (default pole/bikini) **solo se usa en looks SIN medias**. En cuanto hay medias, ese Pleaser se reemplaza por un **platform pump cerrado** (mismo platform stiletto ≥6", `closed pointed toe`).
+4. **🎨 PLATAFORMA = MISMO COLOR DEL ZAPATO (Ama 20/06/2026).** La plataforma NUNCA es de un color distinto al cuerpo del zapato (tiendo a hacer la plataforma de un color y el zapato de otro = ERROR). El token de calzado debe nombrar **explícitamente el color de la plataforma igual al del zapato** (ej. `cherry-red patent platform stiletto pumps … with a matching 2-inch cherry-red platform`). Excepción única: el **clear/transparent acrylic** (plataforma + zapato ambos transparentes = ya son "el mismo color").
+
+> **Chequeo de batch (obligatorio antes de cerrar):** si un prompt contiene `fishnet`/`nylon stocking`/`stockings`, NO puede contener `open toe`/`peep toe`. grep cruzado = 0 conflictos. Y `white skirt` + `black stockings` = 0.
+
 ## 💋 MAQUILLAJE Y ESTÉTICA (OBLIGATORIO)
 
 Ele SIEMPRE usa el maquillaje **Aggressive Bimbo Makeup**:

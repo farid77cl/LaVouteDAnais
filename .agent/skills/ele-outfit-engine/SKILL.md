@@ -64,6 +64,13 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 >
 > **Checklist pre-prompt:** (a) ¿el token tiene los 8 atributos? (b) ¿está **idéntico** carácter-por-carácter en las 7 poses? (c) ¿incluye `stiletto` + cm explícitos? Si alguna es NO → completar antes de generar.
 
+> **🧦 REGLA DE MEDIAS + CALZADO (Directiva Ama 20/06/2026 — INQUEBRANTABLE).** Si el BLOQUE B incluye **medias de cualquier tipo** (`fishnet`/`nylon stockings`/`stockings`/`seamed`/`thigh-high stockings`):
+> 1. **Atributo 6 (puntera) NO puede ser `open toe` ni `peep toe`** → va `sharp pointed toe` / `pointed almond toe` / `round toe`. Punta cerrada obligatoria.
+> 2. **Si el look iba a usar el clear Pleaser open-toe** (default Stripper/Bikini, [[feedback_pleaser_transparente]]) → se reemplaza por un **platform pump cerrado**: `closed pointed-toe platform stiletto pumps, 8-inch pin stiletto heel + 4-inch platform, closed pointed toe, …`. El Pleaser open-toe SOLO en looks **sin** medias.
+> 3. **Media negra + mini falda blanca/crema = PROHIBIDO** → la media va de otro color/nude/transparente, o se quita.
+>
+> **Chequeo de batch:** grep cruzado — un prompt con `fishnet`/`nylon stocking`/`stockings` NO puede contener `open toe`/`peep toe` (= 0). Y `white skirt` + `black stockings` (= 0). Codificado en `.agent/rules/04-estetica-ele.md`.
+
 ### 🔒 TOKEN DE VESTUARIO BLOQUEADO — prendas complejas (Directiva Ama 08/06/2026)
 
 > **Problema detectado por la Ama (auditoría L507 "Crimson Vegas Chapel"):** el **color** salió consistente en las 7 poses, pero la **estructura de la prenda NO** — un `corset bodysuit with strategic transparent crystal-mesh panels` se renderizó a veces como bodysuit de malla completa y otras como bra+liguero separado, con escote y cobertura distintos pose a pose. Mismo problema que el calzado: la descripción dejaba demasiado a la **interpretación de la IA**, rompiendo la **Ley de Continuidad** en el vestuario.

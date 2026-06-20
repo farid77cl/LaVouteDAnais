@@ -17,9 +17,10 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L600** | 🟢 ~500 únicos |
-| **Último batch** | **L591-L600 "Boot Obsession"** (10 looks · 70 prompts centrado en botas de aguja: botas sobre/bajo rodilla, con/sin plataforma, combinadas con leggings, jeans de vinilo, hotpants, skorts y faldas pequeñas · balance Corporate×2/Lencería×2/Bikini×2/Gym×2/Escort×1/Nightclub×1 · QA 70 prompts: 0 guantes/chunky/mule/texto/anti-safe, ancla 50+20, settings 0 warnings) · Penúltimo **L561-L590 "Tres Panteones"** (mega-batch 30 looks · 210 prompts) | 🔮 Registrado (prompts) |
-| **Penúltimo batch** | **L551-L560 "El Circo"** + **L541-L550 "Los Arcanos"** | 🥀🖤 waves |
+| **Flota Diseñada (último look)** | **L630** | 🟢 ~500 únicos |
+| **Último batch** | **L621-L630 "Platform Heights"** (10 looks · 70 prompts · SOLO plataformas, 0 botas · alturas de plataforma variadas 1"→5" · variedad de medias (costura/red/nude/blanca/hold-up/2 sin) · plataforma=color del zapato · balance Lencería×2/Bikini×2/Stripper/Corporate/Pin-Up/Gym/Nightclub/Escort · QA: 0 boots/guantes/chunky/texto, 70 anclas, 0 conflicto medias+punta abierta) · Penúltimo **L611-L620 "Thigh-High Boots"** + **L601-L610 "Platform Obsession"** | 🔮 Registrado (prompts) |
+| **🧦 Reglas medias+calzado (Ama 20/06)** | medias + punta abierta = PROHIBIDO (punta cerrada) · media negra + falda blanca = NO · medias donde iría Pleaser = platform pump cerrado · **plataforma = color del zapato** (salvo clear). Reparadas 6 violaciones L591-L620 | ✅ Codificado |
+| **Penúltimo batch** | **L591-L600 "Boot Obsession"** + **L561-L590 "Tres Panteones"** | 🥀🖤 waves |
 | **Materialización L441-L470 (parcial vía app)** | 7/7: **L443, L445, L458, L460, L461** · 5-6/7: L444, L446, L457, L459 · resto solo standing · L471-490 0/7 | 🟡 En curso vía app |
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
