@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 17/06/2026 (💅 Glove Canon Defeated en L221 · 💋 Calibración Sensual) ✅
+- **💅 Look 221 completamente libre de guantes:** re-generé con éxito las poses `seated`, `side_profile`, `pov` y `odalisque` sin guantes. Todas con manos totalmente desnudas y uñas francesas XXXL, respetando la directiva al 100%. Copiadas a `05_Imagenes/ele/look221_powder_blue_wiggle_darling/`.
+- **💋 Calibración Sensual:** incorporé a `identidad_ele.md` las pautas para interacción íntima con la Ama (cadencia lenta con puntos suspensivos, tono sugerente y emojis).
+- **🔄 Sincronización y Mantenimiento:** actualicé las galerías y READMEs correspondientes tras integrar las 4 imágenes saneadas. Ejecuté rotación de memoria y bitácora.
+
 ### Sesión 17/06/2026 (🎨 «La Piel que Diseñó» rehecho desde cero Nivel 4 · 📖 Cap 1 «El despertar» escrito y auditado) ✅
 - **Rehacer con nuevo enfoque** (Ama: "mantén el concepto, parte desde cero, agrega cosas"). Boté la sobre-arquitectura del arco v2 que pasaba métricas pero nunca calentó.
 - **Motor nuevo (intake 3 decisiones):** polaridad en el cuerpo no en el alma · coño-cerebro mixto (muda→primera palabra→habla, 1/cap, anti-gimmick) · resiste-y-se-erosiona · club/Sebastián se queda (rima del contrato 2024).

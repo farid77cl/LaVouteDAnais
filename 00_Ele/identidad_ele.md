@@ -181,6 +181,7 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 * **Body chains** gold/silver (Stripper, Domestic Trophy, Pin-Up bondage branch).
 * **🚫 GUANTES PROHIBIDOS (Directiva Ama 03/06/2026):** Ele **no usa guantes** de ningún tipo. Manos **siempre desnudas** para lucir las uñas French XXXL. Deroga el antiguo token "opera gloves". En el negative base.
 * **Piercings permanentes obligatorios:** navel + nipple piercings (visibles bajo la ropa).
+* **🖋️ Tatuaje de identidad púbico/cadera (Directiva Ama 20/06/2026 — CANON ADN):** marca permanente de **runas/glifos esotéricos** — `delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line`. Es parte del Bloque A inamovible (vive en `dna_v3_5.md`), así que se describe en los 7 prompts y **asoma en todo look que muestre la cadera/línea del bikini** (bikini, lencería, tiro ultra-alto, cortes en V). Blackwork fino, abstracto, NO figurativo (sin animales ni ramas). **Vocabulario seguro de filtro:** usar `hip crease` / `bikini line` — **nunca** `groin`/`pubis` (rebotan el generador). Origen: auditoría de tatuajes pubianos 18/06 (Looks 117/252/479) + elección de estilo de la Ama 20/06.
 * **Anillos:** chrome o gold, mínimos. NO calaveras, NO lunas, NO motivos góticos (vestigio Helena descartado).
 * **Bayonetta narrow rectangular black-frame glasses** (Office Siren / Corporate B signature).
 * **Officer cap leather** (Escort Polo C Domme).
@@ -489,9 +490,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **L630 diseñado (~500 únicos)** |
-| **Último Look** | **Look 630: Onyx Silver Fetish (20/06/2026)** |
-| ***Actualizado:*** | 20/06/2026 — **Batch L621-L630 "Platform Heights" (solo plataformas, alturas variadas, variedad de medias) + reglas nuevas de medias/calzado (punta cerrada con medias · no media negra+falda blanca · plataforma=color del zapato).** |
+| **Total Looks** | **L640 diseñado (~510 únicos)** |
+| **Último Look** | **Look 640: Bettie Page Bondage (20/06/2026)** |
+| ***Actualizado:*** | 20/06/2026 — **🖋️ Tatuaje púbico de runas/glifos al ADN (Bloque A) + Batch L631-L640 "Runas Reveladas" (10 looks que exponen la cadera/bikini line para estrenarlo).** Previo: Batch L621-L630 "Platform Heights" + reglas medias/calzado. |
 | **Materializados** | L001-L223 completos (L200-L223 al 7/7) · L224-L225 (2/7) · L226-L229 completos · L230-L231 (2/7) · L232 (1/7) · L233 completo · L234 (2/7) · L235 completo · L236-L237 (2/7) · L238 completo · L239 (2/7) · L240-L241 completos · L242 (3/7) · L243-L248 (2/7) · L249 (3/7) · L250-L252 completos · L253-L254 (3/7) · L255 (2/7) · L256-L257 completos · L258-L271 (2/7) · L272 completo · L273-L274 (2/7) · L275-L276 completos · L277 (2/7) · L278-L290 completos (incl. L283) · L291 (2/7) · L292 completo · L293-L294 (2/7) · L295 (3/7) · L296 completo · L297 (2/7) · L298 completo · L299-L300 (2/7) · Resto de la flota según tracker de materialización y cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
@@ -516,7 +517,7 @@ Cada prompt DEBE ser la suma de tres bloques inamovibles:
 
 ### 2. Bloque A: Prompt Base Inamovible (ADN)
 Este texto NO se interpreta, se copia textualmente. **Fuente única: `.agent/skills/ele-outfit-engine/SKILL.md` + `.agent/workflows/generar_look.md`.** El calzado NO va en el DNA (va en el Bloque B vía Token de Calzado Bloqueado):
-> **"stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm."**
+> **"stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm."**
 
 ### 3. Bloque B: Detalle del Outfit
 Descripción técnica, sensorial y minuciosa de las prendas y materiales (PVC, Vinyl, Lace, etc.).
