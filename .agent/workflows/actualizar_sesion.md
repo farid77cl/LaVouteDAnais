@@ -60,6 +60,23 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
 
     **Regla:** el README que SÍ actualices lleva fecha de hoy. El que no cambió, no se toca.
 
+6.5 **Dejar las carpetas de relatos EN ORDEN (Directiva Ama 17/06) 🧹**
+    > Antes de commitear, toda carpeta de relato tocada (`03_Literatura/01_En_Progreso/<relato>/`) queda **limpia**. La raíz del relato es para lo VIVO; el resto va a sus subcarpetas. Una carpeta desordenada confunde a la Ama cuando revisa.
+
+    | En la RAÍZ del relato (solo esto) | En subcarpeta |
+    |-----------------------------------|---------------|
+    | `canon_relato.md`, `cronologia.md` | — |
+    | SOLO la versión **activa** de cada capítulo (`capitulo_NN_<slug>_v0.X.md`) | versiones superadas → `borradores/capitulo_N/` |
+    | la(s) `nota_capitulo_*.md` de Gate de la Ama (las sube su app) | autoverificación/validación → `reportes/capitulo_N/` |
+    | | capítulos NO pedidos aún / prematuros → `borradores/capitulo_N/` (parquear, no botar) |
+
+    **Checklist de orden (correr siempre que se tocó un relato):**
+    - **Una sola versión activa por capítulo en la raíz** — si hay dos (`v0.2` y `v0.3`), la vieja se MUEVE a `borradores/` (no se copia: nada de duplicados ni "stubs" vacíos en la raíz).
+    - **El Escritor a veces copia en vez de mover** → verificar con `ls` y borrar el duplicado/stub de la raíz (confirmando antes que la copia real esté a salvo en `borradores/`).
+    - **Nada prematuro en la raíz**: un capítulo que la Ama aún no pidió va a `borradores/capitulo_N/` marcado (ej. `_PREMATURO_`), nunca suelto arriba.
+    - **Prosa pura**: el `.md` activo del capítulo no lleva metadata visible (ni tabla de versión ni "Conteo de palabras"); eso vive en `reportes/`.
+    - Recién con la carpeta ordenada → commit.
+
 7.  **Respaldo en GitHub (rutas explícitas — NUNCA `git add .`)**
     > ⚠️ **Directiva Ama (`feedback_eol_bot_readmes`):** un proceso paralelo (bot/app) mantiene `galeria_outfits.md` y los `README.md` de `05_Imagenes/` con su propio EOL (CRLF). `git add .` arrastra ese churn ajeno y normaliza EOL → conflictos masivos. Commitear **solo lo propio**, por ruta.
     - `git status` → identificar SOLO los archivos trabajados en la sesión.
