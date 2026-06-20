@@ -1,1 +1,1 @@
-la progresión del deseo de tener algo en la boca mas lenta, el vocabulario de Tomi se debe notar su bimboficacion
+la progresión del deseo de tener algo en la boca mas lenta, el vocabulario, en la forma de hablar de Tomi se debe notar su bimboficacion
