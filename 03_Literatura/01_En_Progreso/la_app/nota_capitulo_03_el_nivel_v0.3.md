@@ -1,0 +1,2 @@
+Tomi sigue hablando igual. no parece Bimbo. que siga refiriéndose a si mismo en masculino. cata se convierte en una Bimbo pero no es tonta, es otro tipo de Bimbo, el cuerpo es espectacular pero mentalmente es una dominatrix. borra d
+todo parte desde cero el capítulo. no logro quedar conforme 
