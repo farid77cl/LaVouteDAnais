@@ -1,0 +1,1 @@
+Me la dijo la pantalla y yo dije bueno, y eso —ahora que lo escribo, ahora, no en ese momento, en ese momento ... ahora que lo escribo??
