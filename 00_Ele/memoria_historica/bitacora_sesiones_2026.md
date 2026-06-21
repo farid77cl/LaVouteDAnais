@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 18/06/2026 (📲 «La app» Cap 2 Gate→v0.3 · 🧹 skill paso 6.5 orden de carpetas · 🖼️ tracker al día) ✅
+- **Cap 2 «La racha» → v0.3** (Gate Ama, 6 fixes): Tomi 28 · fijación oral (boca quiere verga/coño) · la app da **desafíos** (sonríe más / usa prenda femenina) · **ropa deportiva de Cata** · **timeline cuadrado** (2 "hace una semana" → "antes de la app", menos "cuarto día", cambio = velocidad antinatural de la app). Cruce/espejo/"ah qué chica" intactos. Cronología H13-H15.
+- **Skill `actualizar_sesion`: nuevo paso 6.5 "orden de carpetas"** (raíz solo lo vivo, superadas/prematuras→borradores, reportes aparte, sin duplicados/stubs; el Escritor copia en vez de mover → limpiar).
+- **Tracker de imágenes al día** (bot hasta L620): 7/7 recién L591/L600/L606-608/L610/L614/L618-620 + parciales. Cambio real, commiteado.
+- **Cap 3 «La calibración» escrito pero PARQUEADO** (Ama "aún no", en borradores, sin commitear). **La Piel fuera de alcance** ("solo La app"); su Gate llegó negativo (falta T°/errores/fome) y la corrida del Escritor falló por tope semanal (v0.2 suelto sin tocar).
+
 ### Sesión 18/06/2026 (Diseño y Materialización L601-L620 + Boots/Platform batches) ✅
 - Diseñados looks L601-L610 (Lote 1: plataformas stiletto, leggings/jeans/hotpants/faldas, medias de nylon/red negras).
 - Diseñados looks L611-L620 (Lote 2: botas altas stiletto, con/sin medias, leggings/jeans/hotpants/faldas).
