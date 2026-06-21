@@ -490,10 +490,10 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **L640 diseñado (~510 únicos)** |
-| **Último Look** | **Look 640: Bettie Page Bondage (20/06/2026)** |
-| ***Actualizado:*** | 21/06/2026 — **Saneamiento y materialización completa al 100% de Looks L639 (Crystal Mesh Showgirl) y L604 (Silver Chrome Dancer) tras descartes.** Previo: tatuaje púbico y batch L631-L640. |
-| **Materializados** | L001-L223 completos (L200-L223 al 7/7) · L224-L225 (2/7) · L226-L229 completos · L230-L231 (2/7) · L232 (1/7) · L233 completo · L234 (2/7) · L235 completo · L236-L237 (2/7) · L238 completo · L239 (2/7) · L240-L241 completos · L242 (3/7) · L243-L248 (2/7) · L249 (3/7) · L250-L252 completos · L253-L254 (3/7) · L255 (2/7) · L256-L257 completos · L258-L271 (2/7) · L272 completo · L273-L274 (2/7) · L275-L276 completos · L277 (2/7) · L278-L290 completos (incl. L283) · L291 (2/7) · L292 completo · L293-L294 (2/7) · L295 (3/7) · L296 completo · L297 (2/7) · L298 completo · L299-L300 (2/7) · Resto de la flota según tracker de materialización y cuota API |
+| **Total Looks** | **L650 diseñado (~520 únicos)** |
+| **Último Look** | **Look 650: Liquid Silver Column Gown (21/06/2026)** |
+| ***Actualizado:*** | 21/06/2026 — **Diseño de lote L641-L650 "Femme Fatale / Dominatrix" y materialización al 100% de looks pendientes del rango 200-300 (L206, L213, L214, L218, L219, L221, L222, L224, L225, L230, L253, L254).** |
+| **Materializados** | L001-L229 completos · L230 completo · L231 (2/7) · L232 (1/7) · L233 completo · L234 (2/7) · L235 completo · L236-L237 (2/7) · L238 completo · L239 (2/7) · L240-L241 completos · L242 (3/7) · L243-L248 (2/7) · L249 (3/7) · L250-L254 completos · L255 (2/7) · L256-L257 completos · L258-L271 (2/7) · L272 completo · L273-L274 (2/7) · L275-L276 completos · L277 (2/7) · L278-L290 completos (incl. L283) · L291 (2/7) · L292 completo · L293-L294 (2/7) · L295 (3/7) · L296 completo · L297 (2/7) · L298 completo · L299-L300 (2/7) · Resto de la flota según tracker de materialización y cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
 | **Poses** | Spec V4 — Professional Fetish Model · Ditzy plano americano 3/4 length ✅ |

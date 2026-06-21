@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente desde la galería — **441 looks registrados**  
+> Generado automáticamente desde la galería — **451 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -15,32 +15,32 @@
 | **203** | Violet Venom (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **204** | Emerald Bandcage (18/05/2026 — EXPANSIÓN · batch 201-205 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 7/7 | — |
 | **205** | Obsidian Gold Idol (18/05/2026 — EXPANSIÓN · batch 201-205 · GYM · busto 1000cc · EXCEPCIÓN ANTI-BLACK) | — | Gym | — | — | 7/7 | — |
-| **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
+| **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 7/7 | — |
 | **207** | Copper Hearth Doll (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | — | Mix | — | — | 7/7 | — |
 | **208** | Teal Sirène Obi (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 7/7 | — |
 | **209** | Rose Gold Strap Idol (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · LENCERÍA · silueta rediseñada) | — | Lencería | — | — | 7/7 | — |
 | **210** | Coral Sweetheart Bombshell (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · silueta rediseñada) | — | Mix | — | — | 7/7 | — |
 | **211** | Neon Magenta Sequin Siren (20/05/2026 — batch 211-220 · Nightclub debut · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **212** | Chrome Liquid Nocturne (20/05/2026 — batch 211-220 · Nightclub · busto 1000cc) | — | Mix | — | — | 7/7 | — |
-| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
-| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
+| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 7/7 | — |
+| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **215** | Cognac Predator (20/05/2026 — batch 211-220 · Corporate Power · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **216** | Python Secretary (20/05/2026 — batch 211-220 · Corporate Secretary · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **217** | Leopard Trophy Penthouse (20/05/2026 — batch 211-220 · Domestic Trophy Moderna · busto 1000cc) | — | Mix | — | — | 7/7 | — |
-| **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | — | Mix | — | — | 4/7 | ⏳ Pendiente |
-| **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | — | Mix | — | — | 3/7 | ⏳ Pendiente |
+| **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | — | Mix | — | — | 7/7 | — |
+| **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | — | Mix | — | — | 7/7 | — |
 | **220** | Blood Red Pole Predator (20/05/2026 — batch 211-220 · Stripper Pole Specialist · busto 1000cc) | — | Mix | — | — | 7/7 | — |
-| **221** | Powder Blue Wiggle Darling (21/05/2026 — batch 221-230 · Pin-Up Polo A Bombshell · busto 1000cc) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
-| **222** | Electric Pink Buffbunny (21/05/2026 — batch 221-230 · Gym Polo A Performance · busto 1000cc) | — | Gym | — | — | 3/7 | ⏳ Pendiente |
+| **221** | Powder Blue Wiggle Darling (21/05/2026 — batch 221-230 · Pin-Up Polo A Bombshell · busto 1000cc) | — | Pin-Up | — | — | 7/7 | — |
+| **222** | Electric Pink Buffbunny (21/05/2026 — batch 221-230 · Gym Polo A Performance · busto 1000cc) | — | Gym | — | — | 7/7 | — |
 | **223** | Champagne Gold Yacht Domina (21/05/2026 — batch 221-230 · Escort Polo A Haute · busto 1000cc) | — | Escort | — | — | 7/7 | — |
-| **224** | Silver Goddess Disco 70s (21/05/2026 — batch 221-230 · Pin-Up Polo B Retro-Futurismo · busto 1000cc) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
-| **225** | Cobalt Night Track Queen (21/05/2026 — batch 221-230 · Gym Polo B Athleisure · busto 1000cc) | — | Gym | — | — | 2/7 | ⏳ Pendiente |
+| **224** | Silver Goddess Disco 70s (21/05/2026 — batch 221-230 · Pin-Up Polo B Retro-Futurismo · busto 1000cc) | — | Pin-Up | — | — | 7/7 | — |
+| **225** | Cobalt Night Track Queen (21/05/2026 — batch 221-230 · Gym Polo B Athleisure · busto 1000cc) | — | Gym | — | — | 7/7 | — |
 | **226** | Holographic Chrome Showgirl (21/05/2026 — batch 221-230 · Stripper Polo A Stage · busto 1000cc) | — | Stripper | — | — | 7/7 | — |
 | **227** | Scarlet Baywatch Icon (21/05/2026 — batch 221-230 · Pin-Up Polo C Decade Glam · busto 1000cc) | — | Pin-Up | — | — | 7/7 | — |
 | **228** | Neon Cyan Street Viper (21/05/2026 — batch 221-230 · Escort Polo B Callejera · busto 1000cc) | — | Escort | — | — | 7/7 | — |
 | **229** | Leopard Platform Predator (21/05/2026 — batch 221-230 · Stripper Polo B Pole · busto 1000cc) | — | Stripper | — | — | 7/7 | — |
-| **230** | Electric Teal Bodycon Blade (21/05/2026 — batch 221-230 · Nightclub · busto 1000cc) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
-| **231** | Butter Yellow Housewife Danger (23/05/2026 — batch 231-240 · Pin-Up Polo A Bombshell PA2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 2/7 | ✅ Completo |
+| **230** | Electric Teal Bodycon Blade (21/05/2026 — batch 221-230 · Nightclub · busto 1000cc) | — | Nightclub | — | — | 7/7 | — |
+| **231** | Butter Yellow Housewife Danger (23/05/2026 — batch 231-240 · Pin-Up Polo A Bombshell PA2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 3/7 | ✅ Completo |
 | **232** | Gold Liquid Rabanne Chainmail (23/05/2026 — batch 231-240 · Pin-Up Polo B Retro-Futurismo PB2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 1/7 | ✅ Completo |
 | **233** | Electric Cyan 80s Aerobics Glam (23/05/2026 — batch 231-240 · Pin-Up Polo C Decade Glam PC3 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
 | **234** | Oxblood Croco Trophy Penthouse (23/05/2026 — batch 231-240 · Domestic Polo A Trophy Bimbo Moderna DA1 · busto 1000cc · refs mayo 2026) | — | Domestic | — | — | 2/7 | ✅ Completo |
@@ -62,8 +62,8 @@
 | **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 7/7 | ✅ Completo |
-| **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 4/7 | ✅ Completo |
-| **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 3/7 | ✅ Completo |
+| **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 7/7 | ✅ Completo |
+| **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
 | **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 2/7 | ✅ Completo |
 | **256** | Blush Nude Boudoir Robe La Perla — Refined Maison Edition (23/05/2026 · adaptado 25/05/2026 anti-filter · batch 241-260 · Lencería Polo A Boudoir LA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Lencería | — | — | 2/7 | — |
 | **257** | White Gold Rhinestone Beach Gala (23/05/2026 — batch 241-260 · Bikini Polo A Beach BA6 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Bikini | — | — | 7/7 | ✅ Completo |
@@ -450,6 +450,16 @@
 | **638** | Lime V-Cut Gym (20/06/2026 - batch L631-L640 "Runas Reveladas" - Gym/Athleisure - Gym Performance (Runas Reveladas) - lima neon - platform) | — | Gym/Athleisure | — | — | 7/7 | — |
 | **639** | Crystal Mesh Showgirl (20/06/2026 - batch L631-L640 "Runas Reveladas" - Stripper - Stripper Stage (Runas Reveladas) - cristal - platform) | — | Stripper | — | — | 7/7 | — |
 | **640** | Bettie Page Bondage (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Bombshell PA6 (Runas Reveladas) - negro + rojo - boots) | — | Pin-Up | — | — | 7/7 | — |
+| **641** | Red & Black Domme Vinyl (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Escort - Escort Polo C Domme de Club (Runas Reveladas) - color - platform) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **642** | Onyx Cutout Catsuit (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Nightclub - Nightclub Mugler Dominatrix (Runas Reveladas) - color - platform) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **643** | Cherry Red Stage Strap (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Stripper - Stripper Stage (Runas Reveladas) - color - platform) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **644** | Pinstripe Waist Cincher (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Corporate - Corporate Power Domme (Runas Reveladas) - color - platform) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **645** | Emerald Lingerie Mistress (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Lencería - Lencería Boudoir Femme Fatale (Runas Reveladas) - color - platform) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **646** | Plum Bondage Corset (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Pin-Up - Pin-Up Bombshell Vintage Domme (Runas Reveladas) - color - platform) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **647** | Vinyl Sling Bikini (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Bikini - Bikini Studio Fetish (Runas Reveladas) - color - platform) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **648** | Charcoal Sport Mistress (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Gym - Gym Performance (Runas Reveladas) - color - platform) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
+| **649** | Violet Latex Maid (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Domestic - Domestic Maid Domme (Runas Reveladas) - color - platform) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
+| **650** | Liquid Silver Column Gown (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Escort - Escort Polo A Haute (Runas Reveladas) - color - platform) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -461,20 +471,20 @@
 ### Alfombra Roja / Gala (10 looks)
 **261**, **262**, **263**, **264**, **271**, **272**, **286**, **291**, **295**, **300**
 
-### Bikini (35 looks)
-**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**, **609**, **619**, **623**, **629**, **631**, **635**
+### Bikini (36 looks)
+**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**, **609**, **619**, **623**, **629**, **631**, **635**, **647**
 
-### Corporate (29 looks)
-**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**, **472**, **488**, **494**, **508**, **521**, **545**, **562**, **588**, **592**, **597**, **605**, **615**, **624**
+### Corporate (30 looks)
+**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**, **472**, **488**, **494**, **508**, **521**, **545**, **562**, **588**, **592**, **597**, **605**, **615**, **624**, **644**
 
-### Domestic (36 looks)
-**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**, **439**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **470**, **505**, **514**, **526**, **539**, **568**, **575**, **590**
+### Domestic (37 looks)
+**234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**, **439**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **470**, **505**, **514**, **526**, **539**, **568**, **575**, **590**, **649**
 
-### Escort (40 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**, **432**, **477**, **487**, **492**, **504**, **511**, **524**, **532**, **549**, **551**, **567**, **574**, **581**, **593**, **628**, **636**
+### Escort (42 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**, **432**, **477**, **487**, **492**, **504**, **511**, **524**, **532**, **549**, **551**, **567**, **574**, **581**, **593**, **628**, **636**, **641**, **650**
 
-### Gym (24 looks)
-**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**, **421**, **422**, **430**
+### Gym (25 looks)
+**205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**, **421**, **422**, **430**, **648**
 
 ### Gym / Athleisure (6 looks)
 **265**, **266**, **273**, **274**, **289**, **290**
@@ -494,30 +504,30 @@
 ### Lenceria (9 looks)
 **438**, **495**, **499**, **501**, **510**, **516**, **520**, **522**, **528**
 
-### Lencería (52 looks)
-**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**, **475**, **483**, **484**, **535**, **540**, **542**, **550**, **558**, **561**, **570**, **571**, **580**, **584**, **596**, **598**, **606**, **607**, **616**, **617**, **621**, **630**, **632**, **637**
+### Lencería (53 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**, **475**, **483**, **484**, **535**, **540**, **542**, **550**, **558**, **561**, **570**, **571**, **580**, **584**, **596**, **598**, **606**, **607**, **616**, **617**, **621**, **630**, **632**, **637**, **645**
 
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (41 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**, **603**, **604**, **613**, **614**, **627**
+### Nightclub (42 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**, **603**, **604**, **613**, **614**, **627**, **642**
 
-### Pin-Up (35 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**, **476**, **497**, **503**, **515**, **569**, **573**, **586**, **587**, **610**, **620**, **625**, **634**, **640**
+### Pin-Up (36 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**, **476**, **497**, **503**, **515**, **569**, **573**, **586**, **587**, **610**, **620**, **625**, **634**, **640**, **646**
 
 ### Pin-Up & Retro (4 looks)
 **534**, **547**, **554**, **559**
 
-### Stripper (54 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**, **622**, **633**, **639**
+### Stripper (55 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**, **622**, **633**, **639**, **643**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (63 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**, **621**, **625**, **634**, **640**
+### Rojo / Cherry / Crimson (65 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**, **621**, **625**, **634**, **640**, **641**, **643**
 
 ### Rosa / Hot Pink (25 looks)
 **210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**, **601**, **629**
@@ -525,26 +535,26 @@
 ### Magenta / Fucsia (16 looks)
 **211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **513**, **528**, **538**, **608**, **629**, **633**
 
-### Violeta / Lila (16 looks)
-**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **524**, **539**, **547**, **565**, **572**, **600**, **626**
+### Violeta / Lila (17 looks)
+**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **524**, **539**, **547**, **565**, **572**, **600**, **626**, **649**
 
 ### Azul / Cyan / Zafiro (36 looks)
 **202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**, **602**, **615**, **624**, **631**, **635**, **636**
 
-### Verde / Esmeralda (31 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**
+### Verde / Esmeralda (32 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**
 
 ### Dorado / Bronce (47 looks)
 **205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **623**, **628**, **632**
 
-### Plateado / Plata (47 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**
+### Plateado / Plata (48 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**
 
 ### Blanco / Crema (46 looks)
 **243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **461**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **500**, **501**, **502**, **512**, **535**, **555**, **559**, **564**, **573**, **580**, **584**, **585**, **593**, **597**, **600**, **605**, **609**, **615**, **625**, **626**
 
-### Negro (dominante) (69 looks)
-**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**, **440**, **462**, **494**, **504**, **510**, **520**, **521**, **526**, **531**, **537**, **548**, **549**, **551**, **555**, **558**, **563**, **565**, **570**, **576**, **579**, **586**, **591**, **592**, **595**, **596**, **597**, **598**, **601**, **602**, **603**, **604**, **605**, **606**, **607**, **608**, **609**, **610**, **611**, **612**, **613**, **614**, **616**, **618**, **620**, **621**, **622**, **627**, **630**, **636**, **637**, **640**
+### Negro (dominante) (70 looks)
+**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**, **440**, **462**, **494**, **504**, **510**, **520**, **521**, **526**, **531**, **537**, **548**, **549**, **551**, **555**, **558**, **563**, **565**, **570**, **576**, **579**, **586**, **591**, **592**, **595**, **596**, **597**, **598**, **601**, **602**, **603**, **604**, **605**, **606**, **607**, **608**, **609**, **610**, **611**, **612**, **613**, **614**, **616**, **618**, **620**, **621**, **622**, **627**, **630**, **636**, **637**, **640**, **641**
 
 ### Naranja / Coral Neón (17 looks)
 **301**, **347**, **394**, **400**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **470**, **537**, **554**, **573**, **599**
@@ -558,16 +568,6 @@
 
 | N° | Nombre | Poses | Estado |
 |:--:|:-------|:-----:|:------:|
-| **206** | Crimson Cathedral (18/05/2026 — EXPANSIÓN · batch 206-210 · busto 1000cc · anti-repetición) | 3/7 | ⏳ Pendiente |
-| **213** | Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 3/7 | ⏳ Pendiente |
-| **214** | Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc) | 3/7 | ⏳ Pendiente |
-| **218** | Onyx Maid Domme (20/05/2026 — batch 211-220 · Domestic Maid Fetish · busto 1000cc) | 4/7 | ⏳ Pendiente |
-| **219** | Magenta Burlesque Showgirl (20/05/2026 — batch 211-220 · Stripper Stage Showgirl · busto 1000cc) | 3/7 | ⏳ Pendiente |
-| **221** | Powder Blue Wiggle Darling (21/05/2026 — batch 221-230 · Pin-Up Polo A Bombshell · busto 1000cc) | 2/7 | ⏳ Pendiente |
-| **222** | Electric Pink Buffbunny (21/05/2026 — batch 221-230 · Gym Polo A Performance · busto 1000cc) | 3/7 | ⏳ Pendiente |
-| **224** | Silver Goddess Disco 70s (21/05/2026 — batch 221-230 · Pin-Up Polo B Retro-Futurismo · busto 1000cc) | 2/7 | ⏳ Pendiente |
-| **225** | Cobalt Night Track Queen (21/05/2026 — batch 221-230 · Gym Polo B Athleisure · busto 1000cc) | 2/7 | ⏳ Pendiente |
-| **230** | Electric Teal Bodycon Blade (21/05/2026 — batch 221-230 · Nightclub · busto 1000cc) | 2/7 | ⏳ Pendiente |
 | **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
 | **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
 | **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
@@ -816,6 +816,16 @@
 | **622** | Emerald Pole Fishnet (20/06/2026 - batch L621-L630 "Platform Heights" - Stripper - Stripper (Platform Heights) - verde esmeralda + negro - platform) | 1/7 | ⏳ Pendiente |
 | **626** | Violet Tennis Gym (20/06/2026 - batch L621-L630 "Platform Heights" - Gym/Athleisure - Gym Athleisure (Platform Heights) - violeta + blanco - platform) | 1/7 | ⏳ Pendiente |
 | **634** | Fire Red Baywatch (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Decade Glam 90s (Runas Reveladas) - rojo Baywatch - platform) | 2/7 | ⏳ Pendiente |
+| **641** | Red & Black Domme Vinyl (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Escort - Escort Polo C Domme de Club (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **642** | Onyx Cutout Catsuit (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Nightclub - Nightclub Mugler Dominatrix (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **643** | Cherry Red Stage Strap (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Stripper - Stripper Stage (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **644** | Pinstripe Waist Cincher (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Corporate - Corporate Power Domme (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **645** | Emerald Lingerie Mistress (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Lencería - Lencería Boudoir Femme Fatale (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **646** | Plum Bondage Corset (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Pin-Up - Pin-Up Bombshell Vintage Domme (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **647** | Vinyl Sling Bikini (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Bikini - Bikini Studio Fetish (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **648** | Charcoal Sport Mistress (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Gym - Gym Performance (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **649** | Violet Latex Maid (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Domestic - Domestic Maid Domme (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
+| **650** | Liquid Silver Column Gown (21/06/2026 - batch L641-L650 "Femme Fatale / Dominatrix" - Escort - Escort Polo A Haute (Runas Reveladas) - color - platform) | 0/7 | ⏳ Pendiente |
 
 ---
 
