@@ -1,0 +1,1 @@
+hay un salto de tiempo? sería bueno que pasen unos días y contar lo que pasó en esos dias
