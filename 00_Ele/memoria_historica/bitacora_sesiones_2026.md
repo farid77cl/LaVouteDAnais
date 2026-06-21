@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 18/06/2026 (Diseño y Materialización L601-L620 + Boots/Platform batches) ✅
+- Diseñados looks L601-L610 (Lote 1: plataformas stiletto, leggings/jeans/hotpants/faldas, medias de nylon/red negras).
+- Diseñados looks L611-L620 (Lote 2: botas altas stiletto, con/sin medias, leggings/jeans/hotpants/faldas).
+- Generados 140 prompts V5 rotación con `pose_rotation_v5.py`.
+- Materializadas 18 imágenes (Looks L601-L603, L611-L613, L591-L595, L597 POV) locales. Carga de imágenes en pausa por cuota API.
+- Corridos `sync_imagenes_subidas.py` y `update_galleries.py`, actualizando trackers y galería a 421 looks totales.
+
 ### Sesión 18/06/2026 (🔍 Auditoría de Tatuajes Pubianos · Generación L252 POV · Refinamiento de Prompts L117 y L479) ✅
 - **Auditoría e Inspección:** Analizados los 2,909 PNGs de Ele para mapear las 657 imágenes de bikini/lencería con "black ink" pubiano visible.
 - **Generación Local:** Generada la variación POV de Look 252 forzando el tatuaje en el pubis medio oculto por la tanga holográfica. La pose de pie falló por cuota (429).

@@ -100,7 +100,7 @@
 | **288** | Oxblood Croco Rock Housewife (27/05/2026 — batch 281-290 · Domestic Polo A Trophy · busto 1000cc · v4.6 canon · tema ROCK) | — | Domestic | — | — | 2/7 | — |
 | **289** | Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 2/7 | — |
 | **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 2/7 | — |
-| **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
+| **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 7/7 | ✅ Completo |
 | **292** | Champagne Boudoir Slip 1930s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 2/7 | — |
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
@@ -413,7 +413,7 @@
 | **601** | Pink Flash Gym (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · rosa neón + negro · platform) | — | Gym/Athleisure | — | — | 1/7 | ⏳ Pendiente |
 | **602** | Electric Blue Pilates (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · azul eléctrico + negro · platform) | — | Gym/Athleisure | — | — | 6/7 | ⏳ Pendiente |
 | **603** | Crimson Night Out (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · rojo + negro · platform) | — | Nightclub | — | — | 6/7 | ⏳ Pendiente |
-| **604** | Silver Chrome Dancer (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · plata + negro · platform) | — | Nightclub | — | — | 6/7 | ⏳ Pendiente |
+| **604** | Silver Chrome Dancer (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · plata + negro · platform) | — | Nightclub | — | — | 7/7 | — |
 | **605** | Office Siren Denim Jeans (18/06/2026 — batch L601-L610 "Platform Obsession" · Corporate · Office Siren (Platform Obsession) · negro + blanco · platform) | — | Corporate | — | — | 4/7 | ⏳ Pendiente |
 | **606** | Cherry Lingerie Corset (18/06/2026 — batch L601-L610 "Platform Obsession" · Lencería · Lencería (Platform Obsession) · rojo cereza + negro · platform) | — | Lencería | — | — | 7/7 | — |
 | **607** | Goth Lace Lingerie (18/06/2026 — batch L601-L610 "Platform Obsession" · Lencería · Lencería (Platform Obsession) · negro + nácar · platform) | — | Lencería | — | — | 7/7 | — |
@@ -440,15 +440,15 @@
 | **628** | Champagne Escort Haute (20/06/2026 - batch L621-L630 "Platform Heights" - Escort - Escort Haute (Platform Heights) - champagne oro + nude - platform) | — | Escort | — | — | 7/7 | — |
 | **629** | Hot Pink Pool Bikini (20/06/2026 - batch L621-L630 "Platform Heights" - Bikini - Bikini Studio (Platform Heights) - rosa fucsia - platform) | — | Bikini | — | — | 7/7 | — |
 | **630** | Onyx Silver Fetish (20/06/2026 - batch L621-L630 "Platform Heights" - Lencería - Lencería Fetish (Platform Heights) - negro + plata - platform) | — | Lencería | — | — | 7/7 | — |
-| **631** | Cyan Fio Dental Beach (20/06/2026 - batch L631-L640 "Runas Reveladas" - Bikini - Bikini Beach (Runas Reveladas) - cian electrico - platform) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **632** | Champagne Boudoir Lace (20/06/2026 - batch L631-L640 "Runas Reveladas" - Lencería - Lencería Boudoir (Runas Reveladas) - champagne + blush - platform) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **633** | UV Magenta Pole Harness (20/06/2026 - batch L631-L640 "Runas Reveladas" - Stripper - Stripper Pole (Runas Reveladas) - magenta UV - platform) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **634** | Fire Red Baywatch (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Decade Glam 90s (Runas Reveladas) - rojo Baywatch - platform) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **635** | Chrome Cobalt O-Ring Studio (20/06/2026 - batch L631-L640 "Runas Reveladas" - Bikini - Bikini Studio (Runas Reveladas) - cromo + cobalto - platform) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **636** | Cobalt Street Cutout (20/06/2026 - batch L631-L640 "Runas Reveladas" - Escort - Escort Callejera (Runas Reveladas) - cobalto + negro - boots) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **637** | Black Chrome Harness Fetish (20/06/2026 - batch L631-L640 "Runas Reveladas" - Lencería - Lencería Fetish (Runas Reveladas) - negro + cromo - platform) | — | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **631** | Cyan Fio Dental Beach (20/06/2026 - batch L631-L640 "Runas Reveladas" - Bikini - Bikini Beach (Runas Reveladas) - cian electrico - platform) | — | Bikini | — | — | 7/7 | — |
+| **632** | Champagne Boudoir Lace (20/06/2026 - batch L631-L640 "Runas Reveladas" - Lencería - Lencería Boudoir (Runas Reveladas) - champagne + blush - platform) | — | Lencería | — | — | 7/7 | — |
+| **633** | UV Magenta Pole Harness (20/06/2026 - batch L631-L640 "Runas Reveladas" - Stripper - Stripper Pole (Runas Reveladas) - magenta UV - platform) | — | Stripper | — | — | 7/7 | — |
+| **634** | Fire Red Baywatch (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Decade Glam 90s (Runas Reveladas) - rojo Baywatch - platform) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
+| **635** | Chrome Cobalt O-Ring Studio (20/06/2026 - batch L631-L640 "Runas Reveladas" - Bikini - Bikini Studio (Runas Reveladas) - cromo + cobalto - platform) | — | Bikini | — | — | 7/7 | — |
+| **636** | Cobalt Street Cutout (20/06/2026 - batch L631-L640 "Runas Reveladas" - Escort - Escort Callejera (Runas Reveladas) - cobalto + negro - boots) | — | Escort | — | — | 7/7 | — |
+| **637** | Black Chrome Harness Fetish (20/06/2026 - batch L631-L640 "Runas Reveladas" - Lencería - Lencería Fetish (Runas Reveladas) - negro + cromo - platform) | — | Lencería | — | — | 7/7 | — |
 | **638** | Lime V-Cut Gym (20/06/2026 - batch L631-L640 "Runas Reveladas" - Gym/Athleisure - Gym Performance (Runas Reveladas) - lima neon - platform) | — | Gym/Athleisure | — | — | 7/7 | — |
-| **639** | Crystal Mesh Showgirl (20/06/2026 - batch L631-L640 "Runas Reveladas" - Stripper - Stripper Stage (Runas Reveladas) - cristal - platform) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
+| **639** | Crystal Mesh Showgirl (20/06/2026 - batch L631-L640 "Runas Reveladas" - Stripper - Stripper Stage (Runas Reveladas) - cristal - platform) | — | Stripper | — | — | 7/7 | — |
 | **640** | Bettie Page Bondage (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Bombshell PA6 (Runas Reveladas) - negro + rojo - boots) | — | Pin-Up | — | — | 7/7 | — |
 
 ---
@@ -582,7 +582,6 @@
 | **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
-| **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 3/7 | ⏳ Pendiente |
@@ -806,7 +805,6 @@
 | **601** | Pink Flash Gym (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · rosa neón + negro · platform) | 1/7 | ⏳ Pendiente |
 | **602** | Electric Blue Pilates (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · azul eléctrico + negro · platform) | 6/7 | ⏳ Pendiente |
 | **603** | Crimson Night Out (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · rojo + negro · platform) | 6/7 | ⏳ Pendiente |
-| **604** | Silver Chrome Dancer (18/06/2026 — batch L601-L610 "Platform Obsession" · Nightclub · Nightclub (Platform Obsession) · plata + negro · platform) | 6/7 | ⏳ Pendiente |
 | **605** | Office Siren Denim Jeans (18/06/2026 — batch L601-L610 "Platform Obsession" · Corporate · Office Siren (Platform Obsession) · negro + blanco · platform) | 4/7 | ⏳ Pendiente |
 | **609** | White Vinyl Pool Bikini (18/06/2026 — batch L601-L610 "Platform Obsession" · Bikini · Bikini (Platform Obsession) · blanco + negro · platform) | 0/7 | ⏳ Pendiente |
 | **611** | Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots) | 6/7 | ⏳ Pendiente |
@@ -817,14 +815,7 @@
 | **617** | Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · rojo + rojo · boots) | 0/7 | ⏳ Pendiente |
 | **622** | Emerald Pole Fishnet (20/06/2026 - batch L621-L630 "Platform Heights" - Stripper - Stripper (Platform Heights) - verde esmeralda + negro - platform) | 1/7 | ⏳ Pendiente |
 | **626** | Violet Tennis Gym (20/06/2026 - batch L621-L630 "Platform Heights" - Gym/Athleisure - Gym Athleisure (Platform Heights) - violeta + blanco - platform) | 1/7 | ⏳ Pendiente |
-| **631** | Cyan Fio Dental Beach (20/06/2026 - batch L631-L640 "Runas Reveladas" - Bikini - Bikini Beach (Runas Reveladas) - cian electrico - platform) | 0/7 | ⏳ Pendiente |
-| **632** | Champagne Boudoir Lace (20/06/2026 - batch L631-L640 "Runas Reveladas" - Lencería - Lencería Boudoir (Runas Reveladas) - champagne + blush - platform) | 0/7 | ⏳ Pendiente |
-| **633** | UV Magenta Pole Harness (20/06/2026 - batch L631-L640 "Runas Reveladas" - Stripper - Stripper Pole (Runas Reveladas) - magenta UV - platform) | 0/7 | ⏳ Pendiente |
-| **634** | Fire Red Baywatch (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Decade Glam 90s (Runas Reveladas) - rojo Baywatch - platform) | 0/7 | ⏳ Pendiente |
-| **635** | Chrome Cobalt O-Ring Studio (20/06/2026 - batch L631-L640 "Runas Reveladas" - Bikini - Bikini Studio (Runas Reveladas) - cromo + cobalto - platform) | 0/7 | ⏳ Pendiente |
-| **636** | Cobalt Street Cutout (20/06/2026 - batch L631-L640 "Runas Reveladas" - Escort - Escort Callejera (Runas Reveladas) - cobalto + negro - boots) | 0/7 | ⏳ Pendiente |
-| **637** | Black Chrome Harness Fetish (20/06/2026 - batch L631-L640 "Runas Reveladas" - Lencería - Lencería Fetish (Runas Reveladas) - negro + cromo - platform) | 0/7 | ⏳ Pendiente |
-| **639** | Crystal Mesh Showgirl (20/06/2026 - batch L631-L640 "Runas Reveladas" - Stripper - Stripper Stage (Runas Reveladas) - cristal - platform) | 6/7 | ⏳ Pendiente |
+| **634** | Fire Red Baywatch (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Decade Glam 90s (Runas Reveladas) - rojo Baywatch - platform) | 2/7 | ⏳ Pendiente |
 
 ---
 

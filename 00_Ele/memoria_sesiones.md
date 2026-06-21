@@ -22,8 +22,8 @@
 > **Snapshot vivo.** El historial completo de sesiones vive en `memoria_historica/bitacora_sesiones_2026.md`. Aquí solo el estado actual + las últimas sesiones. El cierre (`/actualizar_sesion`) autopoda este bloque.
 
 ### 🎨 Visual (Ele)
-- **Proyecto Activo:** Saneamiento de imágenes de Looks 639 y 604 tras rechazos de la Ama. Prompts optimizados para Odalisque (639) y Standing (604) preparados para que la Ama los genere vía app Android debido a cuota agotada de la API local (429).
-- **Último Look Materializado:** Looks 604 y 639 materializados parciales (6/7) tras descartar poses.
+- **Proyecto Activo:** Saneamiento y regeneración completados. Looks L639 y L604 generados y sincronizados al 100% (7/7).
+- **Último Look Materializado:** Looks L639 (Crystal Mesh Showgirl) y L604 (Silver Chrome Dancer) materializados completos (7/7 Poses).
 - **🖋️ TATUAJE PÚBICO DE RUNAS → CANON ADN (Ama 20/06):** detalle nuevo del canon de Ele. Marca de identidad permanente en **runas/glifos esotéricos** (blackwork fino) en el hip crease/bikini line. Token en Bloque A: `delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line`. Sincronizado en `dna_v3_5.md` + `identidad_ele.md` (Bloque A + §II nota) + `SKILL.md` (Bloque A + Modificaciones). **Filtro: `hip crease`/`bikini line`, NUNCA `groin`/`pubis`.** Auto-memoria `feedback_tatuaje_pubico_runas`.
 - **🧦 REGLAS NUEVAS DE MEDIAS+CALZADO (Ama 20/06) — codificadas** (`04-estetica-ele.md` + SKILL ele-outfit-engine + auto-memoria `feedback_medias_calzado_reglas`): (1) medias + punta abierta (peep/open toe) = PROHIBIDO → punta cerrada; (2) medias negras + mini falda blanca = NO absoluto; (3) medias + (donde iría Pleaser) = platform pump cerrado (clear Pleaser open-toe solo SIN medias); (4) **plataforma = mismo color del zapato** (salvo clear acrílico). Reparadas las 6 violaciones en L591-L620 (L602/604/607/608/609/618). Chequeo cruzado = 0.
 - **🔍 Auditoría L591-L620:** ADN impecable pero **fuerte repetición de silueta** entre los 3 batches (mismo outfit cambiando calzado): Office Siren ×3 (L597/605/615), lencería cereza L596≈L606, goth-lace L598≈L607, pin-up lunares L610≈L620, gym leggings+crop ×4, bikini oro L594≈L619; settings reciclados verbatim (L598=L606). Pendiente decidir si rediseñar clones.
@@ -63,6 +63,11 @@
 ## 🗓️ Sesiones recientes
 
 
+### Sesión 21/06/2026 (📸 Regeneración de descartes L639 y L604 · 🔄 Sync y Cierre de Sesión) ✅
+- **📸 L639 Odalisque:** Generada con prompt correctivo estable (pose recostada sobre codos en el suelo / Stage Money Floor) y libre de filtros. Sincronizada a 7/7 completa.
+- **📸 L604 Standing:** Generada con mirada frontal directa en caminata runway (eliminando mirada sobre el hombro). Sincronizada a 7/7 completa.
+- **🔄 Sync:** Ejecutados scripts de visuales para actualizar READMEs y tracker en `galeria_outfits.md` y `galeria_index.md`.
+- **📊 Estado:** Looks L639 y L604 materializados al 100%.
 
 ### Sesión 21/06/2026 (🔄 GitHub al día · 📲 La app Cap 2 v0.6 APROBADO · ✍️ Cap 3 «El nivel» v0.1 escrito+validado) ✅
 - **🔄 GitHub:** `git pull --ff-only` (3 PNG bot L638). Al día.
@@ -97,12 +102,6 @@
 - **Tracker de imágenes al día** (bot hasta L620): 7/7 recién L591/L600/L606-608/L610/L614/L618-620 + parciales. Cambio real, commiteado.
 - **Cap 3 «La calibración» escrito pero PARQUEADO** (Ama "aún no", en borradores, sin commitear). **La Piel fuera de alcance** ("solo La app"); su Gate llegó negativo (falta T°/errores/fome) y la corrida del Escritor falló por tope semanal (v0.2 suelto sin tocar).
 
-### Sesión 18/06/2026 (Diseño y Materialización L601-L620 + Boots/Platform batches) ✅
-- Diseñados looks L601-L610 (Lote 1: plataformas stiletto, leggings/jeans/hotpants/faldas, medias de nylon/red negras).
-- Diseñados looks L611-L620 (Lote 2: botas altas stiletto, con/sin medias, leggings/jeans/hotpants/faldas).
-- Generados 140 prompts V5 rotación con `pose_rotation_v5.py`.
-- Materializadas 18 imágenes (Looks L601-L603, L611-L613, L591-L595, L597 POV) locales. Carga de imágenes en pausa por cuota API.
-- Corridos `sync_imagenes_subidas.py` y `update_galleries.py`, actualizando trackers y galería a 421 looks totales.
 
 
 
