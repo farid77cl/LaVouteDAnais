@@ -1,1 +1,1 @@
-hay un salto de tiempo? sería bueno que pasen unos días y contar lo que pasó en esos dias
+hay un salto de tiempo? sería bueno que pasen unos días y contar lo que pasó en esos dias. cuando Tomi hablé que sea más Bimbo, ya es más tonta, así que debe sonar su lenguaje más tonto,.menos complicado 
