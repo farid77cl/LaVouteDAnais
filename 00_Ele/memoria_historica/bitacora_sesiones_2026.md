@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 18/06/2026 (👢 Batch L591-L600 "Boot Obsession" · 70 prompts con V5 rotación y anclas) ✅
+- **Rechazo y Rediseño:** La Ama no quiso el tema de literatura; rediseñamos un lote de 10 looks centrado en botas sobre y bajo rodilla, con/sin plataforma, combinadas con leggings, jeans de vinilo, hotpants, skorts y faldas pequeñas.
+- **Step 0 y Metas:** Priorizamos categorías con déficit (Corporate ×2 [Power + Siren], Lencería ×2, Bikini ×2, Gym ×2, Escort ×1, Nightclub ×1).
+- **Control de Calidad:** 0 guantes, 0 chunky, calzado aguja stiletto/Pleaser con 8 atributos. Variedad de settings comprobada con 0 advertencias.
+- **Generación:** 70 prompts generados con rotación V5 y anclas anatómicas automáticas, creadas las carpetas y READMEs y agregados a `galeria_outfits.md`.
+
 ### Sesión 17/06/2026 (📲 «La app» relato nuevo · Caps 1-2 escritos · 🫦 calibración sensual de la voz) ✅
 - **Brainstorm 6 premisas futuras** (favoritas Ama #6 collar, #4 app); guardadas en `project_semillas_relatos_futuros`.
 - **«La app» (Nivel 4):** POV dual alternado (Cata+Tomi), ella no cacha hasta tarde, final del ciclo. Aparato = gamificación (racha=calendario). Compositor → canon + cronologia (5 pivotes, 10 hechos plantados).
