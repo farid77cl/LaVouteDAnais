@@ -1,9 +1,34 @@
-# Look 640: Bettie Page Bondage
+# 🖼️ Galería: look640_bettie_page_bondage
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Bikini de vinilo negro bien abajo, las runas sobre el borde de las medias, cincher rojo... Bettie con mi marca.
+Total imágenes: 7
 
-- Categoria: Pin-Up / Pin-Up Bombshell PA6 (Runas Reveladas)
-- Batch: batch L631-L640 "Runas Reveladas"
-- Prompts: ver `00_Ele/galeria_outfits.md` (Look 640)
+## Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![ele_640_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_back_view.png) | ![ele_640_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_ditzy.png) | ![ele_640_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_odalisque.png) |
+| ![ele_640_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_pov.png) | ![ele_640_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_seated.png) | ![ele_640_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_side_profile.png) |
 
-### Imagenes (0/7 — Pendiente cuota API)
+---
+
+## 📸 Vista Previa Completa
+
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_640_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_back_view.png) | ![ele_640_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_ditzy.png) | ![ele_640_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_odalisque.png) | ![ele_640_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_pov.png) |
+| ![ele_640_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_seated.png) | ![ele_640_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_side_profile.png) | ![ele_640_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_standing.png) |
+
+
+---
+
+## 📜 Lista de Archivos (Descarga Directa)
+- [ele_640_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_back_view.png)
+- [ele_640_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_ditzy.png)
+- [ele_640_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_odalisque.png)
+- [ele_640_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_pov.png)
+- [ele_640_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_seated.png)
+- [ele_640_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_side_profile.png)
+- [ele_640_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look640_bettie_page_bondage/ele_640_standing.png)
+
+---
+*Sincronizado con GitHub.* 👄
