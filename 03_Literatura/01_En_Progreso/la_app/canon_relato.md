@@ -37,15 +37,22 @@ Catalina ("Cata") le instala a su pololo Tomás ("Tomi") una app de "autoestima 
 - **Qué ocurre:** Cata por fin cacha que cambió —el espejo, un antojo, una palabra que le salió distinta— e intenta parar. Ya no hay botón de apagado. La app es dueña total.
 - **Por qué excita:** el terror de cuánto le gusta. Descubrir el deseo desde adentro, ya tarde, sin marcha atrás.
 - **Emoción objetivo:** pánico + rendición + alivio prohibido.
-- **Error fatal:** que llegue a la lucidez plena demasiado pronto. El destello en Cap 2 lo NIEGA; la cuenta total es en Cap 3.
-- **Ubicación temporal:** Día 7 / Cap 3.
+- **Error fatal:** que llegue a la lucidez plena demasiado pronto. El destello en Cap 2 lo NIEGA; en Cap 3 (Día 7) el destello **escala y casi se vuelve innegable, pero lo racionaliza una última vez** (la app la premia justo ahí y la distrae); la **cuenta total** recién es en Cap 4 (Día ~14).
+- **Ubicación temporal:** apertura en Día 7 / Cap 3 (la grieta escala, negada); cuenta total en Día ~14 / Cap 4.
+
+### Pivote 4.5 — El Nivel 2 (la cocción lenta — la racha no muere)
+- **Qué ocurre:** al completar la primera racha de 7 días, la app NO termina: premia *"¡Semana completa! Nivel 2 desbloqueado"* y abre una segunda etapa donde **el condicionamiento se gira hacia Cata** — ahora a ELLA le llegan los desafíos (los feminizantes, los de "soltar", los de "calibrar más seguido"), disfrazados de recompensa por buena alumna.
+- **Por qué excita:** es el momento en que la trampa se ve del todo y ella sigue creyéndose la dueña, premiada por avanzar de nivel mientras avanza su propia caída. La gamificación muestra los dientes: subir de nivel ES hundirse más.
+- **Emoción objetivo:** vértigo (lector) + orgullo de alumna (Cata).
+- **Error fatal:** que la app explique que el Nivel 2 es para ella. NUNCA explica. Solo sube de nivel y felicita.
+- **Ubicación temporal:** bisagra Día 7 → Cap 3 cierre (desbloqueo) · corre en Cap 4 (Día 8-14).
 
 ### Pivote 5 — El siguiente (el ciclo)
 - **Qué ocurre:** ya bimbo, Cata abre la app, pide su "próximo sujeto de calibración", elige a un tercero nombrado (la Javi) y le manda la invitación. *"Ahora te toca a ti."*
 - **Por qué excita:** el hambre dicha en voz alta, la rueda que no para, ella convertida en la mano de la máquina.
 - **Emoción objetivo:** hambre + vértigo + dulzura siniestra.
 - **Error fatal:** cerrar con paz o redención. SIN PAZ. Puerta abierta a segunda parte.
-- **Ubicación temporal:** Día 7 (cierre) / Cap 3.
+- **Ubicación temporal:** Día ~14 (cierre) / Cap 4.
 
 ---
 
@@ -93,13 +100,16 @@ La que aprieta el botón es la que termina apretada. El morbo es la **ironía dr
 
 ## 6. Mapa de Capítulos (estructura minimalista)
 
-| Cap | Pivote(s) | Mecanismo dominante | Beat de ironía | Cierre / cliffhanger |
-|-----|-----------|---------------------|----------------|----------------------|
-| 1 — La instalación / la dueña | P1, P2 | Soberbia operadora + primer calor condicionado de Tomi; Cata se hace la calibración (semilla) | Cata cree afinar la herramienta para él; en verdad se calibra a sí misma | A ELLA le llega *"¡Racha iniciada! Día 1 🔥"* y no lo registra del todo |
-| 2 — La racha / el cruce | P3 | Tomi visiblemente feminizándose; Cata no puede saltarse el día — el cruce | Le da una orden a Tomi y se encuentra obedeciendo a la app en la misma escena | Cata pilla un destello de que cambió (espejo / antojo / palabra) y lo niega |
-| 3 — La calibración / el siguiente | P4, P5 | La cuenta tarde, bimboficación plena de Cata, rendición total, sin off-switch | Ella, que envió la invitación, recibe ahora la suya cumplida — y la pasa | Abre la app, elige a la Javi, manda la invitación. *"Ahora te toca a ti."* FIN abierto |
+> **COCCIÓN LENTA — arco de 4 capítulos / 14 días / 2 rachas (decisión Ama 20/06/2026).** Se separó el final atropellado (P4+P5 en un cap) en dos, y se estiró el calendario más allá del Día 7 con el **Nivel 2** (P4.5): la racha no muere a la semana, se gira hacia Cata. Así su bimboficación es una pendiente (Día 7→14), no un acantilado. Cada racha tiene función propia (Racha 1 = cocina a Tomi a la vista / Racha 2 = cocina a Cata, negada→rota).
 
-*Cada capítulo: escena/situación sexual desarrollada que DESCARGUE + cierre en cliffhanger. POV dual alternado, secciones demarcadas, voces distintas. T° de cierre = piso del siguiente cap.*
+| Cap | Día | Pivote(s) | Mecanismo dominante | Beat de ironía | Cierre / cliffhanger |
+|-----|-----|-----------|---------------------|----------------|----------------------|
+| 1 — La instalación / la dueña | Día 1 | P1, P2 | Soberbia operadora + primer calor condicionado de Tomi; Cata se hace la calibración (semilla) | Cata cree afinar la herramienta para él; en verdad se calibra a sí misma | A ELLA le llega *"¡Racha iniciada! Día 1 🔥"* y no lo registra del todo |
+| 2 — La racha / el cruce | Día 4 | P3 | Tomi visiblemente feminizándose; Cata no puede saltarse el día — el cruce | Le da una orden a Tomi y se encuentra obedeciendo a la app en la misma escena | Cata pilla un destello de que cambió (espejo / antojo / palabra) y lo niega |
+| 3 — La semana / el nivel | Día 7 | P4 (apertura), **P4.5** | Tomi termina de mudarse (cuerpo casi pleno de mujer); el destello de Cata escala y casi se vuelve innegable — pero la racha llega a 7 y la app premia la **semana completa** abriendo Nivel 2: el condicionamiento **se gira a ella** (sus propios desafíos) | Sube de nivel (se siente buena alumna) justo cuando el aparato la apunta a ella; subir de nivel ES hundirse | *"¡Semana completa! Nivel 2 desbloqueado 💗"* — la racha **no termina, sube**. Cata racionaliza una última vez |
+| 4 — La cuenta / el siguiente | Día ~10-14 | P4 (cierre), P5 | La cuenta total tarde, bimboficación plena de Cata, rendición (*"el premio es rendirte"*), sin off-switch; la voracidad redirigida | Ella, que envió la invitación, recibe ahora la suya cumplida — y la pasa | Abre la app, elige a la Javi, manda la invitación. *"Ahora te toca a ti."* FIN abierto |
+
+*Cada capítulo: escena/situación sexual desarrollada que DESCARGUE + cierre en cliffhanger. POV dual alternado, secciones demarcadas, voces distintas. T° de cierre = piso del siguiente cap. **Disciplina anti-repetición (cocción lenta):** ningún capítulo repite el mismo latido — cada racha/nivel escala una función distinta, el cuerpo de Tomi se cierra en Cap 3 para que el Cap 4 sea entero de Cata.*
 
 ---
 
@@ -128,6 +138,7 @@ verga · coño · coger · tirar · mojada · pololo / polola · cachar / cachai
 - *"Ahora te toca a ti."* (cierre del relato — el ciclo, dicha por Cata al siguiente sujeto)
 - *"No rompas la racha."* (microcopia / mantra de la app — el ancla del enganche)
 - *"Sujeta de calibración."* (la categoría que la app le asigna a Cata — su trampa con nombre dulce)
+- *"¡Semana completa! Nivel 2 desbloqueado."* (bisagra de la cocción lenta — la racha no muere a los 7 días, sube de nivel y se gira hacia Cata; Cap 3 cierre)
 - *"El premio es rendirte."* (escalada final de la app — cuando ya es dueña total)
 
 ---

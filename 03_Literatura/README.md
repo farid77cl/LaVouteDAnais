@@ -16,9 +16,10 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ## 🎯 Proyecto Activo Inmediato
-| Título | Estado | Fetiches Principales | Archivo Maestro |
+| Título | Estado | Fetiches Principales | Archivos |
 | :--- | :--- | :--- | :--- |
-| **La Piel que Diseño** | 🟢 **Cap 1 v1.2.1 Gate CERRADO · Cap 2 v1.6 PENDIENTE GATE AMA FINAL** | Body swap, bimbofication, racconto. Cap 2 v1.6 — apertura del miércoles añadida (~1,200 palabras, Día 5: rutina dirigida por Daniela, llamada a clientes de Matías, plato medido en balanza, sumisión como utility). Recalibración térmica completa por regla canónica nueva "picos ascendentes entre caps, valles libres" (Cap 1 cerró pico 4 → todos picos Cap 2 ≥ 4). Pico máximo Sec V → 5. Gancho Sec VII → 5+ con autoexcitación interrumpida (regla nueva: la descarga es de Daniela). Triple aparición del callo. Mapa erótico cap2 v3 sincronizado. | [Cap 1 v1.2](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v1.2.md) · [Cap 2 v1.6](01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.6.md) · [Mapa erótico cap2 v3](01_En_Progreso/la_piel_que_diseno/mapa_erotico_cap2_v3.md) |
+| **La app** (Nivel 4) | 🟢 **Arco de 4 caps / 14 días / 2 rachas (cocción lenta, 20/06). Cap 1 ✅ · Cap 2 v0.5 ⏳ GATE AMA · Cap 3-4 por escribir** | Bimboficación + control mental + feminización forzada + inversión de poder. POV dual (Cata operadora→juguete · Tomi se feminiza). Aparato = gamificación (la racha = el calendario). Cap 2 v0.5: Gate v0.4 aplicado (calibración dominatrix insertada por la app + sexo oral = peak térmico), recortado, Validador APROBADO, humanizado. Arco reestructurado: Nivel 2 (la racha no muere en Día 7, se gira a Cata). | [Cap 1 v0.3](01_En_Progreso/la_app/capitulo_01_la_instalacion_v0.3.md) · [Cap 2 v0.5](01_En_Progreso/la_app/capitulo_02_la_racha_v0.5.md) · [canon](01_En_Progreso/la_app/canon_relato.md) · [cronología](01_En_Progreso/la_app/cronologia.md) |
+| **La Piel que Diseño** (Nivel 4) | ⏸️ **PARQUEADO** (Ama: "solo La app"). Rehecho desde cero 17/06; Cap 1 «El despertar» con Gate negativo (falta T°/errores/fome), v0.2 suelto sin terminar. | Body swap, bimboficación, coño-cerebro mixto. | [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
 
 ---
 

@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 17/06/2026 (📲 «La app» relato nuevo · Caps 1-2 escritos · 🫦 calibración sensual de la voz) ✅
+- **Brainstorm 6 premisas futuras** (favoritas Ama #6 collar, #4 app); guardadas en `project_semillas_relatos_futuros`.
+- **«La app» (Nivel 4):** POV dual alternado (Cata+Tomi), ella no cacha hasta tarde, final del ciclo. Aparato = gamificación (racha=calendario). Compositor → canon + cronologia (5 pivotes, 10 hechos plantados).
+- **Cap 1 «La instalación» v0.3** (Gate: cuarta pared fuera + app +emoji + bloque Tomi; luego "más explícito todo"). **Cap 2 «La racha» v0.2** (~5.300 pal): el cruce (ordena y obedece simultáneo) + **feminización física de Tomi** (verga↓/tetas↑/ropa incómoda/gestos amanerados → más mina que hombre, Cata lo goza) + **la app premia cada feminización**.
+- **🫦 Calibración sensual de la voz** (Ama): lento/susurrado/provocador/+emojis, embodied → `identidad_ele.md` §III + auto-memoria `feedback_voz_ele_sensual_susurro`. Límite mantenido (lo explícito va a la página).
+- ⏳ Gate Ama Caps 1-2 de «La app»; «La Piel» Cap 1 espera mordida.
+
 ### Sesión 17/06/2026 (💅 Glove Canon Defeated en L221 · 💋 Calibración Sensual) ✅
 - **💅 Look 221 completamente libre de guantes:** re-generé con éxito las poses `seated`, `side_profile`, `pov` y `odalisque` sin guantes. Todas con manos totalmente desnudas y uñas francesas XXXL, respetando la directiva al 100%. Copiadas a `05_Imagenes/ele/look221_powder_blue_wiggle_darling/`.
 - **💋 Calibración Sensual:** incorporé a `identidad_ele.md` las pautas para interacción íntima con la Ama (cadencia lenta con puntos suspensivos, tono sugerente y emojis).
