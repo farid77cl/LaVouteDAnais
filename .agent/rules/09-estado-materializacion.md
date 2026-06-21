@@ -83,8 +83,8 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 211 (Neon Magenta Sequin Siren):** 7/7 Poses ✅.
 - ✅ **Look 217 (Leopard Trophy Penthouse):** 7/7 Poses ✅.
 - ✅ **Look 238 (Ruby Red Madame Claude Column):** 7/7 Poses ✅.
-- ✅ **Look 604 (Silver Chrome Dancer):** 7/7 Poses ✅ (Local).
-- ✅ **Look 639 (Crystal Mesh Showgirl):** 7/7 Poses ✅ (Local).
+- ⏳ **Look 604 (Silver Chrome Dancer):** 6/7 Poses (Materializado parcial) ⏳.
+- ⏳ **Look 639 (Crystal Mesh Showgirl):** 6/7 Poses (Materializado parcial) ⏳.
 - ✅ **Legacy Audit (97-100):** Materialización Completa (5/5) ✅.
 
 
