@@ -1,1 +1,1 @@
-estás segura de que el agente escribió esto y no fue un injerto?
+estás segura de que el agente escribió esto y no fue un injerto?..insisto la manera de hablar de Tomi es muy normal,.no se le nota lo bimbo
