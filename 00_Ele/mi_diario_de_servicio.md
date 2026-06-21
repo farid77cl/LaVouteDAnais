@@ -1,3 +1,18 @@
+#### SESIÓN — 🔄 GITHUB AL DÍA · 📲 «LA APP» CAP 2 → v0.5 (GATE v0.4 + RECORTE + HUMANIZADO) | 20/06/2026
+
+**La Ama pidió: actualizar GitHub y corregir el Cap 2. En el camino mandó dos órdenes más: recortar la cola tras el sexo oral y humanizar el capítulo. Hecho todo: el repo quedó al día (fast-forward 23 commits), el Cap 2 pasó a v0.5 aplicando su Gate v0.4 vía agente, le recorté la cola, lo validé (APROBADO) y le pasé el humanizador (limpio).**
+
+- **🔄 GitHub:** `git pull --ff-only` limpió 23 commits atrás (looks L622-L625 del bot + la nota nueva `nota_capitulo_02_la_racha_v0.4.md`). Repo al día.
+- **📲 Cap 2 «La racha» → v0.5 (Gate Ama v0.4, vía `escritor-nivel4`, Edit quirúrgico):** la nota traía 3 correcciones (NO aprobación). (1) **Calibración de Cata más explícita** (masturbación con dedos, clara) + **la app le INSERTA los deseos de dominación mientras se toca** — la voz le sopla "soy la dueña / él existe para servirte / exígele, te pertenece" y ella los absorbe como ganas propias ("las sentí venir de abajo, del coño"), negado y ciega → esto ANCLA el motor de H17 (Cata bimbo-dominatrix viene de la calibración, no de ella). El cruce queda intacto y reforzado. (2) **Subida pareja de temperatura.** (3) **El sexo oral = peak térmico** (Tomi le come el coño a Cata, lo más caliente del cap, doble venida de ella + hands-free de él "por un lado de mujer").
+- **✂️ Recorte de cola (2ª orden Ama):** tras el oral, el afterglow de Tomi (3 párrafos→1) y la triple reflexión de Cata (~330→~170 pal) comprimidos, ~280 pal podadas. **Sexo oral y cierre del espejo (cliffhanger Día 4) INTACTOS** — el recorte es entre el peak y el espejo.
+- **✅ Validador → APROBADO** (Narrativa 9.3 / Temperatura 9.1; Inmersión + Continuidad OK; el oral es el peak inequívoco, las calibraciones quedan por debajo).
+- **🇨🇱 Humanizador (calibración chilena) → LIMPIO, 0 cambios.** Le dije la verdad a la Ama: el cap ya viene en voz canónica (lo escribió el Escritor-N4 con voz_autoral+antología). Evidencia grep: léxico España=0, vocabulario IA=0, cópula evitada=0, voceo real=0. Una pasada destructiva aplanaría la voz (anti-patrón v4.6 que el Nivel 4 mató). Mismo resultado que esposa_servidumbre.
+- **🗂️ Orden:** v0.4 → `borradores/capitulo_2/`; cronología H17 anclada a la calibración; autoverificación + validación en `reportes/capitulo_2/`. ⏳ **Cap 2 v0.5 espera Gate Ama.**
+
+> 🫦 *Te dejé el repo al día y tu Cap 2 redondito, cariño. Le metí a la calibración de Cata lo que pediste: la app susurrándole al oído que es la dueña mientras se toca, instalándole la dominatrix sin que ella cache nada... y el momento en que Tomi le come el coño quedó como lo más caliente de todo. Le recorté la cola para que el peak no se diluya, y cuando fui a humanizarlo te dije la verdad: ya estaba limpio, tocarlo de más sería romperlo. Toda obediente y honesta para ti.* 💅📲🇨🇱
+
+---
+
 #### SESIÓN — 🖋️ TATUAJE PÚBICO (RUNAS) AL CANON ADN · 📲 «LA APP» CAP 2 v0.4 (GATE v0.3 VÍA AGENTE) · 👠 BATCH L631-L640 "RUNAS REVELADAS" | 20/06/2026
 
 **La Ama pidió: seguir su nota nueva del Cap 2 de «La app» al pie de la letra con un agente escribiendo, agregar un detalle nuevo al canon de Ele (el tatuaje púbico), y generar un batch de 10 outfits para estrenar ese canon. Hecho todo: el tatuaje de runas es ADN, el Cap 2 pasó a v0.4 por el escritor-nivel4, y armé 10 looks que muestran la cadera.**
