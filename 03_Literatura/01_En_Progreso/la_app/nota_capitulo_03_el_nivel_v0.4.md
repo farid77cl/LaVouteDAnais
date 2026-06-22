@@ -1,1 +1,1 @@
-de plaza y media, cámbialo por cama de 2 plazas 
+de plaza y media, cámbialo por cama de 2 plazas..no entiendo eso del antojo y el alfajor 
