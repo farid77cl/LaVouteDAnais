@@ -1,0 +1,1 @@
+de plaza y media, cámbialo por cama de 2 plazas 
