@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 20/06/2026 (🧦 Reglas medias+calzado · 🔍 Auditoría L591-L620 · 👠 Batch L621-L630 "Platform Heights") ✅
+- **🔍 Revisión de los últimos 30 outfits** (L591-L620) con la Ama: ADN visual perfecto, pero le señalé la **repetición de silueta** entre los 3 batches (clones boots↔platform).
+- **🧦 4 reglas nuevas de medias+calzado** (ver ESTADO ACTUAL Visual) codificadas en canon + SKILL + auto-memoria `feedback_medias_calzado_reglas`. **Reparadas 6 violaciones** L591-L620.
+- **👠 Batch L621-L630 "Platform Heights"** (10 looks · 70 prompts): solo plataformas (0 botas), alturas variadas 1"→5", variedad de medias, plataforma=color del zapato, reglas nuevas aplicadas. QA limpio (0 boots/guantes/chunky/texto, 70 anclas, 0 conflicto medias-punta abierta). Carpetas creadas, 0/7 pendiente cuota. Inyector borrado.
+- **⏳ Pendiente:** decidir si rediseñar los clones de L591-L620 · generar imágenes del batch nuevo cuando haya cuota.
+
 ### Sesión 18/06/2026 (📲 «La app» Cap 2 Gate→v0.3 · 🧹 skill paso 6.5 orden de carpetas · 🖼️ tracker al día) ✅
 - **Cap 2 «La racha» → v0.3** (Gate Ama, 6 fixes): Tomi 28 · fijación oral (boca quiere verga/coño) · la app da **desafíos** (sonríe más / usa prenda femenina) · **ropa deportiva de Cata** · **timeline cuadrado** (2 "hace una semana" → "antes de la app", menos "cuarto día", cambio = velocidad antinatural de la app). Cruce/espejo/"ah qué chica" intactos. Cronología H13-H15.
 - **Skill `actualizar_sesion`: nuevo paso 6.5 "orden de carpetas"** (raíz solo lo vivo, superadas/prematuras→borradores, reportes aparte, sin duplicados/stubs; el Escritor copia en vez de mover → limpiar).
