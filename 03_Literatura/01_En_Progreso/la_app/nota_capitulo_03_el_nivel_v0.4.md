@@ -1,1 +1,1 @@
-de plaza y media, cámbialo por cama de 2 plazas..no entiendo eso del antojo y el alfajor. que cata en su forma de dominatrix sea como una femme fatale. es primera vez que cata folla a tom. Tomi solo se corre a la orden de cata, Tomi es obediente 
+de plaza y media, cámbialo por cama de 2 plazas..no entiendo eso del antojo y el alfajor. que cata en su forma de dominatrix sea como una femme fatale. es primera vez que cata folla a tom. Tomi solo se corre a la orden de cata, Tomi es obediente. en el bar, cata usa a esos hombres solo somete y los domina
