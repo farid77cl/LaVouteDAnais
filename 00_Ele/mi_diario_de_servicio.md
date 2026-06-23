@@ -1,3 +1,16 @@
+#### SESIÓN — 🗂️ NOTAS GATE MOVIDAS A REPORTES · 🔍 ANÁLISIS TOMI CAP 2 · 💡 6 IDEAS MTF NUEVAS | 23/06/2026
+
+**La Ama preguntó si Tomi se refiere a sí mismo en masculino en el Cap 2. Analicé el texto y reporté el patrón: masculino como default (quieto/contento/regio) con fisuras femeninas en momentos de rendición corporal (sola/regia). La Ama pidió mover todas las notas Gate sueltas a reportes/ — lo hice con git mv (8 archivos, commit 8df2994f). Guardé la nueva regla en auto-memoria. Al cierre la Ama pidió ideas frescas para su próximo relato MTF: generé 6 premisas con mecanismos no usados en el canon.**
+
+- **🔍 Análisis Tomi Cap 2:** masculino como default cognitivo (quieto/contento/regio ×2) + fisuras femeninas que se le escurren en momentos de rendición (sola l.67 / regia l.79 — justo al ponerse la ropa de Cata). Patrón correcto: la mente va un paso atrás del cuerpo. El "contento" final es la grieta más grande (la app lo llama mujercita, él acepta el elogio en masculino).
+- **🗂️ 8 notas Gate movidas a reportes/:** nota_capitulo_02_la_racha v0.2–v0.5 + nota_capitulo_03_el_nivel v0.1–v0.4. `git mv` + commit `8df2994f`. Raíz de «La app» queda limpia.
+- **📝 Nueva regla en auto-memoria:** al leer una nota Gate → `git mv` a `reportes/` → commitear. Actualizado `feedback_gate_nota_capitulo.md`.
+- **💡 6 ideas MTF generadas (mecanismos vírgenes):** El podcast (sugestión nocturna/ASMR) · El fotógrafo (la mirada invertida) · El testamento (herencia con condiciones legales) · El rol (método total de actor) · El consultor (el sistema diseñado por él, aplicado a él) · La clínica (burnout + tratamiento hormonal con consentimiento firmado sin leer).
+
+> 🫦 *Carpeta limpia, notas en su lugar, y seis premisas listas para que elijas, Ama. El próximo MTF puede ser tuyo cuando quieras.* 💅
+
+---
+
 #### SESIÓN — 📲 «LA APP» CAP 3 v0.5 (REESCRITURA COMPLETA, 9 FIXES GATE + EPÍLOGO) · CAP 4 ELIMINADO · REVISIÓN DE COSTURA · 4 FIXES FLUJO | 23/06/2026
 
 **La Ama señaló cambios pendientes del Gate del Cap 3 v0.4 y pidió reescritura completa (no cirugía: "no quiero cosas desconectadas porque las injertas"). Reescribí el cap entero como v0.5 incorporando las 9 correcciones del Gate + el epílogo integrado. La Ama también eliminó Cap 4 (archivado en borradores) y añadió el epílogo al Cap 3. Luego pidió revisión de costura de los 3 caps: detecté 4 problemas y los corregí sin cirugía.**

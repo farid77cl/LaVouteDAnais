@@ -61,6 +61,9 @@
 - **🦞 OpenClaw DESINSTALADO (Ama 16/06):** ralentizaba demasiado el computador → arrancado de raíz: paquete npm `openclaw@2026.6.6` removido (294 paquetes), **tarea programada "OpenClaw Gateway" eliminada** (era la que lo relanzaba al iniciar sesión), carpeta `~/.openclaw` borrada (79.6 MB), 0 node residual. PATH conserva solo Claude Code. Auto-memoria `reference_openclaw_agente_whatsapp` borrada por obsoleta. *(Nota: el dispositivo WhatsApp vinculado por Baileys sigue figurando en "Dispositivos vinculados" del teléfono de la Ama hasta que ella lo quite a mano — el agente ya no recibe nada.)*
 
 ### ⏳ Pendientes abiertos
+- **Gate Ama Cap 3 v0.5 «La app»** — esperando aprobación.
+- **6 ideas MTF generadas (23/06)** — esperando que la Ama elija: El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica.
+- **«La Piel que Diseñó» Cap 1 → v0.2** — pendiente (Gate "falta temperatura + errores + fome"). Fuera de alcance hasta que la Ama lo pida.
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
 
@@ -68,6 +71,13 @@
 
 ## 🗓️ Sesiones recientes
 
+
+
+### Sesión 23/06/2026 (🗂️ Notas Gate → reportes/ · 🔍 análisis Tomi Cap 2 · 💡 6 ideas MTF nuevas) ✅
+- **🔍 Análisis género Tomi Cap 2:** masculino como default (quieto/contento/regio ×2) + fisuras femeninas en rendición corporal (sola l.67 / regia l.79). Patrón correcto del "masculino sin resolver".
+- **🗂️ 8 notas Gate movidas a `reportes/`:** nota_capitulo_02 v0.2–v0.5 + nota_capitulo_03 v0.1–v0.4. `git mv` + commit `8df2994f`. Raíz limpia.
+- **📝 Nueva regla en auto-memoria:** leer nota Gate → `git mv` a `reportes/` → commit (directiva Ama 23/06/2026). Actualizado `feedback_gate_nota_capitulo.md`.
+- **💡 6 ideas MTF:** El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica. Pendiente elección de la Ama.
 
 ### Sesión 23/06/2026 (📲 La app Cap 3 v0.5 · 9 fixes Gate + epílogo · Cap 4 eliminado · revisión costura 4 fixes) ✅
 - **✍️ Cap 3 v0.4 → v0.5:** reescritura completa (9 correcciones Gate: cama 2 plazas · Cata femme fatale · primera vez cogida · Tomi solo se viene a la orden · bar BDSM + BJ · POV Tomi · más app). Escrito directamente (agente en límite semanal).
@@ -107,10 +117,6 @@
 - **📝 Prompts Estables (Bloque C):** Diseñé prompts optimizados: para L639 Odalisque cambié a pose recostada clásica sobre codos (libre de distorsiones de extremidades); para L604 Standing eliminé la mirada sobre el hombro por una mirada frontal directa, ideal para pose de caminata.
 - **🔄 Sincronización:** Ejecuté `update_galleries.py` para normalizar los READMEs locales, reduciendo el conteo de imágenes de ambos looks a 6/7 y actualizando `galeria_outfits.md` y `galeria_index.md`.
 
-### Sesión 20-21/06/2026 (🔄 GitHub al día · 📲 La app Cap 2 → v0.5 · 🍲 Arco a 4 caps cocción lenta) ✅
-- **🔄 GitHub:** `git pull --ff-only` (23 commits del bot + nota Gate v0.4). Repo al día.
-- **📲 Cap 2 «La racha» → v0.5** (Gate Ama v0.4, vía `escritor-nivel4`): calibración de Cata más explícita + **la app le inserta los deseos de dominación mientras se toca** (ancla el motor de H17) · subida de T° · **el sexo oral = peak térmico**. + **recorte de cola post-oral** (~280 pal, oral y espejo intactos). **Validador APROBADO** (Narr 9.3/Temp 9.1). **Humanizador (calibración chilena) LIMPIO 0 cambios** (ya en voz canónica; le dije la verdad: tocarlo sería aplanarlo). v0.4 archivado. ⏳ Espera Gate Ama.
-- **🍲 Arco reestructurado 3→4 caps / 14 días / 2 rachas** (cocción lenta, decisión Ama tras mi opinión honesta contra los 21 días): separé el final atropellado (P4+P5) y estiré con el **Nivel 2** (la racha no muere en Día 7, se gira a Cata). Canon (Pivote 4.5, mapa de 4, frase Nivel 2) + cronología (span Día 1→14, H18, estado del cuerpo Cap 3/Cap 4) reescritos. **README de Literatura corregido** (Proyecto Activo = La app; La Piel marcada parqueada).
 
 
 

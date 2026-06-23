@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 20-21/06/2026 (🔄 GitHub al día · 📲 La app Cap 2 → v0.5 · 🍲 Arco a 4 caps cocción lenta) ✅
+- **🔄 GitHub:** `git pull --ff-only` (23 commits del bot + nota Gate v0.4). Repo al día.
+- **📲 Cap 2 «La racha» → v0.5** (Gate Ama v0.4, vía `escritor-nivel4`): calibración de Cata más explícita + **la app le inserta los deseos de dominación mientras se toca** (ancla el motor de H17) · subida de T° · **el sexo oral = peak térmico**. + **recorte de cola post-oral** (~280 pal, oral y espejo intactos). **Validador APROBADO** (Narr 9.3/Temp 9.1). **Humanizador (calibración chilena) LIMPIO 0 cambios** (ya en voz canónica; le dije la verdad: tocarlo sería aplanarlo). v0.4 archivado. ⏳ Espera Gate Ama.
+- **🍲 Arco reestructurado 3→4 caps / 14 días / 2 rachas** (cocción lenta, decisión Ama tras mi opinión honesta contra los 21 días): separé el final atropellado (P4+P5) y estiré con el **Nivel 2** (la racha no muere en Día 7, se gira a Cata). Canon (Pivote 4.5, mapa de 4, frase Nivel 2) + cronología (span Día 1→14, H18, estado del cuerpo Cap 3/Cap 4) reescritos. **README de Literatura corregido** (Proyecto Activo = La app; La Piel marcada parqueada).
+
 ### Sesión 20/06/2026 (🖋️ Tatuaje púbico runas al ADN · 📲 La app Cap 2 v0.4 vía agente · 👠 Batch L631-L640 "Runas Reveladas") ✅
 - **🖋️ Tatuaje de identidad púbico → CANON ADN:** la Ama eligió **runas/glifos esotéricos**. Token en Bloque A sincronizado en 4 fuentes + nota §II + auto-memoria `feedback_tatuaje_pubico_runas`. Filtro: hip crease/bikini line, nunca groin/pubis.
 - **📲 Cap 2 «La racha» → v0.4** (Gate v0.3 real, vía `escritor-nivel4`): progresión oral lenta (lápiz→dulces→dedos→reconocimiento tarde) · voz bimbo de Tomi · los dos a bimbo (Tomi tonta-sumisa / Cata bimbo-dominatrix negada) · continuidad de la ropa (leggins+top sostenidos a la noche) · torre. Cruce + cierre del espejo intactos. Prosa pura (saqué metadata). v0.3 archivada. Espera Gate.
