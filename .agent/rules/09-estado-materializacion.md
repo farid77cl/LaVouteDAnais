@@ -17,10 +17,11 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Flota Diseñada (último look)** | **L640** | 🟢 ~510 únicos |
+| **Flota Diseñada (último look)** | **L670** | 🟢 ~540 únicos |
 | **🖋️ Tatuaje púbico runas (Ama 20/06)** | marca de identidad ADN (Bloque A): `delicate blackwork rune-glyph identity tattoo… along one hip crease and bikini line`. Filtro: hip crease/bikini line, nunca groin/pubis. Estrenado en batch L631-L640 | ✅ Codificado |
-| **Último batch** | **L631-L640 "Runas Reveladas"** (10 looks · 70 prompts · todos exponen cadera/bikini line para estrenar el tatuaje de runas · Bikini×2/Lencería×2/Stripper×2/Pin-Up×2/Escort/Gym · reglas medias+calzado aplicadas · QA: 0 guantes/chunky/texto, 50 anclas, 0 conflicto medias+punta-abierta) | 🔮 Registrado (prompts) |
-| **Penúltimo batch** | **L621-L630 "Platform Heights"** (10 looks · 70 prompts · SOLO plataformas, 0 botas · alturas de plataforma variadas 1"→5" · variedad de medias (costura/red/nude/blanca/hold-up/2 sin) · plataforma=color del zapato · balance Lencería×2/Bikini×2/Stripper/Corporate/Pin-Up/Gym/Nightclub/Escort · QA: 0 boots/guantes/chunky/texto, 70 anclas, 0 conflicto medias+punta abierta) · Penúltimo **L611-L620 "Thigh-High Boots"** + **L601-L610 "Platform Obsession"** | 🔮 Registrado (prompts) |
+| **Último batch** | **L661-L670 "Cuero Negro Total"** (10 looks · 70 prompts · TODOS cuero/vinyl/latex negro · TODOS medias · TODOS plataforma cerrada · Nightclub/Escort/Domestic/Bikini/Stripper/Pin-Up/Gym/Corporate/Lencería/Gala · QA: 0 guantes/chunky/open-toe/clear-platform, tokens calzado ×7) | 🔮 Registrado (prompts) |
+| **Batch anterior** | **L651-L660 "Dominatrices"** (22/06 · Stripper Stage/Pole×2 · Lencería×2 · Corporate · Nightclub · Escort · HF Editorial · Pin-Up · Bikini) · **L641-L650 "Femme Fatale"** + **L631-L640 "Runas Reveladas"** + **L621-L630 "Platform Heights"** | 🔮 Registrados |
+| **🔧 Engine reparado (23/06)** | `pose_rotation_v5.py`: 3 variantes riesgosas retiradas (ODALISQUE[2] rodilla-arriba · ODALISQUE[5] piernas-levantadas-cruzadas · SEATED[4] rodillas-arriba-en-suelo). 10 poses corregidas en galería (L621/L624×2/L627/L630×2/L633/L636×2/L639). `pose_repertoire_v5.md` Od3/Od6/Se5 actualizados | ✅ Blindado |
 | **🧦 Reglas medias+calzado (Ama 20/06)** | medias + punta abierta = PROHIBIDO (punta cerrada) · media negra + falda blanca = NO · medias donde iría Pleaser = platform pump cerrado · **plataforma = color del zapato** (salvo clear). Reparadas 6 violaciones L591-L620 | ✅ Codificado |
 | **Batches previos** | **L591-L600 "Boot Obsession"** + **L561-L590 "Tres Panteones"** | 🥀🖤 waves |
 | **Materialización L441-L470 (parcial vía app)** | 7/7: **L443, L445, L458, L460, L461** · 5-6/7: L444, L446, L457, L459 · resto solo standing · L471-490 0/7 | 🟡 En curso vía app |

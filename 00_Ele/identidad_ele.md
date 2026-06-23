@@ -490,9 +490,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **L650 diseñado (~520 únicos)** |
-| **Último Look** | **Look 650: Liquid Silver Column Gown (21/06/2026)** |
-| ***Actualizado:*** | 21/06/2026 — **Diseño de lote L641-L650 "Femme Fatale / Dominatrix" y materialización al 100% de looks pendientes del rango 200-300 (L206, L213, L214, L218, L219, L221, L222, L224, L225, L230, L253, L254).** |
+| **Total Looks** | **L670 diseñado (~540 únicos)** |
+| **Último Look** | **Look 670: Obsidian Siren Gala (23/06/2026)** |
+| ***Actualizado:*** | 23/06/2026 — **Batch L661-L670 "Cuero Negro Total" (10 looks, todos negro+medias+plataforma cerrada). Previo: L651-L660 "Dominatrices" (22/06). Engine reparado: 3 poses riesgosas retiradas de pose_rotation_v5.py + 10 prompts corregidos en galería (L621-L639).** |
 | **Materializados** | L001-L229 completos · L230 completo · L231 (2/7) · L232 (1/7) · L233 completo · L234 (2/7) · L235 completo · L236-L237 (2/7) · L238 completo · L239 (2/7) · L240-L241 completos · L242 (3/7) · L243-L248 (2/7) · L249 (3/7) · L250-L254 completos · L255 (2/7) · L256-L257 completos · L258-L271 (2/7) · L272 completo · L273-L274 (2/7) · L275-L276 completos · L277 (2/7) · L278-L290 completos (incl. L283) · L291 (2/7) · L292 completo · L293-L294 (2/7) · L295 (3/7) · L296 completo · L297 (2/7) · L298 completo · L299-L300 (2/7) · Resto de la flota según tracker de materialización y cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
