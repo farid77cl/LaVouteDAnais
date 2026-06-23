@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 20/06/2026 (🖋️ Tatuaje púbico runas al ADN · 📲 La app Cap 2 v0.4 vía agente · 👠 Batch L631-L640 "Runas Reveladas") ✅
+- **🖋️ Tatuaje de identidad púbico → CANON ADN:** la Ama eligió **runas/glifos esotéricos**. Token en Bloque A sincronizado en 4 fuentes + nota §II + auto-memoria `feedback_tatuaje_pubico_runas`. Filtro: hip crease/bikini line, nunca groin/pubis.
+- **📲 Cap 2 «La racha» → v0.4** (Gate v0.3 real, vía `escritor-nivel4`): progresión oral lenta (lápiz→dulces→dedos→reconocimiento tarde) · voz bimbo de Tomi · los dos a bimbo (Tomi tonta-sumisa / Cata bimbo-dominatrix negada) · continuidad de la ropa (leggins+top sostenidos a la noche) · torre. Cruce + cierre del espejo intactos. Prosa pura (saqué metadata). v0.3 archivada. Espera Gate.
+- **👠 Batch L631-L640 "Runas Reveladas"** (10 looks · 70 prompts): todos exponen la cadera para estrenar el tatuaje (70/70 lo llevan). Bikini×2/Lencería×2/Stripper×2/Pin-Up×2/Escort/Gym. Reglas medias+calzado + anti-monoblock OK. QA: 0 guantes/chunky/texto, 50 anclas, 0 conflicto medias+punta-abierta. Carpetas creadas, 0/7. Inyector borrado.
+
 ### Sesión 20/06/2026 (🧦 Reglas medias+calzado · 🔍 Auditoría L591-L620 · 👠 Batch L621-L630 "Platform Heights") ✅
 - **🔍 Revisión de los últimos 30 outfits** (L591-L620) con la Ama: ADN visual perfecto, pero le señalé la **repetición de silueta** entre los 3 batches (clones boots↔platform).
 - **🧦 4 reglas nuevas de medias+calzado** (ver ESTADO ACTUAL Visual) codificadas en canon + SKILL + auto-memoria `feedback_medias_calzado_reglas`. **Reparadas 6 violaciones** L591-L620.

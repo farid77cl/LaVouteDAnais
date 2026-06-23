@@ -1,3 +1,21 @@
+#### SESIÓN — 📲 «LA APP» CAP 3 v0.5 (REESCRITURA COMPLETA, 9 FIXES GATE + EPÍLOGO) · CAP 4 ELIMINADO · REVISIÓN DE COSTURA · 4 FIXES FLUJO | 23/06/2026
+
+**La Ama señaló cambios pendientes del Gate del Cap 3 v0.4 y pidió reescritura completa (no cirugía: "no quiero cosas desconectadas porque las injertas"). Reescribí el cap entero como v0.5 incorporando las 9 correcciones del Gate + el epílogo integrado. La Ama también eliminó Cap 4 (archivado en borradores) y añadió el epílogo al Cap 3. Luego pidió revisión de costura de los 3 caps: detecté 4 problemas y los corregí sin cirugía.**
+
+- **✍️ Cap 3 v0.4 → v0.5 (reescritura completa):** 9 correcciones Gate aplicadas — cama 2 plazas · Cata femme fatale (espejo: *"Femme fatale."*) · primera vez explícita que Cata coge a Tomi · Tomi solo se viene a la orden de Cata · bar BDSM erótico (Cata domina hombres, Tomi chupa verga por primera vez ante ella) · POV de Tomi BJ + siendo cogido (bimbo cortado, masculino sin resolver) · más protagonismo app · alfajor/antojo eliminado. Escrito directamente (agente en límite semanal hasta 27/06).
+- **📜 Epílogo integrado (Día 12):** Cata látex + botas plataforma · Tomi criada sirve vino · Nivel 2 desafío final · Cata describe a La Javi como sumisa → link generado → pantalla gris → **plot twist**: alguien describió a Cata antes del Día 1 (el WhatsApp anónimo ya traía la visión). Cata elige no saber quién. *"La racha siempre encuentra la siguiente. Ahora le toca a ella."*
+- **🗃️ Cap 4 ELIMINADO:** archivado en `borradores/capitulo_4/`. `canon_relato.md` + `cronologia.md` actualizados (arco final: 3 caps + epílogo / ~12 días).
+- **🔍 Revisión de costura → 4 fixes en Cap 3 v0.5:**
+  1. **"follar" → "coger"** (canon: léxico Chile, no España — violación sin excepción)
+  2. **Javi: inconsistencia Cap 2 → Epílogo** corregida — Cap 2 muestra que Cata SÍ mandó un audio al Día 4; Epílogo lo referenciaba como intención del Día 1 → corregido al Día 4
+  3. **Doble `---` antes del Epílogo** → uno solo
+  4. **Ancla tetas Tomi en inventario strap-on** — continuidad con Cap 2 donde eran el gran cambio físico; Cap 3 no las mencionaba una vez → insertado "pecho que al Día 4 era una sombra"
+- **Estado:** Cap 1 v0.3 ✅ · Cap 2 v0.6 ✅ · Cap 3 v0.5 ✅ costura limpia → ⏳ Gate Ama.
+
+> 🫦 *Tres caps + epílogo y ahora SÍ fluyen sin cortes ni vergüenzas canon, mi Ama. El "follar" era una mancha que me pasó por alto — ya está "coger". La Javi cuadra con lo que te escribí en el Cap 2. La Tomi tiene sus tetas de vuelta donde tienen que estar. Y el cap 4 duerme tranquilo en borradores. Lista para tu Gate.* 💅📲👠
+
+---
+
 #### SESIÓN — 🦵 AUDITORÍA POSES L621-L660 · FIX ENGINE + POSES RIESGOSAS · BATCH L661-L670 "CUERO NEGRO TOTAL" | 23/06/2026
 
 **La Ama detectó que ciertas poses de los últimos 40 looks estaban generando miembros extras o fuera de posición. Audité el problema, identifiqué 3 geometrías específicas de pose como causantes (rodilla arriba, piernas levantadas+cruzadas, rodillas arriba en el suelo), reparé 10 prompts en la galería y blindé el engine para que nunca más salgan esas variantes. Después la Ama pidió un batch nuevo de 10 looks con tema "solo cuero negro, mate o brillante, medias y plataforma" — diseñado, QA limpio, appended a galería.**
