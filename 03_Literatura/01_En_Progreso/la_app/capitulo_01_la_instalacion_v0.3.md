@@ -4,7 +4,11 @@
 
 Lo encontré dormido con el celular en la mano, la boca medio abierta, esa cara de cachorro que pone cuando confía. Tomi confía en todo. Esa es la parte de él que me da más ternura y más rabia: me deja entrar a su vida como si yo no fuera capaz de hacerle nada.
 
-Le saqué el celular de entre los dedos sin que despertara. Marqué su clave —1908, mi cumpleaños, qué romántico el weón— y abrí la tienda de aplicaciones. La app estaba ahí, esperando, como esperan las cosas que una busca mucho: aparece justo cuando ya dejaste de buscarla. *Confía. Tu mejor versión empieza hoy.* Ícono rosado, redondito, una carita feliz que no tiene ojos. Le di instalar.
+El link me había llegado el día anterior por WhatsApp. Número desconocido —sin nombre, sin foto de perfil, sin historial—, nada más que el link. Sin texto. Sin explicación. Lo abrí por curiosidad, porque siempre abro todo, y apareció: ícono rosado, redondito, una carita feliz que no tiene ojos. *Confía. Tu mejor versión empieza hoy.* Lo guardé sin preguntarme de quién era. No me importó de quién era. Me gustó la idea de golpe, esa manera que tienen las ideas de llegar ya completas, sin que una tenga que pensarlas. Y esperé.
+
+Esperé a que se durmiera.
+
+Le saqué el celular de entre los dedos sin que despertara. Marqué su clave —1908, mi cumpleaños, qué romántico el weón—, busqué la app por nombre, le di instalar.
 
 La barra de descarga se llenó en silencio. Yo la miraba llenarse y se me apretó algo en el estómago, ese cosquilleo que tengo desde chica cuando voy a hacer algo que sé que no debería y lo voy a hacer igual. No es culpa. Es lo contrario de la culpa. Es la cosa más rica del mundo: saber que tienes a alguien en la mano y que él todavía no cacha que lo tienes.
 

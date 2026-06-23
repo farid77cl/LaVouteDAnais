@@ -102,7 +102,7 @@ Y Dios, cómo entró.
 
 Entró mi muñeca con la bandejita temblando, en puntas, toda redonda donde antes era recto. Lo miré entrar y lo gocé entero, con calma, como se goza algo que es tuyo y que sabís que no se va a ir a ninguna parte. La cadera moviéndose sola bajo el vestidito negro. Las tetas —porque tiene tetas, chicas, nuevas, mías— yendo y viniendo abajo de la tela cada vez que daba un pasito. El delantal blanco con su puntilla. La cofia torcida apenas. Y la cara. La cara de boba feliz, la boca gorda y rosada brillándole, abierta apenas, con la punta de la paleta asomando, esa boca que de tanto chupar quedó así, hinchada, de mina que no cierra del todo los labios.
 
-Yo le hice esa boca. Yo apreté el botón. Yo bajé la app, yo se la instalé riéndome una noche, yo escribí el primer "¡a jugar!" pensando que era un chiste entre los dos. Y mírenlo ahora. Mírenme lo que hice. No hay nada que me caliente más que eso, que mirarlo y saber: esto lo construí yo. Esa boca, esas tetitas, esos taquitos, esa manera de bajar la escalera moviendo el potito —todo eso salió de mi pulgar en una pantalla.
+Yo le hice esa boca. Yo apreté el botón. Yo abrí el link, yo se la instalé riéndome una noche, yo escribí el primer "¡a jugar!" pensando que era un chiste entre los dos. Y mírenlo ahora. Mírenme lo que hice. No hay nada que me caliente más que eso, que mirarlo y saber: esto lo construí yo. Esa boca, esas tetitas, esos taquitos, esa manera de bajar la escalera moviendo el potito —todo eso salió de mi pulgar en una pantalla.
 
 —El cafecito, mi Ama —dijo, con esa vocecita.
 
@@ -552,4 +552,141 @@ Que venga. Lo que sea que venga, que venga. Yo estoy lista. Yo soy la dueña.
 Día 7.
 
 ---
-**Conteo de palabras:** 8,900
+
+**Epílogo**
+
+**Cata**
+
+Tomi me tiene el vino.
+
+No se lo pedí. Sabe. Lleva días sabiendo sin que yo le diga: que quiero el vino a las siete, que lo quiero en la copa alta, no en la corta, que me lo deja a la derecha y no habla mientras me lo lleva, que espera a que yo lo levante para retirarse. Aprendió solo. O la app lo aprendió por él. Da lo mismo el mecanismo; el resultado es el mismo.
+
+Estoy en el sillón largo, las botas puestas —las negras de plataforma, las nuevas, las que me compré esta semana y que suben hasta la mitad del muslo con seis centímetros de plataforma, pesadas, lentas, de las que suenan cuando decido sonar—, las piernas cruzadas sobre el reposabrazos, el látex negro marcándome entera desde el cuello hasta donde empiezan las botas. Estoy cómoda. Esta es mi forma de estar en casa ahora: lista, marcada, vestida como si fuera a mandar a alguien, aunque no haya nadie que no sea ya mío.
+
+Tomi se arrodilla a dejar la copa en la mesita, despacio, en puntas, la cofia dos grados ladeada, y se retira tres pasos antes de ponerse de pie. Un protocolo que nadie le enseñó y él inventó solo. Le brillan los taquitos rosados en el parqué.
+
+—Eso —le digo, sin mirarlo. Con los ojos en el celular.
+
+Y se va, feliz, con esa felicidad de criada que hizo bien su cosa.
+
+---
+
+La app lleva días con el Nivel 2 abierto y todos los desafíos apuntan a lo mismo: ampliar. Cómo mando. A quién más. *¿Hay alguien en tu vida que merece florecer?* me preguntó ayer, con esa inocencia cheerful que le conozco. *¿Cómo querrías verla?*
+
+Pienso en la Javi desde el Día 1. Le iba a mandar un audio esa primera noche —"amiga, le metí a Tomi una app, te vas a morir"—, pero no supe cómo explicarlo sin sonar loca. Después del Día 4 ya tampoco. Después del Día 7, menos todavía.
+
+Ahora tengo las pruebas que me faltaban. Las tengo durmiendo en el cuartito de atrás, en puntas, con el delantal puesto.
+
+La notificación llega mientras pienso en esto, como si la app me oyera pensar.
+
+*›  🎀 Nivel 2 — Desafío final 💗*
+*›  Hay alguien que merece la mejor versión de sí misma. Descríbela. Nosotras hacemos el resto.*
+*›  ¿Cómo quieres ver a tu amiga? 💅✨*
+
+¿Cómo quiero ver a la Javi?
+
+Me quedo con esa pregunta un segundo, la copa en la mano sin tocarla todavía. Me la imagino: la Javi y su pelo castaño, la Javi y sus opiniones sobre todo, la Javi y esa manera de entrar a un lugar mirando quién la mira. La Javi que también supo mandar, a su manera, toda la vida.
+
+La Javi que nunca se arrodilló.
+
+Eso es lo que quiero ver.
+
+Escribo despacio, eligiendo cada palabra:
+
+*Sumisa. A mis pies. Que aprenda a servir bien. Que encuentre en eso lo que necesita. Que se quede.*
+
+La app lo procesa en dos segundos y me devuelve:
+
+*›  📲 Perfecto. Link personalizado generado. 💗*
+*›  ¿A quién se lo mandamos? 😇*
+
+Abro el chat de la Javi. Pego el link. Escribo tres palabras encima:
+
+*Javi. Confía en mí.*
+
+El pulgar.
+
+Las uñas rojas —rojo sangre seco, las garras— sobre el botón azul.
+
+Enviado.
+
+La Javi responde en veinte segundos. Siempre en veinte segundos.
+
+*jajaja qué es esto*
+
+*confío confío siempre confío en ti*
+
+*ya lo abrí se ve cute*
+
+Me río sola. Bajito. Con la copa en la mano y las botas en el reposabrazos y el látex marcándome las caderas en la luz del sillón.
+
+Pobre Javi. No sabe que ya la perdí. No sabe que esas tres palabras —*confío en ti*— son exactamente lo que la app necesitaba oír.
+
+Cierro el chat. Y ahí la app me muestra algo que no es un badge ni un desafío ni una estrellita.
+
+Pantalla gris. Texto plano. Sin emojis. Letra chica, como si hubiera estado ahí desde siempre y yo nunca hubiera llegado al fondo a leerla.
+
+*›  Descripción guardada.*
+*›  Tal como tú nos describiste a Tomás hace doce días.*
+*›  Tal como alguien nos describió a ti antes de empezar.*
+
+Me quedo quieta.
+
+*Tal como alguien nos describió a ti.*
+
+Lo leo de nuevo. Despacio. Las palabras no cambian.
+
+Alguien, antes del link anónimo, antes del WhatsApp de número desconocido que yo abrí por curiosidad una noche, le había dicho a la app cómo quería verme. Me había descrito. Había usado esta misma pantalla —esta misma caja de texto, este mismo botón azul— para escribir lo que quería que yo fuera. Y la app me había hecho eso.
+
+Las botas. El látex. Tomi de rodillas con la copa.
+
+Todo eso fue, primero, la idea de otra persona.
+
+La copa sigue en mi mano. No la solté. El látex me marca las caderas, estas caderas que alguien imaginó primero. Las botas me pesan en el reposabrazos, estas botas que alguien eligió antes que yo.
+
+*›  ¿Quieres saber quién? 💗*
+
+La pantalla espera.
+
+Lo pienso un momento. Solo un momento.
+
+Después cierro la app.
+
+No porque me asuste. No me asusta. Es que ya lo sé suficiente: alguien me vio primero y me vio bien. Quienquiera que fuera, tenía buen ojo. Me imaginó exactamente. Y yo llegué hasta acá creyendo que venía de mí, que era mío, que todo esto —el látex, el mando, las botas, la dueña que soy— lo había inventado yo.
+
+Capaz sí. Capaz las dos cosas son ciertas al mismo tiempo: que alguien me soñó así y que yo lo era de todas formas. Que el sueño de otro y lo que yo era siempre eran lo mismo, y la app solo los juntó.
+
+Me importa poco. Lo que importa es el chat de la Javi.
+
+*ya lo instalé me está pidiendo que haga un ejercicio jaja*
+
+*es medio raro pero ta bien*
+
+*me quedo*
+
+Ahí está.
+
+Me sirvo otro trago. Las uñas contra el vidrio, ese rojo que parece sangre vieja. Las botas de plataforma plantadas en el reposabrazos como dos monolitos, lentos, seguros de sí.
+
+—Tomi.
+
+Tac tac tac desde el pasillo.
+
+—¿Mi Ama?
+
+—La botella.
+
+Vuelve el tac tac tac, más rápido.
+
+La botella llega. La copa se llena.
+
+Tomi se retira en puntas.
+
+La Javi sigue escribiéndome.
+
+*›  La racha siempre encuentra la siguiente. 💗*
+*›  Ahora le toca a ella.*
+
+Y en algún lugar, esta misma noche, la racha de alguien empieza en Día 1.
+
+Día 12.
