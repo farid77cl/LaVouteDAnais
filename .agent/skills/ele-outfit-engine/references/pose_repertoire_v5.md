@@ -42,7 +42,7 @@
 
 ## 3. SEATED — 6 variaciones (+ variantes por arquetipo ya existentes en SKILL §Seated)
 
-Se1 **Knee-Over-Knee Imperious** *(canon)* · Se2 **Perched-Edge Lean-Forward** (al borde, codos en rodillas, escote al frente) · Se3 **Reclined Languor** (recostada hacia atrás sobre un brazo, otra mano recorriendo torso) · Se4 **Reverse-Straddle Chair** (a horcajadas sobre el respaldo, brazos cruzados encima) · Se5 **Floor-Seated Knees-Up** (en el suelo, rodillas arriba juntas, stilettos plantados, brazos atrás) · Se6 **Side-Saddle Twist** (piernas a un lado juntas, torso torcido al frente, mano en el muslo).
+Se1 **Knee-Over-Knee Imperious** *(canon)* · Se2 **Perched-Edge Lean-Forward** (al borde, codos en rodillas, escote al frente) · Se3 **Reclined Languor** (recostada hacia atrás sobre un brazo, otra mano recorriendo torso) · Se4 **Reverse-Straddle Chair** (a horcajadas sobre el respaldo, brazos cruzados encima) · Se5 **Perched Imperious** (al borde, columna erguida, rodillas juntas, manos planas en muslos, barbilla arriba — reemplaza "Floor-Seated Knees-Up" retirada por generar miembros extras) · Se6 **Side-Saddle Twist** (piernas a un lado juntas, torso torcido al frente, mano en el muslo).
 
 ---
 
@@ -68,7 +68,7 @@ Pv1 **Lean-In Thirst-Trap** (inclinada al lente, mano en el pelo) · Pv2 **Low-A
 
 ## 7. ODALISQUE — Recostada — 6 variaciones
 
-Od1 **On-Side S-Curve** *(canon — de lado, arco, mano recorriendo cuerpo)* · Od2 **On-Front Propped** (boca abajo apoyada en antebrazos, espalda arqueada, ass arriba, mirando atrás) · Od3 **On-Back Arched** (de espaldas, arco extremo, una rodilla arriba, cabeza colgando hacia atrás) · Od4 **3/4 Reclined Goddess** (semi-sentada sobre los codos, piernas drapeadas, stiletto apuntando) · Od5 **Kneeling-Forward Cat** (de rodillas inclinada sobre los antebrazos, lomo hundido, ass arriba) · Od6 **Legs-Up Playful** (de espaldas, piernas levantadas/cruzadas al aire mostrando los stilettos).
+Od1 **On-Side S-Curve** *(canon — de lado, arco, mano recorriendo cuerpo)* · Od2 **On-Front Propped** (boca abajo apoyada en antebrazos, espalda arqueada, ass arriba, mirando atrás) · Od3 **Hip-Reclining Drape** (de costado sobre una cadera, brazo extendido soportando el cuerpo, otra mano recorre el torso, piernas drapeadas y stilettos visibles — reemplaza "On-Back Arched con rodilla" retirada por miembros extras) · Od4 **3/4 Reclined Goddess** (semi-sentada sobre los codos, piernas drapeadas, stiletto apuntando) · Od5 **Kneeling-Forward Cat** (de rodillas inclinada sobre los antebrazos, lomo hundido, ass arriba) · Od6 **Side-Profile Stack** (perfil recostada, cadera arriba, piernas apiladas elegantemente, mano en la cabeza, stiletto apuntando — reemplaza "Legs-Up Playful" retirada por miembros extras).
 
 ---
 

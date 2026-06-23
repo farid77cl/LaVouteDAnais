@@ -77,7 +77,7 @@ SEATED = [
  "perched on the edge of {seat} leaning forward with the elbows on the knees, the décolleté angled toward the camera, the stilettos crossed at the ankle, one XXXL-nailed hand under the chin, looking up through the lashes with lips parted, cherry red hair falling forward",
  "reclined back on {seat} propped on one elbow with the other XXXL-nailed hand trailing down the torso, the spine in a long arch, the legs extended with the stilettos crossed at the ankle and pointed, half-lidded predatory gaze, cherry red hair spilling over the backrest",
  "seated reversed on {seat} with both arms folded over the backrest and the chin resting on the forearms, the spine in an elegant arch, the stilettos crossed at the ankle, a sultry half-lidded gaze over the arms, cherry red hair over one shoulder",
- "seated on the floor with the knees up together and the stilettos planted, leaning back on both XXXL-nailed hands behind, the chest lifted in a lumbar arch, the chin raised, lips parted glossy, cherry red hair cascading down the back",
+ "perched on the edge of {seat} with the spine erect and the knees together, both XXXL-nailed hands resting flat on the thighs, the chest lifted in an imperious arch, the chin raised, a commanding half-lidded gaze to the camera, lips parted glossy, cherry red hair over one shoulder",
  "seated side-saddle on {seat} with the legs together angled to one side and the top stiletto pointed, the torso twisted back to the camera, one XXXL-nailed hand on the upper thigh and the other at the collarbone, an extreme waist twist, half-lidded gaze, cherry red hair over one breast",
 ]
 
@@ -115,10 +115,10 @@ POV = [
 ODALISQUE = [
  "full body lying on the side with an exaggerated S-curve, an extreme back arch with the bust pushed up and the hip rolled back, one leg extended with the stiletto pointed and the other bent, one arm under the head with XXXL nails in the hair and the other trailing from the collarbone to the hip, half-lidded predatory gaze, cherry red hair cascading",
  "full body semi-reclined on one hip propped on one forearm with the legs draped and the top stiletto pointed at the camera, the spine in an elegant arch, the other XXXL-nailed hand resting on the thigh, looking to the camera over the shoulder, lips parted glossy, cherry red hair spilling forward",
- "full body lying on the back in an extreme arch with one knee raised and the stiletto planted, the head dropping back toward the camera, the bust thrust up, both XXXL-nailed hands sliding up the torso, lips parted, cherry red hair pooling around the head",
+ "full body reclining to one side on one hip with the legs draped and both stilettos visible, one arm extended propping the body and the other XXXL-nailed hand trailing from the collarbone to the waist, the spine in a long arch with the bust forward, a half-lidded gaze toward the camera, lips parted glossy, cherry red hair cascading forward",
  "full body semi-reclined propped on both elbows with the legs draped and one stiletto pointed at the camera, the bust forward and the spine arched, the chin lifted, a half-lidded predatory gaze, XXXL nails resting on the thigh, cherry red hair over one shoulder",
  "full body reclining back on both elbows with the legs draped and one stiletto pointed at the camera, a deep elegant back arch with the bust lifted, looking to the camera through the lashes, XXXL nails resting on the thigh, lips parted glossy, cherry red hair falling around the face",
- "full body lying on the back with the legs raised and crossed in the air showing off the stilettos, propped on the elbows with the bust forward, looking down the body at the camera, XXXL nails on the raised thigh, lips parted glossy, cherry red hair fanned out",
+ "full body side profile reclining on one side with an elegant S-curve, the hip rolled up and the bust forward in silhouette, one XXXL-nailed hand supporting the head and the other trailing along the waist, the top stiletto pointed and the legs elegantly stacked, lips parted glossy, cherry red hair cascading along the surface",
 ]
 
 SLOTS = [
