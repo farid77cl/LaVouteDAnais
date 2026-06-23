@@ -308,7 +308,7 @@ Llegamos al departamento y yo entré primero y encendí solo la luz del pasillo 
 
 Tomi entró. Se paró. Me miró.
 
-—Esta noche te voy a follar por primera vez —le dije. No como anuncio de algo que necesita contexto. Como dato. Como información concreta.
+—Esta noche te voy a coger por primera vez —le dije. No como anuncio de algo que necesita contexto. Como dato. Como información concreta.
 
 El color que se le movió en las mejillas lo dijo antes que cualquier palabra: subió del cuello hacia arriba, rápido, ese rosa que aparece cuando el cuerpo recibe algo que le cambia algo.
 
@@ -338,7 +338,7 @@ Me subí a la cama. Me ubiqué encima de él, las botas todavía puestas, el arn
 
 Empecé despacio. La lentitud era una elección, no una precaución: en las primeras veces la lentitud es el punto, es la que hace que el cuerpo aprenda en lugar de solo recibir. Tomi hizo un sonido en los primeros segundos —no de dolor, de esa clase de ajuste que hace el cuerpo cuando algo nuevo encaja en algo que estaba esperando sin saber que esperaba— y después se quedó quieto, encontrando el ritmo.
 
-Lo miré mientras lo hacía. Inventario: la boca abierta, los labios que son distintos de hace siete días —más gordos, más presentes, como si hubieran estado esperando permiso para ser lo que son—. Las pestañas sobre los pómulos. El cuello largo inclinado hacia atrás. Las caderas que también cambiaron, ese pensamiento que me cruzó de nuevo, el de sus caderas y las mías cambiando en la misma semana, y lo dejé pasar, no ahora.
+Lo miré mientras lo hacía. Inventario: la boca abierta, los labios que son distintos de hace siete días —más gordos, más presentes, como si hubieran estado esperando permiso para ser lo que son—. Las pestañas sobre los pómulos. El pecho que al Día 4 era una sombra y ahora llenaba las sábanas de otra forma, los pezones parados contra la tela, una cosa suya, nueva, que yo mandé a hacer. El cuello largo inclinado hacia atrás. Las caderas que también cambiaron, ese pensamiento que me cruzó de nuevo, el de sus caderas y las mías cambiando en la misma semana, y lo dejé pasar, no ahora.
 
 —Cata —dijo a un punto. En ese tono que significa que está cerca.
 
@@ -436,8 +436,6 @@ Día 7.
 
 ---
 
----
-
 **Epílogo**
 
 **Cata**
@@ -458,7 +456,7 @@ Y se va, feliz, con esa felicidad de criada que hizo bien su cosa.
 
 La app lleva días con el Nivel 2 abierto y todos los desafíos apuntan a lo mismo: ampliar. Cómo mando. A quién más. *¿Hay alguien en tu vida que merece florecer?* me preguntó ayer, con esa inocencia cheerful que le conozco. *¿Cómo querrías verla?*
 
-Pienso en la Javi desde el Día 1. Le iba a mandar un audio esa primera noche —"amiga, le metí a Tomi una app, te vas a morir"—, pero no supe cómo explicarlo sin sonar loca. Después del Día 4 ya tampoco. Después del Día 7, menos todavía.
+Pienso en la Javi desde el Día 1. Al Día 4 le mandé un audio —"algo heavy está pasando con Tomi, te tengo que mostrar"— y ella se rió y mandó un sticker, y yo me quedé corta. No le di más. No supe cómo dar más sin sonar loca. Después del Día 7, menos todavía.
 
 Ahora tengo las pruebas que me faltaban. Las tengo durmiendo en el cuartito de atrás, en puntas, con el delantal puesto.
 
