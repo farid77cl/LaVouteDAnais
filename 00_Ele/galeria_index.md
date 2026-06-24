@@ -469,17 +469,17 @@
 | **657** | Deep Scarlet Gala (22/06/2026 - batch L651-L660 "Dominatrices" - Escort - Escort Gala Femme Fatale - escarlata + plata — Contraste - platform) | — | Escort | — | — | 7/7 | — |
 | **658** | Chrome Armure Editorial (22/06/2026 - batch L651-L660 "Dominatrices" - HF Editorial - HF Avant-Garde Dominatrix - cromo espejo — Monoblock - platform) | — | HF Editorial | — | — | 7/7 | — |
 | **659** | Black Widow Pin-Up (22/06/2026 - batch L651-L660 "Dominatrices" - Pin-Up - Pin-Up Film Noir Femme Fatale - negro + oro + rojo suela — Contraste - platform) | — | Pin-Up | — | — | 7/7 | — |
-| **660** | Chrome Triangle Bikini (22/06/2026 - batch L651-L660 "Dominatrices" - Bikini - Bikini Studio Fetish Chrome - cromo + transparente — Contraste - platform) | — | Bikini | — | — | 6/7 | ⏳ Pendiente |
-| **661** | Onyx Gloss Phantom (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Nightclub - Nightclub Leather Phantom - negro — Monoblock - platform + medias) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **662** | Black Lacquer Noir (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Escort - Escort Noir Latex Trench - negro — Monoblock - platform + medias) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **663** | Obsidian Maid (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Domestic - Domestic Fetish Maid - negro + blanco — Contraste - platform + medias) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **664** | Black Widow Swim (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Bikini - Bikini Fetish Pool Leather - negro — Monoblock - platform + medias) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **665** | Midnight Stage Command (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Stripper - Stripper Stage Leather - negro + cromo — Contraste - platform + medias) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **666** | Black Dahlia Pin-Up (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Pin-Up - Pin-Up Noir Femme Fatale - negro + rojo suela — Contraste - platform + medias) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
+| **660** | Chrome Triangle Bikini (22/06/2026 - batch L651-L660 "Dominatrices" - Bikini - Bikini Studio Fetish Chrome - cromo + transparente — Contraste - platform) | — | Bikini | — | — | 7/7 | — |
+| **661** | Onyx Gloss Phantom (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Nightclub - Nightclub Leather Phantom - negro — Monoblock - platform + medias) | — | Nightclub | — | — | 7/7 | — |
+| **662** | Black Lacquer Noir (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Escort - Escort Noir Latex Trench - negro — Monoblock - platform + medias) | — | Escort | — | — | 7/7 | — |
+| **663** | Obsidian Maid (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Domestic - Domestic Fetish Maid - negro + blanco — Contraste - platform + medias) | — | Domestic | — | — | 7/7 | — |
+| **664** | Black Widow Swim (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Bikini - Bikini Fetish Pool Leather - negro — Monoblock - platform + medias) | — | Bikini | — | — | 7/7 | — |
+| **665** | Midnight Stage Command (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Stripper - Stripper Stage Leather - negro + cromo — Contraste - platform + medias) | — | Stripper | — | — | 7/7 | — |
+| **666** | Black Dahlia Pin-Up (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Pin-Up - Pin-Up Noir Femme Fatale - negro + rojo suela — Contraste - platform + medias) | — | Pin-Up | — | — | 7/7 | — |
 | **667** | Dark Energy Training (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gym - Gym Athletic Leather Fetish - negro + cromo — Contraste - platform + medias) | — | Gym | — | — | 7/7 | — |
 | **668** | Black Diamond Executive (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Corporate - Corporate Leather Power - negro + plata — Contraste - platform + medias) | — | Corporate | — | — | 7/7 | — |
 | **669** | Black Iron Corset (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Lenceria - Lenceria Fetish Corset - negro — Monoblock - platform + medias) | — | Lenceria | — | — | 7/7 | — |
-| **670** | Obsidian Siren Gala (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gala - Gala Leather Column Siren - negro + cromo — Contraste - platform + medias) | — | Gala | — | — | 6/7 | ⏳ Pendiente |
+| **670** | Obsidian Siren Gala (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gala - Gala Leather Column Siren - negro + cromo — Contraste - platform + medias) | — | Gala | — | — | 7/7 | — |
 
 ---
 
@@ -852,14 +852,6 @@
 | **654** | Noir Boudoir Sadist (22/06/2026 - batch L651-L660 "Dominatrices" - Lenceria - Lenceria Boudoir Noir - negro + marfil + oro — Contraste - platform) | 1/7 | ⏳ Pendiente |
 | **655** | Ivory Power Viper (22/06/2026 - batch L651-L660 "Dominatrices" - Corporate - Corporate Office Domme - marfil — Monoblock - platform) | 0/7 | ⏳ Pendiente |
 | **656** | Obsidian Crystal Predator (22/06/2026 - batch L651-L660 "Dominatrices" - Nightclub - Nightclub Crystal Dominatrix - negro + rhinestone cristal — Contraste - platform) | 5/7 | ⏳ Pendiente |
-| **660** | Chrome Triangle Bikini (22/06/2026 - batch L651-L660 "Dominatrices" - Bikini - Bikini Studio Fetish Chrome - cromo + transparente — Contraste - platform) | 6/7 | ⏳ Pendiente |
-| **661** | Onyx Gloss Phantom (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Nightclub - Nightclub Leather Phantom - negro — Monoblock - platform + medias) | 0/7 | ⏳ Pendiente |
-| **662** | Black Lacquer Noir (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Escort - Escort Noir Latex Trench - negro — Monoblock - platform + medias) | 0/7 | ⏳ Pendiente |
-| **663** | Obsidian Maid (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Domestic - Domestic Fetish Maid - negro + blanco — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
-| **664** | Black Widow Swim (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Bikini - Bikini Fetish Pool Leather - negro — Monoblock - platform + medias) | 0/7 | ⏳ Pendiente |
-| **665** | Midnight Stage Command (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Stripper - Stripper Stage Leather - negro + cromo — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
-| **666** | Black Dahlia Pin-Up (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Pin-Up - Pin-Up Noir Femme Fatale - negro + rojo suela — Contraste - platform + medias) | 2/7 | ⏳ Pendiente |
-| **670** | Obsidian Siren Gala (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gala - Gala Leather Column Siren - negro + cromo — Contraste - platform + medias) | 6/7 | ⏳ Pendiente |
 
 ---
 
