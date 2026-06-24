@@ -37,10 +37,10 @@
 - **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7. **App subió PNG nuevos 14/06: L529, L531, L547, L550** (varias poses, incl. hito L550 "El Mundo") — territorio del bot, galerías las mantiene él.
 
 ### 📖 Literatura
-- 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 24/06) · v0.4 completado**
-  - **Script hipnótico en segunda persona (v0.4)**: ama de casa inteligente que se convierte en Office Siren con triggers GLASSES, MAKEUP, RED, HEELS, EDGE, LOCK.
-  - **Archivos creados**: `canon_relato.md`, `cronologia.md`, `capitulo_01_trance_v0.1.md`.
-  - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.4.md`. Esperando Gate Ama.
+- 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 24/06) · v0.7 completado**
+  - **Script hipnótico en segunda persona (v0.7)**: reescritura profunda, ultra sensorial y calibrada bajo /grill-me. Incorpora el goce activo y excitación erótica total de la protagonista ante los tacones extremos de 16 cm, la bimboficación (Vacío Feliz) y ser cosificada como activo/mueble de oficina de Miss Doll.
+  - **Archivos modificados**: `capitulo_01_trance_v0.1.md`, `cronologia.md`.
+  - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.5.md`. Esperando Gate Ama.
 - 📲 **«La app» — 3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06/2026) · ⏳ Gate Ama Cap 3 v0.5**
   - **Cap 1 v0.3** ✅ Gate aprobado
   - **Cap 2 v0.6** ✅ Gate aprobado
