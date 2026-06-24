@@ -6,6 +6,27 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 21/06/2026 (📲 La app Cap 3 → reescritura desde cero v0.4 · Gate 3ª vez: voz Tomi = bimbo hueca de verdad · 🚧 tramo 4 cayó por 529) ✅
+- **🔄 GitHub:** `git pull --ff-only` (14 commits del bot: imágenes L647-L650 + nota Gate `nota_capitulo_03_el_nivel_v0.3.md`). Al día.
+- **📲 Gate Cap 3 v0.3 = NO aprobación (3ª vez):** *"todo parte desde cero, no logro quedar conforme."* En vez de relanzar a ciegas, repasamos el cap juntas hueso por hueso.
+- **🔑 Diagnóstico:** las 3 versiones fallaron por arreglar la SUPERFICIE de la voz de Tomi (frases cortas + jiji) sobre una cabeza lúcida que describe bonito su vacío (el weón listo haciéndose el tonto).
+- **🗣️ Voz de Tomi CONFIRMADA con ejemplos:** bimbo hueca — pierde la palabra en voz alta, diminutivos rosaditos, risa boba sobre frases picadas, MASCULINO sin resolver ("Soy alto. Digo alta. No. Alto."), doble sentido inocente. Cata = bimbo DOMINATRIX no tonta. Auto-memoria `feedback_voz_bimbo_hueca_tomi`.
+- **✍️ Reescritura desde cero (`escritor-nivel4`, agente aparte, modo tramo):** tramos 1-3 escritos en `capitulo_03_el_nivel_v0.4.md` — la voz POR FIN pegó. Blindé el Gate + la manera de hablar en `cronologia.md` antes. Le saqué metadata que el agente metió en la prosa.
+- **🚧 Tramo 4 (clímax + Nivel 2 + cierre + autoverif) cayó por 529 Overloaded → pendiente.** v0.3 → `borradores/`. **Sin imágenes** (directiva Ama).
+
+### Sesión 21/06/2026 (🔄 GitHub al día · 📲 La app Cap 3 «El nivel» v0.2 → v0.3 · Gate: voz Tomi bimbo + más app) ✅
+- **🔄 GitHub:** `git pull --ff-only` (21 commits del bot: imágenes L631-L633 + la nota `nota_capitulo_03_el_nivel_v0.2.md`). Repo al día.
+- **📲 Gate Cap 3 v0.2 = 2 correcciones (NO aprobación):** le dije derecho que no era un visto bueno. (1) Tomi sonaba "muy normal, no se le nota lo bimbo / ¿no fue un injerto?" — el v0.2 escribía su POV con frases largas y metáforas finas (narrador listo haciéndose el tonto). (2) Más protagonismo de la app.
+- **🗣️ Corrección 1 (la principal) — voz de Tomi bimbo a nivel de SINTAXIS** (vía `escritor-nivel4`): reescribí entero el POV de Tomi. Lo bimbo ahora vive en la gramática (frases cortas/picadas, palabras simples, repetición boba, jiji, ideas que se cortan, lógica de pedacitos, cero subordinadas elegantes/metáforas). Las 3 frases-injerto que la Ama marcó, disueltas en concreto sensorial. Hechos intactos.
+- **📲 Corrección 2 — más app:** 8 → 16 bloques UI en ambos POV; la app = tercer personaje que premia/desafía/reacciona en tiempo real (mismo dedo empuja a las dos = sube la ironía).
+- **⛓️ Blindaje:** anclé el Gate en `cronologia.md` antes de escribir (Ley de Continuidad). **Validador APROBADO** (Narr 9.4/Temp 9.2, Inmersión OK, Continuidad OK, 0 micro-fixes). Anclas verdes (Día 7, strap-on, casi-cuenta cortada, Nivel 2, cierre "Día 7.", cero material Cap 4). v0.2 → borradores; cronología a v0.3. Commit+push `e52bf7663`. ⏳ Espera Gate Ama.
+
+### Sesión 21/06/2026 (📸 Regeneración de descartes L639 y L604 · 🔄 Sync y Cierre de Sesión) ✅
+- **📸 L639 Odalisque:** Generada con prompt correctivo estable (pose recostada sobre codos en el suelo / Stage Money Floor) y libre de filtros. Sincronizada a 7/7 completa.
+- **📸 L604 Standing:** Generada con mirada frontal directa en caminata runway (eliminando mirada sobre el hombro). Sincronizada a 7/7 completa.
+- **🔄 Sync:** Ejecutados scripts de visuales para actualizar READMEs y tracker en `galeria_outfits.md` y `galeria_index.md`.
+- **📊 Estado:** Looks L639 y L604 materializados al 100%.
+
 ### Sesión 21/06/2026 (🔄 GitHub al día · 📲 La app Cap 2 v0.6 APROBADO · ✍️ Cap 3 «El nivel» v0.1 escrito+validado) ✅
 - **🔄 GitHub:** `git pull --ff-only` (3 PNG bot L638). Al día.
 - **📲 Cap 2 → v0.6 APROBADO:** la nota Gate v0.5 era una frase retrospectiva rara (*"ahora que lo escribo??"*) que ya estaba en el texto → le pregunté qué quería (no la supuse), me dijo cambiarla/borrarla y aprobado. La saqué (2 apariciones), conservé la idea del cruce. v0.5 archivada. Cap 2 cerrado.

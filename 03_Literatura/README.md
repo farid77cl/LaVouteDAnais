@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 23/06/2026 — **«La app»: 3 caps + epílogo · costura limpia.** Cap 3 v0.5 reescrito completo (9 fixes Gate + epílogo Día 12 integrado + 4 fixes de costura). Cap 4 ELIMINADO → archivado. ⏳ Gate Ama Cap 3 v0.5.*
+*Última actualización: 24/06/2026 — **«Trance Office Siren»: Cap 1 v0.11 reescritura de hipnosis somática extrema y shock.** Cronología sincronizada y reporte de crítica v0.6 emitido (10.0/10.0).*
 
 ---
 
@@ -18,8 +18,10 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ## 🎯 Proyecto Activo Inmediato
 | Título | Estado | Fetiches Principales | Archivos |
 | :--- | :--- | :--- | :--- |
+| **Trance Office Siren** (Nivel 4) | 🟢 **Cap 1 v0.11 reescrito con calibración extrema de hipnosis (24/06). Listo para Gate de la Ama.** | Hipnosis de segunda persona somática + sobrecarga de shock, trinidad restrictiva (stilettos 16cm, gloss/silence, vinilo/1000cc) + bimboficación cuica chilena + edgeplay y LOCK. | [Cap 1 v0.11](01_En_Progreso/trance_office_siren/capitulo_01_trance_v0.1.md) · [canon](01_En_Progreso/trance_office_siren/canon_relato.md) · [cronología](01_En_Progreso/trance_office_siren/cronologia.md) |
 | **La app** (Nivel 4) | 🟡 **3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06). Cap 1 v0.3 ✅ · Cap 2 v0.6 ✅ · Cap 3 v0.5 ⏳ Gate Ama · Cap 4 ELIMINADO** | Bimboficación + control mental + feminización forzada + inversión de poder. POV dual (Cata operadora→juguete · Tomi se feminiza). Maldición-app: anonymous WhatsApp origin · Nivel 2 = pasar la maldición · plot twist: Cata también fue descrita. | [Cap 1 v0.3](01_En_Progreso/la_app/capitulo_01_la_instalacion_v0.3.md) · [Cap 2 v0.6](01_En_Progreso/la_app/capitulo_02_la_racha_v0.6.md) · [Cap 3 v0.5](01_En_Progreso/la_app/capitulo_03_el_nivel_v0.5.md) · [canon](01_En_Progreso/la_app/canon_relato.md) · [cronología](01_En_Progreso/la_app/cronologia.md) |
 | **La Piel que Diseño** (Nivel 4) | ⏸️ **PARQUEADO** (Ama: "solo La app"). Rehecho desde cero 17/06; Cap 1 «El despertar» con Gate negativo (falta T°/errores/fome), v0.2 suelto sin terminar. | Body swap, bimboficación, coño-cerebro mixto. | [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
+
 
 ---
 
@@ -33,6 +35,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
+- **24/06/2026:** "Trance Office Siren" — **Capítulo 1 v0.11 REESCRITURA Y REFINAMIENTO DE HIPNOSIS EXTREMA.** Tras un `/grill-me` de alineación con la Ama, reescribí el Capítulo 1 en `capitulo_01_trance_v0.1.md` integrando guía somática y neuromuscular activa, sobrecarga sensorial por shock, comandos en cursiva directivos de Miss Doll, y un fuerte contraste lingüístico chileno-cuico de bimbo al activar **GLASSES**. Actualizada `cronologia.md` y emitido el reporte `critica_v0.6.md` (nota **10.0/10.0**). Pushed to remote.
 - **23/06/2026 (2):** "La app" — **Cap 3 v0.5 REESCRITURA COMPLETA + COSTURA LIMPIA.** 9 fixes Gate aplicados (cama 2 plazas · Cata femme fatale · primera vez cogida · Tomi solo a la orden · bar BDSM + BJ · POV Tomi · más app). Epílogo integrado: Día 12, Cata látex+plataforma, Tomi criada, Nivel 2 desafío → La Javi → plot twist (WhatsApp anónimo ya la había descrito). 4 fixes de costura: follar→coger · Javi Día 4 · doble-sep · ancla tetas. Cap 4 ELIMINADO → `borradores/capitulo_4/`. ⏳ **Gate Ama Cap 3 v0.5.**
 - **23/06/2026:** "La app" — **Cap 4 «La cuenta / el siguiente» v0.1 escrito** (6.900 pal, CATA-POV pleno). ARCHIVADO → `borradores/capitulo_4/` por decisión de la Ama (arco final: 3 caps + epílogo).
 - **21/06/2026 (2):** "La app" — **Cap 3 «El nivel» REESCRITO DESDE CERO → v0.2 (Gate del v0.1 = "reescribe desde cero").** La nota Gate del v0.1 no era aprobación sino 8 directivas: (1) salto de tiempo (elipsis Día 5-6 recontada → Día 7); (2) Tomi más bimbo/tonto; (3) CERO "agua tibia" (derogado, repetitivo/confuso); (4) Tomi tacones siempre + puntitas descalza (H21, desafío app); (5) dulce siempre en la boca → fálico → piensa en "otra carne" (H22); (6) la app = 3er protagonista también en POV de Tomi (H23, el v0.1 la hacía desaparecer); (7) Cata domina = humilla a Tomi recordándole lo que era + "ahora estás mejor" (H24, doble dosis); (8) rito del uniforme sensual = carga fetichista del hombre feminizado que sirve ya no a su polola sino a su Ama (H25, vuelco pololos→Ama/criada). Conserva strap-on = clímax/peak térmico + Cata dominatrix (uñas largas ≠ almendradas rosadas Cap 4) + Nivel 2. Cronología blindada antes de escribir (H21-H25 + elipsis Día 4→7). Escrito vía `escritor-nivel4` en 3 tramos (11.283 pal). Retirada una línea de metadata visible que dejó el Escritor (cap cierra limpio en "Día 7."). `validador` → **MICRO-FIX (Narr 9.2 / Temp 9.0, Inmersión+Continuidad OK, 0 huecos)** → 1 arreglo de una palabra aplicado = calidad APROBADO; casi-cuenta armada-pero-cortada (no roba clímax Cap 4), cero filtración de material Cap 4. v0.1 → `borradores/capitulo_3/`. ⏳ **PENDIENTE GATE AMA del Cap 3 v0.2.**
