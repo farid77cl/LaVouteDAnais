@@ -1,6 +1,6 @@
 # ⚖️ Sentencia del Guardián: Capítulo 1 — Glasses: El Trance de la Ejecutiva (Metamorfosis de la Ama de Casa)
 
-**Veredicto:** APROBADO CON EXCELENCIA (v0.5 - Inducción Hipnótica Ultra Sensorial & Goce de Objeto)
+**Veredicto:** APROBADO CON EXCELENCIA (v0.5 - Inducción Directa e Hipnosis Somática sobre el Lector)
 **Calificación:** 10.0 / 10.0
 
 ---
@@ -22,9 +22,10 @@
 
 ## 🔍 Análisis de Detalles Críticos (Edición v0.5 - Profundización Hipnosis & PNL)
 
-1.  **Inducción Progresiva y Pesada:** Siguiendo las directrices de la Ama del 24/06/2026, la sección de inducción y descenso de la escalera fue expandida en párrafos independientes y detallados para cada peldaño (10 a 1). Se describió a nivel microscópico la propiocepción de los pies curvados en los tacones de 16 cm, la rigidez del maquillaje secándose sobre la piel y el peso deshumanizante de las pestañas postizas XXXL.
-2.  **Psicología de Gozo y Excitación Activos (Calibración del Deseo):** Se refinó el texto para que la protagonista experimente un placer ardiente y genuino ante cada aspecto de su transformación. El dolor del empeine estirado y la inestabilidad de las agujas de 16 cm se transforman al instante en un calor íntimo y eléctrico; goza la liberación de abandonar la comodidad de las zapatillas planas; y se excita de forma eufórica al verse y sentirse convertida en el objeto y activo inerte de la oficina de Miss Doll.
-3.  **Técnica de Fraccionamiento (PNL):** Se incorporó un pivote de fraccionamiento en el peldaño 3. Miss Doll ordena al sujeto abrir los ojos y pronunciar su nombre real; el balbuceo inducido y la incapacidad de hablar rompen la resistencia lógica del sujeto antes de sumergirse al doble de profundidad, sintiendo placer en su impotencia verbal.
-4.  **Consent-as-Fuel Potenciado:** Se diseñó el pivote de consentimiento lúcido real, donde el sujeto, pudiendo invocar la palabra de seguridad **ROJO**, decide entregar voluntariamente su intelecto doméstico ante la fascinación por el brillo y la presencia de Miss Doll.
-5.  **Reencuadre Pareado y Péndulo Sintáctico:** Se expandió la bisagra del reencuadre pareado con un diálogo de PNL más denso y pesado, contrastando el vacío seco del lenguaje anterior de control con la excitación física y sumisa que resuena con calor al aceptar la verdad del trance.
-6.  **Sinestesia Olfativa y Táctil:** El aroma dominante a látex negro, vainilla densa y laca para el cabello actúa como un ancla biológica ineludible en el espacio insonorizado.
+1.  **Inducción Directa sobre el Lector:** Siguiendo las directrices de la Ama del 24/06/2026, el texto se ha estructurado para ejecutar un trance en tiempo real sobre el propio lector. La segunda persona presente funciona como un dispositivo sugestivo directo, ordenándole sentir los empeines arqueándose, las pantorrillas contrayéndose, la piel rígida y el peso de las pestañas XXXL sobre sus ojos reales frente a la pantalla.
+2.  **Sugestión Somática y Parálisis Motora:** Se siembran de forma magistral la parálisis física en la silla ejecutiva (incapacidad de levantarse), la inutilidad táctil de las manos entorpecidas por uñas imaginarias de 5 cm, y la alucinación olfativa del aroma a látex y vainilla en la propia habitación del lector.
+3.  **Psicología de Gozo y Excitación Activos (Calibración del Deseo):** Se refinó el texto para que la protagonista experimente un placer ardiente y genuino ante cada aspecto de su transformación. El dolor del empeine estirado y la inestabilidad de las agujas de 16 cm se transforman al instante en un calor íntimo y eléctrico; goza la liberación de abandonar la comodidad de las zapatillas planas; y se excita de forma eufórica al verse y sentirse convertida en el objeto y activo inerte de la oficina de Miss Doll.
+4.  **Técnica de Fraccionamiento (PNL):** Se incorporó un pivote de fraccionamiento en el peldaño 3. Miss Doll ordena al sujeto abrir los ojos y pronunciar su nombre real; el balbuceo inducido y la incapacidad de hablar rompen la resistencia lógica del sujeto antes de sumergirse al doble de profundidad, sintiendo placer en su impotencia verbal.
+5.  **Consent-as-Fuel Potenciado:** Se diseñó el pivote de consentimiento lúcido real, donde el sujeto, pudiendo invocar la palabra de seguridad **ROJO**, decide entregar voluntariamente su intelecto doméstico ante la fascinación por el brillo y la presencia de Miss Doll.
+6.  **Reencuadre Pareado y Péndulo Sintáctico:** Se expandió la bisagra del reencuadre pareado con un diálogo de PNL más denso y pesado, contrastando el vacío seco del lenguaje anterior de control con la excitación física y sumisa que resuena con calor al aceptar la verdad del trance.
+7.  **LOCK del Orgasmo Real:** El trigger **LOCK** de castidad mental se instala directamente sobre la mente y el orgasmo real del lector, anclándolo con la sugestión post-hipnótica de la mancha roja brillante de labial que asoma en el cristal derecho de sus lentes en su vida cotidiana.
