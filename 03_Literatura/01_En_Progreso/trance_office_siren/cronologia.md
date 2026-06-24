@@ -25,9 +25,14 @@
 ## 3. Hechos Plantados y Reglas de Continuidad (Mantenimiento de Eje)
 
 - **La Alucinación del Entorno:** El aroma a látex y vainilla densa inducido en el espacio físico real del lector como ancla de entrada.
+- **La Sobrecarga de Shock (Contraste Sensorial):** Interpolar ráfagas veloces de estímulos antagónicos (seda blanca caliente vs. látex negro frío, crema líquida y fría secándose instantáneamente en una máscara rígida de base profesional).
 - **El Shock del Calzado (HEELS):** Sugestión de los empeines curvándose en tacones altos, sintiendo el calor y la inestabilidad en las pantorrillas y metatarsos del lector.
-- **La Máscara Rígida (MAKEUP):** Sensación táctil real de piel seca y párpados pesados (pestañas XXXL) mirando la pantalla a través del fleco negro.
+- **La Máscara Rígida (MAKEUP):** Sensación táctil real de piel seca e inmovilizada por el polvo y párpados pesados (pestañas XXXL) mirando la pantalla a través del fleco negro.
 - **El Silencio del Gloss (RED + SILENCE):** El grosor físico sugerido del gloss rojo que sella la boca del lector en una O muda y húmeda.
+- **La Bimboficación Lingüística (Chilean-Cuico):** La niebla de algodón de azúcar rosa que archiva la mente analítica del lector e instala un diálogo interno marcado en slang cuico chileno ("o sea", "tipo", "heavy", "regio").
 - **El Fraccionamiento del Habla:** La orden de pronunciar su nombre real resultando en un balbuceo inducido y deleite por la impotencia lingüística.
 - **El Reencuadre Pareado (PNL):** Contraste somático en el lector: lenguaje de control (se siente hueco y seco) vs lenguaje del Vacío (calor húmedo en el bajo vientre real).
+- **La Pesadez Física Sugerida:** La ilusión de gravedad real en el pecho del lector, sintiendo los implantes de 1000cc por lado empujando su torso hacia adelante y obligando a arquear su columna.
+- **La Parálisis Motora en Silla (BDSM):** La incapacidad inducida de levantarse de la silla de cuero, rindiendo la motricidad ante las órdenes directas.
 - **El Sello de Castidad (LOCK):** Bloqueo mental del orgasmo real del lector bajo la llave de Miss Doll, anclando la sugestión post-hipnótica de la marca invisible del labial rojo (mancha roja brillante) en el cristal derecho de sus gafas.
+
