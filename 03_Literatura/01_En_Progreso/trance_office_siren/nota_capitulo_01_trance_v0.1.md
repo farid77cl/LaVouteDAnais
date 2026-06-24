@@ -1,1 +1,1 @@
-debe sentirse como un trance hipnótico real
+debe sentirse como un trance hipnótico real. hazlo más pesado, más hipnótico, usa técnicas reales de hipnosis y control mental
