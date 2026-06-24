@@ -39,7 +39,7 @@
 ### 📖 Literatura
 - 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 24/06) · v0.11 completado**
   - **Script hipnótico en segunda persona (v0.11)**: reescritura de refinamiento de hipnosis extrema. Integra inducción somática y neuromuscular activa en tiempo real, sobrecarga de shock (seda vs. látex, crema secándose), comandos en cursiva directivos, trinidad restrictiva y la transición gradual al acento chileno-cuico al activar GLASSES.
-  - **Archivos modificados**: `capitulo_01_trance_v0.1.md`, `cronologia.md`.
+  - **Archivos modificados**: `capitulo_01_trance_v0.11.md`, `cronologia.md`.
   - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.6.md`. Listo en el repositorio remoto.
 - 📲 **«La app» — 3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06/2026) · ⏳ Gate Ama Cap 3 v0.5**
   - **Cap 1 v0.3** ✅ Gate aprobado
@@ -88,7 +88,7 @@
 
 ### Sesión 24/06/2026 (🌀 Diseño y Redacción de Relato Trance (Office Siren) · 🧿 Auditoría del Catálogo de Trances) ✅
 - **🧿 Auditoría de Trances:** Analizados los 9 relatos del subgénero hipnótico erótico en el repositorio (Duología Gloss, Duología BimboDoll, Trance de Belén, La Marca del Cencerro, El Collar de Campanita, Trance de Muñeca, Trance: Edgeplay). Creado el reporte detallado `trance_stories_review.md`.
-- **🌀 Nuevo Relato Trance (Office Siren):** Creada la carpeta del relato en `03_Literatura/01_En_Progreso/trance_office_siren/` y redactados los archivos `canon_relato.md`, `cronologia.md` y `capitulo_01_trance_v0.1.md` (v0.3 del script de hipnosis).
+- **🌀 Nuevo Relato Trance (Office Siren):** Creada la carpeta del relato en `03_Literatura/01_En_Progreso/trance_office_siren/` y redactados los archivos `canon_relato.md`, `cronologia.md` y `capitulo_01_trance_v0.11.md` (v0.3 del script de hipnosis).
 - **⚖️ Autoevaluación del Guardián:** Auditoría interna en `reportes/capitulo_01/critica_v0.1.md` con nota **9.9/10.0 (Aprobado con Excelencia)**.
 
 ### Sesión 24/06/2026 (🎨 Materializado Look 639 (5/6 poses) · 🟢 Completados L249 y L295 al 100% · 🔄 Sync y Cierre de Sesión) ✅
