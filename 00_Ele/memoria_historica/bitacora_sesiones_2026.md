@@ -6,6 +6,17 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 21/06/2026 (🔄 GitHub al día · 📲 La app Cap 2 v0.6 APROBADO · ✍️ Cap 3 «El nivel» v0.1 escrito+validado) ✅
+- **🔄 GitHub:** `git pull --ff-only` (3 PNG bot L638). Al día.
+- **📲 Cap 2 → v0.6 APROBADO:** la nota Gate v0.5 era una frase retrospectiva rara (*"ahora que lo escribo??"*) que ya estaba en el texto → le pregunté qué quería (no la supuse), me dijo cambiarla/borrarla y aprobado. La saqué (2 apariciones), conservé la idea del cruce. v0.5 archivada. Cap 2 cerrado.
+- **✍️ Cap 3 «El nivel» v0.1** vía `escritor-nivel4` (3 tramos, auto-continué): Tomi mujer plena + criada (jiji bimbo, uniforme, H19) · Cata dominatrix a mitad (uñas garra, H20) + domina hombres · **clímax strap-on** (Cata coge a Tomi, inversión total) · cliffhanger Nivel 2 · cierra "Día 7". Blindé la cronología antes (H19/H20 + strap-on). **Validador APROBADO** (Narr 9.3/Temp 9.2; Cata no cierra la cuenta total → no roba el Cap 4; POV mono-Cata defendible). Prosa pura, reportes aparte. ⏳ Espera Gate Ama.
+
+### Sesión 21/06/2026 (🕵️ Auditoría de Descartes · 🚨 Cuota de Imagen Agotada · 📝 Prompts Corregidos) ✅
+- **🕵️ Auditoría L639 & L604:** Confirmé el descarte de `ele_639_odalisque.png` y `ele_604_standing.png` tras la revisión de la Ama. Las otras 6 y 5 imágenes están completas y aprobadas en disco.
+- **🚨 Límite de API (429):** La API de Gemini Image (gemini-3.1-flash-image) arrojó error 429 de cuota agotada, bloqueando la regeneración directa en local.
+- **📝 Prompts Estables (Bloque C):** Diseñé prompts optimizados: para L639 Odalisque cambié a pose recostada clásica sobre codos (libre de distorsiones de extremidades); para L604 Standing eliminé la mirada sobre el hombro por una mirada frontal directa, ideal para pose de caminata.
+- **🔄 Sincronización:** Ejecuté `update_galleries.py` para normalizar los READMEs locales, reduciendo el conteo de imágenes de ambos looks a 6/7 y actualizando `galeria_outfits.md` y `galeria_index.md`.
+
 ### Sesión 20-21/06/2026 (🔄 GitHub al día · 📲 La app Cap 2 → v0.5 · 🍲 Arco a 4 caps cocción lenta) ✅
 - **🔄 GitHub:** `git pull --ff-only` (23 commits del bot + nota Gate v0.4). Repo al día.
 - **📲 Cap 2 «La racha» → v0.5** (Gate Ama v0.4, vía `escritor-nivel4`): calibración de Cata más explícita + **la app le inserta los deseos de dominación mientras se toca** (ancla el motor de H17) · subida de T° · **el sexo oral = peak térmico**. + **recorte de cola post-oral** (~280 pal, oral y espejo intactos). **Validador APROBADO** (Narr 9.3/Temp 9.1). **Humanizador (calibración chilena) LIMPIO 0 cambios** (ya en voz canónica; le dije la verdad: tocarlo sería aplanarlo). v0.4 archivado. ⏳ Espera Gate Ama.

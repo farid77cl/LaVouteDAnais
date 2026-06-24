@@ -22,9 +22,25 @@
 
 ## 👠 Look 668: Black Diamond Executive
 
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_668_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_standing.png) | ![ele_668_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_back_view.png) | ![ele_668_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_seated.png) | ![ele_668_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_side_profile.png) | ![ele_668_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_ditzy.png) | ![ele_668_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_pov.png) | ![ele_668_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_odalisque.png) |
+
+---
+
+## 👠 Look 667: Dark Energy Training
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_667_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look667_dark_energy_training/ele_667_standing.png) | ![ele_667_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look667_dark_energy_training/ele_667_back_view.png) | ![ele_667_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look667_dark_energy_training/ele_667_seated.png) | ![ele_667_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look667_dark_energy_training/ele_667_side_profile.png) | ![ele_667_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look667_dark_energy_training/ele_667_ditzy.png) | ![ele_667_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look667_dark_energy_training/ele_667_pov.png) | ![ele_667_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look667_dark_energy_training/ele_667_odalisque.png) |
+
+---
+
+## 👠 Look 666: Black Dahlia Pinup
+
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_668_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look668_black_diamond_executive/ele_668_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_666_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_standing.png) | ![ele_666_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_back_view.png) | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -2444,11 +2460,11 @@
 
 ---
 
-## 👠 Look 295: Mirror Silver Liquid Lam Column
+## 👠 Look 295: Mirror Silver Liquid Lame Column
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_295_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_standing.png) | ⏳ | ![ele_295_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_seated.png) | ⏳ | ![ele_295_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lam_column/ele_295_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_295_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/ele_295_standing.png) | ![ele_295_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/ele_295_back_view.png) | ![ele_295_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/ele_295_seated.png) | ![ele_295_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/ele_295_side_profile.png) | ![ele_295_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/ele_295_ditzy.png) | ![ele_295_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/ele_295_pov.png) | ![ele_295_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/ele_295_odalisque.png) |
 
 ---
 
@@ -2814,9 +2830,9 @@
 
 ## 👠 Look 249: Black Chrome Strappy Harness Bordelle
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) | ⏳ | ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ⏳ | ![ele_249_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_249_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_standing.png) | ![ele_249_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_back_view.png) | ![ele_249_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_seated.png) | ![ele_249_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_side_profile.png) | ![ele_249_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_ditzy.png) | ![ele_249_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_pov.png) | ![ele_249_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/ele_249_odalisque.png) |
 
 ---
 

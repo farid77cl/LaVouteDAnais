@@ -58,7 +58,7 @@
 | **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 2/7 | ✅ Completo |
 | **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 2/7 | ✅ Completo |
 | **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 2/7 | ✅ Completo |
-| **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 3/7 | ✅ Completo |
+| **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 7/7 | ✅ Completo |
 | **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 7/7 | ✅ Completo |
@@ -104,7 +104,7 @@
 | **292** | Champagne Boudoir Slip 1930s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 2/7 | — |
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
-| **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 3/7 | ⏳ Pendiente |
+| **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 7/7 | ⏳ Pendiente |
 | **296** | Deep Teal Femme Fatale Detective (28/05/2026 — batch 291-300 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Corporate | — | — | 7/7 | — |
 | **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
 | **298** | Dark Plum Longline Corset Fetish 30s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 2/7 | — |
@@ -475,10 +475,10 @@
 | **663** | Obsidian Maid (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Domestic - Domestic Fetish Maid - negro + blanco — Contraste - platform + medias) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
 | **664** | Black Widow Swim (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Bikini - Bikini Fetish Pool Leather - negro — Monoblock - platform + medias) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
 | **665** | Midnight Stage Command (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Stripper - Stripper Stage Leather - negro + cromo — Contraste - platform + medias) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
-| **666** | Black Dahlia Pin-Up (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Pin-Up - Pin-Up Noir Femme Fatale - negro + rojo suela — Contraste - platform + medias) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **667** | Dark Energy Training (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gym - Gym Athletic Leather Fetish - negro + cromo — Contraste - platform + medias) | — | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **668** | Black Diamond Executive (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Corporate - Corporate Leather Power - negro + plata — Contraste - platform + medias) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **669** | Black Iron Corset (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Lenceria - Lenceria Fetish Corset - negro — Monoblock - platform + medias) | — | Lenceria | — | — | 6/7 | ⏳ Pendiente |
+| **666** | Black Dahlia Pin-Up (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Pin-Up - Pin-Up Noir Femme Fatale - negro + rojo suela — Contraste - platform + medias) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
+| **667** | Dark Energy Training (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gym - Gym Athletic Leather Fetish - negro + cromo — Contraste - platform + medias) | — | Gym | — | — | 7/7 | — |
+| **668** | Black Diamond Executive (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Corporate - Corporate Leather Power - negro + plata — Contraste - platform + medias) | — | Corporate | — | — | 7/7 | — |
+| **669** | Black Iron Corset (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Lenceria - Lenceria Fetish Corset - negro — Monoblock - platform + medias) | — | Lenceria | — | — | 7/7 | — |
 | **670** | Obsidian Siren Gala (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gala - Gala Leather Column Siren - negro + cromo — Contraste - platform + medias) | — | Gala | — | — | 6/7 | ⏳ Pendiente |
 
 ---
@@ -607,7 +607,7 @@
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
-| **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 3/7 | ⏳ Pendiente |
+| **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 7/7 | ⏳ Pendiente |
 | **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **300** | Black Satin Veiled Femme Fatale Noir (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
@@ -858,10 +858,7 @@
 | **663** | Obsidian Maid (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Domestic - Domestic Fetish Maid - negro + blanco — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
 | **664** | Black Widow Swim (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Bikini - Bikini Fetish Pool Leather - negro — Monoblock - platform + medias) | 0/7 | ⏳ Pendiente |
 | **665** | Midnight Stage Command (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Stripper - Stripper Stage Leather - negro + cromo — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
-| **666** | Black Dahlia Pin-Up (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Pin-Up - Pin-Up Noir Femme Fatale - negro + rojo suela — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
-| **667** | Dark Energy Training (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gym - Gym Athletic Leather Fetish - negro + cromo — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
-| **668** | Black Diamond Executive (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Corporate - Corporate Leather Power - negro + plata — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
-| **669** | Black Iron Corset (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Lenceria - Lenceria Fetish Corset - negro — Monoblock - platform + medias) | 6/7 | ⏳ Pendiente |
+| **666** | Black Dahlia Pin-Up (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Pin-Up - Pin-Up Noir Femme Fatale - negro + rojo suela — Contraste - platform + medias) | 2/7 | ⏳ Pendiente |
 | **670** | Obsidian Siren Gala (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gala - Gala Leather Column Siren - negro + cromo — Contraste - platform + medias) | 6/7 | ⏳ Pendiente |
 
 ---

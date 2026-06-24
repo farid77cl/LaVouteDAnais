@@ -56,6 +56,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 201 (Alabaster Power):** 7/7 Poses ✅.
 - ✅ **Look 202 (Indigo Mirage):** 7/7 Poses ✅.
 - ✅ **Look 203 (Violet Venom):** 7/7 Poses ✅.
+- ✅ **Look 249 (Black Chrome Strappy Harness Bordelle):** 7/7 Poses ✅.
 - ✅ **Look 250 (Burgundy Yoga Room Trophy):** 7/7 Poses ✅.
 - ✅ **Look 251 (Champagne Playboy Bunny Canon):** 7/7 Poses ✅.
 - ✅ **Look 252 (Holographic Bad Kitty):** 7/7 Poses ✅.
@@ -74,6 +75,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 - ✅ **Look 288 (Oxblood Croco Rock Housewife):** 7/7 Poses ✅.
 - ✅ **Look 289 (Black Leather Motocross Athleisure):** 7/7 Poses ✅.
 - ✅ **Look 290 (Studded Boxing Rock WOD):** 7/7 Poses ✅.
+- ✅ **Look 295 (Mirror Silver Liquid Lamé Column):** 7/7 Poses ✅.
 - ✅ **Look 204 (Emerald Bandcage):** 7/7 Poses ✅.
 - ✅ **Look 205 (Obsidian Gold Idol):** 7/7 Poses ✅.
 - ✅ **Look 206 (Crimson Cathedral):** 7/7 Poses ✅.
