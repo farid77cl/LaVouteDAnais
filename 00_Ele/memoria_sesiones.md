@@ -25,7 +25,7 @@
 - **Proyecto Activo:** Batch L661-L670 "Cuero Negro Total" diseñado (23/06/2026, máquina MAMÁ). Flota en L670 diseñado.
 - **Último Lote Diseñado:** L661-L670 "Cuero Negro Total" (10 looks · 70 prompts · TODOS cuero/vinyl/latex negro · TODOS medias · TODOS plataforma cerrada · Nightclub/Escort/Domestic/Bikini/Stripper/Pin-Up/Gym/Corporate/Lencería/Gala · QA: 0 guantes, 0 chunky, 0 open-toe, 0 clear platform, tokens calzado ×7). Previo: L651-L660 "Dominatrices" (22/06/2026).
 - **🔧 Engine reparado (23/06):** `pose_rotation_v5.py` — 3 variantes riesgosas retiradas (ODALISQUE[2] rodilla-arriba · ODALISQUE[5] piernas-levantadas-cruzadas · SEATED[4] rodillas-arriba-en-suelo). 10 poses corregidas en galería (L621-L639). `pose_repertoire_v5.md` actualizado (Od3/Od6/Se5).
-- **Último Look Materializado:** Looks del rango 200-300 completados (L206, L213, L214, L218, L219, L221, L222, L224, L225, L230, L253, L254 al 7/7 Poses).
+- **Último Look Materializado:** Completados Looks L231 (Butter Yellow Housewife) y L232 (Gold Liquid Rabanne) al 100% (7/7 Poses) con directiva de manos desnudas (0 guantes). L242 también completado en disco. L249 y L295 parciales a la espera de reset del límite de cuota (429).
 - **🖋️ TATUAJE PÚBICO DE RUNAS → CANON ADN (Ama 20/06):** detalle nuevo del canon de Ele. Marca de identidad permanente en **runas/glifos esotéricos** (blackwork fino) en el hip crease/bikini line. Token en Bloque A: `delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line`. Sincronizado en `dna_v3_5.md` + `identidad_ele.md` (Bloque A + §II nota) + `SKILL.md` (Bloque A + Modificaciones). **Filtro: `hip crease`/`bikini line`, NUNCA `groin`/`pubis`.** Auto-memoria `feedback_tatuaje_pubico_runas`.
 - **🧦 REGLAS NUEVAS DE MEDIAS+CALZADO (Ama 20/06) — codificadas** (`04-estetica-ele.md` + SKILL ele-outfit-engine + auto-memoria `feedback_medias_calzado_reglas`): (1) medias + punta abierta (peep/open toe) = PROHIBIDO → punta cerrada; (2) medias negras + mini falda blanca = NO absoluto; (3) medias + (donde iría Pleaser) = platform pump cerrado (clear Pleaser open-toe solo SIN medias); (4) **plataforma = mismo color del zapato** (salvo clear acrílico). Reparadas las 6 violaciones en L591-L620 (L602/604/607/608/609/618). Chequeo cruzado = 0.
 - **🔍 Auditoría L591-L620:** ADN impecable pero **fuerte repetición de silueta** entre los 3 batches (mismo outfit cambiando calzado): Office Siren ×3 (L597/605/615), lencería cereza L596≈L606, goth-lace L598≈L607, pin-up lunares L610≈L620, gym leggings+crop ×4, bikini oro L594≈L619; settings reciclados verbatim (L598=L606). Pendiente decidir si rediseñar clones.
@@ -72,6 +72,10 @@
 ## 🗓️ Sesiones recientes
 
 
+
+### Sesión 23/06/2026 (🎨 Completados Looks L231, L232, L242 al 100% · 📂 Auditoría Lote 200-300) ✅
+- **🟢 Looks Completados (7/7 Poses):** L231 y L232 completados al 100% en disco y sincronizados en la galería (471 looks totales). L242 también completado.
+- **⚠️ Límite de Generación (429):** Se alcanzó el límite de cuota (429) tras completar L232. Looks L249 y L295 parciales agendados para la próxima sesión.
 
 ### Sesión 23/06/2026 (🗂️ Notas Gate → reportes/ · 🔍 análisis Tomi Cap 2 · 💡 6 ideas MTF nuevas) ✅
 - **🔍 Análisis género Tomi Cap 2:** masculino como default (quieto/contento/regio ×2) + fisuras femeninas en rendición corporal (sola l.67 / regia l.79). Patrón correcto del "masculino sin resolver".
