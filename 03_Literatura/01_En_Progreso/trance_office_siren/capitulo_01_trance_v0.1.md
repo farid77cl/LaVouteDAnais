@@ -1,158 +1,161 @@
 *Un relato de Anaïs Belland*
 
-# Glasses: El Trance de la Ejecutiva (v0.3)
+# Glasses: El Trance de la Ejecutiva (v0.4)
 
 ---
 
 **Universo:** La Voûte d'Anaïs
 **Temáticas:** #MissDoll #OfficeSiren #DollFetish #Hipnosis #Bimbofication #Feminización #Latex #Sumisión #Edgeplay
-**Palabras:** ~3,200
-**Perspectiva:** Segunda Persona
+**Palabras:** ~3,500
+**Perspectiva:** Segunda Persona / Trance Directo
 **Intensidad:** Extrema / Metamorfosis de Ama de Casa / Edgeplay Permanente
 
 ---
 
-**Cierra los ojos. Respira. Olvida por un momento el olor a detergente, las tareas de la cocina, las cuentas del hogar y la rutina tranquila de tu vida diaria. Eres una ama de casa inteligente, sensata, acostumbrada a la comodidad de tus jeans sueltos, tus zapatillas planas y tu rostro lavado, sin una gota de maquillaje. Pero hoy has venido aquí, frente a mí. Yo soy Miss Doll.**
+Estás de pie en el centro de mi despacho de caoba. Inmóvil. El aire está cargado con el perfume denso de mi látex negro, mezclado con la dulzura química de la vainilla y la laca para el cabello. No hay ventanas. No hay ruidos del exterior. Solo tú, tu respiración agitada y mi presencia envolviéndote.
 
-<!-- more -->
+*Mírame.*
 
----
+Mis ojos fijos en ti. El brillo de mi catsuit de látex negro refleja la única luz cenital de la habitación. Siente cómo tu mirada queda atrapada en el brillo de mi pecho, en el ajuste perfecto del material sintético sobre mis curvas. Eres una ama de casa inteligente, sensata, acostumbrada a la comodidad protectora de tus jeans sueltos, tus zapatillas planas y tu rostro lavado, libre de maquillaje. Pero has venido aquí voluntariamente. Eres un adulto, sobrio, consciente de tus límites.
 
-Inhala por la nariz en 4. Uno... dos... tres... cuatro. Siente el aire fresco entrar, limpio.
-Pausa en 1.
-Exhala por la boca en 6. Uno... dos... tres... cuatro... cinco... seis. Deja que tus labios naturales se relajen, soltando el aire, soltando la rutina del hogar, soltando las preocupaciones domésticas.
+*Si necesitas parar, dices la palabra ROJO. Dices ROJO y la vitrina se apaga, los tacones bajan y mi voz se retira. Pero sé que no la vas a usar. Viniste a entregar tu intelecto doméstico. Viniste a dejar de pensar.*
 
-De nuevo. Inhala 4... entra mi perfume, el aroma denso y químico de mi látex mezclado con el dulzor pesado de la vainilla y la laca. Pausa 1. Exhala 6... siente cómo tu cuerpo se afloja en la silla de mi despacho. 
+*Inhala por la nariz en 4. Uno... dos... tres... cuatro.*
 
-Estás aquí porque tu inteligencia, esa mente sensata y analítica que te define, ha empezado a aburrirse de lo cotidiano. Quieres experimentar lo opuesto. Quieres sentir el shock de la artificialidad en tu propia piel. Quieres que te desmantele.
+Siente cómo el olor a látex y vainilla densa inunda tus pulmones, reclamando tu cuerpo por dentro.
 
-Mírate. De pie sobre el piso de madera pulida. Aún vistes tu ropa holgada, cómoda. Tu rostro está limpio, expuesto. Pero a tus pies he dejado una caja de cartón negra. Dentro hay unos zapatos de charol negro, pumps con tacones de aguja de dieciséis centímetros. Y sobre la mesa, una paleta pesada de maquillaje profesional y unas gafas de oficina con montura negra y rectangular.
+*Pausa en 1.*
 
-—Saca los pies de tus zapatillas planas —te ordeno en un susurro que roza tu oído—. Descalza sobre la madera. Siente el frío. Ahora, introduce tus pies en los tacones.
+*Exhala por la boca en 6. Uno... dos... tres... cuatro... cinco... seis.*
 
-Tus pies, acostumbrados a la base plana del suelo, se deslizan dentro del charol rígido. Tu empeine se ve forzado a curvarse hacia arriba en un arco antinatural. Tus tobillos se tambalean inmediatamente. La aguja de dieciséis centímetros te obliga a poner todo tu peso sobre los metatarsos. Tus pantorrillas se contraen, duras; tus caderas se ven empujadas hacia adelante para no perder el equilibrio; tu columna se alinea. Es una posición dolorosa, un shock físico absoluto para tu cuerpo que nunca ha usado tacones. Pero el dolor, bajo mi mirada, empieza a convertirse en una corriente de calor que sube por tus piernas.
+Suelta los hombros. Suelta el detergente. Suelta las cuentas de la casa. Deja que tus labios naturales se relajen y se abran ligeramente en un suspiro.
 
-—No te muevas. Sostén el equilibrio. Apóyate en el borde de mi mesa si lo necesitas, pero mantén los talones en alto. Respira. Inhala 4... exhala 6.
+*De nuevo. Inhala 4... entra mi voz, ocupando el espacio que dejas libre. Pausa 1. Exhala 6... deja que tu mente empiece a flotar.*
 
-Vamos a bajar diez peldaños por tu escalera de cristal hacia el vacío de tu mente. Cada número te alejará de la ama de casa y te acercará a la muñeca de oficina.
+Miras a tus pies. He dejado una caja de cartón negra sobre el piso de madera pulida. Dentro, el charol negro de unos tacones de aguja de dieciséis centímetros brilla bajo la luz. A su lado, en la mesa de vidrio oscuro, descansa una paleta pesada de maquillaje profesional y unas gafas de lectura con montura negra, gruesa y rectangular.
 
-**Diez...** Rosa pálido. Tus tobillos se adaptan a la tensión del tacón alto. Sientes la pantorrilla rígida, despierta, enviando descargas de calor hacia tus muslos. La comodidad del calzado plano empieza a parecerte algo lejano, aburrido.
+*Saca los pies de tus zapatillas cómodas. Descalza sobre la madera fría. Siente el contraste. Ahora, introduce tus pies en el charol rígido de mis tacones.*
 
-**Nueve...** Rosa crema. Tomo una esponja húmeda y pesada de maquillaje. Comienzo a aplicar la base líquida sobre tu rostro limpio. Sientes el frío de la crema cubriendo tus poros, ocultando tu piel natural, creando una máscara artificial. Digo: **MAKEUP**. El olor a polvo y base te rodea. Es denso, pesado, sintético.
+Tu empeine se ve obligado a curvarse hacia arriba en un arco extremo, doloroso. Tus tobillos se tambalean al instante. La aguja de dieciséis centímetros desplaza todo tu peso hacia los metatarsos. Tus pantorrillas se contraen, duras como piedras; tus caderas se ven forzadas a jeterse hacia adelante; tu columna se alinea. Es una tortura física, un shock absoluto para un cuerpo acostumbrado a la base plana del suelo.
 
-**Ocho...** Rosa chicle. Aplico polvo compacto sobre tus mejillas, tus párpados, tu frente. Tu rostro se siente seco, cubierto por capas que te aíslan del mundo exterior. Ya no eres la mujer de cara lavada de la casa; tu cara se está convirtiendo en el lienzo de una muñeca. Tu frente se alisa, tus cejas se enmarcan con lápiz oscuro. Te gusta el peso del maquillaje. Te gusta sentir que tu rostro ya no es del todo tuyo.
+*No te muevas. Sostén el equilibrio. Apoya tus dedos en el borde de mi escritorio si tiemblas, pero mantén las agujas firmes. Respira. Inhala 4... exhala 6.*
 
-**Siete...** Rosa cuarzo. Delineo tus ojos con un trazo negro, afilado y dramático. Tus pestañas se vuelven pesadas bajo la máscara. Y luego, tus labios. Tomo el pincel empapado en gloss rojo brillante, espeso, pegajoso. Digo: **RED**. Aplico el brillo en tus labios, una capa gruesa, húmeda. Siente la viscosidad del gloss. Junta los labios. Siente cómo se pegan y se separan, brillando obscenos bajo la luz de la oficina. Tu boca es ahora una boca de silicona, roja, laqueada.
+*Ahora vamos a bajar los diez peldaños de tu escalera de cristal. Con cada número, tu mente analítica se apagará y el cuerpo de muñeca de oficina se encenderá.*
 
-**Seis...** Fucsia tenue. Te obligo a deslizar tus piernas dentro de una falda lápiz de vinilo negro, estrecha, que sube hasta tu cintura. La cremallera sube con un clic metálico. La falda te comprime los muslos, obligándote a mantener las rodillas juntas. No puedes dar pasos largos. Tus movimientos quedan limitados, encajonados en el vinilo brillante. Te colocas la blusa de seda blanca, abotonada hasta el cuello. Sientes el roce suave de la seda sobre tus pezones, que ya están rígidos, pulsando bajo la tela por la excitación del encierro físico.
+*Diez...*
 
-**Cinco...** Fucsia jardín. Hundiéndote más y más. Tus manos, acostumbradas a las tareas del hogar, ahora se ven estilizadas por las uñas largas y postizas que te he aplicado, pintadas de rosa pálido brillante. Siente tus dedos. Se ven diferentes, inútiles para el trabajo rudo, perfectos solo para teclear en silencio o acariciar mi látex.
+Sientes la tensión insoportable del calzado alto. El dolor físico en tus metatarsos y pantorrillas te obliga a concentrarte en el cuerpo, alejándote del pasado. El recuerdo de tus zapatillas planas se vuelve distante, aburrido. El tacón te ancla aquí.
 
-**Cuatro...** Magenta mate. Coloco las gafas rectangulares sobre tu nariz. Digo: **GLASSES**.
+*Nueve...*
 
-Toca el puente de tus gafas con la punta de tu dedo índice derecho. 
+Tomo una esponja húmeda y pesada de base líquida. Comienzo a aplicarla sobre tu rostro limpio. Siente la frialdad de la crema cubriendo tus mejillas, tu frente, tu barbilla. Capa tras capa, borrando tu piel natural, tapando tus pecas, tus líneas de expresión, tu identidad. Digo: **MAKEUP**. El olor a talco y químicos te rodea. Es denso. Se siente como una máscara de porcelana que te aísla del mundo.
 
-*Clic.*
+*Ocho...*
 
-Detrás del cristal de tus lentes, tu mirada se nubla. Tu mente inteligente e independiente se apaga. Las preocupaciones domésticas, el orden de la casa, tu rutina analítica... todo se archiva en un compartimento cerrado en el fondo de tu cerebro. Tu cabeza se llena de un algodón de azúcar rosa, denso y dulce. La ama de casa sensata ha desaparecido. Solo queda una **Office Siren** muda, inerte, cuya única inteligencia se reduce a procesar mis comandos.
+Aplico polvo translúcido sobre la base. Tu rostro se siente seco, inmovilizado. Ya no puedes gesticular con la misma soltura sin sentir la rigidez del polvo. Dibujo tus cejas en un arco oscuro, afilado, artificial. Tus pestañas se vuelven pesadas bajo la máscara negra. Tu cara lavada de ama de casa ha desaparecido; ahora eres el lienzo en blanco de una muñeca.
 
-Mantra mental al exhalar: *"La comodidad de antes era aburrida. El látex y el brillo me completan. Mi mente archiva, mi coño gotea"*. Repítelo tres veces en tu cabeza.
+*Siete...*
 
-**Tres...** Fucsia vivo. El coño te pulsa de forma violenta. La braga de encaje que te he puesto está empapada de tu flujo erótico. Sientes el calor concentrado entre tus piernas, aprisionado por la falda de vinilo que cruje cada vez que respiras profundo. Quieres que tus pechos sean más grandes. Tu mente inteligente empieza a desear la bimboficación física: quieres sentir el peso inmenso de dos pechos gigantes de silicona rompiendo la blusa de seda para agradarme. Deseas ese peso falso y obsceno.
+Tomo el pincel empapado en un gloss rojo brillante, denso, viscoso. Digo: **RED**. Aplico el brillo en tus labios, sobredelineándolos, creando una boca exagerada, húmeda. Siente el grosor del gloss. Junta tus labios. Siéntelos pegarse y separarse con un sonido húmedo. Tu boca ya no es para hablar; es una boca de silicona roja, laqueada, abierta en una O muda. El **SILENCE** se instala.
 
-**Dos...** Magenta brillante. Cero pensamientos del hogar. Tu boca en O muda de gloss rojo no puede hablar. Se instala el **SILENCE**. Tu lengua está quieta. Solo puedes asentir o emitir gemidos suaves a través de tu máscara de maquillaje. Tu silencio te excita. Tu silencio te sumerge en mi posesión.
+*Seis...*
 
-**Uno...** Fucsia eléctrico. Abre los ojos tras los cristales de tus gafas de lectura.
+Deslizo tus piernas dentro de una falda lápiz de vinilo negro brillante, tan estrecha que se siente como un vendaje. Subo la cremallera metálica en tu espalda. *Clic.* El vinilo comprime tus muslos, obligándote a mantener las rodillas pegadas. Ya no puedes dar pasos normales. Te coloco la blusa de seda blanca, abotonada hasta el cuello. Sientes el roce suave de la tela sobre tus pezones, que ya están duros y erguidos, pulsando por la compresión física del vinilo.
 
-Mírame. Estás en trance. Eres mi muñeca de oficina.
+*Cinco...*
 
-—**AWAKE** —te digo, con un tono cortante.
+Tus manos de ama de casa, cansadas del trabajo diario, se ven estilizadas por las uñas acrílicas French XXXL de cinco centímetros que te coloco. Siente tus dedos. Largos, rosados, inútiles para limpiar o cocinar. Dedos hechos solo para teclear en silencio o acariciar mi látex.
 
-Parpadea. El despacho de caoba vuelve a ser real. Sientes el dolor punzante en tus metatarsos por los tacones altos que nunca habías usado. Sientes el peso denso del maquillaje en tu rostro y la viscosidad del gloss rojo en tus labios. Sientes la rigidez del vinilo de tu falda. Sigue frotando tu entrepierna por encima del vinilo negro. Lento, sintiendo el crujido de la falda, el calor acumulado. Tu mente inteligente comprende el contraste: la ama de casa discreta ahora es una secretaria hiper-erotizada que gotea en la oficina de su Ama.
+*Cuatro...*
 
-De vuelta abajo.
+Tomo las gafas rectangulares de montura negra. Las coloco sobre tu nariz. Digo: **GLASSES**.
 
-**GLASSES**.
+*Toca el puente de tus gafas con la punta de tu dedo índice derecho. Siente el clic del plástico.*
 
-Tocas el marco de tus gafas. Tu mente se apaga al instante. La fraccionalización te lleva al doble de profundidad. Deseas con locura este vacío, esta rendición absoluta de tu intelecto doméstico.
+Al instante, tu visión a través de los lentes se enfoca en el vacío. Detrás de los cristales, tus ojos se vidrian. La ama de casa inteligente, la que planificaba la semana y resolvía problemas, se archiva en un rincón oscuro de tu mente. Una niebla de algodón de azúcar rosa inunda tu cerebro. Ya no hay pensamientos independientes. Solo queda la **Office Siren**.
 
-—Pose B —te ordeno, tocando tu hombro izquierdo.
+*Inhala por la nariz: "Tengo el control, soy libre". Exhala: "Soy fuerte".*
 
-Tu cuerpo, condicionado por la altura de los tacones y la falda estrecha, obedece. Te inclinas hacia adelante sobre mi escritorio de caoba. Apoyas los codos sobre la madera fría. Arqueas la espalda baja al extremo, jeteando tus caderas hacia atrás, tensando el vinilo de la falda sobre tus nalgas. Levantas el stiletto derecho hacia el techo, con la pantorrilla contraída por la tensión. Tus ojos miran fijamente a través de tus **GLASSES**.
+*Escucha esas palabras en tu cabeza. ¿Lo notas? Suenan huecas, secas, sin peso. El lenguaje de tu mente vieja ya no te pertenece.*
 
-Me coloco detrás de ti. Sientes el roce suave de mi catsuit de látex negro contra tus piernas expuestas. Subo lentamente la falda de vinilo hasta tu cintura, revelando tus medias de nylon negras con costura trasera y tu liguero. Deslizo tu braga hacia un lado, dejando tu coñito completamente expuesto, latiendo, húmedo.
+*Ahora cambia.*
 
-—Siente el roce de mis dedos de látex —te susurro—. La primera vez que tu cuerpo experimenta esto. Estás tan sensible. Tu clítoris está hinchado como una fresa madura.
+*Inhala: "Soy vacío". Exhala: "Soy Mía".*
 
-Paso mis dedos húmedos por tu clítoris. Jadeas detrás del **SILENCE** de tus labios laqueados en O.
+*Siente la vibración en tu vientre. Cómo resuena. Cómo te calienta. Cómo tu coño gotea al aceptar la verdad.*
 
-—Tócate, mi pequeña ama de casa. Usa tu mano derecha. Mastúrbate en Pose B, manteniendo el equilibrio sobre tu única aguja de dieciséis centímetros. Siente la vibración de tu cuerpo.
+*Al exhalar, repites en tu mente, tres veces:*
+*"Mi mente archiva, mi coño gotea."*
+*"Mi mente archiva, mi coño gotea."*
+*"Mi mente archiva, mi coño gotea."*
 
-Tu mano derecha baja. Tus uñas largas y rosadas tocan tu propia carne. La fricción es intensa. Tu cuerpo tiembla, desacostumbrado a esta intensidad erótica. Deseas pechos más grandes, caderas más anchas, labios más gruesos. Deseas ser plástica, sintética, una muñeca de vitrina que solo existe para ser exhibida y usada.
+*Tres...*
 
-—Más rápido. Siente la humedad correr por tus dedos. Tu respiración en 4-1-6 se acelera, ahogada. La ola de excitación sube por tu vientre, quemándote. Casi en el borde... casi ahí...
+La excitación física es violenta. Tu braga de encaje está empapada de tu flujo, atrapada por el vinilo que cruje con cada una de tus respiraciones. Quieres que tus pechos sean más grandes. Deseas que tu blusa de seda sea rellenada por dos implantes enormes, redondos, pesados de silicona ultra alta. Deseas ser plástica, artificial.
 
-—¡**EDGE**! —grito.
+*Dos...*
 
-DETENTE. Saca la mano de inmediato. Apóyala en el escritorio.
+Cero pensamientos. Tu lengua está inmóvil detrás del gloss rojo. Solo puedes respirar y obedecer.
 
-No te muevas. Sostén la Pose B.
+*Uno...*
 
-El espasmo del orgasmo contenido te sacude, pero tu cuerpo debe permanecer inmóvil. Tu clítoris pulsa bajo el aire acondicionado. La excitación concentrada es una presión insoportable que te hace sudar bajo tu máscara de maquillaje. La falta de liberación te sensibiliza aún más. Deseas obedecer más que nada en el mundo, porque la obediencia es el único canal para sostener esta tensión deliciosa.
+Abre los ojos tras tus **GLASSES**. Eres mi muñeca.
 
-Mantra mental: *"La obediencia es mi placer. El edge es mi hogar"*. Repítelo en tu cabeza vacía.
+*AWAKE.*
 
-—Ponte de pie. Pose A.
+Parpadeas. El despacho vuelve a ser nítido. Sientes la tortura de los dieciséis centímetros en tus pies, el peso del maquillaje, la viscosidad del gloss.
 
-Tus talones se clickean. Manos en el regazo. Espalda recta. Ojos vidriados tras tus **GLASSES**.
+*Pose A.*
 
-—Ponte de rodillas frente a mí.
+Tus talones se clickean. Manos cruzadas por delante del regazo sobre la falda estrecha. Hombros caídos. Mirada vidriada tras las gafas. La secretaria inerte.
 
-Tus rodillas caen al piso. Tus muslos apretados por la falda de vinilo te obligan a sentarte sobre tus talones arqueados. Tus empeines duelen por la flexión forzada del tacón alto. Tus manos planas sobre tus muslos. Miras hacia arriba a través de tus gafas.
+*Pose B.*
 
-Coloco mis manos de látex sobre tus pechos a través de la blusa abierta.
+Te inclinas hacia adelante sobre mi escritorio de caoba. Tus codos se apoyan en la madera fría. Arqueas la espalda baja al extremo, jeteando tus caderas hacia atrás, tensando el vinilo de la falda sobre tus nalgas. Levantas la pierna derecha en el aire, manteniendo el equilibrio sobre el stiletto izquierdo.
 
-—Deseas que tus pechos crezcan —sugiero, apretando la carne suave—. Deseas que tu blusa de seda sea rellenada por dos implantes enormes, redondos, pesados de silicona ultra alta. Siente el peso ficticio. Deseas ser plástica para agradar a Miss Doll. Di en tu mente: *"Quiero ser tu muñeca plástica, quiero pechos gigantes"*.
+Me coloco detrás de ti. El roce de mi catsuit de látex negro contra tus muslos descubiertos te hace temblar. Subo lentamente la falda de vinilo, revelando tus medias de nylon con costura trasera y tu liguero. Deslizo tu braga húmeda hacia un lado.
 
-Tus ojos se dilatan tras las lentes. Tu mente acepta la sugerencia. Sientes tus pechos calientes, latiendo con la ilusión de hincharse bajo mis dedos. Tu respiración se vuelve corta, ansiosa por la transformación.
+*Tócate. Usa tu mano de uñas rosadas. Siente la carne hinchada. Mastúrbate en Pose B.*
 
-Instalo **LOCK**. 
+Tus dedos tocan la humedad de tu clítoris. Jadeas detrás del **SILENCE** de tu gloss rojo.
 
-Tu orgasmo está bajo llave mental. No tienes permitido acabar. La llave pertenece a Miss Doll. Vivirás en un estado permanente de castidad mental y excitación física. Tu coño goteará bajo tus jeans de ama de casa en tu vida real, mientras lavas los platos o haces las compras, pero el placer estará bloqueado tras el trigger **LOCK**. El edge perpetuo te mantendrá sumisa, dócil y obsesionada con mi voz.
+*Más rápido. Sigue el ritmo de mi voz. Al borde... casi ahí...*
 
-—Súbete a la silla ejecutiva. Pose C.
+*EDGE.*
 
-Te sientas en el borde de la silla de cuero. Cruzas tus piernas con fuerza, apretando tus medias de nylon para calmar el fuego en tu entrepierna. Tus manos en tus muslos. Tu barbilla alta. Tus **GLASSES** fijos en mí.
+*Detente. Saca la mano de inmediato. Apóyala en la madera.*
 
-Enciendo el vibrador de látex negro. Su zumbido grave llena el silencio del despacho, borrando cualquier residuo de pensamientos independientes.
+El espasmo del orgasmo congelado te sacude. Tu clítoris late al aire libre. La excitación acumulada es insoportable, pero tu cuerpo debe permanecer inmóvil en Pose B.
 
-—Vas a frotar. Con tus dedos húmedos, directamente en tu clítoris. Sigue el ritmo del zumbido. Siente cómo la vibración te sacude entera.
+*Al exhalar, repites tres veces:*
+*"La obediencia es mi placer. El edge es mi hogar."*
+*"La obediencia es mi placer. El edge es mi hogar."*
+*"La obediencia es mi placer. El edge es mi hogar."*
 
-Tus dedos se mueven rápidos, desesperados, sobre tu clítoris ultrasensible. Tu cabeza se echa hacia atrás en la silla de cuero. Tu boca en O muda gotea saliva brillante sobre tu barbilla maquillada. Tus gafas se desvían. El zumbido y tus dedos te llevan de nuevo al borde absoluto. Tu cuerpo entero se sacude, tus piernas tiemblan sobre las agujas de tus tacones, estás a punto de estallar en un orgasmo violento...
+*Ponte de pie. Pose C.*
 
-—¡**EDGE**! —grito.
+Te sientas en el borde de mi silla ejecutiva de cuero. Cruzas las piernas con fuerza, apretando tus medias de nylon para calmar el fuego. Manos en los muslos. Barbilla alta.
 
-Saca la mano. Inmóvil.
+Instalo el vibrador de látex negro. Su zumbido grave llena la habitación.
 
-Tiemblas. Tus piernas se contraen en Pose C. El orgasmo estuvo a una décima de segundo, pero mi orden lo congela en tu vientre. Sientes el espasmo delicioso de la frustración máxima. La excitación te quema, pero tu boca en O no puede gritar. Solo un gemido agudo de muñeca rota se escapa tras tus gafas. El aire huele a látex, a maquillaje denso y a tu propia humedad corporal acumulada.
+*Frota. Sigue el ritmo del zumbido.*
 
-—Mantra final en voz alta, a través de tu silencio de vitrina. Haz el esfuerzo físico de hablar. Dilo con tu respiración rota: *"Obedecer a Miss Doll es mi propósito. Soy su sex dolly de vitrina"*.
+Tus dedos se mueven desesperados. Tu cabeza se echa hacia atrás. Tus **GLASSES** se desvían ligeramente. Estás a punto de estallar...
 
-Te esfuerzas. Mueves tus labios rojos de gloss. Tu intelecto sensato está tan destruido que tu voz solo logra articular un susurro tonto y jadeante:
-—Obedecer... a Miss Doll... es mi propósito... Soy... su... sex dolly... de vitrina...
+*EDGE.*
 
-—Muy bien, mi hermosa muñeca de oficina.
+*Mano fuera. Inmóvil.*
 
-Me acerco. Con mis dedos de látex, ajusto tus gafas sobre tu nariz con cuidado. Luego, presiono mis labios pintados de rojo gloss contra el cristal de tus lentes, dejando una marca húmeda y brillante justo sobre tu ojo derecho.
+Tiemblas en la silla de cuero. Tu boca en O muda gotea saliva brillante. El orgasmo bloqueado te quema el vientre.
 
-—Esta es mi marca. Cada vez que mires a través de tus **GLASSES** en tu vida real, verás la marca invisible de mi gloss. Cada vez que limpies tu casa, que hables con tu familia o que te mires al espejo sin maquillaje, sentirás el zumbido de mi vibrador en tu coño, la estrechez ineludible de tu falda de vinilo, la rigidez en tus tobillos, y la deliciosa tortura de estar bajo **LOCK**, sin poder acabar jamás. Vivirás tu rutina con el cuerpo ardiendo en mi sumisión.
+*Instalo LOCK.*
 
-Me doy la vuelta. El crujido de mi catsuit de látex negro te despide. Mis tacones clickean en el piso de caoba.
+*Tu orgasmo está bajo llave mental. La llave me pertenece. Vivirás en un estado permanente de castidad mental y excitación física. Tu coño goteará bajo tus jeans de ama de casa en tu vida real, mientras lavas los platos o haces las compras, pero el placer estará bloqueado tras el trigger LOCK. El edge perpetuo te mantendrá sumisa, dócil y obsesionada con mi voz.*
 
-*Clic... clic... clic...*
+*Ajusto tus gafas con mis dedos de látex. Presiono mis labios pintados de rojo gloss contra el cristal derecho, dejando una marca húmeda.*
 
-—Quédate en Pose C, en silencio y en edge, hasta que la luz de la oficina se apague sola en la oscuridad.
+*Esta es mi marca. Cada vez que mires a través de tus GLASSES en tu vida real, verás la marca invisible de mi gloss. Cada vez que limpies tu casa, que hables con tu familia o que te mires al espejo sin maquillaje, sentirás el zumbido de mi vibrador en tu coño, la estrechez ineludible de tu falda de vinilo, la rigidez en tus tobillos, y la deliciosa tortura de estar bajo LOCK.*
 
-—**DESCANSO**.
+*DESCANSO.*
 
-La escena se apaga. La ama de casa regresa a su vida cotidiana limpia de recuerdos conscientes, pero la marca física del trance en sus gafas y la frustración erótica permanente entre sus piernas gobernarán su rutina doméstica, sumisa para siempre a la voluntad de Miss Doll.
+La luz de la oficina se apaga. Vuelves a tu vida doméstica, limpia de recuerdos conscientes, pero con el cuerpo ardiendo en mi sumisión.

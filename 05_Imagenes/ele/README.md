@@ -38,9 +38,49 @@
 
 ## 👠 Look 666: Black Dahlia Pinup
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_666_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_standing.png) | ![ele_666_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_back_view.png) | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_666_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_standing.png) | ![ele_666_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_back_view.png) | ![ele_666_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_seated.png) | ![ele_666_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_side_profile.png) | ![ele_666_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_ditzy.png) | ![ele_666_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_pov.png) | ![ele_666_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look666_black_dahlia_pinup/ele_666_odalisque.png) |
+
+---
+
+## 👠 Look 665: Midnight Stage Command
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_665_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look665_midnight_stage_command/ele_665_standing.png) | ![ele_665_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look665_midnight_stage_command/ele_665_back_view.png) | ![ele_665_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look665_midnight_stage_command/ele_665_seated.png) | ![ele_665_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look665_midnight_stage_command/ele_665_side_profile.png) | ![ele_665_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look665_midnight_stage_command/ele_665_ditzy.png) | ![ele_665_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look665_midnight_stage_command/ele_665_pov.png) | ![ele_665_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look665_midnight_stage_command/ele_665_odalisque.png) |
+
+---
+
+## 👠 Look 664: Black Widow Swim
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_664_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look664_black_widow_swim/ele_664_standing.png) | ![ele_664_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look664_black_widow_swim/ele_664_back_view.png) | ![ele_664_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look664_black_widow_swim/ele_664_seated.png) | ![ele_664_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look664_black_widow_swim/ele_664_side_profile.png) | ![ele_664_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look664_black_widow_swim/ele_664_ditzy.png) | ![ele_664_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look664_black_widow_swim/ele_664_pov.png) | ![ele_664_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look664_black_widow_swim/ele_664_odalisque.png) |
+
+---
+
+## 👠 Look 663: Obsidian Maid
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_663_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look663_obsidian_maid/ele_663_standing.png) | ![ele_663_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look663_obsidian_maid/ele_663_back_view.png) | ![ele_663_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look663_obsidian_maid/ele_663_seated.png) | ![ele_663_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look663_obsidian_maid/ele_663_side_profile.png) | ![ele_663_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look663_obsidian_maid/ele_663_ditzy.png) | ![ele_663_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look663_obsidian_maid/ele_663_pov.png) | ![ele_663_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look663_obsidian_maid/ele_663_odalisque.png) |
+
+---
+
+## 👠 Look 662: Black Lacquer Noir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_662_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look662_black_lacquer_noir/ele_662_standing.png) | ![ele_662_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look662_black_lacquer_noir/ele_662_back_view.png) | ![ele_662_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look662_black_lacquer_noir/ele_662_seated.png) | ![ele_662_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look662_black_lacquer_noir/ele_662_side_profile.png) | ![ele_662_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look662_black_lacquer_noir/ele_662_ditzy.png) | ![ele_662_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look662_black_lacquer_noir/ele_662_pov.png) | ![ele_662_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look662_black_lacquer_noir/ele_662_odalisque.png) |
+
+---
+
+## 👠 Look 661: Onyx Gloss Phantom
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_661_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look661_onyx_gloss_phantom/ele_661_standing.png) | ![ele_661_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look661_onyx_gloss_phantom/ele_661_back_view.png) | ![ele_661_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look661_onyx_gloss_phantom/ele_661_seated.png) | ![ele_661_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look661_onyx_gloss_phantom/ele_661_side_profile.png) | ![ele_661_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look661_onyx_gloss_phantom/ele_661_ditzy.png) | ![ele_661_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look661_onyx_gloss_phantom/ele_661_pov.png) | ⏳ |
 
 ---
 
