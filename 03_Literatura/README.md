@@ -8,7 +8,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 
 ## 📂 Estructura del Repositorio
 - [**01_En_Progreso/**](./01_En_Progreso/): Relatos en fase de redacción activa.
-- [**02_Finalizadas/**](./02_Finalizadas/): Colección maestra de relatos completados y publicados (39 carpetas).
+- [**02_Finalizadas/**](./02_Finalizadas/): Colección maestra de relatos completados y publicados (40 carpetas).
 - [**investigacion/**](./investigacion/): Material de investigación para futuros relatos.
 - [**resumenes/**](./resumenes/): Resúmenes ejecutivos de relatos para contexto rápido de IA.
 - [**templates/**](./templates/): Plantillas de estructura narrativa.
@@ -19,7 +19,6 @@ Archivo central de relatos, guiones y experimentos narrativos.
 | Título | Estado | Fetiches Principales | Archivos |
 | :--- | :--- | :--- | :--- |
 | **Trance Office Siren** (Nivel 4) | 🟢 **Cap 1 v0.13 profundizado a trance puro y cero narración activa (25/06). Listo para Gate de la Ama.** | Hipnosis de segunda persona somática + sobrecarga de shock, trinidad restrictiva (stilettos 16cm, gloss/silence, vinilo/1000cc) + bimboficación cuica chilena + edgeplay y LOCK. | [Cap 1 v0.13](01_En_Progreso/trance_office_siren/capitulo_01_trance_v0.13.md) · [canon](01_En_Progreso/trance_office_siren/canon_relato.md) · [cronología](01_En_Progreso/trance_office_siren/cronologia.md) |
-| **La app: La bimboficación de mi novio** (Nivel 4) | 🟡 **3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06). Cap 1 v0.3 ✅ · Cap 2 v0.6 ✅ · Cap 3 v0.5 ⏳ Gate Ama · Cap 4 ELIMINADO** | Bimboficación + control mental + feminización forzada + inversión de poder. POV dual (Cata operadora→juguete · Tomi se feminiza). Maldición-app: anonymous WhatsApp origin · Nivel 2 = pasar la maldición · plot twist: Cata también fue descrita. | [Cap 1 v0.3](01_En_Progreso/la_app/capitulo_01_la_instalacion_v0.3.md) · [Cap 2 v0.6](01_En_Progreso/la_app/capitulo_02_la_racha_v0.6.md) · [Cap 3 v0.5](01_En_Progreso/la_app/capitulo_03_el_nivel_v0.5.md) · [canon](01_En_Progreso/la_app/canon_relato.md) · [cronología](01_En_Progreso/la_app/cronologia.md) |
 | **La Piel que Diseño** (Nivel 4) | ⏸️ **PARQUEADO** (Ama: "solo La app"). Rehecho desde cero 17/06; Cap 1 «El despertar» con Gate negativo (falta T°/errores/fome), v0.2 suelto sin terminar. | Body swap, bimboficación, coño-cerebro mixto. | [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
 
 

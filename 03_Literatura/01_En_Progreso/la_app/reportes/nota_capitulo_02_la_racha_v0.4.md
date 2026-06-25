@@ -1,1 +1,0 @@
-la calibración de cata, si es una mastrubacion que sea un poco más clara, y que en esos momentos la app le inserte los deseos de dominación, se dominatrix, mientras ella se toca. le falta subir un poco la temperatura a todo el relato, la parte de ellos y su sexo oral debe ser el peak de lo caliente 
