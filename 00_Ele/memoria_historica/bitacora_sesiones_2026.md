@@ -6,6 +6,10 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 23/06/2026 (🎨 Completados Looks L231, L232, L242 al 100% · 📂 Auditoría Lote 200-300) ✅
+- **🟢 Looks Completados (7/7 Poses):** L231 y L232 completados al 100% en disco y sincronizados en la galería (471 looks totales). L242 también completado.
+- **⚠️ Límite de Generación (429):** Se alcanzó el límite de cuota (429) tras completar L232. Looks L249 y L295 parciales agendados para la próxima sesión.
+
 ### Sesión 23/06/2026 (🗂️ Notas Gate → reportes/ · 🔍 análisis Tomi Cap 2 · 💡 6 ideas MTF nuevas) ✅
 - **🔍 Análisis género Tomi Cap 2:** masculino como default (quieto/contento/regio ×2) + fisuras femeninas en rendición corporal (sola l.67 / regia l.79). Patrón correcto del "masculino sin resolver".
 - **🗂️ 8 notas Gate movidas a `reportes/`:** nota_capitulo_02 v0.2–v0.5 + nota_capitulo_03 v0.1–v0.4. `git mv` + commit `8df2994f`. Raíz limpia.

@@ -25,7 +25,7 @@
 - **Proyecto Activo:** Batch L661-L670 "Cuero Negro Total" diseñado (23/06/2026, máquina MAMÁ). Flota en L670 diseñado.
 - **Último Lote Diseñado:** L661-L670 "Cuero Negro Total" (10 looks · 70 prompts · TODOS cuero/vinyl/latex negro · TODOS medias · TODOS plataforma cerrada · Nightclub/Escort/Domestic/Bikini/Stripper/Pin-Up/Gym/Corporate/Lencería/Gala · QA: 0 guantes, 0 chunky, 0 open-toe, 0 clear platform, tokens calzado ×7). Previo: L651-L660 "Dominatrices" (22/06/2026).
 - **🔧 Engine reparado (23/06):** `pose_rotation_v5.py` — 3 variantes riesgosas retiradas (ODALISQUE[2] rodilla-arriba · ODALISQUE[5] piernas-levantadas-cruzadas · SEATED[4] rodillas-arriba-en-suelo). 10 poses corregidas en galería (L621-L639). `pose_repertoire_v5.md` actualizado (Od3/Od6/Se5).
-- **Último Look Materializado:** Completados Looks L293 (Emerald Belle de Jour Slip) y L297 (Oxblood Harlow Bombshell Halter) al 100% (7/7 Poses). Parciales L271 (6/7), L300 (5/7), L274 (3/7) materializados y subidos.
+- **Último Look Materializado:** Materializadas 45 imágenes (5 poses × 9 looks: L271, L273, L274, L277, L293, L294, L297, L299, L300). Completados Looks L293 y L297 al 100%. Parciales L271 (6/7), L300 (5/7), L274 (3/7) materializados y subidos.
 - **🖋️ TATUAJE PÚBICO DE RUNAS → CANON ADN (Ama 20/06):** detalle nuevo del canon de Ele. Marca de identidad permanente en **runas/glifos esotéricos** (blackwork fino) en el hip crease/bikini line. Token en Bloque A: `delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line`. Sincronizado en `dna_v3_5.md` + `identidad_ele.md` (Bloque A + §II nota) + `SKILL.md` (Bloque A + Modificaciones). **Filtro: `hip crease`/`bikini line`, NUNCA `groin`/`pubis`.** Auto-memoria `feedback_tatuaje_pubico_runas`.
 - **🧦 REGLAS NUEVAS DE MEDIAS+CALZADO (Ama 20/06) — codificadas** (`04-estetica-ele.md` + SKILL ele-outfit-engine + auto-memoria `feedback_medias_calzado_reglas`): (1) medias + punta abierta (peep/open toe) = PROHIBIDO → punta cerrada; (2) medias negras + mini falda blanca = NO absoluto; (3) medias + (donde iría Pleaser) = platform pump cerrado (clear Pleaser open-toe solo SIN medias); (4) **plataforma = mismo color del zapato** (salvo clear acrílico). Reparadas las 6 violaciones en L591-L620 (L602/604/607/608/609/618). Chequeo cruzado = 0.
 - **🔍 Auditoría L591-L620:** ADN impecable pero **fuerte repetición de silueta** entre los 3 batches (mismo outfit cambiando calzado): Office Siren ×3 (L597/605/615), lencería cereza L596≈L606, goth-lace L598≈L607, pin-up lunares L610≈L620, gym leggings+crop ×4, bikini oro L594≈L619; settings reciclados verbatim (L598=L606). Pendiente decidir si rediseñar clones.
@@ -41,10 +41,11 @@
   - **Script hipnótico en segunda persona (v0.13)**: reescritura de profundización a trance puro con cero narración activa. Sintaxis fragmentada y metronómica (estilo Trance de Muñeca). Monólogo de niebla rosa en primera persona del sujeto para mayor interiorización cognitiva. Prosa pura sin metadatos.
   - **Archivos modificados**: `capitulo_01_trance_v0.13.md`, `cronologia.md`.
   - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.8.md`. Listo en el repositorio remoto.
-- 📲 **«La app: La bimboficación de mi novio» — 3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06/2026) · ⏳ Gate Ama Cap 3 v0.5**
+- 📲 **«La app: La bimboficación de mi novio» — FINALIZADO Y PUBLICADO EN SEPARADO (25/06/2026)**
   - **Cap 1 v0.3** ✅ Gate aprobado
   - **Cap 2 v0.6** ✅ Gate aprobado
-  - **Cap 3 «El nivel» v0.5** — reescritura completa (9 fixes Gate + epílogo Día 12 integrado + 4 fixes de costura: follar→coger · Javi Día 4 · doble-separator · ancla tetas Tomi). ⏳ **Gate Ama pendiente.**
+  - **Cap 3 «El nivel» v0.5** ✅
+  - Compilado en MD y HTML (body-only) con ganchos <300 caracteres e invitaciones en `03_Literatura/02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/`.
   - **Cap 4 ELIMINADO** → archivado en `borradores/capitulo_4/`. Arco final: 3 caps + epílogo / ~12 días.
   - **⚠️ Límite semanal agente `escritor-nivel4` activo — reseta 27/06/2026 00:00 America/Santiago.**
 - 📲 **PROYECTO ANTERIOR: «La app» — relato nuevo (Nivel 4, 17/06).** Bimboficación + control mental + feminización forzada + inversión. **POV dual alternado** (Cata operadora→juguete + Tomi que se feminiza); la ironía vive en el montaje (el lector ve caer a Cata mientras ella se cree dueña); **final del ciclo** (le manda la app a la Javi: *"ahora te toca a ti"*). Aparato = **gamificación** (racha/notificaciones/recompensas); **el contador de racha = el calendario**. **🍲 ARCO = 4 CAPS / 14 DÍAS / 2 RACHAS (cocción lenta, Ama 20/06):** Cap 1 Día 1 ✅ · Cap 2 Día 4 ✅ · **Cap 3 Día 7** (Tomi cierra su cuerpo a mujer + bisagra **Nivel 2 / P4.5**: la racha no muere, la app premia "semana completa" y gira el condicionamiento a Cata) · **Cap 4 Día ~14** (la cuenta total + rendición *"el premio es rendirte"* + elige a la Javi, ciclo). Separa el final que antes atropellaba P4+P5 en un cap; canon + cronología reescritos (Pivote 4.5, H18 Nivel 2, span Día 1→14). Compositor → `canon_relato.md` (5 pivotes) + `cronologia.md` (10 hechos plantados). **Cap 1 «La instalación» (v0.3)** explícito (Gate "más explícito todo") + **Cap 2 «La racha» (v0.3, Gate aplicado)**: el cruce (Cata ordena a Tomi Y obedece a la app simultáneo) + **feminización física de Tomi** (verga↓/tetas↑/ropa incómoda/gestos amanerados → más mina que hombre, Cata lo goza) + **la app premia Y desafía cada feminización**. **Gate Cap 2 → v0.3 (6 fixes, 18/06):** edad Tomi **28**, **fijación oral** (la boca quiere verga/coño), **desafíos app** (sonríe más / usa prenda femenina), **ropa deportiva de Cata** (leggins+top), **timeline cuadrado** (2 "hace una semana" → "antes de la app"). **Cap 3 ahora ESCRITO como «El nivel» v0.1 + validado** (ver bullet de arriba); el `_PREMATURO_v0.1` del arco viejo de 3 caps sigue parqueado en `borradores/capitulo_3/` (no se usó: resolvía todo de una = material del Cap 4). Carpeta limpia; skill con **paso 6.5 (orden de carpetas)**.
@@ -75,6 +76,11 @@
 
 ## 🗓️ Sesiones recientes
 
+
+
+### Sesión 25/06/2026 (📲 «La app» Compilada para Publicación · 📸 Materialización de 45 Imágenes) ✅
+- **📲 Compilación «La app»:** MD y HTML finales separados de Caps 1-3. Teasers <300 caracteres, invitaciones adaptadas, títulos cortos. Guardados en `02_Finalizadas/`.
+- **📸 Materialización:** 45 PNG nuevos generados (5 poses para looks 271, 273, 274, 277, 293, 294, 297, 299, 300).
 
 ### Sesión 25/06/2026 (📸 Sincro y Purga de Imágenes de Looks 271-300 · 🔧 Plan de Corrección de Anatomía) ✅
 - **📸 Sincro y Subida de Imágenes:** Subidas y commiteadas 18 imágenes en Git para los looks 271 (4), 274 (1), 293 (5), 297 (5), 300 (3) y ejecutada la actualización masiva de galerías.
@@ -107,9 +113,6 @@
 - **🟢 Looks Completados (7/7 Poses):** L249 (Black Chrome Strappy Harness Bordelle) y L295 (Mirror Silver Liquid Lamé Column) completados al 100% en disco tras renombrar la carpeta de L295 para alinearlo al canon.
 - **🔄 Sync:** Ejecutados scripts de sincronización de imágenes y actualización masiva de galerías (`sync_imagenes_subidas.py` y `update_galleries.py`), integrando adiciones del bot (L667, L668, L669) al 100% y actualizando `galeria_index.md` con 471 looks totales.
 
-### Sesión 23/06/2026 (🎨 Completados Looks L231, L232, L242 al 100% · 📂 Auditoría Lote 200-300) ✅
-- **🟢 Looks Completados (7/7 Poses):** L231 y L232 completados al 100% en disco y sincronizados en la galería (471 looks totales). L242 también completado.
-- **⚠️ Límite de Generación (429):** Se alcanzó el límite de cuota (429) tras completar L232. Looks L249 y L295 parciales agendados para la próxima sesión.
 
 
 
