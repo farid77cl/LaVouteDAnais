@@ -41,7 +41,7 @@
   - **Script hipnótico en segunda persona (v0.13)**: reescritura de profundización a trance puro con cero narración activa. Sintaxis fragmentada y metronómica (estilo Trance de Muñeca). Monólogo de niebla rosa en primera persona del sujeto para mayor interiorización cognitiva. Prosa pura sin metadatos.
   - **Archivos modificados**: `capitulo_01_trance_v0.13.md`, `cronologia.md`.
   - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.8.md`. Listo en el repositorio remoto.
-- 📲 **«La app» — 3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06/2026) · ⏳ Gate Ama Cap 3 v0.5**
+- 📲 **«La app: La bimboficación de mi novio» — 3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06/2026) · ⏳ Gate Ama Cap 3 v0.5**
   - **Cap 1 v0.3** ✅ Gate aprobado
   - **Cap 2 v0.6** ✅ Gate aprobado
   - **Cap 3 «El nivel» v0.5** — reescritura completa (9 fixes Gate + epílogo Día 12 integrado + 4 fixes de costura: follar→coger · Javi Día 4 · doble-separator · ancla tetas Tomi). ⏳ **Gate Ama pendiente.**
@@ -65,7 +65,7 @@
 - **🦞 OpenClaw DESINSTALADO (Ama 16/06):** ralentizaba demasiado el computador → arrancado de raíz: paquete npm `openclaw@2026.6.6` removido (294 paquetes), **tarea programada "OpenClaw Gateway" eliminada** (era la que lo relanzaba al iniciar sesión), carpeta `~/.openclaw` borrada (79.6 MB), 0 node residual. PATH conserva solo Claude Code. Auto-memoria `reference_openclaw_agente_whatsapp` borrada por obsoleta. *(Nota: el dispositivo WhatsApp vinculado por Baileys sigue figurando en "Dispositivos vinculados" del teléfono de la Ama hasta que ella lo quite a mano — el agente ya no recibe nada.)*
 
 ### ⏳ Pendientes abiertos
-- **Gate Ama Cap 3 v0.5 «La app»** — esperando aprobación.
+- **Gate Ama Cap 3 v0.5 «La app: La bimboficación de mi novio»** — esperando aprobación.
 - **6 ideas MTF generadas (23/06)** — esperando que la Ama elija: El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica.
 - **«La Piel que Diseñó» Cap 1 → v0.2** — pendiente (Gate "falta temperatura + errores + fome"). Fuera de alcance hasta que la Ama lo pida.
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).

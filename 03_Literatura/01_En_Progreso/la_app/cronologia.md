@@ -1,4 +1,4 @@
-# Cronología & Hechos Plantados — La app
+# Cronología & Hechos Plantados — La app: La bimboficación de mi novio
 
 > Centinela documental del Nivel 4. Fuente única de verdad temporal y de continuidad.
 > Lo CREA el Compositor (esqueleto) · lo ACTUALIZA el Escritor (cada capítulo/tramo) · lo AUDITA el Validador (eje Continuidad).

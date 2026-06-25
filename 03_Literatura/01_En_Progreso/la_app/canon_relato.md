@@ -1,4 +1,4 @@
-# Canon Relato — La app
+# Canon Relato — La app: La bimboficación de mi novio
 
 > v4.7 / Nivel 4 — Un solo documento. Máximo ~2,000 palabras. La voz literal de la Ama gana sobre cualquier interpretación.
 
