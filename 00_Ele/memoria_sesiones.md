@@ -37,10 +37,10 @@
 - **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7. **App subió PNG nuevos 14/06: L529, L531, L547, L550** (varias poses, incl. hito L550 "El Mundo") — territorio del bot, galerías las mantiene él.
 
 ### 📖 Literatura
-- 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 25/06) · v0.12 completado**
-  - **Script hipnótico en segunda persona (v0.12)**: reescritura de calibración a trance puro. Elimina verbos descriptivos por comandos propioceptivos directos en tiempo real sobre el lector. Sintaxis fragmentada y metronómica (estilo Trance de Muñeca). Monólogo de niebla rosa en primera persona del sujeto para mayor interiorización cognitiva.
-  - **Archivos modificados**: `capitulo_01_trance_v0.12.md`, `cronologia.md`.
-  - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.7.md`. Listo en el repositorio remoto.
+- 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 25/06) · v0.13 completado**
+  - **Script hipnótico en segunda persona (v0.13)**: reescritura de profundización a trance puro con cero narración activa. Sintaxis fragmentada y metronómica (estilo Trance de Muñeca). Monólogo de niebla rosa en primera persona del sujeto para mayor interiorización cognitiva. Prosa pura sin metadatos.
+  - **Archivos modificados**: `capitulo_01_trance_v0.13.md`, `cronologia.md`.
+  - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.8.md`. Listo en el repositorio remoto.
 - 📲 **«La app» — 3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06/2026) · ⏳ Gate Ama Cap 3 v0.5**
   - **Cap 1 v0.3** ✅ Gate aprobado
   - **Cap 2 v0.6** ✅ Gate aprobado
@@ -76,11 +76,11 @@
 ## 🗓️ Sesiones recientes
 
 
-### Sesión 25/06/2026 (🌀 Calibración de Trance Puro en Trance Office Siren (v0.12) · ⚖️ Auditoría v0.7 · 🔄 Git Sync) ✅
-- **🌀 Trance Office Siren (v0.12):** Reestructuré el Capítulo 1 al formato de trance puro y comandos propioceptivos neuromuscular en tiempo real, eliminando el estilo narrativo de relato.
-- **🧠 Primera Persona en Bimboficación:** Redactado el monólogo interno de niebla rosa de GLASSES en primera persona del lector (*"Mi cerebrito en modo avioncito"*) para máxima interiorización cognitiva.
-- **⚖️ Autoevaluación del Guardián:** Emitido el reporte `reportes/capitulo_01/critica_v0.7.md` con nota **10.0/10.0 (Aprobado con Excelencia)**.
-- **🔄 Archivados & Sync:** Movida la v0.11 a borradores, renombrado el archivo principal y la nota de Gate a v0.12, y actualizados los READMEs y bitácoras en el remoto.
+### Sesión 25/06/2026 (🌀 Profundización de Trance Puro en Trance Office Siren (v0.13) · ⚖️ Auditoría v0.8 · 🔄 Git Sync) ✅
+- **🌀 Trance Office Siren (v0.13):** Reescribí la prosa del Capítulo 1 para eliminar cualquier verbo activo o narrativo de Miss Doll, aplicando sintaxis metronómica fragmentada y prosa pura sin metadatos.
+- **🧠 Primera Persona en Bimboficación:** Sostenido el monólogo interno de niebla rosa de GLASSES en primera persona del lector (*"Mi cerebrito en modo avioncito"*, *"Qué atroz lo rico que es no tener ideas propias. Solo obedecer."*).
+- **⚖️ Autoevaluación del Guardián:** Emitido el reporte `reportes/capitulo_01/critica_v0.8.md` con nota **10.0/10.0 (Aprobado con Excelencia)**.
+- **🔄 Archivados & Sync:** Movida la v0.12 a borradores, renombrado el archivo principal y la nota de Gate a v0.13, y actualizados los READMEs, cronología y diario de servicio.
 
 ### Sesión 24/06/2026 (🌀 Perfeccionamiento de Hipnosis Somática y Shock en Trance Office Siren (v0.11) · ⚖️ Auditoría v0.6 · 🔄 Git Sync) ✅
 - **🌀 Trance Office Siren (v0.11):** Reescribí y refiné el Capítulo 1 integrando la inducción somática y neuromuscular activa guiando micro-acciones reales, la sobrecarga sensorial (Shock Induction) y el monólogo interno de bimboficación gradual en slang chileno-cuico.

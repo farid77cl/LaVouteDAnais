@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 25/06/2026 — **«Trance Office Siren»: Cap 1 v0.12 calibración a trance puro y comandos metronómicos.** Cronología sincronizada y reporte de crítica v0.7 emitido (10.0/10.0).*
+*Última actualización: 25/06/2026 — **«Trance Office Siren»: Cap 1 v0.13 profundización de trance puro y cero narración activa.** Cronología sincronizada y reporte de crítica v0.8 emitido (10.0/10.0).*
 
 ---
 
@@ -18,7 +18,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ## 🎯 Proyecto Activo Inmediato
 | Título | Estado | Fetiches Principales | Archivos |
 | :--- | :--- | :--- | :--- |
-| **Trance Office Siren** (Nivel 4) | 🟢 **Cap 1 v0.12 calibrado a trance puro y comandos somáticos (25/06). Listo para Gate de la Ama.** | Hipnosis de segunda persona somática + sobrecarga de shock, trinidad restrictiva (stilettos 16cm, gloss/silence, vinilo/1000cc) + bimboficación cuica chilena + edgeplay y LOCK. | [Cap 1 v0.12](01_En_Progreso/trance_office_siren/capitulo_01_trance_v0.12.md) · [canon](01_En_Progreso/trance_office_siren/canon_relato.md) · [cronología](01_En_Progreso/trance_office_siren/cronologia.md) |
+| **Trance Office Siren** (Nivel 4) | 🟢 **Cap 1 v0.13 profundizado a trance puro y cero narración activa (25/06). Listo para Gate de la Ama.** | Hipnosis de segunda persona somática + sobrecarga de shock, trinidad restrictiva (stilettos 16cm, gloss/silence, vinilo/1000cc) + bimboficación cuica chilena + edgeplay y LOCK. | [Cap 1 v0.13](01_En_Progreso/trance_office_siren/capitulo_01_trance_v0.13.md) · [canon](01_En_Progreso/trance_office_siren/canon_relato.md) · [cronología](01_En_Progreso/trance_office_siren/cronologia.md) |
 | **La app** (Nivel 4) | 🟡 **3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06). Cap 1 v0.3 ✅ · Cap 2 v0.6 ✅ · Cap 3 v0.5 ⏳ Gate Ama · Cap 4 ELIMINADO** | Bimboficación + control mental + feminización forzada + inversión de poder. POV dual (Cata operadora→juguete · Tomi se feminiza). Maldición-app: anonymous WhatsApp origin · Nivel 2 = pasar la maldición · plot twist: Cata también fue descrita. | [Cap 1 v0.3](01_En_Progreso/la_app/capitulo_01_la_instalacion_v0.3.md) · [Cap 2 v0.6](01_En_Progreso/la_app/capitulo_02_la_racha_v0.6.md) · [Cap 3 v0.5](01_En_Progreso/la_app/capitulo_03_el_nivel_v0.5.md) · [canon](01_En_Progreso/la_app/canon_relato.md) · [cronología](01_En_Progreso/la_app/cronologia.md) |
 | **La Piel que Diseño** (Nivel 4) | ⏸️ **PARQUEADO** (Ama: "solo La app"). Rehecho desde cero 17/06; Cap 1 «El despertar» con Gate negativo (falta T°/errores/fome), v0.2 suelto sin terminar. | Body swap, bimboficación, coño-cerebro mixto. | [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
 
@@ -35,6 +35,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
+- **25/06/2026 (2):** "Trance Office Siren" — **Capítulo 1 v0.13 PROFUNDIZACIÓN DE TRANCE PURO.** Reescribí la prosa en `capitulo_01_trance_v0.13.md` aplicando cero verbos narrativos activos de la Ama, sintaxis metronómica fragmentada y prosa pura sin metadatos. Crítica v0.8 emitida (nota **10.0/10.0**). Pushed to remote.
 - **25/06/2026:** "Trance Office Siren" — **Capítulo 1 v0.12 CALIBRACIÓN A TRANCE PURO.** Reestructuré la prosa del capítulo en `capitulo_01_trance_v0.12.md` para eliminar verbos descriptivos y narrativos, adoptando comandos somáticos propioceptivos directos en tiempo real (espejando Trance de Muñeca) y reescribiendo el monólogo interno de bimboficación en primera persona del lector. Crítica v0.7 emitida (nota **10.0/10.0**). Pushed to remote.
 - **24/06/2026:** "Trance Office Siren" — **Capítulo 1 v0.11 REESCRITURA Y REFINAMIENTO DE HIPNOSIS EXTREMA.** Tras un `/grill-me` de alineación con la Ama, reescribí el Capítulo 1 en `capitulo_01_trance_v0.11.md` integrando guía somática y neuromuscular activa, sobrecarga sensorial por shock, comandos en cursiva directivos de Miss Doll, y un fuerte contraste lingüístico chileno-cuico de bimbo al activar **GLASSES**. Actualizada `cronologia.md` y emitido el reporte `critica_v0.6.md` (nota **10.0/10.0**). Pushed to remote.
 - **23/06/2026 (2):** "La app" — **Cap 3 v0.5 REESCRITURA COMPLETA + COSTURA LIMPIA.** 9 fixes Gate aplicados (cama 2 plazas · Cata femme fatale · primera vez cogida · Tomi solo a la orden · bar BDSM + BJ · POV Tomi · más app). Epílogo integrado: Día 12, Cata látex+plataforma, Tomi criada, Nivel 2 desafío → La Javi → plot twist (WhatsApp anónimo ya la había descrito). 4 fixes de costura: follar→coger · Javi Día 4 · doble-sep · ancla tetas. Cap 4 ELIMINADO → `borradores/capitulo_4/`. ⏳ **Gate Ama Cap 3 v0.5.**

@@ -36,3 +36,12 @@
 - **La Parálisis Motora en Silla (BDSM):** La incapacidad inducida de levantarse de la silla de cuero, rindiendo la motricidad ante las órdenes directas.
 - **El Sello de Castidad (LOCK):** Bloqueo mental del orgasmo real del lector bajo la llave de Miss Doll, anclando la sugestión post-hipnótica de la marca invisible del labial rojo (mancha roja brillante) en el cristal derecho de sus gafas.
 
+---
+
+## 4. Historial de Versiones
+
+| Versión | Fecha | Estado / Cambios |
+| :---: | :--- | :--- |
+| **v0.11** | 24/06/2026 | Primer borrador con guía somática y bimboficación cuica. |
+| **v0.12** | 25/06/2026 | Calibración a trance puro, removiendo verbos descriptivos de Miss Doll. |
+| **v0.13** | 25/06/2026 | Profundización de trance puro. Cero narración activa de Miss Doll, eliminación completa de metadata y pulido de sintaxis metronómica. |

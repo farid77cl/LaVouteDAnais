@@ -1,0 +1,1 @@
+debe sentirse como un trance hipnótico real. hazlo más pesado, más hipnótico, usa técnicas reales de hipnosis y control mental. replantealo, se debe sentir que miss doll le da órdenes al lector, respira, tócate, imagina, etc
