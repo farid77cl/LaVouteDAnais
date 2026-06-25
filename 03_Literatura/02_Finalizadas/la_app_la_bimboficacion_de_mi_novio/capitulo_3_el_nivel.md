@@ -1,6 +1,6 @@
 *Un relato de Anaïs Belland*
 
-# La app: La bimboficación de mi novio — Capítulo 3: El nivel
+# La app: La bimboficación de mi novio — Capítulo 3
 
 ---
 

@@ -1,6 +1,6 @@
 *Un relato de Anaïs Belland*
 
-# La app: La bimboficación de mi novio — Capítulo 1: La instalación
+# La app: La bimboficación de mi novio — Capítulo 1
 
 ---
 

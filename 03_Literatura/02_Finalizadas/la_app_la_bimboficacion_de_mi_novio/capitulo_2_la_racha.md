@@ -1,6 +1,6 @@
 *Un relato de Anaïs Belland*
 
-# La app: La bimboficación de mi novio — Capítulo 2: La racha
+# La app: La bimboficación de mi novio — Capítulo 2
 
 ---
 
