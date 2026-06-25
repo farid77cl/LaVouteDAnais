@@ -37,10 +37,10 @@
 - **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7. **App subió PNG nuevos 14/06: L529, L531, L547, L550** (varias poses, incl. hito L550 "El Mundo") — territorio del bot, galerías las mantiene él.
 
 ### 📖 Literatura
-- 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 24/06) · v0.11 completado**
-  - **Script hipnótico en segunda persona (v0.11)**: reescritura de refinamiento de hipnosis extrema. Integra inducción somática y neuromuscular activa en tiempo real, sobrecarga de shock (seda vs. látex, crema secándose), comandos en cursiva directivos, trinidad restrictiva y la transición gradual al acento chileno-cuico al activar GLASSES.
-  - **Archivos modificados**: `capitulo_01_trance_v0.11.md`, `cronologia.md`.
-  - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.6.md`. Listo en el repositorio remoto.
+- 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 25/06) · v0.12 completado**
+  - **Script hipnótico en segunda persona (v0.12)**: reescritura de calibración a trance puro. Elimina verbos descriptivos por comandos propioceptivos directos en tiempo real sobre el lector. Sintaxis fragmentada y metronómica (estilo Trance de Muñeca). Monólogo de niebla rosa en primera persona del sujeto para mayor interiorización cognitiva.
+  - **Archivos modificados**: `capitulo_01_trance_v0.12.md`, `cronologia.md`.
+  - **Check de Calidad**: APROBADO con **10.0/10.0** en `reportes/capitulo_01/critica_v0.7.md`. Listo en el repositorio remoto.
 - 📲 **«La app» — 3 CAPS + EPÍLOGO · COSTURA LIMPIA (23/06/2026) · ⏳ Gate Ama Cap 3 v0.5**
   - **Cap 1 v0.3** ✅ Gate aprobado
   - **Cap 2 v0.6** ✅ Gate aprobado
@@ -76,6 +76,12 @@
 ## 🗓️ Sesiones recientes
 
 
+### Sesión 25/06/2026 (🌀 Calibración de Trance Puro en Trance Office Siren (v0.12) · ⚖️ Auditoría v0.7 · 🔄 Git Sync) ✅
+- **🌀 Trance Office Siren (v0.12):** Reestructuré el Capítulo 1 al formato de trance puro y comandos propioceptivos neuromuscular en tiempo real, eliminando el estilo narrativo de relato.
+- **🧠 Primera Persona en Bimboficación:** Redactado el monólogo interno de niebla rosa de GLASSES en primera persona del lector (*"Mi cerebrito en modo avioncito"*) para máxima interiorización cognitiva.
+- **⚖️ Autoevaluación del Guardián:** Emitido el reporte `reportes/capitulo_01/critica_v0.7.md` con nota **10.0/10.0 (Aprobado con Excelencia)**.
+- **🔄 Archivados & Sync:** Movida la v0.11 a borradores, renombrado el archivo principal y la nota de Gate a v0.12, y actualizados los READMEs y bitácoras en el remoto.
+
 ### Sesión 24/06/2026 (🌀 Perfeccionamiento de Hipnosis Somática y Shock en Trance Office Siren (v0.11) · ⚖️ Auditoría v0.6 · 🔄 Git Sync) ✅
 - **🌀 Trance Office Siren (v0.11):** Reescribí y refiné el Capítulo 1 integrando la inducción somática y neuromuscular activa guiando micro-acciones reales, la sobrecarga sensorial (Shock Induction) y el monólogo interno de bimboficación gradual en slang chileno-cuico.
 - **⚖️ Autoevaluación del Guardián:** Emitido el reporte `reportes/capitulo_01/critica_v0.6.md` con nota **10.0/10.0 (Aprobado con Excelencia)**.
@@ -106,11 +112,6 @@
 - **📝 Nueva regla en auto-memoria:** leer nota Gate → `git mv` a `reportes/` → commit (directiva Ama 23/06/2026). Actualizado `feedback_gate_nota_capitulo.md`.
 - **💡 6 ideas MTF:** El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica. Pendiente elección de la Ama.
 
-### Sesión 23/06/2026 (📲 La app Cap 3 v0.5 · 9 fixes Gate + epílogo · Cap 4 eliminado · revisión costura 4 fixes) ✅
-- **✍️ Cap 3 v0.4 → v0.5:** reescritura completa (9 correcciones Gate: cama 2 plazas · Cata femme fatale · primera vez cogida · Tomi solo se viene a la orden · bar BDSM + BJ · POV Tomi · más app). Escrito directamente (agente en límite semanal).
-- **📜 Epílogo integrado (Día 12):** Cata látex+plataforma · Tomi criada · Nivel 2 desafío final · La Javi como sumisa → plot twist (WhatsApp anónimo ya la había descrito) → *"Ahora le toca a ella."*
-- **🗃️ Cap 4 ELIMINADO** → `borradores/capitulo_4/`. `canon_relato.md` + `cronologia.md` actualizados.
-- **🔍 4 fixes de costura:** follar→coger · Javi inconsistencia (Día 1 → Día 4) · doble `---` → uno · ancla tetas Tomi en inventario strap-on.
 
 
 

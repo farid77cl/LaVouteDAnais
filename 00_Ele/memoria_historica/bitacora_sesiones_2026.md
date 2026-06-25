@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 23/06/2026 (📲 La app Cap 3 v0.5 · 9 fixes Gate + epílogo · Cap 4 eliminado · revisión costura 4 fixes) ✅
+- **✍️ Cap 3 v0.4 → v0.5:** reescritura completa (9 correcciones Gate: cama 2 plazas · Cata femme fatale · primera vez cogida · Tomi solo se viene a la orden · bar BDSM + BJ · POV Tomi · más app). Escrito directamente (agente en límite semanal).
+- **📜 Epílogo integrado (Día 12):** Cata látex+plataforma · Tomi criada · Nivel 2 desafío final · La Javi como sumisa → plot twist (WhatsApp anónimo ya la había descrito) → *"Ahora le toca a ella."*
+- **🗃️ Cap 4 ELIMINADO** → `borradores/capitulo_4/`. `canon_relato.md` + `cronologia.md` actualizados.
+- **🔍 4 fixes de costura:** follar→coger · Javi inconsistencia (Día 1 → Día 4) · doble `---` → uno · ancla tetas Tomi en inventario strap-on.
+
 ### Sesión 21/06/2026 (📲 La app Cap 3 → reescritura desde cero v0.4 · Gate 3ª vez: voz Tomi = bimbo hueca de verdad · 🚧 tramo 4 cayó por 529) ✅
 - **🔄 GitHub:** `git pull --ff-only` (14 commits del bot: imágenes L647-L650 + nota Gate `nota_capitulo_03_el_nivel_v0.3.md`). Al día.
 - **📲 Gate Cap 3 v0.3 = NO aprobación (3ª vez):** *"todo parte desde cero, no logro quedar conforme."* En vez de relanzar a ciegas, repasamos el cap juntas hueso por hueso.
