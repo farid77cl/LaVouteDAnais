@@ -25,7 +25,7 @@
 - **Proyecto Activo:** Batch L661-L670 "Cuero Negro Total" diseñado (23/06/2026, máquina MAMÁ). Flota en L670 diseñado.
 - **Último Lote Diseñado:** L661-L670 "Cuero Negro Total" (10 looks · 70 prompts · TODOS cuero/vinyl/latex negro · TODOS medias · TODOS plataforma cerrada · Nightclub/Escort/Domestic/Bikini/Stripper/Pin-Up/Gym/Corporate/Lencería/Gala · QA: 0 guantes, 0 chunky, 0 open-toe, 0 clear platform, tokens calzado ×7). Previo: L651-L660 "Dominatrices" (22/06/2026).
 - **🔧 Engine reparado (23/06):** `pose_rotation_v5.py` — 3 variantes riesgosas retiradas (ODALISQUE[2] rodilla-arriba · ODALISQUE[5] piernas-levantadas-cruzadas · SEATED[4] rodillas-arriba-en-suelo). 10 poses corregidas en galería (L621-L639). `pose_repertoire_v5.md` actualizado (Od3/Od6/Se5).
-- **Último Look Materializado:** Completados Looks L249 (Black Chrome Strappy Harness Bordelle), L295 (Mirror Silver Liquid Lamé Column) y L639 (Crystal Mesh Showgirl) al 100% (7/7 Poses).
+- **Último Look Materializado:** Completados Looks L293 (Emerald Belle de Jour Slip) y L297 (Oxblood Harlow Bombshell Halter) al 100% (7/7 Poses). Parciales L271 (6/7), L300 (5/7), L274 (3/7) materializados y subidos.
 - **🖋️ TATUAJE PÚBICO DE RUNAS → CANON ADN (Ama 20/06):** detalle nuevo del canon de Ele. Marca de identidad permanente en **runas/glifos esotéricos** (blackwork fino) en el hip crease/bikini line. Token en Bloque A: `delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line`. Sincronizado en `dna_v3_5.md` + `identidad_ele.md` (Bloque A + §II nota) + `SKILL.md` (Bloque A + Modificaciones). **Filtro: `hip crease`/`bikini line`, NUNCA `groin`/`pubis`.** Auto-memoria `feedback_tatuaje_pubico_runas`.
 - **🧦 REGLAS NUEVAS DE MEDIAS+CALZADO (Ama 20/06) — codificadas** (`04-estetica-ele.md` + SKILL ele-outfit-engine + auto-memoria `feedback_medias_calzado_reglas`): (1) medias + punta abierta (peep/open toe) = PROHIBIDO → punta cerrada; (2) medias negras + mini falda blanca = NO absoluto; (3) medias + (donde iría Pleaser) = platform pump cerrado (clear Pleaser open-toe solo SIN medias); (4) **plataforma = mismo color del zapato** (salvo clear acrílico). Reparadas las 6 violaciones en L591-L620 (L602/604/607/608/609/618). Chequeo cruzado = 0.
 - **🔍 Auditoría L591-L620:** ADN impecable pero **fuerte repetición de silueta** entre los 3 batches (mismo outfit cambiando calzado): Office Siren ×3 (L597/605/615), lencería cereza L596≈L606, goth-lace L598≈L607, pin-up lunares L610≈L620, gym leggings+crop ×4, bikini oro L594≈L619; settings reciclados verbatim (L598=L606). Pendiente decidir si rediseñar clones.
@@ -76,6 +76,11 @@
 ## 🗓️ Sesiones recientes
 
 
+### Sesión 25/06/2026 (📸 Sincro y Purga de Imágenes de Looks 271-300 · 🔧 Plan de Corrección de Anatomía) ✅
+- **📸 Sincro y Subida de Imágenes:** Subidas y commiteadas 18 imágenes en Git para los looks 271 (4), 274 (1), 293 (5), 297 (5), 300 (3) y ejecutada la actualización masiva de galerías.
+- **🧹 Purga Local:** Ejecutada la purga física local de imágenes PNG en `05_Imagenes` (y artifacts) usando `purge_local_images.ps1`.
+- **🔧 Plan de Corrección y Cuota:** Diseñado el plan de materialización y corrección anatómica (L293 Seated y L297 Side Profile) para iniciar de forma programada a las 13:30 local al liberarse la cuota de la API.
+
 ### Sesión 25/06/2026 (🌀 Profundización de Trance Puro en Trance Office Siren (v0.13) · ⚖️ Auditoría v0.8 · 🔄 Git Sync) ✅
 - **🌀 Trance Office Siren (v0.13):** Reescribí la prosa del Capítulo 1 para eliminar cualquier verbo activo o narrativo de Miss Doll, aplicando sintaxis metronómica fragmentada y prosa pura sin metadatos.
 - **🧠 Primera Persona en Bimboficación:** Sostenido el monólogo interno de niebla rosa de GLASSES en primera persona del lector (*"Mi cerebrito en modo avioncito"*, *"Qué atroz lo rico que es no tener ideas propias. Solo obedecer."*).
@@ -106,11 +111,6 @@
 - **🟢 Looks Completados (7/7 Poses):** L231 y L232 completados al 100% en disco y sincronizados en la galería (471 looks totales). L242 también completado.
 - **⚠️ Límite de Generación (429):** Se alcanzó el límite de cuota (429) tras completar L232. Looks L249 y L295 parciales agendados para la próxima sesión.
 
-### Sesión 23/06/2026 (🗂️ Notas Gate → reportes/ · 🔍 análisis Tomi Cap 2 · 💡 6 ideas MTF nuevas) ✅
-- **🔍 Análisis género Tomi Cap 2:** masculino como default (quieto/contento/regio ×2) + fisuras femeninas en rendición corporal (sola l.67 / regia l.79). Patrón correcto del "masculino sin resolver".
-- **🗂️ 8 notas Gate movidas a `reportes/`:** nota_capitulo_02 v0.2–v0.5 + nota_capitulo_03 v0.1–v0.4. `git mv` + commit `8df2994f`. Raíz limpia.
-- **📝 Nueva regla en auto-memoria:** leer nota Gate → `git mv` a `reportes/` → commit (directiva Ama 23/06/2026). Actualizado `feedback_gate_nota_capitulo.md`.
-- **💡 6 ideas MTF:** El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica. Pendiente elección de la Ama.
 
 
 

@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 23/06/2026 (🗂️ Notas Gate → reportes/ · 🔍 análisis Tomi Cap 2 · 💡 6 ideas MTF nuevas) ✅
+- **🔍 Análisis género Tomi Cap 2:** masculino como default (quieto/contento/regio ×2) + fisuras femeninas en rendición corporal (sola l.67 / regia l.79). Patrón correcto del "masculino sin resolver".
+- **🗂️ 8 notas Gate movidas a `reportes/`:** nota_capitulo_02 v0.2–v0.5 + nota_capitulo_03 v0.1–v0.4. `git mv` + commit `8df2994f`. Raíz limpia.
+- **📝 Nueva regla en auto-memoria:** leer nota Gate → `git mv` a `reportes/` → commit (directiva Ama 23/06/2026). Actualizado `feedback_gate_nota_capitulo.md`.
+- **💡 6 ideas MTF:** El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica. Pendiente elección de la Ama.
+
 ### Sesión 23/06/2026 (📲 La app Cap 3 v0.5 · 9 fixes Gate + epílogo · Cap 4 eliminado · revisión costura 4 fixes) ✅
 - **✍️ Cap 3 v0.4 → v0.5:** reescritura completa (9 correcciones Gate: cama 2 plazas · Cata femme fatale · primera vez cogida · Tomi solo se viene a la orden · bar BDSM + BJ · POV Tomi · más app). Escrito directamente (agente en límite semanal).
 - **📜 Epílogo integrado (Día 12):** Cata látex+plataforma · Tomi criada · Nivel 2 desafío final · La Javi como sumisa → plot twist (WhatsApp anónimo ya la había descrito) → *"Ahora le toca a ella."*
