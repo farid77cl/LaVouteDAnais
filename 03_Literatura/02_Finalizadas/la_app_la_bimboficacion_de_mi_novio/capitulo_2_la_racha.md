@@ -322,3 +322,16 @@ No vaya a romper la racha.
 Día 4.
 
 **Fin**
+
+¿Sentiste el calor líquido en tu vientre cada vez que Tomás perdía su masculinidad en el espejo? ¿Se te aceleró el pulso al ver a Catalina gozar del control mientras la trampa se cerraba?
+
+Si esta historia despertó tus ganas de dejarte moldear o de ver caer a quien cree mandar, quiero saberlo. Escríbeme.
+
+*Dis-moi ce que tu désires vraiment.*
+
+*No rompas la racha. El nivel definitivo se desbloquea en el Capítulo 3.*
+
+📧 anais.belland@outlook.com
+
+*Avec dévotion obscure,*
+**Anaïs Belland**

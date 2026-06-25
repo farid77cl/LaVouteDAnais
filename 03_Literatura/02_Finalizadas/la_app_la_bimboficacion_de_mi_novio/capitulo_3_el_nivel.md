@@ -594,10 +594,9 @@ Día 12.
 
 **Fin**
 
+¿Sentiste el calor en tu vientre cada vez que Tomás obedecía en uniforme? ¿Se te erizó la piel al ver a Catalina perder el control creyendo que mandaba?
 
-¿Sentiste el calor en tu vientre cada vez que Tomás obedecía? ¿Se te erizó la piel al ver a Catalina perder el control creyendo que mandaba?
-
-Si tu cuerpo también arde por ser calibrado bajo mi racha, escríbeme.
+Si tu cuerpo también arde por ser calibrado bajo mi racha, quiero saberlo. Escríbeme.
 
 *Dis-moi ce que tu désires vraiment.*
 

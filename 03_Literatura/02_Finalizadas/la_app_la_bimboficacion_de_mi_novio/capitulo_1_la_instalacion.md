@@ -203,3 +203,16 @@ Volví a la cama. Me pegué a la espalda de Tomi, le pasé el brazo por encima, 
 Día 1.
 
 **Fin**
+
+¿Sentiste la tentación de que alguien decida por ti al primer click? ¿Te imaginas cediendo a una racha diaria que no puedes parar?
+
+Si esta historia despertó tu morbo por ceder el control o por calibrar a quien tienes al lado, quiero saberlo. Escríbeme.
+
+*Dis-moi ce que tu désires vraiment.*
+
+*Mantén tu pantalla encendida. La racha continúa en el Capítulo 2.*
+
+📧 anais.belland@outlook.com
+
+*Avec dévotion obscure,*
+**Anaïs Belland**
