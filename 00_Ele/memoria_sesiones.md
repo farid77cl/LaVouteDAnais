@@ -78,6 +78,12 @@
 
 
 
+
+### Sesión 27/06/2026 (🔄 Repo al día · 📸 Sync trackers L641-L670 + 14 poses + dedup L252 · 🏷️ Título «La app» OK) ✅
+- **🔄 Repo:** `git pull` (105 commits del bot/máquina paralela). Al día.
+- **📸 Imágenes:** `sync_imagenes_subidas.py` actualizó los trackers de `galeria_outfits.md` (L641-L670, conteos reales). +14 poses históricas completadas en git (L231/L232/L242 → 7/7). Dedup L252 (−2 huérfanos `vfront`). 20 READMEs de galería L641-L670 commiteados. Commits `f4276dad4`, `faf29dddd`. Master README + look231/232/242 + miss_doll = al bot.
+- **🏷️ Título «La app»:** verificado — los 3 caps publicados (53 chars) cumplen el tope de la Ama (54). Subtítulos recortados por el bot; ofrecí restaurarlos con prefijo corto si los quiere de vuelta.
+
 ### Sesión 25/06/2026 (📲 «La app» Compilada para Publicación · 📸 Materialización de 45 Imágenes) ✅
 - **📲 Compilación «La app»:** MD y HTML finales separados de Caps 1-3. Teasers <300 caracteres, invitaciones adaptadas, títulos cortos. Guardados en `02_Finalizadas/`.
 - **📸 Materialización:** 45 PNG nuevos generados (5 poses para looks 271, 273, 274, 277, 293, 294, 297, 299, 300).
@@ -108,10 +114,6 @@
 - **🌀 Nuevo Relato Trance (Office Siren):** Creada la carpeta del relato en `03_Literatura/01_En_Progreso/trance_office_siren/` y redactados los archivos `canon_relato.md`, `cronologia.md` y `capitulo_01_trance_v0.11.md` (v0.3 del script de hipnosis).
 - **⚖️ Autoevaluación del Guardián:** Auditoría interna en `reportes/capitulo_01/critica_v0.1.md` con nota **9.9/10.0 (Aprobado con Excelencia)**.
 
-### Sesión 24/06/2026 (🎨 Materializado Look 639 (5/6 poses) · 🟢 Completados L249 y L295 al 100% · 🔄 Sync y Cierre de Sesión) ✅
-- **📸 Look 639 (Crystal Mesh Showgirl):** Materializadas 5 de las 6 poses pendientes (`back_view`, `seated`, `side_profile`, `ditzy` y `pov`). Se aplicó pulido correctivo en Ditzy y POV para evadir los filtros de Gemini. La pose `odalisque` quedó pendiente por límite de cuota (429).
-- **🟢 Looks Completados (7/7 Poses):** L249 (Black Chrome Strappy Harness Bordelle) y L295 (Mirror Silver Liquid Lamé Column) completados al 100% en disco tras renombrar la carpeta de L295 para alinearlo al canon.
-- **🔄 Sync:** Ejecutados scripts de sincronización de imágenes y actualización masiva de galerías (`sync_imagenes_subidas.py` y `update_galleries.py`), integrando adiciones del bot (L667, L668, L669) al 100% y actualizando `galeria_index.md` con 471 looks totales.
 
 
 
