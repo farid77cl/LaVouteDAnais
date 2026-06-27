@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 27/06/2026 — **«La Piel que Diseñó» reiniciada desde cero:** Cap 1 «El despertar» v0.2 APROBADO (Narr 9.4 / Temp 9.3), motor nuevo + canon/cronología reescritos. Engine reparado (tope 54 chars/título + flujo sin cuota de palabras + prosa pura).*
+*Última actualización: 27/06/2026 — **«La Piel que Diseñó» Cap 1 v0.3:** Gate de la Ama aplicado (6 correcciones) → Validador APROBADO (Narr 9.5 / Temp 9.3 · 6/6). Dani sola primero + Daniela descubre su poder + venganza dulce ×1000 + jaula de dinero + cierre en dilema abierto.*
 
 ---
 
@@ -19,7 +19,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 | Título | Estado | Fetiches Principales | Archivos |
 | :--- | :--- | :--- | :--- |
 | **Trance Office Siren** (Nivel 4) | 🟢 **Cap 1 v0.13 profundizado a trance puro y cero narración activa (25/06). Listo para Gate de la Ama.** | Hipnosis de segunda persona somática + sobrecarga de shock, trinidad restrictiva (stilettos 16cm, gloss/silence, vinilo/1000cc) + bimboficación cuica chilena + edgeplay y LOCK. | [Cap 1 v0.13](01_En_Progreso/trance_office_siren/capitulo_01_trance_v0.13.md) · [canon](01_En_Progreso/trance_office_siren/canon_relato.md) · [cronología](01_En_Progreso/trance_office_siren/cronologia.md) |
-| **La Piel que Diseñó** (Nivel 4) | 🟢 **REINICIADO desde cero (27/06). Cap 1 «El despertar» v0.2 APROBADO (Narr 9.4 / Temp 9.3), prosa pura. Esperando Gate de la Ama.** | Body swap, bimboficación desde adentro, motor "planos vs manual", humillación = gatillo del coño. | [Cap 1 v0.2](01_En_Progreso/la_piel_que_diseno/capitulo_01_el_despertar_v0.2.md) · [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
+| **La Piel que Diseñó** (Nivel 4) | 🟢 **Cap 1 «El despertar» v0.3 — Gate Ama aplicado (6 correcciones) → Validador APROBADO (Narr 9.5 / Temp 9.3 · 6/6), prosa pura. Esperando nuevo Gate de la Ama.** | Body swap, bimboficación desde adentro, motor "planos vs manual", venganza dulce ×1000, jaula de dinero, humillación = gatillo del coño. | [Cap 1 v0.3](01_En_Progreso/la_piel_que_diseno/capitulo_01_el_despertar_v0.3.md) · [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
 
 
 ---
@@ -34,6 +34,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
+- **27/06/2026 (2):** "La Piel que Diseñó" — **Cap 1 v0.2 → v0.3: GATE DE LA AMA APLICADO (6 correcciones) → Validador APROBADO (Narr 9.5 / Temp 9.3 · 6/6).** El Gate de v0.2 (`nota_capitulo_01_el_despertar_v0.2.md`) NO era aprobación: pidió darle aire a Dani sola primero (+ piercing en el ombligo), resistencia real / bimbo lento, que Daniela DESCUBRA su poder gradual (no omnisciente), contrato = venganza dulce ×1000, un motivo fuerte de plata para aceptar, y cierre en dilema abierto. Decisión Ama del motor de plata (AskUserQuestion) = **Opción 1 «Daniela tiene todo + cláusula ruinosa»**. Canon (§1-§9) + cronología (H12 jaula / H13 venganza / H14 piercing) actualizados; reescritura en **MODO TRAMO** (Escritor-N4, ~6.550 pal, prosa pura, coño-voz MUDA auditada). v0.2 → `borradores/capitulo_01/`. ⏳ esperando nuevo Gate Ama.
 - **27/06/2026:** "La Piel que Diseñó" — **REINICIO DESDE CERO + Cap 1 v0.2 APROBADO.** Archivado el cementerio (2 eras + ~40 borradores → `_archivo_pre_reinicio/`); concepto refinado con la Ama (POV solo Dani, Cap 1 domación en vivo, motor "planos vs manual" — Daniela habitó el cuerpo y lo opera mejor que quien lo diseñó —, humillación sensual = gatillo del coño); `canon_relato.md` + `cronologia.md` reescritos. Escritor-N4 → v0.1 (repudiada SOLO por metadata, bug del skill) → v0.2 prosa pura + domación expandida sin tope de palabras → Validador **APROBADO (Narr 9.4 / Temp 9.3, ~24 subrayables)**. ⏳ Gate Ama. Además: SKILL del engine reparado (raíz del repudio + tope 54 chars/título + flujo sin cuota de palabras) y voceo corregido en `voz_autoral.md`.
 - **25/06/2026 (3):** "La app: La bimboficación de mi novio" — **COMPILACIÓN Y EXPORTACIÓN A PUBLICACIÓN.** Relato compilado en archivos MD y HTML separados por capítulo. Se añadieron ganchos (teasers) únicos (< 300 caracteres) y cierres con invitaciones personalizadas de Anaïs. Guardado en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/`.
 - **25/06/2026 (2):** "Trance Office Siren" — **Capítulo 1 v0.13 PROFUNDIZACIÓN DE TRANCE PURO.** Reescribí la prosa en `capitulo_01_trance_v0.13.md` aplicando cero verbos narrativos activos de la Ama, sintaxis metronómica fragmentada y prosa pura sin metadatos. Crítica v0.8 emitida (nota **10.0/10.0**). Pushed to remote.

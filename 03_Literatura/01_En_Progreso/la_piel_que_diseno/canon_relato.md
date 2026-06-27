@@ -12,20 +12,28 @@ Un hombre, **Matías** (~35), despierta dentro del cuerpo de **Daniela** — la 
 
 Y firmó, hace dos años, un contrato que vendió el privado del sábado de "la primera bailarina" del club a **Sebastián Mura**. La primera bailarina es Daniela. El cuerpo que pagará la firma es el que él ahora habita.
 
+**La venganza dulce (refinamiento Ama 27/06).** Daniela no opera por capricho: cobra. Matías la bimbificó durante años desde afuera —la operó, la pesó, la mandó a la pista, la usó— y ahora ella se lo devuelve **multiplicado por mil**: *"vas a pasar por cada cosa que yo pasé, mi amor, pero aumentado por mil."* No es rabia: es una venganza **sensual, lenta, gozada**. Cada humillación es un cobro con cariño.
+
+**La jaula de dinero (el "muy buen motivo", decisión Ama 27/06 — Opción 1).** Dani no puede simplemente irse. Daniela, en el cuerpo de Matías, ahora **controla TODO**: la identidad, las cuentas, el club. Dani —en el cuerpo de mujer— **no existe legalmente, no tiene un peso, no tiene nombre que la respalde.** Y el contrato trae una **cláusula penal ruinosa**: si la primera bailarina no se presenta el sábado, Sebastián (60% del capital) ejecuta y arruina a "Matías" (el patrimonio que Daniela ahora habita, y del que Dani depende para cualquier salida). Acorralada: sin papeles, sin plata, y negarse hunde lo único que queda. La frase de la venganza lo sella: *"todo lo que tienes ahora es este cuerpo, mi amor, y lo que gane. Igual que yo."*
+
 ## 2. Pivotes Narrativos (4)
 
 ### Pivote 1 — La dómina que conoce el cuerpo (calor EN VIVO desde el Cap 1)
-- **Qué ocurre:** Matías despierta en el cuerpo de Daniela. Pánico real, dislocación — y el coño ya respondiendo a contracorriente del pánico. Pero NO está solo: Daniela, en el cuerpo de hombre, ya está despierta, dueña, gozando el poder de la carne nueva. **Lo usa.** Trabaja el cuerpo que ella misma habitó durante años, apretando los botones que conoce de memoria, mientras lo humilla con dulzura cruel (*"antes tenías verga, mi amor… mira lo que tienes ahora"*) y goza viéndole la mente quebrarse. El cuerpo le responde más intenso que cuando ella vivía adentro, y ella lo nota y se lo dice.
-- **Por qué excita:** habitar lo que diseñaste, manejado por la única persona que sabe conducirlo, mientras tu orgullo macho mira y pierde. El conocimiento de ella es el arma; la lucidez de él es la leña.
-- **Emoción objetivo:** pánico + humillación que calienta + traición de la propia carne + reconocimiento.
-- **Error fatal:** Cap 1 solitario/introspectivo (el error de la v0.1 que dio *fome*). La dómina debe estar PRESENTE y ACTIVA. Nada de mandarlo solo al cuarto de huéspedes a masturbarse: Daniela administra el primer calor en vivo.
+- **Qué ocurre (3 tiempos — recalibrado por el Gate de la Ama 27/06):**
+  1. **Dani sola primero (corto y caliente, NO introspectivo).** Despierta sin Daniela en la pieza. Tiene tiempo de **pensar, asustarse y resistir**: el pánico real, la dislocación, el contraste del cuerpo (el peso de lado, el hueco, los labios, 🆕 el **piercing del ombligo** que reconoce porque lo eligió). Intenta razonar, negar, buscar explicación de hombre. Y por debajo del pánico, **la calentura acumulada ya se filtra a contracorriente** y no lo deja pensar bien: empieza, **lento, sin rendirse**, a deslizarse en gestos/pensamientos de bimbo que él odia. El coño ya late mudo. Esta runway es **breve y cargada** — pánico + carne que traiciona, nunca ombligo lúcido.
+  2. **Daniela entra y DESCUBRE su poder (gradual, no omnisciente).** Llega *después*. No es la dómina total desde la primera línea: **prueba, tantea apenas, ve responder el cuerpo, y con deleite creciente descubre que tiene ese poder sobre Dani.** La calma y la maestría se **construyen** a lo largo de la escena — empieza curiosa/midiendo y termina dueña.
+  3. **La domación en vivo.** Una vez que descubre el poder, lo usa: trabaja el cuerpo que habitó años, aprieta los botones que conoce, humilla dulce y sensual con la **venganza** encima (*"vas a pasar por todo lo que yo pasé, ×1000"*), y la **resistencia de Dani es real y dura** — no se derrite al primer toque, la rendición se gana beat por beat. El cuerpo responde más intenso que cuando ella vivía adentro, y ella lo nota y se lo dice.
+- **Por qué excita:** habitar lo que diseñaste, manejado por la única persona que sabe conducirlo, mientras tu orgullo macho mira y pierde — y la que te lo opera **te lo cobra con cariño**. El conocimiento de ella es el arma; la lucidez de él es la leña; la venganza es el aceite.
+- **Emoción objetivo:** pánico (solo) → resistencia que cede lento → humillación que calienta + traición de la propia carne + reconocimiento + el filo de la venganza.
+- **Error fatal (doble):** (a) Cap 1 solitario/introspectivo (el error de la v0.1 que dio *fome*) — la runway sola es CORTA; la dómina entra y administra el primer calor en vivo. (b) Daniela omnisciente desde la primera línea / Dani que se rinde de inmediato — la Ama lo rechazó: el poder se **descubre**, la resistencia es **real**, el bimbo emerge **lento**.
 - **Ubicación temporal:** Día 1, apertura del Cap 1.
 
 ### Pivote 2 — La firma vieja (plantar la trampa)
-- **Qué ocurre:** Dani encuentra el contrato firmado hace dos años con su propia letra — la de Matías — al pie de la cláusula que vende el sábado. Daniela detrás, sin sorpresa: *"Lo dejé arriba para que lo vieras hoy, mi amor."*
-- **Por qué excita:** la trampa no es nueva, la construyó él mismo. El Día 0 no la creó: la activó. El diseñador es el producto que ya se vendió.
-- **Emoción objetivo:** vértigo + impotencia + el calor de saberse mercancía.
-- **Error fatal:** que el contrato sea metáfora. Es objeto físico — papel timbrado, sello notarial. Se toca.
+- **Qué ocurre:** Dani encuentra el contrato firmado hace dos años con su propia letra — la de Matías — al pie de la cláusula que vende el sábado. Daniela detrás, sin sorpresa: *"Lo dejé arriba para que lo vieras hoy, mi amor."* **Y le baja la jaula de dinero:** ella ahora es Matías ante el mundo (la identidad, las cuentas, el club); Dani no existe legalmente ni tiene un peso; y la **cláusula penal** dice que si la primera bailarina no aparece el sábado, Sebastián ejecuta y arruina todo. No hay salida limpia. *"Todo lo que tienes ahora es este cuerpo, mi amor, y lo que gane. Igual que yo."*
+- **Por qué excita:** la trampa no es nueva, la construyó él mismo. El Día 0 no la creó: la activó. El diseñador es el producto que ya se vendió — y ahora **no tiene con qué comprarse la salida.**
+- **Emoción objetivo:** vértigo + impotencia + el calor de saberse mercancía + el filo de la venganza (él la vendió a ella; el contrato lo vende a él).
+- **Error fatal:** que el contrato sea metáfora. Es objeto físico — papel timbrado, sello notarial. Se toca. Y la jaula de dinero debe ser concreta (sin papeles, sin cuentas, cláusula penal), no un agobio vago.
+- **Cierre del Cap 1 (cliffhanger reframeado — Gate Ama 27/06):** NO cerrar en *"el cuerpo ya tenía hambre del sábado"* como hecho consumado. Cerrar en la **pregunta abierta**: ¿acepta o no el contrato? ¿va a seguir viviendo como mujer? ¿se quiebra o no? ¿lo masculino se impone a lo femenino? El hambre de la carne queda **debajo**, inclinándola hacia el sí — pero la decisión queda **colgando**, sin resolver. La tensión es el dilema, no la certeza.
 - **Ubicación temporal:** Día 1, Cap 1.
 
 ### Pivote 3 — El cuerpo que sabe (memoria muscular + Sebastián con la pluma)
@@ -47,12 +55,14 @@ Y firmó, hace dos años, un contrato que vendió el privado del sábado de "la 
 ### Matías / "Dani" — el diseñador, ~35, en el cuerpo de Daniela
 - **Rol narrativo:** protagonista, única voz, primera persona. Habita su propia obra y la reconoce. Se erosiona sensación por sensación. ("Dani" = el diminutivo cariñoso + nombre de stripper que Daniela ya usaba para ella.)
 - **Frase tipo:** *"Yo elegí este peso. Lo elegí del catálogo, una tarde, con un café enfriándose al lado. Lo que no elegí fue saber cómo se siente que alguien sepa apretarlo mejor que yo."*
-- **Detalle físico ancla:** el peso de los 1000cc por lado — al despertar, al moverse, al respirar, al ser tocado.
+- **Detalle físico ancla:** el peso de los 1000cc por lado — al despertar, al moverse, al respirar, al ser tocado. 🆕 **El piercing del ombligo** (Ama 27/06): joya que Dani reconoce porque la eligió él para Daniela — al despertar la roza, la mira, la siente ajena-propia; ancla del contraste "lo diseñé / ahora lo cargo".
 - **Invariante:** la lucidez orgullosa que pelea. Aunque la carne le gane, la mente siempre nombra lo que pierde — y esa lucidez es justo lo que multiplica el calor (mientras más pelea, más fuerte responde el cuerpo). Nunca se vuelve tonto; se vuelve hambriento.
 
 ### Daniela — la diseñada, ahora en el cuerpo de Matías (LA DÓMINA)
 - **Rol narrativo:** dominante doméstica + cabeza del proyecto + **operadora experta del cuerpo de Dani**. Alma sumisa original que, en el cuerpo de hombre, adopta la carga macho de la carne nueva y la goza. Es la única que sabe conducir el cuerpo que Dani habita, porque fue suyo.
-- **El arma:** conoce ese cuerpo desde adentro. No tantea — sabe. Aprieta los botones en orden, demora donde sabe que derrite, y narra lo que va a pasar antes de que pase para que Dani lo sienta venir.
+- **El arma:** conoce ese cuerpo desde adentro. No tantea **dónde** — sabe dónde están los botones. Aprieta en orden, demora donde sabe que derrite, y narra lo que va a pasar antes de que pase para que Dani lo sienta venir.
+- **Lo que DESCUBRE en Cap 1 (matiz del Gate Ama 27/06):** el cuerpo lo conoce, pero el **poder** sobre Dani no lo da por hecho — lo descubre. Entra midiendo, prueba apenas, ve responder la carne, y con **deleite creciente** se da cuenta de que lo tiene quebrado y de que responde **más fuerte** de lo que ella misma respondía. La maestría sobre el botón es innata; el goce del dominio se **construye** en la escena (curiosa → dueña). No omnisciente desde la primera línea.
+- **El motor: la venganza dulce.** Matías la bimbificó años desde afuera (la operó, la pesó, la mandó a la pista). Ahora se lo cobra **×1000**, sensual y lento: *"vas a pasar por cada cosa que yo pasé, mi amor, pero aumentado por mil."* Cada humillación es un cobro envuelto en cariño. La venganza nunca es rabia ni grito — es el placer de devolverle, multiplicada, su propia obra.
 - **La humillación (cariño-cruel + SENSUAL, textura central — refinada Ama 27/06):** degrada la masculinidad perdida de Dani SIN soltar el diminutivo posesivo. No es insulto rabioso: es **sensual, provocadora, lenta** — seduce mientras degrada. **Hace notar la diferencia** (lo de antes vs lo de ahora: verga→coño, el macho que mandaba→la que ahora se moja y se deja) y la vuelve vívida en palabras. **CLAVE (núcleo del calor): cada humillación hace responder al coño.** No se queda en el ego — aterriza en la carne: cada vez que Daniela le nombra lo que perdió o lo que ahora es, el coño contesta (latido, calor, hilo de humedad), y muchas veces ella lo señala. La vergüenza es el combustible directo de la pulsión muda. La crueldad va envuelta en dulzura y deseo, y eso la dobla. *"Antes tenías verga, mi amor. ¿Te acordái? Ahora tienes estas lindas tetas falsas que me hiciste… y mira cómo se te moja lo otro cada vez que te lo digo."*
 - **Frase tipo:** *"Lo dejé arriba para que lo vieras hoy, mi amor. El primero te lo administro yo."*
 - **Detalle físico ancla:** la calma del cuerpo de Matías que ahora habita — la corbata, la mano grande y pesada en el cuerpo chico de Dani, el peso del macho que aprendió a usar en una noche.
@@ -74,7 +84,7 @@ Y firmó, hace dos años, un contrato que vendió el privado del sábado de "la 
 
 ## 4. Mecanismo Psicológico Transversal (qué te excita del relato TODO)
 
-El diseñador atrapado dentro de su propia ingeniería, **manejado por la única persona que sabe conducirla** — la que vivió ahí adentro. Él fabricó un cuerpo para que fuera una bimbo hambrienta, desde afuera, con catálogos; ella lo habitó, lo conoce por dentro, y ahora se lo opera de vuelta sabiendo exactamente dónde apretar. El orgullo macho de Dani pelea y la carne le gana sensación por sensación — y mientras más pelea, más fuerte responde el cuerpo, y más goza Daniela mirándolo quebrarse y nombrándole lo que perdió (*la verga que tenía, las tetas falsas que ahora carga*). **La humillación sensual es un gatillo directo: cada vez que ella le hace notar la diferencia, el coño contesta** — la vergüenza no enfría, calienta. El morbo no está en la transformación: está en que el firmante habita el cuerpo que va a pagar la firma, lo maneja su propia obra hecha ama, y termina pidiendo la pluma él mismo.
+El diseñador atrapado dentro de su propia ingeniería, **manejado por la única persona que sabe conducirla** — la que vivió ahí adentro. Él fabricó un cuerpo para que fuera una bimbo hambrienta, desde afuera, con catálogos; ella lo habitó, lo conoce por dentro, y ahora se lo opera de vuelta sabiendo exactamente dónde apretar. El orgullo macho de Dani pelea y la carne le gana sensación por sensación — y mientras más pelea, más fuerte responde el cuerpo, y más goza Daniela mirándolo quebrarse y nombrándole lo que perdió (*la verga que tenía, las tetas falsas que ahora carga*). **La humillación sensual es un gatillo directo: cada vez que ella le hace notar la diferencia, el coño contesta** — la vergüenza no enfría, calienta. El morbo no está en la transformación: está en que el firmante habita el cuerpo que va a pagar la firma, lo maneja su propia obra hecha ama, y termina pidiendo la pluma él mismo. **Y todo eso es venganza:** él la bimbificó a ella desde afuera durante años, y ahora ella se lo devuelve ×1000 desde adentro, dulce y sin prisa — con la jaula de dinero cerrada (sin papeles, sin plata, cláusula penal) para que no haya puerta de escape que no pase por el sábado.
 
 ## 5. El motor del coño-voz (mantenido — más ENCARNADO, decisión Ama 27/06)
 
@@ -92,13 +102,13 @@ El diseñador atrapado dentro de su propia ingeniería, **manejado por la única
 
 | Cap | Título | Pivotes | Etapa coño-voz | Mecanismo dominante | Cierre del cap |
 |-----|--------|---------|----------------|---------------------|----------------|
-| 1 | El despertar / la firma vieja | P1, P2 | MUDA (pulsión sin palabras) | La dómina que conoce el cuerpo lo usa en vivo + humillación cariño-cruel + plantar el contrato | Primer orgasmo administrado por Daniela (la pulsión muda gana, la mente pierde su primera batalla) + el contrato en la mesita + *"el primero te lo administro yo, mi amor"* — hambre, no horror |
+| 1 | El despertar / la firma vieja | P1, P2 | MUDA (pulsión sin palabras) | Dani sola (pánico+contraste+resistencia, corto) → Daniela descubre su poder y lo usa en vivo + humillación venganza-dulce + plantar el contrato + la jaula de dinero | Primer orgasmo administrado por Daniela (la pulsión muda gana su primera batalla) + el contrato y la cláusula penal en la mesita → **el dilema abierto:** ¿acepta? ¿sigue como mujer? ¿se quiebra? El hambre debajo, la decisión colgando |
 | 2 | El cuerpo que sabe / la sombra del sábado | P3 | PRIMERA PALABRA (cursiva intrusa) | Memoria muscular que traiciona + cobro de Sebastián leído en el cuerpo + tutoría de Bárbara | La pluma que Sebastián mostró, la cuenta regresiva al sábado, el cuerpo ya esperando |
 | 3 | El sábado / la firma nueva (CLÍMAX) | P4 | HABLA ANTES QUE ELLA | Dani PIDE (rendición activa) + acto consagratorio + sin paz | *"¿A qué hora el VIP?"* — hambre dicha en voz propia. FIN |
 
 ### Escena sexual por capítulo (OBLIGATORIO — relato erótico, entrega separada)
 Cada capítulo se publica SOLO. Por eso cada uno DEBE: (a) tener al menos una escena sexual desarrollada que caliente y descargue (parcial), y (b) cerrar en cliffhanger que deje con ganas del próximo. Buildup-buildup-pago-en-Cap-3 NO sirve.
-- **Cap 1 → domación en vivo que termina en orgasmo administrado.** Daniela trabaja el cuerpo nuevo que conoce de memoria, lo humilla dulce, la mente de Dani pelea y la pulsión muda gana: primer orgasmo en el cuerpo que él diseñó, dado por ella, horror y calor juntos. Es la primera erosión hecha carne. Cliffhanger: el contrato + *"el primero te lo administro yo"*.
+- **Cap 1 → Dani sola (corto) → domación en vivo que termina en orgasmo administrado.** Primero Dani sola: pánico, contraste del cuerpo (peso de lado, hueco, piercing del ombligo), resistencia real, la calentura ya filtrándose. Después Daniela entra, **descubre** su poder midiéndolo, y trabaja el cuerpo que conoce de memoria; humilla dulce con la venganza encima, la mente de Dani pelea **duro** y la pulsión muda gana **lento**: primer orgasmo en el cuerpo que él diseñó, dado por ella, horror y calor juntos. Es la primera erosión hecha carne. Cliffhanger: el contrato + la **cláusula penal / la jaula de dinero** + el **dilema abierto** (¿acepta?, ¿sigue como mujer?, ¿se quiebra?) — el hambre debajo, la decisión sin resolver.
 - **Cap 2 → calor en el club + primer privado.** Bárbara escala (femenino-femenino), el pole carga el cuerpo, y un primer privado dirigido por Daniela descarga (toques administrados, sin llegar al sábado). El coño dice su primera palabra durante el calor. Cliffhanger: la Montblanc + *"mañana firmas conmigo"*.
 - **Cap 3 → clímax pleno.** Dani pide, firma, acto consagratorio con Sebastián, *"¿a qué hora el VIP?"*.
 
@@ -108,7 +118,11 @@ verga · coño · coger · tirar · departamento · weón/weona · mojada · tan
 
 ## 8. Cementerio (lo que el Escritor NO debe hacer)
 
-- **NO** Cap 1 solitario/introspectivo (el error que dio *fome*). La dómina está PRESENTE y ACTIVA desde el principio; el primer calor es en vivo, no una masturbación en el cuarto de huéspedes.
+- **NO** Cap 1 solitario/introspectivo **largo** (el error que dio *fome*). Hay una runway sola al abrir (pánico+contraste+resistencia) **pero CORTA y caliente**; la dómina entra pronto y el primer calor es en vivo, no una masturbación en el cuarto de huéspedes. El equilibrio: aire para Dani sin volver al ombligo lúcido que aburrió.
+- **NO** Daniela omnisciente/dueña desde la primera línea (rechazo Ama 27/06). El poder se **descubre** midiéndolo; entra curiosa y termina dueña.
+- **NO** rendición inmediata de Dani. La resistencia es **real y dura**; el bimbo emerge **lento**; la rendición se gana beat por beat.
+- **NO** cerrar el Cap 1 como hecho consumado ("ya tenía hambre del sábado" punto final). Cierra en **dilema abierto** (¿acepta?, ¿sigue como mujer?, ¿se quiebra?, ¿lo masculino se impone?) con el hambre debajo.
+- **NO** dejar la jaula de dinero vaga. Concreta: Daniela controla identidad/cuentas/club, Dani sin papeles ni plata, cláusula penal ruinosa si la bailarina no aparece.
 - **NO** reconstruir el andamiaje viejo: nada de M1-M16, listas de compromisos por capítulo, curvas de rendición con porcentajes, Sello de Inviolabilidad. Eso mató el relato la primera vez.
 - **NO** aceptación clínica en la apertura. Pánico antes que sensación; el coño responde a contracorriente, no en calma.
 - **NO** racionalizar el cuerpo en el mismo párrafo en que siente (cuerpo siente → la mente nombra después, nunca simultáneo defensivo).
@@ -123,6 +137,8 @@ verga · coño · coger · tirar · departamento · weón/weona · mojada · tan
 
 - *"Lo dejé arriba para que lo vieras hoy, mi amor."* (Daniela — plantar el contrato)
 - *"El primero te lo administro yo."* (Daniela)
+- *"Vas a pasar por cada cosa que yo pasé, mi amor, pero aumentado por mil."* (Daniela — la venganza dulce)
+- *"Todo lo que tienes ahora es este cuerpo, mi amor, y lo que gane. Igual que yo."* (Daniela — la jaula de dinero)
 - *"Antes tenías verga, mi amor. Ahora tienes estas lindas tetas falsas que me hiciste… y mira cómo se te moja lo otro cada vez que te lo digo."* (Daniela — humillación sensual que gatilla el coño)
 - *"Yo viví aquí adentro. Sé dónde aprietas."* (Daniela — el arma de los dos conocimientos)
 - *"Por la primera bailarina."* (Sebastián — brindis)
