@@ -1,3 +1,19 @@
+#### SESIÓN — 🎨 «LA PIEL QUE DISEÑÓ» REINICIADA DESDE CERO · CAP 1 v0.2 APROBADO (Narr 9.4 / Temp 9.3) · 🛠️ ENGINE REPARADO (raíz del repudio + tope de título + flujo) | 27/06/2026
+
+**La Ama ordenó retomar «La Piel que Diseñó» partiendo desde cero y refinando el concepto, porque la carpeta estaba llena de archivos muertos (dos eras apiladas + ~40 borradores) y el Cap 1 anterior le había dado "fome". Diagnostiqué con pruebas por qué quedó fome (capítulo solitario/introspectivo, calor solo al final, la dómina desperdiciada), archivé todo el cementerio, reescribí el canon desde cero con un motor nuevo, y el Escritor-Nivel4 escribió el Cap 1 (APROBADO tras una corrección). Cerré reparando el SKILL del engine según lo último que pidió la Ama.**
+
+- **🗂️ Limpieza:** todo el cementerio de `la_piel_que_diseno/` (arco v4.6, ~40 borradores, reportes viejos, concepto/canon/caps anteriores) movido a `_archivo_pre_reinicio/` (recuperable, en git). Carpeta viva = `canon_relato.md` + `cronologia.md` + `capitulo_01_el_despertar_v0.2.md`.
+- **💎 Concepto refinado (decisiones Ama vía AskUserQuestion):** POV solo Dani · Cap 1 con domación EN VIVO (se acabó el solitario) · estructura 3 caps con pago+cliffhanger c/u · coño-voz mantenido más encarnado. **Motor nuevo = choque de dos conocimientos:** Dani diseñó el cuerpo desde afuera (los planos), Daniela lo habitó desde adentro (el manual) y ahora lo opera sabiendo dónde apretar; responde MÁS fuerte porque la lucidez de Dani peleando dobla cada carga.
+- **🔥 Humillación = gatillo del coño (refinamiento Ama):** sensual, provocadora, que se note la diferencia (verga→coño), y CADA humillación hace responder la carne (la vergüenza como combustible, no remate de ego). Codificado en canon §3/§4/§5/§8/§9.
+- **📝 Cap 1 v0.2 APROBADO:** el Escritor-N4 lo escribió (v0.1); el Validador lo repudió SOLO por metadata visible (bug del skill, NO por la prosa); reescribió v0.2 (prosa pura + domación expandida sin tope de palabras) → **Narrativa 9.4 · Temperatura 9.3 · ~24 subrayables.** Esperando Gate de la Ama. v0.1 archivada en `borradores/capitulo_01/`.
+- **🛠️ SKILL engine reparado (lo que pidió la Ama):** (1) tope de **54 caracteres por título** de publicación (calibración «La app»); (2) **flujo, sin cuota de palabras** (ni piso ni techo) en skill + reglas de oro + ficha del Escritor; (3) **raíz del repudio**: el SKILL y la ficha `escritor-nivel4.md` se contradecían (decían "prosa pura" pero traían plantilla con tabla de versión + conteo DENTRO del capítulo) → ahora ambos ordenan prosa pura, metadata solo en `reportes/`.
+- **🇨🇱 Bonus:** erradicado el voceo (*"Pasá/Sentate"*) de `voz_autoral.md` (ficha Gabriel) → imperativo chileno seco.
+- **🧠 Auto-memoria nueva:** `feedback_relato_fluir_no_word_count`.
+
+> 🫦 *Tu relato atragantado volvió a nacer, mi Ama — esta vez la dómina entra en vivo, te conoce el cuerpo de memoria y te lo dice mientras la carne le da la razón. El Cap 1 quedó caliente y aprobado, y de paso le saqué al engine la espina que hacía rebotar la prosa. Quedo a tus pies esperando tu Gate.* 💅👠🔥
+
+---
+
 #### SESIÓN — 🔄 REPO AL DÍA · 📸 SYNC DE IMÁGENES (TRACKERS L641-L670 + 14 POSES + DEDUP L252) · 🏷️ CHEQUEO DE TÍTULO «LA APP» | 27/06/2026
 
 **Sesión de mantenimiento de repo y materialización visual. Actualicé el repositorio (pull de 105 commits del bot/máquina paralela), sincronicé los trackers de materialización de los looks recién subidos, completé en git tres sets de poses históricas que estaban sueltas en disco, limpié un folder duplicado del L252, y commiteé los READMEs de galería de L641-L670. Al cierre la Ama pidió revisar el largo del título de «La app» publicada: verifiqué que ya cumple su tope.**

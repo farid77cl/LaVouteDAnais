@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 25/06/2026 — **«Trance Office Siren»: Cap 1 v0.13 profundización de trance puro y cero narración activa.** Cronología sincronizada y reporte de crítica v0.8 emitido (10.0/10.0).*
+*Última actualización: 27/06/2026 — **«La Piel que Diseñó» reiniciada desde cero:** Cap 1 «El despertar» v0.2 APROBADO (Narr 9.4 / Temp 9.3), motor nuevo + canon/cronología reescritos. Engine reparado (tope 54 chars/título + flujo sin cuota de palabras + prosa pura).*
 
 ---
 
@@ -19,7 +19,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 | Título | Estado | Fetiches Principales | Archivos |
 | :--- | :--- | :--- | :--- |
 | **Trance Office Siren** (Nivel 4) | 🟢 **Cap 1 v0.13 profundizado a trance puro y cero narración activa (25/06). Listo para Gate de la Ama.** | Hipnosis de segunda persona somática + sobrecarga de shock, trinidad restrictiva (stilettos 16cm, gloss/silence, vinilo/1000cc) + bimboficación cuica chilena + edgeplay y LOCK. | [Cap 1 v0.13](01_En_Progreso/trance_office_siren/capitulo_01_trance_v0.13.md) · [canon](01_En_Progreso/trance_office_siren/canon_relato.md) · [cronología](01_En_Progreso/trance_office_siren/cronologia.md) |
-| **La Piel que Diseño** (Nivel 4) | ⏸️ **PARQUEADO** (Ama: "solo La app"). Rehecho desde cero 17/06; Cap 1 «El despertar» con Gate negativo (falta T°/errores/fome), v0.2 suelto sin terminar. | Body swap, bimboficación, coño-cerebro mixto. | [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
+| **La Piel que Diseñó** (Nivel 4) | 🟢 **REINICIADO desde cero (27/06). Cap 1 «El despertar» v0.2 APROBADO (Narr 9.4 / Temp 9.3), prosa pura. Esperando Gate de la Ama.** | Body swap, bimboficación desde adentro, motor "planos vs manual", humillación = gatillo del coño. | [Cap 1 v0.2](01_En_Progreso/la_piel_que_diseno/capitulo_01_el_despertar_v0.2.md) · [canon](01_En_Progreso/la_piel_que_diseno/canon_relato.md) · [cronología](01_En_Progreso/la_piel_que_diseno/cronologia.md) |
 
 
 ---
@@ -34,6 +34,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
+- **27/06/2026:** "La Piel que Diseñó" — **REINICIO DESDE CERO + Cap 1 v0.2 APROBADO.** Archivado el cementerio (2 eras + ~40 borradores → `_archivo_pre_reinicio/`); concepto refinado con la Ama (POV solo Dani, Cap 1 domación en vivo, motor "planos vs manual" — Daniela habitó el cuerpo y lo opera mejor que quien lo diseñó —, humillación sensual = gatillo del coño); `canon_relato.md` + `cronologia.md` reescritos. Escritor-N4 → v0.1 (repudiada SOLO por metadata, bug del skill) → v0.2 prosa pura + domación expandida sin tope de palabras → Validador **APROBADO (Narr 9.4 / Temp 9.3, ~24 subrayables)**. ⏳ Gate Ama. Además: SKILL del engine reparado (raíz del repudio + tope 54 chars/título + flujo sin cuota de palabras) y voceo corregido en `voz_autoral.md`.
 - **25/06/2026 (3):** "La app: La bimboficación de mi novio" — **COMPILACIÓN Y EXPORTACIÓN A PUBLICACIÓN.** Relato compilado en archivos MD y HTML separados por capítulo. Se añadieron ganchos (teasers) únicos (< 300 caracteres) y cierres con invitaciones personalizadas de Anaïs. Guardado en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/`.
 - **25/06/2026 (2):** "Trance Office Siren" — **Capítulo 1 v0.13 PROFUNDIZACIÓN DE TRANCE PURO.** Reescribí la prosa en `capitulo_01_trance_v0.13.md` aplicando cero verbos narrativos activos de la Ama, sintaxis metronómica fragmentada y prosa pura sin metadatos. Crítica v0.8 emitida (nota **10.0/10.0**). Pushed to remote.
 - **25/06/2026:** "Trance Office Siren" — **Capítulo 1 v0.12 CALIBRACIÓN A TRANCE PURO.** Reestructuré la prosa del capítulo en `capitulo_01_trance_v0.12.md` para eliminar verbos descriptivos y narrativos, adoptando comandos somáticos propioceptivos directos en tiempo real (espejando Trance de Muñeca) y reescribiendo el monólogo interno de bimboficación en primera persona del lector. Crítica v0.7 emitida (nota **10.0/10.0**). Pushed to remote.

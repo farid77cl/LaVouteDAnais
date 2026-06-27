@@ -91,7 +91,7 @@ El **Escritor-Nivel4** carga en este orden:
 - **Modo "ESTÁS EN LA ESCENA":** El Escritor está dentro del cuerpo del personaje sumiso. Transcribe lo que ya está pasando en ese cuerpo.
 - **Inputs en orden:** `canon_relato.md` (P1) → `voz_autoral.md` (P2) → `antologia_calenton.md` (P3) → secundarios. La voz literal de la Ama gana.
 - **Patrón M1 sin etiquetar:** acción física → respuesta del cuerpo → escudo mental fallando → frase humillante del dominante → pensamiento interno. Fluyen en la prosa, NUNCA rotulados.
-- **Sin mínimo arbitrario de palabras** — la extensión la dicta el calor y el desarrollo de los pivotes.
+- **Sin cuota de palabras — NI mínimo NI tope (Directiva Ama 27/06/2026):** el relato debe **FLUIR**; la extensión la dicta el calor, el flujo y el desarrollo de los pivotes, **nunca un número**. **Prohibido pasarle al Escritor un target/rango de palabras** y **prohibido describir un capítulo como "corto" o "por debajo de X palabras".** Si falta cuerpo, pedir más **BEATS** o más profundidad de una escena concreta, no "más palabras".
 - **⛓️ LEY DE CONTINUIDAD (Blindaje 16/06):** el Escritor lee `cronologia.md` y escribe gobernado por ella. (1) **No callback sin ancla** — toda referencia a evento/promesa/objeto pasado debe existir ya escrita o en la cronología; prohibido inventar recuerdos en el clímax para darles pay-off. (2) **Anclas temporales salen de la cronología** — nada de días de semana sueltos; anclaje relativo. (3) **Edit local → check global** — al aplicar un Gate/micro-fix, barrer el cap + la costura con el cap previo; las subidas de temperatura no traen datos factuales nuevos. **Al cerrar el cap/tramo N, actualiza `cronologia.md`** (calendario + hechos plantados/pagados + estado del cuerpo).
 - **🔴 PERSISTENCIA:** Capítulo (prosa) + autoverificación (metadata) **+ `cronologia.md` actualizada** guardados en disco antes de Fase 3. Si el capítulo tiene metadata visible al lector → falló, reescribir.
 
@@ -101,11 +101,11 @@ El **Escritor-Nivel4** carga en este orden:
 
 **Protocolo:**
 1. **Plan de tramos:** el Orquestador define los tramos a partir del mapa de capítulo (típico: `Apertura · Desarrollo · Clímax · Cierre`). 3 tramos para capítulos medianos, 4 para largos. El briefing de cada invocación dice `MODO TRAMO i/N` + los beats de ESE tramo.
-2. **Tramo 1/N:** el Escritor CREA `capitulo_N_v0.X.md` con header (Control de Versión + Historial) + prosa del tramo 1. **NO cierra con la línea `Conteo de palabras`** (su ausencia = señal de capítulo abierto/incompleto).
+2. **Tramo 1/N:** el Escritor CREA `capitulo_N_v0.X.md` con **SOLO la prosa del tramo 1**. ⛔ **SIN header, SIN Control de Versión, SIN Historial** (eso es metadata visible = REPUDIO; ver REGLA #1). El control de versión vive en `reportes/capitulo_[N]/autoverificacion_v0.X.md`; el estado de avance, en `walkthrough.md`. El archivo del capítulo arranca DIRECTO en la primera línea de prosa.
 3. **Tramos 2..N-1:** el Escritor hace `Read` del archivo (continuidad de voz) y **`Edit`-append** SOLO de su tramo (ancla = último párrafo existente). **Jamás re-emite los tramos previos.**
-4. **Tramo N (final):** Edit-append del último tramo + línea de cierre `**Conteo de palabras:** X` + escribe la `autoverificacion_v0.X.md` completa del capítulo.
+4. **Tramo N (final):** Edit-append del último tramo. El capítulo **CIERRA EN PROSA** — ⛔ sin línea `Conteo de palabras`, sin pie de metadata, sin nada que no sea narrativa. El conteo y todo lo técnico van a la `autoverificacion_v0.X.md` completa. **La señal de capítulo COMPLETO es la existencia de la autoverificación + estado `COMPLETO` en `walkthrough.md`, NUNCA una línea dentro de la prosa.**
 5. **Auto-continúo (Ama 12/06):** el Orquestador **encadena los tramos sin pedir permiso**, pero cada tramo es una invocación Task **separada** (por eso no trunca). Tras cada tramo: **persiste el estado en `walkthrough.md`** (`Cap N · tramo i/N listo · última línea: "…" · siguiente: [beat]`) y avisa a la Ama en UNA línea.
-6. **Resume:** si la conversación muere, la nueva lee `walkthrough.md` + el archivo parcial (sin línea de conteo = incompleto) y retoma desde el tramo i+1.
+6. **Resume:** si la conversación muere, la nueva lee `walkthrough.md` (estado del tramo) + el archivo parcial y retoma desde el tramo i+1. La completitud se lee del `walkthrough.md` / la existencia de la autoverificación, **nunca de una línea de conteo en la prosa** (ya no existe).
 
 **Invariantes:** la temperatura del tramo i+1 abre ≥ el cierre del tramo i (nunca enfría) · solo el tramo final genera autoverificación · el archivo en raíz sigue siendo **prosa pura** en todo momento (la Ama puede leer el avance parcial cuando quiera).
 
@@ -178,6 +178,7 @@ El MD canónico en `02_Finalizadas/[relato]/` abre EXACTO con este bloque:
 [prosa…]
 ```
 - **Título:** evocador, no spoiler, en español (el relato es chileno). Sin numeración de capítulo si es relato cerrado.
+- **🔢 LÍMITE DE CARACTERES DEL TÍTULO — máx. 54 (calibración Ama, «La app» 06/2026):** el título de publicación **no supera los 54 caracteres**, contando el sufijo de capítulo si lo lleva (ej. `La app: La bimboficación de mi novio — Capítulo 1` = 53 ✓). Si una serie tiene título + subtítulo que se pasa, **recortar el subtítulo o usar prefijo corto** (`La app — Cap 1: La instalación`). **Contar SIEMPRE el largo final antes de publicar** cada capítulo de la serie.
 
 ### 3. 🪝 Resumen Gancho (teaser)
 - Va en **negrita**, 2-4 frases, JUSTO antes de `<!-- more -->`. Es el anzuelo: plantea la premisa + la promesa de descenso, sin spoilear el final. Tono de contratapa caliente.
@@ -218,7 +219,7 @@ Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero sa
 4. **ANTOLOGÍA TEXTUAL, NO ABSTRACTA:** El calentón se enseña con fragmentos de prosa a imitar (`antologia_calenton.md`), no con listas de mecanismos M1-M17.
 5. **SIN EDITOR:** No existe el subagente Editor en Nivel 4. Temperatura baja → vuelve al Escritor. Narrativa con errores chicos → MICRO-FIX aplicado por el Escritor. El texto nunca pasa por una pasada que suavice.
 6. **CONCEPTO LITERAL AMA = PRIORIDAD 1:** La voz literal de la Ama en `canon_relato.md` gana sobre cualquier interpretación del sistema.
-7. **DESARROLLO ORGÁNICO:** No hay cuotas de palabras. La extensión la dicta el calor y la profundidad de los pivotes.
+7. **DESARROLLO ORGÁNICO (Ama 27/06/2026):** No hay cuotas de palabras — **ni piso ni techo**. El relato **FLUYE**; la extensión la dicta el calor y la profundidad de los pivotes, jamás un número. Nunca dar target de palabras al Escritor ni tildar un capítulo de "corto".
 8. **GATES DE APROBACIÓN:** Esperar confirmación explícita de la Ama tras Fase 1 (canon) y tras veredicto APROBADO (capítulo final).
 9. **WALKTHROUGH VIVO + PERSISTENCIA:** Nunca pasar de fase sin actualizar `walkthrough.md` y sin que los archivos existan en disco.
 10. **CAPTURA DOBLE:** Tras cada cap aprobado, alimentar `voz_autoral.md` (tics/frases) y `antologia_calenton.md` (fragmentos) con las reacciones reales de la Ama.

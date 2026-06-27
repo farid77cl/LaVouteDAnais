@@ -93,8 +93,8 @@ Su *"Bien"* es el sello. Contrae el coño del que lo escucha. Aparece después d
 **Sabe que va a coger a Estefanía.** Pero no la apura. La deja venir.
 
 **Frases tipo (pendientes en premisa nueva):**
-- *"Pasá."* (cuando la haga entrar a su oficina por primera vez)
-- *"Sentate."* (no "siéntate por favor" — "sentate" seco)
+- *"Pasa."* (cuando la haga entrar a su oficina por primera vez — imperativo chileno seco, NUNCA voceo)
+- *"Siéntate."* (no "siéntate por favor" — seco, sin adorno; jamás "sentate")
 - *"Eso te queda bien."* (sobre el outfit — comentario aparentemente trivial que es seducción explícita)
 
 ---
