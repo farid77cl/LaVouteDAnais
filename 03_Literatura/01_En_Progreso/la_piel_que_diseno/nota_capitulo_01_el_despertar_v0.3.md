@@ -1,1 +1,0 @@
-si se sube el camisón, se debe ver la tanga y su coño depilado
