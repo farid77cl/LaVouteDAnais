@@ -1,0 +1,1 @@
+Las elegí lindas. No las elegí fuertes. ¿Para qué iba a quererte las manos fuertes? cámbialo por Las elegí lindas. No las elegíste fuertes. ¿Para qué ibas a quererme las manos fuertes?
