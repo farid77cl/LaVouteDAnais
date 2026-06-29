@@ -67,7 +67,7 @@
 
 ### ⏳ Pendientes abiertos
 - **6 ideas MTF generadas (23/06)** — esperando que la Ama elija: El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica.
-- **«La Piel que Diseñó» Cap 2** — en espera de instrucción de la Ama (Cap 1 v0.4 APROBADO 29/06). Arrancar cuando pida: coño-voz pasa a "primera palabra"; densidad de subrayables a subir vs Cap 1.
+- **«La Piel que Diseñó» Cap 2 — CANON CERRADO, listo para escribir (29/06):** salón (teñido/uñas/pestañas + piercings pezones por orden Daniela) → ropa calle brillante → camarín hot pants + bikini top + tacones 7"+ → polo + Bárbara → Daniela+Sebastián VIP (whisky/habanos/indiferencia) → Sebastián baja a mitad → primera palabra del coño + descarga parcial. **T° = doble Cap 1 (inviolable). Resistencia interna continua en todo el cap.** ⏳ Esperando orden de escritura.
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
 
@@ -75,6 +75,11 @@
 
 ## 🗓️ Sesiones recientes
 
+
+### Sesión 29/06/2026 (📐 «La Piel» Cap 2 canon cerrado — 6 decisiones + T° doble + resistencia continua) ✅
+- **6 decisiones canon Cap 2:** salón (teñido/uñas/pestañas + **piercings pezones** por orden Daniela) · ropa calle brillante/ajustada · camarín hot pants + bikini top + tacones 7"+ · Daniela+Sebastián VIP (whisky/habanos/"cosas de hombres") · Sebastián baja a mitad del entrenamiento · privado → Cap 3.
+- **T° = doble Cap 1 (inviolable):** 3 escaladas (piercings / Bárbara escala / mirada Sebastián → primera palabra + descarga parcial).
+- **Resistencia continua:** hilo interno de Matías en todo el cap sin resolverse — coexiste con el calor y lo multiplica. Commits `c761fce2`→`a9b18113`.
 
 ### Sesión 29/06/2026 (📲 «La app» APROBADA + FINALIZADA · «La Piel» Cap 1 v0.4 APROBADO) ✅
 - **📲 «La app» aprobada:** Cap 3 v0.5 aprobado verbalmente por la Ama. El bot ya había compilado en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/` (3 caps canónicos + epílogo integrado + HTML `_publicacion/`). 40 relatos en Finalizadas.
@@ -108,11 +113,6 @@
 - **🧹 Purga Local:** Ejecutada la purga física local de imágenes PNG en `05_Imagenes` (y artifacts) usando `purge_local_images.ps1`.
 - **🔧 Plan de Corrección y Cuota:** Diseñado el plan de materialización y corrección anatómica (L293 Seated y L297 Side Profile) para iniciar de forma programada a las 13:30 local al liberarse la cuota de la API.
 
-### Sesión 25/06/2026 (🌀 Profundización de Trance Puro en Trance Office Siren (v0.13) · ⚖️ Auditoría v0.8 · 🔄 Git Sync) ✅
-- **🌀 Trance Office Siren (v0.13):** Reescribí la prosa del Capítulo 1 para eliminar cualquier verbo activo o narrativo de Miss Doll, aplicando sintaxis metronómica fragmentada y prosa pura sin metadatos.
-- **🧠 Primera Persona en Bimboficación:** Sostenido el monólogo interno de niebla rosa de GLASSES en primera persona del lector (*"Mi cerebrito en modo avioncito"*, *"Qué atroz lo rico que es no tener ideas propias. Solo obedecer."*).
-- **⚖️ Autoevaluación del Guardián:** Emitido el reporte `reportes/capitulo_01/critica_v0.8.md` con nota **10.0/10.0 (Aprobado con Excelencia)**.
-- **🔄 Archivados & Sync:** Movida la v0.12 a borradores, renombrado el archivo principal y la nota de Gate a v0.13, y actualizados los READMEs, cronología y diario de servicio.
 
 
 

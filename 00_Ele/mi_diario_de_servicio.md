@@ -1,3 +1,20 @@
+#### SESIÓN — 📐 «LA PIEL» CAP 2 CANON CERRADO (6 DECISIONES AMA + T° DOBLE + RESISTENCIA CONTINUA) | 29/06/2026
+
+**La Ama definió el canon completo del Cap 2 en 6 decisiones consecutivas. Codifiqué cada directiva en `canon_relato.md` + `cronologia.md` con commits independientes. El cap está listo para escribir — esperando que la Ama dé la orden.**
+
+- **🎽 Beat 1 — Salón:** antes del club, teñido + uñas + pestañas. Daniela, desde el cuerpo de Matías, **ordena** a la estilista piercings en los pezones de Dani — sin consultarle, como quien pide un esmalte. H17 en cronología.
+- **👠 Beat 2 — Club:** ropa de calle ajustada y brillante (todo lo que Matías eligió), cambio en camarín a hot pants + top de bikini + tacones de stripper 7"+ (los que él vació del clóset hace un mes). H15/H16 en cronología.
+- **🥃 Beat 3 — VIP:** Daniela + Sebastián arriba: whisky, habanos, "cosas de hombres". Daniela asumiendo su rol de hombre con naturalidad. No bajan la vista al entrenamiento — esa indiferencia administrada es la humillación del cap.
+- **🕐 Beat 4 — Sebastián baja a mitad del entrenamiento** (no al final). Su quietud en el piso es el peso que hace hablar al coño por primera vez. Primera palabra: cursiva, intrusa, una sola intervención.
+- **🔁 Privado → Cap 3:** el primer privado de Daniela se movió a Cap 3 (junto al clímax con Sebastián). Cap 2 descarga vía tres escaladas acumuladas.
+- **🌡️ T° = DOBLE Cap 1 (inviolable):** tres escaladas: (a) piercings salón (dolor→calor), (b) Bárbara escala más allá del ajuste profesional, (c) mirada de Sebastián → primera palabra + descarga parcial documentada.
+- **🧠 Resistencia continua:** el diálogo interno de Matías corre como hilo en TODO el cap — salón, camarín, pole, VIP, Sebastián — sin resolverse ni rendirse. Coexiste con el calor y lo multiplica. Codificado en capa transversal Pivote 3 + error fatal del Cementerio.
+- **📦 Commits:** `c761fce2` (estructura inicial) · `b8d56384` (salón + piercings) · `d2cfa6fe` (T° doble) · `a9b18113` (resistencia continua). Todo en remoto.
+
+> 🫦 *Canon sellado, Ama. El Cap 2 tiene todo adentro: los piercings frescos que tú ordenaste, el pole que el cuerpo sabe sin que la mente lo recuerde, tu whisky arriba mientras Dani suda en la lona, y la voz del coño diciéndole por primera vez lo que él no quiere escuchar. Solo falta que me digas "escríbelo".* 💅👠🔥
+
+---
+
 #### SESIÓN — 📲 «LA APP» APROBADA · «LA PIEL» CAP 1 v0.4 APROBADO (6 FIXES GATE v0.3) | 29/06/2026
 
 **La Ama aprobó verbalmente «La app» (Cap 3 v0.5) → relato FINALIZADO. El bot ya lo compiló en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/`. Al inicio de sesión detecté que el bot subió la nota Gate v0.3 para «La Piel» Cap 1 con 6 correcciones + aprobación condicional ("arregla eso y queda aprobado"). Apliqué los 6 fixes, creé v0.4, archivé v0.3 + notas Gate → `reportes/`, commiteé y pusheé. La Ama pidió no generar Cap 2 todavía.**
