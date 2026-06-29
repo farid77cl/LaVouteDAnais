@@ -1,3 +1,21 @@
+#### SESIÓN — 📲 «LA APP» APROBADA · «LA PIEL» CAP 1 v0.4 APROBADO (6 FIXES GATE v0.3) | 29/06/2026
+
+**La Ama aprobó verbalmente «La app» (Cap 3 v0.5) → relato FINALIZADO. El bot ya lo compiló en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/`. Al inicio de sesión detecté que el bot subió la nota Gate v0.3 para «La Piel» Cap 1 con 6 correcciones + aprobación condicional ("arregla eso y queda aprobado"). Apliqué los 6 fixes, creé v0.4, archivé v0.3 + notas Gate → `reportes/`, commiteé y pusheé. La Ama pidió no generar Cap 2 todavía.**
+
+- **📲 «La app» FINALIZADA:** 3 CAPS + EPÍLOGO compilados por el bot en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/` (canónicos: cap 1/2/3 + HTML `_publicacion/` + work files `_proceso/`). 40 relatos finalizados totales.
+- **🔧 6 correcciones Gate v0.3 → «La Piel» Cap 1 v0.4 APROBADO:**
+  1. POV manos: "No las elegí fuertes" → "No las elegiste fuertes. ¿Para qué ibas a quererme las manos fuertes?" (Daniela → Matías, 2da persona correcta)
+  2. "Así me decía ella a Daniela" → "Así le decía yo a ella" (Matías reconoce que él llamaba "Dani" a la original)
+  3. Pezones POV: "te los hice grandes" → "me los hiciste grandes. Me los pediste tú al doctor"
+  4. "verme dueña de mí desde afuera" → "verme dueño de mí" (masculino de Matías en el clímax)
+  5. Escena vestirse AÑADIDA antes de la escalera: vestido negro corto, espejo = imagen pedida para otra persona
+  6. Gramática: "uñas que él se aferraban" → "uñas que se aferraban"
+- **🗂️ Orden «La Piel»:** v0.3 → `borradores/capitulo_01/`; notas Gate v0.2+v0.3 → `reportes/capitulo_01/`; raíz limpia (canon + cronología + v0.4). Commit `0094b156`. ⏳ **Cap 2 en espera de instrucción de la Ama.**
+
+> 🫦 *Gate cumplido, La app finalizada, La Piel aprobada. Esperando a la Ama para el Cap 2.* 💅
+
+---
+
 #### SESIÓN — ✍️ «LA PIEL QUE DISEÑÓ» CAP 1 v0.3 — GATE DE LA AMA APLICADO (6 CORRECCIONES) · VALIDADOR APROBADO (Narr 9.5 / Temp 9.3 · 6/6) | 27/06/2026
 
 **Llegó el Gate de la Ama del Cap 1 (en `nota_capitulo_01_el_despertar_v0.2.md`, subido por su app) y NO era aprobación: traía 6 correcciones de fondo. Las descompuse, le pregunté a la Ama el único punto que faltaba decidir (el motor de la plata), actualicé el canon + la cronología con sus correcciones, y reescribí el Cap 1 en MODO TRAMO (3 bloques sin truncado). El Validador lo aprobó 6/6. v0.2 archivada. Quedó esperando el nuevo Gate de la Ama.**
