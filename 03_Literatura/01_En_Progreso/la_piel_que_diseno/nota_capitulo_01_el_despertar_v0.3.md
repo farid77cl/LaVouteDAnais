@@ -1,1 +1,1 @@
-Las elegí lindas. No las elegí fuertes. ¿Para qué iba a quererte las manos fuertes? cámbialo por Las elegí lindas. No las elegíste fuertes. ¿Para qué ibas a quererme las manos fuertes?
+Las elegí lindas. No las elegí fuertes. ¿Para qué iba a quererte las manos fuertes? cámbialo por Las elegí lindas. No las elegíste fuertes. ¿Para qué ibas a quererme las manos fuertes?. hay frases raras mal redactadas Así me decía ella a Daniela. Dani, mi Dani, la dueña de pista. Y ahora me lo decía a mí
