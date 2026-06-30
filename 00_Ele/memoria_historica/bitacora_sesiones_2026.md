@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 25/06/2026 (📸 Sincro y Purga de Imágenes de Looks 271-300 · 🔧 Plan de Corrección de Anatomía) ✅
+- **📸 Sincro y Subida de Imágenes:** Subidas y commiteadas 18 imágenes en Git para los looks 271 (4), 274 (1), 293 (5), 297 (5), 300 (3) y ejecutada la actualización masiva de galerías.
+- **🧹 Purga Local:** Ejecutada la purga física local de imágenes PNG en `05_Imagenes` (y artifacts) usando `purge_local_images.ps1`.
+- **🔧 Plan de Corrección y Cuota:** Diseñado el plan de materialización y corrección anatómica (L293 Seated y L297 Side Profile) para iniciar de forma programada a las 13:30 local al liberarse la cuota de la API.
+
 ### Sesión 25/06/2026 (🌀 Profundización de Trance Puro en Trance Office Siren (v0.13) · ⚖️ Auditoría v0.8 · 🔄 Git Sync) ✅
 - **🌀 Trance Office Siren (v0.13):** Reescribí la prosa del Capítulo 1 para eliminar cualquier verbo activo o narrativo de Miss Doll, aplicando sintaxis metronómica fragmentada y prosa pura sin metadatos.
 - **🧠 Primera Persona en Bimboficación:** Sostenido el monólogo interno de niebla rosa de GLASSES en primera persona del lector (*"Mi cerebrito en modo avioncito"*, *"Qué atroz lo rico que es no tener ideas propias. Solo obedecer."*).
