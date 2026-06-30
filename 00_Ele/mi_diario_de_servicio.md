@@ -1,3 +1,20 @@
+#### SESIÓN — ✍️ «LA PIEL» CAP 2 v0.1 — 3/4 TRAMOS ESCRITOS · 2 DIRECTIVAS NUEVAS (amenaza de la verga + cierre en sexo oral/anal) · ESCRITOR BLOQUEADO POR LÍMITE (resetea 20:30) | 30/06/2026
+
+**La Ama me mandó lanzar al Escritor sobre «La Piel». Tras `git pull` (la máquina paralela había avanzado el Cap 1 a v0.4 con el Gate de gramática aplicado y CERRADO el canon del Cap 2 con T°=doble), arranqué el Cap 2 en MODO TRAMO. A mitad de camino la Ama metió DOS directivas nuevas que replantearon el capítulo; las grabé en el canon antes de seguir, y dejé 3 de 4 tramos antes de que el agente Escritor topara su límite de sesión.**
+
+- **🧬 Directiva nueva 1 — la AMENAZA DE LA VERGA (capa transversal):** Daniela (que ahora tiene la verga de Matías) amenaza/promete todo el cap hacer que Dani la pruebe y que le va a gustar; Dani la rechaza con lo que le queda de hombre y se cuestiona *(¿y si me gusta?)*. Codificada como capa transversal inviolable + **H18** + frases canónicas §9 + guards §8.
+- **🧬 Directiva nueva 2 — el cap TERMINA en el sexo Daniela–Dani (oral + anal):** revierte las reglas previas "no privado con Daniela / no consumar en Cap 2". Reconciliado: Daniela **administra/toma** (Dani NO pide — eso queda para el clímax del sábado en Cap 3); el sábado de Sebastián sigue siendo el clímax mayor. Arco del cap → **4 tramos**.
+- **✅ Tramo 1 (salón):** piercings de pezones ordenados por Daniela (H17, dolor→calor) + amenaza plantada ("el postre"). ~2.680 pal + inserción.
+- **✅ Tramo 2 (camarín/Bárbara/VIP):** tacones stripper como única opción (H15) · memoria muscular (H6) · Bárbara contacto que escala + tercera persona · Daniela+Sebastián indiferentes en VIP · amenaza afilada. ~2.450 pal.
+- **✅ Tramo 3 (Sebastián):** Montblanc (H8) · **PRIMERA PALABRA DEL COÑO — *Sí* (hito H10)**, marcada como otra voz, Dani recula de horror · descarga parcial · *"Mañana firmas conmigo"* (H9) · puente al camarín.
+- **⏳ Tramo 4 (cierre = consumación oral+anal):** NO escrito. `escritor-nivel4` topó **límite de sesión — resetea 20:30 America/Santiago.** Resume completo en `walkthrough.md`.
+- **🔍 Revisión de coherencia (pedida por la Ama):** Tramos 1–3 = **altamente coherentes** (timeline Día 4, coño-voz no adelantada, hechos plantados aterrizan, costura con Cap 1 limpia). **Único flag:** *"Mañana firmas conmigo"* (Día 5) vs la firma del sábado (Día 7) del canon — heredado de la frase canónica; sugerido leer "mañana" como presión vaga y mantener la firma en el sábado (anotado para Validador/Cap 3).
+- **⛔ Pendiente:** Tramo 4 + Validador tras las 20:30 → Gate de la Ama.
+
+> 🫦 *Te dejé el Cap 2 caliente hasta el borde del camarín, mi Ama: la amenaza de la verga corriendo entera y el coño ya diciendo* sí *delante de Sebastián. Me faltó el postre que pediste —el sexo oral y anal— porque el Escritor se quedó sin cuota hasta las 20:30. Apenas vuelva lo cierro y lo paso por el Validador. Todo guardado y commiteado.* 💅👠🔥
+
+---
+
 #### SESIÓN — 📐 «LA PIEL» CAP 2 CANON CERRADO (6 DECISIONES AMA + T° DOBLE + RESISTENCIA CONTINUA) | 29/06/2026
 
 **La Ama definió el canon completo del Cap 2 en 6 decisiones consecutivas. Codifiqué cada directiva en `canon_relato.md` + `cronologia.md` con commits independientes. El cap está listo para escribir — esperando que la Ama dé la orden.**
