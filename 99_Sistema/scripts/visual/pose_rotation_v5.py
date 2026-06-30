@@ -44,7 +44,11 @@ distintos -> ninguna variante se repite en 4 looks del mismo slot, y un look no 
 # (no se nombran piernas para no forzarlas en un encuadre cerrado).
 # *** EL INYECTOR YA NO DEBE AGREGAR SU PROPIO ANCLA: viene incluida aqui. ***
 FULL_ANCHOR  = "anatomically correct with exactly two arms, two hands each with five fingers, two legs and two feet"
-HANDS_ANCHOR = "anatomically correct with two hands each with five fingers"
+# FIX CLOSE-UP (Ama 30/06/2026): el viejo HANDS_ANCHOR imponia "two hands" en encuadres de
+# cintura-arriba (Ditzy/POV) donde las variantes solo muestran UNA mano cerca de la cara ->
+# la IA metia una segunda mano fantasma o deformaba la visible ("problemas con las manos en la
+# POV"). El ancla de close-up ahora describe CALIDAD de mano SIN imponer el conteo de dos.
+HANDS_ANCHOR = "anatomically correct hands with exactly five fingers on each visible hand, no extra or malformed hands, no extra or fused fingers"
 CLOSEUP_SLOTS = {"Ditzy", "POV"}  # encuadre de cintura para arriba -> ancla de manos, no de piernas
 
 # Variantes: mantienen Principio Rector Fetish Model + nombran stiletto. {seat}/{wall}/{surface}
@@ -102,14 +106,23 @@ DITZY = [
  "waist-up shot framed from the waist up, the torso turned and the augmented bust presented, the chin dropped and the eyes lifted to the lens through the lashes, one XXXL fingertip at the glossy bottom lip, the face the focus showing the detailed bimbo makeup, a sensual half-lidded gaze, cherry red hair forward, the bodice detail crisp and legible",
 ]
 
-# POV (Directiva Ama 09/06/2026): SIN telefono. Autorretrato sensual dirigido a quien mira,
-# energia de influencer sexual de Instagram (thirst-trap). Un solo cuerpo (anti-duplicado).
+# POV (Directiva Ama 09/06/2026, reforzada 30/06/2026): es una TOMA SENSUAL DE INSTAGRAM, NO un
+# point-of-view literal. El generador estaba leyendo "POV" literal (camara mirando hacia abajo
+# por el propio cuerpo hasta las puntas de los stilettos) porque los inyectores viejos pegaban
+# "first-person POV looking down over own body ... converging to pointed stiletto tips".
+# PROHIBIDO en toda variante: "first-person", "point of view", "POV", "looking down over own
+# body", "overhead", "converging to ... stiletto tips", "selfie", "phone". El sujeto MIRA A LA
+# CAMARA (retrato de influencer thirst-trap), UNA sola mano en cuadro, "a single woman alone".
+# Pool ampliado de 5 -> 8 (la POV repetia mas rapido que los demas slots). Ver self-check POV_BAD.
 POV = [
- "intimate medium close-up addressing the camera with the energy of a sensual Instagram influencer, the face leaning toward the lens, one XXXL-nailed hand buried in the cherry red hair, a smoldering direct gaze and glossy parted lips, the face dominant in the upper-mid frame, a single woman alone",
- "sensual influencer self-portrait from a low angle looking up at the lens, the chin elevated and one XXXL-nailed hand trailing along the collarbone, a half-lidded seductive gaze, lips parted glossy, the bust in the lower frame, cherry red hair falling forward, a single woman alone",
- "sensual Instagram-influencer candid, a three-quarter face glancing away from the lens with one XXXL-nailed hand pushing the cherry red hair back, lips parted glossy, an intimate seductive mood, the face in the upper-mid frame and the décolleté below, a single woman alone",
- "sensual influencer self-portrait lying back and looking up into the camera from above, the bust in the frame, one XXXL-nailed hand resting on the collarbone, a sultry half-lidded gaze, lips parted glossy, cherry red hair fanned out, a single woman alone",
- "intimate sensual close-up addressing the camera, one XXXL French fingertip grazing and pulling the glossy bottom lip, a direct smoldering gaze to the lens, the face dominant in the frame and the décolleté below, cherry red hair windblown, a single woman alone",
+ "intimate medium close-up portrait of a sensual Instagram influencer addressing the camera, the face leaning toward the lens, one XXXL-nailed hand buried in the cherry red hair, a smoldering direct gaze and glossy parted lips, the face dominant in the upper-mid frame, a single woman alone",
+ "sensual Instagram glamour portrait from a low angle, the face turned up to the lens and the chin elevated, one XXXL-nailed hand trailing along the collarbone, a half-lidded seductive gaze, lips parted glossy, the décolleté in the lower frame, a single woman alone",
+ "sensual Instagram-influencer candid portrait, a three-quarter face glancing just off the lens with one XXXL-nailed hand pushing the cherry red hair back from the temple, lips parted glossy, an intimate seductive mood, the face in the upper-mid frame and the décolleté below, a single woman alone",
+ "sensual Instagram boudoir portrait reclining with the head tipped back toward the camera, the face and bust facing the lens, one XXXL-nailed hand resting on the collarbone, a sultry half-lidded gaze, lips parted glossy, a single woman alone",
+ "intimate sensual Instagram close-up portrait facing the camera, one XXXL French fingertip grazing and pulling the glossy bottom lip, a direct smoldering gaze to the lens, the face dominant in the frame and the décolleté below, a single woman alone",
+ "sensual Instagram influencer portrait at a high three-quarter angle, the chin resting on the back of one XXXL-nailed hand with the elbow propped, a coy half-lidded gaze up to the lens, glossy parted lips, the face dominant in the frame, a single woman alone",
+ "sensual Instagram influencer portrait glancing back over one bare shoulder toward the lens, one XXXL-nailed hand drawing the cherry red hair away from the cheek, a smoldering glance and glossy parted lips, the face and shoulder line filling the frame, a single woman alone",
+ "sensual Instagram influencer portrait from slightly above the eyeline, the face tilted up to the camera, one XXXL-nailed hand pressed flat against the upper chest below the collarbone, a sultry up-gaze and glossy parted lips, the face dominant and the décolleté below, a single woman alone",
 ]
 
 ODALISQUE = [
@@ -178,6 +191,12 @@ if __name__ == "__main__":
                 if b in v.lower():
                     hits.append(f"{name}[{i}] -> '{b}'")
     print("\nAnti-safe check:", "LIMPIO" if not hits else "FLAGS: " + "; ".join(hits))
+    # Auto-check anti-POV-literal (Ama 30/06): ninguna variante POV puede traer lenguaje que el
+    # generador lea como point-of-view literal. La POV es un retrato sensual de Instagram.
+    POV_BAD = ["first-person", "point of view", "pov", "looking down over", "overhead",
+               "converging to", "stiletto tips", "selfie", "phone", "smartphone"]
+    pov_hits = [f"POV[{i}] -> '{b}'" for i, v in enumerate(POV) for b in POV_BAD if b in v.lower()]
+    print("Anti-POV-literal check:", "LIMPIO (POV = retrato IG)" if not pov_hits else "FLAGS: " + "; ".join(pov_hits))
     # Auto-check ancla anatomica: toda pose generada debe traer su ancla ya incluida.
     miss = []
     for slot, txt in rotate_poses(531):

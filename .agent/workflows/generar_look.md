@@ -69,7 +69,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | `ele_{NUM}_seated.png` | Seated | seated, legs crossed, spine straight, hands on knee, [setting] |
 | `ele_{NUM}_side_profile.png` | Side Profile | full body, side profile, extreme lumbar arch, chin lifted, [setting] |
 | `ele_{NUM}_ditzy.png` | **Ditzy — waist-up** (redef. Ama 10/06) | waist-up sensual shot, face and bust in focus, slightly parted lips, vacant ditzy expression, [setting] |
-| `ele_{NUM}_pov.png` | **POV — sin teléfono** (redef. Ama 10/06) | influencer-style self-portrait of a single woman alone, first-person POV looking down over own body, chest and XXXL nails in foreground, outfit converging to pointed stiletto tips, [setting] |
+| `ele_{NUM}_pov.png` | **POV = retrato sensual de Instagram** (redef. Ama 10/06, reforzada 30/06) | sensual Instagram-influencer portrait of a single woman alone facing the camera, the face leaning toward the lens, one XXXL-nailed hand in the cherry red hair or at the collarbone, a smoldering half-lidded gaze, glossy parted lips, the face dominant in the upper-mid frame and the décolleté below, [setting] · ⛔ **NUNCA** `first-person POV` / `point of view` / `looking down over own body` / `converging to pointed stiletto tips` / `overhead` / `selfie` / `phone` — el generador los lee LITERAL (sale un point-of-view, no el retrato). Usar `pose_rotation_v5.POV` (8 variantes). |
 | `ele_{NUM}_odalisque.png` | Odalisque | full body lying on side, languid S-curve, one arm extended with XXXL nails, legs slightly bent, stilettos pointed and visible, [setting] |
 
 **Cierre obligatorio de cada prompt:** `Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.`

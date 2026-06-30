@@ -59,10 +59,11 @@ Dz1 **Finger-on-Lip** · Dz2 **Hair-Twirl** (dedo XXXL enroscando un mechón jun
 
 ---
 
-## 6. POV — Autorretrato sensual influencer (sin teléfono) — 5 variaciones
-*(**Directiva Ama 09/06/2026 — REDEFINIDA:** **SIN teléfono**. Autorretrato sensual dirigido a quien mira, energía de **influencer sexual de Instagram** (thirst-trap). NUNCA "first-person POV" ni la palabra "selfie/phone" (generan duplicado/teléfono) — anclar **"a single woman alone"**. Décolleté dominante en el frame + cara protagonista.)*
+## 6. POV — Retrato sensual de Instagram (NO point-of-view) — 8 variaciones
+*(**Directiva Ama 09/06/2026 — REDEFINIDA · reforzada 30/06/2026:** la POV es un **RETRATO de influencer sexual de Instagram** (thirst-trap), el sujeto **mira a la cámara**. **NO es un point-of-view literal.** ⛔ PROHIBIDO `first-person POV` / `point of view` / `looking down over own body` / `overhead` / `converging to pointed stiletto tips` / `selfie` / `phone` — el generador los lee LITERAL y sale una cámara mirando el propio cuerpo hasta los tacones, no el retrato (causa raíz: los inyectores viejos hardcodeaban ese texto en vez de usar `pose_rotation_v5.POV`). Anclar siempre **"a single woman alone"**. Cara protagonista + décolleté en el frame.)*
+*(**🖐️ Fix manos close-up Ama 30/06/2026:** en Ditzy/POV el ancla anatómica YA NO impone "two hands" — en un encuadre cerrado solo hay UNA mano en cuadro y forzar dos metía una mano fantasma/deformada. El ancla de close-up describe calidad ("five fingers on each visible hand, no extra/malformed hands"). Cada variante POV tiene UNA sola mano en cuadro.)*
 
-Pv1 **Lean-In Thirst-Trap** (inclinada al lente, mano en el pelo) · Pv2 **Low-Angle Up** (contrapicado, mano bajando del cuello al escote) · Pv3 **Candid Look-Away** (mirada fuera de lente, 3/4 del rostro) · Pv4 **Lying-Back Up-to-Camera** (recostada mirando arriba al lente, sin brazo-selfie) · Pv5 **Lip-Bite Close** (yema XXXL jalando el labio inferior, mirada smoldering). En todas: mirada seductora half-lidded, labios glossy parted, **un solo cuerpo**.
+Pv1 **Lean-In Thirst-Trap** (inclinada al lente, mano en el pelo) · Pv2 **Low-Angle Up** (contrapicado, cara arriba al lente, mano en la clavícula) · Pv3 **Candid Look-Away** (mirada apenas fuera de lente, 3/4 del rostro, mano apartando el pelo) · Pv4 **Reclined Up-to-Camera** (recostada, cabeza echada atrás hacia la cámara, sin brazo-selfie) · Pv5 **Lip-Bite Close** (yema XXXL jalando el labio inferior, mirada smoldering) · Pv6 **Chin-on-Hand Coy** (barbilla sobre el dorso de la mano, codo apoyado, mirada coqueta arriba) · Pv7 **Over-Shoulder Glance** (mirando atrás sobre el hombro desnudo hacia el lente, mano retirando el pelo de la mejilla) · Pv8 **Hand-on-Chest Up-Gaze** (desde apenas arriba de la línea de ojos, mano plana sobre el pecho, mirada hacia arriba). En todas: mirada seductora half-lidded, labios glossy parted, **un solo cuerpo, una sola mano en cuadro**.
 
 ---
 

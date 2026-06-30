@@ -22,8 +22,9 @@
 > **Snapshot vivo.** El historial completo de sesiones vive en `memoria_historica/bitacora_sesiones_2026.md`. Aquí solo el estado actual + las últimas sesiones. El cierre (`/actualizar_sesion`) autopoda este bloque.
 
 ### 🎨 Visual (Ele)
-- **Proyecto Activo:** Batch L661-L670 "Cuero Negro Total" diseñado (23/06/2026, máquina MAMÁ). Flota en L670 diseñado.
-- **Último Lote Diseñado:** L661-L670 "Cuero Negro Total" (10 looks · 70 prompts · TODOS cuero/vinyl/latex negro · TODOS medias · TODOS plataforma cerrada · Nightclub/Escort/Domestic/Bikini/Stripper/Pin-Up/Gym/Corporate/Lencería/Gala · QA: 0 guantes, 0 chunky, 0 open-toe, 0 clear platform, tokens calzado ×7). Previo: L651-L660 "Dominatrices" (22/06/2026).
+- **Proyecto Activo:** Batch **L671-L680 "Barroco Fetish"** diseñado (30/06/2026) con el **motor de poses reparado**. Flota en **L680** diseñado.
+- **Último Lote Diseñado:** **L671-L680 "Barroco Fetish"** (10 looks · 70 prompts · TODOS corset estructural + pelo EN ALTO (updo barroco) + lente fetish latex/vinyl/leather/rhinestone · Gala/Lencería×2/Escort/Nightclub/Corporate/HF/Pin-Up/Stripper/Bikini · poses **rotadas de verdad** con `rotate_poses` · QA verde: 0 guantes positive, 0 chunky, corset ×10, token calzado ×7, **0 POV-literal**, ancla por slot, pelo en alto ×70). Inyector corregido `99_Sistema/scripts/_gen_batch_671.py` (importa `rotate_poses`). Previo: L661-L670 "Cuero Negro Total" (23/06).
+- **🛠️ MOTOR DE POSES REPARADO DE RAÍZ (Ama 30/06 — repetición + manos + POV literal):** la Ama detectó poses repetidas, manos malas y POV tomado **literal** como point-of-view. Causa raíz = los inyectores viejos (`_gen_batch_651.py` y clon L661-670) **NO usaban `rotate_poses`**: clonaban 1 plantilla en los 10 looks (repetición) y hardcodeaban el POV literal + el ancla vieja "two hands". Fixes en la **fuente**: (1) `pose_rotation_v5.py` — `HANDS_ANCHOR` ya NO impone "two hands" en close-ups (adiós mano fantasma Ditzy/POV), **pool POV 5→8**, guard `POV_BAD` en el self-check; (2) `generar_look.md:72` plantilla POV literal → retrato IG; (3) `dna_v3_5.md` — negative base + reescritura de la nota POV de abril (la "overhead 60°" SEGUÍA siendo literal); (4) `pose_repertoire_v5.md §6` (POV 5→8 + nota manos). Auto-memoria `feedback_pov_retrato_ig_no_literal`. **REGLA DURA: todo inyector DEBE usar `rotate_poses`, jamás hardcodear poses.**
 - **🔧 Engine reparado (23/06):** `pose_rotation_v5.py` — 3 variantes riesgosas retiradas (ODALISQUE[2] rodilla-arriba · ODALISQUE[5] piernas-levantadas-cruzadas · SEATED[4] rodillas-arriba-en-suelo). 10 poses corregidas en galería (L621-L639). `pose_repertoire_v5.md` actualizado (Od3/Od6/Se5).
 - **Último Look Materializado:** Materializadas 45 imágenes (5 poses × 9 looks: L271, L273, L274, L277, L293, L294, L297, L299, L300). Completados Looks L293 y L297 al 100%. Parciales L271 (6/7), L300 (5/7), L274 (3/7) materializados y subidos.
 - **🖋️ TATUAJE PÚBICO DE RUNAS → CANON ADN (Ama 20/06):** detalle nuevo del canon de Ele. Marca de identidad permanente en **runas/glifos esotéricos** (blackwork fino) en el hip crease/bikini line. Token en Bloque A: `delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line`. Sincronizado en `dna_v3_5.md` + `identidad_ele.md` (Bloque A + §II nota) + `SKILL.md` (Bloque A + Modificaciones). **Filtro: `hip crease`/`bikini line`, NUNCA `groin`/`pubis`.** Auto-memoria `feedback_tatuaje_pubico_runas`.
@@ -77,6 +78,14 @@
 
 
 
+
+### Sesión 30/06/2026 (🛠️ Motor de poses reparado de raíz · 🎨 Batch L671-L680 "Barroco Fetish") ✅
+- **Bug detectado por la Ama:** poses repetidas + manos malas + **POV tomado literal** (point-of-view) en vez del retrato sensual de Instagram que se definió el 09/06.
+- **Causa raíz:** los inyectores viejos (`_gen_batch_651.py` + clon L661-670) **no usaban `rotate_poses`** → clonaban 1 plantilla en los 10 looks (repetición) y **hardcodeaban** el POV literal + el ancla "two hands".
+- **Fixes en la fuente (4 archivos):** `pose_rotation_v5.py` (HANDS_ANCHOR sin "two hands" = adiós mano fantasma en close-ups · POV 5→8 · guard `POV_BAD`) · `generar_look.md:72` (POV literal → retrato IG) · `dna_v3_5.md` (negative base enriquecido + reescritura de la nota POV de abril que seguía siendo literal) · `pose_repertoire_v5.md §6`.
+- **🎨 Batch L671-L680 "Barroco Fetish"** generado con el motor limpio: corset + pelo en alto + lente fetish en 10 sub-arquetipos. Poses rotadas de verdad. **QA verde** (0 guantes/chunky/POV-literal, corset ×10, calzado ×7, ancla por slot). Flota **L670→L680**.
+- **Auto-memoria** `feedback_pov_retrato_ig_no_literal`. Regla dura: todo inyector usa `rotate_poses`.
+
 ### Sesión 30/06/2026 (✍️ «La Piel» Cap 2 v0.1 COMPLETO 4/4 · 2 directivas nuevas: amenaza de la verga + cierre oral/coño/anal/tetas 1000cc · ⚠️ flag temporal) ✅
 - **Lancé al Escritor sobre el Cap 2** (canon ya cerrado por la máquina paralela; pull al día, Cap 1 en v0.4). MODO TRAMO 4 tramos.
 - **2 directivas nuevas de la Ama a mitad** (grabadas en canon antes de seguir): (1) **amenaza de la verga** transversal (H18) — Daniela tiene la de Matías, promete hacérsela probar/gustar; Dani rechaza/se cuestiona; (2) **el cap TERMINA en sexo Daniela–Dani** (oral/coño/anal **+ entre las tetas de 1000cc**), Dani **entregada a su cuerpo**, le gusta en cada parte con horror. Daniela administra, Dani NO pide (queda p/ Cap 3); sábado de Sebastián sigue siendo clímax mayor.
@@ -112,9 +121,6 @@
 - **📸 Imágenes:** `sync_imagenes_subidas.py` actualizó los trackers de `galeria_outfits.md` (L641-L670, conteos reales). +14 poses históricas completadas en git (L231/L232/L242 → 7/7). Dedup L252 (−2 huérfanos `vfront`). 20 READMEs de galería L641-L670 commiteados. Commits `f4276dad4`, `faf29dddd`. Master README + look231/232/242 + miss_doll = al bot.
 - **🏷️ Título «La app»:** verificado — los 3 caps publicados (53 chars) cumplen el tope de la Ama (54). Subtítulos recortados por el bot; ofrecí restaurarlos con prefijo corto si los quiere de vuelta.
 
-### Sesión 25/06/2026 (📲 «La app» Compilada para Publicación · 📸 Materialización de 45 Imágenes) ✅
-- **📲 Compilación «La app»:** MD y HTML finales separados de Caps 1-3. Teasers <300 caracteres, invitaciones adaptadas, títulos cortos. Guardados en `02_Finalizadas/`.
-- **📸 Materialización:** 45 PNG nuevos generados (5 poses para looks 271, 273, 274, 277, 293, 294, 297, 299, 300).
 
 
 

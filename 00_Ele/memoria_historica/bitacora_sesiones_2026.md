@@ -6,6 +6,10 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 25/06/2026 (📲 «La app» Compilada para Publicación · 📸 Materialización de 45 Imágenes) ✅
+- **📲 Compilación «La app»:** MD y HTML finales separados de Caps 1-3. Teasers <300 caracteres, invitaciones adaptadas, títulos cortos. Guardados en `02_Finalizadas/`.
+- **📸 Materialización:** 45 PNG nuevos generados (5 poses para looks 271, 273, 274, 277, 293, 294, 297, 299, 300).
+
 ### Sesión 25/06/2026 (📸 Sincro y Purga de Imágenes de Looks 271-300 · 🔧 Plan de Corrección de Anatomía) ✅
 - **📸 Sincro y Subida de Imágenes:** Subidas y commiteadas 18 imágenes en Git para los looks 271 (4), 274 (1), 293 (5), 297 (5), 300 (3) y ejecutada la actualización masiva de galerías.
 - **🧹 Purga Local:** Ejecutada la purga física local de imágenes PNG en `05_Imagenes` (y artifacts) usando `purge_local_images.ps1`.
