@@ -1,0 +1,1 @@
+amor. Lo que yo te pagaba a ti cada mes. Ahora te lo pago igual corrige amor. Lo que tú me pagabas a mi cada mes. Ahora te lo pago igual
