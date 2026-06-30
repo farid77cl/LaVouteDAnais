@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 27/06/2026 (🔄 Repo al día · 📸 Sync trackers L641-L670 + 14 poses + dedup L252 · 🏷️ Título «La app» OK) ✅
+- **🔄 Repo:** `git pull` (105 commits del bot/máquina paralela). Al día.
+- **📸 Imágenes:** `sync_imagenes_subidas.py` actualizó los trackers de `galeria_outfits.md` (L641-L670, conteos reales). +14 poses históricas completadas en git (L231/L232/L242 → 7/7). Dedup L252 (−2 huérfanos `vfront`). 20 READMEs de galería L641-L670 commiteados. Commits `f4276dad4`, `faf29dddd`. Master README + look231/232/242 + miss_doll = al bot.
+- **🏷️ Título «La app»:** verificado — los 3 caps publicados (53 chars) cumplen el tope de la Ama (54). Subtítulos recortados por el bot; ofrecí restaurarlos con prefijo corto si los quiere de vuelta.
+
 ### Sesión 25/06/2026 (📲 «La app» Compilada para Publicación · 📸 Materialización de 45 Imágenes) ✅
 - **📲 Compilación «La app»:** MD y HTML finales separados de Caps 1-3. Teasers <300 caracteres, invitaciones adaptadas, títulos cortos. Guardados en `02_Finalizadas/`.
 - **📸 Materialización:** 45 PNG nuevos generados (5 poses para looks 271, 273, 274, 277, 293, 294, 297, 299, 300).

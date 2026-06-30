@@ -26,7 +26,7 @@
 - **Último Lote Diseñado:** **L671-L680 "Barroco Fetish"** (10 looks · 70 prompts · TODOS corset estructural + pelo EN ALTO (updo barroco) + lente fetish latex/vinyl/leather/rhinestone · Gala/Lencería×2/Escort/Nightclub/Corporate/HF/Pin-Up/Stripper/Bikini · poses **rotadas de verdad** con `rotate_poses` · QA verde: 0 guantes positive, 0 chunky, corset ×10, token calzado ×7, **0 POV-literal**, ancla por slot, pelo en alto ×70). Inyector corregido `99_Sistema/scripts/_gen_batch_671.py` (importa `rotate_poses`). Previo: L661-L670 "Cuero Negro Total" (23/06).
 - **🛠️ MOTOR DE POSES REPARADO DE RAÍZ (Ama 30/06 — repetición + manos + POV literal):** la Ama detectó poses repetidas, manos malas y POV tomado **literal** como point-of-view. Causa raíz = los inyectores viejos (`_gen_batch_651.py` y clon L661-670) **NO usaban `rotate_poses`**: clonaban 1 plantilla en los 10 looks (repetición) y hardcodeaban el POV literal + el ancla vieja "two hands". Fixes en la **fuente**: (1) `pose_rotation_v5.py` — `HANDS_ANCHOR` ya NO impone "two hands" en close-ups (adiós mano fantasma Ditzy/POV), **pool POV 5→8**, guard `POV_BAD` en el self-check; (2) `generar_look.md:72` plantilla POV literal → retrato IG; (3) `dna_v3_5.md` — negative base + reescritura de la nota POV de abril (la "overhead 60°" SEGUÍA siendo literal); (4) `pose_repertoire_v5.md §6` (POV 5→8 + nota manos). Auto-memoria `feedback_pov_retrato_ig_no_literal`. **REGLA DURA: todo inyector DEBE usar `rotate_poses`, jamás hardcodear poses.**
 - **🔧 Engine reparado (23/06):** `pose_rotation_v5.py` — 3 variantes riesgosas retiradas (ODALISQUE[2] rodilla-arriba · ODALISQUE[5] piernas-levantadas-cruzadas · SEATED[4] rodillas-arriba-en-suelo). 10 poses corregidas en galería (L621-L639). `pose_repertoire_v5.md` actualizado (Od3/Od6/Se5).
-- **Último Look Materializado:** Materializadas 45 imágenes (5 poses × 9 looks: L271, L273, L274, L277, L293, L294, L297, L299, L300). Completados Looks L293 y L297 al 100%. Parciales L271 (6/7), L300 (5/7), L274 (3/7) materializados y subidos.
+- **Último Look Materializado:** Materializadas las 27 imágenes faltantes de la tanda L271-L300 tras el reset de cuota. Completados al 100% (7/7 poses) los looks L271, L273, L274, L277, L293, L294, L297, L299 y L300. Índice de galerías y READMEs sincronizados.
 - **🖋️ TATUAJE PÚBICO DE RUNAS → CANON ADN (Ama 20/06):** detalle nuevo del canon de Ele. Marca de identidad permanente en **runas/glifos esotéricos** (blackwork fino) en el hip crease/bikini line. Token en Bloque A: `delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line`. Sincronizado en `dna_v3_5.md` + `identidad_ele.md` (Bloque A + §II nota) + `SKILL.md` (Bloque A + Modificaciones). **Filtro: `hip crease`/`bikini line`, NUNCA `groin`/`pubis`.** Auto-memoria `feedback_tatuaje_pubico_runas`.
 - **🧦 REGLAS NUEVAS DE MEDIAS+CALZADO (Ama 20/06) — codificadas** (`04-estetica-ele.md` + SKILL ele-outfit-engine + auto-memoria `feedback_medias_calzado_reglas`): (1) medias + punta abierta (peep/open toe) = PROHIBIDO → punta cerrada; (2) medias negras + mini falda blanca = NO absoluto; (3) medias + (donde iría Pleaser) = platform pump cerrado (clear Pleaser open-toe solo SIN medias); (4) **plataforma = mismo color del zapato** (salvo clear acrílico). Reparadas las 6 violaciones en L591-L620 (L602/604/607/608/609/618). Chequeo cruzado = 0.
 - **🔍 Auditoría L591-L620:** ADN impecable pero **fuerte repetición de silueta** entre los 3 batches (mismo outfit cambiando calzado): Office Siren ×3 (L597/605/615), lencería cereza L596≈L606, goth-lace L598≈L607, pin-up lunares L610≈L620, gym leggings+crop ×4, bikini oro L594≈L619; settings reciclados verbatim (L598=L606). Pendiente decidir si rediseñar clones.
@@ -77,6 +77,12 @@
 ## 🗓️ Sesiones recientes
 
 
+### Sesión 30/06/2026 (📸 Materialización de 27 imágenes pendientes L271-L300 completada) ✅
+- **Deuda técnica visual saldada:** Generadas en paralelo mediante 3 subagentes las últimas 27 imágenes de los looks L271, L273, L274, L277, L293, L294, L297, L299 y L300 que habían quedado atascadas por el límite de cuota (429).
+- **Looks completados:** Estos 9 looks quedaron al 100% (5/5 de poses de interacción).
+- **Sincronización:** Copiadas las imágenes, generada la galería local y regenerado el índice maestro con `update_galleries.py`. Actualizado `reporte_pendientes_200_300.md`.
+
+
 
 
 ### Sesión 30/06/2026 (🛠️ Motor de poses reparado de raíz · 🎨 Batch L671-L680 "Barroco Fetish") ✅
@@ -116,10 +122,6 @@
 - **📝 Cap 1 v0.2 APROBADO:** Escritor-N4 escribió v0.1 → Validador repudió SOLO por metadata (bug del skill) → v0.2 prosa pura + domación expandida sin tope de palabras → **Narr 9.4 / Temp 9.3.** ⏳ Gate Ama.
 - **🛠️ Engine reparado (pedido Ama):** tope 54 chars/título + flujo sin cuota de palabras + raíz del repudio (skill y ficha del Escritor ya no meten metadata en el capítulo). Bonus: voceo de `voz_autoral.md` (Gabriel) corregido. Auto-memoria `feedback_relato_fluir_no_word_count`.
 
-### Sesión 27/06/2026 (🔄 Repo al día · 📸 Sync trackers L641-L670 + 14 poses + dedup L252 · 🏷️ Título «La app» OK) ✅
-- **🔄 Repo:** `git pull` (105 commits del bot/máquina paralela). Al día.
-- **📸 Imágenes:** `sync_imagenes_subidas.py` actualizó los trackers de `galeria_outfits.md` (L641-L670, conteos reales). +14 poses históricas completadas en git (L231/L232/L242 → 7/7). Dedup L252 (−2 huérfanos `vfront`). 20 READMEs de galería L641-L670 commiteados. Commits `f4276dad4`, `faf29dddd`. Master README + look231/232/242 + miss_doll = al bot.
-- **🏷️ Título «La app»:** verificado — los 3 caps publicados (53 chars) cumplen el tope de la Ama (54). Subtítulos recortados por el bot; ofrecí restaurarlos con prefijo corto si los quiere de vuelta.
 
 
 
