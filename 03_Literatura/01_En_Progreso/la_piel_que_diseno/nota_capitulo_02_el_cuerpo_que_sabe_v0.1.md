@@ -1,1 +1,1 @@
-amor. Lo que yo te pagaba a ti cada mes. Ahora te lo pago igual corrige amor. Lo que tú me pagabas a mi cada mes. Ahora te lo pago igual
+amor. Lo que yo te pagaba a ti cada mes. Ahora te lo pago igual corrige amor. Lo que tú me pagabas a mi cada mes. Ahora te lo pago igual. cada vez que se viste, es importante mencionar siempre las tangas minúsculas, de como se le ajusta en el culo, en el coño, la textura y diseño de las tangas 
