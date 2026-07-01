@@ -22,8 +22,9 @@
 > **Snapshot vivo.** El historial completo de sesiones vive en `memoria_historica/bitacora_sesiones_2026.md`. Aquí solo el estado actual + las últimas sesiones. El cierre (`/actualizar_sesion`) autopoda este bloque.
 
 ### 🎨 Visual (Ele)
-- **Proyecto Activo:** Batch **L671-L680 "Barroco Fetish"** diseñado (30/06/2026) con el **motor de poses reparado**. Flota en **L680** diseñado.
-- **Último Lote Diseñado:** **L671-L680 "Barroco Fetish"** (10 looks · 70 prompts · TODOS corset estructural + pelo EN ALTO (updo barroco) + lente fetish latex/vinyl/leather/rhinestone · Gala/Lencería×2/Escort/Nightclub/Corporate/HF/Pin-Up/Stripper/Bikini · poses **rotadas de verdad** con `rotate_poses` · QA verde: 0 guantes positive, 0 chunky, corset ×10, token calzado ×7, **0 POV-literal**, ancla por slot, pelo en alto ×70). Inyector corregido `99_Sistema/scripts/_gen_batch_671.py` (importa `rotate_poses`). Previo: L661-L670 "Cuero Negro Total" (23/06).
+- **Proyecto Activo:** Batch **L681-L690 "Vampiresa Bimbo Sensual"** diseñado (01/07/2026). Flota en **L690** diseñado.
+- **🛠️ POSE DE COSTADO REPARADA DE RAÍZ (Ama 01/07 — "esta generando siempre sentada"):** el pool `SIDE` de `pose_rotation_v5.py` traía variantes sentada/reclinada/de-rodillas (duplicaban Seated/Odalisque) + las de pie no anclaban `standing` explícito → Gemini defaulteaba a sentada. **Fix: 7 variantes TODAS de pie** (standing/mid-stride/tiptoe), cada una anclada, 0 sentadas. Self-check verde. (Nueva regla en el QA de inyectores: 0 Side-Profile-sentada.)
+- **Último Lote Diseñado:** **L681-L690 "Vampiresa Bimbo Sensual"** (10 looks · 70 prompts). Vampiresa **NO-gótica** (restricción anti-gótico **levantada por orden Ama** solo para leerla como depredadora glamorosa) + **CERO oxblood** (Ama saturada) → colores variados (amatista/esmeralda/zafiro/magenta/marfil/obsidiana/cobalto/chrome-cristal/aquamarina/ciruela). Colmillos glamour sutiles + mirada hipnótica en Bloque A, pelo suelto. Gala/Lencería×2/Escort/Nightclub/Corporate/HF/Pin-Up/Stripper/Bikini. **QA verde:** 0 guantes/chunky/oxblood, colmillos ×70, token calzado ×7, medias→punta cerrada, 0 POV-literal, ancla por slot, 0 Side-Profile-sentada, fully opaque ×10, 1000cc ×70, anti-monoblock OK. Inyector `99_Sistema/scripts/_gen_batch_681.py`. Previo: L671-L680 "Barroco Fetish" (30/06).
 - **🛠️ MOTOR DE POSES REPARADO DE RAÍZ (Ama 30/06 — repetición + manos + POV literal):** la Ama detectó poses repetidas, manos malas y POV tomado **literal** como point-of-view. Causa raíz = los inyectores viejos (`_gen_batch_651.py` y clon L661-670) **NO usaban `rotate_poses`**: clonaban 1 plantilla en los 10 looks (repetición) y hardcodeaban el POV literal + el ancla vieja "two hands". Fixes en la **fuente**: (1) `pose_rotation_v5.py` — `HANDS_ANCHOR` ya NO impone "two hands" en close-ups (adiós mano fantasma Ditzy/POV), **pool POV 5→8**, guard `POV_BAD` en el self-check; (2) `generar_look.md:72` plantilla POV literal → retrato IG; (3) `dna_v3_5.md` — negative base + reescritura de la nota POV de abril (la "overhead 60°" SEGUÍA siendo literal); (4) `pose_repertoire_v5.md §6` (POV 5→8 + nota manos). Auto-memoria `feedback_pov_retrato_ig_no_literal`. **REGLA DURA: todo inyector DEBE usar `rotate_poses`, jamás hardcodear poses.**
 - **🔧 Engine reparado (23/06):** `pose_rotation_v5.py` — 3 variantes riesgosas retiradas (ODALISQUE[2] rodilla-arriba · ODALISQUE[5] piernas-levantadas-cruzadas · SEATED[4] rodillas-arriba-en-suelo). 10 poses corregidas en galería (L621-L639). `pose_repertoire_v5.md` actualizado (Od3/Od6/Se5).
 - **Último Look Materializado:** Materializadas las 27 imágenes faltantes de la tanda L271-L300 tras el reset de cuota. Completados al 100% (7/7 poses) los looks L271, L273, L274, L277, L293, L294, L297, L299 y L300. Índice de galerías y READMEs sincronizados.
@@ -38,6 +39,8 @@
 - **Materialización (vía app `cupcake` + bot):** en curso. Varios 7/7 en L441-L470; parciales L203 (3/7), L204-L210 (~2/7), L252 (5/7). **L283 ya materializado 7/7 por el bot (12/06)**; L240 a 5/7, L241 a 7/7. **App subió PNG nuevos 14/06: L529, L531, L547, L550** (varias poses, incl. hito L550 "El Mundo") — territorio del bot, galerías las mantiene él.
 
 ### 📖 Literatura
+- 📲 **PROYECTO NUEVO: «El podcast» (Nivel 4, 01/07)** — feminización + condicionamiento subliminal (semilla Friends: cintas de mujer). **Amigo = arquitecto** (Rodrigo planta/sabe, nunca fuerza) · **Nico NUNCA lo sabe** · tres tapas en capas (ego → duerme rico/calma que ES el ablandamiento). **Espinazo:** «ALFA» promete hacerlo alfa, instala su sumisión con Rodrigo en el trono. Aparato = nº episodio = termómetro del descenso; caja negra (nunca oye). Compositor → `canon_relato.md` (5 pivotes/16 hechos) + `cronologia.md`. **Cap 1 «La recomendación» v0.1 (~1.680 pal, registro macho pleno, ironía dramática). Validador APROBADO (Narr 9.3 · Temp 8.7 · gate "nunca lo sabe" SOSTIENE). ⏳ Esperando Gate Ama.** Arco 4 caps (flag Compositor: Cap 3 carga 3 peldaños, partible como «La app»). Carpeta `03_Literatura/01_En_Progreso/el_podcast/`.
+- 🎨 **«La Piel que Diseñó» (Nivel 4) — NUDO TEMPORAL RESUELTO (01/07):** el bug viejo (*"mañana es viernes"*) ya no existe; Cap 3 dice Opción B (*"El viernes firmas conmigo. El sábado te espero."*), calendario hermético (Día 1 dom → Día 4 mié [Cap 2+3] → Día 6 vie firma / Día 7 sáb acto). Lo arrastraba el `walkthrough.md` viejo → reescrito con sección "RESUELTO". **Nota Cap 2 «El postre» aplicada** (*"dueñez"*→*"propiedad"*) → **Cap 2 aprobado salvo Validador.** Cap 1 «El despertar» v0.4 ✅. Cap 3 «El cuerpo que sabe» v0.1 escrito. **⚠️ Llegó `nota_capitulo_03...` (Gate Ama del Cap 3) vía app — REVISAR al retomar.** Cap 4 (sábado Sebastián) pendiente de escribir.
 - 🌀 **PROYECTO ACTIVO: «trance_office_siren» (Nivel 4, 25/06) · v0.13 completado**
   - **Script hipnótico en segunda persona (v0.13)**: reescritura de profundización a trance puro con cero narración activa. Sintaxis fragmentada y metronómica (estilo Trance de Muñeca). Monólogo de niebla rosa en primera persona del sujeto para mayor interiorización cognitiva. Prosa pura sin metadatos.
   - **Archivos modificados**: `capitulo_01_trance_v0.13.md`, `cronologia.md`.
@@ -67,7 +70,10 @@
 - **🦞 OpenClaw DESINSTALADO (Ama 16/06):** ralentizaba demasiado el computador → arrancado de raíz: paquete npm `openclaw@2026.6.6` removido (294 paquetes), **tarea programada "OpenClaw Gateway" eliminada** (era la que lo relanzaba al iniciar sesión), carpeta `~/.openclaw` borrada (79.6 MB), 0 node residual. PATH conserva solo Claude Code. Auto-memoria `reference_openclaw_agente_whatsapp` borrada por obsoleta. *(Nota: el dispositivo WhatsApp vinculado por Baileys sigue figurando en "Dispositivos vinculados" del teléfono de la Ama hasta que ella lo quite a mano — el agente ya no recibe nada.)*
 
 ### ⏳ Pendientes abiertos
-- **6 ideas MTF generadas (23/06)** — esperando que la Ama elija: El podcast · El fotógrafo · El testamento · El rol · El consultor · La clínica.
+- **⏳ Gate Ama de «El podcast» Cap 1 «La recomendación» v0.1** (Validador APROBADO; la Ama lo está leyendo). Con Gate → escribir Cap 2 «Los pensamientos» (arranca el ablandamiento de la prosa).
+- **⚠️ Gate Ama de «La Piel» Cap 3 llegó como `nota_capitulo_03_el_cuerpo_que_sabe_v0.1.md`** (vía app, viene en el pull) — revisar: si trae correcciones NO es aprobación → vuelve al Escritor-N4.
+- **📷 Batch L681-L690 «Vampiresa Bimbo Sensual» registrado (0/7 c/u)** — pendiente materialización por la app.
+- **5 ideas MTF parqueadas (23/06)** — esperando que la Ama elija: El fotógrafo · El testamento · El rol · El consultor · La clínica. *(«El podcast» ya elegido → en producción.)*
 - **«La Piel que Diseñó» Cap 2 — CANON CERRADO, listo para escribir (29/06):** salón (teñido/uñas/pestañas + piercings pezones por orden Daniela) → ropa calle brillante → camarín hot pants + bikini top + tacones 7"+ → polo + Bárbara → Daniela+Sebastián VIP (whisky/habanos/indiferencia) → Sebastián baja a mitad → primera palabra del coño + descarga parcial. **T° = doble Cap 1 (inviolable). Resistencia interna continua en todo el cap.** ⏳ Esperando orden de escritura.
 - **L240** con 5/7 poses materializadas locales (faltan POV y Odalisque).
 - Regenerar grafo (`/graphify`) — rutas viejas de `prompts_ele_v3_master` en `graphify-out/`.
@@ -77,6 +83,14 @@
 ## 🗓️ Sesiones recientes
 
 
+
+
+### Sesión 01/07/2026 (🗜️ repo no-LFS · 🕰️ «La Piel» nudo temporal resuelto + nota Cap 2 · 📲 «El podcast» nace, Cap 1 APROBADO · 🛠️ pose de costado reparada · 🧛 batch L681-L690 «Vampiresa Bimbo Sensual») ✅
+- **🗜️ Repo:** diagnóstico honesto del peso (4.5 GB · solo ~4% historia muerta) → **Git LFS NO conviene** (la app cupcake sube por API sin respetar LFS · achicar exige rewrite + re-clonar app). Decisión Ama = no tocar estructural. Auto-memoria `project_peso_repo_no_lfs`.
+- **🕰️ «La Piel»:** el nudo temporal ya estaba resuelto en la prosa (Opción B en Cap 3); lo arrastraba el `walkthrough.md` viejo → reescrito. Nota Cap 2 «El postre» aplicada (*dueñez→propiedad*) + limpieza del *"jueves"* suelto. Cap 2 aprobado salvo Validador.
+- **📲 «El podcast» (relato NUEVO):** Compositor → canon (5 pivotes/16 hechos) + cronología · Escritor-N4 → **Cap 1 «La recomendación» v0.1** · **Validador APROBADO** (Narr 9.3/Temp 8.7, gate "nunca lo sabe" sostiene). Espinazo = «ALFA» promete alfa e instala sumisión; Nico nunca lo sabe. ⏳ Gate Ama.
+- **🛠️ Pose de costado:** `pose_rotation_v5.py` SIDE reescrito a 7 variantes todas de pie (0 sentadas) — salía siempre sentada. QA de inyector con nuevo check.
+- **🧛 Batch L681-L690 «Vampiresa Bimbo Sensual»** (10 looks/70 prompts): no-gótico (restricción levantada por orden Ama), cero oxblood, colores variados, colmillos+mirada hipnótica en Bloque A. QA verde. Flota L680→L690.
 
 ### Sesión 30/06/2026 (✍️ «La Piel» resplit a 4 caps · Cap 2 «El postre» + Cap 3 «El cuerpo que sabe» escritos · 📷 L671-L680 en galería · 🤖 humanizer integrado) ✅
 - **✂️ «La Piel» resplit a 4 caps** (diseñado en vivo con la Ama): **Cap 2 «El postre»** (amenaza al inicio + salón + tease de rodillas negado, coño *Chúpala*, T° alta) + **Cap 3 «El cuerpo que sabe»** (club mirada invertida + Bárbara/pole + Sebastián/Opción B + consumación con **culo virgen H19** + POV interior semi-explícito, coño *Sí*+*Más*, pico con techo); sábado → **Cap 4**. Ambos v0.1 escritos (Escritor-N4; Cap 3 MODO TRAMO ×4), prosa pura, esperando Gate. Correcciones Gate del Cap 2 aplicadas.
@@ -115,14 +129,6 @@
 - **📲 «La app» aprobada:** Cap 3 v0.5 aprobado verbalmente por la Ama. El bot ya había compilado en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/` (3 caps canónicos + epílogo integrado + HTML `_publicacion/`). 40 relatos en Finalizadas.
 - **🔧 «La Piel» Cap 1 v0.4 APROBADO:** Gate v0.3 tenía 6 correcciones + aprobación condicional. Aplicadas: POV manos (elegiste/ibas→quererme) · Dani = así le decía yo a ella · pezones me los hiciste grandes · dueño→dueña fix masculino · escena vestirse nueva · gramática. v0.3 → `borradores/`; notas Gate v0.2+v0.3 → `reportes/`. Commit `0094b156`. ⏳ Cap 2 en espera.
 
-
-
-### Sesión 27/06/2026 (✍️ «La Piel» Cap 1 v0.3 · Gate Ama aplicado 6/6 · Validador APROBADO 9.5/9.3) ✅
-- **📋 Gate de la Ama (NO aprobación, 6 correcciones):** Dani sola primero + piercing ombligo · resistencia real/bimbo lento · Daniela descubre su poder gradual · contrato = venganza dulce ×1000 · motivo de plata · cierre en dilema abierto.
-- **🪙 Decisión Ama (motor de plata) = Opción 1:** Daniela tiene todo (es Matías ante el mundo) + cláusula penal ruinosa que él mismo redactó. Jaula = el body-swap; venganza redonda.
-- **🧬 Canon (§1-§9) + cronología (H12 jaula / H13 venganza / H14 piercing; "Dani sola"; cierre dilema abierto) actualizados** antes de soltar al Escritor.
-- **✍️ Cap 1 v0.3 reescrito en MODO TRAMO** (Escritor-N4, 1 agente continuado: Dani sola+Daniela descubre → domación con resistencia real → contrato+jaula+dilema). ~6.550 pal, prosa pura, coño-voz MUDA.
-- **⚖️ Validador APROBADO:** Narr 9.5 / Temp 9.3 · Continuidad PASA · 6/6. v0.2 → `borradores/capitulo_01/`. ⏳ esperando nuevo Gate Ama.
 
 
 

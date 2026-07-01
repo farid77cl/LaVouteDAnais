@@ -85,14 +85,22 @@ SEATED = [
  "seated side-saddle on {seat} with the legs together angled to one side and the top stiletto pointed, the torso twisted back to the camera, one XXXL-nailed hand on the upper thigh and the other at the collarbone, an extreme waist twist, half-lidded gaze, cherry red hair over one breast",
 ]
 
+# SIDE PROFILE (Ama 01/07/2026 — REPARADO): el pool traia variantes SENTADA/RECLINADA/DE
+# RODILLAS que (1) duplicaban los slots Seated y Odalisque y (2) hacian que el generador
+# rindiera la "pose de costado" SIEMPRE sentada ("esta generando siempre sentada"). Ademas
+# las de pie no anclaban STANDING explicito -> Gemini defaulteaba a sentada. FIX DE RAIZ:
+# las 7 variantes son ahora TODAS DE PIE, cada una con ancla explicita (standing ... on
+# stilettos / on tiptoe / mid-stride), mostrando la silueta de perfil (bust-to-waist-to-hip).
+# NINGUNA sentada/reclinada/de rodillas en el pool -> la sentada la cubre el slot Seated,
+# la reclinada el slot Odalisque.
 SIDE = [
- "full body side profile from a low angle, an elegant S-curve with a graceful lumbar arch and the bust lifted, one leg bent forward with the stiletto pointed, one XXXL-nailed hand resting on the hip, chin lifted, lips parted glossy, cherry red hair cascading down the spine",
- "side profile seated on {seat} with the legs crossed and the top stiletto pointed away, the spine arched and the bust in profile silhouette, one XXXL-nailed hand on the thigh, the head tilted, lips parted, cherry red hair down the back",
- "side profile reclining on one side with an elegant S-curve, the hip rolled up and the bust forward in silhouette, the legs stacked with the stilettos pointed, one XXXL-nailed hand on the hip, half-lidded gaze, cherry red hair pooling",
- "full body side profile caught mid-stride with one leg forward and the stiletto pointed, the hips swung and the chest forward, one XXXL-nailed hand swinging and the other on the hip, chin lifted in profile, cherry red hair streaming back",
- "side profile kneeling upright with the spine arched and the bust forward in silhouette, sitting back toward the heels, one XXXL-nailed hand reaching up the body, the head tilted back, lips parted, cherry red hair down the arched back",
- "full body side profile bent slightly forward with the hips angled back in silhouette and the chest dropped forward, one XXXL-nailed hand on the bent knee, looking toward the camera, the stiletto pointed, cherry red hair falling forward",
- "side profile pressed to {wall} with one XXXL-nailed hand raised high on {wall} and the back deeply arched, the bust forward and the hips angled back in silhouette, one stiletto on tiptoe, lips parted, cherry red hair against {wall}",
+ "full body side profile standing tall on both towering stilettos, an elegant S-curve with a graceful lumbar arch and the bust lifted high in silhouette, both legs long and straight with the weight balanced, one XXXL-nailed hand resting on the hip and the other trailing up the ribcage, chin lifted, lips parted glossy, cherry red hair cascading down the spine",
+ "full body side profile standing on towering stilettos with one foot pointed forward, the hips angled back and the chest forward tracing the hourglass silhouette, both legs long and straight, one XXXL-nailed hand at the nape lifting the cherry red hair and the other on the thigh, the face in profile with a half-lidded gaze, lips parted glossy",
+ "full body side profile caught mid-stride walking on towering stilettos with one leg forward and the stiletto pointed and the back heel lifting off the floor, the hips swung and the chest forward, one XXXL-nailed hand swinging and the other on the hip, chin lifted in profile, cherry red hair streaming back",
+ "full body side profile standing with the back deeply arched and both stilettos planted, the bust forward and the hips tipped back in an exaggerated hourglass silhouette, both XXXL-nailed hands sliding down the front of the thighs, the head tipped back, lips parted glossy, cherry red hair falling down the arched spine",
+ "full body side profile standing on tiptoe on towering stilettos, one arm raised overhead elongating the side-body line with the bust lifted in silhouette, the spine in a long graceful arch, the other XXXL-nailed hand on the hip, the face in profile with a sultry half-lidded gaze, cherry red hair cascading",
+ "full body side profile standing shoulder-first against {wall}, one XXXL-nailed hand raised high on {wall} and the back deeply arched away from {wall}, the bust forward and the hips angled in silhouette, standing on both stilettos with one heel lifted, lips parted, cherry red hair against {wall}",
+ "full body side profile standing tall with both stilettos together, the torso turned to pure profile showing the bust-to-waist-to-hip silhouette, one XXXL-nailed hand on the lower back accentuating the lumbar arch and the other at the collarbone, chin high, a commanding profile gaze, cherry red hair swept over the far shoulder",
 ]
 
 # DITZY (Directiva Ama 09/06/2026): encuadre DE LA CINTURA HACIA ARRIBA (no plano americano).

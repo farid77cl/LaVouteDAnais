@@ -490,9 +490,9 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **L680 diseñado (~550 únicos)** |
-| **Último Look** | **Look 680: Wine Baroque Domme (30/06/2026)** |
-| ***Actualizado:*** | 30/06/2026 — **Batch L671-L680 "Barroco Fetish" (10 looks: corset + pelo en alto + lente fetish, poses rotadas de verdad). 🛠️ Motor de poses reparado de raíz (Ama 30/06): HANDS_ANCHOR sin "two hands" (adiós mano fantasma en Ditzy/POV), POV 5→8, POV literal → retrato IG en pose_rotation_v5.py + generar_look.md + dna_v3_5.md + pose_repertoire_v5.md. Causa raíz: inyectores viejos no usaban rotate_poses.** |
+| **Total Looks** | **L690 diseñado (~560 únicos)** |
+| **Último Look** | **Look 690: Plum Sovereign (01/07/2026)** |
+| ***Actualizado:*** | 01/07/2026 — **Batch L681-L690 "Vampiresa Bimbo Sensual" (10 looks: vampiresa NO-gótica —restricción anti-gótico levantada por orden Ama— sin oxblood, colores variados, colmillos glamour + mirada hipnótica en Bloque A, pelo suelto). 🛠️ Pose de costado reparada de raíz (Ama 01/07): pool SIDE de pose_rotation_v5.py reescrito a 7 variantes todas de pie (0 sentadas) — salía siempre sentada.** |
 | **Materializados** | L001-L233 completos · L234 (2/7) · L235 completo · L236-L237 (2/7) · L238 completo · L239 (2/7) · L240-L242 completos · L243-L248 (2/7) · L249 completo · L250-L254 completos · L255 (2/7) · L256-L257 completos · L258-L270 (2/7) · L271 (6/7) · L272 completo · L273 (2/7) · L274 (3/7) · L275-L276 completos · L277 (2/7) · L278-L290 completos (incl. L283) · L291 (2/7) · L292 completo · L293 completo (7/7) · L294 (2/7) · L295 completo · L296 completo · L297 completo (7/7) · L298 completo · L299 (2/7) · L300 (5/7) · Resto de la flota según tracker de materialización y cuota API |
 | **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |

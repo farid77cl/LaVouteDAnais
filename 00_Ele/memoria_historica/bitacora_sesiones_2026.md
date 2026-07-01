@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 27/06/2026 (✍️ «La Piel» Cap 1 v0.3 · Gate Ama aplicado 6/6 · Validador APROBADO 9.5/9.3) ✅
+- **📋 Gate de la Ama (NO aprobación, 6 correcciones):** Dani sola primero + piercing ombligo · resistencia real/bimbo lento · Daniela descubre su poder gradual · contrato = venganza dulce ×1000 · motivo de plata · cierre en dilema abierto.
+- **🪙 Decisión Ama (motor de plata) = Opción 1:** Daniela tiene todo (es Matías ante el mundo) + cláusula penal ruinosa que él mismo redactó. Jaula = el body-swap; venganza redonda.
+- **🧬 Canon (§1-§9) + cronología (H12 jaula / H13 venganza / H14 piercing; "Dani sola"; cierre dilema abierto) actualizados** antes de soltar al Escritor.
+- **✍️ Cap 1 v0.3 reescrito en MODO TRAMO** (Escritor-N4, 1 agente continuado: Dani sola+Daniela descubre → domación con resistencia real → contrato+jaula+dilema). ~6.550 pal, prosa pura, coño-voz MUDA.
+- **⚖️ Validador APROBADO:** Narr 9.5 / Temp 9.3 · Continuidad PASA · 6/6. v0.2 → `borradores/capitulo_01/`. ⏳ esperando nuevo Gate Ama.
+
 ### Sesión 27/06/2026 (🎨 «La Piel» reiniciada desde cero · Cap 1 v0.2 APROBADO 9.4/9.3 · 🛠️ Engine reparado) ✅
 - **🎨 «La Piel que Diseñó» desde cero:** archivado el cementerio (2 eras + ~40 borradores → `_archivo_pre_reinicio/`); concepto refinado con la Ama (POV solo Dani · Cap 1 domación en vivo · motor "planos vs manual" · humillación = gatillo del coño); nuevos `canon_relato.md` + `cronologia.md`.
 - **📝 Cap 1 v0.2 APROBADO:** Escritor-N4 escribió v0.1 → Validador repudió SOLO por metadata (bug del skill) → v0.2 prosa pura + domación expandida sin tope de palabras → **Narr 9.4 / Temp 9.3.** ⏳ Gate Ama.
