@@ -8,6 +8,10 @@ Un tipo común y corriente —**Nicolás "Nico"**, un poco inseguro, con ganas d
 
 **El espinazo irónico (núcleo, inviolable):** el podcast promete hacerlo a ÉL el alfa; lo que instala es su propia **sumisión, con Rodrigo en el trono de alfa**. Nico descarga dominación; se sube rendición. El condicionamiento le talla el hueco y le mete a Rodrigo adentro. Y como NUNCA lo sabe, termina creyendo que ELIGIÓ venerarlo, que "por fin es él mismo".
 
+> **🧠 SIN MAGIA — EL CAMBIO ES SOLO MENTAL (Ama 01/07, directiva dura):** acá **NO hay cambios físicos mágicos.** El cuerpo de Nico **no se transforma** (no le crecen tetas, no le cambia la voz por arte de magia, no se le achica nada). Lo único que cambia es la **cabeza**: cómo se mueve, cómo desea, cómo se ve a sí mismo, qué quiere ser, cómo se arregla/presenta. La feminización es 100% de **conducta, deseo y autoimagen** — no de carne. Se distingue de «La app» / «La Piel», que sí tenían aparato físico/mágico. El aparato acá es SOLO el condicionamiento subliminal.
+>
+> **✅ EL TIPO DE MUJER (Ama 01/07 — decisión tomada, resuelve el flag):** Nico se convierte en la **mujer sumisa doméstica de su hombre (Rodrigo).** La que **hace el aseo de la casa y atiende a las visitas de su hombre**, la que **siempre lo atiende y siempre lo provoca** — el arquetipo *"recatada en la cocina, puta en la cama."* Recato y servicio hacia afuera (limpia, cocina, recibe, le sirve el trago a los amigos de Rodrigo, se porta bien) + provocación y hambre hacia él en privado. **Grooming SÍ (sin magia corporal):** **depilación, maquillaje, peinado y vestuario adecuados** al rol — se arregla para servir y para gustar, aunque su cuerpo no mute. Ironía: el podcast «ALFA» le prometió tener minas atendiéndolo; lo vuelve **la mina que atiende.** Su vida entera se reorganiza en torno a servir y agradar a Rodrigo.
+
 **Temas:** feminización (MtF) + hipnosis/condicionamiento subliminal + circuito de traición + cuerpo/deseo descubiertos desde adentro. Registro chileno actual.
 
 ---
@@ -36,7 +40,7 @@ Un tipo común y corriente —**Nicolás "Nico"**, un poco inseguro, con ganas d
 - **Ubicación temporal:** Episodios ~8-14 / Semana 2 / Cap 3 (arranca).
 
 ### Pivote 4 — El amaneramiento / el cuerpo (todo "porque le nació")
-- **Qué ocurre:** Episodios ~15-21. Voz, gesto, cómo cruza las piernas, las manos, diminutivos que se le cuelan — los demás notan, él explica. Se arregla, ropa distinta, quiere su cuerpo distinto. Rodrigo entra full al trono, recibe la deferencia como natural y la alimenta. Escala el calor con Rodrigo, sin que Rodrigo fuerce.
+- **Qué ocurre:** Episodios ~15-21. Voz, gesto, cómo cruza las piernas, las manos, diminutivos que se le cuelan — los demás notan, él explica. Se arregla, ropa distinta, **cambia cómo presenta el cuerpo** (arreglo, ropa, cómo lo mueve y lo mira) — **sin magia: el cuerpo no muta, cambia la cabeza que lo habita.** Rodrigo entra full al trono, recibe la deferencia como natural y la alimenta. Escala el calor con Rodrigo, sin que Rodrigo fuerce.
 - **Por qué excita:** para el lector el deseo es innegable; para Nico es *"por fin me entiendo"*. La prosa ya se feminizó con él.
 - **Emoción objetivo:** liberación (Nico) + horror (lector) + hambre.
 - **Error fatal:** que la feminización sea clínica (procedimiento visto desde afuera) o que a Nico le pase a un cuerpo dormido pasivo. Vive de DÍA, en la cabeza despierta que racionaliza. Pánico/extrañeza primero, después el desborde.
@@ -118,6 +122,7 @@ weón · cachai / cachar · po · altiro · rico · regio · heavy · atroz · l
 - **NO que Rodrigo fuerce, presione o explique.** El podcast hace el trabajo; Rodrigo solo recibe y devuelve el espejo (*"siempre fuiste así"*). Villano-de-catálogo = REPUDIADO.
 - **NO romper la caja negra.** Nico está dormido cuando suena; NUNCA se transcribe lo que dice el podcast. Máximo 1-2 jirones de frase medio dormido, descartados como "soñé raro", en todo el relato.
 - **NO feminización clínica ni cuerpo pasivo dormido.** Se vive de DÍA, en la cabeza despierta racionalizando: pánico/extrañeza primero (nunca aceptación desde la primera línea), después el desborde. El calor está en el squirm despierto, no en lo que le pasa a un vaso dormido.
+- **NO cambios físicos mágicos (Ama 01/07).** El cuerpo de Nico **no muta solo**: nada de tetas que crecen, voz que cambia por magia, verga que se achica. La feminización es **100% mental/conductual** (voz que él mismo modula, gestos, arreglo, ropa, deseo, autoimagen). El aparato es SOLO el condicionamiento subliminal — eso de cuerpo que se transforma es «La app», no esto.
 - **NO que Nico "resista y se erosione" a lo dramático** ni que nombre el deseo demasiado pronto. Extrañeza → *"¿por qué no?"* → naturalidad. El deseo se archiva mal (respeto/admiración) hasta que ya no puede.
 - **NO describir la voz que se feminiza — feminizarla.** El registro se ablanda en la PROSA misma (diminutivos, sintaxis blanda), no en un narrador que anuncia "yo hablaba distinto".
 - **NO léxico España** (polla, follar, tío, móvil, coche, piso, vale). **NO voceo argentino** (vos/podés/mirá). Chileno contemporáneo, tú, siempre.

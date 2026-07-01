@@ -22,6 +22,7 @@ El antiguo Cap 2 «El cuerpo que sabe» (salón→club→consumación) se **part
 - **POV INTERIOR SEMI-EXPLÍCITO (cierre Cap 3):** dentro de Dani, sin distancia, **sintiendo ese cuerpo desde adentro** (su obra reportándole placer que no autorizó) y **sintiendo esa verga** (la suya vieja, ajena, recibida por el lado que nunca pensó habitar). Crudo/chileno, sin porno plano. Pico térmico del relato hasta aquí, **con techo** (el sábado, Cap 4, es el clímax mayor).
 - **GRADIENTE (por qué el sábado sigue siendo mayor):** en el Cap 3 cae el **último territorio del cuerpo** (se lo TOMAN, sin que ella pida); en el Cap 4 cae la **voluntad** (ella PIDE la pluma). Físico → voluntad.
 - **OPCIÓN B (calendario):** la firma legal = **viernes** (Día 6); el acto con Sebastián = **sábado** (Día 7). Deroga la vieja *"mañana firmas conmigo"*. Ancla dura = el sábado = Día 7.
+- **🔥 SEBASTIÁN = EL PELIGRO QUE LA MOJA (Ama 01/07 — gobierna Cap 3/Cap 4):** Sebastián es **grande, varonil, físicamente imponente**, y por debajo del traje es un **delincuente conocido, un jefe del hampa** (todos en el club saben quién es y lo que puede hacer). Su peligrosidad, **en vez de darle rechazo a Dani, la moja — y la excita MÁS que Daniela.** Es otro eje del deseo: Daniela tiene el **manual** del cuerpo (los botones); Sebastián es el **macho-peligro puro** que la parte de mujer del cuerpo responde con hambre. A la cabeza de hombre de Dani la **horroriza** (mojarse por otro hombre, y encima por un criminal que la va a coger). Por eso la **primera palabra del coño cae bajo SU mirada** (Cap 3) y por eso **Dani PIDE la pluma** en el Cap 4 (él la excita más que nadie). Ver §3 Sebastián. **No diminuye a Daniela** — son ejes distintos; el motor sigue siendo rechazo-de-la-cabeza / *sí*-de-la-carne, acá en su forma más grande.
 - **Correcciones Gate aplicadas en Cap 2 «El postre»:** dirección de la plata (*"Lo que tú me pagabas a mí…"*) + *"Así **la** dejaba yo a ella"* (transitivo).
 
 > Donde §2 (Pivote 3/4) o §6 digan "Cap 2 = consumación / 3 capítulos", **manda este §0.** El resto de §2–§9 (voces, mecanismos, cementerio, vocabulario) sigue vigente, solo renumerado.
@@ -98,11 +99,12 @@ Y firmó, hace dos años, un contrato que vendió el privado del sábado de "la 
 - **Detalle físico ancla:** la calma del cuerpo de Matías que ahora habita — la corbata, la mano grande y pesada en el cuerpo chico de Dani, el peso del macho que aprendió a usar en una noche.
 - **Invariante:** la voz **cariño-imperativa fundida con humillación dulce**. Diminutivo posesivo SIEMPRE (*"mi amor"*, *"mi Dani"*, *"mi vida"*), nunca orden seca, nunca grito. La cadencia tibia del poder ya instalado. Su *"Bien"* contrae el coño de Dani. Goza, no se ensaña — disfruta verlo quebrarse, no romperlo.
 
-### Sebastián Mura — inversor del club, ~50
-- **Rol narrativo:** cobrador del contrato del 2024, cumplidor del sábado. 60% del capital. Traje sastre, reloj IWC, pluma Montblanc en el bolsillo interior.
-- **Frase tipo:** *"Por la primera bailarina."* / *"Mañana firmas conmigo."*
-- **Detalle físico ancla:** la pluma Montblanc. La saca, la deja sobre la mesa — no es accidente, es mostrar.
-- **Invariante:** la quietud. No presiona, no exige, no apura. Su no-acción es lo que pesa.
+### Sebastián Mura — inversor del club, ~50 · el peligro que la moja
+- **Rol narrativo:** cobrador del contrato del 2024, cumplidor del sábado. 60% del capital. **Grande, varonil, físicamente imponente.** Traje sastre, reloj IWC, pluma Montblanc en el bolsillo interior — pero por debajo del traje hay **peligro real**: es un **delincuente conocido, un jefe del hampa** (todos en el club saben quién es y de lo que es capaz; nadie lo dice en voz alta). La elegancia es la cáscara; lo que pesa es el poder del hombre que hace daño y sale limpio.
+- **🔥 EXCITA A DANI MÁS QUE DANIELA (Ama 01/07 — ancla del deseo):** su peligrosidad —saber lo que es, lo que hace— **en vez de darle rechazo a Dani, la moja.** Y la enciende **MÁS que Daniela.** Son dos ejes distintos: Daniela tiene el manual del cuerpo (los botones); Sebastián es el macho-peligro puro que la carne de mujer responde con hambre. A la cabeza de hombre de Dani la **horroriza** (un hombre no se moja por otro hombre, menos por un criminal que la va a coger). Mismo motor de todo el relato —rechazo de la cabeza / *sí* de la carne—, acá en su forma más pura y más grande. Ancla del porqué la primera palabra del coño cae bajo SU mirada (Cap 3) y del porqué Dani PIDE la pluma (Cap 4).
+- **Frase tipo:** *"Por la primera bailarina."* / *"El viernes firmas conmigo. El sábado te espero."*
+- **Detalle físico ancla:** la pluma Montblanc + el **tamaño** (la mano grande, el cuerpo que llena el VIP, la calma del que no necesita levantar la voz porque todos ya saben). La saca, la deja sobre la mesa — no es accidente, es mostrar.
+- **Invariante:** la quietud del peligroso. No presiona, no exige, no apura — no le hace falta: lo que es ya pesa. Su no-acción es lo que aterra y lo que moja.
 
 ### Bárbara — stripper veterana, ~40
 - **Rol narrativo:** tutora del piso. Contacto femenino-femenino que calienta DISTINTO al masculino: más calmo, más prolongado, más permitido.
@@ -183,6 +185,7 @@ verga · coño · coger · tirar · departamento · weón/weona · mojada · tan
 - *"¿Me va a gustar? No. No me puede gustar, soy hombre. … ¿Y si me gusta?"* (Dani — el cuestionamiento interno que la amenaza dispara)
 - *"Por la primera bailarina."* (Sebastián — brindis)
 - *"Mañana firmas conmigo."* (Sebastián — la tarjeta con la pluma)
+- *"Sé lo que es. Sé lo que hace. Debería darme miedo… y me está mojando más que ella."* (Dani — el peligro de Sebastián que la excita más que Daniela, Ama 01/07)
 - *"Pásamela."* (Dani — el clímax, el coño hablando antes que ella)
 - *"¿A qué hora el VIP?"* (Dani — cierre, hambre dicha)
 - *"Tiene cuerpo de pista, esta."* (Bárbara — tercera persona delante de Dani)
