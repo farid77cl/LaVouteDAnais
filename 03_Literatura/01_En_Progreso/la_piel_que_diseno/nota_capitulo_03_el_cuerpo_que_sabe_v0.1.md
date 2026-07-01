@@ -1,1 +1,1 @@
-cuando se viste en el camarón, que todo sea plateado, y que sean botas sobre la rodilla plateadas
+cuando se viste en el camarón, que todo sea dorado y que sean botas sobre la rodilla plateadas. ese es el vestuario para el escenario que le dejo daniela
