@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 27/06/2026 (🎨 «La Piel» reiniciada desde cero · Cap 1 v0.2 APROBADO 9.4/9.3 · 🛠️ Engine reparado) ✅
+- **🎨 «La Piel que Diseñó» desde cero:** archivado el cementerio (2 eras + ~40 borradores → `_archivo_pre_reinicio/`); concepto refinado con la Ama (POV solo Dani · Cap 1 domación en vivo · motor "planos vs manual" · humillación = gatillo del coño); nuevos `canon_relato.md` + `cronologia.md`.
+- **📝 Cap 1 v0.2 APROBADO:** Escritor-N4 escribió v0.1 → Validador repudió SOLO por metadata (bug del skill) → v0.2 prosa pura + domación expandida sin tope de palabras → **Narr 9.4 / Temp 9.3.** ⏳ Gate Ama.
+- **🛠️ Engine reparado (pedido Ama):** tope 54 chars/título + flujo sin cuota de palabras + raíz del repudio (skill y ficha del Escritor ya no meten metadata en el capítulo). Bonus: voceo de `voz_autoral.md` (Gabriel) corregido. Auto-memoria `feedback_relato_fluir_no_word_count`.
+
 ### Sesión 27/06/2026 (🔄 Repo al día · 📸 Sync trackers L641-L670 + 14 poses + dedup L252 · 🏷️ Título «La app» OK) ✅
 - **🔄 Repo:** `git pull` (105 commits del bot/máquina paralela). Al día.
 - **📸 Imágenes:** `sync_imagenes_subidas.py` actualizó los trackers de `galeria_outfits.md` (L641-L670, conteos reales). +14 poses históricas completadas en git (L231/L232/L242 → 7/7). Dedup L252 (−2 huérfanos `vfront`). 20 READMEs de galería L641-L670 commiteados. Commits `f4276dad4`, `faf29dddd`. Master README + look231/232/242 + miss_doll = al bot.
