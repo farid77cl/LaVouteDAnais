@@ -4,6 +4,28 @@
 > Reemplaza todo lo archivado en `_archivo_pre_reinicio/`. Universo Anaïs Belland (NO Ele).
 > **Termómetro de calor:** «De Esteban a Secretaria» + «La app». Si una escena no calienta a ese nivel, está mal escrita.
 
+## 0. RESPLIT A 4 CAPÍTULOS (Ama 30/06/2026 — GOBIERNA sobre §2/§6 donde haya conflicto)
+
+El antiguo Cap 2 «El cuerpo que sabe» (salón→club→consumación) se **partió en dos**. Mapa vigente = **4 capítulos**:
+
+| Cap | Título | Contenido | Coño-voz | Cierre |
+|-----|--------|-----------|----------|--------|
+| 1 | El despertar / la firma vieja | (sin cambios) | MUDA | dilema abierto ✅ v0.4 |
+| **2** | **El postre** | **Amenaza de la verga al INICIO** (Daniela la planta en la cama) → **peluquería/salón** (teñido/uñas/pestañas + piercings pezones H17) → **CIERRE = accidente: tropieza en los tacos de stripper y cae de rodillas frente a la entrepierna de Daniela; huele su propia verga vieja, ve el bulto, el coño se abre — pero NO pasa nada** (Daniela la niega: *"todavía no… el sábado"*). Sin consumación. | **PRIMERA PALABRA: *Chúpala*** (en el tease) | Tentación sin consumar, **T° BIEN ALTA** ✅ v0.1 |
+| **3** | **El cuerpo que sabe** | **Club.** Camarín (motor = **MIRADA INVERTIDA**: él era el que MIRABA/el dueño/el espectador, nunca el mirado; ahora es el objeto de deseo, y el cuerpo se **excita con la humillación** de ser mirado; tanga sentida en detalle) → Bárbara/pole (memoria muscular H6, contacto que escala, *"Tiene cuerpo de pista, esta"*) → VIP Daniela+Sebastián indiferentes → Sebastián baja, Montblanc (H8), coño *Sí* → **Opción B: *"El viernes firmas conmigo. El sábado te espero."*** → **CIERRE = la consumación** (boca → entre las tetas 1000cc → coño → **anal**). | *Sí* (bajo Sebastián) + ***Más*** (consumación) — **sin comandar** | **La consumación, POV interior semi-explícito, pico térmico CON TECHO** ✅ v0.1 |
+| **4** | El sábado / la firma nueva (CLÍMAX) | El sábado (Día 7). **Opción B:** la firma legal fue el **viernes**; el sábado = el **acto/privado con Sebastián**. Dani **PIDE** la pluma (*"Pásamela"*) → rendición activa. | HABLA ANTES QUE ELLA | *"¿A qué hora el VIP?"* FIN |
+
+**Directivas nuevas que este bloque agrega/gobierna:**
+- **La MIRADA INVERTIDA (motor del camarín, Cap 3):** Matías era el espectador (dueño, el que pagaba por ver, catálogo), nunca el espectáculo. Vestirse = **humillada + excitada** porque cada cosa que diseñó para mirar (tetas *"las hiciste para mirarlas"*, tacones que compró, tanga que ahora siente) está sobre él, siendo mirada. El cuerpo **goza la humillación de ser mirado** — esa contradicción es el calor.
+- **La AMENAZA DE LA VERGA escala e INTERNALIZA (Cap 3):** tras el tease del Cap 2 (el coño ya dijo *Chúpala* frente al bulto), ya NO es solo la promesa externa de Daniela — Dani **teme que de verdad le guste** (*"ya me pasó una vez. Se me abrió solo. ¿Y si me gusta muchísimo?"*). La evidencia del Cap 2 vuelve el miedo concreto.
+- **🍑 EL CULO VIRGEN (H19, ancla nueva):** en los días de administración Dani perdió el coño, la boca, todo — **MENOS el culo**, lo ÚNICO a lo que se negó, la última pared. El **anal de la consumación (Cap 3) = la caída de la última muralla**, narrado como **primera vez** (el miedo/*no* más fuerte de todo). Doble filo de Daniela: *"esto es lo que un hombre no hace, por eso lo elegí… y es lo último que te queda"*. Horror pico: **hasta ahí el cuerpo goza**, y la cabeza se queda sin nada más que proteger.
+- **POV INTERIOR SEMI-EXPLÍCITO (cierre Cap 3):** dentro de Dani, sin distancia, **sintiendo ese cuerpo desde adentro** (su obra reportándole placer que no autorizó) y **sintiendo esa verga** (la suya vieja, ajena, recibida por el lado que nunca pensó habitar). Crudo/chileno, sin porno plano. Pico térmico del relato hasta aquí, **con techo** (el sábado, Cap 4, es el clímax mayor).
+- **GRADIENTE (por qué el sábado sigue siendo mayor):** en el Cap 3 cae el **último territorio del cuerpo** (se lo TOMAN, sin que ella pida); en el Cap 4 cae la **voluntad** (ella PIDE la pluma). Físico → voluntad.
+- **OPCIÓN B (calendario):** la firma legal = **viernes** (Día 6); el acto con Sebastián = **sábado** (Día 7). Deroga la vieja *"mañana firmas conmigo"*. Ancla dura = el sábado = Día 7.
+- **Correcciones Gate aplicadas en Cap 2 «El postre»:** dirección de la plata (*"Lo que tú me pagabas a mí…"*) + *"Así **la** dejaba yo a ella"* (transitivo).
+
+> Donde §2 (Pivote 3/4) o §6 digan "Cap 2 = consumación / 3 capítulos", **manda este §0.** El resto de §2–§9 (voces, mecanismos, cementerio, vocabulario) sigue vigente, solo renumerado.
+
 ## 1. Premisa
 
 Un hombre, **Matías** (~35), despierta dentro del cuerpo de **Daniela** — la mujer que él mismo transformó en bimbo durante años: implantes de 1000cc por lado, labios inflados, uñas largas, rubio de catálogo. Daniela despierta dentro del cuerpo de él. El intercambio no tiene explicación. Solo pasa. Primera persona, **siempre desde adentro de Dani**: él no descubre un cuerpo ajeno, **habita su propia obra y la reconoce**. Cada sensación pesa doble porque él eligió cada modificación.
@@ -106,7 +128,9 @@ El diseñador atrapado dentro de su propia ingeniería, **manejado por la única
 
 **Calibración anti-gimmick (inviolable):** la voz del coño nunca es cómica, nunca es charlatana, nunca personaje de comedia. **Más encarnada que conceptual:** nace de una sensación física concreta, no de una idea. Es **breve, imperativa, en cursiva, y SIEMPRE sube la temperatura.** Si una intervención del coño da risa, suena a chiste o explica algo, está mal escrita.
 
-## 6. Mapa de Capítulos (3 capítulos — cada uno se publica SOLO: pago sexual + cliffhanger)
+## 6. Mapa de Capítulos ⚠️ SUPERADO POR §0 (resplit a 4 caps, 30/06/2026) — se conserva por sus mecanismos, pero la estructura vigente es §0
+
+> El mapa de abajo describe **3 capítulos** (estructura vieja: Cap 2 = club+consumación, Cap 3 = sábado). Tras el resplit **manda §0**: Cap 2 «El postre» (tease) · Cap 3 «El cuerpo que sabe» (club+consumación) · Cap 4 (el sábado). Lee este §6 solo por sus **mecanismos** (escaladas, coño-voz, cierres), renumerados según §0.
 
 | Cap | Título | Pivotes | Etapa coño-voz | Mecanismo dominante | Cierre del cap |
 |-----|--------|---------|----------------|---------------------|----------------|
