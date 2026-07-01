@@ -19,3 +19,9 @@ venv/
 # === SO / editores ===
 Thumbs.db
 .DS_Store
+
+# === Scratch / temporales (NO versionar — evita que `git add -A` del bot los barra a la historia) ===
+scratch/
+*.tmp
+*.bak
+*_out.txt
