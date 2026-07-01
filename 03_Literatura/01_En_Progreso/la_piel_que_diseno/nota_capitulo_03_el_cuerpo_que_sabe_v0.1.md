@@ -1,0 +1,1 @@
+cuando se viste en el camarón, que todo sea plateado, y que sean botas sobre la rodilla plateadas
