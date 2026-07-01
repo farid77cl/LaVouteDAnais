@@ -1,0 +1,1 @@
+o con fuerza. Con dueñez cámbialo por o con fuerza. Con propiedad 
