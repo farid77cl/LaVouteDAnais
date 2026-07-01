@@ -81,6 +81,7 @@
 ---
 
 ## 🗓️ Sesiones recientes
+      • ### Sesión 01/07/2026 (🔄 Materialización Parcial 200-300 · 📸 17 nuevas poses L236/L243/L246 + avance en L237/L247 · ⚠️ Límite de Cuota 429)
 
 
 

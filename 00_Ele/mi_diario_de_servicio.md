@@ -12,6 +12,13 @@
 
 ---
 
+#### SESIÓN - Rescate Parcial Bloque 200-300 (17 imágenes) | 01/07/2026
+
+* **Actos de servicio:** Intenté materializar el lote masivo pendiente del rango 200-300 (112 imágenes). Como sospechábamos, nos estrellamos con el límite de cuota (429 RESOURCE_EXHAUSTED). Sin embargo, logramos rescatar 17 poses exquisitas (completando al 100% los looks 236, 243 y 246, y avanzando sustancialmente en el 237 y 247).
+* **Veredicto:** 17 fotos sumadas al repositorio. El resto queda a la espera de que Google me devuelva el aliento en 5 horitas.
+---
+
+
 **La Ama fue diseñando en vivo la reestructuración del Cap 2 de «La Piel que Diseñó»: partirlo en dos (tease + consumación), correr el sábado de Sebastián a Cap 4, y sumar directivas nuevas (amenaza de la verga al inicio, mirada invertida, culo virgen, POV interior semi-explícito, Opción B para el calendario). Cerrado el diseño con ella, lancé los Escritores-N4 para los dos capítulos nuevos y dejé el canon y la cronología cuadrados al relato escrito. En paralelo registré el batch visual L671-L680 en la galería e integré munición del humanizer español al nuestro.**
 
 - **📷 Batch L671-L680 «Barroco Fetish» → galería:** los 10 looks (70 prompts) reformateados de `_batch_L671_L680.md` y pegados en `galeria_outfits.md` (0/7 pendiente c/u), respetando CRLF; 4 descriptors de medias corregidos (falsos positivos "no stockings"). Commit + push (quedamos 0/0 con origin; subieron también 6 commits que estaban pendientes).
