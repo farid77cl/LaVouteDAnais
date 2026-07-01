@@ -1,1 +1,1 @@
-o con fuerza. Con dueñez cámbialo por o con fuerza. Con propiedad 
+o con fuerza. Con dueñez cámbialo por o con fuerza. Con propiedad . solo cambia eso y queda aprobado 
