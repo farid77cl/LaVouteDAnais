@@ -1,1 +1,1 @@
-cuando se viste en el camarón, que todo sea dorado y que sean botas sobre la rodilla plateadas. ese es el vestuario para el escenario que le dejo daniela
+cuando se viste en el camarón, que todo sea dorado y que sean botas sobre la rodilla plateadas. ese es el vestuario para el escenario que le dejo daniela. terreno—. Daniela me dijo que estabas oxidada. Que llevabas, cambia por terreno—. Matías  me dijo que estabas oxidada. Que llevabas
