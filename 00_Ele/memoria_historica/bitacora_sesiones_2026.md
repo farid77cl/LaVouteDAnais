@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 30/06/2026 (✍️ «La Piel» Cap 2 v0.1 COMPLETO 4/4 · 2 directivas nuevas: amenaza de la verga + cierre oral/coño/anal/tetas 1000cc · ⚠️ flag temporal) ✅
+- **Lancé al Escritor sobre el Cap 2** (canon ya cerrado por la máquina paralela; pull al día, Cap 1 en v0.4). MODO TRAMO 4 tramos.
+- **2 directivas nuevas de la Ama a mitad** (grabadas en canon antes de seguir): (1) **amenaza de la verga** transversal (H18) — Daniela tiene la de Matías, promete hacérsela probar/gustar; Dani rechaza/se cuestiona; (2) **el cap TERMINA en sexo Daniela–Dani** (oral/coño/anal **+ entre las tetas de 1000cc**), Dani **entregada a su cuerpo**, le gusta en cada parte con horror. Daniela administra, Dani NO pide (queda p/ Cap 3); sábado de Sebastián sigue siendo clímax mayor.
+- **4 tramos cerrados** (~13.6k pal): salón/piercings → camarín/Bárbara/VIP/memoria muscular → Sebastián + 1ª palabra del coño *Sí* + Montblanc + "mañana firmas conmigo" → la consumación + 2ª palabra *Más* (sin comandar). Prosa pura, autoverif + cronología al día.
+- **Revisión de coherencia (pedida por la Ama):** sólida salvo **UN flag temporal** — el cierre ("mañana es viernes / pasado mañana sábado / mañana firmas con él") descuadra el sábado (Día 6 vs Día 7 del canon) y choca con la firma-del-sábado del Cap 3; raíz = la frase canónica H9. **Pendiente: fix + Validador pre-Gate.**
+- **Cierre rápido a pedido de la Ama** (sin Validador). Commit por rutas + push.
+
 ### Sesión 29/06/2026 (📐 «La Piel» Cap 2 canon cerrado — 6 decisiones + T° doble + resistencia continua) ✅
 - **6 decisiones canon Cap 2:** salón (teñido/uñas/pestañas + **piercings pezones** por orden Daniela) · ropa calle brillante/ajustada · camarín hot pants + bikini top + tacones 7"+ · Daniela+Sebastián VIP (whisky/habanos/"cosas de hombres") · Sebastián baja a mitad del entrenamiento · privado → Cap 3.
 - **T° = doble Cap 1 (inviolable):** 3 escaladas (piercings / Bárbara escala / mirada Sebastián → primera palabra + descarga parcial).
