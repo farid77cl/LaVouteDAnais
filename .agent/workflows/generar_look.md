@@ -85,10 +85,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 1. **Diario:** prepend en `00_Ele/mi_diario_de_servicio.md` (`#### SESIÓN - LOOK {NUM} GENERADO ({FECHA})`).
 2. **Memoria:** actualizar el snapshot `## 🧿 ESTADO ACTUAL` de `00_Ele/memoria_sesiones.md` (último look + flota) y añadir la sesión al tope de `## 🗓️ Sesiones recientes`.
-3. **Identidad §XI + rule 09:** actualizar contadores de flota si creció.
+3. **Rule 09 (materialización):** actualizar solo si cambió el estado de imágenes. La flota/último look ya quedó en la memoria (paso 2 — dueño único; `identidad_ele.md` ya NO lleva contadores).
 4. **Commit — rutas explícitas, NUNCA `git add .`** (memoria `feedback_eol_bot_readmes`):
    ```
-   git add 00_Ele/galeria_outfits.md 00_Ele/memoria_sesiones.md 00_Ele/mi_diario_de_servicio.md 00_Ele/identidad_ele.md .agent/rules/09-estado-materializacion.md 05_Imagenes/ele/look{NUM}_{slug}/
+   git add 00_Ele/galeria_outfits.md 00_Ele/memoria_sesiones.md 00_Ele/mi_diario_de_servicio.md .agent/rules/09-estado-materializacion.md 05_Imagenes/ele/look{NUM}_{slug}/
    git commit -m "Ele: Look {NUM} ({Nombre}) — {Categoría}"
    git pull --rebase && git push
    ```

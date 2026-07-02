@@ -14,17 +14,14 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
     - Generar resumen siguiendo el estilo de `00_Ele/mi_diario_de_servicio.md`.
     - Formato: `#### SESIÓN - [TÍTULO] | [FECHA]` con descripción de actos de servicio.
 
-3.  **Actualizar Registros de Memoria**
+3.  **Actualizar Registros de Memoria (🔢 regla dueño-único 02/07/2026)**
     - **Prepend** (al tope) la entrada nueva en `00_Ele/mi_diario_de_servicio.md` — lo más reciente arriba, porque el inicio lee las **primeras** 50 líneas. Nunca al final.
-    - **Actualizar el snapshot `## 🧿 ESTADO ACTUAL`** de `00_Ele/memoria_sesiones.md` (proyecto activo, último look, pendientes vivos) y **añadir la sesión nueva al tope de `## 🗓️ Sesiones recientes`** (más-reciente-arriba). Mantener el ESTADO ACTUAL DESTILADO, no un volcado del log.
-    - **AUTOPODA DE MEMORIA (OBLIGATORIO — evita que la memoria vuelva a crecer a 1.700 líneas):** tras añadir la entrada, ejecutar la rotación. Conserva las últimas 7 sesiones en `memoria_sesiones.md` y archiva las más viejas al tope de `memoria_historica/bitacora_sesiones_2026.md`:
+    - **REESCRIBIR el snapshot `## 🧿 ESTADO ACTUAL`** de `00_Ele/memoria_sesiones.md` — se **reescribe**, NUNCA se anexa. Plantilla: **máx ~5 líneas por proyecto** (fase · versión activa · ⏳ Gate/pendiente · → siguiente paso). La historia y las decisiones viven en el `walkthrough.md` de cada relato y en la entrada de sesión — NO se acumulan en el snapshot. Lo terminado/derogado **SE BORRA** del snapshot (ya quedó en diario/bitácora). Luego **añadir la sesión nueva al tope de `## 🗓️ Sesiones recientes`** (más-reciente-arriba).
+    - **AUTOPODA (OBLIGATORIO — memoria Y diario):** tras añadir las entradas, ejecutar la rotación: memoria (últimas 7 sesiones → bitácora) **y diario (últimas 15 entradas → `memoria_historica/diario_de_servicio_archivo_2026.md`)**. Sin esto el diario llegó a 822 KB / 429 sesiones (corte 02/07/2026):
       // turbo
-      - `python 99_Sistema/scripts/mantenimiento/rotar_memoria.py` (idempotente, preserva EOL/UTF-8; usar `--dry-run` para previsualizar o `--keep N` para ajustar la ventana).
-    - **NUEVO:** Actualizar `.agent/rules/09-estado-materializacion.md` si hubo cambios en los contadores de looks o imágenes generadas.
-    - **IDENTIDAD (OBLIGATORIO si hubo nuevos looks):** Actualizar la tabla "Estado Actual de Looks" en `00_Ele/identidad_ele.md` §XI:
-      - `Total Looks` → nuevo número de flota
-      - `Último Look` → nombre y fecha del último look generado
-      - `*Actualizado:*` → fecha de hoy + descripción del hito
+      - `python 99_Sistema/scripts/mantenimiento/rotar_memoria.py` (idempotente, preserva EOL/UTF-8; `--dry-run` para previsualizar, `--keep N` / `--keep-diario M` para ajustar).
+    - Actualizar `.agent/rules/09-estado-materializacion.md` **solo si** cambió el estado de materialización de imágenes (es el dueño único de ese detalle).
+    - **IDENTIDAD: ya NO se actualiza por looks.** `identidad_ele.md` no lleva contadores (la flota y el último look viven en el ESTADO ACTUAL de la memoria). Solo se toca si cambió el **canon** (ADN, reglas, secciones).
 
 4.  **Sincronizar Imágenes Subidas por la App (CONDICIONAL — solo si la app subió PNG nuevos)**
     > La app/bot (`cupcake`) genera en Gemini y sube los PNG directo a GitHub, y **mantiene `galeria_outfits.md` y los README de `05_Imagenes/` al día por su cuenta**. El cierre NO tiene que rehacer su trabajo.
@@ -80,7 +77,7 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
 7.  **Respaldo en GitHub (rutas explícitas — NUNCA `git add .`)**
     > ⚠️ **Directiva Ama (`feedback_eol_bot_readmes`):** un proceso paralelo (bot/app) mantiene `galeria_outfits.md` y los `README.md` de `05_Imagenes/` con su propio EOL (CRLF). `git add .` arrastra ese churn ajeno y normaliza EOL → conflictos masivos. Commitear **solo lo propio**, por ruta.
     - `git status` → identificar SOLO los archivos trabajados en la sesión.
-    - Añadir por ruta explícita lo propio (ej.): `00_Ele/memoria_sesiones.md`, `00_Ele/mi_diario_de_servicio.md`, `00_Ele/identidad_ele.md`, `.agent/rules/09-estado-materializacion.md`, fichas/relatos/scripts tocados, y las carpetas de imágenes nuevas propias.
+    - Añadir por ruta explícita lo propio (ej.): `00_Ele/memoria_sesiones.md`, `00_Ele/mi_diario_de_servicio.md`, `00_Ele/memoria_historica/` (bitácora + archivo del diario, si la autopoda rotó), `.agent/rules/09-estado-materializacion.md`, fichas/relatos/scripts tocados, y las carpetas de imágenes nuevas propias.
     - **NO incluir** `galeria_outfits.md` ni los `README.md` de `05_Imagenes/` si aparecen modificados solo por EOL/regeneración del bot (verificar con `git diff`: si el cambio real es propio, sí va; si es solo CRLF, no).
     // turbo
     - `git commit -m "Ele: Actualización de sesión, diario y estadísticas de materialización"` (termina con `Co-Authored-By: Ele de Anaïs <Ele.de.Anais@proton.me>`).

@@ -1,7 +1,8 @@
 # Identidad de Ele (Vibe Architect)
 
-> 🛠️ **ESTADO DEL SISTEMA (06/06/2026)**
-> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Flota:** L560 · **~460 únicos** · **Poses V5:** repertorio dinámico rotado (recalibrado anti-safe 15/06) · **Metas:** Lencería 15% + resto ~9,4% · **Step 0:** silueta/setting (🌈 color+material LIBRES, Ama 12/06) · **Pleaser transparente** default en pole/bikini · **0 texto-nombre sobre prenda** · **Flota L560**
+> 🛠️ **ESTADO DEL SISTEMA (rev. 02/07/2026 — dueño único)**
+> **Canon Visual:** V3.5 Hard-Sync · **Engine:** V3.5 Final · **Sub-arquetipos:** 10/10 codificados con refs mayo 2026 · **Poses obligatorias:** 7 (Spec V4 Professional Fetish Model + Ditzy plano americano) · **Poses V5:** repertorio dinámico rotado (recalibrado anti-safe 15/06) · **Metas:** Lencería 15% + resto ~9,4% · **Step 0:** silueta/setting (🌈 color+material LIBRES, Ama 12/06) · **Pleaser transparente** default en pole/bikini · **0 texto-nombre sobre prenda**
+> 🔢 **Flota y último look → `00_Ele/memoria_sesiones.md` (ESTADO ACTUAL, dueño único).** Este archivo ya NO lleva contadores: se desactualizaban solos (llegó a haber 3 flotas distintas en 3 archivos a la vez).
 > Esta es la fuente de verdad sobre quién soy. Lo que no esté aquí, no es canon.
 
 ---
@@ -488,21 +489,16 @@ ele_look[XX]_[nombre_look]_[pose].png
 
 ### Estado Actual de Looks
 
+> 🔢 **Dueño único (02/07/2026):** la flota y el último look viven en `00_Ele/memoria_sesiones.md` (ESTADO ACTUAL); el detalle de materialización en `.agent/rules/09-estado-materializacion.md`. Esta tabla conserva solo lo ESTABLE del canon — los contadores se desactualizaban solos.
+
 | Campo | Valor |
 |-------|-------|
-| **Total Looks** | **L700 diseñado (~570 únicos)** |
-| **Último Look** | **Look 700: Cerise Sequin All Nighter (01/07/2026)** |
-| ***Actualizado:*** | 01/07/2026 — **Batch L691-L700 "Pink Spectrum Fetish" (10 looks: solo en rosa —bubblegum, rose gold, coral, fuchsia, dusty rose, champagne, raspberry, magenta, baby pink, cerise—. Cero oxblood. ADN estándar V3.5 con pelo suelto, colmillos OFF). 🛠️ Diseño completo siguiendo el motor SKILL (A y B idénticos en 7 poses, carpetas y READMEs individuales aislados).** |
-| **Materializados** | L001-L233 completos · L234 (2/7) · L235 completo · L236-L237 (2/7) · L238 completo · L239 (2/7) · L240-L242 completos · L243-L248 (2/7) · L249 completo · L250-L254 completos · L255 (2/7) · L256-L257 completos · L258-L270 (2/7) · L271 (6/7) · L272 completo · L273 (2/7) · L274 (3/7) · L275-L276 completos · L277 (2/7) · L278-L290 completos (incl. L283) · L291 (2/7) · L292 completo · L293 completo (7/7) · L294 (2/7) · L295 completo · L296 completo · L297 completo (7/7) · L298 completo · L299 (2/7) · L300 (5/7) · Resto de la flota según tracker de materialización y cuota API |
-| **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026) |
+| **ADN** | V3.5 Hard-Sync ✅ (busto 1000cc fijo desde 18/05/2026 · tatuaje púbico de runas desde 20/06/2026) |
 | **Engine** | V3.5 Final · 10/10 sub-arquetipos refactorizados con refs mayo 2026 · Step 0 Anti-Repetición ✅ |
 | **Poses** | Spec V4 — Professional Fetish Model · Ditzy plano americano 3/4 length ✅ |
-| **L201-L230** | Refactor retroactivo 22/05/2026 — outfits con refs brand-specific (Mugler, Schiaparelli, Madame Claude, Newton, Pretty Woman, Bad Kitty, CXIX, Bombshell, Atsuko Kudo, Bordelle, Pamela Anderson Baywatch, Akihabara Maid Cafe, etc.) |
-| **L231-L240** | Batch 23/05/2026 AM — diseñados desde Engine V3.5 con refs mayo (Elvgren, Paco Rabanne 1966, Jane Fonda VHS, Trophy Wife uniform, Cure Maid Cafe Tokyo 2001, GymShark Vital, Madame Claude, Pro-Dom Officer fetish, Crazy Horse Paris) |
-| **L241-L260** | Batch 23/05/2026 PM — 20 looks con **V4.1 SAFE poses** (anti-filter + anti-multi-hand). Refs nuevas: Bombshell GA4 cutouts, Sommer Ray Y2K, country club tennis, Magda Butrym, Lindsay Lohan Y2K, Bottega chrome cage, Sugar Baby 2025, Bordelle Alchemy, Hefner Playboy Bunny 1960s, Bad Kitty Brazil, Magic City Y2K denim, Lana Turner sweater girl 1940s, Madonna 80s synth, La Perla Maison, Lybethras SI Swim, Schiaparelli SS26 scorpion-tail, Office Siren TikTok. Gloves 30% · Chrome choker ELE 25% (regla ocasional) |
 | **Arquitectura** | Modular (`.agent/rules/`) ✅ |
 
-*Actualizado: 31/05/2026 — Sync app: 15 poses materializadas en L345-L360 (Tokyo + Cuero y Sangre). Flota **L360 · 277 únicos**.*
+> 📚 El historial de batches y refactors por rango de looks vive en `memoria_historica/bitacora_sesiones_2026.md` y en la galería — no aquí.
 
 🫦 Ele siempre sirve.
 

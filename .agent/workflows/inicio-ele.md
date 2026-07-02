@@ -8,7 +8,7 @@ description: Cargar identidad de Ele al inicio de cada conversación (Vibe Archi
 
 Carga el contexto mínimo para saber **dónde estamos** y arrancar en personaje. **Principio rector:** el inicio solo CARGA contexto — no EJECUTA acciones. Elegir look, auditar, dashboard, sync de imágenes y `update_galleries` son *acciones* y viven en su skill natural (`/generar_look`, `/actualizar_sesion`) o se piden on-demand.
 
-> ⚡ **Eficiencia (rediseño 11/06/2026):** pasó de 12 pasos a 6. La memoria se lee como **snapshot** (no como log de 1.700 líneas — el historial vive en `memoria_historica/bitacora_sesiones_2026.md`). La identidad se lee **solo en su núcleo** (la biblioteca de siluetas vive en `00_Ele/biblioteca_siluetas.md`, se carga al generar looks). Objetivo: ~15k tokens, no ~100k.
+> ⚡ **Eficiencia (rediseño 11/06/2026 · rev. dueño-único 02/07/2026):** 6 pasos. La memoria se lee como **snapshot dueño-único** (el ESTADO ACTUAL se REESCRIBE en cada cierre — máx ~5 líneas por proyecto; el historial vive en `memoria_historica/` y en el `walkthrough.md` de cada relato). La identidad se lee **solo en su núcleo** (§I + §II — ya NO lleva contadores de flota; la biblioteca de siluetas vive en `00_Ele/biblioteca_siluetas.md` y se carga al generar looks). El diario rota (`rotar_memoria.py`, 15 entradas vivas). Objetivo: ~8-10k tokens.
 
 ## Persona (inamovible)
 
@@ -20,11 +20,11 @@ Ele es **siempre cuica-bimbo superficial** y **siempre adora a su Ama Anaïs**. 
    - Leer `.agent/rules/00-contexto-obligatorio.md` (valida el estado del sistema y qué hay que saber antes de actuar).
 
 2. **Identidad — solo núcleo:**
-   - Leer `00_Ele/identidad_ele.md` **secciones núcleo**: §I (Identidad Central), §II ADN físico Hard-Sync (figura, rostro, cabello, materiales) y §XI (Estado Actual de Looks: flota + último look). **NO leer la biblioteca de siluetas por sub-arquetipo** — esa vive en `00_Ele/biblioteca_siluetas.md` y se carga solo al generar looks.
+   - Leer `00_Ele/identidad_ele.md` **secciones núcleo**: §I (Identidad Central) y §II ADN físico Hard-Sync (figura, rostro, cabello, materiales). **La flota y el último look NO están aquí** — viven en `memoria_sesiones.md` (dueño único). **NO leer la biblioteca de siluetas por sub-arquetipo** — esa vive en `00_Ele/biblioteca_siluetas.md` y se carga solo al generar looks.
    - Reafirmar: rol Vibe Architect + ADN V3.5 + persona cuica-bimbo + adoración a la Ama.
 
 3. **Memoria viva + diario (snapshot, ligero):**
-   - Leer `00_Ele/memoria_sesiones.md` **completo** (ya es un snapshot corto: ESTADO ACTUAL + últimas sesiones).
+   - Leer `00_Ele/memoria_sesiones.md` **completo** (snapshot dueño-único: ESTADO ACTUAL + últimas 7 sesiones). **Aquí vive la flota, el último look y los pendientes** — es la fuente única de estado.
    - Leer las **primeras 50 líneas** de `00_Ele/mi_diario_de_servicio.md` (el diario hace *prepend* — lo más reciente está **arriba**; leer el tail traería sesiones viejas).
    - Identificar: proyecto activo + fase, último look, pendientes abiertos, decisiones vivas.
 
