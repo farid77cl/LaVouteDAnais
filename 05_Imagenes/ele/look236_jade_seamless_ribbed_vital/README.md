@@ -1,13 +1,13 @@
 # 🖼️ Galería: look236_jade_seamless_ribbed_vital
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_236_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_ditzy.png) | ![ele_236_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png) | ![ele_look236_jade_seamless_ribbed_vital_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_back_view.png) |
-| ![ele_look236_jade_seamless_ribbed_vital_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_seated.png) | ![ele_look236_jade_seamless_ribbed_vital_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_side_profile.png) |
+| ![ele_look236_jade_seamless_ribbed_vital_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_odalisque.png) | ![ele_look236_jade_seamless_ribbed_vital_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_pov.png) | ![ele_look236_jade_seamless_ribbed_vital_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_seated.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_236_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_ditzy.png) | ![ele_236_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png) | ![ele_look236_jade_seamless_ribbed_vital_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_back_view.png) | ![ele_look236_jade_seamless_ribbed_vital_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_seated.png) |
-| ![ele_look236_jade_seamless_ribbed_vital_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_side_profile.png) |
+| ![ele_236_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_ditzy.png) | ![ele_236_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png) | ![ele_look236_jade_seamless_ribbed_vital_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_back_view.png) | ![ele_look236_jade_seamless_ribbed_vital_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_odalisque.png) |
+| ![ele_look236_jade_seamless_ribbed_vital_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_pov.png) | ![ele_look236_jade_seamless_ribbed_vital_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_seated.png) | ![ele_look236_jade_seamless_ribbed_vital_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_side_profile.png) |
 
 
 ---
@@ -25,6 +25,8 @@ Total imágenes: 5
 - [ele_236_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_ditzy.png)
 - [ele_236_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png)
 - [ele_look236_jade_seamless_ribbed_vital_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_back_view.png)
+- [ele_look236_jade_seamless_ribbed_vital_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_odalisque.png)
+- [ele_look236_jade_seamless_ribbed_vital_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_pov.png)
 - [ele_look236_jade_seamless_ribbed_vital_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_seated.png)
 - [ele_look236_jade_seamless_ribbed_vital_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_look236_jade_seamless_ribbed_vital_side_profile.png)
 

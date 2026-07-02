@@ -1,20 +1,22 @@
 # 🖼️ Galería: look299_bronze_gold_riviera_maillot_d_co
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_299_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_ditzy.png) | ![ele_299_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) |
+| ![ele_299_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_ditzy.png) | ![ele_299_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) | ![ele_look299_bronze_gold_riviera_maillot_d_co_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_back_view.png) |
+| ![ele_look299_bronze_gold_riviera_maillot_d_co_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_odalisque.png) | ![ele_look299_bronze_gold_riviera_maillot_d_co_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_pov.png) | ![ele_look299_bronze_gold_riviera_maillot_d_co_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_seated.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_299_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_ditzy.png) | ![ele_299_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_299_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_ditzy.png) | ![ele_299_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png) | ![ele_look299_bronze_gold_riviera_maillot_d_co_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_back_view.png) | ![ele_look299_bronze_gold_riviera_maillot_d_co_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_odalisque.png) |
+| ![ele_look299_bronze_gold_riviera_maillot_d_co_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_pov.png) | ![ele_look299_bronze_gold_riviera_maillot_d_co_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_seated.png) | ![ele_look299_bronze_gold_riviera_maillot_d_co_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_side_profile.png) |
 
 
 ---
@@ -22,6 +24,11 @@ Total imágenes: 2
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_299_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_ditzy.png)
 - [ele_299_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_299_standing.png)
+- [ele_look299_bronze_gold_riviera_maillot_d_co_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_back_view.png)
+- [ele_look299_bronze_gold_riviera_maillot_d_co_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_odalisque.png)
+- [ele_look299_bronze_gold_riviera_maillot_d_co_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_pov.png)
+- [ele_look299_bronze_gold_riviera_maillot_d_co_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_seated.png)
+- [ele_look299_bronze_gold_riviera_maillot_d_co_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/ele_look299_bronze_gold_riviera_maillot_d_co_side_profile.png)
 
 ---
 *Sincronizado con GitHub.* 👄

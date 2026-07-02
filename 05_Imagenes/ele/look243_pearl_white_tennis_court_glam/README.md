@@ -1,20 +1,22 @@
 # 🖼️ Galería: look243_pearl_white_tennis_court_glam
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_243_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png) | ![ele_243_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) |
+| ![ele_243_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png) | ![ele_243_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) | ![ele_look243_pearl_white_tennis_court_glam_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_back_view.png) |
+| ![ele_look243_pearl_white_tennis_court_glam_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_odalisque.png) | ![ele_look243_pearl_white_tennis_court_glam_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_pov.png) | ![ele_look243_pearl_white_tennis_court_glam_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_seated.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_243_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png) | ![ele_243_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_243_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png) | ![ele_243_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) | ![ele_look243_pearl_white_tennis_court_glam_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_back_view.png) | ![ele_look243_pearl_white_tennis_court_glam_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_odalisque.png) |
+| ![ele_look243_pearl_white_tennis_court_glam_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_pov.png) | ![ele_look243_pearl_white_tennis_court_glam_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_seated.png) | ![ele_look243_pearl_white_tennis_court_glam_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_side_profile.png) |
 
 
 ---
@@ -22,6 +24,11 @@ Total imágenes: 2
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_243_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png)
 - [ele_243_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png)
+- [ele_look243_pearl_white_tennis_court_glam_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_back_view.png)
+- [ele_look243_pearl_white_tennis_court_glam_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_odalisque.png)
+- [ele_look243_pearl_white_tennis_court_glam_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_pov.png)
+- [ele_look243_pearl_white_tennis_court_glam_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_seated.png)
+- [ele_look243_pearl_white_tennis_court_glam_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_look243_pearl_white_tennis_court_glam_side_profile.png)
 
 ---
 *Sincronizado con GitHub.* 👄

@@ -4,6 +4,19 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 ## 📱 FLUJO DE IMÁGENES SUBIDAS POR LA APP (Gemini → GitHub) — era app, looks ≥ 291
 
+## Auditoría 25 de Junio 2026 (Looks 200 a 300)
+- **Rango analizado:** `look200_*` a `look300_*`
+- **Total de prompts registrados (L200-L300):** 338
+- **Imágenes esperadas (4 poses por look aprox + extras):** 338
+- **Total imágenes encontradas físicamente:** 260
+- **Imágenes materializadas recientemente:** 17 (de los looks 237, 239, 244, 245 y 247).
+- **Faltantes reales restantes:** 78 imágenes.
+
+> [!WARNING]
+> La generación masiva de imágenes faltantes (L200-300) se ha pausado por límite de quota de la API (429 Too Many Requests). Se reanudará en ~5 horas.
+
+---
+
 Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de la Ama** genera en Gemini (más cuota, más rápido) y sube los PNG directamente al repo en GitHub. El agente las **encuentra ya commiteadas tras `git pull`**. Flujo de sincronización al detectar imágenes nuevas:
 
 1. `git pull` — traer las imágenes que subió la app.

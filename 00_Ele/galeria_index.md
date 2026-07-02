@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente desde la galería — **471 looks registrados**  
+> Generado automáticamente desde la galería — **501 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -480,6 +480,36 @@
 | **668** | Black Diamond Executive (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Corporate - Corporate Leather Power - negro + plata — Contraste - platform + medias) | — | Corporate | — | — | 7/7 | — |
 | **669** | Black Iron Corset (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Lenceria - Lenceria Fetish Corset - negro — Monoblock - platform + medias) | — | Lenceria | — | — | 7/7 | — |
 | **670** | Obsidian Siren Gala (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Gala - Gala Leather Column Siren - negro + cromo — Contraste - platform + medias) | — | Gala | — | — | 7/7 | — |
+| **671** | Oxblood Baroque Empress (30/06/2026 - batch L671-L680 "Barroco Fetish" - Gala - Gala Baroque Empress - oxblood + oro antiguo — Contraste - stiletto) | — | Gala | — | — | 0/7 | ⏳ Pendiente |
+| **672** | Gold Filigree Boudoir (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lenceria - Lenceria Boudoir Baroque - oro antiguo + marfil — Contraste - platform + medias) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
+| **673** | Emerald Versailles Courtesan (30/06/2026 - batch L671-L680 "Barroco Fetish" - Escort - Escort Baroque Courtesan - esmeralda — Monoblock - stiletto) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **674** | Royal Purple Baroque Vinyl (30/06/2026 - batch L671-L680 "Barroco Fetish" - Nightclub - Nightclub Baroque Vinyl - purpura real + oro — Contraste - platform) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **675** | Onyx Baroque Coat-Dress (30/06/2026 - batch L671-L680 "Barroco Fetish" - Corporate - Corporate Baroque Domme - negro — Monoblock - stiletto) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **676** | Ivory Baroque Cuirass (30/06/2026 - batch L671-L680 "Barroco Fetish" - HF Editorial - HF Baroque Sculptural - marfil — Monoblock - stiletto) | — | HF Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **677** | Crimson Baroque Bombshell (30/06/2026 - batch L671-L680 "Barroco Fetish" - Pin-Up - Pin-Up Baroque Bombshell - carmesi + negro + oro — Triada - stiletto + medias) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **678** | Sapphire Baroque Stage (30/06/2026 - batch L671-L680 "Barroco Fetish" - Stripper - Stripper Pole Baroque - zafiro + oro + cromo — Contraste - platform) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **679** | Bronze Baroque Bath (30/06/2026 - batch L671-L680 "Barroco Fetish" - Bikini - Bikini Baroque Fetish - bronce + oro — Monoblock - platform) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **680** | Wine Baroque Domme (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lenceria - Lenceria Fetish Baroque Domme - vino — Monoblock - stiletto + medias) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
+| **681** | Amethyst Moonlit Countess (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Gala - Gala Vampiress - amatista violeta — Monoblock - stiletto) | — | Gala | — | — | 0/7 | ⏳ Pendiente |
+| **682** | Emerald Venom Boudoir (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lenceria - Lenceria Vampiress Boudoir - esmeralda — Monoblock - platform + medias) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
+| **683** | Sapphire Frost Seductress (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Escort - Escort Vampiress - zafiro + plata — Contraste - stiletto) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **684** | Magenta Hypnosis (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Nightclub - Nightclub Vampiress - magenta eléctrico + negro — Contraste - platform) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **685** | Pale Immortal Executive (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Corporate - Corporate Vampiress Domme - marfil perla + gunmetal — Contraste - stiletto) | — | Corporate | — | — | 0/7 | ⏳ Pendiente |
+| **686** | Obsidian Sculptural Nocturne (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - HF Editorial - HF Vampiress Sculptural - obsidiana negro — Monoblock - stiletto) | — | HF Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **687** | Cobalt Midnight Bombshell (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Pin-Up - Pin-Up Vampiress Bombshell - cobalto + negro — Contraste - stiletto + medias) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
+| **688** | Crystal Chrome Vampire Stage (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Stripper - Stripper Pole Vampiress - chrome gold + cristal — Contraste - platform) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **689** | Aquamarine Ice Nymph (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Bikini - Bikini Vampiress Fetish - aquamarina — Monoblock - platform) | — | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **690** | Plum Sovereign (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lenceria - Lenceria Fetish Vampiress Domme - ciruela + negro — Contraste - stiletto + medias) | — | Lenceria | — | — | 0/7 | ⏳ Pendiente |
+| **691** | Bubblegum Latex Bombshell (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Bombshell Â· rosa chicle â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **692** | Rose Gold Metallic Vixen (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Retro-Futurism Â· rose gold metÃ¡lico â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **693** | Coral Pink Polkadot Darling (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Decade Glam Â· rosa coral + blanco â€” Contraste) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **694** | Neon Fuchsia Sweat Glam (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Glam Â· neÃ³n fucsia â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **695** | Dusty Rose Athletic Skort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Tennis Glam Â· dusty rose + blanco â€” Contraste) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **696** | Champagne Pink Liquid Escort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Haute Â· rosa champagne metÃ¡lico â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **697** | Raspberry Pink Latex Siren (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Siren Â· rosa frambuesa â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **698** | Hot Magenta Crystal Cage (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper VIP Â· hot magenta + cristal â€” Contraste) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **699** | Baby Pink PVC Tease (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper Stage Â· rosa bebÃ© â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **700** | Cerise Sequin All Nighter (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Nightclub Â· Nightclub Glam Â· rosa cereza â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
 
 ---
 
@@ -491,20 +521,20 @@
 ### Alfombra Roja / Gala (10 looks)
 **261**, **262**, **263**, **264**, **271**, **272**, **286**, **291**, **295**, **300**
 
-### Bikini (38 looks)
-**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**, **609**, **619**, **623**, **629**, **631**, **635**, **647**, **660**, **664**
+### Bikini (40 looks)
+**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**, **609**, **619**, **623**, **629**, **631**, **635**, **647**, **660**, **664**, **679**, **689**
 
-### Corporate (32 looks)
-**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**, **472**, **488**, **494**, **508**, **521**, **545**, **562**, **588**, **592**, **597**, **605**, **615**, **624**, **644**, **655**, **668**
+### Corporate (34 looks)
+**259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**, **472**, **488**, **494**, **508**, **521**, **545**, **562**, **588**, **592**, **597**, **605**, **615**, **624**, **644**, **655**, **668**, **675**, **685**
 
 ### Domestic (38 looks)
 **234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**, **439**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **470**, **505**, **514**, **526**, **539**, **568**, **575**, **590**, **649**, **663**
 
-### Escort (44 looks)
-**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**, **432**, **477**, **487**, **492**, **504**, **511**, **524**, **532**, **549**, **551**, **567**, **574**, **581**, **593**, **628**, **636**, **641**, **650**, **657**, **662**
+### Escort (46 looks)
+**223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**, **432**, **477**, **487**, **492**, **504**, **511**, **524**, **532**, **549**, **551**, **567**, **574**, **581**, **593**, **628**, **636**, **641**, **650**, **657**, **662**, **673**, **683**
 
-### Gala (1 looks)
-**670**
+### Gala (3 looks)
+**670**, **671**, **681**
 
 ### Gym (26 looks)
 **205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**, **421**, **422**, **430**, **648**, **667**
@@ -515,8 +545,8 @@
 ### Gym/Athleisure (18 looks)
 **435**, **436**, **473**, **490**, **498**, **519**, **529**, **537**, **553**, **564**, **595**, **600**, **601**, **602**, **611**, **612**, **626**, **638**
 
-### HF Editorial (3 looks)
-**258**, **440**, **658**
+### HF Editorial (5 looks)
+**258**, **440**, **658**, **676**, **686**
 
 ### High-Fashion (4 looks)
 **383**, **393**, **405**, **406**
@@ -524,8 +554,8 @@
 ### High-Fashion Editorial (19 looks)
 **369**, **378**, **478**, **489**, **491**, **502**, **517**, **523**, **530**, **531**, **541**, **546**, **555**, **560**, **563**, **566**, **572**, **579**, **583**
 
-### Lenceria (12 looks)
-**438**, **495**, **499**, **501**, **510**, **516**, **520**, **522**, **528**, **653**, **654**, **669**
+### Lenceria (16 looks)
+**438**, **495**, **499**, **501**, **510**, **516**, **520**, **522**, **528**, **653**, **654**, **669**, **672**, **680**, **682**, **690**
 
 ### Lencería (53 looks)
 **200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**, **475**, **483**, **484**, **535**, **540**, **542**, **550**, **558**, **561**, **570**, **571**, **580**, **584**, **596**, **598**, **606**, **607**, **616**, **617**, **621**, **630**, **632**, **637**, **645**
@@ -533,51 +563,54 @@
 ### Mix (18 looks)
 **201**, **202**, **203**, **204**, **206**, **207**, **208**, **210**, **211**, **212**, **213**, **214**, **215**, **216**, **217**, **218**, **219**, **220**
 
-### Nightclub (44 looks)
-**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**, **603**, **604**, **613**, **614**, **627**, **642**, **656**, **661**
+### Nightclub (46 looks)
+**230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**, **603**, **604**, **613**, **614**, **627**, **642**, **656**, **661**, **674**, **684**
 
-### Pin-Up (38 looks)
-**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**, **476**, **497**, **503**, **515**, **569**, **573**, **586**, **587**, **610**, **620**, **625**, **634**, **640**, **646**, **659**, **666**
+### Pin-Up (40 looks)
+**221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**, **476**, **497**, **503**, **515**, **569**, **573**, **586**, **587**, **610**, **620**, **625**, **634**, **640**, **646**, **659**, **666**, **677**, **687**
 
 ### Pin-Up & Retro (4 looks)
 **534**, **547**, **554**, **559**
 
-### Stripper (58 looks)
-**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**, **622**, **633**, **639**, **643**, **651**, **652**, **665**
+### Sin categoría (10 looks)
+**691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**
+
+### Stripper (60 looks)
+**226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**, **622**, **633**, **639**, **643**, **651**, **652**, **665**, **678**, **688**
 
 ---
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (69 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**, **621**, **625**, **634**, **640**, **641**, **643**, **651**, **656**, **659**, **666**
+### Rojo / Cherry / Crimson (71 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**, **621**, **625**, **634**, **640**, **641**, **643**, **651**, **656**, **659**, **666**, **671**, **677**
 
-### Rosa / Hot Pink (25 looks)
-**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**, **601**, **629**
+### Rosa / Hot Pink (35 looks)
+**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**, **601**, **629**, **691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**
 
-### Magenta / Fucsia (16 looks)
-**211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **513**, **528**, **538**, **608**, **629**, **633**
+### Magenta / Fucsia (19 looks)
+**211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **513**, **528**, **538**, **608**, **629**, **633**, **684**, **694**, **698**
 
-### Violeta / Lila (17 looks)
-**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **524**, **539**, **547**, **565**, **572**, **600**, **626**, **649**
+### Violeta / Lila (19 looks)
+**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **524**, **539**, **547**, **565**, **572**, **600**, **626**, **649**, **674**, **681**
 
-### Azul / Cyan / Zafiro (36 looks)
-**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**, **602**, **615**, **624**, **631**, **635**, **636**
+### Azul / Cyan / Zafiro (39 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**, **602**, **615**, **624**, **631**, **635**, **636**, **678**, **683**, **687**
 
-### Verde / Esmeralda (32 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**
+### Verde / Esmeralda (34 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**, **673**, **682**
 
-### Dorado / Bronce (47 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **623**, **628**, **632**
+### Dorado / Bronce (52 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **623**, **628**, **632**, **672**, **679**, **688**, **692**, **696**
 
-### Plateado / Plata (53 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **657**, **658**, **660**, **668**
+### Plateado / Plata (55 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **657**, **658**, **660**, **668**, **683**, **688**
 
-### Blanco / Crema (48 looks)
-**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **461**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **500**, **501**, **502**, **512**, **535**, **555**, **559**, **564**, **573**, **580**, **584**, **585**, **593**, **597**, **600**, **605**, **609**, **615**, **625**, **626**, **655**, **663**
+### Blanco / Crema (51 looks)
+**243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **461**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **500**, **501**, **502**, **512**, **535**, **555**, **559**, **564**, **573**, **580**, **584**, **585**, **593**, **597**, **600**, **605**, **609**, **615**, **625**, **626**, **655**, **663**, **676**, **693**, **695**
 
-### Negro (dominante) (85 looks)
-**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**, **440**, **462**, **494**, **504**, **510**, **520**, **521**, **526**, **531**, **537**, **548**, **549**, **551**, **555**, **558**, **563**, **565**, **570**, **576**, **579**, **586**, **591**, **592**, **595**, **596**, **597**, **598**, **601**, **602**, **603**, **604**, **605**, **606**, **607**, **608**, **609**, **610**, **611**, **612**, **613**, **614**, **616**, **618**, **620**, **621**, **622**, **627**, **630**, **636**, **637**, **640**, **641**, **651**, **652**, **654**, **656**, **659**, **661**, **662**, **663**, **664**, **665**, **666**, **667**, **668**, **669**, **670**
+### Negro (dominante) (91 looks)
+**205**, **213**, **249**, **266**, **281**, **284**, **287**, **289**, **300**, **334**, **360**, **431**, **432**, **433**, **435**, **437**, **438**, **439**, **440**, **462**, **494**, **504**, **510**, **520**, **521**, **526**, **531**, **537**, **548**, **549**, **551**, **555**, **558**, **563**, **565**, **570**, **576**, **579**, **586**, **591**, **592**, **595**, **596**, **597**, **598**, **601**, **602**, **603**, **604**, **605**, **606**, **607**, **608**, **609**, **610**, **611**, **612**, **613**, **614**, **616**, **618**, **620**, **621**, **622**, **627**, **630**, **636**, **637**, **640**, **641**, **651**, **652**, **654**, **656**, **659**, **661**, **662**, **663**, **664**, **665**, **666**, **667**, **668**, **669**, **670**, **675**, **677**, **684**, **686**, **687**, **690**
 
 ### Naranja / Coral Neón (17 looks)
 **301**, **347**, **394**, **400**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **470**, **537**, **554**, **573**, **599**
@@ -852,6 +885,36 @@
 | **654** | Noir Boudoir Sadist (22/06/2026 - batch L651-L660 "Dominatrices" - Lenceria - Lenceria Boudoir Noir - negro + marfil + oro — Contraste - platform) | 1/7 | ⏳ Pendiente |
 | **655** | Ivory Power Viper (22/06/2026 - batch L651-L660 "Dominatrices" - Corporate - Corporate Office Domme - marfil — Monoblock - platform) | 0/7 | ⏳ Pendiente |
 | **656** | Obsidian Crystal Predator (22/06/2026 - batch L651-L660 "Dominatrices" - Nightclub - Nightclub Crystal Dominatrix - negro + rhinestone cristal — Contraste - platform) | 5/7 | ⏳ Pendiente |
+| **671** | Oxblood Baroque Empress (30/06/2026 - batch L671-L680 "Barroco Fetish" - Gala - Gala Baroque Empress - oxblood + oro antiguo — Contraste - stiletto) | 0/7 | ⏳ Pendiente |
+| **672** | Gold Filigree Boudoir (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lenceria - Lenceria Boudoir Baroque - oro antiguo + marfil — Contraste - platform + medias) | 0/7 | ⏳ Pendiente |
+| **673** | Emerald Versailles Courtesan (30/06/2026 - batch L671-L680 "Barroco Fetish" - Escort - Escort Baroque Courtesan - esmeralda — Monoblock - stiletto) | 0/7 | ⏳ Pendiente |
+| **674** | Royal Purple Baroque Vinyl (30/06/2026 - batch L671-L680 "Barroco Fetish" - Nightclub - Nightclub Baroque Vinyl - purpura real + oro — Contraste - platform) | 0/7 | ⏳ Pendiente |
+| **675** | Onyx Baroque Coat-Dress (30/06/2026 - batch L671-L680 "Barroco Fetish" - Corporate - Corporate Baroque Domme - negro — Monoblock - stiletto) | 0/7 | ⏳ Pendiente |
+| **676** | Ivory Baroque Cuirass (30/06/2026 - batch L671-L680 "Barroco Fetish" - HF Editorial - HF Baroque Sculptural - marfil — Monoblock - stiletto) | 0/7 | ⏳ Pendiente |
+| **677** | Crimson Baroque Bombshell (30/06/2026 - batch L671-L680 "Barroco Fetish" - Pin-Up - Pin-Up Baroque Bombshell - carmesi + negro + oro — Triada - stiletto + medias) | 0/7 | ⏳ Pendiente |
+| **678** | Sapphire Baroque Stage (30/06/2026 - batch L671-L680 "Barroco Fetish" - Stripper - Stripper Pole Baroque - zafiro + oro + cromo — Contraste - platform) | 0/7 | ⏳ Pendiente |
+| **679** | Bronze Baroque Bath (30/06/2026 - batch L671-L680 "Barroco Fetish" - Bikini - Bikini Baroque Fetish - bronce + oro — Monoblock - platform) | 0/7 | ⏳ Pendiente |
+| **680** | Wine Baroque Domme (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lenceria - Lenceria Fetish Baroque Domme - vino — Monoblock - stiletto + medias) | 0/7 | ⏳ Pendiente |
+| **681** | Amethyst Moonlit Countess (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Gala - Gala Vampiress - amatista violeta — Monoblock - stiletto) | 0/7 | ⏳ Pendiente |
+| **682** | Emerald Venom Boudoir (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lenceria - Lenceria Vampiress Boudoir - esmeralda — Monoblock - platform + medias) | 0/7 | ⏳ Pendiente |
+| **683** | Sapphire Frost Seductress (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Escort - Escort Vampiress - zafiro + plata — Contraste - stiletto) | 0/7 | ⏳ Pendiente |
+| **684** | Magenta Hypnosis (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Nightclub - Nightclub Vampiress - magenta eléctrico + negro — Contraste - platform) | 0/7 | ⏳ Pendiente |
+| **685** | Pale Immortal Executive (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Corporate - Corporate Vampiress Domme - marfil perla + gunmetal — Contraste - stiletto) | 0/7 | ⏳ Pendiente |
+| **686** | Obsidian Sculptural Nocturne (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - HF Editorial - HF Vampiress Sculptural - obsidiana negro — Monoblock - stiletto) | 0/7 | ⏳ Pendiente |
+| **687** | Cobalt Midnight Bombshell (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Pin-Up - Pin-Up Vampiress Bombshell - cobalto + negro — Contraste - stiletto + medias) | 0/7 | ⏳ Pendiente |
+| **688** | Crystal Chrome Vampire Stage (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Stripper - Stripper Pole Vampiress - chrome gold + cristal — Contraste - platform) | 0/7 | ⏳ Pendiente |
+| **689** | Aquamarine Ice Nymph (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Bikini - Bikini Vampiress Fetish - aquamarina — Monoblock - platform) | 0/7 | ⏳ Pendiente |
+| **690** | Plum Sovereign (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lenceria - Lenceria Fetish Vampiress Domme - ciruela + negro — Contraste - stiletto + medias) | 0/7 | ⏳ Pendiente |
+| **691** | Bubblegum Latex Bombshell (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Bombshell Â· rosa chicle â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **692** | Rose Gold Metallic Vixen (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Retro-Futurism Â· rose gold metÃ¡lico â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **693** | Coral Pink Polkadot Darling (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Decade Glam Â· rosa coral + blanco â€” Contraste) | 0/? | ⏳ Pendiente |
+| **694** | Neon Fuchsia Sweat Glam (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Glam Â· neÃ³n fucsia â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **695** | Dusty Rose Athletic Skort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Tennis Glam Â· dusty rose + blanco â€” Contraste) | 0/? | ⏳ Pendiente |
+| **696** | Champagne Pink Liquid Escort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Haute Â· rosa champagne metÃ¡lico â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **697** | Raspberry Pink Latex Siren (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Siren Â· rosa frambuesa â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **698** | Hot Magenta Crystal Cage (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper VIP Â· hot magenta + cristal â€” Contraste) | 0/? | ⏳ Pendiente |
+| **699** | Baby Pink PVC Tease (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper Stage Â· rosa bebÃ© â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **700** | Cerise Sequin All Nighter (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Nightclub Â· Nightclub Glam Â· rosa cereza â€” Monoblock) | 0/? | ⏳ Pendiente |
 
 ---
 

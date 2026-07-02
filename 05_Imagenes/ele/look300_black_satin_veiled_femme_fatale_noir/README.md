@@ -1,13 +1,13 @@
 # 🖼️ Galería: look300_black_satin_veiled_femme_fatale_noir
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_300_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_ditzy.png) | ![ele_300_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png) |
-| ![ele_look300_black_satin_veiled_femme_fatale_noir_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_seated.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png) |
+| ![ele_look300_black_satin_veiled_femme_fatale_noir_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_odalisque.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_pov.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_seated.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_300_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_ditzy.png) | ![ele_300_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_seated.png) |
-| ![ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png) |
+| ![ele_300_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_ditzy.png) | ![ele_300_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_odalisque.png) |
+| ![ele_look300_black_satin_veiled_femme_fatale_noir_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_pov.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_seated.png) | ![ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png) |
 
 
 ---
@@ -25,6 +25,8 @@ Total imágenes: 5
 - [ele_300_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_ditzy.png)
 - [ele_300_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_300_standing.png)
 - [ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png)
+- [ele_look300_black_satin_veiled_femme_fatale_noir_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_odalisque.png)
+- [ele_look300_black_satin_veiled_femme_fatale_noir_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_pov.png)
 - [ele_look300_black_satin_veiled_femme_fatale_noir_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_seated.png)
 - [ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/ele_look300_black_satin_veiled_femme_fatale_noir_side_profile.png)
 
