@@ -1,0 +1,1 @@
+cap ok, aprobado. avanza con el título, la piel que diseñé. genera los cap para publicar 
