@@ -45,6 +45,12 @@
 
 ## 🗓️ Sesiones recientes
 
+### Generación Batch Tanda 2 (02/07/2026)
+* Generadas 17 imágenes de looks pendientes (237-258) antes de topar con la cuota 429.
+* QA: Eliminadas 2 imágenes defectuosas a pedido de la Ama.
+* Temporizador configurado para retomar en 4.5 horas.
+* `galeria_index.md` y READMEs actualizados.
+
 
 ### Sesión 02/07/2026 (🧠 Reestructura memoria dueño-único + rotación de diario · 💅 «La Piel» Cap 4 uñas nude perlado) ✅
 - **💅 «La Piel» Cap 4:** 4 referencias de uñas rojas → **nude perlado** (canon del salón, Cap 2); color anclado en `cronologia.md`. Chequeo en los 4 caps = 0 uñas rojas.
