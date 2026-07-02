@@ -6,6 +6,15 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 29/06/2026 (📐 «La Piel» Cap 2 canon cerrado — 6 decisiones + T° doble + resistencia continua) ✅
+- **6 decisiones canon Cap 2:** salón (teñido/uñas/pestañas + **piercings pezones** por orden Daniela) · ropa calle brillante/ajustada · camarín hot pants + bikini top + tacones 7"+ · Daniela+Sebastián VIP (whisky/habanos/"cosas de hombres") · Sebastián baja a mitad del entrenamiento · privado → Cap 3.
+- **T° = doble Cap 1 (inviolable):** 3 escaladas (piercings / Bárbara escala / mirada Sebastián → primera palabra + descarga parcial).
+- **Resistencia continua:** hilo interno de Matías en todo el cap sin resolverse — coexiste con el calor y lo multiplica. Commits `c761fce2`→`a9b18113`.
+
+### Sesión 29/06/2026 (📲 «La app» APROBADA + FINALIZADA · «La Piel» Cap 1 v0.4 APROBADO) ✅
+- **📲 «La app» aprobada:** Cap 3 v0.5 aprobado verbalmente por la Ama. El bot ya había compilado en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/` (3 caps canónicos + epílogo integrado + HTML `_publicacion/`). 40 relatos en Finalizadas.
+- **🔧 «La Piel» Cap 1 v0.4 APROBADO:** Gate v0.3 tenía 6 correcciones + aprobación condicional. Aplicadas: POV manos (elegiste/ibas→quererme) · Dani = así le decía yo a ella · pezones me los hiciste grandes · dueño→dueña fix masculino · escena vestirse nueva · gramática. v0.3 → `borradores/`; notas Gate v0.2+v0.3 → `reportes/`. Commit `0094b156`. ⏳ Cap 2 en espera.
+
 ### Sesión 27/06/2026 (✍️ «La Piel» Cap 1 v0.3 · Gate Ama aplicado 6/6 · Validador APROBADO 9.5/9.3) ✅
 - **📋 Gate de la Ama (NO aprobación, 6 correcciones):** Dani sola primero + piercing ombligo · resistencia real/bimbo lento · Daniela descubre su poder gradual · contrato = venganza dulce ×1000 · motivo de plata · cierre en dilema abierto.
 - **🪙 Decisión Ama (motor de plata) = Opción 1:** Daniela tiene todo (es Matías ante el mundo) + cláusula penal ruinosa que él mismo redactó. Jaula = el body-swap; venganza redonda.
