@@ -1,1 +1,1 @@
-Así me la chupabas tú a mí cuando querías que te diera permiso de algo. ¿Te acordái? Igualita. Solo que tú nunca pusiste esta cara está rara esa frase
+Así me la chupabas tú a mí cuando querías que te diera permiso de algo. ¿Te acordái? Igualita. Solo que tú nunca pusiste esta cara está rara esa frase, arregla eso y cap aprobado 
