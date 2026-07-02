@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 30/06/2026 (🛠️ Motor de poses reparado de raíz · 🎨 Batch L671-L680 "Barroco Fetish") ✅
+- **Bug detectado por la Ama:** poses repetidas + manos malas + **POV tomado literal** (point-of-view) en vez del retrato sensual de Instagram que se definió el 09/06.
+- **Causa raíz:** los inyectores viejos (`_gen_batch_651.py` + clon L661-670) **no usaban `rotate_poses`** → clonaban 1 plantilla en los 10 looks (repetición) y **hardcodeaban** el POV literal + el ancla "two hands".
+- **Fixes en la fuente (4 archivos):** `pose_rotation_v5.py` (HANDS_ANCHOR sin "two hands" = adiós mano fantasma en close-ups · POV 5→8 · guard `POV_BAD`) · `generar_look.md:72` (POV literal → retrato IG) · `dna_v3_5.md` (negative base enriquecido + reescritura de la nota POV de abril que seguía siendo literal) · `pose_repertoire_v5.md §6`.
+- **🎨 Batch L671-L680 "Barroco Fetish"** generado con el motor limpio: corset + pelo en alto + lente fetish en 10 sub-arquetipos. Poses rotadas de verdad. **QA verde** (0 guantes/chunky/POV-literal, corset ×10, calzado ×7, ancla por slot). Flota **L670→L680**.
+- **Auto-memoria** `feedback_pov_retrato_ig_no_literal`. Regla dura: todo inyector usa `rotate_poses`.
+
 ### Sesión 30/06/2026 (✍️ «La Piel» Cap 2 v0.1 COMPLETO 4/4 · 2 directivas nuevas: amenaza de la verga + cierre oral/coño/anal/tetas 1000cc · ⚠️ flag temporal) ✅
 - **Lancé al Escritor sobre el Cap 2** (canon ya cerrado por la máquina paralela; pull al día, Cap 1 en v0.4). MODO TRAMO 4 tramos.
 - **2 directivas nuevas de la Ama a mitad** (grabadas en canon antes de seguir): (1) **amenaza de la verga** transversal (H18) — Daniela tiene la de Matías, promete hacérsela probar/gustar; Dani rechaza/se cuestiona; (2) **el cap TERMINA en sexo Daniela–Dani** (oral/coño/anal **+ entre las tetas de 1000cc**), Dani **entregada a su cuerpo**, le gusta en cada parte con horror. Daniela administra, Dani NO pide (queda p/ Cap 3); sábado de Sebastián sigue siendo clímax mayor.

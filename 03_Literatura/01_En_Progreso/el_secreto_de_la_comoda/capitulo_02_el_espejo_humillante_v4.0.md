@@ -1,21 +1,5 @@
 # Capítulo 2: El Espejo Humillante
 
-## 📋 Control de Versión
-| Campo | Valor |
-|-------|-------|
-| Versión | v4.0 |
-| Estado | BORRADOR — PENDIENTE GATE AMA |
-| Base | idea_maestro_v4.2 + Cap 1 canon (Gold Master) |
-| Fecha | 2026-07-02 |
-
-### 📜 Historial
-| Versión | Fecha | Cambios |
-|---------|-------|---------|
-| v3.1 | 2026-06-02 | Montaje de 7 días (RECHAZADO por la Ama: "nunca me calentó") |
-| v4.0 | 2026-07-02 | Cirugía estructural total: 3 movimientos con curva real, estribillo roto, registro del cuerpo variado por peldaño, motor Andrés reactivado (posesión reservada al Cap 3), carne concreta sobre la abstracción, Isabel con hambre y arco. Prosa pura. |
-
----
-
 De vuelta en Vitacura, el primer lunes después de Zapallar, Ricardo despertó antes que la alarma, y despertó preso.
 
 No dolía. Habría preferido que doliera —el dolor se archiva, se administra, se receta—. Lo que había entre sus piernas no era dolor sino presencia: el armazón de acero de la Tía Anaís ocupando, tibio y exacto, el lugar que durante cuarenta y cinco años había dado por suyo sin pensarlo. Se había despertado duro. O lo que el candado permitía de duro: una hinchazón sorda, represada, la sangre juntándose contra el metal como agua contra una compuerta cerrada con una llave que él no tenía. La verga empujaba desde adentro. El acero la devolvía a su sitio. Y esa pelea muda fue lo primero que supo del día, antes que el frío de las sábanas de hilo, antes que el hueco tibio en el colchón donde Isabel ya no estaba.

@@ -1,279 +1,33 @@
-# Walkthrough: El Secreto de la Cómoda
-
-## Estado Actual
-- **Fase:** 4 — Escritura (reescritura total por orden de la Ama)
-- **Capítulo Activo:** 2
-- **Archivo Activo:** `capitulo_2_el_espejo_humillante_v2.0.md`
-- **Versión anterior archivada:** `borradores/capitulo_2/capitulo_2_el_espejo_humillante_v1.2.md`
-- **Motivo de reescritura:** La Ama rechazó v1.2 por acumulación desordenada. v2.0 parte desde cero con estructura de 6 días completos (Lunes–Sábado), resistencia día a día, transformación progresiva y todos los COMPROMISOS del arco integrados.
-- **Próxima Acción:** Gate Ama sobre v2.0 → aprobación → renombrar `capitulo_2_maestro_v2.md` → iniciar Cap 3
-
-## Historial de Fases (Capítulo 2)
-| Fase | Estado | Fecha | Nota |
-|------|--------|-------|------|
-| 1 - Concepción | ✅ | 07/04 | Arco reestructurado |
-| 2 - Arquitectura | ✅ | 07/04 | `arco_maestro_v4.2.md` INVIOLABLE |
-| 3 - Personajes | ✅ | 07/04 | `personajes_maestro_v4.2.md` |
-| 4 - Escritura | ⏳ | 06/05 | REESCRITURA TOTAL v2.0 — 6 días completos (Lun–Sáb), 6.340 palabras |
-| 5 - Auditoría | ⬜ | — | Pendiente |
-| 6 - Refinamiento | ⬜ | — | Pendiente |
-| 7 - Centinela | ⬜ | — | Pendiente |
-| 8 - Entrega | ⬜ | — | Pendiente Gate Ama |
-
-## Índice de Archivos
-- `idea_maestro_v4.2.md`
-- `arco_maestro_v4.2.md` — INVIOLABLE desde 07/04
-- `personajes_maestro_v4.2.md`
-- `linea_de_tiempo_maestra.md`
-- `capitulo_1_maestro_v4.2.md` — Gold Master Cap 1 ✅
-- `capitulo_2_el_espejo_humillante_v2.0.md` — ACTIVO (pendiente Gate Ama) — reescritura total 06/05/2026
-
----
-
-# Detalle del Arco — Reestructuración del 07/04/2026
-
-**Estado arco:** Aprobado por la Ama ✓
-**Fecha:** 2026-04-07
-**Agente:** Orquestador v4.4
-
----
-
-## Estado Actual del Capítulo 2
-
-- **Versión activa:** `capitulo_2_el_espejo_humillante_v1.0.md` 💎
-- **Fecha de finalización:** 2026-04-22
-- **Crítico:** `APROBADO` — 10/10
-- **Contador:** `✅ CANÓNICO Y FINALIZADO`
-- **Centinela:** `✅ APROBADO`
-- **Cirugía Ejecutada:** Se completó la expansión quirúrgica diaria (Martes a Sábado). Cada jornada tiene ahora su propia textura sensorial y función psicológica:
-    - **Martes:** Depilación y pérdida de la armadura masculina.
-    - **Miércoles:** Servidumbre doméstica y pedagogía del control (Dildo tease).
-    - **Jueves:** Entrenamiento técnico (Maquillaje, peluca, oralidad).
-    - **Viernes:** Humillación ejecutiva (Llamada con Andrés).
-    - **Sábado:** El Ritual de Anaïs, penetración y el nacimiento de Rocío mediante la descarga espectacular provocada por su nombre.
-
----
-
-## 📋 Resumen de la Gran Cirugía (Completada)
-
-La reestructuración interna solicitada por la Ama ha sido ejecutada con éxito. El Capítulo 2 ya no es un resumen temporal, sino una inmersión profunda en la semana de transformación de Ricardo.
-
-### Hitos Logrados:
-- **Continuidad del Lunes:** Se preservó el impacto inicial de la oficina en castidad.
-- **Escalada Ritual:** Cada día aporta un nuevo ladrillo a la celda de Rocío.
-- **Punto de Quiebre:** La escena del Sábado se intensificó con la descarga espectacular y la aceptación de la identidad de Rocío frente al espejo de Vitacura.
-- **Contraste de Poder:** Se reforzó la dislocación de Ricardo durante la llamada de Andrés, subrayando su fragilidad estética frente a la virilidad del rival.
-
----
-
-## Resumen de Cambios Solicitados
-
-La Ama ha solicitado modificar el **arco argumental** con los siguientes cambios:
-
-1. **Nueva escena de apertura:** Ricardo cierra un trato triunfando sobre Andrés (nuevo personaje, rival profesional)
-2. **Segunda llamada misteriosa:** Ricardo llama para celebrar y pide "preparar el conjunto negro"
-3. **Reveal dramático:** El "conjunto negro" era lencería que Ricardo iba a usar, no para la amante
-4. **Cena final con Andrés:** Presentación de Ricardo feminizado ante su rival
-5. **Cierre de poder invertido:** Andrés le dice que ahora él está por encima
-
----
-
-## Nueva Premisa
-
-Ricardo Marchetti, ejecutivo triunfador, aplasta a su rival profesional Andrés en una negociación telefónica. Cree estar en la cima del poder. En paralelo, programa una noche de celebración secreta donde él mismo usará el "conjunto negro" de lencería. Isabel, su esposa, lo chantajea con las fotos de Camila y orquesta su feminización. El entrenamiento ocurre. En la cena final, Isabel presenta a Rocío ante Andrés — el mismo rival que Ricardo creía haber derrotado. Andrés ahora tiene el control. La inversión del poder es total: profesional y sexual en un solo cierre.
-
----
-
-## Nuevo Arco Argumental Propuesto
-
-### ESTRUCTURA: 3 ACTOS / 6 CAPÍTULOS
-
----
-
-### ACTO I: El Falso Trono
-
-#### Capítulo 1: La Llamada Triunfadora (~3,500 palabras)
-
-**Escena A — Apertura:**
-Ricardo en su oficina, llamada telefónica con inversores. Aplasta a Andrés en una negociación. Frase triunfadora: *"Ricardo siempre va a estar sobre Andrés."* Cierra el trato. Sensación de poder absoluto.
-
-**Escena B — La Segunda Llamada:**
-Ricardo hace otra llamada. Tono distinto, íntimo. *"Esperame. Quiero celebrar. Prepara el conjunto negro."* El lector asume: lencería para la amante.
-
-**Escena C — El Baúl de Anaís:**
-Isabel lo lleva al sótano de Zapallar. El baúl. El primer corsé. El primer corchete. El cuerpo de Ricardo traiciona. El orgasmo sobre el encaje vintage.
-
-**Escena D — El Reveal de Isabel:**
-Después del primer corchete, Isabel revela que sabía. *"Hace dos meses una mujer me contó exactamente lo que ibas a sentir."* El chantaje: las fotos de Camila.
-
-**Punto de Inflexión:** Ricardo pierde dos territorios en un solo día: el profesional (la humillación que viene) y el secreto (el fetiche ya no es suyo).
-
-> **Ironía dramática:** El lector ahora entiende que la segunda llamada era para Ricardo mismo. El "conjunto negro" era su lencería. La celebración que planeaba se convierte en su primer entrenamiento.
-
----
-
-#### Capítulo 2: El Espejo Humillante / El Conjunto Negro (~4,000+ palabras)
-
-**Escena A — Vitacura:**
-Lunes AM tras Zapallar: primer impacto de oficina con cinturón de castidad, tanga negra y corsé de Anaís bajo el traje. Luego, Día 7 en Santiago, Isabel convierte el vestidor. Maquillaje 60s. Sujetador con relleno. La primera presentación visual completa.
-
-**Escena B — El Conjunto Negro:**
-Isabel abre un cajón. El mismo conjunto negro que Ricardo pidió en la llamada. *"Creíste que era para tu amante, gordi. Siempre fue para ti."* Lo viste ella.
-
-**Escena C — Primera Penetración:**
-Isabel usa la correa de cuero de Anaís. Ricardo maquillado y con el conjunto negro es penetrado. Obligado a mirarse al espejo.
-
-**Escena D — El Nombre:**
-Primera vez que Isabel lo llama "Rocío" durante el sexo. El nombre entra en el cuerpo, no solo en el oído.
-
-**Punto de Inflexión:** El cuerpo responde al nombre nuevo. La traición es total. Ricardo no puede pretender que esto le fue impuesto — lo buscó.
-
----
-
-### ACTO II: La Despersonalización Sistemática
-
-#### Capítulo 3: La Esclava del Nylon (~4,500 palabras)
-
-**Escena A — Régimen 24/7:**
-Faja, medias, tacones de aguja permanentes. El cuerpo empieza a cambiar bajo la presión constante.
-
-**Escena B — Hipnosis con Cintas de Anaís:**
-Isabel reproduce las cintas grabadas. La voz de Anaís disolviendo la masculinidad. Sesiones nocturnas obligatorias.
-
-**Escena C — Alberto (Testigo del Canon):**
-Alberto visita. Primera mirada externa sobre Rocío. El circuito vergüenza/excitación se activa ante un tercero.
-
-**Punto de Inflexión:** Ricardo deja de responder a su nombre. Solo atiende cuando Isabel lo llama "Rocío."
-
----
-
-#### Capítulo 4: El Banquete de la Sumisión (~5,000 palabras)
-
-**Escena A — Preparativos:**
-Rocío debe servir la cena de rodillas. Vestido de cóctel ultra ajustado. Faja que reduce la cintura.
-
-**Escena B — La Cena con Andrés:**
-Andrés es el invitado. Rocío sirve. Es utilizada oralmente por Isabel ante los ojos de Andrés. La humillación ante su rival profesional.
-
-**Escena C — El Orgasmo Pasivo:**
-Rocío eyacula sin tocarse, solo por la humillación y el roce de la seda, mientras Andrés observa.
-
-**Punto de Inflexión:** La aceptación: su placer solo existe a través de la voluntad de Isabel y su identidad femenina. La presencia de Andrés acelera la rendición.
-
----
-
-### ACTO III: La Inversión del Poder
-
-#### Capítulo 5: El Peinado Eterno (~4,500 palabras)
-
-**Escena A — Peluquero:**
-Isabel lleva un peluquero que "fija" el peinado de Rocío con laca industrial. El look permanente.
-
-**Escena B — Quema de la Ropa de Hombre:**
-Ricardo presencia la quema de su traje de bodas y su traje ejecutivo. Su identidad anterior en cenizas.
-
-**Escena C — El Tatuaje:**
-Isabel le tatúa una marca de propiedad en el muslo, oculto bajo el liguero. El sello de Anaís.
-
-**Punto de Inflexión:** Destrucción física de la identidad anterior. El tatuaje como sello permanente.
-
----
-
-#### Capítulo 6: La Consagración Final (~4,000 palabras)
-
-**Escena A — Preparativos Especiales:**
-Isabel prepara a Rocío con esmero particular. *"Esta noche es especial."* Un nuevo nivel de maquillaje, un vestido más revelador.
-
-**Escena B — El Regreso de Andrés:**
-Andrés regresa — el mismo que presenció la cena del Cap. 4. Ahora viene por completo.
-
-**Escena C — La Entrega:**
-Isabel presenta a Rocío para uso completo de Andrés. *"Mi marido tenía algo que quería compartir contigo."* La ironía del poder invertido.
-
-**Escena D — El Cierre de Andrés:**
-Andrés toma posesión de Rocío. Le dice al oído: *"Ahora yo voy a estar sobre ti."* O variación que la Ama prefiera.
-
-**Escena E — La Consagración Final:**
-Rocío es follada por Andrés. Isabel observa. La inversión completa: el triunfador del Cap. 1 ahora es poseído por su rival.
-
-**Punto de Inflexión Final:** La inversión completa del poder. El hombre que cerró el trato triunfador sobre Andrés ahora está de rodillas ante él, feminizado, entregado. La frase del Capítulo 1 regresa invertida. Paz en la nada.
-
----
-
-## Línea de Tiempo Propuesta
-
-| Día | Hora | Evento | Capítulo |
-|-----|------|--------|----------|
-| 1 | 10:00 | Llamada triunfadora a Andrés | Cap. 1 |
-| 1 | 11:00 | Segunda llamada: "prepara el conjunto negro" | Cap. 1 |
-| 1 | 18:00 | Hallazgo del baúl y primera humillación | Cap. 1 |
-| 7 | 23:00 | El conjunto negro puesto por Isabel | Cap. 2 |
-| 15 | 21:00 | Hipnosis con cintas de Anaís | Cap. 3 |
-| 21 | 20:00 | La Cena con Andrés (primer encuentro como Rocío, solo observa) | Cap. 4 |
-| 30 | 10:00 | Quema de ropa, tatuaje, peinado permanente | Cap. 5 |
-| 35 | 22:00 | La Consagración Final: Andrés toma posesión de Rocío | Cap. 6 |
-
----
-
-## Puntos de Inflexión Actualizados
-
-| Estado | Porcentaje | Momento | Capítulo |
-|--------|------------|---------|----------|
-| RESISTENCIA | 15% | "Isabel, esto es demasiado" | Cap. 1 |
-| REVELACIÓN | 15% | Entender que el "conjunto negro" era para él, chantaje activado | Cap. 1-2 |
-| CONFUSIÓN | 40% | Excitación incontrolable al ser penetrado vestido de seda; el cuerpo responde al nombre "Rocío" sin aceptarlo todavía como identidad estable | Cap. 2 |
-| TRAICIÓN DEL CUERPO | 20% | El cuerpo responde a "Rocío" | Cap. 3-4 |
-| ACEPTACIÓN | 15% | "Por favor, Ama, déjame ser tu Rocío" | Cap. 5 |
-| INVERSIÓN FINAL | 15% | Andrés cierra el círculo del poder | Cap. 6 |
-
----
-
-## Personajes Actualizados
-
-### Personajes Existentes (sin cambios mayores)
-- **Ricardo Marchetti / Rocío** — Protagonista transformado
-- **Isabel Marchetti** — Dominante / Arquitecta
-- **Anaís (†)** — Fuerza estructural (voz en cintas)
-- **Camila Vidal** — Catalizador externo (fotos del chantaje)
-### Nuevo Personaje
-- **Andrés** — Rival profesional de Ricardo. Aplastado en Cap. 1. Presente en Cap. 4 (observa a Rocío servir y ser humillada) y Cap. 6 (toma posesión sexual completa). Representa la inversión total del poder: Ricardo creía haberlo derrotado, pero termina sometido a él.
-
-**Función narrativa de Andrés:**
-1. Establece el poder inicial de Ricardo (triunfo profesional, Cap. 1)
-2. Primer testigo externo de Rocío en Cap. 4 (acelera la humillación)
-3. En Cap. 6, completa la inversión del arco: quien perdió profesionalmente gana sexual y absolutamente
-4. Su frase final cierra el círculo con la frase del Capítulo 1
-
----
-
-## Relación de Poder Actualizada
-
-| Dinámica | Inicio | Final |
-|----------|--------|-------|
-| Ricardo vs. Andrés (profesional) | Ricardo triunfa, aplasta a Andrés | Andrés posee a Rocío |
-| Ricardo/Rocío vs. Isabel | Matrimonio aparente | Sumisión total a Isabel |
-| Ricardo/Rocío vs. Ricardo (self) | Identidad construida | Entrega total a Rocío |
-
----
-
-## Archivos que Necesitan Actualización
-
-1. **arco_argumental.md** — Reescritura completa con nuevo arco
-2. **idea_refinada_v2.md** — Actualizar premisa con el elemento de Andrés y el "conjunto negro"
-3. **fichas_personajes_v2.md** — Agregar ficha de Andrés, actualizar dinámicas de poder
-4. **linea_de_tiempo_maestra.md** — Actualizar con eventos del nuevo arco
-5. **walkthrough.md** — Este documento (actualizar según feedback de la Ama)
-
----
-
-## Pendiente de Aprobación
-
-Este walkthrough debe ser revisado por la Ama antes de proceder con los cambios.
-
-**Preguntas para la Ama:**
-1. ¿La frase final de Andrés es correcta (*"Ahora yo voy a estar sobre ti"*) o desea otra variación? ✓ **APROBADO**
-2. ¿El "conjunto negro" debe ser descrito con detalle específico (pieza por pieza)? ✓ **APROBADO**
-
----
-
-*Protocolo del Orquestador: La Voûte no solo escribe, orquesta el deseo.*
+# Walkthrough — El Secreto de la Cómoda
+> Estado vivo para resume en frío. El arco completo (6 caps) vive en `canon_relato.md §6`; la continuidad en `cronologia.md`. Aquí solo dónde estamos.
+
+## Estado Actual (02/07/2026)
+- **Engine:** Nivel 4 (Compositor → Escritor-N4 → Validador). Migración a Nivel 4 **completada** el 02/07 (se creó el `cronologia.md` que faltaba; docs de diseño v4.2 archivados en `_legacy_v4.2/`).
+- **Cap 1 «La Palabra sobre la Carne»:** 💎 **GOLD MASTER, CANON APROBADO** (`capitulo_01_la_palabra_sobre_la_carne_maestro_v1.0.md`). NO se toca. Fuente de verdad de voz y continuidad.
+- **Cap 2 «El Espejo Humillante» v4.0:** ✅ escrito (prosa pura) — **⏳ PENDIENTE Gate Ama + Validador.**
+- **Cap 3 en adelante:** por escribir (arrancan tras el Gate del Cap 2).
+
+## Por qué el Cap 2 está en v4.0 (cirugía estructural, 02/07)
+La Ama repudió el v3.1 ("el Cap 1 es canon, pero el Cap 2 nunca me calentó"). **Diagnóstico:** no era la prosa — era la estructura de **montaje de 7 días idénticos** (mismo beat protesta→traición del cuerpo→retiro, 5-6 veces = anestesia), la negación repetida hasta perder filo, el "coño hirviendo" abstracto en vez de carne concreta, Isabel vuelta checklist, y el **motor Andrés apagado**. El v4.0 rehace la arquitectura:
+1. **3 movimientos con curva real** (no 7 días planos): I oficina en castidad + Andrés · II el despojo (depilación→vestido→maquillaje, cuerpo de involuntario a auto-implicación) · III sábado (conjunto+arnés+nombre).
+2. **Estribillo roto** — el cuerpo responde distinto en cada peldaño; la resistencia decae (barítono → negocia → ruega).
+3. **Andrés reactivado y amartillado** (junta con sus abogados + llamada + Isabel plantando el banquete futuro), sin gastar la posesión (esa es Cap 4/6).
+4. **Carne concreta** sobre la abstracción; **Isabel con hambre** (savoréa fabricar a Rocío para Andrés).
+- v3.1 y todo el historial → `borradores/capitulo_02/`. Autoverif → `reportes/capitulo_02/autoverificacion_v4.0.md`.
+
+## Próxima Acción
+1. **Gate Ama del Cap 2 v4.0.** Si trae correcciones (llega como `nota_capitulo_02_..._vX.md`) → vuelve al Escritor-N4. Si aprueba → `capitulo_02_..._maestro_vX.md`.
+2. (Opcional, a orden de la Ama) pasar el **Validador** sobre v4.0 (ejes Inmersión + Continuidad + Narrativa + Temperatura + Voz).
+3. Con Gate → escribir **Cap 3 «La Esclava del Nylon»** (cintas de Anaís + régimen 24/7 + Alberto testigo).
+
+## Estructura de Carpeta (estándar Nivel 4)
+```
+canon_relato.md          — canon único (fuente del Escritor)
+cronologia.md            — Blindaje de Continuidad (calendario + Hechos Plantados + estado del cuerpo)
+walkthrough.md           — este archivo (estado vivo)
+capitulo_01_..._maestro_v1.0.md   — Cap 1 Gold Master (prosa pura)
+capitulo_02_..._v4.0.md           — Cap 2 activo (prosa pura)
+borradores/capitulo_0N/  — versiones supersedidas
+reportes/capitulo_0N/    — autoverificaciones + validaciones
+_legacy_v4.2/            — docs de diseño v4.6 (idea/arco/personajes/línea de tiempo/README) — referencia histórica
+```
