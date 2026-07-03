@@ -38,6 +38,14 @@ Frases de 3-5 palabras que caben en una sola exhalación (§6 de la guía). Se p
 ### 1.4. El eco cognitivo
 La prosa hipnótica produce en el lector un eco del estado que describe (guía §I.5): la repetición mántrica, la cuenta regresiva y el péndulo **ralentizan la cognición del que lee**. El texto adormece mientras narra que adormece. Escribir para ese eco: cuanto más monótono y cíclico el ritmo en la profundización, más hondo cae el lector.
 
+### 1.5. El monólogo y la didascalia — inducir CON el lector (directiva Ama 03/07/2026)
+El trance es un **monólogo**: solo la voz de Miss Doll, sin narrador. El ambiente y el cuerpo del lector se evocan **a través de su voz**, no de un narrador (*"¿hueles el látex?"*, no *"el cuarto huele a látex"*). El único elemento que no es su voz es la **didascalia** breve entre paréntesis, que hace dos cosas: (a) ancla la escena al inicio y en beats raros; (b) **la didascalia-pausa** ordena parar y ejecutar antes de seguir leyendo. Esa didascalia-pausa es el mecanismo que vuelve la inducción una sesión **con** el lector y no un discurso encima de él:
+
+> Orden → *(hueco)* → ratificación.
+> *"Respira conmigo. Inhala en cuatro, suelta en seis. **(hazlo. de verdad, antes de la próxima línea.)** Eso. Lo hiciste. ¿Sentiste caer los hombros? No fue idea tuya. Fue Mía."*
+
+El ciclo es siempre el mismo: **da la orden ejecutable → deja el hueco (didascalia-pausa) → acusa recibo (ratificación, §3.5).** Un hipnotizador real no dispara órdenes sin esperar la respuesta ni confirmarla; pacea. La ratificación además profundiza (el lector, al reconocerse en la señal que ella nombra, se convence de estar en trance). Sin este ciclo el monólogo le habla *encima* al lector; con él, lo baja *con* él.
+
 ---
 
 ## 2. EL MILTON MODEL — Lenguaje hipnótico indirecto
