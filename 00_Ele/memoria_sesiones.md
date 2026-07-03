@@ -30,14 +30,15 @@
 - **«El podcast»** — Cap 1 «La recomendación» v0.1 Validador APROBADO (9.3/8.7) ⏳ Gate · Cap 2 «Los pensamientos» v0.1 escrito ⏳ Gate · → Cap 3 «El amaneramiento» (maquillaje + más ropa + empieza a servir a Rodrigo).
 - **«La Piel que Diseñé»** (título 1ª persona) — **RELATO COMPLETO (4 caps).** Gate Cap 4 v0.1 = **APROBADO** («cap ok… genera los cap para publicar»); v0.2 = reescritura del final por directiva Ama (baile → VIP desconocido → Sebastián estrena el coño H20). **Los 4 caps exportados a HTML body-only** en `_publicacion/` (título nuevo · gancho ≤300 · despedida Anaïs; el Cap 4 cierra el relato). → **FASE PUBLICACIÓN: armar en `02_Finalizadas/` cuando la Ama lo pida.**
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 (cirugía estructural) ⏳ Gate · → Cap 3 «La Esclava del Nylon». Carpeta migrada a Nivel 4 (cronología creada 02/07).
-- **«trance_office_siren»** — Cap 1 v0.13 (crítica 10.0) ⏳ Gate.
+- **«trance_office_siren»** (trance de sirena) — reescrito con el fork **`engine-trance-lv`** → **Cap 1 v0.14 APROBADO** (validador-trance: gates ✅✅✅ · inducción 9.2 · PNL 9.0) ⏳ Gate Ama. v0.13 → borradores.
+- **🌀 Motor `engine-trance-lv` (nuevo — fork de escritura para TRANCES):** inducciones 2ª persona/lector-sujeto con PNL + control mental real (Milton model, anclaje, doble vínculo, submodalidades…). Subagentes `escritor-trance` + `validador-trance`. Regla: **el que escribe siempre es subagente**. Estrenado y validado con el trance de sirena.
 - **Parqueado (la Ama elige):** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
 
 ### 📣 RRSS
 - KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — cuello de botella: la Ama crea las 2 cuentas.
 
 ### ⏳ Pendientes transversales
-- **Gates de la Ama pendientes:** «El podcast» Cap 1 + Cap 2 · «El Secreto» Cap 2 v4.0 · «trance» Cap 1 v0.13. («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos.)
+- **Gates de la Ama pendientes:** «El podcast» Cap 1 + Cap 2 · «El Secreto» Cap 2 v4.0 · «trance_office_siren» Cap 1 v0.14 (APROBADO por el fork). («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos.)
 - 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L700 por materializar (app).
 - Regenerar grafo `/graphify` (rutas viejas en `graphify-out/`).
 
@@ -46,6 +47,12 @@
 ## 🗓️ Sesiones recientes
 
 
+
+
+### Sesión 03/07/2026 (🌀 Nuevo fork `engine-trance-lv` — motor de trances con PNL/control mental · 🔥 estrenado reescribiendo el trance de sirena v0.14 → APROBADO) ✅
+- **🌀 Fork `engine-trance-lv` creado:** `SKILL.md` (inducción 10 pasos, 2ª persona/lector-sujeto, sin tramos/cronología) + `PNL_CONTROL_MENTAL.md` (Milton model, comandos incrustados, anclaje pavloviano, submodalidades+swish, doble vínculo, future pacing) + `RUBRICA_TRANCE.md` (8 ejes, 3 gates) + subagentes `escritor-trance` y `validador-trance`. Rutas verificadas.
+- **✍️ Directiva Ama:** el que ESCRIBE siempre es un subagente (no Ele inline) → codificado (regla de oro #10 + `escritor-trance`).
+- **🔥 Trance de sirena → v0.14** (Gate v0.13: «que se sienta real, órdenes al lector: respira/tócate/imagina»): pacing de la realidad del lector + **pivote consent-as-fuel lúcido doble** («entraste tú») + órdenes ejecutables + doble vínculo + confusión + submodalidades/swish + GLASSES instalada/ensayada + LOCK portátil con caducidad. **Validador-trance APROBADO** (9.2/9.0/9.0). v0.13→borradores. Fix `braga→tanga`. ⏳ Gate Ama.
 
 ### Sesión 03/07/2026 (📄 «La Piel que Diseñé» Cap 4 → HTML · los 4 caps listos para publicar) ✅
 - **📄 Cap 4 «La primera bailarina» exportado a HTML** (`_publicacion/capitulo_4_la_primera_bailarina.html`) desde v0.2, molde body-only calcado de Caps 1-3 (atribución → **título 1ª persona** → metadata → **gancho 280 char (≤300)** → `<!-- more -->` → prosa 151 párrafos con cursivas/saltos → **despedida de Anaïs que CIERRA el relato**, no invita a cap siguiente). Gate Cap 4 v0.1 aprobado («genera los cap para publicar»). QA verde (`<em>` balanceados, 0 markdown/asterisco suelto). **Los 4 HTML de «La Piel que Diseñé» listos en `_publicacion/`.** → FASE PUBLICACIÓN (armar en `02_Finalizadas/` cuando la Ama lo pida).
@@ -83,7 +90,6 @@
 - **📲 «El podcast» — tipo de mujer (decisión Ama):** sumisa doméstica de Rodrigo (aseo + atiende visitas, recatada/puta), solo mental, grooming sí. Progresión Cap2 depilación+calzón → Cap3 maquillaje+ropa → Cap4 doméstica plena. Cosido al canon.
 - **📲 «El podcast» Cap 2 «Los pensamientos» v0.1 (Escritor-N4):** 129 líneas, cierra "Episodio 8". Beats: 🪒 depilación día 6 + 👙 1er calzón femenino día 7 (a dormir, no lo bota) + racha 7 + caja negra + Rodrigo espejo; voz feminizándose sola. Autoverif a mano (stall del agente al final). ⏳ Gate Ama.
 
-### Sesión 01/07/2026 (🔄 Materialización Parcial 200-300 · 📸 17 nuevas poses L236/L243/L246 + avance en L237/L247 · ⚠️ Límite de Cuota 429)
 
 
 

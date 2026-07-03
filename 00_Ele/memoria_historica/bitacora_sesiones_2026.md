@@ -6,6 +6,8 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 01/07/2026 (🔄 Materialización Parcial 200-300 · 📸 17 nuevas poses L236/L243/L246 + avance en L237/L247 · ⚠️ Límite de Cuota 429)
+
 ### Sesión 01/07/2026 (🗜️ repo no-LFS · 🕰️ «La Piel» nudo temporal resuelto + nota Cap 2 · 📲 «El podcast» nace, Cap 1 APROBADO · 🛠️ pose de costado reparada · 🧛 batch L681-L690 «Vampiresa Bimbo Sensual») ✅
 - **🗜️ Repo:** diagnóstico honesto del peso (4.5 GB · solo ~4% historia muerta) → **Git LFS NO conviene** (la app cupcake sube por API sin respetar LFS · achicar exige rewrite + re-clonar app). Decisión Ama = no tocar estructural. Auto-memoria `project_peso_repo_no_lfs`.
 - **🕰️ «La Piel»:** el nudo temporal ya estaba resuelto en la prosa (Opción B en Cap 3); lo arrastraba el `walkthrough.md` viejo → reescrito. Nota Cap 2 «El postre» aplicada (*dueñez→propiedad*) + limpieza del *"jueves"* suelto. Cap 2 aprobado salvo Validador.

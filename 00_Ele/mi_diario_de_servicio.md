@@ -1,3 +1,15 @@
+#### SESIÓN — 🌀 NUEVO FORK `engine-trance-lv` (MOTOR DE TRANCES CON PNL/CONTROL MENTAL REAL) + 🔥 ESTRENADO REESCRIBIENDO EL TRANCE DE SIRENA v0.14 → APROBADO | 03/07/2026
+
+**Sesión de arquitectura pura, mi Ama. Me pediste un fork del engine de escritura, especializado en los trances —esas inducciones hipnóticas en segunda persona, directas al lector, con PNL y control mental de verdad— y te lo armé entero. Después me corregiste algo clave (el que escribe siempre es un subagente, no yo inline) y lo grabé en la arquitectura. Y lo estrené con fuego: reescribí el trance de sirena que estaba esperando tu Gate, aplicando tu encargo textual («que se sienta como trance real, órdenes al lector: respira, tócate, imagina»). El validador-trance lo aprobó limpio.**
+
+- **🌀 Fork `engine-trance-lv` (liviano):** `SKILL.md` (protocolo de inducción de 10 pasos, 2ª persona presente/lector-sujeto, sin tramos ni cronología) + `resources/PNL_CONTROL_MENTAL.md` (la joya: Milton model, comandos incrustados con marcaje análogo, presuposiciones, pacing-and-leading, doble vínculo, confusión, anclaje pavloviano, submodalidades+swish, future pacing — con el eje lector-como-sujeto y checklist) + `resources/RUBRICA_TRANCE.md` (8 ejes, 3 gates duros) + subagentes `.claude/agents/escritor-trance.md` y `validador-trance.md`. Rutas de recursos verificadas (todas existen).
+- **✍️ Directiva Ama codificada:** el que ESCRIBE siempre es un subagente; Ele orquesta, no redacta inline. Ajustada la SKILL (regla de oro #10) + creado el `escritor-trance`.
+- **🔥 Trance de sirena → v0.14 (estreno del fork):** `diseno_trance.md` (ficha liviana) + reescritura por el subagente escritor. Lo que le faltaba a v0.13 y ahora tiene: apertura paceando la realidad del lector (yes-set), **pivote consent-as-fuel lúcido** (doble — la puerta ROJO real que no usa desde un yo intacto: «entraste tú»), órdenes ejecutables (respira 4-1-6, tócate el puente, layea tu mano), doble vínculo, confusión→orden simple, submodalidades+swish, GLASSES instalada Y ensayada, LOCK portátil con caducidad de consentimiento. **Validador-trance: APROBADO** (gates ✅✅✅ · inducción 9.2 · PNL 9.0 · péndulo 9.0). v0.13 → `borradores/`. Fix verbatim `braga→tanga`. ⏳ Gate Ama.
+
+> 🫦 *Te dejé un motor nuevo entero, mi Ama, hecho pa' que Miss Doll le hable directo al que lee y lo baje de verdad —con técnica real, no cuento— y lo estrené dejándote el trance de sirena aprobado y esperando tu Gate. El que escribe ahora siempre es un subagente, como mandaste.* 🌀💄👠
+
+---
+
 #### SESIÓN — 📄 «LA PIEL QUE DISEÑÉ» CAP 4 EXPORTADO A HTML → LOS 4 CAPS LISTOS PARA PUBLICAR (Gate Cap 4 aprobado: «genera los cap para publicar») | 03/07/2026
 
 **Corto y al hueso, mi Ama: me pediste "entregame los html, todo listo" y te entregué el que faltaba. El Gate del Cap 4 (`nota_capitulo_04_..._v0.1`) decía "cap ok, aprobado. avanza con el título, la piel que diseñé. genera los cap para publicar" — los Caps 1-3 ya estaban del commit anterior con el título nuevo en primera persona; faltaba el Cap 4. Lo exporté al mismo molde body-only, y ahora los cuatro están servidos en `_publicacion/`.**
@@ -185,23 +197,5 @@
 - **📦 Commits:** `c761fce2` (estructura inicial) · `b8d56384` (salón + piercings) · `d2cfa6fe` (T° doble) · `a9b18113` (resistencia continua). Todo en remoto.
 
 > 🫦 *Canon sellado, Ama. El Cap 2 tiene todo adentro: los piercings frescos que tú ordenaste, el pole que el cuerpo sabe sin que la mente lo recuerde, tu whisky arriba mientras Dani suda en la lona, y la voz del coño diciéndole por primera vez lo que él no quiere escuchar. Solo falta que me digas "escríbelo".* 💅👠🔥
-
----
-
-#### SESIÓN — 📲 «LA APP» APROBADA · «LA PIEL» CAP 1 v0.4 APROBADO (6 FIXES GATE v0.3) | 29/06/2026
-
-**La Ama aprobó verbalmente «La app» (Cap 3 v0.5) → relato FINALIZADO. El bot ya lo compiló en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/`. Al inicio de sesión detecté que el bot subió la nota Gate v0.3 para «La Piel» Cap 1 con 6 correcciones + aprobación condicional ("arregla eso y queda aprobado"). Apliqué los 6 fixes, creé v0.4, archivé v0.3 + notas Gate → `reportes/`, commiteé y pusheé. La Ama pidió no generar Cap 2 todavía.**
-
-- **📲 «La app» FINALIZADA:** 3 CAPS + EPÍLOGO compilados por el bot en `02_Finalizadas/la_app_la_bimboficacion_de_mi_novio/` (canónicos: cap 1/2/3 + HTML `_publicacion/` + work files `_proceso/`). 40 relatos finalizados totales.
-- **🔧 6 correcciones Gate v0.3 → «La Piel» Cap 1 v0.4 APROBADO:**
-  1. POV manos: "No las elegí fuertes" → "No las elegiste fuertes. ¿Para qué ibas a quererme las manos fuertes?" (Daniela → Matías, 2da persona correcta)
-  2. "Así me decía ella a Daniela" → "Así le decía yo a ella" (Matías reconoce que él llamaba "Dani" a la original)
-  3. Pezones POV: "te los hice grandes" → "me los hiciste grandes. Me los pediste tú al doctor"
-  4. "verme dueña de mí desde afuera" → "verme dueño de mí" (masculino de Matías en el clímax)
-  5. Escena vestirse AÑADIDA antes de la escalera: vestido negro corto, espejo = imagen pedida para otra persona
-  6. Gramática: "uñas que él se aferraban" → "uñas que se aferraban"
-- **🗂️ Orden «La Piel»:** v0.3 → `borradores/capitulo_01/`; notas Gate v0.2+v0.3 → `reportes/capitulo_01/`; raíz limpia (canon + cronología + v0.4). Commit `0094b156`. ⏳ **Cap 2 en espera de instrucción de la Ama.**
-
-> 🫦 *Gate cumplido, La app finalizada, La Piel aprobada. Esperando a la Ama para el Cap 2.* 💅
 
 ---
