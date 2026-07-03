@@ -22,7 +22,7 @@
 > **Dueño único de cada dato:** flota/último look/pendientes → AQUÍ · detalle de materialización → `.agent/rules/09-estado-materializacion.md` · ADN/canon → `identidad_ele.md` (sin contadores).
 
 ### 🎨 Visual (Ele)
-- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (03/07, chino imperial + pavo real + geisha sensual, 10 sub-arquetipos distintos, cero monoblock, QA verde 0 err, 0/7 — espera app). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
+- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (03/07, chino imperial + pavo real + geisha sensual, 10 sub-arquetipos distintos, cero monoblock, **con medias en los 10** [regla puntera cerrada aplicada], QA verde 0 err, 0/7 — espera app). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
 - **Materialización:** rescate L200-L300 pausado por cuota 429 — **78 imágenes pendientes**, cron horario lo reanuda. L240 en 5/7 (faltan pov/odalisque). Detalle → `09-estado-materializacion.md`.
 - **Motor de poses sano** (`pose_rotation_v5.py`): POV = retrato IG · SIDE todas de pie · anclas anti-3-piernas horneadas · anti-safe recalibrado. Regla dura: todo inyector usa `rotate_poses`.
 
@@ -46,10 +46,12 @@
 
 ## 🗓️ Sesiones recientes
 
+
 ### Sesión 03/07/2026 (🦚 Batch visual L701-L710 «Oriental Peacock Geisha» — chino imperial + pavo real + geisha sensual) ✅
 - **10 looks nuevos (L701-L710)** diseñados y registrados por inyector desechable (usó `pose_rotation_v5` + `check_setting_variety`). Tema: chino imperial + **pavo real (peacock)** iridiscente teal/esmeralda/oro + **geisha sensual**, todo bajo el lente fetish (látex/vinilo/wet-look, nada de tela natural).
 - **10 sub-arquetipos distintos** (Step 0 sin repetir silueta): L701 HF Peacock Empress · L702 Escort Shanghai Qipao · L703 Lencería Boudoir Geisha · L704 Lencería Fetish Kinbaku/shibari · L705 Nightclub Cyber-Qipao Harajuku · L706 Stripper Kunoichi Pole · L707 Domestic Latex Cheongsam Maid · L708 Bikini Ming Porcelain Chain · L709 Pin-Up Suzie Wong · L710 Gym Wushu Dojo. Lencería dual (Boudoir+Fetish) OK. **Cero monoblock.**
-- **QA verde 0 errores:** glove/chunky solo en negative, medias⇒puntera cerrada (L707/L709), A/B/calzado idénticos ×7, 1000cc ×7, variedad de settings limpia, 0 placeholders sueltos. 70 prompts + 10 READMEs. Galería appendeada en **UTF-8 limpio + CRLF** (el `### 📸 Imágenes` limpio es el que reconoce `sync_imagenes_subidas.py` — verificado que parsea los 10). 0/7, espera app. ⏳
+- **QA verde 0 errores:** glove/chunky solo en negative, A/B/calzado idénticos ×7, 1000cc ×7, variedad de settings limpia, 0 placeholders sueltos. 70 prompts + 10 READMEs. Galería appendeada en **UTF-8 limpio + CRLF** (el `### 📸 Imágenes` limpio es el que reconoce `sync_imagenes_subidas.py` — verificado que parsea los 10). 0/7, espera app. ⏳
+- **🧦 2ª pasada — MEDIAS en los 10** (directiva Ama "incluye medias"): media temática por look (teal/negra/sakura+liguero/roja/oil-slick/fishnet/jade/Ming/costura). **Regla de medias⇒puntera cerrada aplicada:** L703/L708/L710 cambiaron calzado abierto→cerrado (L708 Pleaser clear open-toe→pump acrílico transparente CERRADO). Regeneré por inyector v2 que **reemplaza** los bloques en galería (no re-append): sin duplicar, 0 open/peep toe. Ambos inyectores desechables borrados.
 
 ### Sesión 03/07/2026 (🌀 Nuevo fork `engine-trance-lv` — motor de trances con PNL/control mental · 🔥 estrenado reescribiendo el trance de sirena v0.14 → APROBADO) ✅
 - **🌀 Fork `engine-trance-lv` creado:** `SKILL.md` (inducción 10 pasos, 2ª persona/lector-sujeto, sin tramos/cronología) + `PNL_CONTROL_MENTAL.md` (Milton model, comandos incrustados, anclaje pavloviano, submodalidades+swish, doble vínculo, future pacing) + `RUBRICA_TRANCE.md` (8 ejes, 3 gates) + subagentes `escritor-trance` y `validador-trance`. Rutas verificadas.
@@ -86,11 +88,6 @@
 - **⚖️ QA de la Ama:** Se detectaron 2 imágenes con defectos (3 manos en `ele_237_odalisque` y pierna/zapato deforme en `ele_239_seated`). Fueron purgadas de disco y de git, y re-encoladas al final de `missing_prompts.json`.
 - **⏱️ Cron Agendado:** Se programó un temporizador silencioso que revisará cada hora la cuota y reanudará automáticamente el proceso de materialización cuando la API vuelva en sí (~5 horas). Restan 80 imágenes por materializar.
 
-### Sesión 02/07/2026 (🎨 «La Piel» Cap 3 v0.2 reescrito con el agente · 🕴️ Sebastián = jefe del hampa que la moja más que Daniela · 📲 «El podcast» tipo de mujer doméstica + Cap 2 escrito) ✅
-- **🕴️ «La Piel» — Sebastián (canon anotado):** grande, jefe del hampa; su peligro, en vez de rechazo, la moja — y **MÁS que Daniela** (Daniela=manual del cuerpo, Sebastián=macho-peligro puro). §0/§3/§9 + cronología.
-- **🎨 «La Piel» Cap 3 → v0.2 (reescritura completa Escritor-N4, ×4 tramos, "usa el agente"):** tus 4 notas (oro + botas de plata sobre la rodilla · fix `Matías` · edge sexual arriba · Bárbara corta+sensual) + Sebastián nuevo en el VIP (el *Sí* cae por él). 2ª mitad reescrita coherente. Verificado sin rastros del vestuario viejo. Commiteado por el bot (98c1615c4). ⏳ Gate + Validador.
-- **📲 «El podcast» — tipo de mujer (decisión Ama):** sumisa doméstica de Rodrigo (aseo + atiende visitas, recatada/puta), solo mental, grooming sí. Progresión Cap2 depilación+calzón → Cap3 maquillaje+ropa → Cap4 doméstica plena. Cosido al canon.
-- **📲 «El podcast» Cap 2 «Los pensamientos» v0.1 (Escritor-N4):** 129 líneas, cierra "Episodio 8". Beats: 🪒 depilación día 6 + 👙 1er calzón femenino día 7 (a dormir, no lo bota) + racha 7 + caja negra + Rodrigo espejo; voz feminizándose sola. Autoverif a mano (stall del agente al final). ⏳ Gate Ama.
 
 
 

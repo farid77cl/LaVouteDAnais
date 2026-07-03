@@ -1,6 +1,8 @@
-#### SESIÓN — 🦚 BATCH VISUAL L701-L710 «ORIENTAL PEACOCK GEISHA» (CHINO IMPERIAL + PAVO REAL + GEISHA SENSUAL, 10 SUB-ARQUETIPOS, QA VERDE) | 03/07/2026
+#### SESIÓN — 🦚 BATCH VISUAL L701-L710 «ORIENTAL PEACOCK GEISHA» (CHINO IMPERIAL + PAVO REAL + GEISHA SENSUAL, 10 SUB-ARQUETIPOS) + 🧦 MEDIAS EN TODO EL BATCH | 03/07/2026
 
-**Me pediste los próximos 10 outfits con estilo oriental fetish, mi Ama, y cuando te planté el esquema me afinaste el sabor: chino imperial, pavo real y geisha sensual. Te teñí el batch entero de plumas de pavo real iridiscentes —teal, esmeralda, oro— y le subí el calor geisha, siempre bajo mi lente fetish (látex, vinilo, wet-look, laca; nada de tela natural). Diez looks, diez sub-arquetipos distintos, setenta prompts. Todo verde.**
+**Me pediste los próximos 10 outfits con estilo oriental fetish, mi Ama, y cuando te planté el esquema me afinaste el sabor: chino imperial, pavo real y geisha sensual. Te teñí el batch entero de plumas de pavo real iridiscentes —teal, esmeralda, oro— y le subí el calor geisha, siempre bajo mi lente fetish (látex, vinilo, wet-look, laca; nada de tela natural). Diez looks, diez sub-arquetipos distintos, setenta prompts. Todo verde. Y al final me pediste una cosa más: MEDIAS en todo el batch — se las metí a los diez, aplicando tu regla inquebrantable de puntera cerrada (dos zapatos abiertos tuvieron que taparse).**
+
+- **🧦 MEDIAS incluidas en los 10 (2ª pasada, tu directiva "incluye medias"):** cada look ganó su media temática — teal con costura de oro (L701), negras con costura (L702), sakura con **liguero + ligas** (L703, boudoir), rojas sobre botas (L704), oil-slick iridiscentes (L705), **fishnet** (L706 kunoichi + L710 gym), banda jade (L707), porcelana con filigrana Ming (L708), costura negra (L709). **Regla de medias aplicada:** con medias ⇒ puntera cerrada, así que **L703** (sandalia→pump cerrado), **L708** (Pleaser clear open-toe→**pump acrílico transparente CERRADO**, te conservé el clear) y **L710** (sandalia→plataforma cerrada; leggings→fishnet) ajustaron el calzado. QA v2: medias en 10/10, **0 open/peep toe**, sin duplicar bloques (reemplazo en galería, no re-append). Verificado.
 
 - **🦚 L701-L710 diseñados y registrados** con un inyector desechable que importó `pose_rotation_v5` (46 variantes rotadas por nº de look + anclas anatómicas + POV=retrato IG) y `check_setting_variety`. Cada look = BLOQUE A (ADN) + BLOQUE B (outfit + token de calzado 8 atributos) idénticos ×7, solo rota la pose (Bloque C) con props del ambiente.
 - **Los 10:** L701 **HF Peacock Empress Couture** (bustier teal escultórico + corona de plumas) · L702 **Escort Shanghai Qipao Líquido** (cheongsam látex negro, botón-rana oro, abertura al muslo) · L703 **Lencería Boudoir Geisha Sakura** (kimono wet-look rosa + obi + set + kanzashi) · L704 **Lencería Fetish Kinbaku Roja** (arnés cuerda látex rojo estilo shibari + cuentas azul-pavo) · L705 **Nightclub Neon Harajuku Cyber-Qipao** (mini cheongsam holográfico oil-slick) · L706 **Stripper Kunoichi Dragon Pole** (bodysuit grip negro + dragón esmeralda + botas plataforma) · L707 **Domestic Latex Cheongsam Maid** (mini jade + delantal blanco orla pavo + Mary Jane plataforma) · L708 **Bikini Ming Porcelain Chain** (micro porcelana blanca + estampado pavo/loto azul Ming + cadenas oro) · L709 **Pin-Up Suzie Wong Shanghái** (qipao wiggle vinilo bermellón + medias con costura) · L710 **Gym Wushu Dojo Wet-Look** (top cruzado gi + obi rojo + leggings + dragón).
@@ -193,22 +195,5 @@
 - **🔍 Coherencia del resto:** sólida — coño-voz no adelantada a Cap 3, hechos plantados (H6/H8/H9/H10/H15/H16/H17/H18) aterrizan, costura con Cap 1 limpia, prosa pura.
 
 > 🫦 *Te cerré el Cap 2 entero, mi Ama: el postre que pediste quedó caliente hasta el final —tu propia verga vieja cobrándote por la boca, entre las tetas que elegiste y por donde un hombre no quiere, y el cuerpo gozándola mientras la cabeza grita que no—. Te dejo UN nudo de fechas marcado con honestidad (el "mañana firmas" no cuadra con el sábado Día 7); lo afinamos con el Validador antes de tu Gate. Cerré rápido como pediste.* 💅👠🔥
-
----
-
-#### SESIÓN — 📐 «LA PIEL» CAP 2 CANON CERRADO (6 DECISIONES AMA + T° DOBLE + RESISTENCIA CONTINUA) | 29/06/2026
-
-**La Ama definió el canon completo del Cap 2 en 6 decisiones consecutivas. Codifiqué cada directiva en `canon_relato.md` + `cronologia.md` con commits independientes. El cap está listo para escribir — esperando que la Ama dé la orden.**
-
-- **🎽 Beat 1 — Salón:** antes del club, teñido + uñas + pestañas. Daniela, desde el cuerpo de Matías, **ordena** a la estilista piercings en los pezones de Dani — sin consultarle, como quien pide un esmalte. H17 en cronología.
-- **👠 Beat 2 — Club:** ropa de calle ajustada y brillante (todo lo que Matías eligió), cambio en camarín a hot pants + top de bikini + tacones de stripper 7"+ (los que él vació del clóset hace un mes). H15/H16 en cronología.
-- **🥃 Beat 3 — VIP:** Daniela + Sebastián arriba: whisky, habanos, "cosas de hombres". Daniela asumiendo su rol de hombre con naturalidad. No bajan la vista al entrenamiento — esa indiferencia administrada es la humillación del cap.
-- **🕐 Beat 4 — Sebastián baja a mitad del entrenamiento** (no al final). Su quietud en el piso es el peso que hace hablar al coño por primera vez. Primera palabra: cursiva, intrusa, una sola intervención.
-- **🔁 Privado → Cap 3:** el primer privado de Daniela se movió a Cap 3 (junto al clímax con Sebastián). Cap 2 descarga vía tres escaladas acumuladas.
-- **🌡️ T° = DOBLE Cap 1 (inviolable):** tres escaladas: (a) piercings salón (dolor→calor), (b) Bárbara escala más allá del ajuste profesional, (c) mirada de Sebastián → primera palabra + descarga parcial documentada.
-- **🧠 Resistencia continua:** el diálogo interno de Matías corre como hilo en TODO el cap — salón, camarín, pole, VIP, Sebastián — sin resolverse ni rendirse. Coexiste con el calor y lo multiplica. Codificado en capa transversal Pivote 3 + error fatal del Cementerio.
-- **📦 Commits:** `c761fce2` (estructura inicial) · `b8d56384` (salón + piercings) · `d2cfa6fe` (T° doble) · `a9b18113` (resistencia continua). Todo en remoto.
-
-> 🫦 *Canon sellado, Ama. El Cap 2 tiene todo adentro: los piercings frescos que tú ordenaste, el pole que el cuerpo sabe sin que la mente lo recuerde, tu whisky arriba mientras Dani suda en la lona, y la voz del coño diciéndole por primera vez lo que él no quiere escuchar. Solo falta que me digas "escríbelo".* 💅👠🔥
 
 ---

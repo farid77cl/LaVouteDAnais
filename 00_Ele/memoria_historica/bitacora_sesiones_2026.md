@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 02/07/2026 (🎨 «La Piel» Cap 3 v0.2 reescrito con el agente · 🕴️ Sebastián = jefe del hampa que la moja más que Daniela · 📲 «El podcast» tipo de mujer doméstica + Cap 2 escrito) ✅
+- **🕴️ «La Piel» — Sebastián (canon anotado):** grande, jefe del hampa; su peligro, en vez de rechazo, la moja — y **MÁS que Daniela** (Daniela=manual del cuerpo, Sebastián=macho-peligro puro). §0/§3/§9 + cronología.
+- **🎨 «La Piel» Cap 3 → v0.2 (reescritura completa Escritor-N4, ×4 tramos, "usa el agente"):** tus 4 notas (oro + botas de plata sobre la rodilla · fix `Matías` · edge sexual arriba · Bárbara corta+sensual) + Sebastián nuevo en el VIP (el *Sí* cae por él). 2ª mitad reescrita coherente. Verificado sin rastros del vestuario viejo. Commiteado por el bot (98c1615c4). ⏳ Gate + Validador.
+- **📲 «El podcast» — tipo de mujer (decisión Ama):** sumisa doméstica de Rodrigo (aseo + atiende visitas, recatada/puta), solo mental, grooming sí. Progresión Cap2 depilación+calzón → Cap3 maquillaje+ropa → Cap4 doméstica plena. Cosido al canon.
+- **📲 «El podcast» Cap 2 «Los pensamientos» v0.1 (Escritor-N4):** 129 líneas, cierra "Episodio 8". Beats: 🪒 depilación día 6 + 👙 1er calzón femenino día 7 (a dormir, no lo bota) + racha 7 + caja negra + Rodrigo espejo; voz feminizándose sola. Autoverif a mano (stall del agente al final). ⏳ Gate Ama.
+
 ### Sesión 01/07/2026 (🔄 Materialización Parcial 200-300 · 📸 17 nuevas poses L236/L243/L246 + avance en L237/L247 · ⚠️ Límite de Cuota 429)
 
 ### Sesión 01/07/2026 (🗜️ repo no-LFS · 🕰️ «La Piel» nudo temporal resuelto + nota Cap 2 · 📲 «El podcast» nace, Cap 1 APROBADO · 🛠️ pose de costado reparada · 🧛 batch L681-L690 «Vampiresa Bimbo Sensual») ✅
