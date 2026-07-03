@@ -168,10 +168,11 @@ EL "CON EL LECTOR" (transversal, en todo el monólogo):
 
 - Tras **APROBADO** → Gate final de la Ama.
 - **Captura de voz:** frases/anclas/mantras que la calentaron → se pueden incorporar como referencia de la voz Miss Doll (nota en el diseño o en la antología del corpus). Lo frío se marca.
-- **Publicación** (hereda el ritual del engine madre, `engine-escritura-lv` FASE PUBLICACIÓN — con matices de trance):
-  1. **Humanización** con `/humanizer` calibrado chileno — **cuidado especial**: el trance vive del ritmo de péndulo y la repetición mántrica; el humanizador NO debe aplanar la repetición (es el fármaco, no un descuido), romper la 2ª persona presente, ni tocar las didascalias. Revisar diff con lupa.
-  2. **Cabecera Estándar Completo Bloque** (atribución de Anaïs → título ≤54 → metadata → gancho ≤300 en negrita → `<!-- more -->` → inducción → despedida de Anaïs). **Perspectiva en la metadata: `Segunda Persona · monólogo (el lector es el sujeto)`.** Temáticas típicas: `#MissDoll #Hipnosis #Trance #Inducción` + el eje (#DollFetish / #Bimbofication / #Feminización…).
-  3. **HTML body-only** en `_publicacion/`. La voz Miss Doll en cursiva se mapea a `<em>`; las anclas en MAYÚSCULAS se conservan tal cual; las didascalias entre paréntesis se mantienen en cursiva (`<em>`).
+- **Publicación → se rige por el ESTÁNDAR DE PUBLICACIÓN LA VOÛTE (dueño único):** el ritual completo (humanización → título ≤54 → cabecera Estándar Completo Bloque → gancho negrita **≤300 car.** → `<!-- more -->` → despedida de Anaïs [variante A intermedio / B cierre] → HTML body-only con convención de nombre) vive en **`engine-escritura-lv` SKILL §📤 FASE PUBLICACIÓN**. **No se duplica aquí.** Un trance aplica ese estándar con estos **deltas de trance**:
+  - **Humanización:** el trance vive del **ritmo de péndulo** y la **repetición mántrica** — el `/humanizer` NO debe aplanar la repetición (es el fármaco, no un descuido), romper la 2ª persona presente, ni tocar las **didascalias**. Revisar el diff con lupa.
+  - **Perspectiva (metadata):** `Segunda Persona · monólogo (el lector es el sujeto)`.
+  - **Temáticas:** `#MissDoll #Hipnosis #Trance #Inducción` + el eje (#DollFetish / #Bimbofication / #Feminización…).
+  - **HTML:** las **anclas en MAYÚSCULAS** se conservan tal cual; las **didascalias entre paréntesis** van en cursiva (`<em>`); el cierre-que-no-cierra (el ancla persistente) se conserva íntegro — es el final del texto, antes de la despedida de Anaïs (variante **B**, un trance es pieza cerrada).
 
 ---
 

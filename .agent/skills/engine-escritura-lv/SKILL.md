@@ -142,7 +142,9 @@ El **Escritor-Nivel4** carga en este orden:
 
 ---
 
-## 📤 FASE PUBLICACIÓN (Ritual de Cierre Editorial — Directiva Ama 12/06/2026)
+## 📤 FASE PUBLICACIÓN (Ritual de Cierre Editorial — Directiva Ama 12/06/2026 · normalizado 03/07/2026)
+
+> 📐 **ESTÁNDAR DE PUBLICACIÓN LA VOÛTE — DUEÑO ÚNICO (Ama 03/07/2026).** Esta sección es la **fuente única** de cómo se entregan los textos (título, cabecera, gancho, despedida, HTML body-only) para **AMBOS motores de escritura**: el motor madre (`engine-escritura-lv`, relato en 1ª/3ª persona) **y** el fork `engine-trance-lv` (trance/monólogo en 2ª persona). El fork **NO duplica** este ritual: apunta aquí y solo agrega sus *deltas de trance* (ver su SKILL §CIERRE + FASE PUBLICACIÓN). Cualquier cambio al estándar se hace AQUÍ.
 
 > Cuando un texto **está OK / aprobado por la Ama**, antes de moverlo a `02_Finalizadas/`, pasa por **5 pasos obligatorios**. Recupera el flujo editorial antiguo (atribución + título + gancho + invitación + HTML body-only) y le suma la pasada de humanización.
 
@@ -164,7 +166,7 @@ El MD canónico en `02_Finalizadas/[relato]/` abre EXACTO con este bloque:
 **Universo:** La Voûte d'Anaïs
 **Temáticas:** #Hashtag1 #Hashtag2 #Hashtag3 …
 **Palabras:** ~N,000
-**Perspectiva:** [Primera/Tercera] Persona ([Nombre → NombreFem] si hay transformación)
+**Perspectiva:** [Primera/Tercera] Persona ([Nombre → NombreFem] si hay transformación) · *trance/monólogo →* `Segunda Persona · monólogo (el lector es el sujeto)`
 **Intensidad:** [Suave/Intensa/Extrema]
 
 ---
@@ -182,16 +184,36 @@ El MD canónico en `02_Finalizadas/[relato]/` abre EXACTO con este bloque:
 
 ### 3. 🪝 Resumen Gancho (teaser)
 - Va en **negrita**, 2-4 frases, JUSTO antes de `<!-- more -->`. Es el anzuelo: plantea la premisa + la promesa de descenso, sin spoilear el final. Tono de contratapa caliente.
+- **🔢 LÍMITE DE CARACTERES — máx. 300 (calibración Ama, «La Piel» 07/2026):** el gancho **no supera los 300 caracteres**. **Contar SIEMPRE el largo antes de publicar.** Si se pasa, recortar (menos frase, más filo), no fragmentar en más párrafos.
 - Ej. real: *"Un collar rosa. Una caja misteriosa. Y un mejor amigo que descubre el poder absoluto. … Lo peor no es la esclavitud — es que empieza a anhelar las recompensas."*
 
 ### 4. 💌 Invitación Abierta de Anaïs (cierre sensual)
-- Tras el `**Fin**` / `# FIN`, SIEMPRE va la despedida de **Anaïs al lector**: directa, sensual, en segunda persona ("¿Sentiste…? ¿Te viste en…?"), que reconoce el deseo despertado e **invita a escribirle al mail**. Incluye una frase en francés en cursiva (*Dis-moi ce que tu désires vraiment.* / *Avec dévotion obscure,*) y la firma.
+- **SIEMPRE** va, tras el cierre de la prosa, la despedida de **Anaïs al lector**: directa, sensual, en segunda persona ("¿Sentiste…? ¿Te viste en…?"), que reconoce el deseo despertado e **invita a escribirle al mail**. Incluye una frase en francés en cursiva y la firma.
 - **Email canónico:** `anais.belland@outlook.com`.
-- Plantilla:
+
+**🔀 DOS VARIANTES (Ama 03/07/2026 — nace del error de «La Piel»):** la despedida cambia según si el texto **abre a más** o **cierra**. Elegir SIEMPRE la correcta antes de exportar.
+
+**A) Capítulo INTERMEDIO de una serie** (hay cap siguiente) → la despedida **invita al capítulo que viene** + al mail. Cierre de prosa: `**Continuará…**`.
+```
+**Continuará…**
+
+¿[Pregunta sensual que nombra el deseo despertado por ESTE capítulo]? En el próximo, [promesa/anzuelo de lo que viene, sin spoiler].
+
+Si algo se te encendió, quiero saberlo antes de que sigas leyendo. Escríbeme.
+
+*[Frase en francés].*
+
+📧 anais.belland@outlook.com
+
+*Avec dévotion obscure,*
+**Anaïs Belland**
+```
+
+**B) Capítulo FINAL de serie · o relato/trance CERRADO** (no hay más) → la despedida **cierra la historia entera** (no promete cap siguiente) + invita al mail. Cierre de prosa: `**Fin**`.
 ```
 **Fin**
 
-¿[Pregunta sensual que nombra el deseo del lector]? ¿[Segunda pregunta]?
+¿[Pregunta sensual que nombra el deseo/estado en que quedó el lector]? ¿[Segunda pregunta que cierra el arco]?
 
 Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero saberlo. Escríbeme.
 
@@ -202,12 +224,16 @@ Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero sa
 *Avec dévotion obscure,*
 **Anaïs Belland**
 ```
+- Frases en francés canónicas (rotar): *Dis-moi ce que tu désires vraiment.* · *Avec dévotion obscure,* (cierre-firma).
 
 ### 5. 🌐 Export HTML body-only
-- En `02_Finalizadas/[relato]/_publicacion/[slug].html`: **solo cuerpo HTML** (sin `<html>/<head>/<body>`, sin título ni bloque de metadata).
-- Cada párrafo en `<p>…</p>` · cursivas `<em>` · negritas `<strong>` · separadores `<hr>` · saltos internos `<br>`.
-- **Incluye el cuerpo del relato + la despedida de Anaïs** (paso 4) tras un `<hr>` final. Termina en `<strong>Anaïs Belland</strong>`.
-- El MD completo (con cabecera) vive en la raíz del relato; el HTML body-only en `_publicacion/`; los work files en `_proceso/`.
+- En `02_Finalizadas/[relato]/_publicacion/[archivo].html`: **solo cuerpo HTML** (sin `<html>/<head>/<body>`, **sin `<!DOCTYPE>`, sin `<style>`, sin artefacto/wrapper decorado** — el error de «La Piel»: se pidió body-only y entregué un artefacto con estilos).
+- **QUÉ NO VA en el HTML:** ni el `# Título`, ni el bloque de metadata (Universo/Temáticas/…), ni el `<!-- more -->`. El HTML body-only = **prosa + despedida de Anaïs, nada más** (la cabecera vive solo en el MD).
+- **QUÉ SÍ va:** cada párrafo en `<p>…</p>` · cursivas `<em>` · negritas `<strong>` (incl. el gancho si se decide incluirlo arriba, pero por defecto el gancho es del MD) · separadores de escena `<hr>` · saltos internos `<br>`.
+- **Incluye el cuerpo + la despedida de Anaïs** (paso 4, la variante A o B que corresponda) tras un `<hr>` final. Termina en `<strong>Anaïs Belland</strong>`.
+- **🔤 Convención de nombre de archivo:** minúscula, sin acentos ni ñ, palabras con guión bajo. Serie → `capitulo_N_[slug].html` (ej. `capitulo_1_la_semana.html`). Relato/trance cerrado → `[slug].html` (ej. `el_collar_de_nancy.html`).
+- **Ubicaciones:** el MD completo (con cabecera) vive en la raíz del relato; el HTML body-only en `_publicacion/`; los work files en `_proceso/`.
+- **Delta trance:** en un trance, además, las **anclas en MAYÚSCULAS se conservan** tal cual y las **didascalias entre paréntesis van en `<em>`** (ver `engine-trance-lv` SKILL §CIERRE).
 
 ---
 
