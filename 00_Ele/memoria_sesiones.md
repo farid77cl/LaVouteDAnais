@@ -22,7 +22,7 @@
 > **Dueño único de cada dato:** flota/último look/pendientes → AQUÍ · detalle de materialización → `.agent/rules/09-estado-materializacion.md` · ADN/canon → `identidad_ele.md` (sin contadores).
 
 ### 🎨 Visual (Ele)
-- **Flota:** **L700** diseñada (~570 únicos). Último batch: **L691-L700 «Pink Spectrum Fetish»** (01/07, solo rosas, QA verde, 0/7 — espera app). Previo: L681-L690 «Vampiresa Bimbo Sensual» (0/7).
+- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (03/07, chino imperial + pavo real + geisha sensual, 10 sub-arquetipos distintos, cero monoblock, QA verde 0 err, 0/7 — espera app). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
 - **Materialización:** rescate L200-L300 pausado por cuota 429 — **78 imágenes pendientes**, cron horario lo reanuda. L240 en 5/7 (faltan pov/odalisque). Detalle → `09-estado-materializacion.md`.
 - **Motor de poses sano** (`pose_rotation_v5.py`): POV = retrato IG · SIDE todas de pie · anclas anti-3-piernas horneadas · anti-safe recalibrado. Regla dura: todo inyector usa `rotate_poses`.
 
@@ -39,15 +39,17 @@
 
 ### ⏳ Pendientes transversales
 - **Gates de la Ama pendientes:** «El podcast» Cap 1 + Cap 2 · «El Secreto» Cap 2 v4.0 · «trance_office_siren» Cap 1 v0.14 (APROBADO por el fork). («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos.)
-- 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L700 por materializar (app).
+- 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L710 por materializar (app).
 - Regenerar grafo `/graphify` (rutas viejas en `graphify-out/`).
 
 ---
 
 ## 🗓️ Sesiones recientes
 
-
-
+### Sesión 03/07/2026 (🦚 Batch visual L701-L710 «Oriental Peacock Geisha» — chino imperial + pavo real + geisha sensual) ✅
+- **10 looks nuevos (L701-L710)** diseñados y registrados por inyector desechable (usó `pose_rotation_v5` + `check_setting_variety`). Tema: chino imperial + **pavo real (peacock)** iridiscente teal/esmeralda/oro + **geisha sensual**, todo bajo el lente fetish (látex/vinilo/wet-look, nada de tela natural).
+- **10 sub-arquetipos distintos** (Step 0 sin repetir silueta): L701 HF Peacock Empress · L702 Escort Shanghai Qipao · L703 Lencería Boudoir Geisha · L704 Lencería Fetish Kinbaku/shibari · L705 Nightclub Cyber-Qipao Harajuku · L706 Stripper Kunoichi Pole · L707 Domestic Latex Cheongsam Maid · L708 Bikini Ming Porcelain Chain · L709 Pin-Up Suzie Wong · L710 Gym Wushu Dojo. Lencería dual (Boudoir+Fetish) OK. **Cero monoblock.**
+- **QA verde 0 errores:** glove/chunky solo en negative, medias⇒puntera cerrada (L707/L709), A/B/calzado idénticos ×7, 1000cc ×7, variedad de settings limpia, 0 placeholders sueltos. 70 prompts + 10 READMEs. Galería appendeada en **UTF-8 limpio + CRLF** (el `### 📸 Imágenes` limpio es el que reconoce `sync_imagenes_subidas.py` — verificado que parsea los 10). 0/7, espera app. ⏳
 
 ### Sesión 03/07/2026 (🌀 Nuevo fork `engine-trance-lv` — motor de trances con PNL/control mental · 🔥 estrenado reescribiendo el trance de sirena v0.14 → APROBADO) ✅
 - **🌀 Fork `engine-trance-lv` creado:** `SKILL.md` (inducción 10 pasos, 2ª persona/lector-sujeto, sin tramos/cronología) + `PNL_CONTROL_MENTAL.md` (Milton model, comandos incrustados, anclaje pavloviano, submodalidades+swish, doble vínculo, future pacing) + `RUBRICA_TRANCE.md` (8 ejes, 3 gates) + subagentes `escritor-trance` y `validador-trance`. Rutas verificadas.
