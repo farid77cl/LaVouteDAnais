@@ -6,6 +6,12 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 30/06/2026 (✍️ «La Piel» resplit a 4 caps · Cap 2 «El postre» + Cap 3 «El cuerpo que sabe» escritos · 📷 L671-L680 en galería · 🤖 humanizer integrado) ✅
+- **✂️ «La Piel» resplit a 4 caps** (diseñado en vivo con la Ama): **Cap 2 «El postre»** (amenaza al inicio + salón + tease de rodillas negado, coño *Chúpala*, T° alta) + **Cap 3 «El cuerpo que sabe»** (club mirada invertida + Bárbara/pole + Sebastián/Opción B + consumación con **culo virgen H19** + POV interior semi-explícito, coño *Sí*+*Más*, pico con techo); sábado → **Cap 4**. Ambos v0.1 escritos (Escritor-N4; Cap 3 MODO TRAMO ×4), prosa pura, esperando Gate. Correcciones Gate del Cap 2 aplicadas.
+- **🧬 Canon §0 gobernante + `cronologia.md` reescrita** (Opción B: Día1 dom→Día7 sáb, sin "mañana es viernes"; H19 culo virgen; estados por cap). §6 viejo marcado superado. Borrador combinado pre-split → `borradores/capitulo_02/`. **Validador sobre Cap 2+3 no alcanzó veredicto (límite de sesión) → pendiente.**
+- **📷 Batch L671-L680 «Barroco Fetish»** (10 looks/70 prompts) registrado en `galeria_outfits.md` (0/7 c/u), CRLF respetado, 4 descriptors de medias corregidos. Commit+push (0/0 con origin, subieron 6 commits pendientes).
+- **🤖 Humanizer integrado (directiva Ama — integrar, no reemplazar):** cosechado lo útil de `toniperea` (ES) a `CALIBRACION_CHILENO_LAVOUTE.md` (§3 frases-molde IA español · §6 burstiness/respiración · §7 descartes · §8 checklist de cierre); base blader v2.8.0 intacta. Config global ~/.claude, fuera del repo.
+
 ### Sesión 30/06/2026 (📸 Materialización de 27 imágenes pendientes L271-L300 completada) ✅
 - **Deuda técnica visual saldada:** Generadas en paralelo mediante 3 subagentes las últimas 27 imágenes de los looks L271, L273, L274, L277, L293, L294, L297, L299 y L300 que habían quedado atascadas por el límite de cuota (429).
 - **Looks completados:** Estos 9 looks quedaron al 100% (5/5 de poses de interacción).

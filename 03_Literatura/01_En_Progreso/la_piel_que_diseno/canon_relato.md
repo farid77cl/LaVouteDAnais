@@ -1,4 +1,6 @@
-# Canon Relato — La Piel que Diseñó
+# Canon Relato — La Piel que Diseñé
+
+> **Título de publicación (Gate Ama 03/07):** «La Piel que Diseñé» (primera persona — el que narra es el que la diseñó). La carpeta/slug sigue siendo `la_piel_que_diseno` (interno).
 
 > v4.7 / Nivel 4 — Reinicio desde cero (27/06/2026). Un solo documento. La voz literal de la Ama gana sobre cualquier interpretación.
 > Reemplaza todo lo archivado en `_archivo_pre_reinicio/`. Universo Anaïs Belland (NO Ele).
@@ -30,8 +32,9 @@ El antiguo Cap 2 «El cuerpo que sabe» (salón→club→consumación) se **part
 - **💃 El baile ante el público:** Dani baila para el público del club y **le gusta ser el pedazo de carne que todos desean y se quieren coger** — la mirada invertida del Cap 3 se COMPLETA (ya no solo es el objeto: goza siéndolo para todos).
 - **👑 Daniela sigue calentando y humillando** en el Cap 4, y **ENTREGA a Dani a Sebastián** (cierra la venganza: la entrega al hombre a quien Matías le vendió el sábado, y mira).
 - **📄 El papel del sábado = la EXTENSIÓN que la ata a la vida de bailarina** (disponible, NO exclusiva a Sebastián — por eso el final calza con irse al VIP con un cliente cualquiera). Dani la firma de su propia voluntad (*"Pásamela"*).
-- **🍑 El clímax = SE VIENE CON SEBASTIÁN, más explícito y sensual que el Cap 3** (él le chupa las tetas y el coño). Cuerpo y voluntad por fin juntos.
-- **🚪 El final = se va al VIP con un CLIENTE DESCONOCIDO y lo DISFRUTA.** Hambre elegida (no reprimida), sin paz. Cierre del relato.
+- **🔄 ORDEN NUEVO DEL FINAL (Ama 02/07 tarde — v0.2, GOBIERNA sobre las dos viñetas siguientes donde choquen):** tras el baile → **PRIMERO el VIP con el CLIENTE DESCONOCIDO** (aperitivo: se le sube a horcajadas queriéndolo ella, lo DISFRUTA, carne disponible para cualquiera — **SIN folle vaginal pleno**; queda MÁS hambrienta) → **DESPUÉS el privado de Sebastián = EL SEXO FINAL del relato** (lo que iba en un "Cap 5" queda aquí). El *"¿A qué hora el VIP?"* migra a justo después del baile (hambre en voz propia, abre el aperitivo).
+- **🍑 El clímax = EL SEXO FINAL CON SEBASTIÁN, fogoso, ~80% EXPLÍCITO, más caliente que el Cap 3:** le chupa las tetas (1000cc + piercings H17) y el coño → **Dani SE VIENE** (primer orgasmo pleno) → **y SE LA FOLLA — ESTRENO DEL COÑO** (decisión Ama 02/07: la primera verga vaginal desde el intercambio es la de Sebastián — en el Cap 3 el coño solo fue rozado, la penetración fue anal; el que la compró la estrena; el desconocido NO la penetra) → **se viene con él adentro** (pico térmico absoluto, cuerpo y voluntad juntos).
+- **🚪 El cierre = tras Sebastián:** saciedad de un instante → el hueco vuelve a pedir → **hambre elegida para siempre** (la extensión viva: disponible para cualquiera), sin paz. La última línea del v0.1 (*"Y me la iban a coger. Todos…"*) se conserva. Cierre del relato.
 - **Correcciones Gate aplicadas en Cap 2 «El postre»:** dirección de la plata (*"Lo que tú me pagabas a mí…"*) + *"Así **la** dejaba yo a ella"* (transitivo).
 
 > Donde §2 (Pivote 3/4) o §6 digan "Cap 2 = consumación / 3 capítulos", **manda este §0.** El resto de §2–§9 (voces, mecanismos, cementerio, vocabulario) sigue vigente, solo renumerado.

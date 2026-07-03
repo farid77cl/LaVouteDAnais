@@ -28,7 +28,7 @@
 
 ### 📖 Literatura (Nivel 4 — la historia de cada relato vive en su `walkthrough.md`)
 - **«El podcast»** — Cap 1 «La recomendación» v0.1 Validador APROBADO (9.3/8.7) ⏳ Gate · Cap 2 «Los pensamientos» v0.1 escrito ⏳ Gate · → Cap 3 «El amaneramiento» (maquillaje + más ropa + empieza a servir a Rodrigo).
-- **«La Piel que Diseñó»** — **RELATO COMPLETO (4 caps).** Cap 1 v0.4 ✅ · Cap 2 «El postre» v0.1 ✅ (Validador pendiente) · Cap 3 v0.2 ✅ APROBADO · Cap 4 «La primera bailarina» v0.1 ⏳ Gate (micro-fix uñas nude perlado 02/07) · → con Gate: FASE PUBLICACIÓN.
+- **«La Piel que Diseñó»** — **RELATO COMPLETO (4 caps).** Cap 1 v0.4 ✅ · Cap 2 v0.1 ✅ · Cap 3 v0.2 ✅ APROBADO · **Cap 4 «La primera bailarina» → v0.2 (03/07, NUEVO final: baile → VIP desconocido → Sebastián estrena el coño H20, ~80% explícito) ⏳ Gate.** **HTML Caps 1-3 publicados** en `_publicacion/` (body-only + resumen gancho ≤300 + despedida Anaïs). → con Gate Cap 4: FASE PUBLICACIÓN.
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 (cirugía estructural) ⏳ Gate · → Cap 3 «La Esclava del Nylon». Carpeta migrada a Nivel 4 (cronología creada 02/07).
 - **«trance_office_siren»** — Cap 1 v0.13 (crítica 10.0) ⏳ Gate.
 - **Parqueado (la Ama elige):** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
@@ -37,13 +37,18 @@
 - KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — cuello de botella: la Ama crea las 2 cuentas.
 
 ### ⏳ Pendientes transversales
-- **4 Gates de la Ama:** «El podcast» Cap 1 + Cap 2 · «La Piel» Cap 4 · «El Secreto» Cap 2 v4.0 · «trance» Cap 1 v0.13.
+- **4 Gates de la Ama:** «El podcast» Cap 1 + Cap 2 · **«La Piel» Cap 4 v0.2** · «El Secreto» Cap 2 v4.0 · «trance» Cap 1 v0.13.
 - 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L700 por materializar (app).
 - Regenerar grafo `/graphify` (rutas viejas en `graphify-out/`).
 
 ---
 
 ## 🗓️ Sesiones recientes
+
+
+### Sesión 03/07/2026 (🔥 «La Piel» Cap 4 → v0.2 [nuevo final: Sebastián estrena el coño] · 📄 HTML Caps 1-3 publicados) ✅
+- **📄 HTML Caps 1-3 «La Piel» (publicación):** exportados a **body-only** en `_publicacion/` (atribución → título ≤54 → metadata → **resumen gancho ≤300** → `<!-- more -->` → prosa → **despedida de Anaïs al final** invitando al cap siguiente). Formato calcado del skill + «De Esteban»/«La app». Iteración con la Ama: corregí (1) artefacto→body-only, (2) resumen ≤300 char, (3) despedida faltante. Commits `fd3f9c326`+`ff2c08461`.
+- **🔥 «La Piel» Cap 4 → v0.2 (reescritura del final):** orden nuevo por directiva Ama — **baile → VIP con el desconocido (aperitivo, sin folle) → Sebastián = SEXO FINAL** (chupa tetas+coño → 1er orgasmo pleno → **la folla = ESTRENO del coño H20** → se viene con él adentro), ~80% explícito; cierre en hambre elegida (última línea conservada). El *"¿A qué hora el VIP?"* migró tras el baile. **H20 nuevo** (Ama eligió: el que la compró la estrena; el desconocido no penetra). Canon §0 + cronología actualizados. v0.1 → `borradores/`; T1+T2 por Escritor-N4 MODO TRAMO, **T3 (estreno+cierre) lo completé yo tras tope de sesión del subagente**. ~12.400 pal, prosa pura, autoverif v0.2, **H1-H20 pagados, RELATO CERRADO.** ⏳ Gate.
 
 ### Generación Batch Tanda 2 (02/07/2026)
 * Generadas 17 imágenes de looks pendientes (237-258) antes de topar con la cuota 429.
@@ -83,11 +88,6 @@
 - **🛠️ Pose de costado:** `pose_rotation_v5.py` SIDE reescrito a 7 variantes todas de pie (0 sentadas) — salía siempre sentada. QA de inyector con nuevo check.
 - **🧛 Batch L681-L690 «Vampiresa Bimbo Sensual»** (10 looks/70 prompts): no-gótico (restricción levantada por orden Ama), cero oxblood, colores variados, colmillos+mirada hipnótica en Bloque A. QA verde. Flota L680→L690.
 
-### Sesión 30/06/2026 (✍️ «La Piel» resplit a 4 caps · Cap 2 «El postre» + Cap 3 «El cuerpo que sabe» escritos · 📷 L671-L680 en galería · 🤖 humanizer integrado) ✅
-- **✂️ «La Piel» resplit a 4 caps** (diseñado en vivo con la Ama): **Cap 2 «El postre»** (amenaza al inicio + salón + tease de rodillas negado, coño *Chúpala*, T° alta) + **Cap 3 «El cuerpo que sabe»** (club mirada invertida + Bárbara/pole + Sebastián/Opción B + consumación con **culo virgen H19** + POV interior semi-explícito, coño *Sí*+*Más*, pico con techo); sábado → **Cap 4**. Ambos v0.1 escritos (Escritor-N4; Cap 3 MODO TRAMO ×4), prosa pura, esperando Gate. Correcciones Gate del Cap 2 aplicadas.
-- **🧬 Canon §0 gobernante + `cronologia.md` reescrita** (Opción B: Día1 dom→Día7 sáb, sin "mañana es viernes"; H19 culo virgen; estados por cap). §6 viejo marcado superado. Borrador combinado pre-split → `borradores/capitulo_02/`. **Validador sobre Cap 2+3 no alcanzó veredicto (límite de sesión) → pendiente.**
-- **📷 Batch L671-L680 «Barroco Fetish»** (10 looks/70 prompts) registrado en `galeria_outfits.md` (0/7 c/u), CRLF respetado, 4 descriptors de medias corregidos. Commit+push (0/0 con origin, subieron 6 commits pendientes).
-- **🤖 Humanizer integrado (directiva Ama — integrar, no reemplazar):** cosechado lo útil de `toniperea` (ES) a `CALIBRACION_CHILENO_LAVOUTE.md` (§3 frases-molde IA español · §6 burstiness/respiración · §7 descartes · §8 checklist de cierre); base blader v2.8.0 intacta. Config global ~/.claude, fuera del repo.
 
 
 ---

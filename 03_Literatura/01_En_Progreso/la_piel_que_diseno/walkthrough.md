@@ -16,8 +16,12 @@
 ## ✅ NUDO TEMPORAL — RESUELTO (01/07/2026). No reabrir sin decisión de la Ama.
 El bug viejo (*"mañana es viernes…"*) era del Cap 2 combinado PRE-resplit; derogado vía **Opción B** (firma viernes Día 6 / acto sábado Día 7). Calendario hermético auditado: Día 1 domingo (Cap 1) → Día 4 miércoles (Cap 2 salón/tease + Cap 3 club/consumación) → Día 6 viernes firma (Cap 4 T1) → Día 7 sábado acto+VIP (Cap 4 T2-T4). Ancla dura = sábado = Día 7.
 
+## ✅ Cap 4 → v0.2 COMPLETO (02/07 tarde) — reescritura del FINAL por orden de la Ama
+- **Directiva Ama (02/07 tarde):** orden nuevo tras el baile — **1)** VIP con el CLIENTE DESCONOCIDO (aperitivo, lo disfruta, SIN folle vaginal; el «¿A qué hora el VIP?» migró a después del baile) → **2)** privado de Sebastián = **EL SEXO FINAL** (fogoso, ~80% explícito: chupa tetas+coño → se viene → **SE LA FOLLA = ESTRENO del coño, H20** → se viene con él adentro) → **3)** cierre hambre elegida (última línea v0.1 conservada). Canon §0 + cronología (H20) actualizados.
+- **Ejecución:** v0.1 → `borradores/capitulo_04/`. v0.2 = v0.1 truncado tras el brindis + reescritura. **T1** (cierre baile + ¿A qué hora el VIP? + VIP desconocido) y **T2** (Daniela corta + extensión/«Pásamela» + tetas y coño orales + 1er orgasmo) escritos por Escritor-N4 (MODO TRAMO); **T3** (la follada/estreno del coño + se viene con él adentro + cierre) completado por el Orquestador tras tope de sesión del subagente. ~12.400 palabras. Prosa pura ✅ (grep metadata=0), 0 uñas rojas, botas de plata puestas, última línea conservada. Autoverif `reportes/capitulo_04/autoverificacion_v0.2.md`. Cronología cerrada (H1–H20 pagados, RELATO CERRADO). HTML Caps 1-3 publicados en `_publicacion/` (resumen ≤300 + despedida Anaïs).
+
 ## Siguiente paso
-1. ⏳ **Gate Ama del Cap 4 v0.1** (llegará como `nota_capitulo_04_..._vX.md` — buscar en la raíz; con la limpieza del 02/07, las notas procesadas viven en `reportes/capitulo_NN/`).
+1. ⏳ **Gate Ama del Cap 4 v0.2** (llegará como `nota_capitulo_04_..._vX.md` — buscar en la raíz; con la limpieza del 02/07, las notas procesadas viven en `reportes/capitulo_NN/`).
 2. (Opcional, a orden de la Ama) **Validador** de cierre sobre Cap 2 v0.1 + Cap 4 v0.1 (Cap 3 ya aprobado por Gate directo).
 3. Con Gate del Cap 4 → **FASE PUBLICACIÓN** (humanizer calibrado chileno + cabecera Estándar Completo Bloque + gancho + invitación Anaïs + HTML body-only) → `02_Finalizadas/`.
 
