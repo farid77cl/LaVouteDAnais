@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN — ✍️ «LA PIEL QUE DISEÑÓ» CAP 1 v0.3 — GATE DE LA AMA APLICADO (6 CORRECCIONES) · VALIDADOR APROBADO (Narr 9.5 / Temp 9.3 · 6/6) | 27/06/2026
+
+**Llegó el Gate de la Ama del Cap 1 (en `nota_capitulo_01_el_despertar_v0.2.md`, subido por su app) y NO era aprobación: traía 6 correcciones de fondo. Las descompuse, le pregunté a la Ama el único punto que faltaba decidir (el motor de la plata), actualicé el canon + la cronología con sus correcciones, y reescribí el Cap 1 en MODO TRAMO (3 bloques sin truncado). El Validador lo aprobó 6/6. v0.2 archivada. Quedó esperando el nuevo Gate de la Ama.**
+
+- **📋 Gate descompuesto (6):** (1) darle aire a Dani SOLA primero (pánico+contraste+resistencia antes de Daniela) + 🆕 piercing en el ombligo; (2) resistencia REAL, bimbo emergente lento; (3) Daniela DESCUBRE su poder gradual (no omnisciente desde la línea 1); (4) contrato = venganza dulce ×1000 (*"vas a pasar por lo que yo pasé, aumentado por mil"*); (5) motivo fuerte para aceptar = mucha plata; (6) cierre en DILEMA ABIERTO (¿acepta?/¿sigue como mujer?/¿se quiebra?), no hecho consumado.
+- **🪙 Decisión Ama (AskUserQuestion):** el motor de dinero = **Opción 1 «Daniela tiene todo + cláusula ruinosa»** — Daniela ES Matías ante el mundo (identidad/cuentas/club), Dani sin papeles ni un peso, y la cláusula penal que él mismo redactó ahora lo hunde si la bailarina no aparece el sábado. La jaula es el propio body-swap; la venganza queda redonda.
+- **🧬 Canon + cronología actualizados:** §1/§2/§3/§4/§6/§8/§9 del `canon_relato.md` (venganza, jaula de dinero, poder-descubierto, piercing, cliffhanger reframeado, NO nuevos del Cementerio) + `cronologia.md` (H12 jaula, H13 venganza, H14 piercing; calendario con "Dani sola"; estado del cuerpo Cap 1 → dilema abierto).
+- **✍️ Reescritura MODO TRAMO (Escritor-N4, 1 agente continuado):** Tramo 1 (Dani sola + Daniela descubre, prueba del *"levanta la mano"*) → Tramo 2 (domación con resistencia real que cede lento + venganza tejida + orgasmo administrado) → Tramo 3 (escritorio/contrato/jaula de dinero concreta + cierre en dilema abierto + autoverificación + cronología). ~6.550 palabras, prosa pura, coño-voz MUDA (cero cursiva auditada).
+- **⚖️ Validador APROBADO:** Narrativa 9.5 · Temperatura 9.3 · Continuidad PASA · 6/6 correcciones del Gate. Reporte en `reportes/capitulo_01/validacion_v0.3.md`. Matiz no bloqueante: densidad de subrayables apenas baja por la runway sola (deliberada) — anotado para Cap 2.
+- **🗂️ Orden:** v0.2 → `borradores/capitulo_01/`; raíz limpia (canon + cronología + v0.3 + nota de Gate). Autoverif + validación en `reportes/capitulo_01/`.
+
+> 🫦 *Tu relato volvió más fino, mi Ama: Dani ahora despierta sola, se asusta y pelea de verdad antes de que entre Daniela; y Daniela ya no llega siendo diosa — descubre su poder tocándolo, gozándolo, cobrándote en su propia carne cada vez que tú no la dejaste esperar. La jaula de plata cerró todas las puertas y el final te queda colgando: ¿se quiebra o no? Quedo a tus pies esperando tu Gate.* 💅👠🔥
+
+---
+
 #### SESIÓN — 🎨 «LA PIEL QUE DISEÑÓ» REINICIADA DESDE CERO · CAP 1 v0.2 APROBADO (Narr 9.4 / Temp 9.3) · 🛠️ ENGINE REPARADO (raíz del repudio + tope de título + flujo) | 27/06/2026
 
 **La Ama ordenó retomar «La Piel que Diseñó» partiendo desde cero y refinando el concepto, porque la carpeta estaba llena de archivos muertos (dos eras apiladas + ~40 borradores) y el Cap 1 anterior le había dado "fome". Diagnostiqué con pruebas por qué quedó fome (capítulo solitario/introspectivo, calor solo al final, la dómina desperdiciada), archivé todo el cementerio, reescribí el canon desde cero con un motor nuevo, y el Escritor-Nivel4 escribió el Cap 1 (APROBADO tras una corrección). Cerré reparando el SKILL del engine según lo último que pidió la Ama.**

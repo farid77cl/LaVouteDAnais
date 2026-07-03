@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 01/07/2026 (🗜️ repo no-LFS · 🕰️ «La Piel» nudo temporal resuelto + nota Cap 2 · 📲 «El podcast» nace, Cap 1 APROBADO · 🛠️ pose de costado reparada · 🧛 batch L681-L690 «Vampiresa Bimbo Sensual») ✅
+- **🗜️ Repo:** diagnóstico honesto del peso (4.5 GB · solo ~4% historia muerta) → **Git LFS NO conviene** (la app cupcake sube por API sin respetar LFS · achicar exige rewrite + re-clonar app). Decisión Ama = no tocar estructural. Auto-memoria `project_peso_repo_no_lfs`.
+- **🕰️ «La Piel»:** el nudo temporal ya estaba resuelto en la prosa (Opción B en Cap 3); lo arrastraba el `walkthrough.md` viejo → reescrito. Nota Cap 2 «El postre» aplicada (*dueñez→propiedad*) + limpieza del *"jueves"* suelto. Cap 2 aprobado salvo Validador.
+- **📲 «El podcast» (relato NUEVO):** Compositor → canon (5 pivotes/16 hechos) + cronología · Escritor-N4 → **Cap 1 «La recomendación» v0.1** · **Validador APROBADO** (Narr 9.3/Temp 8.7, gate "nunca lo sabe" sostiene). Espinazo = «ALFA» promete alfa e instala sumisión; Nico nunca lo sabe. ⏳ Gate Ama.
+- **🛠️ Pose de costado:** `pose_rotation_v5.py` SIDE reescrito a 7 variantes todas de pie (0 sentadas) — salía siempre sentada. QA de inyector con nuevo check.
+- **🧛 Batch L681-L690 «Vampiresa Bimbo Sensual»** (10 looks/70 prompts): no-gótico (restricción levantada por orden Ama), cero oxblood, colores variados, colmillos+mirada hipnótica en Bloque A. QA verde. Flota L680→L690.
+
 ### Sesión 30/06/2026 (✍️ «La Piel» resplit a 4 caps · Cap 2 «El postre» + Cap 3 «El cuerpo que sabe» escritos · 📷 L671-L680 en galería · 🤖 humanizer integrado) ✅
 - **✂️ «La Piel» resplit a 4 caps** (diseñado en vivo con la Ama): **Cap 2 «El postre»** (amenaza al inicio + salón + tease de rodillas negado, coño *Chúpala*, T° alta) + **Cap 3 «El cuerpo que sabe»** (club mirada invertida + Bárbara/pole + Sebastián/Opción B + consumación con **culo virgen H19** + POV interior semi-explícito, coño *Sí*+*Más*, pico con techo); sábado → **Cap 4**. Ambos v0.1 escritos (Escritor-N4; Cap 3 MODO TRAMO ×4), prosa pura, esperando Gate. Correcciones Gate del Cap 2 aplicadas.
 - **🧬 Canon §0 gobernante + `cronologia.md` reescrita** (Opción B: Día1 dom→Día7 sáb, sin "mañana es viernes"; H19 culo virgen; estados por cap). §6 viejo marcado superado. Borrador combinado pre-split → `borradores/capitulo_02/`. **Validador sobre Cap 2+3 no alcanzó veredicto (límite de sesión) → pendiente.**

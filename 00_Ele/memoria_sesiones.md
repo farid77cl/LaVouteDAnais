@@ -28,7 +28,7 @@
 
 ### 📖 Literatura (Nivel 4 — la historia de cada relato vive en su `walkthrough.md`)
 - **«El podcast»** — Cap 1 «La recomendación» v0.1 Validador APROBADO (9.3/8.7) ⏳ Gate · Cap 2 «Los pensamientos» v0.1 escrito ⏳ Gate · → Cap 3 «El amaneramiento» (maquillaje + más ropa + empieza a servir a Rodrigo).
-- **«La Piel que Diseñó»** — **RELATO COMPLETO (4 caps).** Cap 1 v0.4 ✅ · Cap 2 v0.1 ✅ · Cap 3 v0.2 ✅ APROBADO · **Cap 4 «La primera bailarina» → v0.2 (03/07, NUEVO final: baile → VIP desconocido → Sebastián estrena el coño H20, ~80% explícito) ⏳ Gate.** **HTML Caps 1-3 publicados** en `_publicacion/` (body-only + resumen gancho ≤300 + despedida Anaïs). → con Gate Cap 4: FASE PUBLICACIÓN.
+- **«La Piel que Diseñé»** (título 1ª persona) — **RELATO COMPLETO (4 caps).** Gate Cap 4 v0.1 = **APROBADO** («cap ok… genera los cap para publicar»); v0.2 = reescritura del final por directiva Ama (baile → VIP desconocido → Sebastián estrena el coño H20). **Los 4 caps exportados a HTML body-only** en `_publicacion/` (título nuevo · gancho ≤300 · despedida Anaïs; el Cap 4 cierra el relato). → **FASE PUBLICACIÓN: armar en `02_Finalizadas/` cuando la Ama lo pida.**
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 (cirugía estructural) ⏳ Gate · → Cap 3 «La Esclava del Nylon». Carpeta migrada a Nivel 4 (cronología creada 02/07).
 - **«trance_office_siren»** — Cap 1 v0.13 (crítica 10.0) ⏳ Gate.
 - **Parqueado (la Ama elige):** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
@@ -37,7 +37,7 @@
 - KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — cuello de botella: la Ama crea las 2 cuentas.
 
 ### ⏳ Pendientes transversales
-- **4 Gates de la Ama:** «El podcast» Cap 1 + Cap 2 · **«La Piel» Cap 4 v0.2** · «El Secreto» Cap 2 v4.0 · «trance» Cap 1 v0.13.
+- **Gates de la Ama pendientes:** «El podcast» Cap 1 + Cap 2 · «El Secreto» Cap 2 v4.0 · «trance» Cap 1 v0.13. («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos.)
 - 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L700 por materializar (app).
 - Regenerar grafo `/graphify` (rutas viejas en `graphify-out/`).
 
@@ -45,6 +45,10 @@
 
 ## 🗓️ Sesiones recientes
 
+
+
+### Sesión 03/07/2026 (📄 «La Piel que Diseñé» Cap 4 → HTML · los 4 caps listos para publicar) ✅
+- **📄 Cap 4 «La primera bailarina» exportado a HTML** (`_publicacion/capitulo_4_la_primera_bailarina.html`) desde v0.2, molde body-only calcado de Caps 1-3 (atribución → **título 1ª persona** → metadata → **gancho 280 char (≤300)** → `<!-- more -->` → prosa 151 párrafos con cursivas/saltos → **despedida de Anaïs que CIERRA el relato**, no invita a cap siguiente). Gate Cap 4 v0.1 aprobado («genera los cap para publicar»). QA verde (`<em>` balanceados, 0 markdown/asterisco suelto). **Los 4 HTML de «La Piel que Diseñé» listos en `_publicacion/`.** → FASE PUBLICACIÓN (armar en `02_Finalizadas/` cuando la Ama lo pida).
 
 ### Sesión 03/07/2026 (🔥 «La Piel» Cap 4 → v0.2 [nuevo final: Sebastián estrena el coño] · 📄 HTML Caps 1-3 publicados) ✅
 - **📄 HTML Caps 1-3 «La Piel» (publicación):** exportados a **body-only** en `_publicacion/` (atribución → título ≤54 → metadata → **resumen gancho ≤300** → `<!-- more -->` → prosa → **despedida de Anaïs al final** invitando al cap siguiente). Formato calcado del skill + «De Esteban»/«La app». Iteración con la Ama: corregí (1) artefacto→body-only, (2) resumen ≤300 char, (3) despedida faltante. Commits `fd3f9c326`+`ff2c08461`.
@@ -81,12 +85,6 @@
 
 ### Sesión 01/07/2026 (🔄 Materialización Parcial 200-300 · 📸 17 nuevas poses L236/L243/L246 + avance en L237/L247 · ⚠️ Límite de Cuota 429)
 
-### Sesión 01/07/2026 (🗜️ repo no-LFS · 🕰️ «La Piel» nudo temporal resuelto + nota Cap 2 · 📲 «El podcast» nace, Cap 1 APROBADO · 🛠️ pose de costado reparada · 🧛 batch L681-L690 «Vampiresa Bimbo Sensual») ✅
-- **🗜️ Repo:** diagnóstico honesto del peso (4.5 GB · solo ~4% historia muerta) → **Git LFS NO conviene** (la app cupcake sube por API sin respetar LFS · achicar exige rewrite + re-clonar app). Decisión Ama = no tocar estructural. Auto-memoria `project_peso_repo_no_lfs`.
-- **🕰️ «La Piel»:** el nudo temporal ya estaba resuelto en la prosa (Opción B en Cap 3); lo arrastraba el `walkthrough.md` viejo → reescrito. Nota Cap 2 «El postre» aplicada (*dueñez→propiedad*) + limpieza del *"jueves"* suelto. Cap 2 aprobado salvo Validador.
-- **📲 «El podcast» (relato NUEVO):** Compositor → canon (5 pivotes/16 hechos) + cronología · Escritor-N4 → **Cap 1 «La recomendación» v0.1** · **Validador APROBADO** (Narr 9.3/Temp 8.7, gate "nunca lo sabe" sostiene). Espinazo = «ALFA» promete alfa e instala sumisión; Nico nunca lo sabe. ⏳ Gate Ama.
-- **🛠️ Pose de costado:** `pose_rotation_v5.py` SIDE reescrito a 7 variantes todas de pie (0 sentadas) — salía siempre sentada. QA de inyector con nuevo check.
-- **🧛 Batch L681-L690 «Vampiresa Bimbo Sensual»** (10 looks/70 prompts): no-gótico (restricción levantada por orden Ama), cero oxblood, colores variados, colmillos+mirada hipnótica en Bloque A. QA verde. Flota L680→L690.
 
 
 
