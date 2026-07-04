@@ -1,1 +1,1 @@
-La depilación debe ser completa. cuando se pone la tanga se exita, pero la verga no responde de ahí en adelante la verga se mantiene flaciday pequeña. cuando están viendo el partido y 
+La depilación debe ser completa. cuando se pone la tanga se exita, pero la verga no responde de ahí en adelante la verga se mantiene flaciday pequeña. cuando están viendo el partido y Rodrigo estira el brazo, agrega el deseo de servirle, el le pasa la cerveza a rodrigo
