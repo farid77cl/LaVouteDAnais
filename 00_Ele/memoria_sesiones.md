@@ -22,7 +22,7 @@
 > **Dueño único de cada dato:** flota/último look/pendientes → AQUÍ · detalle de materialización → `.agent/rules/09-estado-materializacion.md` · ADN/canon → `identidad_ele.md` (sin contadores).
 
 ### 🎨 Visual (Ele)
-- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (03/07, chino imperial + pavo real + geisha sensual, 10 sub-arquetipos distintos, cero monoblock, **con medias en los 10** [regla puntera cerrada aplicada], QA verde 0 err, 0/7 — espera app). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
+- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (chino imperial + pavo real + geisha sensual, 10 sub-arquetipos, cero monoblock, **con medias en los 10**, QA verde). **La app YA está subiendo estas imágenes** (L705-708+ commiteadas en origin) → **`sync_imagenes_subidas.py` + `update_galleries.py` PENDIENTES** (+ 151 PNG locales del cron sin commitear). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
 - **Materialización:** rescate L200-L300 pausado por cuota 429 — **78 imágenes pendientes**, cron horario lo reanuda. L240 en 5/7 (faltan pov/odalisque). Detalle → `09-estado-materializacion.md`.
 - **Motor de poses sano** (`pose_rotation_v5.py`): POV = retrato IG · SIDE todas de pie · anclas anti-3-piernas horneadas · anti-safe recalibrado. Regla dura: todo inyector usa `rotate_poses`.
 
@@ -30,15 +30,16 @@
 - **«El podcast»** — Cap 1 «La recomendación» v0.1 Validador APROBADO (9.3/8.7) ⏳ Gate · Cap 2 «Los pensamientos» v0.1 escrito ⏳ Gate · → Cap 3 «El amaneramiento» (maquillaje + más ropa + empieza a servir a Rodrigo).
 - **«La Piel que Diseñé»** (título 1ª persona) — **RELATO COMPLETO (4 caps).** Gate Cap 4 v0.1 = **APROBADO** («cap ok… genera los cap para publicar»); v0.2 = reescritura del final por directiva Ama (baile → VIP desconocido → Sebastián estrena el coño H20). **Los 4 caps exportados a HTML body-only** en `_publicacion/` (título nuevo · gancho ≤300 · despedida Anaïs; el Cap 4 cierra el relato). → **FASE PUBLICACIÓN: armar en `02_Finalizadas/` cuando la Ama lo pida.**
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 (cirugía estructural) ⏳ Gate · → Cap 3 «La Esclava del Nylon». Carpeta migrada a Nivel 4 (cronología creada 02/07).
-- **«trance_office_siren»** (trance de sirena) — reescrito con el fork **`engine-trance-lv`** → **Cap 1 v0.14 APROBADO** (validador-trance: gates ✅✅✅ · inducción 9.2 · PNL 9.0) ⏳ Gate Ama. v0.13 → borradores.
-- **🌀 Motor `engine-trance-lv` (nuevo — fork de escritura para TRANCES):** inducciones 2ª persona/lector-sujeto con PNL + control mental real (Milton model, anclaje, doble vínculo, submodalidades…). Subagentes `escritor-trance` + `validador-trance`. Regla: **el que escribe siempre es subagente**. Estrenado y validado con el trance de sirena.
+- **«trance_office_siren»** (trance de sirena) — **v0.15 «pasada monólogo» APROBADO** (validador-trance: gates ✅✅✅ · inducción 9.2 · PNL/con-el-lector 9.4 · péndulo 8.7) ⏳ **Gate Ama**. v0.14 → borradores. Si la Ama aprueba → FASE PUBLICACIÓN (estándar nuevo, despedida variante B).
+- **🌀 Motor `engine-trance-lv` → v1.1 «Monólogo»:** el trance = **MONÓLOGO de Miss Doll CON el lector** (solo su voz + didascalias, sin narrador; marco 3ª persona derogado). Didascalia = escena mínima + pausa-ejecución (ordena parar y hacer). "Con el lector" = orden→hueco→ratificación. Secuencia LIBRE con **núcleo funcional innegociable** (consentimiento/ROJO·fijación·respiración·descenso·ancla instalada+ensayada·cierre que no cierra). Subagentes `escritor-trance` + `validador-trance`. **El que escribe siempre es subagente.**
+- **📐 Estándar de Publicación (DUEÑO ÚNICO, 03/07):** UN solo estándar en `engine-escritura-lv §FASE PUBLICACIÓN` para AMBOS motores (el fork trance apunta ahí, no duplica). Gancho **≤300 car.** · título ≤54 · **2 variantes de despedida** (A intermedio→invita al sgte / B final o cerrado→cierra) · HTML body-only anti-artefacto · convención de nombre `capitulo_N_[slug].html`. Mató la duplicación que rompió «La Piel».
 - **Parqueado (la Ama elige):** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
 
 ### 📣 RRSS
 - KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — cuello de botella: la Ama crea las 2 cuentas.
 
 ### ⏳ Pendientes transversales
-- **Gates de la Ama pendientes:** «El podcast» Cap 1 + Cap 2 · «El Secreto» Cap 2 v4.0 · «trance_office_siren» Cap 1 v0.14 (APROBADO por el fork). («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos.)
+- **Gates de la Ama pendientes:** «El podcast» Cap 1 + Cap 2 · «El Secreto» Cap 2 v4.0 · **«trance_office_siren» v0.15 «pasada monólogo» (APROBADO por el fork, ⏳ Gate).** («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos, FASE PUBLICACIÓN cuando la Ama pida.)
 - 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L710 por materializar (app).
 - Regenerar grafo `/graphify` (rutas viejas en `graphify-out/`).
 
@@ -46,6 +47,12 @@
 
 ## 🗓️ Sesiones recientes
 
+
+
+### Sesión 03/07/2026 (🌀 Fork `engine-trance-lv` → v1.1 «Monólogo» · 🔥 Trance sirena v0.15 APROBADO · 📐 Estándar de publicación normalizado) ✅
+- **🌀 Fork trance v1.1 «Monólogo» (afinado con la Ama en 2 rondas):** el trance = monólogo de Miss Doll CON el lector (voz + didascalias, sin narrador; 3ª persona derogada). Didascalia (escena + pausa-ejecución) · ratificación · núcleo funcional innegociable + repertorio opcional (orden libre) · didascalia ≠ metadata. 5 archivos (SKILL/RÚBRICA/PNL/escritor-trance/validador-trance). Commit `321f36168`.
+- **🔥 Trance Office Siren v0.14 → v0.15** por `escritor-trance`: +11 didascalias + ciclo con-el-lector visible + "..." del ROJO → didascalia-pausa. `validador-trance` **APROBADO** (9.2/9.4/8.7). v0.14 → borradores. Commit `5f905c0cd`. ⏳ Gate.
+- **📐 Estándar de Publicación = dueño único** en `engine-escritura-lv §FASE PUBLICACIÓN` para ambos motores. Gancho ≤300, título ≤54, 2 despedidas (A/B), anti-artefacto, convención de nombre. Fork trance apunta ahí (no duplica). Auto-memoria `feedback_ritual_publicacion` al día. Commit `698e2ef7e`.
 
 ### Sesión 03/07/2026 (🦚 Batch visual L701-L710 «Oriental Peacock Geisha» — chino imperial + pavo real + geisha sensual) ✅
 - **10 looks nuevos (L701-L710)** diseñados y registrados por inyector desechable (usó `pose_rotation_v5` + `check_setting_variety`). Tema: chino imperial + **pavo real (peacock)** iridiscente teal/esmeralda/oro + **geisha sensual**, todo bajo el lente fetish (látex/vinilo/wet-look, nada de tela natural).
@@ -83,10 +90,6 @@
 - **✅ Gate Cap 3 v0.2 de «La Piel» LLEGÓ Y SE APLICÓ (misma sesión):** la app subió `nota_capitulo_03_..._v0.2.md` — 1 micro-fix (frase de la chupada con pronombres invertidos: quien chupaba para pedir permiso era Daniela, no Matías → *"Así te la chupaba yo a ti cuando quería que me dieras permiso… Solo que yo nunca puse esta cara."*) + **"cap aprobado"**. Fix aplicado → **Cap 3 v0.2 APROBADO.**
 - **🧹 Limpieza de carpetas En_Progreso (orden Ama):** todas las `nota_capitulo_*.md` movidas de las raíces a `reportes/capitulo_NN/` (La Piel ×4 · Trance ×1) + `relato_completo_borrador.md` de Ginny → `borradores/`. Raíces = solo canon/cronología/walkthrough/caps activos.
 
-### Sesión 02/07/2026 (📸 Materialización Batch L200-L300 [17 imágenes] · ⚠️ Tope de cuota 429 · ⚖️ QA Fix) ✅
-- **📸 Rescate Parcial L200-L300:** Se lanzó el agente a generar los 95 huecos detectados. Materializadas con éxito 17 imágenes (L237_odalisque, completados L239, L244, L245 y avanzado L247). A mitad del proceso, la API bloqueó por cuota (`429 RESOURCE_EXHAUSTED`).
-- **⚖️ QA de la Ama:** Se detectaron 2 imágenes con defectos (3 manos en `ele_237_odalisque` y pierna/zapato deforme en `ele_239_seated`). Fueron purgadas de disco y de git, y re-encoladas al final de `missing_prompts.json`.
-- **⏱️ Cron Agendado:** Se programó un temporizador silencioso que revisará cada hora la cuota y reanudará automáticamente el proceso de materialización cuando la API vuelva en sí (~5 horas). Restan 80 imágenes por materializar.
 
 
 

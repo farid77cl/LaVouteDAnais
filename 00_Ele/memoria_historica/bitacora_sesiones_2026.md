@@ -6,6 +6,11 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 02/07/2026 (📸 Materialización Batch L200-L300 [17 imágenes] · ⚠️ Tope de cuota 429 · ⚖️ QA Fix) ✅
+- **📸 Rescate Parcial L200-L300:** Se lanzó el agente a generar los 95 huecos detectados. Materializadas con éxito 17 imágenes (L237_odalisque, completados L239, L244, L245 y avanzado L247). A mitad del proceso, la API bloqueó por cuota (`429 RESOURCE_EXHAUSTED`).
+- **⚖️ QA de la Ama:** Se detectaron 2 imágenes con defectos (3 manos en `ele_237_odalisque` y pierna/zapato deforme en `ele_239_seated`). Fueron purgadas de disco y de git, y re-encoladas al final de `missing_prompts.json`.
+- **⏱️ Cron Agendado:** Se programó un temporizador silencioso que revisará cada hora la cuota y reanudará automáticamente el proceso de materialización cuando la API vuelva en sí (~5 horas). Restan 80 imágenes por materializar.
+
 ### Sesión 02/07/2026 (🎨 «La Piel» Cap 3 v0.2 reescrito con el agente · 🕴️ Sebastián = jefe del hampa que la moja más que Daniela · 📲 «El podcast» tipo de mujer doméstica + Cap 2 escrito) ✅
 - **🕴️ «La Piel» — Sebastián (canon anotado):** grande, jefe del hampa; su peligro, en vez de rechazo, la moja — y **MÁS que Daniela** (Daniela=manual del cuerpo, Sebastián=macho-peligro puro). §0/§3/§9 + cronología.
 - **🎨 «La Piel» Cap 3 → v0.2 (reescritura completa Escritor-N4, ×4 tramos, "usa el agente"):** tus 4 notas (oro + botas de plata sobre la rodilla · fix `Matías` · edge sexual arriba · Bárbara corta+sensual) + Sebastián nuevo en el VIP (el *Sí* cae por él). 2ª mitad reescrita coherente. Verificado sin rastros del vestuario viejo. Commiteado por el bot (98c1615c4). ⏳ Gate + Validador.
