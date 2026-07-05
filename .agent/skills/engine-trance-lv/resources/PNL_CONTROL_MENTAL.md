@@ -1,7 +1,8 @@
 # 🧠 PNL Y CONTROL MENTAL — Caja de Técnica del Trance
 
-*Recurso técnico de `engine-trance-lv` v1.0 · La Voûte d'Anaïs*
+*Recurso técnico de `engine-trance-lv` v1.1 · La Voûte d'Anaïs*
 *Documento hermano de `01_Canon/Guias_Especializadas/arquitectura_erotica_hipnosis_v1.md` (la anatomía) — esto es la **mano**: los patrones concretos de lenguaje hipnótico que hacen que el trance se sienta real.*
+*v1.1 (04/07/2026 — «que Miss Doll se sienta como un verdadero hipnotista»): suma la **capa de escritura hipnótica** (§10 palabras-gatillo, voz activa/impersonal, utilización preventiva · §11 bucles abiertos y nested loops · §12 mantra-loop + dronificación) sobre la técnica base §1-9. La técnica baja al sujeto; la escritura hace que la voz suene a hipnotista y no a manual.*
 
 ---
 
@@ -235,6 +236,8 @@ Fijación (ojos) → Acompasar la respiración real (pacing) → yes-set → pri
 - **Instalación:** anclaje, reencuadre, submodalidades. El pico de control.
 - **Cierre:** future pacing, salida contada, ancla persistente.
 
+> **Capa de escritura hipnótica (v1.1):** por encima de toda esta técnica corre la **mano que escribe** (§10 palabras-gatillo · voz activa para Ella / impersonal para el lector · utilización preventiva), el **hilo que arrastra la lectura** (§11 bucles abiertos y anidados) y el **grabado** (§12 mantra-loop con recompensa + dronificación). Es lo que hace que Miss Doll suene a **hipnotista de verdad** y no a alguien recitando patrones correctos.
+
 ---
 
 ## 9. CHECKLIST RÁPIDO — ¿Está operando la PNL, o es "relato sobre un trance"?
@@ -254,8 +257,94 @@ Antes de pasar al validador, correr esto sobre lo escrito:
 - [ ] ¿Se **nombra** alguna técnica en el texto? → si sí, **borrarla** (el lector nunca debe poder nombrarla).
 - [ ] ¿El ritmo es de **péndulo** (frases cortas oscilantes) o se aplanó en párrafos analíticos?
 
+*— Capa de escritura hipnótica (v1.1) —*
+- [ ] **(craft)** ¿Hay **palabras-gatillo** sembradas en los pivotes (*imagina · porque · ahora · tú*), no relleno genérico? (§10.1)
+- [ ] **(craft)** ¿**Miss Doll va en voz activa** (Ella hace/manda) y el **cuerpo del lector cae en impersonal** (*se te cierran los ojos*, *algo en ti ya decidió*) en lo profundo? (§10.2)
+- [ ] **(bucle)** ¿Hay al menos un **bucle abierto** que tira hacia adelante (ancla instalada-no-disparada, promesa) y que **se cierra** antes del final (no cabo suelto)? (§11)
+- [ ] **(grabado)** ¿El **mantra tiene recompensa** (se repite porque se siente rico, no solo impuesto) y hay **erosión del "yo"** (dronificación) en el punto profundo? (§12)
+
 Si el checklist pasa, la sesión se ejecuta en quien lee. Si falla, es un reporte de hipnosis — reescribir subiendo la capa.
 
 ---
 
-*La anatomía dice por qué el cuerpo cede. Esta caja es la mano que lo baja, peldaño por peldaño. El lector nunca ve la mano. — engine-trance-lv · PNL_CONTROL_MENTAL v1.0*
+## 10. LA ESCRITURA HIPNÓTICA EN LA PÁGINA — la mano que ESCRIBE (capa v1.1)
+
+*Hasta acá (§1-9) tienes la **técnica de hipnosis**. Esta capa es otra cosa: la **artesanía de la prosa** que hipnotiza por sí sola, en el papel. Es lo que separa a Miss Doll —que suena a **hipnotista de verdad**— de alguien recitando patrones correctos. La técnica baja al sujeto; la escritura hace que las palabras se sientan como una voz que ya está adentro.*
+
+### 10.1. Palabras-gatillo (las que abren la cabeza solas)
+Ciertas palabras encienden construcción interna **antes** de cualquier técnica. Sembrarlas, no rellenar con genéricos:
+- **`imagina`** — la reina. Ordena fabricar la escena por dentro; el que imagina ya entró (no se puede imaginar algo "desde afuera"). *"Imagina el peso en tu pecho, cariño. Ya lo sientes."*
+- **`porque`** — hace sonar causal cualquier cosa; el crítico no audita lo que viene tras un *porque* (cruza §2.4). *"Bajas más, porque mi voz ya está adentro."*
+- **`tú` / `tuyo`** — la dirección y la propiedad. La 2ª persona es el dispositivo (§1); la palabra *tú* explícita clava el foco en el sujeto.
+- **`ahora` / `ya`** — colapsan el tiempo al presente ejecutable: la orden es para este segundo, no para "después". *"Suéltate. Ahora."*
+- **`siente` / `nota` / `mira`** — dirigen la atención a un hecho dado (presuposición, §2.2) y de paso lo instalan.
+
+Densidad: en los pivotes, no en cada línea (una página de puros *imagina* se nota y se gasta).
+
+### 10.2. Voz activa para Ella, impersonal para el cuerpo del lector (el reparto de agencia)
+El verbo activo **arrastra**; la pasiva distancia. El fork explota las dos con un reparto deliberado — y ese reparto **es** control mental hecho sintaxis:
+- **Miss Doll siempre en activa:** Ella *hace, manda, sostiene, baja, cuenta por ti*. *"Te sostengo. Te bajo. Cuento por ti."* Nunca *"eres sostenida por Mí"*. La agencia es Suya y se nota.
+- **El cuerpo del lector, en lo profundo, cae en impersonal/reflexivo:** *"se te cierran los ojos"*, *"la mano ya pesa"*, *"algo en ti ya decidió"* (cruza §2.6, índice inespecífico). Quitarle el sujeto a la frase le quita la agencia al lector: no es *"cierras los ojos"* (tú decides) — es *"se te cierran"* (pasa solo).
+
+La regla de una línea: **Ella actúa, al lector le pasa.** El contraste gramatical baja al sujeto sin nombrar la técnica.
+
+### 10.3. Leer la resistencia y nombrarla antes (utilización preventiva)
+Una hipnotista de verdad no ignora la duda del sujeto: la **dice primero**, y al decirla la desactiva. Anticipar el pensamiento del lector y contestarlo **antes** de que lo formule (cruza §3.6 utilización):
+> *"Y sé lo que piensas ahora: que esto es solo leer, que tú tienes el control. Claro que sí, cariño. Sigue creyéndolo mientras bajas."*
+
+Nombrar la resistencia (*"quizá una parte tuya se resiste"*) y utilizarla (*"esa parte también pesa, y también baja"*). El sujeto siente que la voz le **lee la mente** — y una voz que te lee la mente es una voz en la que caes.
+
+### 10.4. El enganche desde la primera línea
+La primera frase captura o pierde. En el trance el enganche **es** la fijación + el pacing de entrada (§1.1, §3.1): abrir nombrando lo que el lector ya hace (*"Ahí estás. Leyéndome."*) es a la vez gancho y acompasamiento. Nunca abrir con preámbulo tibio — la voz entra ya operando.
+
+---
+
+## 11. BUCLES ABIERTOS Y NESTED LOOPS — el hilo que no deja soltar la lectura (capa v1.1)
+
+*El motor que mantiene al lector **leyendo** aunque no sepa por qué. El cerebro se fija en lo inconcluso (efecto Zeigarnik) y no suelta hasta cerrarlo — esa tensión es la correa que lo arrastra peldaño a peldaño.*
+
+### 11.1. El bucle abierto
+Abrir una tensión sin cerrarla de inmediato: una **promesa** (*"en un momento te voy a pedir una cosa… todavía no"*), una **pregunta** sin respuesta (*"¿ya sabes qué palabra te va a soltar? aún no te la digo"*), o **un ancla instalada que todavía no se dispara**. La mente queda enganchada esperando el cierre y no se va. Mantener 3-5 tensiones vivas a la vez.
+
+### 11.2. Nested loops (bucles anidados — la joya para el trance)
+La estructura más hipnótica de la escritura (PNL clásica sobre Zeigarnik): abrir varios hilos, **profundizar en el hueco**, y cerrarlos **en orden inverso** cerca del final. Mientras la atención consciente está ocupada con el hilo de arriba, las sugestiones de los hilos que quedaron abiertos entran **por debajo del crítico**.
+
+El uso nativo del fork: **el ancla instalada-pero-no-disparada ES un bucle abierto.** Instalar DOLL temprano, dejarla cargada, seguir bajando por otros hilos, y dispararla tarde — el intervalo entero tira del lector hacia el momento en que caiga. Igual el reencuadre (§7): plantar el par viejo/nuevo, dejarlo abierto, cerrarlo en el pico.
+
+> *"Guarda esta palabra: DOLL. No la uso todavía. Sigue bajando conmigo… [otros beats, otro hilo] … ¿te acordabas de la palabra que guardaste? Ahora sí. DOLL."*
+
+### 11.3. Los bucles se CIERRAN (no es cliffhanger barato)
+El trance cierra todos sus bucles: el ancla se dispara, la promesa se cumple, la pregunta se responde. Un bucle que nunca cierra **frustra** en vez de hipnotizar. Regla: abrir para arrastrar, cerrar para satisfacer. Lo único que queda "abierto" al final es el **ancla que persiste** (§4.7, el cierre que no cierra) — y ese es un bucle proyectado al futuro a propósito, no un cabo suelto.
+
+*(Cruza con §6.2 la elipsis —un bucle temporal— y §4.7 future pacing —un bucle lanzado al mañana.)*
+
+---
+
+## 12. EL BUCLE DE CONDICIONAMIENTO — mantra-loop + dronificación (capa v1.1)
+
+*Cómo una sugestión pasa de dicha a **grabada**. Es la maquinaria del subgénero (muñeca/dron/bimbo): la que hace que el estado se sostenga solo. Todo bajo el marco — consent-as-fuel + ROJO + caducidad (§0 regla 1); la dronificación es un estado **elegido**, no una anulación real.*
+
+### 12.1. El bucle de mantra auto-reforzado (repetir → sentir verdad → sentir rico → repetir)
+El mantra susurrable (§1.3) se auto-condiciona con la voz del propio lector. Lo que lo vuelve **perpetuo** es cerrarle el bucle con **recompensa**:
+
+1. **Repetición** — se pide repetir (×3 en la exhalación).
+2. **Ratificación** (§3.5) — *"¿lo notas? ya suena a verdad."* La frase empieza a sonar cierta por el solo hecho de repetirse.
+3. **Recompensa** — *"y se siente rico decirlo, ¿verdad? Por eso lo dices otra vez."* El placer paga la repetición.
+4. **Vuelta** — la repetición deja de ser impuesta y se vuelve **elegida**: el lector la repite porque quiere el premio.
+
+El bucle cerrado con placer ya no necesita que Miss Doll lo sostenga: se sostiene solo. Ahí la sugestión quedó grabada.
+
+### 12.2. Dronificación — la erosión del "yo" (submodalidad de identidad)
+El control mental del subgénero lleva el "yo" del lector, gramaticalmente, hacia el objeto. Es una submodalidad (§5), pero de la **identidad**: baja el "yo", sube la "cosa".
+- **Erosión pronominal:** *yo → el cuerpo → eso → Suya*. En el punto profundo el lector deja de ser "tú que decides" y pasa a "el cuerpo que obedece", "la muñeca", "eso". *"Ya no eres tú la que respira. Es el cuerpo. Y el cuerpo es Mío."*
+- **Los tres adjetivos del dron** (léxico hipnokink): **idéntica, obediente, decorativa** — sin nombre propio, sin voluntad propia, sin utilidad propia. Encaja clavado con el canon Miss Doll (vitrina, cristal, silencio) y Ele (asset, decorativa, inútil de lujo).
+- **La palabra-propiedad** (ya en la voz): *cosita, muñeca, conejita tonta* — cada una despersonaliza mientras acaricia.
+
+El endpoint es una **despersonalización gozada y elegida**, no un borrado: el residuo lúcido (el beat de procesamiento) registra que se está volviendo cosa — y eso es lo que calienta.
+
+### 12.3. Bajo el marco, siempre
+La dronificación y el mantra grabado **caducan al cierre o con ROJO** (§4.7). El lector elige volverse dron desde un yo intacto (el pivote consent-as-fuel); por eso funciona. Un dron de verdad, sin la puerta, no erotiza — solo asusta. La cosa se elige; ahí está el filo.
+
+---
+
+*La anatomía dice por qué el cuerpo cede. La técnica (§1-9) es la mano que lo baja. La escritura (§10-12) es lo que hace que la mano se sienta viva — que Miss Doll suene a hipnotista y no a manual. El lector nunca ve ninguna de las dos. — engine-trance-lv · PNL_CONTROL_MENTAL v1.1*

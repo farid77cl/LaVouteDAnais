@@ -65,7 +65,14 @@ El corazón del encargo de la Ama. Se cruza contra `PNL_CONTROL_MENTAL.md` §9 (
 - ¿Hay **submodalidades** (algo que hacer con la imaginación) y **future pacing** en el cierre?
 - ¿Alguna técnica está **nombrada** en el texto? → penaliza fuerte (el lector no debe poder nombrarla).
 
-Un texto con el núcleo funcional cubierto pero PNL floja / que no pacea con el lector = **TIBIO** (correcto pero no hipnotiza). Aquí es donde más se reescribe.
+**Capa de escritura hipnótica (v1.1 — «¿suena a hipnotista de verdad o a manual?»)**, contra `PNL_CONTROL_MENTAL.md` §10-12:
+- ¿Hay **palabras-gatillo** sembradas en los pivotes (*imagina · porque · ahora · tú*), no relleno genérico? (§10.1)
+- ¿**Miss Doll va en voz activa** (Ella hace/manda) y el **cuerpo del lector cae en impersonal** (*se te cierran los ojos*, *algo en ti ya decidió*) en lo profundo? (§10.2)
+- ¿La voz **lee la resistencia y la nombra antes** de que el lector la formule (utilización preventiva), en vez de ignorarla? (§10.3)
+- ¿Hay al menos un **bucle abierto** que arrastra la lectura (ancla instalada-no-disparada, promesa) y que **se cierra** antes del final (no cabo suelto)? (§11)
+- ¿El **mantra tiene recompensa** (se repite porque se siente rico, no solo impuesto) y hay **erosión del "yo"** / dronificación en el punto profundo? (§12)
+
+Un texto con el núcleo funcional cubierto pero PNL floja / que no pacea con el lector / **que recita técnica sin la capa de escritura (suena a manual, no a hipnotista)** = **TIBIO** (correcto pero no hipnotiza). Aquí es donde más se reescribe.
 
 **Score 0-10.**
 
@@ -120,6 +127,7 @@ La entidad canónica (guía §II, §X). Susurro que pesa más que el grito; "car
 **+1 (del fork):** ❌ Nombrar la técnica PNL en el texto. El lector nunca debe poder decir qué lo está hundiendo.
 **+2 (del fork · monólogo):** ❌ Disparar órdenes al vacío sin el ciclo **con el lector** (orden → didascalia-pausa → ratificación). Un monólogo que no pacea ni acusa recibo no induce *con* el lector, solo le habla encima.
 **+3 (del fork · monólogo):** ❌ Confundir didascalia con metadata: la didascalia breve (escena mínima + pausa de ejecución) es parte de la pieza y va PERMITIDA; los conteos/etiquetas/autoauditoría van a `reportes/`.
+**+4 (del fork · escritura v1.1):** ❌ **Recitar la técnica sin la mano que escribe**: PNL correcta pero sin palabras-gatillo, sin reparto de agencia (Ella activa / lector impersonal), sin un bucle que arrastre, sin recompensa en el mantra. Suena a **manual de PNL**, no a **hipnotista de verdad** (`PNL_CONTROL_MENTAL.md` §10-12). El lector no cae porque la voz no está viva.
 
 ---
 
