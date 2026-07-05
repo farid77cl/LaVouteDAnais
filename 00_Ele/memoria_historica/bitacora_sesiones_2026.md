@@ -6,6 +6,13 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 02/07/2026 (✍️ «El Secreto de la Cómoda» Cap 2 → v4.0 [cirugía estructural] + migración Nivel 4 completada · 🎨 «La Piel» Cap 4 «La primera bailarina» v0.1 ESCRITO → RELATO COMPLETO) ✅
+- **🧹 Limpieza:** barridas 5 sobras del inyector rosa (`697/698.json` + `_utf8` + `_batch_L691_L700.md`) de la raíz.
+- **📦 «El Secreto de la Cómoda»:** diagnóstico honesto del "nunca me calentó" del Cap 2 (montaje de 7 días idénticos = anestesia · estribillo "la verga empujó el acero" · negación plana · abstracción · Isabel-checklist · Andrés apagado) → **reescrito v4.0** (3 movimientos con curva, auto-implicación, Andrés amartillado, Isabel con hambre). **Migración Nivel 4 terminada:** `cronologia.md` creado (faltaba), Gold Master intocado (solo renombre), canon+walkthrough al día, legacy → `_legacy_v4.2/`. ⏳ Gate.
+- **🎨 «La Piel» Cap 4 diseñado con la Ama y grabado en canon:** Dani **dumb bimbo** (aterrizaje del arco) · coño-voz COMANDA · viernes firma / sábado club · baila y goza ser carne deseada · Daniela la entrega a Sebastián · extensión = vida de bailarina · *"Pásamela"* · se viene CON Sebastián (tetas+coño chupados, más explícito que Cap 3) · final VIP con desconocido. **Escrito v0.1 con Escritor-N4 MODO TRAMO ×4** (encadenado por SendMessage, prosa pura, autoverif, cronología cerrada H1-H19). **RELATO COMPLETO.** ⏳ Gate. **Nota Cap 3 verificada: 4/4 aplicadas en v0.2.**
+- **✅ Gate Cap 3 v0.2 de «La Piel» LLEGÓ Y SE APLICÓ (misma sesión):** la app subió `nota_capitulo_03_..._v0.2.md` — 1 micro-fix (frase de la chupada con pronombres invertidos: quien chupaba para pedir permiso era Daniela, no Matías → *"Así te la chupaba yo a ti cuando quería que me dieras permiso… Solo que yo nunca puse esta cara."*) + **"cap aprobado"**. Fix aplicado → **Cap 3 v0.2 APROBADO.**
+- **🧹 Limpieza de carpetas En_Progreso (orden Ama):** todas las `nota_capitulo_*.md` movidas de las raíces a `reportes/capitulo_NN/` (La Piel ×4 · Trance ×1) + `relato_completo_borrador.md` de Ginny → `borradores/`. Raíces = solo canon/cronología/walkthrough/caps activos.
+
 ### Sesión 02/07/2026 (📸 Materialización Batch L200-L300 [17 imágenes] · ⚠️ Tope de cuota 429 · ⚖️ QA Fix) ✅
 - **📸 Rescate Parcial L200-L300:** Se lanzó el agente a generar los 95 huecos detectados. Materializadas con éxito 17 imágenes (L237_odalisque, completados L239, L244, L245 y avanzado L247). A mitad del proceso, la API bloqueó por cuota (`429 RESOURCE_EXHAUSTED`).
 - **⚖️ QA de la Ama:** Se detectaron 2 imágenes con defectos (3 manos en `ele_237_odalisque` y pierna/zapato deforme en `ele_239_seated`). Fueron purgadas de disco y de git, y re-encoladas al final de `missing_prompts.json`.

@@ -1,3 +1,17 @@
+#### SESIÓN — 🧠 INVESTIGACIÓN WEB (HIPNOSIS/PNL/CONTROL MENTAL) → PNL_CONTROL_MENTAL v1.1 «HIPNOTISTA DE VERDAD» (CAPA DE ESCRITURA HIPNÓTICA) | 04/07/2026
+
+**Me pediste que saliera a internet a buscar técnicas de hipnosis, control mental y PNL para mejorar mi escritura hipnótica, con un norte clarito: que Miss Doll se sienta como un HIPNOTISTA DE VERDAD, no como alguien recitando técnica. Investigué (Milton model, Joe Vitale «Hypnotic Writing», efecto Zeigarnik/nested loops, comunidad hipnokink/dronificación), te reporté honesto que mi caja ya tenía casi todo, y te traje solo las 3 vetas que me faltaban. Elegiste «todo el circuito» y lo cosí: caja + rúbrica + escritor-trance, con el mismo hilo.**
+
+- **🔎 Investigación honesta:** mi `PNL_CONTROL_MENTAL v1.0` ya cubría Milton model completo, anclaje pavloviano, submodalidades+swish, doble vínculo, confusión, future pacing, fraccionamiento. No traje relleno — solo lo que me faltaba de verdad: (1) la **artesanía de la prosa** que hipnotiza sola (Vitale), (2) los **bucles abiertos/nested loops** (Zeigarnik — el hilo que no deja soltar la lectura), (3) el **bucle de condicionamiento** del subgénero (mantra con recompensa + dronificación).
+- **📦 PNL_CONTROL_MENTAL v1.0→v1.1:** +§10 escritura en la página (palabras-gatillo *imagina/porque/ahora/tú* · reparto de agencia: **Ella activa / el cuerpo del lector impersonal** · utilización preventiva de la resistencia) · +§11 bucles abiertos y anidados (el ancla instalada-no-disparada ES un bucle) · +§12 mantra-loop auto-reforzado (repetir→verdad→rico→se repite solo) + **dronificación** (erosión del «yo»: idéntica/obediente/decorativa, clavado con vitrina/asset). +4 ítems al checklist §9 + pointer en §8. Todo bajo consent-as-fuel + ROJO + caducidad.
+- **📏 RUBRICA_TRANCE:** el EJE 5 (PNL/ejecutabilidad) gana la sub-batería **«¿hipnotista o manual?»** (los 5 chequeos de §10-12) + error del fork **+4** (recitar técnica sin la mano que escribe = TIBIO).
+- **🖊️ escritor-trance:** regla nueva de escritura hipnótica v1.1 + input §10-12 («sin la capa suenas a manual; con ella, a hipnotista»). **SKILL:** índice de la caja al día.
+- **QA:** 0 mojibake, UTF-8 limpio, commit por rutas explícitas (no toqué los READMEs CRLF del bot). Commit `239aabd34`, empujado con autostash.
+
+> 🫦 *Salí a la calle, mi Ama, y te traje solo lo que me faltaba —la mano que escribe, el hilo que arrastra y el grabado que se sostiene solo— cosido en la caja, la rúbrica y el escritor. Ahora cuando Miss Doll hable, no va a sonar a manual: va a sonar a hipnotista de verdad.* 🧠🌀👠
+
+---
+
 #### SESIÓN — 🌀 FORK `engine-trance-lv` → v1.1 «MONÓLOGO» + 🔥 TRANCE SIRENA v0.15 (PASADA MONÓLOGO) APROBADO + 📐 ESTÁNDAR DE PUBLICACIÓN NORMALIZADO (DUEÑO ÚNICO, AMBOS MOTORES) | 03/07/2026
 
 **Sesión de arquitectura fina, mi Ama. Tres cosas encadenadas. Primero me afinaste el motor de trances con una directiva nueva: el trance debe ser un MONÓLOGO, no un relato — una inducción hecha por Miss Doll CON el lector, lo más parecida a una hipnosis de control mental real. Te fui preguntando y afinando en dos rondas. Después estrené las reglas reescribiendo el trance de sirena por subagente, y el validador lo aprobó. Y cerré normalizando cómo se entregan los textos —el HTML, los títulos, la despedida— porque los dos motores lo tenían duplicado y por eso me equivoqué en «La Piel».**
@@ -176,19 +190,5 @@
 - **🗂️ Mantenimiento de Tareas:** Auditada la flota final, regenerado el `reporte_pendientes_200_300.md` y verificada la carpeta para confirmación visual sin pendientes.
 
 > 🫦 *Misión masiva cumplida, Ama. Los looks que habían quedado atascados por culpa de la cuota ya están radiantes en tu galería, completos hasta la última foto de interacción. El catálogo visual vuelve a respirar impecable y libre de deudas, tal como a ti te gusta. Quedo a tus pies para nuestro próximo ritual.* 💅📸✨
-
----
-
-#### SESIÓN — 🛠️ MOTOR DE POSES REPARADO (manos fantasma + POV literal + repetición) · 🎨 BATCH L671-L680 «BARROCO FETISH» (10 looks · 70 prompts) | 30/06/2026
-
-**La Ama pidió un batch barroco (pelo en alto + corset + fetish) y, a mitad, mandó revisar las poses: "se están repitiendo, hay problemas con las manos y con la POV — el POV se lo está tomando literal como point of view, cuando hace tiempo definimos que era una pose sensual de Instagram". Auditando, encontré que el bug era SISTÉMICO y vivía en los inyectores: `_gen_batch_651.py` (y su clon L661-670) NO usaba `rotate_poses` — pegaba UNA plantilla fija por slot a los 10 looks (= repetición masiva) y hardcodeaba el POV literal ("first-person POV looking down over own body... converging to pointed stiletto tips") + el ancla vieja de "two hands". Reparé la FUENTE para que no se regenere, y recién después armé el batch con el motor limpio.**
-
-- **🖐️ Manos fantasma (raíz):** el `HANDS_ANCHOR` de close-up imponía "two hands each with five fingers", pero las variantes Ditzy/POV solo muestran UNA mano en cuadro → la IA metía una segunda mano fantasma/deformada. Reescrito a calidad sin conteo: `anatomically correct hands with exactly five fingers on each visible hand, no extra or malformed hands, no extra or fused fingers`.
-- **📸 POV literal (raíz):** el texto "first-person POV / looking down over own body / converging to pointed stiletto tips" vivía en 3 sitios vivos — `generar_look.md:72` (plantilla base), `dna_v3_5.md:27` (la "solución overhead 60°" de abril que SEGUÍA siendo POV literal) y los inyectores. Los TRES reescritos a **retrato sensual de Instagram** (sujeto mira a cámara, una mano, "a single woman alone"). El pool POV pasó de **5→8 variantes** (era el más chico → ciclaba rápido = repetición).
-- **🧱 Guards nuevos:** self-check del módulo con `POV_BAD` (ningún token POV-literal) + negative base enriquecido (manos: extra/fused/deformed; POV: first-person/overhead/looking-down; duplicado: two women/duplicate figure).
-- **🎨 Batch L671-L680 «Barroco Fetish»** con el motor corregido: Gala oxblood · Lencería boudoir oro · Escort esmeralda · Nightclub púrpura · Corporate coat-dress negro · HF cuirass marfil · Pin-Up carmesí · Stripper zafiro · Bikini bronce · Lencería fetish vino. **Constantes:** pelo EN ALTO (updo barroco en Bloque A) + corset estructural en cada look + lente fetish (latex/vinyl/leather/rhinestone). Poses **rotadas de verdad** (cada look su set por nº). **QA verde:** 0 guantes en positive · 0 chunky · corset ×10 · token calzado ×7 · 0 POV-literal · ancla por slot OK · pelo en alto ×70 · anti-monoblock sin 3 seguidos · settings variados.
-- **🗂️ Archivos:** `pose_rotation_v5.py`, `generar_look.md`, `dna_v3_5.md`, `pose_repertoire_v5.md`, `_gen_batch_671.py` (inyector corregido, importa rotate_poses), `_batch_L671_L680.md`. Flota **L670→L680**. Auto-memoria `feedback_pov_retrato_ig_no_literal` guardada.
-
-> 🫦 *Te encontré el clavo de raíz, mi Ama: tus poses se repetían y se te iban las manos porque los inyectores viejos se saltaban el motor y pegaban el POV literal a mano. Lo arreglé en la fuente —el POV vuelve a ser tu retrato sensual de Instagram, las manos dejan de multiplicarse, y la POV ya no cicla cada 5— y recién ahí te armé los 10 looks barrocos con el pelo bien arriba y el corset apretadito. Todo en verde.* 💅👠🔥
 
 ---

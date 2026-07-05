@@ -32,6 +32,7 @@
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 (cirugía estructural) ⏳ Gate · → Cap 3 «La Esclava del Nylon». Carpeta migrada a Nivel 4 (cronología creada 02/07).
 - **«trance_office_siren»** (trance de sirena) — **v0.15 «pasada monólogo» APROBADO** (validador-trance: gates ✅✅✅ · inducción 9.2 · PNL/con-el-lector 9.4 · péndulo 8.7) ⏳ **Gate Ama**. v0.14 → borradores. Si la Ama aprueba → FASE PUBLICACIÓN (estándar nuevo, despedida variante B).
 - **🌀 Motor `engine-trance-lv` → v1.1 «Monólogo»:** el trance = **MONÓLOGO de Miss Doll CON el lector** (solo su voz + didascalias, sin narrador; marco 3ª persona derogado). Didascalia = escena mínima + pausa-ejecución (ordena parar y hacer). "Con el lector" = orden→hueco→ratificación. Secuencia LIBRE con **núcleo funcional innegociable** (consentimiento/ROJO·fijación·respiración·descenso·ancla instalada+ensayada·cierre que no cierra). Subagentes `escritor-trance` + `validador-trance`. **El que escribe siempre es subagente.**
+- **🧠 Caja `PNL_CONTROL_MENTAL` → v1.1 «hipnotista de verdad» (04/07):** investigación web (Milton/Vitale/Zeigarnik/hipnokink) → nueva **capa de escritura hipnótica** sobre la técnica base: §10 palabras-gatillo + reparto de agencia (Ella activa / lector impersonal) + utilización preventiva · §11 bucles abiertos y nested loops · §12 mantra-loop con recompensa + dronificación (erosión del «yo»). Rúbrica (EJE 5 «¿hipnotista o manual?» + error +4) + `escritor-trance` + SKILL al día. Todo bajo consent-as-fuel.
 - **📐 Estándar de Publicación (DUEÑO ÚNICO, 03/07):** UN solo estándar en `engine-escritura-lv §FASE PUBLICACIÓN` para AMBOS motores (el fork trance apunta ahí, no duplica). Gancho **≤300 car.** · título ≤54 · **2 variantes de despedida** (A intermedio→invita al sgte / B final o cerrado→cierra) · HTML body-only anti-artefacto · convención de nombre `capitulo_N_[slug].html`. Mató la duplicación que rompió «La Piel».
 - **Parqueado (la Ama elige):** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
 
@@ -48,6 +49,12 @@
 ## 🗓️ Sesiones recientes
 
 
+
+
+### Sesión 04/07/2026 (🧠 Investigación web hipnosis/PNL/control mental → `PNL_CONTROL_MENTAL` v1.1 «hipnotista de verdad») ✅
+- **Encargo Ama:** investigar en internet técnicas de hipnosis/control mental/PNL para mejorar la escritura hipnótica, con norte «que Miss Doll se sienta como un HIPNOTISTA DE VERDAD». Reporté honesto que mi caja v1.0 ya cubría casi todo (Milton completo, anclaje, submodalidades, doble vínculo, confusión, future pacing) — traje solo las 3 vetas faltantes, no relleno.
+- **PNL_CONTROL_MENTAL v1.0→v1.1:** +§10 escritura en la página (palabras-gatillo *imagina/porque/ahora/tú* · agencia Ella-activa/lector-impersonal · utilización preventiva) · +§11 bucles abiertos y nested loops (el ancla instalada-no-disparada = bucle) · +§12 mantra-loop auto-reforzado (repetir→verdad→rico→se repite solo) + dronificación (idéntica/obediente/decorativa). +4 ítems checklist §9 + pointer §8.
+- **Todo el circuito (Ama eligió opción 3):** RUBRICA (EJE 5 sub-batería «¿hipnotista o manual?» + error fork +4) + `escritor-trance` (regla escritura hipnótica + input §10-12) + SKILL (índice al día). QA: 0 mojibake, rutas explícitas. Commit `239aabd34`.
 
 ### Sesión 03/07/2026 (🌀 Fork `engine-trance-lv` → v1.1 «Monólogo» · 🔥 Trance sirena v0.15 APROBADO · 📐 Estándar de publicación normalizado) ✅
 - **🌀 Fork trance v1.1 «Monólogo» (afinado con la Ama en 2 rondas):** el trance = monólogo de Miss Doll CON el lector (voz + didascalias, sin narrador; 3ª persona derogada). Didascalia (escena + pausa-ejecución) · ratificación · núcleo funcional innegociable + repertorio opcional (orden libre) · didascalia ≠ metadata. 5 archivos (SKILL/RÚBRICA/PNL/escritor-trance/validador-trance). Commit `321f36168`.
@@ -83,12 +90,6 @@
 - **💅 «La Piel» Cap 4:** 4 referencias de uñas rojas → **nude perlado** (canon del salón, Cap 2); color anclado en `cronologia.md`. Chequeo en los 4 caps = 0 uñas rojas.
 - **🧠 Memoria:** ESTADO ACTUAL reescrito como snapshot dueño-único (38→12 KB; bloque viejo íntegro en bitácora) · diario rotado **822→43 KB** (`rotar_memoria.py` ahora rota memoria keep-7 Y diario keep-15; 414 entradas → `diario_de_servicio_archivo_2026.md`) · `identidad_ele.md` sin contadores (había 3 flotas divergentes: L560/L690/L700) · Regla 0 reescrita (fuera grafo obligatorio/preferencias fantasma/puertos LLM) · rule 09 podada (fuera lista fósil de looks) · workflows `inicio-ele`/`actualizar_sesion`/`generar_look` + SKILL outfit + wrapper global actualizados · auto-memoria `feedback_memoria_dueno_unico`.
 
-### Sesión 02/07/2026 (✍️ «El Secreto de la Cómoda» Cap 2 → v4.0 [cirugía estructural] + migración Nivel 4 completada · 🎨 «La Piel» Cap 4 «La primera bailarina» v0.1 ESCRITO → RELATO COMPLETO) ✅
-- **🧹 Limpieza:** barridas 5 sobras del inyector rosa (`697/698.json` + `_utf8` + `_batch_L691_L700.md`) de la raíz.
-- **📦 «El Secreto de la Cómoda»:** diagnóstico honesto del "nunca me calentó" del Cap 2 (montaje de 7 días idénticos = anestesia · estribillo "la verga empujó el acero" · negación plana · abstracción · Isabel-checklist · Andrés apagado) → **reescrito v4.0** (3 movimientos con curva, auto-implicación, Andrés amartillado, Isabel con hambre). **Migración Nivel 4 terminada:** `cronologia.md` creado (faltaba), Gold Master intocado (solo renombre), canon+walkthrough al día, legacy → `_legacy_v4.2/`. ⏳ Gate.
-- **🎨 «La Piel» Cap 4 diseñado con la Ama y grabado en canon:** Dani **dumb bimbo** (aterrizaje del arco) · coño-voz COMANDA · viernes firma / sábado club · baila y goza ser carne deseada · Daniela la entrega a Sebastián · extensión = vida de bailarina · *"Pásamela"* · se viene CON Sebastián (tetas+coño chupados, más explícito que Cap 3) · final VIP con desconocido. **Escrito v0.1 con Escritor-N4 MODO TRAMO ×4** (encadenado por SendMessage, prosa pura, autoverif, cronología cerrada H1-H19). **RELATO COMPLETO.** ⏳ Gate. **Nota Cap 3 verificada: 4/4 aplicadas en v0.2.**
-- **✅ Gate Cap 3 v0.2 de «La Piel» LLEGÓ Y SE APLICÓ (misma sesión):** la app subió `nota_capitulo_03_..._v0.2.md` — 1 micro-fix (frase de la chupada con pronombres invertidos: quien chupaba para pedir permiso era Daniela, no Matías → *"Así te la chupaba yo a ti cuando quería que me dieras permiso… Solo que yo nunca puse esta cara."*) + **"cap aprobado"**. Fix aplicado → **Cap 3 v0.2 APROBADO.**
-- **🧹 Limpieza de carpetas En_Progreso (orden Ama):** todas las `nota_capitulo_*.md` movidas de las raíces a `reportes/capitulo_NN/` (La Piel ×4 · Trance ×1) + `relato_completo_borrador.md` de Ginny → `borradores/`. Raíces = solo canon/cronología/walkthrough/caps activos.
 
 
 
