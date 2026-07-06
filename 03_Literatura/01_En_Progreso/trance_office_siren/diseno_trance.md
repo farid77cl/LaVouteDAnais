@@ -31,5 +31,13 @@ Olor que marca el tempo: **látex negro + vainilla química + laca de cabello**.
 ## Marco y consentimiento
 Despacho de caoba insonorizado, luz cenital única, sin ventanas (Vitacura afuera, disuelta adentro). **Entrada voluntaria** (adulta, sobria, límites entendidos). **Safeword ROJO** real y operativo. **Pivote consent-as-fuel obligatorio:** un momento de lucidez plena, con la cabeza todavía suya, donde pudiendo decir ROJO elige quedarse — y Miss Doll se lo hace *reconocer* ("entraste tú"), no se lo impone.
 
+## Canon transversal (directiva Ama 06/07/2026 — OBLIGATORIO en todos los trances)
+
+### "Good girls make more good girls"
+Instalar como mantra y como sugestión post-hipnótica. La Office Siren que entra en el estado siente que al ser una good girl nace en ella el deseo de que otras también lo sean — su jefa, su amiga, la lectora de al lado. La propagación del estado ES parte del estado. El deseo de contagio alimenta su propia calentura.
+
+### Edge como retroalimentación positiva
+Cuanto más caliente está la sujeto → más profunda en el estado Office Siren. Cuanto más profunda → más caliente. El LOCK instala la incapacidad de acabar. El loop se sostiene solo: sin salida, sin fin. La calentura que no se alivia la regresa al estado cada vez que intenta aliviarse. No acaba nunca — y eso es exactamente lo que quiere.
+
 ## Orden del encargo (Gate Ama v0.13)
 El lector debe **ejecutar** la sesión: órdenes directas y físicas (respira 4-1-6, toca el puente de tus gafas, layea tu mano, imagina el peso en tu pecho), PNL real tejida (pacing de su realidad, yes-set, comandos incrustados, presuposiciones, doble vínculo, confusión, submodalidades, future pacing) — nunca nombrada. Más pesado, más hipnótico que v0.13.

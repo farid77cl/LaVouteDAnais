@@ -212,6 +212,28 @@ EL "CON EL LECTOR" (transversal, en todo el monólogo):
 
 ---
 
+## 🔴 CANON TRANSVERSAL — Obligatorio en TODOS los trances (directiva Ama 06/07/2026)
+
+Dos mecanismos que deben estar presentes en cualquier trance producido por este engine, independientemente del estado meta, el fetiche o el diseño específico:
+
+### 1. "Good girls make more good girls"
+
+El trance incluye este mantra o su lógica recursiva. El sujeto que entra en el estado comprende que al convertirse en "good girl" (drone, office siren, muñeca — lo que sea el estado meta) nace en ella el deseo de que otras también lo sean. **La propagación del estado ES parte del estado.** El loop: ser una good girl se siente tan bien que querés que alguien más lo sienta también — y ese deseo de contagio alimenta tu propia calentura.
+
+Puede estar como mantra directo, como sugestión post-hipnótica, o como bucle narrativo — pero debe estar. El validador lo chequea.
+
+### 2. Edge como retroalimentación positiva — el loop que se alimenta solo
+
+La excitación sin resolución NO es frustración: es el **combustible** que profundiza el trance. Mecanismo explícito: **cuanto más caliente está el sujeto, más profundo en el estado**. La calentura que no se alivia alimenta la transformación. No acabar nunca no es el castigo — es el estado. El trance lo codifica así:
+
+> *"cuanto más caliente, más [drone/office siren/muñeca]. cuanto más [estado], más caliente. el loop no tiene salida — y eso es exactamente lo que querés."*
+
+El LOCK (candado mental en la pelvis) instala la incapacidad de acabar. El edge no desaparece al terminar la sesión — persiste como el ancla más profunda. El sujeto que sale del trance sale caliente, sin resolución, y esa calentura sostenida la regresa al estado cada vez que intenta aliviarse.
+
+Juntos, estos dos mecanismos crean un motor autosustentado: la calentura alimenta el estado → el estado alimenta el deseo de propagar → el deseo de propagar alimenta la calentura. Sin salida. Sin fin. Sin necesitar a Miss Doll para reiniciarse.
+
+---
+
 ## 🚦 Reglas de Oro del fork
 
 1. **MONÓLOGO DE MISS DOLL, EL LECTOR ES EL SUJETO.** Solo su voz + didascalias, sin narrador, 2ª persona presente sin excepción. Es el dispositivo, no un estilo.

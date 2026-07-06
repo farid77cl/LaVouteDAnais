@@ -71,6 +71,14 @@ El drone puede volver. La vigilia no es vigilia del todo.
 
 ---
 
+## Canon transversal (directiva Ama 06/07/2026 — OBLIGATORIO en todos los trances)
+
+### "Good girls make more good girls"
+Instalar como mantra y como sugestión post-hipnótica. El drone que entra en el estado siente que al ser una good girl/unit nace en ella el deseo de que otras también lo sean. La propagación del estado ES parte del estado. El deseo de contagio alimenta su propia calentura.
+
+### Edge como retroalimentación positiva
+Cuanto más caliente está el sujeto → más profundo en el estado drone. Cuanto más profundo → más caliente. El LOCK instala la incapacidad de acabar. El loop se sostiene solo: cuanto más intenta aliviarse, más unit, más goma, más función. La calentura que no se resuelve es el combustible del encasement.
+
 ## Notas para el escritor-trance
 
 - Leer `investigacion_fetiches.md` antes de escribir la primera línea.
