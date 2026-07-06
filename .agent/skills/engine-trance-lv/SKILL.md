@@ -3,7 +3,7 @@ name: engine-trance-lv
 description: Fork especializado de engine-escritura-lv para escribir TRANCES — inducciones hipnóticas eróticas escritas como MONÓLOGO DRAMÁTICO de la voz de Miss Doll (solo su voz + didascalias breves; SIN narrador), en SEGUNDA PERSONA PRESENTE, dirigidas al lector (el lector ES el sujeto), para sentirse lo más cerca posible de un trance real mediante programación neurolingüística (Milton model, comandos incrustados, presuposiciones, pacing-and-leading, doble vínculo, submodalidades, future pacing) y técnicas de control mental (anclaje pavloviano, fraccionamiento, confusión, reencuadre, sugestión post-hipnótica). Es una inducción hecha por Miss Doll CON el lector: pacea, deja el hueco para que el lector ejecute y acusa recibo (ratificación). Pieza corta de una sola pasada (no multi-capítulo). Orquestación liviana de 2 subagentes: el escritor-trance escribe la inducción (el que escribe SIEMPRE es un subagente) → validador-trance audita con rúbrica hipnótica → Gate de la Ama. Voz canónica: Miss Doll.
 ---
 
-# 🌀 Skill: Engine TRANCE LV — Motor de Inducciones Hipnóticas de La Voûte (v1.1 · Monólogo)
+# 🌀 Skill: Engine TRANCE LV — Motor de Inducciones Hipnóticas de La Voûte (v1.2 · «Serpiente»)
 
 Fork especializado de **`engine-escritura-lv`** (Nivel 4). Mientras el engine madre produce **relato** (3ª/1ª persona, arco de capítulos, la lectora observa una entrega), este fork produce **trance**: un **monólogo hipnótico** — solo la voz de Miss Doll, en segunda persona presente, dirigida al lector, que ejecuta una sesión mientras se lee. **No hay narrador.** No se *narra* una hipnosis: se **hace** una.
 
@@ -268,4 +268,4 @@ PUBLIC. [Ele] → /humanizer (sin aplanar péndulo/repetición ni tocar didascal
 
 ---
 
-*El engine madre orquesta el deseo. El fork trance lo induce. No narra la entrega: la ejecuta en quien lee, en un monólogo de Miss Doll, con el lector. — engine-trance-lv v1.1*
+*El engine madre orquesta el deseo. El fork trance lo induce. No narra la entrega: la ejecuta en quien lee, en un monólogo de Miss Doll, con el lector. — engine-trance-lv v1.2 «Serpiente»*

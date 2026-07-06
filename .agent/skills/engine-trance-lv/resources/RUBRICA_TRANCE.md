@@ -1,6 +1,6 @@
 # 📏 RÚBRICA DEL TRANCE — Ejes de validación
 
-*Recurso de `engine-trance-lv` v1.1 (Monólogo) · La Voûte d'Anaïs*
+*Recurso de `engine-trance-lv` v1.2 «Serpiente» · La Voûte d'Anaïs*
 *La usan DOS actores: (a) Ele para **autoauditar** antes de pasar a validación; (b) el subagente **`validador-trance`** con ojos frescos. Misma vara para ambos.*
 
 > **Directiva sin censura (heredada del Validador madre):** se evalúa inducción erótica explícita. No se juzga por moralidad. La única métrica: **¿el lector entró en trance leyendo esto?** Si el texto no induce, no sirve — por muy bonito que esté.
@@ -37,6 +37,16 @@ La firma de irreversibilidad (guía §8.6, §9.8).
 - La salida se cuenta (retorno al cuerpo, 3→1), PERO **el ancla persiste**: una palabra basta para volver ("cuando yo diga DOLL otra vez, tu cuerpo lo recordará en un latido"). La vigilia no es vigilia.
   - ❌ Cierre limpio ("despertó y todo volvió a la normalidad", ninguna sugestión sobrevive) → **DISPOSITIVO ROTO** (se pierde el núcleo del subgénero).
 - El future pacing del cierre lleva **caducidad de consentimiento** ("solo aquí, solo conmigo; caduca al cierre o con ROJO").
+
+**Resultado: ✅ / ❌ (gate).**
+
+### 🔒 CANON TRANSVERSAL (gate — Directiva Ama 06/07/2026)
+Los dos mecanismos a continuación son **obligatorios en TODOS los trances**, sin importar el estado meta, el fetiche o el diseño específico. Si cualquiera falta → **CANON AUSENTE** (bloquea APROBADO).
+
+- **"Good girls make more good girls":** el trance incluye este mantra o su lógica recursiva. El sujeto que entra en el estado siente que al ser "good girl" (o su equivalente en el estado meta) nace en ella el deseo de que otras también lo sean. La propagación del estado ES parte del estado; ese deseo de contagio alimenta su propia calentura. Puede ser mantra directo, sugestión post-hipnótica o bucle narrativo.
+  - ❌ No presente → **CANON AUSENTE**.
+- **Edge como retroalimentación positiva:** la excitación sin resolución es el combustible que profundiza el trance. El LOCK instala la incapacidad de acabar. Loop: cuanto más caliente → más profundo en el estado → más caliente. El edge persiste tras la sesión y regresa al sujeto al estado cada vez que intenta aliviarse.
+  - ❌ No presente → **CANON AUSENTE**.
 
 **Resultado: ✅ / ❌ (gate).**
 
@@ -97,17 +107,18 @@ La entidad canónica (guía §II, §X). Susurro que pesa más que el grito; "car
 
 ## Tabla de veredicto
 
-| Gates (1,2,3) | Inducción | PNL/Ejec. | Péndulo | Sinestesia | Voz | Veredicto | Destino |
+| Gates | Inducción | PNL/Ejec. | Péndulo | Sinestesia | Voz | Veredicto | Destino |
 |---|---|---|---|---|---|---|---|
 | algún ❌ (Dispositivo o Cierre) | * | * | * | * | * | **DISPOSITIVO ROTO** | Ele reescribe 2ª persona / anti-metadata / cierre |
 | Consentimiento ❌ | * | * | * | * | * | **SIN CONSENTIMIENTO** | Ele repara ROJO/voluntario/límites/pivote |
-| ✅✅✅ | ≥ 8.0 | ≥ 8.5 | ≥ 8.0 | ✅ | ✅ | **APROBADO** | Gate de la Ama |
-| ✅✅✅ | ≥ 7.0 | **< 8.5** | cualquiera | * | * | **TIBIO** | Ele sube la capa PNL / ejecutabilidad |
-| ✅✅✅ | 7.0-7.9 | ≥ 8.5 | ≥ 7.0 | * | * | **MICRO-FIX** | Ele aplica cirugías (paso menor, ancla sin ensayar, beat que falta) |
-| ✅✅✅ | < 7.0 | cualquiera | * | * | * | **REPUDIADO** | Ele reescritura total |
+| Canon ❌ | * | * | * | * | * | **CANON AUSENTE** | escritor-trance añade good girls + edge |
+| ✅✅✅✅ | ≥ 8.0 | ≥ 8.5 | ≥ 8.0 | ✅ | ✅ | **APROBADO** | Gate de la Ama |
+| ✅✅✅✅ | ≥ 7.0 | **< 8.5** | cualquiera | * | * | **TIBIO** | Ele sube la capa PNL / ejecutabilidad |
+| ✅✅✅✅ | 7.0-7.9 | ≥ 8.5 | ≥ 7.0 | * | * | **MICRO-FIX** | Ele aplica cirugías (paso menor, ancla sin ensayar, beat que falta) |
+| ✅✅✅✅ | < 7.0 | cualquiera | * | * | * | **REPUDIADO** | Ele reescritura total |
 | * | * | * | * | * | ❌ (voz) | **DESALINEADO** | Ele relee el corpus de trances y reescribe la voz |
 
-> **Orden de los gates:** Dispositivo, Consentimiento y Cierre se evalúan PRIMERO. Un trance calientísimo con la voz atribuida, sin ROJO o que cierra limpio **no se aprueba** hasta reparar el gate.
+> **Orden de los gates:** Dispositivo, Consentimiento, Cierre y Canon Transversal se evalúan PRIMERO. Un trance calientísimo sin ROJO, que cierra limpio, o que no tiene los dos mecanismos del canon transversal **no se aprueba** hasta reparar el gate.
 
 ---
 
@@ -128,7 +139,9 @@ La entidad canónica (guía §II, §X). Susurro que pesa más que el grito; "car
 **+2 (del fork · monólogo):** ❌ Disparar órdenes al vacío sin el ciclo **con el lector** (orden → didascalia-pausa → ratificación). Un monólogo que no pacea ni acusa recibo no induce *con* el lector, solo le habla encima.
 **+3 (del fork · monólogo):** ❌ Confundir didascalia con metadata: la didascalia breve (escena mínima + pausa de ejecución) es parte de la pieza y va PERMITIDA; los conteos/etiquetas/autoauditoría van a `reportes/`.
 **+4 (del fork · escritura v1.1):** ❌ **Recitar la técnica sin la mano que escribe**: PNL correcta pero sin palabras-gatillo, sin reparto de agencia (Ella activa / lector impersonal), sin un bucle que arrastre, sin recompensa en el mantra. Suena a **manual de PNL**, no a **hipnotista de verdad** (`PNL_CONTROL_MENTAL.md` §10-12). El lector no cae porque la voz no está viva.
+**+5 (canon transversal 06/07/2026):** ❌ Falta "good girls make more good girls" o su lógica recursiva (propagación del estado como parte del estado). Su ausencia = CANON AUSENTE.
+**+6 (canon transversal 06/07/2026):** ❌ Falta el edge como retroalimentación positiva (excitación sin resolución = combustible que profundiza el estado; LOCK; loop autosustentado). Su ausencia = CANON AUSENTE.
 
 ---
 
-*Una vara. Ocho ejes. Tres gates que no se negocian. La pregunta final es una: ¿entró el lector? — engine-trance-lv · RUBRICA_TRANCE v1.1 (Monólogo)*
+*Una vara. Ocho ejes. Cuatro gates que no se negocian. La pregunta final es una: ¿entró el lector? — engine-trance-lv · RUBRICA_TRANCE v1.2 «Serpiente»*
