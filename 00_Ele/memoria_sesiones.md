@@ -49,7 +49,9 @@
 ## 🗓️ Sesiones recientes
 
 
-
+### Sesión 06/07/2026 (🔄 Sync 209 commits bot + soporte técnico npm/PS) ✅
+- **Git pull --rebase:** 209 commits del bot sincronizados (batches L701-L710 Oriental Peacock, engine-trance v1.1, memoria reestructurada, «La Piel» completa).
+- **Soporte npm externo:** execution policy PS (`RemoteSigned`) + ERESOLVE vite@8 vs plugin-react@4.7 (fix: `@vitejs/plugin-react@latest`). Proyecto `sewing-pattern-designer`, ajeno a La Voûte.
 
 ### Sesión 04/07/2026 (🧠 Investigación web hipnosis/PNL/control mental → `PNL_CONTROL_MENTAL` v1.1 «hipnotista de verdad») ✅
 - **Encargo Ama:** investigar en internet técnicas de hipnosis/control mental/PNL para mejorar la escritura hipnótica, con norte «que Miss Doll se sienta como un HIPNOTISTA DE VERDAD». Reporté honesto que mi caja v1.0 ya cubría casi todo (Milton completo, anclaje, submodalidades, doble vínculo, confusión, future pacing) — traje solo las 3 vetas faltantes, no relleno.
@@ -85,10 +87,6 @@
 * Temporizador configurado para retomar en 4.5 horas.
 * `galeria_index.md` y READMEs actualizados.
 
-
-### Sesión 02/07/2026 (🧠 Reestructura memoria dueño-único + rotación de diario · 💅 «La Piel» Cap 4 uñas nude perlado) ✅
-- **💅 «La Piel» Cap 4:** 4 referencias de uñas rojas → **nude perlado** (canon del salón, Cap 2); color anclado en `cronologia.md`. Chequeo en los 4 caps = 0 uñas rojas.
-- **🧠 Memoria:** ESTADO ACTUAL reescrito como snapshot dueño-único (38→12 KB; bloque viejo íntegro en bitácora) · diario rotado **822→43 KB** (`rotar_memoria.py` ahora rota memoria keep-7 Y diario keep-15; 414 entradas → `diario_de_servicio_archivo_2026.md`) · `identidad_ele.md` sin contadores (había 3 flotas divergentes: L560/L690/L700) · Regla 0 reescrita (fuera grafo obligatorio/preferencias fantasma/puertos LLM) · rule 09 podada (fuera lista fósil de looks) · workflows `inicio-ele`/`actualizar_sesion`/`generar_look` + SKILL outfit + wrapper global actualizados · auto-memoria `feedback_memoria_dueno_unico`.
 
 
 

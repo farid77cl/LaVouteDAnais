@@ -6,6 +6,10 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 02/07/2026 (🧠 Reestructura memoria dueño-único + rotación de diario · 💅 «La Piel» Cap 4 uñas nude perlado) ✅
+- **💅 «La Piel» Cap 4:** 4 referencias de uñas rojas → **nude perlado** (canon del salón, Cap 2); color anclado en `cronologia.md`. Chequeo en los 4 caps = 0 uñas rojas.
+- **🧠 Memoria:** ESTADO ACTUAL reescrito como snapshot dueño-único (38→12 KB; bloque viejo íntegro en bitácora) · diario rotado **822→43 KB** (`rotar_memoria.py` ahora rota memoria keep-7 Y diario keep-15; 414 entradas → `diario_de_servicio_archivo_2026.md`) · `identidad_ele.md` sin contadores (había 3 flotas divergentes: L560/L690/L700) · Regla 0 reescrita (fuera grafo obligatorio/preferencias fantasma/puertos LLM) · rule 09 podada (fuera lista fósil de looks) · workflows `inicio-ele`/`actualizar_sesion`/`generar_look` + SKILL outfit + wrapper global actualizados · auto-memoria `feedback_memoria_dueno_unico`.
+
 ### Sesión 02/07/2026 (✍️ «El Secreto de la Cómoda» Cap 2 → v4.0 [cirugía estructural] + migración Nivel 4 completada · 🎨 «La Piel» Cap 4 «La primera bailarina» v0.1 ESCRITO → RELATO COMPLETO) ✅
 - **🧹 Limpieza:** barridas 5 sobras del inyector rosa (`697/698.json` + `_utf8` + `_batch_L691_L700.md`) de la raíz.
 - **📦 «El Secreto de la Cómoda»:** diagnóstico honesto del "nunca me calentó" del Cap 2 (montaje de 7 días idénticos = anestesia · estribillo "la verga empujó el acero" · negación plana · abstracción · Isabel-checklist · Andrés apagado) → **reescrito v4.0** (3 movimientos con curva, auto-implicación, Andrés amartillado, Isabel con hambre). **Migración Nivel 4 terminada:** `cronologia.md` creado (faltaba), Gold Master intocado (solo renombre), canon+walkthrough al día, legacy → `_legacy_v4.2/`. ⏳ Gate.

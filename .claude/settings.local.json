@@ -84,7 +84,15 @@
       "Bash(git -C c:/Users/farid/LaVouteDAnais add 00_Ele/identidad_ele.md)",
       "Bash(git -C c:/Users/farid/LaVouteDAnais add README.md 01_Canon/README.md 02_Personajes/README.md 03_Literatura/README.md 04_Interactivo/README.md 06_RRSS/README.md 07_Recursos/README.md 99_Sistema/README.md)",
       "Bash(git -C c:/Users/farid/LaVouteDAnais add .agent/workflows/actualizar_sesion.md README.md)",
-      "PowerShell(python \"c:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\temp_fix_pov_ditzy_v41.py\" 2>&1)"
+      "PowerShell(python \"c:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\temp_fix_pov_ditzy_v41.py\" 2>&1)",
+      "Bash(ls -la \"C:/Users/loren/.claude/commands/\" 2>/dev/null || echo \"no existe user-level commands\")",
+      "Read(//c/Users/loren/.claude/**)",
+      "Bash(git fetch *)",
+      "Bash(git mv *)",
+      "Bash(git pull *)",
+      "PowerShell(node --version 2>$null; npm --version 2>$null; \\(Get-Command node -ErrorAction SilentlyContinue\\).Source; \\(Get-Command npm -ErrorAction SilentlyContinue\\).Source)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); npm --version)",
+      "Bash(git stash *)"
     ]
   }
 }
