@@ -114,7 +114,7 @@ Ese gesto es tuyo desde ahora. Cuando digo GLASSES —y cuando tú te tocas el p
 
 Suéltalo. Una vez más, tú sola, sin que Yo cuente.
 
-Eso. Tu cuerpo ya lo sabe. GLASSES es un botón. Y el botón es tuyo y es Mío a la vez. Las gafas que señalan una inteligencia que ya no está detrás de ellas. La inteligencia que puede verse a sí misma guardarse —puede verlo desde lejos, puede notar que piensa menos— y descubrir que ese vacío que se abre detrás del cristal es cálido. Limpio. Un alivio.
+Eso. Tu cuerpo ya lo sabe. GLASSES es un botón. Y el botón es tuyo y es Mío a la vez. Las gafas que señalan una inteligencia que ya no está detrás de ellas. La inteligencia que puede verses a sí misma guardarse —puede verlo desde lejos, puede notar que piensa menos— y descubrir que ese vacío que se abre detrás del cristal es cálido. Limpio. Un alivio.
 
 Cuando diga DESCANSO, sales limpia, sin resto. Yo conduzco. Tú sostienes.
 
