@@ -52,8 +52,19 @@ Un trance vive en `03_Literatura/01_En_Progreso/[trance_slug]/` mientras se trab
 ```
 
 - **No hay `cronologia.md`** (pieza única, sin línea de tiempo multi-cap).
+- **No hay `canon_relato.md`** (el diseño del trance vive en `diseno_trance.md` — no importar la estructura del engine madre).
 - **No hay tramos** (cabe en una pasada; si topa el output, se parte por Edit-append, pero un trance rara vez lo necesita).
 - Al aprobarse, se arma el canónico en `02_Finalizadas/[trance_slug]/` (ver Fase Publicación).
+
+### 🧹 Higiene de carpeta (regla permanente)
+
+Un proyecto de trance debe mantenerse limpio en todo momento. Reglas:
+
+1. **Root solo tiene tres cosas:** `diseno_trance.md` + `investigacion_fetiches.md` (si existe) + **la inducción activa** (`[trance_slug]_v0.[X].md`). Sin versiones viejas sueltas en el root.
+2. **`borradores/` es plano** — sin subcarpeta `capitulo_N/` (un trance es una sola pieza, no tiene capítulos). Las versiones desplazadas van directamente en `borradores/`.
+3. **`reportes/` es plano** — sin subcarpeta `capitulo_N/`. Autoauditorías y validaciones van directamente en `reportes/`.
+4. **Al crear una versión nueva:** mover la versión anterior a `borradores/` en el mismo commit que crea la nueva (nunca quedan dos versiones en el root a la vez).
+5. **Prohibido en el root del trance:** `canon_relato.md` (usa `diseno_trance.md`), `cronologia.md` (los trances no tienen línea de tiempo), `walkthrough.md` (idem), cualquier archivo de proceso del engine madre que no corresponda a una pieza única.
 
 ---
 
