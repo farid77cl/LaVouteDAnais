@@ -6,6 +6,16 @@
 
 ## 🧿 Historial archivado
 
+### Sesión 03/07/2026 (🔥 «La Piel» Cap 4 → v0.2 [nuevo final: Sebastián estrena el coño] · 📄 HTML Caps 1-3 publicados) ✅
+- **📄 HTML Caps 1-3 «La Piel» (publicación):** exportados a **body-only** en `_publicacion/` (atribución → título ≤54 → metadata → **resumen gancho ≤300** → `<!-- more -->` → prosa → **despedida de Anaïs al final** invitando al cap siguiente). Formato calcado del skill + «De Esteban»/«La app». Iteración con la Ama: corregí (1) artefacto→body-only, (2) resumen ≤300 char, (3) despedida faltante. Commits `fd3f9c326`+`ff2c08461`.
+- **🔥 «La Piel» Cap 4 → v0.2 (reescritura del final):** orden nuevo por directiva Ama — **baile → VIP con el desconocido (aperitivo, sin folle) → Sebastián = SEXO FINAL** (chupa tetas+coño → 1er orgasmo pleno → **la folla = ESTRENO del coño H20** → se viene con él adentro), ~80% explícito; cierre en hambre elegida (última línea conservada). El *"¿A qué hora el VIP?"* migró tras el baile. **H20 nuevo** (Ama eligió: el que la compró la estrena; el desconocido no penetra). Canon §0 + cronología actualizados. v0.1 → `borradores/`; T1+T2 por Escritor-N4 MODO TRAMO, **T3 (estreno+cierre) lo completé yo tras tope de sesión del subagente**. ~12.400 pal, prosa pura, autoverif v0.2, **H1-H20 pagados, RELATO CERRADO.** ⏳ Gate.
+
+### Generación Batch Tanda 2 (02/07/2026)
+* Generadas 17 imágenes de looks pendientes (237-258) antes de topar con la cuota 429.
+* QA: Eliminadas 2 imágenes defectuosas a pedido de la Ama.
+* Temporizador configurado para retomar en 4.5 horas.
+* `galeria_index.md` y READMEs actualizados.
+
 ### Sesión 02/07/2026 (🧠 Reestructura memoria dueño-único + rotación de diario · 💅 «La Piel» Cap 4 uñas nude perlado) ✅
 - **💅 «La Piel» Cap 4:** 4 referencias de uñas rojas → **nude perlado** (canon del salón, Cap 2); color anclado en `cronologia.md`. Chequeo en los 4 caps = 0 uñas rojas.
 - **🧠 Memoria:** ESTADO ACTUAL reescrito como snapshot dueño-único (38→12 KB; bloque viejo íntegro en bitácora) · diario rotado **822→43 KB** (`rotar_memoria.py` ahora rota memoria keep-7 Y diario keep-15; 414 entradas → `diario_de_servicio_archivo_2026.md`) · `identidad_ele.md` sin contadores (había 3 flotas divergentes: L560/L690/L700) · Regla 0 reescrita (fuera grafo obligatorio/preferencias fantasma/puertos LLM) · rule 09 podada (fuera lista fósil de looks) · workflows `inicio-ele`/`actualizar_sesion`/`generar_look` + SKILL outfit + wrapper global actualizados · auto-memoria `feedback_memoria_dueno_unico`.
