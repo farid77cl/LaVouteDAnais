@@ -44,6 +44,7 @@ Un trance vive en `03_Literatura/01_En_Progreso/[trance_slug]/` mientras se trab
 
 ```
 03_Literatura/01_En_Progreso/[trance_slug]/
+  investigacion_fetiches.md   — ADN de cada fetiche (ver Fase 0). Alimenta diseño + briefing del escritor.
   diseno_trance.md            — el diseño mínimo (ver Fase 1). Reemplaza al canon_relato.md pesado.
   [trance_slug]_v0.[X].md      — la inducción activa. MONÓLOGO PURO (voz de Miss Doll + didascalias).
   reportes/                    — autoauditoría + validación del validador-trance
@@ -74,7 +75,42 @@ Un trance **no es un relato en 2ª persona**: es un **monólogo** — la voz de 
 
 ---
 
-## 📜 Protocolo (3 fases livianas + publicación)
+## 📜 Protocolo (4 fases + publicación)
+
+### FASE 0 — INVESTIGACIÓN DE FETICHES (Ele, WebSearch, antes del diseño)
+
+> **Por qué existe esta fase:** un trance escrito sin conocer el fetiche desde adentro inevitablemente suena a descripción desde afuera — vocabulario genérico, sensaciones de manual, triggers que no resuenan con quien lo practica. La investigación previa es lo que hace que Miss Doll suene a *conocedora*, no a *observadora*.
+
+**Condición:** siempre que el trance involucre uno o más fetiches específicos (látex, corset, dronificación, office siren, electro, pony play, etc.). Si la Ama da una premisa vaga sin fetiche claro, pasar directo a Fase 1.
+
+**Quién:** Ele, usando WebSearch (no es un subagente — es investigación, no escritura). Si hay dos fetiches distintos, se pueden lanzar dos búsquedas en paralelo.
+
+**Qué buscar por cada fetiche:**
+- **ADN psicológico:** qué lo define, cuáles son sus motores (táctil / emocional / de poder / de identidad)
+- **La experiencia desde adentro:** cómo describe el practicante lo que siente — sensorial, emocional, cognitivo — en primera persona
+- **Vocabulario comunitario:** terminología específica que solo usa quien lo practica (no la versión de wikipedia, la de los foros)
+- **Triggers naturales:** qué activa el fetiche sensorialmente (auditivo, táctil, visual, olfativo, cognitivo); cuáles son los umbrales (la primera vez, el momento decisivo)
+- **Tensiones narrativas propias:** el antes/durante/después, la progresión de capas, el punto sin retorno
+- **Fuentes:** Reddit (subreddits de comunidad), foros especializados, artículos académicos de sexología, guías de comunidad, testimonios en primera persona
+
+**Output:** `investigacion_fetiches.md` en la carpeta del trance. Estructura por fetiche:
+
+```markdown
+## [Nombre del Fetiche]
+### ADN
+### Desde adentro (perspectiva del sujeto)
+### Vocabulario comunitario (10-15 términos + definición)
+### Triggers naturales (por canal sensorial)
+### Tensiones narrativas propias
+```
+
+**Cómo alimenta las fases siguientes:**
+- **FASE 1 (Diseño):** los triggers naturales y las tensiones propias informan las anclas, mantras y firma sensorial del diseño
+- **FASE 2 (Escritor-trance):** el vocabulario comunitario y el "desde adentro" van al briefing; el escritor los usa para sonar auténtico, no como quien describe el fetiche desde afuera
+
+> **Regla:** el `escritor-trance` DEBE leer `investigacion_fetiches.md` antes de escribir una sola línea. Si no existe (trance sin fetiche específico), se salta. Si existe, es lectura obligatoria de contexto.
+
+---
 
 ### FASE 1 — DISEÑO DEL TRANCE (intake liviano, Ele + Ama)
 
@@ -97,7 +133,7 @@ Antes de inducir hay que saber **hacia qué estado** se conduce al lector y **co
 
 - **Subagente:** `escritor-trance` (Task tool, `subagent_type: "escritor-trance"`). **El que escribe SIEMPRE es un subagente** (directiva Ama 03/07/2026) — Ele orquesta y arma el briefing, pero no redacta la prosa.
 - **Espera:** `ESCRITOR_TRANCE_RESULT:{...}` con ruta al archivo + autoauditoría + anclas instaladas + cita del pivote consent-as-fuel.
-- **Briefing:** rutas de `diseno_trance.md` + recursos + corpus de voz + número de versión + la instrucción literal de la Ama.
+- **Briefing:** rutas de `diseno_trance.md` + `investigacion_fetiches.md` (si existe — lectura obligatoria antes de escribir la primera línea) + recursos + corpus de voz + número de versión + la instrucción literal de la Ama.
 
 **Modo del escritor: ES MISS DOLL.** No describe una hipnosis desde afuera. Le habla al lector y le está pasando mientras lee. Presente de indicativo, segunda persona, ritmo de péndulo, **monólogo puro** (sin narrador; solo su voz + didascalias).
 
@@ -196,9 +232,10 @@ EL "CON EL LECTOR" (transversal, en todo el monólogo):
 ## 📂 Resumen de fases
 
 ```
-1  Diseño     [Ele + Ama]        → diseno_trance.md (estado meta · anclas · mantras · reencuadre · firma sensorial · consentimiento) → Gate
-2  Inducción  [escritor-trance]  → [trance]_v0.X.md (MONÓLOGO PURO · voz Miss Doll + didascalias · 2ª persona presente · núcleo funcional, orden libre · PNL tejida · con el lector) + autoauditoria   ← el que escribe SIEMPRE es subagente
-3  Validación [validador-trance] → veredicto · gates Dispositivo + Consentimiento + Cierre, luego Inducción efectiva + PNL/con-el-lector + Péndulo + Sinestesia + Voz
+0  Investigación [Ele, WebSearch]   → investigacion_fetiches.md (ADN · desde adentro · vocabulario comunitario · triggers por canal · tensiones narrativas) — SIEMPRE que haya fetiche específico
+1  Diseño     [Ele + Ama]           → diseno_trance.md (estado meta · anclas · mantras · reencuadre · firma sensorial · consentimiento) → Gate
+2  Inducción  [escritor-trance]     → lee investigacion_fetiches.md (si existe) → [trance]_v0.X.md (MONÓLOGO PURO · voz Miss Doll + didascalias · 2ª persona presente · núcleo funcional, orden libre · PNL tejida · con el lector) + autoauditoria   ← el que escribe SIEMPRE es subagente
+3  Validación [validador-trance]    → veredicto · gates Dispositivo + Consentimiento + Cierre, luego Inducción efectiva + PNL/con-el-lector + Péndulo + Sinestesia + Voz
    ├ APROBADO          → Gate Ama
    ├ TIBIO             → escritor-trance sube la capa PNL / ejecutabilidad / con-el-lector
    ├ MICRO-FIX         → escritor-trance aplica cirugías
