@@ -28,7 +28,7 @@
 
 ### 📖 Literatura (Nivel 4 — la historia de cada relato vive en su `walkthrough.md`)
 - **«El podcast»** — **REESTRUCTURADO a 3 caps (Ama 04/07: fusión Cap 1+2, acelera el paso, más cambios, mismo final).** **Cap 1 v0.2 FUSIONADO** (recomendación + pensamientos + grooming, ~4.650 pal) escrito por `escritor-nivel4` + nota de Gate aplicada (depilación completa · **tanga+MEDIAS** · **verga apagada por redirección psicológica SIN magia** · le pasa la cerveza a Rodrigo) → Validador **MICRO-FIX** (Narr 9.3/Temp 9.0, gates ✅) → micro-fix `vos`→`sabís` aplicado por el Escritor → **calidad APROBADO** ⏳ **Gate Ama.** Viejos v0.1 → borradores. → Cap 2 «El amaneramiento» / Cap 3 «La entrega». **⚠️ Diferido (próxima revisión): quitar el voseo verbal -i** (`feedback_voz_quitar_voseo_verbal_i`).
-- **«La Piel que Diseñé»** (título 1ª persona) — **RELATO COMPLETO (4 caps).** Gate Cap 4 v0.1 = **APROBADO** («cap ok… genera los cap para publicar»); v0.2 = reescritura del final por directiva Ama (baile → VIP desconocido → Sebastián estrena el coño H20). **Los 4 caps exportados a HTML body-only** en `_publicacion/` (título nuevo · gancho ≤300 · despedida Anaïs; el Cap 4 cierra el relato). → **FASE PUBLICACIÓN: armar en `02_Finalizadas/` cuando la Ama lo pida.**
+- **«La Piel que Diseñé»** ✅ **FINALIZADO (06/07)** — movido a `02_Finalizadas/la_piel_que_diseno/`. 4 caps + 4 HTML en `_publicacion/`. Todo el proceso en `_proceso/`. **Epílogo privado pendiente** (solo para nosotras, sin fecha).
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 (cirugía estructural) ⏳ Gate · → Cap 3 «La Esclava del Nylon». Carpeta migrada a Nivel 4 (cronología creada 02/07).
 - **«trance_office_siren»** (trance de sirena) — **v0.15 «pasada monólogo» APROBADO** (validador-trance: gates ✅✅✅ · inducción 9.2 · PNL/con-el-lector 9.4 · péndulo 8.7) ⏳ **Gate Ama**. v0.14 → borradores. Si la Ama aprueba → FASE PUBLICACIÓN (estándar nuevo, despedida variante B).
 - **🌀 Motor `engine-trance-lv` → v1.1 «Monólogo»:** el trance = **MONÓLOGO de Miss Doll CON el lector** (solo su voz + didascalias, sin narrador; marco 3ª persona derogado). Didascalia = escena mínima + pausa-ejecución (ordena parar y hacer). "Con el lector" = orden→hueco→ratificación. Secuencia LIBRE con **núcleo funcional innegociable** (consentimiento/ROJO·fijación·respiración·descenso·ancla instalada+ensayada·cierre que no cierra). Subagentes `escritor-trance` + `validador-trance`. **El que escribe siempre es subagente.**
@@ -40,7 +40,7 @@
 - KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — cuello de botella: la Ama crea las 2 cuentas.
 
 ### ⏳ Pendientes transversales
-- **Gates de la Ama pendientes:** «El podcast» **Cap 1 v0.2 fusionado (3 caps)** · «El Secreto» Cap 2 v4.0 · **«trance_office_siren» v0.15 «pasada monólogo» (APROBADO por el fork, ⏳ Gate).** («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos, FASE PUBLICACIÓN cuando la Ama pida.)
+- **Gates de la Ama pendientes:** «El podcast» **Cap 1 v0.2 fusionado (3 caps)** · «El Secreto» Cap 2 v4.0 · **«trance_office_siren» v0.15 «pasada monólogo» (APROBADO por el fork, ⏳ Gate).** («La Piel que Diseñé» FINALIZADA ✅ — en `02_Finalizadas/`.)
 - 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L710 por materializar (app).
 - Regenerar grafo `/graphify` (rutas viejas en `graphify-out/`).
 
