@@ -17,7 +17,9 @@
 
 ## Prompts de portada (English — para Gemini)
 
-> **Formato:** portrait vertical 2:3, portada de novela adulta de autor. Título y autora renderizados dentro de la imagen por el generador. Sensualidad real — calor, piel, postura cargada — sin ser explícito.
+> **Formato:** 512 × 800 px · portrait vertical (2:3) · portada de novela adulta literaria. Título y autora renderizados en la imagen por el generador. Composición con focal claro al centro — debe leerse a 256 px de ancho (miniatura móvil Wattpad). Fondo oscuro dominante + texto blanco/crema de alto contraste. Sensualidad: calor, piel, postura cargada — sin ser explícito.
+>
+> **Identidad visual LVA — Anaïs Belland:** Fondo negro caoba o caoba profundo · acento dorado cálido para título y barra · autora en small-caps · serif clásica (Palatino, Garamond, Book Antiqua). No mezclar con el rosa caliente de Miss Doll ni el rojo cereza de Ele.
 
 ---
 
@@ -30,7 +32,7 @@ FIGURE: A glamorous, alluring woman, full body centered in frame. She stands in 
 
 BACKGROUND: behind her, split world — warm amber vanity light on the left with perfume bottles and a small wax pot; Santiago city lights through floor-to-ceiling glass on the right, night, the edge of an executive caoba desk visible.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif title in cream or gold lettering: "De Esteban a Secretaria". At the very bottom, smaller refined lettering in the same palette: "Anaïs Belland". Both flush with the figure, clean and legible.
+TYPOGRAPHY (rendered in image): At the top, elegant serif title in warm cream or deep gold — high contrast against the dark background, legible at thumbnail size: "De Esteban a Secretaria". Immediately below the title, a thin horizontal accent rule in warm gold, left-aligned, the width of the longest title word. At the very bottom, small-caps lettering in warm gold: "ANAÏS BELLAND". Both elements flush with the figure, clean and readable at 256px wide.
 
 Mood: heat, ownership, a woman made by another's hands who does not yet know it. Photo-realistic, hyper-polished, 8k.
 ```
@@ -46,7 +48,7 @@ FIGURE: A glamorous woman sits at a vintage vanity, face three-quarter toward ca
 
 BACKGROUND edges: left — a man's dark suit jacket crumpled on a chair, a plain watch face-down; right — a lila-labeled wax pot, nude stockings pooled on the floor, one black stiletto heel tipped on its side.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif in warm gold: "De Esteban a Secretaria — Capítulo 1". Below it, smaller italic: "La Semana". At the very bottom: "Anaïs Belland".
+TYPOGRAPHY (rendered in image): At the top, elegant serif in warm cream or deep gold, legible at thumbnail size: "De Esteban a Secretaria — Capítulo 1". A thin gold accent rule immediately below the main title, left-aligned. Smaller italic below the rule: "La Semana". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
 Mood: transformation in progress, intimacy charged with desire, the body learning something the mind hasn't admitted yet. Photo-realistic, high-fashion editorial, 8k.
 ```
@@ -64,7 +66,7 @@ UPPER FRAME: A tall man's dark silhouette fills the open doorway above her — b
 
 LOWER FRAME EDGE: At bottom left, barely in frame — a woman's hand holding a ceramic coffee cup, dark nail polish, the edge of burgundy lips in shadow. Watching.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif in cream or gold: "De Esteban a Secretaria — Capítulo 2". Below it, smaller italic: "La verga que coge a Valeria". At the very bottom: "Anaïs Belland".
+TYPOGRAPHY (rendered in image): At the top, elegant serif in warm cream or deep gold, legible at thumbnail size: "De Esteban a Secretaria — Capítulo 2". A thin gold accent rule immediately below the main title, left-aligned. Smaller italic below the rule: "La verga que coge a Valeria". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
 Mood: arrival, desire, the moment of discovery, the triangle closing around her. Luxurious executive loft, caoba paneling, single pendant overhead. Photo-realistic, hyper-polished editorial, 8k.
 ```

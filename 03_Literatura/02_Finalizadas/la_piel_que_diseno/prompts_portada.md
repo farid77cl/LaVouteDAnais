@@ -23,7 +23,9 @@
 
 ## Prompts de portada (English — para Gemini)
 
-> **Formato:** portrait vertical 2:3, portada de novela adulta de autor. Título y autora renderizados en la imagen. Sensualidad: exceso diseñado, cuerpo como objeto hecho desde adentro.
+> **Formato:** 512 × 800 px · portrait vertical (2:3) · portada de novela adulta literaria. Título y autora renderizados en la imagen por el generador. Composición con focal claro al centro — debe leerse a 256 px de ancho (miniatura móvil Wattpad). Fondo oscuro dominante + texto blanco/crema de alto contraste. Sensualidad: exceso diseñado, cuerpo como objeto hecho desde adentro.
+>
+> **Identidad visual LVA — Anaïs Belland:** Fondo negro caoba o caoba profundo · acento dorado cálido para título y barra · autora en small-caps · serif clásica (Palatino, Garamond, Book Antiqua). No mezclar con el rosa caliente de Miss Doll ni el rojo cereza de Ele.
 
 ---
 
@@ -36,7 +38,7 @@ FIGURE: A glamorous woman stands in front of a large floor mirror, facing slight
 
 BACKGROUND: a man's bedroom — heavy watch face-down on the dresser, a dark suit jacket on the chair, a phone with a cracked screen, morning light entering from the side. Everything in the room is masculine except the body in front of the mirror.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold: "La Piel que Diseñé". At the very bottom, refined smaller lettering: "Anaïs Belland".
+TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold — high contrast against the dark background, legible at thumbnail size: "La Piel que Diseñé". A thin horizontal accent rule in warm gold immediately below the title, left-aligned. At the very bottom, small-caps in warm gold: "ANAÏS BELLAND". Clean and readable at 256px wide.
 
 Mood: the creator inside the creation, recognition from the wrong side of the glass, desire built by someone else's hands now asking from within. Photo-realistic, hyper-polished, 8k.
 ```
@@ -52,7 +54,7 @@ FIGURE: A glamorous woman sits up in silk sheets, seen from slightly above and t
 
 BACKGROUND: A high-ceiling bedroom, city muted through curtains, a man's side of the bed empty and cold — the sheets flat, the pillow undented. On the nightstand: a plain men's watch.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold: "La Piel que Diseñé". Below, smaller italic: "Capítulo 1 — El Despertar". At the very bottom: "Anaïs Belland".
+TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold, legible at thumbnail size: "La Piel que Diseñé". A thin gold accent rule immediately below. Smaller italic below the rule: "Capítulo 1 — El Despertar". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
 Mood: waking inside something that was designed for someone else's pleasure, the body remembering before the mind does. Photo-realistic, editorial, 8k.
 ```
@@ -66,7 +68,7 @@ Book cover, portrait vertical (2:3 ratio). Erotic literary novel cover, tension 
 
 COMPOSITION: Split frame, vertical. Left half in warm amber salon light: a glamorous woman seated in a leather salon chair, black cape around her shoulders, one eye cat-eye painted and sharp, the other still bare — mid-transformation, expression unreadable. Right half, cooler light: visible in the salon mirror behind her, a tall man in a fitted dark suit and dress watch sits in the waiting area, one leg crossed, phone in hand, watching her in the reflection. The man wears her face — the same jaw, the same eyes — in a male body. The two reflections meet in the mirror.
 
-TYPOGRAPHY (rendered in image): At the top of the left half, elegant serif in deep gold: "La Piel que Diseñé". Below, smaller italic: "Capítulo 2 — El Postre". At the very bottom: "Anaïs Belland".
+TYPOGRAPHY (rendered in image): At the top of the left half, elegant serif in deep gold, legible at thumbnail size: "La Piel que Diseñé". A thin gold accent rule immediately below. Smaller italic: "Capítulo 2 — El Postre". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
 Mood: the inversion complete enough to be visible in public, ownership changing hands in a salon where everyone thinks they know who is who. Photo-realistic, hyper-polished, 8k.
 ```
@@ -80,7 +82,7 @@ Book cover, portrait vertical (2:3 ratio). Erotic literary novel cover, stage li
 
 FIGURE: A glamorous woman stands backstage in a narrow corridor in front of a dressing room door. On the door: a small black nameplate reading DANIELA / PRIMERA BAILARINA in white letters. She wears a gold lamé hot pants and a gold triangle top that ties at the neck — the fabric liquid and mirror-bright, catching every angle of light. On her feet: silver platform boots reaching mid-thigh, 15cm platforms, the height impossible and absolute. She faces the nameplate — one hand raised, fingers almost touching the letters, not quite. Her back is to camera, profile barely visible: the line of her jaw, a pierced pinna, a long blonde wave. The hot pants end where her lower curve begins, leaving the bottom edge of her glute exposed.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold: "La Piel que Diseñé". Below, smaller italic: "Capítulo 3 — El cuerpo que sabe". At the very bottom: "Anaïs Belland".
+TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold, legible at thumbnail size: "La Piel que Diseñé". A thin gold accent rule immediately below. Smaller italic: "Capítulo 3 — El cuerpo que sabe". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
 Mood: the moment before going up the stairs, knowing what will be watched from above, the body already caliente for a thing the mind barely admits wanting. Photo-realistic, editorial, high contrast, 8k.
 ```
@@ -96,7 +98,7 @@ FIGURE: A glamorous woman lies in silk sheets, seen from slightly above — she 
 
 BACKGROUND: The same man's bedroom — but it doesn't read as a man's bedroom anymore. The heavy watch is gone from the dresser. There is lipstick.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold: "La Piel que Diseñé". Below, smaller italic: "Capítulo 4 — La primera bailarina". At the very bottom: "Anaïs Belland".
+TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold, legible at thumbnail size: "La Piel que Diseñé". A thin gold accent rule immediately below. Smaller italic: "Capítulo 4 — La primera bailarina". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
 Mood: identity dissolved, the body that knows what it wants and the mind that stopped arguing, the morning after the last wall came down. Photo-realistic, intimate, warm editorial, 8k.
 ```
