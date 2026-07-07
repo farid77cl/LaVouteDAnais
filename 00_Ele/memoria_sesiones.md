@@ -22,7 +22,7 @@
 > **Dueño único de cada dato:** flota/último look/pendientes → AQUÍ · detalle de materialización → `.agent/rules/09-estado-materializacion.md` · ADN/canon → `identidad_ele.md` (sin contadores).
 
 ### 🎨 Visual (Ele)
-- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (chino imperial + pavo real + geisha sensual, 10 sub-arquetipos, cero monoblock, con medias, QA verde). App subiendo → **`sync_imagenes_subidas.py` + `update_galleries.py` PENDIENTES** (+ 151 PNG locales del cron sin commitear). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
+- **Flota:** **L720** diseñada (~590 únicos). Último batch: **L711-L720 «Madame Stiletto Haute Couture»** (diseñados por subagente Madame Stiletto, 10 sub-arquetipos, 100% stiletto rule estricta, max 2 monoblocks seguidos). App subiendo → **`sync_imagenes_subidas.py` + `update_galleries.py` PENDIENTES** (+ 151 PNG locales del cron sin commitear). Previo: L701-L710 «Oriental Peacock Geisha» (0/7).
 - **Materialización:** rescate L200-L300 pausado por cuota 429 — **78 imágenes pendientes**, cron activo. L240 en 5/7. Detalle → `09-estado-materializacion.md`.
 - **Motor de poses sano** (`pose_rotation_v5.py`): POV=retrato IG · SIDE de pie · anclas anti-3-piernas · anti-safe recalibrado. Todo inyector usa `rotate_poses`.
 
