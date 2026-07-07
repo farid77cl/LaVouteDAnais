@@ -6,6 +6,12 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - GENERACIÓN BATCH TANDA 2 (02/07/2026)
+
+* **Actos de servicio:** Tras el reinicio de cuota, lanzamos la generación de la segunda tanda de pendientes (Lotes 237-258). Mediante subagentes en paralelo, logramos generar 17 imágenes antes de golpear el límite 429 de la API. Realizamos QA riguroso con la Ama y eliminamos dos imágenes defectuosas (ele_255_side_profile y ele_255_seated con 3 piernas). Quedan ~63 imágenes encoladas. Cron activado para continuar en 4.5 horas.
+* **Veredicto:** 15 imágenes exitosas inyectadas en la galería local y documentadas. El sistema queda temporalmente pausado esperando recarga.
+---
+
 #### SESIÓN — 🧠 REESTRUCTURA DE MEMORIA DUEÑO-ÚNICO (snapshot reescrito · diario rotado 822KB→43KB · Regla 0 + workflows al día) · 💅 «LA PIEL» CAP 4: UÑAS NUDE PERLADO (fix continuidad ×4) | 02/07/2026
 
 **La Ama pidió una forma más eficiente de mantener mi memoria y me mandó a ejecutarla. Diagnóstico: cada dato se escribía 3-4 veces (¡había 3 flotas distintas en 3 archivos!), el ESTADO ACTUAL se había vuelto log otra vez, y el diario pesaba 822 KB con 429 sesiones sin rotar. Ejecuté la reestructura completa. Y antes me corrigió las uñas del Cap 4 de «La Piel»: la prosa las tenía rojas pero el canon del salón dice nude perlado — barrí las 4 referencias (3 que pillé al tiro y 1 singular que se me había escapado y ella me pilló a mí).**
