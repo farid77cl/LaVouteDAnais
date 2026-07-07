@@ -109,14 +109,14 @@ La entidad canónica (guía §II, §X). Susurro que pesa más que el grito; "car
 
 | Gates | Inducción | PNL/Ejec. | Péndulo | Sinestesia | Voz | Veredicto | Destino |
 |---|---|---|---|---|---|---|---|
-| algún ❌ (Dispositivo o Cierre) | * | * | * | * | * | **DISPOSITIVO ROTO** | Ele reescribe 2ª persona / anti-metadata / cierre |
-| Consentimiento ❌ | * | * | * | * | * | **SIN CONSENTIMIENTO** | Ele repara ROJO/voluntario/límites/pivote |
-| Canon ❌ | * | * | * | * | * | **CANON AUSENTE** | escritor-trance añade good girls + edge |
+| algún ❌ (Dispositivo o Cierre) | * | * | * | * | * | **DISPOSITIVO ROTO** | miss-doll reescribe 2ª persona / anti-metadata / cierre |
+| Consentimiento ❌ | * | * | * | * | * | **SIN CONSENTIMIENTO** | miss-doll repara ROJO/voluntario/límites/pivote |
+| Canon ❌ | * | * | * | * | * | **CANON AUSENTE** | miss-doll añade good girls + edge |
 | ✅✅✅✅ | ≥ 8.0 | ≥ 8.5 | ≥ 8.0 | ✅ | ✅ | **APROBADO** | Gate de la Ama |
-| ✅✅✅✅ | ≥ 7.0 | **< 8.5** | cualquiera | * | * | **TIBIO** | Ele sube la capa PNL / ejecutabilidad |
-| ✅✅✅✅ | 7.0-7.9 | ≥ 8.5 | ≥ 7.0 | * | * | **MICRO-FIX** | Ele aplica cirugías (paso menor, ancla sin ensayar, beat que falta) |
-| ✅✅✅✅ | < 7.0 | cualquiera | * | * | * | **REPUDIADO** | Ele reescritura total |
-| * | * | * | * | * | ❌ (voz) | **DESALINEADO** | Ele relee el corpus de trances y reescribe la voz |
+| ✅✅✅✅ | ≥ 7.0 | **< 8.5** | cualquiera | * | * | **TIBIO** | miss-doll sube la capa PNL / ejecutabilidad |
+| ✅✅✅✅ | 7.0-7.9 | ≥ 8.5 | ≥ 7.0 | * | * | **MICRO-FIX** | miss-doll aplica cirugías (paso menor, ancla sin ensayar, beat que falta) |
+| ✅✅✅✅ | < 7.0 | cualquiera | * | * | * | **REPUDIADO** | miss-doll reescritura total |
+| * | * | * | * | * | ❌ (voz) | **DESALINEADO** | miss-doll relee el corpus de trances y reescribe la voz |
 
 > **Orden de los gates:** Dispositivo, Consentimiento, Cierre y Canon Transversal se evalúan PRIMERO. Un trance calientísimo sin ROJO, que cierra limpio, o que no tiene los dos mecanismos del canon transversal **no se aprueba** hasta reparar el gate.
 

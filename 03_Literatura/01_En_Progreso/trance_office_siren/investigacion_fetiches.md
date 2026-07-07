@@ -1,5 +1,5 @@
 # Investigación de Fetiches — trance_office_siren
-> Generada 06/07/2026 · Alimenta diseño + briefing del escritor-trance
+> Generada 06/07/2026 · Alimenta diseño + briefing de miss-doll
 
 ---
 

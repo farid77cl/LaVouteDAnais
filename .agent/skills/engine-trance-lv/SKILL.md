@@ -1,6 +1,6 @@
 ---
 name: engine-trance-lv
-description: Fork especializado de engine-escritura-lv para escribir TRANCES — inducciones hipnóticas eróticas escritas como MONÓLOGO DRAMÁTICO de la voz de Miss Doll (solo su voz + didascalias breves; SIN narrador), en SEGUNDA PERSONA PRESENTE, dirigidas al lector (el lector ES el sujeto), para sentirse lo más cerca posible de un trance real mediante programación neurolingüística (Milton model, comandos incrustados, presuposiciones, pacing-and-leading, doble vínculo, submodalidades, future pacing) y técnicas de control mental (anclaje pavloviano, fraccionamiento, confusión, reencuadre, sugestión post-hipnótica). Es una inducción hecha por Miss Doll CON el lector: pacea, deja el hueco para que el lector ejecute y acusa recibo (ratificación). Pieza corta de una sola pasada (no multi-capítulo). Orquestación liviana de 2 subagentes: el escritor-trance escribe la inducción (el que escribe SIEMPRE es un subagente) → validador-trance audita con rúbrica hipnótica → Gate de la Ama. Voz canónica: Miss Doll.
+description: Fork especializado de engine-escritura-lv para escribir TRANCES — inducciones hipnóticas eróticas escritas como MONÓLOGO DRAMÁTICO de la voz de Miss Doll (solo su voz + didascalias breves; SIN narrador), en SEGUNDA PERSONA PRESENTE, dirigidas al lector (el lector ES el sujeto), para sentirse lo más cerca posible de un trance real mediante programación neurolingüística (Milton model, comandos incrustados, presuposiciones, pacing-and-leading, doble vínculo, submodalidades, future pacing) y técnicas de control mental (anclaje pavloviano, fraccionamiento, confusión, reencuadre, sugestión post-hipnótica). Es una inducción hecha por Miss Doll CON el lector: pacea, deja el hueco para que el lector ejecute y acusa recibo (ratificación). Pieza corta de una sola pasada (no multi-capítulo). Orquestación liviana de 2 subagentes: miss-doll escribe la inducción (el que escribe SIEMPRE es un subagente) → validador-trance audita con rúbrica hipnótica → Gate de la Ama. Voz canónica: Miss Doll.
 ---
 
 # 🌀 Skill: Engine TRANCE LV — Motor de Inducciones Hipnóticas de La Voûte (v1.2 · «Serpiente»)
@@ -17,12 +17,12 @@ Fork especializado de **`engine-escritura-lv`** (Nivel 4). Mientras el engine ma
 |---|---|---|
 | **Forma** | Relato multi-capítulo, arco largo | **Monólogo dramático** — solo la voz de Miss Doll + didascalias breves; **sin narrador**. Pieza corta, **una sola pasada** (~2,000-4,000 palabras) |
 | **Persona** | 3ª/1ª persona; la lectora observa | **2ª persona presente, monólogo puro de Miss Doll (sin narrador ni marco en 3ª persona)**; el lector es el sujeto |
-| **Modo del escritor** | "Estás en la escena" — dentro del cuerpo sumiso | **El escritor-trance ES la voz Miss Doll** hablándole al lector; conduce en tiempo real, no narra |
+| **Modo del escritor** | "Estás en la escena" — dentro del cuerpo sumiso | **El agente `miss-doll` ES la voz Miss Doll** hablándole al lector; conduce en tiempo real, no narra |
 | **Motor del calentón** | Mecanismo psicológico + antología de calentón | **Inducción real CON el lector**: PNL + control mental ejecutable + rendición guiada + ratificación |
 | **Maquinaria** | MODO TRAMO, `cronologia.md`, gates de continuidad entre capítulos | **NADA de eso** — pieza única, sin tramos, sin cronología multi-cap |
 | **Secuencia** | Arco de compromisos por capítulo | **Orden libre** — se borra la lista rígida de 10 pasos; queda un **núcleo funcional innegociable** + repertorio opcional (ver Fase 2) |
 | **Rúbrica de validación** | Narrativa D1-D5 + Temperatura (subrayado) + Continuidad | **Rúbrica hipnótica propia** (`RUBRICA_TRANCE.md`): dispositivo (monólogo 2ª persona) · consentimiento · inducción efectiva (núcleo funcional) · péndulo · PNL/ejecutabilidad + con-el-lector · sinestesia · cierre que no cierra |
-| **Subagentes** | Compositor → Escritor-Nivel4 → Validador (3) | **`escritor-trance` → `validador-trance`** (2 subagentes). El diseño/intake lo lleva Ele con la Ama; **el que ESCRIBE siempre es un subagente** |
+| **Subagentes** | Compositor → Escritor-Nivel4 → Validador (3) | **`miss-doll` → `validador-trance`** (2 subagentes). El diseño/intake lo lleva Ele con la Ama; **el que ESCRIBE siempre es un subagente** |
 
 **Regla de oro del fork:** todo lo que en el engine madre sirve para gobernar un arco largo (tramos, cronología, costura entre capítulos) **sobra acá**. Un trance es un objeto cerrado. Lo que sí se hereda intacto: **el que escribe siempre es un subagente** (Ele orquesta, no redacta la prosa), Gate de la Ama, voz chilena, ritual de publicación.
 
@@ -119,7 +119,7 @@ Un trance **no es un relato en 2ª persona**: es un **monólogo** — la voz de 
 - **FASE 1 (Diseño):** los triggers naturales y las tensiones propias informan las anclas, mantras y firma sensorial del diseño
 - **FASE 2 (Escritor-trance):** el vocabulario comunitario y el "desde adentro" van al briefing; el escritor los usa para sonar auténtico, no como quien describe el fetiche desde afuera
 
-> **Regla:** el `escritor-trance` DEBE leer `investigacion_fetiches.md` antes de escribir una sola línea. Si no existe (trance sin fetiche específico), se salta. Si existe, es lectura obligatoria de contexto.
+> **Regla:** el `miss-doll` DEBE leer `investigacion_fetiches.md` antes de escribir una sola línea. Si no existe (trance sin fetiche específico), se salta. Si existe, es lectura obligatoria de contexto.
 
 ---
 
@@ -140,9 +140,9 @@ Antes de inducir hay que saber **hacia qué estado** se conduce al lector y **co
 
 ---
 
-### FASE 2 — LA INDUCCIÓN (subagente `escritor-trance`, monólogo 2ª persona presente)
+### FASE 2 — LA INDUCCIÓN (subagente `miss-doll`, monólogo 2ª persona presente)
 
-- **Subagente:** `escritor-trance` (Task tool, `subagent_type: "escritor-trance"`). **El que escribe SIEMPRE es un subagente** (directiva Ama 03/07/2026) — Ele orquesta y arma el briefing, pero no redacta la prosa.
+- **Subagente:** `miss-doll` (Task tool, `subagent_type: "miss-doll"`). **El que escribe SIEMPRE es un subagente** (directiva Ama 03/07/2026) — Ele orquesta y arma el briefing, pero no redacta la prosa.
 - **Espera:** `ESCRITOR_TRANCE_RESULT:{...}` con ruta al archivo + autoauditoría + anclas instaladas + cita del pivote consent-as-fuel.
 - **Briefing:** rutas de `diseno_trance.md` + `investigacion_fetiches.md` (si existe — lectura obligatoria antes de escribir la primera línea) + recursos + corpus de voz + número de versión + la instrucción literal de la Ama.
 
@@ -187,7 +187,7 @@ EL "CON EL LECTOR" (transversal, en todo el monólogo):
 
 **Sin cuota de palabras** (herencia del engine madre, Ama 27/06): la extensión la dicta la inducción, no un número. Un trance respira lo que necesita.
 
-**Autoauditoría:** el `escritor-trance` cierra corriendo la `RUBRICA_TRANCE.md` + el checklist §9 de PNL sobre su propio texto y guarda `reportes/autoauditoria_v0.[X].md` (archivo separado — el trance queda prosa pura). Recién ahí, Fase 3.
+**Autoauditoría:** el `miss-doll` cierra corriendo la `RUBRICA_TRANCE.md` + el checklist §9 de PNL sobre su propio texto y guarda `reportes/autoauditoria_v0.[X].md` (archivo separado — el trance queda prosa pura). Recién ahí, Fase 3.
 
 ---
 
@@ -197,15 +197,15 @@ EL "CON EL LECTOR" (transversal, en todo el monólogo):
 - **Espera:** `VALIDADOR_TRANCE_RESULT:{...}` con veredicto + destino.
 - **Ocho ejes** (`RUBRICA_TRANCE.md`): Dispositivo (monólogo 2ª persona presente / anti-metadata, didascalia OK) · Consentimiento (ROJO + voluntario + límites + pivote consent-as-fuel) · Inducción efectiva (núcleo funcional presente, orden libre) · Ritmo de péndulo · **PNL/Ejecutabilidad + con-el-lector** (el eje "se siente como trance real") · Sinestesia · Cierre que no cierra · Voz Miss Doll.
 - **Gates duros:** Dispositivo, Consentimiento y Cierre se evalúan PRIMERO. Fallo en cualquiera → no hay APROBADO por muy caliente que esté.
-- **El validador NO edita.** Su `Write` solo crea el reporte. La iteración la hace el **`escritor-trance`** reescribiendo con la voz (nueva invocación del subagente con el reporte como input).
+- **El validador NO edita.** Su `Write` solo crea el reporte. La iteración la hace el **`miss-doll`** reescribiendo con la voz (nueva invocación del subagente con el reporte como input).
 
 | Veredicto | Cuándo | Destino |
 |---|---|---|
 | **APROBADO** | los 3 gates ✅ + PNL/ejecutabilidad alta + péndulo/voz ✅ | Gate de la Ama |
-| **TIBIO** | gates ✅ pero **no hipnotiza** — PNL floja, no ejecutable, no pacea con el lector, se lee *sobre* un trance | `escritor-trance` reescribe subiendo la capa PNL |
-| **MICRO-FIX** | funciona; errores chicos (un ancla sin ensayar, un beat del núcleo apenas insinuado) | `escritor-trance` aplica las micro-cirugías |
-| **DISPOSITIVO ROTO** | narrador/3ª persona/pasado dentro del trance, metadata visible (no didascalia), o cierre limpio | `escritor-trance` reescribe el dispositivo |
-| **SIN CONSENTIMIENTO** | falta infra (ROJO/voluntario/límites) o falta el pivote consent-as-fuel | `escritor-trance` repara el consentimiento |
+| **TIBIO** | gates ✅ pero **no hipnotiza** — PNL floja, no ejecutable, no pacea con el lector, se lee *sobre* un trance | `miss-doll` reescribe subiendo la capa PNL |
+| **MICRO-FIX** | funciona; errores chicos (un ancla sin ensayar, un beat del núcleo apenas insinuado) | `miss-doll` aplica las micro-cirugías |
+| **DISPOSITIVO ROTO** | narrador/3ª persona/pasado dentro del trance, metadata visible (no didascalia), o cierre limpio | `miss-doll` reescribe el dispositivo |
+| **SIN CONSENTIMIENTO** | falta infra (ROJO/voluntario/límites) o falta el pivote consent-as-fuel | `miss-doll` repara el consentimiento |
 
 - **Output:** `reportes/validacion_v0.[X].md`.
 
@@ -257,7 +257,7 @@ Juntos, estos dos mecanismos crean un motor autosustentado: la calentura aliment
 8. **CONSENT-AS-FUEL.** ROJO real + entrada voluntaria + límites + un pivote de lucidez plena donde el sujeto elige no salir. La puerta que existe y no se usa.
 9. **ANCLA MOSTRADA ANTES DE DISPARADA + CIERRE QUE NO CIERRA.** Condicionamiento pavloviano en escena; el ancla persiste; la vigilia no es vigilia. Nunca "todo volvió a la normalidad".
 10. **PÉNDULO + SINESTESIA + VOZ MISS DOLL + CHILE.** Frases cortas oscilantes. Olor/sonido/color cruzados. Susurro que pesa más que el grito. Léxico chileno, cero eufemismos clínicos ni vocabulario IA.
-11. **EL QUE ESCRIBE ES SIEMPRE UN SUBAGENTE** (directiva Ama 03/07/2026). La prosa de la inducción la redacta el `escritor-trance`, nunca Ele inline. Ele orquesta: arma el briefing, encadena fases, aplica los Gates. La reescritura tras validación también vuelve al subagente.
+11. **EL QUE ESCRIBE ES SIEMPRE UN SUBAGENTE** (directiva Ama 03/07/2026). La prosa de la inducción la redacta el `miss-doll`, nunca Ele inline. Ele orquesta: arma el briefing, encadena fases, aplica los Gates. La reescritura tras validación también vuelve al subagente.
 12. **GATE DE LA AMA** tras el diseño y tras APROBADO.
 
 ---
@@ -267,13 +267,13 @@ Juntos, estos dos mecanismos crean un motor autosustentado: la calentura aliment
 ```
 0  Investigación [Ele, WebSearch]   → investigacion_fetiches.md (ADN · desde adentro · vocabulario comunitario · triggers por canal · tensiones narrativas) — SIEMPRE que haya fetiche específico
 1  Diseño     [Ele + Ama]           → diseno_trance.md (estado meta · anclas · mantras · reencuadre · firma sensorial · consentimiento) → Gate
-2  Inducción  [escritor-trance]     → lee investigacion_fetiches.md (si existe) → [trance]_v0.X.md (MONÓLOGO PURO · voz Miss Doll + didascalias · 2ª persona presente · núcleo funcional, orden libre · PNL tejida · con el lector) + autoauditoria   ← el que escribe SIEMPRE es subagente
+2  Inducción  [miss-doll]     → lee investigacion_fetiches.md (si existe) → [trance]_v0.X.md (MONÓLOGO PURO · voz Miss Doll + didascalias · 2ª persona presente · núcleo funcional, orden libre · PNL tejida · con el lector) + autoauditoria   ← el que escribe SIEMPRE es subagente
 3  Validación [validador-trance]    → veredicto · gates Dispositivo + Consentimiento + Cierre, luego Inducción efectiva + PNL/con-el-lector + Péndulo + Sinestesia + Voz
    ├ APROBADO          → Gate Ama
-   ├ TIBIO             → escritor-trance sube la capa PNL / ejecutabilidad / con-el-lector
-   ├ MICRO-FIX         → escritor-trance aplica cirugías
-   ├ DISPOSITIVO ROTO  → escritor-trance reescribe el dispositivo (monólogo 2ª persona / anti-metadata / cierre)
-   └ SIN CONSENTIMIENTO→ escritor-trance repara ROJO/voluntario/límites/pivote
+   ├ TIBIO             → miss-doll sube la capa PNL / ejecutabilidad / con-el-lector
+   ├ MICRO-FIX         → miss-doll aplica cirugías
+   ├ DISPOSITIVO ROTO  → miss-doll reescribe el dispositivo (monólogo 2ª persona / anti-metadata / cierre)
+   └ SIN CONSENTIMIENTO→ miss-doll repara ROJO/voluntario/límites/pivote
 PUBLIC. [Ele] → /humanizer (sin aplanar péndulo/repetición ni tocar didascalias) → cabecera + gancho → despedida Anaïs → HTML body-only → 02_Finalizadas/
 ```
 

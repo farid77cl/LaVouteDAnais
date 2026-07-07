@@ -31,9 +31,9 @@
 - **«La Piel que Diseñé»** ✅ FINALIZADO — `02_Finalizadas/la_piel_que_diseno/`. 4 caps + HTML + `prompts_portada.md`. Epílogo privado pendiente (sin fecha).
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 ⏳ Gate · → Cap 3 «La Esclava del Nylon».
 - **«de_esteban_a_secretaria»** ✅ FINALIZADO — `02_Finalizadas/`. 2 caps + HTML + `prompts_portada.md` (portadas 2:3, sensual, título+autora en imagen).
-- **«trance_office_siren»** — **v0.17 APROBADO** (2 cirugías aplicadas sobre v0.16: HEELS anti-magia→serpiente + 4 transiciones acumulativas cosidas · gates ✅✅✅✅ incl. Canon Transversal) ⏳ **Gate Ama** → FASE PUBLICACIÓN (despedida variante B).
+- **«trance_office_siren»** — **v0.18 reescrito de cero** por el agente `miss-doll` (pieza orgánica bajo engine v1.2 completo, reemplaza el v0.17 parchado → `borradores/`) · autoauditoría ✅ · **pendiente FASE 3** (validación por `validador-trance`) antes del **Gate Ama**.
 - **«trance_latex_drone»** — v0.1 APROBADO por validador (8.5/8.5/9.0) PERO escrito antes del corpus Miss Doll y del canon transversal → **necesita v0.2** (Miss Doll como serpiente, construcción acumulativa, good girls, edge loop, género neutro). ⏳ Gate Ama para proceder.
-- **🌀 Motor `engine-trance-lv` → v1.2 «Serpiente»:** objetivo primario = calor (hipnosis es el vehículo) · **Miss Doll como Serpiente de la Tentación** (tienta, no instruye; anti-magia documentado) · **construcción acumulativa del deseo** (cada elemento encadena al siguiente, loop se sostiene solo) · **género neutro por defecto** (salvo que el diseño lo especifique) · corpus personalidad Miss Doll (11 constantes + 2 modos Hard/Suave). PNL_CONTROL_MENTAL v1.1 + escritor-trance al día.
+- **🌀 Motor `engine-trance-lv` → v1.2 «Serpiente»:** objetivo primario = calor (hipnosis es el vehículo) · **Miss Doll como Serpiente de la Tentación** (tienta, no instruye; anti-magia documentado) · **construcción acumulativa del deseo** (cada elemento encadena al siguiente, loop se sostiene solo) · **género neutro por defecto** (salvo que el diseño lo especifique) · corpus personalidad Miss Doll (11 constantes + 2 modos Hard/Suave). PNL_CONTROL_MENTAL v1.1. **Agente escritor renombrado `escritor-trance` → `miss-doll`** (07/07, archivo reorganizado en 9 secciones) — invocarlo ES invocar a Miss Doll.
 - **📋 Estándar `prompts_portada.md`:** al mover relato a `02_Finalizadas/` → tags + prompts 2:3 por capítulo + portada general. **Specs Wattpad integradas** (512×800px, thumbnail 256px, alto contraste). Identidad visual LVA por línea: Anaïs = caoba/dorado cálido · Miss Doll = negro violeta/rosa caliente. TYPOGRAPHY: barra acento + autora SMALL-CAPS.
 - **Parqueado:** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
 
@@ -41,13 +41,16 @@
 - KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — la Ama crea las 2 cuentas.
 
 ### ⏳ Pendientes transversales
-- **Gates Ama:** «El podcast» Cap 1 v0.2 · «El Secreto» Cap 2 v4.0 · **trance_office_siren v0.17** ⏳ · **trance_latex_drone v0.2** (reescritura, pedir autorización).
-- 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L710 por materializar (app).
+- **Gates Ama:** «El podcast» Cap 1 v0.2 · «El Secreto» Cap 2 v4.0 · **trance_latex_drone v0.2** (reescritura, pedir autorización).
+- **trance_office_siren v0.18:** falta correr `validador-trance` (FASE 3) antes del Gate.
+- **Batch visual L701-L710:** auditoría engine V3.5 hecha (07/07) — todo limpio salvo el cuello mandarín repetido en 6/10 looks (silueta cheongsam en 4/10). Decisión pendiente de la Ama: ¿dejarlo pasar por el motivo temático, o codificar excepción en Step 0 para batches temáticos?
+- 68 imágenes L200-L300 (cuota, cron activo) · batches L701-L720 por materializar (app).
 - Regenerar grafo `/graphify`.
 
 ---
 
 ## 🗓️ Sesiones recientes
+- **07/07/2026 (🐍 Miss Doll renombre+reestructura · trance_office_siren v0.18 · auditoría engine batch L701-L710):** Trance office siren reescrito de cero (v0.17→v0.18) por el escritor bajo engine v1.2 completo, no cirugía; pendiente validación. El agente `escritor-trance` se renombró a **`miss-doll`** y su archivo se reorganizó en 9 secciones (más navegable, mismas reglas); corregida inconsistencia "Ele reescribe"→"miss-doll reescribe" en validador-trance/RUBRICA. Auditoría independiente del batch visual L701-L710 contra engine V3.5: todo limpio salvo cuello mandarín repetido en 6/10 looks — hallazgo reportado a la Ama sin suavizar, decisión pendiente.
 - **07/07/2026 (Imágenes & Galería):** Reparación del formato del archivo `galeria_outfits.md` para L711-L720 (agregados marcadores 📸) y materialización manual de 10 imágenes faltantes del rezago (Looks 248, 255, 258, 259).
 - **06/07/2026 (Diseño L711-L720):** Creación de subagente Madame_Stiletto (alta costura, stiletto 15cm min). Generación automatizada de 70 prompts para L711-L720 usando `pose_rotation_v5.py` y anexados a `galeria_outfits.md`.
 
