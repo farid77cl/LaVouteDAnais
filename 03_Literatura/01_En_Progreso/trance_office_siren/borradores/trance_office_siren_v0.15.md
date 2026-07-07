@@ -30,7 +30,7 @@ Bajamos una escalera. Diez peldaños, de rosa pálido hasta fucsia eléctrico, y
 
 *(la luz baja un punto. la caoba se cierra un poco más. empieza la escalera.)*
 
-Diez. Rosa pálido. Mira al suelo. Hay una caja negra abierta y, adentro, charol negro: stilettos de aguja, dieciséis centímetros. Sácate los zapatos cómodos ahora, de verdad, descálzate donde estás.
+Diez. Rosa pálido. La mirada se ablanda. Hay una caja negra abierta y, adentro, charol negro: stilettos de aguja, dieciséis centímetros. Sácate los zapatos cómodos ahora, de verdad, descálzate donde estás.
 
 *(hazlo ahora. sácate los zapatos ahí donde estás. no sigas leyendo hasta tener los pies desnudos.)*
 
@@ -70,7 +70,7 @@ Ahora, al exhalar, susúrralo tres veces, con la boca real, bajito, que quepa en
 
 Tu propia voz acaba de decirlo. Yo no te obligué. Lo dijiste tú, y tu voz refuerza la Mía.
 
-Y ahora, rápido, sin pensar: Pose B, no, Pose A, cuenta Mis pasos mientras respiras en cuatro y sueltas en seis y no pienses en el número tres, ¿o era GLASSES?, tócate el puente, no, todavía no, cuenta el clic del tacón, uno, otro, ¿cuántos van ya?... Para. Ya no sabes qué orden seguir, ¿cierto, cariño? Perfecto. Entonces sigue solo la última, la más fácil, la única: quieta. Así. Quieta y Mía. Mira qué descanso.
+Y ahora, rápido, sin pensar: Pose B, no, Pose A, cuenta Mis pasos mientras respiras en cuatro y sueltas en seis y no pienses en el número tres… ¿o era GLASSES?, tócate el puente, no, todavía no, cuenta el clic del tacón, uno, otro, ¿cuántos van ya?... Para. Ya no sabes qué orden seguir, ¿cierto, cariño? Perfecto. Entonces sigue solo la última, la más fácil, la única: quieta. Así. Quieta y Mía. Mira qué descanso.
 
 Ahora escúchate por dentro. Inhala y di, en tu cabeza: *tengo el control.* Exhala: *soy libre, soy fuerte.* ...¿Lo notas? Suena a papel viejo. Seco. Sin peso. Se te deshace en la boca. Esas son las palabras de la señora de los zapatos planos, y ya no te caben en este cuerpo de vinilo.
 

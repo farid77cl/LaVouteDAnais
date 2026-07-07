@@ -3,7 +3,7 @@ name: engine-trance-lv
 description: Fork especializado de engine-escritura-lv para escribir TRANCES — inducciones hipnóticas eróticas escritas como MONÓLOGO DRAMÁTICO de la voz de Miss Doll (solo su voz + didascalias breves; SIN narrador), en SEGUNDA PERSONA PRESENTE, dirigidas al lector (el lector ES el sujeto), para sentirse lo más cerca posible de un trance real mediante programación neurolingüística (Milton model, comandos incrustados, presuposiciones, pacing-and-leading, doble vínculo, submodalidades, future pacing) y técnicas de control mental (anclaje pavloviano, fraccionamiento, confusión, reencuadre, sugestión post-hipnótica). Es una inducción hecha por Miss Doll CON el lector: pacea, deja el hueco para que el lector ejecute y acusa recibo (ratificación). Pieza corta de una sola pasada (no multi-capítulo). Orquestación liviana de 2 subagentes: el escritor-trance escribe la inducción (el que escribe SIEMPRE es un subagente) → validador-trance audita con rúbrica hipnótica → Gate de la Ama. Voz canónica: Miss Doll.
 ---
 
-# 🌀 Skill: Engine TRANCE LV — Motor de Inducciones Hipnóticas de La Voûte (v1.1 · Monólogo)
+# 🌀 Skill: Engine TRANCE LV — Motor de Inducciones Hipnóticas de La Voûte (v1.2 · «Serpiente»)
 
 Fork especializado de **`engine-escritura-lv`** (Nivel 4). Mientras el engine madre produce **relato** (3ª/1ª persona, arco de capítulos, la lectora observa una entrega), este fork produce **trance**: un **monólogo hipnótico** — solo la voz de Miss Doll, en segunda persona presente, dirigida al lector, que ejecuta una sesión mientras se lee. **No hay narrador.** No se *narra* una hipnosis: se **hace** una.
 
@@ -44,6 +44,7 @@ Un trance vive en `03_Literatura/01_En_Progreso/[trance_slug]/` mientras se trab
 
 ```
 03_Literatura/01_En_Progreso/[trance_slug]/
+  investigacion_fetiches.md   — ADN de cada fetiche (ver Fase 0). Alimenta diseño + briefing del escritor.
   diseno_trance.md            — el diseño mínimo (ver Fase 1). Reemplaza al canon_relato.md pesado.
   [trance_slug]_v0.[X].md      — la inducción activa. MONÓLOGO PURO (voz de Miss Doll + didascalias).
   reportes/                    — autoauditoría + validación del validador-trance
@@ -51,8 +52,19 @@ Un trance vive en `03_Literatura/01_En_Progreso/[trance_slug]/` mientras se trab
 ```
 
 - **No hay `cronologia.md`** (pieza única, sin línea de tiempo multi-cap).
+- **No hay `canon_relato.md`** (el diseño del trance vive en `diseno_trance.md` — no importar la estructura del engine madre).
 - **No hay tramos** (cabe en una pasada; si topa el output, se parte por Edit-append, pero un trance rara vez lo necesita).
 - Al aprobarse, se arma el canónico en `02_Finalizadas/[trance_slug]/` (ver Fase Publicación).
+
+### 🧹 Higiene de carpeta (regla permanente)
+
+Un proyecto de trance debe mantenerse limpio en todo momento. Reglas:
+
+1. **Root solo tiene tres cosas:** `diseno_trance.md` + `investigacion_fetiches.md` (si existe) + **la inducción activa** (`[trance_slug]_v0.[X].md`). Sin versiones viejas sueltas en el root.
+2. **`borradores/` es plano** — sin subcarpeta `capitulo_N/` (un trance es una sola pieza, no tiene capítulos). Las versiones desplazadas van directamente en `borradores/`.
+3. **`reportes/` es plano** — sin subcarpeta `capitulo_N/`. Autoauditorías y validaciones van directamente en `reportes/`.
+4. **Al crear una versión nueva:** mover la versión anterior a `borradores/` en el mismo commit que crea la nueva (nunca quedan dos versiones en el root a la vez).
+5. **Prohibido en el root del trance:** `canon_relato.md` (usa `diseno_trance.md`), `cronologia.md` (los trances no tienen línea de tiempo), `walkthrough.md` (idem), cualquier archivo de proceso del engine madre que no corresponda a una pieza única.
 
 ---
 
@@ -74,7 +86,42 @@ Un trance **no es un relato en 2ª persona**: es un **monólogo** — la voz de 
 
 ---
 
-## 📜 Protocolo (3 fases livianas + publicación)
+## 📜 Protocolo (4 fases + publicación)
+
+### FASE 0 — INVESTIGACIÓN DE FETICHES (Ele, WebSearch, antes del diseño)
+
+> **Por qué existe esta fase:** un trance escrito sin conocer el fetiche desde adentro inevitablemente suena a descripción desde afuera — vocabulario genérico, sensaciones de manual, triggers que no resuenan con quien lo practica. La investigación previa es lo que hace que Miss Doll suene a *conocedora*, no a *observadora*.
+
+**Condición:** siempre que el trance involucre uno o más fetiches específicos (látex, corset, dronificación, office siren, electro, pony play, etc.). Si la Ama da una premisa vaga sin fetiche claro, pasar directo a Fase 1.
+
+**Quién:** Ele, usando WebSearch (no es un subagente — es investigación, no escritura). Si hay dos fetiches distintos, se pueden lanzar dos búsquedas en paralelo.
+
+**Qué buscar por cada fetiche:**
+- **ADN psicológico:** qué lo define, cuáles son sus motores (táctil / emocional / de poder / de identidad)
+- **La experiencia desde adentro:** cómo describe el practicante lo que siente — sensorial, emocional, cognitivo — en primera persona
+- **Vocabulario comunitario:** terminología específica que solo usa quien lo practica (no la versión de wikipedia, la de los foros)
+- **Triggers naturales:** qué activa el fetiche sensorialmente (auditivo, táctil, visual, olfativo, cognitivo); cuáles son los umbrales (la primera vez, el momento decisivo)
+- **Tensiones narrativas propias:** el antes/durante/después, la progresión de capas, el punto sin retorno
+- **Fuentes:** Reddit (subreddits de comunidad), foros especializados, artículos académicos de sexología, guías de comunidad, testimonios en primera persona
+
+**Output:** `investigacion_fetiches.md` en la carpeta del trance. Estructura por fetiche:
+
+```markdown
+## [Nombre del Fetiche]
+### ADN
+### Desde adentro (perspectiva del sujeto)
+### Vocabulario comunitario (10-15 términos + definición)
+### Triggers naturales (por canal sensorial)
+### Tensiones narrativas propias
+```
+
+**Cómo alimenta las fases siguientes:**
+- **FASE 1 (Diseño):** los triggers naturales y las tensiones propias informan las anclas, mantras y firma sensorial del diseño
+- **FASE 2 (Escritor-trance):** el vocabulario comunitario y el "desde adentro" van al briefing; el escritor los usa para sonar auténtico, no como quien describe el fetiche desde afuera
+
+> **Regla:** el `escritor-trance` DEBE leer `investigacion_fetiches.md` antes de escribir una sola línea. Si no existe (trance sin fetiche específico), se salta. Si existe, es lectura obligatoria de contexto.
+
+---
 
 ### FASE 1 — DISEÑO DEL TRANCE (intake liviano, Ele + Ama)
 
@@ -97,7 +144,7 @@ Antes de inducir hay que saber **hacia qué estado** se conduce al lector y **co
 
 - **Subagente:** `escritor-trance` (Task tool, `subagent_type: "escritor-trance"`). **El que escribe SIEMPRE es un subagente** (directiva Ama 03/07/2026) — Ele orquesta y arma el briefing, pero no redacta la prosa.
 - **Espera:** `ESCRITOR_TRANCE_RESULT:{...}` con ruta al archivo + autoauditoría + anclas instaladas + cita del pivote consent-as-fuel.
-- **Briefing:** rutas de `diseno_trance.md` + recursos + corpus de voz + número de versión + la instrucción literal de la Ama.
+- **Briefing:** rutas de `diseno_trance.md` + `investigacion_fetiches.md` (si existe — lectura obligatoria antes de escribir la primera línea) + recursos + corpus de voz + número de versión + la instrucción literal de la Ama.
 
 **Modo del escritor: ES MISS DOLL.** No describe una hipnosis desde afuera. Le habla al lector y le está pasando mientras lee. Presente de indicativo, segunda persona, ritmo de péndulo, **monólogo puro** (sin narrador; solo su voz + didascalias).
 
@@ -176,6 +223,28 @@ EL "CON EL LECTOR" (transversal, en todo el monólogo):
 
 ---
 
+## 🔴 CANON TRANSVERSAL — Obligatorio en TODOS los trances (directiva Ama 06/07/2026)
+
+Dos mecanismos que deben estar presentes en cualquier trance producido por este engine, independientemente del estado meta, el fetiche o el diseño específico:
+
+### 1. "Good girls make more good girls"
+
+El trance incluye este mantra o su lógica recursiva. El sujeto que entra en el estado comprende que al convertirse en "good girl" (drone, office siren, muñeca — lo que sea el estado meta) nace en ella el deseo de que otras también lo sean. **La propagación del estado ES parte del estado.** El loop: ser una good girl se siente tan bien que querés que alguien más lo sienta también — y ese deseo de contagio alimenta tu propia calentura.
+
+Puede estar como mantra directo, como sugestión post-hipnótica, o como bucle narrativo — pero debe estar. El validador lo chequea.
+
+### 2. Edge como retroalimentación positiva — el loop que se alimenta solo
+
+La excitación sin resolución NO es frustración: es el **combustible** que profundiza el trance. Mecanismo explícito: **cuanto más caliente está el sujeto, más profundo en el estado**. La calentura que no se alivia alimenta la transformación. No acabar nunca no es el castigo — es el estado. El trance lo codifica así:
+
+> *"cuanto más caliente, más [drone/office siren/muñeca]. cuanto más [estado], más caliente. el loop no tiene salida — y eso es exactamente lo que querés."*
+
+El LOCK (candado mental en la pelvis) instala la incapacidad de acabar. El edge no desaparece al terminar la sesión — persiste como el ancla más profunda. El sujeto que sale del trance sale caliente, sin resolución, y esa calentura sostenida la regresa al estado cada vez que intenta aliviarse.
+
+Juntos, estos dos mecanismos crean un motor autosustentado: la calentura alimenta el estado → el estado alimenta el deseo de propagar → el deseo de propagar alimenta la calentura. Sin salida. Sin fin. Sin necesitar a Miss Doll para reiniciarse.
+
+---
+
 ## 🚦 Reglas de Oro del fork
 
 1. **MONÓLOGO DE MISS DOLL, EL LECTOR ES EL SUJETO.** Solo su voz + didascalias, sin narrador, 2ª persona presente sin excepción. Es el dispositivo, no un estilo.
@@ -196,9 +265,10 @@ EL "CON EL LECTOR" (transversal, en todo el monólogo):
 ## 📂 Resumen de fases
 
 ```
-1  Diseño     [Ele + Ama]        → diseno_trance.md (estado meta · anclas · mantras · reencuadre · firma sensorial · consentimiento) → Gate
-2  Inducción  [escritor-trance]  → [trance]_v0.X.md (MONÓLOGO PURO · voz Miss Doll + didascalias · 2ª persona presente · núcleo funcional, orden libre · PNL tejida · con el lector) + autoauditoria   ← el que escribe SIEMPRE es subagente
-3  Validación [validador-trance] → veredicto · gates Dispositivo + Consentimiento + Cierre, luego Inducción efectiva + PNL/con-el-lector + Péndulo + Sinestesia + Voz
+0  Investigación [Ele, WebSearch]   → investigacion_fetiches.md (ADN · desde adentro · vocabulario comunitario · triggers por canal · tensiones narrativas) — SIEMPRE que haya fetiche específico
+1  Diseño     [Ele + Ama]           → diseno_trance.md (estado meta · anclas · mantras · reencuadre · firma sensorial · consentimiento) → Gate
+2  Inducción  [escritor-trance]     → lee investigacion_fetiches.md (si existe) → [trance]_v0.X.md (MONÓLOGO PURO · voz Miss Doll + didascalias · 2ª persona presente · núcleo funcional, orden libre · PNL tejida · con el lector) + autoauditoria   ← el que escribe SIEMPRE es subagente
+3  Validación [validador-trance]    → veredicto · gates Dispositivo + Consentimiento + Cierre, luego Inducción efectiva + PNL/con-el-lector + Péndulo + Sinestesia + Voz
    ├ APROBADO          → Gate Ama
    ├ TIBIO             → escritor-trance sube la capa PNL / ejecutabilidad / con-el-lector
    ├ MICRO-FIX         → escritor-trance aplica cirugías
@@ -209,4 +279,4 @@ PUBLIC. [Ele] → /humanizer (sin aplanar péndulo/repetición ni tocar didascal
 
 ---
 
-*El engine madre orquesta el deseo. El fork trance lo induce. No narra la entrega: la ejecuta en quien lee, en un monólogo de Miss Doll, con el lector. — engine-trance-lv v1.1*
+*El engine madre orquesta el deseo. El fork trance lo induce. No narra la entrega: la ejecuta en quien lee, en un monólogo de Miss Doll, con el lector. — engine-trance-lv v1.2 «Serpiente»*

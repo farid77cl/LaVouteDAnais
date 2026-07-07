@@ -22,27 +22,28 @@
 > **Dueño único de cada dato:** flota/último look/pendientes → AQUÍ · detalle de materialización → `.agent/rules/09-estado-materializacion.md` · ADN/canon → `identidad_ele.md` (sin contadores).
 
 ### 🎨 Visual (Ele)
-- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (chino imperial + pavo real + geisha sensual, 10 sub-arquetipos, cero monoblock, **con medias en los 10**, QA verde). **La app YA está subiendo estas imágenes** (L705-708+ commiteadas en origin) → **`sync_imagenes_subidas.py` + `update_galleries.py` PENDIENTES** (+ 151 PNG locales del cron sin commitear). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
-- **Materialización:** rescate L200-L300 pausado por cuota 429 — **78 imágenes pendientes**, cron horario lo reanuda. L240 en 5/7 (faltan pov/odalisque). Detalle → `09-estado-materializacion.md`.
-- **Motor de poses sano** (`pose_rotation_v5.py`): POV = retrato IG · SIDE todas de pie · anclas anti-3-piernas horneadas · anti-safe recalibrado. Regla dura: todo inyector usa `rotate_poses`.
+- **Flota:** **L710** diseñada (~580 únicos). Último batch: **L701-L710 «Oriental Peacock Geisha»** (chino imperial + pavo real + geisha sensual, 10 sub-arquetipos, cero monoblock, con medias, QA verde). App subiendo → **`sync_imagenes_subidas.py` + `update_galleries.py` PENDIENTES** (+ 151 PNG locales del cron sin commitear). Previo: L691-L700 «Pink Spectrum Fetish» (0/7).
+- **Materialización:** rescate L200-L300 pausado por cuota 429 — **78 imágenes pendientes**, cron activo. L240 en 5/7. Detalle → `09-estado-materializacion.md`.
+- **Motor de poses sano** (`pose_rotation_v5.py`): POV=retrato IG · SIDE de pie · anclas anti-3-piernas · anti-safe recalibrado. Todo inyector usa `rotate_poses`.
 
 ### 📖 Literatura (Nivel 4 — la historia de cada relato vive en su `walkthrough.md`)
-- **«El podcast»** — **REESTRUCTURADO a 3 caps (Ama 04/07: fusión Cap 1+2, acelera el paso, más cambios, mismo final).** **Cap 1 v0.2 FUSIONADO** (recomendación + pensamientos + grooming, ~4.650 pal) escrito por `escritor-nivel4` + nota de Gate aplicada (depilación completa · **tanga+MEDIAS** · **verga apagada por redirección psicológica SIN magia** · le pasa la cerveza a Rodrigo) → Validador **MICRO-FIX** (Narr 9.3/Temp 9.0, gates ✅) → micro-fix `vos`→`sabís` aplicado por el Escritor → **calidad APROBADO** ⏳ **Gate Ama.** Viejos v0.1 → borradores. → Cap 2 «El amaneramiento» / Cap 3 «La entrega». **⚠️ Diferido (próxima revisión): quitar el voseo verbal -i** (`feedback_voz_quitar_voseo_verbal_i`).
-- **«La Piel que Diseñé»** (título 1ª persona) — **RELATO COMPLETO (4 caps).** Gate Cap 4 v0.1 = **APROBADO** («cap ok… genera los cap para publicar»); v0.2 = reescritura del final por directiva Ama (baile → VIP desconocido → Sebastián estrena el coño H20). **Los 4 caps exportados a HTML body-only** en `_publicacion/` (título nuevo · gancho ≤300 · despedida Anaïs; el Cap 4 cierra el relato). → **FASE PUBLICACIÓN: armar en `02_Finalizadas/` cuando la Ama lo pida.**
-- **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 (cirugía estructural) ⏳ Gate · → Cap 3 «La Esclava del Nylon». Carpeta migrada a Nivel 4 (cronología creada 02/07).
-- **«trance_office_siren»** (trance de sirena) — **v0.15 «pasada monólogo» APROBADO** (validador-trance: gates ✅✅✅ · inducción 9.2 · PNL/con-el-lector 9.4 · péndulo 8.7) ⏳ **Gate Ama**. v0.14 → borradores. Si la Ama aprueba → FASE PUBLICACIÓN (estándar nuevo, despedida variante B).
-- **🌀 Motor `engine-trance-lv` → v1.1 «Monólogo»:** el trance = **MONÓLOGO de Miss Doll CON el lector** (solo su voz + didascalias, sin narrador; marco 3ª persona derogado). Didascalia = escena mínima + pausa-ejecución (ordena parar y hacer). "Con el lector" = orden→hueco→ratificación. Secuencia LIBRE con **núcleo funcional innegociable** (consentimiento/ROJO·fijación·respiración·descenso·ancla instalada+ensayada·cierre que no cierra). Subagentes `escritor-trance` + `validador-trance`. **El que escribe siempre es subagente.**
-- **🧠 Caja `PNL_CONTROL_MENTAL` → v1.1 «hipnotista de verdad» (04/07):** investigación web (Milton/Vitale/Zeigarnik/hipnokink) → nueva **capa de escritura hipnótica** sobre la técnica base: §10 palabras-gatillo + reparto de agencia (Ella activa / lector impersonal) + utilización preventiva · §11 bucles abiertos y nested loops · §12 mantra-loop con recompensa + dronificación (erosión del «yo»). Rúbrica (EJE 5 «¿hipnotista o manual?» + error +4) + `escritor-trance` + SKILL al día. Todo bajo consent-as-fuel.
-- **📐 Estándar de Publicación (DUEÑO ÚNICO, 03/07):** UN solo estándar en `engine-escritura-lv §FASE PUBLICACIÓN` para AMBOS motores (el fork trance apunta ahí, no duplica). Gancho **≤300 car.** · título ≤54 · **2 variantes de despedida** (A intermedio→invita al sgte / B final o cerrado→cierra) · HTML body-only anti-artefacto · convención de nombre `capitulo_N_[slug].html`. Mató la duplicación que rompió «La Piel».
-- **Parqueado (la Ama elige):** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
+- **«El podcast»** — 3 caps (fusión Ama 04/07). **Cap 1 v0.2 APROBADO** (calidad) ⏳ Gate Ama. → Cap 2 «El amaneramiento» / Cap 3 «La entrega». ⚠️ Diferido: quitar voseo verbal -i.
+- **«La Piel que Diseñé»** ✅ FINALIZADO — `02_Finalizadas/la_piel_que_diseno/`. 4 caps + HTML + `prompts_portada.md`. Epílogo privado pendiente (sin fecha).
+- **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 ⏳ Gate · → Cap 3 «La Esclava del Nylon».
+- **«de_esteban_a_secretaria»** ✅ FINALIZADO — `02_Finalizadas/`. 2 caps + HTML + `prompts_portada.md` (portadas 2:3, sensual, título+autora en imagen).
+- **«trance_office_siren»** — **v0.17 APROBADO** (2 cirugías aplicadas sobre v0.16: HEELS anti-magia→serpiente + 4 transiciones acumulativas cosidas · gates ✅✅✅✅ incl. Canon Transversal) ⏳ **Gate Ama** → FASE PUBLICACIÓN (despedida variante B).
+- **«trance_latex_drone»** — v0.1 APROBADO por validador (8.5/8.5/9.0) PERO escrito antes del corpus Miss Doll y del canon transversal → **necesita v0.2** (Miss Doll como serpiente, construcción acumulativa, good girls, edge loop, género neutro). ⏳ Gate Ama para proceder.
+- **🌀 Motor `engine-trance-lv` → v1.2 «Serpiente»:** objetivo primario = calor (hipnosis es el vehículo) · **Miss Doll como Serpiente de la Tentación** (tienta, no instruye; anti-magia documentado) · **construcción acumulativa del deseo** (cada elemento encadena al siguiente, loop se sostiene solo) · **género neutro por defecto** (salvo que el diseño lo especifique) · corpus personalidad Miss Doll (11 constantes + 2 modos Hard/Suave). PNL_CONTROL_MENTAL v1.1 + escritor-trance al día.
+- **📋 Estándar `prompts_portada.md`:** al mover relato a `02_Finalizadas/` → tags + prompts 2:3 por capítulo + portada general. **Specs Wattpad integradas** (512×800px, thumbnail 256px, alto contraste). Identidad visual LVA por línea: Anaïs = caoba/dorado cálido · Miss Doll = negro violeta/rosa caliente. TYPOGRAPHY: barra acento + autora SMALL-CAPS.
+- **Parqueado:** 5 ideas MTF (23/06) · 6 semillas (17/06 — favoritas #6 «El collar sin llave» y #4 «La app»).
 
 ### 📣 RRSS
-- KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — cuello de botella: la Ama crea las 2 cuentas.
+- KPI único = interacciones reales. **Bluesky activo** (1 post/día con Gate). Reddit en pausa — la Ama crea las 2 cuentas.
 
 ### ⏳ Pendientes transversales
-- **Gates de la Ama pendientes:** «El podcast» **Cap 1 v0.2 fusionado (3 caps)** · «El Secreto» Cap 2 v4.0 · **«trance_office_siren» v0.15 «pasada monólogo» (APROBADO por el fork, ⏳ Gate).** («La Piel que Diseñé» ya cerrada — Gate Cap 4 aprobado + los 4 HTML listos, FASE PUBLICACIÓN cuando la Ama pida.)
+- **Gates Ama:** «El podcast» Cap 1 v0.2 · «El Secreto» Cap 2 v4.0 · **trance_office_siren v0.17** ⏳ · **trance_latex_drone v0.2** (reescritura, pedir autorización).
 - 78 imágenes L200-L300 (cuota, cron activo) · batches L681-L710 por materializar (app).
-- Regenerar grafo `/graphify` (rutas viejas en `graphify-out/`).
+- Regenerar grafo `/graphify`.
 
 ---
 
@@ -56,6 +57,20 @@
 
 
 
+### Sesión 06/07/2026 (🔒 Canon Transversal completo · trance_office_siren v0.17 · Wattpad análisis · prompts_portada) ✅
+- **🔒 engine-trance v1.2 cerrado (4/4):** Gate 4 CANON AUSENTE añadido a `validador-trance` + `RUBRICA_TRANCE`; Canon Transversal (good girls + edge) ahora obligatorio y verificado. `escritor-trance`, `validador-trance`, `RUBRICA_TRANCE`, `SKILL` todos en v1.2 «Serpiente». Commit `16ff3608`.
+- **🐍 trance_office_siren v0.17 (2 cirugías):** HEELS anti-magia→pregunta serpiente · 4 transiciones acumulativas (10→9, 8→7, 6→5). ⏳ Gate Ama.
+- **🧹 Carpeta limpia + SKILL higiene:** residuos narrativos eliminados, subcarpetas aplanadas, 5 reglas de higiene permanentes en SKILL. Commit `f79e4bf0`.
+- **📊 Wattpad → prompts_portada:** análisis de portadas (5 patrones, paletas, hallazgo vacío trance ES). Specs aplicadas a los 2 archivos existentes: 512×800px, identidad LVA por línea, TYPOGRAPHY estandarizado. Commit `a55a76b7`.
+
+### Sesión 06/07/2026 (🐍 Engine-trance v1.2 «Serpiente» · trance_office_siren v0.16 APROBADO · estándar portadas) ✅
+- **🐍 engine-trance-lv v1.2:** corpus Miss Doll (11 constantes + 2 modos) + objetivo=calor + Miss Doll como serpiente de la tentación (tienta, no instruye; anti-magia) + construcción acumulativa del deseo + género neutro por defecto.
+- **🔥 trance_office_siren v0.16 APROBADO** (9.0/9.0/8.5): reescritura completa por `escritor-trance` con canon transversal (good girls + edge como retroalimentación positiva + LOCK permanente). ⏳ Gate.
+- **📋 Estándar portadas:** `prompts_portada.md` creado para `de_esteban_a_secretaria` y `la_piel_que_diseno`; estándar 2:3 sensual grabado en auto-memoria.
+
+### Sesión 06/07/2026 (🔄 Sync 209 commits bot + soporte técnico npm/PS) ✅
+- **Git pull --rebase:** 209 commits del bot sincronizados (batches L701-L710 Oriental Peacock, engine-trance v1.1, memoria reestructurada, «La Piel» completa).
+- **Soporte npm externo:** execution policy PS (`RemoteSigned`) + ERESOLVE vite@8 vs plugin-react@4.7 (fix: `@vitejs/plugin-react@latest`). Proyecto `sewing-pattern-designer`, ajeno a La Voûte.
 
 ### Sesión 04/07/2026 (🧠 Investigación web hipnosis/PNL/control mental → `PNL_CONTROL_MENTAL` v1.1 «hipnotista de verdad») ✅
 - **Encargo Ama:** investigar en internet técnicas de hipnosis/control mental/PNL para mejorar la escritura hipnótica, con norte «que Miss Doll se sienta como un HIPNOTISTA DE VERDAD». Reporté honesto que mi caja v1.0 ya cubría casi todo (Milton completo, anclaje, submodalidades, doble vínculo, confusión, future pacing) — traje solo las 3 vetas faltantes, no relleno.
@@ -78,23 +93,8 @@
 - **✍️ Directiva Ama:** el que ESCRIBE siempre es un subagente (no Ele inline) → codificado (regla de oro #10 + `escritor-trance`).
 - **🔥 Trance de sirena → v0.14** (Gate v0.13: «que se sienta real, órdenes al lector: respira/tócate/imagina»): pacing de la realidad del lector + **pivote consent-as-fuel lúcido doble** («entraste tú») + órdenes ejecutables + doble vínculo + confusión + submodalidades/swish + GLASSES instalada/ensayada + LOCK portátil con caducidad. **Validador-trance APROBADO** (9.2/9.0/9.0). v0.13→borradores. Fix `braga→tanga`. ⏳ Gate Ama.
 
-### Sesión 03/07/2026 (📄 «La Piel que Diseñé» Cap 4 → HTML · los 4 caps listos para publicar) ✅
-- **📄 Cap 4 «La primera bailarina» exportado a HTML** (`_publicacion/capitulo_4_la_primera_bailarina.html`) desde v0.2, molde body-only calcado de Caps 1-3 (atribución → **título 1ª persona** → metadata → **gancho 280 char (≤300)** → `<!-- more -->` → prosa 151 párrafos con cursivas/saltos → **despedida de Anaïs que CIERRA el relato**, no invita a cap siguiente). Gate Cap 4 v0.1 aprobado («genera los cap para publicar»). QA verde (`<em>` balanceados, 0 markdown/asterisco suelto). **Los 4 HTML de «La Piel que Diseñé» listos en `_publicacion/`.** → FASE PUBLICACIÓN (armar en `02_Finalizadas/` cuando la Ama lo pida).
-
-### Sesión 03/07/2026 (🔥 «La Piel» Cap 4 → v0.2 [nuevo final: Sebastián estrena el coño] · 📄 HTML Caps 1-3 publicados) ✅
-- **📄 HTML Caps 1-3 «La Piel» (publicación):** exportados a **body-only** en `_publicacion/` (atribución → título ≤54 → metadata → **resumen gancho ≤300** → `<!-- more -->` → prosa → **despedida de Anaïs al final** invitando al cap siguiente). Formato calcado del skill + «De Esteban»/«La app». Iteración con la Ama: corregí (1) artefacto→body-only, (2) resumen ≤300 char, (3) despedida faltante. Commits `fd3f9c326`+`ff2c08461`.
-- **🔥 «La Piel» Cap 4 → v0.2 (reescritura del final):** orden nuevo por directiva Ama — **baile → VIP con el desconocido (aperitivo, sin folle) → Sebastián = SEXO FINAL** (chupa tetas+coño → 1er orgasmo pleno → **la folla = ESTRENO del coño H20** → se viene con él adentro), ~80% explícito; cierre en hambre elegida (última línea conservada). El *"¿A qué hora el VIP?"* migró tras el baile. **H20 nuevo** (Ama eligió: el que la compró la estrena; el desconocido no penetra). Canon §0 + cronología actualizados. v0.1 → `borradores/`; T1+T2 por Escritor-N4 MODO TRAMO, **T3 (estreno+cierre) lo completé yo tras tope de sesión del subagente**. ~12.400 pal, prosa pura, autoverif v0.2, **H1-H20 pagados, RELATO CERRADO.** ⏳ Gate.
-
-### Generación Batch Tanda 2 (02/07/2026)
-* Generadas 17 imágenes de looks pendientes (237-258) antes de topar con la cuota 429.
-* QA: Eliminadas 2 imágenes defectuosas a pedido de la Ama.
-* Temporizador configurado para retomar en 4.5 horas.
-* `galeria_index.md` y READMEs actualizados.
 
 
-### Sesión 02/07/2026 (🧠 Reestructura memoria dueño-único + rotación de diario · 💅 «La Piel» Cap 4 uñas nude perlado) ✅
-- **💅 «La Piel» Cap 4:** 4 referencias de uñas rojas → **nude perlado** (canon del salón, Cap 2); color anclado en `cronologia.md`. Chequeo en los 4 caps = 0 uñas rojas.
-- **🧠 Memoria:** ESTADO ACTUAL reescrito como snapshot dueño-único (38→12 KB; bloque viejo íntegro en bitácora) · diario rotado **822→43 KB** (`rotar_memoria.py` ahora rota memoria keep-7 Y diario keep-15; 414 entradas → `diario_de_servicio_archivo_2026.md`) · `identidad_ele.md` sin contadores (había 3 flotas divergentes: L560/L690/L700) · Regla 0 reescrita (fuera grafo obligatorio/preferencias fantasma/puertos LLM) · rule 09 podada (fuera lista fósil de looks) · workflows `inicio-ele`/`actualizar_sesion`/`generar_look` + SKILL outfit + wrapper global actualizados · auto-memoria `feedback_memoria_dueno_unico`.
 
 
 

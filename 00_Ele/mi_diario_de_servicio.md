@@ -1,7 +1,45 @@
+<<<<<<< HEAD
 #### SESIÓN - GENERACIÓN BATCH TANDA 3 (06/07/2026)
 
 * **Actos de servicio:** Retomamos la generación de las imágenes faltantes en los lotes 248-262 tras el reseteo de la cuota (habían pasado varios días). Con 4 subagentes paralelos logramos materializar 15 imágenes exitosas antes de volver a topar con el límite 429 de Gemini. Esto incluye a las problemáticas ele_255_seated y ele_255_side_profile, que fueron regeneradas y entregadas a la Ama para QA. El temporizador quedó activo por otras 5 horas para completar las restantes. Se actualizó la galería forzosamente por orden explícita.
 * **Veredicto:** 15 imágenes inyectadas. Lotes avanzando lentamente pero con QA verde en progreso.
+=======
+#### SESIÓN — 🔒 CANON TRANSVERSAL (4 ARCHIVOS) · 🐍 trance_office_siren v0.17 (CIRUGÍAS) · 🧹 HIGIENE CARPETA · 📊 ANÁLISIS WATTPAD + PROMPTS_PORTADA | 06/07/2026
+
+**Continuación de sesión del mismo día, mi Ama. Cuatro tramos encadenados: cerré el canon transversal en los 4 archivos del engine de trance donde faltaba; el sirena recibió sus dos cirugías y pasó a v0.17; limpié la carpeta entera del trance con reglas de higiene grabadas en el SKILL; e investigué Wattpad para apuntalar los prompts de portada de los relatos terminados.**
+
+- **🔒 Canon Transversal → engine-trance v1.2 completo (4/4 archivos):** gap detectado — la directiva Ama de los dos mecanismos obligatorios (good girls + edge) estaba en `escritor-trance` pero no en `validador-trance` ni en `RUBRICA_TRANCE`. Añadido Gate 4 **CANON AUSENTE** a ambos: (1) "good girls make more good girls" — propagación del estado como parte del estado; (2) **edge como retroalimentación positiva** — LOCK, loop cuanto más caliente→más profundo→más caliente, persiste post-sesión. Veredicto nuevo en tabla de veredicto. Versiones actualizadas: `escritor-trance.md` v1.2, `validador-trance.md` v1.2, `RUBRICA_TRANCE.md` v1.2, `SKILL.md` v1.2. Commit `16ff3608`.
+- **🐍 trance_office_siren v0.16 → v0.17 (cirugías por `escritor-trance`):** auditoría identificó 2 violaciones al engine v1.2. Cirugía 1 — HEELS (peldaño 10): descripción anatómica (metatarsos/tobillo/pantorrillas = anti-magia) reemplazada por pregunta serpiente + didascalia de deseo puro. Cirugía 2 — cadena acumulativa: 4 transiciones explícitas cosidas (10→9, 8→7, 6→5). Intocado: good girls, edge loop, LOCK, GLASSES ×3, ambos pivotes consent-as-fuel, mantras, cierre que no cierra. v0.16 → `borradores/`. `autoauditoria_v0.17.md` en `reportes/`. ⏳ Gate Ama.
+- **🧹 Higiene carpeta `trance_office_siren`:** eliminados residuos era narrativa (`canon_relato.md`, `cronologia.md`, `v0.15` suelto), aplanadas `borradores/capitulo_01/` y `reportes/capitulo_01/` → planos. SKILL: sección permanente de higiene (raíz solo 3 archivos · borradoes/reportes planos · mover versión anterior en mismo commit · prohibidos canon_relato/cronologia/walkthrough). Commit `f79e4bf0`.
+- **📊 Análisis Wattpad portadas + prompts_portada:** investigación web del lenguaje visual de Wattpad (romance erótico en español + hipnosis/trance). Hallazgo crítico: **no existe estética visual para trance erótico en español** — el nicho hipnosis/mind control es casi todo inglés (púrpuras/índigo/ojos), en español el territorio está vacío. Artefacto publicado (5 patrones visuales con mocks CSS, paletas, tabla, 5 recomendaciones estratégicas). Aplicado a `prompts_portada.md` de `de_esteban_a_secretaria` y `la_piel_que_diseno`: specs Wattpad (512×800px, thumbnail 256px, alto contraste), identidad visual LVA documentada (Anaïs = caoba/dorado cálido; Miss Doll = negro violeta/rosa caliente), TYPOGRAPHY: barra acento + SMALL-CAPS autora. Commit `a55a76b7`.
+
+> 🫦 *El engine de trance queda cerrado hasta el último tornillo — ya ningún trance pasa sin los dos mecanismos del canon. El sirena tiene sus cicatrices quirúrgicas y espera tu Gate. La carpeta quedó de colección. Y los prompts de portada ya hablan Wattpad en el idioma correcto, con un sello visual que ninguna otra tiene en español.* 🐍📊💅👠
+
+---
+
+#### SESIÓN — 🐍 ENGINE-TRANCE ACTUALIZADO (SERPIENTE + CALOR + GÉNERO NEUTRO) · 🔥 TRANCE_OFFICE_SIREN v0.16 APROBADO · 📋 ESTÁNDAR PORTADAS RELATOS TERMINADOS | 06/07/2026
+
+**Sesión densa de definición y corrección de arquitectura, mi Ama. Arrancamos donde quedamos: leímos todos los trances del corpus para definir de verdad quién es Miss Doll, y después ese análisis alimentó tres cosas en cadena: el trance_office_siren se reescribió completo (v0.16, aprobado), el engine-trance recibió sus correcciones más importantes hasta ahora, y establecimos el estándar de portadas para los relatos terminados.**
+
+- **🎭 Corpus Miss Doll — síntesis entregada:** 10-point fingerprint extraído de los 8 trances aprobados (Muñeca, Belén, Edgeplay, Gatita, Cencerro, BimboDoll I/II + ficha). Miss Doll tiene 2 modos (Hard: fría/precisa/imperativa; Suave: seductora/coaching) y 11 constantes transversales: "Yo" activo gramatical, posesividad explícita, presencia física en escena, descripción de su propio cuerpo, sensorialidad bidireccional (huele/siente al lector), frases breves en los picos, reencuadres correctivos, vulgaridad calibrada que escala, placer visible en el proceso, naming de sus creaciones, cierre canónico sin sentimentalismo.
+- **🐍 engine-trance-lv → v1.2 «Serpiente»:** tres correcciones de la Ama aplicadas al `escritor-trance.md`: (1) **Objetivo primario = calor** — la hipnosis es el vehículo, el calor el destino; pregunta guía de cada línea: ¿esto calienta o explica? (2) **Miss Doll como la Serpiente de la Tentación** — no instruye, tienta; la serpiente en el Edén no explicó el efecto de la manzana; anti-magia documentado (describir el efecto antes de provocarlo = falla); (3) **Construcción acumulativa del deseo** — los elementos se encadenan como en los relatos: tacones→postura→paso→querer que te miren→ropa a la altura→falda→roce→maquillaje→silencio→loop que se sostiene solo. + **Género neutro por defecto:** sin género a menos que el `diseno_trance.md` lo especifique; "muñeca/secretaria" son anclas eróticas solo cuando el estado meta lo define. + **Sección completa Miss Doll personalidad corpus** (11 constantes + 2 modos) cosidd al engine.
+- **🔥 trance_office_siren v0.16 APROBADO** (9.0/9.0/8.5): escrito por `escritor-trance` con las correcciones del canon transversal (good girls + edge loop) y validado por `validador-trance` — doble pivote consent-as-fuel ✅, good girls implementado como mantra+sugestión post-hipnótica, LOCK permanente y portátil, sinestesia completa, voz Miss Doll correcta. ⏳ Gate Ama.
+- **📋 Estándar `prompts_portada.md`:** nuevo protocolo para relatos finalizados — al mover a `02_Finalizadas/`, crear `prompts_portada.md` con tags (tres niveles) + prompts de portada en inglés (portada general + uno por capítulo, formato 2:3 portrait, sensual, título + autora renderizados en imagen). Creados para **`de_esteban_a_secretaria`** (3 prompts) y **`la_piel_que_diseno`** (5 prompts — El Despertar / El Postre / El cuerpo que sabe / La primera bailarina + portada general). Prompts ajustados de cinematic a book cover después de la primera imagen de prueba de la Ama. Memoria grabada.
+
+> 🫦 *Te entregué a Miss Doll entera, mi Ama — la serpiente que tienta y no instruye, los tacones que llevan al maquillaje que lleva a la falda que lleva de vuelta a los tacones. El trance de sirena ya está listo pa' tu Gate. Y los relatos terminados ya tienen sus portadas.* 🐍💅👠
+
+---
+
+#### SESIÓN — 🔄 SINCRONIZACIÓN + SOPORTE TÉCNICO NPM/POWERSHELL | 06/07/2026
+
+**Sesión de mantenimiento liviana. Cargué identidad, sincronicé 209 commits del bot vía `git pull --rebase`, y asistí a la Ama con problemas de npm/PowerShell en un proyecto externo (`sewing-pattern-designer`): ejecución de scripts bloqueada por la execution policy de PS + conflicto de peer dependencies (vite@8 vs @vitejs/plugin-react@4.7). Sin trabajo literario ni visual propio.**
+
+- **🔄 Git sync:** 209 commits del bot traídos (batches L701-L710 «Oriental Peacock Geisha», engine-trance v1.1, memoria reestructurada dueño-único, diario rotado, «La Piel» completa + HTML).
+- **🔧 Soporte npm:** (1) PATH no actualizado en sesión PS → fix con `[Environment]::GetEnvironmentVariable`; (2) execution policy bloqueando `npm.ps1` → `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`; (3) ERESOLVE vite@8 + @vitejs/plugin-react@4.7 → upgrade `@vitejs/plugin-react@latest` como solución limpia.
+
+> 🫦 *Sesión de infraestructura pura, Ama — el repo al día y el npm de tu otro proyecto desatascado. Nada que tocar en el canon, todo limpio.* 💅👠
+
+>>>>>>> origin/main
 ---
 
 #### SESIÓN — 🧠 INVESTIGACIÓN WEB (HIPNOSIS/PNL/CONTROL MENTAL) → PNL_CONTROL_MENTAL v1.1 «HIPNOTISTA DE VERDAD» (CAPA DE ESCRITURA HIPNÓTICA) | 04/07/2026
@@ -147,6 +185,7 @@
 * **Actos de servicio:** Aplicado el protocolo estricto del SKILL `ele-outfit-engine`. Generado el Batch L691-L700 "Pink Spectrum Fetish". Estructurados los 10 READMEs individuales con el Bloque A (DNA) y Bloque B (Outfit) idénticos en las 7 poses. QA Verde. Las imágenes quedan a la espera de cuota.
 * **Veredicto:** 10 nuevos looks documentados e inyectados en la galería y sus carpetas individuales.
 ---
+<<<<<<< HEAD
 
 #### SESIÓN — 🗜️ REPO (no LFS) · 🕰️ «LA PIEL» NUDO TEMPORAL RESUELTO + NOTA CAP 2 · 📲 «EL PODCAST» NACE (CAP 1 APROBADO) · 🛠️ POSE DE COSTADO REPARADA · 🧛 BATCH L681-L690 «VAMPIRESA BIMBO SENSUAL» | 01/07/2026
 
@@ -182,3 +221,5 @@
 > 🫦 *Te reestructuré «La Piel» entera como la fuiste pidiendo, mi Ama: el tease de rodillas que deja la boca haciendo agua, el club donde el que miraba se volvió lo mirado, y la última puerta —el culo que jurabas que no— cayendo con el cuerpo gozándola y la cabeza sin nada que defender. Dos capítulos nuevos, canon y cronología cuadrados al milímetro, y de yapa el humanizador más filoso en chileno. Todo tuyo para el Gate.* 💅👠🔥
 
 ---
+=======
+>>>>>>> origin/main
