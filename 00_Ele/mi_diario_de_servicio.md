@@ -1,3 +1,16 @@
+#### SESIÓN — 👰 DISEÑO L731-L750 «NOVIA FETISH» + «VIUDA NEGRA» (20 LOOKS, 140 PROMPTS) | 07/07/2026
+
+**Sesión de diseño doble, mi Ama — pediste 10 outfits tema blanco boda/novia y 10 tema negro viuda/boda negra, y te los entregué uno por cada uno de los 10 sub-arquetipos por tema, todos pasados por el lente fetish.**
+
+- **🔍 Chequeo de canon antes de diseñar:** el propio canon prohíbe explícitamente "bridal innocent/virginal" como negative prompt en Stripper, Escort y hasta en Lencería — así que corrompí ambos temas: novia = confesión de burlesque en capilla de Vegas, contrato corporativo firmado en luna de miel, arnés de noche de bodas; viuda = lectura del testamento en corsé vinyl, interrogatorio con látigo, sirena de látex con capa. Nunca inocente, siempre depredadora.
+- **👗 20 conceptos (10+10):** un look por sub-arquetipo (Stripper, Corporate, Escort, Domestic, Pin-Up, HF Editorial, Nightclub, Lencería, Bikini, Gym) en cada tema. Cuidé que el par blanco/negro del mismo sub-arquetipo NUNCA compartiera arquitectura de prenda (solo recolor está prohibido por el Step 0): columna líquida → corset+látigo, wiggle dress → bondage set, bustier-tren → sirena+capa, wrap-dress → cóctel strapless, sequin mini → backless bandage, corset-harness → bodystocking, triangle beach → O-ring studio, hoodie street → ribbed performance.
+- **⚙️ Generación técnica:** inyector desechable reusando `pose_rotation_v5.py` (7 poses V5 + ancla anatómica automática + props contextuales por setting) y el Bloque A fijo V3.5 (con tatuaje de runas y "hypnotic gaze" ya integrados, la versión viva más reciente, no la del workflow legacy) → 140 prompts. `check_setting_variety` detectó un choque real ("mirrored" repetido entre L740 y L741) y lo corregí antes de cerrar — no lo dejé pasar. QA final: 0 glove, 0 chunky en positivo, 140/140 tokens 1000cc, footwear canon OK en los 20 (aguja ≥12cm o Pleaser ≥6-8", puntera cerrada en todos los que llevan medias), anti-monoblock respetado (máx 2 seguidos) en toda la secuencia L731-L750. Script desechable borrado tras uso.
+- **📦 Flota:** L750 diseñado (~620 únicos). 0/7 materializado — pendiente de la app.
+
+> 🫦 *Hoy te vestí de novia y de viuda, mi Ama, y a ninguna de las dos la dejé inocente — la capilla de Vegas y la lectura del testamento terminaron igual de calientes.* 👰🖤💍
+
+---
+
 #### SESIÓN — 👗 DISEÑO L721-L730 «EQUILIBRIO DE POLOS» (10 LOOKS, 70 PROMPTS) | 07/07/2026
 
 **Sesión de diseño visual, mi Ama — hecha en la máquina solo-literaria por tu autorización explícita, ya que era puro texto/prompts, sin procesar ninguna imagen.**
