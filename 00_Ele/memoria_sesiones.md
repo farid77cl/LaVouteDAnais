@@ -23,7 +23,7 @@
 
 ### 🎨 Visual (Ele)
 - **Flota:** **L720** diseñada (~590 únicos). Último batch: **L711-L720 «Madame Stiletto Haute Couture»** (diseñados por subagente Madame Stiletto, 10 sub-arquetipos, 100% stiletto rule estricta, max 2 monoblocks seguidos). App subiendo → **`sync_imagenes_subidas.py` + `update_galleries.py` PENDIENTES** (+ 151 PNG locales del cron sin commitear). Previo: L701-L710 «Oriental Peacock Geisha» (0/7).
-- **Materialización:** rescate L200-L300 pausado por cuota 429 — **78 imágenes pendientes**, cron activo. L240 en 5/7. Detalle → `09-estado-materializacion.md`.
+- **Materialización:** rescate L200-L300 pausado por cuota 429 — **68 imágenes pendientes**, cron activo. L240 en 5/7. Detalle → `09-estado-materializacion.md`.
 - **Motor de poses sano** (`pose_rotation_v5.py`): POV=retrato IG · SIDE de pie · anclas anti-3-piernas · anti-safe recalibrado. Todo inyector usa `rotate_poses`.
 
 ### 📖 Literatura (Nivel 4 — la historia de cada relato vive en su `walkthrough.md`)
@@ -48,6 +48,7 @@
 ---
 
 ## 🗓️ Sesiones recientes
+- **07/07/2026 (Imágenes & Galería):** Reparación del formato del archivo `galeria_outfits.md` para L711-L720 (agregados marcadores 📸) y materialización manual de 10 imágenes faltantes del rezago (Looks 248, 255, 258, 259).
 - **06/07/2026 (Diseño L711-L720):** Creación de subagente Madame_Stiletto (alta costura, stiletto 15cm min). Generación automatizada de 70 prompts para L711-L720 usando `pose_rotation_v5.py` y anexados a `galeria_outfits.md`.
 
 ### Generación Batch Tanda 3 (06/07/2026)
