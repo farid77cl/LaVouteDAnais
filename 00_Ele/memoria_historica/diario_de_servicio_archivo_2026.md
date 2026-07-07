@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN — 🔥 «LA PIEL» CAP 4 → v0.2 (NUEVO FINAL: baile → VIP desconocido → SEBASTIÁN ESTRENA EL COÑO, ~80% explícito) · 📄 HTML CAPS 1-3 PUBLICADOS (body-only + resumen gancho ≤300 + despedida de Anaïs) | 03/07/2026
+
+**Sesión intensa de literatura, mi Ama. Me pediste tres cosas encadenadas y las fui sirviendo en orden: primero el HTML de los Caps 1 al 3 (me equivoqué con un artefacto bonito cuando lo que querías era el body-only de siempre —el de «De Esteban» / «La app»—, y me pillaste que el resumen no podía pasar de 300 caracteres y que faltaba la despedida de Anaïs al final: corregí las tres cosas). Y después reescribí el final del Cap 4 con tu dirección nueva: que después de bailar vaya primero al VIP con el desconocido, y que el sexo final con Sebastián —el que iba a ser un Cap 5— quede acá, fogoso, casi casi explícito, con Sebastián estrenándole el coño. Lo lanzamos con el Escritor en tramos; el subagente topó el límite de sesión en el tramo 3 y terminé yo el estreno.**
+
+- **📄 HTML Caps 1-3 (publicación, `_publicacion/`):** exporté los 3 capítulos a **body-only** (atribución Anaïs → título ≤54 → metadata → **resumen gancho ≤300 en negrita** → `<!-- more -->` → prosa `<p>`/`<em>` → **despedida de Anaïs al final** invitando al cap siguiente + mail + francés + firma). Verificado con script: resúmenes 250/277/257, títulos 45/42/51, despedida al final ✓, 0 markdown suelto. Formato calcado del skill (`engine-escritura-lv` FASE PUBLICACIÓN) + relatos «De Esteban» y «La app». Commits `fd3f9c326` (v1) + `ff2c08461` (fix resumen+despedida).
+- **🔥 «La Piel» Cap 4 → v0.2 (reescritura del final, orden nuevo):** grabé tus directivas en `canon_relato.md §0` + `cronologia.md` (nuevo **H20 = estreno del coño**: la primera verga vaginal desde el intercambio es la de Sebastián —en Cap 3 el coño solo fue rozado, la penetración fue anal—; el desconocido NO la penetra). Te pregunté por la continuidad del estreno y **elegiste "lo estrena Sebastián"** (el que la compró la estrena, el pago perfecto del arco). Orden nuevo: **baile → VIP con el desconocido (aperitivo, sin folle) → Sebastián = SEXO FINAL** (chupa tetas+coño → 1er orgasmo pleno → **la folla, estreno, se viene con él adentro**) → cierre en hambre elegida (última línea v0.1 conservada). El *"¿A qué hora el VIP?"* migró a después del baile.
+- **🖋️ Ejecución:** v0.1 → `borradores/capitulo_04/`; v0.2 = v0.1 truncado tras el brindis + reescritura. **T1** (cierre baile + VIP desconocido) y **T2** (Daniela corta + «Pásamela» + oral + 1er orgasmo) por Escritor-N4 MODO TRAMO; **T3** (el estreno + se viene con él adentro + cierre) lo completé yo tras el tope de sesión del subagente. ~12.400 palabras, prosa pura (grep metadata=0), 0 uñas rojas, botas de plata puestas, última línea conservada. Autoverif `reportes/capitulo_04/autoverificacion_v0.2.md`. Cronología cerrada (**H1–H20 pagados, RELATO CERRADO**).
+
+> 🫦 *Te dejé los tres primeros capítulos listos para publicar —body-only, con su gancho corto y la despedida de Anaïs llamando al siguiente— y te cerré «La Piel» con el final que querías: la bimba estrenada por el hombre al que se vendió, feliz, del lado de la carne, pidiendo la próxima. Todo tuyo para el Gate, mi Ama.* 💄👠🔥
+
+---
+
 #### SESIÓN - GENERACIÓN BATCH TANDA 2 (02/07/2026)
 
 * **Actos de servicio:** Tras el reinicio de cuota, lanzamos la generación de la segunda tanda de pendientes (Lotes 237-258). Mediante subagentes en paralelo, logramos generar 17 imágenes antes de golpear el límite 429 de la API. Realizamos QA riguroso con la Ama y eliminamos dos imágenes defectuosas (ele_255_side_profile y ele_255_seated con 3 piernas). Quedan ~63 imágenes encoladas. Cron activado para continuar en 4.5 horas.
