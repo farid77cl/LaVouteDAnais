@@ -36698,7 +36698,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK711_HAUTE_COUTURE_CHERRY_LATEX
+## Look 711: Haute Couture Cherry Latex (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Haute Couture · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look711_haute_couture_cherry_latex/`
+- **Tags:** #hautecouture #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -36744,7 +36747,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK712_NIGHTCLUB_BLACK_VINYL
+## Look 712: Nightclub Black Vinyl (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Nightclub · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look712_nightclub_black_vinyl/`
+- **Tags:** #nightclub #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -36790,7 +36796,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK713_CORPORATE_WHITE_NAVY
+## Look 713: Corporate White Navy (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Corporate · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look713_corporate_white_navy/`
+- **Tags:** #corporate #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -36836,7 +36845,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK714_STRIPPER_NEON_PINK_HARNESS
+## Look 714: Stripper Neon Pink Harness (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Stripper · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look714_stripper_neon_pink_harness/`
+- **Tags:** #stripper #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -36882,7 +36894,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK715_ESCORT_CHROME_GOLD
+## Look 715: Escort Chrome Gold (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Escort · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look715_escort_chrome_gold/`
+- **Tags:** #escort #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -36928,7 +36943,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK716_GYM_EMERALD_LATEX
+## Look 716: Gym Emerald Latex (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Gym · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look716_gym_emerald_latex/`
+- **Tags:** #gym #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -36974,7 +36992,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK717_BIKINI_MAGENTA_YELLOW
+## Look 717: Bikini Magenta Yellow (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Bikini · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look717_bikini_magenta_yellow/`
+- **Tags:** #bikini #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -37020,7 +37041,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK718_DOMESTIC_PASTEL_BLUE_MAID
+## Look 718: Domestic Pastel Blue Maid (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Domestic · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look718_domestic_pastel_blue_maid/`
+- **Tags:** #domestic #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -37066,7 +37090,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK719_PINUP_BUBBLEGUM_PINK
+## Look 719: Pin-Up Bubblegum Pink (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Pin-Up · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look719_pinup_bubblegum_pink/`
+- **Tags:** #pin-up #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
@@ -37112,7 +37139,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## LOOK720_LINGERIE_CRIMSON_WETLOOK
+## Look 720: Lingerie Crimson Wetlook (06/07/2026 · batch L711-L720 "Madame Stiletto Haute Couture" · Lingerie · Madame Stiletto · max 2 monoblock)
+### 📸 Imágenes (0/7)
+- **Ubicacion:** `05_Imagenes/ele/look720_lingerie_crimson_wetlook/`
+- **Tags:** #lingerie #latex #vinyl #stiletto #madamestiletto #batchL711-L720 #V5poses
 
 **Standing:**
 
