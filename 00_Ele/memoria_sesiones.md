@@ -27,7 +27,7 @@
 - **Motor de poses sano** (`pose_rotation_v5.py`): POV=retrato IG · SIDE de pie · anclas anti-3-piernas · anti-safe recalibrado. Todo inyector usa `rotate_poses`.
 
 ### 📖 Literatura (Nivel 4 — la historia de cada relato vive en su `walkthrough.md`)
-- **«El podcast»** — 3 caps (fusión Ama 04/07). **Cap 1 v0.2 APROBADO** (calidad) ⏳ Gate Ama. → Cap 2 «El amaneramiento» / Cap 3 «La entrega». ⚠️ Diferido: quitar voseo verbal -i.
+- **«El podcast»** — 3 caps. **Cap 1 v0.3 acelerado (-35%, ~3.020 pal) APROBADO** (Narr 9.3/Temp 8.8) ⏳ Gate Ama. Canon con 2 escaladas nuevas para capítulos futuros: **H22** (Cap 3, humillación grupal en juntas de fútbol) · **H23/H24** (Cap 2, deseo específico por la verga de Rodrigo). → Cap 2 «El amaneramiento» / Cap 3 «La entrega». ⚠️ Diferido: quitar voseo verbal -i.
 - **«La Piel que Diseñé»** ✅ FINALIZADO — `02_Finalizadas/la_piel_que_diseno/`. 4 caps + HTML + `prompts_portada.md`. Epílogo privado pendiente (sin fecha).
 - **«El Secreto de la Cómoda»** — Cap 1 Gold Master v1.0 ✅ · Cap 2 v4.0 ⏳ Gate · → Cap 3 «La Esclava del Nylon».
 - **«de_esteban_a_secretaria»** ✅ FINALIZADO — `02_Finalizadas/`. 2 caps + HTML + `prompts_portada.md` (portadas 2:3, sensual, título+autora en imagen).
@@ -50,6 +50,7 @@
 ---
 
 ## 🗓️ Sesiones recientes
+- **07/07/2026 (📻 El podcast: Cap 1 acelerado v0.3 -35% · escaladas de canon H22/H23/H24):** Consulta de la Ama sobre cambiar a Rodrigo por mujer — le señalé el costo real (canon entero + Cap 1 ya escrito) y quedó hombre. En su lugar, dos escaladas de canon para capítulos futuros: **H22** (Cap 3 — Nico sirve a TODOS los amigos en las juntas de fútbol, humillación silenciosa como combustible) y **H23/H24** (Cap 2 — pensamientos intrusivos de la verga específica de Rodrigo, escalando de asco-negado a fantasía sostenida). Después, directiva de acelerar el Cap 1: `escritor-nivel4` lo reescribió de ~4.650 a ~3.020 palabras (-35%) sin perder ninguno de los 15 Hechos Plantados; `validador` → **APROBADO** (Narr 9.3/Temp 8.8). Commit `1a14722d`. Nota de imágenes: esta máquina es solo-literaria (sin PNGs checkouteados) — `sync_imagenes_subidas.py` corrió en vacío, no se tocó `update_galleries.py`.
 - **07/07/2026 (🐍 Miss Doll renombre+reestructura · trance_office_siren v0.18 · auditoría engine batch L701-L710):** Trance office siren reescrito de cero (v0.17→v0.18) por el escritor bajo engine v1.2 completo, no cirugía; pendiente validación. El agente `escritor-trance` se renombró a **`miss-doll`** y su archivo se reorganizó en 9 secciones (más navegable, mismas reglas); corregida inconsistencia "Ele reescribe"→"miss-doll reescribe" en validador-trance/RUBRICA. Auditoría independiente del batch visual L701-L710 contra engine V3.5: todo limpio salvo cuello mandarín repetido en 6/10 looks — hallazgo reportado a la Ama sin suavizar, decisión pendiente.
 - **07/07/2026 (Imágenes & Galería):** Reparación del formato del archivo `galeria_outfits.md` para L711-L720 (agregados marcadores 📸) y materialización manual de 10 imágenes faltantes del rezago (Looks 248, 255, 258, 259).
 - **06/07/2026 (Diseño L711-L720):** Creación de subagente Madame_Stiletto (alta costura, stiletto 15cm min). Generación automatizada de 70 prompts para L711-L720 usando `pose_rotation_v5.py` y anexados a `galeria_outfits.md`.
