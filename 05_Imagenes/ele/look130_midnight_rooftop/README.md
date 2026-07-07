@@ -1,13 +1,13 @@
 # 🖼️ Galería: look130_midnight_rooftop
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 6
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_130_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_back_view.png) | ![ele_130_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_ditzy.png) | ![ele_130_seated_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_v0.png) |
-| ![ele_130_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_side_profile.png) | ![ele_130_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_standing.png) |
+| ![ele_130_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_back_view.png) | ![ele_130_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_ditzy.png) | ![ele_130_seated_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_png.png) |
+| ![ele_130_seated_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_v0.png) | ![ele_130_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_side_profile.png) | ![ele_130_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_standing.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_130_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_back_view.png) | ![ele_130_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_ditzy.png) | ![ele_130_seated_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_v0.png) | ![ele_130_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_side_profile.png) |
-| ![ele_130_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_standing.png) |
+| ![ele_130_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_back_view.png) | ![ele_130_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_ditzy.png) | ![ele_130_seated_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_png.png) | ![ele_130_seated_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_v0.png) |
+| ![ele_130_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_side_profile.png) | ![ele_130_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_standing.png) |
 
 
 ---
@@ -24,6 +24,7 @@ Total imágenes: 5
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_130_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_back_view.png)
 - [ele_130_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_ditzy.png)
+- [ele_130_seated_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_png.png)
 - [ele_130_seated_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_v0.png)
 - [ele_130_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_side_profile.png)
 - [ele_130_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_standing.png)

@@ -1,7 +1,7 @@
 # 🖼️ Galería: look178_leopard_vitacura
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 7
+Total imágenes: 8
 
 ## Colección Destacada
 | | | |
@@ -16,7 +16,7 @@ Total imágenes: 7
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_178_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_back_view.png) | ![ele_178_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_ditzy.png) | ![ele_178_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_odalisque.png) | ![ele_178_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_pov.png) |
-| ![ele_178_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_seated.png) | ![ele_178_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_side_profile.png) | ![ele_178_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_standing.png) |
+| ![ele_178_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_seated.png) | ![ele_178_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_side_profile.png) | ![ele_178_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_standing.png) | ![ele_178_standing_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_standing_v2.png) |
 
 
 ---
@@ -29,6 +29,7 @@ Total imágenes: 7
 - [ele_178_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_seated.png)
 - [ele_178_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_side_profile.png)
 - [ele_178_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_standing.png)
+- [ele_178_standing_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look178_leopard_vitacura/ele_178_standing_v2.png)
 
 ---
 *Sincronizado con GitHub.* 👄
