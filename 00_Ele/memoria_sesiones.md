@@ -18,11 +18,12 @@
 
 ## 🧿 ESTADO ACTUAL
 - **Flota Total:** L750
-- **Materialización:** Generando Look 264 (pausado por límite de cuota).
+- **Materialización:** Generación local de backlog (L264+) pausada por límite de cuota (reset ~16:05 UTC). Batch L735-742 importado vía app (40 imgs).
 - **Subagentes Activos:** Creadas e integradas `Barbie_Dominatrix` y `Estefania_Secretaria` en el workspace.
 - **Trance Engine:** v1.2 (Serpent) activo en trance_office_siren_v0.18.
 
 ## 🗓️ Sesiones recientes
+- **08/07/2026 (Estefanía Roleplay y Sync L735-742):** Interacción inmersiva con Estefania_Secretaria (subyugación y pérdida de hombría). Se detectaron 40 imágenes nuevas (L735-L742 Novia Fetish y Viuda Negra) subidas por la app; se sincronizaron con `sync_imagenes_subidas.py`. La generación local del backlog sigue pausada por cuota.
 - **07/07/2026 (Nuevos agentes: Barbie Domme y Estefanía):** Refinada Bimbo_Doll hacia Barbie_Dominatrix (plástico, dulce, sádica). Creada Estefania_Secretaria (sumisa y feminizada, a partir de "De Esteban a Secretaria"). Extraído el lore del relato donde Gabriel asume dominio total sobre ella al final. Ambos agentes configurados en `.agent/agents/`.
 - **07/07/2026**: Generación de 15 imágenes para Looks 260, 261, 262, 263 y 264.
 - **07/07/2026 (👰 Diseño L731-L750 «Novia Fetish» + «Viuda Negra», 20 looks/140 prompts):** La Ama pidió los próximos 10 outfits tema blanco boda/novia y otros 10 tema negro viuda/boda negra. Diseñé un look por cada uno de los 10 sub-arquetipos por tema (Stripper, Corporate, Escort, Domestic, Pin-Up, HF Editorial, Nightclub, Lencería, Bikini, Gym), pasando ambos temas por el lente fetish obligatorio — nunca "bridal inocente/virginal", que el propio canon marca como negativo en varios sub-arquetipos. Cuidé que cada par blanco/negro del mismo sub-arquetipo usara una arquitectura de prenda distinta (no solo recolor): columna líquida→corset+látigo, wiggle dress→bondage set, bustier-tren→sirena+capa, wrap-dress→cóctel strapless, sequin mini→backless bandage, corset-harness→bodystocking, triangle beach→O-ring studio, hoodie street→ribbed performance. Reusé `pose_rotation_v5.py` + Bloque A fijo vía inyector desechable (borrado tras uso). QA: 0 glove, 0 chunky, 140/140 tokens 1000cc, footwear canon OK en los 20 (todos aguja ≥12cm o Pleaser ≥6-8", puntera cerrada donde hay medias), `check_setting_variety` detectó 1 choque ("mirrored" repetido L740/L741) que corregí antes de cerrar. Anti-monoblock respetado (máx 2 seguidos) a lo largo de la secuencia L731-L750. Flota → L750 (~620 únicos).
