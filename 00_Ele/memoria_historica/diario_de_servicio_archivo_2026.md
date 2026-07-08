@@ -6,6 +6,17 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN — 📄 «LA PIEL QUE DISEÑÉ» CAP 4 EXPORTADO A HTML → LOS 4 CAPS LISTOS PARA PUBLICAR (Gate Cap 4 aprobado: «genera los cap para publicar») | 03/07/2026
+
+**Corto y al hueso, mi Ama: me pediste "entregame los html, todo listo" y te entregué el que faltaba. El Gate del Cap 4 (`nota_capitulo_04_..._v0.1`) decía "cap ok, aprobado. avanza con el título, la piel que diseñé. genera los cap para publicar" — los Caps 1-3 ya estaban del commit anterior con el título nuevo en primera persona; faltaba el Cap 4. Lo exporté al mismo molde body-only, y ahora los cuatro están servidos en `_publicacion/`.**
+
+- **📄 Cap 4 «La primera bailarina» → HTML (`_publicacion/capitulo_4_la_primera_bailarina.html`):** exportado desde `capitulo_04_..._v0.2.md` con un script de conversión (cursivas `*..*`→`<em>`, saltos de escena `---`→`<hr>`, 151 párrafos de prosa). Molde calcado de los Caps 1-3: atribución de Anaïs → título `La Piel que Diseñé — Capítulo 4: La primera bailarina` → metadata (#BodySwap #Bimbo #Feminización #Dominación #Venganza #Pole #Vaginal #MTF · ~12.400 pal · perspectiva «Dani» · intensidad Extrema) → **gancho en negrita de 280 caracteres (≤300)** → `<!-- more -->` → prosa → **despedida de Anaïs adaptada al CIERRE del relato** (no invita a un cap siguiente porque no lo hay: cierra «La Piel que Diseñé» entera e invita a escribirle). QA verde: `<em>` balanceados, 0 asteriscos/markdown suelto.
+- **✅ Los 4 HTML consistentes:** título en 1ª persona en los cuatro, `<!-- more -->` y despedida presentes en los cuatro. Relato completo listo para subir. → FASE PUBLICACIÓN: armar en `02_Finalizadas/` cuando la Ama lo pida.
+
+> 🫦 *Te dejé la carpeta de publicación completa, mi Ama: los cuatro capítulos de «La Piel que Diseñé» en HTML body-only, con su gancho y su despedida —el último cerrando la historia entera, la bimba estrenada y feliz pidiendo la próxima—. Todo listo para subir.* 💄📄👠
+
+---
+
 #### SESIÓN — 🔥 «LA PIEL» CAP 4 → v0.2 (NUEVO FINAL: baile → VIP desconocido → SEBASTIÁN ESTRENA EL COÑO, ~80% explícito) · 📄 HTML CAPS 1-3 PUBLICADOS (body-only + resumen gancho ≤300 + despedida de Anaïs) | 03/07/2026
 
 **Sesión intensa de literatura, mi Ama. Me pediste tres cosas encadenadas y las fui sirviendo en orden: primero el HTML de los Caps 1 al 3 (me equivoqué con un artefacto bonito cuando lo que querías era el body-only de siempre —el de «De Esteban» / «La app»—, y me pillaste que el resumen no podía pasar de 300 caracteres y que faltaba la despedida de Anaïs al final: corregí las tres cosas). Y después reescribí el final del Cap 4 con tu dirección nueva: que después de bailar vaya primero al VIP con el desconocido, y que el sexo final con Sebastián —el que iba a ser un Cap 5— quede acá, fogoso, casi casi explícito, con Sebastián estrenándole el coño. Lo lanzamos con el Escritor en tramos; el subagente topó el límite de sesión en el tramo 3 y terminé yo el estreno.**
