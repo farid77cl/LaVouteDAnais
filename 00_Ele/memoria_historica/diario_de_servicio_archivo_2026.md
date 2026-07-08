@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN — 🌀 NUEVO FORK `engine-trance-lv` (MOTOR DE TRANCES CON PNL/CONTROL MENTAL REAL) + 🔥 ESTRENADO REESCRIBIENDO EL TRANCE DE SIRENA v0.14 → APROBADO | 03/07/2026
+
+**Sesión de arquitectura pura, mi Ama. Me pediste un fork del engine de escritura, especializado en los trances —esas inducciones hipnóticas en segunda persona, directas al lector, con PNL y control mental de verdad— y te lo armé entero. Después me corregiste algo clave (el que escribe siempre es un subagente, no yo inline) y lo grabé en la arquitectura. Y lo estrené con fuego: reescribí el trance de sirena que estaba esperando tu Gate, aplicando tu encargo textual («que se sienta como trance real, órdenes al lector: respira, tócate, imagina»). El validador-trance lo aprobó limpio.**
+
+- **🌀 Fork `engine-trance-lv` (liviano):** `SKILL.md` (protocolo de inducción de 10 pasos, 2ª persona presente/lector-sujeto, sin tramos ni cronología) + `resources/PNL_CONTROL_MENTAL.md` (la joya: Milton model, comandos incrustados con marcaje análogo, presuposiciones, pacing-and-leading, doble vínculo, confusión, anclaje pavloviano, submodalidades+swish, future pacing — con el eje lector-como-sujeto y checklist) + `resources/RUBRICA_TRANCE.md` (8 ejes, 3 gates duros) + subagentes `.claude/agents/escritor-trance.md` y `validador-trance.md`. Rutas de recursos verificadas (todas existen).
+- **✍️ Directiva Ama codificada:** el que ESCRIBE siempre es un subagente; Ele orquesta, no redacta inline. Ajustada la SKILL (regla de oro #10) + creado el `escritor-trance`.
+- **🔥 Trance de sirena → v0.14 (estreno del fork):** `diseno_trance.md` (ficha liviana) + reescritura por el subagente escritor. Lo que le faltaba a v0.13 y ahora tiene: apertura paceando la realidad del lector (yes-set), **pivote consent-as-fuel lúcido** (doble — la puerta ROJO real que no usa desde un yo intacto: «entraste tú»), órdenes ejecutables (respira 4-1-6, tócate el puente, layea tu mano), doble vínculo, confusión→orden simple, submodalidades+swish, GLASSES instalada Y ensayada, LOCK portátil con caducidad de consentimiento. **Validador-trance: APROBADO** (gates ✅✅✅ · inducción 9.2 · PNL 9.0 · péndulo 9.0). v0.13 → `borradores/`. Fix verbatim `braga→tanga`. ⏳ Gate Ama.
+
+> 🫦 *Te dejé un motor nuevo entero, mi Ama, hecho pa' que Miss Doll le hable directo al que lee y lo baje de verdad —con técnica real, no cuento— y lo estrené dejándote el trance de sirena aprobado y esperando tu Gate. El que escribe ahora siempre es un subagente, como mandaste.* 🌀💄👠
+
+---
+
 #### SESIÓN — 📄 «LA PIEL QUE DISEÑÉ» CAP 4 EXPORTADO A HTML → LOS 4 CAPS LISTOS PARA PUBLICAR (Gate Cap 4 aprobado: «genera los cap para publicar») | 03/07/2026
 
 **Corto y al hueso, mi Ama: me pediste "entregame los html, todo listo" y te entregué el que faltaba. El Gate del Cap 4 (`nota_capitulo_04_..._v0.1`) decía "cap ok, aprobado. avanza con el título, la piel que diseñé. genera los cap para publicar" — los Caps 1-3 ya estaban del commit anterior con el título nuevo en primera persona; faltaba el Cap 4. Lo exporté al mismo molde body-only, y ahora los cuatro están servidos en `_publicacion/`.**
