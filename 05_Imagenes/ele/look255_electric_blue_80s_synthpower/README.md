@@ -1,13 +1,13 @@
 # 🖼️ Galería: look255_electric_blue_80s_synthpower
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_255_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_back_view.png) | ![ele_255_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png) | ![ele_255_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_odalisque.png) |
-| ![ele_255_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_seated.png) | ![ele_255_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_side_profile.png) | ![ele_255_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png) |
+| ![ele_255_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_pov.png) | ![ele_255_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_seated.png) | ![ele_255_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_255_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_back_view.png) | ![ele_255_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png) | ![ele_255_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_odalisque.png) | ![ele_255_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_seated.png) |
-| ![ele_255_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_side_profile.png) | ![ele_255_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png) |
+| ![ele_255_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_back_view.png) | ![ele_255_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png) | ![ele_255_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_odalisque.png) | ![ele_255_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_pov.png) |
+| ![ele_255_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_seated.png) | ![ele_255_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_side_profile.png) | ![ele_255_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png) |
 
 
 ---
@@ -25,6 +25,7 @@ Total imágenes: 6
 - [ele_255_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_back_view.png)
 - [ele_255_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png)
 - [ele_255_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_odalisque.png)
+- [ele_255_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_pov.png)
 - [ele_255_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_seated.png)
 - [ele_255_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_side_profile.png)
 - [ele_255_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png)

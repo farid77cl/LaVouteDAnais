@@ -1,26 +1,27 @@
 # 🖼️ Galería: look260_charcoal_sheer_office_siren_classic
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 3
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_260_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) | ![ele_260_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) |
+| ![ele_260_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) | ![ele_260_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_odalisque.png) | ![ele_260_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_260_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) | ![ele_260_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) |
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![ele_260_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) | ![ele_260_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_odalisque.png) | ![ele_260_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_260_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png)
+- [ele_260_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_odalisque.png)
 - [ele_260_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png)
 
 ---

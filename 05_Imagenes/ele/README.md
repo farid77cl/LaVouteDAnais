@@ -4,6 +4,214 @@
 
 ---
 
+## 👠 Look 750: Black Widow Bachelorette Ribbed
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_750_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/ele_750_standing.png) | ![ele_750_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/ele_750_back_view.png) | ![ele_750_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/ele_750_seated.png) | ![ele_750_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/ele_750_side_profile.png) | ![ele_750_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/ele_750_ditzy.png) | ![ele_750_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/ele_750_pov.png) | ![ele_750_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/ele_750_odalisque.png) |
+
+---
+
+## 👠 Look 749: Black Widow Oring Studio
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_749_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look749_black_widow_oring_studio/ele_749_standing.png) | ![ele_749_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look749_black_widow_oring_studio/ele_749_back_view.png) | ![ele_749_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look749_black_widow_oring_studio/ele_749_seated.png) | ![ele_749_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look749_black_widow_oring_studio/ele_749_side_profile.png) | ![ele_749_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look749_black_widow_oring_studio/ele_749_ditzy.png) | ![ele_749_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look749_black_widow_oring_studio/ele_749_pov.png) | ![ele_749_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look749_black_widow_oring_studio/ele_749_odalisque.png) |
+
+---
+
+## 👠 Look 748: Black Mourning Bodystocking
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_748_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look748_black_mourning_bodystocking/ele_748_standing.png) | ![ele_748_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look748_black_mourning_bodystocking/ele_748_back_view.png) | ![ele_748_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look748_black_mourning_bodystocking/ele_748_seated.png) | ![ele_748_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look748_black_mourning_bodystocking/ele_748_side_profile.png) | ![ele_748_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look748_black_mourning_bodystocking/ele_748_ditzy.png) | ![ele_748_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look748_black_mourning_bodystocking/ele_748_pov.png) | ![ele_748_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look748_black_mourning_bodystocking/ele_748_odalisque.png) |
+
+---
+
+## 👠 Look 747: Black Midnight Widow Backless
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_747_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look747_black_midnight_widow_backless/ele_747_standing.png) | ![ele_747_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look747_black_midnight_widow_backless/ele_747_back_view.png) | ![ele_747_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look747_black_midnight_widow_backless/ele_747_seated.png) | ![ele_747_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look747_black_midnight_widow_backless/ele_747_side_profile.png) | ![ele_747_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look747_black_midnight_widow_backless/ele_747_ditzy.png) | ![ele_747_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look747_black_midnight_widow_backless/ele_747_pov.png) | ![ele_747_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look747_black_midnight_widow_backless/ele_747_odalisque.png) |
+
+---
+
+## 👠 Look 746: Black Sirena Widow Cape Column
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_746_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look746_black_sirena_widow_cape_column/ele_746_standing.png) | ![ele_746_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look746_black_sirena_widow_cape_column/ele_746_back_view.png) | ![ele_746_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look746_black_sirena_widow_cape_column/ele_746_seated.png) | ![ele_746_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look746_black_sirena_widow_cape_column/ele_746_side_profile.png) | ![ele_746_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look746_black_sirena_widow_cape_column/ele_746_ditzy.png) | ![ele_746_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look746_black_sirena_widow_cape_column/ele_746_pov.png) | ![ele_746_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look746_black_sirena_widow_cape_column/ele_746_odalisque.png) |
+
+---
+
+## 👠 Look 745: Black Widow Noir Bondage
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_745_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look745_black_widow_noir_bondage/ele_745_standing.png) | ![ele_745_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look745_black_widow_noir_bondage/ele_745_back_view.png) | ![ele_745_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look745_black_widow_noir_bondage/ele_745_seated.png) | ![ele_745_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look745_black_widow_noir_bondage/ele_745_side_profile.png) | ![ele_745_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look745_black_widow_noir_bondage/ele_745_ditzy.png) | ![ele_745_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look745_black_widow_noir_bondage/ele_745_pov.png) | ![ele_745_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look745_black_widow_noir_bondage/ele_745_odalisque.png) |
+
+---
+
+## 👠 Look 744: Black Merry Widow Cocktail
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_744_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look744_black_merry_widow_cocktail/ele_744_standing.png) | ![ele_744_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look744_black_merry_widow_cocktail/ele_744_back_view.png) | ![ele_744_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look744_black_merry_widow_cocktail/ele_744_seated.png) | ![ele_744_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look744_black_merry_widow_cocktail/ele_744_side_profile.png) | ![ele_744_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look744_black_merry_widow_cocktail/ele_744_ditzy.png) | ![ele_744_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look744_black_merry_widow_cocktail/ele_744_pov.png) | ![ele_744_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look744_black_merry_widow_cocktail/ele_744_odalisque.png) |
+
+---
+
+## 👠 Look 743: Black Widow S Interrogation Corset
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_743_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look743_black_widow_s_interrogation_corset/ele_743_standing.png) | ![ele_743_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look743_black_widow_s_interrogation_corset/ele_743_back_view.png) | ![ele_743_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look743_black_widow_s_interrogation_corset/ele_743_seated.png) | ![ele_743_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look743_black_widow_s_interrogation_corset/ele_743_side_profile.png) | ![ele_743_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look743_black_widow_s_interrogation_corset/ele_743_ditzy.png) | ![ele_743_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look743_black_widow_s_interrogation_corset/ele_743_pov.png) | ![ele_743_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look743_black_widow_s_interrogation_corset/ele_743_odalisque.png) |
+
+---
+
+## 👠 Look 742: Black Reading Of The Will Catsuit
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_742_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look742_black_reading_of_the_will_catsuit/ele_742_standing.png) | ![ele_742_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look742_black_reading_of_the_will_catsuit/ele_742_back_view.png) | ![ele_742_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look742_black_reading_of_the_will_catsuit/ele_742_seated.png) | ![ele_742_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look742_black_reading_of_the_will_catsuit/ele_742_side_profile.png) | ![ele_742_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look742_black_reading_of_the_will_catsuit/ele_742_ditzy.png) | ![ele_742_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look742_black_reading_of_the_will_catsuit/ele_742_pov.png) | ![ele_742_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look742_black_reading_of_the_will_catsuit/ele_742_odalisque.png) |
+
+---
+
+## 👠 Look 741: Black Widow Web Pole
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ![ele_741_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look741_black_widow_web_pole/ele_741_odalisque.png) |
+
+---
+
+## 👠 Look 740: White Bride Bachelorette Athleisure
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ![ele_740_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look740_white_bride_bachelorette_athleisure/ele_740_odalisque.png) |
+
+---
+
+## 👠 Look 739: White Honeymoon Triangle Bikini
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_739_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look739_white_honeymoon_triangle_bikini/ele_739_standing.png) | ![ele_739_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look739_white_honeymoon_triangle_bikini/ele_739_back_view.png) | ![ele_739_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look739_white_honeymoon_triangle_bikini/ele_739_seated.png) | ![ele_739_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look739_white_honeymoon_triangle_bikini/ele_739_side_profile.png) | ![ele_739_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look739_white_honeymoon_triangle_bikini/ele_739_ditzy.png) | ![ele_739_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look739_white_honeymoon_triangle_bikini/ele_739_pov.png) | ![ele_739_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look739_white_honeymoon_triangle_bikini/ele_739_odalisque.png) |
+
+---
+
+## 👠 Look 738: Ivory Wedding Night Harness
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_738_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look738_ivory_wedding_night_harness/ele_738_standing.png) | ![ele_738_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look738_ivory_wedding_night_harness/ele_738_back_view.png) | ![ele_738_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look738_ivory_wedding_night_harness/ele_738_seated.png) | ![ele_738_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look738_ivory_wedding_night_harness/ele_738_side_profile.png) | ![ele_738_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look738_ivory_wedding_night_harness/ele_738_ditzy.png) | ![ele_738_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look738_ivory_wedding_night_harness/ele_738_pov.png) | ![ele_738_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look738_ivory_wedding_night_harness/ele_738_odalisque.png) |
+
+---
+
+## 👠 Look 737: White Afterparty Bride Sequin
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_737_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look737_white_afterparty_bride_sequin/ele_737_standing.png) | ![ele_737_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look737_white_afterparty_bride_sequin/ele_737_back_view.png) | ![ele_737_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look737_white_afterparty_bride_sequin/ele_737_seated.png) | ![ele_737_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look737_white_afterparty_bride_sequin/ele_737_side_profile.png) | ![ele_737_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look737_white_afterparty_bride_sequin/ele_737_ditzy.png) | ![ele_737_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look737_white_afterparty_bride_sequin/ele_737_pov.png) | ![ele_737_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look737_white_afterparty_bride_sequin/ele_737_odalisque.png) |
+
+---
+
+## 👠 Look 736: White Bridal Armor Schiaparelli
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_736_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/ele_736_standing.png) | ![ele_736_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/ele_736_back_view.png) | ![ele_736_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/ele_736_seated.png) | ![ele_736_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/ele_736_side_profile.png) | ![ele_736_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/ele_736_ditzy.png) | ![ele_736_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/ele_736_pov.png) | ![ele_736_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/ele_736_odalisque.png) |
+
+---
+
+## 👠 Look 735: White Vegas Wedding Wiggle
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_735_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look735_white_vegas_wedding_wiggle/ele_735_standing.png) | ![ele_735_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look735_white_vegas_wedding_wiggle/ele_735_back_view.png) | ![ele_735_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look735_white_vegas_wedding_wiggle/ele_735_seated.png) | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 719: Pinup Bubblegum Pink
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_719_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look719_pinup_bubblegum_pink/ele_719_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 718: Domestic Pastel Blue Maid
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_718_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look718_domestic_pastel_blue_maid/ele_718_standing.png) | ![ele_718_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look718_domestic_pastel_blue_maid/ele_718_back_view.png) | ![ele_718_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look718_domestic_pastel_blue_maid/ele_718_seated.png) | ![ele_718_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look718_domestic_pastel_blue_maid/ele_718_side_profile.png) | ![ele_718_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look718_domestic_pastel_blue_maid/ele_718_ditzy.png) | ![ele_718_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look718_domestic_pastel_blue_maid/ele_718_pov.png) | ![ele_718_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look718_domestic_pastel_blue_maid/ele_718_odalisque.png) |
+
+---
+
+## 👠 Look 717: Bikini Magenta Yellow
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_717_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look717_bikini_magenta_yellow/ele_717_standing.png) | ![ele_717_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look717_bikini_magenta_yellow/ele_717_back_view.png) | ![ele_717_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look717_bikini_magenta_yellow/ele_717_seated.png) | ![ele_717_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look717_bikini_magenta_yellow/ele_717_side_profile.png) | ![ele_717_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look717_bikini_magenta_yellow/ele_717_ditzy.png) | ![ele_717_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look717_bikini_magenta_yellow/ele_717_pov.png) | ![ele_717_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look717_bikini_magenta_yellow/ele_717_odalisque.png) |
+
+---
+
+## 👠 Look 710: Wushu Dojo Wetlook
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_710_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look710_wushu_dojo_wetlook/ele_710_standing.png) | ![ele_710_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look710_wushu_dojo_wetlook/ele_710_back_view.png) | ![ele_710_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look710_wushu_dojo_wetlook/ele_710_seated.png) | ![ele_710_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look710_wushu_dojo_wetlook/ele_710_side_profile.png) | ![ele_710_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look710_wushu_dojo_wetlook/ele_710_ditzy.png) | ![ele_710_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look710_wushu_dojo_wetlook/ele_710_pov.png) | ![ele_710_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look710_wushu_dojo_wetlook/ele_710_odalisque.png) |
+
+---
+
+## 👠 Look 708: Ming Porcelain Chain Bikini
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_708_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look708_ming_porcelain_chain_bikini/ele_708_standing.png) | ![ele_708_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look708_ming_porcelain_chain_bikini/ele_708_back_view.png) | ![ele_708_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look708_ming_porcelain_chain_bikini/ele_708_seated.png) | ![ele_708_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look708_ming_porcelain_chain_bikini/ele_708_side_profile.png) | ![ele_708_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look708_ming_porcelain_chain_bikini/ele_708_ditzy.png) | ![ele_708_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look708_ming_porcelain_chain_bikini/ele_708_pov.png) | ![ele_708_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look708_ming_porcelain_chain_bikini/ele_708_odalisque.png) |
+
+---
+
+## 👠 Look 707: Latex Cheongsam Maid
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_707_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look707_latex_cheongsam_maid/ele_707_standing.png) | ![ele_707_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look707_latex_cheongsam_maid/ele_707_back_view.png) | ![ele_707_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look707_latex_cheongsam_maid/ele_707_seated.png) | ![ele_707_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look707_latex_cheongsam_maid/ele_707_side_profile.png) | ![ele_707_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look707_latex_cheongsam_maid/ele_707_ditzy.png) | ![ele_707_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look707_latex_cheongsam_maid/ele_707_pov.png) | ![ele_707_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look707_latex_cheongsam_maid/ele_707_odalisque.png) |
+
+---
+
+## 👠 Look 706: Kunoichi Dragon Pole
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_706_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look706_kunoichi_dragon_pole/ele_706_standing.png) | ![ele_706_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look706_kunoichi_dragon_pole/ele_706_back_view.png) | ![ele_706_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look706_kunoichi_dragon_pole/ele_706_seated.png) | ![ele_706_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look706_kunoichi_dragon_pole/ele_706_side_profile.png) | ![ele_706_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look706_kunoichi_dragon_pole/ele_706_ditzy.png) | ![ele_706_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look706_kunoichi_dragon_pole/ele_706_pov.png) | ![ele_706_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look706_kunoichi_dragon_pole/ele_706_odalisque.png) |
+
+---
+
+## 👠 Look 705: Neon Harajuku Cyberqipao
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_705_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look705_neon_harajuku_cyberqipao/ele_705_standing.png) | ![ele_705_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look705_neon_harajuku_cyberqipao/ele_705_back_view.png) | ![ele_705_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look705_neon_harajuku_cyberqipao/ele_705_seated.png) | ![ele_705_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look705_neon_harajuku_cyberqipao/ele_705_side_profile.png) | ![ele_705_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look705_neon_harajuku_cyberqipao/ele_705_ditzy.png) | ![ele_705_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look705_neon_harajuku_cyberqipao/ele_705_pov.png) | ![ele_705_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look705_neon_harajuku_cyberqipao/ele_705_odalisque.png) |
+
+---
+
+## 👠 Look 703: Geisha Sakura Boudoir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_703_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look703_geisha_sakura_boudoir/ele_703_standing.png) | ![ele_703_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look703_geisha_sakura_boudoir/ele_703_back_view.png) | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 701: Peacock Empress Couture
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_701_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look701_peacock_empress_couture/ele_701_standing.png) | ![ele_701_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look701_peacock_empress_couture/ele_701_back_view.png) | ![ele_701_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look701_peacock_empress_couture/ele_701_seated.png) | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 700: Cerise Sequin All Nighter
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
@@ -17,6 +225,54 @@
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![ele_699_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_standing.png) | ![ele_699_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_back_view.png) | ![ele_699_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_seated.png) | ![ele_699_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_side_profile.png) | ![ele_699_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_ditzy.png) | ![ele_699_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_pov.png) | ![ele_699_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_odalisque.png) |
+
+---
+
+## 👠 Look 697: Raspberry Pink Latex Siren
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_697_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_standing.png) | ![ele_697_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_back_view.png) | ![ele_697_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_seated.png) | ![ele_697_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_side_profile.png) | ![ele_697_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_ditzy.png) | ![ele_697_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_pov.png) | ![ele_697_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_odalisque.png) |
+
+---
+
+## 👠 Look 696: Champagne Pink Liquid Escort
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_696_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look696_champagne_pink_liquid_escort/ele_696_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 👠 Look 695: Dusty Rose Athletic Skort
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_695_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_standing.png) | ![ele_695_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_back_view.png) | ![ele_695_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_seated.png) | ![ele_695_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_side_profile.png) | ![ele_695_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_ditzy.png) | ![ele_695_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_pov.png) | ![ele_695_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_odalisque.png) |
+
+---
+
+## 👠 Look 694: Neon Fuchsia Sweat Glam
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_694_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_standing.png) | ![ele_694_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_back_view.png) | ![ele_694_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_seated.png) | ![ele_694_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_side_profile.png) | ![ele_694_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_ditzy.png) | ![ele_694_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_pov.png) | ![ele_694_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_odalisque.png) |
+
+---
+
+## 👠 Look 693: Coral Pink Polkadot Darling
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_693_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_standing.png) | ![ele_693_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_back_view.png) | ![ele_693_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_seated.png) | ![ele_693_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_side_profile.png) | ![ele_693_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_ditzy.png) | ![ele_693_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_pov.png) | ![ele_693_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_odalisque.png) |
+
+---
+
+## 👠 Look 691: Bubblegum Latex Bombshell
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_691_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look691_bubblegum_latex_bombshell/ele_691_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ---
 
@@ -544,7 +800,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_601_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look601_gym_pink_flash/ele_601_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![ele_601_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look601_gym_pink_flash/ele_601_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_601_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look601_gym_pink_flash/ele_601_ditzy.png) |
 
 ---
 
@@ -2856,55 +3112,55 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_264_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_264_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_ditzy.png) |
+| ![ele_264_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_standing.png) | ![ele_264_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_back_view.png) | ![ele_264_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_seated.png) | ⏳ | ![ele_264_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_ditzy.png) |
 
 ---
 
 ## 👠 Look 263: Crimson Cannes Goddess
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_263_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_263_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_263_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_standing.png) | ![ele_263_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_back_view.png) | ![ele_263_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_seated.png) | ![ele_263_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_side_profile.png) | ![ele_263_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_ditzy.png) | ![ele_263_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_pov.png) | ![ele_263_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_odalisque.png) |
 
 ---
 
 ## 👠 Look 262: Sapphire Velvet Oscars Column
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_262_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_262_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_262_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_standing.png) | ![ele_262_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_back_view.png) | ![ele_262_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_seated.png) | ![ele_262_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_side_profile.png) | ![ele_262_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_ditzy.png) | ![ele_262_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_pov.png) | ![ele_262_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_odalisque.png) |
 
 ---
 
 ## 👠 Look 261: Champagne Pearl Mermaid Gala
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_261_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_261_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_261_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_standing.png) | ![ele_261_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_back_view.png) | ![ele_261_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_seated.png) | ![ele_261_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_side_profile.png) | ![ele_261_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_ditzy.png) | ![ele_261_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_pov.png) | ![ele_261_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_odalisque.png) |
 
 ---
 
 ## 👠 Look 260: Charcoal Sheer Office Siren Classic
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_260_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_260_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_260_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_260_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) | ⏳ | ![ele_260_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_odalisque.png) |
 
 ---
 
 ## 👠 Look 259: Navy Gold Schiaparelli Gilded Office
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_259_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_259_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_259_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_standing.png) | ![ele_259_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_back_view.png) | ![ele_259_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_seated.png) | ![ele_259_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_side_profile.png) | ![ele_259_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_ditzy.png) | ![ele_259_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_pov.png) | ![ele_259_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_odalisque.png) |
 
 ---
 
 ## 👠 Look 258: Deep Teal Schiaparelli Scorpion Couture
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_258_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_258_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_258_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_standing.png) | ![ele_258_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_back_view.png) | ![ele_258_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_seated.png) | ![ele_258_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_side_profile.png) | ![ele_258_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_ditzy.png) | ![ele_258_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_pov.png) | ![ele_258_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_odalisque.png) |
 
 ---
 
@@ -2926,9 +3182,9 @@
 
 ## 👠 Look 255: Electric Blue 80S Synthpower
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_255_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_255_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_255_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png) | ![ele_255_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_back_view.png) | ![ele_255_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_seated.png) | ![ele_255_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_side_profile.png) | ![ele_255_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png) | ![ele_255_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_pov.png) | ![ele_255_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_odalisque.png) |
 
 ---
 
@@ -2982,17 +3238,17 @@
 
 ## 👠 Look 248: Hot Pink Espalda Abierta Choker
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_248_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_standing.png) | ⏳ | ⏳ | ⏳ | ![ele_248_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_248_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_standing.png) | ![ele_248_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_back_view.png) | ![ele_248_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_seated.png) | ![ele_248_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_side_profile.png) | ![ele_248_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_ditzy.png) | ![ele_248_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_pov.png) | ![ele_248_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_odalisque.png) |
 
 ---
 
 ## 👠 Look 247: Emerald Sugar Baby Bodycon
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_247_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_standing.png) | ![ele_look247_emerald_sugar_baby_bodycon_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_look247_emerald_sugar_baby_bodycon_back_view.png) | ![ele_247_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_seated.png) | ⏳ | ![ele_247_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_ditzy.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_247_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_standing.png) | ![ele_look247_emerald_sugar_baby_bodycon_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_look247_emerald_sugar_baby_bodycon_back_view.png) | ![ele_247_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_seated.png) | ![ele_247_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_side_profile.png) | ![ele_247_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_ditzy.png) | ![ele_247_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_pov.png) | ![ele_247_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_odalisque.png) |
 
 ---
 
@@ -3056,7 +3312,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_239_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_standing.png) | ![ele_239_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_back_view.png) | ⏳ | ![ele_239_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_side_profile.png) | ![ele_239_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_ditzy.png) | ![ele_239_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_pov.png) | ![ele_239_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_odalisque.png) |
+| ![ele_239_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_standing.png) | ![ele_239_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_back_view.png) | ![ele_239_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_seated.png) | ![ele_239_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_side_profile.png) | ![ele_239_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_ditzy.png) | ![ele_239_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_pov.png) | ![ele_239_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_odalisque.png) |
 
 ---
 
@@ -3072,7 +3328,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_237_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_standing.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_back_view.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_seated.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_side_profile.png) | ![ele_237_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_ditzy.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_pov.png) | ⏳ |
+| ![ele_237_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_standing.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_back_view.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_seated.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_side_profile.png) | ![ele_237_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_ditzy.png) | ![ele_look237_charcoal_lavender_crop_hoodie_ood_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_look237_charcoal_lavender_crop_hoodie_ood_pov.png) | ![ele_237_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_odalisque.png) |
 
 ---
 
@@ -3632,7 +3888,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_167_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_standing.png) | ![ele_167_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_back_view.png) | ![ele_167_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_seated.png) | ![ele_167_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_side_profile.png) | ![ele_167_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_ditzy.png) | ![ele_167_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_pov.png) | ![ele_167_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_lying.png) |
+| ![ele_167_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_standing.png) | ![ele_167_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_back_view.png) | ![ele_167_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_seated.png) | ![ele_167_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_side_profile.png) | ![ele_167_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_ditzy.png) | ![ele_167_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_pov.png) | ![ele_167_ditzy_retry.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_ditzy_retry.png) |
 
 ---
 
@@ -3640,7 +3896,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_166_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose1_standing.png) | ![ele_166_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose2_back.png) | ![ele_166_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose3_seated.png) | ![ele_166_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose4_side_profile.png) | ![ele_166_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose5_ditzy.png) | ![ele_166_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose6_pov.png) | ![ele_166_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose7_lying.png) |
+| ![ele_166_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose1_standing.png) | ![ele_166_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_back_view.png) | ![ele_166_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose3_seated.png) | ![ele_166_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose4_side_profile.png) | ![ele_166_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_ditzy.png) | ![ele_166_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose6_pov.png) | ![ele_166_back_view_repo.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_back_view_repo.png) |
 
 ---
 
@@ -3648,7 +3904,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_165_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose1_standing.png) | ![ele_165_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose2_back.png) | ![ele_165_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose3_seated.png) | ![ele_165_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose4_side_profile.png) | ![ele_165_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose5_ditzy.png) | ![ele_165_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose6_pov.png) | ![ele_165_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose7_lying.png) |
+| ![ele_165_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose1_standing.png) | ![ele_165_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_back.png) | ![ele_165_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose3_seated.png) | ![ele_165_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose4_side_profile.png) | ![ele_165_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_ditzy.png) | ![ele_165_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose6_pov.png) | ![ele_165_ditzy_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look165_neon_lime_gym/ele_165_ditzy_v2.png) |
 
 ---
 
@@ -3656,7 +3912,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_164_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose1_standing.png) | ![ele_164_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose2_back.png) | ![ele_164_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose3_seated.png) | ![ele_164_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose4_side_profile.png) | ![ele_164_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose5_ditzy.png) | ![ele_164_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose6_pov.png) | ![ele_164_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose7_lying.png) |
+| ![ele_164_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose1_standing.png) | ![ele_164_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_back.png) | ![ele_164_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose3_seated.png) | ![ele_164_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose4_side_profile.png) | ![ele_164_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_ditzy.png) | ![ele_164_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose6_pov.png) | ![ele_164_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/ele_164_lying.png) |
 
 ---
 
@@ -3670,9 +3926,9 @@
 
 ## 👠 Look 162: Pvc Maid Fantasy
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![pose1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png) | ![pose2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose2.png) | ![pose3.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose3.png) | ![pose4.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose4.png) | ![pose5.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png) |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_162_pose1_standing_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pose1_standing_v2.png) | ![ele_162_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pose2_back.png) | ![ele_162_pose3_seated_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pose3_seated_v2.png) | ![ele_162_pose7_lying_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pose7_lying_v2.png) | ![ele_162_pose5_ditzy_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pose5_ditzy_v2.png) | ![ele_162_pose6_pov_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pose6_pov_v2.png) | ![pose1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png) |
 
 ---
 
@@ -3680,7 +3936,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_161_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) | ![ele_161_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) | ![ele_161_pose3_seated_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated_v2.png) | ![ele_161_pose4_side_profile_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile_v2.png) | ![ele_161_pose5_ditzy_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy_v2.png) | ![ele_161_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose6_pov.png) | ![ele_161_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose7_lying.png) |
+| ![ele_161_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) | ![ele_161_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_back_view.png) | ![ele_161_pose3_seated_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated_v2.png) | ![ele_161_pose4_side_profile_v2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile_v2.png) | ![ele_161_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_ditzy.png) | ![ele_161_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose6_pov.png) | ![ele_161_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) |
 
 ---
 
@@ -3688,7 +3944,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_160_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | ![ele_160_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) | ![ele_160_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose3_seated.png) | ![ele_160_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose4_side_profile.png) | ![ele_160_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose5_ditzy.png) | ![ele_160_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose6_pov.png) | ![ele_160_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose7_lying.png) |
+| ![ele_160_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | ![ele_160_lying_down.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_lying_down.png) | ![ele_160_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose3_seated.png) | ![ele_160_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose4_side_profile.png) | ![ele_160_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_ditzy.png) | ![ele_160_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose6_pov.png) | ![ele_160_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) |
 
 ---
 
@@ -3712,7 +3968,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_157_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_standing.png) | ![ele_157_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_back.png) | ![ele_157_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_seated.png) | ![ele_157_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_lying.png) | ![ele_157_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_ditzy.png) | ![ele_157_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pov.png) | ![ele_157_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_side.png) |
+| ![ele_157_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose1_standing.png) | ![ele_157_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_back_view.png) | ![ele_157_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose3_seated.png) | ![ele_157_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose4_side_profile.png) | ![ele_157_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_ditzy.png) | ![ele_157_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose6_pov.png) | ![ele_157_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_back.png) |
 
 ---
 
@@ -3720,7 +3976,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_156_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png) | ![ele_156_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png) | ![ele_156_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png) | ![ele_156_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) | ![ele_156_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) | ![ele_156_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png) | ![ele_156_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose7_lying.png) |
+| ![ele_156_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png) | ![ele_156_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png) | ![ele_156_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png) | ![ele_156_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) | ![ele_156_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) | ![ele_156_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png) | ![ele_156_pose3_seated_retry.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated_retry.png) |
 
 ---
 
@@ -3744,7 +4000,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_look153_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose1_standing.png) | ![ele_look153_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose2_back.png) | ![ele_look153_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose3_seated.png) | ![ele_look153_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose4_side_profile.png) | ![ele_look153_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose5_ditzy.png) | ![ele_look153_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose6_pov.png) | ![ele_look153_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose7_lying.png) |
+| ![ele_153_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_153_standing.png) | ![ele_look153_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose1_standing.png) | ![ele_look153_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose3_seated.png) | ![ele_look153_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose4_side_profile.png) | ![ele_look153_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose5_ditzy.png) | ![ele_look153_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose6_pov.png) | ![ele_look153_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose2_back.png) |
 
 ---
 
@@ -3752,7 +4008,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_look152_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose1_standing.png) | ![ele_look152_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose2_back.png) | ![ele_look152_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose3_seated.png) | ![ele_look152_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose4_side_profile.png) | ![ele_look152_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose5_ditzy.png) | ![ele_look152_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose6_pov.png) | ![ele_look152_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose7_lying.png) |
+| ![ele_152_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_standing.png) | ![ele_152_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_lying.png) | ![ele_152_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_seated.png) | ![ele_152_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_side_profile.png) | ![ele_152_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_ditzy.png) | ![ele_look152_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose6_pov.png) | ![ele_look152_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose1_standing.png) |
 
 ---
 
@@ -3824,7 +4080,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![ele_143_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose1_standing.png) | ![ele_143_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose2_back.png) | ![ele_143_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose3_seated.png) | ![ele_143_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose4_side_profile.png) | ![ele_143_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose5_ditzy.png) | ![ele_143_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose6_pov.png) | ![ele_143_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose7_lying.png) |
+| ![ele_143_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose1_standing.png) | ![ele_143_back_escort.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_back_escort.png) | ![ele_143_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose3_seated.png) | ![ele_143_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose4_side_profile.png) | ![ele_143_ditzy_escort.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_ditzy_escort.png) | ![ele_143_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose6_pov.png) | ![ele_143_back_escort_v3.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_back_escort_v3.png) |
 
 ---
 
@@ -3880,7 +4136,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_136_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) | ![ele_136_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_back.png) | ![ele_136_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_seated.png) | ![ele_136_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_side_profile.png) | ⏳ |
+| ![ele_136_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) | ![ele_136_back_view_v1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_back_view_v1.png) | ![ele_136_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_seated.png) | ![ele_136_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_side_profile.png) | ![ele_136_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_back.png) |
 
 ---
 
@@ -3928,7 +4184,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![ele_130_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_standing.png) | ![ele_130_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_back_view.png) | ![ele_130_seated_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_v0.png) | ![ele_130_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_side_profile.png) | ![ele_130_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_ditzy.png) |
+| ![ele_130_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_standing.png) | ![ele_130_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_back_view.png) | ![ele_130_seated_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_seated_png.png) | ![ele_130_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_side_profile.png) | ![ele_130_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop/ele_130_ditzy.png) |
 
 ---
 
