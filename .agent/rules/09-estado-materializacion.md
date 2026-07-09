@@ -8,9 +8,9 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - **Rango analizado:** `look200_*` a `look300_*`
 - **Total de prompts registrados (L200-L300):** 338
 - **Imágenes esperadas (4 poses por look aprox + extras):** 338
-- **Total imágenes encontradas físicamente:** 260
-- **Imágenes materializadas recientemente:** 17 (de los looks 237, 239, 244, 245 y 247).
-- **Faltantes reales restantes:** 78 imágenes.
+- **Total imágenes encontradas físicamente:** 277
+- **Imágenes materializadas recientemente:** 17 (de los looks 265, 266, 267 y 268).
+- **Faltantes reales restantes:** 61 imágenes.
 
 > [!WARNING]
 > La generación masiva de imágenes faltantes (L200-300) se ha pausado por límite de quota de la API (429 Too Many Requests). Se reanudará en ~5 horas.

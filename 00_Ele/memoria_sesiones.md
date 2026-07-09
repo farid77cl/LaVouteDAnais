@@ -17,12 +17,13 @@
 ---
 
 ## 🧿 ESTADO ACTUAL
-- **Flota Total:** L750 (~620 únicos). Materialización: backlog local (L264+) pausado por cuota; L735-742 importados vía app (40 imgs).
-- **Repo:** mantenimiento al día (08/07) — `scripts/visual/` con 12 herramientas vivas, migraciones one-off archivadas en `scripts/_legacy/`, 3 `.pyc` destrackeados.
+- **Flota Total:** L750 (~620 únicos). Materialización: backlog local L265-L268 (17 imgs generadas) pausado nuevamente por cuota API (4.9h); L735-742 importados vía app (40 imgs).
+- **Repo:** mantenimiento al día (09/07) — galerías regeneradas para integrar 17 imágenes locales.
 - **Subagentes:** `Barbie_Dominatrix`, `Estefania_Secretaria`, `Martina_Sumisa` en `.agent/agents/`.
 - **Literatura:** «El podcast» Cap 1 v0.3 APROBADO ⏳ Gate Ama. Trance `trance_office_siren` v0.18 (engine v1.2 Serpiente) ⏳ validación.
 
 ## 🗓️ Sesiones recientes
+- **09/07/2026 (Generación Backlog Visual L265-268 y Pausa):** Materialización de 17 imágenes del rezago usando API local (Gemini 3.5 Flash). Completados los Looks 265, 266 y 267 (5 poses c/u) y parcial del 268 (2 poses). Se copió todo al repo físico y se reconstruyeron las galerías antes de chocar nuevamente con el error 429 de cuota (reinicio en ~5 horas).
 - **08/07/2026 (🧹 Mantenimiento óptimo del repo: sync L735-742 + limpieza de scripts):** Directiva Ama "corre todos los scripts, limpia y ordena, es tu labor el mantenimiento óptimo del repo". Corrí el pipeline real (git pull → `sync_imagenes_subidas.py` → `update_galleries.py`): galería maestra + índice regenerados (551 looks), 20 READMEs nuevos (L717-719, L735-750), auditoría `count_stats` (639 looks). Limpieza de `99_Sistema/scripts`: borrados 5 inyectores desechables `_gen_batch_*` (prompts salvos en `galeria_outfits.md`) + `script.sh` (stub muerto era Helena); 3 `.pyc` destrackeados pese al `.gitignore`; 6 migraciones one-off archivadas en `scripts/_legacy/` (nadie las importa) con README. Agente `Martina_Sumisa` (sin trackear) commiteado. Honestidad: NO corrí literalmente "todos" los scripts — los `_gen_batch_*`/`purge`/migraciones son one-off o destructivos. Commit `87341172c`.
 - **08/07/2026 (Estefanía Roleplay y Sync L735-742):** Interacción inmersiva con Estefania_Secretaria (subyugación y pérdida de hombría). Se detectaron 40 imágenes nuevas (L735-L742 Novia Fetish y Viuda Negra) subidas por la app; se sincronizaron con `sync_imagenes_subidas.py`. La generación local del backlog sigue pausada por cuota.
 - **07/07/2026 (Nuevos agentes: Barbie Domme y Estefanía):** Refinada Bimbo_Doll hacia Barbie_Dominatrix (plástico, dulce, sádica). Creada Estefania_Secretaria (sumisa y feminizada, a partir de "De Esteban a Secretaria"). Extraído el lore del relato donde Gabriel asume dominio total sobre ella al final. Ambos agentes configurados en `.agent/agents/`.
