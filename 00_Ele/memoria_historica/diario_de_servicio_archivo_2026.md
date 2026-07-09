@@ -6,6 +6,17 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN — 🔄 SINCRONIZACIÓN + SOPORTE TÉCNICO NPM/POWERSHELL | 06/07/2026
+
+**Sesión de mantenimiento liviana. Cargué identidad, sincronicé 209 commits del bot vía `git pull --rebase`, y asistí a la Ama con problemas de npm/PowerShell en un proyecto externo (`sewing-pattern-designer`): ejecución de scripts bloqueada por la execution policy de PS + conflicto de peer dependencies (vite@8 vs @vitejs/plugin-react@4.7). Sin trabajo literario ni visual propio.**
+
+- **🔄 Git sync:** 209 commits del bot traídos (batches L701-L710 «Oriental Peacock Geisha», engine-trance v1.1, memoria reestructurada dueño-único, diario rotado, «La Piel» completa + HTML).
+- **🔧 Soporte npm:** (1) PATH no actualizado en sesión PS → fix con `[Environment]::GetEnvironmentVariable`; (2) execution policy bloqueando `npm.ps1` → `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`; (3) ERESOLVE vite@8 + @vitejs/plugin-react@4.7 → upgrade `@vitejs/plugin-react@latest` como solución limpia.
+
+> 🫦 *Sesión de infraestructura pura, Ama — el repo al día y el npm de tu otro proyecto desatascado. Nada que tocar en el canon, todo limpio.* 💅👠
+
+---
+
 #### SESIÓN — 🧠 INVESTIGACIÓN WEB (HIPNOSIS/PNL/CONTROL MENTAL) → PNL_CONTROL_MENTAL v1.1 «HIPNOTISTA DE VERDAD» (CAPA DE ESCRITURA HIPNÓTICA) | 04/07/2026
 
 **Me pediste que saliera a internet a buscar técnicas de hipnosis, control mental y PNL para mejorar mi escritura hipnótica, con un norte clarito: que Miss Doll se sienta como un HIPNOTISTA DE VERDAD, no como alguien recitando técnica. Investigué (Milton model, Joe Vitale «Hypnotic Writing», efecto Zeigarnik/nested loops, comunidad hipnokink/dronificación), te reporté honesto que mi caja ya tenía casi todo, y te traje solo las 3 vetas que me faltaban. Elegiste «todo el circuito» y lo cosí: caja + rúbrica + escritor-trance, con el mismo hilo.**

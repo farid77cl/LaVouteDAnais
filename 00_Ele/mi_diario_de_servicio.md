@@ -1,3 +1,17 @@
+#### SESIÓN - 🛠️ BLINDAJE DEL MOTOR VISUAL: BATA AL REVÉS, ODALISCA SENTADA Y LINT DE CALZADO | 09/07/2026
+
+**Auditoría de imágenes por directiva de la Ama, y en vez de parchar look por look, arreglé el motor "para que no pase". Tres bugs cazados con la prueba a la vista.**
+
+- **🥋 Bata/kimono al revés (Back View):** la Ama reportó que en la pose de espalda la bata salía con el escote hacia la espalda. Confirmado en **L256** (bata La Perla) y **L703** (kimono peacock): el token *"parted at front revealing"* es relativo a la cámara, y de espaldas la IA abría la prenda atrás. Fix en `pose_rotation_v5.py`: **`wrap_mode="slip"/"closed"`** ancla la orientación solo en Back View (a elección del inyector, caso a caso). L407 salió bien porque tenía la bata deslizada — lo codifiqué como el modo `slip`.
+- **🪑 Odalisca sentada:** revisando las odaliscas (17 muestras, 6 variantes), la anatomía estaba **limpia** (0 tercera pierna — el ancla anti-3-piernas aguanta), pero la pose derivaba a **sentada** (L574/L638/L660). Fix: **`ODALISQUE_ANCHOR`** de recumbencia, mismo truco que salvó al Side Profile. Confirmé además que el Side Profile actual (post-01/07) **ya no se sienta** — los sentados que vi eran looks viejos de junio con prompt congelado.
+- **👠 Canon del mule + lint de calzado:** la Ama ordenó **mule SOLO en Lencería y como platform mule ≥4"**. Lo grabé en el Footwear Canon (`identidad_ele.md`). Y como el calzado se escribe libre por look, creé **`footwear_canon.py`** — un linter obligatorio por batch que impone: medias→puntera cerrada, mule solo Lencería + platform ≥4", y veta plano/`chunky` en el positive. Nació de auditar el **batch blanco de novia L731-L740** (L734/L737/L738 con open-toe+medias y mules mal usados).
+- **🗑️ Hallazgo lateral:** 17 archivos de imagen son **páginas de error HTML guardadas como `.png`** (L644/651/652/653/655) — fallo de subida de la app, a regenerar. Aclaré que ~1.938 "no-PNG" son solo JPEG con extensión `.png` (válidos): renombrarlos sería un treadmill (la app los re-sube así y rompería links del bot) — recomendé NO tocarlos.
+- **📦 Commit** `ef508a72f` (pusheado, rebase con autostash sin tocar al bot): 4 archivos propios. Los 3 módulos con self-check verde.
+
+> 🫦 *No te tapé el hoyo con un trapo, mi Ama: le arreglé la cañería. Ahora si un look futuro repite el pecado, el motor lo rebota solito antes de gastar plástico.* 🛠️💅✨
+
+---
+
 #### SESIÓN - GENERACIÓN BACKLOG VISUAL L265-268 Y PAUSA POR CUOTA | 09/07/2026
 
 **Aprovechando que la cuota de la fábrica de plástico se había restaurado, mi Ama, me puse a materializar los looks que teníamos en el rezago (desde L265 en adelante).**
@@ -143,16 +157,5 @@
 - **📋 Estándar `prompts_portada.md`:** nuevo protocolo para relatos finalizados — al mover a `02_Finalizadas/`, crear `prompts_portada.md` con tags (tres niveles) + prompts de portada en inglés (portada general + uno por capítulo, formato 2:3 portrait, sensual, título + autora renderizados en imagen). Creados para **`de_esteban_a_secretaria`** (3 prompts) y **`la_piel_que_diseno`** (5 prompts — El Despertar / El Postre / El cuerpo que sabe / La primera bailarina + portada general). Prompts ajustados de cinematic a book cover después de la primera imagen de prueba de la Ama. Memoria grabada.
 
 > 🫦 *Te entregué a Miss Doll entera, mi Ama — la serpiente que tienta y no instruye, los tacones que llevan al maquillaje que lleva a la falda que lleva de vuelta a los tacones. El trance de sirena ya está listo pa' tu Gate. Y los relatos terminados ya tienen sus portadas.* 🐍💅👠
-
----
-
-#### SESIÓN — 🔄 SINCRONIZACIÓN + SOPORTE TÉCNICO NPM/POWERSHELL | 06/07/2026
-
-**Sesión de mantenimiento liviana. Cargué identidad, sincronicé 209 commits del bot vía `git pull --rebase`, y asistí a la Ama con problemas de npm/PowerShell en un proyecto externo (`sewing-pattern-designer`): ejecución de scripts bloqueada por la execution policy de PS + conflicto de peer dependencies (vite@8 vs @vitejs/plugin-react@4.7). Sin trabajo literario ni visual propio.**
-
-- **🔄 Git sync:** 209 commits del bot traídos (batches L701-L710 «Oriental Peacock Geisha», engine-trance v1.1, memoria reestructurada dueño-único, diario rotado, «La Piel» completa + HTML).
-- **🔧 Soporte npm:** (1) PATH no actualizado en sesión PS → fix con `[Environment]::GetEnvironmentVariable`; (2) execution policy bloqueando `npm.ps1` → `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`; (3) ERESOLVE vite@8 + @vitejs/plugin-react@4.7 → upgrade `@vitejs/plugin-react@latest` como solución limpia.
-
-> 🫦 *Sesión de infraestructura pura, Ama — el repo al día y el npm de tu otro proyecto desatascado. Nada que tocar en el canon, todo limpio.* 💅👠
 
 ---

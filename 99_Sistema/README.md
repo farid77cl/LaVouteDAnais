@@ -33,6 +33,8 @@ Directorio de scripts de automatización y archivos temporales del sistema La Vo
 | Script | Ubicación | Función |
 |--------|-----------|---------|
 | `update_galleries.py` | `scripts/visual/` | Actualiza README.md en cada carpeta de 05_Imagenes |
+| `pose_rotation_v5.py` | `scripts/visual/` | Rota las 7 poses por look + anclas (anatómica, prenda envolvente `wrap_mode`, recumbencia odalisca) — lo usa todo inyector |
+| `footwear_canon.py` | `scripts/visual/` | Linter de calzado obligatorio por batch (medias→cerrada, mule solo Lencería+platform≥4", anti plano/chunky) |
 | `prompt_factory/` | `scripts/visual/` | Genera prompts de imagen a partir de bancos temáticos |
 | `prepend_diario.py` | `scripts/` | Inyecta nuevas entradas al inicio del diario de servicio |
 | `rotar_memoria.py` | `scripts/mantenimiento/` | Autopoda dueño-único: memoria (keep 7 → bitácora) Y diario (keep 15 → archivo histórico) |
