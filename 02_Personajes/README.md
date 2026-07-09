@@ -43,6 +43,7 @@ El archivo de personajes está organizado por categorías para facilitar la gest
 | Hombre | Yūrei | Milk |
 | Hombre | Sofía | Le Miroir d'Anaïs |
 | María | Mary | Superficie |
+| Clara | Clara (Stepford) | Smart Home: Protocolo Stepford |
 | Bunny | Bunny | Trance Bimbodoll |
 | María | Belén | Labial Rojo |
 | Marcos | Isabella | El Giro del Espejo |
