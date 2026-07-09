@@ -3,19 +3,25 @@
 *Secuela de «Smart Home: Protocolo Stepford». Motor: `engine-escritura-lv` v4.7 (Nivel 4).*
 
 ## Estado Actual
-- **Fase:** 1 — Composición del Canon (⏳ en curso)
-- **Capítulo Activo:** — (ninguno escrito)
-- **Archivo Activo:** `canon_relato.md` (en producción por el `compositor`)
-- **Último Gate Aprobado:** Pitch v2 — 09/07/2026
-- **Próxima Acción:** recibir `canon_relato.md` + `cronologia.md` → **Gate de la Ama** sobre el canon.
+- **Fase:** 3 — Validación ✅ **APROBADO** · ⏳ **Gate de la Ama** sobre el Cap 1
+- **Capítulo Activo:** 1 — «La visita»
+- **Archivo Activo:** `capitulo_1_la_visita_v0.1.md` (7.075 palabras, prosa pura)
+- **Último Gate Aprobado:** Canon — 09/07/2026
+- **Próxima Acción:** Gate de la Ama sobre el Cap 1 → captura doble (voz_autoral + antologia_calenton) → Cap 2 «El collar».
 
 ## Historial de Fases
 | Fase | Estado | Fecha | Nota |
 |------|--------|-------|------|
 | 0 - Pitch | ✅ | 09/07 | v1 (externo, Antigravity) auditado y reescrito → v2 aprobado por la Ama |
-| 1 - Composición | ⏳ | 09/07 | Intake respondido por la Orquestadora (Ama delegó: "procede") |
-| 2 - Escritura | ⬜ | — | 4 capítulos, modo tramo |
-| 3 - Validación | ⬜ | — | — |
+| 1 - Composición | ✅ | 09/07 | `canon_relato.md` + `cronologia.md`. Gate aprobado. Corregido con la directiva del Jefe de Hogar |
+| 2 - Escritura Cap 1 | ✅ | 09/07 | 3 tramos. 7.075 palabras. Prosa pura verificada |
+| 3 - Validación Cap 1 | ✅ | 09/07 | **APROBADO** — Narrativa 9.4 · Temperatura 8.8 · 34 subrayables · 0 micro-fixes |
+
+## Cap 1 — notas del Validador
+- Los tres vetos duros del Cementerio respetados: EVE optimiza sin sadismo, Daniel no es titiritero (se duerme mientras Ignacio queda preso), Clara está vacía y no cruel.
+- Hechos plantados con origen escrito: H2, H3 (sobre Clara), H4, H5, H7. Cero callback fantasma.
+- **Lunar no bloqueante:** *"respuesta vascular esperable"* se reusa verbatim del registro de Esteban (`de_esteban_a_secretaria`). Decisión de la Ama en el Gate.
+- 6 frases candidatas a `voz_autoral.md` (entre ellas *"Pensar pone fea la cara… Aquí es rico"* y *"la casa había dejado de tener una puerta ahí"*).
 
 ## 🔴 Directiva de la Ama — 09/07/2026 (voz literal, es ley)
 
