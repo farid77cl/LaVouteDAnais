@@ -29,6 +29,8 @@ USO OBLIGATORIO en todo inyector de batch:
     poses = rotate_poses(look_number, seat="a leather throne", wall="a mirrored wall",
                          surface="a chrome console table")
     # poses -> [(slot, pose_direction_con_props_ya_resueltos), ...]
+    # Si el look usa prenda envolvente de frente abierto (robe/kimono/bata/peignoir/wrap):
+    #   poses = rotate_poses(look_number, ..., wrap_mode="slip")   # o "closed" (ver nota abajo)
     check_setting_variety([lk["setting"] for lk in LOOKS])
 
 Rotacion: variante = (look_number + offset_slot) % len(variantes). Paso 1 + offsets
@@ -50,6 +52,35 @@ FULL_ANCHOR  = "anatomically correct with exactly two arms, two hands each with 
 # POV"). El ancla de close-up ahora describe CALIDAD de mano SIN imponer el conteo de dos.
 HANDS_ANCHOR = "anatomically correct hands with exactly five fingers on each visible hand, no extra or malformed hands, no extra or fused fingers"
 CLOSEUP_SLOTS = {"Ditzy", "POV"}  # encuadre de cintura para arriba -> ancla de manos, no de piernas
+
+# ANCLA DE ORIENTACION DE PRENDA ENVOLVENTE (Ama 09/07/2026 — BUG "bata al reves"):
+# Las prendas de frente abierto (robe/kimono/peignoir/bata/wrap) se describen en el token de
+# vestuario como "gently parted at front revealing X / draped off the shoulders". Ese token se
+# pega IDENTICO en las 7 poses (Token de Vestuario Bloqueado). "at front revealing" es una
+# instruccion RELATIVA A LA CAMARA: en la Back View, con el cuerpo de espaldas, el generador
+# resuelve el choque poniendo la abertura ATRAS (corriendo por la columna) para poder "mostrar
+# el set" -> bata al reves, escote hacia la espalda (confirmado en L256 y L703). Faltaba anclar
+# la ORIENTACION de la prenda en la pose de espalda. Dos modos, a eleccion del inyector por look:
+#   "slip"   -> bata deslizada de los hombros, colgando de los brazos: espalda + lenceria al aire
+#               pero prenda FISICAMENTE correcta (la abertura va adelante; solo se resbalo). Es lo
+#               que hizo bien el L407. Default recomendado para boudoir (conserva el desnudo sensual).
+#   "closed" -> bata bien puesta: pano continuo cerrado cayendo por la columna (espalda cubierta).
+# Ver auto-memoria feedback_bata_reverso_espalda.
+WRAP_BACK_SLIP = "the open-front wrap garment (robe, kimono or peignoir) worn correctly but slipped off both shoulders to hang open from the forearms and elbows, its front opening and sash on the far side away from the camera, so the bare back and the lingerie underneath are exposed down the spine while the loose fabric drapes to the sides of the body and hangs from the arms, NOT parted or seamed down the spine, with no neckline, lapel or opening running down the back"
+WRAP_BACK_CLOSED = "the open-front wrap garment (robe, kimono or peignoir) worn correctly and facing forward, seen from behind as a single continuous closed panel of fabric draping straight down the spine to the hem, its front opening, lapels, neckline and sash knot all on the far side away from the camera and not visible from behind, with no parting, no seam and no neckline down the back"
+_WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED}
+
+# ANCLA DE RECUMBENCIA DE LA ODALISCA (Ama 09/07/2026 — BUG "odalisca sentada"):
+# La odalisca (pose recostada/languida) derivaba a SENTADA: el generador rendia la figura sentada
+# en el piso/mueble en vez de recostada (confirmado en L574 sentada sobre el cofre, L638 y L660
+# sentadas en el piso). Causa: varias variantes arrancan "semi-reclined propped on both elbows /
+# reclining back on both elbows" y "propped on both elbows" se lee como torso vertical sentado, sin
+# un ancla explicita de cuerpo horizontal. Es EL MISMO patron que ya arreglamos en Side Profile
+# (rendia siempre sentada hasta que forzamos "standing" explicito). Aqui forzamos "lying down /
+# horizontal / NOT sitting upright". Se prepende SOLO al slot Odalisque. Recomendado ademas anadir
+# al negative del inyector: `sitting upright, seated, sitting on the floor`. Ver auto-memoria
+# feedback_odalisca_sentada.
+ODALISQUE_ANCHOR = "lying down on the surface with the whole body low and horizontal, a reclining odalisque with the torso resting down toward the surface, NOT sitting upright and NOT seated"
 
 # Variantes: mantienen Principio Rector Fetish Model + nombran stiletto. {seat}/{wall}/{surface}
 # = mobiliario CONTEXTUAL que pone el inyector. NO incluyen el setting (eso se appendea).
@@ -152,15 +183,29 @@ SLOTS = [
  ("Odalisque", ODALISQUE, 2),
 ]
 
-def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface="a surface"):
+def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface="a surface", wrap_mode=None):
     """Devuelve [(slot, pose_direction)] de 7, rotados por nº de look y con props CONTEXTUALES.
-    seat/wall/surface deben describir mobiliario REAL del setting del look (armonia con el ambiente)."""
+    seat/wall/surface deben describir mobiliario REAL del setting del look (armonia con el ambiente).
+
+    wrap_mode (Ama 09/07/2026 — BUG "bata al reves"): si el look usa una prenda ENVOLVENTE de
+    frente abierto (robe/kimono/peignoir/bata/wrap), pasar wrap_mode para anclar la ORIENTACION
+    de la prenda SOLO en la pose de espalda (Back View), donde el generador la ponia al reves
+    (abertura corriendo por la columna). Valores: None (sin prenda envolvente) · "slip" (bata
+    deslizada de los hombros, espalda desnuda pero correcta — default recomendado boudoir) ·
+    "closed" (bata bien puesta, espalda cubierta). Ver auto-memoria feedback_bata_reverso_espalda."""
+    if wrap_mode not in (None, "slip", "closed"):
+        raise ValueError(f"wrap_mode invalido: {wrap_mode!r} (usa None, 'slip' o 'closed')")
+    wrap_anchor = _WRAP_ANCHORS.get(wrap_mode)
     out = []
     for name, variants, off in SLOTS:
         v = variants[(look_number + off) % len(variants)]
         v = v.replace("{seat}", seat).replace("{wall}", wall).replace("{surface}", surface)
         anchor = HANDS_ANCHOR if name in CLOSEUP_SLOTS else FULL_ANCHOR
+        if name == "Odalisque":
+            anchor = anchor + ", " + ODALISQUE_ANCHOR  # fuerza recumbencia (bug odalisca-sentada)
         v = anchor + ", " + v  # ancla anatomica automatica (ver nota arriba)
+        if name == "Back View" and wrap_anchor:
+            v = v + ", " + wrap_anchor  # ancla de orientacion de prenda envolvente (bug bata-al-reves)
         out.append((name, v))
     return out
 
@@ -212,3 +257,20 @@ if __name__ == "__main__":
         if not txt.startswith(want):
             miss.append(slot)
     print("Ancla anatomica check:", "LIMPIO (todas las poses anclan)" if not miss else "FALTA en: " + ", ".join(miss))
+    # Auto-check ancla de prenda envolvente (Ama 09/07 — bug bata-al-reves): con wrap_mode, SOLO
+    # la Back View lleva el ancla de orientacion; sin wrap_mode, ninguna pose la lleva.
+    def _bv(poses): return dict(poses)["Back View"]
+    ok_slip   = WRAP_BACK_SLIP   in _bv(rotate_poses(256, wrap_mode="slip"))
+    ok_closed = WRAP_BACK_CLOSED in _bv(rotate_poses(320, wrap_mode="closed"))
+    leak_none = any(a in txt for _, txt in rotate_poses(256) for a in (WRAP_BACK_SLIP, WRAP_BACK_CLOSED))
+    leak_slot = any(a in txt for slot, txt in rotate_poses(256, wrap_mode="slip")
+                    if slot != "Back View" for a in (WRAP_BACK_SLIP, WRAP_BACK_CLOSED))
+    print("Ancla prenda envolvente check:",
+          "LIMPIO (slip+closed en Back View, sin fuga)" if (ok_slip and ok_closed and not leak_none and not leak_slot)
+          else f"FALLA (slip={ok_slip} closed={ok_closed} fuga_sin_wrap={leak_none} fuga_otro_slot={leak_slot})")
+    # Auto-check ancla de recumbencia (Ama 09/07 — bug odalisca-sentada): SOLO la Odalisque la lleva.
+    od_ok = ODALISQUE_ANCHOR in dict(rotate_poses(531))["Odalisque"]
+    od_leak = any(ODALISQUE_ANCHOR in txt for slot, txt in rotate_poses(531) if slot != "Odalisque")
+    print("Ancla recumbencia odalisca check:",
+          "LIMPIO (solo Odalisque ancla, sin fuga)" if (od_ok and not od_leak)
+          else f"FALLA (od_ok={od_ok} fuga_otro_slot={od_leak})")

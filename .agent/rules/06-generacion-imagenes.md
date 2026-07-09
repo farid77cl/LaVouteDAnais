@@ -38,3 +38,45 @@ Las 7 poses NO pueden ser el mismo texto fijo en todos los looks (la Ama lo dete
 - **POV:** rotar el gesto (hand-near-cheek / blowing-kiss / biting-fingertip) manteniendo V4.1 SAFE: bust-up, UNA sola mano derecha, **SIN phone** (alineado al negative `no phone, no smartphone`).
 
 Las variantes preservan ADN V3.5 + Footwear Canon. No regenerar batches con plantilla de pose única.
+
+## 6. PRENDA ENVOLVENTE DE FRENTE ABIERTO — ORIENTACIÓN EN BACK VIEW (Directiva Ama 09/07/2026 — BUG "bata al revés")
+
+Cuando el look use una prenda **envolvente de frente abierto** — robe, kimono, peignoir, **bata**, wrap cardigan, hanbok/qipao abierto — el generador la ponía **AL REVÉS en la pose de espalda**: la abertura/escote corría por la columna (dejando el poto y la lencería al aire por donde va el *paño trasero*), porque el token de vestuario dice *"parted at front revealing X / off the shoulders"* y eso es una instrucción **relativa a la cámara** que, con el cuerpo de espaldas, la IA resuelve abriendo la prenda hacia el lente. Confirmado en **L256** (bata La Perla) y **L703** (kimono peacock). Los que salieron bien (L407) tenían la bata deslizada de los hombros.
+
+**Regla:** todo inyector que genere un look con prenda envolvente **DEBE** pasar `wrap_mode` a `rotate_poses`:
+
+```python
+poses = rotate_poses(look_number, ..., wrap_mode="slip")   # o "closed"
+```
+
+- `wrap_mode="slip"` → bata **deslizada de los hombros, colgando de los brazos**: espalda + lencería al aire pero prenda físicamente correcta (la abertura va adelante; solo se resbaló). **Default recomendado** para boudoir/lencería (conserva el desnudo sensual).
+- `wrap_mode="closed"` → bata **bien puesta**: paño continuo cerrado cayendo por la columna (espalda cubierta). Para batas cortas/deportivas o cuando no se busca desnudo.
+- `wrap_mode=None` → sin prenda envolvente (comportamiento normal). **La elección es caso a caso** (directiva Ama): la decide el inyector según el concepto del look.
+
+El ancla se inyecta **solo en el slot Back View** (donde ocurre el fallo). Vive en `pose_rotation_v5.py` (`WRAP_BACK_SLIP` / `WRAP_BACK_CLOSED`), con self-check en el `__main__`. Ver auto-memoria `feedback_bata_reverso_espalda`.
+
+## 7. ODALISCA RECOSTADA, NO SENTADA (Directiva Ama 09/07/2026 — BUG "odalisca sentada")
+
+La **odalisca** (pose recostada/lánguida) derivaba a **SENTADA**: el generador rendía a Ele *sentada* en el piso o el mueble en vez de recostada (confirmado en L574 sentada sobre el cofre, L638 y L660 sentadas en el piso). Causa: varias variantes arrancan *"semi-reclined propped on both elbows"* y ese *"propped on both elbows"* se lee como torso vertical sentado, sin ancla explícita de cuerpo horizontal. **Mismo patrón que Side Profile** (que se sentaba hasta que forzamos `standing` explícito).
+
+**Fix (automático, ya en el motor):** `rotate_poses` prepende `ODALISQUE_ANCHOR` (*"lying down on the surface, the whole body low and horizontal, a reclining odalisque, NOT sitting upright and NOT seated"*) **solo al slot Odalisque**. No requiere nada del inyector. **Recomendado además** añadir al negative del inyector: `sitting upright, seated, sitting on the floor`. Self-check en el `__main__` del módulo. Ver auto-memoria `feedback_odalisca_sentada`.
+
+## 8. LINT DE CALZADO OBLIGATORIO (Directiva Ama 09/07/2026 — "aplica los fix en el engine para que no pase")
+
+El token de calzado se escribe libre por look y nada lo validaba → se colaban errores de canon que solo se cazaban mirando las imágenes ya generadas (auditoría del batch blanco de novia L731-L740: open/peep toe **con medias**, mule fuera de Lencería, mule sin plataforma). **Fix de raíz:** `99_Sistema/scripts/visual/footwear_canon.py`, un linter que **todo inyector DEBE correr antes de escribir la galería** (igual que `check_setting_variety`):
+
+```python
+from footwear_canon import audit_footwear_batch
+problems = audit_footwear_batch(LOOKS)   # cada look: dict con footwear + outfit + category
+if problems:
+    for p in problems: print(p)
+    raise SystemExit("Calzado no-canonico: corrige antes de cerrar el batch.")
+```
+
+Reglas que impone (devuelve la lista de violaciones; vacía = limpio):
+1. **Medias + puntera abierta** (`open/peep toe` con `stocking/fishnet/nylon/bodystocking…`) → prohibido (regla medias 20/06: con medias, puntera **cerrada**).
+2. **Mule fuera de Lencería** → prohibido (Ama 09/07: mule EXCLUSIVO de Lencería).
+3. **Mule sin plataforma ≥4"** (~10cm) → prohibido (Ama 09/07: el mule es platform mule ≥4").
+4. **Calzado plano/no-canónico o `chunky` en el positive** (`flat/wedge/block/kitten/sneaker/barefoot/chunky`) → eso va solo en el negative.
+
+Self-check en el `__main__`. Ver auto-memorias `feedback_medias_calzado_reglas` y `feedback_footwear_canon_absoluto`.
