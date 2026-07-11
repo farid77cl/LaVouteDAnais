@@ -2304,11 +2304,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** 1950s American suburban kitchen with cream cabinetry, chrome appliances, checkered linoleum floor, white picket fence visible through window, vintage Coca-Cola fridge, warm afternoon light filtering through gingham curtains (Elvgren calendar setting)
 
-### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png) | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_standing.png) | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_back_view.png) | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_seated.png) | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_side_profile.png) | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_ditzy.png) | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_pov.png) | [📸 View](../../05_Imagenes/ele/look231_butter_yellow_housewife_danger/ele_231_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4 Poses
 **1. Standing:**
@@ -2379,11 +2379,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Paco Rabanne atelier 1966 white-on-white minimalist with geometric brass plates display on chrome workbench, brass sheet sculptures, sketches pinned to wall, modernist sci-fi aesthetic
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_standing.png) | [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_back_view.png) | [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_seated.png) | [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_side_profile.png) | [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_ditzy.png) | [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_pov.png) | [📸 View](../../05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/ele_232_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4 Poses
 **1. Standing:**
@@ -2754,11 +2754,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Pilates studio exit with modern minimalist lobby, white marble floor, glass doors, beige leather banquette, café visible through glass with MacBook on counter and matcha latte, modern Vitacura urban aesthetic (Athleisure influencer OOTD)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_ditzy.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/ele_237_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4 Poses
 **1. Standing:**
@@ -2904,11 +2904,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Dungeon BDSM élite private club with black tile walls, suspended chrome Saint Andrew's cross at fondo, red leather upholstered punishment bench visible, chrome chains hanging, leather sling at corner, dimmed red velvet rope lighting (Newton + Versace S&M crossover)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_standing.png) | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_back_view.png) | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_seated.png) | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_side_profile.png) | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_ditzy.png) | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_pov.png) | [📸 View](../../05_Imagenes/ele/look239_bronze_copper_officer_domme/ele_239_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4 Poses
 **1. Standing:**
@@ -3124,11 +3124,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Editorial gym Studio set with seamless lime-green backdrop, chrome dumbbell rack visible, single overhead bright light (Y2K Sommer Ray aesthetic)
 
-### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_standing.png) | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_standing.png) | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_back_view.png) | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_seated.png) | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_side_profile.png) | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_ditzy.png) | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_pov.png) | [📸 View](../../05_Imagenes/ele/look242_acid_lime_y2k_skort_set/ele_242_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -3270,11 +3270,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Annabel's London VIP lounge with deep velvet emerald banquettes, gold-framed mirrors, brass chandeliers, opulent floral arrangements (London ultra-luxe club aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_standing.png) | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_back_view.png) | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_seated.png) | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_side_profile.png) | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_ditzy.png) | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_pov.png) | [📸 View](../../05_Imagenes/ele/look244_forest_green_magda_butrym_power/ele_244_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -3343,11 +3343,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Boom Boom Room NYC Standard Hotel rooftop with gold accents, Manhattan skyline at night through floor-to-ceiling windows, velvet rope corner with paparazzi flashes implied
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_standing.png) | [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_back_view.png) | [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_seated.png) | [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_side_profile.png) | [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_ditzy.png) | [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_pov.png) | [📸 View](../../05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/ele_245_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -3489,11 +3489,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Private dinner room at Le Bristol Paris with deep mahogany walls, gold-framed mirrors, crystal stemware on table, candle-lit ambiance (Sugar Baby 2025 dinner aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_seated.png) | [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_side_profile.png) | [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_ditzy.png) | [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_pov.png) | [📸 View](../../05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/ele_247_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -3562,11 +3562,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Tokyo Kabukicho street at night with kanji neon signs in hot pink and electric blue overhead, wet asphalt reflecting neon, street lamp pole, fog rising
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_standing.png) | [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_back_view.png) | [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_seated.png) | [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_side_profile.png) | [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_ditzy.png) | [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_pov.png) | [📸 View](../../05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/ele_248_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4073,11 +4073,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** 80s synth-pop MTV stage with chrome microphone stand, smoke machine fog, electric blue and hot magenta laser lights, Patrick Nagel poster on wall (80s MTV synth-pop aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_standing.png) | [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_back_view.png) | [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_seated.png) | [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_side_profile.png) | [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_ditzy.png) | [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_pov.png) | [📸 View](../../05_Imagenes/ele/look255_electric_blue_80s_synthpower/ele_255_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4292,11 +4292,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Schiaparelli atelier dorado Paris with antique gilded mirrors, classical Greek statues, Sistine Chapel ceiling reproduction painted detail, crystal chandelier overhead, Daniel Roseberry aesthetic (couture museum-piece atmosphere)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_standing.png) | [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_back_view.png) | [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_seated.png) | [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_side_profile.png) | [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_ditzy.png) | [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_pov.png) | [📸 View](../../05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/ele_258_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4365,11 +4365,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Penthouse boardroom with floor-to-ceiling Manhattan skyline window at night, polished marble table, Eames chair, single dramatic side spotlight (Mugler ultra-design office aesthetic + Schiaparelli atelier crossover)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_standing.png) | [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_back_view.png) | [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_seated.png) | [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_side_profile.png) | [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_ditzy.png) | [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_pov.png) | [📸 View](../../05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/ele_259_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4438,11 +4438,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Open-plan corporate office Severance-style with grey cubicle dividers in background, fluorescent flat overhead lighting, glass-walled meeting room visible, polished concrete floor (Office Siren TikTok corporate aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_ditzy.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/ele_260_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4513,11 +4513,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Champagne nude silk-satin floor-length mermaid gown with hand-applied crystal and pearl beadwork in floral pattern across bodice, bardot off-shoulder neckline, structured corset bodice with internal boning, mermaid fishtail train embroidered with sequins, no gloves (refined Met Gala minimalism), pearl-drop chandelier earrings, delicate pearl choker with diamond accent, champagne satin pointed-toe stiletto pumps with 14cm slim heel.
 - **Ambientación:** Met Gala red carpet entrance with paparazzi backdrop, golden hour photography lighting, marble museum staircase visible in background, refined editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_standing.png) | [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_back_view.png) | [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_seated.png) | [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_side_profile.png) | [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_ditzy.png) | [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_pov.png) | [📸 View](../../05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/ele_261_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4585,11 +4585,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Deep sapphire blue matte velvet column gown floor-length with deep V plunge neckline cardado, long fitted sleeves, sleek column silhouette without train, no gloves, diamond solitaire chandelier earrings, no necklace (V neckline carries the look), sapphire satin pointed-toe stiletto pumps with 14cm slim heel, low side chignon with finger waves.
 - **Ambientación:** Dolby Theatre Oscars red carpet with iconic golden statuette backdrop, warm spotlight, refined editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_standing.png) | [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_back_view.png) | [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_seated.png) | [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_side_profile.png) | [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_ditzy.png) | [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_pov.png) | [📸 View](../../05_Imagenes/ele/look262_sapphire_velvet_oscars_column/ele_262_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4657,11 +4657,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Crimson red silk satin Halston-style goddess gown floor-length with deep drape across bust forming Grecian pleats, fully open back to waist, fine gold chain straps crossing back, side slit thigh-high, no gloves (Halston minimalist signature), gold metallic clutch, gold drop earrings, crimson satin pointed-toe stiletto pumps with 14cm slim heel, sleek high updo with side-swept fringe.
 - **Ambientación:** Cannes Film Festival Palais des Festivals red carpet with crystal chandeliers, Mediterranean golden sunset light, refined editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_standing.png) | [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_back_view.png) | [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_seated.png) | [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_side_profile.png) | [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_ditzy.png) | [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_pov.png) | [📸 View](../../05_Imagenes/ele/look263_crimson_cannes_goddess/ele_263_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4729,11 +4729,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Iridescent white pearl shimmer silk-satin gown with structured corset bodice featuring sweetheart neckline and visible boning, voluminous ball-gown skirt with crinoline underlayers, multichrome pearl shimmer fabric (shifting white-pink-blue-mint), no gloves, minimalist platinum tiara with single pearl center, white orchid bouquet, pearl-drop earrings, white satin pointed-toe stiletto pumps with 14cm slim heel hidden under skirt, hair in classic chignon with pearl pins.
 - **Ambientación:** Editorial bridal photoshoot in marble cathedral interior with stained glass windows casting prismatic light, white peony arrangements, refined editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_standing.png) | [📸 View](../../05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_back_view.png) | [📸 View](../../05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/ele_264_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4801,11 +4801,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Lavender pastel ribbed seamless leggings high-waist with contour seam at hip, matching lavender ribbed crop sports bra with crossback design, no gloves, pearl studs minimal, lavender wet-look platform stiletto heels Pleaser Delight-608 with 6-inch needle heel and 1.5-inch platform, high ponytail with pearl scrunchie, dewy minimal makeup.
 - **Ambientación:** Minimalist white pilates studio with reformer machine, mirror wall, blonde wood floor, bright natural skylight, Alo Yoga aesthetic.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_standing.png) | [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_back_view.png) | [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_seated.png) | [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_side_profile.png) | [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_ditzy.png) | [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_pov.png) | [📸 View](../../05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/ele_265_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4873,11 +4873,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Cherry dark cropped zip-up hoodie hi-gloss vinyl exterior soft interior with chrome zipper pull, matching black biker shorts mid-thigh high-waist, cherry red sports bra peeking under hoodie, no gloves, gold hoop earrings minimal, black wet-look platform stiletto heels Pleaser Delight-608 with 6-inch needle heel and 1.5-inch platform, high messy ponytail.
 - **Ambientación:** Urban gym street setting outside boutique fitness studio with neon signage visible, golden afternoon street light, refined editorial photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_standing.png) | [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_back_view.png) | [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_seated.png) | [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_side_profile.png) | [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_ditzy.png) | [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_pov.png) | [📸 View](../../05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/ele_266_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -4945,11 +4945,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Coral sunset orange-pink silk lycra triangle bikini top with adjustable strings tied at back of neck and back, matching coral tie-side bottoms low-rise, sheer nude beige sarong wrapped around hips with knot at side hip, no gloves, gold-plated pearl bracelet on right wrist, large straw sun hat XL with wide brim, gold metallic stiletto-heeled sandals with 12cm slim needle heel and slim ankle strap, beachy waves hair.
 - **Ambientación:** St. Tropez private yacht deck at golden hour with teak wood floor, Mediterranean blue water visible, white linen day bed, refined editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_standing.png) | [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_back_view.png) | [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_seated.png) | [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_side_profile.png) | [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_ditzy.png) | [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_pov.png) | [📸 View](../../05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/ele_267_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5017,11 +5017,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Aqua cyan high-cut Brazilian bikini set with classic triangle top with gold ring center, matching ultra-high-cut bottoms cheeky coverage, white crochet beach cover-up sheer with crocheted floral pattern open at front, no gloves, white plastic cat-eye sunglasses Y2K, gold fine chain belt low at hip, gold ankle bracelet, aqua jelly stiletto sandals 12cm.
 - **Ambientación:** Caribbean five-star resort pool cabana with white linen curtains blowing in tropical breeze, palm trees, turquoise water reflecting sun, refined editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/ele_268_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/ele_268_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/ele_268_standing.png) | [📸 View](../../05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/ele_268_back_view.png) | [📸 View](../../05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/ele_268_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/ele_268_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5089,11 +5089,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Blush pink mulberry silk midi-length sleepwear set: camisole with French Chantilly lace trim at deep V neckline + matching tap shorts with lace trim at hem, both pieces in glossy silk-satin, no gloves, no choker (replaced by single pearl pendant on delicate silver chain), blush pink satin stiletto mule heels with 10cm slim heel, hair loose in natural soft waves, dewy minimal makeup.
 - **Ambientación:** Luxury hotel suite bedroom with white duvet, soft morning light through sheer curtains, antique vanity with mirror visible, refined editorial bedroom photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_standing.png) | [📸 View](../../05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_back_view.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_side_profile.png) | [📸 View](../../05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_ditzy.png) | [📸 View](../../05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_pov.png) | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5161,11 +5161,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Powder dusty blue silk bias-cut slip midi-length 1930s style with cream guipure lace trim at deep V neckline and at midi hem, adjustable thin silk straps, fluid drape silk-satin fabric, no gloves, no choker (replaced by Art Deco pearl-and-sapphire brooch at center bust), cream silk stockings with visible seam clipped to delicate cream garter belt, powder blue satin pointed-toe stiletto pumps with 12cm slim heel, finger waves hair styled 1930s with cream silk headband.
 - **Ambientación:** Old Hollywood boudoir suite with Art Deco geometric mirror, satin chaise longue, crystal decanters, soft tungsten lamp warm light, 1930s film grain editorial aesthetic.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_standing.png) | [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_back_view.png) | [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_seated.png) | [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_side_profile.png) | [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_ditzy.png) | [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_pov.png) | [📸 View](../../05_Imagenes/ele/look270_powder_blue_vintage_slip/ele_270_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -5235,11 +5235,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Crimson red silk satin couture cheongsam floor-length with hand-embroidered gold thread dragon and peony motifs across bodice and skirt, structured mandarin collar with frog button closures, capped cap sleeves with gold embroidery edge, side slit thigh-high, no gloves (oriental couture minimalism), jade pendant earrings, jade and gold hair ornament Chinese imperial-style pinned into low bun, no choker (mandarin collar is the statement), crimson satin pointed-toe stiletto pumps with 14cm slim heel, sleek low bun with gold hairpin.
 - **Ambientación:** Shanghai Bund colonial-era ballroom with red lacquered columns, gold dragon screen backdrop, paper lantern soft amber lighting, Wong Kar-wai cinematic aesthetic.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_standing.png) | [📸 View](../../05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_back_view.png) | [📸 View](../../05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_seated.png) | [📸 View](../../05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_side_profile.png) | [📸 View](../../05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/ele_271_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**

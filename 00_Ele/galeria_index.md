@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente desde la galería — **551 looks registrados**  
+> Generado automáticamente desde la galería — **561 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -40,47 +40,47 @@
 | **228** | Neon Cyan Street Viper (21/05/2026 — batch 221-230 · Escort Polo B Callejera · busto 1000cc) | — | Escort | — | — | 7/7 | — |
 | **229** | Leopard Platform Predator (21/05/2026 — batch 221-230 · Stripper Polo B Pole · busto 1000cc) | — | Stripper | — | — | 7/7 | — |
 | **230** | Electric Teal Bodycon Blade (21/05/2026 — batch 221-230 · Nightclub · busto 1000cc) | — | Nightclub | — | — | 7/7 | — |
-| **231** | Butter Yellow Housewife Danger (23/05/2026 — batch 231-240 · Pin-Up Polo A Bombshell PA2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 3/7 | ✅ Completo |
-| **232** | Gold Liquid Rabanne Chainmail (23/05/2026 — batch 231-240 · Pin-Up Polo B Retro-Futurismo PB2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 1/7 | ✅ Completo |
+| **231** | Butter Yellow Housewife Danger (23/05/2026 — batch 231-240 · Pin-Up Polo A Bombshell PA2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
+| **232** | Gold Liquid Rabanne Chainmail (23/05/2026 — batch 231-240 · Pin-Up Polo B Retro-Futurismo PB2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
 | **233** | Electric Cyan 80s Aerobics Glam (23/05/2026 — batch 231-240 · Pin-Up Polo C Decade Glam PC3 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
 | **234** | Oxblood Croco Trophy Penthouse (23/05/2026 — batch 231-240 · Domestic Polo A Trophy Bimbo Moderna DA1 · busto 1000cc · refs mayo 2026) | — | Domestic | — | — | 2/7 | ✅ Completo |
 | **235** | Baby Pink Akihabara Kawaii Maid (23/05/2026 — batch 231-240 · Domestic Polo B Maid Fetish DB3 · busto 1000cc · refs mayo 2026) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **236** | Jade Seamless Ribbed Vital (23/05/2026 — batch 231-240 · Gym Polo A Performance GA3 · busto 1000cc · refs mayo 2026) | — | Gym | — | — | 2/7 | ✅ Completo |
-| **237** | Charcoal Lavender Crop Hoodie OOD (23/05/2026 — batch 231-240 · Gym Polo B Athleisure Street GB1 · busto 1000cc · refs mayo 2026) | — | Gym | — | — | 2/7 | ✅ Completo |
+| **237** | Charcoal Lavender Crop Hoodie OOD (23/05/2026 — batch 231-240 · Gym Polo B Athleisure Street GB1 · busto 1000cc · refs mayo 2026) | — | Gym | — | — | 3/7 | ✅ Completo |
 | **238** | Ruby Red Madame Claude Column (23/05/2026 — batch 231-240 · Escort Polo A Haute EA2 · busto 1000cc · refs mayo 2026) | — | Escort | — | — | 7/7 | ✅ Completo |
-| **239** | Bronze Copper Officer Domme (23/05/2026 — batch 231-240 · Escort Polo C Domme de Club EC4 · busto 1000cc · refs mayo 2026) | — | Escort | — | — | 2/7 | ✅ Completo |
+| **239** | Bronze Copper Officer Domme (23/05/2026 — batch 231-240 · Escort Polo C Domme de Club EC4 · busto 1000cc · refs mayo 2026) | — | Escort | — | — | 7/7 | ✅ Completo |
 | **240** | UV Magenta Crystal Mesh Crazy Horse (23/05/2026 — batch 231-240 · Stripper Polo A Stage Showgirl SA1 · busto 1000cc · refs mayo 2026) | — | Stripper | — | — | 7/7 | ✅ Completo |
 | **241** | Coral Tangerine Athletic Bodysuit (23/05/2026 — batch 241-260 · Gym Polo A Performance GA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 7/7 | ✅ Completo |
-| **242** | Acid Lime Y2K Skort Set (23/05/2026 — batch 241-260 · Gym Polo A Performance GA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 3/7 | ✅ Completo |
+| **242** | Acid Lime Y2K Skort Set (23/05/2026 — batch 241-260 · Gym Polo A Performance GA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 7/7 | ✅ Completo |
 | **243** | Pearl White Tennis Court Glam (23/05/2026 — batch 241-260 · Gym Polo B Athleisure GB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 2/7 | ✅ Completo |
-| **244** | Forest Green Magda Butrym Power (23/05/2026 — batch 241-260 · Nightclub Magda Butrym power-shoulder · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 2/7 | ✅ Completo |
-| **245** | Hot Magenta Lindsay Lohan Y2K (23/05/2026 — batch 241-260 · Nightclub Y2K Lindsay Lohan crystal bandage · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 2/7 | ✅ Completo |
+| **244** | Forest Green Magda Butrym Power (23/05/2026 — batch 241-260 · Nightclub Magda Butrym power-shoulder · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 7/7 | ✅ Completo |
+| **245** | Hot Magenta Lindsay Lohan Y2K (23/05/2026 — batch 241-260 · Nightclub Y2K Lindsay Lohan crystal bandage · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 7/7 | ✅ Completo |
 | **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 2/7 | ✅ Completo |
-| **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 2/7 | ✅ Completo |
-| **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 2/7 | ✅ Completo |
+| **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 6/7 | ✅ Completo |
+| **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 7/7 | ✅ Completo |
 | **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 7/7 | ✅ Completo |
 | **250** | Burgundy Yoga Room Trophy (23/05/2026 — batch 241-260 · Domestic Polo A Trophy DA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **251** | Champagne Playboy Bunny Canon (23/05/2026 — batch 241-260 · Domestic Polo B Maid DB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Domestic | — | — | 7/7 | ✅ Completo |
 | **252** | Holographic Bad Kitty V-Front Brazil (23/05/2026 — batch 241-260 · Stripper Polo B Pole SB3 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 7/7 | ✅ Completo |
 | **253** | Acid Yellow Y2K Denim Strip (23/05/2026 — batch 241-260 · Stripper Polo A Stage SA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Stripper | — | — | 7/7 | ✅ Completo |
 | **254** | Mint Pastel Sweater Girl 50s (23/05/2026 — batch 241-260 · Pin-Up Polo A Bombshell PA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
-| **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 2/7 | ✅ Completo |
+| **255** | Electric Blue 80s Synth-Power (23/05/2026 — batch 241-260 · Pin-Up Polo B Retro-Futurismo PB5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
 | **256** | Blush Nude Boudoir Robe La Perla — Refined Maison Edition (23/05/2026 · adaptado 25/05/2026 anti-filter · batch 241-260 · Lencería Polo A Boudoir LA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Lencería | — | — | 2/7 | — |
 | **257** | White Gold Rhinestone Beach Gala (23/05/2026 — batch 241-260 · Bikini Polo A Beach BA6 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Bikini | — | — | 7/7 | ✅ Completo |
-| **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | HF Editorial | — | — | 2/7 | ✅ Completo |
-| **259** | Navy Gold Schiaparelli Gilded Office (23/05/2026 — batch 241-260 · Corporate Polo A Power Domme CA2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 2/7 | ✅ Completo |
-| **260** | Charcoal Sheer Office Siren Classic (23/05/2026 — batch 241-260 · Corporate Polo B Office Siren CB1 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 2/7 | ✅ Completo |
-| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
-| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
-| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
-| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
-| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
-| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
-| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
-| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
-| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
-| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
-| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
+| **258** | Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | HF Editorial | — | — | 7/7 | ✅ Completo |
+| **259** | Navy Gold Schiaparelli Gilded Office (23/05/2026 — batch 241-260 · Corporate Polo A Power Domme CA2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 7/7 | ✅ Completo |
+| **260** | Charcoal Sheer Office Siren Classic (23/05/2026 — batch 241-260 · Corporate Polo B Office Siren CB1 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Corporate | — | — | 3/7 | ✅ Completo |
+| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
+| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
+| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
+| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 4/7 | ⏳ Pendiente |
+| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Gym / Athleisure | — | — | 7/7 | — |
+| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | — | Gym / Athleisure | — | — | 7/7 | — |
+| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 7/7 | — |
+| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 4/7 | ⏳ Pendiente |
+| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 5/7 | ⏳ Pendiente |
+| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 7/7 | — |
+| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 5/7 | ⏳ Pendiente |
 | **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 2/7 | — |
 | **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
 | **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Gym / Athleisure | — | — | 2/7 | ⏳ Pendiente |
@@ -560,6 +560,16 @@
 | **748** | Black Mourning Bodystocking (07/07/2026 · batch L741-L750 "Viuda Negra" · Lenceria · Fetish Arquitectonico (Mourning Bodystocking) · Contraste) | — | — | — | — | 0/7 | — |
 | **749** | Black Widow O-Ring Studio (07/07/2026 · batch L741-L750 "Viuda Negra" · Bikini · Studio Micro (Black Widow O-Ring) · Monoblock) | — | — | — | — | 0/7 | — |
 | **750** | Black Widow Bachelorette Ribbed (07/07/2026 · batch L741-L750 "Viuda Negra" · Gym/Athleisure · Gym Performance (Widow Bachelorette Ribbed Set) · Contraste) | — | — | — | — | 0/7 | — |
+| **751** | Mercury Pole Drip (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Stripper · Pole Specialist (Gecko Grip Liquid) · Monoblock) | — | — | — | — | 0/7 | — |
+| **752** | Midnight Mirror Power Suit (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Corporate · Power Executive Domme (Armani Sculpted Mono, Liquid) · Contraste) | — | — | — | — | 0/7 | — |
+| **753** | Belle de Minuit Slip (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Escort · Escort Haute (Belle de Jour Slip, Liquid Metal) · Monoblock) | — | — | — | — | 0/7 | — |
+| **754** | Liquid Chrome Maid (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Domestic · Maid Fetish (Latex French Maid, Liquid Trim) · Contraste) | — | — | — | — | 0/7 | — |
+| **755** | 90s Liquid Supermodel Slip (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Pin-Up · Decade Glam 90s (Supermodel Slip, Liquid Chrome) · Monoblock) | — | — | — | — | 0/7 | — |
+| **756** | Liquid Panel Deconstruction (10/07/2026 · batch L751-L760 "Medianoche Liquida" · High-Fashion Editorial · Panel-Dress Geometrico Deconstruido (Liquid Chrome) · Monoblock) | — | — | — | — | 0/7 | — |
+| **757** | Molten Chrome Column Mini (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Nightclub · Metallic Liquid Dress · Contraste) | — | — | — | — | 0/7 | — |
+| **758** | Mercury Wrap Bikini (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Bikini · Beach Editorial (Wrap Bikini Drapeado, Liquid Vinyl) · Monoblock) | — | — | — | — | 0/7 | — |
+| **759** | Liquid Latex Midnight Training (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Gym/Athleisure · Gym Performance (Athletic Bodysuit, Liquid Latex) · Contraste) | — | — | — | — | 0/7 | — |
+| **760** | Liquid Shadow Chemise (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Lenceria · Luxury Boudoir (Chemise Slip Liquid Sheer) · Monoblock) | — | — | — | — | 0/7 | — |
 
 ---
 
@@ -622,8 +632,8 @@
 ### Pin-Up & Retro (4 looks)
 **534**, **547**, **554**, **559**
 
-### Sin categoría (60 looks)
-**691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **701**, **702**, **703**, **704**, **705**, **706**, **707**, **708**, **709**, **710**, **711**, **712**, **713**, **714**, **715**, **716**, **717**, **718**, **719**, **720**, **721**, **722**, **723**, **724**, **725**, **726**, **727**, **728**, **729**, **730**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**, **741**, **742**, **743**, **744**, **745**, **746**, **747**, **748**, **749**, **750**
+### Sin categoría (70 looks)
+**691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **701**, **702**, **703**, **704**, **705**, **706**, **707**, **708**, **709**, **710**, **711**, **712**, **713**, **714**, **715**, **716**, **717**, **718**, **719**, **720**, **721**, **722**, **723**, **724**, **725**, **726**, **727**, **728**, **729**, **730**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**, **741**, **742**, **743**, **744**, **745**, **746**, **747**, **748**, **749**, **750**, **751**, **752**, **753**, **754**, **755**, **756**, **757**, **758**, **759**, **760**
 
 ### Stripper (60 looks)
 **226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**, **622**, **633**, **639**, **643**, **651**, **652**, **665**, **678**, **688**
@@ -653,8 +663,8 @@
 ### Dorado / Bronce (54 looks)
 **205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **623**, **628**, **632**, **672**, **679**, **688**, **692**, **696**, **715**, **728**
 
-### Plateado / Plata (57 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **657**, **658**, **660**, **668**, **683**, **688**, **715**, **729**
+### Plateado / Plata (63 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **657**, **658**, **660**, **668**, **683**, **688**, **715**, **729**, **751**, **754**, **755**, **756**, **757**, **758**
 
 ### Blanco / Crema (62 looks)
 **243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **461**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **500**, **501**, **502**, **512**, **535**, **555**, **559**, **564**, **573**, **580**, **584**, **585**, **593**, **597**, **600**, **605**, **609**, **615**, **625**, **626**, **655**, **663**, **676**, **693**, **695**, **713**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**
@@ -674,17 +684,10 @@
 
 | N° | Nombre | Poses | Estado |
 |:--:|:-------|:-----:|:------:|
-| **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | 2/7 | ⏳ Pendiente |
-| **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 2/7 | ⏳ Pendiente |
-| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
+| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 4/7 | ⏳ Pendiente |
+| **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 4/7 | ⏳ Pendiente |
+| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 5/7 | ⏳ Pendiente |
+| **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 5/7 | ⏳ Pendiente |
 | **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
@@ -994,6 +997,16 @@
 | **748** | Black Mourning Bodystocking (07/07/2026 · batch L741-L750 "Viuda Negra" · Lenceria · Fetish Arquitectonico (Mourning Bodystocking) · Contraste) | 0/7 | — |
 | **749** | Black Widow O-Ring Studio (07/07/2026 · batch L741-L750 "Viuda Negra" · Bikini · Studio Micro (Black Widow O-Ring) · Monoblock) | 0/7 | — |
 | **750** | Black Widow Bachelorette Ribbed (07/07/2026 · batch L741-L750 "Viuda Negra" · Gym/Athleisure · Gym Performance (Widow Bachelorette Ribbed Set) · Contraste) | 0/7 | — |
+| **751** | Mercury Pole Drip (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Stripper · Pole Specialist (Gecko Grip Liquid) · Monoblock) | 0/7 | — |
+| **752** | Midnight Mirror Power Suit (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Corporate · Power Executive Domme (Armani Sculpted Mono, Liquid) · Contraste) | 0/7 | — |
+| **753** | Belle de Minuit Slip (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Escort · Escort Haute (Belle de Jour Slip, Liquid Metal) · Monoblock) | 0/7 | — |
+| **754** | Liquid Chrome Maid (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Domestic · Maid Fetish (Latex French Maid, Liquid Trim) · Contraste) | 0/7 | — |
+| **755** | 90s Liquid Supermodel Slip (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Pin-Up · Decade Glam 90s (Supermodel Slip, Liquid Chrome) · Monoblock) | 0/7 | — |
+| **756** | Liquid Panel Deconstruction (10/07/2026 · batch L751-L760 "Medianoche Liquida" · High-Fashion Editorial · Panel-Dress Geometrico Deconstruido (Liquid Chrome) · Monoblock) | 0/7 | — |
+| **757** | Molten Chrome Column Mini (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Nightclub · Metallic Liquid Dress · Contraste) | 0/7 | — |
+| **758** | Mercury Wrap Bikini (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Bikini · Beach Editorial (Wrap Bikini Drapeado, Liquid Vinyl) · Monoblock) | 0/7 | — |
+| **759** | Liquid Latex Midnight Training (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Gym/Athleisure · Gym Performance (Athletic Bodysuit, Liquid Latex) · Contraste) | 0/7 | — |
+| **760** | Liquid Shadow Chemise (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Lenceria · Luxury Boudoir (Chemise Slip Liquid Sheer) · Monoblock) | 0/7 | — |
 
 ---
 
