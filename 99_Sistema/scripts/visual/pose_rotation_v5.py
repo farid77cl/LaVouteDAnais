@@ -82,6 +82,30 @@ _WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED}
 # feedback_odalisca_sentada.
 ODALISQUE_ANCHOR = "lying down on the surface with the whole body low and horizontal, a reclining odalisque with the torso resting down toward the surface, NOT sitting upright and NOT seated"
 
+# ANCLA DE PESO EN LA SENTADA + REESCRITURA DE 2 VARIANTES (Ama 11/07/2026 — BUG "problemas
+# en Seated"): auditoria de las ultimas 50 imagenes (L729-L760) encontro 6 de 7 muestras con
+# la pose Seated desviada del prompt, dos patrones distintos:
+#  (1) SUSTITUCION DE MUEBLE: cuando el setting trae una segunda superficie plana grande cerca
+#      del asiento (mesa de directorio, isla de cocina), Gemini apoya el cuerpo en ESA superficie
+#      en vez del asiento nombrado (confirmado L732: "perched on the edge of a white leather
+#      boardroom chair" -> rindio perchada en el ESCRITORIO de caoba, la silla vacia al lado;
+#      L754: "reclined back on a bar stool at the kitchen island" -> rindio apoyada en la ISLA,
+#      no reclinada en el taburete). Fix: SEATED_ANCHOR se pega a las 6 variantes ancla el peso
+#      al asiento nombrado y prohibe explicitamente apoyarse en mobiliario vecino.
+#  (2) POSTURA COMPLEJA IGNORADA: instrucciones de postura dinamica se aplanan a la sentada
+#      generica segura (torso derecho, mano en el menton) — confirmado L729/L741/L759 ("leaning
+#      forward with the elbows on the knees" nunca aparecio) y L755, el mas grave ("seated
+#      REVERSED... arms folded over the backrest, chin resting on forearms" = straddle mirando
+#      el respaldo, rindio sentada normal de frente). "reversed"/straddle es ademas pariente del
+#      token "straddling" ya proscrito en el BAD-check anti-safe de mas abajo — probable filtro,
+#      no solo dificultad de pose. Fix: variante 1 reescrita con la instruccion al FRENTE de la
+#      oracion (primacia) en vez de enterrada; variante 3 reemplazada por una pose igual de
+#      dramatica (arco hacia atras sobre el respaldo) SIN straddle/reversed. Ver auto-memoria
+#      feedback_seated_mueble_postura.
+SEATED_ANCHOR = ("the body's full weight supported entirely by the seat itself, both hips and "
+                  "thighs resting directly on it, NOT leaning against, perched on or propped "
+                  "against any nearby table, desk, counter, island or other surface")
+
 # ANCLA DE ORIENTACION DE LA RAYA DE LA MEDIA (Ama 11/07/2026 — BUG "raya al frente"):
 # El token de vestuario describe la media como "back-seam stockings" (raya trasera). Igual que
 # "at front revealing" en la bata, "back-seam" es RELATIVO A LA CAMARA: en poses de frente el
@@ -169,9 +193,9 @@ BACK = [
 
 SEATED = [
  "perched on {seat} with one leg crossed over the other and the top stiletto pointed at the camera, an extreme lumbar arch, one XXXL-nailed hand on the top knee and the other fingertip at the bottom lip, the bust angled forward, shoulders rolled back, half-lidded direct gaze, cherry red hair framing one breast",
- "perched on the edge of {seat} leaning forward with the elbows on the knees, the décolleté angled toward the camera, the stilettos crossed at the ankle, one XXXL-nailed hand under the chin, looking up through the lashes with lips parted, cherry red hair falling forward",
+ "leaning her torso sharply forward from the hips while perched on the edge of {seat}, both elbows planted firmly on top of both knees, the décolleté angled toward the camera, the stilettos crossed at the ankle, one XXXL-nailed hand under the chin, looking up through the lashes with lips parted, cherry red hair falling forward",
  "reclined back on {seat} propped on one elbow with the other XXXL-nailed hand trailing down the torso, the spine in a long arch, the legs extended with the stilettos crossed at the ankle and pointed, half-lidded predatory gaze, cherry red hair spilling over the backrest",
- "seated reversed on {seat} with both arms folded over the backrest and the chin resting on the forearms, the spine in an elegant arch, the stilettos crossed at the ankle, a sultry half-lidded gaze over the arms, cherry red hair over one shoulder",
+ "seated deep in {seat} with the spine arched back over the top of the backrest and both XXXL-nailed hands draped along the top of the backrest, the chest lifted high and the chin dropped back, cherry red hair spilling over the top of the backrest behind her, a half-lidded gaze rolled toward the camera, lips parted glossy, the stilettos crossed at the ankle",
  "perched on the edge of {seat} with the spine erect and the knees together, both XXXL-nailed hands resting flat on the thighs, the chest lifted in an imperious arch, the chin raised, a commanding half-lidded gaze to the camera, lips parted glossy, cherry red hair over one shoulder",
  "seated side-saddle on {seat} with the legs together angled to one side and the top stiletto pointed, the torso twisted back to the camera, one XXXL-nailed hand on the upper thigh and the other at the collarbone, an extreme waist twist, half-lidded gaze, cherry red hair over one breast",
 ]
@@ -270,6 +294,8 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
         if name == "Odalisque":
             anchor = anchor + ", " + ODALISQUE_ANCHOR  # fuerza recumbencia (bug odalisca-sentada)
         v = anchor + ", " + v  # ancla anatomica automatica (ver nota arriba)
+        if name == "Seated":
+            v = v + ", " + SEATED_ANCHOR  # ancla de peso (bug sustitucion de mueble)
         if name == "Back View" and wrap_anchor:
             v = v + ", " + wrap_anchor  # ancla de orientacion de prenda envolvente (bug bata-al-reves)
         if seam and name not in _SEAM_SKIP_SLOTS:  # ancla de orientacion de la raya (bug raya-al-frente)
@@ -362,3 +388,15 @@ if __name__ == "__main__":
           if (len(OPAQUE_LOCK) > 40 and len(GLOSS_LOCK) > 40 and "no matte" in GLOSS_LOCK.lower()
               and len(CONSISTENCY_LOCK) > 40 and "identical" in CONSISTENCY_LOCK.lower())
           else "FALLA (constantes vacias o mal formadas)")
+    # Auto-check ancla de peso Seated (Ama 11/07 — bug sustitucion de mueble/postura ignorada):
+    # SOLO el slot Seated lleva SEATED_ANCHOR, sin fuga a otros slots; y las 2 variantes reescritas
+    # (elbows-on-knees al frente de la oracion, backrest-arch sin straddle/reversed) no contienen
+    # "straddl"/"reversed" (pariente del token proscrito por el filtro anti-safe).
+    seated_poses = dict(rotate_poses(531))
+    seated_ok = SEATED_ANCHOR in seated_poses["Seated"]
+    seated_leak = any(SEATED_ANCHOR in txt for slot, txt in rotate_poses(531) if slot != "Seated")
+    seated_no_straddle = not any(w in v.lower() for v in SEATED for w in ("straddl", "reversed"))
+    print("Ancla peso Seated check:",
+          "LIMPIO (solo Seated ancla, sin fuga, sin straddle/reversed)"
+          if (seated_ok and not seated_leak and seated_no_straddle)
+          else f"FALLA (seated_ok={seated_ok} fuga_otro_slot={seated_leak} straddle_o_reversed={not seated_no_straddle})")

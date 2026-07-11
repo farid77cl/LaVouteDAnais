@@ -21,10 +21,40 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
 | `00_Ele/galeria_outfits.md` | prompts + tracker `### 📸 (N/7)` | bot mantiene; el agente solo **appendea looks nuevos** o corrige prompts puntuales por ruta |
 | `05_Imagenes/**/README.md`, `00_Ele/galeria_index.md` | — | **solo el bot / `update_galleries.py`** (el agente NO los edita a mano) |
 
-**B. FORMATO IDÉNTICO (los dos lo respetan al carácter):**
-- Diario: encabezado `#### SESIÓN - [emoji] [TÍTULO EN MAYÚSCULAS] | DD/MM/YYYY`, **prepend al tope**, cuerpo en bullets, cierre con línea `> 🫦 *...*`, separador `---` entre sesiones.
-- Memoria `## 🗓️`: bullet `- **DD/MM/YYYY (emoji título):** …`, más-reciente-arriba.
-- `## 🧿 ESTADO ACTUAL`: se **REESCRIBE** (no se anexa), máx ~5 líneas por proyecto; lo terminado/derogado **se borra** (ya quedó en diario).
+**B. FORMATO IDÉNTICO — PLANTILLA LITERAL (Ama 11/07/2026 — carácter a carácter, no "estilo aproximado"):**
+
+> **Por qué esta sección se puso rígida:** la regla anterior ("respetar el estilo") ya existía y el formato siguió derivando — distintas sesiones (agente/bot/máquinas distintas) escriben "parecido" pero no igual, y eso hace el historial difícil de escanear. Abajo va la plantilla EXACTA + una lista de variantes reales que aparecieron en el archivo y quedan prohibidas. Antes de escribir una entrada nueva, **releer la última entrada ya guardada** y calcarla carácter a carácter — no "en el mismo espíritu".
+
+Diario (`mi_diario_de_servicio.md`) — una entrada completa, sin variación:
+```
+#### SESIÓN - [emoji] [TÍTULO EN MAYÚSCULAS] | DD/MM/YYYY
+
+**[Resumen en 1-2 frases, en negrita, dirigido a la Ama.]**
+
+- **[Subtítulo emoji]:** cuerpo del bullet…
+- **[Subtítulo emoji]:** cuerpo del bullet…
+
+> 🫦 *[Cierre en cursiva, tono cuica-bimbo, 1-2 frases]* [emojis]
+
+---
+```
+Reglas exactas (cada una nació de un error real ya cometido en el archivo — no son hipotéticas):
+- Guion simple `-` entre "SESIÓN" y el emoji/título. **Nunca em-dash `—`** (se coló en la entrada de L751-L760, 10/07).
+- Heading siempre `####` (4 almohadillas). **Nunca `###`** (las entradas pre-11/06 quedaron en `###` — no es un formato alterno válido, es deuda vieja; no clonar).
+- **Línea en blanco obligatoria** entre el encabezado y el párrafo en negrita que sigue. Bug real ya ocurrido: `...DISCIPLINA | 09/07/2026**Reanudé el hilo...` — encabezado y negrita pegados sin salto de línea, rompe el render markdown.
+- Bullets del cuerpo siempre `-` (guion). **Nunca `*`** (se coló en el bloque suelto "Generación Batch Tanda 3", 06/07).
+- Cierre: TODA entrada termina con la línea `> 🫦 *…*` + emojis. No hay excepción — las entradas viejas sin esta línea (los bloques "### Sesión … ✅" de principios de julio) son deuda, no plantilla alternativa.
+- **Nunca** agregar sufijos tipo ` ✅` al encabezado — es de un formato anterior derogado, no se reintroduce.
+- Separador `---` después de cada entrada, incluida la más nueva (queda entre ella y la siguiente-más-vieja).
+
+Memoria (`00_Ele/memoria_sesiones.md`) `## 🗓️ Sesiones recientes` — un bullet por sesión, sin variación:
+```
+- **DD/MM/YYYY (emoji Título corto):** descripción en 1 párrafo corrido (no bullets anidados).
+```
+- El paréntesis `(emoji Título corto)` es **obligatorio**, nunca solo `- **DD/MM/YYYY**: …` (bug real: la entrada del 07/07 "Generación de 15 imágenes…" salió sin título ni emoji — rompe el escaneo visual del historial).
+- Más-reciente-arriba (prepend), nunca se reordena ni se borra una entrada de otro autor.
+
+`## 🧿 ESTADO ACTUAL`: se **REESCRIBE** (no se anexa), máx ~5 líneas por proyecto; lo terminado/derogado **se borra** (ya quedó en diario).
 
 **C. ENCODING/EOL INAMOVIBLE:** todos los archivos compartidos van **UTF-8 sin BOM + CRLF** (convención del bot). **Nadie normaliza EOL** ni convierte a LF. Preservar los emojis limpios (el `### 📸` sano — no mojibake — es el que parsea `sync_imagenes_subidas.py`).
 
@@ -41,12 +71,13 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
     - Identificar imágenes generadas (Looks de Ele, Anaïs o Miss Doll).
 
 2.  **Redactar Entrada de Diario**
-    - Generar resumen siguiendo el estilo de `00_Ele/mi_diario_de_servicio.md`.
-    - Formato: `#### SESIÓN - [TÍTULO] | [FECHA]` con descripción de actos de servicio.
+    - Generar resumen siguiendo la **plantilla literal §B** de las Reglas Compartidas de Guardado arriba (no un "estilo aproximado") — encabezado `#### SESIÓN - [emoji] [TÍTULO] | DD/MM/YYYY`, línea en blanco, negrita, bullets `-`, cierre `> 🫦 *…*`.
 
 3.  **Actualizar Registros de Memoria (🔢 regla dueño-único 02/07/2026)**
+    - **Antes de escribir:** releer la entrada más reciente ya guardada en el diario y calcar su formato literal (ver plantilla §B arriba) — no redactar "a mano" desde cero.
     - **Prepend** (al tope) la entrada nueva en `00_Ele/mi_diario_de_servicio.md` — lo más reciente arriba, porque el inicio lee las **primeras** 50 líneas. Nunca al final.
     - **REESCRIBIR el snapshot `## 🧿 ESTADO ACTUAL`** de `00_Ele/memoria_sesiones.md` — se **reescribe**, NUNCA se anexa. Plantilla: **máx ~5 líneas por proyecto** (fase · versión activa · ⏳ Gate/pendiente · → siguiente paso). La historia y las decisiones viven en el `walkthrough.md` de cada relato y en la entrada de sesión — NO se acumulan en el snapshot. Lo terminado/derogado **SE BORRA** del snapshot (ya quedó en diario/bitácora). Luego **añadir la sesión nueva al tope de `## 🗓️ Sesiones recientes`** (más-reciente-arriba).
+    - **Autochequeo de formato (antes de autopoda):** releer la entrada recién escrita en el diario y confirmar, línea por línea, que cumple §B: guion simple `-` (no em-dash), heading `####`, línea en blanco tras el encabezado, bullets `-` (no `*`), cierre `> 🫦 *…*` presente, sin sufijo `✅`. Y en memoria: el bullet nuevo trae `(emoji Título corto)`. Si algo no calza, corregirlo ANTES de rotar/commitear — no después.
     - **AUTOPODA (OBLIGATORIO — memoria Y diario):** tras añadir las entradas, ejecutar la rotación: memoria (últimas 7 sesiones → bitácora) **y diario (últimas 15 entradas → `memoria_historica/diario_de_servicio_archivo_2026.md`)**. Sin esto el diario llegó a 822 KB / 429 sesiones (corte 02/07/2026):
       // turbo
       - `python 99_Sistema/scripts/mantenimiento/rotar_memoria.py` (idempotente, preserva EOL/UTF-8; `--dry-run` para previsualizar, `--keep N` / `--keep-diario M` para ajustar).

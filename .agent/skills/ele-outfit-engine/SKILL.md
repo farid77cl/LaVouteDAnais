@@ -149,16 +149,18 @@ Antes de proponer cualquier Look, consulta los últimos looks del sub-arquetipo 
 | Setting/escenario | ≥ 3 looks previos del mismo sub-arquetipo |
 | ~~Familia cromática dominante (transversal)~~ | ⛔ **DEROGADA (12/06/2026)** |
 | **Modo cromático Monoblock** | **máx. 2 looks Monoblock consecutivos GLOBALES → el 3º debe ser Contraste / Triada / Gradiente / Neutro+Pop** *(vigente — regla de composición)* |
+| 🐆 **Animal Print (transversal)** | **mínimo 1 de cada 8 looks nuevos GLOBALES → leopard/tiger/snake/zebra en vestuario/calzado/accesorio** *(vigente — 2ª cuota cromática viva, Directiva Ama 11/07/2026, ver `identidad_ele.md` §Paleta)* |
 
-> 🌈 **LIBERTAD TOTAL DE COLOR Y MATERIALES (Directiva Ama 12/06/2026):** quedan **derogadas todas las ventanas y cuotas cromáticas** (ventana 1-de-5 por sub-arquetipo y global/transversal, cero-solapamiento en batch, cuota Amarillos 1/6, cuota Cherry dominante 1/8) **y la ventana de material (≥2)**. Color y material se eligen libremente por criterio estético/temático. **El límite es de identidad, no de rotación: Ele es una MODELO FETICHISTA** — la libertad de materiales opera dentro del universo fetish (vinyl, PVC, látex, wet-look, chrome, crystal mesh, wet-satin, laser-cut, rhinestone…); la tela natural mate sigue prohibida. Siguen vigentes: **anti-monoblock** (máx 2 seguidos — composición) y el cherry red de **pelo/labios** como ADN inamovible.
+> 🌈 **LIBERTAD TOTAL DE COLOR Y MATERIALES (Directiva Ama 12/06/2026):** quedan **derogadas todas las ventanas y cuotas cromáticas** (ventana 1-de-5 por sub-arquetipo y global/transversal, cero-solapamiento en batch, cuota Amarillos 1/6, cuota Cherry dominante 1/8) **y la ventana de material (≥2)**. Color y material se eligen libremente por criterio estético/temático. **El límite es de identidad, no de rotación: Ele es una MODELO FETICHISTA** — la libertad de materiales opera dentro del universo fetish (vinyl, PVC, látex, wet-look, chrome, crystal mesh, wet-satin, laser-cut, rhinestone…); la tela natural mate sigue prohibida. Siguen vigentes: **anti-monoblock** (máx 2 seguidos — composición) y el cherry red de **pelo/labios** como ADN inamovible. La **cuota Animal Print** (fila de arriba) es una directiva NUEVA y posterior (11/07/2026) — no la revive esta nota, es una regla propia que convive con la libertad total.
 
 **Protocolo:**
-1. Consultar los últimos N looks del sub-arquetipo (N = ventana de la tabla) **y los últimos 2 looks globales** (para monoblock).
+1. Consultar los últimos N looks del sub-arquetipo (N = ventana de la tabla) **y los últimos 8 looks globales** (para monoblock + animal print).
 2. Listar qué siluetas y settings están bloqueados (color y material son libres, siempre fetish).
 3. **Contar cuántos de los últimos 2 looks globales fueron Monoblock.** Si ambos lo fueron → este look NO puede ser Monoblock.
-4. Solo entonces avanzar al Paso 1.
+4. **Contar cuántos de los últimos 8 looks globales llevaron Animal Print.** Si ninguno → este look DEBE llevarlo (leopard/tiger/snake/zebra en vestuario, calzado o accesorio; no repetir el depredador ni el sub-arquetipo de la última cuota).
+5. Solo entonces avanzar al Paso 1.
 
-**Ejemplo:** Últimos 3 Pin-Up: PA1 vinyl polka-dot · PA3 sundress · PB1 Space Age → Bloqueadas: siluetas PA1/PA3/PB1. Últimos 2 globales fueron Monoblock champagne + Monoblock oxblood → **este look NO puede ser Monoblock** → forzar Contraste/Triada (color y material a libre elección).
+**Ejemplo:** Últimos 3 Pin-Up: PA1 vinyl polka-dot · PA3 sundress · PB1 Space Age → Bloqueadas: siluetas PA1/PA3/PB1. Últimos 2 globales fueron Monoblock champagne + Monoblock oxblood → **este look NO puede ser Monoblock** → forzar Contraste/Triada (color y material a libre elección). Últimos 8 globales: ninguno llevó animal print → **este look debe incorporar animal print** (ej. leopard-print garter, snake-texture gloves-free accent, zebra clutch) sin repetir el sub-arquetipo de la última vez que se usó.
 
 ---
 

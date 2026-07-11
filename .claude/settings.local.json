@@ -92,7 +92,8 @@
       "Bash(git pull *)",
       "PowerShell(node --version 2>$null; npm --version 2>$null; \\(Get-Command node -ErrorAction SilentlyContinue\\).Source; \\(Get-Command npm -ErrorAction SilentlyContinue\\).Source)",
       "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); npm --version)",
-      "Bash(git stash *)"
+      "Bash(git stash *)",
+      "Bash(git status *)"
     ]
   }
 }
