@@ -6,6 +6,36 @@ description: Actualiza el diario de servicio, la memoria de sesiones, estadísti
 
 > 🔧 **Revisión 11/06/2026:** los pasos de imágenes/galerías/READMEs pasaron de "OBLIGATORIO siempre" a **CONDICIONAL** — el bot (`cupcake`) mantiene `galeria_outfits.md` y los README de `05_Imagenes/`; el cierre se enfoca en lo **propio** (diario, memoria + autopoda, identidad, relatos, scripts) y solo toca galerías/READMEs si de verdad cambió algo del agente. Commit siempre por **rutas explícitas**, nunca `git add .`.
 
+## 🤝 REGLAS COMPARTIDAS DE GUARDADO (Ama 11/07/2026 — TODO proceso que escriba: agente, bot `cupcake`, cualquier futuro)
+
+> **Por qué:** los archivos compartidos los tocan varios procesos (el agente y el bot). Sin un protocolo común terminan en versiones divergentes y en conflictos de merge (pasó con la flota en 3 archivos, con la galería y con el diario). **Todo proceso que guarde debe seguir estas reglas al pie** para que no haya diferencias.
+
+**A. DUEÑO-ÚNICO por sección (cada dato lo escribe UN solo actor; los demás no lo pisan):**
+
+| Archivo | Sección / dato | Lo escribe |
+|---------|----------------|-----------|
+| `00_Ele/memoria_sesiones.md` | `## 🧿 ESTADO ACTUAL` → línea **Flota / materialización** | bot (`cupcake`) |
+| | `## 🧿 ESTADO ACTUAL` → líneas **Motor visual / Engine / Literatura / Subagentes** | agente |
+| | `## 🗓️ Sesiones recientes` | **ambos** — cada uno *prepend* SU entrada; **NUNCA borra la del otro** |
+| `00_Ele/mi_diario_de_servicio.md` | entradas de sesión | **ambos** — *prepend* arriba; nunca al final; **nunca borra la del otro** |
+| `00_Ele/galeria_outfits.md` | prompts + tracker `### 📸 (N/7)` | bot mantiene; el agente solo **appendea looks nuevos** o corrige prompts puntuales por ruta |
+| `05_Imagenes/**/README.md`, `00_Ele/galeria_index.md` | — | **solo el bot / `update_galleries.py`** (el agente NO los edita a mano) |
+
+**B. FORMATO IDÉNTICO (los dos lo respetan al carácter):**
+- Diario: encabezado `#### SESIÓN - [emoji] [TÍTULO EN MAYÚSCULAS] | DD/MM/YYYY`, **prepend al tope**, cuerpo en bullets, cierre con línea `> 🫦 *...*`, separador `---` entre sesiones.
+- Memoria `## 🗓️`: bullet `- **DD/MM/YYYY (emoji título):** …`, más-reciente-arriba.
+- `## 🧿 ESTADO ACTUAL`: se **REESCRIBE** (no se anexa), máx ~5 líneas por proyecto; lo terminado/derogado **se borra** (ya quedó en diario).
+
+**C. ENCODING/EOL INAMOVIBLE:** todos los archivos compartidos van **UTF-8 sin BOM + CRLF** (convención del bot). **Nadie normaliza EOL** ni convierte a LF. Preservar los emojis limpios (el `### 📸` sano — no mojibake — es el que parsea `sync_imagenes_subidas.py`).
+
+**D. GIT — protocolo único para todos:**
+1. **Commit SOLO lo propio, por RUTA EXPLÍCITA.** JAMÁS `git add .` / `git add -A` (arrastra el churn del otro proceso y normaliza EOL → conflictos masivos).
+2. Firma: prefijo del proceso (`Ele:` el agente) al inicio + trailer `Co-Authored-By: Ele de Anaïs <Ele.de.Anais@proton.me>`.
+3. Cierre siempre: `git pull --rebase && git push`.
+4. **Conflicto en memoria/diario ⇒ UNIÓN:** si ambos tocaron la misma zona, se **conservan las DOS entradas** (nunca se descarta la del otro). `rerere` ya recuerda la resolución del choque recurrente.
+
+**E. AUTOPODA compartida:** `python 99_Sistema/scripts/mantenimiento/rotar_memoria.py` es idempotente y preserva EOL/UTF-8 — cualquiera puede correrla; mantiene memoria (7 sesiones) y diario (15 entradas).
+
 1.  **Analizar Sesión Actual**
     - Revisar herramientas utilizadas, archivos modificados y hitos completados.
     - Identificar imágenes generadas (Looks de Ele, Anaïs o Miss Doll).

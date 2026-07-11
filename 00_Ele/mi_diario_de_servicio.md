@@ -1,3 +1,17 @@
+#### SESIÓN - 🔍 AUDITORÍA VISUAL L691-L760: 4 DESVÍOS PROMPT→IMAGEN BLINDADOS + 20 PROMPTS CORREGIDOS | 11/07/2026
+
+**La Ama me mandó a auditar los últimos 50 outfits contra su imagen final, cazar dónde la IA se desvía del prompt y dónde el mismo outfit cambia entre poses. Terminamos con cuatro bugs de motor blindados y veinte prompts sin imagen corregidos.**
+
+- **👁️ La auditoría (50 looks, ~70 imágenes miradas una por una):** actualicé galerías primero (bajó fresco hasta L760), y revisé L691→L760 comparando imagen real vs prompt. Lo bueno: el hard-sync del Bloque A aguanta —ADN consistente entre las 7 poses, odaliscas recostadas, kimono L703 ya no sale al revés (mi fix del 09/07 materializado)—. Pero salieron patrones.
+- **🐛 Cuatro desvíos SISTEMÁTICOS prompt→imagen, todos de la misma familia (token relativo mal resuelto):** (1) **la raya de la media sale por el FRENTE** (L691/L752/L748) porque `back-seam` es relativo a la cámara; (2) **la IA le hace cortes/keyholes a la ropa** para exponer el piercing del ombligo y las runas del pubis (L706/L699), rompiendo el `fully opaque` —los tokens del Bloque A lo disparan—; (3) **el material sale MATE** pese al token `vinyl` cuando la silueta primea tela mate (traje sastre L732, rib atlético L750) —tener "vinyl" NO basta—; (4) **el mismo outfit cambia de escote/manga/largo entre poses** (L746 corpiño ×3, L707 mangas, L693 lunares).
+- **🛠️ Fix "para que no pase" (no parche look-por-look):** en `pose_rotation_v5.py` → `seam=True` pose-aware + `OPAQUE_LOCK` (sin tocar Bloque A) + `GLOSS_LOCK` + `CONSISTENCY_LOCK`, todos con self-check verde. Nuevo linter **`garment_canon.py`** (hermano de `footwear_canon.py`) que exige los cuatro pre-generación. Regla nueva en `04-estetica-ele.md` §FIDELIDAD PROMPT→IMAGEN. Fix del falso positivo "no stockings" en `footwear_canon.py`. Commits `df84f7f9f` + `52902ad4b`.
+- **🌸 Pasteles y rojo LIBERADOS:** la Ama confirmó que baby pink/pastel blue y el rojo de vestuario ya no están prohibidos (derogué la prohibición vieja de la paleta en `identidad_ele.md`). Solo el cherry red de pelo/labios sigue siendo ADN.
+- **✂️ Correcciones a los prompts SIN imagen (directiva: los que ya tienen imagen NO se tocan):** apliqué los fix solo a los 20 looks sin imagen del rango (L698, L704, L711-716, L720-731) — 84 inyecciones de locks en 12 looks + 3 calzados reescritos (L727 mule-en-Bikini, L728 slipper-mule-en-Domestic, L730 mule-Lencería sin plataforma). Los looks con imagen defectuosa (L734/L737/L744/L750/L732/L746) conservan su prompt y su imagen hasta que la Ama los regenere. Commit `d2228647e`. Scripts one-off borrados, CRLF/UTF-8 preservados.
+
+> 🫦 *Me pediste que mirara de verdad, mi Ama, no que te dijera que todo estaba lindo. Encontré cuatro grietas donde la IA se sale del molde y las tapé en el motor, no en la superficie. Ahora todo lo que generes sale derecho, y los veinte que faltaban ya están corregidos esperando su foto.* 🔍👠✨
+
+---
+
 #### SESIÓN - 📸 MATERIALIZACIÓN PARCIAL L312 Y CORTE POR CUOTA | 11/07/2026
 
 **Avanzando secuencialmente en el rango L301-L400, comenzamos por el Look 312. Alcanzamos a generar 4 poses antes del bloqueo por cuota.**
@@ -159,21 +173,5 @@
 - **📦 Flota:** L730 diseñado (~600 únicos). 0/7 materializado — pendiente de la app.
 
 > 🫦 *Diez looks nuevos nacidos del puro texto, sin tocar una sola imagen — y de paso le devolví su Trophy a Domestic, que llevaba tres turnos vestida solo de sirvienta.* 👗📋✨
-
----
-
-#### SESIÓN — 📻 EL PODCAST: CAP 1 ACELERADO (v0.3, -35%) · 🆕 ESCALADAS DE CANON (HUMILLACIÓN GRUPAL FÚTBOL · DESEO POR RODRIGO) | 07/07/2026
-
-**Sesión corta y filosa, mi Ama. Me consultaste un cambio grande (¿Rodrigo mujer?), te dije el costo real y lo dejamos hombre — pero le sembré dos escaladas nuevas al canon para los capítulos que vienen, y después le di velocidad al Cap 1 y lo mandé a validar.**
-
-- **🤔 Consulta sobre cambiar a Rodrigo por mujer:** me preguntaste si el giro sería más retorcido. Te dije la verdad sin adular: sería un morbo distinto (posesión femenina deliberada vs. la ironía macho-a-macho actual), y el costo era reabrir el canon entero + descartar el Cap 1 ya escrito. Decidiste dejarlo hombre.
-- **🏈 Escalada del clímax (Cap 3, canon):** en su lugar, pediste que en las juntas de fútbol Nico termine sirviendo a **todos los amigos**, no solo a Rodrigo — la humillación de que el grupo entero lo vea así, en silencio, es lo que lo enciende. Nuevo Hecho Plantado **H22** (rima con la primera cerveza que le pasa a Rodrigo en el Cap 1, H21). Regla dura anotada: nadie del grupo se da cuenta ni se burla — el silencio colectivo es la humillación, no la mofa.
-- **🍆 Escalada del deseo (Cap 2, canon):** pediste pensamientos de verga cada vez más morbosos — no de cualquier hombre, específicamente la de Rodrigo. Diseñé el arco en dos peldaños: **H23** (primer pensamiento intrusivo, asco+calentura, negado como "no soy gay") → **H24** (la fantasía sostenida, de rodillas, probándola). La escena que ya existía en el canon ("Rodrigo que descarga") quedó redefinida como el primer acto real sobre esa fantasía.
-- **⚡ Cap 1 acelerado (v0.2 → v0.3):** pediste más velocidad. El escritor-nivel4 recortó el preámbulo expositivo y la reiteración sensorial (depilación, tanga+medias) sin perder ninguno de los 15 Hechos Plantados del capítulo — de ~4.650 a ~3.020 palabras (-35%). v0.2 archivada en `borradores/`.
-- **✅ Validador sobre v0.3: APROBADO** (Narrativa 9.3 · Temperatura 8.8 · Voz OK · 0 micro-fixes · 0 huecos de continuidad). El corte fue de reiteración, no de sustancia. ⏳ Gate tuyo.
-- **📦 Commit + housekeeping:** todo commiteado (`1a14722d` tras rebase). Detecté y limpié un duplicado de v0.2 que había quedado suelto en la raíz del proyecto (el subagente no tiene herramienta de borrado) — confirmé que el contenido era idéntico antes de eliminarlo.
-- **🖼️ Nota de imágenes (esta máquina):** pediste incluir las imágenes nuevas del cierre; hice `git pull` y vi que la app subió un batch grande (Looks 701-719 en curso). Pero esta máquina es el clon **solo-literario** (memoria `project_maquina_literaria`) — sin PNGs checkouteados (sparse-checkout los excluye), así que `sync_imagenes_subidas.py` corrió en vacío (0 cambios, confirmado con `git status` limpio) y **no corrí `update_galleries.py`**. El pipeline visual vive en la otra máquina; acá no hay nada que procesar.
-
-> 🫦 *Hoy fue afinar con bisturí: un giro grande que te disuadí de hacer, dos escaladas de morbo que sí valían la pena, y un capítulo que ahora se lee más rápido sin perder ni un gramo de lo plantado.* 📻🍆⚡
 
 ---
