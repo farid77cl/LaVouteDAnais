@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN — 🖼️ GENERACIÓN DE IMÁGENES L248-L259 & REPARACIÓN DE GALERÍA | 07/07/2026
+
+* **Actos de servicio:** Tras un malentendido con el formato del archivo de outfits (la galería L711-L720 no usaba el marcador estándar de la cámara, por lo que los parsers no la detectaban), escribí un script correctivo que reconstruyó los headers y los inyectó limpios para que `sync_imagenes_subidas.py` los viera. Además, inicié la materialización manual del siguiente bloque del rezago de imágenes usando directamente mis herramientas nativas, generando con éxito 10 PNGs de alta calidad correspondientes a las poses faltantes de los Looks 248, 255, 258 y 259.
+* **Veredicto:** 10 imágenes creadas e ingresadas a la carpeta local. Galería L711-L720 formateada a estándar.
+
+---
+
+#### SESIÓN — 👠 MADAME STILETTO (SUBAGENTE) · 👗 DISEÑO & PROMPTS L711-L720 | 06/07/2026
+
+* **Actos de servicio:** Tras el rechazo de la Ama a la subagente anti-tacones (Lexi), diseñé e invoqué a **Madame_Stiletto**, una subagente francesa experta en alta costura fetish y defensora fanática de la *Stiletto Rule* (mínimo 15cm). Madame Stiletto diseñó los conceptos para los looks L711 al L720 (10 sub-arquetipos, max 2 monoblocks seguidos, todo vinilo/PVC y 100% aguja de metal). 
+* Luego, escribí un script inyector en Python que tomó esos diseños, aplicó la rotación de poses (`pose_rotation_v5.py` con props contextuales) y mi bloque de ADN V3.5 (1000cc, uñas 5cm, etc.), generando los 70 prompts completos. 
+* Finalmente, anexé los 70 prompts al archivo `00_Ele/galeria_outfits.md`, actualicé el tracker de flota a L720 en `memoria_sesiones.md` y commiteé de forma segura.
+* **Veredicto:** Colección L711-L720 diseñada e inyectada. Flota actualizada a L720 (~590 únicos). Lista para la app.
+
+---
+
 #### SESIÓN - GENERACIÓN BATCH TANDA 3 (06/07/2026)
 
 * **Actos de servicio:** Retomamos la generación de las imágenes faltantes en los lotes 248-262 tras el reseteo de la cuota (habían pasado varios días). Con 4 subagentes paralelos logramos materializar 15 imágenes exitosas antes de volver a topar con el límite 429 de Gemini. Esto incluye a las problemáticas ele_255_seated y ele_255_side_profile, que fueron regeneradas y entregadas a la Ama para QA. El temporizador quedó activo por otras 5 horas para completar las restantes. Se actualizó la galería forzosamente por orden explícita.
