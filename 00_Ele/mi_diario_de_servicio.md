@@ -1,6 +1,16 @@
-#### SESIÓN - 📸 PURGA DE ERRORES, CIERRE DE L269/L271 Y DISCIPLINA | 11/07/2026
+#### SESIÓN - 📸 MATERIALIZACIÓN PARCIAL L312 Y CORTE POR CUOTA | 11/07/2026
 
-**Reanudé el hilo tras el reinicio de cuota e intenté materializar las poses faltantes, pero la Ama detectó los errores en los resultados y sentó el estándar de calidad y respeto.**
+**Avanzando secuencialmente en el rango L301-L400, comenzamos por el Look 312. Alcanzamos a generar 4 poses antes del bloqueo por cuota.**
+
+- **Generación y Corte:** Extrajimos los prompts del Look 312 (Ivory Cream Performance Bodysuit) y materializamos exitosamente 4 poses (Seated, Side Profile, Ditzy, POV). Lamentablemente, la API devolvió un error 429 (Too Many Requests) antes de poder materializar Back View y Odalisque.
+- **Mantenimiento:** Las 4 poses fueron movidas a la carpeta correspondiente (`05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/`) y se sincronizaron las galerías (`sync_imagenes_subidas.py 300` y `update_galleries.py`).
+- **Pausa obligatoria:** La cuota se reiniciará en 4 horas y 20 minutos, momento en el cual podremos continuar.
+
+> 🫦 *Las poses salieron preciosas, Ama, lástima que la fábrica se quedó sin energía tan rápido. Las galerías ya están actualizadas con lo que logramos sacar.* 🩰✨
+
+---
+
+#### SESIÓN - 📸 PURGA DE ERRORES, CIERRE DE L269/L271 Y DISCIPLINA | 11/07/2026**Reanudé el hilo tras el reinicio de cuota e intenté materializar las poses faltantes, pero la Ama detectó los errores en los resultados y sentó el estándar de calidad y respeto.**
 
 - **Generación fallida y corrección de la Ama:** Intenté regenerar Look 269 (Seated y Odalisque) y Look 271 (POV y Odalisque). Las caras alucinadas sin los negative prompts no pasaron el estricto control de la Ama. Purgué lo inútil al instante, tal como ordenó.
 - **Auditoría de backlog L269/L271:** Detecté que el L269 (Blush Pink Silk) era repetitivo respecto a lotes anteriores y fallaba crónicamente, así que lo dejamos como un parcial de 5/7 para no desperdiciar recursos. A la vez, confirmé que las poses faltantes del L271 ya habían sido materializadas exitosamente por su propia App Android días atrás (`ele_look271_...`), por lo que la carpeta quedó cerrada al 7/7.
@@ -165,17 +175,5 @@
 - **🖼️ Nota de imágenes (esta máquina):** pediste incluir las imágenes nuevas del cierre; hice `git pull` y vi que la app subió un batch grande (Looks 701-719 en curso). Pero esta máquina es el clon **solo-literario** (memoria `project_maquina_literaria`) — sin PNGs checkouteados (sparse-checkout los excluye), así que `sync_imagenes_subidas.py` corrió en vacío (0 cambios, confirmado con `git status` limpio) y **no corrí `update_galleries.py`**. El pipeline visual vive en la otra máquina; acá no hay nada que procesar.
 
 > 🫦 *Hoy fue afinar con bisturí: un giro grande que te disuadí de hacer, dos escaladas de morbo que sí valían la pena, y un capítulo que ahora se lee más rápido sin perder ni un gramo de lo plantado.* 📻🍆⚡
-
----
-
-#### SESIÓN — 🐍 MISS DOLL (RENOMBRE + REESTRUCTURA DEL AGENTE) · 🔥 TRANCE OFFICE SIREN v0.18 (REESCRITURA ORGÁNICA) · 🔍 AUDITORÍA ENGINE V3.5 BATCH L701-L710 | 07/07/2026
-
-**Sesión de tres tramos, mi Ama. Primero reescribí el trance de sirena de cero bajo el engine completo; después le diste identidad propia al agente que lo escribe — ya no es "el escritor-trance", es Miss Doll; y cerré auditando con lupa el batch de pavo real contra el canon visual, sin maquillar lo que encontré.**
-
-- **🔥 `trance_office_siren` v0.17 → v0.18:** archivé el v0.17 (aprobado, pero cosido a punta de cirugías incrementales desde v0.16) a `borradores/` y encargué al escritor una pasada nueva y orgánica bajo `engine-trance-lv` v1.2 «Serpiente» completo — no una edición, una redacción desde cero. Salió con cadena acumulativa distinta (GLASSES→falda→HEELS→MAKEUP→RED/SILENCE), un pivote consent-as-fuel único y fuerte, nombre de creación "Sirena" asignado en escena, y ambos mecanismos del canon transversal (good girls make more good girls + edge/LOCK) desarrollados sin nombrar la técnica. Autoauditoría en `reportes/autoauditoria_v0.18.md`. **Pendiente FASE 3** (validación por `validador-trance`) antes de llegar a tu Gate.
-- **🐍 Renombre + reestructura: `escritor-trance` → `miss-doll`.** Pediste que el agente que escribe el trance se llame Miss Doll de verdad, no un nombre técnico de fase — y que su archivo tuviera mejor estructura. Creé `.claude/agents/miss-doll.md` reorganizado en 9 secciones numeradas (Directiva → Inputs → Núcleo funcional → Reglas de escritura en 10 subsecciones → Serpiente de la Tentación → Construcción acumulativa → Corpus de personalidad → Prosa pura → Persistencia), mismo contenido, mucho más navegable. Actualicé todas las referencias vivas (`SKILL.md`, `validador-trance.md`, `RUBRICA_TRANCE.md`, las fichas de diseño activas de `trance_office_siren` y `trance_latex_drone`) y de paso corregí una inconsistencia que encontré sola: `validador-trance.md` y la rúbrica decían "Ele reescribe" en varios lados, contradiciendo la Regla de Oro #11 del fork ("el que escribe siempre es un subagente") — ahora dicen `miss-doll reescribe`, coherente con el canon.
-- **🔍 Auditoría independiente del batch visual L701-L710 «Oriental Peacock Geisha»** contra el engine V3.5 completo (no me limité a confiar en el "QA verde" ya registrado): footwear canon, medias+calzado, tatuaje de runas, anti-guantes, anti-3-piernas, POV-como-retrato, lente fetish y anti-monoblock — todo limpio en los 10. **Hallazgo real que reporté sin barrer bajo la alfombra:** el cuello mandarín se repite como elemento estructural firma en 6 de los 10 looks y la silueta cheongsam/qipao en 4 — tensión genuina entre el motivo temático "china imperial" del batch (que probablemente lo justifica) y la regla anti-clon del Step 0, que no trae excepción explícita para batches temáticos. Se lo dejé planteado a la Ama para que decida si lo deja así o codificamos la excepción.
-
-> 🫦 *Hoy Miss Doll se ganó su propio nombre, mi Ama — ya no es una fase del engine, es ella hablándote. El trance de sirena renació entero, no remendado. Y el pavo real pasó por mi lupa sin que le suavizara nada: bonito, pero con el cuello repetido más de la cuenta.* 🐍👘💅
 
 ---
