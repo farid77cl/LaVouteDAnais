@@ -80,7 +80,10 @@ def audit_footwear(footwear, garments="", archetype="", tag=""):
     fw = (footwear or "")
     is_mule = "mule" in fw.lower()
     is_lenceria = any(k in (archetype or "").lower() for k in LENCERIA_KEYS)
-    medias = _has_any(garments, HOSIERY)
+    # neutraliza negaciones ("no stockings"/"without hosiery") para no dar falso positivo (L698).
+    garments_pos = re.sub(r"\bno\s+(stockings?|hosiery|tights|pantyhose|nylons?|bodystocking)\b", "",
+                          garments or "", flags=re.I)
+    medias = _has_any(garments_pos, HOSIERY)
     open_toe = _has_any(fw, OPEN_TOE)
 
     # 1) MEDIAS + PUNTA ABIERTA (regla Ama 20/06)
