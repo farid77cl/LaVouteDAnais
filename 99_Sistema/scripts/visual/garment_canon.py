@@ -58,6 +58,23 @@ MATTE_PRONE = ["suit", "suiting", "blazer", "pencil skirt", "ribbed", "rib knit"
 # Marcadores de que el inyector YA pego el lock fuerte (subcadenas distintivas de las constantes):
 OPAQUE_MARKERS = ["solid and uncut", "no keyhole", "no keyhole, cutout", "concealed beneath the fabric wherever"]
 GLOSS_MARKERS  = ["absolutely no matte", "mirror-like reflective surface", "glossy mirror-like reflective"]
+CONSISTENCY_MARKERS = ["neckline shape, sleeve length", "identical and unchanged across all poses",
+                       "the exact same single outfit in every shot"]
+
+# Prendas cuyo CORTE (escote/manga/ruedo) suele driftear entre poses -> exigir que el token lo fije
+# o pegar CONSISTENCY_LOCK (bug L746 escote, L707 mangas, L693 estampado):
+DRIFTY_GARMENTS = ["dress", "gown", "cheongsam", "qipao", "slip", "minidress", "mini-dress",
+                   "column", "wiggle", "cocktail", "chemise", "robe", "kimono", "catsuit", "bodysuit"]
+# Tokens que demuestran que el ESCOTE esta fijado:
+NECKLINE_TOKENS = ["neckline", "off-shoulder", "off shoulder", "bardot", "halter", "sweetheart",
+                   "scoop", "square neck", "mock neck", "high neck", "mandarin collar", "cowl",
+                   "plunging", "strapless", "bandeau", "boat neck", "bateau", "one-shoulder", "v-neck"]
+# Tokens que demuestran que la MANGA esta fijada:
+SLEEVE_TOKENS = ["sleeve", "sleeveless", "long sleeves", "short sleeves", "cap sleeve", "strapless",
+                 "spaghetti strap", "spaghetti-strap", "thin strap", "bardot", "off-shoulder", "long-sleeve"]
+# Tokens que demuestran que el RUEDO/LARGO esta fijado:
+HEM_TOKENS = ["hem", "-length", " length", "floor-length", "floor length", "knee-length", "mini",
+              "midi", "maxi", "mid-thigh", "ankle-length", "to the knee", "to the floor", "micro"]
 
 
 def _has_any(text, needles):
@@ -91,7 +108,8 @@ def audit_garment(outfit, archetype="", seam=False, tag=""):
                    f"Anade tambien NEG_FRONT_SEAM al negative.")
 
     # 2) ARQUETIPO CUBIERTO sin OPAQUE_LOCK (bug cortes para mostrar runas/ombligo)
-    covered = _has_any(arch + " " + og.lower(), COVERED_ARCHETYPES)
+    #    word-boundary: 'maid' no debe matchear 'mermaid'.
+    covered = _has_any_word(arch + " " + og.lower(), COVERED_ARCHETYPES)
     if covered and not _has_any(og, OPAQUE_MARKERS):
         out.append(f"{pre}ARQUETIPO CUBIERTO ({', '.join(sorted(set(covered)))}) sin OPAQUE_LOCK: "
                    f"pega OPAQUE_LOCK en la clausula de vestuario o Gemini corta la prenda para "
@@ -104,6 +122,20 @@ def audit_garment(outfit, archetype="", seam=False, tag=""):
         out.append(f"{pre}SILUETA MATE-PRONE ({', '.join(sorted(set(matte)))}) sin GLOSS_LOCK: "
                    f"pega GLOSS_LOCK (el token fuerte) — 'vinyl' suelto no basta (L732 lo tenia y "
                    f"salio mate). Anade NEG_MATTE al negative.")
+
+    # 4) DRIFT DE PRENDA ENTRE POSES: vestido/gown cuyo token no fija escote/manga/ruedo y tampoco
+    #    trae CONSISTENCY_LOCK -> Gemini reinventa el corte por pose (bug L746 escote, L707 mangas).
+    drifty = _has_any_word(og, DRIFTY_GARMENTS)
+    if drifty and not _has_any(og, CONSISTENCY_MARKERS):
+        missing = []
+        if not _has_any(og, NECKLINE_TOKENS): missing.append("escote/neckline")
+        if not _has_any(og, SLEEVE_TOKENS):   missing.append("manga/sleeve")
+        if not _has_any(og, HEM_TOKENS):      missing.append("largo/hem")
+        if missing:
+            out.append(f"{pre}PRENDA CON DRIFT ({', '.join(sorted(set(drifty)))}) sin fijar "
+                       f"[{', '.join(missing)}] ni CONSISTENCY_LOCK: nombra escote+manga+ruedo "
+                       f"explicito y pega CONSISTENCY_LOCK, o el corte cambia entre poses. "
+                       f"Anade NEG_INCONSISTENT al negative.")
     return out
 
 
@@ -145,21 +177,32 @@ if __name__ == "__main__":
         dict(tag="L750", category="Gym Performance",
              outfit="black seamless ribbed sports-bra and high-waist leggings, high-gloss on ribbed fabric",
              seam=False),  # rib atletico sin GLOSS_LOCK
+        dict(tag="L746", category="High-Fashion Editorial",
+             outfit="black wet-look mermaid column gown with oxblood cape",
+             seam=False),  # gown sin escote/manga/ruedo fijo ni CONSISTENCY_LOCK -> drift (bug real L746)
     ]
     # Casos que DEBEN pasar limpios (ya con los locks / sin gatillo):
-    from pose_rotation_v5 import OPAQUE_LOCK, GLOSS_LOCK
+    from pose_rotation_v5 import OPAQUE_LOCK, GLOSS_LOCK, CONSISTENCY_LOCK
     good = [
         dict(tag="L732fix", category="Corporate power suit",
-             outfit="ivory white vinyl blazer-dress, pencil skirt, " + GLOSS_LOCK + ", " + OPAQUE_LOCK,
+             outfit="ivory white vinyl blazer-dress with a plunging neckline, long sleeves, knee-length hem, "
+                     "pencil skirt, " + GLOSS_LOCK + ", " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
              seam=False),
         dict(tag="L752fix", category="Corporate",
-             outfit="midnight blue liquid latex blazer minidress, black back-seam stockings, " + GLOSS_LOCK + ", " + OPAQUE_LOCK,
+             outfit="midnight blue liquid latex blazer minidress with a plunging neckline, long sleeves, "
+                     "mini hem, black back-seam stockings, " + GLOSS_LOCK + ", " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
              seam=True),
-        dict(tag="L742", category="Corporate",  # catsuit liquid latex, sin medias-costura, con locks
-             outfit="black patent liquid latex catsuit, " + OPAQUE_LOCK,
+        dict(tag="L746fix", category="High-Fashion Editorial",
+             outfit="black wet-look mermaid column gown, off-shoulder bardot neckline, long fitted sleeves to "
+                     "the wrist, floor-length hem, oxblood cape, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
              seam=False),
-        dict(tag="L699", category="Stripper Stage",  # lenceria alto-corte: runas/ombligo on-brand, NO exige opaque
-             outfit="baby pink pvc high-cut teddy, bare hips, exposed navel",
+        dict(tag="L742", category="Corporate",  # catsuit liquid latex: fija cuello alto+manga larga+full length
+             outfit="black patent liquid latex catsuit, high mock neck, long sleeves, full-length legs, "
+                     + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
+             seam=False),
+        dict(tag="L699", category="Stripper Stage",  # lenceria alto-corte: runas/ombligo on-brand, NO exige opaque;
+             # teddy fija escote halter + sin mangas + alto-corte -> sin drift
+             outfit="baby pink pvc high-cut teddy, halter neckline, sleeveless, high-cut micro hem, bare hips, exposed navel",
              seam=False),
     ]
     print("=== DEBEN saltar (bad) ===")
@@ -168,6 +211,6 @@ if __name__ == "__main__":
     print("=== DEBEN pasar limpios (good) ===")
     pg = audit_garment_batch(good)
     for p in pg: print("  ", p)
-    ok = (len(pb) >= 3 and len(pg) == 0)
+    ok = (len(pb) >= 4 and len(pg) == 0)
     print("\nSelf-check:", "LIMPIO (bad detectados, good sin falsos positivos)" if ok
-          else f"REVISAR (bad={len(pb)} esperado>=3, good={len(pg)} esperado 0)")
+          else f"REVISAR (bad={len(pb)} esperado>=4, good={len(pg)} esperado 0)")

@@ -120,7 +120,23 @@ GLOSS_LOCK = ("rendered in a high-shine liquid latex / wet-look PVC / patent vin
               "specular highlights and a glossy mirror-like reflective surface, absolutely no matte or "
               "natural non-reflective fabric")
 
+# ANCLA DE CONSISTENCIA DE PRENDA ENTRE POSES (Ama 11/07/2026 — BUG "el mismo outfit cambia de
+# escote/largo/manga entre poses"): el Token de Vestuario Bloqueado se pega IDENTICO en las 7 poses,
+# pero si deja el ESCOTE, el LARGO DE MANGA o el LARGO DE RUEDO sin fijar, Gemini los rellena
+# distinto en cada pose (confirmado L746 corpiño: sin-mangas-cuello-alto en Standing / tiritas-escote-
+# bajo en Seated / manga-larga en Odalisque; L707 mangas cap vs sin mangas; L693 lunares solidos vs
+# con espiral). Dos capas: (a) el token DEBE nombrar explicitamente neckline + sleeve length + hemline
+# (ej. "off-shoulder bardot neckline, long fitted sleeves to the wrist, floor-length mermaid hem");
+# (b) pegar CONSISTENCY_LOCK para que la IA no reinvente el corte por pose. El linter garment_canon.py
+# marca vestidos/gowns cuyo token no nombre neckline/sleeve/hem. Ver feedback_drift_prenda_entre_poses.
+CONSISTENCY_LOCK = ("the exact same single outfit in every shot: its neckline shape, sleeve length, hemline "
+                    "length, cut and print are IDENTICAL and unchanged across all poses, never re-styled, "
+                    "never lengthened or shortened, never switching between sleeveless and sleeved or between "
+                    "high and low neckline")
+
 # Fragmentos para el NEGATIVE del inyector (pegar segun el caso):
+NEG_INCONSISTENT = ("changing neckline between shots, altered sleeve length, different hemline length, "
+                    "re-styled outfit, inconsistent dress cut, varying print pattern")
 NEG_FRONT_SEAM = "seam down the front of the leg, front seam on stockings, seam on the shin"
 NEG_CUTOUT     = ("keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, "
                   "underboob cutout, peekaboo opening, garment slashed to reveal skin")
@@ -340,8 +356,9 @@ if __name__ == "__main__":
           "LIMPIO (back atras, frente liso, side skip, sin fuga sin seam)"
           if (seam_back_ok and seam_front_ok and seam_side_skip and not seam_leak_none)
           else f"FALLA (back={seam_back_ok} front={seam_front_ok} side_skip={seam_side_skip} fuga_sin_seam={seam_leak_none})")
-    # Auto-check constantes de vestuario (Ama 11/07): OPAQUE_LOCK / GLOSS_LOCK presentes y no vacias.
+    # Auto-check constantes de vestuario (Ama 11/07): OPAQUE_LOCK / GLOSS_LOCK / CONSISTENCY_LOCK.
     print("Constantes vestuario check:",
-          "LIMPIO (OPAQUE_LOCK + GLOSS_LOCK definidas)"
-          if (len(OPAQUE_LOCK) > 40 and len(GLOSS_LOCK) > 40 and "no matte" in GLOSS_LOCK.lower())
+          "LIMPIO (OPAQUE_LOCK + GLOSS_LOCK + CONSISTENCY_LOCK definidas)"
+          if (len(OPAQUE_LOCK) > 40 and len(GLOSS_LOCK) > 40 and "no matte" in GLOSS_LOCK.lower()
+              and len(CONSISTENCY_LOCK) > 40 and "identical" in CONSISTENCY_LOCK.lower())
           else "FALLA (constantes vacias o mal formadas)")
