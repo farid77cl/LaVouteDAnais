@@ -82,6 +82,50 @@ _WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED}
 # feedback_odalisca_sentada.
 ODALISQUE_ANCHOR = "lying down on the surface with the whole body low and horizontal, a reclining odalisque with the torso resting down toward the surface, NOT sitting upright and NOT seated"
 
+# ANCLA DE ORIENTACION DE LA RAYA DE LA MEDIA (Ama 11/07/2026 — BUG "raya al frente"):
+# El token de vestuario describe la media como "back-seam stockings" (raya trasera). Igual que
+# "at front revealing" en la bata, "back-seam" es RELATIVO A LA CAMARA: en poses de frente el
+# generador pinta la raya en la cara VISIBLE (el frente de la canilla) para poder mostrarla ->
+# la raya sale por delante (confirmado L691, L752, L748). Faltaba anclar que la costura va
+# ESTRICTAMENTE por detras de la pierna. Se pasa seam=True cuando el look usa medias con costura;
+# el ancla es POSE-AWARE: en las poses de frente fuerza "frente liso, costura solo atras"; en la
+# Back View fuerza "costura visible subiendo por detras". El Side Profile no la lleva (de perfil
+# la raya trasera cae en el borde posterior, que es correcto). Ver auto-memoria feedback_media_raya_frontal.
+STOCKING_SEAM_FRONT = "the back-seam of the stockings runs strictly up the centre-back of each leg and is NOT visible from the front, the front of each leg smooth and seamless with no seam down the shin"
+STOCKING_SEAM_BACK  = "the back-seam of each stocking clearly visible running straight up the centre-back of the calf and thigh"
+# slots que NO llevan ancla de raya (Side Profile = raya cae natural en el borde posterior):
+_SEAM_SKIP_SLOTS = {"Side Profile"}
+
+# ANCLA DE OPACIDAD / ANTI-CORTE (Ama 11/07/2026 — BUG "cortes para mostrar runas/ombligo"):
+# El Bloque A (INTOCABLE) describe "navel piercing", "nipple piercings ... visible under clothing"
+# y "rune tattoo along hip crease and bikini line". El generador lee "visible" y le ABRE ventanas
+# a la prenda (keyhole, cutout, underboob) para exponer esas marcas, rompiendo el "fully opaque at
+# bust and groin" (confirmado L706 hueco en la cadera sobre la runa, L699 teddy cortado sobre la
+# linea del bikini). Fix quirurgico: NO se toca Bloque A; el inyector pega OPAQUE_LOCK en la clausula
+# de vestuario de los arquetipos CUBIERTOS (traje/gala/maid/catsuit). El "wherever the garment covers"
+# deja que las runas/ombligo SI se luzcan en lenceria/bikini/alto-corte (ahi es on-brand) y solo
+# prohibe CORTAR una prenda que debia cubrir. Ver auto-memoria feedback_cortes_ropa_runas_ombligo.
+OPAQUE_LOCK = ("the garment is solid and uncut across the bust, midriff, navel and hips with NO keyhole, "
+               "cutout, underboob window, peekaboo opening or slashing; the navel piercing and the hip rune "
+               "tattoos stay concealed beneath the fabric wherever the garment covers that area, showing only "
+               "where the design is genuinely bare and never through a hole cut into a covering garment")
+
+# ANCLA ANTI-MATE / GLOSS-LOCK (Ama 11/07/2026 — desvio prompt->imagen "material mate"):
+# Cuando la silueta primea tela mate (traje sastre de lana/crepe, rib atletico, saten nupcial plano),
+# el sesgo del arquetipo le gana al token "vinyl/latex" y Gemini rinde tela natural mate, prohibida
+# por canon (confirmado L732 traje mate, L750 rib mate; contraste: L759 bodysuit liquid latex salio
+# brillante). El inyector pega GLOSS_LOCK redundante en la clausula de vestuario de las siluetas de
+# riesgo. Ver auto-memoria feedback_material_mate_vs_fetish y regla Anti-Mate en 04-estetica-ele.md.
+GLOSS_LOCK = ("rendered in a high-shine liquid latex / wet-look PVC / patent vinyl finish with strong "
+              "specular highlights and a glossy mirror-like reflective surface, absolutely no matte or "
+              "natural non-reflective fabric")
+
+# Fragmentos para el NEGATIVE del inyector (pegar segun el caso):
+NEG_FRONT_SEAM = "seam down the front of the leg, front seam on stockings, seam on the shin"
+NEG_CUTOUT     = ("keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, "
+                  "underboob cutout, peekaboo opening, garment slashed to reveal skin")
+NEG_MATTE      = "matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth"
+
 # Variantes: mantienen Principio Rector Fetish Model + nombran stiletto. {seat}/{wall}/{surface}
 # = mobiliario CONTEXTUAL que pone el inyector. NO incluyen el setting (eso se appendea).
 
@@ -183,7 +227,8 @@ SLOTS = [
  ("Odalisque", ODALISQUE, 2),
 ]
 
-def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface="a surface", wrap_mode=None):
+def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface="a surface",
+                 wrap_mode=None, seam=False):
     """Devuelve [(slot, pose_direction)] de 7, rotados por nº de look y con props CONTEXTUALES.
     seat/wall/surface deben describir mobiliario REAL del setting del look (armonia con el ambiente).
 
@@ -192,7 +237,12 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
     de la prenda SOLO en la pose de espalda (Back View), donde el generador la ponia al reves
     (abertura corriendo por la columna). Valores: None (sin prenda envolvente) · "slip" (bata
     deslizada de los hombros, espalda desnuda pero correcta — default recomendado boudoir) ·
-    "closed" (bata bien puesta, espalda cubierta). Ver auto-memoria feedback_bata_reverso_espalda."""
+    "closed" (bata bien puesta, espalda cubierta). Ver auto-memoria feedback_bata_reverso_espalda.
+
+    seam (Ama 11/07/2026 — BUG "raya de la media al frente"): pasar seam=True cuando el look usa
+    MEDIAS CON COSTURA (back-seam / seamed stockings). Ancla POSE-AWARE la orientacion de la raya:
+    poses de frente -> "frente liso, costura solo por detras"; Back View -> "costura visible por
+    detras"; Side Profile no la lleva. Ver auto-memoria feedback_media_raya_frontal."""
     if wrap_mode not in (None, "slip", "closed"):
         raise ValueError(f"wrap_mode invalido: {wrap_mode!r} (usa None, 'slip' o 'closed')")
     wrap_anchor = _WRAP_ANCHORS.get(wrap_mode)
@@ -206,6 +256,8 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
         v = anchor + ", " + v  # ancla anatomica automatica (ver nota arriba)
         if name == "Back View" and wrap_anchor:
             v = v + ", " + wrap_anchor  # ancla de orientacion de prenda envolvente (bug bata-al-reves)
+        if seam and name not in _SEAM_SKIP_SLOTS:  # ancla de orientacion de la raya (bug raya-al-frente)
+            v = v + ", " + (STOCKING_SEAM_BACK if name == "Back View" else STOCKING_SEAM_FRONT)
         out.append((name, v))
     return out
 
@@ -274,3 +326,22 @@ if __name__ == "__main__":
     print("Ancla recumbencia odalisca check:",
           "LIMPIO (solo Odalisque ancla, sin fuga)" if (od_ok and not od_leak)
           else f"FALLA (od_ok={od_ok} fuga_otro_slot={od_leak})")
+    # Auto-check ancla de raya de media (Ama 11/07 — bug raya-al-frente): con seam=True, la Back View
+    # lleva la raya-atras, las poses de frente la raya-frente-liso, el Side Profile NADA; sin seam,
+    # ninguna pose la lleva.
+    seam_poses = dict(rotate_poses(531, seam=True))
+    seam_back_ok  = STOCKING_SEAM_BACK in seam_poses["Back View"]
+    seam_front_ok = STOCKING_SEAM_FRONT in seam_poses["Standing"] and STOCKING_SEAM_FRONT in seam_poses["Odalisque"]
+    seam_side_skip = (STOCKING_SEAM_FRONT not in seam_poses["Side Profile"]
+                      and STOCKING_SEAM_BACK not in seam_poses["Side Profile"])
+    seam_leak_none = any(a in txt for _, txt in rotate_poses(531)
+                         for a in (STOCKING_SEAM_FRONT, STOCKING_SEAM_BACK))
+    print("Ancla raya de media check:",
+          "LIMPIO (back atras, frente liso, side skip, sin fuga sin seam)"
+          if (seam_back_ok and seam_front_ok and seam_side_skip and not seam_leak_none)
+          else f"FALLA (back={seam_back_ok} front={seam_front_ok} side_skip={seam_side_skip} fuga_sin_seam={seam_leak_none})")
+    # Auto-check constantes de vestuario (Ama 11/07): OPAQUE_LOCK / GLOSS_LOCK presentes y no vacias.
+    print("Constantes vestuario check:",
+          "LIMPIO (OPAQUE_LOCK + GLOSS_LOCK definidas)"
+          if (len(OPAQUE_LOCK) > 40 and len(GLOSS_LOCK) > 40 and "no matte" in GLOSS_LOCK.lower())
+          else "FALLA (constantes vacias o mal formadas)")

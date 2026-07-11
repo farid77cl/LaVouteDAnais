@@ -97,7 +97,7 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 - **Vinos:** Oxblood, Wine, Burgundy-Gloss *(estreno L192)*
 - **Iridiscentes (familia de acabado, no de tono):** Oil-Slick multichrome, Holographic, Beetle-shell *(estreno L193)*
 
-> Las familias V3.5 incluyen el **Negro** (liberado 07/06/2026), prohíben baby pink/pastel blue, y son 100% high-gloss (vinyl/PVC/látex/satén). Iridiscente es una **superficie multichrome**, se combina sobre cualquier base.
+> Las familias V3.5 incluyen el **Negro** (liberado 07/06/2026) y son 100% high-gloss (vinyl/PVC/látex/satén). Iridiscente es una **superficie multichrome**, se combina sobre cualquier base. **🌸 PASTELES LIBERADOS (Directiva Ama 11/07/2026):** baby pink, pastel blue y demás pasteles/tonos apagados **ya NO están prohibidos** (deroga la vieja prohibición de baby pink/pastel blue) — se usan libres como cualquier color, siempre en **material gloss fetish** (nunca tela natural mate). **🔴 ROJO LIBERADO como color de vestuario (misma directiva):** el rojo —incluso escarlata/frambuesa cercanos al cherry— es libre como prenda dominante; lo único inamovible es el **cherry red del ADN pelo/labios**, que no se negocia. Se confirma con la libertad total de color del 12/06.
 
 **Modos Cromáticos — rotar, no siempre monoblock:**
 - **Monoblock:** Un color domina el 80%+ (permitido, no exclusivo)
