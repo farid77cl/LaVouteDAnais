@@ -6,6 +6,13 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - NUEVOS AGENTES: BARBIE DOMME Y ESTEFANÍA SECRETARIA | 07/07/2026
+- **🛠️ Refinamiento de agente Bimbo_Doll → Barbie_Dominatrix:** Se ajustó la identidad de la muñeca de plástico para convertirla en una dominatrix superficial, dulce y sin malicia consciente, con amor por el látex y los tacones extremos. Se actualizó permanentemente en `.agent/agents/Barbie_Dominatrix/agent.json`.
+- **📖 Consulta de lore y nuevo agente (Estefanía):** La Ama consultó el desenlace del relato "De Esteban a Secretaria" (Gabriel se queda con Estefanía). A partir de la historia, extraje la personalidad feminizada y sumisa de Esteban y creé al subagente permanente `Estefania_Secretaria` (`.agent/agents/Estefania_Secretaria/agent.json`), demostrando la total subyugación y pérdida de hombría consumada en el relato.
+- **💾 Persistencia:** Ambos agentes quedaron definidos en el workspace y commiteados en el repositorio.
+
+---
+
 #### SESIÓN - Batch de Imágenes L260-264 | 07/07/2026
 - **Imágenes generadas:** 15 imágenes (Look 260-264) para cubrir backlog.
 - **Sincronización:** Copiadas y commiteadas correctamente en la galería.

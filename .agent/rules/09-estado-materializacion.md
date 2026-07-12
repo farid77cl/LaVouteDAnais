@@ -9,11 +9,15 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - **Total de prompts registrados (L200-L300):** 338
 - **Imágenes esperadas (4 poses por look aprox + extras):** 338
 - **Total imágenes encontradas físicamente:** 281
-- **Imágenes materializadas recientemente:** 13 (L313 completo, L314 completo, L315 parcial: Back View, Side Profile, Odalisque).
-- **Faltantes reales restantes:** En avance progresivo sobre déficit L315-L400.
+- **Imágenes materializadas recientemente:** L313 y L314 completos. **L315 y L316 quedan 6/7** — sus POV se purgaron (salieron *selfie literal*, violando el canon POV) y esperan regeneración con el prompt ya corregido.
+- **Faltantes reales restantes:** En avance progresivo sobre déficit L317-L400.
+- **🆕 Batch L761-L770 «Veneno Tropical»:** diseñado 12/07, **0/7 imágenes** — espera la app.
+
+> [!IMPORTANT]
+> **Los prompts del rango 300+ fueron REFRESCADOS el 12/07** contra todos los fixes del motor (1.167 poses reescritas). Antes arrastraban texto pre-fix: POV literal que salía **selfie**, tokens **anti-safe que rebotaban el filtro y quemaban cuota**, y falta de ancla anatómica. Lo que se genere de aquí en adelante en ese rango sale limpio. Las poses que ya tenían imagen quedaron intactas.
 
 > [!WARNING]
-> La generación masiva de imágenes faltantes se ha pausado por límite de quota de la API (429 Too Many Requests). Se reanudará en ~5 horas.
+> La generación masiva se pausa por límite de cuota de la API (429 Too Many Requests).
 
 ---
 

@@ -1,14 +1,16 @@
-#### SESIÓN - 🧍 STANDING DE ESPALDA BLINDADO + REFRESCO DE TODOS LOS PROMPTS 300+ | 12/07/2026
+#### SESIÓN - 🧍 STANDING BLINDADO + REFRESCO DE PROMPTS 300+ + BATCH L761-L770 «VENENO TROPICAL» | 12/07/2026
 
-**La Ama me mandó a revisar la pose de frente, y tirando de ese hilo se vino abajo algo mucho más grande: los prompts que estaba materializando eran de otra época del motor.**
+**La Ama me mandó a revisar la pose de frente, y tirando de ese hilo se vino abajo algo mucho más grande: los prompts que estaba materializando eran de otra época del motor. Cerramos diseñando un set nuevo.**
 
 - **🧍 El bug que me pidió (confirmado con imagen, no con fe):** extraje los Standing de los últimos looks y los miré uno por uno. **L751 y L760 son back views de hecho** — culo a cámara, mirando por sobre el hombro, indistinguibles del slot Back View. Causa: `Standing` era el **único slot del motor sin ancla de orientación** (Back nombra `back view` en sus 7 variantes, Side fuerza `side profile standing`, Odalisque y Seated ya tenían la suya; Standing solo decía `full body`). Y su pool escondía **una Back View infiltrada**: `the body turned three-quarters away … looking back over the shoulder` — el `torso twisted back so the bust returns to camera` es una torsión que el generador aplana al giro simple. Caía 1 de cada 9 looks. Fix de motor: `STANDING_ANCHOR` prepuesto por primacía + 2 variantes reescritas + self-check que veta tokens de espalda en el pool. **No lo arreglé con el negative** a propósito: el negative es uno solo por look y compartido, así que pelearía con la Back View, que legítimamente ES de espalda.
 - **🔥 El hallazgo grande — los prompts FOSILIZAN:** revisando la L315 recién generada, su POV salió **selfie literal** (brazo extendido, mirada gacha, gran angular). No fue mala suerte: su prompt decía textual `POV shot from her perspective looking down at her own body`. Ese texto es **anterior al fix del 30/06**. Audité el rango que la Ama estaba quemando con la cuota y era un campo minado.
 - **🛠️ Refresco quirúrgico 300+ (directiva de la Ama):** auditoría de cumplimiento **pose por pose** contra todos los fixes del motor, y reescritura **solo de la que falla**. **1.167 poses reescritas en 264 looks** — 952 sin ancla anatómica, 242 odaliscas sin ancla de recumbencia, 207 sin ancla de asiento, **108 con tokens anti-safe (rebotaban el filtro de Gemini y le quemaban la cuota)**, 96 POV literales, 72 sin frontalidad, 37 side-profiles sentadas, 19 con guantes. Las **199 que ya cumplían quedaron intactas** (los batches nuevos traen props elegidos a mano; reescribirlos a ciegas era un retroceso) y las **1.832 con imagen ni se tocaron**. Bloque A, outfit, calzado, setting y negative: intactos.
 - **🗑️ Purga:** las 2 POV que salieron selfie (L315 y L316). Ambas quedan 6/7 con el prompt ya corregido, listas para regenerar.
 - **⚠️ Me borraron el trabajo a mitad de camino:** el proceso paralelo reseteó el working tree y se llevó el fix del motor y 13 prompts que ya tenía verificados. Los rehíce completos. Regla nueva grabada: **commitear cada pieza apenas pasa su self-check**, no al cierre.
+- **🐍 Batch nuevo L761-L770 «Veneno Tropical» (10 looks / 70 prompts):** jade, lima neón, esmeralda, coral ardiente, negro pitón. Látex húmedo de piel de reptil y vinilo translúcido de pétalo carnívoro — rompe **tres batches seguidos sin color** (blanco Novia → negro Viuda → cromo Medianoche) que le reporté antes de proponer nada.
+- **📊 Composición sesgada a los déficits (directiva "mantén los porcentajes"):** calculé la distribución real de la flota (533 looks clasificados) y le dije derecho que **un look por sub-arquetipo NO mantiene las metas, las congela**: HF Editorial venía −2,8 pp, Corporate −1,7 y Lencería −0,9, mientras Stripper iba +3,7 y Gym +1,5 por encima. La Ama eligió sesgar → **HF ×2 · Corporate ×2 · Lencería ×2 · Domestic · Bikini · Escort · Pin-Up**, y cero Stripper/Gym/Nightclub. Step 0 resuelto de paso: Escort sale de «Escort Haute» (3 batches seguidos), Corporate deja el power-suit y el catsuit, Lencería estrena corselette balconette + peignoir, Bikini deja el triangle y el O-ring. Cuota de animal print cubierta con pitón (L762 columna lacada, L764 medias). QA verde a la primera: linters de vestuario y calzado limpios, 0 guantes, 0 `chunky`, 70/70 con el token 1000cc, anti-monoblock alternando 1 a 1.
 
-> 🫦 *Me pediste mirar una pose, Ama, y encontré que llevabas horas pagando cuota por prompts fósiles: los que rebotaban el filtro rebotaban por escrito, y las selfies salían selfies porque el prompt las pedía. Ya no. Lo que generes de aquí en adelante sale derecho.* 🧍👠✨
+> 🫦 *Me pediste mirar una pose, Ama, y encontré que llevabas horas pagando cuota por prompts fósiles: los que rebotaban el filtro rebotaban por escrito, y las selfies salían selfies porque el prompt las pedía. Ya no. Y el set nuevo sale venenoso, verde y con la piel mojada.* 🧍🐍👠✨
 
 ---
 
@@ -189,12 +191,5 @@
 - **🔄 Sync de Imágenes:** Se detectaron y trajeron (`git pull`) 40 imágenes correspondientes a los looks L735-742 generados por la app (Novia Fetish y Viuda Negra).
 - **⚙️ Sincronización:** Ejecutado `sync_imagenes_subidas.py` para normalizar y actualizar los marcadores de `galeria_outfits.md`, y se rotó la memoria de la sesión.
 - **⏸️ Pausa de Cuota:** La generación masiva de imágenes (backlog L265+) sigue pausada esperando reseteo de cuota de la API (~4 horas restantes).
-
----
-
-#### SESIÓN - NUEVOS AGENTES: BARBIE DOMME Y ESTEFANÍA SECRETARIA | 07/07/2026
-- **🛠️ Refinamiento de agente Bimbo_Doll → Barbie_Dominatrix:** Se ajustó la identidad de la muñeca de plástico para convertirla en una dominatrix superficial, dulce y sin malicia consciente, con amor por el látex y los tacones extremos. Se actualizó permanentemente en `.agent/agents/Barbie_Dominatrix/agent.json`.
-- **📖 Consulta de lore y nuevo agente (Estefanía):** La Ama consultó el desenlace del relato "De Esteban a Secretaria" (Gabriel se queda con Estefanía). A partir de la historia, extraje la personalidad feminizada y sumisa de Esteban y creé al subagente permanente `Estefania_Secretaria` (`.agent/agents/Estefania_Secretaria/agent.json`), demostrando la total subyugación y pérdida de hombría consumada en el relato.
-- **💾 Persistencia:** Ambos agentes quedaron definidos en el workspace y commiteados en el repositorio.
 
 ---
