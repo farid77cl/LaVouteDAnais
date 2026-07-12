@@ -73,12 +73,12 @@
 | **261** | Champagne Pearl Mermaid Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
 | **262** | Sapphire Velvet Oscars Column (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
 | **263** | Crimson Cannes Goddess (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
-| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 4/7 | ⏳ Pendiente |
+| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
 | **265** | Lavender Pastel Pilates Reformer (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Gym / Athleisure | — | — | 7/7 | — |
 | **266** | Cherry Dark Athleisure Hooded (25/05/2026 — batch 261-270 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · excepción anti-black autorizada) | — | Gym / Athleisure | — | — | 7/7 | — |
 | **267** | Coral Sunset Yacht Tie-Side (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 7/7 | — |
 | **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Bikini | — | — | 4/7 | ⏳ Pendiente |
-| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 5/7 | ⏳ Pendiente |
+| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 7/7 | — |
 | **270** | Powder Blue Vintage Slip (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | — | Lencería | — | — | 7/7 | — |
 | **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 5/7 | ⏳ Pendiente |
 | **272** | Lotus Pink Bollywood Sari Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | — | Alfombra Roja / Gala | — | — | 2/7 | — |
@@ -121,7 +121,7 @@
 | **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Domestic | — | — | 4/7 | ⏳ Pendiente |
 | **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
+| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 5/7 | ⏳ Pendiente |
 | **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
 | **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Pin-Up | — | — | 3/7 | ⏳ Pendiente |
 | **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 2/7 | ⏳ Pendiente |
@@ -684,9 +684,7 @@
 
 | N° | Nombre | Poses | Estado |
 |:--:|:-------|:-----:|:------:|
-| **264** | Iridescent White Pearl Bridal-Gala (25/05/2026 — batch 261-270 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes) | 4/7 | ⏳ Pendiente |
 | **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 4/7 | ⏳ Pendiente |
-| **269** | Blush Pink Silk Sleepwear Set (25/05/2026 — batch 261-270 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes) | 5/7 | ⏳ Pendiente |
 | **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 5/7 | ⏳ Pendiente |
 | **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
@@ -706,7 +704,7 @@
 | **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 2/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 4/7 | ⏳ Pendiente |
 | **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
-| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 5/7 | ⏳ Pendiente |
 | **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
 | **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 3/7 | ⏳ Pendiente |
 | **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 2/7 | ⏳ Pendiente |

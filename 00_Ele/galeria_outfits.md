@@ -8618,11 +8618,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Beige sole
 - **Ambientación:** vintage boudoir conservatory with ornate gold mirror and white marble floor and crystal chandelier and soft candlelight, lingerie editorial.
 
-### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_seated.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_side_profile.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_ditzy.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_standing.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_back_view.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_seated.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_side_profile.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_ditzy.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_pov.png) | [📸 View](../../05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/ele_312_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8897,11 +8897,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Beige sole
 - **Ambientación:** sunlit modern ballet studio with full-wall mirrors and dark wood barres and warm light wood floors and large windows with morning sun, rehearsal editorial.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_back_view.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**

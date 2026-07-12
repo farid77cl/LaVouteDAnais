@@ -1,13 +1,13 @@
 # 🖼️ Galería: look269_blush_pink_silk_sleepwear_set
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_269_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_back_view.png) | ![ele_269_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_ditzy.png) | ![ele_269_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_pov.png) |
-| ![ele_269_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_side_profile.png) | ![ele_269_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_standing.png) |
+| ![ele_269_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_back_view.png) | ![ele_269_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_ditzy.png) | ![ele_269_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_odalisque.png) |
+| ![ele_269_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_pov.png) | ![ele_269_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_seated.png) | ![ele_269_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_269_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_back_view.png) | ![ele_269_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_ditzy.png) | ![ele_269_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_pov.png) | ![ele_269_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_side_profile.png) |
-| ![ele_269_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_standing.png) |
+| ![ele_269_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_back_view.png) | ![ele_269_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_ditzy.png) | ![ele_269_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_odalisque.png) | ![ele_269_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_pov.png) |
+| ![ele_269_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_seated.png) | ![ele_269_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_side_profile.png) | ![ele_269_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_standing.png) |
 
 
 ---
@@ -24,7 +24,9 @@ Total imágenes: 5
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_269_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_back_view.png)
 - [ele_269_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_ditzy.png)
+- [ele_269_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_odalisque.png)
 - [ele_269_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_pov.png)
+- [ele_269_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_seated.png)
 - [ele_269_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_side_profile.png)
 - [ele_269_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/ele_269_standing.png)
 
