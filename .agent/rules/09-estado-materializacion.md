@@ -9,11 +9,11 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - **Total de prompts registrados (L200-L300):** 338
 - **Imágenes esperadas (4 poses por look aprox + extras):** 338
 - **Total imágenes encontradas físicamente:** 281
-- **Imágenes materializadas recientemente:** 4 (Look 312: Seated, Side Profile, Ditzy, POV).
-- **Faltantes reales restantes:** En avance progresivo sobre déficit L301-L400.
+- **Imágenes materializadas recientemente:** 13 (L313 completo, L314 completo, L315 parcial: Back View, Side Profile, Odalisque).
+- **Faltantes reales restantes:** En avance progresivo sobre déficit L315-L400.
 
 > [!WARNING]
-> La generación masiva de imágenes faltantes (L301-400) se ha pausado por límite de quota de la API (429 Too Many Requests). Se reanudará en ~4 horas y 20 minutos.
+> La generación masiva de imágenes faltantes se ha pausado por límite de quota de la API (429 Too Many Requests). Se reanudará en ~5 horas.
 
 ---
 
