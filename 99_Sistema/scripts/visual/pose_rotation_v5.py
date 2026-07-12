@@ -106,6 +106,34 @@ SEATED_ANCHOR = ("the body's full weight supported entirely by the seat itself, 
                   "thighs resting directly on it, NOT leaning against, perched on or propped "
                   "against any nearby table, desk, counter, island or other surface")
 
+# ANCLA DE FRONTALIDAD DE LA STANDING (Ama 12/07/2026 — BUG "la pose de frente sale de espalda
+# o medio perfil"): el slot Standing era el UNICO sin ancla de orientacion. Back nombra "back view"
+# en las 7 variantes; Side fuerza "side profile standing"; Odalisque y Seated ya tienen la suya.
+# Standing solo decia "full body" -> la orientacion quedaba a criterio del generador, y cualquier
+# token debil de giro la arrastraba fuera del frente. Dos variantes del pool lo disparaban:
+#  (1) STANDING[4] era, de hecho, una BACK VIEW infiltrada en el pool: "the body turned three-
+#      quarters away ... looking back over the shoulder". El "torso twisted back so the bust
+#      returns to camera" NUNCA se cumple (es una torsion imposible que el generador aplana al
+#      giro simple) -> rindio espalda pura, confirmado en L751 y L760 (culo a camara, mirando por
+#      sobre el hombro; indistinguibles del slot Back View). Cae 1 de cada 9 looks (N%9==4).
+#      Reescrita: misma torsion dramatica cintura-cadera pero con el busto y el frente del outfit
+#      anclados a la lente, sin ningun token de giro-de-espalda.
+#  (2) STANDING[1] mezclaba "walking straight toward the camera" con "head turned over the
+#      shoulder" — contradiccion interna; el generador puede resolverla por cualquiera de los dos
+#      lados (en L748/L757 se salvo de frente, pero el token de espalda seguia ahi). Reescrita con
+#      la mirada a la lente.
+# La Standing es ademas la pose HERO del look: es el unico registro frontal del outfit completo.
+# Perderla a una espalda no solo desvia la pose, DUPLICA el slot Back View y el set queda sin
+# frente. Por eso el ancla se PREPENDE (primacia), no se appendea.
+# OJO: no se agrega un negative global "back view" — el negative es UNO por look y compartido por
+# las 7 poses, asi que pelearia con el slot Back View (que legitimamente ES de espalda). El lever
+# correcto es el ancla en el POSITIVE (ver feedback_anti_3_piernas_poses: Gemini ignora el negative).
+# Ver auto-memoria feedback_standing_no_frontal.
+STANDING_ANCHOR = ("standing upright and facing the camera from the front, the front of the body "
+                   "and the full front of the outfit turned toward the lens with the face to the "
+                   "camera, a FRONT view: NOT a back view, NOT a rear or three-quarter view from "
+                   "behind, the body never turned away from the lens and never seen from the back")
+
 # ANCLA DE ORIENTACION DE LA RAYA DE LA MEDIA (Ama 11/07/2026 — BUG "raya al frente"):
 # El token de vestuario describe la media como "back-seam stockings" (raya trasera). Igual que
 # "at front revealing" en la bata, "back-seam" es RELATIVO A LA CAMARA: en poses de frente el
@@ -171,10 +199,10 @@ NEG_MATTE      = "matte fabric, cotton, wool, crepe, linen, dull non-reflective 
 
 STANDING = [
  "full body from a low angle below the hip, the weight on one stiletto with the other foot forward and pointed, an exaggerated S-curve with the hip jutted to one side and the chest pushed forward, one XXXL-nailed hand sliding down the hip and thigh and the other pulling at the neckline, shoulders dropped, chin lifted, half-lidded predatory gaze, cherry red hair over one shoulder",
- "full body from a low angle, caught mid-stride walking straight toward the camera with one stiletto forward and the back foot lifting off the floor, hips swinging, one XXXL-nailed hand on the hip and the other arm loose, head turned over the shoulder, fierce runway gaze, cherry red hair in motion",
+ "full body from a low angle, caught mid-stride walking straight toward the camera with one stiletto forward and the back foot lifting off the floor, hips swinging, one XXXL-nailed hand on the hip and the other arm loose, the face front to the lens with the chin lifted, a fierce runway gaze straight down the camera, cherry red hair in motion",
  "full body, the shoulders propped against {wall} with one knee bent and that stiletto sole flat against {wall}, the pelvis forward, one XXXL-nailed hand hooked in the waistband and the other trailing up the body, chin down looking up through the lashes, lips parted glossy, cherry red hair spilling against {wall}",
  "full body from a low angle, both arms raised overhead gathering the cherry red hair off the neck, the torso elongated and the chest lifted high in an extreme lumbar arch, the weight on both stilettos with the hip cocked, the side-body line elongated, the face tilted up with half-lidded eyes",
- "full body, the body turned three-quarters away with the hip toward the lens and the torso twisted back so the bust returns to camera, one XXXL-nailed hand on the far hip and the other lifting the hair at the nape, looking back over the shoulder with a predatory glance, a deep waist-to-hip twist, on towering stilettos",
+ "full body facing the camera with the chest and hips square to the lens, the hip cocked hard to one side in a deep waist-to-hip twist while the bust stays turned to the camera, one XXXL-nailed hand on the jutted hip and the other lifting the cherry red hair off the nape, the chin dropped and the eyes up to the lens in a predatory glance, on towering stilettos",
  "full body from a low hero angle, standing tall and leaning slightly toward the camera with both XXXL-nailed hands resting on the thighs, the shoulders squared in an elegant lumbar arch, the chin lifted with a commanding direct gaze, lips parted glossy, cherry red hair falling forward framing the face, on stilettos",
  "full body, standing tall with the legs crossed at the knee in an elegant fashion-model X-stance, the weight balanced on both stilettos, one XXXL-nailed hand on the opposite hip and the other at the collarbone, the spine long with a subtle arch, chin tilted, half-lidded sultry gaze, cherry red hair over one shoulder",
  "full body from a low hero angle, the feet planted apart and firm on both stilettos, both XXXL-nailed hands on the hips, the shoulders pulled back and the chin dropped for a dominant direct stare down at the camera, a commanding lumbar arch, cherry red hair framing the face",
@@ -293,6 +321,8 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
         anchor = HANDS_ANCHOR if name in CLOSEUP_SLOTS else FULL_ANCHOR
         if name == "Odalisque":
             anchor = anchor + ", " + ODALISQUE_ANCHOR  # fuerza recumbencia (bug odalisca-sentada)
+        if name == "Standing":
+            anchor = anchor + ", " + STANDING_ANCHOR  # fuerza frontalidad (bug standing-de-espalda)
         v = anchor + ", " + v  # ancla anatomica automatica (ver nota arriba)
         if name == "Seated":
             v = v + ", " + SEATED_ANCHOR  # ancla de peso (bug sustitucion de mueble)
@@ -400,3 +430,19 @@ if __name__ == "__main__":
           "LIMPIO (solo Seated ancla, sin fuga, sin straddle/reversed)"
           if (seated_ok and not seated_leak and seated_no_straddle)
           else f"FALLA (seated_ok={seated_ok} fuga_otro_slot={seated_leak} straddle_o_reversed={not seated_no_straddle})")
+    # Auto-check frontalidad Standing (Ama 12/07 — bug "la de frente sale de espalda/medio perfil"):
+    # SOLO el slot Standing lleva STANDING_ANCHOR (sin fuga: la Back View es legitimamente de
+    # espalda y no debe recibirlo), y NINGUNA variante del pool puede traer tokens de giro-de-
+    # espalda. OJO con el falso positivo: "cherry red hair over one shoulder" (colocacion del pelo)
+    # es legitimo y NO es "looking back over the shoulder" (giro de la cabeza) -> el token vetado
+    # lleva articulo definido ("over the shoulder"), no "over one shoulder".
+    ST_BAD = ["back view", "looking back", "over the shoulder", "turned away", "from behind",
+              "three-quarters away", "rear view", "glance back", "away from the camera"]
+    st_hits = [f"STANDING[{i}] -> '{b}'" for i, v in enumerate(STANDING) for b in ST_BAD if b in v.lower()]
+    st_poses = dict(rotate_poses(531))
+    st_ok = STANDING_ANCHOR in st_poses["Standing"]
+    st_leak = any(STANDING_ANCHOR in txt for slot, txt in rotate_poses(531) if slot != "Standing")
+    print("Ancla frontalidad Standing check:",
+          "LIMPIO (solo Standing ancla, sin fuga, pool sin tokens de espalda)"
+          if (st_ok and not st_leak and not st_hits)
+          else f"FALLA (st_ok={st_ok} fuga_otro_slot={st_leak} tokens_espalda={st_hits})")
