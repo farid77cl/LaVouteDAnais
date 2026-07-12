@@ -124,8 +124,8 @@
 | **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 7/7 | ⏳ Pendiente |
 | **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
 | **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Pin-Up | — | — | 3/7 | ⏳ Pendiente |
-| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 5/7 | ⏳ Pendiente |
-| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 6/7 | ⏳ Pendiente |
+| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Nightclub | — | — | 6/7 | ⏳ Pendiente |
 | **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
@@ -707,8 +707,8 @@
 | **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 7/7 | ⏳ Pendiente |
 | **313** | Polished Gold Bolshoi Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
 | **314** | Powder Lilac Degas Pinup (30/05/2026 — batch 311-320 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 3/7 | ⏳ Pendiente |
-| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 5/7 | ⏳ Pendiente |
-| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 6/7 | ⏳ Pendiente |
+| **316** | Satin Silver After-Show Diva (30/05/2026 — batch 311-320 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 6/7 | ⏳ Pendiente |
 | **317** | Antique Rose Tutu Boudoir (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
 | **318** | Pearl Grey Cooldown Stretch (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
 | **319** | Sage Powder Avant-Garde Gala (30/05/2026 — batch 311-320 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |

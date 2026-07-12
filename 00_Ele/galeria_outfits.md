@@ -8777,11 +8777,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Beige sole
 - **Ambientación:** sunlit modern ballet studio with full-wall mirrors and dark wood barres and warm light wood floors and large windows with morning sun, rehearsal editorial.
 
-### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_back_view.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_standing.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_back_view.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_seated.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_side_profile.png) | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_ditzy.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look315_peach_satin_studio_rehearsal/ele_315_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8868,11 +8868,11 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
  - **Sole/finish:** Silver sole
 - **Ambientación:** post-show velvet lounge backstage with red velvet curtains and gold-framed mirrors and crystal chandeliers and champagne flutes and dim sultry lighting, after-party glamour editorial.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_standing.png) | [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_back_view.png) | [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_seated.png) | [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_side_profile.png) | [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_ditzy.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look316_satin_silver_aftershow_diva/ele_316_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
