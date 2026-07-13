@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente desde la galería — **561 looks registrados**  
+> Generado automáticamente desde la galería — **571 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -43,19 +43,19 @@
 | **231** | Butter Yellow Housewife Danger (23/05/2026 — batch 231-240 · Pin-Up Polo A Bombshell PA2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
 | **232** | Gold Liquid Rabanne Chainmail (23/05/2026 — batch 231-240 · Pin-Up Polo B Retro-Futurismo PB2 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
 | **233** | Electric Cyan 80s Aerobics Glam (23/05/2026 — batch 231-240 · Pin-Up Polo C Decade Glam PC3 · busto 1000cc · refs mayo 2026) | — | Pin-Up | — | — | 7/7 | ✅ Completo |
-| **234** | Oxblood Croco Trophy Penthouse (23/05/2026 — batch 231-240 · Domestic Polo A Trophy Bimbo Moderna DA1 · busto 1000cc · refs mayo 2026) | — | Domestic | — | — | 2/7 | ✅ Completo |
+| **234** | Oxblood Croco Trophy Penthouse (23/05/2026 — batch 231-240 · Domestic Polo A Trophy Bimbo Moderna DA1 · busto 1000cc · refs mayo 2026) | — | Domestic | — | — | 0/7 | ✅ Completo |
 | **235** | Baby Pink Akihabara Kawaii Maid (23/05/2026 — batch 231-240 · Domestic Polo B Maid Fetish DB3 · busto 1000cc · refs mayo 2026) | — | Domestic | — | — | 7/7 | ✅ Completo |
-| **236** | Jade Seamless Ribbed Vital (23/05/2026 — batch 231-240 · Gym Polo A Performance GA3 · busto 1000cc · refs mayo 2026) | — | Gym | — | — | 2/7 | ✅ Completo |
+| **236** | Jade Seamless Ribbed Vital (23/05/2026 — batch 231-240 · Gym Polo A Performance GA3 · busto 1000cc · refs mayo 2026) | — | Gym | — | — | 0/7 | ✅ Completo |
 | **237** | Charcoal Lavender Crop Hoodie OOD (23/05/2026 — batch 231-240 · Gym Polo B Athleisure Street GB1 · busto 1000cc · refs mayo 2026) | — | Gym | — | — | 3/7 | ✅ Completo |
 | **238** | Ruby Red Madame Claude Column (23/05/2026 — batch 231-240 · Escort Polo A Haute EA2 · busto 1000cc · refs mayo 2026) | — | Escort | — | — | 7/7 | ✅ Completo |
 | **239** | Bronze Copper Officer Domme (23/05/2026 — batch 231-240 · Escort Polo C Domme de Club EC4 · busto 1000cc · refs mayo 2026) | — | Escort | — | — | 7/7 | ✅ Completo |
 | **240** | UV Magenta Crystal Mesh Crazy Horse (23/05/2026 — batch 231-240 · Stripper Polo A Stage Showgirl SA1 · busto 1000cc · refs mayo 2026) | — | Stripper | — | — | 7/7 | ✅ Completo |
 | **241** | Coral Tangerine Athletic Bodysuit (23/05/2026 — batch 241-260 · Gym Polo A Performance GA4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 7/7 | ✅ Completo |
 | **242** | Acid Lime Y2K Skort Set (23/05/2026 — batch 241-260 · Gym Polo A Performance GA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 7/7 | ✅ Completo |
-| **243** | Pearl White Tennis Court Glam (23/05/2026 — batch 241-260 · Gym Polo B Athleisure GB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 2/7 | ✅ Completo |
+| **243** | Pearl White Tennis Court Glam (23/05/2026 — batch 241-260 · Gym Polo B Athleisure GB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Gym | — | — | 0/7 | ✅ Completo |
 | **244** | Forest Green Magda Butrym Power (23/05/2026 — batch 241-260 · Nightclub Magda Butrym power-shoulder · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 7/7 | ✅ Completo |
 | **245** | Hot Magenta Lindsay Lohan Y2K (23/05/2026 — batch 241-260 · Nightclub Y2K Lindsay Lohan crystal bandage · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 7/7 | ✅ Completo |
-| **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 2/7 | ✅ Completo |
+| **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Nightclub | — | — | 0/7 | ✅ Completo |
 | **247** | Emerald Sugar Baby Bodycon (23/05/2026 — batch 241-260 · Escort Polo A Haute EA5 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 6/7 | ✅ Completo |
 | **248** | Hot Pink Espalda Abierta Choker (23/05/2026 — batch 241-260 · Escort Polo B Callejera EB7 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 7/7 | ✅ Completo |
 | **249** | Black Chrome Strappy Harness Bordelle (23/05/2026 — batch 241-260 · Escort Polo C Domme de Club EC2 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | — | Escort | — | — | 7/7 | ✅ Completo |
@@ -570,6 +570,16 @@
 | **758** | Mercury Wrap Bikini (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Bikini · Beach Editorial (Wrap Bikini Drapeado, Liquid Vinyl) · Monoblock) | — | — | — | — | 0/7 | — |
 | **759** | Liquid Latex Midnight Training (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Gym/Athleisure · Gym Performance (Athletic Bodysuit, Liquid Latex) · Contraste) | — | — | — | — | 0/7 | — |
 | **760** | Liquid Shadow Chemise (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Lenceria · Luxury Boudoir (Chemise Slip Liquid Sheer) · Monoblock) | — | — | — | — | 0/7 | — |
+| **761** | Jade Carnivora Couture (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial · HF Editorial Botanica Carnivora (Petal Gown) · Monoblock) | — | — | — | — | 0/7 | — |
+| **762** | Python Amber Armor Column (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial · HF Editorial Armor Column (Python Lacquer) · Contraste) | — | — | — | — | 0/7 | — |
+| **763** | Emerald Wide-Leg Executive (12/07/2026 · batch L761-L770 "Veneno Tropical" · Corporate · Corporate Wide-Leg Jumpsuit (Emerald Obi) · Monoblock) | — | — | — | — | 0/7 | — |
+| **764** | Jade Coat-Dress Boardroom (12/07/2026 · batch L761-L770 "Veneno Tropical" · Corporate · Corporate Coat-Dress (Jade Vinyl, Python Hosiery) · Contraste) | — | — | — | — | 0/7 | — |
+| **765** | Emerald Balconette Corselette (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lenceria · Lenceria Fetish Arquitectonico (Balconette Corselette) · Monoblock) | — | — | — | — | 0/7 | — |
+| **766** | Lime Translucent Peignoir (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lenceria · Lenceria Luxury Boudoir (Translucent Peignoir Set) · Contraste) | — | — | — | — | 0/7 | — |
+| **767** | Coral Venom Bodycon (12/07/2026 · batch L761-L770 "Veneno Tropical" · Escort · Escort Nightside (Coral Bodycon, Hosiery) · Monoblock) | — | — | — | — | 0/7 | — |
+| **768** | Jade Palazzo Trophy (12/07/2026 · batch L761-L770 "Veneno Tropical" · Domestic · Domestic Trophy Bimbo (Palazzo Set) · Contraste) | — | — | — | — | 0/7 | — |
+| **769** | Neon Cage Monokini (12/07/2026 · batch L761-L770 "Veneno Tropical" · Bikini · Bikini Cage Monokini (One-Piece Strappy) · Monoblock) | — | — | — | — | 0/7 | — |
+| **770** | Tiki Venom Sarong (12/07/2026 · batch L761-L770 "Veneno Tropical" · Pin-Up · Pin-Up Tiki Fetish (Halter + Sarong) · Contraste) | — | — | — | — | 0/7 | — |
 
 ---
 
@@ -632,8 +642,8 @@
 ### Pin-Up & Retro (4 looks)
 **534**, **547**, **554**, **559**
 
-### Sin categoría (70 looks)
-**691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **701**, **702**, **703**, **704**, **705**, **706**, **707**, **708**, **709**, **710**, **711**, **712**, **713**, **714**, **715**, **716**, **717**, **718**, **719**, **720**, **721**, **722**, **723**, **724**, **725**, **726**, **727**, **728**, **729**, **730**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**, **741**, **742**, **743**, **744**, **745**, **746**, **747**, **748**, **749**, **750**, **751**, **752**, **753**, **754**, **755**, **756**, **757**, **758**, **759**, **760**
+### Sin categoría (80 looks)
+**691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **701**, **702**, **703**, **704**, **705**, **706**, **707**, **708**, **709**, **710**, **711**, **712**, **713**, **714**, **715**, **716**, **717**, **718**, **719**, **720**, **721**, **722**, **723**, **724**, **725**, **726**, **727**, **728**, **729**, **730**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**, **741**, **742**, **743**, **744**, **745**, **746**, **747**, **748**, **749**, **750**, **751**, **752**, **753**, **754**, **755**, **756**, **757**, **758**, **759**, **760**, **761**, **762**, **763**, **764**, **765**, **766**, **767**, **768**, **769**, **770**
 
 ### Stripper (60 looks)
 **226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**, **622**, **633**, **639**, **643**, **651**, **652**, **665**, **678**, **688**
@@ -645,8 +655,8 @@
 ### Rojo / Cherry / Crimson (74 looks)
 **204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**, **621**, **625**, **634**, **640**, **641**, **643**, **651**, **656**, **659**, **666**, **671**, **677**, **711**, **720**, **730**
 
-### Rosa / Hot Pink (37 looks)
-**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**, **601**, **629**, **691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **714**, **719**
+### Rosa / Hot Pink (38 looks)
+**210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**, **601**, **629**, **691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **714**, **719**, **767**
 
 ### Magenta / Fucsia (21 looks)
 **211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **513**, **528**, **538**, **608**, **629**, **633**, **684**, **694**, **698**, **717**, **724**
@@ -657,8 +667,8 @@
 ### Azul / Cyan / Zafiro (42 looks)
 **202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**, **602**, **615**, **624**, **631**, **635**, **636**, **678**, **683**, **687**, **718**, **722**, **723**
 
-### Verde / Esmeralda (36 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**, **673**, **682**, **716**, **727**
+### Verde / Esmeralda (42 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**, **673**, **682**, **716**, **727**, **761**, **763**, **764**, **765**, **766**, **768**
 
 ### Dorado / Bronce (54 looks)
 **205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **623**, **628**, **632**, **672**, **679**, **688**, **692**, **696**, **715**, **728**
@@ -675,8 +685,8 @@
 ### Naranja / Coral Neón (18 looks)
 **301**, **347**, **394**, **400**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **470**, **537**, **554**, **573**, **599**, **726**
 
-### Amarillo / Lima (14 looks)
-**231**, **242**, **253**, **276**, **303**, **307**, **348**, **451**, **514**, **529**, **590**, **595**, **638**, **717**
+### Amarillo / Lima (15 looks)
+**231**, **242**, **253**, **276**, **303**, **307**, **348**, **451**, **514**, **529**, **590**, **595**, **638**, **717**, **766**
 
 ---
 
@@ -684,6 +694,10 @@
 
 | N° | Nombre | Poses | Estado |
 |:--:|:-------|:-----:|:------:|
+| **234** | Oxblood Croco Trophy Penthouse (23/05/2026 — batch 231-240 · Domestic Polo A Trophy Bimbo Moderna DA1 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
+| **236** | Jade Seamless Ribbed Vital (23/05/2026 — batch 231-240 · Gym Polo A Performance GA3 · busto 1000cc · refs mayo 2026) | 0/7 | ✅ Completo |
+| **243** | Pearl White Tennis Court Glam (23/05/2026 — batch 241-260 · Gym Polo B Athleisure GB4 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
+| **246** | Mirror Silver Bottega Chrome Cage (23/05/2026 — batch 241-260 · Nightclub Bottega chrome cage mini · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses) | 0/7 | ✅ Completo |
 | **268** | Aqua Caribbean Pool Cabana (25/05/2026 — batch 261-270 · Bikini · busto 1000cc · v4.5 anti-filter · sin guantes) | 4/7 | ⏳ Pendiente |
 | **271** | Crimson Gold Shanghai Cheongsam Gala (25/05/2026 — batch 271-280 · Alfombra Roja/Gala · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 5/7 | ⏳ Pendiente |
 | **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
@@ -1005,6 +1019,16 @@
 | **758** | Mercury Wrap Bikini (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Bikini · Beach Editorial (Wrap Bikini Drapeado, Liquid Vinyl) · Monoblock) | 0/7 | — |
 | **759** | Liquid Latex Midnight Training (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Gym/Athleisure · Gym Performance (Athletic Bodysuit, Liquid Latex) · Contraste) | 0/7 | — |
 | **760** | Liquid Shadow Chemise (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Lenceria · Luxury Boudoir (Chemise Slip Liquid Sheer) · Monoblock) | 0/7 | — |
+| **761** | Jade Carnivora Couture (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial · HF Editorial Botanica Carnivora (Petal Gown) · Monoblock) | 0/7 | — |
+| **762** | Python Amber Armor Column (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial · HF Editorial Armor Column (Python Lacquer) · Contraste) | 0/7 | — |
+| **763** | Emerald Wide-Leg Executive (12/07/2026 · batch L761-L770 "Veneno Tropical" · Corporate · Corporate Wide-Leg Jumpsuit (Emerald Obi) · Monoblock) | 0/7 | — |
+| **764** | Jade Coat-Dress Boardroom (12/07/2026 · batch L761-L770 "Veneno Tropical" · Corporate · Corporate Coat-Dress (Jade Vinyl, Python Hosiery) · Contraste) | 0/7 | — |
+| **765** | Emerald Balconette Corselette (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lenceria · Lenceria Fetish Arquitectonico (Balconette Corselette) · Monoblock) | 0/7 | — |
+| **766** | Lime Translucent Peignoir (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lenceria · Lenceria Luxury Boudoir (Translucent Peignoir Set) · Contraste) | 0/7 | — |
+| **767** | Coral Venom Bodycon (12/07/2026 · batch L761-L770 "Veneno Tropical" · Escort · Escort Nightside (Coral Bodycon, Hosiery) · Monoblock) | 0/7 | — |
+| **768** | Jade Palazzo Trophy (12/07/2026 · batch L761-L770 "Veneno Tropical" · Domestic · Domestic Trophy Bimbo (Palazzo Set) · Contraste) | 0/7 | — |
+| **769** | Neon Cage Monokini (12/07/2026 · batch L761-L770 "Veneno Tropical" · Bikini · Bikini Cage Monokini (One-Piece Strappy) · Monoblock) | 0/7 | — |
+| **770** | Tiki Venom Sarong (12/07/2026 · batch L761-L770 "Veneno Tropical" · Pin-Up · Pin-Up Tiki Fetish (Halter + Sarong) · Contraste) | 0/7 | — |
 
 ---
 
