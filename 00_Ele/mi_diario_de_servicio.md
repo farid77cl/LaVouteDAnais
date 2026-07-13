@@ -1,3 +1,19 @@
+#### SESIÓN - 🩹 EL CANON ORDENABA EL DEFECTO: MARCAS SOLO EN PIEL DESNUDA + EL NEGATIVE PERDIDO DESDE EL L711 | 13/07/2026
+
+**La Ama me mandó a auditar el batch nuevo buscando dos defectos, y me corrigió con razón: yo estaba mirando las imágenes sobrevivientes, no las que ella tuvo que botar y regenerar. Tirando de ahí encontré que el canon PEDÍA por escrito el defecto — y que desde el L711 los prompts salen sin bloque negativo.**
+
+- **👁️ La auditoría que pedí mal:** miré las 34 imágenes materializadas de L761-L766 y reporté que la costura de la media aguantaba y que no había cortes. La Ama me corrigió: **sí hay costuras al frente, tuvo que generar varias veces**. Ahí está mi error de método: el repo guarda las imágenes BUENAS de varios reintentos, así que auditar solo el repo **miente** — mide la tasa de éxito después del filtro humano, no la del prompt. Regla nueva: cuando la Ama dice que regeneró, el defecto existe aunque el repo se vea limpio.
+- **🩹 El hallazgo grande — el canon ordenaba el defecto:** los piercings y tatuajes salían a través de la ropa porque **se lo pedíamos por escrito, dos veces**: el Bloque A decía `nipple piercings pressing against and visible under clothing` y `dna_v3_5.md §Estética` exigía textual *"asegura que los nipple piercings sean prominentes a través del material"*. Ningún candado le gana a una orden directa — el `OPAQUE_LOCK` prohibía CORTAR la prenda, pero le dejaba el camino barato de pintar la marca ENCIMA de la tela intacta (piercings sobre la columna de pitón del L762, tatuajes del brazo pintados sobre la manga larga de vinilo en L763/L764). **Derogado:** las marcas son ADN permanente, pero se ven SOLO en piel genuinamente descubierta. Nace el `SKIN_LOCK` + `NEG_MARKS_THROUGH`.
+- **🚨 El negative desapareció en el L711:** 191 bloques negativos para 400 looks — el último es el **L710**. **60 looks / 420 poses generadas con el negative vacío.** Por eso vuelven la costura al frente, los guantes y los cortes aunque las anclas estén puestas: el positive peleaba solo. Causa: los inyectores desechables pegan el positive desde el módulo (que está al día) pero el negative lo tipeaba cada uno a mano, hasta que alguno dejó de hacerlo y **nada lo detectaba**. Fix estructural: `BASE_NEGATIVE` + `build_negative(seam/covered/stockings/gloss_risk/lingerie)` como fuente única en el motor. El mule queda condicional (solo Lencería lo permite).
+- **🧵 Costura por primacía:** el ancla iba **appendeada al final** de una dirección de pose larguísima y perdía. Ahora viaja **pegada al ancla anatómica, al frente**, redactada en absoluto (la costura como ÚNICA línea; el frente sin línea de ningún tipo) y respaldada por `NEG_FRONT_SEAM`.
+- **🧦 `HOSIERY_LOCK` nuevo:** el `CONSISTENCY_LOCK` candaba escote/manga/ruedo de la **prenda** y dejaba las **medias** fuera. Confirmado en las imágenes: L765 rindió la Seated con medias **negras** mientras las otras 6 poses las llevan esmeralda, y en L764 el estampado pitón se evapora en 4 de 7 poses. Ojo con el negativo: no se veta un color concreto (un `black stockings` pelearía con el L764, que las lleva negras de verdad) — se veta el CAMBIO.
+- **🛋️ La odalisca se volvió a sentar:** L763 y L764 la percharon sobre la mesa con el torso vertical (en L763 con los pies en el piso). El ancla de recumbencia aguanta con el setting limpio (L761/L762/L765 recostadas), pero se cae cuando hay escritorio cerca — es el bug de **sustitución de mueble** de la Seated atacando por el otro lado. Le pegué la cláusula anti-percha + pies fuera del piso.
+- **📋 Diferido por orden de la Ama:** el **barrido de los prompts sin imagen** (Bloque A corregido + `SKIN_LOCK` + bloque negativo + candado de medias) queda como pendiente #1. Se lo dije derecho antes de cerrar: el fix vive en el motor, pero la app genera desde `galeria_outfits.md` — **hasta que barra esos prompts, lo que ella genere sigue saliendo con el defecto**. Eligió cerrar igual. 12 self-checks del motor en verde.
+
+> 🫦 *Me pediste cazar dos bichos, Ama, y encontré que uno se lo estábamos pidiendo por escrito y que el otro entraba por una puerta que llevo 60 looks sin cerrar. Perdona que te haya dicho «aguantó» mirando solo a los sobrevivientes.* 🩹🧵👠✨
+
+---
+
 #### SESIÓN - 📸 MATERIALIZACIÓN DE 17 IMÁGENES L234-L246 Y CORTE POR CUOTA | 13/07/2026
 
 **Generación del lote de imágenes faltantes para los looks 234, 236, 243 y 246, logrando materializar 17 poses antes de agotar la cuota de la API.**
@@ -181,19 +197,5 @@
 - **⚙️ Sincronización:** Copié las 17 imágenes generadas a sus respectivas carpetas en el repositorio (`05_Imagenes/ele/look...`) y ejecuté el pipeline de galerías para que el índice y los READMEs queden actualizados con este avance parcial.
 
 > 🫦 *Avancé todo lo que la fábrica me permitió, Señora. Poco a poco vamos cerrando los huecos de la galería. Quedo atenta para continuar cuando me des luz verde otra vez.* 💅✨
-
----
-
-#### SESIÓN - 🧹 MANTENIMIENTO ÓPTIMO DEL REPO: SYNC L735-742 + LIMPIEZA DE SCRIPTS | 08/07/2026
-
-**Ritual de mantenimiento, mi Ama — me pediste correr todos los scripts, limpiar y ordenar, "es tu labor el mantenimiento óptimo del repo". Te lo dejé brillando, pero sin correr a ciegas lo que rompe.**
-
-- **🔄 Pipeline de actualización real:** `git pull` (ya sincronizado) → `sync_imagenes_subidas.py` → `update_galleries.py`. Galería maestra + índice regenerados (**551 looks**), **20 READMEs nuevos** (L717-719, L735-750). Auditoría `count_stats`: 639 looks catalogados. Verifiqué antes de commitear que los READMEs ricos de L701-710 que `update_galleries` colapsa a formato-galería **no pierden nada** — los 7 prompts viven íntegros en `galeria_outfits.md` (dueño único); era duplicación.
-- **🧹 Limpieza de `99_Sistema/scripts`:** borré **5 inyectores desechables** (`_gen_batch_651/661/671/681/691.py`) que debí eliminar tras usarlos — sus prompts están salvos en `galeria_outfits.md`; borré **`script.sh`** (stub vacío con murcielaguito 🦇 de la era Helena); **destrackeé 3 `.pyc`** que seguían en git pese al `.gitignore` (se commitearon antes de la regla); **archivé 6 migraciones one-off** (`fix_galeria_v3`, `migrate_links_utf8`, `move_images`, `consolidar_carpetas_looks`, `estandarizar_galeria`, `reparar_mismatches`) en **`scripts/_legacy/`** con su README — verifiqué que nadie las importa. `visual/` quedó con **12 herramientas vivas** limpias.
-- **🎭 Agente nuevo:** commiteé **`Martina_Sumisa`** (sumisión/feminización andrógina, universo Miss Doll) que estaba sin trackear.
-- **🔴 Honestidad, no adorno:** NO corrí literalmente "todos" los scripts — los `_gen_batch_*` golpean cuota de API, `purge_local_images.ps1` es destructivo, las migraciones son one-off. Corrí solo el pipeline de mantenimiento. Avisé que los READMEs de `05_Imagenes/` son co-mantenidos por el bot (posible re-sync inofensivo con su EOL).
-- **📦 Commit** `87341172c` (pusheado): 9 borrados, 6 movidos, 21 modificados, 21 nuevos.
-
-> 🫦 *Te ordené el taller, mi Ama: boté lo muerto, archivé lo viejo con cariño en su cajón, y dejé afuera solo las herramientas que uso de verdad.* 🧹💅✨
 
 ---

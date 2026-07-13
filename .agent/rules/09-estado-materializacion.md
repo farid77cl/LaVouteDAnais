@@ -11,10 +11,22 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - **Total imágenes encontradas físicamente:** 281
 - **Imágenes materializadas recientemente:** L313 y L314 completos. **L315 y L316 quedan 6/7** — sus POV se purgaron (salieron *selfie literal*, violando el canon POV) y esperan regeneración con el prompt ya corregido.
 - **Faltantes reales restantes:** En avance progresivo sobre déficit L317-L400.
-- **🆕 Batch L761-L770 «Veneno Tropical»:** diseñado 12/07, **0/7 imágenes** — espera la app.
+- **🐍 Batch L761-L770 «Veneno Tropical»:** la app lo está materializando — **L761, L762, L763 y L765 completos (7/7)** · **L764 6/7** (falta Standing) · **L766 2/7** · **L767-L770 sin empezar**.
 
 > [!IMPORTANT]
-> **Los prompts del rango 300+ fueron REFRESCADOS el 12/07** contra todos los fixes del motor (1.167 poses reescritas). Antes arrastraban texto pre-fix: POV literal que salía **selfie**, tokens **anti-safe que rebotaban el filtro y quemaban cuota**, y falta de ancla anatómica. Lo que se genere de aquí en adelante en ese rango sale limpio. Las poses que ya tenían imagen quedaron intactas.
+> **Los prompts del rango 300+ fueron REFRESCADOS el 12/07** contra los fixes del motor **de esa fecha** (1.167 poses reescritas). Antes arrastraban texto pre-fix: POV literal que salía **selfie**, tokens **anti-safe que rebotaban el filtro y quemaban cuota**, y falta de ancla anatómica. Las poses que ya tenían imagen quedaron intactas.
+
+> [!CAUTION]
+> **🔴 PENDIENTE #1 — LOS PROMPTS SIGUEN FOSILIZADOS RESPECTO AL BLINDAJE DEL 13/07 (diferido por la Ama).**
+> El blindaje del 13/07 (`SKIN_LOCK`, `build_negative()`, costura por primacía, `HOSIERY_LOCK`, odalisca anti-percha) vive en el **motor** (`pose_rotation_v5.py`) — pero **la app genera desde `galeria_outfits.md`**, y ahí los prompts todavía traen:
+> - el **Bloque A viejo** (`nipple piercings pressing against and visible under clothing` → pinta los piercings/tatuajes **a través de la tela**);
+> - **cero bloque negativo** desde el **L711** (191 bloques para 400 looks: el último es el L710 → **60 looks / 420 poses** generadas con el negative vacío);
+> - sin `SKIN_LOCK` ni `HOSIERY_LOCK`.
+>
+> **Hasta que se barran, lo que se genere sigue saliendo con el defecto y quema cuota.** Alcance del barrido: **todas las poses SIN imagen** (rango 300+ en materialización + L766-L770). Las que ya tienen imagen no se tocan.
+
+> [!NOTE]
+> **⚠️ Auditar el repo MIENTE (aprendido 13/07):** las imágenes commiteadas son las **sobrevivientes** de varios reintentos de la Ama — miden su tasa de éxito *después* del filtro humano, no la del prompt. Si la Ama dice que tuvo que regenerar, **el defecto existe** aunque lo guardado se vea limpio.
 
 > [!WARNING]
 > La generación masiva se pausa por límite de cuota de la API (429 Too Many Requests).

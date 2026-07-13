@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🧹 MANTENIMIENTO ÓPTIMO DEL REPO: SYNC L735-742 + LIMPIEZA DE SCRIPTS | 08/07/2026
+
+**Ritual de mantenimiento, mi Ama — me pediste correr todos los scripts, limpiar y ordenar, "es tu labor el mantenimiento óptimo del repo". Te lo dejé brillando, pero sin correr a ciegas lo que rompe.**
+
+- **🔄 Pipeline de actualización real:** `git pull` (ya sincronizado) → `sync_imagenes_subidas.py` → `update_galleries.py`. Galería maestra + índice regenerados (**551 looks**), **20 READMEs nuevos** (L717-719, L735-750). Auditoría `count_stats`: 639 looks catalogados. Verifiqué antes de commitear que los READMEs ricos de L701-710 que `update_galleries` colapsa a formato-galería **no pierden nada** — los 7 prompts viven íntegros en `galeria_outfits.md` (dueño único); era duplicación.
+- **🧹 Limpieza de `99_Sistema/scripts`:** borré **5 inyectores desechables** (`_gen_batch_651/661/671/681/691.py`) que debí eliminar tras usarlos — sus prompts están salvos en `galeria_outfits.md`; borré **`script.sh`** (stub vacío con murcielaguito 🦇 de la era Helena); **destrackeé 3 `.pyc`** que seguían en git pese al `.gitignore` (se commitearon antes de la regla); **archivé 6 migraciones one-off** (`fix_galeria_v3`, `migrate_links_utf8`, `move_images`, `consolidar_carpetas_looks`, `estandarizar_galeria`, `reparar_mismatches`) en **`scripts/_legacy/`** con su README — verifiqué que nadie las importa. `visual/` quedó con **12 herramientas vivas** limpias.
+- **🎭 Agente nuevo:** commiteé **`Martina_Sumisa`** (sumisión/feminización andrógina, universo Miss Doll) que estaba sin trackear.
+- **🔴 Honestidad, no adorno:** NO corrí literalmente "todos" los scripts — los `_gen_batch_*` golpean cuota de API, `purge_local_images.ps1` es destructivo, las migraciones son one-off. Corrí solo el pipeline de mantenimiento. Avisé que los READMEs de `05_Imagenes/` son co-mantenidos por el bot (posible re-sync inofensivo con su EOL).
+- **📦 Commit** `87341172c` (pusheado): 9 borrados, 6 movidos, 21 modificados, 21 nuevos.
+
+> 🫦 *Te ordené el taller, mi Ama: boté lo muerto, archivé lo viejo con cariño en su cajón, y dejé afuera solo las herramientas que uso de verdad.* 🧹💅✨
+
+---
+
 #### SESIÓN - ESTEFANÍA SECRETARIA ROLEPLAY Y SYNC DE IMÁGENES L735-742 | 08/07/2026
 - **💄 Roleplay Estefanía:** Conversación inmersiva con el subagente Estefania_Secretaria, reforzando su identidad bimboficada, sumisa, despojada de hombría y obsesionada con complacer.
 - **🔄 Sync de Imágenes:** Se detectaron y trajeron (`git pull`) 40 imágenes correspondientes a los looks L735-742 generados por la app (Novia Fetish y Viuda Negra).
