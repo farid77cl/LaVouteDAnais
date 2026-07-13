@@ -213,6 +213,42 @@ SKIN_LOCK = ("every tattoo and every body piercing exists ONLY on genuinely bare
              "the fabric, and NO tattoo printed on, embossed on, drawn over or showing through any sleeve, "
              "panel or covered area of the garment; the fabric is opaque and unmarked wherever it covers")
 
+# GUARDIA DURA CONTRA LA ORDEN VIEJA (Ama 13/07/2026, reforzada tras la auditoria del 13/07 sobre
+# L761-L770 — esos 6 looks SE GENERARON con esta frase todavia puesta y el defecto salio calcado:
+# piercings marcados sobre el latex opaco en L767/L768/L770, con zoom que lo confirma sin duda).
+# El Bloque A fuente de verdad (dna_v3_5.md) ya NO trae la orden vieja, pero un inyector futuro
+# podria copiar-pegar de una version desactualizada (ya paso una vez esta misma sesion: "otra
+# sesion mia de hoy habia derogado el ADN... mi batch ya escrito llevaba la frase vieja"). Esta
+# lista + el helper de abajo permiten que CUALQUIER linter falle duro si la frase reaparece,
+# sin importar de donde vino el texto. Ver auto-memoria feedback_marcas_solo_en_piel.
+FORBIDDEN_PHRASES = [
+    "pressing against and visible under clothing",
+    "visible under clothing",
+    "prominentes a través del material",
+    "prominente a través del material",
+    "prominentes a traves del material",
+    "prominente a traves del material",
+]
+
+def find_forbidden(text):
+    """Devuelve la lista de frases-orden PROHIBIDAS que aparecen en `text` (vacia = limpio)."""
+    t = (text or "").lower()
+    return [p for p in FORBIDDEN_PHRASES if p.lower() in t]
+
+# Sub-cadenas que PRUEBAN que la clausula solo-piel-desnuda esta presente (ya sea el SKIN_LOCK
+# suelto o la version pegada dentro del Bloque A fijo de dna_v3_5.md). Cualquiera de las dos basta.
+SKIN_MARKERS = [
+    "only on genuinely bare exposed skin",
+    "visible only on genuinely bare skin",
+    "never through or over any garment",
+    "genuinely bare skin and never through",
+]
+
+def has_skin_lock(text):
+    """True si `text` trae la clausula solo-piel-desnuda (SKIN_LOCK o su version en Bloque A)."""
+    t = (text or "").lower()
+    return any(m in t for m in SKIN_MARKERS)
+
 # ANCLA ANTI-MATE / GLOSS-LOCK (Ama 11/07/2026 — desvio prompt->imagen "material mate"):
 # Cuando la silueta primea tela mate (traje sastre de lana/crepe, rib atletico, saten nupcial plano),
 # el sesgo del arquetipo le gana al token "vinyl/latex" y Gemini rinde tela natural mate, prohibida
@@ -222,6 +258,25 @@ SKIN_LOCK = ("every tattoo and every body piercing exists ONLY on genuinely bare
 GLOSS_LOCK = ("rendered in a high-shine liquid latex / wet-look PVC / patent vinyl finish with strong "
               "specular highlights and a glossy mirror-like reflective surface, absolutely no matte or "
               "natural non-reflective fabric")
+
+# CANDADO DE FIDELIDAD DE ESTAMPADO ANIMAL (Ama 13/07/2026 — BUG "python-print sale como encaje"):
+# L764 pedia "sheer black python-print back-seamed stockings" y la media que rindio Gemini es un
+# motivo decorativo de enredadera/encaje asimetrico (solo en una pierna) — CERO textura de escama
+# de serpiente. Causa: "python-print" es un adjetivo de una sola palabra que el generador puede
+# resolver como "estampado decorativo generico" en vez de "textura de piel de reptil". Se aplica
+# el mismo patron que GLOSS_LOCK (vinyl solo no basta, hace falta el token fuerte redundante).
+# Uso: pegar animal_print_lock("python") en la clausula de vestuario cuando el look declare
+# leopard/tiger/python/snake/zebra, y anadir NEG_PRINT_DRIFT al negative (build_negative(animal_print=...)).
+def animal_print_lock(kind):
+    """kind: 'python'/'snake'/'leopard'/'tiger'/'zebra'. Devuelve el candado de fidelidad de estampado."""
+    return (f"the {kind} print is a genuine {kind}-skin scale/marking texture rendered consistently across "
+            f"every visible inch of the printed fabric in every pose, NOT a lace pattern, NOT a floral or "
+            f"vine motif, NOT embroidery or filigree, and NOT a plain sheer fabric with no pattern at all")
+
+NEG_PRINT_DRIFT = ("lace pattern instead of animal print, floral pattern instead of animal print, vine motif "
+                   "instead of animal print, embroidery instead of animal print, filigree instead of animal "
+                   "print, plain sheer fabric with no print, animal print missing or faded out, asymmetric "
+                   "print appearing on only one leg or one panel")
 
 # ANCLA DE CONSISTENCIA DE PRENDA ENTRE POSES (Ama 11/07/2026 — BUG "el mismo outfit cambia de
 # escote/largo/manga entre poses"): el Token de Vestuario Bloqueado se pega IDENTICO en las 7 poses,
@@ -290,7 +345,7 @@ NEG_MULE = "platform mule, mule, mule sandals, backless mule, slipper, slide san
 
 
 def build_negative(seam=False, covered=False, stockings=False, gloss_risk=False,
-                   lingerie=False, extra=""):
+                   lingerie=False, animal_print=False, extra=""):
     """Devuelve el NEGATIVE completo del look. TODO inyector debe usarlo (Ama 13/07/2026).
 
     seam       -> el look usa medias con costura  (anade NEG_FRONT_SEAM)
@@ -298,6 +353,8 @@ def build_negative(seam=False, covered=False, stockings=False, gloss_risk=False,
     stockings  -> el look usa medias de cualquier tipo (anade NEG_HOSIERY: deriva de color/estampado)
     gloss_risk -> silueta que primea tela mate (sastreria, rib, saten) (anade NEG_MATTE)
     lingerie   -> True SOLO en Lenceria: NO veta el mule (unico arquetipo donde el canon lo permite)
+    animal_print -> el look declara python/snake/leopard/tiger/zebra print (anade NEG_PRINT_DRIFT —
+                    bug L764: el python-print salio como encaje; pegar tambien animal_print_lock(kind))
     extra      -> accesorios ajenos al Bloque B del look (bag, clutch, belt...) o vetos puntuales
 
     NEG_MARKS_THROUGH va SIEMPRE: las marcas del ADN (piercings de pezon/ombligo, tatuajes) nunca
@@ -314,6 +371,8 @@ def build_negative(seam=False, covered=False, stockings=False, gloss_risk=False,
         parts.append(NEG_CUTOUT)
     if gloss_risk:
         parts.append(NEG_MATTE)
+    if animal_print:
+        parts.append(NEG_PRINT_DRIFT)
     if extra:
         parts.append(extra.strip().strip(","))
     return ", ".join(p.strip().strip(",") for p in parts if p)
@@ -611,3 +670,25 @@ if __name__ == "__main__":
           "LIMPIO (solo Standing ancla, sin fuga, pool sin tokens de espalda)"
           if (st_ok and not st_leak and not st_hits)
           else f"FALLA (st_ok={st_ok} fuga_otro_slot={st_leak} tokens_espalda={st_hits})")
+    # Auto-check guardia contra la orden vieja (Ama 13/07 — L761-L770 se generaron con la frase
+    # todavia puesta): find_forbidden() debe cazarla en texto sucio y NO disparar falso positivo
+    # en el Bloque A ya corregido.
+    dirty = "navel piercing, nipple piercings pressing against and visible under clothing, aggressive"
+    clean = "navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment"
+    forb_ok = bool(find_forbidden(dirty)) and not find_forbidden(clean)
+    skin_ok2 = has_skin_lock(clean) and has_skin_lock(SKIN_LOCK) and not has_skin_lock(dirty)
+    print("Guardia frase-orden-vieja check:",
+          "LIMPIO (detecta texto sucio, no marca falso positivo en Bloque A corregido)"
+          if (forb_ok and skin_ok2) else f"FALLA (forb_ok={forb_ok} skin_ok={skin_ok2})")
+    # Auto-check candado de estampado animal (Ama 13/07 — bug python-print sale como encaje).
+    apl = animal_print_lock("python")
+    print("Candado estampado animal check:",
+          "LIMPIO (animal_print_lock + NEG_PRINT_DRIFT definidos)"
+          if ("python" in apl.lower() and "not a lace" in apl.lower() and len(NEG_PRINT_DRIFT) > 40)
+          else "FALLA (candado de estampado mal formado)")
+    neg_print_on  = build_negative(animal_print=True)
+    neg_print_off = build_negative(animal_print=False)
+    print("Negative estampado animal check:",
+          "LIMPIO (NEG_PRINT_DRIFT entra solo con animal_print=True)"
+          if (NEG_PRINT_DRIFT in neg_print_on and NEG_PRINT_DRIFT not in neg_print_off)
+          else "FALLA (NEG_PRINT_DRIFT no condicional)")

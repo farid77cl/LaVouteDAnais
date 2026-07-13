@@ -24,6 +24,18 @@ solo se cazaban mirando la imagen ya generada, y que un token de vestuario libre
 Este modulo NO genera vestuario: LINTEA el token que escribe el inyector, igual que footwear_canon.
 Las constantes OPAQUE_LOCK / GLOSS_LOCK / NEG_* viven en pose_rotation_v5 (fuente unica).
 
+REFUERZO 13/07/2026 (auditoria "revisa las ultimas imagenes... busca tatuajes/piercings mostrandose
+donde no corresponde"): la auditoria de L764/766-770 (batch generado ANTES del blindaje SKIN_LOCK)
+confirmo con zoom el defecto en 3 looks (piercings marcados sobre latex/vinilo opaco en L767/L768/L770,
+mas un keyhole no pedido en L767 y la costura de la media al frente en L764). Causa de fondo: este
+linter validaba OPAQUE_LOCK/GLOSS_LOCK/CONSISTENCY_LOCK pero (a) NUNCA revisaba si la frase-orden
+vieja ("...pressing against and visible under clothing") seguia viva en el texto, (b) NUNCA exigia
+el bloque Negative Prompt (pese a que la documentacion decia que si), y (c) su lista de arquetipos
+"cubiertos" no incluia bodycon/crop-top/halter/monokini/bra/palazzo/sarong — exactamente las siluetas
+del batch que fallo. Los 3 agujeros se cierran aqui: audit_garment() ahora es DURA (frase prohibida =
+violacion siempre, sin importar arquetipo), audit_negative() exige el bloque negative + su marca
+NEG_MARKS_THROUGH, y COVERED_ARCHETYPES crecio a la lista real de siluetas fetish del canon.
+
 USO OBLIGATORIO en todo inyector de batch (antes de escribir la galeria):
     from garment_canon import audit_garment_batch
     problems = audit_garment_batch(LOOKS)   # LOOKS = lista de dicts por look
@@ -35,8 +47,11 @@ Cada look (dict) necesita, como minimo:
     - "outfit"   : la descripcion de prendas (str)   [claves alt: "garments","vestuario","prendas"]
     - "category" : sub-arquetipo / categoria (str)   [claves alt: "subarchetype","subcategoria","archetype"]
     - "seam"     : bool — True si se paso seam=True a rotate_poses (solo relevante si hay medias con costura)
+    - "negative" : el bloque Negative Prompt ya construido con build_negative(...) (str) — OBLIGATORIO,
+                   se audita con audit_negative_batch() / esta incluido en audit_garment_batch()
 """
 import re
+from pose_rotation_v5 import find_forbidden, has_skin_lock, NEG_MARKS_THROUGH
 
 # --- Vocabulario de deteccion -------------------------------------------------
 # Medias CON COSTURA (las que disparan el bug de la raya al frente):
@@ -45,9 +60,22 @@ SEAMED = ["back-seam", "back seam", "seamed stocking", "seamed nylon", "seamed h
           "stockings with a seam", "stockings with back seam", "seamed pantyhose", "seamed bodystocking"]
 
 # Arquetipos CUBIERTOS (donde la prenda debe cubrir -> exigir OPAQUE_LOCK para que no la corten):
+# AMPLIADO 13/07/2026 tras el batch L761-L770: la lista vieja NO incluia bodycon/crop-top/palazzo —
+# siluetas de PANEL SOLIDO que fallaron de verdad (L767 bodycon con keyhole no pedido, L768 crop-top
+# + palazzo). OJO: "halter"/"bra"/"monokini"/"sarong" quedan FUERA a proposito — son demasiado
+# genericos y matchean piezas que son strappy/expuestas POR DISENO (teddy, bikini, cage monokini,
+# donde mostrar piel es on-brand, no un bug); exigirles OPAQUE_LOCK dio un falso positivo real en el
+# self-check (L699 teddy). La defensa universal contra marcas-a-traves-de-tela para ESOS casos es el
+# chequeo 0b (SKIN_LOCK/clausula solo-piel-desnuda), que no depende del arquetipo.
 COVERED_ARCHETYPES = ["corporate", "office", "executive", "power suit", "domme", "maid",
                       "gown", "gala", "catsuit", "coat-dress", "coat dress", "blazer", "tuxedo",
-                      "shirt-dress", "column gown", "evening gown"]
+                      "shirt-dress", "column gown", "evening gown", "bodycon", "crop top", "crop-top",
+                      "palazzo", "bustier", "corselette", "corset", "bodystocking"]
+
+# Familias de estampado ANIMAL cuya fidelidad hay que blindar (bug L764: python-print salio como
+# encaje/enredadera). Si el outfit las nombra, exige animal_print_lock(kind) pegado.
+ANIMAL_PRINTS = ["python", "snake", "leopard", "tiger", "zebra"]
+ANIMAL_PRINT_MARKER = "not a lace pattern"
 
 # Siluetas que PRIMEAN tela mate (exigir GLOSS_LOCK, el token fuerte, no solo "vinyl"):
 MATTE_PRONE = ["suit", "suiting", "blazer", "pencil skirt", "ribbed", "rib knit", "rib-knit",
@@ -92,13 +120,39 @@ def _has_any_word(text, needles):
     return hits
 
 
-def audit_garment(outfit, archetype="", seam=False, tag=""):
+def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a=""):
     """Lintea el vestuario de UN look. Devuelve lista de mensajes de violacion (vacia = limpio).
-    tag = etiqueta libre (ej. 'L732'). seam = True si el inyector paso seam=True a rotate_poses."""
+    tag = etiqueta libre (ej. 'L732'). seam = True si el inyector paso seam=True a rotate_poses.
+    bloque_a = el Bloque A (ADN fisico) completo del prompt, si el inyector lo tiene disponible por
+    separado; si no se pasa, los chequeos 0a/0b caen sobre `outfit` como mejor esfuerzo."""
     pre = f"[{tag}] " if tag else ""
     out = []
     og = (outfit or "")
     arch = (archetype or "").lower()
+    full_text = f"{bloque_a} {og} {arch}"
+
+    # 0a) FRASE-ORDEN PROHIBIDA (Ama 13/07 — causa raiz de "piercings a traves de la tela" en
+    #     L767/L768/L770). Chequeo DURO: no importa el arquetipo, si la frase esta, es violacion.
+    forbidden = find_forbidden(full_text)
+    if forbidden:
+        out.append(f"{pre}FRASE-ORDEN PROHIBIDA presente ({', '.join(forbidden)}): esto le pide "
+                    f"directamente al generador que muestre piercings/tatuajes A TRAVES de la ropa. "
+                    f"Reemplaza por el Bloque A corregido de dna_v3_5.md (clausula solo-piel-desnuda).")
+
+    # 0b) SKIN_LOCK / clausula solo-piel-desnuda AUSENTE (universal, no solo en arquetipos cubiertos):
+    #     el Bloque A fijo YA trae la clausula desde el 13/07; si no aparece, o el inyector uso un
+    #     Bloque A viejo o no paso bloque_a= para poder verificarlo.
+    if bloque_a and not has_skin_lock(full_text):
+        out.append(f"{pre}SIN clausula solo-piel-desnuda en el Bloque A: pega el Bloque A vigente de "
+                    f"dna_v3_5.md (trae 'visible ONLY on genuinely bare skin... never through or over "
+                    f"any garment') o anade SKIN_LOCK explicito.")
+
+    # 0c) ESTAMPADO ANIMAL sin candado de fidelidad (bug L764: python-print salio como encaje)
+    prints = _has_any_word(og.lower(), ANIMAL_PRINTS)
+    if prints and ANIMAL_PRINT_MARKER not in og.lower():
+        out.append(f"{pre}ESTAMPADO ANIMAL ({', '.join(sorted(set(prints)))}) sin candado de fidelidad: "
+                    f"pega animal_print_lock('{sorted(set(prints))[0]}') de pose_rotation_v5 o el print "
+                    f"puede rendir como encaje/enredadera generica. Anade NEG_PRINT_DRIFT al negative.")
 
     # 1) MEDIAS CON COSTURA sin ancla de orientacion (bug raya al frente)
     seamed = _has_any(og, SEAMED)
@@ -139,6 +193,25 @@ def audit_garment(outfit, archetype="", seam=False, tag=""):
     return out
 
 
+def audit_negative(negative, tag=""):
+    """Lintea el bloque Negative Prompt de UN look (Ama 13/07 — bug 'sin negative desde el L711':
+    60 looks / 420 poses salieron con el negative vacio porque cada inyector lo tipeaba a mano y
+    ninguno lo revisaba). Devuelve lista de violaciones (vacia = limpio)."""
+    pre = f"[{tag}] " if tag else ""
+    out = []
+    neg = (negative or "").strip()
+    if not neg:
+        out.append(f"{pre}SIN Negative Prompt: todo look DEBE registrar el bloque negative construido "
+                    f"con build_negative(...) de pose_rotation_v5 — el negative vacio es lo que dejo "
+                    f"pasar la costura al frente y las marcas a traves de la tela desde el L711.")
+        return out
+    if NEG_MARKS_THROUGH.split(",")[0].strip().lower() not in neg.lower():
+        out.append(f"{pre}Negative Prompt sin NEG_MARKS_THROUGH: el par negativo del SKIN_LOCK "
+                    f"(piercings/tatuajes a traves de la tela) debe ir SIEMPRE, construcelo con "
+                    f"build_negative(...) en vez de escribirlo a mano.")
+    return out
+
+
 def _get(look, *keys, default=""):
     for k in keys:
         if k in look and look[k] not in (None, ""):
@@ -148,8 +221,12 @@ def _get(look, *keys, default=""):
 
 def audit_garment_batch(looks, garment_keys=("outfit", "garments", "vestuario", "prendas"),
                         archetype_keys=("category", "subarchetype", "subcategoria", "archetype"),
-                        seam_keys=("seam", "seamed_anchor")):
-    """Lintea una lista de looks (dicts). Devuelve lista plana de violaciones de todo el batch."""
+                        seam_keys=("seam", "seamed_anchor"),
+                        bloque_a_keys=("bloque_a", "dna_block", "full_prompt"),
+                        negative_keys=("negative", "negative_prompt")):
+    """Lintea una lista de looks (dicts). Devuelve lista plana de violaciones de todo el batch.
+    Incluye ahora el chequeo de Negative Prompt (audit_negative) — antes vivia solo en la
+    documentacion, nunca se ejecutaba de verdad (Ama 13/07)."""
     problems = []
     for i, lk in enumerate(looks):
         tag = _get(lk, "tag", "id", "look", default=f"idx{i}")
@@ -158,7 +235,9 @@ def audit_garment_batch(looks, garment_keys=("outfit", "garments", "vestuario", 
             _get(lk, *archetype_keys),
             seam=bool(_get(lk, *seam_keys, default=False)),
             tag=str(tag),
+            bloque_a=_get(lk, *bloque_a_keys),
         )
+        problems += audit_negative(_get(lk, *negative_keys), tag=str(tag))
     return problems
 
 
@@ -166,7 +245,9 @@ if __name__ == "__main__":
     import sys, io
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
-    # Casos de la auditoria L691-L760 que DEBEN saltar:
+    from pose_rotation_v5 import OPAQUE_LOCK, GLOSS_LOCK, CONSISTENCY_LOCK, SKIN_LOCK, build_negative, animal_print_lock
+
+    # Casos de la auditoria L691-L760 + L761-L770 (13/07) que DEBEN saltar:
     bad = [
         dict(tag="L752", category="Corporate",
              outfit="midnight blue liquid latex blazer minidress, black back-seam stockings",
@@ -180,30 +261,56 @@ if __name__ == "__main__":
         dict(tag="L746", category="High-Fashion Editorial",
              outfit="black wet-look mermaid column gown with oxblood cape",
              seam=False),  # gown sin escote/manga/ruedo fijo ni CONSISTENCY_LOCK -> drift (bug real L746)
+        dict(tag="L767", category="Escort Nightside",  # BUG REAL 13/07: bodycon (nueva entrada COVERED)
+             outfit="second-skin mini bodycon dress in high-gloss coral neon latex, halter neckline, "
+                     "sleeveless, hem cut high on the thigh",
+             seam=False),  # bodycon cubierto sin OPAQUE_LOCK -> keyhole no pedido que expuso el ombligo
+        dict(tag="L768-fraseorden", category="Domestic Trophy",  # BUG REAL 13/07: frase vieja viva
+             outfit="jade vinyl cropped halter top, wide-leg palazzo trousers, nipple piercings pressing "
+                     "against and visible under clothing",
+             seam=False),  # la orden vieja SIGUE viva -> violacion dura sin importar arquetipo
+        dict(tag="L764-print", category="Corporate Coat-Dress",  # BUG REAL 13/07: python-print sin candado
+             outfit="jade vinyl coat-dress, plunging neckline, long sleeves, mid-thigh hem, sheer black "
+                     "python-print back-seamed stockings, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
+             seam=True),  # "python-print" sin animal_print_lock -> puede rendir como encaje (L764 real)
+        dict(tag="L768-sinneg", category="Domestic Trophy",  # BUG REAL 13/07: negative vacio
+             outfit="jade vinyl cropped halter top, wide-leg palazzo trousers, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
+             seam=False, negative=""),  # sin negative -> violacion dura (causa raiz del batch L761-L790)
     ]
-    # Casos que DEBEN pasar limpios (ya con los locks / sin gatillo):
-    from pose_rotation_v5 import OPAQUE_LOCK, GLOSS_LOCK, CONSISTENCY_LOCK
+    # Casos que DEBEN pasar limpios (ya con los locks + negative + bloque_a al dia):
+    def _neg(**kw):
+        return build_negative(**kw)
     good = [
         dict(tag="L732fix", category="Corporate power suit",
              outfit="ivory white vinyl blazer-dress with a plunging neckline, long sleeves, knee-length hem, "
                      "pencil skirt, " + GLOSS_LOCK + ", " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
-             seam=False),
+             seam=False, negative=_neg(covered=True, gloss_risk=True)),
         dict(tag="L752fix", category="Corporate",
              outfit="midnight blue liquid latex blazer minidress with a plunging neckline, long sleeves, "
                      "mini hem, black back-seam stockings, " + GLOSS_LOCK + ", " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
-             seam=True),
+             seam=True, negative=_neg(seam=True, covered=True, stockings=True)),
         dict(tag="L746fix", category="High-Fashion Editorial",
              outfit="black wet-look mermaid column gown, off-shoulder bardot neckline, long fitted sleeves to "
                      "the wrist, floor-length hem, oxblood cape, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
-             seam=False),
+             seam=False, negative=_neg(covered=True)),
         dict(tag="L742", category="Corporate",  # catsuit liquid latex: fija cuello alto+manga larga+full length
              outfit="black patent liquid latex catsuit, high mock neck, long sleeves, full-length legs, "
                      + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
-             seam=False),
+             seam=False, negative=_neg(covered=True)),
         dict(tag="L699", category="Stripper Stage",  # lenceria alto-corte: runas/ombligo on-brand, NO exige opaque;
              # teddy fija escote halter + sin mangas + alto-corte -> sin drift
              outfit="baby pink pvc high-cut teddy, halter neckline, sleeveless, high-cut micro hem, bare hips, exposed navel",
-             seam=False),
+             seam=False, negative=_neg(lingerie=True)),
+        dict(tag="L767fix", category="Escort Nightside",  # bodycon YA con OPAQUE_LOCK + negative + bloque_a al dia
+             outfit="second-skin mini bodycon dress in high-gloss coral neon latex, halter neckline, "
+                     "sleeveless, hem cut high on the thigh, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
+             seam=False, negative=_neg(covered=True),
+             bloque_a="navel piercing, nipple piercings, " + SKIN_LOCK),
+        dict(tag="L764fix", category="Corporate Coat-Dress",  # python-print YA con animal_print_lock
+             outfit="jade vinyl coat-dress, plunging neckline, long sleeves, mid-thigh hem, sheer black "
+                     "python-print back-seamed stockings, " + animal_print_lock("python") + ", "
+                     + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
+             seam=True, negative=_neg(seam=True, covered=True, stockings=True, animal_print=True)),
     ]
     print("=== DEBEN saltar (bad) ===")
     pb = audit_garment_batch(bad)
@@ -211,6 +318,6 @@ if __name__ == "__main__":
     print("=== DEBEN pasar limpios (good) ===")
     pg = audit_garment_batch(good)
     for p in pg: print("  ", p)
-    ok = (len(pb) >= 4 and len(pg) == 0)
+    ok = (len(pb) >= 7 and len(pg) == 0)
     print("\nSelf-check:", "LIMPIO (bad detectados, good sin falsos positivos)" if ok
-          else f"REVISAR (bad={len(pb)} esperado>=4, good={len(pg)} esperado 0)")
+          else f"REVISAR (bad={len(pb)} esperado>=7, good={len(pg)} esperado 0)")
