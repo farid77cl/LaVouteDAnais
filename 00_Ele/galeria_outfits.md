@@ -2529,11 +2529,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Vitacura penthouse open-plan kitchen with white marble island, gold faucet hardware, glass wine rack with bottles, panoramic window overlooking cordillera, white leather bar stools, contemporary 2026 design (Real Housewives Beverly Hills morning aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look234_oxblood_croco_trophy_penthouse/ele_234_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look234_oxblood_croco_trophy_penthouse/ele_234_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look234_oxblood_croco_trophy_penthouse/ele_234_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4 Poses
 **1. Standing:**
@@ -2679,11 +2679,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Modern gym interior with floor-to-ceiling mirror wall, chrome cable machines visible, dumbbell stand with color-coded plates, LED strip lighting in cool white, glossy black vinyl floor (Instagram gym selfie aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look236_jade_seamless_ribbed_vital/ele_236_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4 Poses
 **1. Standing:**
@@ -3197,11 +3197,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Country club tennis court with green clay surface, white net visible behind, palm trees in background, golden afternoon light (luxury sports glam aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look243_pearl_white_tennis_court_glam/ele_243_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -3416,11 +3416,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Bottega party loft minimal interior with chrome sculpture central piece, polished concrete floor, single dramatic spotlight (Bottega Veneta party aesthetic)
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look246_mirror_silver_bottega_chrome_cage/ele_246_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look246_mirror_silver_bottega_chrome_cage/ele_246_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look246_mirror_silver_bottega_chrome_cage/ele_246_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
