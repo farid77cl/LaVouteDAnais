@@ -80,7 +80,16 @@ _WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED}
 # horizontal / NOT sitting upright". Se prepende SOLO al slot Odalisque. Recomendado ademas anadir
 # al negative del inyector: `sitting upright, seated, sitting on the floor`. Ver auto-memoria
 # feedback_odalisca_sentada.
-ODALISQUE_ANCHOR = "lying down on the surface with the whole body low and horizontal, a reclining odalisque with the torso resting down toward the surface, NOT sitting upright and NOT seated"
+# REFUERZO 13/07/2026 (L763 y L764): el ancla aguanta cuando el setting esta limpio (L761/L762/L765
+# recostadas OK) pero se CAE cuando hay mesa/escritorio cerca: Gemini la percha ENCIMA con el torso
+# vertical (L764 sentada en la mesa de directorio; L763 apoyada en el escritorio con los pies en el
+# piso — ni siquiera arriba). Es el mismo bug de SUSTITUCION DE MUEBLE que ya blindamos en la Seated,
+# atacando por el otro lado. Se le suma la clausula anti-percha + pies fuera del piso.
+ODALISQUE_ANCHOR = ("lying down on the surface with the whole body low and horizontal, a reclining "
+                    "odalisque with the torso resting down toward the surface, NOT sitting upright "
+                    "and NOT seated, both hips and shoulders down on the named surface with the legs "
+                    "stretched along it and both feet off the floor, NOT perched on the edge and NOT "
+                    "leaning against any nearby table, desk, counter or island")
 
 # ANCLA DE PESO EN LA SENTADA + REESCRITURA DE 2 VARIANTES (Ama 11/07/2026 — BUG "problemas
 # en Seated"): auditoria de las ultimas 50 imagenes (L729-L760) encontro 6 de 7 muestras con
@@ -143,10 +152,32 @@ STANDING_ANCHOR = ("standing upright and facing the camera from the front, the f
 # el ancla es POSE-AWARE: en las poses de frente fuerza "frente liso, costura solo atras"; en la
 # Back View fuerza "costura visible subiendo por detras". El Side Profile no la lleva (de perfil
 # la raya trasera cae en el borde posterior, que es correcto). Ver auto-memoria feedback_media_raya_frontal.
-STOCKING_SEAM_FRONT = "the back-seam of the stockings runs strictly up the centre-back of each leg and is NOT visible from the front, the front of each leg smooth and seamless with no seam down the shin"
-STOCKING_SEAM_BACK  = "the back-seam of each stocking clearly visible running straight up the centre-back of the calf and thigh"
+# REFUERZO 13/07/2026 (Ama: "SI hay costuras al frente en medias, tuve que generar las imagenes mas
+# de una vez"): el ancla v1 estaba (a) APPENDEADA al final de la direccion de pose — enterrada entre
+# el outfit y el setting, sin primacia — y (b) sola en el POSITIVE, porque el inyector del batch
+# NUNCA pego NEG_FRONT_SEAM (de hecho no pego negative alguno: ver BASE_NEGATIVE mas abajo). Con el
+# ancla debil y cero negative, el defecto vuelve en una fraccion de las tiradas: las imagenes que
+# sobreviven en el repo son las BUENAS de varios reintentos, asi que auditar solo el repo MIENTE.
+# v2: el ancla se PREPENDE (primacia, igual que STANDING_ANCHOR), se redacta en terminos absolutos
+# (la costura como UNICA linea, el frente explicitamente sin linea de ningun tipo) y el negative
+# pasa a ser obligatorio via build_negative(seam=True).
+STOCKING_SEAM_FRONT = ("the stockings have ONE single seam and it runs strictly up the centre-BACK of "
+                       "each leg, hidden behind the calf and thigh and NOT visible from the front; the "
+                       "front of each leg is completely smooth and seamless, with no seam, line, stripe "
+                       "or stitching down the shin, the knee or the front of the thigh")
+STOCKING_SEAM_BACK  = ("the single back-seam of each stocking clearly visible running straight up the "
+                       "centre-back of the calf and thigh, and no seam anywhere on the front of the leg")
 # slots que NO llevan ancla de raya (Side Profile = raya cae natural en el borde posterior):
 _SEAM_SKIP_SLOTS = {"Side Profile"}
+
+# CANDADO DE HOSIERY (Ama 13/07/2026 — BUG "la media cambia entre poses"): el CONSISTENCY_LOCK
+# enumera neckline/sleeve/hem/cut/print de la PRENDA y deja las MEDIAS fuera del candado. Resultado
+# confirmado en el batch: L765 rindio la Seated con medias NEGRAS mientras las otras 6 poses las
+# llevan esmeralda; L764 rindio el estampado piton nitido en Seated/Back View y media lisa sin
+# escamas en Side/POV/Odalisque/Ditzy. Se pega junto al CONSISTENCY_LOCK cuando el look usa medias.
+HOSIERY_LOCK = ("the stockings are the exact same single pair in every shot: identical colour, identical "
+                "print or pattern, identical opacity and identical length on the thigh, never switching "
+                "colour, never losing or gaining their pattern, never swapped for bare legs")
 
 # ANCLA DE OPACIDAD / ANTI-CORTE (Ama 11/07/2026 — BUG "cortes para mostrar runas/ombligo"):
 # El Bloque A (INTOCABLE) describe "navel piercing", "nipple piercings ... visible under clothing"
@@ -161,6 +192,26 @@ OPAQUE_LOCK = ("the garment is solid and uncut across the bust, midriff, navel a
                "cutout, underboob window, peekaboo opening or slashing; the navel piercing and the hip rune "
                "tattoos stay concealed beneath the fabric wherever the garment covers that area, showing only "
                "where the design is genuinely bare and never through a hole cut into a covering garment")
+
+# CANDADO DE PIEL — LAS MARCAS SOLO EXISTEN DONDE HAY PIEL DESNUDA (Ama 13/07/2026 — BUG "sigues
+# mostrando los tatuajes y los piercings de los pechos y del ombligo"):
+# El OPAQUE_LOCK ataco el sintoma equivocado. Prohibia CORTAR la prenda para exponer la marca, pero
+# el generador tenia un segundo camino, mas barato: pintar la marca ENCIMA de la tela intacta. Y lo
+# hacia porque se lo pediamos por escrito, dos veces:
+#   (1) Bloque A: "nipple piercings pressing against and visible under clothing"  <- ORDEN DIRECTA
+#   (2) dna_v3_5.md §Estetica: "Asegura que los nipple piercings sean prominentes a traves del
+#       material (latex/vinilo)"                                                   <- ORDEN DIRECTA
+# Ningun candado le gana a una orden directa: le pediamos que los mostrara a traves de la ropa y
+# despues le pediamos que no. Confirmado en el batch L761-L770 (piercings dibujados sobre la columna
+# de piton del L762, tatuajes del brazo pintados SOBRE la manga larga de vinilo en L763/L764).
+# La Ama DEROGA la directiva vieja: piercings y tatuajes son ADN permanente del cuerpo, pero se ven
+# SOLO en piel genuinamente descubierta. Bajo tela no existen. El Bloque A se corrige en su fuente
+# (dna_v3_5.md) y este candado cierra la puerta en el prompt. Ver feedback_marcas_solo_en_piel.
+SKIN_LOCK = ("every tattoo and every body piercing exists ONLY on genuinely bare exposed skin: where the "
+             "garment covers the body the skin underneath is completely hidden, with NO nipple piercing and "
+             "NO nipple shape pressing through or showing under the fabric, NO navel piercing showing through "
+             "the fabric, and NO tattoo printed on, embossed on, drawn over or showing through any sleeve, "
+             "panel or covered area of the garment; the fabric is opaque and unmarked wherever it covers")
 
 # ANCLA ANTI-MATE / GLOSS-LOCK (Ama 11/07/2026 — desvio prompt->imagen "material mate"):
 # Cuando la silueta primea tela mate (traje sastre de lana/crepe, rib atletico, saten nupcial plano),
@@ -189,10 +240,83 @@ CONSISTENCY_LOCK = ("the exact same single outfit in every shot: its neckline sh
 # Fragmentos para el NEGATIVE del inyector (pegar segun el caso):
 NEG_INCONSISTENT = ("changing neckline between shots, altered sleeve length, different hemline length, "
                     "re-styled outfit, inconsistent dress cut, varying print pattern")
-NEG_FRONT_SEAM = "seam down the front of the leg, front seam on stockings, seam on the shin"
+NEG_FRONT_SEAM = ("seam down the front of the leg, front seam on stockings, seam on the shin, front-seamed "
+                  "stockings, line down the front of the leg, stripe down the shin")
 NEG_CUTOUT     = ("keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, "
                   "underboob cutout, peekaboo opening, garment slashed to reveal skin")
 NEG_MATTE      = "matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth"
+# NUEVOS 13/07/2026:
+NEG_MARKS_THROUGH = ("nipple piercings visible through clothing, nipple piercing pressing through the fabric, "
+                     "nipple bumps through fabric, nipples showing through the garment, navel piercing through "
+                     "the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on "
+                     "the garment, tattoo showing through the sleeve, body markings through fabric, "
+                     "see-through bodice revealing piercings")
+# OJO: NADA de vetar un color concreto aqui (un "black stockings" en el negative pelearia con los
+# looks cuyas medias SON negras — p.ej. L764 piton negra). Se veta el CAMBIO, no un tono.
+NEG_HOSIERY = ("stockings changing colour between shots, stockings losing their pattern, hosiery with a "
+               "different colour than described, bare legs without stockings, mismatched hosiery, "
+               "inconsistent stockings")
+
+# ============================================================================================
+# NEGATIVE BASE — FUENTE UNICA (Ama 13/07/2026)
+# ============================================================================================
+# HALLAZGO DURO: desde el L711 los prompts registrados en galeria_outfits.md salen SIN NINGUN bloque
+# negativo (191 bloques negative para 400 looks; el ultimo es el L710). 60 looks = 420 poses generadas
+# con el negative VACIO. Por eso vuelven defectos que creiamos blindados: las anclas del positive
+# pelean solas y el generador no tiene ninguna prohibicion dura. Causa: los inyectores desechables
+# pegan el positive desde este modulo (que si esta al dia) pero el negative lo escribia cada inyector
+# a mano... y en algun batch simplemente dejo de escribirlo, sin que nada lo detectara.
+# FIX ESTRUCTURAL: el negative deja de ser texto suelto de cada inyector y pasa a construirse AQUI.
+# Todo inyector DEBE llamar build_negative(...) y el linter garment_canon.py falla si un look nuevo
+# entra a la galeria sin su bloque negativo. Ver feedback_negative_perdido_L711.
+BASE_NEGATIVE = (
+    "gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood, "
+    "different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, "
+    "flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, "
+    "mismatched shoes, changing footwear, inconsistent footwear, "
+    "different outfit, altered clothing, inconsistent outfit, different body, "
+    "gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, "
+    "satin gloves, lace gloves, covered hands, "
+    "extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, "
+    "mutated hands, malformed fingers, three legs, extra leg, extra foot, "
+    "two women, duplicate figure, split image, "
+    "first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, "
+    "smartphone, selfie stick, selfie, "
+    "text on clothing, lettering on garment, embroidered name, logo"
+)
+# El mule NO va al negative en Lenceria: es el unico arquetipo donde el canon lo permite (platform >=4",
+# Ama 09/07). En todo el resto sigue prohibido. Por eso es condicional y no vive en BASE_NEGATIVE.
+NEG_MULE = "platform mule, mule, mule sandals, backless mule, slipper, slide sandal"
+
+
+def build_negative(seam=False, covered=False, stockings=False, gloss_risk=False,
+                   lingerie=False, extra=""):
+    """Devuelve el NEGATIVE completo del look. TODO inyector debe usarlo (Ama 13/07/2026).
+
+    seam       -> el look usa medias con costura  (anade NEG_FRONT_SEAM)
+    covered    -> prenda que cubre busto/torso    (anade NEG_CUTOUT — cortes para exponer marcas)
+    stockings  -> el look usa medias de cualquier tipo (anade NEG_HOSIERY: deriva de color/estampado)
+    gloss_risk -> silueta que primea tela mate (sastreria, rib, saten) (anade NEG_MATTE)
+    lingerie   -> True SOLO en Lenceria: NO veta el mule (unico arquetipo donde el canon lo permite)
+    extra      -> accesorios ajenos al Bloque B del look (bag, clutch, belt...) o vetos puntuales
+
+    NEG_MARKS_THROUGH va SIEMPRE: las marcas del ADN (piercings de pezon/ombligo, tatuajes) nunca
+    se ven a traves de la tela, cubierta o no la prenda. Es el par negativo del SKIN_LOCK.
+    """
+    parts = [BASE_NEGATIVE, NEG_MARKS_THROUGH, NEG_INCONSISTENT]
+    if not lingerie:
+        parts.append(NEG_MULE)
+    if seam:
+        parts.append(NEG_FRONT_SEAM)
+    if stockings or seam:
+        parts.append(NEG_HOSIERY)
+    if covered:
+        parts.append(NEG_CUTOUT)
+    if gloss_risk:
+        parts.append(NEG_MATTE)
+    if extra:
+        parts.append(extra.strip().strip(","))
+    return ", ".join(p.strip().strip(",") for p in parts if p)
 
 # Variantes: mantienen Principio Rector Fetish Model + nombran stiletto. {seat}/{wall}/{surface}
 # = mobiliario CONTEXTUAL que pone el inyector. NO incluyen el setting (eso se appendea).
@@ -323,13 +447,18 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
             anchor = anchor + ", " + ODALISQUE_ANCHOR  # fuerza recumbencia (bug odalisca-sentada)
         if name == "Standing":
             anchor = anchor + ", " + STANDING_ANCHOR  # fuerza frontalidad (bug standing-de-espalda)
+        if seam and name not in _SEAM_SKIP_SLOTS:
+            # Ancla de orientacion de la raya (bug raya-al-frente). REFUERZO 13/07: viaja PEGADA AL
+            # ANCLA, al FRENTE de la direccion de pose (primacia), en vez de appendeada al final —
+            # ahi quedaba enterrada bajo una direccion larguisima y perdia contra la tendencia del
+            # generador a pintar la costura en la cara VISIBLE de la pierna. La respalda ademas
+            # build_negative(seam=True), que antes ningun inyector pegaba.
+            anchor = anchor + ", " + (STOCKING_SEAM_BACK if name == "Back View" else STOCKING_SEAM_FRONT)
         v = anchor + ", " + v  # ancla anatomica automatica (ver nota arriba)
         if name == "Seated":
             v = v + ", " + SEATED_ANCHOR  # ancla de peso (bug sustitucion de mueble)
         if name == "Back View" and wrap_anchor:
             v = v + ", " + wrap_anchor  # ancla de orientacion de prenda envolvente (bug bata-al-reves)
-        if seam and name not in _SEAM_SKIP_SLOTS:  # ancla de orientacion de la raya (bug raya-al-frente)
-            v = v + ", " + (STOCKING_SEAM_BACK if name == "Back View" else STOCKING_SEAM_FRONT)
         out.append((name, v))
     return out
 
@@ -418,6 +547,42 @@ if __name__ == "__main__":
           if (len(OPAQUE_LOCK) > 40 and len(GLOSS_LOCK) > 40 and "no matte" in GLOSS_LOCK.lower()
               and len(CONSISTENCY_LOCK) > 40 and "identical" in CONSISTENCY_LOCK.lower())
           else "FALLA (constantes vacias o mal formadas)")
+    # Auto-check SKIN_LOCK + HOSIERY_LOCK (Ama 13/07 — marcas a traves de la tela / media que cambia).
+    skin_ok = all(t in SKIN_LOCK.lower() for t in
+                  ("bare exposed skin", "nipple", "navel piercing", "tattoo", "opaque"))
+    hos_ok = all(t in HOSIERY_LOCK.lower() for t in ("identical colour", "identical print", "same single pair"))
+    print("Candados piel/medias check:",
+          "LIMPIO (SKIN_LOCK + HOSIERY_LOCK definidos)" if (skin_ok and hos_ok)
+          else f"FALLA (skin_ok={skin_ok} hosiery_ok={hos_ok})")
+    # Auto-check del NEGATIVE (Ama 13/07 — bug "sin bloque negativo desde el L711"):
+    #  (1) NEG_MARKS_THROUGH va SIEMPRE (el par negativo del SKIN_LOCK);
+    #  (2) el mule solo se veta FUERA de Lenceria (canon del mule, Ama 09/07);
+    #  (3) la raya frontal y la deriva de medias entran con seam/stockings;
+    #  (4) NINGUN color concreto de media puede estar vetado (pelearia con los looks de media negra).
+    neg_plain  = build_negative()
+    neg_seam   = build_negative(seam=True, covered=True)
+    neg_ling   = build_negative(lingerie=True, stockings=True)
+    neg_checks = {
+        "marks_siempre":  NEG_MARKS_THROUGH in neg_plain and NEG_MARKS_THROUGH in neg_ling,
+        "mule_fuera_lenc": NEG_MULE in neg_plain,
+        "mule_ok_lenc":   NEG_MULE not in neg_ling,
+        "seam_entra":     NEG_FRONT_SEAM in neg_seam and NEG_FRONT_SEAM not in neg_plain,
+        "hosiery_entra":  NEG_HOSIERY in neg_seam and NEG_HOSIERY in neg_ling,
+        "cutout_entra":   NEG_CUTOUT in neg_seam and NEG_CUTOUT not in neg_plain,
+        "sin_color_media": not any(c in NEG_HOSIERY.lower()
+                                   for c in ("black stockings", "green stockings", "white stockings")),
+        "guantes":        "gloves" in neg_plain,
+        "planos":         "flat shoes" in neg_plain and "barefoot" in neg_plain,
+    }
+    bad_neg = [k for k, ok in neg_checks.items() if not ok]
+    print("Negative check:", "LIMPIO (build_negative es fuente unica y condicional)" if not bad_neg
+          else "FALLA en: " + ", ".join(bad_neg))
+    # Auto-check odalisca anti-percha (refuerzo 13/07 tras L763/L764 perchadas en la mesa).
+    od_txt = dict(rotate_poses(763))["Odalisque"].lower()
+    print("Odalisca anti-percha check:",
+          "LIMPIO (prohibe percha en mesa/escritorio y pies en el piso)"
+          if ("not perched on the edge" in od_txt and "both feet off the floor" in od_txt)
+          else "FALLA (falta la clausula anti-mueble)")
     # Auto-check ancla de peso Seated (Ama 11/07 — bug sustitucion de mueble/postura ignorada):
     # SOLO el slot Seated lleva SEATED_ANCHOR, sin fuga a otros slots; y las 2 variantes reescritas
     # (elbows-on-knees al frente de la oracion, backrest-arch sin straddle/reversed) no contienen
