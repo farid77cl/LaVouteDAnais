@@ -14,7 +14,7 @@ Este Skill es el motor central para mantener la coherencia estética y técnica 
 Para cada generación de imagen, **DEBES** incluir estos elementos de forma explícita para evitar variaciones:
 
 - **Físico:** Oval face, high cheekbones, grey-green eyes, dark cherry red hair (XXXL extensions, hip-length).
-- **Modificaciones:** Blackwork tattoos (upper back, arms, outer thighs), **rune-glyph identity tattoo (abstract esoteric calligraphic symbols, fine blackwork, along one hip crease / bikini line)**, piercings (navel, nipple piercings pressing against and visible under clothing).
+- **Modificaciones:** Blackwork tattoos (upper back, arms, outer thighs), **rune-glyph identity tattoo (abstract esoteric calligraphic symbols, fine blackwork, along one hip crease / bikini line)**, piercings (navel, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment).
 - **Estética:** Dramatic siren liner, glossy hot pink lips, XXXL French nails (5cm, white tips).
 
 ## 👠 Footwear Canon (REGLA INAMOVIBLE — Ama 13/05/2026)
@@ -1652,7 +1652,7 @@ El BLOQUE B se escribe **una sola vez** y se copia idéntico en los 5 prompts. N
 
 **BLOQUE A — ADN Inamovible (siempre idéntico, copiado de [dna_v3_5.md](references/dna_v3_5.md)):**
 ```
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, blackwork arm tattoos shown only on bare uncovered skin, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
 ```
 
 El BLOQUE A **nunca se modifica**. Se copia textualmente de `dna_v3_5.md`. Nunca se escribe de memoria.
@@ -1771,7 +1771,7 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 - Estás a punto de generar una imagen sin haber escrito los 5 prompts completos en `galeria_outfits.md`.
 - Uno de tus prompts no incluye el BLOQUE A completo copiado de `dna_v3_5.md`.
 - El BLOQUE B difiere entre dos de las 5 poses del mismo Look.
-- Estás usando un prompt que no incluye "nipple piercings pressing against and visible under clothing".
+- Estás usando un prompt que no incluye "nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment".
 - Una pose Ditzy u Odalisque generó una persona diferente (cara, color de pelo, rasgos cambiados) — activa el negative prompt `different person, different face, different hair color` y regenera.
 - Tus prompts no tienen negative prompt configurado en el generador.
 - Estás proponiendo un color "Baby Pink" o "Pastel Blue" sin una orden explícita de la Ama.
