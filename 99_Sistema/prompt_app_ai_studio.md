@@ -1,167 +1,217 @@
-# 📱 Prompt para Google AI Studio — App La Voûte (lectura/escritura de `galeria_outfits.md`)
+# 📱 Prompt para Google AI Studio — App LV-App (`farid77cl/LV-App`)
 
-> **Uso:** copiar el bloque completo de abajo y pegarlo en AI Studio como instrucción para corregir la app.
-> **Origen:** nace de la auditoría del 14/07/2026 (35 carpetas duplicadas, 380 poses que figuraban pendientes teniendo la imagen en disco, 60 looks generados sin bloque negativo).
-> **Contrato de referencia:** `.agent/rules/11-contrato-galeria.md` · **Linter:** `99_Sistema/scripts/visual/lint_galeria.py`
+> **Uso:** copiar el bloque de abajo y pegarlo en AI Studio.
+> **Base:** lectura del código real (Kotlin/Compose) el 14/07/2026 — no inferencia.
+> **Repo app:** https://github.com/farid77cl/LV-App · **Repo contenido:** `farid77cl/LaVouteDAnais`
+> **Contrato del `.md`:** `.agent/rules/11-contrato-galeria.md` · **Linter:** `99_Sistema/scripts/visual/lint_galeria.py`
+
+## Cómo funciona la app hoy (verificado en el código)
+
+La app **no genera imágenes**. `GeminiApiService` solo expone `generateContent` (texto, `gemini-1.5-pro-latest`). El flujo real es:
+
+1. `GitRepository.parseMarkdown()` lee `00_Ele/galeria_outfits.md` → `LookEntity` + `PromptEntity`.
+2. `PromptFilterScreen` muestra el prompt de la pose y la Ama lo **copia** (`ClipboardManager`).
+3. La Ama lo pega en Gemini (app aparte), genera la imagen y la guarda en el teléfono.
+4. Vuelve a la app, la elige con el picker (`GetContent()`), y `saveImageToGithub()` la sube.
+
+**Consecuencia crítica:** lo que no esté en el texto copiado, **no llega al generador**.
+
+## Los 7 bugs reales, con ubicación
+
+| # | Dónde | Qué pasa |
+|---|-------|----------|
+| **1** | `parseMarkdown()` + `Entities.kt:22` | **El `Negative Prompt` NUNCA se lee.** `PromptEntity` solo tiene `promptText`; la palabra `negative` no existe en el código. El negativo nunca se copia → **todas las imágenes se generaron sin él.** |
+| **2** | `GitRepository.kt:127` | `replace(Regex("[^a-z0-9]"), "_")` sin plegar acentos → `"Lencería"` = **`lencer_a`**. |
+| **3** | `PromptFilterScreen.kt:164` | `existingPath` solo se reutiliza si ya hay imagen de **la misma pose** → la 1ª pose inventa carpeta nueva → **duplicados**. |
+| **4** | `parseMarkdown()` | El campo **`Ubicacion` nunca se parsea**. Va crudo dentro de `canonicalInfo` y se ignora. |
+| **5** | `GitRepository.kt:128` | `String.format("%03d")` → el look 99 sería `look099_` / `ele_099_`. El canon es `look99_` / `ele_99_`. |
+| **6** | `GitRepository.kt:373-387` | La categoría **se adivina por keywords** (13 categorías propias) en vez de leer el campo `Categoría`. `"platform"` → Stripper, y *todos* los looks llevan platform. |
+| **7** | `GitRepository.kt:462-482` | Un fence mal formado deja `isReadingCodeBlock=true` y **se traga líneas hasta el próximo backtick** → prompts mezclados entre poses y looks. |
 
 ---
 
 ```
-Estás modificando una app Android (Kotlin) que hace dos cosas contra un repositorio de GitHub:
-(1) LEE el archivo `00_Ele/galeria_outfits.md` para sacar prompts de generación de imágenes, y
-(2) SUBE los PNG generados a `05_Imagenes/ele/` y actualiza el contador de ese mismo archivo.
+Estás corrigiendo la app Android LV-App (Kotlin + Jetpack Compose + Room + Retrofit).
+Su repo es farid77cl/LV-App. Lee y escribe contra el repo de contenido farid77cl/LaVouteDAnais.
 
-Hoy tiene bugs que corrompen el repositorio. Necesito que reescribas el parser y el uploader
-para que cumplan EXACTAMENTE el contrato que sigue. No inventes formato: respétalo al pie de la letra.
+La app NO genera imágenes: parsea prompts desde `00_Ele/galeria_outfits.md`, los muestra para
+copiar al portapapeles (la usuaria los pega en Gemini a mano), y luego sube el PNG resultante
+a GitHub. Por lo tanto: LO QUE NO SE COPIA, NO LLEGA AL GENERADOR.
 
-=====================================================================
-A. ENCODING — REGLA CERO
-=====================================================================
-- Leer y escribir SIEMPRE en UTF-8 (sin BOM). Nunca ISO-8859-1, nunca ASCII forzado.
-- NUNCA degradar un carácter acentuado a "_" ni a "?" al construir nombres.
-  Bug real: el título "Lencería" produjo la carpeta `look616_lencer_a`, y
-  "Shanghái" produjo `look709_suzie_wong_shangh_i`. Los acentos se PLIEGAN
-  (í -> i), no se sustituyen por guión bajo.
+Corrige los siguientes 7 bugs. Están localizados. No refactorices de más.
 
 =====================================================================
-B. ESTRUCTURA DEL ARCHIVO
+BUG 1 (CRÍTICO) — EL BLOQUE NEGATIVO NUNCA SE LEE NI SE COPIA
 =====================================================================
-Cada look es un bloque que empieza con un heading de nivel 2. Ejemplo REAL:
+Archivos: data/repository/GitRepository.kt (parseMarkdown), data/local/Entities.kt,
+          ui/PromptFilterScreen.kt
 
-## Look 787: Gold Marquee Bodycon (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Nightclub · Rock Marquee Alley (Sequin Bodycon) · Monoblock)
-- **Ubicacion:** `05_Imagenes/ele/look787_gold_marquee_bodycon/`
-- **Tags:** #glamrock #nightclub #gold #sequinvinyl #batchL781-L790 #V5poses
+Hoy `PromptEntity` solo tiene `promptText`. La palabra "negative" no existe en el código.
+En el markdown, cada look termina con una línea así (INLINE, entre backticks simples):
 
-### 📸 Imágenes (7/7 — Materializado)
+    **Negative Prompt:** `gothic, vampire, flat shoes, gloves, chunky heel, ...`
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look787_gold_marquee_bodycon/ele_787_standing.png) | ... |
+Ese negativo aplica a LAS 7 POSES del look. Como nunca se captura, la usuaria nunca lo pega
+en Gemini y TODAS las imágenes se han generado sin negativo. Ese es el bug más caro del proyecto.
 
-**Standing:**
+Qué hacer:
+ 1.1 Añadir `negativePrompt: String?` a `LookEntity` (es por look, no por pose).
+     Migración de Room correspondiente.
+ 1.2 En `parseMarkdown()`, detectar la línea que empieza con `**Negative Prompt:**` y capturar
+     el contenido entre los backticks simples. Guardarlo en el LookEntity actual.
+     OJO: esa línea mide >100 caracteres y contiene la palabra "prompt", así que hoy entra en la
+     rama de detección de poses (línea ~486) y se descarta en silencio. Detéctala ANTES de esa rama.
+ 1.3 En `PromptFilterScreen`, mostrar el negativo y darle su propio botón "Copiar negativo".
+     Además, el botón de copiar principal debe ofrecer copiar POSITIVO + NEGATIVO juntos,
+     en el formato que espera el generador:
 
-```
-<texto del prompt en inglés, una o varias líneas>
-```
+         <prompt positivo>
 
-**Back View:**
+         --no <negative prompt>
 
-```
-<texto del prompt>
-```
-
-(... y así las 7 poses ...)
-
-**Negative Prompt:** `gothic, vampire, fangs, flat shoes, gloves, ...`
-
-Reglas de parseo:
- B1. Un look empieza en `^## Look (\d+): (.*?) \(` — grupo 1 = número, grupo 2 = TÍTULO.
-     El bloque del look termina donde empieza el próximo `## Look`.
- B2. Los campos son líneas `- **Clave:** valor`.
-     IMPORTANTE: normaliza la clave quitando diacríticos ANTES de comparar.
-     En el archivo conviven `**Ubicacion:**` y `**Ubicación:**`; ambas son la misma clave.
-     Mismo criterio para Categoria/Categoría, Subcategoria/Subcategoría, Ambientacion/Ambientación.
- B3. `### 📸 Imágenes (n/7 — ...)` es el TRACKER, seguido de una tabla markdown.
-     De ahí NO se sacan prompts. Es solo estado.
- B4. Los prompts son: una línea `**<Pose>:**` seguida de un bloque de código cercado.
-     Las 7 poses, escritas exactamente así:
-        Standing · Back View · Seated · Side Profile · Ditzy · POV · Odalisque
- B5. El bloque de código abre con ``` en su PROPIA línea y cierra con ``` en su PROPIA línea.
-     BUG ACTUAL A CORREGIR: si encuentras un fence mal formado (``` de apertura y cierre en la
-     misma línea, o sin cerrar), NO sigas tragando líneas hasta el próximo backtick — eso hace
-     que se mezclen prompts entre poses y hasta entre looks distintos (pasó con 1.167 prompts).
-     Trata el bloque como terminado al llegar a la próxima línea `**<Pose>:**`, al próximo
-     heading `##`/`###`, o al fin del bloque del look — lo que ocurra primero.
- B6. `**Negative Prompt:** \`...\`` viene INLINE entre backticks simples, después de la última pose.
-     Ese negativo aplica a LAS 7 POSES del look. Si el look no tiene Negative Prompt, no inventes
-     uno: marca el look como incompleto y NO lo generes (generar sin negativo produce basura).
+ 1.4 Si un look NO tiene bloque `Negative Prompt`, márcalo visualmente en la UI (badge rojo
+     "SIN NEGATIVO") y no lo ofrezcas como listo para generar. Hoy hay ~300 looks así.
 
 =====================================================================
-C. EL SLUG — LA CAUSA DE TODOS LOS DUPLICADOS
+BUG 2 — EL SLUG DESTRUYE LOS ACENTOS
 =====================================================================
-Cada look tiene UN solo slug canónico. El mismo string debe aparecer, carácter por carácter, en:
-   - el nombre de la carpeta:   05_Imagenes/ele/look<N>_<slug>/
-   - el campo Ubicacion
-   - los links de la tabla 📸
+Archivo: data/repository/GitRepository.kt, línea ~127 (saveImageToGithub)
 
-C1. FUENTE DE VERDAD = el campo `Ubicacion`.
-    La app DEBE leer la carpeta destino de ese campo. NO la derives del título.
-    (Bug actual: la app deriva el slug del título e ignora Ubicacion; cuando ambos difieren
-     crea una segunda carpeta para el mismo look. Así aparecieron 35 looks con carpeta duplicada
-     y 380 poses que quedaron invisibles.)
+Código actual:
+    val slug = look.name.lowercase().replace(Regex("[^a-z0-9]"), "_").replace(Regex("_+"), "_")
 
-C2. Solo si el campo `Ubicacion` NO existe, derivar el slug del TÍTULO con este algoritmo exacto:
-      1. minúsculas
-      2. plegar acentos a ASCII:  á→a  é→e  í→i  ó→o  ú→u  ü→u  ñ→n
-      3. BORRAR guiones y apóstrofes (no convertirlos en "_"):  "Coat-Dress" → "coatdress"
-      4. cualquier carácter que no sea [a-z0-9] → "_"; colapsar "__" repetidos; recortar los "_" de los bordes
-      5. prefijar "look<N>_"
-    Ejemplos de control (deben dar exactamente esto):
-      "Jade Coat-Dress Boardroom" → look764_jade_coatdress_boardroom
-      "Shanghai Qipao Líquido"    → look702_shanghai_qipao_liquido
-      "Cherry Polka Dot Pin-Up"   → look610_cherry_polka_dot_pinup
+La "í" de "Lencería" no está en [a-z0-9], así que se convierte en "_" y produce la carpeta
+`look616_lencer_a`. Lo mismo con `look709_suzie_wong_shangh_i` y `look702_..._l_quido`.
+Son carpetas reales que existen en el repo por este bug.
 
-C3. ANTES de crear una carpeta nueva, busca si YA EXISTE cualquier directorio que empiece con
-    `look<N>_` (mismo número de look). Si existe, USA ESA. Nunca crees una segunda carpeta
-    para un número de look que ya tiene una. Esta sola regla habría evitado los 35 duplicados.
+Reemplázalo por un slugify que PLIEGUE los acentos a ASCII antes de sustituir:
 
-C4. El slug es SIEMPRE ASCII. Ni un acento, ni una ñ, ni un espacio en el nombre de carpeta.
+    fun slugify(name: String): String {
+        val folded = java.text.Normalizer.normalize(name, java.text.Normalizer.Form.NFD)
+            .replace(Regex("\\p{Mn}+"), "")      // quita los diacríticos: í -> i, ñ -> n
+        return folded.lowercase()
+            .replace("-", "").replace("'", "").replace("’", "")   // "Coat-Dress" -> "coatdress"
+            .replace(Regex("[^a-z0-9]+"), "_")
+            .trim('_')
+    }
+
+Casos de control (deben dar EXACTAMENTE esto):
+    "Lencería Burgundy Boots"   -> lenceria_burgundy_boots
+    "Shanghai Qipao Líquido"    -> shanghai_qipao_liquido
+    "Jade Coat-Dress Boardroom" -> jade_coatdress_boardroom
+    "Cherry Polka Dot Pin-Up"   -> cherry_polka_dot_pinup
 
 =====================================================================
-D. NOMBRES DE ARCHIVO AL SUBIR
+BUG 3 — CARPETAS DUPLICADAS POR LOOK
 =====================================================================
-D1. Formato:  ele_<N>_<pose>.png
-D2. Los nombres de pose son EXACTAMENTE estos siete:
-       standing · back_view · seated · side_profile · ditzy · pov · odalisque
-    BUG ACTUAL: la app sube `ele_<N>_back.png` y `ele_<N>_profile.png`.
-    Debe subir `back_view` y `side_profile`. Si no, la pose se mapea mal en la galería.
-D3. Si ya existe un archivo con ese nombre exacto, NO lo sobrescribas en silencio:
-    sube como `ele_<N>_<pose>__v2.png`. Nunca se pierde una imagen.
-D4. Se aceptan archivos con sufijo de timestamp (`ele_313_pov_1783817471712.png`): son la
-    misma pose, generada por API. Al contar, trata `ele_<N>_<pose>` con o sin sufijo como
-    LA MISMA POSE (regex: ^ele_0*<N>_<pose>(_\d+)?\.png$).
+Archivos: ui/PromptFilterScreen.kt línea ~164, data/repository/GitRepository.kt línea ~129
+
+Código actual:
+    val existingImage = matchedImages.firstOrNull { matchesPose(selectedPose, it.poseName) }
+    viewModel.uploadImageToGithub(..., existingPath = existingImage?.path)
+
+Solo reutiliza la ruta si YA existe una imagen de LA MISMA POSE. Para la primera imagen de cada
+pose, `existingPath` es null y `saveImageToGithub` inventa la carpeta desde el slug del título.
+Si esa carpeta no coincide con la que ya tiene el look, se crea una SEGUNDA carpeta.
+Resultado real: 35 looks con dos carpetas y las poses repartidas entre ambas.
+
+Qué hacer — resolución de carpeta destino, EN ESTE ORDEN:
+    a) ¿Existe alguna imagen de ESTE LOOK (cualquier pose) en la BD?
+       -> usa SU `parentFolder`.  (esto solo, ya mata el bug)
+    b) Si no, ¿el markdown declara `Ubicacion` para el look? -> usa esa carpeta (ver BUG 4).
+    c) Si no, recién ahí construye `look<N>_<slugify(titulo)>`.
+Nunca crear un segundo directorio para un número de look que ya tiene uno.
 
 =====================================================================
-E. ACTUALIZAR EL CONTADOR (tracker)
+BUG 4 — EL CAMPO `Ubicacion` SE IGNORA
 =====================================================================
-E1. Tras subir, regenera la sección del look:
-    ### 📸 Imágenes (<n>/7 — Materializado)              <- si n == 7
-    ### 📸 Imágenes (<n>/7 — Materializado parcial (app/Gemini))   <- si n < 7
-    seguida de la tabla de 7 columnas, con [📸 View](../../<ruta real>) o "⏳ Pendiente".
+Archivo: data/repository/GitRepository.kt (parseMarkdown)
 
-E2. CUENTA LOS ARCHIVOS EN DISCO, no confíes en el número que ya estaba escrito.
-    Bug real: el contador decía 0/7 en looks que tenían las 7 imágenes hace días.
-    La Ama leía "0/7", mandaba a regenerar, y se quemaba cuota API en imágenes que ya existían.
+Entre el heading del look y el primer `###` viene la metadata, que hoy se guarda cruda en
+`canonicalInfo` y nunca se parsea:
 
-E3. Los links de la tabla deben apuntar al archivo REAL (la carpeta que de verdad lo contiene).
-    Si renombras o mueves una carpeta, hay que re-escribir los links: el conteo no cambia pero
-    la ruta sí (esto dejó 49 links rotos).
+    - **Ubicacion:** `05_Imagenes/ele/look787_gold_marquee_bodycon/`
+    - **Tags:** #glamrock #nightclub #gold #batchL781-L790 #V5poses
+    - **Categoria:** Nightclub
 
-=====================================================================
-F. CATEGORÍA Y TAGS (para filtrar en la app)
-=====================================================================
-F1. La categoría sale del heading (entre paréntesis, separada por "·") o del campo `Categoria`.
-    Lista CERRADA de 10 valores válidos:
-       Stripper · Corporate · Escort · Domestic · Pin-Up
-       High-Fashion Editorial · Nightclub · Lencería · Bikini · Gym
-    Normaliza al leer:  "Lenceria" → "Lencería" ; "Gym/Athleisure" → "Gym" ;
-                        "HF Editorial" → "High-Fashion Editorial".
-    "Mix" NO es una categoría válida (hay ~104 looks con ese valor): trátalos como "sin categoría".
-F2. Tags: línea `- **Tags:** #a #b #c`. Van en minúscula y sin tilde. El primero es la categoría.
+Parsea esas líneas como campos `- **Clave:** valor` y expón al menos `Ubicacion`, `Categoria`
+y `Tags` en `LookEntity`.
+IMPORTANTE: en el archivo conviven claves con y sin tilde (`**Ubicación:**` y `**Ubicacion:**`).
+Normaliza la CLAVE quitando diacríticos antes de comparar, o no encontrarás la mitad.
 
 =====================================================================
-G. QUÉ ENTREGARME
+BUG 5 — PADDING DE 3 DÍGITOS
 =====================================================================
-1. El parser corregido (función que dado el .md devuelve, por look:
-   número, título, slug canónico, categoría normalizada, tags, los 7 prompts, el negative, y
-   el estado real de materialización).
-2. El uploader corregido (nombres de pose canónicos, reutilización de carpeta existente,
-   sin sobrescritura silenciosa, y regeneración del tracker contando el disco).
-3. Tests con estos casos de control:
-   - Título con acento y guión: "Shanghai Qipao Líquido" y "Jade Coat-Dress Boardroom".
-   - Clave del campo con y sin tilde: "**Ubicación:**" y "**Ubicacion:**".
-   - Un look con fence mal formado: NO debe contaminar el look siguiente.
-   - Un look sin Negative Prompt: NO debe generarse.
-   - Un look con imágenes con sufijo timestamp: debe contarlas como materializadas.
-   - Un look cuya carpeta ya existe con otro slug: debe reutilizarla, no crear una segunda.
+Archivo: data/repository/GitRepository.kt, línea ~128
+
+    val lookNumStr = String.format("%03d", look.number)
+
+Para el look 99 produce `look099_...` y `ele_099_standing.png`. El canon del repo es `look99_`
+y `ele_99_standing.png`, sin padding. Usa `look.number.toString()`.
+(Hoy no muerde porque la app opera sobre looks >= 291, pero rompe en cuanto toque uno antiguo.)
+
+=====================================================================
+BUG 6 — LA CATEGORÍA SE ADIVINA POR KEYWORDS
+=====================================================================
+Archivo: data/repository/GitRepository.kt, líneas ~373-403
+
+`outfitType` se infiere buscando substrings en el título ("platform" -> Stripper & Pole,
+"fetish" -> Domestic & Fetish, "siren" -> Bikini & Playa, "vow" -> Bikini...). Es poco fiable:
+TODOS los looks llevan plataforma y TODOS son fetish, así que la categoría sale mal seguido.
+
+El markdown YA trae la categoría, en el heading y en el campo `Categoria`:
+
+    ## Look 787: Gold Marquee Bodycon (13/07/2026 · batch ... · Nightclub · Rock Marquee Alley ... )
+
+Qué hacer:
+ 6.1 Leer la categoría del campo `Categoria` (BUG 4); si falta, tomarla de los segmentos
+     separados por "·" del heading.
+ 6.2 Lista CERRADA de 10 valores válidos:
+        Stripper · Corporate · Escort · Domestic · Pin-Up
+        High-Fashion Editorial · Nightclub · Lencería · Bikini · Gym
+     Normalizar al leer: "Lenceria" -> "Lencería" ; "Gym/Athleisure" -> "Gym" ;
+     "HF Editorial" -> "High-Fashion Editorial". "Mix" no es válida -> "Sin categoría".
+ 6.3 Usar la inferencia por keywords SOLO como último recurso, y marcarla como "inferida".
+
+=====================================================================
+BUG 7 — UN FENCE ROTO SE TRAGA EL LOOK SIGUIENTE
+=====================================================================
+Archivo: data/repository/GitRepository.kt, líneas ~462-482 y ~559-565
+
+Al ver una línea que empieza con ``` se pone `isReadingCodeBlock = true` y se acumulan líneas
+hasta encontrar OTRA línea que empiece con ```. Si el markdown trae un fence mal formado
+(apertura y cierre en la misma línea, o sin cerrar), el parser sigue tragando y mezcla prompts
+entre poses e incluso entre looks distintos.
+
+Qué hacer: cerrar el bloque de código también cuando aparezca, estando dentro de él, cualquiera de:
+    - una línea `**<Pose>:**`
+    - un heading `##` o `###`
+    - el inicio de otro look
+Lo que ocurra primero. Nunca dejes que un bloque cruce el límite de un look.
+
+=====================================================================
+NOMBRES CANÓNICOS (esto YA lo hace bien — no lo rompas)
+=====================================================================
+- Poses al subir: standing · back_view · seated · side_profile · ditzy · pov · odalisque
+  (`formattedPose` en saveImageToGithub ya es correcto)
+- Archivo: ele_<N>_<pose>.png
+- Se aceptan sufijos de timestamp (ele_313_pov_1783817471712.png): misma pose, generada por API.
+  Al detectar la pose de un archivo, trátalos como equivalentes.
+- Nunca sobrescribir un PNG en silencio: si el nombre existe y es una imagen distinta, sube
+  como ele_<N>_<pose>__v2.png.
+- La app NO debe escribir galeria_outfits.md. Ese archivo lo mantienen los scripts del repo.
+
+=====================================================================
+QUÉ QUIERO DE VUELTA
+=====================================================================
+1. Los diffs de: GitRepository.kt, Entities.kt, PromptFilterScreen.kt, MainViewModel.kt
+   (+ la migración de Room por el campo nuevo).
+2. Tests unitarios en app/src/test/java/com/example/ParserTest.kt que cubran:
+   - slugify("Lencería Burgundy Boots") == "lenceria_burgundy_boots"
+   - slugify("Jade Coat-Dress Boardroom") == "jade_coatdress_boardroom"
+   - parseMarkdown captura el Negative Prompt de un look y lo asocia a las 7 poses.
+   - un look SIN Negative Prompt queda marcado como incompleto.
+   - clave "**Ubicación:**" (con tilde) y "**Ubicacion:**" (sin tilde) resuelven igual.
+   - un look con un fence mal formado NO contamina el look siguiente.
+   - subir la 1ª pose de un look que ya tiene carpeta REUTILIZA esa carpeta.
 ```
