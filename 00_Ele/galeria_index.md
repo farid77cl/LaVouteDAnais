@@ -100,7 +100,7 @@
 | **288** | Oxblood Croco Rock Housewife (27/05/2026 — batch 281-290 · Domestic Polo A Trophy · busto 1000cc · v4.6 canon · tema ROCK) | — | Domestic | — | — | 2/7 | — |
 | **289** | Black Leather Motocross Athleisure (27/05/2026 — batch 281-290 · Gym Wetsuit/Equestrian hybrid V10/V9 · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 2/7 | — |
 | **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 2/7 | — |
-| **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 7/7 | ✅ Completo |
+| **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
 | **292** | Champagne Boudoir Slip 1930s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 7/7 | — |
 | **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
 | **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
@@ -423,13 +423,13 @@
 | **611** | Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots) | — | Gym/Athleisure | — | — | 7/7 | — |
 | **612** | Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots) | — | Gym/Athleisure | — | — | 7/7 | — |
 | **613** | Nightclub (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · plata + negro · boots) | — | Nightclub | — | — | 7/7 | — |
-| **614** | Nightclub (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · negro + rojo · boots) | — | Nightclub | — | — | 7/7 | — |
-| **615** | Corporate (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots) | — | Corporate | — | — | 2/7 | ⏳ Pendiente |
-| **616** | Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · borgoña + negro · boots) | — | Lencería | — | — | 7/7 | — |
-| **617** | Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · rojo + rojo · boots) | — | Lencería | — | — | 7/7 | — |
-| **618** | Stripper (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Stripper · Stripper (Thigh-High Boots) · negro + transparente · boots) | — | Stripper | — | — | 7/7 | — |
-| **619** | Bikini (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Bikini · Bikini (Thigh-High Boots) · oro + oro · boots) | — | Bikini | — | — | 7/7 | — |
-| **620** | Pin-Up (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Pin-Up · Pin-Up (Thigh-High Boots) · rojo + negro · boots) | — | Pin-Up | — | — | 7/7 | — |
+| **614** | Nightclub Hot Pants (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · negro + rojo · boots) | — | Nightclub | — | — | 7/7 | — |
+| **615** | Corporate Siren Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots) | — | Corporate | — | — | 2/7 | ⏳ Pendiente |
+| **616** | Lencería Burgundy Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · borgoña + negro · boots) | — | Lencería | — | — | 7/7 | — |
+| **617** | Lencería Red Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · rojo + rojo · boots) | — | Lencería | — | — | 7/7 | — |
+| **618** | Stripper Clear Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Stripper · Stripper (Thigh-High Boots) · negro + transparente · boots) | — | Stripper | — | — | 7/7 | — |
+| **619** | Bikini Gold Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Bikini · Bikini (Thigh-High Boots) · oro + oro · boots) | — | Bikini | — | — | 7/7 | — |
+| **620** | Pin-Up Retro Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Pin-Up · Pin-Up (Thigh-High Boots) · rojo + negro · boots) | — | Pin-Up | — | — | 7/7 | — |
 | **621** | Cherry Boudoir Lace (20/06/2026 - batch L621-L630 "Platform Heights" - Lencería - Lencería Fetish (Platform Heights) - rojo cereza + negro - platform) | — | Lencería | — | — | 7/7 | — |
 | **622** | Emerald Pole Fishnet (20/06/2026 - batch L621-L630 "Platform Heights" - Stripper - Stripper (Platform Heights) - verde esmeralda + negro - platform) | — | Stripper | — | — | 1/7 | ⏳ Pendiente |
 | **623** | Liquid Gold Bikini (20/06/2026 - batch L621-L630 "Platform Heights" - Bikini - Bikini Resort (Platform Heights) - oro liquido - platform) | — | Bikini | — | — | 7/7 | — |
@@ -690,8 +690,8 @@
 ### Verde / Esmeralda (42 looks)
 **204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**, **673**, **682**, **716**, **727**, **761**, **763**, **764**, **765**, **766**, **768**
 
-### Dorado / Bronce (56 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **623**, **628**, **632**, **672**, **679**, **688**, **692**, **696**, **715**, **728**, **782**, **787**
+### Dorado / Bronce (57 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **619**, **623**, **628**, **632**, **672**, **679**, **688**, **692**, **696**, **715**, **728**, **782**, **787**
 
 ### Plateado / Plata (65 looks)
 **212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **657**, **658**, **660**, **668**, **683**, **688**, **715**, **729**, **751**, **754**, **755**, **756**, **757**, **758**, **779**, **786**
@@ -945,7 +945,7 @@
 | **597** | Office Sleaze (18/06/2026 — batch L591-L600 "Boot Obsession" · Corporate · Office Siren (Boot Obsession) · Negro + blanco perla · boots) | 6/7 | ⏳ Pendiente |
 | **599** | Neon Tangerine (18/06/2026 — batch L591-L600 "Boot Obsession" · Bikini · Bikini Studio (Boot Obsession) · Naranja neón · boots) | 1/7 | ⏳ Pendiente |
 | **605** | Office Siren Denim Jeans (18/06/2026 — batch L601-L610 "Platform Obsession" · Corporate · Office Siren (Platform Obsession) · negro + blanco · platform) | 4/7 | ⏳ Pendiente |
-| **615** | Corporate (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots) | 2/7 | ⏳ Pendiente |
+| **615** | Corporate Siren Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots) | 2/7 | ⏳ Pendiente |
 | **622** | Emerald Pole Fishnet (20/06/2026 - batch L621-L630 "Platform Heights" - Stripper - Stripper (Platform Heights) - verde esmeralda + negro - platform) | 1/7 | ⏳ Pendiente |
 | **626** | Violet Tennis Gym (20/06/2026 - batch L621-L630 "Platform Heights" - Gym/Athleisure - Gym Athleisure (Platform Heights) - violeta + blanco - platform) | 1/7 | ⏳ Pendiente |
 | **634** | Fire Red Baywatch (20/06/2026 - batch L631-L640 "Runas Reveladas" - Pin-Up - Pin-Up Decade Glam 90s (Runas Reveladas) - rojo Baywatch - platform) | 2/7 | ⏳ Pendiente |

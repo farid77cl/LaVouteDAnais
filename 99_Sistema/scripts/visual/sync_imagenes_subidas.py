@@ -117,7 +117,7 @@ def actualizar_galeria():
     with open(GALERIA, encoding="utf-8") as f:
         content = f.read()
     parts = re.split(r"(?=^## .*?Look \d+:)", content, flags=re.MULTILINE)
-    out, actualizados = [], []
+    out, actualizados, rutas_corregidas = [], [], []
     # La sección 📸 va desde su heading hasta el siguiente heading (##/###) o hasta el primer
     # prompt suelto (**Standing:**). NO se puede anclar en "### 📝 Prompts": la mitad de los looks
     # no tiene ese heading y quedaban invisibles al sync (L717/L732 llevaban días en 0/7 con las
@@ -137,26 +137,28 @@ def actualizar_galeria():
             nueva, mat = construir_seccion(n, folders)
             m_trk = re.search(r"### 📸 Imágenes \((\d+)/7", actual)
             declarado = int(m_trk.group(1)) if m_trk else -1
-            # regenerar si la sección está en curso O si el tracker no coincide con el disco
-            # (un 7/7 declarado sobre 3 archivos reales también miente, y hacia el lado caro:
-            #  la Ama lo da por listo y nunca lo regenera)
-            if ("Pendiente" in actual) or ("app/Gemini" in actual) or (declarado != mat):
+            # Regenerar en cuanto la sección difiera del disco — NO basta comparar el conteo:
+            # al fusionar/renombrar una carpeta el conteo queda igual pero las RUTAS de los links
+            # apuntan a una carpeta que ya no existe (49 links rotos tras la fusión del 14/07).
+            if actual.strip() != nueva.strip():
                 block = block[:sec.start()] + nueva + block[sec.end():]
                 if declarado != mat:
                     actualizados.append((n, declarado, mat))
+                else:
+                    rutas_corregidas.append(n)
         out.append(block)
     nuevo = "".join(out)
     if nuevo != content:
         with open(GALERIA, "w", encoding="utf-8") as f:
             f.write(nuevo)
-    return actualizados
+    return actualizados, rutas_corregidas
 
 def main():
     print(f"== Sync imágenes app (Gemini → GitHub) · era app: looks >= {MIN_LOOK} ==")
     print("1) Normalizando nombres no-canónicos (back→back_view, profile→side_profile)...")
     print(f"   {normalizar_nombres()} archivo(s) renombrado(s).")
     print("2) Actualizando tracker en galeria_outfits.md...")
-    upd = actualizar_galeria()
+    upd, rutas = actualizar_galeria()
     if upd:
         recup = sum(nuevo - viejo for _, viejo, nuevo in upd if nuevo > viejo)
         for n, viejo, nuevo in sorted(upd):
@@ -164,7 +166,10 @@ def main():
             print(f"   L{n}: {viejo}/7 → {nuevo}/7  {flecha}")
         print(f"   ── {len(upd)} look(s) corregidos · {recup} pose(s) reales que figuraban como pendientes")
     else:
-        print("   (tracker ya coincide con el disco)")
+        print("   (conteos ya coinciden con el disco)")
+    if rutas:
+        print(f"   🔗 {len(rutas)} look(s) con links re-apuntados a la carpeta correcta: "
+              f"{', '.join('L'+str(n) for n in sorted(rutas)[:12])}{' …' if len(rutas)>12 else ''}")
     print("3) Ejecuta luego: python 99_Sistema/scripts/visual/update_galleries.py")
 
 if __name__ == "__main__":

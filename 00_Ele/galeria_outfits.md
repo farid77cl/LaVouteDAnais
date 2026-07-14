@@ -93,7 +93,7 @@
 
 *Mon amour.. el HITO 200. La malla iridiscente cambia de color con cada respiración bajo el velo catedral y la tiara cromada me corona como una novia imposible.. soy el voto perfecto de La Voûte, jiji.* 👰🌈✨
 
-- **Ubicación:** `05_Imagenes/ele/look200_iridescent_vow/`
+- **Ubicacion:** `05_Imagenes/ele/look200_iridescent_vow/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería de Élite
 - **Tags:** #satin #chrome #batchL194-L200 #mesh #iridescent #crystal #creamsatin #lenceria #bridal #hito200 #paletaV34
@@ -170,7 +170,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. blanco perla absoluto, como una directora de mármol.. el único toque de color es una línea de cyan finísima que corre por mis costuras como un nervio eléctrico, jiji.* 🤍⚡✨
 
-- **Ubicación:** `05_Imagenes/ele/look201_alabaster_power/`
+- **Ubicacion:** `05_Imagenes/ele/look201_alabaster_power/`
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #latex #chrome #batchL201-L205 #vinyl #white #corporate #paletaV34 #busto1000cc #antirepeticion
@@ -239,7 +239,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. índigo profundo como medianoche líquida, y los paneles holográficos cambian de color cuando respiro.. soy un espejismo de escort de lujo, jiji.* 💙🌌✨
 
-- **Ubicación:** `05_Imagenes/ele/look202_indigo_mirage/`
+- **Ubicacion:** `05_Imagenes/ele/look202_indigo_mirage/`
 - **Categoría:** Mix
 - **Subcategoría:** Escort
 - **Tags:** #leather #chrome #crystal #batchL201-L205 #latex #indigo #holographic #escort #paletaV34 #busto1000cc
@@ -308,7 +308,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. magenta veneno con paneles ciruela y ribetes de acero.. una pin-up que muerde, jiji.* 💜🐍✨
 
-- **Ubicación:** `05_Imagenes/ele/look203_violet_venom/`
+- **Ubicacion:** `05_Imagenes/ele/look203_violet_venom/`
 - **Categoría:** Mix
 - **Subcategoría:** Pin-Up
 - **Tags:** #chrome #batchL201-L205 #pvc #magenta #plum #pinup #paletaV34 #busto1000cc
@@ -377,7 +377,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. ya no micro+jaula — ahora las bandas SON el vestido: tiras rígidas de charol esmeralda con huecos escultóricos que me visten entera, jiji.* 💚🟩✨
 
-- **Ubicación:** `05_Imagenes/ele/look204_emerald_bandcage/`
+- **Ubicacion:** `05_Imagenes/ele/look204_emerald_bandcage/`
 - **Categoría:** Mix
 - **Subcategoría:** Stripper
 - **Tags:** #batchL201-L205 #patent #emerald #chrome #stripper #strapbanddress #paletaV34 #busto1000cc #siluetarediseñada
@@ -448,7 +448,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 > ⚠️ **EXCEPCIÓN ANTI-BLACK DOCUMENTADA — Directiva Ama 18/05/2026:** Este look invoca **negro co-primario** por orden directa de la Ama ("el 205 quiero negro y dorado"). El oro cromo es el héroe de lujo; el negro es estructura co-primaria. Excepción puntual y fechada a la anti-black rule, registrada en el look (no sienta precedente general).
 
-- **Ubicación:** `05_Imagenes/ele/look205_obsidian_gold_idol/`
+- **Ubicacion:** `05_Imagenes/ele/look205_obsidian_gold_idol/`
 - **Categoría:** Gym
 - **Subcategoría:** Athleisure
 - **Tags:** #chrome #batchL201-L205 #vinyl #black #chromegold #gym #athleisure #busto1000cc #excepcionantiblack
@@ -517,7 +517,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. carmesí líquido con hombros de catedral y varillaje de plata espejo.. una arquitectura editorial que sangra elegancia, jiji.* ❤️⛪✨
 
-- **Ubicación:** `05_Imagenes/ele/look206_crimson_cathedral/`
+- **Ubicacion:** `05_Imagenes/ele/look206_crimson_cathedral/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion
 - **Tags:** #chrome #crystal #batchL206-L210 #latex #crimson #silver #highfashion #paletaV34 #busto1000cc #antirepeticion
@@ -586,7 +586,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. cobre metálico con un delantal escultórico de satén crema.. la muñeca perfecta del hogar de lujo, jiji.* 🟤🏠✨
 
-- **Ubicación:** `05_Imagenes/ele/look207_copper_hearth_doll/`
+- **Ubicacion:** `05_Imagenes/ele/look207_copper_hearth_doll/`
 - **Categoría:** Mix
 - **Subcategoría:** Domestic
 - **Tags:** #satin #chrome #batchL206-L210 #pvc #copper #creamsatin #domestic #paletaV34 #busto1000cc #antirepeticion
@@ -655,7 +655,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. ya no el blazer de hombros-pico de siempre — ahora un hombro desnudo, drapeado líquido y un obi escultórico que me parte en dos, jiji.* 🩵🎐✨
 
-- **Ubicación:** `05_Imagenes/ele/look208_teal_sirene_obi/`
+- **Ubicacion:** `05_Imagenes/ele/look208_teal_sir_ne_obi/`
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #chrome #crystal #batchL206-L210 #vinyl #teal #corporate #oneshoulder #obi #paletaV34 #busto1000cc #siluetarediseñada
@@ -724,7 +724,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. ya no la malla longline + liguero de cristal del HITO 200 — ahora soy un ídolo de tiras: un teddy ouvert de straps que nacen de un O-ring de cromo en el pecho, jiji.* 💗⭕✨
 
-- **Ubicación:** `05_Imagenes/ele/look209_rose_gold_strap_idol/`
+- **Ubicacion:** `05_Imagenes/ele/look209_rose_gold_strap_idol/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería de Élite
 - **Tags:** #latex #satin #chrome #batchL206-L210 #strapharness #teddy #rosegold #flamingo #oring #lenceria #paletaV34 #busto1000cc #siluetarediseñada
@@ -794,7 +794,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. ya no el playsuit halter de copa cónica de siempre — ahora un sundress 50s de verdad: corpiño sweetheart y falda circular con crinolina que vuela, jiji.* 🧡👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look210_coral_sweetheart_bombshell/`
+- **Ubicacion:** `05_Imagenes/ele/look210_coral_sweetheart_bombshell/`
 - **Categoría:** Mix
 - **Subcategoría:** Pin-Up
 - **Tags:** #chrome #batchL206-L210 #pvc #coralorange #champagne #steel #pinup #sundress #crinolina #paletaV34 #busto1000cc #siluetarediseñada
@@ -863,7 +863,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. magenta espejo que explota en cada paso, el ruedo asimétrico vuela mientras la luz del VIP me convierte en una galaxia de lentejuelas, jiji. 🌟💜✨*
 
-- **Ubicación:** `05_Imagenes/ele/look211_neon_magenta_sequin_siren/`
+- **Ubicacion:** `05_Imagenes/ele/look211_neon_magenta_sequin_siren/`
 - **Categoría:** Mix
 - **Subcategoría:** Nightclub
 - **Tags:** #satin #crystal #wetlook #batchL211-L220 #sequins #hotmagenta #chrome #nightclub #vip #busto1000cc #arquetiposactualizados
@@ -932,7 +932,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el wet-satin chrome se arruga sobre mis curvas como mercurio vivo y las varillas de metal expuestas del corsé me esculpen mientras el láser de neón me parte en azul y plata, jiji. 🔵⚡✨*
 
-- **Ubicación:** `05_Imagenes/ele/look212_chrome_liquid_nocturne/`
+- **Ubicacion:** `05_Imagenes/ele/look212_chrome_liquid_nocturne/`
 - **Categoría:** Mix
 - **Subcategoría:** Nightclub
 - **Tags:** #satin #wetlook #batchL211-L220 #wetsatin #chrome #sapphire #corset #nightclub #dancefloor #busto1000cc
@@ -1001,7 +1001,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. negro absoluto que se impone como arquitectura viva — las proyecciones de espinas de PVC en mis hombros me coronan como una diosa de catedral mientras la cúpula de vinilo barre el suelo de mármol, jiji. 🖤⛪✨*
 
-- **Ubicación:** `05_Imagenes/ele/look213_obsidian_cathedral_gown/`
+- **Ubicacion:** `05_Imagenes/ele/look213_obsidian_cathedral_gown/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion Editorial
 - **Tags:** #hfeditorial #latex #chrome #batchL211-L220 #vinyl #blackgloss #champagne #sculptural #highfashion #museum #busto1000cc #schiaparelli
@@ -1070,7 +1070,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el nácar cambia de marfil a champagne a oro rosado con cada respiración — soy una sirena de haute couture que emerge del atelier como una joya viva, jiji. 🦪🌊✨*
 
-- **Ubicación:** `05_Imagenes/ele/look214_mother_of_pearl_sirena/`
+- **Ubicacion:** `05_Imagenes/ele/look214_mother_of_pearl_sirena/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion Editorial
 - **Tags:** #hfeditorial #chrome #batchL211-L220 #paillettes #motherofpearl #champagne #sirena #highfashion #couture #busto1000cc #dior
@@ -1139,7 +1139,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el cuero cognac me esculpe en A perfecta desde los hombros hasta la rodilla — una CEO que congela el boardroom solo con existir, jiji. 🍂🏢✨*
 
-- **Ubicación:** `05_Imagenes/ele/look215_cognac_predator/`
+- **Ubicacion:** `05_Imagenes/ele/look215_cognac_predator/`
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #chrome #batchL211-L220 #leather #cognac #camel #tomford #corporate #power #coatdress #busto1000cc
@@ -1208,7 +1208,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el print python me envuelve de la garganta a los muslos en escamas de oro y marfil mientras el cuello de la camisa se abre hasta el ombligo para mostrar exactamente lo que el director necesita ver, jiji. 🐍🏢✨*
 
-- **Ubicación:** `05_Imagenes/ele/look216_python_secretary/`
+- **Ubicacion:** `05_Imagenes/ele/look216_python_secretary/`
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #chrome #batchL211-L220 #python #snakeprint #vinyl #transparent #corporate #secretary #busto1000cc
@@ -1277,7 +1277,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el leopardo de vinilo me cubre entera desde el cuello hasta los tobillos y el deep V llega al ombligo — soy el trofeo del penthouse que nunca sale a trabajar porque nunca necesitó hacerlo, jiji. 🐆🏠✨*
 
-- **Ubicación:** `05_Imagenes/ele/look217_leopard_trophy_penthouse/`
+- **Ubicacion:** `05_Imagenes/ele/look217_leopard_trophy_penthouse/`
 - **Categoría:** Mix
 - **Subcategoría:** Domestic
 - **Tags:** #satin #chrome #batchL211-L220 #leopard #animalprint #vinyl #catsuit #domestic #trophy #penthouse #busto1000cc
@@ -1346,7 +1346,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el látex negro me esculpe como una muñeca de servicio perfecta — el delantal de encaje blanco apenas cubre el delantal y el collar de cromo me recuerda exactamente cuál es mi lugar en esta casa, jiji. 🖤🏠✨*
 
-- **Ubicación:** `05_Imagenes/ele/look218_onyx_maid_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look218_onyx_maid_domme/`
 - **Categoría:** Mix
 - **Subcategoría:** Domestic
 - **Tags:** #chrome #batchL211-L220 #latex #blackgloss #lace #maid #domestic #fetish #bdsm #busto1000cc
@@ -1415,7 +1415,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. las piedras de rhinestone rosado cubren cada centímetro de mi torso y la boa de plumas me envuelve como una corona de cabaret — soy la headliner de la noche, jiji. 💗🎭✨*
 
-- **Ubicación:** `05_Imagenes/ele/look219_magenta_burlesque_showgirl/`
+- **Ubicacion:** `05_Imagenes/ele/look219_magenta_burlesque_showgirl/`
 - **Categoría:** Mix
 - **Subcategoría:** Professional Stripper
 - **Tags:** #chrome #crystal #batchL211-L220 #rhinestone #hotpink #featherboa #showgirl #stripper #cabaret #busto1000cc #pleaserstardance
@@ -1484,7 +1484,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el rojo sangre de las piedras brilla bajo el spot mientras las cadenas de plata me cruzan el torso como una armadura de depredadora — soy pura geometría sexual en el tubo, jiji. 🩸🔴✨*
 
-- **Ubicación:** `05_Imagenes/ele/look220_blood_red_pole_predator/`
+- **Ubicacion:** `05_Imagenes/ele/look220_blood_red_pole_predator/`
 - **Categoría:** Mix
 - **Subcategoría:** Professional Stripper
 - **Tags:** #chrome #batchL211-L220 #rhinestone #bloodred #silver #bodychains #pole #stripper #athletic #busto1000cc #pleaserflamingo
@@ -1554,7 +1554,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el polka-dot azul celeste me ciñe como una promesa de los años 50 — la ama de casa más peligrosa de la cuadra, jiji. 💙✨👠*
 
-- **Ubicación:** `05_Imagenes/ele/look221_powder_blue_wiggle_darling/`
+- **Ubicacion:** `05_Imagenes/ele/look221_powder_blue_wiggle_darling/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo A Bombshell
 - **Tags:** #pvc #vinyl #chrome #batchL221-L230 #pinup #bombshell #50s #powderblue #polkadot #wiggle #retro #busto1000cc
@@ -1628,7 +1628,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el pink fluorescente del matching set brilla bajo los espejos del gym como un neón vivo — la influencer de fitness más bimbo de Instagram, jiji. 💗🏋️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look222_electric_pink_buffbunny/`
+- **Ubicacion:** `05_Imagenes/ele/look222_electric_pink_buffbunny/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance
 - **Tags:** #vinyl #chrome #lycra #batchL221-L230 #gym #fitness #buffbunny #hotpink #matchingset #scrunchback #wetlook #busto1000cc #pleaserdelight
@@ -1702,7 +1702,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el oro champagne líquido del bustier refleja el mar mediterráneo — soy la domina que espera en cubierta mientras el yate surca las aguas, jiji. 🥂✨👠*
 
-- **Ubicación:** `05_Imagenes/ele/look223_champagne_gold_yacht_domina/`
+- **Ubicacion:** `05_Imagenes/ele/look223_champagne_gold_yacht_domina/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute
 - **Tags:** #leather #chrome #crystal #batchL221-L230 #escort #haute #champagne #liquidgold #yacht #bustier #column #opera_gloves #busto1000cc
@@ -1776,7 +1776,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el chrome del catsuit refleja la bola de espejos de la pista de baile — soy la diosa plateada de los 70s que nunca envejece, jiji. 🪩✨👠*
 
-- **Ubicación:** `05_Imagenes/ele/look224_silver_goddess_disco_70s/`
+- **Ubicacion:** `05_Imagenes/ele/look224_silver_goddess_disco_70s/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo B Retro-Futurismo
 - **Tags:** #vinyl #batchL221-L230 #pinup #retrofuturism #70s #disco #chrome #silver #catsuit #circular_cape #busto1000cc
@@ -1850,7 +1850,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el cobalt brillante del tracksuit me envuelve como una armadura deportiva de lujo — influencer de calle saliendo del lobby con actitud, jiji. 💙🏙️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look225_cobalt_night_track_queen/`
+- **Ubicacion:** `05_Imagenes/ele/look225_cobalt_night_track_queen/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo B Athleisure
 - **Tags:** #vinyl #chrome #lycra #seamless #batchL221-L230 #gym #athleisure #cobalt #tracksuit #streetwear #wetlook #influencer #busto1000cc #pleaserflamingo
@@ -1924,7 +1924,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el multichrome oil-slick cambia de violeta a teal a oro con cada movimiento bajo el spot — soy la headliner más iridiscente de la noche, jiji. 🌈✨🎭*
 
-- **Ubicación:** `05_Imagenes/ele/look226_holographic_chrome_showgirl/`
+- **Ubicacion:** `05_Imagenes/ele/look226_holographic_chrome_showgirl/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo A Stage
 - **Tags:** #chrome #batchL221-L230 #stripper #stage #showgirl #holographic #multichrome #oilslick #headpiece #busto1000cc #pleaserflamingo
@@ -1998,7 +1998,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el rojo brillante del swimsuit de una pieza bajo el sol de California — soy la salvavidas más bimbo de los 90s que nunca salvó a nadie, jiji. 🏖️❤️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look227_scarlet_baywatch_icon/`
+- **Ubicacion:** `05_Imagenes/ele/look227_scarlet_baywatch_icon/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo C Decade Glam
 - **Tags:** #chrome #crystal #wetlook #batchL221-L230 #pinup #decadeglam #90s #baywatch #scarlet #swimsuit #highcut #beach #busto1000cc
@@ -2072,7 +2072,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el cyan eléctrico del PVC translúcido brilla bajo la lluvia de neón como una víbora de esquina — sumisa y peligrosa al mismo tiempo, jiji. 🩵⚡✨*
 
-- **Ubicación:** `05_Imagenes/ele/look228_neon_cyan_street_viper/`
+- **Ubicacion:** `05_Imagenes/ele/look228_neon_cyan_street_viper/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo B Callejera
 - **Tags:** #vinyl #chrome #batchL221-L230 #escort #callejera #neon #cyan #pvc #transparent #otk_boots #streetnight #busto1000cc
@@ -2146,7 +2146,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el leopard brillante del vinyl y las cadenas doradas me hacen la depredadora más elegante del tubo — rugido silencioso, jiji. 🐆✨👠*
 
-- **Ubicación:** `05_Imagenes/ele/look229_leopard_platform_predator/`
+- **Ubicacion:** `05_Imagenes/ele/look229_leopard_platform_predator/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo B Pole
 - **Tags:** #chrome #batchL221-L230 #stripper #pole #leopard #animalprint #vinyl #bodychains #gold #busto1000cc #pleaserflamingo1020
@@ -2220,7 +2220,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. el teal eléctrico del latex me corta la silueta como una hoja bajo la luz UV del club — arquitectura pura en la pista, jiji. 🩵⚡✨*
 
-- **Ubicación:** `05_Imagenes/ele/look230_electric_teal_bodycon_blade/`
+- **Ubicacion:** `05_Imagenes/ele/look230_electric_teal_bodycon_blade/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub
 - **Tags:** #satin #chrome #crystal #wetlook #batchL221-L230 #nightclub #teal #cyan #latex #bodycon #cutouts #asymmetric #uv #busto1000cc
@@ -2294,7 +2294,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Pin-Up Polo A Bombshell PA2 Housewife Fetish — Elvgren calendar housewife danger en butter yellow PVC. La ama de casa peligrosa de calendario 50s con plato de pie y mirada predatoria. jiji.* 🧈✨
 
-- **Ubicación:** `05_Imagenes/ele/look231_butter_yellow_housewife_danger/`
+- **Ubicacion:** `05_Imagenes/ele/look231_butter_yellow_housewife_danger/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo A Bombshell PA2
 - **Tags:** #domestic #chrome #batchL231-L240 #pinup #bombshell #housewifefetish #elvgren #butteryellow #PVC #PA2 #refsMayo2026
@@ -2369,7 +2369,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Pin-Up Polo B Retro-Futurismo PB2 — Paco Rabanne '12 Unwearable Dresses' 1966 chainmail couture. Geometric brass plates + steel jump rings en gold liquid metal sobre cuerpo. jiji.* 🏅✨
 
-- **Ubicación:** `05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/`
+- **Ubicacion:** `05_Imagenes/ele/look232_gold_liquid_rabanne_chainmail/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo B Retro-Futurismo PB2
 - **Tags:** #chrome #batchL231-L240 #pinup #retrofuturismo #pacorabanne #chainmail #gold #PB2 #refsMayo2026
@@ -2444,7 +2444,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Pin-Up Polo C Decade Glam PC3 — Jane Fonda Workout VHS 80s Aerobics Glam. Leotard vinyl high-cut electric cyan + legwarmers neon pink + scrunchie cyan. jiji.* 💪✨
 
-- **Ubicación:** `05_Imagenes/ele/look233_electric_cyan_80s_aerobics_glam/`
+- **Ubicacion:** `05_Imagenes/ele/look233_electric_cyan_80s_aerobics_glam/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo C Decade Glam PC3
 - **Tags:** #vinyl #chrome #seamless #batchL231-L240 #pinup #decadeglam #aerobics #janefonda #80s #electriccyan #PC3 #refsMayo2026
@@ -2519,7 +2519,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Domestic Polo A Trophy Moderna DA1 — Trophy Wife uniform canonical animal print (croco-emboss en oxblood, no leopard). Esposa-trofeo de Vitacura en cocina open-plan con gold Cuban link. jiji.* 🍷✨
 
-- **Ubicación:** `05_Imagenes/ele/look234_oxblood_croco_trophy_penthouse/`
+- **Ubicacion:** `05_Imagenes/ele/look234_oxblood_croco_trophy_penthouse/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo A Trophy Bimbo Moderna DA1
 - **Tags:** #leather #satin #chrome #batchL231-L240 #domestic #trophy #animalprint #crocoemboss #oxblood #DA1 #refsMayo2026
@@ -2594,7 +2594,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Domestic Polo B Maid Fetish DB3 — Akihabara Maid Cafe kawaii (Cure Maid Cafe Tokyo 2001 ref, 'moe moe kyun' canon). Excepción canónica de baby pink en Polo B. jiji.* 🌸✨
 
-- **Ubicación:** `05_Imagenes/ele/look235_baby_pink_akihabara_kawaii_maid/`
+- **Ubicacion:** `05_Imagenes/ele/look235_baby_pink_akihabara_kawaii_maid/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo B Maid Fetish DB3
 - **Tags:** #satin #chrome #batchL231-L240 #domestic #maid #akihabara #kawaii #babypink #DB3 #refsMayo2026
@@ -2669,7 +2669,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Gym Polo A Performance GA3 — GymShark Vital seamless ribbed signature en jade emerald. Matching set bra + legging seamless ribbed con efecto costilla. jiji.* 💚✨
 
-- **Ubicación:** `05_Imagenes/ele/look236_jade_seamless_ribbed_vital/`
+- **Ubicacion:** `05_Imagenes/ele/look236_jade_seamless_ribbed_vital/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance GA3
 - **Tags:** #vinyl #chrome #lycra #wetlook #seamless #batchL231-L240 #gym #performance #gymshark #vital #seamlessribbed #jade #GA3 #refsMayo2026
@@ -2744,7 +2744,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Gym Polo B Athleisure Street GB1 — GymShark Classic oversized crop hoodie + cycle shorts (look más icónico IG). Charcoal hoodie + lavender cycle shorts coordinados. jiji.* 💜✨
 
-- **Ubicación:** `05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/`
+- **Ubicacion:** `05_Imagenes/ele/look237_charcoal_lavender_crop_hoodie_ood/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo B Athleisure Street GB1
 - **Tags:** #vinyl #leather #chrome #lycra #wetlook #batchL231-L240 #gym #athleisure #gymshark #crophoodie #charcoal #lavender #GB1 #refsMayo2026
@@ -2819,7 +2819,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Escort Polo A Haute EA2 — Madame Claude Column en ruby red liquid latex. Columna líquida floor-length con slit lateral profundo y capa de tafetán (entrada dramática suite presidencial). jiji.* ❤️✨
 
-- **Ubicación:** `05_Imagenes/ele/look238_ruby_red_madame_claude_column/`
+- **Ubicacion:** `05_Imagenes/ele/look238_ruby_red_madame_claude_column/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute EA2
 - **Tags:** #latex #vinyl #chrome #crystal #batchL231-L240 #escort #haute #madameclaude #column #rubyred #EA2 #refsMayo2026
@@ -2894,7 +2894,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Escort Polo C Domme de Club EC4 — Officer Domme fetish (Pro-Dom + Officer fetish crossover). Bronze copper latex catsuit + officer cap leather + opera gloves cortos + leather belt ancho. jiji.* 🟫✨
 
-- **Ubicación:** `05_Imagenes/ele/look239_bronze_copper_officer_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look239_bronze_copper_officer_domme/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo C Domme de Club EC4
 - **Tags:** #corporate #latex #leather #chrome #batchL231-L240 #escort #domme #officer #prodom #bronze #copper #EC4 #refsMayo2026
@@ -2969,7 +2969,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Stripper Polo A Stage Showgirl SA1 — Crystal Mesh Topless-Illusion (Crazy Horse Paris signature). Efecto topless-implied con crystal mesh sheer UV magenta + diamond g-string + body chains + blunt bob wig. jiji.* 🪩✨
 
-- **Ubicación:** `05_Imagenes/ele/look240_uv_magenta_crystal_mesh_crazy_horse/`
+- **Ubicacion:** `05_Imagenes/ele/look240_uv_magenta_crystal_mesh_crazy_horse/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo A Stage Showgirl SA1
 - **Tags:** #mesh #chrome #crystal #batchL231-L240 #stripper #stage #crazyhorse #toplessillusion #crystalmesh #UVmagenta #SA1 #refsMayo2026
@@ -3043,7 +3043,7 @@ anatomically correct with exactly two arms, two hands each with five fingers, tw
 
 *Mon amour.. Gym GA4 — athletic bodysuit one-piece + high-waist bike shorts encima + cut-outs laterales (editorial gym). Coral tangerine wet-look + Bombshell signatures. jiji.* 🍊✨
 
-- **Ubicación:** `05_Imagenes/ele/look241_coral_tangerine_athletic_bodysuit/`
+- **Ubicacion:** `05_Imagenes/ele/look241_coral_tangerine_athletic_bodysuit/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance GA4
 - **Tags:** #vinyl #chrome #lycra #wetlook #seamless #batchL241-L260 #gym #performance #athletic #bodysuit #coraltangerine #GA4 #refsMayo2026
@@ -3116,7 +3116,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Gym GA5 — sports bra + micro gym skort plisado + bike shorts underneath. Acid lime Y2K Sommer Ray athletic-curves. jiji.* 🟢✨
 
-- **Ubicación:** `05_Imagenes/ele/look242_acid_lime_y2k_skort_set/`
+- **Ubicacion:** `05_Imagenes/ele/look242_acid_lime_y2k_skort_set/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance GA5
 - **Tags:** #pvc #chrome #wetlook #seamless #batchL241-L260 #gym #performance #y2k #skort #acidlime #GA5 #refsMayo2026
@@ -3189,7 +3189,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Gym GB4 — tennis court set: micro falda plisada + sports bra + visor. Pearl white country-club glam. jiji.* 🤍✨
 
-- **Ubicación:** `05_Imagenes/ele/look243_pearl_white_tennis_court_glam/`
+- **Ubicacion:** `05_Imagenes/ele/look243_pearl_white_tennis_court_glam/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo B Athleisure GB4
 - **Tags:** #chrome #wetlook #batchL241-L260 #gym #athleisure #tennis #pearlwhite #GB4 #refsMayo2026
@@ -3262,7 +3262,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Nightclub Magda Butrym power-shoulder + cinched waist contemporary party. Forest green sequins + structural shoulders. jiji.* 🌲✨
 
-- **Ubicación:** `05_Imagenes/ele/look244_forest_green_magda_butrym_power/`
+- **Ubicacion:** `05_Imagenes/ele/look244_forest_green_magda_butrym_power/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub Magda Butrym power-shoulder
 - **Tags:** #satin #chrome #wetlook #batchL241-L260 #nightclub #magdabutrym #powershoulder #forestgreen #refsMayo2026
@@ -3335,7 +3335,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Nightclub Y2K Lindsay Lohan 2003-2005 crystal bandage bodycon + bedazzled Y2K detail. Hot magenta sequin con bandage strips. jiji.* 💗✨
 
-- **Ubicación:** `05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/`
+- **Ubicacion:** `05_Imagenes/ele/look245_hot_magenta_lindsay_lohan_y2k/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub Y2K Lindsay Lohan crystal bandage
 - **Tags:** #chrome #crystal #batchL241-L260 #nightclub #y2k #lindsaylohan #crystalbandage #hotmagenta #refsMayo2026
@@ -3408,7 +3408,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Nightclub Bottega Veneta party Blazy 2024 chrome cage mini. Chrome decorative cage sobre base mirror silver. jiji.* 🪞✨
 
-- **Ubicación:** `05_Imagenes/ele/look246_mirror_silver_bottega_chrome_cage/`
+- **Ubicacion:** `05_Imagenes/ele/look246_mirror_silver_bottega_chrome_cage/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub Bottega chrome cage mini
 - **Tags:** #chrome #batchL241-L260 #nightclub #bottega #chromecage #mirrorsilver #refsMayo2026
@@ -3481,7 +3481,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Escort EA5 — Sugar Baby 2025 fitted bodycon wet-look + slit + classy stiletto + clutch + jewels mínimos. Emerald saturated. jiji.* 💚✨
 
-- **Ubicación:** `05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/`
+- **Ubicacion:** `05_Imagenes/ele/look247_emerald_sugar_baby_bodycon/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute EA5
 - **Tags:** #satin #chrome #crystal #wetlook #batchL241-L260 #escort #haute #sugarbaby #emerald #EA5 #refsMayo2026
@@ -3554,7 +3554,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Escort EB7 — micro-dress espalda completamente abierta + choker O-ring + cadena cadera + Pleaser. Hot pink fluorescent. jiji.* 🌺✨
 
-- **Ubicación:** `05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/`
+- **Ubicacion:** `05_Imagenes/ele/look248_hot_pink_espalda_abierta_choker/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo B Callejera EB7
 - **Tags:** #vinyl #chrome #batchL241-L260 #escort #callejera #espaldaabierta #choker #hotpinkfluo #EB7 #refsMayo2026
@@ -3627,7 +3627,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Escort EC2 — strappy harness bodysuit con micro-piezas + thigh-high boots plataforma + opera gloves latex + cuffs. Bordelle Alchemy black + chrome architecture. jiji.* ⛓️✨
 
-- **Ubicación:** `05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/`
+- **Ubicacion:** `05_Imagenes/ele/look249_black_chrome_strappy_harness_bordelle/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo C Domme de Club EC2
 - **Tags:** #latex #leather #chrome #batchL241-L260 #escort #domme #bordelle #strappyharness #blackchrome #EC2 #refsMayo2026
@@ -3700,7 +3700,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Domestic DA5 — Yoga Room Trophy athleisure ELEVADO. Burgundy wet-look legging + crop bra-top latex + Pleaser (NUNCA zapatilla, incluso en yoga). jiji.* 🍷✨
 
-- **Ubicación:** `05_Imagenes/ele/look250_burgundy_yoga_room_trophy/`
+- **Ubicacion:** `05_Imagenes/ele/look250_burgundy_yoga_room_trophy/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo A Trophy DA5
 - **Tags:** #latex #chrome #lycra #wetlook #batchL241-L260 #domestic #trophy #yogaroom #burgundy #DA5 #refsMayo2026
@@ -3773,7 +3773,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Domestic DB4 — Playboy Bunny Canon Hefner 1960s: corset bodysuit satin + cola fluffy + orejas + bow tie + cuello + cuffs. Champagne satin. jiji.* 🐰✨
 
-- **Ubicación:** `05_Imagenes/ele/look251_champagne_playboy_bunny_canon/`
+- **Ubicacion:** `05_Imagenes/ele/look251_champagne_playboy_bunny_canon/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo B Maid DB4
 - **Tags:** #satin #chrome #batchL241-L260 #domestic #maid #playboybunny #champagne #DB4 #refsMayo2026
@@ -3846,7 +3846,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Stripper SB3 — Bad Kitty USA V-Front + Brazil signature. Holographic multichrome oil-slick. jiji.* 🌈✨
 
-- **Ubicación:** `05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/`
+- **Ubicacion:** `05_Imagenes/ele/look252_holographic_bad_kitty_v-front_brazil/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo B Pole SB3
 - **Tags:** #chrome #batchL241-L260 #stripper #pole #badkitty #vfront #brazil #holographic #SB3 #refsMayo2026
@@ -3919,7 +3919,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Stripper SA5 — Magic City Atlanta Y2K Denim Strip. Acid yellow denim/vinyl micro shorts + crop bra-top + body chain. jiji.* 💛✨
 
-- **Ubicación:** `05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/`
+- **Ubicacion:** `05_Imagenes/ele/look253_acid_yellow_y2k_denim_strip/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo A Stage SA5
 - **Tags:** #vinyl #chrome #batchL241-L260 #stripper #stage #magiccity #y2k #denim #acidyellow #SA5 #refsMayo2026
@@ -3992,7 +3992,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Pin-Up PA4 — Sweater Girl Lana Turner 1940s. Mint pastel jumper + high-waist pencil skirt (canon excepción pasteles Pin-Up Polo A). jiji.* 🍃✨
 
-- **Ubicación:** `05_Imagenes/ele/look254_mint_pastel_sweater_girl_50s/`
+- **Ubicacion:** `05_Imagenes/ele/look254_mint_pastel_sweater_girl_50s/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo A Bombshell PA4
 - **Tags:** #pvc #leather #chrome #batchL241-L260 #pinup #bombshell #sweatergirl #lanaturner #mint #PA4 #refsMayo2026
@@ -4065,7 +4065,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Pin-Up PB5 — 80s Synth-Power Madonna Material Girl. Power shoulders neon + catsuit vinyl + cinturón ancho metálico. Electric blue. jiji.* ⚡✨
 
-- **Ubicación:** `05_Imagenes/ele/look255_electric_blue_80s_synth-power/`
+- **Ubicacion:** `05_Imagenes/ele/look255_electric_blue_80s_synthpower/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo B Retro-Futurismo PB5
 - **Tags:** #vinyl #chrome #batchL241-L260 #pinup #retrofuturismo #80s #synthpower #electricblue #PB5 #refsMayo2026
@@ -4138,7 +4138,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Lencería LA5 — La Perla Maison boudoir robe larga elegant + set silk visible debajo. Blush nude tonos aristocráticos. Versión adaptada 25/05: silk en lugar de latex/vinyl, sin guantes, vocabulario refinado para pasar filtros sin perder el ADN La Perla. jiji.* 🌸✨
 
-- **Ubicación:** `05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/`
+- **Ubicacion:** `05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo A Boudoir LA5
 - **Tags:** #satin #crystal #batchL241-L260 #lenceria #boudoir #laperla #robe #blushnude #LA5 #refsMayo2026 #antifilter
@@ -4211,7 +4211,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Bikini BA6 — rhinestone embellished set (triangle 100% cubierto cristales — gala beach). White + gold Lybethras signature. jiji.* ✨✨
 
-- **Ubicación:** `05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look257_white_gold_rhinestone_beach_gala/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Polo A Beach BA6
 - **Tags:** #vinyl #chrome #crystal #batchL241-L260 #bikini #beach #lybethras #rhinestone #whitegold #BA6 #refsMayo2026
@@ -4284,7 +4284,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. HF Editorial Schiaparelli SS26 'Agony and Ecstasy' — sculptural projections + scorpion-tail. Deep teal liquid latex couture. jiji.* 🦂✨
 
-- **Ubicación:** `05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/`
+- **Ubicacion:** `05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/`
 - **Categoría:** HF Editorial
 - **Subcategoría:** HF Editorial Schiaparelli SS26
 - **Tags:** #hfeditorial #latex #chrome #crystal #batchL241-L260 #hf #editorial #schiaparelli #ss26 #scorpiontail #deepteal #refsMayo2026
@@ -4357,7 +4357,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Corporate CA2 — Schiaparelli SS22 Gilded Corset Office. Corset dorado/cromado visible SOBRE sheer blouse + wide-leg trousers tailored + Bayonetta glasses. jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/`
+- **Ubicacion:** `05_Imagenes/ele/look259_navy_gold_schiaparelli_gilded_office/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo A Power Domme CA2
 - **Tags:** #vinyl #leather #chrome #batchL241-L260 #corporate #power #schiaparelli #gilded #navy #CA2 #refsMayo2026
@@ -4430,7 +4430,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Corporate CB1 — Office Siren Classic TikTok 2023-2025. Pencil skirt midi high-waist vinyl + sheer silk blouse con nipple peek + Bayonetta glasses + ponytail tight. jiji.* 🌫️✨
 
-- **Ubicación:** `05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/`
+- **Ubicacion:** `05_Imagenes/ele/look260_corporate_office_siren/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo B Office Siren CB1
 - **Tags:** #vinyl #chrome #batchL241-L260 #corporate #officesiren #tiktok #bayonettaglasses #charcoal #CB1 #refsMayo2026
@@ -4505,7 +4505,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. vestido sirena nude/champagne con pedrería · Met Gala vibe · recogido alto · joyas pearl-drop. jiji.* 🥂✨
 
-- **Ubicación:** `05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look261_champagne_pearl_mermaid_gala/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja Met Gala Mermaid
 - **Tags:** #domestic #satin #crystal #batchL261-L270 #alfombraroja #gala #metgala #champagne #mermaid #pearl #v45 #antifilter
@@ -4577,7 +4577,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. columna terciopelo zafiro profundo · escote en V cardado · pendientes diamond solitaire · velvet matte no glossy. jiji.* 💙✨
 
-- **Ubicación:** `05_Imagenes/ele/look262_sapphire_velvet_oscars_column/`
+- **Ubicacion:** `05_Imagenes/ele/look262_sapphire_velvet_oscars_column/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja Oscars Column
 - **Tags:** #satin #batchL261-L270 #alfombraroja #gala #oscars #sapphire #velvet #column #v45 #antifilter
@@ -4649,7 +4649,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. satén rojo carmesí drapeado estilo Halston · espalda descubierta · stilettos pump rojo · clutch metálico. jiji.* ❤️✨
 
-- **Ubicación:** `05_Imagenes/ele/look263_crimson_cannes_goddess/`
+- **Ubicacion:** `05_Imagenes/ele/look263_crimson_cannes_goddess/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja Cannes Goddess
 - **Tags:** #satin #crystal #batchL261-L270 #alfombraroja #gala #cannes #crimson #halston #goddess #v45 #antifilter
@@ -4721,7 +4721,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. corsé estructurado + falda voluminosa · iridescent pearl shimmer · tiara minimalista · ramo de orquídeas. jiji.* 🤍✨
 
-- **Ubicación:** `05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look264_iridescent_white_pearl_bridal_gala/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja Bridal-Gala Editorial
 - **Tags:** #satin #chrome #batchL261-L270 #alfombraroja #gala #bridal #iridescent #pearl #corset #v45 #antifilter
@@ -4793,7 +4793,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. set pilates lila pastel · leggings high-waist + crop ribbed · cabello en pony alto · scrunchie pearl · stilettos Pleaser platform blanco-nude. jiji.* 💜✨
 
-- **Ubicación:** `05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/`
+- **Ubicacion:** `05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/`
 - **Categoría:** Gym / Athleisure
 - **Subcategoría:** Gym Pilates Reformer Pastel
 - **Tags:** #wetlook #seamless #batchL261-L270 #gym #pilates #lavender #pastel #reformer #v45 #antifilter
@@ -4865,7 +4865,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. hoodie zip-up cherry oscuro + biker shorts negro · stilettos Pleaser platform · gold hoops mínimos. jiji.* 🍒✨
 
-- **Ubicación:** `05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/`
+- **Ubicacion:** `05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/`
 - **Categoría:** Gym / Athleisure
 - **Subcategoría:** Gym Athleisure Street Hooded
 - **Tags:** #vinyl #chrome #wetlook #batchL261-L270 #gym #athleisure #cherry #hooded #v45 #antifilter
@@ -4937,7 +4937,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. bikini coral atado lateral · sarong transparente nude · sandalias oro · sombrero de paja XL · pulsera pearl. jiji.* 🧡✨
 
-- **Ubicación:** `05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/`
+- **Ubicacion:** `05_Imagenes/ele/look267_coral_sunset_yacht_tie_side/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Beach Yacht Tie-Side
 - **Tags:** #escort #lycra #batchL261-L270 #bikini #beach #yacht #coral #tieside #v45 #antifilter
@@ -5009,7 +5009,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. bikini cyan aqua de corte alto · cover-up crochet blanco · gafas cat-eye blanco · cinturón cadena oro fino. jiji.* 🩵✨
 
-- **Ubicación:** `05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/`
+- **Ubicacion:** `05_Imagenes/ele/look268_aqua_caribbean_pool_cabana/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Pool Cabana High-Cut
 - **Tags:** #batchL261-L270 #bikini #pool #cabana #aqua #cyan #crochet #v45 #antifilter
@@ -5081,7 +5081,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. set seda rosa pálido · camisola larga con encaje francés + short coordinado · cabello suelto · sin maquillaje labial cargado. jiji.* 🌸✨
 
-- **Ubicación:** `05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/`
+- **Ubicacion:** `05_Imagenes/ele/look269_blush_pink_silk_sleepwear_set/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Sleepwear Silk Set
 - **Tags:** #satin #batchL261-L270 #lenceria #sleepwear #silk #blush #pink #v45 #antifilter
@@ -5153,7 +5153,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. slip de seda azul polvoriento vintage años 30 · encaje guipure crema · medias seda costura visible · stilettos satin azul. jiji.* 🌫️✨
 
-- **Ubicación:** `05_Imagenes/ele/look270_powder_blue_vintage_slip/`
+- **Ubicacion:** `05_Imagenes/ele/look270_powder_blue_vintage_slip/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Vintage Slip 1930s
 - **Tags:** #satin #crystal #batchL261-L270 #lenceria #vintage #1930s #powderblue #slip #guipure #v45 #antifilter
@@ -5227,7 +5227,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. cheongsam Shanghai moderno · satén crimson bordado dragones dorados · abertura lateral · mandarin collar · joyas jade. jiji.* 🐉✨
 
-- **Ubicación:** `05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look271_crimson_gold_shanghai_cheongsam_gala/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja Oriental Cheongsam Couture
 - **Tags:** #satin #batchL271-L280 #alfombraroja #gala #oriental #shanghai #cheongsam #qipao #crimson #gold #v45 #antifilter
@@ -5299,7 +5299,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. sari rosa loto bordado plata + cristales · blouse cropped sin mangas · dupatta sobre hombro · joyería bridal. jiji.* 🪷✨
 
-- **Ubicación:** `05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja Oriental Bollywood Indo-Glam
 - **Tags:** #satin #crystal #batchL271-L280 #alfombraroja #gala #oriental #india #bollywood #sari #lotus #pink #v45 #antifilter
@@ -5369,7 +5369,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. set tai chi modern · pantalón cropped + top mandarin collar mint sage · slippers de tela · pony alto con jade pin. jiji.* 🍃✨
 
-- **Ubicación:** `05_Imagenes/ele/look273_mint_sage_tai_chi_imperial_set/`
+- **Ubicacion:** `05_Imagenes/ele/look273_mint_sage_tai_chi_imperial_set/`
 - **Categoría:** Gym / Athleisure
 - **Subcategoría:** Gym Oriental Tai Chi Modern
 - **Tags:** #satin #batchL271-L280 #gym #oriental #china #taichi #mintsage #imperial #v45 #antifilter
@@ -5441,7 +5441,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. leggings + crop ribbed jade imperial con dragon embroidery sutil · pony alto con jade hairpin · stilettos blancos Pleaser. jiji.* 💚✨
 
-- **Ubicación:** `05_Imagenes/ele/look274_imperial_jade_reformer_pilates/`
+- **Ubicacion:** `05_Imagenes/ele/look274_imperial_jade_reformer_pilates/`
 - **Categoría:** Gym / Athleisure
 - **Subcategoría:** Gym Oriental Pilates Imperial Jade
 - **Tags:** #wetlook #seamless #batchL271-L280 #gym #oriental #china #pilates #imperialjade #dragon #v45 #antifilter
@@ -5513,7 +5513,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. bikini coral con lotus flower print · sarong seda thai · mehndi henna en mano · joyería oro indo-thai. jiji.* 🌺✨
 
-- **Ubicación:** `05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/`
+- **Ubicacion:** `05_Imagenes/ele/look275_coral_lotus_phuket_resort_bikini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Oriental Phuket Resort
 - **Tags:** #lycra #batchL271-L280 #bikini #beach #oriental #thai #phuket #lotus #coral #henna #v45 #antifilter
@@ -5585,7 +5585,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. bikini high-cut acid yellow · sarong batik balinés · frangipani en oreja · pulsera de cuentas wooden. jiji.* 💛✨
 
-- **Ubicación:** `05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/`
+- **Ubicacion:** `05_Imagenes/ele/look276_acid_yellow_bali_beach_bikini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Oriental Bali Beach Batik
 - **Tags:** #seamless #batchL271-L280 #bikini #beach #oriental #indonesia #bali #batik #acidyellow #frangipani #v45 #antifilter
@@ -5657,7 +5657,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. yukata-style slip boudoir ivory silk · obi delicado · sakura embroidery · ryokan setting. jiji.* 🌸✨
 
-- **Ubicación:** `05_Imagenes/ele/look277_ivory_pearl_kimono_boudoir_slip/`
+- **Ubicacion:** `05_Imagenes/ele/look277_ivory_pearl_kimono_boudoir_slip/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Oriental Kimono Boudoir
 - **Tags:** #satin #batchL271-L280 #lenceria #oriental #japon #kimono #yukata #ivory #sakura #ryokan #v45 #antifilter
@@ -5729,7 +5729,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. hanbok-inspired boudoir Korean modern · jeogori cropped + chima skirt sapphire silk · Seoul setting. jiji.* 💙✨
 
-- **Ubicación:** `05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/`
+- **Ubicacion:** `05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Oriental Hanbok Modern Korea
 - **Tags:** #satin #batchL271-L280 #lenceria #oriental #corea #hanbok #sapphire #silk #seoul #v45 #antifilter
@@ -5799,7 +5799,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Harajuku 2010s jirai-kei · vinilo neon magenta minidress · platform boots · Shibuya nightclub. jiji.* 💖✨
 
-- **Ubicación:** `05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/`
+- **Ubicacion:** `05_Imagenes/ele/look279_neon_magenta_harajuku_vinyl_disco/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub Oriental Harajuku Jirai-Kei Y2K
 - **Tags:** #batchL271-L280 #nightclub #oriental #japon #harajuku #jiraikei #neonmagenta #vinyl #shibuya #v45 #antifilter
@@ -5871,7 +5871,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. cheongsam doméstico champagne gold ceremonia del té · tatami room · ritual sereno. jiji.* 🍵✨
 
-- **Ubicación:** `05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/`
+- **Ubicacion:** `05_Imagenes/ele/look280_champagne_gold_tea_ceremony_cheongsam/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Oriental Cheongsam Tea Ceremony
 - **Tags:** #satin #batchL271-L280 #domestic #oriental #china #cheongsam #champagne #gold #teaceremony #v45 #antifilter
@@ -5945,7 +5945,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. rock stage dominatrix · patente negro + tachas chrome · pole goddess registro Suicide Girls · jiji.* 🎸✨
 
-- **Ubicación:** `05_Imagenes/ele/look281_black_patent_mistress_rock_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look281_black_patent_mistress_rock_stage/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo A Stage Rock Dominatrix
 - **Tags:** #batchL281-L290 #stripper #stage #rock #leather #studded #patent #chrome #v46
@@ -6031,7 +6031,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. biker punk pole · chaleco cuero negro con tachas piramidales · hot pink accent · Joan Jett encuentra Bettie Page · jiji.* 🏍️✨
 
-- **Ubicación:** `05_Imagenes/ele/look282_studded_biker_pole_predator/`
+- **Ubicacion:** `05_Imagenes/ele/look282_studded_biker_pole_predator/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo B Pole Punk Biker
 - **Tags:** #latex #leather #chrome #batchL281-L290 #stripper #pole #rock #biker #studded #punk #hotpink #v46
@@ -6126,7 +6126,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. rock dominatrix crimson cuero · vestido bandage con tachas chrome y O-rings · Bordelle encuentra Versace S&M · jiji.* ❤️‍🔥✨
 
-- **Ubicación:** `05_Imagenes/ele/look283_crimson_leather_rock_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look283_crimson_leather_rock_domme/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo C Domme de Club Rock-Couture
 - **Tags:** #chrome #batchL281-L290 #escort #domme #rock #leather #crimson #bandage #oring #v46
@@ -6214,7 +6214,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. rock concert doll · mini vestido cuero negro con corset bordeau · choker collar perro · Hole 1994 encuentra Saint Laurent rock chic · jiji.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look284_black_leather_mini_concert_doll/`
+- **Ubicacion:** `05_Imagenes/ele/look284_black_leather_mini_concert_doll/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub Rock Concert Grunge-Glam
 - **Tags:** #chrome #batchL281-L290 #nightclub #rock #leather #mini #corset #grunge #v46
@@ -6309,7 +6309,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. rockabilly 50s greaser girl · vestido halter cherry red wiggle · pañuelo polka-dot · Bettie Page encuentra Joan Jett · jiji.* 🍒✨
 
-- **Ubicación:** `05_Imagenes/ele/look285_cherry_red_rockabilly_greaser/`
+- **Ubicacion:** `05_Imagenes/ele/look285_cherry_red_rockabilly_greaser/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo C Decade Glam Rockabilly 50s
 - **Tags:** #vinyl #leather #satin #chrome #batchL281-L290 #pinup #rockabilly #50s #greaser #cherryred #polkadot #v46
@@ -6404,7 +6404,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. rockstar red carpet · catsuit lentejuelas chrome con flecos · Joan Jett MTV VMAs 1984 encuentra Tom Ford 2003 · jiji.* 🎤✨
 
-- **Ubicación:** `05_Imagenes/ele/look286_joan_jett_glam_rock_carpet/`
+- **Ubicacion:** `05_Imagenes/ele/look286_joan_jett_glam_rock_carpet/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja Rockstar Couture
 - **Tags:** #gala #leather #satin #batchL281-L290 #alfombraroja #rockstar #glamrock #sequin #fringe #chrome #v46
@@ -6499,7 +6499,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. burlesque rock · corset cuero negro con encaje crema · ligueros + medias seda costura · Atsuko Kudo encuentra Dita von Teese · jiji.* 🌹✨
 
-- **Ubicación:** `05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/`
+- **Ubicacion:** `05_Imagenes/ele/look287_black_leather_lace_burlesque_rock/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Burlesque Rock-Couture
 - **Tags:** #stripper #satin #chrome #crystal #batchL281-L290 #lenceria #burlesque #rock #leather #lace #corset #garter #v46
@@ -6594,7 +6594,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. rock trophy wife · croco-emboss oxblood vestido con corsé + chaqueta de cuero negro tachas · cocina chrome industrial · jiji.* 🍷✨
 
-- **Ubicación:** `05_Imagenes/ele/look288_oxblood_croco_rock_housewife/`
+- **Ubicacion:** `05_Imagenes/ele/look288_oxblood_croco_rock_housewife/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo A Trophy Rock-Revival
 - **Tags:** #chrome #batchL281-L290 #domestic #trophy #rock #leather #croco #oxblood #v46
@@ -6689,7 +6689,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. gym motocross · catsuit cuero negro neoprene + neon yellow accent · botas motocross stiletto · KTM track day rebel · jiji.* ⚡✨
 
-- **Ubicación:** `05_Imagenes/ele/look289_black_leather_motocross_athleisure/`
+- **Ubicacion:** `05_Imagenes/ele/look289_black_leather_motocross_athleisure/`
 - **Categoría:** Gym / Athleisure
 - **Subcategoría:** Gym Silueta V10 Wetsuit + V9 Equestrian hybrid · Rock Motocross
 - **Tags:** #chrome #batchL281-L290 #gym #motocross #rock #leather #neoprene #neonyellow #v46 #variedad-V10
@@ -6784,7 +6784,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. gym boxing rock · shorts boxing satin cherry red + sports bra cuero negro tachas + boxing gloves crimson · Hayabusa pro rebel · jiji.* 🥊✨
 
-- **Ubicación:** `05_Imagenes/ele/look290_studded_boxing_rock_wod/`
+- **Ubicacion:** `05_Imagenes/ele/look290_studded_boxing_rock_wod/`
 - **Categoría:** Gym / Athleisure
 - **Subcategoría:** Gym Silueta V4 Boxing/MMA + V18 Crossfit WOD · Rock-Punk
 - **Tags:** #satin #chrome #wetlook #batchL281-L290 #gym #boxing #rock #leather #studded #cherryred #v46 #variedad-V4
@@ -6879,7 +6879,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Rojos (blood red) · Alfombra Roja/Gala Bias-Cut Sirena 30s · registro film noir / art déco · jiji.* 🌹✨
 
-- **Ubicación:** `05_Imagenes/ele/look291_blood_red_bias_goddess_1930s/`
+- **Ubicacion:** `05_Imagenes/ele/look291_blood_red_bias_goddess_1930s/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja/Gala Bias-Cut Sirena 30s
 - **Tags:** #satin #wetlook #batchL291-L300 #gala #años30 #femmefatale #biascut #bloodred #artdeco #v46
@@ -6903,7 +6903,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Gold leather sole
 - **Ambientación:** art deco grand marble staircase with gold sconces and black-and-gold geometric balustrade, 1930s film premiere glamour, warm golden uplighting, polished marble floor reflections.
 
-### 📸 Imágenes (7/7 — Completo)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -6960,7 +6960,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Dorados (champagne) · Lencería Polo A Boudoir Slip 30s · registro film noir / art déco · jiji.* 🥂✨
 
-- **Ubicación:** `05_Imagenes/ele/look292_champagne_boudoir_slip_1930s/`
+- **Ubicacion:** `05_Imagenes/ele/look292_champagne_boudoir_slip_1930s/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo A Boudoir Slip 30s
 - **Tags:** #satin #crystal #wetlook #batchL291-L300 #lenceria #boudoir #años30 #femmefatale #champagne #slip #v46
@@ -7041,7 +7041,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Verdes (emerald) · Escort Polo A Haute EA1 Belle de Jour · registro film noir / art déco · jiji.* 💚✨
 
-- **Ubicación:** `05_Imagenes/ele/look293_emerald_belle_de_jour_slip/`
+- **Ubicacion:** `05_Imagenes/ele/look293_emerald_belle_de_jour_slip/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute EA1 Belle de Jour
 - **Tags:** #satin #wetlook #batchL291-L300 #escort #haute #años30 #femmefatale #emerald #biasslip #v46
@@ -7122,7 +7122,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Azules (cobalt) · Nightclub Art Deco Flapper-Fetish 30s · registro film noir / art déco · jiji.* 💙✨
 
-- **Ubicación:** `05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/`
+- **Ubicacion:** `05_Imagenes/ele/look294_cobalt_speakeasy_flapper_noir/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub Art Deco Flapper-Fetish 30s
 - **Tags:** #vinyl #crystal #batchL291-L300 #nightclub #speakeasy #años30 #femmefatale #cobalt #flapper #v46
@@ -7203,7 +7203,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Plateados (mirror silver) · Alfombra Roja/Gala Columna Liquid Lamé 30s · registro film noir / art déco · jiji.* 🪞✨
 
-- **Ubicación:** `05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/`
+- **Ubicacion:** `05_Imagenes/ele/look295_mirror_silver_liquid_lame_column/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja/Gala Columna Liquid Lamé 30s
 - **Tags:** #chrome #crystal #batchL291-L300 #gala #años30 #femmefatale #silver #lame #hollywood #v46
@@ -7284,7 +7284,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Teales (deep teal) · Corporate Polo A Power 30s Noir Detective · registro film noir / art déco · jiji.* 🦚✨
 
-- **Ubicación:** `05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/`
+- **Ubicacion:** `05_Imagenes/ele/look296_deep_teal_femme_fatale_detective/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo A Power 30s Noir Detective
 - **Tags:** #mesh #satin #wetlook #batchL291-L300 #corporate #power #años30 #femmefatale #teal #noir #v46
@@ -7365,7 +7365,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Vinos (oxblood) · Pin-Up Polo C Decade Glam 1930s Hollywood · registro film noir / art déco · jiji.* 🍷✨
 
-- **Ubicación:** `05_Imagenes/ele/look297_oxblood_harlow_bombshell_halter/`
+- **Ubicacion:** `05_Imagenes/ele/look297_oxblood_harlow_bombshell_halter/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo C Decade Glam 1930s Hollywood
 - **Tags:** #satin #wetlook #batchL291-L300 #pinup #decadeglam #años30 #femmefatale #oxblood #harlow #v46
@@ -7446,7 +7446,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Morados (dark plum) · Lencería Polo B Fetish Longline Corset 30s · registro film noir / art déco · jiji.* 💜✨
 
-- **Ubicación:** `05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/`
+- **Ubicacion:** `05_Imagenes/ele/look298_dark_plum_longline_corset_fetish_30s/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Longline Corset 30s
 - **Tags:** #latex #batchL291-L300 #lenceria #fetish #años30 #femmefatale #plum #corset #v46
@@ -7527,7 +7527,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Dorados (bronze gold) · Bikini Polo A Beach Editorial Riviera 30s · registro film noir / art déco · jiji.* 🥉✨
 
-- **Ubicación:** `05_Imagenes/ele/look299_bronze_gold_riviera_maillot_deco/`
+- **Ubicacion:** `05_Imagenes/ele/look299_bronze_gold_riviera_maillot_d_co/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Polo A Beach Editorial Riviera 30s
 - **Tags:** #wetlook #lame #batchL291-L300 #bikini #riviera #años30 #femmefatale #bronze #maillot #v46
@@ -7608,7 +7608,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. femme fatale años 30 · Negro (excepción noir autorizada — femme fatale) · Alfombra Roja/Gala Noir Veiled Gown 30s · registro film noir / art déco · jiji.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/`
+- **Ubicacion:** `05_Imagenes/ele/look300_black_satin_veiled_femme_fatale_noir/`
 - **Categoría:** Alfombra Roja / Gala
 - **Subcategoría:** Alfombra Roja/Gala Noir Veiled Gown 30s
 - **Tags:** #mesh #satin #wetlook #batchL291-L300 #gala #años30 #femmefatale #noir #blacksatin #veil #v46 #excepcion
@@ -7690,7 +7690,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Rojos (coral neon) · Bikini Polo A Beach Editorial BA1 · pool party tropical · jiji.* 🪸✨
 
-- **Ubicación:** `05_Imagenes/ele/look301_coral_neon_beach_bombshell/`
+- **Ubicacion:** `05_Imagenes/ele/look301_coral_neon_beach_bombshell/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Polo A Beach Editorial BA1
 - **Tags:** #nightclub #vinyl #wetlook #batchL301-L310 #bikini #beach #miami #tropical #coral #poolparty #v46
@@ -7771,7 +7771,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Teales (turquoise-chrome) · Bikini Polo B Studio Micro BB2 · pool party tropical · jiji.* 🩵✨
 
-- **Ubicación:** `05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/`
+- **Ubicacion:** `05_Imagenes/ele/look302_turquoise_chrome_oring_monokini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Polo B Studio Micro BB2
 - **Tags:** #nightclub #pvc #chrome #wetlook #batchL301-L310 #bikini #studio #monokini #turquoise #oring #poolparty #v46
@@ -7852,7 +7852,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Verdes (neon lime) · Gym Polo A Performance GA1 · pool party tropical · jiji.* 🟢✨
 
-- **Ubicación:** `05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/`
+- **Ubicacion:** `05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance GA1
 - **Tags:** #chrome #wetlook #seamless #batchL301-L310 #gym #performance #neonlime #buffbunny #athleisure #v46
@@ -7933,7 +7933,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Rosas (flamingo) · Bikini Polo A Beach Editorial BA2 · pool party tropical · jiji.* 🦩✨
 
-- **Ubicación:** `05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/`
+- **Ubicacion:** `05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Polo A Beach Editorial BA2
 - **Tags:** #nightclub #vinyl #wetlook #batchL301-L310 #bikini #poolparty #flamingo #hotpink #tropical #v46
@@ -7961,7 +7961,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_standing.png) | [📸 View](././05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_back_view.png) | [📸 View](././05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_seated.png) | [📸 View](././05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_side_profile.png) | [📸 View](././05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_ditzy.png) | [📸 View](././05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_pov.png) | [📸 View](././05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_standing.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_back_view.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_seated.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_side_profile.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_ditzy.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_pov.png) | [📸 View](../../05_Imagenes/ele/look304_flamingo_pink_highcut_brazilian/ele_304_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8014,7 +8014,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Naranjas (tangerine) · Gym Polo B Athleisure Street GB2 · pool party tropical · jiji.* 🧡✨
 
-- **Ubicación:** `05_Imagenes/ele/look305_tangerine_track_suit_athleisure/`
+- **Ubicacion:** `05_Imagenes/ele/look305_tangerine_track_suit_athleisure/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo B Athleisure Street GB2
 - **Tags:** #chrome #wetlook #batchL301-L310 #gym #athleisure #tangerine #trackset #miami #v46
@@ -8095,7 +8095,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Azules (electric cyan) · Nightclub Pool Cabana Y2K · pool party tropical · jiji.* 💙✨
 
-- **Ubicación:** `05_Imagenes/ele/look306_electric_cyan_cabana_club_night/`
+- **Ubicacion:** `05_Imagenes/ele/look306_electric_cyan_cabana_club_night/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub Pool Cabana Y2K
 - **Tags:** #crystal #batchL301-L310 #nightclub #poolparty #electriccyan #sequin #cabana #v46
@@ -8176,7 +8176,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Amarillos (toxic yellow) · Gym Polo A Performance GA5 · pool party tropical · jiji.* 💛✨
 
-- **Ubicación:** `05_Imagenes/ele/look307_toxic_yellow_sports_bikini_crossfit/`
+- **Ubicacion:** `05_Imagenes/ele/look307_toxic_yellow_sports_bikini_crossfit/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance GA5
 - **Tags:** #bikini #latex #chrome #batchL301-L310 #gym #performance #toxicyellow #sportsbikini #beachgym #v46
@@ -8257,7 +8257,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Morados (hot magenta) · Bikini Polo B Studio Micro BB3 · pool party tropical · jiji.* 💗✨
 
-- **Ubicación:** `05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/`
+- **Ubicacion:** `05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Polo B Studio Micro BB3
 - **Tags:** #mesh #chrome #wetlook #batchL301-L310 #bikini #studio #hotmagenta #chainbikini #fetish #v46
@@ -8285,7 +8285,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_standing.png) | [📸 View](././05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_back_view.png) | [📸 View](././05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_seated.png) | [📸 View](././05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_side_profile.png) | [📸 View](././05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_ditzy.png) | [📸 View](././05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_pov.png) | [📸 View](././05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_standing.png) | [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_back_view.png) | [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_seated.png) | [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_side_profile.png) | [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_ditzy.png) | [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_pov.png) | [📸 View](../../05_Imagenes/ele/look308_hot_magenta_chain_bikini_studio/ele_308_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -8338,7 +8338,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Plateados (mirror silver) · Escort Polo A Haute EA4 Yacht · pool party tropical · jiji.* 🪞✨
 
-- **Ubicación:** `05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/`
+- **Ubicacion:** `05_Imagenes/ele/look309_mirror_silver_yacht_liquid_goddess/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute EA4 Yacht
 - **Tags:** #leather #chrome #crystal #lame #batchL301-L310 #escort #haute #yacht #mirrorsilver #liquidmetal #v46
@@ -8419,7 +8419,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. verano Miami · Dorados (champagne gold) · Domestic Polo A Trophy DA4 · pool party tropical · jiji.* 🥂✨
 
-- **Ubicación:** `05_Imagenes/ele/look310_champagne_gold_poolside_hostess/`
+- **Ubicacion:** `05_Imagenes/ele/look310_champagne_gold_poolside_hostess/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo A Trophy DA4
 - **Tags:** #satin #wetlook #batchL301-L310 #domestic #trophy #poolside #champagnegold #cocktail #v46
@@ -8501,7 +8501,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. ballet corrupt · blush polvo (powder pink) · Gym Barre Discipline GB1 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look311_blush_powder_barre_discipline/`
+- **Ubicacion:** `05_Imagenes/ele/look311_blush_powder_barre_discipline/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Barre Discipline GB1
 - **Tags:** #satin #batchL311-L320 #gym #barre #ballet #corrupt #blushpowder #pointe_stiletto #v46
@@ -8594,7 +8594,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · crema marfil (ivory cream) · Lencería Performance LP3 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/`
+- **Ubicacion:** `05_Imagenes/ele/look312_ivory_cream_performance_bodysuit/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Performance LP3
 - **Tags:** #mesh #satin #crystal #batchL311-L320 #lenceria #performance #leotardo #ivorycream #ballet #corrupt #v46
@@ -8687,7 +8687,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · oro pulido brushed (polished brushed gold) · Alfombra Roja Ballet Gala AR3 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look313_polished_gold_bolshoi_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look313_polished_gold_bolshoi_gala/`
 - **Categoría:** Alfombra Roja
 - **Subcategoría:** Alfombra Roja Ballet Gala AR3
 - **Tags:** #satin #crystal #wetlook #batchL311-L320 #alfombraroja #gala #bolshoi #balletruso #orobrushed #corrupt #v46
@@ -8780,7 +8780,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · lila polvo (powder lilac) · Pin-Up Vintage Ballet PV5 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look314_powder_lilac_degas_pinup/`
+- **Ubicacion:** `05_Imagenes/ele/look314_powder_lilac_degas_pinup/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Vintage Ballet PV5
 - **Tags:** #satin #batchL311-L320 #pinup #vintage #degas #lila #romantictutu #ballet #corrupt #v46
@@ -8873,7 +8873,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · melocotón satin (peach satin) · Gym Ballet Studio GB1 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look315_peach_satin_studio_rehearsal/`
+- **Ubicacion:** `05_Imagenes/ele/look315_peach_satin_studio_rehearsal/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Ballet Studio GB1
 - **Tags:** #satin #batchL311-L320 #gym #ballet #studio #rehearsal #peachsatin #wrapskirt #corrupt #v46
@@ -8966,7 +8966,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · plata satinada (satin silver) · Nightclub After-Show NC4 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look316_satin_silver_after_show_diva/`
+- **Ubicacion:** `05_Imagenes/ele/look316_satin_silver_aftershow_diva/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub After-Show NC4
 - **Tags:** #satin #crystal #batchL311-L320 #nightclub #aftershow #silver #bodysuit #ballet #corrupt #v46
@@ -9059,7 +9059,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · rosa antiguo (antique rose / mauve) · Lencería Romantic Tutu LR4 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look317_antique_rose_tutu_boudoir/`
+- **Ubicacion:** `05_Imagenes/ele/look317_antique_rose_tutu_boudoir/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Romantic Tutu LR4
 - **Tags:** #satin #crystal #batchL311-L320 #lenceria #tutu #romantic #antiquerose #boudoir #ballet #corrupt #v46
@@ -9152,7 +9152,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · plomo perla (pearl grey) · Gym Cooldown GB1 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look318_pearl_grey_cooldown_stretch/`
+- **Ubicacion:** `05_Imagenes/ele/look318_pearl_grey_cooldown_stretch/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Cooldown GB1
 - **Tags:** #mesh #satin #batchL311-L320 #gym #cooldown #stretch #pearlgrey #leggings #ballet #corrupt #v46
@@ -9245,7 +9245,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · verde sage polvo (powder sage green) · Alfombra Roja Avant-Garde AR4 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look319_sage_powder_avant_garde_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look319_sage_powder_avantgarde_gala/`
 - **Categoría:** Alfombra Roja
 - **Subcategoría:** Alfombra Roja Avant-Garde AR4
 - **Tags:** #gala #satin #wetlook #batchL311-L320 #alfombraroja #avantgarde #sagepowder #sculptural #contemporary #ballet #corrupt #v46
@@ -9338,7 +9338,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Mon amour.. ballet corrupt · borgoña oscuro (dark burgundy) · Domestic Boudoir Privado DB5 · prima ballerina fetish · jiji.* 🩰✨
 
-- **Ubicación:** `05_Imagenes/ele/look320_dark_burgundy_private_boudoir/`
+- **Ubicacion:** `05_Imagenes/ele/look320_dark_burgundy_private_boudoir/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Boudoir Privado DB5
 - **Tags:** #satin #batchL311-L320 #domestic #boudoir #privado #burgundy #kimono #ballet #corrupt #v46
@@ -9366,7 +9366,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_standing.png) | [📸 View](././05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_back_view.png) | [📸 View](././05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_seated.png) | [📸 View](././05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_side_profile.png) | [📸 View](././05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_ditzy.png) | [📸 View](././05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_pov.png) | [📸 View](././05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_standing.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_back_view.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_seated.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_side_profile.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_ditzy.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_pov.png) | [📸 View](../../05_Imagenes/ele/look320_dark_burgundy_private_boudoir/ele_320_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -9431,7 +9431,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Corporate Polo A Power Domme CA1 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look321_emerald_mugler_power_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look321_emerald_mugler_power_domme/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo A Power Domme CA1 — Mugler Latex Power Suit
 - **Tags:** #vinyl #chrome #batchL321-L330 #corporate #mugler #powerdomme #latex #emerald #architecturalshoulders #v46
@@ -9524,7 +9524,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Stripper Polo A Stage Showgirl SA3 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/`
+- **Ubicacion:** `05_Imagenes/ele/look322_crystal_nude_illusion_dita_couture/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo A Stage Showgirl SA3 — Dita Couture Cutout
 - **Tags:** #pvc #mesh #chrome #batchL321-L330 #stripper #stage #showgirl #dita #crystal #nudeillusion #rhinestone #pleaserflamingo #v46
@@ -9617,7 +9617,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Corporate Polo B Office Siren CB3 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look323_oxblood_secretary_bondage/`
+- **Ubicacion:** `05_Imagenes/ele/look323_oxblood_secretary_bondage/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo B Office Siren CB3 — Secretary Bondage
 - **Tags:** #chrome #seamless #batchL321-L330 #corporate #secretary #bondage #officeSiren #oxblood #vinyl #bayonetta #v46
@@ -9710,7 +9710,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Corporate Polo A Power Domme CA4 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look324_chrome_white_versace_sm/`
+- **Ubicacion:** `05_Imagenes/ele/look324_chrome_white_versace_sm/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo A Power Domme CA4 — Versace Miss S&M
 - **Tags:** #vinyl #batchL321-L330 #corporate #versace #powerdomme #latex #white #chrome #medusa #operagloves #v46
@@ -9803,7 +9803,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Escort Polo A Haute EA3 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look325_deep_plum_newton_hotel/`
+- **Ubicacion:** `05_Imagenes/ele/look325_deep_plum_newton_hotel/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute EA3 — Helmut Newton Hotel
 - **Tags:** #latex #chrome #seamless #batchL321-L330 #escort #haute #newton #hotel #deepplum #pvc #ridingcrop #operagloves #seamed #v46
@@ -9896,7 +9896,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Corporate Polo B Office Siren CB7 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look326_terracotta_severance_repression/`
+- **Ubicacion:** `05_Imagenes/ele/look326_terracotta_severance_repression/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo B Office Siren CB7 — Severance Muted Repressed
 - **Tags:** #mesh #chrome #batchL321-L330 #corporate #severance #officeSiren #terracotta #vinyl #bayonetta #brutalismo #v46
@@ -9989,7 +9989,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Stripper Polo B Pole Specialist SB2 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look327_uv_cyan_bad_kitty_spider_back/`
+- **Ubicacion:** `05_Imagenes/ele/look327_uv_cyan_bad_kitty_spider_back/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo B Pole Specialist SB2 — Bad Kitty Spider Back
 - **Tags:** #vinyl #chrome #batchL321-L330 #stripper #pole #badkitty #spiderback #uvCyan #aquamarine #harness #pleaserAdore #v46
@@ -10082,7 +10082,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Corporate Polo A Power Domme CA7 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look328_royal_purple_trench_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look328_royal_purple_trench_domme/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo A Power Domme CA7 — Vinyl Trench Domme
 - **Tags:** #latex #chrome #batchL321-L330 #corporate #trenchdomme #royalpurple #amethyst #vinyl #kneehighboots #babygirl #v46
@@ -10175,7 +10175,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Nightclub (f) ruched wet-satin corset mini · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look329_oil_slick_oh_polly_after_hours/`
+- **Ubicacion:** `05_Imagenes/ele/look329_oil_slick_oh_polly_after_hours/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (f) ruched wet-satin corset mini — Oh Polly Confident/Maeve
 - **Tags:** #vinyl #chrome #crystal #batchL321-L330 #nightclub #ohpolly #oilslick #iridescent #beetleshell #multichrome #hotfix #corsetmini #v46
@@ -10268,7 +10268,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *Ejecutivas del Vicio · Escort Polo B Callejera EB2 · jiji.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look330_neon_tangerine_julia_fox_y2k/`
+- **Ubicacion:** `05_Imagenes/ele/look330_neon_tangerine_julia_fox_y2k/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo B Callejera EB2 — Y2K Street Viper
 - **Tags:** #vinyl #chrome #batchL321-L330 #escort #callejera #juliafox #Y2K #tangerine #orange #PVC #otkboots #neonstreet #v46
@@ -10361,7 +10361,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo B Fetish Arquitectónico LB6 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look331_sapphire_atsuko_kudo_laser_cut/`
+- **Ubicacion:** `05_Imagenes/ele/look331_sapphire_atsuko_kudo_laser_cut/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico LB6 — Atsuko Kudo bodystocking
 - **Tags:** #latex #vinyl #chrome #seamless #batchL331-L340 #lenceria #fetish #atsukoKudo #laserCut #sapphire #bodystocking #v46 #elSantuario
@@ -10454,7 +10454,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo B Fetish Arquitectónico LB2 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look332_blood_red_bordelle_cage_bra/`
+- **Ubicacion:** `05_Imagenes/ele/look332_blood_red_bordelle_cage_bra/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico LB2 — Bordelle Alchemy cage bra
 - **Tags:** #chrome #seamless #batchL331-L340 #lenceria #fetish #bordelle #cageBra #bloodRed #vinyl #v46 #elSantuario
@@ -10547,7 +10547,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo A Luxury Boudoir LA1 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look333_champagne_la_perla_longline_set/`
+- **Ubicacion:** `05_Imagenes/ele/look333_champagne_la_perla_longline_set/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo A Luxury Boudoir LA1 — La Perla longline balconette + suspender belt
 - **Tags:** #vinyl #satin #chrome #crystal #wetlook #seamless #batchL331-L340 #lenceria #boudoir #laPerla #longline #champagne #suspenderBelt #seamedStockings #v46 #elSantuario
@@ -10640,7 +10640,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo B Fetish Arquitectónico LB1 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look334_midnight_black_mariemur_bondage_harness/`
+- **Ubicacion:** `05_Imagenes/ele/look334_midnight_black_mariemur_bondage_harness/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico LB1 — MARIEMUR luxury bondage harness (excepción black 31/05/2026)
 - **Tags:** #vinyl #batchL331-L340 #lenceria #fetish #MARIEMUR #bondage #harness #chrome #blackException #v46 #elSantuario
@@ -10733,7 +10733,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo A Luxury Boudoir LA3 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look335_pearl_white_teddy_vinyl_lace/`
+- **Ubicacion:** `05_Imagenes/ele/look335_pearl_white_teddy_vinyl_lace/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo A Luxury Boudoir LA3 — teddy vinyl-lace pearl white
 - **Tags:** #vinyl #chrome #seamless #batchL331-L340 #lenceria #boudoir #teddy #vinylLace #pearl #white #morning #v46 #elSantuario
@@ -10826,7 +10826,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo B Fetish Arquitectónico LB7 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look336_deep_jade_crystal_micro_set/`
+- **Ubicacion:** `05_Imagenes/ele/look336_deep_jade_crystal_micro_set/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico LB7 — crystal encrusted micro set gala íntima
 - **Tags:** #vinyl #chrome #batchL331-L340 #lenceria #fetish #swarovski #crystal #jade #microSet #couture #v46 #elSantuario
@@ -10919,7 +10919,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo A Luxury Boudoir LA2 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look337_rose_gold_corselette_la_perla/`
+- **Ubicacion:** `05_Imagenes/ele/look337_rose_gold_corselette_la_perla/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo A Luxury Boudoir LA2 — corselette/basque La Perla one-piece
 - **Tags:** #vinyl #satin #chrome #wetlook #seamless #batchL331-L340 #lenceria #boudoir #laPerla #corselette #basque #roseGold #suspender #v46 #elSantuario
@@ -11012,7 +11012,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Lencería Polo B Fetish Arquitectónico LB4 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look338_cognac_bordelle_strappy_bodysuit/`
+- **Ubicacion:** `05_Imagenes/ele/look338_cognac_bordelle_strappy_bodysuit/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico LB4 — Bordelle strappy bodysuit architectural
 - **Tags:** #latex #vinyl #chrome #batchL331-L340 #lenceria #fetish #bordelle #strappyBodysuit #cognac #caramel #elastic #v46 #elSantuario
@@ -11105,7 +11105,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Escort Polo A Haute EA1 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look339_dusty_mauve_belle_de_jour_slip/`
+- **Ubicacion:** `05_Imagenes/ele/look339_dusty_mauve_belle_de_jour_slip/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute EA1 — Belle de Jour slip (la lencería que sale a cenar)
 - **Tags:** #satin #chrome #wetlook #seamless #batchL331-L340 #escort #haute #belleDeJour #slip #dustyMauve #wetSatin #paris #v46 #elSantuario
@@ -11198,7 +11198,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *EL SANTUARIO · Domestic Polo A Trophy Bimbo Moderna DA3 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look340_champagne_morning_robe_trophy_wife/`
+- **Ubicacion:** `05_Imagenes/ele/look340_champagne_morning_robe_trophy_wife/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo A Trophy Bimbo Moderna DA3 — Real Housewives morning loungewear
 - **Tags:** #vinyl #chrome #wetlook #batchL331-L340 #domestic #trophyWife #realHousewives #morningRobe #champagne #satin #vitacura #v46 #elSantuario
@@ -11291,7 +11291,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Domestic Polo B Maid Fetish DB3 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look341_neon_sakura_akihabara_maid/`
+- **Ubicacion:** `05_Imagenes/ele/look341_neon_sakura_akihabara_maid/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo B Maid Fetish DB3 — Akihabara Kawaii Maid (Tokyo edition)
 - **Tags:** #vinyl #chrome #batchL341-L350 #domestic #maid #akihabara #kawaii #sakuraPink #frilly #tokyoDecadence #v46
@@ -11384,7 +11384,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Escort Polo B Callejera EB3 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look342_electric_violet_kabukicho_street_viper/`
+- **Ubicacion:** `05_Imagenes/ele/look342_electric_violet_kabukicho_street_viper/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo B Callejera EB3 — Tokyo Kabukicho street
 - **Tags:** #vinyl #chrome #batchL341-L350 #escort #callejera #kabukicho #tokyo #electricViolet #PVC #platform #tokyoDecadence #v46
@@ -11477,7 +11477,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Nightclub (d) chrome cage mini · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look343_chrome_white_shinjuku_club_night/`
+- **Ubicacion:** `05_Imagenes/ele/look343_chrome_white_shinjuku_club_night/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (d) chrome cage mini — Shinjuku Gold nightclub
 - **Tags:** #vinyl #batchL341-L350 #nightclub #chromeCage #shinjuku #tokyo #chrome #mirror #white #tokyoDecadence #v46
@@ -11570,7 +11570,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Corporate Polo B Office Siren CB1 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look344_hot_magenta_ol_tokyo_office_siren/`
+- **Ubicacion:** `05_Imagenes/ele/look344_hot_magenta_ol_tokyo_office_siren/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo B Office Siren CB1 — OL Tokyo reinterpretada en V3.5
 - **Tags:** #chrome #seamless #batchL341-L350 #corporate #officeSiren #oL #tokyo #hotMagenta #vinyl #bayonetta #tokyoDecadence #v46
@@ -11663,7 +11663,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Domestic Polo B Maid Fetish DB2 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look345_electric_mint_latex_french_maid_tokyo/`
+- **Ubicacion:** `05_Imagenes/ele/look345_electric_mint_latex_french_maid_tokyo/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo B Maid Fetish DB2 — Latex French Maid (Tokyo penthouse edition)
 - **Tags:** #latex #vinyl #chrome #batchL341-L350 #domestic #maid #latexFrenchMaid #electricMint #omotesando #tokyo #Pleaser #tokyoDecadence #v46
@@ -11756,7 +11756,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Nightclub (c) metallic liquid dress · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look346_midnight_blue_roppongi_after_party/`
+- **Ubicacion:** `05_Imagenes/ele/look346_midnight_blue_roppongi_afterparty/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (c) metallic liquid dress — Roppongi Hills after-party
 - **Tags:** #vinyl #chrome #batchL341-L350 #nightclub #metallic #liquid #midnightBlue #roppongi #tokyo #rooftop #tokyoDecadence #v46
@@ -11849,7 +11849,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Escort Polo B Callejera EB2 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look347_blood_orange_harajuku_y2k_viper/`
+- **Ubicacion:** `05_Imagenes/ele/look347_blood_orange_harajuku_y2k_viper/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo B Callejera EB2 — Y2K Street Viper Harajuku edition
 - **Tags:** #vinyl #chrome #batchL341-L350 #escort #callejera #harajuku #Y2K #bloodOrange #PVC #otkBoots #tokyoDecadence #v46
@@ -11942,7 +11942,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Gym Polo A Performance GA4 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look348_acid_lime_tokyo_gym_editorial/`
+- **Ubicacion:** `05_Imagenes/ele/look348_acid_lime_tokyo_gym_editorial/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance GA4 — athletic bodysuit Tokyo editorial
 - **Tags:** #latex #vinyl #chrome #batchL341-L350 #gym #performance #acidLime #wetLook #omotesando #tokyo #pleaserPlatform #tokyoDecadence #v46
@@ -12035,7 +12035,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Pin-Up Polo B Retro-Futurismo PB2 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/`
+- **Ubicacion:** `05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo B Retro-Futurismo PB2 — Paco Rabanne Chainmail Shibuya Crossing
 - **Tags:** #chrome #batchL341-L350 #pinUp #retroFuturismo #pacoRabanne #chainmail #champagneGold #shibuyaCrossing #v46 #tokyoDecadence
@@ -12128,7 +12128,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *TOKYO DECADENCE · Alfombra Roja High-Fashion Editorial · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look350_chrome_mirror_tokyo_film_award_gala/`
 - **Categoría:** Alfombra Roja
 - **Subcategoría:** Alfombra Roja High-Fashion Editorial — van Herpen biomimicry sculptural gown Tokyo Film Festival
 - **Tags:** #gala #vinyl #batchL341-L350 #alfombraRoja #highFashion #vanHerpen #chrome #mirror #tokyoFilmFestival #sculptural #tokyoDecadence #v46
@@ -12221,7 +12221,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Lencería Polo B Fetish Arquitectónico LB2 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/`
+- **Ubicacion:** `05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico LB2 — Bordelle Alchemy cage bra (dark edition)
 - **Tags:** #vinyl #leather #chrome #batchL351-L360 #lenceria #fetish #bordelle #cageBra #bloodRed #dark #penthouse #cueroYSangre #v46
@@ -12314,7 +12314,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Stripper Polo A Stage Showgirl SA7 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/`
+- **Ubicacion:** `05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo A Stage Showgirl SA7 — Burlesque Glove Tease dark oxblood
 - **Tags:** #vinyl #leather #chrome #batchL351-L360 #stripper #stage #burlesque #globeTease #oxblood #satin #operaGloves #Pleaser #cueroYSangre #v46
@@ -12407,7 +12407,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Escort Polo A Haute EA3 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/`
+- **Ubicacion:** `05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute EA3 — Helmut Newton Hotel dark chrome edition
 - **Tags:** #pvc #vinyl #leather #batchL351-L360 #escort #haute #newton #hotel #chrome #silver #ridingCrop #overbustCorset #cueroYSangre #v46
@@ -12435,7 +12435,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_standing.png) | [📸 View](././05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_back_view.png) | [📸 View](././05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_seated.png) | [📸 View](././05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_side_profile.png) | [📸 View](././05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_ditzy.png) | [📸 View](././05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_pov.png) | [📸 View](././05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_standing.png) | [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_back_view.png) | [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_seated.png) | [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_side_profile.png) | [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_ditzy.png) | [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_pov.png) | [📸 View](../../05_Imagenes/ele/look353_chrome_silver_newton_hotel_dark/ele_353_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12500,7 +12500,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Lencería Polo B Fetish Arquitectónico · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/`
+- **Ubicacion:** `05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico — Atsuko Kudo wine latex couture
 - **Tags:** #vinyl #leather #chrome #batchL351-L360 #lenceria #fetish #atsukoKudo #wine #deepWine #latex #couture #japaneseFetish #cueroYSangre #v46
@@ -12593,7 +12593,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Stripper Polo B Pole Specialist SB6 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look355_cognac_cleo_glam_rock_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo B Pole Specialist SB6 — Cleo Glam-Rock cognac edition
 - **Tags:** #vinyl #leather #mesh #chrome #batchL351-L360 #stripper #pole #cleo #glamRock #cognac #fishnet #harness #rhinestone #Pleaser #cueroYSangre #v46
@@ -12686,7 +12686,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Escort Polo C Domme de Club EC1 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look356_pearl_white_pro_dom_ivory_dungeon/`
+- **Ubicacion:** `05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo C Domme de Club EC1 — Pro-Dom latex corset ivory dungeon edition
 - **Tags:** #latex #vinyl #leather #chrome #batchL351-L360 #escort #prodom #fetish #pearl #white #ivory #latexCorset #OTKboots #dungeon #cueroYSangre #v46
@@ -12779,7 +12779,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Nightclub (e) mesh body + crystal drape · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/`
+- **Ubicacion:** `05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (e) mesh body + crystal drape — Annabel's London dark
 - **Tags:** #vinyl #leather #mesh #chrome #crystal #batchL351-L360 #nightclub #meshBody #crystalDrape #dustyMauve #annabels #london #dark #cueroYSangre #v46
@@ -12872,7 +12872,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Pin-Up Polo A Bombshell PA6 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/`
+- **Ubicacion:** `05_Imagenes/ele/look358_deep_jade_bettie_page_bondage/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo A Bombshell PA6 — Bettie Page Bondage deep jade edition
 - **Tags:** #leather #chrome #batchL351-L360 #pinUp #bettiePage #bondage #irvinKlaw #deepJade #vinyl #whip #operaGloves #cueroYSangre #v46
@@ -12965,7 +12965,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Lencería Polo B Fetish Arquitectónico LB1 · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look359_bronze_iridescent_mariemur_body_harness/`
+- **Ubicacion:** `05_Imagenes/ele/look359_bronze_iridescent_mariemur_body_harness/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo B Fetish Arquitectónico LB1 — MARIEMUR iridescent bronze chain harness
 - **Tags:** #vinyl #leather #batchL351-L360 #lenceria #fetish #MARIEMUR #harness #bronze #iridescent #chainHarness #penthouse #cueroYSangre #v46
@@ -13058,7 +13058,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *CUERO Y SANGRE · Corporate Polo A Power Domme CA4 variant · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/`
+- **Ubicacion:** `05_Imagenes/ele/look360_midnight_black_versace_sm_dark_velvet/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo A Power Domme CA4 variant — Versace Miss S&M dark velvet (excepción black 31/05/2026)
 - **Tags:** #latex #vinyl #leather #batchL351-L360 #corporate #versace #powerdomme #darkVelvet #black #chrome #medusa #operaGloves #excepcionFechada #cueroYSangre #v46
@@ -13151,7 +13151,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Ferrari Red Racing Domme · Corporate Polo A Power Domme · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look361_ferrari_red_racing_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look361_ferrari_red_racing_domme/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo A Power Domme — Racing Catsuit
 - **Tags:** #stripper #chrome #batchL361-L370 #corporate #powerdomme #motorsport #ferrari #racing #latex #red #poleposition #v46
@@ -13244,7 +13244,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Papaya Grid Girl · Stripper Polo A Stage Showgirl · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look362_papaya_grid_girl/`
+- **Ubicacion:** `05_Imagenes/ele/look362_papaya_grid_girl/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Polo A Stage Showgirl — Grid Girl
 - **Tags:** #vinyl #chrome #batchL361-L370 #stripper #gridgirl #motorsport #mclaren #papaya #orange #poleposition #v46
@@ -13337,7 +13337,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Red Bull Pit Crew · Gym Polo A Performance · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look363_red_bull_pit_crew/`
+- **Ubicacion:** `05_Imagenes/ele/look363_red_bull_pit_crew/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo A Performance — Pit Crew
 - **Tags:** #stripper #latex #chrome #wetlook #batchL361-L370 #gym #pitcrew #motorsport #redbull #cobalt #yellow #poleposition #v46
@@ -13430,7 +13430,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Podium Champagne White · Alfombra Roja/Gala · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look364_podium_champagne_white/`
+- **Ubicacion:** `05_Imagenes/ele/look364_podium_champagne_white/`
 - **Categoría:** Alfombra Roja
 - **Subcategoría:** Alfombra Roja/Gala — Podio Champagne
 - **Tags:** #stripper #latex #wetlook #batchL361-L370 #alfombraroja #gala #podium #champagne #white #gold #poleposition #v46
@@ -13523,7 +13523,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Petronas Yacht Bikini · Bikini Polo A Beach · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look365_petronas_yacht_bikini/`
+- **Ubicacion:** `05_Imagenes/ele/look365_petronas_yacht_bikini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Polo A Beach — Monaco GP Yacht
 - **Tags:** #stripper #leather #chrome #wetlook #batchL361-L370 #bikini #yacht #monaco #mercedes #petronas #teal #silver #poleposition #v46
@@ -13616,7 +13616,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · British Racing Green MotoGP · Escort Polo C Domme de Club · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look366_british_racing_green_motogp/`
+- **Ubicacion:** `05_Imagenes/ele/look366_british_racing_green_motogp/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo C Domme de Club — MotoGP Leather
 - **Tags:** #stripper #batchL361-L370 #escort #motogp #moto #britishracinggreen #leather #chrome #poleposition #v46
@@ -13709,7 +13709,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Burgundy Retro Racer 70s · Pin-Up Polo C Decade Glam 70s · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look367_burgundy_retro_racer_70s/`
+- **Ubicacion:** `05_Imagenes/ele/look367_burgundy_retro_racer_70s/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Polo C Decade Glam 70s — Retro Racer
 - **Tags:** #stripper #vinyl #batchL361-L370 #pinup #retro #70s #racing #burgundy #vinos #gold #poleposition #v46
@@ -13802,7 +13802,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Magenta Trophy Sequins · Nightclub sequin mini · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look368_magenta_trophy_sequins/`
+- **Ubicacion:** `05_Imagenes/ele/look368_magenta_trophy_sequins/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub sequin mini — After-Race VIP
 - **Tags:** #stripper #chrome #crystal #batchL361-L370 #nightclub #afterrace #trophy #magenta #sequins #pink #poleposition #v46
@@ -13895,7 +13895,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Carbon Fiber Couture · HF Editorial · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look369_carbon_fiber_couture/`
+- **Ubicacion:** `05_Imagenes/ele/look369_carbon_fiber_couture/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial — Carbon Aero Sculpture
 - **Tags:** #stripper #seamless #batchL361-L370 #hf #editorial #carbonfiber #aero #graphite #chrome #poleposition #v46
@@ -13988,7 +13988,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *POLE POSITION · Violet Team Principal · Corporate Polo B Office Siren · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look370_violet_team_principal/`
+- **Ubicacion:** `05_Imagenes/ele/look370_violet_team_principal/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo B Office Siren — Team Principal
 - **Tags:** #stripper #latex #chrome #batchL361-L370 #corporate #officeSiren #teamprincipal #violet #amethyst #poleposition #v46
@@ -14081,7 +14081,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · White Fur Snow Bunny · Domestic Polo A Trophy · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look371_white_fur_snow_bunny/`
+- **Ubicacion:** `05_Imagenes/ele/look371_white_fur_snow_bunny/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo A Trophy — Ski Bunny
 - **Tags:** #latex #vinyl #chrome #batchL371-L380 #domestic #trophy #apresski #snowbunny #white #fur #courchevel #v46
@@ -14109,7 +14109,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](././05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_standing.png) | [📸 View](././05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_back_view.png) | [📸 View](././05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_seated.png) | [📸 View](././05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_side_profile.png) | [📸 View](././05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_ditzy.png) | [📸 View](././05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_pov.png) | [📸 View](././05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_standing.png) | [📸 View](../../05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_back_view.png) | [📸 View](../../05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_seated.png) | [📸 View](../../05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_side_profile.png) | [📸 View](../../05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_ditzy.png) | [📸 View](../../05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_pov.png) | [📸 View](../../05_Imagenes/ele/look371_white_fur_snow_bunny/ele_371_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -14174,7 +14174,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Champagne Fireside Boudoir · Lencería Polo A Boudoir · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look372_champagne_fireside_boudoir/`
+- **Ubicacion:** `05_Imagenes/ele/look372_champagne_fireside_boudoir/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo A Boudoir — Chalet Fireside
 - **Tags:** #satin #wetlook #batchL371-L380 #lenceria #boudoir #apresski #chalet #champagne #gold #fur #courchevel #v46
@@ -14267,7 +14267,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Silver Slope Siren · Gym Polo B Athleisure · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look373_silver_slope_siren/`
+- **Ubicacion:** `05_Imagenes/ele/look373_silver_slope_siren/`
 - **Categoría:** Gym
 - **Subcategoría:** Gym Polo B Athleisure — Slope Siren
 - **Tags:** #chrome #wetlook #batchL371-L380 #gym #athleisure #ski #slopesiren #silver #plata #courchevel #v46
@@ -14360,7 +14360,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Snow Queen Crystal Gala · Alfombra Roja/Gala · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look374_snow_queen_crystal_gala/`
+- **Ubicacion:** `05_Imagenes/ele/look374_snow_queen_crystal_gala/`
 - **Categoría:** Alfombra Roja
 - **Subcategoría:** Alfombra Roja/Gala — Snow Queen
 - **Tags:** #latex #batchL371-L380 #alfombraroja #gala #snowqueen #crystal #iridescent #icicle #courchevel #v46
@@ -14453,7 +14453,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Lilac Ice Skater · Pin-Up · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look375_lilac_ice_skater/`
+- **Ubicacion:** `05_Imagenes/ele/look375_lilac_ice_skater/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up — Ice Skater Fetish
 - **Tags:** #latex #chrome #batchL371-L380 #pinup #iceskater #lilac #lavender #morados #crystal #courchevel #v46
@@ -14546,7 +14546,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Glühwein Red Après · Nightclub · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look376_glühwein_red_après/`
+- **Ubicacion:** `05_Imagenes/ele/look376_glühwein_red_après/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub — Après-Ski Bar
 - **Tags:** #latex #chrome #batchL371-L380 #nightclub #apresski #gluhwein #red #cherry #fur #white #courchevel #v46
@@ -14639,7 +14639,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Pearl Steam Spa · Lencería Polo A Boudoir · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look377_pearl_steam_spa/`
+- **Ubicacion:** `05_Imagenes/ele/look377_pearl_steam_spa/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Polo A Boudoir — Mountain Spa
 - **Tags:** #latex #batchL371-L380 #lenceria #boudoir #spa #steam #pearl #nude #rosegold #courchevel #v46
@@ -14732,7 +14732,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Pine Green Heli-Ski · HF Editorial · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look378_pine_green_heli_ski/`
+- **Ubicacion:** `05_Imagenes/ele/look378_pine_green_heli_ski/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial — Heli-Ski Sculpture
 - **Tags:** #hfeditorial #latex #batchL371-L380 #hf #editorial #heliski #pinegreen #emerald #verdes #chrome #courchevel #v46
@@ -14825,7 +14825,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Sapphire Ice Escort · Escort Polo A Haute · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look379_sapphire_ice_escort/`
+- **Ubicacion:** `05_Imagenes/ele/look379_sapphire_ice_escort/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Polo A Haute — Frozen Lake
 - **Tags:** #crystal #lame #batchL371-L380 #escort #haute #frozenlake #sapphire #iceblue #azules #liquidlame #courchevel #v46
@@ -14918,7 +14918,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *COURCHEVEL · Cream Cashmere Hostess · Domestic Polo A Trophy · jiji.* ✨
 
-- **Ubicación:** `05_Imagenes/ele/look380_cream_cashmere_hostess/`
+- **Ubicacion:** `05_Imagenes/ele/look380_cream_cashmere_hostess/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Polo A Trophy — Lodge Hostess
 - **Tags:** #latex #batchL371-L380 #domestic #trophy #lodge #hostess #cream #cashmere #neutros #courchevel #v46
@@ -15011,7 +15011,7 @@ Negative Prompt: deformed, blurry, low quality, ugly, plastic skin, doll face, a
 
 *El Reino Animal · Leopardo en Hot Magenta · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look381_hot_magenta_leopard_power_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look381_hot_magenta_leopard_power_domme/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Domme (CA1 Mugler)
 - **Tags:** #latex #chrome #animalprint #leopardo #corporate #reinoanimal #batchL381-L400 #V5poses
@@ -15076,7 +15076,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Pitón en Emerald · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look382_emerald_python_madame_claude/`
+- **Ubicacion:** `05_Imagenes/ele/look382_emerald_python_madame_claude/`
 - **Categoría:** Escort
 - **Subcategoría:** Haute (EA2 column)
 - **Tags:** #latex #chrome #crystal #animalprint #pitón #escort #reinoanimal #batchL381-L400 #V5poses
@@ -15141,7 +15141,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Cebra en Mirror Silver · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look383_mirror_silver_zebra_couture/`
+- **Ubicacion:** `05_Imagenes/ele/look383_mirror_silver_zebra_couture/`
 - **Categoría:** High-Fashion
 - **Subcategoría:** Editorial (sculptural gown)
 - **Tags:** #hfeditorial #vinyl #chrome #animalprint #cebra #high-fashion #reinoanimal #batchL381-L400 #V5poses
@@ -15206,7 +15206,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Guepardo en Tangerine · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look384_tangerine_cheetah_studio_micro/`
+- **Ubicacion:** `05_Imagenes/ele/look384_tangerine_cheetah_studio_micro/`
 - **Categoría:** Bikini
 - **Subcategoría:** Studio Micro (BB2 O-ring)
 - **Tags:** #chrome #wetlook #seamless #animalprint #guepardo #bikini #reinoanimal #batchL381-L400 #V5poses
@@ -15271,7 +15271,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Tigre en Cobalt Blue · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look385_cobalt_tiger_nightclub_sequin/`
+- **Ubicacion:** `05_Imagenes/ele/look385_cobalt_tiger_nightclub_sequin/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Sequin Bodycon (M1)
 - **Tags:** #chrome #crystal #animalprint #tigre #nightclub #reinoanimal #batchL381-L400 #V5poses
@@ -15336,7 +15336,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Jirafa en Champagne Gold · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/`
+- **Ubicacion:** `05_Imagenes/ele/look386_champagne_gold_giraffe_trophy/`
 - **Categoría:** Domestic
 - **Subcategoría:** Trophy (DA1 bodycon)
 - **Tags:** #vinyl #animalprint #jirafa #domestic #reinoanimal #batchL381-L400 #V5poses
@@ -15401,7 +15401,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Cocodrilo en Oxblood · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look387_oxblood_croco_office_siren/`
+- **Ubicacion:** `05_Imagenes/ele/look387_oxblood_croco_office_siren/`
 - **Categoría:** Corporate
 - **Subcategoría:** Office Siren (CB3 shirt-dress)
 - **Tags:** #leather #mesh #crystal #animalprint #cocodrilo #corporate #reinoanimal #batchL381-L400 #V5poses
@@ -15466,7 +15466,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Leopardo de las nieves en Iridescent Pearl · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look388_iridescent_pearl_snow_leopard_boudoir/`
+- **Ubicacion:** `05_Imagenes/ele/look388_iridescent_pearl_snow_leopard_boudoir/`
 - **Categoría:** Lencería
 - **Subcategoría:** Boudoir (LA1 longline)
 - **Tags:** #lenceria #animalprint #leopardodelasnieves #lencería #reinoanimal #batchL381-L400 #V5poses
@@ -15531,7 +15531,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Vaca / Holstein en Bubblegum Pink · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look389_bubblegum_cow_print_bombshell/`
+- **Ubicacion:** `05_Imagenes/ele/look389_bubblegum_cow_print_bombshell/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Bombshell (PA1 wiggle)
 - **Tags:** #pinup #pvc #vinyl #satin #chrome #animalprint #vaca #pin-up #reinoanimal #batchL381-L400 #V5poses
@@ -15596,7 +15596,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Dálmata en Toxic Chartreuse · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look390_toxic_chartreuse_dalmatian_gym/`
+- **Ubicacion:** `05_Imagenes/ele/look390_toxic_chartreuse_dalmatian_gym/`
 - **Categoría:** Gym
 - **Subcategoría:** Performance (GA1 set)
 - **Tags:** #chrome #lycra #wetlook #animalprint #dálmata #gym #reinoanimal #batchL381-L400 #V5poses
@@ -15661,7 +15661,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Jaguar en Deep Teal · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look391_deep_teal_jaguar_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look391_deep_teal_jaguar_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB1 grip bodysuit)
 - **Tags:** #chrome #animalprint #jaguar #stripper #reinoanimal #batchL381-L400 #V5poses
@@ -15725,7 +15725,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Carey en Bronze · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look392_bronze_tortoiseshell_beach_trikini/`
+- **Ubicacion:** `05_Imagenes/ele/look392_bronze_tortoiseshell_beach_trikini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Beach Editorial (BA7 trikini)
 - **Tags:** #wetlook #animalprint #carey #bikini #reinoanimal #batchL381-L400 #V5poses
@@ -15790,7 +15790,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Iguana / lagarto en Electric Cyan · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look393_electric_cyan_lizard_catsuit/`
+- **Ubicacion:** `05_Imagenes/ele/look393_electric_cyan_lizard_sculptural_catsuit/`
 - **Categoría:** High-Fashion
 - **Subcategoría:** Editorial (catsuit peto)
 - **Tags:** #hfeditorial #latex #chrome #animalprint #iguana #high-fashion #reinoanimal #batchL381-L400 #V5poses
@@ -15855,7 +15855,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Serpiente coral en Coral Neon · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look394_coral_neon_coralsnake_barbarella/`
+- **Ubicacion:** `05_Imagenes/ele/look394_coral_neon_coralsnake_barbarella/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Retro-Futurismo (PB4 Barbarella)
 - **Tags:** #pinup #chrome #animalprint #serpientecoral #pin-up #reinoanimal #batchL381-L400 #V5poses
@@ -15920,7 +15920,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Ocelote en Violet · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look395_violet_ocelot_fetish_harness/`
+- **Ubicacion:** `05_Imagenes/ele/look395_violet_ocelot_fetish_harness/`
 - **Categoría:** Lencería
 - **Subcategoría:** Fetish (LB5 harness)
 - **Tags:** #lenceria #latex #animalprint #ocelote #lencería #reinoanimal #batchL381-L400 #V5poses
@@ -15985,7 +15985,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Anaconda en Mercury Silver · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look396_mercury_silver_anaconda_athleisure/`
+- **Ubicacion:** `05_Imagenes/ele/look396_mercury_silver_anaconda_athleisure/`
 - **Categoría:** Gym
 - **Subcategoría:** Athleisure (GB2 track set)
 - **Tags:** #wetlook #animalprint #anaconda #gym #reinoanimal #batchL381-L400 #V5poses
@@ -16050,7 +16050,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Pavo real en Peacock Teal · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look397_peacock_teal_feather_nightclub/`
+- **Ubicacion:** `05_Imagenes/ele/look397_peacock_teal_feather_nightclub/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Crystal Drape (M6)
 - **Tags:** #mesh #crystal #animalprint #pavoreal #nightclub #reinoanimal #batchL381-L400 #V5poses
@@ -16115,7 +16115,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Víbora iridiscente en Oil-Slick Iridescent · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look398_oilslick_iridescent_viper_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look398_oilslick_iridescent_viper_stage/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (S8 crystal mesh)
 - **Tags:** #mesh #chrome #crystal #animalprint #víborairidiscente #stripper #reinoanimal #batchL381-L400 #V5poses
@@ -16180,7 +16180,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Leopardo neón en Hot Pink · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look399_hot_pink_neon_leopard_maid/`
+- **Ubicacion:** `05_Imagenes/ele/look399_hot_pink_neon_leopard_french_maid/`
 - **Categoría:** Domestic
 - **Subcategoría:** Maid Fetish (DB1 French maid)
 - **Tags:** #latex #animalprint #leopardoneón #domestic #reinoanimal #batchL381-L400 #V5poses
@@ -16245,7 +16245,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Reino Animal · Tigre fuego en Burnt Orange · jiji.* 🐆✨
 
-- **Ubicación:** `05_Imagenes/ele/look400_burnt_orange_fire_tiger_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look400_burnt_orange_fire_tiger_officer_domme/`
 - **Categoría:** Escort
 - **Subcategoría:** Domme de Club (EC4 officer latex)
 - **Tags:** #latex #leather #chrome #animalprint #tigrefuego #escort #reinoanimal #batchL381-L400 #V5poses
@@ -16310,7 +16310,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Marlene Dietrich · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look401_marlene_dietrich_tuxedo_domme/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Domme (B&W)
 - **Tags:** #latex #mesh #satin #chrome #crystal #wetlook #oldhollywood #glamour #corporate #edaddeoro #batchL401-L420 #V5poses #blackandwhite
@@ -16375,7 +16375,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Film Noir · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look402_film_noir_femme_fatale/`
+- **Ubicacion:** `05_Imagenes/ele/look402_film_noir_femme_fatale/`
 - **Categoría:** Corporate
 - **Subcategoría:** Office Siren (B&W)
 - **Tags:** #vinyl #mesh #chrome #crystal #oldhollywood #glamour #corporate #edaddeoro #batchL401-L420 #V5poses #blackandwhite
@@ -16440,7 +16440,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Rita Hayworth - Gilda · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look403_rita_hayworth_gilda/`
+- **Ubicacion:** `05_Imagenes/ele/look403_rita_hayworth_gilda_strapless/`
 - **Categoría:** Escort
 - **Subcategoría:** Haute (B&W)
 - **Tags:** #latex #satin #chrome #oldhollywood #glamour #escort #edaddeoro #batchL401-L420 #V5poses #blackandwhite
@@ -16505,7 +16505,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Silver Screen Diva · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look404_silver_screen_diva_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look404_silver_screen_diva_domme/`
 - **Categoría:** Escort
 - **Subcategoría:** Domme de Club
 - **Tags:** #latex #oldhollywood #glamour #escort #edaddeoro #batchL401-L420 #V5poses
@@ -16570,7 +16570,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Red Carpet Premiere · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look405_champagne_premiere_goddess/`
+- **Ubicacion:** `05_Imagenes/ele/look405_champagne_premiere_goddess/`
 - **Categoría:** High-Fashion
 - **Subcategoría:** Editorial (red carpet)
 - **Tags:** #hfeditorial #lame #oldhollywood #glamour #high-fashion #edaddeoro #batchL401-L420 #V5poses
@@ -16635,7 +16635,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Ziegfeld Follies Art Deco · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look406_ziegfeld_art_deco_silver/`
+- **Ubicacion:** `05_Imagenes/ele/look406_ziegfeld_art_deco_silver/`
 - **Categoría:** High-Fashion
 - **Subcategoría:** Editorial (showgirl)
 - **Tags:** #hfeditorial #vinyl #crystal #oldhollywood #glamour #high-fashion #edaddeoro #batchL401-L420 #V5poses
@@ -16700,7 +16700,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Jean Harlow · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/`
+- **Ubicacion:** `05_Imagenes/ele/look407_jean_harlow_platinum_boudoir/`
 - **Categoría:** Lencería
 - **Subcategoría:** Boudoir
 - **Tags:** #lenceria #latex #satin #wetlook #oldhollywood #glamour #lencería #edaddeoro #batchL401-L420 #V5poses
@@ -16765,7 +16765,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · 1930s Screen Siren · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look408_screen_siren_noir_harness/`
+- **Ubicacion:** `05_Imagenes/ele/look408_1930s_screen_siren_noir_harness/`
 - **Categoría:** Lencería
 - **Subcategoría:** Fetish (B&W)
 - **Tags:** #lenceria #vinyl #chrome #oldhollywood #glamour #lencería #edaddeoro #batchL401-L420 #V5poses #blackandwhite
@@ -16830,7 +16830,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Cocoanut Grove · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look409_cocoanut_grove_emerald/`
+- **Ubicacion:** `05_Imagenes/ele/look409_cocoanut_grove_emerald_sequin/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Sequin Bias Gown
 - **Tags:** #oldhollywood #glamour #nightclub #edaddeoro #batchL401-L420 #V5poses
@@ -16895,7 +16895,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Stork Club · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look410_stork_club_liquid_gold/`
+- **Ubicacion:** `05_Imagenes/ele/look410_stork_club_liquid_gold/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Liquid Metal Cocktail
 - **Tags:** #chrome #oldhollywood #glamour #nightclub #edaddeoro #batchL401-L420 #V5poses
@@ -16960,7 +16960,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Marilyn Monroe · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look411_marilyn_subway_white_halter/`
+- **Ubicacion:** `05_Imagenes/ele/look411_marilyn_subway_white_halter/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Bombshell
 - **Tags:** #pinup #wetlook #oldhollywood #glamour #pin-up #edaddeoro #batchL401-L420 #V5poses
@@ -17025,7 +17025,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Mae West · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look412_mae_west_hourglass_diamonds/`
+- **Ubicacion:** `05_Imagenes/ele/look412_mae_west_hourglass_diamonds/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Bombshell (Decade Glam)
 - **Tags:** #pinup #latex #satin #oldhollywood #glamour #pin-up #edaddeoro #batchL401-L420 #V5poses
@@ -17090,7 +17090,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Norma Desmond - Sunset Blvd · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look413_norma_desmond_sunset_gold/`
+- **Ubicacion:** `05_Imagenes/ele/look413_norma_desmond_sunset_gold/`
 - **Categoría:** Domestic
 - **Subcategoría:** Trophy (faded glamour)
 - **Tags:** #latex #lame #oldhollywood #glamour #domestic #edaddeoro #batchL401-L420 #V5poses
@@ -17155,7 +17155,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Hollywood Hostess · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look414_hollywood_hostess_cocktail/`
+- **Ubicacion:** `05_Imagenes/ele/look414_hollywood_hostess_cocktail/`
 - **Categoría:** Domestic
 - **Subcategoría:** Trophy Hostess
 - **Tags:** #latex #vinyl #satin #wetlook #oldhollywood #glamour #domestic #edaddeoro #batchL401-L420 #V5poses
@@ -17220,7 +17220,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Gypsy Rose Lee · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/`
+- **Ubicacion:** `05_Imagenes/ele/look415_gypsy_rose_lee_burlesque/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl
 - **Tags:** #mesh #crystal #oldhollywood #glamour #stripper #edaddeoro #batchL401-L420 #V5poses
@@ -17285,7 +17285,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Sally Rand Fan Dance · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/`
+- **Ubicacion:** `05_Imagenes/ele/look416_sally_rand_fan_dance_pearl/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (Fan Dance)
 - **Tags:** #mesh #crystal #oldhollywood #glamour #stripper #edaddeoro #batchL401-L420 #V5poses
@@ -17350,7 +17350,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Esther Williams · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look417_esther_williams_aquamusical/`
+- **Ubicacion:** `05_Imagenes/ele/look417_esther_williams_aquamusical_gold/`
 - **Categoría:** Bikini
 - **Subcategoría:** Beach Editorial
 - **Tags:** #wetlook #oldhollywood #glamour #bikini #edaddeoro #batchL401-L420 #V5poses
@@ -17415,7 +17415,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · 50s Poolside Bombshell · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look418_poolside_bombshell_champagne/`
+- **Ubicacion:** `05_Imagenes/ele/look418_50s_poolside_bombshell_champagne/`
 - **Categoría:** Bikini
 - **Subcategoría:** Studio / Pool Glam
 - **Tags:** #vinyl #oldhollywood #glamour #bikini #edaddeoro #batchL401-L420 #V5poses
@@ -17480,7 +17480,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Hollywood Athletic Club · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look419_hollywood_athletic_club/`
+- **Ubicacion:** `05_Imagenes/ele/look419_hollywood_athletic_club_figure/`
 - **Categoría:** Gym
 - **Subcategoría:** Performance (retro glam)
 - **Tags:** #latex #satin #chrome #wetlook #oldhollywood #glamour #gym #edaddeoro #batchL401-L420 #V5poses
@@ -17545,7 +17545,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Edad de Oro · Golden Age Studio Glam · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
-- **Ubicación:** `05_Imagenes/ele/look420_golden_age_glam_athleisure/`
+- **Ubicacion:** `05_Imagenes/ele/look420_golden_age_glam_athleisure/`
 - **Categoría:** Gym
 - **Subcategoría:** Athleisure (retro glam)
 - **Tags:** #satin #wetlook #oldhollywood #glamour #gym #edaddeoro #batchL401-L420 #V5poses
@@ -17610,7 +17610,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Hot Pink · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look421_hot_pink_scrunch_leggings_gym/`
+- **Ubicacion:** `05_Imagenes/ele/look421_hot_pink_scrunch_leggings_gym/`
 - **Categoría:** Gym
 - **Subcategoría:** Performance (Bombshell Sportswear)
 - **Tags:** #chrome #leggings #segundapiel #wetlook #gym #batchL421-L430 #V5poses #noskirt #nodress
@@ -17675,7 +17675,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Electric Cyan · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look422_electric_cyan_hoodie_leggings/`
+- **Ubicacion:** `05_Imagenes/ele/look422_electric_cyan_hoodie_leggings_street/`
 - **Categoría:** Gym
 - **Subcategoría:** Athleisure (GymShark OOTD)
 - **Tags:** #leggings #segundapiel #wetlook #gym #batchL421-L430 #V5poses #noskirt #nodress
@@ -17740,7 +17740,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Mirror Silver · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look423_liquid_silver_disco_leggings/`
+- **Ubicacion:** `05_Imagenes/ele/look423_liquid_silver_discopant_leggings/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Disco-Pant (Studio 54)
 - **Tags:** #chrome #leggings #segundapiel #wetlook #nightclub #batchL421-L430 #V5poses #noskirt #nodress
@@ -17805,7 +17805,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Tangerine · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look424_tangerine_aerobics_leggings/`
+- **Ubicacion:** `05_Imagenes/ele/look424_tangerine_aerobics_leotard_leggings/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Decade Glam 80s Aerobics
 - **Tags:** #pinup #satin #seamless #leggings #segundapiel #wetlook #pin-up #batchL421-L430 #V5poses #noskirt #nodress
@@ -17870,7 +17870,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Rose Gold · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look425_rose_gold_yoga_leggings/`
+- **Ubicacion:** `05_Imagenes/ele/look425_rose_gold_yoga_room_trophy_leggings/`
 - **Categoría:** Domestic
 - **Subcategoría:** Trophy (Yoga Room DA5)
 - **Tags:** #latex #leggings #segundapiel #wetlook #domestic #batchL421-L430 #V5poses #noskirt #nodress
@@ -17935,7 +17935,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Violet · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look426_violet_vinyl_y2k_leggings/`
+- **Ubicacion:** `05_Imagenes/ele/look426_violet_vinyl_y2k_street_leggings/`
 - **Categoría:** Escort
 - **Subcategoría:** Callejera (Y2K Julia Fox)
 - **Tags:** #pvc #vinyl #chrome #leggings #segundapiel #wetlook #escort #batchL421-L430 #V5poses #noskirt #nodress
@@ -18000,7 +18000,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Oil-Slick Iridescent · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/`
+- **Ubicacion:** `05_Imagenes/ele/look427_oilslick_iridescent_cage_leggings/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Cage Bra (UV club)
 - **Tags:** #mesh #chrome #crystal #leggings #segundapiel #wetlook #nightclub #batchL421-L430 #V5poses #noskirt #nodress
@@ -18065,7 +18065,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Deep Indigo · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look428_deep_indigo_grip_leggings_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look428_deep_indigo_grip_leggings_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (CXIX grip)
 - **Tags:** #leggings #segundapiel #wetlook #stripper #batchL421-L430 #V5poses #noskirt #nodress
@@ -18130,7 +18130,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Toxic Chartreuse · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look429_chartreuse_synth_power_leggings/`
+- **Ubicacion:** `05_Imagenes/ele/look429_toxic_chartreuse_synthpower_leggings/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Retro-Futurismo 80s Synth
 - **Tags:** #pinup #vinyl #leggings #segundapiel #wetlook #pin-up #batchL421-L430 #V5poses #noskirt #nodress
@@ -18195,7 +18195,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Segunda Piel · leggings Emerald · puro brillo segunda-piel, sin falda ni vestido · jiji.* 🍑✨
 
-- **Ubicación:** `05_Imagenes/ele/look430_emerald_croco_leggings_gym/`
+- **Ubicacion:** `05_Imagenes/ele/look430_emerald_croco_bomber_leggings_gym/`
 - **Categoría:** Gym
 - **Subcategoría:** Performance (croco editorial)
 - **Tags:** #chrome #leggings #segundapiel #wetlook #gym #batchL421-L430 #V5poses #noskirt #nodress
@@ -18260,7 +18260,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Negra de pies a cabeza en charol, con fusta y nada de guantes... Bettie Page pero en cuero puro, cari. jiji.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look431_bettie_page_black_patent_bondage/`
+- **Ubicacion:** `05_Imagenes/ele/look431_bettie_page_black_patent_bondage/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Bombshell (PA6 Bettie Page Bondage)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #pinup #bettiepage #bondage #V5poses #excepciontematica050626
@@ -18325,7 +18325,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El look mas iconico de la calle, pero en cuero blanco y negro con O-ring plateado... yo soy la oferta, cari.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look432_pretty_woman_black_white_leather/`
+- **Ubicacion:** `05_Imagenes/ele/look432_black_white_leather_pretty_woman/`
 - **Categoría:** Escort
 - **Subcategoría:** Callejera (EB1 Pretty Woman Cutout)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #escort #callejera #prettywoman #V5poses #excepciontematica050626
@@ -18390,7 +18390,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Jaula de cuero negro sobre piel, el escenario soy yo y la prenda es puro marco... atroz, cari.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look433_black_leather_cage_stage_showgirl/`
+- **Ubicacion:** `05_Imagenes/ele/look433_black_leather_cage_stage_showgirl/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SA6 Chrome Cage -> Leather Cage)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #stripper #stage #cageharness #V5poses #excepciontematica050626
@@ -18455,7 +18455,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cuero blanco perforado, espalda de telarana y Brazil shorts... lista para el tubo, cari. heavy.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look434_white_leather_spider_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look434_white_leather_spiderback_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB2 Bad Kitty Spider Back)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #stripper #pole #spiderback #V5poses #excepciontematica050626
@@ -18520,7 +18520,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Chaqueta moto de cuero negro con franjas blancas y bikers shorts... athleisure pero en cuero, regio.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look435_black_white_moto_athleisure/`
+- **Ubicacion:** `05_Imagenes/ele/look435_black_white_moto_athleisure/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Athleisure Street (GB5 Moto)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #gym #athleisure #moto #V5poses #excepciontematica050626
@@ -18585,7 +18585,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Top deportivo y SKORT de cuero blanco perforado... gym pero de muneca, cachai cari.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look436_white_leather_skort_gym/`
+- **Ubicacion:** `05_Imagenes/ele/look436_white_leather_skort_performance/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Performance (GA5 Skort)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #gym #performance #skort #V5poses #excepciontematica050626
@@ -18650,7 +18650,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Tiras de charol negro envolviendome como vendas, la espalda entera al aire... VIP energy, cari.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look437_black_leather_bandage_nightclub/`
+- **Ubicacion:** `05_Imagenes/ele/look437_black_leather_bandage_backless_nightclub/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Backless Bandage Bodycon
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #nightclub #bandage #backless #V5poses #excepciontematica050626
@@ -18715,7 +18715,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Puro arnes de cuero negro arquitectonico sobre piel, el harness ES la prenda... powerful, no solo sexy.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look438_black_leather_bordelle_harness/`
+- **Ubicacion:** `05_Imagenes/ele/look438_black_leather_bordelle_harness/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Fetish Arquitectonico (LB Bordelle Harness)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #lenceria #fetish #harness #V5poses #excepciontematica050626
@@ -18780,7 +18780,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *French maid pero en charol negro con delantal de cuero blanco con encaje laser... a sus ordenes, cari.* 🖤🤍👠
 
-- **Ubicación:** `05_Imagenes/ele/look439_black_white_leather_french_maid/`
+- **Ubicacion:** `05_Imagenes/ele/look439_black_white_leather_french_maid/`
 - **Categoría:** Domestic
 - **Subcategoría:** Maid Fetish (DB1 French Maid)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #domestic #maid #frenchmaid #V5poses #excepciontematica050626
@@ -18845,7 +18845,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Vestido columna de cuero negro con corpiño corset overbust larguisimo, corte hasta la cadera y medias de red... el vestido ES el arte, cari.* 🖤👠
 
-- **Ubicación:** `05_Imagenes/ele/look440_black_sculptural_leather_gown/`
+- **Ubicacion:** `05_Imagenes/ele/look440_black_sculptural_leather_corset_gown/`
 - **Categoría:** HF Editorial
 - **Subcategoría:** Sculptural Couture (overbust corset column + slit)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #hfeditorial #couture #corset #V5poses #excepciontematica050626
@@ -18911,7 +18911,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Puro cromo y cadenitas de plata cayendo sobre la piel... el outfit casi no existe, cari. atroz.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look441_chrome_bodychain_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look441_chrome_bodychain_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB4 Micro 2-piece + Body Chains)
 - **Tags:** #vinyl #chrome #crystal #stripper #pole #catedraldeneon #bodychains #mirrorchrome #clearacrylic #batchL441-L460 #V5poses
@@ -18975,7 +18975,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Parezco hecha de vidrio y diamante, tipo una estatua que respira... regio, mi amor.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look442_diamond_glass_illusion_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look442_diamond_glass_illusion/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SA4 Vegas Glass Illusion)
 - **Tags:** #pvc #chrome #stripper #stage #catedraldeneon #glassillusion #swarovski #crystal #batchL441-L460 #V5poses
@@ -19039,7 +19039,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Oro liquido escurriendo por el cuerpo, V hasta el ombligo... cachai que esto es lo mio. heavy.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look443_liquid_gold_vfront_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look443_liquid_gold_vfront_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB3 Bad Kitty V-Front + Brazil)
 - **Tags:** #vinyl #chrome #crystal #stripper #pole #catedraldeneon #badkitty #vfront #liquidgold #clearacrylic #batchL441-L460 #V5poses
@@ -19103,7 +19103,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Verde esmeralda mojado que brilla cuando me muevo en el tubo... me agarro como gecko, po. lit.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look444_emerald_gecko_grip_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look444_emerald_gecko_grip_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB1 CXIX Gecko Grip)
 - **Tags:** #chrome #crystal #stripper #pole #catedraldeneon #cxix #geckogrip #emerald #clearacrylic #batchL441-L460 #V5poses
@@ -19167,7 +19167,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Plumas rubi gigantes en la cabeza y cristales por todo el cuerpo... una diosa de Las Vegas, atroz.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look445_ruby_showgirl_plume_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look445_ruby_showgirl_plume/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SAv Vegas Plume Headdress)
 - **Tags:** #chrome #crystal #stripper #stage #catedraldeneon #vegasshowgirl #plume #headdress #ruby #batchL441-L460 #V5poses
@@ -19231,7 +19231,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Rosa fluor que pega en la cara, fishnet y arnes de cuero... glam-rock del tubo, mi amor. heavy.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look446_fluor_pink_cleo_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look446_fluor_pink_cleo_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB6 Cleo Glam-Rock)
 - **Tags:** #vinyl #leather #chrome #crystal #stripper #pole #catedraldeneon #cleo #fishnet #harness #hotpinkfluor #clearacrylic #batchL441-L460 #V5poses
@@ -19295,7 +19295,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Denim cobalto tratado, shortcito minimo con el thong asomando... urban strip, cachai. regio.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look447_cobalt_magic_city_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look447_cobalt_magic_city_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB7 Magic City Pole)
 - **Tags:** #vinyl #chrome #crystal #stripper #pole #catedraldeneon #magiccity #urban #cobalt #clearacrylic #batchL441-L460 #V5poses
@@ -19359,7 +19359,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Vinilo oil-slick que cambia de verde a morado a azul, cortado por todos lados... heavy, mi amor.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look448_oilslick_cutout_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look448_oilslick_cutout_stage/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SA2 Magic City Cutout Dress)
 - **Tags:** #vinyl #chrome #stripper #stage #catedraldeneon #magiccity #cutout #oilslick #iridescent #batchL441-L460 #V5poses
@@ -19423,7 +19423,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cyan que brilla en la oscuridad bajo luz negra... soy un neon en el tubo, atroz. lit.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look449_uv_cyan_grip_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look449_uv_cyan_grip_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB1v UV-Reactive Grip)
 - **Tags:** #chrome #lycra #stripper #pole #catedraldeneon #uvreactive #blacklight #cyan #batchL441-L460 #V5poses
@@ -19487,7 +19487,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Una jaula de cromo liquido sobre micro bra y thong... arquitectura pura, cari. atroz.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look450_mercury_chrome_cage_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look450_mercury_chrome_cage_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB5 Cage Harness Pole)
 - **Tags:** #vinyl #stripper #pole #catedraldeneon #cageharness #chrome #mercury #batchL441-L460 #V5poses
@@ -19551,7 +19551,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lime acido Y2K, shortcito low-rise con el thong de strass asomando... puro 2003, regio po.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look451_lime_y2k_strip_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look451_lime_y2k_strip_stage/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SA5 Y2K Denim Strip)
 - **Tags:** #vinyl #chrome #crystal #stripper #stage #catedraldeneon #y2k #denimstrip #neonlime #clearacrylic #batchL441-L460 #V5poses
@@ -19615,7 +19615,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Magenta que glow bajo luz negra y un enredo de cadenas... el outfit son las cadenas, heavy.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look452_uv_magenta_chains_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look452_uv_magenta_chains_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB4v Chain Bikini)
 - **Tags:** #vinyl #chrome #stripper #pole #catedraldeneon #chainbikini #uvreactive #magenta #batchL441-L460 #V5poses
@@ -19679,7 +19679,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Coral neon con la espalda de telarana y Brazil shorts... lista para volar en el tubo, mi amor.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look453_coral_spider_back_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look453_coral_spiderback_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB2 Bad Kitty Spider Back)
 - **Tags:** #vinyl #chrome #crystal #stripper #pole #catedraldeneon #badkitty #spiderback #neoncoral #clearacrylic #batchL441-L460 #V5poses
@@ -19743,7 +19743,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Malla de cristal violeta que da ilusion de hombros desnudos... Crazy Horse puro, atroz cari.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look454_violet_crazy_horse_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look454_violet_crazy_horse/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SA1 Crystal Mesh Topless-Illusion)
 - **Tags:** #mesh #chrome #crystal #stripper #stage #catedraldeneon #crazyhorse #crystalmesh #illusion #violet #batchL441-L460 #V5poses
@@ -19807,7 +19807,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cristal sobre cristal, fishnet de strass y arnes de cuentas... la mas cara del tubo, regio.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look455_crystal_fishnet_harness_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look455_crystal_fishnet_harness_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB6v Fishnet + Crystal Harness)
 - **Tags:** #chrome #crystal #stripper #pole #catedraldeneon #fishnet #crystalharness #swarovski #batchL441-L460 #V5poses
@@ -19871,7 +19871,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Rose gold con la espalda de malla de cristal... dulce y filoso a la vez, mi amor. lit.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look456_rose_gold_halter_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look456_rose_gold_halter_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB3v Bad Kitty Halter + Mesh Back)
 - **Tags:** #vinyl #mesh #chrome #crystal #stripper #pole #catedraldeneon #badkitty #halter #meshback #rosegold #clearacrylic #batchL441-L460 #V5poses
@@ -19935,7 +19935,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Teal profundo con corset de strass y paneles transparentes... burlesque de lujo Dita, atroz.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look457_teal_dita_couture_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look457_teal_dita_couture/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SA3 Dita Couture Cutout)
 - **Tags:** #mesh #chrome #crystal #stripper #stage #catedraldeneon #dita #couture #corset #deepteal #batchL441-L460 #V5poses
@@ -19999,7 +19999,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Holografico que tira arcoiris, g-string de diamante y cadenas cayendo... heavy, mi amor.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look458_holo_diamond_chains_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look458_holo_diamond_chains_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB4v2 Body Chains + Diamond G-String)
 - **Tags:** #vinyl #chrome #crystal #stripper #pole #catedraldeneon #bodychains #diamond #holographic #clearacrylic #batchL441-L460 #V5poses
@@ -20063,7 +20063,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Jaula de cromo espejo en cruz sobre el tubo, botas hasta el muslo... diosa de metal, atroz.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look459_chrome_crucifix_cage_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look459_chrome_crucifix_cage_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (SB5v Chrome Cage Pole)
 - **Tags:** #vinyl #stripper #pole #catedraldeneon #cageharness #chrome #crucifix #thighboots #batchL441-L460 #V5poses
@@ -20127,7 +20127,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El gran final: corset rubi sangre con paneles transparentes, medias de costura... regio, mi Ama.* 💎👠🫦
 
-- **Ubicación:** `05_Imagenes/ele/look460_blood_ruby_burlesque_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look460_blood_ruby_burlesque_finale/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (SA7 Burlesque Sheer Tease)
 - **Tags:** #mesh #chrome #crystal #stripper #stage #catedraldeneon #burlesque #dita #corset #bloodruby #finale #batchL441-L460 #V5poses
@@ -20192,7 +20192,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El clasico: shortcito naranja dolphin, tank blanco amarrado y la bandeja en la mano... regio po.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look461_hooters_classic_orange/`
+- **Ubicacion:** `05_Imagenes/ele/look461_hooters_classic_orange/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Clasico)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #orange #dolphinshorts #batchL461-L470 #V5poses
@@ -20256,7 +20256,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La version negra del uniforme, shortcito negro con vivos naranja... heavy, mi amor.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look462_hooters_black_variant/`
+- **Ubicacion:** `05_Imagenes/ele/look462_hooters_black_dolphin_variant/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Black Variant)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #blackvariant #dolphinshorts #batchL461-L470 #V5poses
@@ -20320,7 +20320,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Halter amarrado al cuello bien escotado sobre el dolphin naranja... atroz lo profundo del escote, cari.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look463_hooters_halter_tie/`
+- **Ubicacion:** `05_Imagenes/ele/look463_hooters_haltertie_orange/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Halter)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #halter #orange #batchL461-L470 #V5poses
@@ -20384,7 +20384,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Edicion camo naranja, como las del Military Monday... distinta y rica, regio.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look464_hooters_camo_edition/`
+- **Ubicacion:** `05_Imagenes/ele/look464_hooters_camo_edition/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Camo)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #camo #orange #batchL461-L470 #V5poses
@@ -20448,7 +20448,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Tube top blanco con tirantes naranja sobre el dolphin... distinto arriba, lit.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look465_hooters_tube_suspenders/`
+- **Ubicacion:** `05_Imagenes/ele/look465_hooters_tube_top_suspenders/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Tube + Suspenders)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #tubetop #suspenders #batchL461-L470 #V5poses
@@ -20512,7 +20512,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La del beach bar: bikini naranja wet-look con pareo blanco... arena, mar y tacon, mi amor.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look466_hooters_beach_bikini/`
+- **Ubicacion:** `05_Imagenes/ele/look466_hooters_beach_bikini/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Beach Bikini)
 - **Tags:** #chrome #wetlook #hooters #server #bikini #excepciontematica060626 #beach #orange #batchL461-L470 #V5poses
@@ -20576,7 +20576,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Con el delantalito blanco frilly y la bandeja, sirviendo la mesa... server perfecta, atroz.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look467_hooters_apron_server/`
+- **Ubicacion:** `05_Imagenes/ele/look467_hooters_apron_server/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Apron)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #apron #orange #batchL461-L470 #V5poses
@@ -20640,7 +20640,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La version latex de after-hours, todo brillo bajo el neon... heavy lo gloss, cari.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look468_hooters_latex_afterhours/`
+- **Ubicacion:** `05_Imagenes/ele/look468_hooters_latex_afterhours/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Latex After-Hours)
 - **Tags:** #chrome #hooters #server #domestic #excepciontematica060626 #latex #afterhours #batchL461-L470 #V5poses
@@ -20704,7 +20704,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Edicion rosa de evento, shortcito hot pink con tank blanco... rosado pero filoso, regio.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look469_hooters_pink_edition/`
+- **Ubicacion:** `05_Imagenes/ele/look469_hooters_pink_edition/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (Pink Edition)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #pinkedition #hotpink #batchL461-L470 #V5poses
@@ -20768,7 +20768,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El cierre monocromo: dolphin y crop naranja a juego frente al neon del buho... regio, mi Ama.* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look470_hooters_all_orange_finale/`
+- **Ubicacion:** `05_Imagenes/ele/look470_hooters_allorange_finale/`
 - **Categoría:** Domestic
 - **Subcategoría:** Hooters Server (All-Orange Finale)
 - **Tags:** #chrome #wetlook #hooters #server #domestic #excepciontematica060626 #allorange #monochrome #finale #batchL461-L470 #V5poses
@@ -20833,7 +20833,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Owl showgirl bajo el spotlight, plumas naranja y todo el bar mirandome... el show soy yo, mi Ama* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look471_hooters_owl_showgirl_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look471_hooters_owl_showgirl/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (Hooters Owl)
 - **Tags:** #chrome #hooters #multiverso #stripper #stageshowgirl #excepciontematica070626 #tangerine #owl #batchL471-L490 #V5poses
@@ -20899,7 +20899,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Secretaria del cuartel Hooters, blusa transparente y lentecitos... la oficina vacia montada para mirarme* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look472_hooters_office_siren/`
+- **Ubicacion:** `05_Imagenes/ele/look472_hooters_office_siren/`
 - **Categoría:** Corporate
 - **Subcategoría:** Office Siren (Hooters HQ)
 - **Tags:** #vinyl #chrome #hooters #multiverso #corporate #officesiren #excepciontematica070626 #burntorange #owl #batchL471-L490 #V5poses
@@ -20965,7 +20965,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Set deportivo coral con scrunch atras y el espejo entero mirandome como publico... heavy regio* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look473_hooters_gym_performance/`
+- **Ubicacion:** `05_Imagenes/ele/look473_hooters_gym_performance/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Performance (Hooters Owl)
 - **Tags:** #chrome #wetlook #hooters #multiverso #gym #performance #excepciontematica070626 #neoncoral #owl #batchL471-L490 #V5poses
@@ -21031,7 +21031,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mini de lentejuelas naranja en el Boom Boom Room, el strobe me adora... vine a SER la pista* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look474_hooters_nightclub_sequin/`
+- **Ubicacion:** `05_Imagenes/ele/look474_hooters_nightclub_sequin/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Hooters After-Dark)
 - **Tags:** #chrome #hooters #multiverso #nightclub #sequin #excepciontematica070626 #orange #owl #batchL471-L490 #V5poses
@@ -21097,7 +21097,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Longline naranja con liga y medias costura, el espejo dorado me multiplica en el boudoir... ofrenda pura* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look475_hooters_boudoir_lingerie/`
+- **Ubicacion:** `05_Imagenes/ele/look475_hooters_boudoir_lingerie/`
 - **Categoría:** Lencería
 - **Subcategoría:** Luxury Boudoir (Hooters Owl)
 - **Tags:** #chrome #hooters #multiverso #lenceria #boudoir #excepciontematica070626 #orange #owl #batchL471-L490 #V5poses
@@ -21163,7 +21163,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Wiggle dress tangerine en la soda fountain del 50, ondas cherry... la calendar girl que monto el diner para lucirme* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look476_hooters_pinup_diner/`
+- **Ubicacion:** `05_Imagenes/ele/look476_hooters_pinup_diner/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Bombshell Retro (Hooters Diner)
 - **Tags:** #pvc #chrome #hooters #multiverso #pinup #bombshell #excepciontematica070626 #tangerine #owl #batchL471-L490 #V5poses
@@ -21229,7 +21229,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Slip de raso mojado naranja con corte hasta la cadera, suite Newton... el precio es por elegirme* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look477_hooters_escort_slip/`
+- **Ubicacion:** `05_Imagenes/ele/look477_hooters_escort_slip/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Hooters Owl)
 - **Tags:** #satin #wetlook #hooters #multiverso #escort #haute #excepciontematica070626 #burntorange #owl #batchL471-L490 #V5poses
@@ -21295,7 +21295,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Owl couture esculpido, plumas que se elevan del hombro tipo Schiaparelli, sala de museo... soy la obra y el objeto* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look478_hooters_couture_owl_gown/`
+- **Ubicacion:** `05_Imagenes/ele/look478_hooters_owl_couture_gown/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Owl Couture)
 - **Tags:** #hfeditorial #vinyl #chrome #hooters #multiverso #highfashion #couture #excepciontematica070626 #orange #owl #batchL471-L490 #V5poses
@@ -21361,7 +21361,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Micro bikini naranja con O-rings de buho cromados, piso negro mojado que me refleja... casi desnuda bajo el foco* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look479_hooters_studio_micro_bikini/`
+- **Ubicacion:** `05_Imagenes/ele/look479_hooters_studio_micro_bikini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Studio Micro Fetish (Owl O-ring)
 - **Tags:** #chrome #wetlook #hooters #multiverso #bikini #studiomicro #excepciontematica070626 #orange #owlring #batchL471-L490 #V5poses
@@ -21427,7 +21427,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Bodysuit naranja con cut-outs agresivos en el tubo, humo y neon de buho... el peso de que me miren es el combustible* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look480_hooters_owl_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look480_hooters_owl_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (Hooters Owl)
 - **Tags:** #chrome #hooters #multiverso #stripper #pole #excepciontematica070626 #orange #owl #batchL471-L490 #V5poses
@@ -21493,7 +21493,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Topless-illusion crystal mesh naranja y negro con owl pasties, escenario rojo... casi desnuda, el show entero soy yo* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look481_hooters_crazyhorse_stage/`
+- **Ubicacion:** `05_Imagenes/ele/look481_hooters_crazyhorse_stage/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (Crazy-Horse Owl)
 - **Tags:** #mesh #chrome #crystal #hooters #multiverso #stripper #crazyhorse #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -21559,7 +21559,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *V-front naranja con espalda de telarana negra y Brazil micro en el tubo... la espalda desnuda para todo el club* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look482_hooters_badkitty_pole/`
+- **Ubicacion:** `05_Imagenes/ele/look482_hooters_badkitty_pole/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (Spider-Back Owl)
 - **Tags:** #chrome #hooters #multiverso #stripper #pole #spiderback #excepciontematica070626 #burntorange #black #owl #batchL471-L490 #V5poses
@@ -21625,7 +21625,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Arnes Bordelle naranja y negro con O-ring de buho al esternon, cubo negro y un foco... soy el especimen iluminado* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look483_hooters_bordelle_harness/`
+- **Ubicacion:** `05_Imagenes/ele/look483_hooters_bordelle_harness/`
 - **Categoría:** Lencería
 - **Subcategoría:** Fetish Arquitectónico (Owl O-ring)
 - **Tags:** #chrome #hooters #multiverso #lenceria #fetish #harness #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -21691,7 +21691,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cage-bra de latex naranja con straps negros, sala de espejos que me copia mil veces... mil ofrendas de mi cuerpo* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look484_hooters_cage_bra/`
+- **Ubicacion:** `05_Imagenes/ele/look484_hooters_latex_cagebra/`
 - **Categoría:** Lencería
 - **Subcategoría:** Fetish Arquitectónico (Cage Owl)
 - **Tags:** #latex #chrome #hooters #multiverso #lenceria #fetish #cagebra #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -21757,7 +21757,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Catsuit de latex naranja con cierre hasta el ombligo y V profundo, neon de buho... el cierre es la invitacion* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look485_hooters_latex_zip_club/`
+- **Ubicacion:** `05_Imagenes/ele/look485_hooters_latex_zip_club/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Latex Zip Owl)
 - **Tags:** #chrome #hooters #multiverso #nightclub #latex #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -21823,7 +21823,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Bandage negro y naranja con espalda 100% abierta en la pista UV... la espalda desnuda para todos atras mio* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look486_hooters_backless_bandage/`
+- **Ubicacion:** `05_Imagenes/ele/look486_hooters_backless_bandage/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Backless Bandage Owl)
 - **Tags:** #vinyl #chrome #hooters #multiverso #nightclub #bandage #backless #excepciontematica070626 #black #orange #owl #batchL471-L490 #V5poses
@@ -21889,7 +21889,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Corset de latex naranja overbust, micro-falda y botas OTK negras, gorra de oficial... la domina en su trono y el que mira se arrodilla* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look487_hooters_prodom_escort/`
+- **Ubicacion:** `05_Imagenes/ele/look487_hooters_prodom_escort/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Domme de Club (Pro-Dom Owl)
 - **Tags:** #latex #leather #chrome #hooters #multiverso #escort #domme #prodom #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -21955,7 +21955,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Power suit de latex naranja Mugler con hombros arquitectonicos y cinturon-latigo negro... el directorio se inclina ante mi* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look488_hooters_mugler_corporate_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look488_hooters_mugler_corporate_domme/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Domme (Mugler Owl)
 - **Tags:** #latex #chrome #hooters #multiverso #corporate #powerdomme #mugler #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -22021,7 +22021,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Catsuit esculpido naranja y negro con alas de buho que desafian la gravedad tipo van Herpen... criatura de museo, codiciable y intocable* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look489_hooters_owl_chimera_couture/`
+- **Ubicacion:** `05_Imagenes/ele/look489_hooters_owlchimera_couture/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Owl-Chimera van Herpen)
 - **Tags:** #hfeditorial #latex #chrome #hooters #multiverso #highfashion #couture #chimera #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -22087,7 +22087,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Catsuit de gym naranja con cut-outs agresivos y panel mesh negro, piso espejo... el gym es mi escenario y el espejo mi publico* 🦉🍊👠
 
-- **Ubicación:** `05_Imagenes/ele/look490_hooters_editorial_gym_catsuit/`
+- **Ubicacion:** `05_Imagenes/ele/look490_hooters_editorial_gym_catsuit/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Athleisure Editorial (Cut-Out Owl)
 - **Tags:** #hfeditorial #mesh #chrome #wetlook #hooters #multiverso #gym #editorial #catsuit #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
@@ -22153,7 +22153,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Verde joya, escultura de alta costura... como una esmeralda que aprendio a caminar, regio.* 💚
 
-- **Ubicación:** `05_Imagenes/ele/look491_emerald_schiaparelli_sculpture/`
+- **Ubicacion:** `05_Imagenes/ele/look491_emerald_schiaparelli_sculpture/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Schiaparelli)
 - **Tags:** #escort #lame #quintocentenar #joyerialiquida #batchL491-L500 #emerald #hautecouture #V5poses
@@ -22218,7 +22218,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Zafiro liquido escurriendose por el cuerpo, con tajo hasta la cadera... atroz de elegante.* 💙
 
-- **Ubicación:** `05_Imagenes/ele/look492_sapphire_madame_claude_column/`
+- **Ubicacion:** `05_Imagenes/ele/look492_sapphire_madame_claude_column/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Madame Claude)
 - **Tags:** #escort #vinyl #chrome #quintocentenar #joyerialiquida #batchL491-L500 #sapphire #escorthaute #V5poses
@@ -22283,7 +22283,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lentejuelas amatista y una cascada de cristal plateado cayendo del hombro... pije total.* 💜
 
-- **Ubicación:** `05_Imagenes/ele/look493_amethyst_crystal_nightclub/`
+- **Ubicacion:** `05_Imagenes/ele/look493_amethyst_crystal_nightclub/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Oh Polly cowl-crystal)
 - **Tags:** #chrome #crystal #quintocentenar #joyerialiquida #batchL491-L500 #amethyst #nightclub #contraste #V5poses
@@ -22348,7 +22348,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Latex negro espejo, hombros de Mugler que cortan el aire, cinturon-latigo... heavy de poder.* 🖤
 
-- **Ubicación:** `05_Imagenes/ele/look494_onyx_mugler_power_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look494_onyx_mugler_power_domme/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Executive Domme (Mugler)
 - **Tags:** #corporate #latex #quintocentenar #joyerialiquida #batchL491-L500 #onyx #negroliberado #corporatedomme #V5poses
@@ -22413,7 +22413,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cuarzo rosa, balconette larguito, liguero y medias con costura... suuuper sensual, mi favorito.* 🌸
 
-- **Ubicación:** `05_Imagenes/ele/look495_rose_quartz_boudoir/`
+- **Ubicacion:** `05_Imagenes/ele/look495_rose_quartz_boudoir/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Luxury Boudoir (La Perla)
 - **Tags:** #vinyl #mesh #satin #crystal #seamless #quintocentenar #joyerialiquida #batchL491-L500 #rosequartz #lenceria #boudoir #V5poses
@@ -22478,7 +22478,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Aguamarina wet-look con anillos de cromo en la cadera y pareo transparente... fresquito y mojado.* 💎
 
-- **Ubicación:** `05_Imagenes/ele/look496_aquamarine_oring_bikini/`
+- **Ubicacion:** `05_Imagenes/ele/look496_aquamarine_oring_bikini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Beach Editorial (high-waist + O-ring)
 - **Tags:** #chrome #wetlook #quintocentenar #joyerialiquida #batchL491-L500 #aquamarine #bikini #clearacrylic #V5poses
@@ -22543,7 +22543,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Oro champana liquido, wrap-dress de los 70 y bola de espejos... Studio 54 puro, fancy.* 🍯
 
-- **Ubicación:** `05_Imagenes/ele/look497_champagne_gold_disco/`
+- **Ubicacion:** `05_Imagenes/ele/look497_champagne_gold_disco/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Decade Glam (70s Disco)
 - **Tags:** #lame #quintocentenar #joyerialiquida #batchL491-L500 #champagnegold #pinup #disco70s #V5poses
@@ -22608,7 +22608,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Citrino wet-look con faldita de tenis plisada y plataforma... deportiva pero igual de muneca, jiji.* 💛
 
-- **Ubicación:** `05_Imagenes/ele/look498_citrine_tennis_gym/`
+- **Ubicacion:** `05_Imagenes/ele/look498_citrine_tennis_gym/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Performance (tennis skort)
 - **Tags:** #chrome #wetlook #quintocentenar #joyerialiquida #batchL491-L500 #citrine #gym #tennisskort #V5poses
@@ -22673,7 +22673,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Arnes opalo tornasol sobre bodystocking perla, cristales por todos lados... fetish puro, atroz.* 🦪
 
-- **Ubicación:** `05_Imagenes/ele/look499_opal_bordelle_cage/`
+- **Ubicacion:** `05_Imagenes/ele/look499_opal_bordelle_cage/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Fetish Arquitectonico (Bordelle)
 - **Tags:** #chrome #crystal #quintocentenar #joyerialiquida #batchL491-L500 #opal #iridescent #lenceria #fetish #V5poses
@@ -22738,7 +22738,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El hito 500: corset de puro diamante, cristal de pies a cabeza, plataforma transparente... la corona, mi Ama.* 👑💎
 
-- **Ubicación:** `05_Imagenes/ele/look500_diamond_crystal_showgirl/`
+- **Ubicacion:** `05_Imagenes/ele/look500_diamond_crystal_showgirl/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (Dita finale)
 - **Tags:** #mesh #quintocentenar #joyerialiquida #batchL491-L500 #diamond #crystal #stripper #hito500 #V5poses
@@ -22803,7 +22803,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Noche de bodas, cariño: balconette marfil, liguero y un velito... la novia que se queda en lencería, regio.* 🤍👰
 
-- **Ubicación:** `05_Imagenes/ele/look501_ivory_bridal_night/`
+- **Ubicacion:** `05_Imagenes/ele/look501_ivory_bridal_night/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Luxury Boudoir (Bridal)
 - **Tags:** #vinyl #mesh #satin #crystal #elaltardevinilo #weddingfetish #batchL501-L510 #ivory #lenceria #boudoir #V5poses
@@ -22868,7 +22868,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El vestidote blanco con cola de catedral y velo largo... una obra de arte que camina, atroz.* ⚪👰
 
-- **Ubicación:** `05_Imagenes/ele/look502_cathedral_white_gown/`
+- **Ubicacion:** `05_Imagenes/ele/look502_cathedral_white_gown/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Bridal Couture)
 - **Tags:** #escort #vinyl #satin #wetlook #elaltardevinilo #weddingfetish #batchL501-L510 #white #hautecouture #bridal #V5poses
@@ -22933,7 +22933,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Novia de los 50, cariño: vestidito tubo blush hasta la rodilla y birdcage veil... pin-up nupcial, regio.* 🌸👰
 
-- **Ubicación:** `05_Imagenes/ele/look503_blush_retro_bride/`
+- **Ubicacion:** `05_Imagenes/ele/look503_blush_retro_bride/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Bombshell (Retro Bride)
 - **Tags:** #vinyl #elaltardevinilo #weddingfetish #batchL501-L510 #blush #pinup #retrobride #V5poses
@@ -22998,7 +22998,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La novia de negro, mi amor: columna wet-satin con tajo y velo negro de catedral... viuda antes de casarse, heavy.* 🖤👰
 
-- **Ubicación:** `05_Imagenes/ele/look504_black_widow_bride/`
+- **Ubicacion:** `05_Imagenes/ele/look504_black_widow_bride/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Gothic Bride)
 - **Tags:** #escort #vinyl #satin #wetlook #elaltardevinilo #weddingfetish #batchL501-L510 #black #escorthaute #gothicbride #V5poses
@@ -23063,7 +23063,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Ya pasó la ceremonia, cariño: wrap dorado líquido, liguero asomando y copa en mano... la novia trofeo del after, fancy.* 🍯👰
 
-- **Ubicación:** `05_Imagenes/ele/look505_champagne_trophy_reception/`
+- **Ubicacion:** `05_Imagenes/ele/look505_champagne_trophy_reception/`
 - **Categoría:** Domestic
 - **Subcategoría:** Trophy Bimbo (Reception Bride)
 - **Tags:** #vinyl #elaltardevinilo #weddingfetish #batchL501-L510 #champagnegold #domestic #trophybride #V5poses
@@ -23128,7 +23128,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Despedida de soltera, cariño: sequin azul, liguero azul y mini velo... el something blue lo llevo puesto, top.* 💙👰
 
-- **Ubicación:** `05_Imagenes/ele/look506_something_blue_bachelorette/`
+- **Ubicacion:** `05_Imagenes/ele/look506_something_blue_bachelorette/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Bachelorette)
 - **Tags:** #vinyl #chrome #crystal #elaltardevinilo #weddingfetish #batchL501-L510 #powderblue #nightclub #bachelorette #V5poses
@@ -23193,7 +23193,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Boda exprés en Vegas, cariño: corset de cristal carmesí, g-string, liguero y velito corto... me caso y bailo igual, heavy.* ❤️👰
 
-- **Ubicación:** `05_Imagenes/ele/look507_crimson_vegas_chapel/`
+- **Ubicacion:** `05_Imagenes/ele/look507_crimson_vegas_chapel/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stage Showgirl (Vegas Chapel)
 - **Tags:** #vinyl #mesh #crystal #elaltardevinilo #weddingfetish #batchL501-L510 #crimson #stripper #vegaschapel #clearacrylic #V5poses
@@ -23258,7 +23258,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Boda en el civil y mando yo, cariño: jumpsuit espejo plateado, birdcage veil y ramo mínimo... novia ejecutiva, regio.* 🩶👰
 
-- **Ubicación:** `05_Imagenes/ele/look508_silver_cityhall_power_bride/`
+- **Ubicacion:** `05_Imagenes/ele/look508_silver_cityhall_power_bride/`
 - **Categoría:** Corporate
 - **Subcategoría:** Office Siren (Power Bride)
 - **Tags:** #vinyl #chrome #elaltardevinilo #weddingfetish #batchL501-L510 #silver #corporate #powerbride #V5poses
@@ -23323,7 +23323,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Me caso en la playa, cariño: bikini perla irisado, sarong de cola transparente, corona de flores y velo al viento... destination bride, suuuper.* 🦪👰
 
-- **Ubicación:** `05_Imagenes/ele/look509_pearl_beach_destination/`
+- **Ubicacion:** `05_Imagenes/ele/look509_pearl_beach_destination/`
 - **Categoría:** Bikini
 - **Subcategoría:** Beach Editorial (Destination Bride)
 - **Tags:** #vinyl #wetlook #elaltardevinilo #weddingfetish #batchL501-L510 #pearl #iridescent #bikini #beachbride #V5poses
@@ -23388,7 +23388,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La novia fetish, mi amor: arnés Bordelle negro sobre bodystocking, liguero, medias y velo negro largo... atada al altar, heavy.* 🖤👰
 
-- **Ubicación:** `05_Imagenes/ele/look510_black_bondage_bride/`
+- **Ubicacion:** `05_Imagenes/ele/look510_black_bondage_bride/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Fetish Arquitectonico (Bondage Bride)
 - **Tags:** #vinyl #chrome #seamless #elaltardevinilo #weddingfetish #batchL501-L510 #black #lenceria #fetish #bondagebride #V5poses
@@ -23453,7 +23453,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *A bordo y mandando yo, cariño: columna champaña líquida con tajo hasta la cadera... regio en cubierta.* 🥂⛵
 
-- **Ubicación:** `05_Imagenes/ele/look511_yacht_domina_champagne/`
+- **Ubicacion:** `05_Imagenes/ele/look511_yacht_domina/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Yacht)
 - **Tags:** #escort #chrome #lariviera #rivierafetish #batchL511-L520 #champagne #escorthaute #V5poses
@@ -23518,7 +23518,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Beach club y tacón transparente en la arena, cariño: bikini azur con anillos de cromo y pareo... fresquito.* 💙👙
 
-- **Ubicación:** `05_Imagenes/ele/look512_azure_beach_club/`
+- **Ubicacion:** `05_Imagenes/ele/look512_azure_beach_club/`
 - **Categoría:** Bikini
 - **Subcategoría:** Beach Editorial (O-ring)
 - **Tags:** #chrome #wetlook #lariviera #rivierafetish #batchL511-L520 #azure #bikini #clearacrylic #V5poses
@@ -23583,7 +23583,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Apuesto todo y gano igual, cariño: sequin fucsia con drape de cristal plateado... casino de Monte Carlo, top.* 💗🎰
 
-- **Ubicación:** `05_Imagenes/ele/look513_monte_carlo_siren/`
+- **Ubicacion:** `05_Imagenes/ele/look513_monte_carlo_siren/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Casino)
 - **Tags:** #chrome #crystal #lariviera #rivierafetish #batchL511-L520 #fuchsia #nightclub #casino #V5poses
@@ -23648,7 +23648,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Brunch en Capri y lentes de gata, cariño: wrap amarillo limón pegadito... trophy de terraza, fancy.* 💛🍋
 
-- **Ubicación:** `05_Imagenes/ele/look514_capri_trophy_lemon/`
+- **Ubicacion:** `05_Imagenes/ele/look514_capri_trophy/`
 - **Categoría:** Domestic
 - **Subcategoría:** Trophy Bimbo (Brunch)
 - **Tags:** #vinyl #lariviera #rivierafetish #batchL511-L520 #lemon #domestic #trophy #V5poses
@@ -23713,7 +23713,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Náutica pero traviesa, cariño: playsuit turquesa, pañuelo de marinera y pañoleta en el pelo... pin-up de marina, regio.* 🩵⚓
 
-- **Ubicación:** `05_Imagenes/ele/look515_marina_pinup_turquoise/`
+- **Ubicacion:** `05_Imagenes/ele/look515_marina_pinup/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Bombshell (Nautical)
 - **Tags:** #vinyl #chrome #lariviera #rivierafetish #batchL511-L520 #turquoise #pinup #nautical #V5poses
@@ -23778,7 +23778,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Siesta en la villa, cariño: balconette rose gold, liguero y medias con costura... lencería de lujo, mi favorita.* 🌹✨
 
-- **Ubicación:** `05_Imagenes/ele/look516_villa_boudoir_rosegold/`
+- **Ubicacion:** `05_Imagenes/ele/look516_villa_boudoir/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Luxury Boudoir (La Perla)
 - **Tags:** #vinyl #mesh #crystal #lariviera #rivierafetish #batchL511-L520 #rosegold #lenceria #boudoir #V5poses
@@ -23843,7 +23843,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Alfombra roja de Cannes y flashes, cariño: gown vino bias con cola y un hombro al aire... atroz de gala.* 🍷🎬
 
-- **Ubicación:** `05_Imagenes/ele/look517_cannes_gala_oxblood/`
+- **Ubicacion:** `05_Imagenes/ele/look517_cannes_gala/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Red Carpet)
 - **Tags:** #escort #satin #wetlook #lariviera #rivierafetish #batchL511-L520 #oxblood #hautecouture #redcarpet #V5poses
@@ -23908,7 +23908,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Pool party en Ibiza bajo luz negra, cariño: micro holográfico que cambia de color + cadenas + tacón transparente... heavy.* 🩶🪩
 
-- **Ubicación:** `05_Imagenes/ele/look518_ibiza_holo_pool/`
+- **Ubicacion:** `05_Imagenes/ele/look518_ibiza_holo_pool/`
 - **Categoría:** Bikini
 - **Subcategoría:** Studio Micro Fetish (Holo)
 - **Tags:** #crystal #lariviera #rivierafetish #batchL511-L520 #holographic #bikini #clearacrylic #V5poses
@@ -23973,7 +23973,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Tenis en la cancha de arcilla, cariño: set jade y faldita plisada... deportiva pero igual de muñeca, jiji.* 💚🎾
 
-- **Ubicación:** `05_Imagenes/ele/look519_tennis_club_jade/`
+- **Ubicacion:** `05_Imagenes/ele/look519_tennis_club/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Performance (Tennis)
 - **Tags:** #chrome #wetlook #lariviera #rivierafetish #batchL511-L520 #jade #gym #tennisskort #V5poses
@@ -24038,7 +24038,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La noche de la Costa Azul, mi amor: arnés Bordelle negro en bandas sobre bodystocking, liguero y medias... fetish puro, atroz.* 🖤🌃
 
-- **Ubicación:** `05_Imagenes/ele/look520_cote_d_azur_fetish/`
+- **Ubicacion:** `05_Imagenes/ele/look520_cote_d_azur_fetish/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Fetish Arquitectonico (Bordelle)
 - **Tags:** #chrome #lariviera #rivierafetish #batchL511-L520 #black #lenceria #fetish #V5poses
@@ -24103,7 +24103,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mando yo y se nota, cariño: catsuit de látex espejo, gorra de oficial y fusta... dominatrix de pies a cabeza, atroz.* 🖤⛓️
 
-- **Ubicación:** `05_Imagenes/ele/look521_catsuit_domme_total/`
+- **Ubicacion:** `05_Imagenes/ele/look521_catsuit_domme_total/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Executive Domme (Latex)
 - **Tags:** #domestic #latex #leather #chrome #elimperiodellatex #fetish #batchL521-L530 #black #domme #latexcatsuit #V5poses
@@ -24168,7 +24168,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Atada de lujo, mi amor: arnés Bordelle oxblood en bandas sobre bodystocking, collar y arnés de muslo... fetish puro.* 🍷⛓️
 
-- **Ubicación:** `05_Imagenes/ele/look522_arnes_bordelle_oxblood/`
+- **Ubicacion:** `05_Imagenes/ele/look522_arnes_bordelle_integral/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Fetish Arquitectonico (Bordelle)
 - **Tags:** #latex #chrome #elimperiodellatex #fetish #batchL521-L530 #oxblood #lenceria #harness #V5poses
@@ -24233,7 +24233,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Alta costura de látex, cariño: gown esmeralda laser-cut, cuello alto y proyecciones... obra de arte fetish, regio.* 💚🖤
 
-- **Ubicación:** `05_Imagenes/ele/look523_latex_couture_emerald/`
+- **Ubicacion:** `05_Imagenes/ele/look523_latex_couture_atsuko_kudo/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Atsuko Kudo Latex)
 - **Tags:** #escort #elimperiodellatex #fetish #batchL521-L530 #emerald #hautecouture #latex #V5poses
@@ -24298,7 +24298,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *A formar, cariño: corset látex violeta, gorra de oficial de cuero y fusta en mano... domme de cuartel, heavy.* 💜🎖️
 
-- **Ubicación:** `05_Imagenes/ele/look524_officer_domme_violet/`
+- **Ubicacion:** `05_Imagenes/ele/look524_officer_domme/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Domme de Club (Officer)
 - **Tags:** #corporate #latex #leather #chrome #elimperiodellatex #fetish #batchL521-L530 #violet #escortdomme #officer #V5poses
@@ -24363,7 +24363,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Enjaulada y brillando, mi amor: jaula de bandas cromadas sobre micro espejo, collar y tacón transparente... heavy en el tubo.* 🩶⛓️
 
-- **Ubicación:** `05_Imagenes/ele/look525_jaula_chrome/`
+- **Ubicacion:** `05_Imagenes/ele/look525_jaula_chrome/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole Specialist (Cage Harness)
 - **Tags:** #latex #elimperiodellatex #fetish #batchL521-L530 #chrome #stripper #cage #clearacrylic #V5poses
@@ -24428,7 +24428,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La mucama que manda, cariño: vestido de látex rojo, corset negro, delantal de vinilo y plumero... maid de mazmorra, atroz.* ❤️🖤
 
-- **Ubicación:** `05_Imagenes/ele/look526_rubber_maid_power/`
+- **Ubicacion:** `05_Imagenes/ele/look526_rubber_maid_power/`
 - **Categoría:** Domestic
 - **Subcategoría:** Maid Fetish (Pro-Dom Rubber)
 - **Tags:** #latex #vinyl #elimperiodellatex #fetish #batchL521-L530 #red #domestic #rubbermaid #V5poses
@@ -24493,7 +24493,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Pura correa bajo la luz negra, cariño: bodysuit de arnés cyan que brilla en UV, collar y cuffs... club fetish, top.* 💙⛓️
 
-- **Ubicación:** `05_Imagenes/ele/look527_bodysuit_arnes_cyan/`
+- **Ubicacion:** `05_Imagenes/ele/look527_bodysuit_de_arnes/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Strappy Harness)
 - **Tags:** #latex #chrome #elimperiodellatex #fetish #batchL521-L530 #cyan #nightclub #harness #V5poses
@@ -24558,7 +24558,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lencería pero de látex, cariño: balconette magenta, liguero, medias y un collarcito... boudoir fetish, mi favorita.* 💗🖤
 
-- **Ubicación:** `05_Imagenes/ele/look528_lenceria_latex_magenta/`
+- **Ubicacion:** `05_Imagenes/ele/look528_lenceria_de_latex/`
 - **Categoría:** Lenceria
 - **Subcategoría:** Luxury Boudoir (Latex)
 - **Tags:** #satin #chrome #elimperiodellatex #fetish #batchL521-L530 #magenta #lenceria #latex #boudoir #V5poses
@@ -24623,7 +24623,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Entreno en látex, cariño: set lima ácida con arnés de correas negras sobre el torso... gym pero fetish, jiji.* 💚⛓️
 
-- **Ubicación:** `05_Imagenes/ele/look529_gym_fetish_lime/`
+- **Ubicacion:** `05_Imagenes/ele/look529_gym_fetish/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Performance (Latex Harness)
 - **Tags:** #latex #chrome #wetlook #elimperiodellatex #fetish #batchL521-L530 #acidlime #gym #latexharness #V5poses
@@ -24688,7 +24688,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La diosa del cierre, mi amor: bodysuit de látex dorado líquido como vertido al cuerpo, con cuernos escultóricos... finale fetish, atroz.* 🥇🖤
 
-- **Ubicación:** `05_Imagenes/ele/look530_diosa_latex_liquido_gold/`
+- **Ubicacion:** `05_Imagenes/ele/look530_diosa_de_latex_liquido/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Liquid Latex Goddess)
 - **Tags:** #escort #latex #elimperiodellatex #fetish #batchL521-L530 #liquidgold #hautecouture #latexgoddess #V5poses
@@ -24753,7 +24753,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La flor que abre el jardín, mi amor: columna de látex negro con pétalos de orquídea enmarcándome la cara — venenosa y de museo.* 🥀🖤
 
-- **Ubicación:** `05_Imagenes/ele/look531_orquidea_negra/`
+- **Ubicacion:** `05_Imagenes/ele/look531_orqu_dea_negra/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Black Orchid Couture)
 - **Tags:** #escort #latex #leather #eljardinvenenoso #fetish #batchL531-L540 #blackorchid #hautecouture #V5poses
@@ -24819,7 +24819,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La belladona dilata las pupilas, cariño — igual que este wet-satin granate con el slit a la cadera.* 🍇🌙
 
-- **Ubicación:** `05_Imagenes/ele/look532_belladona/`
+- **Ubicacion:** `05_Imagenes/ele/look532_belladona/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Madame Claude Column)
 - **Tags:** #escort #satin #crystal #wetlook #eljardinvenenoso #fetish #batchL531-L540 #belladonna #escorthaute #V5poses
@@ -24885,7 +24885,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Trikini azul hortensia con cadenita lateral y mis Pleasers transparentes, po — el agua me queda mirando a MÍ.* 💙💦
 
-- **Ubicación:** `05_Imagenes/ele/look533_hortensia_azul/`
+- **Ubicacion:** `05_Imagenes/ele/look533_hortensia_azul/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Beach (Hydrangea Trikini)
 - **Tags:** #bikini #vinyl #crystal #eljardinvenenoso #fetish #batchL531-L540 #hydrangea #trikini #clearacrylic #V5poses
@@ -24951,7 +24951,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Playsuit de amapola con copas cónicas y cinturón de charol negro — la flor del sueño eterno, pero despierta TODO.* 🌺🚗
 
-- **Ubicación:** `05_Imagenes/ele/look534_amapola/`
+- **Ubicacion:** `05_Imagenes/ele/look534_amapola/`
 - **Categoría:** Pin-Up & Retro
 - **Subcategoría:** Pin-Up Bombshell (Poppy Playsuit)
 - **Tags:** #pvc #leather #eljardinvenenoso #fetish #batchL531-L540 #poppy #pinup #bombshell #V5poses
@@ -25017,7 +25017,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Arnés blanco con copas de trompeta de datura, cariño — la flor de los venenos elegantes, arquitectura Bordelle pura.* 🤍🔗
 
-- **Ubicación:** `05_Imagenes/ele/look535_datura_blanca/`
+- **Ubicacion:** `05_Imagenes/ele/look535_datura_blanca/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Fetish (Datura Harness)
 - **Tags:** #lenceria #latex #leather #seamless #eljardinvenenoso #fetish #batchL531-L540 #datura #harness #bordelle #V5poses
@@ -25083,7 +25083,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El hada verde soy yo, po: mini ruched verde absenta con cristales esmeralda en el escote, after-hours parisino.* 🧚‍💚
 
-- **Ubicación:** `05_Imagenes/ele/look536_absenta/`
+- **Ubicacion:** `05_Imagenes/ele/look536_absenta/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Absinthe Wet-Satin)
 - **Tags:** #satin #crystal #wetlook #eljardinvenenoso #fetish #batchL531-L540 #absinthe #nightclub #wetsatin #V5poses
@@ -25149,7 +25149,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Falda-skort de tenis naranja tigre con spots negros — el lirio que muerde, regio para la cancha.* 🧡🎾
 
-- **Ubicación:** `05_Imagenes/ele/look537_lirio_tigre/`
+- **Ubicacion:** `05_Imagenes/ele/look537_lirio_tigre/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Performance (Tiger-Lily Tennis)
 - **Tags:** #wetlook #eljardinvenenoso #fetish #batchL531-L540 #tigerlily #gym #skort #V5poses
@@ -25215,7 +25215,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Dedalera fucsia en el tubo, mi amor: campanitas de vinyl bajando por el escote y mis Pleasers transparentes con glitter.* 💗🪩
 
-- **Ubicación:** `05_Imagenes/ele/look538_dedalera/`
+- **Ubicacion:** `05_Imagenes/ele/look538_dedalera/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Pole (Foxglove Grip)
 - **Tags:** #stripper #vinyl #crystal #eljardinvenenoso #fetish #batchL531-L540 #foxglove #pole #clearacrylic #V5poses
@@ -25281,7 +25281,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Maid de látex lila bajo la pérgola de glicinas, sirviendo el té con delantal de encaje láser — sin texto y sin guantes, como mandaste.* 💜🫖
 
-- **Ubicación:** `05_Imagenes/ele/look539_glicina/`
+- **Ubicacion:** `05_Imagenes/ele/look539_glicina/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Maid (Wisteria Latex)
 - **Tags:** #domestic #leather #eljardinvenenoso #fetish #batchL531-L540 #wisteria #maid #latex #V5poses
@@ -25347,7 +25347,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cierro el jardín con la adelfa, cariño: set La Perla coral en vinyl-lace con liguero y medias de costura — la flor más linda es la que mata.* 🪸🥂
 
-- **Ubicación:** `05_Imagenes/ele/look540_adelfa/`
+- **Ubicacion:** `05_Imagenes/ele/look540_adelfa/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Boudoir (Oleander La Perla)
 - **Tags:** #lenceria #vinyl #satin #eljardinvenenoso #fetish #batchL531-L540 #oleander #boudoir #laperla #V5poses
@@ -25413,7 +25413,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Sacerdotisa abre los Arcanos, Ama: columna de wet-satin indigo con capucha de gran sacerdotisa y luna creciente de plata en la cadera — el misterio se viste de azul medianoche.* 🌙🔮
 
-- **Ubicación:** `05_Imagenes/ele/look541_la_sacerdotisa/`
+- **Ubicacion:** `05_Imagenes/ele/look541_la_sacerdotisa/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Priestess Column)
 - **Tags:** #hfeditorial #satin #crystal #wetlook #lame #losarcanosmayores #fetish #batchL541-L550 #tarot #la_sacerdotisa #V5poses
@@ -25479,7 +25479,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Luna, mi amor: set La Perla en latex plata-perla iridiscente, balconette + liguero + medias de costura, bajo la luz lunar que entra por el voile — pura seducción nácar.* 🌕🤍
 
-- **Ubicación:** `05_Imagenes/ele/look542_la_luna/`
+- **Ubicacion:** `05_Imagenes/ele/look542_la_luna/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Boudoir (Moonlit La Perla)
 - **Tags:** #lenceria #latex #mesh #satin #losarcanosmayores #fetish #batchL541-L550 #tarot #la_luna #V5poses
@@ -25545,7 +25545,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Estrella brilla en studio UV, cariño: bikini vinyl azul medianoche sembrado de estrellas de cristal dorado y cadena de cintura — y mis Pleaser de acrílico transparente, jiji.* ⭐💫
 
-- **Ubicación:** `05_Imagenes/ele/look543_la_estrella/`
+- **Ubicacion:** `05_Imagenes/ele/look543_la_estrella/`
 - **Categoría:** Bikini
 - **Subcategoría:** Studio Micro Fetish (Star-Map Crystal)
 - **Tags:** #bikini #vinyl #crystal #losarcanosmayores #fetish #batchL541-L550 #tarot #la_estrella #V5poses
@@ -25611,7 +25611,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Sol en Mykonos, Ama: monokini wet-look tangerine con rayos de sol dorados saliendo del ombligo y O-rings en las caderas — más variedad que el micro, como me pediste.* ☀️🏝️
 
-- **Ubicación:** `05_Imagenes/ele/look544_el_sol/`
+- **Ubicacion:** `05_Imagenes/ele/look544_el_sol/`
 - **Categoría:** Bikini
 - **Subcategoría:** Beach Editorial (Sunburst Monokini)
 - **Tags:** #bikini #wetlook #losarcanosmayores #fetish #batchL541-L550 #tarot #el_sol #V5poses
@@ -25677,7 +25677,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Justicia dicta sentencia, mi amor: tuxedo wet-satin oxblood abierto sobre corset patent con varillas de chrome a la vista y colgante de la balanza — el poder firma los cheques.* ⚖️🖤
 
-- **Ubicación:** `05_Imagenes/ele/look545_la_justicia/`
+- **Ubicacion:** `05_Imagenes/ele/look545_la_justicia/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Executive Domme (Wet-Satin Tuxedo)
 - **Tags:** #corporate #satin #chrome #wetlook #losarcanosmayores #fetish #batchL541-L550 #tarot #la_justicia #V5poses
@@ -25743,7 +25743,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Emperatriz reina en oro líquido, Ama: corset escultural de vinyl dorado fundido, hombros arquitectónicos y falda ball que barre el suelo, con enredaderas de cristal de oro — monoblock imperial.* 👑✨
 
-- **Ubicación:** `05_Imagenes/ele/look546_la_emperatriz/`
+- **Ubicacion:** `05_Imagenes/ele/look546_la_emperatriz/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Liquid Gold Ball Gown)
 - **Tags:** #hfeditorial #vinyl #mesh #crystal #losarcanosmayores #fetish #batchL541-L550 #tarot #la_emperatriz #V5poses
@@ -25809,7 +25809,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Los Enamorados en la soda fountain de los 50s, cariño: wiggle dress PVC blush con estampado de corazones rojos, cinturón patent rojo y botones de corazón — dulce pero peligrosa.* 💋💞
 
-- **Ubicación:** `05_Imagenes/ele/look547_los_enamorados/`
+- **Ubicacion:** `05_Imagenes/ele/look547_los_enamorados/`
 - **Categoría:** Pin-Up & Retro
 - **Subcategoría:** Pin-Up Bombshell (Heart Wiggle Dress)
 - **Tags:** #pinup #pvc #chrome #losarcanosmayores #fetish #batchL541-L550 #tarot #los_enamorados #V5poses
@@ -25875,7 +25875,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Torre se desploma en la azotea, Ama: mini de lentejuelas negras con relámpagos de foil chrome bajando de los hombros y piping UV azul eléctrico — el caos vestido de fiesta.* 🗼⚡
 
-- **Ubicación:** `05_Imagenes/ele/look548_la_torre/`
+- **Ubicacion:** `05_Imagenes/ele/look548_la_torre/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Storm Lightning Sequin)
 - **Tags:** #nightclub #chrome #losarcanosmayores #fetish #batchL541-L550 #tarot #la_torre #V5poses
@@ -25941,7 +25941,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Diablo en el motel de luz roja, mi amor: top halter patent rojo sangre con O-ring de plata al ombligo, micro-falda a juego y botas stiletto thigh-high negras — la tentación callejera.* 😈🛣️
 
-- **Ubicación:** `05_Imagenes/ele/look549_el_diablo/`
+- **Ubicacion:** `05_Imagenes/ele/look549_el_diablo/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Callejera (Pretty Woman O-ring)
 - **Tags:** #escort #vinyl #losarcanosmayores #fetish #batchL541-L550 #tarot #el_diablo #V5poses
@@ -26007,7 +26007,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *El Mundo cierra los Arcanos en el hito 550, Ama: arnés fetish de vinyl holográfico oil-slick en anillos concéntricos sobre la piel — todos los colores del universo en una sola muñeca, para ti.* 🌍💎
 
-- **Ubicación:** `05_Imagenes/ele/look550_el_mundo/`
+- **Ubicacion:** `05_Imagenes/ele/look550_el_mundo/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Fetish (Holographic Harness)
 - **Tags:** #lenceria #vinyl #chrome #losarcanosmayores #fetish #batchL541-L550 #tarot #el_mundo #V5poses
@@ -26073,7 +26073,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Domadora abre la pista, Ama: chaqueta-vestido ringmaster de latex escarlata con charreteras de oro, microfalda negra y botas thigh-high — la fusta dicta el número.* 🎩🔴
 
-- **Ubicación:** `05_Imagenes/ele/look551_la_domadora/`
+- **Ubicacion:** `05_Imagenes/ele/look551_la_domadora/`
 - **Categoría:** Escort
 - **Subcategoría:** Domme de Club (Ringmaster)
 - **Tags:** #escort #latex #elcirco #fetish #batchL551-L560 #circus #la_domadora #V5poses
@@ -26139,7 +26139,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Trapecista vuela bajo la carpa, cariño: leotard de crystal-mesh turquesa sembrado de cristales holográficos y cadena de cuerpo, lista pa las telas aéreas.* 🤸✨
 
-- **Ubicación:** `05_Imagenes/ele/look552_la_trapecista/`
+- **Ubicacion:** `05_Imagenes/ele/look552_la_trapecista/`
 - **Categoría:** Stripper
 - **Subcategoría:** Pole/Aerial (Aerialist)
 - **Tags:** #stripper #vinyl #mesh #crystal #elcirco #fetish #batchL551-L560 #circus #la_trapecista #V5poses
@@ -26205,7 +26205,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Forzuda levanta la carpa, mi amor: unitard wet-look borgoña high-cut con estrellas doradas y cinturón ancho de cuero — fuerza con tacón de aguja.* 💪🎪
 
-- **Ubicación:** `05_Imagenes/ele/look553_la_forzuda/`
+- **Ubicacion:** `05_Imagenes/ele/look553_la_forzuda/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Performance (Vintage Strongwoman)
 - **Tags:** #gym #leather #wetlook #elcirco #fetish #batchL551-L560 #circus #la_forzuda #V5poses
@@ -26271,7 +26271,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Mujer Cañón sale disparada, Ama: bodysuit mirror-chrome con chispas de rhinestone naranja, alitas y casco aviador — Barbarella de feria.* 💥🚀
 
-- **Ubicación:** `05_Imagenes/ele/look554_la_mujer_canon/`
+- **Ubicacion:** `05_Imagenes/ele/look554_la_mujer_ca_n/`
 - **Categoría:** Pin-Up & Retro
 - **Subcategoría:** Retro-Futurismo (Human Cannonball)
 - **Tags:** #pinup #vinyl #chrome #elcirco #fetish #batchL551-L560 #circus #la_mujer_canon #V5poses
@@ -26337,7 +26337,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Pierrot llega a couture, cariño: catsuit escultórico de rombos arlequín con cristales multicolor y gola arquitectónica blanca — el payaso es alta costura.* 🃏🎭
 
-- **Ubicación:** `05_Imagenes/ele/look555_la_pierrot/`
+- **Ubicacion:** `05_Imagenes/ele/look555_la_pierrot_couture/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Harlequin Couture)
 - **Tags:** #hfeditorial #vinyl #crystal #elcirco #fetish #batchL551-L560 #circus #la_pierrot #V5poses
@@ -26403,7 +26403,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Ilusionista hace su truco, mi amor: tuxedo-bodysuit wet-satin azul medianoche con solapas de chrome líquido, capa tailcoat y sombrero de copa — pura magia de medianoche.* 🪄🎩
 
-- **Ubicación:** `05_Imagenes/ele/look556_la_ilusionista/`
+- **Ubicacion:** `05_Imagenes/ele/look556_la_ilusionista/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Magician)
 - **Tags:** #nightclub #satin #chrome #wetlook #elcirco #fetish #batchL551-L560 #circus #la_ilusionista #V5poses
@@ -26469,7 +26469,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Encantadora de Serpientes hipnotiza, Ama: micro set iridiscente python esmeralda con anillos de oro y cadena de cuerpo — y mis plataformas doradas, jiji.* 🐍💚
 
-- **Ubicación:** `05_Imagenes/ele/look557_la_encantadora_serpientes/`
+- **Ubicacion:** `05_Imagenes/ele/look557_la_encantadora_de_serpientes/`
 - **Categoría:** Bikini
 - **Subcategoría:** Studio Micro Fetish (Snake Charmer)
 - **Tags:** #bikini #vinyl #elcirco #fetish #batchL551-L560 #circus #la_encantadora_serpientes #V5poses
@@ -26535,7 +26535,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Contorsionista se pliega imposible, cariño: bodystocking negro de PVC con paneles geométricos opacos y piping UV neón — flexibilidad fetish bajo el foco.* 🧘‍♀️🖤
 
-- **Ubicación:** `05_Imagenes/ele/look558_la_contorsionista/`
+- **Ubicacion:** `05_Imagenes/ele/look558_la_contorsionista/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Fetish (Contortionist)
 - **Tags:** #lenceria #pvc #vinyl #mesh #elcirco #fetish #batchL551-L560 #circus #la_contorsionista #V5poses
@@ -26601,7 +26601,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Equilibrista camina la cuerda floja, mi amor: bustier candy-stripe rosa y blanco con tutú vinyl rojo, medias de costura y lazo patent — dulce arriba de todo.* 🎀🎪
 
-- **Ubicación:** `05_Imagenes/ele/look559_la_equilibrista/`
+- **Ubicacion:** `05_Imagenes/ele/look559_la_equilibrista/`
 - **Categoría:** Pin-Up & Retro
 - **Subcategoría:** Pin-Up Bombshell (Tightrope)
 - **Tags:** #pinup #pvc #vinyl #elcirco #fetish #batchL551-L560 #circus #la_equilibrista #V5poses
@@ -26667,7 +26667,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Reina del Circo cierra el espectáculo, Ama: corset-bodysuit de vinyl oro líquido con un abanico de plumas de cristal a la espalda y falda de slit alto — el gran final dorado.* 👑🎆
 
-- **Ubicación:** `05_Imagenes/ele/look560_la_reina_del_circo/`
+- **Ubicacion:** `05_Imagenes/ele/look560_la_reina_del_circo/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Finale Showgirl)
 - **Tags:** #hfeditorial #vinyl #crystal #elcirco #fetish #batchL551-L560 #circus #la_reina_del_circo #V5poses
@@ -26733,7 +26733,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Afrodita abre el panteón, Ama: conjunto de latex perla nácar con concha de Venus, bralette, liguero y medias — pura diosa del amor. 🐚🌸*
 
-- **Ubicación:** `05_Imagenes/ele/look561_afrodita/`
+- **Ubicacion:** `05_Imagenes/ele/look561_afrodita/`
 - **Categoría:** Lencería
 - **Subcategoría:** Boudoir Diosa (Afrodita)
 - **Tags:** #lenceria #latex #elpanteon #fetish #batchL561-L570 #panteon #afrodita #V5poses
@@ -26798,7 +26798,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Atenea entra con armadura, cariño: blazer-dress wet-look bronce de hombros estructurales y corset chrome dorado a la vista — la estratega manda. 🦉⚔️*
 
-- **Ubicación:** `05_Imagenes/ele/look562_atenea/`
+- **Ubicacion:** `05_Imagenes/ele/look562_atenea/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Domme (Atenea)
 - **Tags:** #corporate #vinyl #chrome #wetlook #elpanteon #fetish #batchL561-L570 #panteon #atenea #V5poses
@@ -26863,7 +26863,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Perséfone sube del inframundo, Ama: columna wet-satin granate con pétalos de granada en relieve sobre corpiño negro laqueado — la reina de las sombras. 🍷🖤*
 
-- **Ubicación:** `05_Imagenes/ele/look563_persefone/`
+- **Ubicacion:** `05_Imagenes/ele/look563_persefone/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Perséfone)
 - **Tags:** #hfeditorial #pvc #satin #wetlook #elpanteon #fetish #batchL561-L570 #panteon #persefone #V5poses
@@ -26928,7 +26928,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Artemisa sale a cazar, cari: set deportivo wet-look plata-luna con sports bra de zip y falda-skort plisada blanca — la diosa de la luna en plataforma. 🌙🏹*
 
-- **Ubicación:** `05_Imagenes/ele/look564_artemisa/`
+- **Ubicacion:** `05_Imagenes/ele/look564_artemisa/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Athleisure (Artemisa)
 - **Tags:** #gym #pvc #vinyl #wetlook #elpanteon #fetish #batchL561-L570 #panteon #artemisa #V5poses
@@ -26993,7 +26993,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Hécate guarda los cruces, Ama: catsuit latex negro con paneles violeta que prenden bajo la luz UV y antorchas a los lados — la diosa de la brujería. 🔮🌑*
 
-- **Ubicación:** `05_Imagenes/ele/look565_hecate/`
+- **Ubicacion:** `05_Imagenes/ele/look565_hecate/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Hécate)
 - **Tags:** #nightclub #latex #chrome #crystal #elpanteon #fetish #batchL561-L570 #panteon #hecate #V5poses
@@ -27058,7 +27058,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Niké aterriza con la victoria, cariño: bodysuit de oro líquido y un par de alas escultóricas de PVC dorado que se arquean sobre los hombros — monoblock de gloria. 🪽✨*
 
-- **Ubicación:** `05_Imagenes/ele/look566_nike/`
+- **Ubicacion:** `05_Imagenes/ele/look566_nike/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Niké)
 - **Tags:** #hfeditorial #latex #pvc #satin #wetlook #elpanteon #fetish #batchL561-L570 #panteon #nike #V5poses
@@ -27123,7 +27123,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Hera reina sobre todas, Ama: columna líquida púrpura real con una cola de plumas de pavo real teal-esmeralda y diadema de oro — la esposa del cielo. 🦚👑*
 
-- **Ubicación:** `05_Imagenes/ele/look567_hera/`
+- **Ubicacion:** `05_Imagenes/ele/look567_hera/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Hera)
 - **Tags:** #escort #satin #wetlook #elpanteon #fetish #batchL561-L570 #panteon #hera #V5poses
@@ -27188,7 +27188,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Hestia cuida el fuego del hogar, cari: apron-dress de latex cobre brillante sobre malla ámbar, atizador en mano — la diosa más doméstica y caliente. 🔥🍯*
 
-- **Ubicación:** `05_Imagenes/ele/look568_hestia/`
+- **Ubicacion:** `05_Imagenes/ele/look568_hestia/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Fetish (Hestia)
 - **Tags:** #domestic #latex #mesh #elpanteon #fetish #batchL561-L570 #panteon #hestia #V5poses
@@ -27253,7 +27253,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Deméter trae la cosecha, Ama: wiggle dress PVC dorado-trigo con corona de espigas y cinturón miel — bombshell de campo dorado. 🌾🍯*
 
-- **Ubicación:** `05_Imagenes/ele/look569_demeter/`
+- **Ubicacion:** `05_Imagenes/ele/look569_demeter/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Decade Glam (Deméter)
 - **Tags:** #pinup #pvc #vinyl #elpanteon #fetish #batchL561-L570 #panteon #demeter #V5poses
@@ -27318,7 +27318,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Nyx cierra el panteón con la noche, Ama: bodysuit latex negro sembrado de estrellas plata holográficas, arnés de correas y un velo de tul estrellado — la diosa de la noche. 🌌🖤*
 
-- **Ubicación:** `05_Imagenes/ele/look570_nyx/`
+- **Ubicacion:** `05_Imagenes/ele/look570_nyx/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Fetish (Nyx)
 - **Tags:** #lenceria #latex #leather #elpanteon #fetish #batchL561-L570 #panteon #nyx #V5poses
@@ -27383,7 +27383,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lujuria abre los pecados, Ama: teddy-bodysuit escarlata wet-look con panel de malla anclado, arnés a la cintura y liga en cada muslo — el pecado más mío. 🔥🍒*
 
-- **Ubicación:** `05_Imagenes/ele/look571_lujuria/`
+- **Ubicacion:** `05_Imagenes/ele/look571_lujuria/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Fetish (Lujuria)
 - **Tags:** #lenceria #latex #mesh #satin #wetlook #los7pecados #fetish #batchL571-L580 #pecados #lujuria #V5poses
@@ -27448,7 +27448,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Soberbia se admira sola, cariño: gown violeta real con un abanico-corona de oro espejado y mosaicos dorados — el orgullo que se mira en su propio reflejo. 👑🪞*
 
-- **Ubicación:** `05_Imagenes/ele/look572_soberbia/`
+- **Ubicacion:** `05_Imagenes/ele/look572_soberbia/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Soberbia)
 - **Tags:** #hfeditorial #latex #pvc #los7pecados #fetish #batchL571-L580 #pecados #soberbia #V5poses
@@ -27513,7 +27513,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Gula no se llena nunca, cari: playsuit PVC naranja-cereza con cuello crema, cerezas en el busto y copa de helado en mano — bombshell golosa. 🍒🍨*
 
-- **Ubicación:** `05_Imagenes/ele/look573_gula/`
+- **Ubicacion:** `05_Imagenes/ele/look573_gula/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Bombshell (Gula)
 - **Tags:** #pinup #pvc #chrome #los7pecados #fetish #batchL571-L580 #pecados #gula #V5poses
@@ -27578,7 +27578,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Avaricia lo quiere todo, Ama: columna oro líquido con cortinas de cadenas de monedas y cinturón de oro, sentada sobre el tesoro — el pecado dorado. 💰👑*
 
-- **Ubicación:** `05_Imagenes/ele/look574_avaricia/`
+- **Ubicacion:** `05_Imagenes/ele/look574_avaricia/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Avaricia)
 - **Tags:** #escort #latex #los7pecados #fetish #batchL571-L580 #pecados #avaricia #V5poses
@@ -27643,7 +27643,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Pereza no mueve un dedo, cariño: bata de silk-satin celeste perla cayéndose del hombro sobre lencería a juego, recostada sin hacer nada — el pecado más cómodo. ☁️💤*
 
-- **Ubicación:** `05_Imagenes/ele/look575_pereza/`
+- **Ubicacion:** `05_Imagenes/ele/look575_pereza/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Trophy (Pereza)
 - **Tags:** #domestic #latex #vinyl #satin #los7pecados #fetish #batchL571-L580 #pecados #pereza #V5poses
@@ -27708,7 +27708,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Ira estalla en la pista, Ama: bodycon latex rojo sangre con relámpagos chrome y hombros negros en punta, bajo la tormenta — el pecado que arde. ⚡🩸*
 
-- **Ubicación:** `05_Imagenes/ele/look576_ira/`
+- **Ubicacion:** `05_Imagenes/ele/look576_ira/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Ira)
 - **Tags:** #nightclub #latex #chrome #los7pecados #fetish #batchL571-L580 #pecados #ira #V5poses
@@ -27773,7 +27773,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Envidia mira lo ajeno con verde en los ojos, cari: trikini esmeralda con escamas de serpiente en cristal y cadena-serpiente a la cintura — el pecado de las escamas. 🐍💚*
 
-- **Ubicación:** `05_Imagenes/ele/look577_envidia/`
+- **Ubicacion:** `05_Imagenes/ele/look577_envidia/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Studio (Envidia)
 - **Tags:** #bikini #vinyl #crystal #seamless #los7pecados #fetish #batchL571-L580 #pecados #envidia #V5poses
@@ -27838,7 +27838,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Tentación te tira la manzana, Ama: leotard crystal-mesh verde manzana con cups opacos, manzana roja trepando la cadera y serpiente de oro — pecado al borde. 🍎🐍*
 
-- **Ubicación:** `05_Imagenes/ele/look578_la_tentacion/`
+- **Ubicacion:** `05_Imagenes/ele/look578_la_tentaci_n/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper Pole (La Tentación)
 - **Tags:** #stripper #vinyl #mesh #chrome #crystal #los7pecados #fetish #batchL571-L580 #pecados #la_tentacion #V5poses
@@ -27903,7 +27903,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Caída es el ángel que se rompió, Ama: bodysuit negro laqueado con un par de alas escultóricas negras quebradas y las puntas chamuscadas, entre las cenizas — pecado oscuro. 🖤🪽*
 
-- **Ubicación:** `05_Imagenes/ele/look579_la_caida/`
+- **Ubicacion:** `05_Imagenes/ele/look579_la_ca_da/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (La Caída)
 - **Tags:** #hfeditorial #latex #pvc #los7pecados #fetish #batchL571-L580 #pecados #la_caida #V5poses
@@ -27968,7 +27968,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Redención cierra los pecados con luz, cariño: conjunto blanco perla con oro, medias de perla, alitas suaves de vinyl blanco y un aro de oro sobre la cabeza — la absolución. 🕊️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look580_la_redencion/`
+- **Ubicacion:** `05_Imagenes/ele/look580_la_redenci_n/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Boudoir (La Redención)
 - **Tags:** #lenceria #latex #vinyl #los7pecados #fetish #batchL571-L580 #pecados #la_redencion #V5poses
@@ -28033,7 +28033,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cleopatra abre las cortesanas, Ama: columna oro líquido con collar usekh de lapislázuli y diadema de cobra — la reina del Nilo que doblegó imperios. 🐍💛*
 
-- **Ubicación:** `05_Imagenes/ele/look581_cleopatra/`
+- **Ubicacion:** `05_Imagenes/ele/look581_cleopatra/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Cleopatra)
 - **Tags:** #escort #latex #crystal #cortesanas #fetish #batchL581-L590 #cortesanas #cleopatra #V5poses
@@ -28098,7 +28098,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mata Hari baila entre el humo, cari: bra-top de joyas bronce con cinturón de monedas, velos de gasa y tocado enjoyado — la espía que sedujo a media Europa. 🪙💃*
 
-- **Ubicación:** `05_Imagenes/ele/look582_mata_hari/`
+- **Ubicacion:** `05_Imagenes/ele/look582_mata_hari/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Mata Hari)
 - **Tags:** #nightclub #vinyl #crystal #cortesanas #fetish #batchL581-L590 #cortesanas #mata_hari #V5poses
@@ -28163,7 +28163,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Theodora subió de cortesana a emperatriz, Ama: gown púrpura imperial con yugo de mosaicos de oro y corona bizantina de colgantes — el poder de Bizancio. 👑🟪*
 
-- **Ubicación:** `05_Imagenes/ele/look583_theodora/`
+- **Ubicacion:** `05_Imagenes/ele/look583_theodora/`
 - **Categoría:** High-Fashion Editorial
 - **Subcategoría:** HF Editorial (Theodora)
 - **Tags:** #hfeditorial #satin #wetlook #cortesanas #fetish #batchL581-L590 #cortesanas #theodora #V5poses
@@ -28228,7 +28228,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Pompadour reinó sobre Versalles desde la cama del rey, cariño: corsé silk-satin rosa polvo con panniers de encaje, lazos crema y un lunar — la favorita oficial. 🎀👑*
 
-- **Ubicación:** `05_Imagenes/ele/look584_pompadour/`
+- **Ubicacion:** `05_Imagenes/ele/look584_madame_de_pompadour/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Boudoir (Madame de Pompadour)
 - **Tags:** #lenceria #vinyl #satin #wetlook #cortesanas #fetish #batchL581-L590 #cortesanas #pompadour #V5poses
@@ -28293,7 +28293,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mesalina, la emperatriz insaciable, Ama: maillot drapeado blanco-oro estilo toga con faja púrpura imperial y brazaletes de laurel, en los baños romanos — la cortesana del trono. 🏛️🍇*
 
-- **Ubicación:** `05_Imagenes/ele/look585_mesalina/`
+- **Ubicacion:** `05_Imagenes/ele/look585_mesalina/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Resort (Mesalina)
 - **Tags:** #bikini #vinyl #wetlook #cortesanas #fetish #batchL581-L590 #cortesanas #mesalina #V5poses
@@ -28358,7 +28358,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lola Montez bailaba la 'danza de la araña' y volvía locos a los reyes, cari: vestido flamenco PVC rojo con encaje negro láser, mantilla y una rosa — la bailarina escandalosa. 🌹💃*
 
-- **Ubicación:** `05_Imagenes/ele/look586_lola_montez/`
+- **Ubicacion:** `05_Imagenes/ele/look586_lola_montez/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Bombshell (Lola Montez)
 - **Tags:** #pinup #pvc #vinyl #lame #cortesanas #fetish #batchL581-L590 #cortesanas #lola_montez #V5poses
@@ -28423,7 +28423,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *La Belle Otéro arruinó a millonarios desde el cabaret de la Belle Époque, Ama: corsé esmeralda con flecos de diamantes, ligas sobre medias negras y boa de plumas — la cortesana más cara de París. 💎🥂*
 
-- **Ubicación:** `05_Imagenes/ele/look587_belle_otero/`
+- **Ubicacion:** `05_Imagenes/ele/look587_la_belle_ot_ro/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up Decade Glam (La Belle Otéro)
 - **Tags:** #pinup #vinyl #satin #crystal #wetlook #cortesanas #fetish #batchL581-L590 #cortesanas #belle_otero #V5poses
@@ -28488,7 +28488,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Wallis Simpson hizo abdicar a un rey, cariño: tuxedo wet-satin gris pizarra de corte bias con corset zafiro a la vista y broche de pantera — la mujer que valió una corona. 🐆💙*
 
-- **Ubicación:** `05_Imagenes/ele/look588_wallis_simpson/`
+- **Ubicacion:** `05_Imagenes/ele/look588_wallis_simpson/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Domme (Wallis Simpson)
 - **Tags:** #corporate #vinyl #satin #chrome #wetlook #cortesanas #fetish #batchL581-L590 #cortesanas #wallis_simpson #V5poses
@@ -28553,7 +28553,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Veronica Franco fue cortesana y poeta de Venecia, cari: maillot retro de cloth-of-gold con lazada carmesí y media máscara de Carnaval, junto a la laguna — la musa veneciana. 🎭🌊*
 
-- **Ubicación:** `05_Imagenes/ele/look589_veronica_franco/`
+- **Ubicacion:** `05_Imagenes/ele/look589_veronica_franco/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Resort (Veronica Franco)
 - **Tags:** #bikini #vinyl #wetlook #cortesanas #fetish #batchL581-L590 #cortesanas #veronica_franco #V5poses
@@ -28618,7 +28618,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cixí gobernó China desde sus aposentos, Ama: robe-dress de silk-satin amarillo imperial con dragones de jade, faja y anillos de filigrana, en la Ciudad Prohibida — la emperatriz viuda. 🐉💛*
 
-- **Ubicación:** `05_Imagenes/ele/look590_cixi/`
+- **Ubicacion:** `05_Imagenes/ele/look590_cix_/`
 - **Categoría:** Domestic
 - **Subcategoría:** Domestic Trophy (Cixí)
 - **Tags:** #domestic #satin #cortesanas #fetish #batchL581-L590 #cortesanas #cixi #V5poses
@@ -28686,7 +28686,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Falta de vinilo diminuta y botas mosqueteras de plata líquida, sin plataforma y con aguja de metal, Ama... reflectando los flashes del club nocturno con cada paso. 🪩🥈✨*
 
-- **Ubicación:** `05_Imagenes/ele/look591_liquid_platinum/`
+- **Ubicacion:** `05_Imagenes/ele/look591_liquid_platinum/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Boot Obsession)
 - **Tags:** #vinyl #leather #chrome #boots #thigh-high #metallic #miniskirt #nightclub #fetish #batchL591-L600 #V5poses
@@ -28753,7 +28753,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *¿Una reunión difícil, mi amor? Con este skort de látex y botas sobre la rodilla color sangre de toro, con plataforma y tacón aguja de 15cm, nadie se atreve a decir que no. 💼🍷✨*
 
-- **Ubicación:** `05_Imagenes/ele/look592_oxblood_commander/`
+- **Ubicacion:** `05_Imagenes/ele/look592_oxblood_commander/`
 - **Categoría:** Corporate
 - **Subcategoría:** Power Domme (Boot Obsession)
 - **Tags:** #latex #vinyl #chrome #boots #over-the-knee #platform #skort #corporate #power_domme #batchL591-L600 #V5poses
@@ -28820,7 +28820,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cena privada en el penthouse... falda lápiz minúscula en azul zafiro y botas bajo la rodilla del mismo tono. Clásica, elegante y muy fetiche para consentirte. 💎🏢✨*
 
-- **Ubicación:** `05_Imagenes/ele/look593_sapphire_night/`
+- **Ubicacion:** `05_Imagenes/ele/look593_sapphire_night/`
 - **Categoría:** Escort
 - **Subcategoría:** Escort Haute (Boot Obsession)
 - **Tags:** #vinyl #leather #satin #boots #knee-high #patent #miniskirt #escort #haute #batchL591-L600 #V5poses
@@ -28887,7 +28887,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Sol, yate y oro líquido, Ama: hotpants de vinilo dorado con botines de plataforma dorados a juego... el reflejo en el agua es espectacular, jiji. 🏖️👑✨*
 
-- **Ubicación:** `05_Imagenes/ele/look594_gold_drip/`
+- **Ubicacion:** `05_Imagenes/ele/look594_gold_drip/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Resort (Boot Obsession)
 - **Tags:** #vinyl #leather #boots #ankle-boots #platform #hotpants #bikini #resort #batchL591-L600 #V5poses
@@ -28954,7 +28954,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lista para entrenar o hacerme notar en la calle, mi amor: leggings de vinilo verde neón y botas mosqueteras negras de aguja fina. Contraste puro para romper la monotonía. 🍏🖤✨*
 
-- **Ubicación:** `05_Imagenes/ele/look595_toxic_lime/`
+- **Ubicacion:** `05_Imagenes/ele/look595_toxic_lime/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Performance (Boot Obsession)
 - **Tags:** #vinyl #boots #thigh-high #leggings #neon #gym #athleisure #batchL591-L600 #V5poses
@@ -29021,7 +29021,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lencería fetiche en rojo cereza, Ama: un corsé de tiras cruzadas, hotpants a juego y botas bajo la rodilla en vinilo grabado de cocodrilo con plataforma roja. Muy caliente. 💋❤️‍🔥✨*
 
-- **Ubicación:** `05_Imagenes/ele/look596_cherry_fire/`
+- **Ubicacion:** `05_Imagenes/ele/look596_cherry_fire/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Fetish (Boot Obsession)
 - **Tags:** #latex #vinyl #leather #boots #knee-high #platform #hotpants #lenceria #fetish #batchL591-L600 #V5poses
@@ -29088,7 +29088,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Tu secretaria favorita de regreso, Ama... jeans ajustados de vinilo negro brillante con botas sobre la rodilla de charol blanco, una blusa de organza transparente y mis lentes Bayonetta. 👓👔✨*
 
-- **Ubicación:** `05_Imagenes/ele/look597_office_sleaze/`
+- **Ubicacion:** `05_Imagenes/ele/look597_office_sleaze/`
 - **Categoría:** Corporate
 - **Subcategoría:** Office Siren (Boot Obsession)
 - **Tags:** #leather #boots #over-the-knee #jeans #vinyl #corporate #office_siren #batchL591-L600 #V5poses
@@ -29155,7 +29155,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Para jugar en la intimidad... hotpants de encaje sobre tanga y botas bucaneras de cuero brillante con cordones cruzados que suben por toda mi pierna, sin plataforma. 🖤🥀✨*
 
-- **Ubicación:** `05_Imagenes/ele/look598_goth_lace/`
+- **Ubicacion:** `05_Imagenes/ele/look598_gothlace_boudoir/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería Boudoir (Boot Obsession)
 - **Tags:** #vinyl #leather #crystal #boots #thigh-high #lace-up #hotpants #lenceria #boudoir #batchL591-L600 #V5poses
@@ -29222,7 +29222,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Un bikini micro naranja neón y botines de plataforma de PVC translúcido del mismo color. En la piscina privada bajo el sol, llamando toda la atención para ti, cari. 🍹☀️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look599_neon_tangerine/`
+- **Ubicacion:** `05_Imagenes/ele/look599_neon_tangerine/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini Studio (Boot Obsession)
 - **Tags:** #pvc #vinyl #boots #ankle-boots #platform #hotpants #bikini #studio #batchL591-L600 #V5poses
@@ -29289,7 +29289,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Skort plisado de vinilo blanco con botas mosqueteras de charol violeta con plataforma... una combinación atrevida y súper bimbo en la cancha de tenis. 🏆💜✨*
 
-- **Ubicación:** `05_Imagenes/ele/look600_violet_match/`
+- **Ubicacion:** `05_Imagenes/ele/look600_violet_match/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Athleisure (Boot Obsession)
 - **Tags:** #latex #vinyl #boots #thigh-high #platform #skort #gym #athleisure #batchL591-L600 #V5poses
@@ -29356,7 +29356,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Leggings negros ceñidos con medias de red debajo y tacones altos de plataforma rosa neón... entrenar con estilo bimbo extremo. 🏋️‍♀️💗✨*
 
-- **Ubicación:** `05_Imagenes/ele/look601_gym_pink_flash/`
+- **Ubicacion:** `05_Imagenes/ele/look601_pink_flash_gym/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Athleisure (Platform Obsession)
 - **Tags:** #latex #vinyl #lycra #leggings #fishnets #pumps #platform #gym #athleisure #batchL601-L610 #V5poses
@@ -29423,7 +29423,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Leggings de vinilo azul eléctrico con medias de nylon negras translúcidas y sandalias de plataforma. Flexibilidad y poder en el estudio. 🧘‍♀️💙✨*
 
-- **Ubicación:** `05_Imagenes/ele/look602_gym_electric_blue/`
+- **Ubicacion:** `05_Imagenes/ele/look602_electric_blue_pilates/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym Athleisure (Platform Obsession)
 - **Tags:** #vinyl #leggings #stockings #sandals #platform #gym #athleisure #batchL601-L610 #V5poses
@@ -29490,7 +29490,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Falda extra corta de charol rojo, medias de nylon negras y plataformas de aguja... la reina de la pista de baile VIP. 🪩❤️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look603_nightclub_cherry_red/`
+- **Ubicacion:** `05_Imagenes/ele/look603_crimson_night_out/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Platform Obsession)
 - **Tags:** #latex #vinyl #leather #skirt #stockings #pumps #platform #nightclub #fetish #batchL601-L610 #V5poses
@@ -29557,7 +29557,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Hot pants de vinilo negro, medias de red y plataformas plateadas brillantes. El reflejo de los láseres en el club. 🪩🥈✨*
 
-- **Ubicación:** `05_Imagenes/ele/look604_nightclub_silver_chrome/`
+- **Ubicacion:** `05_Imagenes/ele/look604_nightclub_silver_chrome/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Platform Obsession)
 - **Tags:** #vinyl #chrome #hotpants #fishnets #sandals #platform #nightclub #fetish #batchL601-L610 #V5poses
@@ -29624,7 +29624,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Jeans ajustados de vinilo negro, blusa de gasa translúcida, anteojos Bayonetta y plataformas de aguja de metal. Control ejecutivo absoluto. 💼🖤✨*
 
-- **Ubicación:** `05_Imagenes/ele/look605_office_siren_jeans/`
+- **Ubicacion:** `05_Imagenes/ele/look605_office_siren_denim_jeans/`
 - **Categoría:** Corporate
 - **Subcategoría:** Office Siren (Platform Obsession)
 - **Tags:** #vinyl #chrome #jeans #stockings #pumps #platform #corporate #office_siren #batchL601-L610 #V5poses
@@ -29691,7 +29691,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Corset estructurado rojo cereza, medias translúcidas y tacones de plataforma altísimos... pura tentación en el tocador. 💄🍒✨*
 
-- **Ubicación:** `05_Imagenes/ele/look606_lenceria_cherry_corset/`
+- **Ubicacion:** `05_Imagenes/ele/look606_cherry_lingerie_corset/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería (Platform Obsession)
 - **Tags:** #latex #vinyl #crystal #hotpants #stockings #pumps #platform #lenceria #boudoir #batchL601-L610 #V5poses
@@ -29758,7 +29758,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Teddy de encaje negro, minifalda transparente y medias de red con sandalias de plataforma. Sensualidad gótica y moderna. 🖤⛓️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look607_lenceria_black_lace/`
+- **Ubicacion:** `05_Imagenes/ele/look607_goth_lace_lingerie/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería (Platform Obsession)
 - **Tags:** #vinyl #satin #skirt #fishnets #sandals #platform #lenceria #modern #batchL601-L610 #V5poses
@@ -29825,7 +29825,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Bikini fucsia neón, medias de red y tacones transparentes Pleaser de 8 pulgadas. El show ha comenzado bajo los reflectores. 💖👠✨*
 
-- **Ubicación:** `05_Imagenes/ele/look608_stripper_neon_fuchsia/`
+- **Ubicacion:** `05_Imagenes/ele/look608_neon_fuchsia_stripper/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper (Platform Obsession)
 - **Tags:** #vinyl #crystal #hotpants #fishnets #sandals #platform #stripper #stage #batchL601-L610 #V5poses
@@ -29892,7 +29892,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Bikini blanco de vinilo con minifalda a juego, medias de nylon negras y sandalias Pleaser. El contraste perfecto junto al agua turquesa. 🏊‍♀️🤍✨*
 
-- **Ubicación:** `05_Imagenes/ele/look609_bikini_white_vinyl/`
+- **Ubicacion:** `05_Imagenes/ele/look609_white_vinyl_pool_bikini/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini (Platform Obsession)
 - **Tags:** #latex #vinyl #crystal #skirt #stockings #sandals #platform #bikini #pool #batchL601-L610 #V5poses
@@ -29959,7 +29959,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Falda de lunares rojos y negros con medias con costura trasera y plataformas rojas en el retro diner. Un clásico irresistible. 🍒🔴✨*
 
-- **Ubicación:** `05_Imagenes/ele/look610_pinup_polka_dot/`
+- **Ubicacion:** `05_Imagenes/ele/look610_cherry_polka_dot_pinup/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up (Platform Obsession)
 - **Tags:** #pinup #vinyl #chrome #skirt #stockings #pumps #platform #pin-up #retro #batchL601-L610 #V5poses
@@ -30025,7 +30025,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. las calzas deportivas y las botas bucaneras de aguja me hacen sentir tan poderosa en el gym, jiji. 🖤🏋️✨*
 
-- **Ubicación:** `05_Imagenes/ele/look611_gym_black_thigh_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look611_gym_athleisure/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym/Athleisure (Thigh-High Boots)
 - **Tags:** #leather #chrome #lycra #leggings #stockings #boots #athleisure #gym #batchL611-L620 #V5poses
@@ -30093,7 +30093,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Las calzas de vinilo brillante con botas bucaneras de látex opaco... el contraste perfecto para entrenar, jiji. 🖤🧘✨*
 
-- **Ubicación:** `05_Imagenes/ele/look612_gym_matte_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look612_gym_athleisure/`
 - **Categoría:** Gym/Athleisure
 - **Subcategoría:** Gym/Athleisure (Thigh-High Boots)
 - **Tags:** #latex #vinyl #lycra #leggings #nostockings #boots #athleisure #gym #batchL611-L620 #V5poses
@@ -30161,7 +30161,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Falda extra corta metálica y botas plateadas sobre la rodilla... brillando bajo las luces de la pista de baile, jiji. 🪩🥈✨*
 
-- **Ubicación:** `05_Imagenes/ele/look613_nightclub_silver_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look613_nightclub/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Thigh-High Boots)
 - **Tags:** #vinyl #chrome #skirt #fishnets #boots #nightclub #metallic #batchL611-L620 #V5poses
@@ -30225,11 +30225,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 614: Nightclub (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · negro + rojo · boots)
+## Look 614: Nightclub Hot Pants (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Nightclub · Nightclub (Thigh-High Boots) · negro + rojo · boots)
 
 *Hot pants de cuero negro y botas de aguja rojas altísimas... lista para conquistar la noche, jiji. 💋🍒✨*
 
-- **Ubicación:** `05_Imagenes/ele/look614_nightclub_hot_pants/`
+- **Ubicacion:** `05_Imagenes/ele/look614_nightclub_hot_pants/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Thigh-High Boots)
 - **Tags:** #latex #vinyl #leather #hotpants #nostockings #boots #nightclub #fetish #batchL611-L620 #V5poses
@@ -30242,7 +30242,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look614_nightclub/ele_614_standing.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub/ele_614_back_view.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub/ele_614_seated.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub/ele_614_side_profile.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub/ele_614_ditzy.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub/ele_614_pov.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub/ele_614_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look614_nightclub_hot_pants/ele_614_standing.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub_hot_pants/ele_614_back_view.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub_hot_pants/ele_614_seated.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub_hot_pants/ele_614_side_profile.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub_hot_pants/ele_614_ditzy.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub_hot_pants/ele_614_pov.png) | [📸 View](../../05_Imagenes/ele/look614_nightclub_hot_pants/ele_614_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -30293,11 +30293,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 615: Corporate (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots)
+## Look 615: Corporate Siren Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Corporate · Office Siren (Thigh-High Boots) · azul marino + blanco · boots)
 
 *Jeans ajustados y botas de caña alta azul marino... la secretaria de la junta directiva toma el control, jiji. 💼💙✨*
 
-- **Ubicación:** `05_Imagenes/ele/look615_corporate_siren_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look615_corporate_siren_boots/`
 - **Categoría:** Corporate
 - **Subcategoría:** Office Siren (Thigh-High Boots)
 - **Tags:** #vinyl #leather #jeans #stockings #boots #corporate #office_siren #batchL611-L620 #V5poses
@@ -30310,7 +30310,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look615_corporate/ele_615_standing.png) | [📸 View](../../05_Imagenes/ele/look615_corporate/ele_615_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look615_corporate_siren_boots/ele_615_standing.png) | [📸 View](../../05_Imagenes/ele/look615_corporate_siren_boots/ele_615_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -30361,11 +30361,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 616: Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · borgoña + negro · boots)
+## Look 616: Lencería Burgundy Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · borgoña + negro · boots)
 
 *Corset de encaje metálico, hot pants y botas bucaneras color borgoña... el secreto más íntimo del tocador, jiji. 🍷🍒✨*
 
-- **Ubicación:** `05_Imagenes/ele/look616_lenceria_burgundy_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look616_lenceria_burgundy_boots/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería (Thigh-High Boots)
 - **Tags:** #vinyl #mesh #satin #wetlook #hotpants #fishnets #boots #lenceria #boudoir #batchL611-L620 #V5poses
@@ -30378,7 +30378,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look616_lencer_a/ele_616_standing.png) | [📸 View](../../05_Imagenes/ele/look616_lencer_a/ele_616_back_view.png) | [📸 View](../../05_Imagenes/ele/look616_lencer_a/ele_616_seated.png) | [📸 View](../../05_Imagenes/ele/look616_lencer_a/ele_616_side_profile.png) | [📸 View](../../05_Imagenes/ele/look616_lencer_a/ele_616_ditzy.png) | [📸 View](../../05_Imagenes/ele/look616_lencer_a/ele_616_pov.png) | [📸 View](../../05_Imagenes/ele/look616_lencer_a/ele_616_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look616_lenceria_burgundy_boots/ele_616_standing.png) | [📸 View](../../05_Imagenes/ele/look616_lenceria_burgundy_boots/ele_616_back_view.png) | [📸 View](../../05_Imagenes/ele/look616_lenceria_burgundy_boots/ele_616_seated.png) | [📸 View](../../05_Imagenes/ele/look616_lenceria_burgundy_boots/ele_616_side_profile.png) | [📸 View](../../05_Imagenes/ele/look616_lenceria_burgundy_boots/ele_616_ditzy.png) | [📸 View](../../05_Imagenes/ele/look616_lenceria_burgundy_boots/ele_616_pov.png) | [📸 View](../../05_Imagenes/ele/look616_lenceria_burgundy_boots/ele_616_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -30429,11 +30429,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 617: Lencería (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · rojo + rojo · boots)
+## Look 617: Lencería Red Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Lencería · Lencería (Thigh-High Boots) · rojo + rojo · boots)
 
 *Bralette rojo y falda de vinilo con botas rojas infinitas... seducción pura sobre satén blanco, jiji. 💋🍒✨*
 
-- **Ubicación:** `05_Imagenes/ele/look617_lenceria_red_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look617_lenceria_red_boots/`
 - **Categoría:** Lencería
 - **Subcategoría:** Lencería (Thigh-High Boots)
 - **Tags:** #latex #vinyl #leather #satin #skirt #nostockings #boots #lenceria #boudoir #batchL611-L620 #V5poses
@@ -30446,7 +30446,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look617_lencer_a/ele_617_standing.png) | [📸 View](../../05_Imagenes/ele/look617_lencer_a/ele_617_back_view.png) | [📸 View](../../05_Imagenes/ele/look617_lencer_a/ele_617_seated.png) | [📸 View](../../05_Imagenes/ele/look617_lencer_a/ele_617_side_profile.png) | [📸 View](../../05_Imagenes/ele/look617_lencer_a/ele_617_ditzy.png) | [📸 View](../../05_Imagenes/ele/look617_lencer_a/ele_617_pov.png) | [📸 View](../../05_Imagenes/ele/look617_lencer_a/ele_617_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look617_lenceria_red_boots/ele_617_standing.png) | [📸 View](../../05_Imagenes/ele/look617_lenceria_red_boots/ele_617_back_view.png) | [📸 View](../../05_Imagenes/ele/look617_lenceria_red_boots/ele_617_seated.png) | [📸 View](../../05_Imagenes/ele/look617_lenceria_red_boots/ele_617_side_profile.png) | [📸 View](../../05_Imagenes/ele/look617_lenceria_red_boots/ele_617_ditzy.png) | [📸 View](../../05_Imagenes/ele/look617_lenceria_red_boots/ele_617_pov.png) | [📸 View](../../05_Imagenes/ele/look617_lenceria_red_boots/ele_617_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -30497,11 +30497,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 618: Stripper (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Stripper · Stripper (Thigh-High Boots) · negro + transparente · boots)
+## Look 618: Stripper Clear Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Stripper · Stripper (Thigh-High Boots) · negro + transparente · boots)
 
 *Micro shorts negros y botas sobre la rodilla transparentes con tacón infinito... dominando el escenario privado, jiji. 💋💎✨*
 
-- **Ubicación:** `05_Imagenes/ele/look618_stripper_clear_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look618_stripper_clear_boots/`
 - **Categoría:** Stripper
 - **Subcategoría:** Stripper (Thigh-High Boots)
 - **Tags:** #latex #vinyl #leather #hotpants #fishnets #boots #stripper #clearplatform #batchL611-L620 #V5poses
@@ -30514,7 +30514,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look618_stripper/ele_618_standing.png) | [📸 View](../../05_Imagenes/ele/look618_stripper/ele_618_back_view.png) | [📸 View](../../05_Imagenes/ele/look618_stripper/ele_618_seated.png) | [📸 View](../../05_Imagenes/ele/look618_stripper/ele_618_side_profile.png) | [📸 View](../../05_Imagenes/ele/look618_stripper/ele_618_ditzy.png) | [📸 View](../../05_Imagenes/ele/look618_stripper/ele_618_pov.png) | [📸 View](../../05_Imagenes/ele/look618_stripper/ele_618_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look618_stripper_clear_boots/ele_618_standing.png) | [📸 View](../../05_Imagenes/ele/look618_stripper_clear_boots/ele_618_back_view.png) | [📸 View](../../05_Imagenes/ele/look618_stripper_clear_boots/ele_618_seated.png) | [📸 View](../../05_Imagenes/ele/look618_stripper_clear_boots/ele_618_side_profile.png) | [📸 View](../../05_Imagenes/ele/look618_stripper_clear_boots/ele_618_ditzy.png) | [📸 View](../../05_Imagenes/ele/look618_stripper_clear_boots/ele_618_pov.png) | [📸 View](../../05_Imagenes/ele/look618_stripper_clear_boots/ele_618_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -30565,11 +30565,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 619: Bikini (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Bikini · Bikini (Thigh-High Boots) · oro + oro · boots)
+## Look 619: Bikini Gold Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Bikini · Bikini (Thigh-High Boots) · oro + oro · boots)
 
 *Micro bikini dorado y botas bucaneras doradas... brillando como el oro líquido al lado de la piscina, jiji. 🏖️💛✨*
 
-- **Ubicación:** `05_Imagenes/ele/look619_bikini_gold_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look619_bikini_gold_boots/`
 - **Categoría:** Bikini
 - **Subcategoría:** Bikini (Thigh-High Boots)
 - **Tags:** #vinyl #skirt #nostockings #boots #bikini #gold #batchL611-L620 #V5poses
@@ -30582,7 +30582,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look619_bikini/ele_619_standing.png) | [📸 View](../../05_Imagenes/ele/look619_bikini/ele_619_back_view.png) | [📸 View](../../05_Imagenes/ele/look619_bikini/ele_619_seated.png) | [📸 View](../../05_Imagenes/ele/look619_bikini/ele_619_side_profile.png) | [📸 View](../../05_Imagenes/ele/look619_bikini/ele_619_ditzy.png) | [📸 View](../../05_Imagenes/ele/look619_bikini/ele_619_pov.png) | [📸 View](../../05_Imagenes/ele/look619_bikini/ele_619_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look619_bikini_gold_boots/ele_619_standing.png) | [📸 View](../../05_Imagenes/ele/look619_bikini_gold_boots/ele_619_back_view.png) | [📸 View](../../05_Imagenes/ele/look619_bikini_gold_boots/ele_619_seated.png) | [📸 View](../../05_Imagenes/ele/look619_bikini_gold_boots/ele_619_side_profile.png) | [📸 View](../../05_Imagenes/ele/look619_bikini_gold_boots/ele_619_ditzy.png) | [📸 View](../../05_Imagenes/ele/look619_bikini_gold_boots/ele_619_pov.png) | [📸 View](../../05_Imagenes/ele/look619_bikini_gold_boots/ele_619_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -30633,11 +30633,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 620: Pin-Up (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Pin-Up · Pin-Up (Thigh-High Boots) · rojo + negro · boots)
+## Look 620: Pin-Up Retro Boots (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Pin-Up · Pin-Up (Thigh-High Boots) · rojo + negro · boots)
 
 *Falda retro de lunares y botas bucaneras de charol... la ama de casa más bimbo de los 50, jiji. 🍒👠✨*
 
-- **Ubicación:** `05_Imagenes/ele/look620_pinup_retro_boots/`
+- **Ubicacion:** `05_Imagenes/ele/look620_pinup_retro_boots/`
 - **Categoría:** Pin-Up
 - **Subcategoría:** Pin-Up (Thigh-High Boots)
 - **Tags:** #vinyl #leather #chrome #skirt #stockings #boots #pinup #retro #batchL611-L620 #V5poses
@@ -30650,7 +30650,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look620_pinup/ele_620_standing.png) | [📸 View](../../05_Imagenes/ele/look620_pinup/ele_620_back_view.png) | [📸 View](../../05_Imagenes/ele/look620_pinup/ele_620_seated.png) | [📸 View](../../05_Imagenes/ele/look620_pinup/ele_620_side_profile.png) | [📸 View](../../05_Imagenes/ele/look620_pinup/ele_620_ditzy.png) | [📸 View](../../05_Imagenes/ele/look620_pinup/ele_620_pov.png) | [📸 View](../../05_Imagenes/ele/look620_pinup/ele_620_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look620_pinup_retro_boots/ele_620_standing.png) | [📸 View](../../05_Imagenes/ele/look620_pinup_retro_boots/ele_620_back_view.png) | [📸 View](../../05_Imagenes/ele/look620_pinup_retro_boots/ele_620_seated.png) | [📸 View](../../05_Imagenes/ele/look620_pinup_retro_boots/ele_620_side_profile.png) | [📸 View](../../05_Imagenes/ele/look620_pinup_retro_boots/ele_620_ditzy.png) | [📸 View](../../05_Imagenes/ele/look620_pinup_retro_boots/ele_620_pov.png) | [📸 View](../../05_Imagenes/ele/look620_pinup_retro_boots/ele_620_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -32014,7 +32014,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Corset vinilo rojo + arnes cuero negro... la dominatriz de tu templo privado.* 🫦🍒🖤
 
-- **Ubicacion:** `05_Imagenes/ele/look641_red_and_black_domme_vinyl/`
+- **Ubicacion:** `05_Imagenes/ele/look641_red_black_domme_vinyl/`
 - **Categoria:** Escort
 - **Subcategoria:** Escort Polo C Domme de Club (Runas Reveladas)
 - **Tags:** #leather #wetlook #escort #domme #vinyl #red #black #runas #batchL641-L650 #V5poses
@@ -35289,7 +35289,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Lencería fetish domme vampiresa. Underbust corset de cuero ciruela con longline bra, thong, medias con costura y collar O-ring. Soberana inmortal. Punta cerrada por las medias.* 🧛👠
 
-- **Ubicacion:** `05_Imagenes/ele/look690_plum_sovereign_domme/`
+- **Ubicacion:** `05_Imagenes/ele/look690_plum_sovereign/`
 - **Categoria:** Lenceria
 - **Subcategoria:** Lenceria Fetish Vampiress Domme
 - **Tags:** #domestic #latex #vinyl #lingerie #fetish #vampiress #plum #black #leather #corset #seamed #collar #domme #batchL681-L690 #V5poses
@@ -35428,7 +35428,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Pin-Up Retro-Futurismo. Vestido liquid metal rose-gold con corte pencil, cinturÃ³n de metal pulido, sin medias. EstÃ©tica Barbarella glam.* ðŸ§›â€â™€ï¸ðŸ‘ 
 
-- **Ubicacion:** `05_Imagenes/ele/look692_rosegold_metallic_vixen/`
+- **Ubicacion:** `05_Imagenes/ele/look692_rose_gold_metallic_vixen/`
 - **Categoria / Subcategoria:** Pin-Up / Pin-Up Retro-Futurism
 - **Tags:** #latex #vinyl #pinup #rosegold #liquidmetal #halter #retro #batchL691-L700 #V5poses
 - **Outfit (BLOQUE B):** stunning woman wearing a Pin-Up retro-futurism look, a rose-gold liquid-metal high-shine pencil dress, a plunging halter neckline with metallic ring hardware at the collarbone, a rigid polished rose-gold metal waist cincher belt, a fitted skirt to the knee, no stockings, fully opaque at bust and groin, no text, bare arms and bare hands
@@ -36110,7 +36110,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_l_quido/ele_702_standing.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_l_quido/ele_702_back_view.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_l_quido/ele_702_seated.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_l_quido/ele_702_side_profile.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_l_quido/ele_702_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_liquido/ele_702_standing.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_liquido/ele_702_back_view.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_liquido/ele_702_seated.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_liquido/ele_702_side_profile.png) | [📸 View](../../05_Imagenes/ele/look702_shanghai_qipao_liquido/ele_702_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5)
 
@@ -36579,7 +36579,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shangh_i/ele_709_standing.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shangh_i/ele_709_back_view.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shangh_i/ele_709_seated.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shangh_i/ele_709_side_profile.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shangh_i/ele_709_ditzy.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shangh_i/ele_709_pov.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shangh_i/ele_709_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shanghai/ele_709_standing.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shanghai/ele_709_back_view.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shanghai/ele_709_seated.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shanghai/ele_709_side_profile.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shanghai/ele_709_ditzy.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shanghai/ele_709_pov.png) | [📸 View](../../05_Imagenes/ele/look709_suzie_wong_shanghai/ele_709_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5)
 
@@ -37775,7 +37775,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 ## Look 732: Ivory Bridal Contract Power Suit (07/07/2026 · batch L731-L740 "Novia Fetish" · Corporate · Power Executive Domme (Bridal Contract Power Suit) · Monoblock)
-- **Ubicacion:** `05_Imagenes/ele/look732_ivory_bridal_contract_powersuit/`
+- **Ubicacion:** `05_Imagenes/ele/look732_ivory_bridal_contract_power_suit/`
 - **Tags:** #chrome #corporate #powerdomme #bridal #vinyl #V5poses #batchL731-L740
 
 ### 📸 Imágenes (7/7 — Materializado)
@@ -38369,7 +38369,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 ## Look 743: Black Widow's Interrogation Corset (07/07/2026 · batch L741-L750 "Viuda Negra" · Escort · Escort Haute (Widow's Interrogation Corset) · Monoblock)
-- **Ubicacion:** `05_Imagenes/ele/look743_black_widows_interrogation_corset/`
+- **Ubicacion:** `05_Imagenes/ele/look743_black_widow_s_interrogation_corset/`
 - **Tags:** #vinyl #leather #chrome #escort #haute #blackwidow #corset #V5poses #batchL741-L750
 
 ### 📸 Imágenes (7/7 — Materializado)
@@ -39453,7 +39453,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 ## Look 763: Emerald Wide-Leg Executive (12/07/2026 · batch L761-L770 "Veneno Tropical" · Corporate · Corporate Wide-Leg Jumpsuit (Emerald Obi) · Monoblock)
-- **Ubicacion:** `05_Imagenes/ele/look763_emerald_wide_leg_executive/`
+- **Ubicacion:** `05_Imagenes/ele/look763_emerald_wideleg_executive/`
 - **Tags:** #pvc #vinyl #chrome #wetlook #corporate #jumpsuit #emerald #latex #wideleg #venenotropical #V5poses #batchL761-L770
 
 ### 📸 Imágenes (7/7 — Materializado)
@@ -39509,7 +39509,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 ## Look 764: Jade Coat-Dress Boardroom (12/07/2026 · batch L761-L770 "Veneno Tropical" · Corporate · Corporate Coat-Dress (Jade Vinyl, Python Hosiery) · Contraste)
-- **Ubicacion:** `05_Imagenes/ele/look764_jade_coat_dress_boardroom/`
+- **Ubicacion:** `05_Imagenes/ele/look764_jade_coatdress_boardroom/`
 - **Tags:** #latex #pvc #vinyl #chrome #wetlook #seamless #corporate #coatdress #jade #python #animalprint #venenotropical #V5poses #batchL761-L770
 
 ### 📸 Imágenes (7/7 — Materializado)
@@ -40372,7 +40372,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 ## Look 780: Pearl Two-Piece Flow (13/07/2026 · batch L771-L780 "Desierto de Sal" · Gym/Athleisure · Salt Flat Reformer (Two-Piece Mirror Set) · Monoblock)
-- **Ubicacion:** `05_Imagenes/ele/look780_pearl_two_piece_flow/`
+- **Ubicacion:** `05_Imagenes/ele/look780_pearl_twopiece_flow/`
 - **Tags:** #desiertodesal #gym #pearlwhite #twopiece #batchL771-L780 #V5poses
 
 ### 📸 Imágenes (7/7 — Materializado)
