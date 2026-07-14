@@ -28,6 +28,20 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 > [!NOTE]
 > **⚠️ Auditar el repo MIENTE (aprendido 13/07):** las imágenes commiteadas son las **sobrevivientes** de varios reintentos de la Ama — miden su tasa de éxito *después* del filtro humano, no la del prompt. Si la Ama dice que tuvo que regenerar, **el defecto existe** aunque lo guardado se vea limpio.
 
+> [!CAUTION]
+> **🔴 EL 40% DE LA FLOTA SON MINIATURAS (descubierto 14/07/2026).**
+> **1.701 imágenes** están subidas a **~286×512 px (0,15 MP)**. Las sanas están en **1024×1024 (1,05 MP)** — **7× más píxeles**.
+>
+> **Causa:** la Ama copia la imagen en Gemini con **"Copiar"** y la pega en la app. Pero Android **limita el tamaño del portapapeles**: cuando una app copia una imagen, deja un **preview reducido**, no el original. La app (`PromptFilterScreen.kt`, la rama `clipboard.primaryClip → item.uri → BitmapFactory.decodeStream`) lee ese preview fielmente y sube la miniatura. **El código de resize de la app NO tiene la culpa** (su `maxDim=1200` solo achica lo que es *mayor* a 1200).
+>
+> **✅ FLUJO CORRECTO (sin tocar código):**
+> 1. En Gemini: **"Descargar" / "Guardar imagen"** — NUNCA "Copiar".
+> 2. En la app: el **selector de galería** (lee el archivo real) — NUNCA el botón de pegar.
+>
+> **Consecuencia para las auditorías:** revisar defectos finos (puntera del zapato, piercing marcado sobre la tela, costura de la media) **sobre una miniatura de 286 px es inútil**. Antes de auditar, comprobar la resolución: `Image.open(f).size`. Si es <0,3 MP, lo que no se ve puede ser falta de píxeles, no ausencia de defecto.
+>
+> El daño ya hecho es **irrecuperable** (la original solo existió en Gemini): recuperar = regenerar.
+
 > [!WARNING]
 > La generación masiva se pausa por límite de cuota de la API (429 Too Many Requests).
 

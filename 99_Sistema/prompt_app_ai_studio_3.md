@@ -94,6 +94,46 @@ Haz commit y push de los cambios a origin/main y dame el hash del commit.
 Mientras el código no esté ahí, nadie más que tú puede leerlo ni verificarlo.
 
 ---------------------------------------------------------------------
+5. BLOQUEA LAS MINIATURAS (bug NUEVO, y es el más caro de todos)
+---------------------------------------------------------------------
+Descubrimiento del 14/07: 1.701 imágenes del repositorio (el 40% de la flota) están subidas
+como MINIATURAS de ~286x512 px (0,15 MP). Las que se subieron por otra vía están en 1024x1024
+(1,05 MP). Se perdió la resolución de años de trabajo.
+
+La causa NO es tu código de resize (ese está bien: maxDim=1200 solo achica si la imagen es MAYOR
+a 1200; una de 1024 pasa intacta). La causa es la ruta de PEGAR DESDE EL PORTAPAPELES
+(PromptFilterScreen.kt, el FilledIconButton que hace `clipboard.primaryClip` -> `item.uri` ->
+`BitmapFactory.decodeStream`):
+
+Cuando la usuaria aprieta "Copiar" en Gemini, Android NO pone la imagen original en el
+portapapeles — pone un PREVIEW reducido (el portapapeles tiene límite de tamaño). La app lee ese
+preview fielmente y sube una miniatura.
+
+Qué tienes que hacer:
+
+ 5.1 VALIDAR la resolución ANTES de subir, en LAS DOS rutas (el picker y el pegado del
+     portapapeles). Si `originalBitmap.width < 800 && originalBitmap.height < 800`
+     (o el total de píxeles es < 500.000):
+        - NO subas la imagen.
+        - Muestra un diálogo claro:
+             "⚠️ Esta imagen es una MINIATURA (<width>x<height>).
+              El botón 'Copiar' de Gemini entrega un preview reducido, no el original.
+              Descarga la imagen en Gemini ('Guardar imagen') y súbela con el selector
+              de galería."
+        - Deja un botón "Subir igual" solo si la usuaria insiste (por si es un caso legítimo).
+
+ 5.2 En la pantalla de subida, muestra SIEMPRE la resolución de la imagen elegida antes de
+     confirmar (ej. "1024x1024 ✓" en verde, o "286x512 ⚠️ miniatura" en rojo). Que se vea.
+
+ 5.3 Si puedes: al pegar desde el portapapeles, intenta primero resolver la URI a su archivo
+     original (por ejemplo, si el ClipData trae también un `item.text` con una URI de archivo,
+     o si el ContentProvider expone un stream de mayor tamaño). Si no se puede recuperar el
+     original, aplica 5.1 y manda a la usuaria al selector de galería.
+
+Esta validación es la más importante de todo el encargo: una imagen mal generada se regenera,
+pero una imagen subida en miniatura se pierde en silencio y nadie se da cuenta hasta que es tarde.
+
+---------------------------------------------------------------------
 Y DAME EL APK
 ---------------------------------------------------------------------
 Compílame el APK con estos cambios para instalarlo y probarlo. En la app tiene que pasar esto:
@@ -101,8 +141,11 @@ Compílame el APK con estos cambios para instalarlo y probarlo. En la app tiene 
   · aprieto el botón de copiar UNA vez, y en el portapapeles queda el prompt positivo Y el
     negativo (con "Do not include:"), listo para pegar en Gemini de un tirón.
   · los looks que no tengan negativo quedan marcados de forma visible.
+  · si intento subir una imagen de baja resolución, la app me FRENA y me dice que es una
+    miniatura, en vez de subirla en silencio.
+  · veo la resolución de la imagen antes de confirmar la subida.
 
-Eso lo voy a comprobar pegando el portapapeles, así que no hace falta que me lo describas.
+Eso lo voy a comprobar con los ojos, así que no hace falta que me lo describas.
 ```
 
 ---
