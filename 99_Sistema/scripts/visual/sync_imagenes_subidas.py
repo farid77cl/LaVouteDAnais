@@ -73,23 +73,35 @@ def normalizar_nombres():
                     cambios += 1
     return cambios
 
-def folder_de_look(n):
-    pref = f"look{n}_"
-    for folder in os.listdir(ELE):
-        if folder.lower().startswith(pref):
-            return folder
-    return None
+def folders_de_look(n):
+    """TODAS las carpetas del look. Un mismo look puede tener 2 slugs distintos
+    (la app y el agente los nombraron distinto) con las poses repartidas entre ambas."""
+    pref = re.compile(rf"^look0*{n}_", re.I)
+    found = [f for f in os.listdir(ELE)
+             if pref.match(f) and os.path.isdir(os.path.join(ELE, f))]
+    # la carpeta con más PNG manda cuando una pose está en las dos
+    return sorted(found, key=lambda f: (-len(imgs_de_look(f)), f))
 
 def imgs_de_look(folder):
     fpath = os.path.join(ELE, folder)
-    return {f.lower() for f in os.listdir(fpath) if f.lower().endswith(".png")}
+    return {f for f in os.listdir(fpath) if f.lower().endswith(".png")}
 
-def construir_seccion(n, folder):
-    files = imgs_de_look(folder)
+def buscar_pose(n, key, folders):
+    """Devuelve (folder, filename) de la pose, o None.
+    Acepta el sufijo timestamp de la generación por API: ele_313_back_view_1783817436657.png"""
+    rx = re.compile(rf"^ele_0*{n}_{key}(_\d+)?\.png$", re.I)
+    for folder in folders:
+        for f in sorted(imgs_de_look(folder)):
+            if rx.match(f):
+                return folder, f
+    return None
+
+def construir_seccion(n, folders):
     cells, mat = [], 0
     for key, _ in POSES:
-        fname = f"ele_{n}_{key}.png"
-        if fname.lower() in files:
+        hit = buscar_pose(n, key, folders)
+        if hit:
+            folder, fname = hit
             cells.append(f"[📸 View](../../05_Imagenes/ele/{folder}/{fname})")
             mat += 1
         else:
@@ -106,7 +118,11 @@ def actualizar_galeria():
         content = f.read()
     parts = re.split(r"(?=^## .*?Look \d+:)", content, flags=re.MULTILINE)
     out, actualizados = [], []
-    img_re = re.compile(r"### 📸 Imágenes[^\n]*\n(?:.*?\n)*?(?=### 📝 Prompts)", re.MULTILINE)
+    # La sección 📸 va desde su heading hasta el siguiente heading (##/###) o hasta el primer
+    # prompt suelto (**Standing:**). NO se puede anclar en "### 📝 Prompts": la mitad de los looks
+    # no tiene ese heading y quedaban invisibles al sync (L717/L732 llevaban días en 0/7 con las
+    # 7 imágenes en disco, y la Ama regeneraba lo que ya existía).
+    img_re = re.compile(r"^### 📸 Imágenes[^\n]*\n(?:(?!^#{2,3}\s|^\*\*Standing:\*\*).*\n)*", re.MULTILINE)
     for block in parts:
         m = re.match(r"^## .*?Look (\d+):", block)
         if not m:
@@ -116,12 +132,18 @@ def actualizar_galeria():
         if not sec or n < MIN_LOOK:
             out.append(block); continue
         actual = sec.group(0)
-        regenerar = ("Pendiente" in actual) or ("app/Gemini" in actual) or ("(0/7)" in actual)
-        folder = folder_de_look(n)
-        if regenerar and folder and any(imgs_de_look(folder)):
-            nueva, mat = construir_seccion(n, folder)
-            block = block[:sec.start()] + nueva + block[sec.end():]
-            actualizados.append((n, mat))
+        folders = folders_de_look(n)
+        if folders and any(imgs_de_look(f) for f in folders):
+            nueva, mat = construir_seccion(n, folders)
+            m_trk = re.search(r"### 📸 Imágenes \((\d+)/7", actual)
+            declarado = int(m_trk.group(1)) if m_trk else -1
+            # regenerar si la sección está en curso O si el tracker no coincide con el disco
+            # (un 7/7 declarado sobre 3 archivos reales también miente, y hacia el lado caro:
+            #  la Ama lo da por listo y nunca lo regenera)
+            if ("Pendiente" in actual) or ("app/Gemini" in actual) or (declarado != mat):
+                block = block[:sec.start()] + nueva + block[sec.end():]
+                if declarado != mat:
+                    actualizados.append((n, declarado, mat))
         out.append(block)
     nuevo = "".join(out)
     if nuevo != content:
@@ -136,10 +158,13 @@ def main():
     print("2) Actualizando tracker en galeria_outfits.md...")
     upd = actualizar_galeria()
     if upd:
-        for n, mat in sorted(upd):
-            print(f"   L{n}: {mat}/7 registradas")
+        recup = sum(nuevo - viejo for _, viejo, nuevo in upd if nuevo > viejo)
+        for n, viejo, nuevo in sorted(upd):
+            flecha = "⬆️ recuperadas" if nuevo > viejo else "⬇️ corregido (decía de más)"
+            print(f"   L{n}: {viejo}/7 → {nuevo}/7  {flecha}")
+        print(f"   ── {len(upd)} look(s) corregidos · {recup} pose(s) reales que figuraban como pendientes")
     else:
-        print("   (sin secciones que actualizar)")
+        print("   (tracker ya coincide con el disco)")
     print("3) Ejecuta luego: python 99_Sistema/scripts/visual/update_galleries.py")
 
 if __name__ == "__main__":

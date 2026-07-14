@@ -1,7 +1,7 @@
 # 🖼️ Galería: look764_jade_coatdress_boardroom
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
@@ -16,7 +16,7 @@ Total imágenes: 6
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_764_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_back_view.png) | ![ele_764_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_ditzy.png) | ![ele_764_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_odalisque.png) | ![ele_764_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_pov.png) |
-| ![ele_764_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_seated.png) | ![ele_764_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_side_profile.png) |
+| ![ele_764_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_seated.png) | ![ele_764_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_side_profile.png) | ![ele_764_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_standing.png) |
 
 
 ---
@@ -28,6 +28,7 @@ Total imágenes: 6
 - [ele_764_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_pov.png)
 - [ele_764_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_seated.png)
 - [ele_764_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_side_profile.png)
+- [ele_764_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look764_jade_coatdress_boardroom/ele_764_standing.png)
 
 ---
 *Sincronizado con GitHub.* 👄
