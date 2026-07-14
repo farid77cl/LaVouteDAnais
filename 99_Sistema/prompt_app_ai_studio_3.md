@@ -57,7 +57,32 @@ No me describas lo que hace. Pégame el código real, completo:
   b) El `data class LookEntity` completo (para ver el campo negativePrompt) y la Migration de Room.
   c) El fragmento de `parseMarkdown` que captura `**Negative Prompt:**`.
   d) El fragmento que resuelve la carpeta destino al subir una imagen.
-  e) El código de la UI donde agregaste el botón de copiar el negativo.
+  e) El código de la UI del botón de copiar (ver el punto 4, que cambia lo pedido antes).
+
+---------------------------------------------------------------------
+4. EL BOTÓN DE COPIAR: UNO SOLO, Y COPIA TODO
+---------------------------------------------------------------------
+Corrige lo que te pedí antes: NO quiero dos botones ("copiar positivo" y "copiar negativo").
+Quiero UN SOLO botón de copiar, el de siempre, que copie el prompt COMPLETO: el positivo y el
+negativo juntos, en un solo toque.
+
+Razón: si el negativo depende de que la usuaria se acuerde de apretar un segundo botón, algún día
+no lo va a apretar, y se vuelve a generar sin negativo — que es exactamente el bug que estamos
+arreglando. Lo que se puede olvidar, se olvida. Un solo botón lo hace imposible.
+
+Formato del texto que se copia al portapapeles:
+
+    <prompt positivo tal cual>
+
+    Do not include: <negative prompt tal cual>
+
+IMPORTANTE — no uses la sintaxis "--no <negativo>". Ese formato es de Midjourney / Stable
+Diffusion. El destino aquí es GEMINI, que es conversacional y NO interpreta "--no": se lo tragaría
+como texto literal y podría dibujar justo lo que se quiere evitar. Tiene que ir en lenguaje
+natural, en inglés (los prompts están en inglés): "Do not include: ...".
+
+Si el look no tiene negativo (negativePrompt == null), el botón copia solo el positivo, sin
+agregar la línea "Do not include:" vacía.
 
 ---------------------------------------------------------------------
 3. EXPORTA EL CÓDIGO AL REPO
@@ -71,12 +96,13 @@ Mientras el código no esté ahí, nadie más que tú puede leerlo ni verificarl
 ---------------------------------------------------------------------
 Y DAME EL APK
 ---------------------------------------------------------------------
-Compílame el APK con estos cambios para instalarlo y probarlo. En la app tiene que verse:
+Compílame el APK con estos cambios para instalarlo y probarlo. En la app tiene que pasar esto:
 
-  · un botón "Copiar negativo" (y la opción de copiar positivo + "--no <negativo>" juntos)
-  · una marca visible en los looks que NO tengan bloque negativo
+  · aprieto el botón de copiar UNA vez, y en el portapapeles queda el prompt positivo Y el
+    negativo (con "Do not include:"), listo para pegar en Gemini de un tirón.
+  · los looks que no tengan negativo quedan marcados de forma visible.
 
-Eso lo voy a comprobar con los ojos, así que no hace falta que me lo describas.
+Eso lo voy a comprobar pegando el portapapeles, así que no hace falta que me lo describas.
 ```
 
 ---
@@ -85,6 +111,8 @@ Eso lo voy a comprobar con los ojos, así que no hace falta que me lo describas.
 
 | Prueba | Qué significa |
 |---|---|
-| **Instalar el APK y buscar el botón «Copiar negativo»** | No existía antes. Si está → implementó de verdad. Si no está → el reporte era humo. |
+| **Apretar "copiar" y pegar el portapapeles en cualquier parte** | Si aparece el positivo **y** el `Do not include: ...`, está implementado. Si sale solo el positivo, el reporte era humo. Un toque, todo copiado. |
 | **Subir una pose a un look que YA tiene carpeta** | Si crea una carpeta gemela (`look<N>_otro_slug/`), el fix de directorios no está. |
 | **`git log origin/main` en LV-App** | Si aparece un commit nuevo con el código, se puede leer y auditar línea por línea. |
+
+> ⚠️ **`--no` NO sirve aquí.** Es sintaxis de Midjourney / Stable Diffusion. El destino es **Gemini**, que es conversacional y lo tomaría como texto literal — podría dibujar justo lo que se quiere evitar. El negativo va en lenguaje natural: `Do not include: ...`.
