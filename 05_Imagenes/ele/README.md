@@ -100,6 +100,14 @@
 
 ---
 
+## 👠 Look 778: Blush Ivory Boudoir
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_778_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_standing.png) | ![ele_778_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_back_view.png) | ![ele_778_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_seated.png) | ![ele_778_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_side_profile.png) | ![ele_778_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_ditzy.png) | ![ele_778_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_pov.png) | ![ele_778_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_odalisque.png) |
+
+---
+
 ## 👠 Look 770: Tiki Venom Sarong
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
@@ -433,6 +441,14 @@
 | De Pie | Espalda | Sentada | Perfil | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
 | ![ele_729_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look729_chrome_silver_goddess/ele_729_standing.png) | ![ele_729_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look729_chrome_silver_goddess/ele_729_back_view.png) | ![ele_729_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look729_chrome_silver_goddess/ele_729_seated.png) | ![ele_729_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look729_chrome_silver_goddess/ele_729_side_profile.png) | ⏳ |
+
+---
+
+## 👠 Look 728: Champagne Hostess Trophy
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_728_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look728_champagne_hostess_trophy/ele_728_standing.png) | ![ele_728_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look728_champagne_hostess_trophy/ele_728_back_view.png) | ![ele_728_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look728_champagne_hostess_trophy/ele_728_seated.png) | ⏳ | ⏳ |
 
 ---
 

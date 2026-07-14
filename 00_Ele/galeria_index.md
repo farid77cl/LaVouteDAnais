@@ -537,7 +537,7 @@
 | **725** | Violet Street Viper (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Escort · Escort Callejera (Y2K Street Viper) · Contraste) | — | — | — | — | 0/7 | — |
 | **726** | Burnt Orange Track Set (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Gym/Athleisure · Athleisure Street (Track Suit) · Contraste) | — | — | — | — | 0/7 | — |
 | **727** | Jade O-Ring Studio (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Bikini · Studio Micro (O-Ring Bikini) · Monoblock) | — | — | — | — | 0/7 | — |
-| **728** | Champagne Hostess Trophy (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Domestic · Trophy Bimbo Moderna (Penthouse Hostess) · Contraste) | — | — | — | — | 0/7 | — |
+| **728** | Champagne Hostess Trophy (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Domestic · Trophy Bimbo Moderna (Penthouse Hostess) · Contraste) | — | — | — | — | 3/7 | ⏳ Pendiente |
 | **729** | Chrome Silver Goddess (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Pin-Up · Retro-Futurismo (Barbarella Silver Goddess) · Monoblock) | — | — | — | — | 4/7 | ⏳ Pendiente |
 | **730** | Oxblood Full Harness (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Lenceria · Fetish Arquitectonico (Full Body Harness) · Contraste) | — | — | — | — | 2/7 | ⏳ Pendiente |
 | **731** | Ivory Bridal Illusion Stage (07/07/2026 · batch L731-L740 "Novia Fetish" · Stripper · Stage Showgirl (Bridal Illusion Confession) · Contraste) | — | — | — | — | 3/7 | ⏳ Pendiente |
@@ -587,7 +587,7 @@
 | **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | — | — | — | — | 0/7 | — |
 | **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | — | — | — | — | 0/7 | — |
 | **777** | Lavender Mirror Bandage (13/07/2026 · batch L771-L780 "Desierto de Sal" · Nightclub · Salt Flat Mirror Lounge (Cutout Bandage Mini) · Contraste) | — | — | — | — | 0/7 | — |
-| **778** | Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lenceria · Salt Flat Boudoir (Longline Bra + Garter) · Contraste) | — | — | — | — | 0/7 | — |
+| **778** | Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lenceria · Salt Flat Boudoir (Longline Bra + Garter) · Contraste) | — | — | — | — | 7/7 | — |
 | **779** | Silver Chain Triangle (13/07/2026 · batch L771-L780 "Desierto de Sal" · Bikini · Salt Flat Mirror Pool (Triangle + Body Chain) · Monoblock) | — | — | — | — | 7/7 | — |
 | **780** | Pearl Two-Piece Flow (13/07/2026 · batch L771-L780 "Desierto de Sal" · Gym/Athleisure · Salt Flat Reformer (Two-Piece Mirror Set) · Monoblock) | — | — | — | — | 7/7 | — |
 | **781** | Fuchsia Stud Pole (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Stripper · Rock Arena Pole (Studded Fringe Harness) · Contraste) | — | — | — | — | 7/7 | — |
@@ -1000,7 +1000,7 @@
 | **725** | Violet Street Viper (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Escort · Escort Callejera (Y2K Street Viper) · Contraste) | 0/7 | — |
 | **726** | Burnt Orange Track Set (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Gym/Athleisure · Athleisure Street (Track Suit) · Contraste) | 0/7 | — |
 | **727** | Jade O-Ring Studio (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Bikini · Studio Micro (O-Ring Bikini) · Monoblock) | 0/7 | — |
-| **728** | Champagne Hostess Trophy (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Domestic · Trophy Bimbo Moderna (Penthouse Hostess) · Contraste) | 0/7 | — |
+| **728** | Champagne Hostess Trophy (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Domestic · Trophy Bimbo Moderna (Penthouse Hostess) · Contraste) | 3/7 | ⏳ Pendiente |
 | **729** | Chrome Silver Goddess (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Pin-Up · Retro-Futurismo (Barbarella Silver Goddess) · Monoblock) | 4/7 | ⏳ Pendiente |
 | **730** | Oxblood Full Harness (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Lenceria · Fetish Arquitectonico (Full Body Harness) · Contraste) | 2/7 | ⏳ Pendiente |
 | **731** | Ivory Bridal Illusion Stage (07/07/2026 · batch L731-L740 "Novia Fetish" · Stripper · Stage Showgirl (Bridal Illusion Confession) · Contraste) | 3/7 | ⏳ Pendiente |
@@ -1011,7 +1011,6 @@
 | **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | 0/7 | — |
 | **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | 0/7 | — |
 | **777** | Lavender Mirror Bandage (13/07/2026 · batch L771-L780 "Desierto de Sal" · Nightclub · Salt Flat Mirror Lounge (Cutout Bandage Mini) · Contraste) | 0/7 | — |
-| **778** | Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lenceria · Salt Flat Boudoir (Longline Bra + Garter) · Contraste) | 0/7 | — |
 | **790** | Purple Fuchsia Aerobics Sequin (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Gym/Athleisure · Rock 80s Aerobics Studio (Sequin Leotard + Leg Warmers) · Contraste) | 6/7 | ⏳ Pendiente |
 
 ---
