@@ -38098,7 +38098,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look728_champagne_hostess_trophy/`
 - **Tags:** #latex #vinyl #wetlook #domestic #trophy #satin #pleaser #V5poses #batchL721-L730
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look728_champagne_hostess_trophy/ele_728_standing.png) | [📸 View](../../05_Imagenes/ele/look728_champagne_hostess_trophy/ele_728_back_view.png) | [📸 View](../../05_Imagenes/ele/look728_champagne_hostess_trophy/ele_728_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **Standing:**
 
@@ -40867,7 +40871,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look778_blush_ivory_boudoir/`
 - **Tags:** #desiertodesal #lenceria #boudoir #blush #ivory #seamed #batchL771-L780 #V5poses
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_standing.png) | [📸 View](../../05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_back_view.png) | [📸 View](../../05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_seated.png) | [📸 View](../../05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_side_profile.png) | [📸 View](../../05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_ditzy.png) | [📸 View](../../05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_pov.png) | [📸 View](../../05_Imagenes/ele/look778_blush_ivory_boudoir/ele_778_odalisque.png) |
 
 **Standing:**
 
