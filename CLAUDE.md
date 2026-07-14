@@ -54,7 +54,8 @@ Reference docs: `.agent/skills/engine-escritura-lv/SKILL.md` (full protocol), `0
 06_RRSS/         — Instagram management
 07_Recursos/     — References, research, legacy agent prompts
 99_Sistema/      — Python automation (visual/, grafo/, literario/, mantenimiento/)
-.agent/rules/    — 11 modular rule files (00-10) loaded by all agents
+.agent/rules/    — 12 modular rule files (00-11) loaded by all agents
+                   (11 = contrato de galeria_outfits.md: slug único, categorías, tags, prompts)
 .agent/skills/   — Skill definitions; .agent/workflows/ — workflow specs
 graphify-out/    — Knowledge-graph output (Graphify semantic mapping)
 ```
