@@ -17,13 +17,13 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 > **Los prompts del rango 300+ fueron REFRESCADOS el 12/07** contra los fixes del motor **de esa fecha** (1.167 poses reescritas). Antes arrastraban texto pre-fix: POV literal que salía **selfie**, tokens **anti-safe que rebotaban el filtro y quemaban cuota**, y falta de ancla anatómica. Las poses que ya tenían imagen quedaron intactas.
 
 > [!CAUTION]
-> **🔴 PENDIENTE #1 — LOS PROMPTS SIGUEN FOSILIZADOS RESPECTO AL BLINDAJE DEL 13/07 (diferido por la Ama).**
-> El blindaje del 13/07 (`SKIN_LOCK`, `build_negative()`, costura por primacía, `HOSIERY_LOCK`, odalisca anti-percha) vive en el **motor** (`pose_rotation_v5.py`) — pero **la app genera desde `galeria_outfits.md`**, y ahí los prompts todavía traen:
-> - el **Bloque A viejo** (`nipple piercings pressing against and visible under clothing` → pinta los piercings/tatuajes **a través de la tela**);
-> - **cero bloque negativo** desde el **L711** (191 bloques para 400 looks: el último es el L710 → **60 looks / 420 poses** generadas con el negative vacío);
-> - sin `SKIN_LOCK` ni `HOSIERY_LOCK`.
+> **🔴 PENDIENTE #1 — LOS PROMPTS 300-760 SIGUEN FOSILIZADOS (diferido por la Ama).**
+> El motor está en **v2 (15/07: `SINGLE_FRAME` anti-collage + locks sin metalenguaje multi-toma + `SKIN_LOCK` v2 afirmativo + `NO_ARMWEAR` + `UNMARKED_ZONES` + eco de calzado + negativo sin `oxblood` desnudo)** y el rango **L771-L800 ya fue refrescado a v2** (15/07: 104 poses sin imagen o defectuosas + 17 negatives). Pero **la app genera desde `galeria_outfits.md`**, y el rango **300-760** todavía trae:
+> - el **Bloque A viejo** (`nipple piercings pressing against and visible under clothing`);
+> - los **locks v1 con metalenguaje multi-toma** ("across all poses / in every shot" → riesgo de collage);
+> - sin `SKIN_LOCK`/`HOSIERY_LOCK`/`SINGLE_FRAME`. (El bloque negativo sí existe ya en los 591 looks — reparado 14/07 — pero es v1.)
 >
-> **Hasta que se barran, lo que se genere sigue saliendo con el defecto y quema cuota.** Alcance del barrido: **todas las poses SIN imagen** (rango 300+ en materialización + L766-L770). Las que ya tienen imagen no se tocan.
+> **Hasta que se barran, lo que se genere en ese rango sigue saliendo con el defecto y quema cuota.** Alcance del barrido: **todas las poses SIN imagen** del rango 300-760. Las que ya tienen imagen no se tocan.
 
 > [!NOTE]
 > **⚠️ Auditar el repo MIENTE (aprendido 13/07):** las imágenes commiteadas son las **sobrevivientes** de varios reintentos de la Ama — miden su tasa de éxito *después* del filtro humano, no la del prompt. Si la Ama dice que tuvo que regenerar, **el defecto existe** aunque lo guardado se vea limpio.
