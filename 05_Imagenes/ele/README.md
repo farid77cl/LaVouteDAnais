@@ -3358,9 +3358,9 @@
 
 ## 👠 Look 303: Neon Lime Buffbunny Gym Set
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_303_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_303_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_standing.png) | ⏳ | ⏳ | ![ele_303_side_profile_1784115056243.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_side_profile_1784115056243.png) | ![ele_303_ditzy_1784115074227.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_ditzy_1784115074227.png) | ![ele_303_pov_1784115082881.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_pov_1784115082881.png) | ![ele_303_odalisque_1784115064650.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look303_neon_lime_buffbunny_gym_set/ele_303_odalisque_1784115064650.png) |
 
 ---
 
@@ -3374,9 +3374,9 @@
 
 ## 👠 Look 301: Coral Neon Beach Bombshell
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_301_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_301_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_standing.png) | ⏳ | ![ele_301_seated_1784114993697.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_seated_1784114993697.png) | ![ele_301_side_profile_1784115002443.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_side_profile_1784115002443.png) | ⏳ | ![ele_301_pov_1784115021604.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_pov_1784115021604.png) | ![ele_301_odalisque_1784115012049.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look301_coral_neon_beach_bombshell/ele_301_odalisque_1784115012049.png) |
 
 ---
 

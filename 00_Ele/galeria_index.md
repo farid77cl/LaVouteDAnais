@@ -110,9 +110,9 @@
 | **298** | Dark Plum Longline Corset Fetish 30s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 7/7 | — |
 | **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
 | **300** | Black Satin Veiled Femme Fatale Noir (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
-| **301** | Coral Neon Beach Bombshell (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 1/7 | ⏳ Pendiente |
+| **301** | Coral Neon Beach Bombshell (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 5/7 | ⏳ Pendiente |
 | **302** | Turquoise Chrome O-Ring Monokini (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 6/7 | ⏳ Pendiente |
-| **303** | Neon Lime Buffbunny Gym Set (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **303** | Neon Lime Buffbunny Gym Set (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 5/7 | ⏳ Pendiente |
 | **304** | Flamingo Pink High-Cut Brazilian (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 7/7 | — |
 | **305** | Tangerine Track Suit Athleisure (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **306** | Electric Cyan Cabana Club Night (28/05/2026 — batch 301-310 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
@@ -739,9 +739,9 @@
 | **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
 | **300** | Black Satin Veiled Femme Fatale Noir (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
-| **301** | Coral Neon Beach Bombshell (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
+| **301** | Coral Neon Beach Bombshell (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 5/7 | ⏳ Pendiente |
 | **302** | Turquoise Chrome O-Ring Monokini (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 6/7 | ⏳ Pendiente |
-| **303** | Neon Lime Buffbunny Gym Set (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
+| **303** | Neon Lime Buffbunny Gym Set (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 5/7 | ⏳ Pendiente |
 | **305** | Tangerine Track Suit Athleisure (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
 | **306** | Electric Cyan Cabana Club Night (28/05/2026 — batch 301-310 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
 | **307** | Toxic Yellow Sports Bikini Crossfit (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
