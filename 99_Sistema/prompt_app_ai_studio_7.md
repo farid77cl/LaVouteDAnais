@@ -21,7 +21,12 @@ REGLAS INTOCABLES:
 - El botón de copiar prompt sigue copy-only (nada de abrir apps tras copiar).
 - La guardia de resolución del #5 sigue intacta PARA SUBIDAS A LA FLOTA. (Para descartes
   NO aplica — ver punto 4.)
-- El flujo actual de subida (galería + portapapeles con guardia) no se rompe.
+- ⭐ EL SISTEMA ANTERIOR SE QUEDA COMO RESPALDO (orden directa de la usuaria): el botón
+  de PEGAR DESDE PORTAPAPELES y el SELECTOR DE GALERÍA (subida directa) permanecen
+  visibles y funcionales exactamente como están hoy, con su guardia y su badge.
+  El share es un camino ADICIONAL, no un reemplazo. PROHIBIDO eliminar, esconder,
+  deshabilitar o "refactorizar" los flujos existentes: si Compartir falla algún día,
+  la usuaria vuelve al flujo viejo sin depender de nadie.
 
 =====================================================================
 1. LV-APP COMO DESTINO DE "COMPARTIR" (ACTION_SEND)
