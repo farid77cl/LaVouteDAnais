@@ -16,9 +16,14 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 > [!IMPORTANT]
 > **Los prompts del rango 300+ fueron REFRESCADOS el 12/07** contra los fixes del motor **de esa fecha** (1.167 poses reescritas). Antes arrastraban texto pre-fix: POV literal que salía **selfie**, tokens **anti-safe que rebotaban el filtro y quemaban cuota**, y falta de ancla anatómica. Las poses que ya tenían imagen quedaron intactas.
 
+> [!NOTE]
+> **🧪 VEREDICTO DEL BATCH DE ESTRÉS L791-L800 (auditado 15/07/2026 — 62 poses + 8 descartes etiquetados).**
+> **Vectores MUERTOS:** odalisca-percha (L796 en el suelo ✅) · Seated-isla bug L754 (L797 en el taburete ✅) · control inverso (L798 runas perfectas en piel desnuda ✅) · leopard drift (L794 ✅) · deriva color medias (L795 ✅) · capucha (L800 6/7).
+> **Vectores VIVOS (motor v3 los ataca):** collage (L792 Standing 7-paneles DESCALZA · Ditzy reincidente ×3 · variante nueva: marcos/light-boxes con su imagen dentro de la escena) · guantes-manga gris (L792 ×7, L799 ×2 en bikini) · marcas nombradas sobre zona cubierta (aro sobre látex L791, glifos sobre el calzón L792, runas migradas a muslos L797). **L793 quedó 0/7** (sin imágenes NI descartes = no se intentó o murió sin registro). ⚠️ **38/62 poses entraron como miniaturas 286×512 pese a la guardia del APK #5** — confirmar versión del APK instalado.
+
 > [!CAUTION]
 > **🔴 PENDIENTE #1 — LOS PROMPTS 300-760 SIGUEN FOSILIZADOS (diferido por la Ama).**
-> El motor está en **v2 (15/07: `SINGLE_FRAME` anti-collage + locks sin metalenguaje multi-toma + `SKIN_LOCK` v2 afirmativo + `NO_ARMWEAR` + `UNMARKED_ZONES` + eco de calzado + negativo sin `oxblood` desnudo)** y el rango **L771-L800 ya fue refrescado a v2** (15/07: 104 poses sin imagen o defectuosas + 17 negatives). Pero **la app genera desde `galeria_outfits.md`**, y el rango **300-760** todavía trae:
+> El motor está en **v3 (15/07 tarde: `build_marks_clause()` — el segmento de marcas del Bloque A se construye por cobertura, lo cubierto NO se nombra, nipple piercings JAMÁS — + `SINGLE_FRAME` v3 anti-espejo/marco + `SINGLE_FRAME_TAIL` en Ditzy + `NO_ARMWEAR` afirmativo-primero)**. En galería: **L793 ×7 + L794 Odalisque en v3** (los únicos sin imagen del batch); el resto de **L771-L800 en v2** (refresco 15/07: 104 poses + 17 negatives). Pero **la app genera desde `galeria_outfits.md`**, y el rango **300-760** todavía trae:
 > - el **Bloque A viejo** (`nipple piercings pressing against and visible under clothing`);
 > - los **locks v1 con metalenguaje multi-toma** ("across all poses / in every shot" → riesgo de collage);
 > - sin `SKIN_LOCK`/`HOSIERY_LOCK`/`SINGLE_FRAME`. (El bloque negativo sí existe ya en los 591 looks — reparado 14/07 — pero es v1.)

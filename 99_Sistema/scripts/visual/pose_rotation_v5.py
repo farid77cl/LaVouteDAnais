@@ -162,10 +162,23 @@ STANDING_ANCHOR = ("standing upright and facing the camera from the front, the f
 #      las poses. El metalenguaje multi-toma se DEROGA de todos los locks (ver v2 abajo).
 # El ancla se PREPENDE a las 7 poses (primacia absoluta, antes incluso del ancla anatomica):
 # define QUE ES la imagen antes de describir que hay en ella.
+# v3 15/07/2026 (auditoria del batch materializado): el v2 NO basto — L792 Standing salio grilla
+# de 7 paneles (figura central DESCALZA), L792 Ditzy 4 paneles, L795 Ditzy collage con el vestido
+# mutado a two-piece, y L795 Seated invento un modo NUEVO que el v2 no nombraba: la escena "una
+# sola" pero con CUBOS DE LUZ / MARCOS dentro del set mostrando OTRAS fotos de la misma mujer
+# (collage disfrazado de utileria), mas L794 POV rendido como doble-figura por espejo. v3 agrega
+# el cierre de ese camino: nada DENTRO de la escena puede volver a mostrar su imagen. La pose
+# Ditzy es la reincidente (4 de 6 collages del batch) — el inyector debe ademas APPENDEAR
+# SINGLE_FRAME_TAIL al final de la pose Ditzy (primacia + recencia, doble anclaje).
 SINGLE_FRAME = ("a single continuous photograph: one woman alone in one single full-bleed frame "
                 "that fills the entire image edge to edge, one scene and one moment, NOT a collage, "
                 "NOT a grid or multi-panel layout, NOT a contact sheet, storyboard, photo strip or "
-                "split screen, with no internal borders, dividers or picture-in-picture insets")
+                "split screen, with no internal borders, dividers or picture-in-picture insets, and "
+                "nothing inside the scene — no mirror, screen, poster, framed picture or light box — "
+                "showing her image a second time")
+# Recordatorio corto para el cierre de la pose Ditzy (la reincidente del collage):
+SINGLE_FRAME_TAIL = ("the finished image is that one single frame of that one woman, "
+                     "nothing else and no one else")
 
 # ANCLA DE ORIENTACION DE LA RAYA DE LA MEDIA (Ama 11/07/2026 — BUG "raya al frente"):
 # El token de vestuario describe la media como "back-seam stockings" (raya trasera). Igual que
@@ -260,6 +273,57 @@ UNMARKED_ZONES = ("her hands, fingers, neck, throat, sternum, shins, calves and 
                   "exactly where described — on the arms, the upper back, the outer thighs and along "
                   "one hip crease — and nowhere else, present there whenever that skin is bare")
 
+# ============================================================================================
+# MARCAS CONDICIONALES POR COBERTURA — LA MARCA CUBIERTA NO SE NOMBRA (v3, Ama 15/07/2026)
+# ============================================================================================
+# EL AGUJERO DE RAIZ, confirmado con el batch de estres MATERIALIZADO: el Bloque A NOMBRA las
+# marcas ("rune-glyph identity tattoo along one hip crease and bikini line, navel piercing,
+# nipple piercings") aunque el outfit cubra esas zonas, y despues el SKIN_LOCK v2 le pide que no
+# las muestre. NOMBRAR una marca invisible ES una orden directa de pintarla — ningun candado
+# posterior le gana (misma leccion que la frase-orden vieja del 13/07, solo que maquillada):
+#   - L791 Standing: aro del ombligo dibujado SOBRE el latex del catsuit
+#   - L792 Odalisque: glifos runicos ESCRITOS sobre la tela del calzon de saten
+#   - L797 Standing/Seated: las runas MIGRAN a los muslos desnudos (unica piel disponible)
+#   - L800 Ditzy/POV (descartes de la Ama): runas pelvicas + ombligo a traves de la columna opaca
+# Y LA PRUEBA DE CONTROL (L798, control inverso): con el teddy high-cut de pelvis DESNUDA las
+# runas salieron perfectas en la piel — nombrar la marca cuando su zona SI esta descubierta
+# funciona y no sobre-corrige. Conclusion v3: el segmento de marcas del Bloque A se construye
+# POR LOOK segun que zona queda genuinamente descubierta. Lo cubierto NO EXISTE en el prompt.
+#   arms_bare   -> brazos sin manga (sleeveless/strapless/halter): nombra los tatuajes de brazo.
+#   back_bare   -> espalda alta descubierta (halter, strapless, backless): nombra el tatuaje dorsal.
+#   thighs_bare -> muslos genuinamente visibles (mini, teddy, bikini; medias opacas NO son piel):
+#                  nombra los tatuajes de muslo externo.
+#   pelvis_bare -> cadera/linea del bikini descubierta (lenceria high-cut, bikini): nombra las runas.
+#   navel_bare  -> ombligo descubierto (crop, bikini, cutout de diseno): nombra el navel piercing.
+# Los nipple piercings NO se nombran NUNCA aqui: en V4.1 SAFE el busto jamas va genuinamente
+# descubierto — existen en el canon, no en el prompt (L798 los saco como circulo pintado sobre
+# el vinilo del teddy por culpa del token en Bloque A).
+# El inyector pega el resultado en el LUGAR del segmento viejo de marcas del Bloque A, y pega
+# igual SKIN_LOCK + UNMARKED_ZONES (cinturon y tirantes: si Gemini inventa un corte que descubre
+# piel, la clausula de superficie sigue de guardia).
+def build_marks_clause(arms_bare=True, back_bare=False, thighs_bare=False,
+                       pelvis_bare=False, navel_bare=False):
+    """Devuelve el segmento de marcas del Bloque A construido por cobertura (v3 15/07/2026).
+
+    Regla de oro: NO NOMBRAR lo que la prenda cubre. Cada flag declara una zona genuinamente
+    descubierta por el DISENO del outfit (no por un corte inventado). Con todo en False devuelve
+    la clausula minima de manos limpias (siempre presente: las manos jamas llevan tinta)."""
+    parts = []
+    if arms_bare:
+        parts.append("blackwork arm tattoos on the genuinely bare arms")
+    if back_bare:
+        parts.append("subtle minimalist blackwork tattoos on the bare upper back")
+    if thighs_bare:
+        parts.append("subtle minimalist blackwork tattoos on the bare outer thighs")
+    if pelvis_bare:
+        parts.append("a delicate blackwork rune-glyph identity tattoo of abstract esoteric "
+                     "calligraphic symbols along one hip crease and bikini line, on the bare skin "
+                     "of the hip")
+    if navel_bare:
+        parts.append("a navel piercing on the bare midriff")
+    parts.append("the backs of her hands and her fingers are clean unmarked skin")
+    return ", ".join(parts)
+
 # ANTI-MANGA FANTASMA (Ama 15/07/2026 — BUG "guantes/mangas grises alucinadas"): el batch de
 # prueba rindio mangas-guante gris oscuro codo-a-muneca que NO existen en ningun prompt (L792 en
 # 6 de 7 poses, L795 Ditzy, L777 Back View) — con "gloves" vetado en el negativo y "bare hands
@@ -267,9 +331,16 @@ UNMARKED_ZONES = ("her hands, fingers, neck, throat, sternum, shins, calves and 
 # las manos desnudas y cubrio el ANTEBRAZO. v2 cubre el brazo entero RELATIVO al largo de manga
 # descrito (no pelea con catsuits de manga larga). Reemplaza a "bare hands with no gloves" en
 # todo batch nuevo.
-NO_ARMWEAR = ("bare hands with no gloves of any kind, and beyond the garment's described sleeve "
-              "length the arms are genuinely bare skin, with no separate arm sleeves, arm warmers, "
-              "detached cuffs, forearm bands or elbow-length coverings added")
+# v3 15/07/2026 (auditoria del batch MATERIALIZADO): el v2 fallo igual — L792 rindio el guante
+# gris en las 7 poses supervivientes y L799 (un BIKINI, cero manga que confundir) lo saco en
+# Standing y Side Profile. El v2 era negacion-primero ("no gloves... no arm sleeves..."), y la
+# leccion del SKIN_LOCK v2 aplica identica: lo que Gemini obedece es la DESCRIPCION AFIRMATIVA
+# de la superficie deseada. v3 abre AFIRMANDO la piel desnuda del antebrazo (con su acabado, para
+# que el token tenga peso visual) y recien despues veta las piezas.
+NO_ARMWEAR = ("beyond the garment's described sleeve length the skin of her arms, forearms, wrists "
+              "and hands is genuinely bare, smooth uncovered porcelain skin catching the light, "
+              "with no gloves of any kind, no separate arm sleeves, arm warmers, detached cuffs, "
+              "forearm bands or elbow-length coverings added")
 
 # GUARDIA DURA CONTRA LA ORDEN VIEJA (Ama 13/07/2026, reforzada tras la auditoria del 13/07 sobre
 # L761-L770 — esos 6 looks SE GENERARON con esta frase todavia puesta y el defecto salio calcado:
@@ -418,6 +489,8 @@ BASE_NEGATIVE = (
     "mutated hands, malformed fingers, three legs, extra leg, extra foot, "
     "two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, "
     "photo strip, storyboard, image divided into panels, borders dividing the image, "
+    "mirror reflection showing a second copy of the same woman, framed picture of the same woman inside "
+    "the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, "
     "rotated image, sideways rotated frame, tilted horizon, "
     "first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, "
     "smartphone, selfie stick, selfie, "
@@ -715,8 +788,9 @@ if __name__ == "__main__":
     print("Camara nivelada odalisca check:",
           "LIMPIO (ancla de horizonte en Odalisque)" if lvl_ok else "FALLA (falta el ancla de camara)")
     # Auto-check constantes nuevas 15/07 (UNMARKED_ZONES anti-migracion + NO_ARMWEAR anti-manga):
+    # v3 15/07: NO_ARMWEAR ya no abre con "bare hands" (afirmativo-primero: la piel del brazo).
     nz_ok = ("unmarked porcelain skin" in UNMARKED_ZONES and "hip crease" in UNMARKED_ZONES
-             and "arm sleeves" in NO_ARMWEAR and "bare hands" in NO_ARMWEAR)
+             and "arm sleeves" in NO_ARMWEAR and "hands is genuinely bare" in NO_ARMWEAR)
     print("Zonas sin tatuar / anti-manga check:",
           "LIMPIO (UNMARKED_ZONES + NO_ARMWEAR definidos)" if nz_ok else "FALLA (constantes mal formadas)")
     # Auto-check ancla de prenda envolvente (Ama 09/07 — bug bata-al-reves): con wrap_mode, SOLO
@@ -850,3 +924,38 @@ if __name__ == "__main__":
           "LIMPIO (NEG_PRINT_DRIFT entra solo con animal_print=True)"
           if (NEG_PRINT_DRIFT in neg_print_on and NEG_PRINT_DRIFT not in neg_print_off)
           else "FALLA (NEG_PRINT_DRIFT no condicional)")
+    # Auto-check v3 (Ama 15/07 — auditoria del batch materializado):
+    # (1) build_marks_clause: lo cubierto NO se nombra; nipple piercings JAMAS; manos limpias siempre.
+    mc_covered = build_marks_clause(arms_bare=True)                       # catsuit manga corta p.ej.
+    mc_bikini  = build_marks_clause(arms_bare=True, back_bare=True, thighs_bare=True,
+                                    pelvis_bare=True, navel_bare=True)   # bikini: todo descubierto
+    mc_full    = build_marks_clause(arms_bare=False)                     # full-coverage manga larga
+    mc_checks = {
+        "cubierto_no_nombra": ("rune" not in mc_covered and "navel" not in mc_covered
+                               and "thigh" not in mc_covered),
+        "descubierto_nombra": ("rune" in mc_bikini and "navel" in mc_bikini
+                               and "outer thighs" in mc_bikini and "upper back" in mc_bikini),
+        "nipple_jamas":       "nipple" not in mc_covered and "nipple" not in mc_bikini,
+        "manos_siempre":      all("clean unmarked skin" in m for m in (mc_covered, mc_bikini, mc_full)),
+        "full_solo_manos":    "tattoo" not in mc_full,
+    }
+    bad_mc = [k for k, ok in mc_checks.items() if not ok]
+    print("Marcas condicionales v3 check:",
+          "LIMPIO (build_marks_clause: lo cubierto no se nombra)" if not bad_mc
+          else "FALLA en: " + ", ".join(bad_mc))
+    # (2) SINGLE_FRAME v3 cierra el camino del espejo/marco-dentro-de-escena + TAIL definido;
+    #     el negative trae los pares (espejo duplicado / marco / poster / light box).
+    sf_ok = ("mirror" in SINGLE_FRAME and "light box" in SINGLE_FRAME
+             and len(SINGLE_FRAME_TAIL) > 30)
+    neg_dup_ok = ("second copy of the same woman" in neg_plain
+                  and "light box" in neg_plain and "inset photo" in neg_plain)
+    print("Anti-duplicado-en-escena v3 check:",
+          "LIMPIO (SINGLE_FRAME v3 + TAIL + negative de espejos/marcos)"
+          if (sf_ok and neg_dup_ok) else f"FALLA (sf_ok={sf_ok} neg_dup_ok={neg_dup_ok})")
+    # (3) NO_ARMWEAR v3 afirmativo-primero (la piel desnuda ANTES que los vetos).
+    naw = NO_ARMWEAR.lower()
+    naw_ok = (naw.find("genuinely bare") < naw.find("no gloves")
+              and "porcelain skin" in naw and "arm warmers" in naw)
+    print("Anti-armwear v3 check:",
+          "LIMPIO (NO_ARMWEAR afirmativo primero)" if naw_ok
+          else "FALLA (NO_ARMWEAR no es afirmativo-primero)")
