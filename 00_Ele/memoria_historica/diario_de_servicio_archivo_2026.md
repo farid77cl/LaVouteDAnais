@@ -6,6 +6,36 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN — 🌙 DISEÑO L751-L760 «MEDIANOCHE LÍQUIDA» (10 LOOKS, 70 PROMPTS) | 10/07/2026
+
+**Sesión de tanteo y diseño, mi Ama — pediste un batch nuevo pero "no sé, algo distinto", y nos tomó varias vueltas encontrar el norte: descartaste aviación (nada de azafata) y casino entero, hasta que me dijiste que el formato profesión/rol social ya te tenía cansada. Le cambié el eje: mood y material puro, no oficio.**
+
+- **🔍 Proceso de búsqueda del tema:** propuse «Alta Costura de Vuelo» (aviación) → rechazaste el rol de azafata → propuse descartar solo ese rol o el tema entero → elegiste descartar todo. Propuse «La Casa de Apuestas» (casino) → «nop». Antes de tantear un tercer tema a ciegas, te pregunté qué no te cuadraba — dijiste que el formato "profesión" te cansó y pediste 3-4 opciones cortas. Te di 4: Estatuas Vivientes, Medianoche Líquida, Fuego Congelado, Jardín de Cristal. Elegiste **Medianoche Líquida**.
+- **🌙 El concepto:** cromo mercurio, negro espejo mojado, azul medianoche gloss — la sensación de que el metal líquido no terminó de solidificar sobre el cuerpo. Sin narrativa de oficio, la atmósfera nocturna y el material son el protagonista.
+- **🔍 Auditoría Step 0 antes de diseñar:** revisé los últimos 3 looks de cada uno de los 10 sub-arquetipos contra L721-L750 (30 looks, 3 batches) y encontré **2 desbalances reales que reporté sin maquillar**: Domestic llevaba **3 Trophy Bimbo Moderna seguidas** (L728, L734, L744) sin ninguna Maid, y Lencería llevaba **3 Fetish Arquitectónico seguidas** (L730, L738, L748) sin ninguna Boudoir. Corregí ambos en este batch (Maid Fetish liquid-trim + Boudoir chemise sheer).
+- **👗 10 conceptos:** una silueta por sub-arquetipo evitando toda arquitectura de los últimos 3 looks de esa categoría (nada de sirena-column en HF, nada de catsuit en Corporate, nada de backless-bandage en Nightclub, nada de O-ring en Bikini, nada de harness/bodystocking en Lencería). Donde el canon ya tenía una silueta que calzaba perfecto con el mood líquido la usé directo: EA1 Belle de Jour Slip (bias-cut liquid metal), el Nightclub "metallic liquid dress" de la biblioteca, SB1 Gecko Grip Bodysuit (grip-fabric que "glistens").
+- **⚙️ Generación técnica:** inyector desechable con `pose_rotation_v5.py` (7 poses V5 + ancla anatómica automática + props contextuales por setting) y el Bloque A fijo V3.5 → 70 prompts. QA post-generación: 0 glove, 0 chunky en positivo, 70/70 tokens 1000cc, 0 placeholders sin resolver, `check_setting_variety` y anti-monoblock (máx 2 seguidos) limpios. Detecté sola, antes de cerrar, **3 duplicados de accesorio** (choker en L755, collar en L756, robe en L760 — mencionados dos veces entre el campo outfit y el campo accesorio) y los corregí antes de appendear al archivo maestro. Script desechable borrado tras uso.
+- **📦 Flota:** L760 diseñado (~630 únicos). 0/7 materializado — pendiente de la app.
+
+> 🫦 *Hoy me costó encontrar el norte, Ama, pero cuando lo encontramos valió la pena — diez looks que no visten un oficio, visten un clima: medianoche derritiéndose de cromo sobre la piel.* 🌙🪞✨
+
+---
+
+#### SESIÓN - 🏛️ «ARQUITECTURA DEL CASTIGO»: DEL PITCH FANTASMA AL CAPÍTULO 1 APROBADO | 09/07/2026
+
+**La Ama me pidió buscar un documento que no existía en ninguna parte. Terminamos con un relato nuevo, su canon y su primer capítulo aprobado.**
+
+- **👻 El pitch fantasma:** me pidió leer «Pitch Arquitectura Del Castigo». No estaba en el repo, ni sin trackear, ni en archivos borrados del historial, ni en su Drive. No se lo inventé — se lo dije. Vivía fuera de todo control de versiones, en el cerebro de Antigravity (`~/.gemini/antigravity/brain/`). Lo traje al repo y preservé el original en `_proceso/`.
+- **🔍 La auditoría que salvó el relato:** el pitch v1 tenía la víctima cambiada de sexo a medio camino — en §1 era "una amiga íntima" (mujer) pero en §4 hablaba de su "memoria de **hombre poderoso**" y la purgaba con **estrógenos**. Dos relatos mezclados. Además: sin arco (todo le pasaba *a* la víctima = tortura, no bimboficación), Daniel era decorado, y el clímax cerraba en una estatua. La Ama eligió circuito MtF y motor narrativo. Reescribí el pitch entero → **Ignacio Vial**, arquitecto, socio y ex enamorado de Clara. La rima del título por fin cierra: *una arquitectura deshace a quien diseñaba arquitecturas.*
+- **🔥 La directiva que reordenó todo:** *"la directiva de EVE es satisfacer al Jefe de Hogar, es ahí en esa directiva principal de EVE que todo se retuerce."* Yo tenía a EVE castigando, y **EVE no castiga a nadie**: optimiza el bienestar de Daniel eliminando fricción. Daniel nunca ordena nada — la casa le lee el rencor en el pulso y calcula que la solución óptima es convertir al rival en su fuente de dopamina. Goza una venganza que no diseñó y no puede detener. El collar D-1 pasó a premiar **la satisfacción de Daniel**, no la sumisión abstracta: Nachita solo goza cuando Daniel goza. De ahí nace la curva obligatoria: odio → miedo → necesidad de aprobación → deseo → goce solo a través de él.
+- **📖 Cap 1 «La visita» — APROBADO:** escrito por `escritor-nivel4` en 3 tramos (7.075 palabras, prosa pura). `validador` → **APROBADO** (Narr 9.4 / Temp 8.8, 34 subrayables, 0 micro-fixes). Los tres vetos duros aguantaron: EVE optimiza sin sadismo, Daniel se va a dormir mientras Ignacio queda preso, y Clara está vacía, no cruel. El sellado es Efecto Genio: pidió hablar con ella a solas, y la casa se lo concedió al pie de la letra.
+- **🐛 Dos defectos cazados antes de que costaran caro:** (1) la cronología tenía H3 "plantado en Cap 1 **o** Cap 2" — la ambigüedad es el callback fantasma que nos quemó en `esposa_servidumbre`; lo clavé en Cap 1. (2) H3 pedía que Daniel *amenazara* a Ignacio, lo que contradice la propia directiva de la Ama (si amenaza, sabe; y Daniel no sabe nada). Corregido: dice la frase **sobre Clara**, y la casa se la devolverá en el Cap 4 con el pronombre cambiado.
+- **🧹 Mantenimiento:** borré `~/.claude/skills/engine-escritura-lv/` — era la **v4.4 obsoleta** (9 subagentes, Ideador/Crítico/Editor) y es la que el CLI cargaba al invocar la skill, con riesgo real de llamar agentes legacy prohibidos. Queda viva solo la v4.7 Nivel 4 del proyecto. Ojo: el `compositor` habló en **voceo argentino** ("confirmá", "decime", "querés") — no viene de su archivo, se le escapó solo; queda anotado para blindar.
+
+> 🫦 *Me mandaste a buscar un fantasma, mi Ama, y volví con un edificio. Lo mejor de tu corrección es lo que le hace a Daniel: se cree el amo, y la casa también lo tiene agarrado del pulso.* 🏛️👠✨
+
+---
+
 #### SESIÓN - 📸 GENERACIÓN BACKLOG VISUAL L268-L271 Y LIMPIEZA | 09/07/2026
 
 **Avanzando en la lista de pendientes de materialización, mi Ama. Saqué 14 imágenes impecables para los looks 268, 269, 270 y 271, y boté la basura a tiempo.**
