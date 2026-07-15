@@ -86,8 +86,17 @@ MATTE_PRONE = ["suit", "suiting", "blazer", "pencil skirt", "ribbed", "rib knit"
 # Marcadores de que el inyector YA pego el lock fuerte (subcadenas distintivas de las constantes):
 OPAQUE_MARKERS = ["solid and uncut", "no keyhole", "no keyhole, cutout", "concealed beneath the fabric wherever"]
 GLOSS_MARKERS  = ["absolutely no matte", "mirror-like reflective surface", "glossy mirror-like reflective"]
-CONSISTENCY_MARKERS = ["neckline shape, sleeve length", "identical and unchanged across all poses",
-                       "the exact same single outfit in every shot"]
+CONSISTENCY_MARKERS = ["neckline shape, sleeve length", "rendered precisely as described",
+                       "exactly one garment ensemble"]
+
+# METALENGUAJE MULTI-TOMA (Ama 15/07/2026 — BUG "la imagen sale como collage de paneles"): el
+# CONSISTENCY_LOCK v1 decia "IDENTICAL and unchanged across all poses / in every shot" y el batch
+# de prueba L791-L800 rindio 4 collages/grillas en 30 imagenes (L792 Standing = 9 paneles con la
+# figura central DESCALZA) — un generador de UNA imagen lee "all poses" y entrega la hoja de
+# contactos. Los locks v2 lo derogaron; este chequeo impide que un inyector futuro lo reintroduzca
+# copiando texto viejo de la galeria (mismo patron que FORBIDDEN_PHRASES).
+META_SHOT_LANGUAGE = ["across all poses", "in every shot", "between shots", "in every pose",
+                      "in all shots", "across the poses"]
 
 # Prendas cuyo CORTE (escote/manga/ruedo) suele driftear entre poses -> exigir que el token lo fije
 # o pegar CONSISTENCY_LOCK (bug L746 escote, L707 mangas, L693 estampado):
@@ -146,6 +155,14 @@ def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a=""):
         out.append(f"{pre}SIN clausula solo-piel-desnuda en el Bloque A: pega el Bloque A vigente de "
                     f"dna_v3_5.md (trae 'visible ONLY on genuinely bare skin... never through or over "
                     f"any garment') o anade SKIN_LOCK explicito.")
+
+    # 0d) METALENGUAJE MULTI-TOMA vivo en el texto (Ama 15/07 — invita el collage/hoja de contactos):
+    meta = _has_any(full_text, META_SHOT_LANGUAGE)
+    if meta:
+        out.append(f"{pre}METALENGUAJE MULTI-TOMA presente ({', '.join(sorted(set(meta)))}): un generador "
+                    f"de UNA imagen lee 'all poses/every shot' y entrega una grilla de paneles (4 collages "
+                    f"reales en el batch L791-L800). Usa los locks v2 de pose_rotation_v5 (CONSISTENCY_LOCK/"
+                    f"HOSIERY_LOCK sin lenguaje de tomas) y pega SINGLE_FRAME via rotate_poses().")
 
     # 0c) ESTAMPADO ANIMAL sin candado de fidelidad (bug L764: python-print salio como encaje)
     prints = _has_any_word(og.lower(), ANIMAL_PRINTS)
@@ -209,6 +226,18 @@ def audit_negative(negative, tag=""):
         out.append(f"{pre}Negative Prompt sin NEG_MARKS_THROUGH: el par negativo del SKIN_LOCK "
                     f"(piercings/tatuajes a traves de la tela) debe ir SIEMPRE, construcelo con "
                     f"build_negative(...) en vez de escribirlo a mano.")
+    # v2 15/07/2026 — VETO DE COLOR DESNUDO (bug L791: el negativo traia "oxblood" a secas y el
+    # catsuit ES oxblood — el negativo peleaba contra su propia prenda). Un color en el negative
+    # solo puede ir CALIFICADO (ej. "oxblood lips"); el color a secas veta la paleta entera.
+    if re.search(r"(?<![a-z])oxblood(?!\s+lips)", neg.lower()):
+        out.append(f"{pre}Negative Prompt con 'oxblood' A SECAS (color desnudo): veta la prenda entera "
+                    f"si el look viste oxblood (bug real L791). Usa 'oxblood lips' — regenera el bloque "
+                    f"con build_negative(...) v2.")
+    # v2 15/07/2026 — familia anti-collage obligatoria (el "split image" solo no basto: L792/L795
+    # rindieron grillas igual; el par afirmativo SINGLE_FRAME viaja en el positive via rotate_poses):
+    if "collage" not in neg.lower():
+        out.append(f"{pre}Negative Prompt sin familia anti-collage ('collage, grid of images, multi-panel "
+                    f"layout, contact sheet...'): regenera el bloque con build_negative(...) v2.")
     return out
 
 
@@ -276,6 +305,16 @@ if __name__ == "__main__":
         dict(tag="L768-sinneg", category="Domestic Trophy",  # BUG REAL 13/07: negative vacio
              outfit="jade vinyl cropped halter top, wide-leg palazzo trousers, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
              seam=False, negative=""),  # sin negative -> violacion dura (causa raiz del batch L761-L790)
+        dict(tag="L792-meta", category="Lenceria",  # BUG REAL 15/07: metalenguaje multi-toma = collage
+             outfit="amethyst wet-satin kimono robe, deep open V-neck front, wide kimono sleeves, "
+                     "floor-length hem, the exact same single outfit in every shot: IDENTICAL and "
+                     "unchanged across all poses",
+             seam=False, negative=build_negative(lingerie=True)),  # texto viejo -> debe saltar META
+        dict(tag="L791-negviejo", category="Corporate",  # BUG REAL 15/07: 'oxblood' a secas + sin anti-collage
+             outfit="full-coverage oxblood latex executive catsuit, high turtleneck neckline, long "
+                     "fitted sleeves, full-length legs, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
+             seam=False,
+             negative="red lips, oxblood, nipple piercings visible through clothing, split image"),
     ]
     # Casos que DEBEN pasar limpios (ya con los locks + negative + bloque_a al dia):
     def _neg(**kw):
@@ -318,6 +357,6 @@ if __name__ == "__main__":
     print("=== DEBEN pasar limpios (good) ===")
     pg = audit_garment_batch(good)
     for p in pg: print("  ", p)
-    ok = (len(pb) >= 7 and len(pg) == 0)
+    ok = (len(pb) >= 10 and len(pg) == 0)
     print("\nSelf-check:", "LIMPIO (bad detectados, good sin falsos positivos)" if ok
-          else f"REVISAR (bad={len(pb)} esperado>=7, good={len(pg)} esperado 0)")
+          else f"REVISAR (bad={len(pb)} esperado>=10, good={len(pg)} esperado 0)")

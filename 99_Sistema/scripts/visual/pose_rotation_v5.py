@@ -85,11 +85,16 @@ _WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED}
 # vertical (L764 sentada en la mesa de directorio; L763 apoyada en el escritorio con los pies en el
 # piso — ni siquiera arriba). Es el mismo bug de SUSTITUCION DE MUEBLE que ya blindamos en la Seated,
 # atacando por el otro lado. Se le suma la clausula anti-percha + pies fuera del piso.
+# REFUERZO 15/07/2026 (L795 Odalisque): la toma salio con el ENCUADRE ROTADO 90 grados (la figura
+# recostada a lo largo del eje vertical del cuadro, desorientante). Se suma el ancla de camara
+# nivelada: piso abajo, horizonte recto, imagen nunca rotada de lado.
 ODALISQUE_ANCHOR = ("lying down on the surface with the whole body low and horizontal, a reclining "
                     "odalisque with the torso resting down toward the surface, NOT sitting upright "
                     "and NOT seated, both hips and shoulders down on the named surface with the legs "
                     "stretched along it and both feet off the floor, NOT perched on the edge and NOT "
-                    "leaning against any nearby table, desk, counter or island")
+                    "leaning against any nearby table, desk, counter or island, shot with a level "
+                    "upright camera, the floor at the bottom of the frame and the horizon perfectly "
+                    "level, the image never rotated or tilted sideways")
 
 # ANCLA DE PESO EN LA SENTADA + REESCRITURA DE 2 VARIANTES (Ama 11/07/2026 — BUG "problemas
 # en Seated"): auditoria de las ultimas 50 imagenes (L729-L760) encontro 6 de 7 muestras con
@@ -143,6 +148,25 @@ STANDING_ANCHOR = ("standing upright and facing the camera from the front, the f
                    "camera, a FRONT view: NOT a back view, NOT a rear or three-quarter view from "
                    "behind, the body never turned away from the lens and never seen from the back")
 
+# ANCLA DE CUADRO UNICO / ANTI-COLLAGE (Ama 15/07/2026 — BUG "la imagen sale como grilla de
+# paneles"): el batch de prueba L791-L800 rindio 4 de 30 imagenes como COLLAGE (L792 Standing =
+# grilla de 9 paneles con la figura central DESCALZA, L792 Ditzy = 4 paneles, L795 Seated = 5+
+# paneles, L795 Ditzy = 3 paneles) — CON el negativo pegado en Gemini (la Ama dio fe: se copia
+# positivo+negativo junto). Doble causa:
+#  (1) Gemini LEE el negative y lo IGNORA cuando quiere ("split image" estaba vetado y salio
+#      igual). Ya lo sabiamos por las poses (feedback_anti_3_piernas_poses): el lever real es
+#      el POSITIVE. Un veto sin su ancla afirmativa es solo media defensa.
+#  (2) NOSOTROS lo invitabamos: el CONSISTENCY_LOCK viejo decia "IDENTICAL and unchanged across
+#      all poses / in every shot" y el NEG_HOSIERY "changing colour between shots" — un generador
+#      de UNA imagen lee "all poses / between shots" y entrega... una hoja de contactos con todas
+#      las poses. El metalenguaje multi-toma se DEROGA de todos los locks (ver v2 abajo).
+# El ancla se PREPENDE a las 7 poses (primacia absoluta, antes incluso del ancla anatomica):
+# define QUE ES la imagen antes de describir que hay en ella.
+SINGLE_FRAME = ("a single continuous photograph: one woman alone in one single full-bleed frame "
+                "that fills the entire image edge to edge, one scene and one moment, NOT a collage, "
+                "NOT a grid or multi-panel layout, NOT a contact sheet, storyboard, photo strip or "
+                "split screen, with no internal borders, dividers or picture-in-picture insets")
+
 # ANCLA DE ORIENTACION DE LA RAYA DE LA MEDIA (Ama 11/07/2026 — BUG "raya al frente"):
 # El token de vestuario describe la media como "back-seam stockings" (raya trasera). Igual que
 # "at front revealing" en la bata, "back-seam" es RELATIVO A LA CAMARA: en poses de frente el
@@ -175,9 +199,13 @@ _SEAM_SKIP_SLOTS = {"Side Profile"}
 # confirmado en el batch: L765 rindio la Seated con medias NEGRAS mientras las otras 6 poses las
 # llevan esmeralda; L764 rindio el estampado piton nitido en Seated/Back View y media lisa sin
 # escamas en Side/POV/Odalisque/Ditzy. Se pega junto al CONSISTENCY_LOCK cuando el look usa medias.
-HOSIERY_LOCK = ("the stockings are the exact same single pair in every shot: identical colour, identical "
-                "print or pattern, identical opacity and identical length on the thigh, never switching "
-                "colour, never losing or gaining their pattern, never swapped for bare legs")
+# HOSIERY_LOCK v2 (Ama 15/07/2026 — DEROGADO el metalenguaje multi-toma): "in every shot / never
+# switching" invitaba la hoja de contactos (ver SINGLE_FRAME). v2 fija los mismos atributos como
+# descripcion de UNA sola imagen.
+HOSIERY_LOCK = ("the stockings are exactly ONE single pair rendered precisely as described: their "
+                "colour, their print or pattern, their opacity and their length on the thigh follow "
+                "the description word for word, never a different colour, never missing their pattern, "
+                "never mismatched between the two legs and never swapped for bare legs")
 
 # ANCLA DE OPACIDAD / ANTI-CORTE (Ama 11/07/2026 — BUG "cortes para mostrar runas/ombligo"):
 # El Bloque A (INTOCABLE) describe "navel piercing", "nipple piercings ... visible under clothing"
@@ -207,11 +235,41 @@ OPAQUE_LOCK = ("the garment is solid and uncut across the bust, midriff, navel a
 # La Ama DEROGA la directiva vieja: piercings y tatuajes son ADN permanente del cuerpo, pero se ven
 # SOLO en piel genuinamente descubierta. Bajo tela no existen. El Bloque A se corrige en su fuente
 # (dna_v3_5.md) y este candado cierra la puerta en el prompt. Ver feedback_marcas_solo_en_piel.
-SKIN_LOCK = ("every tattoo and every body piercing exists ONLY on genuinely bare exposed skin: where the "
-             "garment covers the body the skin underneath is completely hidden, with NO nipple piercing and "
-             "NO nipple shape pressing through or showing under the fabric, NO navel piercing showing through "
-             "the fabric, and NO tattoo printed on, embossed on, drawn over or showing through any sleeve, "
-             "panel or covered area of the garment; the fabric is opaque and unmarked wherever it covers")
+# SKIN_LOCK v2 — AFIRMATIVO PRIMERO (Ama 15/07/2026): el v1 era una letania de NO-clausulas y
+# fallo IGUAL en el batch de prueba (L777 Ditzy: bultos de pezon a traves del vinilo; L791
+# Standing: aro del ombligo dibujado SOBRE el latex del catsuit) — CON el negativo llegando a
+# Gemini. Leccion consolidada: la negacion en el positive es debil; lo que Gemini obedece es la
+# DESCRIPCION AFIRMATIVA de la superficie deseada (mismo principio que GLOSS_LOCK: describir el
+# brillo que SI quieres, no el mate que no). v2 abre describiendo la tela lisa y sin marcas como
+# hecho positivo y recien despues acota las marcas a la piel desnuda. Los markers de has_skin_lock
+# se conservan ("ONLY on genuinely bare exposed skin").
+SKIN_LOCK = ("wherever the garment covers the body its fabric surface is perfectly smooth, taut and "
+             "unbroken — a clean featureless glossy surface over the bust, the nipples, the navel and "
+             "the hips, with nothing pressing through it, printed on it or showing under it; every "
+             "tattoo and every body piercing exists ONLY on genuinely bare exposed skin, never through "
+             "the fabric and never drawn over any sleeve, panel or covered area of the garment")
+
+# ZONAS SIN TATUAR (Ama 15/07/2026 — BUG "los tatuajes migran"): cuando la prenda cubre las zonas
+# canonicas del tatuaje (brazos bajo manga larga, muslos bajo catsuit), Gemini MIGRA la tinta a la
+# piel que queda visible: manos y dedos cubiertos de rosas (L791 las 7 poses, L777 Ditzy), cuello
+# (L791 Seated), canillas (L797 Side). Y al reves: en L795 POV los brazos desnudos salieron SIN
+# ningun tatuaje. El Bloque A dice DONDE viven los tatuajes; esta clausula dice donde NO — y
+# reafirma el mapa canonico completo para que tampoco desaparezcan. Pegar junto al SKIN_LOCK.
+UNMARKED_ZONES = ("her hands, fingers, neck, throat, sternum, shins, calves and feet are clean "
+                  "unmarked porcelain skin with no tattoos and no glyphs; the blackwork tattoos exist "
+                  "exactly where described — on the arms, the upper back, the outer thighs and along "
+                  "one hip crease — and nowhere else, present there whenever that skin is bare")
+
+# ANTI-MANGA FANTASMA (Ama 15/07/2026 — BUG "guantes/mangas grises alucinadas"): el batch de
+# prueba rindio mangas-guante gris oscuro codo-a-muneca que NO existen en ningun prompt (L792 en
+# 6 de 7 poses, L795 Ditzy, L777 Back View) — con "gloves" vetado en el negativo y "bare hands
+# with no gloves" en el positive. El token viejo solo protegia las MANOS; el generador respeto
+# las manos desnudas y cubrio el ANTEBRAZO. v2 cubre el brazo entero RELATIVO al largo de manga
+# descrito (no pelea con catsuits de manga larga). Reemplaza a "bare hands with no gloves" en
+# todo batch nuevo.
+NO_ARMWEAR = ("bare hands with no gloves of any kind, and beyond the garment's described sleeve "
+              "length the arms are genuinely bare skin, with no separate arm sleeves, arm warmers, "
+              "detached cuffs, forearm bands or elbow-length coverings added")
 
 # GUARDIA DURA CONTRA LA ORDEN VIEJA (Ama 13/07/2026, reforzada tras la auditoria del 13/07 sobre
 # L761-L770 — esos 6 looks SE GENERARON con esta frase todavia puesta y el defecto salio calcado:
@@ -268,9 +326,10 @@ GLOSS_LOCK = ("rendered in a high-shine liquid latex / wet-look PVC / patent vin
 # Uso: pegar animal_print_lock("python") en la clausula de vestuario cuando el look declare
 # leopard/tiger/python/snake/zebra, y anadir NEG_PRINT_DRIFT al negative (build_negative(animal_print=...)).
 def animal_print_lock(kind):
-    """kind: 'python'/'snake'/'leopard'/'tiger'/'zebra'. Devuelve el candado de fidelidad de estampado."""
+    """kind: 'python'/'snake'/'leopard'/'tiger'/'zebra'. Devuelve el candado de fidelidad de estampado.
+    v2 15/07/2026: fuera el "in every pose" (metalenguaje multi-toma, ver SINGLE_FRAME)."""
     return (f"the {kind} print is a genuine {kind}-skin scale/marking texture rendered consistently across "
-            f"every visible inch of the printed fabric in every pose, NOT a lace pattern, NOT a floral or "
+            f"every visible inch of the printed fabric, NOT a lace pattern, NOT a floral or "
             f"vine motif, NOT embroidery or filigree, and NOT a plain sheer fabric with no pattern at all")
 
 NEG_PRINT_DRIFT = ("lace pattern instead of animal print, floral pattern instead of animal print, vine motif "
@@ -287,14 +346,27 @@ NEG_PRINT_DRIFT = ("lace pattern instead of animal print, floral pattern instead
 # (ej. "off-shoulder bardot neckline, long fitted sleeves to the wrist, floor-length mermaid hem");
 # (b) pegar CONSISTENCY_LOCK para que la IA no reinvente el corte por pose. El linter garment_canon.py
 # marca vestidos/gowns cuyo token no nombre neckline/sleeve/hem. Ver feedback_drift_prenda_entre_poses.
-CONSISTENCY_LOCK = ("the exact same single outfit in every shot: its neckline shape, sleeve length, hemline "
-                    "length, cut and print are IDENTICAL and unchanged across all poses, never re-styled, "
-                    "never lengthened or shortened, never switching between sleeveless and sleeved or between "
-                    "high and low neckline")
+# CONSISTENCY_LOCK v2 (Ama 15/07/2026 — DEROGADO el metalenguaje multi-toma): el v1 decia
+# "the exact same single outfit in every shot ... IDENTICAL and unchanged across all poses".
+# Dos problemas confirmados en el batch de prueba L791-L800:
+#  (1) Un generador de UNA imagen no puede comparar "poses" — la clausula no fijaba nada per-image;
+#  (2) "in every shot / across all poses" le SUGIERE la multi-toma -> hoja de contactos (4 collages
+#      en 30 imagenes, ver SINGLE_FRAME). Ademas el batch mostro el drift que el lock decia parar:
+#      vestido vuelto two-piece (L777/L795 Ditzy), mangas que crecen (L795 Odalisque: al one-shoulder
+#      sin mangas le SALIERON mangas largas), catsuit recortado en las caderas (L791 POV).
+# v2 fija los MISMOS atributos como descripcion estricta de una sola imagen y agrega los dos modos
+# de mutacion nuevos (two-piece / cropped) que el v1 no nombraba.
+CONSISTENCY_LOCK = ("the outfit is exactly ONE garment ensemble rendered precisely as described: its "
+                    "neckline shape, sleeve length, hemline length, cut and print follow the description "
+                    "word for word, never re-styled, never lengthened or shortened, never split into a "
+                    "two-piece or cropped version, never switching between sleeveless and sleeved or "
+                    "between high and low neckline")
 
 # Fragmentos para el NEGATIVE del inyector (pegar segun el caso):
-NEG_INCONSISTENT = ("changing neckline between shots, altered sleeve length, different hemline length, "
-                    "re-styled outfit, inconsistent dress cut, varying print pattern")
+# v2 15/07/2026: fuera el "between shots" (metalenguaje multi-toma); entran two-piece/cropped.
+NEG_INCONSISTENT = ("a different neckline than described, altered sleeve length, a different hemline "
+                    "length than described, re-styled outfit, inconsistent dress cut, a two-piece version "
+                    "of the dress, a cropped version of the garment, varying print pattern")
 NEG_FRONT_SEAM = ("seam down the front of the leg, front seam on stockings, seam on the shin, front-seamed "
                   "stockings, line down the front of the leg, stripe down the shin")
 NEG_CUTOUT     = ("keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, "
@@ -308,9 +380,10 @@ NEG_MARKS_THROUGH = ("nipple piercings visible through clothing, nipple piercing
                      "see-through bodice revealing piercings")
 # OJO: NADA de vetar un color concreto aqui (un "black stockings" en el negative pelearia con los
 # looks cuyas medias SON negras — p.ej. L764 piton negra). Se veta el CAMBIO, no un tono.
-NEG_HOSIERY = ("stockings changing colour between shots, stockings losing their pattern, hosiery with a "
-               "different colour than described, bare legs without stockings, mismatched hosiery, "
-               "inconsistent stockings")
+# v2 15/07/2026: fuera el "between shots" (metalenguaje multi-toma, ver SINGLE_FRAME).
+NEG_HOSIERY = ("stockings in a different colour than described, stockings missing their pattern, "
+               "hosiery with a different colour than described, bare legs without stockings, "
+               "mismatched hosiery, inconsistent stockings")
 
 # ============================================================================================
 # NEGATIVE BASE — FUENTE UNICA (Ama 13/07/2026)
@@ -324,17 +397,28 @@ NEG_HOSIERY = ("stockings changing colour between shots, stockings losing their 
 # FIX ESTRUCTURAL: el negative deja de ser texto suelto de cada inyector y pasa a construirse AQUI.
 # Todo inyector DEBE llamar build_negative(...) y el linter garment_canon.py falla si un look nuevo
 # entra a la galeria sin su bloque negativo. Ver feedback_negative_perdido_L711.
+# v2 15/07/2026 (batch de prueba L791-L800, con el negativo YA llegando a Gemini — fe de la Ama):
+#  (a) "oxblood" iba DESNUDO (vetaba el color entero, no el labio): el L791 ES un catsuit oxblood
+#      y su propio negativo peleaba contra su prenda. Regla vieja re-aprendida: NUNCA vetar un
+#      color a secas (feedback_negative_perdido_L711) — ahora es "oxblood lips".
+#  (b) Entra la familia anti-collage completa (el "split image" solo no basto: L792/L795 rindieron
+#      grillas de 3-9 paneles igual — el par afirmativo es SINGLE_FRAME en el positive).
+#  (c) Entran las mangas/calentadores de brazo fantasma (par negativo de NO_ARMWEAR: el batch
+#      alucino mangas-guante grises que "gloves" solo no cubria).
+#  (d) Entra el encuadre rotado (L795 Odalisque salio con la camara girada 90 grados).
 BASE_NEGATIVE = (
-    "gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood, "
+    "gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, "
     "different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, "
     "flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, "
     "mismatched shoes, changing footwear, inconsistent footwear, "
     "different outfit, altered clothing, inconsistent outfit, different body, "
     "gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, "
-    "satin gloves, lace gloves, covered hands, "
+    "satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, "
     "extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, "
     "mutated hands, malformed fingers, three legs, extra leg, extra foot, "
-    "two women, duplicate figure, split image, "
+    "two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, "
+    "photo strip, storyboard, image divided into panels, borders dividing the image, "
+    "rotated image, sideways rotated frame, tilted horizon, "
     "first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, "
     "smartphone, selfie stick, selfie, "
     "text on clothing, lettering on garment, embroidered name, logo"
@@ -478,8 +562,26 @@ SLOTS = [
  ("Odalisque", ODALISQUE, 2),
 ]
 
+# ECO DE CALZADO EN POSES NO-FRONTALES (Ama 15/07/2026 — BUG "el zapato muta cuando la camara
+# no lo mira de frente"): el Token de Calzado Bloqueado (8 atributos x7) aguanta en Standing/
+# Seated/Side pero el batch de prueba lo vio mutar justo en los slots donde el pie queda lejos
+# del foco: L791 Odalisque rindio BOTINES con plataforma donde el token pedia pumps slip-on sin
+# plataforma; L797 Back View rindio booties de punta redonda con plataforma dorada donde el token
+# pedia botin puntiagudo sin plataforma. El token vive enterrado en el medio del prompt; en Back/
+# Odalisque se le suma un ECO corto al final de la direccion de pose (cerca del encuadre, donde
+# el generador decide que se ve) reafirmando heel/plataforma/puntera.
+def footwear_echo(shoe_short):
+    """shoe_short: descriptor corto del calzado (ej. 'oxblood patent pointed-toe stiletto pumps,
+    no platform'). Devuelve el eco a appendear en Back View y Odalisque."""
+    return (f"the footwear clearly visible and exactly as described — {shoe_short} — with the same "
+            f"heel, the same platform height and the same toe shape, never swapped for boots, "
+            f"booties or any other shoe style")
+
+_SHOE_ECHO_SLOTS = {"Back View", "Odalisque"}
+
+
 def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface="a surface",
-                 wrap_mode=None, seam=False):
+                 wrap_mode=None, seam=False, shoe_echo=None):
     """Devuelve [(slot, pose_direction)] de 7, rotados por nº de look y con props CONTEXTUALES.
     seat/wall/surface deben describir mobiliario REAL del setting del look (armonia con el ambiente).
 
@@ -493,7 +595,16 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
     seam (Ama 11/07/2026 — BUG "raya de la media al frente"): pasar seam=True cuando el look usa
     MEDIAS CON COSTURA (back-seam / seamed stockings). Ancla POSE-AWARE la orientacion de la raya:
     poses de frente -> "frente liso, costura solo por detras"; Back View -> "costura visible por
-    detras"; Side Profile no la lleva. Ver auto-memoria feedback_media_raya_frontal."""
+    detras"; Side Profile no la lleva. Ver auto-memoria feedback_media_raya_frontal.
+
+    shoe_echo (Ama 15/07/2026 — BUG "el zapato muta en Back/Odalisque"): descriptor corto del
+    calzado del look (ej. 'silver mirror-chrome knee-high stiletto boots, no platform'). Si se
+    pasa, Back View y Odalisque reciben footwear_echo(shoe_echo) al final de la pose.
+
+    TODA pose sale ademas con SINGLE_FRAME prepuesto (primacia absoluta, Ama 15/07/2026): define
+    la imagen como UN solo cuadro continuo antes de describir nada — el batch de prueba rindio
+    4 collages/grillas de 30 imagenes CON "split image" vetado en el negativo (Gemini lo ignora;
+    el lever es el positive)."""
     if wrap_mode not in (None, "slip", "closed"):
         raise ValueError(f"wrap_mode invalido: {wrap_mode!r} (usa None, 'slip' o 'closed')")
     wrap_anchor = _WRAP_ANCHORS.get(wrap_mode)
@@ -513,11 +624,14 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
             # generador a pintar la costura en la cara VISIBLE de la pierna. La respalda ademas
             # build_negative(seam=True), que antes ningun inyector pegaba.
             anchor = anchor + ", " + (STOCKING_SEAM_BACK if name == "Back View" else STOCKING_SEAM_FRONT)
-        v = anchor + ", " + v  # ancla anatomica automatica (ver nota arriba)
+        # SINGLE_FRAME va PRIMERO que todo (anti-collage, primacia absoluta):
+        v = SINGLE_FRAME + ", " + anchor + ", " + v
         if name == "Seated":
             v = v + ", " + SEATED_ANCHOR  # ancla de peso (bug sustitucion de mueble)
         if name == "Back View" and wrap_anchor:
             v = v + ", " + wrap_anchor  # ancla de orientacion de prenda envolvente (bug bata-al-reves)
+        if shoe_echo and name in _SHOE_ECHO_SLOTS:
+            v = v + ", " + footwear_echo(shoe_echo)  # eco de calzado (bug zapato-que-muta)
         out.append((name, v))
     return out
 
@@ -562,13 +676,49 @@ if __name__ == "__main__":
                "converging to", "stiletto tips", "selfie", "phone", "smartphone"]
     pov_hits = [f"POV[{i}] -> '{b}'" for i, v in enumerate(POV) for b in POV_BAD if b in v.lower()]
     print("Anti-POV-literal check:", "LIMPIO (POV = retrato IG)" if not pov_hits else "FLAGS: " + "; ".join(pov_hits))
-    # Auto-check ancla anatomica: toda pose generada debe traer su ancla ya incluida.
+    # Auto-check ancla anatomica: toda pose generada debe traer su ancla ya incluida,
+    # precedida SIEMPRE por SINGLE_FRAME (anti-collage, primacia absoluta, Ama 15/07).
     miss = []
     for slot, txt in rotate_poses(531):
-        want = HANDS_ANCHOR if slot in CLOSEUP_SLOTS else FULL_ANCHOR
+        want = SINGLE_FRAME + ", " + (HANDS_ANCHOR if slot in CLOSEUP_SLOTS else FULL_ANCHOR)
         if not txt.startswith(want):
             miss.append(slot)
-    print("Ancla anatomica check:", "LIMPIO (todas las poses anclan)" if not miss else "FALTA en: " + ", ".join(miss))
+    print("Ancla anatomica check:", "LIMPIO (todas las poses anclan tras SINGLE_FRAME)" if not miss else "FALTA en: " + ", ".join(miss))
+    # Auto-check SINGLE_FRAME (Ama 15/07 — bug collage): las 7 poses lo llevan al FRENTE.
+    sf_ok = all(txt.startswith(SINGLE_FRAME) for _, txt in rotate_poses(792))
+    print("Ancla cuadro unico check:",
+          "LIMPIO (SINGLE_FRAME prepuesto en las 7 poses)" if sf_ok else "FALLA (falta SINGLE_FRAME)")
+    # Auto-check METALENGUAJE MULTI-TOMA (Ama 15/07 — el lock viejo invitaba la hoja de contactos):
+    # ningun lock/negative del motor puede volver a decir "every shot / all poses / between shots".
+    META = ["every shot", "all poses", "between shots", "in every pose"]
+    meta_hits = [f"{name} -> '{m}'" for name, txt in [
+        ("CONSISTENCY_LOCK", CONSISTENCY_LOCK), ("HOSIERY_LOCK", HOSIERY_LOCK),
+        ("NEG_INCONSISTENT", NEG_INCONSISTENT), ("NEG_HOSIERY", NEG_HOSIERY),
+        ("animal_print_lock", animal_print_lock("python")), ("SKIN_LOCK", SKIN_LOCK),
+        ("UNMARKED_ZONES", UNMARKED_ZONES), ("NO_ARMWEAR", NO_ARMWEAR),
+        ("BASE_NEGATIVE", BASE_NEGATIVE)] for m in META if m in txt.lower()]
+    print("Metalenguaje multi-toma check:",
+          "LIMPIO (ningun lock habla de shots/poses)" if not meta_hits else "FLAGS: " + "; ".join(meta_hits))
+    # Auto-check eco de calzado (Ama 15/07 — bug zapato-que-muta en Back/Odalisque): con shoe_echo,
+    # SOLO Back View y Odalisque lo llevan; sin shoe_echo, ninguna pose lo lleva.
+    echo_txt = footwear_echo("test pumps, no platform")
+    echo_poses = dict(rotate_poses(791, shoe_echo="test pumps, no platform"))
+    echo_ok = echo_txt in echo_poses["Back View"] and echo_txt in echo_poses["Odalisque"]
+    echo_leak = any(echo_txt in txt for slot, txt in echo_poses.items()
+                    if slot not in ("Back View", "Odalisque"))
+    echo_none = any("never swapped for boots" in txt for _, txt in rotate_poses(791))
+    print("Eco de calzado check:",
+          "LIMPIO (echo solo en Back/Odalisque, sin fuga)" if (echo_ok and not echo_leak and not echo_none)
+          else f"FALLA (echo_ok={echo_ok} fuga={echo_leak} sin_param={echo_none})")
+    # Auto-check camara nivelada en Odalisque (Ama 15/07 — L795 salio rotada 90 grados):
+    lvl_ok = "never rotated or tilted sideways" in dict(rotate_poses(795))["Odalisque"]
+    print("Camara nivelada odalisca check:",
+          "LIMPIO (ancla de horizonte en Odalisque)" if lvl_ok else "FALLA (falta el ancla de camara)")
+    # Auto-check constantes nuevas 15/07 (UNMARKED_ZONES anti-migracion + NO_ARMWEAR anti-manga):
+    nz_ok = ("unmarked porcelain skin" in UNMARKED_ZONES and "hip crease" in UNMARKED_ZONES
+             and "arm sleeves" in NO_ARMWEAR and "bare hands" in NO_ARMWEAR)
+    print("Zonas sin tatuar / anti-manga check:",
+          "LIMPIO (UNMARKED_ZONES + NO_ARMWEAR definidos)" if nz_ok else "FALLA (constantes mal formadas)")
     # Auto-check ancla de prenda envolvente (Ama 09/07 — bug bata-al-reves): con wrap_mode, SOLO
     # la Back View lleva el ancla de orientacion; sin wrap_mode, ninguna pose la lleva.
     def _bv(poses): return dict(poses)["Back View"]
@@ -600,18 +750,19 @@ if __name__ == "__main__":
           "LIMPIO (back atras, frente liso, side skip, sin fuga sin seam)"
           if (seam_back_ok and seam_front_ok and seam_side_skip and not seam_leak_none)
           else f"FALLA (back={seam_back_ok} front={seam_front_ok} side_skip={seam_side_skip} fuga_sin_seam={seam_leak_none})")
-    # Auto-check constantes de vestuario (Ama 11/07): OPAQUE_LOCK / GLOSS_LOCK / CONSISTENCY_LOCK.
+    # Auto-check constantes de vestuario (Ama 11/07, v2 15/07): OPAQUE / GLOSS / CONSISTENCY.
     print("Constantes vestuario check:",
-          "LIMPIO (OPAQUE_LOCK + GLOSS_LOCK + CONSISTENCY_LOCK definidas)"
+          "LIMPIO (OPAQUE_LOCK + GLOSS_LOCK + CONSISTENCY_LOCK v2 definidas)"
           if (len(OPAQUE_LOCK) > 40 and len(GLOSS_LOCK) > 40 and "no matte" in GLOSS_LOCK.lower()
-              and len(CONSISTENCY_LOCK) > 40 and "identical" in CONSISTENCY_LOCK.lower())
+              and len(CONSISTENCY_LOCK) > 40 and "word for word" in CONSISTENCY_LOCK.lower()
+              and "two-piece" in CONSISTENCY_LOCK.lower())
           else "FALLA (constantes vacias o mal formadas)")
-    # Auto-check SKIN_LOCK + HOSIERY_LOCK (Ama 13/07 — marcas a traves de la tela / media que cambia).
+    # Auto-check SKIN_LOCK v2 + HOSIERY_LOCK v2 (Ama 13/07, v2 15/07 — afirmativo primero).
     skin_ok = all(t in SKIN_LOCK.lower() for t in
-                  ("bare exposed skin", "nipple", "navel piercing", "tattoo", "opaque"))
-    hos_ok = all(t in HOSIERY_LOCK.lower() for t in ("identical colour", "identical print", "same single pair"))
+                  ("smooth", "bare exposed skin", "nipple", "navel", "tattoo", "piercing"))
+    hos_ok = all(t in HOSIERY_LOCK.lower() for t in ("one single pair", "word for word", "bare legs"))
     print("Candados piel/medias check:",
-          "LIMPIO (SKIN_LOCK + HOSIERY_LOCK definidos)" if (skin_ok and hos_ok)
+          "LIMPIO (SKIN_LOCK v2 afirmativo + HOSIERY_LOCK v2 definidos)" if (skin_ok and hos_ok)
           else f"FALLA (skin_ok={skin_ok} hosiery_ok={hos_ok})")
     # Auto-check del NEGATIVE (Ama 13/07 — bug "sin bloque negativo desde el L711"):
     #  (1) NEG_MARKS_THROUGH va SIEMPRE (el par negativo del SKIN_LOCK);
@@ -632,6 +783,13 @@ if __name__ == "__main__":
                                    for c in ("black stockings", "green stockings", "white stockings")),
         "guantes":        "gloves" in neg_plain,
         "planos":         "flat shoes" in neg_plain and "barefoot" in neg_plain,
+        # v2 15/07: oxblood solo como labio (nunca el color desnudo — pelearia con prendas oxblood):
+        "oxblood_solo_labios": "oxblood lips" in neg_plain and not __import__("re").search(
+            r"oxblood(?!\s+lips)", neg_plain),
+        # v2 15/07: familia anti-collage + mangas fantasma + encuadre rotado presentes:
+        "anti_collage":   "collage" in neg_plain and "contact sheet" in neg_plain,
+        "anti_mangas":    "arm sleeves" in neg_plain and "arm warmers" in neg_plain,
+        "anti_rotacion":  "rotated image" in neg_plain,
     }
     bad_neg = [k for k, ok in neg_checks.items() if not ok]
     print("Negative check:", "LIMPIO (build_negative es fuente unica y condicional)" if not bad_neg
