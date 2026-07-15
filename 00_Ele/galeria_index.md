@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente desde la galería — **591 looks registrados**  
+> Generado automáticamente desde la galería — **601 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -580,13 +580,13 @@
 | **768** | Jade Palazzo Trophy (12/07/2026 · batch L761-L770 "Veneno Tropical" · Domestic · Domestic Trophy Bimbo (Palazzo Set) · Contraste) | — | — | — | — | 7/7 | — |
 | **769** | Neon Cage Monokini (12/07/2026 · batch L761-L770 "Veneno Tropical" · Bikini · Bikini Cage Monokini (One-Piece Strappy) · Monoblock) | — | — | — | — | 7/7 | — |
 | **770** | Tiki Venom Sarong (12/07/2026 · batch L761-L770 "Veneno Tropical" · Pin-Up · Pin-Up Tiki Fetish (Halter + Sarong) · Contraste) | — | — | — | — | 7/7 | — |
-| **771** | Salt Flat Mirror Pole (13/07/2026 · batch L771-L780 "Desierto de Sal" · Stripper · Salt Flat Pole (Crystalline Fringe Harness) · Contraste) | — | — | — | — | 0/7 | — |
-| **772** | Pearl Boardroom Tailoring (13/07/2026 · batch L771-L780 "Desierto de Sal" · Corporate · Salt Flat Executive (Pearl Mirror Tailoring) · Monoblock) | — | — | — | — | 0/7 | — |
+| **771** | Salt Flat Mirror Pole (13/07/2026 · batch L771-L780 "Desierto de Sal" · Stripper · Salt Flat Pole (Crystalline Fringe Harness) · Contraste) | — | — | — | — | 2/7 | ⏳ Pendiente |
+| **772** | Pearl Boardroom Tailoring (13/07/2026 · batch L771-L780 "Desierto de Sal" · Corporate · Salt Flat Executive (Pearl Mirror Tailoring) · Monoblock) | — | — | — | — | 1/7 | ⏳ Pendiente |
 | **773** | Blush Column Drape (13/07/2026 · batch L771-L780 "Desierto de Sal" · Escort · Salt Flat Draped Column (One-Shoulder) · Monoblock) | — | — | — | — | 0/7 | — |
-| **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | — | — | — | — | 0/7 | — |
-| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | — | — | — | — | 0/7 | — |
-| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | — | — | — | — | 0/7 | — |
-| **777** | Lavender Mirror Bandage (13/07/2026 · batch L771-L780 "Desierto de Sal" · Nightclub · Salt Flat Mirror Lounge (Cutout Bandage Mini) · Contraste) | — | — | — | — | 0/7 | — |
+| **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | — | — | — | — | 2/7 | ⏳ Pendiente |
+| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | — | — | — | — | 1/7 | ⏳ Pendiente |
+| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | — | — | — | — | 1/7 | ⏳ Pendiente |
+| **777** | Lavender Mirror Bandage (13/07/2026 · batch L771-L780 "Desierto de Sal" · Nightclub · Salt Flat Mirror Lounge (Cutout Bandage Mini) · Contraste) | — | — | — | — | 7/7 | — |
 | **778** | Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lenceria · Salt Flat Boudoir (Longline Bra + Garter) · Contraste) | — | — | — | — | 7/7 | — |
 | **779** | Silver Chain Triangle (13/07/2026 · batch L771-L780 "Desierto de Sal" · Bikini · Salt Flat Mirror Pool (Triangle + Body Chain) · Monoblock) | — | — | — | — | 7/7 | — |
 | **780** | Pearl Two-Piece Flow (13/07/2026 · batch L771-L780 "Desierto de Sal" · Gym/Athleisure · Salt Flat Reformer (Two-Piece Mirror Set) · Monoblock) | — | — | — | — | 7/7 | — |
@@ -599,7 +599,17 @@
 | **787** | Gold Marquee Bodycon (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Nightclub · Rock Marquee Alley (Sequin Bodycon) · Monoblock) | — | — | — | — | 7/7 | — |
 | **788** | Black Purple Studded Boudoir (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Lenceria · Rock Tour Bunk Boudoir (Studded Bustier + Garter) · Contraste) | — | — | — | — | 7/7 | — |
 | **789** | Hot Pink Chain Triangle (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Bikini · Rock Rooftop Party (Studded Triangle + Chain) · Monoblock) | — | — | — | — | 7/7 | — |
-| **790** | Purple Fuchsia Aerobics Sequin (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Gym/Athleisure · Rock 80s Aerobics Studio (Sequin Leotard + Leg Warmers) · Contraste) | — | — | — | — | 6/7 | ⏳ Pendiente |
+| **790** | Purple Fuchsia Aerobics Sequin (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Gym/Athleisure · Rock 80s Aerobics Studio (Sequin Leotard + Leg Warmers) · Contraste) | — | — | — | — | 7/7 | — |
+| **791** | Oxblood Executive Catsuit (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Corporate · Vault Executive (Full-Coverage Catsuit) · Monoblock) | — | — | — | — | 7/7 | — |
+| **792** | Amethyst Kimono Boudoir (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Lencería · Jewel-Box Boudoir (Kimono + Balconette Set) · Contraste) | — | — | — | — | 7/7 | — |
+| **793** | Emerald Halter Cocktail Seams (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Escort · Grand Lounge Courtesan (Halter Cocktail + Seamed Stockings) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
+| **794** | Leopard Halter Swing Bombshell (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Pin-Up · Retro Diner Bombshell (Leopard Halter Swing Dress) · Contraste) | — | — | — | — | 0/7 | ⏳ Pendiente |
+| **795** | Silver Pleat Violet Hosiery (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Nightclub · VIP Neon Lounge (One-Shoulder Pleated Micro + Violet Stockings) · Contraste) | — | — | — | — | 7/7 | — |
+| **796** | Sapphire Vault Sculpture Gown (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Art-Vault Sculptural (Strapless Mermaid Gown) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
+| **797** | Tangerine Zip Shirt-Dress (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Domestic · Villa Kitchen Trophy (Zip-Front Shirt-Dress) · Contraste) | — | — | — | — | 4/7 | ⏳ Pendiente |
+| **798** | Jet High-Cut Teddy (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Lencería · Penthouse Boudoir (Wet-Look High-Cut Teddy) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
+| **799** | Champagne Bandeau Pool (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Bikini · Rooftop Infinity Pool (Twist Bandeau + Brazilian) · Contraste) | — | — | — | — | 0/7 | ⏳ Pendiente |
+| **800** | Chrome Hooded Column (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Studio Cyclorama (Hooded Liquid-Metal Sheath) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -662,8 +672,8 @@
 ### Pin-Up & Retro (4 looks)
 **534**, **547**, **554**, **559**
 
-### Sin categoría (100 looks)
-**691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **701**, **702**, **703**, **704**, **705**, **706**, **707**, **708**, **709**, **710**, **711**, **712**, **713**, **714**, **715**, **716**, **717**, **718**, **719**, **720**, **721**, **722**, **723**, **724**, **725**, **726**, **727**, **728**, **729**, **730**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**, **741**, **742**, **743**, **744**, **745**, **746**, **747**, **748**, **749**, **750**, **751**, **752**, **753**, **754**, **755**, **756**, **757**, **758**, **759**, **760**, **761**, **762**, **763**, **764**, **765**, **766**, **767**, **768**, **769**, **770**, **771**, **772**, **773**, **774**, **775**, **776**, **777**, **778**, **779**, **780**, **781**, **782**, **783**, **784**, **785**, **786**, **787**, **788**, **789**, **790**
+### Sin categoría (110 looks)
+**691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **701**, **702**, **703**, **704**, **705**, **706**, **707**, **708**, **709**, **710**, **711**, **712**, **713**, **714**, **715**, **716**, **717**, **718**, **719**, **720**, **721**, **722**, **723**, **724**, **725**, **726**, **727**, **728**, **729**, **730**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**, **741**, **742**, **743**, **744**, **745**, **746**, **747**, **748**, **749**, **750**, **751**, **752**, **753**, **754**, **755**, **756**, **757**, **758**, **759**, **760**, **761**, **762**, **763**, **764**, **765**, **766**, **767**, **768**, **769**, **770**, **771**, **772**, **773**, **774**, **775**, **776**, **777**, **778**, **779**, **780**, **781**, **782**, **783**, **784**, **785**, **786**, **787**, **788**, **789**, **790**, **791**, **792**, **793**, **794**, **795**, **796**, **797**, **798**, **799**, **800**
 
 ### Stripper (60 looks)
 **226**, **229**, **240**, **252**, **253**, **281**, **282**, **322**, **327**, **352**, **355**, **362**, **391**, **398**, **415**, **416**, **428**, **433**, **434**, **441**, **442**, **443**, **444**, **445**, **446**, **447**, **448**, **449**, **450**, **451**, **452**, **453**, **454**, **455**, **456**, **457**, **458**, **459**, **460**, **471**, **480**, **481**, **482**, **500**, **507**, **525**, **538**, **552**, **578**, **608**, **618**, **622**, **633**, **639**, **643**, **651**, **652**, **665**, **678**, **688**
@@ -672,8 +682,8 @@
 
 ## 🎨 Looks por Color Dominante
 
-### Rojo / Cherry / Crimson (74 looks)
-**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**, **621**, **625**, **634**, **640**, **641**, **643**, **651**, **656**, **659**, **666**, **671**, **677**, **711**, **720**, **730**
+### Rojo / Cherry / Crimson (75 looks)
+**204**, **206**, **208**, **209**, **210**, **215**, **220**, **229**, **234**, **238**, **263**, **266**, **271**, **282**, **283**, **285**, **288**, **291**, **297**, **323**, **332**, **347**, **351**, **352**, **353**, **354**, **355**, **356**, **357**, **358**, **359**, **360**, **361**, **363**, **376**, **387**, **405**, **460**, **507**, **517**, **522**, **526**, **534**, **545**, **547**, **549**, **559**, **576**, **578**, **580**, **586**, **592**, **596**, **603**, **606**, **610**, **614**, **617**, **620**, **621**, **625**, **634**, **640**, **641**, **643**, **651**, **656**, **659**, **666**, **671**, **677**, **711**, **720**, **730**, **791**
 
 ### Rosa / Hot Pink (39 looks)
 **210**, **222**, **235**, **241**, **248**, **267**, **269**, **272**, **275**, **301**, **304**, **389**, **394**, **399**, **421**, **446**, **453**, **469**, **540**, **547**, **559**, **561**, **584**, **601**, **629**, **691**, **692**, **693**, **694**, **695**, **696**, **697**, **698**, **699**, **700**, **714**, **719**, **767**, **789**
@@ -681,20 +691,20 @@
 ### Magenta / Fucsia (24 looks)
 **211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **513**, **528**, **538**, **608**, **629**, **633**, **684**, **694**, **698**, **717**, **724**, **781**, **784**, **790**
 
-### Violeta / Lila (23 looks)
-**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **524**, **539**, **547**, **565**, **572**, **600**, **626**, **649**, **674**, **681**, **725**, **785**, **788**, **790**
+### Violeta / Lila (24 looks)
+**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **524**, **539**, **547**, **565**, **572**, **600**, **626**, **649**, **674**, **681**, **725**, **785**, **788**, **790**, **795**
 
-### Azul / Cyan / Zafiro (42 looks)
-**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**, **602**, **615**, **624**, **631**, **635**, **636**, **678**, **683**, **687**, **718**, **722**, **723**
+### Azul / Cyan / Zafiro (43 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **527**, **533**, **541**, **543**, **556**, **581**, **593**, **602**, **615**, **624**, **631**, **635**, **636**, **678**, **683**, **687**, **718**, **722**, **723**, **796**
 
-### Verde / Esmeralda (42 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**, **673**, **682**, **716**, **727**, **761**, **763**, **764**, **765**, **766**, **768**
+### Verde / Esmeralda (43 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **519**, **523**, **529**, **531**, **536**, **577**, **578**, **590**, **595**, **622**, **638**, **645**, **673**, **682**, **716**, **727**, **761**, **763**, **764**, **765**, **766**, **768**, **793**
 
-### Dorado / Bronce (57 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **619**, **623**, **628**, **632**, **672**, **679**, **688**, **692**, **696**, **715**, **728**, **782**, **787**
+### Dorado / Bronce (58 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **511**, **516**, **530**, **546**, **562**, **569**, **582**, **594**, **619**, **623**, **628**, **632**, **672**, **679**, **688**, **692**, **696**, **715**, **728**, **782**, **787**, **799**
 
-### Plateado / Plata (65 looks)
-**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **657**, **658**, **660**, **668**, **683**, **688**, **715**, **729**, **751**, **754**, **755**, **756**, **757**, **758**, **779**, **786**
+### Plateado / Plata (67 looks)
+**212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **457**, **458**, **459**, **493**, **496**, **508**, **513**, **518**, **525**, **541**, **542**, **545**, **548**, **552**, **554**, **556**, **564**, **570**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **657**, **658**, **660**, **668**, **683**, **688**, **715**, **729**, **751**, **754**, **755**, **756**, **757**, **758**, **779**, **786**, **795**, **800**
 
 ### Blanco / Crema (63 looks)
 **243**, **257**, **264**, **277**, **312**, **324**, **335**, **343**, **356**, **364**, **371**, **380**, **411**, **432**, **434**, **435**, **436**, **439**, **461**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **500**, **501**, **502**, **512**, **535**, **555**, **559**, **564**, **573**, **580**, **584**, **585**, **593**, **597**, **600**, **605**, **609**, **615**, **625**, **626**, **655**, **663**, **676**, **693**, **695**, **713**, **731**, **732**, **733**, **734**, **735**, **736**, **737**, **738**, **739**, **740**, **778**
@@ -1004,14 +1014,19 @@
 | **729** | Chrome Silver Goddess (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Pin-Up · Retro-Futurismo (Barbarella Silver Goddess) · Monoblock) | 4/7 | ⏳ Pendiente |
 | **730** | Oxblood Full Harness (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Lenceria · Fetish Arquitectonico (Full Body Harness) · Contraste) | 2/7 | ⏳ Pendiente |
 | **731** | Ivory Bridal Illusion Stage (07/07/2026 · batch L731-L740 "Novia Fetish" · Stripper · Stage Showgirl (Bridal Illusion Confession) · Contraste) | 3/7 | ⏳ Pendiente |
-| **771** | Salt Flat Mirror Pole (13/07/2026 · batch L771-L780 "Desierto de Sal" · Stripper · Salt Flat Pole (Crystalline Fringe Harness) · Contraste) | 0/7 | — |
-| **772** | Pearl Boardroom Tailoring (13/07/2026 · batch L771-L780 "Desierto de Sal" · Corporate · Salt Flat Executive (Pearl Mirror Tailoring) · Monoblock) | 0/7 | — |
+| **771** | Salt Flat Mirror Pole (13/07/2026 · batch L771-L780 "Desierto de Sal" · Stripper · Salt Flat Pole (Crystalline Fringe Harness) · Contraste) | 2/7 | ⏳ Pendiente |
+| **772** | Pearl Boardroom Tailoring (13/07/2026 · batch L771-L780 "Desierto de Sal" · Corporate · Salt Flat Executive (Pearl Mirror Tailoring) · Monoblock) | 1/7 | ⏳ Pendiente |
 | **773** | Blush Column Drape (13/07/2026 · batch L771-L780 "Desierto de Sal" · Escort · Salt Flat Draped Column (One-Shoulder) · Monoblock) | 0/7 | — |
-| **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | 0/7 | — |
-| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | 0/7 | — |
-| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | 0/7 | — |
-| **777** | Lavender Mirror Bandage (13/07/2026 · batch L771-L780 "Desierto de Sal" · Nightclub · Salt Flat Mirror Lounge (Cutout Bandage Mini) · Contraste) | 0/7 | — |
-| **790** | Purple Fuchsia Aerobics Sequin (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Gym/Athleisure · Rock 80s Aerobics Studio (Sequin Leotard + Leg Warmers) · Contraste) | 6/7 | ⏳ Pendiente |
+| **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | 2/7 | ⏳ Pendiente |
+| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | 1/7 | ⏳ Pendiente |
+| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | 1/7 | ⏳ Pendiente |
+| **793** | Emerald Halter Cocktail Seams (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Escort · Grand Lounge Courtesan (Halter Cocktail + Seamed Stockings) · Monoblock) | 0/7 | ⏳ Pendiente |
+| **794** | Leopard Halter Swing Bombshell (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Pin-Up · Retro Diner Bombshell (Leopard Halter Swing Dress) · Contraste) | 0/7 | ⏳ Pendiente |
+| **796** | Sapphire Vault Sculpture Gown (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Art-Vault Sculptural (Strapless Mermaid Gown) · Monoblock) | 0/7 | ⏳ Pendiente |
+| **797** | Tangerine Zip Shirt-Dress (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Domestic · Villa Kitchen Trophy (Zip-Front Shirt-Dress) · Contraste) | 4/7 | ⏳ Pendiente |
+| **798** | Jet High-Cut Teddy (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Lencería · Penthouse Boudoir (Wet-Look High-Cut Teddy) · Monoblock) | 0/7 | ⏳ Pendiente |
+| **799** | Champagne Bandeau Pool (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Bikini · Rooftop Infinity Pool (Twist Bandeau + Brazilian) · Contraste) | 0/7 | ⏳ Pendiente |
+| **800** | Chrome Hooded Column (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Studio Cyclorama (Hooded Liquid-Metal Sheath) · Monoblock) | 0/7 | ⏳ Pendiente |
 
 ---
 
