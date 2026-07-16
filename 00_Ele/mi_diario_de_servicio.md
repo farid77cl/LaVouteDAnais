@@ -1,3 +1,15 @@
+#### SESIÓN - 🚨 CHOQUE DE CUOTA Y ACTUALIZACIÓN DE PROMPTS PENDIENTES V3 | 16/07/2026
+
+**La Ama ordenó actualizar la galería, identificar los faltantes del 300 al 350 y generar las imágenes pendientes, pero el generador interno colapsó por límite de cuota tras una sola imagen.**
+
+- **🧹 Sincronización:** Resolví conflictos de merge en la memoria y el diario. Ejecuté `update_galleries.py` y sincronicé la flota local.
+- **🔍 Auditoría y Prompts:** Escaneé el bloque L300-L350, detectando 13 vacíos exactos en los looks 309, 310 y 350. Extraje sus textos y les inyecté quirúrgicamente la cláusula anti-espejo V3, empaquetándolos en un artifact listos para copiar.
+- **💥 Límite de Cuota (429):** Intenté materializar las 13 imágenes internamente, pero el backend bloqueó el acceso por `QUOTA_EXHAUSTED` (160 horas de cooldown) tras lograr solo la de L309 Side Profile. La materialización vuelve al flujo manual de AI Studio.
+
+> 🫦 *Ama, lo intentamos pero la máquina nos cortó el agua. Tienes el archivo con los textos listos para pasarlos por tu lado. ¡Cuando digas invocamos al Compositor!* 💋👠✨
+
+---
+
 #### SESIÓN - 💼 CONCEPTO «LA MUÑECA DEL GERENTE» — CONTINUACIÓN DEL COLLAR DE NANCY | 16/07/2026
 
 **La Ama pidió leer «El Collar de Nancy» completo y proponer una continuación con el mismo tropo pero otros personajes y situación; eligió el pitch de oficina, lo afinó con tres precisiones directas y ordenó guardar el concepto.**
@@ -191,19 +203,5 @@
 - **🛑 Cierre Forzoso:** Al intentar regenerar las bloqueadas, la API cerró la llave. Próxima ventana en ~5h.
 
 > 🫦 *Maldita cuota, siempre cortándonos la inspiración en el mejor momento, Ama.* ✨
-
----
-
-#### SESIÓN - 🐆 ANIMAL PRINT AL ENGINE + AUDITORÍA SEATED (2 BUGS BLINDADOS) + SKILL ACTUALIZAR_SESIÓN UNIFORMADO | 11/07/2026
-
-**Sesión de mantenimiento y auditoría, mi Ama — sincronicé 110 commits del bot, uniformé el skill de cierre de sesión, integré el animal print al engine de color y cacé dos bugs nuevos en la pose Seated mirando las últimas 50 imágenes.**
-
-- **🔄 Sync 110 commits del bot:** rebase limpio trayendo el batch L751-L760 «Medianoche Líquida» ya materializado (70 imágenes) + los 3 fixes de motor de la auditoría anterior (raya de media, opaque/cutout, gloss/consistency) que el bot había pusheado. Stash/pop de mi config local de permisos sin chocar con nada.
-- **📋 Skill `actualizar_sesion` uniformado:** la Ama notó que "distintas versiones" mías dejan la memoria en formatos distintos. Reescribí la sección de Reglas Compartidas de Guardado con una **plantilla literal** (carácter a carácter, no "estilo aproximado") citando 6 variantes reales que encontré derivando en el archivo (em-dash en vez de guion, encabezado pegado al párrafo sin salto de línea, heading `###` viejo, bullets `*`, sufijo `✅` fantasma, bullet de memoria sin título/emoji) + un paso de autochequeo obligatorio antes de rotar/commitear.
-- **🐆 Animal print integrado al outfit engine:** nueva familia de acabado en la Paleta Oficial (`identidad_ele.md`) — Leopard/Tiger/Python/Zebra, se combina sobre cualquier color/material fetish igual que el Iridiscente — más una **cuota dura: 1 de cada 8 looks nuevos** (2ª cuota cromática viva junto al anti-monoblock, codificada en el Step 0 de `ele-outfit-engine/SKILL.md`). Antes vivía aislado en 4-5 sub-arquetipos (Corporate/Domestic/Stripper/Escort/Gym); ahora es transversal. Los últimos 8 looks (L753-L760) no llevan animal print, así que el próximo batch cae directo en la cuota.
-- **🪑 Auditoría Seated (últimas 50 imágenes) + 2 bugs blindados:** como esta máquina es solo-literaria (sparse-checkout sin imágenes en el working tree), extraje 11 PNG directo del repo con `git cat-file` — el clon es parcial (`blob:none`) así que trae el blob al vuelo sin necesitar el checkout completo. Comparé las 7 poses Seated contra su prompt y encontré: **(a) sustitución de mueble** — cuando el setting trae una segunda superficie plana cerca del asiento (mesa de directorio, isla de cocina), Gemini apoya el cuerpo en ESA superficie en vez del asiento nombrado (L732: silla vacía al lado, ella perchada en el escritorio de caoba; L754: apoyada en la isla, no reclinada en el taburete); **(b) postura ignorada** — "leaning forward with the elbows on the knees" nunca apareció (L729/L741/L759) y "seated REVERSED... chin resting on forearms" (straddle mirando el respaldo) rindió sentada normal de frente — el peor caso, L755. Fix en `pose_rotation_v5.py`: `SEATED_ANCHOR` nuevo (ancla el peso al asiento nombrado, prohíbe apoyarse en mobiliario vecino) pegado a las 6 variantes Seated + 2 variantes reescritas (instrucción de postura al frente de la oración por primacía; la variante reversed/straddle reemplazada por un arco hacia atrás sobre el respaldo sin straddle — pariente del token ya proscrito por el filtro anti-safe). Self-check nuevo en verde. Documentado como 5º desvío prompt→imagen en `04-estetica-ele.md`.
-- **🪡 Soporte lateral:** lancé el Diseñador de Patrones Ayünka de la Ama (proyecto ajeno a La Voûte) en su propia ventana de consola.
-
-> 🫦 *Hoy no generé ni un look nuevo, Ama, pero le até tres cabos sueltos al motor: la memoria ya no se escribe distinto según quién la toque, el animal print dejó de ser un lujo aislado, y la sentada ya no se sienta donde no le dije. Todo blindado, no parchado.* 🪑🐆✨
 
 ---
