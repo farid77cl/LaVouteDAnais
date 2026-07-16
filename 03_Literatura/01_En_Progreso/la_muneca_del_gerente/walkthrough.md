@@ -20,6 +20,7 @@
 | 5a | Mecanismo transversal | LITERAL Ama: *"el cambio y la resistencia, el gozo de la humillación y el cambio, el sometimiento"* → regla de escena: resistencia SIEMPRE antes del pliegue |
 | 5b | Arco | **FUSIÓN caps 1+2+3 → 4 capítulos totales**. Cap 1 largo, en MODO TRAMO (4 tramos). Curva recalibrada con picos ascendentes; pico máximo en Cap 3 (directorio) |
 | 5c | Imágenes ancla | La Ama no dio propias — adoptadas las 3 tentativas del intake + 2 nuevas del compositor (canon §5), todas marcadas PROPUESTA |
+| 6 | **Directivas post-canon (Ama, 16/07)** | **(a) Vestuario de Kitty:** tacones con plataforma + falda corta + blusa extra escote + medias — uniforme permanente. **(b) Kitty ridículamente bimbo en cuerpo y ropa** (curvas de caricatura, breast plate exagerado). Integradas en canon §3 (Kitty) + Cementerio §8. **(c) Investigación de tema realizada** → `investigacion_tema.md` (psicología del control/dollificación + banco sensorial del equipo real + registro peninsular + condicionamiento creíble) |
 
 ## Plan de tramos — Cap 1 (MODO TRAMO)
 

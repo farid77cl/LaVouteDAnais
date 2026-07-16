@@ -63,7 +63,8 @@ Fernanda, asistente ninguneada tres años, recibe una caja negra de Miss Doll di
 - **Rol narrativo:** Recepcionista enviada por *Living Doll Experience*. Producto importado, no persona.
 - **Frases tipo [registro DIRECTIVA AMA: extra formal, español de España, cero chilenismos]:** *"Living Doll Experience, muy buenos días. ¿En qué puedo atenderle?"* · *"Enseguida, señor. Ha sido un placer atenderle."*
 - **Detalle físico ancla:** La sonrisa congelada de la máscara — placer perpetuo y vacío.
-- **Invariante:** Jamás un chilenismo, jamás informal, siempre "usted". El contraste peninsular-formal contra la oficina chilena es rasgo de canon: la voz de la muñeca es de fábrica.
+- **Cuerpo y vestuario [DIRECTIVA AMA 16/07 — post-canon]:** Kitty es **ridículamente bimbo en cuerpo y ropa**. Cuerpo: curvas de caricatura erótica — breast plate de copa exagerada, caderas de reloj de arena imposible. Uniforme de recepcionista corrompido, SIEMPRE: **tacones con plataforma**, **falda corta** (micro), **blusa con extra escote** (el canal del breast plate a la vista), **medias** visibles bajo el ruedo. El arma es el contraste doble: la porcelana verbal peninsular y la cortesía perfecta saliendo de un cuerpo obsceno — y la oficina tratándolo con normalidad de trámite. Nadie comenta el escote; le piden café.
+- **Invariante:** Jamás un chilenismo, jamás informal, siempre "usted". El contraste peninsular-formal contra la oficina chilena es rasgo de canon: la voz de la muñeca es de fábrica. Y el vestuario jamás se sobria: la plataforma, la micro falda, el escote y las medias son uniforme permanente.
 
 ### Miss Doll — la serpiente
 - **Rol narrativo:** Tienta, no instruye; el deseo ya estaba ahí. Presente SOLO en dos notas (apertura y cierre) y en el OS. Nunca aparece en persona.
@@ -112,6 +113,7 @@ verga (nunca polla) · coger · weón / weona · cachai · po · al tiro · la t
 - **Prohibido el rescate o la duda moral de Fernanda.** La venganza no se ablanda; el quiebre del arco es que ya no es venganza.
 - **Prohibido el pliegue sin resistencia previa.** Cada hito erótico muestra la pelea interna de Cristóbal ANTES de ceder (mecanismo §4).
 - **Prohibido que Kitty suelte un chilenismo o baje el registro.** Romper su formalidad peninsular = romper el producto.
+- **Prohibido vestir a Kitty sobria o "profesional discreta".** Su uniforme es ridículamente bimbo por directiva de la Ama: plataforma + micro falda + extra escote + medias, en TODA aparición. Suavizarlo = romper el canon.
 - **Prohibido el infodump del OS.** Nancy ya explicó el sistema; acá el OS se muestra en acción (líneas rosa en la retina, pulsos, comandos), no en manual.
 - **Prohibido el callback sin ancla escrita en `cronologia.md`** (Ley de Continuidad, Blindaje 16/06).
 
