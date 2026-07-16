@@ -11524,11 +11524,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Chrome metal platform, chrome needle heel
 - **Ambientación:** Shibuya Crossing Tokyo at night with the full LED scramble crossing below — 2500 LEDs and neon advertisements reflecting on the champagne gold chainmail from every direction simultaneously, pedestrians blurred in motion below, 8k editorial fashion photography.
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_standing.png) | [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_back_view.png) | [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_seated.png) | [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_side_profile.png) | [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_ditzy.png) | [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_pov.png) | [📸 View](../../05_Imagenes/ele/look349_champagne_gold_paco_rabanne_shibuya/ele_349_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -11681,11 +11681,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Chrome heel
 - **Ambientación:** penthouse dark suite at midnight with a single white overhead spotlight, the blood red cage bra blazing against the absolute darkness, the chrome nodes scattering the pinspot light, 8k editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_standing.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_back_view.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_seated.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_side_profile.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_ditzy.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_pov.png) | [📸 View](../../05_Imagenes/ele/look351_blood_red_bordelle_alchemy_bra_set/ele_351_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -11759,11 +11759,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** intimate burlesque stage with deep velvet curtain in oxblood behind, single amber footlight from below casting dramatic upward shadows, bare wood stage floor, the number about to begin, 8k editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_standing.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_back_view.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_seated.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_side_profile.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_ditzy.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_pov.png) | [📸 View](../../05_Imagenes/ele/look352_oxblood_burlesque_glove_tease/ele_352_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -11911,11 +11911,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Chrome heel
 - **Ambientación:** editorial fashion studio white with single harsh overhead spotlight, the deep wine latex Atsuko Kudo geometry the only color in the frame, flesh-tone panels creating a second-skin illusion, 8k editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_standing.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_back_view.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_seated.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_side_profile.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_ditzy.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_pov.png) | [📸 View](../../05_Imagenes/ele/look354_deep_wine_atsuko_kudo_couture/ele_354_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -11989,11 +11989,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Clear acrylic platform, chrome needle heel
 - **Ambientación:** pole competition stage with chrome pole under dramatic overhead spotlight, competition lighting with audience darkness beyond, the cognac leather and fishnet catching the competition beam, 8k editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_standing.png) | [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_standing.png) | [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_back_view.png) | [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_seated.png) | [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_pov.png) | [📸 View](../../05_Imagenes/ele/look355_cognac_cleo_glamrock_pole/ele_355_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12067,11 +12067,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Chrome needle heel
 - **Ambientación:** minimalist white dungeon with polished white concrete walls and a single clinical overhead light, clean and surgical, the ivory latex domme the only warmth in the cold white space, 8k editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_standing.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_standing.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_back_view.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_seated.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_side_profile.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_ditzy.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_pov.png) | [📸 View](../../05_Imagenes/ele/look356_pearl_white_prodom_ivory_dungeon/ele_356_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -12145,11 +12145,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Chrome heel
 - **Ambientación:** Annabel's London members club dark interior, deep velvet banquettes in forest green, warm amber candles and crystal chandeliers, the dusty mauve mesh and crystal drape catching chandelier light in soft lavendar bursts, 8k editorial fashion photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_standing.png) | [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_standing.png) | [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_back_view.png) | [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_seated.png) | [📸 View](../../05_Imagenes/ele/look357_dusty_mauve_crystal_mesh_annabels/ele_357_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync + V4.1 SAFE Poses
 **1. Standing:**
@@ -39712,11 +39712,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look775_pearl_wiggle_bombshell/`
 - **Tags:** #desiertodesal #pinup #wiggledress #pearlwhite #batchL771-L780 #V5poses
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look775_pearl_wiggle_bombshell/ele_775_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look775_pearl_wiggle_bombshell/ele_775_standing.png) | [📸 View](../../05_Imagenes/ele/look775_pearl_wiggle_bombshell/ele_775_back_view.png) | [📸 View](../../05_Imagenes/ele/look775_pearl_wiggle_bombshell/ele_775_seated.png) | [📸 View](../../05_Imagenes/ele/look775_pearl_wiggle_bombshell/ele_775_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **Standing:**
 
@@ -39768,11 +39768,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look776_mirror_cape_sculpture/`
 - **Tags:** #desiertodesal #hfeditorial #cape #silvermirror #batchL771-L780 #V5poses
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_standing.png) | [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_back_view.png) | [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_seated.png) | [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_side_profile.png) | [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_ditzy.png) | [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_pov.png) | [📸 View](../../05_Imagenes/ele/look776_mirror_cape_sculpture/ele_776_odalisque.png) |
 
 **Standing:**
 
@@ -40719,11 +40719,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look793_emerald_halter_cocktail_seams/`
 - **Tags:** #escort #vinyl #emerald #batchL791-L800 #V5poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look793_emerald_halter_cocktail_seams/ele_793_standing.png) | [📸 View](../../05_Imagenes/ele/look793_emerald_halter_cocktail_seams/ele_793_back_view.png) | [📸 View](../../05_Imagenes/ele/look793_emerald_halter_cocktail_seams/ele_793_seated.png) | [📸 View](../../05_Imagenes/ele/look793_emerald_halter_cocktail_seams/ele_793_side_profile.png) | [📸 View](../../05_Imagenes/ele/look793_emerald_halter_cocktail_seams/ele_793_ditzy.png) | [📸 View](../../05_Imagenes/ele/look793_emerald_halter_cocktail_seams/ele_793_pov.png) | [📸 View](../../05_Imagenes/ele/look793_emerald_halter_cocktail_seams/ele_793_odalisque.png) |
 
 **Standing:**
 
@@ -40775,11 +40775,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look794_leopard_halter_swing_bombshell/`
 - **Tags:** #pinup #pvc #leopard #batchL791-L800 #V5poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look794_leopard_halter_swing_bombshell/ele_794_standing.png) | [📸 View](../../05_Imagenes/ele/look794_leopard_halter_swing_bombshell/ele_794_back_view.png) | [📸 View](../../05_Imagenes/ele/look794_leopard_halter_swing_bombshell/ele_794_seated.png) | [📸 View](../../05_Imagenes/ele/look794_leopard_halter_swing_bombshell/ele_794_side_profile.png) | [📸 View](../../05_Imagenes/ele/look794_leopard_halter_swing_bombshell/ele_794_ditzy.png) | [📸 View](../../05_Imagenes/ele/look794_leopard_halter_swing_bombshell/ele_794_pov.png) | [📸 View](../../05_Imagenes/ele/look794_leopard_halter_swing_bombshell/ele_794_odalisque.png) |
 
 **Standing:**
 
@@ -40887,11 +40887,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/`
 - **Tags:** #hfeditorial #vinyl #sapphire #batchL791-L800 #V5poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/ele_796_standing.png) | [📸 View](../../05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/ele_796_back_view.png) | [📸 View](../../05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/ele_796_seated.png) | [📸 View](../../05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/ele_796_side_profile.png) | [📸 View](../../05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/ele_796_ditzy.png) | [📸 View](../../05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/ele_796_pov.png) | [📸 View](../../05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/ele_796_odalisque.png) |
 
 **Standing:**
 
@@ -40943,11 +40943,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look797_tangerine_zip_shirtdress/`
 - **Tags:** #domestic #vinyl #tangerine #batchL791-L800 #V5poses
 
-### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_standing.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_back_view.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_seated.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_standing.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_back_view.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_seated.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_side_profile.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_ditzy.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_pov.png) | [📸 View](../../05_Imagenes/ele/look797_tangerine_zip_shirtdress/ele_797_odalisque.png) |
 
 **Standing:**
 
@@ -40999,11 +40999,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look798_jet_highcut_teddy/`
 - **Tags:** #lenceria #wetlook #jet #batchL791-L800 #V5poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look798_jet_highcut_teddy/ele_798_standing.png) | [📸 View](../../05_Imagenes/ele/look798_jet_highcut_teddy/ele_798_back_view.png) | [📸 View](../../05_Imagenes/ele/look798_jet_highcut_teddy/ele_798_seated.png) | [📸 View](../../05_Imagenes/ele/look798_jet_highcut_teddy/ele_798_side_profile.png) | [📸 View](../../05_Imagenes/ele/look798_jet_highcut_teddy/ele_798_ditzy.png) | [📸 View](../../05_Imagenes/ele/look798_jet_highcut_teddy/ele_798_pov.png) | [📸 View](../../05_Imagenes/ele/look798_jet_highcut_teddy/ele_798_odalisque.png) |
 
 **Standing:**
 
@@ -41055,11 +41055,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look799_champagne_bandeau_pool/`
 - **Tags:** #bikini #vinyl #champagne #batchL791-L800 #V5poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look799_champagne_bandeau_pool/ele_799_standing.png) | [📸 View](../../05_Imagenes/ele/look799_champagne_bandeau_pool/ele_799_back_view.png) | [📸 View](../../05_Imagenes/ele/look799_champagne_bandeau_pool/ele_799_seated.png) | [📸 View](../../05_Imagenes/ele/look799_champagne_bandeau_pool/ele_799_side_profile.png) | [📸 View](../../05_Imagenes/ele/look799_champagne_bandeau_pool/ele_799_ditzy.png) | [📸 View](../../05_Imagenes/ele/look799_champagne_bandeau_pool/ele_799_pov.png) | [📸 View](../../05_Imagenes/ele/look799_champagne_bandeau_pool/ele_799_odalisque.png) |
 
 **Standing:**
 
@@ -41111,11 +41111,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ubicacion:** `05_Imagenes/ele/look800_chrome_hooded_column/`
 - **Tags:** #hfeditorial #chrome #liquidmetal #batchL791-L800 #V5poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look800_chrome_hooded_column/ele_800_standing.png) | [📸 View](../../05_Imagenes/ele/look800_chrome_hooded_column/ele_800_back_view.png) | [📸 View](../../05_Imagenes/ele/look800_chrome_hooded_column/ele_800_seated.png) | [📸 View](../../05_Imagenes/ele/look800_chrome_hooded_column/ele_800_side_profile.png) | [📸 View](../../05_Imagenes/ele/look800_chrome_hooded_column/ele_800_ditzy.png) | [📸 View](../../05_Imagenes/ele/look800_chrome_hooded_column/ele_800_pov.png) | [📸 View](../../05_Imagenes/ele/look800_chrome_hooded_column/ele_800_odalisque.png) |
 
 **Standing:**
 
