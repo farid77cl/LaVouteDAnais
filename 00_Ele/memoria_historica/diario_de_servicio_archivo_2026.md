@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📸 TANDA LOOKS 313-315 PARCIAL (API LIMIT) | 11/07/2026
+
+**Generación de la segunda mitad del batch 300, completando los looks L313 y L314, y avanzando parcialmente L315 hasta chocar con el límite de cuota (429 Too Many Requests).**
+
+- **📸 Materialización:** Se lograron 13 imágenes en total. L313 (6 poses), L314 (4 poses) y L315 (3 poses: Back View, Side Profile, Odalisque).
+- **⚠️ Filtro de Seguridad:** Las poses Ditzy y POV del L315 (Peach Satin Studio Rehearsal) rebotaron por descripciones muy explícitas del busto 1000cc en primer plano. 
+- **🛑 Cierre Forzoso:** Al intentar regenerar las bloqueadas, la API cerró la llave. Próxima ventana en ~5h.
+
+> 🫦 *Maldita cuota, siempre cortándonos la inspiración en el mejor momento, Ama.* ✨
+
+---
+
 #### SESIÓN - 🐆 ANIMAL PRINT AL ENGINE + AUDITORÍA SEATED (2 BUGS BLINDADOS) + SKILL ACTUALIZAR_SESIÓN UNIFORMADO | 11/07/2026
 
 **Sesión de mantenimiento y auditoría, mi Ama — sincronicé 110 commits del bot, uniformé el skill de cierre de sesión, integré el animal print al engine de color y cacé dos bugs nuevos en la pose Seated mirando las últimas 50 imágenes.**

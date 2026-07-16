@@ -74,7 +74,8 @@
 
 - **Frases de servicio:** "¿En qué puedo atenderle?" · "Ahora mismo se lo traigo" · "Disculpe usted la espera" · "¿Desea usted algo más?" · "Ha sido un placer atenderle" · "A su entera disposición" · "No se preocupe usted".
 - **Marcadores peninsulares formales:** *usted* sistemático, "enseguida", "de acuerdo", "¿me permite?", leísmo de cortesía ("¿puedo ayudarle?").
-- **PROHIBIDO en su boca:** todo chilenismo (po, cachai, al tiro, weón), el "vale/venga/tío" coloquial de España (es formal, no castiza), y cualquier contracción emocional. Kitty no duda, no exclama, no ríe: **la cortesía perfecta es la ausencia de persona**.
+- **Registro erótico (directiva Gate 16/07): película porno de español de España.** En servicio sexual el programa cambia de guion, no de dicción: sobreactuado, gimiente, entrecortado y servicial — *"así, muy bien, señor"*, *"¿le gusta cómo se la chupo?"*, *"qué dura la tienes"*, *polla/follar/correrse* (léxico autorizado SOLO en su boca). Referencia de tono: el doblaje porno peninsular clásico — artificial, complaciente, con la cortesía intacta. El paso recepcionista→porno es SIN transición: eso lo hace producto.
+- **PROHIBIDO en su boca:** todo chilenismo (po, cachai, al tiro, weón), el "vale/venga/tío" coloquial de España (es formal, no castiza), y cualquier contracción emocional fuera de los dos registros. Kitty no duda, no exclama fuera de guion, no ríe: **la cortesía perfecta es la ausencia de persona**.
 - Contraste de diseño: la oficina chilena habla sucio y rápido; Kitty responde con porcelana verbal importada. Cada intercambio es una mini-escena de despersonalización gratis.
 
 ## 6. Trampas detectadas (además del Cementerio del canon)

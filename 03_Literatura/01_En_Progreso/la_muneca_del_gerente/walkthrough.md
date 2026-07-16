@@ -4,9 +4,9 @@
 
 ## Estado actual
 
-- **Fase:** Canon producido — **ESPERANDO GATE DE LA AMA** sobre `canon_relato.md`.
-- **Artefactos:** `canon_relato.md` (canon, ~1.900 palabras) · `cronologia.md` (esqueleto Centinela: calendario + 12 Hechos Plantados + estado corporal) · `concepto.md` (aprobado 16/07/2026).
-- **Siguiente paso tras Gate:** Escritor-Nivel4, Cap 1 en MODO TRAMO (4 tramos — plan abajo).
+- **Fase:** ✅ **CANON APROBADO POR GATE DE LA AMA (16/07/2026)** — "sí" a todo: los 4 pendientes quedaron canónicos (frase de Fernanda, Nota #2, imágenes ancla #4/#5, Antonia).
+- **Artefactos:** `canon_relato.md` (canon aprobado + directivas Kitty integradas) · `cronologia.md` (calendario + 12 Hechos Plantados + estado corporal) · `investigacion_tema.md` (psicología + banco sensorial + registro peninsular) · `concepto.md` (aprobado 16/07/2026).
+- **Siguiente paso:** invocar `escritor-nivel4` — **Cap 1, Tramo 1** (MODO TRAMO, plan abajo). El Escritor DEBE leer también `investigacion_tema.md` (banco sensorial §3, collar §4, registro Kitty §5).
 
 ## Decisiones de INTAKE (respuestas de la Ama, 16/07/2026)
 
@@ -21,6 +21,7 @@
 | 5b | Arco | **FUSIÓN caps 1+2+3 → 4 capítulos totales**. Cap 1 largo, en MODO TRAMO (4 tramos). Curva recalibrada con picos ascendentes; pico máximo en Cap 3 (directorio) |
 | 5c | Imágenes ancla | La Ama no dio propias — adoptadas las 3 tentativas del intake + 2 nuevas del compositor (canon §5), todas marcadas PROPUESTA |
 | 6 | **Directivas post-canon (Ama, 16/07)** | **(a) Vestuario de Kitty:** tacones con plataforma + falda corta + blusa extra escote + medias — uniforme permanente. **(b) Kitty ridículamente bimbo en cuerpo y ropa** (curvas de caricatura, breast plate exagerado). Integradas en canon §3 (Kitty) + Cementerio §8. **(c) Investigación de tema realizada** → `investigacion_tema.md` (psicología del control/dollificación + banco sensorial del equipo real + registro peninsular + condicionamiento creíble) |
+| 7 | **GATE (Ama, 16/07): "sí"** | Canon RECONOCIDO. Los 4 pendientes quedan canónicos tal cual: frase de Fernanda · Nota #2 · imágenes ancla #4/#5 · Antonia. **Directiva adicional del Gate:** en servicio sexual **Kitty habla como en película porno de español de España** (doblaje porno peninsular: sobreactuado, gimiente, servicial; léxico *polla/follar/correrse* SOLO en su boca; recepcionista→guion porno sin transición, mismo programa). Integrada en canon §3 + §7 + Cementerio |
 
 ## Plan de tramos — Cap 1 (MODO TRAMO)
 

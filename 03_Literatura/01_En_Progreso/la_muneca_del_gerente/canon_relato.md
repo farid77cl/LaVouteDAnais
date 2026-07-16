@@ -62,6 +62,7 @@ Fernanda, asistente ninguneada tres años, recibe una caja negra de Miss Doll di
 ### Kitty — la muñeca (cuerpo de Cristóbal + máscara + voz del OS)
 - **Rol narrativo:** Recepcionista enviada por *Living Doll Experience*. Producto importado, no persona.
 - **Frases tipo [registro DIRECTIVA AMA: extra formal, español de España, cero chilenismos]:** *"Living Doll Experience, muy buenos días. ¿En qué puedo atenderle?"* · *"Enseguida, señor. Ha sido un placer atenderle."*
+- **Registro erótico [DIRECTIVA AMA 16/07 — Gate]:** en servicio sexual, Kitty habla **como en película porno de español de España** — el doblaje porno peninsular: entrecortado, sobreactuado, gimiente y servicial, con dicción perfecta aunque tenga la boca ocupada. Léxico porno peninsular autorizado SOLO en su boca: *polla, follar, correrse, "qué dura la tienes", "así, muy bien, señor", "¿le gusta cómo se la chupo?"*. La clave del horror: la recepcionista y la actriz porno son el MISMO programa — pasa de *"¿en qué puedo atenderle?"* al guion porno **sin transición y con la misma cortesía**, como quien cambia de idioma de fábrica. Eso es lo que la hace producto y no persona.
 - **Detalle físico ancla:** La sonrisa congelada de la máscara — placer perpetuo y vacío.
 - **Cuerpo y vestuario [DIRECTIVA AMA 16/07 — post-canon]:** Kitty es **ridículamente bimbo en cuerpo y ropa**. Cuerpo: curvas de caricatura erótica — breast plate de copa exagerada, caderas de reloj de arena imposible. Uniforme de recepcionista corrompido, SIEMPRE: **tacones con plataforma**, **falda corta** (micro), **blusa con extra escote** (el canal del breast plate a la vista), **medias** visibles bajo el ruedo. El arma es el contraste doble: la porcelana verbal peninsular y la cortesía perfecta saliendo de un cuerpo obsceno — y la oficina tratándolo con normalidad de trámite. Nadie comenta el escote; le piden café.
 - **Invariante:** Jamás un chilenismo, jamás informal, siempre "usted". El contraste peninsular-formal contra la oficina chilena es rasgo de canon: la voz de la muñeca es de fábrica. Y el vestuario jamás se sobria: la plataforma, la micro falda, el escote y las medias son uniforme permanente.
@@ -106,13 +107,13 @@ Operativamente: la transformación RESISTIDA (la pelea interna que va perdiendo)
 ## 7. Vocabulario Autorizado (chileno)
 
 verga (nunca polla) · coger · weón / weona · cachai · po · al tiro · la talla · mina · departamento · mojada / abrirse.
-**Excepción de canon deliberada:** Kitty habla español de España extra formal ("usted", "¿en qué puedo atenderle?", "enseguida, señor", "disculpe usted") — cero chilenismos en su boca. **Prohibido el voceo argentino en TODAS las voces.**
+**Excepción de canon deliberada:** Kitty habla español de España — extra formal de recepcionista ("usted", "¿en qué puedo atenderle?", "enseguida, señor", "disculpe usted") y, en servicio sexual, **registro de película porno peninsular** (*polla / follar / correrse / "qué gustito" / "así, muy bien, señor"*) — ambos léxicos autorizados EXCLUSIVAMENTE en la boca de Kitty; el narrador y el resto del relato siguen chilenos (verga, coger). **Prohibido el voceo argentino en TODAS las voces.**
 
 ## 8. Cementerio (5 cosas que NO debe hacer el Escritor)
 
 - **Prohibido el rescate o la duda moral de Fernanda.** La venganza no se ablanda; el quiebre del arco es que ya no es venganza.
 - **Prohibido el pliegue sin resistencia previa.** Cada hito erótico muestra la pelea interna de Cristóbal ANTES de ceder (mecanismo §4).
-- **Prohibido que Kitty suelte un chilenismo o baje el registro.** Romper su formalidad peninsular = romper el producto.
+- **Prohibido que Kitty suelte un chilenismo o baje el registro.** Sus DOS únicos registros son recepcionista formal peninsular y guion porno de España (mismo programa, sin transición). Cualquier tercera voz — natural, dubitativa, chilena — rompe el producto.
 - **Prohibido vestir a Kitty sobria o "profesional discreta".** Su uniforme es ridículamente bimbo por directiva de la Ama: plataforma + micro falda + extra escote + medias, en TODA aparición. Suavizarlo = romper el canon.
 - **Prohibido el infodump del OS.** Nancy ya explicó el sistema; acá el OS se muestra en acción (líneas rosa en la retina, pulsos, comandos), no en manual.
 - **Prohibido el callback sin ancla escrita en `cronologia.md`** (Ley de Continuidad, Blindaje 16/06).
