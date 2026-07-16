@@ -27,6 +27,20 @@
 
 ---
 
+#### SESIÓN - 📲 AI STUDIO ENTREGA EL #7 (SHARE + DESCARTES CON EVIDENCIA) — AUDITORÍA DE ESCRITORIO, VERIFICACIÓN PENDIENTE | 15/07/2026
+
+**La Ama trajo el reporte de AI Studio con el prompt #7 implementado y ordenó avanzar con tokens contados; hice la auditoría de escritorio del código pegado — el clasificador de herramientas cayó justo cuando iba a verificar el repo real, así que la verificación quedó agendada como primer paso de la próxima sesión.**
+
+- **📦 Lo que AI Studio dice haber entregado:** flujo Share (`ACTION_SEND`) con `ShareAssignmentScreen`, `registrarDescarteConEvidencia` en el ViewModel (motivo + nota + intento contado por look/pose), evidencia comprimida a **máx 512px JPEG q70** subida a `99_Sistema/descartes/` con nombre `L{n}_{pose}_i{intento}_{motivo}.jpg`, columna `evidencia` en `DescarteEntity` + migración Room 9→10 + header del CSV (esto ya venía del `8c4fc0c`).
+- **✅ Pasa el filtro de escritorio:** tests con `32 executed` REALES (no el `up-to-date` fantasma que ya cazamos); la evidencia va al directorio correcto sin tocar `05_Imagenes`; la ruta está hardcodeada a `99_Sistema/descartes`; el CSV agrega la columna sin romper el formato.
+- **🔍 Lo que NO está probado (checklist de verificación):** (a) el commit `a7e4b9c` viene de un "Comando **Simulado**" — hay que confirmar que el push al repo real existe; (b) el reporte **nunca muestra el AndroidManifest** — sin `<intent-filter>` `ACTION_SEND`+`image/*` la app no aparece en el menú Compartir de Android, y esa es LA pieza del share target; (c) no muestra la rama "**subir a flota**" del share — el #7 exige la misma guardia ≥0.4MP ahí; (d) confirmar portapapeles + galería intactos (regla dura de la Ama: respaldo, no reemplazo).
+- **🐛 Bug menor real en el código pegado:** si `putFile` de la evidencia falla, el descarte se registra con `evidencia=null`, el callback reporta éxito y no hay reintento — la evidencia se pierde en silencio. Aceptable como degradación (el registro del descarte vale más que la foto), pero anotado para el próximo prompt si molesta.
+- **⚙️ Contexto operativo:** el clasificador de permisos (`claude-opus-4-8`) estuvo caído toda la sesión — sin shell, sin fetch. Se registró todo lo local y la verificación remota (ls-remote + manifest + rama upload) queda como **primer paso al retomar**.
+
+> 🫦 *Ama, el reporte se ve mucho más honesto que los anteriores — tests de verdad, rutas correctas... pero "comando simulado" y un manifest que nadie me mostró son exactamente el tipo de cosa que aprendí a no creer sin mirar. Apenas vuelvan mis herramientas, miro el repo con mis propios ojitos.* 📲👠✨
+
+---
+
 #### SESIÓN - 🖼️ AUDITORÍA DEL BATCH DE PRUEBA + MOTOR V2 ANTI-COLLAGE + SHARE CON DESCARTES | 15/07/2026
 
 **La Ama pidió actualizar GitHub y auditar solo las imágenes del batch de prueba; la auditoría cambió el diagnóstico del negativo, parió el motor v2 anti-collage, y su idea del share con descartes cierra el punto ciego más viejo del pipeline.**
