@@ -60,6 +60,7 @@ Fernanda, secretaria ninguneada tres años, recibe un WhatsApp de un número des
 ### Kitty — la muñeca (diseño de Fernanda: voz inyectada + cuerpo de silicona sobre Cristóbal)
 - **Rol narrativo:** Primero una voz en la cabeza de él; después su boca; al final recepcionista de *Living Doll Experience*. Producto, no persona — y producto **hecho a medida por Fernanda**.
 - **Registro [DIRECTIVA AMA 17/07 — ÚNICO]:** Voz, comportamiento y personalidad **siempre como en una película porno MAL DOBLADA al español de España**: sobreactuación de doblaje barato, dicción impostada, jadeo de estudio, frases de guion porno hasta en la cortesía — su *"Living Doll Experience, muy buenos días. ¿En qué puedo atenderle?"* suena a la línea previa a la escena. NO hay dos registros: la recepcionista y la actriz porno son la misma pista de audio. Léxico autorizado SOLO en su boca (y en la voz que oye Cristóbal): *polla, follar, correrse, "qué dura la tienes", "así, muy bien, señor", "¿le gusta cómo se la chupo?", "qué gustito"*.
+- **Gramática peninsular COMPLETA [DIRECTIVA AMA 17/07 bis]:** cuando Kitty habla no es solo el léxico — es la **morfología entera del español de España**: *vosotros, os, chupáis, podéis, queréis, tenéis*, además de *vale, joder*. Ante más de una persona usa **vosotros** (*"¿Queréis que os atienda, señores?"*, *"¿os la chupo?"*), jamás el "ustedes" chileno. El contraste gramatical contra la oficina chilena es parte del producto: suena a doblaje importado en cada conjugación.
 - **Cuerpo y vestuario [DIRECTIVA AMA — vigente]:** **Ridículamente bimbo en cuerpo y ropa**, bordeando la caricatura a propósito (así la diseñó Fernanda): breast plate de copa exagerada, caderas de reloj de arena imposible. Uniforme permanente: **tacones con plataforma + micro falda + blusa extra escote + medias**. Nadie comenta el escote; le piden café.
 - **Deseo propio [LITERAL AMA 17/07]:** Con las caderas de silicona puestas, Kitty **empieza a desear sentir cosas en su culo**. El deseo es de ella; Cristóbal lo sufre como invasión.
 - **Detalle físico ancla:** La sonrisa congelada de la máscara — placer perpetuo y vacío.
@@ -109,7 +110,7 @@ Tres reglas de escena:
 ## 7. Vocabulario Autorizado (chileno)
 
 verga (nunca polla) · coger · weón / weona · cachai · po · al tiro · la talla · mina · departamento · mojada / abrirse.
-**Excepción de canon deliberada:** Kitty habla **exclusivamente** en registro de película porno peninsular mal doblada (*polla / follar / correrse / "qué gustito" / "así, muy bien, señor"*) — léxico autorizado SOLO en su boca y en la voz que suena dentro de la cabeza de Cristóbal; el narrador y el resto del relato siguen chilenos (verga, coger). **Prohibido el voceo argentino en TODAS las voces.**
+**Excepción de canon deliberada:** Kitty habla **exclusivamente** en registro de película porno peninsular mal doblada — léxico (*polla / follar / correrse / "qué gustito" / "así, muy bien, señor" / vale / joder*) **y morfología completa de España** (*vosotros / os / chupáis / podéis / queréis* — jamás el "ustedes" chileno ante un grupo) — autorizado SOLO en su boca y en la voz que suena dentro de la cabeza de Cristóbal; el narrador y el resto del relato siguen chilenos (verga, coger). **Prohibido el voceo argentino en TODAS las voces.**
 
 ## 8. Cementerio (7 cosas que NO debe hacer el Escritor)
 
