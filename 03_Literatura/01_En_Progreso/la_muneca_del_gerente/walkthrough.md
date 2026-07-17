@@ -4,7 +4,7 @@
 
 ## Estado actual
 
-- **Fase:** 🔄 **CANON v2 REFORMADO por directivas de la Ama (17/07/2026)** — ⏳ **pendiente GATE v2** (solo los textos/mecánicas nuevos, lista abajo). El canon v1 había sido aprobado el 16/07; la Ama lo reabrió con cambios estructurales grandes.
+- **Fase:** ✅ **CANON v2 APROBADO POR GATE DE LA AMA (17/07/2026, "sí")** — los 5 pendientes del Gate v2 quedaron canónicos tal cual (tarjeta del reloj, mensaje #1 digital, mensaje #2 por WhatsApp, mecánica de despachos §10, anclas #1–#3/#5). → **FASE 2 EN CURSO: `escritor-nivel4`, Cap 1 «El reloj» en MODO TRAMO (4 tramos).**
 - **Artefactos:** `canon_relato.md` **v2** (reloj + app + inyección progresiva) · `cronologia.md` **v2** (calendario recalculado + 15 Hechos Plantados + estado corporal) · `investigacion_tema.md` (vigente — psicología + banco sensorial + registro peninsular) · `concepto.md` (histórico, 16/07).
 - **Siguiente paso:** GATE v2 de la Ama → luego invocar `escritor-nivel4` — **Cap 1, Tramo 1** (MODO TRAMO, plan abajo). El Escritor DEBE leer también `investigacion_tema.md` (banco sensorial §3, condicionamiento §4, registro Kitty §5 — el collar del §4 ahora es el RELOJ).
 
@@ -28,7 +28,7 @@
 
 | Tramo | Beats | Estado |
 |-------|-------|--------|
-| T1 | Lunes de humillación (frase canónica) · el reloj sin remitente + tarjeta "MD ❤" (se lo pone solo) · WhatsApp a Fernanda: mensaje #1 + app · decisión fría nocturna | pendiente |
+| T1 | Lunes de humillación (frase canónica) · el reloj sin remitente + tarjeta "MD ❤" (se lo pone solo) · WhatsApp a Fernanda: mensaje #1 + app · decisión fría nocturna | ✅ escrito (17/07, ~1.750 pal; H1/H2/H3/H5/H11 sembrados; cierre: "Ahora era ella la que tenía todo el tiempo.") |
 | T2 | Días 2–4: experimentos torpes de control · él inventa explicaciones · Fernanda descubre el editor de persona y DISEÑA a Kitty | pendiente |
 | T3 | Días 5–7: primera vez que OYE la voz de Kitty · pulsos de dopamina del reloj · el broche que no abre (descubierto tarde) · resistencia que pierde | pendiente |
 | T4 | Día 8, reunión de los lunes: PRIMER BROTE público de Kitty por su boca · cierre + autoverificación a `reportes/capitulo_1/` + actualizar `cronologia.md` | pendiente |
