@@ -120,7 +120,7 @@ Dicho así suena a nada, y eso fue exactamente lo que me pareció: nada. Estaba 
 
 Cansancio. Eso pensé. El press de banca del sábado, la contractura de siempre, el kinesiólogo que llevo tres meses agendando y pateando. La mano volvió a obedecer al tiro, tomé el lápiz, firmé de nuevo encima, listo. Y justo ahí, mientras la mano retomaba su lugar en mi vida, el reloj me dio un pulso tibio en la muñeca. Suave, hondo, agradable, como un sorbo de whisky que baja por dentro del brazo. Alguna función de bienestar, supuse. Medición de estrés, esas cosas que traen ahora. La verdad es que fue rico, y no lo pensé dos veces.
 
-Dos días después fue el café.
+Al otro día fue el café.
 
 Reunión con los de riesgo, taza recién servida por la Fernanda, yo hablando de spreads con la taza subiendo hacia mi boca en piloto automático, y la taza no llegó. Se detuvo a diez centímetros de mis labios, se quedó ahí suspendida un segundo absurdo —yo mirándola como se mira a un empleado que se detiene a media orden— y después la muñeca giró sola, dos grados, lo justo para que un hilo de café me corriera por los dedos y manchara el borde del informe. Alcancé a dejarla en la mesa con la otra mano. Nadie se dio cuenta, creo. Vial seguía hablando de provisiones.
 
@@ -183,3 +183,79 @@ Fernanda miró la esquina superior de la pantalla. *Pulso: 51. Sueño: profundo.
 Apretó el botón con el pulgar. La aplicación no hizo ruido ninguno. Solo cambió el texto, con la sobriedad de un trámite bien hecho: *Inyección en curso.*
 
 Yo dormí impecable esa noche. Ocho horas de corrido, sin sueños — o con sueños que todavía no eran de nadie y no sabían hablar. En el velador, la alarma puesta a las 6:40. Y en mi muñeca izquierda, me lo he imaginado después mil veces en noches mucho peores que esa, el pozo negro latiendo despacio en la oscuridad, paciente, cargando gota a gota su mercadería. Trabajando.
+
+***
+
+La voz llegó al día siguiente, a media mañana, mientras revisaba la planilla de flujos.
+
+Iba bajando por la columna de abril con el dedo en la rueda del mouse, cerré la última celda, cuadró todo, y adentro de mi cabeza —no al lado, no atrás: adentro, en el mismo lugar donde uno se habla a sí mismo— una voz de mujer dijo, jadeada, complacida, con un acento español de película que nadie ha hablado nunca en ningún país de verdad:
+
+*Así, muy bien, señor... qué gustito.*
+
+Me quedé mirando la planilla. Giré en la silla. La puerta de mi oficina estaba cerrada, el piso catorce ronroneaba su ruido de siempre, teléfonos, impresora, la Fernanda pasando con papeles al fondo del pasillo. Nadie. Ningún parlante, ningún celular con un video abierto, ninguna radio.
+
+Un jingle, pensé. Un audio de mierda que escuché en alguna parte y se me quedó pegado como se pega un reggaetón. Squella manda cuestiones así por el grupo del comité, weás de doble sentido, algo habré oído a medio scrollear. Volví a la planilla.
+
+En el ascensor, bajando solo al almuerzo, la voz volvió. Más cerca. Más húmeda. Con esa sobreactuación de doblaje barato en que el gemido va medio segundo desfasado de la frase:
+
+*¿Le gusta cómo se la chupo, señor?*
+
+Se me heló la nuca. Miré el techo del ascensor, la cámara, el citófono. Espejo, acero, yo. Nadie más. Y la voz no venía del aire — eso era lo peor, lo entendí ahí con un vértigo chico y frío: venía del lado de adentro de mis orejas. Sonaba en el mismo canal donde suena mi propia cabeza cuando pienso. Era mi pensamiento con la voz de otra. Una otra ridícula, gimiente, doblada al español de España, que decía *chupo* con una dicción de estudio de grabación y me trataba de señor.
+
+El resto del día la fui aguantando como se aguanta una gotera. En el baño, mientras me lavaba las manos, me miré al espejo y la voz aprovechó el reflejo: *qué guapo estás... la tienes tan dura, señor* — y no la tenía dura, no tenía nada, estaba lavándome las manos con la corbata al hombro, y una actriz porno mal doblada me recitaba su guion dentro del cráneo sin ningún contexto, sin ningún permiso, fuera de toda lógica, como una radio que alguien dejó prendida en una pieza de mi casa que yo no sabía que existía.
+
+Esa noche googleé. "Escuchar voces estrés ejecutivo." "Alucinación auditiva burnout." Leí tres artículos con una copa de whisky al lado y elegí, de todo el menú de diagnósticos, el más barato: agotamiento. Sobrecarga. El cierre de Matte, la reunión grande de fin de mes, tres años sin vacaciones de verdad. El cerebro pasado de revoluciones inventa ruido. Me recetó vacaciones el mismo weón de siempre: yo. Marzo, pensé. En marzo paro una semana.
+
+Antonia me llamó a las siete y media. Miré la pantalla hasta que se cortó. No podía hablar con ella con esa cuestión recitando adentro; en cualquier pausa del "¿cómo estuvo tu día, amor?" la voz podía meterse a gemir y yo iba a tener que sonreír al teléfono con una polla imaginaria doblada al castellano atravesada en el pensamiento. Le mandé un mensaje: "reunión hasta tarde, te llamo mañana." Su corazoncito de vuelta me dio una culpa vaga, lejana, de segunda prioridad. Ya éramos tres en mi cabeza y la agenda estaba llena.
+
+Al día siguiente peleé. Lo digo con algo parecido al orgullo, porque es lo único que hice bien esa semana: pelear. Me puse audífonos con música a volumen de adolescente. Me serví el triple de café. Trabajé con la puerta abierta para tener ruido humano cerca. Y aprendí, en carne propia, la aritmética de la cosa, aunque todavía no sabía que era una aritmética: cuando peleaba —cuando apretaba la mandíbula y ahogaba la voz con cifras dichas en voz alta— el reloj se quedaba mudo, y el día se ponía gris, plano, sin sabor, como comida de hospital. Y cuando aflojaba, aunque fuera un segundo — cuando la voz decía *muy bien, señor, así me gusta* porque yo había estirado la espalda, y yo, idiota, cansado, le respondía mentalmente *ya, bueno* como se le responde a una vieja pesada del ascensor —, el pulso tibio me subía por el brazo al tiro, puntual, hondo, dulce, y por tres minutos el mundo tenía otra vez colores.
+
+La tarde del segundo día de pelea me pillé con la muñeca izquierda levantada a la altura del pecho, quieta, esperando. Había terminado de revisar un contrato. La voz había dicho su *qué gustito* de utilería. Y yo estaba esperando el pulso como un perro espera el pan — antes de darme cuenta de que esperaba, con la esperanza ya instalada en el brazo. Cuando el pulso llegó, el alivio me bajó por el cuerpo hasta un lugar donde el alivio no tenía nada que hacer, un calor breve bajo el cinturón que me apuré en archivar como cansancio.
+
+Bajé el brazo. Me sudaba la nuca. Algo estaba muy mal y yo seguía sin querer sumarlo.
+
+La suma me la hizo el kinesiólogo.
+
+Fui por fin a la sesión por la contractura —tres meses pateándola, la había agendado el día del magnesio— y el hombre, con toda la inocencia del mundo, me dijo lo que se le dice a cualquiera en una camilla: "sáquese el reloj, por favor."
+
+Fui a sacármelo. Con naturalidad, con la mano derecha, el gesto de todos los relojes de mi vida.
+
+El broche no estaba.
+
+No es que estuviera atascado: no estaba. Donde había cerrado con aquel clic de bóveda que a mí me pareció tan satisfactorio, había ahora una superficie lisa, continua, sin línea, sin pestaña, sin botón, cerámica y metal fundidos como si la malla hubiera nacido entera alrededor de mi muñeca. Le di vuelta al brazo dos veces buscando el mecanismo por el otro lado. Tiré, discreto, con dos dedos. La malla no cedió un milímetro: exacta, ni apretada ni suelta, hecha a la medida justa para no pasar jamás por encima de la mano.
+
+—Prefiero no sacármelo —le dije al kinesiólogo, con mi mejor voz de gerente—. Es pieza única. El seguro me obliga a portarlo.
+
+Me trabajó la espalda cuarenta minutos y no sentí ninguno.
+
+En mi casa, esa noche, lo intenté todo lo que se puede intentar sin llamar a nadie. Jabón hasta el codo. La mano empuñada, estirada, doblada como para ponerse un guante. Una lupa de coleccionista buscando la juntura que tenía que existir, porque yo VI el broche, yo LO ABROCHÉ, las cosas que se abrochan se desabrochan, esa es la ley de las cosas. No había juntura. Pensé en un joyero y me imaginé la escena: buenas tardes, necesito que me corte un reloj que no tiene marca, no tengo boleta, me lo mandó alguien que firma MD con un corazón. Pensé en una sierra chica y no fui capaz: no sé si por miedo a rayarlo o por miedo a que respondiera.
+
+Y ahí, sentado en el borde de mi cama con el brazo jabonado hasta el codo, hice por fin la suma que llevaba una semana negándome. El lápiz. La taza. El tropiezo. Los pulsos tibios. La voz. El reloj que llegó sin remitente el mismo día en que yo tenía la vida perfecta, y que yo mismo, con estos dedos, sonriéndole a mi reflejo, me abroché en la muñeca donde va todo lo que vale.
+
+Todo cabía en una sola carpeta y la carpeta tenía forma de reloj.
+
+Quiero que se entienda la trampa completa, porque su elegancia es lo que más odio: cuando entendí, ya no había nada que entender que sirviera. No podía sacármelo. No podía contarlo — ¿a quién?, ¿a Antonia?, ¿al médico?, "doctor, mi reloj me premia con placer cuando obedezco a una voz porno española que vive en mi cabeza" — demencia certificable, licencia psiquiátrica, adiós gerencia, adiós directorio, adiós todo lo que yo era. No podía siquiera demostrar que el reloj hacía algo: en público era solo el reloj nuevo del gerente, la pieza única, el regalo de una clienta del que yo mismo me había pavoneado frente a Squella. La única prueba era yo. Y yo era, precisamente, lo que estaba dejando de ser mío.
+
+***
+
+En el panel, esa misma noche, la curva subía.
+
+*Adopción de persona: 31%.* Debajo, un gráfico de minutos diarios — la presencia de Kitty medida en minutos, como se mide el uso de una licencia de software — y una línea dorada trepando en diagonal, con un quiebre notorio hacia arriba en el día de la camilla. Fernanda lo estudió con la taza de té entre las manos. La resistencia de él aparecía en el gráfico como pequeñas mesetas grises. Le gustaban las mesetas. Hacían más limpia la diagonal que venía después.
+
+Ya no le temblaba el pulgar. Ajustó la dosis nocturna dos puntos arriba —la aplicación sugería uno; ella eligió dos, y notó, con interés de auditora, que elegir de más ya no le daba pudor sino apetito—, programó el horario de la inyección para las horas de sueño profundo, y dejó el teléfono cargando junto al frutero, la pantalla encendida hacia el techo, el pulso de él subiendo y bajando en la loza fría como un rezo que nadie escuchaba.
+
+***
+
+La séptima noche dejé de pelear.
+
+No por decisión. Por agotamiento, que es como se pierden las guerras de verdad: sin firma, sin rendición, sin fecha. Eran las once y media, estaba tirado en mi cama con la corbata a medio sacar, y la voz llevaba una hora larga con su rutina —*qué dura la tienes, señor... déjame follarte el oído, así, despacito*— y yo ya no tenía cifras que decir en voz alta ni música que ponerle encima. Entonces aflojé. Un momento. Uno solo. Dejé que la frase terminara sin taparla, entera, con su gemido desfasado y su dicción de estudio barato, como quien deja pasar una ambulancia.
+
+El reloj me premió al tiro.
+
+El pulso fue más largo que todos los anteriores, más hondo, un calor con peso que me subió por el brazo, me cruzó el pecho y se me derramó columna abajo, y detrás del calor vino el silencio. Kitty calló, satisfecha, como después. La cabeza me quedó limpia, quieta, callada por primera vez en tres días.
+
+Y ese silencio fue casi peor que la voz. Porque era un silencio comprado. Porque me lo habían vendido a cambio de un momento de no pelear, y el precio me había parecido — esa es la palabra exacta, la palabra que no le voy a perdonar nunca a mi propio cuerpo — barato.
+
+Me quedé mirando el techo a oscuras, con el pozo negro latiendo tranquilo en la muñeca, esperando sin querer esperar el próximo pulso.
+
+Faltaba un día para el lunes.
