@@ -1,27 +1,30 @@
-# Canon Relato — La Muñeca del Gerente (v2)
+# Canon Relato — La Muñeca del Gerente (v3)
 
 > v4.7 / Nivel 4 — Un solo documento. Máximo ~2,000 palabras. La voz literal de la Ama gana sobre cualquier interpretación.
 > Continuación de «El Collar de Nancy» (universo compartido: Miss Doll, agencia *Living Doll Experience*; sin cruce de personajes).
 > **v2 (17/07/2026):** reformado por directivas de la Ama — el collar muere, nace el **reloj de lujo + la app**; la posesión ya no es un clic sino **inyección progresiva**; Kitty es **diseño de Fernanda**.
+> **v3 (17/07/2026 — notas de la Ama sobre el Cap 1 v0.2):** relato en **TERCERA persona** · tarjeta del reloj como **acertijo** (el control no será de él) · humillación **constante** de Fernanda (justifica la venganza) · Fernanda descubre y prueba la app **el mismo día del regalo, en la oficina**, y constata que los cambios son **instantáneos** — recién ahí empieza la venganza · Kitty entra primero como **pensamiento** dentro de la cabeza de Cristóbal · resistencia **consciente** (se da cuenta de lo que hace) · Kitty más **sensual**.
 > Marcas: **[LITERAL AMA]** = transcripción exacta · **[PROPUESTA COMPOSITOR]** = tentativo, sujeto a Gate.
 
 ## 1. Premisa
 
-Fernanda, secretaria ninguneada tres años, recibe un WhatsApp de un número desconocido que sabe su apellido: un mensaje de Miss Doll y el enlace de una app. Esa misma tarde, a su jefe —Cristóbal Undurraga, gerente comercial matón de una corredora en El Golf— le llega un **reloj de lujo, cargado de tecnología, sin remitente**, con una tarjeta misteriosa firmada **"MD ❤"**. Él se lo abrocha solo, por pura vanidad. Desde la app, Fernanda **aprende de a poco a controlarlo** y le inyecta gota a gota una personalidad que ella misma diseñó: **Kitty**. Cristóbal **nunca sabe lo que pasa hasta que es tarde**. Venganza fría que se convierte en gusto por la propiedad; final sin rescate: él odiándolo todo, revisando la hora de su turno de mañana.
+Fernanda, secretaria **humillada a diario** durante tres años —el ninguneo de Cristóbal no es un evento: es rutina visible, chica y constante, y el relato lo MUESTRA hasta que la venganza queda justificada—, recibe un WhatsApp de un número desconocido que sabe su apellido: un mensaje de Miss Doll y el enlace de una app. Esa misma tarde, a su jefe —Cristóbal Undurraga, gerente comercial matón de una corredora en El Golf— le llega un **reloj de lujo, cargado de tecnología, sin remitente**, con una tarjeta-acertijo firmada **"MD ❤"**. Él se lo abrocha solo, por pura vanidad. Fernanda instala la app **ese mismo día, en la oficina**, y prueba: cada cambio que toca en la pantalla ocurre **al instante**, a metros de ella, delante de sus ojos. Recién cuando constata ese poder inmediato **empieza la venganza**: afina el control gota a gota y le inyecta una personalidad que ella misma diseñó: **Kitty**. Cristóbal **nunca sabe lo que pasa hasta que es tarde** — pero **se da cuenta de lo que hace** y pelea cada gesto. Venganza fría que se convierte en gusto por la propiedad; final sin rescate: él odiándolo todo, revisando la hora de su turno de mañana.
+
+**Narrador [DIRECTIVA AMA 17/07]:** el relato completo va en **TERCERA persona**, focalización interna pegada a la piel, alternada: Fernanda (el poder que se aprende) y Cristóbal (la pérdida que se sufre). Nada de "yo": la mente-pasajera se narra desde afuera, pero desde DENTRO de la sensación.
 
 ## 2. Pivotes Narrativos (5)
 
 ### Pivote 1 — El reloj y la app
-- **Qué ocurre:** Llegada doble el mismo LUNES de la humillación: el reloj sin remitente para él (tarjeta "MD ❤"), el WhatsApp con la app para ella. Él se lo pone solo — un matón cuico jamás rechaza un reloj carísimo. Fernanda instala la app y empieza con **controles torpes, experimentales**: la mano que suelta el lápiz, el sorbo que no llega a la boca. **[LITERAL AMA: "él nunca sabe lo que pasa hasta que es tarde, fernanda de a poco aprende a controlarlo."]**
-- **Por qué excita:** La vanidad como correa — nadie lo obligó, se lo abrochó él. Y la dueña es aprendiz: experimenta con su jefe como con un juguete recién sacado de la caja.
-- **Error fatal:** Que él sospeche del reloj, o que Fernanda domine la app de inmediato. La curva de aprendizaje ES parte del erotismo.
-- **Ubicación temporal:** Cap 1 (T1–T2), Días 1–4.
+- **Qué ocurre:** El LUNES de apertura muestra la **humillación constante** **[NOTA AMA 17/07: "Cristóbal humilla constantemente a fernanda lo que justifica la venganza"]**: la frase canónica es solo el pico — durante el mismo día él la ningunea dos o tres veces más, chico y rutinario (el café devuelto, el encargo sin mirarla, el nombre que no recuerda), hasta que la venganza queda GANADA ante el lector. Esa tarde, llegada doble: el reloj sin remitente para él (tarjeta-acertijo "MD ❤" — él se lo pone solo: un matón cuico jamás rechaza un reloj carísimo) y el WhatsApp con la app para ella. **[NOTA AMA 17/07: Fernanda "descubre y experimenta con la app el mismo día del regalo" — acelerado]**: instala EN la oficina y hace sus **pruebas ahí mismo, torpes, experimentales** (la mano que suelta el lápiz, el sorbo que no llega), viéndolo a través del vidrio: **cada cambio es instantáneo** — toca la pantalla y a metros de ella el cuerpo del gerente obedece en el acto. **Recién después de constatar esa instantaneidad empieza la venganza** (la decisión fría es consecuencia del poder visto en vivo, no anterior). **[LITERAL AMA: "él nunca sabe lo que pasa hasta que es tarde, fernanda de a poco aprende a controlarlo."]**
+- **Por qué excita:** La vanidad como correa — nadie lo obligó, se lo abrochó él. Y la dueña es aprendiz: experimenta con su jefe como con un juguete recién sacado de la caja, en la misma sala donde él la humilló en la mañana, mirando el efecto en tiempo real.
+- **Error fatal:** Que él sospeche del reloj, o que Fernanda domine la app de inmediato (la curva de aprendizaje ES parte del erotismo). Que la humillación sea UN solo evento aislado. Que la decisión de venganza preceda a la constatación del poder instantáneo. Que las pruebas ocurran lejos de la oficina.
+- **Ubicación temporal:** Cap 1 (T1–T2), Días 1–3.
 
 ### Pivote 2 — La voz en la cabeza
-- **Qué ocurre:** Fernanda encuentra el editor de persona de la app y **diseña a Kitty** — el nombre, la voz, lo ridícula. La inyecta por goteo. Cristóbal **empieza a oír la voz de Kitty dentro de su cabeza** (doblaje porno mal traducido), hasta que el Día 8, en la reunión de los lunes, la primera frase se le sale **por la boca**. **[LITERAL AMA: "fernanda de a poco va inyectando la persona de kitty en la mente de cristóbal; a medida que eso pasa, cristóbal empieza a oír la voz de kitty en su cabeza."]**
-- **Por qué excita:** La invasión mental progresiva — pierde el monopolio de su propia cabeza ante una voz ridícula que no puede callar; la vergüenza pública sin explicación posible.
-- **Error fatal:** Posesión de golpe (el "clic" está DEROGADO). Que la voz suene elegante — es ridícula, y eso la hace peor. Que él entienda el origen.
-- **Ubicación temporal:** Cap 1 (T3–T4), Días 5–8. La voz sigue ganando terreno todo el Cap 2.
+- **Qué ocurre:** Fernanda encuentra el editor de persona de la app y **diseña a Kitty**. **El nombre de mujer tiene motivo EN ESCENA [NOTA AMA 17/07: "¿por qué decide darle nombre de mujer?" — la pregunta se responde en la prosa]:** él usó "secretaria" como insulto; en su mundo, lo femenino-servicial es lo más bajo que existe — y Fernanda decide convertirlo exactamente en eso: si para él una mujer que sirve es el fondo del mundo, él va a ser una mujer que sirve, con nombre de gatita de calendario. La inyecta por goteo en un **gradiente de tres estaciones [NOTA AMA 17/07: "Kitty primero debe ser un pensamiento intensivo dentro de la cabeza de cristóbal"]**: primero **pensamientos intrusivos** que él cree suyos (un *qué gustito* pensado sin saber por qué, el impulso de servir, gestos que se pilla haciendo — y resiste), después **la voz** (ajena, adentro, húmeda), al final **la boca**: el Día 8, en la reunión de los lunes, la primera frase se le sale por la boca. **[LITERAL AMA: "fernanda de a poco va inyectando la persona de kitty en la mente de cristóbal; a medida que eso pasa, cristóbal empieza a oír la voz de kitty en su cabeza."]**
+- **Por qué excita:** La invasión mental progresiva — pierde el monopolio de su propia cabeza. Y la voz **no es solo ridícula: seduce [NOTA AMA 17/07: "le falta sensualidad a kitty"]** — susurra húmeda y cercana, describe, promete, ronronea; el cuerpo de él responde (calor, dureza, piel de gallina) mientras la mente se asquea. La humillación calienta PORQUE la voz calienta primero (investigación §1b: el circuito castigo→recompensa necesita deseo real que traicionar).
+- **Error fatal:** Posesión de golpe (el "clic" está DEROGADO). Que Kitty sea SOLO chiste — sin sensualidad la humillación no calienta. Que él entienda el origen. Que el gradiente se salte una estación (pensamiento → voz → boca, en ese orden).
+- **Ubicación temporal:** Cap 1 (T2–T4), Días 3–8. La voz sigue ganando terreno todo el Cap 2.
 
 ### Pivote 3 — Las caderas
 - **Qué ocurre:** A medio camino de la ruina, Fernanda **lo hace usar los hip pads** (con panel de silicona: coño incluido): la marcha se le cambia sola, **se va amanerando y afeminando**, y la persona de Kitty se refuerza. Después, **una reunión importante**: Kitty sale a actuar delante de los que importan y **lo deja en ridículo** — la ruina se refuerza. Después, **Antonia**: intenta tener sexo con su novia y queda avergonzado — cadera femenina, coño donde había verga, y a media faena empieza a **actuar como Kitty**. Antonia se va. Con las caderas puestas, **Kitty empieza a desear sentir cosas en su culo** — y Cristóbal sufre ese deseo como una invasión.
@@ -50,12 +53,14 @@ Fernanda, secretaria ninguneada tres años, recibe un WhatsApp de un número des
 - **Detalle físico ancla:** Manos pulcras de administradora, uñas cortas sin esmalte — todo lo contrario de la muñeca que diseñó.
 - **Invariante:** Nunca levanta la voz. El poder es planilla, no grito. Y al final no duda.
 
-### Cristóbal Undurraga (35) — narrador mente-pasajera (primera persona)
-- **Rol narrativo:** Víctima alfa. Matón cuico de El Golf con TODO que perder (cargo, novia, reputación). Humilla en voz alta en la reunión de los lunes.
+### Cristóbal Undurraga (35) — foco de la pérdida (relato en TERCERA persona — directiva Ama 17/07)
+- **Rol narrativo:** Víctima alfa. Matón cuico de El Golf con TODO que perder (cargo, novia, reputación). Humilla en voz alta en la reunión de los lunes **y en chico todos los días** (el ninguneo a Fernanda es rutina, no evento).
+- **Narración:** tercera persona, focalización interna alternada (Fernanda / Cristóbal), pegada a la piel. La mente-pasajera se conserva como EXPERIENCIA (el lector siente el cuerpo perdido desde adentro) pero sin "yo".
 - **Frase tipo [LITERAL AMA]:** *"¿Esto lo hiciste tú o se lo dictaste a la Fernanda? Porque huele a secretaria, weón."*
 - **Detalle físico ancla:** El reloj en la muñeca izquierda — pesado, carísimo, de broche que no abre. El punto exacto donde vive la correa.
 - **Invariante 1:** La resistencia interna NUNCA desaparece: pelea cada pliegue y lo pierde. Odia todo hasta la última línea — y espera el turno siguiente.
 - **Invariante 2 [LITERAL AMA 17/07]:** **Nunca sabe lo que pasa hasta que es tarde.** Cada etapa la entiende recién consumada; el lector ve la trampa antes que él. Prohibido que anticipe, deduzca o desarme el mecanismo a tiempo.
+- **Invariante 3 [NOTA AMA 17/07: "Cristóbal se da cuenta de lo que hace, debe haber resistencia"]:** **Se da cuenta de lo que HACE** — pilla el gesto ajeno, el pensamiento que no es suyo, la palabra que se le arma en la lengua, EN el momento, y pelea en escena (visible, no resumida). Compatible con Invariante 2: nota el QUÉ al instante; el QUIÉN y el CÓMO los entiende siempre tarde.
 
 ### Kitty — la muñeca (diseño de Fernanda: voz inyectada + cuerpo de silicona sobre Cristóbal)
 - **Rol narrativo:** Primero una voz en la cabeza de él; después su boca; al final recepcionista de *Living Doll Experience*. Producto, no persona — y producto **hecho a medida por Fernanda**.
@@ -63,6 +68,7 @@ Fernanda, secretaria ninguneada tres años, recibe un WhatsApp de un número des
 - **Gramática peninsular COMPLETA [DIRECTIVA AMA 17/07 bis]:** cuando Kitty habla no es solo el léxico — es la **morfología entera del español de España**: *vosotros, os, chupáis, podéis, queréis, tenéis*, además de *vale, joder*. Ante más de una persona usa **vosotros** (*"¿Queréis que os atienda, señores?"*, *"¿os la chupo?"*), jamás el "ustedes" chileno. El contraste gramatical contra la oficina chilena es parte del producto: suena a doblaje importado en cada conjugación.
 - **Cuerpo y vestuario [DIRECTIVA AMA — vigente]:** **Ridículamente bimbo en cuerpo y ropa**, bordeando la caricatura a propósito (así la diseñó Fernanda): breast plate de copa exagerada, caderas de reloj de arena imposible. Uniforme permanente: **tacones con plataforma + micro falda + blusa extra escote + medias**. Nadie comenta el escote; le piden café.
 - **Deseo propio [LITERAL AMA 17/07]:** Con las caderas de silicona puestas, Kitty **empieza a desear sentir cosas en su culo**. El deseo es de ella; Cristóbal lo sufre como invasión.
+- **Sensualidad [NOTA AMA 17/07: "le falta sensualidad a kitty"]:** Kitty no es solo parodia: es **carne**. Su presencia en la cabeza de Cristóbal es húmeda, cercana, táctil — ronronea contra el lado de adentro de la oreja, describe lo que quiere hacer y lo que quiere sentir, celebra cada gesto de él con placer de estudio (*"así, muy bien, señor... qué gustito"*) — y el cuerpo de él RESPONDE: calor bajo el cinturón, dureza sin permiso, piel erizada, mientras la mente se asquea. El doblaje ridículo NO enfría: vuelve la excitación más vergonzosa, y la vergüenza la vuelve más caliente. Regla de prosa: cada aparición de Kitty deja una marca FÍSICA en el cuerpo de Cristóbal, no solo un eco cómico.
 - **Detalle físico ancla:** La sonrisa congelada de la máscara — placer perpetuo y vacío.
 - **Invariante:** Jamás un chilenismo, jamás un registro natural, jamás sobria de ropa. Un solo modo: porno peninsular mal doblado, en recepción, en servicio y DENTRO de la cabeza de Cristóbal.
 
@@ -75,10 +81,11 @@ Fernanda, secretaria ninguneada tres años, recibe un WhatsApp de un número des
 ## 4. Mecanismo Psicológico Transversal
 
 **[LITERAL AMA]:** *"el cambio y la resistencia, el gozo de la humillación y el cambio, el sometimiento."*
-Tres reglas de escena:
+Cuatro reglas de escena:
 1. **Resistencia ANTES del pliegue.** Ningún hito erótico ocurre sin que Cristóbal pelee primero — y pierda.
-2. **Comprensión tardía.** Él nunca sabe lo que pasa hasta que es tarde; el lector ve la trampa antes que el narrador.
+2. **Comprensión tardía.** Él nunca sabe lo que pasa hasta que es tarde; el lector ve la trampa antes que él.
 3. **Inyección por goteo.** Kitty gana terreno en dosis — un pensamiento, una frase, una caminada — nunca de golpe. El "clic" que entregaba el cuerpo entero está DEROGADO.
+4. **Resistencia CONSCIENTE [NOTA AMA 17/07].** Cristóbal se pilla en el acto — el gesto, la palabra, el pensamiento ajeno — y la pelea ocurre EN escena, visible, físicamente (mandíbula, nudillos, contar cifras en voz alta), nunca resumida en una línea.
 
 ## 5. Imágenes Ancla (5) — [v2: #1–#3 y #5 nuevas, PROPUESTAS COMPOSITOR sujetas a Gate; #4 aprobada 16/07]
 
@@ -99,11 +106,11 @@ Tres reglas de escena:
 
 **Regla canon:** cada cap abre en T° ≥ cierre del anterior. Cap 4 abre en el aturdimiento inmediato post-directorio (el cuerpo aún zumbando); el vacío químico ES el mecanismo de temperatura del cierre.
 
-**Cap 1 — MODO TRAMO (4 tramos):**
-- **T1:** Lunes de humillación (frase canónica) + el reloj sin remitente con la tarjeta "MD ❤" (se lo pone solo) + el WhatsApp a Fernanda con el mensaje #1 y la app + la decisión fría nocturna.
-- **T2:** Días 2–4 — experimentos torpes de control (la mano, el lápiz, el sorbo); él inventa explicaciones; Fernanda descubre el editor de persona y **diseña a Kitty**.
-- **T3:** Días 5–7 — la inyección: primera vez que OYE la voz de Kitty; pulsos de dopamina del reloj; descubre que el broche no abre — tarde; la resistencia que pierde.
-- **T4:** Día 8, reunión de los lunes — PRIMER BROTE público de Kitty por su boca + cierre + autoverificación + actualizar `cronologia.md`.
+**Cap 1 — MODO TRAMO (4 tramos, plan v3):**
+- **T1 (Día 1, LUNES):** La humillación CONSTANTE en escena — la frase canónica en la reunión + dos o tres ninguneos chicos y rutinarios a lo largo del mismo día (la venganza queda justificada). Tarde: el reloj sin remitente con la tarjeta-acertijo "MD ❤" (se lo pone solo) + el WhatsApp a Fernanda (mensaje #1 + app). Fernanda instala EN la oficina y hace las primeras pruebas AHÍ MISMO, mirándolo a través del vidrio: **el efecto es instantáneo** — y esa constatación enciende la decisión fría. La venganza empieza.
+- **T2 (Días 2–3):** Escalada de controles (el sorbo, el tropiezo) — él inventa explicaciones y se da cuenta de que su cuerpo hace cosas que él no ordenó (resistencia consciente). Noche D3: *Persona disponible*; Fernanda **diseña a Kitty** — el motivo del nombre de mujer DRAMATIZADO ("secretaria" como insulto → él será exactamente eso) — y aprieta *Inyección gradual — iniciar*.
+- **T3 (Días 4–7):** El gradiente: primero PENSAMIENTOS intrusivos que él cree suyos (D4 — un *qué gustito* pensado, el impulso de servir, gestos que se pilla haciendo y pelea); después LA VOZ (D5 — ajena, húmeda, sensual: el cuerpo de él responde); pulsos de dopamina; el broche que no abre (D7, kinesiólogo) — tarde; la suma completa; la rendición de la séptima noche.
+- **T4 (Día 8, LUNES):** Reunión de los lunes — PRIMER BROTE público de Kitty por su boca (en vosotros) + el reloj lo premia + cierre con Fernanda + autoverificación + actualizar `cronologia.md`.
 
 **Cap 2 y Cap 3 — también MODO TRAMO** (3–4 tramos c/u: ambos cargan varios setpieces).
 
@@ -124,7 +131,7 @@ verga (nunca polla) · coger · weón / weona · cachai · po · al tiro · la t
 
 ## 9. Frases canónicas
 
-- **Tarjeta del reloj [firma LITERAL AMA; texto PROPUESTA COMPOSITOR — pendiente Gate]:** *"Un hombre como usted no debería medir su tiempo con nada menos. Que lo disfrute. — MD ❤"*
+- **Tarjeta del reloj [DIRECTIVA AMA 17/07: "más misteriosa, como acertijo que hable sobre que el control no lo va a tener él" — texto PROPUESTA ORQUESTADOR, sujeto a Gate]:** *"Un reloj no le pertenece a quien lo lleva, sino a quien le da cuerda. Que lo disfrute. — MD ❤"* — Cristóbal lo lee como poesía de joyería; el lector, como sentencia. (Deroga el texto v2 "Un hombre como usted...".)
 - **Mensaje #1 de Miss Doll (WhatsApp a Fernanda) [LITERAL AMA adaptado al medio — cambio "Adentro está" → "Este enlace es", pendiente Gate]:** *"Tres años sirviéndole el café a un hombre que no sabe tu apellido. Yo sé el tuyo, Fernanda. Este enlace es todo lo que necesitas para que él aprenda a servirlo. — Miss Doll"*
 - **Cristóbal pre-reloj [LITERAL AMA]:** *"¿Esto lo hiciste tú o se lo dictaste a la Fernanda? Porque huele a secretaria, weón."*
 - **Fernanda [canónica — Gate 16/07]:** *"A las 7:30 te quiero depilado y con el uniforme puesto. Y no me hagas repetirlo, que tengo tu agenda hasta el 2028."*
@@ -137,4 +144,4 @@ La caja del Día 1 trae SOLO el reloj. Las piezas de silicona llegan después, *
 
 ---
 
-**GATE v2:** ¿Reconoces este canon reformado como tuyo, Ama? Pendientes de tu palabra: texto de la tarjeta del reloj (§9), ajuste del mensaje #1 al medio digital (§9), mensaje #2 ahora por WhatsApp (§9), mecánica de despachos (§10), imágenes ancla #1–#3 y #5 (§5).
+**GATE v3:** canon reformado con tus notas del 17/07 sobre el Cap 1 v0.2 (tercera persona · acertijo · humillación constante · pruebas instantáneas mismo día · nombre de mujer justificado · pensamiento primero · resistencia consciente · sensualidad de Kitty). Pendiente de tu palabra: el texto NUEVO de la tarjeta-acertijo (§9). El mensaje #1 ajustado al medio digital se da por aprobado (apareció en el cap que leíste sin objeción). Siguen pendientes de Gate por no haber entrado aún en prosa: mensaje #2 por WhatsApp (§9), mecánica de despachos (§10), imágenes ancla #1–#3 y #5 (§5).
