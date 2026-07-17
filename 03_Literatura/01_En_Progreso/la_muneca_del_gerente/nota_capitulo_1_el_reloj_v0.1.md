@@ -1,1 +1,1 @@
-Cristóbal humilla constantemente a fernandaño
+Cristóbal humilla constantemente a fernanda lo que justifica la venganza, Un hombre como usted no debería medir su tiempo con nada menos. Que lo disfrute. — MD ❤ más misteriosa, como acertijo que hable sobre que el control no lo va a tener él 
