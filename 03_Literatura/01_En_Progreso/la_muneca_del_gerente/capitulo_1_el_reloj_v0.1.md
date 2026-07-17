@@ -109,3 +109,77 @@ Fernanda dejó el teléfono apoyado contra el frutero, la pantalla encendida en 
 Se sirvió un té. Tenía tiempo.
 
 Ahora era ella la que tenía todo el tiempo.
+
+***
+
+Al día siguiente se me cayó el lápiz.
+
+Dicho así suena a nada, y eso fue exactamente lo que me pareció: nada. Estaba firmando los anexos del fondo de Matte —mi Montblanc, mi firma de tres letras y una raya, la que practiqué a los veinte porque un gerente se reconoce por la firma— y a media rúbrica la mano se abrió. No se me durmió, no me tiritó: se abrió, con una decisión que no era mía, como si otro hubiera decidido por mis tendones que ya era suficiente lápiz por hoy. El Montblanc rodó por el anexo y dejó una coma de tinta atravesada en mi firma.
+
+—Puta la weá —dije, y me sobé la muñeca.
+
+Cansancio. Eso pensé. El press de banca del sábado, la contractura de siempre, el kinesiólogo que llevo tres meses agendando y pateando. La mano volvió a obedecer al tiro, tomé el lápiz, firmé de nuevo encima, listo. Y justo ahí, mientras la mano retomaba su lugar en mi vida, el reloj me dio un pulso tibio en la muñeca. Suave, hondo, agradable, como un sorbo de whisky que baja por dentro del brazo. Alguna función de bienestar, supuse. Medición de estrés, esas cosas que traen ahora. La verdad es que fue rico, y no lo pensé dos veces.
+
+Dos días después fue el café.
+
+Reunión con los de riesgo, taza recién servida por la Fernanda, yo hablando de spreads con la taza subiendo hacia mi boca en piloto automático, y la taza no llegó. Se detuvo a diez centímetros de mis labios, se quedó ahí suspendida un segundo absurdo —yo mirándola como se mira a un empleado que se detiene a media orden— y después la muñeca giró sola, dos grados, lo justo para que un hilo de café me corriera por los dedos y manchara el borde del informe. Alcancé a dejarla en la mesa con la otra mano. Nadie se dio cuenta, creo. Vial seguía hablando de provisiones.
+
+—¿Está muy caliente, don Cristóbal? —preguntó la Fernanda desde el rincón, con esa voz plana de dispensador de agua.
+
+—Está perfecto —dije, secándome los dedos sin mirarla.
+
+Magnesio, decidí en el ascensor. Falta de magnesio. Un gallo de mi edad, con mi carga laboral, entrenando en ayunas: clásico déficit de magnesio. Compré un frasco carísimo esa misma tarde en la farmacia de Apoquindo y me sentí mejor por el solo hecho de comprarlo, que es para lo que sirven esas compras. Y de nuevo, cuando dejé la taza y la mano volvió al redil: el pulso tibio del reloj subiéndome por el brazo, discreto, premiándome el estrés bien administrado. Empezaba a gustarme esa función. Era lo único en toda mi semana que funcionaba exactamente como debía.
+
+El tercer día tropecé en el lobby.
+
+Venía cruzando el mármol con los papeles del directorio bajo el brazo, dos clientes esperándome en las poltronas, y el pie derecho decidió quedarse un cuarto de segundo más en el suelo de lo que yo le había ordenado. Medio paso en falso, un manotazo elegante al aire, los papeles apretados contra el pecho. Lo convertí en gesto de apuro, saludé con la otra mano, nadie vio nada. Las suelas nuevas, obvio. El embaldosado encerado. La constructora que hizo este edificio con los pasillos en desnivel.
+
+Tenía una explicación para cada cosa. Las explicaciones eran mías, se me daban bien, llevaba toda la vida fabricándolas para otros: por qué el fondo rindió bajo, por qué el cliente tenía que promediar la caída, por qué la culpa era del mercado y nunca del gerente. Jamás se me ocurrió —y esto es lo que todavía me despierta a las cuatro de la mañana— juntar los tres episodios en una sola carpeta. Eran incidentes sueltos: el cansancio, el magnesio, las suelas. Tres moscas distintas. Y entre medio, cada vez, ese pulso tibio en la muñeca izquierda que yo recibía como un premio sin preguntarme nunca premio de qué, por qué, a cambio de cuánto.
+
+El reloj, eso sí, era un éxito. Squella lo vichó en el almuerzo del comité y estuvo diez minutos tratando de adivinarle la marca. "Pieza única", le dije, girando la muñeca para que la luz corriera por la cerámica. "Edición limitada. Regalo de una clienta." Lo dejé masticando la palabra clienta, que era la parte del regalo que más me gustaba a mí.
+
+***
+
+Fernanda, esa primera vez —la del lápiz—, había estado a punto de no hacerlo.
+
+Tenía el teléfono en la falda, bajo el escritorio, la pantalla brillando hacia arriba como un pozo de luz, y el deslizador de *Motricidad* esperando. Era un control simple: una silueta de mano, un menú de gestos con nombres de manual de ergonomía. *Liberar agarre.* Su dedo estuvo suspendido un rato largo. No por culpa: por pudor de aprendiz, el mismo con que a los quince no se atrevía a tocar el piano de la tía delante de gente. Lo tocó demasiado fuerte, además —lo supo al tiro, porque la aplicación le marcó la intensidad en rojo, *dosis alta*, y a cuarenta metros, tras el vidrio de la oficina grande, el Montblanc saltó de la mano del gerente como espantado.
+
+Fernanda bajó la vista de inmediato a su planilla, el corazón golpeándole el chaleco. La aplicación vibró suave: *Comando ejecutado. Refuerzo administrado.* Y el pulso de él, en la esquina de la pantalla, subió tres puntos y volvió a bajar, dócil, a su ritmo de siempre.
+
+Nadie vino. Nadie supo. El mundo siguió girando exactamente igual, salvo que ahora giraba con ella adentro de la sala de máquinas.
+
+Los días siguientes fue afinando la mano. Aprendió que los deslizadores tenían más recorrido del que parecía, que una dosis chica hacía efectos chicos, que el punto no era el espectáculo sino la administración. El café fue mejor que el lápiz —más limpio, más suyo— aunque el giro final de la muñeca le salió brusco, dos grados que eran dos grados de más, y esa noche en la micro se sorprendió repasando el gesto con el pulgar en el aire, corrigiéndolo en seco, como quien practica una firma nueva.
+
+La tercera noche, la aplicación le puso una notificación sobria en lo alto de la pantalla:
+
+*Nuevo control disponible: Persona.*
+
+Fernanda esperó a estar en su cocina, con su taza lavada y su pelo suelto, para abrirlo.
+
+El editor de persona era una ficha en blanco. Arriba, un campo de texto: *Nombre.* Abajo, un catálogo de voces y una columna de rasgos con sus deslizadores, todos al centro, neutros, como empleados nuevos esperando instrucciones.
+
+Escribió primero "Vanessa" y lo borró. Demasiado señora. Escribió "Pamela" y lo borró. El nombre tenía que ser ridículo con precisión, un nombre que él jamás toleraría ni para una perra de campo, un nombre de gatita de calendario. Lo encontró a la tercera y lo tecleó con dos dedos, despacio, saboreando cada letra:
+
+*Kitty.*
+
+El catálogo de voces traía muestras. Fue tocándolas una por una con el índice, la loza fría bajo los codos. Una voz neutra de asistente virtual, educada y muerta. Una voz cálida, latina, de teleserie de las tres. Una voz ejecutiva, seca, casi suya. Y la cuarta, etiquetada *Doblaje clásico — Península*, que al tocarla llenó la cocina de Ñuñoa con un jadeo de estudio barato y una frase impostada, sobreactuada, servicial hasta la náusea:
+
+*"Muy buenas noches. Estoy aquí para servirle. ¿Qué desea usted?"*
+
+Fernanda la escuchó completa. La repitió. La volvió a repetir, los codos en la mesa, la barbilla en las manos. Era perfecta. Era la voz de las películas que los weones como su jefe veían con audífonos y negaban en voz alta; una voz que no existía en ningún país real, doblada, dócil, ridícula, hecha enteramente de guion. Nadie podría tomarla en serio jamás. Ahí estaba el punto.
+
+—Esta —dijo Fernanda en voz alta, sola en su cocina, y se dio cuenta de que estaba sonriendo. No recordaba la última vez que algo, en ese departamento, la había hecho sonreír así. Anotó el dato con la misma frialdad con que anotaba todo, en alguna planilla interior: *me gusta. Considerar.*
+
+Después vinieron los rasgos. *Dulzura. Servicio. Coquetería. Obediencia.* Fue arrastrando cada deslizador hasta el tope derecho con la yema del índice, sin apuro, las uñas cortas y sin esmalte avanzando por la pantalla una tras otra como una cuadrilla ordenada. El último de la columna se llamaba *Pudor.* Ese lo arrastró para el otro lado, hasta el cero, y le pareció que la palabra quedaba ahí abajo, apagada, como una luz que ya no se iba a necesitar.
+
+La ficha quedó completa. Arriba, el nombre en tipografía de invitación: *Kitty.* Abajo, un solo botón nuevo, color hueso sobre negro:
+
+*Inyección gradual — iniciar.*
+
+Y en letra chica, la cortesía de la casa: *La persona se administra por dosis. Los resultados se educan.*
+
+Fernanda miró la esquina superior de la pantalla. *Pulso: 51. Sueño: profundo.* El punto dorado quieto en Vitacura, en el departamento de él, en la cama de él, con la novia o sin la novia, daba lo mismo: dormido como duermen los hombres que nunca han tenido que cuadrar la caja de nadie.
+
+Apretó el botón con el pulgar. La aplicación no hizo ruido ninguno. Solo cambió el texto, con la sobriedad de un trámite bien hecho: *Inyección en curso.*
+
+Yo dormí impecable esa noche. Ocho horas de corrido, sin sueños — o con sueños que todavía no eran de nadie y no sabían hablar. En el velador, la alarma puesta a las 6:40. Y en mi muñeca izquierda, me lo he imaginado después mil veces en noches mucho peores que esa, el pozo negro latiendo despacio en la oscuridad, paciente, cargando gota a gota su mercadería. Trabajando.
