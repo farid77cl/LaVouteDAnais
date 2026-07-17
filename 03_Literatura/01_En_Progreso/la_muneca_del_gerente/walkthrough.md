@@ -31,7 +31,7 @@
 | T1 | Lunes de humillación (frase canónica) · el reloj sin remitente + tarjeta "MD ❤" (se lo pone solo) · WhatsApp a Fernanda: mensaje #1 + app · decisión fría nocturna | ✅ escrito (17/07, ~1.750 pal; H1/H2/H3/H5/H11 sembrados; cierre: "Ahora era ella la que tenía todo el tiempo.") |
 | T2 | Días 2–4: experimentos torpes de control · él inventa explicaciones · Fernanda descubre el editor de persona y DISEÑA a Kitty | ✅ escrito (17/07, ~1.760 pal; H6 + H8 suave; botón "Inyección gradual — iniciar" apretado; Kitty aún muda) |
 | T3 | Días 5–7: primera vez que OYE la voz de Kitty · pulsos de dopamina del reloj · el broche que no abre (descubierto tarde) · resistencia que pierde | ✅ escrito (17/07, ~1.850 pal; H7 + H8 creciendo + H3 pago parcial; rendición séptima noche; cierre: "Faltaba un día para el lunes.") |
-| T4 | Día 8, reunión de los lunes: PRIMER BROTE público de Kitty por su boca · cierre + autoverificación a `reportes/capitulo_1/` + actualizar `cronologia.md` | pendiente |
+| T4 | Día 8, reunión de los lunes: PRIMER BROTE público de Kitty por su boca · cierre + autoverificación a `reportes/capitulo_1/` + actualizar `cronologia.md` | ✅ escrito (17/07; brote en VOSOTROS — directiva gramática peninsular aplicada en caliente; cap completo ~6.470 pal; cronología D1–D8 al día) |
 
 ## Pendientes del GATE v2 (lo que la Ama debe confirmar o corregir)
 

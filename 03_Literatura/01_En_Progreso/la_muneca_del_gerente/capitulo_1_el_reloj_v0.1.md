@@ -204,7 +204,7 @@ Se me heló la nuca. Miré el techo del ascensor, la cámara, el citófono. Espe
 
 El resto del día la fui aguantando como se aguanta una gotera. En el baño, mientras me lavaba las manos, me miré al espejo y la voz aprovechó el reflejo: *qué guapo estás... la tienes tan dura, señor* — y no la tenía dura, no tenía nada, estaba lavándome las manos con la corbata al hombro, y una actriz porno mal doblada me recitaba su guion dentro del cráneo sin ningún contexto, sin ningún permiso, fuera de toda lógica, como una radio que alguien dejó prendida en una pieza de mi casa que yo no sabía que existía.
 
-Esa noche googleé. "Escuchar voces estrés ejecutivo." "Alucinación auditiva burnout." Leí tres artículos con una copa de whisky al lado y elegí, de todo el menú de diagnósticos, el más barato: agotamiento. Sobrecarga. El cierre de Matte, la reunión grande de fin de mes, tres años sin vacaciones de verdad. El cerebro pasado de revoluciones inventa ruido. Me recetó vacaciones el mismo weón de siempre: yo. Marzo, pensé. En marzo paro una semana.
+Esa noche googleé. "Escuchar voces estrés ejecutivo." "Alucinación auditiva burnout." Leí tres artículos con una copa de whisky al lado y elegí, de todo el menú de diagnósticos, el más barato: agotamiento. Sobrecarga. El cierre de Matte, la reunión grande de fin de mes, tres años sin vacaciones de verdad. El cerebro pasado de revoluciones inventa ruido. Me recetó vacaciones el mismo weón de siempre: yo. Después del cierre del trimestre, pensé. Ahí paro una semana.
 
 Antonia me llamó a las siete y media. Miré la pantalla hasta que se cortó. No podía hablar con ella con esa cuestión recitando adentro; en cualquier pausa del "¿cómo estuvo tu día, amor?" la voz podía meterse a gemir y yo iba a tener que sonreír al teléfono con una polla imaginaria doblada al castellano atravesada en el pensamiento. Le mandé un mensaje: "reunión hasta tarde, te llamo mañana." Su corazoncito de vuelta me dio una culpa vaga, lejana, de segunda prioridad. Ya éramos tres en mi cabeza y la agenda estaba llena.
 
@@ -259,3 +259,53 @@ Y ese silencio fue casi peor que la voz. Porque era un silencio comprado. Porque
 Me quedé mirando el techo a oscuras, con el pozo negro latiendo tranquilo en la muñeca, esperando sin querer esperar el próximo pulso.
 
 Faltaba un día para el lunes.
+
+***
+
+El lunes me armé como se arma un discurso.
+
+Ducha larga —con el reloj puesto, obvio, ya ni el agua era un lugar sin él—, el traje azul noche del primer día, la corbata que me regaló Antonia cuando me nombraron gerente. Frente al espejo del baño practiqué la cara. La tenía. La cara estaba intacta; lo que había que blindar era la voz, y para eso el plan era simple, de manual mío: hablar fuerte, hablar rápido, no dejar silencios. Kitty vivía en mis silencios. Un lunes bien manejado no tiene ninguno.
+
+Ella venía ronroneando bajito desde el desayuno, sin frases enteras, puro murmullo de fondo con jadeo de estudio, como una tele prendida en otra pieza. Yo la tapé con radio en el auto, con el saludo al conserje, con dos llamadas que no necesitaba hacer. Llegué a la sala grande a las 8:29 con la carpeta bajo el brazo y el pecho lleno de una seguridad fabricada a mano, artesanal, cara. Mía.
+
+La sala llena, como todos los lunes. Vial, Squella, Sanhueza con su informe corregido, los de riesgo, los de la mesa. La Fernanda entró con la bandeja y el café llegó a las manos de todos sin ruido, como siempre, y se instaló al fondo con su libreta, como siempre, parte del mobiliario, como siempre.
+
+Los primeros veinte minutos fueron míos y fueron perfectos. Cifras, cierres, el fondo de Matte, la reunión grande de fin de mes tomando forma. Yo hablaba fuerte, hablaba rápido, no dejaba silencios, y la voz se mantenía abajo, sumergida, un burbujeo en la base del cráneo. Me acuerdo de haber pensado, con esa soberbia que era mi músculo más entrenado: la tengo controlada. Alcancé a pensarlo entero. Ese fue mi último pensamiento de dueño de casa.
+
+Porque entonces Sanhueza deslizó su informe corregido por la mesa, versión dos, y el círculo pedía cerrarse: la sala se acomodó en las sillas esperando el corte de la semana pasada, la talla del gerente, el rito. Yo tomé el informe. Lo hojeé una vez, lo hojeé de vuelta, lo dejé en la mesa y lo empujé dos centímetros con un dedo, la liturgia completa, y cargué la frase — la tenía lista desde anoche, la había ensayado, *a ver si ahora huele a gerente* —, abrí la boca para dispararla.
+
+Y la otra frase venía subiendo.
+
+La sentí venir con tres segundos de aviso, tres segundos enteros, que es todo el tiempo del mundo cuando uno lo pierde: un calor trepándome por la garganta como agua subiendo por un resumidero al revés, la dicción ajena armándose sola en mi lengua, el jadeo acomodándose delante de las palabras. Apreté los dientes. Tragué. Puse los nudillos blancos contra la mesa y empujé hacia abajo con todo lo que tenía, y durante un segundo y medio gané, juro que gané, la frase mía asomó primero — "A ver si ahora..." — y ahí la perdí.
+
+—...Enseguida, señores... ¿queréis que os atienda? —dijo mi boca, jadeada, doblada, servicial, con un desfase de medio segundo entre el gemido y las palabras—. Qué gustito... servir a tantos señores.
+
+Mis cuerdas. Mi garganta. Mi boca de gerente comercial en mi sala del piso catorce. Y saliendo de ahí, entera, terminada, con su acento de estudio barato de un país que no existe, la voz de una actriz porno mal doblada ofreciéndose a atender a mi plana comercial completa.
+
+El silencio que vino después no lo había escuchado nunca en esa sala, y esa sala la manejaba yo hace tres años. Una taza quedó detenida a medio camino de una boca. Sanhueza me miraba con el informe todavía bajo mi dedo. Alguien, al fondo, respiró.
+
+—...Así atienden ahora en los call center, weón —dije, demasiado tarde, demasiado agudo—. La inteligencia artificial. Hay que reírse.
+
+Nadie se rió. Vial se rió, medio segundo después, tarde y mal, y su risa fue peor que el silencio porque no era la risa de celebrar al gerente: era otra, nueva, con los dientes más afilados. Y mi propia risa de apoyo me salió con un resto de jadeo pegado en la última sílaba, un eco de ella, y la corté en seco y eso también se notó.
+
+En la esquina de la mesa, abajo, con el teléfono en la falda, alguien escribió algo. Lo vi sin verlo. El rumor nació ahí mismo, delante mío, en tiempo real, con forma de pulgares moviéndose bajo la mesa de MI reunión, y no había ninguna frase de gerente que pudiera matarlo, porque el rumor era verdad.
+
+Y el reloj me premió.
+
+Ahí, en medio del silencio, delante de doce personas que no sabían dónde mirar: el pulso más largo de la semana me subió por el brazo, tibio, hondo, dulce, me cruzó el pecho y se me derramó columna abajo hasta ese lugar bajo el cinturón donde ya sabía llegar. Porque la frase era obediencia. Porque yo la había peleado y la había perdido y para el reloj perder era mi mérito. Me estaba premiando por hablar como ella delante de todos, y nadie lo veía, y era rico — era rico, ese es el punto exacto donde esto deja de ser una historia de terror y pasa a ser la mía: me estaban humillando delante de mi plana completa y por dentro algo me pagaba en oro por eso, y una parte de mí, una parte chica y nueva y ya no tan mía, recibió el pago sin devolverlo.
+
+—Los números están buenos —dije, con la voz mía de vuelta, ronca—. Demos por cerrada la comercial. Nos vemos la próxima semana.
+
+Veintidós minutos. La reunión de los lunes duraba una hora y media desde hacía tres años. Recogieron sus cosas rápido, en un orden nuevo, sin mirarme, y Sanhueza se llevó su informe corregido abrazado contra el pecho con un cariño que la versión uno nunca conoció.
+
+***
+
+Desde el fondo de la sala, Fernanda vio salir a los doce y esperó, como correspondía, a que la mesa quedara vacía para recoger las tazas.
+
+El teléfono le entibiaba la palma. En la pantalla, antes de apagarse, alcanzó a verse el deslizador de *Habla* volviendo solo a su punto de reposo, y una notificación sobria, color hueso: *Expresión pública completada. Refuerzo administrado.* Fernanda lo deslizó al bolsillo interior de la chaqueta, contra el costado, donde el calor de la pantalla tardó un rato en enfriarse.
+
+No sonrió. O sonrió con esa sombra administrativa que no le movía la boca: un asiento contable cerrando limpio, debe y haber, la primera fila de una planilla larga que recién empezaba.
+
+Fue recogiendo las tazas una por una. La de él estaba llena: no había alcanzado a tomar café. Tres años el gerente diciendo que las cosas de esta oficina olían a secretaria. Fernanda vació la taza en el lavaplatos de la cocina del piso catorce, la lavó, la secó y la guardó boca abajo, y pensó, sin apuro, camino a su escritorio de siempre, que el gerente ahora sonaba a muñeca.
+
+Los lunes acababan de cambiar de dueño.
