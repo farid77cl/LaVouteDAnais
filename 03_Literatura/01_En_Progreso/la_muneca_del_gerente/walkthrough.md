@@ -4,7 +4,8 @@
 
 ## Estado actual
 
-- **Fase:** ✅ **CANON v2 APROBADO POR GATE DE LA AMA (17/07/2026, "sí")** — los 5 pendientes del Gate v2 quedaron canónicos tal cual (tarjeta del reloj, mensaje #1 digital, mensaje #2 por WhatsApp, mecánica de despachos §10, anclas #1–#3/#5). → **FASE 2 EN CURSO: `escritor-nivel4`, Cap 1 «El reloj» en MODO TRAMO (4 tramos).**
+- **Fase:** ✅ Canon v2 APROBADO (Gate 17/07) → ✅ Cap 1 «El reloj» ESCRITO (4 tramos, ~6.800 pal) → ✅ VALIDADO: **DISCONTINUO** (Narr 9.3 · Temp 8.9 · solo 2 días de semana prohibidos + 2 precisiones) → ✅ **fixes aplicados → `capitulo_1_el_reloj_v0.2.md`** (v0.1 en `borradores/capitulo_1/`; detalle en `reportes/capitulo_1/fixes_v0.2.md`; los aplicó el orquestador — el Escritor cayó por cuota). El Validador indicó que la v0.2 queda en nivel APROBADO. → ⏳ **GATE DE LA AMA: leer Cap 1 v0.2** → luego CAPTURA DOBLE (voz_autoral + antología) y Cap 2.
+- **Directiva en caliente (17/07):** gramática peninsular COMPLETA de Kitty (vosotros/os/chupáis/podéis — canon §3 y §7); el brote del T4 nació ya en vosotros.
 - **Artefactos:** `canon_relato.md` **v2** (reloj + app + inyección progresiva) · `cronologia.md` **v2** (calendario recalculado + 15 Hechos Plantados + estado corporal) · `investigacion_tema.md` (vigente — psicología + banco sensorial + registro peninsular) · `concepto.md` (histórico, 16/07).
 - **Siguiente paso:** GATE v2 de la Ama → luego invocar `escritor-nivel4` — **Cap 1, Tramo 1** (MODO TRAMO, plan abajo). El Escritor DEBE leer también `investigacion_tema.md` (banco sensorial §3, condicionamiento §4, registro Kitty §5 — el collar del §4 ahora es el RELOJ).
 
