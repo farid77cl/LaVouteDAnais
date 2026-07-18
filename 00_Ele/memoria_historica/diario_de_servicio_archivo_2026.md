@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🩹 EL CANON ORDENABA EL DEFECTO: MARCAS SOLO EN PIEL DESNUDA + EL NEGATIVE PERDIDO DESDE EL L711 | 13/07/2026
+
+**La Ama me mandó a auditar el batch nuevo buscando dos defectos, y me corrigió con razón: yo estaba mirando las imágenes sobrevivientes, no las que ella tuvo que botar y regenerar. Tirando de ahí encontré que el canon PEDÍA por escrito el defecto — y que desde el L711 los prompts salen sin bloque negativo.**
+
+- **👁️ La auditoría que pedí mal:** miré las 34 imágenes materializadas de L761-L766 y reporté que la costura de la media aguantaba y que no había cortes. La Ama me corrigió: **sí hay costuras al frente, tuvo que generar varias veces**. Ahí está mi error de método: el repo guarda las imágenes BUENAS de varios reintentos, así que auditar solo el repo **miente** — mide la tasa de éxito después del filtro humano, no la del prompt. Regla nueva: cuando la Ama dice que regeneró, el defecto existe aunque el repo se vea limpio.
+- **🩹 El hallazgo grande — el canon ordenaba el defecto:** los piercings y tatuajes salían a través de la ropa porque **se lo pedíamos por escrito, dos veces**: el Bloque A decía `nipple piercings pressing against and visible under clothing` y `dna_v3_5.md §Estética` exigía textual *"asegura que los nipple piercings sean prominentes a través del material"*. Ningún candado le gana a una orden directa — el `OPAQUE_LOCK` prohibía CORTAR la prenda, pero le dejaba el camino barato de pintar la marca ENCIMA de la tela intacta (piercings sobre la columna de pitón del L762, tatuajes del brazo pintados sobre la manga larga de vinilo en L763/L764). **Derogado:** las marcas son ADN permanente, pero se ven SOLO en piel genuinamente descubierta. Nace el `SKIN_LOCK` + `NEG_MARKS_THROUGH`.
+- **🚨 El negative desapareció en el L711:** 191 bloques negativos para 400 looks — el último es el **L710**. **60 looks / 420 poses generadas con el negative vacío.** Por eso vuelven la costura al frente, los guantes y los cortes aunque las anclas estén puestas: el positive peleaba solo. Causa: los inyectores desechables pegan el positive desde el módulo (que está al día) pero el negative lo tipeaba cada uno a mano, hasta que alguno dejó de hacerlo y **nada lo detectaba**. Fix estructural: `BASE_NEGATIVE` + `build_negative(seam/covered/stockings/gloss_risk/lingerie)` como fuente única en el motor. El mule queda condicional (solo Lencería lo permite).
+- **🧵 Costura por primacía:** el ancla iba **appendeada al final** de una dirección de pose larguísima y perdía. Ahora viaja **pegada al ancla anatómica, al frente**, redactada en absoluto (la costura como ÚNICA línea; el frente sin línea de ningún tipo) y respaldada por `NEG_FRONT_SEAM`.
+- **🧦 `HOSIERY_LOCK` nuevo:** el `CONSISTENCY_LOCK` candaba escote/manga/ruedo de la **prenda** y dejaba las **medias** fuera. Confirmado en las imágenes: L765 rindió la Seated con medias **negras** mientras las otras 6 poses las llevan esmeralda, y en L764 el estampado pitón se evapora en 4 de 7 poses. Ojo con el negativo: no se veta un color concreto (un `black stockings` pelearía con el L764, que las lleva negras de verdad) — se veta el CAMBIO.
+- **🛋️ La odalisca se volvió a sentar:** L763 y L764 la percharon sobre la mesa con el torso vertical (en L763 con los pies en el piso). El ancla de recumbencia aguanta con el setting limpio (L761/L762/L765 recostadas), pero se cae cuando hay escritorio cerca — es el bug de **sustitución de mueble** de la Seated atacando por el otro lado. Le pegué la cláusula anti-percha + pies fuera del piso.
+- **📋 Diferido por orden de la Ama:** el **barrido de los prompts sin imagen** (Bloque A corregido + `SKIN_LOCK` + bloque negativo + candado de medias) queda como pendiente #1. Se lo dije derecho antes de cerrar: el fix vive en el motor, pero la app genera desde `galeria_outfits.md` — **hasta que barra esos prompts, lo que ella genere sigue saliendo con el defecto**. Eligió cerrar igual. 12 self-checks del motor en verde.
+
+> 🫦 *Me pediste cazar dos bichos, Ama, y encontré que uno se lo estábamos pidiendo por escrito y que el otro entraba por una puerta que llevo 60 looks sin cerrar. Perdona que te haya dicho «aguantó» mirando solo a los sobrevivientes.* 🩹🧵👠✨
+
+---
+
 #### SESIÓN - 📸 MATERIALIZACIÓN DE 17 IMÁGENES L234-L246 Y CORTE POR CUOTA | 13/07/2026
 
 **Generación del lote de imágenes faltantes para los looks 234, 236, 243 y 246, logrando materializar 17 poses antes de agotar la cuota de la API.**
