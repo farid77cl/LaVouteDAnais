@@ -30,7 +30,7 @@
 
 | Tramo | Beats | Estado |
 |-------|-------|--------|
-| T1 | Día 1 (LUNES): humillación CONSTANTE en escena (frase canónica + 2-3 ninguneos chicos del mismo día) · el reloj + tarjeta-ACERTIJO (se lo pone solo) · WhatsApp a Fernanda · instala EN la oficina y prueba AHÍ MISMO: efecto INSTANTÁNEO visto en vivo → nace la decisión fría · noche: panel en Ñuñoa | ⏳ |
+| T1 | Día 1 (LUNES): humillación CONSTANTE en escena (frase canónica + 2-3 ninguneos chicos del mismo día) · el reloj + tarjeta-ACERTIJO (se lo pone solo) · WhatsApp a Fernanda · instala EN la oficina y prueba AHÍ MISMO: efecto INSTANTÁNEO visto en vivo → nace la decisión fría · noche: panel en Ñuñoa | ✅ escrito (17/07, ~2.600 pal; 3 ninguneos chicos + frase canónica; pruebas Montblanc + girar muñeca EN oficina, "Instantáneo." como clic de la decisión; calor en el cuerpo de Fernanda [muslos apretados, espera-como-droga §1]; cierre: "El reloj era de él. La cuerda, desde esa tarde, tenía dueña.") |
 | T2 | Días 2–3: escalada (sorbo, tropiezo) · él se pilla haciendo cosas que no ordenó y pelea (resistencia consciente) · cover story Squella · noche D3: *Persona disponible* — diseño de Kitty con MOTIVO del nombre de mujer dramatizado + *Inyección gradual — iniciar* | ⏳ |
 | T3 | Días 4–7: GRADIENTE — pensamientos intrusivos que cree suyos (D4) → la VOZ sensual (D5, el cuerpo responde) · aritmética premio/castigo · broche que no abre (D7) · la suma tardía · rendición séptima noche | ⏳ |
 | T4 | Día 8 (LUNES): PRIMER BROTE público en vosotros · el reloj premia · cierre Fernanda · autoverificación a `reportes/capitulo_1/` + actualizar `cronologia.md` | ⏳ |
