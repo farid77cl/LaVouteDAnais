@@ -433,3 +433,97 @@ La voz se retiró satisfecha, como se retira una mano después de una caricia co
 La vergüenza llegó al final, puntual como todo lo de esa casa. Y no fue por haber pagado. Fue por lo barato que le pareció el precio.
 
 Se durmió casi al tiro, hondo, con el reloj dándole la hora a la oscuridad, y lo último que alcanzó a pensar no fue en la trampa, ni en MD, ni en la voz. Fue que faltaba un día para el lunes. Los lunes eran suyos.
+
+***
+
+El octavo día amaneció lunes, y Cristóbal Undurraga se armó como se arma un discurso.
+
+Había dormido como piedra, hondo, sin sueños, y hasta el descanso lo acusaba: el cuerpo le amaneció liviano, canalla, agradecido de una manera que él prefirió no auditar. Se duchó con el reloj puesto, porque ya no existía otra manera de ducharse. El agua le corría por encima de la cerámica negra sin conseguir mojarla de verdad — el pozo se bebía la ducha igual que se bebía la luz — y él se jabonó sin mirarse la muñeca, con ese esfuerzo deliberado de no mirar que es la forma más atenta de mirar que existe. Antes la ducha era el último rincón soberano del día: cinco minutos sin teléfono, sin gente, sin cargo, un hombre y el agua caliente. Ya no. Ya ni el agua era un lugar sin él.
+
+Y ella venía ronroneando desde el desayuno.
+
+Bajito. Sin frases. Un *mmm* estirado al fondo de la primera tostada, una vocal húmeda enroscándose en la cola de sus propios pensamientos, un suspiro de estudio acomodado entre el café y el borde de la taza — una gata instalándose en la silla de otro sin pedir permiso, segura de que la silla ya era suya. No pedía nada. No ofrecía nada. Desde la séptima noche sabía esperar mejor que él, y esperaba con ese cariño paciente de empleada nueva que ya conoce la casa: sin apuro, casi tierna, afilándose.
+
+Lo peor no era oírla. Lo peor, lo que no tenía dónde archivar, era que el ronroneo de la mañana ya no le daba solo asco. Le daba una sed chiquita, lateral, vergonzosa — la sed del que lleva días recibiendo ternura por goteo y ya se aprendió a qué hora pasa el carrito.
+
+El plan era de manual y se lo repasó nudo por nudo mientras se anudaba la corbata: hablar fuerte. Hablar rápido. No dejar silencios. La voz vivía en los silencios — se metía por cualquier pausa como se mete el frío por una ventana mal sellada —, así que la reunión iba a ser un muro: cifras a presión, agenda cerrada como un puño, ni un hueco donde cupiera una risita. Se puso el traje azul noche del primer día, que era su traje de ganar, y la elección le dejó un segundo de asco fino: necesitar el traje. Como los boxeadores necesitan la bata. Como las viejas necesitan la virgen del velador.
+
+Frente al espejo del baño se practicó la cara.
+
+La de gerente: mandíbula asentada, ojos de dueño de pasillo, la media sonrisa que reparte y no pide. Le salió al segundo intento. Al primero, algo — una blandura de un miligramo en la esquina de la boca, una dulzura mínima que no era de él — le torció el gesto, y tuvo que ordenarse la cara como se le ordena la camisa a un empleado. Lo logró. Pero le quedó registrado eso: que ahora la cara había que lograrla. El espejo, que toda la vida le había devuelto la mercadería sin inventario, ahora entregaba con margen de error. Chico. Suficiente.
+
+—Vamos —le dijo en voz alta al del vidrio.
+
+El del vidrio le movió los labios de vuelta, exacto, y ninguno de los dos preguntó a quién le estaban hablando.
+
+Entró a la sala a las 8:29, un minuto antes de su propia liturgia, y la encontró llena: los doce de siempre, las carpetas cuadradas, el silencio agradecido esperando dueño. Fernanda iba por la cuarta taza, invisible como el dispensador de agua, y nadie — nadie — le miró la falda, donde el teléfono descansaba boca arriba con una pantalla que esa mañana había amanecido con una llave nueva. *Habla: disponible*, había dicho la cursiva discreta de siempre, junto al té, en Ñuñoa. Y Fernanda había mirado el calendario y había entendido que la casa también sabía qué día era.
+
+Sirvió la quinta, la sexta, la séptima. Y entre la séptima y la octava, bajo la línea de la mesa, con el pulgar que en una semana había aprendido a pesar dosis, corrió el deslizador de *Habla* de reposo a abierto y lo dejó ahí, quieto, como se deja una puerta entornada. No iba a dictar nada. No hacía falta: la empleada del otro lado conocía su oficio mejor que nadie. Ella solo le abría la sala.
+
+Los primeros veinte minutos fueron los mejores veinte minutos de gerente de su vida.
+
+Habló fuerte y habló rápido y no dejó un silencio ni del ancho de un dedo: cifras, cierres, márgenes, el calendario de la semana a paso de desfile. Dos veces le pareció sentir, lejísimos, el borde de un ronroneo — y las dos veces le pasó por encima una columna de números como un camión. Nadie respiró fuera de lugar. Sanhueza asentía. Vial tomaba nota. Que quedara claro, cerró, que el lunes que viene era la reunión grande con la plana mayor, y quería los números blindados: a prueba de plana mayor, a prueba de Dios.
+
+La sala dijo que sí con las doce cabezas, y Cristóbal, en la cresta exacta de su propia autoridad, alcanzó a pensarlo entero, con sujeto y predicado, con la soberbia sentada en su silla de siempre:
+
+*La tengo controlada.*
+
+Fue su último pensamiento de dueño de casa.
+
+Porque quedaba el rito. El informe de Sanhueza, corregido, lo esperaba en la carpeta desde la semana pasada, y la liturgia de los lunes no dependía de la calidad del informe: dependía del corte. Lo hojeó una vez, que era lo que necesitaba. Lo hojeó una segunda, que era para la sala. Venía impecable — venía, de hecho, mejor que impecable: venía asustado — y eso no cambiaba nada, porque la frase la tenía lista desde anoche, pulida mientras se dormía, y era de las buenas. Cerró la carpeta sin ruido. La hizo girar sobre la mesa con un dedo, despacio, hasta dejarla apuntando a Sanhueza. El silencio se puso espeso, agradecido, doce personas celebrando por adelantado no estar en la silla del cortado.
+
+Y abrió la boca.
+
+La otra frase venía subiendo desde antes. La sintió con tres segundos de aviso — tres; los contó después, esa noche, mil veces —: un calor trepándole por la garganta como sube el agua por una cañería vieja, la lengua acomodándose sola en posiciones que su castellano no usaba, las consonantes planchándose camino a la boca. Y delante de las palabras, primero que todo, el jadeo: un aliento cortito, impostado, de pieza alfombrada, instalándose en su respiración como se instala la música antes de la letra.
+
+Peleó. Peleó como se pelea con tres segundos: los nudillos blancos en el borde de la mesa, la mandíbula clavada, el cuello duro, y la primera media frase propia empujada a pura autoridad por el canal que se le estaba llenando de otra cosa:
+
+—¿Vieron que se puede? Cuando el informe no se lo dicta a la—
+
+Y ahí se le dobló la voz.
+
+Se le dobló como se dobla una película. La boca siguió siendo la suya — su timbre, su garganta, sus cuerdas de gerente comercial — pero la pista de audio cambió de dueña a mitad de palabra, y lo que salió, delante de los doce, cantadito y húmedo y planchado, fue un castellano de otro continente:
+
+—...Enseguida, señores... ¿queréis que os atienda? —el jadeo respiró solo, cortito, en medio de la frase, con su eco de estudio barato—. Qué gustito... servir a tantos señores...
+
+La sala no se rió.
+
+Eso fue lo primero que registró el cuerpo de Cristóbal, antes que la vergüenza, antes que nada: que el silencio que siguió no se parecía a ningún silencio de esa sala. Él llevaba tres años bebiéndose los silencios de los lunes como un primer café; los conocía por marca y por cosecha: el espeso de antes del corte, el liviano de después de la talla, el agradecido, el obediente. Este era nuevo. Este no lo había servido él. Este era el silencio de doce personas que acaban de escuchar a su gerente comercial ofrecerse a atenderlos en vosotros, con un jadeo de trasnoche y una dulzura de gatita, y que no saben dónde ponerlo — el silencio de un vaso volcado sobre un contrato, cuando todos miran la mancha avanzar y nadie se decide a mover el primer papel.
+
+La talla de salvataje le llegó tarde y le salió aguda.
+
+—...Chiste —dijo, medio tono arriba de su propia voz—. El call center... la weá de la IA del banco, que lo tiene a uno... —y la talla se le murió ahí mismo, sin verbo, sin remate, delante de doce testigos.
+
+Vial se rió. Vial se reía siempre; era el oficio de Vial. Pero esta risa era nueva — más angosta, con dientes, una risa que no le calentaba el pecho a nadie: una risa que tomaba nota. Y abajo, bajo la línea de la mesa, en las faldas y sobre los muslos de la mesa entera, los pulgares empezaron a moverse. Cristóbal no los vio; estaba demasiado ocupado en no desarmarse. Fernanda sí: tres pantallas encendiéndose en tres piernas distintas, tecleadas con una mano, mal escondidas, urgentes. El primer rumor del gerente en tres años estaba naciendo en tiempo real, a un metro de él, por debajo de su propia mesa, y no había gerencia en el mundo capaz de recogerlo: los rumores son la única mercadería que no acepta devolución.
+
+Y entonces, parado delante de todos, con la vergüenza ardiéndole en la cara — ardiéndole de verdad: no era una manera de decir, era un ardor con temperatura y pulso, un dolor físico, exacto, del mismo material que un golpe —, el reloj lo premió.
+
+No fue un hilo. Fue la crecida de la séptima noche y más: un calor con peso, con masa, con intención, que le entró por el brazo y le cruzó el pecho de lado a lado abriéndolo entero, y se derramó columna abajo, vértebra por vértebra, lento, espeso, hasta pasar el cinturón — y ahí, delante de su plana completa, mientras la cara le ardía de bochorno, la entrepierna le celebró el pago con un peso tibio, obsceno, inconfundible. Premiado. Ahí. Por eso. El premio no le llegó al lado de la vergüenza: le llegó encima, por la misma vena, y los dos calores se mezclaron sin pedirle permiso, y de la mezcla resultó una sola cosa nueva que no tenía nombre en ningún informe y que era, contra toda la arquitectura de su vida, lo más parecido al placer que le había pasado por el cuerpo en la semana entera. La aritmética tenía entonces una fila que él no conocía: ceder a solas pagaba sueldo. Ceder en público pagaba bono.
+
+Y una parte de él — una parte chica, nueva, tibia, que ya no era del todo suya — recibió el bono sin devolverlo. Lo recibió, lo guardó, y ronroneó.
+
+—Eso sería —dijo Cristóbal, con la voz de nuevo suya, ronca de tan sujetada—. Afinen los números.
+
+Cerró la reunión comercial de los lunes a los veintidós minutos, contra los noventa históricos, y salió primero — él, que llevaba tres años saliendo último, paseando la vista por su mesa como un dueño de fundo revisa sus cercos. El pasillo de vidrio le devolvió de reojo un gerente derecho, rápido, impecable. Nadie más vio la diferencia. La diferencia iba por dentro, y por dentro no hay cámaras.
+
+La reunión de los lunes seguía siendo lo más parecido al sexo que le daba la semana. Solo que ya no le tocaba el mismo lado de la cama.
+
+Desde el rincón de la bandeja, Fernanda lo vio salir.
+
+El teléfono le vibró una sola vez contra la falda, sobrio como todo lo de esa casa:
+
+*Expresión pública completada. Refuerzo administrado.*
+
+Y debajo, sin que ella tocara nada, el deslizador de *Habla* volvió solo a reposo — la empleada apagando la luz al salir de la pieza, dejando todo como lo encontró. Fernanda guardó el teléfono contra el costado, donde se quedó tibio, y se levantó a hacer su oficio de siempre.
+
+Recogió las tazas una por una mientras la sala se vaciaba en un murmullo que no figuraba en ningún lunes anterior. Las demás, vacías. La de él, llena hasta el borde, helada: el gerente se había quedado sin cuerpo para el café.
+
+Pensó — con las tazas cuadradas en la bandeja, el peso repartido, las manos pulcras haciendo solas su trabajo — en la unidad de medida. Tres años, en ese piso, lo desechable había olido a ella. Desde ese lunes a las nueve menos diez de la mañana, lo desechable tenía además un sonido — un jadeo cantadito, unas consonantes planchadas, un *qué gustito* — y no salía del escritorio de la secretaria: salía de la boca del gerente, delante de su mesa completa, con doce testigos y acta implícita. Él había fabricado la vara con su propia boca. Ella no había hecho más que devolvérsela por el mismo conducto.
+
+El placer le llegó por las dos vías, y Fernanda las distinguió sin esfuerzo, porque distinguir partidas era su oficio. Por una vía, el placer administrativo, seco y exacto: la primera fila de la columna del haber cobrada en público, a la hora precisa, con la reunión cerrada en veintidós minutos y el rumor ya trabajando solo, sin sueldo, para ella. Por la otra, el placer a secas: el calor sentado donde llevaba una semana sentándose, entre los muslos, pero distinto hoy — no el calor ansioso de las primeras pruebas ni el capital paciente de las noches de Ñuñoa: un calor cumplido, ancho, asentado, de cuerpo de dueña que aprendió a esperar y esa mañana cobró. Apretó los muslos una sola vez, de pie, con la bandeja en las manos. Una sola vez, como se firma un recibo. Todo lo demás quedaba para después del horario laboral.
+
+En la cocina del piso catorce lavó las tazas con el orden de siempre y dejó la de él para el final. El café frío cayó al desagüe en una sola cuerda negra, sin salpicar, y la taza quedó boca abajo en el escurridor, junto a las otras, igual a las otras, como si nada de lo que había contenido hubiera existido.
+
+Los lunes habían cambiado de dueño. A la dueña nueva nadie en ese edificio le sabía el apellido.
+
+No le iba a hacer falta.
