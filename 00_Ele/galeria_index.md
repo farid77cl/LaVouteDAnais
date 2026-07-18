@@ -158,15 +158,15 @@
 | **346** | Midnight Blue Roppongi After-Party (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
+| **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Pin-Up | — | — | 7/7 | — |
 | **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | — | Alfombra Roja | — | — | 2/7 | ⏳ Pendiente |
-| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
-| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 2/7 | ⏳ Pendiente |
+| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 7/7 | — |
+| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 7/7 | — |
 | **353** | Chrome Silver Newton Hotel Dark (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 7/7 | — |
-| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 2/7 | ⏳ Pendiente |
-| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 2/7 | ⏳ Pendiente |
-| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
-| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
+| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 7/7 | — |
+| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
+| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 7/7 | — |
+| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Nightclub | — | — | 4/7 | ⏳ Pendiente |
 | **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Corporate | — | — | 2/7 | ⏳ Pendiente |
@@ -584,8 +584,8 @@
 | **772** | Pearl Boardroom Tailoring (13/07/2026 · batch L771-L780 "Desierto de Sal" · Corporate · Salt Flat Executive (Pearl Mirror Tailoring) · Monoblock) | — | — | — | — | 1/7 | ⏳ Pendiente |
 | **773** | Blush Column Drape (13/07/2026 · batch L771-L780 "Desierto de Sal" · Escort · Salt Flat Draped Column (One-Shoulder) · Monoblock) | — | — | — | — | 0/7 | — |
 | **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | — | — | — | — | 2/7 | ⏳ Pendiente |
-| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | — | — | — | — | 1/7 | ⏳ Pendiente |
-| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | — | — | — | — | 1/7 | ⏳ Pendiente |
+| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | — | — | — | — | 4/7 | ⏳ Pendiente |
+| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | — | — | — | — | 7/7 | — |
 | **777** | Lavender Mirror Bandage (13/07/2026 · batch L771-L780 "Desierto de Sal" · Nightclub · Salt Flat Mirror Lounge (Cutout Bandage Mini) · Contraste) | — | — | — | — | 7/7 | — |
 | **778** | Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lenceria · Salt Flat Boudoir (Longline Bra + Garter) · Contraste) | — | — | — | — | 7/7 | — |
 | **779** | Silver Chain Triangle (13/07/2026 · batch L771-L780 "Desierto de Sal" · Bikini · Salt Flat Mirror Pool (Triangle + Body Chain) · Monoblock) | — | — | — | — | 7/7 | — |
@@ -602,14 +602,14 @@
 | **790** | Purple Fuchsia Aerobics Sequin (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Gym/Athleisure · Rock 80s Aerobics Studio (Sequin Leotard + Leg Warmers) · Contraste) | — | — | — | — | 7/7 | — |
 | **791** | Oxblood Executive Catsuit (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Corporate · Vault Executive (Full-Coverage Catsuit) · Monoblock) | — | — | — | — | 7/7 | — |
 | **792** | Amethyst Kimono Boudoir (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Lencería · Jewel-Box Boudoir (Kimono + Balconette Set) · Contraste) | — | — | — | — | 7/7 | — |
-| **793** | Emerald Halter Cocktail Seams (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Escort · Grand Lounge Courtesan (Halter Cocktail + Seamed Stockings) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
-| **794** | Leopard Halter Swing Bombshell (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Pin-Up · Retro Diner Bombshell (Leopard Halter Swing Dress) · Contraste) | — | — | — | — | 0/7 | ⏳ Pendiente |
+| **793** | Emerald Halter Cocktail Seams (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Escort · Grand Lounge Courtesan (Halter Cocktail + Seamed Stockings) · Monoblock) | — | — | — | — | 7/7 | — |
+| **794** | Leopard Halter Swing Bombshell (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Pin-Up · Retro Diner Bombshell (Leopard Halter Swing Dress) · Contraste) | — | — | — | — | 7/7 | — |
 | **795** | Silver Pleat Violet Hosiery (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Nightclub · VIP Neon Lounge (One-Shoulder Pleated Micro + Violet Stockings) · Contraste) | — | — | — | — | 7/7 | — |
-| **796** | Sapphire Vault Sculpture Gown (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Art-Vault Sculptural (Strapless Mermaid Gown) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
-| **797** | Tangerine Zip Shirt-Dress (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Domestic · Villa Kitchen Trophy (Zip-Front Shirt-Dress) · Contraste) | — | — | — | — | 4/7 | ⏳ Pendiente |
-| **798** | Jet High-Cut Teddy (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Lencería · Penthouse Boudoir (Wet-Look High-Cut Teddy) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
-| **799** | Champagne Bandeau Pool (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Bikini · Rooftop Infinity Pool (Twist Bandeau + Brazilian) · Contraste) | — | — | — | — | 0/7 | ⏳ Pendiente |
-| **800** | Chrome Hooded Column (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Studio Cyclorama (Hooded Liquid-Metal Sheath) · Monoblock) | — | — | — | — | 0/7 | ⏳ Pendiente |
+| **796** | Sapphire Vault Sculpture Gown (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Art-Vault Sculptural (Strapless Mermaid Gown) · Monoblock) | — | — | — | — | 7/7 | — |
+| **797** | Tangerine Zip Shirt-Dress (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Domestic · Villa Kitchen Trophy (Zip-Front Shirt-Dress) · Contraste) | — | — | — | — | 7/7 | — |
+| **798** | Jet High-Cut Teddy (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Lencería · Penthouse Boudoir (Wet-Look High-Cut Teddy) · Monoblock) | — | — | — | — | 7/7 | — |
+| **799** | Champagne Bandeau Pool (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Bikini · Rooftop Infinity Pool (Twist Bandeau + Brazilian) · Contraste) | — | — | — | — | 7/7 | — |
+| **800** | Chrome Hooded Column (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Studio Cyclorama (Hooded Liquid-Metal Sheath) · Monoblock) | — | — | — | — | 7/7 | — |
 
 ---
 
@@ -785,14 +785,9 @@
 | **346** | Midnight Blue Roppongi After-Party (31/05/2026 — batch 341-350 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper (31/05/2026 — batch 341-350 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 0/7 | ⏳ Pendiente |
 | **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
-| **349** | Champagne Gold Paco Rabanne Shibuya (31/05/2026 — batch 341-350 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
 | **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 2/7 | ⏳ Pendiente |
-| **351** | Blood Red Bordelle Alchemy Bra Set (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
-| **352** | Oxblood Burlesque Glove Tease (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
-| **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
-| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
-| **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
-| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 6/7 | ⏳ Pendiente |
+| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 4/7 | ⏳ Pendiente |
 | **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
 | **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
@@ -1018,15 +1013,7 @@
 | **772** | Pearl Boardroom Tailoring (13/07/2026 · batch L771-L780 "Desierto de Sal" · Corporate · Salt Flat Executive (Pearl Mirror Tailoring) · Monoblock) | 1/7 | ⏳ Pendiente |
 | **773** | Blush Column Drape (13/07/2026 · batch L771-L780 "Desierto de Sal" · Escort · Salt Flat Draped Column (One-Shoulder) · Monoblock) | 0/7 | — |
 | **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | 2/7 | ⏳ Pendiente |
-| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | 1/7 | ⏳ Pendiente |
-| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | 1/7 | ⏳ Pendiente |
-| **793** | Emerald Halter Cocktail Seams (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Escort · Grand Lounge Courtesan (Halter Cocktail + Seamed Stockings) · Monoblock) | 0/7 | ⏳ Pendiente |
-| **794** | Leopard Halter Swing Bombshell (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Pin-Up · Retro Diner Bombshell (Leopard Halter Swing Dress) · Contraste) | 0/7 | ⏳ Pendiente |
-| **796** | Sapphire Vault Sculpture Gown (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Art-Vault Sculptural (Strapless Mermaid Gown) · Monoblock) | 0/7 | ⏳ Pendiente |
-| **797** | Tangerine Zip Shirt-Dress (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Domestic · Villa Kitchen Trophy (Zip-Front Shirt-Dress) · Contraste) | 4/7 | ⏳ Pendiente |
-| **798** | Jet High-Cut Teddy (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Lencería · Penthouse Boudoir (Wet-Look High-Cut Teddy) · Monoblock) | 0/7 | ⏳ Pendiente |
-| **799** | Champagne Bandeau Pool (14/07/2026 · batch L791-L800 "Cámara Acorazada" · Bikini · Rooftop Infinity Pool (Twist Bandeau + Brazilian) · Contraste) | 0/7 | ⏳ Pendiente |
-| **800** | Chrome Hooded Column (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Studio Cyclorama (Hooded Liquid-Metal Sheath) · Monoblock) | 0/7 | ⏳ Pendiente |
+| **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | 4/7 | ⏳ Pendiente |
 
 ---
 
