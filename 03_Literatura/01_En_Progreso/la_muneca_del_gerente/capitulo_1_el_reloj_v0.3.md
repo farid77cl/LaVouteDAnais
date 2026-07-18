@@ -283,3 +283,153 @@ En la pantalla no se movió nada. El pulso siguió en 53; el punto dorado, quiet
 Se fue a acostar con el cuerpo despierto. Despierto entero: los pezones aún duros contra el pijama, el capital de dos días latiéndole entre los muslos, las plantas de los pies calientes contra la sábana fría. Habría bastado una mano, la suya, dos minutos — lo pensó completo, como pensaba todas las jugadas —, y no se la dio. Retener calentaba más que gastar, y con su propio cuerpo la política de la casa también aplicaba: había algo más fino en quedarse así, llena y sin vaciar, dueña y sin cobrar, mientras al otro lado de Santiago el goteo trabajaba para ella toda la noche con puntualidad de empleado perfecto.
 
 La cuerda tenía dueña hacía dos días. Desde esa noche, la dueña tenía además una empleada entrando a su primer turno: puntual, obediente, gota a gota, dentro de la cabeza del gerente.
+
+***
+
+Al cuarto día, el café le supo distinto.
+
+No mejor: distinto. Fernanda se lo dejó en el posavasos de siempre, a la hora de siempre, y Cristóbal lo probó sin mirarla, los ojos en el cierre del trimestre, y a la mitad del primer sorbo un pensamiento le cruzó la cabeza con la naturalidad tibia de los pensamientos propios:
+
+*Qué gustito.*
+
+Bajó la taza. Se quedó mirando el vapor.
+
+Él no decía gustito. No lo decía ni lo pensaba. En su vocabulario las cosas estaban buenas, estaban correctas o estaban mal hechas; el café de su oficina llevaba tres años estando correcto. *Gustito* era una palabra de otra parte, con un azúcar ajeno en el diminutivo, y sin embargo había sonado adentro, en su propia voz de pensar, cómoda, como si llevara tiempo viviendo ahí. La dio vuelta por todos lados, igual que se da vuelta un cargo desconocido en la cartola, y no le encontró el origen. La archivó en dormir-mal. Y no registró —no tenía cómo— el hilo de tibieza que el reloj le soltó por el brazo mientras la palabra se disolvía, discreto como una propina deslizada en el bolsillo.
+
+A las once y media estuvo a un pelo de ofrecerle algo de tomar al auditor externo.
+
+Se pilló con la frase ya armada —*¿le ofrezco un cafecito?*—, el diminutivo ajeno otra vez, y una sonrisa de anfitriona subiéndole a la boca por su cuenta, sin orden de nadie. Se la tragó entera. Ofrecer café era función de Fernanda; él no le había ofrecido ni un vaso de agua a nadie en ese edificio en tres años. Cerró la reunión seco, cortante de puro susto, y el auditor se fue convencido de que lo habían pillado en algo.
+
+A las cuatro encontró los lápices.
+
+Estaban junto al teclado, donde siempre, pero no como siempre: el Montblanc y los dos lápices de mina ordenados en diagonal, parejitos, las puntas hacia él, en una fila coqueta de vitrina de perfumería. Cristóbal miró la fila como se mira una mancha en la camisa propia: ¿cuándo me manché? No había memoria del gesto. Había el gesto, hecho, terminado, con sus propias manos, en algún minuto de la tarde en que sus manos estuvieron solas. Los desordenó de un manotazo, y el desorden le dejó una molestia chica y absurda picándole en alguna parte, como una taza sin lavar.
+
+—¿Le dejo los anexos para la firma, don Cristóbal? —preguntó la junior de contratos desde la puerta, cerca de las seis.
+
+—Enseguida.
+
+La palabra le salió cantadita. Con una dulzura de campanita, servicial, casi ofrecida, y la nuca se le erizó medio segundo después, a posteriori, cuando el eco de su propia voz le volvió desde el pasillo. Su garganta. Sus cuerdas. La música de otra. La junior sonrió sin notar nada y se fue, y Cristóbal se quedó con la mano a medio camino del teclado, oyéndose.
+
+Entonces peleó, y peleó como sabía: con procedimiento. Cerró la puerta, abrió el cierre del trimestre y recitó cifras en voz alta, línea por línea, márgenes, castigos, provisiones, como se reza un rosario largo, la mandíbula apretada entre número y número. Funcionó. Cada vez que un pensamiento con azúcar asomaba, él le pasaba por encima una fila de cifras y el pensamiento se deshacía sin dar pelea — se deshacía como azúcar, precisamente, sin grumos, sin resistencia, y eso era lo que más rabia le daba: que ni siquiera peleaban. Se disolvían dejando un rastro tibio y dulzón, y en la estela del rastro, puntual, discretísimo, el pulso chico del reloj, tan pegado al final del pensamiento que parecían el mismo animal. A las nueve de la noche había ganado todas las peleas del día. Todas. Y el día entero le quedó en la mano con un gusto raro, desabrido, como si lo único vivo que hubiera pasado en catorce horas fueran las manchas.
+
+La voz llegó al quinto día, a media planilla.
+
+Cristóbal iba por la fila doscientos y tantos de la proyección anual, el edificio en su rumor de media mañana, cuando en el canal donde uno se piensa a sí mismo —ese canal interior donde toda la vida había sonado una sola voz, la suya, dictándose el mundo— habló una mujer.
+
+*Así, muy bien, señor... qué gustito verle trabajar tan concentrado.*
+
+No venía de la puerta. No venía del citófono ni del celular boca abajo. Venía de adentro, de detrás de los ojos, sin dirección y sin distancia, del lugar exacto donde suenan los pensamientos — pero no era un pensamiento: era una voz, con cuerpo, con textura, una voz de mujer joven jadeada al fondo, doblada, sobreactuada, con las consonantes planchadas de un doblaje de otro continente y un eco chiquito de pieza alfombrada. Y era húmeda. Eso fue lo que el cuerpo le contestó antes de que la mente terminara el inventario: la voz era húmeda, cercana, pegada al lado de adentro de la oreja como un aliento que no necesitaba aire, y la piel se le puso de gallina del cuello al antebrazo en una sola corrida, y algo tibio le bajó por debajo del cinturón sin pedir permiso, y la verga se le movió sola contra el pantalón — un peso girando despacio, buscando espacio, respondiéndole a la voz con una obediencia que no pasó por él.
+
+Cristóbal se paró de la silla como si la silla quemara.
+
+Miró la oficina vacía. El pasillo de vidrio. Fernanda al fondo, tecleando, sin levantar la vista. Volvió a sentarse despacio, el corazón golpeando, y se tocó la oreja como si la voz pudiera haber quedado prendida ahí, y la mente le entregó su primer informe, urgente y ridículo: era una voz de película porno. De película porno mal doblada, de esas de trasnoche de los noventa, la actriz gimiendo en un español de otro continente. Y el informe traía un anexo que él se negó a foliar: que el asco de haberla oído no le había bajado la dureza ni un milímetro. Al revés.
+
+A la una y cuarto tomó el ascensor para bajar a almorzar, solo, y entre el piso once y el nueve la voz volvió, más cerca, más húmeda, como si en el intertanto se hubiera acomodado mejor adentro.
+
+*Qué guapo va usted hoy, señor... ¿me deja mirarle? Un poquito nada más... con lo a gusto que se está aquí, tan cerquita suyo...*
+
+Y una risita. Una risita de estudio barato, ensayada, con su jadeo de cierre — y a Cristóbal la risita le corrió por la columna vértebra por vértebra hasta sentársele en la pelvis, y el ascensor de su propio edificio se convirtió en el lugar más chico del mundo. Apretó el nueve, el ocho, cualquier botón. Se bajó dos pisos antes y subió a pie el resto, transpirando, como si la voz fuera un pasajero del que uno puede arrancar por la escalera. En el descanso del trece se dio cuenta de que había subido la escalera con ella adentro, y de que la agitación de los escalones y la otra agitación ya no se podían separar con la mano.
+
+En el baño de gerencia se lavó la cara con agua fría. Levantó la vista al espejo, y la voz estaba esperándolo ahí, como si el reflejo fuera de ella:
+
+*Mírese, señor... qué guapo se pone cuando se enoja. A mí me encanta mirarle así... ¿quiere que le diga lo que más me gusta a mí?*
+
+—Ya —dijo Cristóbal en voz alta, al espejo, a nadie—. Córtala.
+
+Le contestó su propio eco en el baño vacío, y después la risita, adentro, encantada — *uy, qué serio... qué fuerte es usted, señor, qué carácter...* —, celebrándole la rabia como se le celebra una gracia a un niño chico. Y eso fue lo peor del quinto día: descubrir que la pelea también le servía a ella, que apretar los dientes era darle material, que la voz aplaudía cualquier cosa que él hiciera porque el aplauso no dependía de él. Se miró: metro ochenta y seis de gerente comercial con los nudillos blancos en el borde del vanitorio, y duro. Duro contra el mármol, duro por una voz de doblaje porno que sonaba dentro de su propia cabeza, y la vergüenza de estar duro no apagaba la dureza: le ponía peso encima, la hacía más innegable. El asco no era un freno. Era un ingrediente.
+
+Esa noche, a las siete y media, el teléfono le vibró sobre el mesón de la cocina: Antonia. La foto de ella riéndose en Zapallar, el timbre de siempre. Cristóbal estiró la mano — y adentro, acostadita, la voz:
+
+*¿Va a contestarle, señor?... ¿así, conmigo dentro? Uy, no... mejor solitos usted y yo... con lo bien que estamos...*
+
+Dejó sonar el teléfono hasta el final. No podía hablar con su novia mientras otra mujer le respiraba en el lado de adentro del oído; no confiaba en su propia garganta, que el día anterior ya había salido una vez cantando sola. Marcó la mentira con el pulgar — *En reunión hasta tarde, te llamo mañana* — y la voz ronroneó el premio, *muy bien, señor, así me gusta...*, y el reloj, finísimo, le pasó un hilo de tibieza por el brazo, como quien desliza un billete.
+
+Después googleó. *Alucinación auditiva estrés. Burnout ejecutivos síntomas. Oír voces cansancio extremo.* Leyó dos artículos y medio con el vaso de magnesio efervescente deshaciéndose al lado, y el burnout le calzó como le había calzado el magnesio: cómodo, hasta prestigioso — un hombre que trabaja tanto que la cabeza le contrata personal. Se recetó vacaciones para después del cierre del trimestre y apagó la luz sin mirar el reloj, que igual le dio la hora a la oscuridad.
+
+En Ñuñoa, esa misma noche, Fernanda miraba una cordillera.
+
+El gráfico del día tenía picos que la agenda no explicaba: 11:40, en plena mañana de escritorio, el pulso a 96 con el punto dorado quieto en el piso catorce; 13:20, cuarenta segundos de galope sin ninguna reunión que los justificara; 19:34, 101, quieto en Vitacura, sin llamada contestada. Fernanda pasó el dedo por los picos como quien lee braille. Cada pico era su empleada hablándole al oído por dentro — la voz que ella había elegido en un catálogo con este mismo dedo, en esta misma mesa — y el corazón de un gerente comercial galopando por ella, para ella, sin saber para quién galopaba. La autoría le bajó por el vientre, tibia y lenta, y fue a juntarse donde se juntaba todo esa semana. No abrió ningún control en toda la noche. No hizo falta: por primera vez en tres años, algo suyo trabajaba de noche sin que ella lo empujara. Dejó el teléfono en el velador con la pantalla hacia el techo y se durmió con la respiración corta, los muslos apretados, dueña de una voz que en ese mismo minuto, al otro lado de Santiago, le estaba deseando buenas noches a su jefe.
+
+Al sexto día, Cristóbal le declaró la guerra.
+
+Llegó con audífonos — él, que encontraba que los audífonos eran de junior — y música fuerte, sin letra, de la que no deja espacio. Café triple a primera hora y otro a las diez. La puerta abierta de par en par, él, que vivía encerrado: que entrara gente, ruido, teléfonos, mundo. La estrategia era de manual: no dejarle silencio. Ocupar todos los canales para que no quedara ninguno libre.
+
+La voz no le peleó los canales. Esperó.
+
+A las diez y media tuvo mesa en la sala chica con cuatro de comercial, sin audífonos posibles, y ahí, mientras Vial repartía carpetas, la voz se asomó al plural:
+
+*Uy, cuántos señores tan importantes... ¿Queréis algo, señores? ¿Os traigo un cafelito, unas aguas? Con el gusto que me daría atenderos a todos...*
+
+No le hablaba a él. Les hablaba a ellos. Les hablaba a los cuatro desde adentro de la cabeza de él, con una hospitalidad jadeada de casa de citas, probándose la sala como se prueba un uniforme, y Cristóbal apretó la boca hasta que le dolieron las muelas, aterrado de una cosa nueva y absurda que no tenía nombre en ningún informe: que se le saliera. Que esa cortesía de otra parte se le arrancara por la boca delante de los cuatro. No se le salió. Habló poco, cortó la reunión antes de tiempo, y guardó el miedo en una carpeta sin rotular, porque rotularlo era admitirlo.
+
+El resto del día lo ganó. Y el día, otra vez, lo perdió a él.
+
+Porque el sexto día fue gris de una manera que no era una figura literaria. El café triple no le supo a nada. Firmó dos cierres que un mes atrás lo habrían dejado silbando y le llegaron en blanco y negro, sin sabor, como leídos por otro. El almuerzo fue cartón. La tarde fue plana, larga, desabrida, un pasillo sin puertas. El reloj, mudo: ni un hilo tibio en todo el día, ni uno, y el cuerpo — que llevaba cinco días recibiéndolos sin avisarle — los echó de menos con un malestar sordo, de estufa apagada, una pura ansiedad de búsqueda sin objeto que él no tenía cómo llamar por su nombre, porque el nombre no estaba en su vocabulario.
+
+Y a las siete menos cuarto, agotado, embotado de música y cafeína, aflojó un segundo. Uno. La voz dijo algo chico — *ya, señor, no se me enoje más...* — y él, en vez de pasarle una fila de cifras por encima, la dejó terminar. Solo eso: la dejó terminar la frase. Y el reloj le pagó al tiro, un pulso tibio y hondo que le subió por el brazo y le abrió el pecho como el primer sorbo después de una semana en seco, y el mundo recuperó los colores durante un minuto entero: el atardecer naranjo en el ventanal, el olor a café de la máquina, la seda de la corbata entre dos dedos. La aritmética le quedó aprendida en la carne, sin pasar por la cabeza, en un piso del cuerpo donde el gerente no tenía oficina: resistir era gris. Ceder tenía colores.
+
+Y había algo más, algo peor que la aritmética. Cada vez que el reloj la premiaba, la voz se ponía más cariñosa. Se estiraba al sol del premio como una gata y volvía más tierna, más íntima, menos libreto: *qué bien estamos así, señor... si es que conmigo va a estar usted cuidado siempre, ya lo verá...* — y esa ternura de doblaje barato, esa promesa de cuidado dicha con jadeo de estudio, era más obscena que cualquier cochinada del guion, porque a la cochinada él podía tenerle asco, y a la ternura le estaba empezando a tener sed.
+
+El séptimo día se pilló esperando.
+
+Fue a media tarde, después de firmar unas actas: soltó el lápiz, y la mano derecha se le quedó en el aire, la muñeca a media altura, ofrecida, quieta. Esperando. Esperando el pulso como espera un perro el ruido del tarro, con todo el cuerpo asomado a la orilla del premio antes de que el premio existiera. Se miró la muñeca levantada igual que había mirado los lápices en fila: ¿cuándo me manché? Y el reloj, como si le hubiera leído la postura, pagó — el hilo tibio, puntual, subiéndole por el brazo — y el alivio fue tan limpio, tan de cuerpo entero, que le bajó hasta donde el alivio no tenía nada que hacer: una tibieza redonda instalándose en la entrepierna, la verga pesada, medio despierta, agradecida. Agradecida. Esa era la palabra exacta, y por eso no la pensó.
+
+A las seis y media llegó donde el kinesiólogo, a la hora que había agendado hacía cinco días, cuando el problema era una contractura y el mundo todavía cuadraba.
+
+—Sáquese la camisa —dijo el kinesiólogo, joven, correcto, de los que tutean a todos los pacientes y con él no se atrevió—. Y el reloj, por favor.
+
+El pulgar de Cristóbal fue al broche con el gesto automático de toda la vida. Y el broche no estaba.
+
+La yema resbaló por la cara interna de la muñeca buscando el pestillo, la juntura, el clic de bóveda que había sonado el primer día — y encontró cerámica lisa. Continua. Dio vuelta la malla eslabón por eslabón, dos veces, tres, con el kinesiólogo mirando: no había cierre. No había costura. La malla le daba la vuelta al pulso como se la da la propia piel, exacta, asentada, sin principio ni final, como si el reloj hubiera cicatrizado.
+
+—No se saca —dijo Cristóbal, y le salió una voz delgada que no se conocía—. Es… del seguro. Estoy obligado a portarlo. Mide cosas.
+
+El kinesiólogo asintió con esa cortesía profesional que no les discute la física a los pacientes con corbata de noventa lucas, y trabajó la muñeca por encima y por los lados durante veinte minutos: la dobló, la giró, le buscó la contractura con los dos pulgares. Al final se enderezó, desconcertado de no encontrar nada que cobrar.
+
+—Aquí no hay nada, don Cristóbal. La musculatura está perfecta. Esta muñeca no tiene ni una contractura.
+
+Y esa buena noticia fue la peor del día, aunque él la dejó cerrada en el auto, sin abrir, todo el camino de vuelta: si la muñeca estaba sana, lo de la muñeca no era de la muñeca.
+
+Esa noche, en su baño, Cristóbal Undurraga se declaró en emergencia.
+
+Se enjabonó hasta el codo, como para una cirugía, y trabajó la malla con el jabón chorreando: la retorció, la empujó, trató de deslizarla nudillos abajo con paciencia primero y con rabia después, hasta dejarse rosada la piel del canto de la mano. La malla cedía lo justo para no ceder nada: milímetros elásticos que volvían a su lugar con la mansedumbre de lo que no pelea porque ya ganó. Buscó la lupa con la que revisaba la letra chica de los contratos y recorrió la cerámica centímetro a centímetro bajo la luz blanca del espejo: ni juntura, ni tornillo, ni costura. El reloj no tenía costura como no tiene costura un hueso.
+
+Pensó en un joyero. Lo descartó en dos movimientos: la escena — un gerente comercial pidiéndole a un maestro que lo liberara de su propio reloj — y las preguntas de después. Pensó en la sierra chica de la caja de herramientas que no abría hacía años, el disco contra la cerámica, y alcanzó a ver el resbalón completo: el disco patinando en esa superficie de pozo negro y entrando donde la piel es más delgada, justo ahí donde el primer día había sentido el beso frío. Guardó la idea con las manos heladas.
+
+Y entonces, sentado en el borde de la cama con la muñeca bajo la lámpara, hizo por fin lo que llevaba una semana sin hacer: la suma.
+
+Le llegó como llegan los estados de cuenta: tarde, completa y con intereses. El Montblanc abriéndose a media firma. La taza que giró sola. El medio paso del lobby. Los hilos tibios, puntuales como un sueldo. El *gustito*. La fila coqueta de los lápices. El *enseguida* cantadito. La voz — la voz húmeda, jadeada, doblada — instalada en el canal donde antes vivía solo. Y la caja negra sin remitente, y la tarjeta color hueso que él había leído como poesía de relojería: *un reloj no le pertenece a quien lo lleva, sino a quien le da cuerda.* La había leído dos veces y le había gustado. No era poesía. Era la letra chica, y él la había firmado con la muñeca.
+
+Todo cabía en una sola carpeta, y la carpeta tenía forma de reloj.
+
+Se quedó muy quieto, mirando el pozo negro beberse la luz de la lámpara, mientras el resto de la suma caía solo, partida por partida. No podía sacárselo: probado, con jabón, con lupa, con miedo. No podía contarlo: un gerente comercial explicando que un reloj le mete una actriz porno en la cabeza — a eso la plana mayor no lo despide al tiro; primero lo compadece, después lo despide. No podía probarlo: afuera no había nada, un reloj precioso y un hombre transpirando. La trampa era perfecta de una manera que él conocía de cerca, de una manera profesional: era el contrato que él siempre había soñado firmarles a otros — sin salida, sin testigos, sin cláusula de término. Hizo la lista de quién. MD. Clientas, ex, esposas de socios: una lista corta de mujeres con plata suficiente para no necesitar logo. Ningún nombre calzó. Y en ningún momento, ni por el ancho de un segundo, se le pasó por la cabeza la mujer que le servía el café — porque las trampas perfectas no se esconden: se paran donde uno no mira nunca.
+
+A esa misma hora, en una cocina de Ñuñoa, la trampa miraba su panel.
+
+*Adopción de persona: 31%.*
+
+La curva de la semana era una diagonal ascendente con mesetas grises — las horas de música fuerte, de cifras en voz alta, de mandíbula — y a Fernanda las mesetas le gustaban. Las mesetas eran él, aguantando, y una diagonal sin mesetas habría sido cualquier cosa: una fiebre, un accidente. Con ellas era una conquista. Que aguantara. Cada día de resistencia le dejaba más limpia la línea, más ganado el terreno. Abrió la dosis nocturna y la subió dos puntos, sin redondear hacia abajo. El pulgar no pidió permiso: hacía una semana, frente al primer botón, la había frenado el pudor de la primera vez, y de ese pudor no quedaba nada. Quedaba apetito. Y el apetito, a diferencia del pudor, tenía planilla.
+
+Cristóbal se acostó a las once y media, vencido de una manera nueva: no de sueño — de gasto. La semana entera le pasó la cuenta junta: las cifras en voz alta, la música, la mandíbula, el jabón hasta el codo, la suma. Apagó la luz, y en la oscuridad del dormitorio, donde no había testigos ni carpetas ni nada que administrar, la voz se acostó con él.
+
+*Aquí estamos, señor... por fin solitos...*
+
+Y el jadeo de estudio, bajito, paciente. Cristóbal no fue a buscar las cifras. No apretó la mandíbula. No decidió rendirse — no hubo firma, no hubo acta: simplemente no llegó a tiempo a pelear, y cuando se dio cuenta de que no había peleado, ya no fue a buscar la pelea. Estaba cansado. Que hablara. Era solo una voz. Que dijera lo que quisiera y lo dejara dormir.
+
+Y la voz, sintiendo el campo libre, se acercó del todo — pegada al lado de adentro del oído, húmeda, lenta, más cerca de lo que ninguna mujer de carne ha estado nunca de nadie — y dijo su frase entera, de corrido, sin que él le tapara ni una sílaba:
+
+*Qué dura la tienes, señor... déjame follarte el oído... así... despacito... qué gustito me das...*
+
+Y era verdad. Eso fue lo que ninguna vergüenza posterior pudo tapar: era verdad. Bajo la sábana, sin una sola imagen que la justificara, sin Antonia, sin nadie, la verga estaba dura para una voz, dura desde hacía un rato, dura confirmándole a la voz cada palabra en tiempo real, y Cristóbal se quedó inmóvil boca arriba, dejando pasar la frase completa por el medio de su cabeza como se deja pasar un tren cuando uno ya está parado sobre la vía.
+
+El reloj le pagó el pulso más largo de la semana.
+
+No fue un hilo: fue una crecida. Un calor con peso, un calor con masa, que le entró por el brazo y le cruzó el pecho de lado a lado abriéndolo como se abre una camisa, y se derramó columna abajo, vértebra por vértebra, lento, espeso, hasta la pelvis, hasta la dureza que lo estaba esperando, y ahí se quedó un rato largo, meciéndose, mientras Cristóbal apretaba las sábanas con las dos manos sin saber si estaba aguantando o recibiendo. Duró lo que no había durado ninguno. Lo dejó flotando dos dedos por encima de su propio miedo, la respiración larga, el cuerpo desarmado de gusto.
+
+Y después, el silencio.
+
+La voz se retiró satisfecha, como se retira una mano después de una caricia cobrada, y la pieza quedó en un silencio ancho, limpio, entero — el primer silencio verdadero desde el lunes. Nadie le habló. Nada lo celebró. Pudo oír el refrigerador a lo lejos, un motor en la calle, su propia respiración bajando. El silencio era suyo de nuevo, y lo había comprado, y sabía perfectamente con qué.
+
+La vergüenza llegó al final, puntual como todo lo de esa casa. Y no fue por haber pagado. Fue por lo barato que le pareció el precio.
+
+Se durmió casi al tiro, hondo, con el reloj dándole la hora a la oscuridad, y lo último que alcanzó a pensar no fue en la trampa, ni en MD, ni en la voz. Fue que faltaba un día para el lunes. Los lunes eran suyos.
