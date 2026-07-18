@@ -182,8 +182,14 @@ def _cortar_sin_ancla(prompt):
 
 def transformar(prompt, label, marks_new, locks, seam, canonico=True):
     """Cirugia sobre UNA pose pendiente. Devuelve (nuevo, motivo_si_falla)."""
-    if SINGLE_FRAME in prompt:
-        return None, "ya v3 (idempotente)"
+    # Guardia por MARCADOR, no por la constante exacta: el rango L771+ trae una version
+    # ANTERIOR de SINGLE_FRAME (v2, sin la clausula anti-espejo). Comparar contra la
+    # constante v3 no la reconocia y le appendeaba la capa encima -> doble inyeccion
+    # (26 poses). El marcador estable es la frase de apertura.
+    if "a single continuous photograph" in prompt:
+        if SINGLE_FRAME in prompt:
+            return None, "ya v3 (idempotente)"
+        return None, "capa v2 previa — requiere upgrade v2->v3, no append"
 
     if prompt.count(SPLIT) == 1:
         head, tail = prompt.split(SPLIT, 1)
@@ -255,14 +261,26 @@ def main():
         # reemplazan las 7 poses canonicas por poses de pole/escenario ("Pole Climb",
         # "Stage Walk"...). El uploader igual nombra los PNG por slot canonico y posicion
         # (slot 1 -> ele_NNN_standing.png), asi que la posicion es el unico mapeo fiable.
-        bloques = list(re.finditer(r"(\*\*(\d)\.\s*([^:*]+):\*\*\s*```)(.*?)(```)", body, re.S))
+        # Dos formatos de encabezado conviven: "**1. Standing:**" (hasta L710) y
+        # "**Standing:**" sin numero (desde L711). El numero es opcional; si falta,
+        # el slot se resuelve por nombre.
+        bloques = list(re.finditer(r"(\*\*(?:(\d)\.)?\s*([^:*]+):\*\*\s*```)(.*?)(```)",
+                                   body, re.S))
         by_label, coincidencias = {}, 0
         for m in bloques:
-            idx = int(m.group(2))
-            if 1 <= idx <= 7:
-                by_label[POSE_LABELS[idx - 1]] = m
-                if m.group(3).split("(")[0].strip() == POSE_LABELS[idx - 1]:
-                    coincidencias += 1
+            nombre = m.group(3).split("(")[0].strip()
+            if m.group(2):
+                idx = int(m.group(2))
+                if not (1 <= idx <= 7):
+                    continue
+                slot = POSE_LABELS[idx - 1]
+            elif nombre in POSE_LABELS:
+                slot = nombre
+            else:
+                continue
+            by_label[slot] = m
+            if nombre == slot:
+                coincidencias += 1
         # Look canonico = sus 7 poses son las del canon. Si no, es un "Pose Set Stripper"
         # (pole/escenario) y NO debe recibir anclas de slot.
         canonico = coincidencias >= 4
