@@ -44,9 +44,14 @@ LABEL2TOKEN = {"Standing": "standing", "Back View": "back_view", "Seated": "seat
 POSE_TOKENS = ["back_view", "side_profile", "standing", "seated", "ditzy", "pov", "odalisque"]
 SEAM_SKIP = {"Side Profile"}
 
-# El span de marcas del Bloque A viejo (verificado uniforme en el rango por el diagnostico).
-MARKS_SPAN = ("visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on "
-              "upper back and outer thighs, subtle navel piercing")
+# Segmento de marcas del Bloque A. NO es una cadena fija: conviven 4 redacciones segun la
+# epoca del look (con/sin runa pelvica, "subtle navel piercing" vs "navel piercing", y las
+# 280+910 que todavia arrastran la frase-orden PROHIBIDA "nipple piercings pressing against
+# and visible under clothing"). Lo estable son los DOS EXTREMOS: el segmento va siempre entre
+# "wide hips, " y el token de maquillaje ("dramatic editorial makeup" en los viejos,
+# "aggressive bimbomakeup" en los nuevos) que precede a las unas.
+MARKS_RE = re.compile(
+    r"(wide hips, )(.*?)(, [^,]*makeup[^,]*, extra long French XXXL nails)", re.S)
 SPLIT = ". anatomically correct"
 
 
@@ -196,10 +201,10 @@ def transformar(prompt, label, marks_new, locks, seam, canonico=True):
             anchor += ", " + STANDING_ANCHOR
         tail = anchor + ", " + pose
 
-    if MARKS_SPAN not in head:
+    if len(MARKS_RE.findall(head)) != 1:
         return None, "span de marcas no encontrado"
 
-    head = head.replace(MARKS_SPAN, marks_new)
+    head = MARKS_RE.sub(lambda m: m.group(1) + marks_new + m.group(3), head)
     head = GLOVE_RE.sub("", head)            # canon: manos siempre desnudas
     head = head.rstrip().rstrip(",")
 
