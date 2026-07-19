@@ -1,1 +1,1 @@
-está raro el funcionamiento de la app, la redacción está rara también 
+está raro el funcionamiento de la app, la redacción está rara también, .tradi de cristobal con Fernanda de be ser mucho más humillante 
