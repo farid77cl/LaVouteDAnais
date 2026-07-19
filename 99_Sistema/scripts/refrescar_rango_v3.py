@@ -180,16 +180,42 @@ def _cortar_sin_ancla(prompt):
     return None, None
 
 
+# Texto EXACTO del NO_ARMWEAR v2 (negacion-primero) que vive en L771-L800. La leccion del
+# 15/07 es que Gemini obedece la descripcion AFIRMATIVA de la superficie deseada, asi que el
+# v3 abre con la piel desnuda del brazo y recien despues veta las piezas.
+NO_ARMWEAR_V2 = ("bare hands with no gloves of any kind, and beyond the garment's described "
+                 "sleeve length the arms are genuinely bare skin, with no separate arm sleeves, "
+                 "arm warmers, detached cuffs, forearm bands or elbow-length coverings added")
+
+
+def upgrade_v2(prompt, label, marks_new):
+    """Sube una pose de la capa v2 a v3 SUSTITUYENDO los bloques viejos (nunca appendeando:
+    appendear deja SINGLE_FRAME y SKIN_LOCK duplicados)."""
+    p = re.sub(r"a single continuous photograph.*?(?=, anatomically correct)",
+               lambda _: SINGLE_FRAME, prompt, count=1, flags=re.S)
+    if p == prompt:
+        return None, "no se pudo delimitar el SINGLE_FRAME v2"
+    if NO_ARMWEAR_V2 in p:
+        p = p.replace(NO_ARMWEAR_V2, NO_ARMWEAR, 1)
+    if len(MARKS_RE.findall(p)) == 1:
+        p = MARKS_RE.sub(lambda m: m.group(1) + marks_new + m.group(3), p)
+    if label == "Ditzy" and SINGLE_FRAME_TAIL not in p:
+        p = re.sub(r",?\s*8k editorial fashion photography\.(\s*)$",
+                   lambda mm: ", " + SINGLE_FRAME_TAIL +
+                   ", 8k editorial fashion photography." + mm.group(1), p)
+    return p, None
+
+
 def transformar(prompt, label, marks_new, locks, seam, canonico=True):
     """Cirugia sobre UNA pose pendiente. Devuelve (nuevo, motivo_si_falla)."""
     # Guardia por MARCADOR, no por la constante exacta: el rango L771+ trae una version
     # ANTERIOR de SINGLE_FRAME (v2, sin la clausula anti-espejo). Comparar contra la
-    # constante v3 no la reconocia y le appendeaba la capa encima -> doble inyeccion
-    # (26 poses). El marcador estable es la frase de apertura.
+    # constante v3 no la reconocia y le appendeaba la capa encima -> doble inyeccion.
+    # El marcador estable es la frase de apertura.
     if "a single continuous photograph" in prompt:
         if SINGLE_FRAME in prompt:
             return None, "ya v3 (idempotente)"
-        return None, "capa v2 previa — requiere upgrade v2->v3, no append"
+        return upgrade_v2(prompt, label, marks_new)   # v2 -> v3: se SUSTITUYE, no se appendea
 
     if prompt.count(SPLIT) == 1:
         head, tail = prompt.split(SPLIT, 1)
