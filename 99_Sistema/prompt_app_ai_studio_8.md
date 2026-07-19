@@ -77,6 +77,32 @@ Así, si mañana aparece una miniatura en la flota, se sabe por qué puerta entr
 que deducirlo de los píxeles. Deducirlo costó una auditoría entera.
 
 =====================================================================
+3.b LA FICHA DE RELATOS MUESTRA BORRADORES Y REPORTES COMO SI FUERAN CAPÍTULOS
+=====================================================================
+En GitRepository.kt:694 la ficha de literatura salta las subcarpetas internas de un
+relato con:
+      if (folderSubPathList.drop(1).any { it.startsWith("_") }) continue
+Eso esconde `_publicacion` y `_proceso`, pero NO `borradores/` ni `reportes/`, que no
+llevan guion bajo. Resultado: en la ficha aparecen, mezcladas con los capítulos reales,
+todas las versiones repudiadas y todos los informes del validador — ahora mismo la
+usuaria ve el `capitulo_1_el_reloj_v0.3` que ya repudió junto al v0.4 vigente, sin
+forma de distinguirlos.
+
+Arréglalo por nombre, además del prefijo:
+      val internas = setOf("borradores", "reportes")
+      if (folderSubPathList.drop(1).any { it.startsWith("_") || it.lowercase() in internas })
+          continue
+
+(Se arregla acá y no renombrando las carpetas en el repo de contenido: esos dos nombres
+están escritos en ~67 lugares de las skills y de 9 definiciones de agentes del motor de
+escritura, y basta que se escape uno para que el próximo capítulo vuelva a crear la
+carpeta sin prefijo y la ficha se ensucie otra vez.)
+
+Test: un árbol con `.../relato/borradores/capitulo_1/x_v0.3.md` y
+`.../relato/reportes/capitulo_1/informe.md` NO produce entradas de literatura;
+`.../relato/capitulo_1_x_v0.4.md` sí.
+
+=====================================================================
 4. TESTS — QUE EJERZAN LA RUTA, NO LA FUNCIÓN SUELTA
 =====================================================================
 Un test que llama a `isValidImageResolution(286,512)` directamente NO prueba nada sobre
