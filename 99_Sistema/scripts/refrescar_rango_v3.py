@@ -234,6 +234,7 @@ def transformar(prompt, label, marks_new, locks, seam, canonico=True):
 def main():
     lo, hi = int(sys.argv[1]), int(sys.argv[2])
     apply = "--apply" in sys.argv
+    todas = "--todas" in sys.argv
     # newline="" en LECTURA y escritura: la galeria es CRLF y el proceso paralelo del bot
     # tambien la escribe. Leer con saltos universales convertiria todo a LF y el commit
     # saldria con el archivo entero reescrito (ver feedback_eol_bot_readmes).
@@ -251,7 +252,11 @@ def main():
             salida += [header, body]
             continue
 
-        have = img.get(num, set())
+        # --todas (Ama 19/07/2026): barrer TAMBIEN las poses que ya tienen imagen. Motivo:
+        # la Ama regenero varias de esas poses y "siguen con los errores" — porque el prompt
+        # viejo es el que ORDENA el defecto (guantes, marcas sobre la tela). Sin este flag
+        # solo se tocan las pendientes, que era la regla anterior.
+        have = set() if todas else img.get(num, set())
         pendientes = [l for l in POSE_LABELS if LABEL2TOKEN[l] not in have]
         if not pendientes:
             salida += [header, body]
