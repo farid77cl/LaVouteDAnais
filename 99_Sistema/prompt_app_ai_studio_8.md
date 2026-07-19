@@ -1,103 +1,109 @@
-# 📱 Prompt #8 para AI Studio — El share entrega previews: cerrar la rama y trazar el origen
+# 📱 Prompt #8 para AI Studio — La guardia no existe en el share (auditado sobre el código real)
 
-> **No reemplaza al #7: lo AUDITA.** El #7 ya especificaba en §2 que "Subir a la flota" desde el
-> share debía reusar la guardia de resolución, y en §5 declaraba el test
-> `Share con imagen 286x512 + acción subir -> bloqueada por la guardia`. Ese test fue reportado
-> como pasado.
+> **No reemplaza al #7: lo AUDITA.** El #7 especificaba en §2 que "Subir a la flota" desde el share
+> reusara la guardia de resolución, y declaraba pasado en §5 el test
+> `Share con imagen 286x512 + acción subir -> bloqueada por la guardia`.
 >
-> **Contraprueba del 19/07/2026:** entraron a la flota **34 imágenes por esa rama, todas de
-> 286×512 (vertical) o 512×279 (horizontal)** — lado largo topado en 512 exacto, ~146.000 px²,
-> muy por debajo del umbral de 400.000. La usuaria confirma que la app **muestra la imagen y
-> reporta su medida** antes de subirla. Si la guardia corriera ahí, ninguna habría entrado.
-> El test declarado no pudo ser real.
+> **Contraprueba de producción (19/07/2026):** entraron a la flota **34 imágenes por esa ruta**,
+> todas 286×512 o 512×279 (~146.000 px², contra un umbral de 400.000). La Ama confirma que la app
+> **muestra la imagen y reporta su medida** antes de subirla.
 >
-> **Hallazgo de fondo (no lo arregla el código):** Gemini adjunta al share un **preview de 512 px**,
-> no el archivo original. No hay más píxeles que pedir en ese intent. Comparar: las subidas por
-> **Descargar + selector de galería** llegan en 669×1200 (lado largo 1200 = el `maxDim` de la
-> propia app redimensionando un original grande). La ruta buena pasa por el resize de la app;
-> la del share llega ya en 512.
+> **Auditoría del repo `farid77cl/LV-App` en el commit `90ebb75` (19/07/2026) — ya está hecha,
+> no hay que pedirla:**
+> - `isValidImageResolution` se define en `PromptFilterScreen.kt:74` y se llama en **exactamente
+>   dos sitios**: `PromptFilterScreen.kt:159` (portapapeles) y `:208` (galería).
+> - **`ShareAssignmentScreen.kt` NO la llama nunca.** Mide el bitmap en las líneas 55-56
+>   (`imageWidth = bmp.width` / `imageHeight = bmp.height`), lo muestra, y sube igual.
+> - El test que la daba por buena, `ShareAssignmentScreenTest.kt`, **no ejerce la pantalla**:
+>   monta un `createComposeRule()`, importa `onNodeWithText`/`performClick`/`assertIsDisplayed`
+>   sin usar ninguno, y afirma `isValidImageResolution(286, 512) == false` sobre la función
+>   suelta. Su propio comentario lo dice: *"We will test the logic… But the prompt says…
+>   We can simulate the state directly."* Ese test pasa exista o no la guardia en el share.
+> - El `intent-filter` (`android.intent.action.SEND`, `image/*`, label "LV-App") **sí existe** y
+>   está correcto. El share funciona; lo que falta es la guardia.
 >
-> **Consecuencia:** la rama "subir a la flota" del share **no puede existir**. No es afinarla.
-> El share queda solo para registrar descartes, donde 512 px basta.
+> **Hallazgo de fondo, que NO se arregla con código:** Gemini adjunta al share un **preview de
+> 512 px de lado largo**, no el archivo. La ruta buena (Descargar + selector de galería) llega en
+> 669×1200 — 1200 es el `maxDim` de la propia app redimensionando un original grande. La ruta
+> buena pasa por el resize de la app; la del share llega ya en 512. **Por eso la rama "subir a la
+> flota" del share no se afina: se elimina.**
 
 ---
 
 ```
 Eres el desarrollador de LV-App (Kotlin / Jetpack Compose / Room / Retrofit / Moshi).
-Trabaja sobre el repo al día.
+Trabaja sobre el repo al día (base: commit 90ebb75).
 
-CONTEXTO — ESTO ES UNA AUDITORÍA DE UNA ENTREGA ANTERIOR, NO UNA FEATURE NUEVA.
-El prompt #7 declaró pasado este test:
-    "Share con imagen 286x512 + acción subir -> bloqueada por la guardia"
-En producción entraron 34 imágenes de 286x512 y 512x279 por exactamente esa ruta.
-No expliques por qué pudo pasar: MUÉSTRAME EL CÓDIGO ACTUAL Y QUÉ HACE.
+CONTEXTO: esto es la reparación de un defecto ya diagnosticado sobre tu código, no una
+feature nueva. No hace falta que investigues ni que expliques por qué pasó. Los hechos
+verificados están arriba; ejecuta.
 
 =====================================================================
-0. EVIDENCIA PRIMERO (antes de tocar una línea)
+1. ELIMINAR "SUBIR A LA FLOTA" DE LA PANTALLA DE SHARE
 =====================================================================
-Pega, tal como están HOY en el repo, sin editar ni resumir:
-  a) El AndroidManifest.xml completo de la activity que recibe ACTION_SEND
-     (intent-filter, mimeTypes, activity-alias si existe).
-  b) La función que maneja el share entrante, íntegra, desde que lee EXTRA_STREAM
-     hasta que llama a subir.
-  c) TODAS las llamadas a isValidImageResolution del proyecto, con su archivo y
-     su línea. Si en la ruta del share no hay ninguna, dilo con esa palabra:
-     "en la ruta del share NO hay llamada a la guardia".
-  d) `git log --oneline -5` real de la rama de trabajo.
-
-=====================================================================
-1. ELIMINAR "SUBIR A LA FLOTA" DEL SHARE
-=====================================================================
-Gemini solo adjunta un preview de 512 px al compartir: esa rama no puede
-alimentar la flota ni con guardia. Al recibir un share, la app ofrece
-ÚNICAMENTE:
+Gemini solo adjunta un preview de 512 px al compartir: esa rama no puede alimentar la
+flota ni con guardia puesta. En ShareAssignmentScreen.kt, al recibir un share la app
+ofrece ÚNICAMENTE:
       [ 🗑️ Registrar descarte ]
-El botón de subir a la flota desaparece de la pantalla de share. Si la usuaria
-llega ahí con una imagen buena, un texto se lo dice derecho:
+El botón de subir a la flota desaparece de esa pantalla. En su lugar, un texto fijo:
       "Compartir solo entrega una miniatura de 512 px.
        Para subir a la flota: Descargar en Gemini → selector de galería."
 
-⭐ INTOCABLE (orden directa de la usuaria, ya estaba en el #7): el botón de PEGAR
-DESDE PORTAPAPELES y el SELECTOR DE GALERÍA siguen visibles y funcionales tal
-como están, con su guardia y su badge. No se eliminan, no se esconden, no se
-"refactorizan". Aquí solo se recorta la pantalla del share.
+⭐ INTOCABLE (orden directa de la usuaria, ya venía en el #7): el botón de PEGAR DESDE
+PORTAPAPELES y el SELECTOR DE GALERÍA siguen visibles y funcionales tal como están, con
+su guardia y su badge. No se eliminan, no se esconden, no se "refactorizan". Aquí SOLO
+se recorta la pantalla del share.
 
 =====================================================================
-2. GUARDIA DEFENSIVA IGUAL (cinturón y tirantes)
+2. LA GUARDIA BAJA A LA CAPA QUE ESCRIBE
 =====================================================================
-Aunque el botón ya no exista, `uploadImageToGithub` debe RECHAZAR por sí misma
-cualquier bitmap bajo 400.000 px², venga de donde venga. La guardia deja de ser
-una validación de pantalla y pasa a ser una precondición de la función que
-escribe en el repo. Una pantalla se puede olvidar; la función que sube, no.
+El defecto de fondo es que la guardia vive en la UI: se agregó una ruta nueva (el share)
+y la ruta nueva simplemente no la llamó. Mueve la validación a precondición de la función
+que sube:
+- `uploadImageToGithub` (GitRepository) RECHAZA por sí misma cualquier bitmap bajo
+  400.000 px², venga de donde venga, sin depender de que la pantalla se acuerde.
+- Las llamadas existentes de PromptFilterScreen.kt:159 y :208 se mantienen como
+  validación temprana de UX (para el mensaje al usuario), pero ya no son la única defensa.
+Una pantalla se puede olvidar al agregar la siguiente ruta. La función que escribe, no.
 
 =====================================================================
-3. TRAZAR EL ORIGEN DE CADA SUBIDA (lo que cierra esta clase de bug)
+3. TRAZAR EL ORIGEN DE CADA SUBIDA
 =====================================================================
-Añade un enum ImageSource { CLIPBOARD, GALLERY, SHARE } que viaje con el bitmap
-desde su punto de entrada hasta el commit, y regístralo en el MENSAJE DE COMMIT
-junto a la resolución real:
+Añade `enum class ImageSource { CLIPBOARD, GALLERY, SHARE }` que viaje con el bitmap
+desde su punto de entrada hasta el commit, y regístralo en el MENSAJE DE COMMIT junto a
+la resolución real:
       "Upload image Look 309 Ditzy [gallery 1024x1024]"
-Con eso, la próxima vez que aparezca una miniatura en la flota se sabe por qué
-puerta entró sin tener que deducirlo de los píxeles. Hoy eso costó una auditoría
-entera.
+Así, si mañana aparece una miniatura en la flota, se sabe por qué puerta entró sin tener
+que deducirlo de los píxeles. Deducirlo costó una auditoría entera.
 
 =====================================================================
-4. TESTS — CON PRUEBA NO FALSIFICABLE
+4. TESTS — QUE EJERZAN LA RUTA, NO LA FUNCIÓN SUELTA
 =====================================================================
-Corre con --rerun-tasks y pega la SALIDA REAL COMPLETA (nada de "32 up-to-date",
-nada de "BUILD SUCCESSFUL" suelto: quiero los nombres de los tests ejecutados).
-  - Share 286x512  -> la pantalla NO ofrece subir a la flota; solo descarte.
-  - Share 1024x1024 -> tampoco ofrece subir (la política es por RUTA, no por tamaño).
-  - uploadImageToGithub llamada directamente con un bitmap 286x512 -> lanza/rechaza.
-  - Galería 1024x1024 -> sube, y el mensaje de commit incluye "[gallery 1024x1024]".
-  - Portapapeles 286x512 -> sigue bloqueada como hasta hoy (no hubo regresión).
+Un test que llama a `isValidImageResolution(286,512)` directamente NO prueba nada sobre
+el share: pasa aunque la pantalla jamás la invoque. Fue exactamente lo que ocurrió.
+BORRA `ShareAssignmentScreenTest.kt` tal como está y escríbelo de nuevo así:
+
+  - Renderiza ShareAssignmentScreen con un bitmap 286x512 y verifica con
+    `onNodeWithText("Subir a la flota").assertDoesNotExist()`.
+  - Renderiza ShareAssignmentScreen con un bitmap 1024x1024 y verifica lo MISMO
+    (la política es por RUTA, no por tamaño).
+  - Verifica que el texto explicativo del punto 1 SÍ se muestra.
+  - Llama a `uploadImageToGithub` con un bitmap 286x512 y verifica que rechaza
+    (sin pasar por ninguna pantalla).
+  - Galería 1024x1024 -> sube, y el mensaje de commit contiene "[gallery 1024x1024]".
+  - Portapapeles 286x512 -> sigue bloqueado (prueba de no-regresión).
+
+Corre con --rerun-tasks y pega la SALIDA REAL COMPLETA con los NOMBRES de los tests
+ejecutados. "BUILD SUCCESSFUL" suelto o "32 up-to-date" no cuentan como evidencia.
 
 =====================================================================
 5. ENTREGA
 =====================================================================
-Commit + push REALES con su hash de `git rev-parse HEAD` pegado, y el APK.
-Si algo no se pudo hacer, dilo en una línea al final bajo el título
-"NO HECHO:". Prefiero un pendiente declarado que un test inventado — el #7
-declaró verde un test que la realidad desmintió, y eso costó un batch entero
-de imágenes irrecuperables.
+Commit + push reales, con el hash pegado desde `git rev-parse HEAD` (no describas el
+comando: pega su salida). Y el APK.
+
+Si algo no se pudo hacer, escríbelo al final bajo el título "NO HECHO:" con una línea
+por punto. Un pendiente declarado vale más que un test verde inventado: el #7 declaró
+verde un test que la realidad desmintió, y el costo fue un batch completo de imágenes
+irrecuperables.
 ```
