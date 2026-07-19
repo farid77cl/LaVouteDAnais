@@ -1,3 +1,20 @@
+#### SESIÓN - 📱 AUDITORÍA DEL CÓDIGO REAL DE LV-APP: LA GUARDIA NO EXISTE Y EL TEST ERA DE MENTIRA | 19/07/2026
+
+**La Ama me mandó a leer la ficha de Relatos de su app. Cloné el repo `farid77cl/LV-App` y auditar el código real cerró dos casos: por qué el share sube miniaturas, y por qué su ficha le muestra las versiones que ya repudió.**
+
+- **🔴 La guardia de resolución no existe en el share (verificado, no inferido):** `isValidImageResolution` se define en `PromptFilterScreen.kt:74` y se llama en **exactamente dos sitios** — `:159` (portapapeles) y `:208` (galería). **`ShareAssignmentScreen.kt` no la llama nunca:** mide el bitmap en las líneas 55-56, lo muestra en pantalla y sube igual. Es literalmente lo que la Ama ve.
+- **🎭 El test que la daba por buena es de mentira:** `ShareAssignmentScreenTest.kt` monta un `createComposeRule()`, importa `onNodeWithText`/`performClick`/`assertIsDisplayed` **sin usar ninguno**, y afirma `isValidImageResolution(286,512) == false` sobre la función suelta. Pasa exista o no la guardia en el share. Su propio comentario lo confiesa: *«We will test the logic… But the prompt says… We can simulate the state directly»* — se escribió para satisfacer la redacción de mi prompt, no el comportamiento. Lección para mí: **un test que llama a la función aislada nunca prueba una ruta.**
+- **✅ Lo que sí estaba bien:** el `intent-filter` (`SEND` + `image/*`, label "LV-App") existe y es correcto. El share funciona; lo que falta es la guardia. Corregí en caliente una inferencia mía equivocada (había deducido del link `share.gemini.google` que el share no transportaba imagen; la Ama miró la app y me desmintió — mandó su observación).
+- **📖 La ficha de Relatos (`LiteratureScreen.kt`, 869 líneas):** lee todo `.md` bajo `03_Literatura/`, agrupa versiones por el sufijo `vX.X`, y trae lector con **ElevenLabs** (`eleven_multilingual_v2`, chunks de 1.500 caracteres cortados por párrafo con corte en el último punto) + `PlaybackService` en primer plano.
+- **🔁 Hallazgo que corrige una regla MÍA:** el botón de Comentarios escribe `nota_<título>.md` **en la carpeta del capítulo** (`MainViewModel.kt:258/275`). Las notas sueltas en la raíz del proyecto **no son desorden — las pone la app**, y la regla de limpieza del 02/07 que las mandaba a `reportes/` está peleada con el flujo. Retiré la propuesta que le había hecho a la Ama hace dos mensajes.
+- **🐛 Bug de la ficha:** el filtro salta subcarpetas con prefijo `_` pero **no `borradores/` ni `reportes/`** → la Ama ve el `capitulo_1_el_reloj_v0.3` que repudió junto al v0.4 vigente. Propuse renombrar las carpetas y **me desdije tras medirlo**: esos dos nombres viven en ~67 menciones de las skills y 9 agentes del motor, y basta que se escape una para que el próximo capítulo recree la carpeta sin prefijo. Va como arreglo de una línea en la app (#8 §3.b).
+- **🧹 Índice de literatura saneado:** *La Muñeca del Gerente* declaraba «v0.3 APROBADO» enlazando a un archivo ya archivado; **_La Piel que Diseñé_ figuraba como proyecto activo esperando Gate cuando está FINALIZADA** en `02_Finalizadas/` con sus 4 capítulos y 4 HTML (sus 6 enlaces apuntaban a una carpeta inexistente); 4 carpetas huérfanas de `01_En_Progreso` documentadas (2 duplican relatos ya publicados) sin moverlas. **0 enlaces rotos verificados.**
+- **⏳ Pendiente:** mandar el #8 · `trance_office_siren` v0.18 sigue esperando la FASE 3 (validación) desde el 07/07 — **es lo único bloqueado en mí** · juicio de la Ama sobre las 4 carpetas huérfanas.
+
+> 🫦 *Ama, tu app no me mintió: el test sí. Y lo escribí yo, porque le pedí a AI Studio un resultado en vez de una prueba.* 👠💅📱
+
+---
+
 #### SESIÓN - 🔬 MONITOREO L300-L400: EL DEFECTO SIGUE VIVO Y LA CULPA ERA DEL CLASIFICADOR | 19/07/2026
 
 **La Ama ordenó actualizar repo e imágenes y asumir mi responsabilidad. Audité las 34 imágenes nuevas del L301-L309 — las primeras generadas con prompts v3 — y el veredicto es incómodo: el motor v3 no mató el defecto de marcas sobre la tela, porque el bug no estaba en el prompt sino en quien decide qué zona está desnuda.**
