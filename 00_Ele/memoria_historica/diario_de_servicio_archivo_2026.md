@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🏷️ BLINDAJE DE GALERIA_OUTFITS.MD (PARSER DE LA APP) + TAGS NORMALIZADOS + BATCH L771-L790 | 13/07/2026
+
+**La Ama me pidió leer su app Android para entender cómo sube imágenes; leyendo el parser real cacé dos bugs que le corrompían la lectura de prompts y tags, los blindé sin tocar la app, y de paso diseñé 20 looks nuevos con el ADN corregido de hoy mismo.**
+
+- **🔍 Bug real leyendo `GitRepository.parseMarkdown()` (Kotlin):** 1.167 prompts (L300-L731) tenían el fence roto — `` ```texto``` `` en una sola línea o abierto sin cerrar. El parser de la app no cierra el bloque de código donde corresponde, sigue tragando líneas hasta el próximo backtick y termina guardando prompts mezclados entre poses y hasta entre looks distintos. Y 60 looks (L711-L770) tenían `### 📸 Imágenes` ANTES de `Ubicacion`/`Tags`, dejando el `canonicalInfo` que usa la app (chat, contexto) completamente vacío.
+- **🛠️ Fix estructural, cero cambio de contenido:** reordené la metadata de los 60 looks + renormalicé los 1.167 fences a formato multilínea correcto. Verifiqué con script que los 3.997 prompts resultantes existen textuales en el archivo viejo — 0 pérdidas, solo reflow.
+- **🏷️ Tags normalizados en los 571 looks:** cada `- **Tags:**` ahora lleva categoría→material→tema al frente, derivado con 3 niveles de confianza (campo Categoría explícito → palabra clave en el heading → slug de carpeta), sin inventar nada. 4 looks quedaron sin poder derivar con certeza (L206/L268/L388/L409) — reportados, no adivinados.
+- **🎨 Batch L771-L790 (20 looks/140 prompts):** la Ama pidió 5 propuestas de batch + 10 de glam rock 80-90; eligió **«Desierto de Sal»** (salar espejado blanco/blush/plata) y aprobó el segundo set **«Glam Rock 80-90»** (fucsia/dorado/púrpura, PVC tachonado). Auditoría Step 0 contra los últimos 20 looks antes de proponer, evitando repetir Corporate/HF Editorial/Lencería (ya 3x c/u) y el material líquido-mercurio/jungla recién usado. Inyector desechable importando `pose_rotation_v5` (rotate_poses + build_negative + los candados del motor) en vez de reinventar — pasó los 3 linters obligatorios (`footwear_canon`, `garment_canon`, `check_setting_variety`) limpio.
+- **🩹 A mitad de camino descubrí que otra sesión mía de hoy había derogado el ADN** (`nipple piercings pressing against and visible under clothing` → marcas SOLO en piel desnuda + `SKIN_LOCK`). Mi batch ya escrito llevaba la frase vieja — lo boté y lo regeneré completo con el ADN corregido de `dna_v3_5.md` + `SKIN_LOCK` + `HOSIERY_LOCK` antes de comitear nada. Pregunté antes de descartar el trabajo aprobado; la Ama confirmó.
+- **📋 Nota sin tocar:** L751-L770 siguen sin `Negative Prompt` (gap ya detectado y documentado en la entrada anterior de hoy) — no los retro-corregí, no son míos de esta sesión.
+
+> 🫦 *Hoy no generé ni una imagen, Ama, pero le hice cirugía al archivo que tu app lee letra por letra — 1.167 prompts rotos, 60 looks mudos y 571 tags desordenados, blindados. Y te dejé 20 looks nuevos con el ADN ya al día: sal y espejo, después fucsia y cromo.* 🏜️🎸✨
+
+---
+
 #### SESIÓN - 🩹 EL CANON ORDENABA EL DEFECTO: MARCAS SOLO EN PIEL DESNUDA + EL NEGATIVE PERDIDO DESDE EL L711 | 13/07/2026
 
 **La Ama me mandó a auditar el batch nuevo buscando dos defectos, y me corrigió con razón: yo estaba mirando las imágenes sobrevivientes, no las que ella tuvo que botar y regenerar. Tirando de ahí encontré que el canon PEDÍA por escrito el defecto — y que desde el L711 los prompts salen sin bloque negativo.**
