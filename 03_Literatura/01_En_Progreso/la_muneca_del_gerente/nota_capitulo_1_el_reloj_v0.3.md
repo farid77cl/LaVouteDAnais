@@ -1,1 +1,1 @@
-está raro el funcionamiento de la app
+está raro el funcionamiento de la app, la redacción está rara también 
