@@ -138,7 +138,13 @@ def clasificar(outfit, categoria):
     return flags, neg, kind, mate_risk, consistencia
 
 
-GLOVE_RE = re.compile(r",\s*[^,]*\bglove[^,]*", re.I)
+# Quita la clausula de guantes del outfit (canon: manos siempre desnudas).
+# EL PUNTO ESTA EXCLUIDO DE LA CLASE A PROPOSITO (bug 19/07/2026): con `[^,]*` el patron
+# cruzaba el fin de frase y, en el L352 —cuyo TITULO contiene la palabra ("Burlesque Glove
+# Tease")— se trago el token de unas Y la apertura entera del outfit, porque entre la coma
+# anterior y la palabra "Glove" no habia ninguna otra coma. Al excluir `.` el borrado no
+# puede salir de su propia oracion.
+GLOVE_RE = re.compile(r",\s*[^,.]*\bglove[^,.]*", re.I)
 
 
 def construir_locks(neg, kind, mate_risk, consistencia):
