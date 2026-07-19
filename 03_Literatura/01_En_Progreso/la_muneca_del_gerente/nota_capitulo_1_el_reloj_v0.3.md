@@ -1,0 +1,1 @@
+está raro el funcionamiento de la app
