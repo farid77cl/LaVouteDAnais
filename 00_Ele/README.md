@@ -114,7 +114,7 @@
 
 ## 📊 Estadísticas
 
-- **Looks definidos / materializados:** 230 definidos / ~110 materializados activos (pendiente cuota API L200+)
+- 🔢 **Flota · último look · materialización → [`memoria_sesiones.md`](memoria_sesiones.md) (`## 🧿 ESTADO ACTUAL`), dueño único.** Este README ya no lleva contadores: los que había («230 definidos / ~110 materializados») quedaron congelados meses con la flota en L800 — exactamente el problema que la regla dueño-único del 02/07 vino a matar (llegó a haber 3 flotas distintas en 3 archivos).
 - **Integridad ADN V3.5 Hard-Sync:** 100% | Sincronización en la Nube Completa ✅
 - **Engine V3.5 Final:** 10/10 sub-arquetipos · Step 0 Anti-Repetición · Posed Seated por arquetipo · POV anti-phone
 - **Bancos de prompts:** 38+
