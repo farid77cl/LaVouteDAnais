@@ -54,6 +54,19 @@ MARKS_RE = re.compile(
     r"(wide hips, )(.*?)(, [^,]*makeup[^,]*, extra long French XXXL nails)", re.S)
 SPLIT = ". anatomically correct"
 
+# Aperturas literales de cada lock inyectado por v3. Marcan donde TERMINA la prenda y empieza
+# el motor hablando de si mismo: sin este corte, re-clasificar un prompt ya v3 lee los locks
+# como si fueran vestuario (ver `solo_prenda`).
+LOCK_MARKERS = (
+    "wherever the garment covers the body",          # SKIN_LOCK
+    "the garment is solid and uncut",                # OPAQUE_LOCK
+    "her hands, fingers, neck, throat",              # UNMARKED_ZONES
+    "the stockings are exactly ONE single pair",     # HOSIERY_LOCK
+    "the outfit is exactly ONE garment ensemble",    # CONSISTENCY_LOCK
+    "rendered in a high-shine liquid latex",         # GLOSS_LOCK
+    "beyond the garment's described sleeve length",  # NO_ARMWEAR
+)
+
 
 def imagenes_existentes(lo, hi):
     """look -> set(pose_token) segun git ls-files (fuente de verdad)."""
@@ -78,14 +91,43 @@ def imagenes_existentes(lo, hi):
     return img
 
 
+def solo_prenda(outfit):
+    """Devuelve la descripcion REAL de la prenda, sin el preambulo de titulo/firma.
+
+    El bloque de vestuario abre asi:
+        stunning woman wearing a <TITULO DEL LOOK> <sub-arquetipo> signature in <familia>: <prenda>
+    Clasificar sobre el texto completo hace que una palabra del TITULO decida la cobertura del
+    CUERPO. Caso probado (L307, imagen del 19/07/2026): el titulo dice "Sports Bikini Crossfit"
+    pero la prenda es un short de talle alto — `bikini` disparo pelvis_bare=True, el prompt
+    NOMBRO las runas del hip crease sobre una zona tapada, y Gemini las pinto SOBRE el short.
+    Mismo genero de bug que el L352: la palabra vivia en el titulo, no en la prenda.
+
+    Y corta por el final en el primer LOCK. Un prompt ya en v3 lleva los locks pegados detras
+    del outfit, y re-clasificarlo entero hace que el motor se lea A SI MISMO: "never split into a
+    two-piece or cropped version" (CONSISTENCY_LOCK) disparaba `navel_bare` en 203 looks con el
+    vientre tapado — vestidos hasta el suelo incluidos. Bucle de retroalimentacion: cada pasada
+    de --todas sobre texto ya v3 corrompia lo que la pasada anterior habia calculado bien.
+    """
+    m = re.search(r"\bwearing\b(.{0,220}?):\s", outfit, re.S | re.I)
+    prenda = outfit[m.end():] if m else outfit
+    cortes = [prenda.find(mark) for mark in LOCK_MARKERS]
+    cortes = [c for c in cortes if c != -1]
+    return prenda[:min(cortes)] if cortes else prenda
+
+
 def clasificar(outfit, categoria):
     """Deriva flags de cobertura (marcas) y de negativo desde el texto del outfit.
 
     SESGO DELIBERADO en las marcas: ante la duda, NO nombrar la zona. Nombrar una marca
     cubierta es una ORDEN DIRECTA de pintarla sobre la tela (el defecto que matamos);
     omitir una marca genuinamente desnuda solo hace que no se luzca. El costo es asimetrico.
+
+    Las flags de COBERTURA (marcas) se derivan de la prenda sola (`solo_prenda`); las de
+    NEGATIVO siguen mirando el texto completo — ahi el titulo es informacion util
+    (p.ej. "Leopard" en el titulo justifica el animal_print_lock) y no ordena pintar nada.
     """
-    t = outfit.lower()
+    t = solo_prenda(outfit).lower()
+    t_full = outfit.lower()
     c = (categoria or "").lower()
 
     # Limite de palabra SOLO AL INICIO. Con \b a ambos lados "stocking" no matcheaba
@@ -95,19 +137,36 @@ def clasificar(outfit, categoria):
     # cerrada. Las trampas restantes se cierran con lookahead.
     TRAMPAS = {"mini": "malist", "rib": "bon", "coat": "ed"}
 
-    def has(*ws):
+    def _busca(texto, ws):
         for w in ws:
             pat = r"\b" + re.escape(w) + (r"(?!%s)" % TRAMPAS[w] if w in TRAMPAS else "")
-            if re.search(pat, t):
+            if re.search(pat, texto):
                 return True
         return False
+
+    def has(*ws):        # cobertura del CUERPO -> solo la prenda (el titulo no desnuda a nadie)
+        return _busca(t, ws)
+
+    def has_full(*ws):   # locks/negativo -> texto completo, titulo incluido
+        return _busca(t_full, ws)
 
     bikini = has("bikini", "monokini", "brazilian", "thong", "g-string", "microkini",
                  "swimsuit", "triangle top")
     lenceria = "lencer" in c
     # Piernas cubiertas: medias/leggings/catsuit/botas hasta el muslo tapan el muslo.
-    piernas_tapadas = has("leggings", "tights", "catsuit", "thigh boot", "thigh-high boot",
-                          "opaque stocking", "full-length", "jumpsuit", "unitard")
+    # Bota sobre la rodilla = muslo TAPADO. La lista pedia la frase exacta "thigh-high boot" y no
+    # cazaba "OTK thigh-high stiletto boots" (L356), asi que se evalua por PARES (altura + bota):
+    # el adjetivo y el sustantivo casi nunca vienen pegados. Deliberadamente NO se acepta
+    # "thigh-high" a secas: cazaria tambien las medias y moveria 47 looks que no he verificado.
+    bota_alta = has("boot") and has("thigh-high", "thigh high", "over-the-knee", "otk")
+    # Cualquier media cuenta como muslo tapado, no solo la opaca: una media ES tela sobre el
+    # muslo, y nombrar ahi el tatuaje es exactamente el defecto confirmado el 13/07 (tatuajes
+    # del brazo pintados SOBRE la manga de vinilo en L763/L764). Antes solo valia
+    # "opaque stocking" y un look con medias violeta (L795) se ganaba marcas en el muslo.
+    medias = has("stocking", "hosiery", "fishnet", "pantyhose", "thigh-high")
+    piernas_tapadas = bool(bota_alta or medias) or has(
+        "leggings", "tights", "catsuit", "thigh boot", "thigh-high boot",
+        "opaque stocking", "full-length", "jumpsuit", "unitard")
     muslo_libre = has("bikini", "monokini", "brazilian", "thong", "g-string", "high-cut",
                       "micro", "mini", "hot pants", "shorts", "cheeky", "teddy", "leotard")
 
@@ -118,23 +177,28 @@ def clasificar(outfit, categoria):
                       "bikini", "racerback", "cross-back", "deep open back"),
         thighs_bare=bool(muslo_libre and not piernas_tapadas),
         pelvis_bare=bool(bikini or (lenceria and has("high-cut", "thong", "g-string", "brazilian"))),
+        # NO agregar aqui disparadores tipo "exposed midriff"/"sports bra" (probado 19/07/2026):
+        # suenan correctos y son ciertos, pero mueven 1.627 poses de golpe sin una sola imagen
+        # que pruebe que hacen falta. El canon manda al reves — ante la duda NO se nombra la zona,
+        # porque nombrar de mas ORDENA pintar sobre la tela y omitir solo deja un detalle sin lucir.
         navel_bare=bool((bikini and not has("monokini", "one-piece")) or has("crop", "two-piece")),
     )
     neg = dict(
-        seam=has("back-seam", "back seam", "seamed stocking"),
-        stockings=has("stocking", "hosiery", "thigh-high", "tights", "fishnet"),
+        seam=has_full("back-seam", "back seam", "seamed stocking"),
+        stockings=has_full("stocking", "hosiery", "thigh-high", "tights", "fishnet"),
         # Un bikini/monokini nunca es "prenda que cubre": NEG_CUTOUT pelearia con sus cortes.
-        covered=bool(has("gown", "dress", "catsuit", "jumpsuit", "bodysuit", "leotard", "suit",
-                         "blazer", "coat", "romper", "one-piece") and not bikini),
+        covered=bool(has_full("gown", "dress", "catsuit", "jumpsuit", "bodysuit", "leotard",
+                              "suit", "blazer", "coat", "romper", "one-piece") and not bikini),
         gloss_risk=True,   # NEG_MATTE nunca choca: Ele jamas usa tela mate natural
         lingerie=lenceria,  # unico arquetipo donde el canon permite el mule
-        animal_print=has("leopard", "tiger", "python", "snake", "zebra", "animal print"),
+        animal_print=has_full("leopard", "tiger", "python", "snake", "zebra", "animal print"),
     )
-    kind = next((k for k in ("leopard", "tiger", "python", "snake", "zebra") if k in t), None)
+    kind = next((k for k in ("leopard", "tiger", "python", "snake", "zebra") if k in t_full), None)
     # GLOSS_LOCK positivo solo en siluetas que primean tela mate (el resto ya dice vinyl/latex)
-    mate_risk = has("suit", "blazer", "wool", "crepe", "satin", "rib", "knit", "tweed",
-                    "tulle", "velvet", "tutu", "jersey", "cotton")
-    consistencia = has("gown", "dress", "catsuit", "jumpsuit", "bodysuit", "leotard", "romper")
+    mate_risk = has_full("suit", "blazer", "wool", "crepe", "satin", "rib", "knit", "tweed",
+                         "tulle", "velvet", "tutu", "jersey", "cotton")
+    consistencia = has_full("gown", "dress", "catsuit", "jumpsuit", "bodysuit", "leotard",
+                            "romper")
     return flags, neg, kind, mate_risk, consistencia
 
 
@@ -220,6 +284,15 @@ def transformar(prompt, label, marks_new, locks, seam, canonico=True):
     # El marcador estable es la frase de apertura.
     if "a single continuous photograph" in prompt:
         if SINGLE_FRAME in prompt:
+            # Ya es v3 en su ESTRUCTURA, pero la clausula de marcas puede haber quedado mal
+            # calculada por un bug de `clasificar` (caso L307, 19/07/2026: el titulo "Sports
+            # Bikini" desnudaba una pelvis tapada por un short de talle alto y el generador
+            # pintaba las runas SOBRE la tela). La estructura no basta: hay que reconciliar
+            # tambien el contenido. Si las marcas ya coinciden, entonces si es idempotente.
+            if len(MARKS_RE.findall(prompt)) == 1:
+                resync = MARKS_RE.sub(lambda m: m.group(1) + marks_new + m.group(3), prompt)
+                if resync != prompt:
+                    return resync, None
             return None, "ya v3 (idempotente)"
         return upgrade_v2(prompt, label, marks_new)   # v2 -> v3: se SUSTITUYE, no se appendea
 

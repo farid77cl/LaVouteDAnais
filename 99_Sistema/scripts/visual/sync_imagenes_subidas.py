@@ -73,23 +73,51 @@ def normalizar_nombres():
                     cambios += 1
     return cambios
 
+_INDICE = None
+
+def indice_git():
+    """{carpeta: {archivo.png}} leído del ÍNDICE DE GIT, no del disco.
+
+    Antes esto hacía os.listdir(). En las máquinas con sparse-checkout / skip-worktree
+    (la solo-literaria tiene 0 PNG en disco) el tracker se reescribía a la baja y
+    declaraba pendientes cientos de poses que sí existen en el repo — la misma mentira
+    del 14/07 pero al revés, y con el mismo costo: cuota quemada regenerando lo que ya
+    está. `update_galleries.py` ya usaba git ls-files; ahora ambos miden lo mismo.
+    """
+    global _INDICE
+    if _INDICE is None:
+        _INDICE = {}
+        res = subprocess.run(["git", "ls-files", "05_Imagenes/ele"], cwd=REPO,
+                             capture_output=True, text=True, encoding="utf-8")
+        for ruta in res.stdout.splitlines():
+            m = re.match(r"05_Imagenes/ele/([^/]+)/([^/]+\.png)$", ruta, re.I)
+            if m:
+                _INDICE.setdefault(m.group(1), set()).add(m.group(2))
+    return _INDICE
+
 def folders_de_look(n):
     """TODAS las carpetas del look. Un mismo look puede tener 2 slugs distintos
     (la app y el agente los nombraron distinto) con las poses repartidas entre ambas."""
     pref = re.compile(rf"^look0*{n}_", re.I)
-    found = [f for f in os.listdir(ELE)
-             if pref.match(f) and os.path.isdir(os.path.join(ELE, f))]
+    found = [f for f in indice_git() if pref.match(f)]
     # la carpeta con más PNG manda cuando una pose está en las dos
     return sorted(found, key=lambda f: (-len(imgs_de_look(f)), f))
 
 def imgs_de_look(folder):
-    fpath = os.path.join(ELE, folder)
-    return {f for f in os.listdir(fpath) if f.lower().endswith(".png")}
+    return set(indice_git().get(folder, ()))
 
 def buscar_pose(n, key, folders):
     """Devuelve (folder, filename) de la pose, o None.
-    Acepta el sufijo timestamp de la generación por API: ele_313_back_view_1783817436657.png"""
-    rx = re.compile(rf"^ele_0*{n}_{key}(_\d+)?\.png$", re.I)
+
+    Tres nomenclaturas conviven y las TRES cuentan:
+      · canónica            ele_313_back_view.png
+      · con timestamp API   ele_313_back_view_1783817436657.png
+      · slug largo          ele_look300_black_satin_veiled_femme_fatale_noir_back_view.png
+    El slug largo no se reconocía y el tracker declaraba pendientes poses que sí existen
+    (L299 4/7 y L300 2/7 cuando ambos están completos, 19/07). La pose va ANCLADA AL FINAL,
+    así que un slug que contenga una palabra de pose no puede robar el match.
+    """
+    rx = re.compile(rf"^ele_(?:look)?0*{n}_(?:.*_)?{key}(_\d+)?\.png$", re.I)
     for folder in folders:
         for f in sorted(imgs_de_look(folder)):
             if rx.match(f):

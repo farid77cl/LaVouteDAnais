@@ -102,23 +102,23 @@
 | **290** | Studded Boxing Rock WOD (27/05/2026 — batch 281-290 · Gym Boxing V4/V18 hybrid · busto 1000cc · v4.6 canon · tema ROCK) | — | Gym / Athleisure | — | — | 2/7 | — |
 | **291** | Blood Red Bias Goddess 1930s (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
 | **292** | Champagne Boudoir Slip 1930s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 7/7 | — |
-| **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
-| **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Nightclub | — | — | 2/7 | ⏳ Pendiente |
+| **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Escort | — | — | 7/7 | ⏳ Pendiente |
+| **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Nightclub | — | — | 7/7 | — |
 | **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 7/7 | ⏳ Pendiente |
 | **296** | Deep Teal Femme Fatale Detective (28/05/2026 — batch 291-300 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Corporate | — | — | 7/7 | — |
-| **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
+| **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Pin-Up | — | — | 7/7 | ⏳ Pendiente |
 | **298** | Dark Plum Longline Corset Fetish 30s (28/05/2026 — batch 291-300 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Lencería | — | — | 7/7 | — |
-| **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
-| **300** | Black Satin Veiled Femme Fatale Noir (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 2/7 | ⏳ Pendiente |
-| **301** | Coral Neon Beach Bombshell (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 5/7 | ⏳ Pendiente |
-| **302** | Turquoise Chrome O-Ring Monokini (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 6/7 | ⏳ Pendiente |
-| **303** | Neon Lime Buffbunny Gym Set (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 5/7 | ⏳ Pendiente |
+| **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Bikini | — | — | 7/7 | — |
+| **300** | Black Satin Veiled Femme Fatale Noir (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | — | Alfombra Roja / Gala | — | — | 7/7 | — |
+| **301** | Coral Neon Beach Bombshell (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 7/7 | — |
+| **302** | Turquoise Chrome O-Ring Monokini (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 7/7 | — |
+| **303** | Neon Lime Buffbunny Gym Set (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 7/7 | — |
 | **304** | Flamingo Pink High-Cut Brazilian (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 7/7 | — |
-| **305** | Tangerine Track Suit Athleisure (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
-| **306** | Electric Cyan Cabana Club Night (28/05/2026 — batch 301-310 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
-| **307** | Toxic Yellow Sports Bikini Crossfit (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
+| **305** | Tangerine Track Suit Athleisure (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 7/7 | — |
+| **306** | Electric Cyan Cabana Club Night (28/05/2026 — batch 301-310 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Nightclub | — | — | 7/7 | — |
+| **307** | Toxic Yellow Sports Bikini Crossfit (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Gym | — | — | 7/7 | — |
 | **308** | Hot Magenta Chain Bikini Studio (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Bikini | — | — | 7/7 | — |
-| **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Escort | — | — | 2/7 | ⏳ Pendiente |
+| **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Escort | — | — | 5/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | — | Domestic | — | — | 4/7 | ⏳ Pendiente |
 | **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Gym | — | — | 1/7 | ⏳ Pendiente |
 | **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | — | Lencería | — | — | 7/7 | ⏳ Pendiente |
@@ -166,12 +166,12 @@
 | **354** | Deep Wine Atsuko Kudo Couture (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 7/7 | — |
 | **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Stripper | — | — | 6/7 | ⏳ Pendiente |
 | **356** | Pearl White Pro-Dom Ivory Dungeon (31/05/2026 — batch 351-360 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Escort | — | — | 7/7 | — |
-| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Nightclub | — | — | 4/7 | ⏳ Pendiente |
-| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Pin-Up | — | — | 2/7 | ⏳ Pendiente |
+| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Nightclub | — | — | 6/7 | ⏳ Pendiente |
+| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Pin-Up | — | — | 7/7 | — |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | — | Corporate | — | — | 2/7 | ⏳ Pendiente |
-| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Corporate | — | — | 2/7 | ⏳ Pendiente |
-| **362** | Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Stripper | — | — | 2/7 | ⏳ Pendiente |
+| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Corporate | — | — | 6/7 | ⏳ Pendiente |
+| **362** | Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Stripper | — | — | 7/7 | — |
 | **363** | Red Bull Pit Crew (01/06/2026 — batch 361-370 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Gym | — | — | 2/7 | ⏳ Pendiente |
 | **364** | Podium Champagne White (01/06/2026 — batch 361-370 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Alfombra Roja | — | — | 2/7 | ⏳ Pendiente |
 | **365** | Petronas Yacht Bikini (01/06/2026 — batch 361-370 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Bikini | — | — | 2/7 | ⏳ Pendiente |
@@ -182,10 +182,10 @@
 | **370** | Violet Team Principal (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | — | Corporate | — | — | 1/7 | ⏳ Pendiente |
 | **371** | White Fur Snow Bunny (01/06/2026 — batch 371-380 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Domestic | — | — | 7/7 | — |
 | **372** | Champagne Fireside Boudoir (01/06/2026 — batch 371-380 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Lencería | — | — | 5/7 | ⏳ Pendiente |
-| **373** | Silver Slope Siren (01/06/2026 — batch 371-380 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Gym | — | — | 5/7 | ⏳ Pendiente |
+| **373** | Silver Slope Siren (01/06/2026 — batch 371-380 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Gym | — | — | 6/7 | ⏳ Pendiente |
 | **374** | Snow Queen Crystal Gala (01/06/2026 — batch 371-380 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Alfombra Roja | — | — | 1/7 | ⏳ Pendiente |
 | **375** | Lilac Ice Skater (01/06/2026 — batch 371-380 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Pin-Up | — | — | 1/7 | ⏳ Pendiente |
-| **376** | Glühwein Red Après (01/06/2026 — batch 371-380 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Nightclub | — | — | 1/7 | ⏳ Pendiente |
+| **376** | Glühwein Red Après (01/06/2026 — batch 371-380 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
 | **377** | Pearl Steam Spa (01/06/2026 — batch 371-380 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Lencería | — | — | 1/7 | ⏳ Pendiente |
 | **378** | Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
 | **379** | Sapphire Ice Escort (01/06/2026 — batch 371-380 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | — | Escort | — | — | 1/7 | ⏳ Pendiente |
@@ -585,7 +585,7 @@
 | **773** | Blush Column Drape (13/07/2026 · batch L771-L780 "Desierto de Sal" · Escort · Salt Flat Draped Column (One-Shoulder) · Monoblock) | — | — | — | — | 0/7 | — |
 | **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | — | — | — | — | 2/7 | ⏳ Pendiente |
 | **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | — | — | — | — | 4/7 | ⏳ Pendiente |
-| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | — | — | — | — | 7/7 | — |
+| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | — | — | — | — | 6/7 | ⏳ Pendiente |
 | **777** | Lavender Mirror Bandage (13/07/2026 · batch L771-L780 "Desierto de Sal" · Nightclub · Salt Flat Mirror Lounge (Cutout Bandage Mini) · Contraste) | — | — | — | — | 7/7 | — |
 | **778** | Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lenceria · Salt Flat Boudoir (Longline Bra + Garter) · Contraste) | — | — | — | — | 7/7 | — |
 | **779** | Silver Chain Triangle (13/07/2026 · batch L771-L780 "Desierto de Sal" · Bikini · Salt Flat Mirror Pool (Triangle + Body Chain) · Monoblock) | — | — | — | — | 7/7 | — |
@@ -595,7 +595,7 @@
 | **783** | Black Chain Slip (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Escort · Rock Tour Bus Slip (Chain-Strap Dress) · Monoblock) | — | — | — | — | 7/7 | — |
 | **784** | Fuchsia Groupie Robe (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Domestic · Rock Backstage Groupie (Wrap Robe + Bralette) · Contraste) | — | — | — | — | 7/7 | — |
 | **785** | Purple Fishnet Bandage (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Pin-Up · Rock Dance Floor Bombshell (Fishnet-Print Bandage) · Contraste) | — | — | — | — | 7/7 | — |
-| **786** | Silver Black Angular Couture (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · High-Fashion Editorial · Rock Sculptural Couture (Angular Shoulder Gown) · Contraste) | — | — | — | — | 7/7 | — |
+| **786** | Silver Black Angular Couture (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · High-Fashion Editorial · Rock Sculptural Couture (Angular Shoulder Gown) · Contraste) | — | — | — | — | 1/7 | ⏳ Pendiente |
 | **787** | Gold Marquee Bodycon (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Nightclub · Rock Marquee Alley (Sequin Bodycon) · Monoblock) | — | — | — | — | 7/7 | — |
 | **788** | Black Purple Studded Boudoir (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Lenceria · Rock Tour Bunk Boudoir (Studded Bustier + Garter) · Contraste) | — | — | — | — | 7/7 | — |
 | **789** | Hot Pink Chain Triangle (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Bikini · Rock Rooftop Party (Studded Triangle + Chain) · Monoblock) | — | — | — | — | 7/7 | — |
@@ -733,19 +733,10 @@
 | **273** | Mint Sage Tai Chi Imperial Set (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **274** | Imperial Jade Reformer Pilates (25/05/2026 — batch 271-280 · Gym · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
 | **277** | Ivory Pearl Kimono Boudoir Slip (25/05/2026 — batch 271-280 · Lencería · busto 1000cc · v4.5 anti-filter · sin guantes · inspiración oriental) | 2/7 | ⏳ Pendiente |
-| **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
-| **294** | Cobalt Speakeasy Flapper Noir (28/05/2026 — batch 291-300 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
+| **293** | Emerald Belle de Jour Slip (28/05/2026 — batch 291-300 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 7/7 | ⏳ Pendiente |
 | **295** | Mirror Silver Liquid Lamé Column (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 7/7 | ⏳ Pendiente |
-| **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
-| **299** | Bronze Gold Riviera Maillot Déco (28/05/2026 — batch 291-300 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
-| **300** | Black Satin Veiled Femme Fatale Noir (28/05/2026 — batch 291-300 · Alfombra Roja / Gala · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 2/7 | ⏳ Pendiente |
-| **301** | Coral Neon Beach Bombshell (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 5/7 | ⏳ Pendiente |
-| **302** | Turquoise Chrome O-Ring Monokini (28/05/2026 — batch 301-310 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 6/7 | ⏳ Pendiente |
-| **303** | Neon Lime Buffbunny Gym Set (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 5/7 | ⏳ Pendiente |
-| **305** | Tangerine Track Suit Athleisure (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
-| **306** | Electric Cyan Cabana Club Night (28/05/2026 — batch 301-310 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
-| **307** | Toxic Yellow Sports Bikini Crossfit (28/05/2026 — batch 301-310 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 1/7 | ⏳ Pendiente |
-| **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 2/7 | ⏳ Pendiente |
+| **297** | Oxblood Harlow Bombshell Halter (28/05/2026 — batch 291-300 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema AÑOS 30 FEMME FATALE) | 7/7 | ⏳ Pendiente |
+| **309** | Mirror Silver Yacht Liquid Goddess (28/05/2026 — batch 301-310 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 5/7 | ⏳ Pendiente |
 | **310** | Champagne Gold Poolside Hostess (28/05/2026 — batch 301-310 · Domestic · busto 1000cc · v4.6 canon variedad+descriptividad · tema VERANO TROPICAL / MIAMI POOL PARTY) | 4/7 | ⏳ Pendiente |
 | **311** | Blush Powder Barre Discipline (30/05/2026 — batch 311-320 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 1/7 | ⏳ Pendiente |
 | **312** | Ivory Cream Performance Bodysuit (30/05/2026 — batch 311-320 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema BALLET CORRUPT / PRIMA BALLERINA FETISH) | 7/7 | ⏳ Pendiente |
@@ -787,12 +778,10 @@
 | **348** | Acid Lime Tokyo Gym Editorial (31/05/2026 — batch 341-350 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 1/7 | ⏳ Pendiente |
 | **350** | Chrome Mirror Tokyo Film Award Gala (31/05/2026 — batch 341-350 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema TOKYO DECADENCE) | 2/7 | ⏳ Pendiente |
 | **355** | Cognac Cleo Glam-Rock Pole (31/05/2026 — batch 351-360 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 6/7 | ⏳ Pendiente |
-| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 4/7 | ⏳ Pendiente |
-| **358** | Deep Jade Bettie Page Bondage (31/05/2026 — batch 351-360 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
+| **357** | Dusty Mauve Crystal Mesh Annabels (31/05/2026 — batch 351-360 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 6/7 | ⏳ Pendiente |
 | **359** | Bronze Iridescent MARIEMUR Body Harness (31/05/2026 — batch 351-360 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 1/7 | ⏳ Pendiente |
 | **360** | Midnight Black Versace SM Dark Velvet (31/05/2026 — batch 351-360 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema CUERO Y SANGRE) | 2/7 | ⏳ Pendiente |
-| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
-| **362** | Papaya Grid Girl (01/06/2026 — batch 361-370 · Stripper · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
+| **361** | Ferrari Red Racing Domme (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 6/7 | ⏳ Pendiente |
 | **363** | Red Bull Pit Crew (01/06/2026 — batch 361-370 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
 | **364** | Podium Champagne White (01/06/2026 — batch 361-370 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
 | **365** | Petronas Yacht Bikini (01/06/2026 — batch 361-370 · Bikini · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 2/7 | ⏳ Pendiente |
@@ -802,10 +791,10 @@
 | **369** | Carbon Fiber Couture (01/06/2026 — batch 361-370 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
 | **370** | Violet Team Principal (01/06/2026 — batch 361-370 · Corporate · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION) | 1/7 | ⏳ Pendiente |
 | **372** | Champagne Fireside Boudoir (01/06/2026 — batch 371-380 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 5/7 | ⏳ Pendiente |
-| **373** | Silver Slope Siren (01/06/2026 — batch 371-380 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 5/7 | ⏳ Pendiente |
+| **373** | Silver Slope Siren (01/06/2026 — batch 371-380 · Gym · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 6/7 | ⏳ Pendiente |
 | **374** | Snow Queen Crystal Gala (01/06/2026 — batch 371-380 · Alfombra Roja · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
 | **375** | Lilac Ice Skater (01/06/2026 — batch 371-380 · Pin-Up · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
-| **376** | Glühwein Red Après (01/06/2026 — batch 371-380 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
+| **376** | Glühwein Red Après (01/06/2026 — batch 371-380 · Nightclub · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 0/7 | ⏳ Pendiente |
 | **377** | Pearl Steam Spa (01/06/2026 — batch 371-380 · Lencería · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
 | **378** | Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
 | **379** | Sapphire Ice Escort (01/06/2026 — batch 371-380 · Escort · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL) | 1/7 | ⏳ Pendiente |
@@ -1014,6 +1003,8 @@
 | **773** | Blush Column Drape (13/07/2026 · batch L771-L780 "Desierto de Sal" · Escort · Salt Flat Draped Column (One-Shoulder) · Monoblock) | 0/7 | — |
 | **774** | Blush Maid on the Flats (13/07/2026 · batch L771-L780 "Desierto de Sal" · Domestic · Salt Flat Trophy Maid (Apron Set) · Contraste) | 2/7 | ⏳ Pendiente |
 | **775** | Pearl Wiggle Bombshell (13/07/2026 · batch L771-L780 "Desierto de Sal" · Pin-Up · Salt Flat Bombshell (Strapless Wiggle Dress) · Monoblock) | 4/7 | ⏳ Pendiente |
+| **776** | Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste) | 6/7 | ⏳ Pendiente |
+| **786** | Silver Black Angular Couture (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · High-Fashion Editorial · Rock Sculptural Couture (Angular Shoulder Gown) · Contraste) | 1/7 | ⏳ Pendiente |
 
 ---
 
