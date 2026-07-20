@@ -331,3 +331,253 @@ Dejó el teléfono cargando junto a la cama, la pantalla encendida hacia el tech
 Mañana él iba a tomar café a las once. Iba a levantar la taza y a hacerla esperar en el aire, como hacía siempre, porque los hombres como él hacen esperar hasta al café.
 
 Fernanda se durmió calculando el segundo exacto.
+
+***
+
+Al día siguiente llegó a las siete y diez, como siempre, y lo primero que hizo fue vaciar el papelero de la oficina del gerente.
+
+Ahí estaba la caja negra, aplastada de un pisotón para que cupiera, con la espuma cortada a medida todavía guardando el hueco donde el reloj había venido durmiendo. Y encima de la espuma, doblada en dos como se dobla una boleta, la tarjeta color hueso.
+
+Fernanda la desdobló con dos dedos.
+
+*Un reloj no le pertenece a quien lo lleva, sino a quien le da cuerda. Que lo disfrute. — MD ❤*
+
+La leyó una sola vez. No le hizo falta más.
+
+Ahí parada, con el papelero en una mano y la cartulina en la otra, entendió que esa frase no estaba escrita para el hombre que la había leído. Él la había leído como se lee la etiqueta de un vino caro: por el gusto de que le hablaran bonito. Ella la leyó como se lee una sentencia con el nombre propio adentro. *Quien le da cuerda.* Alguien, en alguna parte, había mandado la explicación completa metida en la misma caja, con el corazón dibujado a mano y todo, y el destinatario la había tirado a la basura sin entender que le habían escrito el contrato.
+
+No la botó. La guardó en el bolsillo interior del bolso, entre la libreta y el estuche de las lentes, y siguió con las tazas.
+
+A las once sonó el citófono. Café.
+
+Ella lo llevó y no hizo nada. Lo dejó en el posavasos, esperó los dos segundos por si él decía algo —no dijo nada, que era su manera de decir gracias— y se volvió a su puesto con el teléfono quieto en el bolsillo. El apetito de la noche anterior le llegaba hasta el borde de los dedos y ahí se paraba solo, en un freno que ella todavía no sabía nombrar y que no era prudencia.
+
+A las once y media entró el cliente.
+
+Uno de los grandes: dos apellidos, carpeta bajo el brazo, cuarenta minutos agendados y una operación que Cristóbal venía cocinando desde antes de las vacaciones. Fernanda sirvió las dos tazas y salió, cerró la puerta de vidrio y se sentó en su puesto con las manos sobre el teclado y la vista al frente.
+
+Los vio hablar. Vio a su jefe hacer eso que hacía: echarse atrás, abrir las manos, dejar que el otro se acomodara al ritmo de él. Vio la carpeta abrirse. Vio la taza subir.
+
+Y ahí, con el cliente mirando, con la operación entera arriba de la mesa, tocó *Girar muñeca.*
+
+Se le fue la mano.
+
+Quiso *suave* —lo quiso, después se lo dijo a sí misma tres veces y era verdad— pero el dedo iba con dos días de novena taza adentro y se le pasó de la mitad de la barra sin permiso. El antebrazo de Cristóbal giró de golpe, seco, a treinta centímetros de su propia boca. La taza no se dio vuelta entera: se inclinó lo justo para que el café saliera por el borde alto en un chorro corto y le bajara por la muñeca, por debajo del puño de la camisa, hasta empaparle la malla del reloj.
+
+El sorbo no llegó nunca. Se quedó a mitad de camino, como una frase cortada.
+
+—Ah, la cresta —dijo él, y se rió, y buscó la servilleta.
+
+Del otro lado del vidrio, Fernanda dejó de respirar. No por él: por la operación, por el cliente, por los tres años de manos educadas que se le acababan de escapar de un solo tirón. Sintió el susto entrar frío por la nuca —lo había hecho mal, lo había hecho a la vista, había una carpeta abierta— y por debajo del susto, subiéndole desde más abajo y a otra velocidad, sintió lo otro.
+
+Porque el café le había llegado al reloj. Al reloj, no a él. El chorro se había ido derecho al único punto de ese hombre que ya no era suyo, y había quedado ahí colgando de los eslabones en gotas cafés, brillando, mientras el dueño se secaba la muñeca con una servilleta de papel sin saber que estaba limpiando la correa.
+
+El calor le subió por dentro con esa mezcla exacta de miedo y gusto que tienen las cosas hechas demasiado fuerte. Se quedó muy derecha en la silla, apretó los muslos una vez, y esta vez no se lo permitió dos veces.
+
+Adentro, el cliente hizo un chiste sobre el pulso de los gerentes que trabajan mucho. Cristóbal se rió con él y arregló el asunto en diez segundos, porque para eso servía: para arreglar en diez segundos las cosas que no entendía. Después se miró el brazo un momento más de lo necesario. Lo giró. Lo devolvió. La contractura, otra vez, y esta vez con testigo.
+
+Fernanda anotó, en la planilla que no existía en ningún computador: *fuerte no. Fuerte se ve.*
+
+Y algo más abajo, en un renglón que no anotó en ninguna parte, quedó también lo otro: que se le había ido la mano porque tenía apetito, y que el apetito, a diferencia de las manos, no se educa con tres años de bandeja.
+
+***
+
+A las cuatro, con el cliente ya en el ascensor y la operación viva, él quedó solo en su oficina revisando el anexo.
+
+Fernanda abrió *Extender dedos* y llevó la barra a un tercio.
+
+Fue un movimiento chico. Al otro lado del vidrio, la mano izquierda de Cristóbal Undurraga, que descansaba abierta sobre el escritorio junto al teclado, separó los cinco dedos despacio, uno del otro, hasta quedar estirada como una mano de yeso.
+
+Él la vio.
+
+La vio porque estaba mirando justo ahí, porque el papel estaba justo ahí, y lo que sintió primero no fue miedo: fue esa incomodidad rara de cuando el cuerpo hace algo en un orden que no es el suyo. Ordenó cerrar. La mano no cerró.
+
+Lo intentó otra vez, y esta vez lo intentó de verdad, mirándola, con la mandíbula apretada y el aire retenido, mandándole a los dedos la orden con la misma voz con que le mandaba cosas a la gente. Los dedos temblaron. Se quedaron abiertos un segundo entero, terco contra terco, y Cristóbal sintió por primera vez en treinta y cinco años que había alguien más adentro de su propio brazo, alguien que estaba tirando del otro lado de la misma cuerda.
+
+Y entonces cerró.
+
+La mano se le vino al puño de golpe, dura, y él la golpeó una vez contra el escritorio de pura rabia y ahí la dejó, cerrada, ganada, con los nudillos blancos.
+
+—Ya —dijo en voz alta, a nadie—. Basta de weás.
+
+Se quedó respirando. La sangre le andaba fuerte y tenía la camisa pegada a la espalda por una pelea de tres segundos con su propia mano izquierda. Después hizo lo que hacen los hombres como él: ganó también la segunda pelea, que es la de no pensarlo. Magnesio. Todo el mundo andaba con lo del magnesio, la Antonia se lo venía diciendo hace meses. Se levantó, se puso el saco y bajó a la farmacia de Apoquindo, y de camino, en el ascensor, le escribió a la secretaria del kinesiólogo pidiendo hora para el final de la semana, la primera que hubiera después del cierre, sin apuro, porque tampoco era para tanto.
+
+En el mostrador de la farmacia, esperando el vuelto, se miró la mano abierta sobre el vidrio y la cerró y la abrió tres veces, obediente, perfecta, suya.
+
+—Nada —le dijo a la cajera, que no había preguntado.
+
+Fernanda lo vio salir del edificio desde el vidrio y se quedó un rato larguísimo mirando la pantalla apagada del teléfono en la falda.
+
+Él había ganado.
+
+Ella tenía la barra en un tercio y él la había ganado a pura mandíbula, en tres segundos, golpeando el escritorio para dejar constancia de quién mandaba en esa mano. Y lo que Fernanda descubrió en ese momento no era lo que esperaba descubrir. No sintió que se le escapara nada. Sintió, muy abajo, con una nitidez que la obligó a cerrar los ojos un segundo, que un cuerpo que obedece al tiro se le iba a poner aburrido rapidísimo. Que lo bueno era eso: que peleara. Que apretara los dientes y ganara y saliera a comprar magnesio a Apoquindo con la espalda mojada, sin saber contra quién había peleado.
+
+Cerró los ojos y se quedó así, con las dos manos planas sobre el escritorio, hasta que la respiración le volvió al ritmo de una mujer que ordena papeles.
+
+A las siete, antes de apagar el computador, le dio el círculo dorado una sola vez.
+
+Del otro lado del vidrio, Cristóbal levantó la cabeza del anexo con los ojos entrecerrados y el pulso tibio subiéndole por el brazo. Y esta vez lo reconoció. No como quien reconoce una cosa: como quien reconoce una hora. Fue igual que la primera vez del lunes, hondo, lento, de whisky por la vena, y el cuerpo lo esperaba antes de que le llegara, porque el cuerpo lleva la cuenta de estas cosas mucho antes de que el dueño se entere.
+
+—Este weón sí que es bueno —le dijo al reloj, en voz baja, encantado, girando la muñeca bajo la lámpara.
+
+Fernanda no lo oyó. No le hizo falta oírlo: le vio la cara.
+
+***
+
+Dos días después del lunes, la palabra *Marcha* amaneció blanca.
+
+Fernanda la miró en el ascensor de servicio, subiendo, con el pelo todavía húmedo de la ducha. No había explicación —la aplicación no explicaba nunca nada— pero debajo decía, en la misma cursiva chica de siempre: *se abre con el uso.* Ella había usado. Se abría.
+
+Abrió el renglón y adentro no había mucho: *media zancada. tobillo. peso al frente.* Barras finas, suave a fuerte, y ese silencio de catálogo.
+
+A las ocho y cuarenta lo vio cruzar el lobby de mármol hacia los ascensores, hablando por teléfono, con el sol entrando por los ventanales y esa manera de caminar que le abría el pasillo. Fernanda venía tres metros atrás, cargando el sobre de la notaría, invisible como el mármol.
+
+Tocó *media zancada*. Apenas. Casi al principio de la barra.
+
+El pie derecho de Cristóbal salió corto. Nada más: cinco centímetros menos de los que el cuerpo tenía calculados, y el cuerpo se le fue adelante buscando el suelo donde el suelo todavía no estaba. Dio medio paso de más, torpe, con los brazos abiertos, y se salvó de irse de bruces en el lobby de su propio edificio por un cuarto de segundo y por el guardia, que no alcanzó a llegar pero hizo el gesto.
+
+—Estas suelas nuevas —dijo él, riéndose, mostrándole el zapato al guardia, ya erguido, ya perfecto—. Resbalan como la mierda.
+
+El guardia se rió con la risa que se les ríe a los gerentes.
+
+Fernanda pasó por al lado con el sobre de la notaría y no giró la cabeza. Metió el teléfono en el bolsillo. Los cinco centímetros le habían costado un toque de un dedo y ese hombre acababa de inventar, en menos de un segundo, una explicación completa con marca de suela incluida, y se la había contado a un testigo, y el testigo se la había creído.
+
+Iba a hacer eso siempre. Esa fue la parte que la calentó: no el tropiezo, sino la certeza tranquila de que él iba a explicar todo, siempre, hasta el final, y de que cada explicación era una puerta que él mismo le cerraba a su propia salida.
+
+***
+
+A las once y media, Squella le vio el reloj por fin.
+
+Fernanda estaba dejando la carpeta de accesos y se quedó de espaldas ordenando el mueble bajo, que era su manera de quedarse.
+
+—Oye, ¿y esto? —dijo Squella, agarrándole la muñeca a Cristóbal con la confianza de los que se dicen weón—. A ver. ¿Qué es esto?
+
+—Suéltalo, weón.
+
+—No, en serio. Yo esto no lo he visto. —Squella lo giró bajo la luz—. No tiene nombre.
+
+—No necesita.
+
+—¿Y de dónde salió?
+
+Cristóbal se demoró lo justo. Fernanda, de espaldas, con las dos manos en una carpeta que ya estaba ordenada, esperó la respuesta como se espera el resultado de un examen.
+
+—Regalo —dijo él—. Pieza única, edición limitada. —Y después, dejando caer el peso donde quería dejarlo, sin apuro—: De una clienta.
+
+Squella soltó una carcajada y le dio en el hombro.
+
+—Ya, ya. Clienta.
+
+—Clienta —repitió Cristóbal, y giró la muñeca para que la cerámica se bebiera la luz, con esa media sonrisa suya de hombre que deja que le inventen la historia porque cualquier historia que le inventen lo favorece.
+
+Fernanda cerró el mueble bajo y salió con la carpeta vacía en la mano.
+
+*Clienta.* La palabra le fue caminando por dentro todo el pasillo de vidrio. Él la había dicho pensando en alguna mujer con plata que se lo quería coger; la había dicho para dejar un olor en la pieza, para que Squella se fuera a la hora de almuerzo con esa idea. Y no se equivocaba: había una mujer detrás del reloj. Lo único que se equivocaba era en todo lo demás.
+
+Ella era la clienta. Le habían mandado el enlace a las siete y treinta y ocho de la mañana del lunes, con su apellido en la primera línea, y él acababa de decir la verdad completa delante de un testigo y de convertirla en una talla.
+
+Fernanda pasó el día en dosis chicas. Un tobillo que se atrasa medio segundo en la escalera. Los dedos que sueltan el clip. Nada visible, nada que costara una explicación mayor a dos palabras. Y a las cuatro y media, cuando le llevó la última ronda de café y él estiró la mano sin mirar y le rozó los nudillos con esa mano izquierda que dos días antes había peleado sola contra ella, Fernanda sintió el corrientazo subirle por el brazo hasta el hombro y se quedó de pie a un metro de su jefe, con la bandeja, mojada, callada y de una calma perfecta.
+
+Guardó el gesto todo el día. A las siete y media apagó el computador con el cuerpo entero pidiendo.
+
+***
+
+Comió parada, en la cocina, sin ganas.
+
+Lavó su taza y la dejó boca abajo. Se soltó el pelo. Se lavó las manos y se las secó bien, dedo por dedo, con esa prolijidad que tenía para las cosas importantes, y recién entonces se sentó a la mesa y abrió el panel.
+
+El punto dorado estaba quieto en Vitacura, en el departamento de él. *64.* Bajando.
+
+Y arriba, sobre el número, había una línea nueva que no estaba en la mañana:
+
+*Persona disponible.*
+
+Fernanda se quedó mirándola sin tocarla, con las dos manos planas sobre la mesa y el pulso golpeándole en el cuello.
+
+La palabra gris que le había gustado desde el primer día sin entenderla se había puesto blanca. Tocó.
+
+No había manual. Había una ficha en blanco, como el formulario de un colegio: *nombre. voz. rasgos.* Y abajo del todo, en su propio recuadro, separada de las demás por una línea fina, una sola palabra con una barra al lado: *pudor.*
+
+Empezó por el nombre y ahí se quedó pegada mucho rato, con el cursor parpadeando.
+
+Podía escribir cualquier cosa. Ese era el problema: podía escribir cualquier cosa, y cualquier cosa no servía. Pensó en ponerle algo de perro, porque los hombres como él tienen perros grandes y les hablan con voz de mando. Pero un perro tiene dignidad en la cabeza de un hombre así. Un perro guarda la casa, un perro cuesta plata, un perro se muestra. Pensó en ponerle algo de sirviente, de mozo, de junior, y tampoco: un junior es un hombre chico, y un hombre chico sigue siendo un hombre, y en el mundo de Cristóbal Undurraga un hombre chico puede algún día subir.
+
+Entonces se acordó de la novena taza.
+
+*Huele a secretaria, weón.*
+
+No había dicho "huele a malo". No había dicho "está mal hecho", ni "esto lo hace un junior", ni "esto parece de practicante". Había buscado, entre todas las cosas que existen para nombrar el fondo de un trabajo, la que le pareció más abajo de todas. Y la que le pareció más abajo de todas fue una mujer que sirve. La había usado de unidad de medida delante de doce personas porque en su cabeza no había nada por debajo. Ese era el piso. Él mismo lo había construido con la boca, delante de testigos, para que todos supieran dónde quedaba.
+
+Fernanda no tuvo que buscar el castigo. Estaba dicho. Él había señalado con el dedo el peor lugar del mundo y había mandado a fabricar el ascensor.
+
+Escribió *Vanessa* y lo borró casi al tiro: era demasiada mujer, mujer de verdad, mujer con departamento propio y un trabajo. No servía. Escribió *Candy* y lo miró tres segundos: quedaba plástico, gringo, de calcomanía de camión, y no tenía adentro lo que ella quería que tuviera.
+
+A la tercera le salió solo.
+
+*Kitty.*
+
+Nombre de gatita de calendario. Nombre que no es de nadie, que se le pone a una cosa suave que ronronea cuando la tocan y que se cambia por otra igual cuando se estropea. Un nombre sin apellido posible: nadie le pregunta el apellido a una gatita.
+
+Se le quedó mirando la palabra en la pantalla y se le secó la boca.
+
+*Voz.*
+
+La lista era corta, con nombres de catálogo técnico. Bajó por ella sin apuro, leyendo, hasta que se le quedó el dedo detenido en una:
+
+*Doblaje clásico — Península.*
+
+Tocó la muestra.
+
+La cocina de dos ambientes se llenó de una voz que no tenía nada que ver con esa cocina. Una voz de mujer que no era una voz de mujer: era una voz de estudio, grabada en alguna parte para taparle la boca a otra, con la dicción impostada y el aire de más, con esa manera de terminar las palabras como si le sobrara tiempo y como si estuviera desnuda mientras las decía.
+
+*—Hola, señor. ¿En qué puedo atenderle?*
+
+Fernanda apretó *repetir*.
+
+*—Hola, señor. ¿En qué puedo atenderle?*
+
+Y otra vez.
+
+La voz sonó tres veces sobre el hule de la mesa, en un sexto piso interior de Ñuñoa, sin dueño todavía, hablándole al techo. No era la voz lo que le encendía la piel de los brazos —era una voz ridícula, y ella lo sabía, y la ridiculez era exactamente la parte que había que conservar. Era el destinatario. Era saber que esa voz de estudio la iba a decir, en algún momento, la misma boca que había dicho *huele a secretaria, weón* delante de doce hombres, y que la boca no iba a poder hacer nada al respecto.
+
+Fernanda se pasó la lengua por los labios y bajó a los rasgos.
+
+Ahí no había palabras, había barras. Diez o doce, con nombres de test de revista. Las fue subiendo una por una, sin apuro, con el índice, con la uña corta sin esmalte de su mano de administradora deslizándose hasta el tope y quedándose ahí un segundo, como se aprieta bien un tornillo. Al tope todas. Nada de sutilezas: ella no estaba construyendo una mujer, estaba construyendo una caricatura de mujer, la que él habría dibujado en una servilleta si le hubieran pedido dibujar lo más tonto que se le ocurriera. Que fuera exagerado. Que fuera imposible. Que se notara desde la puerta.
+
+Y al final quedó la última, sola en su recuadro, con la línea fina separándola de las demás.
+
+*Pudor.*
+
+Estaba a la mitad, por defecto, como viene todo el mundo de fábrica.
+
+Fernanda puso el dedo encima y no lo movió al tiro. Se quedó así, con la yema apoyada en la pantalla y el brillo iluminándole la cara en la cocina a oscuras, mirando la barra a la mitad, sabiendo perfectamente lo que era esa barra.
+
+Después la arrastró hasta el fondo. Despacio. Todo el recorrido, sin soltar, sintiendo cómo la línea se iba vaciando bajo la uña.
+
+*0.*
+
+El calor le llegó de golpe y ancho, sin punto fijo, y se le juntó abajo con una nitidez que le hizo cerrar las piernas debajo de la mesa y quedarse muy quieta. Fue lo más parecido a desnudar a alguien que había hecho en su vida, y lo había hecho con el dedo, sola, en la cocina, con el pelo suelto y el hombre durmiendo a nueve kilómetros de ahí sin enterarse de que le acababan de sacar la última cosa que llevaba puesta.
+
+Se quedó un rato largo respirando por la boca. No se tocó. Ya sabía.
+
+En la pantalla, el punto dorado seguía quieto en Vitacura. El número decía *53.*
+
+Sueño profundo. La cifra donde un hombre no defiende nada.
+
+Abajo del todo, la aplicación ofrecía dos cosas. Una decía *inyección completa* y estaba en gris, cerrada, con la cursiva chica de siempre. La otra estaba blanca:
+
+*Inyección gradual — iniciar.*
+
+Fernanda leyó *gradual* y le gustó más que lo otro. Gradual significaba noches. Significaba mañanas de él despertándose con algo nuevo adentro y buscándole una explicación de suela nueva. Significaba tener esto por delante y no atrás, dosis a dosis, con la barra siempre a un tercio de lo que ella podía.
+
+Apretó.
+
+La pantalla no hizo ninguna ceremonia. Cambió una línea, sin ruido, como cambiaba todo en esa aplicación:
+
+*Kitty — en curso.*
+
+Fernanda dejó el teléfono cargando junto a la cama, boca arriba, con la pantalla encendida hacia el techo. *53. 52. 53.* El pulso de su jefe subía y bajaba en la pieza como una respiración prestada, tranquilo, sin sospechar nada, mientras alguien le entraba a la casa por abajo.
+
+Se acostó de lado, mirando la luz de la pantalla en el cielo raso.
+
+Hacía dos días que la cuerda tenía dueña. Desde esa noche, además, la dueña tenía una empleada entrando a su primer turno: puntual, obediente, gota a gota, adentro de la cabeza del gerente.
