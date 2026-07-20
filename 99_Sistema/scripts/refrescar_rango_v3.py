@@ -37,6 +37,10 @@ from pose_rotation_v5 import (
 )
 
 GAL = os.path.join(REPO, "00_Ele", "galeria_outfits.md")
+# Archivo historico L85-L199 (era Ele V3.5; L1-L84 es Helena y NO se toca). Vive en un fichero
+# aparte pero la app lo lee igual — su filtro es `path.contains("galeria_outfits")`, verificado
+# en GitRepository.kt:302 — asi que sus prompts fosilizados SI llegan al generador.
+GAL_ARCHIVO = os.path.join(REPO, "00_Ele", "galeria_outfits_archivo.md")
 POSE_LABELS = ["Standing", "Back View", "Seated", "Side Profile", "Ditzy", "POV", "Odalisque"]
 LABEL2TOKEN = {"Standing": "standing", "Back View": "back_view", "Seated": "seated",
                "Side Profile": "side_profile", "Ditzy": "ditzy", "POV": "pov",
@@ -210,6 +214,23 @@ def clasificar(outfit, categoria):
 # puede salir de su propia oracion.
 GLOVE_RE = re.compile(r",\s*[^,.]*\bglove[^,.]*", re.I)
 
+# Segundo formato de clausula de guante (archivo historico L157-L199): el outfit se escribe con
+# PUNTOS en vez de comas, asi que el guante es una ORACION entera y GLOVE_RE —que exige coma
+# inicial— no la ve. Casos reales: L177/L182 "matching ivory cream vinyl elbow-length fitted
+# gloves, seamless." y L187/L188 "Hot pink mesh fingerless opera gloves with claw cut-outs
+# exposing French XXXL nails fully visible.". Se borra la oracion COMPLETA (son integramente de
+# guante; las unas ya viven en el Bloque A). El `[^.]*` no cruza el punto: igual que en GLOVE_RE,
+# el borrado no puede salirse de su propia oracion (leccion del L352).
+GLOVE_SENT_RE = re.compile(r"(?<=\.)\s*[^.]*?\bglove[^.]*\.", re.I)
+
+
+def quitar_guantes(texto):
+    """Canon absoluto: manos SIEMPRE desnudas (feedback_guantes_prohibidos). Cubre los dos
+    formatos de clausula y deja el espaciado limpio."""
+    t = GLOVE_SENT_RE.sub(" ", texto)
+    t = GLOVE_RE.sub("", t)
+    return re.sub(r"  +", " ", t)
+
 
 def construir_locks(neg, kind, mate_risk, consistencia):
     locks = [SKIN_LOCK, UNMARKED_ZONES, NO_ARMWEAR]
@@ -230,8 +251,14 @@ def construir_locks(neg, kind, mate_risk, consistencia):
 # el unico limite fiable entre el outfit y la pose es el final de la clausula de CALZADO —
 # el outfit siempre cierra nombrando el zapato. Se busca la ultima palabra de calzado y el
 # primer ". " despues de ella.
-SHOE_KW = re.compile(r"\b(pointed-toe|peep-toe|round-toe|platform|heel|boots?|pumps?|sandals?|"
-                     r"stiletto|mule)\b", re.I)
+# PLURALES OBLIGATORIOS (bug 20/07/2026): `heel\b` NO caza "heels" — el \b de cierre exige que
+# la palabra termine ahi. El L175 cierra su outfit en "8-inch clear stripper heels with rhinestone
+# ankle straps" y quedaba SIN limite localizable: sus 7 poses fallaban enteras con "no se pudo
+# ubicar el fin del outfit". Es la misma familia del bug de plurales ya documentado en `clasificar`
+# (\b a ambos lados perdia "stockings"/"back-seamed"). `boots?/pumps?/sandals?` ya lo traian; los
+# que faltaban eran justo los mas frecuentes como palabra final de la clausula de calzado.
+SHOE_KW = re.compile(r"\b(pointed-toe|peep-toe|round-toe|platforms?|heels?|boots?|pumps?|"
+                     r"sandals?|stilettos?|mules?|booties|bootie)\b", re.I)
 
 
 def _cortar_sin_ancla(prompt):
@@ -246,7 +273,17 @@ def _cortar_sin_ancla(prompt):
     for m in re.finditer(r"\.\s+", prompt[ini:]):
         corte = ini + m.start()
         if SHOE_KW.search(prompt[ini:corte]):
-            return prompt[:corte], prompt[ini + m.end():]
+            cola = prompt[ini + m.end():]
+            # GUARDIA DE COLA NO VACIA (20/07/2026): el corte solo es valido si detras queda una
+            # direccion de pose REAL. Cuando el outfit no nombra el calzado hasta despues de la
+            # pose (L187 Ditzy/POV/Odalisque: la clausula se corta en los guantes y el zapato solo
+            # reaparece DENTRO de la pose), el unico fin de frase con calzado detras es el punto
+            # FINAL del prompt: `head` se traga el prompt entero y `cola` sale vacia. El resultado
+            # era un prompt con SINGLE_FRAME al final y CERO pose — roto en silencio. Fallar aqui
+            # lo manda a la lista de "requieren mano", que es lo correcto: son datos defectuosos.
+            if len(cola.strip()) < 40:
+                return None, None
+            return prompt[:corte], cola
     return None, None
 
 
@@ -276,8 +313,25 @@ def upgrade_v2(prompt, label, marks_new):
     return p, None
 
 
+# ADN de busto pre-L185. La Ama fijo los implantes en 1000cc el 18/05/2026 y el token quedo
+# declarado "Hard-Sync inamovible en BLOQUE A" (identidad_ele.md §II), reemplazando al antiguo
+# `full bust`. El rango L157-L184 del archivo historico nunca se migro: 26 looks lo arrastran.
+# La galeria viva tiene 0 ocurrencias, asi que esto solo toca al archivo.
+BUST_VIEJO = "slender hourglass silhouette, full bust, wide hips"
+BUST_CANON = ("slender hourglass silhouette, massive 1000cc breast implants each side, "
+              "ultra high-profile, perfectly spherical augmented bust, obviously fake "
+              "gravity-defying shape, wide hips")
+
+
+def normalizar_adn(prompt):
+    """Sube el Bloque A al ADN vigente. Se aplica ANTES de MARKS_RE porque el token de busto
+    vive justo antes de 'wide hips, ', que es el ancla izquierda del span de marcas."""
+    return prompt.replace(BUST_VIEJO, BUST_CANON)
+
+
 def transformar(prompt, label, marks_new, locks, seam, canonico=True):
     """Cirugia sobre UNA pose pendiente. Devuelve (nuevo, motivo_si_falla)."""
+    prompt = normalizar_adn(prompt)
     # Guardia por MARCADOR, no por la constante exacta: el rango L771+ trae una version
     # ANTERIOR de SINGLE_FRAME (v2, sin la clausula anti-espejo). Comparar contra la
     # constante v3 no la reconocia y le appendeaba la capa encima -> doble inyeccion.
@@ -316,7 +370,7 @@ def transformar(prompt, label, marks_new, locks, seam, canonico=True):
         return None, "span de marcas no encontrado"
 
     head = MARKS_RE.sub(lambda m: m.group(1) + marks_new + m.group(3), head)
-    head = GLOVE_RE.sub("", head)            # canon: manos siempre desnudas
+    head = quitar_guantes(head)              # canon: manos siempre desnudas
     head = head.rstrip().rstrip(",")
 
     if seam and label not in SEAM_SKIP:
@@ -340,16 +394,17 @@ def main():
     lo, hi = int(sys.argv[1]), int(sys.argv[2])
     apply = "--apply" in sys.argv
     todas = "--todas" in sys.argv
+    gal = GAL_ARCHIVO if "--archivo" in sys.argv else GAL
     # newline="" en LECTURA y escritura: la galeria es CRLF y el proceso paralelo del bot
     # tambien la escribe. Leer con saltos universales convertiria todo a LF y el commit
     # saldria con el archivo entero reescrito (ver feedback_eol_bot_readmes).
-    text = open(GAL, encoding="utf-8", newline="").read()
+    text = open(gal, encoding="utf-8", newline="").read()
     img = imagenes_existentes(lo, hi)
 
     parts = re.split(r"(?m)^(## .*?Look (\d+):.*)$", text)
     salida = [parts[0]]
     tot_pend = tot_ok = 0
-    fallos, sin_guante, reporte = [], 0, []
+    fallos, sin_guante, reporte, negs_nuevos = [], 0, [], []
 
     for i in range(1, len(parts), 3):
         header, num, body = parts[i], int(parts[i + 1]), parts[i + 2]
@@ -429,9 +484,23 @@ def main():
 
         if hechas:
             nuevo_neg = build_negative(**neg)
-            nuevo_body = re.sub(
+            nuevo_body, n_sub = re.subn(
                 r"(\*\*Negative Prompt:\*\*\s*)`[^`]*`",
                 lambda mm: mm.group(1) + "`" + nuevo_neg + "`", nuevo_body, count=1)
+            if not n_sub:
+                # El look NUNCA tuvo bloque negativo (102 de 121 en el archivo historico). Sin el,
+                # el positive pelea solo — el mismo agujero que costo 60 looks / 420 poses en el
+                # L711 (feedback_negative_perdido_L711). Se INSERTA tras el ultimo fence de prompt,
+                # que es donde vive en los looks que si lo traen (formato L181+).
+                fences = list(re.finditer(r"```", nuevo_body))
+                if fences:
+                    corte = fences[-1].end()
+                    eol = "\r\n" if "\r\n" in nuevo_body else "\n"
+                    bloque = f"{eol}{eol}**Negative Prompt:** `{nuevo_neg}`{eol}"
+                    nuevo_body = nuevo_body[:corte] + bloque + nuevo_body[corte:]
+                    negs_nuevos.append(num)
+                else:
+                    fallos.append((num, "-", "sin fence: no se pudo insertar el negativo"))
 
         reporte.append((num, len(hechas), categoria[:22],
                         "".join(k[0].upper() if v else "·" for k, v in flags.items()),
@@ -440,6 +509,7 @@ def main():
 
     print(f"Rango {lo}-{hi}  |  poses pendientes: {tot_pend}  |  transformadas: {tot_ok}")
     print(f"Looks con guante retirado del outfit (canon manos desnudas): {sin_guante}")
+    print(f"Looks que NO tenian bloque negativo y se les inserto ({len(negs_nuevos)}): {negs_nuevos}")
     print(f"\nFallos ({len(fallos)}) — requieren mano:")
     for f in fallos:
         print("   ", f)
@@ -448,8 +518,13 @@ def main():
         print(f"   L{r[0]}  {r[1]}p  {r[2]:<22} marcas={r[3]:<5} {r[4]:<4} {r[5]}")
 
     if apply:
-        open(GAL, "w", encoding="utf-8", newline="").write("".join(salida))
-        print("\n>>> APLICADO sobre galeria_outfits.md")
+        # ESCRIBIR SOBRE `gal`, NUNCA SOBRE `GAL` (incidente 20/07/2026): al agregar --archivo
+        # cambie la lectura a `gal` y deje la escritura en la constante GAL -> el contenido del
+        # ARCHIVO se escribio encima de galeria_outfits.md y borro 38.888 lineas de la galeria
+        # viva. Se recupero con `git checkout` porque el arbol estaba limpio. Por eso el nombre
+        # del fichero se imprime desde la variable: si vuelve a divergir, se ve en el reporte.
+        open(gal, "w", encoding="utf-8", newline="").write("".join(salida))
+        print(f"\n>>> APLICADO sobre {os.path.basename(gal)}")
     else:
         print("\n>>> DRY-RUN (sin escribir). Reejecutar con --apply")
 
