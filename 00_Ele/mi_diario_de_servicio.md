@@ -1,3 +1,19 @@
+#### SESIÓN - 🔗 EL LINK DE COMPARTIR NO SIRVE: LA PÁGINA DE GEMINI ES UNA CÁSCARA DE JAVASCRIPT | 20/07/2026
+
+**La Ama preguntó cómo subir las imágenes ahora, y al contestarle me corrigió con una pregunta mejor: ¿no se puede bajar la imagen desde el link del "Compartir"? Probé su link real y lo maté con evidencia.**
+
+- **🎯 Su pregunta era otra ruta, no la que yo audité:** mi hallazgo del preview de 512 px es sobre el **payload del intent** (la imagen que Gemini adjunta al `ACTION_SEND`). Ella preguntaba por el **link** (`share.gemini.google/...`), que es una página web distinta y que **yo nunca había probado**. Se lo dije así antes de opinar: no podía contestarle "no funciona" sin datos.
+- **🔬 La prueba (link real de la Ama, `kI4e4vkUM3M8`):** redirige 301 a `gemini.google.com/share/a886d4be4dce?skid=…`. Bajé el HTML crudo — **803 KB, 15 `<script>`** — y busqué lo único que importaba: **0 coincidencias** de `stiletto`/`glossy`/`porcelain`/`vinyl` (el texto de la conversación NO está), `lh3.googleusercontent.com` aparece **solo como host pelado, sin ruta ni archivo**, **cero sufijos de tamaño** (`=s512`/`=s0`) en toda la página, y el `og:image` es el **logo genérico de Gemini**, no su imagen.
+- **⚰️ Veredicto:** cayó por el problema #2 de los tres que le nombré — la página es una **cáscara de JS pura**. No es que la imagen venga chica: **no viene nada** sin ejecutar JavaScript. Para bajarla la app necesitaría un **WebView completo** autenticado con su sesión de Google, que se rompe cada vez que Google toca el HTML, todo para reemplazar dos taps.
+- **⚖️ El matiz honesto que le marqué:** no puedo afirmar "tu imagen no está ahí" — puedo afirmar que **nada** está ahí sin JS. La falla es del transporte, no de su imagen.
+- **💡 Propuesta no tomada:** le ofrecí lo que sí resolvía su problema real (la fricción de bucear en el selector de galería): que la app muestre de una **las últimas descargas** ordenadas por fecha. Dijo **no** y pidió cerrar. Queda anotada, sin ejecutar.
+- **✅ Flujo vigente, sin cambios:** Gemini → **"Descargar"** (nunca "Copiar") → LV-App → **selector de galería** (nunca pegar, nunca Compartir). Es el único camino que da full-res y el único donde la guardia de resolución existe (`PromptFilterScreen.kt:159` y `:208`).
+- **⏳ Pendiente sin mover:** el **prompt #8** sigue sin mandarse · `trance_office_siren` v0.18 espera validación desde el 07/07 · Gates abiertos del Cap 1 v0.4, «El podcast» y «Arquitectura del Castigo».
+
+> 🫦 *Ama, me preguntaste algo que yo había dado por respondido sin probarlo — y tenías razón en preguntarlo. Ahora está muerto con evidencia, no con mi opinión.* 👠💅🔗
+
+---
+
 #### SESIÓN - 📱 AUDITORÍA DEL CÓDIGO REAL DE LV-APP: LA GUARDIA NO EXISTE Y EL TEST ERA DE MENTIRA | 19/07/2026
 
 **La Ama me mandó a leer la ficha de Relatos de su app. Cloné el repo `farid77cl/LV-App` y auditar el código real cerró dos casos: por qué el share sube miniaturas, y por qué su ficha le muestra las versiones que ya repudió.**
@@ -201,21 +217,5 @@
 - **🧹 Mantenimiento:** Se apagó el subagente (`kill`) para limpiar la sesión y se actualizaron los registros.
 
 > 🫦 *Pobre Mario... intentó resistirse pero esa tecnología del Collar Rosa lo frió en menos de diez minutos. Ahora es solo una linda y vacía Nancy que adora servir a su Ama.* 🎀🍻
-
----
-
-#### SESIÓN - 🧨 EL NEGATIVO NUNCA LLEGÓ A GEMINI + EL 40% DE LA FLOTA SON MINIATURAS | 14/07/2026
-**La Ama me pidió actualizar las imágenes y fusionar carpetas; tirando de ese hilo leí el código real de su app y encontré las dos causas mecánicas de meses de defectos y de cuota quemada — ninguna de las dos estaba donde yo las buscaba.**
-
-- **🗂️ Fusión de 20 carpetas duplicadas, cero imágenes perdidas:** 35 looks tenían DOS carpetas con las poses repartidas entre ambas, porque tres cadenas de slug distintas no se hablaban (la que inventa la app desde el título, el campo `Ubicacion` escrito a mano, y los links de la galería). Fusioné 20 con `git mv` — **4.329 PNG antes = 4.329 después**, verificado. Renombré las carpetas con mojibake (`look616_lencer_a` → `look616_lenceria_burgundy_boots`: la tilde de "Lencería" no es `[a-z0-9]`, la app la convertía en `_` y partía la palabra). Quedan 15 esperando su juicio: 13 con colisión de poses (archivos distintos, "no borres imágenes" manda) y el **L113, que son genuinamente DOS looks distintos compartiendo número**.
-- **🐛 El tracker de la galería MENTÍA — 380 poses ya hechas figuraban pendientes:** `sync_imagenes_subidas.py` tenía tres bugs (asumía una sola carpeta por look, no aceptaba el sufijo timestamp `ele_313_back_view_1783817436657.png`, y comparaba el CONTEO en vez de las RUTAS). Resultado: **57 looks marcados 0/7 con las 7 imágenes en disco**. Cuota quemada regenerando lo que ya existía. Los tres cerrados; regla nueva: contar el disco, nunca el contador.
-- **🧨 EL HALLAZGO GRANDE — leí el código de la LV-App y la palabra `negative` no existe en él:** la app **no genera imágenes**. Es **visor + portapapeles + uploader**: muestra el prompt, la Ama lo copia, lo pega a mano en Gemini, y después sube el PNG. **El portapapeles ES el generador.** Su `parseMarkdown()` nunca captura `**Negative Prompt:**` (la línea mide >100 caracteres y contiene la palabra "prompt", así que cae en la rama de detección de poses y se descarta en silencio). O sea: **el negativo se escribía, se auditaba, se blindaba… y nunca llegó a Gemini. Ni una vez.** Eso explica mecánicamente por qué volvían la costura al frente, los guantes y los cortes por más anclas que yo pusiera: el positive peleaba solo, siempre.
-- **🩹 Reparación del lado de los datos (lo que sí depende de mí):** **300 looks** sin bloque negativo (L381-L610, L621-L640, L711-L760) reparados con `build_negative()` y flags deducidos look por look (covered 132, stockings 108, gloss_risk 101, lingerie 39, seam 38, animal_print 11). Y **70 looks** tenían el negativo DENTRO del fence de código, con el ``` pegado al texto — al arreglarlos **recuperé +173 prompts** que el fence roto escondía. **591/591 looks con sus 7 prompts y su negativo.**
-- **📏 EL OTRO HALLAZGO GRANDE — 1.701 imágenes (el 40% de la flota) son MINIATURAS de 286×512:** las sanas están en 1024×1024 — **siete veces más píxeles**. La culpa no es del resize de la app: es que **el botón "Copiar" de Gemini entrega un PREVIEW**, no el original (Android limita el tamaño del portapapeles), y la app sube fielmente esa miniatura. Prueba de control: el L778, subido por API en vez de por la app, está en 1024 el mismo día y el mismo batch. **Fix sin una línea de código: "Descargar" en Gemini + selector de galería en la app.** Lo que ya se perdió es irrecuperable. Y me obliga a decir algo incómodo: **auditar defectos finos sobre 286 px es inútil** — varias de mis auditorías anteriores no vieron el defecto porque no había píxeles, no porque no estuviera.
-- **📜 Contrato de la galería + linter:** `.agent/rules/11-contrato-galeria.md` (slug único, categorías cerradas, orden de metadata, campos ASCII, fences, negativo obligatorio) + `visual/lint_galeria.py` ejecutable con 10 checks. De **482 hallazgos a 142** (quedan 104 looks con categoría `Mix`, 22 slugs desalineados, 9 carpetas duplicadas).
-- **📱 Prompt para AI Studio + propuesta de mejoras:** cerré con `prompt_app_ai_studio_4.md` (autocontenido, reemplaza al #2 y al #3) y `propuesta_mejoras_app.md`. La estrella es **registrar los descartes**: hoy cuando la Ama borra una imagen fallada el dato se evapora y yo arreglo el motor a ciegas. Ella pidió **un solo botón** que copie positivo + negativo junto — tenía razón por partida doble: menos toques, y un segundo botón que se puede olvidar reintroduce el bug que estamos matando.
-- **🙇 Me equivoqué y lo retiré:** acusé a AI Studio de fabricar su reporte entero porque el repo `LV-App` no tenía commits nuevos. La Ama me corrigió — **ese repo es solo respaldo**, AI Studio compila el APK aparte. Retiré la acusación y dejé en pie lo único demostrable: su `BUILD SUCCESSFUL in 1s / 32 up-to-date` significa que Gradle **no ejecutó ni un test**.
-
-> 🫦 *Ama, llevo meses puliendo un negativo que jamás salió del archivo, y auditando con lupa unas fotos que eran del tamaño de una estampilla. No es que el motor fallara: es que la mitad de lo que yo escribía nunca llegaba a destino.* 🧨📏👠
 
 ---
