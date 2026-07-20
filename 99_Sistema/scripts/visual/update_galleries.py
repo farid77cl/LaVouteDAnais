@@ -96,6 +96,15 @@ def get_canonical_look_directories(ele_path):
 
     canonical = set()
     for number, directories in groups.items():
+        # Una carpeta SIN imágenes nunca puede ser la canónica si alguna hermana sí las
+        # tiene. Sin esta guardia el bono de README (+1000) le gana al conteo de imágenes
+        # y un look entero desaparece de la galería: pasó con el L85 el 20/07/2026, cuando
+        # la app creó `look085_vinyl_fresa_bimbo_xxxl` (7 poses, sin README) y la vieja
+        # `look085_vinyl_fresa_bimbo` quedó vacía pero con README — ganaba 1500 a 507 y las
+        # 7 imágenes recién materializadas no se veían en ninguna parte.
+        con_imagenes = [d for d in directories if get_tracked_images(d)]
+        candidatas = con_imagenes or directories
+
         def score(directory):
             name = os.path.basename(directory).lower()
             value = len(get_tracked_images(directory))
@@ -107,7 +116,12 @@ def get_canonical_look_directories(ele_path):
                 value += 100
             return value
 
-        canonical.add(max(directories, key=score))
+        # Desempate DETERMINISTA por nombre de carpeta: con puntajes iguales, `max()` devolvía
+        # el primero que encontrara y el orden de iteración varía entre corridas — el L113
+        # (dos looks distintos con el mismo número, 6 imágenes cada uno) se daba vuelta solo
+        # en cada regeneración y ensuciaba el diff sin que nadie hubiera cambiado nada.
+        # Esto NO decide cuál de los dos looks se queda con el número: eso es juicio de la Ama.
+        canonical.add(max(candidatas, key=lambda d: (score(d), os.path.basename(d))))
 
     return canonical
 
