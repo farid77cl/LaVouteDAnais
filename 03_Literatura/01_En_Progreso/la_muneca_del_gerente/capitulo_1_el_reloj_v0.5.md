@@ -901,3 +901,221 @@ Fue lo barato que le había parecido el precio.
 Y después, ya cayéndose adentro del sueño, algo mucho más viejo y más suyo se le acomodó solo en la cabeza, con un alivio de manta: que faltaba un día para el lunes.
 
 Los lunes eran suyos.
+
+***
+
+Se despertó a las seis, antes del despertador, con el cuerpo liviano de una manera que no le correspondía a un hombre que se había acostado a la una y media derrotado.
+
+Lo primero que registró, todavía en la oscuridad, fue la muñeca izquierda. La tenía vuelta hacia arriba sobre la sábana, en la misma posición en que se había dormido, ofrecida al techo. La bajó. Se sentó en la cama.
+
+Después se metió a la ducha con el reloj puesto.
+
+No lo pensó como una rendición. Lo pensó como lo que hace un hombre práctico: el reloj era de los buenos, el reloj aguantaba, no era la primera vez en la semana y no se había echado a perder ni un poco. Se enjabonó, se enjuagó, y el vapor le fue calentando el metal hasta que el metal quedó a la temperatura exacta de la piel y dejó de notarse, que era lo que llevaba pasando desde el segundo día. Se lavó el pelo con las dos manos y el pozo negro le pasó por delante de la cara, mojado, brillando bajo la luz del baño.
+
+Seis días antes se había parado en esa misma ducha con una toalla enrollada en la muñeca para no mojarlo. Ahora se lo lavaba junto con el cuerpo. Nadie le había pedido que dejara de intentarlo: dejó solo, como se deja de mirar el precio de las cosas que uno ya compró.
+
+Frente al espejo se hizo la cara.
+
+Eso lo hacía todos los lunes, de hecho, aunque nunca se lo había dicho a sí mismo con esas palabras. Se afeitaba contra la veta, se ponía la loción, se peinaba con los dedos hacia atrás, y en algún punto del proceso la cara empezaba a obedecerle: la mandíbula un poco adelante, los ojos un poco más quietos, la boca con esa media sonrisa que él no ponía, sino que dejaba puesta. La cara de la reunión de los lunes. Una cara que había que lograrse, como se logra un tiro de golf.
+
+Esa mañana le costó más y la logró igual.
+
+—Ya —le dijo al del espejo, con la corbata en la mano—. Se acabó la weá.
+
+Tenía un plan y el plan era simple, de hombre práctico: hablar. Hablar todo el rato. La boca ocupada no está disponible. Iba a llevar la reunión él, de punta a punta, sin pausas, sin silencios, sin dejarle un hueco a nada, y a la tarde iba a llamar a un médico de verdad, un neurólogo, alguien con apellido, y a fin de mes tenía la reunión grande con la plana mayor y para esa fecha esto iba a estar resuelto porque las cosas se resuelven.
+
+Se puso el traje azul noche, el mismo del lunes anterior, por si acaso.
+
+Y en el ascensor del estacionamiento, bajando, mientras se acomodaba el puño de la camisa medio centímetro para que el reloj se viera, la voz le dio los buenos días.
+
+*—Uy… qué guapo va el señor hoy.*
+
+Cristóbal apretó la mandíbula y miró el número de los pisos.
+
+Pero la piel se le erizó igual, en oleada, del codo al hombro, y por debajo del asco —que llegó puntual, ancho, de arriba abajo— hubo otra cosa que le llegó antes que el asco y que él alcanzó a sentir con toda claridad en el segundo y medio que duró: una sed chiquita, doméstica, casi tierna. Como cuando uno entra a la cocina y hay alguien.
+
+*Buenos días*, alcanzó a pensar, y se le heló el estómago al darse cuenta de que lo había pensado como respuesta.
+
+—No —dijo en voz alta—. No, po.
+
+Y salió al estacionamiento con la cara puesta.
+
+***
+
+Fernanda llegó a las siete y diez.
+
+Encendió la cafetera grande. Bajó las doce tazas y las alineó boca abajo en la bandeja, tres filas de cuatro, asas hacia la izquierda. Repasó la agenda de él, confirmó la tintorería y dejó los papeles del cierre sobre el escritorio del gerente, alineados con el borde, con el ajuste final de un milímetro que no le pide nadie.
+
+Después, en su puesto, con el edificio todavía vacío, abrió el panel.
+
+*Habla: disponible.*
+
+Se quedó mirando la palabra bastante rato, con las dos manos planas a los lados del teléfono.
+
+*Habla* llevaba una semana gris, con su cursiva chica debajo, junto a *Marcha* y *Persona*. Y había amanecido blanca justo esa mañana. No la mañana anterior, ni la siguiente: esa. La aplicación no explicaba nunca nada, pero acababa de decir algo bastante claro y bastante frío: que además de contarle el pulso y de ordenarle los lápices, también sabía qué día era. Que estaba mirando el calendario del hombre igual que ella, y que había esperado hasta el lunes.
+
+Fernanda sintió el escalofrío subirle por la nuca y se dio cuenta, un segundo después, de que no era miedo. O de que era miedo y era lo otro, las dos cosas trenzadas, indistinguibles, y de que lo otro pesaba más.
+
+No lo tocó. Se paró, fue a la cocina y empezó a servir las doce tazas.
+
+***
+
+Cristóbal entró al piso catorce a las ocho y veintinueve, y entró bien.
+
+Entró rápido, hablando por teléfono, con el saco abierto y la carpeta bajo el brazo, y dejó la conversación cortada en el marco de la sala con un "ya, después vemos" que sonó exactamente como sonaba siempre. Los doce ya estaban. Se sentó en la cabecera, se abotonó el saco al sentarse, apoyó los dos antebrazos abiertos sobre la mesa y dejó que la luz de los tubos se le fuera al pozo negro de la muñeca izquierda.
+
+La sala se calló sola.
+
+Y ahí, en el segundo exacto en que el silencio se le acomodó encima como un abrigo, Cristóbal Undurraga pensó, con una tranquilidad ancha y tibia que le bajó del pecho a la hebilla del cinturón:
+
+*La tengo controlada.*
+
+Fue el último pensamiento de dueño que tuvo en su vida, y le duró veinte minutos.
+
+Y hay que decir que fueron veinte minutos buenos. Fueron, probablemente, los mejores veinte minutos que Cristóbal hizo en esa mesa en tres años.
+
+Habló sin parar y habló bien. Abrió con la operación grande y la desarmó en tres partes, repartió, puso plazos, se acordó de dos cifras sin mirar el papel, corrigió a Squella con una precisión que dejó a Squella agradecido, hizo una talla sobre los bancos que la mesa celebró de verdad y no por oficio. Se paró en la pizarra. Dibujó el trimestre completo con el plumón y la mano firme. Vial asentía. El de finanzas tomaba nota. Sanhueza, que llevaba una semana caminando pegado a la pared, se atrevió a hacer una pregunta y él se la contestó bien, y hasta le dijo *buena la pregunta*, y la sala entera se movió medio centímetro hacia adelante porque el jefe estaba de vuelta.
+
+Cristóbal lo sintió en el cuerpo. Sintió la sala volver a acomodarse alrededor suyo, la temperatura conocida, la mano abierta de la atención de doce hombres, y por primera vez en seis días se sintió entero. Se le olvidó el reloj. Se le olvidó la sierra, la lupa, el papelero vacío, el kinesiólogo diciéndole que la musculatura estaba impecable.
+
+Afuera, Fernanda entró con la bandeja.
+
+Sirvió como servía siempre, por la derecha, en silencio, sin cruzarse por delante de nadie: primero la cabecera, después el lado del ventanal, después el lado del pasillo. La primera taza. La segunda. La tercera. Nadie levantó la vista. La quinta. La sexta.
+
+La séptima taza la dejó frente a Vial, y Vial se rió de algo que dijo el jefe y no la miró.
+
+Y Fernanda, con la bandeja apoyada en la cadera, metió la mano libre en el bolsillo de la falda.
+
+Ahí, de pie, a tres metros de la cabecera, con doce hombres riéndose de una talla sobre los bancos, abrió *Habla* con el pulgar y llevó la barra un cuarto del recorrido. No más. Un cuarto.
+
+Una puerta entornada, no una puerta abierta. Lo pensó exactamente así mientras lo hacía, y el calor le llegó al mismo tiempo que el pensamiento, ancho, sin punto fijo, y le bajó por dentro hasta juntarse donde ya vivía todo lo demás desde hacía una semana. Sacó la mano del bolsillo. Levantó la octava taza.
+
+La octava era la de Sanhueza.
+
+—…Y por eso les digo que se puede —estaba diciendo Cristóbal, girando la carpeta sobre la mesa con un dedo, con la sonrisa lista, buscando el lugar donde ponerla—. ¿Vieron? Miren el informe del Sanhueza esta semana. Otra cosa. ¿Vieron que se puede? Cuando el informe no se lo dicta a la—
+
+La lengua se le fue al paladar a armar una forma que él no había pedido.
+
+Fue eso, y fue en mitad de la palabra, y Cristóbal lo sintió todo desde adentro con una nitidez espantosa: la garganta se le subió media octava, sola, como si alguien le hubiera corrido una perilla; el aire le cambió de camino y le salió por delante, más adelante, más liviano; los labios se le adelantaron a redondear una vocal que no era la que venía. Alcanzó a mandar la orden de cerrar la boca. La orden llegó tarde, como llegan las órdenes cuando la mano ya soltó el lápiz.
+
+Y por la boca de Cristóbal Undurraga, en la cabecera de la mesa, salió una voz de mujer.
+
+—…*Enseguidaaa, señores.*
+
+Salió con la ese arrastrada. Salió con el aire de más, con la vocal estirada al final, con esa dicción impostada y sonriente de las películas dobladas de las tres de la mañana. Salió de su propia garganta, con su propio aire, y no era suya en ninguna parte.
+
+—*¿Queréis que os atienda? Que yo os atiendo a todos, no os preocupéis… ay, qué gustito…* —y hubo una risita, corta, húmeda, con un jadeo chico adentro, y la risita también salió de él—. *…Servir a tantos señores.*
+
+Después la garganta le volvió a su sitio, y quedó el silencio.
+
+No fue el silencio de siempre. El silencio de siempre en esa sala era espeso y agradecido, un silencio de doce hombres esperando la primera palabra del jefe. Este fue otro. Este fue delgado, transparente, absolutamente nuevo, un silencio en el que se oyó con toda claridad el aire acondicionado, la calle catorce pisos más abajo y el ruido chiquito de una taza de café asentándose en un platillo.
+
+Fernanda dejó la octava taza frente a Sanhueza y se enderezó despacio, con la bandeja en las dos manos, la espalda recta, la cara perfectamente neutra.
+
+Doce hombres miraban a Cristóbal Undurraga.
+
+Y Cristóbal Undurraga, en la cabecera de su propia mesa, con el plumón todavía en la mano, sentía cómo la sangre se le iba de la cara en oleada, del mentón hacia arriba, y cómo la camisa se le pegaba a la espalda de golpe, y cómo el corazón se le iba a las sienes y le tapaba el oído, y sobre todo sentía el gusto: que le había quedado un gusto en la boca, un rastro, la forma de esas palabras todavía tibia en la lengua, como cuando uno se acaba de comer algo y todavía lo tiene.
+
+—El call center —dijo.
+
+Le salió con su voz. Gracias a Dios le salió con su voz, ronca, demasiado fuerte.
+
+—Estamos haciendo unas pruebas de… de las grabaciones del call center. La IA esta. —Se rió. Fue lo peor que hizo—. Se me pegó la weá.
+
+Nadie se rió con él.
+
+Ese fue el momento, y hasta él lo entendió: nadie se rió con él. En tres años, cualquier cosa que saliera de esa boca —una talla buena, una talla mala, una humillación, un carraspeo— había sido recibida por doce hombres con una risa de repuesto. Y esta vez la sala se quedó quieta, con los ojos bajos en las carpetas, con esa incomodidad física de los que acaban de ver algo que no debían.
+
+Squella miró la mesa. El de finanzas se puso a escribir con mucha aplicación.
+
+Y Vial se rió.
+
+Vial se rió tarde, solo, dos segundos después que nadie, con una risa corta y seca que no era la de siempre. La de siempre era la risa del que agradece. Esta fue la risa del que archiva. Vial se rió mirándolo a la cara, con la cabeza un poco ladeada, y después bajó los ojos a su cuaderno y anotó algo, y siguió mirándolo.
+
+Bajo el canto de la mesa, en el hueco de las rodillas, se encendieron tres pantallas.
+
+Fernanda las contó desde donde estaba, con la bandeja vacía en las manos: una a la izquierda del ventanal, dos en el lado del pasillo. Tres pulgares escribiendo rápido, de esa manera torcida en que se escribe sin mirar. El rumor no iba a nacer en el pasillo, ni en el café de las once, ni a la salida. Estaba naciendo ahí mismo, en tiempo real, a metro y medio del hombre del que se trataba, mientras el hombre seguía de pie con el plumón en la mano tratando de acordarse de qué venía hablando.
+
+Y entonces el reloj le pagó.
+
+Le entró por la muñeca izquierda como todas las veces, pero no fue como todas las veces. Fue más grande. Fue muchísimo más grande. Le subió del antebrazo al hombro y del hombro al pecho en una crecida ancha y lenta, se le abrió en el esternón y siguió bajando, y le llegó a la pelvis entera y ahí se quedó, repartido, tibio, latiendo despacio, sin punto fijo, aflojándole las piernas de un modo que lo obligó a apoyar los nudillos en la pizarra.
+
+En la peor mañana de su vida. Delante de doce personas. Justo ahí.
+
+Cristóbal cerró los ojos medio segundo y el placer le pasó por encima de la vergüenza como pasa el agua caliente por encima de las manos frías. Todo se le puso lejos: las tres pantallas, la risa de Vial, el silencio. Todo quedó envuelto en algodón, a dos piezas de distancia, y en el centro quedó solo eso, ancho y bueno, subiendo y bajando en el mismo lugar donde a las nueve menos veinte de la mañana de un lunes no se le afloja nada a un hombre delante de su equipo.
+
+Y adentro, cerquita, contra el lado de adentro de la oreja, la voz le ronroneó sin palabras. Un sonido largo, satisfecho, de gata en el sol.
+
+El cuerpo de Cristóbal Undurraga hizo entonces la cuenta que llevaba una semana aprendiendo, y la hizo solo, sin consultarle, con la limpieza de una máquina registradora: ceder a solas pagaba sueldo. Ceder en público pagaba bono.
+
+Él no lo formuló. Él no formuló absolutamente nada. Se pasó la mano por la boca, se guardó el plumón en el bolsillo del pantalón —cosa que no había hecho nunca— y se sentó.
+
+—Ya. Los márgenes —dijo—. Última parte y cerramos.
+
+Cerró en dos minutos.
+
+La reunión comercial de los lunes duraba noventa minutos desde que Cristóbal Undurraga tenía uso de sala. Esa duró veintidós. Repartió lo que quedaba sin discusión, dijo *cualquier cosa por correo*, dijo *a fin de mes tenemos la reunión grande con la plana mayor* y la frase, que era su frase favorita, le salió esta vez con un pozo adentro, y se paró antes que todos.
+
+Salió primero.
+
+Eso también fue nuevo. En tres años, Cristóbal salía último de esa sala: se quedaba parado en la cabecera juntando papeles despacio, dejando que los doce desfilaran por delante, recibiendo comentarios, palmeando hombros, estirando el final como se estira lo rico. Esa mañana cruzó la puerta de vidrio antes que nadie, con la carpeta contra el pecho y la vista al frente, y detrás de él la sala se quedó llena de once hombres que no se pararon al tiro.
+
+Pasó por delante del mostrador de Fernanda sin verla.
+
+Después, a mitad del pasillo, se dio vuelta.
+
+—Fernanda.
+
+—Dígame.
+
+Se la quedó mirando dos segundos. Tenía la cara todavía sin sangre y la corbata perfecta, y por primera vez desde que ella trabajaba en ese piso, Cristóbal Undurraga le miró la cara buscando algo. Buscó si ella lo había oído. Buscó si ella también estaba anotando. Buscó, y encontró una mujer de treinta y tantos con el pelo tomado y una bandeja vacía en las manos, mirándolo con la atención cortés de quien espera una instrucción.
+
+—Nada —dijo—. Consígueme la hora con un neurólogo. Para hoy.
+
+—Ya.
+
+Se metió a su oficina y bajó las persianas de la pared de vidrio, que llevaban tres años arriba.
+
+Fernanda se quedó un momento mirando el tabique cerrado. Después fue a la sala, recogió las doce tazas una por una y las cargó en la bandeja mientras los últimos salían hablando en voz baja y se callaban al pasar por su lado, que era una cosa que tampoco pasaba nunca.
+
+***
+
+En la cocina, con la puerta entornada y el agua corriendo, sacó el teléfono.
+
+*Expresión pública completada. Refuerzo administrado.*
+
+Debajo, la barra de *Habla* estaba otra vez en cero. Había vuelto sola a reposo, sin que ella la tocara, con la prolijidad de una empleada que deja las cosas donde estaban.
+
+Fernanda apoyó las dos manos en el borde del lavaplatos y se quedó así, con la cabeza baja y el agua corriendo, y por fin dejó que le llegara.
+
+Le llegó completo. Le llegó desde el vientre, ancho, abierto, sin punto fijo, y le bajó por dentro y se le juntó entre las piernas con esa nitidez que ya conocía y que ya sabía administrar, y esta vez traía adentro toda la semana: la novena taza, el mármol bajo las rodillas, *como las nanas*, la tarjeta doblada en dos en el fondo del papelero, el sorbo que no llegó, la mano que peleó y ganó, la barra del pudor vaciándose bajo la uña. Todo eso desembocó a la vez en un solo lugar del cuerpo mientras el agua caía sobre doce tazas sucias.
+
+Se apretó los muslos una vez y no se lo permitió de nuevo.
+
+Porque ahí estaba lo otro, lo que había ido aprendiendo toda la semana y que esa mañana entendió del todo: que podía irse al baño del piso, cerrar el pestillo y terminar con esto en dos minutos, y que no lo iba a hacer. No por decencia y no por miedo. Porque dejarlo así —lleno, tirante, sin gastar, latiendo bajo la falda de trabajo mientras contestaba correos— era mejor. La semana entera se lo había enseñado con el cuerpo, dosis por dosis: lo que se guarda rinde más, y ella tenía por delante una cantidad de días que ni siquiera había empezado a contar.
+
+Guardó el gesto. Otra vez. Ya iba a llevar la cuenta cuando le hiciera falta.
+
+Después lavó las doce tazas. Once tenían café tomado hasta el fondo.
+
+La doceava era la de la cabecera. Estaba entera, hasta el borde, helada: la había servido a las ocho y treinta y cinco y él no había alcanzado a tocarla.
+
+Fernanda la sostuvo un momento, mirando la superficie quieta con la nata fina que se le hace al café frío. Después la inclinó sobre el desagüe y la vació entera, sin apuro, viendo cómo el chorro café se iba por el agujero de acero.
+
+Enjuagó la taza. La secó. Y la dejó boca abajo sobre el escurridor, junto a la suya.
+
+A las once no sonó el citófono. Ella igual hizo el café y se lo llevó, y él lo recibió sin levantar la vista de la pantalla, con las persianas bajas y la muñeca izquierda apoyada en el escritorio con la palma hacia arriba.
+
+Fernanda cerró la puerta al salir.
+
+En el pasillo, dos de la planta se rieron bajito al pasar por delante de la sala de reuniones y uno le mostró el teléfono al otro. En la cocina, a la hora de almuerzo, alguien imitó una voz de doblaje y hubo una risa corta que se apagó cuando entró alguien más. A las cuatro, la asistente de finanzas le preguntó a Fernanda, con toda inocencia, si el señor Undurraga andaba enfermo.
+
+—No me ha dicho nada —contestó Fernanda.
+
+Y siguió cuadrando la rendición del día, cifra por cifra, al peso.
+
+Los lunes, hasta esa mañana, habían sido de él. Habían sido noventa minutos de sala llena, doce tazas y una risa de repuesto. Habían sido tres años de un hombre sirviéndose el silencio como otros se sirven el primer café.
+
+Los lunes acababan de cambiar de dueño y todavía no lo sabía nadie más que ella.
+
+A la dueña nueva nadie en ese edificio le sabía el apellido. No le iba a hacer falta.
