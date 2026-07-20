@@ -388,6 +388,35 @@ GLOSS_LOCK = ("rendered in a high-shine liquid latex / wet-look PVC / patent vin
               "specular highlights and a glossy mirror-like reflective surface, absolutely no matte or "
               "natural non-reflective fabric")
 
+# CANDADO DE BUSTO SOBRE EL CORSE (Ama 20/07/2026 — PREFERENCIA CANONICA, no bug):
+# La Ama, viendo la Ditzy del L88: "adoro cuando tus tetas estan asi, a punto de reventar, en
+# cualquier momento explotan del corset". El render que le gusto tiene una receta concreta y
+# repetible: escote corazon BAJO, el borde rigido del corse apretando POR DEBAJO del busto, las
+# dos esferas sentadas muy altas y llenas por encima del filo, piel tensa y con brillo. El Bloque A
+# ya fija el implante (1000cc, ultra high-profile, esferico) pero NO fija esta RELACION prenda-busto,
+# asi que salia por azar. Este candado la vuelve deliberada en siluetas con corse/overbust/bustier.
+# ⚠️ REDACCION ANTI-FILTRO DELIBERADA: "deep cleavage" esta en la lista BAD de pose_rotation
+# (dispara el safe de Gemini y quema cuota — ver feedback_gemini_safe_poses), y "spilling out /
+# bursting / about to pop" es lenguaje de reventon que rebota igual. El candado describe la
+# ARQUITECTURA (borde bajo, apoyo por debajo, altura y redondez) sin nombrar el escote profundo.
+# Ver auto-memoria feedback_busto_sobre_el_corse.
+CORSET_BUST_LOCK = ("the corset is laced to its tightest with its rigid structured upper edge cut low and "
+                    "sitting firmly beneath the augmented bust, so the two perfectly spherical implants "
+                    "rest very high, full and rounded above the neckline, the glossy porcelain skin taut "
+                    "and lifted over the corset's rim, the boned waist collapsed to its narrowest directly "
+                    "below, the garment's edge crisp and unbroken against the skin")
+
+# siluetas que deben llevar CORSET_BUST_LOCK cuando aparecen en el outfit
+CORSET_KW = ["corset", "overbust", "under-bust", "underbust", "bustier", "waist cincher",
+             "corseted", "basque", "merry widow", "corselette"]
+
+
+def needs_corset_bust_lock(outfit):
+    """True si el outfit declara una silueta de corse y aun no trae el candado de busto."""
+    og = (outfit or "").lower()
+    return any(k in og for k in CORSET_KW) and "rest very high, full and rounded above" not in og
+
+
 # CANDADO DE FIDELIDAD DE ESTAMPADO ANIMAL (Ama 13/07/2026 — BUG "python-print sale como encaje"):
 # L764 pedia "sheer black python-print back-seamed stockings" y la media que rindio Gemini es un
 # motivo decorativo de enredadera/encaje asimetrico (solo en una pierna) — CERO textura de escama
