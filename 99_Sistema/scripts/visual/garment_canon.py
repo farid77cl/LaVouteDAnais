@@ -100,8 +100,18 @@ META_SHOT_LANGUAGE = ["across all poses", "in every shot", "between shots", "in 
 
 # Prendas cuyo CORTE (escote/manga/ruedo) suele driftear entre poses -> exigir que el token lo fije
 # o pegar CONSISTENCY_LOCK (bug L746 escote, L707 mangas, L693 estampado):
+# AMPLIACION 20/07/2026 (Ama: auditoria del L86/L87 recien materializados). La lista original solo
+# miraba VESTIDOS y enterizos, asi que la prenda MAS propensa a driftear la manga —una chaqueta o
+# blusa de dos piezas— nunca se revisaba. Evidencia: el L87 rindio manga larga hasta la muneca en
+# Back View y la MISMA chaqueta SIN MANGAS en el POV; el L86 igual con su blusa. Ninguna ficha de
+# los dos declaraba largo de manga, y el chequeo no lo reclamo porque "jacket"/"blouse" no estaban
+# aca. Medido tras la ampliacion: 305 looks de la galeria viva + 64 del archivo quedan sin manga
+# declarada — deuda real que este chequeo ahora si reporta.
 DRIFTY_GARMENTS = ["dress", "gown", "cheongsam", "qipao", "slip", "minidress", "mini-dress",
-                   "column", "wiggle", "cocktail", "chemise", "robe", "kimono", "catsuit", "bodysuit"]
+                   "column", "wiggle", "cocktail", "chemise", "robe", "kimono", "catsuit", "bodysuit",
+                   # dos piezas y torso (ampliacion 20/07/2026):
+                   "jacket", "blazer", "blouse", "shirt", "coat", "cardigan", "sweater",
+                   "turtleneck", "jumpsuit", "corset", "overbust", "bustier", "bodice", "top"]
 # Tokens que demuestran que el ESCOTE esta fijado:
 NECKLINE_TOKENS = ["neckline", "off-shoulder", "off shoulder", "bardot", "halter", "sweetheart",
                    "scoop", "square neck", "mock neck", "high neck", "mandarin collar", "cowl",
