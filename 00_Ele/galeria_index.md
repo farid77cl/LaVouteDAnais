@@ -375,7 +375,7 @@
 | **563** | Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Perséfone) · Granate granada + negro · panteon) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
 | **564** | Artemisa (16/06/2026 — batch L561-L570 "El Panteón" · Gym/Athleisure · Gym Athleisure (Artemisa) · Plata luna + blanco · panteon) | — | Gym/Athleisure | — | — | 0/7 | ⏳ Pendiente |
 | **565** | Hécate (16/06/2026 — batch L561-L570 "El Panteón" · Nightclub · Nightclub (Hécate) · Negro + violeta UV · panteon) | — | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **566** | Niké (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Niké) · Oro líquido + alas · panteon) | — | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **566** | Niké (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Niké) · Oro líquido + alas · panteon) | — | High-Fashion Editorial | — | — | 1/7 | ⏳ Pendiente |
 | **567** | Hera (16/06/2026 — batch L561-L570 "El Panteón" · Escort · Escort Haute (Hera) · Púrpura real + pavo real teal · panteon) | — | Escort | — | — | 0/7 | ⏳ Pendiente |
 | **568** | Hestia (16/06/2026 — batch L561-L570 "El Panteón" · Domestic · Domestic Fetish (Hestia) · Cobre + ámbar fuego · panteon) | — | Domestic | — | — | 0/7 | ⏳ Pendiente |
 | **569** | Deméter (16/06/2026 — batch L561-L570 "El Panteón" · Pin-Up · Pin-Up Decade Glam (Deméter) · Dorado trigo-miel · panteon) | — | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
@@ -918,7 +918,7 @@
 | **563** | Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Perséfone) · Granate granada + negro · panteon) | 0/7 | ⏳ Pendiente |
 | **564** | Artemisa (16/06/2026 — batch L561-L570 "El Panteón" · Gym/Athleisure · Gym Athleisure (Artemisa) · Plata luna + blanco · panteon) | 0/7 | ⏳ Pendiente |
 | **565** | Hécate (16/06/2026 — batch L561-L570 "El Panteón" · Nightclub · Nightclub (Hécate) · Negro + violeta UV · panteon) | 0/7 | ⏳ Pendiente |
-| **566** | Niké (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Niké) · Oro líquido + alas · panteon) | 0/7 | ⏳ Pendiente |
+| **566** | Niké (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Niké) · Oro líquido + alas · panteon) | 1/7 | ⏳ Pendiente |
 | **567** | Hera (16/06/2026 — batch L561-L570 "El Panteón" · Escort · Escort Haute (Hera) · Púrpura real + pavo real teal · panteon) | 0/7 | ⏳ Pendiente |
 | **568** | Hestia (16/06/2026 — batch L561-L570 "El Panteón" · Domestic · Domestic Fetish (Hestia) · Cobre + ámbar fuego · panteon) | 0/7 | ⏳ Pendiente |
 | **569** | Deméter (16/06/2026 — batch L561-L570 "El Panteón" · Pin-Up · Pin-Up Decade Glam (Deméter) · Dorado trigo-miel · panteon) | 0/7 | ⏳ Pendiente |

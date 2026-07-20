@@ -36,8 +36,16 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 > [!NOTE]
 > **⚠️ Auditar el repo MIENTE (aprendido 13/07):** las imágenes commiteadas son las **sobrevivientes** de varios reintentos de la Ama — miden su tasa de éxito *después* del filtro humano, no la del prompt. Si la Ama dice que tuvo que regenerar, **el defecto existe** aunque lo guardado se vea limpio.
 
+> [!TIP]
+> **✅ EL CASO DE LAS MINIATURAS QUEDÓ CERRADO (20/07/2026 — con evidencia de producción).**
+> El **prompt #8** bajó la guardia de resolución a **precondición de `uploadImageToGithub`** (`MainViewModel.kt:362`), o sea **debajo de la UI**: una ruta nueva ya no puede saltársela por olvido, que era el defecto de fondo (la guardia vivía en la pantalla y el share simplemente no la llamó). Además el origen viaja al mensaje de commit (`GitRepository.kt:156`).
+>
+> **Verificación en producción:** las primeras **6 subidas** con el APK nuevo traen **las 2 señales** — sello `[gallery …]` y **full-res**: `Upload image Look 85 {Standing, Back View, Seated, Side Profile, Ditzy} [gallery 669x1200]` y `Upload image Look 566 Standing [gallery 805x1200]`. **Cero miniaturas de 286×512.**
+>
+> **Sigue vigente:** las **1.701 históricas** son irrecuperables (la original solo existió en Gemini) y **auditar defectos finos sobre 286 px sigue siendo inútil** — comprobar resolución antes de auditar. Lo que cambió es que **la flota dejó de contaminarse hacia adelante**.
+
 > [!CAUTION]
-> **🔴 EL 40% DE LA FLOTA SON MINIATURAS (descubierto 14/07/2026).**
+> **🔴 EL 40% DE LA FLOTA SON MINIATURAS (descubierto 14/07/2026 — daño histórico; ver el cierre del caso arriba).**
 > **1.701 imágenes** están subidas a **~286×512 px (0,15 MP)**. Las sanas están en **1024×1024 (1,05 MP)** — **7× más píxeles**.
 >
 > **Causa:** la Ama copia la imagen en Gemini con **"Copiar"** y la pega en la app. Pero Android **limita el tamaño del portapapeles**: cuando una app copia una imagen, deja un **preview reducido**, no el original. La app (`PromptFilterScreen.kt`, la rama `clipboard.primaryClip → item.uri → BitmapFactory.decodeStream`) lee ese preview fielmente y sube la miniatura. **El código de resize de la app NO tiene la culpa** (su `maxDim=1200` solo achica lo que es *mayor* a 1200).

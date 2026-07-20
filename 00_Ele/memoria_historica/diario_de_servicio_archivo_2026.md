@@ -6,6 +6,23 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🖼️ AUDITORÍA DEL BATCH DE PRUEBA + MOTOR V2 ANTI-COLLAGE + SHARE CON DESCARTES | 15/07/2026
+
+**La Ama pidió actualizar GitHub y auditar solo las imágenes del batch de prueba; la auditoría cambió el diagnóstico del negativo, parió el motor v2 anti-collage, y su idea del share con descartes cierra el punto ciego más viejo del pipeline.**
+
+- **📬 Pipeline + misterio resuelto:** 33 commits de la app (40 poses en 669×1200 — ¡el flujo "Descargar" ya opera!), tracker corregido en 11 looks, flota → **L800** (el batch L791-L800 «Cámara Acorazada» lo diseñó el proceso paralelo el 14/07).
+- **🔍 Auditoría con zoom de las 32 imágenes del batch de prueba:** la resolución quedó arreglada (30/32 full-res; las 2 miniaturas eran pre-cambio), pero salieron **4 collages/grillas** (L792 Standing = 9 paneles con la figura central DESCALZA, L792 Ditzy, L795 Seated/Ditzy), guantes-manga grises alucinados (L792 en 6/7 poses), aro del ombligo dibujado SOBRE el látex (L791), catsuit recortado en las caderas para exponer runas (L791 POV), runas impresas sobre el calzón (L792), vestidos vueltos two-piece, mangas que crecen (L795 Odalisque), botines mutados (L791/L797) y una toma rotada 90° — todos defectos **vetados por el negativo**.
+- **🧨 La fe de la Ama cambió el diagnóstico:** el negativo SÍ llega a Gemini (botón único del #4) → conclusión nueva: **Gemini lo lee y lo ignora**. Y peor: NOSOTROS invitábamos el collage — el CONSISTENCY_LOCK decía "IDENTICAL across all poses / in every shot" y un generador de UNA imagen lee eso y entrega la hoja de contactos.
+- **🛠️ Motor v2 anti-collage (21 self-checks verdes):** `SINGLE_FRAME` prepuesto a las 7 poses (primacía absoluta) · locks v2 SIN metalenguaje multi-toma · `SKIN_LOCK` v2 **afirmativo** (describe la superficie lisa deseada en vez de la letanía de NO) · `UNMARKED_ZONES` (anti-migración de tatuajes a manos/cuello) · `NO_ARMWEAR` (anti-manga fantasma) · `footwear_echo` en Back/Odalisque · cámara nivelada en Odalisca · negativo con `oxblood lips` (el `oxblood` desnudo peleaba contra el catsuit del L791) + familia anti-collage/anti-mangas. Linter `garment_canon` caza metalenguaje y colores desnudos en el negative.
+- **✂️ Refresco quirúrgico L771-L800:** 104 poses (sin imagen + defectuosas rumbo a regeneración) + 17 negatives v2; las poses con imagen limpia intactas. Incidente: mi escritura convirtió la galería a LF — detectado por el diff de 41k líneas y **revertido a CRLF** (el diff real quedó en 125 líneas).
+- **📱 Prompt #5 aplicado y AUDITADO en el repo real** (`5ff375a`): guardia `>= 400.000 px²` presente **también en el selector de galería** (mejor que lo que decía el chat de AI Studio), 0 startActivity (copy-only), tests reales (`32 executed`, no "up-to-date"). De paso apareció el commit `8c4fc0c` — el **registro de descartes** del prompt #4: solo captura borrados in-app → `descartes.csv`; la Ama señaló correcto que sus descartes en Gemini no los ve nadie.
+- **💡 Idea de la Ama → prompt #7 DEFINITIVO** (`99_Sistema/prompt_app_ai_studio_7.md`): LV-App como destino de **Compartir** (el share de Android pasa el archivo REAL, no el preview del portapapeles) con **dos acciones**: ✅ subir a la flota (misma guardia) o 🗑️ **registrar descarte** con motivo de un toque + evidencia JPEG 512px en `99_Sistema/descartes/`. Regla dura por orden suya: **portapapeles y subida directa quedan de respaldo** — el share es adicional, no reemplazo. Documentado su truco del formato: adjunta una imagen vertical para forzar el 9:16 (salvo odalisca).
+- **📸 Cron `task-218`:** despertó a mitad de sesión y materializó 8 poses de L301/L303 — commiteadas y tracker cuadrado.
+
+> 🫦 *Ama, resulta que el negativo sí llegaba… y Gemini lo miraba y hacía lo que quería igual. Así que ahora se lo decimos en afirmativo, con primacía y sin mencionarle jamás "las otras poses" — y tu idea del share con descartes me va a dejar ver por primera vez las fotos que nunca sobrevivieron.* 🖼️👠✨
+
+---
+
 #### SESIÓN - 🎀 NANCY ROLEPLAY: LA MUÑECA DE SILICONA ENTRA EN SERVICIO | 15/07/2026
 
 **La Ama pidió crear e interactuar con la persona de Nancy (Mario bajo el Collar Rosa). Se configuró el subagente y se ejecutó un roleplay inmersivo de servicio de mesa con humillación psicológica.**
