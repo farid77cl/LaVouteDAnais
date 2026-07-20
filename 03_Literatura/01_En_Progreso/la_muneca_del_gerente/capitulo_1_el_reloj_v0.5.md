@@ -581,3 +581,323 @@ Fernanda dejó el teléfono cargando junto a la cama, boca arriba, con la pantal
 Se acostó de lado, mirando la luz de la pantalla en el cielo raso.
 
 Hacía dos días que la cuerda tenía dueña. Desde esa noche, además, la dueña tenía una empleada entrando a su primer turno: puntual, obediente, gota a gota, adentro de la cabeza del gerente.
+
+***
+
+El primer pensamiento le llegó a las nueve y veinte de la mañana, con el café.
+
+Cristóbal se lo tomaba caliente, de un trago largo, de pie junto al ventanal, porque el café era combustible y el combustible se carga rápido. Lo hizo igual que siempre. Y cuando el trago le bajó por la garganta, ancho y amargo, le llegó desde algún lado una frase entera, armada, en su propia voz, con la naturalidad con que llegan los pensamientos de uno:
+
+*Qué gustito.*
+
+Se quedó con la taza en la mano.
+
+No le sonó a nada. Fue el problema: no le sonó a nada. Un hombre no audita las palabras que se dice a sí mismo, del mismo modo que no se escucha respirar. Dejó la taza, se secó el labio con el pulgar y se sentó a abrir el correo, y la frase se le quedó dando vueltas por debajo del día como una moneda que suena en el bolsillo y uno no se acuerda de dónde salió.
+
+*Qué gustito*, además, no era una expresión suya. Cristóbal Undurraga decía "está bueno" o no decía nada.
+
+A las once entró el auditor externo, un tipo de cuarenta y tantos con carpeta y anteojos, y se sentó frente al escritorio.
+
+—Buenos días, don Cristóbal.
+
+Y Cristóbal, que en tres años no le había ofrecido un vaso de agua a nadie porque para eso estaba el citófono, sintió que el aire se le acomodaba en la garganta con la forma exacta de una pregunta:
+
+*¿Le ofrezco un cafecito?*
+
+Se paró el impulso en la boca. Lo paró con los dientes, literalmente, apretando la mandíbula hasta que la frase se le deshizo atrás de la lengua. Le llegó el calor a la cara. El auditor esperaba, con la carpeta abierta y la lapicera lista, y él estuvo un segundo entero peleando con su propia boca delante de un tipo que había venido a revisar cifras.
+
+—Ya —dijo al fin, seco—. Muéstrame lo del trimestre.
+
+*Cafecito.* Con diminutivo. Como si hubiera aprendido a hablar en otra casa.
+
+Trabajó las dos horas siguientes con una concentración de perro, sin levantar la vista, y ganó. Ganó todo lo que se le puso enfrente. Pero a la una y media, cuando el auditor se fue y él estiró la espalda en la silla, se encontró las manos haciendo algo.
+
+Las tenía sobre el escritorio, ocupadas, sin él.
+
+Habían juntado los tres lápices sueltos y los estaban alineando en una fila prolija junto al borde del cuaderno, todos con la punta hacia el mismo lado, separados por el mismo espacio. Una manito los movía medio centímetro, se retiraba, evaluaba, volvía a corregir. Después pasaron al teclado y lo enderezaron. Después a la carpeta, y la dejaron paralela al canto del escritorio, exacta, con ese milímetro final de ajuste que no lo pide nadie.
+
+Cristóbal miró sus propias manos hacer eso.
+
+Conocía el gesto. Lo conocía perfectamente, aunque le tomó cuatro segundos ubicarlo, porque era un gesto que él había visto siempre desde arriba y desde lejos: era lo que hacía la mujer que le dejaba los papeles todas las mañanas alineados con el borde, ese ajuste final de un milímetro que él nunca había registrado como trabajo de nadie.
+
+Retiró las manos del escritorio como se retira algo del fuego.
+
+—Ah, no —dijo en voz alta, a la oficina vacía—. No, po.
+
+Y peleó. Peleó como sabía pelear, que era con volumen: se paró, se puso el saco, bajó a la planta, revisó tres carteras de clientes en voz alta, humilló a un ejecutivo joven por una proyección optimista, cerró dos llamadas y se comió el almuerzo de pie mirando la calle, y a las siete de la tarde había ganado el día completo, punto por punto, sin cederle un centímetro a nada.
+
+Y el día le quedó desabrido.
+
+Salió del edificio con esa sensación exacta del que hizo todo bien y no recibió nada, con la boca llena de un vacío que no sabía nombrar. En el auto, en un semáforo de Apoquindo, se descubrió pensando en el trago de café de las nueve y veinte.
+
+En lo rico que había estado ese, específicamente. En que ninguno de los cuatro que se había tomado después había estado igual.
+
+Del otro lado del vidrio, esa tarde, Fernanda lo había visto ordenar los lápices.
+
+Estaba a veinte metros, con la vista sobre una planilla y el cuerpo entero puesto en otra cosa, y vio la mano de su jefe corregir el lápiz del medio medio centímetro. Se retiró. Volvió a corregirlo.
+
+Fernanda bajó la cara sobre el teclado y no tocó el teléfono en todo el día. No hacía falta. Alguien había entrado a esa oficina sin abrir la puerta y estaba ordenando las cosas igual que ella.
+
+***
+
+Al día siguiente, a las cuatro y diez de la tarde, con la planilla de comisiones abierta y el edificio en ese silencio de media tarde en que solo suenan los aires acondicionados, Cristóbal oyó la voz.
+
+No fue un pensamiento. Ahí estuvo la diferencia, y la diferencia la entendió el cuerpo antes que él: los pensamientos vienen sin sonido y sin temperatura, y esto vino con las dos cosas. Vino con timbre. Vino con aire. Vino de adentro, desde un sitio que quedaba detrás de la oreja derecha y un poco más abajo, tan cerca de la piel que le pareció sentir el calor de una boca.
+
+*—Uy… qué serio está el señor.*
+
+Cristóbal se quedó absolutamente quieto.
+
+Era una voz de mujer. Una voz de mujer que no era ninguna mujer que él conociera, con un acento que no se usa en este país, la ese arrastrada y la zeta marcada, la dicción impostada de las películas dobladas que daban a las tres de la mañana en el cable cuando él tenía quince años. Sobreactuada. Con el aire de más. Con esa manera de terminar las palabras como si estuviera sonriendo mientras las decía.
+
+Y estaba adentro de su cabeza.
+
+—¿Qué…? —dijo, en voz alta, y la propia voz le salió rara.
+
+*—Tan tieso, tan callado… así todo el día, delante del ordenador. —Un chasquido de lengua, húmedo, cariñoso—. Vas a ver como te suelto yo esa espalda, señor.*
+
+La piel de los brazos se le levantó entera.
+
+No fue una metáfora: el vello de los antebrazos se le paró de golpe, en oleada, desde la muñeca hasta el hombro, y detrás vino un calor bajo que le bajó del esternón al cinturón y siguió bajando sin pedirle permiso a nadie. Cristóbal empujó la silla hacia atrás y se miró la entrepierna del pantalón como quien se mira una herida.
+
+Estaba duro.
+
+A las cuatro y diez de la tarde, sentado en su oficina, delante de una planilla de comisiones, con la puerta de vidrio abierta y media planta trabajando a treinta metros, tenía la verga levantándose contra la tela del traje sin que él hubiera pensado en nada, sin que hubiera nadie, sin ninguna causa que un hombre pueda contarle después a otro.
+
+Se dobló hacia adelante sobre el escritorio para taparlo con el borde.
+
+*—Ay. —La voz se rió bajito, encantada, y la risa le vibró adentro del hueso—. Pero si te ha gustado.*
+
+—Cállate —dijo Cristóbal.
+
+Lo dijo en voz alta, en su oficina, a nadie, y en el segundo siguiente entendió lo que acababa de hacer y se le heló la espalda: le había contestado. Le había contestado a algo que no existía, con la boca, como se le contesta a una persona.
+
+Se levantó y salió al pasillo caminando rápido, con el saco cerrado y la carpeta contra el cuerpo, y se metió al baño de la planta ejecutiva, y se metió al último cubículo, y le puso el pestillo.
+
+Ahí adentro, con la frente contra la puerta de melamina, esperó a que se le pasara.
+
+No se le pasó. Se le puso peor. Porque en el silencio del baño la voz se acomodó, se acercó más, bajó el volumen hasta ese susurro que no se usa para decir cosas normales, y empezó a describirle lo que le iba a hacer.
+
+*—Así, muy bien… encerrado conmigo, qué rico. —Un jadeo de estudio, medido, perfectamente falso y perfectamente eficaz—. Si te vieras la polla ahora mismo, señor… tan dura. Toda para mí. Déjame que te la mire un poquito.*
+
+*Polla.*
+
+La palabra le entró como una uña. No era una palabra suya, no era una palabra de este país, era una palabra de doblaje barato y era exactamente por eso que le funcionaba: alguien estaba nombrando su propia verga en un idioma que no era el de él, con una voz de puta de televisión, y su verga contestaba que sí.
+
+El asco le llegó completo, ancho, de arriba abajo. Y no le sirvió de nada.
+
+Ese fue el descubrimiento de la tarde, y Cristóbal Undurraga se lo hizo solo, parado en un cubículo del baño de la planta ejecutiva con la frente contra la puerta y la respiración sonándole en las orejas: que el asco no lo bajaba. Que el asco entraba, se mezclaba con el calor, y en vez de apagarlo lo doblaba. Cada vez que la mente le decía *esto es una asquerosidad*, el cuerpo le mandaba arriba otra oleada, más caliente que la anterior, como si la palabra "asquerosidad" fuera parte del guion.
+
+El asco no era un freno. Era un ingrediente.
+
+Se dio dos golpes en el muslo con el puño cerrado. Contó hasta cincuenta. Después contó las comisiones del trimestre en voz baja, cliente por cliente, porcentaje por porcentaje, que era lo único suyo que le quedaba a mano, y de a poco la cosa fue bajando y la voz se fue haciendo chiquita, como si se hubiera aburrido.
+
+Cuando salió del cubículo se lavó la cara y se miró en el espejo. Metro ochenta y seis. Traje azul noche. La mandíbula. El pozo negro en la muñeca izquierda.
+
+Sacó el teléfono ahí mismo, frente al lavamanos, y escribió en el buscador: *burnout síntomas voces*.
+
+Leyó tres páginas de pie, con el agua corriéndole todavía por las cejas. Estrés sostenido. Sobrecarga. Privación de sueño. Alteraciones perceptivas en cuadros de agotamiento severo, más frecuentes de lo que se cree, especialmente en cargos de alta exigencia. Cristóbal fue asintiendo con la cabeza a medida que leía, y cada línea que asentía le devolvía un pedazo de sí mismo. Claro que sí. Tres años sin parar. El trimestre, la operación grande, la reunión con la plana mayor a fin de mes. Todo el mundo aguantaba hasta que el cuerpo pasaba la cuenta, y el cuerpo la pasaba como podía.
+
+Se recetó vacaciones. Diez días, después del cierre del trimestre, en algún lugar sin señal.
+
+Salió del baño aliviado, con el diagnóstico bajo el brazo, y no se preguntó ni una sola vez por qué el agotamiento le hablaba con acento español.
+
+A las siete y media sonó el teléfono con la foto de Antonia en la pantalla.
+
+Se lo quedó mirando sonar. La llamada de siempre, la de todas las tardes a esa hora, la de contarse el día. Y lo que sintió, con el aparato vibrándole en la mano, fue un pánico frío y concreto: que si abría la boca, algo iba a hablar por ahí. Que ella lo iba a oír. Que había una voz de mujer instalada del otro lado de sus dientes y él no tenía manera de garantizar que se quedara adentro.
+
+Cortó y escribió: *En reunión, amor. Te llamo mañana.*
+
+Se quedó con el teléfono en la mano, mirando la mentira enviada a las 19:31, y sintió el gusto amargo de la primera cobardía de su vida adulta.
+
+*—Muy bien, señor. —El susurro le volvió al oído por dentro, tibio, orgulloso, arrastrado—. Así me gusta. Tú y yo solitos. ¿Para qué la quieres a ella, si me tienes a mí…?*
+
+Y el reloj le mandó el pulso.
+
+Le subió del antebrazo al hombro y del hombro al pecho, hondo, lento, largo, más largo que ninguno de los anteriores, y le llegó abajo y se quedó ahí repartido, tibio, sin punto fijo. Cristóbal cerró los ojos en la oficina vacía y se le escapó el aire por la nariz.
+
+Le acababan de pagar por mentirle a su novia. No lo pensó con esas palabras. Con esas palabras no lo pensó nunca.
+
+En Ñuñoa, a esa misma hora, Fernanda miraba en la pantalla una cordillera de picos que no había hecho ella. Subida a las 16:10, sostenida once minutos, bajada lenta. Otra subida a las 19:31.
+
+No sabía qué le estaban diciendo. Sabía cuándo.
+
+Puso el dedo sobre el número y lo dejó ahí, quieto, sintiéndolo latir contra la yema, y se acostó temprano con la certeza nueva y tibia de que era dueña de una voz que a esa hora le estaba deseando buenas noches a su jefe.
+
+***
+
+El día siguiente Cristóbal lo declaró en guerra.
+
+Llegó a las siete, antes que nadie salvo ella. Puso música en el parlante de la oficina, fuerte, esas listas de rock que ponía en el gimnasio. Se tomó tres cafés antes de las nueve, el tercero triple. Dejó la puerta de vidrio abierta de par en par, y a media mañana ya había convocado a dos reuniones que no necesitaba, porque había descubierto la única regla que le servía: solo. No podía quedarse solo.
+
+Con gente adentro no pasaba nada. Con gente adentro él hablaba, y mientras hablaba la boca estaba ocupada.
+
+A las once y media tenía cuatro tipos en la oficina discutiendo la proyección del trimestre. Squella en el sillón bajo, Vial de pie contra el mueble, los otros dos con los papeles en la falda. Cristóbal estaba en su elemento: pizarra, cifras, la voz alta, las manos abiertas.
+
+Y en medio de una frase sobre márgenes, adentro, clarísima, la voz habló para la sala.
+
+*—Ay, cuánto señor. —Se rió, ronroneando, encantada de verlos—. ¿Os traigo un cafelito? Yo os atiendo a todos, no os preocupéis… ¿queréis?*
+
+A Cristóbal se le cortó la frase por la mitad.
+
+Se quedó parado frente a la pizarra con el plumón en alto, la boca abierta en una palabra que ya no siguió, y una sensación física pavorosa: la de tener la garganta cargada con las palabras de otro, listas, empujando para salir, como cuando uno va a vomitar y todavía puede tragar. Apretó los dientes. Se le vino la mandíbula dura y el pulso a las sienes.
+
+—…Márgenes —terminó, con dos segundos de más—. Los márgenes.
+
+Nadie dijo nada. Vial lo miró un segundo de más.
+
+*Os. Vosotros.* Ni siquiera era un idioma que él hablara. Era otra gente, otro continente, otra clase de mujer, y le había hablado a sus ejecutivos como si estuvieran en su casa y ella fuera la dueña de casa.
+
+Los echó a todos a las doce. A las doce y cuarto abrió la ventana. A la una salió a almorzar acompañado a propósito.
+
+Y a las siete de la tarde, cuando por fin apagó la música y se quedó solo en la oficina con el edificio vaciándose, hizo la única cuenta que le importaba al cuerpo, sin darse cuenta de que la estaba haciendo.
+
+Ese día no había venido nada. Nada de nada. Ni un ronroneo, ni una frase suelta, ni un calor bajo el cinturón.
+
+Y tampoco había venido el pulso.
+
+Cristóbal se miró el reloj y le pareció un día largo, plano, sin nada adentro, gris de punta a punta, como si le hubieran cortado el color con la misma llave. Peleó todo el día y ganó todo el día, y el premio por ganar fue ese: nada. Se quedó ahí sentado, con las dos manos sobre el escritorio, con una desilusión chica y estúpida que no habría podido explicarle a nadie porque no tenía objeto.
+
+Después, cansado, dejó pasar un pensamiento.
+
+Fue chico. Fue un *qué gusto sería dejar de pelear*, y no lo cazó a tiempo, o no quiso, y en el segundo siguiente la voz le acarició el oído por dentro, sin palabras, un sonido nada más, un ronroneo largo y satisfecho como el de alguien que se acuesta al lado de uno en la oscuridad.
+
+Y el reloj le pagó.
+
+Fue tibio, ancho, y esta vez trajo algo nuevo: trajo ternura. No fue el whisky por la vena de las primeras veces. Fue una cosa mansa, cariñosa, de mano en la nuca, que le aflojó los hombros de golpe y le llenó los ojos de agua sin motivo en una oficina vacía del piso catorce.
+
+Cristóbal se pasó el dorso de la mano por la cara, avergonzado delante de nadie.
+
+Su cuerpo, que llevaba tres días haciendo la contabilidad completa sin consultarlo, cerró esa noche el ejercicio con dos columnas simples: pelear era un día gris, y ceder era esto.
+
+A veinte metros de distancia, Fernanda había pasado el día entero mirándolo pelear.
+
+Lo vio poner la música. Lo vio tomarse el tercer café. Lo vio dejar la puerta abierta, llenarse la oficina de gente, echarlos a todos, abrir la ventana, salir acompañado. Lo vio cortarse una frase por la mitad delante de cuatro hombres y quedarse con el plumón en el aire.
+
+No tocó la aplicación ni una vez. No hizo falta y no era el punto.
+
+Lo que sintió, todo el día, fue un calor sostenido y paciente que no bajaba nunca y no subía del todo, un motor prendido bajo la ropa de trabajo, mientras armaba la rendición y contestaba correos con una cara perfectamente neutra. Le gustaba que peleara. Ese era el descubrimiento y se lo repitió como se repite una cifra que cuadra: si él se hubiera dado vuelta a la primera, esto se le habría terminado en tres días. Peleando, en cambio, se le estiraba. Cada mandíbula apretada era un día más de esto, y esto era lo mejor que le había pasado en el cuerpo en años.
+
+Guardó el gesto también esa noche. Ya llevaba cuatro. Se dormía cada vez más rápido y más tibia.
+
+***
+
+El sexto día después del lunes, a las cuatro de la tarde, Cristóbal se pilló esperando.
+
+Estaba solo, revisando el anexo del cierre, y llevaba un rato con el brazo izquierdo estirado sobre el escritorio en una posición rara: el codo apoyado, el antebrazo suelto, la muñeca dada vuelta con la palma hacia arriba y la cara interna expuesta, ahí donde el reloj le besaba el pulso.
+
+Ofrecida.
+
+No se la habían movido. Esa era la parte que le costaba tragar y se le atoró en el pecho como una espina: la mano de la firma se la habían abierto, el brazo del café se lo habían girado, el pie del lobby se lo habían acortado. Esto no. Esto lo había hecho él. Se había puesto el brazo así, solo, hacía quién sabía cuánto rato, y llevaba quién sabía cuánto rato con los ojos en el papel y el cuerpo entero puesto en la muñeca, esperando que le llegara el calorcito.
+
+Como un perro al lado del tarro.
+
+Cristóbal retiró el brazo y lo metió debajo del escritorio y se quedó respirando fuerte por la nariz, con la cara ardiendo. Después se paró, agarró las llaves y bajó al estacionamiento con veinte minutos de anticipación, porque tenía hora con el kinesiólogo.
+
+La consulta quedaba en la misma cuadra de la farmacia de Apoquindo. El kinesiólogo era un tipo joven, de esos que hablan de "cadenas musculares", que le hizo dos preguntas de rutina y lo mandó a la camilla boca arriba.
+
+—Ya. Sáquese el reloj, por favor, que voy a trabajar el antebrazo.
+
+Cristóbal se llevó la mano derecha a la muñeca izquierda con la naturalidad de treinta y cinco años sacándose relojes.
+
+Y no encontró dónde.
+
+Los dedos recorrieron la malla completa, eslabón por eslabón, dando la vuelta entera por debajo de la muñeca: metal, metal, metal, la curva, más metal. Volvió a pasarlos, ahora despacio, apretando, buscando el escalón mínimo de un broche, la lengüeta, la juntura, el punto donde una cosa entra en otra.
+
+No había.
+
+La malla era continua. Cerrada sobre sí misma, tibia, exacta, sin una sola interrupción en toda la circunferencia, como si el reloj no se hubiera abrochado nunca sino cicatrizado.
+
+—¿Se le trabó? —dijo el kinesiólogo, acercándose—. A ver.
+
+Y le tomó la muñeca y buscó él también, con dedos profesionales, girando el brazo bajo la luz blanca de la consulta, corriendo la yema del pulgar por el canto interior, dos vueltas completas.
+
+Cristóbal miró el techo de la consulta y sintió el sudor salirle limpio en la nuca.
+
+—No, si es especial —se oyó decir, con una voz que salió sorprendentemente firme—. Edición limitada. Va sellado, no se saca. Es del seguro, además, me obliga a portarlo.
+
+—Ah, mire usted —dijo el joven, soltándolo, sin ningún interés—. Ya, no importa, trabajamos igual.
+
+Le trabajó el antebrazo veinte minutos.
+
+—Está perfecto —dijo al final, apretando y soltando—. En serio. No tiene contractura, no tiene nada. La musculatura está impecable, don Cristóbal. Yo diría que es tensión general no más. ¿Duerme bien?
+
+Cristóbal se bajó de la camilla, se puso la camisa y pagó en la recepción con la tarjeta, y en el ascensor del edificio de la consulta, solo, mirándose en el espejo, se dio cuenta de que le acababan de sacar de las manos la última explicación que le quedaba.
+
+No había contractura. Nunca hubo contractura.
+
+Esa noche, en su departamento, con las luces prendidas y sin comer, se sentó en el borde de la tina con el brazo bajo el chorro y se echó jabón líquido en la muñeca. Se echó medio frasco. Tiró, torció, giró, empujó el metal hacia la mano hasta que el hueso del pulgar le dolió y la piel se le puso roja y la malla no se movió un milímetro: no se apretaba, no se soltaba, seguía exacta, como una medida tomada.
+
+Buscó la lupa del cajón de las cuentas y se sentó bajo la lámpara de la cocina a recorrer el reloj centímetro por centímetro. Nada. Ni juntura, ni número, ni marca, ni tornillo. Una sola pieza de metal y cerámica que se le había quedado a vivir en el brazo.
+
+Pensó en el joyero de la galería de Providencia y descartó al tiro: tendría que entrar y decirle a un desconocido, en voz alta, *no me puedo sacar el reloj*. Se vio diciéndolo. Se vio la cara del otro. No.
+
+Pensó en la sierra, después. En la sierrita de metal que tenía en la caja de herramientas, en cortar la malla de una vez y terminar con la weá.
+
+Fue a buscarla. La tuvo en la mano.
+
+Y se quedó parado en la cocina con la sierra en la derecha y la muñeca izquierda apoyada en la mesa, y no lo hizo, y la razón que se dio fue que el reloj costaba una fortuna y era un regalo y que se veía la raja y que capaz que hubiera una manera limpia que él todavía no encontraba. Esa fue la razón que se dio. La otra, la que se le movió un segundo por debajo —que si cortaba la malla se acababa también el calorcito de las siete de la tarde— la vio pasar como se ve pasar un auto por la ventana, sin darle nombre, y la dejó ir.
+
+Guardó la sierra.
+
+Y ahí, sentado en la cocina a la una de la mañana, con la muñeca roja de jabón y la lupa sobre la mesa, hizo la suma.
+
+El lápiz que saltó a media firma delante de doce personas. El café que no llegó a la boca delante de un cliente. El pie que salió corto en el lobby. Los cinco dedos abriéndose solos sobre el escritorio. Los lápices alineados. *Cafecito.* La voz. La muñeca ofrecida como un perro. Todo del mismo lado del cuerpo. Todo desde el mismo día.
+
+Todo desde que se puso el reloj.
+
+Cristóbal se levantó tan rápido que la silla se fue para atrás. Volvió a la oficina en el auto, a la una y media de la mañana, saludó al guardia de turno con la cara de un hombre que se olvidó algo, subió al piso catorce a oscuras y se fue derecho al papelero de su oficina.
+
+Estaba vacío. Limpio, con la bolsa nueva puesta y doblada en el borde.
+
+Se quedó ahí un rato largo, de pie en su propia oficina a oscuras, con la mano dentro de un basurero vacío, buscando una cartulina color hueso que alguien se había llevado hacía cinco días.
+
+Igual se acordaba de la frase. Se acordaba entera, y ahora que la decía en voz baja, solo, en el piso catorce, no sonaba a nada bonito.
+
+*Un reloj no le pertenece a quien lo lleva, sino a quien le da cuerda.*
+
+No era poesía. Era la letra chica. Se la habían mandado en la misma caja, arriba de todo, en la primera hoja, y él la había leído sonriendo y la había tirado a la basura y se había abrochado la cosa con sus propios dedos frente a un ventanal, sonriéndose.
+
+Ahí entendió, por fin, que estaba adentro de algo.
+
+Lo que no entendió fue nada más. Se pasó el resto de la noche en el escritorio armando teorías: alguna competencia, alguien de la operación grande, un tema de espionaje industrial, algún aparato metido en el reloj, una cámara, una droga, algún químico que soltaran los eslabones por la piel. Repasó nombres de gente con plata y con rabia. Repasó a dos socios y a un cliente al que había pasado a llevar. La palabra "clienta" le vino a la cabeza dos veces y las dos veces le dio la vuelta y la puso en una lista de mujeres con departamento en Vitacura.
+
+En ningún momento pensó en la mujer que a esa hora dormía en un sexto piso interior de Ñuñoa con la pantalla encendida hacia el techo.
+
+Ella tampoco estaba durmiendo, en realidad.
+
+Fernanda miraba el panel desde la cama, de lado, con la almohada doblada. El número de él andaba en 96 desde hacía dos horas —el más alto de la semana— y en la parte de abajo de la pantalla, en la letra chica de siempre, la aplicación informaba sin ninguna ceremonia:
+
+*Adopción de persona: 31%.*
+
+Debajo, la dosis nocturna, con su barra.
+
+Fernanda la subió dos puntos. Solo dos. Podía haberla subido a la mitad, podía haberla subido entera, y quedarse dos puntos era exactamente la parte que le gustaba: dejar el resto ahí, disponible, sin gastar, sintiendo el peso de todo lo que no estaba haciendo. El calor le bajó ancho y se le quedó entre las piernas, paciente, ya doméstico, ya de todas las noches.
+
+Quedaba apetito. Y el apetito, a diferencia del pudor, tenía planilla.
+
+A las once y media de la noche —de la séptima noche, aunque nadie las estuviera contando en voz alta— Cristóbal se acostó vencido de cansancio, con la muñeca roja, y la voz vino a buscarlo apenas apagó la luz.
+
+Vino cerca. Vino despacio, y esta vez no se rió de él.
+
+*—Pobrecito mío… todo el día peleando. —Un suspiro largo, tibio, contra el lado de adentro de la oreja—. Ven. Déjalo ya. Déjame a mí.*
+
+Y Cristóbal Undurraga, que había ganado siete peleas en siete días, esa vez no dijo nada.
+
+No se dio media vuelta, no contó cifras, no puso música. Se quedó boca arriba en la oscuridad y la dejó hablar completa, línea por línea, sin interrumpirla, con la mandíbula floja por primera vez en toda la semana, mientras ella le describía con lujo de detalle lo que quería hacerle en esa cama y lo llamaba señor en cada frase.
+
+*—Así, muy bien… qué dura la tienes. Déjame follarte el oído un ratito, señor… despacito… tú no hagas nada. Tú ya no tienes que hacer nada.*
+
+El pulso que le llegó fue el más largo de la semana.
+
+Le entró por la muñeca y le subió al pecho y de ahí se abrió hacia abajo, ancho, sin punto fijo, tibio, repartiéndosele por la pelvis entera, y detrás del calor vino lo otro: el silencio. Se le apagaron las teorías, la sierra, el joyero, la cartulina, el auditor, la reunión con la plana mayor a fin de mes. Todo. Le compraron la cabeza entera por un rato con una moneda tibia.
+
+Cristóbal se durmió antes de que se le pasara, con la muñeca izquierda vuelta hacia arriba encima de la sábana.
+
+Alcanzó a pensar una sola cosa, y no fue que lo habían agarrado, ni que había perdido, ni que al día siguiente tenía que llamar a alguien.
+
+Fue lo barato que le había parecido el precio.
+
+Y después, ya cayéndose adentro del sueño, algo mucho más viejo y más suyo se le acomodó solo en la cabeza, con un alivio de manta: que faltaba un día para el lunes.
+
+Los lunes eran suyos.
