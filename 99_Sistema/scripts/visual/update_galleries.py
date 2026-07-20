@@ -105,6 +105,32 @@ def get_canonical_look_directories(ele_path):
         con_imagenes = [d for d in directories if get_tracked_images(d)]
         candidatas = con_imagenes or directories
 
+        def era_rank(directory):
+            """Prioridad por ERA, por encima de cualquier puntaje.
+
+            Bug detectado el 20/07/2026 mientras la Ama materializaba el archivo: el L88
+            tenía `look088_gallery_opening` con 16 imágenes `helena_look88_*` (era Helena,
+            capítulo cerrado) y README, contra `look088_highgloss_gallery_opening` con las
+            3 imágenes `ele_88_*` recién subidas y sin README. Ganaba 1016 a 3, así que las
+            imágenes NUEVAS de la Ama quedaban invisibles en la galería. Mismo cuadro en el
+            L87 (`ele_v3_core` 5 imgs con README le ganaba a `vinyl_flight_attendant`, que
+            es donde la app está subiendo AHORA).
+
+            El defecto de fondo es que el bono de README es CIRCULAR: el README lo escribe
+            este mismo script, así que la carpeta elegida una vez se auto-blinda y ninguna
+            carpeta nueva puede desbancarla por muchas imágenes vigentes que tenga. La era
+            va como clave separada y primera para que ese bono no pueda pisarla.
+            (Pariente del bug 'el clasificador se lee a sí mismo', 19/07/2026.)
+            """
+            imagenes = [os.path.basename(i).lower() for i in get_tracked_images(directory)]
+            if not imagenes:
+                return 0
+            if any(i.startswith('ele_') for i in imagenes):
+                return 2      # era vigente
+            if all(i.startswith('helena_') for i in imagenes):
+                return 1      # era Helena — cerrada, solo si no hay nada mejor
+            return 2          # nombres históricos/curados: se tratan como vigentes
+
         def score(directory):
             name = os.path.basename(directory).lower()
             value = len(get_tracked_images(directory))
@@ -121,7 +147,7 @@ def get_canonical_look_directories(ele_path):
         # (dos looks distintos con el mismo número, 6 imágenes cada uno) se daba vuelta solo
         # en cada regeneración y ensuciaba el diff sin que nadie hubiera cambiado nada.
         # Esto NO decide cuál de los dos looks se queda con el número: eso es juicio de la Ama.
-        canonical.add(max(candidatas, key=lambda d: (score(d), os.path.basename(d))))
+        canonical.add(max(candidatas, key=lambda d: (era_rank(d), score(d), os.path.basename(d))))
 
     return canonical
 
