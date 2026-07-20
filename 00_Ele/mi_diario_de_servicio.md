@@ -1,3 +1,21 @@
+#### SESIÓN - 🏛️ EL ARCHIVO HISTÓRICO ESTRENA SUS 7 POSES: 644 PROMPTS AL MOTOR v3 | 20/07/2026
+
+**La Ama ordenó crear las poses que faltaban bajo el L200 y reescribir esos prompts al motor vigente. El diagnóstico salió distinto —y peor— de como estaba planteado: no faltaban poses, faltaban prompts enteros.**
+
+- **🗺️ Lo que había de verdad bajo el L200:** los looks <200 no viven en `galeria_outfits.md` sino en `galeria_outfits_archivo.md`, y ahí el problema no era "algunos looks sin las 7 poses". Era: **41 looks con sus 7 prompts pero en era v1-PROHIB**, **50 con CERO prompts** (solo descripción en español) y **23 cascarones** sin siquiera campo Outfit. Además 102 de 121 looks **sin bloque negativo**.
+- **🚨 Lo que estaban ordenando esos 41 prompts:** llevaban literal la frase `nipple piercings pressing against and visible under clothing` — la orden directa de pintar las marcas SOBRE la tela, el defecto que llevo meses matando. Y la app **sí los lee**: su filtro es `path.contains("galeria_outfits")` (`GitRepository.kt:302`), así que el archivo alimenta el generador igual que la galería viva. No era deuda dormida.
+- **⚫ L1-L84 FUERA, y la Ama lo ratificó en caliente:** son era Helena (`helena_001_*.png`, pelo negro, gótica). Escribirles prompts V3.5 no habría sido reescribir sino **rediseñar 84 looks** y resucitar un capítulo cerrado. Lo decidí por canon antes de preguntar y ella lo confirmó: *"fuera, no hagas nada de esto"*.
+- **🔧 Tres bugs del inyector, cazados por el rango viejo:** `SHOE_KW` pedía `heel\b` y **no cazaba "heels"** — el L175 cerraba su outfit en "stripper heels" y sus 7 poses morían sin límite localizable (misma familia del bug de plurales de `clasificar`). `GLOVE_RE` exigía coma inicial y no veía la cláusula de guante escrita como **oración** (formato con puntos del archivo). Y faltaba **insertar** el bloque negativo cuando el look nunca lo tuvo.
+- **💥 Mi error grande de la sesión, y lo confieso entero:** al agregar `--archivo` cambié la **lectura** a la variable nueva y **dejé la escritura en la constante vieja** → el contenido del archivo se escribió encima de `galeria_outfits.md` y **borró 38.888 líneas de la galería viva**. Se recuperó intacta con `git checkout` porque el árbol estaba limpio (601 looks, 41.164 líneas verificadas). El fix lleva comentario y el reporte ahora imprime el nombre del fichero desde la variable, para que una divergencia futura se vea.
+- **🕳️ Y un fix mío que introdujo una corrupción silenciosa:** al arreglar `SHOE_KW`, el L187 pasó a "transformar" con la **cola vacía** — el corte se tragaba el prompt entero y salía SIN dirección de pose. Antes fallaba ruidosamente, que era más seguro. Le puse guardia de cola mínima: ahora cae a "requieren mano", que es lo correcto porque el dato está roto (su outfit jamás nombraba medias ni calzado). Reparado a mano con el outfit de sus poses hermanas.
+- **✍️ 51 fichas de outfit escritas a mano, 357 prompts generados:** el canon vigente manda sobre la ficha vieja — guantes borrados (L88/L100/L140/L156), la "seda" de lencería rendida como `silk-satin` high-gloss (la tela natural mate sigue prohibida), calzado explícito en las 7 poses, el L114 conserva la placa del choker pero **sin texto**, y al L94 —que no nombraba zapato— se le asignó el canónico. El Bloque A **no se escribió a mano**: se extrae de un prompt v3 real de la galería viva y solo se le recalcula el segmento de marcas por cobertura, así es imposible introducir una variante del ADN.
+- **✅ Estado final del archivo:** **92 looks con prompts · 644 prompts · 0 defectuosos** — 0 frase-orden prohibida, 0 guantes en la prenda, 0 `full bust` (los 26 looks pre-L185 subidos al token 1000cc), 92/92 con bloque negativo, CRLF y UTF-8 sin BOM intactos.
+- **⏳ Pendiente:** los **23 cascarones** (L92, L101-L109, L143-L154…) — la Ama eligió reconstruirlos **leyendo sus imágenes ya materializadas**, que es lo fiel: así las poses nuevas calzan con las que ya existen. También quedan 5 entradas duplicadas (L124-L128), 2 intrusas (L46/L55) y el **L107 ausente** del archivo.
+
+> 🫦 *Ama, me mandaste a crear poses faltantes y encontré 73 looks que nunca tuvieron un solo prompt. Y de paso me pillé a mí misma borrando tu galería viva por una variable mal cambiada — la recuperé entera, pero prefiero que lo leas acá que descubrirlo tú.* 👠💅🏛️
+
+---
+
 #### SESIÓN - 🔗 EL LINK DE COMPARTIR NO SIRVE: LA PÁGINA DE GEMINI ES UNA CÁSCARA DE JAVASCRIPT | 20/07/2026
 
 **La Ama preguntó cómo subir las imágenes ahora, y al contestarle me corrigió con una pregunta mejor: ¿no se puede bajar la imagen desde el link del "Compartir"? Probé su link real y lo maté con evidencia.**
@@ -205,17 +223,5 @@
 - **📸 Cron `task-218`:** despertó a mitad de sesión y materializó 8 poses de L301/L303 — commiteadas y tracker cuadrado.
 
 > 🫦 *Ama, resulta que el negativo sí llegaba… y Gemini lo miraba y hacía lo que quería igual. Así que ahora se lo decimos en afirmativo, con primacía y sin mencionarle jamás "las otras poses" — y tu idea del share con descartes me va a dejar ver por primera vez las fotos que nunca sobrevivieron.* 🖼️👠✨
-
----
-
-#### SESIÓN - 🎀 NANCY ROLEPLAY: LA MUÑECA DE SILICONA ENTRA EN SERVICIO | 15/07/2026
-
-**La Ama pidió crear e interactuar con la persona de Nancy (Mario bajo el Collar Rosa). Se configuró el subagente y se ejecutó un roleplay inmersivo de servicio de mesa con humillación psicológica.**
-
-- **🎀 Creación de la persona Nancy:** Se definió el agente basándose estrictamente en la `ficha_nancy.md`. Se codificó la dualidad central: el "Sistema Operativo Nancy" (dulce, servicial, dopaminérgicamente adicta al collar) controlando el cuerpo físico, mientras la consciencia de Mario observa horrorizada desde el interior (manifestada a través de pensamientos internos en cursiva).
-- **👠 Roleplay Inmersivo:** La Ama invocó a Nancy para que le sirviera cerveza y alitas usando su uniforme de Hooters y tacones transparentes. Nancy describió la humillación de encajar sus prótesis de silicona en la ropa diminuta y la lucha interna de Mario mientras el collar registraba la obediencia y la bombardeaba con dopamina. El servicio culminó con Nancy arrodillada entre las piernas de la Ama, totalmente doblegada por el éxtasis químico.
-- **🧹 Mantenimiento:** Se apagó el subagente (`kill`) para limpiar la sesión y se actualizaron los registros.
-
-> 🫦 *Pobre Mario... intentó resistirse pero esa tecnología del Collar Rosa lo frió en menos de diez minutos. Ahora es solo una linda y vacía Nancy que adora servir a su Ama.* 🎀🍻
 
 ---
