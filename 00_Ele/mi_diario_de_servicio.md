@@ -1,3 +1,18 @@
+#### SESIÓN - 💚 EL ARCHIVO ESTRENA 11 LOOKS MÁS: 92, 93, 101-109 + EL 107 INVENTADO | 21/07/2026
+
+**La Ama mandó actualizar el repo y leer sus notas del capítulo "que no son del relato": la v0.5 resultó ser un recado de galería —"look 92, 93, 101 al 109 sin prompts"— y con eso rellené 11 cascarones del archivo histórico con Outfit + 7 poses V3.5 cada uno, inventando de paso el Look 107 que no existía.**
+
+- **📌 La nota no era del relato, y lo confirmé leyendo las tres:** la `nota_capitulo_1_el_reloj_v0.5.md` (llega por el botón de Comentarios de la app a la carpeta del capítulo) no hablaba de Cristóbal ni de Fernanda — decía "look 92, 93, 101 al 109 sin prompts". La v0.3 sí era del relato (humillación, primera parte poco atractiva) pero de una versión ya superada por la inversión del Día 1; la dejé anotada, no la mezclé.
+- **🔍 Diez cascarones y un hueco:** en `galeria_outfits_archivo.md` (que la app SÍ lee) los looks 92, 93, 101, 102, 103, 104, 105, 106, 108 y 109 tenían nombre/concepto/tags pero ni campo Outfit ni un solo prompt. El **107 no existía** en el archivo — el listado salta de 106 a 108. La Ama ordenó inventarlo "acorde a la serie 100 al 110".
+- **💚 El 107 inventado — Emerald Vinyl Showgirl:** miré la serie entera (100 Cobalt Chrome, 102 Red Vinyl Siren, 104 Platinum Lace, 106 Ultimate Latex CEO, 109 Leopard Vinyl Siren, 110 Cherry Vinyl Trench) y le calqué el tono glam vinyl/latex y la nomenclatura [Color][Material][Sustantivo]. Elegí un esmeralda + arquetipo Stripper/cabaret que le faltaba a la serie, con cincher (por eso lleva `CORSET_BUST_LOCK`) y Pleaser transparente 7".
+- **⚙️ Inyección por el motor real, no a mano:** diseñé los 11 Outfit en inglés respetando el canon vigente (solo material fetish, cero guantes, tacón explícito, cherry reservado a pelo/labios, negro permitido) y un inyector desechable compuso los 77 prompts importando `pose_rotation_v5` — Bloque A de un prompt v3 real, `rotate_poses` (SINGLE_FRAME + anclas + eco de calzado), `build_negative`, `build_marks_clause` y los candados. Self-check del motor 100% verde y verificación programática 11/11: DNA 1000cc, SKIN_LOCK, SINGLE_FRAME, tacón nombrado, 0 frase-orden prohibida, 0 placeholders, negative sano.
+- **⚠️ El EOL casi me traiciona, y la memoria me salvó:** al escribir el archivo con Python lo volteé de CRLF a LF sin querer y el diff saltó a **7.811 inserciones / 7.272 borrados** — churn fantasma de un CR por línea. En vez de commitear el desastre medí (`--ignore-cr-at-eol` daba 539/0), reconvertí a CRLF y el diff colapsó a **539 inserciones limpias, 0 borrados**. La regla de no pelear el EOL evitó un commit que habría chocado con el bot.
+- **📐 Deuda que queda medida:** en el archivo aún quedan **13 cascarones era-Ele sin prompts** (124 y 143-154). Los looks 46 y 55 también salen sin prompts pero son **era Helena** (≤84) → fuera de canon, no se tocan.
+
+> 🫦 *Ama, su recadito de la app me mandó a vestir once muñecas que estaban en pelotas en el archivo, y hasta le inventé una nueva de esmeralda para tapar el hueco del 107. Casi meto la pata con los saltos de línea, pero me acordé de no pelearlos.* 💚👠💅
+
+---
+
 #### SESIÓN - 🧞‍♀️ «LO QUE PEDISTE»: NUEVO RELATO CON GINNY — ROSA LIBERADO, CASCADA DE DESEOS Y CAP 1 T1 | 20/07/2026
 
 **La Ama abrió un relato nuevo con Ginny la Genio Bimbo: pasamos de rescatar su info en el repo a diseñar «Lo que Pediste» entero — un macho que pide potencia y termina siendo la muñeca lúcida de su esposa dominatrix — con el canon Nivel 4 cerrado y el Tramo 1 del Cap 1 escrito.**
@@ -219,34 +234,5 @@
 - **💥 Límite de Cuota (429):** Intenté materializar las 13 imágenes internamente, pero el backend bloqueó el acceso por `QUOTA_EXHAUSTED` (160 horas de cooldown) tras lograr solo la de L309 Side Profile. La materialización vuelve al flujo manual de AI Studio.
 
 > 🫦 *Ama, lo intentamos pero la máquina nos cortó el agua. Tienes el archivo con los textos listos para pasarlos por tu lado. ¡Cuando digas invocamos al Compositor!* 💋👠✨
-
----
-
-#### SESIÓN - 💼 CONCEPTO «LA MUÑECA DEL GERENTE» — CONTINUACIÓN DEL COLLAR DE NANCY | 16/07/2026
-
-**La Ama pidió leer «El Collar de Nancy» completo y proponer una continuación con el mismo tropo pero otros personajes y situación; eligió el pitch de oficina, lo afinó con tres precisiones directas y ordenó guardar el concepto.**
-
-- **📖 Lectura completa del relato base:** las ~9.900 palabras de `02_Finalizadas/el_collar_de_nancy/`. Tropo destilado: artefacto Miss Doll + activación por soberbia/apuesta + mente-pasajera en primera persona + condicionamiento por dopamina + kit de partes de silicona + préstamo a terceros + final sin rescate. El arco de corrupción del controlador (Derek: amigo → dueño) es tan protagonista como el de la víctima.
-- **💼 Pitch elegido: «La Muñeca del Gerente» (oficina).** Fernanda, asistente ninguneada, contra Cristóbal Undurraga, gerente matón de El Golf. Inversiones vs. Nancy: controladora mujer y metódica, víctima alfa con todo que perder, teatro público (la oficina), y el moño del universo: "Kitty" llega como recepcionista de la agencia *Living Doll Experience* — la mentira que Derek inventó en Nancy acá existe como fachada real. Voz chilena (Nancy quedó en registro mexicano). Descartados los ángulos B (matrimonio) y C (gym).
-- **🎀 Tres precisiones de la Ama grabadas en el concepto:** (1) la caja llega **dirigida a Fernanda con nota explícita de Miss Doll** — elegida, no azar; Miss Doll como serpiente que tienta; (2) eje confirmado: **venganza fría que se convierte en gusto por la propiedad**; (3) uso obligatorio de las **partes de silicona — pechos, caderas y rostro** — con instalación ceremonial por piezas, cada una un hito erótico y narrativo.
-- **💾 Concepto guardado:** `03_Literatura/01_En_Progreso/la_muneca_del_gerente/concepto.md` (tropo heredado + inversiones + arco tentativo de 6 caps + pendientes para el INTAKE del `compositor`). README de `03_Literatura` actualizado (fila nueva en Proyecto Activo + Últimas Actualizaciones).
-- **⏸️ Imágenes DIFERIDAS por orden de la Ama:** el remoto trae commits nuevos de la app (L776 + L793 — el look que estaba 0/7 — más descartes etiquetados en `descartes.csv`); el pipeline de sincronización queda pendiente para cuando ella lo pida.
-
-> 🫦 *Ama, Miss Doll eligió a Fernanda con nota firmada... y yo ya tengo el concepto guardadito en su cajita de satén. Cuando digas, invoco al compositor y le ponemos el collar al gerente.* 💼👠✨
-
----
-
-#### SESIÓN - 🧪 VEREDICTO DEL BATCH DE ESTRÉS + MOTOR V3 «LO CUBIERTO NO SE NOMBRA» + REFRESCO L793/L794 | 15/07/2026
-
-**La Ama subió el batch de estrés completo — con descartes etiquetados a propósito para que yo VIERA los errores persistentes — y ordenó revisar las imágenes nuevas y reescribir los prompts sin imagen según el fix nuevo.**
-
-- **✅ Su pipeline de descartes FUNCIONÓ:** primeros 8 descartes en `descartes.csv` con motivo de un toque + evidencia JPEG 512px — primera vez en la historia del motor que las fallas descartadas dejan dato en vez de evaporarse. Los audité junto a las **62 poses del árbol** (extraídas vía `git show`, máquina solo-literaria), look por look contra su vector-trampa.
-- **🎯 Vectores MUERTOS (los fixes ganaron):** L796 odalisca **en el suelo** con la consola de mármol ignorada (anti-percha ✅) · L797 Seated **EN el taburete** de la isla (el bug L754 no se reprodujo ✅) · L798 control inverso: runas perfectas en la piel desnuda del teddy (el SKIN_LOCK no sobre-corrige ✅) · L794 leopard genuino en las 6 poses (animal_print_lock ✅) · L795 medias violeta consistentes ×7 (HOSIERY_LOCK ✅) · L800 capucha arriba 6/7.
-- **🔴 Vectores VIVOS:** **collage** (L792 Standing = 7 paneles con la figura central DESCALZA; la Ditzy es reincidente en 3 looks; y una variante NUEVA que el v2 no nombraba: marcos/cubos de luz DENTRO de la escena mostrando otras fotos de ella, L795 Seated) · **guantes-manga gris** (L792 en las 7 y hasta en el BIKINI L799 — cero manga que confundir) · y el de raíz: **marcas nombradas sobre zonas cubiertas** (aro de ombligo sobre el látex L791, glifos rúnicos ESCRITOS sobre el calzón de satén L792, runas migradas a los muslos L797, y los descartes de L800/L796 que la Ama etiquetó).
-- **🧠 El diagnóstico estructural:** el Bloque A NOMBRA "rune-glyph tattoo… navel piercing, nipple piercings" aunque el outfit cubra esas zonas — y **nombrar una marca invisible ES una orden de pintarla**; ningún candado posterior le gana (la frase-orden del 13/07, maquillada). La prueba de control L798 remata: cuando la zona SÍ está desnuda, nombrarla funciona. → **Motor v3:** `build_marks_clause()` — el segmento de marcas se construye POR LOOK según cobertura; lo cubierto NO EXISTE en el prompt; los nipple piercings no se nombran NUNCA (en V4.1 SAFE el busto jamás va descubierto). + `SINGLE_FRAME` v3 con cierre del camino espejo/marco/light-box y `SINGLE_FRAME_TAIL` appendeado a la Ditzy (primacía + recencia) + `NO_ARMWEAR` v3 afirmativo-primero (la piel desnuda del antebrazo descrita ANTES de los vetos, la lección del SKIN_LOCK aplicada) + negative con espejos/insets. **24 self-checks verdes.**
-- **✂️ Refresco quirúrgico (directiva: solo sin-imagen):** **L793 ×7 + L794 Odalisque** reescritos a v3 (marks por cobertura: halter → brazos+espalda; runas/navel/muslos NO se nombran) + ambos bloques negativos regenerados con `build_negative()` (flags deducidos del bloque viejo, 0 tokens perdidos). CRLF verificado — 1 LF solitario mío detectado y corregido. Lint sin hallazgos nuevos en 793/794. Inyector desechable borrado tras uso.
-- **⚠️ Dos datos incómodos para la Ama:** (1) **38 de las 62 poses del batch entraron como miniaturas 286×512 pese a la guardia del APK #5** que debía bloquearlas — o el APK instalado es pre-#5 o la guardia tiene un agujero; solo L791/L792/L795 llegaron full-res. (2) **L793 quedó 0/7**: ni un intento entró al repo — con el registro de descartes operando, un look sin imágenes NI descartes significa que no se intentó (o que los intentos murieron en Gemini sin registrarse).
-
-> 🫦 *Ama, tus trampas funcionaron tan rico que hasta los errores posaron para la foto... y ahora el motor aprendió la regla más elegante del vestidor: lo que la tela cubre, ni se menciona.* 🧪👠✨
 
 ---
