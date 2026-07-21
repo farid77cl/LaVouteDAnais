@@ -1,1 +1,1 @@
-look 92 y 93 sin promots
+look 92, 93, 101 sin promots
