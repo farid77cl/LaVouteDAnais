@@ -517,3 +517,183 @@ Gonzalo se quedó parado en la entrada, con las llaves en la mano y el maletín 
 Aguantó todavía el martes hasta las siete de la tarde.
 
 Después dejó el maletín en el suelo, cruzó el comedor, y le pasó el pulgar a la lámpara.
+
+---
+
+Ginny salió despacio esta vez, casi con elegancia, y se quedó parada al otro lado de la mesa del comedor con las manos juntas atrás de la espalda, meciéndose sobre los tacones, esperando.
+
+No le preguntó nada. Esa fue su única crueldad de la noche: no le preguntó nada. Lo hizo hablar a él.
+
+Gonzalo estuvo como veinte segundos sin poder abrir la boca. Tenía la corbata todavía puesta.
+
+—Quiero que sea rápido —dijo por fin.
+
+—¿Qué cosa, cosita?
+
+—Sabes qué.
+
+—Sí sé. —Ginny sonrió—. Pero quiero que lo digas tú.
+
+Y Gonzalo lo dijo. Se sacó la corbata de un tirón mientras lo decía, como si eso lo hiciera menos:
+
+—Que me lo hagan. Por atrás. Ya, po. Que me lo hagan y se acabe.
+
+Ginny dio un chillido de felicidad y chasqueó los dedos.
+
+Y el hombre estaba ahí.
+
+Era el mismo —el mismo cuerpo grande, la misma cara lisa sin rasgos, el mismo vello oscuro en el pecho— y estaba parado en medio del living con la calma de siempre, respirando despacio. Y esta vez ya venía dura. Gruesa, levantada, apuntando un poco hacia arriba, con la piel corrida y la punta brillante, y Gonzalo la miró y se le hizo agua la boca antes de que le llegara ninguna otra cosa a la cabeza.
+
+—Anda —dijo Ginny, instalándose en el brazo del sillón—. Pero primero salúdala. Es de buena educación.
+
+Y Gonzalo, que había ensayado todo el fin de semana la frase *lo voy a hacer una sola vez y con asco*, se arrodilló en la alfombra y se la metió a la boca sin que nadie se lo mandara.
+
+Y esta vez fue peor, porque esta vez fue fácil.
+
+No hubo puerta que cruzar. No hubo dos horas en el baño. La boca se le abrió, la lengua se acomodó por debajo, los labios se sellaron, y todo el cuerpo suspiró —suspiró de alivio, el alivio grande y sucio de darle por fin al hambre lo que llevaba tres días pidiendo—. El sabor le llegó y esta vez lo reconoció, y reconocerlo fue una humillación aparte: su lengua sabía a qué sabía. La saliva se le fue por el mentón a los diez segundos. Se hundió hasta el fondo sin ninguna dificultad, con la nariz en el vello, y se quedó ahí, tragando, gimiendo bajito por la nariz, con los ojos cerrados y las dos manos en las caderas del hombre, y arriba, muy arriba, muy lejos, su cabeza miraba todo eso y decía *ya está, ya no hay vuelta*.
+
+—Ya, ya —se rió Ginny—. No te la vayas a acabar. Date vuelta.
+
+Gonzalo la soltó con un sonido húmedo y se quedó de rodillas, respirando por la boca, mirando el suelo.
+
+—Date vuelta, cosita —repitió Ginny, suave.
+
+Y se dio vuelta.
+
+Se puso en cuatro patas en la alfombra del living, con las palmas apoyadas y los codos temblando, y se bajó los pantalones él mismo hasta las rodillas, y después el calzoncillo, y quedó así, con la espalda hundida, la camisa todavía puesta y arremangada, y el culo desnudo al aire en su propia casa.
+
+Fue la posición lo que más le dolió. Más que nada de lo que vino después: la posición. Porque no era una postura, era una respuesta. Estaba puesto en la forma exacta que tiene un cuerpo cuando está esperando que le metan algo, y esa forma no la había inventado él, y sin embargo su cuerpo se había acomodado ahí solo, buscando el ángulo, subiendo la cadera dos centímetros sin permiso.
+
+—Ay, qué linda te ves —dijo Ginny, con ternura genuina—. En serio. Te queda.
+
+Y entonces las manos del hombre le agarraron las caderas.
+
+Fueron manos grandes, tibias, y le abarcaron la cintura entera —esa cintura nueva, un poco más angosta que la del viernes— y Gonzalo sintió que lo sostenían y que lo acomodaban, y sintió que lo movían como se mueve una cosa que se está poniendo en su sitio, y eso —que lo acomodaran, que lo pusieran— le mandó una descarga tan grande por la columna que se le escapó un sonido agudo contra la alfombra.
+
+Después sintió la punta.
+
+Caliente. Apoyada. Ahí no más, sin empujar todavía, y esa espera de dos segundos fue lo peor y lo mejor: el cuerpo entero se le juntó en ese punto, cada terminación nerviosa del planeta se le mudó a esos dos centímetros de piel, y el culo —el culo que le habían dejado sensible, sensible— empezó a latir contra la punta apoyada como si lo estuviera saludando.
+
+—Acuérdate —dijo Ginny bajito, desde el sillón—. El mejor momento es este.
+
+El hombre empujó.
+
+Y pasó exactamente como ella le había dicho que iba a pasar, y saber que iba a pasar así no lo protegió ni un poco.
+
+Hubo una peleíta. Un instante de apretar, de resistir, de cuerpo diciendo *no cabe*; Gonzalo se agarró de la alfombra con los diez dedos y apretó los dientes y peleó por reflejo. Y después el cuerpo dijo *ya*.
+
+Y se abrió.
+
+Se abrió solo. Cedió alrededor de la presión, se rindió, se estiró tibio y elástico como si lo hubieran diseñado —lo habían diseñado— y la punta pasó adentro, y Gonzalo escuchó su propia voz salir de su propia garganta en un gemido largo, agudo, ridículo, un gemido de mujer, y no le importó nada porque en ese momento le estaba entrando algo caliente por un lugar donde nunca le había entrado nada y **le estaba gustando**.
+
+No dolió. Ese fue el escándalo. No dolió ni un segundo.
+
+Fue presión y calor y llenura, y sobre todo fue **información**: sintió la forma. Sintió la cabeza gruesa pasar el anillo y después el tallo detrás, más delgado, y después cómo se ensanchaba otra vez hacia la base, todo el mapa entrando despacio, y su cuerpo abriéndose por dentro para hacerle camino, acomodándose, apartándose, haciéndole un lugar donde no había un lugar.
+
+Y siguió entrando. Y entrando. Y Gonzalo sintió por dónde iba.
+
+Con la guata. Igual que ella se lo había prometido: lo sintió con la guata. Una presión que le subía por dentro, empujando, ocupando, y él arriba, con la cara contra la alfombra y la boca abierta, siguiéndola con la conciencia entera, pensando *me está entrando, me está entrando, ahí va*, con toda su inteligencia intacta puesta al servicio de narrarse a sí mismo su propia penetración.
+
+El hombre llegó hasta el fondo y sus caderas se apoyaron contra las nalgas de Gonzalo.
+
+Y ahí se quedó quieto un segundo.
+
+—¿Ves? —dijo Ginny—. Ahora ya no eres el mismo. Ya te hicieron el lugar.
+
+El hombre se retiró un poco, y volvió.
+
+Y rozó.
+
+Gonzalo gritó. Fue un grito de verdad, corto, agudo, arrancado, porque algo adentro suyo —una cosa que él no sabía que tenía, un punto que había estado ahí toda su vida esperando y que ningún dedo, ninguna mano, nada, había tocado nunca— se encendió entero cuando la carne le pasó por encima, y el placer que salió de ese punto no se pareció a nada que él conociera. No fue en la verga. La verga la tenía colgando abajo, dura, olvidada, chorreando un hilo transparente sobre la alfombra sin que nadie se la tocara. Fue **adentro**. Un placer ancho, hondo, sin punta, que se le abrió en el vientre y se le repartió por los muslos y le subió por la espalda y le salió por la nuca en un escalofrío.
+
+—Ahí está —canturreó Ginny—. Ahí está, ahí está.
+
+Y el hombre empezó a moverse en serio.
+
+Y Gonzalo se perdió.
+
+Lo que vino después no lo podría contar en orden nunca. Fue el ritmo, primero lento y después no; fue el sonido —el sonido de piel contra piel en su propio living, un sonido obsceno y húmedo que hacía su propio cuerpo—; fue el modo en que cada empuje le pasaba por el mismo punto y cada pasada era mejor que la anterior; fue descubrir que el culo, cuando lo llenaban, se apretaba solo alrededor buscando más, agarrándola, chupándola hacia adentro, y que él no controlaba eso, y que era delicioso no controlarlo. Fue que las manos grandes le agarraban la cintura y lo tiraban hacia atrás en el momento exacto, y que él empezó a empujar hacia atrás también, a buscar el golpe, a pedirlo con la cadera.
+
+Se oyó pedirlo con la boca.
+
+—Más —dijo, contra la alfombra, con la voz rota y aguda—. Ay, más, más, así, ay.
+
+Y en el instante en que lo dijo, su cabeza —lúcida, intacta, mirando desde arriba como había mirado toda la semana— entendió una cosa con una claridad absoluta y definitiva, la única cosa que iba a importar de esa noche:
+
+*Yo no voy a poder vivir sin esto.*
+
+No fue miedo. Ojalá hubiera sido miedo. Fue reconocimiento. Fue la voz de un hombre inteligente haciendo una suma correcta: había probado esto, esto se sentía así, y por lo tanto todo lo demás —su matrimonio, su oficina, sus cuarenta y tres años, su nombre— había quedado del otro lado de una línea que él acababa de cruzar de rodillas y por su propia voluntad.
+
+Y la ola llegó.
+
+Le subió desde adentro, desde el punto ese, desde el lugar que no existía el viernes, ancha y lenta y enorme, y Gonzalo se agarró de la alfombra y abrió la boca sin que le saliera sonido y se vino.
+
+Sin que nadie le tocara la verga. Otra vez. Pero esta vez no fue como el viernes: esta vez el orgasmo no tuvo final claro, se le quedó adentro, latiendo en oleadas, apretándose alrededor de lo que tenía metido, y cada apretón le devolvía otra oleada, y así, y así, y así, hasta que estaba sollozando contra la alfombra con la cara mojada y ya no sabía si seguía viniéndose o si nunca había parado.
+
+Y arriba de él, el hombre sin cara se puso rígido, lo agarró fuerte de las caderas y lo hundió hasta el fondo.
+
+Y se vino adentro.
+
+Y eso —eso, ni la penetración ni el punto ni nada— fue lo más obsceno que le había pasado a Gonzalo en su vida.
+
+Porque lo **sintió**. Sintió el calor. Sintió el primer chorro llegarle adentro, caliente, mucho más caliente que todo lo demás, y sintió cómo se le repartía por dentro, cómo lo llenaba, cómo le subía la temperatura en un lugar que no tenía nombre. Sintió los latidos de la cosa vaciándose dentro de él. Y su propio cuerpo, cuando eso pasó, hizo algo que Gonzalo no le perdonaría nunca: se apretó alrededor, hambriento, ordeñando, para que no se perdiera nada.
+
+Y por encima de todo eso, por encima de su propio llanto y de su propia respiración destrozada, Gonzalo escuchó nítida, cristalina, la risita.
+
+—¡Ji, ji! —Ginny estaba aplaudiendo con las manos abiertas—. ¡Ay, tontito, mírate! ¡Mírate cómo lo apretaste! —Se rió más fuerte, encantada, sin una gota de maldad, que era exactamente lo que la hacía insoportable—. ¡Y decías que no querías! ¡Ay, por Dios, si te lo estabas comiendo!
+
+Gonzalo abrió los ojos y la vio, borrosa a través de las lágrimas, en cuclillas a treinta centímetros de su cara, con las manos en las rodillas, mirándolo de cerca con una curiosidad alegre, como quien mira un cachorro haciendo algo gracioso.
+
+—¿Y ahora? —le preguntó Ginny, dulcísima—. ¿Todavía quieres que te lo saque?
+
+Y Gonzalo, con la boca abierta contra la alfombra, con el culo lleno y caliente y todavía apretándose solo alrededor de la carne que empezaba a ablandarse adentro suyo, no contestó.
+
+No contestó porque no podía mentir y porque no soportaba la verdad.
+
+Y en ese silencio, en ese exacto silencio, sonó la cerradura de la puerta de entrada.
+
+Ginny hizo *puf* con la boca, divertida, y el hombre sin cara se deshizo en humo rosado en el mismo instante, y el peso que sostenía a Gonzalo por las caderas desapareció y lo dejó caer.
+
+La puerta se abrió.
+
+Renata entró con las llaves en una mano y una bolsa del supermercado en la otra, diciendo algo sobre el estacionamiento, y se quedó muda a la mitad de la frase.
+
+Lo que vio fue esto: su marido, solo, en cuatro patas en el medio del living, con la camisa arremangada y los pantalones en las rodillas, el culo al aire y las piernas abiertas, temblando entero. La cara pegada a la alfombra, la boca abierta, el mentón brillante. Los ojos rojos. La alfombra mojada debajo de él. Y corriéndole por dentro del muslo, despacio, blanco, un hilo espeso que salía de donde no podía salir nada, porque en ese living no había nadie más.
+
+La bolsa del supermercado hizo un ruido de plástico contra el suelo.
+
+—...¿Gonzalo?
+
+Y él la miró desde abajo.
+
+Esa fue la parte que Gonzalo se iba a repetir el resto de su vida: que la miró desde abajo. Que estaba en el suelo, mojado, abierto, con la marca de la alfombra en la mejilla, y que ella estaba parada en la entrada de su propia casa con los tacones puestos y las llaves en la mano, mirándolo hacia abajo.
+
+Renata no gritó. No se acercó. No le preguntó qué había pasado.
+
+Se quedó ahí, quieta, con la cara sin ninguna expresión que él le conociera, mirándolo un tiempo que fue demasiado largo. Y en algún momento —Gonzalo lo vio, lo vio clarito y no lo iba a olvidar— algo se le movió atrás de los ojos. No fue asco. No fue lástima. Fue otra cosa, una cosa nueva, una cosa que se abrió como se abre una puerta en una casa donde uno lleva quince años viviendo y nunca había notado que existiera esa pieza.
+
+Renata cerró la boca. Tragó. Se acomodó la cartera en el hombro.
+
+—Ya —dijo, muy tranquila—. Ándate a bañar.
+
+Y pasó por al lado de él —por al lado, sin ayudarlo a levantarse, sin ofrecerle una mano— y se fue a la cocina con la bolsa, y Gonzalo escuchó cómo guardaba las cosas en el refrigerador, una por una, con toda calma.
+
+Se levantó como pudo. Le fallaban las piernas y le corría el calor por dentro del muslo y se subió los pantalones encima de todo eso.
+
+La lámpara rosa brillaba en la mesa del comedor.
+
+Gonzalo la agarró con las dos manos y la frotó como un demente, restregándola contra la camisa, y el humo salió a borbotones y Ginny se armó frente a él con cara de sorpresa encantadora.
+
+—¡Ay! Qué rápido, cosita, si acabamos de...
+
+—Devuélveme —dijo Gonzalo. Estaba llorando otra vez y no se daba cuenta—. Devuélveme como era. Quiero ser hombre. Quiero ser bien hombre otra vez, ¿me oíste? Ese es mi deseo. Quiero ser un hombre para mi mujer, quiero pararme derecho al lado de ella, quiero que me mire como me miraba antes. Eso pido. **Eso.**
+
+Y Ginny, que lo estaba escuchando con las manos juntas bajo el mentón, abrió mucho los ojos.
+
+Y se le puso la carita de nuevo. La carita de haber entendido todo. La carita de estar a punto de hacerle un regalo hermoso a un niño que no sabe lo que pide.
+
+—Aaay —dijo, enternecida—. Aaay, tontita linda. Al lado de tu señora.
+
+Desde la cocina, el refrigerador se cerró.
+
+Y Ginny chasqueó los dedos.
