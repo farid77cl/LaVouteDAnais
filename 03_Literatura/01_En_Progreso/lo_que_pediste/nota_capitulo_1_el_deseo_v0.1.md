@@ -1,1 +1,1 @@
-descripción de Ginny desde los tacones, piernas etc. dale piel aceitosa sensual, bronceada, con algo de glitter
+descripción de Ginny desde los tacones, piernas etc. dale piel aceitosa sensual, bronceada, con algo de glitter. Ginny es Bimbo, es sexo, describe el outfit también 
