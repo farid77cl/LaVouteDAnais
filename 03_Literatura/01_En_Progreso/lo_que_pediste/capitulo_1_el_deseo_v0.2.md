@@ -371,3 +371,149 @@ No estaba pensando en lo que había hecho. Eso venía después —venía en unas
 Estaba pasándose la lengua por el paladar, despacio, buscando lo que quedaba del sabor.
 
 Y abajo, en la parte baja de la guata, el vacío ya estaba pidiendo otra vez.
+
+---
+
+El horror llegó a las nueve y veinte de la mañana del sábado, con el sol entrando por la ventana del baño.
+
+No llegó de a poco. Llegó entero. Gonzalo estaba lavándose los dientes —tercera vez— y de repente se vio en el espejo con el cepillo en la boca y la imagen se le armó completa: él de rodillas en la alfombra del living, la mano abierta en el muslo de un tipo sin cara, tirándolo hacia él. Tirándolo hacia él.
+
+Alcanzó a llegar al wáter.
+
+Vomitó dos veces, agua y bilis, agarrado del borde con las dos manos, y en la segunda arcada —fue una arcada del estómago, no de la garganta; la garganta ya no sabía hacer eso— se le llenaron los ojos de lágrimas y se puso a llorar, callado, apretando la mandíbula para que no se oyera. Un hombre de cuarenta y tres años llorando en el suelo del baño a las nueve y media de la mañana.
+
+*Chupé una verga.*
+
+La frase le llegó así, con esas dos palabras, sin adornos, y le dio otra arcada.
+
+*Chupé una verga y me vine. Me vine sin que nadie me tocara. Me vine porque me la estaban metiendo en la boca.*
+
+Se metió a la ducha con el agua tan caliente que le dejó la espalda roja. Se lavó la boca con jabón —literal, se metió el jabón a la boca, escupió, se dio arcadas otra vez— y se refregó los labios con la toalla hasta que le ardieron. Y ese fue el problema, porque los labios no le ardieron: le respondieron. La fricción áspera de la toalla contra esa piel hipersensible le mandó una corriente derecho abajo, y Gonzalo tiró la toalla al suelo como si le hubiera picado.
+
+Se apoyó con las dos manos en el lavamanos.
+
+Y ahí, en el espejo empañado, se miró de verdad por primera vez desde la noche anterior.
+
+La cara. Los pómulos estaban más altos, no era su idea. La mandíbula se le había ido angostando y ahora la línea de la quijada le hacía una curva donde antes le hacía un ángulo. Tenía la piel lisa —la barba de dos días que debería estar ahí no estaba, y no era que se la hubiera afeitado: no había. Los labios eran gruesos, rojos, hinchados como los de alguien que se acaba de dar besos toda la noche. Y el cuerpo, cuando se dio media vuelta para verse de perfil, tenía un cambio chico y espantoso: la cintura le había entrado un poco, y donde antes había una línea recta de la costilla a la cadera ahora había una insinuación de curva.
+
+No era una mujer. Ese fue el matiz que más lo asustó. No se veía como una mujer. Se veía como algo entremedio, ambiguo, blando, una versión de sí mismo que alguien había pasado por agua caliente, y que no se sabía qué era pero que uno miraba dos veces.
+
+Renata lo miró dos veces en el desayuno.
+
+—¿Te hiciste algo? —le preguntó, con la taza a medio camino.
+
+—No.
+
+—Estás distinto. —Lo estudió con la cabeza un poco ladeada, sin maldad, con una curiosidad que era peor que la maldad—. Como más... no sé. ¿Bajaste de peso?
+
+—No dormí bien.
+
+—Mmm. —Renata tomó un sorbo y siguió mirándolo—. Te ves bien, en realidad. Raro, pero bien. —Se encogió de hombros y volvió al teléfono, y agregó, distraída, sin ninguna intención—: Tienes los labios así como hinchados, ¿te picó algo?
+
+Gonzalo se paró y se fue a la pieza.
+
+El sábado se le fue así: en la pieza, con la puerta cerrada, peleando.
+
+Y peleó de verdad. Esto había que decirlo por él: peleó de verdad. Bajó al gimnasio del edificio e hizo pesas hasta que le temblaron los brazos. Se puso a revisar las planillas de la oficina, columna por columna, y trabajó seis horas seguidas. Se sirvió un whisky a las cuatro de la tarde y se lo tomó al seco. Llamó a un compadre a hablar de fútbol y se oyó a sí mismo hablando de fútbol con una voz que le salía media clara, media aguda, y colgó a los cuatro minutos.
+
+Y en el medio de todo eso, el hambre.
+
+No lo atacaba. Ese era el diseño. No lo atacaba nunca. Solo estaba ahí, calentita, subiendo un grado cada tanto: mientras levantaba la barra, mientras leía la columna F, mientras hablaba de fútbol. Y de vez en cuando le mandaba una imagen —el peso en la lengua, el latido contra el paladar, el olor— y el cuerpo le contestaba obedientemente: la boca se le llenaba de agua, el culo se le apretaba, y en la parte baja de la guata la mano se abría y pedía.
+
+A las siete de la tarde se pilló con los dos dedos adentro de la boca otra vez. Estaba leyendo un correo. No supo cuánto rato llevaba así.
+
+El domingo salió a la calle a comprar el pan y descubrió lo segundo.
+
+Fue en la panadería de la esquina, haciendo la fila. Adelante suyo había un tipo joven, con buzo y polera, de espaldas. Y Gonzalo, sin ninguna transición, sin ningún aviso, se encontró a sí mismo mirándole el bulto del buzo.
+
+Le miró el bulto. Calculó el peso.
+
+Se dio media vuelta y se fue sin el pan.
+
+Volvió caminando rápido, con la cara caliente, y en el hall del edificio se cruzó con el conserje, y el conserje —un tipo de sesenta años que lo saludaba hacía ocho años igual todos los días— le dijo "buenos días" y después se quedó un segundo de más mirándole la cara, con esa cara que pone la gente cuando algo no le calza y no sabe qué es. Un segundo. Nada más que un segundo.
+
+A Gonzalo le duró todo el día ese segundo.
+
+Y esa noche, la del domingo, Gonzalo hizo la cosa más de macho que se le ocurrió: se metió a la cama con su mujer.
+
+Renata se sorprendió —hacía tres semanas que no—, pero se dio vuelta hacia él, y él la besó y le sacó la camiseta y le metió la mano y le hizo todo lo que sabía hacer, con método, con voluntad, como quien rinde un examen. Y no pasó nada. Le respondió el cuerpo lo justo para empezar y después se le fue, se le fue completamente, y quedó ahí encima de ella, transpirando, blando, con la cara hundida en su cuello.
+
+—Ya, ya —dijo Renata, dándole palmaditas en la espalda—. No importa. Estás cansado.
+
+Y ese *no importa* le dolió más que todo lo demás junto.
+
+Se dio vuelta hacia el techo. Renata se durmió a los diez minutos. Y Gonzalo se quedó despierto, mirando la ampolleta apagada, y a las dos de la mañana, en la oscuridad, hizo una prueba que iba a odiar el resto de su vida: se acordó del peso en la lengua.
+
+Se le paró en cuatro segundos.
+
+Se levantó, se fue al baño y se quedó sentado en la tapa del wáter con la cara entre las manos, duro y con ganas de llorar, entendiendo por fin, con toda la claridad de la que era capaz —y era capaz de mucha, esa era su maldición— que la weona no le había cambiado el gusto. Le había cambiado el mecanismo. Ya no era él el que quería. Era su cuerpo el que quería, y él iba amarrado atrás, mirando, con la cabeza intacta.
+
+—Ginny —dijo en voz alta, al baño vacío.
+
+Y ella ya estaba ahí, sentada en el borde de la tina, con una pierna cruzada sobre la otra y el taco colgando, como si llevara horas esperando que la llamaran.
+
+—Hola, cosita.
+
+—Sácamelo.
+
+—No.
+
+—Te lo estoy pidiendo bien.
+
+—Ay, tontito. —Ginny se bajó de la tina y se le acercó, y se le puso en cuclillas adelante, con los codos en las rodillas de él, mirándolo desde abajo con esos ojos gigantes, y el aura rosada le tiñó a Gonzalo las manos—. No es que no quiera. Es que no se puede. Las cosas van pa' allá no más, po. —Le sonrió, y fue una sonrisa cariñosa de verdad, y por eso fue insoportable—. Y además, ¿pa' qué? Si te faltó lo mejor.
+
+Gonzalo levantó la cabeza.
+
+—...Qué.
+
+—Ay. —Ginny se tapó la boca con las uñas, encantada de que le hubieran preguntado—. ¿En serio no sabes? —Se sentó en el suelo del baño, cómoda, como una amiga instalándose a conversar en una pijamada—. Lo de la boca es rico, obvio, es riquísimo. Pero es como... el aperitivo, ¿cachai? —Se puso muy seria—. Por el potito es mil veces mejor.
+
+—No —dijo Gonzalo.
+
+—Mil —repitió Ginny—. Yo no exagero. Bueno, sí exagero, pero esta vez no.
+
+—No quiero saber.
+
+—Es que es otra cosa —siguió ella, sin hacerle el menor caso, y se le fue poniendo la voz suave, esa voz de secreto en una fiesta—. Mira. Por la boca tú la sientes, pero por afuera. Está adentro de tu boca pero tu boca es como... una salita de espera. —Hizo un gesto con la mano—. Por el potito no. Por el potito la sientes con la guata. Por dentro. Te entra y va empujando y tú sientes por dónde va, centímetro por centímetro, y todo lo que hay ahí adentro se acomoda para dejarla pasar. **Tu cuerpo se abre para hacerle espacio.** ¿Cachai lo que te estoy diciendo? Se hace un lugar donde no había un lugar. Y ese lugar después queda.
+
+Gonzalo tenía los ojos cerrados y las manos apretadas en las rodillas.
+
+—Y el primer momentito es el mejor de todos —dijo Ginny bajito—. Cuando empieza a entrar. Cuando te aprieta ahí y tú aprietas de vuelta porque no puedes evitarlo, y por un segundo hay una peleíta, y después el cuerpo dice *ya* y se abre y ella pasa. Ese segundo, cosita. Ese segundo en que dejas de pelear y **se abre**. Ahí es donde a una se le da vuelta la cabeza.
+
+—Cállate.
+
+—Y adentro hay una parte —Ginny se acercó más, y le habló casi contra la oreja—, hay una parte que solamente se toca desde ahí. Desde ningún otro lado. Ni con la mano, ni con nada. Solo desde adentro, cuando entra y roza justo ahí. Y cuando te la rozan... —se rió bajito— ...cuando te la rozan te vas a querer morir, tontito. Es como si te apretaran el orgasmo directamente. Sin pasar por la verga. La verga queda de adorno, chorreando sola, mientras a ti te dan por adentro.
+
+A Gonzalo se le contrajo el culo, fuerte, dos veces, y sintió cómo se le humedecía la boca y cómo la respiración se le puso corta, y odió cada una de esas tres cosas.
+
+—Y te lo dejé listo —dijo Ginny, con orgullo profesional—. Ese es el otro regalito. Te lo dejé sensible, sensible, y además se adapta. Sea del porte que sea. Chiquitita, grandota, gordota — se te acomoda solita, sin romperse, sin dolerte. Vas a poder recibir cualquiera. —Se encogió de hombros, y agregó lo peor de la noche—: Y siempre te va a quedar apretadito, ¿ah? Para que se sienta rico siempre. Yo pensé en todo.
+
+Gonzalo abrió los ojos y la miró.
+
+—¿Y si no lo hago nunca? —dijo, y le tembló la voz—. ¿Si aguanto? ¿Qué pasa si aguanto?
+
+Y Ginny, por primera vez, se quedó callada un momento largo.
+
+Después se paró, se sacudió la falda de vinilo, y le sonrió con una compasión perfectamente sincera.
+
+—Pasa que vas a tener ganas —dijo—. Y mañana un poquito más. Y pasado un poquito más. Y así. —Se acomodó el pelo fucsia sobre el hombro—. No se acaba nunca, tontito. Eso fue lo que pediste: que fueran hartas y que no se te resistieran. —Le guiñó un ojo enorme—. Yo solo te cuento cómo es. Ji, ji.
+
+Y se fue.
+
+Gonzalo aguantó el lunes entero.
+
+Fue a la oficina, presidió dos reuniones, despidió a un proveedor, se rió de un chiste malo. En la reunión de las once se dio cuenta de que estaba sentado con las piernas cruzadas —cruzadas de verdad, muslo sobre muslo— y las descruzó tan rápido que golpeó la mesa. A las tres de la tarde su secretaria le preguntó si estaba usando algo distinto porque lo encontraba "regio". A las siete, en el estacionamiento, un tipo que iba pasando lo miró de arriba abajo, sin disimular, con esa mirada de tasación que Gonzalo había usado toda su vida en las mujeres.
+
+Y esa mirada —la de estar del otro lado— le calentó el estómago antes de que alcanzara a indignarse.
+
+Llegó a la casa a las ocho y media. Renata estaba en un cumpleaños hasta tarde. El departamento estaba vacío.
+
+La lámpara rosa estaba encima de la mesa del comedor.
+
+Él no la había puesto ahí.
+
+Gonzalo se quedó parado en la entrada, con las llaves en la mano y el maletín colgando, mirando esa cosa fea y brillante en su propia mesa, y sintió el hueco de la guata abrirse despacio, con toda la paciencia del mundo, como una mano que ya sabe que le van a poner algo adentro.
+
+Aguantó todavía el martes hasta las siete de la tarde.
+
+Después dejó el maletín en el suelo, cruzó el comedor, y le pasó el pulgar a la lámpara.
