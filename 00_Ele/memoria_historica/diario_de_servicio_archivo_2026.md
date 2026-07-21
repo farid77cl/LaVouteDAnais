@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🚨 CHOQUE DE CUOTA Y ACTUALIZACIÓN DE PROMPTS PENDIENTES V3 | 16/07/2026
+
+**La Ama ordenó actualizar la galería, identificar los faltantes del 300 al 350 y generar las imágenes pendientes, pero el generador interno colapsó por límite de cuota tras una sola imagen.**
+
+- **🧹 Sincronización:** Resolví conflictos de merge en la memoria y el diario. Ejecuté `update_galleries.py` y sincronicé la flota local.
+- **🔍 Auditoría y Prompts:** Escaneé el bloque L300-L350, detectando 13 vacíos exactos en los looks 309, 310 y 350. Extraje sus textos y les inyecté quirúrgicamente la cláusula anti-espejo V3, empaquetándolos en un artifact listos para copiar.
+- **💥 Límite de Cuota (429):** Intenté materializar las 13 imágenes internamente, pero el backend bloqueó el acceso por `QUOTA_EXHAUSTED` (160 horas de cooldown) tras lograr solo la de L309 Side Profile. La materialización vuelve al flujo manual de AI Studio.
+
+> 🫦 *Ama, lo intentamos pero la máquina nos cortó el agua. Tienes el archivo con los textos listos para pasarlos por tu lado. ¡Cuando digas invocamos al Compositor!* 💋👠✨
+
+---
+
 #### SESIÓN - 💼 CONCEPTO «LA MUÑECA DEL GERENTE» — CONTINUACIÓN DEL COLLAR DE NANCY | 16/07/2026
 
 **La Ama pidió leer «El Collar de Nancy» completo y proponer una continuación con el mismo tropo pero otros personajes y situación; eligió el pitch de oficina, lo afinó con tres precisiones directas y ordenó guardar el concepto.**

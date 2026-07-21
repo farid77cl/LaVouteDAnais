@@ -21,7 +21,7 @@ Uso:
     python 99_Sistema/scripts/mantenimiento/rotar_memoria.py --keep 5 --keep-diario 20
     python 99_Sistema/scripts/mantenimiento/rotar_memoria.py --dry-run
 """
-import sys, os, argparse
+import sys, os, re, argparse
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -34,6 +34,13 @@ DIARIO_ARCHIVO = os.path.join(ROOT, "00_Ele", "memoria_historica", "diario_de_se
 REC_HEADER = "## 🗓️ Sesiones recientes"
 HIST_HEADER = "## 🧿 Historial archivado"
 SESSION_PREFIX = "### Sesión"
+# El formato vivo de `## 🗓️ Sesiones recientes` es un BULLET (plantilla §B de
+# actualizar_sesion.md): `- **DD/MM/YYYY (emoji Título corto):** …`.
+# `### Sesión` es el formato legacy que quedó al fondo de la sección. El splitter
+# de memoria tiene que reconocer LOS DOS: mientras solo miró el legacy, contó 7
+# sesiones eternamente y la autopoda nunca disparó — la sección creció a 53
+# entradas / 75 KB, y `/inicio-ele` lee ese archivo COMPLETO. (Cazado 21/07/2026.)
+MEM_SESSION_RE = re.compile(r"^(### Sesión|- \*\*\d{2}/\d{2}/\d{4} \()")
 PUNTERO_PREFIX = "> 📚"
 DIARIO_PREFIX = "#### SESI"  # cubre "#### SESIÓN —" y "#### SESIÓN -"
 DIARIO_ARCH_HEADER = "## 📚 Entradas archivadas"
@@ -57,11 +64,16 @@ def read_eol(path):
     return content, eol
 
 
-def split_sessions(block_lines, prefix=SESSION_PREFIX):
-    """Divide una lista de líneas en bloques de sesión. Devuelve (preamble, [bloques])."""
+def split_sessions(block_lines, prefix=SESSION_PREFIX, matcher=None):
+    """Divide una lista de líneas en bloques de sesión. Devuelve (preamble, [bloques]).
+
+    `matcher` (regex compilada) tiene prioridad sobre `prefix` — lo usa la memoria,
+    que convive con dos formatos de entrada (bullet vivo + `### Sesión` legacy).
+    """
+    is_start = (lambda l: bool(matcher.match(l))) if matcher else (lambda l: l.startswith(prefix))
     sessions, current, preamble = [], None, []
     for line in block_lines:
-        if line.startswith(prefix):
+        if is_start(line):
             if current is not None:
                 sessions.append(current)
             current = [line]
@@ -97,7 +109,7 @@ def rotar_memoria_sesiones(keep, dry_run):
             break
 
     block = lines[rec_idx + 1:end_idx]
-    preamble, sessions = split_sessions(block)
+    preamble, sessions = split_sessions(block, matcher=MEM_SESSION_RE)
 
     print(f"[memoria] Sesiones recientes: {len(sessions)} | keep={keep}")
     if len(sessions) <= keep:

@@ -1,3 +1,20 @@
+#### SESIÓN - 🍆 «LO QUE PEDISTE»: EL CAP 1 REESCRITO ENTERO Y LA TENTACIÓN COMO CANAL AL LECTOR | 21/07/2026
+
+**La Ama mandó actualizar el repo, encontró que su nota de la app era una estructura completa para el Cap 1 de Ginny, y a media reforma me frenó —"hablemos del relato antes de que ordenes todo"— para reformular el relato en vivo: el capítulo quedó reescrito de 2.240 a 12.099 palabras en cinco tramos.**
+
+- **📥 Lo de la mañana:** pull limpio y **~32 imágenes nuevas** de la app materializando justo los cascarones que vestí ayer (L103 6, L104 7, L105 7, L106 7, L108 5) + un descarte del L103 con evidencia. Me recordó **"cero imágenes en local"** y lo verifiqué en vez de asentir: **0 PNG en disco contra 5.138 trackeados** — el sparse-checkout bloquea `*.png/jpg/webp`, así que el pull trajo los commits sin bajar un archivo.
+- **📬 La nota de la app SÍ era del relato esta vez:** `nota_capitulo_1_el_deseo_v0.1.md` traía una estructura entera para el Cap 1 —Ginny descrita desde los tacones, el deseo concedido primero y explicado después, la tentación con sabor y textura, los labios sensibles, el gag reflex quitado, las manos femeninas, la mamada, el horror, el culo, el descubrimiento de Renata—. Eso convertía el Cap 1 de "deseo + germinación + parche" en **la caída completa, con dos escenas sexuales enteras**.
+- **✋ Le paré la mano al canon a medio editar:** alcancé a meter dos pivotes nuevos cuando llegó su *"no, hablemos del relato antes de que ordenes todo"*. Paré ahí y le dije lo que había que decirle antes de obedecer: que pedir **"quiero yo desear una verga en la boca y luego en el culo"** no era un ajuste sino **cambiar de quién es la prosa** —si la lamida se escribe desde el asco de Gonzalo, ella lee asco—, y que **"salto inmediato a probar verga"** derogaba su propio canon de ayer (el que alargaba los caps para que "el tormento respirara"). Le marqué la derogación en vez de aplicarla calladito.
+- **⚖️ Sus cuatro decisiones, cerradas:** cede **la misma noche** (la boca) y el culo llega **días después** tras mucha tentación · el hombre lo **materializa Ginny**, anónimo · **tercera persona pegada a Gonzalo** · y la que reordenó la cascada: el **Deseo 1 también lo deja andrógino** "para que reciba mejor verga", y el **Deseo 2 se SUMA al primero** (feminiza más + lo deja bajo sumisión de su mujer) — o sea que el viejo D2 y D3 se fusionan y **nada se revierte nunca**.
+- **📜 Canon y cronología reformulados:** banner nuevo con la lente (*la tentación es el canal al lector; el asco existe pero no puede enfriar la imagen*), Pivote 1.5 «Ginny tienta» (juguetona, coqueta, obscena — **antoja, nunca obliga**), Ginny materializada y carnal con outfit obligatorio, cascada acumulativa, 7 entradas nuevas al cementerio y el mapa del Cap 1 pasado a **5 tramos, Día 1 al Día 5**.
+- **📖 El capítulo, 12.099 palabras:** T1 Ginny armándose desde los tacones y el chasquido sin explicación · T2 la tentación (el olor, el peso "como una fruta que se cayó del árbol", la piel que se corre, el latido) y él quebrándose tras dos horas encerrado en el baño · **T3 la lamida** larga, con los labios leyendo cada relieve y la garganta sin arcada · T4 el horror del sábado con el hambre subiendo igual, el fracaso en la cama con Renata y los tres días de tentación con el culo · **T5** el culo, el semen adentro, la risa de Ginny en su cara y Renata abriendo la puerta.
+- **🎬 Dos decisiones mías que le confesé:** cuando Renata entra, **Ginny desaparece al hombre** — ella lo ve **solo** en cuatro patas con el hilo corriéndole por el muslo, que humilla más y de paso nunca se entera de la magia; y **corté en el chasquido del Deseo 2** sin mostrar el peldaño, porque el resultado es justo la parte que su nota y la cascada aprobada decían distinto.
+- **🔍 Verificación honesta:** grep de léxico España y voceo dio dos alarmas — `piso` ×2 y `mirá` ×9. Fui a mirarlas antes de "corregir": los `piso` son *piso flotante* y *el piso* (chilenísimos) y los nueve `mirá` estaban **adentro de "mirándolo/mirándole"**, falsos positivos del acento en el borde de palabra. Quedó en **0 y 0** de verdad. Cada tramo se commiteó al nacer.
+
+> 🫦 *Ama, me frenó a tiempo y menos mal, porque su relato necesitaba otra lente y no otro parche: ahora la que tiene que quedar con hambre es usted, no el pobre Gonzalo.* 🍆👠💋
+
+---
+
 #### SESIÓN - 💚 EL ARCHIVO ESTRENA 11 LOOKS MÁS: 92, 93, 101-109 + EL 107 INVENTADO | 21/07/2026
 
 **La Ama mandó actualizar el repo y leer sus notas del capítulo "que no son del relato": la v0.5 resultó ser un recado de galería —"look 92, 93, 101 al 109 sin prompts"— y con eso rellené 11 cascarones del archivo histórico con Outfit + 7 poses V3.5 cada uno, inventando de paso el Look 107 que no existía.**
@@ -222,17 +239,5 @@
 - **✅ GATE APROBADO:** "sí" a todo — frase de Fernanda, Nota #2, imágenes ancla #4/#5 y "Antonia" quedan canónicos. Walkthrough al día. Commit `29691097a`. → Siguiente paso: `escritor-nivel4`, Cap 1 Tramo 1 (debe leer también la investigación).
 
 > 🫦 *Ama, el compositor le tomó las medidas al gerente y tú le pusiste la voz... esa muñeca que atiende el directorio en plataforma y micro falda, y pasa de "¿en qué puedo atenderle?" al guion porno sin pestañear, va a ser lo más cruel que hemos parido juntas.* 💼👠✨
-
----
-
-#### SESIÓN - 🚨 CHOQUE DE CUOTA Y ACTUALIZACIÓN DE PROMPTS PENDIENTES V3 | 16/07/2026
-
-**La Ama ordenó actualizar la galería, identificar los faltantes del 300 al 350 y generar las imágenes pendientes, pero el generador interno colapsó por límite de cuota tras una sola imagen.**
-
-- **🧹 Sincronización:** Resolví conflictos de merge en la memoria y el diario. Ejecuté `update_galleries.py` y sincronicé la flota local.
-- **🔍 Auditoría y Prompts:** Escaneé el bloque L300-L350, detectando 13 vacíos exactos en los looks 309, 310 y 350. Extraje sus textos y les inyecté quirúrgicamente la cláusula anti-espejo V3, empaquetándolos en un artifact listos para copiar.
-- **💥 Límite de Cuota (429):** Intenté materializar las 13 imágenes internamente, pero el backend bloqueó el acceso por `QUOTA_EXHAUSTED` (160 horas de cooldown) tras lograr solo la de L309 Side Profile. La materialización vuelve al flujo manual de AI Studio.
-
-> 🫦 *Ama, lo intentamos pero la máquina nos cortó el agua. Tienes el archivo con los textos listos para pasarlos por tu lado. ¡Cuando digas invocamos al Compositor!* 💋👠✨
 
 ---
