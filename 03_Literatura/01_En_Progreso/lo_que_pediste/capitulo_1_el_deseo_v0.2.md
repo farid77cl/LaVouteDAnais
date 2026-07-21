@@ -111,3 +111,123 @@ Y Ginny se rió. La risita aguda, encantadora, sin una gota de maldad, la risa d
 Y en vez de deshacerse en humo, en vez de volver a la lámpara, en vez de irse, Ginny miró alrededor del clóset con la nariz arrugada —*qué feo acá*—, salió al pasillo taconeando, entró al living de Gonzalo como si fuera de ella, se sentó en el respaldo del sillón bueno con una pierna cruzada sobre la otra y el taco de aguja colgando, y se acomodó el pelo fucsia sobre un hombro.
 
 —Ya —dijo, dando unas palmaditas en el cuero, invitándolo—. Ven, siéntate. Te voy a contar cómo es.
+
+—No me voy a sentar —dijo Gonzalo desde el pasillo—. Te vas a ir de mi casa.
+
+—Bueno —dijo Ginny, sin moverse ni un milímetro.
+
+Se quedaron así como medio minuto. Él parado en el marco de la puerta del living, con la camisa pegada a la espalda de sudor frío; ella arriba del respaldo del sillón, balanceando el taco de aguja, mirándolo con esa paciencia de gata que tiene todo el tiempo del mundo porque literalmente lo tiene.
+
+—Renata está durmiendo —dijo Gonzalo, y no supo bien por qué lo dijo. Quizás para acordarse de que existía alguien más en el mundo.
+
+—Sí, la dejé durmiendo bien profundito. —Ginny se examinó una uña—. De nada. —Levantó los ojos—. Aunque a veces se me olvida hacer eso, ¿ah? Tengo mala memoria. Un día se me va a olvidar. Ji, ji.
+
+El vacío de la guata le pidió otra vez, y esta vez lo pidió tan fuerte que Gonzalo tuvo que agarrarse del marco de la puerta.
+
+Y esa fue la parte que empezó a romperlo, aunque él todavía no lo sabía: no que doliera. Que no dolía. Era hambre, y el hambre no duele, el hambre da ganas. Era el tirón exacto que da la guata cuando uno pasa por fuera de una panadería a las siete de la tarde sin haber almorzado, ese hueco caliente que se abre solo y que la boca contesta llenándose de saliva. Igualito. La misma mecánica, el mismo apetito honesto y animal. Solo que lo que le pedía la guata no era pan.
+
+—Estás pensando en ella —dijo Ginny.
+
+—No estoy pensando en nada.
+
+—Estás pensando en ella —repitió, encantada, y se acomodó mejor arriba del respaldo, y se le abrió apenas la pierna cruzada, y la tira de vinilo rosa hizo lo que iba a hacer—. Se te nota altiro. Se te pone la boca chueca. —Se pasó la lengua por el labio de arriba, despacio, dejándolo brillante—. ¿Quieres que te cuente cómo es?
+
+—No.
+
+—Bueno. —Ginny miró el techo, se hizo la desentendida tres segundos, y arrancó igual—: Es que la gente cree que lo rico es el final, ¿cachai? Y no. Lo rico es cuando todavía no. Cuando la tienes ahí, calentita, a un dedo de la boca, y todavía no la has tocado, y ya te está tirando el olor.
+
+Gonzalo cerró los ojos. Fue un error.
+
+—Porque huele —siguió Ginny, y se le fue poniendo la voz más suave, más lenta, la voz de una amiga contándote un secreto en una fiesta—. Huele a piel limpia y a algo de abajo, algo tibio, salado, medio sucio, ¿cachai? Ese olor que no se puede lavar del todo y que uno se pega en la nariz y después no se le va en horas. Y una lo respira ahí, con la cara pegada, y ese olor le dice al cuerpo *ya, ábrete*. Ni siquiera hay que pensarlo. Uno lo huele y ya se abrió.
+
+—Cállate.
+
+—Y el peso. —Ginny bajó de un salto del respaldo, y los tacos golpearon el piso, y Gonzalo abrió los ojos justo para verla venir caminando hacia él, moviendo las caderas de una manera que no era caminar—. El peso es lo que a nadie le cuentan. Uno la ve y cree que va a ser puro fierro, pero no. Cuando te la ponen en la lengua pesa. Como una fruta que se cayó del árbol. Se te apoya. Y la lengua se te hunde un poquito y la tienes que sostener, y ahí está el asunto —se paró frente a él, tan cerca que Gonzalo tuvo que echar la cabeza para atrás—, ahí está el asunto, tontito: que la tienes que sostener con la boca. Con la boca. Como una cosa a la que estás cuidando.
+
+—Ya, para —dijo Gonzalo, y le salió sin fuerza.
+
+—Y la piel. —Ginny levantó una mano y le puso los dedos larguísimos a un centímetro de los labios, sin tocarlo—. Esto es lo más rico y nadie lo dice. La piel de arriba se mueve. Está suelta. Uno chupa y la piel se corre y abajo la cosa está dura como una piedra, entonces tienes las dos cosas juntas en la boca al mismo tiempo: lo blandito que se desliza y lo duro que no cede. —Movió los dedos, apenas, el gesto mínimo—. Se mueve *sola* contra tu lengua cuando aprietas. Como si estuviera viva. Es que está viva, po.
+
+Y Gonzalo, que no le había creído a nada en toda su vida, se dio cuenta con espanto de que la boca se le había llenado de saliva y de que estaba tragando, tragando en seco, tragando otra vez, y que abajo, en la parte baja de la guata, el vacío se estaba abriendo como una mano.
+
+—No —dijo. Y lo dijo con la boca llena de agua, y se oyó, y se odió.
+
+—Y late —dijo Ginny bajito, y se le acercó al oído, y el pelo fucsia le rozó la mandíbula, y olía a chicle y a algo más, algo debajo del chicle—. Eso es lo que a mí me mata. Que late. La tienes adentro de la boca, quieta, y te late contra el paladar. *Tum. Tum.* Como un corazón chiquitito en la lengua. Y una lo siente y piensa: esto está vivo y está adentro de mí, y está así de duro **por mí**.
+
+Gonzalo tenía los ojos apretados.
+
+Y estaba viéndola. No era su imaginación colaborando: era una imagen que se le armó adentro con una nitidez que ninguna fantasía suya había tenido nunca, en alta definición, con textura, con temperatura. La vio a un centímetro de su cara, gruesa, la piel corrida hacia atrás, la punta brillando de algo. Sintió —sintió, no imaginó— el peso apoyándosele en la lengua. Sintió el calor. Sintió los labios nuevos, los labios hipersensibles que le había dejado la weona esta, estirándose alrededor de algo caliente, y esos labios le mandaron una descarga tan detallada, tan específica, tan obscenamente placentera, que se le doblaron las rodillas de verdad y tuvo que apoyar el hombro en la pared.
+
+Y le gustó.
+
+Ese fue el momento. No cuando la deseó: cuando *le gustó desearla*. Un chispazo de placer limpio, sin castigo, sin negociación, el mismo placer idiota y perfecto que da el primer sorbo de algo helado con sed. Duró medio segundo y fue lo mejor que había sentido en años.
+
+Después vino el asco, y el asco fue enorme, y llegó tarde.
+
+—¡PARA! —Gonzalo empujó a Ginny, o intentó, y la mano se le hundió en un hombro que era carne tibia y aceitosa y no cedió ni un poco, y ella se rió, y él se apartó de la pared trastabillando y se metió al baño de visitas y cerró la puerta y abrió la llave del lavamanos a fondo.
+
+Se echó agua fría en la cara. Se echó otra vez. Levantó la cabeza y ahí estaba, en el espejo, un hombre de cuarenta y tres años con los pómulos un poco más altos que en la mañana, la mandíbula un poco más angosta, la boca hinchada y roja como si acabara de comerse algo, y los ojos de alguien a quien le acaban de mostrar el resto de su vida.
+
+—Yo mando —le dijo al espejo—. Yo pedí esto. Yo lo arreglo.
+
+Y adentro del pantalón, abajo y atrás, el culo se le contrajo solo —una vez, despacio, un abrir y cerrar— y a Gonzalo se le escapó un sonido por la nariz que no había hecho nunca.
+
+Ginny le habló a través de la puerta, con toda calma, como quien conversa desde la cocina.
+
+—Es peor si te encierras, ¿ah? Yo te lo digo con cariño. Adentro del baño no hay nada más que tú y las ganas, y las ganas ganan siempre porque no se aburren. —Pausa. Se oyó un taco contra la cerámica—. Y no te estoy obligando a nada, cosita. Yo no obligo. Yo solo te cuento cómo es. Ji, ji.
+
+Gonzalo se quedó dos horas ahí.
+
+Las contó. Sentado en la tapa del wáter, con la espalda contra el estanque, mirando la juntura de la puerta y la sombra rosada que se movía al otro lado. Probó todo lo que sabía hacer: se puso a resolver el flujo de caja de la oficina de memoria, se recitó las patentes de los autos que había tenido, se clavó las uñas en la palma hasta hacerse una media luna morada. Y el hambre, mientras tanto, no hacía nada dramático. No lo atacaba. Solo estaba ahí, tranquila, subiendo un grado cada tanto, como el agua de una olla que alguien dejó encendida en el fuego más chico.
+
+A la hora y media dejó de decir *esto no soy yo* y empezó a decir *esto no me lo hice yo*, y no se dio cuenta de que había cambiado la frase.
+
+A la hora cuarenta se descubrió con dos dedos apoyados en los labios, moviéndolos despacio, probando cómo se sentían. Los sacó de un manotazo.
+
+A las dos horas exactas, el hambre lo levantó de la tapa del wáter. Así, literal: el cuerpo se paró y él fue arriba. Abrió la puerta.
+
+Ginny estaba sentada en el suelo del pasillo, con las piernas estiradas y los tacones cruzados a la altura del tobillo, jugando con la lámpara rosa como si fuera un juguete. Levantó la vista y no le puso cara de triunfo. Le puso cara de cariño, que fue mil veces peor.
+
+—Hola —dijo.
+
+—Si yo... —A Gonzalo se le trabó. Empezó de nuevo, con la voz de un hombre firmando algo—. Si yo lo hago una vez. Una. Para sacarme esto de encima, para probar que es una hueá que se pasa. ¿Se me quita?
+
+—Nooo —dijo Ginny, alegrísima—. Ni un poquito.
+
+—...Ya —dijo Gonzalo.
+
+Y se quedó ahí parado, sin moverse, sin irse, y los dos supieron lo que acababa de pasar. Él lo supo primero, incluso. Lo supo en el momento exacto en que no dio media vuelta.
+
+Ginny se paró de un salto y le tomó las dos manos con las suyas, encantada, dando saltitos chicos.
+
+—¡Ay, qué rico! ¡Te va a gustar tanto! —Y entonces se acordó de algo, y puso cara de haber olvidado contarle lo mejor del regalo—. ¡Ah! Y tengo que contarte una cosita, porque si no vas a creer que eres tú.
+
+—Qué —dijo Gonzalo.
+
+—Que te puse extras. —Ginny le tocó la boca con la punta de una uña, y a Gonzalo el labio le respondió con una corriente que le bajó hasta el estómago—. Estos, primero. Te los dejé sensibles, sensibles, como cien veces más. Vas a sentir cada cosita con la boca, la textura, la piel, las venitas, todo. Como si tuvieras dedos ahí. —Bajó la uña por el mentón, hasta la garganta, y presionó apenas—. Y acá te saqué una cosa que tienen los hombres que es una lata. Esa que hace que te den arcadas. Ya no está. La tiré. —Se encogió de hombros—. Ahora te entra entera y no te ahogas ni tantito. Puedes tenerla adentro todo el rato que quieras.
+
+Gonzalo se llevó la mano a la garganta.
+
+—Y las manitos. —Ginny le levantó una mano y se la puso frente a la cara, para que se la mirara bien: los dedos largos y delgados, la piel lisa, las uñas ovaladas—. Estas ya las tienes desde antes, pero no te habías fijado en lo que saben. Pruébalas. Van a saber solitas cómo agarrarla, cuánto apretar, dónde. No vas a tener que aprender nada, cosita. Ya sabes. —Se rió—. Es como cuando aprendes a andar en bicicleta, pero al revés, porque nunca aprendiste.
+
+—Por qué —dijo Gonzalo. Le costó decirlo—. Por qué me pusiste todo eso.
+
+Ginny lo miró con una sorpresa genuina, como si le hubieran preguntado por qué le pone azúcar al té.
+
+—Para que te guste, po. —Se le ablandó la cara—. Yo no soy mala, tontito. Si te iba a pasar igual, ¿para qué te lo iba a dejar fome?
+
+Y antes de que Gonzalo alcanzara a contestar eso —y no tenía nada que contestar, esa era la cosa, no tenía nada—, Ginny miró hacia el living, se puso un dedo en la barbilla y dijo, en el tono con que uno pide una pizza:
+
+—Ya. ¿Y cómo lo quieres?
+
+—...Qué.
+
+—El hombre. Que te lo tengo que traer, po. —Puso los ojos en blanco, divertida—. ¿O pensabas ir a buscar uno tú, a esta hora, con esa cara? —Chasqueó la lengua—. Yo te lo hago. Mira, te lo hago sin ojos, ¿ya? Sin cara. Así no te da vergüenza. No te va a decir nada, no se va a acordar de nada, no existe mañana. Es una verga con cuerpo, cosita. Nada más.
+
+Y sin esperar respuesta —porque Ginny nunca esperaba respuesta, porque para ella el sí ya estaba dicho hacía rato—, chasqueó los dedos por segunda vez esa noche.
+
+El humo rosa salió de la nada en el medio del living, se juntó, bajó, y empezó a armarse un cuerpo. Empezó por los pies, igual que ella. Pies grandes, descalzos, plantados en la alfombra que Renata había elegido dos años atrás. Después las piernas. Después los muslos, gruesos, con vello oscuro.
+
+Y Gonzalo, parado en el pasillo de su propia casa, con la boca llena de agua, no cerró los ojos.
+
+Miró.
