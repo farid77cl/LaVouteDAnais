@@ -3,8 +3,8 @@
 **Nombre:** Ginny (La Genio Bimbo)
 **Arquetipo:** *The Bimbo Trickster* / Caos Multicolor
 **Rol Narrativo:** Catalizador de Transformación Forzada (Deus Ex Machina Bimbo)
-**Símbolos:** Humo multicolor/dorado, brillo, uñas rojas/azules/doradas, risa "Ji, ji!".
-**ANTI-CANON:** El color ROSA está prohibido para ella. (Es irónico, siendo una bimbo, pero odia el cliché).
+**Símbolos:** Humo rosa/multicolor/dorado, brillo, uñas rosadas/rojas/doradas, risa "Ji, ji!".
+**CANON DEL ROSA (Directiva Ama 20/07/2026 — DEROGA el viejo anti-rosa):** El **ROSA es SUYO**. Antes se le prohibía por "odiar el cliché"; ahora es al revés — siendo la bimbo *definitiva*, Ginny no huye del cliché, **lo encarna en su forma más pura y orgullosa**. El rosa fluor/chicle/gloss es su firma, su humo, su aura por default. Sigue pudiendo usar dorado/azul/cromo/rojo, pero el rosa ya NO está vetado: es el más icónico de sus colores.
 
 ---
 
@@ -38,9 +38,9 @@ Ginny **siempre** malinterpreta los deseos. No es una trampa legalista maliciosa
 
 ## ✦ Apariencia Física
 
-Ginny es la hipérbole de una bimbo, pero con una peculiaridad: **Jamás usa rosa.**
+Ginny es la hipérbole absoluta de una bimbo, sin ningún filtro ni vergüenza: **el rosa es su color firma.**
 
 * **Cuerpo:** Reloj de arena imposible, pechos que desafían la gravedad (Copa ZZZ), cintura minúscula. Piel bronceada dorada o "airbrushed".
-* **Vestuario:** Vinilo, látex brillante, lentejuelas. Usa colores saturados: Azul eléctrico, Verde esmeralda, Rojo sangre, Dorado, Plateado, Naranja neón. **NUNCA ROSA.**
-* **Rasgos:** Ojos enormes (estética doll) de colores antinaturales (violeta, oro), labios inyectados siempre húmedos (gloss transparente o rojo), pestañas postizas densas.
-* **Aura:** Cambia de color según su humor (azul = aburrida, rojo = traviesa, verde = envidiosa), pero nunca rosa. Huele a cócteles tropicales y ozono.
+* **Vestuario:** Vinilo, látex brillante, lentejuelas. Rosa fluor/chicle/gloss como base preferida, más colores saturados: Azul eléctrico, Verde esmeralda, Rojo sangre, Dorado, Plateado, Naranja neón.
+* **Rasgos:** Ojos enormes (estética doll) de colores antinaturales (violeta, oro, rosa), labios inyectados siempre húmedos (gloss rosa, transparente o rojo), pestañas postizas densas.
+* **Aura:** Cambia de color según su humor (rosa = feliz/traviesa por default, azul = aburrida, rojo = calentura, verde = envidiosa). Huele a chicle, cócteles tropicales y ozono.
