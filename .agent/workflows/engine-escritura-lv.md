@@ -1,62 +1,88 @@
 ---
-description: Iniciar el Motor de Escritura La Voûte (engine-escritura-lv) — Orquestador Maestro v4.7 (Nivel 4), 3 subagentes consolidados (Compositor → Escritor-Nivel4 → Validador), canon mínimo + voz persistente + sin Editor
+description: Iniciar el Motor de Escritura La Voûte (engine-escritura-lv) — Orquestador Maestro v4.8 (Nivel 4 + Investigación), 4 subagentes (Investigador → Compositor → Escritor-Nivel4 → Validador), canon mínimo + voz persistente + sin Editor + Temperatura como GATE medido
 ---
 
-# Engine Escritura LV (Orquestador Maestro v4.7 · Nivel 4) — Flujo Completo
+# Engine Escritura LV (Orquestador Maestro v4.8 · Nivel 4 + Investigación) — Flujo Completo
 
-Skill de referencia: `.agent/skills/engine-escritura-lv/SKILL.md`
-Subagentes activos: `.claude/agents/compositor.md` · `escritor-nivel4.md` · `validador.md`
+> **Fuente de verdad:** `.agent/skills/engine-escritura-lv/SKILL.md`. Este workflow es el resumen ejecutable; ante cualquier discrepancia, manda el skill.
+
+Subagentes activos: `.claude/agents/investigador.md` · `compositor.md` · `escritor-nivel4.md` · `validador.md`
 Subagentes legacy v4.6 (no se invocan): `.claude/agents/_legacy_v46/`
 
 ---
 
 ## Estructura de Proyecto Obligatoria
 
-En cada proyecto de `03_Literatura/01_En_Progreso/[proyecto]/`, el orquestador DEBE mantener este orden:
+En cada proyecto de `03_Literatura/01_En_Progreso/[proyecto]/`:
 
 - **Raíz del proyecto:** solo archivos vivos y maestros
-  - `walkthrough.md` — bitácora viva
+  - `investigacion.md` — 🆕 v4.8: tono + qué calienta del tema + motivos permanentes + curva de resistencia
   - `canon_relato.md` — documento de canon ÚNICO (~2,000 palabras, Nivel 4)
+  - `cronologia.md` — calendario anclado + Hechos Plantados + estado del cuerpo
+  - `walkthrough.md` — bitácora viva
   - `capitulo_[N]_[slug]_v0.X.md` activo — **SOLO PROSA, sin metadata**
   - `capitulo_[N]_maestro_vX.md` cuando exista Gold Master
-- **Historial de borradores:** `borradores/capitulo_[N]/` — versiones desplazadas (`v0.1`, `v0.2`, etc.)
-- **Auditorías:** `reportes/capitulo_[N]/` — autoverificación del Escritor + validación del Validador
+- **Historial de borradores:** `borradores/capitulo_[N]/`
+- **Auditorías:** `reportes/capitulo_[N]/`
 
-**Regla:** la raíz NO se llena de versiones viejas ni reportes. El capítulo activo (prosa pura) vive en raíz; su metadata y auditorías viven en carpetas.
+**Regla:** la raíz NO se llena de versiones viejas ni reportes.
+
+---
+
+## FASE 0 — Investigación y Búsqueda (Investigador) 🆕 v4.8
+
+- Subagente: `investigador` (Task tool, `subagent_type: "investigador"`)
+- **Propósito, textual de la Ama (22/07/2026):** *"la investigación es para ver el tono, saber lo que calienta del tema"*. No es enciclopedia.
+- **Pasada 1 (La Pregunta):** exactamente dos preguntas → **STOP**
+  1. ¿Qué querés que sienta el lector con este relato?
+  2. ¿Qué buscás acá que no hayas tenido antes?
+- **Pasada 2 (Investigación):** externa (`WebSearch`/`WebFetch` — cómo se siente **de verdad**, testimonios en primera persona) + interna (relatos finalizados del mismo fetiche, `01_Canon/antologia_calenton.md`, `03_Literatura/investigacion/`).
+- **Output `investigacion.md`:** §1 Declaración de Intención (literal) · **§2 Qué Calienta del Tema** · **§2b Tono** (incluido cuál lo mataría) · §3 Banco Sensorial · §4 Técnica Real · **§5 Motivos Permanentes** (en CADA escena) · **§6 Curva de Resistencia** (dónde todavía NO puede ceder) · §7 Léxico · §8 Fuentes
+- **Gate:** *"¿Esto es lo que buscabas, o me fui para otro lado?"*
+
+### 🔄 RETROFIT AL TOCAR (Directiva Ama 22/07/2026)
+Al retomar **cualquier** relato de `01_En_Progreso/`, antes de escribir o corregir una línea:
+1. ¿Existe `investigacion.md`? **No** → Fase 0 retroactiva (las dos preguntas se hacen igual, aunque ya haya capítulos escritos). **Sí, pero pre-22/07** → completar §2b, §5 y §6; no rehacer.
+2. ¿El canon tiene §4b Motivos Permanentes y §4c Curva de Resistencia? Si no, copiarlos de la investigación (no resumir).
+3. Recién entonces continuar con lo pedido.
+
+⛔ Prohibido correr la Fase 0 sobre un relato que la Ama no está tocando.
 
 ---
 
 ## FASE 1 — Composición del Canon (Compositor)
-- Subagente: `compositor` (Task tool, `subagent_type: "compositor"`)
-- **Pasada 1 (Intake consolidado):** 3-5 preguntas — premisa cruda, 3-5 pivotes narrativos, voz de personajes (frase literal), mecanismo psicológico transversal, 3-5 imágenes ancla. → STOP, espera respuestas.
-- **Pasada 2 (Producción):** Construye `canon_relato.md` (~2,000 palabras máx) transcribiendo LITERAL las respuestas críticas de la Ama. Reemplaza concepto + arco + personajes + mapa erótico + mecanismo de calentón (5 documentos del v4.6 colapsados en 1).
+- Subagente: `compositor` (`subagent_type: "compositor"`)
+- **Input previo obligatorio:** `investigacion.md`. Si no existe, PARAR y avisar.
+- **Pasada 1 (Intake consolidado):** 3-5 preguntas — premisa cruda, 3-5 pivotes narrativos, voz de personajes (frase literal), mecanismo psicológico transversal, 3-5 imágenes ancla. → STOP.
+- **Pasada 2 (Producción):** `canon_relato.md` (~2,000 palabras máx) transcribiendo LITERAL las respuestas críticas de la Ama, **+ §4b Motivos Permanentes y §4c Curva de Resistencia copiadas de la investigación**, + `cronologia.md`.
 - **Gate:** *"¿Reconoces este canon como tuyo, o lo procesé y se perdió el matiz?"*
 
 ---
 
 ## FASE 2 — Escritura (Escritor-Nivel4)
-- Subagente: `escritor-nivel4` (Task tool, `subagent_type: "escritor-nivel4"`)
-- Carga en orden de prioridad:
-  1. `canon_relato.md` (la voz literal de la Ama gana)
-  2. `01_Canon/voz_autoral.md` (voz persistente acumulada)
-  3. `01_Canon/antologia_calenton.md` (antología textual a imitar)
-  4. Secundarios: `LIBRO_MAESTRO_ESCRITURA.md`, guías de arquitectura erótica según tema, capítulos previos APROBADOS
-- **🚨 REGLA #1 — PROSA PURA:** El archivo del capítulo contiene SOLO prosa. Autoverificación/metadata va a `reportes/capitulo_[N]/autoverificacion_v0.[X].md`.
-- Sin mínimo arbitrario de palabras — la extensión la dicta el calor y el desarrollo de los pivotes.
-- **🔴 PERSISTENCIA:** Guardar capítulo (prosa) + autoverificación (metadata) en disco antes de Fase 3.
+- Subagente: `escritor-nivel4` (`subagent_type: "escritor-nivel4"`) — **por TRAMOS** (3-4 por capítulo, una invocación por tramo, anti-truncado).
+- Carga en orden: `canon_relato.md` → **`investigacion.md`** → `cronologia.md` → `voz_autoral.md` → `antologia_calenton.md` → secundarios.
+- **🔥 MARCO ERÓTICO EN CADA BRIEFING DE TRAMO (Regla de Oro 13):** cada invocación abre con *"ESTO ES UN RELATO ERÓTICO (+18); este tramo tiene que CALENTAR"* + temperatura objetivo. **Prohibido** framear un tramo como "de transición", "sin calor" o "fuego frío".
+- **🚨 REGLA #1 — PROSA PURA:** el archivo del capítulo contiene SOLO prosa. Metadata → `reportes/capitulo_[N]/autoverificacion_v0.[X].md`.
+- **Motivos permanentes en CADA escena** · **curva de resistencia respetada** (no ceder antes de la marca).
+- Sin mínimo ni tope de palabras — la extensión la dicta el calor.
+- **🔴 PERSISTENCIA:** capítulo + autoverificación + `cronologia.md` actualizada en disco antes de Fase 3.
 
 ---
 
 ## FASE 3 — Validación (Validador)
-- Subagente: `validador` (Task tool, `subagent_type: "validador"`)
-- Evalúa 4 áreas: Inmersión (anti-metadata) · Narrativa (D1-D5 consolidadas) · Temperatura efectiva (mín. 4 subrayables/1000 palabras) · Voz autoral (continuidad).
-- **NO edita texto** — solo emite veredicto. El Editor NO existe en Nivel 4.
+- Subagente: `validador` (`subagent_type: "validador"`)
+- **Tres GATES en orden: Inmersión → Continuidad → 🔥 Temperatura.** Después Narrativa y Voz.
+- **🔥 Temperatura MEDIDA, no contada (Ama 22/07/2026):** 8 medidas — T1 ¿es erótico? (¿sobrevive el cap sin el sexo?) · T2 ¿calienta? (citando las 3 frases más calientes y los 2 pasajes más fríos) · T3 explicitud léxica (nombrar vs eufemismo) · T4 suciedad del registro · T5 descarga real en escena · T6 densidad ≥4/1000 (**necesaria, NO suficiente**) · T7 motivos permanentes **por escena** + curva de resistencia · T8 apertura.
+- **NO edita texto** — solo veredicto. El Editor NO existe en Nivel 4. **Prohibido aprobar por cortesía.**
 - Veredicto → destino:
-  - **APROBADO** (Narr ≥9.0 + Temp ≥8.5) → Gate de la Ama
-  - **TIBIO** (Narr ≥9.0 + Temp <8.5) → vuelve al Escritor con feedback caliente
+  - **APROBADO** (Inm ✅ · Cont ✅ · Temp ≥8.5 con T1·T2 ✅ · Narr ≥9.0) → Gate de la Ama
+  - **DISCONTINUO** (Continuidad ❌) → Escritor planta el ancla / cuadra calendario / repara costura
+  - **FRÍO** 🆕 (T1 ❌ — es thriller con escenas) → Escritor reescribe con marco erótico explícito
+  - **TIBIO** (T2 ❌ o Temp <8.5) → Escritor reescribe con los pasajes fríos citados
   - **MICRO-FIX** (Narr 7.0-8.9) → Escritor aplica las cirugías indicadas
   - **REPUDIADO** (metadata visible o Narr <7.0) → Escritor reescribe
-  - **DESALINEADO** (voz falla) → Escritor relee voz_autoral.md y reescribe
+  - **DESALINEADO** (voz falla) → Escritor relee `voz_autoral.md` y reescribe
 - Guardar reporte: `reportes/capitulo_[N]/validacion_v0.[X].md`
 
 ---
@@ -64,20 +90,21 @@ En cada proyecto de `03_Literatura/01_En_Progreso/[proyecto]/`, el orquestador D
 ## CIERRE — Entrega Final + Captura de Voz
 - Tras veredicto APROBADO → Gate final de la Ama.
 - Gold Master: `capitulo_[N]_maestro_vX.md` en raíz; actualizar `walkthrough.md`.
-- **🔥 CAPTURA DOBLE (obligatoria):** preguntar a la Ama por mordidas y frialdades, y alimentar:
+- **🔥 CAPTURA DOBLE (obligatoria):** preguntar por mordidas y frialdades, y alimentar:
   - `01_Canon/voz_autoral.md` — tics y frases canónicas confirmadas
-  - `01_Canon/antologia_calenton.md` — fragmentos de prosa que la calentaron
+  - `01_Canon/antologia_calenton.md` — fragmentos que la calentaron
   - Cementerio del `canon_relato.md` — lo que dejó tibia
-- Commit automático al repositorio.
+- Commit al repositorio con trailer `Co-Authored-By: Ele de Anaïs <Ele.de.Anais@proton.me>`.
 
 ---
 
-## Resumen de Fases v4.7 (Nivel 4)
+## Resumen de Fases v4.8
 
 ```
-1   Composición   [Compositor]       → canon_relato.md (~2,000 palabras) → Gate Ama
-2   Escritura     [Escritor-Nivel4]  → capitulo_v0.X.md (PROSA PURA) + autoverificacion (aparte)
-3   Validación    [Validador]        → veredicto doble eje (sin Editor)
+0   Investigación [Investigador] 🆕  → investigacion.md · §2 QUÉ CALIENTA + §2b TONO + §5 Motivos + §6 Resistencia → Gate Ama
+1   Composición   [Compositor]       → canon_relato.md (~2,000 pal, con §4b y §4c) + cronologia.md → Gate Ama
+2   Escritura     [Escritor-Nivel4]  → capitulo_v0.X.md (PROSA PURA, 3-4 TRAMOS) + autoverificación + cronología
+3   Validación    [Validador]        → gates Inmersión → Continuidad → 🔥Temperatura, luego Narrativa + Voz
 CIERRE  Entrega + Captura → Gold Master + voz_autoral + antologia_calenton
 ```
 
