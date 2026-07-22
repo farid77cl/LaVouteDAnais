@@ -13,6 +13,8 @@
 
 > **Reformulación Ama 21/07/2026 (manda sobre el reajuste del 20/07):** el Cap 1 pasa a **5 tramos** y abarca del Día 1 al Día 5. Gonzalo **cede la misma noche del Día 1** (la boca); el **culo llega el Día 5**, tras días de tentación y resistencia. El largo del capítulo se lo lleva **el sexo**, no la lucha. El Deseo 2 se pide **al cerrar el Cap 1**, después de que Renata lo descubre.
 
+> ✅ **ESTADO 22/07/2026 — Cap 1 v0.3 ESCRITO COMPLETO (5 tramos, ~18.900 palabras).** El calendario se cumplió **sin días inventados**: D1 viernes noche → D2 sábado → D3 domingo → D4 lunes → D5 martes. Los únicos días de semana nombrados en la prosa son esos cinco, todos derivados del viernes ancla. Anclas horarias usadas y disponibles para callbacks: *las dos de la mañana* (T3), *las 2:20 AM* (masturbación del domingo), *la 1:20 AM* (el dedo del lunes), *las 11:30* (reunión de presupuesto del lunes), *las cinco de la tarde* (se va antes de la oficina el martes).
+
 | Marca | Día relativo | Día de semana | Capítulo/Escena (tramo) | Qué pasa |
 |-------|--------------|---------------|-------------------------|----------|
 | Encuentro / Deseo 1 + SEMILLA + cuerpo andrógino | Día 1 | viernes noche | Cap 1 / T1 | Gonzalo halla la lámpara rosa, invoca a **Ginny materializada y carnal**, pide un **deseo macho**; ella **chasquea al tiro, sin explicar** → le implanta el **hambre de verga** y le vuelve el cuerpo **andrógino receptivo** (labios hipersensibles, arcada borrada, manos/dedos de mujer, culo que se adapta). Recién con el hambre ya adentro, Ginny se explica, juguetona |
@@ -70,13 +72,48 @@
 | H22 | **Ginny le empieza a decir en femenino** (*"tontita linda"*) al oír el Deseo 2, antes de chasquear | Cap 1 / T5 (cierre) | plantado | Cap 2 en adelante (femenino permanente) |
 | H23 | **El culo de Gonzalo se aprieta solo, ordeñando**, cuando le acaban adentro — el cuerpo colaborando sin permiso | Cap 1 / T5 | plantado | Cap 2-3 |
 
+### 🔄 Estado de pago tras el Cap 1 v0.3 (22/07/2026) — MANDA sobre la columna «Estado» de las tablas de arriba
+
+| Hecho | Estado tras Cap 1 | Dónde se pagó (tramo) |
+|-------|-------------------|------------------------|
+| H1 lámpara rosa | **PAGADO ×2** (invocación D1 + Deseo 2 D5) · sigue vivo para Cap 2-3 | T1, T5 |
+| H1b semilla / hambre de verga | **PAGADO** (plantada) · germina sin meseta el resto del relato | T1 |
+| H1c cuerpo equipado | **PAGADO ENTERO**: labios (T3), arcada borrada (sentida T1 → explicada T2 → cobrada T3), manos (T3), culo hipersensible (T5) | T1-T5 |
+| H2 cascada acumulativa | Deseo 1 **pagado**; Deseo 2 **pedido y concedido al cierre** — obra en Cap 2 | T1, T5 |
+| H3 «Las devoluciones no existen, cosita» | **PAGADO** (primera aparición) · reservado para el cierre del Epílogo | T1 |
+| H4 rodillas sin decidirlo | **PAGADO** · y **contrastado** en T5 con el arrodillarse voluntario | T2, T5 |
+| H5 látex negro de Renata | **NO usado en Cap 1** (decisión del Escritor: habría sido decorado sin ancla). Primer gesto de mando de Renata ocurre en ropa de calle | — |
+| H6 verga de látex negro | **NO usado.** Sigue pendiente para Cap 2 (insinuación) → Cap 3 | — |
+| H7 boca que se ablanda | **PAGADO** y escalando | T1-T5 |
+| H7b impulsos bimbo | **en germen**: voz que se agudiza, cruzar las piernas distinto, el culo que empuja solo | T4, T5 |
+| H7c humillación como clima | **PAGADO** (doméstica) · la social escala en Cap 2 | T4, T5 |
+| H8 Ginny no cuenta | **PAGADO** (*"nunca me acuerdo cuántos llevo, se me pierden"*) | T1 |
+| H9 Renata NO sabe | **BLINDADO**: nunca ve al hombre (Ginny lo deshace al oír la llave) y el texto declara que no va a preguntar nunca | T5 |
+| H10 lucidez permanente | **PAGADO** en las 5 escenas | T1-T5 |
+| H11 / H17 hombre anónimo | **PAGADO ×2** (boca D1, culo D5) · mismo cuerpo, cara lisa, no habla, no recuerda | T2-T3, T5 |
+| H12 Renata lo descubre | **PAGADO** — lo ve en cuatro patas, con la boca sucia y la leche corriéndole por el muslo | T5 |
+| H13 el mundo nota los cambios | **PAGADO** (Renata, conserje, secretaria, estacionamiento) · escala en Cap 2 | T4 |
+| H14 Ginny se burla en la cara | **PAGADO** — sentada a treinta centímetros mientras lo cogen | T5 |
+| H15 Ginny duerme a Renata + «un día se me va a olvidar» | **PLANTADO Y PAGADO** — *"Se me olvidó"*, dicho como quien dejó algo en el horno | T2 → T5 |
+| H16 la lámpara se mueve sola | **PAGADO** — la bota al contenedor el sábado, aparece en el centro de la mesa del comedor a las siete | T4 |
+| H18 fracaso con Renata + erección de las 2 AM | **PAGADO ENTERO** (incluye *"Ya, ya. No importa. Estás cansado"*) | T4 |
+| H19 el mundo lo tasa | **PAGADO** con el orden correcto: le calienta **antes** de indignarlo | T4 |
+| H20 «Yo no voy a poder vivir sin esto» | **PAGADO** — dicho como resultado de una cuenta (12.700 días), no como lamento | T5 |
+| H21 primer gesto de mando de Renata | **PAGADO** — no lo ayuda a levantarse + *"Ya. Ve a bañarte."* + la puerta que se abre atrás de los ojos | T5 |
+| H22 femenino de Ginny | **PAGADO** — el goteo empieza antes (*"quietecita"*, *"tontita"*, *"estás enojada"*) y culmina en *"tontita linda"* **antes** del chasquido | T2-T5 |
+| H23 el culo ordeñando | **PAGADO** — en tandas, *"sin él"* | T5 |
+
+**🆕 Señales sembradas en el Cap 1 para cobrar más adelante** (craving por señal, `investigacion.md` §4.2 — cada una ya tiene ancla escrita): el **color rosa** · el **olor a chicle** (D2 y D4) · **el peso de cualquier cosa apoyada en la lengua** (el cepillo de dientes del sábado, el lápiz del martes) · la **palabra *tontita*** · la **sombra rosa bajo la puerta** del baño.
+
+**🆕 Objetos/lugares con continuidad fijada:** la lámpara vive **en el centro de la mesa del comedor** desde el sábado del Día 2 (Gonzalo no la volvió a mover) · la **alfombra de la sala** la eligió Renata y es el escenario de las dos caídas · el hombre anónimo aparece y se deshace **siempre en la sala**.
+
 ## 4. Estado del cuerpo / continuidad física de Gonzalo (por capítulo)
 
 > Lo irreversible/acumulativo: peldaño de transformación + deseos ya pedidos. La mente NUNCA cambia (lúcida siempre).
 
 | Capítulo | Peldaño | Deseos pedidos | Hambre de verga (crescendo) | Estado al cerrar |
 |----------|---------|----------------|------------------------------|------------------|
-| Cap 1 | **Andrógino receptivo** | Deseo 1 (el 2 se pide al cerrar, obra en Cap 2) | **Semilla plantada** → punzada, antojo, y **dos rendiciones**: boca (Día 1) y culo (Día 5) | Cara afinada, línea suavizada, piel lisa, **labios hinchados e hipersensibles**, **sin reflejo de arcada**, **manos y dedos de mujer**, **culo hipersensible que se adapta**. Ya chupó y ya lo cogieron; **le gustó**, y lo sabe. El mundo lo mira distinto. Mente: lúcida, horrorizada, sin poder negar el placer |
+| Cap 1 | **Andrógino receptivo** | Deseo 1 (el 2 se pide al cerrar, obra en Cap 2) | **Semilla plantada** → punzada, antojo, y **dos rendiciones**: boca (Día 1) y culo (Día 5) | **CONFIRMADO POR EL TEXTO v0.3.** Cara afinada (pómulos altos, mandíbula angosta), línea suavizada, piel del dorso lisa y sin vello, **labios más gruesos e hipersensibles** (siente el dibujo de sus huellas digitales), **sin reflejo de arcada** (pero conserva saliva desbordada y ojos llorosos), **manos y dedos delgados y ágiles sobre antebrazos peludos de hombre**, **culo hipersensible** ya usado. **LO QUE NO CAMBIÓ y debe seguir legible en Cap 2:** hombros que llenan la camisa, estatura (le saca media cabeza a un hombre de cincuenta), **barba que sale igual todos los días**, pelo del pecho, voz reconocible aunque se le agudice bajo excitación, y **su propia verga intacta** — no se le para con Renata, sí se le para chupando y se corrió sin tocarse mientras lo cogían. Ya chupó (D1) y ya lo cogieron (D5); **le gustó, y lo sabe**. Nadie lo lee como mujer: lo leen como *"hay algo"*. Mente: lúcida, horrorizada, **autora** (se arrodilló decidiéndolo) y con la cuenta ya hecha (H20) |
 | Cap 2 | **Feminizado + sumiso (sissy)** — SUMADO a lo anterior | Deseos 1 y 2 | Calor constante, se le **moja el culo** de ganas | Todo lo del Cap 1 **más**: formas femeninas, voz, gestos, ganas de arreglarse, ansias de servir a Renata; primer uso sexual sumiso con ella; lo niega y no puede. Mente: lúcida, peleando |
 | Cap 3 | **Bimbo sumisa** — SUMADO a lo anterior | Deseos 1, 2, 3 (∞ — Ginny no cuenta) | **Necesidad física que lo consume** y lo humilla | Curvas, boca inyectada, culo que pide; cogido por la verga negra, acaba sin tocarse; la resistencia del cuerpo apagada, la mente intacta gritando |
 | Epílogo | **Permanente** | Infinitos | Hambre saciada solo por Renata, para siempre | Muñeca devota de Renata para siempre; consciente y despierto adentro, sin marcha atrás, sin paz |
