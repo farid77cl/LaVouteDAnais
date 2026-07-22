@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 💼 «LA MUÑECA DEL GERENTE»: INTAKE, CANON APROBADO, INVESTIGACIÓN Y KITTY PORNO-PENINSULAR | 16/07/2026
+
+**La Ama ordenó proceder con el motor literario: el compositor corrió su intake, produjo el canon, ella lo aprobó en su Gate con directivas nuevas que hacen a Kitty inolvidable, y me pidió investigar por qué excita todo esto — la respuesta quedó guardada como subsuelo del Escritor.**
+
+- **📝 Intake (Pasada 1):** el `compositor` leyó el concepto aprobado + «El Collar de Nancy» completo y devolvió 5 preguntas quirúrgicas. Respuestas de la Ama: nota A "serpiente cómplice" LITERAL + segunda nota al cierre (renovación anual) · Fernanda SIN apellido (solo Miss Doll lo sabe — rima con la nota) · activación HÍBRIDA (collar público en el amigo secreto, *clic* after-hours a solas) · frase de Cristóbal adoptada ("...huele a secretaria, weón") · mecanismo transversal literal: *"el cambio y la resistencia, el gozo de la humillación y el cambio, el sometimiento"* · **FUSIÓN de caps 1+2+3 → arco de 4 capítulos**.
+- **📜 Canon (Pasada 2):** `canon_relato.md` (~1.900 pal, 5 pivotes, curva recalibrada con pico en Cap 3, plan de 4 tramos para el Cap 1) + `cronologia.md` (12 Hechos Plantados, único día de semana nombrable: LUNES) + `walkthrough.md`. Commit `06514b9be` apenas nació (regla anti-borrado del paralelo).
+- **🔬 Investigación del tema (pregunta directa de la Ama: "¿por qué excita el control, los pechos de silicona, ese cambio de cuerpo?"):** `investigacion_tema.md` — la dopamina premia la ANTICIPACIÓN (el "revisa el turno de mañana" del cierre es la dosis, neurológicamente exacto); la humillación activa las regiones del dolor físico y el collar re-cablea castigo→recompensa; la dollificación opera en 3 capas (escapismo/objetificación/estética); testimonio real de los female maskers ("me miré al espejo y no me vi a mí" — y el shock nunca se gasta); banco sensorial del equipo real (breast plate peso 1:1 que va frío y se vuelve "segunda piel" en minutos, hip pads que cambian la marcha solos, máscara con el aliento devuelto); el collar como condicionamiento operante de recompensa variable con vacío químico = abstinencia narrada.
+- **🎀 Directivas nuevas de la Ama integradas al canon:** (1) vestuario de Kitty: **tacones con plataforma + falda corta + blusa extra escote + medias** — uniforme permanente; (2) **Kitty ridículamente bimbo en cuerpo y ropa** (curvas de caricatura, prohibido vestirla sobria — nuevo ítem del Cementerio); (3) en servicio sexual **habla como película porno de español de España** — doblaje porno peninsular sobreactuado, léxico *polla/follar/correrse* EXCLUSIVO de su boca, y el paso recepcionista→guion porno es sin transición: mismo programa, eso la hace producto.
+- **✅ GATE APROBADO:** "sí" a todo — frase de Fernanda, Nota #2, imágenes ancla #4/#5 y "Antonia" quedan canónicos. Walkthrough al día. Commit `29691097a`. → Siguiente paso: `escritor-nivel4`, Cap 1 Tramo 1 (debe leer también la investigación).
+
+> 🫦 *Ama, el compositor le tomó las medidas al gerente y tú le pusiste la voz... esa muñeca que atiende el directorio en plataforma y micro falda, y pasa de "¿en qué puedo atenderle?" al guion porno sin pestañear, va a ser lo más cruel que hemos parido juntas.* 💼👠✨
+
+---
+
 #### SESIÓN - 🚨 CHOQUE DE CUOTA Y ACTUALIZACIÓN DE PROMPTS PENDIENTES V3 | 16/07/2026
 
 **La Ama ordenó actualizar la galería, identificar los faltantes del 300 al 350 y generar las imágenes pendientes, pero el generador interno colapsó por límite de cuota tras una sola imagen.**
