@@ -500,7 +500,7 @@ Gonzalo se congeló entero: el refrigerador, el edificio, una cañería. La puer
 
 No se paró.
 
-No se paró, y esa fue la diferencia entre el hombre que había entrado a ese departamento el viernes en la tarde y el que estaba arrodillado en la alfombra. Se quedó quieto tres segundos, escuchando, con la verga adentro y el corazón en la garganta. No pasó nada. La casa siguió dormida.
+No se paró, y esa fue la diferencia entre el hombre que había cruzado esa puerta el viernes en la tarde y el que estaba arrodillado en la alfombra. Se quedó quieto tres segundos, escuchando, con la verga adentro y el corazón en la garganta. No pasó nada. La casa siguió dormida.
 
 Y él volvió a bajar la cabeza, más rápido que antes, con el miedo convertido en combustible.
 
@@ -561,3 +561,209 @@ Gonzalo se quedó mirando la alfombra vacía.
 *Mi cuerpo quiere esto.*
 
 No fue una confesión ni una rendición. Fue lo que era: la primera cuenta correcta de la noche.
+
+El sábado se despertó a las nueve y veinte con el sabor todavía en la boca.
+
+Esa fue la primera información del día y no le dio tregua ni un segundo: antes de abrir los ojos, antes de acordarse de nada, la lengua se movió y encontró el gusto ahí, en el fondo, apagado pero entero, salado y con ese filo metálico pegado a las muelas de abajo. El cuerpo lo reconoció antes que la cabeza. La cabeza llegó cuatro segundos después con todo lo demás.
+
+Se sentó en la cama de golpe. Renata no estaba; se oía la cafetera en la cocina y la radio, y por la ventana entraba una mañana normal, una mañana de sábado idéntica a los mil sábados anteriores, y esa normalidad fue lo peor de todo, porque significaba que lo de anoche no había sido un paréntesis. Había pasado adentro de su vida.
+
+El horror le llegó completo. Fue real, fue enorme, se le puso en el pecho como una piedra: se vio de rodillas en la alfombra, se oyó a sí mismo haciendo ese ruido húmedo, se acordó de la barbilla mojada y del cuello de la camisa empapado, y sintió unas ganas violentas de agarrar algo y romperlo.
+
+El horror le duró hasta que se le llenó la boca de agua.
+
+Fue automático, y fue el mismo cuerpo el que lo hizo: se acordó del peso, y la boca respondió como responde una boca a la que le nombran la comida. Gonzalo se quedó sentado en la cama con la piedra en el pecho y la saliva juntándosele bajo la lengua al mismo tiempo, y no había manera de tener las dos cosas y que alguna ganara. Tragó. Se le volvió a llenar.
+
+Se metió a la ducha con el agua lo más caliente que aguantaba.
+
+Se lavó la boca tres veces. La primera con pasta de dientes, hasta que le ardieron las encías. La segunda con el cepillo hasta el fondo, empujándolo atrás, buscando a propósito el lugar donde antes había una puerta —empujó, empujó más, empujó hasta donde ningún hombre puede empujar— y no pasó nada, no se cerró nada, y en cambio se le llenó la boca de saliva otra vez y los ojos se le pusieron a llorar solos.
+
+A la tercera se quedó quieto frente al espejo con el cepillo colgando de la mano y entendió lo que estaba haciendo.
+
+No se estaba limpiando. El cuerpo, con toda su lógica nueva, estaba leyendo el cepillo como se lee un ensayo.
+
+Lo tiró al lavabo.
+
+En el espejo había un hombre de cuarenta y tres años con los hombros mojados, el pelo del pecho pegado a la piel y la barba de dos días asomando dura y oscura en una mandíbula que se había vuelto más angosta durante la noche. Se afeitó. La barba salió igual que siempre, la máquina raspó igual que siempre, y debajo de la espuma quedó una cara que era suya en un noventa por ciento. El diez restante no tenía nombre. Los pómulos. La línea de la mejilla. La boca, sobre todo la boca, más gruesa, más blanda, más viva que el resto de la cara, como si perteneciera a otra persona más joven y con menos vergüenza.
+
+Se pasó el pulgar por el labio de abajo para probar.
+
+El escalofrío le llegó hasta las rodillas y tuvo que apoyarse en el lavabo.
+
+*Le chupé la verga a una cosa que no tenía cara.*
+
+El pensamiento le llegó limpio, sin adorno, con la puntería de siempre. Se agarró del lavabo con las dos manos y esperó a que le pasara.
+
+—Fue una vez —dijo en voz alta, mirándose—. Fue una vez y con asco. Ya está.
+
+Le sonó bien. Le sonó firme, adulto, resolutivo, como suenan las cosas cuando uno las dice frente a un espejo. Un accidente. Una intoxicación. Una noche que se sale de la curva y que uno archiva, no repite, no comenta. Todo el mundo tiene una. Ya está.
+
+La lámpara estaba en el pasillo, donde él la había dejado tirada la noche anterior.
+
+La metió en una bolsa del supermercado, hizo dos nudos y la bajó al contenedor de basura del edificio. Se lavó las manos al volver. Se sirvió café y le contestó tres cosas a Renata sin escucharla, y ella lo miró de reojo dos veces desde la mesa, con esa forma que tienen quince años de mirar a alguien.
+
+A las siete de la tarde, cuando entró al comedor a buscar el cargador, la lámpara estaba encima de la mesa.
+
+Rosa, brillante, aceitosa, puesta justo en el centro del mantel, con el pico curvado hacia arriba, devolviéndole la luz de la lámpara del techo como si acabaran de sacarla de la boca de alguien. Gonzalo se quedó parado en la puerta con el cargador en la mano y el corazón golpeándole en las orejas, y el aire del comedor —el aire de su propio comedor, un sábado a las siete— olía dulce. A chicle.
+
+—Renata —dijo, y la voz le salió más aguda de lo que quería—. ¿Tú sacaste algo de la basura?
+
+—¿Qué? —contestó ella desde el dormitorio.
+
+—Nada.
+
+En el rabillo del ojo, en el reflejo del vidrio de la vitrina, algo rosado se movió y ya no estaba cuando giró la cabeza. Y abajo, en el fondo del vientre, el hambre se estiró un poco, como quien se acomoda en un sillón que ya conoce.
+
+El domingo pasó despacio.
+
+Renata puso música en la cocina y él se ofreció a lavar los platos, cosa que no hacía nunca, y ella se quedó mirándolo desde la puerta con la taza en la mano.
+
+—¿Te hiciste algo? —dijo.
+
+—¿Qué?
+
+—No sé. Estás distinto. —Se acercó, le tomó la cara con dos dedos y se la giró hacia la luz, sin pedir permiso, con una autoridad chiquita que Gonzalo nunca le había visto usar—. Es la cara. O el pelo. No sé qué es. —Lo soltó—. Te ves bien, en realidad. Raro, pero bien.
+
+Se fue con la taza.
+
+Gonzalo se quedó con las manos en el agua caliente, y lo que sintió, en el orden en que lo sintió, fue esto: primero un calor tibio y rápido que le subió del vientre al pecho, un gusto físico, el gusto animal de haber sido mirado y aprobado; y recién después, un segundo entero después, la indignación. Un segundo entero. Lo midió, porque medía todo, y el resultado le dio asco de una manera nueva. Su mujer le había dicho *te ves bien* y su cuerpo se había puesto contento antes de que su cabeza alcanzara a ofenderse.
+
+Esa noche, en la cama, Renata se le acercó.
+
+No pasaba hacía cinco semanas, y no pasaba así, con ella buscándolo primero: le puso una pierna encima, le pasó la mano por el pecho, le mordió el hombro con esa confianza vieja de dos cuerpos que se saben. Y Gonzalo pensó *gracias a Dios*, pensó *esto lo arregla*, pensó *esta es la prueba*, y se dio vuelta y la besó con toda la voluntad del mundo.
+
+No pasó nada.
+
+Le tocó las tetas, que le habían gustado quince años. Le metió la mano entre las piernas y la encontró mojada, y ella hizo el ruido bajito que hacía siempre, el ruido que a él le funcionaba desde el dos mil once. Se apretó contra ella. Cerró los ojos, buscó imágenes, buscó las de siempre, buscó las que nunca fallaban.
+
+Nada. Blanda, tibia, dormida, exactamente igual que en el baño la noche del viernes.
+
+Renata bajó la mano y comprobó, sin comentarios. Se quedó un momento así, con la palma sobre él, y Gonzalo sintió cómo se le encendía la cara entera en la oscuridad.
+
+—Ya, ya —dijo ella, y le dio dos palmaditas—. No importa. Estás cansado.
+
+Se dio vuelta y se durmió en cuatro minutos.
+
+Él se quedó mirando el techo. *No importa* le dio vueltas en la cabeza durante una hora y media, y en el orden de las palabras había algo nuevo que no supo nombrar: no había reclamo, no había burla, no había pena. Había constancia. Su mujer había registrado un dato y lo había archivado.
+
+A las dos de la mañana seguía despierto.
+
+Y en algún momento, sin llamarlo, sin buscarlo, le volvió el peso.
+
+Le volvió entero: el peso acostado en la lengua, hundiéndosela, obligándolo a sostenerlo; el calor de algo que llega más caliente que la propia boca; el *tum* lento contra el paladar. Le volvió como vuelve una canción, sin permiso, y a Gonzalo se le llenó la boca de saliva en la cama de su matrimonio, con su mujer respirando a treinta centímetros.
+
+Cuatro segundos.
+
+Los contó, porque contaba todo. Cuatro segundos entre el recuerdo del peso y la verga durísima empujándole el elástico del calzoncillo, tan dura que le dolió, palpitando, con la punta mojada pegándosele a la tela. Cuatro segundos, después de dos horas de no conseguir absolutamente nada con la mujer que tenía al lado.
+
+El cuerpo le había entregado el veredicto por escrito y con firma.
+
+Se levantó despacio, se metió al baño, cerró la puerta sin ruido y se apoyó de espaldas en ella.
+
+No aguantó ni treinta segundos. Se la sacó y se agarró, y en cuanto se agarró supo que no iba a poder pensar en otra cosa, así que dejó de pelear: se dejó venir el recuerdo entero, con todo el detalle, el olor de la ingle metiéndosele en la cara, el primer roce en los labios, la verga poniéndosele más grande adentro de la boca, la garganta que no se cerraba, el chorro caliente contra el fondo medio segundo antes de saber a qué sabía. Se acabó en cuatro tirones sobre la tapa del inodoro, doblado, con la frente contra la puerta y la boca abierta, mordiéndose el sonido para no despertar a nadie.
+
+Y después vino el minuto en el que se suponía que iba a estar a salvo.
+
+Ese minuto lo conocía. Todos los hombres lo conocen: el minuto en que se acaba el asunto y a uno se le ordena la cabeza y ve claro y se ríe de lo que estaba pensando dos segundos antes. Gonzalo lo esperó con los ojos cerrados y la respiración volviendo. Lo esperó como se espera un ascensor.
+
+No llegó.
+
+No hubo bajón. No hubo claridad. No hubo asco reparador ni vergüenza limpiadora. Se limpió con papel, se subió el calzoncillo, se lavó las manos, y el hambre seguía ahí, intacta, tibia, ancha, más arriba que hace veinte minutos, con la boca llena de agua y el culo apretándose solo contra la tela.
+
+Se miró en el espejo del baño, a las dos y veinte de la mañana, y por primera vez desde el viernes le vino un pensamiento sin ninguna defensa adentro:
+
+*Esto no se me va a pasar solo.*
+
+El lunes fue el día en que el mundo empezó a mirarlo.
+
+Bajó a las ocho y diez, con el traje gris y la corbata azul de siempre, y el conserje —que le decía "don Gonzalo" hacía nueve años, que le abría la puerta sin levantar la vista del teléfono— levantó la vista del teléfono.
+
+No dijo nada raro. Dijo "buenos días, don Gonzalo". Pero antes de decirlo se demoró. Un segundo. Un segundo entero mirándole la cara, con las cejas apenas juntas, en esa expresión que pone la gente cuando algo no le calza y no sabe qué es: no lo miró como se mira a una mujer, no lo miró con burla, lo miró como se mira una palabra mal escrita en un cartel.
+
+En el estacionamiento, el tipo del BMW de al lado —cincuenta años, gimnasio, reloj— lo siguió con los ojos desde el auto hasta el ascensor. De arriba abajo y de abajo arriba. Sin disimular. Y a Gonzalo, que tenía los hombros que había tenido siempre, que le sacaba media cabeza al tipo, que se había afeitado esa mañana, le subió un calor por la espalda que no era rabia.
+
+Fue calor primero. Otra vez el orden equivocado. Le gustó que lo miraran, un segundo entero, antes de sentirse humillado por que lo miraran.
+
+Y la humillación, cuando llegó, no apagó el calor. Lo dobló.
+
+En la oficina, la secretaria de finanzas le dejó la carpeta en el escritorio y se quedó parada un momento de más.
+
+—Te ves bien —dijo—. No sé qué te hiciste, pero te ves bien.
+
+Nadie pensaba *parece una mujer*. Eso era lo insoportable. Nadie tenía una palabra para lo que estaban viendo, porque lo que estaban viendo era un hombre grande de hombros anchos, con barba, con voz de hombre, con traje de hombre — y algo más, algo en la línea de la mandíbula, algo en la boca, algo en cómo movía las manos al hablar y cómo se sentaba cruzando las piernas de una manera que a los cuarenta y tres años nunca había usado. Pensaban *hay algo*. Y ese *hay algo*, sin nombre y sin acusación, lo desnudaba delante de todos mucho más que cualquier palabra que le hubieran podido decir.
+
+A las once y media, en la reunión de presupuesto, le llegó el sabor.
+
+Estaba de pie, con el control en la mano, explicando la proyección del segundo semestre a siete personas, y en la mitad de una frase le apareció en el fondo de la garganta —salado, espeso, con el filo metálico exacto— igual de nítido que si acabara de pasar por ahí. La boca se le llenó de agua de golpe. Tuvo que tragar en medio de la palabra "amortización" y le salió un ruido húmedo que amplificó el micrófono de la sala.
+
+—Perdón —dijo—. La garganta.
+
+Siguió hablando. Terminó la proyección, contestó dos preguntas, se sentó. Nadie notó nada. Nadie podía notar que el gerente comercial estaba parado frente a la pantalla con el paladar buscando una verga que no estaba y el culo apretándose despacio bajo el traje.
+
+Esa noche, cuando abrió la puerta de la casa, olía a chicle.
+
+Ginny estaba tirada de espaldas en el sillón bueno con las piernas colgando del brazo, los tacones apuntando al techo, mirando el celular de él, que estaba en la mesa de centro y que ella no sabía usar.
+
+—Ay, hola —dijo—. Qué chistoso, se ve todo chiquito ahí adentro. —Se dio vuelta boca abajo, con la barbilla en las manos y los pies cruzados en el aire—. ¿Cómo estuvo tu día?
+
+—Vete de mi casa.
+
+—Estuvo horrible, ¿verdad? —Ginny suspiró con una compasión perfectamente sincera—. Es que estás bien tensa, cosita. Se te nota.
+
+—No me digas así.
+
+—Bueno. —Se encogió de hombros—. Oye, ¿y ya pensaste en el potito?
+
+Gonzalo se quedó con el maletín en la mano.
+
+—O sea, no me hagas caso —dijo ella, revoloteando una mano—. Es que yo te veo así, tipo, aguantándote, y me da como cosita. Porque tú crees que lo de la boca es lo bueno. Y no. —Se rió—. La boca está rica, obvio, la boca está padrísima. Pero por el potito, ay, tontita, por el potito es, like, mil veces mejor.
+
+—Cállate.
+
+—Es que la gente no sabe cómo funciona —siguió Ginny, en el mismo tono con que había hablado del peso el viernes, cómodo, chismoso, sin ninguna prisa—. Mira: ahí atrás tú tienes dos cositas. Una la puedes apretar tú, ¿va? Esa la mandas tú, la aprietas, la sueltas, tú decides. —Levantó dos dedos y separó uno—. Y hay otra, más adentro, que no te hace caso. Neta que no. Esa no obedece a nadie, bestie. Esa se abre sola cuando le hacen suficiente presión, y tú puedes estar pensando lo que quieras, puedes estar diciendo que no con la cabecita, y ella igual se abre. So, o sea, imagínate.
+
+Gonzalo dejó el maletín en el suelo con mucho cuidado, porque si no lo dejaba con cuidado lo iba a tirar contra la pared.
+
+—Y al principio arde —dijo Ginny, encantada—. Un poquito, ahí justo en el borde, un ardor bien concentrado, y dura como nada, y después se suelta y se acabó. Y ya adentro no es ardor, no es nada parecido. Adentro es peso. Es lleno. Es que te empujen desde adentro. —Se mordió el labio inflado—. Y hay un lugar, así como a dos deditos para adelante, que si te lo tocan bien se te va todo el cuerpo. Todo, ¿eh? No es como acabar con la verga, que es aquí nomás y ya. Esto te sube en olas por las piernas y por la panza y te llega hasta la cabeza, y no se acaba, porque no hay ese ratito de después en el que se te pasa. Ahí no se te pasa nunca, cosita. Puedes seguir y seguir.
+
+Gonzalo tenía la boca llena de agua. Otra vez. Se la tragó entera.
+
+—Y tú lo tienes bien sensible, ¿te acuerdas que te dije? —Ginny puso los ojos tiernos—. Te lo dejé bien sensible y que se acomoda a lo que sea. Como si te hubieran hecho a la medida de cualquiera. Es, literal, mi mejor trabajo.
+
+—Eso no se deshace —dijo Gonzalo.
+
+Le salió ronco. Fue lo único que se le ocurrió y era la verdad, era la línea que él mismo había puesto en algún momento de esos tres días sin darse cuenta de que la estaba poniendo: la boca era una cosa, la boca se lava. Lo otro era otra categoría. Lo otro le pasaba a otra gente, a gente que ya había decidido ser otra cosa, y una vez que a un hombre se lo cogen por el culo ese hombre ya no puede decir que no lo cogieron nunca.
+
+—Ay, no —dijo Ginny, con dulzura—. No se deshace nada, cosita. Nada de esto se deshace. —Sonrió—. Eso ya lo sabías.
+
+—Me va a doler.
+
+—Un poquito —dijo ella—. Y luego no.
+
+—No quiero.
+
+Ginny lo miró con la cabeza ladeada, y por primera vez esa noche no dijo nada durante tres segundos completos, y esos tres segundos fueron más obscenos que todo lo anterior, porque le dieron tiempo a Gonzalo de oírse.
+
+—Ay, bestie —dijo al final, bajito, sin ninguna maldad—. Tú no quieres. Ya sé. —Se rió—. No te estoy obligando a nada, ¿eh? Yo nomás te cuento cómo es. Y luego tú haces lo que quieras. Sorry not sorry. Ji, ji.
+
+Después se estiró en el sillón como un gato, cerró los ojos y se puso a tararear algo, y no volvió a hablar del tema en toda la noche, y eso fue mil veces peor que si hubiera insistido.
+
+Gonzalo se acostó a las doce. Renata dormía de lado, dándole la espalda.
+
+A la una y cuarto seguía despierto con los ojos abiertos en la oscuridad, y a la una y veinte se dio cuenta de que tenía la mano metida bajo el elástico del calzoncillo y de que no se estaba tocando adelante.
+
+Se estaba tocando atrás.
+
+Un dedo. Apoyado ahí, quieto, apenas presionando, con la yema nueva —lisa, sensible, de dedo de mujer— y la piel de ahí atrás respondiéndole con una nitidez que le cortó la respiración: sintió el pulso propio, sintió el calor, sintió cómo se apretaba y se soltaba, y al empujar un poquito, apenas un poquito, sintió cómo el borde cedía sin pelear.
+
+El cuerpo entero se le encendió como si le hubieran conectado un cable, y la verga —la suya, la que no había servido para nada con su mujer— se le puso dura contra el colchón de golpe.
+
+Sacó la mano.
+
+Se sentó en la cama, con la respiración entrecortada y el corazón en la garganta, y se quedó así, sentado en el borde, mirando la puerta cerrada del baño con los dos pies fríos en el piso. Renata se movió y siguió durmiendo.
+
+*No. Eso no. Eso ya no se deshace.*
+
+Se acostó boca abajo, con las dos manos debajo de la almohada, apretadas, como se acuesta un niño que ha decidido portarse bien. Se durmió a las tres y media.
+
+El martes se despertó con el culo palpitando y la boca llena de agua, y el hambre estaba más arriba que el lunes.
