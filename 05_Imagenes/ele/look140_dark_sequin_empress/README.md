@@ -1,13 +1,13 @@
 # 🖼️ Galería: look140_dark_sequin_empress
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 5
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_140_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png) | ![ele_140_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png) | ![ele_140_ditzy_fix.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy_fix.png) |
-| ![ele_140_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png) | ![ele_140_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png) | ![ele_140_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png) |
+| ![ele_140_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png) | ![ele_140_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png) | ![ele_140_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png) |
+| ![ele_140_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png) | ![ele_140_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_140_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png) | ![ele_140_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png) | ![ele_140_ditzy_fix.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy_fix.png) | ![ele_140_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png) |
-| ![ele_140_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png) | ![ele_140_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png) |
+| ![ele_140_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png) | ![ele_140_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png) | ![ele_140_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png) | ![ele_140_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png) |
+| ![ele_140_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png) |
 
 
 ---
@@ -24,7 +24,6 @@ Total imágenes: 6
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_140_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png)
 - [ele_140_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png)
-- [ele_140_ditzy_fix.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy_fix.png)
 - [ele_140_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png)
 - [ele_140_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png)
 - [ele_140_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png)

@@ -1,13 +1,13 @@
 # 🖼️ Galería: look156_chrome_vegas_stripper
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 8
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_156_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png) | ![ele_156_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png) | ![ele_156_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png) |
-| ![ele_156_pose3_seated_retry.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated_retry.png) | ![ele_156_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) | ![ele_156_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) |
+| ![ele_156_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) | ![ele_156_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) | ![ele_156_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 8
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_156_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png) | ![ele_156_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png) | ![ele_156_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png) | ![ele_156_pose3_seated_retry.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated_retry.png) |
-| ![ele_156_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) | ![ele_156_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) | ![ele_156_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png) | ![ele_156_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose7_lying.png) |
+| ![ele_156_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png) | ![ele_156_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png) | ![ele_156_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png) | ![ele_156_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) |
+| ![ele_156_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) | ![ele_156_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png) | ![ele_156_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose7_lying.png) |
 
 
 ---
@@ -25,7 +25,6 @@ Total imágenes: 8
 - [ele_156_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png)
 - [ele_156_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png)
 - [ele_156_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png)
-- [ele_156_pose3_seated_retry.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated_retry.png)
 - [ele_156_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png)
 - [ele_156_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png)
 - [ele_156_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png)
