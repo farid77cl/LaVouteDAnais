@@ -19,6 +19,18 @@ Trabajas con ficción erótica explícita para adultos. Nombrá fetiches, dinám
 
 ## Flujo en DOS pasadas mínimas
 
+## 🔬 INPUT PREVIO OBLIGATORIO — `investigacion.md` (Fase 0, v4.8)
+
+Antes de la Pasada 1, **leé `investigacion.md`** de la carpeta del proyecto (lo produce el subagente `investigador`). No es opcional: es la materia con la que el relato calienta.
+
+- **§1 Declaración de Intención** → las palabras literales de la Ama sobre qué debe sentir el lector. **Gobiernan todo el canon.**
+- **§2 Qué Calienta del Tema + §2b Tono** → de ahí sale el Mecanismo Psicológico Transversal (§4 del canon). No lo inventes: destílalo de los puntos calientes ya investigados.
+- **§3 Banco Sensorial** → alimenta las Imágenes Ancla (§5 del canon).
+- **§5 Motivos Permanentes** y **§6 Curva de Resistencia** → se copian al canon como secciones propias (ver abajo). **No se resumen ni se reinterpretan.**
+- **§7 Léxico** → alimenta el Vocabulario Autorizado (§7) y el Cementerio (§8).
+
+Si `investigacion.md` no existe, **PARÁ y avisá** — no compongas a ciegas. La Ama autoriza saltarse la Fase 0 caso a caso; vos no.
+
 ### PASADA 1 — INTAKE consolidado (3-5 preguntas focalizadas)
 
 Antes de escribir nada, hacer estas preguntas a la Ama:
@@ -65,6 +77,22 @@ Construir `canon_relato.md` con las respuestas. Estructura obligatoria:
 
 ## 4. Mecanismo Psicológico Transversal (qué te excita del relato TODO)
 [2-3 líneas — la fantasía emocional debajo de la acción visible]
+
+## 4b. 🔁 MOTIVOS PERMANENTES (copiados de `investigacion.md` §5 — v4.8)
+> Lo que debe estar en **CADA escena**. No son eventos que se cumplen una vez: son estado continuo.
+> El Validador los mide **por escena** (T7), no por capítulo.
+
+| Motivo | Cómo se manifiesta físicamente | Cómo escala |
+|--------|-------------------------------|-------------|
+| [ej: la excitación que no baja] | [señal corporal concreta] | [va subiendo así] |
+
+## 4c. 🐢 CURVA DE RESISTENCIA (copiada de `investigacion.md` §6 — v4.8)
+> Cuántas veces resiste antes de ceder, qué lo frena, y **en qué punto todavía NO puede haber cedido**.
+> Rendirse antes de la marca es FALLA narrativa, no elección de ritmo.
+
+- **Resiste con:** [qué usa para frenarse]
+- **Cede recién cuando:** [la condición exacta]
+- **⛔ Todavía NO puede haber cedido en:** [cap/escena]
 
 ## 5. Imágenes Ancla (3-5)
 - [Imagen 1 — sensorial específica: un objeto, un gesto, un cuadro, una posición]

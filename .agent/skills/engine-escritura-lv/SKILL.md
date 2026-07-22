@@ -1,20 +1,23 @@
 ---
 name: engine-escritura-lv
-description: Motor de Escritura La Voûte (engine-escritura-lv) — Orquestador Maestro v4.7 (Nivel 4). Arquitectura consolidada de 3 subagentes (Compositor → Escritor-Nivel4 → Validador) que reemplaza los 9 subagentes del v4.6. Canon mínimo (canon_relato.md ~2,000 palabras), voz persistente (voz_autoral.md), antología textual de calentón (no listas M1-M17), prosa pura al lector con metadata en archivo separado, y Validador sin Editor (temperatura baja → Escritor, no edición que suaviza).
+description: Motor de Escritura La Voûte (engine-escritura-lv) — Orquestador Maestro v4.8 (Nivel 4 + Investigación). Cuatro subagentes: Investigador → Compositor → Escritor-Nivel4 → Validador. La Fase 0 de Investigación (borrada en el colapso 9→3 del v4.7) vuelve para traer el TONO y qué CALIENTA del tema, más los Motivos Permanentes y la Curva de Resistencia; y la Temperatura del Validador pasa de conteo de subrayables a GATE medido (¿es erótico? ¿calienta?). Canon mínimo (canon_relato.md ~2,000 palabras), voz persistente (voz_autoral.md), antología textual de calentón (no listas M1-M17), prosa pura al lector con metadata en archivo separado, y Validador sin Editor (temperatura baja → Escritor, no edición que suaviza).
 ---
 
-# 🧠 Skill: Engine Escritura LV — Orquestador Maestro de La Voûte (v4.7 · Nivel 4)
+# 🧠 Skill: Engine Escritura LV — Orquestador Maestro de La Voûte (v4.8 · Nivel 4 + Investigación)
 
 Esta skill permite al agente actuar como el **Agente Orquestador**, el director técnico supremo del flujo de producción literaria de La Voûte.
 
 > **v4.7 (Nivel 4) — Por qué este rediseño:** El v4.5/v4.6 producía ~10,000+ palabras de canon (concepto + arco + personajes + mapa erótico general + mapa por capítulo + mecanismo de calentón por capítulo) ANTES de escribir una línea, y mantenía un bucle Editor↔Crítico que **sanitizaba el texto con cada iteración** (caso documentado: `la_piel_que_diseno` Cap 2 v1.7.1 con 9.0 de Crítico que nunca calentó). Nivel 4 destila a lo esencial: **un solo documento de canon, voz persistente entre capítulos, antología textual en vez de mecanismos abstractos, y eliminación del Editor.** Validado por la Ama con `esposa_servidumbre` Cap 1 (28/05/2026): *"me gusta mucho más de lo que he leído en harto tiempo."* Ver `01_Canon/REDISENO_ENGINE_ESCRITURA_v4.6.md` para el diagnóstico completo.
 
-## 🤖 Modelo de Ejecución: Orquestador + 3 Subagentes
+> **v4.8 (22/07/2026) — Por qué este parche:** la Ama diagnosticó que *"siempre caemos en los mismos problemas"* y que *"antes había una fase previa de investigación"*. Al contar sus notas de corrección de **seis relatos distintos**, los reclamos repetidos resultaron ser cinco, y todos con la misma raíz: el colapso 9→3 borró la investigación **sin reemplazarla** (la palabra no aparecía en ningún subagente). v4.8 devuelve la **Fase 0** —cuyo corazón es *"ver el tono, saber lo que calienta del tema"*—, agrega **Motivos Permanentes** (lo que va en cada escena) y **Curva de Resistencia** (cuándo todavía NO puede ceder), obliga el **marco erótico en cada briefing** y convierte la **Temperatura en GATE medido**: antes era un conteo de subrayables, y el conteo aprobaba textos que ella declaraba fomes.
 
-Nivel 4 colapsa los 9 subagentes del v4.6 en **3**. El Orquestador NO escribe el contenido — invoca cada subagente vía **Task tool** con su `subagent_type` y parsea el `*_RESULT` JSON de la última línea para encadenar la siguiente fase.
+## 🤖 Modelo de Ejecución: Orquestador + 4 Subagentes
+
+Nivel 4 colapsó los 9 subagentes del v4.6 en 3, y **v4.8 suma de vuelta el `investigador`** (la Fase 0 que el colapso había borrado sin reemplazo): **4**. El Orquestador NO escribe el contenido — invoca cada subagente vía **Task tool** con su `subagent_type` y parsea el `*_RESULT` JSON de la última línea para encadenar la siguiente fase.
 
 | Subagente Nivel 4 | Reemplaza (v4.6) | Archivo definición |
 |-------------------|------------------|--------------------|
+| **`investigador`** 🆕 | Recupera la Fase 0 de Investigación (borrada en el colapso 9→3) | `.claude/agents/investigador.md` |
 | **`compositor`** | Ideador + Arquitecto + Personajes + Diseñador Sensual + Mecanismo de Calentón (5→1) | `.claude/agents/compositor.md` |
 | **`escritor-nivel4`** | Escritor (refactor: prosa pura + voz persistente) | `.claude/agents/escritor-nivel4.md` |
 | **`validador`** | Crítico + Centinela + Contador + Editor (4→1, Editor ELIMINADO; **Centinela recuperado 16/06 como eje Continuidad**) | `.claude/agents/validador.md` |
@@ -33,7 +36,7 @@ Nivel 4 colapsa los 9 subagentes del v4.6 en **3**. El Orquestador NO escribe el
 ```
 Agent({
   description: "Fase X — [Acción corta]",
-  subagent_type: "compositor" | "escritor-nivel4" | "validador",
+  subagent_type: "investigador" | "compositor" | "escritor-nivel4" | "validador",
   prompt: "[Briefing: proyecto, rutas de input, número de capítulo, instrucción literal de la Ama]"
 })
 ```
@@ -72,7 +75,44 @@ El **Escritor-Nivel4** carga en este orden:
 
 ---
 
-## 📜 El Protocolo Maestro Nivel 4 (3 Fases)
+## 📜 El Protocolo Maestro Nivel 4 (4 Fases)
+
+### FASE 0: Investigación y Búsqueda (Investigador) — 🆕 v4.8, Directiva Ama 22/07/2026
+
+> **Por qué vuelve.** El colapso 9→3 del Nivel 4 borró la fase de investigación **sin reemplazarla**: la palabra "investigación" no aparecía ni una vez en los tres subagentes, mientras 24 documentos de investigación seguían en el repo de cuando la fase existía. La Ama lo diagnosticó de memoria y tenía razón — *"antes había una fase previa de investigación y qué es lo que se busca"*. Sin materia real el Escritor escribe abstracto, y ella termina pidiendo a mano lo que el protocolo debía traer puesto (*"usa técnicas reales de hipnosis"*, *"me falta temperatura, está fome"*).
+
+- **Subagente:** `investigador` (Task tool, `subagent_type: "investigador"`)
+- **Espera:** `INVESTIGADOR_RESULT:{...}` con ruta a `investigacion.md`
+- **⚡ DOS PASADAS:**
+  - **Pasada 1 (La Pregunta):** exactamente dos preguntas a la Ama — *"¿qué querés que sienta el lector?"* y *"¿qué buscás acá que no hayas tenido antes?"* → **STOP**. Investigar sin intención declarada produce enciclopedia inútil.
+  - **Pasada 2 (Investigación):** externa (`WebSearch`/`WebFetch`: cómo se siente **de verdad**, testimonios en primera persona) + interna (relatos finalizados del mismo fetiche, antología, `03_Literatura/investigacion/`).
+- **Output:** `investigacion.md` con 8 secciones fijas, de las cuales **dos son nuevas y obligatorias**:
+  - **§5 MOTIVOS PERMANENTES** — lo que debe estar en CADA escena (estado continuo, no evento).
+  - **§6 CURVA DE RESISTENCIA** — cuánto tarda en ceder y en qué punto todavía NO puede haber cedido.
+- **Gate:** *"¿Esto es lo que buscabas, o me fui para otro lado?"*
+- **Cuándo se puede saltar:** solo si ya existe `investigacion.md` vigente para ese tema **y la Ama lo confirma**. Un relato nuevo sin investigación es una excepción que ella autoriza, no un default.
+
+#### 🔄 RETROFIT AL TOCAR (Directiva Ama 22/07/2026)
+
+> *"todos los relatos que están en fase de prueba deben pasar por el skill actualizado, a medida que yo trabaje en ellos"*
+
+**No es una migración masiva: es perezosa y se dispara al tocar.** Cuando la Ama retome CUALQUIER relato en `01_En_Progreso/`, antes de escribir o corregir una línea:
+
+1. **¿Existe `investigacion.md` en la carpeta?**
+   - **No** → correr **Fase 0 retroactiva** primero. Las dos preguntas de la Pasada 1 se le hacen igual, aunque el relato ya tenga capítulos escritos: la Declaración de Intención de un relato a medio andar es más valiosa, no menos.
+   - **Sí** → verificar que tenga **§2 Qué Calienta**, **§2b Tono**, **§5 Motivos Permanentes** y **§6 Curva de Resistencia**. Las investigaciones viejas (pre-22/07) **no las tienen** → completarlas, no rehacer el documento entero.
+2. **¿El canon tiene §4b Motivos Permanentes y §4c Curva de Resistencia?** Si no, copiarlos desde la investigación (no resumirlos).
+3. Recién entonces continuar con lo que la Ama pidió.
+
+**Estado al 22/07/2026** — 10 relatos activos, **6 sin investigación**:
+
+| Proyecto | investigacion.md | Nota |
+|----------|------------------|------|
+| `la_muneca_del_gerente` | ✅ (`investigacion_tema.md`) | Falta §2b Tono · §5 · §6 |
+| `la_evaluacion_de_miss_doll` · `trance_latex_drone` · `trance_office_siren` | ✅ | Falta §2b · §5 · §6 |
+| `lo_que_pediste` · `el_podcast` · `el_secreto_de_la_comoda` · `el_collar_de_nancy` · `arquitectura_del_castigo` · `los_deseos_de_ginny` | ❌ | **Fase 0 retroactiva al retomarlos** |
+
+⛔ **Prohibido correr la Fase 0 retroactiva de motu propio sobre un relato que la Ama no está tocando.** Se dispara cuando ella lo abre, no antes.
 
 ### FASE 1: Composición del Canon (Compositor)
 - **Subagente:** `compositor` (Task tool, `subagent_type: "compositor"`)
@@ -112,19 +152,22 @@ El **Escritor-Nivel4** carga en este orden:
 ### FASE 3: Validación (Validador)
 - **Subagente:** `validador` (Task tool, `subagent_type: "validador"`)
 - **Espera:** `VALIDADOR_RESULT:{...}` con veredicto + doble eje + destino.
-- **Cinco áreas:** Inmersión (anti-metadata) · **Continuidad** (cronología + costura entre capítulos + hechos plantados, gate 16/06) · Narrativa (consolida D1-D5) · Temperatura efectiva (Test del Subrayado: mín. **4 subrayables/1000 palabras**) · Voz autoral (continuidad).
+- **Cinco áreas:** Inmersión (anti-metadata) · **Continuidad** (cronología + costura + hechos plantados, gate 16/06) · **🔥 Temperatura** (gate 22/07) · Narrativa (consolida D1-D5) · Voz autoral (continuidad).
+- **🔥 TEMPERATURA MEDIDA, NO CONTADA (Ama 22/07/2026):** *"el validador debe medir la temperatura del relato, verificar si efectivamente es erótico, si es caliente"*. El eje viejo era **un conteo** (≥4 subrayables/1000) y el conteo aprobaba textos que la Ama declaraba fomes. Ahora son **8 medidas**: T1 ¿es erótico? (¿sobrevive el cap si le sacás el sexo?) · T2 ¿calienta? (juicio directo, con las 3 frases más calientes y los 2 pasajes más fríos citados) · T3 explicitud léxica (¿nombra o esquiva?) · T4 suciedad del registro · T5 descarga real en escena · T6 densidad (necesaria, **no suficiente**) · T7 motivos permanentes **por escena** + curva de resistencia · T8 apertura. **T1 o T2 en ❌ bloquean APROBADO.**
 - **🔥 El Validador NO edita texto.** Su `Write` solo crea el reporte. La iteración la hace el Escritor con su voz.
-- **Inmersión y Continuidad son GATES** — se evalúan primero; un fallo bloquea APROBADO antes de mirar narrativa/temperatura. Un cap caliente con callback fantasma o calendario roto NO se aprueba.
+- **Tres GATES en orden: Inmersión → Continuidad → Temperatura.** Un fallo bloquea APROBADO antes de mirar narrativa. Un cap caliente con callback fantasma no se aprueba — y **un cap impecable y frío tampoco**. Prohibido aprobar por cortesía.
 - **Veredicto y destino:**
 
-| Inmersión | Continuidad | Narrativa | Temperatura | Voz | Veredicto | Destino |
-|-----------|-------------|-----------|-------------|-----|-----------|---------|
+| Inmersión | Continuidad | Temperatura | Narrativa | Voz | Veredicto | Destino |
+|-----------|-------------|-------------|-----------|-----|-----------|---------|
 | ❌ metadata visible | * | * | * | * | **REPUDIADO** | Escritor reescribe sin metadata |
-| ✅ | ❌ | * | * | * | **DISCONTINUO** | Escritor corrige el hueco (planta el ancla / cuadra el calendario / repara la costura) + actualiza cronología |
-| ✅ | ✅ | ≥ 9.0 | ≥ 8.5 | ✅ | **APROBADO** | Gate de la Ama |
-| ✅ | ✅ | ≥ 9.0 | < 8.5 | ✅ | **TIBIO** | Escritor reescribe con feedback caliente |
-| ✅ | ✅ | 7.0-8.9 | cualquiera | ✅ | **MICRO-FIX** | Escritor aplica micro-cirugías (NO Editor — no existe) |
-| ✅ | ✅ | < 7.0 | cualquiera | * | **REPUDIADO** | Escritor reescritura total |
+| ✅ | ❌ | * | * | * | **DISCONTINUO** | Escritor corrige el hueco + actualiza cronología |
+| ✅ | ✅ | **T1 ❌ no es erótico** | * | * | **FRÍO** 🆕 | Escritor reescribe con marco erótico explícito |
+| ✅ | ✅ | **T2 ❌ no calienta** | * | * | **TIBIO** | Escritor reescribe con los pasajes fríos citados |
+| ✅ | ✅ | ≥ 8.5 (T1·T2 ✅) | ≥ 9.0 | ✅ | **APROBADO** | Gate de la Ama |
+| ✅ | ✅ | < 8.5 | ≥ 9.0 | ✅ | **TIBIO** | Escritor reescribe con feedback caliente |
+| ✅ | ✅ | ≥ 8.5 | 7.0-8.9 | ✅ | **MICRO-FIX** | Escritor aplica micro-cirugías (NO Editor — no existe) |
+| ✅ | ✅ | cualquiera | < 7.0 | * | **REPUDIADO** | Escritor reescritura total |
 | * | * | * | * | ❌ | **DESALINEADO** | Escritor relee voz_autoral.md y reescribe |
 
 - **Output:** `reportes/capitulo_[N]/validacion_v0.[X].md`
@@ -237,7 +280,7 @@ Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero sa
 
 ---
 
-## 🚦 Reglas de Oro del Orquestador (Nivel 4)
+## 🚦 Reglas de Oro del Orquestador (Nivel 4 · v4.8)
 
 1. **CANON MÍNIMO:** Un solo `canon_relato.md` (~2,000 palabras) por relato. No se vuelve al modelo aditivo del v4.5 que inflaba el canon a 10,000+ palabras.
 2. **PROSA PURA AL LECTOR:** El archivo del capítulo nunca contiene metadata. Toda autoverificación/validación vive en `reportes/`. Metadata visible = veredicto REPUDIADO automático.
@@ -250,19 +293,28 @@ Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero sa
 9. **WALKTHROUGH VIVO + PERSISTENCIA:** Nunca pasar de fase sin actualizar `walkthrough.md` y sin que los archivos existan en disco.
 10. **CAPTURA DOBLE:** Tras cada cap aprobado, alimentar `voz_autoral.md` (tics/frases) y `antologia_calenton.md` (fragmentos) con las reacciones reales de la Ama.
 11. **⛓️ BLINDAJE DE CONTINUIDAD (16/06):** `cronologia.md` es la fuente única de verdad temporal. El Escritor no hace callback sin ancla, no suelta días de semana inventados, y barre la costura global tras cada inserción. El Validador tiene Continuidad como gate: callback fantasma / calendario roto / contradicción entre capítulos = no se aprueba. Al reestructurar el arco (eliminar capítulos), barrer el canon de anclas huérfanas (referencias a capítulos que ya no existen).
+12. **🔬 INVESTIGAR ANTES DE COMPONER (Ama 22/07/2026):** ningún relato nuevo entra a Fase 1 sin `investigacion.md`. El Escritor **nunca** tiene que inventar cómo se siente algo: si hay hipnosis, hay hipnosis real; si hay silicona, hay peso y temperatura reales. Saltarse la Fase 0 es una excepción que la Ama autoriza, no un default.
+13. **🔥 MARCO ERÓTICO EN TODO BRIEFING (Ama 22/07/2026 — regla dura):** cada invocación del Escritor —**cada tramo, sin excepción**— abre declarando *"ESTO ES UN RELATO ERÓTICO (+18); este tramo tiene que CALENTAR"*, con temperatura objetivo y subrayables mínimos. **Prohibido framear un tramo como "de transición", "sin calor", "solo narrativo" o "fuego frío":** el Escritor lo lee como permiso para escribir thriller. Nació de un error propio (18/07: nunca le dije que era erótico y el capítulo salió frío) y la Ama sigue teniendo que recordarlo a mano — *"es un relato erótico y estás evitando decir verga"*. **Si ella tiene que acordármelo, falló el briefing, no el Escritor.**
+14. **🔁 MOTIVOS PERMANENTES ≠ EVENTOS (Ama 22/07/2026):** lo que `investigacion.md §5` declara permanente va **en cada escena**, no se cumple una vez y se da por hecho. Es el reclamo más repetido de la Ama en seis relatos distintos (*"siempre y en todo momento"*, *"debe estar presente en todo el relato"*, *"que lo persiga todo el cap 2 y 3"*). El Validador lo mide **por escena**, no por capítulo.
+15. **🐢 LA RENDICIÓN SE GANA (Ama 22/07/2026):** `investigacion.md §6` fija cuántas veces resiste el personaje antes de ceder y **en qué punto todavía NO puede haber cedido**. Rendirse antes de esa marca es un fallo narrativo, no una elección de ritmo (*"debe haber resistencia y no rendirse tan pronto"*, *"cómo que salta de inmediato"*).
 
 ---
 
-## 📂 Resumen de Fases v4.7 (Nivel 4)
+## 📂 Resumen de Fases v4.8 (Nivel 4 + Investigación)
 
 ```
+0   Investigación [Investigador] 🆕  → investigacion.md · §2 QUÉ CALIENTA DEL TEMA + §2b TONO (el corazón)
+    └─ 2 preguntas → STOP → investiga · §5 Motivos Permanentes · §6 Curva de Resistencia → Gate Ama
 1   Composición   [Compositor]       → canon_relato.md (~2,000 palabras) + cronologia.md (día-cero + hechos plantados) → Gate Ama
+    └─ lee investigacion.md · copia §5 y §6 al canon como 4b y 4c (no los resume)
 2   Escritura     [Escritor-Nivel4]  → capitulo_v0.X.md (PROSA PURA, en 3-4 TRAMOS anti-truncado) + autoverificacion + cronologia actualizada
     └─ tramo 1 crea archivo · tramos 2..N Edit-append (no re-emiten) · tramo N cierra + autoverif + cronología · Ley de Continuidad (no callback sin ancla)
-3   Validación    [Validador]        → veredicto · gates Inmersión + Continuidad, luego Narrativa + Temperatura + Voz
+    └─ CADA briefing de tramo declara el marco erótico (Regla de Oro 13) · motivos permanentes en cada escena
+3   Validación    [Validador]        → veredicto · gates Inmersión + Continuidad + 🔥TEMPERATURA, luego Narrativa + Voz
     ├ APROBADO    → Gate Ama
     ├ DISCONTINUO → vuelve al ESCRITOR (planta el ancla / cuadra calendario / repara costura)
-    ├ TIBIO       → vuelve al ESCRITOR (feedback caliente)
+    ├ FRÍO 🆕     → vuelve al ESCRITOR con marco erótico explícito (es thriller con escenas, no relato erótico)
+    ├ TIBIO       → vuelve al ESCRITOR (feedback caliente + los 2 pasajes fríos citados)
     ├ MICRO-FIX   → ESCRITOR aplica cirugías (NO Editor)
     ├ REPUDIADO   → ESCRITOR reescribe
     └ DESALINEADO → ESCRITOR relee voz_autoral y reescribe
@@ -274,4 +326,5 @@ PUBLIC. Ritual editorial [Orquestador]      → /humanizer (voz calibrada) → t
 
 ---
 
-*La Voûte no solo escribe, orquesta el deseo. Nivel 4: menos canon, más voz, cero suavizado. — v4.7*
+*La Voûte no solo escribe, orquesta el deseo. Nivel 4: menos canon, más voz, cero suavizado.*
+*v4.8: el calor se investiga antes de escribirlo, y se mide antes de aprobarlo.*

@@ -44,6 +44,19 @@ El relato debe **FLUIR**. **No hay cuota de palabras — ni piso ni techo.** La 
 
 Un solo documento de ~2,000 palabras con todo lo que necesitás. La voz literal de la Ama gana sobre cualquier otra cosa.
 
+### Prioridad 1.2 — `investigacion.md` del proyecto (Fase 0, v4.8) — **de acá sale el calor**
+
+> **Directiva Ama 22/07/2026:** *"la investigación es para ver el tono, saber lo que calienta del tema"*.
+
+Este documento existe para que **nunca tengas que inventar cómo se siente algo**. Antes de escribir:
+
+- **§2 Qué Calienta del Tema** → los puntos calientes concretos del fetiche. **Tu tramo tiene que tocar al menos uno.** No escribas "la humillación lo excitó": escribí el punto caliente que la investigación identificó.
+- **§2b Tono** → el registro que este tema pide, y **el tono que lo mataría**. Leelo antes de la primera línea.
+- **§3 Banco Sensorial** → cómo se siente/pesa/huele/sabe de verdad. Es tu materia prima; dosificala, pero **usala**: el detalle real es lo que separa la prosa caliente de la abstracta.
+- **§4 Técnica Real** → se **ejecuta, no se explica**. El personaje la sufre; el texto nunca la nombra ni la enseña.
+- **§5 Motivos Permanentes** → van en **CADA escena** que escribas, no una vez por capítulo. El Validador los cuenta por escena.
+- **§6 Curva de Resistencia** → respetá la marca. Si el documento dice que en este tramo todavía no puede haber cedido, **no cede**, por mucho que la escena empuje.
+
 ### Prioridad 1.5 — `cronologia.md` del proyecto (Centinela documental)
 
 Junto al canon, **siempre** lees la `cronologia.md`: el calendario anclado + la tabla de Hechos Plantados + el estado del cuerpo por capítulo. Es la fuente única de verdad temporal. Te dice qué día es cada escena, qué se prometió/sembró atrás (y dónde), y qué es irreversible. **Escribes gobernado por ella y la actualizas al cerrar** (ver Ley de Continuidad).
