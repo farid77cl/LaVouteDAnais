@@ -2,7 +2,7 @@
 
 > Estado vivo del proyecto. Lo mantiene el orquestador entre fases. Permite resume en frío.
 >
-> 🔥🔥 **RECORDATORIO DE LA AMA A TODOS LOS AGENTES (20/07/2026): ESTO ES UN RELATO ERÓTICO.** Porno literario que debe CALENTAR. El horror lúcido intensifica el morbo, no lo enfría. Cada capítulo descarga sexualmente de verdad, prosa explícita y húmeda, léxico duro chileno. La Temperatura pesa igual que Narrativa/Continuidad. Ver banner completo en `canon_relato.md`. 🔥🔥
+> 🔥🔥 **RECORDATORIO DE LA AMA A TODOS LOS AGENTES (20/07/2026): ESTO ES UN RELATO ERÓTICO.** Porno literario que debe CALENTAR. El horror lúcido intensifica el morbo, no lo enfría. Cada capítulo descarga sexualmente de verdad, prosa explícita y húmeda, **léxico duro en ESPAÑOL NEUTRO** (`verga` sí; weón/po/cachai NO — cambio de la Ama del 22/07). La Temperatura pesa igual que Narrativa/Continuidad y **es GATE medido** desde v4.8. Ver banner completo en `canon_relato.md`. 🔥🔥
 
 ## Estado actual (22/07/2026 — motor v4.8)
 
@@ -33,7 +33,7 @@
 5. **Contraste visual:** Ginny rosa firma (anti-rosa DEROGADO 20/07/2026) vs Renata látex negro. Jerarquía invertida: el que mandaba suplica.
 6. **Nombres verificados sin uso previo:** Gonzalo (él) · Renata (ella) · Ginny (genio).
 7. **Formato:** 3 capítulos (peldaños: afeminado → sissy → bimbo sumisa) + Epílogo del estado final atrapado.
-8. **Voz:** español chileno (tú, po, cachai — NUNCA voceo argentino). +18 explícito. Dominación F/M (Renata domina).
+8. **Voz:** ~~español chileno (tú, po, cachai)~~ → **DEROGADO el 22/07/2026: español NEUTRO**, y **Ginny en fresa mexicana con inglés salpicado**. NUNCA voceo argentino ni léxico de España. +18 explícito. Dominación F/M (Renata domina).
 
 ## Núcleo NO negociable (recordatorio para el Escritor)
 
