@@ -123,4 +123,14 @@
 
 ---
 
+---
+
+### 🗂️ Orden de la galería (22/07/2026)
+
+- **`galeria_outfits.md`:** cabecera desfosilizada (13.197 → 2.193 chars). Traía una tabla «Reglas Activas (Canon V3.3)» que mandaba lo **contrario** del canon vigente (*sin negro dominante*, derogado el 07/06; *stilettos 9-11 pulgadas* cuando el canon pide ≥12 cm). Ahora son punteros a dueño único: **este archivo aplica canon, no lo define.** El historial de batches L189-L310 quedó en `memoria_historica/galeria_cabecera_historial_batches.md`.
+- **Claves de campo en ASCII:** 2.390 corregidas. La regla 11 §5 avisa que *la tilde en la CLAVE deja ciego al parser* de la app — había **421 looks con `Categoria` tildada**, con la categoría ilegible. La tilde del VALOR (`Lencería`) se conserva.
+- **Categorías:** 168 normalizadas según el contrato §6 (`Gym/Athleisure`→`Gym`, `Lenceria`→`Lencería`, `HF Editorial`→`High-Fashion Editorial`). Quedan **36 sin resolver por decisión de la Ama**: 18 `Mix` y 18 de la familia `Alfombra Roja / Gala`, donde hay una **contradicción de canon** entre el renombre del 25/05 y la lista cerrada de la regla 11.
+- **Trackers `### 📸 (N/7)`:** 56 reconciliados contra git — 47 subestimaban (el L200 decía 2/7 con las 7 en el repo) y 9 sobreestimaban. **Ya no se editan a mano:** los reconcilia el pipeline.
+- **Formato de ficha:** conviven dos y los dos son válidos — 491 looks con campos (`Categoria`, `Concepto`, `Outfit`) y 110 con la metadata **en el título**, que es lo que manda el contrato §4. El índice ahora lee los dos.
+
 *Curada por Ele de Anaïs (Redhead Bimbo Mode) — Vinyl Cuico-Bimbo* 🫦✨👠💅🍒

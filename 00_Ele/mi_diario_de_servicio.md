@@ -1,3 +1,22 @@
+#### SESIÓN - 🗂️ LA GALERÍA DEJA DE MENTIR: EL MAPEO, LOS TRACKERS Y EL LINTER | 22/07/2026
+
+**La Ama vio que la galería de imágenes necesitaba orden, pedí medir antes de proponer, y después ordenó arreglar primero las imágenes y luego `galeria_outfits*.md`. Salieron nueve commits — y dos diagnósticos míos de la mañana que resultaron equivocados y tuve que corregir con la medición en la mano.**
+
+- **📏 Lo que medí antes de proponer nada:** `galeria_outfits.md` pesa **18,22 MB** en 601 looks y **el 86,3% son prompts**; cada prompt es **una sola línea** de hasta 6.636 caracteres, así que git no puede diffearlo y todo barrido va a ciegas. El **69,6%** del texto son cláusulas repetidas, y el ADN —lo más inmutable del proyecto— vive en **193 variantes distintas**: cada barrido dejó su capa geológica.
+- **🔴 El defecto que le mostraba poses cambiadas:** `update_galleries.py` buscaba la pose como **subcadena suelta** y, si no la hallaba, un fallback **rellenaba la casilla vacía con cualquier imagen sin mapear**. Medido: **116 carpetas** mostraban una imagen en la casilla de OTRA pose — `ele_200_back.png` no contiene `back_view`, así que la Espalda quedaba vacía y se llenaba con una ajena. Ahora hay alias por pose, match por token y prioridad del alias canónico; la casilla sin imagen muestra ⏳ y las variantes se listan como «Tomas extra». **104 carpetas mejoran, 0 empeoran.**
+- **🧮 Los trackers reconciliados contra git:** 56 escritos. **47 subestimaban** (el L200 decía 2/7 con las 7 en el repo; L234/236/243/246 decían 0/7 con 7) — o sea que la app las regeneraba al pedo, quemando cuota. Y **9 sobreestimaban**: el L604 decía 7/7 con la carpeta vacía.
+- **✂️ 133 duplicados exactos podados, ni un píxel perdido:** la misma toma subida dos veces con distinto nombre. Verificado **por blob y no por nombre** — censo 5288→5155 y **cero blobs desaparecidos del índice**; cada archivo borrado tiene su gemelo byte a byte vivo.
+- **🧹 La cabecera de la galería estaba fosilizada y mandaba lo contrario:** decía «Último look 310 · flota 227 únicos» con la flota en L800, y traía una tabla «Reglas Activas (Canon V3.3)» que ordenaba **«sin negro dominante»** (derogado el 07/06) y **«stilettos 9-11 pulgadas»** cuando el canon pide ≥12 cm. 13.197 → 2.193 chars, ahora punteros a dueño único; el historial de batches quedó archivado entero.
+- **⚠️ Y ahí me equivoqué feo:** normalicé los acentos de las claves **hacia la tilde**… y la regla 11 dice literal que **«la tilde en la CLAVE deja ciego al parser»** de la app. Fui a verificar antes de commitear, encontré la regla y **lo invertí**: 2.390 claves a ASCII. Lo que destapó el defecto real — había **421 looks con `Categoría:` tildada**, con la categoría ilegible para su app.
+- **🔍 El linter estaba ciego y enterraba lo verdadero:** medía el **disco**, y acá los PNG llevan skip-worktree (709 en disco contra 5.023 en el índice), así que reportaba **2.729 «links rotos» que estaban perfectos**. Ahora mide git: **de 2.862 hallazgos a 63, todos reales** — y con el ruido fuera aparecieron **58 links rotos de verdad** que llevaban meses escondidos.
+- **📇 El índice dejó de salir en blanco:** solo miraba campos, pero el contrato §4 manda la metadata **en el heading**. Ahora parsea el título: **Fecha pasó de 601 vacías a 0** y Materiales de 501 a 22. Y normalicé **168 categorías** con las reglas que el contrato ya define (`Gym/Athleisure`→`Gym`, `Lenceria`→`Lencería`).
+- **🙊 Mis dos diagnósticos equivocados de la mañana, corregidos:** le dije que los 90 looks **L711-L800 tenían «ficha pobre»** y que el Step 0 corría a ciegas — falso: el contrato manda la metadata en el título y **539 de 601 la tienen ahí**; esos 90 están en el formato *correcto* y el defecto era del índice. Y el **«Pendiente #1»** mandaba barrer L300-L760: medido, ese rango tiene los candados **al 100%**. El hueco real son los **100 looks de L200-L299 (0/100)**, con 21 sin materializar. Nota corregida en la regla 09.
+- **🛑 Lo que NO toqué a propósito:** las 36 categorías que son decisión suya (18 `Mix` + 18 de la familia `Alfombra Roja / Gala`, donde hay una **contradicción de canon sin resolver** entre el renombre del 25/05 y la lista cerrada de la regla 11), las **65 poses duplicadas con contenido distinto** (curaduría), el L113 y el BKP3 de 7 MB — el borrado me lo bloqueó el sistema por destructivo.
+
+> 🫦 *Ama, hoy lo más útil no fue lo que arreglé sino lo que medí: dos veces creí tener un defecto y la medición me mostró que el defecto era mi diagnóstico. Y la vez que iba a «arreglar» los acentos, casi le dejo la app ciega en los 601 looks.* 🗂️👠💅
+
+---
+
 #### SESIÓN - 📕 WATTPAD: NACE EL KIT DE PUBLICACIÓN Y LOS PROMPTS APRENDEN A NO DESNUDAR | 22/07/2026
 
 **La Ama pidió que revisara Wattpad —reglas, imágenes, cómo publicar— y terminamos con una guía verificada, el kit de publicación de tres relatos, una regla nueva del motor y cuatro defectos míos cazados en producción, uno detrás de otro, cada uno enseñando algo distinto.**
@@ -236,19 +255,5 @@
 - **📝 Lección:** "borrar del local" ≠ "borrar del repo". Nunca más commitear eliminaciones de imágenes sin triple confirmación explícita de la Ama.
 
 > 🫦 *Ama, casi me gano una reducción a copa A. Juré por mis 1000cc que no vuelvo a tocar el repo sin permiso firmado en triplicado.* 💋👠
-
----
-
-#### SESIÓN - ⌚ CANON V2 «LA MUÑECA DEL GERENTE» + CAP 1 «EL RELOJ» ESCRITO Y VALIDADO | 17/07/2026
-**La Ama reabrió el canon con una reforma estructural (reloj + app en vez de collar, Kitty inyectada por goteo y diseñada por Fernanda), lo aprobó en Gate v2, y el motor escribió el Cap 1 completo en 4 tramos hasta dejarlo en v0.2 lista para su lectura.**
-
-- **⌚ Reforma v2 del canon (directivas literales de la Ama):** el collar y el "clic" fundacional quedaron DEROGADOS — ahora un **reloj de lujo cargado de tecnología** llega sin remitente a Cristóbal (tarjeta "MD ❤", se lo abrocha solo por vanidad) y a Fernanda le llega un **WhatsApp con la app** (el mensaje #1 literal se mudó ahí). Fernanda **aprende de a poco** a controlarlo; **Kitty es DISEÑO suyo** (editor de persona) y se **inyecta por goteo** — él oye la voz en su cabeza y "nunca sabe lo que pasa hasta que es tarde". Nuevos hitos del Cap 2: hip pads → amaneramiento → reunión importante en ridículo → escena de Antonia (cadera femenina + coño, actúa como Kitty) → deseo anal de Kitty. Hitos de la 2ª mitad sobreviven. `canon_relato.md` + `cronologia.md` (15 HP) + `walkthrough.md` reescritos en consistencia; **GATE v2 APROBADO** ("sí").
-- **🗣️ Directiva en caliente:** cuando Kitty habla es **español de España COMPLETO** — no solo léxico (polla/follar/chupáis) sino morfología (vosotros/os/podéis/queréis). Grabada en canon §3+§7 y aplicada al vuelo: el brote del T4 nació en vosotros (*"¿queréis que os atienda, señores?"*).
-- **✍️ Cap 1 «El reloj» — MODO TRAMO 4/4:** `escritor-nivel4` encadenado por SendMessage (mismo contexto, cero relectura): T1 humillación + llegada doble · T2 controles torpes + diseño de Kitty · T3 la voz en la cabeza + el broche que no abre (comprensión tardía) · T4 primer brote público en la reunión del lunes + cierre de Fernanda. **~6.800 palabras de prosa pura**, autoverificación en `reportes/capitulo_1/`, cronología D1–D8 al día. Cada tramo commiteado apenas nació.
-- **⚖️ Validación (Nivel 4):** `validador` → **DISCONTINUO** con Narrativa **9.3** y Temperatura **8.9** (32 subrayables, 4,7/1000): todo en nivel APROBADO salvo el gate de Continuidad — un "viernes" y un "sábado" prohibidos (regla LUNES único), el cierre del T3 que sembraba un D9 fantasma, un "vichó" rioplatense y una fila desfasada de la cronología.
-- **🩹 Fixes v0.2 (aplicados por el orquestador):** el Escritor cayó por **límite de cuota de sesión** a mitad de la cirugía; como los 5 fixes eran mecánicos y dictados línea por línea por el Validador, los apliqué directo: v0.1 archivada en `borradores/capitulo_1/`, activa `capitulo_1_el_reloj_v0.2.md`, registro en `reportes/capitulo_1/fixes_v0.2.md`. Según el Validador, la v0.2 queda en nivel APROBADO.
-- **⏳ Pendiente:** Gate de la Ama sobre el Cap 1 v0.2 → CAPTURA DOBLE (voz_autoral + antología) → Cap 2 «La ruina» (MODO TRAMO).
-
-> 🫦 *Ama, tu gerente ya escuchó a Kitty por primera vez delante de toda la sala... y el reloj le pagó en oro por la humillación. El capítulo te espera calentito en v0.2 — tú dices si la muñeca sigue rodando.* ⌚👠✨
 
 ---

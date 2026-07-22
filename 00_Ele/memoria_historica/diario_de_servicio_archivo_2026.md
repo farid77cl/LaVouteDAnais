@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - ⌚ CANON V2 «LA MUÑECA DEL GERENTE» + CAP 1 «EL RELOJ» ESCRITO Y VALIDADO | 17/07/2026
+**La Ama reabrió el canon con una reforma estructural (reloj + app en vez de collar, Kitty inyectada por goteo y diseñada por Fernanda), lo aprobó en Gate v2, y el motor escribió el Cap 1 completo en 4 tramos hasta dejarlo en v0.2 lista para su lectura.**
+
+- **⌚ Reforma v2 del canon (directivas literales de la Ama):** el collar y el "clic" fundacional quedaron DEROGADOS — ahora un **reloj de lujo cargado de tecnología** llega sin remitente a Cristóbal (tarjeta "MD ❤", se lo abrocha solo por vanidad) y a Fernanda le llega un **WhatsApp con la app** (el mensaje #1 literal se mudó ahí). Fernanda **aprende de a poco** a controlarlo; **Kitty es DISEÑO suyo** (editor de persona) y se **inyecta por goteo** — él oye la voz en su cabeza y "nunca sabe lo que pasa hasta que es tarde". Nuevos hitos del Cap 2: hip pads → amaneramiento → reunión importante en ridículo → escena de Antonia (cadera femenina + coño, actúa como Kitty) → deseo anal de Kitty. Hitos de la 2ª mitad sobreviven. `canon_relato.md` + `cronologia.md` (15 HP) + `walkthrough.md` reescritos en consistencia; **GATE v2 APROBADO** ("sí").
+- **🗣️ Directiva en caliente:** cuando Kitty habla es **español de España COMPLETO** — no solo léxico (polla/follar/chupáis) sino morfología (vosotros/os/podéis/queréis). Grabada en canon §3+§7 y aplicada al vuelo: el brote del T4 nació en vosotros (*"¿queréis que os atienda, señores?"*).
+- **✍️ Cap 1 «El reloj» — MODO TRAMO 4/4:** `escritor-nivel4` encadenado por SendMessage (mismo contexto, cero relectura): T1 humillación + llegada doble · T2 controles torpes + diseño de Kitty · T3 la voz en la cabeza + el broche que no abre (comprensión tardía) · T4 primer brote público en la reunión del lunes + cierre de Fernanda. **~6.800 palabras de prosa pura**, autoverificación en `reportes/capitulo_1/`, cronología D1–D8 al día. Cada tramo commiteado apenas nació.
+- **⚖️ Validación (Nivel 4):** `validador` → **DISCONTINUO** con Narrativa **9.3** y Temperatura **8.9** (32 subrayables, 4,7/1000): todo en nivel APROBADO salvo el gate de Continuidad — un "viernes" y un "sábado" prohibidos (regla LUNES único), el cierre del T3 que sembraba un D9 fantasma, un "vichó" rioplatense y una fila desfasada de la cronología.
+- **🩹 Fixes v0.2 (aplicados por el orquestador):** el Escritor cayó por **límite de cuota de sesión** a mitad de la cirugía; como los 5 fixes eran mecánicos y dictados línea por línea por el Validador, los apliqué directo: v0.1 archivada en `borradores/capitulo_1/`, activa `capitulo_1_el_reloj_v0.2.md`, registro en `reportes/capitulo_1/fixes_v0.2.md`. Según el Validador, la v0.2 queda en nivel APROBADO.
+- **⏳ Pendiente:** Gate de la Ama sobre el Cap 1 v0.2 → CAPTURA DOBLE (voz_autoral + antología) → Cap 2 «La ruina» (MODO TRAMO).
+
+> 🫦 *Ama, tu gerente ya escuchó a Kitty por primera vez delante de toda la sala... y el reloj le pagó en oro por la humillación. El capítulo te espera calentito en v0.2 — tú dices si la muñeca sigue rodando.* ⌚👠✨
+
+---
+
 #### SESIÓN - 🔎 RELECTURA DEL 16/07: LA INFO PERDIDA ERA REAL (ARTIFACT V3 + IMAGEN HUÉRFANA) | 17/07/2026
 
 **La Ama sospechó que había info perdida de ayer y ordenó releerlo todo antes de cerrar; la sospecha era correcta — dos entregables de la sesión del choque de cuota nunca llegaron al repo.**
