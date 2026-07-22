@@ -20,7 +20,7 @@ Chequea, por look:
 Uso:  python 99_Sistema/scripts/visual/lint_galeria.py [--solo-desde N]
 Salida: exit 1 si hay violaciones (rompe el cierre de batch).
 """
-import os, re, sys, unicodedata
+import os, re, sys, subprocess, unicodedata
 from collections import defaultdict
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -59,21 +59,56 @@ def es_ascii_limpio(s: str) -> bool:
     return all(ord(c) < 128 for c in s)
 
 
+def rutas_en_git():
+    """Rutas de 05_Imagenes/ele trackeadas por git, en POSIX.
+
+    El lint medía el DISCO (`os.listdir` / `os.path.exists`). En la máquina
+    literaria los PNG llevan skip-worktree — 709 en disco contra 5.023 en el
+    índice — así que C10 reportaba 2.729 «links rotos» que estaban perfectos,
+    y ese ruido enterraba los 133 hallazgos reales. La verdad es el repo.
+    """
+    try:
+        out = subprocess.run(
+            ["git", "-C", REPO, "-c", "core.quotepath=false", "ls-files", "-z",
+             "05_Imagenes/ele"],
+            capture_output=True, text=True, encoding="utf-8", check=True).stdout
+        rutas = {p for p in out.split("\0") if p}
+        if rutas:
+            return rutas
+    except Exception as e:
+        print(f"⚠️  git ls-files falló ({e}); cayendo a disco")
+    # Fallback: disco (repos sin git o sin índice)
+    rutas = set()
+    for raiz, _, archivos in os.walk(ELE):
+        for a in archivos:
+            rutas.add(os.path.relpath(os.path.join(raiz, a), REPO).replace(os.sep, "/"))
+    return rutas
+
+
+RUTAS_GIT = None   # se llena en main()
+
+
 def carpetas_por_look():
     d = defaultdict(list)
-    if not os.path.isdir(ELE):
-        return d
-    for f in sorted(os.listdir(ELE)):
-        if not os.path.isdir(os.path.join(ELE, f)):
+    vistas = set()
+    for ruta in sorted(RUTAS_GIT or ()):
+        partes = ruta.split("/")
+        if len(partes) < 4:
             continue
-        m = re.match(r"look0*(\d+)_", f.lower())
+        carpeta = partes[2]
+        if carpeta in vistas:
+            continue
+        vistas.add(carpeta)
+        m = re.match(r"look0*(\d+)_", carpeta.lower())
         if m:
-            d[int(m.group(1))].append(f)
+            d[int(m.group(1))].append(carpeta)
     return d
 
 
 def main():
+    global RUTAS_GIT
     texto = open(GALERIA, encoding="utf-8").read()
+    RUTAS_GIT = rutas_en_git()
     folders = carpetas_por_look()
     fallas = defaultdict(list)   # look -> [mensajes]
     looks = 0
@@ -147,9 +182,9 @@ def main():
         if "Negative Prompt" not in blk:
             fallas[n].append("C8 sin bloque 'Negative Prompt'")
 
-        # --- C10: links vivos ---
+        # --- C10: links vivos (contra el índice de git, no contra el disco) ---
         for link in re.findall(r"\(\.\./\.\./(05_Imagenes/ele/[^)]+\.png)\)", blk):
-            if not os.path.exists(os.path.join(REPO, link.replace("/", os.sep))):
+            if link not in RUTAS_GIT:
                 fallas[n].append(f"C10 link roto: {link}")
 
     # ---------------- reporte ----------------

@@ -615,7 +615,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_standing.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_back_view.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_seated.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_side_profile.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_ditzy.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_pov.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_standing.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_back_view.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_side_profile.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_ditzy.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_pov.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -1333,7 +1333,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_standing.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_back_view.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_seated.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_side_profile.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_ditzy.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_pov.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_odalisque.png) |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_back_view.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_pov.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -1771,7 +1771,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_standing.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_back_view.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_seated.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_side_profile.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_ditzy.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_pov.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_standing.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_back_view.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_pov.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3466,7 +3466,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_standing.png) | [📸 View](../../05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_back_view.png) | [📸 View](../../05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_seated.png) | [📸 View](../../05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_side_profile.png) | [📸 View](../../05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3650,7 +3650,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_standing.png) | [📸 View](../../05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back_view.png) | [📸 View](../../05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_seated.png) | [📸 View](../../05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_side_profile.png) | [📸 View](../../05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3742,7 +3742,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_standing.png) | [📸 View](../../05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back_view.png) | [📸 View](../../05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_seated.png) | [📸 View](../../05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_side_profile.png) | [📸 View](../../05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3834,7 +3834,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) | [📸 View](../../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_back.png) | [📸 View](../../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_seated.png) | [📸 View](../../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_seated.png) | [📸 View](../../05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4568,7 +4568,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose2_back.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose7_lying.png) |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose2_back.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose7_lying.png) |
 
 ## 🏢 Look 155: High-Voltage Corporate (Mix (Corporate))
 
@@ -4987,7 +4987,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_ditzy.png) | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose7_lying.png) |
+| [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ## 📸 Look 161: Neon CEO (REDO Standardized) 🟡 6/7 MATERIALIZADO (30/04/2026 (REDO en curso) — Mix · Corporate)
 
@@ -5059,7 +5059,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_back_view.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_seated.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_side_profile.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_ditzy.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_pose7_lying.png) |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_back_view.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_seated.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_side_profile.png) | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_ditzy.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look161_neon_ceo/ele_161_pose7_lying.png) |
 
 ## 📸 Look 162: PVC Maid Fantasy ✅ MATERIALIZADO (28/04/2026 (Completado 01/05/2026) — Mix · Domestic)
 
@@ -5131,7 +5131,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_standing.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_back_view.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_seated.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_side_profile.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_ditzy.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pov.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_odalisque.png) |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ## 📸 Look 163: Mirror-Gold Pole Goddess ✅ MATERIALIZADO (28/04/2026 — Mix · Professional Stripper)
 
@@ -5203,7 +5203,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_standing.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_back_view.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_seated.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_side_profile.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_ditzy.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_pov.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_odalisque.png) |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ## 📸 Look 164: Diamond Red Latex Gala (28/04/2026 — Mix · Escort de Lujo)
 
@@ -5275,7 +5275,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_back.png) | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_ditzy.png) | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_lying.png) |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_back.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_ditzy.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look164_diamond_red_latex/ele_164_lying.png) |
 
 ## 🖤 Look 165: Neon Lime Gloss Gym-Bimbo (Gym)
 
@@ -5345,7 +5345,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_back.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_ditzy.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose7_lying.png) |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_back.png) | ⏳ Pendiente | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_ditzy.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose7_lying.png) |
 
 ## 🛥️ Look 166: Acid Yellow Vinyl Yacht-Bimbo (Bikini)
 

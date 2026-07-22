@@ -28734,7 +28734,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_standing.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_back_view.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_seated.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_side_profile.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_ditzy.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_pov.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_odalisque.png) |
+| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_back_view.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_seated.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_pov.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -28941,7 +28941,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_standing.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_back_view.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_seated.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_side_profile.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_ditzy.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_pov.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_odalisque.png) |
+| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
