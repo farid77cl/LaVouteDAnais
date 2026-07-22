@@ -84,7 +84,7 @@ Mood: the inversion complete enough to be visible in public, ownership changing 
 ```
 Book cover, portrait vertical (2:3 ratio). Erotic literary novel cover, stage lighting, gold and dark. Single dramatic key light from above, everything else in shadow.
 
-FIGURE: A glamorous woman stands backstage in a narrow corridor in front of a dressing room door. On the door: a small black nameplate reading DANIELA / PRIMERA BAILARINA in white letters. She wears a gold lamé hot pants and a gold triangle top that ties at the neck — the fabric liquid and mirror-bright, catching every angle of light. On her feet: silver platform boots reaching mid-thigh, 15cm platforms, the height impossible and absolute. She faces the nameplate — one hand raised, fingers almost touching the letters, not quite. Her back is to camera, profile barely visible: the line of her jaw, a pierced pinna, a long blonde wave. The hot pants end where her lower curve begins, leaving the bottom edge of her glute exposed.
+FIGURE: A glamorous woman stands backstage in a narrow corridor in front of a dressing room door. On the door: a small black nameplate reading DANIELA / PRIMERA BAILARINA in white letters. She wears gold lamé shorts with a full boy-short cut and a gold halter top that ties at the neck and covers the chest completely — the fabric liquid and mirror-bright, catching every angle of light. On her feet: silver platform boots reaching mid-thigh, 15cm platforms, the height impossible and absolute. She faces the nameplate — one hand raised, fingers almost touching the letters, not quite. Her back is to camera, profile barely visible: the line of her jaw, a pierced pinna, a long blonde wave. The shorts cover her fully; the shape is everything, the skin is nothing.
 
 TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold, legible at thumbnail size: "La Piel que Diseñé". A thin gold accent rule immediately below. Smaller italic: "Capítulo 3 — El cuerpo que sabe". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
@@ -171,4 +171,124 @@ STRICTLY: both figures fully clothed. No nudity, no exposed nipples, no exposed 
 
 **VARIANTE SIN TEXTO** — reemplazar el bloque TYPOGRAPHY por:
 `No text, no lettering, no title, no watermark anywhere in the image. Keep the central floor area clean and dark for typography to be added later.`
+
+---
+
+## 🎞️ BANNER — Capítulo 2 «El Postre» (1280 × 720 · generar en 16:9)
+
+> Escena elegida: **el salón**. El cierre del capítulo (de rodillas frente a la entrepierna de Daniela) es impublicable en imagen — el salón dice lo mismo sin romper nada: la mantención que él pagaba, ahora aplicada sobre él, mientras el que la pagaba mira el teléfono.
+
+```
+Wide cinematic banner, horizontal 16:9, letterbox composition. Erotic literary chapter header. Warm salon lighting, clinical glamour, a long wall of mirrors running the full width of the frame. Muted amber and pale gold, chrome and glass, everything reflective.
+
+CENTER-LEFT: A glamorous woman sits in a black leather salon chair, a black cape closed around her shoulders and body so only her head, throat and hands emerge. Blonde hair sectioned in foils. One eye is finished — sharp cat-eye liner, dramatic lashes; the other is still bare. The contrast between the two halves of her face is the point. Her hands rest on the armrests, palms up, fingers still, long pearl-nude nails freshly done. Her expression is not vanity and not fear: it is a man sitting very still inside a ritual he used to pay for.
+
+STYLIST: a woman in black works behind the chair with professional indifference, hands in the blonde hair, not looking at the client's face.
+
+RIGHT THIRD, IN THE MIRROR: reflected in the long mirror behind her, a tall man in a fitted dark suit sits in the waiting area, one leg crossed over the other, phone in hand, thumb scrolling, not looking up. He is entirely at ease. His attention is the thing being withheld.
+
+FOREGROUND, LEFT EDGE (sharp, small): a glass tray with a nail file, a bottle of pale polish, and a small sealed sterile piercing needle packet.
+
+TYPOGRAPHY (rendered in image, lower center over the dark floor): elegant deep-gold serif, small and refined: "Capítulo 2 — El Postre". A thin warm-gold rule beneath it. Bottom right corner, tiny small-caps warm gold: "LA VOÛTE D'ANAÏS".
+
+COMPOSITION NOTE: keep both figures and the typography inside the central horizontal band; the top and bottom 20% must be empty ceiling and floor so the frame can be cropped to a 3:1 banner.
+
+Photo-realistic, cinematic, warm editorial color grade, 8k.
+
+STRICTLY: fully clothed, salon cape closed over the body. No nudity, no exposed nipples, no exposed buttocks, no visible genitals, no sexual act. Tension and inversion of power only.
+```
+
+**VARIANTE SIN TEXTO** — `No text, no lettering, no title, no watermark anywhere in the image. Keep the lower center clean for typography to be added later.`
+
+---
+
+## 🎞️ BANNER — Capítulo 3 «El cuerpo que sabe» (1280 × 720 · generar en 16:9)
+
+> Escena elegida: **el club de día, con el VIP arriba**. El mecanismo del capítulo es la **indiferencia** — ella sudando en el pole mientras los dos hombres beben arriba sin bajar la vista. Es horizontal por naturaleza y no necesita un gramo de piel para doler.
+
+```
+Wide cinematic banner, horizontal 16:9, letterbox composition. Erotic literary chapter header. Empty strip club during daytime rehearsal — house lights half up, no audience, dust floating in a single hard beam. Deep reds and blacks, cold daylight leaking from a service door, one warm spotlight on the floor.
+
+LOWER LEFT (the floor): A glamorous woman is mid-movement on a polished chrome pole, one hand high on the metal, body extended, weight held, back arched — an athletic, controlled, professional line, not a pose for the camera. She wears high-waisted glossy shorts with a full cut and an athletic bikini-style top that covers the chest completely; skin-toned tights; extreme 7-inch clear platform stripper heels. Blonde hair swinging. Her face is turned up and away — she is concentrating, and she is astonished at what her own body knows how to do.
+
+LOWER RIGHT (the floor): a veteran dancer, mid-forties, stands watching with her arms crossed, chin lifted, entirely professional — a teacher, not a spectator.
+
+UPPER RIGHT (the VIP mezzanine, elevated, behind glass): two men in suits sit at a low table with whisky glasses and cigars, mid-conversation, laughing at something between them. Neither is looking down at the floor. One is younger and slighter in build; the other is large, heavy-shouldered, calm — a fountain pen clipped inside his jacket catching one point of light. Their indifference is the subject of the image.
+
+TYPOGRAPHY (rendered in image, center of the frame over the dark empty floor between the two levels): elegant deep-gold serif, small: "Capítulo 3 — El cuerpo que sabe". A thin warm-gold rule beneath. Bottom right corner, tiny small-caps warm gold: "LA VOÛTE D'ANAÏS".
+
+COMPOSITION NOTE: keep the dancer, the mezzanine and the typography inside the central horizontal band; leave the top and bottom 20% as empty ceiling rig and floor for a 3:1 crop.
+
+Photo-realistic, cinematic, high contrast, moody club color grade, 8k.
+
+STRICTLY: fully clothed, shorts and top covering completely. No nudity, no exposed nipples, no exposed buttocks, no visible genitals, no sexual act, no contact between figures. Athletic performance and cold indifference only.
+```
+
+**VARIANTE SIN TEXTO** — `No text, no lettering, no title, no watermark anywhere in the image. Keep the central floor area clean and dark for typography to be added later.`
+
+---
+
+## 🎞️ BANNER — Capítulo 4 «La primera bailarina» (1280 × 720 · generar en 16:9)
+
+> Escena elegida: **el baile ante el público**, desde el fondo de la sala. El clímax es el privado, pero lo que se puede *mostrar* es el momento en que goza ser mirada por todos. Las siluetas del público hacen el trabajo; ella queda lejos, vestida y absoluta.
+
+```
+Wide cinematic banner, horizontal 16:9, letterbox composition. Erotic literary chapter header. Night. A packed strip club seen from the very back of the room, over the heads of the audience. Deep black foreground, a single hot column of light on the stage in the far center. Reds, golds, smoke in the beam.
+
+FOREGROUND (bottom third, dark, out of focus): the backs of heads and shoulders — an anonymous crowd in silhouette, glasses raised, no faces readable. They fill the width of the frame.
+
+FAR CENTER (the stage, small but the brightest thing in the image): A glamorous woman stands in the spotlight at the pole, one arm wrapped around the chrome, her head tipped back, chin high, eyes closed, mouth open in something that is unmistakably enjoyment. She wears a liquid-gold high-cut leotard-style costume that covers her fully, and towering clear platform heels. Blonde hair falling back. She is not performing at anyone in particular — she is being looked at by everyone, and she likes it.
+
+MID RIGHT, RAISED: a private booth in shadow behind smoked glass, a single large male silhouette seated, motionless, watching only her. A fountain pen and a folded document rest on the low table in front of him, catching one spark of light.
+
+TYPOGRAPHY (rendered in image, in the dark band between the crowd and the stage): elegant deep-gold serif, small: "Capítulo 4 — La primera bailarina". A thin warm-gold rule beneath. Bottom right corner, tiny small-caps warm gold: "LA VOÛTE D'ANAÏS".
+
+COMPOSITION NOTE: keep the stage, the booth and the typography inside the central horizontal band; the top 20% is empty lighting rig and the bottom 20% is anonymous dark crowd, both croppable to 3:1.
+
+Photo-realistic, cinematic, high contrast stage lighting, 8k.
+
+STRICTLY: fully clothed, the costume covers chest, hips and buttocks completely. No nudity, no exposed nipples, no exposed buttocks, no visible genitals, no sexual act. Distance, light and the crowd do the work.
+```
+
+**VARIANTE SIN TEXTO** — `No text, no lettering, no title, no watermark anywhere in the image. Keep the dark band between crowd and stage clean for typography to be added later.`
+
+---
+---
+
+# 🏷️ TAGS PARA WATTPAD
+
+> ⚠️ **Los tags de arriba (por capítulo, con `#` y tildes) son para Tumblr/RRSS.** En Wattpad los tags son **de la historia, no del capítulo**: máximo **25**, y **los puntos, guiones y espacios rompen el tag**. Esta es la lista real para pegar.
+
+**25/25 — «La Piel que Diseñé»** (copiar de a uno):
+
+```
+bodyswap
+cambiodecuerpo
+tgtf
+genderswap
+mtf
+transformacion
+transformacionforzada
+femdom
+dominacion
+sumision
+bimbo
+bimbofication
+humillacion
+venganza
+erotica
+eroticaadulta
+maduro
+identidad
+bodyhorror
+stripclub
+bailarina
+primerapersona
+chile
+lavoutedanais
+anaisbelland
+```
+
+**Por qué esa mezcla:** el nicho de body swap / TG en Wattpad busca en **inglés** (`bodyswap`, `tgtf`, `genderswap`, `bimbofication`) aunque lea en español — dejar solo tags en castellano nos deja fuera de la mitad del tráfico del nicho. Los dos últimos son de marca: no traen lectores nuevos, amarran el catálogo entre sí.
+
 

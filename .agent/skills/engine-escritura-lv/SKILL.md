@@ -278,6 +278,26 @@ Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero sa
 - **Ubicaciones:** el MD completo (con cabecera) vive en la raíz del relato; el HTML body-only en `_publicacion/`; los work files en `_proceso/`.
 - **Delta trance:** en un trance, además, las **anclas en MAYÚSCULAS se conservan** tal cual y las **didascalias entre paréntesis van en `<em>`** (ver `engine-trance-lv` SKILL §CIERRE).
 
+### 6. 📕 KIT WATTPAD (Ama 22/07/2026 — obligatorio al finalizar un relato)
+
+> *"cuando se finalice un relato debes incluir estos prompts, y los tags para wattpad"*
+
+Un relato **no está cerrado** hasta que tiene, en su carpeta de `02_Finalizadas/[relato]/`, **dos archivos**:
+
+| Archivo | Contenido | Dueño de |
+|---|---|---|
+| `prompts_portada.md` | Prompt de **portada** (512×800, generar en 3:4) + **un banner por capítulo** (1280×720, generar en 16:9), cada uno con su **VARIANTE SIN TEXTO** | los prompts de imagen |
+| `kit_wattpad.md` | Metadata (categoría, rating, copyright), **descripción ≤2.000 car.**, **25 tags**, nota de autora, tabla de partes, calendario de programación, checklist y registro de publicación | lo que se pega en Wattpad |
+
+**Plantilla:** `07_Recursos/plantilla_kit_wattpad.md` · **Reglas verificadas:** `07_Recursos/guia_publicacion_wattpad.md`
+
+**Reglas duras que gobiernan estos prompts (Wattpad borra la imagen sin aviso):**
+- ⛔ **Prohibida la exposición completa de genitales, pechos y glúteos**, y toda representación de acto sexual. Cerrar SIEMPRE cada prompt con la línea `STRICTLY: fully clothed… no nudity, no exposed nipples, no exposed buttocks, no visible genitals, no sexual act.` Esto **deroga el canon visual de Ele** para portadas: la lente fetish se expresa en material, silueta y luz, nunca en piel.
+- **La escena del banner se elige por su forma, no por su calor:** la que sea horizontal por naturaleza (dos figuras separadas por el ancho de una habitación, un escenario visto desde el fondo de la sala). La escena más caliente del capítulo casi nunca es publicable en imagen — y casi nunca es la que mejor compone.
+- **Composición croplable:** figuras y tipografía dentro de la banda central; 20% superior e inferior vacíos para poder recortar a 3:1.
+- **Los acentos se rompen** (`Diseñé`, `ANAÏS`, `Capítulo`): por eso cada prompt lleva variante sin texto, para componer la tipografía después.
+- **Tags:** máx **25**, sin puntos/guiones/espacios, **por historia y no por capítulo** (los tags con `#` del `prompts_portada.md` son de Tumblr/RRSS, no sirven acá). Mezclar español + inglés: el nicho TG/bodyswap busca en inglés aunque lea en español.
+
 ---
 
 ## 🚦 Reglas de Oro del Orquestador (Nivel 4 · v4.8)
@@ -298,6 +318,7 @@ Si esta historia despertó algo en ti — [el deseo X, el miedo Y] — quiero sa
 13. **🔥 MARCO ERÓTICO EN TODO BRIEFING (Ama 22/07/2026 — regla dura):** cada invocación del Escritor —**cada tramo, sin excepción**— abre declarando *"ESTO ES UN RELATO ERÓTICO (+18); este tramo tiene que CALENTAR"*, con temperatura objetivo y subrayables mínimos. **Prohibido framear un tramo como "de transición", "sin calor", "solo narrativo" o "fuego frío":** el Escritor lo lee como permiso para escribir thriller. Nació de un error propio (18/07: nunca le dije que era erótico y el capítulo salió frío) y la Ama sigue teniendo que recordarlo a mano — *"es un relato erótico y estás evitando decir verga"*. **Si ella tiene que acordármelo, falló el briefing, no el Escritor.**
 14. **🔁 MOTIVOS PERMANENTES ≠ EVENTOS (Ama 22/07/2026):** lo que `investigacion.md §5` declara permanente va **en cada escena**, no se cumple una vez y se da por hecho. Es el reclamo más repetido de la Ama en seis relatos distintos (*"siempre y en todo momento"*, *"debe estar presente en todo el relato"*, *"que lo persiga todo el cap 2 y 3"*). El Validador lo mide **por escena**, no por capítulo.
 15. **🐢 LA RENDICIÓN SE GANA (Ama 22/07/2026):** `investigacion.md §6` fija cuántas veces resiste el personaje antes de ceder y **en qué punto todavía NO puede haber cedido**. Rendirse antes de esa marca es un fallo narrativo, no una elección de ritmo (*"debe haber resistencia y no rendirse tan pronto"*, *"cómo que salta de inmediato"*).
+16. **📕 UN RELATO NO ESTÁ CERRADO SIN SU KIT WATTPAD (Ama 22/07/2026):** al finalizar un relato, la carpeta de `02_Finalizadas/[relato]/` debe tener **dos archivos**: `prompts_portada.md` (portada + **un banner por capítulo**, cada uno con variante sin texto) y `kit_wattpad.md` (metadata + descripción ≤2.000 car. + **25 tags** + nota de autora + tabla de partes + calendario + checklist). Ver §FASE PUBLICACIÓN paso 6 y `07_Recursos/plantilla_kit_wattpad.md`. **La regla de imagen de Wattpad deroga el canon visual de Ele en portadas** — cero piel prohibida, cero acto sexual, y cada prompt cierra en `STRICTLY:`. Al generarlo, **auditar también los prompts y títulos viejos del relato**: los prompts pre-22/07 pueden pedir piel que hace borrar la imagen, y un título de capítulo aparece en listados públicos donde el rating Mature no protege.
 
 ---
 
