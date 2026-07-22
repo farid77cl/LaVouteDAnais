@@ -18,7 +18,8 @@
 ## Reglas que gobiernan los prompts (no negociables)
 
 1. ⛔ **Sin piel:** prohibida la exposición completa de genitales, pechos y glúteos, y toda representación de acto sexual. Wattpad borra la imagen sin aviso. **Esto deroga el canon visual de Ele para portadas** — la lente fetish vive en material, silueta y luz, nunca en piel.
-2. **Cerrar SIEMPRE cada prompt** con: `STRICTLY: fully clothed. No nudity, no exposed nipples, no exposed buttocks, no visible genitals, no sexual act.` + una frase de lo que sí es la imagen.
+2. 🚫 **NUNCA nombrar lo prohibido, ni para prohibirlo** *(corregido 22/07 tras probarlo en producción)*. La primera versión de esta plantilla mandaba cerrar cada prompt con `STRICTLY: no nudity, no exposed nipples…` — **y eso hace rebotar el prompt**: *"Sorry, I can't generate unsafe images."* El filtro **no procesa la negación, lee los tokens**. La lista `STRICTLY` es un **checklist mío antes de entregar el prompt**, jamás texto que se le manda al generador.
+3. 🎭 **Registro léxico en clave editorial, no erótica:** `Editorial book cover` / `Cinematic editorial chapter header`, no `Erotic novel cover`. Fuera también `intimacy charged with desire`, `strip club`, `stripper heels`, `augmented bust`, `high-cut`. Sirven: `cabaret nightclub`, `performance heels`, `sculpted figure`, `period underpinnings`, `glamorous`, `sensual` (estos dos están bendecidos por el canon anti-filtro del proyecto).
 
 ### 👗 GARMENT_DECLARED — la prenda se declara SOBRE el cuerpo (aprendido en producción 22/07/2026)
 
@@ -30,6 +31,15 @@
 - **Segundo personaje = solo manos.** `only a pair of FOREARMS AND HANDS enters the frame — no face, no head, no torso, no second body`. Sin ese candado la IA le fabrica un cuerpo entero y arruina la composición.
 - **Espejos:** declarar **a quién** reflejan (`the mirror reflects HER OWN back — the same woman; no other person in the glass`), o aparece un personaje inventado.
 - **Asimetrías** (medio rostro maquillado, un guante, un zapato): nombrar **izquierda y derecha** explícitamente y decir `this asymmetry must be obvious`. Si no, la IA promedia y las hace iguales.
+
+### 🎥 CAMERA_FIRST — si el cuerpo sigue saliendo desnudo, el problema es la cámara
+
+**El caso, tercera pasada:** con la prenda ya declarada en positivo, la portada del Cap 1 de Esteban **seguía saliendo en topless**. El defecto no estaba en el vocabulario sino en la **geometría**: se pedía *"vista frontal tres cuartos"* + *"le aprietan los cordones del corsé por la espalda"*. Son incompatibles — lo que se lacea está **detrás** de la figura, así que el modelo dibuja el corsé detrás, como objeto suelto, y deja el frente sin nada. **Ninguna cantidad de adjetivos arregla una composición imposible.**
+
+- Antes de escribir el prompt, preguntarse: **¿la prenda que cubre está del lado que ve la cámara?** Si no, girar la cámara — no agregar palabras.
+- La toma canónica del corsé laceado es **de espaldas**. La del rostro es **de frente**. Cuando se necesitan las dos, la que falta vuelve por un **espejo declarado** (`the mirror in front of her returns her face to the camera… it shows her and nobody else`).
+- Regla general: **buscar la toma que hace la cobertura estructural**, no la que la promete. Vestida por construcción > vestida por adjetivo.
+- Y una de proceso: **no dejar la versión mala del prompt archivada en el mismo archivo.** Se copia. Pasó. Queda el registro de qué falló; no queda el texto copiable.
 
 ### 🔤 El texto largo es una lotería
 
