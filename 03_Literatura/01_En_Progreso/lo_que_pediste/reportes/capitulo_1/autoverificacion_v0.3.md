@@ -8,9 +8,9 @@ Escritor-Nivel4 · 2026-07-22
 | Archivo | `capitulo_1_el_deseo_v0.3.md` (PROSA PURA) |
 | Origen | **Reescritura desde cero.** La v0.2 quedó archivada en `borradores/capitulo_1/`; no se reutilizó ni una línea |
 | Modo | MODO TRAMO 5/5 (5 invocaciones, tramo 1 crea + tramos 2-5 `Edit`-append) |
-| Extensión | ~18.900 palabras · 998 líneas |
+| Extensión | **~16.400 palabras** · 997 líneas (corregido tras la validación: la cifra de 18.900 era una estimación del Escritor, no un conteo) |
 | Metadata visible al lector | **CERO.** Arranca en `# Capítulo 1: El deseo` y cierra en *"Y chasqueó los dedos."* |
-| Densidad léxica `verga` | **41 ocurrencias** (v0.2: 16 en 12.100 palabras ≈ 1/756 · v0.3 ≈ 1/460, y ≈1/280 dentro de las escenas sexuales) |
+| Densidad léxica `verga` | **43 ocurrencias** (v0.2: 16 en 12.100 palabras ≈ 1/756 · v0.3 ≈ 1/460, y ≈1/280 dentro de las escenas sexuales) |
 
 ### Mapa de tramos
 
@@ -67,7 +67,7 @@ Escritor-Nivel4 · 2026-07-22
 
 | # | Decisión | Cumplimiento |
 |---|----------|--------------|
-| 1 | **Español neutro** | Barrido automático final: 0 `weón/po/cachai/guata/al tiro/harto/regio/heavy` · 0 `polla/follar/tío/coche/piso(=depto)/vale` · 0 voceo. Correcciones aplicadas en vuelo: `coches`→`carros`, `lavaplatos`→`barra`, `estanque`→`pared`, `quiebres`→`quiebras`, `maquinilla`→`máquina`, `nevera`→`refrigerador`, `media pulgada`→`un centímetro`, `planillas`→`archivos`, `panza`(narración)→`vientre`, los 3 `departamento`→`casa/puerta`. **`verga` conservada y multiplicada ×41.** |
+| 1 | **Español neutro** | Barrido automático final: 0 `weón/po/cachai/guata/al tiro/harto/regio/heavy` · 0 `polla/follar/tío/coche/piso(=depto)/vale` · 0 voceo. Correcciones aplicadas en vuelo: `coches`→`carros`, `lavaplatos`→`barra`, `estanque`→`pared`, `quiebres`→`quiebras`, `maquinilla`→`máquina`, `nevera`→`refrigerador`, `media pulgada`→`un centímetro`, `planillas`→`archivos`, `panza`(narración)→`vientre`, los 3 `departamento`→`casa/puerta`. **`verga` conservada y multiplicada ×43.** |
 | 2 | **Ginny fresa mexicana** | Marcadores en cada intervención: `o sea`, `tipo`, `ay`, `neta`, `no manches`, `qué oso`, `padrísimo`, `bien` intensificador, `güey` (1 vez, dosificado), diminutivos. Inglés **salpicado, nunca frases enteras**: `like`, `oh my god`, `so rico/so rica`, `whatever`, `cute`, `bestie`, `literal`, `sorry not sorry`, `look at you`, `okay`. **Sube al tentar y al reírse** (T2 y T5 son los tramos con más inglés). 0 chilenismos en su boca. |
 | 3 | **El deseo se pide genérico** | Verificado arriba (P1). Ginny nunca queda legalista. |
 | 4 | **El limbo, prohibido escribirlo como mujer** | M3 auditado escena por escena (ver tabla). En el clímax mismo, mientras lo cogen: *"manos finas de dedos largos al final de unos antebrazos peludos y anchos… la barba raspando la lana, los hombros llenos, la espalda de hombre grande… y colgando entre sus piernas, dura, hinchada, goteando… su propia verga."* El mundo lo lee como *"hay algo"*, nunca como "parece mujer". |
@@ -157,5 +157,5 @@ Escritor-Nivel4 · 2026-07-22
 2. **Gonzalo no acaba en el T3, y es deliberado.** Si acababa, entraba el bajón post-orgásmico que el canon prohíbe (M1) y se le quitaba peso al *"acaba sin tocarse"* del Cap 3. En T3 queda duro y sin descargar; la descarga propia llega a las 2 AM (T4) y en el clímax (T5), y en las dos el hambre sube después.
 3. **Renata nunca ve al hombre.** Ginny lo deshace en la mitad del movimiento al oír la llave. Así se protege H9 (ella no sabe nada y no puede sospechar magia) y la humillación queda más sucia: lo que ve es a su marido solo en cuatro patas, con todo encima y nadie a quien culpar.
 4. **H5 y H6 (látex negro / verga negra) NO se forzaron en este capítulo.** Meterlos habría sido decorado sin ancla. El primer gesto de mando de Renata (H21) es de ropa de calle y sin utilería, que es más creíble para una mujer que está floreciendo sin saberlo.
-5. **Calibración léxica corregida respecto del T3:** en la segunda descarga la sustancia se nombra (`leche` ×2, `verga` ×13 en el tramo, `culo`, `coger`, `acabar`, `me lo cogieron` en su equivalente narrativo). Total del archivo: **`verga` ×41**.
-6. **Riesgo que dejo señalado:** el capítulo quedó en ~18.900 palabras. Es largo, y la Ama pidió que el largo se lo llevara el sexo — se lo lleva (T3 + T5 ≈ 8.200 palabras de escena sexual). Pero si al leerlo siente que el T4 (los tres días) le pesa, ese es el tramo comprimible sin tocar la curva: se pueden recortar ~600 palabras del lunes de oficina sin perder ningún hecho plantado.
+5. **Calibración léxica corregida respecto del T3:** en la segunda descarga la sustancia se nombra (`leche` ×2, `verga` ×13 en el tramo, `culo`, `coger`, `acabar`, `me lo cogieron` en su equivalente narrativo). Total del archivo: **`verga` ×43**.
+6. **Riesgo que dejo señalado:** el capítulo quedó en ~16.400 palabras. Es largo, y la Ama pidió que el largo se lo llevara el sexo — se lo lleva (T3 + T5 ≈ 8.200 palabras de escena sexual). Pero si al leerlo siente que el T4 (los tres días) le pesa, ese es el tramo comprimible sin tocar la curva: se pueden recortar ~600 palabras del lunes de oficina sin perder ningún hecho plantado.
