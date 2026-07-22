@@ -181,3 +181,191 @@ Al fondo del pasillo, detrás de la puerta cerrada del cuarto, Renata seguía du
 —No —dijo Gonzalo.
 
 Y se quedó en el marco de la puerta, con los hombros llenando la camisa y la boca llena de agua, escuchando cómo el hambre, allá abajo, empezaba tranquilamente a subir.
+
+Ginny no insistió.
+
+Ese fue el problema. No le rogó, no lo llamó, no volvió a darle palmaditas al sillón. Se acomodó el pelo fucsia sobre un hombro, se puso a mirarse las uñas contra la luz, y empezó a hablar sola, como quien cuenta un chisme que no le importa a nadie.
+
+—Es que la gente le tiene miedo a la verga por pura ignorancia —dijo—. O sea, todo el mundo cree que la primera vez va a ser, tipo, asqueroso. Y no. Neta que no. —Estiró una pierna, la miró, la volvió a cruzar—. Lo primero que te sorprende ni siquiera es el sabor, bestie. Es el peso.
+
+Gonzalo no se movió del marco de la puerta.
+
+—Pesa —siguió ella—. O sea, pesa de verdad. Se te acuesta encima de la lengua y te la hunde, así, para abajo, y tú tienes que sostenerla. Como una fruta que se cayó del árbol y alguien te la puso en la mano sin avisar. —Se rió con dos sílabas—. Y ahí te das cuenta de que no es una idea. Es una cosa. Está adentro de ti y pesa.
+
+La lengua de Gonzalo, sin que él la mandara, se levantó dentro de su propia boca. Apretó contra el paladar. Aguantó un peso que no estaba, midió un espacio, y bajó.
+
+Se le llenó la boca de agua otra vez. Tragó.
+
+—Y llega caliente —dijo Ginny, y bajó la voz un poquito, no para asustarlo sino para contarlo mejor—. Eso es lo padrísimo. Todo lo que te entra a la boca viene frío, ¿te fijaste? El agua, la cuchara, el tenedor, todo frío. Esto no. Esto llega más caliente que tu propia boca. Por eso sabes que está vivo, tontito. Porque te quema un poquito.
+
+—Cállate —dijo Gonzalo.
+
+—Ay, sí, perdón —dijo ella, y se calló exactamente cuatro segundos—. Y late.
+
+Gonzalo cerró los ojos.
+
+—Tum. Tum. —Ginny lo dijo despacio, marcándolo con la uña contra el respaldo del sillón—. Como un corazón chiquitito en la lengua. Más lento que el tuyo, o sea, siempre más lento, y tú te quedas quietecita sintiéndolo. Y cuando le falta poco, se apura. Así te enteras. No te lo tienen que decir, se lo sientes en la boca.
+
+*Se lo sientes en la boca.* Gonzalo escuchó la frase en femenino y no la corrigió, y no se dio cuenta de que no la había corregido hasta mucho después, cuando ya no importaba nada.
+
+El asco le llegó puntual, como un timbre en otra casa: sonó, dijo lo suyo, y no apagó ni un grado del calor que tenía abajo. Eso era lo que no le cabía en la cabeza. El asco estaba. El asco era de verdad, entero, de hombre de cuarenta y tres años con una mujer durmiendo a doce pasos. Y no servía para nada. Estaba puesto encima del hambre como una mano sobre una hornilla encendida: tapaba la vista, no el fuego.
+
+Se fue a la cocina.
+
+Abrió la llave, llenó un vaso, se lo tomó de un trago y se sirvió otro. Resolvió de memoria el flujo de caja del segundo semestre. Se recitó las placas de los tres últimos autos que había tenido. Se clavó las uñas nuevas —ovaladas, blandas, inútiles— en la palma hasta hacerse una media luna morada.
+
+El hambre no hizo nada dramático. No lo atacó. Solo subió un grado, tranquila, como el agua de una olla que alguien dejó al fuego más chico, y se quedó ahí esperando que él terminara de contar.
+
+Los tacones sonaron detrás de él. Dos golpes secos. Después el olor dulce, y debajo del dulce esa otra cosa.
+
+—Y la textura, o sea —dijo Ginny en su oreja—. Nadie te cuenta lo de la textura.
+
+Estaba sentada en la barra de la cocina, con las piernas cruzadas a diez centímetros de su brazo, y Gonzalo no la había oído subirse.
+
+—Una verga son dos capas, ¿va? —Se llevó dos dedos a la boca, los sacó despacio, y los miró brillar—. Por fuera es piel suavecita y se desliza, se corre para arriba y para abajo, como si tuviera de más. Y abajo hay algo durísimo que no se mueve nada. Nada, bestie. La piel resbala y lo duro se queda. —Se rió—. Y la puntita es distinta, es más lisa, más blandita, más resbalosa, y es la que te va a tocar el fondo del paladar.
+
+Gonzalo tenía el vaso en la mano y no se acordaba de para qué lo había llenado.
+
+—Y lo mejor es cuando se te pone dura adentro —dijo Ginny—. O sea, ya tienes la verga adentro de la boca y todavía se te hace más grande. Te empuja el paladar hacia arriba y tú tienes que abrir más. Literal te obliga a abrir más, y tú abres. —Aplaudió una vez, feliz—. ¡Ay! Es lo mejor, neta. Es como cuando una cosa crece adentro de ti y tú no puedes hacer nada más que dejarle lugar.
+
+La mandíbula de Gonzalo se abrió sola. Se le abrió tres dedos, en la cocina, sin nadie adelante, y la lengua se le acomodó abajo, plana, haciendo espacio.
+
+Se dio un manotazo en la mandíbula para cerrarla. Se le llenaron los ojos de agua del golpe.
+
+—Eres una alucinación —dijo—. Alguien me metió algo. Alguien me está grabando. Esto no está pasando y yo mañana me despierto.
+
+—Ay, sí, whatever —dijo Ginny, encantada—. Pero mira tu boca.
+
+Gonzalo se miró en el vidrio negro de la ventana de la cocina, y ahí estaba: el hombre de siempre, los hombros, la camisa, la barba que le raspaba la mano — y en medio de esa cara conocida, una boca que no le habían enseñado a reconocer. Más gruesa. Más blanda. Húmeda, abierta un dedo, brillante, respirando.
+
+—Y huele —dijo Ginny, bajito—. Eso es lo que más me gusta contarte. Ahí abajo, en donde nace, huele fuerte. No huele a nada limpio, cosita. A nada. Es un olor tibio, espeso, que se te mete en la nariz y ya no se te sale, y cuando tú acercas la cara, tipo, así de cerca —abrió las manos como sosteniendo algo, y arrimó la boca al aire entre las palmas, y cerró los ojos— se te llena la cabeza entera de eso y ya no puedes pensar en otra cosa. Y ahí es cuando abres.
+
+Abrió la boca contra el aire. La lengua le salió plana, quieta, esperando. Un hilo de saliva se le estiró desde el labio de abajo y se le quedó colgando del gloss, brillando.
+
+Gonzalo miró esa boca abierta y esperando, y su propia boca hizo lo mismo.
+
+No fue una decisión. Fue una copia. Como cuando alguien bosteza al frente y a uno se le abre la mandíbula sin pedir permiso: la boca de Gonzalo se abrió, se le llenó de saliva, y él sintió con una nitidez insoportable el hueco tibio que le quedaba adentro, el espacio exacto, la forma del espacio, el vacío con su medida.
+
+Y algo en él —no la cabeza; algo más abajo y más viejo— hizo la pregunta.
+
+—¿Y dónde... —dijo Gonzalo, y la voz le salió sin aire— dónde se supone que uno...?
+
+Ginny abrió los ojos enormes.
+
+No dijo nada. Solo lo miró, con una alegría redonda y limpia, esperando el resto de la frase.
+
+Gonzalo se oyó a sí mismo un segundo después. Se oyó preguntando. Se oyó preguntando *dónde*.
+
+—No —dijo—. No. No, no, no.
+
+Soltó el vaso en la barra, se dio la vuelta y caminó por el pasillo con el pecho a mil, y al pasar por la puerta cerrada del cuarto la miró de reojo —Renata, doce pasos, quince años, la vida entera detrás de esa puerta— y entró al baño y cerró y le puso el pestillo.
+
+Se sentó en la tapa del inodoro con la espalda contra la pared fría y las manos en las rodillas.
+
+Bien. Ya está. Una puerta. Un pestillo. Eso era todo lo que hacía falta: paredes, tiempo y aguante. Él era un tipo que aguantaba. Había aguantado dos quiebras, el divorcio de sus padres y catorce años de reuniones con gente más tonta que él. Se aguanta lo que sea si uno se queda quieto.
+
+Contó hasta cien. Contó hasta doscientos.
+
+Debajo de la puerta, en la línea de luz que se colaba desde el pasillo, apareció una sombra rosada. No golpeó. No habló. Se quedó ahí, moviéndose despacio de un lado al otro, y el aire del baño se puso dulce.
+
+Podía haber pasado por la puerta. Era un genio. Podía haber pasado por la pared si hubiera querido.
+
+No pasó.
+
+Gonzalo, para probarse que estaba bien, hizo lo que hacen los hombres para probarse que están bien: se abrió el pantalón y se agarró. Cerró los ojos y buscó lo de siempre, el archivo de años, la secretaria de la oficina de al lado, la mujer del gimnasio, Renata en el noventa y ocho.
+
+Nada. La tuvo en la mano, tibia y blanda, y no pasó absolutamente nada. Era como apretarse un brazo.
+
+Y entonces, sin que él lo llamara, le volvió a la boca el sabor —salado, a piel, con ese fondo espeso que no se parecía a nada limpio— y la garganta se le abrió sola, y la mano libre se le curvó en el aire alrededor de un grosor que no estaba ahí, y el calor de abajo se levantó como se levanta un perro cuando siente la llave en la cerradura.
+
+Se le llenó la boca. Se le llenaron los ojos. Se dobló sobre las rodillas, con la verga muerta en una mano y la otra mano cerrada alrededor de nada, y arriba, en la cabeza, todo seguía funcionando perfecto: sabía qué hora era, sabía cuánto valía la lámpara, sabía que su mujer dormía a doce pasos y sabía, con una claridad de contador, que lo que le estaba pasando en el cuerpo no tenía ni un solo punto de contacto con lo que él quería que le pasara.
+
+—La verga —dijo, en voz alta, en el baño, para escucharse decirlo y que sonara ridículo.
+
+No sonó ridículo. Sonó como cuando uno dice el nombre de la comida que está esperando.
+
+*Quiero una verga.*
+
+La frase se le armó sola adentro, entera, con sujeto y verbo, y Gonzalo la escuchó como se escucha a alguien hablando en el cuarto de al lado. No era suya. Se negó a firmarla. Se quedó ahí sentado negándose a firmarla con una terquedad de hombre que ha ganado discusiones toda la vida, y abajo, mientras él se negaba, el cuerpo seguía diciéndola igual, tranquilo, sin necesitar su permiso para nada.
+
+Al otro lado de la puerta, la voz de Ginny llegó tranquila, sin apuro, sin subir el tono.
+
+—Y cuando la verga se viene —dijo—, lo primero que sientes ni siquiera es el sabor, cosita. Es el calor.
+
+Gonzalo apretó los ojos.
+
+—Llega caliente y de golpe, contra el fondo, y tú lo sientes caliente antes de saber a qué sabe. Como medio segundo. Y en ese medio segundo ya te lo tragaste sin querer. —Se rió bajito—. Y después sí llega el sabor. Salado. Un poquito amargo. Raspa atrás, tipo cloro aguado, tipo clara de huevo cruda, y hay un no sé qué metálico que te queda en las muelas. Y debajo de todo eso, bien abajo, hay algo dulce que casi no se nota. Eso es lo que engancha, güey. Lo dulce que casi no se nota.
+
+Gonzalo tenía la frente contra la puerta y no se acordaba de haberse parado.
+
+—Y sale a chorros, ¿va? No es una vez. El primero es el que más pega, y el segundo te llega antes de que se te acabe el primero, y ahí es cuando te das cuenta de que se te está llenando la boca y de que la tienes que aguantar toda. —Una pausa chiquita, encantada—. Y es espeso al principio, así, y después se te empieza a aflojar solo. Como si se derritiera.
+
+La boca de Gonzalo estaba llena. No un poco. Llena, con la saliva juntándose bajo la lengua más rápido de lo que él podía tragarla, y le corría un hilo por la comisura, y los ojos le lloraban sin ninguna pena adentro.
+
+—No te estoy obligando a nada, cosita —dijo Ginny, del otro lado de la madera—. Neta que no. Yo nomás te cuento cómo es. Sorry not sorry. Ji, ji.
+
+Gonzalo miró su mano.
+
+Su mano nueva, de dedos largos y lisos, pegada a su brazo de siempre, estaba en el pestillo.
+
+No la había mandado. La miró llegar como quien mira desde arriba a otra persona: los dedos se acomodaron en el metal, hicieron pinza, y el pestillo corrió con un ruido chiquito y limpio.
+
+*Yo mando*, pensó Gonzalo. *Yo pedí esto.*
+
+La puerta se abrió.
+
+Ginny estaba ahí parada, con las manos juntas bajo el mentón y el aura encendida en un fucsia brillante, y no dijo *te lo dije*, ni *ya sabía*, ni nada de lo que hubiera dicho una persona.
+
+—¡Ay! —dijo—. Bueno. Ya que estamos.
+
+—No dije que sí —dijo Gonzalo.
+
+—Obvio que no, tontito. —Le tocó el pecho con una uña rosada, cariñosa—. Oye, y ahorita que te veo bien: ¿ya notaste lo de tu gargantita?
+
+Gonzalo no contestó.
+
+—Es que te quité la cosa esa de las arcadas —dijo Ginny, radiante, como quien confiesa que le compró un regalo caro—. O sea, la de ahogarse. Puaj. Bien fea, no sirve para nada. Un montón de gente no la tiene, ¿sabías? Como un tercio, literal, no manches. Así que ahora tú tampoco.
+
+Gonzalo se acordó del clóset. De estar doblado con la boca abierta esperando algo que no llegó nunca.
+
+—Pero te dejé todo lo demás, ¿eh? —siguió ella, muy orgullosa—. Porque lo demás es lo bonito. O sea, se te va a llenar la boca de agua igual, y se te van a llenar los ojos igual, y vas a tener que respirar por la nariz igual. Todo el teatrito completo. —Se le acercó a la oreja—. Vas a parecer que te estás ahogando, bestie, y por dentro vas a estar bien cómoda. Es lo más cute del mundo.
+
+—¿Qué más me hiciste? —dijo Gonzalo, y le costó separar los dientes.
+
+—Ay, un buen de cosas. —Ginny empezó a contar con los dedos y se equivocó al tercero—. La boquita, que ya la sentiste. Las manitas, que ahora sí saben agarrarla bien y sostenerla, porque las de antes eran, tipo, de albañil. Y el potito, que te lo dejé bien sensible y que se acomoda a lo que sea, o sea, a lo que sea, ¿me explico? —Se rió y le brillaron los ojos—. Y te dejé bien listita para recibirla rico, porque si te duele no es gracia, o sea, obvio.
+
+Gonzalo miró hacia el pasillo. Hacia la puerta cerrada del cuarto.
+
+—Mi mujer está durmiendo ahí.
+
+—Ay, sí, la dejé durmiendo bien profundito —dijo Ginny, y le hizo un gesto con la mano, como quien espanta una mosca chiquita—. No se despierta ni aunque le caiga el techo encima. Yo me encargo de eso, no te preocupes.
+
+El alivio le llegó a Gonzalo antes que cualquier otra cosa. Le llegó al pecho, tibio y entero, y le aflojó los hombros: *no se va a despertar*. Y medio segundo después le llegó lo otro, y lo otro era mucho peor, porque lo otro era saber que ya estaba calculando, que ya había pasado del *esto no está pasando* al *ella no se va a enterar*, y que ese paso lo había dado él solo, sin que nadie lo empujara.
+
+—Eso sí —dijo Ginny, distraída, mirándose una uña—. Un día se me va a olvidar. Ji, ji.
+
+—¿Qué?
+
+—Que un día se me va a olvidar dormirla —dijo, con toda naturalidad—. Se me olvidan las cosas, bestie. Ya te dije. —Le sonrió—. Pero hoy no.
+
+Y entonces se dio la vuelta hacia la sala, levantó la mano de uñas rosadas y chasqueó los dedos otra vez.
+
+El aire de la sala se abrió con un ruido sordo, como cuando se destapa algo, y en medio de la alfombra —en medio de la alfombra que Renata había elegido después de tres sábados de vueltas por el centro— había un hombre.
+
+Estaba desnudo. Era alto, más ancho de hombros que Gonzalo, con el pecho cubierto de vello oscuro y los brazos pesados de alguien que carga cosas. Las manos eran grandes, cuadradas, con los dedos gruesos. Los muslos, macizos. Todo en él era lo que Gonzalo había sido antes de esta noche y ya no era del todo.
+
+Y no tenía cara. Tenía una superficie lisa donde va la cara, sin ojos, sin boca, sin nada, y esa superficie lisa se giró hacia Gonzalo y se quedó ahí, mirándolo sin ojos, y Gonzalo supo con una certeza física que lo estaba mirando entero: la boca nueva, la mandíbula angosta, las manos, la línea. Que lo estaba tasando. Y que le gustaba lo que veía.
+
+Y la verga le colgaba entre las piernas, pesada, todavía blanda, gruesa, oscura, con las venas dibujadas debajo de la piel y la punta gruesa apuntando al piso.
+
+—Ay, no manches, ve nomás qué verga le puse —dijo Ginny, admirando su propio trabajo—. So rica.
+
+El olor le llegó a Gonzalo tres segundos después, y ese fue el final de todo.
+
+Porque no era la descripción de un olor. Era el olor de una verga de verdad, a cuatro metros, tibio, denso, salado, con ese fondo que no se parecía a nada limpio, cruzando la sala y metiéndosele por la nariz y por la boca abierta al mismo tiempo, y el cuerpo de Gonzalo lo reconoció como si lo hubiera estado esperando desde siempre. Se le llenó la boca de agua de golpe, tanta que tuvo que tragar dos veces. Se le llenaron los ojos. La garganta se le abrió y se quedó abierta. Atrás, abajo, algo se apretó y se soltó, se apretó y se soltó, más rápido que antes.
+
+El hombre sin cara abrió una mano grande. No lo llamó. No dijo nada. Solo la abrió, con la palma hacia arriba, y esperó.
+
+—Yo mando —dijo Gonzalo en voz alta, con la lengua pesada—. Yo pedí esto.
+
+Y las rodillas le tocaron el piso antes de que terminara la frase.
