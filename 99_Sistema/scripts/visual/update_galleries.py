@@ -38,6 +38,75 @@ def get_tracked_images(directory):
             return sorted([f for f in os.listdir(directory) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.webp'))])
         return []
 
+# ── Mapeo de poses (Ama 22/07/2026) ─────────────────────────────────────────
+# El mapeo viejo era `next(img for img in images if key in img.lower())`: buscaba
+# la pose como SUBCADENA suelta y, si no encontraba, un fallback rellenaba la
+# casilla vacía con cualquier imagen no mapeada. Resultado medido: 116 carpetas
+# mostrando una imagen en la casilla de OTRA pose — `ele_200_back.png` no contiene
+# "back_view", así que la Espalda quedaba vacía y se rellenaba con una ajena.
+# Ahora: alias por pose + match por TOKEN (no subcadena) + la casilla sin imagen
+# muestra ⏳. Una imagen jamás ocupa la casilla de otra pose.
+POSE_ALIASES = {
+    'standing':     ('standing', 'frontal'),
+    'back_view':    ('back_view', 'backview', 'back'),
+    'seated':       ('seated', 'sitting'),
+    'side_profile': ('side_profile', 'sideprofile', 'profile', 'side'),
+    'ditzy':        ('ditzy',),
+    'pov':          ('pov',),
+    'odalisque':    ('odalisque', 'lying'),
+}
+
+_POSE_PREFIX_RE = re.compile(r'^(?:ele|helena)_\d+_', re.I)
+
+def pose_de_imagen(img_name):
+    """(pose_canónica, rango, sufijo) de un nombre de archivo, o (None, 99, '').
+
+    `rango` ordena la calidad del match, de mejor a peor:
+      0..n  el nombre EMPIEZA con el alias (tras `ele_NNN_`), en el orden en que
+            está declarado en POSE_ALIASES — así `standing` le gana a `frontal`
+            y `back_view` a `back` para la misma pose.
+      10+   el alias aparece como token suelto en cualquier posición: cubre los
+            nombres heredados tipo `look87_01_standing_1774187079234.png`.
+    Gana siempre el alias más largo, para que `side`/`profile` no le roben la
+    imagen a `side_profile`.
+    """
+    resto = _POSE_PREFIX_RE.sub('', os.path.splitext(img_name)[0].lower())
+    acolchado = '_' + resto + '_'
+    mejor = None  # (canon, rango, largo_alias, sufijo)
+    for canon, aliases in POSE_ALIASES.items():
+        for orden, alias in enumerate(aliases):
+            if resto == alias or resto.startswith(alias + '_'):
+                cand = (canon, orden, len(alias), resto[len(alias):])
+            elif ('_' + alias + '_') in acolchado:
+                cand = (canon, 10 + orden, len(alias), '')
+            else:
+                continue
+            # más específico primero; a igual especificidad, mejor rango
+            if mejor is None or (cand[2], -cand[1]) > (mejor[2], -mejor[1]):
+                mejor = cand
+    return (mejor[0], mejor[1], mejor[3]) if mejor else (None, 99, '')
+
+def map_poses(images, canonical_keys):
+    """Una imagen por pose. Gana el alias canónico y el nombre limpio sobre las
+    variantes (`_1`, `_v1`, `_fixed`). Devuelve (pose_map, sobrantes)."""
+    candidatas = {k: [] for k in canonical_keys}
+    sobrantes = []
+    for img in images:
+        pose, rango, sufijo = pose_de_imagen(img)
+        if pose in candidatas:
+            candidatas[pose].append((rango, len(sufijo), sufijo, img))
+        else:
+            sobrantes.append(img)
+    pose_map = {}
+    for k in canonical_keys:
+        if candidatas[k]:
+            candidatas[k].sort()          # rango, luego sufijo más corto, luego nombre
+            pose_map[k] = candidatas[k][0][3]
+            sobrantes.extend(t[3] for t in candidatas[k][1:])
+        else:
+            pose_map[k] = None
+    return pose_map, sorted(sobrantes)
+
 def get_tracked_directories(base_dir):
     """Lista carpetas existentes en Git y en el disco local bajo base_dir."""
     directories = set()
@@ -252,22 +321,14 @@ def generate_master_outfit_gallery(base_path, repo_root):
         content.append(f"## 👠 {display_title}\n\n")
 
         # Mapear cada pose canónica a la imagen correspondiente
-        pose_map = {}
-        for key, _ in CANONICAL_POSES:
-            pose_map[key] = next((img for img in images if key in img.lower()), None)
-
-        # Imágenes no mapeadas (fallback)
-        mapped = set(v for v in pose_map.values() if v)
-        remaining = [img for img in images if img not in mapped]
+        pose_map, sobrantes = map_poses(images, [k for k, _ in CANONICAL_POSES])
 
         def get_md(img_name, folder_path=folder_path):
+            # Sin fallback: una casilla vacía se muestra vacía. Rellenarla con una
+            # imagen de otra pose es mentirle a la galería (ver POSE_ALIASES).
             if img_name:
                 url = get_remote_url(os.path.join(folder_path, img_name), repo_root)
                 return f"![{img_name}]({url})"
-            if remaining:
-                img = remaining.pop(0)
-                url = get_remote_url(os.path.join(folder_path, img), repo_root)
-                return f"![{img}]({url})"
             return "⏳"
 
         # Detectar si el look tiene 7 poses o solo 5
@@ -277,7 +338,16 @@ def generate_master_outfit_gallery(base_path, repo_root):
         headers = ' | '.join(label for _, label in active_poses)
         separators = ' | '.join([':---:'] * len(active_poses))
         cells = ' | '.join(get_md(pose_map.get(key)) for key, _ in active_poses)
-        content.append(f"| {headers} |\n| {separators} |\n| {cells} |\n\n---\n\n")
+        content.append(f"| {headers} |\n| {separators} |\n| {cells} |\n\n")
+
+        # Tomas extra: variantes de una pose ya ocupada, o archivos sin pose
+        # reconocible. Se listan en vez de colarse en una casilla ajena.
+        if sobrantes:
+            enlaces = ', '.join(
+                f"[{img}]({get_remote_url(os.path.join(folder_path, img), repo_root)})"
+                for img in sobrantes)
+            content.append(f"<sub>📎 Tomas extra ({len(sobrantes)}): {enlaces}</sub>\n\n")
+        content.append("---\n\n")
 
     content.append("*Galería maestra de Ele.* 🦇")  # determinista: sin fecha volátil (no pelear con el bot)
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)

@@ -104,7 +104,7 @@
 - **Accesorios:** Velo catedral largo de tul iridiscente sheer prendido a una tiara escultórica de cromo. Guantes opera de cream satin con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo la malla iridiscente.
 - **Ambientación:** Suite nupcial de penthouse de lujo, luz suave difusa, pétalos blancos, mármol claro, ventanal con cielo del amanecer.
 
-### 📸 Imágenes (2/7 — Completo)
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
 <summary>📸 7 poses planificadas</summary>
@@ -2529,7 +2529,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Vitacura penthouse open-plan kitchen with white marble island, gold faucet hardware, glass wine rack with bottles, panoramic window overlooking cordillera, white leather bar stools, contemporary 2026 design (Real Housewives Beverly Hills morning aesthetic)
 
-### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -2679,7 +2679,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Modern gym interior with floor-to-ceiling mirror wall, chrome cable machines visible, dumbbell stand with color-coded plates, LED strip lighting in cool white, glossy black vinyl floor (Instagram gym selfie aesthetic)
 
-### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -2754,7 +2754,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 .
 - **Ambientación:** Pilates studio exit with modern minimalist lobby, white marble floor, glass doors, beige leather banquette, café visible through glass with MacBook on counter and matcha latte, modern Vitacura urban aesthetic (Athleisure influencer OOTD)
 
-### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -3197,7 +3197,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Country club tennis court with green clay surface, white net visible behind, palm trees in background, golden afternoon light (luxury sports glam aesthetic)
 
-### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -3416,7 +3416,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Bottega party loft minimal interior with chrome sculpture central piece, polished concrete floor, single dramatic spotlight (Bottega Veneta party aesthetic)
 
-### 📸 Imágenes (0/7 — Materializado parcial (app/Gemini)))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini)))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -3489,7 +3489,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ver detalle completo en prompts.
 - **Ambientación:** Private dinner room at Le Bristol Paris with deep mahogany walls, gold-framed mirrors, crystal stemware on table, candle-lit ambiance (Sugar Baby 2025 dinner aesthetic)
 
-### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -4146,7 +4146,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Elegant blush nude silk couture floor-length boudoir robe gently parted al frente mostrando el set La Perla debajo — longline balconette bralette silk-satin + high-waist brief + garter belt de satén + medias seamed blush nude con costura · robe caída suave de ambos hombros · pearl-drop choker con cadena fina de oro · sin guantes (La Perla Maison minimalism) · blush nude patent pointed-toe stiletto pumps 14cm.
 - **Ambientación:** Hotel Lancaster Paris boudoir suite with deep mahogany vanity table, antique gilded mirror, crystal perfume bottles, antique velvet chaise longue, refined La Perla Maison editorial aesthetic
 
-### 📸 Imágenes (2/7 — Materializado)
+### 📸 Imágenes (7/7 — Materializado)
 
  | Standing | Back View | Seated | Side Profile | [📸 View](../../05_Imagenes/ele/look256_blush_nude_boudoir_robe_la_perla/ele_256_ditzy.png) | POV (single hand) | Odalisque | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -5235,7 +5235,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Crimson red silk satin couture cheongsam floor-length with hand-embroidered gold thread dragon and peony motifs across bodice and skirt, structured mandarin collar with frog button closures, capped cap sleeves with gold embroidery edge, side slit thigh-high, no gloves (oriental couture minimalism), jade pendant earrings, jade and gold hair ornament Chinese imperial-style pinned into low bun, no choker (mandarin collar is the statement), crimson satin pointed-toe stiletto pumps with 14cm slim heel, sleek low bun with gold hairpin.
 - **Ambientación:** Shanghai Bund colonial-era ballroom with red lacquered columns, gold dragon screen backdrop, paper lantern soft amber lighting, Wong Kar-wai cinematic aesthetic.
 
-### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -5307,7 +5307,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Lotus pink silk georgette sari floor-length with intricate silver zardozi embroidery and crystal beadwork forming lotus and paisley motifs across pallu and border, matching lotus pink silk cropped sleeveless blouse with low back, sheer silver-embroidered dupatta draped over left shoulder, no gloves (Indo-glam minimalism), kundan-style chandelier earrings with pearl drops, traditional maang tikka on forehead, layered gold and pearl necklaces, henna mehndi pattern on hands and feet, lotus pink satin pointed-toe stiletto pumps with 14cm slim heel under sari, sleek low chignon with white jasmine garland.
 - **Ambientación:** Bollywood gala ballroom in Mumbai with carved marble pillars, golden chandelier, jasmine garland decorations, warm filmi lighting, refined editorial fashion photography.
 
-### 📸 Imágenes (2/7)
+### 📸 Imágenes (7/7)
  | Standing | Back View | Seated | Side Profile | [📸 View](../../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_ditzy.png) | POV (single hand) | Odalisque | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  | [📸 View](./05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_standing.png) | [📸 View](./05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_back_view.png) | [📸 View](./05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_seated.png) | [📸 View](./05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_side_profile.png) | [📸 View](../../05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_ditzy.png) | [📸 View](./05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_pov.png) | [📸 View](./05_Imagenes/ele/look272_lotus_pink_bollywood_sari_gala/ele_272_odalisque.png) | 
@@ -5377,7 +5377,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Mint sage green matte technical fabric set: wide-leg cropped tai chi pants high-waist with elastic cuff at ankle, matching wrap-front top with low mandarin collar and side tie closure, fitted under-bralette in same mint sage tone visible at neckline, no gloves (tai chi minimalism), jade hair stick stud earrings minimal, no choker, black satin pointed-toe stiletto pumps with 12cm slim heel, high sleek ponytail with jade hairpin, dewy natural makeup.
 - **Ambientación:** Traditional Chinese garden practice pavilion at dawn with stone tiles, koi pond visible, bamboo grove background, soft morning mist, refined editorial photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -5449,7 +5449,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Imperial jade green ribbed seamless leggings high-waist with subtle tone-on-tone dragon embroidery running up outer thigh, matching jade ribbed crop sports bra with thin straps and subtle dragon embroidery at shoulder, no gloves, jade stud earrings, no choker, cream wet-look platform stiletto heels Pleaser Delight-608 with 6-inch needle heel and 1.5-inch platform, high ponytail with carved jade hairpin, dewy minimal makeup.
 - **Ambientación:** Luxury Asian-inspired pilates studio with bamboo wall paneling, reformer machine, ink wash mountain painting on wall, soft natural skylight, refined editorial photography.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -5665,7 +5665,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Ivory cream silk-satin short kimono-style robe mid-thigh length with hand-embroidered pale pink sakura cherry blossom branches across left shoulder and back, wide kimono sleeves, deep V wrap front secured with delicate nude silk obi belt tied in soft back bow, no gloves (Japanese minimalism), single pearl drop earrings, no choker (replaced by delicate pearl pendant on silk cord), ivory silk-satin stiletto mule heels with 10cm slim heel, hair loose with single sakura kanzashi hairpin, dewy minimal makeup with soft natural lip.
 - **Ambientación:** Traditional Japanese ryokan bedroom with tatami mat floor, shoji paper screen sliding doors, low futon with white linen, ikebana arrangement of cherry blossom branches, soft paper lantern warm lighting, refined editorial wabi-sabi aesthetic.
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -5737,7 +5737,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** Deep sapphire blue silk-satin modernized hanbok boudoir set: cropped jeogori jacket waist-length with hand-embroidered mother-of-pearl plum blossoms at collar and norigae chest knot, deep V crossover front, matching sapphire silk chima high-waist mini skirt with subtle box pleats falling above mid-thigh, no gloves (hanbok minimalism), mother-of-pearl earrings delicate drop, traditional silk binyeo hairpin in silver and pearl, no choker (replaced by silk norigae pendant), sapphire silk-satin stiletto mule heels with 10cm slim heel, hair in half-up half-down with traditional braided crown, soft glass-skin Korean makeup.
 - **Ambientación:** Modern Seoul luxury hotel suite with hanok architectural details, sliding paper screen windows, low platform bed with sapphire silk linens, single ink wash painting of plum blossoms on wall, soft warm tungsten lighting.
 
-### 📸 Imágenes (2/7)
+### 📸 Imágenes (7/7)
  | Standing | Back View | Seated | Side Profile | [📸 View](../../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_ditzy.png) | POV (single hand) | Odalisque | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_standing.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_back_view.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_seated.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_side_profile.png) | [📸 View](../../05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_ditzy.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_pov.png) | [📸 View](./05_Imagenes/ele/look278_sapphire_silk_hanbok_boudoir/ele_278_odalisque.png) | 
@@ -5969,7 +5969,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Chrome mirror sole bottom (Pleaser stage signature)
 - **Ambientación:** Pole stage de club rock con neón rojo + humo de máquina + bull rider lighting desde abajo, mirror-back wall, audience visible en sombras, pole chrome polished con grip-tape negro.
 
-### 📸 Imágenes (2/7)
+### 📸 Imágenes (7/7)
  | Standing | Back View | Seated | Side Profile | [📸 View](../../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_ditzy.png) | POV (single hand) | Odalisque | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  | [📸 View](./05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_standing.png) | [📸 View](./05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_back_view.png) | [📸 View](./05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_seated.png) | [📸 View](./05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_side_profile.png) | [📸 View](../../05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_ditzy.png) | [📸 View](./05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_pov.png) | [📸 View](./05_Imagenes/ele/look281_black_patent_mistress_rock_stage/ele_281_odalisque.png) | 
@@ -6523,7 +6523,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Red lacquered sole (Louboutin-style accent burlesque signature)
 - **Ambientación:** Boudoir velvet cabaret crimson burgundy con espejo art-deco oval marco dorado, dresser antique de caoba con polvera y perfumes, lámpara de seda tassels franjas dorada warm, terciopelo rojo cortinas pesadas pleated.
 
-### 📸 Imágenes (2/7 — Materializado)
+### 📸 Imágenes (7/7 — Materializado)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
@@ -6618,7 +6618,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Black lacquered sole
 - **Ambientación:** Cocina industrial-glam Calacatta marble countertop con campana Smeg chrome retro + KitchenAid Artisan chrome polished sobre la encimera, taburetes industriales chrome, ventana panorámica a jardín Las Condes, suelo blanco mármol pulido.
 
-### 📸 Imágenes (2/7 — Materializado)
+### 📸 Imágenes (7/7 — Materializado)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
@@ -6713,7 +6713,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Black rubber motocross tread agresivo + chrome heel tap
 - **Ambientación:** Track day pit lane motocross con KTM 450 SX-F naranja y negra visible al lado, paddock con tarpas chrome, neumáticos apilados, suelo de cemento con marcas de quemada, atardecer industrial cielo naranja-rojo.
 
-### 📸 Imágenes (2/7 — Materializado)
+### 📸 Imágenes (7/7 — Materializado)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
@@ -6808,7 +6808,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Crimson red lacquered sole (Louboutin-style accent matching gloves)
 - **Ambientación:** Boxing gym training facility East LA registro Wild Card con ring cuadrado visible al fondo, heavy bag colgado, jump rope coiled, suelo de hardwood marked con tape strips, mirror wall lateral, single overhead industrial lamp, atmósfera de gym viejo profesional.
 
-### 📸 Imágenes (2/7 — Materializado)
+### 📸 Imágenes (7/7 — Materializado)
 
 <details>
 <summary>📸 7 poses planificadas (V4.1 SAFE)</summary>
@@ -13625,7 +13625,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
  - **Sole/finish:** Suela nude (NO plana)
 - **Ambientación:** cozy après-ski bar with mulled wine steaming and warm string lights and a crowd bokeh, snow falling outside the window, golden firelit interior, 8k editorial fashion photography.
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (1/7)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -28790,7 +28790,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientación:** in a modern glass-walled gym studio, stainless-steel weight racks, floor-to-ceiling windows showing city skyline, bright overhead lighting
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (5/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -28997,7 +28997,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientación:** in a strobe-lit nightclub dance floor, overhead laser lights casting blue rays, fog machine haze, and modern speaker stacks in background
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (0/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
