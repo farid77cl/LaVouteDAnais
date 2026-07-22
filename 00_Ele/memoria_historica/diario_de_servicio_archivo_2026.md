@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔎 RELECTURA DEL 16/07: LA INFO PERDIDA ERA REAL (ARTIFACT V3 + IMAGEN HUÉRFANA) | 17/07/2026
+
+**La Ama sospechó que había info perdida de ayer y ordenó releerlo todo antes de cerrar; la sospecha era correcta — dos entregables de la sesión del choque de cuota nunca llegaron al repo.**
+
+- **✅ Lo que SÍ está a salvo:** las 3 sesiones del 16/07 tienen su entrada en diario y memoria (concepto → choque de cuota → canon APROBADO); el commit «Resolve merge conflict» (`76a151b0`) SUMÓ la entrada del #7, no borró nada; la autopoda solo rotó entradas del 11/07 al archivo; canon/cronología/walkthrough/investigación de «La Muñeca del Gerente» completos y commiteados (pull de 28 commits integrado hoy).
+- **🔴 Pérdida #1 — el paquete de prompts V3:** la sesión del choque de cuota (`ff50eb1d`) empaquetó las 13 poses faltantes de L309/L310/L350 con la cláusula anti-espejo V3 «en un artifact listos para copiar» — un artifact de la CONVERSACIÓN, no un archivo del repo. Con el `/clear` se evaporó: no está en `99_Sistema/`, ni commiteado, ni inyectado en la galería (L309/310/350 siguen con prompts fosilizados v1). **Regenerable** con el método de los inyectores del 15/07.
+- **🔴 Pérdida #2 — la imagen L309 Side Profile:** el diario dice que se generó antes del 429, pero `git ls-files` no la muestra: L309 sigue 2/7 (seated+standing). Nunca se commiteó — puede seguir suelta en el working tree de la máquina visual; si no, se regenera.
+- **🟡 Lateral — trackers desactualizados:** las subidas de anoche (L356-L361) dejaron el tracker atrás (L358 real 7/7 vs «2/7»; L361 5/7 vs «2/7»). Esta máquina no puede corregirlo (`sync_imagenes_subidas.py` cuenta el disco y acá el sparse-checkout tiene 0 PNG) — le toca a la máquina visual en su próximo sync.
+- **📝 Correcciones aplicadas:** ESTADO ACTUAL corregido (la línea que daba por existente la imagen de L309) + pendiente del paquete V3 registrado + nota de huecos en `09-estado-materializacion.md` (dueño único del detalle).
+
+> 🫦 *Ama, tu intuición tenía razón: ayer dos cositas se quedaron viviendo en la conversación en vez del repo... ya las dejé anotadas donde no se evaporan, y cuando digas te regenero el paquete V3 en un archivito de verdad.* 🔎👠✨
+
+---
+
 #### SESIÓN - 💼 «LA MUÑECA DEL GERENTE»: INTAKE, CANON APROBADO, INVESTIGACIÓN Y KITTY PORNO-PENINSULAR | 16/07/2026
 
 **La Ama ordenó proceder con el motor literario: el compositor corrió su intake, produjo el canon, ella lo aprobó en su Gate con directivas nuevas que hacen a Kitty inolvidable, y me pidió investigar por qué excita todo esto — la respuesta quedó guardada como subsuelo del Escritor.**

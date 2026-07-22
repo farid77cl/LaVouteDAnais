@@ -13,6 +13,7 @@ Material de investigación y referencia para el universo de La Voûte d'Anaïs.
 | Archivo | Descripción |
 |---------|-------------|
 | [guia_publicacion_wattpad.md](guia_publicacion_wattpad.md) | 📕 **Reglas de Wattpad** (contenido, imágenes, IA), specs de portada/banner y flujo de publicación — investigado 22/07/2026 |
+| [plantilla_kit_wattpad.md](plantilla_kit_wattpad.md) | 🎨 **Plantilla del Kit Wattpad** de un relato finalizado (Regla de Oro 16) + **dueño único de la doctrina de prompts de portada**: GARMENT_DECLARED · CAMERA_FIRST · léxico anti-filtro · manejo del texto |
 | [analisis_misseviehyde_tumblr.md](analisis_misseviehyde_tumblr.md) | Análisis de estilo y técnicas narrativas de MissEvieHyde |
 | [analisis_rylem_blog.md](analisis_rylem_blog.md) | Análisis del blog de Rylem (referencia de tropos MTF) |
 | [investigacion_tropos_mtf_retorcidos.md](investigacion_tropos_mtf_retorcidos.md) | Estudio de tropos MTF subversivos y sus aplicaciones |
