@@ -1,13 +1,13 @@
 # 🖼️ Galería: look096_mercury_goddess
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 10
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_096_v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v1_standing.png) | ![ele_096_v3_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v3_back_view.png) | ![v11_front_arched.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v11_front_arched.png) |
-| ![v2_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v2_seated.png) | ![v4_sideview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v4_sideview.png) | ![v5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v5_ditzy.png) |
+| ![ele_096_v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v1_standing.png) | ![ele_096_v3_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v3_back_view.png) | ![ele_96_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_back_view.png) |
+| ![ele_96_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_odalisque.png) | ![ele_96_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_pov.png) | ![ele_96_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_side_profile.png) |
 
 ---
 
@@ -15,7 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_096_v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v1_standing.png) | ![ele_096_v3_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v3_back_view.png) | ![v11_front_arched.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v11_front_arched.png) | ![v2_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v2_seated.png) |
+| ![ele_096_v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v1_standing.png) | ![ele_096_v3_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v3_back_view.png) | ![ele_96_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_back_view.png) | ![ele_96_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_odalisque.png) |
+| ![ele_96_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_pov.png) | ![ele_96_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_side_profile.png) | ![v11_front_arched.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v11_front_arched.png) | ![v2_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v2_seated.png) |
 | ![v4_sideview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v4_sideview.png) | ![v5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v5_ditzy.png) |
 
 
@@ -24,6 +25,10 @@ Total imágenes: 6
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_096_v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v1_standing.png)
 - [ele_096_v3_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v3_back_view.png)
+- [ele_96_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_back_view.png)
+- [ele_96_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_odalisque.png)
+- [ele_96_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_pov.png)
+- [ele_96_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_96_side_profile.png)
 - [v11_front_arched.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v11_front_arched.png)
 - [v2_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v2_seated.png)
 - [v4_sideview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v4_sideview.png)
