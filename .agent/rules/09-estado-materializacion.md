@@ -25,13 +25,23 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 > **🔎 HUECOS L309/L310/L350 + PAQUETE V3 PERDIDO (auditoría 17/07/2026):** 13 poses faltantes — **L309:** back_view, side_profile, ditzy, pov, odalisque · **L310:** back_view, ditzy, odalisque · **L350:** seated, side_profile, ditzy, pov, odalisque. El paquete de prompts V3 preparado el 16/07 para flujo manual **se perdió** (era un artifact de conversación, no un archivo del repo) y la única imagen generada ese día (L309 side_profile) **nunca se commiteó** (revisar working tree de la máquina visual). Sus prompts en galería siguen v1 fosilizados. ⏳ Pendiente: regenerar el paquete **como archivo** con el método de inyectores del 15/07. Lateral: trackers L355-L361 desactualizados respecto a las subidas del 16-17/07 (L358 real 7/7 vs «2/7») — corregir con sync desde la máquina visual (la solo-literaria cuenta 0 PNG en disco).
 
 > [!CAUTION]
-> **🔴 PENDIENTE #1 — LOS PROMPTS 300-760 SIGUEN FOSILIZADOS (diferido por la Ama).**
-> El motor está en **v3 (15/07 tarde: `build_marks_clause()` — el segmento de marcas del Bloque A se construye por cobertura, lo cubierto NO se nombra, nipple piercings JAMÁS — + `SINGLE_FRAME` v3 anti-espejo/marco + `SINGLE_FRAME_TAIL` en Ditzy + `NO_ARMWEAR` afirmativo-primero)**. En galería: **L793 ×7 + L794 Odalisque en v3** (los únicos sin imagen del batch); el resto de **L771-L800 en v2** (refresco 15/07: 104 poses + 17 negatives). Pero **la app genera desde `galeria_outfits.md`**, y el rango **300-760** todavía trae:
-> - el **Bloque A viejo** (`nipple piercings pressing against and visible under clothing`);
-> - los **locks v1 con metalenguaje multi-toma** ("across all poses / in every shot" → riesgo de collage);
-> - sin `SKIN_LOCK`/`HOSIERY_LOCK`/`SINGLE_FRAME`. (El bloque negativo sí existe ya en los 591 looks — reparado 14/07 — pero es v1.)
+> **🔴 PENDIENTE #1 — CORREGIDO 22/07/2026: EL RANGO FOSILIZADO ES L200-L299, NO EL 300-760.**
+> Esta nota decía que los prompts **300-760** seguían fosilizados. **Se midió sobre los 601 looks y es falso** — el refresco del 12/07 sí llegó a ese rango:
 >
-> **Hasta que se barran, lo que se genere en ese rango sigue saliendo con el defecto y quema cuota.** Alcance del barrido: **todas las poses SIN imagen** del rango 300-760. Las que ya tienen imagen no se tocan.
+> | Rango | SKIN_LOCK | SINGLE_FRAME (`a single continuous photograph`) |
+> |---|---|---|
+> | **L200-L299** | **0/100** | **0/100** |
+> | L300-L499 | 200/200 | 200/200 |
+> | L500-L699 | 200/200 | 200/200 |
+> | L700-L800 | 101/101 | 101/101 |
+>
+> **El hueco real son los 100 looks de L200-L299**, sin un solo candado del motor. De ellos, **21 tienen poses sin materializar**: si la app genera ahí, sale con el defecto y quema cuota. Ese es el alcance del barrido pendiente (las poses que ya tienen imagen no se tocan).
+>
+> Dos correcciones más de la misma medición:
+> - El **Bloque A viejo** (`nipple piercings pressing against and visible under clothing`) no está en todo el rango: son **7 apariciones** en total.
+> - El **metalenguaje multi-toma** (`in every shot`, causa registrada de collage) sobrevive en **39 looks**, y **30 de ellos están en L761-L800** — los más nuevos, no los viejos. Llevan el ancla afirmativa `SINGLE_FRAME` puesta, así que el riesgo es residual, pero el token prohibido sigue escrito.
+>
+> ⚠️ **Lección de método:** esta nota se escribió una vez y nunca se volvió a medir. Un estado que dice "pendiente" sin fecha de verificación **envejece hacia la mentira** y manda a barrer donde ya está limpio mientras el hueco real queda sin tocar.
 
 > [!NOTE]
 > **⚠️ Auditar el repo MIENTE (aprendido 13/07):** las imágenes commiteadas son las **sobrevivientes** de varios reintentos de la Ama — miden su tasa de éxito *después* del filtro humano, no la del prompt. Si la Ama dice que tuvo que regenerar, **el defecto existe** aunque lo guardado se vea limpio.
