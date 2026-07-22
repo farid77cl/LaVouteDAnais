@@ -23,6 +23,53 @@ from datetime import datetime
 GALERIA_PATH = Path(r"c:\Users\farid\LaVouteDAnais\00_Ele\galeria_outfits.md")
 INDEX_PATH   = Path(r"c:\Users\farid\LaVouteDAnais\00_Ele\galeria_index.md")
 
+# ── Metadata del TÍTULO (contrato §4) ───────────────────────────────────────
+# El contrato manda la metadata en el heading, no en campos:
+#   ## Look N: <Título> (<fecha> · batch L<X>-L<Y> "<Tema>" · <Cat> · <Subcat> · <Modo>)
+# Los campos `- **Categoria:**` son el formato viejo (491 looks) y conviven con
+# el nuevo (110 looks). Antes este índice sólo miraba los campos, así que los
+# looks en formato de contrato salían con toda la fila en «—».
+CATEGORIAS = ["High-Fashion Editorial", "Alfombra Roja / Gala", "Alfombra Roja",
+              "Pin-Up", "Stripper", "Corporate", "Escort", "Domestic",
+              "Nightclub", "Lencería", "Lenceria", "Bikini", "Gym/Athleisure", "Gym"]
+MODOS = ["Neutro+Pop", "Monoblock", "Contraste", "Triada", "Gradiente"]
+MATERIALES = ["vinyl", "pvc", "latex", "látex", "wet-look", "wetlook", "chrome", "lamé",
+              "lame", "satin", "satén", "mesh", "crystal", "rhinestone", "leather",
+              "cuero", "iridescent", "holographic", "leopard", "python", "zebra", "tiger"]
+
+def parse_titulo(titulo: str) -> tuple[str, dict]:
+    """Devuelve (nombre limpio, metadata) leyendo el paréntesis del heading."""
+    m = re.match(r'^(.*?)\s*\((.*)\)\s*$', titulo.strip(), re.S)
+    if not m:
+        return titulo.strip(), {}
+    nombre, meta = m.group(1).strip(), m.group(2)
+    partes = [p.strip() for p in re.split(r'\s*[·|]\s*', meta) if p.strip()]
+    d: dict = {}
+    for p in partes:
+        fm = re.search(r'\b(\d{2}/\d{2}/\d{4})\b', p)
+        if fm and "fecha" not in d:
+            d["fecha"] = fm.group(1)
+        if "categoria" not in d:
+            for c in CATEGORIAS:
+                if re.search(r'\b' + re.escape(c) + r'\b', p, re.I):
+                    d["categoria"] = "Lencería" if c.lower() == "lenceria" else (
+                                     "Gym" if c.lower() == "gym/athleisure" else c)
+                    break
+        if "modo" not in d:
+            for k in MODOS:
+                if re.search(re.escape(k), p, re.I):
+                    d["modo"] = k
+                    break
+    return nombre, d
+
+def materiales_de_tags(block: str) -> str:
+    m = re.search(r'\*\*Tags:?\*\*\s*(.+?)(?:\n|$)', block)
+    if not m:
+        return ""
+    tags = [t.lstrip("#").lower() for t in re.findall(r'#[\w\-áéíóúñ]+', m.group(1))]
+    hit = [t for t in tags if t in MATERIALES]
+    return ", ".join(dict.fromkeys(hit))
+
 # ── Parser ──────────────────────────────────────────────────────────────────
 
 def parse_galeria(path: Path) -> list[dict]:
@@ -41,25 +88,27 @@ def parse_galeria(path: Path) -> list[dict]:
             continue
 
         num   = int(m.group(1))
-        name  = m.group(2).strip().rstrip('*').strip()
-        # Limpiar fecha del nombre si viene pegada: "Nombre (DD/MM/YYYY)"
-        name  = re.sub(r'\s*\(\d{2}/\d{2}/\d{4}\)\s*$', '', name).strip()
+        titulo_crudo = m.group(2).strip().rstrip('*').strip()
+        # El nombre limpio y la metadata salen del propio heading (contrato §4)
+        name, meta = parse_titulo(titulo_crudo)
 
-        # Fecha
-        fecha_m = re.search(r'\*\*Fecha:\*\*\s*(.+?)(?:\n|$)', block)
-        fecha = fecha_m.group(1).strip() if fecha_m else "—"
+        # Fecha: campo si existe, si no la del título
+        fecha_m = re.search(r'\*\*Fecha:?\*\*\s*(.+?)(?:\n|$)', block)
+        fecha = fecha_m.group(1).strip() if fecha_m else meta.get("fecha", "—")
 
-        # Categoría
-        cat_m = re.search(r'\*\*Categor[ií]a:\*\*\s*(.+?)(?:\n|$)', block)
-        categoria = cat_m.group(1).strip() if cat_m else "—"
+        # Categoría: campo (formato viejo) → título (contrato). La clave va sin
+        # tilde por regla 11 §5, pero se acepta tildada por si queda alguna.
+        cat_m = re.search(r'\*\*Categor[ií]a:?\*\*\s*(.+?)(?:\n|$)', block)
+        categoria = cat_m.group(1).strip() if cat_m else meta.get("categoria", "—")
 
-        # Paleta
-        pal_m = re.search(r'\*\*Paleta:\*\*\s*(.+?)(?:\n|$)', block)
-        paleta = pal_m.group(1).strip() if pal_m else "—"
+        # Paleta: no existe como campo en ningún look; el modo cromático del
+        # título es lo más cercano y es lo que gobierna el anti-monoblock.
+        pal_m = re.search(r'\*\*Paleta:?\*\*\s*(.+?)(?:\n|$)', block)
+        paleta = pal_m.group(1).strip() if pal_m else meta.get("modo", "—")
 
-        # Materiales
-        mat_m = re.search(r'\*\*Materiales:\*\*\s*(.+?)(?:\n|$)', block)
-        materiales = mat_m.group(1).strip() if mat_m else "—"
+        # Materiales: campo → tags (#vinyl, #latex, #chrome…)
+        mat_m = re.search(r'\*\*Materiales:?\*\*\s*(.+?)(?:\n|$)', block)
+        materiales = mat_m.group(1).strip() if mat_m else (materiales_de_tags(block) or "—")
 
         # Poses / estado de imágenes — buscar "### 📸 Imágenes (X/Y..."
         img_m = re.search(r'### 📸 Imágenes\s*\((\d+/\d+)', block)
