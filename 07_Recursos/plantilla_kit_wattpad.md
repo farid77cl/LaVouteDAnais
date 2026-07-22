@@ -6,6 +6,17 @@
 
 ---
 
+## 🧭 Portada vs. banner — no confundirlos
+
+| Formato | Cuántos | Dónde va | Ratio de generación |
+|---|---|---|---|
+| **Portada vertical** 512×800 (2:3) | **UNA por historia** | la tapa de la historia | pedir **3:4** y recortar |
+| **Banner horizontal** 1280×720 (16:9) | **UNO por capítulo** | *header image* al inicio de la parte | pedir **16:9**, recortable a 3:1 |
+
+**Wattpad no tiene "portada de capítulo".** Si un relato viejo tiene verticales por capítulo (herencia del formato Tumblr), se conservan como material de RRSS — pero **lo que se sube a cada parte es el banner horizontal**.
+
+---
+
 ## Los dos archivos y quién es dueño de qué
 
 | Archivo | Dueño de | Nunca duplicar |

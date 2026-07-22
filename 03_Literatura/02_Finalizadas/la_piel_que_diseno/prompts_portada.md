@@ -29,6 +29,17 @@
 
 ---
 
+## 🧭 Portada vs. banner — qué se usa dónde (aclarado 22/07)
+
+| Formato | Cuántos | Dónde va |
+|---|---|---|
+| **Portada vertical** 512×800 (2:3) | **UNA por historia** | la tapa de la historia en Wattpad |
+| **Banner horizontal** 1280×720 (16:9) | **UNO por capítulo** | *header image* al inicio de cada parte |
+
+**Wattpad no tiene "portada de capítulo".** Las cuatro verticales por capítulo de este archivo son formato **Tumblr/RRSS** (o candidatas a ser LA portada de la historia). Lo que se sube a cada parte de Wattpad son los **banners horizontales** de la sección v2.
+
+---
+
 ## Prompts de portada (English — para Gemini)
 
 > **Formato:** 512 × 800 px · portrait vertical (2:3) · portada de novela adulta literaria. Título y autora renderizados en la imagen por el generador. Composición con focal claro al centro — debe leerse a 256 px de ancho (miniatura móvil Wattpad). Fondo oscuro dominante + texto blanco/crema de alto contraste. Sensualidad: exceso diseñado, cuerpo como objeto hecho desde adentro.

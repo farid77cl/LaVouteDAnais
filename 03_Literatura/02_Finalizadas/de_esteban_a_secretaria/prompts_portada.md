@@ -27,6 +27,17 @@
 
 ---
 
+## 🧭 Portada vs. banner — qué se usa dónde (aclarado 22/07)
+
+| Formato | Cuántos | Dónde va |
+|---|---|---|
+| **Portada vertical** 512×800 (2:3) | **UNA por historia** | la tapa de la historia en Wattpad |
+| **Banner horizontal** 1280×720 (16:9) | **UNO por capítulo** | *header image* al inicio de cada parte |
+
+**Wattpad no tiene "portada de capítulo".** Las verticales por capítulo de este archivo son formato **Tumblr/RRSS**, o candidatas a ser LA portada de la historia. Para el Cap 1 en Wattpad, lo que se sube es el **banner horizontal** de más abajo.
+
+---
+
 ## Prompts de portada (English — para Gemini)
 
 > **Formato:** 512 × 800 px · portrait vertical (2:3) · portada de novela adulta literaria. Título y autora renderizados en la imagen por el generador. Composición con focal claro al centro — debe leerse a 256 px de ancho (miniatura móvil Wattpad). Fondo oscuro dominante + texto blanco/crema de alto contraste. Sensualidad: calor, piel, postura cargada — sin ser explícito.
@@ -74,10 +85,12 @@ THE OTHER PERSON: a pair of elegant feminine forearms and hands enters the frame
 
 EDGES: left — a man's dark suit jacket over the back of a chair, a plain men's wristwatch lying face-down on the seat; right — a small lilac candle jar with a completely blank label, sheer stockings spilling over the edge of the vanity, one black stiletto tipped on its side on the parquet floor.
 
-No text anywhere in the image: no title, no lettering, no watermark, no writing on the candle jar or any object — every label blank. Leave the top 25% as calm dark negative space for typography to be added later.
+TYPOGRAPHY (rendered in image, across the calm dark area at the top): elegant serif in deep gold, high contrast, one line: "De Esteban a Secretaria". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capítulo 1 · La Semana". At the very bottom of the frame, small-caps in warm gold: "ANAÏS BELLAND". No other writing anywhere in the image — every object label blank.
 
 Mood: a transformation in progress — formal, quiet, cinematic, watched by the one being made. Photo-realistic, high-fashion editorial, 8k.
 ```
+
+**VARIANTE SIN TEXTO** (si el título vuelve a salir con una letra comida) — reemplazar el bloque TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every object label blank. Leave the top 25% as calm dark negative space for typography to be added later.`
 
 **Tipografía (componer después, no pedírsela a la IA):** título `De Esteban a Secretaria` en serif dorada arriba, filete fino debajo, `Capítulo 1 · La Semana` en cursiva menor, y `ANAÏS BELLAND` en small-caps al pie.
 
@@ -113,27 +126,31 @@ Mood: arrival, desire, the moment of discovery, the triangle closing around her.
 > Van como *header image* al inicio de cada parte en Wattpad. Máx 20 imágenes por parte, < 10 MB, JPG/PNG.
 > La escena se elige por su **forma horizontal**, no por su calor: la más caliente del capítulo casi nunca es publicable en imagen.
 
-## Capítulo 1 — La Semana
+## Capítulo 1 — La Semana ✅ **v2 (CAMERA_FIRST + texto renderizado)**
 
-> Escena elegida: **el tocador**. El ancho del cuadro cuenta el tránsito — a la izquierda lo que Esteban deja, al centro la transformación en curso, a la derecha lo que Estefanía va a ser.
+> Escena elegida: **el tocador**, con la misma corrección de cámara que la portada — **detrás de ella**, el corsé laceado como centro del cuadro y el rostro devuelto por el espejo. El ancho cuenta el tránsito: a la izquierda lo que Esteban deja, al centro la transformación, a la derecha lo que Estefanía va a ser.
+>
+> *(La v1 tenía el mismo defecto de geometría que la portada — vista frontal + cordones apretados por la espalda — y producía torso desnudo con el corsé suelto detrás.)*
 
 ```
-Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. A Santiago apartment bedroom at dusk, warm amber vanity light pooling in the center of the frame, the edges falling into deep caoba shadow.
+Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. A Santiago apartment bedroom at dusk. Warm amber vanity light pooling on the right side of the frame, the left side falling into cold blue-caoba shadow.
 
-CENTER: A person sits on a low stool at a vintage vanity, seen in three-quarter view. THEY ARE WEARING a steel-boned ivory corset — worn on the body, closed, opaque, fully laced — covering the torso completely from just below the armpits down over the hips; only the shoulders, collarbone and arms are bare above it. The face is caught mid-transformation, and the asymmetry must be obvious: the LEFT eye is finished with a sharp cat-eye and heavy lashes, the RIGHT eye is completely undone — no liner, no shadow, bare skin, slightly wide. Dark red lips, parted. Caramel hair loose and half-styled, one strand across the cheek. The hands rest on the thighs, palms up, still. From behind, only a pair of elegant feminine FOREARMS AND HANDS enters the frame — no face, no head, no torso, no second body — pulling the corset laces tight with an unhurried grip. The seated figure's spine straightens under the pull.
+CENTER-RIGHT — THE CAMERA IS BEHIND HER: A glamorous woman sits on a low stool at an antique vanity, her back to the camera, seen from behind. The focus of the image is the back of a structured ivory corset with steel boning — worn on her body and fully laced up the spine, the crossed laces and boning channels clearly visible, covering her from the shoulder blades down over the hips. Only her shoulders, upper back and arms fall outside the garment. Caramel hair swept forward over one shoulder to leave the lacing clear. A pair of elegant feminine forearms and hands enters the frame beside her, gripping the laces at her spine and drawing them tight — no face, no head, no torso, no second body, only the arms.
 
-LEFT THIRD (what is being left): a man's dark suit jacket crumpled over a chair, a plain wristwatch face-down, a pair of worn men's sneakers, an unpaid bill on the floor. Cold blue light.
+HER FACE COMES BACK IN THE MIRROR: the vanity mirror in front of her returns her face to the camera, small but sharp. In that reflection the makeup reads as deliberately half-finished, and the asymmetry should be obvious: one eye fully made up with a sharp black liner flick and heavy false lashes, the other entirely undone — clean skin, no liner, no shadow. Dark red lipstick, lips softly parted, an expression caught between resolve and apprehension. The mirror shows her and nobody else.
 
-RIGHT THIRD (what is being made): a lilac-labeled wax pot, nude stockings pooled on the carpet, a black stiletto tipped on its side, a wig head on the dresser. Warm amber light.
+LEFT THIRD — what is being left behind, in cold blue light: a man's dark suit jacket crumpled over a chair, a plain wristwatch lying face-down, a pair of worn men's sneakers, an unpaid bill on the floor. This side of the frame is dark and uncluttered.
 
-TYPOGRAPHY (rendered in image, lower center over the dark carpet): elegant serif in deep gold, small: "Capítulo 1 — La Semana". A thin warm-gold rule beneath. Bottom right corner, tiny small-caps warm gold: "LA VOÛTE D'ANAÏS".
+FAR RIGHT EDGE — what is being made, in warm amber: a small lilac candle jar with a completely blank label, sheer stockings pooled on the carpet, a black stiletto tipped on its side, a wig head on the dresser.
 
-COMPOSITION NOTE: keep the figures and the typography inside the central horizontal band; leave the top and bottom 20% as empty ceiling and carpet so the frame crops cleanly to 3:1.
+TYPOGRAPHY (rendered in image, in the dark left third, left-aligned, stacked and clear): elegant serif in deep gold, one line: "De Esteban a Secretaria". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capítulo 1 · La Semana". Bottom left corner, tiny small-caps in warm gold: "ANAÏS BELLAND". No other writing anywhere in the image — every object label blank.
+
+COMPOSITION NOTE: keep the figure, the mirror and all typography inside the central horizontal band; leave the top and bottom 20% as empty ceiling and carpet so the frame crops cleanly to 3:1.
 
 Photo-realistic, cinematic, warm editorial color grade, 8k.
 ```
 
-**VARIANTE SIN TEXTO** — `No text, no lettering, no title, no watermark anywhere in the image. Keep the lower center clean for typography to be added later.`
+**VARIANTE SIN TEXTO** — reemplazar el bloque TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every object label blank. Keep the left third dark and clean for typography to be added later.`
 
 ---
 
