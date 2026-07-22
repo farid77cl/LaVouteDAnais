@@ -1,12 +1,10 @@
 # La Piel que Diseñé — Tags y Prompts de Portada
 
-> 📕 **Calibración Wattpad (22/07/2026):** las reglas verificadas viven en `07_Recursos/guia_publicacion_wattpad.md` · metadata de publicación en [`kit_wattpad.md`](kit_wattpad.md).
-> **Regla dura de Wattpad:** prohibida la exposición completa de genitales, pechos y glúteos en cualquier imagen (portada o inline) — borran la imagen sin aviso. Los prompts de abajo visten a la figura siempre. *(El Cap 3 pedía glúteo expuesto; **corregido el 22/07**.)*
+> 📕 **Wattpad:** reglas de la plataforma → `07_Recursos/guia_publicacion_wattpad.md` · metadata de publicación → [`kit_wattpad.md`](kit_wattpad.md) · **cómo se escribe un prompt que no rebote ni desnude a la figura → `07_Recursos/plantilla_kit_wattpad.md`, que es el dueño único de esa doctrina.**
 >
-> ⚠️ **Doctrina anti-filtro (aprendida en producción el 22/07, ver el historial de la portada del Cap 1 de «De Esteban a Secretaria»):**
-> 1. **La cobertura se consigue en positivo:** `She is wearing a [prenda] — closed, opaque — covering [zona] from [borde] a [borde].` Nunca por implicación.
-> 2. **Nunca nombrar lo prohibido, ni para prohibirlo.** Una línea `no nudity, no exposed nipples…` **hace rebotar el prompt** (*"Sorry, I can't generate unsafe images"*): el filtro no procesa la negación, lee los tokens. Por eso estos prompts dicen `Editorial book cover` y no `Erotic novel cover`, y por eso ya **no llevan** la línea `STRICTLY` que tuvieron unas horas.
-> 3. **Si el cuerpo sale desnudo igual, el problema es la CÁMARA, no el vocabulario** — hay composiciones que empujan al modelo a desvestir.
+> **Los tres candados en una línea:** la prenda se declara **en positivo y sobre el cuerpo** · **nunca se nombra lo prohibido, ni para prohibirlo** (una línea `no nudity…` hace rebotar el prompt entero) · si el cuerpo sale desnudo igual, **el problema es la cámara**, no el vocabulario.
+>
+> *(El prompt del Cap 3 pedía glúteo expuesto — **corregido el 22/07**.)*
 
 ---
 

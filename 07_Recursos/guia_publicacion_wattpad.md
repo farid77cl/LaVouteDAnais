@@ -69,6 +69,17 @@ Ese es el filo donde vive La Voûte, y hay que decirlo derecho:
 | **Legibilidad** | Debe leerse a **~256 px de ancho** (miniatura móvil) — serif fina y script se hacen papilla |
 | **Composición** | Focal al centro; los bordes se recortan en algunas vistas; el título no puede quedar bajo el UI |
 
+### 🧭 Portada vs. banner — no son lo mismo
+
+| Formato | Cuántos | Dónde va |
+|---|---|---|
+| **Portada vertical** 512×800 | **UNA por historia** | la tapa de la historia |
+| **Banner horizontal** 1280×720 | **UNO por capítulo** | *header image* al inicio de la parte |
+
+**Wattpad no tiene "portada de capítulo".** Si un relato del repo tiene verticales por capítulo, son herencia del formato Tumblr: sirven para RRSS, no para la parte.
+
+> 🎨 **Cómo se escribe un prompt que no rebote ni desnude a la figura → `plantilla_kit_wattpad.md`** (dueño único de esa doctrina: GARMENT_DECLARED, CAMERA_FIRST, léxico anti-filtro, manejo del texto). Aprendida en producción el 22/07 y no negociable: **la línea `no nudity, no exposed nipples…` hace rebotar el prompt entero** — el filtro no procesa la negación, lee los tokens.
+
 ### Imágenes dentro de un capítulo (banner / inline media)
 | Campo | Valor |
 |---|---|

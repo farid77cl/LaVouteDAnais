@@ -1,16 +1,10 @@
 # De Esteban a Secretaria — Tags y Prompts de Portada
 
-> 📕 **Calibración Wattpad (22/07/2026):** reglas verificadas en `07_Recursos/guia_publicacion_wattpad.md` · metadata de publicación en [`kit_wattpad.md`](kit_wattpad.md).
-> **Regla dura de Wattpad:** prohibida la exposición completa de genitales, pechos y glúteos, y toda representación de acto sexual — borran la imagen sin aviso.
+> 📕 **Wattpad:** reglas de la plataforma → `07_Recursos/guia_publicacion_wattpad.md` · metadata de publicación → [`kit_wattpad.md`](kit_wattpad.md) · **cómo se escribe un prompt que no rebote ni desnude a la figura → `07_Recursos/plantilla_kit_wattpad.md`, que es el dueño único de esa doctrina.**
 >
-> ⚠️ **CORRECCIÓN 22/07 (probado en producción):** la primera versión de esta nota mandaba pegarle a cada prompt una línea `STRICTLY: no nudity, no exposed nipples…`. **Eso era un error y hacía rebotar el prompt** (*"Sorry, I can't generate unsafe images"*): el filtro **no procesa la negación, lee los tokens**. Nombrar lo prohibido lo dispara aunque vaya precedido de "no".
+> **Los tres candados en una línea:** la prenda se declara **en positivo y sobre el cuerpo** · **nunca se nombra lo prohibido, ni para prohibirlo** (una línea `no nudity…` hace rebotar el prompt entero) · si el cuerpo sale desnudo igual, **el problema es la cámara**, no el vocabulario.
 >
-> **Doctrina vigente — tres reglas:**
-> 1. **La cobertura se consigue en positivo:** `She is wearing a [prenda] — closed, opaque — covering [zona] from [borde] to [borde].` Nunca por implicación, nunca por negativo.
-> 2. **Nunca se nombra lo prohibido**, ni para prohibirlo. Registro léxico en clave **editorial / cine de época**, no erótica (`Editorial book cover`, no `Erotic novel cover`). La lista `STRICTLY` sigue viva como **checklist mío antes de entregar**, no como texto para el generador.
-> 3. **Si el cuerpo sigue saliendo desnudo, el problema es la CÁMARA, no el vocabulario.** Ver la historia de la portada del Cap 1 más abajo.
->
-> **Nota técnica:** Gemini no genera 2:3 nativo → pedir **3:4** y recortar. El texto largo es lotería (salió «Secretaia»): el default es generar **sin texto** y componer la tipografía después.
+> **Técnico:** Gemini no genera 2:3 ni 3:1 → pedir **3:4** (portada) y **16:9** (banner) y recortar. Si el título sale con una letra comida, usar la variante sin texto y componer la tipografía después.
 
 ---
 
@@ -104,6 +98,8 @@ Mood: a transformation in progress — formal, quiet, cinematic, watched by the 
 
 ### Capítulo 2 — La verga que coge a Valeria
 
+> ⚠️ **El texto renderizado usa el título de publicación, «El hombre del cedro»** — no el título interno. El real dispara el filtro del generador y es impublicable en un listado.
+
 ```
 Book cover, portrait vertical (2:3 ratio). Editorial book cover, sensual and tension-saturated. High-contrast single overhead pendant light, deep shadows.
 
@@ -113,7 +109,7 @@ UPPER FRAME: A tall man's dark silhouette fills the open doorway above her — b
 
 LOWER FRAME EDGE: At bottom left, barely in frame — a woman's hand holding a ceramic coffee cup, dark nail polish, the edge of burgundy lips in shadow. Watching.
 
-TYPOGRAPHY (rendered in image): At the top, elegant serif in warm cream or deep gold, legible at thumbnail size: "De Esteban a Secretaria — Capítulo 2". A thin gold accent rule immediately below the main title, left-aligned. Smaller italic below the rule: "La verga que coge a Valeria". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
+TYPOGRAPHY (rendered in image): At the top, elegant serif in warm cream or deep gold, legible at thumbnail size: "De Esteban a Secretaria — Capítulo 2". A thin gold accent rule immediately below the main title, left-aligned. Smaller italic below the rule: "El hombre del cedro". At the very bottom, small-caps in warm gold: "ANAÏS BELLAND".
 
 Mood: arrival, desire, the moment of discovery, the triangle closing around her. Luxurious executive loft, caoba paneling, single pendant overhead. Photo-realistic, hyper-polished editorial, 8k.
 ```
@@ -154,29 +150,31 @@ Photo-realistic, cinematic, warm editorial color grade, 8k.
 
 ---
 
-## Capítulo 2 — La verga que coge a Valeria
+## Capítulo 2 — La verga que coge a Valeria ✅ **v2 (título de publicación corregido + texto renderizado)**
 
-> Escena elegida: **la recepción del loft**. Ella en el escritorio, la puerta cerrada de Gabriel al otro extremo del cuadro, y el pasillo entero de distancia entre las dos cosas. La envidia sucia se ve en la distancia, no en la piel.
+> 🚨 **Lo que había puesto y era una bomba:** la v1 mandaba **renderizar dentro de la imagen** el texto *"Capítulo 2 — La verga que coge a Valeria"*. Eso (a) hace **rebotar el generador** por el token, y (b) si llegaba a salir, era una imagen impublicable — y encima yo mismo había marcado en el kit que ese título no se publica. La bomba quedó puesta tres horas. El texto renderizado usa el **título de publicación**: «El hombre del cedro».
+>
+> Escena elegida: **la recepción del loft**. Ella en el escritorio, la puerta cerrada de Gabriel al otro extremo del cuadro, y el pasillo entero de distancia entre las dos cosas. La envidia sucia se ve en la distancia, no en la piel. *(Sin corrección de cámara: acá no hay prenda que se ponga por detrás, la geometría ya era sana.)*
 
 ```
-Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. A luxury executive loft in Santiago, night. Caoba wall paneling running the full width of the frame, a single pendant lamp, floor-to-ceiling glass on the left with city lights. High contrast, deep shadow, one warm pool of light.
+Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. A luxury executive loft in Santiago, night. Mahogany wall paneling running the full width of the frame, a single pendant lamp, floor-to-ceiling glass on the left with city lights. High contrast, deep shadow, one warm pool of light.
 
-LEFT THIRD: A glamorous woman sits at a minimal reception desk, in profile, spine straight, knees together and angled, black pencil skirt, ivory silk blouse, black stilettos with the heels pressed into the floor. Immaculate cat-eye makeup, dark burgundy lips, caramel hair pinned back, a pearl earring. Her hands rest on the desk beside a closed laptop. She is not working. Her face is turned down the length of the room, and her expression is want with the shame still attached to it.
+LEFT THIRD: A glamorous woman sits at a minimal reception desk, seen in profile, spine straight, knees together and angled. She is wearing a black pencil skirt to the knee and an ivory silk blouse buttoned to the collarbone — closed, opaque, covering her completely — with black stiletto pumps, the heels pressed into the floor. Immaculate cat-eye makeup, dark burgundy lipstick, caramel hair pinned back, a single pearl earring. Her hands rest on the desk beside a closed laptop. She is not working. Her face is turned down the length of the room, and her expression is wanting, with the shame still attached to it.
 
-CENTER: a long empty stretch of polished floor. This emptiness is most of the image.
+CENTER: a long empty stretch of polished floor. This emptiness is most of the image, and it is the subject.
 
-RIGHT THIRD: a heavy closed office door in cedar, a strip of warm light under it. Beside the door, on a side table: two glasses, one with lipstick on the rim.
+RIGHT THIRD: a heavy closed office door in cedar, a band of warm light escaping underneath it. Beside the door, on a side table: two glasses, one with lipstick on the rim.
 
 FOREGROUND, BOTTOM LEFT CORNER (barely in frame, sharp): a woman's hand holding a ceramic coffee cup, dark nail polish. Someone else is in the room, watching, and has been the whole time.
 
-TYPOGRAPHY (rendered in image, center of the frame over the empty floor): elegant serif in deep gold, small: "Capítulo 2 — La verga que coge a Valeria". A thin warm-gold rule beneath. Bottom right corner, tiny small-caps warm gold: "LA VOÛTE D'ANAÏS".
+TYPOGRAPHY (rendered in image, upper left, over the dark mahogany panelling, left-aligned and stacked): elegant serif in deep gold, one line: "De Esteban a Secretaria". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capítulo 2 · El hombre del cedro". Bottom left corner, tiny small-caps in warm gold: "ANAÏS BELLAND". No other writing anywhere in the image — every label blank.
 
-COMPOSITION NOTE: keep the desk, the door and the typography inside the central horizontal band; the top and bottom 20% must be empty ceiling and floor for a 3:1 crop.
+COMPOSITION NOTE: keep the desk, the door and all typography inside the central horizontal band; the top and bottom 20% must be empty ceiling and floor for a 3:1 crop.
 
 Photo-realistic, cinematic, moody executive color grade, 8k.
 ```
 
-**VARIANTE SIN TEXTO** — `No text, no lettering, no title, no watermark anywhere in the image. Keep the central floor area clean and dark for typography to be added later.`
+**VARIANTE SIN TEXTO** — reemplazar el bloque TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every label blank. Keep the upper left panelling dark and clean for typography to be added later.`
 
 ---
 ---

@@ -75,8 +75,16 @@ Si sigues: bienvenida a La Voûte.
 | 2 | **Capítulo 2 — La racha** | [capitulo_2_la_racha.md](capitulo_2_la_racha.md) | [Banner Cap 2](prompts_portada.md) |
 | 3 | **Capítulo 3 — El nivel** | [capitulo_3_el_nivel.md](capitulo_3_el_nivel.md) | [Banner Cap 3](prompts_portada.md) |
 
-**Portada:** 512 × 800 · < 2 MB · prompt en [prompts_portada.md](prompts_portada.md)
-**Banners:** 1280 × 720 · < 10 MB · header al inicio de cada parte
+### Imágenes
+
+| Formato | Cuántos | Specs | Generar en |
+|---|---|---|---|
+| **Portada** (vertical) | **1 por historia** | 512×800 · < 2 MB · JPG/PNG | **3:4** → recortar |
+| **Banner** (horizontal) | **1 por capítulo** | 1280×720 · < 10 MB · header de la parte | **16:9** → recortable a 3:1 |
+
+Prompts: [prompts_portada.md](prompts_portada.md) · doctrina de escritura de prompts: `07_Recursos/plantilla_kit_wattpad.md`
+
+⚠️ **Con tipografía renderizada, revisar el título letra por letra antes de subir.** Si falla, usar la variante sin texto y componer la tipografía encima.
 
 > 🎨 **Nota de arte:** este es el único relato del catálogo donde el **rosa** manda sobre la paleta dorada de La Voûte. Es deliberado: el rosa es la app, y tiene que contaminar cada escena hasta aparecer, en el Cap 3, sobre la cara de la que creía estar afuera. La tipografía sigue siendo dorada.
 
@@ -100,6 +108,7 @@ La estructura del relato ya es un cliffhanger de tres tiempos; el calendario sol
 - [ ] Descripción pegada, con el bloque ⚠️ +18 al final
 - [ ] 25 tags cargados
 - [ ] Portada 512×800 subida, < 2 MB, título legible a 256 px
+- [ ] Si la imagen lleva texto renderizado: **título revisado letra por letra**
 - [ ] Nota de autora al inicio de la Parte 1
 - [ ] Banner al inicio de cada parte
 - [ ] Las 3 partes programadas

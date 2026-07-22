@@ -1,11 +1,12 @@
 # La app: La bimboficación de mi novio — Tags y Prompts de Portada
 
-> 📕 **Calibración Wattpad (22/07/2026):** reglas verificadas en `07_Recursos/guia_publicacion_wattpad.md` · metadata de publicación en [`kit_wattpad.md`](kit_wattpad.md).
-> **Regla dura de Wattpad:** prohibida la exposición completa de genitales, pechos y glúteos, y toda representación de acto sexual — borran la imagen sin aviso.
+> 📕 **Wattpad:** reglas de la plataforma → `07_Recursos/guia_publicacion_wattpad.md` · metadata de publicación → [`kit_wattpad.md`](kit_wattpad.md) · **cómo se escribe un prompt que no rebote ni desnude a la figura → `07_Recursos/plantilla_kit_wattpad.md`, que es el dueño único de esa doctrina.**
 >
-> ⚠️ **Doctrina anti-filtro (aprendida en producción el 22/07):** la cobertura se consigue **en positivo** (`She is wearing a [prenda] — closed, opaque — covering [zona]`), **nunca nombrando lo prohibido**. Una línea `no nudity, no exposed nipples…` hace **rebotar** el prompt (*"Sorry, I can't generate unsafe images"*): el filtro no procesa la negación, lee los tokens. Por eso estos prompts dicen `Cinematic editorial` y no `Erotic thriller`, y ya no llevan la línea `STRICTLY` que tuvieron unas horas.
+> **Los tres candados en una línea:** la prenda se declara **en positivo y sobre el cuerpo** · **nunca se nombra lo prohibido, ni para prohibirlo** (una línea `no nudity…` hace rebotar el prompt entero) · si el cuerpo sale desnudo igual, **el problema es la cámara**, no el vocabulario.
 >
-> **Notas técnicas:** Gemini no genera 2:3 ni 3:1 nativo → pedir **3:4** para la portada y **16:9** para los banners, y recortar. Los acentos (`bimboficación`, `ANAÏS`, `Capítulo`) se rompen: cada prompt trae **VARIANTE SIN TEXTO** para componer la tipografía después.
+> **Técnico:** Gemini no genera 2:3 ni 3:1 → pedir **3:4** (portada) y **16:9** (banners) y recortar. Los acentos (`bimboficación`, `ANAÏS`) se rompen: cada prompt trae **VARIANTE SIN TEXTO** para componer la tipografía después.
+>
+> 🧭 **Portada vs. banner:** UNA portada vertical por historia · UN banner horizontal por capítulo. Wattpad no tiene "portada de capítulo".
 >
 > **Identidad visual LVA — Anaïs Belland:** fondo negro caoba o caoba profundo · acento dorado cálido para título y barra · autora en small-caps · serif clásica. **Excepción de este relato:** el **rosa de la app** es el único color que rompe la paleta, y debe romperla — es la fuente de luz antinatural que contamina cada escena. Dorado para la tipografía, rosa solo para la pantalla.
 

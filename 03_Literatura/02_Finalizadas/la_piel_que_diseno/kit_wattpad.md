@@ -78,10 +78,19 @@ Si sigues: bienvenida a La Voûte.
 | 3 | **Capítulo 3 — El cuerpo que sabe** | [capitulo_03_el_cuerpo_que_sabe_v0.2.md](capitulo_03_el_cuerpo_que_sabe_v0.2.md) | [Banner Cap 3](prompts_portada.md) |
 | 4 | **Capítulo 4 — La primera bailarina** | [capitulo_04_la_primera_bailarina_v0.2.md](capitulo_04_la_primera_bailarina_v0.2.md) | [Banner Cap 4](prompts_portada.md) |
 
-**Portada:** 512 × 800 px · < 2 MB · prompt v2 Wattpad-ready en [prompts_portada.md](prompts_portada.md)
-**Banners:** header image al inicio de cada parte · 1280 × 720 (o recorte 1200 × 400) · < 10 MB · JPG/PNG
+### Imágenes
 
-⚠️ **El prompt de portada del Cap 3 fue corregido el 22/07** — la versión v1 pedía glúteo expuesto, que es causal directa de borrado de imagen en Wattpad.
+| Formato | Cuántos | Specs | Generar en |
+|---|---|---|---|
+| **Portada** (vertical) | **1 por historia** | 512×800 · < 2 MB · JPG/PNG | **3:4** → recortar |
+| **Banner** (horizontal) | **1 por capítulo** | 1280×720 · < 10 MB · header de la parte | **16:9** → recortable a 3:1 |
+
+Prompts: [prompts_portada.md](prompts_portada.md) · doctrina de escritura de prompts: `07_Recursos/plantilla_kit_wattpad.md`
+
+> Las **cuatro portadas verticales por capítulo** del archivo de prompts son formato **Tumblr/RRSS** — Wattpad no tiene portada de capítulo. A cada parte va su **banner horizontal**.
+
+⚠️ **El prompt de portada del Cap 3 fue corregido el 22/07** — la v1 pedía glúteo expuesto, causal directa de borrado de imagen en Wattpad.
+⚠️ **Con tipografía renderizada, revisar el título letra por letra antes de subir.** Si falla, usar la variante sin texto y componer la tipografía encima.
 
 ---
 
@@ -107,6 +116,7 @@ Los cuatro capítulos ya están escritos, pero subirlos el mismo día quema el r
 - [ ] Descripción pegada, con el bloque ⚠️ +18 al final
 - [ ] 25 tags cargados
 - [ ] Portada 512×800 subida, < 2 MB, título legible a 256 px
+- [ ] Si la imagen lleva texto renderizado: **título revisado letra por letra**
 - [ ] Nota de autora al inicio de la Parte 1
 - [ ] Banner al inicio de cada parte
 - [ ] Las 4 partes programadas

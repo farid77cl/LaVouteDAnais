@@ -78,8 +78,17 @@ Si sigues: bienvenida a La Voûte.
 
 ⚠️ **El título de la parte 2 no se puede publicar así en Wattpad.** «La verga que coge a Valeria» en un título de parte es exactamente el tipo de señal que pone la historia bajo revisión (y aparece en listados públicos, donde el rating Mature no lo protege). Título de publicación sugerido: **«Capítulo 2 — El hombre del cedro»**. El título interno del archivo se mantiene.
 
-**Portada:** 512 × 800 · < 2 MB · prompt general en [prompts_portada.md](prompts_portada.md) + la línea `STRICTLY` al final
-**Banners:** 1280 × 720 · < 10 MB · header al inicio de cada parte
+### Imágenes
+
+| Formato | Cuántos | Specs | Generar en |
+|---|---|---|---|
+| **Portada** (vertical) | **1 por historia** | 512×800 · < 2 MB · JPG/PNG | **3:4** → recortar |
+| **Banner** (horizontal) | **1 por capítulo** | 1280×720 · < 10 MB · header de la parte | **16:9** → recortable a 3:1 |
+
+Prompts: [prompts_portada.md](prompts_portada.md) · doctrina de escritura de prompts: `07_Recursos/plantilla_kit_wattpad.md`
+
+⚠️ **Con tipografía renderizada, revisar el título letra por letra antes de subir** — ya salió una vez «Secretaia». Si falla, usar la variante sin texto y componer la tipografía encima.
+⚠️ **El texto que va DENTRO de la imagen del Cap 2 es «El hombre del cedro»**, no el título interno.
 
 ---
 
@@ -100,6 +109,7 @@ Con solo dos partes, el espaciado importa más: la parte 2 es la que retiene, y 
 - [ ] Descripción pegada, con el bloque ⚠️ +18 al final
 - [ ] 25 tags cargados
 - [ ] Portada 512×800 subida, < 2 MB
+- [ ] Si la imagen lleva texto renderizado: **título revisado letra por letra**
 - [ ] Nota de autora al inicio de la Parte 1
 - [ ] Banner al inicio de cada parte
 - [ ] **Título de la parte 2 cambiado** a «El hombre del cedro»
