@@ -16,7 +16,17 @@ La app móvil sube imágenes generadas en Gemini directamente al repo. Este scri
 
 Después de correr esto, ejecutar update_galleries.py para regenerar los README de cada carpeta + galería maestra.
 
+  4. MODO ARCHIVO (--archivo, 22/07/2026): desde el 20/07 la app también materializa los looks
+     del archivo histórico (`galeria_outfits_archivo.md`), que la app SÍ lee. Ahí la era NO se
+     puede deducir del número —el L105 es del archivo y aun así llega con nombre canónico— sino
+     del NOMBRE del archivo: solo cuentan las poses `ele_<N>_<pose>.png` que reconoce
+     buscar_pose(). Los nombres curados a mano (`v1_standing.png`, `look106_v1.png`) NO cuentan
+     y por eso NO pueden inventar un tracker: si un look del archivo no tiene ni una pose
+     canónica, se lo deja intacto. Sin esa guardia insertaríamos «0/7» sobre looks que sí tienen
+     imágenes viejas — la mentira del tracker del 14/07 otra vez, y con el mismo costo en cuota.
+
 Uso:  python 99_Sistema/scripts/visual/sync_imagenes_subidas.py [MIN_LOOK]
+      python 99_Sistema/scripts/visual/sync_imagenes_subidas.py --archivo
       (MIN_LOOK por defecto = 291, primer batch generado por la app)
 """
 import os, re, subprocess, sys
@@ -26,9 +36,19 @@ sys.stdout.reconfigure(encoding="utf-8")
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "..", ".."))
 ELE = os.path.join(REPO, "05_Imagenes", "ele")
-GALERIA = os.path.join(REPO, "00_Ele", "galeria_outfits.md")
 
-MIN_LOOK = int(sys.argv[1]) if len(sys.argv) > 1 else 291
+# Lectura y escritura salen de la MISMA variable a propósito: el 20/07/2026 un inyector
+# cambió la lectura a `galeria_outfits_archivo.md` y dejó la escritura en la constante vieja
+# → escribió el archivo encima de la galería viva y borró 38.888 líneas.
+ARGS = [a for a in sys.argv[1:]]
+MODO_ARCHIVO = "--archivo" in ARGS
+ARGS = [a for a in ARGS if a != "--archivo"]
+
+GALERIA = os.path.join(REPO, "00_Ele",
+                       "galeria_outfits_archivo.md" if MODO_ARCHIVO else "galeria_outfits.md")
+
+# En el archivo la era la define el NOMBRE del PNG, no el número del look → sin piso numérico.
+MIN_LOOK = int(ARGS[0]) if ARGS else (0 if MODO_ARCHIVO else 291)
 
 POSES = [
     ("standing",     "Standing"),
@@ -116,12 +136,28 @@ def buscar_pose(n, key, folders):
     El slug largo no se reconocía y el tracker declaraba pendientes poses que sí existen
     (L299 4/7 y L300 2/7 cuando ambos están completos, 19/07). La pose va ANCLADA AL FINAL,
     así que un slug que contenga una palabra de pose no puede robar el match.
+
+    ALIAS DE POSE (22/07/2026): en el archivo histórico conviven nombres que la normalización
+    nunca alcanzó a corregir, porque `normalizar_nombres()` trabaja sobre el DISCO y esta
+    máquina tiene skip-worktree con 0 PNG. Al extender el sync al archivo, 8 looks perdían 12
+    links que apuntaban a imágenes REALES: `ele_136_back.png`, `ele_165_pose2_back.png` y los
+    `ele_1NN_lying.png` (así se llamaba la Odalisque en la era vieja). Sin estos alias el fix
+    "pasaba" con más links que antes y aun así destruía referencias vivas — el patrón exacto
+    de `feedback_fix_que_hace_pasar_puede_corromper` (20/07). El ancla `$` impide que el alias
+    corto le robe el match al canónico: `back_view.png` nunca casa con la alternativa `back`.
     """
-    rx = re.compile(rf"^ele_(?:look)?0*{n}_(?:.*_)?{key}(_\d+)?\.png$", re.I)
-    for folder in folders:
-        for f in sorted(imgs_de_look(folder)):
-            if rx.match(f):
-                return folder, f
+    alias = {"back_view": ["back_view", "back"],
+             "side_profile": ["side_profile", "profile"],
+             "odalisque": ["odalisque", "lying"]}.get(key, [key])
+    # El canónico se prueba PRIMERO y en todas las carpetas antes de bajar al alias: si un look
+    # tiene `ele_86_back_view.png` y `ele_86_back.png`, el sort alfabético entregaría el alias
+    # ("back.png" < "back_view.png") y el tracker apuntaría al nombre viejo teniendo el bueno.
+    for candidato in alias:
+        rx = re.compile(rf"^ele_(?:look)?0*{n}_(?:.*_)?{candidato}(_\d+)?\.png$", re.I)
+        for folder in folders:
+            for f in sorted(imgs_de_look(folder)):
+                if rx.match(f):
+                    return folder, f
     return None
 
 def construir_seccion(n, folders):
@@ -141,6 +177,19 @@ def construir_seccion(n, folders):
              f"| {headers} |\n| {seps} |\n| {' | '.join(cells)} |\n\n")
     return texto, mat
 
+def insertar_seccion(block, nueva):
+    """Inserta la sección 📸 DESPUÉS de los bullets de metadata y ANTES de los prompts.
+
+    El orden importa y no es cosmético: el 13/07 se encontraron 60 looks con «### 📸 Imágenes»
+    puesto ANTES de Ubicacion/Tags, y eso dejaba vacío el `canonicalInfo` que la app usa para
+    el chat y el contexto. La metadata va primero, el tracker después, los prompts al final.
+    """
+    for ancla in (r"^### 📝 ", r"^\*\*\s*1\.\s*Standing", r"^\*\*Standing:\*\*"):
+        m = re.search(ancla, block, re.MULTILINE)
+        if m:
+            return block[:m.start()] + nueva + block[m.start():]
+    return block.rstrip("\n") + "\n\n" + nueva
+
 def actualizar_galeria():
     with open(GALERIA, encoding="utf-8") as f:
         content = f.read()
@@ -157,7 +206,20 @@ def actualizar_galeria():
             out.append(block); continue
         n = int(m.group(1))
         sec = img_re.search(block)
-        if not sec or n < MIN_LOOK:
+        if n < MIN_LOOK:
+            out.append(block); continue
+        if not sec:
+            # Sin sección 📸: la insertamos SOLO si el look ya tiene al menos una pose con
+            # nombre canónico (`ele_<N>_<pose>.png`). Los looks 102-113 del archivo estrenaron
+            # prompts el 21/07 y la app los empezó a materializar sin que existiera contador:
+            # las subidas no se veían en ninguna parte. La guardia mat>=1 es la que impide
+            # estampar un «0/7» sobre un look que sí tiene imágenes con nombre curado a mano.
+            folders = folders_de_look(n)
+            if folders and any(imgs_de_look(f) for f in folders):
+                nueva, mat = construir_seccion(n, folders)
+                if mat >= 1:
+                    block = insertar_seccion(block, nueva)
+                    actualizados.append((n, -1, mat))
             out.append(block); continue
         actual = sec.group(0)
         folders = folders_de_look(n)
@@ -182,14 +244,21 @@ def actualizar_galeria():
     return actualizados, rutas_corregidas
 
 def main():
-    print(f"== Sync imágenes app (Gemini → GitHub) · era app: looks >= {MIN_LOOK} ==")
+    destino = os.path.basename(GALERIA)
+    alcance = "ARCHIVO histórico (era por nombre ele_*)" if MODO_ARCHIVO else f"era app: looks >= {MIN_LOOK}"
+    print(f"== Sync imágenes app (Gemini → GitHub) · {alcance} ==")
     print("1) Normalizando nombres no-canónicos (back→back_view, profile→side_profile)...")
     print(f"   {normalizar_nombres()} archivo(s) renombrado(s).")
-    print("2) Actualizando tracker en galeria_outfits.md...")
+    print(f"2) Actualizando tracker en {destino}...")
     upd, rutas = actualizar_galeria()
     if upd:
-        recup = sum(nuevo - viejo for _, viejo, nuevo in upd if nuevo > viejo)
+        # viejo == -1 marca «no había tracker»: esas poses no estaban declaradas pendientes,
+        # así que no cuentan como recuperadas (sumarlas inflaría el número con un +1 fantasma).
+        recup = sum(nuevo - viejo for _, viejo, nuevo in upd if viejo >= 0 and nuevo > viejo)
         for n, viejo, nuevo in sorted(upd):
+            if viejo == -1:
+                print(f"   L{n}: (sin tracker) → {nuevo}/7  🆕 sección insertada")
+                continue
             flecha = "⬆️ recuperadas" if nuevo > viejo else "⬇️ corregido (decía de más)"
             print(f"   L{n}: {viejo}/7 → {nuevo}/7  {flecha}")
         print(f"   ── {len(upd)} look(s) corregidos · {recup} pose(s) reales que figuraban como pendientes")

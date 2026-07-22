@@ -500,16 +500,16 @@
 | **688** | Crystal Chrome Vampire Stage (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Stripper - Stripper Pole Vampiress - chrome gold + cristal — Contraste - platform) | — | Stripper | — | — | 0/7 | ⏳ Pendiente |
 | **689** | Aquamarine Ice Nymph (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Bikini - Bikini Vampiress Fetish - aquamarina — Monoblock - platform) | — | Bikini | — | — | 3/7 | ⏳ Pendiente |
 | **690** | Plum Sovereign (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lenceria - Lenceria Fetish Vampiress Domme - ciruela + negro — Contraste - stiletto + medias) | — | Lenceria | — | — | 7/7 | — |
-| **691** | Bubblegum Latex Bombshell (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Bombshell Â· rosa chicle â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **692** | Rose Gold Metallic Vixen (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Retro-Futurism Â· rose gold metÃ¡lico â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **693** | Coral Pink Polkadot Darling (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Decade Glam Â· rosa coral + blanco â€” Contraste) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **694** | Neon Fuchsia Sweat Glam (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Glam Â· neÃ³n fucsia â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **695** | Dusty Rose Athletic Skort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Tennis Glam Â· dusty rose + blanco â€” Contraste) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **696** | Champagne Pink Liquid Escort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Haute Â· rosa champagne metÃ¡lico â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **697** | Raspberry Pink Latex Siren (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Siren Â· rosa frambuesa â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **691** | Bubblegum Latex Bombshell (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Bombshell Â· rosa chicle â€” Monoblock) | — | — | — | — | 1/7 | ⏳ Pendiente |
+| **692** | Rose Gold Metallic Vixen (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Retro-Futurism Â· rose gold metÃ¡lico â€” Monoblock) | — | — | — | — | 1/7 | ⏳ Pendiente |
+| **693** | Coral Pink Polkadot Darling (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Decade Glam Â· rosa coral + blanco â€” Contraste) | — | — | — | — | 7/7 | ⏳ Pendiente |
+| **694** | Neon Fuchsia Sweat Glam (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Glam Â· neÃ³n fucsia â€” Monoblock) | — | — | — | — | 7/7 | ⏳ Pendiente |
+| **695** | Dusty Rose Athletic Skort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Tennis Glam Â· dusty rose + blanco â€” Contraste) | — | — | — | — | 7/7 | ⏳ Pendiente |
+| **696** | Champagne Pink Liquid Escort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Haute Â· rosa champagne metÃ¡lico â€” Monoblock) | — | — | — | — | 1/7 | ⏳ Pendiente |
+| **697** | Raspberry Pink Latex Siren (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Siren Â· rosa frambuesa â€” Monoblock) | — | — | — | — | 7/7 | ⏳ Pendiente |
 | **698** | Hot Magenta Crystal Cage (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper VIP Â· hot magenta + cristal â€” Contraste) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **699** | Baby Pink PVC Tease (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper Stage Â· rosa bebÃ© â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
-| **700** | Cerise Sequin All Nighter (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Nightclub Â· Nightclub Glam Â· rosa cereza â€” Monoblock) | — | — | — | — | 0/? | ⏳ Pendiente |
+| **699** | Baby Pink PVC Tease (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper Stage Â· rosa bebÃ© â€” Monoblock) | — | — | — | — | 7/7 | ⏳ Pendiente |
+| **700** | Cerise Sequin All Nighter (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Nightclub Â· Nightclub Glam Â· rosa cereza â€” Monoblock) | — | — | — | — | 2/7 | ⏳ Pendiente |
 | **701** | Peacock Empress Couture (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · High-Fashion Editorial · HF Peacock Couture · pavo real / geisha · con medias) | — | — | — | — | 3/7 | ⏳ Pendiente |
 | **702** | Shanghai Qipao Líquido (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · Escort · Escort Haute · pavo real / geisha · con medias) | — | — | — | — | 5/7 | ⏳ Pendiente |
 | **703** | Geisha Sakura Boudoir (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · Lencería · Boudoir Geisha · pavo real / geisha · con medias) | — | — | — | — | 2/7 | ⏳ Pendiente |
@@ -965,16 +965,16 @@
 | **687** | Cobalt Midnight Bombshell (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Pin-Up - Pin-Up Vampiress Bombshell - cobalto + negro — Contraste - stiletto + medias) | 0/7 | ⏳ Pendiente |
 | **688** | Crystal Chrome Vampire Stage (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Stripper - Stripper Pole Vampiress - chrome gold + cristal — Contraste - platform) | 0/7 | ⏳ Pendiente |
 | **689** | Aquamarine Ice Nymph (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Bikini - Bikini Vampiress Fetish - aquamarina — Monoblock - platform) | 3/7 | ⏳ Pendiente |
-| **691** | Bubblegum Latex Bombshell (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Bombshell Â· rosa chicle â€” Monoblock) | 0/? | ⏳ Pendiente |
-| **692** | Rose Gold Metallic Vixen (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Retro-Futurism Â· rose gold metÃ¡lico â€” Monoblock) | 0/? | ⏳ Pendiente |
-| **693** | Coral Pink Polkadot Darling (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Decade Glam Â· rosa coral + blanco â€” Contraste) | 0/? | ⏳ Pendiente |
-| **694** | Neon Fuchsia Sweat Glam (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Glam Â· neÃ³n fucsia â€” Monoblock) | 0/? | ⏳ Pendiente |
-| **695** | Dusty Rose Athletic Skort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Tennis Glam Â· dusty rose + blanco â€” Contraste) | 0/? | ⏳ Pendiente |
-| **696** | Champagne Pink Liquid Escort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Haute Â· rosa champagne metÃ¡lico â€” Monoblock) | 0/? | ⏳ Pendiente |
-| **697** | Raspberry Pink Latex Siren (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Siren Â· rosa frambuesa â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **691** | Bubblegum Latex Bombshell (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Bombshell Â· rosa chicle â€” Monoblock) | 1/7 | ⏳ Pendiente |
+| **692** | Rose Gold Metallic Vixen (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Retro-Futurism Â· rose gold metÃ¡lico â€” Monoblock) | 1/7 | ⏳ Pendiente |
+| **693** | Coral Pink Polkadot Darling (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Pin-Up Â· Pin-Up Decade Glam Â· rosa coral + blanco â€” Contraste) | 7/7 | ⏳ Pendiente |
+| **694** | Neon Fuchsia Sweat Glam (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Glam Â· neÃ³n fucsia â€” Monoblock) | 7/7 | ⏳ Pendiente |
+| **695** | Dusty Rose Athletic Skort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Gym Â· Gym Tennis Glam Â· dusty rose + blanco â€” Contraste) | 7/7 | ⏳ Pendiente |
+| **696** | Champagne Pink Liquid Escort (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Haute Â· rosa champagne metÃ¡lico â€” Monoblock) | 1/7 | ⏳ Pendiente |
+| **697** | Raspberry Pink Latex Siren (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Escort Â· Escort Siren Â· rosa frambuesa â€” Monoblock) | 7/7 | ⏳ Pendiente |
 | **698** | Hot Magenta Crystal Cage (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper VIP Â· hot magenta + cristal â€” Contraste) | 0/? | ⏳ Pendiente |
-| **699** | Baby Pink PVC Tease (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper Stage Â· rosa bebÃ© â€” Monoblock) | 0/? | ⏳ Pendiente |
-| **700** | Cerise Sequin All Nighter (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Nightclub Â· Nightclub Glam Â· rosa cereza â€” Monoblock) | 0/? | ⏳ Pendiente |
+| **699** | Baby Pink PVC Tease (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Stripper Â· Stripper Stage Â· rosa bebÃ© â€” Monoblock) | 7/7 | ⏳ Pendiente |
+| **700** | Cerise Sequin All Nighter (01/07/2026 Â· batch L691-L700 "Pink Spectrum Fetish" Â· Nightclub Â· Nightclub Glam Â· rosa cereza â€” Monoblock) | 2/7 | ⏳ Pendiente |
 | **701** | Peacock Empress Couture (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · High-Fashion Editorial · HF Peacock Couture · pavo real / geisha · con medias) | 3/7 | ⏳ Pendiente |
 | **702** | Shanghai Qipao Líquido (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · Escort · Escort Haute · pavo real / geisha · con medias) | 5/7 | ⏳ Pendiente |
 | **703** | Geisha Sakura Boudoir (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · Lencería · Boudoir Geisha · pavo real / geisha · con medias) | 2/7 | ⏳ Pendiente |

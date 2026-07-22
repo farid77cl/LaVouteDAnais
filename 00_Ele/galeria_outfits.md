@@ -34861,6 +34861,12 @@ Motor: poses rotadas con `pose_rotation_v5`.
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
 
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look691_bubblegum_latex_bombshell/ele_691_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 **1. Standing:**
 
 ```
@@ -34927,6 +34933,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | â³ | â³ | â³ | â³ | â³ | â³ | â³ |
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
+
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look692_rose_gold_metallic_vixen/ele_692_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **1. Standing:**
 
@@ -34995,6 +35007,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
 
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_standing.png) | [📸 View](../../05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_back_view.png) | [📸 View](../../05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_seated.png) | [📸 View](../../05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_side_profile.png) | [📸 View](../../05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_ditzy.png) | [📸 View](../../05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_pov.png) | [📸 View](../../05_Imagenes/ele/look693_coral_pink_polkadot_darling/ele_693_odalisque.png) |
+
 **1. Standing:**
 
 ```
@@ -35061,6 +35079,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | â³ | â³ | â³ | â³ | â³ | â³ | â³ |
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
+
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_standing.png) | [📸 View](../../05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_back_view.png) | [📸 View](../../05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_seated.png) | [📸 View](../../05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_side_profile.png) | [📸 View](../../05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_ditzy.png) | [📸 View](../../05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_pov.png) | [📸 View](../../05_Imagenes/ele/look694_neon_fuchsia_sweat_glam/ele_694_odalisque.png) |
 
 **1. Standing:**
 
@@ -35129,6 +35153,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
 
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_standing.png) | [📸 View](../../05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_back_view.png) | [📸 View](../../05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_seated.png) | [📸 View](../../05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_side_profile.png) | [📸 View](../../05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_ditzy.png) | [📸 View](../../05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_pov.png) | [📸 View](../../05_Imagenes/ele/look695_dusty_rose_athletic_skort/ele_695_odalisque.png) |
+
 **1. Standing:**
 
 ```
@@ -35196,6 +35226,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
 
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look696_champagne_pink_liquid_escort/ele_696_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+
 **1. Standing:**
 
 ```
@@ -35262,6 +35298,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | â³ | â³ | â³ | â³ | â³ | â³ | â³ |
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
+
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_standing.png) | [📸 View](../../05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_back_view.png) | [📸 View](../../05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_seated.png) | [📸 View](../../05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_side_profile.png) | [📸 View](../../05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_ditzy.png) | [📸 View](../../05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_pov.png) | [📸 View](../../05_Imagenes/ele/look697_raspberry_pink_latex_siren/ele_697_odalisque.png) |
 
 **1. Standing:**
 
@@ -35397,6 +35439,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
 
+### 📸 Imágenes (7/7 — Materializado)
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_standing.png) | [📸 View](../../05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_back_view.png) | [📸 View](../../05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_seated.png) | [📸 View](../../05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_side_profile.png) | [📸 View](../../05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_ditzy.png) | [📸 View](../../05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_pov.png) | [📸 View](../../05_Imagenes/ele/look699_baby_pink_pvc_tease/ele_699_odalisque.png) |
+
 **1. Standing:**
 
 ```
@@ -35463,6 +35511,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | â³ | â³ | â³ | â³ | â³ | â³ | â³ |
 
 ### ðŸ“ Prompts V3.5 Hard-Sync (poses rotadas con pose_rotation_v5 Â· Side Profile reparado)
+
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+
+| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [📸 View](../../05_Imagenes/ele/look700_cerise_sequin_all_nighter/ele_700_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look700_cerise_sequin_all_nighter/ele_700_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **1. Standing:**
 
