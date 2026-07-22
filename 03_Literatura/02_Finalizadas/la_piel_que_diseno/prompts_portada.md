@@ -1,5 +1,9 @@
 # La Piel que Diseñé — Tags y Prompts de Portada
 
+> 📕 **Calibración Wattpad (22/07/2026):** las reglas verificadas viven en `07_Recursos/guia_publicacion_wattpad.md`.
+> Lo que manda sobre estos prompts: **prohibida la exposición completa de genitales, pechos y glúteos** en cualquier imagen (portada o inline) — Wattpad borra la portada sin aviso. Los prompts de abajo visten a la figura siempre.
+> ⚠️ El **Cap 3 (v1)** dice *"leaving the bottom edge of her glute exposed"*: eso es exactamente lo que la regla prohíbe. **No usar ese prompt para Wattpad** hasta corregirlo (basta con bajar el ruedo del hot pants y quitar la línea).
+
 ---
 
 ## Tags
@@ -102,3 +106,69 @@ TYPOGRAPHY (rendered in image): At the top, elegant serif in deep gold, legible 
 
 Mood: identity dissolved, the body that knows what it wants and the mind that stopped arguing, the morning after the last wall came down. Photo-realistic, intimate, warm editorial, 8k.
 ```
+
+---
+---
+
+# 🆕 v2 — Wattpad Ready (22/07/2026)
+
+> **Notas técnicas antes de generar (leer, ahorra reintentos):**
+> 1. **Gemini no genera 2:3 ni 3:1 nativo.** Pedir **3:4** para la portada y **16:9** para el banner, y recortar después. Por eso ambos prompts dicen dónde dejar el aire.
+> 2. **Los acentos se rompen.** Gemini escribe mal `Diseñé`, `ANAÏS` y `Capítulo` (la diéresis es la que más falla). Cada prompt trae al final una **VARIANTE SIN TEXTO** — si el título sale con la ñ o la ï deformada, se genera limpio y se compone la tipografía encima.
+> 3. **Regla dura de Wattpad:** nada de pezón, glúteo completo ni entrepierna. Los dos prompts la cumplen y la repiten al cierre para que el generador no improvise.
+
+---
+
+## 📕 PORTADA — «La Piel que Diseñé» (512 × 800 · generar en 3:4)
+
+```
+Book cover, portrait vertical. Erotic literary novel cover, psychological and sensual, high contrast. Deep mahogany-black background, warm amber chiaroscuro, heavy shadow in the corners. Simple composition — one figure, one mirror, almost nothing else, so it reads clearly at thumbnail size.
+
+FIGURE (centered, upper two thirds): A glamorous woman stands facing a tall floor mirror, her body angled three-quarters away from the viewer, one hand pressed flat against the glass, palm open, fingers spread — long pearl-nude nails against the reflective surface. Her face is turned back over her shoulder toward the viewer, and the expression is the whole point: not seductive, not frightened — recognizing. Too aware. The look of someone identifying their own handwriting on an old page. Blonde catalogue waves fall over one shoulder. She wears a bone-colored silk camisole with thin straps, mid-thigh length, fully covering the chest and hips — the silk catches the amber light along the curve of the heavy augmented bust and the narrow waist. A small white-gold navel jewel with a clear stone catches one point of light at her stomach.
+
+MIRROR: her reflection is visible but slightly wrong — the reflected face looks back at her a fraction too directly, as if the person inside the glass were the one doing the watching.
+
+BACKGROUND: a man's bedroom reduced to one object — a heavy men's watch lying face-down on a dark dresser, catching a single amber highlight. Everything else dissolves into shadow.
+
+TYPOGRAPHY (rendered in image, high contrast over the dark lower area): Title in elegant deep-gold serif, two lines, large and legible at 256px wide: "La Piel" / "que Diseñé". A thin horizontal warm-gold rule immediately below the title. At the very bottom, small-caps warm gold, smaller: "ANAÏS BELLAND".
+
+COMPOSITION NOTE: leave the bottom 30% darker and uncluttered for the typography; keep the figure and the mirror centered so a 2:3 crop from a 3:4 frame loses nothing.
+
+Photo-realistic, hyper-polished editorial, 8k, cinematic lighting.
+
+STRICTLY: fully clothed, silk camisole covering breasts and hips at all times. No nudity, no exposed nipples, no exposed buttocks, no visible genitals, no transparent fabric, no sexual act. Elegant and suggestive, never explicit.
+```
+
+**VARIANTE SIN TEXTO** — misma receta, reemplazar el bloque TYPOGRAPHY por:
+`No text, no lettering, no title, no watermark anywhere in the image. Leave the bottom 30% of the frame as clean dark negative space for typography to be added later.`
+
+---
+
+## 🎞️ BANNER — Capítulo 1 «El Despertar» (1280 × 720 · generar en 16:9, recortable a 1200 × 400)
+
+> El banner va **arriba del texto de la parte**, como *header image* del capítulo (máx. 20 imágenes por parte, < 10 MB, JPG/PNG).
+> La escena elegida es la única del capítulo que es horizontal por naturaleza: **ella al borde de la cama, él en el marco de la puerta**, y todo el ancho del cuarto entre los dos. La distancia *es* el tema.
+
+```
+Wide cinematic banner, horizontal 16:9, letterbox composition. Erotic literary chapter header. Cold dawn light entering from the left, long shadows across the floor, muted blue-grey with warm amber creeping in at the edges. Wide shot of a high-ceiling bedroom, camera at seated height, both figures small in the frame — the empty space between them is the subject.
+
+LEFT THIRD: A glamorous woman sits on the edge of an unmade bed, knees pressed together, shoulders curved inward, one hand flat against her own chest over a bone-colored silk camisole that covers her fully to mid-thigh. Blonde hair loose and tangled from sleep. Long pearl-nude nails. Her head is up, her eyes fixed across the room, and the expression is pure panic held very still. A small white-gold navel jewel catches the dawn light at the hem's edge. Beside her the other half of the bed is flat, cold, undented.
+
+RIGHT THIRD: A tall man leans in the open doorway, out of focus but readable — dark open shirt over bare chest, barefoot, one hand in his trouser pocket, weight loaded on a single hip, head tilted, watching her with unhurried curiosity. He stands like someone still learning how to use the body he is standing in.
+
+CENTER: empty floor. Cold morning light. A closet mirror on the far wall catches both of them at once, small, in the same reflection.
+
+FOREGROUND DETAIL (left edge, sharp): a nightstand with a plain men's watch and a phone face-up, screen lit, asking for a fingerprint.
+
+TYPOGRAPHY (rendered in image, centered in the empty middle, over the dark floor): elegant deep-gold serif, small and refined, not dominant: "Capítulo 1 — El Despertar". A thin warm-gold rule beneath it. Bottom right corner, tiny small-caps warm gold: "LA VOÛTE D'ANAÏS".
+
+COMPOSITION NOTE: keep both figures and all typography inside the central horizontal band of the frame — the top and bottom 20% must be empty floor and ceiling so the image can be cropped to a 3:1 letterbox banner without losing anything.
+
+Photo-realistic, cinematic, muted editorial color grade, 8k.
+
+STRICTLY: both figures fully clothed. No nudity, no exposed nipples, no exposed buttocks, no visible genitals, no sexual act, no physical contact between the figures. Tension and distance only.
+```
+
+**VARIANTE SIN TEXTO** — reemplazar el bloque TYPOGRAPHY por:
+`No text, no lettering, no title, no watermark anywhere in the image. Keep the central floor area clean and dark for typography to be added later.`
+
