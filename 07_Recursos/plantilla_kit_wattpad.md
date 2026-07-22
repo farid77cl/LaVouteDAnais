@@ -19,6 +19,21 @@
 
 1. ⛔ **Sin piel:** prohibida la exposición completa de genitales, pechos y glúteos, y toda representación de acto sexual. Wattpad borra la imagen sin aviso. **Esto deroga el canon visual de Ele para portadas** — la lente fetish vive en material, silueta y luz, nunca en piel.
 2. **Cerrar SIEMPRE cada prompt** con: `STRICTLY: fully clothed. No nudity, no exposed nipples, no exposed buttocks, no visible genitals, no sexual act.` + una frase de lo que sí es la imagen.
+
+### 👗 GARMENT_DECLARED — la prenda se declara SOBRE el cuerpo (aprendido en producción 22/07/2026)
+
+**El caso:** la portada del Cap 1 de «De Esteban a Secretaria» salió **en topless**. El prompt decía *"her shoulders are bare; the upper chest is visible"* y describía un corsé que **unas manos ajenas apretaban** — pero nunca dijo que ella lo llevara puesto. La IA hizo lo literal: dejó el torso desnudo y **puso el corsé en un cuerpo aparte** al costado del cuadro.
+
+- ✅ `SHE IS WEARING a [prenda] — worn on her body, closed, opaque — covering [zona] completely from [borde alto] to [borde bajo].`
+- ❌ `her shoulders are bare` · `the upper chest is visible` · `a corset at her waist` (¿de quién?) · cualquier prenda mencionada sin verbo que la ponga sobre alguien.
+- **La línea `STRICTLY` NO alcanza sola.** El negativo es segunda capa: si el positivo no viste a la figura, la IA la desnuda igual. Misma lección que el motor visual de Ele (`ancla afirmativa en el positive`).
+- **Segundo personaje = solo manos.** `only a pair of FOREARMS AND HANDS enters the frame — no face, no head, no torso, no second body`. Sin ese candado la IA le fabrica un cuerpo entero y arruina la composición.
+- **Espejos:** declarar **a quién** reflejan (`the mirror reflects HER OWN back — the same woman; no other person in the glass`), o aparece un personaje inventado.
+- **Asimetrías** (medio rostro maquillado, un guante, un zapato): nombrar **izquierda y derecha** explícitamente y decir `this asymmetry must be obvious`. Si no, la IA promedia y las hace iguales.
+
+### 🔤 El texto largo es una lotería
+
+La misma portada salió con el título escrito **«Secretaia»** — se comió una letra de una palabra de diez. Regla: **el default es generar SIN texto** (`NO TEXT ANYWHERE… every object label blank`) y componer la tipografía después. Si se pide texto renderizado, **una sola línea corta** y revisarla letra por letra antes de subirla. Agregar siempre `every label blank` o los objetos de la escena traen palabras inventadas.
 3. **El banner se elige por forma, no por calor:** la escena horizontal por naturaleza (dos figuras separadas por el ancho de una pieza, un escenario visto desde el fondo de la sala). La escena más caliente casi nunca es publicable — y casi nunca compone.
 4. **Croplable:** figuras y tipografía dentro de la banda central; 20% superior e inferior vacíos → recorte limpio a 3:1.
 5. **Ratios:** Gemini no hace 2:3 ni 3:1 → **portada en 3:4**, **banner en 16:9**, y se recorta.

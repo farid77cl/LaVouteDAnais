@@ -47,7 +47,40 @@ Mood: heat, ownership, a woman made by another's hands who does not yet know it.
 
 ---
 
-### Capítulo 1 — La Semana
+### Capítulo 1 — La Semana ✅ **v2 (reparado 22/07/2026 — usar ESTE)**
+
+> **Qué falló en la v1** (probada en producción): la figura salió **en topless** —el prompt describía *"shoulders are bare, upper chest visible"* y **nunca declaró una prenda sobre el cuerpo**, así que la IA no le puso ninguna—; el corsé apareció **en un torso aparte** a la izquierda porque *"a second woman's hands… at her waist"* no ancla quién lo lleva puesto; el espejo inventó **una tercera mujer**; los dos ojos salieron maquillados igual; el frasco trajo una etiqueta con **texto inventado**; y el título salió escrito **«Secretaia»**.
+>
+> **Las tres lecciones, aplicadas abajo:** (1) la prenda se declara **sobre el cuerpo** con verbo — `SHE IS WEARING X, worn and closed, covering Y` — nunca por implicación; (2) el segundo personaje se limita a **manos y antebrazos, sin torso ni cabeza**, o la IA le fabrica un cuerpo entero; (3) **el texto largo es una lotería** — la variante sin texto es la que se usa.
+
+```
+Book cover, portrait vertical (2:3 ratio). Erotic literary novel cover, sensual, intimate and tasteful. Warm chiaroscuro, deep caoba and cream tones, single warm vanity light from the left. ONE SINGLE FEMALE SUBJECT in the frame.
+
+FIGURE (centered): A glamorous woman sits on a low stool at a vintage vanity, turned three-quarters toward the camera. SHE IS WEARING a steel-boned ivory corset — worn on her body, closed, opaque, fully laced — covering her torso completely from just below the armpits down over the hips. Above the corset only her shoulders, collarbone and arms are bare. The corset is ON HER, not held up, not beside her, not on a mannequin.
+
+HER FACE IS DELIBERATELY HALF-FINISHED, and the asymmetry must be obvious at a glance: her LEFT eye is fully made up with a sharp black cat-eye flick and heavy false lashes; her RIGHT eye is completely undone — no liner, no shadow, no mascara, bare skin, slightly wide. Dark red lips, slightly parted. Caramel hair loose and half-styled, one strand fallen across the cheek.
+
+THE OTHER PERSON: from behind her, only a pair of elegant feminine FOREARMS AND HANDS enters the frame, gripping the corset laces at her back and pulling them tight. No face, no head, no torso, no shoulders, no second body — only the arms.
+
+MIRROR: the vanity mirror behind her reflects HER OWN BACK — the same woman, the laced corset, the same hair. No other person appears in the glass.
+
+EDGES: left — a man's dark suit jacket over the back of the chair, a plain men's wristwatch lying face-down on the seat; right — a small lilac candle jar with a completely BLANK label, sheer nude stockings spilling over the edge of the vanity, one black stiletto tipped on its side on the parquet.
+
+NO TEXT ANYWHERE in the image: no title, no lettering, no watermark, no writing on the candle jar or any object — every label blank. Leave the top 25% as calm dark negative space for typography to be added later.
+
+Mood: transformation in progress, intimacy charged with desire, the body learning something the mind hasn't admitted yet. Photo-realistic, high-fashion editorial, 8k.
+
+STRICTLY: fully clothed in the corset at all times. No nudity, no topless, no bare chest, no exposed nipples, no exposed buttocks, no visible genitals, no sheer or transparent fabric over the chest, no sexual act. One subject only — no duplicate body, no extra limbs.
+```
+
+**Tipografía (componer después, no pedírsela a la IA):** título `De Esteban a Secretaria` en serif dorada arriba, filete fino debajo, `Capítulo 1 · La Semana` en cursiva menor, y `ANAÏS BELLAND` en small-caps al pie.
+
+**Si igual la quiere con texto renderizado**, reemplazar el bloque `NO TEXT ANYWHERE` por una sola línea corta — mientras menos letras, menos lotería:
+`TYPOGRAPHY: at the top, elegant deep-gold serif, one single line, large and clean: "De Esteban a Secretaria". Nothing else written anywhere in the image; every object label blank.`
+…y revisar letra por letra antes de subirla.
+
+<details>
+<summary>📦 v1 retirada (produjo topless + corsé huérfano + «Secretaia») — no usar</summary>
 
 ```
 Book cover, portrait vertical (2:3 ratio). Erotic literary novel cover aesthetic, sensual and intimate. Warm chiaroscuro lighting, deep caoba and cream tones.
@@ -60,6 +93,7 @@ TYPOGRAPHY (rendered in image): At the top, elegant serif in warm cream or deep 
 
 Mood: transformation in progress, intimacy charged with desire, the body learning something the mind hasn't admitted yet. Photo-realistic, high-fashion editorial, 8k.
 ```
+</details>
 
 ---
 
@@ -94,7 +128,7 @@ Mood: arrival, desire, the moment of discovery, the triangle closing around her.
 ```
 Wide cinematic banner, horizontal 16:9, letterbox composition. Erotic literary chapter header. A Santiago apartment bedroom at dusk, warm amber vanity light pooling in the center of the frame, the edges falling into deep caoba shadow.
 
-CENTER: A person sits on a low stool at a vintage vanity, seen in three-quarter view, shoulders bare above a steel-boned ivory corset. The face is caught mid-transformation: one eye finished with a sharp cat-eye and heavy lashes, the other still bare and slightly wide. Dark red lips, parted. Caramel hair loose and half-styled, one strand across the cheek. The hands rest on the thighs, palms up, still. Behind, a second woman stands — face out of frame, only her torso and her elegant hands visible — pulling the corset laces tight with an unhurried grip. The seated figure's spine straightens under the pull.
+CENTER: A person sits on a low stool at a vintage vanity, seen in three-quarter view. THEY ARE WEARING a steel-boned ivory corset — worn on the body, closed, opaque, fully laced — covering the torso completely from just below the armpits down over the hips; only the shoulders, collarbone and arms are bare above it. The face is caught mid-transformation, and the asymmetry must be obvious: the LEFT eye is finished with a sharp cat-eye and heavy lashes, the RIGHT eye is completely undone — no liner, no shadow, bare skin, slightly wide. Dark red lips, parted. Caramel hair loose and half-styled, one strand across the cheek. The hands rest on the thighs, palms up, still. From behind, only a pair of elegant feminine FOREARMS AND HANDS enters the frame — no face, no head, no torso, no second body — pulling the corset laces tight with an unhurried grip. The seated figure's spine straightens under the pull.
 
 LEFT THIRD (what is being left): a man's dark suit jacket crumpled over a chair, a plain wristwatch face-down, a pair of worn men's sneakers, an unpaid bill on the floor. Cold blue light.
 
