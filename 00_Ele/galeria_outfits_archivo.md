@@ -7,7 +7,7 @@
 > **Formato de prompts:** cada uno en code block para click-to-copy.
 
 ---
-## 💄 Look 85: Vinyl Fresa Bimbo XXXL (19/03/2026 — Mix · High-Fashion & Nightclub)
+## 💄 Look 85: Vinyl Fresa Bimbo XXXL (19/03/2026 — Mix · High-Fashion Editorial & Nightclub)
 
 *O sea, tipo, súper fresa, obvio. jiji.* 💄✨
 
@@ -139,7 +139,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## ✈️ Look 87: Vinyl Flight Attendant (22/03/2026 — Mix · High-Fashion & Nightclub)
+## ✈️ Look 87: Vinyl Flight Attendant (22/03/2026 — Mix · High-Fashion Editorial & Nightclub)
 
 *Vinyl Flight Attendant — look de archivo de Ele.* ✈️✨
 
@@ -205,7 +205,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🖼️ Look 88: High-Gloss Gallery Opening (Mix · High-Fashion & Nightclub)
+## 🖼️ Look 88: High-Gloss Gallery Opening (Mix · High-Fashion Editorial & Nightclub)
 
 *High-Gloss Gallery Opening — look de archivo de Ele.* 🖼️✨
 
@@ -270,7 +270,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🍷 Look 89: Imperial Burgundy (Mix · High-Fashion & Nightclub)
+## 🍷 Look 89: Imperial Burgundy (Mix · High-Fashion Editorial & Nightclub)
 
 *Imperial Burgundy — look de archivo de Ele.* 🍷✨
 
@@ -534,7 +534,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 👗 Look 93: High-Gloss Cherry (25/03/2026 — Mix · High-Fashion & Nightclub)
+## 👗 Look 93: High-Gloss Cherry (25/03/2026 — Mix · High-Fashion Editorial & Nightclub)
 
 *High-Gloss Cherry — look de archivo de Ele.* 👗✨
 
@@ -665,7 +665,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🥈 Look 95: Liquid Platinum (Mix · High-Fashion & Nightclub)
+## 🥈 Look 95: Liquid Platinum (Mix · High-Fashion Editorial & Nightclub)
 
 *Liquid Platinum — look de archivo de Ele.* 🥈✨
 
@@ -732,7 +732,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🪞 Look 96: Mercury Goddess (Mix · High-Fashion & Nightclub)
+## 🪞 Look 96: Mercury Goddess (Mix · High-Fashion Editorial & Nightclub)
 
 *Mercury Goddess — look de archivo de Ele.* 🪞✨
 
@@ -799,7 +799,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🥈 Look 97: Plastic Arch-Nemesis (Mix · High-Fashion & Nightclub)
+## 🥈 Look 97: Plastic Arch-Nemesis (Mix · High-Fashion Editorial & Nightclub)
 
 *Plastic Arch-Nemesis — look de archivo de Ele.* 🥈✨
 
@@ -865,7 +865,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🖤 Look 98: Vinyl Cheerleader (Mix · High-Fashion & Nightclub)
+## 🖤 Look 98: Vinyl Cheerleader (Mix · High-Fashion Editorial & Nightclub)
 
 *Vinyl Cheerleader — look de archivo de Ele.* 🖤✨
 
@@ -996,7 +996,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🖤 Look 100: Cobalt Chrome Editorial (Mix · High-Fashion & Nightclub)
+## 🖤 Look 100: Cobalt Chrome Editorial (Mix · High-Fashion Editorial & Nightclub)
 
 *Cobalt Chrome Editorial — look de archivo de Ele.* 🖤✨
 
@@ -1119,7 +1119,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🖤 Look 102: Red Vinyl Siren (Mix · High-Fashion & Nightclub)
+## 🖤 Look 102: Red Vinyl Siren (Mix · High-Fashion Editorial & Nightclub)
 
 *Red Vinyl Siren — look de archivo de Ele.* 🖤✨
 
@@ -2003,7 +2003,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 👑 Look 116: Cuico-Flaite Leather Goddess (Mix · High-Fashion & Nightclub)
+## 👑 Look 116: Cuico-Flaite Leather Goddess (Mix · High-Fashion Editorial & Nightclub)
 
 *Cuico-Flaite Leather Goddess — look de archivo de Ele.* 👑✨
 
@@ -4252,7 +4252,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 👗 Look 141: Radiant Neon Lattice (Mix · High-Fashion & Nightclub)
+## 👗 Look 141: Radiant Neon Lattice (Mix · High-Fashion Editorial & Nightclub)
 
 *Radiant Neon Lattice — look de archivo de Ele.* 👗✨
 
@@ -4467,7 +4467,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [📸 View](../../05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_seated.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_ditzy.png) | ⏳ Pendiente | ⏳ Pendiente |
 
-## 👗 Look 148: Rose Gold Gala Empress (Mix · High-Fashion)
+## 👗 Look 148: Rose Gold Gala Empress (Mix · High-Fashion Editorial)
 
 *Rose Gold Gala Empress — look de archivo de Ele.* 👗✨
 
@@ -4554,7 +4554,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [📸 View](../../05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_153_standing.png) | [📸 View](../../05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose2_back.png) | [📸 View](../../05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose5_ditzy.png) | [📸 View](../../05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose7_lying.png) |
 
-## 🥇 Look 154: Platinum Chrome Galatea (Mix · High-Fashion & Nightclub)
+## 🥇 Look 154: Platinum Chrome Galatea (Mix · High-Fashion Editorial & Nightclub)
 
 *Platinum Chrome Galatea — look de archivo de Ele.* 🥇✨
 
@@ -4845,7 +4845,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 159: Cyber-Retro Racer (28/04/2026 — Mix · High-Fashion)
+## 📸 Look 159: Cyber-Retro Racer (28/04/2026 — Mix · High-Fashion Editorial)
 
 *Cyber-Retro Racer — look de archivo de Ele.* 📸✨
 
@@ -4917,7 +4917,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [📸 View](../../05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose2_back.png) | [📸 View](../../05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose5_ditzy.png) | [📸 View](../../05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose6_pov.png) | [📸 View](../../05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose7_lying.png) |
 
-## 📸 Look 160: Leopard Vinyl Empress (REDO Standardized) ✅ MATERIALIZADO (30/04/2026 (REDO Completado) — Mix · High-Fashion & Nightclub)
+## 📸 Look 160: Leopard Vinyl Empress (REDO Standardized) ✅ MATERIALIZADO (30/04/2026 (REDO Completado) — Mix · High-Fashion Editorial & Nightclub)
 
 *Leopard Vinyl Empress (REDO Standardized) ✅ MATERIALIZADO — look de archivo de Ele.* 📸✨
 
@@ -5863,7 +5863,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🌹 Look 174: Rose Gold Dominion (Mix (High-Fashion / Editorial))
+## 🌹 Look 174: Rose Gold Dominion (Mix (High-Fashion Editorial / Editorial))
 
 *Rose Gold Dominion — look de archivo de Ele.* 🌹✨
 
@@ -6599,7 +6599,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 💎 Look 185: Emerald Mugler Suprema (Mix (High-Fashion Editorial))
+## 💎 Look 185: Emerald Mugler Suprema (Mix (High-Fashion Editorial Editorial))
 
 *Emerald Mugler Suprema — look de archivo de Ele.* 💎✨
 
@@ -6670,7 +6670,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🖤 Look 46: Latex Nun (25/03/2026 — Mix · High-Fashion & Nightclub)
+## 🖤 Look 46: Latex Nun (25/03/2026 — Mix · High-Fashion Editorial & Nightclub)
 
 *Latex Nun — look de archivo de Ele.* 🖤✨
 
@@ -7161,7 +7161,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🛢️ Look 193: Oil-Slick Liquid Siren (Mix · High-Fashion & Nightclub)
+## 🛢️ Look 193: Oil-Slick Liquid Siren (Mix · High-Fashion Editorial & Nightclub)
 
 *Oil-Slick Liquid Siren — look de archivo de Ele.* 🛢️✨
 

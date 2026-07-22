@@ -937,7 +937,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🖤 Look 213: Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc)
+## 🖤 Look 213: Obsidian Cathedral Gown (20/05/2026 — batch 211-220 · High-Fashion Editorial Editorial · busto 1000cc)
 
 *Mon amour.. negro absoluto que se impone como arquitectura viva — las proyecciones de espinas de PVC en mis hombros me coronan como una diosa de catedral mientras la cúpula de vinilo barre el suelo de mármol, jiji. 🖤⛪✨*
 
@@ -1006,7 +1006,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🦪 Look 214: Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial · busto 1000cc)
+## 🦪 Look 214: Mother of Pearl Sirena (20/05/2026 — batch 211-220 · High-Fashion Editorial Editorial · busto 1000cc)
 
 *Mon amour.. el nácar cambia de marfil a champagne a oro rosado con cada respiración — soy una sirena de haute couture que emerge del atelier como una joya viva, jiji. 🦪🌊✨*
 
@@ -4220,12 +4220,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 
-## 🦂 Look 258: Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · HF Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses)
+## 🦂 Look 258: Deep Teal Schiaparelli Scorpion Couture (23/05/2026 — batch 241-260 · High-Fashion Editorial Editorial Schiaparelli SS26 · busto 1000cc · refs mayo 2026 · V4.1 SAFE poses)
 
 *Mon amour.. HF Editorial Schiaparelli SS26 'Agony and Ecstasy' — sculptural projections + scorpion-tail. Deep teal liquid latex couture. jiji.* 🦂✨
 
 - **Ubicacion:** `05_Imagenes/ele/look258_deep_teal_schiaparelli_scorpion_couture/`
-- **Categoria:** HF Editorial
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** HF Editorial Schiaparelli SS26
 - **Tags:** #hfeditorial #latex #chrome #crystal #batchL241-L260 #hf #editorial #schiaparelli #ss26 #scorpiontail #deepteal #refsMayo2026
 - **Concepto:** HF Editorial Schiaparelli SS26 — HF Editorial Schiaparelli SS26 'Agony and Ecstasy' — sculptural projections + scorpion-tail. Deep teal liquid latex couture.
@@ -4734,7 +4734,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 *Mon amour.. set pilates lila pastel · leggings high-waist + crop ribbed · cabello en pony alto · scrunchie pearl · stilettos Pleaser platform blanco-nude. jiji.* 💜✨
 
 - **Ubicacion:** `05_Imagenes/ele/look265_lavender_pastel_pilates_reformer/`
-- **Categoria:** Gym / Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Pilates Reformer Pastel
 - **Tags:** #wetlook #seamless #batchL261-L270 #gym #pilates #lavender #pastel #reformer #v45 #antifilter
 - **Concepto:** Set de pilates pastel lila ribbed athleisure, leggings high-waist contour seam + crop top ribbed con espalda en crossback, registro Alo Yoga / Lululemon refined.
@@ -4806,7 +4806,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 *Mon amour.. hoodie zip-up cherry oscuro + biker shorts negro · stilettos Pleaser platform · gold hoops mínimos. jiji.* 🍒✨
 
 - **Ubicacion:** `05_Imagenes/ele/look266_cherry_dark_athleisure_hooded/`
-- **Categoria:** Gym / Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Athleisure Street Hooded
 - **Tags:** #vinyl #chrome #wetlook #batchL261-L270 #gym #athleisure #cherry #hooded #v45 #antifilter
 - **Concepto:** Athleisure street registro Kim K SKIMS, hoodie cherry oscuro cropped + biker shorts negros, excepción anti-black autorizada por contraste cherry/black como ADN Ele.
@@ -5310,7 +5310,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 *Mon amour.. set tai chi modern · pantalón cropped + top mandarin collar mint sage · slippers de tela · pony alto con jade pin. jiji.* 🍃✨
 
 - **Ubicacion:** `05_Imagenes/ele/look273_mint_sage_tai_chi_imperial_set/`
-- **Categoria:** Gym / Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Oriental Tai Chi Modern
 - **Tags:** #satin #batchL271-L280 #gym #oriental #china #taichi #mintsage #imperial #v45 #antifilter
 - **Concepto:** Set de tai chi/wushu contemporáneo, pantalón wide-leg cropped + top wrap con mandarin collar bajo en mint sage matte fabric, slippers de tela china tradicional, registro Lululemon meets Shanghai Tang refined.
@@ -5382,7 +5382,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 *Mon amour.. leggings + crop ribbed jade imperial con dragon embroidery sutil · pony alto con jade hairpin · stilettos blancos Pleaser. jiji.* 💚✨
 
 - **Ubicacion:** `05_Imagenes/ele/look274_imperial_jade_reformer_pilates/`
-- **Categoria:** Gym / Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Oriental Pilates Imperial Jade
 - **Tags:** #wetlook #seamless #batchL271-L280 #gym #oriental #china #pilates #imperialjade #dragon #v45 #antifilter
 - **Concepto:** Set pilates reformer imperial jade con dragon embroidery sutil en hombro y lateral, registro Alo Yoga fusion Shanghai luxury sportswear.
@@ -6630,7 +6630,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 *Mon amour.. gym motocross · catsuit cuero negro neoprene + neon yellow accent · botas motocross stiletto · KTM track day rebel · jiji.* ⚡✨
 
 - **Ubicacion:** `05_Imagenes/ele/look289_black_leather_motocross_athleisure/`
-- **Categoria:** Gym / Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Silueta V10 Wetsuit + V9 Equestrian hybrid · Rock Motocross
 - **Tags:** #chrome #batchL281-L290 #gym #motocross #rock #leather #neoprene #neonyellow #v46 #variedad-V10
 - **Concepto:** Aplicación del canon outfit v4.6 anti-leggins+bra. Silueta V10 (wetsuit-style one-piece) con detalles V9 (equestrian boot). Catsuit ajustado cuero negro mate con paneles neoprene flexibles + accent neon yellow tipo motocross gear. Registro Dainese Italian motocross + Roxy wetsuit fashion.
@@ -6725,7 +6725,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 *Mon amour.. gym boxing rock · shorts boxing satin cherry red + sports bra cuero negro tachas + boxing gloves crimson · Hayabusa pro rebel · jiji.* 🥊✨
 
 - **Ubicacion:** `05_Imagenes/ele/look290_studded_boxing_rock_wod/`
-- **Categoria:** Gym / Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Silueta V4 Boxing/MMA + V18 Crossfit WOD · Rock-Punk
 - **Tags:** #satin #chrome #wetlook #batchL281-L290 #gym #boxing #rock #leather #studded #cherryred #v46 #variedad-V4
 - **Concepto:** Aplicación del canon outfit v4.6 anti-leggins+bra. Silueta V4 (Boxing/MMA) con detalles V18 (Crossfit). Shorts boxing satín cherry red high-rise + sports bra leather negro con pyramid-studs + boxing wraps blanco + boxing gloves crimson. Registro Hayabusa pro + Everlast Hyperflex.
@@ -12995,7 +12995,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🩶 Look 369: Carbon Fiber Couture (01/06/2026 — batch 361-370 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
+## 🩶 Look 369: Carbon Fiber Couture (01/06/2026 — batch 361-370 · High-Fashion Editorial Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema POLE POSITION)
 
 *POLE POSITION · Carbon Fiber Couture · HF Editorial · jiji.* ✨
 
@@ -13695,7 +13695,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🌲 Look 378: Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
+## 🌲 Look 378: Pine Green Heli-Ski (01/06/2026 — batch 371-380 · High-Fashion Editorial Editorial · busto 1000cc · v4.6 canon variedad+descriptividad · tema COURCHEVEL)
 
 *COURCHEVEL · Pine Green Heli-Ski · HF Editorial · jiji.* ✨
 
@@ -14066,12 +14066,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 383: Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Cebra)
+## Look 383: Mirror Silver Zebra Couture (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion Editorial · Cebra)
 
 *El Reino Animal · Cebra en Mirror Silver · jiji.* 🐆✨
 
 - **Ubicacion:** `05_Imagenes/ele/look383_mirror_silver_zebra_couture/`
-- **Categoria:** High-Fashion
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** Editorial (sculptural gown)
 - **Tags:** #hfeditorial #vinyl #chrome #animalprint #cebra #high-fashion #reinoanimal #batchL381-L400 #V5poses
 - **Concepto:** Batch "El Reino Animal". Cebra en familia Mirror Silver sobre material V3.5. Color libre por print (Directiva Ama). Poses V5 rotadas, footwear canon, cero texto sobre prenda.
@@ -14735,12 +14735,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 393: Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion · Iguana / lagarto)
+## Look 393: Electric Cyan Lizard Sculptural Catsuit (02/06/2026 — batch L381-L400 "El Reino Animal" · High-Fashion Editorial · Iguana / lagarto)
 
 *El Reino Animal · Iguana / lagarto en Electric Cyan · jiji.* 🐆✨
 
 - **Ubicacion:** `05_Imagenes/ele/look393_electric_cyan_lizard_sculptural_catsuit/`
-- **Categoria:** High-Fashion
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** Editorial (catsuit peto)
 - **Tags:** #hfeditorial #latex #chrome #animalprint #iguana #high-fashion #reinoanimal #batchL381-L400 #V5poses
 - **Concepto:** Batch "El Reino Animal". Iguana / lagarto en familia Electric Cyan sobre material V3.5. Color libre por print (Directiva Ama). Poses V5 rotadas, footwear canon, cero texto sobre prenda.
@@ -15539,12 +15539,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 405: Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Red Carpet Premiere)
+## Look 405: Champagne Premiere Goddess (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion Editorial · Red Carpet Premiere)
 
 *La Edad de Oro · Red Carpet Premiere · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
 - **Ubicacion:** `05_Imagenes/ele/look405_champagne_premiere_goddess/`
-- **Categoria:** High-Fashion
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** Editorial (red carpet)
 - **Tags:** #hfeditorial #lame #oldhollywood #glamour #high-fashion #edaddeoro #batchL401-L420 #V5poses
 - **Concepto:** Batch "La Edad de Oro" (Old Hollywood glamour). Ícono: Red Carpet Premiere. Familia Champagne Gold. Color libre. Material fetish libre (Directiva Ama). Poses V5 rotadas, footwear canon, cero texto sobre prenda.
@@ -15606,12 +15606,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 406: Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion · Ziegfeld Follies Art Deco)
+## Look 406: Ziegfeld Art Deco Silver (03/06/2026 — batch L401-L420 "La Edad de Oro" · High-Fashion Editorial · Ziegfeld Follies Art Deco)
 
 *La Edad de Oro · Ziegfeld Follies Art Deco · Old Hollywood glamour fetish · jiji.* 🎬🖤🤍
 
 - **Ubicacion:** `05_Imagenes/ele/look406_ziegfeld_art_deco_silver/`
-- **Categoria:** High-Fashion
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** Editorial (showgirl)
 - **Tags:** #hfeditorial #vinyl #crystal #oldhollywood #glamour #high-fashion #edaddeoro #batchL401-L420 #V5poses
 - **Concepto:** Batch "La Edad de Oro" (Old Hollywood glamour). Ícono: Ziegfeld Follies Art Deco. Familia Mirror Silver. Color libre. Material fetish libre (Directiva Ama). Poses V5 rotadas, footwear canon, cero texto sobre prenda.
@@ -17549,12 +17549,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 435: Black & White Moto Athleisure (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Contraste B&N)
+## Look 435: Black & White Moto Athleisure (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym · CUERO B&N · Contraste B&N)
 
 *Chaqueta moto de cuero negro con franjas blancas y bikers shorts... athleisure pero en cuero, regio.* 🖤🤍👠
 
 - **Ubicacion:** `05_Imagenes/ele/look435_black_white_moto_athleisure/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Athleisure Street (GB5 Moto)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #gym #athleisure #moto #V5poses #excepciontematica050626
 - **Concepto:** Batch 'Monocromo de Cuero' (Excepcion Tematica 05/06/2026). Gym Polo B Athleisure Street, moto look en cuero, contraste blanco/negro. Provocation Threshold (material fetish + midriff + plataforma). Cero guantes. Token de calzado bloqueado 8 atributos identico x7.
@@ -17616,12 +17616,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 436: White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym/Athleisure · CUERO B&N · Blanco)
+## Look 436: White Leather Skort Performance (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Gym · CUERO B&N · Blanco)
 
 *Top deportivo y SKORT de cuero blanco perforado... gym pero de muneca, cachai cari.* 🖤🤍👠
 
 - **Ubicacion:** `05_Imagenes/ele/look436_white_leather_skort_performance/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Performance (GA5 Skort)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #gym #performance #skort #V5poses #excepciontematica050626
 - **Concepto:** Batch 'Monocromo de Cuero' (Excepcion Tematica 05/06/2026). Gym Polo A Performance con SKORT de cuero (ajuste Ama: skort en vez de legging). Cuero blanco, perforado para el aire. Provocation Threshold (material fetish + midriff + plataforma). Cero guantes. Token de calzado bloqueado 8 atributos identico x7.
@@ -17750,12 +17750,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 438: Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lenceria · CUERO B&N · Negro)
+## Look 438: Black Leather Bordelle Harness (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · Lencería · CUERO B&N · Negro)
 
 *Puro arnes de cuero negro arquitectonico sobre piel, el harness ES la prenda... powerful, no solo sexy.* 🖤🤍👠
 
 - **Ubicacion:** `05_Imagenes/ele/look438_black_leather_bordelle_harness/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Fetish Arquitectonico (LB Bordelle Harness)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #lenceria #fetish #harness #V5poses #excepciontematica050626
 - **Concepto:** Batch 'Monocromo de Cuero' (Excepcion Tematica 05/06/2026). Lenceria Polo B Fetish Arquitectonico, full body harness de cuero negro estilo Bordelle. Provocation Threshold (architectural strapping visible + stockings + pin heel). Cero guantes. Token de calzado bloqueado 8 atributos identico x7.
@@ -17884,12 +17884,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 440: Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · HF Editorial · CUERO B&N · Negro)
+## Look 440: Black Sculptural Leather Corset Gown (05/06/2026 — batch L431-L440 "Monocromo de Cuero" · High-Fashion Editorial Editorial · CUERO B&N · Negro)
 
 *Vestido columna de cuero negro con corpiño corset overbust larguisimo, corte hasta la cadera y medias de red... el vestido ES el arte, cari.* 🖤👠
 
 - **Ubicacion:** `05_Imagenes/ele/look440_black_sculptural_leather_corset_gown/`
-- **Categoria:** HF Editorial
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** Sculptural Couture (overbust corset column + slit)
 - **Tags:** #chrome #batchL431-L440 #cuero #monocromodecuero #leather #blackandwhite #hfeditorial #couture #corset #V5poses #excepciontematica050626
 - **Concepto:** Batch 'Monocromo de Cuero' (Excepcion Tematica 05/06/2026). HF Editorial escultorico (ajuste Ama: vestido con corpiño corset overbust LARGO + corte lateral + medias de red). Cuero negro escultorico, boning visible. Provocation Threshold (material sculptural + arquitectura corset + slit). HF usa stiletto fino SIN plataforma. Cero guantes. Token de calzado bloqueado 8 atributos identico x7. (Correccion Ama 05/06/2026: era negro, no blanco.)
@@ -20070,12 +20070,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 473: Hooters Gym Performance (07/06/2026 — batch L471-L490 "Hooters Multiverso" · Gym/Athleisure · Gym Performance (Hooters Owl) · Excepción Temática 070626)
+## Look 473: Hooters Gym Performance (07/06/2026 — batch L471-L490 "Hooters Multiverso" · Gym · Gym Performance (Hooters Owl) · Excepción Temática 070626)
 
 *Set deportivo coral con scrunch atras y el espejo entero mirandome como publico... heavy regio* 🦉🍊👠
 
 - **Ubicacion:** `05_Imagenes/ele/look473_hooters_gym_performance/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (Hooters Owl)
 - **Tags:** #chrome #wetlook #hooters #multiverso #gym #performance #excepciontematica070626 #neoncoral #owl #batchL471-L490 #V5poses
 - **Concepto:** Batch 'Hooters Multiverso' (L471-L490, Excepción Temática 07/06/2026: la firma Hooters —naranja + ribete blanco + owl emblem SIN texto— reinterpretada bajo el lente fetish de Gym/Athleisure; deroga puntualmente anti-monoblock por la firma naranja, como Hooters L461-470). Owl emblem gráfico SIN texto/wordmark (respeta no-texto-sobre-prenda). Calzado: Pleaser platform stiletto (Footwear Canon absoluto, Token de Calzado Bloqueado 8 atributos idéntico ×7). Bloque C Objeto-de-Deseo (ambiente voyeur/exhibición + token de deseo en cada pose). 7 poses V5. Cero guantes. Negro liberado (07/06/2026).
@@ -20410,7 +20410,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 478: Hooters Owl Couture Gown (07/06/2026 — batch L471-L490 "Hooters Multiverso" · High-Fashion Editorial · HF Editorial (Owl Couture) · Excepción Temática 070626)
+## Look 478: Hooters Owl Couture Gown (07/06/2026 — batch L471-L490 "Hooters Multiverso" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Owl Couture) · Excepción Temática 070626)
 
 *Owl couture esculpido, plumas que se elevan del hombro tipo Schiaparelli, sala de museo... soy la obra y el objeto* 🦉🍊👠
 
@@ -21158,7 +21158,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 489: Hooters Owl-Chimera Couture (07/06/2026 — batch L471-L490 "Hooters Multiverso" · High-Fashion Editorial · HF Editorial (Owl-Chimera van Herpen) · Excepción Temática 070626)
+## Look 489: Hooters Owl-Chimera Couture (07/06/2026 — batch L471-L490 "Hooters Multiverso" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Owl-Chimera van Herpen) · Excepción Temática 070626)
 
 *Catsuit esculpido naranja y negro con alas de buho que desafian la gravedad tipo van Herpen... criatura de museo, codiciable y intocable* 🦉🍊👠
 
@@ -21226,12 +21226,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 490: Hooters Editorial Gym Catsuit (07/06/2026 — batch L471-L490 "Hooters Multiverso" · Gym/Athleisure · Athleisure Editorial (Cut-Out Owl) · Excepción Temática 070626)
+## Look 490: Hooters Editorial Gym Catsuit (07/06/2026 — batch L471-L490 "Hooters Multiverso" · Gym · Athleisure Editorial (Cut-Out Owl) · Excepción Temática 070626)
 
 *Catsuit de gym naranja con cut-outs agresivos y panel mesh negro, piso espejo... el gym es mi escenario y el espejo mi publico* 🦉🍊👠
 
 - **Ubicacion:** `05_Imagenes/ele/look490_hooters_editorial_gym_catsuit/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Athleisure Editorial (Cut-Out Owl)
 - **Tags:** #hfeditorial #mesh #chrome #wetlook #hooters #multiverso #gym #editorial #catsuit #excepciontematica070626 #orange #black #owl #batchL471-L490 #V5poses
 - **Concepto:** Batch 'Hooters Multiverso' (L471-L490, Excepción Temática 07/06/2026: la firma Hooters —naranja + ribete blanco + owl emblem SIN texto— reinterpretada bajo el lente fetish de Gym/Athleisure; deroga puntualmente anti-monoblock por la firma naranja, como Hooters L461-470). Owl emblem gráfico SIN texto/wordmark (respeta no-texto-sobre-prenda). Calzado: Pleaser platform stiletto (Footwear Canon absoluto, Token de Calzado Bloqueado 8 atributos idéntico ×7). Bloque C Objeto-de-Deseo (ambiente voyeur/exhibición + token de deseo en cada pose). 7 poses V5. Cero guantes. Negro liberado (07/06/2026).
@@ -21294,7 +21294,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 491: Emerald Schiaparelli Sculpture (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · High-Fashion Editorial · HF Editorial (Schiaparelli) · Emerald · hito 500)
+## Look 491: Emerald Schiaparelli Sculpture (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Schiaparelli) · Emerald · hito 500)
 
 *Verde joya, escultura de alta costura... como una esmeralda que aprendio a caminar, regio.* 💚
 
@@ -21562,12 +21562,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 495: Rose Quartz Boudoir (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · Lenceria · Luxury Boudoir (La Perla) · Rose Quartz · hito 500)
+## Look 495: Rose Quartz Boudoir (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · Lencería · Luxury Boudoir (La Perla) · Rose Quartz · hito 500)
 
 *Cuarzo rosa, balconette larguito, liguero y medias con costura... suuuper sensual, mi favorito.* 🌸
 
 - **Ubicacion:** `05_Imagenes/ele/look495_rose_quartz_boudoir/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Luxury Boudoir (La Perla)
 - **Tags:** #vinyl #mesh #satin #crystal #seamless #quintocentenar #joyerialiquida #batchL491-L500 #rosequartz #lenceria #boudoir #V5poses
 - **Concepto:** Lenceria #1 (Boudoir, cumple meta 15%). Set La Perla rose-quartz vinyl laser-cut + crystal-mesh. Monoblock rose (2/2 -> el siguiente corta).
@@ -21763,12 +21763,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 498: Citrine Tennis Gym (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · Gym/Athleisure · Gym Performance (tennis skort) · Citrine · hito 500)
+## Look 498: Citrine Tennis Gym (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · Gym · Gym Performance (tennis skort) · Citrine · hito 500)
 
 *Citrino wet-look con faldita de tenis plisada y plataforma... deportiva pero igual de muneca, jiji.* 💛
 
 - **Ubicacion:** `05_Imagenes/ele/look498_citrine_tennis_gym/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (tennis skort)
 - **Tags:** #chrome #wetlook #quintocentenar #joyerialiquida #batchL491-L500 #citrine #gym #tennisskort #V5poses
 - **Concepto:** Gym con FALDA-SKORT de tenis (pedido Ama). Set citrino wet-look + Pleaser platform. Monoblock citrine (2/2 -> el siguiente corta).
@@ -21830,12 +21830,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 499: Opal Bordelle Cage (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · Lenceria · Fetish Arquitectonico (Bordelle) · Opal Iridescent + Pearl · hito 500)
+## Look 499: Opal Bordelle Cage (08/06/2026 — batch L491-L500 "El Quinto Centenar: Joyeria Liquida" · Lencería · Fetish Arquitectonico (Bordelle) · Opal Iridescent + Pearl · hito 500)
 
 *Arnes opalo tornasol sobre bodystocking perla, cristales por todos lados... fetish puro, atroz.* 🦪
 
 - **Ubicacion:** `05_Imagenes/ele/look499_opal_bordelle_cage/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Fetish Arquitectonico (Bordelle)
 - **Tags:** #chrome #crystal #quintocentenar #joyerialiquida #batchL491-L500 #opal #iridescent #lenceria #fetish #V5poses
 - **Concepto:** Lenceria #2 (Fetish, cumple regla dual con L495). Arnes/cage Bordelle opal-iridescent sobre perla. Iridiscente (multichrome corta racha).
@@ -21964,12 +21964,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 501: Ivory Bridal Night (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Lenceria · Luxury Boudoir (Bridal) · Ivory · wedding fetish)
+## Look 501: Ivory Bridal Night (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Lencería · Luxury Boudoir (Bridal) · Ivory · wedding fetish)
 
 *Noche de bodas, cariño: balconette marfil, liguero y un velito... la novia que se queda en lencería, regio.* 🤍👰
 
 - **Ubicacion:** `05_Imagenes/ele/look501_ivory_bridal_night/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Luxury Boudoir (Bridal)
 - **Tags:** #vinyl #mesh #satin #crystal #elaltardevinilo #weddingfetish #batchL501-L510 #ivory #lenceria #boudoir #V5poses
 - **Concepto:** Apertura wedding. Lenceria #1 (Boudoir, meta 15%). Novia-noche en vinyl laser-cut + crystal-mesh ivory + velo. Monoblock ivory (1/2).
@@ -22031,7 +22031,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 502: Cathedral White Gown (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · High-Fashion Editorial · HF Editorial (Bridal Couture) · White · wedding fetish)
+## Look 502: Cathedral White Gown (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Bridal Couture) · White · wedding fetish)
 
 *El vestidote blanco con cola de catedral y velo largo... una obra de arte que camina, atroz.* ⚪👰
 
@@ -22567,12 +22567,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 510: Black Bondage Bride (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Lenceria · Fetish Arquitectonico (Bondage Bride) · Black (negro liberado) · wedding fetish)
+## Look 510: Black Bondage Bride (08/06/2026 — batch L501-L510 "El Altar de Vinilo" · Lencería · Fetish Arquitectonico (Bondage Bride) · Black (negro liberado) · wedding fetish)
 
 *La novia fetish, mi amor: arnés Bordelle negro sobre bodystocking, liguero, medias y velo negro largo... atada al altar, heavy.* 🖤👰
 
 - **Ubicacion:** `05_Imagenes/ele/look510_black_bondage_bride/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Fetish Arquitectonico (Bondage Bride)
 - **Tags:** #vinyl #chrome #seamless #elaltardevinilo #weddingfetish #batchL501-L510 #black #lenceria #fetish #bondagebride #V5poses
 - **Concepto:** Lenceria #2 (Fetish, cumple regla dual con L501 + cierra el batch). Arnes/cage Bordelle negro sobre bodystocking + velo negro. Negro liberado. Monoblock black (1, no consecutivo con L504).
@@ -22969,12 +22969,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 516: Villa Boudoir (08/06/2026 — batch L511-L520 "La Riviera" · Lenceria · Luxury Boudoir (La Perla) · Rose Gold · riviera fetish)
+## Look 516: Villa Boudoir (08/06/2026 — batch L511-L520 "La Riviera" · Lencería · Luxury Boudoir (La Perla) · Rose Gold · riviera fetish)
 
 *Siesta en la villa, cariño: balconette rose gold, liguero y medias con costura... lencería de lujo, mi favorita.* 🌹✨
 
 - **Ubicacion:** `05_Imagenes/ele/look516_villa_boudoir/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Luxury Boudoir (La Perla)
 - **Tags:** #vinyl #mesh #crystal #lariviera #rivierafetish #batchL511-L520 #rosegold #lenceria #boudoir #V5poses
 - **Concepto:** Lenceria #1 (Boudoir, meta 15%): balconette longline rose gold vinyl laser-cut + liguero + medias. Monoblock rose gold (1).
@@ -23036,7 +23036,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 517: Cannes Gala (08/06/2026 — batch L511-L520 "La Riviera" · High-Fashion Editorial · HF Editorial (Red Carpet) · Oxblood Wine · riviera fetish)
+## Look 517: Cannes Gala (08/06/2026 — batch L511-L520 "La Riviera" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Red Carpet) · Oxblood Wine · riviera fetish)
 
 *Alfombra roja de Cannes y flashes, cariño: gown vino bias con cola y un hombro al aire... atroz de gala.* 🍷🎬
 
@@ -23170,12 +23170,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 519: Tennis Club (08/06/2026 — batch L511-L520 "La Riviera" · Gym/Athleisure · Gym Performance (Tennis) · Jade · riviera fetish)
+## Look 519: Tennis Club (08/06/2026 — batch L511-L520 "La Riviera" · Gym · Gym Performance (Tennis) · Jade · riviera fetish)
 
 *Tenis en la cancha de arcilla, cariño: set jade y faldita plisada... deportiva pero igual de muñeca, jiji.* 💚🎾
 
 - **Ubicacion:** `05_Imagenes/ele/look519_tennis_club/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (Tennis)
 - **Tags:** #chrome #wetlook #lariviera #rivierafetish #batchL511-L520 #jade #gym #tennisskort #V5poses
 - **Concepto:** Gym con FALDA-SKORT de tenis (pedido Ama): set jade wet-look + skort plisado + Pleaser platform. Monoblock jade (1).
@@ -23237,12 +23237,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 520: Cote d'Azur Fetish (08/06/2026 — batch L511-L520 "La Riviera" · Lenceria · Fetish Arquitectonico (Bordelle) · Black (negro liberado) · riviera fetish)
+## Look 520: Cote d'Azur Fetish (08/06/2026 — batch L511-L520 "La Riviera" · Lencería · Fetish Arquitectonico (Bordelle) · Black (negro liberado) · riviera fetish)
 
 *La noche de la Costa Azul, mi amor: arnés Bordelle negro en bandas sobre bodystocking, liguero y medias... fetish puro, atroz.* 🖤🌃
 
 - **Ubicacion:** `05_Imagenes/ele/look520_cote_d_azur_fetish/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Fetish Arquitectonico (Bordelle)
 - **Tags:** #chrome #lariviera #rivierafetish #batchL511-L520 #black #lenceria #fetish #V5poses
 - **Concepto:** Lenceria #2 (Fetish, cumple regla dual con L516 + cierra el batch). Arnes/cage Bordelle negro en bandas sobre bodystocking. Negro liberado. TOKEN DE VESTUARIO BLOQUEADO (bandas ubicadas, opaco-vs-sheer anclado).
@@ -23371,12 +23371,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 522: Arnes Bordelle Integral (08/06/2026 — batch L521-L530 "El Imperio del Látex" · Lenceria · Fetish Arquitectonico (Bordelle) · Oxblood · extra fetish)
+## Look 522: Arnes Bordelle Integral (08/06/2026 — batch L521-L530 "El Imperio del Látex" · Lencería · Fetish Arquitectonico (Bordelle) · Oxblood · extra fetish)
 
 *Atada de lujo, mi amor: arnés Bordelle oxblood en bandas sobre bodystocking, collar y arnés de muslo... fetish puro.* 🍷⛓️
 
 - **Ubicacion:** `05_Imagenes/ele/look522_arnes_bordelle_integral/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Fetish Arquitectonico (Bordelle)
 - **Tags:** #latex #chrome #elimperiodellatex #fetish #batchL521-L530 #oxblood #lenceria #harness #V5poses
 - **Concepto:** Lenceria #1 (Fetish, meta 15%). Full body harness Bordelle oxblood en bandas sobre bodystocking + collar. TOKEN DE VESTUARIO BLOQUEADO (bandas ubicadas, opaco-vs-sheer anclado). Neutro+Pop (oxblood sobre nude).
@@ -23438,7 +23438,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 523: Latex Couture Atsuko Kudo (08/06/2026 — batch L521-L530 "El Imperio del Látex" · High-Fashion Editorial · HF Editorial (Atsuko Kudo Latex) · Emerald · extra fetish)
+## Look 523: Latex Couture Atsuko Kudo (08/06/2026 — batch L521-L530 "El Imperio del Látex" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Atsuko Kudo Latex) · Emerald · extra fetish)
 
 *Alta costura de látex, cariño: gown esmeralda laser-cut, cuello alto y proyecciones... obra de arte fetish, regio.* 💚🖤
 
@@ -23773,12 +23773,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 528: Lenceria de Latex (08/06/2026 — batch L521-L530 "El Imperio del Látex" · Lenceria · Luxury Boudoir (Latex) · Magenta · extra fetish)
+## Look 528: Lenceria de Latex (08/06/2026 — batch L521-L530 "El Imperio del Látex" · Lencería · Luxury Boudoir (Latex) · Magenta · extra fetish)
 
 *Lencería pero de látex, cariño: balconette magenta, liguero, medias y un collarcito... boudoir fetish, mi favorita.* 💗🖤
 
 - **Ubicacion:** `05_Imagenes/ele/look528_lenceria_de_latex/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Luxury Boudoir (Latex)
 - **Tags:** #satin #chrome #elimperiodellatex #fetish #batchL521-L530 #magenta #lenceria #latex #boudoir #V5poses
 - **Concepto:** Lenceria #2 (Boudoir, cumple regla dual con L522). Set látex magenta bra+brief+liguero+medias + collar. Contraste (magenta+medias negras).
@@ -23840,12 +23840,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 529: Gym Fetish (08/06/2026 — batch L521-L530 "El Imperio del Látex" · Gym/Athleisure · Gym Performance (Latex Harness) · Acid Lime · extra fetish)
+## Look 529: Gym Fetish (08/06/2026 — batch L521-L530 "El Imperio del Látex" · Gym · Gym Performance (Latex Harness) · Acid Lime · extra fetish)
 
 *Entreno en látex, cariño: set lima ácida con arnés de correas negras sobre el torso... gym pero fetish, jiji.* 💚⛓️
 
 - **Ubicacion:** `05_Imagenes/ele/look529_gym_fetish/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (Latex Harness)
 - **Tags:** #latex #chrome #wetlook #elimperiodellatex #fetish #batchL521-L530 #acidlime #gym #latexharness #V5poses
 - **Concepto:** Gym fetish: set látex athletic lima ácida + grilla de straps de arnés sobre el torso + Pleaser. Contraste (lima+negro).
@@ -23907,7 +23907,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 530: Diosa de Latex Liquido (08/06/2026 — batch L521-L530 "El Imperio del Látex" · High-Fashion Editorial · HF Editorial (Liquid Latex Goddess) · Liquid Gold · extra fetish)
+## Look 530: Diosa de Latex Liquido (08/06/2026 — batch L521-L530 "El Imperio del Látex" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Liquid Latex Goddess) · Liquid Gold · extra fetish)
 
 *La diosa del cierre, mi amor: bodysuit de látex dorado líquido como vertido al cuerpo, con cuernos escultóricos... finale fetish, atroz.* 🥇🖤
 
@@ -23973,7 +23973,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, stockings in a different colour than described, stockings missing their pattern, hosiery with a different colour than described, bare legs without stockings, mismatched hosiery, inconsistent stockings, keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, underboob cutout, peekaboo opening, garment slashed to reveal skin, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth`
 
 ---
-## Look 531: Orquídea Negra (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · High-Fashion Editorial · HF Editorial (Black Orchid Couture) · Negro gloss + verde tallo · flor venenosa)
+## Look 531: Orquídea Negra (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Black Orchid Couture) · Negro gloss + verde tallo · flor venenosa)
 
 
 *La flor que abre el jardín, mi amor: columna de látex negro con pétalos de orquídea enmarcándome la cara — venenosa y de museo.* 🥀🖤
@@ -24177,13 +24177,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 534: Amapola (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Pin-Up & Retro · Pin-Up Bombshell (Poppy Playsuit) · Rojo escarlata amapola · flor venenosa)
+## Look 534: Amapola (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Pin-Up · Pin-Up Bombshell (Poppy Playsuit) · Rojo escarlata amapola · flor venenosa)
 
 
 *Playsuit de amapola con copas cónicas y cinturón de charol negro — la flor del sueño eterno, pero despierta TODO.* 🌺🚗
 
 - **Ubicacion:** `05_Imagenes/ele/look534_amapola/`
-- **Categoria:** Pin-Up & Retro
+- **Categoria:** Pin-Up
 - **Subcategoria:** Pin-Up Bombshell (Poppy Playsuit)
 - **Tags:** #pvc #leather #eljardinvenenoso #fetish #batchL531-L540 #poppy #pinup #bombshell #V5poses
 - **Concepto:** Pin-Up PA5: playsuit halter PVC escarlata + copas conicas + print de amapolas negras al centro + cinturon charol. Blood red (cherry sigue solo pelo/labios).
@@ -24381,13 +24381,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 537: Lirio Tigre (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Gym/Athleisure · Gym Performance (Tiger-Lily Tennis) · Naranja tigre + spots negros · flor venenosa)
+## Look 537: Lirio Tigre (10/06/2026 — batch L531-L540 "El Jardín Venenoso" · Gym · Gym Performance (Tiger-Lily Tennis) · Naranja tigre + spots negros · flor venenosa)
 
 
 *Falda-skort de tenis naranja tigre con spots negros — el lirio que muerde, regio para la cancha.* 🧡🎾
 
 - **Ubicacion:** `05_Imagenes/ele/look537_lirio_tigre/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (Tiger-Lily Tennis)
 - **Tags:** #wetlook #eljardinvenenoso #fetish #batchL531-L540 #tigerlily #gym #skort #V5poses
 - **Concepto:** Gym GA5 (regla Ama: faldas/skorts): sports bra wet-look naranja con spots de lirio tigre + skort plisado micro + midriff con piercing. Pleaser platform.
@@ -24653,7 +24653,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 541: La Sacerdotisa (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Priestess Column) · Indigo profundo + plata · arcano mayor)
+## Look 541: La Sacerdotisa (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Priestess Column) · Indigo profundo + plata · arcano mayor)
 
 
 *La Sacerdotisa abre los Arcanos, Ama: columna de wet-satin indigo con capucha de gran sacerdotisa y luna creciente de plata en la cadera — el misterio se viste de azul medianoche.* 🌙🔮
@@ -24993,7 +24993,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 546: La Emperatriz (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial · HF Editorial (Liquid Gold Ball Gown) · Oro líquido · arcano mayor)
+## Look 546: La Emperatriz (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Liquid Gold Ball Gown) · Oro líquido · arcano mayor)
 
 
 *La Emperatriz reina en oro líquido, Ama: corset escultural de vinyl dorado fundido, hombros arquitectónicos y falda ball que barre el suelo, con enredaderas de cristal de oro — monoblock imperial.* 👑✨
@@ -25061,13 +25061,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 547: Los Enamorados (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Pin-Up & Retro · Pin-Up Bombshell (Heart Wiggle Dress) · Blush rosa + corazones rojos · arcano mayor)
+## Look 547: Los Enamorados (12/06/2026 — batch L541-L550 "Los Arcanos Mayores" · Pin-Up · Pin-Up Bombshell (Heart Wiggle Dress) · Blush rosa + corazones rojos · arcano mayor)
 
 
 *Los Enamorados en la soda fountain de los 50s, cariño: wiggle dress PVC blush con estampado de corazones rojos, cinturón patent rojo y botones de corazón — dulce pero peligrosa.* 💋💞
 
 - **Ubicacion:** `05_Imagenes/ele/look547_los_enamorados/`
-- **Categoria:** Pin-Up & Retro
+- **Categoria:** Pin-Up
 - **Subcategoria:** Pin-Up Bombshell (Heart Wiggle Dress)
 - **Tags:** #pinup #pvc #chrome #losarcanosmayores #fetish #batchL541-L550 #tarot #los_enamorados #V5poses
 - **Concepto:** Pin-Up Bombshell PA1 wiggle dress: PVC blush + estampado corazones rojos escarlata + cinturón patent rojo + botones corazón. Referencia 50s soda fountain. Color libre (blush dominante con acentos rojos, NO cherry-dominante).
@@ -25469,13 +25469,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 553: La Forzuda (15/06/2026 — batch L551-L560 "El Circo" · Gym/Athleisure · Gym Performance (Vintage Strongwoman) · Borgoña + oro · circus)
+## Look 553: La Forzuda (15/06/2026 — batch L551-L560 "El Circo" · Gym · Gym Performance (Vintage Strongwoman) · Borgoña + oro · circus)
 
 
 *La Forzuda levanta la carpa, mi amor: unitard wet-look borgoña high-cut con estrellas doradas y cinturón ancho de cuero — fuerza con tacón de aguja.* 💪🎪
 
 - **Ubicacion:** `05_Imagenes/ele/look553_la_forzuda/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (Vintage Strongwoman)
 - **Tags:** #gym #leather #wetlook #elcirco #fetish #batchL551-L560 #circus #la_forzuda #V5poses
 - **Concepto:** Gym Performance (strongwoman vintage fetish): unitard wet-look one-piece high-cut + estrellas oro + cinturón cuero ancho. Silueta GA4 (distinta de Tennis L537/L519 y Latex Harness L529). Pesa de utilería.
@@ -25537,13 +25537,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 554: La Mujer Cañón (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Retro-Futurismo (Human Cannonball) · Chrome plata + naranja chispa · circus)
+## Look 554: La Mujer Cañón (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up · Retro-Futurismo (Human Cannonball) · Chrome plata + naranja chispa · circus)
 
 
 *La Mujer Cañón sale disparada, Ama: bodysuit mirror-chrome con chispas de rhinestone naranja, alitas y casco aviador — Barbarella de feria.* 💥🚀
 
 - **Ubicacion:** `05_Imagenes/ele/look554_la_mujer_ca_n/`
-- **Categoria:** Pin-Up & Retro
+- **Categoria:** Pin-Up
 - **Subcategoria:** Retro-Futurismo (Human Cannonball)
 - **Tags:** #pinup #vinyl #chrome #elcirco #fetish #batchL551-L560 #circus #la_mujer_canon #V5poses
 - **Concepto:** Pin-Up Retro-Futurismo (cannonball): bodysuit mirror-chrome high-cut + chispas rhinestone naranja + alas deco + casco aviador chrome. Color libre (chrome + spark).
@@ -25605,7 +25605,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 555: La Pierrot Couture (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Harlequin Couture) · Blanco + negro + rombos multicolor · circus)
+## Look 555: La Pierrot Couture (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Harlequin Couture) · Blanco + negro + rombos multicolor · circus)
 
 
 *La Pierrot llega a couture, cariño: catsuit escultórico de rombos arlequín con cristales multicolor y gola arquitectónica blanca — el payaso es alta costura.* 🃏🎭
@@ -25877,13 +25877,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 559: La Equilibrista (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up & Retro · Pin-Up Bombshell (Tightrope) · Candy stripe rosa + blanco + rojo · circus)
+## Look 559: La Equilibrista (15/06/2026 — batch L551-L560 "El Circo" · Pin-Up · Pin-Up Bombshell (Tightrope) · Candy stripe rosa + blanco + rojo · circus)
 
 
 *La Equilibrista camina la cuerda floja, mi amor: bustier candy-stripe rosa y blanco con tutú vinyl rojo, medias de costura y lazo patent — dulce arriba de todo.* 🎀🎪
 
 - **Ubicacion:** `05_Imagenes/ele/look559_la_equilibrista/`
-- **Categoria:** Pin-Up & Retro
+- **Categoria:** Pin-Up
 - **Subcategoria:** Pin-Up Bombshell (Tightrope)
 - **Tags:** #pinup #pvc #vinyl #elcirco #fetish #batchL551-L560 #circus #la_equilibrista #V5poses
 - **Concepto:** Pin-Up Bombshell (tightrope showgirl retro): bustier PVC candy-stripe + tutú vinyl + briefs altos + medias costura + lazo patent. Dual Pin-Up con L554 Retro-Futurismo. Pasteles permitidos (excepción Polo A).
@@ -25945,7 +25945,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 560: La Reina del Circo (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial · HF Editorial (Finale Showgirl) · Oro espectáculo + cristal · circus)
+## Look 560: La Reina del Circo (15/06/2026 — batch L551-L560 "El Circo" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Finale Showgirl) · Oro espectáculo + cristal · circus)
 
 
 *La Reina del Circo cierra el espectáculo, Ama: corset-bodysuit de vinyl oro líquido con un abanico de plumas de cristal a la espalda y falda de slit alto — el gran final dorado.* 👑🎆
@@ -26147,7 +26147,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, underboob cutout, peekaboo opening, garment slashed to reveal skin, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth`
 
 ---
-## Look 563: Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Perséfone) · Granate granada + negro · panteon)
+## Look 563: Perséfone (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Perséfone) · Granate granada + negro · panteon)
 
 
 *Perséfone sube del inframundo, Ama: columna wet-satin granate con pétalos de granada en relieve sobre corpiño negro laqueado — la reina de las sombras. 🍷🖤*
@@ -26214,13 +26214,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, stockings in a different colour than described, stockings missing their pattern, hosiery with a different colour than described, bare legs without stockings, mismatched hosiery, inconsistent stockings, keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, underboob cutout, peekaboo opening, garment slashed to reveal skin, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth`
 
 ---
-## Look 564: Artemisa (16/06/2026 — batch L561-L570 "El Panteón" · Gym/Athleisure · Gym Athleisure (Artemisa) · Plata luna + blanco · panteon)
+## Look 564: Artemisa (16/06/2026 — batch L561-L570 "El Panteón" · Gym · Gym Athleisure (Artemisa) · Plata luna + blanco · panteon)
 
 
 *Artemisa sale a cazar, cari: set deportivo wet-look plata-luna con sports bra de zip y falda-skort plisada blanca — la diosa de la luna en plataforma. 🌙🏹*
 
 - **Ubicacion:** `05_Imagenes/ele/look564_artemisa/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Athleisure (Artemisa)
 - **Tags:** #gym #pvc #vinyl #wetlook #elpanteon #fetish #batchL561-L570 #panteon #artemisa #V5poses
 - **Concepto:** Gym fetish diosa cazadora: set wet-look plata-luna (sports bra zip + tennis skort plisado, variedad skort) + carcaj de utilería. Pleaser clear acrylic.
@@ -26348,7 +26348,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, stockings in a different colour than described, stockings missing their pattern, hosiery with a different colour than described, bare legs without stockings, mismatched hosiery, inconsistent stockings, keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, underboob cutout, peekaboo opening, garment slashed to reveal skin, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth`
 
 ---
-## Look 566: Niké (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial · HF Editorial (Niké) · Oro líquido + alas · panteon)
+## Look 566: Niké (16/06/2026 — batch L561-L570 "El Panteón" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Niké) · Oro líquido + alas · panteon)
 
 
 *Niké aterriza con la victoria, cariño: bodysuit de oro líquido y un par de alas escultóricas de PVC dorado que se arquean sobre los hombros — monoblock de gloria. 🪽✨*
@@ -26750,7 +26750,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, stockings in a different colour than described, stockings missing their pattern, hosiery with a different colour than described, bare legs without stockings, mismatched hosiery, inconsistent stockings, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth`
 
 ---
-## Look 572: Soberbia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (Soberbia) · Violeta real + oro espejo · pecados)
+## Look 572: Soberbia (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Soberbia) · Violeta real + oro espejo · pecados)
 
 
 *Soberbia se admira sola, cariño: gown violeta real con un abanico-corona de oro espejado y mosaicos dorados — el orgullo que se mira en su propio reflejo. 👑🪞*
@@ -27219,7 +27219,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, underboob cutout, peekaboo opening, garment slashed to reveal skin, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth`
 
 ---
-## Look 579: La Caída (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial · HF Editorial (La Caída) · Negro alas caídas · pecados)
+## Look 579: La Caída (16/06/2026 — batch L571-L580 "Los 7 Pecados" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (La Caída) · Negro alas caídas · pecados)
 
 
 *La Caída es el ángel que se rompió, Ama: bodysuit negro laqueado con un par de alas escultóricas negras quebradas y las puntas chamuscadas, entre las cenizas — pecado oscuro. 🖤🪽*
@@ -27487,7 +27487,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth`
 
 ---
-## Look 583: Theodora (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · High-Fashion Editorial · HF Editorial (Theodora) · Púrpura imperial + oro mosaico · cortesanas)
+## Look 583: Theodora (16/06/2026 — batch L581-L590 "Cortesanas de la Historia" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial (Theodora) · Púrpura imperial + oro mosaico · cortesanas)
 
 
 *Theodora subió de cortesana a emperatriz, Ama: gown púrpura imperial con yugo de mosaicos de oro y corona bizantina de colgantes — el poder de Bizancio. 👑🟪*
@@ -28302,13 +28302,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 
-## Look 595: Toxic Lime (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Performance (Boot Obsession) · Verde neón + negro · boots)
+## Look 595: Toxic Lime (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym · Gym Performance (Boot Obsession) · Verde neón + negro · boots)
 
 
 *Lista para entrenar o hacerme notar en la calle, mi amor: leggings de vinilo verde neón y botas mosqueteras negras de aguja fina. Contraste puro para romper la monotonía. 🍏🖤✨*
 
 - **Ubicacion:** `05_Imagenes/ele/look595_toxic_lime/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (Boot Obsession)
 - **Tags:** #vinyl #boots #thigh-high #leggings #neon #gym #athleisure #batchL591-L600 #V5poses
 - **Concepto:** Gym Athleisure. Botas sobre la rodilla de vinilo negro brillante (sin plataforma) combinadas con leggings de vinilo verde neón y crop top deportivo.
@@ -28647,13 +28647,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 
-## Look 600: Violet Match (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym/Athleisure · Gym Athleisure (Boot Obsession) · Violeta + blanco · boots)
+## Look 600: Violet Match (18/06/2026 — batch L591-L600 "Boot Obsession" · Gym · Gym Athleisure (Boot Obsession) · Violeta + blanco · boots)
 
 
 *Skort plisado de vinilo blanco con botas mosqueteras de charol violeta con plataforma... una combinación atrevida y súper bimbo en la cancha de tenis. 🏆💜✨*
 
 - **Ubicacion:** `05_Imagenes/ele/look600_violet_match/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Athleisure (Boot Obsession)
 - **Tags:** #latex #vinyl #boots #thigh-high #platform #skort #gym #athleisure #batchL591-L600 #V5poses
 - **Concepto:** Gym Athleisure. Botas altas violeta con plataforma, skort de tenis blanco plisado y crop top de látex violeta.
@@ -28717,12 +28717,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 601: Pink Flash Gym (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · rosa neón + negro · platform)
+## Look 601: Pink Flash Gym (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym · Gym Athleisure (Platform Obsession) · rosa neón + negro · platform)
 
 *Leggings negros ceñidos con medias de red debajo y tacones altos de plataforma rosa neón... entrenar con estilo bimbo extremo. 🏋️‍♀️💗✨*
 
 - **Ubicacion:** `05_Imagenes/ele/look601_pink_flash_gym/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Athleisure (Platform Obsession)
 - **Tags:** #latex #vinyl #lycra #leggings #fishnets #pumps #platform #gym #athleisure #batchL601-L610 #V5poses
 - **Concepto:** Gym Athleisure. Leggings ceñidos negros combinados con medias de red negras y tacones altos de plataforma.
@@ -28786,12 +28786,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 602: Electric Blue Pilates (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym/Athleisure · Gym Athleisure (Platform Obsession) · azul eléctrico + negro · platform)
+## Look 602: Electric Blue Pilates (18/06/2026 — batch L601-L610 "Platform Obsession" · Gym · Gym Athleisure (Platform Obsession) · azul eléctrico + negro · platform)
 
 *Leggings de vinilo azul eléctrico con medias de nylon negras translúcidas y sandalias de plataforma. Flexibilidad y poder en el estudio. 🧘‍♀️💙✨*
 
 - **Ubicacion:** `05_Imagenes/ele/look602_electric_blue_pilates/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Athleisure (Platform Obsession)
 - **Tags:** #vinyl #leggings #stockings #sandals #platform #gym #athleisure #batchL601-L610 #V5poses
 - **Concepto:** Gym Athleisure. Leggings de vinilo azul eléctrico combinados con medias de nylon negras translúcidas y sandalias de plataforma.
@@ -29406,12 +29406,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 611: Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots)
+## Look 611: Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym · Gym (Thigh-High Boots) · negro + negro · boots)
 
 *Mon amour.. las calzas deportivas y las botas bucaneras de aguja me hacen sentir tan poderosa en el gym, jiji. 🖤🏋️✨*
 
 - **Ubicacion:** `05_Imagenes/ele/look611_gym_athleisure/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym/Athleisure (Thigh-High Boots)
 - **Tags:** #leather #chrome #lycra #leggings #stockings #boots #athleisure #gym #batchL611-L620 #V5poses
 - **Concepto:** Gym/Athleisure. Leggings deportivos negros combinados con botas bucaneras altas de aguja y medias de nylon negras.
@@ -29474,12 +29474,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 612: Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym/Athleisure · Gym/Athleisure (Thigh-High Boots) · negro + negro · boots)
+## Look 612: Gym/Athleisure (18/06/2026 — batch L611-L620 "Thigh-High Boots" · Gym · Gym (Thigh-High Boots) · negro + negro · boots)
 
 *Las calzas de vinilo brillante con botas bucaneras de látex opaco... el contraste perfecto para entrenar, jiji. 🖤🧘✨*
 
 - **Ubicacion:** `05_Imagenes/ele/look612_gym_athleisure/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym/Athleisure (Thigh-High Boots)
 - **Tags:** #latex #vinyl #lycra #leggings #nostockings #boots #athleisure #gym #batchL611-L620 #V5poses
 - **Concepto:** Gym/Athleisure. Leggings de vinilo de alta elasticidad combinados con botas sobre la rodilla de látex opaco sin medias.
@@ -30424,13 +30424,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 626: Violet Tennis Gym (20/06/2026 - batch L621-L630 "Platform Heights" - Gym/Athleisure - Gym Athleisure (Platform Heights) - violeta + blanco - platform)
+## Look 626: Violet Tennis Gym (20/06/2026 - batch L621-L630 "Platform Heights" - Gym - Gym Athleisure (Platform Heights) - violeta + blanco - platform)
 
 
 *Skort de tenis violeta plisado, plataforma violeta a juego y mis mediecitas blancas... lista para servir en la cancha, Ama.*
 
 - **Ubicacion:** `05_Imagenes/ele/look626_violet_tennis_gym/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Athleisure (Platform Heights)
 - **Tags:** #latex #vinyl #wetlook #platform #whitestockings #gym #athleisure #tennis #batchL621-L630 #V5poses
 - **Concepto:** Gym con skort de tenis (rompe leggings+crop). Plataforma media violeta a juego, medias blancas (no negras -> no choca con el blanco).
@@ -31233,12 +31233,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 638: Lime V-Cut Gym (20/06/2026 - batch L631-L640 "Runas Reveladas" - Gym/Athleisure - Gym Performance (Runas Reveladas) - lima neon - platform)
+## Look 638: Lime V-Cut Gym (20/06/2026 - batch L631-L640 "Runas Reveladas" - Gym - Gym Performance (Runas Reveladas) - lima neon - platform)
 
 *El leotardo con la pretina en V cayendo bajo la cadera, mis runas asomando entre sudor... fit y rica.*
 
 - **Ubicacion:** `05_Imagenes/ele/look638_lime_vcut_gym/`
-- **Categoria:** Gym/Athleisure
+- **Categoria:** Gym
 - **Subcategoria:** Gym Performance (Runas Reveladas)
 - **Tags:** #vinyl #chrome #wetlook #gym #performance #vcut #lima #highcut #runas #batchL631-L640 #V5poses
 - **Concepto:** Gym performance high-cut. V-waistband bajo la cadera deja bikini line al aire (runas) + ombligo. Sin medias -> open-toe.
@@ -32239,12 +32239,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 653: Burgundy Fetish Domme (22/06/2026 - batch L651-L660 "Dominatrices" - Lenceria - Lenceria Fetish Domme - borgona — Monoblock - platform)
+## Look 653: Burgundy Fetish Domme (22/06/2026 - batch L651-L660 "Dominatrices" - Lencería - Lencería Fetish Domme - borgona — Monoblock - platform)
 
 *Lenceria Fetish. Bra corset longline de cuero borgona con copa rigida, thong, medias nude con costura y collar O-ring negro.* 🔥👠
 
 - **Ubicacion:** `05_Imagenes/ele/look653_burgundy_fetish_domme/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Lenceria Fetish Domme
 - **Tags:** #lenceria #latex #vinyl #chrome #lingerie #fetish #burgundy #leather #corset #seamed #collar #batchL651-L660 #V5poses
 - **Concepto:** Lenceria Fetish. Bra corset longline de cuero borgona con copa rigida, thong, medias nude con costura y collar O-ring negro.
@@ -32306,12 +32306,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 654: Noir Boudoir Sadist (22/06/2026 - batch L651-L660 "Dominatrices" - Lenceria - Lenceria Boudoir Noir - negro + marfil + oro — Contraste - platform)
+## Look 654: Noir Boudoir Sadist (22/06/2026 - batch L651-L660 "Dominatrices" - Lencería - Lencería Boudoir Noir - negro + marfil + oro — Contraste - platform)
 
 *Lenceria Boudoir Noir. Bata de saten marfil abierta sobre bralette triangular de vinilo negro y micro-brief negro con O-ring lateral. Sin medias.* 🔥👠
 
 - **Ubicacion:** `05_Imagenes/ele/look654_noir_boudoir_sadist/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Lenceria Boudoir Noir
 - **Tags:** #lenceria #leather #satin #wetlook #lingerie #boudoir #black #ivory #vinyl #robe #bodynecklace #batchL651-L660 #V5poses
 - **Concepto:** Lenceria Boudoir Noir. Bata de saten marfil abierta sobre bralette triangular de vinilo negro y micro-brief negro con O-ring lateral. Sin medias.
@@ -32574,12 +32574,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 658: Chrome Armure Editorial (22/06/2026 - batch L651-L660 "Dominatrices" - HF Editorial - HF Avant-Garde Dominatrix - cromo espejo — Monoblock - platform)
+## Look 658: Chrome Armure Editorial (22/06/2026 - batch L651-L660 "Dominatrices" - High-Fashion Editorial Editorial - HF Avant-Garde Dominatrix - cromo espejo — Monoblock - platform)
 
 *HF Avant-Garde. Cuirass bodice de latex espejo cromado con micro-shorts a juego y correas de arnes cruzadas en el esternon. Editorial arquitectonico maximo.* 🔥👠
 
 - **Ubicacion:** `05_Imagenes/ele/look658_chrome_armure_editorial/`
-- **Categoria:** HF Editorial
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** HF Avant-Garde Dominatrix
 - **Tags:** #vinyl #leather #seamless #hfeditorial #avantgarde #chrome #latex #cuirass #harness #architectural #batchL651-L660 #V5poses
 - **Concepto:** HF Avant-Garde. Cuirass bodice de latex espejo cromado con micro-shorts a juego y correas de arnes cruzadas en el esternon. Editorial arquitectonico maximo.
@@ -33312,12 +33312,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 669: Black Iron Corset (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Lenceria - Lenceria Fetish Corset - negro — Monoblock - platform + medias)
+## Look 669: Black Iron Corset (23/06/2026 - batch L661-L670 "Cuero Negro Total" - Lencería - Lencería Fetish Corset - negro — Monoblock - platform + medias)
 
 *Lenceria Fetish. Corset longline overbust de cuero negro con ballenas, lace-up trasero y clips de liguero. Brief de latex negro. Medias con costura y liguero. Plataformas.* 🔥👠
 
 - **Ubicacion:** `05_Imagenes/ele/look669_black_iron_corset/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Lenceria Fetish Corset
 - **Tags:** #lenceria #latex #vinyl #satin #chrome #lingerie #fetish #corset #leather #black #suspenders #seamed #platform #batchL661-L670 #V5poses
 - **Concepto:** Lenceria Fetish. Corset longline overbust de cuero negro con ballenas, lace-up trasero y clips de liguero. Brief de latex negro. Medias con costura y liguero. Plataformas.
@@ -33512,12 +33512,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, underboob cutout, peekaboo opening, garment slashed to reveal skin, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth` · **Adicional POV:** `no phone, no smartphone, no device, no screen, no camera in hand, first-person point of view, looking down over own body, overhead downward shot`
 
 ---
-## Look 672: Gold Filigree Boudoir (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lenceria - Lenceria Boudoir Baroque - oro antiguo + marfil — Contraste - platform + medias)
+## Look 672: Gold Filigree Boudoir (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lencería - Lencería Boudoir Baroque - oro antiguo + marfil — Contraste - platform + medias)
 
 *Lenceria boudoir barroca. Corset longline de latex oro antiguo con filigrana barroca, thong, medias marfil y choker de encaje. Punta cerrada por las medias.* 🔥👠
 
 - **Ubicacion:** `05_Imagenes/ele/look672_gold_filigree_boudoir/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Lenceria Boudoir Baroque
 - **Tags:** #lenceria #lingerie #boudoir #baroque #gold #ivory #latex #corset #stockings #updo #batchL671-L680 #V5poses
 - **Concepto:** Lenceria boudoir barroca. Corset longline de latex oro antiguo con filigrana barroca, thong, medias marfil y choker de encaje. Punta cerrada por las medias.
@@ -33776,12 +33776,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, keyhole cutout at navel, midriff cutout exposing navel piercing, hip cutout exposing tattoo, underboob cutout, peekaboo opening, garment slashed to reveal skin, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth` · **Adicional POV:** `no phone, no smartphone, no device, no screen, no camera in hand, first-person point of view, looking down over own body, overhead downward shot`
 
 ---
-## Look 676: Ivory Baroque Cuirass (30/06/2026 - batch L671-L680 "Barroco Fetish" - HF Editorial - HF Baroque Sculptural - marfil — Monoblock - stiletto)
+## Look 676: Ivory Baroque Cuirass (30/06/2026 - batch L671-L680 "Barroco Fetish" - High-Fashion Editorial Editorial - HF Baroque Sculptural - marfil — Monoblock - stiletto)
 
 *HF editorial barroco. Cuirass corset de latex marfil moldeado como peto barroco con relieve de acanto + panniers escultoricos. Pelo en alto.* 🔥👠
 
 - **Ubicacion:** `05_Imagenes/ele/look676_ivory_baroque_cuirass/`
-- **Categoria:** HF Editorial
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** HF Baroque Sculptural
 - **Tags:** #hfeditorial #baroque #ivory #latex #corset #cuirass #panniers #updo #batchL671-L680 #V5poses
 - **Concepto:** HF editorial barroco. Cuirass corset de latex marfil moldeado como peto barroco con relieve de acanto + panniers escultoricos. Pelo en alto.
@@ -34040,12 +34040,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Negative Prompt:** `gothic, vampire, fangs, red lips, dark lips, wine lips, maroon lips, crimson lips, oxblood lips, different person, different face, different hair color, brown hair, black hair, blonde hair, auburn hair, flat shoes, block heel, wedge, chunky heel, kitten heel, barefoot, socks, sneakers, different shoes, mismatched shoes, changing footwear, inconsistent footwear, different outfit, altered clothing, inconsistent outfit, different body, gloves, opera gloves, long gloves, elbow gloves, fingerless gloves, wrist gloves, leather gloves, satin gloves, lace gloves, covered hands, arm sleeves, arm warmers, detached sleeves, forearm cuffs, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, malformed fingers, three legs, extra leg, extra foot, two women, duplicate figure, split image, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, poster or screen showing the same woman, light box displaying another photo, inset photo, rotated image, sideways rotated frame, tilted horizon, first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo, nipple piercings visible through clothing, nipple piercing pressing through the fabric, nipple bumps through fabric, nipples showing through the garment, navel piercing through the fabric, piercing on top of the garment, jewellery over the fabric, tattoo printed on the garment, tattoo showing through the sleeve, body markings through fabric, see-through bodice revealing piercings, a different neckline than described, altered sleeve length, a different hemline length than described, re-styled outfit, inconsistent dress cut, a two-piece version of the dress, a cropped version of the garment, varying print pattern, platform mule, mule, mule sandals, backless mule, slipper, slide sandal, stockings in a different colour than described, stockings missing their pattern, hosiery with a different colour than described, bare legs without stockings, mismatched hosiery, inconsistent stockings, matte fabric, cotton, wool, crepe, linen, dull non-reflective textile, flat fabric finish, natural matte cloth` · **Adicional POV:** `no phone, no smartphone, no device, no screen, no camera in hand, first-person point of view, looking down over own body, overhead downward shot`
 
 ---
-## Look 680: Wine Baroque Domme (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lenceria - Lenceria Fetish Baroque Domme - vino — Monoblock - stiletto + medias)
+## Look 680: Wine Baroque Domme (30/06/2026 - batch L671-L680 "Barroco Fetish" - Lencería - Lencería Fetish Baroque Domme - vino — Monoblock - stiletto + medias)
 
 *Lenceria fetish domme barroca. Underbust corset de cuero vino con brocado barroco, longline bra, thong, medias con costura y collar O-ring. Punta cerrada por las medias. Pelo en alto.* 🔥👠
 
 - **Ubicacion:** `05_Imagenes/ele/look680_wine_baroque_domme/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Lenceria Fetish Baroque Domme
 - **Tags:** #domestic #latex #lingerie #fetish #baroque #wine #leather #corset #seamed #collar #domme #updo #batchL671-L680 #V5poses
 - **Concepto:** Lenceria fetish domme barroca. Underbust corset de cuero vino con brocado barroco, longline bra, thong, medias con costura y collar O-ring. Punta cerrada por las medias. Pelo en alto.
@@ -34174,12 +34174,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 682: Emerald Venom Boudoir (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lenceria - Lenceria Vampiress Boudoir - esmeralda — Monoblock - platform + medias)
+## Look 682: Emerald Venom Boudoir (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lencería - Lencería Vampiress Boudoir - esmeralda — Monoblock - platform + medias)
 
 *Lencería vampiresa. Longline bra de latex esmeralda con thong, medias humo-esmeralda y choker con colgante de gota. Punta cerrada por las medias.* 🧛👠
 
 - **Ubicacion:** `05_Imagenes/ele/look682_emerald_venom_boudoir/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Lenceria Vampiress Boudoir
 - **Tags:** #lenceria #vinyl #lingerie #boudoir #vampiress #emerald #latex #stockings #choker #batchL681-L690 #V5poses
 - **Concepto:** Lencería vampiresa. Longline bra de latex esmeralda con thong, medias humo-esmeralda y choker con colgante de gota. Punta cerrada por las medias.
@@ -34442,12 +34442,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 686: Obsidian Sculptural Nocturne (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - HF Editorial - HF Vampiress Sculptural - obsidiana negro — Monoblock - stiletto)
+## Look 686: Obsidian Sculptural Nocturne (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - High-Fashion Editorial Editorial - HF Vampiress Sculptural - obsidiana negro — Monoblock - stiletto)
 
 *HF editorial vampiresa. Bodysuit escultórico de latex negro obsidiana con hombros alados arquitectónicos + panniers de cadera sobre brief alto. Nocturno escultórico.* 🧛👠
 
 - **Ubicacion:** `05_Imagenes/ele/look686_obsidian_sculptural_nocturne/`
-- **Categoria:** HF Editorial
+- **Categoria:** High-Fashion Editorial
 - **Subcategoria:** HF Vampiress Sculptural
 - **Tags:** #vinyl #hfeditorial #vampiress #black #obsidian #latex #bodysuit #panniers #batchL681-L690 #V5poses
 - **Concepto:** HF editorial vampiresa. Bodysuit escultórico de latex negro obsidiana con hombros alados arquitectónicos + panniers de cadera sobre brief alto. Nocturno escultórico.
@@ -34710,12 +34710,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 690: Plum Sovereign (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lenceria - Lenceria Fetish Vampiress Domme - ciruela + negro — Contraste - stiletto + medias)
+## Look 690: Plum Sovereign (01/07/2026 - batch L681-L690 "Vampiresa Bimbo Sensual" - Lencería - Lencería Fetish Vampiress Domme - ciruela + negro — Contraste - stiletto + medias)
 
 *Lencería fetish domme vampiresa. Underbust corset de cuero ciruela con longline bra, thong, medias con costura y collar O-ring. Soberana inmortal. Punta cerrada por las medias.* 🧛👠
 
 - **Ubicacion:** `05_Imagenes/ele/look690_plum_sovereign/`
-- **Categoria:** Lenceria
+- **Categoria:** Lencería
 - **Subcategoria:** Lenceria Fetish Vampiress Domme
 - **Tags:** #domestic #latex #vinyl #lingerie #fetish #vampiress #plum #black #leather #corset #seamed #collar #domme #batchL681-L690 #V5poses
 - **Concepto:** Lencería fetish domme vampiresa. Underbust corset de cuero ciruela con longline bra, thong, medias con costura y collar O-ring. Soberana inmortal. Punta cerrada por las medias.
@@ -35507,7 +35507,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 
-## Look 701: Peacock Empress Couture (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · High-Fashion Editorial · HF Peacock Couture · pavo real / geisha · con medias)
+## Look 701: Peacock Empress Couture (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · High-Fashion Editorial Editorial · HF Peacock Couture · pavo real / geisha · con medias)
 
 *Emperatriz-pavo real de alta costura. Bustier escultórico peacock-teal iridiscente, cuello mandarín, corona de plumas doradas, falda con abertura al muslo y medias teal con costura de oro que asoman por el tajo.* 🦚👘🧦
 
@@ -36110,7 +36110,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 710: Wushu Dojo Wet-Look (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · Gym/Athleisure · Athleisure Street · pavo real / geisha · con medias)
+## Look 710: Wushu Dojo Wet-Look (03/07/2026 · batch L701-L710 "Oriental Peacock Geisha" · Gym · Athleisure Street · pavo real / geisha · con medias)
 
 *Wushu de dojo. Top wet-look negro cruzado tipo gi, mini falda con faja obi roja sobre medias de red (fishnet), dragón esmeralda-pavo real en el muslo y plataformas cerradas. Athleisure marcial fetish.* 🦚👘🧦
 
@@ -36709,7 +36709,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 721: Gunmetal Sculptural Cuirass (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · High-Fashion Editorial · HF Sculptural Cuirass · Contraste)
+## Look 721: Gunmetal Sculptural Cuirass (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · High-Fashion Editorial Editorial · HF Sculptural Cuirass · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look721_gunmetal_sculptural_cuirass/`
 - **Tags:** #latex #pvc #hfeditorial #vinyl #chrome #stiletto #V5poses #batchL721-L730
 
@@ -36969,7 +36969,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 726: Burnt Orange Track Set (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Gym/Athleisure · Athleisure Street (Track Suit) · Contraste)
+## Look 726: Burnt Orange Track Set (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Gym · Athleisure Street (Track Suit) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look726_burnt_orange_track_set/`
 - **Tags:** #latex #wetlook #gym #athleisure #vinyl #pleaser #V5poses #batchL721-L730
 
@@ -37185,7 +37185,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 730: Oxblood Full Harness (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Lenceria · Fetish Arquitectonico (Full Body Harness) · Contraste)
+## Look 730: Oxblood Full Harness (07/07/2026 · batch L721-L730 "Equilibrio de Polos" · Lencería · Fetish Arquitectonico (Full Body Harness) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look730_oxblood_full_harness/`
 - **Tags:** #vinyl #lenceria #latex #stiletto #V5poses #batchL721-L730
 
@@ -37523,7 +37523,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 736: White Bridal Armor Schiaparelli (07/07/2026 · batch L731-L740 "Novia Fetish" · High-Fashion Editorial · HF Editorial Bridal Armor (Schiaparelli Bustier-Gown) · Contraste)
+## Look 736: White Bridal Armor Schiaparelli (07/07/2026 · batch L731-L740 "Novia Fetish" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial Bridal Armor (Schiaparelli Bustier-Gown) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look736_white_bridal_armor_schiaparelli/`
 - **Tags:** #vinyl #chrome #crystal #hfeditorial #schiaparelli #bridal #sculptural #V5poses #batchL731-L740
 
@@ -37635,7 +37635,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 738: Ivory Wedding Night Harness (07/07/2026 · batch L731-L740 "Novia Fetish" · Lenceria · Fetish Arquitectonico (Wedding Night Harness) · Contraste)
+## Look 738: Ivory Wedding Night Harness (07/07/2026 · batch L731-L740 "Novia Fetish" · Lencería · Fetish Arquitectonico (Wedding Night Harness) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look738_ivory_wedding_night_harness/`
 - **Tags:** #satin #lenceria #harness #bridal #latex #V5poses #batchL731-L740
 
@@ -37747,7 +37747,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 740: White Bride Bachelorette Athleisure (07/07/2026 · batch L731-L740 "Novia Fetish" · Gym/Athleisure · Athleisure Street (Bride-to-Be Bachelorette) · Contraste)
+## Look 740: White Bride Bachelorette Athleisure (07/07/2026 · batch L731-L740 "Novia Fetish" · Gym · Athleisure Street (Bride-to-Be Bachelorette) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look740_white_bride_bachelorette_athleisure/`
 - **Tags:** #vinyl #wetlook #gym #athleisure #bridal #bachelorette #V5poses #batchL731-L740
 
@@ -38083,7 +38083,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 746: Black Sirena Widow Cape Column (07/07/2026 · batch L741-L750 "Viuda Negra" · High-Fashion Editorial · HF Editorial Sirena Widow (Cape Column) · Contraste)
+## Look 746: Black Sirena Widow Cape Column (07/07/2026 · batch L741-L750 "Viuda Negra" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial Sirena Widow (Cape Column) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look746_black_sirena_widow_cape_column/`
 - **Tags:** #vinyl #chrome #hfeditorial #sirena #blackwidow #cape #V5poses #batchL741-L750
 
@@ -38195,7 +38195,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 748: Black Mourning Bodystocking (07/07/2026 · batch L741-L750 "Viuda Negra" · Lenceria · Fetish Arquitectonico (Mourning Bodystocking) · Contraste)
+## Look 748: Black Mourning Bodystocking (07/07/2026 · batch L741-L750 "Viuda Negra" · Lencería · Fetish Arquitectonico (Mourning Bodystocking) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look748_black_mourning_bodystocking/`
 - **Tags:** #mesh #satin #chrome #lenceria #bodystocking #blackwidow #harness #V5poses #batchL741-L750
 
@@ -38307,7 +38307,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 750: Black Widow Bachelorette Ribbed (07/07/2026 · batch L741-L750 "Viuda Negra" · Gym/Athleisure · Gym Performance (Widow Bachelorette Ribbed Set) · Contraste)
+## Look 750: Black Widow Bachelorette Ribbed (07/07/2026 · batch L741-L750 "Viuda Negra" · Gym · Gym Performance (Widow Bachelorette Ribbed Set) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look750_black_widow_bachelorette_ribbed/`
 - **Tags:** #vinyl #chrome #seamless #gym #performance #blackwidow #ribbed #V5poses #batchL741-L750
 
@@ -38643,7 +38643,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 756: Liquid Panel Deconstruction (10/07/2026 · batch L751-L760 "Medianoche Liquida" · High-Fashion Editorial · Panel-Dress Geometrico Deconstruido (Liquid Chrome) · Monoblock)
+## Look 756: Liquid Panel Deconstruction (10/07/2026 · batch L751-L760 "Medianoche Liquida" · High-Fashion Editorial Editorial · Panel-Dress Geometrico Deconstruido (Liquid Chrome) · Monoblock)
 - **Ubicacion:** `05_Imagenes/ele/look756_liquid_panel_deconstruction/`
 - **Tags:** #vinyl #hfeditorial #sculptural #liquidmidnight #chrome #V5poses #batchL751-L760
 
@@ -38811,7 +38811,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 759: Liquid Latex Midnight Training (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Gym/Athleisure · Gym Performance (Athletic Bodysuit, Liquid Latex) · Contraste)
+## Look 759: Liquid Latex Midnight Training (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Gym · Gym Performance (Athletic Bodysuit, Liquid Latex) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look759_liquid_latex_midnight_training/`
 - **Tags:** #vinyl #chrome #wetlook #gym #performance #liquidmidnight #latex #V5poses #batchL751-L760
 
@@ -38867,7 +38867,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 760: Liquid Shadow Chemise (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Lenceria · Luxury Boudoir (Chemise Slip Liquid Sheer) · Monoblock)
+## Look 760: Liquid Shadow Chemise (10/07/2026 · batch L751-L760 "Medianoche Liquida" · Lencería · Luxury Boudoir (Chemise Slip Liquid Sheer) · Monoblock)
 - **Ubicacion:** `05_Imagenes/ele/look760_liquid_shadow_chemise/`
 - **Tags:** #satin #chrome #lenceria #boudoir #liquidmidnight #sheer #V5poses #batchL751-L760
 
@@ -38923,7 +38923,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 761: Jade Carnivora Couture (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial · HF Editorial Botanica Carnivora (Petal Gown) · Monoblock)
+## Look 761: Jade Carnivora Couture (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial Botanica Carnivora (Petal Gown) · Monoblock)
 - **Ubicacion:** `05_Imagenes/ele/look761_jade_carnivora_couture/`
 - **Tags:** #pvc #vinyl #chrome #wetlook #hfeditorial #couture #jade #latex #carnivora #venenotropical #V5poses #batchL761-L770
 
@@ -38979,7 +38979,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 762: Python Amber Armor Column (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial · HF Editorial Armor Column (Python Lacquer) · Contraste)
+## Look 762: Python Amber Armor Column (12/07/2026 · batch L761-L770 "Veneno Tropical" · High-Fashion Editorial Editorial · High-Fashion Editorial Editorial Armor Column (Python Lacquer) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look762_python_amber_armor_column/`
 - **Tags:** #pvc #vinyl #wetlook #hfeditorial #python #animalprint #amber #latex #venenotropical #V5poses #batchL761-L770
 
@@ -39147,7 +39147,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 765: Emerald Balconette Corselette (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lenceria · Lenceria Fetish Arquitectonico (Balconette Corselette) · Monoblock)
+## Look 765: Emerald Balconette Corselette (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lencería · Lencería Fetish Arquitectonico (Balconette Corselette) · Monoblock)
 - **Ubicacion:** `05_Imagenes/ele/look765_emerald_balconette_corselette/`
 - **Tags:** #chrome #seamless #lenceria #fetish #corselette #emerald #latex #medias #venenotropical #V5poses #batchL761-L770
 
@@ -39203,7 +39203,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 766: Lime Translucent Peignoir (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lenceria · Lenceria Luxury Boudoir (Translucent Peignoir Set) · Contraste)
+## Look 766: Lime Translucent Peignoir (12/07/2026 · batch L761-L770 "Veneno Tropical" · Lencería · Lencería Luxury Boudoir (Translucent Peignoir Set) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look766_lime_translucent_peignoir/`
 - **Tags:** #latex #vinyl #chrome #lenceria #boudoir #peignoir #limeneon #translucent #mule #venenotropical #V5poses #batchL761-L770
 
@@ -39758,7 +39758,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 776: Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial · Salt Flat Sculptural Cape-Gown · Contraste)
+## Look 776: Mirror Cape Sculpture (13/07/2026 · batch L771-L780 "Desierto de Sal" · High-Fashion Editorial Editorial · Salt Flat Sculptural Cape-Gown · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look776_mirror_cape_sculpture/`
 - **Tags:** #desiertodesal #hfeditorial #cape #silvermirror #batchL771-L780 #V5poses
 
@@ -39870,7 +39870,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 778: Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lenceria · Salt Flat Boudoir (Longline Bra + Garter) · Contraste)
+## Look 778: Blush Ivory Boudoir (13/07/2026 · batch L771-L780 "Desierto de Sal" · Lencería · Salt Flat Boudoir (Longline Bra + Garter) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look778_blush_ivory_boudoir/`
 - **Tags:** #desiertodesal #lenceria #boudoir #blush #ivory #seamed #batchL771-L780 #V5poses
 
@@ -39982,7 +39982,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 780: Pearl Two-Piece Flow (13/07/2026 · batch L771-L780 "Desierto de Sal" · Gym/Athleisure · Salt Flat Reformer (Two-Piece Mirror Set) · Monoblock)
+## Look 780: Pearl Two-Piece Flow (13/07/2026 · batch L771-L780 "Desierto de Sal" · Gym · Salt Flat Reformer (Two-Piece Mirror Set) · Monoblock)
 - **Ubicacion:** `05_Imagenes/ele/look780_pearl_twopiece_flow/`
 - **Tags:** #desiertodesal #gym #pearlwhite #twopiece #batchL771-L780 #V5poses
 
@@ -40318,7 +40318,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 786: Silver Black Angular Couture (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · High-Fashion Editorial · Rock Sculptural Couture (Angular Shoulder Gown) · Contraste)
+## Look 786: Silver Black Angular Couture (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · High-Fashion Editorial Editorial · Rock Sculptural Couture (Angular Shoulder Gown) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look786_silver_black_angular_couture/`
 - **Tags:** #glamrock #hfeditorial #silver #black #pvc #batchL781-L790 #V5poses
 
@@ -40430,7 +40430,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 788: Black Purple Studded Boudoir (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Lenceria · Rock Tour Bunk Boudoir (Studded Bustier + Garter) · Contraste)
+## Look 788: Black Purple Studded Boudoir (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Lencería · Rock Tour Bunk Boudoir (Studded Bustier + Garter) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look788_black_purple_studded_boudoir/`
 - **Tags:** #glamrock #lenceria #black #purple #studded #fishnet #batchL781-L790 #V5poses
 
@@ -40542,7 +40542,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 790: Purple Fuchsia Aerobics Sequin (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Gym/Athleisure · Rock 80s Aerobics Studio (Sequin Leotard + Leg Warmers) · Contraste)
+## Look 790: Purple Fuchsia Aerobics Sequin (13/07/2026 · batch L781-L790 "Glam Rock 80-90" · Gym · Rock 80s Aerobics Studio (Sequin Leotard + Leg Warmers) · Contraste)
 - **Ubicacion:** `05_Imagenes/ele/look790_purple_fuchsia_aerobics_sequin/`
 - **Tags:** #glamrock #gym #purple #fuchsia #sequinvinyl #legwarmers #batchL781-L790 #V5poses
 
@@ -40877,7 +40877,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 796: Sapphire Vault Sculpture Gown (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Art-Vault Sculptural (Strapless Mermaid Gown) · Monoblock)
+## Look 796: Sapphire Vault Sculpture Gown (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial Editorial · Art-Vault Sculptural (Strapless Mermaid Gown) · Monoblock)
 - **Ubicacion:** `05_Imagenes/ele/look796_sapphire_vault_sculpture_gown/`
 - **Tags:** #hfeditorial #vinyl #sapphire #batchL791-L800 #V5poses
 
@@ -41101,7 +41101,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Look 800: Chrome Hooded Column (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial · Studio Cyclorama (Hooded Liquid-Metal Sheath) · Monoblock)
+## Look 800: Chrome Hooded Column (14/07/2026 · batch L791-L800 "Cámara Acorazada" · High-Fashion Editorial Editorial · Studio Cyclorama (Hooded Liquid-Metal Sheath) · Monoblock)
 - **Ubicacion:** `05_Imagenes/ele/look800_chrome_hooded_column/`
 - **Tags:** #hfeditorial #chrome #liquidmetal #batchL791-L800 #V5poses
 
