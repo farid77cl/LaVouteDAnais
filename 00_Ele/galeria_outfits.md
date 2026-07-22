@@ -4430,7 +4430,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mon amour.. Corporate CB1 — Office Siren Classic TikTok 2023-2025. Pencil skirt midi high-waist vinyl + sheer silk blouse con nipple peek + Bayonetta glasses + ponytail tight. jiji.* 🌫️✨
 
-- **Ubicacion:** `05_Imagenes/ele/look260_corporate_office_siren/`
+- **Ubicacion:** `05_Imagenes/ele/look260_charcoal_sheer_office_siren_classic/`
 - **Categoría:** Corporate
 - **Subcategoría:** Corporate Polo B Office Siren CB1
 - **Tags:** #vinyl #chrome #batchL241-L260 #corporate #officesiren #tiktok #bayonettaglasses #charcoal #CB1 #refsMayo2026
@@ -28794,7 +28794,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look601_gym_pink_flash/ele_601_standing.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_back_view.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_seated.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_side_profile.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_ditzy.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_pov.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_standing.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_back_view.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_seated.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_side_profile.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_ditzy.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_pov.png) | [📸 View](../../05_Imagenes/ele/look601_pink_flash_gym/ele_601_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -28988,7 +28988,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Hot pants de vinilo negro, medias de red y plataformas plateadas brillantes. El reflejo de los láseres en el club. 🪩🥈✨*
 
-- **Ubicacion:** `05_Imagenes/ele/look604_nightclub_silver_chrome/`
+- **Ubicacion:** `05_Imagenes/ele/look604_silver_chrome_dancer/`
 - **Categoría:** Nightclub
 - **Subcategoría:** Nightclub (Platform Obsession)
 - **Tags:** #vinyl #chrome #hotpants #fishnets #sandals #platform #nightclub #fetish #batchL601-L610 #V5poses
@@ -29001,7 +29001,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look604_nightclub_silver_chrome/ele_604_standing.png) | [📸 View](../../05_Imagenes/ele/look604_nightclub_silver_chrome/ele_604_back_view.png) | [📸 View](../../05_Imagenes/ele/look604_nightclub_silver_chrome/ele_604_seated.png) | [📸 View](../../05_Imagenes/ele/look604_nightclub_silver_chrome/ele_604_side_profile.png) | [📸 View](../../05_Imagenes/ele/look604_nightclub_silver_chrome/ele_604_ditzy.png) | [📸 View](../../05_Imagenes/ele/look604_nightclub_silver_chrome/ele_604_pov.png) | [📸 View](../../05_Imagenes/ele/look604_nightclub_silver_chrome/ele_604_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_standing.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_back_view.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_seated.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_side_profile.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_ditzy.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_pov.png) | [📸 View](../../05_Imagenes/ele/look604_silver_chrome_dancer/ele_604_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 

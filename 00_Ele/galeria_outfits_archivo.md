@@ -11,7 +11,7 @@
 
 *O sea, tipo, súper fresa, obvio. jiji.* 💄✨
 
-- **Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo/`
+- **Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo_xxxl/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #glossy
@@ -143,7 +143,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Vinyl Flight Attendant — look de archivo de Ele.* ✈️✨
 
-- **Ubicación:** `05_Imagenes/ele/look087_ele_v3_core/`
+- **Ubicación:** `05_Imagenes/ele/look087_vinyl_flight_attendant/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
 - **Tags:** #vinyl
@@ -604,18 +604,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *The Locked Legacy — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy/`
 - **Categoría:** Lencería
 - **Tags:** #latex
 - **Concepto:** La culminación de "El Secreto de la Cómoda". Rocío como la perfecta "Muñeca Retro" de 1964. Lencería técnica de la abuela Anaís y el candado de latón definitivo.
 - **Outfit:** Candado de latón en el collar de cuero, faja de látex color carne (open-bottom girdle), bullet bra blanco
 
 
-### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_back_view.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_pov.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_standing.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_back_view.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_seated.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_side_profile.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_ditzy.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_pov.png) | [📸 View](../../05_Imagenes/ele/look094_the_locked_legacy/ele_94_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -1329,11 +1329,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** a commanding black latex blazer-dress moulded to the body with strong sculpted shoulders, long fitted sleeves to the wrist, a deep plunging neckline, a wide cinched patent waist belt and a short hem, worn over black latex thigh-high stockings, 12-inch black patent pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto de charol negro de 12 pulgadas, punta cerrada, sin plataforma.
 
-### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_back_view.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_pov.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_standing.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_back_view.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_seated.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_side_profile.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_ditzy.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_pov.png) | [📸 View](../../05_Imagenes/ele/look106_ultimate_latex_ceo/ele_106_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -1452,11 +1452,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Outfit:** a high-gloss black latex French-maid mini dress with a sweetheart bust and a very short flared skirt, trimmed with white PVC ruffles at the bust and hem, a white PVC frilled pinafore apron, a white PVC choker, and black fishnet stockings, 6-inch black patent closed-toe Pleaser platform stilettos
 - **Tacones:** Plataforma Pleaser de charol negro de 6 pulgadas, punta cerrada.
 
-### 📸 Imágenes (4/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_back_view.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_side_profile.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_pov.png) | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_standing.png) | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_back_view.png) | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_seated.png) | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_side_profile.png) | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_ditzy.png) | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_pov.png) | [📸 View](../../05_Imagenes/ele/look105_highgloss_french_maid/ele_105_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -1771,7 +1771,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_pov.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_standing.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_back_view.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_seated.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_side_profile.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_ditzy.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_pov.png) | [📸 View](../../05_Imagenes/ele/look112_stepford_domestic_gold/ele_112_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -2135,7 +2135,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Noir Vinyl & Blood Lace — look de archivo de Ele.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace/`
+- **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/`
 - **Categoría:** Lencería
 - **Tags:** #vinyl #glossy
 - **Concepto:** **Fetish Boudoir / Lingerie Élite**. Contraste de texturas. El vinilo negro de alto brillo se funde con el encaje carmesí intrincado.
@@ -2811,7 +2811,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Silk & Noir Lace Boudoir — look de archivo de Ele.* 🌑✨
 
-- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace/`
+- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace_lingerie/`
 - **Categoría:** Lencería
 - **Tags:** #silk #satin #glossy
 - **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
@@ -3059,7 +3059,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 *Silk & Noir Lace Boudoir — look de archivo de Ele.* 🌑✨
 
-- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace/`
+- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace_lingerie/`
 - **Categoría:** Lencería
 - **Tags:** #silk #satin #glossy
 - **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
@@ -3139,7 +3139,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 *Bridal Purity — White Silk & Pearls — look de archivo de Ele.* 💜✨
 
-- **Ubicación:** `05_Imagenes/ele/look129_bridal_purity/`
+- **Ubicación:** `05_Imagenes/ele/look129_bridal_purity_lingerie/`
 - **Categoría:** Lencería
 - **Tags:** #silk #glossy
 - **Concepto:** **Bridal Purity / White Silk & Pearls**. Estética nupcial de alta gama. Máxima pureza visual para el modelo V3.3.
@@ -3428,7 +3428,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Emerald Silk & Noir Lace — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look132_emerald_silk_lace/`
+- **Ubicación:** `05_Imagenes/ele/look132_emerald_silk_lace_lingerie/`
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 - **Concepto:** **Emerald Silk & Noir Lace Teddy**. Enterito de lencería suave en seda y encaje. **NO PVC. NO CORSET.**
@@ -3612,7 +3612,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Champagne Silk & Gold Sequins — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look134_champagne_silk_sequins/`
+- **Ubicación:** `05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/`
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #satin #glossy
 - **Concepto:** **Champagne Silk & Gold Negligee**. Babydoll corto de lujo en seda y lentejuelas. **NO PVC. NO CORSET.**
@@ -3704,7 +3704,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Silver Sequined Triangle — look de archivo de Ele.* 👙✨
 
-- **Ubicación:** `05_Imagenes/ele/look135_silver_sequined/`
+- **Ubicación:** `05_Imagenes/ele/look135_silver_sequined_bikini/`
 - **Categoría:** Bikini
 - **Tags:** #glossy
 - **Concepto:** **Silver Sequined Triangle**. Bikini de triángulo clásico recubierto de lentejuelas plateadas espejo.
@@ -4921,7 +4921,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Leopard Vinyl Empress (REDO Standardized) ✅ MATERIALIZADO — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look160/`
+- **Ubicación:** `05_Imagenes/ele/look160_leopard_vinyl_empress/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
 - **Tags:** #leopard #vinyl #fetish #gold #animalprint
@@ -5127,17 +5127,17 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy_materializado/ele_162_standing.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pose2_back.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_standing.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_back_view.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_seated.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_side_profile.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_ditzy.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_pov.png) | [📸 View](../../05_Imagenes/ele/look162_pvc_maid_fantasy/ele_162_odalisque.png) |
 
 ## 📸 Look 163: Mirror-Gold Pole Goddess ✅ MATERIALIZADO (28/04/2026 — Mix · Professional Stripper)
 
 *Mirror-Gold Pole Goddess ✅ MATERIALIZADO — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look163_mirror_gold_pole/`
+- **Ubicación:** `05_Imagenes/ele/look163_mirrorgold_pole_goddess/`
 - **Categoría:** Mix
 - **Subcategoría:** Professional Stripper
 - **Tags:** #gold #mirror #stripper #liquidmetal #highgloss
@@ -5199,11 +5199,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 
-### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess_materializado/ele_163_pose1_standing.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess_materializado/ele_163_back_view.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess_materializado/ele_163_pose3_seated.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess_materializado/ele_163_pose4_side_profile.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess_materializado/ele_163_ditzy.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess_materializado/ele_163_pose6_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_standing.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_back_view.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_seated.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_side_profile.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_ditzy.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_pov.png) | [📸 View](../../05_Imagenes/ele/look163_mirrorgold_pole_goddess/ele_163_odalisque.png) |
 
 ## 📸 Look 164: Diamond Red Latex Gala (28/04/2026 — Mix · Escort de Lujo)
 

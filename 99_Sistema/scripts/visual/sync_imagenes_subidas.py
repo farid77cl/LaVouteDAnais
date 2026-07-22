@@ -199,7 +199,15 @@ def actualizar_galeria():
     # prompt suelto (**Standing:**). NO se puede anclar en "### 📝 Prompts": la mitad de los looks
     # no tiene ese heading y quedaban invisibles al sync (L717/L732 llevaban días en 0/7 con las
     # 7 imágenes en disco, y la Ama regeneraba lo que ya existía).
-    img_re = re.compile(r"^### 📸 Imágenes[^\n]*\n(?:(?!^#{2,3}\s|^\*\*Standing:\*\*).*\n)*", re.MULTILINE)
+    # El ancla de corte DEBE cubrir las dos formas en que se escriben los prompts sueltos:
+    # `**Standing:**` y `**1. Standing:**`. Reconocer solo la primera es destructivo: en un
+    # look numerado y sin heading `### 📝`, la sección 📸 se comía TODOS los prompts hasta el
+    # siguiente `##` y construir_seccion los reemplazaba por la tabla. Medido el 22/07/2026:
+    # 63 prompts (9 looks × 7 poses, L691-L700) borrados en el árbol de trabajo. No llegó a
+    # commitearse porque el conteo de prompts se comparó contra HEAD antes de guardar.
+    img_re = re.compile(
+        r"^### 📸 Imágenes[^\n]*\n(?:(?!^#{2,3}\s|^\*\*\s*\d*\.?\s*Standing:?\*\*).*\n)*",
+        re.MULTILINE)
     for block in parts:
         m = re.match(r"^## .*?Look (\d+):", block)
         if not m:
@@ -238,6 +246,22 @@ def actualizar_galeria():
                     rutas_corregidas.append(n)
         out.append(block)
     nuevo = "".join(out)
+
+    # GUARDIA DE NO-DESTRUCCIÓN: este script toca SOLO la sección 📸. Si el número de
+    # prompts o de fichas cambió, algún regex se comió contenido que no le tocaba y es
+    # preferible abortar ruidosamente a guardar la pérdida (22/07/2026: un ancla de corte
+    # incompleta borró 63 prompts). Falla fuerte, no en silencio.
+    def censo(t):
+        return (len(re.findall(r"^stunning woman with", t, re.MULTILINE)),
+                len(re.findall(r"^## .*?Look \d+:", t, re.MULTILINE)),
+                len(re.findall(r"^\*\*Negative Prompt", t, re.MULTILINE)))
+
+    antes, despues = censo(content), censo(nuevo)
+    if antes != despues:
+        raise SystemExit(
+            f"❌ ABORTADO sin escribir: el contenido no-📸 cambió.\n"
+            f"   (prompts, fichas, negativos)  antes={antes}  después={despues}")
+
     if nuevo != content:
         with open(GALERIA, "w", encoding="utf-8") as f:
             f.write(nuevo)
