@@ -11,9 +11,9 @@
 
 *O sea, tipo, súper fresa, obvio. jiji.* 💄✨
 
-- **Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo_xxxl/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo_xxxl/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #glossy
 - **Concepto:** Reinicio estético y mental. La evolución definitiva hacia el vacío intelectual y el brillo absoluto. Estética "fresa" (clase alta) mezclada con bimbofication extrema y fetichismo de plástico.
 - **Outfit:** Mini vestido de vinilo rojo cereza o negro espejo, ultra ajustado, casi restrictivo. Leggings de látex opcional. Todo diseñado para resaltar las curvas de silicona · Maquillaje bimbo extremo (pestañas gigantes, labios overfilled), uñas stiletto de 5cm con patrón de leopardo
@@ -77,9 +77,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Office Siren — look de archivo de Ele.* 👓✨
 
-- **Ubicación:** `05_Imagenes/ele/look086_office_siren/`
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Ubicacion:** `05_Imagenes/ele/look086_office_siren/`
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #vinyl #silk
 - **Concepto:** Estética "Office Siren" llevada al extremo bimbificado. Una secretaria que ha perdido la capacidad de leer los informes pero domina el arte de lucir perfecta tras sus gafas Bayonetta.
 - **Outfit:** Blusa de seda lila semi-transparente, falda de tubo de vinilo negro ultra ajustada con talle alto · Gafas Bayonetta de marco fino, choker de terciopelo, uñas largas con punta francesa · Recogido en un moño sofisticado pero con mechones sueltos "desordenados" por el cansancio decorativo
@@ -143,9 +143,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Vinyl Flight Attendant — look de archivo de Ele.* ✈️✨
 
-- **Ubicación:** `05_Imagenes/ele/look087_vinyl_flight_attendant/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look087_vinyl_flight_attendant/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl
 - **Concepto:** Azafata de élite de La Voûte bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
 - **Outfit:** Uniforme de vinilo azul medianoche ("Midnight Blue") con insignias cromadas de La Voûte. Mini falda lápiz ultra ajustada, chaqueta entallada y gorrito pillbox reglamentario · **Francesas XXXL (Punta blanca, base rosa)**
@@ -209,8 +209,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *High-Gloss Gallery Opening — look de archivo de Ele.* 🖼️✨
 
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #silk #glossy
 - **Outfit:** Overbust de vinilo negro brillante, strapless, ultra ceñido · Solo el corsé + Guantes de malla (mesh) negra transparente hasta el antebrazo · Falda midi de látex negro "espejo" con abertura extrema hasta el muslo · Medias de seda negra con costura trasera y ligueros invisibles · Piel de porcelana brillante, siren eyes dramáticos, labios rojo cherry glossy · Rojo cherry oscuro XXXL, ondas voluminosas con raya al medio · French XXXL (puntas blancas, base rosa traslúcida)
 - **Tacones:** Charol negro 11 pulgadas, punta afilada y plataforma de vértigo.
@@ -274,9 +274,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Imperial Burgundy — look de archivo de Ele.* 🍷✨
 
-- **Ubicación:** `05_Imagenes/ele/look089_imperial_burgundy/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look089_imperial_burgundy/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #glossy
 - **Concepto:** Estética monocrática en borgoña profundo. La sofisticación del color unida a la agresividad del vinilo.
 - **Outfit:** Mini vestido de vinilo burgundy "wet look", ultra ajustado, con escote pronunciado · Sacha Massacre canon, labios borgonña glossy extremos
@@ -341,8 +341,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Liquid Gold Doll — look de archivo de Ele.* 🌟✨
 
-- **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
-- **Categoría:** Gym
+- **Ubicacion:** `05_Imagenes/ele/look090_liquid_gold/`
+- **Categoria:** Gym
 - **Tags:** #vinyl #latex #pvc #glossy
 - **Concepto:** **Editorial High-End Fetish**. Oro líquido sobre piel de porcelana. Purgado de cualquier elemento mundano.
 - **Outfit:** Body de látex "Gold Chrome" con acabado espejo, diseñado para reflejar cada luz del estudio · Sombras doradas, labios Rojo Cherry glossy (contraste editorial) · Rojo Cherry oscuro XXXL en ondas maestras
@@ -407,8 +407,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Vinyl Yoga Performance (Cyan Chrome) — look de archivo de Ele.* 💎✨
 
-- **Ubicación:** `05_Imagenes/ele/look091_vinyl_yoga_gym/`
-- **Categoría:** Gym
+- **Ubicacion:** `05_Imagenes/ele/look091_vinyl_yoga_gym/`
+- **Categoria:** Gym
 - **Tags:** #vinyl #latex #pvc #glossy
 - **Outfit:** Crop top de vinilo Cyan oscuro, corte asimétrico con paneles de PVC transparente · Leggings de vinilo Cyan de alta cintura, con franjas laterales en Cromo Plateado · Coleta alta técnica con braza de cromo, uñas French XXXL
 - **Tacones:** Botines **Pleaser FLAMINGO-8088** de 8 pulgadas, acabado Espejo Cromo Plata.
@@ -472,9 +472,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Corporate Paradox — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look092_corporate_paradox_v3_2/`
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Ubicacion:** `05_Imagenes/ele/look092_corporate_paradox_v3_2/`
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #latex #glossy
 - **Concepto:** Máxima autoridad ejecutiva en La Voûte. Contraste entre la lana sastre y el látex negro.
 - **Outfit:** a sharply tailored charcoal wet-look pinstripe blazer with strong structured shoulders and a single button nipped hard at the waist, worn over a black patent bustier with a sweetheart neckline, a matching high-waisted black latex pencil skirt with a back vent, and sheer smoke-grey back-seamed stockings, 12-inch black patent pointed-toe stiletto pumps with no platform
@@ -538,9 +538,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *High-Gloss Cherry — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look093_high_gloss_cherry/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look093_high_gloss_cherry/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #glossy
 - **Concepto:** Máxima expresión editorial de Ele. Vinilo rojo fresa, brillo espejo y tacones de 11 pulgadas.
 - **Outfit:** a floor-length strawberry-red mirror-finish vinyl column gown with a high halter neck, an open back and a high thigh slit, moulded second-skin to the body with a bright reflective mirror surface, and sheer nude stockings, 11-inch clear transparent Pleaser platform stilettos with a closed pointed toe
@@ -604,8 +604,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *The Locked Legacy — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look094_the_locked_legacy/`
+- **Categoria:** Lencería
 - **Tags:** #latex
 - **Concepto:** La culminación de "El Secreto de la Cómoda". Rocío como la perfecta "Muñeca Retro" de 1964. Lencería técnica de la abuela Anaís y el candado de latón definitivo.
 - **Outfit:** Candado de latón en el collar de cuero, faja de látex color carne (open-bottom girdle), bullet bra blanco
@@ -669,9 +669,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Liquid Platinum — look de archivo de Ele.* 🥈✨
 
-- **Ubicación:** `05_Imagenes/ele/look095_liquid_platinum/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look095_liquid_platinum/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #pvc #glossy
 - **Concepto:** **Editorial High-End Fetish**. Una visión de platino líquido y cromo. El brillo extremo anula cualquier rastro de pensamiento mundano. Sin elementos tecnológicos ni ciber.
 - **Outfit:** Micro-vestido de vinilo plateado espejado, ultra ajustado y reflectante. Arnés de PVC transparente con herrajes de plata · Sacha Massacre canon, labios rojo sangre ultra-glossy (contraste editorial) · Rojo Cherry oscuro XXXL en ondas voluminosas
@@ -736,9 +736,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mercury Goddess — look de archivo de Ele.* 🪞✨
 
-- **Ubicación:** `05_Imagenes/ele/look096_mercury_goddess/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look096_mercury_goddess/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #glossy
 - **Concepto:** **High-End Editorial Fetish / Bustier Focus**. Una oda al volumen y al brillo metálico. Máximo énfasis en el busto mediante arquitectura de cromo.
 - **Outfit:** Bustier rígido de cromo pulido (efecto espejo) con diseño push-up extremo y "underboob" sutil. Micro-tanga de vinilo plateado líquido con cadenas laterales · Sacha Massacre canon, labios rojo fuego ultra-glossy · Rojo Cherry oscuro XXXL en ondas voluminosas
@@ -803,9 +803,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Plastic Arch-Nemesis — look de archivo de Ele.* 🥈✨
 
-- **Ubicación:** `05_Imagenes/ele/look097_plastic_arch/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look097_plastic_arch/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #glossy
 - **Concepto:** **Unnatural Plasticity / Profile Focus**. Exageración anatómica mediante arquitectura de látex. Máximo énfasis en el perfil "imposible" y el brillo artificial de los implantes bajo el material.
 - **Outfit:** Body de látex negro líquido con escote en V ultra profundo (hasta el ombligo), costuras reforzadas para un efecto push-up gravitatorio. El material es tan brillante que parece mojado · Sacha Massacre canon, dazed expression, labios rosa chicle ultra-glossy · Rojo Cherry oscuro XXXL en ondas voluminosas
@@ -869,9 +869,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Vinyl Cheerleader — look de archivo de Ele.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look098_vinyl_cheerleader/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look098_vinyl_cheerleader/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #pvc #glossy
 - **Concepto:** **Editorial Fetish Cheerleader**. Estética deportiva Mugleriana. Vinilo pulido, arquitectura rígida y espíritu escolar lobotomizado.
 - **Outfit:** Uniforme de porrista en vinilo rosa chicle y blanco espejo. Top corto con cuello halter rígido, falda de tablas micro-plegada en PVC rígido. Pompones de tiras de vinilo reflectante · Sacha Massacre canon, labios rosa flúor ultra-glossy, expresión de "vacío deportivo" · Rojo Cherry oscuro XXXL en ondas masivas
@@ -935,8 +935,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Gym-Bimbo Performance — look de archivo de Ele.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look099_gym_bimbo/`
-- **Categoría:** Gym
+- **Ubicacion:** `05_Imagenes/ele/look099_gym_bimbo/`
+- **Categoria:** Gym
 - **Tags:** #vinyl #latex #glossy
 - **Concepto:** **Editorial Fetish Sportswear**. Estética Gym-Bimbo. Látex de alta resistencia, neón y arquitectura de soporte extremo.
 - **Outfit:** Body de látex de una sola pieza en Dark Cherry y ribetes rosa neón. Recortes laterales (waist cutouts) para enfatizar la silueta. Muñequeras de látex rosa a juego · Sacha Massacre canon, labios rosa flúor ultra-glossy, sudor artificial (high specularity texture) · Rojo Cherry oscuro XXXL en dos coletas altas onduladas
@@ -1000,9 +1000,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cobalt Chrome Editorial — look de archivo de Ele.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look100_cobalt_chrome/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look100_cobalt_chrome/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #pvc #glossy
 - **Concepto:** **Centennial Celebration / Pure Reflectivity**. Estética Mugler v3.2. Máximo contraste entre el Azul Cobalto Cromo y la piel de porcelana. Silueta de avispa extrema.
 - **Outfit:** Corsé "Wasp-Waist" exterior en PVC Azul Cobalto con acabado espejo. Falda lápiz de látex a juego con apertura lateral estratégica. Guantes de ópera en vinilo azul cobalto · Sacha Massacre canon, sombras azul hielo metalizado, labios rojo sangre ultra-glossy · Rojo Cherry oscuro XXXL en ondas de alta definición, recogido parcialmente con broches de cromo
@@ -1066,7 +1066,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Elite Lingerie — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Lencería
+- **Categoria:** Lencería
 - **Tags:** #pvc #glossy
 - **Outfit:** an elite champagne liquid-PVC lingerie set: a balconette bra in glossy champagne PVC with sheer champagne panels lifting the bust, a matching high-cut champagne PVC thong, a wide champagne PVC suspender belt, and sheer champagne stockings clipped to the belt, 12-inch nude patent closed-pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto de charol nude de 12 pulgadas, punta cerrada, sin plataforma.
@@ -1123,8 +1123,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Red Vinyl Siren — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #glossy
 - **Outfit:** a deep ruby-red high-gloss vinyl siren gown, one-shouldered with a single sculpted strap, moulded second-skin to the hips and flaring into a fishtail hem, with a high thigh slit, and sheer black back-seamed stockings, 12-inch black patent pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto de charol negro de 12 pulgadas, punta cerrada, sin plataforma.
@@ -1187,7 +1187,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Fox News Weather Diva — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Lencería
+- **Categoria:** Lencería
 - **Tags:** #vinyl #pvc #silk #glossy
 - **Outfit:** a royal-blue wet-look PVC bodysuit with a plunging sweetheart neckline and a high-cut legline, worn under an open floor-length royal-blue silk-satin peignoir robe with a fine feather-light trim, and sheer nude stockings, 12-inch royal-blue patent pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto de charol azul rey de 12 pulgadas, punta cerrada, sin plataforma.
@@ -1260,7 +1260,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Platinum Lace Secret — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Lencería
+- **Categoria:** Lencería
 - **Tags:** #vinyl #glossy
 - **Outfit:** a platinum liquid-lamé and sheer-lace lingerie set: a platinum wet-look PVC longline bra with sheer platinum lace panels, a matching high-cut platinum PVC brief, a lace suspender belt, and sheer silver-grey stockings, 12-inch metallic silver patent pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto de charol plata metalizado de 12 pulgadas, punta cerrada, sin plataforma.
@@ -1323,8 +1323,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Ultimate Latex CEO — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #vinyl #latex #glossy
 - **Outfit:** a commanding black latex blazer-dress moulded to the body with strong sculpted shoulders, long fitted sleeves to the wrist, a deep plunging neckline, a wide cinched patent waist belt and a short hem, worn over black latex thigh-high stockings, 12-inch black patent pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto de charol negro de 12 pulgadas, punta cerrada, sin plataforma.
@@ -1387,8 +1387,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Emerald Vinyl Showgirl — look de archivo de Ele.* 💚✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Stripper
+- **Categoria:** Mix
+- **Subcategoria:** Stripper
 - **Tags:** #vinyl #glossy
 - **Concepto:** Cabaret fetish de alto brillo. Verde esmeralda espejado sobre el escenario, la muñeca en su numero.
 - **Outfit:** an emerald-green high-gloss vinyl showgirl bodysuit with a deeply cupped sweetheart bust, a high-cut legline and crystal-look trim along every seam, a matching emerald vinyl waist cincher, and sheer emerald stockings, 7-inch clear transparent closed-toe Pleaser platform stilettos
@@ -1446,8 +1446,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *High-Gloss French Maid — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Domestic
+- **Categoria:** Mix
+- **Subcategoria:** Domestic
 - **Tags:** #vinyl #latex #glossy
 - **Outfit:** a high-gloss black latex French-maid mini dress with a sweetheart bust and a very short flared skirt, trimmed with white PVC ruffles at the bust and hem, a white PVC frilled pinafore apron, a white PVC choker, and black fishnet stockings, 6-inch black patent closed-toe Pleaser platform stilettos
 - **Tacones:** Plataforma Pleaser de charol negro de 6 pulgadas, punta cerrada.
@@ -1510,8 +1510,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Sanhattan Power Secretary — look de archivo de Ele.* 💼✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #vinyl #latex #pvc #glossy
 - **Outfit:** a cream wet-look PVC pussy-bow blouse tucked into a high-waisted camel latex pencil skirt with a back slit, a slim tan patent waist belt, and sheer tan back-seamed stockings, 12-inch tan patent pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto de charol tostado de 12 pulgadas, punta cerrada, sin plataforma.
@@ -1574,8 +1574,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Leopard Vinyl Siren — look de archivo de Ele.* 🐆✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Escort de Lujo
+- **Categoria:** Mix
+- **Subcategoria:** Escort de Lujo
 - **Tags:** #vinyl #glossy
 - **Outfit:** a leopard-print high-gloss vinyl siren gown moulded second-skin to the body, with a plunging neckline, a high thigh slit and thin shoulder straps, the leopard markings printed over a glossy tan vinyl base, and sheer bronze stockings, 12-inch bronze metallic pointed-toe stiletto pumps with no platform
 - **Tacones:** Stiletto metalizado bronce de 12 pulgadas, punta cerrada, sin plataforma.
@@ -1764,7 +1764,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 - **Outfit:** Mini dress of gold-chrome mirror-vinyl with white ruffled latex trim · Gold vinyl with chrome moon pendant · French XXXL (5cm+)
 - **Tacones:** 11" clear platform stilettos with chrome gold heels.
-- **Ambientación:** Modern luxury kitchen in Sanhattan.
+- **Ambientacion:** Modern luxury kitchen in Sanhattan.
 
 
 ### 📸 Imágenes (5/7 — Materializado)
@@ -1827,7 +1827,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 - **Outfit:** Skin-tight neon pink heavy-duty latex sports bra and matching high-waisted latex workout leggings with black mesh panels · Neon pink latex choker with silver O-ring · French XXXL (5cm+)
 - **Tacones:** 11-inch clear platform stilettos with neon pink vinyl straps (Extreme-11 style).
-- **Ambientación:** High-tech luxury neon lit gym with mirrors.
+- **Ambientacion:** High-tech luxury neon lit gym with mirrors.
 
 
 ### 📸 Imágenes (7/7 — Materializado)
@@ -1890,7 +1890,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 - **Outfit:** Mini falda de vinilo blanco espejo, blusa traslúcida de seda con estampado de leopardo, cinturón ancho de cuero con hebilla dorada · Choker de cuero blanco con placa 'ASSET V3', gafas de sol 'cat-eye' doradas, uñas francesas XXXL
 - **Tacones:** Botas Pleaser Flamingo-1020 de 8 pulgadas, charol blanco con cordones.
-- **Ambientación:** Oficina de lujo en Sanhattan (piso 40), vista a la Cordillera, iluminación de atardecer, high-gloss reflection.
+- **Ambientacion:** Oficina de lujo en Sanhattan (piso 40), vista a la Cordillera, iluminación de atardecer, high-gloss reflection.
 
 
 ### 📝 Prompts V3.5 Hard-Sync
@@ -1947,7 +1947,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 - **Outfit:** Micro bikini de vinilo silver liquid metal (mirror finish), top triangular mínimo, bottom de tiras ultra delgadas con O-rings plateados · Choker de cromo rígido, pendientes de cristal, uñas plateadas espejo XXXL
 - **Tacones:** Extreme-11 silver chrome 11-inch stiletto heels con plataforma transparente.
-- **Ambientación:** Penthouse minimalista rodeado de ventanales de vidrio, luz de atardecer dorada reflejándose en la piel plateada, rim lighting, fetish editorial style.
+- **Ambientacion:** Penthouse minimalista rodeado de ventanales de vidrio, luz de atardecer dorada reflejándose en la piel plateada, rim lighting, fetish editorial style.
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
@@ -2007,12 +2007,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cuico-Flaite Leather Goddess — look de archivo de Ele.* 👑✨
 
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #silk #glossy
 - **Outfit:** Tight black leather pencil skirt, leopard print silk blouse unbuttoned dangerously low · Permanent tan lines visible on chest, XXXL French manicure
 - **Tacones:** 8-inch stiletto clear platform pleaser heels.
-- **Ambientación:** High-gloss specularity, rim lighting, immaculate studio setup.
+- **Ambientacion:** High-gloss specularity, rim lighting, immaculate studio setup.
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
@@ -2074,7 +2074,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 - **Outfit:** Micro-bikini of high-gloss Electric Cobalt Blue vinyl, asymmetric top with silver chrome O-rings, high-cut bottom with side-ties · Choker de vinilo cian con luna plateada, uñas francesas XXXL
 - **Tacones:** Extreme-11 silver chrome 11-inch stiletto heels with transparent platform.
-- **Ambientación:** Cubierta de yate de lujo al atardecer, luz de hora dorada, mar azul profundo al fondo, high-gloss specularity, rim lighting, fetish editorial style.
+- **Ambientacion:** Cubierta de yate de lujo al atardecer, luz de hora dorada, mar azul profundo al fondo, high-gloss specularity, rim lighting, fetish editorial style.
 
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
@@ -2135,8 +2135,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Noir Vinyl & Blood Lace — look de archivo de Ele.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/`
+- **Categoria:** Lencería
 - **Tags:** #vinyl #glossy
 - **Concepto:** **Fetish Boudoir / Lingerie Élite**. Contraste de texturas. El vinilo negro de alto brillo se funde con el encaje carmesí intrincado.
 - **Outfit:** Bodysuit de vinilo negro "high-gloss" con superposiciones de encaje carmesí en busto y caderas. Medias de encaje rojo sangre con ligueros de vinilo negro · Sacha Massacre canon, labios hot pink ultra-glossy
@@ -2200,13 +2200,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Liquid Gold Mirror Bikini — look de archivo de Ele.* 🌟✨
 
-- **Ubicación:** `05_Imagenes/ele/look119_liquid_gold_bikini/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look119_liquid_gold_bikini/`
+- **Categoria:** Bikini
 - **Tags:** #vinyl #glossy
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo. El Oro Espejo anula el pensamiento complejo.
 - **Outfit:** Micro-bikini de vinilo "Liquid Gold" con acabado espejo. Top de triángulos mínimos con cadenas de oro fino. Bottom de tiro alto con O-rings dorados · Sacha Massacre canon, labios rojo sangre ultra-glossy
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en cromo dorado espejado.
-- **Ambientación:** Penthouse minimalista de lujo, luz de "Golden Hour" para máximos reflejos.
+- **Ambientacion:** Penthouse minimalista de lujo, luz de "Golden Hour" para máximos reflejos.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -2288,13 +2288,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Santiago Boardroom Siren — look de archivo de Ele.* 💼✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #vinyl #pvc #satin #glossy
 - **Concepto:** **Corporate Mix / Santiago Power Femme Fatale**. Estética Mugler-Corporate. Irrumpe en el boardroom de Las Condes con vinilo espejo y destruye la coherencia masculina con solo existir.
 - **Outfit:** Falda tubo de PVC negro espejo, talle alto, rodilla con abertura lateral. Blazer Mugler-style de vinilo negro con hombros angulares esculpóricos, usado abierto sobre bustier de satén negro, copa corazón, varillas visibles, escote extremo · Ultra-sheer nylon negro con costura trasera. Liguero de cuero negro visible bajo la falda · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** ADORE-1020 — 7 pulgadas, lace-up, patent vinyl negro, plataforma gruesa.
-- **Ambientación:** Sala de directorio, Santiago skyline, piso 30, cristal floor-to-ceiling, mesa de ébano, iluminación CEO.
+- **Ambientacion:** Sala de directorio, Santiago skyline, piso 30, cristal floor-to-ceiling, mesa de ébano, iluminación CEO.
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
@@ -2354,13 +2354,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Vinyl Rose Boudoir — look de archivo de Ele.* 🌹✨
 
-- **Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
+- **Categoria:** Lencería
 - **Tags:** #vinyl #glossy
 - **Concepto:** **Lencería / Dark Romance Boudoir**. Romanticismo oscuro — vinilo negro con acentos de rosa dorado y terciopelo rojo en un boudoir iluminado por velas. Corrección de déficit Lencería.
 - **Outfit:** Corsé de vinilo negro high-gloss con varillas y lazado de rosa dorado. Tanga de vinilo negro con O-rings de rosa dorado. Medias thigh-high de semi-transparente negro con encaje en la parte superior, sujetas con ligueros de vinilo negro · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
 - **Tacones:** Stiletto plataforma de 8 pulgadas en charol negro.
-- **Ambientación:** Boudoir oscuro romántico, cortinas de terciopelo rojo, rosas oscuras esparcidas, luz de velas, iluminación cinematográfica.
+- **Ambientacion:** Boudoir oscuro romántico, cortinas de terciopelo rojo, rosas oscuras esparcidas, luz de velas, iluminación cinematográfica.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -2442,10 +2442,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *White Vinyl Zapallar Mermaid — look de archivo de Ele.* 🤍✨
 
-- **Categoría:** Bikini
+- **Categoria:** Bikini
 - **Outfit:** Bikini de vinilo blanco "ultra-glossy", top tipo halter con hebillas de cromo plateado, bottom de tiro alto muy cavado
 - **Tacones:** Plataformas Pleaser de 8 pulgadas en charol blanco (Flamingo-808).
-- **Ambientación:** Penthouse de lujo frente al mar en Zapallar, Chile. Luz de atardecer dorada.
+- **Ambientacion:** Penthouse de lujo frente al mar en Zapallar, Chile. Luz de atardecer dorada.
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
@@ -2505,11 +2505,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Skygate Siren — look de archivo de Ele.* ✈️✨
 
-- **Categoría:** Mix (Corporate/Fashion)
+- **Categoria:** Mix (Corporate/Fashion)
 - **Concepto:** **Aviation / High-Fashion Uniform**. Estética "Private Jet Asset". Elegancia técnica y sumisión plástica en el aeropuerto de Sanhattan (Skygate).
 - **Outfit:** Jumpsuit de vinilo Azure Blue ultra-glossy, entallado quirúrgicamente, con cremallera frontal plateada abierta hasta el ombligo, revelando un corsé overbust de satén blanco bajo el vinilo. Cinturón ancho de PVC azul con hebilla cromada
 - **Tacones:** Botas stiletto Flamingo-1020 de 8 pulgadas en charol azul cian.
-- **Ambientación:** Salón VIP Skygate / Pista de aterrizaje privada, Santiago, Chile. Iluminación editorial de alta costura, reflejos especulares extremos.
+- **Ambientacion:** Salón VIP Skygate / Pista de aterrizaje privada, Santiago, Chile. Iluminación editorial de alta costura, reflejos especulares extremos.
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
@@ -2569,12 +2569,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Neon Gym-Bimbo Luxe — look de archivo de Ele.* 💚✨
 
-- **Categoría:** Gym
+- **Categoria:** Gym
 - **Tags:** #latex #glossy
 - **Concepto:** **Gym-Bimbo High-Fashion / Déficit Correction**. Estética de gimnasio de ultra-lujo en Sanhattan. Validación del Blindaje Facial V3.3.
 - **Outfit:** Top deportivo de látex Neón Pink con ribetes negros ultra-glossy, leggings de látex negro de tiro alto con franjas laterales rosa neón, choker rígido de cromo
 - **Tacones:** Sandalias Flamingo-808 de 8 pulgadas en charol rosa neón.
-- **Ambientación:** Gimnasio minimalista de lujo, ventanales de piso a techo, Santiago, Chile. Luz de atardecer dorada (Golden Hour), reflejos especulares extremos en el látex.
+- **Ambientacion:** Gimnasio minimalista de lujo, ventanales de piso a techo, Santiago, Chile. Luz de atardecer dorada (Golden Hour), reflejos especulares extremos en el látex.
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
 
@@ -2634,13 +2634,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Sapphire Glow Bikini — look de archivo de Ele.* 💎✨
 
-- **Ubicación:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
+- **Categoria:** Bikini
 - **Tags:** #vinyl #latex #glossy
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo en Zapallar. El azul profundo resalta la palidez de la porcelana.
 - **Outfit:** Micro-bikini de vinilo "Sapphire Blue" con acabado espejo. Top de triángulos con tiras de cromo plateado. Bottom de tiro alto ultra-cavado · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en cromo plateado.
-- **Ambientación:** Penthouse en Zapallar, luz de "Golden Hour", reflejos del mar en el vinilo.
+- **Ambientacion:** Penthouse en Zapallar, luz de "Golden Hour", reflejos del mar en el vinilo.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -2722,14 +2722,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mirror Platinum CEO — look de archivo de Ele.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Ubicacion:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #vinyl #silk #glossy
 - **Concepto:** **Corporate Fetish / Mix Category Correction**. Estética de poder ejecutivo de ultra-lujo en Sanhattan. El vinilo platino espejo anula la capacidad de decisión masculina.
 - **Outfit:** Falda tubo (pencil skirt) de vinilo platino "Mirror Finish", talle alto. Blusa de seda blanca con botones de cristal, entallada al cuerpo, desabrochada estratégicamente. Cinturón corsé de cromo plateado rígido · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
 - **Tacones:** Botas stiletto Agadore de 9 pulgadas en charol platino espejo.
-- **Ambientación:** Rooftop Lounge de lujo, Santiago, Chile. Piso de cristal, skyline de fondo, iluminación editorial nocturna / crepúsculo.
+- **Ambientacion:** Rooftop Lounge de lujo, Santiago, Chile. Piso de cristal, skyline de fondo, iluminación editorial nocturna / crepúsculo.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -2811,13 +2811,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Silk & Noir Lace Boudoir — look de archivo de Ele.* 🌑✨
 
-- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace_lingerie/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look127_silk_noir_lace_lingerie/`
+- **Categoria:** Lencería
 - **Tags:** #silk #satin #glossy
 - **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
 - **Outfit:** Sostén push-up de seda negra con aplicaciones de encaje Chantilly, tanga de encaje a juego con tiras de seda, portaligas de seda negra con hebillas de cromo plateado · Ultra-sheer black nylon stockings con liga de encaje Chantilly · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en charol negro.
-- **Ambientación:** Suite de lujo, iluminación cálida de boudoir, sombras suaves, sábanas de raso negro.
+- **Ambientacion:** Suite de lujo, iluminación cálida de boudoir, sombras suaves, sábanas de raso negro.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -2959,12 +2959,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Neon Gym-Bimbo Luxe — look de archivo de Ele.* 💚✨
 
-- **Categoría:** Gym
+- **Categoria:** Gym
 - **Tags:** #latex #glossy
 - **Concepto:** **Gym-Bimbo High-Fashion / Déficit Correction**. Estética de gimnasio de ultra-lujo en Sanhattan. Validación del Blindaje Facial V3.3.
 - **Outfit:** Top deportivo de látex Neón Pink con ribetes negros ultra-glossy, leggings de látex negro de tiro alto con franjas laterales rosa neón, choker rígido de cromo
 - **Tacones:** Sandalias Flamingo-808 de 8 pulgadas en charol rosa neón.
-- **Ambientación:** Gimnasio minimalista de lujo, ventanales de piso a techo, Santiago, Chile. Luz de atardecer dorada (Golden Hour), reflejos especulares extremos en el látex.
+- **Ambientacion:** Gimnasio minimalista de lujo, ventanales de piso a techo, Santiago, Chile. Luz de atardecer dorada (Golden Hour), reflejos especulares extremos en el látex.
 
 ---
 
@@ -2978,13 +2978,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Sapphire Glow Bikini — look de archivo de Ele.* 💎✨
 
-- **Ubicación:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
+- **Categoria:** Bikini
 - **Tags:** #vinyl #latex #glossy
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo en Zapallar. El azul profundo resalta la palidez de la porcelana.
 - **Outfit:** Micro-bikini de vinilo "Sapphire Blue" con acabado espejo. Top de triángulos con tiras de cromo plateado. Bottom de tiro alto ultra-cavado · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en cromo plateado.
-- **Ambientación:** Penthouse en Zapallar, luz de "Golden Hour", reflejos del mar en el vinilo.
+- **Ambientacion:** Penthouse en Zapallar, luz de "Golden Hour", reflejos del mar en el vinilo.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3018,14 +3018,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mirror Platinum CEO — look de archivo de Ele.* 💼✨
 
-- **Ubicación:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Ubicacion:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #vinyl #silk #glossy
 - **Concepto:** **Corporate Fetish / Mix Category Correction**. Estética de poder ejecutivo de ultra-lujo en Sanhattan. El vinilo platino espejo anula la capacidad de decisión masculina.
 - **Outfit:** Falda tubo (pencil skirt) de vinilo platino "Mirror Finish", talle alto. Blusa de seda blanca con botones de cristal, entallada al cuerpo, desabrochada estratégicamente. Cinturón corsé de cromo plateado rígido · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
 - **Tacones:** Botas stiletto Agadore de 9 pulgadas en charol platino espejo.
-- **Ambientación:** Rooftop Lounge de lujo, Santiago, Chile. Piso de cristal, skyline de fondo, iluminación editorial nocturna / crepúsculo.
+- **Ambientacion:** Rooftop Lounge de lujo, Santiago, Chile. Piso de cristal, skyline de fondo, iluminación editorial nocturna / crepúsculo.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3059,13 +3059,13 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 *Silk & Noir Lace Boudoir — look de archivo de Ele.* 🌑✨
 
-- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace_lingerie/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look127_silk_noir_lace_lingerie/`
+- **Categoria:** Lencería
 - **Tags:** #silk #satin #glossy
 - **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
 - **Outfit:** Sostén push-up de seda negra con aplicaciones de encaje Chantilly, tanga de encaje a juego con tiras de seda, portaligas de seda negra con hebillas de cromo plateado · Ultra-sheer black nylon stockings con liga de encaje Chantilly · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en charol negro.
-- **Ambientación:** Suite de lujo, iluminación cálida de boudoir, sombras suaves, sábanas de raso negro.
+- **Ambientacion:** Suite de lujo, iluminación cálida de boudoir, sombras suaves, sábanas de raso negro.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3099,13 +3099,13 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 
 *Red Silk & Noir Lace — look de archivo de Ele.* ❤️✨
 
-- **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look128_red_silk_noir/`
+- **Categoria:** Lencería
 - **Tags:** #silk #satin #glossy
 - **Concepto:** **Classic Luxury Lingerie / Red & Noir**. Estética de boudoir de alta gama. Seda roja profunda y encaje Chantilly negro. Corrección de déficit estadístico de Lencería.
 - **Outfit:** Sostén push-up de seda roja con aplicaciones de encaje Chantilly negro, tanga de seda roja y encaje negro a juego, portaligas de seda negra con hebillas de cromo plateado · Ultra-sheer black nylon stockings con liga de encaje floral, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 8 pulgadas en charol negro (Flamingo-808).
-- **Ambientación:** Suite de lujo con cortinas de terciopelo rojo, iluminación editorial cálida, sombras suaves.
+- **Ambientacion:** Suite de lujo con cortinas de terciopelo rojo, iluminación editorial cálida, sombras suaves.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3139,13 +3139,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 *Bridal Purity — White Silk & Pearls — look de archivo de Ele.* 💜✨
 
-- **Ubicación:** `05_Imagenes/ele/look129_bridal_purity_lingerie/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look129_bridal_purity_lingerie/`
+- **Categoria:** Lencería
 - **Tags:** #silk #glossy
 - **Concepto:** **Bridal Purity / White Silk & Pearls**. Estética nupcial de alta gama. Máxima pureza visual para el modelo V3.3.
 - **Outfit:** Corsé push-up de seda italiana blanca con bordados de perlas y filigranas de plata, tanga de encaje Chantilly blanco, portaligas de seda blanca con hebillas de perlas · Ultra-sheer white nylon thigh-highs con liga de encaje blanco floral
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en charol blanco (Flamingo-808 White).
-- **Ambientación:** Suite nupcial minimalista, luz blanca difusa, sábanas de seda blanca.
+- **Ambientacion:** Suite nupcial minimalista, luz blanca difusa, sábanas de seda blanca.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3235,13 +3235,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Midnight Rooftop Siren — Liquid Gold Party — look de archivo de Ele.* 🤍✨
 
-- **Ubicación:** `05_Imagenes/ele/look130_midnight_rooftop/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look130_midnight_rooftop/`
+- **Categoria:** Bikini
 - **Tags:** #vinyl #silk #glossy
 - **Concepto:** **Midnight Rooftop Siren / Liquid Gold Party**. Estética de lujo nocturno, contrastes de neón y texturas metálicas.
 - **Outfit:** Micro bikini de vinilo oro líquido metálico, tirantes ultra-finos, corte minimalista high-cut. Cadenas de cuerpo doradas rodeando el torso, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en oro cromo espejo (Flamingo-808 Chrome Gold).
-- **Ambientación:** Rooftop de lujo (Santiago), piscina infinity, luces de la ciudad a medianoche, bokeh de fiesta, reflejos neón.
+- **Ambientacion:** Rooftop de lujo (Santiago), piscina infinity, luces de la ciudad a medianoche, bokeh de fiesta, reflejos neón.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3336,13 +3336,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Electric Blue Wrap — look de archivo de Ele.* 👙✨
 
-- **Ubicación:** `05_Imagenes/ele/look131_electric_blue_wrap/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look131_electric_blue_wrap/`
+- **Categoria:** Bikini
 - **Tags:** #vinyl #glossy
 - **Concepto:** **Electric Blue Metallic Wrap**. Bikini envolvente en azul metálico vibrante.
 - **Outfit:** Bikini de vinilo metálico azul eléctrico, diseño de tiras cruzadas (wrap-around) en la cintura, corte high-leg minimalista, brazalete metálico azul
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en azul cromo espejo (Flamingo-808 Chrome Blue).
-- **Ambientación:** Atardecer en la costa, piscina infinity, reflejos dorados del sol sobre el azul metálico, bokeh de palmeras.
+- **Ambientacion:** Atardecer en la costa, piscina infinity, reflejos dorados del sol sobre el azul metálico, bokeh de palmeras.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3428,13 +3428,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Emerald Silk & Noir Lace — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look132_emerald_silk_lace_lingerie/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look132_emerald_silk_lace_lingerie/`
+- **Categoria:** Lencería
 - **Tags:** #pvc #silk #glossy
 - **Concepto:** **Emerald Silk & Noir Lace Teddy**. Enterito de lencería suave en seda y encaje. **NO PVC. NO CORSET.**
 - **Outfit:** Teddy de seda italiana verde esmeralda, escote profundo, aplicaciones de encaje Chantilly negro en los bordes, espalda descubierta. Tejido fluido y suave · Collar de perlas negras, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en seda verde esmeralda mate (Flamingo-808 Silk Emerald).
-- **Ambientación:** Biblioteca victoriana de noche, luz de chimenea, estantes de madera oscura, alfombras de terciopelo.
+- **Ambientacion:** Biblioteca victoriana de noche, luz de chimenea, estantes de madera oscura, alfombras de terciopelo.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3520,13 +3520,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Hot Pink Strings — look de archivo de Ele.* 👙✨
 
-- **Ubicación:** `05_Imagenes/ele/look133_hot_pink_strings/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look133_hot_pink_strings/`
+- **Categoria:** Bikini
 - **Tags:** #vinyl #glossy
 - **Concepto:** **Hot Pink Vinyl Strings**. Micro-bikini de cuerdas ultra-finas en vinilo neón.
 - **Outfit:** Micro string bikini en vinilo fucsia neón, tirantes de cuerda mínima, corte ultra high-leg, cobertura mínima · Aretes de aro XXL plateados, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en acrílico transparente con base fucsia neón (Flamingo-808 Neon Pink).
-- **Ambientación:** Playa tropical al mediodía, palmeras, mar turquesa cristalino, luz solar intensa y saturada.
+- **Ambientacion:** Playa tropical al mediodía, palmeras, mar turquesa cristalino, luz solar intensa y saturada.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3612,13 +3612,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Champagne Silk & Gold Sequins — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/`
+- **Categoria:** Lencería
 - **Tags:** #pvc #silk #satin #glossy
 - **Concepto:** **Champagne Silk & Gold Negligee**. Babydoll corto de lujo en seda y lentejuelas. **NO PVC. NO CORSET.**
 - **Outfit:** Babydoll de satén de seda color champagne, bordados de lentejuelas de oro de 24k en el busto y el dobladillo, tirantes ultra-finos, tejido fluido y transparente · Pulseras de perlas, uñas French XXXL
 - **Tacones:** Sandalias de plataformas de 11 pulgadas con tiras de oro y diamantes (Flamingo-808 Gold Jewel).
-- **Ambientación:** Balcón de un hotel de 7 estrellas al amanecer, vista a la cordillera nevada, luz cálida de la mañana, muebles de mármol.
+- **Ambientacion:** Balcón de un hotel de 7 estrellas al amanecer, vista a la cordillera nevada, luz cálida de la mañana, muebles de mármol.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3704,13 +3704,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Silver Sequined Triangle — look de archivo de Ele.* 👙✨
 
-- **Ubicación:** `05_Imagenes/ele/look135_silver_sequined_bikini/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look135_silver_sequined_bikini/`
+- **Categoria:** Bikini
 - **Tags:** #glossy
 - **Concepto:** **Silver Sequined Triangle**. Bikini de triángulo clásico recubierto de lentejuelas plateadas espejo.
 - **Outfit:** Bikini de triángulo en lentejuelas plateadas de alto brillo, tiras delgadas plateadas, diseño minimalista, reflejos especulares · Gargantilla de cristales, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en plata cromo espejo (Flamingo-808 Chrome Silver).
-- **Ambientación:** Pool party de gala nocturna, iluminación RGB (azul y magenta), reflejos de luz discotequera en el agua, lujo nocturno.
+- **Ambientacion:** Pool party de gala nocturna, iluminación RGB (azul y magenta), reflejos de luz discotequera en el agua, lujo nocturno.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3796,13 +3796,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Plum Silk Velvet Romance — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look136_plum_velvet_romance_lingerie/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look136_plum_velvet_romance_lingerie/`
+- **Categoria:** Lencería
 - **Tags:** #pvc #silk #glossy
 - **Concepto:** **Plum Velvet & Ribbons Set**. Conjunto de lencería suave en terciopelo de seda y listones. **NO PVC. NO CORSET.**
 - **Outfit:** Sujetador de copa suave (sin aros) y tanga de tiro alto en terciopelo de seda púrpura profundo (plum), adornado con lazos de seda negra en las caderas y el busto · Choker de terciopelo negro con dije de plata, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en terciopelo púrpura a juego (Flamingo-808 Velvet Plum).
-- **Ambientación:** Dormitorio de lujo, sábanas de seda gris oscuro, iluminación suave color púrpura, ambiente íntimo y sofisticado.
+- **Ambientacion:** Dormitorio de lujo, sábanas de seda gris oscuro, iluminación suave color púrpura, ambiente íntimo y sofisticado.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3888,13 +3888,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Leopard Micro Bikini — look de archivo de Ele.* 👙✨
 
-- **Ubicación:** `05_Imagenes/ele/look137_leopard_micro/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look137_leopard_micro/`
+- **Categoria:** Bikini
 - **Tags:** #satin #glossy
 - **Concepto:** **Leopard Canvas Micro**. Estética de lujo salvaje, animal print clásico de alta gama.
 - **Outfit:** Micro bikini con estampado de leopardo (leopard print) en lycra satinada de alta calidad, herrajes dorados en los hombros y caderas, corte ultra-provocativo · Brazaletes dorados anchos, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas con estampado de leopardo a juego (Flamingo-808 Leopard).
-- **Ambientación:** Jardín botánico exótico o selva tropical bajo el sol, vegetación densa, luz filtrada a través de las hojas, lujo salvaje.
+- **Ambientacion:** Jardín botánico exótico o selva tropical bajo el sol, vegetación densa, luz filtrada a través de las hojas, lujo salvaje.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -3980,13 +3980,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *White Lace Mist — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look138_white_lace_mist/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look138_white_lace_mist/`
+- **Categoria:** Lencería
 - **Tags:** #pvc #silk #glossy
 - **Concepto:** **White Pure Silk & Robe Set**. Conjunto nupcial/boudoir de bata y camisón. **NO PVC. NO CORSET.**
 - **Outfit:** Bata larga de seda blanca pura con mangas acampanadas y camisón (chemise) corto a juego, ambos con aplicaciones de encaje floral traslúcido. Tejido etéreo, fluido y ligero · Diadema de seda blanca, uñas French XXXL
 - **Tacones:** Mules de plataformas de 11 pulgadas cubiertas en seda blanca con detalle de plumas de avestruz (Flamingo-801 Silk White).
-- **Ambientación:** Habitación etérea bañada en luz blanca, grandes ventanales con cortinas de lino blanco volando, cama con dossel, luz de mañana pura.
+- **Ambientacion:** Habitación etérea bañada en luz blanca, grandes ventanales con cortinas de lino blanco volando, cama con dossel, luz de mañana pura.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4072,13 +4072,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Red Metallic Siren — look de archivo de Ele.* 👙✨
 
-- **Ubicación:** `05_Imagenes/ele/look139_red_metallic_siren/`
-- **Categoría:** Bikini
+- **Ubicacion:** `05_Imagenes/ele/look139_red_metallic_siren/`
+- **Categoria:** Bikini
 - **Tags:** #glossy
 - **Concepto:** **Red Metallic Siren**. Bikini de tejido elástico metálico rojo vibrante. Alta visibilidad y lujo.
 - **Outfit:** Bikini de tejido metálico rojo (shimmering metallic red fabric), corte ultra high-leg, tirantes delgados, brillo líquido · Choker de plata, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en rojo cromo sangriento (Flamingo-808 Chrome Red).
-- **Ambientación:** Playa de arena negra volcánica al atardecer, cielo naranja y violeta, contraste extremo entre el rojo metálico y el negro de la arena.
+- **Ambientacion:** Playa de arena negra volcánica al atardecer, cielo naranja y violeta, contraste extremo entre el rojo metálico y el negro de la arena.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4164,13 +4164,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Dark Sequin Empress — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look140_dark_sequin_empress/`
-- **Categoría:** Lencería
+- **Ubicacion:** `05_Imagenes/ele/look140_dark_sequin_empress/`
+- **Categoria:** Lencería
 - **Tags:** #pvc #silk #glossy
 - **Concepto:** **Black Silk & Sequin Slip**. Vestido/lencería de noche ultra-lujoso. **NO PVC. NO CORSET.**
 - **Outfit:** Slip dress corto de seda negra profunda, bordados de lentejuelas de jet negro y cristales oscuros, escote recto, tirantes de cadena fina, tejido fluido y pesado que marca las curvas · Guantes de encaje negro cortos, uñas French XXXL
 - **Tacones:** Plataformas Pleaser de 11 pulgadas en obsidiana negra pulida (Flamingo-808 Chrome Black).
-- **Ambientación:** Salón gótico contemporáneo, techos altísimos, arquitectura minimalista oscura, iluminación dramática puntual.
+- **Ambientacion:** Salón gótico contemporáneo, techos altísimos, arquitectura minimalista oscura, iluminación dramática puntual.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4256,14 +4256,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Radiant Neon Lattice — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look141_radiant_neon_lattice/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look141_radiant_neon_lattice/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #pvc #glossy
 - **Concepto:** **Avant-Garde Fetish Architecture**. Un look diseñado para ser una pieza de exhibición, pura geometría y brillo.
 - **Outfit:** Body de látex verde neón (Neon Lime) con cortes láser geométricos. Estructura de jaula arquitectónica de PVC transparente con bordes de vinilo negro reflectante · Choker de acrílico rígido transparente, uñas French XXXL
 - **Tacones:** Botas de plataforma de 11 pulgadas (Extreme-11) thigh-high en vinilo negro espejo con tacón aguja plateado.
-- **Ambientación:** Estudio fotográfico minimalista blanco, iluminación de aro (rim lighting) de alta gama, sombras duras.
+- **Ambientacion:** Estudio fotográfico minimalista blanco, iluminación de aro (rim lighting) de alta gama, sombras duras.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4349,9 +4349,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Midnight Crystal Pole — look de archivo de Ele.* 👗✨
 
-- **Ubicación:** `05_Imagenes/ele/look142_midnight_crystal_pole/`
-- **Categoría:** Mix
-- **Subcategoría:** Professional Stripper
+- **Ubicacion:** `05_Imagenes/ele/look142_midnight_crystal_pole/`
+- **Categoria:** Mix
+- **Subcategoria:** Professional Stripper
 - **Tags:** #vinyl #crystals #glossy
 - **Concepto:** **Exotic Crystal Pole**. Estética de stripper de altísima gama, lujo nocturno y brillo especular bajo luces de neón.
 - **Outfit:** Body de vinilo azul medianoche (Midnight Blue) con incrustaciones de cristales Swarovski, arneses integrados
@@ -4415,8 +4415,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Emerald Silk & Noir Vinyl — look de archivo de Ele.* 👗✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Escort de Lujo
+- **Categoria:** Mix
+- **Subcategoria:** Escort de Lujo
 - **Tags:** #silk #vinyl #glossy #emerald #escort
 
 ---
@@ -4455,8 +4455,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cobalt Power Secretary — look de archivo de Ele.* 👗✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #corporate #cobalt #chrome #vinyl #PVC
 
 ---
@@ -4471,8 +4471,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Rose Gold Gala Empress — look de archivo de Ele.* 👗✨
 
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion
 - **Tags:** #highfashion #rosegold #silver #gown #editorial
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
@@ -4485,8 +4485,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Chrome Maid Supreme — look de archivo de Ele.* 👗✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Domestic Stepford
+- **Categoria:** Mix
+- **Subcategoria:** Domestic Stepford
 - **Tags:** #domestic #stepford #chrome #maid #PVC #ASSETV3
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
@@ -4499,8 +4499,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Crimson Corporate Vixen — look de archivo de Ele.* 👗✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #corporate #crimson #chromegold #blazer #vinyl
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
@@ -4513,8 +4513,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Electric Violet Escort — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Escort de Lujo
+- **Categoria:** Mix
+- **Subcategoria:** Escort de Lujo
 - **Tags:** #escort #violet #latex #Mugler #triada #chrome
 
 ### 📸 Imágenes (5/7 — Materializado parcial (app/Gemini))
@@ -4527,8 +4527,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *First Class Vinyl Siren — look de archivo de Ele.* 📸✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Travel / Jet Set
+- **Categoria:** Mix
+- **Subcategoria:** Travel / Jet Set
 - **Tags:** #travel #jetset #cobalt #vinyl #chrome #PVC
 
 ---
@@ -4543,7 +4543,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Neon Coral Yacht Queen — look de archivo de Ele.* 📸✨
 
-- **Categoría:** Bikini
+- **Categoria:** Bikini
 - **Tags:** #bikini #coral #vinyl #yacht #chrome
 
 ---
@@ -4558,8 +4558,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Platinum Chrome Galatea — look de archivo de Ele.* 🥇✨
 
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #chrome #platinum #vinyl #structural #highfashion
 
 ---
@@ -4574,11 +4574,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *High-Voltage Corporate — look de archivo de Ele.* 🏢✨
 
-- **Categoría:** Mix (Corporate)
+- **Categoria:** Mix (Corporate)
 - **Concepto:** Power-dressing futurista
 - **Outfit:** high-shine black latex blazer with structured shoulders and deep V-neck, matching electric blue liquid vinyl leggings · 14k white gold choker, multiple silver ear piercings · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** silver metallic stiletto pumps with 14cm needle heel and pointed toe
-- **Ambientación:** Boardroom de cristal, rascacielos
+- **Ambientacion:** Boardroom de cristal, rascacielos
 
 
 ### 📸 Imágenes (7/7 — Materializado)
@@ -4639,11 +4639,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Chrome Vegas Stripper — look de archivo de Ele.* 💃✨
 
-- **Categoría:** Mix (Artístico)
+- **Categoria:** Mix (Artístico)
 - **Concepto:** Stripper de metal líquido
 - **Outfit:** liquid chrome metal micro bikini with thin reflective straps, matching opera length transparent vinyl gloves with white faux-fur trim, 12-inch clear platform heels with internal violet neon glow · silver navel ring, 14k white gold nipple piercings · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** 12-inch clear platform heels with internal violet neon glow
-- **Ambientación:** Escenario con neón y humo
+- **Ambientacion:** Escenario con neón y humo
 
 
 ### 📸 Imágenes (7/7 — Materializado)
@@ -4704,9 +4704,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Stepford Vinyl Housewife ✅ Completo — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look157_stepford_vinyl_housewife/`
-- **Categoría:** Mix
-- **Subcategoría:** Domestic
+- **Ubicacion:** `05_Imagenes/ele/look157_stepford_vinyl_housewife/`
+- **Categoria:** Mix
+- **Subcategoria:** Domestic
 - **Tags:** #bubblegumpink #pvc #wiggle #stepford
 - **Concepto:** La perfección doméstica llevada al extremo del fetiche. Una ama de casa plastificada y vacía, diseñada para el brillo y la obediencia.
 - **Outfit:** Vestido Wiggle de satén rosa chicle, delantal de PVC transparente con encaje, diadema de vinilo
@@ -4776,9 +4776,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Midnight Escort Gala — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look158_midnight_escort_gala/`
-- **Categoría:** Mix
-- **Subcategoría:** Escort de Lujo
+- **Ubicacion:** `05_Imagenes/ele/look158_midnight_escort_gala/`
+- **Categoria:** Mix
+- **Subcategoria:** Escort de Lujo
 - **Tags:** #midnightblue #latex #gown #diamonds
 - **Concepto:** Elegancia nocturna de alto standing. El azul medianoche del látex sugiere un lujo profundo y peligroso, acentuado por joyas reales.
 - **Outfit:** Vestido largo de látex azul medianoche con tajo lateral, capa de gasa con cristales, collar de diamantes
@@ -4849,9 +4849,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cyber-Retro Racer — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look159_cyber_retro_racer/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion
+- **Ubicacion:** `05_Imagenes/ele/look159_cyber_retro_racer/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion
 - **Tags:** #whitevinyl #chrome #cherryred #racing #retro-future
 - **Concepto:** Estética de carreras futurista con vinilo de alto brillo y acentos cromados. Inspiración retro-futurista de los años 80 con tecnología del siglo XXII.
 - **Outfit:** Mono de vinilo blanco con paneles laterales en rojo cereza, detalles de hombreras rígidas cromadas
@@ -4921,9 +4921,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Leopard Vinyl Empress (REDO Standardized) ✅ MATERIALIZADO — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look160_leopard_vinyl_empress/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look160_leopard_vinyl_empress/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #leopard #vinyl #fetish #gold #animalprint
 - **Concepto:** Depredadora de la noche en alta costura fetish. El estampado de leopardo sobre vinilo de alto brillo proyecta autoridad y peligro.
 - **Outfit:** Mini vestido de vinilo con estampado de leopardo clásico, cuello halter, espalda descubierta. Guantes de ópera de látex negro espejo
@@ -4993,9 +4993,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Neon CEO (REDO Standardized) 🟡 6/7 MATERIALIZADO — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look161_neon_ceo/`
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Ubicacion:** `05_Imagenes/ele/look161_neon_ceo/`
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #neongreen #latex #corporate #pencilskirt #glasses
 - **Concepto:** Liderazgo disruptivo. Una ejecutiva que domina la junta directiva mediante la saturación del color y la perfección del látex.
 - **Outfit:** Blazer entallado de látex verde neón con hombreras agresivas, falda de tubo de vinilo negro espejo, cinturón ancho de charol. Gafas Bayonetta de marco fino
@@ -5065,9 +5065,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *PVC Maid Fantasy ✅ MATERIALIZADO — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look162_pvc_maid_fantasy/`
-- **Categoría:** Mix
-- **Subcategoría:** Domestic
+- **Ubicacion:** `05_Imagenes/ele/look162_pvc_maid_fantasy/`
+- **Categoria:** Mix
+- **Subcategoria:** Domestic
 - **Tags:** #pvc #maid #fetish #transparency #white #black
 - **Concepto:** El servicio doméstico elevado a la máxima pureza plástica. La transparencia del PVC revela la arquitectura del cuerpo bajo el uniforme.
 - **Outfit:** Vestido de sirvienta de PVC transparente con volantes de encaje blanco, delantal de látex negro, diadema de vinilo blanca. Choker de vinilo con placa plateada
@@ -5137,9 +5137,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Mirror-Gold Pole Goddess ✅ MATERIALIZADO — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look163_mirrorgold_pole_goddess/`
-- **Categoría:** Mix
-- **Subcategoría:** Professional Stripper
+- **Ubicacion:** `05_Imagenes/ele/look163_mirrorgold_pole_goddess/`
+- **Categoria:** Mix
+- **Subcategoria:** Professional Stripper
 - **Tags:** #gold #mirror #stripper #liquidmetal #highgloss
 - **Concepto:** Opulencia líquida. Un set diseñado para reflejar cada destello del club, convirtiendo el cuerpo de Ele en una escultura de oro fundido.
 - **Outfit:** Set de lencería de látex oro cromo con acabado espejo, arnés de finas cadenas de oro, guantes de malla negra con bordes dorados
@@ -5209,9 +5209,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Diamond Red Latex Gala — look de archivo de Ele.* 📸✨
 
-- **Ubicación:** `05_Imagenes/ele/look164_diamond_red_latex/`
-- **Categoría:** Mix
-- **Subcategoría:** Escort de Lujo
+- **Ubicacion:** `05_Imagenes/ele/look164_diamond_red_latex/`
+- **Categoria:** Mix
+- **Subcategoria:** Escort de Lujo
 - **Tags:** #redlatex #gown #diamonds #fauxfur #gala
 - **Concepto:** La joya suprema del harén de Anaïs. El rojo cherry en su máxima expresión de brillo, complementado con la frialdad de los diamantes.
 - **Outfit:** Vestido largo de látex rojo cherry con acabado espejo, escote profundo en V, tajo lateral extremo hasta la cadera. Estola de piel sintética blanca impecable
@@ -5281,11 +5281,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Neon Lime Gloss Gym-Bimbo — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Gym
+- **Categoria:** Gym
 - **Concepto:** Gym-Bimbo Fitness
 - **Outfit:** high-gloss neon lime latex sports bra with aggressive underboob cutouts, matching neon lime latex high-waisted leggings with mirror silver vinyl side stripes, ultra-tight fit, black high-shine vinyl waist-cincher corset over the leggings, no visible lingerie, sheer glossy nylon pantyhose · thick silver chain choker, oversized mirror-silver hoop earrings, neon green latex workout gloves with exposed fingertips · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** towering 11-inch chrome silver stiletto pumps with extreme pointed toe
-- **Ambientación:** luxury private penthouse gym with mirror walls and chrome equipment
+- **Ambientacion:** luxury private penthouse gym with mirror walls and chrome equipment
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5351,11 +5351,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Acid Yellow Vinyl Yacht-Bimbo — look de archivo de Ele.* 🛥️✨
 
-- **Categoría:** Bikini
+- **Categoria:** Bikini
 - **Concepto:** Luxury Yacht Bimbo (Hard-Sync V3.5 - Bloque A Sagrado)
 - **Outfit:** Ultra-minimalist acid yellow vinyl micro-bikini, push-up triangle top with chrome O-ring, ultra-high-cut V-string thong · Industrial chrome chain choker with padlock, 12cm chrome hoop earrings, holographic belly chain · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** 16cm mirror-chrome platform stiletto sandals with multi-strap bindings.
-- **Ambientación:** Luxury private yacht deck at night.
+- **Ambientacion:** Luxury private yacht deck at night.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5421,11 +5421,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Obsidian & Ruby Lingerie — look de archivo de Ele.* 🖤✨
 
-- **Categoría:** Lencería Élite
+- **Categoria:** Lencería Élite
 - **Concepto:** Lencería de alto impacto en látex y encaje ruby, diseñada para la máxima restricción visual y estética bimboficada.
 - **Outfit:** Sujetador open-cup de látex negro obsidiana con encaje chantilly rojo ruby, tanga de cintura alta a juego con correas de hebilla plateada · Choker de cuero negro con gema ruby, aretes de aro plateados XL · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Stiletto pumps de charol negro de 11 pulgadas con cadena de tobillo plateada.
-- **Ambientación:** Boudoir privado de lujo con paredes de terciopelo y espejos de techo a suelo.
+- **Ambientacion:** Boudoir privado de lujo con paredes de terciopelo y espejos de techo a suelo.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5485,11 +5485,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Emerald Stripper Stage — look de archivo de Ele.* 🎭✨
 
-- **Categoría:** Mix (Artístico / Performance)
+- **Categoria:** Mix (Artístico / Performance)
 - **Concepto:** Stripper de élite en performance de cabaret de lujo.
 - **Outfit:** Bodysuit de micromalla esmeralda con cristales dorados y borlas de seda · Choker bañado en oro de 24k, brazaletes de cristales y aretes de filigrana · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Plataformas de acrílico de 20cm con ataduras de cuero dorado.
-- **Ambientación:** Escenario de cabaret de lujo con tubos de bronce y cortinas de terciopelo.
+- **Ambientacion:** Escenario de cabaret de lujo con tubos de bronce y cortinas de terciopelo.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5549,11 +5549,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Midnight Silk Escort — look de archivo de Ele.* 💎✨
 
-- **Categoría:** Mix (Travel / Jet Set)
+- **Categoria:** Mix (Travel / Jet Set)
 - **Concepto:** Escort de altísimo lujo en suite presidencial.
 - **Outfit:** Vestido largo de seda italiana azul medianoche con espalda descubierta y encaje plateado · Collar de plata con zafiros, guantes de ópera de terciopelo y cadena de cintura de plata · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Pumps de tacón de aguja de 14cm en cromo plateado espejo.
-- **Ambientación:** Suite presidencial de lujo con vistas nocturnas a la ciudad y luces tenues.
+- **Ambientacion:** Suite presidencial de lujo con vistas nocturnas a la ciudad y luces tenues.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5613,11 +5613,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Crimson Lace Power Escort — look de archivo de Ele.* 💎✨
 
-- **Categoría:** Mix (Travel / Jet Set)
+- **Categoria:** Mix (Travel / Jet Set)
 - **Concepto:** Escort de alto impacto, ultra-sensual y agresiva.
 - **Outfit:** Micro-vestido de encaje carmesí con aberturas laterales extremas y arnés de cuero negro integrado · Medias de liga negras transparentes con borde de encaje rojo y ligueros de metal dorado · Choker de cuero negro con anillo dorado, cadena corporal de oro de 18k y brazaletes de poder dorados · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Stilettos de charol rojo de 16cm con correas cruzadas al tobillo.
-- **Ambientación:** Suite de lujo con iluminación roja y negra, muebles de cuero y espejos.
+- **Ambientacion:** Suite de lujo con iluminación roja y negra, muebles de cuero y espejos.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5677,11 +5677,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Liquid Copper Luxury Bikini — look de archivo de Ele.* 🫦✨
 
-- **Categoría:** Bikini
+- **Categoria:** Bikini
 - **Concepto:** Luxury Bikini, estética de metal líquido.
 - **Outfit:** Micro-bikini de vinilo cobre líquido con tiras de seda negra y hebillas de oro rosa · Choker de oro rosa con colgante circular, aretes de aro XXXL, uñas French cobre metálico · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Sandalias de plataforma transparentes de 20cm con correas de vinilo cobre.
-- **Ambientación:** Penthouse de lujo con vista al mar, iluminación de hora dorada.
+- **Ambientacion:** Penthouse de lujo con vista al mar, iluminación de hora dorada.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5744,7 +5744,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Concepto:** Micro-bikini de látex negro espejo con hardware de oro 24k. Editorial noir de alto voltaje.
 - **Outfit:** Micro-bikini top látex jet-black (copas moldeadas underwire, O-ring dorado central) + bottom ultra-high-cut látex negro (tiras ultra-finas, O-rings dorados en cadera) · Body chain oro 24k diagonal (hombro izquierdo → cadera derecha), choker dorado con colgante rectangular noir, aretes argolla dorados 7cm · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Sandalias stiletto negro patent leather 20cm, punta afilada, ankle strap PVC transparente con hebilla dorada.
-- **Ambientación:** Penthouse de cristal negro a medianoche, panorama ciudad desde piso a techo, spotlight dramático cenital, atmósfera noir con sombras azul-negras.
+- **Ambientacion:** Penthouse de cristal negro a medianoche, panorama ciudad desde piso a techo, spotlight dramático cenital, atmósfera noir con sombras azul-negras.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -5807,7 +5807,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Concepto:** Micro-bikini látex electric cyan con hardware chrome. Editorial yacht deck a plena luz mediterránea.
 - **Outfit:** Micro-bikini top látex electric cyan (copas moldeadas underwire push-up, O-ring chrome central) + bottom ultra-high-cut látex cyan (cheeky, O-rings chrome en caderas) · Choker chrome con anillo frontal, aretes aro chrome XXXL, pulsera cuff chrome en muñeca derecha · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Sandalias stiletto perspex transparentes 14cm, punta abierta, hebilla chrome en tobillo.
-- **Ambientación:** Cubierta de yate de lujo, mar turquesa de fondo, luz mediterránea brillante.
+- **Ambientacion:** Cubierta de yate de lujo, mar turquesa de fondo, luz mediterránea brillante.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -5867,11 +5867,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Rose Gold Dominion — look de archivo de Ele.* 🌹✨
 
-- **Categoría:** Mix (High-Fashion / Editorial)
+- **Categoria:** Mix (High-Fashion / Editorial)
 - **Concepto:** Armadura editorial total en rose gold — bodysuit strapless + botas OTK. Mix / High-Fashion / Editorial (override Ama).
 - **Outfit:** Bodysuit strapless latex rose gold metallic, boning estructurado, 4 hebillas chrome silver-rose, escote trasero profundo. Corseted ultra-tight · Choker chrome rose gold rígido 3cm, cuffs chrome rose gold 5cm ambas muñecas. Sin aretes, sin cartera · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** Rose gold patent latex over-the-knee boots, 16cm stiletto heel, pointed toe, side zip, thigh-high cut, mirror-gloss.
-- **Ambientación:** Studio editorial high-fashion, white seamless backdrop, spotlight overhead.
+- **Ambientacion:** Studio editorial high-fashion, white seamless backdrop, spotlight overhead.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5931,11 +5931,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Crystal Veil Rhinestone Bikini — look de archivo de Ele.* 💎✨
 
-- **Categoría:** Bikini
+- **Categoria:** Bikini
 - **Concepto:** Lujo nocturno bimbo con exceso de cristales y seda transparente. Bikini.
 - **Outfit:** Rhinestone-encrusted micro-bikini (pedrería), ultra-skimpy triangle top, matching micro string bottom with rhinestone side ties. Floor-length semi-transparent black sheer silk robe flowing open · Heavy crystal chandelier earrings, matching crystal choker · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** 8-inch clear stripper heels with rhinestone ankle straps.
-- **Ambientación:** Luxurious high-rise penthouse suite bedroom at night, floor-to-ceiling windows, city lights.
+- **Ambientacion:** Luxurious high-rise penthouse suite bedroom at night, floor-to-ceiling windows, city lights.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -5995,11 +5995,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Neon Coral Flash (12/05/2026) ✅ VALIDADO — look de archivo de Ele.* 🪸✨
 
-- **Categoría:** Bikini
+- **Categoria:** Bikini
 - **Concepto:** Micro-bikini latex coral eléctrico, corte brasileño, top triángulo asimétrico con O-rings oro rosa. Plataforma perspex con pin stiletto. Yate mediterráneo tarde dorada.
 - **Outfit:** neon electric coral high-gloss latex triangle bikini top + micro-brief Brazilian high-cut, O-ring rose gold hardware · rose gold chrome rigid choker 2.5cm · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** clear perspex platform stiletto sandals, 14cm pin stiletto heel, open toe, ankle strap with chrome rose gold buckle, mirror-gloss
-- **Ambientación:** Luxury yacht deck, Mediterranean afternoon golden light, teak wood
+- **Ambientacion:** Luxury yacht deck, Mediterranean afternoon golden light, teak wood
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6060,11 +6060,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Ivory Column (12/05/2026) ✅ VALIDADO — look de archivo de Ele.* 🤍✨
 
-- **Categoría:** Mix (Gala / Red Carpet)
+- **Categoria:** Mix (Gala / Red Carpet)
 - **Concepto:** Vestido columna vinilo ivory/crema, V profundo al esternón, tajo muslo, boning estructurado. Guantes vinilo codo. Escalinata de ópera.
 - **Outfit:** ivory cream satin-finish vinyl column gown, floor-length, deep V plunge, thigh slit + matching elbow gloves · large round pearl stud earrings 2cm · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** ivory cream patent leather stiletto pumps, 14cm heel, pointed toe, no platform, mirror-gloss, slip-on
-- **Ambientación:** Opera house marble staircase, warm soft spotlight, red carpet evening gala
+- **Ambientacion:** Opera house marble staircase, warm soft spotlight, red carpet evening gala
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6125,11 +6125,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Leopard Vitacura (12/05/2026) ✅ REGENERACIÓN COMPLETADA — look de archivo de Ele.* 🐆✨
 
-- **Categoría:** Mix (Street / Cuico-Flaite)
+- **Categoria:** Mix (Street / Cuico-Flaite)
 - **Concepto:** Micro-minidress latex leopard print off-shoulder, bodycon ultra-tight. Botas thigh-high caramelo 14cm. Costanera Santiago.
 - **Outfit:** leopard print high-gloss latex micro-minidress off-one-shoulder asymmetric, classic brown caramel black spots on cream base · large gold hoop earrings 5cm + delicate gold chain waist belt · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** caramel tan patent leather thigh-high boots, 14cm stiletto heel, pointed toe, side zip
-- **Ambientación:** Costanera Norte Santiago luxury urban glass building facade, afternoon sun
+- **Ambientacion:** Costanera Norte Santiago luxury urban glass building facade, afternoon sun
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6190,11 +6190,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Acid Yellow Editorial — look de archivo de Ele.* 🟡✨
 
-- **Categoría:** Bikini
+- **Categoria:** Bikini
 - **Concepto:** Micro-bikini latex amarillo acido / neon chartreuse, bandeau tube top strapless, brief high-cut, chrome hardware. Studio white seamless editorial.
 - **Outfit:** acid yellow neon chartreuse high-gloss latex bandeau tube top + micro-brief extreme high-cut, chrome silver O-ring hardware · chrome silver rigid collar choker 2cm · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** acid yellow patent leather stiletto heeled sandals, 14cm heel, single ankle strap chrome buckle
-- **Ambientación:** Studio white seamless backdrop, high-contrast editorial strobe lighting
+- **Ambientacion:** Studio white seamless backdrop, high-contrast editorial strobe lighting
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6266,11 +6266,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Cherry Vinyl Hostess — look de archivo de Ele.* 🍒✨
 
-- **Categoría:** Mix (Domestic / Stepford)
+- **Categoria:** Mix (Domestic / Stepford)
 - **Concepto:** Bodysuit vinilo rojo cereza + apron-dress overlay, frills vinilo blanco bib y hem, corseted. Stepford kitchen luxury.
 - **Outfit:** cherry red high-gloss vinyl bodysuit + bib apron overlay, white vinyl frill trim 3cm bib / 5cm hem, cherry red vinyl bow back · white vinyl headband cherry bow + white vinyl wrist cuffs 3cm frill · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** cherry red patent leather stiletto pumps, 12cm heel, pointed toe, no platform, mirror-gloss, slip-on
-- **Ambientación:** Luxury marble kitchen Stepford aesthetic, warm ambient lighting
+- **Ambientacion:** Luxury marble kitchen Stepford aesthetic, warm ambient lighting
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6342,11 +6342,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Magenta Stage Predator — look de archivo de Ele.* 💗✨
 
-- **Categoría:** Mix (Professional Stripper)
+- **Categoria:** Mix (Professional Stripper)
 - **Concepto:** Bodysuit microchain latex hot magenta, panel transparente lateral, chrome silver O-ring hardware. Botas thigh-high hot magenta 18cm. Pole stage de lujo.
 - **Outfit:** hot magenta high-gloss latex bodysuit + transparent latex mesh side panels + chrome silver O-ring hardware + thigh-high boots 18cm · chrome silver double-link choker chain 1.5cm wide, no pendant. no earrings · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** hot magenta patent leather thigh-high boots, 18cm stiletto heel, pointed toe, front zip, mirror-gloss
-- **Ambientación:** Exclusive gentlemen's club stage, red velvet podium, dramatic overhead spotlight, dark background
+- **Ambientacion:** Exclusive gentlemen's club stage, red velvet podium, dramatic overhead spotlight, dark background
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6407,11 +6407,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Chrome Domestique — look de archivo de Ele.* 🪞✨
 
-- **Categoría:** Mix (Domestic / Stepford)
+- **Categoria:** Mix (Domestic / Stepford)
 - **Concepto:** Apron-dress chrome silver vinyl, espalda abierta O-ring, guantes elbow chrome. Spatula decorativa chrome. Stepford Mugler kitchen.
 - **Outfit:** chrome silver mirror-gloss vinyl apron-dress open back O-ring + matching elbow gloves + stiletto mules ankle strap · hot magenta chrome rigid choker 1.5cm band. chrome-plated decorative spatula right hand. no earrings · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** chrome silver patent leather stiletto mules with ankle strap, 14cm pin stiletto heel, pointed toe, mirror-gloss
-- **Ambientación:** Ultra-modern luxury kitchen, white Calacatta marble countertops, brushed steel appliances, morning light
+- **Ambientacion:** Ultra-modern luxury kitchen, white Calacatta marble countertops, brushed steel appliances, morning light
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6472,12 +6472,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Chrome Gold Escort Suprema — look de archivo de Ele.* 🥂✨
 
-- **Ubicación:** `05_Imagenes/ele/look183_chrome_gold_escort_suprema/`
-- **Categoría:** Mix (Escort de Lujo)
+- **Ubicacion:** `05_Imagenes/ele/look183_chrome_gold_escort_suprema/`
+- **Categoria:** Mix (Escort de Lujo)
 - **Concepto:** Micro-dress asimetrico chrome gold vinyl, single shoulder, bodycon extreme, draping diagonal hip. Guantes cortos chrome gold. Escort de lujo absoluto.
 - **Outfit:** chrome gold mirror-gloss vinyl asymmetric micro-dress single shoulder + wrist-length gloves + stiletto sandals ankle strap · large geometric teardrop drop earrings chrome gold 4cm. no necklace, no bag, no belt · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** chrome gold patent leather stiletto sandals, 14cm heel, single ankle strap chrome clasp, pointed toe, open toe, mirror-gloss
-- **Ambientación:** Five-star hotel penthouse suite, floor-to-ceiling windows city lights at night, champagne flute on marble side table
+- **Ambientacion:** Five-star hotel penthouse suite, floor-to-ceiling windows city lights at night, champagne flute on marble side table
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6538,11 +6538,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Jade Corporate Dominatrix — look de archivo de Ele.* 💚✨
 
-- **Categoría:** Mix (Corporate)
+- **Categoria:** Mix (Corporate)
 - **Concepto:** Power blazer jade gloss latex Mugler, hombros 4cm, sin blusa, decoltee al descubierto. Pencil skirt jade ultra-tight, slit 20cm. Glass corner office.
 - **Outfit:** deep jade high-gloss latex power blazer (no shirt, Mugler shoulders 4cm) + matching ultra-tight pencil skirt back slit 20cm · chrome gold rigid cuff bracelet 3cm wide left wrist only. no earrings, no necklace · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** deep jade patent leather stiletto pumps, 14cm heel, pointed toe, no platform, mirror-gloss
-- **Ambientación:** Glass corner executive office, city skyline floor-to-ceiling windows, white marble desk, golden afternoon light
+- **Ambientacion:** Glass corner executive office, city skyline floor-to-ceiling windows, white marble desk, golden afternoon light
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6603,11 +6603,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Emerald Mugler Suprema — look de archivo de Ele.* 💎✨
 
-- **Categoría:** Mix (High-Fashion Editorial)
+- **Categoria:** Mix (High-Fashion Editorial)
 - **Concepto:** Sculptural gown emerald latex, armored bodice boning externo chrome gold, asymmetric shoulder blade, micro-peplum hip. Editorial runway blanco. La escultura es el accesorio.
 - **Outfit:** deep emerald high-gloss latex sculptural gown, chrome gold external boning ribs, asymmetric shoulder blade, micro-peplum + stiletto ankle boots emerald · chrome gold rigid architectural choker 3cm wide, geometric rectangular pendant 2cm centered. no earrings, no bracelet · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** deep emerald green patent leather stiletto ankle boots, 14cm heel, pointed toe, side zip, mirror-gloss
-- **Ambientación:** High-fashion runway, stark white seamless studio, editorial strobe lighting, dramatic shadow geometry on floor
+- **Ambientacion:** High-fashion runway, stark white seamless studio, editorial strobe lighting, dramatic shadow geometry on floor
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6674,9 +6674,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Latex Nun — look de archivo de Ele.* 🖤✨
 
-- **Ubicación:** `05_Imagenes/ele/look046_latex_nun/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look046_latex_nun/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #latex #glossy
 - **Concepto:** Goticismo devocional extremo. Hábito de monja en látex negro pulido, rosario de cristal y sumisión litúrgica.
 
@@ -6686,8 +6686,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Rubbermaid — look de archivo de Ele.* 🧹✨
 
-- **Categoría:** Mix
-- **Subcategoría:** Domestic
+- **Categoria:** Mix
+- **Subcategoria:** Domestic
 - **Tags:** #latex #pvc #glossy
 - **Concepto:** Sirvienta de látex "manufacturada". Estética de casa de muñecas, PVC rosa y delantal blanco.
 
@@ -6697,14 +6697,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Silver Mirror Stripper — look de archivo de Ele.* 💎✨
 
-- **Ubicación:** `05_Imagenes/ele/look186_silver_mirror_stripper/`
-- **Categoría:** Mix
-- **Subcategoría:** Professional Stripper
+- **Ubicacion:** `05_Imagenes/ele/look186_silver_mirror_stripper/`
+- **Categoria:** Mix
+- **Subcategoria:** Professional Stripper
 - **Tags:** #pvc #chrome #stripper
 - **Concepto:** Una visión de metal líquido y erotismo de alta gama. Ele como la joya central de un club VIP privado en el piso 50. Brillo cegador, arquitectura corporal y sumisión al lujo metalizado.
 - **Outfit:** liquid silver mirror-finish PVC stripper ensemble, micro-halter top with chrome chains, ultra-low rise thong with rhinestone trim, chrome chain garter · Chrome chain-link garter on left thigh. XXXL French nails fully visible · Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
 - **Tacones:** 18cm clear acrylic platform stiletto boots, liquid silver chrome pin heels, pointed toe, mirror-gloss
-- **Ambientación:** Private high-end VIP penthouse club, neon purple ambient lighting, black marble floor, city skyline view
+- **Ambientacion:** Private high-end VIP penthouse club, neon purple ambient lighting, black marble floor, city skyline view
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6765,12 +6765,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Hot Pink Tulle & Black Vinyl — look de archivo de Ele.* 💖✨
 
-- **Categoría:** Lencería
+- **Categoria:** Lencería
 - **Tags:** #tulle #vinyl #pink #glossy #boudoir
 - **Concepto:** **Bimbo Candy-Cloud Lingerie / Lingerie Deficit Correction**. Estética boudoir de ultra-lujo. Contraste entre la suavidad del tul rosa y la agresividad del vinilo negro.
 - **Outfit:** Sostén push-up de tul rosa ultra-sheer con ribetes de vinilo negro brillante. Micro-tanga de tiro alto a juego... Uñas French XXXL (5cm). Navel and nipple piercings visible
 - **Tacones:** Stiletto "Extreme-11" de 11 pulgadas en charol rosa neón.
-- **Ambientación:** Penthouse luxury boudoir in Sanhattan, night, neon pink lighting, city skyline background.
+- **Ambientacion:** Penthouse luxury boudoir in Sanhattan, night, neon pink lighting, city skyline background.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6825,14 +6825,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Midnight Violet Velvet & Black Vinyl — look de archivo de Ele.* 🔮✨
 
-- **Ubicación:** `05_Imagenes/ele/look188_midnight_violet_velvet/`
-- **Categoría:** Lencería
-- **Subcategoría:** Lencería de Élite
+- **Ubicacion:** `05_Imagenes/ele/look188_midnight_violet_velvet/`
+- **Categoria:** Lencería
+- **Subcategoria:** Lencería de Élite
 - **Tags:** #velvet #vinyl #violet #boudoir #high-gloss
 - **Concepto:** **Bimbo Deep-Velvet Boudoir / Lingerie Deficit Correction**. Estética boudoir y dominación fetichista de ultra-lujo. Contraste entre la textura suntuosa del terciopelo violeta profundo y la rigidez brillante del vinilo negro espejo.
 - **Outfit:** Sostén plunge push-up con aros de terciopelo violeta profundo y ribetes de vinilo negro brillante. Micro-hilo dental de tiro ultra alto de vinilo negro brillante con cordones violeta... Manicura francesa XXXL (5cm) completamente visible a través de los guantes traslúcidos. Navel y nipple piercings de oro blanco visibles bajo las costuras y transparencias
 - **Tacones:** Towering 12-inch pointed-toe stiletto boots en charol negro brillante con finísimos tacones de aguja cromados.
-- **Ambientación:** Penthouse de lujo acristalado en Sanhattan de noche, iluminación ambiental de sombras y luces de neón violeta profundo, pisos de madera oscura pulida reflejando el skyline de la ciudad.
+- **Ambientacion:** Penthouse de lujo acristalado en Sanhattan de noche, iluminación ambiental de sombras y luces de neón violeta profundo, pisos de madera oscura pulida reflejando el skyline de la ciudad.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6893,14 +6893,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Tangerine Bombshell Aviator — look de archivo de Ele.* 🍊✨
 
-- **Ubicación:** `05_Imagenes/ele/look189_tangerine_bombshell_aviator/`
-- **Categoría:** Mix
-- **Subcategoría:** Pin-Up & Athleisure
+- **Ubicacion:** `05_Imagenes/ele/look189_tangerine_bombshell_aviator/`
+- **Categoria:** Mix
+- **Subcategoria:** Pin-Up & Athleisure
 - **Tags:** #latex #vinyl #tangerine #pinup #aviator #jetset #paletaV34
 - **Concepto:** **Bombshell Pin-Up Aviator de Jet-Set / Spectrum Expansion**. Estreno canónico del color virgen **Tangerine** (familia Naranjas, Paleta V3.4). Silueta pin-up 50s en su forma más icónica — bustier sweetheart, cintura de avispa, bolero de aviadora estructurado, medias con costura — fusionada con el lujo jet-set. Modo Contraste: tangerine dominante (60%) + burnt orange (30%) + chrome (10%).
 - **Outfit:** Playsuit-bustier de látex tangerina ultra-brillante con copas underwire estructuradas escote sweetheart y cintura de avispa profundamente ceñida. Shorts tap de vinilo burnt orange de tiro alto moldeados al cuerpo con cinturón cinch ancho de hebilla cromada. Bolero de aviadora corto de charol tangerina con hombros estructurados y puños vueltos, usado abierto · Medias tangerina ultra-sheer con costura trasera marcada, prendidas a ligueros · Pañuelo de seda tangerina anudado al cuello (aviadora jet-set). Gafas de sol cat-eye cromadas. Guantes fingerless de vinilo tangerina (`fingerless opera gloves`), uñas French XXXL 5cm completamente visibles. Navel y nipple piercings de oro blanco visibles bajo el látex tenso
 - **Tacones:** Tacones pin-up peep-toe de plataforma de 12 pulgadas en blanco y cromo, correa al tobillo y detalle de lazo.
-- **Ambientación:** Cubierta de yate de lujo / borde de piscina infinita de hotel 5★ en Zapallar, mediodía, agua turquesa, cromo reflejando sol.
+- **Ambientacion:** Cubierta de yate de lujo / borde de piscina infinita de hotel 5★ en Zapallar, mediodía, agua turquesa, cromo reflejando sol.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -6961,14 +6961,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Toxic Chartreuse Pole Predator — look de archivo de Ele.* 🟡✨
 
-- **Ubicación:** `05_Imagenes/ele/look190_toxic_chartreuse_pole/`
-- **Categoría:** Mix
-- **Subcategoría:** Professional Stripper
+- **Ubicacion:** `05_Imagenes/ele/look190_toxic_chartreuse_pole/`
+- **Categoria:** Mix
+- **Subcategoria:** Professional Stripper
 - **Tags:** #patentvinyl #latex #chartreuse #stripper #pole #UV #paletaV34
 - **Concepto:** **Exotic Pole Predator / Spectrum Expansion**. Estreno canónico del color virgen **Acid Chartreuse** (familia Amarillos, Paleta V3.4). Stripper de élite bajo luz UV: vinilo charol tóxico, arnés de cristal, plataforma stripper de 16cm. Modo Monoblock chartreuse con acentos cromo + UV reactivo.
 - **Outfit:** Micro-bra de vinilo charol acid chartreuse + micro-thong a juego. Arnés de cristal estructural sobre torso y caderas con O-rings cromados, cruzando entre los senos y la cintura. Uñas French XXXL 5cm visibles por el cut-out de los guantes. Navel y nipple piercings de oro blanco visibles, reactivos bajo UV
 - **Tacones:** Plataformas stripper de acrílico transparente de 16cm con tacón de aguja, base chartreuse, correas al tobillo.
-- **Ambientación:** Escenario oscuro de club con tubo cromado central, luz UV + neón chartreuse, humo bajo, espejo negro de fondo.
+- **Ambientacion:** Escenario oscuro de club con tubo cromado central, luz UV + neón chartreuse, humo bajo, espejo negro de fondo.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7029,14 +7029,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Peacock Teal Escort Suprema — look de archivo de Ele.* 🦚✨
 
-- **Ubicación:** `05_Imagenes/ele/look191_peacock_teal_escort/`
-- **Categoría:** Mix
-- **Subcategoría:** Escort de Lujo
+- **Ubicacion:** `05_Imagenes/ele/look191_peacock_teal_escort/`
+- **Categoria:** Mix
+- **Subcategoria:** Escort de Lujo
 - **Tags:** #liquidsatin #vinyl #teal #peacock #escort #hautecouture #paletaV34
 - **Concepto:** **Escort de Lujo Suprema / Spectrum Expansion**. Estreno canónico del color virgen **Deep Teal / Peacock** (familia Teales, Paleta V3.4). Acompañante de élite en su forma más escultórica: satén líquido teal profundo, estructura de vinilo iridiscente peacock, collar arquitectónico de cromo (escultórico, sin atribución de diseñador). Modo Contraste: deep teal (60%) + peacock iridescent (30%) + chrome (10%).
 - **Outfit:** Vestido columna hasta el suelo de satén líquido deep teal con abertura frontal alta hasta el muslo. Bustier estructural de vinilo iridiscente peacock incorporado (azul-verde cambiante) que esculpe el torso. Collar arquitectónico de cromo de pie con barras ascendentes (escultórico, 12cm, sin atribución) · Clutch de cromo bajo el brazo. Guantes opera de teal con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Choker no aplica (lo reemplaza el collar arquitectónico). Navel y nipple piercings de oro blanco visibles bajo el satén tenso
 - **Tacones:** Sandalias stiletto de cromo de 12 pulgadas, tiras finas, tacón de aguja.
-- **Ambientación:** Suite presidencial de hotel 5★ en Sanhattan, gala nocturna, luz dorada cálida y reflejos de ciudad, mármol negro pulido.
+- **Ambientacion:** Suite presidencial de hotel 5★ en Sanhattan, gala nocturna, luz dorada cálida y reflejos de ciudad, mármol negro pulido.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7097,14 +7097,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Oxblood Boardroom Dominatrix — look de archivo de Ele.* 🍷✨
 
-- **Ubicación:** `05_Imagenes/ele/look192_oxblood_boardroom/`
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Ubicacion:** `05_Imagenes/ele/look192_oxblood_boardroom/`
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #pvc #vinyl #oxblood #wine #corporate #dominatrix #paletaV34
 - **Concepto:** **Corporate Power Femme Fatale / Spectrum Expansion**. Estreno canónico del color virgen **Oxblood / Wine** (familia Vinos, Paleta V3.4). Dominatrix corporativa: falda tubo de PVC espejo, blazer estructural de vinilo con hombros arquitectónicos angulares (escultórico, sin atribución), blusa translúcida. Modo Monoblock oxblood con acentos cromo.
 - **Outfit:** Falda tubo de PVC oxblood espejo, talle alto, abertura lateral hasta el muslo. Blusa de gasa wine ultra-translúcida sin sostén (piercings visibles a través). Blazer estructural de vinilo oxblood con hombros angulares esculpóricos puntiagudos (escultórico-arquitectónico, sin atribución de diseñador). Sin guantes (líneas corporativas limpias) — uñas French XXXL 5cm completamente visibles. Navel y nipple piercings de oro blanco visibles a través de la gasa wine
 - **Tacones:** Stiletto pumps de charol wine de 12 pulgadas, punta afilada, tacón de aguja cromado.
-- **Ambientación:** Oficina esquina acristalada de Sanhattan al atardecer, skyline de Las Condes, escritorio de vidrio negro, luz cálida lateral.
+- **Ambientacion:** Oficina esquina acristalada de Sanhattan al atardecer, skyline de Las Condes, escritorio de vidrio negro, luz cálida lateral.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7165,14 +7165,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Oil-Slick Liquid Siren — look de archivo de Ele.* 🛢️✨
 
-- **Ubicación:** `05_Imagenes/ele/look193_oilslick_liquid_siren/`
-- **Categoría:** Mix
-- **Subcategoría:** High-Fashion & Nightclub
+- **Ubicacion:** `05_Imagenes/ele/look193_oilslick_liquid_siren/`
+- **Categoria:** Mix
+- **Subcategoria:** High-Fashion & Nightclub
 - **Tags:** #latex #holographic #oilslick #iridescent #highfashion #couture #paletaV34
 - **Concepto:** **High-Fashion Liquid Siren / Spectrum Expansion**. Estreno canónico de la familia de acabado virgen **Iridescent Oil-Slick multichrome** (Paleta V3.4 — superficie, no tono). Alta costura escultórica líquida (sin atribución de diseñador): un vestido columna asimétrico de un solo hombro en látex oil-slick que parece petróleo vertido, coronado por un único gran arco escultórico que se eleva sobre la cabeza. Multichrome cambiante magenta-teal-oro.
 - **Outfit:** Vestido largo asimétrico de un solo hombro en látex holográfico oil-slick multichrome (cambia magenta-teal-oro, acabado beetle-shell) moldeado al cuerpo como metal líquido vertido. Un único hombro escultórico dramático exagerado forma un gran arco que se curva hacia arriba y por encima, enmarcando la cabeza (escultórico couture, sin atribución de diseñador). Escote plunge arquitectónico profundo hasta el ombligo. Abertura escultórica alta en el muslo · Jaula de cintura escultórica rígida de cromo espejo ciñendo la cintura de avispa · Tocado de un único arco escultórico de cromo que repite la onda del hombro. Guantes opera oil-slick con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco presionando visiblemente a través del látex holográfico
 - **Tacones:** Botas stiletto de plataforma de 12 pulgadas en oil-slick holográfico a juego, tacón de aguja cromado.
-- **Ambientación:** Estudio editorial blanco infinito / instalación artística, iluminación de alto contraste que dispara los reflejos multichrome del oil-slick.
+- **Ambientacion:** Estudio editorial blanco infinito / instalación artística, iluminación de alto contraste que dispara los reflejos multichrome del oil-slick.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7233,14 +7233,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Porcelain Service Doll — look de archivo de Ele.* 🤍✨
 
-- **Ubicación:** `05_Imagenes/ele/look194_porcelain_service_doll/`
-- **Categoría:** Mix
-- **Subcategoría:** Domestic
+- **Ubicacion:** `05_Imagenes/ele/look194_porcelain_service_doll/`
+- **Categoria:** Mix
+- **Subcategoria:** Domestic
 - **Tags:** #latex #chrome #white #domestic #stepford #escultorico
 - **Concepto:** **Domestic Stepford escultórico-arquitectónico (sin atribución de diseñador)**. Recuperación del sub-arquetipo Domestic (sin cobertura en el batch anterior). Silueta de peplum rígido + corsé underbust: pura armadura de servicio. Modo Neutro+Pop: vinyl white dominante + mirror silver estructural.
 - **Outfit:** Apron-dress de látex blanco con peplum arquitectónico rígido de pliegues caja geométricos, corsé underbust incorporado de varillas visibles, mangas casquillo escultóricas puntiagudas, espalda con O-ring cromado · Arnés-bandeja de cromo espejo al frente. Cofia escultórica de látex blanco. Guantes opera de látex blanco con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el látex tenso
 - **Tacones:** Stiletto pumps de charol blanco de 12 pulgadas con tacón de aguja cromado, punta afilada.
-- **Ambientación:** Cocina-penthouse de lujo Stepford, mármol blanco y acero, luz limpia de alto key.
+- **Ambientacion:** Cocina-penthouse de lujo Stepford, mármol blanco y acero, luz limpia de alto key.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7301,14 +7301,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Burnt Honey Housewife — look de archivo de Ele.* 🍯✨
 
-- **Ubicación:** `05_Imagenes/ele/look195_burnt_honey_housewife/`
-- **Categoría:** Mix
-- **Subcategoría:** Domestic
+- **Ubicacion:** `05_Imagenes/ele/look195_burnt_honey_housewife/`
+- **Categoria:** Mix
+- **Subcategoria:** Domestic
 - **Tags:** #pvc #organza #burntorange #domestic #wiggledress #paletaV34
 - **Concepto:** **Domestic 50s Trophy / Paleta V3.4 (2º uso Naranjas)**. Segunda recuperación Domestic. Silueta *wiggle dress* años 50 — vestido lápiz que abraza la curva y obliga a pasos restringidos. Modo Monoblock burnt orange con acentos cromo.
 - **Outfit:** Wiggle dress de PVC burnt orange ultra-ceñido hasta media pantorrilla, escote sweetheart, sin tirantes, costura central que esculpe la curva. Medio-delantal de organza sheer naranja atado a la cintura con moño grande. Pañuelo de lunares atado en el pelo (housewife). Guantes fingerless de PVC burnt orange (`fingerless opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el PVC tenso
 - **Tacones:** Stiletto pumps de PVC burnt orange de 12 pulgadas, tacón de aguja cromado, con pompón.
-- **Ambientación:** Cocina retro pastel de penthouse, electrodomésticos cromados vintage, luz cálida de tarde.
+- **Ambientacion:** Cocina retro pastel de penthouse, electrodomésticos cromados vintage, luz cálida de tarde.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7369,14 +7369,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Glacial Sapphire Executive — look de archivo de Ele.* 💙✨
 
-- **Ubicación:** `05_Imagenes/ele/look196_glacial_sapphire_executive/`
-- **Categoría:** Mix
-- **Subcategoría:** Corporate
+- **Ubicacion:** `05_Imagenes/ele/look196_glacial_sapphire_executive/`
+- **Categoria:** Mix
+- **Subcategoria:** Corporate
 - **Tags:** #liquidvinyl #sapphire #corporate #powersuit #wideleg
 - **Concepto:** **Corporate Power Suit glacial**. Silueta de traje sastre 80s con **pantalón wide-leg** (rompe el patrón pencil-skirt habitual). Modo Contraste: sapphire dominante (70%) + chrome (30%).
 - **Outfit:** Blazer sastre entallado de vinilo líquido zafiro con hombros pico escultóricos, un solo botón en la cintura de avispa, usado sobre la piel desnuda (sin blusa, piercings visibles en el escote profundo). Pantalón palazzo wide-leg de tiro ultra-alto de vinilo líquido zafiro espejo, drapeado fluido · Puño ancho de cromo espejo. Sin guantes (líneas corporativas limpias), uñas French XXXL 5cm completamente visibles. Navel y nipple piercings de oro blanco visibles en el escote profundo del blazer
 - **Tacones:** Stiletto sandals de cromo de 12 pulgadas, ocultas bajo el dobladillo wide-leg, tacón de aguja.
-- **Ambientación:** Oficina esquina acristalada de Sanhattan, hora azul, skyline frío, escritorio de vidrio espejo.
+- **Ambientacion:** Oficina esquina acristalada de Sanhattan, hora azul, skyline frío, escritorio de vidrio espejo.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7437,14 +7437,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Wine Velvet Nocturne — look de archivo de Ele.* 🍇✨
 
-- **Ubicación:** `05_Imagenes/ele/look197_wine_velvet_nocturne/`
-- **Categoría:** Mix
-- **Subcategoría:** Escort de Lujo
+- **Ubicacion:** `05_Imagenes/ele/look197_wine_velvet_nocturne/`
+- **Categoria:** Mix
+- **Subcategoria:** Escort de Lujo
 - **Tags:** #velvet #latex #wine #escort #biascut #oldhollywood #paletaV34
 - **Concepto:** **Escort de Lujo Old Hollywood / Paleta V3.4 (2º uso Vinos)**. Silueta *bias-cut slip gown* años 30 — caída líquida en diagonal, drapeado a mano. Modo Monoblock wine con acentos cromo.
 - **Outfit:** Slip gown largo de terciopelo aplastado wine, corte al bies (bias-cut), drapeado fluido sobre una base de látex wine oculta que esculpe la silueta, espalda cowl profunda hasta la cintura, tirantes finos cruzados · Brazalete y pendientes largos de cromo espejo. Guantes opera de satén wine con puntas traslúcidas (`transparent fingertip opera gloves`), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el terciopelo tenso
 - **Tacones:** Stiletto sandals de cromo de 12 pulgadas con tiras finas, tacón de aguja.
-- **Ambientación:** Suite art déco de hotel 5★ nocturna, luz cálida ámbar baja, espejos ahumados, terciopelo y mármol negro.
+- **Ambientacion:** Suite art déco de hotel 5★ nocturna, luz cálida ámbar baja, espejos ahumados, terciopelo y mármol negro.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7505,14 +7505,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Turquoise Court Volley — look de archivo de Ele.* 🩵✨
 
-- **Ubicación:** `05_Imagenes/ele/look198_turquoise_court_volley/`
-- **Categoría:** Mix
-- **Subcategoría:** Pin-Up & Athleisure
+- **Ubicacion:** `05_Imagenes/ele/look198_turquoise_court_volley/`
+- **Categoria:** Mix
+- **Subcategoria:** Pin-Up & Athleisure
 - **Tags:** #vinyl #turquoise #chrome #pinup #athleisure #tennis #paletaV34
 - **Concepto:** **Pin-Up deportivo de tenis / Paleta V3.4 (2º uso Teales)**. Silueta de playdress halter estructurado con skort plisado integrado. Modo Contraste: turquoise dominante (70%) + chrome (30%).
 - **Outfit:** Playdress halter estructurado de vinilo turquoise-chrome, corpiño con copas moldeadas y cintura ceñida, con skort plisado integrado de pliegues acordeón con ribete cromado que vuela. Guantes fingerless de vinilo turquoise (`fingerless opera gloves`), uñas French XXXL 5cm visibles. Coleta alta con cinta cromada. Navel y nipple piercings de oro blanco visibles bajo el vinilo tenso
 - **Tacones:** Court shoes de plataforma stiletto de 12 pulgadas en blanco y turquoise, tacón de aguja cromado, correa al tobillo.
-- **Ambientación:** Cancha de tenis de arcilla de club privado / cancha de hotel 5★, sol pleno, líneas blancas, cromo brillando.
+- **Ambientacion:** Cancha de tenis de arcilla de club privado / cancha de hotel 5★, sol pleno, líneas blancas, cromo brillando.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
@@ -7573,14 +7573,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 *Gold-Lime Showgirl Armor — look de archivo de Ele.* 💚✨
 
-- **Ubicación:** `05_Imagenes/ele/look199_goldlime_showgirl_armor/`
-- **Categoría:** Mix
-- **Subcategoría:** Professional Stripper
+- **Ubicacion:** `05_Imagenes/ele/look199_goldlime_showgirl_armor/`
+- **Categoria:** Mix
+- **Subcategoria:** Professional Stripper
 - **Tags:** #patentvinyl #chrome #goldlime #stripper #corsetleotard #pole #paletaV34 #siluetarediseñada
 - **Concepto:** **Exotic Pole Showgirl / Paleta V3.4 (2º uso Amarillos)**. *Rediseñado bajo la Regla de Variación de Silueta:* silueta **(b) corset-leotard rígido escultórico + cola/fringe** — distinta del micro+jaula del L190 ancla. Modo Contraste: gold-lime dominante (70%) + chrome (30%).
 - **Outfit:** Corset-leotard de una pieza en charol vinilo gold-lime, alto de cadera, copas cónicas de varilla escultórica, plunge profundo hasta el ombligo, varillaje estructural visible. Guantes opera de látex gold-lime tipo claw cut-out (uñas afuera), uñas French XXXL 5cm visibles. Navel y nipple piercings de oro blanco visibles bajo el plunge
 - **Tacones:** Botas stiletto a la rodilla de charol gold-lime, tacón de aguja cromado, punta afilada.
-- **Ambientación:** Escenario de club con tubo cromado central, luz cálida lime + spots, espejo negro de fondo, humo bajo.
+- **Ambientacion:** Escenario de club con tubo cromado central, luz cálida lime + spots, espejo negro de fondo, humo bajo.
 
 ### 📸 Imágenes (7/7 — Materializado)
 
