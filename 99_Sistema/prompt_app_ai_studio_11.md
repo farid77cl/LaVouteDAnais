@@ -44,9 +44,9 @@ Además el botón (`LiteratureScreen.kt:394-395`) muestra solo un `CircularProgr
 
 `LiteratureScreen.kt:333-380` hace TODO el troceado dentro del `onClick` del botón: dos `Regex` sobre el texto completo (los capítulos reales pesan 70-100 KB), un `split`, y un bucle con `replace(Regex("\\s+"))` por párrafo. Todo **síncrono en el hilo principal**, antes de que salga el primer byte a la red → la UI se congela un instante perceptible justo al tocar Reproducir.
 
-### C4 · El modelo lento puede estar activo sin que se note
+### C4 · El modelo lento puede activarse sin que se note (hoy NO es la causa)
 
-El selector (`LiteratureScreen.kt:661-678`) ofrece `eleven_multilingual_v2`, **el de mayor latencia del catálogo**, y cuando está activo `downloadAudio` (`:215`) NO usa el formato liviano `mp3_22050_32` (baja ~4× más bytes antes de sonar). Si alguna vez se marcó "por calidad", ese solo hecho puede ser medio *"siglos"* — y hoy la UI **no muestra qué modelo está corriendo**.
+El selector (`LiteratureScreen.kt:661-678`) ofrece `eleven_multilingual_v2`, **el de mayor latencia del catálogo**, y cuando está activo `downloadAudio` (`:215`) NO usa el formato liviano `mp3_22050_32` (baja ~4× más bytes antes de sonar). **Confirmado con la Ama (23/07): hoy está marcado Flash v2.5** → el modelo NO explica su lentitud actual. A5 queda por **higiene** (que ninguna ruta ni descuido caiga en el lento) y **transparencia** (mostrar el modelo activo), no como arreglo del síntoma de hoy. La causa real, entonces, se concentra en C1 (señal rota) y C3 (hilo congelado).
 
 ---
 
@@ -255,7 +255,7 @@ Si AI Studio se corta a medio camino, el orden de valor es:
 |---|---|---|
 | 🥇 | **A1** (spinner honesto) | Es borrar una línea (`ElevenLabsManager:156`) + agregar un texto. Es lo que hace que ElevenLabs *parezca* que nunca arranca aunque la espera real sea corta. |
 | 🥈 | **A3** (troceado fuera del hilo) | Quita el congelamiento de la UI justo al tocar Reproducir en capítulos largos. |
-| 🥉 | **A5 + C** (forzar/mostrar Flash + medir) | Si estaba en Multilingual, ese solo cambio es medio *"siglos"*; y la medición decide si hace falta el ExoPlayer del #13. |
+| 🥉 | **C** (medir el TTFA) | La medición decide si hace falta el ExoPlayer del #13. (A5 es higiene/transparencia: la Ama ya confirmó que está en Flash, así que el modelo no es el síntoma de hoy.) |
 | 4 | **A2 + A4** (pausa correcta + trozo 0 corto) | Arranque más corto y sin audio fantasma. |
 | 5 | **B1** (velocidad en ElevenLabs) | Función pedida; casi gratis vía PlaybackParams. |
 | 6 | **B2 + B3** (auto-scroll pulido + nota con versión) | Pulido del lector; la nota con versión cierra el ciclo con la convención de notas del engine. |
