@@ -1,1 +1,1 @@
-cuando se materializa Ginny no suena a chica fresa
+cuando se materializa Ginny no suena a chica fresa, aumenta el tono fresa, elimina güey. aún me falta más de Gonzalo, que.es lo que le pasa, empieza a pensar en vergas??? la huele, le da asco?
