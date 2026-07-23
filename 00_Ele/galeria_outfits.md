@@ -32118,11 +32118,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, identico x7).
 - **Ambientacion:** on a glamorous burlesque cabaret stage with red velvet curtains, a white follow-spot, and dark lacquered floor
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (0/7 — Pendiente)
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look651_crimson_command/ele_651_standing.png) | [📸 View](../../05_Imagenes/ele/look651_crimson_command/ele_651_back_view.png) | [📸 View](../../05_Imagenes/ele/look651_crimson_command/ele_651_seated.png) | [📸 View](../../05_Imagenes/ele/look651_crimson_command/ele_651_side_profile.png) | [📸 View](../../05_Imagenes/ele/look651_crimson_command/ele_651_ditzy.png) | [📸 View](../../05_Imagenes/ele/look651_crimson_command/ele_651_pov.png) | [📸 View](../../05_Imagenes/ele/look651_crimson_command/ele_651_odalisque.png) |
+> ⏳ **Las 7 imágenes se eliminaron el 23/07/2026** por corruptas: eran páginas de login de Google guardadas como `.png` (ruta de compartir de Gemini) + miniaturas de 286px. A regenerar por **Descargar → selector de galería**.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -32185,11 +32183,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, identico x7).
 - **Ambientacion:** en pole studio con paredes espejadas de cromo retroiluminadas y marmol oscuro veteado
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (0/7 — Pendiente)
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look652_black_chrome_cage_mistress/ele_652_standing.png) | [📸 View](../../05_Imagenes/ele/look652_black_chrome_cage_mistress/ele_652_back_view.png) | [📸 View](../../05_Imagenes/ele/look652_black_chrome_cage_mistress/ele_652_seated.png) | [📸 View](../../05_Imagenes/ele/look652_black_chrome_cage_mistress/ele_652_side_profile.png) | [📸 View](../../05_Imagenes/ele/look652_black_chrome_cage_mistress/ele_652_ditzy.png) | [📸 View](../../05_Imagenes/ele/look652_black_chrome_cage_mistress/ele_652_pov.png) | [📸 View](../../05_Imagenes/ele/look652_black_chrome_cage_mistress/ele_652_odalisque.png) |
+> ⏳ **Las 7 imágenes se eliminaron el 23/07/2026** por corruptas: eran páginas de login de Google guardadas como `.png` (ruta de compartir de Gemini) + miniaturas de 286px. A regenerar por **Descargar → selector de galería**.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -32252,11 +32248,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, identico x7).
 - **Ambientacion:** en dungeon loft con arcos de piedra, luz roja tungsteno y suelo de pizarra pulida
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (0/7 — Pendiente)
 
-| Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look653_burgundy_fetish_domme/ele_653_standing.png) | [📸 View](../../05_Imagenes/ele/look653_burgundy_fetish_domme/ele_653_back_view.png) | [📸 View](../../05_Imagenes/ele/look653_burgundy_fetish_domme/ele_653_seated.png) | [📸 View](../../05_Imagenes/ele/look653_burgundy_fetish_domme/ele_653_side_profile.png) | [📸 View](../../05_Imagenes/ele/look653_burgundy_fetish_domme/ele_653_ditzy.png) | [📸 View](../../05_Imagenes/ele/look653_burgundy_fetish_domme/ele_653_pov.png) | [📸 View](../../05_Imagenes/ele/look653_burgundy_fetish_domme/ele_653_odalisque.png) |
+> ⏳ **Las 7 imágenes se eliminaron el 23/07/2026** por corruptas: eran páginas de login de Google guardadas como `.png` (ruta de compartir de Gemini) + miniaturas de 286px. A regenerar por **Descargar → selector de galería**.
 
 ### 📝 Prompts V3.5 Hard-Sync
 
