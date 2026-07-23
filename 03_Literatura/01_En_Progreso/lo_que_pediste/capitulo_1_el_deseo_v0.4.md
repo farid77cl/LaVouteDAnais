@@ -726,7 +726,7 @@ Gonzalo se quedó con el maletín en la mano.
 
 —Cállate.
 
-—Es que la gente no sabe cómo funciona —siguió Ginny, en el mismo tono con que había hablado del peso el viernes, cómodo, chismoso, sin ninguna prisa—. Mira: ahí atrás tú tienes dos cositas. Una la puedes apretar tú, ¿va? Esa la mandas tú, la aprietas, la sueltas, tú decides. —Levantó dos dedos y separó uno—. Y hay otra, más adentro, que no te hace caso. Neta que no. Esa no obedece a nadie, bestie. Esa se abre sola cuando le hacen suficiente presión, y tú puedes estar pensando lo que quieras, puedes estar diciendo que no con la cabecita, y ella igual se abre. So, o sea, imagínate.
+—Es que tú no sabes lo que tienes ahí, cosita —siguió Ginny, y se deslizó del sillón para acercársele, se le sentó cerquita en el brazo del sofá con el olor dulce metiéndosele encima, y le habló como quien comparte un dulce—. Déjame contarte, porque es lo más padrísimo. Mira. —Bajó la voz, íntima, y le apoyó una uña rosada en el pecho—. Ahí atrás tú tienes dos cositas. Una la aprietas tú, ¿va?, la mandas tú, la aprietas y la sueltas y tú decides, como buena niña. —Separó un dedito, despacio—. Y hay otra, más adentro, que no te hace ni caso. Neta que no, bestie. Esa no le obedece a nadie. Esa se abre solita cuando le hacen la presión justita, y tú puedes estar diciéndole que no con tu cabecita todo lo que quieras, y ella igual, plop, se abre para recibirla bien. —Se le acercó a la oreja, encantada—. Imagínate tú. Tu propio cuerpo diciéndole que sí mientras tú dices que no. So cute, ¿verdad?
 
 Gonzalo dejó el maletín en el suelo con mucho cuidado, porque si no lo dejaba con cuidado lo iba a tirar contra la pared.
 
