@@ -171,8 +171,8 @@ Tests que ejerzan la ruta (pega la salida real con nombres, --rerun-tasks; PROHI
 
 Entrega:
   1. `git rev-parse HEAD` (pega la salida) + `git log --oneline -5`.
-  2. El repo está hoy en versionCode 15 / versionName "4.8" (el #13 NO bumpeó). Deja este entregable
-     en versionCode 16 / versionName "4.9". Mantén el hash de commit visible en la cabecera.
+  2. Sube versionCode +1 y versionName +0.1 respecto a lo que HAYA en el repo al aplicarlo (si el
+     #15 dejó 16/"4.9", este queda 17/"4.10"). Mantén el hash de commit visible en la cabecera.
   3. Declara el keystore usado y si coincide con el anterior.
   4. El APK.
   5. Sección "NO HECHO:" obligatoria, una línea por punto no logrado. Vacía + un test de la Parte E
