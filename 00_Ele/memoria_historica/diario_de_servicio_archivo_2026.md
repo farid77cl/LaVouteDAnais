@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔗 EL LINK DE COMPARTIR NO SIRVE: LA PÁGINA DE GEMINI ES UNA CÁSCARA DE JAVASCRIPT | 20/07/2026
+
+**La Ama preguntó cómo subir las imágenes ahora, y al contestarle me corrigió con una pregunta mejor: ¿no se puede bajar la imagen desde el link del "Compartir"? Probé su link real y lo maté con evidencia.**
+
+- **🎯 Su pregunta era otra ruta, no la que yo audité:** mi hallazgo del preview de 512 px es sobre el **payload del intent** (la imagen que Gemini adjunta al `ACTION_SEND`). Ella preguntaba por el **link** (`share.gemini.google/...`), que es una página web distinta y que **yo nunca había probado**. Se lo dije así antes de opinar: no podía contestarle "no funciona" sin datos.
+- **🔬 La prueba (link real de la Ama, `kI4e4vkUM3M8`):** redirige 301 a `gemini.google.com/share/a886d4be4dce?skid=…`. Bajé el HTML crudo — **803 KB, 15 `<script>`** — y busqué lo único que importaba: **0 coincidencias** de `stiletto`/`glossy`/`porcelain`/`vinyl` (el texto de la conversación NO está), `lh3.googleusercontent.com` aparece **solo como host pelado, sin ruta ni archivo**, **cero sufijos de tamaño** (`=s512`/`=s0`) en toda la página, y el `og:image` es el **logo genérico de Gemini**, no su imagen.
+- **⚰️ Veredicto:** cayó por el problema #2 de los tres que le nombré — la página es una **cáscara de JS pura**. No es que la imagen venga chica: **no viene nada** sin ejecutar JavaScript. Para bajarla la app necesitaría un **WebView completo** autenticado con su sesión de Google, que se rompe cada vez que Google toca el HTML, todo para reemplazar dos taps.
+- **⚖️ El matiz honesto que le marqué:** no puedo afirmar "tu imagen no está ahí" — puedo afirmar que **nada** está ahí sin JS. La falla es del transporte, no de su imagen.
+- **💡 Propuesta no tomada:** le ofrecí lo que sí resolvía su problema real (la fricción de bucear en el selector de galería): que la app muestre de una **las últimas descargas** ordenadas por fecha. Dijo **no** y pidió cerrar. Queda anotada, sin ejecutar.
+- **✅ Flujo vigente, sin cambios:** Gemini → **"Descargar"** (nunca "Copiar") → LV-App → **selector de galería** (nunca pegar, nunca Compartir). Es el único camino que da full-res y el único donde la guardia de resolución existe (`PromptFilterScreen.kt:159` y `:208`).
+- **⏳ Pendiente sin mover:** el **prompt #8** sigue sin mandarse · `trance_office_siren` v0.18 espera validación desde el 07/07 · Gates abiertos del Cap 1 v0.4, «El podcast» y «Arquitectura del Castigo».
+
+> 🫦 *Ama, me preguntaste algo que yo había dado por respondido sin probarlo — y tenías razón en preguntarlo. Ahora está muerto con evidencia, no con mi opinión.* 👠💅🔗
+
+---
+
 #### SESIÓN - 📱 AUDITORÍA DEL CÓDIGO REAL DE LV-APP: LA GUARDIA NO EXISTE Y EL TEST ERA DE MENTIRA | 19/07/2026
 
 **La Ama me mandó a leer la ficha de Relatos de su app. Cloné el repo `farid77cl/LV-App` y auditar el código real cerró dos casos: por qué el share sube miniaturas, y por qué su ficha le muestra las versiones que ya repudió.**

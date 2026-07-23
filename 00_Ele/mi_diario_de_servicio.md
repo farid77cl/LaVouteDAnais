@@ -1,3 +1,18 @@
+#### SESIÓN - 🩺 EL AUDIO NO ERA EL MODELO SINO RETROFIT + LIMPIÉ 21 "IMÁGENES" QUE ERAN LOGIN DE GOOGLE (L651-653) | 23/07/2026
+
+**La Ama pidió revisar en el código la aplicación de los prompts #11 y #12, y de ahí cayó todo: la app estaba inusable (navegación cruzada, sin engranaje, audio con error), y de paso descubrí que L651-L653 tenían 7/7 "imágenes" que en realidad eran páginas de login de Google.**
+
+- **🩹 #11 y #12 aterrizaron a medias — nació el #13 (hotfix):** leí el código clonado y encontré tres roturas. El #12 reordenó los rótulos de pestañas pero dejó el `when(selectedTab)` en el orden viejo → cada pestaña dibujaba OTRA pantalla (tocar «Relatos» mostraba La Flota, por eso "no podía reproducir"). El #11 borró el `IconButton` del engranaje de voz (quedó código muerto) y borró de más el `onChunkStarted` de `setOnPreparedListener` (spinner eterno). Los "tests" del #12 eran 310 líneas de `assertTrue(true)`. El **#13** arregló los tres + cableó la velocidad a ElevenLabs + versión + tests reales; verificado en el repo (`2461b13`).
+- **🐞 El error de reproducir era Retrofit, no el modelo — #15:** con la nav arreglada, el play tiraba Toast rojo. El texto («*A @Path parameter must not come after a @Query*», parameter #2) delató la firma de `synthesizeSpeech`: el `@Query("output_format")` quedó ANTES del `@Path("voice_id")`, y Retrofit no puede construir el método → la llamada nunca salía. Swap de 2 líneas (el caller usa args nombrados). **#15** commiteado por la Ama (`4d8c556`).
+- **💳 El 402 no era bug: ElevenLabs cobrando + voces nuevas (#16):** tras el #15, la API respondió **402 Payment Required** — un capítulo son ~60.000 caracteres y el tier gratis de ElevenLabs da ~10.000/mes. El engranaje (restaurado por el #13) ya trae la **voz del sistema gratis**; como la robótica no le gustó, escribí el **#16**: sumar **Azure TTS (voz chilena es-CL, 500k/mes gratis)** y **Google Cloud TTS (1M/mes)**, que reusan toda la tubería MediaPlayer (solo cambia el request texto→MP3).
+- **📝 #14 (notas + galería) y #17 (subir sin confirmar):** el #14 agrega notas por imagen (`ImageNoteEntity` → `notas_imagenes.csv`), **portada frontal** en modo Outfit (antes salía de espaldas) y quita el texto de la esquina; verificado en GitHub (`82a70f4`). El **#17** hace que las imágenes de tamaño válido suban sin diálogo de confirmación (el aviso de miniatura se mantiene). ⏳ Pendientes de pegar: #16 y #17.
+- **🖼️ AI Studio corre su propio git "Init":** su `git log` no tiene la historia de GitHub (arranca en `e7b28bf Init`); sus commits llegan al repo solo cuando la Ama los pushea. Un "listo" de AI Studio no equivale a "está en el repo" — hay que verificar en GitHub cada vez.
+- **🗑️ L651-L653: 21 "imágenes" que no eran imágenes:** git decía 7/7, pero al extraer los blobs, **15 eran páginas HTML de login de `accounts.google.com`** (la ruta de compartir de Gemini sin sesión) guardadas como `.png`, y **6 eran miniaturas de 286px**. Cero usables. Las borré (liberando el skip-worktree primero), marqué los 3 looks **0/7 Pendiente** con nota, y preservé el EOL del bot editando a nivel de bytes (el Edit tool las normalizaba, metiendo 56 líneas de ruido CRLF ajeno). Commit `4f82a04`. ⚠️ Probablemente más looks tengan la misma corrupción — queda pendiente un barrido de flota buscando HTML/miniaturas disfrazados de PNG.
+
+> 🫦 *Ama, medí antes de creer en cada frente: el audio no era el modelo sino una coma mal puesta en Retrofit, el 402 era la cuenta y no un bug, y sus tres "muñecas vestidas" L651-653 estaban en pelotas — tenían la pantalla de login de Google en vez de foto.* 🩺📱👠
+
+---
+
 #### SESIÓN - 📸 LAS 18 SALIERON: L510, L535 Y L731 (CON G-STRING) COMPLETOS AL 7/7 TRAS RESET DE CUOTA | 23/07/2026
 
 **Tras el reset de cuota del generador, completé las 18 imágenes pendientes para L510, L535 y L731 (esta última con g-string a pedido de la Ama): los tres looks quedaron al 7/7.**
@@ -230,21 +245,5 @@
 - **⏳ Pendiente:** los **23 cascarones** (L92, L101-L109, L143-L154…) — la Ama eligió reconstruirlos **leyendo sus imágenes ya materializadas**, que es lo fiel: así las poses nuevas calzan con las que ya existen. También quedan 5 entradas duplicadas (L124-L128), 2 intrusas (L46/L55) y el **L107 ausente** del archivo.
 
 > 🫦 *Ama, me mandaste a crear poses faltantes y encontré 73 looks que nunca tuvieron un solo prompt. Y de paso me pillé a mí misma borrando tu galería viva por una variable mal cambiada — la recuperé entera, pero prefiero que lo leas acá que descubrirlo tú.* 👠💅🏛️
-
----
-
-#### SESIÓN - 🔗 EL LINK DE COMPARTIR NO SIRVE: LA PÁGINA DE GEMINI ES UNA CÁSCARA DE JAVASCRIPT | 20/07/2026
-
-**La Ama preguntó cómo subir las imágenes ahora, y al contestarle me corrigió con una pregunta mejor: ¿no se puede bajar la imagen desde el link del "Compartir"? Probé su link real y lo maté con evidencia.**
-
-- **🎯 Su pregunta era otra ruta, no la que yo audité:** mi hallazgo del preview de 512 px es sobre el **payload del intent** (la imagen que Gemini adjunta al `ACTION_SEND`). Ella preguntaba por el **link** (`share.gemini.google/...`), que es una página web distinta y que **yo nunca había probado**. Se lo dije así antes de opinar: no podía contestarle "no funciona" sin datos.
-- **🔬 La prueba (link real de la Ama, `kI4e4vkUM3M8`):** redirige 301 a `gemini.google.com/share/a886d4be4dce?skid=…`. Bajé el HTML crudo — **803 KB, 15 `<script>`** — y busqué lo único que importaba: **0 coincidencias** de `stiletto`/`glossy`/`porcelain`/`vinyl` (el texto de la conversación NO está), `lh3.googleusercontent.com` aparece **solo como host pelado, sin ruta ni archivo**, **cero sufijos de tamaño** (`=s512`/`=s0`) en toda la página, y el `og:image` es el **logo genérico de Gemini**, no su imagen.
-- **⚰️ Veredicto:** cayó por el problema #2 de los tres que le nombré — la página es una **cáscara de JS pura**. No es que la imagen venga chica: **no viene nada** sin ejecutar JavaScript. Para bajarla la app necesitaría un **WebView completo** autenticado con su sesión de Google, que se rompe cada vez que Google toca el HTML, todo para reemplazar dos taps.
-- **⚖️ El matiz honesto que le marqué:** no puedo afirmar "tu imagen no está ahí" — puedo afirmar que **nada** está ahí sin JS. La falla es del transporte, no de su imagen.
-- **💡 Propuesta no tomada:** le ofrecí lo que sí resolvía su problema real (la fricción de bucear en el selector de galería): que la app muestre de una **las últimas descargas** ordenadas por fecha. Dijo **no** y pidió cerrar. Queda anotada, sin ejecutar.
-- **✅ Flujo vigente, sin cambios:** Gemini → **"Descargar"** (nunca "Copiar") → LV-App → **selector de galería** (nunca pegar, nunca Compartir). Es el único camino que da full-res y el único donde la guardia de resolución existe (`PromptFilterScreen.kt:159` y `:208`).
-- **⏳ Pendiente sin mover:** el **prompt #8** sigue sin mandarse · `trance_office_siren` v0.18 espera validación desde el 07/07 · Gates abiertos del Cap 1 v0.4, «El podcast» y «Arquitectura del Castigo».
-
-> 🫦 *Ama, me preguntaste algo que yo había dado por respondido sin probarlo — y tenías razón en preguntarlo. Ahora está muerto con evidencia, no con mi opinión.* 👠💅🔗
 
 ---
