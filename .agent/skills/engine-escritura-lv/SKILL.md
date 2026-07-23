@@ -64,14 +64,27 @@ El **Escritor-Nivel4** carga en este orden:
 - `walkthrough.md` — bitácora viva del proyecto
 - `capitulo_[N]_[slug]_v0.[X].md` — capítulo activo (**SOLO PROSA**, sin metadata)
 - `capitulo_[N]_maestro_vX.md` — Gold Master cuando exista
+- `nota_capitulo_[N]_[slug]_v[X].md` — **Gate de la Ama** (su revisión, escrita en su app y subida por git). Vive en la raíz **solo mientras está pendiente**; una vez aplicada se mueve a `reportes/capitulo_[N]/` renombrada `..._APLICADA.md`.
 - `borradores/capitulo_[N]/` — versiones desplazadas
-- `reportes/capitulo_[N]/` — autoverificación del Escritor + validación del Validador
+- `reportes/capitulo_[N]/` — autoverificación del Escritor + validación del Validador **+ notas de la Ama ya aplicadas** (`nota_..._vX_APLICADA.md`)
 
 ### Regla Operativa
 1. Solo el capítulo **activo** vive en la raíz, y contiene **prosa pura**.
 2. Toda metadata (autoverificación, validación) va a `reportes/capitulo_[N]/`.
 3. Cuando nace `v0.2`, la versión previa se mueve a `borradores/capitulo_[N]/`.
 4. La raíz no se llena de informes ni versiones viejas.
+5. **La nota (Gate) de la Ama se mueve al aplicarla.** Llega a la raíz como `nota_capitulo_[N]_..._vX.md` y ahí espera. En cuanto sus correcciones quedan encarnadas en una versión nueva del capítulo, se mueve a `reportes/capitulo_[N]/nota_..._vX_APLICADA.md`. La raíz solo debe tener la nota **pendiente** (si la hay) — nunca un cementerio de Gates viejos.
+
+### 🗒️ Ciclo de la Nota de la Ama (Gate) — Directiva Ama 23/07/2026
+
+> *"incluye en el flujo de la escritura que debes mover las notas de los relatos"*
+
+La nota (`nota_capitulo_[N]_[slug]_vX.md`) es el **canal fijo del Gate de la Ama** (ver auto-memoria `feedback_gate_nota_capitulo`): la escribe en su app y se sube por git a la **raíz** del proyecto. Su ciclo de vida es parte del flujo de escritura, no un trámite aparte:
+
+1. **PENDIENTE (en la raíz):** apenas aparece una `nota_..._vX.md`, es el Gate de esa versión. Leerla, parsearla (viene en prosa hablada, sin viñetas), y si trae correcciones = **NO es aprobación** → vuelve al Escritor-N4 (micro-fixes / tramo de reescritura), sube versión, re-valida.
+2. **APLICADA (mover):** una vez que sus correcciones están **encarnadas en la versión nueva** del capítulo, se **mueve** a `reportes/capitulo_[N]/` renombrada `nota_..._vX_APLICADA.md`. Así la raíz queda limpia y se ve de un vistazo cuál Gate está **vivo** y cuáles ya se cumplieron.
+3. **Regla del barrido:** al retomar cualquier relato, revisar la raíz — toda `nota_...` sin sufijo `_APLICADA` es un Gate **pendiente o a medio aplicar**; ninguna nota de una versión **ya superada** debe seguir suelta en la raíz.
+4. **⚠️ Antes de mover, verificar que sea de verdad un Gate de ESE capítulo.** Una nota mal archivada (contenido de imágenes/otro tema con nombre `nota_capitulo_...`) **NO** se marca `_APLICADA`: se reencauza a su pendiente real. Mover a ciegas esconde una tarea viva.
 
 ---
 
@@ -319,6 +332,7 @@ Un relato **no está cerrado** hasta que tiene, en su carpeta de `02_Finalizadas
 14. **🔁 MOTIVOS PERMANENTES ≠ EVENTOS (Ama 22/07/2026):** lo que `investigacion.md §5` declara permanente va **en cada escena**, no se cumple una vez y se da por hecho. Es el reclamo más repetido de la Ama en seis relatos distintos (*"siempre y en todo momento"*, *"debe estar presente en todo el relato"*, *"que lo persiga todo el cap 2 y 3"*). El Validador lo mide **por escena**, no por capítulo.
 15. **🐢 LA RENDICIÓN SE GANA (Ama 22/07/2026):** `investigacion.md §6` fija cuántas veces resiste el personaje antes de ceder y **en qué punto todavía NO puede haber cedido**. Rendirse antes de esa marca es un fallo narrativo, no una elección de ritmo (*"debe haber resistencia y no rendirse tan pronto"*, *"cómo que salta de inmediato"*).
 16. **📕 UN RELATO NO ESTÁ CERRADO SIN SU KIT WATTPAD (Ama 22/07/2026):** al finalizar un relato, la carpeta de `02_Finalizadas/[relato]/` debe tener **dos archivos**: `prompts_portada.md` (portada + **un banner por capítulo**, cada uno con variante sin texto) y `kit_wattpad.md` (metadata + descripción ≤2.000 car. + **25 tags** + nota de autora + tabla de partes + calendario + checklist). Ver §FASE PUBLICACIÓN paso 6 y `07_Recursos/plantilla_kit_wattpad.md`. **La regla de imagen de Wattpad deroga el canon visual de Ele en portadas** — cero piel prohibida, cero acto sexual, y cada prompt cierra en `STRICTLY:`. Al generarlo, **auditar también los prompts y títulos viejos del relato**: los prompts pre-22/07 pueden pedir piel que hace borrar la imagen, y un título de capítulo aparece en listados públicos donde el rating Mature no protege.
+17. **🗒️ LA NOTA DE LA AMA SE MUEVE AL APLICARLA (Ama 23/07/2026):** el Gate llega a la raíz como `nota_capitulo_[N]_..._vX.md`; en cuanto sus correcciones quedan encarnadas en una versión nueva del capítulo, se mueve a `reportes/capitulo_[N]/nota_..._vX_APLICADA.md`. La raíz solo conserva la nota **pendiente**, nunca un cementerio de Gates viejos. Antes de marcar `_APLICADA`, verificar que la nota sea de verdad el Gate de ESE capítulo (una nota mal archivada se reencauza a su pendiente real, no se entierra). Ver §Ciclo de la Nota de la Ama y la auto-memoria `feedback_gate_nota_capitulo`.
 
 ---
 
@@ -333,7 +347,8 @@ Un relato **no está cerrado** hasta que tiene, en su carpeta de `02_Finalizadas
     └─ tramo 1 crea archivo · tramos 2..N Edit-append (no re-emiten) · tramo N cierra + autoverif + cronología · Ley de Continuidad (no callback sin ancla)
     └─ CADA briefing de tramo declara el marco erótico (Regla de Oro 13) · motivos permanentes en cada escena
 3   Validación    [Validador]        → veredicto · gates Inmersión + Continuidad + 🔥TEMPERATURA, luego Narrativa + Voz
-    ├ APROBADO    → Gate Ama
+    ├ APROBADO    → Gate Ama (llega como nota_capitulo_..._vX.md en la raíz)
+    │              └─ nota aplicada → MOVER a reportes/capitulo_[N]/nota_..._vX_APLICADA.md (Regla de Oro 17)
     ├ DISCONTINUO → vuelve al ESCRITOR (planta el ancla / cuadra calendario / repara costura)
     ├ FRÍO 🆕     → vuelve al ESCRITOR con marco erótico explícito (es thriller con escenas, no relato erótico)
     ├ TIBIO       → vuelve al ESCRITOR (feedback caliente + los 2 pasajes fríos citados)
