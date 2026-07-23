@@ -107,6 +107,13 @@ META_SHOT_LANGUAGE = ["across all poses", "in every shot", "between shots", "in 
 # los dos declaraba largo de manga, y el chequeo no lo reclamo porque "jacket"/"blouse" no estaban
 # aca. Medido tras la ampliacion: 305 looks de la galeria viva + 64 del archivo quedan sin manga
 # declarada — deuda real que este chequeo ahora si reporta.
+# RE-MEDIDO 23/07/2026 (el "305+64" quedo FOSILIZADO — es del 20/07, ANTES del barrido del 22/07 que
+# inyecto CONSISTENCY_LOCK al grueso de la galeria). Estado real hoy: 70 looks viva + 6 archivo (76,
+# no 369), y de la viva 68 YA estan 7/7 materializados (arreglar el prompt no cambia una imagen que
+# ya existe). Accionables con poses pendientes: L260 (blusa Office Siren -> long fitted sleeves) y
+# L268 (cover-up crochet -> sleeveless), ambos ya inyectados; los demas eran falsos positivos de
+# prenda-sin-manga (ver SLEEVELESS_BY_NATURE) o cascarones sin prompt (L148/L150). Leccion repetida:
+# un conteo de "deuda" sin fecha de re-medicion envejece hacia la mentira (misma que el Pendiente #1).
 DRIFTY_GARMENTS = ["dress", "gown", "cheongsam", "qipao", "slip", "minidress", "mini-dress",
                    "column", "wiggle", "cocktail", "chemise", "robe", "kimono", "catsuit", "bodysuit",
                    # dos piezas y torso (ampliacion 20/07/2026):
@@ -122,6 +129,21 @@ SLEEVE_TOKENS = ["sleeve", "sleeveless", "long sleeves", "short sleeves", "cap s
 # Tokens que demuestran que el RUEDO/LARGO esta fijado:
 HEM_TOKENS = ["hem", "-length", " length", "floor-length", "floor length", "knee-length", "mini",
               "midi", "maxi", "mid-thigh", "ankle-length", "to the knee", "to the floor", "micro"]
+
+# Prendas SIN MANGA POR NATURALEZA (bikini, sujetador, top de gimnasio): exigirles "manga
+# declarada" es un FALSO POSITIVO — un top triangular de bikini, un sports-bra o un push-up bra
+# no tienen manga que driftear entre poses, y Gemini no le inventa una a un triangulo de bikini.
+# AMPLIACION 23/07/2026 (Ama, pendiente "manga sin declarar"): al medir el estado real (76 looks,
+# no los 305+64 fosilizados del 20/07 — el barrido del 22/07 ya inyecto CONSISTENCY_LOCK al grueso)
+# los unicos accionables con poses pendientes eran L124 (sports-bra), L125 (bikini triangle) y L127
+# (push-up bra): NINGUNO tiene manga. El defecto era del linter, que matcheaba "top"/"bra" y pedia
+# una manga inexistente. La exencion SOLO aplica si no hay una capa EXTERIOR con manga encima
+# (una chaqueta/blusa/cover-up sobre el bikini SI debe declarar su manga).
+SLEEVELESS_BY_NATURE = ["bikini", "micro-bikini", "microbikini", "micro bikini", "triangle top",
+                        "triangular top", "sports bra", "sports-bra", "sports top", "push-up bra",
+                        "pushup bra", "push up bra", "bralette", "bandeau top", "string top"]
+OUTER_LAYERS = ["jacket", "blazer", "coat", "cardigan", "blouse", "shirt", "sweater", "turtleneck",
+                "cover-up", "coverup", "kimono", "robe", "bolero", "shrug", "kaftan"]
 
 
 def _has_any(text, needles):
@@ -208,9 +230,12 @@ def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a=""):
     #    trae CONSISTENCY_LOCK -> Gemini reinventa el corte por pose (bug L746 escote, L707 mangas).
     drifty = _has_any_word(og, DRIFTY_GARMENTS)
     if drifty and not _has_any(og, CONSISTENCY_MARKERS):
+        # Prenda sin manga por naturaleza (bikini/sports-bra/push-up) y SIN capa exterior con
+        # manga encima -> no se exige "manga declarada" (falso positivo, Ama 23/07/2026).
+        sleeveless_ctx = bool(_has_any(og, SLEEVELESS_BY_NATURE)) and not _has_any_word(og, OUTER_LAYERS)
         missing = []
         if not _has_any(og, NECKLINE_TOKENS): missing.append("escote/neckline")
-        if not _has_any(og, SLEEVE_TOKENS):   missing.append("manga/sleeve")
+        if not sleeveless_ctx and not _has_any(og, SLEEVE_TOKENS): missing.append("manga/sleeve")
         if not _has_any(og, HEM_TOKENS):      missing.append("largo/hem")
         if missing:
             out.append(f"{pre}PRENDA CON DRIFT ({', '.join(sorted(set(drifty)))}) sin fijar "
@@ -325,6 +350,10 @@ if __name__ == "__main__":
                      "fitted sleeves, full-length legs, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
              seam=False,
              negative="red lips, oxblood, nipple piercings visible through clothing, split image"),
+        dict(tag="L268-coverup", category="Bikini",  # 23/07: bikini + blusa cover-up ENCIMA -> SI exige manga
+             outfit="aqua triangle bikini top, high-cut bottoms, with a sheer white chiffon blouse cover-up, "
+                     "scoop neckline, micro hem",
+             seam=False, negative=build_negative(lingerie=True)),  # tiene capa exterior -> guarda NO exime
     ]
     # Casos que DEBEN pasar limpios (ya con los locks + negative + bloque_a al dia):
     def _neg(**kw):
@@ -360,6 +389,10 @@ if __name__ == "__main__":
                      "python-print back-seamed stockings, " + animal_print_lock("python") + ", "
                      + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
              seam=True, negative=_neg(seam=True, covered=True, stockings=True, animal_print=True)),
+        dict(tag="L124-sleeveless", category="Gym Performance",  # 23/07: sports-bra sin manga POR NATURALEZA
+             outfit="neon pink latex sports bra with a halter neckline, high-waisted micro leggings with "
+                     "neon side stripes, " + GLOSS_LOCK,  # neckline+hem fijos, manga inexistente -> NO debe flaggear
+             seam=False, negative=_neg(gloss_risk=True)),
     ]
     print("=== DEBEN saltar (bad) ===")
     pb = audit_garment_batch(bad)
