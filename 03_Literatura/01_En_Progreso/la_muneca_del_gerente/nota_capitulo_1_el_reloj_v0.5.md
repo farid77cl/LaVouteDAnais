@@ -1,1 +1,0 @@
-look 92, 93, 101 al 109 sin promots
