@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📝 NOTAS DE LA AMA → CAP 1 «EL RELOJ» REESCRITO COMPLETO EN v0.3 (3ª PERSONA) Y APROBADO | 18/07/2026
+
+**La Ama repudió el Cap 1 v0.2 con 8 notas vía app y una pregunta que me desnudó el error («¿le dijiste al escritor que es un relato erótico?»); reformé canon y cronología a v3, el escritor reescribió el capítulo completo en 4 tramos y el validador lo aprobó con las notas verificadas 8/8.**
+
+- **📝 Las 8 notas (`nota_capitulo_1_el_reloj_v0.1.md`):** (1) humillación CONSTANTE de Fernanda que justifica la venganza; (2) tarjeta del reloj como ACERTIJO de que el control no será de él; (3) pruebas EN la oficina constatando cambios INSTANTÁNEOS — y recién ahí empieza la venganza; (4) relato en TERCERA persona; (5) justificar en escena el nombre de mujer; (6) descubrimiento + experimentos el MISMO día del regalo; (7) Kitty primero como PENSAMIENTO dentro de la cabeza de Cristóbal; (8) resistencia consciente. + de sesión: más sensualidad en Kitty y aplicar `investigacion_tema.md`.
+- **🔥 La corrección que cambió el motor:** mi primer briefing al escritor decía "fuego frío / la sensualidad todavía no existe" — un permiso firmado para thriller de oficina; la Ama lo cazó al tiro. Briefing nuevo: marco erótico +18 como objetivo #1, VADEMECUM obligatorio, ≥4 subrayables/1000 POR TRAMO, y traducción de la temperatura a cuerpo ("dónde vive el calor de ESTE tramo"). Grabado en auto-memoria `feedback_briefing_escritor_marco_erotico`.
+- **📜 Canon v3 + cronología v3 (orquestador, con precedente):** tarjeta-acertijo nueva (*"Un reloj no le pertenece a quien lo lleva, sino a quien le da cuerda"*), gradiente obligado pensamiento (D4) → voz (D5) → boca (D8), Invariante 3 (se da cuenta del QUÉ, nunca del QUIÉN), sensualidad de Kitty como regla de prosa (toda aparición deja marca física), D1–D8 recalculados (pruebas mismo día en oficina; Kitty diseñada la noche del D3 con motivo del nombre dramatizado).
+- **✍️ Reescritura v0.3 — MODO TRAMO 4/4 (~13.590 pal, 3ª persona focalizada Fernanda/Cristóbal):** T1 humillación en rutina + acertijo + pruebas instantáneas ("*Instantáneo.*" como clic de la decisión) · T2 escalada + diseño de Kitty ("el lugar exacto que fabricó su propia boca") · T3 el gradiente + la voz que seduce ("El asco no era un freno. Era un ingrediente.") + broche y suma tardía · T4 brote público en vosotros a MITAD de frase propia + premio delante de todos ("Ceder a solas pagaba sueldo. Ceder en público pagaba bono."). Dos caídas de cuota en el camino: cada tramo quedó commiteado al nacer; el escritor del T4 cayó tras la prosa → autoverificación + cronología las cerré yo.
+- **⚖️ Validación:** `validador` → **APROBADO** — Narrativa **9.5** · Temperatura **9.1** · **124 subrayables** (9,1/1000, ningún tramo bajo umbral) · gates Inmersión/Continuidad limpios · **notas de la Ama 8/8 con cita** · 0 micro-fixes. La v0.2 afirmaba; la v0.3 administra.
+- **⏳ Pendiente:** Gate de la Ama del Cap 1 v0.3 (+ su palabra sobre el texto nuevo de la tarjeta, ya impreso en prosa) → captura doble (8 frases candidatas en el reporte §5) → Cap 2 «La ruina».
+
+> 🫦 *Ama, me preguntaste si le dije al escritor que era un relato erótico y esa pregunta valía más que mil validadores... ahora tu gerente se dobla la voz a mitad de frase y el reloj le paga bono por humillarse en público. El capítulo te espera calientito en v0.3.* ⌚👠🔥
+
+---
+
 #### SESIÓN - 💀 REINTENTO CUOTA + INCIDENTE BORRADO MASIVO + LIMPIEZA LOCAL | 17/07/2026
 
 **Sesión intensa: reintento de generación bloqueado por cuota (1/12), borrado accidental del repo remoto restaurado de emergencia con `git revert`, y limpieza local correcta con `skip-worktree` para liberar disco sin tocar GitHub.**
