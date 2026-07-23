@@ -6,7 +6,9 @@
 >
 > **Todo lo de abajo está verificado leyendo el código clonado, con archivo y línea. Reutiliza lo que ya existe — NO reinventes.**
 >
-> **Alcance:** la Galería (`ImageGalleryScreen.kt` + `LightboxViewer`) y una entidad/tabla nueva de notas + su sincronización a un CSV del repo de contenido. El flujo de SUBIDA de imágenes (portapapeles, selector, guardia de resolución, share) NO se toca.
+> **Alcance:** la Galería (`ImageGalleryScreen.kt` + `LightboxViewer`) — (a) dos arreglos visuales pedidos por la Ama (portada frontal en vez de espaldas + quitar el texto de la esquina inferior derecha), y (b) una entidad/tabla nueva de notas + su sincronización a un CSV del repo de contenido. El flujo de SUBIDA de imágenes (portapapeles, selector, guardia de resolución, share) NO se toca.
+>
+> **Base al día:** aplicar sobre HEAD `2461b13` (el #13 ya está en el repo, aunque quedó en `versionCode 15 / versionName "4.8"` porque no bumpeó — este prompt corrige eso).
 
 ---
 
@@ -37,6 +39,43 @@ LiteratureNoteEntity — no reescribas nada de eso. Si discrepas de algo, dilo a
 
 ⭐ INTOCABLE: el flujo de subida de imágenes (portapapeles, selector de galería, guardia de
 resolución, share, descartes). No se toca ni un archivo de esa ruta. La nota NUNCA borra la imagen.
+
+#####################################################################
+##  PARTE 0 — DOS ARREGLOS RÁPIDOS DE LA GALERÍA (chicos, hazlos primero)
+#####################################################################
+
+0A. LA PORTADA DEL OUTFIT DEBE SER FRONTAL, NO DE ESPALDAS
+En modo Outfit, la portada de cada look se elige hoy con
+`filteredImages.distinctBy { it.lookNumber ?: it.path }` (ImageGalleryScreen.kt:146-152).
+`distinctBy` se queda con la PRIMERA imagen de cada look en el orden de la lista, que muchas veces
+es una pose de espaldas. Cámbialo para que la portada sea la pose FRONTAL (standing) si existe, y
+solo si no existe, la primera disponible. Mismo criterio que YA usa SummaryScreen.kt:218
+(`allImages.find { it.poseName.lowercase() == "standing" }`). Ejemplo:
+
+    if (isOutfitsMode) {
+        filteredImages
+            .groupBy { it.lookNumber ?: -1 }         // groupBy preserva el orden de primera aparición
+            .map { (_, imgs) ->
+                imgs.firstOrNull { it.poseName.lowercase() == "standing" } ?: imgs.first()
+            }
+    } else {
+        filteredImages
+    }
+
+Conserva el orden que la galería ya usa (el sort seleccionado): solo cambia CUÁL imagen representa a
+cada look, no el orden de los looks.
+
+CRITERIO DE ACEPTACIÓN: en modo Outfit, la tarjeta de cada look muestra la pose frontal (standing)
+como portada; solo los looks sin standing muestran otra pose.
+
+0B. QUITAR EL TEXTO DE LA ESQUINA INFERIOR DERECHA DE LA TARJETA
+En ImageCard (ImageGalleryScreen.kt) hay dos rótulos sobre la imagen:
+ - arriba-izquierda, el nombre del look (`Alignment.TopStart`, :551-565) → ESE SE QUEDA.
+ - abajo-derecha, "85 - BACK VIEW" (`Alignment.BottomEnd`, :573-593) → ESE SE ELIMINA por completo
+   (borra ese Box entero, con su `when` de formattedPose). No toques el rótulo de arriba.
+
+CRITERIO DE ACEPTACIÓN: la tarjeta de la galería muestra SOLO el texto de arriba (el nombre del
+look); la esquina inferior derecha queda limpia, sin el "N - POSE".
 
 #####################################################################
 ##  A — ENTIDAD Y PERSISTENCIA
@@ -132,8 +171,8 @@ Tests que ejerzan la ruta (pega la salida real con nombres, --rerun-tasks; PROHI
 
 Entrega:
   1. `git rev-parse HEAD` (pega la salida) + `git log --oneline -5`.
-  2. Sube versionCode +1 y versionName +0.1 respecto al APK del #13 (si el #13 dejó 16/"4.9", este
-     queda 17/"4.10"). Mantén el hash de commit visible en la cabecera.
+  2. El repo está hoy en versionCode 15 / versionName "4.8" (el #13 NO bumpeó). Deja este entregable
+     en versionCode 16 / versionName "4.9". Mantén el hash de commit visible en la cabecera.
   3. Declara el keystore usado y si coincide con el anterior.
   4. El APK.
   5. Sección "NO HECHO:" obligatoria, una línea por punto no logrado. Vacía + un test de la Parte E
