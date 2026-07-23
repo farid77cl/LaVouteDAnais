@@ -6,6 +6,23 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔬 MONITOREO L300-L400: EL DEFECTO SIGUE VIVO Y LA CULPA ERA DEL CLASIFICADOR | 19/07/2026
+
+**La Ama ordenó actualizar repo e imágenes y asumir mi responsabilidad. Audité las 34 imágenes nuevas del L301-L309 — las primeras generadas con prompts v3 — y el veredicto es incómodo: el motor v3 no mató el defecto de marcas sobre la tela, porque el bug no estaba en el prompt sino en quien decide qué zona está desnuda.**
+
+- **🔴 Las 34 imágenes nuevas son MINIATURAS 286×512. Cero full-res.** El flujo "Descargar"+galería no se usó en este batch y la guardia del APK no bloqueó nada. Cuatro descartes de la Ama hoy (L303 Seated y L305 Back View anatomía · **L307 Back View marcas sobre la tela** · L309 Ditzy outfit mutado).
+- **🩹 Bug 1 — el TÍTULO decidía la cobertura del cuerpo:** el L307 se llama «Sports Bikini Crossfit» pero la prenda es un short de talle alto. La palabra `bikini` del título disparó `pelvis_bare`, el prompt NOMBRÓ las runas del hip crease sobre una zona tapada, y Gemini las pintó **sobre el short** (`ele_307_pov.png`). Mismo género que el bug del L352: la palabra vivía en el título, no en la prenda. → `solo_prenda()` recorta el preámbulo.
+- **🩹 Bug 2 (el gordo) — el motor se leía A SÍ MISMO:** un prompt ya v3 lleva los locks pegados detrás del outfit, así que al re-clasificarlo la frase *"never split into a two-piece or cropped version"* del CONSISTENCY_LOCK disparaba `navel_bare` en **203 looks con el vientre tapado**, vestidos hasta el suelo incluidos. Bucle de retroalimentación: cada pasada de `--todas` corrompía lo que la anterior había calculado bien. → `LOCK_MARKERS`.
+- **🩹 Bug 3 — botas OTK y medias no tapaban:** la lista pedía la frase exacta `thigh-high boot` y no cazaba «OTK thigh-high stiletto boots» (L356) ni las medias violeta del L795: ambos se ganaban tatuajes en el muslo.
+- **✅ Resultado: 122 looks corregidos, 126 marcas retiradas, 0 agregadas.** Todas en la dirección que manda el canon. Varias coinciden con descartes suyos: L791 aro sobre látex, L796/L800 ombligo visible.
+- **📸 Tracker por git (46 poses recuperadas):** `sync_imagenes_subidas.py` leía el DISCO — en esta máquina sparse habría reescrito los trackers a la baja (la mentira del 14/07 al revés, con el mismo costo de cuota). Ahora lee `git ls-files`. Además no reconocía el nombre de slug largo: **L293/L294/L297/L299 llevaban meses declarados 2/7 estando completos.** L301/302/303/305/306/307 a 7/7.
+- **⚠️ Mi error de la sesión, confesado:** agregué al clasificador dos disparadores que "sonaban correctos" (`exposed midriff`, `sports bra`) y medí mal su impacto — movían **1.627 poses** en la dirección PELIGROSA (agregar marcas, que es la que ordena pintar sobre la tela). Los detecté antes de aplicar y los retiré. Casi repito el pecado de la sesión pasada: cambio masivo sin una sola imagen que lo justifique.
+- **⏳ Pendiente:** confirmar versión del APK (miniaturas al 100%) · regenerar con los prompts corregidos las poses del L307 y del batch L791-L800 · L309 sigue 5/7 · poses duplicadas en L301/L303 (`side_profile` viejo + nuevo conviviendo).
+
+> 🫦 *Ama, me pediste que asumiera mi responsabilidad y la asumo entera: el defecto que juré haber matado ayer seguía vivo, y no porque el generador desobedeciera sino porque mi propio clasificador leía el título del look y sus propios candados como si fueran ropa. Ya no.* 👠💅🔬
+
+---
+
 #### SESIÓN - 🔧 FLOTA L300-L800 A v3 + L300-L400 AUDITADO PERFECTO + T1 DEL CAP 1 REESCRITO | 19/07/2026
 
 **La Ama pidió refrescar los prompts fosilizados y, al comprobar que sus regeneraciones seguían saliendo con los mismos errores, ordenó reescribirlos TODOS: los 3.507 prompts del L300-L800 quedaron en v3 exacto, el L300-L400 pasó auditoría de 707/707 sin hallazgos, y el T1 del Cap 1 se reescribió tras su repudio.**
