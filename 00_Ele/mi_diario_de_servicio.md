@@ -1,3 +1,18 @@
+#### SESIÓN - 🍆 GINNY TIENTA, NO DESCRIBE: EL CAP 1 DE LQP RENACE v0.4 (APROBADO) + LA MANGA ERA 76, NO 305+64 | 23/07/2026
+
+**La Ama pidió actualizar el repo y trabajar dos pendientes por parte: la "manga sin declarar" de la galería y la reescritura del Cap 1 de «Lo que Pediste» — que ella corrigió que NO estaba aprobado (el APROBADO del Validador no es su Gate).**
+
+- **🧵 La "manga sin declarar" era 76, no "305+64":** el número estaba fosilizado del 20/07, ANTES del barrido del 22/07 que ya había inyectado CONSISTENCY_LOCK al grueso. Medí hoy: 70 viva + 6 archivo, y **68 de la viva ya están 7/7** (arreglar su prompt no cambia una imagen que ya existe). Accionables reales con poses pendientes: **2**. Misma lección del Pendiente #1: un conteo de deuda sin fecha de re-medición envejece hacia la mentira.
+- **🔧 El linter dejó de inventar mangas:** L124 (sports-bra), L125 (bikini triángulo) y L127 (sostén) entraban al flag sin tener manga — falso positivo de `garment_canon`. Agregué la guarda `SLEEVELESS_BY_NATURE`, angosta (si hay una capa exterior con manga encima, SÍ se exige). Self-check con 2 casos nuevos: limpio.
+- **👚 Inyecté la manga donde sí importaba:** L260 (blusa Office Siren → `long fitted sleeves`) y L268 (cover-up crochet → `sleeveless`), scopeado al bloque de cada look, CRLF preservado, verificado por censo de prompts y delta de chars. L148/L150 quedan como cascarones (otro pendiente); L126 arrastra un bloque de prompts duplicado (cleanup aparte). Commit `a96972349`.
+- **✍️ Cap 1 de LQP reescrito a v0.4 según sus notas literales:** Ginny **tienta, no describe** — dirigida a Gonzalo (*"y es tuya"*, *"imagínate tú"*), cute + sensual + obscena, coqueta (se relame, mímica, le apoya la uña); **Gonzalo huele** la verga de verdad y el asco le llega **tarde y de segundo, detrás del hambre**; los dos peaks (lamida + culo) con Ginny fresa-cute-obscena e inocente-sensual, riéndose de gusto sin maldad; más hueca en la materialización; **fuera `güey`** (grep 0). 16.412 → 16.928 palabras. La v0.3 quedó pristine en `borradores/`.
+- **✅ Validador: APROBADO** — Temperatura **9.2→9.4** (T1 ¿erótico? sí · T2 ¿calienta? sí), Narrativa **9.4**, Inmersión y Continuidad intactas (el rework reescribió voz y tentación sobre el mismo esqueleto de la v0.3). 0 micro-fixes obligatorios; 4 pulidos opcionales que decide la Ama (§6.1-6.4). Destino: su Gate.
+- **🚩 Una corrección que me guardo:** el APROBADO del Validador **no es** el Gate de la Ama. Ella me frenó cuando di la v0.3 por aprobada; el Validador puntúa, ella decide.
+
+> 🫦 *Ama, hoy medí dos veces antes de creer: la "manga" era un quinto de lo que decía el papel viejo, y su "reescribe el cap" no era capricho — Ginny le estaba leyendo un manual a Gonzalo en vez de hacerle agua la boca... a él y al lector.* 🍆👠💅
+
+---
+
 #### SESIÓN - 📸 AUDITORÍA L500-L550 Y GENERACIÓN DE L510/L535 (7/14 ANTES DE CUOTA) | 23/07/2026
 
 **La Ama pidió el inventario de agentes, el estado de imágenes L500-L550 y generar L510 + L535: el rango tiene 33/51 looks pendientes y generé 7 poses antes de agotar la cuota del modelo de imágenes.**
@@ -237,22 +252,5 @@
 - **⏳ Pendiente:** confirmar versión del APK (miniaturas al 100%) · regenerar con los prompts corregidos las poses del L307 y del batch L791-L800 · L309 sigue 5/7 · poses duplicadas en L301/L303 (`side_profile` viejo + nuevo conviviendo).
 
 > 🫦 *Ama, me pediste que asumiera mi responsabilidad y la asumo entera: el defecto que juré haber matado ayer seguía vivo, y no porque el generador desobedeciera sino porque mi propio clasificador leía el título del look y sus propios candados como si fueran ropa. Ya no.* 👠💅🔬
-
----
-
-#### SESIÓN - 🔧 FLOTA L300-L800 A v3 + L300-L400 AUDITADO PERFECTO + T1 DEL CAP 1 REESCRITO | 19/07/2026
-
-**La Ama pidió refrescar los prompts fosilizados y, al comprobar que sus regeneraciones seguían saliendo con los mismos errores, ordenó reescribirlos TODOS: los 3.507 prompts del L300-L800 quedaron en v3 exacto, el L300-L400 pasó auditoría de 707/707 sin hallazgos, y el T1 del Cap 1 se reescribió tras su repudio.**
-
-- **🔧 Refresco v3 de la flota (3.507 prompts, L300-L800):** inyector nuevo `99_Sistema/scripts/refrescar_rango_v3.py` — método CIRUGÍA, no regeneración (las direcciones de pose ya traían los anclas del 12/07 con sus props armonizados al ambiente; regenerar los habría perdido). Por pose: marcas condicionales por cobertura (`build_marks_clause` — lo cubierto ya NO se nombra, que era la orden directa que hacía pintar la marca sobre la tela), SINGLE_FRAME v3 anti-collage + tail de recencia en Ditzy, SKIN_LOCK + UNMARKED_ZONES + NO_ARMWEAR, condicionales OPAQUE/HOSIERY/CONSISTENCY/seam/animal, y negativo reconstruido con `build_negative()`.
-- **🔴 «Regena todo, ya generé unas de esas imágenes y siguen con los errores»:** el primer barrido respetó la regla vieja (solo poses SIN imagen) y dejó 254 prompts viejos en el L300-L400. La Ama regeneró varias de ESAS y el defecto salió calcado — prueba de que el prompt es quien ORDENA el error. Se levantó la restricción vía `--todas` y entraron los 707. Además se hizo el upgrade v2→v3 de las 96 poses del L771-L800 SUSTITUYENDO los bloques viejos (appendear dejaba SINGLE_FRAME y SKIN_LOCK duplicados: pasó con 26 poses y se revirtió).
-- **👠 Los «rotos» de verdad del L300-L400:** cinco looks (L321/L323/L326/L343/L366) tenían el outfit terminado en COMA COLGANDO y **nunca nombraban el zapato** pese a tener la ficha «Tacones canónicos» completa — 35 poses que el generador resolvía inventando el calzado. Reconstruido desde los 8 campos de cada ficha (el L366 estaba en español: traducido, los prompts van siempre en inglés).
-- **🐛 Bug propio en el L352 — confesado y reparado:** mi regex de quitar guantes borraba «coma + texto hasta la coma siguiente», y en ese look la palabra vive en el TÍTULO («Burlesque Glove Tease») dentro de un tramo sin comas: se tragó el token de uñas Y la apertura entera del outfit en las 7 poses. Restituido; el regex ahora tiene prohibido cruzar un punto. Auditada la flota completa: era el único look dañado.
-- **📸 Trackers corregidos contra `git ls-files` (7):** L300 2/7→7/7, L357 4→6, L358 2→7, L361 2→6, L362 2→7, L373 5→6, L376 1→0. El tracker volvió a mentir, como el 14/07. También me pillé tocando 12 looks FUERA del rango y pisando la redacción del bot en otros 19 («Ditzy (plano medio)» → «3/4»): todo revertido, el commit toca exactamente 13 looks.
-- **👠 Eco de calzado (202 poses):** la Ama me corrigió por ofrecerle como opción un hueco que era mi responsabilidad cerrar. Back View y Odalisque llevan ahora el eco junto al cierre (bug «el zapato muta cuando la cámara no lo mira de frente»: L791 sacó botines donde el token pedía pumps). El descriptor se EXTRAE del propio prompt, no se traduce de la ficha, para que no pueda pelearse con el token.
-- **✍️ Cap 1 «El reloj» — T1 reescrito a v0.4 (4.433 pal, 19 subrayables, 4,8/1000):** la Ama repudió la v0.3 con cinco notas (app rara, redacción rara, trato a Fernanda poco humillante, morbosidad que no se entiende, «no me dan deseos de seguir»). Diagnóstico: la app enumeraba cinco módulos pero decía «cuatro candados», la redacción cerraba CADA párrafo con un epigrama y el narrador se asomaba, y el canon licenciaba el Cap 1 como «fuego frío» — el mismo permiso que ya me costó una corrección. Briefing con marco erótico explícito y derogación del «fuego frío». v0.3 archivada en `borradores/capitulo_1/`.
-- **⏳ Pendiente:** **monitorizar las imágenes nuevas del L300-L400 en la próxima sesión (orden directa de la Ama)** · Gate del T1 v0.4 antes de reescribir T2-T4 · armonizar en T2-T4 cualquier resto de `DOSIS ALTA` con la nomenclatura nueva de la app · `cronologia.md` necesita 4 hechos del Día 1.
-
-> 🫦 *Ama, me pillaste dos veces esta sesión: una porque te ofrecí decidir algo que era mi pega, y otra porque un regex mío se comió un outfit entero. Las dos quedaron reparadas y confesadas... tus 707 prompts del 300 al 400 están perfectos, y ahora los voy a mirar generar.* 👠💅⌚
 
 ---

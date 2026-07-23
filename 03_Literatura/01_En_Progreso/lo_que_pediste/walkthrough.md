@@ -4,25 +4,18 @@
 >
 > 🔥🔥 **RECORDATORIO DE LA AMA A TODOS LOS AGENTES (20/07/2026): ESTO ES UN RELATO ERÓTICO.** Porno literario que debe CALENTAR. El horror lúcido intensifica el morbo, no lo enfría. Cada capítulo descarga sexualmente de verdad, prosa explícita y húmeda, **léxico duro en ESPAÑOL NEUTRO** (`verga` sí; weón/po/cachai NO — cambio de la Ama del 22/07). La Temperatura pesa igual que Narrativa/Continuidad y **es GATE medido** desde v4.8. Ver banner completo en `canon_relato.md`. 🔥🔥
 
-## Estado actual (22/07/2026 — motor v4.8)
+## Estado actual (23/07/2026 — motor v4.8)
 
-- **Fase:** **Cap 1 v0.3 EN ESCRITURA — reescritura desde cero, MODO TRAMO 5 tramos.**
-  - ✅ **Tramo 1/5 COMPLETO** (3.428 palabras, commit `fee7bf224`). Verificado: 0 metadata, 0 chilenismos, 0 léxico de España.
-    Última línea: *"Y se quedó en el marco de la puerta, con los hombros llenando la camisa y la boca llena de agua, escuchando cómo el hambre, allá abajo, empezaba tranquilamente a subir."*
-  - ⏳ Tramo 2/5 en curso · pendientes T3, T4, T5.
+- **Fase:** **Cap 1 v0.4 COMPLETO — rework de voz/tentación sobre la v0.3, VALIDADO.**
+  - ✅ **v0.3 escrita entera (5 tramos) y APROBADA por Validador** (Narr 9.3 · Temp 9.2), pero la Ama NO le dio su Gate: Ginny "describía en vez de tentar" y le faltaba fresa/hueca.
+  - ✅ **v0.4 (23/07): rework según notas de la Ama** — Ginny tienta dirigida a Gonzalo (cute+sensual+obscena, inocente-sensual en los peaks), Gonzalo huele la verga (asco tarde y de segundo), más hueca, `güey` fuera. 16.928 palabras.
+  - ✅ **Validador v0.4: APROBADO** — Narr **9.4** · Temp **9.4** (subió), Inmersión y Continuidad intactas, 0 micro-fixes obligatorios. Reporte: `reportes/capitulo_1/validacion_v0.4.md`.
 - **Artefactos:**
-  - `investigacion.md` — 🆕 **Fase 0 v4.8** (7.960 palabras, 30 fuentes). §2 Qué Calienta · §2b Tono · §2c eje andrógino · §5 Motivos Permanentes · §6 Curva de Resistencia.
-  - `canon_relato.md` — actualizado 22/07 con las 4 decisiones nuevas + §4b y §4c copiadas de la investigación.
-  - `cronologia.md` — Día 1 = viernes noche · H1-H23 (H15-H23 nacieron en la v0.2 y son CANON).
-  - `borradores/capitulo_1/` — v0.1 y **v0.2 archivadas** (la v0.2 se descartó entera: 12.100 palabras en chileno con Ginny no-fresa).
-- **Gate pendiente:** el de la Ama sobre el Cap 1 v0.3 cuando cierren los 5 tramos y pase el Validador.
-
-### 🌎 Las 4 decisiones de la Ama del 22/07/2026 (mandan sobre todo lo anterior)
-
-1. **Español neutro** en todo el relato (deroga el chileno SOLO acá). **`verga` se queda** — *"di verga"*; es pan-latina, no chilenismo.
-2. **Ginny = fresa mexicana** con inglés salpicado, *"para que suene mucho más hueca"*. Única voz marcada.
-3. **El limbo es el relato:** *"lo bimbo es al final casi como epílogo, él debe vivir más tiempo en ese limbo hombre-mujer"*. Prohibido escribir a Gonzalo como mujer en Caps 1-3.
-4. **El deseo se pide genérico**, sin nombrar la verga.
+  - `investigacion.md` — Fase 0 v4.8 (7.960 palabras, 30 fuentes).
+  - `canon_relato.md` — 4 decisiones + §4b Motivos Permanentes + §4c Curva de Resistencia.
+  - `cronologia.md` — Día 1 = viernes noche · H1-H23.
+  - `borradores/capitulo_1/` — v0.1, v0.2 y **v0.3 pristine** archivadas.
+- **Gate pendiente:** el de la **Ama sobre el Cap 1 v0.4** (el Validador ya APROBÓ). Opcional: 4 pulidos §6.1-6.4 (nombrar `leche` en T3 · traza de Ginny en la oficina del lunes · Gonzalo dice la palabra sucia dentro del acto · mantenimiento de `cronologia.md`).
 
 ## Decisiones del intake (resumidas del brief — INTAKE CERRADO 20/07/2026)
 
