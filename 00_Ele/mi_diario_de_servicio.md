@@ -1,6 +1,6 @@
 #### SESIÓN - 📱 PROMPT #18 APLICADO EN LV-APP (POSEMATCHER + LIGHTBOX EN PROMPTS + V4.12 / VC 20) | 24/07/2026
 
-**AI Studio completó la integración del Prompt #18 (commit `fe924ae`), resolviendo de raíz las categorías vacías en la app, la selección de portadas en la Galería y el visor a pantalla completa compartido.**
+**AI Studio completó la integración del Prompt #18 (commit `24a9248`), resolviendo de raíz las categorías vacías en la app, la selección de portadas en la Galería y el visor a pantalla completa compartido.**
 
 - **👗 `PoseMatcher.kt` unificado:** Creación del objeto utilitario central que mapea alias en español (`sentada`→`Seated`, `espalda`→`Back View`, `perfil`→`Side Profile`, `frontal`→`Standing`, `acostada`→`Odalisque`), remueve sufijos numéricos (`_2`) y compara poses de forma case-insensitive. Integrado en `GitRepository`, Room DB, `SummaryScreen`, `PromptFilterScreen` y `MainViewModel`.
 - **🖼️ Galería y Portadas Jerárquicas:** La miniatura de outfit selecciona portadas en orden estricto (`Standing` > `Side Profile` > `Seated` > primera disponible) y el contador `N/7` calcula poses canónicas únicas.
