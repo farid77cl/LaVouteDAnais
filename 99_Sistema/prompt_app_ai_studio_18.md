@@ -148,11 +148,13 @@ Al aplicar el filtro por categoría o pose en la Galería:
 - Filtrar la lista comparando `PoseMatcher.matches(selectedFilter, img.pose)`.
 - Si ninguna imagen coincide exactamente pero el nombre del outfit o etiqueta contiene el texto buscado, incluirlo como fallback para no dejar la grilla en blanco injustificadamente.
 
-B3. PANTALLA COMPLETA EN LA FICHA DE PROMPTS (`PromptFilterScreen.kt`)
-- En `PromptFilterScreen.kt`, al tocar la miniatura/preview de la imagen existente de la pose seleccionada, abre directamente el visor a pantalla completa (`LightboxViewer`).
-- Oculta las barras del sistema (fullscreen real) para inspeccionar la foto nativa a alta resolución antes de copiar el prompt o reemplazarla.
+B3. MISMA PANTALLA COMPLETA COMPARTIDA (`LightboxViewer`) EN PROMPTS Y GALERÍA
+- En `PromptFilterScreen.kt`, al tocar la miniatura/preview de la imagen existente de la pose seleccionada, NO usar un diálogo secundario ni un visor simplificado.
+- Debe invocar EXACTAMENTE EL MISMO composable `LightboxViewer` que utiliza la pestaña de Galería (`ImageGalleryScreen.kt`).
+- Comparte el 100% de sus funcionalidades: carrusel/pase automático de fotos del outfit (botón ▶), gestos de zoom/swipe, visualización de resolución y notas por imagen, y ocultamiento real de las barras del sistema (fullscreen inmersivo).
+- Si la pose seleccionada pertenece a un outfit con múltiples fotos, abrir el `LightboxViewer` posicionado en esa imagen concreta pero permitiendo deslizar entre las demás poses del mismo outfit.
 
-CRITERIO DE ACEPTACIÓN: Al tocar la miniatura de la foto en la pestaña Prompts, se despliega a pantalla completa (`LightboxViewer`) y al tocar fuera/atrás regresa a la ficha de prompts.
+CRITERIO DE ACEPTACIÓN: Al tocar la foto en la pestaña Prompts, se abre la misma experiencia idéntica de pantalla completa que en la Galería (`LightboxViewer`), con los mismos controles, gestos y carrusel.
 
 #####################################################################
 ##  PARTE C — VERSIONADO OBLIGATORIO Y REPORTE
