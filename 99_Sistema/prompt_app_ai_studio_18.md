@@ -148,7 +148,11 @@ Al aplicar el filtro por categoría o pose en la Galería:
 - Filtrar la lista comparando `PoseMatcher.matches(selectedFilter, img.pose)`.
 - Si ninguna imagen coincide exactamente pero el nombre del outfit o etiqueta contiene el texto buscado, incluirlo como fallback para no dejar la grilla en blanco injustificadamente.
 
-CRITERIO DE ACEPTACIÓN: Al seleccionar la categoría "Seated" / "Sentada" en la galería, se muestran todas las imágenes de esa pose sin importar si el archivo en disco se llama `seated.png`, `sentada.png` o `seated_2.png`.
+B3. PANTALLA COMPLETA EN LA FICHA DE PROMPTS (`PromptFilterScreen.kt`)
+- En `PromptFilterScreen.kt`, al tocar la miniatura/preview de la imagen existente de la pose seleccionada, abre directamente el visor a pantalla completa (`LightboxViewer`).
+- Oculta las barras del sistema (fullscreen real) para inspeccionar la foto nativa a alta resolución antes de copiar el prompt o reemplazarla.
+
+CRITERIO DE ACEPTACIÓN: Al tocar la miniatura de la foto en la pestaña Prompts, se despliega a pantalla completa (`LightboxViewer`) y al tocar fuera/atrás regresa a la ficha de prompts.
 
 #####################################################################
 ##  PARTE C — VERSIONADO OBLIGATORIO Y REPORTE
