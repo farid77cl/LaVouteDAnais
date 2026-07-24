@@ -84,7 +84,7 @@ def normalizar_nombres():
         n = look_num(folder)
         if not os.path.isdir(fpath) or n is None or n < MIN_LOOK:
             continue
-        for canon, bad in (("back_view", "back"), ("side_profile", "profile")):
+        for canon, bad in (("back_view", "back"), ("back_view", "espalda"), ("side_profile", "profile"), ("side_profile", "perfil"), ("seated", "sentada")):
             src = os.path.join(fpath, f"ele_{n}_{bad}.png")
             dst = os.path.join(fpath, f"ele_{n}_{canon}.png")
             if os.path.exists(src) and not os.path.exists(dst):

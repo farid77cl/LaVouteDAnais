@@ -460,9 +460,9 @@
 | **648** | Charcoal Sport Mistress | 21/06/2026 | Gym | — | vinyl, wetlook | 1/7 | ⏳ Pendiente |
 | **649** | Violet Latex Maid | 21/06/2026 | Domestic | — | vinyl, latex | 3/7 | ⏳ Pendiente |
 | **650** | Liquid Silver Column Gown | 21/06/2026 | Escort | — | vinyl, leather, lame | 7/7 | — |
-| **651** | Crimson Command | 22/06/2026 | Stripper | Contraste | leather, chrome, vinyl | 7/7 | — |
-| **652** | Black Chrome Cage Mistress | 22/06/2026 | Stripper | Contraste | vinyl, leather, crystal, rhinestone… | 7/7 | — |
-| **653** | Burgundy Fetish Domme | 22/06/2026 | Lencería | Monoblock | latex, vinyl, chrome, leather | 7/7 | — |
+| **651** | Crimson Command | 22/06/2026 | Stripper | Contraste | leather, chrome, vinyl | 0/7 | ⏳ Pendiente |
+| **652** | Black Chrome Cage Mistress | 22/06/2026 | Stripper | Contraste | vinyl, leather, crystal, rhinestone… | 0/7 | ⏳ Pendiente |
+| **653** | Burgundy Fetish Domme | 22/06/2026 | Lencería | Monoblock | latex, vinyl, chrome, leather | 0/7 | ⏳ Pendiente |
 | **654** | Noir Boudoir Sadist | 22/06/2026 | Lencería | Contraste | leather, satin, wetlook, vinyl | 7/7 | — |
 | **655** | Ivory Power Viper | 22/06/2026 | Corporate | Monoblock | leather, chrome, vinyl | 6/7 | ⏳ Pendiente |
 | **656** | Obsidian Crystal Predator | 22/06/2026 | Nightclub | Contraste | vinyl, leather, crystal, rhinestone… | 7/7 | — |
@@ -930,6 +930,9 @@
 | **645** | Emerald Lingerie Mistress | 6/7 | ⏳ Pendiente |
 | **648** | Charcoal Sport Mistress | 1/7 | ⏳ Pendiente |
 | **649** | Violet Latex Maid | 3/7 | ⏳ Pendiente |
+| **651** | Crimson Command | 0/7 | ⏳ Pendiente |
+| **652** | Black Chrome Cage Mistress | 0/7 | ⏳ Pendiente |
+| **653** | Burgundy Fetish Domme | 0/7 | ⏳ Pendiente |
 | **655** | Ivory Power Viper | 6/7 | ⏳ Pendiente |
 | **671** | Oxblood Baroque Empress | 2/7 | ⏳ Pendiente |
 | **673** | Emerald Versailles Courtesan | 1/7 | ⏳ Pendiente |

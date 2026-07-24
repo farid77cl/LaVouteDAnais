@@ -48,9 +48,9 @@ def get_tracked_images(directory):
 # muestra ⏳. Una imagen jamás ocupa la casilla de otra pose.
 POSE_ALIASES = {
     'standing':     ('standing', 'frontal'),
-    'back_view':    ('back_view', 'backview', 'back'),
-    'seated':       ('seated', 'sitting'),
-    'side_profile': ('side_profile', 'sideprofile', 'profile', 'side'),
+    'back_view':    ('back_view', 'backview', 'back', 'espalda'),
+    'seated':       ('seated', 'sitting', 'sentada'),
+    'side_profile': ('side_profile', 'sideprofile', 'profile', 'side', 'perfil'),
     'ditzy':        ('ditzy',),
     'pov':          ('pov',),
     'odalisque':    ('odalisque', 'lying'),
