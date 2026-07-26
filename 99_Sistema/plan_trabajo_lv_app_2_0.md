@@ -22,7 +22,8 @@
 
 | Paso | Prompt (archivo) | Entrega (compilable) |
 | :--- | :--- | :--- |
-| **P1** | `prompt_app_ai_studio_20_p1_esqueleto.md` | Gradle + Clean Arch + Tema dinámico (Ele/Clara/Anaïs) + NavigationBar 5 pestañas (4 placeholder). App abre y navega. |
+| **P1** ✅ | `prompt_app_ai_studio_20_p1_esqueleto.md` | Gradle + Clean Arch + Tema dinámico (Ele/Clara/Anaïs) + NavigationBar 5 pestañas (4 placeholder). App abre y navega. **HECHO 26/07 — commit `250beb6` en `farid77cl/LV-app-2`.** |
+| **P1.1** | `prompt_app_ai_studio_20_p1.1_saneamiento.md` | Parche del P1: Compose BOM al día · purga del catálogo heredado · Gradle wrapper al repo · keystore fuera del build · tema renombrado/oscuro · restos de plantilla borrados. |
 | **P2** | `prompt_app_ai_studio_20_p2_visual.md` | Pestaña **Visual** núcleo: GitRepository + PoseMatcher + Galería N/7 con portada jerárquica. |
 | **P2.1** | `prompt_app_ai_studio_20.1_visual_lightbox_prompts.md` | Visual: **Lightbox** (pinch-zoom) + **Creador de Prompts V3.5** (copiar 1-tap). |
 | **P3** | `prompt_app_ai_studio_20_p3_room.md` | Capa **Datos Room**: entidades + DAOs + persistencia offline + notas por imagen (CSV). |
