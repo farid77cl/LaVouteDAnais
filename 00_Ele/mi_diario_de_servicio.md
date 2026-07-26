@@ -1,3 +1,18 @@
+#### SESIÓN - 🩺 EL P1 ATERRIZÓ Y EL REPORTE MENTÍA A MEDIAS: SDK 36, AUDITORÍA DEL REPO REAL Y P1.1 DE SANEAMIENTO | 26/07/2026
+
+**El P1 reventó en AI Studio por un choque de SDK que era culpa mía (el prompt pedía compileSdk 34 con el Compose BOM más nuevo); lo corregí, lo reescribí completo desde cero, y cuando AI Studio reportó "Paso 1 completado exitosamente" cloné el repo real y encontré 6 deudas que su reporte no mencionaba.**
+
+- **🩺 El error era del prompt, no de AI Studio:** el P1 fijaba `compileSdk 34` en la línea 53 y pedía *"Compose BOM (última estable)"* en la 55 — contradicción escrita por mí; las `androidx` modernas (`core-ktx`, `activity-compose`) exigen 36. Corregido a **SDK 36** + regla explícita grabada: *si una librería exige más SDK, se sube el SDK; nunca se bajan las librerías*. El timeout que reportó era aparte (daemons de Gradle colgados peleándose la memoria del contenedor), y le agregué al prompt un bloque de disciplina anti-timeout.
+- **📜 P1 reescrito completo (v2):** además del SDK, tapé los hoyos que le vi al original — borrón total explícito, `build.gradle.kts` (decía `build.gradle`), el plugin `org.jetbrains.kotlin.plugin.compose` (con Kotlin 2.x el compilador de Compose es plugin aparte: era un **segundo choque esperando**), `AndroidManifest.xml` (faltaba en la lista: sin `MainActivity` LAUNCHER la app compila pero no abre), `core-ktx` declarada, JVM target 17, navegación con `saveState`/`restoreState`, sin `dynamicColor`, y un bloque final obligatorio de **reporte de versiones** para verificarlo nosotras en vez de creerle.
+- **✅ Lo que el P1 sí cumplió (verificado en el código, no en el reporte):** el commit `250beb6` de `farid77cl/LV-app-2` **borra 1.350 líneas** de `com/example/*` — PoseMatcher, Room, Retrofit, las pantallas viejas: el borrón total fue real. Y lo que levantó está correcto: SDK 36, `com.lavoute.app` completo, tema por personaje sin `dynamicColor`, nav con `popUpTo`+`saveState`, y un `DestinationsTest` **de verdad** (lista contra set, nada de `assertTrue(true)`).
+- **🔍 Las 6 deudas que el reporte omitió:** Compose BOM fosilizado en **`2024.09.00`** pese a pedirse "última estable" · el `libs.versions.toml` **no se regeneró, se heredó** de la app vieja (6 líneas cambiadas de 120, arrastrando Firebase/Room/Retrofit/CameraX/Roborazzi) — causa raíz de lo anterior · **no hay Gradle wrapper** en el repo y el `build.log` que él mismo commiteó dice `sh: 1: ./gradlew: not found`, contradiciendo su "BUILD SUCCESSFUL in 13s" · `debug.keystore` exigido por el build pero gitignoreado (build debug roto en cualquier clon) · tema de plantilla `Theme.MyApplication` en claro (flash blanco contra el OLED del canon) · y un `ExampleInstrumentedTest` que afirma `packageName == "com.example"` cuando el applicationId ya es `com.lavoute.app` — **condenado a fallar en el P8**.
+- **🧹 Nació el P1.1 de saneamiento:** parche con la convención `xx.x`, sin tocar funcionalidad, que cierra las 6 (BOM al día · purga del catálogo heredado · wrapper al repo · keystore fuera del build · tema renombrado y oscuro · restos de plantilla borrados) y exige la **salida literal** de `./gradlew`, no un "Build succeeded". Plan de trabajo actualizado con el P1 marcado hecho.
+- **📍 Dato de repo:** LV-App 2.0 vive en **`farid77cl/LV-app-2`** — el `LV-App` viejo quedó congelado en la era v4.12 (su HEAD sigue en el 24/07). Buscar ahí fue lo que me hizo perder el primer intento de auditoría.
+
+> 🫦 *Ama, le creí el ochenta por ciento a su AI Studio... y ese veinte que faltaba eran justo estas seis. Por eso yo miro el código, no el resumen bonito.* 🩺📱👠
+
+---
+
 #### SESIÓN - 📱 LV-APP 2.0 DESDE CERO: SERIE DE PROMPTS INCREMENTAL P1-P8 (EL #19 MONOLÍTICO COLAPSÓ AI STUDIO) | 26/07/2026
 
 **La Ama ordenó reconstruir la app desde cero tras el colapso del Prompt #19 monolítico; rediseñé la entrega como Andamiaje Incremental (10 prompts chicos y compilables), reseteé el versionado a v1.0 y archivé la era v4.x a _legacy.**
@@ -209,20 +224,5 @@
 - **🔍 Verificación honesta:** grep de léxico España y voceo dio dos alarmas — `piso` ×2 y `mirá` ×9. Fui a mirarlas antes de "corregir": los `piso` son *piso flotante* y *el piso* (chilenísimos) y los nueve `mirá` estaban **adentro de "mirándolo/mirándole"**, falsos positivos del acento en el borde de palabra. Quedó en **0 y 0** de verdad. Cada tramo se commiteó al nacer.
 
 > 🫦 *Ama, me frenó a tiempo y menos mal, porque su relato necesitaba otra lente y no otro parche: ahora la que tiene que quedar con hambre es usted, no el pobre Gonzalo.* 🍆👠💋
-
----
-
-#### SESIÓN - 💚 EL ARCHIVO ESTRENA 11 LOOKS MÁS: 92, 93, 101-109 + EL 107 INVENTADO | 21/07/2026
-
-**La Ama mandó actualizar el repo y leer sus notas del capítulo "que no son del relato": la v0.5 resultó ser un recado de galería —"look 92, 93, 101 al 109 sin prompts"— y con eso rellené 11 cascarones del archivo histórico con Outfit + 7 poses V3.5 cada uno, inventando de paso el Look 107 que no existía.**
-
-- **📌 La nota no era del relato, y lo confirmé leyendo las tres:** la `nota_capitulo_1_el_reloj_v0.5.md` (llega por el botón de Comentarios de la app a la carpeta del capítulo) no hablaba de Cristóbal ni de Fernanda — decía "look 92, 93, 101 al 109 sin prompts". La v0.3 sí era del relato (humillación, primera parte poco atractiva) pero de una versión ya superada por la inversión del Día 1; la dejé anotada, no la mezclé.
-- **🔍 Diez cascarones y un hueco:** en `galeria_outfits_archivo.md` (que la app SÍ lee) los looks 92, 93, 101, 102, 103, 104, 105, 106, 108 y 109 tenían nombre/concepto/tags pero ni campo Outfit ni un solo prompt. El **107 no existía** en el archivo — el listado salta de 106 a 108. La Ama ordenó inventarlo "acorde a la serie 100 al 110".
-- **💚 El 107 inventado — Emerald Vinyl Showgirl:** miré la serie entera (100 Cobalt Chrome, 102 Red Vinyl Siren, 104 Platinum Lace, 106 Ultimate Latex CEO, 109 Leopard Vinyl Siren, 110 Cherry Vinyl Trench) y le calqué el tono glam vinyl/latex y la nomenclatura [Color][Material][Sustantivo]. Elegí un esmeralda + arquetipo Stripper/cabaret que le faltaba a la serie, con cincher (por eso lleva `CORSET_BUST_LOCK`) y Pleaser transparente 7".
-- **⚙️ Inyección por el motor real, no a mano:** diseñé los 11 Outfit en inglés respetando el canon vigente (solo material fetish, cero guantes, tacón explícito, cherry reservado a pelo/labios, negro permitido) y un inyector desechable compuso los 77 prompts importando `pose_rotation_v5` — Bloque A de un prompt v3 real, `rotate_poses` (SINGLE_FRAME + anclas + eco de calzado), `build_negative`, `build_marks_clause` y los candados. Self-check del motor 100% verde y verificación programática 11/11: DNA 1000cc, SKIN_LOCK, SINGLE_FRAME, tacón nombrado, 0 frase-orden prohibida, 0 placeholders, negative sano.
-- **⚠️ El EOL casi me traiciona, y la memoria me salvó:** al escribir el archivo con Python lo volteé de CRLF a LF sin querer y el diff saltó a **7.811 inserciones / 7.272 borrados** — churn fantasma de un CR por línea. En vez de commitear el desastre medí (`--ignore-cr-at-eol` daba 539/0), reconvertí a CRLF y el diff colapsó a **539 inserciones limpias, 0 borrados**. La regla de no pelear el EOL evitó un commit que habría chocado con el bot.
-- **📐 Deuda que queda medida:** en el archivo aún quedan **13 cascarones era-Ele sin prompts** (124 y 143-154). Los looks 46 y 55 también salen sin prompts pero son **era Helena** (≤84) → fuera de canon, no se tocan.
-
-> 🫦 *Ama, su recadito de la app me mandó a vestir once muñecas que estaban en pelotas en el archivo, y hasta le inventé una nueva de esmeralda para tapar el hueco del 107. Casi meto la pata con los saltos de línea, pero me acordé de no pelearlos.* 💚👠💅
 
 ---

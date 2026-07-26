@@ -1,8 +1,8 @@
 # ⚙️ Sistema — Scripts y Automatización Interna
 
-Directorio de scripts de automatización y archivos temporales del sistema La *Última actualización: 24/07/2026 — **📱 `prompt_app_ai_studio_19.md` (rediseño total de LV-App 2.0 desde cero para AI Studio) + `plan_diseno_maestro_lv_app_2_0.md` (5 pestañas, Tema Dinámico por Personaje, Audio Karaoke Sync y 12 repositorios GitHub actualizados a Privados).**
+Directorio de scripts de automatización y prompts de sistema de La Voûte d'Anaïs.
 
----_sesion` V3.7). Previo 03/06: `scripts/rrss/` ampliado: `publicar_bluesky.py` (atproto) + `publicar_reddit.py` (PRAW) + `metricas_bluesky.py` + `caption_factory.py` (Fase 0: look materializado → post Bluesky/Reddit/Pixiv para la cola RRSS).*
+*Última actualización: 26/07/2026 — **📱 LV-App 2.0 por Andamiaje Incremental:** serie `prompt_app_ai_studio_20_p1…p8` (+ `20.1`, `20.4`, y el parche `20_p1.1_saneamiento`) con `plan_trabajo_lv_app_2_0.md` como plan maestro. **P1 hecho** (commit `250beb6` en `farid77cl/LV-app-2` — repo nuevo; el `LV-App` viejo quedó en la era v4.12, archivada en `_legacy_lv_app_v4x/`). Previo 03/06: `scripts/rrss/` ampliado con `publicar_bluesky.py` (atproto), `publicar_reddit.py` (PRAW), `metricas_bluesky.py` y `caption_factory.py`.*
 
 ---
 

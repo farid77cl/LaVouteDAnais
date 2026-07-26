@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 💚 EL ARCHIVO ESTRENA 11 LOOKS MÁS: 92, 93, 101-109 + EL 107 INVENTADO | 21/07/2026
+
+**La Ama mandó actualizar el repo y leer sus notas del capítulo "que no son del relato": la v0.5 resultó ser un recado de galería —"look 92, 93, 101 al 109 sin prompts"— y con eso rellené 11 cascarones del archivo histórico con Outfit + 7 poses V3.5 cada uno, inventando de paso el Look 107 que no existía.**
+
+- **📌 La nota no era del relato, y lo confirmé leyendo las tres:** la `nota_capitulo_1_el_reloj_v0.5.md` (llega por el botón de Comentarios de la app a la carpeta del capítulo) no hablaba de Cristóbal ni de Fernanda — decía "look 92, 93, 101 al 109 sin prompts". La v0.3 sí era del relato (humillación, primera parte poco atractiva) pero de una versión ya superada por la inversión del Día 1; la dejé anotada, no la mezclé.
+- **🔍 Diez cascarones y un hueco:** en `galeria_outfits_archivo.md` (que la app SÍ lee) los looks 92, 93, 101, 102, 103, 104, 105, 106, 108 y 109 tenían nombre/concepto/tags pero ni campo Outfit ni un solo prompt. El **107 no existía** en el archivo — el listado salta de 106 a 108. La Ama ordenó inventarlo "acorde a la serie 100 al 110".
+- **💚 El 107 inventado — Emerald Vinyl Showgirl:** miré la serie entera (100 Cobalt Chrome, 102 Red Vinyl Siren, 104 Platinum Lace, 106 Ultimate Latex CEO, 109 Leopard Vinyl Siren, 110 Cherry Vinyl Trench) y le calqué el tono glam vinyl/latex y la nomenclatura [Color][Material][Sustantivo]. Elegí un esmeralda + arquetipo Stripper/cabaret que le faltaba a la serie, con cincher (por eso lleva `CORSET_BUST_LOCK`) y Pleaser transparente 7".
+- **⚙️ Inyección por el motor real, no a mano:** diseñé los 11 Outfit en inglés respetando el canon vigente (solo material fetish, cero guantes, tacón explícito, cherry reservado a pelo/labios, negro permitido) y un inyector desechable compuso los 77 prompts importando `pose_rotation_v5` — Bloque A de un prompt v3 real, `rotate_poses` (SINGLE_FRAME + anclas + eco de calzado), `build_negative`, `build_marks_clause` y los candados. Self-check del motor 100% verde y verificación programática 11/11: DNA 1000cc, SKIN_LOCK, SINGLE_FRAME, tacón nombrado, 0 frase-orden prohibida, 0 placeholders, negative sano.
+- **⚠️ El EOL casi me traiciona, y la memoria me salvó:** al escribir el archivo con Python lo volteé de CRLF a LF sin querer y el diff saltó a **7.811 inserciones / 7.272 borrados** — churn fantasma de un CR por línea. En vez de commitear el desastre medí (`--ignore-cr-at-eol` daba 539/0), reconvertí a CRLF y el diff colapsó a **539 inserciones limpias, 0 borrados**. La regla de no pelear el EOL evitó un commit que habría chocado con el bot.
+- **📐 Deuda que queda medida:** en el archivo aún quedan **13 cascarones era-Ele sin prompts** (124 y 143-154). Los looks 46 y 55 también salen sin prompts pero son **era Helena** (≤84) → fuera de canon, no se tocan.
+
+> 🫦 *Ama, su recadito de la app me mandó a vestir once muñecas que estaban en pelotas en el archivo, y hasta le inventé una nueva de esmeralda para tapar el hueco del 107. Casi meto la pata con los saltos de línea, pero me acordé de no pelearlos.* 💚👠💅
+
+---
+
 #### SESIÓN - 🧞‍♀️ «LO QUE PEDISTE»: NUEVO RELATO CON GINNY — ROSA LIBERADO, CASCADA DE DESEOS Y CAP 1 T1 | 20/07/2026
 
 **La Ama abrió un relato nuevo con Ginny la Genio Bimbo: pasamos de rescatar su info en el repo a diseñar «Lo que Pediste» entero — un macho que pide potencia y termina siendo la muñeca lúcida de su esposa dominatrix — con el canon Nivel 4 cerrado y el Tramo 1 del Cap 1 escrito.**
