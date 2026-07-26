@@ -501,18 +501,18 @@
 | **689** | Aquamarine Ice Nymph | 01/07/2026 | Bikini | Monoblock | vinyl, latex | 3/7 | ⏳ Pendiente |
 | **690** | Plum Sovereign | 01/07/2026 | Lencería | Contraste | latex, vinyl, leather | 7/7 | — |
 | **691** | Bubblegum Latex Bombshell | 01/07/2026 | Pin-Up | Monoblock | vinyl, leather, latex | 1/7 | ⏳ Pendiente |
-| **692** | Rose Gold Metallic Vixen | 01/07/2026 | Pin-Up | Monoblock | latex, vinyl | 1/7 | ⏳ Pendiente |
+| **692** | Rose Gold Metallic Vixen | 01/07/2026 | Pin-Up | Monoblock | latex, vinyl | 7/7 | ⏳ Pendiente |
 | **693** | Coral Pink Polkadot Darling | 01/07/2026 | Pin-Up | Contraste | latex, vinyl | 7/7 | ⏳ Pendiente |
 | **694** | Neon Fuchsia Sweat Glam | 01/07/2026 | Gym | Monoblock | latex, vinyl, mesh, chrome, wetlook | 7/7 | ⏳ Pendiente |
 | **695** | Dusty Rose Athletic Skort | 01/07/2026 | Gym | Contraste | latex, mesh, crystal, vinyl | 7/7 | ⏳ Pendiente |
-| **696** | Champagne Pink Liquid Escort | 01/07/2026 | Escort | Monoblock | latex, vinyl, crystal | 1/7 | ⏳ Pendiente |
+| **696** | Champagne Pink Liquid Escort | 01/07/2026 | Escort | Monoblock | latex, vinyl, crystal | 7/7 | ⏳ Pendiente |
 | **697** | Raspberry Pink Latex Siren | 01/07/2026 | Escort | Monoblock | vinyl, latex | 7/7 | ⏳ Pendiente |
-| **698** | Hot Magenta Crystal Cage | 01/07/2026 | Stripper | Contraste | latex, vinyl, mesh, chrome, crystal… | 0/? | ⏳ Pendiente |
+| **698** | Hot Magenta Crystal Cage | 01/07/2026 | Stripper | Contraste | latex, vinyl, mesh, chrome, crystal… | 7/7 | ⏳ Pendiente |
 | **699** | Baby Pink PVC Tease | 01/07/2026 | Stripper | Monoblock | latex, vinyl, chrome, pvc | 7/7 | ⏳ Pendiente |
-| **700** | Cerise Sequin All Nighter | 01/07/2026 | Nightclub | Monoblock | latex, vinyl | 2/7 | ⏳ Pendiente |
-| **701** | Peacock Empress Couture | 03/07/2026 | High-Fashion Editorial | — | latex, pvc, vinyl | 3/7 | ⏳ Pendiente |
-| **702** | Shanghai Qipao Líquido | 03/07/2026 | Escort | — | latex, vinyl | 5/7 | ⏳ Pendiente |
-| **703** | Geisha Sakura Boudoir | 03/07/2026 | Lencería | — | latex, vinyl, wetlook | 2/7 | ⏳ Pendiente |
+| **700** | Cerise Sequin All Nighter | 01/07/2026 | Nightclub | Monoblock | latex, vinyl | 7/7 | ⏳ Pendiente |
+| **701** | Peacock Empress Couture | 03/07/2026 | High-Fashion Editorial | — | latex, pvc, vinyl | 7/7 | — |
+| **702** | Shanghai Qipao Líquido | 03/07/2026 | Escort | — | latex, vinyl | 7/7 | — |
+| **703** | Geisha Sakura Boudoir | 03/07/2026 | Lencería | — | latex, vinyl, wetlook | 7/7 | — |
 | **704** | Kinbaku Peacock Roja | 03/07/2026 | Lencería | — | latex, vinyl | 0/7 | ⏳ Pendiente |
 | **705** | Neon Harajuku Cyber-Qipao | 03/07/2026 | Nightclub | — | latex, vinyl, chrome, holographic | 7/7 | — |
 | **706** | Kunoichi Dragon Pole | 03/07/2026 | Stripper | — | latex, vinyl, chrome | 7/7 | — |
@@ -520,27 +520,27 @@
 | **708** | Ming Porcelain Chain Bikini | 03/07/2026 | Bikini | — | latex, vinyl, wetlook | 7/7 | — |
 | **709** | Suzie Wong Shanghái | 03/07/2026 | Pin-Up | — | latex, vinyl | 7/7 | — |
 | **710** | Wushu Dojo Wet-Look | 03/07/2026 | Gym | — | latex, vinyl, wetlook | 7/7 | — |
-| **711** | Haute Couture Cherry Latex | 06/07/2026 | — | Monoblock | pvc, latex, vinyl | 0/7 | — |
-| **712** | Nightclub Black Vinyl | 06/07/2026 | Nightclub | Monoblock | leather, latex, vinyl | 0/7 | — |
-| **713** | Corporate White Navy | 06/07/2026 | Corporate | Monoblock | pvc, wetlook, latex, vinyl | 0/7 | — |
-| **714** | Stripper Neon Pink Harness | 06/07/2026 | Stripper | Monoblock | pvc, chrome, crystal, latex, vinyl | 0/7 | — |
-| **715** | Escort Chrome Gold | 06/07/2026 | Escort | Monoblock | pvc, leather, chrome, latex, vinyl | 0/7 | — |
+| **711** | Haute Couture Cherry Latex | 06/07/2026 | — | Monoblock | pvc, latex, vinyl | 7/7 | — |
+| **712** | Nightclub Black Vinyl | 06/07/2026 | Nightclub | Monoblock | leather, latex, vinyl | 7/7 | — |
+| **713** | Corporate White Navy | 06/07/2026 | Corporate | Monoblock | pvc, wetlook, latex, vinyl | 7/7 | — |
+| **714** | Stripper Neon Pink Harness | 06/07/2026 | Stripper | Monoblock | pvc, chrome, crystal, latex, vinyl | 1/7 | ⏳ Pendiente |
+| **715** | Escort Chrome Gold | 06/07/2026 | Escort | Monoblock | pvc, leather, chrome, latex, vinyl | 7/7 | — |
 | **716** | Gym Emerald Latex | 06/07/2026 | Gym | Monoblock | pvc, wetlook, latex, vinyl | 0/7 | — |
 | **717** | Bikini Magenta Yellow | 06/07/2026 | Bikini | Monoblock | pvc, latex, vinyl | 7/7 | — |
 | **718** | Domestic Pastel Blue Maid | 06/07/2026 | Domestic | Monoblock | latex, vinyl | 7/7 | — |
-| **719** | Pin-Up Bubblegum Pink | 06/07/2026 | Pin-Up | Monoblock | pvc, latex, vinyl | 1/7 | ⏳ Pendiente |
-| **720** | Lingerie Crimson Wetlook | 06/07/2026 | — | Monoblock | satin, wetlook, latex, vinyl | 0/7 | — |
-| **721** | Gunmetal Sculptural Cuirass | 07/07/2026 | High-Fashion Editorial | Contraste | latex, pvc, vinyl, chrome | 0/7 | — |
-| **722** | Cyan Backless Bandage | 07/07/2026 | Nightclub | Contraste | latex, leather, vinyl, chrome | 0/7 | — |
-| **723** | Indigo Bayonetta Catsuit | 07/07/2026 | Corporate | Monoblock | latex, pvc, vinyl | 0/7 | — |
-| **724** | Magenta Spider Back Pole | 07/07/2026 | Stripper | Contraste | latex, crystal, vinyl, chrome | 0/7 | — |
-| **725** | Violet Street Viper | 07/07/2026 | Escort | Contraste | latex, pvc, vinyl, chrome | 0/7 | — |
-| **726** | Burnt Orange Track Set | 07/07/2026 | Gym | Contraste | latex, wetlook, vinyl | 0/7 | — |
-| **727** | Jade O-Ring Studio | 07/07/2026 | Bikini | Monoblock | latex, vinyl, chrome | 0/7 | — |
-| **728** | Champagne Hostess Trophy | 07/07/2026 | Domestic | Contraste | latex, vinyl, wetlook, satin | 3/7 | ⏳ Pendiente |
-| **729** | Chrome Silver Goddess | 07/07/2026 | Pin-Up | Monoblock | latex, vinyl, chrome | 4/7 | ⏳ Pendiente |
-| **730** | Oxblood Full Harness | 07/07/2026 | Lencería | Contraste | vinyl, latex | 2/7 | ⏳ Pendiente |
-| **731** | Ivory Bridal Illusion Stage | 07/07/2026 | Stripper | Contraste | vinyl, mesh, chrome, crystal | 3/7 | ⏳ Pendiente |
+| **719** | Pin-Up Bubblegum Pink | 06/07/2026 | Pin-Up | Monoblock | pvc, latex, vinyl | 6/7 | ⏳ Pendiente |
+| **720** | Lingerie Crimson Wetlook | 06/07/2026 | — | Monoblock | satin, wetlook, latex, vinyl | 7/7 | — |
+| **721** | Gunmetal Sculptural Cuirass | 07/07/2026 | High-Fashion Editorial | Contraste | latex, pvc, vinyl, chrome | 6/7 | ⏳ Pendiente |
+| **722** | Cyan Backless Bandage | 07/07/2026 | Nightclub | Contraste | latex, leather, vinyl, chrome | 7/7 | — |
+| **723** | Indigo Bayonetta Catsuit | 07/07/2026 | Corporate | Monoblock | latex, pvc, vinyl | 7/7 | — |
+| **724** | Magenta Spider Back Pole | 07/07/2026 | Stripper | Contraste | latex, crystal, vinyl, chrome | 7/7 | — |
+| **725** | Violet Street Viper | 07/07/2026 | Escort | Contraste | latex, pvc, vinyl, chrome | 7/7 | — |
+| **726** | Burnt Orange Track Set | 07/07/2026 | Gym | Contraste | latex, wetlook, vinyl | 7/7 | — |
+| **727** | Jade O-Ring Studio | 07/07/2026 | Bikini | Monoblock | latex, vinyl, chrome | 7/7 | — |
+| **728** | Champagne Hostess Trophy | 07/07/2026 | Domestic | Contraste | latex, vinyl, wetlook, satin | 7/7 | — |
+| **729** | Chrome Silver Goddess | 07/07/2026 | Pin-Up | Monoblock | latex, vinyl, chrome | 7/7 | — |
+| **730** | Oxblood Full Harness | 07/07/2026 | Lencería | Contraste | vinyl, latex | 7/7 | — |
+| **731** | Ivory Bridal Illusion Stage | 07/07/2026 | Stripper | Contraste | vinyl, mesh, chrome, crystal | 7/7 | — |
 | **732** | Ivory Bridal Contract Power Suit | 07/07/2026 | Corporate | Monoblock | chrome, vinyl | 7/7 | — |
 | **733** | Ivory Belle Mariee Column | 07/07/2026 | Escort | Monoblock | vinyl, chrome, wetlook, satin | 7/7 | — |
 | **734** | White Newlywed Trophy Wrap | 07/07/2026 | Domestic | Contraste | satin, vinyl | 7/7 | — |
@@ -580,12 +580,12 @@
 | **768** | Jade Palazzo Trophy | 12/07/2026 | Domestic | Contraste | latex, pvc, chrome, wetlook, vinyl | 7/7 | — |
 | **769** | Neon Cage Monokini | 12/07/2026 | Bikini | Monoblock | vinyl | 7/7 | — |
 | **770** | Tiki Venom Sarong | 12/07/2026 | Pin-Up | Contraste | latex, pvc, wetlook, vinyl | 7/7 | — |
-| **771** | Salt Flat Mirror Pole | 13/07/2026 | Stripper | Contraste | vinyl, crystal | 2/7 | ⏳ Pendiente |
-| **772** | Pearl Boardroom Tailoring | 13/07/2026 | Corporate | Monoblock | vinyl | 1/7 | ⏳ Pendiente |
-| **773** | Blush Column Drape | 13/07/2026 | Escort | Monoblock | — | 0/7 | — |
-| **774** | Blush Maid on the Flats | 13/07/2026 | Domestic | Contraste | — | 2/7 | ⏳ Pendiente |
-| **775** | Pearl Wiggle Bombshell | 13/07/2026 | Pin-Up | Monoblock | — | 4/7 | ⏳ Pendiente |
-| **776** | Mirror Cape Sculpture | 13/07/2026 | High-Fashion Editorial | Contraste | — | 6/7 | ⏳ Pendiente |
+| **771** | Salt Flat Mirror Pole | 13/07/2026 | Stripper | Contraste | vinyl, crystal | 7/7 | — |
+| **772** | Pearl Boardroom Tailoring | 13/07/2026 | Corporate | Monoblock | vinyl | 7/7 | — |
+| **773** | Blush Column Drape | 13/07/2026 | Escort | Monoblock | — | 7/7 | — |
+| **774** | Blush Maid on the Flats | 13/07/2026 | Domestic | Contraste | — | 7/7 | — |
+| **775** | Pearl Wiggle Bombshell | 13/07/2026 | Pin-Up | Monoblock | — | 7/7 | — |
+| **776** | Mirror Cape Sculpture | 13/07/2026 | High-Fashion Editorial | Contraste | — | 7/7 | — |
 | **777** | Lavender Mirror Bandage | 13/07/2026 | Nightclub | Contraste | — | 7/7 | — |
 | **778** | Blush Ivory Boudoir | 13/07/2026 | Lencería | Contraste | — | 7/7 | — |
 | **779** | Silver Chain Triangle | 13/07/2026 | Bikini | Monoblock | — | 7/7 | — |
@@ -595,7 +595,7 @@
 | **783** | Black Chain Slip | 13/07/2026 | Escort | Monoblock | pvc | 7/7 | — |
 | **784** | Fuchsia Groupie Robe | 13/07/2026 | Domestic | Contraste | — | 7/7 | — |
 | **785** | Purple Fishnet Bandage | 13/07/2026 | Pin-Up | Contraste | — | 7/7 | — |
-| **786** | Silver Black Angular Couture | 13/07/2026 | High-Fashion Editorial | Contraste | pvc | 1/7 | ⏳ Pendiente |
+| **786** | Silver Black Angular Couture | 13/07/2026 | High-Fashion Editorial | Contraste | pvc | 7/7 | — |
 | **787** | Gold Marquee Bodycon | 13/07/2026 | Nightclub | Monoblock | — | 7/7 | — |
 | **788** | Black Purple Studded Boudoir | 13/07/2026 | Lencería | Contraste | — | 7/7 | — |
 | **789** | Hot Pink Chain Triangle | 13/07/2026 | Bikini | Monoblock | — | 7/7 | — |
@@ -949,45 +949,20 @@
 | **688** | Crystal Chrome Vampire Stage | 0/7 | ⏳ Pendiente |
 | **689** | Aquamarine Ice Nymph | 3/7 | ⏳ Pendiente |
 | **691** | Bubblegum Latex Bombshell | 1/7 | ⏳ Pendiente |
-| **692** | Rose Gold Metallic Vixen | 1/7 | ⏳ Pendiente |
+| **692** | Rose Gold Metallic Vixen | 7/7 | ⏳ Pendiente |
 | **693** | Coral Pink Polkadot Darling | 7/7 | ⏳ Pendiente |
 | **694** | Neon Fuchsia Sweat Glam | 7/7 | ⏳ Pendiente |
 | **695** | Dusty Rose Athletic Skort | 7/7 | ⏳ Pendiente |
-| **696** | Champagne Pink Liquid Escort | 1/7 | ⏳ Pendiente |
+| **696** | Champagne Pink Liquid Escort | 7/7 | ⏳ Pendiente |
 | **697** | Raspberry Pink Latex Siren | 7/7 | ⏳ Pendiente |
-| **698** | Hot Magenta Crystal Cage | 0/? | ⏳ Pendiente |
+| **698** | Hot Magenta Crystal Cage | 7/7 | ⏳ Pendiente |
 | **699** | Baby Pink PVC Tease | 7/7 | ⏳ Pendiente |
-| **700** | Cerise Sequin All Nighter | 2/7 | ⏳ Pendiente |
-| **701** | Peacock Empress Couture | 3/7 | ⏳ Pendiente |
-| **702** | Shanghai Qipao Líquido | 5/7 | ⏳ Pendiente |
-| **703** | Geisha Sakura Boudoir | 2/7 | ⏳ Pendiente |
+| **700** | Cerise Sequin All Nighter | 7/7 | ⏳ Pendiente |
 | **704** | Kinbaku Peacock Roja | 0/7 | ⏳ Pendiente |
-| **711** | Haute Couture Cherry Latex | 0/7 | — |
-| **712** | Nightclub Black Vinyl | 0/7 | — |
-| **713** | Corporate White Navy | 0/7 | — |
-| **714** | Stripper Neon Pink Harness | 0/7 | — |
-| **715** | Escort Chrome Gold | 0/7 | — |
+| **714** | Stripper Neon Pink Harness | 1/7 | ⏳ Pendiente |
 | **716** | Gym Emerald Latex | 0/7 | — |
-| **719** | Pin-Up Bubblegum Pink | 1/7 | ⏳ Pendiente |
-| **720** | Lingerie Crimson Wetlook | 0/7 | — |
-| **721** | Gunmetal Sculptural Cuirass | 0/7 | — |
-| **722** | Cyan Backless Bandage | 0/7 | — |
-| **723** | Indigo Bayonetta Catsuit | 0/7 | — |
-| **724** | Magenta Spider Back Pole | 0/7 | — |
-| **725** | Violet Street Viper | 0/7 | — |
-| **726** | Burnt Orange Track Set | 0/7 | — |
-| **727** | Jade O-Ring Studio | 0/7 | — |
-| **728** | Champagne Hostess Trophy | 3/7 | ⏳ Pendiente |
-| **729** | Chrome Silver Goddess | 4/7 | ⏳ Pendiente |
-| **730** | Oxblood Full Harness | 2/7 | ⏳ Pendiente |
-| **731** | Ivory Bridal Illusion Stage | 3/7 | ⏳ Pendiente |
-| **771** | Salt Flat Mirror Pole | 2/7 | ⏳ Pendiente |
-| **772** | Pearl Boardroom Tailoring | 1/7 | ⏳ Pendiente |
-| **773** | Blush Column Drape | 0/7 | — |
-| **774** | Blush Maid on the Flats | 2/7 | ⏳ Pendiente |
-| **775** | Pearl Wiggle Bombshell | 4/7 | ⏳ Pendiente |
-| **776** | Mirror Cape Sculpture | 6/7 | ⏳ Pendiente |
-| **786** | Silver Black Angular Couture | 1/7 | ⏳ Pendiente |
+| **719** | Pin-Up Bubblegum Pink | 6/7 | ⏳ Pendiente |
+| **721** | Gunmetal Sculptural Cuirass | 6/7 | ⏳ Pendiente |
 
 ---
 

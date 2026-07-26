@@ -1,13 +1,13 @@
 # 🖼️ Galería: look129_bridal_purity_lingerie
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 7
+Total imágenes: 9
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_129_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_back_view.png) | ![ele_129_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy.png) | ![ele_129_ditzy_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy_png.png) |
-| ![ele_129_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy_v0.png) | ![ele_129_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_seated.png) | ![ele_129_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_side_profile.png) |
+| ![ele_129_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy_v0.png) | ![ele_129_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_odalisque.png) | ![ele_129_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_pov.png) |
 
 ---
 
@@ -16,7 +16,8 @@ Total imágenes: 7
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_129_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_back_view.png) | ![ele_129_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy.png) | ![ele_129_ditzy_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy_png.png) | ![ele_129_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy_v0.png) |
-| ![ele_129_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_seated.png) | ![ele_129_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_side_profile.png) | ![ele_129_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_standing.png) |
+| ![ele_129_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_odalisque.png) | ![ele_129_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_pov.png) | ![ele_129_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_seated.png) | ![ele_129_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_side_profile.png) |
+| ![ele_129_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_standing.png) |
 
 
 ---
@@ -26,6 +27,8 @@ Total imágenes: 7
 - [ele_129_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy.png)
 - [ele_129_ditzy_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy_png.png)
 - [ele_129_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_ditzy_v0.png)
+- [ele_129_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_odalisque.png)
+- [ele_129_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_pov.png)
 - [ele_129_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_seated.png)
 - [ele_129_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_side_profile.png)
 - [ele_129_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_standing.png)

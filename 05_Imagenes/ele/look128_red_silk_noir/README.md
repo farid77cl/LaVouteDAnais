@@ -1,13 +1,13 @@
 # 🖼️ Galería: look128_red_silk_noir
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 8
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_128_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | ![ele_128_ditzy_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_png.png) | ![ele_128_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_v0.png) |
-| ![ele_128_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) | ![ele_128_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) | ![ele_128_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) |
+| ![ele_128_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_odalisque.png) | ![ele_128_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_pov.png) | ![ele_128_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_128_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | ![ele_128_ditzy_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_png.png) | ![ele_128_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_v0.png) | ![ele_128_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) |
-| ![ele_128_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) | ![ele_128_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) |
+| ![ele_128_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | ![ele_128_ditzy_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_png.png) | ![ele_128_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_v0.png) | ![ele_128_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_odalisque.png) |
+| ![ele_128_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_pov.png) | ![ele_128_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) | ![ele_128_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) | ![ele_128_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) |
 
 
 ---
@@ -25,6 +25,8 @@ Total imágenes: 6
 - [ele_128_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png)
 - [ele_128_ditzy_png.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_png.png)
 - [ele_128_ditzy_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy_v0.png)
+- [ele_128_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_odalisque.png)
+- [ele_128_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_pov.png)
 - [ele_128_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png)
 - [ele_128_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png)
 - [ele_128_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png)

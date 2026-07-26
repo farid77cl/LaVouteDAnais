@@ -1,13 +1,13 @@
 # 🖼️ Galería: look125_sapphire_glow_bikini
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_125_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png) | ![ele_125_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_ditzy.png) | ![ele_125_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png) |
-| ![ele_125_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png) | ![ele_125_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_standing.png) |
+| ![ele_125_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png) | ![ele_125_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_ditzy.png) | ![ele_125_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_odalisque.png) |
+| ![ele_125_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_pov.png) | ![ele_125_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png) | ![ele_125_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_125_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png) | ![ele_125_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_ditzy.png) | ![ele_125_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png) | ![ele_125_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png) |
-| ![ele_125_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_standing.png) |
+| ![ele_125_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png) | ![ele_125_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_ditzy.png) | ![ele_125_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_odalisque.png) | ![ele_125_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_pov.png) |
+| ![ele_125_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png) | ![ele_125_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png) | ![ele_125_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_standing.png) |
 
 
 ---
@@ -24,6 +24,8 @@ Total imágenes: 5
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_125_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png)
 - [ele_125_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_ditzy.png)
+- [ele_125_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_odalisque.png)
+- [ele_125_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_pov.png)
 - [ele_125_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png)
 - [ele_125_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png)
 - [ele_125_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_standing.png)
