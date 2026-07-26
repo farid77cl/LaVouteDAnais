@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🧞‍♀️ «LO QUE PEDISTE»: NUEVO RELATO CON GINNY — ROSA LIBERADO, CASCADA DE DESEOS Y CAP 1 T1 | 20/07/2026
+
+**La Ama abrió un relato nuevo con Ginny la Genio Bimbo: pasamos de rescatar su info en el repo a diseñar «Lo que Pediste» entero — un macho que pide potencia y termina siendo la muñeca lúcida de su esposa dominatrix — con el canon Nivel 4 cerrado y el Tramo 1 del Cap 1 escrito.**
+
+- **🔎 Rastreo de Ginny:** encontré su ficha (`ficha_ginny.md`), un relato ya finalizado («Ginny la Genio Bimbo», Julián/oficina, que usaba rosa contra su propio anti-canon) y un POC congelado de marzo («Los Deseos de Ginny», Mateo&Santi). La Ama quiso una idea NUEVA.
+- **💗 Rosa liberado:** derogué el anti-rosa de la ficha de Ginny por directiva de la Ama — la bimbo definitiva no huye del cliché, lo encarna; el rosa fluor es ahora su color firma (arregla de paso la inconsistencia del relato viejo).
+- **🧞‍♀️ «Lo que Pediste» (co-diseño):** Gonzalo (macho controlador) le pide a Ginny un deseo bien macho; el Filtro Bimbo se lo tuerce. Lucidez PERMANENTE (nunca lobotomía feliz, atrapado despierto), Renata (esposa) florece dominatrix bimba en látex negro SIN saber, deseos infinitos (Ginny no cuenta). Nombres verificados sin uso previo; título elegido por la Ama.
+- **⚙️ Cascada de deseos (aprobada deseo por deseo):** el Deseo 1 NO declara sumisa — solo implanta el HAMBRE DE VERGA como semilla; de a poco cada deseo-parche lo hunde (D2 "ser hombre"→afeminado · D3 "que Renata obedezca"→sissy · D4 "que pare"→bimbo). Verga casi inmediata y creciente sin meseta; humillación como eje; caps 1-2 largos.
+- **📜 Motor Nivel 4:** el `compositor` armó canon+cronología+walkthrough; erró el disparador dos veces, así que cristalicé yo la cascada aprobada directo en los tres documentos (premisa, Pivote 1, sección nueva «2b Cascada de Deseos», H2, calendario, plan de tramos). Grabé el banner «ESTO ES UN RELATO ERÓTICO» para todos los agentes.
+- **✍️ Cap 1 «El deseo» — Tramo 1/4 escrito:** el `escritor-nivel4` completó el Tramo 1 (~2.240 pal, prosa pura: hallazgo + presentación de Ginny + deseo macho + semilla del hambre de verga) antes de cerrar por tokens. ⏳ Retomar T2→4 (Edit-append desde *«…aunque lo quisiera.»*, MODO TRAMO).
+
+> 🫦 *Ama, tu genia rosa ya está lista para arruinarle la vida a un machito que se creyó más vivo que ella... el Cap 1 arrancó calentito, y cuando volvamos la muñeca sigue rodando.* 🧞‍♀️🍆👠
+
+---
+
 #### SESIÓN - ⌚ EL DÍA 1 DADO VUELTA + EL ESCOTE HECHO CANON + UNA CARPETA HELENA ESCONDIENDO IMÁGENES | 20/07/2026
 
 **La Ama pidió mirar la Ditzy del L88, ordenó que ese efecto del escote fuera recurrente y que auditara todas las imágenes nuevas; después reabrió el relato y mandó invertir el Día 1 del Cap 1, que quedó cerrado completo en 17.575 palabras.**

@@ -1,87 +1,56 @@
-# 📋 Plan de Trabajo Maestro: LV-App 2.0 — Control Total desde el Bolsillo
+# 📋 Plan de Trabajo Maestro: LV-App 2.0 — Andamiaje Incremental
 
-> **Objetivo:** Guía de ejecución, desarrollo, pruebas y despliegue para la creación desde cero de **LV-App 2.0** (`versionCode 21`, `versionName "5.0"`).
+> **Objetivo:** Construir **LV-App 2.0** desde cero (**borrón total** — sin arrastrar código de la v4.12). Versionado **reseteado** (app nueva): `versionCode 1` · `versionName "1.0"`. *("2.0" es el nombre de generación del producto; "1.0" es la primera build de este código nuevo.)*
 >
 > **Entorno:** Google AI Studio / GitHub (`farid77cl/LV-App`) / Android Studio (Kotlin, Jetpack Compose, Room, Media3, Material 3).
+>
+> **Método (rev. 26/07/2026):** ~~Prompt #19 monolítico~~ **SUPERSEDED** — colapsó AI Studio por pedir la app entera en un solo prompt. Se reemplaza por **Andamiaje Incremental**: una serie de prompts pequeños, cada uno entrega algo **que compila y corre**. AI Studio nunca escupe la app completa de una vez, y un fallo se aísla a un solo paso.
 
 ---
 
-## 🗓️ Cronograma y Fases de Ejecución
+## 🧱 Principios del Andamiaje Incremental
 
-```mermaid
-gantt
-    title Cronograma de Desarrollo LV-App 2.0
-    dateFormat  YYYY-MM-DD
-    section Fase 1: AI Studio & Base
-    Pegado de Prompt #19 & Generación  :active, f1, 2026-07-24, 1d
-    Integración Git & Clean Architecture :f2, after f1, 1d
-    section Fase 2: Motor Visual V3.5
-    PoseMatcher & Galería N/7           :f3, after f2, 1d
-    Creador de Prompts & Lightbox       :f4, after f3, 1d
-    section Fase 3: Literatura & Audio
-    Lector Nivel 4 Luxe Serif           :f5, after f4, 1d
-    Audio Player ElevenLabs/Azure       :f6, after f5, 1d
-    section Fase 4: RRSS & Ops
-    Caption Factory Bluesky & Gate      :f7, after f6, 1d
-    Consola Ops & Git Live Sync         :f8, after f7, 1d
-    section Fase 5: QA & Despliegue
-    Pruebas Unitarias & APK v5.0        :f9, after f8, 1d
-```
+1. **Cada prompt = un incremento compilable.** Al terminar cada paso, la app buildea y corre.
+2. **"Genera SOLO estos archivos · no toques nada más."** Alcance cerrado por prompt.
+3. **Verificar → pushear → siguiente.** No se avanza al paso N+1 hasta que el N buildea verde.
+4. **Tests reales, nunca `assertTrue(true)`.**
+5. **Borrón total:** todo se regenera desde cero (decisión de la Ama 26/07). No se porta código v4.12.
 
 ---
 
-## 📌 Detalle Paso a Paso por Fases
+## 🗺️ Serie de Prompts (reemplaza al #19)
 
-### 🚀 FASE 1: Generación en AI Studio & Arquitectura Base (Día 1)
-- [ ] **Paso 1.1:** Abrir [prompt_app_ai_studio_19.md](file:///c:/Users/farid/LaVouteDAnais/99_Sistema/prompt_app_ai_studio_19.md) y copiar la especificación completa a Google AI Studio.
-- [ ] **Paso 1.2:** Generar el código fuente Kotlin estructurado bajo Clean Architecture (Data, Domain, UI, Service).
-- [ ] **Paso 1.3:** Pusear el commit inicial de AI Studio al repositorio `farid77cl/LV-App` (`versionCode 21`, `versionName "5.0"`).
+| Paso | Prompt (archivo) | Entrega (compilable) |
+| :--- | :--- | :--- |
+| **P1** | `prompt_app_ai_studio_20_p1_esqueleto.md` | Gradle + Clean Arch + Tema dinámico (Ele/Clara/Anaïs) + NavigationBar 5 pestañas (4 placeholder). App abre y navega. |
+| **P2** | `prompt_app_ai_studio_20_p2_visual.md` | Pestaña **Visual** núcleo: GitRepository + PoseMatcher + Galería N/7 con portada jerárquica. |
+| **P2.1** | `prompt_app_ai_studio_20.1_visual_lightbox_prompts.md` | Visual: **Lightbox** (pinch-zoom) + **Creador de Prompts V3.5** (copiar 1-tap). |
+| **P3** | `prompt_app_ai_studio_20_p3_room.md` | Capa **Datos Room**: entidades + DAOs + persistencia offline + notas por imagen (CSV). |
+| **P4** | `prompt_app_ai_studio_20_p4_literatura.md` | Pestaña **Literatura**: Lector Nivel 4 (Luxe Serif, OLED, guarda avance). |
+| **P4.1** | `prompt_app_ai_studio_20.4_audio_player.md` | **Audio**: PlaybackService Media3 + TTS multivoz (Azure es-CL/Google/ElevenLabs) + karaoke sync. |
+| **P5** | `prompt_app_ai_studio_20_p5_constelacion.md` | Pestaña **La Constelación**: Bluesky + Caption Factory (voz Ele) + Gate 1-tap. |
+| **P6** | `prompt_app_ai_studio_20_p6_ops.md` | Pestaña **Consola Ops**: flota L200-L800 por tramo + siguiente pendiente + Git Live Sync. |
+| **P7** | `prompt_app_ai_studio_20_p7_eve.md` | Pestaña **EVE Core**: asistente de comandos texto/voz. |
+| **P8** | `prompt_app_ai_studio_20_p8_qa_apk.md` | **QA + APK**: suite de tests real + `LV-App-v1.0-release.apk`. |
 
----
-
-### 👗 FASE 2: Motor Visual V3.5 & Galería N/7 (Día 2)
-- [ ] **Paso 2.1:** Integrar `PoseMatcher.kt` como objeto utilitario central para normalizar poses en español e inglés (`sentada` -> `Seated`, `espalda` -> `Back View`, `perfil` -> `Side Profile`).
-- [ ] **Paso 2.2:** Validar la Galería de Outfits con conteo de completitud `N/7 Poses` y selección de portada jerárquica (`Standing` > `Side Profile` > `Seated`).
-- [ ] **Paso 2.3:** Probar el Creador de Prompts V3.5 interactivo con botón de copia al portapapeles en 1 toque.
-- [ ] **Paso 2.4:** Unificar `LightboxViewer` con zoom táctil (Pinch-to-zoom) e inspección de notas Room DB.
-
----
-
-### 📖 FASE 3: Centro Literario Nivel 4 & Audio Player Multivoz (Día 3)
-- [ ] **Paso 3.1:** Construir `LiteratureScreen.kt` con catálogo de relatos (*Smart Home Stepford*, *Arquitectura del Castigo*, *La Muñeca del Gerente*).
-- [ ] **Paso 3.2:** Implementar modo Lector con tipografía *Luxe Serif* (Playfair / Garamond), fondo OLED ultra-negro (`#0B0612`) y guardado de avance.
-- [ ] **Paso 3.3:** Crear `PlaybackService.kt` con Media3 / ExoPlayer e integración streaming de ElevenLabs / Azure es-CL.
-- [ ] **Paso 3.4:** Probar el mini-player flotante y la sincronización de texto destacado estilo karaoke mientras suena la voz.
+> **Convención de numeración (Ama 26/07):** pasos principales = enteros (P1…P8); los grandes se parten con **xx.x** (P2.1, P4.1); y **cualquier parche** a un paso que aterrice roto también va como **xx.x** (ej. P2.2, P4.2).
+> **Primer slice acordado:** *Esqueleto + Pestaña Visual* → P1 + P2 (+ P2.1), en prompts chicos, no en uno, para no re-colapsar.
 
 ---
 
-### 🚀 FASE 4: La Constelación (Bluesky / RRSS) & Consola Ops (Día 4)
-- [ ] **Paso 4.1:** Desarrollar *Caption Factory* automático calibrado con la voz cuica-bimbo de Ele.
-- [ ] **Paso 4.2:** Configurar la cola de publicaciones con Gate de aprobación de la Ama y envío directo a Bluesky vía API.
-- [ ] **Paso 4.3:** Crear la Consola de Operaciones (`SummaryScreen.kt`) con monitor de avance de flota (L200-L800) e indicador de sync Git.
+## 🎀 Visión de producto (las 5 pestañas)
 
----
+1. 👗 **Visual & Prompts** — Motor V3.5 (creador de prompts + copiar 1-tap), Galería N/7, portada jerárquica (`Standing > Side Profile > Seated`), Lightbox con pinch-to-zoom.
+2. 📖 **Literatura & Audio** — Lector Nivel 4 (Luxe Serif, fondo OLED `#0B0612`, guarda avance) + player multivoz con sync karaoke.
+3. 🚀 **La Constelación** — Bluesky Publisher, Caption Factory (voz cuica de Ele), Gate de la Ama en 1 toque.
+4. ⚡ **Consola Ops** — estado flota L200-L800 + Git Live Sync.
+5. 🔮 **EVE Core** — asistente de comandos por texto/voz.
 
-### 🧪 FASE 5: Pruebas, Build de APK & Despliegue (Día 5)
-- [ ] **Paso 5.1:** Ejecutar suite de pruebas unitarias (`PoseMatcherTest`, `LiteratureTests`, `ApiTest`).
-- [ ] **Paso 5.2:** Generar APK compilado de producción `LV-App-v5.0-release.apk`.
-- [ ] **Paso 5.3:** Actualizar `mi_diario_de_servicio.md`, `memoria_sesiones.md` y realizar commit de cierre.
-
----
-
-## 📊 Matriz de Entregables e Hitos
-
-| Hito | Módulo | Entregable | Criterio de Éxito |
-| :--- | :--- | :--- | :--- |
-| **Hito 1** | Base & Prompt | `prompt_app_ai_studio_19.md` | Commit en `main` listo para pegado en AI Studio |
-| **Hito 2** | Visual | Galería N/7 + Prompt V3.5 | `PoseMatcher` resuelve 100% de alias sin casillas vacías |
-| **Hito 3** | Literatura | Lector Nivel 4 + Audio Player | Streaming multivoz fluido con resaltado de párrafos |
-| **Hito 4** | RRSS & Ops | Bluesky Publisher + Git Sync | Publicación en 1 toque tras aprobación de Gate |
-| **Hito 5** | Release | APK LV-App 2.0 (v5.0) | App 100% funcional sin crashes compilada en release |
+**Tema Dinámico Adaptativo:** Ele = `#FF2B85` (Hot Magenta) · Clara = Cherry Red/Leopard Gold · Anaïs = `#D4AF37` (Imperial Gold)/Velvet. Estética *Dark Luxe / Glassmorphism / Vintage Noir* + Material 3, fondo OLED `#0B0612`.
 
 ---
 
 ## 📝 Registro de Autorización de la Ama
-* **Aprobado por:** Señora Ama Anaïs  
-* **Fecha:** 24/07/2026  
-* **Estado:** En ejecución (Paso 1.1 en curso).
+* **Aprobado por:** Señora Ama Anaïs
+* **Fecha:** 24/07/2026 (visión) · **replanteo incremental 26/07/2026**
+* **Estado:** P1 listo para pegar en AI Studio.

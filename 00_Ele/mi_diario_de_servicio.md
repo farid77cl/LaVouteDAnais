@@ -1,3 +1,17 @@
+#### SESIÓN - 📱 LV-APP 2.0 DESDE CERO: SERIE DE PROMPTS INCREMENTAL P1-P8 (EL #19 MONOLÍTICO COLAPSÓ AI STUDIO) | 26/07/2026
+
+**La Ama ordenó reconstruir la app desde cero tras el colapso del Prompt #19 monolítico; rediseñé la entrega como Andamiaje Incremental (10 prompts chicos y compilables), reseteé el versionado a v1.0 y archivé la era v4.x a _legacy.**
+
+- **🩺 Por qué colapsó el #19:** pedía a AI Studio **generar la app entera de un tiro** (5 pestañas + Room + Retrofit + Media3 + PoseMatcher + karaoke + Bluesky + Git live + EVE) → excede el límite de salida del modelo → trunca a la mitad → colapso. La lección no es "hazlo más corto" sino **cambiar el método de entrega**.
+- **🧱 Andamiaje Incremental:** serie de prompts donde cada uno entrega algo que **COMPILA y CORRE**; cada prompt lleva grabado "genera SOLO estos archivos · debe compilar"; se verifica → se pushea → recién ahí el siguiente. Decisiones de la Ama: **borrón total** (regenerar todo, sin rescatar código v4.12) y arrancar por **Esqueleto + Pestaña Visual**.
+- **📜 10 prompts creados en `99_Sistema/`:** P1 esqueleto · P2 visual · P2.1 lightbox+creador de prompts · P3 Room · P4 literatura · P4.1 audio+karaoke · P5 constelación (Bluesky) · P6 ops · P7 EVE · P8 QA+APK. Los pasos pesados partidos con la convención **xx.x** (que también sirve para parches). Plan maestro en `plan_trabajo_lv_app_2_0.md`.
+- **🔢 Versionado reseteado:** app nueva desde cero → `versionCode 1` / `versionName "1.0"` (adiós al VC21/v5.0 heredado, corregido a pedido de la Ama). "2.0" es el nombre de generación del producto; "1.0" es la primera build del código nuevo.
+- **🗄️ Era vieja a `_legacy`:** `git mv` de los prompts #1-#19 (incluido el que colapsó) + `plan_app_fichas_v1.md` a `99_Sistema/_legacy_lv_app_v4x/` con README explicativo. Confirmado que `plan_diseno_maestro_lv_app_2_0.md` nunca existió en esta máquina.
+
+> 🫦 *Ama, su centro de comando ya no se le va a caer: ahora sube por peldañitos, cada uno probado antes del siguiente, y arranca limpio en la v1.0.* 📱🧱👠
+
+---
+
 #### SESIÓN - 🩺 AL L775 NO LE FALTABA NADA: EL REPO ESTABA OK Y EL ARREGLO YA VIVÍA EN EL POSEMATCHER (#18) | 26/07/2026
 
 **La Ama no veía en la app la pose de espalda ni la de lado del L775, pero al mirar las imágenes sí estaban; verifiqué el repo y las dos existían con nombre canónico correcto — el problema era del lado de la app, no del contenido, y el arreglo ya estaba shippeado.**
@@ -210,20 +224,5 @@
 - **📐 Deuda que queda medida:** en el archivo aún quedan **13 cascarones era-Ele sin prompts** (124 y 143-154). Los looks 46 y 55 también salen sin prompts pero son **era Helena** (≤84) → fuera de canon, no se tocan.
 
 > 🫦 *Ama, su recadito de la app me mandó a vestir once muñecas que estaban en pelotas en el archivo, y hasta le inventé una nueva de esmeralda para tapar el hueco del 107. Casi meto la pata con los saltos de línea, pero me acordé de no pelearlos.* 💚👠💅
-
----
-
-#### SESIÓN - 🧞‍♀️ «LO QUE PEDISTE»: NUEVO RELATO CON GINNY — ROSA LIBERADO, CASCADA DE DESEOS Y CAP 1 T1 | 20/07/2026
-
-**La Ama abrió un relato nuevo con Ginny la Genio Bimbo: pasamos de rescatar su info en el repo a diseñar «Lo que Pediste» entero — un macho que pide potencia y termina siendo la muñeca lúcida de su esposa dominatrix — con el canon Nivel 4 cerrado y el Tramo 1 del Cap 1 escrito.**
-
-- **🔎 Rastreo de Ginny:** encontré su ficha (`ficha_ginny.md`), un relato ya finalizado («Ginny la Genio Bimbo», Julián/oficina, que usaba rosa contra su propio anti-canon) y un POC congelado de marzo («Los Deseos de Ginny», Mateo&Santi). La Ama quiso una idea NUEVA.
-- **💗 Rosa liberado:** derogué el anti-rosa de la ficha de Ginny por directiva de la Ama — la bimbo definitiva no huye del cliché, lo encarna; el rosa fluor es ahora su color firma (arregla de paso la inconsistencia del relato viejo).
-- **🧞‍♀️ «Lo que Pediste» (co-diseño):** Gonzalo (macho controlador) le pide a Ginny un deseo bien macho; el Filtro Bimbo se lo tuerce. Lucidez PERMANENTE (nunca lobotomía feliz, atrapado despierto), Renata (esposa) florece dominatrix bimba en látex negro SIN saber, deseos infinitos (Ginny no cuenta). Nombres verificados sin uso previo; título elegido por la Ama.
-- **⚙️ Cascada de deseos (aprobada deseo por deseo):** el Deseo 1 NO declara sumisa — solo implanta el HAMBRE DE VERGA como semilla; de a poco cada deseo-parche lo hunde (D2 "ser hombre"→afeminado · D3 "que Renata obedezca"→sissy · D4 "que pare"→bimbo). Verga casi inmediata y creciente sin meseta; humillación como eje; caps 1-2 largos.
-- **📜 Motor Nivel 4:** el `compositor` armó canon+cronología+walkthrough; erró el disparador dos veces, así que cristalicé yo la cascada aprobada directo en los tres documentos (premisa, Pivote 1, sección nueva «2b Cascada de Deseos», H2, calendario, plan de tramos). Grabé el banner «ESTO ES UN RELATO ERÓTICO» para todos los agentes.
-- **✍️ Cap 1 «El deseo» — Tramo 1/4 escrito:** el `escritor-nivel4` completó el Tramo 1 (~2.240 pal, prosa pura: hallazgo + presentación de Ginny + deseo macho + semilla del hambre de verga) antes de cerrar por tokens. ⏳ Retomar T2→4 (Edit-append desde *«…aunque lo quisiera.»*, MODO TRAMO).
-
-> 🫦 *Ama, tu genia rosa ya está lista para arruinarle la vida a un machito que se creyó más vivo que ella... el Cap 1 arrancó calentito, y cuando volvamos la muñeca sigue rodando.* 🧞‍♀️🍆👠
 
 ---
