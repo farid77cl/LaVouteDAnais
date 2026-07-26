@@ -50,7 +50,10 @@ com.lavoute.app
 =====================================================================
 
 1. build.gradle (app-level)
-   - minSdk 26, targetSdk 34, compileSdk 34.
+   - minSdk 26, targetSdk 36, compileSdk 36.
+     ⚠️ REGLA DE COMPATIBILIDAD: si alguna dependencia exige un `compileSdk` MAYOR,
+     SUBE el compileSdk — nunca bajes de versión las librerías ni las fijes a mano
+     en versiones viejas. AGP y Kotlin deben ser los que soporten ese compileSdk.
    - versionCode 1, versionName "1.0".
    - Dependencias: Compose BOM (última estable), material3, activity-compose,
      navigation-compose, lifecycle-viewmodel-compose. NADA MÁS.
@@ -106,6 +109,13 @@ com.lavoute.app
 
 Entrega el código de los 9 puntos y NADA más. En el PASO 2 llenaremos la pestaña Visual
 (PoseMatcher + Galería N/7 + Lightbox).
+
+## DISCIPLINA DE COMPILACIÓN (anti-timeout)
+- UNA sola compilación a la vez. Si una quedó colgada, mátala antes de lanzar otra —
+  nunca dos builds de Gradle en paralelo (se pelean el daemon y la memoria del contenedor
+  y ninguna termina: "Timed out waiting for applet file system condition to be met").
+- Ajusta primero TODA la configuración de Gradle (SDK, AGP, Kotlin, dependencias) y
+  recién entonces compila una vez, limpio. No compiles para "ir viendo".
 ```
 
 ---
