@@ -15,7 +15,17 @@
 
 ```markdown
 PASO 2 de LV-App 2.0. Sobre el esqueleto de P1, llena la pestaña VISUAL con datos reales.
-Añade dependencias: coil-compose (imágenes), org.eclipse.jgit (clonar/pull del repo), kotlinx-coroutines.
+Añade dependencias (el catálogo quedó minimal tras el P1.2; agrégalas tú, en versión estable
+actual compatible con el Compose BOM 2026.06.01): coil3 (io.coil-kt.coil3: coil-compose +
+coil-network-okhttp, para imágenes), org.eclipse.jgit (clonar/pull del repo), kotlinx-coroutines.
+
+## REPO DE DATOS (crítico — no confundir con el repo de código)
+La app clona el repo de DATOS donde viven las imágenes y la galería:
+    https://github.com/farid77cl/LaVouteDAnais   ← PÚBLICO (clona SIN autenticación)
+Las imágenes están en `05_Imagenes/ele/look<N>_.../ele_<N>_<pose>.png` y la galería en
+`00_Ele/galeria_outfits.md`. NO clones `farid77cl/LV-App` (código v1, privado, SIN imágenes)
+ni `farid77cl/LV-app-2` (el código de ESTA app). Son tres repos distintos.
+⚠️ Es un repo grande (miles de PNG): clona shallow (`--depth 1`) y no bloquees la UI.
 
 ## OBJETIVO
 La pestaña Visual muestra la Galería de Outfits agrupada por look, con indicador N/7 poses
@@ -23,9 +33,9 @@ y portada jerárquica, leyendo las imágenes del repositorio GitHub clonado en e
 
 ## ARCHIVOS A GENERAR (SOLO ESTOS)
 1. data/git/GitRepository.kt
-   - Clona `https://github.com/farid77cl/LV-App` a almacenamiento interno de la app;
-     si ya existe, hace `pull`. Expone `localRepoDir: File` y `suspend fun sync()`.
-   - Usa JGit. Maneja errores sin crashear (Result/try-catch).
+   - Clona `https://github.com/farid77cl/LaVouteDAnais` (shallow) a almacenamiento interno
+     de la app; si ya existe, hace `pull`. Expone `localRepoDir: File` y `suspend fun sync()`.
+   - Usa JGit. Maneja errores sin crashear (Result/try-catch). Todo fuera del hilo principal.
 
 2. data/PoseMatcher.kt (objeto utilitario central)
    - Poses canónicas: Standing, Back View, Seated, Side Profile, Ditzy, POV, Odalisque.
@@ -61,3 +71,19 @@ su portada correcta y el badge N/7 correcto · el filtro de lote funciona · pul
 
 Entrega SOLO estos 8 puntos. En P2.1: Lightbox + Creador de Prompts.
 ```
+
+---
+
+## ✅ Cómo verificar antes del P2.1
+1. Que la app clone **`farid77cl/LaVouteDAnais`** (público, con `05_Imagenes/`), **no** `LV-App`.
+2. Que la Galería Visual **pinte imágenes reales** y no salga vacía (síntoma de repo equivocado).
+3. Que el badge **N/7** y la **portada jerárquica** (Standing > Side Profile > Seated) sean correctos.
+4. Que `PoseMatcherTest` pase con tests **reales** (alias→canónica, sufijo `_2`, case-insensitive).
+5. El catálogo `libs.versions.toml` **creció** solo con coil3 + jgit + coroutines (sin re-meter el kitchen-sink que el P1.2 purgó).
+6. **Pushear** desde AI Studio (sus commits no llegan a GitHub hasta que la Ama pushea).
+7. Verde → **P2.1 (Lightbox + Creador de Prompts)**.
+
+> ⚠️ **TRES repos, no los confundas:**
+> · `farid77cl/LV-app-2` = código de ESTA app (2.0).
+> · `farid77cl/LaVouteDAnais` = datos/imágenes (**público** a propósito, para clonar sin auth).
+> · `farid77cl/LV-App` = código v1 (privado, era v4.12 — NO tocar).
