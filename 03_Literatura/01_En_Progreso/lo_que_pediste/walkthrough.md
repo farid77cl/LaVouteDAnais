@@ -80,6 +80,23 @@
 
 - **22/07/2026 (v4.8 — Fase 0 + reescritura desde cero)** — La Ama rediseñó el motor: vuelve la **Fase 0 de Investigación** (*"la investigación es para ver el tono, saber lo que calienta del tema"*) y la Temperatura del Validador pasa de conteo a **gate medido**. Este relato fue el **primero en pasar por v4.8**: se corrió la Fase 0 retroactiva (`investigacion.md`, 7.960 palabras, 30 fuentes), se cerró el Gate, y la Ama dictó las 4 decisiones (neutro · Ginny fresa mexicana · el limbo es el relato, el bimbo al final · deseo genérico). Canon actualizado con §4b Motivos Permanentes y §4c Curva de Resistencia. **Cap 1 v0.2 descartado entero** (12.100 palabras: chileno + Ginny no-fresa + el calor solo en el diálogo de ella) y archivado en `borradores/capitulo_1/`. Arrancó la **v0.3 desde cero en 5 tramos**.
 
+## 🔮 GUARDADO PARA LA PRÓXIMA REESCRITURA (Ama 27/07/2026) — NO aplicar en la v0.5
+
+> **Idea de la Ama, literal:** *"quizás Ginny mágicamente hace que en su propia entrepierna crezca un bulto, grande, para efecto de tentación."*
+>
+> **Estado:** guardada por orden explícita de la Ama. **No entra en la v0.5** (rework de voz/temperatura en curso). Se diseña al abrir la versión siguiente.
+
+**Por qué es buena (y por qué resuelve el problema de fondo):** el diagnóstico de la v0.4 fue que *Ginny tienta con el cuerpo de otro* — es una narradora de audio-porno y el objeto del deseo siempre es un tercero ausente (la verga fantasma, el hombre sin cara). Un bulto propio **le da cuerpo deseable a Ginny dentro de la escena**: la tentación deja de ser descriptiva y pasa a ser presencial. Es la solución estructural al reclamo *"como lector no me está pasando nada con la tentación de Ginny"*, y encaja perfecto con el Filtro Bimbo sincero — se lo hace crecer sin medir lo que provoca, como quien saca un dulce del bolsillo para convidar.
+
+**Cuatro decisiones que hay que tomar ANTES de escribirla (son de la Ama, no del Escritor):**
+
+1. **¿Reemplaza o precede al hombre sin cara (H11/H17)?** Si Ginny tiene verga propia, hay que decidir para qué sigue existiendo el hombre anónimo. Dos caminos limpios: (a) el bulto **tienta** y el hombre **ejecuta** — la escalera se mantiene; (b) Ginny **absorbe** la función y H11/H17 se derogan. Afecta anclajes de `cronologia.md`.
+2. **El anonimato como motor queda en juego.** El T3 de la v0.5 construyó un beat fuerte sobre la falta de cara: *"no lo estaba cogiendo un hombre, lo estaba cogiendo una verga"* — sin testigo, sin juicio. Con Ginny hay cara, hay alguien mirándolo y felicitándolo. **No es peor: es otro morbo** (la humillación de ser visto sube fuerte). Pero es un cambio de eje, no un añadido.
+3. **Escalera con el Cap 2.** El canon ya tiene *"se insinúa la verga negra (H6)"* en el Cap 2. Hay que ordenar la progresión para que el bulto de Ginny no le robe el pico.
+4. **Declara un eje erótico nuevo** (futa/dickgirl) en un relato hasta ahora F/M con Renata dominando. Es coherente con el universo bimbo y con Ginny, pero conviene que entre declarado, no de contrabando — y probablemente pida su pasada de `investigacion.md` (§2 qué calienta · §2b tono).
+
+**Cómo escribirlo cuando toque:** el bulto crece **en escena**, no aparece hecho. Ginny no lo anuncia como seducción — se lo hace porque le pareció práctico o divertido, se sorprende ella misma, y lo trata como un juguete nuevo. El vinilo rosa tensándose, el peso desplazándose cuando cruza las piernas, ella acomodándoselo sin darle importancia mientras habla de otra cosa: **todo lo que en la v0.4 era descripción verbal pasa a ser presencia física**. La capa sensorial va entera del lado del hambre, como siempre.
+
 ## Bitácora
 
 - **20/07/2026** — Compositor Nivel 4: canon + cronología + walkthrough creados. Intake cerrado del brief.
