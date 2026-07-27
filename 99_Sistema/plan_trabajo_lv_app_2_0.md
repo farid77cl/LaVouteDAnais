@@ -14,6 +14,8 @@
 2. **"Genera SOLO estos archivos · no toques nada más."** Alcance cerrado por prompt.
 3. **Verificar → pushear → siguiente.** No se avanza al paso N+1 hasta que el N buildea verde.
 4. **Tests reales, nunca `assertTrue(true)`.**
+5. **Compilar NO es criterio de éxito para una capa de datos** *(aprendido en el P2.1, 27/07)*. Ese paso entregó tres `BUILD SUCCESSFUL` —incluido `testDebugUnitTest`— con la galería vacía: el único test del repo contaba rutas de navegación y no rozaba el parser. **Todo paso que parsee, transforme o suba algo lleva un test que afirma un valor concreto**, y el reporte debe pegar la salida del *test*, no la del *build*.
+6. **Cuando el prompt dicta un modelo, dicta también el mapeo.** El P2.1 documentó bien el JSON de claves cortas y aparte pidió un data class de nombres largos, sin decir cuál correspondía a cuál. AI Studio ejecutó literal. La ambigüedad del prompt cuesta un paso completo.
 5. **Borrón total:** todo se regenera desde cero (decisión de la Ama 26/07). No se porta código v4.12.
 
 ---
@@ -25,8 +27,9 @@
 | **P1** ✅ | `prompt_app_ai_studio_20_p1_esqueleto.md` | Gradle + Clean Arch + Tema dinámico (Ele/Clara/Anaïs) + NavigationBar 5 pestañas (4 placeholder). App abre y navega. **HECHO 26/07 — commit `250beb6` en `farid77cl/LV-app-2`.** |
 | **P1.1 / P1.2** ✅ | `..._p1.1_saneamiento.md` · `..._p1.2_parche_build.md` | Saneamiento del build: wrapper, keystore, tema oscuro, purga del catálogo. **Aterrizaron a medias pero el build quedó verde** (`build_assemble_2.log`). |
 | ~~**P2**~~ ❌ | ~~`..._p2_visual.md`~~ | **ANULADO 27/07.** Su diseño clonaba el repo de datos con JGit: **~1,56 GB** en el teléfono. El código se pusheó (`59a32b6`) pero **nunca compiló**. |
-| **P2.1** ⏳ | **`..._p2.1_pivote_indice.md`** | **Pivote de arquitectura:** fuera JGit y PoseMatcher. La app baja `app_index.json` (**236 KB**) y carga cada imagen por URL con caché de Coil. Entrega la **pestaña Visual** con galería real, N/7 y portada. ← **PEGAR AHORA** |
-| **P2.2** | `prompt_app_ai_studio_20.1_visual_lightbox_prompts.md` | Visual: **Lightbox** (pinch-zoom) + **Creador de Prompts V3.5** (copiar 1-tap). *(Adaptar: ya no lee del repo clonado, lee del índice.)* |
+| **P2.1** 🟡 | `..._p2.1_pivote_indice.md` | **Pivote de arquitectura:** fuera JGit y PoseMatcher. La app baja `app_index.json` (**236 KB**) y carga cada imagen por URL con caché de Coil. **ATERRIZÓ 27/07 (`6f3faf8`): compila, limpia el repo de verdad y la arquitectura quedó correcta — pero la galería sale VACÍA.** El parser lee `dir/portada/nPoses/poses` y el índice trae `d/c/np/p`. Verificado sobre el clon real. |
+| **P2.2** ⏳ | **`..._p2.2_parche_parser.md`** | **Parche del parser:** tabla de mapeo clave-corta→campo explícita, `raw` viajando por el modelo (hoy hardcodeado en 2 sitios), filtro de lotes derivado de los datos (topaba en L800), y **`IndexApiTest` obligatorio con 7 aserciones concretas**. ← **PEGAR AHORA** |
+| **P2.3** | `prompt_app_ai_studio_20.1_visual_lightbox_prompts.md` | Visual: **Lightbox** (pinch-zoom) + **Creador de Prompts V3.5** (copiar 1-tap). *(Adaptar: ya no lee del repo clonado, lee del índice.)* *(Era P2.2; corrido al llegar el parche, que es más urgente.)* |
 | **P3** 🔝 | *por escribir* | **SUBIDA Gemini → GitHub.** El flujo que la Ama usa a diario: elegir look/pose, pegar o seleccionar el PNG, subir al repo con nombre canónico vía GitHub Contents API. **Sube desde el P6** por prioridad de la Ama (27/07). |
 | **P4** | `prompt_app_ai_studio_20_p4_literatura.md` | Pestaña **Literatura**: Lector Nivel 4 (Luxe Serif, OLED, guarda avance). |
 | **P4.1** | `prompt_app_ai_studio_20.4_audio_player.md` | **Audio**: PlaybackService Media3 + TTS multivoz (Azure es-CL/Google/ElevenLabs) + karaoke sync. |
