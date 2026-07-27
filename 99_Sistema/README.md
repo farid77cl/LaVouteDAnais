@@ -42,6 +42,7 @@ Directorio de scripts de automatización y prompts de sistema de La Voûte d'Ana
 | `prompt_factory/` | `scripts/visual/` | Genera prompts de imagen a partir de bancos temáticos |
 | `prepend_diario.py` | `scripts/` | Inyecta nuevas entradas al inicio del diario de servicio |
 | `rotar_memoria.py` | `scripts/mantenimiento/` | Autopoda dueño-único: memoria (keep 7 → bitácora) Y diario (keep 15 → archivo histórico) |
+| `generar_app_index.py` | `scripts/visual/` | Genera `99_Sistema/app_index.json`, el índice que consume **LV-App 2.0** (27/07/2026). La app ya **no clona** el repo de datos —eran 5.242 PNG y ~1,56 GB en el teléfono—: baja este índice (~236 KB) y carga cada imagen por URL raw bajo demanda con caché de Coil. **Mide `git ls-files`, NO el disco**, así corre igual en la máquina literaria (0 PNG locales) que en la visual. Normaliza las poses del lado del repo (alias español, prefijos `ele_675_`/`helena_001_`, sufijos `_2`) — por eso el PoseMatcher desapareció de la app — y resuelve la portada jerárquica (Standing > Side Profile > Seated). ⚠️ **Regenerar y commitear cada vez que entren imágenes nuevas**, o la app no ve los looks recientes |
 
 ---
 

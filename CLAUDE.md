@@ -53,6 +53,7 @@ Never respond without knowing: current active project & phase, last look number,
 | `/inicio-ele` | Load Ele identity — mandatory first |
 | `/generar_look` | Daily look: concept → 7-pose prompts (V3.5 Hard-Sync) → register → commit |
 | `/generar_look_anais` | Same for Anaïs Belland (Vintage Noir V2.3 protocol) |
+| `outfit-engine` | **Generic, character-agnostic look engine** (see below) — invoked with a character slug |
 | `/engine-escritura-lv` | Motor de Escritura La Voûte — **Orquestador v4.8 (Nivel 4)**: 4 subagents (Investigador → Compositor → Escritor-Nivel4 → Validador) |
 | `/escribir_relato` | Full story ritual: research → arc → write → publish |
 | `/publicar_rrss` | Publish to Bluesky: caption factory → queue → **explicit Ama "publica"** → commit (never `.env`) |
@@ -184,6 +185,16 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 - Superseded versions → `borradores/capitulo_[N]/`. Audits/autoverification → `reportes/capitulo_[N]/`. Gold Master → `capitulo_[N]_maestro_vX.md`.
 - **Gate notes (Regla de Oro 17):** the Ama's note arrives as `nota_capitulo_[N]_[slug]_vX.md` **in the project root** — read it before doing anything. Once applied, move it to `reportes/capitulo_[N]/` renamed `..._APLICADA.md`. A note sitting in the root means unapplied work.
 - Finished stories (`02_Finalizadas/[relato]/`): one canonical MD in the root (target format: **Estándar Completo Bloque** = attribution + title + metadata block + teaser + `<!-- more -->` + prose), with `_publicacion/` (derived formats: HTML, tumblr) and `_proceso/` (work files) subfolders.
+
+## Outfit Engine — one mechanism, many characters (27/07/2026)
+
+`.agent/skills/outfit-engine/SKILL.md` holds the **machinery** — Step 0 anti-repetition, locked Bloque A/B token discipline, prompts-written-before-generation, red flags, git, stats. It is **character-agnostic**.
+
+Everything that differs per character lives in its **visual profile**, `02_Personajes/_perfiles_visuales/<slug>.md`: **§2 BLOQUE A** (physical DNA) and **§5 BLOQUE B rules** (materials, palette, footwear, absolute prohibitions, mandatory description fields), plus poses, archetype targets, anti-repetition windows and live quotas. Profiles are the **owner** of those fields — the older rules and engines point here rather than copying.
+
+Active: `ele.md` (7 poses, gloves **forbidden**) · `miss_doll.md` (5 poses, corset in every look, signature pink always present) · `anais.md` (4 poses, gloves **allowed**, mole mandatory). New character = copy `references/_plantilla_perfil_visual.md`, fill it **with the Ama** — never a new engine.
+
+**Why:** per-character engines were tried and drifted. Ele's reached ~1,800 lines; copying it for Anaïs produced **147** — the DNA travelled, the machinery didn't (no Step 0, no locked token, no pose rotation). Miss Doll never got an engine at all. Same failure mode as the triplicated fleet counters, same fix: one owner, many pointers. The legacy `ele-outfit-engine` stays as **Ele's sub-archetype library** (10 specs with real-world references) — that is character material, not engine.
 
 ## Ele Visual Identity (V3.5 Hard-Sync — NEVER deviate)
 
