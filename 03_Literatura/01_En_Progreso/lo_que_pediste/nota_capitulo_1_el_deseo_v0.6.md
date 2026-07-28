@@ -1,0 +1,1 @@
+cuando se presenta Ginny y se la para a Gonzalo, que sea explícito que Ginny se pone contenta porque a Gonzalo se le pone dura la verga
