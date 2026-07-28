@@ -7,6 +7,14 @@
 > investigación es **retroactiva**: no reescribe nada, entrega materia. La Ama decide después qué se salva.
 > Tema central: **hambre de verga implantada + MtF LENTO (andrógino/femboy) + humillación de gozar lo prohibido.**
 
+> 🆕 **EXTENSIÓN 28/07/2026 — EJE FUTA / SEXUALIDAD AMBIGUA.** Directiva de la Ama: *"que sea ella misma
+> que usando su magia empieza poco a poco a mostrar una verga en su entrepierna… **Reemplaza al hombre sin
+> rostro por Ginny.** Hace mejor la tentación y da una sexualidad más ambigua."* El hombre anónimo (H11/H17)
+> queda derogado: Ginny deja de narrar el deseo de un tercero y **pasa a ser** el deseo.
+> **Nada del documento original se reescribe.** Se AÑADEN, marcadas con 🆕: **§2d** (qué calienta de la futa) ·
+> **§3.7** (banco sensorial del bulto que crece) · **§4.3bis** (cómo conserva el desinterés teniendo verga propia) ·
+> **§4.3ter** (la reversión a hombre para no ser pillada) · **M7** en §5 · bloque nuevo en §7 · fuentes en §8.
+
 ---
 
 ## 1. Declaración de Intención (palabras literales de la Ama)
@@ -86,6 +94,77 @@ Este es el pedido central de la P2 y **no existe todavía en el repo**: no hay u
    - *"no single thing could break it. It took an assault from many things working in tandem"* — la cáscara no se rompe de un golpe: se rompe por acumulación. Justifica estructuralmente el "no una sino 2 o más veces".
 6. **Cómo apelar a ese público sin traicionar el horror:** la prosa debe encontrar **hermoso y deseable** el cuerpo andrógino de Gonzalo aunque él lo odie. El hombre anónimo lo mira y le gusta lo que ve. Ginny se lo dice como elogio sincero. El espejo devuelve algo que funciona. **El horror es de Gonzalo; el deseo es del texto.** Esa disonancia es a la vez el eje nuevo y el motor de humillación.
 
+### 2d. 🆕 (extensión 28/07/2026) 🔥 QUÉ CALIENTA DE LA FUTA / SEXUALIDAD AMBIGUA
+
+**Cobertura previa en este documento: CERO** (verificado: `futa`, `bulto` y `entrepierna` no aparecían ni una vez
+en la versión del 22/07). Todo lo de abajo es materia nueva.
+
+#### La hipótesis rectora: verificada, con una corrección importante
+
+La §2c estableció, para el femboy, que *"la erótica vive en la TENSIÓN, no en la resolución — si la base masculina
+desaparece, se apaga el fetiche"*. La pregunta era si el mecanismo opera igual invertido en Ginny (base bimbo
+hiperfemenina + verga abajo).
+
+**Se confirma el principio y se refuta la simetría exacta.** El principio es el mismo —la carga vive en la
+yuxtaposición de significantes de género, no en la resolución— pero **la distribución es asimétrica**, y ahí está
+la regla operativa:
+
+| | Femboy (Gonzalo, §2c) | Futa (Ginny, §2d) |
+|---|---|---|
+| **Base** | Masculina, **difusa** (hombros, barba, voz, estatura) | Femenina, **total y sin fisuras** |
+| **Elemento en tensión** | Significantes femeninos repartidos por todo el cuerpo (línea, piel, boca, dedos, gesto) | **UN órgano, hiperlocalizado** |
+| **Lo que mata el fetiche** | Que la base masculina deje de leerse (demasiada feminización) | **Cualquier** masculinización fuera de la verga |
+| **Cómo se sube la temperatura** | Feminizando la superficie | **Feminizando MÁS**, mientras el órgano crece |
+
+Evidencia: la definición del género describe *"characters who have a gynomorph-female or **overall feminine
+body**, but have both female and male primary genitalia"* (Wikipedia, *Futanari*). El análisis de género más
+articulado que se encontró lo formula como que el personaje puede *"exert masculine sexuality **without being
+masculine**"*, lo que la vuelve *"attractive but not intimidating"* (AnimeNation, *Ask John: What is Futanari and
+Why is it Popular?*). Y en el registro real: en el estudio de la UC Riverside sobre hombres heterosexuales atraídos
+por mujeres trans (236 espectadores, 69% heterosexuales), la formulación de un participante es exactamente la
+misma economía — *"I think it's just the feminine form that does it for me. Penis or no penis."*
+
+> 🔴 **REGLA DURA CONFIRMADA: Ginny no se masculiniza ni un gramo mientras tienta.** Ni hombro, ni mandíbula,
+> ni voz, ni postura abierta, ni una mano que agarra distinto. **Lo único que crece es la verga; todo lo demás
+> se vuelve MÁS bimbo, no menos** — más gloss, más pestaña, más vocecita, más "ji, ji". El calor está en la
+> DISTANCIA entre las dos cosas: cada centímetro que crece abajo hay que pagarlo con un gramo más de muñeca
+> arriba. Un solo rasgo masculino de más y deja de ser Ginny-con-verga: es un hombre con peluca, y ahí el
+> capítulo se apaga. (Única excepción: **el interruptor** del cierre, §4.3ter — y es *después* de la descarga,
+> a propósito, y funciona justamente porque rompe esta regla.)
+
+#### Los puntos calientes
+
+| # | Punto caliente | Por qué prende | De dónde sale |
+|---|----------------|----------------|---------------|
+| **F1** | **La línea que aparece donde no había.** El primer plano en que la tela deja de estar plana. Todavía no es un bulto: es una línea, y solo se ve cuando ella se mueve | Es un **descubrimiento, no una exhibición** — el lector lo ve antes de que nadie lo nombre. Réplica exacta del punto caliente #1 del relato (el chasquido antes de la explicación): la carne primero, la palabra después | Canon P1 · antología de la casa invertida (§3.7) |
+| **F2** | **Que ella no lo esconda ni lo anuncie.** Sigue hablando de otra cosa mientras eso crece | Una erección es autonómica: **no se decide**. Un cuerpo que informa sin permiso es el motivo central del relato aplicado a la tentadora. Y como ella no lo usa como amenaza, no hay a quién resistirse: es la técnica permisiva de §4.3 vuelta anatomía | StatPearls, *Physiology, Erection* (vía parasimpática, involuntaria) + §4.3 |
+| **F3** | **La mirada que baja y vuelve a subir**, y él contestando una pregunta que no oyó | Está medido: la primera fijación va casi siempre a la cara, y **después** al pecho y a la pelvis; con el cuerpo expuesto la mirada se sesga *lejos* de la cara, hacia pecho y pelvis. El lector hace lo mismo que Gonzalo mientras lee. La vuelta hacia arriba es la vergüenza | Rupp & Wallen, *Sex differences in viewing sexual stimuli* (Hormones and Behavior, 2007) |
+| **F4** | **No es "tiene verga": es que cada vez tiene más.** Cuatro estados visibles, cada uno más difícil de ignorar | El fetiche no está en el objeto sino en el **reloj**: anhelo + anticipación es el primer pilar de Morin, y un objeto que crece renueva la anticipación cada escena en vez de gastarla | Morin, *The Erotic Mind* + fisiología (§3.7) |
+| **F5** | **🔴 Que le haya crecido a ELLA y no a él.** Gonzalo pidió coger como a los veinte y la verga que apareció en la sala **es de la genio** | Es el Filtro Bimbo hecho carne y el mejor punto caliente disponible para ESTE relato: ella le dio el hambre y se quedó con la verga. La ironía no la dice nadie — está parada frente a él, creciendo | `ficha_ginny.md` (Filtro Bimbo) + canon §2b |
+| **F6** | **La cara de muñeca encima de eso.** Gloss, pestañas postizas, uñas de cinco centímetros, "ji, ji" — y abajo, la cosa | Es la tensión pura del género en un solo plano: cuerpo enteramente femenino + genital masculino, sin resolución. El contraste **es** el fetiche | Wikipedia, *Futanari* · AnimeNation |
+| **F7** | **Que él ya no pueda archivarlo.** Con el hombre sin cara podía decirse *"no era un hombre, era una verga"*. Con Ginny no hay categoría donde meterlo | La §2c ya identificó el morbo de lo ilegible ("ni y ambos") **del lado del que se transforma**; acá se le aplica al **objeto de deseo**. Le saca la última coartada, que era su taxonomía | Thorkelson, *Androgyny is a nonbinary desire* (§2c) + nota Ama v0.5 |
+| **F8** | **Que ella pueda contarlo desde los dos lados.** Mientras él la chupa, ella describe qué se siente **arriba y abajo a la vez** | Salto de calidad del motor de T2: la respuesta ideodinámica (§4.3) funciona mejor con el referente presente. Ginny deja de narrar la verga de un tercero y narra **la suya, en tiempo real**. El género lo tiene canonizado: *"she has the unique ability to simultaneously experience male and female sensual pleasure"* | AnimeNation + §4.3 (respuesta ideodinámica) |
+| **F9** | **El material que delata.** El vinilo rosa como instrumento de medición: se tensa, chirría entre los muslos, marca la costura | El látex *"acts as a suit of armor that smooths out the body's silhouette"* y a la vez **"you notice every curve and wrinkle"**: no deja nada a la imaginación salvo el detalle, que es exactamente la dosis que más calienta | Luximous, *What Does Latex Clothing Feel Like* + KinkProjects |
+| **F10** | **El primer roce sin querer**, a través del material: ella se sienta cerca, se agacha, se estira — y eso lo toca, tibio, a través de una capa de vinilo | El látex transmite **calor corporal y una película de humedad** que lo vuelve resbaloso: el contacto se registra como algo vivo y tibio con una piel falsa encima. Y no lo hizo a propósito, que es lo que lo vuelve insoportable | Luximous (calor atrapado + capa de humedad) |
+| **F11** | **Que la boca se le llene de agua igual.** El hambre implantada no pregunta de quién es | El *wanting* sensibilizado se dispara por la señal, no por la categoría (§4.1/§4.2). El horror de Gonzalo acá no es "es una mujer" ni "es un hombre": es que **su cuerpo no hizo la pregunta** | Berridge & Robinson (§4.1) |
+| **F12** | **🔴 La comparación.** Las dos a la vista al mismo tiempo, la de él dura contra el pantalón y la de ella creciendo — y la que él quiere no es la suya | Humillación nueva y específica del eje: no es que lo obliguen, es que **queda medido**. Y encima con lo que él mismo pidió: potencia. La humillación funciona porque tiene más que perder (§4.5) | §4.5 (mecánica de la humillación) + canon P1 |
+
+#### Qué lo rompe (verificado por contraste, no supuesto)
+
+1. **Un solo rasgo masculino fuera de la verga.** Es el fallo mortal. Ver regla dura arriba.
+2. **Que aparezca hecha.** Sin reloj no hay anticipación, y la anticipación es el pilar 1 de Morin. Estrenar el bulto completo gasta en un párrafo lo que da para cuatro escenas.
+3. **Que Ginny la use como poder.** Si ordena, penetra por sorpresa o cobra, deja de ser la genio boba que hace un favor y pasa a ser una dominatrix — que es otro relato, y contradice el invariante de canon (*"NO Ginny malvada ni legalista"*). Ver §4.3bis.
+4. **Que Ginny se avergüence, se tape o pida perdón.** La vergüenza en este relato es **toda de Gonzalo**. Ella no tiene ninguna.
+5. **El chiste con el tamaño.** Ginny es graciosa; la verga no es el chiste. §2b ya lo dice para el sexo entero: el chiste enfría.
+6. **Escribirla con asco o con horror.** Rige el canon: la descripción va **entera del lado del hambre**. El asco es de Gonzalo y va en pinchazos cortos.
+
+#### Registro del eje nuevo (complemento de §2b, que no se toca)
+
+La sexualidad ambigua acá **no es solemne ni trágica**: es **alegre y obscena**. Ginny no está "revelando" nada
+—no hay confesión, no hay closet, no hay drama de identidad—, le pasó algo divertido en el cuerpo y lo comenta
+como comentaría una uña rota. El único que está en crisis de categorías es Gonzalo. **Todo el peso emocional del
+eje vive en él; en ella no vive ninguno.** Ese desnivel es el tono.
+
 ---
 
 ## 3. Banco Sensorial (materia prima para la prosa)
@@ -145,6 +224,73 @@ Este es el pedido central de la P2 y **no existe todavía en el repo**: no hay u
 ### 3.6 Ginny (materia sensorial de la tentadora)
 Ya canonizada, se registra para que el Escritor no la olvide: humo rosa gloss, tacones altísimos, piel **aceitosa, bronceada, con glitter** prendido en hombros y escote, boca inflada de gloss, uñas larguísimas, pelo fucsia, látex/vinilo rosa que no tapa. **Huele a chicle, cócteles tropicales y ozono** — y en el v0.2 aparece el hallazgo bueno: *"olía a chicle y a algo más, algo debajo del chicle"*. **Conservar ese "algo debajo del chicle": es su mejor detalle.** El aura cambia de color (rosa por default, fucsia cuando se ríe).
 
+### 3.7 🆕 (extensión 28/07/2026) EL BULTO QUE CRECE — banco sensorial
+
+**En crudo, como §3.1-§3.6. El Escritor dosifica, yo no.** Es un dispositivo con **reloj propio**: no se describe
+una vez, se describe en cada escena, y cada vez marca una hora distinta.
+
+#### 3.7.1 El reloj — cuatro estados, y hay que plantar el cero
+
+| Estado | Qué se ve | Qué se oye / se mueve | Qué hace ella |
+|---|---|---|---|
+| **0 · la línea base** | Pelvis lisa. La tira de vinilo plana, la tanga marcada y nada más. **Hay que escribirlo explícitamente antes**, o el cambio no se puede medir | El material cruje solo por los muslos | Nada. Ni sabe |
+| **1 · la línea** | Una línea donde no había ninguna. **Solo se ve cuando se mueve**: al cruzar las piernas, al agacharse, al estirarse. De pie y quieta, no está | El vinilo deja de caer recto | Nada todavía. Sigue hablando de otra cosa |
+| **2 · el peso** | Ya no es línea: es volumen, y **cuelga**. Se mueve un cuarto de segundo después que ella | El elástico de la tanga desplazado hacia un lado. El chirrido del material contra sí mismo entre los muslos | Se entera. *"Uy."* Se lo mira con interés técnico, como se miró la tanga en el v0.5 |
+| **3 · el material pierde** | La costura tensa y blanca de estirada, el brillo estirado (el vinilo brilla distinto donde está tirante), la tela subida por un lado | Al sentarse tiene que acomodarlo. Al caminar, golpea | Lo acomoda **como se acomoda un tirante**: dos dedos, sin ceremonia, sin mirar |
+| **4 · afuera** | Se salió del borde. La tira de vinilo ya no la contiene y **ella no hace nada al respecto** | El sonido del elástico al soltarse | Sigue conversando |
+
+**Regla de reloj: nunca retrocede.** Si ella sale de escena y vuelve, vuelve un estado más arriba. Ver M7 (§5).
+
+#### 3.7.2 Cómo se llena — el ritmo real (para que el Escritor no lo escriba parejo)
+
+Datos duros, **para el ritmo, no para nombrar** (§7 prohíbe lo clínico dentro del sexo):
+- El volumen pasa de **menos de 10 mL en reposo a unos 60 mL erecto**; el flujo de sangre se multiplica por **25 a 60 veces** en la fase rápida.
+- Ganar **7,5 cm de largo** exige atrapar entre **80 y 115 mL de sangre**.
+- La rigidez final no es hidráulica sino muscular: la contracción de los músculos de la base sube la presión interna a **varios cientos de mmHg**, muy por encima de los ~100 mmHg del llenado.
+
+**Traducción a prosa:** no crece parejo ni continuo. Crece **a tirones, con el pulso**, se estanca en una meseta,
+y después da un salto que no se ve venir. Y la última parte del crecimiento **no es llenado: es endurecimiento** —
+el tamaño ya está y lo que cambia es que **deja de ceder al tacto**. Dos etapas, dos frases distintas, nunca la
+misma frase.
+
+#### 3.7.3 El vinilo rosa ajustado (el instrumento de medición)
+
+La Ama pidió cambiar el vestuario de Ginny **para que el bulto se note creciendo**. El material canónico de la casa
+ya trabaja a favor:
+- **Temperatura:** *"Initially, the material feels cool against the skin. However, within minutes, it traps your body heat."* → el borde de la prenda está frío y **lo que está debajo, caliente**. Diferencial real, gratis, y a la altura exacta de la cara de Gonzalo cuando ella se agacha.
+- **Humedad:** *"a thin layer of moisture forms between your skin and the garment"*, y eso **lo vuelve más resbaloso y más líquido al moverse**. El vinilo no se pega: se desliza sobre lo que hay abajo.
+- **Sonido:** *"When the material rubs against itself, such as under the arms or between the thighs, it produces a distinct chirp or squeak."* → **el chirrido entre los muslos es el cronómetro audible**: aparece cuando antes no estaba, y después es constante.
+- **Presión:** el látex da *"a gentle, uniform pressure across your entire body"* — el "abrazo". Sobre algo que crece, esa presión uniforme deja de ser uniforme: **empuja hacia un lado**, y por eso el bulto siempre se ve torcido, nunca centrado.
+- **Silueta:** el material *"acts as a suit of armor that smooths out the body's silhouette"* y a la vez hace que *"you notice every curve and wrinkle"*. **Alisa todo el cuerpo y por eso el único accidente del cuerpo es ese.**
+- **Contención que falla:** la tanga funciona sin querer como *gaff*: sostiene mientras puede. La documentación de *tucking* aporta lo que pasa cuando la contención pierde — **calor y humedad atrapados, presión sostenida sobre tejido sensible** —, y lo que se siente al soltarse: presión que cede de golpe. Ginny no está escondiendo nada; **la prenda sí**, hasta que no puede.
+
+#### 3.7.4 Lo que se ve y lo que se adivina
+
+- **La forma se lee sin detalle.** Se ve el largo, el grosor y la dirección; no se ve la piel, ni el color, ni la punta. El contorno obliga a **completar**, y completar es lo que calienta (es la respuesta ideodinámica de §4.3 aplicada a la vista, no al oído).
+- **La medición sin querer:** él ubica dónde termina usando otra cosa como regla (el borde de la mesa, la costura de la tira, su propia mano cuando se acuerda de dónde estaba). Nadie mide a propósito. Todos miden.
+- **Peso y demora:** de los testimonios de *packing* — lo primero a lo que hay que acostumbrarse es *"the feeling of weight in your underwear"*, y el problema práctico es que **se corre de lugar al caminar, sentarse, agacharse**. Ese cuarto de segundo de retraso respecto del cuerpo es el detalle que lo vuelve real.
+- **El olor:** el canon de Ginny ya tiene *"olía a chicle y a algo más, algo debajo del chicle"* (v0.2, hallazgo conservado). **Ahora ese "algo debajo del chicle" tiene ubicación**: está más abajo, es más fuerte cerca, y no huele a nada limpio (el registro de almizcle genital ya está documentado en §3.1). *Que ese olor sea el mismo que él ya conocía sin saber de dónde venía es un cobro de siembra, no un dato nuevo.*
+- **El momento en que él lo mira y hace como que no** — coreografía concreta, toda con base real:
+  - La mirada baja sola (primera fijación a la cara, después pelvis: Rupp & Wallen) y vuelve arriba tarde.
+  - Contesta una pregunta que no oyó.
+  - **Y mientras tanto esconde la suya**: las conductas documentadas para disimular una erección en público son literalmente *"shifting your position or crossing your legs"*, taparse con algo, *"flex your thigh muscles"* y *"think of non-sexy things"*. **Gonzalo ejecuta las cuatro mientras le mira el bulto a la genio.** Ese paralelo —él tapando, ella no— es la escena entera en un gesto.
+
+#### 3.7.5 El lado de Ginny (sin masculinizarla ni un gramo)
+
+**Qué le pasa a ella teniendo eso** — todo en registro bimbo, ninguna nota masculina:
+- **Se entera tarde y por incomodidad, no por calentura.** Primero le molesta la tanga; después mira. *"Uy."* La primera reacción es **de sorpresa divertida**, no de poder.
+- **Lo trata como accesorio**, no como arma: se lo acomoda como un tirante, lo mira como se miró la tanga en el v0.5 (*"con un interés puramente técnico"*), se aburre de él a los dos minutos y vuelve a lo suyo.
+- **Le calienta, y lo dice como quien tiene calor:** su canon ya trae *"hablar de esto me pone toda mojadita. Es normal, ¿no?"*. La línea nueva es la misma con dos direcciones — **le pasa arriba y abajo al mismo tiempo**, y lo comenta con el mismo asombro plano.
+- **El doble canal es su arma de tentación, no su placer privado:** puede describir qué se siente **desde adentro de la verga** mientras él la mira. Es el upgrade de §4.3 (F8): deja de ser un menú y pasa a ser un plato.
+- **Las uñas.** Cinco centímetros de uña le estorban para agarrarla bien y **se ríe de eso**. Es el detalle que garantiza que nunca se lea masculina: no la maneja con soltura, la maneja como una bimbo maneja algo nuevo.
+- **Nada de dolor, nada de disforia, nada de vergüenza.** Cero. No le pesa, no le incomoda moralmente, no la esconde, no la explica.
+- **Lo que no puede pasar nunca:** que se le baje la voz, que se le abra la postura, que le cambie la mano, que se ponga solemne, que use la palabra "hombre" para sí misma, que ordene. Ver §2d, regla dura.
+
+**No encontrado (declarado, no rellenado):** medición clínica citable de **diferencia de temperatura** entre estado
+flácido y erecto (lo documentado es el calor atrapado por el látex, no el del órgano); y descripción en primera
+persona del crecimiento genital rápido como experiencia sensorial — no existe la experiencia, así que **el material
+es analógico**: fisiología del llenado + testimonios de peso (*packing*) + comportamiento del material.
+
 ---
 
 ## 4. Técnica Real
@@ -173,6 +319,144 @@ Ginny no fuerza, no hipnotiza y no amenaza — y sin embargo lo dobla. La técni
 - **Respuesta ideodinámica:** describir una experiencia sensorial produce la respuesta corporal correspondiente (el limón hace salivar). **Este es el motor entero de T2**: Ginny describe y el cuerpo de Gonzalo responde. Es también el mecanismo por el que la Ama quiere que la tentación **pase al lector**.
 
 **Regla de escritura derivada:** Ginny **nunca usa el imperativo** salvo en broma. Describe, ofrece, presupone, se ríe. Si en un párrafo Ginny ordena, ese párrafo está mal.
+
+### 4.3bis 🆕 (extensión 28/07/2026) RE-AUDITORÍA DEL OFICIO DE TENTAR — ¿cómo conserva el desinterés teniendo inventario propio?
+
+El §4.3 está construido para una Ginny que tienta con la verga de **otro**: desinteresada, sin nada que ganar,
+*"no te estoy obligando a nada, cosita"*. Con verga propia pasa a tener **algo que ganar**, y eso amenaza su
+invariante de canon (no sádica, no legalista, indiferencia alegre). Auditoría:
+
+#### Qué sobrevive intacto y qué se fortalece
+
+- **Sobrevive todo el kit.** Lenguaje permisivo, órdenes encajadas, presuposición, siembra: nada de eso depende de quién sea el dueño de la verga.
+- **Se fortalece la respuesta ideodinámica.** Es el motor de T2 y ahora tiene **referente presente**. Describir un limón hace salivar; describir el limón que está sobre la mesa hace más. Ginny deja de contar cómo es y pasa a contar **cómo se siente esto, ahora**. Ganancia neta grande y gratis.
+- **Se fortalece la presuposición**, porque puede dejar de ser verbal: sentarse a la altura correcta y seguir hablando del clima **presupone** más que cualquier frase.
+
+#### Dónde está el riesgo real (y no es donde parece)
+
+El riesgo **no es que se vuelva sádica**. El riesgo es que se vuelva **transaccional**, y hay una razón técnica: el
+lenguaje permisivo ericksoniano funciona porque **el sujeto no percibe una agenda**. En el momento en que Gonzalo
+puede pensar *"ella quiere que se la chupe"*, el *"no te estoy obligando a nada"* deja de ser cierto y pasa a ser
+un argumento de venta — y la resistencia, que hasta ahí no tenía contra qué apoyarse, encuentra un enemigo. **Una
+Ginny que quiere algo es una Ginny resistible**, y el capítulo pierde su mecanismo.
+
+#### La hipótesis de la Ama, evaluada
+
+> *Que el bulto le crezca casi sin que ella lo administre — le pasa, la sorprende, se ríe de sorpresa, y lo ofrece con el mismo tono de favor de siempre.*
+
+**Correcta en el mecanismo, insuficiente como está formulada.** La sorpresa resuelve el *origen* del bulto pero no
+resuelve qué hace ella **después** de saber que lo tiene: si desde el minuto dos lo administra, el problema vuelve
+igual. Faltan dos piezas, y la segunda es la que de verdad cierra el asunto:
+
+1. **Que le crezca hablando, no queriendo.** El bulto avanza cuando ella **describe** —o sea, como efecto colateral de tentar, no como herramienta de tentar—. Se entera **después que el lector y después que Gonzalo**. La sorpresa es genuina y **se repite**: no aprende, no se acostumbra, no capitaliza. Coherente con su canon (*"incapacidad cognitiva sincera"*, *"se aburre rapidísimo"*).
+2. **🔴 El reencuadre que lo resuelve de raíz: para ella no es inventario, es LOGÍSTICA.** El favor no cambió de naturaleza, se volvió más cómodo. Antes tenía que materializar a alguien; ahora **se ahorra el trámite**. *"Ay, ¿y para qué traigo a alguien?"* — es Filtro Bimbo puro: resolvió un problema de organización, no una necesidad propia. **Con ese marco puede tener verga y no ganar nada**, porque lo que ella cree estar haciendo sigue siendo un favor, y encima uno más práctico.
+3. **Puede ganar; lo que no puede es SABER que gana.** Si nota que se beneficia y ajusta su conducta para obtenerlo, se vuelve legalista y cae en el cementerio del canon. Que goce está bien. Que lo **planifique**, no.
+
+#### Regla operativa para el Escritor (§4.3bis)
+
+| # | Regla | Test de falla |
+|---|-------|---------------|
+| **B1** | El bulto crece **cuando ella habla del tema**, nunca cuando ella lo decide. Ella se entera al final | ¿Ella lo hizo crecer a propósito en algún párrafo? Está mal |
+| **B2** | **Cero imperativo** (regla vieja de §4.3, sigue rigiendo y ahora importa el doble) | ¿Dijo "chúpamela"? Está mal. Dice qué es, cómo se siente, y qué pasaría |
+| **B3** | **Nunca pide, nunca cobra, nunca condiciona.** Ni una vez, ni en broma, ni como "juguemos a" | ¿Hay un intercambio en la escena? Ginny murió |
+| **B4** | Cuando él lo mira, **ella no lo aprovecha**: se distrae con otra cosa. La indiferencia es lo que lo enloquece | ¿Ella se dio cuenta de que la miró y sonrió con intención? Está mal |
+| **B5** | **El orgasmo no la modifica.** Acaba fuerte, ruidosa y un poco absurda, y a los diez segundos está hablando de otra cosa. Sin ternura, sin triunfo, sin gratitud, sin cambio de registro | ¿Después de acabar quedó "distinta"? Está mal |
+| **B6** | El marco sigue siendo **el favor**, ahora ampliado: *"ya ni tienes que esperar a nadie"*. Es una comodidad que ella le ofrece, no un deseo que ella satisface | ¿Se lee que ella lo necesitaba? Está mal |
+
+### 4.3ter 🆕 (extensión 28/07/2026) GINNY VOLVIÉNDOSE HOMBRE PARA NO SER PILLADA (el interruptor)
+
+> Directiva literal de la Ama (28/07/2026): *"habría que terminarlo luego de que se la maman a Ginny y ahí sea
+> descubierto por la esposa. Ginny, para no ser descubierta, cambia más su cuerpo a hombre. El esposo se
+> avergüenza, tartamudea, la esposa se enoja y para solucionar eso el esposo pide el segundo deseo."*
+
+Este beat es **deliberadamente lo contrario de todo lo anterior**: ocurre DESPUÉS de la descarga, **enfría a
+propósito**, y funciona precisamente porque **rompe la regla dura de §2d** (Ginny no se masculiniza). Por eso se
+llama *el interruptor*: **se usa una sola vez, después del pico, y nunca antes.**
+
+#### 4.3ter.1 Cómo enfriar sin desactivar retroactivamente el calor
+
+Hay mecanismo real y es el hallazgo más útil de esta extensión:
+
+**La excitación suprime el asco.** Borg & de Jong (PLoS ONE, 2012, n=90) demostraron que el grupo con excitación
+sexual inducida calificó los estímulos sexuales como **menos asquerosos** y ejecutó **más** tareas repugnantes que
+los grupos control: el efecto no es solo de reporte subjetivo, cambia la **conducta de aproximación**. La literatura
+posterior lo describe como una relación **bidireccional** entre excitación y asco sexual.
+
+**Consecuencia de escritura, y es una regla, no una observación:**
+
+> **El frío no se escribe revisando lo que pasó: se escribe porque vuelve el asco que la excitación tenía apagado.**
+> Lo que pasó fue rico **de verdad, mientras duró**, y sigue siéndolo. Lo que cambió es el estado de él, no el hecho.
+> Por eso los mismos detalles sensoriales que calentaban **no se reescriben en frío**: siguen calientes, y ahora son
+> insoportables justamente por eso. El gusto todavía en la boca. El peso fantasma. La rodilla mojada.
+
+**Prohibiciones que se derivan (esto es lo que mata la mitad de los cierres):**
+- ❌ **Ningún resumen retrospectivo del narrador** en registro frío (*"lo que acababa de hacer era…"*). Eso sí desactiva el calor hacia atrás y es exactamente lo que hay que evitar.
+- ❌ **Ninguna moraleja, ningún "no debía"** (ya prohibido en §7, acá es donde más tienta).
+- ❌ **El hambre NO baja.** El asco vuelve; el *querer* no se toca — son circuitos distintos y el *wanting* está sensibilizado (§4.1). El estado final es el peor de todos: **lo sigue queriendo, ahora le da asco, y lo vieron.** Regla dura de §6: no existe escena donde el hambre baje.
+- ❌ **La temperatura del capítulo no se retracta.** El pico ya ocurrió y queda como pico. Lo que baja es la temperatura **de la habitación**, no la de la escena anterior.
+
+#### 4.3ter.2 Cómo se escribe la reversión (seca, rápida, sin goloseo)
+
+Es la imagen espejo de §3.7 y hay que escribirla al revés en todo:
+
+| El crecimiento (§3.7) | El interruptor (§4.3ter) |
+|---|---|
+| Lento, cuatro estados, escenas | **Una frase.** Lo que tardó cuatro escenas en crecer se deshace en un renglón |
+| Descrito con hambre, apetitoso | **Descrito seco.** Sin adjetivo goloso, sin detenerse |
+| El detalle es el placer | El detalle es lo **mal** que le queda: el vinilo que colgaba tenso ahora cuelga flojo y sobra en otro lado |
+| Ella se vuelve más bimbo | Ella se lleva la bimbo con ella: **lo que se va no es la verga, es Ginny** |
+| El lector mide | El lector **pierde la unidad de medida** |
+
+Detalle físico disponible (todo por inversión del §3.7): la costura deja de estar tensa y se arruga · el chirrido
+entre los muslos se apaga · la prenda queda grande arriba y corta abajo · el glitter sigue ahí, encima de la piel
+equivocada · **el gloss.** El resto lo elige el Escritor.
+
+> ⚠️ **TRAMPA DE CONTINUIDAD (para el Compositor):** el aura rosa de Ginny es canon y **es visible**. Si sigue
+> encendida durante el interruptor, **Renata ve magia** y se cae entero el hallazgo cruel de abajo. El aura tiene
+> que irse con el resto — y que se vaya el aura es, además, la mejor imagen de que Ginny se fue.
+
+#### 4.3ter.3 🔴 El hallazgo cruel — verificado
+
+**Renata no ve una genio. Ve a su marido de rodillas frente a un hombre.** Está verificado que no es una licencia
+narrativa sino cómo funciona la percepción: la categorización de sexo a partir de cara y cuerpo es **rápida,
+automática y anterior a cualquier razonamiento** (respuestas neuronales en el rango de los **170-210 ms**), y en
+los casos ambiguos opera un **sesgo por defecto hacia lo masculino** — *"when in doubt, he is a male"*. Renata no
+decide ver a un hombre: **ya lo vio antes de poder pensar**, en menos de un quinto de segundo, y a partir de ahí
+todo lo que perciba se acomoda a esa categoría.
+
+**Y de ahí sale la crueldad en estado puro:**
+1. **La huida de Ginny ES la humillación de Gonzalo.** Ella se transformó para no ser descubierta **ella** — resolvió su problema. El costo, íntegro, lo paga él, y ella no lo pretendió ni se entera. Es el Filtro Bimbo aplicado ya no a un deseo sino a un reflejo: **crueldad sin maldad**, que es el tono declarado del relato (§2b).
+2. **El hombre sin cara vuelve por la puerta de atrás.** La Ama lo derogó del sexo — y reaparece **en el testimonio de Renata**, que es el único lugar donde de verdad hace daño. El relato borró al tercero de la cama y lo instaló en el recuerdo de la esposa.
+3. **Gonzalo no puede desmentirlo sin invocar magia.** Su única defensa verdadera es indefendible. Eso deja el terreno listo para 4.3ter.4.
+
+#### 4.3ter.4 La vergüenza CON OBJETO y el tartamudeo
+
+El tartamudeo **no es un adorno: es la firma documentada de la vergüenza aguda.** La literatura de emociones
+autoconscientes (línea Tangney) distingue:
+
+- **Vergüenza** = el objeto evaluado es **el yo entero** ("soy esto"). Signos físicos documentados: *"blushing, **stuttering**, sweating, blanching, hesitating, cowering, covering the face, a sinking feeling"*; postura encogida, mirada abajo, cabeza gacha, **ganas de desaparecer o volverse más chico**; y —clave— **menos disposición a admitir lo que se hizo**: la vergüenza empuja a **esconderse**, no a explicar.
+- **Culpa** = el objeto es **el acto** ("hice esto"). No tiene firma expresiva propia y **motiva conducta reparadora**.
+
+**Traducción operativa, y es una cadena causal, no una sucesión de beats:**
+
+1. **Tartamudea porque tiene vergüenza, y por eso mismo NO explica.** Intentar que articule una defensa contradice el mecanismo. Empieza frases y no las termina. Lo que le sale son arranques.
+2. **🔴 El tartamudeo es la voz — y engancha con M3.** El motivo permanente dice *"la voz reconocible aunque suba de tono"*. Acá la vergüenza **le rompe la voz hacia arriba, delante de su mujer, sin que nadie lo haya tocado**: es el pago de M3 en el peor momento posible y no cuesta ni una línea de explicación.
+3. **La vergüenza tiene que tener OBJETO, y el objeto tiene que ser el equivocado.** No se avergüenza de "haber engañado a su mujer" —eso es abstracto y es culpa, no vergüenza—: se avergüenza de **la postura**. Las rodillas, la boca, el hilo, lo que estaba haciendo con la lengua en el segundo en que se abrió la puerta. 🔴 **Y se nombra con la palabra sucia, en su cabeza, no con una perífrasis** — este es exactamente el reclamo de la Ama en la nota v0.5 §2c (*"asco a qué"*): si el cierre repite el pudor del narrador, repite el defecto ya marcado tres veces.
+4. **El Deseo 2 es el gesto reparador de la culpa, no una decisión.** La vergüenza lo hace esconderse (tartamudear, no explicar); la culpa —que sí apunta al acto— es la que empuja a **reparar**, y reparar, en este relato, es correr a la lámpara. Con esto el Deseo 2 deja de ser conveniencia de trama y pasa a tener mecanismo: **pide el deseo porque no pudo hablar.**
+
+#### 4.3ter.5 Orden fijo del beat (para el Compositor) y prohibiciones
+
+**Orden:** descarga real y completa → puerta → **Renata mira** → el interruptor (una frase) → Gonzalo se ve a sí
+mismo en los ojos de ella (no en un espejo: **en ella**) → tartamudeo sin explicación → el enojo de Renata → él
+corre a la lámpara y pide el Deseo 2.
+
+**Prohibido en este beat:**
+- Que Ginny se disculpe, se apure, se ponga nerviosa o mire a Renata con complicidad. Ella no está en crisis: **está resolviendo un trámite.**
+- Que Gonzalo consiga articular una explicación completa.
+- Que Renata entienda, sospeche o vea algo sobrenatural (canon: *NO que Renata sepa del deseo*).
+- Que el narrador resuma o juzgue lo que acaba de pasar.
+- Que baje el hambre. Ni un grado.
+- Que la escena sexual anterior se relea en clave de error. **Pasó, estuvo rico, y ese es el problema.**
 
 ### 4.4 La arquitectura del calor: la ecuación erótica
 Jack Morin (*The Erotic Mind*, sobre 351 relatos de encuentros eróticos pico) formuló: **Atracción + Obstáculos = Excitación**, y cuatro pilares de lo erótico:
@@ -210,6 +494,7 @@ Jack Morin (*The Erotic Mind*, sobre 351 relatos de encuentros eróticos pico) f
 | **M4** | **Ginny presente aunque no esté** | La tentadora no se va de la escena cuando sale | Olor a chicle donde no hay nadie · algo rosa en el rabillo del ojo · la lámpara que cambió de lugar (H16) · una risita que puede ser la tele · el aura rosa filtrándose bajo una puerta | De invitada visible (T1-T3) a presencia ambiental permanente (T4 en adelante). En Caps 2-3 debe estar **incluso en escenas donde no aparece** |
 | **M5** | **La mirada ajena que lo tasa** | El mundo lo nota y no sabe qué está notando. *"Los cuerpos son visibles cuando no se ajustan a la norma"* | El conserje que se demora un segundo de más · la secretaria que le dice "regio" · el tipo del estacionamiento que lo mide de arriba abajo · Renata: *"¿Te hiciste algo? Estás distinto"* · **y a él eso le calienta antes de indignarlo** (H19) | Cap 1: miradas sueltas, sin palabras → Cap 2: humillación social con testigos y comentarios → Cap 3: ya nadie disimula |
 | **M6** | **Renata como testigo pendiente** | La amenaza (y el deseo) de ser pillado, encendida desde antes de que ocurra | La puerta del dormitorio · el ruido de las llaves · el celular boca abajo · la cama compartida donde no se le para · el olor que no se saca de la boca · el aviso de Ginny: *"un día se me va a olvidar"* (H15) | Cap 1: amenaza latente que él trata de administrar → T5: se cumple → Caps 2-3: ella ya no es amenaza, es autoridad |
+| **M7** 🆕 | **🔴 El bulto que crece** (extensión 28/07/2026) | **No es un evento ni un *reveal*: es un reloj.** Un cuarto elemento presente en toda escena donde Ginny esté, que **solo avanza** y que **mide por fuera el hambre que Gonzalo tiene por dentro** (M1 tiene un termómetro visible en la sala). Escala junto a M1, nunca por su cuenta | La línea bajo el vinilo que solo se ve cuando ella se mueve · el peso que llega un cuarto de segundo después que ella · la costura tensa y el brillo estirado · el elástico de la tanga desplazado a un lado · **el chirrido del material entre los muslos** al cruzar las piernas · los dos dedos con que ella lo acomoda como quien se acomoda un tirante · **la mirada de él que baja y vuelve tarde** · el olor que está más abajo y es más fuerte cerca | **Por tramo:** T1 estado 0 — pelvis lisa, hay que plantar la línea base o no hay con qué medir → T2 estado 1 (la línea) y, hacia el final, estado 2 (el peso: *"uy"*) → T3 estados 3-4: el material ya no disimula y ahí ocurre la mamada → T4 (los días): **presente aunque ella no esté** (la marca en el cuero del sillón, el olor, el recuerdo del tamaño) y al reaparecer vuelve **más grande de entrada** → T5 máximo. **🔴 Nunca decrece entre escenas.** Y se apaga **una sola vez**: con el interruptor del cierre (§4.3ter) — único motivo permanente del relato que se apaga, y se apaga **como castigo**, después de la descarga |
 
 ---
 
@@ -241,8 +526,17 @@ Jack Morin (*The Erotic Mind*, sobre 351 relatos de encuentros eróticos pico) f
 
 ## 7. Léxico
 
-### Autorizado (chileno vigente en el canon)
-`verga` · `coger` · `tirar` · `chupar` · `mamar` · `culo` · `potito` (Ginny) · `mojado` · `duro` · `leche` · `acabar` · `correrse` · `arrodillarse` · `de rodillas` · `tacón` · `látex` · `sumisa` · `reina` · `muñeca` · `cosita` (Ginny) · `tontito/tontita` (Ginny) · `weón` · `po` · `cachai` · `heavy` · `rico` · `departamento` · `regio/regia`
+### Autorizado
+
+> ⚠️ **CORREGIDO 28/07/2026 — este bloque estaba fosilizado en chileno.** Se escribió el 22/07 en paralelo a la directiva de la Ama de ese mismo día y nunca se actualizó: autorizaba `weón/po/cachai/heavy/regio`, que **el canon prohíbe expresamente** para este relato. **Dueño único del dialecto: `canon_relato.md` §7** — este documento apunta, no copia.
+
+**Narración y todos los personajes menos Ginny — ESPAÑOL NEUTRO:**
+`verga` (por orden literal de la Ama; es pan-latina, el chilenismo sería `pico`) · `chupar` · `mamar` · `culo` · `mojado` · `duro` · `leche` · `acabar` · `correrse` · `arrodillarse` · `de rodillas` · `tacón` · `látex` · `sumisa` · `reina` · `muñeca` · `rico`
+
+**Solo Ginny — FRESA MEXICANA + inglés salpicado** (única voz marcada del relato):
+`o sea` · `tipo` · `ay` · `no manches` · `neta` · `qué oso` · `padrísimo` · `bien` (intensificador) · `güey` (dosificado) · `cosita` · `tontito/tontita` · `potito` · `like` · `oh my god` · `so` · `whatever` · `cute` · `literal` · `bestie`
+
+⛔ **Derogados el 22/07 al pasar a neutro:** `weón` · `po` · `cachai` · `heavy` · `regio` · `departamento` · `altiro`. Y `coger` **fuera** (en neutro latino significa otra cosa). Si a Ginny se le escapa un `po`, está mal escrita.
 
 ### Prohibido
 - **España:** polla, follar, joder, tío, gilipollas, coño *(como insulto)*, móvil, coche, piso, vale, capullo.
@@ -265,7 +559,56 @@ Jack Morin (*The Erotic Mind*, sobre 351 relatos de encuentros eróticos pico) f
 11. **Humillación de decorado**, sin carga erótica ni consecuencia.
 12. **Callback sin ancla.** Ley de Continuidad — ver `cronologia.md`.
 
+### 🆕 (extensión 28/07/2026) LÉXICO DEL EJE FUTA
+
+> **Registro aplicable:** el que fijó la Ama el 22/07 en `canon_relato.md` §7 — **español neutro** en narración y
+> en Gonzalo/Renata, **fresa mexicana con inglés salpicado** solo en Ginny. Lo de abajo se escribe en ese registro.
+> (Las dos decisiones abiertas de más abajo no se tocan; esta nota solo dice en qué dialecto está escrito el bloque.)
+
+**Cómo la nombra el narrador (neutro, sin pudor):**
+`verga` (la de Ginny, dicha con todas sus letras, igual que la de cualquiera) · `bulto` · `la línea` · `el peso` ·
+`se le marcaba` · `se le notaba` · `la tenía afuera` · `se le paró` · `dura` · `tensa` · `el borde` · `la costura`.
+
+**Cómo la nombra Ginny (fresa, +18, sin eufemismo que reemplace):**
+- ⚠️ **`cosita` está TOMADA**: es como le dice a **Gonzalo**. Usarla para la verga rompe el vocativo canónico y produce ambigüedad en cada línea. **No usar.**
+- Propuestos, en su registro: **`mi verguita`** (contiene la palabra dura, es diminutivo fresa, es suya) · **`esta cosota`** (juega contra el `cosita` de él y es humor de escala bimbo) · `mi juguetito nuevo` · `el bultito` · `esto` señalado con la uña (deixis: sirve una vez, dos como mucho).
+- 🔴 **REGLA ANTI-EUFEMISMO (la más importante del bloque):** el diminutivo va **encima** de la palabra dura, nunca **en lugar de** ella. `mi verguita` es legal siempre porque contiene `verga`; `mi juguetito nuevo` **solo es legal después** de que en esa misma escena ya se dijo `verga`. Un diminutivo que reemplaza a la palabra es el reclamo textual de la Ama (*"estás evitando decir verga"*) con otra máscara.
+- **`potito`** sigue siendo de ella y sigue siendo el culo de Gonzalo. No se traslada.
+
+**Prohibido del eje nuevo:**
+- **Perífrasis de cementerio:** `su miembro`, `su sexo`, `su masculinidad`, `su hombría`, `su apéndice`, `el falo`, `la entrepierna abultada`, `su virilidad`, `aquello`, `eso` (sin deixis física).
+- **Clínico dentro del sexo** (extiende la lista vigente): `pene`, `erección`, `glande`, `escroto`, `testículos`, `tumescencia`. Se dice `se le paró`, `dura`, `la punta`.
+- **Todo lo que masculinice a Ginny:** `él` referido a ella (ver decisión abajo), `varonil`, `viril`, `macho`, `masculino/a` aplicado a su cuerpo, `andrógina` (esa palabra es de Gonzalo, no de ella).
+- **Etiquetas importadas de otro género:** `hermafrodita`, `travesti`, `trans`, `intersex` — Ginny **no es** nada de eso: es una genio a la que la magia le hizo algo. La etiqueta equivocada trae un marco entero que no es el de este relato.
+- **Metavocabulario del fetiche:** `futa`, `futanari`, `dickgirl`, `shemale`. Existen para esta investigación; **jamás en la prosa**.
+
+**🔶 Decisión de género gramatical (recomendación al Compositor, no la resuelvo yo):** durante el interruptor
+(§4.3ter), Renata ve a un hombre pero el narrador está pegado a Gonzalo, que sabe que es Ginny. **Recomiendo que
+el narrador conserve el femenino incluso en el cuerpo revertido** — es más filoso y hace chocar en la misma frase
+lo que Renata lee con lo que Gonzalo sabe, que es el corazón del hallazgo cruel. Alternativa (masculino durante el
+beat) = la fuga de Ginny se completa también en la gramática y el lector la pierde junto con Gonzalo. **Las dos
+funcionan; la primera duele más.**
+
+### 🆕 (extensión 28/07/2026) Trampas nuevas del género futa (se suman a las 12 de arriba)
+
+13. **Masculinizar a Ginny para "subir" el eje.** Es el fallo mortal y es contraintuitivo: la temperatura sube **feminizándola más**, no menos (§2d, regla dura).
+14. **Estrenar el bulto ya hecho.** Sin reloj no hay anticipación, y la anticipación es el pilar 1 de Morin. Gasta en un párrafo lo que rinde cuatro escenas (M7).
+15. **Que Ginny lo use como poder** — que ordene, que empuje, que penetre por sorpresa, que cobre. Rompe el invariante de canon y la convierte en dominatrix, que es otro relato (§4.3bis, B3).
+16. **Que Ginny se avergüence, se tape o se disculpe.** La vergüenza de este relato es **toda de Gonzalo**. Ella no tiene ninguna, ni al final.
+17. **El diminutivo que reemplaza a `verga`.** Ver regla anti-eufemismo arriba.
+18. **El chiste con el tamaño.** Ginny es graciosa; la verga no es el chiste (§2b: el chiste enfría).
+19. **Que el bulto retroceda entre escenas**, o que "aparezca cuando toca". M7 es estado continuo, no evento.
+20. **Dejar el aura rosa encendida durante el interruptor.** Renata vería magia y se cae el hallazgo cruel (§4.3ter.2).
+21. **Escribir la reversión con detalle goloso**, o resumir en frío el sexo que acaba de pasar. La reversión es seca y rápida; el recuerdo queda caliente (§4.3ter.1).
+22. **Bajar el hambre después del descubrimiento.** Vuelve el asco; el *querer* no se toca. Prohibido por §6.
+
 ### 🔶 DOS DECISIONES ABIERTAS (de la Ama — NO resueltas acá)
+
+**DECISIÓN A — Dialecto: ✅ CERRADA POR LA AMA EL 22/07/2026 (registrada acá el 28/07).**
+> **Resuelto:** **español neutro en todo el relato**, con **Ginny en fresa mexicana + inglés salpicado** como única voz marcada. `verga` se conserva por orden literal (*"di verga"*). Chilenismos derogados solo para LQP; el resto de La Voûte sigue chileno. Fuente y dueño único: `canon_relato.md` §7 y §Ginny.
+> El análisis de abajo queda como **registro histórico del trade-off** — ya no es una pregunta abierta. Lo que decía este bloque (*"el canon exige chileno"*) era falso desde el mismo 22/07.
+
+<details><summary>Trade-off original (histórico, 22/07)</summary>
 
 **DECISIÓN A — Dialecto: ¿chileno o español neutro?**
 - **Estado:** contradicción viva. La nota v0.2 dice textualmente *"ginny habla en español neutro, todo el relato en español neutro"*. El `canon_relato.md` §7 y las reglas del repo exigen chileno (`verga`, `coger`, `weón`, `po`, `cachai`) y prohíben léxico de España. El Cap 1 v0.2 ya está escrito con `weón/cachai/po/altiro`.
@@ -276,6 +619,8 @@ Jack Morin (*The Erotic Mind*, sobre 351 relatos de encuentros eróticos pico) f
   - *Chileno:* voz propia, sucia y específica; coherente con el canon del repo y con `de_esteban_a_secretaria`. **Costo:** fricción para el lector no chileno justo en las escenas de mayor carga.
   - *Mixto (Ginny neutra, Gonzalo y Renata chilenos):* aprovecha el contraste — la genio no es de acá — y salva el 90% del texto escrito. **Costo:** requiere disciplina para que no se contagien.
 - ⛔ **No decidido. Decide la Ama.**
+
+</details>
 
 **DECISIÓN B — El deseo inicial: ¿genérico o ya nombrando la verga?**
 - **Estado:** la nota v0.2 pide que el Deseo 1 sea **más genérico** — textual: *"como quiero folllar mucho, quiero sentir cosas que nunca sentí, como para que el deseo de verga sea mas logico"*. El texto actual lo hace pedir explícitamente *"la mejor verga de Chile"*.
@@ -333,6 +678,45 @@ Jack Morin (*The Erotic Mind*, sobre 351 relatos de encuentros eróticos pico) f
 - Diccionario Chileno, *pico* — https://diccionariochileno.cl/term/pico · Jergozo, *pichula* — https://jergozo.com/diccionario-chileno/jerga-sexo/definir/pichula
 - Wikipedia, *Sissy hypno* — https://en.wikipedia.org/wiki/Sissy_hypno
 
+### 🆕 (extensión 28/07/2026) Internas del eje futa
+
+- `03_Literatura/01_En_Progreso/lo_que_pediste/nota_capitulo_1_el_deseo_v0.5.md` — **directiva literal de la Ama** (bulto de Ginny, reemplazo del hombre sin rostro, cierre con la reversión) + el patrón del "pudor del narrador" que rige también para este eje
+- `03_Literatura/01_En_Progreso/lo_que_pediste/capitulo_1_el_deseo_v0.5.md` — vestuario vigente de Ginny (top de látex rosa, tira de vinilo, tanga) y el material que hay que **tensar**: l.183, l.285, l.299, l.311, l.895
+- `03_Literatura/01_En_Progreso/lo_que_pediste/cronologia.md` — H11 / H17 (hombre anónimo, **derogados**) · H6 (verga de látex negro del Cap 2-3, ojo escalera)
+- `03_Literatura/01_En_Progreso/lo_que_pediste/canon_relato.md` — invariantes de Ginny, cementerio, registro fresa mexicana, español neutro
+- `02_Personajes/03_Transformados/ficha_ginny.md` — *"incapacidad cognitiva sincera"*, irreversibilidad alegre, canon del rosa (base de §4.3bis)
+- `01_Canon/antologia_calenton.md` — **precedente invertido de la casa**: el bulto siempre se escribió **desapareciendo** (*"un cuerpo lampiño sin bulto en la entrepierna. Una pelvis lisa, larga, ajena"* · *"Valeria pasó la palma plana sobre el bulto que no era bulto"*). El registro está probado; ahora corre al revés
+- `03_Literatura/02_Finalizadas/de_esteban_a_secretaria/` — *"por el bulto doblado que latía, palpándolo despacio, de tasador"*: material de tela-sobre-bulto ya aprobado por la Ama
+- Verificado: **no existía material previo sobre futa/dickgirl** en el repo. Los ~135 archivos con `bulto`/`entrepierna` tratan el bulto **escondido, aplastado o ausente** — ninguno, creciendo
+
+### 🆕 Externas (consultadas 28/07/2026)
+
+- Wikipedia, *Futanari* (definición: *"overall feminine body, but have both female and male primary genitalia"*) — https://en.wikipedia.org/wiki/Futanari
+- AnimeNation, *Ask John: What is Futanari and Why is it Popular?* (**citas literales en §2d**: *"exert masculine sexuality without being masculine"*, *"attractive but not intimidating"*, *"simultaneously experience male and female sensual pleasure"*) — https://www.animenation.net/blog/ask-john-what-is-futanari-and-why-is-it-popular/
+- Wikipedia, *Transgender pornography* (convenciones del género, audiencia mayoritariamente heterosexual) — https://en.wikipedia.org/wiki/Transgender_pornography
+- UC Riverside News / phys.org, *Study examines straight men and their sexual attraction to transgender women* (236 espectadores, 69% heterosexuales; cita de participante *"I think it's just the feminine form that does it for me. Penis or no penis."*) — https://news.ucr.edu/ · https://phys.org/news/2023-03-straight-men-sexual-transgender-women.pdf *(404 y PDF binario al fetch; recogido vía resumen de búsqueda — **material de segunda mano**)*
+- Rupp & Wallen, *Sex differences in viewing sexual stimuli: an eye-tracking study* (Hormones and Behavior, 2007) — https://pubmed.ncbi.nlm.nih.gov/17362952/ **(base de F3 y §3.7.4)**
+- StatPearls / NCBI, *Physiology, Erection* (fases, presiones, volumen, vía autonómica) — https://www.ncbi.nlm.nih.gov/books/NBK513278/ **(base del reloj de §3.7.2)**
+- Urology-textbook, *Penile Erection: Physiology* (flujo ×25-60; volumen <10 mL → ~60 mL; 80-115 mL para 7,5 cm) — https://www.urology-textbook.com/penis-erection.html
+- Luximous, *What Does Latex Clothing Feel Like — Complete Sensory Guide* (**citas literales en §3.7.3**: frío que atrapa calor, película de humedad, *chirp or squeak*, "the hug", *"you notice every curve and wrinkle"*) — https://luximous.com/blogs/news/what-does-latex-clothing-feel-like
+- KinkProjects, *What Does It Feel Like to Wear Latex?* — https://www.kinkprojects.com/index.php?route=blog%2Farticle&article_id=3
+- TransGuy Supply, *How to Wear a Packer / FTM Packing 101* (peso en la ropa interior, desplazamiento al caminar, sentarse y agacharse) — https://transguysupply.com/blogs/transguy-supply-blog/how-to-wear-a-packer
+- FolxHealth, *Tucking 101 — Safer Tucking* + Trans Lifeline, *Tucking Guide* (calor y humedad atrapados, presión sostenida sobre tejido sensible) — https://www.folxhealth.com/library/how-to-tuck-tips-tricks-and-safety-when-tucking · https://translifeline.org/tucking-guide/
+- Central Texas Urology, *Pants Erection: Understanding and Managing Unwanted Arousal in Public* (**conductas literales de disimulo en §3.7.4**) — https://www.centraltexasurology.com/pants-erection/
+- **Borg & de Jong, *Feelings of Disgust and Disgust-Induced Avoidance Weaken following Induced Sexual Arousal in Women*, PLoS ONE 7(9): e44111, 2012** — https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0044111 **(base de §4.3ter.1 — el hallazgo más útil de esta extensión)**
+- *Bidirectional relationship between sexual arousal and (sex-related) disgust* (PMC) — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10174547/
+- Tangney, *Constructive and Destructive Aspects of Shame and Guilt* (PDF) — http://www.rpforschools.net/articles/ASP/Tangney%201995%20Constructive%20and%20Destructive%20Aspects%20of%20Shame%20and%20Guilt.pdf **(vergüenza = yo entero / culpa = acto; base de §4.3ter.4)**
+- Frontiers in Psychology (2025), *Understanding shame, guilt, embarrassment and pride: a systematic review of self-conscious emotions* — https://pmc.ncbi.nlm.nih.gov/articles/PMC12647085/
+- Wikiversity, *Motivation and emotion — Shame* (**cita literal en §4.3ter.4**: *"blushing, stuttering, sweating, blanching, hesitating, cowering, covering the face, a sinking feeling"*) — https://en.wikiversity.org/wiki/Motivation_and_emotion/Book/2011/Shame
+- *An ecological measure of rapid and automatic face-sex categorization* (Cognition, 2020) + literatura de categorización de sexo (P2, 170-210 ms; sesgo por defecto a lo masculino en casos ambiguos) — https://pubmed.ncbi.nlm.nih.gov/32200287/ · https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12068198/ **(base de §4.3ter.3)**
+
+### 🆕 No encontrado en el eje futa (declarado, no rellenado — 28/07/2026)
+
+- **Fuente analítica citable sobre el "bulto que crece" como dispositivo erótico.** No existe: los buscadores devuelven granjas de SEO (dominios .edu secuestrados incluidos). Lo que hay es **convención de género** (Wikipedia / AnimeNation) + **fisiología** (StatPearls) + **testimonio analógico** (packing / látex). §3.7 está construido sobre esas tres patas, no sobre una fuente directa.
+- **Testimonios en primera persona de consumidores de futa** explicando qué los calienta, en fuente *fetchable*: ResetEra **403**, Grokipedia (*Futanari*) **403**, NamuWiki **403**, Reddit y Quora vetados. La única voz de primera persona recogida es la del estudio de UC Riverside, y llegó por resumen de búsqueda.
+- **Diferencia de temperatura medida** entre pene flácido y erecto: no encontrada en fuente clínica citable. Lo documentado es el calor **atrapado por el látex**, que es otro fenómeno.
+- **Vocabulario en español (neutro o chileno) de comunidad futa** para nombrar la verga de una mujer: no encontrado en fuente citable. Las propuestas de §7 están **derivadas del registro canónico de Ginny** y marcadas como propuestas, no como hallazgo.
+
 ### No encontrado (declarado, no rellenado)
 - Descripción confiable del **sabor del precum** en fuente citable.
 - Testimonios en primera persona de hombres heterosexuales sobre su primera vez chupando, en fuente **fetchable**: Quora y Reddit bloquean el agente (403 / dominio vetado). Lo recogido llegó por resúmenes de búsqueda y es de segunda mano: *"sudden thickness and tart taste"*, *"his cum tasted good, a little salty"*, *"sorta trashy and ashamed at first"*. **Marcar como material débil**: el banco sensorial de §3.1 se apoya sobre todo en anatomía verificable y en la prosa ya aprobada por la Ama.
@@ -340,3 +724,4 @@ Jack Morin (*The Erotic Mind*, sobre 351 relatos de encuentros eróticos pico) f
 ---
 
 *Investigación «Lo que Pediste» — Fase 0, v4.8. La investigación existe para ver el TONO y saber qué calienta del tema (Ama, 22/07/2026).*
+*🆕 Extensión 28/07/2026 — eje futa / sexualidad ambigua: §2d · §3.7 · §4.3bis · §4.3ter · M7 · léxico y trampas 13-22 del §7 · fuentes del §8. Nada del documento original fue reescrito.*

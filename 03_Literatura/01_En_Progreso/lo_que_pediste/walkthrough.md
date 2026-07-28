@@ -4,6 +4,25 @@
 >
 > 🔥🔥 **RECORDATORIO DE LA AMA A TODOS LOS AGENTES (20/07/2026): ESTO ES UN RELATO ERÓTICO.** Porno literario que debe CALENTAR. El horror lúcido intensifica el morbo, no lo enfría. Cada capítulo descarga sexualmente de verdad, prosa explícita y húmeda, **léxico duro en ESPAÑOL NEUTRO** (`verga` sí; weón/po/cachai NO — cambio de la Ama del 22/07). La Temperatura pesa igual que Narrativa/Continuidad y **es GATE medido** desde v4.8. Ver banner completo en `canon_relato.md`. 🔥🔥
 
+## 📦 GUARDADO PARA EL CAP 2 (Ama 28/07/2026 — «guarda el avance del cap 2»)
+
+> **No existe prosa del Cap 2 y no se escribió ninguna.** Esto es el **material que salió del Cap 1** al rediseñarlo, parqueado acá entero para que no se pierda ni se use antes de tiempo. Dueños formales: `canon_relato.md` §6 (fila Cap 2) y `cronologia.md` §3. Este bloque es el índice.
+
+| Qué se movió | De dónde | Estado |
+|---|---|---|
+| **R3 — la resistencia contra el culo** | Cap 1 / T5 | `canon_relato.md` §4c, fila marcada ➡️ **Cap 2** |
+| **El culo, la escena entera** | Cap 1 / T5 | insertado como beat **(3b)** en la fila del Cap 2 del mapa (§6) |
+| **H23** — el culo que se aprieta solo, ordeñando, cuando le acaban adentro | Cap 1 / T5 | `cronologia.md`, marcado ➡️ Cap 2 · **prohibido en el Cap 1** |
+| **H20** — *"Yo no voy a poder vivir sin esto"* (la frase-tesis) | Cap 1 / T5 | ➡️ Cap 2 · **prohibido en el Cap 1**: ahí la cuenta todavía no está hecha |
+
+**Además queda plantado desde el Cap 1 v0.6, listo para cobrarse en el Cap 2:**
+- **H27** — Gonzalo **ve cómo se abre sola la de Ginny** antes de que se lo hagan a él. Por eso, cuando llegue el culo, es **repetición y no idea nueva**.
+- **H33 — el interruptor**: la vergüenza le queda **con objeto** (vio a un hombre, no a una genio), y Renata sigue sin saber nada de magia (**H9 blindado**).
+- **H31** — el Deseo 2 ya **empezó a obrar** en la última página del Cap 1. El Cap 2 abre con el cuerpo ya cambiado.
+- **Objetos vivos:** la **mancha de la alfombra** que no salió · el conserje **Fuentes** · **Renata se levanta los martes a las siete** · la lámpara **girada con el pico hacia su silla**.
+
+⚠️ **Escalera pendiente de resolver al abrir el Cap 2:** el canon tiene el **strap de látex negro de Renata** (H6) como pico del Cap 2 → Cap 3. Ahora el Cap 1 ya entregó una verga real y mágica (la de Ginny). **Hay que reordenar el pico o el strap llega de bajada.** La Ama lo dejó parqueado el 28/07: *"veamos cómo termina este cap antes de reformular el siguiente"*.
+
 ## Estado actual (23/07/2026 — motor v4.8)
 
 - **Fase:** **Cap 1 v0.4 COMPLETO — rework de voz/tentación sobre la v0.3, VALIDADO.**

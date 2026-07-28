@@ -99,6 +99,33 @@ El reporte completo trae **6 micro-fixes** acotados y el detalle de los tres gat
 
 ---
 
+## 5. 🔴 NUEVO CIERRE DEL CAP 1 (Ama 28/07/2026 — segunda sesión)
+
+Palabras literales de la Ama:
+
+> *"Veamos cómo termina este cap antes de reformular el siguiente. Creo que para no alargar mucho este cap, habría que terminarlo luego de que se la maman a Ginny y ahí sea descubierto por la esposa. Ginny, para no ser descubierta, cambia más su cuerpo a hombre. El esposo se avergüenza, tartamudea, la esposa se enoja y para solucionar eso el esposo pide el segundo deseo."*
+
+### Lo que queda decidido por ella
+- **El Cap 1 cierra en la mamada + descubrimiento + Deseo 2.** No se alarga.
+- **El culo sale del Cap 1** → pasa al Cap 2. Con él se van R3, H23 y el *"Yo no voy a poder vivir sin esto"* (H20), que hoy vive en T5 durante la penetración.
+- **Ginny se masculiniza para no ser pillada** — beat de cierre, después de la descarga.
+- **Renata no ve una genio: ve a su marido de rodillas frente a un hombre.** H9 (ella nunca sabe) queda más blindado que antes.
+- **Gonzalo se avergüenza y tartamudea** → Renata se enoja → **de ahí sale el Deseo 2.**
+
+### 🔴 Lo que hay que resolver ANTES de escribir (medido sobre `cronologia.md`)
+
+**a) El descubrimiento va en la SEGUNDA mamada, no en la primera.** La mamada actual es **T3, Día 1 de madrugada**. Cortar ahí borra el T4 entero (Días 2-4: la lámpara que se mueve H16 · el fracaso con Renata + la erección de las 2 AM H18 · el mundo que lo tasa H19) y **borra R2 completa** — o sea el capítulo se queda con **una sola caída**, contra la directiva raíz de la Ama en §1 de la investigación: *"no una si no que 2 o mas veces en la tentación"*.
+→ **Forma propuesta (conserva 5 tramos y el calendario Días 1-5 intactos):** T1 y T2 igual (con el bulto de Ginny reemplazando la materialización del hombre) · **T3 = primera mamada, el cuerpo lo lleva** (cae R1) · **T4 = la resistencia entera, sin tocar** · **T5 = segunda mamada, se arrodilla solo** (cae R2, ya sin coartada) **→ Renata abre la puerta → Ginny se vuelve hombre → tartamudeo → Deseo 2.**
+→ Único traslado al Cap 2: **el culo** (R3, H23).
+
+**b) La redacción del Deseo 2.** El canon vigente (`cronologia.md` línea 26 + H2) lo tiene como *"quiero ser bien hombre otra vez"*. El encuadre nuevo lo detona la **rabia de Renata**, no el remordimiento.
+→ **Propuesta:** que NO lo pida deliberadamente. Que se le salga tartamudeando como defensa ante ella (*"yo no soy así, yo soy bien hombre"*) y **Ginny lo tome como deseo**. Filtro Bimbo en su forma más pura: ni siquiera quiso pedirlo. Conserva H2 verbatim y evita el pedido calculado.
+→ ⛔ **Decide la Ama.**
+
+**c) Encaja con lo ya investigado** (no lo contradice): §6 dice *"NO puede pedir el Deseo 2 antes de que Renata lo vea. El detonante es la mirada de ella, no el remordimiento propio"* ✅ · §2 punto 13 pide el descubrimiento *"con la mamada todavía en la boca"* ✅ (mejor que el H12 actual, que lo pilla durante el culo).
+
+---
+
 ## ⏳ Estado al momento de escribir esta nota
 
 - **Cap 1 v0.5 completo:** 19.765 palabras, 5 tramos, prosa pura, `cronologia.md` actualizada (H24-H31).
