@@ -1,164 +1,126 @@
-# Capítulo 1: La recomendación (v0.4)
+# Capítulo 1: La Recomendación
 
-Al Rodrigo lo conozco de octavo básico y en veinte años nunca me ha recomendado algo malo: el gimnasio cuando andaba fofo, el trabajo en la corredora que me salvó el arriendo, hasta el dato de la camioneta cuando estuve apretado de plata. Estuvo ahí cuando se murió mi viejo y cuando me pegó la patada la Pancha. Sin dar discursos, sin ponerse sentimental, solo estando ahí con su metro ochenta y cinco, echado para atrás, sabiendo siempre qué hacer. Si el Rodrigo me dice camina para allá, yo camino, porque el weón siempre tiene la razón.
+Yo cachaba que me faltaba calle. Siempre fui el weón que se quedaba un paso atrás en los carretes, el que pensaba demasiado qué decirle a una mina antes de acercarse y terminaba tomando piscola solo en la esquina de la barra. No era feo, pero me faltaba esa chispa, esa actitud que otros tenían de sobra. Por eso, cuando el Rodrigo me citó en el Bar Nacional esa tarde de martes, yo iba dispuesto a escuchar. El Rodrigo es mi mejor amigo desde la media y, bueno, él es todo lo que yo no soy. El weón ocupa espacio sin esfuerzo. Se sienta y parece que el lugar fuera suyo.
 
-Esa tarde de martes estábamos en el Bar Nacional, dos schop de Cristal helados sobre la mesa de madera manchada, y yo andaba por el suelo. Le estaba contando lo de la Javiera —la vecina del quinto piso que vive al frente de mi departamento, una flaca alta, regia, que me trata como a un mueble transparente cada vez que coincidimos en el ascensor— y en general lo de las minas. Esa lata vieja que me persigue desde la universidad: que siempre voy dos pasos atrás, que me falta esa seguridad dura que tienen otros weones, esa presencia que hace que te miren cuando entráis a un lugar.
+Estábamos tomando unas chelas. Yo le estaba dando la lata sobre una mina de la pega que no me pescaba, quejándome de mi mala suerte. Él me escuchaba en silencio, apoyando esos antebrazos gruesos en la mesa, dándole pequeños sorbos a su vaso. Su calma siempre me ha dado envidia, pero esa tarde me dio esperanza.
 
-—Es que tú te achicai antes de empezar, weón —me dijo el Rodrigo, recostado contra el respaldo de cuero sintético, una mano grande y morena rodeando el vaso de cerveza, tranquilo, sin una sola arruga en la camisa. El Rodrigo nunca tiene apuro. Yo, en cambio, nunca sé dónde poner las manos: las pongo sobre la mesa y me estorban, las bajo a los muslos y me sobran.
+—Estái puro dando jugo, Nico —me dijo por fin, con esa voz grave y tranquila que tiene—. El problema no es la mina. El problema eres tú. Andái mendigando atención, y eso se huele a kilómetros.
 
-—No me achico —le dije, y me achiqué un poco más en la banqueta mientras lo decía.
+Me encogí de hombros, medio picado pero sabiendo que tenía razón. —¿Y qué querí que haga? No me sale ser el weón canchero, po.
 
-Se rió corto, una sola exhalación por la nariz, como cuando algo le parece gracioso pero no vale la pena gastar más aire.
+El Rodrigo sonrió, una sonrisa de medio lado que no le llegó a los ojos. Sacó su celular y tecleó un par de cosas antes de pasármelo por encima de la mesa. En la pantalla brillaba el perfil de un podcast en Spotify. Letras rojas, agresivas, sobre fondo negro. Se llamaba «ALFA».
 
-—Te achicai altiro. Te ponís nervioso, hablai rápido, pedís permiso con los ojos. Te falta peso, Nico. 
+—¿Qué es esto? —pregunté, frunciendo el ceño.
+—Es un podcast de reprogramación subliminal —explicó, recostándose en la silla—. Son frecuencias y afirmaciones. Te lo ponís con audífonos antes de dormir, y la weá trabaja directo en el subconsciente. Reprográmate en macho dominante mientras duermes, dice el eslogan.
 
-—Como si fuera llegar y comprar peso en la farmacia —rezongué, dándole un trago a la chela.
+Lo miré con cara de incredulidad. —¿Me estái webeando? ¿Cachái que esto suena a estafa piramidal, cierto?
+—Pruébalo un par de noches, weón —insistió el Rodrigo, y su tono no admitía discusión—. Vas a tener a las minas comiendo de tu mano, weón. Te vas a levantar sintiéndote el dueño del mundo. Yo no te recomendaría una weá mala, ¿o sí?
 
-—Igual te tengo algo —dijo, sacando el celular del bolsillo del jean. Lo giró sobre la mesa y me mostró la pantalla—. Para eso justamente.
+Tenía razón. El Rodrigo nunca me había cagado con nada. Le devolví el celular, bajé la app en el mío y guardé el podcast en mis favoritos. 
 
-Era una aplicación de podcasts. Portada con fondo negro mate, letras doradas, gruesas, agresivas:
+—Ya, filo. Lo voy a probar hoy día —dije, dándole un último trago a mi cerveza.
+—Esa es la actitud —asintió él, tranquilo, como si ya supiera cómo iba a terminar todo.
 
-**ALFA**
-*El canal de los hombres que sí.*
+***
 
-—Escúchalo en la noche —me dijo, hablando despacio, con esa voz grave que parece que no necesita subir el tono para que todos en la mesa lo escuchen—. Cuando te vai a acostar. Le pónis play, dejáis el celular en el velador y te quedai dormido oyéndolo. No hay que estudiar nada, no hay que hacer ejercicios raros. Te va entrando solo mientras dormís. Es la raja.
+Esa noche, en mi departamento, hice todo el ritual. Me lavé los dientes, me acosté, apagué la luz y me puse los audífonos. Abrí la app. Episodio 1. Duración: 8 horas. La pantalla iluminaba mi cara en la oscuridad. Me sentía un poco ridículo, pero a la vez había una expectación en mi pecho. Apreté *play*.
 
-Pasé el pulgar por la pantalla y leí la bajada del canal, ese copy de marketing que promete milagros a los weones frustrados:
+Una voz profunda y metálica, mezclada con un zumbido de baja frecuencia, empezó a sonar.
+*"Bienvenido a ALFA. Relaja tu cuerpo. Deja que el sonido te atraviese..."*
 
-> **ALFA — El canal de los hombres que sí.**
-> ¿Cansado de ir siempre atrás? ¿De que las minas miren para otro lado mientras tú pides permiso? **Reprográmate en macho dominante mientras duermes.** Un episodio por noche. Tú no haces nada. Nosotros hacemos todo.
-> *▶ Episodio 1 — 42 min*
+Cerré los ojos. Pensé que me iba a costar dormir con ese ruido, pero en menos de tres minutos, mi mente se apagó como si le hubieran cortado la corriente. Fue una caída libre hacia la negrura más absoluta.
 
-—¿Y esta cuestión sirve de verdad? —pregunté, tratando de sonar escéptico, riéndome medio de lado para no parecer desesperado.
+Desperté antes de que sonara la alarma.
+La luz del sol se filtraba por la cortina. Me quité los audífonos. El silencio de la pieza me pareció distinto, más limpio. Me estiré en la cama y sentí una oleada de bienestar físico que no había sentido en mi vida. Había dormido profundo, sin sueños, sin despertar ni una sola vez en la noche. Una calma sólida, densa, se había instalado en mi pecho. "Seguridad", pensé. Así se debe sentir la gente segura de sí misma.
 
-—A mí me sirvió —dijo el Rodrigo así no más, simple, mirándome a los ojos sin parpadear.
+Me levanté para ir al baño. Mientras me lavaba la cara, me miré en el espejo. Mis ojos estaban descansados. Apoyé las manos en el lavamanos y, por primera vez, las miré de verdad.
 
-Y ahí lo miré bien. El Rodrigo en los últimos meses había cambiado. No es que estuviera más grande, pero se le notaba un aplomo distinto. La mesera se acercó a dejar la cuenta y no le quitó los ojos de encima al Rodrigo mientras él sacaba la billetera sin mirarla. Las minas se le quedaban pegadas en la calle y él ni se inmutaba, las dejaba venir como si fuera lo más natural del mundo. Yo siempre pensé que era su genética, o la pinta. Pero mirándolo ahí, con el celular entre los dos, pensé que capaz que no. Capaz que se lo había trabajado con esta cuestión.
+Eran manos toscas. Las uñas estaban disparejas, las cutículas secas y resecas. Una voz en mi cabeza, que sonaba sospechosamente parecida a mi propia voz, pero más suave, murmuró: *Qué descuido. Así no te vas a ver bien*.
 
-—Ya poh —dije, sintiendo un cosquilleo de curiosidad en la garganta—. Qué pierdo con probar.
+Fue un pensamiento extraño. Yo nunca me había preocupado de mis manos, más allá de cortarme las uñas cuando ya estaban muy largas. Pero de pronto, mirarlas me dio una especie de repulsión estética. Busqué en el cajón y encontré un cortauñas y una lima vieja que alguna vez dejó una ex polola. Sin pensarlo mucho, me puse a limar los bordes, redondeándolos, suavizando las asperezas. Me eché un poco de crema humectante que tenía olvidada.
 
-El Rodrigo sonrió. Fue una sonrisa corta, cerrada, pero a mí me quedó dando vueltas en la cabeza todo el camino de vuelta. Como si la conversación entera, desde que me senté a quejarme de la Javiera, hubiera ido a dar exactamente a esa frase mía, y él hubiera estado esperándome tranquilo al final del camino, tomándose su chela.
+Cuando terminé, las miré de nuevo. Se veían... delicadas. Limpias.
+*Me nació cuidarme las manos*, me dije, encogiéndome de hombros. *¿Qué tiene? Igual me quedaron regias.*
+La palabra "regias" se me cruzó por la mente sin pedir permiso, pero la dejé pasar. Era parte de esta nueva calma. Si iba a ser un macho dominante, tenía que estar impecable.
 
-Me mandó el enlace por WhatsApp altiro: *ALFA. Escúchalo, weón. Vas a tener a las minas comiendo de tu mano.* Con un emoji de fueguito. Llegué a mi departamento contento, con esa ilusión tonta del que cree que compró un boleto de lotería ganador.
+***
 
----
+La primera semana pasó en un parpadeo. Cada noche escuchaba un episodio nuevo. Episodio 2. Episodio 3. Episodio 7. Cada mañana despertaba sintiéndome más ligero, más "seguro", más en paz con el mundo. Y cada día, pequeñas ideas iban brotando en mi cabeza, acomodándose como si siempre hubieran estado ahí.
 
-Esa noche en mi departamento —un ambiente chico en un piso doce cerca de Manuel Montt, la cama pegada a la ventana con vista a los edificios de al lado— me duché rápido, me puse un short viejo y me metí a las sábanas. Abrí la app.
+Al tercer día, me duché y me miré el pecho. Los vellos me parecieron... sucios. Innecesarios. *¿Por qué ando cargando con esto?*, pensé. Agarré la prestobarba y, en diez minutos, me había rasurado el pecho y la guata. La sensación del agua cayendo sobre la piel lisa fue un golpe de electricidad. Un placer agudo que me recorrió la espina dorsal.
 
-> **ALFA** · ▶ Episodio 1 · 42 min
+Al quinto día, el impulso bajó a las piernas. *Por comodidad*, me justifiqué. *Los deportistas lo hacen.* Me depilé las piernas completas, los muslos, todo. Cuando me sequé con la toalla, el roce de la tela contra mi piel lampiña me hizo soltar un pequeño jadeo. Me quedé mirándome en el espejo del baño, desnudo. Mi cuerpo se veía distinto. No había cambiado de forma, no había magia, pero la falta de vello lo hacía ver más largo, más pulcro. Más sumiso a la mirada. Me pasé las manos por los muslos suaves, y un calorcito extraño, un vértigo que no supe nombrar, me apretó la garganta.
 
-Puse el celular en el velador, pantalla mirando hacia el techo, y le di play. El brillo azulino de la pantalla me iluminó el techo en la oscuridad. Salió una música de fondo, grave, constante, como un pulso de bajo profundo, y después una voz de hombre, impecable, masculina, sin acento marcado. Alcancé a pensar *a ver qué me vais a enseñar, compadre*.
+El sábado en la tarde, fui al mall. Necesitaba comprar calzoncillos. O eso me dije.
+Caminé por los pasillos de una tienda por departamentos, sintiendo mis piernas suaves rozar contra el jeans. La fricción constante era un recordatorio eléctrico de mi secreto. Terminé en el pasillo de lencería femenina. No sé cómo llegué ahí. Mis pasos simplemente me llevaron.
 
-No me acuerdo de absolutamente nada más. Ni de la segunda frase. Se me apagó la tele de golpe, como si alguien hubiera desenchufado el cable de mi cabeza de un tirón.
+Miré los sostenes, los calzones de algodón, los encajes. Mi respiración se agitó. La vergüenza me golpeó en la nuca, ardiente, pidiéndome que saliera corriendo. *Yo no soy un pervertido, qué chucha hago acá.* Pero mis manos se adelantaron. Tomé una tanga negra de encaje, talla M. Y un paquete de medias de nylon negro.
 
-Desperté a las seis y media de la mañana, quince minutos antes de que sonara la alarma. Cosa que no me pasa nunca; yo soy de los que postergan el reloj tres veces antes de poder abrir un ojo. Pero esa mañana desperté de golpe, con los ojos abiertos de par en par, y sentí el cuerpo liviano. Descansado de una forma que no recordaba desde que era cabro chico. Una sensación de soltura en la espalda, como si me hubieran desarmado las vértebras en la noche y me las hubieran vuelto a ensamblar bien alineadas.
+*Es más cómodo*, racionalizó esa voz suave en mi cabeza. *Por probar.*
 
-Había soñado rico. No me acordaba de qué —ni una sola imagen, nada— pero me quedó la sensación tibia en el pecho, como el eco de una risa o de un abrazo. *El mejor sueño de mi vida*, pensé, y me reí solo en la cama de lo exagerado que sonaba.
+Fui a la caja automática. Sudaba frío. Pagué rápido, metí las cosas en la mochila y me fui directo al departamento.
 
-Pero mientras me levantaba a poner la tetera, me pasó una cosa rara. En la frontera entre el sueño y la vigilia, me quedó flotando un pedazo de frase, como una colilla encendida que alguien tiró al pasar: *...así, suave, para eso estás tú...* Fruncí el ceño frente a la cocina a gas. Traté de agarrar la voz, de acordarme si era la del podcast, pero la frase se deshizo en tres segundos como humo. Soñé cualquier huevada, pensé. Y me serví el café.
+Cerré la puerta con llave. Mi corazón latía a mil por hora. Fui a mi pieza, me saqué la ropa con manos temblorosas y saqué las prendas de la bolsa.
+La tanga negra.
+Me la puse.
 
-Ahí me vino el segundo pensamiento. De la nada, mientras me tomaba el primer sorbo caliente: *tendría que cuidarme las manos.*
+El elástico se ajustó a mis caderas. El hilo de encaje se coló entre mis nalgas, tenso, invasivo. Un gemido ahogado se me escapó de los labios. La presión era minúscula, pero reorganizaba toda mi percepción del cuerpo. Era una provocación constante, una tela que me exigía estar consciente de mi propia vulnerabilidad.
+Luego, me senté en el borde de la cama y desenrollé las medias. Las fui subiendo por mis piernas depiladas. La fricción del nylon contra la piel desnuda era un incendio. Se ajustaron a mis muslos, comprimiéndolos, dándoles una línea más esbelta, más femenina.
 
-Me miré las manos. Manos de hombre de treinta años, toscas, con las cutículas secas y las uñas mordidas en las esquinas por la ansiedad del trabajo. Nunca en mi vida se me había pasado por la mente la estética de mis manos. Me pareció una idea rara, ajena, pero al segundo siguiente se me acomodó en el cerebro con una lógica aplastante: *andar con las uñas desprolijas es de dejado. Si querís que te respeten, tenís que empezar por lo que mostráis.*
+Me puse de pie frente al espejo de cuerpo entero.
+Estaba jadeando. La vergüenza me quemaba la cara. *Soy un hombre. Qué chucha estoy haciendo.* Pero la imagen en el espejo... la imagen en el espejo me devolvía a alguien que por fin encajaba en su piel. Las piernas enfundadas en nylon, las caderas enmarcadas por el encaje negro.
 
-Anduve livianito todo el día en la oficina. En la tarde, cuando me topé a la Javiera en el hall del edificio, en vez de mirar para el suelo o sacar el celular apurado para no parecer tonto, le sonreí tranquilo, le dije "hola" con la cabeza y seguí caminando. No se dio vuelta a mirarme, pero yo no me sentí un mueble. Me sentí bien.
+Y entonces, noté la traición definitiva.
+Estaba caliente. El roce, la humillación, el secreto de la ropa de mujer me estaba excitando de una manera brutal y profunda. Pero miré hacia abajo... y mi verga estaba completamente flácida.
+Apagada.
+Encogida contra la tela de la tanga, ignorada.
 
-Le escribí al Rodrigo antes de acostarme:
+Toda mi vida, la excitación había sido un asunto de erecciones duras, de tensión en la entrepierna, de sangre bombeando al pene. Pero esto no. Este calor no estaba ahí. El fuego se me había ido a la piel, a la parte baja de la espalda, a los muslos apretados por el nylon, a un vacío extraño que palpitaba detrás del encaje. Mi deseo-de-macho había muerto de un plumazo. Ahora era un calor pasivo, una humedad receptiva que pedía ser doblegada. Me pasé las manos cuidadas por las caderas, apretando la lycra, y la verga siguió chica, blanda, inútil. El placer ya no le pertenecía.
 
-*oye weón, el podcast ese... dormí como guagua*
+***
 
-*te lo dije. sigue no más. ¿cómo te sentís?*
+El miércoles siguiente, fui a la pichanga de la semana con los cabros de siempre. Jugábamos en unas canchas de pasto sintético cerca del Parque Bustamante. Hacía frío, así que me puse un buzo deportivo.
+Debajo del buzo, llevaba la tanga negra y las medias.
 
-*increíble weón. hace años que no descansaba así*
+El roce del nylon contra mis piernas mientras corría por la cancha me tenía al borde del colapso. Cada pique, cada giro, era un destello de placer que me quemaba por dentro. Yo corría, transpiraba, y mi mente solo podía pensar en la tela fina abrazando mis muslos, en el encaje metido entre mis nalgas. Jugaba horrible. Daba pases cortos, me quedaba atrás, evitando el choque físico.
 
-*bien. dale no más.*
+Cuando terminó el partido, nos sentamos en las galerías de cemento a tomar unas cervezas, como siempre. Yo estaba sentado en un peldaño más abajo que el resto.
+El Rodrigo estaba a mi lado. Había jugado de defensa central, repartiendo patadas y dominando el área. Estaba transpirado, con la camiseta pegada al pecho, respirando hondo.
 
-Nada más. *Bien.* Con esa seguridad pesada del Rodrigo, como si me hubiera preguntado solo para confirmar algo que él ya daba por hecho.
+Yo tenía una lata de cerveza cerrada en las manos. La estaba frotando, sintiendo el frío del aluminio.
+De pronto, el Rodrigo estiró el brazo hacia el pack de chelas que estaba en el suelo. Le quedaba lejos.
+Antes de que él siquiera abriera la boca para pedir que se la pasaran, mi cuerpo se movió solo.
+Me incliné, ágil, servicial. Tomé una lata, tiré de la anilla con mis uñas perfectamente limadas, y se la pasé directamente a la mano.
 
----
+Él la recibió sin mirarme, como si fuera lo más natural del mundo.
+El gesto me atravesó como un rayo. Le había servido. Me había anticipado a su necesidad y se la había resuelto, en silencio, con deferencia. Y un chorro de placer, un calor espeso y oscuro, me inundó las entrañas.
 
-La segunda noche no tuve ninguna duda. Abrí la app con ganas. Arriba me salió un aviso chiquitito: *Racha: 1 noche*, con una llama naranja. Abajo, el Episodio 2 listo. Le di play. La música grave, la voz profunda... y chao. Oscuridad total hasta la mañana siguiente.
+Me quedé mirándolo.
+El Rodrigo tomó un sorbo largo. Observé cómo se movía su garganta al tragar. Luego, mi mirada bajó por inercia. Sus antebrazos, gruesos, llenos de venas resaltadas por el esfuerzo. Sus muslos anchos, la masa sólida de su cuerpo esparcida en la galería, ocupando espacio. Y entonces... miré su entrepierna.
+El bulto pesado que se marcaba bajo el short de fútbol húmedo por el sudor.
 
-A partir de la tercera noche dejé de contar. Se me volvió una rutina deliciosa: acostarme, apretar play, sentir la voz grave dos segundos y despertar flotando. La racha en la pantalla iba subiendo —cuatro noches, cinco, siete— y yo sentía un orgullo infantil mirándola. En el gimnasio nunca duraba más de dos semanas; con esto no me costaba nada porque el esfuerzo era cero.
+El latigazo de pánico fue tan violento que me mareé.
+*¿Qué me pasa?* gritó mi mente, aterrorizada. *Yo no soy gay. No soy maricón. Es mi amigo de toda la puta vida.*
+El asco me subió por la garganta. La moralidad, la hombría, toda mi identidad heterosexual se estrelló contra esa imagen. Desear a un hombre era una aberración en mi cabeza, pero desear al Rodrigo era directamente un tabú incomprensible. Una traición a mí mismo.
 
-Pero con los días, los pensamientos empezaron a llegar más seguidos, más densos. Eran ideas que aparecían en mi cabeza a plena luz del día, mientras caminaba al metro o redactaba un correo. Al primer segundo me chocaban —*¿de dónde saqué esta huevada?*— pero al segundo siguiente mi propia mente me armaba tres razones lógicas impecables para justificarlas. Se acomodaban solas, suaves, como si siempre hubieran sido mías.
+Pero el circuito de traición ya estaba cerrado.
+El terror y el asco no apagaron el fuego. Lo alimentaron. La humillación de estar mirándole el bulto a mi mejor amigo mientras usaba pantis de mujer bajo el buzo, se transformó en una calentura líquida, aplastante. Mi mente rechazaba la imagen con violencia, pero mi cuerpo... mi cuerpo se rindió. Sentí una punzada de humedad en la base de la tanga. Mis muslos se apretaron instintivamente. Mi verga, mi pobre verga de hombre, seguía muerta y encogida, inútil. El deseo era puro morbo, pura devoción de piel hacia el cuerpo dominante que tenía al lado.
 
-El pensamiento de las manos volvió en serio. El viernes pasé a una farmacia grande en Providencia y me compré un set prolijo: cortauñas de acero, lima fina y una crema humectante con aroma neutro. Esa noche me corté las uñas parejitas, me limé los bordes con paciencia y me masajeé las manos con la crema frente al espejo del baño. Se veían distintas. Más finas, más limpias. *Esto no es nada raro*, me dije mirándome los dedos bajo la ampolleta blanca. *Esto es higiene. Es subir de nivel, como dice el podcast.*
+Tragué saliva, incapaz de apartar la vista del bulto del Rodrigo. La idea de esa masa, de lo que habría ahí adentro, de cómo se vería, se me clavó en la cabeza. *Qué asco, conchetumare*, pensé, sudando frío, sintiendo cómo el encaje se humedecía con el placer más intenso que había sentido en semanas.
 
-A la semana siguiente vino la segunda idea. Me nació en la ducha, pasándome el jabón por el pecho: *el pelo del cuerpo se ve sucio.*
+El Rodrigo bajó la lata. Giró la cabeza y me miró.
+Sus ojos oscuros se clavaron en los míos. Yo me quedé congelado, sintiéndome descubierto, expuesto, con las piernas envueltas en nylon temblando bajo el buzo.
 
-Me miré al espejo del baño, chorreando agua. Siempre había tenido vello en el pecho, la guata y las piernas. Nada exagerado, lo normal de un hombre. Pero de repente ver esos pelos negros pegados a mi piel me dio una sensación desagradable, casi de rechazo. Me pareció tosco, cavernario. Esa misma tarde me compré dos tarros de crema depilatoria y una rasuradora de cuatro hojas.
+Él no dijo nada sobre mi mirada. No levantó una ceja. Solo esbozó esa media sonrisa tranquila de siempre.
+—Vale, weón —me dijo, refiriéndose a la cerveza, con esa voz baja y ronca—. Siempre fuiste medio así tú, preocupado del resto.
 
-Me encerré en el baño dos horas. Me apliqué la crema en las piernas, el pecho y el abdomen. Cuando me pasé la paleta de plástico y vi caer los matorrales de pelo bajo el agua de la ducha, me dio un escalofrío helado por la espalda. Un latigazo de extrañeza que me hizo parar la mano un segundo. *¿Qué chucha estoy haciendo?*, me pregunté con la respiración corta. Pero me pasé la mano por el muslo desnudo, suave, tibio, y la sensación de la piel lampiña bajo mis propios dedos me provocó un placer tan repentino y fino que la duda se me borró altiro. Me depilé entero. Piernas, axilas, pecho, guata, los brazos. Todo.
+La frase cayó sobre mí como un bálsamo. Como un manto que me tapaba el horror.
+*Siempre fuiste así, tú.*
+El alivio me desbordó. No era gay. No era un pervertido. Solo era yo. Siempre había sido así. Servicial. Preocupado. El Rodrigo me lo estaba confirmando.
 
-Cuando me vestí para ir a trabajar al día siguiente, el roce de los pantalones de mezclilla contra mis piernas completamente depiladas era una caricia constante, eléctrica. Cada paso me recordaba que abajo del pantalón yo estaba distinto. Lampiño. Suave.
+Le devolví la sonrisa, una sonrisa suave, casi sumisa, y me acomodé en el cemento frío, cruzando las piernas por los tobillos de una forma que nunca antes había hecho. El calor morboso seguía ahí, latente en el encaje de mi tanga, pero ahora estaba envuelto en una paz siniestra.
 
----
-
-El hito de la ropa interior llegó el sábado. Pasé por una tienda de departamentos en el Costanera Center. Iba a buscar unas poleras básicas, pero mis pies me llevaron solos a la sección de lencería femenina.
-
-Me quedé parado a dos metros de un perchero lleno de prendas de encaje y satén. Sentí un sudor frío en la nuca, un pánico absurdo de que alguien me estuviera mirando. Pero mis ojos se clavaron en una tanga de microfibra negra, suavecita, con tiras delgadas en las caderas, y al lado un paquete de medias oscuras, traslúcidas, de quince deniers.
-
-*Es para probar*, me dije en voz baja, con el corazón batiéndome en las costillas. *Es por la comodidad. Los atletas usan ropa de compresión. La tela de hombre es tosca, pica.*
-
-La compré dentro de una bolsa opaca, pagando en caja vecina para no mirar a la cajera. Llegué a mi departamento con el pulso acelerado como si hubiera robado algo. Me encerré en el dormitorio, me saqué el bóxer y me puse la tanga negra.
-
-La tela sintética me abrazó los muslos y el tiro con una suavidad que me hizo soltar un suspiro por la boca. Me subí las medias traslúcidas hasta la mitad del muslo. La caricia de la lycra contra mis piernas recién depiladas me provocó una ola de calor que me subió directo desde el vientre hasta el cuello.
-
-Me miré al espejo de cuerpo entero. Y ahí ocurrió la primera gran traición de mi carne.
-
-Al sentir el roce del encaje y las medias, me entró una excitación ardiente, líquida. Me llevé la mano a la entrepierna esperando sentir la erección dura de siempre, el miembro de hombre listo para penetrar. Pero no había nada duro.
-
-Mi verga estaba completamente flácida. Pequeña, encogida, suave, mansa dentro de la copa de la tanga. No respondía. Por más que la fantasía me quemaba la piel, la verga no se erigía. El deseo ya no estaba ahí. El calor de macho se me había apagado por completo en la entrepierna, desplazándose entero hacia la piel, hacia el espejo, hacia la sensación de ser abrazado por la tela suave. Mi propio cuerpo había renunciado a ser el que penetra. Y lo peor —lo más delicioso y aterrador— es que no me importó. Me pasé las manos por los muslos enfundados en medias y sonreí al espejo con los labios entreabiertos.
-
----
-
-Esa misma tarde, el Rodrigo me invitó a su departamento a ver el partido de la Selección.
-
-Llegué a las seis. Llevaba puestos mis jeans de siempre y una polera negra holgada, pero abajo llevaba la tanga y las medias puestas. Cada paso que daba por el pasillo de su edificio era un aviso secreto: la tela sintética me apretaba la cadera y las medias me rozaban la piel sin pelo. Me sentía cargado de una electricidad rara, vulnerable y sobreexcitada.
-
-El Rodrigo me abrió la puerta. Andaba con una polera sin mangas gris y un short deportivo.
-
-—Pasa, weón —me dijo, haciéndose a un lado.
-
-Entré. El departamento olía a su perfume de siempre, a madera y cuero. Me senté en el sillón. El Rodrigo se paró frente a la mesa de centro y estiró el brazo largo para agarrar una chela. Un gesto cotidiano, que le he visto hacer cien veces.
-
-Pero esta vez fue distinto. Antes de que sus dedos tocaran la botella, mi cuerpo se movió solo. Me adelanté sin pensarlo, estiré la mano, agarré la botella helada y se la pasé en la mano.
-
-Fue una actitud de servicio puro. De sirvienta que se adelanta al deseo de su señor antes de que él tenga que pedirlo.
-
-El Rodrigo tomó la botella sin darme las gracias, sin mirarme siquiera, como quien recibe un tributo natural que le corresponde. Le dio un trago largo y volvió la vista a la pantalla. A mí me quedó un calorcito húmedo y sumiso latiéndome en el pecho. Me acomodé en el sillón con las piernas juntas, las manos apoyadas en los muslos, sintiéndome extrañamente pleno por haberle servido.
-
-Y ahí fue cuando lo miré.
-
-El Rodrigo estaba apoyado contra el respaldo, el antebrazo moreno y grueso descansando sobre la madera del sillón. Las venas marcadas le bajaban desde el codo hasta la muñeca, el tríceps tenso, el pecho ancho bajo la franela gris. Bajé la vista un poco más y me quedé clavado en el bulto pesado que se le marcaba en el short deportivo.
-
-Un latigazo de terror helado me atravesó el cerebro.
-
-Fue un pánico visceral, un rayo que me dejó sin aire en los pulmones. Un pánico de muerte a la destrucción de todo lo que yo creía ser.
-
-*¿Qué chucha estoy mirando?*, me gritó una voz dentro de la cabeza, una voz aterrorizada que sudaba frío. *¿Por qué le estoy mirando el bulto al Rodrigo? Yo no soy maricón. Yo soy un weón normal. A mí me gustan las minas. El Rodrigo es mi amigo de la infancia, ctm.*
-
-Traté de apartar los ojos con desesperación, pero mi mirada no obedecía. Se me quedó pegada ahí, en la masa de su cuerpo de hombre, en la fuerza tranquila que emanaba de su postura de alfa.
-
-Y mientras mi mente gritaba de espanto y náusea moral ante el tabú que se rompió en mil pedazos, mi cuerpo abajo respondió de la forma más perversa posible: la tanga de microfibra se me mojó. Un calor erótico, espeso y prohibido me inundó el vientre. La disonancia me despedazaba: por arriba sentía el pánico helado de estar deseando a mi mejor amigo, y por abajo sentía una fascinación ardiente por rendirme a él, por ser la mujer de ese hombre.
-
-El asco a mí mismo no mató la calentura; la multiplicó por diez. El morbo de la profanación me aplastó.
-
-—Estai raro tú, Nico —dijo el Rodrigo de repente, sin sacar los ojos del partido. Su voz grave retumbó en el departamento chico.
-
-Me sobresalté en el sillón, juntando las rodillas con pánico de que me hubiera leído el pensamiento.
-
-—¿R-raro? —tartamudeé, sintiendo la cara arder en vergüenza.
-
-—Tranquilo. Te ves distinto. Más limpio, más suave —dijo, dándole otro trago a la chela con parsimonia—. Te sienta el cambio. Igual tú siempre fuiste medio así por dentro, weón. Delicadito. Lo que pasa es que lo tenías tapado.
-
-Sentí un alivio monstruoso y un encadenamiento definitivo cuando lo dijo. *Él lo sabe*, pensé con el corazón latiéndome en el cuello. *Él sabe lo que soy.* No me acusó. No me rechazó. Me devolvió el espejo como si mi sumisión fuera lo más natural del mundo.
-
-Me acomodé en el sillón, pasándome la mano por el muslo depilado sobre la mezclilla, sintiendo el roce elástico de la tanga abajo. Ya no pude dejar de mirar al Rodrigo en toda la tarde. Cada movimiento de sus brazos, cada trago que le daba a la botella me producía una sed hambrienta, secreta, que no tenía nombre pero que me quemaba por dentro.
-
-Cuando me fui a mi departamento esa noche, me metí a la cama temblando de excitación y de miedo. Miré la pantalla del celular.
-
-> **ALFA** · ▶ Episodio 8 · 45 min
-
-Le di play con el dedo tembloroso. En la oscuridad, mientras la voz profunda del podcast comenzaba a sonar, me llevé la mano a la cintura, sentí la tira de la tanga y cerré los ojos, sabiendo que ya no había vuelta atrás.
+Esa noche, de vuelta en mi departamento, me saqué el buzo. Me quedé solo en tanga y medias. Me acosté en la cama, con el cuerpo vibrando por el cansancio del partido y el ardor de la sumisión. 
+Agarré el celular. Mis uñas limadas rozaron la pantalla.
+Apreté *play* en el Episodio 8.
+Y cerré los ojos, listo para seguir descubriendo quién era en verdad.
