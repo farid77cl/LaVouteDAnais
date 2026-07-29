@@ -453,7 +453,7 @@
 | **641** | Red & Black Domme Vinyl | 21/06/2026 | Escort | — | leather, wetlook, vinyl | 5/7 | ⏳ Pendiente |
 | **642** | Onyx Cutout Catsuit | 21/06/2026 | Nightclub | — | vinyl, leather, mesh | 6/7 | ⏳ Pendiente |
 | **643** | Cherry Red Stage Strap | 21/06/2026 | Stripper | — | vinyl, leather, chrome, crystal | 6/7 | ⏳ Pendiente |
-| **644** | Pinstripe Waist Cincher | 21/06/2026 | Corporate | — | vinyl, leather, latex | 3/7 | ⏳ Pendiente |
+| **644** | Pinstripe Waist Cincher | 21/06/2026 | Corporate | — | vinyl, leather, latex | 7/7 | — |
 | **645** | Emerald Lingerie Mistress | 21/06/2026 | Lencería | — | vinyl, leather, crystal, satin | 7/7 | — |
 | **646** | Plum Bondage Corset | 21/06/2026 | Pin-Up | — | vinyl, latex | 7/7 | — |
 | **647** | Vinyl Sling Bikini | 21/06/2026 | Bikini | — | crystal, vinyl | 7/7 | — |
@@ -903,7 +903,6 @@
 | **641** | Red & Black Domme Vinyl | 5/7 | ⏳ Pendiente |
 | **642** | Onyx Cutout Catsuit | 6/7 | ⏳ Pendiente |
 | **643** | Cherry Red Stage Strap | 6/7 | ⏳ Pendiente |
-| **644** | Pinstripe Waist Cincher | 3/7 | ⏳ Pendiente |
 | **648** | Charcoal Sport Mistress | 6/7 | ⏳ Pendiente |
 | **655** | Ivory Power Viper | 6/7 | ⏳ Pendiente |
 | **691** | Bubblegum Latex Bombshell | 7/7 | ⏳ Pendiente |

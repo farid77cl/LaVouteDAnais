@@ -31649,11 +31649,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, identico x7).
 - **Ambientacion:** in a high-rise executive corner office, a massive mahogany desk, floor-to-ceiling windows showing a night cityscape, and a polished dark hardwood floor
 
-### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_standing.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_back_view.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_standing.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_back_view.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_seated.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_side_profile.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_ditzy.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_pov.png) | [📸 View](../../05_Imagenes/ele/look644_pinstripe_waist_cincher/ele_644_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
