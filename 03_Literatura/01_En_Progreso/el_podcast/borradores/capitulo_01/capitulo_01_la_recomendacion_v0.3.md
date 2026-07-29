@@ -1,4 +1,4 @@
-# Capítulo 1: La recomendación
+# Capítulo 1: La recomendación (v0.3)
 
 Al Rodrigo lo conozco de octavo básico y en veinte años nunca me ha recomendado algo malo: el gimnasio, el trabajo que tengo ahora, hasta el pituto que me sacó del hoyo cuando estaba mal de plata. Estuvo ahí cuando se murió mi viejo y cuando me dejó la Pancha, sin decir mucho, solo estando. Si el Rodrigo me dice camina para allá, yo camino, porque el weón siempre sabe.
 
