@@ -129,6 +129,8 @@
 | **H36** | **Renata se levanta los martes a las siete** | T4 | Cap 2 (rutina fijada) |
 | **H37** | **La lámpara girada:** vuelve al centro del mantel el **sábado a las siete** (paga H16) y el **lunes** aparece **girada con el pico apuntando a la silla de Gonzalo**. No se creó ningún día nuevo | T4 | Cap 2-3 (M4, Ginny nunca está lejos) |
 | **H38** | **La coartada se le olvidó sola:** el lunes no dice ni una vez *"fue una vez y con asco, ya está"* y él lo registra (*"Se le había olvidado la frase"*). **Prohibido volver a usarla como defensa viva** | T4 (cierre) | — (queda muerta) |
+| 🆕 **H40** | **LA MENTIRA DEL CAFÉ** (plantada al aplicar los micro-fixes, 28/07): en la cena del **sábado** Renata pregunta por la mancha pálida de la alfombra nueva y Gonzalo dice que **se le cayó café el viernes en la noche** — y se oye mentir con una facilidad que no se conocía. Es el **ancla** que paga el callback del T5 (antes era callback sin ancla) | T4 (cena del sábado) → T5 | **Cap 2 hereda una mentira plantada** entre los dos |
+| 🆕 **H21b** | **Variante confirmada del primer gesto de mando de Renata:** en la v0.6 dice ***"Y báñate."*** (no *"Ya. Ve a bañarte."*), dentro de la rabia y sin ayudarlo a levantarse | T5 | Cap 2 (arranque de su autoridad) |
 | **H39** | **El foco del pasillo** que cambió el sábado — y el interruptor del T5 se escribe con esa misma imagen (*"se apagó, como se apaga un foco"*) | T4 → T5 | rima disponible en Cap 2 |
 
 **Estado de pago del Cap 1 v0.6 (lo que cambió respecto de v0.5):**

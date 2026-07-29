@@ -72,6 +72,12 @@ Ginny se lo miró.
 
 Lo miró directo y sin ninguna vuelta, como quien mira un regalo que le acaban de poner enfrente, y abrió la boca inflada en una O feliz.
 
+—¡Ay! —dijo, y batió las manos dos veces contra el pecho, chiquito, rapidísimo, con las uñas rosadas repiqueteando—. Ay, se te puso dura. Se te puso dura la verga, cosita, mírala. O sea, ¿la ves? Yo ni había hecho nada todavía y ya, tipo, mírala.
+
+Y se rió, encantada, sin una gota de burla, la risa de alguien a quien le acaban de decir que le quedó rico algo que cocinó.
+
+—Es que eso significa que te gusto —dijo—. Neta que me pone bien contenta.
+
 —¡Ay! Hola. —Juntó las manos bajo el mentón—. Qué lindo, o sea. Gracias.
 
 No había ni una gota de burla adentro. Le habían hecho un cumplido y estaba agradecida, y eso —que estuviera agradecida— le calentó a Gonzalo las orejas de una manera que la burla no habría conseguido.
@@ -316,7 +322,7 @@ Hizo un sonido corto por la nariz, un *mm* de niña con un dulce, y la garganta 
 
 Cuando lo soltó, lo soltó despacio, arrastrando los labios hasta las puntas. Le quedó el gloss corrido hacia la mejilla y un hilo brillante colgando del labio de abajo, que se limpió con el dorso de la muñeca sin ninguna elegancia.
 
-—Así —dijo, con la voz un poco más gruesa—. ¿Sentiste cómo te empujaba? Bueno, es al revés. Al revés, y más pesado, y más caliente. Y tú no la aprietas, ¿eh? Tú la tienes que sostener. Con la lengua, así, para arriba. Porque si la sueltas se te va para atrás y ahí se te cae.
+—Así —dijo, con la voz espesa—. ¿Sentiste cómo te empujaba? Bueno, es al revés. Al revés, y más pesado, y más caliente. Y tú no la aprietas, ¿eh? Tú la tienes que sostener. Con la lengua, así, para arriba. Porque si la sueltas se te va para atrás y ahí se te cae.
 
 Gonzalo tenía la mano en el aire, con los dedos mojados enfriándose y la boca llena de agua.
 
@@ -970,7 +976,7 @@ Rosa, brillante, aceitosa, con el pico curvado hacia arriba en esa pose que no e
 
 Gonzalo se quedó parado en el umbral con los platos en la mano.
 
-Y no hizo nada. No la agarró, no la tiró, no la escondió, no dijo nada. Puso los platos, puso los cubiertos, llamó a su mujer y comió con ella al frente durante cuarenta minutos con esa cosa rosada brillando en el medio de la mesa entre los dos, contestando lo que ella le preguntaba, y en algún momento se dio cuenta de que llevaba un rato entero mirándola y de que el hambre había aprovechado la cena para subir otro grado.
+Y no hizo nada. No la agarró, no la tiró, no la escondió, no dijo nada. Puso los platos, puso los cubiertos, llamó a su mujer y comió con ella al frente durante cuarenta minutos con esa cosa rosada brillando en el medio de la mesa entre los dos, contestando lo que ella le preguntaba. Renata miró el piso una vez, a mitad de la cena, y preguntó qué era esa mancha pálida en la alfombra nueva, y él dijo que se le había caído café el viernes en la noche, y ella dijo *ah* y siguió comiendo, y él se oyó mentir con una facilidad que no se conocía. Después volvió a contestar lo que ella le preguntaba, y en algún momento se dio cuenta de que llevaba un rato entero mirándola y de que el hambre había aprovechado la cena para subir otro grado.
 
 Renata no la nombró ni una vez. Ni el sábado, ni después.
 
@@ -1098,7 +1104,7 @@ La pantalla se murió. Ginny soltó un chillido agudo de puro gusto, la volvió 
 
 Y estaba más grande.
 
-No hubo transición ni aviso. Ella estaba de lado en el sillón con las piernas dobladas, y eso le colgaba contra el muslo de arriba, pesado, apoyado en el cuero, y ya no había vinilo alrededor: la tira rosada estaba corrida hacia un costado, arrugada sobre la cadera, cumpliendo la función de un elástico vencido. La costura le pasaba por debajo sin rodear nada. Se le había salido del borde el viernes en la madrugada y desde entonces nadie había hecho nada al respecto, y en algún momento del fin de semana, mientras Gonzalo restregaba una alfombra y le fallaba a su mujer y contaba cuatro segundos en la oscuridad, esa cosa había seguido creciendo por su cuenta.
+No hubo transición ni aviso. Ella estaba de lado en el sillón con las piernas dobladas, y la verga le colgaba contra el muslo de arriba, pesada, apoyada en el cuero, y ya no había vinilo alrededor: la tira rosada estaba corrida hacia un costado, arrugada sobre la cadera, cumpliendo la función de un elástico vencido. La costura le pasaba por debajo sin rodear nada. Se le había salido del borde el viernes en la madrugada y desde entonces nadie había hecho nada al respecto, y en algún momento del fin de semana, mientras Gonzalo restregaba una alfombra y le fallaba a su mujer y contaba cuatro segundos en la oscuridad, esa cosa había seguido creciendo por su cuenta.
 
 Gonzalo se quedó en el umbral con el maletín en la mano.
 
@@ -1186,7 +1192,7 @@ La sacó despacio, la sacó del todo, y la puso encima de la sábana, a la vista
 
 Y entonces se dio cuenta de lo que estaba haciendo la otra.
 
-La izquierda estaba en el aire, a diez centímetros de la sábana, en la oscuridad, con el pulgar y los dedos cerrados en curva alrededor de una cosa gorda y redonda que no estaba ahí. Y se movía. Despacio, en círculos cortos, apretando apenas, con la constancia de un gesto que se hace sin mirar.
+La izquierda estaba en el aire, a diez centímetros de la sábana, en la oscuridad, con el pulgar y los dedos cerrados en curva alrededor de una verga gorda y redonda que no estaba ahí. Y se movía. Despacio, en círculos cortos, apretando apenas, con la constancia de un gesto que se hace sin mirar.
 
 Estaba frotando.
 
@@ -1304,7 +1310,7 @@ Entonces estiró la mano y la agarró.
 
 Y esa fue toda la ceremonia que hubo. La mano nueva —esa mano de dedos largos, lisa, sin un pelo, pegada a un antebrazo peludo de hombre de cuarenta y tres años— se cerró alrededor de la verga de Ginny y la levantó del cuero del sillón, y pesaba, pesaba de esa manera muerta y tibia que él ya conocía y que ninguna otra cosa del mundo pesa, y estaba blanda todavía, y estar blanda la hacía peor, porque blanda había que sostenerla entera con la palma y con los dedos y con el pulgar por debajo, como se sostiene un animal dormido.
 
-—Uy —dijo Ginny, distraída—. Ay, sí.
+—Uy —dijo Ginny, distraída—. Ay, sí. Es que mi verguita hoy está, tipo, rarísima. Como que no se me quiere portar bien.
 
 Se acomodó un poco, sin darse vuelta del todo, sin sentarse, sin ayudarlo en nada, y siguió mirando el colchón.
 
@@ -1442,7 +1448,7 @@ Se la miró el tiempo suficiente para que él supiera que la había visto: la ma
 
 Y ahí, en el medio de esa sílaba, algo se le movió atrás de los ojos.
 
-Fue medio segundo. Fue una cosa que no era asco y no era lástima y que no tenía nombre todavía en ninguna parte de su cabeza: una puerta que se abría en una casa donde llevaba quince años sin notar que había esa pieza. Renata la sintió abrirse, ahí, mirando a su marido desde arriba mientras él la miraba desde el suelo, y no supo qué era, y le dio rabia no saber, y la rabia salió por encima y se lo tapó todo.
+Fue medio segundo. Fue una cosa que no era asco y no era lástima y que no tenía nombre todavía en ninguna parte de su cabeza: una puerta que se abría en una casa donde llevaba quince años sin notar que había esa pieza. Gonzalo se lo vio cruzar la cara, ahí, mirándola desde el suelo mientras ella lo miraba desde arriba, y no supo qué era, y le vio en los ojos que ella tampoco lo sabía, y que no saberlo le daba rabia, y la rabia salió por encima y se lo tapó todo.
 
 —¿Qué es esto? —dijo—. ¿Qué es esto, Gonzalo?
 
