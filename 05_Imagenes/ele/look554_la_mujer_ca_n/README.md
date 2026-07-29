@@ -1,13 +1,13 @@
 # 🖼️ Galería: look554_la_mujer_ca_n
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_554_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_back_view.png) | ![ele_554_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_ditzy.png) | ![ele_554_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_odalisque.png) |
-| ![ele_554_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_pov.png) | ![ele_554_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_side_profile.png) | ![ele_554_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_standing.png) |
+| ![ele_554_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_pov.png) | ![ele_554_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_seated.png) | ![ele_554_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_side_profile.png) |
 
 ---
 
@@ -16,7 +16,7 @@ Total imágenes: 6
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_554_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_back_view.png) | ![ele_554_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_ditzy.png) | ![ele_554_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_odalisque.png) | ![ele_554_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_pov.png) |
-| ![ele_554_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_side_profile.png) | ![ele_554_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_standing.png) |
+| ![ele_554_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_seated.png) | ![ele_554_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_side_profile.png) | ![ele_554_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_standing.png) |
 
 
 ---
@@ -26,6 +26,7 @@ Total imágenes: 6
 - [ele_554_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_ditzy.png)
 - [ele_554_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_odalisque.png)
 - [ele_554_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_pov.png)
+- [ele_554_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_seated.png)
 - [ele_554_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_side_profile.png)
 - [ele_554_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look554_la_mujer_ca_n/ele_554_standing.png)
 

@@ -1,13 +1,13 @@
 # 🖼️ Galería: look557_la_encantadora_de_serpientes
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_557_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_back_view.png) | ![ele_557_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_ditzy.png) | ![ele_557_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_odalisque.png) |
-| ![ele_557_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_seated.png) | ![ele_557_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_side_profile.png) | ![ele_557_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_standing.png) |
+| ![ele_557_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_pov.png) | ![ele_557_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_seated.png) | ![ele_557_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_557_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_back_view.png) | ![ele_557_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_ditzy.png) | ![ele_557_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_odalisque.png) | ![ele_557_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_seated.png) |
-| ![ele_557_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_side_profile.png) | ![ele_557_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_standing.png) |
+| ![ele_557_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_back_view.png) | ![ele_557_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_ditzy.png) | ![ele_557_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_odalisque.png) | ![ele_557_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_pov.png) |
+| ![ele_557_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_seated.png) | ![ele_557_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_side_profile.png) | ![ele_557_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_standing.png) |
 
 
 ---
@@ -25,6 +25,7 @@ Total imágenes: 6
 - [ele_557_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_back_view.png)
 - [ele_557_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_ditzy.png)
 - [ele_557_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_odalisque.png)
+- [ele_557_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_pov.png)
 - [ele_557_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_seated.png)
 - [ele_557_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_side_profile.png)
 - [ele_557_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look557_la_encantadora_de_serpientes/ele_557_standing.png)
