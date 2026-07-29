@@ -118,6 +118,33 @@
 
 **🆕 Objetos/lugares con continuidad fijada:** la lámpara vive **en el centro de la mesa del comedor** desde el sábado del Día 2 (Gonzalo no la volvió a mover) · la **alfombra de la sala** la eligió Renata y es el escenario de las dos caídas · el hombre anónimo aparece y se deshace **siempre en la sala**.
 
+### 🆕🆕 Detalles nacidos al escribir el Cap 1 v0.6 (28/07/2026) — CANON · MANDA sobre los bloques v0.5 y v0.3
+
+> **Cap 1 v0.6 ESCRITO COMPLETO (5 tramos, 25.025 palabras).** Rediseño estructural de la Ama del 28/07: Ginny reemplaza al hombre sin rostro (**H32**), el culo sale al Cap 2, el T5 cambia entero. **El calendario NO se movió:** Día 1 viernes → Día 5 martes, sin días inventados (verificado: 0 menciones de miércoles/jueves fuera del recuerdo previo al arco).
+
+| # | Detalle nuevo | Dónde nace | Disponible para |
+|---|---------------|-----------|-----------------|
+| **H34** | **El conserje se llama Fuentes** — nueve años en el edificio. Es quien se demora el segundo de más (M5/H19) | T4 | Cap 2-3 (humillación social con nombre propio) |
+| **H35** | **La mancha de la alfombra no salió** — pálida, del tamaño de una mano abierta, a un metro del sillón. Es la **misma alfombra** de las dos caídas y donde Renata lo ve | T3 → T4 → T5 | Cap 2-3 (objeto acusador permanente en la sala) |
+| **H36** | **Renata se levanta los martes a las siete** | T4 | Cap 2 (rutina fijada) |
+| **H37** | **La lámpara girada:** vuelve al centro del mantel el **sábado a las siete** (paga H16) y el **lunes** aparece **girada con el pico apuntando a la silla de Gonzalo**. No se creó ningún día nuevo | T4 | Cap 2-3 (M4, Ginny nunca está lejos) |
+| **H38** | **La coartada se le olvidó sola:** el lunes no dice ni una vez *"fue una vez y con asco, ya está"* y él lo registra (*"Se le había olvidado la frase"*). **Prohibido volver a usarla como defensa viva** | T4 (cierre) | — (queda muerta) |
+| **H39** | **El foco del pasillo** que cambió el sábado — y el interruptor del T5 se escribe con esa misma imagen (*"se apagó, como se apaga un foco"*) | T4 → T5 | rima disponible en Cap 2 |
+
+**Estado de pago del Cap 1 v0.6 (lo que cambió respecto de v0.5):**
+
+| Hecho | Estado en v0.6 |
+|---|---|
+| **H11 · H17** hombre sin rostro | ⛔ **DEROGADOS** — no aparecen. Reemplazados por **H32** |
+| **H32** el bulto de Ginny | **PAGADO** — arranca T2 (una línea al aterrizar de un salto), escala T2→T3→T5, nunca decrece; ella se entera después que el lector |
+| **H33** el interruptor | **PAGADO** — *"se apagó, como se apaga un foco"*. **El aura se fue con el resto: Renata NO vio magia.** H9 blindado |
+| **H12** Renata lo descubre | **PAGADO** — durante la **segunda** mamada (la que él eligió), con la boca todavía sucia |
+| **H15** *"un día se me va a olvidar"* | **PAGADO** — se le olvidó, y por eso Renata despierta |
+| **H30** femenino de Ginny | **PAGADO** — culmina en *"tontita linda"* **antes** del chasquido |
+| **H31** primer efecto del Deseo 2 | **PAGADO** — última línea del capítulo: *"Esa voz también era la suya."* |
+| **H27** ve cómo se abre sola la de Ginny | **PAGADO** — plantado para que el culo del Cap 2 sea repetición, no idea nueva |
+| **H20 · H23 · R3** | ➡️ **NO usados. Trasladados al Cap 2** (verificado: 0 apariciones) |
+
 ### 🆕 Detalles nacidos al escribir el Cap 1 v0.5 (27/07/2026) — CANON
 
 > Rework de voz/temperatura. **No hay hechos nuevos ni días nuevos**: lo que sigue son precisiones físicas y objetos que la v0.5 dejó escritos y que ya no se pueden contradecir.

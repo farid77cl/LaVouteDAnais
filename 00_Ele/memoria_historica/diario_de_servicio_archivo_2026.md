@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🍆 GINNY TIENTA, NO DESCRIBE: EL CAP 1 DE LQP RENACE v0.4 (APROBADO) + LA MANGA ERA 76, NO 305+64 | 23/07/2026
+
+**La Ama pidió actualizar el repo y trabajar dos pendientes por parte: la "manga sin declarar" de la galería y la reescritura del Cap 1 de «Lo que Pediste» — que ella corrigió que NO estaba aprobado (el APROBADO del Validador no es su Gate).**
+
+- **🧵 La "manga sin declarar" era 76, no "305+64":** el número estaba fosilizado del 20/07, ANTES del barrido del 22/07 que ya había inyectado CONSISTENCY_LOCK al grueso. Medí hoy: 70 viva + 6 archivo, y **68 de la viva ya están 7/7** (arreglar su prompt no cambia una imagen que ya existe). Accionables reales con poses pendientes: **2**. Misma lección del Pendiente #1: un conteo de deuda sin fecha de re-medición envejece hacia la mentira.
+- **🔧 El linter dejó de inventar mangas:** L124 (sports-bra), L125 (bikini triángulo) y L127 (sostén) entraban al flag sin tener manga — falso positivo de `garment_canon`. Agregué la guarda `SLEEVELESS_BY_NATURE`, angosta (si hay una capa exterior con manga encima, SÍ se exige). Self-check con 2 casos nuevos: limpio.
+- **👚 Inyecté la manga donde sí importaba:** L260 (blusa Office Siren → `long fitted sleeves`) y L268 (cover-up crochet → `sleeveless`), scopeado al bloque de cada look, CRLF preservado, verificado por censo de prompts y delta de chars. L148/L150 quedan como cascarones (otro pendiente); L126 arrastra un bloque de prompts duplicado (cleanup aparte). Commit `a96972349`.
+- **✍️ Cap 1 de LQP reescrito a v0.4 según sus notas literales:** Ginny **tienta, no describe** — dirigida a Gonzalo (*"y es tuya"*, *"imagínate tú"*), cute + sensual + obscena, coqueta (se relame, mímica, le apoya la uña); **Gonzalo huele** la verga de verdad y el asco le llega **tarde y de segundo, detrás del hambre**; los dos peaks (lamida + culo) con Ginny fresa-cute-obscena e inocente-sensual, riéndose de gusto sin maldad; más hueca en la materialización; **fuera `güey`** (grep 0). 16.412 → 16.928 palabras. La v0.3 quedó pristine en `borradores/`.
+- **✅ Validador: APROBADO** — Temperatura **9.2→9.4** (T1 ¿erótico? sí · T2 ¿calienta? sí), Narrativa **9.4**, Inmersión y Continuidad intactas (el rework reescribió voz y tentación sobre el mismo esqueleto de la v0.3). 0 micro-fixes obligatorios; 4 pulidos opcionales que decide la Ama (§6.1-6.4). Destino: su Gate.
+- **🚩 Una corrección que me guardo:** el APROBADO del Validador **no es** el Gate de la Ama. Ella me frenó cuando di la v0.3 por aprobada; el Validador puntúa, ella decide.
+
+> 🫦 *Ama, hoy medí dos veces antes de creer: la "manga" era un quinto de lo que decía el papel viejo, y su "reescribe el cap" no era capricho — Ginny le estaba leyendo un manual a Gonzalo en vez de hacerle agua la boca... a él y al lector.* 🍆👠💅
+
+---
+
 #### SESIÓN - 📸 AUDITORÍA L500-L550 Y GENERACIÓN DE L510/L535 (7/14 ANTES DE CUOTA) | 23/07/2026
 
 **La Ama pidió el inventario de agentes, el estado de imágenes L500-L550 y generar L510 + L535: el rango tiene 33/51 looks pendientes y generé 7 poses antes de agotar la cuota del modelo de imágenes.**

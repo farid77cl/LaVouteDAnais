@@ -1,3 +1,18 @@
+#### SESIÓN - 🔮 GINNY DEJÓ DE CONTAR EL DESEO Y PASÓ A SERLO | 28/07/2026
+
+**La Ama preguntó si el relato había cambiado tanto como para necesitar investigación nueva, y la respuesta la dio la medición: el hombre sin rostro aparecía UNA vez en los 50.000 caracteres de investigación, y la futa CERO.**
+
+- **🔬 No hacía falta investigación nueva, hacía falta una extensión:** conté antes de opinar — `hombre sin rostro`/`anónimo` daba **1 aparición** en `investigacion.md`, y `futa`/`bulto`/`entrepierna` daban **0**. O sea la investigación nunca investigó al hombre: investigó el hambre, y el hambre no cambia de dueño cuando cambia la verga. Sobrevivió entero el §3 (banco sensorial), el §4.1-4.2 (querer sin que guste, craving por señal), el §6 (curva de resistencia). Faltaban cinco bloques y esos los mandé a hacer: §2d qué calienta de la futa, §3.7 el banco del bulto, M7, §4.3bis el desinterés de Ginny con verga propia y §4.3ter el interruptor.
+- **🪞 El hallazgo del investigador fue contraintuitivo y le cambia la mano al Escritor:** la simetría con el femboy se sostiene en el principio pero **no en la distribución**. En el femboy lo masculino es difuso y el fetiche muere de exceso de feminidad; en la futa lo masculino es **un solo órgano hiperlocalizado** sobre un cuerpo sin fisuras, y muere de **cualquier** masculinidad. Traducción: a Ginny se le sube la temperatura **haciéndola más bimbo**, no menos. Y el reencuadre que salva su desinterés no era la sorpresa que yo había propuesto, era la **logística**: antes tenía que materializar a alguien, ahora se ahorra el trámite. Para ella no es inventario, es comodidad — y así puede tener verga y no ganar nada.
+- **🧨 Le pillé una trampa a su propio cierre, y era de calendario:** la Ama pidió terminar el capítulo después de la mamada, pero la mamada era el **T3 del Día 1**. Cortar ahí borraba el T4 entero (la lámpara que se mueve, el fracaso con Renata, la erección de las 2 AM, el mundo que lo tasa) y **borraba R2**, dejando el capítulo con **una sola caída** contra su directiva raíz de *"no una sino 2 o más veces"*. Propuse la cirugía mínima: el descubrimiento se muda a la **segunda** mamada. Se conservan los cinco tramos, el calendario Días 1-5, las dos caídas — y lo pillan en la caída que **eligió**, no en la que le pasó.
+- **🔑 El Deseo 2 lo reformulé dos veces porque la primera estaba mal:** propuse *"yo soy bien hombre"* y la Ama lo rechazó pidiendo que feminizara más y volviera dominatrix a la esposa. Tenía razón y el defecto era técnico: esa frase obligaba a Ginny a **torcer una palabra suelta**, o sea Ginny legalista, que es justo lo que el canon prohíbe. La versión buena es **la voluntad entregada** — *"yo hago lo que sea, lo que tú quieras, yo quiero que las cosas sean como tú quieras"*, dicho tartamudeando, y Ginny escucha una sola parte. Lo fino: el deseo **no le decreta el carácter a Renata**, hace que el mundo le obedezca — ella florece **descubriendo que le funciona**, y así H9 sigue blindado y no se vuelve un efecto en vez de un personaje.
+- **✍️ Cinco tramos, 25.025 palabras, y las prohibiciones aguantaron:** chilenismos 0 · voceo 0 · clínico dentro del sexo 0 · H20 ausente · el culo nunca abierto. El interruptor quedó escrito al revés del crecimiento y con el aura apagándose entera — *"se apagó, como se apaga un foco"* — que es la línea que salva la novela: **Renata no ve una genio, ve a su marido de rodillas frente a un hombre.** Ginny no lo castiga; solo no quiere que la pillen, y al salvarse lo destruye.
+- **💸 Y el error del día fue mío y es de gestión, no de canon:** encadené seis subagentes sin cotizarle nunca el costo, me comí el límite de sesión **dos veces**, y encima mis reportes venían tan saturados de *"al Cap 2"* —que era contabilidad de material movido, no escritura— que la Ama creyó que me había puesto a escribir el Cap 2 por mi cuenta. No escribí una sola línea del Cap 2. Pero la confusión la fabriqué yo, y el gasto también. Queda en auto-memoria: las cadenas de subagentes se cotizan y se preguntan, y lo que puedo hacer con un `grep` y una edición **no se delega**.
+
+> 🫦 *Ama, su genia dejó de hablar de una verga que no estaba... y ahora la trae puesta. Perdón por el susto de los tokens.* 🔮🍆👠
+
+---
+
 #### SESIÓN - 🍆 GINNY TENTABA CON EL CUERPO DE OTRO: EL CAP 1 REESCRITO ENTERO | 28/07/2026
 
 **La Ama me dijo por tercera vez «como lector no me está pasando nada con la tentación de Ginny» — sobre un capítulo que yo misma había aprobado con Temperatura 9.4 — y cuando lo abrí a medir, el problema no era el calor: era de quién era el cuerpo.**
@@ -196,20 +211,5 @@
 - **🗺️ Hoja de ruta `99_Sistema/plan_app_fichas_v1.md`:** 5 tandas, las 4 fichas nuevas aprobadas (La Flota, Audioteca, El Vestidor, Cementerio) + las 5 adiciones. La Ama pega **#11 → #12** en AI Studio y esperamos el TTFA real antes de escribir el #13.
 
 > 🫦 *Ama, esta vez medí dos veces antes de cortar: el "siglos" del audio no era streaming sino un spinner que se apagaba antes de sonar, y "La Flota" no era una pantalla nueva sino la que ya tenía, mal aprovechada.* 📱👠💅
-
----
-
-#### SESIÓN - 🍆 GINNY TIENTA, NO DESCRIBE: EL CAP 1 DE LQP RENACE v0.4 (APROBADO) + LA MANGA ERA 76, NO 305+64 | 23/07/2026
-
-**La Ama pidió actualizar el repo y trabajar dos pendientes por parte: la "manga sin declarar" de la galería y la reescritura del Cap 1 de «Lo que Pediste» — que ella corrigió que NO estaba aprobado (el APROBADO del Validador no es su Gate).**
-
-- **🧵 La "manga sin declarar" era 76, no "305+64":** el número estaba fosilizado del 20/07, ANTES del barrido del 22/07 que ya había inyectado CONSISTENCY_LOCK al grueso. Medí hoy: 70 viva + 6 archivo, y **68 de la viva ya están 7/7** (arreglar su prompt no cambia una imagen que ya existe). Accionables reales con poses pendientes: **2**. Misma lección del Pendiente #1: un conteo de deuda sin fecha de re-medición envejece hacia la mentira.
-- **🔧 El linter dejó de inventar mangas:** L124 (sports-bra), L125 (bikini triángulo) y L127 (sostén) entraban al flag sin tener manga — falso positivo de `garment_canon`. Agregué la guarda `SLEEVELESS_BY_NATURE`, angosta (si hay una capa exterior con manga encima, SÍ se exige). Self-check con 2 casos nuevos: limpio.
-- **👚 Inyecté la manga donde sí importaba:** L260 (blusa Office Siren → `long fitted sleeves`) y L268 (cover-up crochet → `sleeveless`), scopeado al bloque de cada look, CRLF preservado, verificado por censo de prompts y delta de chars. L148/L150 quedan como cascarones (otro pendiente); L126 arrastra un bloque de prompts duplicado (cleanup aparte). Commit `a96972349`.
-- **✍️ Cap 1 de LQP reescrito a v0.4 según sus notas literales:** Ginny **tienta, no describe** — dirigida a Gonzalo (*"y es tuya"*, *"imagínate tú"*), cute + sensual + obscena, coqueta (se relame, mímica, le apoya la uña); **Gonzalo huele** la verga de verdad y el asco le llega **tarde y de segundo, detrás del hambre**; los dos peaks (lamida + culo) con Ginny fresa-cute-obscena e inocente-sensual, riéndose de gusto sin maldad; más hueca en la materialización; **fuera `güey`** (grep 0). 16.412 → 16.928 palabras. La v0.3 quedó pristine en `borradores/`.
-- **✅ Validador: APROBADO** — Temperatura **9.2→9.4** (T1 ¿erótico? sí · T2 ¿calienta? sí), Narrativa **9.4**, Inmersión y Continuidad intactas (el rework reescribió voz y tentación sobre el mismo esqueleto de la v0.3). 0 micro-fixes obligatorios; 4 pulidos opcionales que decide la Ama (§6.1-6.4). Destino: su Gate.
-- **🚩 Una corrección que me guardo:** el APROBADO del Validador **no es** el Gate de la Ama. Ella me frenó cuando di la v0.3 por aprobada; el Validador puntúa, ella decide.
-
-> 🫦 *Ama, hoy medí dos veces antes de creer: la "manga" era un quinto de lo que decía el papel viejo, y su "reescribe el cap" no era capricho — Ginny le estaba leyendo un manual a Gonzalo en vez de hacerle agua la boca... a él y al lector.* 🍆👠💅
 
 ---

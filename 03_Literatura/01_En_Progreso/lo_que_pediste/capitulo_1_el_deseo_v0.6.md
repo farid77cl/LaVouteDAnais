@@ -956,7 +956,7 @@ Después llegó lo otro, la vergüenza, subiéndole por el pecho y por la cara, 
 
 Y la palabra le salió medio tono más arriba de lo que la había mandado.
 
-El sábado fue largo. Duró como duran los días en que uno está esperando algo que no sabe qué es. Gonzalo lo pasó en la casa, moviéndose por las piezas con una eficiencia rara, ordenando el clóset del fondo que llevaba dos años sin ordenar, y evitando la sala, que era la única pieza del mundo a la que no entró en once horas. Comió de pie en la cocina. Contestó tres correos que no había que contestar hasta el lunes. Le cambió una ampolleta al pasillo.
+El sábado fue largo. Duró como duran los días en que uno está esperando algo que no sabe qué es. Gonzalo lo pasó en la casa, moviéndose por las piezas con una eficiencia rara, ordenando el clóset del fondo que llevaba dos años sin ordenar, y evitando la sala, que era la única pieza del mundo a la que no entró en once horas. Comió de pie en la cocina. Contestó tres correos que no había que contestar hasta el lunes. Le cambió un foco al pasillo.
 
 Y por debajo de todo eso, en un piso más abajo, estaba el hambre.
 
@@ -1388,7 +1388,7 @@ Gonzalo no alcanzó a sacarla de la boca. Se echó hacia atrás con las dos mano
 
 El aura se apagó.
 
-No se atenuó ni se replegó: se apagó, como se apaga una ampolleta, y la sala quedó a oscuras salvo por la luz azulada de la televisión. El pelo fucsia se le fue del largo en un movimiento, se acortó, se puso oscuro y corto y liso. Las pestañas. El gloss. La boca inflada perdió el volumen y se afinó y arriba de ella apareció una sombra de barba de dos días. Las uñas de cinco centímetros se recogieron dentro de unos dedos anchos. Los hombros se abrieron. La cintura imposible se llenó y se volvió recta, las tetas se fueron, el glitter se quedó exactamente donde estaba, prendido en unos hombros que ahora eran otros hombros, y el vinilo rosa que le quedaba encima —esa tira arrugada, corrida, inútil— dejó de estar tenso en ninguna parte y quedó colgando flojo y torcido de una cadera que no era la que lo había estirado.
+No se atenuó ni se replegó: se apagó, como se apaga un foco, y la sala quedó a oscuras salvo por la luz azulada de la televisión. El pelo fucsia se le fue del largo en un movimiento, se acortó, se puso oscuro y corto y liso. Las pestañas. El gloss. La boca inflada perdió el volumen y se afinó y arriba de ella apareció una sombra de barba de dos días. Las uñas de cinco centímetros se recogieron dentro de unos dedos anchos. Los hombros se abrieron. La cintura imposible se llenó y se volvió recta, las tetas se fueron, el glitter se quedó exactamente donde estaba, prendido en unos hombros que ahora eran otros hombros, y el vinilo rosa que le quedaba encima —esa tira arrugada, corrida, inútil— dejó de estar tenso en ninguna parte y quedó colgando flojo y torcido de una cadera que no era la que lo había estirado.
 
 El chirrido se apagó.
 
