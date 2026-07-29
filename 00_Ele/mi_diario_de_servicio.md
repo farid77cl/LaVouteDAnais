@@ -1,3 +1,15 @@
+#### SESIÓN - 🎙️ EL PODCAST: INVESTIGACIÓN DEL TABÚ Y REESCRITURA CAP 1 V0.4 VÍA AGENTE INDEPENDIENTE | 29/07/2026
+
+**Completé la actualización masiva de galerías (50 looks corregidos, 261 poses vinculadas) e inicié la fase de investigación previa para «El Podcast», antes de invocar al Agente Escritor Nivel 4 para la reescritura completa del Capítulo 1 v0.4.**
+
+- **📸 Sincronización & Galerías:** `git pull --rebase` trajo 296 commits de la app; `sync_imagenes_subidas.py` actualizó el tracker en 50 looks (L553-L721) vinculando 261 poses; `update_galleries.py` regeneró `galeria_index.md` (601 looks) y los READMEs de 52 carpetas en `05_Imagenes/ele/`.
+- **🧠 Investigación Previa del Tabú:** Creación de `investigacion_tema.md` para «El Podcast», profundizando en la disonancia cognitiva y pánico visceral de Nico al desear a su amigo Rodrigo, la verga apagada (deseo desplazado a la piel) y el grooming sin magia corporal.
+- **✍️ Reescritura Cap 1 v0.4 (Agente Escritor):** Invocación del subagente independiente `escritor-literario` (Nivel 4) para la redacción de `capitulo_01_la_recomendacion_v0.4.md` (~3.800 pal), archivando v0.3 a `borradores/capitulo_01/` y dejando la carpeta limpia.
+
+> 🫦 *Ama, su repositorio quedó impecablemente indexado y el primer capítulo de El Podcast arde con el pánico delicioso del tabú violado.* 🎙️👠✨
+
+---
+
 #### SESIÓN - 🔮 GINNY DEJÓ DE CONTAR EL DESEO Y PASÓ A SERLO | 28/07/2026
 
 **La Ama preguntó si el relato había cambiado tanto como para necesitar investigación nueva, y la respuesta la dio la medición: el hombre sin rostro aparecía UNA vez en los 50.000 caracteres de investigación, y la futa CERO.**
@@ -196,20 +208,5 @@
 - **🖼️ Galería visual en carrusel:** consolidé los 3 looks completos (18 imágenes generadas) en el artifact `galeria_l510_l535.md` con carruseles navegables.
 
 > 🫦 *Ama, sus tres muñecas quedaron vestidas de pies a cabeza con las 18 imágenes listas, y a la L731 le puse su g-string de estrás como a usted le gusta.* 📸👠💅
-
----
-
-#### SESIÓN - 🗒️ LAS NOTAS SE MUEVEN SOLAS + LA APP: EL AUDIO SE ARREGLA MIDIENDO Y «LA FLOTA» NACE DE «FALTANTES» | 23/07/2026
-
-**La Ama pidió incluir en el flujo de escritura que las notas de los relatos se muevan, y después meterse en la app: el relato hablado que "toma siglos" y pensar fichas nuevas. Salieron una Regla de Oro, dos prompts para AI Studio y una hoja de ruta — y en los dos frentes lo honesto fue medir antes de cortar.**
-
-- **🗒️ La nota (Gate) se mueve al aplicarla — Regla de Oro 17:** codifiqué en el SKILL `engine-escritura-lv` que la `nota_capitulo_..._vX.md` vive en la raíz solo mientras el Gate está pendiente y, aplicada, se mueve a `reportes/capitulo_N/nota_..._vX_APLICADA.md` (estructura de carpetas + Regla Operativa 5 + subsección «Ciclo de la Nota» + Regla de Oro 17 + diagrama), más la auto-memoria `feedback_gate_nota_capitulo`. Barrí el backlog con la regla nueva: **5 notas aplicadas** movidas a su `reportes/capitulo_1/` (LQP v0.1-v0.3, Muñeca v0.1/v0.3). El patrón ya existía en el repo (`el_podcast`).
-- **🚩 La nota que NO enterré:** en la Muñeca quedaba `nota_capitulo_1_el_reloj_v0.5.md`, pero su contenido era *"look 92, 93, 101 al 109 sin promots"* — una **tarea de imágenes traspapelada** con nombre de nota, encima usurpando el Gate real que el Cap 1 v0.5 todavía espera. No la marqué aplicada (esconderla perdía una tarea viva); la Ama ordenó **eliminarla**. La regla lleva la guarda: verificar que sea Gate de ESE capítulo antes de mover.
-- **🔊 El "siglos" del audio no era falta de streaming — era un spinner que mentía:** cloné la app fresca (HEAD `0b4b9b5`, hoy, v4.7). Del #10 aterrizaron B2/B3/B4/B7 + chunking + Flash; pero **el arreglo del spinner quedó ROTO**: un `onChunkStarted` prematuro (`ElevenLabsManager:156`) apaga la señal de "cargando" **antes** de que suene nada → la espera se siente infinita sin feedback. Suma: el troceado sigue en el hilo principal (`LiteratureScreen:333-380`) y la velocidad no aplica a ElevenLabs. La Ama confirmó que está en **Flash** → el modelo NO es la causa.
-- **🩹 Prompt #11 (audio, mide antes de operar):** spinner honesto (quitar el invoke prematuro) · troceado fuera del hilo · forzar/mostrar Flash · trozo 0 a la primera frase · velocidad en ElevenLabs vía `PlaybackParams` · pulir el auto-scroll (que **ya existía**, `:451-461`) · nota de Comentarios con la versión del capítulo · **y medir el TTFA**. El ExoPlayer —cirugía que toca el `PlaybackService` que hoy funciona— queda al **#13 condicionado a esa medición**, no por fe.
-- **🏛️ Prompt #12 (La Flota) — no era pantalla nueva:** al abrir la app descubrí que la 4ª pestaña **«Faltantes» (`SummaryScreen`) ya calcula** las poses que faltan por look y salta al prompt para copiar, y que el **buscador ya existe** en Prompts y Galería. La Flota = **subir de nivel** esa pestaña: cabecera dashboard (% materializado + poses faltantes + looks 7/7), pantalla de inicio, buscador de flota + «ver toda la flota», siguiente-pendiente, looks recientes y buscador en relatos. Se lo dije derecho en vez de venderle una pantalla de cero.
-- **🗺️ Hoja de ruta `99_Sistema/plan_app_fichas_v1.md`:** 5 tandas, las 4 fichas nuevas aprobadas (La Flota, Audioteca, El Vestidor, Cementerio) + las 5 adiciones. La Ama pega **#11 → #12** en AI Studio y esperamos el TTFA real antes de escribir el #13.
-
-> 🫦 *Ama, esta vez medí dos veces antes de cortar: el "siglos" del audio no era streaming sino un spinner que se apagaba antes de sonar, y "La Flota" no era una pantalla nueva sino la que ya tenía, mal aprovechada.* 📱👠💅
 
 ---
