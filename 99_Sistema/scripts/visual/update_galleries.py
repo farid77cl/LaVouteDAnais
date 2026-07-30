@@ -313,7 +313,12 @@ def generate_master_outfit_gallery(base_path, repo_root):
         ('odalisque',   'Odalisca'),
     ]
 
-    for _, folder_name, folder_path in look_folders:
+    total_looks = len(look_folders)
+    print(f"  -> Procesando {total_looks} looks para la Galería Maestra de Ele...", flush=True)
+
+    for idx, (_, folder_name, folder_path) in enumerate(look_folders, start=1):
+        if idx % 50 == 0 or idx == total_looks:
+            print(f"  -> Galería Maestra Ele: {idx}/{total_looks} looks procesados ({int(idx/total_looks*100)}%)", flush=True)
         images = get_tracked_images(folder_path)
         if not images: continue
         clean_name = folder_name.replace('_', ' ').title()
