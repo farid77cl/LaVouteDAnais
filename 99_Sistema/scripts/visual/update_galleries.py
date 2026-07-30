@@ -379,6 +379,8 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
     total_cats = len(categories)
     print(f"  -> Galería Maestra Miss Doll: procesando {total_cats} categorías...", flush=True)
 
+    content = ["# 💖 Galería Maestra: Miss Doll\n\n", "> El archivo visual de la muñequita de platino (Edición Nube). 🎀✨\n\n", "---\n\n"]
+
     for idx, (title, folder_name) in enumerate(categories, start=1):
         folder_path = os.path.join(md_path, folder_name)
         images = get_tracked_images(folder_path)
