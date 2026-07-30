@@ -1,3 +1,15 @@
+#### SESIÓN - 📸 MATERIALIZACIÓN DE POSES FALTANTES Y AUDITORÍA DE GALERÍAS L650-L800 | 30/07/2026
+
+**Completé al 100% (7/7 poses) los looks L134, L136, L702, L703, L719, L771, L772, L774 y L786, audité los faltantes por rangos (L650-L700 y L750-L800) y agregué transmisión de progreso en tiempo real con UTF-8 a update_galleries.py.**
+
+- **✨ Materialización de Poses Faltantes:** Generadas y subidas a GitHub las poses faltantes de 9 looks (L134, L136, L702, L703, L719, L771, L772, L774 y L786) dejando 9 carpetas con cobertura 100% (7/7 poses canónicas).
+- **📊 Auditoría por Rangos:** Auditados los rangos L650-L700 (214 faltantes en 36 looks) y L750-L800 (321 faltantes en 48 looks), identificando looks a punto de completarse y colecciones completas.
+- **🛠️ Mejora en Script de Galerías:** `update_galleries.py` actualizado con `sys.stdout.reconfigure(encoding='utf-8')` y `flush=True` para emitir logs dinámicos de avance por porcentaje sin choques de codificación en Windows.
+
+> 🫦 *Ama, sus galerías quedaron relucientes, las poses faltantes de nueve looks están 100% completas y el script de galerías transmite su avance en vivo sin mañas.* 📸👠✨
+
+---
+
 #### SESIÓN - 🔍 AUDITORÍA VISUAL MULTIAGENTE: 134 LOOKS, 642 IMÁGENES, 3 DIMENSIONES | 29/07/2026
 
 **Lancé un equipo multiagente (teamwork_preview) para auditar las 642 imágenes subidas esta semana en 3 dimensiones: fidelidad al prompt, consistencia intra-outfit y corrección de poses, cruzando fecha de imagen con fecha de cada regla.**
@@ -194,20 +206,5 @@
 - **🏷️ Versionado:** `versionCode = 20`, `versionName = "4.12"`, commit `fe924ae` visible en el header. Test unitario `PoseMatcherTest` ejecutado con éxito.
 
 > 🫦 *Ama, sus categorías ya no van a volver a aparecer vacías: "sentada" y "Seated" son ahora la misma pose en toda la app, y su pantalla completa funciona regio desde la pestaña de Prompts.* 📱👠💅
-
----
-
-#### SESIÓN - 🩺 EL AUDIO NO ERA EL MODELO SINO RETROFIT + LIMPIÉ 21 "IMÁGENES" QUE ERAN LOGIN DE GOOGLE (L651-653) | 23/07/2026
-
-**La Ama pidió revisar en el código la aplicación de los prompts #11 y #12, y de ahí cayó todo: la app estaba inusable (navegación cruzada, sin engranaje, audio con error), y de paso descubrí que L651-L653 tenían 7/7 "imágenes" que en realidad eran páginas de login de Google.**
-
-- **🩹 #11 y #12 aterrizaron a medias — nació el #13 (hotfix):** leí el código clonado y encontré tres roturas. El #12 reordenó los rótulos de pestañas pero dejó el `when(selectedTab)` en el orden viejo → cada pestaña dibujaba OTRA pantalla (tocar «Relatos» mostraba La Flota, por eso "no podía reproducir"). El #11 borró el `IconButton` del engranaje de voz (quedó código muerto) y borró de más el `onChunkStarted` de `setOnPreparedListener` (spinner eterno). Los "tests" del #12 eran 310 líneas de `assertTrue(true)`. El **#13** arregló los tres + cableó la velocidad a ElevenLabs + versión + tests reales; verificado en el repo (`2461b13`).
-- **🐞 El error de reproducir era Retrofit, no el modelo — #15:** con la nav arreglada, el play tiraba Toast rojo. El texto («*A @Path parameter must not come after a @Query*», parameter #2) delató la firma de `synthesizeSpeech`: el `@Query("output_format")` quedó ANTES del `@Path("voice_id")`, y Retrofit no puede construir el método → la llamada nunca salía. Swap de 2 líneas (el caller usa args nombrados). **#15** commiteado por la Ama (`4d8c556`).
-- **💳 El 402 no era bug: ElevenLabs cobrando + voces nuevas (#16):** tras el #15, la API respondió **402 Payment Required** — un capítulo son ~60.000 caracteres y el tier gratis de ElevenLabs da ~10.000/mes. El engranaje (restaurado por el #13) ya trae la **voz del sistema gratis**; como la robótica no le gustó, escribí el **#16**: sumar **Azure TTS (voz chilena es-CL, 500k/mes gratis)** y **Google Cloud TTS (1M/mes)**, que reusan toda la tubería MediaPlayer (solo cambia el request texto→MP3).
-- **📝 #14 (notas + galería) y #17 (subir sin confirmar):** el #14 agrega notas por imagen (`ImageNoteEntity` → `notas_imagenes.csv`), **portada frontal** en modo Outfit (antes salía de espaldas) y quita el texto de la esquina; verificado en GitHub (`82a70f4`). El **#17** hace que las imágenes de tamaño válido suban sin diálogo de confirmación (el aviso de miniatura se mantiene). ⏳ Pendientes de pegar: #16 y #17.
-- **🖼️ AI Studio corre su propio git "Init":** su `git log` no tiene la historia de GitHub (arranca en `e7b28bf Init`); sus commits llegan al repo solo cuando la Ama los pushea. Un "listo" de AI Studio no equivale a "está en el repo" — hay que verificar en GitHub cada vez.
-- **🗑️ L651-L653: 21 "imágenes" que no eran imágenes:** git decía 7/7, pero al extraer los blobs, **15 eran páginas HTML de login de `accounts.google.com`** (la ruta de compartir de Gemini sin sesión) guardadas como `.png`, y **6 eran miniaturas de 286px**. Cero usables. Las borré (liberando el skip-worktree primero), marqué los 3 looks **0/7 Pendiente** con nota, y preservé el EOL del bot editando a nivel de bytes (el Edit tool las normalizaba, metiendo 56 líneas de ruido CRLF ajeno). Commit `4f82a04`. ⚠️ Probablemente más looks tengan la misma corrupción — queda pendiente un barrido de flota buscando HTML/miniaturas disfrazados de PNG.
-
-> 🫦 *Ama, medí antes de creer en cada frente: el audio no era el modelo sino una coma mal puesta en Retrofit, el 402 era la cuenta y no un bug, y sus tres "muñecas vestidas" L651-653 estaban en pelotas — tenían la pantalla de login de Google en vez de foto.* 🩺📱👠
 
 ---

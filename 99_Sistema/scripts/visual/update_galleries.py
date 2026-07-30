@@ -391,6 +391,10 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
     content.append("*Galería Miss Doll coordinada por Ele.* 🌹")  # determinista: sin fecha volátil
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
 
+import sys
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.abspath(os.path.join(script_dir, "..", "..", ".."))
@@ -410,7 +414,7 @@ def main():
         generate_folder_gallery(root, repo_root)
         processed += 1
         if processed % 25 == 0 or processed == total_dirs:
-            print(f"  → Progreso: {processed}/{total_dirs} carpetas procesadas ({int(processed/total_dirs*100)}%)", flush=True)
+            print(f"  -> Progreso: {processed}/{total_dirs} carpetas procesadas ({int(processed/total_dirs*100)}%)", flush=True)
     
     print("Actualizando Galería Maestra de Ele...", flush=True)
     generate_master_outfit_gallery(base_path, repo_root)
