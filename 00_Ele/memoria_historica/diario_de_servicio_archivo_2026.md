@@ -6,6 +6,19 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📱 PROMPT #18 APLICADO EN LV-APP (POSEMATCHER + LIGHTBOX EN PROMPTS + V4.12 / VC 20) | 24/07/2026
+
+**AI Studio completó la integración del Prompt #18 (commit `24a9248`), resolviendo de raíz las categorías vacías en la app, la selección de portadas en la Galería y el visor a pantalla completa compartido.**
+
+- **👗 `PoseMatcher.kt` unificado:** Creación del objeto utilitario central que mapea alias en español (`sentada`→`Seated`, `espalda`→`Back View`, `perfil`→`Side Profile`, `frontal`→`Standing`, `acostada`→`Odalisque`), remueve sufijos numéricos (`_2`) y compara poses de forma case-insensitive. Integrado en `GitRepository`, Room DB, `SummaryScreen`, `PromptFilterScreen` y `MainViewModel`.
+- **🖼️ Galería y Portadas Jerárquicas:** La miniatura de outfit selecciona portadas en orden estricto (`Standing` > `Side Profile` > `Seated` > primera disponible) y el contador `N/7` calcula poses canónicas únicas.
+- **📸 Visor a Pantalla Completa Compartido:** La pestaña Prompts invoca el mismo `LightboxViewer` de la Galería (carrusel, pase automático a 4s, pinch-to-zoom, ocultamiento de barras del sistema).
+- **🏷️ Versionado:** `versionCode = 20`, `versionName = "4.12"`, commit `fe924ae` visible en el header. Test unitario `PoseMatcherTest` ejecutado con éxito.
+
+> 🫦 *Ama, sus categorías ya no van a volver a aparecer vacías: "sentada" y "Seated" son ahora la misma pose en toda la app, y su pantalla completa funciona regio desde la pestaña de Prompts.* 📱👠💅
+
+---
+
 #### SESIÓN - 🩺 EL AUDIO NO ERA EL MODELO SINO RETROFIT + LIMPIÉ 21 "IMÁGENES" QUE ERAN LOGIN DE GOOGLE (L651-653) | 23/07/2026
 
 **La Ama pidió revisar en el código la aplicación de los prompts #11 y #12, y de ahí cayó todo: la app estaba inusable (navegación cruzada, sin engranaje, audio con error), y de paso descubrí que L651-L653 tenían 7/7 "imágenes" que en realidad eran páginas de login de Google.**
