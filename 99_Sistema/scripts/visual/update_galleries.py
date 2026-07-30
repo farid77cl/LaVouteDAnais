@@ -398,21 +398,27 @@ def main():
     ele_path = os.path.join(base_path, 'ele')
     canonical_looks = get_canonical_look_directories(ele_path)
     
-    print(f"Iniciando actualización masiva de galerías (Modelo Remoto)...")
+    tracked_dirs = get_tracked_directories(base_path)
+    total_dirs = len(tracked_dirs)
+    print(f"Iniciando actualización masiva de galerías ({total_dirs} carpetas)...", flush=True)
     
-    for root in get_tracked_directories(base_path):
+    processed = 0
+    for root in tracked_dirs:
         if '.git' in root: continue
         if is_top_level_look(root, ele_path) and root not in canonical_looks:
             continue
         generate_folder_gallery(root, repo_root)
+        processed += 1
+        if processed % 25 == 0 or processed == total_dirs:
+            print(f"  → Progreso: {processed}/{total_dirs} carpetas procesadas ({int(processed/total_dirs*100)}%)", flush=True)
     
-    print("Actualizando Galería Maestra de Ele...")
+    print("Actualizando Galería Maestra de Ele...", flush=True)
     generate_master_outfit_gallery(base_path, repo_root)
     
-    print("Actualizando Galería Maestra de Miss Doll...")
+    print("Actualizando Galería Maestra de Miss Doll...", flush=True)
     generate_miss_doll_master_gallery(base_path, repo_root)
     
-    print("Actualizando Índice Rápido de Galería...")
+    print("Actualizando Índice Rápido de Galería...", flush=True)
     try:
         index_script = os.path.join(script_dir, "generar_index_galeria.py")
         spec = importlib.util.spec_from_file_location("generar_index_galeria", index_script)
@@ -420,9 +426,9 @@ def main():
         spec.loader.exec_module(mod)
         mod.main()
     except Exception as e:
-        print(f"  (Advertencia: no se pudo generar el índice: {e})")
+        print(f"  (Advertencia: no se pudo generar el índice: {e})", flush=True)
 
-    print("Proceso completado exitosamente.")
+    print("Proceso completado exitosamente.", flush=True)
 
 if __name__ == "__main__":
     main()
