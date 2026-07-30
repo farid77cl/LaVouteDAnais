@@ -376,12 +376,14 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
         ("📦 General", "General")
     ]
 
-    content = ["# 💖 Galería Maestra: Miss Doll\n\n", "> El archivo visual de la muñequita de platino (Edición Nube). 🎀✨\n\n", "---\n\n"]
+    total_cats = len(categories)
+    print(f"  -> Galería Maestra Miss Doll: procesando {total_cats} categorías...", flush=True)
 
-    for title, folder_name in categories:
+    for idx, (title, folder_name) in enumerate(categories, start=1):
         folder_path = os.path.join(md_path, folder_name)
         images = get_tracked_images(folder_path)
         if not images: continue
+        print(f"  -> Miss Doll ({idx}/{total_cats}): {folder_name} ({len(images)} imgs)", flush=True)
         
         content.append(f"## {title}\nTotal: {len(images)} imágenes. [Ver carpeta completa](./{folder_name}/README.md)\n\n")
         sample = images[:3]
@@ -395,6 +397,7 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
 
     content.append("*Galería Miss Doll coordinada por Ele.* 🌹")  # determinista: sin fecha volátil
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
+    print("  -> Galería Maestra Miss Doll completada.", flush=True)
 
 import sys
 if hasattr(sys.stdout, 'reconfigure'):

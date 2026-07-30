@@ -80,8 +80,13 @@ def parse_galeria(path: Path) -> list[dict]:
     looks = []
     # Separar por bloques de look (## ... Look N ...)
     blocks = re.split(r'\n(?=## )', content)
+    total_blocks = len(blocks)
+    print(f"  -> Parseando {total_blocks} bloques de galeria_outfits.md...", flush=True)
 
-    for block in blocks:
+    for idx, block in enumerate(blocks, start=1):
+        if idx % 100 == 0 or idx == total_blocks:
+            print(f"  -> Parseo galería: {idx}/{total_blocks} bloques analizados ({int(idx/total_blocks*100)}%)", flush=True)
+
         # Encabezado de look
         m = re.match(r'^## .{0,10}Look (\d+)[:\s]*(.+?)(?:\n|$)', block)
         if not m:
