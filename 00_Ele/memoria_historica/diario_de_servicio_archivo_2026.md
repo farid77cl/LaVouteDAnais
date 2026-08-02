@@ -6,6 +6,32 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🩺 AL L775 NO LE FALTABA NADA: EL REPO ESTABA OK Y EL ARREGLO YA VIVÍA EN EL POSEMATCHER (#18) | 26/07/2026
+
+**La Ama no veía en la app la pose de espalda ni la de lado del L775, pero al mirar las imágenes sí estaban; verifiqué el repo y las dos existían con nombre canónico correcto — el problema era del lado de la app, no del contenido, y el arreglo ya estaba shippeado.**
+
+- **✅ El repo estaba impecable:** `ele_775_back_view.png` y `ele_775_side_profile.png` presentes en git, con nombre canónico, y visibles en README + tracker de la galería. No faltaba ninguna imagen; era un problema de **visualización en la app**, no de materialización.
+- **🔑 La pista de oro (nombre compuesto):** las dos poses que la app NO mostraba (`back_view`, `side_profile`) son justo las de **dos palabras**; las que sí mostraba (`standing`, `seated`) son de una sola. El patrón apuntaba directo al emparejador de poses de la app, no al repo.
+- **📱 El arreglo YA existía (#18 / `PoseMatcher.kt`, v4.12 · VC 20):** el `git pull` trajo la sesión del 24/07 donde AI Studio integró `PoseMatcher.kt` — mapea alias español (`espalda`→Back View, `perfil`→Side Profile), quita sufijos `_2` y compara case-insensitive, resolviendo de raíz las categorías vacías. O sea el bug que diagnostiqué ya estaba corregido; si la Ama aún no lo ve, su **APK instalado es anterior a v4.12** (le toca actualizar).
+- **⬇️ El pull también completó el L775:** llegaron `ele_775_ditzy/odalisque/pov.png` → el look quedó **7/7**. También entraron el set completo del L773, `prompt_app_ai_studio_18.md`/`_19.md`, `plan_trabajo_lv_app_2_0.md` y `notas_imagenes.csv`.
+
+> 🫦 *Ama, no le faltaba ni una foto: sus muñecas de espalda y de perfil siempre estuvieron ahí, guardaditas y bien nombradas. Lo que le fallaba era la app vieja — instale la v4.12 y van a aparecer solitas.* 🩺📱👠
+
+---
+
+#### SESIÓN - 📱 PROMPT #19 Y PLAN DE DISEÑO MAESTRO DE LV-APP 2.0 (5 PESTAÑAS + PRIVACIDAD DE REPOS) | 24/07/2026
+
+**Diseñé la arquitectura maestra de LV-App 2.0 desde cero para AI Studio (Prompt #19) con 5 pestañas integradas y tema dinámico adaptativo por personaje, además de dejar 12 repositorios privados en GitHub.**
+
+- **📱 LV-App 2.0 desde Cero (Prompt #19):** Creación y commit de `99_Sistema/prompt_app_ai_studio_19.md`, `plan_diseno_maestro_lv_app_2_0.md` y `99_Sistema/plan_trabajo_lv_app_2_0.md`. La app incluye Motor Visual V3.5, Lector Literario Nivel 4 con Audio Player (Media3/ExoPlayer + Karaoke Sync), La Constelación (Bluesky Publisher + Gate Approval in 1-Tap), Consola Ops Git Live y EVE Core Command.
+- **🎨 Sistema de Diseño Dinámico Adaptativo:** La UI cambia automáticamente según el personaje (Ele = Deep Violet/Hot Magenta `#FF2B85`, Clara = Cherry Red/Leopard Gold, Anaïs = Imperial Gold `#D4AF37`/Velvet).
+- **🔒 Privacidad de Repositorios GitHub:** Actualización vía GitHub API de 12 repositorios de la cuenta `farid77cl` a **Privado**, dejando únicamente `LaVouteDAnais` y `ayunka-studio` en **Público** para facilitar cargas e integración.
+- **🌹 Gestión y Archivado de Subagentes:** Activación, reconfiguración de canon restringido y desactivación/purgado de la sesión de Clara Larraín preservando su canon literario oficial.
+
+> 🫦 *Ama, todo el plan de su nuevo centro de comando móvil quedó diseñado y respaldado; su nuevo Prompt #19 está en AI Studio y sus repositorios quedaron 100% seguros y privados como usted quería.* 📱🔒💄👠
+
+---
+
 #### SESIÓN - 📱 PROMPT #18 APLICADO EN LV-APP (POSEMATCHER + LIGHTBOX EN PROMPTS + V4.12 / VC 20) | 24/07/2026
 
 **AI Studio completó la integración del Prompt #18 (commit `24a9248`), resolviendo de raíz las categorías vacías en la app, la selección de portadas en la Galería y el visor a pantalla completa compartido.**

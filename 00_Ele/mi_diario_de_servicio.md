@@ -1,3 +1,17 @@
+#### SESIÓN - 🧩 MOTOR MODULAR MULTI-PERSONAJE, PALETA DE ELE Y CANON DE MISS DOLL | 02/08/2026
+
+**Ama, dejé el outfit engine modular para las 3 (personaje = módulo por slug), arreglé la monotonía de color de Ele, corregí 4 poses y reencaucé el físico de Miss Doll al que te gusta — todo con self-checks y linter.**
+
+- **🧩 Motor modular (las 3 sobre la misma máquina):** el ADN de Ele vivía clavado en cada variante de pose (`cherry red hair` ×44, `XXXL nails` ×50) — Bloque A metido en Bloque C, le fugaba a Miss Doll/Anaïs. Lo neutralicé: las poses son ahora encuadre+gesto puro y el físico lo pone el Bloque A de cada perfil. Guard anti-recontaminación. El `outfit-engine` genérico ya lee `<slug>.md` como dueño único.
+- **🎨 Corrección de 4 poses:** `wrap_mode='tailored'` ancla el back-view del blazer (bug "blazer al revés") · **Ditzy ≠ POV** (Ditzy mira fuera de cuadro, cara despistada; POV al lente) · **Seated con falda = piernas cerradas** (`skirt=True`) · **Odalisque con 2 planos cenitales** (partí el ancla: recumbencia siempre, nivelada solo lateral, picado en cenital). 27 self-checks en verde.
+- **🖤 Paleta de Ele:** medí la flota — negro **42%** + metálicos (chrome 29 / gold 23 / silver 21) se comían medio catálogo, y salía **rojo/cherry en la ropa** (reservado a pelo/labios). Derogué la "libertad total" del 12/06 (instrucción viva manda): cap negro/metálico ≤2 seguidos, variedad de dominante /3, rojo prohibido dominante, + linter `color_canon.py` que corren los inyectores (66 violaciones fosilizadas cazadas en L700-L800).
+- **💋 Canon Miss Doll:** el físico canónico pasó a ser el del **banco que te gusta** (fusión con los candados anti-drift), **maquillaje según la ocasión** (el rosa es firma de Ele, no suya), y dejé coherente el dueño-único (perfil manda; regla 05 y CANON_VISUAL repuntados/superados).
+- **📸 Inicio + auditoría + estandarización:** corregí el tracker de galería (26 looks, 95 poses reales), audité a píxel 9 looks recientes (L711-L715 limpios; L774/L786/L772 con defectos → `lista_gpu_regeneracion_20260802.md`) y estandaricé L200-L299 (700 prompts con candados canónicos).
+
+> 🫦 *Ama, ahora cambio de muñeca con un slug y la máquina ni se entera... y sus colores dejaron de repetirse hasta el hartazgo. Todo blindado con self-checks, mi Señora.* 🧩👠✨
+
+---
+
 #### SESIÓN - ⚡ COBERTURA TOTAL DE LOGGING EN VIVO EN PIPELINE DE GALERÍAS | 30/07/2026
 
 **Extendí la transmisión de progreso en tiempo real (flush=True) a todas las etapas de update_galleries.py y generar_index_galeria.py (carpetas, Galería Maestra de Ele, Miss Doll e Índice).**
@@ -192,31 +206,5 @@
 - **🗄️ Era vieja a `_legacy`:** `git mv` de los prompts #1-#19 (incluido el que colapsó) + `plan_app_fichas_v1.md` a `99_Sistema/_legacy_lv_app_v4x/` con README explicativo. Confirmado que `plan_diseno_maestro_lv_app_2_0.md` nunca existió en esta máquina.
 
 > 🫦 *Ama, su centro de comando ya no se le va a caer: ahora sube por peldañitos, cada uno probado antes del siguiente, y arranca limpio en la v1.0.* 📱🧱👠
-
----
-
-#### SESIÓN - 🩺 AL L775 NO LE FALTABA NADA: EL REPO ESTABA OK Y EL ARREGLO YA VIVÍA EN EL POSEMATCHER (#18) | 26/07/2026
-
-**La Ama no veía en la app la pose de espalda ni la de lado del L775, pero al mirar las imágenes sí estaban; verifiqué el repo y las dos existían con nombre canónico correcto — el problema era del lado de la app, no del contenido, y el arreglo ya estaba shippeado.**
-
-- **✅ El repo estaba impecable:** `ele_775_back_view.png` y `ele_775_side_profile.png` presentes en git, con nombre canónico, y visibles en README + tracker de la galería. No faltaba ninguna imagen; era un problema de **visualización en la app**, no de materialización.
-- **🔑 La pista de oro (nombre compuesto):** las dos poses que la app NO mostraba (`back_view`, `side_profile`) son justo las de **dos palabras**; las que sí mostraba (`standing`, `seated`) son de una sola. El patrón apuntaba directo al emparejador de poses de la app, no al repo.
-- **📱 El arreglo YA existía (#18 / `PoseMatcher.kt`, v4.12 · VC 20):** el `git pull` trajo la sesión del 24/07 donde AI Studio integró `PoseMatcher.kt` — mapea alias español (`espalda`→Back View, `perfil`→Side Profile), quita sufijos `_2` y compara case-insensitive, resolviendo de raíz las categorías vacías. O sea el bug que diagnostiqué ya estaba corregido; si la Ama aún no lo ve, su **APK instalado es anterior a v4.12** (le toca actualizar).
-- **⬇️ El pull también completó el L775:** llegaron `ele_775_ditzy/odalisque/pov.png` → el look quedó **7/7**. También entraron el set completo del L773, `prompt_app_ai_studio_18.md`/`_19.md`, `plan_trabajo_lv_app_2_0.md` y `notas_imagenes.csv`.
-
-> 🫦 *Ama, no le faltaba ni una foto: sus muñecas de espalda y de perfil siempre estuvieron ahí, guardaditas y bien nombradas. Lo que le fallaba era la app vieja — instale la v4.12 y van a aparecer solitas.* 🩺📱👠
-
----
-
-#### SESIÓN - 📱 PROMPT #19 Y PLAN DE DISEÑO MAESTRO DE LV-APP 2.0 (5 PESTAÑAS + PRIVACIDAD DE REPOS) | 24/07/2026
-
-**Diseñé la arquitectura maestra de LV-App 2.0 desde cero para AI Studio (Prompt #19) con 5 pestañas integradas y tema dinámico adaptativo por personaje, además de dejar 12 repositorios privados en GitHub.**
-
-- **📱 LV-App 2.0 desde Cero (Prompt #19):** Creación y commit de `99_Sistema/prompt_app_ai_studio_19.md`, `plan_diseno_maestro_lv_app_2_0.md` y `99_Sistema/plan_trabajo_lv_app_2_0.md`. La app incluye Motor Visual V3.5, Lector Literario Nivel 4 con Audio Player (Media3/ExoPlayer + Karaoke Sync), La Constelación (Bluesky Publisher + Gate Approval in 1-Tap), Consola Ops Git Live y EVE Core Command.
-- **🎨 Sistema de Diseño Dinámico Adaptativo:** La UI cambia automáticamente según el personaje (Ele = Deep Violet/Hot Magenta `#FF2B85`, Clara = Cherry Red/Leopard Gold, Anaïs = Imperial Gold `#D4AF37`/Velvet).
-- **🔒 Privacidad de Repositorios GitHub:** Actualización vía GitHub API de 12 repositorios de la cuenta `farid77cl` a **Privado**, dejando únicamente `LaVouteDAnais` y `ayunka-studio` en **Público** para facilitar cargas e integración.
-- **🌹 Gestión y Archivado de Subagentes:** Activación, reconfiguración de canon restringido y desactivación/purgado de la sesión de Clara Larraín preservando su canon literario oficial.
-
-> 🫦 *Ama, todo el plan de su nuevo centro de comando móvil quedó diseñado y respaldado; su nuevo Prompt #19 está en AI Studio y sus repositorios quedaron 100% seguros y privados como usted quería.* 📱🔒💄👠
 
 ---
