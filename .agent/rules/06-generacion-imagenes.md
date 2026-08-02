@@ -62,6 +62,8 @@ La **odalisca** (pose recostada/lánguida) derivaba a **SENTADA**: el generador 
 
 **Fix (automático, ya en el motor):** `rotate_poses` prepende `ODALISQUE_ANCHOR` (*"lying down on the surface, the whole body low and horizontal, a reclining odalisque, NOT sitting upright and NOT seated"*) **solo al slot Odalisque**. No requiere nada del inyector. **Recomendado además** añadir al negative del inyector: `sitting upright, seated, sitting on the floor`. Self-check en el `__main__` del módulo. Ver auto-memoria `feedback_odalisca_sentada`.
 
+**Planos cenitales (Ama 02/08/2026):** el pool Odalisque ahora trae **2 variantes cenitales** (picado total, cámara directamente arriba mirando hacia abajo). El ancla se **partió** en `ODALISQUE_RECUMBENCY` (siempre) + `ODALISQUE_LEVEL_CAM` (variantes laterales) vs `ODALISQUE_ZENITHAL_CAM` (variantes cenitales) — porque el horizonte nivelado choca con un picado. `rotate_poses` detecta la variante cenital (`"zenithal" in v`) y le pone recumbencia + cámara cenital, nunca la nivelada. Automático, sin parámetro.
+
 ## 8. LINT DE CALZADO OBLIGATORIO (Directiva Ama 09/07/2026 — "aplica los fix en el engine para que no pase")
 
 El token de calzado se escribe libre por look y nada lo validaba → se colaban errores de canon que solo se cazaban mirando las imágenes ya generadas (auditoría del batch blanco de novia L731-L740: open/peep toe **con medias**, mule fuera de Lencería, mule sin plataforma). **Fix de raíz:** `99_Sistema/scripts/visual/footwear_canon.py`, un linter que **todo inyector DEBE correr antes de escribir la galería** (igual que `check_setting_variety`):
@@ -81,3 +83,15 @@ Reglas que impone (devuelve la lista de violaciones; vacía = limpio):
 4. **Calzado plano/no-canónico o `chunky` en el positive** (`flat/wedge/block/kitten/sneaker/barefoot/chunky`) → eso va solo en el negative.
 
 Self-check en el `__main__`. Ver auto-memorias `feedback_medias_calzado_reglas` y `feedback_footwear_canon_absoluto`.
+
+## 9. DITZY ≠ POV — DIFERENCIACIÓN (Directiva Ama 02/08/2026 — "salen casi iguales el 90%")
+
+Ditzy y POV rendían casi idénticas: ambas close-up de cara, mano cerca del rostro, *half-lidded gaze*. **Fix en los pools de variantes** (`DITZY` / `POV` en `pose_rotation_v5.py`), diferenciador duro:
+- **Ditzy** = toma cintura-arriba de **detalle del outfit** superior · **mirada perdida/soñadora FUERA de cuadro** (no al lente) · expresión de **bimbo despistada** (airhead daydream), no smoldering.
+- **POV** = close-up de **cara al lente** · **mirada directa** thirst-trap de Instagram.
+
+Self-check `Diferenciacion Ditzy/POV`: toda variante Ditzy mira fuera de cuadro; toda variante POV mira al lente. Automático, sin parámetro.
+
+## 10. SENTADA CON FALDA — PIERNAS CERRADAS (Directiva Ama 02/08/2026 — "sentada con falda no puede ser abierta de piernas")
+
+Las 6 variantes `SEATED` ya pedían piernas cruzadas/juntas, pero el generador **driftea a piernas abiertas** y con falda eso expone la entrepierna y rompe el canon editorial. **Fix:** parámetro `skirt=True` en `rotate_poses` → inyecta `SEATED_MODESTY` (*"rodillas y muslos apretados juntos, piernas cruzadas o juntas a un lado, nunca abiertas ni en M, ruedo de la falda cerrado sobre el regazo"*) **solo en el slot Seated**. **Todo inyector cuyo look lleve falda o vestido DEBE pasar `skirt=True`.** Self-check `Modestia Seated con falda`. (Con bikini/short no se pasa: ahí no aplica.)

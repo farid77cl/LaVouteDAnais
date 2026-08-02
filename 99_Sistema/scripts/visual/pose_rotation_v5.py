@@ -94,13 +94,22 @@ _WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED, "tailored":
 # REFUERZO 15/07/2026 (L795 Odalisque): la toma salio con el ENCUADRE ROTADO 90 grados (la figura
 # recostada a lo largo del eje vertical del cuadro, desorientante). Se suma el ancla de camara
 # nivelada: piso abajo, horizonte recto, imagen nunca rotada de lado.
-ODALISQUE_ANCHOR = ("lying down on the surface with the whole body low and horizontal, a reclining "
+# SPLIT 02/08/2026 (Ama pidio "planos cenitales en odalisca"): la recumbencia va SIEMPRE, pero la
+# camara nivelada (horizonte recto) CHOCA con un plano cenital/picado total. Por eso se separan:
+# ODALISQUE_RECUMBENCY (siempre) + ODALISQUE_LEVEL_CAM (variantes laterales) | ODALISQUE_ZENITHAL_CAM
+# (variantes cenitales). ODALISQUE_ANCHOR se mantiene = recumbencia + nivelada (variantes laterales).
+ODALISQUE_RECUMBENCY = ("lying down on the surface with the whole body low and horizontal, a reclining "
                     "odalisque with the torso resting down toward the surface, NOT sitting upright "
                     "and NOT seated, both hips and shoulders down on the named surface with the legs "
                     "stretched along it and both feet off the floor, NOT perched on the edge and NOT "
-                    "leaning against any nearby table, desk, counter or island, shot with a level "
-                    "upright camera, the floor at the bottom of the frame and the horizon perfectly "
-                    "level, the image never rotated or tilted sideways")
+                    "leaning against any nearby table, desk, counter or island")
+ODALISQUE_LEVEL_CAM = ("shot with a level upright camera, the floor at the bottom of the frame and the "
+                    "horizon perfectly level, the image never rotated or tilted sideways")
+ODALISQUE_ANCHOR = ODALISQUE_RECUMBENCY + ", " + ODALISQUE_LEVEL_CAM
+ODALISQUE_ZENITHAL_CAM = ("shot from directly overhead in a true zenithal top-down bird's-eye angle, the "
+                    "camera mounted straight above her looking vertically down onto her body as it lies "
+                    "flat on the surface, a clean flat-lay overhead composition with the whole reclining "
+                    "body seen from above, the frame kept square and level and not skewed or dutch-tilted")
 
 # ANCLA DE PESO EN LA SENTADA + REESCRITURA DE 2 VARIANTES (Ama 11/07/2026 — BUG "problemas
 # en Seated"): auditoria de las ultimas 50 imagenes (L729-L760) encontro 6 de 7 muestras con
@@ -594,6 +603,14 @@ BACK = [
  "full body back view kneeling upright with the spine arched and sitting back toward the heels, one XXXL-nailed hand reaching up the back and the other in the hair, looking over the shoulder, the stilettos visible behind",
 ]
 
+# SEATED_MODESTY (Ama 02/08/2026 — "la pose sentada, cuando es con falda, no puede ser abierta de
+# piernas"): las 6 variantes SEATED ya piden piernas cruzadas/juntas, pero el generador driftea a
+# piernas abiertas y con falda eso expone la entrepierna y rompe el canon editorial. Ancla afirmativa
+# anti-spread que el inyector pega en el slot Seated SOLO cuando el look lleva falda/vestido (skirt=True).
+SEATED_MODESTY = ("the knees and the thighs kept pressed firmly together and the legs closed — crossed "
+ "knee-over-knee or angled together to one side — never parted, never spread and never in an open-legged, "
+ "knees-apart or M-shaped seated posture, the skirt or dress hem kept modestly closed over the lap")
+
 SEATED = [
  "perched on {seat} with one leg crossed over the other and the top stiletto pointed at the camera, an extreme lumbar arch, one XXXL-nailed hand on the top knee and the other fingertip at the bottom lip, the bust angled forward, shoulders rolled back, half-lidded direct gaze, cherry red hair framing one breast",
  "leaning her torso sharply forward from the hips while perched on the edge of {seat}, both elbows planted firmly on top of both knees, the décolleté angled toward the camera, the stilettos crossed at the ankle, one XXXL-nailed hand under the chin, looking up through the lashes with lips parted, cherry red hair falling forward",
@@ -621,15 +638,18 @@ SIDE = [
  "full body side profile standing tall with both stilettos together, the torso turned to pure profile showing the bust-to-waist-to-hip silhouette, one XXXL-nailed hand on the lower back accentuating the lumbar arch and the other at the collarbone, chin high, a commanding profile gaze, cherry red hair swept over the far shoulder",
 ]
 
-# DITZY (Directiva Ama 09/06/2026): encuadre DE LA CINTURA HACIA ARRIBA (no plano americano).
-# Pose SENSUAL que presenta pechos + rostro -> es la toma de DETALLE (rostro, maquillaje, detalle del outfit superior).
+# DITZY (Directiva Ama 09/06/2026 · DIFERENCIADA de POV 02/08/2026): encuadre DE LA CINTURA HACIA
+# ARRIBA, toma de DETALLE del OUTFIT superior + rostro. La Ama: "Ditzy y POV salen casi iguales el
+# 90%". El diferenciador DURO frente a POV: (1) mirada PERDIDA/soñadora FUERA de cuadro (NO al lente),
+# (2) expresion de bimbo despistada/vacia (airhead daydream, no smoldering), (3) el foco es el
+# BODICE/outfit superior, no la cara dominante. POV = cara al lente, mirada directa; Ditzy = distraida.
 DITZY = [
- "waist-up shot framed from the waist up, the torso angled and the augmented bust presented to the camera, one XXXL French fingertip resting against the glossy parted lips and the other hand at the waist, the face the focus of the frame showing the detailed bimbo makeup, a sensual half-lidded gaze, cherry red hair framing the face, the bodice and its detail crisp and legible",
- "waist-up shot framed from the waist up, the bust presented to the camera, one XXXL French fingertip twirling a lock of cherry red hair beside the face, the face the focus showing the detailed bimbo makeup and glossy parted lips, a sensual half-lidded gaze, the bodice and its detail crisp and legible",
- "waist-up shot framed from the waist up, the torso angled, one XXXL-nailed hand resting at the neckline while gazing at the camera, the face the focus showing the detailed makeup and glossy parted lips, a sensual half-lidded gaze, cherry red hair over one shoulder, the bodice detail crisp and legible",
- "waist-up shot framed from the waist up, the bust presented to the camera, XXXL French fingertips held just in front of the glossy lips blowing a kiss to the camera, the face the focus showing the detailed bimbo makeup, a sensual half-lidded gaze, cherry red hair framing the face, the bodice detail crisp and legible",
- "waist-up shot framed from the waist up, the bust presented to the camera, one XXXL-nailed hand framing the cheekbone with the head tilted, the face the focus of the frame showing the detailed makeup and glossy parted lips, a sensual half-lidded gaze, cherry red hair cascading, the bodice and its detail crisp and legible",
- "waist-up shot framed from the waist up, the torso turned and the augmented bust presented, the chin dropped and the eyes lifted to the lens through the lashes, one XXXL fingertip at the glossy bottom lip, the face the focus showing the detailed bimbo makeup, a sensual half-lidded gaze, cherry red hair forward, the bodice detail crisp and legible",
+ "waist-up shot framed from the waist up, the torso angled and the augmented bust and bodice presented to the camera, one XXXL French fingertip pressed to her own cheek while the gaze drifts dreamily off to the side away from the lens, a vacant airhead daydreaming expression with glossy parted lips, cherry red hair framing the face, the outfit's bodice and upper detail crisp and legible",
+ "waist-up shot framed from the waist up, one XXXL French fingertip lazily twirling a lock of cherry red hair while the eyes wander up and away from the camera lost in a distracted daydream, a vacant ditzy expression and glossy parted lips, the bust and bodice presented and its detail crisp and legible",
+ "waist-up shot framed from the waist up, the head tilted and the gaze wandering off past the lens as if she forgot the camera was there, one XXXL-nailed hand resting at the neckline, a dreamy empty-headed half-smile with glossy lips, cherry red hair over one shoulder, the outfit's upper detail crisp and legible",
+ "waist-up shot framed from the waist up, glancing down and away at her own bare shoulder with a distracted vacant expression, one XXXL fingertip grazing the collarbone, glossy parted lips, cherry red hair cascading, the bust and bodice detail presented and legible in the frame",
+ "waist-up shot framed from the waist up, both eyes wandering dreamily to the upper corner away from the lens and the chin tilted up in an empty-headed daydream, one XXXL-nailed hand framing the cheekbone, glossy parted lips, cherry red hair cascading, the bodice and outfit detail crisp and legible",
+ "waist-up shot framed from the waist up, the torso turned and the augmented bust and bodice presented, a soft vacant ditzy gaze drifting off to one side away from the camera, one XXXL fingertip resting at the glossy bottom lip, cherry red hair forward, the outfit's upper detail crisp and legible",
 ]
 
 # POV (Directiva Ama 09/06/2026, reforzada 30/06/2026): es una TOMA SENSUAL DE INSTAGRAM, NO un
@@ -643,7 +663,7 @@ DITZY = [
 POV = [
  "intimate medium close-up portrait of a sensual Instagram influencer addressing the camera, the face leaning toward the lens, one XXXL-nailed hand buried in the cherry red hair, a smoldering direct gaze and glossy parted lips, the face dominant in the upper-mid frame, a single woman alone",
  "sensual Instagram glamour portrait from a low angle, the face turned up to the lens and the chin elevated, one XXXL-nailed hand trailing along the collarbone, a half-lidded seductive gaze, lips parted glossy, the décolleté in the lower frame, a single woman alone",
- "sensual Instagram-influencer candid portrait, a three-quarter face glancing just off the lens with one XXXL-nailed hand pushing the cherry red hair back from the temple, lips parted glossy, an intimate seductive mood, the face in the upper-mid frame and the décolleté below, a single woman alone",
+ "sensual Instagram-influencer candid portrait, a three-quarter face turned to gaze directly into the lens with one XXXL-nailed hand pushing the cherry red hair back from the temple, lips parted glossy, an intimate seductive mood, the face in the upper-mid frame and the décolleté below, a single woman alone",
  "sensual Instagram boudoir portrait reclining with the head tipped back toward the camera, the face and bust facing the lens, one XXXL-nailed hand resting on the collarbone, a sultry half-lidded gaze, lips parted glossy, a single woman alone",
  "intimate sensual Instagram close-up portrait facing the camera, one XXXL French fingertip grazing and pulling the glossy bottom lip, a direct smoldering gaze to the lens, the face dominant in the frame and the décolleté below, a single woman alone",
  "sensual Instagram influencer portrait at a high three-quarter angle, the chin resting on the back of one XXXL-nailed hand with the elbow propped, a coy half-lidded gaze up to the lens, glossy parted lips, the face dominant in the frame, a single woman alone",
@@ -658,6 +678,8 @@ ODALISQUE = [
  "full body semi-reclined propped on both elbows with the legs draped and one stiletto pointed at the camera, the bust forward and the spine arched, the chin lifted, a half-lidded predatory gaze, XXXL nails resting on the thigh, cherry red hair over one shoulder",
  "full body reclining back on both elbows with the legs draped and one stiletto pointed at the camera, a deep elegant back arch with the bust lifted, looking to the camera through the lashes, XXXL nails resting on the thigh, lips parted glossy, cherry red hair falling around the face",
  "full body side profile reclining on one side with an elegant S-curve, the hip rolled up and the bust forward in silhouette, one XXXL-nailed hand supporting the head and the other trailing along the waist, the top stiletto pointed and the legs elegantly stacked, lips parted glossy, cherry red hair cascading along the surface",
+ "full body seen from directly overhead in a zenithal top-down view, lying flat on the back along {surface} with the spine in a long S-curve, one knee drawn up and the stilettos pointed, both XXXL-nailed hands framing the collarbone and the cherry red hair fanned out around the head across the surface, lips parted glossy, gazing straight up into the overhead lens",
+ "full body seen from directly overhead in a zenithal top-down view, the body lying flat on {surface} twisted into an elegant hip-rolled S-curve with the legs stacked and one stiletto pointed, one XXXL-nailed hand resting on the flat stomach and the other above the head amid the fanned cherry red hair, glossy lips parted, looking up to the overhead camera",
 ]
 
 SLOTS = [
@@ -689,7 +711,7 @@ _SHOE_ECHO_SLOTS = {"Back View", "Odalisque"}
 
 
 def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface="a surface",
-                 wrap_mode=None, seam=False, shoe_echo=None):
+                 wrap_mode=None, seam=False, shoe_echo=None, skirt=False):
     """Devuelve [(slot, pose_direction)] de 7, rotados por nº de look y con props CONTEXTUALES.
     seat/wall/surface deben describir mobiliario REAL del setting del look (armonia con el ambiente).
 
@@ -711,6 +733,11 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
     calzado del look (ej. 'silver mirror-chrome knee-high stiletto boots, no platform'). Si se
     pasa, Back View y Odalisque reciben footwear_echo(shoe_echo) al final de la pose.
 
+    skirt (Ama 02/08/2026 — BUG "sentada con falda abierta de piernas"): pasar skirt=True cuando el
+    look lleva FALDA o VESTIDO. Inyecta SEATED_MODESTY en el slot Seated (rodillas y muslos juntos,
+    piernas cruzadas/cerradas, nunca abiertas) para que el generador no abra las piernas y exponga la
+    entrepierna bajo la falda. Ver .agent/rules/06 §6.
+
     TODA pose sale ademas con SINGLE_FRAME prepuesto (primacia absoluta, Ama 15/07/2026): define
     la imagen como UN solo cuadro continuo antes de describir nada — el batch de prueba rindio
     4 collages/grillas de 30 imagenes CON "split image" vetado en el negativo (Gemini lo ignora;
@@ -724,7 +751,10 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
         v = v.replace("{seat}", seat).replace("{wall}", wall).replace("{surface}", surface)
         anchor = HANDS_ANCHOR if name in CLOSEUP_SLOTS else FULL_ANCHOR
         if name == "Odalisque":
-            anchor = anchor + ", " + ODALISQUE_ANCHOR  # fuerza recumbencia (bug odalisca-sentada)
+            if "zenithal" in v:  # variante cenital (Ama 02/08): recumbencia SI, camara nivelada NO (choca)
+                anchor = anchor + ", " + ODALISQUE_RECUMBENCY + ", " + ODALISQUE_ZENITHAL_CAM
+            else:
+                anchor = anchor + ", " + ODALISQUE_ANCHOR  # fuerza recumbencia + nivelada (bug odalisca-sentada/rotada)
         if name == "Standing":
             anchor = anchor + ", " + STANDING_ANCHOR  # fuerza frontalidad (bug standing-de-espalda)
         if seam and name not in _SEAM_SKIP_SLOTS:
@@ -738,6 +768,8 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
         v = SINGLE_FRAME + ", " + anchor + ", " + v
         if name == "Seated":
             v = v + ", " + SEATED_ANCHOR  # ancla de peso (bug sustitucion de mueble)
+            if skirt:
+                v = v + ", " + SEATED_MODESTY  # anti-piernas-abiertas con falda (Ama 02/08/2026)
         if name == "Back View" and wrap_anchor:
             v = v + ", " + wrap_anchor  # ancla de orientacion de prenda envolvente (bug bata-al-reves)
         if shoe_echo and name in _SHOE_ECHO_SLOTS:
@@ -820,10 +852,19 @@ if __name__ == "__main__":
     print("Eco de calzado check:",
           "LIMPIO (echo solo en Back/Odalisque, sin fuga)" if (echo_ok and not echo_leak and not echo_none)
           else f"FALLA (echo_ok={echo_ok} fuga={echo_leak} sin_param={echo_none})")
-    # Auto-check camara nivelada en Odalisque (Ama 15/07 — L795 salio rotada 90 grados):
-    lvl_ok = "never rotated or tilted sideways" in dict(rotate_poses(795))["Odalisque"]
-    print("Camara nivelada odalisca check:",
-          "LIMPIO (ancla de horizonte en Odalisque)" if lvl_ok else "FALLA (falta el ancla de camara)")
+    # Auto-check camara Odalisque (Ama 15/07 nivelada L795 rotada + Ama 02/08 planos cenitales):
+    # las variantes laterales llevan horizonte nivelado; las cenitales llevan picado total y NO la
+    # nivelacion (chocan). Busco un look que caiga en variante lateral y otro en cenital.
+    _lat = next(dict(rotate_poses(n))["Odalisque"] for n in range(700,900)
+                if "zenithal" not in dict(rotate_poses(n))["Odalisque"])
+    _zen = next(dict(rotate_poses(n))["Odalisque"] for n in range(700,900)
+                if "zenithal" in dict(rotate_poses(n))["Odalisque"])
+    lvl_ok = "never rotated or tilted sideways" in _lat
+    zen_ok = ("zenithal top-down" in _zen and "horizon perfectly level" not in _zen
+              and "reclining odalisque" in _zen)
+    print("Camara Odalisque (nivelada + cenital) check:",
+          "LIMPIO (lateral=horizonte nivelado, cenital=picado sin nivelacion, recumbencia en ambas)"
+          if (lvl_ok and zen_ok) else f"FALLA (lateral={lvl_ok} cenital={zen_ok})")
     # Auto-check constantes nuevas 15/07 (UNMARKED_ZONES anti-migracion + NO_ARMWEAR anti-manga):
     # v3 15/07: NO_ARMWEAR ya no abre con "bare hands" (afirmativo-primero: la piel del brazo).
     nz_ok = ("unmarked porcelain skin" in UNMARKED_ZONES and "hip crease" in UNMARKED_ZONES
@@ -847,6 +888,21 @@ if __name__ == "__main__":
     print("Ancla blazer/tailored check:",
           "LIMPIO (tailored en Back View, sin fuga)" if (ok_tailored and not leak_tailored)
           else f"FALLA (tailored={ok_tailored} fuga_otro_slot={leak_tailored})")
+    # Auto-check modestia Seated con falda (Ama 02/08 — bug sentada-abierta-de-piernas): SOLO Seated.
+    ok_skirt   = SEATED_MODESTY in dict(rotate_poses(250, skirt=True))["Seated"]
+    leak_skirt = any(SEATED_MODESTY in v for s, v in rotate_poses(250, skirt=True) if s != "Seated")
+    off_skirt  = SEATED_MODESTY not in dict(rotate_poses(250))["Seated"]
+    print("Modestia Seated con falda check:",
+          "LIMPIO (SEATED_MODESTY solo en Seated con skirt=True, ausente sin skirt)" if (ok_skirt and not leak_skirt and off_skirt)
+          else f"FALLA (ok={ok_skirt} fuga={leak_skirt} ausente_sin_skirt={off_skirt})")
+    # Auto-check diferenciacion Ditzy vs POV (Ama 02/08 — "salen casi iguales"): Ditzy mira FUERA, POV al lente.
+    _OFF = ("away from the lens", "away from the camera", "off past the lens", "off to one side", "off to the side", "down and away", "upper corner away")
+    _GAZE_OFF = ("away from the lens", "away from the camera", "off past the lens", "wandering off", "drifts dreamily off", "upper corner away", "gaze wandering off")
+    ditzy_off = all(any(k in d for k in _OFF) for d in DITZY)
+    pov_on    = all(("lens" in p or "the camera" in p) and not any(g in p for g in _GAZE_OFF) for p in POV)
+    print("Diferenciacion Ditzy/POV check:",
+          "LIMPIO (Ditzy mira fuera de cuadro, POV mira al lente)" if (ditzy_off and pov_on)
+          else f"FALLA (ditzy_off={ditzy_off} pov_on={pov_on})")
     # Auto-check ancla de recumbencia (Ama 09/07 — bug odalisca-sentada): SOLO la Odalisque la lleva.
     od_ok = ODALISQUE_ANCHOR in dict(rotate_poses(531))["Odalisque"]
     od_leak = any(ODALISQUE_ANCHOR in txt for slot, txt in rotate_poses(531) if slot != "Odalisque")

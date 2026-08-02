@@ -28,6 +28,13 @@ para materializar el fix, y **solo donde la imagen actual se vea con el blazer/b
 > El listado completo de los 71 looks anclados está en el commit `891abbd2e`
 > (galeria_outfits.md + galeria_outfits_archivo.md, slot Back View).
 
-## ⏳ Pendiente de mirar a píxel (para completar la P1)
-Barrido visual de los ~27 looks recientes que aún no auditué (L700-L731 salvo los 4 vistos,
-L773, L775-L785, L787-L800). Esa pasada puede sumar más poses a la Prioridad 1.
+## 🟢 Prioridad 2 (adicional) — drift leve detectado en el sweep
+| Look | Pose | Motivo |
+|---|---|---|
+| **L715** Escort Chrome Gold | `seated` (y menor en odalisque) | Escote drift: scoop↔V; odalisque añade detalle corsé/grommets. Opcional |
+
+## 📋 Progreso del sweep visual (para completar la P1)
+- **Tanda 0 (auditoría inicial):** L771, L772, L774, L786 → P1 en L772/L774/L786.
+- **Tanda 1 (02/08):** **L711, L712, L713, L714, L715 → SIN defectos P1** ✅ (L713 back-view blazer correcto; L715 drift leve → P2).
+- **Pendiente:** L700-L710, L716, L719-L731, L773, L775, L777-L785, L787-L800.
+  El patrón hasta ahora: los defectos serios son la excepción; la mayoría del cohorte reciente está limpio.
