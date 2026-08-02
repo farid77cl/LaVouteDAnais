@@ -88,11 +88,13 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 
 ### 5.2 · Paleta y reglas cromáticas
 
-- 🌈 **Libertad total de color y material (Ama 12/06/2026).** Se eligen por criterio estético/temático.
-- ⚫ **Negro liberado (Ama 07/06/2026):** color pleno de la paleta, usable incluso como dominante/monoblock, **siempre en material gloss**.
-- **Reservado al ADN:** el **cherry red** de pelo y labios. Como prenda dominante, no.
-- **Vigente:** **anti-monoblock** — máx. 2 monoblock consecutivos globales; el 3º debe ser Contraste / Triada / Gradiente / Neutro+Pop.
-- **Derogadas (12/06/2026 — no revivir):** ventana de familia cromática dominante (global y por sub-arquetipo), cero-solapamiento en batch, cuota de Amarillos 1/6, cuota de Cherry dominante 1/8, **y la ventana de material ≥2**.
+- 🌈 **Libertad de color y material** por criterio estético/temático dentro del universo fetish — **pero con VARIEDAD obligatoria**. *(Ama 02/08/2026 corrige la "libertad total" del 12/06: sin límite, la flota se volvió monótona — medido en el rango reciente: **negro 42%, chrome 29%, gold 23%, silver 21%**; los metálicos + negro se comen más de la mitad de los looks.)*
+- ⚫🔩 **Negro y metálicos NO monopolizan.** Metálicos = chrome/silver/gold/gunmetal/steel/bronze/champagne. **Cap: máx. 2 looks consecutivos** con dominante **negra o metálica**; el 3º debe llevar un **color cromático saturado** como dominante (pop real: azul/verde/violeta/naranjo/etc., no otro neutro ni metal). Negro sigue liberado (07/06) pero **no como muletilla**.
+- 🌈 **Variedad de dominante (REINSTAURADA hoy):** el color dominante de un look **no se repite dentro de los últimos 3 looks**. *(Revive la ventana de familia cromática que se derogó el 12/06 — la Ama la reinstaura porque la libertad total la dejó monótona. Instrucción viva > nota del 12/06.)*
+- 🔴 **Cherry red Y rojo: RESERVADOS al ADN** (pelo + labios). **Prohibidos como prenda/color dominante** — el rojo o cherry en la ropa choca con su pelo cereza (medido: **red 14% + cherry 5%** en la ropa reciente, violando esta regla). Acentos rojos pequeños ok; dominante jamás.
+- **Anti-monoblock (vigente):** máx. 2 monoblock consecutivos globales; el 3º debe ser Contraste / Triada / Gradiente / Neutro+Pop.
+- **Sigue derogado (no revivir):** cero-solapamiento en batch, cuota de Amarillos 1/6, cuota de Cherry dominante 1/8, ventana de material ≥2.
+- 🔧 **Enforcement:** `99_Sistema/scripts/visual/color_canon.py` — todo inyector de Ele corre `audit_color_batch(LOOKS)` **antes de escribir la galería** (como `footwear_canon`). Caza rojo/cherry dominante, racha negro/metálico ≥3 y repetición de familia dominante en 3 looks. *(Auto-audit 02/08: 66 violaciones en L700-L800 — fosilizadas; el linter blinda los looks nuevos.)*
 
 ### 5.3 · Calzado (canon inamovible — ABSOLUTO)
 
@@ -149,7 +151,8 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 | Silueta (código) | ≥ 3 looks del mismo sub-arquetipo |
 | Setting / escenario | ≥ 3 looks del mismo sub-arquetipo |
 | Modo cromático monoblock | máx. 2 consecutivos **globales** |
-| ~~Familia cromática dominante~~ | ⛔ derogada 12/06/2026 |
+| **Color dominante** | **no repetir dentro de 3 looks** (REINSTAURADA Ama 02/08/2026) |
+| **Negro / metálico dominante** | **máx. 2 consecutivos**; el 3º = color cromático saturado (Ama 02/08/2026) |
 | ~~Material principal~~ | ⛔ derogada 12/06/2026 |
 
 - **Outfit único:** **sí, jamás se repite un outfit** (regla estricta 12/01/2026).
@@ -172,5 +175,7 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 - El tatuaje de runas usa el token `groin` en vez de `hip crease / bikini line`.
 - Un tatuaje o piercing aparece **sobre** una prenda en vez de sobre piel desnuda.
 - Aparece color "Baby Pink" o "Pastel Blue" sin orden explícita de la Ama.
+- **Negro o metálico (chrome/silver/gold/gunmetal/steel) como dominante 3 looks seguidos** — el 3º debe romper con un color saturado (Ama 02/08/2026).
+- **Rojo o cherry como prenda/color dominante** — reservado al pelo/labios; choca con el pelo cereza (Ama 02/08/2026).
 - Estás por revivir una ventana cromática o de material **derogada** el 12/06/2026.
 - El look repite un outfit ya usado.
