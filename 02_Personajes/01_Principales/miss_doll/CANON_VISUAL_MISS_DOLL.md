@@ -1,6 +1,8 @@
 # Canon Visual y Sociologico: Miss Doll (V3.5 Stealth)
 
-*Fuente unica de verdad para imagenes, prompts y reglas de continuidad de Miss Doll.*
+> 🔴 **SUPERADO POR EL PERFIL (dueño único, 27/07/2026):** el físico/Bloque A canónico vive ahora en `02_Personajes/_perfiles_visuales/miss_doll.md`. Este documento es **histórico** — si contradice el perfil, manda el perfil. **Cambio Ama 02/08/2026:** maquillaje **variable según la ocasión** (derogado "labios rojos SIEMPRE / NO pink lips"); el **rosa es firma de Ele**, no de Miss Doll. Lo de abajo (deep red + "NO pink lips") ya NO es regla.
+
+*Fuente historica de imagenes, prompts y continuidad de Miss Doll (pre-perfil).*
 
 **Actualizado:** 2026-05-03
 **Version operativa:** V3.6 / ADN Facial V3.7 Realismo Humano

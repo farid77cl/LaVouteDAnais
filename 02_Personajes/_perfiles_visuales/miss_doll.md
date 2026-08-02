@@ -32,7 +32,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 - **Platinum blonde asymmetric bob**, corte navaja. Nunca oscuro, nunca coleta, nunca moño.
 - **Frente despejada** — `clear exposed forehead, NO BANGS`. El flequillo es violación de canon.
-- **Labios ULTRA PLUMP, overlined, high-gloss wet, cupid's bow** — la **forma** es inviolable. El **COLOR es variable por look** (rojo, rosa, humo negro…) y se fija en el BLOQUE B, igual que el maquillaje de ojos. Nunca nude, nunca mate, nunca maquillaje natural. *(Ama 02/08/2026: derogado el "labios rojos SIEMPRE"; el físico canónico pasó a ser el del banco que le gusta, con color de maquillaje variable.)*
+- **Labios ULTRA PLUMP, overlined, high-gloss wet, cupid's bow** — la **forma** es inviolable. El **maquillaje (ojos + labios) se elige según la OCASIÓN del look** (rojo, humo negro, bronce, nude-glam…) y se fija en el BLOQUE B. **El rosa es firma de Ele, NO de Miss Doll.** Nunca nude natural, nunca mate, nunca maquillaje "sin producto". *(Ama 02/08/2026: derogado el "labios rojos SIEMPRE"; físico canónico = el del banco que le gusta, maquillaje por ocasión.)*
 - **Ojos gris hielo** con la *Face of the Pole*: disociación profesional, cero calidez.
 - **Piel porcelana fría** con textura humana real y poros visibles — nunca cera, nunca maniquí.
 - **Sin tatuajes** por defecto (blackwork solo si la Ama pide variante legacy explícita).

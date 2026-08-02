@@ -4,9 +4,11 @@ paths: 05_Imagenes/miss_doll/**/*, 02_Personajes/01_Principales/miss_doll/CANON_
 
 # CANON VISUAL: MISS DOLL (V3.5 STEALTH)
 
-Fuente de verdad: `02_Personajes/01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md`.
+**Fuente de verdad (dueño único, 27/07/2026):** `02_Personajes/_perfiles_visuales/miss_doll.md` (perfil visual). Los docs de `01_Principales/miss_doll/` son material **pre-perfil (histórico)** — si contradicen el perfil, **manda el perfil**.
 
-Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradiccion entre este resumen y el canon master, manda el canon master.
+> 🔴 **Actualización de canon (Ama 02/08/2026):** el físico canónico pasó a ser el del banco (registro COMMANDING/DOMINANT) y el **maquillaje es VARIABLE según la OCASIÓN** (rojo, humo negro, bronce, nude-glam…); la **forma** de labios (overlined, ultra plump, glossy, cupid's bow) es inviolable, el **color** no. **Derogado "labios rojos SIEMPRE / NO pink lips".** El **rosa es firma de Ele, NO de Miss Doll.** El prompt histórico de más abajo (deep red + "NO pink lips") queda como referencia, no como regla.
+
+Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradiccion entre este resumen y el perfil, manda el perfil.
 
 ## Identidad Visual Obligatoria
 
