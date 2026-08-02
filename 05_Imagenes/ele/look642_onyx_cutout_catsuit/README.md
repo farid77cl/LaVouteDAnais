@@ -1,13 +1,13 @@
 # 🖼️ Galería: look642_onyx_cutout_catsuit
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_642_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_back_view.png) | ![ele_642_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_ditzy.png) | ![ele_642_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_odalisque.png) |
-| ![ele_642_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_seated.png) | ![ele_642_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_side_profile.png) | ![ele_642_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_standing.png) |
+| ![ele_642_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_pov.png) | ![ele_642_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_seated.png) | ![ele_642_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_642_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_back_view.png) | ![ele_642_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_ditzy.png) | ![ele_642_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_odalisque.png) | ![ele_642_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_seated.png) |
-| ![ele_642_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_side_profile.png) | ![ele_642_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_standing.png) |
+| ![ele_642_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_back_view.png) | ![ele_642_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_ditzy.png) | ![ele_642_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_odalisque.png) | ![ele_642_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_pov.png) |
+| ![ele_642_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_seated.png) | ![ele_642_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_side_profile.png) | ![ele_642_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_standing.png) |
 
 
 ---
@@ -25,6 +25,7 @@ Total imágenes: 6
 - [ele_642_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_back_view.png)
 - [ele_642_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_ditzy.png)
 - [ele_642_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_odalisque.png)
+- [ele_642_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_pov.png)
 - [ele_642_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_seated.png)
 - [ele_642_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_side_profile.png)
 - [ele_642_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look642_onyx_cutout_catsuit/ele_642_standing.png)

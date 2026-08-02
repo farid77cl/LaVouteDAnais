@@ -1,13 +1,13 @@
 # 🖼️ Galería: look596_cherry_fire
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_596_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_back_view.png) | ![ele_596_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_ditzy.png) | ![ele_596_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_odalisque.png) |
-| ![ele_596_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_pov.png) | ![ele_596_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_side_profile.png) | ![ele_596_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_standing.png) |
+| ![ele_596_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_pov.png) | ![ele_596_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_seated.png) | ![ele_596_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_side_profile.png) |
 
 ---
 
@@ -16,7 +16,7 @@ Total imágenes: 6
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_596_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_back_view.png) | ![ele_596_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_ditzy.png) | ![ele_596_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_odalisque.png) | ![ele_596_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_pov.png) |
-| ![ele_596_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_side_profile.png) | ![ele_596_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_standing.png) |
+| ![ele_596_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_seated.png) | ![ele_596_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_side_profile.png) | ![ele_596_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_standing.png) |
 
 
 ---
@@ -26,6 +26,7 @@ Total imágenes: 6
 - [ele_596_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_ditzy.png)
 - [ele_596_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_odalisque.png)
 - [ele_596_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_pov.png)
+- [ele_596_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_seated.png)
 - [ele_596_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_side_profile.png)
 - [ele_596_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look596_cherry_fire/ele_596_standing.png)
 

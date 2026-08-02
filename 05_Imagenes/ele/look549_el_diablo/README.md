@@ -1,13 +1,13 @@
 # 🖼️ Galería: look549_el_diablo
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_549_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_ditzy.png) | ![ele_549_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_odalisque.png) | ![ele_549_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_pov.png) |
-| ![ele_549_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_seated.png) | ![ele_549_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_side_profile.png) | ![ele_549_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_standing.png) |
+| ![ele_549_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_back_view.png) | ![ele_549_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_ditzy.png) | ![ele_549_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_odalisque.png) |
+| ![ele_549_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_pov.png) | ![ele_549_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_seated.png) | ![ele_549_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_side_profile.png) |
 
 ---
 
@@ -15,13 +15,14 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_549_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_ditzy.png) | ![ele_549_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_odalisque.png) | ![ele_549_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_pov.png) | ![ele_549_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_seated.png) |
-| ![ele_549_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_side_profile.png) | ![ele_549_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_standing.png) |
+| ![ele_549_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_back_view.png) | ![ele_549_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_ditzy.png) | ![ele_549_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_odalisque.png) | ![ele_549_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_pov.png) |
+| ![ele_549_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_seated.png) | ![ele_549_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_side_profile.png) | ![ele_549_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_549_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_back_view.png)
 - [ele_549_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_ditzy.png)
 - [ele_549_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_odalisque.png)
 - [ele_549_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look549_el_diablo/ele_549_pov.png)

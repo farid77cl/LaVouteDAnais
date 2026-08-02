@@ -1,13 +1,13 @@
 # 🖼️ Galería: look641_red_black_domme_vinyl
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_641_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_back_view.png) | ![ele_641_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_ditzy.png) | ![ele_641_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_seated.png) |
-| ![ele_641_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_side_profile.png) | ![ele_641_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_standing.png) |
+| ![ele_641_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_back_view.png) | ![ele_641_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_ditzy.png) | ![ele_641_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_odalisque.png) |
+| ![ele_641_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_pov.png) | ![ele_641_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_seated.png) | ![ele_641_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_641_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_back_view.png) | ![ele_641_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_ditzy.png) | ![ele_641_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_seated.png) | ![ele_641_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_side_profile.png) |
-| ![ele_641_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_standing.png) |
+| ![ele_641_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_back_view.png) | ![ele_641_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_ditzy.png) | ![ele_641_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_odalisque.png) | ![ele_641_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_pov.png) |
+| ![ele_641_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_seated.png) | ![ele_641_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_side_profile.png) | ![ele_641_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_standing.png) |
 
 
 ---
@@ -24,6 +24,8 @@ Total imágenes: 5
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_641_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_back_view.png)
 - [ele_641_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_ditzy.png)
+- [ele_641_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_odalisque.png)
+- [ele_641_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_pov.png)
 - [ele_641_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_seated.png)
 - [ele_641_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_side_profile.png)
 - [ele_641_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look641_red_black_domme_vinyl/ele_641_standing.png)
