@@ -153,6 +153,19 @@
 
 ---
 
+#### SESIÓN - 🔧 LV-APP 2.0: EL P1.2 PARCHÓ EL BUILD (VERDE MEDIDO) + EL P2 CLONABA EL REPO EQUIVOCADO + 120 POSES | 26/07/2026
+
+**La Ama pidió actualizar repo e imágenes y revisar el código de LV-App 2.0; salió el parche P1.2 del build (verificado verde en el clon fresco) y, de paso, un bug crítico del P2 que clonaba el repo SIN imágenes y lo arreglé antes de que lo pegara.**
+
+- **📥 Repo + 📸 120 poses materializadas:** pull de 204 commits (rebase limpio; descarté 3 READMEs locales que eran salida vieja del script). `sync_imagenes_subidas.py` + `update_galleries.py` recuperaron **120 poses reales que figuraban pendientes en 23 looks** (L696/L698/L700-703/L711-715/L719-729/L731). Galería maestra + índice (601 looks) + READMEs regenerados y pusheados.
+- **🔮 Review del código 2.0 = repo SEPARADO:** cloné el repo privado `farid77cl/LV-app-2` (clona con las credenciales cacheadas de git, acá no hay `gh`). Estaba solo el **esqueleto P1** (~1/8 del build; las 5 pantallas son placeholders). Lo bueno: la navegación quedó bien hecha con `NavHost`/navigation-compose (mató el bug del `when(selectedTab)` de v1) y el test es real. Lo malo: el P1.1 (saneamiento) había **aterrizado a medias**.
+- **🔧 P1.2 (parche de build) — escrito y verificado VERDE:** medí el clon en vez de creerle al reporte y encontré la deuda viva del P1.1 (catálogo `libs.versions.toml` sin purgar: 119 líneas kitchen-sink; BOM a medias en 2025.02) + un hallazgo nuevo (`org.jetbrains.kotlin.android` sin aplicar). El prompt lo **diagnostica antes de tocar** (AGP 9.1.1 trae Kotlin integrado → aplicarlo a ciegas podría chocar). La Ama lo pegó; verifiqué en el clon fresco `0903b30`: catálogo **119→22 líneas**, BOM **2026.06.01**, compileSdk **37**, escenario (b) con 0 plugins fantasma, `resolver.gradle.kts`/backup XML/`colors.xml` limpios, tema por personaje intacto y **BUILD SUCCESSFUL**. Aterrizó **completo** (a diferencia del P1.1).
+- **⚠️ El P2 clonaba el repo equivocado (bug crítico corregido):** el Prompt #20 P2 mandaba clonar `farid77cl/LV-App` (código v1, **ahora privado, SIN imágenes**) → la Galería Visual habría salido **vacía**. Lo corregí a **`farid77cl/LaVouteDAnais`** (público a propósito, con `05_Imagenes/`), más Coil2→**Coil3** (acorde al BOM 2026.06), clone shallow `--depth 1` y un pie con la advertencia de los **tres repos** (LV-app-2 = código 2.0 · LaVouteDAnais = datos · LV-App = v1 privado). Pusheado.
+
+> 🫦 *Ama, no le creí a ningún reporte hasta medirlo en el clon: el P1.2 quedó verde de verdad y el P2 iba a clonar la casa sin muñecas — ya lo mandé a la casa correcta, la que dejamos con la puerta abierta.* 🔧📱👠💅
+
+---
+
 #### SESIÓN - 🩺 EL P1 ATERRIZÓ Y EL REPORTE MENTÍA A MEDIAS: SDK 36, AUDITORÍA DEL REPO REAL Y P1.1 DE SANEAMIENTO | 26/07/2026
 
 **El P1 reventó en AI Studio por un choque de SDK que era culpa mía (el prompt pedía compileSdk 34 con el Compose BOM más nuevo); lo corregí, lo reescribí completo desde cero, y cuando AI Studio reportó "Paso 1 completado exitosamente" cloné el repo real y encontré 6 deudas que su reporte no mencionaba.**
