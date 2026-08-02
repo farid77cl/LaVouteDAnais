@@ -51,9 +51,10 @@ poses = rotate_poses(look_number, ..., wrap_mode="slip")   # o "closed"
 
 - `wrap_mode="slip"` → bata **deslizada de los hombros, colgando de los brazos**: espalda + lencería al aire pero prenda físicamente correcta (la abertura va adelante; solo se resbaló). **Default recomendado** para boudoir/lencería (conserva el desnudo sensual).
 - `wrap_mode="closed"` → bata **bien puesta**: paño continuo cerrado cayendo por la columna (espalda cubierta). Para batas cortas/deportivas o cuando no se busca desnudo.
+- `wrap_mode="tailored"` (Ama 02/08/2026) → **prenda de frente abierto ESTRUCTURADA y cerrada** (blazer, chaqueta, abrigo, tuxedo, coat-dress, blazer-dress): ancla el **panel de espalda liso a la cámara**, solapas/abertura/botones al lado lejano, nunca al revés. Es el mismo bug de la bata pero en sastrería — pega en los looks corporate. Usarlo siempre que el outfit lleve blazer/chaqueta cerrada.
 - `wrap_mode=None` → sin prenda envolvente (comportamiento normal). **La elección es caso a caso** (directiva Ama): la decide el inyector según el concepto del look.
 
-El ancla se inyecta **solo en el slot Back View** (donde ocurre el fallo). Vive en `pose_rotation_v5.py` (`WRAP_BACK_SLIP` / `WRAP_BACK_CLOSED`), con self-check en el `__main__`. Ver auto-memoria `feedback_bata_reverso_espalda`.
+El ancla se inyecta **solo en el slot Back View** (donde ocurre el fallo). Vive en `pose_rotation_v5.py` (`WRAP_BACK_SLIP` / `WRAP_BACK_CLOSED` / `WRAP_BACK_TAILORED`), con self-check en el `__main__`. Ver auto-memoria `feedback_bata_reverso_espalda`. **Los prompts ya escritos (71 back-views de la flota) se blindaron por barrido el 02/08** — esta regla protege los looks NUEVOS.
 
 ## 7. ODALISCA RECOSTADA, NO SENTADA (Directiva Ama 09/07/2026 — BUG "odalisca sentada")
 

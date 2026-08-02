@@ -68,7 +68,13 @@ CLOSEUP_SLOTS = {"Ditzy", "POV"}  # encuadre de cintura para arriba -> ancla de 
 # Ver auto-memoria feedback_bata_reverso_espalda.
 WRAP_BACK_SLIP = "the open-front wrap garment (robe, kimono or peignoir) worn correctly but slipped off both shoulders to hang open from the forearms and elbows, its front opening and sash on the far side away from the camera, so the bare back and the lingerie underneath are exposed down the spine while the loose fabric drapes to the sides of the body and hangs from the arms, NOT parted or seamed down the spine, with no neckline, lapel or opening running down the back"
 WRAP_BACK_CLOSED = "the open-front wrap garment (robe, kimono or peignoir) worn correctly and facing forward, seen from behind as a single continuous closed panel of fabric draping straight down the spine to the hem, its front opening, lapels, neckline and sash knot all on the far side away from the camera and not visible from behind, with no parting, no seam and no neckline down the back"
-_WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED}
+# WRAP_BACK_TAILORED (Ama 02/08/2026 — BUG "el blazer corporate sale al reves de espaldas"): el
+# mismo defecto de la bata pega en prendas de frente abierto ESTRUCTURADAS y cerradas (blazer,
+# chaqueta, abrigo, tuxedo, coat-dress, blazer-dress): sin ancla, el generador corre las solapas /
+# la abertura por la columna. A diferencia del robe (slip/closed), esta se lleva SIEMPRE cerrada y
+# de cara, asi que el ancla afirma el PANEL de espalda liso a la camara. Ver feedback_bata_reverso_espalda.
+WRAP_BACK_TAILORED = "the tailored open-front jacket (blazer, coat, tuxedo or jacket-dress) worn correctly facing forward on the body and never reversed, seen from behind as the smooth continuous back panel of the jacket with its centre-back seam and vent, the set-in sleeves and collar seen from the nape, its lapels, front opening, buttons and neckline all on the far side away from the camera and not visible from behind, never worn back-to-front and with no lapel, opening or neckline running down the spine"
+_WRAP_ANCHORS = {"slip": WRAP_BACK_SLIP, "closed": WRAP_BACK_CLOSED, "tailored": WRAP_BACK_TAILORED}
 
 # ANCLA DE RECUMBENCIA DE LA ODALISCA (Ama 09/07/2026 — BUG "odalisca sentada"):
 # La odalisca (pose recostada/languida) derivaba a SENTADA: el generador rendia la figura sentada
@@ -692,7 +698,9 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
     de la prenda SOLO en la pose de espalda (Back View), donde el generador la ponia al reves
     (abertura corriendo por la columna). Valores: None (sin prenda envolvente) · "slip" (bata
     deslizada de los hombros, espalda desnuda pero correcta — default recomendado boudoir) ·
-    "closed" (bata bien puesta, espalda cubierta). Ver auto-memoria feedback_bata_reverso_espalda.
+    "closed" (bata bien puesta, espalda cubierta) · "tailored" (blazer/chaqueta/abrigo/tuxedo/
+    coat-dress de frente abierto CERRADO: panel de espalda liso a la camara, solapas al lado lejano
+    — Ama 02/08/2026). Ver auto-memoria feedback_bata_reverso_espalda.
 
     seam (Ama 11/07/2026 — BUG "raya de la media al frente"): pasar seam=True cuando el look usa
     MEDIAS CON COSTURA (back-seam / seamed stockings). Ancla POSE-AWARE la orientacion de la raya:
@@ -707,8 +715,8 @@ def rotate_poses(look_number, seat="a sculptural bench", wall="a wall", surface=
     la imagen como UN solo cuadro continuo antes de describir nada — el batch de prueba rindio
     4 collages/grillas de 30 imagenes CON "split image" vetado en el negativo (Gemini lo ignora;
     el lever es el positive)."""
-    if wrap_mode not in (None, "slip", "closed"):
-        raise ValueError(f"wrap_mode invalido: {wrap_mode!r} (usa None, 'slip' o 'closed')")
+    if wrap_mode not in (None, "slip", "closed", "tailored"):
+        raise ValueError(f"wrap_mode invalido: {wrap_mode!r} (usa None, 'slip', 'closed' o 'tailored')")
     wrap_anchor = _WRAP_ANCHORS.get(wrap_mode)
     out = []
     for name, variants, off in SLOTS:
@@ -833,6 +841,12 @@ if __name__ == "__main__":
     print("Ancla prenda envolvente check:",
           "LIMPIO (slip+closed en Back View, sin fuga)" if (ok_slip and ok_closed and not leak_none and not leak_slot)
           else f"FALLA (slip={ok_slip} closed={ok_closed} fuga_sin_wrap={leak_none} fuga_otro_slot={leak_slot})")
+    # Auto-check ancla blazer/tailored (Ama 02/08 — bug blazer-al-reves): SOLO Back View la lleva.
+    ok_tailored   = WRAP_BACK_TAILORED in _bv(rotate_poses(772, wrap_mode="tailored"))
+    leak_tailored = any(WRAP_BACK_TAILORED in txt for slot, txt in rotate_poses(772, wrap_mode="tailored") if slot != "Back View")
+    print("Ancla blazer/tailored check:",
+          "LIMPIO (tailored en Back View, sin fuga)" if (ok_tailored and not leak_tailored)
+          else f"FALLA (tailored={ok_tailored} fuga_otro_slot={leak_tailored})")
     # Auto-check ancla de recumbencia (Ama 09/07 — bug odalisca-sentada): SOLO la Odalisque la lleva.
     od_ok = ODALISQUE_ANCHOR in dict(rotate_poses(531))["Odalisque"]
     od_leak = any(ODALISQUE_ANCHOR in txt for slot, txt in rotate_poses(531) if slot != "Odalisque")
