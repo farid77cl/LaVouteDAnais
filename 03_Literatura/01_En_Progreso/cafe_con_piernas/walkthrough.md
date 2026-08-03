@@ -12,8 +12,8 @@
 | 0 · Investigación | `investigacion.md` | ✅ Cerrada 03/08/2026 (~18.000 palabras, §11 = puerta única) |
 | 0b · Referencias | `referencias/INFORME_ESCRITOR_referencias.md` | ✅ REF-01 + REF-02 analizadas |
 | 1 · Composición | `canon_relato.md` + `cronologia.md` | ✅ 03/08/2026 — **EN REVISIÓN (Gate de la Ama)** |
-| 2 · Escritura | `capitulo_1_*_v0.1.md` | ⬜ Pendiente del Gate |
-| 3 · Validación | — | ⬜ |
+| 2 · Escritura | `capitulo_01_el_turno_de_prueba_v0.1.md` | ✅ 03/08/2026 — Cap 1 completo (~6.250 palabras, 5 escenas, prosa pura). Autoverificación + humanizador en `reportes/capitulo_01/` |
+| 3 · Validación | — | ⬜ Listo para el Validador |
 
 ---
 
@@ -77,4 +77,5 @@ Orden de §4.7: uñas → pelo → pestañas → labios → tetas. Decidí el **
 - **03/08/2026 — Fase 0.** Investigación cerrada por el Investigador (~18.000 palabras). §11 agregada por directiva de la Ama esa misma tarde y declarada puerta única sobre §5, §6, §9 y §10.
 - **03/08/2026 — Fase 0b.** Informe de referencias compilado (REF-01 «The Hands That Lead», REF-02 «Stripclub Bimbos»). Abre dos deudas para el Compositor: fijar dónde se apagó el aparato (→ D4) y decidir cuándo aparece la amiga (ya resuelto por la Ama en §11: capítulo 1).
 - **03/08/2026 — Fase 1.** `canon_relato.md` (~2.150 palabras) y `cronologia.md` creados. Sin intake: la Ama cerró toda la arquitectura en conversación y en la investigación. Siete decisiones propias registradas arriba. **Pendiente: Gate de la Ama sobre el canon.**
+- **03/08/2026 — Fase 2, Cap 1.** `capitulo_01_el_turno_de_prueba_v0.1.md` (~6.250 palabras). Cinco escenas: desaparición · RRSS · la casa del barrio alto · el Trinidad · el primer turno. Primera aplicación del `HUMANIZADOR.md` (pasada final sobre el capítulo cerrado, 21 correcciones, veredicto LIMPIO 9/9). Tres decisiones del Escritor que el Compositor no había fijado y que quedan en `cronologia.md`: (a) la dirección de la casa la regala la **mamá** de la Camila por teléfono —mata el thriller sin matar el motor—; (b) **la Javi pide la pega ella misma** (§11.2 desde el primer peldaño, y blinda §11.3); (c) **«Ivanna» se revela en el Cap 1**, no en el 3, para que la grieta H12 tenga contra qué contrastar. Diez hechos plantados nuevos (H21-H30) y estación del arco fijada por implicación (Día 1 = otoño → Cap 9 = verano).
   - *Nota de honestidad sobre el largo:* el techo del Nivel 4 son ~2.000 palabras y el canon quedó ~150 arriba. El excedente es §4b y §4c, que el protocolo v4.8 obliga a **copiar** de la investigación y no a resumir. Recorté todo lo demás (premisa, pivotes, personajes, cementerio) antes de dejarlo pasar. Si la Ama lo quiere más corto, lo que sobra de verdad son las Cinco Leyes de §1b, que se solapan con el Cementerio.

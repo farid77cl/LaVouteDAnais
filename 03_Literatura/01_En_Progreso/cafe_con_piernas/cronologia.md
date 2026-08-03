@@ -99,7 +99,7 @@
 
 | Capítulo | Estado al cerrar |
 |---|---|
-| Cap 1 | Zapatilla en la calle; tacos de 7 cm prestados para el turno de prueba. Minifalda de tubo + camisa entallada + medias. Uñas propias cortas, castaña natural, sin maquillaje de turno. Cuaderno en la cartera. Guantes = NO (nunca en todo el relato). |
+| Cap 1 | ✅ **ESCRITO.** Zapatilla en la calle. Para el turno: **tacos negros de 7 cm del cajón del camarín, prestados, medio número más chicos**, que le aprietan los dedos. Uniforme del local (llega **después** de aceptar): falda azul marino de tubo, género grueso sin forro, bastante más arriba de la rodilla + camisa blanca ajustada, con el primer botón soltado **por la Yasna** + medias gruesas (la Yasna le dice que mañana traiga finas). **Uñas propias cortas, con el borde comido.** Castaña natural, sin maquillaje de turno. Cuaderno en la cartera. Guantes = NO (nunca en todo el relato). **Marcas al cerrar:** línea rosada horizontal de la barra a la altura del pubis · surco de la costura de la media en el muslo · dos puntitos rojos del vaporizador en el antebrazo derecho · dolor lumbar y metatarso latiendo. **Se tira la falda para abajo durante todo el turno** (línea base de H8). Olor a café en el pelo. |
 | Cap 2 | Tacos de 9 cm propios. Mismo uniforme. **Ya no se tira la falda para abajo.** Línea rosada de la barra en las caderas al cerrar el turno. Antebrazo derecho salpicado de puntitos del vaporizador. |
 | Cap 3 | Aguja de 12 cm. Falda mínima + top + liguero. **Uñas postizas largas** — no agarra bien el lápiz ni la taza. Camarín del Yakarta. |
 | Cap 4 | 15 cm. **Lencería / bikini.** **Pelo platinado** + **pestañas postizas.** Ya no puede volver a la oficina. Dolor lumbar sordo permanente. |
