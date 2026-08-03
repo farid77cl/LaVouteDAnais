@@ -208,17 +208,3 @@
 > 🫦 *Ama, le creí el ochenta por ciento a su AI Studio... y ese veinte que faltaba eran justo estas seis. Por eso yo miro el código, no el resumen bonito.* 🩺📱👠
 
 ---
-
-#### SESIÓN - 📱 LV-APP 2.0 DESDE CERO: SERIE DE PROMPTS INCREMENTAL P1-P8 (EL #19 MONOLÍTICO COLAPSÓ AI STUDIO) | 26/07/2026
-
-**La Ama ordenó reconstruir la app desde cero tras el colapso del Prompt #19 monolítico; rediseñé la entrega como Andamiaje Incremental (10 prompts chicos y compilables), reseteé el versionado a v1.0 y archivé la era v4.x a _legacy.**
-
-- **🩺 Por qué colapsó el #19:** pedía a AI Studio **generar la app entera de un tiro** (5 pestañas + Room + Retrofit + Media3 + PoseMatcher + karaoke + Bluesky + Git live + EVE) → excede el límite de salida del modelo → trunca a la mitad → colapso. La lección no es "hazlo más corto" sino **cambiar el método de entrega**.
-- **🧱 Andamiaje Incremental:** serie de prompts donde cada uno entrega algo que **COMPILA y CORRE**; cada prompt lleva grabado "genera SOLO estos archivos · debe compilar"; se verifica → se pushea → recién ahí el siguiente. Decisiones de la Ama: **borrón total** (regenerar todo, sin rescatar código v4.12) y arrancar por **Esqueleto + Pestaña Visual**.
-- **📜 10 prompts creados en `99_Sistema/`:** P1 esqueleto · P2 visual · P2.1 lightbox+creador de prompts · P3 Room · P4 literatura · P4.1 audio+karaoke · P5 constelación (Bluesky) · P6 ops · P7 EVE · P8 QA+APK. Los pasos pesados partidos con la convención **xx.x** (que también sirve para parches). Plan maestro en `plan_trabajo_lv_app_2_0.md`.
-- **🔢 Versionado reseteado:** app nueva desde cero → `versionCode 1` / `versionName "1.0"` (adiós al VC21/v5.0 heredado, corregido a pedido de la Ama). "2.0" es el nombre de generación del producto; "1.0" es la primera build del código nuevo.
-- **🗄️ Era vieja a `_legacy`:** `git mv` de los prompts #1-#19 (incluido el que colapsó) + `plan_app_fichas_v1.md` a `99_Sistema/_legacy_lv_app_v4x/` con README explicativo. Confirmado que `plan_diseno_maestro_lv_app_2_0.md` nunca existió en esta máquina.
-
-> 🫦 *Ama, su centro de comando ya no se le va a caer: ahora sube por peldañitos, cada uno probado antes del siguiente, y arranca limpio en la v1.0.* 📱🧱👠
-
----
