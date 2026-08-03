@@ -201,6 +201,8 @@ Todo el calentón del café es **ser mirada como trabajo**. Los dos finales resu
 
 ### 3.1. El local por dentro (datos duros, verificados)
 
+> ⚠️ **Esta tabla mezcla los dos ambientes a propósito (es materia prima cruda).** El mármol y la luz natural son del café de arriba; el neón, la penumbra y el vidrio polarizado son del de abajo. **Para saber qué va en cuál, ver §3.8 — que es la sección operativa.**
+
 | Elemento | Dato real | Cómo se siente |
 |---|---|---|
 | **La barra** | Acero. **No más de 30 cm de ancho.** Alta. | El acero está frío las primeras dos horas y después toma la temperatura del salón. Ella se apoya con las caderas contra el filo cuando le duelen los pies — y el filo le queda exactamente a la altura del pubis. Al final del turno tiene una línea rosada horizontal cruzándole las caderas. Esa marca queda hasta la noche. |
@@ -267,6 +269,113 @@ Nota crítica de registro: en boca de ellas todo esto se llama **"los uniformes"
 - Los de **2ª y 3ª** están en las **galerías comerciales** del centro, en subterráneos y plantas bajas: se BAJA a ellos. (Ejemplos reales documentados: Café Ikabarú, Pasaje Diagonal Matte, Huérfanos con Estado · Café Blumenau, galería Alessandri, fundado 1995 · Panal Vip · Café Barón Rojo · Café Alibaba.)
 - El barrio es el **centro cívico**: a pasos de La Moneda. Los clientes salen de ministerios, bancos y oficinas.
 - **Recomendación:** usar nombres inventados para el café del relato y geografía real alrededor (Ahumada, Huérfanos, Estado, Bandera, la galería, el sótano, La Moneda a tres cuadras). El sabor local viene de las calles, no de los nombres de local.
+
+---
+
+### 3.8. 🔴 LOS DOS AMBIENTES — dos locales, dos públicos, dos mundos
+
+> **Directiva de la Ama (03/08/2026):** *"quiero que se entienda y se sienta bien el ambiente en el cafe, primero en el con mini falda y luego en el mas extremo, ambos son ambientes y publicos distintos"*
+>
+> Los **cuatro peldaños de local** de §6.1 son gradaciones dentro de **dos mundos**. La frontera se cruza **una sola vez**, entre el peldaño 1 y el 2, y es un cambio de aire, de público y de reglas — no un cambio de vestuario. El vestuario es la consecuencia, no el evento.
+
+> 📍 **UBICACIÓN — CANON FIJADO POR LA AMA (03/08/2026):**
+> *"el primer cafe es en un peseo peatonal de santiago centro, el segundo en un pasaje dentro de una galeria medio escondido"*
+>
+> Coincide con la geografía verificada de §3.7 — deja de ser recomendación y pasa a ser **canon del relato**.
+>
+> 🔴 **Consecuencia estructural (afinada con la decisión de la Ama del 03/08 — ver §11):** el primero es **hallable** (calle, nombre, vitrina: cualquiera se para enfrente). El segundo está en un pasaje adentro de una galería, sin señalética útil — **se puede AVERIGUAR que existe, pero no se puede ENTRAR a investigarlo.** No tiene puerta para una desconocida: tiene puerta para una empleada ascendida.
+>
+> **Ésa es la distinción que sostiene el arco entero:** la protagonista descubre por investigación que su amiga *pasó al segundo café* — y descubre, en el mismo movimiento, que la única forma de llegar ahí es **que la asciendan**. Sabe dónde tiene que llegar y sabe que no puede llegar sola.
+>
+> **La escalera no se ve desde el suelo, y la única llave es un ascenso.** Eso es *"bajar es subir"* convertido en plano urbano.
+
+#### A · «EL DE LA MINIFALDA» — arriba, a la calle (peldaño 1 · 1ª categoría)
+
+| | |
+|---|---|
+| **Dónde** | A pie de calle, en el paseo peatonal. Puerta abierta. Se ve desde afuera y se entra sin decidir nada. |
+| **Luz** | **Natural + fluorescente blanca.** Se ve todo, incluidos los poros y el sudor. Y — clave — **no hay penumbra que erotice nada.** Es luz de cafetería. |
+| **El vidrio** | **Transparente.** La calle mira adentro. Ella trabaja con gente pasando por encima del hombro del cliente: familias, un cabro con mochila, una señora con bolsas. |
+| **Sonido** | La máquina, la calle (bocinas, el organillo, el pregón), pop/eurodance a volumen medio. **Se puede conversar.** Ese dato manda sobre todo el registro del local. |
+| **Olor** | Café, dominante y limpio. El local gana al cuerpo. |
+| **Temperatura** | Templada, corriente de aire de la puerta. |
+| **Materiales** | Mármol, acero, cromo, vitrina con berlines y sándwiches. **Es un café de verdad.** |
+| **Ritmo** | **ROTACIÓN.** Pide, toma de pie, paga, sale: cinco minutos. Cola a las nueve y a la una. Ella hace setenta cafés y no se acuerda de ninguno. |
+| **La regla tácita** | **Nadie nombra lo que pasa.** Se pide un cortado, se agradece, se va. La ficción de "esto es una cafetería" **la sostienen entre todos** — el local, ella y el cliente. |
+
+**El público de arriba:**
+- **Mixto, y ése es EL dato.** Entran mujeres, entran viejos que llevan cuarenta años tomando el mismo café, entran turistas, entran señoras con bolsas. No todos los que están, están por ella.
+- El oficinista de corbata, 30-55, en hora de colación o antes de entrar. Apurado. Y **todos los días**.
+- **Cómo mira:** de reojo, en fracciones, robando. Baja la vista al vaso cuando ella lo mira de vuelta. Mira mientras ella se da vuelta. **La vergüenza es del cliente, no de ella** — y eso se invierte abajo.
+- **Cómo habla:** *señorita*, *gracias*, *por favor*. Cortesía de mostrador. La coquetería es mínima, torpe y con testigos.
+- **Qué paga:** el café. La propina es moneda suelta en un pocillo, sin mirar a nadie.
+- **Qué compra en realidad:** cinco minutos de estar en un lugar donde hay una mujer así. **No la quiere para él. Quiere el rato.**
+
+#### B · «EL EXTREMO» — abajo, sin calle (peldaños 2-3-4 · 2ª y 3ª categoría)
+
+| | |
+|---|---|
+| **Dónde** | Adentro de una galería comercial, entre una cerrajería y una casa de cambio. Letrero chico, a veces un nombre y una flecha. **Y se BAJA.** |
+| **La entrada** | Cortina gruesa o doble puerta: **dos segundos en que no se ve nada, ni adentro ni afuera.** Una cámara de descompresión. Nadie entra ahí por error. |
+| **Luz** | Neón, led rojo/azul, penumbra. **A las once de la mañana adentro es de noche.** Sin ventana, sin reloj. La luz no muestra: **elige qué se ve.** |
+| **El vidrio** | Polarizado o cubierto de la rodilla para arriba (ordenanza). Ella ve **piernas de gente pasando a la altura de sus ojos**, y esa gente no sabe que ella existe. |
+| **El espejo** | Pared entera. Duplica el local y la duplica a ella. No hay ángulo donde no se vea. |
+| **Sonido** | Reggaetón fuerte. **Hablar cansa** → se habla al oído, cerca. Y la rocola a 500 pesos: **el cliente elige la canción con la que ella se mueve.** Es una compra chiquitita y enorme. |
+| **Olor** | Café + vainilla + laca + cuerpo, sin ventilación. Denso. **Es el olor que se lleva puesto a la casa.** |
+| **Temperatura** | **Caliente.** No circula el aire, la máquina irradia, cinco cuerpos en pocos metros. Se transpira de pie sin hacer nada. |
+| **Materiales** | Melamina, led, terciopelo barato, alfombra que huele. **No hay mármol.** Todo es más pobre y todo cuesta más caro. |
+| **Ritmo** | **PERMANENCIA.** El cliente no se va: se queda una hora, dos. Repite el café para tener derecho a estar, con el vaso vacío en la mano como excusa. El negocio dejó de rotar — ahora **acumula**. |
+| **La regla tácita** | **Acá sí se nombra** — pero en clave de gremio y con cariño: *el uniforme*, *el minuto*, *el privado*. El eufemismo institucional (§2, punto 11). |
+
+**El público de abajo:**
+- **Solo hombres.** No entran mujeres, no entran familias, no hay tránsito casual. **Todos los que están, decidieron estar** — bajaron una escalera y cruzaron una cortina a propósito. Ése es el cambio de aire más grande del relato y hay que escribirlo así.
+- **Quiénes:** comerciantes de la misma galería, jubilados, taxistas, guardias, funcionarios en su día libre, obreros. Más viejos, más solos y más pobres que arriba. **Y el mismo oficinista de arriba**, cuando ya no le alcanza con mirar cinco minutos.
+- **Cómo mira:** ⭐ **de frente y sin descanso.** No baja la vista: la sostiene. Como no puede tocar (la barra de 30 cm), la mirada hace **todo** el trabajo. **La vergüenza se cambió de lado.**
+- **Cómo habla:** por su nombre. Le pregunta por su vida **y se acuerda de la respuesta de la semana pasada**. Le cuenta la suya. Hay vínculo, y es tierno y asqueroso al mismo tiempo, y las dos cosas son verdad (§2b: nadie es villano).
+- **Qué paga:** el café + el minuto + la propina **en la mano** + el privado. La plata pasa de mano a mano, no por caja. Y al dársela la mira y espera algo: **que ella la reciba bien.**
+- **Qué compra en realidad:** **ser recibido.** Que se acuerden de cómo lo toma. Es el *casero* (§2, punto 12), y ahí está la droga: no la desea uno, **la necesitan muchos**. Verificado: *"Hoy no estoy de turno y están todos atacados; es que son como adictos."*
+
+#### El cruce, línea por línea
+
+| | **A · arriba** | **B · abajo** |
+|---|---|---|
+| **Distancia** | El ancho del mostrador | **30 cm**, y el aliento de él le llega a la cara |
+| **Tiempo del cliente** | 5 minutos | 1-2 horas |
+| **La mirada** | De reojo, robada, avergonzada | Sostenida, de frente, sin pedir permiso |
+| **Cómo la llama** | *Señorita* | Por su nombre |
+| **La plata** | Por caja; propina en un pocillo | De su mano a la mano de ella |
+| **El público** | Mixto — entran mujeres | Solo hombres, y todos eligieron entrar |
+| **La calle** | Presente, mirando | **Abolida** |
+| **El reloj** | Natural, la hora se sabe | Ninguno |
+| **Las sillas** | No hay — **para que rote** | No hay — **y se queda igual, de pie, dos horas** |
+| **Qué se nombra** | Nada | Todo, pero en clave de oficio |
+
+> ⭐ **EL HALLAZGO — el local tiene la misma coartada que ella, y se le gasta al mismo ritmo.**
+>
+> Arriba **el café es el producto y ella es el decorado**. Abajo **ella es el producto y el café es la coartada** — el vaso es el ticket de entrada, nada más. Y es exactamente la misma estructura de la coartada de la protagonista (§4.9): el local *de verdad* vende café, igual que ella *de verdad* está buscando a su amiga. Las dos coartadas son operativamente verdaderas, y **las dos se adelgazan en paralelo hasta ser una formalidad**.
+>
+> 🔴 **Consecuencia narrativa, y es grande: el ambiente ES el termómetro de ella.** El Escritor no necesita explicar nunca cómo está la protagonista por dentro — le basta describir en qué estado está el local. Menos luz, menos calle, menos reloj, más cerca, más calor = más adentro. **Descripción de ambiente y estado interno son el mismo instrumento.** Úsese así todo el relato.
+
+#### 🚪 La frontera: la primera vez que baja la escalera
+
+Merece **escena propia y física**, porque es el único cruce real del relato:
+1. La galería: fluorescente, olor a cerrajería y a fotocopia, un maniquí, música de otro local.
+2. La cortina. **Dos segundos ciega.**
+3. La escalera: el ruido de la calle **se corta a la mitad del descenso** — hay un escalón exacto donde deja de existir el mundo de arriba.
+4. El aire le sube caliente a la cara antes de ver nada. Primero llega el olor, después el local.
+5. Abajo: **ya no hay calle que mirar.** Ése es el evento, no el uniforme. Arriba podía ver pasar gente. Acá se acabó afuera.
+
+#### ✍️ Cómo se escribe cada uno (regla para el Escritor)
+
+| | **A · arriba** | **B · abajo** |
+|---|---|---|
+| **Frase** | Más larga, aireada, interrumpida por gente que entra y sale | Corta. Sin aire. Sin puntos de fuga |
+| **De dónde sale el calor** | Del **contraste**: lo obsceno dicho en registro de oficina (§2, punto 1) | De la **permanencia y la proximidad**: el tiempo y los 30 cm |
+| **🚫 El error que lo mata** | **Escribirlo ya erotizado.** Arriba tiene que parecer un trabajo casi decente — si el lector no siente que "esto todavía no es nada", el descenso no tiene altura de dónde caer | **Convertirlo en antro siniestro.** Sigue siendo cálido y amable: el dueño le sigue preguntando si almorzó (§2b). El horror sale de que todos son buena gente |
+
+> 🔴 **El recurso más obsceno de esta sección, y es gratis:** **el mismo cliente puede estar en los dos locales.** Un tipo que ella atendió arriba, de corbata, con su cortado de las nueve, reaparece abajo tres meses después. **Ninguno de los dos lo comenta jamás.** Eso dice más que cualquier descripción — y dice, sin una palabra de explicación, que la escalera no la subió sola.
+
+*(Honestidad de fuentes: la arquitectura, la ordenanza del vidrio, la ausencia de sillas y alcohol, la estratificación en categorías, el minuto feliz, la rocola y los testimonios citados están **documentados** — ver §8. La composición mixta del público de 1ª categoría también. **El retrato fino del público de abajo** —oficios, edades, cómo miran, cómo pagan— es **inferencia razonada** a partir de los hechos verificados (ubicación en galería, público exclusivamente masculino, permanencia larga, caseros, propina en mano). Ficción verosímil, no dato.)*
 
 ---
 
@@ -600,6 +709,8 @@ La frase no desaparece de golpe. **Se vacía.** Cuatro estados, y hay que poder 
 | **6** | **La cámara** | El set — un departamento cualquiera, sin lujo. Nombre nuevo. | Lo que pida la escena | — | El producto entregado (§9.4). |
 
 > 🔴 **Numeración canónica (unificada 03/08 — manda ésta):** `0 afuera · 1 vitrina · 2 galería · 3 subterráneo · 4 privado · 5 revelación · 6 cámara`. La **trad wife NO es un peldaño de la protagonista** — es el destino de la **amiga**, y aparece solo como la escena del living en el peldaño 4 (§9.3).
+
+> 🏛️ **Estos cuatro locales son gradaciones de DOS mundos, no cuatro escenarios distintos** (directiva Ama 03/08). El peldaño 1 es el mundo A («el de la minifalda»); los peldaños 2-3-4 son el mundo B («el extremo»), cada vez más adentro. **La frontera se cruza una sola vez, entre el 1 y el 2** — y es un cambio de aire, de público y de reglas, no de vestuario. **Ambiente, público y cómo se escribe cada uno: §3.8.**
 
 ### 6.2. La curva, peldaño a peldaño
 
@@ -1043,4 +1154,117 @@ Por eso el relato no puede tener epílogo, ni contexto, ni una línea final que 
 
 ---
 
+## 11. 🔴 ARQUITECTURA VIGENTE — la apertura invertida y el local que sabe
+
+> ⚠️ **PUERTA ÚNICA PARA EL COMPOSITOR.** Esta sección es la más nueva y **manda sobre §6.2, §6.3, §9.3 y §10.5** en todo lo que se contradiga (tabla de derogaciones en §11.6). Si algo de arriba dice lo contrario, gana esto.
+
+### 11.0. Las tres decisiones de la Ama (03/08/2026, tarde)
+
+> 1. *"la amiga se pierde pero luego reaparece convertida en trad wife, la ve por rrss, y esta muy cambiada, no se actitud, pelo, ropa etc. la prota la busca en una casa del barrio alto y la confronta y la amiga le dice que esta todo bien, que ahora sabe que esto es lo que es todo muy feliz"*
+> 2. *"si que sepan, saben que es la amiga y que anda investigando, que sea como que la prota no sabe, pero si saben"*
+> 3. *"a la amiga se le pierde el rastro en el primer cafe, luego la prota averigua que paso al segundo"*
+
+### 11.1. La secuencia de apertura
+
+| # | Beat | Función |
+|---|---|---|
+| 1 | **La desaparición** | Breve. No es un misterio policial: es una amiga que deja de contestar. |
+| 2 | **RRSS — la reaparición** | La ve en una cuenta **pública y feliz**. Pelo, ropa, actitud, casa: todo distinto. **Nadie escondió nada, nadie borró nada.** Es la firma de esta máquina — todo se ofrece, nada se impone. |
+| 3 | **La confrontación en la casa del barrio alto** | Va a sacarla. Y la amiga le dice que está todo bien, que **ahora sabe lo que es**, y está feliz. |
+| 4 | **El primer café** (paseo peatonal) | Va porque **ahí se le pierde el rastro**. Entra a preguntar. La contratan. → **Peldaño 1.** |
+| 5 | **El hilo** | Averigua que la amiga **pasó al segundo café**. Ahí está lo que busca. |
+| 6 | **La llave** | Y descubre que al segundo café **no se entra: se asciende**. → dispara toda la escalera. |
+
+### 11.2. 🔴 EL CAMBIO DE MOTOR — ella no cae por la escalera: la sube a propósito
+
+**Esto es lo más importante de la sección.** Antes la protagonista *aceptaba* ascensos que la iban hundiendo. Ahora **los persigue**, porque el segundo café es su objetivo declarado y el ascenso es la única llave.
+
+> 🔴 **Su misión y el mecanismo del local son la misma acción.** El aparato no tiene que empujarla. **Solo tiene que decirle que sí.**
+
+**Y la resistencia se muda de lugar** (corrige §6, que la medía en "promociones aceptadas"):
+
+- Ya **no** resiste el ascenso: lo pide, lo busca, se alegra cuando llega.
+- Resiste **lo que el ascenso trae puesto** — el uniforme, el turno, el minuto, el privado.
+- Y pierde siempre, porque **son el mismo paquete y ella ya dijo que sí a la mitad buena.** No se puede tener el acceso sin el bikini. Nadie se lo impone: se lo explican con toda naturalidad, como se explica un cargo.
+
+👉 Para el Escritor: **cada peldaño es una alegría seguida de un precio.** Primero la felicitan y ella está contenta de verdad — está avanzando en su investigación. Después le pasan el uniforme. **Y entre las dos cosas hay un hueco** (§6.4) donde tiene que tragar. Esa doble reacción, en ese orden, es el latido del relato entero.
+
+### 11.3. 🔴 EL LOCAL SABE — y la regla dura que hace que funcione
+
+Saben quién es **desde el primer día**: que es la amiga de la que se fue, y que anda investigando. Ella cree que no.
+
+> ⛔ **CONDICIÓN INNEGOCIABLE: saben, y NO HACEN NADA DISTINTO.**
+>
+> Si el local la dirige, le acelera un ascenso, le pone a alguien encima o le arma una trampa a medida, **el relato se cae entero**: le regala a ella —y al lector— la excusa de que fue una operación. Muere §10.4 (*el último sí no se apoya en el aparato*) y muere el *"nadie la obliga nunca a nada"*.
+>
+> **Saber ≠ actuar.** La máquina tiene una sola configuración y se la aplica igual que a todas: mismos turnos, misma cuota, mismos ascensos, mismas compañeras, misma amabilidad. **Y funciona igual de bien.**
+
+**La frase de la revelación (§10), en tono de administrador aburrido:**
+> *"Sí. Sabíamos desde el primer día. ¿Y qué querías que hiciéramos?"*
+
+Porque la respuesta honesta es: **nada**. Su investigación nunca fue una amenaza — no porque la controlaran, sino porque **no había nada que encontrar**. Ese es el hallazgo más frío del relato: el secreto no estaba protegido. **Estaba a la vista y no servía de nada saberlo.**
+
+**Diseño de las grietas (dramatic irony):** el lector tiene que poder **sospechar** que saben, mucho antes de la confirmación.
+
+| ✅ Las grietas prueban que **SABEN** | ⛔ Nunca prueban que **ACTÚAN** |
+|---|---|
+| Alguien le dice un apellido que ella nunca dio | ⛔ Un ascenso que llega sospechosamente rápido |
+| Nombran a la amiga por su nombre real, no por el del local | ⛔ Una compañera puesta ahí para trabajarla |
+| El dueño menciona su trabajo anterior sin que ella lo haya contado | ⛔ Un uniforme o un turno hecho a su medida |
+| Nadie le pregunta nunca **por qué** llegó ahí | ⛔ Cualquier gesto que solo se explique si la están dirigiendo |
+
+> 🚨 **Regla para el Escritor:** al releer, **todo gesto amable tiene que seguir siendo genuino.** El lector va a querer que haya sido un complot, porque un complot consuela. La respuesta del relato es que no: la compañera que le sugirió las uñas lo dijo de cariño, el dueño de verdad le preguntó si almorzó, y **funcionó igual**.
+
+### 11.4. La amiga, corregido — de ausencia a presencia inexplicable (deroga M6, §5)
+
+M6 la trataba como *"ausencia presente"* y como termómetro por **cuánto la piensa**. Ya no sirve: ahora la tiene **ubicada, localizable y feliz** desde el capítulo 1. Puede llamarla cuando quiera. **Y no la llama.**
+
+🔴 **El termómetro nuevo — las RRSS de la amiga.** Es medible, es silencioso y el lector lo cuenta solo:
+
+| Estado | Señal |
+|---|---|
+| **1** | Le revisa las redes todos los días, buscando pruebas del crimen. Guarda capturas. |
+| **2** | Las revisa igual, pero ya no busca pruebas: **mira la casa.** |
+| **3** | Pasan días sin abrirlas. Cuando lo nota, se asusta. |
+| **4** | 🔴 **Le da like a una foto.** Sin pensarlo, con el pulgar, entre dos cafés. Y no lo saca. |
+| **5** | Ya no las abre. **Y el texto no comenta la ausencia** — igual que la coartada (§4.9.4). |
+
+> El *like* del estado 4 es el equivalente exacto del *"se le muere la coartada en la boca"*: el momento en que dejó de estar en contra y no se dio cuenta.
+
+### 11.5. La escena de la confrontación — el gancho carga el relato entero
+
+Al perderse el misterio (el lector sabe desde el capítulo 1 que la amiga está bien), **lo que empuja pasa a ser el vértigo, no la intriga.** Eso cobra caro: esta escena tiene que ser devastadora o el libro se cae en el capítulo dos.
+
+**⛔ La trampa:** la amiga **no puede explicar nada**. Si dice *"me hicieron esto y esto"*, se viola §2b-6 y el relato se convierte en el anti-modelo `proyecto_trad_wife_vera`.
+
+**Cómo se escribe:**
+- A *"¿qué te hicieron?"* responde con desconcierto **tibio y cariñoso** — *"nada, amiga... ¿de qué hablai?"* — y se pone a hablar de la casa.
+- No se defiende, no evade, no se pone nerviosa. **No hay testimonio que sacarle.**
+- La protagonista sale con **cero información y certeza absoluta.** Esa desproporción es la escena.
+- 🔴 **Y la amiga tiene razón.** No le hicieron nada. El lector recién va a entender eso al final — y cuando lo entienda, **esta escena se le va a reordenar entera**.
+
+> ⭐ **La primera escena es la última, actuada por otra.** El lector conoce el destino en el capítulo 1 —una mujer diciendo *"ahora sé lo que soy"* y estando feliz— y después mira a la protagonista caminar hacia eso. Al final ella dice la misma frase **y la dice en serio**. Es la T1 de REF-01 (*abrir en el fondo*) conseguida **sin flashback**.
+
+### 11.6. ⛔ Derogaciones — qué queda sin efecto de las secciones anteriores
+
+| Sección | Qué decía | Qué manda ahora |
+|---|---|---|
+| **§6.2, peldaño 3→4** | El reencuentro con la amiga cae acá y *"no la despierta"* | **Se fue al capítulo 1.** En el peldaño 4 ya no hay reencuentro |
+| **§6.3, freno 3** | La amiga se gasta en el peldaño 4, al descubrir que no hay a quién rescatar | **Ese freno se gasta en el capítulo 1.** Lo que queda no es un freno: es un **objetivo** (§11.2) |
+| **§9.3** | La coartada muere *por inutilidad* (no hay a quién rescatar) | Muere **por agotamiento del objeto**: llega al segundo café, averigua lo que fue a averiguar — **y sigue trabajando.** Ya no hay nada que averiguar, ni siquiera una mala excusa |
+| **§10** | La revelación incluye *"tu amiga está bien, dónde está, quién la puso ahí"* | **Ya lo sabe todo desde el capítulo 1.** La revelación pasa a ser **sobre ella misma** (§11.7) |
+| **§5, M6** | La amiga como *ausencia presente*, medida por cuánto la piensa | Sustituido por el **termómetro de RRSS** (§11.4) |
+
+### 11.7. Qué muere en cada punto, ahora
+
+- **Peldaño 4 — el pivote:** ya no es *"no hay a quién rescatar"* (eso pasó en el capítulo 1). Es **"ya no queda nada que averiguar"**. Consiguió su respuesta y **vuelve al turno igual**. El tramo ciego queda más limpio que antes: sin misión, sin excusa, **ni siquiera una mala**. Lo único que la mueve son las ganas.
+- **Peldaño 5 — la revelación, ahora es sobre ELLA:** que a ella le hicieron exactamente lo mismo · que **el local dejó de operar sobre ella hace muchísimo** y todo lo demás lo hizo sola (pieza de REF-01) · que **sabían quién era desde el primer día y no les cambió nada**.
+- 🔴 **Y el remate frío que ya estaba en §9.2 y ahora encaja solo — el catálogo:**
+  > *"Tu amiga entró igual que tú. La evaluamos igual que a ti. A ella le tocó la casa. A ti te toca la cámara."*
+  >
+  Las dos son **dos productos de la misma máquina**, con distinta asignación. La protagonista pasó el relato entero creyendo que investigaba un crimen contra su amiga, y lo que había era **un proceso de selección** — el mismo que la estaba procesando a ella mientras miraba.
+
+---
+
 *Investigación Fase 0 · La Voûte v4.8 · 03/08/2026 · Submundo nuevo en el repo: cero material previo verificado por grep.*
+*§3.8 (los dos ambientes) y §11 (arquitectura vigente) agregadas el 03/08/2026 por directiva de la Ama.*

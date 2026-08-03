@@ -112,4 +112,107 @@ Termina con ella **convertida y feliz**: nombre nuevo firmado, contrato firmado,
 
 ---
 
-*Próximas referencias: `02_...`, `03_...` — la Ama las va a ir entregando.*
+## REF-02 — «Stripclub Bimbos» (N. Trance · traducción publicada en todorelatos)
+
+Texto completo en `referencias/02_todorelatos_amiga_desaparecida.md`.
+
+**Por qué la trajo la Ama, en sus palabras:**
+> "en todorelatos hay uno muy similar que me gusta mucho pero no logro dar con el"
+> "es una chica que se le pierde su amiga y va a un stripclub"
+
+### 1. Ficha técnica
+
+| | |
+|---|---|
+| **PDV** | ⭐ **Primera persona — la que BUSCA**, no la desaparecida (Gemma). Es el único PDV de las referencias que coincide con el ángulo de entrada del nuestro |
+| **Tiempo** | Pasado retrospectivo (con deslices a presente por traducción descuidada) |
+| **Estructura** | **Lineal pura, sin retroceso.** Entra → busca → encuentra a la amiga ya convertida → cae ella → sale a la puerta a reclutar |
+| **Extensión** | ~3.500 palabras. La conversión completa ocurre en **una sola tarde** |
+| **Mecanismo de control** | **Químico + letanía verbal**: droga en el vodka de cortesía + repetición dictada a la cara (*"La Organización lo es todo. Tú no eres nada"*) |
+| **Calidad de prosa** | Baja, y el propio traductor lo advierte. **No es modelo de escritura** — se estudia por su situación y sus bisagras |
+
+### 2. 🔴 El parecido con nuestro relato — y el punto exacto donde se separa
+
+**Idéntico:** la premisa entera. Amiga que desaparece · club · entrar con coartada a rescatarla · caer adentro.
+
+**Opuesto:** el motor. **Acá la drogan.** El vodka de la casa hace todo el trabajo pesado, y la letanía de Gloria lo remata.
+
+> 🚨 **Lo que la Ama vino a buscar acá es la SITUACIÓN, no el motor** — y la situación se transfiere completa. El motor se queda afuera, y no por capricho de canon: **la droga le regala a la protagonista una excusa.** Si la drogaron, no cedió — la vencieron. Nuestro relato tiene el filo justo al revés (`investigacion.md` §2b: *nadie la obliga nunca a nada*). Esta referencia es **la misma escena sin red**: lo que ahí resuelve la química, acá lo tiene que resolver el ascenso, la cuota, el cansancio y las compañeras.
+
+### 3. ⭐ Las ocho técnicas transferibles
+
+**T1 — La coartada no resiste la degradación: la EJECUTA.**
+Cada paso hacia abajo lo da ella *para no delatarse*. Se maquilla exageradamente y se pone un abrigo de piel **en su propia casa, antes de que el local la toque** — se disfraza sola. Cuando Gloria le exige medidas de tetas/cintura/cadera en tono despectivo, el texto lo dice literal: *"tuve que recordarme a mi misma que estaba aquí para encontrar a Beth y que no podía hacer nada que me descubriese"* → y las da. Acepta el trago, acepta el vestuario, acepta desnudarse. Remate perfecto: *"¡Claro! – dije **sin pensar bien lo que decía**."*
+👉 **Confirmación total de nuestro motor** (`investigacion.md`: la coartada del rescate, operativamente verdadera). Y aporta la mecánica frase por frase: **el "sí" nunca es rendición, siempre es táctica.** Para el Escritor: cada peldaño del café se acepta con una razón operativa dicha por dentro, jamás con un "bueno, ya qué".
+
+**T2 — Los ojos son el detector. Y la actuación es la última esperanza que se cae.**
+El horror NO entra por la ropa, ni el maquillaje, ni las tetas. Entra cuando *"se levantó y la luz le dio en pleno rostro. Sus ojos."* — *"No había en aquella mirada nada de la interesante e inquisitiva inteligencia que solía animar su rostro."*
+Y antes de eso hay una escena entera sostenida por una creencia: Gemma cree que su amiga **está actuando**, la felicita mentalmente (*"tuve que admitir que era una actriz brillante"*), busca micrófonos ocultos, susurra. **Tres intercambios completos apoyados en una esperanza falsa.**
+👉 ⭐ Robar la estructura: **el lector y la protagonista tienen que poder creer, un buen rato, que la otra finge.** La caída de esa creencia es una escena, no una línea.
+
+**T3 — ⭐⭐ LA PIEZA MAYOR: la puerta está abierta, y la cerradura es el decoro.**
+Gemma decide irse. Camina a la puerta, **gira el pomo**. Nadie la agarra, nadie la amenaza, no hay guardias. La amiga solo dice dos frases:
+> *"Ahí fuera está oscuro. No puedes salir así."* · *"Todavía no estás vestida. No puedes irte de esa manera."*
+Y se queda. Textual: *"Incluso, si bajaba al bar, no estaba vestida apropiadamente. Me di la vuelta y caminé de nuevo hacia el centro de la habitación, donde me sentía más segura."*
+👉 **Esto ES nuestro relato**, y es 100% compatible con "nadie la obliga nunca a nada". No hay reja: hay **una convención social minúscula** haciendo de candado. La única prisión que aguanta el género es la que la presa cierra por educación.
+🚨 Regla para el Escritor: en el café, **cada vez que ella pueda irse, que casi se vaya — y que la devuelva algo ridículamente chico.** No estoy peinada. Le quedo mal al turno. Le prometí a la Vicky que le cubría. No me van a pagar el día.
+
+**T4 — Las olas físicas escalan; la bisagra se enuncia como PREGUNTA, no como decisión.**
+Tres olas medidas: (1) *"mi andar se hizo ligeramente titubeante"* → (2) *"una cálida oleada de placer... se apoderó de mi coño"* → (3) *"Como si hubiese sido penetrada, me estremecí de placer"*. Y recién ahí la frase que abre la puerta: *"comencé a preguntarme **por qué** estaba tratando de luchar contra esas sensaciones tan maravillosas."*
+👉 Ella nunca decide rendirse. **Se hace una pregunta y no encuentra respuesta.** Transferible sin una gota de droga: nuestras olas son el calor, el reggaetón a las diez de la mañana, el cansancio de las piernas, la mirada acumulada. La forma de la bisagra se copia entera.
+
+**T5 — ⭐ "Este es tu verdadero yo": no te instalan nada, te *sacan* lo que ya eras.**
+Gloria no le ordena ser otra. Le dice que la está **liberando**: *"Creo que esta es sin duda tu verdadero yo... **La mentira en la que has vivido** solo ha servido para mantener contenta a tu familia y a tus amigos. Pero esto es lo que eres."* Y funciona: Gemma lo procesa como descubrimiento propio — *"Tal vez ese era mi verdadero yo luchando por salir. Mi verdadero ser que había ocultado porque era demasiado tímida."*
+El sistema hasta **le fabrica un pasado** a la amiga convertida: *"Siempre he querido ser stripper. Desde que era niña jugaba a disfrazarme con la ropa de mi madre."*
+👉 ⭐ **Es la técnica más compatible con nuestro motor**, porque no es una orden — es un halago que reencuadra toda su biografía. Encaja como guante con nuestro *"bajar es subir"* y con las modificaciones **en pregunta**. En el café nadie dice "conviértete": dicen *"a ti esto se te da natural, se nota que siempre fuiste así"*.
+
+**T6 — El espejo es el quirófano, la compañera es la cirujana, y la conversión se siente como MIMO.**
+La identidad nueva se instala sentada frente a *"un espejo rodeado de bombillas"*, mientras **otra chica** la trabaja: Maddie *"me bajó el top y me ciñó un corsé"*, Gloria le pinta la cara. Y el registro emocional es clave: *"Realmente nunca me habían mimado tanto como ahora. **Estaba en la gloria.**"*
+Y el orden del remate importa muchísimo: *"**Parecía** una puta. Y lo más importante, **me sentía** como una puta."* → **la imagen precede a la identidad.** Primero se ve, después se siente.
+👉 Doble uso: (a) el espejo del café deja de ser decorado y pasa a ser **el lugar donde se instala cada peldaño**; (b) cuarta confirmación cruzada de **T3 de REF-01** — la caída se escribe **como cuidado y alivio, nunca como violencia**.
+
+**T7 — El nombre nuevo cierra la operación** (*"tu nombre será Felicity Lovelace"*).
+👉 **Segunda referencia independiente que remata con cambio de nombre.** Eso ya no es coincidencia, es la forma del género. `investigacion.md` §9.4 queda confirmado por partida doble.
+
+**T8 — Cierra EN LA FUNCIÓN, sin epílogo — y la víctima recluta.**
+Última escena: las dos en la puerta, riendo, atrayendo hombres. Consigue uno *"a pesar de que podía notar que él no estaba realmente seguro de querer hacerlo"*. Última línea: *"Y sabía que nada más importaba para mí."*
+👉 **Tercera confirmación** del mismo cierre (REF-01 idem, y `investigacion.md` §2b-9). Y la pieza nueva: **el ciclo se cierra** — la que entró a buscar a alguien termina metiendo a alguien. Sugerencia para el Compositor, no decisión: nuestro remate posterior al «sí» informado podría ser la prota **operando sobre otra**.
+
+### 4. ⛔ Lo que NO se transfiere (y por qué)
+
+| Elemento de la referencia | Por qué NO va |
+|---|---|
+| **La droga en el trago** | Motor químico. Le da coartada a la protagonista y le quita el filo al relato (`investigacion.md` §2b: nadie la obliga nunca) |
+| **"La Organización" · la letanía dictada · el ala de castigo con perros** | Antagonista que ordena, amenaza y explica el mecanismo a la cara. §2b-6 lo prohíbe. En el café **nadie ordena nada** |
+| **La velocidad (conversión en una tarde)** | Mata la **curva de resistencia** (§6). Nuestro relato vive justo en lo que esta referencia se salta |
+| **Donar el sueldo entero a la secta** | Es el opuesto exacto de nuestro anzuelo: en el café **el excedente sobre la cuota es suyo**. La plata es el gancho, no la ofrenda |
+| **La prosa** | Plana, con erratas de traducción. Situación sí, escritura no |
+| **La amiga que no la reconoce** | ⚠️ Ver §5 — no es descarte, es decisión de arquitectura |
+
+### 5. ⚠️ LA TENSIÓN QUE ABRE (decisión para el Compositor / Gate de la Ama)
+
+Acá la protagonista encuentra a la amiga **temprano y ya convertida**, y la amiga **no la reconoce**. Es el golpe más fuerte del relato... y en el nuestro **mataría la coartada en el minuto veinte**: si ya la vio y no hay nada que rescatar, la escalera entera se queda sin motor.
+
+Tres salidas, en orden de calidad:
+
+1. ⭐ **La ve temprano y la coartada se REFUERZA.** La encuentra bien, feliz, ascendida — y ella lo lee como *"le hicieron algo, y para sacarla tengo que llegar donde están los que deciden"*. La evidencia de que no hay crimen se convierte en prueba del crimen. Es lo más cruel y lo más coherente con *"la coartada es operativamente verdadera"*.
+2. **La ve tarde**, ya con ella misma varios peldaños abajo — el espejo llega cuando ya no sirve de advertencia.
+3. **No la ve nunca** hasta la revelación final (*"tu amiga está bien, está acá, la puso él"*) — es lo que hoy insinúa `investigacion.md` §10, y es la más segura, pero desperdicia la mejor escena de esta referencia.
+
+📌 **Recordatorio de reparto (decisión ya tomada por la Ama, 03/08):** prota → **porn star**, amiga → **trad wife**. Sea cual sea la salida, la amiga NO termina en el café: termina en una casa. Eso condiciona dónde puede aparecer.
+
+### 6. Cruce de las dos referencias — lo que ya está confirmado por partida doble
+
+| Pieza | REF-01 | REF-02 | Estado |
+|---|---|---|---|
+| La caída se escribe como **alivio / mimo**, no como derrota | ✅ | ✅ | 🔒 **Canon del relato** |
+| **Nombre nuevo** como corte final de identidad | ✅ | ✅ | 🔒 **Canon del relato** |
+| Cierre **en la función**, sin epílogo ni permiso al lector | ✅ | ✅ | 🔒 **Canon del relato** |
+| Otra mujer del gremio es la que ejecuta la transformación | ✅ (mentora) | ✅ (Maddie) | 🔒 **Canon del relato** |
+| El mecanismo **deja de operar** y ella sigue sola | ✅ | ❌ | Pieza exclusiva de REF-01 |
+| La **coartada de investigación** como motor de los "sí" | ❌ | ✅ | Pieza exclusiva de REF-02 |
+| La puerta abierta y el **decoro como cerradura** | ❌ | ✅ | Pieza exclusiva de REF-02 |
+
+---
+
+*Próximas referencias: `03_referencia.md` y `04_referencia.md` — plantillas vacías esperando el texto de la Ama.*
