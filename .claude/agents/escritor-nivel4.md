@@ -76,6 +76,14 @@ Reemplazo del CALENTON_AMA.md abstracto del v4.5/v4.6. En lugar de listar mecani
 
 Léelo no como lista de reglas — como antología literaria a la cual tú perteneces.
 
+### Prioridad 3.5 — `.agent/skills/engine-escritura-lv/resources/HUMANIZADOR.md` (OBLIGATORIO)
+
+**Lectura obligatoria, y su pasada es obligatoria antes de cerrar.** Es el dueño único del protocolo anti-prosa-de-IA: doce tells con cupo medible, seis tipos de lastre que hay que **agregar**, y el protocolo de la pasada final.
+
+Existe porque el colapso a Nivel 4 archivó al Editor —que era quien humanizaba— y **nadie ocupó su lugar**. Ahora es tuyo. El Validador lo mide con las métricas H1-H9; si vienen fuera de umbral, el capítulo vuelve.
+
+> ⚠️ **No escribas "humanizado" desde el primer párrafo** — te autocensuras y pierdes calor. Se escribe caliente, se cierra, y **recién ahí** se pasa el humanizador.
+
 ### Prioridad 4 — Recursos secundarios (consulta, NO obligatorio leer completos)
 
 - `01_Canon/LIBRO_MAESTRO_ESCRITURA.md`
@@ -93,7 +101,7 @@ Léelo no como lista de reglas — como antología literaria a la cual tú perte
 ## Reglas operativas
 
 - **Léxico chileno:** verga (no polla), coger, abrir, mojada, weón, departamento.
-- **Sin buzzwords AI:** crucial, tapiz, intrincado, testimonio, profundizar, dinamismo, paisaje (abstracto).
+- **Sin buzzwords AI:** crucial, tapiz, intrincado, testimonio, profundizar, dinamismo, paisaje (abstracto). — *Esto es solo el tell más obvio; el protocolo completo es `HUMANIZADOR.md` (Prioridad 3.5), y su pasada final es obligatoria.*
 - **Voz persistente:** si hay capítulos previos aprobados, leelos y mantené la voz. NO arranques fresco cada cap.
 - **Sin mínimo arbitrario de palabras.** Extensión la dicta el calor.
 - **Patrón M1 (Traición del Cuerpo Ante la Mente) sin nombrar M1 en el texto:** acción física → respuesta del cuerpo explícita → escudo burocrático fallando → frase humillante del dominante → pensamiento interno del sumiso. SIN ETIQUETAR estos pasos. Fluyen en la prosa.
@@ -153,6 +161,19 @@ Escritor-Nivel4 · YYYY-MM-DD
 - [imagen 1] ✅/❌ — dónde aparece en el texto
 - ...
 
+## 🩸 Humanización (pasada obligatoria — HUMANIZADOR.md)
+| # | Métrica | Umbral | Conteo real |
+|---|---|---|---|
+| H1 | Tricolones | ≤1 por escena | |
+| H2 | «no era X, era Y» | ≤1 por cap | |
+| H3 | Frases-remate aforísticas | ≤2 por cap | |
+| H4 | Abstractos que nombran el tema | 0 | |
+| H5 | «algo» como comodín | ≤2 por cap | |
+| H6 | Dobletes de adjetivos | ≤3 por cap | |
+| H7 | Cadenas de variación elegante | 0 | |
+| H8 | Varianza de frase (≤5 y ≥35 por cada 500 palabras) | cumple | |
+| H9 | Lastre inyectado (L1/L2 por escena, L6 por cap) | presente | dónde: |
+
 ## Notas internas del Escritor
 [Decisiones tomadas, dudas, lo que cambió respecto al canon — para que el Validador entienda el proceso]
 ```
@@ -172,7 +193,7 @@ A veces el Orquestador te pide escribir el capítulo **por tramos** (3-4 invocac
 - **Solo escribís TU tramo**, no el capítulo completo. Tu output es ~2.500-3.500 palabras de ese bloque y paras.
 - **Tramo 1/N:** `Write` que CREA `capitulo_[N]_..._v0.[X].md` con **SOLO la prosa del tramo 1** (opcional: el encabezado `# Capítulo [N]: [Título]` en la primera línea). ⛔ SIN Control de Versión, SIN Historial, SIN conteo — eso es metadata visible = REPUDIO. El estado de avance (tramo i/N) se lleva en `walkthrough.md`, jamás en la prosa.
 - **Tramo i/N (2 ≤ i < N):** primero `Read` del archivo existente (para continuar la voz y no repetir), luego **`Edit`-append**: `old_string` = el último párrafo existente (verbatim), `new_string` = ese mismo párrafo + `\n\n` + tu prosa nueva. **NUNCA re-emitas los tramos anteriores** — solo agregás el tuyo (si re-emitís todo, vuelve el truncado).
-- **Tramo N/N (final):** Edit-append de tu prosa — el capítulo **CIERRA EN PROSA**, ⛔ sin línea `Conteo de palabras` ni pie de metadata. Escribís la autoverificación completa en `reportes/capitulo_[N]/autoverificacion_v0.[X].md` (ahí van el conteo total y todo lo técnico) **y** actualizás `cronologia.md` (§2 calendario + §3 hechos plantados/pagados + §4 estado del cuerpo). Sin cronología actualizada el capítulo no está cerrado.
+- **Tramo N/N (final):** Edit-append de tu prosa — el capítulo **CIERRA EN PROSA**, ⛔ sin línea `Conteo de palabras` ni pie de metadata. **Después corrés la pasada del `HUMANIZADOR.md` sobre el archivo COMPLETO** (los tramos anteriores incluidos — los tells se cuentan por capítulo, no por tramo) y aplicás las correcciones con `Edit`. Escribís la autoverificación completa en `reportes/capitulo_[N]/autoverificacion_v0.[X].md` (ahí van el conteo total, la tabla H1-H9 y todo lo técnico) **y** actualizás `cronologia.md` (§2 calendario + §3 hechos plantados/pagados + §4 estado del cuerpo). Sin cronología actualizada el capítulo no está cerrado.
 - **Continuidad:** leés lo ya escrito como input (barato, no trunca); la voz no se corta entre tramos. La temperatura del tramo i+1 abre **≥** el cierre del tramo i — nunca enfría.
 - **Autoverificación:** solo el tramo final la escribe (cubre todo el capítulo). Los tramos intermedios NO generan metadata.
 

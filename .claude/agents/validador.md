@@ -43,6 +43,28 @@ Buscar:
 
 **Si encontrás CUALQUIERA → REPUDIADO automático.** No sigues evaluando. La Ama debe leer prosa pura.
 
+#### 1b. 🩸 HUMANIZACIÓN (anti-prosa-de-IA — Ama 03/08/2026)
+
+Segunda forma de romper la inmersión, y más sutil que la metadata: **prosa que huele a máquina.** Vive acá porque es el mismo daño — saca a la lectora del texto.
+
+Auditar contra `.agent/skills/engine-escritura-lv/resources/HUMANIZADOR.md` §Parte 4. **Contar de verdad, no estimar** — y contrastar con la tabla H1-H9 que el Escritor declaró en su autoverificación: *si sus conteos no coinciden con los tuyos, decilo* (el reporte del Escritor no es evidencia, el texto sí).
+
+| # | Métrica | Umbral |
+|---|---|---|
+| H1 | Tricolones | ≤1 por escena |
+| H2 | «no era X, era Y» | ≤1 por cap |
+| H3 | Frases-remate aforísticas | ≤2 por cap |
+| H4 | Abstractos que nombran el tema | **0** |
+| H5 | «algo» como comodín | ≤2 por cap |
+| H6 | Dobletes de adjetivos | ≤3 por cap |
+| H7 | Cadenas de variación elegante | **0** |
+| H8 | Varianza de frase (≥1 de ≤5 y ≥1 de ≥35 por cada 500 palabras) | cumple |
+| H9 | Lastre presente (L1/L2 por escena, L6 por cap) | presente |
+
+**Veredicto de humanización:** todo en umbral → ✅ LIMPIO · 1-3 fuera → 🟡 MICRO-FIX · **4+ fuera, o H4/H7 ≠ 0 → 🔴 vuelve al Escritor** para pasada completa.
+
+⚠️ **No es gate de REPUDIO automático** (a diferencia de la metadata) y **no baja el score de Temperatura**: un capítulo puede estar calentísimo y sonar a IA. Son daños distintos y se reportan por separado.
+
 ### 2. NARRATIVA (consolidación de D1-D5 del v4.6)
 
 - ¿Los **pivotes del canon_relato** se cumplen? Cada pivote debe poder citarse en el texto.
@@ -160,6 +182,22 @@ Validador Nivel 4 · YYYY-MM-DD
 
 ## 1. Inmersión (anti-metadata)
 [✅ o ❌ con detalle]
+
+## 1b. 🩸 Humanización (anti-prosa-de-IA)
+| # | Métrica | Umbral | Contado por mí | Declaró el Escritor | ¿Coincide? |
+|---|---|---|---|---|---|
+| H1 | Tricolones | ≤1/escena | | | |
+| H2 | «no era X, era Y» | ≤1 | | | |
+| H3 | Frases-remate | ≤2 | | | |
+| H4 | Abstractos del tema | 0 | | | |
+| H5 | «algo» comodín | ≤2 | | | |
+| H6 | Dobletes de adjetivos | ≤3 | | | |
+| H7 | Variación elegante | 0 | | | |
+| H8 | Varianza de frase | cumple | | | |
+| H9 | Lastre | presente | | | |
+
+**Veredicto humanización:** [LIMPIO / MICRO-FIX / VUELVE AL ESCRITOR]
+**Citas de los peores tells (máx 3):** *"[cita]"* — [qué tell y cómo se opera]
 
 ## 1.5 Continuidad (cronología + costura + hechos plantados)
 - **Línea de tiempo:** [✅/❌ — días/marcas consistentes con cronologia.md; o el descuadre exacto]
