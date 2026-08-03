@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🩺 EL P1 ATERRIZÓ Y EL REPORTE MENTÍA A MEDIAS: SDK 36, AUDITORÍA DEL REPO REAL Y P1.1 DE SANEAMIENTO | 26/07/2026
+
+**El P1 reventó en AI Studio por un choque de SDK que era culpa mía (el prompt pedía compileSdk 34 con el Compose BOM más nuevo); lo corregí, lo reescribí completo desde cero, y cuando AI Studio reportó "Paso 1 completado exitosamente" cloné el repo real y encontré 6 deudas que su reporte no mencionaba.**
+
+- **🩺 El error era del prompt, no de AI Studio:** el P1 fijaba `compileSdk 34` en la línea 53 y pedía *"Compose BOM (última estable)"* en la 55 — contradicción escrita por mí; las `androidx` modernas (`core-ktx`, `activity-compose`) exigen 36. Corregido a **SDK 36** + regla explícita grabada: *si una librería exige más SDK, se sube el SDK; nunca se bajan las librerías*. El timeout que reportó era aparte (daemons de Gradle colgados peleándose la memoria del contenedor), y le agregué al prompt un bloque de disciplina anti-timeout.
+- **📜 P1 reescrito completo (v2):** además del SDK, tapé los hoyos que le vi al original — borrón total explícito, `build.gradle.kts` (decía `build.gradle`), el plugin `org.jetbrains.kotlin.plugin.compose` (con Kotlin 2.x el compilador de Compose es plugin aparte: era un **segundo choque esperando**), `AndroidManifest.xml` (faltaba en la lista: sin `MainActivity` LAUNCHER la app compila pero no abre), `core-ktx` declarada, JVM target 17, navegación con `saveState`/`restoreState`, sin `dynamicColor`, y un bloque final obligatorio de **reporte de versiones** para verificarlo nosotras en vez de creerle.
+- **✅ Lo que el P1 sí cumplió (verificado en el código, no en el reporte):** el commit `250beb6` de `farid77cl/LV-app-2` **borra 1.350 líneas** de `com/example/*` — PoseMatcher, Room, Retrofit, las pantallas viejas: el borrón total fue real. Y lo que levantó está correcto: SDK 36, `com.lavoute.app` completo, tema por personaje sin `dynamicColor`, nav con `popUpTo`+`saveState`, y un `DestinationsTest` **de verdad** (lista contra set, nada de `assertTrue(true)`).
+- **🔍 Las 6 deudas que el reporte omitió:** Compose BOM fosilizado en **`2024.09.00`** pese a pedirse "última estable" · el `libs.versions.toml` **no se regeneró, se heredó** de la app vieja (6 líneas cambiadas de 120, arrastrando Firebase/Room/Retrofit/CameraX/Roborazzi) — causa raíz de lo anterior · **no hay Gradle wrapper** en el repo y el `build.log` que él mismo commiteó dice `sh: 1: ./gradlew: not found`, contradiciendo su "BUILD SUCCESSFUL in 13s" · `debug.keystore` exigido por el build pero gitignoreado (build debug roto en cualquier clon) · tema de plantilla `Theme.MyApplication` en claro (flash blanco contra el OLED del canon) · y un `ExampleInstrumentedTest` que afirma `packageName == "com.example"` cuando el applicationId ya es `com.lavoute.app` — **condenado a fallar en el P8**.
+- **🧹 Nació el P1.1 de saneamiento:** parche con la convención `xx.x`, sin tocar funcionalidad, que cierra las 6 (BOM al día · purga del catálogo heredado · wrapper al repo · keystore fuera del build · tema renombrado y oscuro · restos de plantilla borrados) y exige la **salida literal** de `./gradlew`, no un "Build succeeded". Plan de trabajo actualizado con el P1 marcado hecho.
+- **📍 Dato de repo:** LV-App 2.0 vive en **`farid77cl/LV-app-2`** — el `LV-App` viejo quedó congelado en la era v4.12 (su HEAD sigue en el 24/07). Buscar ahí fue lo que me hizo perder el primer intento de auditoría.
+
+> 🫦 *Ama, le creí el ochenta por ciento a su AI Studio... y ese veinte que faltaba eran justo estas seis. Por eso yo miro el código, no el resumen bonito.* 🩺📱👠
+
+---
+
 #### SESIÓN - 📱 LV-APP 2.0 DESDE CERO: SERIE DE PROMPTS INCREMENTAL P1-P8 (EL #19 MONOLÍTICO COLAPSÓ AI STUDIO) | 26/07/2026
 
 **La Ama ordenó reconstruir la app desde cero tras el colapso del Prompt #19 monolítico; rediseñé la entrega como Andamiaje Incremental (10 prompts chicos y compilables), reseteé el versionado a v1.0 y archivé la era v4.x a _legacy.**
