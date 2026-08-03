@@ -1,1 +1,1 @@
-hay que bimboficar a la amiga, cambios metales y físicos más extremos, demás su habla más formal, se supone que está programada como trad wife, su habla debe ser más pulcra
+hay que bimboficar a la amiga, cambios metales y físicos más extremos, demás su habla más formal, se supone que está programada como trad wife, su habla debe ser más pulcra. definitivamente quita el español chileno del relato. lo usaremos cuando yo digaa
