@@ -14,7 +14,7 @@ El caso era que la Camila no había desaparecido de ninguna parte. Solo había d
 
 ---
 
-La foto se la mandó la Pauli, del liceo, un domingo a las once de la noche, con tres signos de interrogación.
+La foto se la mandó la Pauli, del liceo, a las once y media de la noche, con tres signos de interrogación.
 
 *oye esta no es la cami???*
 
@@ -88,7 +88,7 @@ La Camila volvió con dos tazas y el olor a café llegó al living antes que ell
 
 —Tú siempre andai con cierre. —Se rió—. ¿Y la Ceci? ¿Sigue con el weón ese?
 
-Hablaron veinte minutos de otras personas. La Camila preguntaba bien, se acordaba de los nombres, se acordaba de que la mamá de la Javi se había operado de la rodilla. Hablaba un poco más lento que antes. Movía las manos al hablar y las uñas le brillaban cada vez que las movía y la Javi le miró la taza: la agarraba con los dedos estirados, por el asa, con el meñique un poco separado, y para tomar levantaba la taza hasta la boca en vez de bajar la cabeza.
+Hablaron veinte minutos de otras personas. La Camila preguntaba bien, se acordaba de los nombres, se acordaba de que la mamá de la Javi se había operado de la rodilla. Hablaba un poco más lento que antes. Movía las manos al hablar y las uñas le brillaban cada vez que las movía, y la Javi se miró las suyas, cortas, con el borde comido, y le miró la taza a la Camila: la agarraba con los dedos estirados, por el asa, con el meñique un poco separado, y para tomar levantaba la taza hasta la boca en vez de bajar la cabeza.
 
 La Javi tomó aire.
 
@@ -194,7 +194,7 @@ Al tercer día después de la casa del barrio alto se paró en la vereda de enfr
 
 Adentro había tres mujeres.
 
-Estaban detrás de una barra larga, un poco más arriba de donde deberían estar, con falda azul marino de tubo hasta la mitad del muslo y camisa blanca ajustada, y una de ellas se agachó a buscar algo abajo y la falda le subió sola y ella se la bajó con una mano sin dejar de hablar. Del lado de afuera de la barra había hombres de pie, con vaso en la mano, y una señora con dos bolsas de supermercado esperando su turno, y un cabro con mochila mirando el celular.
+Estaban detrás de una barra larga, un poco más arriba de donde deberían estar, con falda azul marino de tubo hasta la mitad del muslo y camisa blanca ajustada, y una de ellas se agachó a buscar leche al entrepaño de abajo y la falda le subió sola y ella se la bajó con una mano sin dejar de hablar. Del lado de afuera de la barra había hombres de pie, con vaso en la mano, y una señora con dos bolsas de supermercado esperando su turno, y un cabro con mochila mirando el celular.
 
 La Javi cruzó la calle y pasó de largo.
 
@@ -202,7 +202,7 @@ Llegó hasta la esquina de Huérfanos, se quedó parada al lado del organillero 
 
 Entró.
 
-Lo primero que la agarró fue el olor. No el de una taza: el de la máquina. Aceite de café tostado, vapor de leche, y abajo de todo un fondo quemado, viejo, el del filtro que llevaba tres horas trabajando. Se le metió en la nariz y le quedó ahí. Encima flotaba un perfume dulce, de vainilla, barato, multiplicado por tres mujeres en cuatro metros cuadrados.
+Lo primero que la agarró fue el olor de la máquina, que no tenía nada que ver con el de una taza. Aceite de café tostado, vapor de leche, y abajo de todo un fondo quemado, viejo, el del filtro que llevaba tres horas trabajando. Se le metió en la nariz y le quedó ahí. Encima flotaba un perfume dulce, de vainilla, barato, multiplicado por tres mujeres en cuatro metros cuadrados.
 
 Después el ruido: el chillido del vaporizador, el golpe seco del portafiltro contra el cajón —*tac*—, la máquina, y arriba de todo una canción de los noventa que ella se sabía. Se podía conversar. Eso fue lo que más la desarmó: que se podía conversar, que la señora de las bolsas estaba conversando, que aquello era una cafetería con piso de mármol y techo de mármol y un cromo brillante en todas partes.
 
@@ -250,17 +250,17 @@ Y volvió a la calculadora.
 
 No le preguntó quién era ella. No le preguntó por qué la buscaba, ni si era familiar, ni si había pasado algo, ni le dijo *qué raro*. No hizo ninguna de las cosas que hace una persona cuando llega una desconocida preguntando por otra. Marcó tres cifras, apretó el signo de más, y esperó.
 
-La Javi se quedó parada delante de la caja tres segundos más de los que se puede estar parada delante de una caja. Detrás de ella el vaporizador chilló. Una de las mujeres se rió fuerte de algo y el sonido de sus tacos contra el mármol sonó como dos disparos chicos.
+La Javi se quedó parada delante de la caja tres segundos más de los que se puede estar parada delante de una caja. Detrás de ella el vaporizador chilló. Una de las mujeres se rió fuerte y el sonido de sus tacos contra el mármol sonó como dos disparos chicos.
 
 Y entonces dijo:
 
 —¿Y no estarán necesitando gente?
 
-Lo dijo antes de decidirlo. Después, cuando se lo repitió a sí misma esa noche y las noches siguientes, iba a acordarse de que lo había pensado, de que lo había pensado bien y rápido, de que era la única manera de volver a entrar ahí sin que le extrañara a nadie. Esa parte se la agregó después.
+Lo dijo antes de decidirlo. Después, cuando se lo repitió a sí misma esa noche y las noches siguientes, iba a acordarse de que lo había pensado, de que lo había pensado bien y rápido, de que era la única manera de volver a entrar ahí sin que a nadie le extrañara. Esa parte se la agregó después.
 
-El viejo levantó la cabeza por primera vez.
+El hombre levantó la cabeza por primera vez.
 
-La miró. Le miró la cara un segundo y después le miró las manos, y después bajó y le miró los zapatos, y volvió a subir, y no había nada sucio en cómo la miró: la miró como se mira un mueble que uno está viendo si le cabe en la pieza. Duró tres segundos. A la Javi le subió un calor a la nuca que le llegó hasta las orejas y se quedó completamente quieta, como si moverse fuera a arruinar la medición.
+La miró. Le miró la cara un segundo y después le miró las manos, y después bajó y le miró los zapatos, y volvió a subir, y la miró como se mira un mueble que uno está viendo si le cabe en la pieza. Duró tres segundos. A la Javi le subió un calor a la nuca que le llegó hasta las orejas y se quedó completamente quieta hasta que él terminó.
 
 —¿Has atendido antes?
 
@@ -270,7 +270,7 @@ La miró. Le miró la cara un segundo y después le miró las manos, y después 
 
 —Javiera.
 
-No le pidió el apellido. No le pidió carnet, ni papeles, ni un número de teléfono. Anotó *Javiera* en el borde del rollo de la calculadora, con letra grande.
+No le pidió el apellido. No le pidió carnet ni papeles. Anotó *Javiera* en el borde del rollo de la calculadora, con letra grande.
 
 —¿Puedes pasado mañana a las diez? Medio día, de prueba. Te pago el día igual.
 
@@ -293,3 +293,167 @@ Después abrió la cuenta de la Camila y estuvo veinte minutos mirando fotos que
 Un mes, pensó. Adentro. Un mes trabajando ahí, tomándome un café con las chicas todos los días, y voy a saber quién la vio irse, con quién se fue y a qué local la mandaron. Eso no lo averigua nadie desde afuera. Después renuncio y no vuelvo nunca más.
 
 Lo pensó entero, con todas las palabras, y le sonó bien.
+
+---
+
+Vomitó a las ocho y cuarto de la mañana, de rodillas en el baño de su departamento, con el pelo agarrado con una mano. No había comido nada. Salió agua y bilis y le quedó la garganta ardiendo, se lavó la boca, se lavó los dientes dos veces y se quedó apoyada en el lavamanos mirándose en el espejo hasta que se le pasó el temblor de las manos.
+
+Después se probó tres faldas.
+
+La primera era de lino y le llegaba a la rodilla y en el espejo se veía como si fuera a una entrevista de trabajo en un banco. La segunda era corta y era la de las fiestas y no se atrevió; se la sacó tan rápido que se le enredó en el zapato. Se puso la primera otra vez, se la miró de perfil, se la sacó. Terminó con la falda negra de tubo de la oficina, la de siempre, la que se ponía para las reuniones con clientes, y un par de tacos que había usado en un matrimonio y que le apretaban.
+
+Llegó a las diez menos cinco.
+
+—¿Tú soy la nueva? Ven —le dijo una mujer que estaba fumando en la puerta de servicio, y no esperó respuesta.
+
+El camarín era una pieza de dos por tres, sin ventana, con un espejo largo pegado a la pared, cuatro ganchos, un sillón de esos que se sacan de un living viejo y un cajón de plástico lleno de zapatos. Olía a laca, a desodorante y a café.
+
+La mujer se llamaba Yasna, tenía treinta y ocho años y llevaba doce en la pega, aunque eso se lo dijo mucho más tarde. Estaba sentada delante del espejo pegándose una pestaña postiza, con la boca abierta como se abre la boca para eso, y le habló sin darse vuelta.
+
+—Esa falda no sirve.
+
+—Es lo único que…
+
+—No, si no es por ti. —Se apretó la pestaña con la yema y parpadeó dos veces—. Es que acá se usa la del local. Está en el gancho, la azul. Y ponte la camisa esa. ¿Qué eres, cuarenta?
+
+—Cuarenta y dos.
+
+—Ya, la de al lado.
+
+La falda azul marino era de un género grueso, sin forro. Le entró justa y le quedó bastante más arriba de la rodilla, y cuando se movió sintió cómo la tela le agarraba las caderas y volvía a su lugar. La camisa era blanca y le apretaba en el pecho. Se la abrochó entera. La Yasna la miró por el espejo, estiró un brazo, le soltó el botón de más arriba y volvió a lo suyo.
+
+—Los zapatos.
+
+—Traje.
+
+—A ver. —Miró los tacos del matrimonio dos segundos—. Con esos te vai a caer de la tarima. Saca del cajón, los negros, esos aguantan.
+
+Los negros eran de siete centímetros y le quedaban medio número más chicos. La Javi se los puso y se paró y le apretaron en los dedos de una manera clara, definida, como una advertencia.
+
+—Cuando te acostumbrís a los tacos vai a andar volando —dijo la Yasna—. Ponte medias, ya, las tenís en la bolsa. Y no te agachís de frente, que con la tarima se te ve hasta el coño desde abajo. Doblai las rodillas, así. —Lo hizo sin pararse, con las dos rodillas juntas hacia un lado, y se dio vuelta otra vez al espejo—. ¿Tú tomai con azúcar?
+
+La Javi tardó en darse cuenta de que le estaban ofreciendo un café.
+
+—Con una.
+
+Se lo trajo en una taza chica de vidrio, hirviendo, y se lo dejó en el brazo del sillón sin preguntarle nada más, ni de dónde venía, ni qué había hecho antes, ni por qué una mujer de veintinueve años con manos de oficina llegaba a las diez y cuarto de la mañana a ponerse una falda del local.
+
+—A todas nos costó al principio —dijo la Yasna, y se paró y salió.
+
+La tarima era una plataforma de madera pintada de negro, de veinte centímetros, que corría a lo largo de toda la barra.
+
+La Javi se subió y el mundo se le movió de lugar.
+
+Con los tacos quedaba casi treinta centímetros más arriba de todo el local. Las cabezas de los hombres del otro lado le llegaban al pecho. La señora de las bolsas, cuando llegó a media mañana, tuvo que levantar la cara para pedirle. En cuatro horas no le habló a nadie de igual a igual, ni una vez.
+
+La barra era de acero y era angosta. Se paró detrás y el filo le llegó exactamente a la altura del pubis, y el acero estaba frío a las diez y media de la mañana y le pasó el frío a través de la falda.
+
+Delante tenía la máquina, cromada, enorme, tirando calor todo el día. Atrás tenía la puerta abierta al paseo y una corriente de aire. Así estuvo el turno entero: la espalda helada, el frente cociéndose.
+
+La Camila estuvo parada acá, pensó.
+
+Miró el pedazo de mármol que tenía a los pies. Miró el cajón de la borra, la caja registradora, el pocillo de las propinas, el cromo de la máquina donde su propia cara se veía estirada y deforme. En ese metro cuadrado, con esa falda, con esa camisa, con la misma corriente de aire en la espalda, un año atrás. Ahí. La Javi apoyó las dos manos en la barra y sintió que se le apretaba la garganta, y el vaporizador chilló, y la Yasna le gritó desde el otro lado que le pusiera dos de azúcar al del sombrero.
+
+—Un cortado —dijo un hombre.
+
+—¿Con azúcar?
+
+—Dos, por favor. Gracias.
+
+Ese fue el primero, y eso fue lo que se dijeron. El hombre tenía como cuarenta y cinco años, corbata gris, una carpeta bajo el brazo, y se tomó el cortado en tres tragos mirando la vitrina de los berlines, y le dejó cien pesos en el pocillo y se fue a su reunión.
+
+A la media hora la Javi ya no pensaba en cómo se hacía un cortado. A la hora ya sabía dónde estaba todo. Y en algún momento entre la primera hora y la segunda empezó a darse cuenta de la otra cosa.
+
+Era un peso. Le caía en la nuca y en los hombros, primero, y le bajaba. Entre las clavículas y el ombligo se le encendía una zona sin fuente, un calor puesto ahí desde afuera, y ella se pasaba la mano por el escote de la camisa como quien se saca una hilacha.
+
+No la miraban de frente. Ninguno. La miraban mientras ella se daba vuelta a la máquina y bajaban los ojos al vaso cuando ella volvía; la miraban en el reflejo de la vitrina; la miraban en el segundo exacto en que ella se estiraba a alcanzar la leche del estante de arriba y la camisa se le tensaba. Uno de corbata azul le dijo *gracias, señorita* mirándole las tetas y se puso rojo él, no ella.
+
+Cada tanto se agachaba a sacar un paquete del entrepaño de abajo, se olvidaba de doblar las rodillas, y sentía cómo la falda le subía sola por atrás. Entonces se enderezaba rápido y se la bajaba con las dos manos, de un tirón, y se ponía a pasar el paño. Lo hizo tantas veces que a la tercera hora tenía el gesto incorporado: agacharse, subir, tirar la falda, secar la barra. Nadie le dijo nada, nadie la miró raro, y ella lo siguió haciendo igual.
+
+Un viejo la miró fijo desde el fondo un rato largo, tanto que ella se acomodó la camisa y se dio vuelta a la máquina para sacarse el peso de encima, y cuando se volvió el viejo levantó la mano y pidió una berlín. Estaba mirando la vitrina, que quedaba justo detrás de ella.
+
+Hubo otro que sí la miró más de tres segundos.
+
+Fue un tipo joven, con audífonos colgando del cuello, que pidió un café con leche y se quedó ahí, con el vaso en la mano, y en vez de bajar la vista se la sostuvo. Le miró la boca, le miró abajo, le volvió a mirar la cara. La Javi le devolvió una sonrisa de mostrador y se dio vuelta a la máquina y ahí, con la espalda hacia el salón y las dos manos en el portafiltro, sintió una contracción baja, corta, entre las piernas. Un músculo que se cerró y se abrió sin pedirle permiso, una vez, y se acabó.
+
+Se quedó quieta con el portafiltro en la mano.
+
+*Es que no comí nada*, pensó. Golpeó la borra contra el cajón —*tac*— y siguió.
+
+Los pies le empezaron a doler a la hora y media, primero en el empeine y después en la planta, adelante, donde le caía todo el peso. A la tercera hora era un latido. Descubrió que si se apoyaba con las caderas contra el filo de la barra podía sacarles el peso a los pies unos segundos, así que lo empezó a hacer cada vez que se le juntaban dos clientes, y el acero ya no estaba frío: había tomado la temperatura del salón y estaba tibio, y ella se apretaba contra eso con la pelvis y respiraba y volvía a servir.
+
+El taco le mandaba el cuerpo a otra parte. La obligaba a echar el peso adelante, y para no caerse tenía que sacar el culo hacia atrás y arquear un poco la espalda, y con la espalda arqueada el pecho le quedaba más arriba de donde ella lo tenía puesto siempre. La postura se la ponía el zapato.
+
+A eso de la una el vaporizador le escupió y le saltaron dos gotas de leche hirviendo en el antebrazo derecho. Le picó dos veces, como dos agujas chicas. Se los sobó con el pulgar y le quedaron dos puntitos rojos y se le olvidó.
+
+A la una y media el local se llenó y no cabía un alfiler y hubo veinte minutos en que la Javi sirvió sin pensar en nada: la mano al vaso, el portafiltro, el golpe, la leche, el azúcar, *gracias*, *a usted*, la mano al vaso, el portafiltro. Cuando la cola bajó, se apoyó en la barra y quiso saber cuántos cafés llevaba.
+
+No sabía.
+
+Se quedó con eso un momento. Había estado contando desde las diez, sin proponérselo, como contaba siempre —treinta y uno, treinta y dos—, y en algún punto de esos veinte minutos el número se le había caído y no lo podía volver a armar. Miró el cajón de la borra. Miró la caja. Calculó por lo bajo y le dieron cincuenta y tantos y no le sirvió de nada, porque calcular no era lo mismo, y ella sabía perfectamente que no era lo mismo.
+
+*Estoy cansada*, pensó. Y era verdad: estaba cansada.
+
+A las dos y veinte, con el local vacío y una canción de Los Prisioneros sonando bajito, se le acercó don Nelson por detrás de la barra con el paño al hombro.
+
+—¿Almorzaste?
+
+—No.
+
+—Hay marraqueta atrás. Ándate a comer algo.
+
+Se sacó el Bic de la oreja, abrió la caja, contó unos billetes con el pulgar mojado en la lengua y se los pasó doblados.
+
+—El día. —Miró hacia el salón vacío—. ¿Puedes pasado mañana a las diez?
+
+La Javi tenía la plata en la mano. Era más de lo que había calculado por medio día, bastante más, y todavía no le habían dado el pocillo de las propinas.
+
+—Puedo.
+
+—Ya.
+
+Y se fue a la caja.
+
+En el camarín se sentó en el sillón y se sacó los zapatos.
+
+Fue lo mejor que le había pasado en el día. El pie volvió a plano y por un segundo le dolió más, un dolor limpio, y después vino el alivio, subiendo desde la planta por la pantorrilla, y los gemelos le temblaron solos dos o tres veces, y la Javi se quedó con la cabeza tirada hacia atrás y los ojos cerrados y la boca abierta, respirando, con las manos muertas a los lados del cuerpo.
+
+Se paró y se soltó la falda y la dejó caer.
+
+En las caderas tenía una línea. Una raya rosada, horizontal, limpia, que le cruzaba de un lado al otro a la altura exacta del pubis, donde le había pegado el filo de la barra cuatro horas. Se la apretó con un dedo y estaba caliente y no le dolía. Se la miró en el espejo un rato largo, de frente, en calzones y camisa blanca abierta, con la marca ahí puesta como si se la hubiera dibujado alguien.
+
+Se bajó una media. La costura le había dejado un surco en el muslo, blando, marcado, que tardó en desaparecer.
+
+Sacó la ropa limpia de la bolsa. Y cuando se enganchó la tanga con los pulgares para sacársela, la tela no salió sola.
+
+Salió pegada, y se despegó con un tirón chiquito, y quedó fría entre sus dedos y pesada en el medio, con una mancha tibia todavía en el centro del género, ancha, del tamaño de la palma.
+
+La Javi se quedó parada en medio del camarín con la ropa interior en la mano.
+
+La tocó con dos dedos. Estaba mojada de verdad, no húmeda de transpiración, no del calor: mojada, densa, y al tocarla el cuerpo le contestó otra vez —la misma contracción baja, corta, de la mañana— y esta vez le duró más y le subió, y sintió el calor abrirse entre las piernas y quedarse ahí, latiendo despacio, con el pulso metido adentro.
+
+Se le pusieron los pezones duros contra la camisa. Se los miró.
+
+No había pasado nada. Ese era el punto y a eso volvió: no había pasado nada. Nadie la había tocado. Nadie le había dicho una sola palabra fuera de lugar en cuatro horas y media. Le habían pedido cortados.
+
+—¿Te mataron los pies? —La Yasna entró con las llaves en la mano y una bolsa del super—. A todas. Y ojo con las medias gruesas, mañana tráete finas.
+
+—Ya.
+
+—Es que allá adelante te asai. —Se agachó debajo del sillón—. Tenís la máquina en la guata ocho horas, si eso es un horno. Yo salgo empapada de acá, empapada, después me tengo que ir a la casa a bañarme. ¿Sabís lo que es en enero? Ah.
+
+Sacó un cargador, se lo guardó en el bolsillo y se puso a hablar de la hija.
+
+La máquina. Claro.
+
+La Javi metió la tanga en la bolsa con la ropa sucia, se puso los calzones limpios y se vistió. Cuatro horas y media pegada a una máquina que tira calor, con medias gruesas, con una falda de género elástico sin forro, de pie. Le dio hasta un poco de risa lo obvio que era. Cerró la bolsa con dos nudos.
+
+Salió al Paseo Estado a las tres y cuarto y el sol estaba en el suelo, blanco, rebotando en las baldosas, y el organillero seguía en la misma esquina con la misma canción. Caminó hasta Ahumada con la bolsa en una mano y la plata doblada en el bolsillo, y cada tanto la tanteaba con los dedos sin sacarla, para asegurarse.
+
+En la micro se sentó al lado de la ventana. Le dolían los pies dentro de las zapatillas y le dolía la parte de abajo de la espalda, un cinturón sordo que no se le iba con moverse. Sacó el celular, abrió la cuenta de la Camila y se quedó en la foto del ventanal, la primera, la de las manos abiertas.
+
+*Un mes*, pensó. *Un mes y sé todo.*
+
+Se echó el pelo hacia adelante para acomodarse el cuello contra el vidrio y se le vino el olor encima: aceite de tostado, leche quemada, vainilla barata. Lo tenía entero en el pelo. Se quedó con el mechón entre los dedos, con la nariz metida ahí, más rato del que hacía falta para saber a qué olía, y afuera pasó el Portal Fernández Concha y las micros de la Alameda y una fila de gente esperando el semáforo.
+
+Se lo acomodó detrás de la oreja y se acordó de que al otro día tenía que ir a la oficina.

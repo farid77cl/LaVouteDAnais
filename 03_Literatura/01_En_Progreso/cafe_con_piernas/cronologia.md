@@ -16,12 +16,27 @@
 
 ## 2. Calendario
 
+> 🍂 **Estación (implícita, fijada por el Cap 1, no dicha en la prosa):** el Día 1 cae en **otoño**. Se deduce de dos datos escritos: la Camila se casó *"en diciembre"* (~4 meses antes) y la Yasna habla de *"¿Sabís lo que es en enero?"* en pasado. Consecuencia: el Día ~260 (Cap 9) cae en **verano**. Ningún capítulo puede contradecir esto.
+
+**Prehistoria (referida en el Cap 1, nunca escrita en escena — no es callback: es backstory establecida acá):**
+
 | Marca | Día relativo | Cap/Escena | Qué pasa |
 |---|---|---|---|
-| Día 1 | 0 | Cap 1 / apertura | La cuenta nueva de la Camila en redes. Pública, cambiada, feliz. |
+| ~Día −545 | −546 | referido en Cap 1 / apertura | La Camila le cuenta por teléfono que encontró *"una pega en el centro donde pagan todos los días en efectivo"*. La Javi está cerrando un balance y **no le pregunta cuál café**. |
+| ~Día −400 | −401 | referido en Cap 1 | La Camila deja el Trinidad. Don Nelson, en el Día 6: *"Un año. Un poco más."* Trabajó ahí como **«Ivanna»**. |
+| ~Día −120 | −121 | referido en Cap 1 | Matrimonio civil de la Camila con **el Cristóbal**, *"en diciembre, chiquitito, en el civil no más"*. |
+| Día −142 | −143 | referido en Cap 1 | 🔴 La Camila **deja de contestarle a la Javi**. No desaparece de ninguna parte: deja de contestarle **a ella**. La Javi cuenta los 142 días sin proponérselo. |
+| ~Día −60 | −61 | referido en Cap 1 | Se crea la **cuenta nueva** de la Camila. Pública. 61 publicaciones al Día 1. |
+
+**Arco:**
+
+| Marca | Día relativo | Cap/Escena | Qué pasa |
+|---|---|---|---|
+| Día 1 | 0 | Cap 1 / apertura | 23:30. La Pauli (del liceo) le manda la captura. La cuenta nueva de la Camila: pública, cambiada, feliz. La Javi guarda **47 capturas** en un álbum nuevo del celular. |
+| Día 2 | +1 | Cap 1 | Llama a la **señora Marta**, la mamá de la Camila, que le dicta la dirección en cuarenta segundos, contenta. Compra el **cuaderno de tapa dura** en la librería de abajo de su oficina y anota la dirección en la primera página. |
 | Día 3 | +2 | Cap 1 | La casa del barrio alto. La confrontación. Sale con cero información y certeza absoluta. **(P1)** |
-| Día 6 | +5 | Cap 1 | Entra al Trinidad a preguntar por la Camila. Don Nelson le ofrece un turno de prueba. |
-| Día 8 | +7 | Cap 1 / cierre | Primer turno de prueba. Cierre: la tanga húmeda, atribuida al calor de la máquina. |
+| Día 6 | +5 | Cap 1 | Entra al Trinidad a preguntar por la Camila. Don Nelson dice *"la Ivanna"* y **no pregunta nada**. Ella pregunta si necesitan gente. Turno de prueba para pasado mañana: *"Trae zapato con taco. Y no vengas con pantalón."* |
+| Día 8 | +7 | Cap 1 / cierre | Primer turno de prueba, 10:00–14:40, medio día pagado como día entero. Vomita antes de salir. Cierre: la tanga húmeda, atribuida al calor de la máquina. Queda citada para el **Día 10**. |
 | Semana 2-3 | ~10-21 | Cap 2 | La rutina de la vitrina. La cuota de treinta. Don Manuel, el casero de las nueve. |
 | ~Día 40 | +39 | Cap 2 | 🔴 **Deja de tirarse la falda para abajo.** Se da cuenta a la hora cuatro. **Marca oculta: acá el local termina de hacerle algo. De acá en adelante todo lo hace sola.** (Se cobra en Cap 8.) |
 | Día 45 | +44 | Cap 2 | La felicitación y la oferta del Yakarta. Le dan dos días. Nadie la apura. |
@@ -45,18 +60,18 @@
 
 | # | Hecho plantado | Plantado en | Estado | Pagado en |
 |---|---|---|---|---|
-| H1 | La cuenta de redes de la Camila (pública, feliz, nadie escondió nada) | Cap 1 / apertura | plantado | Termómetro M6 en todos los caps · like Cap 5 · deja de abrirla Cap 7 |
-| H2 | La dirección de la casa del barrio alto, anotada en el cuaderno | Cap 1 | plantado | Cap 9 — hay un día en que podría ir y hace otra cosa. **El texto no lo comenta.** |
-| H3 | *"Ahora sé lo que soy"* dicho por la Camila | Cap 1 | plantado | Cap 9 — lo dice la Javi, y va en serio |
-| H4 | El cuaderno de la investigación (letra apretada, columnas, fechas) | Cap 1 | plantado | Cap 5 — la última entrada es de hace tres semanas y la letra no le parece suya |
-| H5 | El olor a café en el pelo, que no sale con lavarlo | Cap 1 | plantado | Cap 4 (disparo fuera del local) · Cap 9 |
+| H1 | La cuenta de redes de la Camila (pública, feliz, nadie escondió nada) | ✅ Cap 1 / esc. 2 | **escrito** | Termómetro M6 en todos los caps · like Cap 5 · deja de abrirla Cap 7 |
+| H2 | La dirección de la casa del barrio alto, anotada en el cuaderno | ✅ Cap 1 / esc. 2 — **se la dicta la señora Marta por teléfono, contenta, en cuarenta segundos** | **escrito** | Cap 9 — hay un día en que podría ir y hace otra cosa. **El texto no lo comenta.** |
+| H3 | *"Ahora sé lo que soy"* dicho por la Camila | ✅ Cap 1 / esc. 3 — textual: *"Pero ahora sé lo que soy, amiga, y nunca en mi vida había estado tan tranquila."* | **escrito** | Cap 9 — lo dice la Javi, y va en serio |
+| H4 | El cuaderno de la investigación (letra apretada, columnas, fechas) | ✅ Cap 1 / esc. 2 — comprado el Día 2. Al cerrar el Cap 1 tiene **cinco líneas en total** | **escrito** | Cap 5 — la última entrada es de hace tres semanas y la letra no le parece suya |
+| H5 | El olor a café en el pelo, que no sale con lavarlo | ✅ Cap 1 / cierre — *"Lo tenía entero en el pelo"*, con la nariz metida ahí más rato del necesario | **escrito** | Cap 4 (disparo fuera del local) · Cap 9 |
 | H6 | La cuota de treinta cafés; lo de arriba es suyo | Cap 2 | plantado | Cap 4-6 — se sube la falda / se baja el tirante para llegar al número |
 | H7 | *"Los caseros preguntan por ti"* — la felicitación seca de don Nelson | Cap 2 | plantado | Se repite entera antes de cada ascenso (Caps 3, 4, 6) |
 | H8 | 🔴 El día que deja de tirarse la falda para abajo | Cap 2 (~Día 40) | plantado | **Cap 8** — es la fecha exacta en que el local dejó de hacerle algo |
 | H9 | El café que le sirven a ella al llegar, siempre, antes de que lo pida | Cap 2 | plantado | ⛔ **NUNCA se resuelve.** Puede ser cariño y puede ser otra cosa |
 | H10 | El oficinista de corbata del cortado de las nueve (Trinidad) | Cap 2 | plantado | Cap 6 — reaparece abajo. **Ninguno de los dos lo comenta jamás** |
-| H11 | 🩸 Grieta: alguien del Yakarta le dice un apellido que ella nunca dio | Cap 3 | plantado | Cap 8 — *"sabíamos desde el primer día"* |
-| H12 | 🩸 Grieta: nombran a la Camila por su nombre real, no por el del local (adentro era «Ivanna») | Cap 3 | plantado | Cap 8 |
+| H11 | 🩸 Grieta: alguien del Yakarta le dice un apellido que ella nunca dio | Cap 3 | plantado — **base escrita en Cap 1**: al contratarla, don Nelson *"no le pidió el apellido. No le pidió carnet ni papeles"*, y ella solo dijo «Javiera» | Cap 8 — *"sabíamos desde el primer día"* |
+| H12 | 🩸 Grieta: nombran a la Camila por su nombre real, no por el del local (adentro era «Ivanna») | Cap 3 | plantado — **el nombre «Ivanna» ya se reveló en Cap 1**, en boca de don Nelson y sin que ella preguntara por ningún nombre. Sin ese plante la grieta del Cap 3 no tiene contra qué contrastar | Cap 8 |
 | H13 | 🩸 Grieta: nadie le pregunta nunca **por qué** llegó ahí | Cap 3 en adelante | plantado | Cap 8 (por omisión) |
 | H14 | La Yoli — la que ya no está, citada por la Yasna | Cap 3 | plantado | ⛔ Nunca aparece. Nunca se explica adónde fue |
 | H15 | El escalón exacto donde se corta el ruido de la calle | Cap 3 | plantado | Cap 7 — ya no lo nota |
@@ -65,6 +80,16 @@
 | H18 | La cinta doble faz que se pone sola en el baño, mirándose | Cap 6 | plantado | Ritual de vestirse de ahí en adelante |
 | H19 | La plata guardada y el pasaje: puede irse cuando quiera | Cap 5 | plantado | Cap 7 — la puerta abierta, alguien de afuera le tiende la mano, y se queda |
 | H20 | El nombre nuevo, **«Malú»** — elegido por ella, anotado en un papel | Cap 9 | plantado | Cap 9 — alguien la llama y **se da vuelta antes de pensarlo** |
+| H21 | 🩸 Grieta: don Nelson **no pregunta nada** — ni quién es, ni por qué la busca, ni si es familiar. Ella lo subraya dos veces en el cuaderno | ✅ Cap 1 / esc. 4 | **escrito** | Cap 8 (por omisión). Es la versión temprana de H13 |
+| H22 | El Cristóbal, marido de la Camila. Casados en diciembre, civil, *"viaja mucho"*, *"no es ningún santo pero es bueno"*. **Nunca aparece en escena** | ✅ Cap 1 / esc. 3 | **escrito** | ⛔ Nunca aparece. Si el Cap 9 lo necesita, es solo como nombre |
+| H23 | Las **47 capturas** en un álbum nuevo del celular | ✅ Cap 1 / esc. 2 | **escrito** | Termómetro M6: el álbum deja de crecer sin que el texto lo comente (Cap 5 → Cap 7) |
+| H24 | La coartada, estado 1, con sintaxis entera: *"Un mes. Adentro. (…) Después renuncio y no vuelvo nunca más."* → recitada en la micro como *"Un mes y sé todo."* | ✅ Cap 1 / esc. 4-5 | **escrito** | Se vacía en cuatro estados hasta el silencio (Cap 6) |
+| H25 | 🔴 **Pierde la cuenta de los cafés** en el primer turno y no la puede rearmar. La auditora perdiendo un número | ✅ Cap 1 / esc. 5 | **escrito** | Escala en Caps 4-7 (erosión cognitiva §4.1). Es la forma que toma la automaticidad en ESTE personaje: no amnesia, descuadre |
+| H26 | El café de grano que la Camila le sirve **en la casa del barrio alto** — el olor llega al living antes que ella | ✅ Cap 1 / esc. 3 | **escrito** | Cap 9 — el ancla olfativa cierra donde empezó |
+| H27 | La Yasna: 38, doce años en la pega, una hija. El cajón de plástico con zapatos del camarín. Le presta los tacos y le convida el café | ✅ Cap 1 / esc. 5 | **escrito** | Toda la sugestión indirecta del relato entra por su boca |
+| H28 | Los dos puntitos rojos del vaporizador en el antebrazo derecho (primer turno) | ✅ Cap 1 / esc. 5 | **escrito** | Cap 2 — el antebrazo salpicado. Acumulativo, nunca comentado |
+| H29 | La Pauli, del liceo — la que le manda la captura | ✅ Cap 1 / esc. 2 | **escrito** | ⛔ Figurante. No vuelve |
+| H30 | La oficina de la Javi: auditoría en **Agustinas, cuarto piso**, cuatro años. Queda a **cuatro cuadras** del Trinidad y pasaba por delante todas las mañanas sin mirarlo | ✅ Cap 1 / esc. 4 | **escrito** | Caps 3-4 — el horario del turno se come la vida de afuera (§6.3, freno 2) |
 
 **Anomalías que ella detecta y deja de perseguir (una nueva por capítulo, una vieja abandonada sin darse cuenta):** chicas que no se acuerdan de cuándo empezaron · una que ayer se llamaba de otra forma · el minuto que un día dura tres · pedazos de turno que faltan · una compañera que contesta con exactamente las mismas palabras que usó otra · que don Nelson nunca preguntó nada sobre la Camila, ni siquiera cuando ella dijo el nombre. **⛔ Ninguna se resuelve jamás.**
 
