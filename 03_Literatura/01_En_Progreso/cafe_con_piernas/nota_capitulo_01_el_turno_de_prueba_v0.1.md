@@ -1,0 +1,1 @@
+hay que bimboficar a la amiga, cambios metales y físicos más extremos, demás su habla más formal, se supone que está programada como trad wife, su habla debe ser más pulcra
