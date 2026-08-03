@@ -677,6 +677,8 @@ La frase no desaparece de golpe. **Se vacía.** Cuatro estados, y hay que poder 
 
 ### M6 — LA AMIGA COMO AUSENCIA PRESENTE (el termómetro del relato)
 
+> ⛔ **DEROGADO 03/08/2026 — usar §11.4.** La amiga ya no es una ausencia: reaparece en el capítulo 1 y queda **ubicada y localizable** todo el relato. El termómetro nuevo es **la frecuencia con que le revisa las RRSS** (y el *like*).
+
 - **Qué es:** el reloj que mide cuánto queda de la mujer que entró. Su nombre, su foto en el teléfono, el recuerdo de algo que hicieron juntas.
 - **Cómo se manifiesta físicamente:** la foto que abre en el teléfono al llegar a la casa · el nombre dicho en voz alta preguntando a alguien · el gesto de buscarla con la vista al entrar a un local nuevo.
 - **Cómo escala (a la baja — es el único motivo que DECRECE):**
@@ -750,7 +752,8 @@ La frase no desaparece de golpe. **Se vacía.** Cuatro estados, y hay que poder 
 - **La coartada:** ESTADO 4, silencio. Y el texto **no comenta la ausencia**.
 - **La modificación irreversible** (labios, tetas) cae acá: **pedida por ella, financiada por el local, con la justificación llegando después.**
 - **Descarga 2 (§1)** cae acá: **se corre de pie, atrás de la barra, trabajando.** Es el clímax del relato completo. Nadie se da cuenta. Ella sí. Y le gusta que nadie se dé cuenta.
-- **El reencuentro con la amiga** va acá o inmediatamente después. Y **no la despierta**. La amiga está radiante, con delantal (o con el nombre nuevo y la cámara, según rama), y la trata con cariño, y no entiende cuál es el problema. Ella la escucha y **le tiene envidia**. Ese pensamiento es la línea más caliente y más atroz del relato.
+- ⛔ **DEROGADO 03/08 — el reencuentro se fue al capítulo 1 (§11.1).** Acá ya no hay reencuentro: lo que muere en este peldaño es que **ya no queda nada que averiguar** (§11.7). Se conserva el texto siguiente solo por su registro, que sigue siendo el correcto para la escena de la casa:
+- ~~**El reencuentro con la amiga** va acá o inmediatamente después.~~ Y **no la despierta**. La amiga está radiante, con delantal (o con el nombre nuevo y la cámara, según rama), y la trata con cariño, y no entiende cuál es el problema. Ella la escucha y **le tiene envidia**. Ese pensamiento es la línea más caliente y más atroz del relato.
 
 #### PELDAÑO 4 → 5 → 6 · «El tramo ciego, la revelación y la cámara»
 > ⚠️ **Este bloque quedó REESCRITO por la decisión del destino y el «sí» informado. La versión vigente y detallada está en §9.3, §9.4 y §10.5.** Resumen para no leerlo desalineado:
@@ -765,7 +768,7 @@ La frase no desaparece de golpe. **Se vacía.** Cuatro estados, y hay que poder 
 
 1. **La vergüenza.** Se gasta primero, en el peldaño 1-2. Y se gasta por **habituación**, no por convencimiento — nadie la convence de nada, simplemente deja de sentirla.
 2. **La identidad de afuera** (su trabajo anterior, su familia, la gente que la conoce). Se gasta en el peldaño 2-3, y se gasta porque el horario del café **hace imposible sostener la otra vida**. Turnos de 10:00 a 15:30 y de 15:30 a 21:00. No le queda vida.
-3. **La amiga.** Es el último y el más fuerte. Y es el que **el aparato usa a favor** (§4.9). Se gasta en el peldaño 4, en el reencuentro, cuando descubre que **no hay nadie a quien rescatar**.
+3. **La amiga.** Es el último y el más fuerte. Y es el que **el aparato usa a favor** (§4.9). ⛔ **Corregido 03/08 (§11.2):** este freno **se gasta en el capítulo 1**, en la confrontación. Lo que queda después **no es un freno: es un objetivo** — llegar al segundo café. Por eso ella no cae por la escalera, **la sube a propósito**.
 
 ### 6.4. Regla dura para el Escritor
 
@@ -950,6 +953,8 @@ El dueño las mira trabajar y **decide**. No lo dice nunca. No hay escena de asi
 **Regla de escritura:** el criterio de clasificación **nunca se explica**. Se puede sembrar (una mirada del dueño que dura medio segundo de más, una pregunta rara en la primera entrevista, dos chicas que desaparecen del turno y reaparecen en destinos distintos), pero jamás se resuelve. Lo que no se explica es lo que da miedo.
 
 ### 9.3. 🔴 LA COARTADA MUERE POR INUTILIDAD — corrección mayor a §6
+
+> ⚠️ **Reencuadrado 03/08 (§11.6/§11.7):** el mecanismo sigue en pie, cambia la causa. Ya no muere porque descubra que *no hay a quién rescatar* (eso lo sabe desde el capítulo 1), sino por **agotamiento del objeto**: llega al segundo café, averigua lo que fue a averiguar — **y vuelve al turno igual**.
 
 Éste es el corazón nuevo del relato y **corrige el pivote descrito en §4.9.4 y §6.2**.
 
