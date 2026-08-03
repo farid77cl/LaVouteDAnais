@@ -1,1 +1,1 @@
-hay que bimboficar a la amiga, cambios metales y físicos más extremos, demás su habla más formal, se supone que está programada como trad wife, su habla debe ser más pulcra. definitivamente quita el español chileno del relato. lo usaremos cuando yo digaa
+hay que bimboficar a la amiga, cambios metales y físicos más extremos, demás su habla más formal, se supone que está programada como trad wife, su habla debe ser más pulcra. definitivamente quita el español chileno del relato. lo usaremos cuando yo digaa. para el primer café investiga sobre el café Haití 
