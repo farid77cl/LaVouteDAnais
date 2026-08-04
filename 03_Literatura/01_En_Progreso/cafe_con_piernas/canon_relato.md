@@ -196,6 +196,7 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 | **La cuota de 30** | Treinta cafés es el número. **Lo que venda por encima es suyo.** | El sistema no le ordena nada: le pone un número. **Ella** se ajusta la ropa para llegar. Cuenta en la cabeza todo el día. |
 | **El tiempo por cliente** | Arriba en el paseo: cinco minutos. Acá: mucho más, y abajo en el sótano, horas. | El cliente que se queda es el negocio. |
 | **La máquina** | Cromada, irradiando calor todo el día contra su frente; corriente de aire en la espalda. | Espalda helada, frente cociéndose, ocho horas. **Y es la coartada perfecta para la humedad del cierre.** |
+| 🥁 **EL BEAT** *(Gate 04/08)* | **Debajo del reggaetón hay un beat de fondo que no cambia nunca.** Mismo tempo a las diez de la mañana y a las siete de la tarde, canción tras canción, día tras día. Nadie lo menciona jamás. Se siente antes de oírse: le vibra el esternón y le entra por los pies a través de la tarima. | Le ordena el cuerpo sin que lo note — sirve al tempo, camina al tempo, respira al tempo. **Y se le queda puesto afuera:** en la micro, en la ducha, en su departamento un domingo. **🔴 La voz del otro yo (§6c) llega SIEMPRE sobre el beat**, y el texto no relaciona jamás las dos cosas. El lector sí. |
 | 🥤 **LA BEBIDA DE LAS CHICAS** *(Gate 04/08)* | Un vaso que el local les tiene siempre listo detrás de la barra, para ellas, no para el cliente. Se lo pasan entre las compañeras como un gesto de cariño. Nadie le explica qué es. **Ella se lo toma el primer día porque se lo dieron, y a las tres semanas se lo sirve sola.** | Le suelta la vergüenza antes que el cuerpo: se ríe más fácil, la mirada le pesa menos, contesta cosas que no habría contestado. Al final del turno no se acuerda bien de tramos enteros. **Y le gusta.** |
 
 **⛔ Prohibido al escribir esto:** párrafo enciclopédico, narrador que explica el diseño, ningún personaje que diga por qué la barra mide lo que mide. Entra **por el cuerpo de ella y en el orden en que un cuerpo lo aprende**: primero el olor, después el ruido, después la altura, después el peso de la mirada, y al final la marca en la piel.
@@ -225,14 +226,18 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 **Reglas duras:**
 
 - **Suena SIEMPRE fuera del turno.** En su departamento, en la micro, en el supermercado, en la oficina, un domingo. **Nunca detrás de la barra** — dentro del local no hace falta, porque adentro ya está haciendo lo que la voz quiere. El terror es que **la sigue a la casa**.
-- **No es una voz alucinada ni un personaje sobrenatural.** Es **su propio pensamiento con otra intención**: llega en primera persona, con su misma sintaxis, en el registro más neutro y más razonable del texto. *"Con este taco camino mal."* *"Se me ve mejor la boca con brillo."* *"Si me pinto los ojos vendo más."* Cada frase es defendible por separado — juntas son otra mujer.
-- **Ella no la reconoce como ajena.** Cree que está decidiendo. **⛔ Prohibido** que piense *"no soy yo"*, que se asuste de la voz o que el narrador la señale. El lector la oye y ella no: ahí vive el horror.
+- **No es una voz alucinada ni un personaje sobrenatural.** Es **su propio pensamiento con otra intención**, en primera persona y con su misma gramática.
+- **🫦 REGISTRO — COQUETA Y SENSUAL, Y SE VA ABIMBANDO DE A POCO (directiva de la Ama, 04/08).** Ésta es la marca que la distingue del pensamiento normal de Javiera, que es seco, contable y de auditora. La voz, en cambio, **se gusta**: es tibia, juguetona, se estira, se admira, habla del cuerpo de ella como si lo estuviera mirando desde afuera y le gustara mucho. **Y se va poniendo más tonta y más hambrienta a medida que avanza el relato** — la bimboficación se oye en su cabeza **antes** de vérsele en el cuerpo. Ése es el termómetro real del arco.
+- **Ella no la reconoce como ajena.** Cree que está decidiendo. **⛔ Prohibido** que piense *"no soy yo"*, que se asuste de la voz o que el narrador la señale. El lector la oye cambiar y ella no: ahí vive el horror.
 - **Pide, no ordena.** Y pide cosas chicas y baratas al principio: un labial, una media, cinco centímetros más de taco. Nunca pide lo grande — lo grande llega solo, después, como consecuencia razonable de lo chico.
-- **Escala en cuatro estados, uno por tramo del arco:**
-  1. **Caps 2-3 · pide objetos.** Maquillaje, taco, algo que se compra. Se satisface con plata.
-  2. **Caps 4-5 · pide miradas.** Ya no quiere cosas: quiere efecto. *"Que me miren mejor."* *"Que ese vuelva mañana."*
-  3. **Caps 6-7 · pide cuerpo.** Lo irreversible. Y acá **ya no pide: da por hecho.** Cambia el modo verbal, y el texto no lo comenta.
-  4. **Caps 8-9 · deja de ser la otra.** No hay más segunda voz porque **ya no hay dos**. El silencio de la voz en los últimos capítulos es el dato: el lector lo nota y ella no.
+- **🎚️ Escala en cuatro estados. Cambia QUÉ pide y cambia CÓMO habla, a la vez:**
+
+  | Estado | Caps | Qué pide | **Cómo suena** |
+  |---|---|---|---|
+  | 1 | **2-3** | **Objetos.** Maquillaje, taco, algo que se compra con plata. | **Coqueta y chiquita, casi jugando.** Frases cortas y tibias, primera persona encantada. *"Con este taco camino mal… y con el otro camino rico."* *"Me queda linda la boca con brillo, ¿o no?"* Todavía se parece bastante a ella. |
+  | 2 | **4-5** | **Miradas.** Ya no quiere cosas: quiere **efecto**. | **Descaradamente sensual.** Se relame, se calienta sola, habla en presente y en cuerpo. *"Que me mire otra vez el de la corbata."* *"Se me ponen duros con el aire y me gusta."* Aparece por primera vez el **léxico sucio** en su cabeza, sin comillas y sin culpa. |
+  | 3 | **6-7** | **Cuerpo.** Lo irreversible. Y ya **no pide: da por hecho.** | **Abiertamente bimbo.** Sintaxis más corta, más boba, más hambrienta. Diminutivos, repetición, vocabulario chico y sucio, cero razonamiento. *"Más grandes. Las quiero más grandes. Se me van a ver ricas con el bikini."* El modo verbal cambia y **el texto no lo comenta**. |
+  | 4 | **8-9** | Nada. | **Silencio — porque ya no hay dos.** No hay segunda voz porque la primera ya habla así. El lector lo nota y ella no. |
 - **Cómo se escribe, técnicamente:** sin comillas, sin cursivas de "voz interior", sin marcar. Va **pegada al mismo párrafo** del pensamiento normal de Javiera, de modo que el lector tenga que decidir cuál de las dos frases fue de ella. **Nunca se nombra el mecanismo** (Ley 4): la palabra *voz* misma es sospechosa — mejor que aparezca como algo que simplemente ella *ya estaba pensando*.
 - **Su interacción con la bebida:** la voz **suena más fuerte los días siguientes a un turno**, y el texto jamás establece la relación. El lector la establece.
 
