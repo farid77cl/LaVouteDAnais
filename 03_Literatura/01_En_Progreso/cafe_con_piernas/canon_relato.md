@@ -22,6 +22,20 @@ Nota `nota_capitulo_01_el_turno_de_prueba_v0.1.md` + corrección en vivo de la A
 
 **Derogaciones que esto arrastra:** muere el Café Trinidad como peldaño · **muere el sótano y muere P2 en su forma anterior** (*"al segundo café / al sótano no se entra, se asciende"*) — reemplazado por §2 P2 nuevo · el voseo verbal chileno queda **prohibido** · el contagio de registro cambia de dialecto a jerga del oficio.
 
+## 🔴 GATE 2 — 04/08/2026, lectura del v0.2 y corrección de ritmo
+
+La Ama leyó el v0.2 completo y marcó el problema con líneas exactas: *"tengo que llegar recién a la línea 231 para llegar a la parte del café, y creo que pasado la línea 364 para que pase algo… a esto le falta temperatura."* Medido: el local aparecía al 52% del capítulo y la mecánica/vitrina (barra, tarima, mirada) no arrancaba hasta el 80%. Todo lo pedido en §6b quedaba comprimido en el último quinto del texto.
+
+**Decisión (confirmada por la Ama entre dos caminos que le planteé):** el Cap 1 se reestructura como **IN MEDIAS RES + FLASHBACK**, no como apertura lineal.
+
+- **Abre DENTRO del turno**, con el aparato ya funcionando sobre el cuerpo de Javiera — sin explicar todavía por qué está ahí. Calor primero, contexto después. Esto entrega lo que la Ama pidió desde la primera línea.
+- **Después el capítulo retrocede** a contar, comprimido, cómo llegó ahí: la desaparición, las redes, la confrontación en la casa (**P1, sigue intacto — es su propia decisión de investigación, el vértigo invertido no se toca**) y cómo entró contratada.
+- **Y vuelve al mismo turno para cerrarlo**, retomando exactamente donde abrió la escena 1 y llevándolo hasta el final (la mirada sostenida, la cuenta perdida, la tanga, el olor).
+- **Por qué el vértigo invertido sobrevive intacto:** P1 no se movió de sitio ni se acortó en sustancia — sigue siendo el reencuentro con una Camila radiante que aterra. Lo único que cambió es que ya NO es lo primero que lee la Ama: ahora es el centro de un flashback enmarcado por el turno. La regla de investigación §11 (*"la confrontación pasa al capítulo 1"*) se cumple igual: sigue en el Cap 1, sigue completa.
+- **Lo que SÍ se recorta, y es lo que sobraba:** el scroll de fotos comparando cuenta vieja/nueva (diez minutos de ida y vuelta) y el relleno de oficina de la escena 1 original. Ahí vivía el peso muerto, no en la confrontación.
+
+`capitulo_01_el_turno_de_prueba_v0.2.md` queda archivado en `borradores/capitulo_01/`. Nueva versión: **v0.3**.
+
 ## 1. Premisa
 
 Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes convertida en dueña de casa del barrio alto: pública, rehecha y feliz. Va a sacarla y Camila le dice que está todo bien, que ahora sabe lo que es. Entonces Javiera entra a trabajar al café con piernas de la galería donde se perdió el rastro —el escondido, el del vidrio polarizado, no el del paseo— para averiguar desde adentro. **Y no la mueven de lugar: la mueven a ella.** Turno a turno, fuera del local, empieza a oírse pedir cosas —maquillaje, taco más alto, gustarles— y cada cosa que se da se la premian con el peldaño siguiente. Sube el escalafón a propósito, sobre su propio cuerpo, y al final, con el aparato ya apagado y sabiéndolo todo, dice que sí a la cámara.
