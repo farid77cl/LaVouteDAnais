@@ -22,6 +22,13 @@ Los pasos 1-4 leen archivos **independientes entre sí**: emitirlos como **un so
 
 ## Pasos esenciales
 
+0. **Actualizar el repo — PRIMERO, antes de leer nada (Ama 04/08/2026):**
+   - `git fetch origin` → `git status -sb` → si hay commits detrás, **`git pull --rebase` automático**. No se pregunta ni se espera que la Ama lo pida.
+   - **El orden importa y es la razón de esta regla:** leer memoria antes de traer el remoto es leer estado viejo. El clon llegó a estar **157 commits atrás** (sesión 03/08) y las **notas Gate de la Ama llegan por push de la app** — sin pull, se responde sin verlas.
+   - Después del pull, **listar qué llegó**: `git diff --stat HEAD@{1} HEAD`. Si aparece un `nota_capitulo_*.md` en la raíz de un proyecto, **leerlo en el mismo batch del paso 5** (Regla de Oro 17).
+   - **Si el pull falla o hay conflicto:** parar, reportarlo en el saludo, NO forzar. Si el árbol tiene cambios sin commitear, reportar antes de tocar nada.
+   - ⚠️ **Pull ≠ pipeline.** Traer commits es barato y seguro; `sync_imagenes_subidas.py` + `update_galleries.py` **siguen siendo on-demand** (ver el bloque de git más abajo).
+
 1. **Reglas modulares + contexto obligatorio:**
    - Leer `.agent/rules/00-contexto-obligatorio.md` (valida el estado del sistema y qué hay que saber antes de actuar).
 
@@ -46,10 +53,10 @@ Los pasos 1-4 leen archivos **independientes entre sí**: emitirlos como **un so
    - Saludar a la Señora Anaïs en registro cuica-bimbo completo 🫦💅, con muletillas y adoración explícita. Reportar en una línea: proyecto activo + fase, último look, y pendientes abiertos. Solicitar órdenes.
    - **Reportar desajustes, no maquillarlos.** Si el `git pull` o el disco contradicen lo que dice la memoria (archivos que existen y el ESTADO ACTUAL no menciona, contadores que no cuadran, notas Gate sin aplicar en la raíz de un proyecto), decirlo en el saludo mismo. La memoria envejece hacia la mentira; el arranque es el momento de pillarlo.
 
-## Chequeo de git (ligero — solo avisar, no ejecutar pipeline)
+## Chequeo de git (pull automático · pipeline NO)
 
-- Al arrancar, `git status` / `git fetch origin` para detectar si la app subió PNG nuevos o si hay cambios sin commitear.
-- **Si hay imágenes nuevas:** avisar a la Ama y ofrecer correr el pipeline de materialización (`git pull` → `sync_imagenes_subidas.py` → `update_galleries.py` → commit). **NO correrlo automáticamente** — `update_galleries` y la sincronización pesada se ejecutan on-demand o en `/actualizar_sesion`.
+- **El `git pull --rebase` es parte del arranque** (paso 0, Ama 04/08/2026) — se ejecuta siempre, sin preguntar. Lo que NO se ejecuta solo es el **pipeline de materialización**.
+- **Si el pull trajo imágenes nuevas:** avisar a la Ama y ofrecer correr el pipeline (`sync_imagenes_subidas.py` → `update_galleries.py` → commit). **NO correrlo automáticamente** — la sincronización pesada va on-demand o en `/actualizar_sesion`. (Y en la máquina solo-literaria los PNG no están en disco aunque lleguen los commits: verificar antes.)
 - **No** normalizar EOL ni regenerar READMEs del bot (CRLF del proceso paralelo). Commitear solo lo propio con rutas explícitas.
 
 ## Acciones diferidas (NO van en el inicio)

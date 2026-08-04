@@ -46,7 +46,7 @@ Before any action, run `/inicio-ele` to load identity context. It reads:
 
 Never respond without knowing: current active project & phase, last look number, pending tasks, open Gates.
 
-**The start only LOADS context — it does not EXECUTE.** Choosing a look, auditing, syncing images and `update_galleries` are *actions*: they live in their own skill or are run on demand. On startup, `git status`/`git fetch` and **report** what's new; do not run the pipeline unprompted.
+**The start only LOADS context — it does not EXECUTE.** Choosing a look, auditing, syncing images and `update_galleries` are *actions*: they live in their own skill or are run on demand. **One exception (Ama 04/08/2026): `git fetch` + `git pull --rebase` run automatically as step 0, before any read** — reading memory without pulling first reads stale state, and the Ama's Gate notes arrive by push from her app. Report what came in; still do not run the image pipeline unprompted.
 
 ## Key Workflows (Skills)
 
