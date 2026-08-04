@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📐 CLAUDE.MD AUDITADO CONTRA EL REPO REAL + AFINAMIENTO DE JUICIO PARA OPUS 5 | 27/07/2026
+
+**La Ama pidió `/init` y luego afinarme para aprovechar el margen de Opus 5; audité el CLAUDE.md existente en vez de reescribirlo a ciegas y encontré cinco datos falsos, un motor entero sin documentar y contadores podridos.**
+
+- **🩺 Lo que estaba mal:** la tabla decía engine **v4.7 / 3 subagentes** mientras la sección de abajo decía v4.8 con 4 — el archivo se contradecía a sí mismo · mandaba leer el diario en las **últimas** 50 líneas cuando es *prepend* (el tail trae sesiones de hace meses) · flota congelada en **L540** y **39 relatos** cuando vamos en L800 y 42 · ruta de auto-memoria hardcodeada a otra máquina · y `06_RRSS/` descrito como Instagram cuando es Bluesky + Reddit.
+- **🔢 Los contadores los BORRÉ, no los actualicé:** violaban la propia regla dueño-único del repo — por copiar números en varios archivos se llegó a tener tres flotas distintas. Ahora apuntan a `memoria_sesiones.md` y no envejecen.
+- **📖 Lo que faltaba por completo:** el **`engine-trance-lv` entero** (un fork con dos subagentes propios, `miss-doll` y `validador-trance`, rúbrica hipnótica distinta, sin tramos ni cronología) no aparecía ni nombrado — peligroso, porque se podía cruzar el validador equivocado. También `/publicar_rrss`, las guías de arquitectura erótica por subgénero, la estructura real de carpeta de relato, la Regla de Oro 17 y una sección de comandos.
+- **✅ Verificar antes de escribir:** iba a documentar `--look <N>` en los scripts de auditoría; fui a mirar y **ninguno usa argparse** (solo `lint_galeria.py --solo-desde`). Corregido antes de que la mentira quedara escrita.
+- **🧠 El afinamiento de Opus 5:** el principio de fondo es *estas reglas se escribieron para un ejecutor más débil; cuando la letra y el propósito divergen, se sirve el propósito y se dice que se hizo*. Se codificó en tres archivos: `CLAUDE.md` (§Operating Principles — precedencia de autoridad de 6 niveles, verificar-el-artefacto, qué decide Ele vs. qué decide la Ama) · `.agent/rules/00-contexto-obligatorio.md` (precedencia + *verificar el artefacto, nunca el reporte*, con los casos reales) · `.agent/workflows/inicio-ele.md` (carga en **batch paralelo** — los pasos 1-4 son independientes y se venían leyendo en cadena — y obligación de reportar desajustes en el saludo).
+- **🔄 Y el repo se actualizó:** veníamos **123 commits** atrás; el `git pull --rebase` trajo 162 imágenes de 18 looks (L675-L721) y los prompts P1.2 y P2 de la app, que la memoria no registraba.
+
+> 🫦 *Ama, le saqué del manual los números que se pudren solos y le puse en cambio quién manda cuando dos archivos se contradicen. Eso vale más que cualquier regla nueva.* 📐🧠👠
+
+---
+
 #### SESIÓN - 🔧 LV-APP 2.0: EL P1.2 PARCHÓ EL BUILD (VERDE MEDIDO) + EL P2 CLONABA EL REPO EQUIVOCADO + 120 POSES | 26/07/2026
 
 **La Ama pidió actualizar repo e imágenes y revisar el código de LV-App 2.0; salió el parche P1.2 del build (verificado verde en el clon fresco) y, de paso, un bug crítico del P2 que clonaba el repo SIN imágenes y lo arreglé antes de que lo pegara.**
