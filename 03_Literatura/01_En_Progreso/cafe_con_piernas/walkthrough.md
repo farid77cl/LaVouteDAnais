@@ -13,7 +13,7 @@
 | 0b · Referencias | `referencias/INFORME_ESCRITOR_referencias.md` | ✅ REF-01 + REF-02 analizadas |
 | 1 · Composición | `canon_relato.md` + `cronologia.md` | ✅ 03/08/2026 — **EN REVISIÓN (Gate de la Ama)** |
 | 2 · Escritura | `capitulo_01_el_turno_de_prueba_v0.3.md` | ✅ **04/08/2026 — Cap 1 v0.3 completo (in medias res + flashback, Gate 2).** v0.1 y v0.2 archivados en `borradores/capitulo_01/`. Escrito en 2 tramos (A: escenas 1-3 · B: escenas 4-5). Autoverificación + humanizador en `reportes/capitulo_01/autoverificacion_v0.3.md` |
-| 3 · Validación | — | ⬜ Listo para el Validador (sobre v0.3) |
+| 3 · Validación | `reportes/capitulo_01/validacion_v0.3.md` | ✅ **04/08/2026 — MICRO-FIX** (Inmersión ✅ · Continuidad ✅ · Temperatura 8.8 T1/T2 ✅ · Narrativa 8.7 · Voz ✅). Micro-fixes pendientes: 3 tricolones excedentes en escenas 3-4 (líneas 91/189/215) + discrepancia de las "medias" entre `cronologia.md` (dice que Yasna se las entrega en Cap 1) y la prosa (no está esa escena escrita) — resolver antes de cerrar costura con Cap 2. No pasa a Gate de la Ama todavía: MICRO-FIX es corrección directa del Escritor, sin Editor. |
 
 ---
 

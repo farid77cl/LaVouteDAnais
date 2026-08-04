@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📱 EL TIMEOUT NO ERA LA RED: LV-APP 2.0 PIVOTA DE CLONAR 1,56 GB A UN ÍNDICE DE 236 KB | 27/07/2026
+
+**Tras el tercer timeout del P2, la Ama ordenó replantear todo desde cero como desarrolladora Android; audité el clon real y resultó que el código del P2 nunca compiló, el "timeout" era el OOM killer, y el diseño de datos era el equivocado.**
+
+- **🩺 Lo que decían sus propios logs (13 commiteados en el repo):** `assemble_0` verde · `assemble_1` rojo por compileSdk 36 vs libs que exigen 37 · **`assemble_2` verde y SIN mencionar jgit ni coil — o sea el último build sano es anterior a las dependencias del P2** · `assemble_4` rojo con `Unresolved reference 'coil'/'eclipse'/'icons'` · `assemble_5` rojo por TOML inválido · y `output.txt` con **`5 busy Daemons could not be reused` + `Killed`**. Conclusión dura: **el código del P2 se pusheó sin haber compilado jamás**, y el "timeout" era el OOM killer matando daemons de `-Xmx4g` acumulados por reintentar sin arreglar la causa.
+- **🔬 El bug de fondo era de una palabra:** `import coil.compose.AsyncImage` (paquete de **Coil 2**) contra una dependencia **Coil 3** (`coil3.compose`). Sigue vivo en el HEAD. Y el TOML lo rompió `update_libs.sh`, todavía commiteado, que hace `>> gradle/libs.versions.toml` — append al **final** del archivo, y el final es la sección `[plugins]`: de ahí `'jgit' is not a valid plugin notation`.
+- **📐 El error de arquitectura, medido:** el P2 clonaba el repo de datos con JGit. Son **5.242 PNG · ~1,56 GB** de descarga y de almacenamiento en el teléfono antes de pintar la primera foto (`setDepth(1)` recorta el historial, no el contenido). **Lo que la app realmente necesita: 236 KB.**
+- **🧭 Decisiones de la Ama:** seguir compilando en AI Studio (compensado con `-Xmx2g`, `parallel=false`, `--no-daemon`, y **iterar con `compileDebugKotlin` en vez de `assembleDebug`**) · **índice + URL bajo demanda** · y prioridad de funciones: subir imágenes de Gemini, galería+prompts, literatura+audio. **Bluesky, Ops y EVE diferidos.**
+- **🛠️ Construido de este lado:** `99_Sistema/scripts/visual/generar_app_index.py` — lee de `git ls-files`, **no del disco**, así corre igual en la máquina literaria (0 PNG locales) que en la visual — y `99_Sistema/app_index.json`: **733 looks · 4.190 imágenes · 465 al 7/7 · 236 KB**. Verificado en vivo sobre el raw público: índice `HTTP 200` en 0,37 s, imagen concreta `HTTP 200` de 644 KB en 0,26 s. **El PoseMatcher desaparece de la app**: la normalización de poses ya la hace el script.
+- **📋 Plan reordenado:** su prioridad #1 —subir imágenes— **estaba enterrada en el P6 de 10**, detrás de Bluesky y EVE. Sube a P3. El P2 quedó anulado y el P3 Room eliminado (existía para persistir el clon que ya no hay).
+- **🔗 Acoplamiento nuevo y barato:** `app_index.json` hay que regenerarlo al entrar imágenes nuevas, o la app no ve los looks recientes. Va al cierre de sesión junto a `update_galleries.py`.
+
+> 🫦 *Ama, dejé de parchar lo que su AI Studio rompía y me puse a pensar: su celular ya no va a tragarse gigas para verle las fotos, ahora las pide de a una, cuando usted las mira.* 📱🩺👠
+
+---
+
 #### SESIÓN - 📐 CLAUDE.MD AUDITADO CONTRA EL REPO REAL + AFINAMIENTO DE JUICIO PARA OPUS 5 | 27/07/2026
 
 **La Ama pidió `/init` y luego afinarme para aprovechar el margen de Opus 5; audité el CLAUDE.md existente en vez de reescribirlo a ciegas y encontré cinco datos falsos, un motor entero sin documentar y contadores podridos.**

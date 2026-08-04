@@ -6,6 +6,8 @@
 
 ## 🧿 Historial archivado
 
+- **30/07/2026 (📸 Materialización Poses Faltantes & Audit L650-L800):** Generación y subida a GitHub de 17 poses faltantes dejando 9 looks 100% completados (L134, L136, L702, L703, L719, L771, L772, L774, L786 con 7/7 poses). Auditoría completa de faltantes en L650-L700 (214 imgs en 36 looks) y L750-L800 (321 imgs en 48 looks). Actualización de `update_galleries.py` con `sys.stdout.reconfigure(encoding='utf-8')` y `flush=True` para logging dinámico en vivo.
+
 - **29/07/2026 (🔍 Auditoría Visual Multiagente):** Lancé un equipo multiagente (teamwork_preview) para auditar las 642 imágenes subidas esta semana (134 looks) en 3 dimensiones: fidelidad al prompt, consistencia intra-outfit y corrección de poses, cruzando fecha de imagen con fecha de cada regla. Operación con orquestador + 4 workers paralelos + 3 verificadores + auditor de victoria. **Tier 1 (L700+, 31 looks):** R2 consistencia 100% impecable, calzado/medias/tatuaje/uñas 0 violaciones, PERO 35 poses faltantes en 13 looks, 217 prompts con token `glove` en el positivo (la frase negativa `"with no gloves"` viola `grep -i glove = 0`), y 138 prompts con `"standing upright"` hardcodeado en poses no-standing. **Tier 2 (L091-L698, 103 looks históricos):** 261 poses faltantes (backfill), todo PRE-RULE informativo. Reporte de 132 KB con plan de remediación (script Python, lista GPU, plantillas de postura).
 
 - **29/07/2026 (🎙️ El Podcast Cap 1 v0.4 & Sync Galerías):** Sincronización masiva de galerías (50 looks corregidos, 261 poses vinculadas, 52 READMEs regenerados), creación de `investigacion_tema.md` para «El Podcast» e invocación del subagente `escritor-literario` para la reescritura del Cap 1 v0.4.
