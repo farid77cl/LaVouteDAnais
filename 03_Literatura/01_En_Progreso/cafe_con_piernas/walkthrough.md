@@ -1,7 +1,7 @@
 # Walkthrough — Café con Piernas
 
 *Bitácora viva del proyecto. Engine Escritura LV v4.8 · Nivel 4.*
-*Slug: `cafe_con_piernas` · Eje: control mental / hipnosis ambiental + bimboficación · Dialecto: Chile.*
+*Slug: `cafe_con_piernas` · Eje: **control mental** + bimboficación · **Lengua: espanol neutro (~5% de color local, Gate 04/08).***
 
 ---
 
@@ -12,7 +12,7 @@
 | 0 · Investigación | `investigacion.md` | ✅ Cerrada 03/08/2026 (~18.000 palabras, §11 = puerta única) |
 | 0b · Referencias | `referencias/INFORME_ESCRITOR_referencias.md` | ✅ REF-01 + REF-02 analizadas |
 | 1 · Composición | `canon_relato.md` + `cronologia.md` | ✅ 03/08/2026 — **EN REVISIÓN (Gate de la Ama)** |
-| 2 · Escritura | `capitulo_01_el_turno_de_prueba_v0.1.md` | ✅ 03/08/2026 — Cap 1 completo (~6.250 palabras, 5 escenas, prosa pura). Autoverificación + humanizador en `reportes/capitulo_01/` |
+| 2 · Escritura | `capitulo_01_el_turno_de_prueba_v0.2.md` | 🔄 **EN REESCRITURA (Gate 04/08).** v0.1 archivado en `borradores/capitulo_01/`. ✅ 03/08/2026 — Cap 1 completo (~6.250 palabras, 5 escenas, prosa pura). Autoverificación + humanizador en `reportes/capitulo_01/` |
 | 3 · Validación | — | ⬜ Listo para el Validador |
 
 ---
@@ -79,3 +79,30 @@ Orden de §4.7: uñas → pelo → pestañas → labios → tetas. Decidí el **
 - **03/08/2026 — Fase 1.** `canon_relato.md` (~2.150 palabras) y `cronologia.md` creados. Sin intake: la Ama cerró toda la arquitectura en conversación y en la investigación. Siete decisiones propias registradas arriba. **Pendiente: Gate de la Ama sobre el canon.**
 - **03/08/2026 — Fase 2, Cap 1.** `capitulo_01_el_turno_de_prueba_v0.1.md` (~6.250 palabras). Cinco escenas: desaparición · RRSS · la casa del barrio alto · el Trinidad · el primer turno. Primera aplicación del `HUMANIZADOR.md` (pasada final sobre el capítulo cerrado, 21 correcciones, veredicto LIMPIO 9/9). Tres decisiones del Escritor que el Compositor no había fijado y que quedan en `cronologia.md`: (a) la dirección de la casa la regala la **mamá** de la Camila por teléfono —mata el thriller sin matar el motor—; (b) **la Javi pide la pega ella misma** (§11.2 desde el primer peldaño, y blinda §11.3); (c) **«Ivanna» se revela en el Cap 1**, no en el 3, para que la grieta H12 tenga contra qué contrastar. Diez hechos plantados nuevos (H21-H30) y estación del arco fijada por implicación (Día 1 = otoño → Cap 9 = verano).
   - *Nota de honestidad sobre el largo:* el techo del Nivel 4 son ~2.000 palabras y el canon quedó ~150 arriba. El excedente es §4b y §4c, que el protocolo v4.8 obliga a **copiar** de la investigación y no a resumir. Recorté todo lo demás (premisa, pivotes, personajes, cementerio) antes de dejarlo pasar. Si la Ama lo quiere más corto, lo que sobra de verdad son las Cinco Leyes de §1b, que se solapan con el Cementerio.
+
+---
+
+## 🔴 Gate de la Ama — 04/08/2026 (nota + correccion en vivo)
+
+Llego `nota_capitulo_01_el_turno_de_prueba_v0.1.md` por push de la app, y la Ama corrigio en vivo la misma manana. **El Cap 1 v0.1 queda superado; se reescribe entero como v0.2.**
+
+### Lo que ordeno
+
+1. **Espanol neutro** en toda la prosa y todos los dialogos. Motivo literal: *"lei a ambas amigas hablando y no es asi como hablarian, estas abusando de los chilenismos"*. Techo ~5%, y ese 5% vive en sustantivos del oficio, nunca en la gramatica. Prohibido el voseo verbal chileno y el articulo delante del nombre propio.
+2. **Un solo local, y un solo salon.** Entra directo al cafe turbio de la galeria. **No hay sotano, no hay piso de abajo, no hay segundo local.** El cafe del paseo solo se menciona (es el que no tiene el vidrio polarizado).
+3. **El ascenso es sobre ella:** *"el ascenso sera ir cambiandola lentamente"* — maquillaje, tacones cada vez mas altos, agradarles, unas, pelo, labios, cuerpo.
+4. **La amiga, mucho mas extrema** de cuerpo y **mucho mas pulcra de habla** (trad wife programada).
+5. **El ambiente y la mecanica se escriben en escena** — es la vitrina del fetiche.
+6. 🥤 **La bebida de las chicas** que desinhibe y ablanda.
+7. 🗣️ **El otro yo que se va formando y le pide cosas estando fuera** del local.
+
+### Decisiones de orquestacion (mias, sobre su directiva)
+
+- **D8 · Muere P2 y se reemplaza, no se relocaliza.** Primero intente bajar la frontera al sotano; la Ama corrigio que no hay sotano. Sin lugar que cruzar, P2 pasa a ser **la primera cosa que ella pide sola, fuera del local** (`canon_relato.md` §2). Conserva la funcion original del pivote —mision y mecanismo vueltos la misma accion— sin geografia.
+- **D9 · El otro yo es el nuevo esqueleto del arco** (§6c). Reemplaza al peldano-de-lugar: cuatro estados (objetos → miradas → cuerpo → **silencio**), suena **solo fuera del turno**, se escribe **sin marcar** dentro del mismo parrafo del pensamiento normal, y ella **nunca lo reconoce como ajeno**. El silencio de los Caps 8-9 es el pago.
+- **D10 · La bebida entra SIN confirmarse jamas** (§6b-bis). Le dije a la Ama el problema antes de escribirlo: una droga confirmada le regala a Javiera —y al lector— la excusa de *"me vencieron"*, que es exactamente el motor de REF-02 «Stripclub Bimbos», del que este relato se declaro el opuesto. La forma que respeta la directiva y no rompe la Ley 1 ni el si informado del Cap 8: existe, se ve, nadie explica que es, sus efectos son indistinguibles del calor + la musica + las ocho horas, **nadie se la impone** (se la sirve ella, y despues se la pasa a la nueva), y en el Cap 8 la respuesta **no la salva**. Queda como anomalia irresoluble, igual que H9.
+- **D11 · El calendario NO se corre.** Las fechas del arco son las mismas; cambia que ocurre en ellas. Evita rehacer `cronologia.md` entera y mantiene los Hechos Plantados vivos.
+
+### Estado de los Hechos Plantados
+
+Ninguno se deroga salvo los de geografia (H10, H11, H30, ya corregidos). Todo lo marcado `escrito` con origen en el Cap 1 pasa a **re-escribiendose en v0.2**: el hecho sigue siendo canon, cambia su redaccion. Nuevos: **H31** (el otro yo) y **H32** (el vaso).

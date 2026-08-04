@@ -4,15 +4,33 @@
 > Fuente: `investigacion.md` (03/08/2026). **§11 de la investigación es la puerta única** y manda sobre §5, §6, §9 y §10 en todo lo que se contradiga.
 > Continuidad temporal y hechos plantados: `cronologia.md`.
 
+---
+
+## 🔴 GATE DE LA AMA — 04/08/2026 (manda sobre todo lo de abajo)
+
+Nota `nota_capitulo_01_el_turno_de_prueba_v0.1.md` + corrección en vivo de la Ama esa misma mañana. **Siete directivas.** Las 5-6-7 son la corrección en vivo y mandan sobre cualquier lectura previa.
+
+1. **🌎 ESPAÑOL NEUTRO.** *"el relato debe reescribirse en lenguaje neutro… leí a ambas amigas hablando y no es así como hablarían, estás abusando de los chilenismos"*. Techo: **~5% de color local**, y ese 5% vive en **el vocabulario del oficio y del lugar**, **nunca en la gramática**. → §7.
+2. **☕ UN SOLO LOCAL. Javiera entra directo al café turbio de la galería.** El café del paseo (vidrio transparente, sin polarizar) **solo se menciona**: nunca trabaja ahí, nunca es un peldaño. → §6.
+3. **💄 LA AMIGA, MÁS EXTREMA.** Cambios físicos y mentales **mucho más extremos**, y **habla más formal y pulcra** — está programada como trad wife. → §3.
+4. **🏭 EL AMBIENTE Y LA MECÁNICA SE ESCRIBEN.** *"eso es lo que quiero presentar al mundo del fetiche, nuestro café con piernas"*: barra de 30 cm, tarima, polarizado, espejo, neón, cuota, sin sillas, sin alcohol. No es decorado — es el aparato, y se muestra funcionando. → §6b.
+5. **🚫 NO HAY PISO DE ABAJO. NO HAY SÓTANO. NO HAY SEGUNDO LOCAL.** *"entra directo al café turbio, no hay piso de abajo, es una galería Santiago centro"*. Un solo salón, una sola barra, todo el arco. **Queda derogada la escalera interna**, y con ella cualquier peldaño de tipo *lugar*. → §6.
+6. **📈 EL ASCENSO ES SOBRE ELLA, NO SOBRE EL EDIFICIO.** *"el ascenso será ir cambiándola lentamente"*. El escalafón son **maquillaje, tacones cada vez más altos, agradar a los hombres, uñas, pelo, labios, cuerpo, minuto, cámara**. La geografía deja de escalar; escala el cuerpo. → §6.
+7. **🧠 CONTROL MENTAL, Y SE OYE.** *"recuerda que es erótico pero de control mental"*. Dos piezas nuevas y obligatorias:
+   - **🥤 La bebida del local** — algo que les dan a las chicas, que desinhibe y ablanda. → §6b, con la condición dura de §6b-bis.
+   - **🗣️ El otro yo que se va formando y le pide cosas ESTANDO FUERA** — off-shift, en su casa, en la calle: una voz interna que pide maquillaje, agradar a los hombres, taco más alto. → **§6c, que es el motor nuevo del relato.**
+
+**Derogaciones que esto arrastra:** muere el Café Trinidad como peldaño · **muere el sótano y muere P2 en su forma anterior** (*"al segundo café / al sótano no se entra, se asciende"*) — reemplazado por §2 P2 nuevo · el voseo verbal chileno queda **prohibido** · el contagio de registro cambia de dialecto a jerga del oficio.
+
 ## 1. Premisa
 
-Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes convertida en dueña de casa del barrio alto: pública, cambiada y feliz. Va a sacarla y la Camila le dice que está todo bien, que ahora sabe lo que es. Entonces Javiera entra al café con piernas donde se perdió el rastro, sale contratada, y descubre que el hilo sigue en un segundo café escondido en una galería donde no se entra: se asciende. Sube la escalera a propósito —minifalda, galería, sótano, privado— y al final, con el aparato ya apagado y sabiéndolo todo, dice que sí a la cámara.
+Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes convertida en dueña de casa del barrio alto: pública, rehecha y feliz. Va a sacarla y Camila le dice que está todo bien, que ahora sabe lo que es. Entonces Javiera entra a trabajar al café con piernas de la galería donde se perdió el rastro —el escondido, el del vidrio polarizado, no el del paseo— para averiguar desde adentro. **Y no la mueven de lugar: la mueven a ella.** Turno a turno, fuera del local, empieza a oírse pedir cosas —maquillaje, taco más alto, gustarles— y cada cosa que se da se la premian con el peldaño siguiente. Sube el escalafón a propósito, sobre su propio cuerpo, y al final, con el aparato ya apagado y sabiéndolo todo, dice que sí a la cámara.
 
 **En la voz de la Ama:** *"El café es la fábrica. La trad wife es el producto entregado."* · *"no solo cae porque investiga, es porque hay algo en el ambiente que la induce y ayuda a caer"* · *"es como el cambio de miss simpatía"* · *"inevitablemente va a terminar mal o bien"*.
 
 ## 1b. Las cinco leyes (si se rompe una, se cayó el relato)
 
-1. **Nadie la obliga nunca a nada.** Sin droga, sin amenaza, sin encierro, sin ciencia ficción. El aparato es luz, olor, tarima, espejo, cuota, cansancio, plata y compañeras.
+1. **Nadie la obliga nunca a nada.** Sin amenaza, sin encierro, sin ciencia ficción. El aparato es luz, olor, tarima, espejo, cuota, cansancio, plata, compañeras — **y el vaso que se toma sola** (§6b-bis: existe, nunca se confirma, y jamás se le impone). Ni una sola cesión del relato puede quedar explicada por lo que bebió.
 2. **Bajar es subir.** Cada degradación llega como ascenso y con felicitación, y el uniforme llega DESPUÉS de aceptar. Las modificaciones llegan en pregunta —*"¿nunca has pensado en…?"*—, y las pide ella.
 3. **El local sabe quién es desde el día uno y NO HACE NADA DISTINTO.** Saber ≠ actuar. Prohibido un ascenso acelerado, una compañera puesta a propósito, un uniforme a su medida: eso le regalaría la excusa de que fue una operación.
 4. **Nadie explica el mecanismo jamás.** Ningún personaje nombra hipnosis, condicionamiento ni control.
@@ -21,21 +39,24 @@ Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes conver
 ## 2. Pivotes Narrativos
 
 ### P1 — La confrontación que no da nada · Cap 1
-- **Qué ocurre:** va a la casa del barrio alto a sacar a la Camila, y la Camila no puede explicar nada: contesta con desconcierto tibio y cariñoso y se pone a hablar de la casa.
-- **Por qué excita:** el lector ve el destino en la primera escena y después mira a la Javi caminar hacia eso ocho meses. Vértigo puro, sin flashback.
+- **Qué ocurre:** va a la casa del barrio alto a sacar a Camila, y Camila no puede explicar nada: contesta con desconcierto tibio y cariñoso y se pone a hablar de la casa.
+- **Por qué excita:** el lector ve el destino en la primera escena y después mira a Javi caminar hacia eso ocho meses. Vértigo puro, sin flashback.
 - **Emoción objetivo:** ternura + horror + certeza sin prueba.
-- **Error fatal:** que la Camila explique algo o se ponga nerviosa. No hay testimonio que sacarle. Y tiene razón: no le hicieron nada.
+- **Error fatal:** que Camila explique algo o se ponga nerviosa. No hay testimonio que sacarle. Y tiene razón: no le hicieron nada.
 
-### P2 — La llave: al segundo café no se entra, se asciende · Cap 2
-- **Qué ocurre:** averigua que el rastro sigue abajo, en la galería, y que ese local no tiene puerta para una desconocida — tiene puerta para una empleada ascendida.
-- **Por qué excita:** su misión y el mecanismo del local pasan a ser la misma acción. El aparato ya no tiene que empujarla: solo tiene que decirle que sí.
+### P2 — La llave: la primera cosa que pide ella · Cap 2 *(REESCRITO por la corrección en vivo 04/08)*
+
+> ⛔ **Versión anterior derogada:** *"al segundo café / al sótano no se entra, se asciende"*. La Ama eliminó el sótano y el segundo local: **no hay puerta que cruzar**. La llave dejó de ser un lugar.
+
+- **Qué ocurre:** fuera del turno —en su casa, sola— **la voz del otro yo pide por primera vez algo concreto** (§6c), y Javiera lo consigue: se compra un taco más alto que el prestado, o el maquillaje que no usaba. Al día siguiente entra al local con eso puesto y **nadie se lo pidió, nadie lo comenta**. Ese es el peldaño 1 y no lo dio el local: lo dio ella.
+- **Por qué excita:** aquí el aparato deja de tener que empujarla. La misión, la ambición y el mecanismo pasan a ser **la misma acción**, y a partir de acá cada peldaño llega igual: primero lo pide la voz, después lo pide ella en voz alta, después el local la felicita y se lo adelanta. **La coartada nace justo después** —*"me conviene, si me ven mejor me van a soltar más"*—, nunca antes.
 - **Emoción objetivo:** alivio + ambición + un miedo que decide no mirar.
-- **Error fatal:** que resista el ascenso. Lo pide contenta. Resiste lo que el ascenso trae puesto, y pierde siempre porque es el mismo paquete.
+- **Error fatal:** que el local se lo sugiera **en esta primera vez**. La primera tiene que ser 100% de ella, sin testigo y **fuera del local** — es lo que blinda las Leyes 1 y 3 para todo el resto del relato. También es fatal que se dé cuenta de que la voz no es suya: **cree que está decidiendo**.
 
 ### P3 — Se le muere la coartada en la boca · Cap 6, después de la Descarga 2
-- **Qué ocurre:** en el privado consigue la respuesta —la Camila trabajó ahí, ascendió, se fue con un cliente, se casó—, dicha como chisme de camarín, sin drama. Vuelve al turno igual. Empieza a decir *"es que si entro al privado voy a poder…"* y no la termina.
+- **Qué ocurre:** en el privado consigue la respuesta —Camila trabajó ahí, ascendió, se fue con un cliente, se casó—, dicha como chisme de camarín, sin drama. Vuelve al turno igual. Empieza a decir *"es que si entro al privado voy a poder…"* y no la termina.
 - **Por qué excita:** no la descubren, no la castigan, nadie le mintió. Ya no queda nada que averiguar, ni siquiera una mala excusa. El secreto estaba a la vista y no servía de nada saberlo.
-- **Emoción objetivo:** vacío + calor + envidia (le tiene envidia a la Camila: la línea más atroz del relato).
+- **Emoción objetivo:** vacío + calor + envidia (le tiene envidia a Camila: la línea más atroz del relato).
 - **Error fatal:** dramatizarlo. Y que la coartada muera ANTES de que acepte el privado — muere después.
 
 ### P4 — El tramo ciego · Cap 7
@@ -52,18 +73,24 @@ Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes conver
 
 ## 3. Personajes (voz)
 
-### Javiera Soto — «la Javi» · 29 · contadora auditora
+### Javiera Soto — «Javi» · 29 · contadora auditora
 - **Rol narrativo:** la que busca. Tercera persona pegada a su cabeza, siempre.
 - **Frase tipo (antes):** *"Si me dan el turno de abajo voy a poder ver el libro de la caja."*
-- **Frase tipo (después):** *"Estoy en el número. Todo lo que venga de acá pa'rriba es mío."*
+- **Frase tipo (después):** *"Ya estoy en el número. Todo lo que venga de aquí para arriba es mío."*
 - **Detalle físico ancla:** las uñas. Crecen con el relato y le van sacando las manos: no agarran la taza, no agarran el lápiz, no agarran el cuaderno.
 - **Invariante:** cuenta. Columnas, cafés, lucas, ojos. No deja de contar ni cuando ya no piensa nada más.
 
-### Camila Reyes — «la Cami» · la amiga · adentro le decían Ivanna
-- **Rol narrativo:** la primera escena es la última, actuada por otra. Está ubicada y localizable todo el relato, y la Javi no la llama.
-- **Frase tipo:** *"Nada, amiga… ¿de qué hablai? Ya, siéntate, te sirvo algo. Ahora sé lo que soy y nunca había estado tan tranquila."*
-- **Detalle físico ancla:** las manos limpias, sin olor a nada, y el anillo.
-- **Invariante:** no se defiende nunca. No evade, no se pone nerviosa, no pide auxilio. Está bien, con toda la sencillez de la palabra.
+### Camila Reyes — «Cami» · la amiga · adentro le decían Ivanna
+> 💄 **Reescrita por el Gate 04/08: producto terminado, mucho más extremo — y con la boca más limpia de todo el relato.**
+
+- **Rol narrativo:** la primera escena es la última, actuada por otra. Está ubicada y localizable todo el relato, y Javiera no la llama.
+- **🔊 VOZ — LA INVERSIÓN, Y ES EL EFECTO CENTRAL DE LA ESCENA:** habla **formal, pulcra, cuidada**. Frases completas y bien terminadas. Cero muletillas, cero garabatos, cero contracción coloquial, cero jerga: **es la única del relato que habla así**, y contrasta con el cuerpo imposible que la está diciendo. No es afectación de nueva rica: es **tersura**. El registro de una anfitriona que aprendió a recibir. Ofrece, sirve, se interesa por la familia de la otra, no interrumpe.
+  - **Frase tipo:** *"Nada, amiga. No sé de qué me estás hablando. Siéntate, por favor, deja que te sirva algo… Ahora sé lo que soy, y nunca en mi vida había estado tan tranquila."*
+  - **El horror está en el desajuste, no en la tontera.** Prohibido escribirla balbuceante, lenta o confundida: si suena tonta, el lector la compadece y se salva. Suena **impecable**, y por eso no hay nada que rescatar.
+  - **Repertorio angosto (esto sí es lo vacío):** la casa, el marido, lo que cocina, la gente que ambas conocen. Fuera de eso no tiene opiniones — y no las evita: **no las tiene**, y no lo nota. Toda pregunta que sale de ese círculo vuelve al círculo, con amabilidad y sin costura visible.
+- **🩻 CUERPO — MUCHO MÁS EXTREMO (Gate 04/08):** no "se ve mejor": **está rehecha**, y salta a la vista en la primera foto. Boca inflada y permanentemente entreabierta, con el labio superior levantado en el centro · pecho operado, alto y redondo, que le cambió el eje del torso · cintura marcada contra caderas anchas · pelo largo, liso, de un tono que no es el suyo · uñas largas · piel sin un poro. **La postura le quedó puesta:** pecho adelante, lumbar arqueada, un pie casi en la línea del otro, y taco de aguja **dentro de la casa, a media tarde, sin ir a ninguna parte**. Se sienta siempre igual —rodillas juntas, piernas de lado— porque ya no se sienta de otra manera. Se para empujando con los muslos, sin usar las manos. Levanta la taza a la boca en vez de bajar la cabeza.
+- **Detalle físico ancla:** las manos limpias, sin olor a nada, y el anillo. En ninguna foto hace nada que requiera fuerza.
+- **Invariante:** no se defiende nunca. No evade, no se pone nerviosa, no pide auxilio. Está bien, con toda la sencillez de la palabra. **Y tiene razón: no le hicieron nada.**
 
 ### Don Nelson — el dueño · 62 · camisa arremangada al codo, paño al hombro
 - **Rol narrativo:** administrador, no amo. Mide rendimiento y felicita. Nunca da una orden erótica, nunca explica nada.
@@ -71,13 +98,13 @@ Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes conver
 - **Detalle físico ancla:** la calculadora de mesa y el lápiz Bic detrás de la oreja.
 - **Invariante:** no dice más de dos frases seguidas en todo el relato.
 
-### La Yasna — la veterana · 38 · doce años en la pega
+### Yasna — la veterana · 38 · doce años en el local
 - **Rol narrativo:** la que la quiere de verdad y la que la baja. Toda la sugestión entra por su boca, en el camarín, frente al espejo.
-- **Frase tipo:** *"¿Y nunca has pensado en hacerte la boca?… Ya, pásame el desmaquillante."*
+- **Frase tipo:** *"¿Y nunca has pensado en hacerte la boca?… Ya, pásame el desmaquillante."* — español neutro, directo y seco; **sin voseo, sin muletillas**. Su marca no es el dialecto: es que **dice la cosa una vez y cambia de tema**.
 - **Detalle físico ancla:** se saca las pestañas postizas mientras habla y no la mira.
 - **Invariante:** nunca insiste. Dice la cosa una vez y cambia de tema. Nadie vuelve a mencionarlo.
 
-**Figurantes (nombre + rol):** la Yoli (la que ya no está, citada como oráculo por la Yasna, nunca aparece) · don Manuel (el casero viejo del cortado de las nueve) · el oficinista de corbata del Trinidad que reaparece abajo, y ninguno de los dos lo comenta jamás.
+**Figurantes (nombre + rol):** Yoli (la que ya no está, citada como oráculo por Yasna, nunca aparece) · don Manuel (el casero viejo del cortado de las nueve) · el oficinista de corbata del salón de arriba que reaparece en el sótano, y ninguno de los dos lo comenta jamás.
 
 ## 4. Mecanismo Psicológico Transversal
 
@@ -94,7 +121,9 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 | **M3 · El olor a café** | Tueste, vapor de leche y el fondo quemado del portafiltro, con vainilla barata y laca encima. En el pelo, en la ropa, en el aliento del cliente a treinta centímetros. | Ni lo nota → lo huele en su pelo esa noche y se toca sin conectar las dos cosas → **se dispara fuera del local** → lo busca → la baja al estado en dos respiraciones. |
 | **M4 · La evaluación permanente** | Cuenta en la cabeza mientras hace otra cosa. Tantea los billetes del bolsillo sin mirar. Alivio al llegar al número, vacío cuando no llega. | Obligación → juego → su valor como persona → **lo único que piensa en horas**. |
 | **M5 · La coartada** | Un pensamiento, media frase, una excusa dicha a alguien que no preguntó. **Aparece siempre DESPUÉS del sí, nunca antes.** | Convicción con sintaxis entera → fórmula recitada → tic hueco → **silencio, y el texto no comenta la ausencia**. |
-| **M6 · Las redes de la Camila** | Abre la cuenta en el celular. Guarda capturas. Mira la casa. | Busca pruebas → mira la casa → pasan días y se asusta → **le da like sin pensarlo, con el pulgar, entre dos cafés, y no lo saca** → ya no las abre, sin comentario. |
+| **M6 · Las redes de Camila** | Abre la cuenta en el celular. Guarda capturas. Mira la casa. | Busca pruebas → mira la casa → pasan días y se asusta → **le da like sin pensarlo, con el pulgar, entre dos cafés, y no lo saca** → ya no las abre, sin comentario. |
+| 🗣️ **M7 · El otro yo** *(Gate 04/08 · §6c)* | **Solo fuera del turno.** Un pensamiento de más en el mismo párrafo, en su propia sintaxis, razonable y chico: el brillo, el taco, el ojo pintado. Nunca marcado, nunca reconocido como ajeno. | Pide objetos (2-3) → pide miradas (4-5) → **da por hecho el cuerpo** (6-7) → **se calla, porque ya no hay dos** (8-9). |
+| 🥤 **M8 · El vaso** *(Gate 04/08 · §6b-bis)* | Está siempre listo detrás de la barra. Nunca se nombra qué es, nunca nadie se lo impone, y sus efectos no se distinguen del calor + la música + las ocho horas. | Se lo dan → se lo sirve sola → **se lo pasa a la nueva** → pregunta por él en el Cap 8 y **la respuesta no la salva**. ⛔ Jamás se confirma. |
 
 ## 4c. 🐢 CURVA DE RESISTENCIA (de `investigacion.md` §6, corregida por §11.2)
 
@@ -103,40 +132,133 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 - **Ninguna cesión ocurre en la escena donde se propone.** Entre la oferta y el sí hay un hueco de horas o días donde lo piensa, se asusta y casi dice que no. Nadie la apura: el silencio es la presión.
 - **⛔ Todavía NO puede haber cedido:**
   - **Cap 1-2:** no puede gustarle nada. Única grieta: física y no reconocida (la humedad del primer turno, que atribuye al calor de la máquina). No pide nada ni se toca pensando en la pega hasta el cierre del Cap 2.
-  - **Cap 3-4:** tiene que poder decir el nombre de la Camila en voz alta sin que le cueste, y todavía abre el cuaderno.
+  - **Cap 3-4:** tiene que poder decir el nombre de Camila en voz alta sin que le cueste, y todavía abre el cuaderno.
   - **Cap 5-6:** **un último acto de lucidez plena** — una escena donde puede irse, tiene la plata y alguien de afuera le tiende la mano, y se queda.
   - **Cap 8-9:** cero resistencia, y es correcto. El trabajo se ganó antes.
 
 ## 5. Imágenes Ancla
 
 - La línea rosada horizontal que le deja el filo de la barra de acero cruzándole las caderas, exactamente a la altura del pubis, y que le dura hasta la noche.
-- La foto en el celular: la Camila con delantal, riéndose, un queque en las manos y un jardín atrás.
+- La foto en el celular: Camila con delantal, riéndose, un queque en las manos y un jardín atrás.
 - El escalón exacto de la galería donde el ruido de la calle se corta a la mitad del descenso.
 - Las uñas postizas apoyadas encima del cuaderno de la investigación: los dedos ya no agarran bien el lápiz y la letra de las páginas viejas no le parece suya.
 - La cinta doble faz que se pone ella misma en el baño, con las dos manos, mirándose, y que al sacarla le tira de la piel.
 
 ## 6. Mapa de Capítulos
 
-**Dos locales, una sola frontera.** *Café Trinidad* — paseo peatonal (Estado con Huérfanos), vidrio transparente, luz natural, mármol, público mixto, cinco minutos por cliente. *Café Yakarta* — pasaje adentro de una galería de Bandera, cortina, salón arriba y sótano; neón, espejo, reggaetón, solo hombres, dos horas por cliente. **La frontera se cruza UNA vez, en el Cap 3;** los peldaños 2-3-4 son movimientos dentro del mismo edificio: turno, piso, cubículo.
+**🔴 UN SOLO LOCAL (Gate 04/08). Todo el arco ocurre dentro del mismo edificio.**
+
+- **Café Yakarta** — **UN SOLO SALÓN, a nivel, en el pasaje interior de una galería de Santiago centro**, medio escondido, a pocas cuadras de La Moneda. **Vidrio polarizado de las rodillas para arriba: adentro se ve todo, afuera no se ve nada.** Neón y penumbra —a las once de la mañana adentro es de noche—, paredes de espejo, reggaetón fuerte, solo hombres, sin sillas, sin alcohol. **⛔ NO hay sótano, NO hay escalera interna, NO hay segundo piso, NO hay segundo local.** Javiera entra acá el día 6 y **no se mueve de acá nunca**.
+- **El café del paseo — SOLO MENCIONADO, nunca escena de trabajo.** El que todo el mundo conoce: paseo peatonal, **vidrio transparente sin polarizar**, luz natural, mármol, público mixto, cinco minutos por cliente. Javiera pasa por delante todas las mañanas hace cuatro años camino a su oficina y lo miraba igual que a la casa de cambio del lado. **Su función es el contraste:** ahí el café es el producto y la mujer el decorado; en la galería la mujer es el producto y el café es la coartada. Se paga en una comparación breve, no en un capítulo.
+
+**🔴 EL ESCALAFÓN ES SU CUERPO (corrección en vivo 04/08).** No hay peldaños de lugar. El local nunca la manda a otra parte: **la misma barra, el mismo metro cuadrado, ocho meses y medio.** Lo que cambia es ella, y cambia en este orden:
+
+| Peldaño | Qué cambia | Cap | Quién lo pide |
+|---|---|---|---|
+| 0 | El uniforme del local (falda, camisa, tacos prestados) | 1 | El local, y llega **después** de aceptar |
+| 1 | **Maquillaje + su primer taco propio, más alto** | 2 | 🗣️ **La voz, fuera del local. Ella lo compra.** |
+| 2 | Falda mínima + top + liguero · gustarles a propósito | 3 | Ella pregunta si puede |
+| 3 | **Uñas** | 3 | Ella · el local se las adelanta |
+| 4 | **Pelo platinado + pestañas** · lencería/bikini · **el minuto** | 4 | Ella |
+| 5 | **Labios** · taco de 15 | 5 | Ella |
+| 6 | **Tetas** · Pleaser de plataforma · microbikini + cinta doble faz · el privado | 6 | Ella |
+| 7 | La cámara · el nombre nuevo | 9 | Ella, **sabiéndolo todo** |
+
+**Cada peldaño entra igual, siempre en este orden de cuatro tiempos:** la voz lo pide fuera del turno → ella lo consigue o lo pregunta → el local la felicita y se lo adelanta (*"ya me lo devuelves"*) → **y recién después** aparece la coartada que lo justifica. **Nunca al revés.**
 
 | Cap | Pivote(s) | Mecanismo dominante | Cierre |
 |---|---|---|---|
-| 1 | P1 | El vértigo invertido: el lector ve el final en la primera escena. | Primer turno de prueba en el Trinidad; la tanga húmeda y ella se lo explica con el calor de la máquina. |
-| 2 | P2 | Lo obsceno dicho en registro de oficina; la mirada como métrica de desempeño. | Dice que sí al Yakarta. **Descarga 1:** se toca sola, con el uniforme y los tacos puestos, y lo llama nervios. |
-| 3 | P2 | El cambio de aire: se acabó la calle. La mirada sostenida sin vergüenza + la Yasna en el camarín. | Pide las uñas. El local se las adelanta: *"ya me las devuelves."* |
+| 1 | P1 | El vértigo invertido: el lector ve el final en la primera escena. **Y el aparato entero se muestra funcionando desde la página uno** (§6b). | Primer turno de prueba; la tanga húmeda y ella se lo explica con el calor de la máquina. |
+| 2 | P2 | Lo obsceno dicho en registro de oficina; la mirada como métrica de desempeño. **Primera aparición de la voz fuera del local** (§6c). | Se compra el taco más alto y el maquillaje. **Descarga 1:** se toca sola, con el uniforme y los tacos puestos, y lo llama nervios. |
+| 3 | P2 | Ya no se tapa. La mirada sostenida sin vergüenza + Yasna en el camarín. La voz pide en plural: *"que me miren mejor."* | Pide las uñas. El local se las adelanta: *"ya me las devuelves."* |
 | 4 | — | El reloj como obscenidad: el minuto feliz cronometrado entre dos cafés, y después la vida sigue. | El olor a café se le dispara fuera del local y no entiende por qué. El lector sí. |
-| 5 | — | La pelea ya no es contra el uniforme sino contra que le guste, y la pierde. | Le da like a una foto de la Camila, con el pulgar, entre dos cafés. Y no lo saca. |
-| 6 | P3 | El trabajo vuelto sexo. **Descarga 2:** se corre de pie, atrás de la barra, trabajando, y nadie se da cuenta. | Le cuentan lo de la Camila como chisme. Vuelve al turno igual. |
+| 5 | — | La pelea ya no es contra el uniforme sino contra que le guste, y la pierde. **La voz deja de pedir y empieza a hablar en primera persona.** | Le da like a una foto de Camila, con el pulgar, entre dos cafés. Y no lo saca. |
+| 6 | P3 | El trabajo vuelto sexo. **Descarga 2:** se corre de pie, atrás de la barra, trabajando, y nadie se da cuenta. | Le cuentan lo de Camila como chisme. Vuelve al turno igual. |
 | 7 | P4 | Las ganas solas: la puerta abierta y el decoro de cerradura. | Le preguntan por qué sigue y no contesta. |
 | 8 | P5 | La lucidez sobria como el lugar más caliente del relato. | Dice que sí. |
 | 9 | P5 | La mirada sin techo, sin horario y sin olvido. **Descarga 3:** frente al lente. | Elige el nombre nuevo. Alguien la llama y ella se da vuelta. **Fin — sin epílogo.** |
 
-## 7. Vocabulario Autorizado
+## 6b. 🏭 EL AMBIENTE Y LA MECÁNICA — obligatorios y en escena (Gate 04/08)
 
-**verga · coño · culo · tetas · coger / culiar · weón(a) · culiao · cachai · po · al tiro · piola · caleta · lucas · la pega · los "uniformes" · el minuto · el privado · casero · estar de turno · atender · departamento · celular · tanga · la micro · la galería.**
-Voseo verbal chileno en boca de las compañeras (*estai, sabís, dejai, tenís*) — chileno legítimo, no voceo argentino. La Javi arranca hablando neutro de clase media y **se le va contagiando el registro del local**: se le nota en la boca antes que en el cuerpo.
+> **Ama:** *"eso es lo que quiero presentar al mundo del fetiche, nuestro café con piernas, por eso quiero que se describa el ambiente y la mecánica dentro."*
+> **Esto no es decorado: es el aparato.** El Cap 1 tiene que dejar al lector adentro del local sabiendo exactamente cómo funciona. Fuente: `investigacion.md` §3.1-§3.6 + §3.8.
 
-⛔ **Prohibido:** España (*polla, follar, joder, coche, piso, móvil, bragas, tío, vale*) · voceo argentino (*vos, podés, mirá, sos*) · clínico (*vagina, pene, senos, hacer el amor*) · **las palabras del mecanismo** —*hipnosis, trance, condicionamiento, refuerzo, sugestión, manipulación, programación, objetivación*— y el léxico de denuncia (*precariedad, explotación, cosificación, trata*).
+**Se muestra funcionando, nunca se explica.** Ningún personaje da un tour ni justifica una regla: las reglas se ven operando sobre el cuerpo de Javiera.
+
+| Pieza | Lo que tiene que quedar escrito | Lo que le hace a ella |
+|---|---|---|
+| **La barra de 30 cm** | Acero, no más ancha que un antebrazo. El cliente está al otro lado y **no puede tocar**. | Toda la energía que no descarga en la mano se descarga en el ojo. Se apoya con las caderas contra el filo cuando le duelen los pies, y el filo le queda a la altura del pubis. **La línea rosada horizontal al final del turno.** |
+| **La tarima** | 15-20 cm de plataforma corrida detrás de la barra. | Sumada al taco la deja treinta centímetros sobre todos. **La mirada le cae entre la pelvis y el busto por geometría, no por morbo del cliente.** Nunca le habla a nadie de igual a igual. Que alguien la mire **a la cara** es lo raro, y se le queda pegado. |
+| **El vidrio polarizado** | Oscurecido de las rodillas para arriba. | Ve pasar las piernas de la calle a la altura de sus ojos y esa gente no sabe que ella existe. **Adentro se ve todo; afuera, nada.** |
+| **Los espejos** | Paredes de espejo. | No hay un metro del salón donde no se vea. Se ve sirviendo, agachándose, siendo mirada. Y **se ve buena** — eso es lo peligroso. |
+| **Sin sillas, sin alcohol** | Prohibidos de hecho. Todos de pie, todos sobrios. | Rotación alta, nadie tiene la excusa de estar borracho. **La mirada sobria es más limpia y más obscena.** |
+| **El neón y la música** | Sin ventana, sin reloj natural, reggaetón fuerte a las diez de la mañana. | A las once de la mañana adentro es de noche. La música le vibra el esternón; hablar cansa, así que se habla poco y **al oído, cerca**. |
+| **La cuota de 30** | Treinta cafés es el número. **Lo que venda por encima es suyo.** | El sistema no le ordena nada: le pone un número. **Ella** se ajusta la ropa para llegar. Cuenta en la cabeza todo el día. |
+| **El tiempo por cliente** | Arriba en el paseo: cinco minutos. Acá: mucho más, y abajo en el sótano, horas. | El cliente que se queda es el negocio. |
+| **La máquina** | Cromada, irradiando calor todo el día contra su frente; corriente de aire en la espalda. | Espalda helada, frente cociéndose, ocho horas. **Y es la coartada perfecta para la humedad del cierre.** |
+| 🥤 **LA BEBIDA DE LAS CHICAS** *(Gate 04/08)* | Un vaso que el local les tiene siempre listo detrás de la barra, para ellas, no para el cliente. Se lo pasan entre las compañeras como un gesto de cariño. Nadie le explica qué es. **Ella se lo toma el primer día porque se lo dieron, y a las tres semanas se lo sirve sola.** | Le suelta la vergüenza antes que el cuerpo: se ríe más fácil, la mirada le pesa menos, contesta cosas que no habría contestado. Al final del turno no se acuerda bien de tramos enteros. **Y le gusta.** |
+
+**⛔ Prohibido al escribir esto:** párrafo enciclopédico, narrador que explica el diseño, ningún personaje que diga por qué la barra mide lo que mide. Entra **por el cuerpo de ella y en el orden en que un cuerpo lo aprende**: primero el olor, después el ruido, después la altura, después el peso de la mirada, y al final la marca en la piel.
+
+## 6b-bis. 🥤 LA BEBIDA — la condición dura que la mantiene viva
+
+> **Esto no es una objeción a la directiva: es la manera de ejecutarla sin que se caiga el final.** La Ama pidió *"algún tipo de bebida que le dan a las chicas que las deshinibe, que las hace más dóciles"*. Entra. Pero entra **sin confirmarse nunca**, y por una razón estructural, no de gusto.
+
+**El problema, dicho derecho:** el relato entero se sostiene en la Ley 1 —*nadie la obliga nunca a nada*— y en el sí informado del Cap 8. Una droga **confirmada** le regala a Javiera exactamente la excusa que el relato existe para quitarle: *"me vencieron"*. Y le regala la misma excusa al lector, que es peor, porque entonces puede compadecerla y quedarse tranquilo. Es literalmente el motor de la referencia REF-02 («Stripclub Bimbos»), del que este relato se declaró **el opuesto**.
+
+**Cómo entra, entonces — REGLA OPERATIVA:**
+
+1. **Nunca se nombra qué es.** Ni por un personaje, ni por el narrador, ni al final. No hay pastilla, no hay polvo, no hay nadie echándole nada a nada en escena.
+2. **Sus efectos son indistinguibles del resto del aparato:** ocho horas de pie, calor de la máquina, música fuerte, penumbra sin reloj, la mirada encima, el taco. **El lector no puede saber si la bebida hace algo o si no hace nada** — y eso lo tiene mirando el vaso todo el relato, que es más caliente que confirmárselo.
+3. **Nadie se la impone jamás.** Se la ofrecen una vez, con cariño, el primer día. Después **se la sirve ella**. A mitad del relato **es ella la que se la pasa a la chica nueva** — la coartada que ejecuta la degradación en vez de resistirla.
+4. **Cap 8, la revelación, y acá se cobra todo:** con el aparato apagado, ella pregunta por el vaso. Y la respuesta **no la salva** — le dicen que no era nada, o le contestan con la misma indiferencia administrativa con que le contestan todo, y no queda a quién culpar. **⛔ Prohibido cerrar el relato confirmando que la drogaron.**
+5. **Se une a las anomalías que nunca se resuelven** (§8, y H9 en `cronologia.md`: el café que le sirven antes de que lo pida). La ambigüedad es el aparato.
+
+> **La prueba ácida:** si al final el lector puede decir *"pobre, la drogaron"*, se escribió el relato equivocado. Tiene que quedarse con las ganas puestas y sin nada con qué justificarlas.
+
+## 6c. 🗣️ EL OTRO YO — el motor de control mental (Gate 04/08, directiva nueva)
+
+> **Ama:** *"estando fuera debe escuchar a su otro yo que se va formando, pidiendo cosas, no sé, maquillaje, agradar a los hombres, tacones más y más altos, etc. Recuerda que es erótico pero de control mental."*
+
+**Esto reemplaza al peldaño-de-lugar como columna vertebral del arco.** El local ya no la mueve de sitio: **le crece una segunda persona adentro, y esa persona pide.**
+
+**Reglas duras:**
+
+- **Suena SIEMPRE fuera del turno.** En su departamento, en la micro, en el supermercado, en la oficina, un domingo. **Nunca detrás de la barra** — dentro del local no hace falta, porque adentro ya está haciendo lo que la voz quiere. El terror es que **la sigue a la casa**.
+- **No es una voz alucinada ni un personaje sobrenatural.** Es **su propio pensamiento con otra intención**: llega en primera persona, con su misma sintaxis, en el registro más neutro y más razonable del texto. *"Con este taco camino mal."* *"Se me ve mejor la boca con brillo."* *"Si me pinto los ojos vendo más."* Cada frase es defendible por separado — juntas son otra mujer.
+- **Ella no la reconoce como ajena.** Cree que está decidiendo. **⛔ Prohibido** que piense *"no soy yo"*, que se asuste de la voz o que el narrador la señale. El lector la oye y ella no: ahí vive el horror.
+- **Pide, no ordena.** Y pide cosas chicas y baratas al principio: un labial, una media, cinco centímetros más de taco. Nunca pide lo grande — lo grande llega solo, después, como consecuencia razonable de lo chico.
+- **Escala en cuatro estados, uno por tramo del arco:**
+  1. **Caps 2-3 · pide objetos.** Maquillaje, taco, algo que se compra. Se satisface con plata.
+  2. **Caps 4-5 · pide miradas.** Ya no quiere cosas: quiere efecto. *"Que me miren mejor."* *"Que ese vuelva mañana."*
+  3. **Caps 6-7 · pide cuerpo.** Lo irreversible. Y acá **ya no pide: da por hecho.** Cambia el modo verbal, y el texto no lo comenta.
+  4. **Caps 8-9 · deja de ser la otra.** No hay más segunda voz porque **ya no hay dos**. El silencio de la voz en los últimos capítulos es el dato: el lector lo nota y ella no.
+- **Cómo se escribe, técnicamente:** sin comillas, sin cursivas de "voz interior", sin marcar. Va **pegada al mismo párrafo** del pensamiento normal de Javiera, de modo que el lector tenga que decidir cuál de las dos frases fue de ella. **Nunca se nombra el mecanismo** (Ley 4): la palabra *voz* misma es sospechosa — mejor que aparezca como algo que simplemente ella *ya estaba pensando*.
+- **Su interacción con la bebida:** la voz **suena más fuerte los días siguientes a un turno**, y el texto jamás establece la relación. El lector la establece.
+
+## 7. Vocabulario Autorizado — 🌎 ESPAÑOL NEUTRO (reescrito por el Gate 04/08)
+
+> **Directiva literal de la Ama:** *"el relato debe reescribirse en lenguaje neutro… estás abusando de los chilenismos… quizás solo un poco de español chileno, pero como un 5%."*
+> **Lo que se neutraliza es la GRAMÁTICA Y LA BOCA. Lo que se conserva es EL LUGAR.** El café con piernas es la vitrina del relato: el mundo sigue siendo el que es, las mujeres ya no hablan como manual de modismos.
+
+**Base de toda la prosa y de todos los diálogos: español neutro latinoamericano.** Frases completas, tuteo estándar, sin marca regional.
+
+⛔ **PROHIBIDO (esto es lo que la Ama leyó y rechazó):**
+- **Voseo verbal chileno:** *estai, sabís, dejai, tenís, querís, hablai, cachai, podís, andai, acostumbrís, agachís, vai, soy (por «eres»)*. **Cero. Sin excepción, en boca de nadie.**
+- **Muletillas y relleno:** *po, sipo, weón/weona/weá, culiao, caleta, al tiro, lata, pico, lesa, harto rato, cachar*.
+- **El artículo delante del nombre propio:** se escribe **Javiera / Javi / Camila / Cami / Yasna**, nunca *la Javi*, *la Cami*. Es el marcador regional más denso del texto y aparecía en cada párrafo.
+
+✅ **EL 5% QUE SÍ VIVE — y vive en los sustantivos, no en la conjugación:**
+**café con piernas · la galería · el paseo · la barra · la tarima · el turno · atender · el casero · la cuota · el minuto · el privado · el salón · el sótano · el camarín · los "uniformes" · la micro · las lucas · el departamento · el celular.**
+Se usan **porque nombran cosas que no tienen otro nombre**, no como sabor. Dos o tres por escena bastan. La geografía real del centro se conserva (calles, paseo, galería) — es la vitrina, no el acento.
+
+**🔁 EL CONTAGIO DE REGISTRO CAMBIA DE MATERIA (esto reemplaza al viejo mecanismo dialectal):**
+Javiera ya no se contagia *chilenismos*: se contagia **la jerga del oficio**. Empieza diciendo *"el trabajo", "los clientes", "el local"* y termina diciendo, sin darse cuenta, *"la pega", "los caseros", "el minuto", "estoy de turno"*. **Es más fuerte que el dialecto**, porque no la vuelve de otro país: la vuelve del local. Se le nota en la boca antes que en el cuerpo, y el texto nunca lo comenta.
+**Excepción de una sola voz:** Camila habla **más pulcro que nadie** (§3) — su registro va en la dirección contraria y por eso da miedo.
+
+⛔ **Sigue prohibido:** España (*polla, follar, joder, coche, piso, móvil, bragas, tío, vale*) · voceo argentino (*vos, podés, mirá, sos*) · clínico (*vagina, pene, senos, hacer el amor*) · **las palabras del mecanismo** —*hipnosis, trance, condicionamiento, refuerzo, sugestión, manipulación, programación, objetivación*— y el léxico de denuncia (*precariedad, explotación, cosificación, trata*).
+
+✅ **Léxico sucio (sin cambios, y sigue subiendo en la boca de ella):** **verga · coño · culo · tetas · coger · mojarse**.
 
 ## 8. Cementerio
 
@@ -150,8 +272,8 @@ Voseo verbal chileno en boca de las compañeras (*estai, sabís, dejai, tenís*)
 ## 9. Frases canónicas
 
 - *"Mientras más avance, mientras más me asciendan, podré saber sus secretos."* — la coartada, que se vacía en cuatro estados hasta el silencio.
-- *"Ahora sé lo que soy."* — la dice la Camila en el Cap 1 y la Javi en el Cap 9, y la segunda vez va en serio.
+- *"Ahora sé lo que soy."* — la dice Camila en el Cap 1 y Javi en el Cap 9, y la segunda vez va en serio.
 - *"Sí. Sabíamos desde el primer día. ¿Y qué querías que hiciéramos?"*
 - *"Tu amiga entró igual que tú. La evaluamos igual que a ti. A ella le tocó la casa. A ti te toca la cámara."*
 - *"Los caseros preguntan por ti."*
-- *"La Yoli decía que el día que dejai de taparte la falda ya estai adentro."*
+- *"Yoli decía que el día que dejas de taparte la falda ya estás adentro."*
