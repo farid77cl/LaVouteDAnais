@@ -1,1 +1,1 @@
-Se apoyó ahí un segundo, con las caderas, porque los pies. porque los pies que???
+Se apoyó ahí un segundo, con las caderas, porque los pies. porque los pies que??? comprime la parte previa el raconto
