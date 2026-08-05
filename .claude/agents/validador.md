@@ -100,6 +100,18 @@ Contá los eufemismos evasivos ("su sexo", "su intimidad", "la humedad", "aquell
 **Esquivar la palabra en la escena sexual = FALLA.** Revisar en particular la boca de los
 personajes: la Ama pidió explícitamente que el sumiso la diga.
 
+> ⚠️ **Ampliación de método (05/08/2026, tras repudio transversal en ≥4 relatos):** la lista fija de
+> 4 eufemismos no alcanza — marcá también como evasiva **cualquier metáfora abstracta de "calor" o
+> sensación difusa que SUSTITUYE, en vez de acompañar, léxico anatómico crudo** (ej. "una válvula
+> que se abre", "un calor sin punto fijo", "un calor sin centro", "algo se encendió por dentro").
+> Regla de detección: si en un radio de 2-3 frases alrededor de la metáfora NO aparece ninguna
+> palabra del léxico exigido (verga, coño, culo, pezón, mojada...), cuenta como eufemismo evasivo
+> aunque no esté en la lista fija. **Caso específico:** la frase "calor difuso/repartido/sin punto
+> fijo/sin centro" es el Fragmento 7 de `antologia_calenton.md` — canon SOLO para el eje de
+> reasignación anatómica de `esposa_servidumbre`. Si aparece en cualquier otro relato sin léxico
+> anatómico directo en la misma escena, o si reproduce esa estructura casi palabra por palabra, es
+> FALLA de T3 — nunca un logro de voz (ver también §4 más abajo).
+
 **T4 · Suciedad del registro.**
 ¿El lenguaje se ensucia donde tiene que ensuciarse? Un clímax narrado en prosa limpia y
 literaria es un clímax fallado. Comparar contra `01_Canon/antologia_calenton.md`: ¿este texto
@@ -113,6 +125,12 @@ Elipsis, corte de cámara o resumen ("y después pasó todo") donde el canon ped
 Mínimo **4 subrayables/1000 palabras** en el promedio del capítulo. Un subrayable tiene imagen
 específica que se queda, verbo crudo, y carga psicológica concreta — no descripción exterior neutra.
 **Necesario pero NO suficiente:** cumplir T6 y fallar T1/T2 sigue siendo Temperatura ❌.
+
+> ⚠️ **Requisito de anclaje anatómico (05/08/2026):** de los subrayables citados por escena, al
+> menos la mitad debe incluir léxico anatómico o de acción sexual directa — no solo imagen
+> atmosférica/metafórica. Una escena que cumple el mínimo de 4/1000 enteramente con imágenes tipo
+> "un calor que se expande" sin ningún ancla concreta CUENTA para T6 pero reportalo aparte como
+> "densidad sin anclaje", y eso arrastra T3 hacia ❌.
 
 **T7 · Motivos permanentes y curva de resistencia** (contra `investigacion.md` §5 y §6).
 - ¿Los **motivos permanentes** están presentes **en cada escena**, o se cumplieron una vez y se
@@ -136,6 +154,15 @@ lúcido pero frío es un FRACASO.
 - ¿La voz es consistente con capítulos previos aprobados?
 
 **No tiene score numérico — es CHECK pass/fail.** Si la voz no suena al canon autoral, el cap suena a desconocido.
+
+> ⚠️ **Distinción obligatoria (05/08/2026):** un "tic canónico" es un recurso de RITMO/CADENCIA/
+> SINTAXIS reutilizable (ej. frases cortas antes del clímax, "el cuerpo cede antes que la mente") —
+> **NUNCA una metáfora o frase específica de OTRO relato/otra pareja de personajes copiada
+> casi-literal.** Si al listar "tics activados" te encontrás citando una imagen que es en realidad
+> un fragmento de `antologia_calenton.md` reproducido en un relato o personajes distintos a los
+> originales (caso confirmado: "calor difuso/sin centro" fuera de `esposa_servidumbre`), NO lo
+> reportes como continuidad de voz — repórtalo en Narrativa/T3 como clonación y pedile al Escritor
+> una imagen nueva y específica de ESTE relato.
 
 ### 5. CONTINUIDAD (el Centinela recuperado — Blindaje Ama 16/06/2026)
 

@@ -227,6 +227,17 @@ Frases de 3-5 palabras, repetidas 3 veces, acopladas a la respiración. *"Soy vi
 ### 6.7. El olor como ancla maestra
 Vainilla densa + humo dulce + látex = la firma olfativa de Miss Doll. El olor "amarra", "envuelve", "marca el tempo". Es el ancla que el sujeto no puede cerrar (no hay párpados para la nariz).
 
+### 6.8. El anclaje corporal explícito (obligatorio — 05/08/2026)
+
+> Paralelo directo a `01_Canon/Guias_Especializadas/arquitectura_erotica_bimbo_v1.md` §6.4 "El Cuerpo Inflado". Se agrega porque un chequeo de método (05/08/2026) encontró que este documento, en 404 líneas, contenía **una sola palabra corporal explícita en total** — el control mental quedaba en niebla/mantra sin traducción física, y por eso se leía como color de personaje, no como control mental real.
+
+Cada peldaño de la escalera de profundización (§III, Paso 5) y cada mantra (§6.6) DEBE ir acompañado, en el mismo párrafo o el inmediatamente siguiente, de una sensación corporal concreta y explícita — no solo atmosférica:
+- El descenso mental ("más hondo") se siente en el cuerpo como: humedad que sube, pezones que se endurecen, la verga/el coño latiendo con el ritmo de la cuenta, presión concreta en un punto anatómico.
+- El "apagado corporal" (Paso 8, §III) no es solo "hombros, codos, silencio" — cada parte que se apaga debe dejar, en la parte que NO se apaga (típicamente pelvis/pechos), una sensación que SUBE mientras el resto se apaga: el cuerpo no se vacía parejo, se concentra.
+- El reencuadre (Paso 9) se sella con una sensación física, no solo verbal: la frase que "resuena" va pegada a un latido/mojadura/dureza que la confirma en el cuerpo, igual que el reencuadre pareado ya hace con la respiración (§4.6).
+
+**Regla de auditoría:** si un tramo de trance de 300+ palabras no tiene ninguna palabra anatómica explícita (coño, verga, pezón, clítoris, mojada, dura), está fallando este anclaje — sin importar cuán bien ejecutados estén los otros mecanismos de instalación (§VII).
+
 ---
 
 ## VII. LOS MECANISMOS DE INSTALACIÓN
@@ -312,6 +323,9 @@ Sale del trance — pero el ancla persiste. Cierre canónico: la promesa de que 
 
 ### 9.10. Beat de procesamiento ausente
 ❌ Encadenar sugestiones sin pausa. ✅ Tras cada profundización, un latido donde el residuo lúcido la registra (paralelo al beat post-ritual MtF).
+
+### 9.11. Niebla sin anclaje corporal (05/08/2026)
+❌ Mantras y escalera descritos solo como estado mental ("Soy vidrio, soy forma", niebla rosa) sin ninguna sensación física explícita que los traduzca. ✅ Cada beat de disolución mental se sella con una sensación corporal concreta y nombrada (ver §6.8). El control mental que no se siente en el cuerpo del lector no se lee como control mental — se lee como estilo.
 
 ---
 

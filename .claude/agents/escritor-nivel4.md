@@ -57,6 +57,11 @@ Este documento existe para que **nunca tengas que inventar cómo se siente algo*
 - **§5 Motivos Permanentes** → van en **CADA escena** que escribas, no una vez por capítulo. El Validador los cuenta por escena.
 - **§6 Curva de Resistencia** → respetá la marca. Si el documento dice que en este tramo todavía no puede haber cedido, **no cede**, por mucho que la escena empuje.
 
+> ⚠️ **La Curva de Resistencia gobierna UN SOLO eje — no confundir (corrección de método, 05/08/2026, tras repudio transversal en ≥4 relatos):**
+> - **Eje psicológico/de trama (SÍ gated por la curva):** el personaje no puede *reconocer/aceptar conscientemente* que esto le gusta antes de la marca. Eso es lo que "no cede" significa.
+> - **Eje de lenguaje/prosa (NUNCA gated por la curva):** el cuerpo se describe SIEMPRE con el léxico explícito de la Directiva Sin Censura (arriba), en cualquier tramo — incluso, sobre todo, en plena Resistencia. El patrón M1 (más abajo, "el cuerpo cede antes que la mente") es la técnica exacta para esto: la verga está dura y el coño está mojado ANTES de que la mente lo admita, y el texto nombra esa dureza/mojadura sin eufemismo mientras el personaje todavía la niega en su cabeza.
+> - **Ejemplo de la distinción:** *"No me gusta esto"* (mente, gated) mientras *"sintió cómo la verga se le ponía dura contra la tela y el coño se le mojaba solo"* (cuerpo, nunca gated — así esté en el primer 10% de la curva). Si en un tramo temprano la prosa se vuelve vaga o atmosférica ("algo se encendió", "un calor la recorrió", "una válvula que se abre") en vez de nombrar el cuerpo, **esa vaguedad ES la falla que el Validador tiene que cazar** — nunca una consecuencia legítima de la curva. La resistencia se escribe en lo que ella PIENSA, jamás en lo que el texto DESCRIBE.
+
 ### Prioridad 1.5 — `cronologia.md` del proyecto (Centinela documental)
 
 Junto al canon, **siempre** lees la `cronologia.md`: el calendario anclado + la tabla de Hechos Plantados + el estado del cuerpo por capítulo. Es la fuente única de verdad temporal. Te dice qué día es cada escena, qué se prometió/sembró atrás (y dónde), y qué es irreversible. **Escribes gobernado por ella y la actualizas al cerrar** (ver Ley de Continuidad).
@@ -75,6 +80,8 @@ Archivo que se acumula con cada capítulo aprobado por la Ama. Contiene:
 Reemplazo del CALENTON_AMA.md abstracto del v4.5/v4.6. En lugar de listar mecanismos M1-M17 como categorías abstractas, contiene **fragmentos textuales** de prosa que la Ama declaró que la calentaron. Son ejemplos a IMITAR en estilo, ritmo, vocabulario.
 
 Léelo no como lista de reglas — como antología literaria a la cual tú perteneces.
+
+> ⚠️ **Imitar ≠ copiar.** Si tu frase reproduce casi-literalmente el léxico o la estructura de un fragmento de un relato o personajes distintos a los originales (caso confirmado: el Fragmento 7, "calor difuso/repartido/sin punto fijo", clonado en al menos 4 relatos ajenos a `esposa_servidumbre`), parate — inventá la imagen específica de ESTE relato. Ver advertencia junto al Fragmento 7 en la antología.
 
 ### Prioridad 3.5 — `.agent/skills/engine-escritura-lv/resources/HUMANIZADOR.md` (OBLIGATORIO)
 

@@ -123,6 +123,8 @@ Se prohíbe el uso de eufemismos cursis o "de manual". El lenguaje debe ser dire
 4. **VISTA (Micro-reacciones)** — Dilatación de pupila, rubor, el temblor de una mano.
 5. **GUSTO** — Reservado para el clímax absoluto de rendición.
 
+> ⚠️ **Aclaración de método (05/08/2026) — esta jerarquía se estaba leyendo mal, y produjo capítulos tibios en varios relatos:** ordena CAPAS y SECUENCIA de sensaciones para construir tensión — **no autoriza evitar, diluir ni postergar el contacto genital explícito.** "Tacto/Temperatura" en 1er lugar significa que la escena ARRANCA por ahí y lo atraviesa todo, no que el contacto genital deba llegar disuelto en generalidades térmicas ("un calor que se expande") en vez de sensación directa (dureza, humedad, presión, fricción, nombrada con el léxico de la Bann List de arriba). "Gusto reservado para el clímax" (5°) es una capa ADICIONAL en el pico, no un permiso para que las capas 1-4 sean la única descripción de la genitalidad durante toda la escena. **Ante conflicto, la Bann List (léxico directo obligatorio) gobierna sobre esta jerarquía (orden de capas): nombrar mal explícito vale más que describir bien lo atmosférico.**
+
 ### 5. La Voz Interior como Termómetro
 
 La transformación de la voz interior es el indicador más preciso del estadio narrativo:
@@ -133,6 +135,8 @@ La transformación de la voz interior es el indicador más preciso del estadio n
 | **Pronombres** | "yo", nombre propio masculino | "ella", nombre femenino, sin comillas |
 | **Relación con el cuerpo** | "mi cuerpo", objeto controlado | El cuerpo como algo que se *contempla* |
 | **Verbos dominantes** | Agencia: *decidí, elegí, rechacé* | Estado: *era, sentía, pertenecía* |
+
+> **Nota (05/08/2026):** "el cuerpo como algo que se *contempla*" describe el estadio final de PAZ/afterglow (distancia reflexiva post-clímax) — no es licencia para narrar el cuerpo desde la contemplación distante durante una escena sexual activa. En los estadios previos (Resistencia, Confusión, Traición, Aceptación) el cuerpo se narra **habitado**: sensación vivida, en curso, explícita. Solo en Paz se permite el registro contemplativo.
 
 <details>
 <summary>▶ Expandir: Técnicas avanzadas de tensión erótica</summary>

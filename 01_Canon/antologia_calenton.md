@@ -113,6 +113,10 @@
 
 **Lente activado:** Lo simbólico-femenino (el placer mismo, no solo el cuerpo, se feminiza) + Cuerpo que va antes que mente.
 
+> ⚠️ **Advertencia de uso (05/08/2026) — este es el fragmento más fácil de clonar mal, y ya se clonó mal en al menos 4 relatos ajenos** (`cafe_con_piernas`, `el_secreto_de_la_comoda`, `el_podcast`, `la_muneca_del_gerente`). Es un dispositivo MUY específico: el contraste entre el orgasmo concentrado-direccional masculino y el difuso-femenino, anclado en la reasignación anatómica de ESTE relato (Esteban/Valeria). **NO es una plantilla genérica de "cómo describir calor".**
+> - Si tu relato no tiene un eje de reasignación anatómica o feminización del placer comparable, este fragmento NO aplica — ni como estructura ni como léxico.
+> - Si tu relato SÍ tiene ese eje, **igual está prohibido reusar la frase "calor difuso/repartido/sin punto fijo/sin centro" verbatim o casi-verbatim.** Escribí la imagen nueva y específica de TUS personajes. El punto 1 de "Cómo usa el Escritor esta antología" (imitar el ritmo, no copiar) aplica con más fuerza acá que en ningún otro fragmento, precisamente porque es el que más se ha fotocopiado.
+
 ---
 
 ### Fragmento 8 — El dolor que es calor (de v0.6, Día 1 depilación — reescritura del MEDIO)
@@ -148,6 +152,8 @@ Cuando vas a escribir una escena, te preguntás:
 2. **¿Qué LENTE estoy activando?** Si la respuesta es "rito de ingreso femenino", releé los fragmentos 1, 3 y 4. Si es "asimetría sexual hetero", releé el fragmento 5.
 
 3. **Si tu prosa NO se parece a la antología en ritmo/registro/vocabulario, hay algo mal.** La voz del Escritor debe sonar a esta antología — no a "buena erótica" en abstracto.
+
+4. **Nunca clones un fragmento verbatim o casi-verbatim, aunque el lente coincida.** Si tu prosa está reproduciendo la MISMA metáfora o frase de un fragmento en un relato o personajes distintos a los originales, DETENÉTE: inventá la imagen específica de este relato, estos personajes, este momento. La antología se imita en ritmo y registro — nunca se fotocopia en léxico. (Caso de referencia: Fragmento 7 — ver advertencia junto al fragmento.)
 
 ---
 
