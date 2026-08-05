@@ -36,7 +36,7 @@ Después se vieron menos, que es una cosa que pasa: cambios de horario, cierres 
 
 Ciento cuarenta y dos días.
 
-No se propuso contarlos. Los contaba igual que contaba todo, columnas ajenas hasta encontrar el punto exacto donde una cifra se había ido de su lugar: tenía buena mano para eso, y ahora la tenía puesta ahí. Camila había estado mal antes del café —un mes entero durmiendo en el sillón de su departamento, dos bolsas de ropa contra la pared, el cargador enchufado detrás—, y después le salió el trabajo nuevo. Eso fue lo último que contó.
+No se propuso contarlos. Los contaba igual que contaba todo, columnas ajenas hasta encontrar el punto exacto donde una cifra se había ido de su lugar: tenía buena mano para eso, y ahora la tenía puesta ahí. Camila había estado mal antes del café: un mes entero durmiendo en el sillón de su departamento. Dos bolsas de ropa contra la pared, el cargador enchufado detrás. Después le salió el trabajo nuevo, y eso fue lo último que contó.
 
 El link se lo mandó Pauli, del liceo, a las once y media de la noche, con tres signos de interrogación. *oye esta no es cami???*
 
@@ -46,7 +46,7 @@ Le quedaba bien.
 
 Eso pensó primero, con el pulgar detenido sobre la pantalla: que le quedaba bien, que nunca en su vida se había visto así.
 
-Bajó por las fotos. La casa, el jardín con el limonero, un perro dormido en una alfombra, un queque sostenido con las dos manos. En ninguna de las sesenta y una fotos las manos de Camila estaban haciendo algo que requiriera fuerza. Abrió al lado la cuenta vieja, la última foto de dos veranos atrás: los pies en el agua, la boca chica y un poco torcida. Los dientes eran los mismos. Fue lo único que encontró igual, y dejó de buscar.
+Bajó por las fotos. La casa, el jardín con el limonero. Un perro dormido en una alfombra. Un queque sostenido con las dos manos. En ninguna de las sesenta y una fotos las manos de Camila estaban haciendo algo que requiriera fuerza. Abrió al lado la cuenta vieja, la última foto de dos veranos atrás: los pies en el agua, la boca chica y un poco torcida. Los dientes eran los mismos. Fue lo único que encontró igual, y dejó de buscar.
 
 A la una y media de la mañana tenía cuarenta y siete capturas guardadas en un álbum nuevo. Escribió *cami soy yo, contéstame* y lo miró un rato, sabiendo que si le escribía, Camila le iba a contestar bien, con un audio largo y cariñoso, y que ella se lo iba a creer, porque siempre se lo creía. Borró las dos palabras.
 
@@ -68,7 +68,7 @@ Le abrió Camila.
 
 —Javiera. Qué alegría más grande.
 
-La abrazó. Olía a perfume dulce y a champú, y debajo del perfume no olía a nada. Javiera le devolvió el abrazo con las manos abiertas sobre la espalda y sintió un cuerpo que no era el que se acordaba: duro donde antes no había nada, la espalda arqueada hacia adentro, los hombros echados atrás, todo empujado hacia adelante desde el pecho. Bajo la tela de la blusa la piel se sentía tibia y sin dar, como si hubiera un molde debajo y la mano de Javiera se topara con el molde antes que con Camila. Camila siempre había sido más baja que ella.
+La abrazó. Olía a perfume dulce y a champú, y debajo del perfume no olía a nada. Javiera le devolvió el abrazo con las manos abiertas sobre la espalda y sintió un cuerpo que no era el que se acordaba: duro donde antes no había nada, la espalda arqueada hacia adentro, todo empujado hacia adelante desde el pecho. Bajo la tela de la blusa la piel se sentía tibia y sin dar, como si hubiera un molde debajo y la mano de Javiera se topara con el molde antes que con Camila. Camila siempre había sido más baja que ella.
 
 Se separó y le miró los pies.
 
@@ -180,7 +180,7 @@ En la cocina un aparato se apagó solo y se oyó el clic.
 
 Salieron. Le mostró los tomates y el limonero. Le contó que Cristóbal viajaba mucho, que no era ningún santo pero que era bueno con ella. Le cortó un pedazo de queque y se lo puso en un plato con un tenedor de postre, de pie, en el pasto. Javiera se lo comió mirándole las manos: la izquierda con el anillo, la derecha sosteniendo el plato desde abajo con las yemas, las dos sin una marca, sin una uña partida, en un jardín.
 
-Después la acompañó hasta el portón, la abrazó fuerte y le dijo que se diera una vuelta cuando quisiera, que no dejara pasar otros ciento cuarenta y dos días. Se acordó del número y lo repitió riéndose, con esa risa nueva, más lenta, que parecía llegarle de más abajo en el pecho que antes.
+Después la acompañó hasta el portón y la abrazó fuerte. Le dijo que se diera una vuelta cuando quisiera, que no dejara pasar otros ciento cuarenta y dos días. Se acordó del número y lo repitió riéndose, con esa risa nueva, más lenta, que parecía llegarle de más abajo en el pecho que antes.
 
 El portón se cerró solo, con motor.
 
@@ -193,3 +193,99 @@ Y Javiera estaba absolutamente segura.
 Escribió *Yakarta — galería, pasaje interior*. Abajo escribió *un año*. Abajo escribió *le fue bien — la subieron*.
 
 La palabra *subieron* se le quedó mirando desde el papel más rato del que hacía falta, y pasó una micro que tampoco era la suya.
+
+---
+
+Volvió a la oficina al día siguiente sin decirle nada a nadie y cerró el balance atrasado en dos jornadas, con la letra más apretada de lo normal. Tres días después de la casa del cerro salió antes de almuerzo, con el cuaderno adentro de la cartera, y caminó hacia el centro.
+
+El café del paseo quedaba a dos cuadras de la galería, y Javiera pasaba por ahí hacía cuatro años, todas las mañanas, camino a la oficina de Agustinas, sin mirarlo nunca de frente. Vidrio transparente de piso a techo. Mostrador de mármol. Dos mujeres de delantal servían cortados a hombres de traje que tomaban de pie y se iban enseguida. La calle entraba derecho hasta el fondo del local: cualquiera podía pararse en la vereda y ver el salón entero sin pagar nada. Esta vez se detuvo un segundo a mirarlo, y siguió caminando.
+
+La entrada de la galería quedaba dos cuadras más allá, entre una cerrajería y una casa de cambio con el vidrio rayado. Un pasillo angosto de locales chicos —una relojería, un maniquí sin cabeza en la vitrina de una mercería que llevaba ahí más tiempo del que nadie recordaba— y, al fondo, una puerta de vidrio oscuro con un letrero delgado: YAKARTA, en letras que alguna vez fueron doradas. Nada más. Ni carta de precios, ni una sola palabra que dijera qué se vendía adentro.
+
+El ruido de la calle se cortó a la mitad del pasillo, antes de que llegara a la puerta. Un paso atrás todavía se oía una bocina. Un paso más allá, no.
+
+Empujó el vidrio y el aire caliente le llegó a la cara antes de que la vista terminara de acomodarse. Después llegó el olor: café, y debajo un fondo dulzón que no supo nombrar. Pensó que debía anotar la hora exacta en el cuaderno, para que quedara constancia, y se le fue el pensamiento detrás del olor antes de terminarlo. Solo al final, cuando los ojos se hicieron a la penumbra roja, vio el salón entero repetido en las paredes de espejo: la barra angosta de acero, la fila de hombres de pie con el vaso en la mano, una mujer sobre una tarima de treinta centímetros sirviendo con la falda tirante contra el muslo. Arriba, a la altura de sus propios ojos, pasaban las piernas de la gente de la calle, sin saber que del otro lado había alguien mirando.
+
+Nadie se dio vuelta cuando entró. Y sin embargo alguien la miró: un hombre apoyado en la barra, con la corbata floja y el vaso vacío hacía rato, giró la cabeza medio segundo de más, la recorrió con la misma calma con que acababa de mirar a la de la tarima, y volvió a lo suyo. Javiera sintió el peso de esa mirada en la nuca, un calor corto que no supo dónde poner, y pensó que era el aire acondicionado, que en algún lugar de ese salón tenía que estar apuntándole mal.
+
+Al fondo, detrás de la caja, un hombre de sesenta y tantos, camisa arremangada al codo y un paño colgado del hombro, contaba billetes sin mirarlos, guiándose solo por el tacto. Tenía una calculadora de mesa a la derecha y un lápiz Bic metido detrás de la oreja.
+
+—¿Necesitan gente? —preguntó Javiera, y la propia voz le sonó rara con la música tan fuerte.
+
+El hombre —don Nelson, decía un cartel plástico prendido al bolsillo— levantó la vista y la recorrió entera, sin apuro, de la cara a los zapatos y de vuelta a la cara, como quien mide un mueble antes de decidir si entra por la puerta. Sintió el repaso como un peso concreto en los hombros, aunque todavía tenía puesta la ropa de la oficina.
+
+—¿Has trabajado en esto antes?
+
+—No.
+
+—Tienes las piernas largas. —Se detuvo un momento de más ahí, sin disimularlo—. Eso ayuda.
+
+Anotó unos números en una libreta chica sin que Javiera alcanzara a leerlos.
+
+—Ivanna también las tenía así. —Lo dijo sin ninguna curiosidad detrás, como quien comenta el clima—. Se fue hace tiempo. Le está yendo bien.
+
+No le preguntó el nombre completo, ni el rut, ni si tenía papeles, ni por qué una mujer con cartera de oficina entraba a esa hora a pedir trabajo en un lugar donde ninguna cartera de oficina entraba nunca. Le preguntó la edad, la anotó, y volvió a los billetes.
+
+Esa noche, en el cuaderno, debajo de la fecha, Javiera escribió: *no pidió apellido.* Y abajo, con la misma letra apretada de siempre, lo subrayó dos veces.
+
+—Turno de prueba pasado mañana —dijo don Nelson, sin levantar la vista—. Diez de la mañana. Trae zapato con taco. Y no vengas con pantalón.
+
+Dos días después volvió con una bolsa de gimnasio, y no tuvo que sacar nada de adentro: en el camarín, sobre una silla, ya la esperaban una falda azul marino de tubo, de un género grueso sin forro, más corta que cualquier falda que hubiera usado en la oficina, y una camisa blanca ajustada. Al lado, de pie, una mujer con un cajón de plástico lleno de zapatos desparejados y un espejo de cuerpo entero detrás.
+
+—Yasna —dijo, y no le dio la mano: le agarró la muñeca y la hizo girar despacio, para verla completa, con la misma calma evaluativa de don Nelson pero más cerca, más de cuerpo—. Treinta y ocho, ¿cierto? Número treinta y ocho también, si el pie no es problema.
+
+Le pasó un taco negro de siete centímetros, sacado del cajón sin mirar cuál era.
+
+—Con este parte todo el mundo.
+
+El taco le apretó los dedos apenas se lo puso, medio número más chico que el suyo, y el peso se le corrió de los talones a las puntas en cuanto se paró derecha.
+
+Yasna le soltó el primer botón de la camisa con dos dedos, sin preguntarle, con la misma soltura con que alguien endereza un cuadro torcido en la pared de su propia casa.
+
+—Así. Que se vea que hay algo debajo y no se vea qué es.
+
+Del mismo cajón sacó un paquete chico de medias gruesas y se lo puso en la mano. Javiera se las puso sentada en el borde de una silla plástica, subiendo la tela centímetro a centímetro por la pierna, y el algodón grueso le quedó apretado arriba del muslo, marcándole la carne.
+
+—Para hoy sirven éstas. Mañana traes unas finas, transparentes. —Y sin esperar que Javiera contestara nada, ya estaba hablando del calor, de que iba a tener que acostumbrarse a no sentir el aire acondicionado ahí adentro.
+
+Le explicó la luquita sin que se la pidieran, mientras le acomodaba el ruedo de la falda: mil, dos mil pesos por café, moneda suelta, y que el que dejaba mucho más que eso no era generoso, era otra cosa. Que aprendiera a distinguir la propina de la intención, porque las dos venían dobladas en el mismo billete.
+
+—Arriba, en el café con vestidito, igual dejan propina —dijo—. Acá dejan otra cosa.
+
+Se sacó una pestaña postiza que le sobraba en la esquina del ojo, hablándole al espejo y no a ella.
+
+—El único cuidado que hay que tener acá es no enamorarse. —Y antes de que Javiera alcanzara a preguntar de qué estaba hablando, ya le estaba subiendo el cierre de la falda por la espalda.
+
+De un estante bajo la mesa del espejo sacó un vaso chico con un líquido claro adentro, ni frío ni tibio, y se lo pasó con la misma naturalidad con que alguien convida un dulce.
+
+—Tómatelo. Ayuda con los nervios el primer día.
+
+Javiera se lo tomó entero, de un trago, porque tenía la boca seca y porque Yasna se lo puso en la mano con una sonrisa que no admitía devolución. No supo bien a qué sabía: dulce, con un fondo amargo detrás, parecido y no parecido al café. El pecho se le aflojó apenas lo tragó, un calor bajo y parejo, como el de una copa de vino, y se dijo que eran los nervios soltándose solos.
+
+Antes de salir al salón entró al baño chico del fondo y devolvió, en silencio, lo poco que había comido esa mañana. Se lavó la boca en un lavamanos sin espejo, se acomodó la falda otra vez con las dos manos, y salió.
+
+---
+
+Se quedó ahí, contando hacia atrás, y el número no volvió.
+
+Sirvió cuatro cafés seguidos sin que pasara nada. Nadie la miró más de lo normal, la máquina hizo el ruido de siempre, y una compañera le pasó un trapo húmedo sin decirle una palabra. Se tiró la falda hacia abajo, otra vez, antes de agacharse a sacar la leche, y decidió que daba lo mismo el número exacto de la cuenta: bastaba con que el total fuera parecido al de siempre, al final del turno, cuando alguien más lo contara por ella.
+
+Al otro lado de la barra, un hombre de camisa celeste clara y corbata suelta la miraba fijo desde hacía rato. No de reojo, como los de la calle de arriba: derecho, sin apuro, con el vaso vacío hacía tiempo y ninguna intención de pedir otro. Javiera le sostuvo la mirada medio segundo más de lo que hacía falta para cobrarle el café, y un músculo, abajo, se le contrajo solo, sin que ella se lo pidiera.
+
+Se dio vuelta hacia la máquina. Cargó el portafiltro. Apisonó.
+
+Don Nelson pasó por detrás, con el paño al hombro, sin frenar el paso.
+
+—¿Almorzaste?
+
+—No.
+
+No dijo nada más. A las dos y cuarenta le puso un sobre en la mano —el día completo, aunque el turno de prueba era de cuatro horas y ya iba en cinco— y le dijo, ya de espaldas, que la esperaban pasado mañana, temprano.
+
+Se cambió en el camarín con las piernas todavía temblando por el taco. Sobre el mesón del espejo había una taza despostillada, con un dibujo de flores casi borrado, que nadie parecía usar nunca. ¿Cuánto —empezó a preguntarse— llevaba ahí?, pero el pie le dolía más que la curiosidad y no terminó de hacerse la pregunta.
+
+En el espejo, mientras se sacaba la falda, vio la línea rosada horizontal que le cruzaba las caderas a la altura del pubis, marcada por el filo de la barra, y el surco que la costura de la media le había dejado en la cara interna del muslo. En el antebrazo derecho tenía dos puntitos rojos, chicos, del vaporizador. Se acomodó la tanga con dos dedos, sin pensarlo, y la sintió mojada del todo. Le temblaron los gemelos cuando por fin se sacó el taco.
+
+Le pasaba lo mismo que a cualquiera, se dijo, después de cuatro horas paradas a un metro de una máquina que no dejaba de tirar calor.
+
+Se vistió con su ropa de siempre y salió a una calle que todavía era de día. Caminó dos cuadras hasta el paradero con el pelo suelto, y en algún momento se llevó la mano a la nariz sin darse cuenta de que lo estaba haciendo: olía a café, entero, como si se lo hubieran servido encima en vez de adentro. Le iba a durar así hasta la noche, y un poco más allá de la noche, en la almohada.
