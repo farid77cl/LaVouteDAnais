@@ -1,0 +1,1 @@
+Se apoyó ahí un segundo, con las caderas, porque los pies. porque los pies que???
