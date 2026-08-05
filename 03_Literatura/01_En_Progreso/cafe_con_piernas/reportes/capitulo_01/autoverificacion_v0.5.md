@@ -61,3 +61,7 @@ Pasada de cazador aplicada sobre el archivo cerrado antes de esta autoverificaci
 - **Continuidad de nombres:** se nombra a Pauli (H29) y a Cristóbal (H22) explícitamente en el raconto, donde v0.4 los dejaba genéricos en algunos pasos — mejora la trazabilidad de hechos plantados sin agregar escenas.
 - El "otro yo" (§6c) no aparece, correctamente — nace en Cap 2.
 - Javiera no se toca pensando en el trabajo ni reconoce gusto consciente por nada — respeta el límite de la curva de resistencia Cap 1-2.
+
+## 🆕 Añadido puntual (post-Gate, 2026-08-05) — primera insinuación de "el otro yo"
+
+Por pedido directo de la Ama: se agregó, pegada a la última frase del capítulo (*"Le iba a durar así hasta la noche, y un poco más allá de la noche, en la almohada."*), la línea: *"Qué rico olor, pensó, casi sin darse cuenta, como si se lo hubiera puesto ella misma para gustarse."* — no es el nacimiento oficial de §6c (eso sigue en Cap 2, ~Día 45, pidiendo objetos): es la primera vez que se roza la textura coqueta/tibia de esa voz, sin comillas ni marca, sin pedir nada, apagándose sin comentario. No pide objetos ni miradas — solo un segundo de gusto por el propio olor. Sin contradicción con H31 en `cronologia.md`, que queda actualizada con esta nota. No se tocó el resto del capítulo, no se corrió humanizador completo (2 frases, cambio quirúrgico), no se modificó `canon_relato.md`.

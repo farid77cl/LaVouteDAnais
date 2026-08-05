@@ -94,4 +94,4 @@ Se cambió en el camarín con las piernas todavía temblando por el taco. Detrá
 
 Le pasaba lo mismo que a cualquiera, se dijo, después de cuatro horas paradas a un metro de una máquina que no dejaba de tirar calor.
 
-Se vistió con su ropa de siempre y salió a una calle que todavía era de día. Caminó dos cuadras hasta el paradero con el pelo suelto, y en algún momento se llevó la mano a la nariz sin darse cuenta de que lo estaba haciendo: olía a café, entero, como si se lo hubieran servido encima en vez de adentro. Le iba a durar así hasta la noche, y un poco más allá de la noche, en la almohada.
+Se vistió con su ropa de siempre y salió a una calle que todavía era de día. Caminó dos cuadras hasta el paradero con el pelo suelto, y en algún momento se llevó la mano a la nariz sin darse cuenta de que lo estaba haciendo: olía a café, entero, como si se lo hubieran servido encima en vez de adentro. Le iba a durar así hasta la noche, y un poco más allá de la noche, en la almohada. Qué rico olor, pensó, casi sin darse cuenta, como si se lo hubiera puesto ella misma para gustarse.
