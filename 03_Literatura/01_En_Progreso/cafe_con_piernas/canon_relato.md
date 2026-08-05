@@ -268,8 +268,13 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 - **El artículo delante del nombre propio:** se escribe **Javiera / Javi / Camila / Cami / Yasna**, nunca *la Javi*, *la Cami*. Es el marcador regional más denso del texto y aparecía en cada párrafo.
 
 ✅ **EL 5% QUE SÍ VIVE — y vive en los sustantivos, no en la conjugación:**
-**café con piernas · la galería · el paseo · la barra · la tarima · el turno · atender · el casero · la cuota · el minuto · el privado · el salón · el sótano · el camarín · los "uniformes" · la micro · las lucas · el departamento · el celular.**
+**café con piernas · la galería · el paseo · la barra · la tarima · el turno · atender · el casero · la cuota · el minuto · el privado · el salón · el sótano · el camarín · los "uniformes" · la micro · las lucas · el departamento · el celular · la luquita · café con vestidito.**
 Se usan **porque nombran cosas que no tienen otro nombre**, no como sabor. Dos o tres por escena bastan. La geografía real del centro se conserva (calles, paseo, galería) — es la vitrina, no el acento.
+
+> 🆕 **Vocabulario confirmado por fuente real (`investigacion.md`, enriquecido 05/08/2026):**
+> - **La luquita** — la propina esperada por café (~$1.000-2.000 CLP). Sobre-propinar es código social leído como intento de acercamiento romántico (*"el que deja más, es tonto o intenta ponerla"*, r/Santiago). Yasna puede enseñárselo a Javiera como calibración práctica del oficio, nunca como advertencia moral.
+> - **Café con vestidito** — así llaman las dueñas reales a los locales clásicos/decentes (tipo Haití/Caribe, solo minifalda, a pie de calle), para distinguirse de los suyos. Útil en boca de Yasna para jerarquizar locales — el café del paseo (§6, solo mencionado) ES un café con vestidito visto desde adentro del Yakarta.
+> - **"El único cuidado que hay que tener es no enamorarse"** (testimonio real, r/Santiago) — frase lista para Yasna o don Nelson: suena a consejo de oficio, nunca a advertencia sobre el aparato (Ley 4 intacta).
 
 **🔁 EL CONTAGIO DE REGISTRO CAMBIA DE MATERIA (esto reemplaza al viejo mecanismo dialectal):**
 Javiera ya no se contagia *chilenismos*: se contagia **la jerga del oficio**. Empieza diciendo *"el trabajo", "los clientes", "el local"* y termina diciendo, sin darse cuenta, *"la pega", "los caseros", "el minuto", "estoy de turno"*. **Es más fuerte que el dialecto**, porque no la vuelve de otro país: la vuelve del local. Se le nota en la boca antes que en el cuerpo, y el texto nunca lo comenta.
