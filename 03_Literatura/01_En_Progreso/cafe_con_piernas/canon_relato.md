@@ -169,7 +169,7 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 
 | Peldaño | Qué cambia | Cap | Quién lo pide |
 |---|---|---|---|
-| 0 | El uniforme del local (falda, camisa, tacos prestados) | 1 | El local, y llega **después** de aceptar |
+| 0 | El uniforme del local (falda, camisa, tacos prestados) — **excepción de LA PRUEBA únicamente**; el uniforme real del local es bikini/microbikini/microfalda que deja medio trasero al aire/tanga/monokini de tiras (entrepierna→pezones→cuello), con días temáticos (colegiala, deportivo, etc.). Sin medias salvo lencería con liguero. Javiera lo ve puesto en sus compañeras desde el Cap 1 y sabe que tendrá que adaptarse | 1 | El local, y llega **después** de aceptar |
 | 1 | **Maquillaje + su primer taco propio, más alto** | 2 | 🗣️ **La voz, fuera del local. Ella lo compra.** |
 | 2 | Falda mínima + top + liguero · gustarles a propósito | 3 | Ella pregunta si puede |
 | 3 | **Uñas** | 3 | Ella · el local se las adelanta |
