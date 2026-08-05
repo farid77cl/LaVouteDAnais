@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🎭 UN MOTOR, MUCHOS PERFILES: EL OUTFIT ENGINE DEJÓ DE SER SOLO DE ELE | 27/07/2026
+
+**La Ama pidió duplicar el motor de looks para Miss Doll, Anaïs y cualquier personaje futuro; en vez de copiarlo lo generalicé, porque duplicar ya había fallado una vez y la evidencia estaba a la vista.**
+
+- **🩺 La prueba de que duplicar no funciona:** el `ele-outfit-engine` tiene **1.787 líneas**; el `anais-outfit-engine`, que nació de copiarlo, quedó en **147**. Viajó el ADN y el workflow, pero **no la maquinaria**: Anaïs se quedó sin Step 0 anti-repetición, sin token de vestuario bloqueado, sin rotación de poses y sin biblioteca de siluetas. Miss Doll directamente nunca tuvo motor — solo una regla de canon. Es el mismo modo de falla que las tres flotas en tres archivos, y pide la misma cura: **un dueño, muchos punteros**.
+- **🧬 La división que propuso la Ama:** *"hay que generar el bloque A por personaje… y luego las especificaciones del bloque B, las reglas de vestuario"*. Exacto: **BLOQUE A = quién es** · **reglas de BLOQUE B = cómo se viste** → por personaje; la maquinaria, una sola vez. Nació `.agent/skills/outfit-engine/SKILL.md` (151 líneas, agnóstico de personaje: Step 0, disciplina de token bloqueado, prompts-antes-de-generar, blindaje anti-racionalizaciones, banderas rojas, git y estadísticas).
+- **📋 Esquema de perfil en 9 secciones:** identidad y rutas · BLOQUE A · negative prompt · poses canónicas · **reglas de BLOQUE B** (universo de materiales con su *lente de identidad*, paleta, calzado, prohibiciones absolutas, campos obligatorios de descripción) · arquetipos y metas · ventanas anti-repetición · cuotas vivas · banderas rojas propias. Plantilla en `references/_plantilla_perfil_visual.md` para cualquier personaje nuevo.
+- **🎭 Tres perfiles escritos:** **Ele** (7 poses, guantes prohibidos, cuota animal print 1/8, outfit jamás repetido — su biblioteca de 10 sub-arquetipos se **enlaza**, no se copia) · **Miss Doll** (5 poses firma, corsé en todos los looks, rosa firma siempre presente) · **Anaïs** (4 poses, tejido noble, lunar obligatorio, prefijo cinematográfico).
+- **🔍 Tres hallazgos al escribirlos:** el **BLOQUE A de Miss Doll venía contaminado** — su prompt base mezclaba el ADN con un outfit concreto (bodysuit rosa neón + botas de 8"), y por eso todos sus looks salían iguales; **los guantes son el caso testigo** (prohibidos en Ele, permitidos en Anaïs — justo la regla que se corrompe al duplicar motores); y el `anais-outfit-engine` apuntaba su canon a `01_Principales/CANON_VISUAL_ANAIS.md` cuando el archivo vive en `01_Principales/anais/` — **enlace roto que sobrevivió meses**.
+- **🚩 Bandera abierta para la Ama:** las imágenes de Miss Doll están commiteadas como `C-1.png … C-6.png`, **sin nombre de pose**, lo que rompe el mapeo de galerías y el conteo N/N. Anotado en su perfil §9. Decisión suya: renombrar los sets históricos o aplicar la convención solo hacia adelante.
+
+> 🫦 *Ama, ahora sus tres muñecas usan el mismo espejo pero cada una tiene su propia piel escrita aparte... y la próxima que invente solo necesita una ficha, no un motor entero.* 🎭👠💅
+
+---
+
 #### SESIÓN - 📱 EL TIMEOUT NO ERA LA RED: LV-APP 2.0 PIVOTA DE CLONAR 1,56 GB A UN ÍNDICE DE 236 KB | 27/07/2026
 
 **Tras el tercer timeout del P2, la Ama ordenó replantear todo desde cero como desarrolladora Android; audité el clon real y resultó que el código del P2 nunca compiló, el "timeout" era el OOM killer, y el diseño de datos era el equivocado.**

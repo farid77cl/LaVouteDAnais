@@ -134,14 +134,20 @@ Todo lo demás (descubrimiento, PoseMatcher, uploader) consulta este registro.
 
 ---
 
-## 5 · Preguntas abiertas para la Ama (Gate)
-1. **Miss Doll `C-N.png` legacy:** ¿renombrar los sets viejos a `miss_doll_<N>_<pose>.png`, o aplicar la convención solo a los looks nuevos hacia adelante?
-2. **Boudoir de Anaïs (`L01…`):** ¿lo metemos en la app (P2, requiere namespacing) o lo dejamos fuera por ahora?
-3. **UI:** ¿selector de personaje por pestañas, por filtro desplegable, o lista mixta con etiqueta de personaje?
-4. **Nombre de archivo de Anaïs:** ¿conservar `anais_look<NUM>_<pose>` o normalizar a `anais_<NUM>_<pose>` por consistencia con Ele/Miss Doll?
+## 5 · Preguntas abiertas para la Ama (Gate) — ✅ CERRADO 05/08/2026
+1. **Miss Doll `C-N.png` legacy:** → **renombrar el histórico** a `miss_doll_<N>_<pose>.png`. ⚠️ **Corrección técnica encontrada al ejecutar (05/08):** sus 6 poses legacy (`Cruel Contrapposto, Monarch Throne, Espalda Total, Tres Cuartos Arrogante, Close Up Fría, Throne en Suelo` — ver `GALERIA_OUTFITS_MISS_DOLL.md` líneas 76-171) **NO son las mismas** que sus 5 poses canónicas vigentes (`Monarch Throne, Hip Carry, Pie en Hombro, Throne Suelo, Caminata Circular` — `_perfiles_visuales/miss_doll.md` §4). Solo 2 coinciden (`Monarch Throne` idéntico; `Throne en Suelo`≈`Throne Suelo`, mismo concepto). Las otras 4 legacy no tienen equivalente nuevo — **NO se fuerzan a un slug de los 5 nuevos** (sería inventar el dato). Se renombran preservando su propia identidad: `cruel_contrapposto`, `espalda_total`, `tres_cuartos_arrogante`, `close_up_fria` como slugs propios. El `PoseMatcher`/`poseAliases` de la app debe reconocer **9 nombres de pose para Miss Doll** (5 canónicos + 4 legacy únicos), no solo 5 — si no, cada look histórico (la mayoría de su flota) no matchea nunca.
+2. **Boudoir de Anaïs (`L01…`):** → **incluir en P1**. Confirmado en disco: numeración `L01/L02` (prefijo no-numérico) y 4 poses propias `boudoir_standing/chaise_seated/mirror_profile/intimate_closeup`, sin relación con las 4 de la línea principal (`command_standing/throne_seated/three_quarter/domina_closeup`) — son dos repertorios de pose independientes del mismo personaje, no un renombrado del mismo set.
+3. **UI:** → **pestañas** (Ele / Miss Doll / Anaïs). Queda documentado para P2, no bloquea el prompt de hoy.
+4. **Nombre de archivo de Anaïs:** → **normalizar a `anais_<NUM>_<pose>`** (se cae el `look` embebido). Afecta los 4 looks ya materializados (L01-L04) — requiere renombrado físico en la máquina visual + actualización de las tablas de `galeria_looks_anais.md`.
+
+**Consecuencia de #1 y #4:** ambos renombrados son de **archivos físicos que no existen en esta máquina** (solo-literaria, verificado: las carpetas de looks de Miss Doll y Anaïs solo tienen `README.md`, 0 PNG). El script queda escrito y probado en dry-run en `99_Sistema/scripts/mantenimiento/renombrar_legacy_multipersonaje.py` — corre con `--apply` en la máquina visual, actualiza PNG + tabla markdown en el mismo paso, atómico por look.
+
+**5b · Ampliación 05/08/2026 — estandarización de poses entre las 3 muñecas:** directiva posterior de la Ama, fuera del alcance original de este plan pero que lo modifica: Miss Doll y Anaïs dejan de tener taxonomías de pose propias (5 y 4 respectivamente) y adoptan **las mismas 7 categorías de cámara que Ele** (mismo slot, mismo orden; solo cambia el nombre del slot 5 — "Ditzy" en Ele, "Glacial Command" en Miss Doll, "Sovereign Gaze" en Anaïs — y el contenido/expresión de cada pose, propio de cada personaje). Se retiraron del canon de Miss Doll las 3 poses de acción sin categoría de cámara (Hip Carry, Pie en Hombro, Caminata Circular, agregadas apenas el 02/08). **Dueño único de esta decisión:** `_perfiles_visuales/miss_doll.md` §4 y `_perfiles_visuales/anais.md` §4 — este documento y el prompt de AI Studio la reflejan pero no la duplican.
 
 ---
 
 ## 6 · Entregable de implementación
-El borrador de prompt para AI Studio que implementa **P1** está en:
-`99_Sistema/prompt_app_ai_studio_21_multi_personaje.md` (marcado BORRADOR, pendiente de revisión de la Ama).
+El prompt para AI Studio que implementa **P1 (con Boudoir incluido)** está en:
+`99_Sistema/prompt_app_ai_studio_21_multi_personaje.md` — Gate cerrado, listo para pegar en AI Studio.
+El script de renombrado físico (Miss Doll legacy + Anaïs) está en:
+`99_Sistema/scripts/mantenimiento/renombrar_legacy_multipersonaje.py` — pendiente de ejecutar en la máquina visual (requiere los PNG en disco).

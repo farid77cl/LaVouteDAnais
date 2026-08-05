@@ -13,7 +13,7 @@
 | **Slug** | `anais` |
 | **Galería** | `02_Personajes/01_Principales/anais/galeria_looks_anais.md` |
 | **Carpeta de imágenes** | `05_Imagenes/anais/look<NUM>_<slug>/` |
-| **Convención de nombre** | `anais_look<NUM>_<pose>.png` |
+| **Convención de nombre** | `anais_<NUM>_<pose>.png` *(normalizado 05/08/2026 — antes `anais_look<NUM>_<pose>.png`; afecta L01-L04 ya materializados, renombrado pendiente en la máquina visual)* |
 | **Numeración** | correlativa · **Boudoir/Lencería usa prefijo `L`** (L01, L02…), serie separada |
 | **Canon profundo (enlace)** | [`01_Principales/anais/CANON_VISUAL_ANAIS.md`](../01_Principales/anais/CANON_VISUAL_ANAIS.md) — **autoridad máxima, prevalece en todo conflicto** *(el `anais-outfit-engine` lo apuntaba a `01_Principales/` sin la subcarpeta: enlace roto, corregido 27/07)* |
 | **ADN listo para copiar** | `.agent/skills/anais-outfit-engine/references/dna_v2_3.md` |
@@ -60,16 +60,23 @@
 
 ## §4 · Poses Canónicas
 
-| # | Nombre canónico | Slug de archivo | Descripción |
-|---|---|---|---|
-| 1 | **command_standing** | `standing` | Cuerpo entero, tres cuartos, peso en una cadera, mirada fría de mando a cámara, setting completo |
-| 2 | **throne_seated** | `seated` | Sentada (silla/chaise/trono coherente con el setting), piernas cruzadas en rodilla, mano en reposabrazos |
-| 3 | **three_quarter** | `three_quarter` | Giro de hombro hacia cámara, mirada fría por encima del hombro, hourglass definida por la luz |
-| 4 | **domina_closeup** | `closeup` | Plano medio desde el pecho, mirada directa, lunar visible, détalle de escote |
+> **Estandarizado 05/08/2026 (directiva Ama):** las 3 muñecas comparten las mismas **7 categorías de cámara** que Ele — mismo slot, mismo orden, mismo propósito de encuadre — el motor de poses y la app las tratan con una sola taxonomía. El contenido/expresión de cada slot es 100% propio de Anaïs. La línea **Boudoir** (`L01…`, 4 poses: `boudoir_standing/chaise_seated/mirror_profile/intimate_closeup`) queda **fuera de este remapeo** — es su propio submundo de lencería, con su propia numeración y taxonomía; no se toca acá.
 
-- **Total por look:** 4
+**7 poses (mismo slot que Ele, contenido de Anaïs):**
+
+| # | Categoría (universal) | Nombre de pose | Slug de archivo | Descripción |
+|---|---|---|---|---|
+| 1 | Standing | command_standing | `standing` | Cuerpo entero, tres cuartos, peso en una cadera, mirada fría de mando a cámara, setting completo |
+| 2 | Back View | mirror_back *(nueva — 05/08)* | `back_view` | De espaldas ante un espejo del set (tocador, salón), guante trazando la curva desnuda de la espalda, mirada por sobre el hombro hacia el reflejo — nunca directo a cámara |
+| 3 | Seated | throne_seated | `seated` | Sentada (silla/chaise/trono coherente con el setting), piernas cruzadas en rodilla, mano en reposabrazos |
+| 4 | Side Profile | three_quarter | `side_profile` | Giro de hombro hacia cámara, mirada fría por encima del hombro, hourglass definida por la luz |
+| 5 | **Sovereign Gaze** *(slot Ditzy de Ele, renombrado — su registro es dominio, no vacío)* | domina_closeup | `sovereign_gaze` | Plano medio desde el pecho, mirada directa, lunar visible, detalle de escote |
+| 6 | POV | kneeling_pov *(nueva — 05/08)* | `pov` | Vista desde abajo, como si el lector estuviera arrodillado ante ella — su mirada fría cae sobre el lente desde ese ángulo |
+| 7 | Odalisque | chaise_command *(nueva — 05/08)* | `odalisque` | Reclinada en el chaise longue de su despacho o salón, vestuario de gala/látex de grado clínico — misma arquitectura que su Boudoir pero sin lencería |
+
+- **Total por look:** 7
 - **Fórmula del prompt (particularidad de Anaïs):** `[PREFIJO CINEMATOGRÁFICO] + [BLOQUE A] + [BLOQUE B] + [BLOQUE C]` — lleva un prefijo cinematográfico que los demás personajes no usan.
-- **Repertorio de variaciones:** ⚠️ **no existe todavía.** Las 4 poses son fijas. Rotar al menos el ángulo, el nivel de contacto y la relación con el mobiliario para que 4 looks seguidos no se vean idénticos.
+- **Repertorio de variaciones:** las 4 poses originales (command_standing/throne_seated/three_quarter/domina_closeup) ya materializadas en L01-L04 mantienen su nombre y contenido — solo se les asigna categoría universal por alias, no se regeneran. Las 3 nuevas (mirror_back/kneeling_pov/chaise_command) se estrenan desde el próximo look. Rotar al menos el ángulo, el nivel de contacto y la relación con el mobiliario para que looks consecutivos no se vean idénticos.
 
 ---
 

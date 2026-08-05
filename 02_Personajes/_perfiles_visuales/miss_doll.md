@@ -56,18 +56,22 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 ## §4 · Poses Canónicas
 
-**5 poses firma** (canon vigente, de la regla 05 + su sistema de poses):
+> **Estandarizado 05/08/2026 (directiva Ama):** las 3 muñecas (Ele/Miss Doll/Anaïs) comparten las mismas **7 categorías de cámara** — mismo slot, mismo orden, mismo propósito de encuadre — para que el motor de poses y la app las traten con una sola taxonomía. El contenido/expresión de cada slot sigue siendo 100% propio de cada personaje. **Retirado en este cambio:** Hip Carry contra Barra, Pie en Hombro y Caminata Circular (poses de acción del rediseño 02/08, ninguna corresponde a una categoría de cámara) — quedan fuera del canon vigente.
 
-| # | Nombre canónico | Slug de archivo | Nota |
-|---|---|---|---|
-| 1 | Monarch Throne | `monarch_throne` | Sentada, piernas 60-90°, codos en reposabrazos, barbilla ladeada |
-| 2 | Hip Carry contra Barra | `hip_carry` | Cadera contra el pole, peso cargado, línea de pierna larga |
-| 3 | Pie en Hombro | `pie_en_hombro` | Stiletto apoyado sobre el hombro del sub |
-| 4 | Throne en Suelo con Crop | `throne_suelo` | Suelo, piernas en V abierta, codos en rodillas, crop en mano |
-| 5 | Caminata Circular Lenta | `caminata_circular` | Step-and-stop, interrupción brusca en contrapposto |
+**7 poses (mismo slot que Ele, contenido de Miss Doll):**
 
-- **Total por look:** 5
-- **Repertorio de variaciones:** el vocabulario completo (de pie / pole / floorwork / silla / con sub) está en `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` §2. Rotar dentro de cada categoría; no clonar la misma entrada dos looks seguidos.
+| # | Categoría (universal) | Nombre de pose | Slug de archivo | Nota |
+|---|---|---|---|---|
+| 1 | Standing | Cruel Contrapposto | `standing` | Cuerpo entero de pie, contrapposto agresivo, peso cargado en una cadera |
+| 2 | Back View | Espalda Total | `back_view` | Espalda completa a cámara, arquitectura de corsé visible, mirada por sobre el hombro |
+| 3 | Seated | Monarch Throne | `seated` | Sentada, piernas 60-90°, codos en reposabrazos, barbilla ladeada |
+| 4 | Side Profile | Tres Cuartos Arrogante | `side_profile` | Giro ¾ hacia cámara, peso en una cadera, mirada fría de perfil |
+| 5 | **Glacial Command** *(slot Ditzy de Ele, renombrado — no encaja una mirada vacía en su dominancia)* | Close Up Fría | `glacial_command` | Plano medio/primer plano, mirada fría de mando directo a cámara, cero calidez |
+| 6 | POV | Command POV *(nueva — 05/08)* | `pov` | Cámara a la altura de un sub arrodillado mirando hacia arriba; su mirada fría cae sobre el lente desde ese ángulo |
+| 7 | Odalisque | Throne en Suelo con Crop | `odalisque` | Suelo, piernas en V abierta, codos en rodillas, crop en mano |
+
+- **Total por look:** 7
+- **Repertorio de variaciones:** el vocabulario completo (de pie / pole / floorwork / silla / con sub) está en `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` §2 — sigue vigente como banco de detalle para redactar cada slot, ya no como poses standalone.
 - **Principio rector de pose:** *dispensa sensualidad como poder, no como oferta.* Un movimiento donde otras hacen tres. Pausas de 4+ segundos. La mirada se posa 2-4 s y **abandona deliberadamente**.
 
 ---
@@ -159,7 +163,7 @@ El BLOQUE B debe nombrar, sin excepción:
 
 ## §9 · Banderas Rojas Específicas
 
-- 🔴 **Sus imágenes NO usan nombre canónico de pose.** Los looks existentes están como `C-1.png … C-6.png`, sin identificar la pose. Eso rompe el mapeo de galerías y el N/N. **Pendiente de decisión de la Ama:** renombrar los sets existentes a `miss_doll_<N>_<pose>.png` o dejar el archivo histórico como está y aplicar la convención solo hacia adelante.
+- ✅ **RESUELTO 05/08/2026:** el histórico `C-1.png…C-6.png` se renombra a `miss_doll_<N>_<pose>.png` con los slugs de §4 (`standing/back_view/seated/side_profile/glacial_command/odalisque` — sin `pov`, no existía esa toma en el set legacy). Script: `99_Sistema/scripts/mantenimiento/renombrar_legacy_multipersonaje.py`, corre en la máquina visual (0 PNG en disco acá).
 - El BLOQUE A y el outfit vienen mezclados en el prompt base histórico (regla 05) → si al escribir un look aparece el bodysuit rosa neón "de fábrica", **es contaminación del Bloque A**: sepáralo.
 - Look sin arquitectura de corsé → no es Miss Doll.
 - Look sin rosa en ninguna parte → viola su cuota firma.

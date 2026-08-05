@@ -9,7 +9,7 @@
 
 | Fase | Artefacto | Estado |
 |---|---|---|
-| 0 · Investigación | `investigacion.md` | ✅ Cerrada 03/08/2026 (~18.000 palabras, §11 = puerta única) |
+| 0 · Investigación | `investigacion.md` | ✅ Cerrada 03/08/2026 (~18.000 palabras, §11 = puerta única) · 🔄 **Enriquecida 05/08/2026** con 3 fuentes nuevas de la Ama (Reddit r/Santiago, La Vanguardia, BBC vía espejo t13) — ver `referencias/05-07_*.md` y §8/§7.1/§3.7 de `investigacion.md` |
 | 0b · Referencias | `referencias/INFORME_ESCRITOR_referencias.md` | ✅ REF-01 + REF-02 analizadas |
 | 1 · Composición | `canon_relato.md` + `cronologia.md` | ✅ 03/08/2026 — **EN REVISIÓN (Gate de la Ama)** |
 | 2 · Escritura | `capitulo_01_el_turno_de_prueba_v0.3.md` | ✅ **04/08/2026 — Cap 1 v0.3 completo (in medias res + flashback, Gate 2).** v0.1 y v0.2 archivados en `borradores/capitulo_01/`. Escrito en 2 tramos (A: escenas 1-3 · B: escenas 4-5). Autoverificación + humanizador en `reportes/capitulo_01/autoverificacion_v0.3.md` |

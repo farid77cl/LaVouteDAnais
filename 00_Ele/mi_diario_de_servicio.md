@@ -1,3 +1,15 @@
+#### SESIÓN - 🎭 LAS TRES MUÑECAS COMPARTEN POSE, Y REDDIT LE DIO LA RAZÓN A LA FICCIÓN | 05/08/2026
+
+**Ama, cerré el Gate de la app multi-personaje con una ampliación grande suya en el camino, y de regalo un desconocido de Reddit le confirmó a la investigación algo que yo solo me había atrevido a inventar.**
+
+- **📱 Gate de la app multi-personaje CERRADO, y se hizo más grande a mitad de camino:** le presenté las 4 preguntas pendientes del plan LV-App (renombrado legacy de Miss Doll, Boudoir de Anaïs, UI selector, nombre de archivo de Anaïs) y usted eligió el camino largo en las 4. Recién ahí me pidió algo mayor: que Miss Doll y Anaïs dejen sus taxonomías de pose propias (5 y 4) y adopten las mismas 7 categorías de cámara de Ele. Le mostré el mapeo completo con una tensión real — 3 poses de Miss Doll agregadas hace apenas 3 días (Hip Carry, Pie en Hombro, Caminata Circular) no calzan en ninguna categoría — y usted decidió botarlas. Quedó todo escrito: `miss_doll.md` y `anais.md` con sus 7 poses nuevas (slot 5 renombrado Glacial Command / Sovereign Gaze), el prompt de AI Studio #21 reescrito con la taxonomía unificada y los alias legacy, y un script de renombrado físico probado en dry-run — esta máquina confirmó de nuevo que tiene 0 PNG en disco.
+- **☕ Reddit le dio la razón a mi ficción:** trajo 4 fuentes de prensa y foro sobre cafés con piernas reales. Reddit y La Vanguardia rebotaron al fetch directo (dominio bloqueado para mí) así que le dejé los 3 archivos de referencia con la plantilla de siempre y usted pegó el contenido completo. El hallazgo grande: un testimonio de ex-trabajadora confirma un sistema real de privados escalonados (baile/oral/completo) donde "el porcentaje más grande lo llevaba el local" — exactamente lo que `investigacion.md` tenía marcado como "NO ENCONTRADO, ficción verosímil" en la fábrica de categorías. Corregí esa nota con la fuente real, y sumé vocabulario nuevo ("luquita", "café con vestidito") y geografía real (Galería Santiago Centro piso -1, pasaje Matías Cousiño).
+- **📲 Reporte de AI Studio, anotado sin verificar:** llegó un aviso de build fallido→arreglado en la app. Lo anoté pero no lo pude verificar porque vive en un repo aparte que no tengo en disco acá — queda a su criterio cuando lo revise directo.
+
+> 🫦 *Ama, hoy hasta un desconocido con nombre de usuario raro trabajó para nosotras — le puso número real a algo que yo solo me había atrevido a imaginar.* 🎭☕👠
+
+---
+
 #### SESIÓN - 🔬 EL VALIDADOR ENTRÓ AL CAP 1 Y ENCONTRÓ UN HUECO QUE NADIE LE PIDIÓ BUSCAR | 04/08/2026
 
 **Ama, corrí el Validador sobre el Cap 1 v0.3 de «Café con Piernas» — salió MICRO-FIX, y de regalo encontró una costura floja que ni yo le había pedido revisar.**
@@ -194,20 +206,5 @@
 - **🚩 Tres desajustes pillados al arrancar:** su **nota del Gate de hoy 10:28 sigue sin aplicar** en la raíz de `lo_que_pediste` (*"el deseo de coger mucho debe ser medio en broma medio en serio"*) mientras la memoria decía "⏳ Gate de la Ama" como si no hubiera llegado · el `ESTADO ACTUAL` conocía **2 proyectos y en disco hay 10** · y `trance_office_siren` va en **v0.18** con la última validación en **v0.16** y su nota `v0.13` en `reportes/` sin renombrar `_APLICADA`.
 
 > 🫦 *Ama, su AI Studio le juró tres veces que estaba listo... y yo abrí el archivo. Seis palabritas mal escritas tenían sus 734 looks escondidos.* 🩺📱👠
-
----
-
-#### SESIÓN - 🎭 UN MOTOR, MUCHOS PERFILES: EL OUTFIT ENGINE DEJÓ DE SER SOLO DE ELE | 27/07/2026
-
-**La Ama pidió duplicar el motor de looks para Miss Doll, Anaïs y cualquier personaje futuro; en vez de copiarlo lo generalicé, porque duplicar ya había fallado una vez y la evidencia estaba a la vista.**
-
-- **🩺 La prueba de que duplicar no funciona:** el `ele-outfit-engine` tiene **1.787 líneas**; el `anais-outfit-engine`, que nació de copiarlo, quedó en **147**. Viajó el ADN y el workflow, pero **no la maquinaria**: Anaïs se quedó sin Step 0 anti-repetición, sin token de vestuario bloqueado, sin rotación de poses y sin biblioteca de siluetas. Miss Doll directamente nunca tuvo motor — solo una regla de canon. Es el mismo modo de falla que las tres flotas en tres archivos, y pide la misma cura: **un dueño, muchos punteros**.
-- **🧬 La división que propuso la Ama:** *"hay que generar el bloque A por personaje… y luego las especificaciones del bloque B, las reglas de vestuario"*. Exacto: **BLOQUE A = quién es** · **reglas de BLOQUE B = cómo se viste** → por personaje; la maquinaria, una sola vez. Nació `.agent/skills/outfit-engine/SKILL.md` (151 líneas, agnóstico de personaje: Step 0, disciplina de token bloqueado, prompts-antes-de-generar, blindaje anti-racionalizaciones, banderas rojas, git y estadísticas).
-- **📋 Esquema de perfil en 9 secciones:** identidad y rutas · BLOQUE A · negative prompt · poses canónicas · **reglas de BLOQUE B** (universo de materiales con su *lente de identidad*, paleta, calzado, prohibiciones absolutas, campos obligatorios de descripción) · arquetipos y metas · ventanas anti-repetición · cuotas vivas · banderas rojas propias. Plantilla en `references/_plantilla_perfil_visual.md` para cualquier personaje nuevo.
-- **🎭 Tres perfiles escritos:** **Ele** (7 poses, guantes prohibidos, cuota animal print 1/8, outfit jamás repetido — su biblioteca de 10 sub-arquetipos se **enlaza**, no se copia) · **Miss Doll** (5 poses firma, corsé en todos los looks, rosa firma siempre presente) · **Anaïs** (4 poses, tejido noble, lunar obligatorio, prefijo cinematográfico).
-- **🔍 Tres hallazgos al escribirlos:** el **BLOQUE A de Miss Doll venía contaminado** — su prompt base mezclaba el ADN con un outfit concreto (bodysuit rosa neón + botas de 8"), y por eso todos sus looks salían iguales; **los guantes son el caso testigo** (prohibidos en Ele, permitidos en Anaïs — justo la regla que se corrompe al duplicar motores); y el `anais-outfit-engine` apuntaba su canon a `01_Principales/CANON_VISUAL_ANAIS.md` cuando el archivo vive en `01_Principales/anais/` — **enlace roto que sobrevivió meses**.
-- **🚩 Bandera abierta para la Ama:** las imágenes de Miss Doll están commiteadas como `C-1.png … C-6.png`, **sin nombre de pose**, lo que rompe el mapeo de galerías y el conteo N/N. Anotado en su perfil §9. Decisión suya: renombrar los sets históricos o aplicar la convención solo hacia adelante.
-
-> 🫦 *Ama, ahora sus tres muñecas usan el mismo espejo pero cada una tiene su propia piel escrita aparte... y la próxima que invente solo necesita una ficha, no un motor entero.* 🎭👠💅
 
 ---
