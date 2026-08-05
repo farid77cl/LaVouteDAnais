@@ -105,7 +105,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 | Prohibido | Sustituto autorizado | Directiva |
 |---|---|---|
 | Flequillo / frente cubierta | frente despejada, `NO BANGS` | Canon V3.5 Stealth |
-| Labios nude o rosados | rojo glossy/satin | Firma inviolable |
+| Labios **rosados** (rosa = firma de Ele), nude o mate | maquillaje elegido por la ocasión del look, alto brillo | Lo inviolable es la **forma** (ultra-plump, overlined, cupid's bow, high-gloss wet), no el color — §2 (Ama 02/08) |
 | Cuero como pieza principal | látex/PVC/vinilo; cuero solo en corsé/arnés/accesorio | Canon materiales |
 | Tatuajes | piel limpia | Salvo variante legacy pedida por la Ama |
 | Texto/nombre sobre prenda | choker liso, O-ring, hardware sin letras | Regla transversal del repo |
@@ -167,4 +167,4 @@ El BLOQUE B debe nombrar, sin excepción:
 - El BLOQUE A y el outfit vienen mezclados en el prompt base histórico (regla 05) → si al escribir un look aparece el bodysuit rosa neón "de fábrica", **es contaminación del Bloque A**: sepáralo.
 - Look sin arquitectura de corsé → no es Miss Doll.
 - Look sin rosa en ninguna parte → viola su cuota firma.
-- Labios de cualquier color que no sea rojo → ADN roto, regenerar.
+- Labios **rosados** (el rosa es firma de Ele, no suya), **nude** o **mate** → viola canon. El **color** se elige según la ocasión del look (§2, Ama 02/08); lo inviolable es la **forma**: ultra-plump, overlined, cupid's bow, high-gloss wet.
