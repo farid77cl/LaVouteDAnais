@@ -1,1 +1,1 @@
-Se apoyó ahí un segundo, con las caderas, porque los pies. porque los pies que??? comprime la parte previa el raconto. está bien que la prota tenga motivación, pero está demasiado largo
+Se apoyó ahí un segundo, con las caderas, porque los pies. porque los pies que??? comprime la parte previa el raconto. está bien que la prota tenga motivación, pero está demasiado largo. además la amiga cambió pero no lo suficiente 
