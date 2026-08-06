@@ -30,17 +30,15 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 ## 👑 Look 01: La Regenta — Noche en La Voûte
 
-- **Ubicacion:** `05_Imagenes/anais/look01_slug/`
-- **Categoria:** Aparición estándar
-- **Color:** Negro satén + perlas marfil
-- **Tags:** #anais #look01
-- **Concepto:** Su aparición de noche habitual. Entra y el silencio llega antes que ella.
-- **Outfit:** structured black satin fitted column dress with elegant sweetheart neckline nipped at waist floor-length, double-strand ivory pearl necklace resting on décolleté, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Aparición estándar · **Paleta:** Negro satén + perlas marfil · **Sin medias**
+**Referencia:** Ava Gardner en el Moulin Rouge
 
-### 📝 Prompts
+**Concepto:** Su aparición de noche habitual. Entra y el silencio llega antes que ella.
+
+**BLOQUE B:**
+`structured black satin fitted column dress with elegant sweetheart neckline nipped at waist floor-length, double-strand ivory pearl necklace resting on décolleté, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -66,21 +64,28 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, structured black satin sweetheart neckline visible at frame bottom, double-strand ivory pearl necklace, black satin opera gloves visible at arms, medium shot from chest up, cold darkly sensual gaze directly into camera — the look of a woman who has already written your story, beauty mark visible above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above-left deep shadow on right side of face warm amber candlelight glow from behind dark La Voûte interior bokeh, cinematic film noir depth old Hollywood dark sensuality.
 ```
 
+### 📸 Imágenes (4/4 - 100% Completo)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look01_standing.png` |
+| **Seated** | `anais_look01_seated.png` |
+| **Three-Quarter** | `anais_look01_three_quarter.png` |
+| **Close-up** | `anais_look01_closeup.png` |
+
 ---
 
 ## 👑 Look 02: Rubí de Poder — Burdeos Absoluto
 
-- **Ubicacion:** `05_Imagenes/anais/look02_slug/`
-- **Categoria:** Intensidad / poder
-- **Color:** Burdeos rubí + dorado antiguo
-- **Tags:** #anais #look02
-- **Concepto:** El burdeos es su señal — no de peligro, sino de consecuencias.
-- **Outfit:** floor-length deep ruby burgundy satin bias-cut gown with draped off-shoulder neckline and deep back slit, antique gold chandelier earrings, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Intensidad / poder · **Paleta:** Burdeos rubí + dorado antiguo · **Sin medias**
+**Referencia:** Rita Hayworth en Gilda
 
-### 📝 Prompts
+**Concepto:** El burdeos es su señal — no de peligro, sino de consecuencias.
+
+**BLOQUE B:**
+`floor-length deep ruby burgundy satin bias-cut gown with draped off-shoulder neckline and deep back slit, antique gold chandelier earrings, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -106,21 +111,28 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, deep ruby burgundy satin off-shoulder neckline visible at frame bottom, antique gold chandelier earrings catching warm light, black satin gloves visible at arms, medium shot chest up, cold darkly sensual gaze directly into camera beauty mark above upper left lip sculpted cheekbones ruby satin and gold earrings in dramatic chiaroscuro dark La Voûte interior bokeh, old Hollywood power.
 ```
 
+### 📸 Imágenes (4/4 - 100% Completo)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look02_standing.png` |
+| **Seated** | `anais_look02_seated.png` |
+| **Three-Quarter** | `anais_look02_three_quarter.png` |
+| **Close-up** | `anais_look02_closeup.png` |
+
 ---
 
 ## 👑 Look 03: Gala Marfil — Grace Kelly en París
 
-- **Ubicacion:** `05_Imagenes/anais/look03_slug/`
-- **Categoria:** Gala / Premiere
-- **Color:** Marfil satén + diamantes negros
-- **Tags:** #anais #look03
-- **Concepto:** Anaïs en su forma más inalcanzable. El marfil no es inocencia — es la distancia calculada.
-- **Outfit:** floor-length ivory satin column gown with architectural bateau neckline and structured bodice, black diamond chandelier earrings, long ivory satin opera gloves to upper arm, black fur stole draped over left shoulder, small black patent leather evening clutch, sheer ivory nylon stockings, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Gala / Premiere · **Paleta:** Marfil satén + diamantes negros · **Con medias** (sheer nude o ivory)
+**Referencia:** Grace Kelly, To Catch a Thief
 
-### 📝 Prompts
+**Concepto:** Anaïs en su forma más inalcanzable. El marfil no es inocencia — es la distancia calculada.
+
+**BLOQUE B:**
+`floor-length ivory satin column gown with architectural bateau neckline and structured bodice, black diamond chandelier earrings, long ivory satin opera gloves to upper arm, black fur stole draped over left shoulder, small black patent leather evening clutch, sheer ivory nylon stockings, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -146,21 +158,28 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic glamour close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, ivory satin bateau neckline visible at frame bottom, black diamond chandelier earrings catching golden light, long ivory satin gloves at arms, medium shot chest up, cold distant composed gaze she sees past the camera beauty mark above upper left lip ivory satin and black diamond earrings in warm gala lighting, old Hollywood aristocratic glamour.
 ```
 
+### 📸 Imágenes (4/4 - 100% Completo)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look03_standing.png` |
+| **Seated** | `anais_look03_seated.png` |
+| **Three-Quarter** | `anais_look03_three_quarter.png` |
+| **Close-up** | `anais_look03_closeup.png` |
+
 ---
 
 ## 👑 Look 04: La Escritora — Ciruela de Medianoche
 
-- **Ubicacion:** `05_Imagenes/anais/look04_slug/`
-- **Categoria:** Sesión literaria
-- **Color:** Ciruela oscura + seda negra
-- **Tags:** #anais #look04
-- **Concepto:** Anaïs cuando escribe. Crea mundos. La boquilla siempre presente, el manuscrito siempre cerca.
-- **Outfit:** deep plum silk kimono robe with wide lapels and sash tied at waist over black silk slip dress, bare arms, antique silver cocktail ring on right hand, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Sesión literaria · **Paleta:** Ciruela oscura + seda negra · **Sin medias**
+**Referencia:** Lauren Bacall en su estudio
 
-### 📝 Prompts
+**Concepto:** Anaïs cuando escribe. Crea mundos. La boquilla siempre presente, el manuscrito siempre cerca.
+
+**BLOQUE B:**
+`deep plum silk kimono robe with wide lapels and sash tied at waist over black silk slip dress, bare arms, antique silver cocktail ring on right hand, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -186,21 +205,28 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic intimate close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, deep plum silk kimono lapel visible at frame bottom bare shoulder, antique silver cocktail ring visible on hand, long silver cigarette holder held near face, medium shot chest up, cold darkly sensual gaze directly into camera the look of the woman who decides what desire means beauty mark above upper left lip, warm amber lamplight sculpting cheekbones, old Hollywood intimacy.
 ```
 
+### 📸 Imágenes (4/4 - 100% Completo)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look04_standing.png` |
+| **Seated** | `anais_look04_seated.png` |
+| **Three-Quarter** | `anais_look04_three_quarter.png` |
+| **Close-up** | `anais_look04_closeup.png` |
+
 ---
 
 ## 👑 Look 05: Verde Esmeralda — El Secreto de La Voûte
 
-- **Ubicacion:** `05_Imagenes/anais/look05_slug/`
-- **Categoria:** Misterio / seducción
-- **Color:** Verde esmeralda + plata antigua
-- **Tags:** #anais #look05
-- **Concepto:** Quienes la ven así nunca olvidan la noche.
-- **Outfit:** floor-length deep emerald green velvet fitted gown with elegant V-neckline and long sleeves, antique silver drop earrings, black satin opera gloves draped over left forearm, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Misterio / seducción · **Paleta:** Verde esmeralda + plata antigua · **Sin medias**
+**Referencia:** Veronica Lake, Gene Tierney
 
-### 📝 Prompts
+**Concepto:** Quienes la ven así nunca olvidan la noche.
+
+**BLOQUE B:**
+`floor-length deep emerald green velvet fitted gown with elegant V-neckline and long sleeves, antique silver drop earrings, black satin opera gloves draped over left forearm, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -224,34 +250,27 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 ```
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, deep emerald green velvet V-neckline visible at frame bottom, antique silver drop earrings catching amber light, medium shot chest up, cold mysterious darkly sensual gaze directly into camera she is the secret at the center of every story beauty mark above upper left lip, emerald velvet and silver in dramatic chiaroscuro warm amber candlelight rim from behind, old Hollywood mystery.
-```
-
 ---
-
-
+---
 # 🌹 LENCERÍA RETRO — Boudoir de La Voûte
-
 > **Contexto:** Los aposentos privados de Anaïs. Nunca el espacio público de La Voûte.
 > **Atmósfera:** Penumbra, luz de vela, madera oscura, seda, espejo de tocador.
 > **Poses:** `boudoir_standing` · `chaise_seated` · `mirror_profile` · `intimate_closeup`
 > **Nota:** Los tacones de 12cm permanecen — incluso en el boudoir. Es quien es.
-
 ---
-
+```
 
 ## 👑 Boudoir L01: Negligée de Seda Negra
 
-- **Ubicacion:** `05_Imagenes/anais/lookl01_slug/`
-- **Categoria:** Lencería íntima
-- **Color:** Negro seda + marfil encaje
-- **Tags:** #anais #boudoirl01
-- **Concepto:** La forma más honesta de su poder. Un negligée que no intenta nada — simplemente existe sobre ella y eso es suficiente para que todo cambie en la habitación. La seda la delata en cada movimiento.
-- **Outfit:** floor-length black silk bias-cut negligée with thin spaghetti straps, delicate ivory lace trim at neckline and hem, deeply draped open cowl back, the bias-cut silk clinging to every mature curve and catching candlelight, 12cm black patent leather stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Lencería íntima · **Paleta:** Negro seda + marfil encaje · **Sin medias · Sin boquilla**
+**Referencia:** Ava Gardner, Jean Harlow — sensualidad madura sin esfuerzo
 
-### 📝 Prompts
+**Concepto:** La forma más honesta de su poder. Un negligée que no intenta nada — simplemente existe sobre ella y eso es suficiente para que todo cambie en la habitación. La seda la delata en cada movimiento.
+
+**BLOQUE B:**
+`floor-length black silk bias-cut negligée with thin spaghetti straps, delicate ivory lace trim at neckline and hem, deeply draped open cowl back, the bias-cut silk clinging to every mature curve and catching candlelight, 12cm black patent leather stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -275,23 +294,20 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 ```
 8k ultra cinematic intimate boudoir close-up portrait, warm amber candlelight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing desire:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted lips barely touching darkly inviting defined cupid's bow, honey blonde hair loosely tousled one wave falling across bare shoulder, medium shot from mid-chest up, black silk negligée cowl neckline with ivory lace trim décolleté fully visible one spaghetti strap slipping off bare shoulder the silk barely at the edge of décolleté, candlelight pooling in the hollow of throat and décolleté deep shadow beneath, smoldering heavy-lidded gaze directly into camera — the look of a woman who has written every fantasy and lived half of them, beauty mark above upper left lip, warm amber light from one side sculpting the aristocratic face and bare shoulder deep velvet shadow on the other, private boudoir bokeh behind old Hollywood intimate power.
-```
-
 ---
+```
 
 ## 👑 Boudoir L02: Merry Widow Rubí — Con Liguero
 
-- **Ubicacion:** `05_Imagenes/anais/lookl02_slug/`
-- **Categoria:** Lencería de poder
-- **Color:** Burdeos rubí + negro
-- **Tags:** #anais #boudoirl02
-- **Concepto:** El Merry Widow no es subyugación — es arquitectura de poder personal. Cada ballena, cada correa de liguero es una decisión consciente. Ella eligió esto. Y en esa elección reside todo.
-- **Outfit:** deep ruby burgundy satin merry widow corselette with structured boning underwire cups and attached six-strap garter belt, black lace trim at top edge deeply décolleté, black seamed nylon stockings with visible back seam the garter straps taut against bare thigh, nothing else, 12cm black patent leather stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Lencería de poder · **Paleta:** Burdeos rubí + negro · **Con medias (negro costura) · Sin boquilla**
+**Referencia:** Rita Hayworth, Lana Turner — la mujer que controla la habitación en ropa interior
 
-### 📝 Prompts
+**Concepto:** El Merry Widow no es subyugación — es arquitectura de poder personal. Cada ballena, cada correa de liguero es una decisión consciente. Ella eligió esto. Y en esa elección reside todo.
+
+**BLOQUE B:**
+`deep ruby burgundy satin merry widow corselette with structured boning underwire cups and attached six-strap garter belt, black lace trim at top edge deeply décolleté, black seamed nylon stockings with visible back seam the garter straps taut against bare thigh, nothing else, 12cm black patent leather stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -315,23 +331,20 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 ```
 8k ultra cinematic intimate boudoir close-up portrait, warm amber candlelight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering commanding dark desire:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted lips barely touching darkly inviting, honey blonde hair in sculpted vintage pin-waves, medium shot from mid-chest up, deep ruby burgundy satin merry widow deeply décolleté the black lace trim at top edge the boning structure visible at sides of frame the structured cups lifting décolleté dramatically candlelight pooling in the décolleté and the hollow of throat, bare shoulders above corselette, smoldering commanding gaze directly into camera — she is the architect of desire and she knows exactly what she built, beauty mark above upper left lip, warm amber light sculpting aristocratic face and bare shoulders above ruby satin deep shadow on one side, private boudoir bokeh behind old Hollywood power and sensuality.
-```
-
 ---
+```
 
 ## 👑 Boudoir L03: Peignoir Marfil — La Escritora al Amanecer
 
-- **Ubicacion:** `05_Imagenes/anais/lookl03_slug/`
-- **Categoria:** Lencería romántica íntima
-- **Color:** Marfil + encaje crema
-- **Tags:** #anais #boudoirl03
-- **Concepto:** Cuando termina de escribir y el amanecer llega antes que el sueño. El peignoir marfil es la única concesión a la ternura que Anaïs se permite — y aun así mantiene los tacones. La luz la atraviesa y la delata.
-- **Outfit:** sheer ivory chiffon peignoir robe with wide lace-trimmed lapels and flowing full-length skirt worn open and loose, beneath it ivory silk satin chemise with deep lace trim at neckline thigh-length the chemise barely covering, the sheer chiffon translucent in warm candlelight revealing silhouette beneath, 12cm black patent leather stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Lencería romántica íntima · **Paleta:** Marfil + encaje crema · **Sin medias · Sin boquilla**
+**Referencia:** Grace Kelly, Audrey Hepburn — la elegancia que no necesita esfuerzo
 
-### 📝 Prompts
+**Concepto:** Cuando termina de escribir y el amanecer llega antes que el sueño. El peignoir marfil es la única concesión a la ternura que Anaïs se permite — y aun así mantiene los tacones. La luz la atraviesa y la delata.
+
+**BLOQUE B:**
+`sheer ivory chiffon peignoir robe with wide lace-trimmed lapels and flowing full-length skirt worn open and loose, beneath it ivory silk satin chemise with deep lace trim at neckline thigh-length the chemise barely covering, the sheer chiffon translucent in warm candlelight revealing silhouette beneath, 12cm black patent leather stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -355,23 +368,21 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 ```
 8k ultra cinematic intimate boudoir close-up portrait, soft warm golden candlelight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with soft smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted soft and knowing barely touching, honey blonde hair loosely tousled one wave falling across bare shoulder, medium shot from mid-chest up, sheer ivory chiffon peignoir lapel falling open the ivory silk satin chemise lace neckline low revealing full décolleté the lace trim barely at the edge, bare shoulder visible through translucent chiffon, warm golden candlelight pooling in the hollow of throat and décolleté, soft smoldering heavy-lidded gaze directly into camera — the look of someone who has just finished writing the world and is deciding whether to let you in, beauty mark above upper left lip, warm golden light sculpting aristocratic face and bare décolleté the chiffon barely there, private boudoir bokeh behind old Hollywood intimate desire.
-```
-
 ---
+```
 
 ## 👑 Look 06: La Ejecutiva — Poder sin ornamento
 
-- **Ubicacion:** `05_Imagenes/anais/look06_slug/`
-- **Categoria:** Ejecutivo de poder (4-A)
-- **Color:** Negro seda + cuero negro
-- **Tags:** #anais #look06
-- **Concepto:** Desciende la escalera y la sala corrige su postura antes de que ella hable. No necesita guantes esta noche — sus manos libres son su amenaza. La falda de cuero marca cada paso como una sentencia. Las medias de red recuerdan que bajo la ejecutiva siempre hay una dueña.
-- **Outfit:** structured black silk blouse with deep V-neckline perfectly form-fitting, black patent leather fitted pencil skirt mid-calf length with single back slit, structured black leather belt with precise silver buckle cinching waist, black fishnet stockings with precise back seam visible, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Ejecutivo de poder (4-A) · **Paleta:** Negro seda + cuero negro · **Medias de red · Sin guantes · Boquilla opcional**
+**Referencia:** Fuente literaria Ch. III — "una blusa de seda negra que delineaba su figura sin necesidad de mostrar piel"
+**Cabello:** Ondas sueltas (variante literaria Ch. III)
 
-### 📝 Prompts
+**Concepto:** Desciende la escalera y la sala corrige su postura antes de que ella hable. No necesita guantes esta noche — sus manos libres son su amenaza. La falda de cuero marca cada paso como una sentencia. Las medias de red recuerdan que bajo la ejecutiva siempre hay una dueña.
+
+**BLOQUE B:**
+`structured black silk blouse with deep V-neckline perfectly form-fitting, black patent leather fitted pencil skirt mid-calf length with single back slit, structured black leather belt with precise silver buckle cinching waist, black fishnet stockings with precise back seam visible, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -379,7 +390,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in controlled vintage waves falling loose over shoulders, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black silk blouse with deep V-neckline perfectly form-fitting, black patent leather fitted pencil skirt mid-calf length with single back slit, structured black leather belt with precise silver buckle cinching waist, black fishnet stockings with precise back seam the seam running straight from heel to upper thigh, 12cm black patent leather stiletto heels iconic red sole, full body standing weight on left hip bare hands at sides cold darkly sensual gaze locked into camera, dark aristocratic La Voûte interior deep burgundy velvet and dim amber candlelight, descended from the staircase she is the last thing they expected and the only thing they see, single key spotlight sculpting cheekbones deep shadow on right side warm amber rim from behind cinematic film noir depth.
 ```
 
-**1. Standing:**
+**3. Seated:**
 
 ```
 8k ultra cinematic film noir portrait, single dramatic spotlight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in controlled vintage waves falling loose over shoulders, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black silk blouse with deep V-neckline, black patent leather fitted pencil skirt, structured black leather belt cinching waist, black fishnet stockings with precise back seam visible, 12cm black patent leather stiletto heels iconic red sole, seated at head of dark polished long table legs crossed at knee the skirt slit opening to reveal fishnet seam and the gleam of red sole, one elbow on table hand loosely holding long elegant silver cigarette holder thin wisp of smoke the other hand resting on the table fingers spread lightly, cold darkly sensual gaze locked directly into camera — the room belongs to her and they all know it, dark aristocratic interior amber candlelight heavy drapes behind, dramatic chiaroscuro from above.
@@ -397,21 +408,29 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in controlled vintage waves falling loose one wave falling across bare shoulder, medium shot from mid-chest up, structured black silk blouse deep V-neckline at frame bottom the silk draping to reveal the geometry of clavicle and the beginning of décolleté, black leather belt visible at waist, cold darkly sensual gaze directly into camera — the look of someone who decided this outcome before she entered the room, beauty mark visible above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above-left deep shadow on right side warm amber from behind, dark La Voûte interior bokeh, cinematic film noir power and old Hollywood dark authority.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look06_standing.png` |
+| **Seated** | `anais_look06_seated.png` |
+| **Three-Quarter** | `anais_look06_three_quarter.png` |
+| **Close-up** | `anais_look06_closeup.png` |
+
 ---
 
 ## 👑 Look 07: La Dueña — La Ceremonia
 
-- **Ubicacion:** `05_Imagenes/anais/look07_slug/`
-- **Categoria:** Dominio explícito (4-B)
-- **Color:** Negro corsé + guantes rubí
-- **Tags:** #anais #look07
-- **Concepto:** Entra última. La ceremonia empieza cuando ella lo decide. El corsé no es adorno — es arquitectura. Los guantes rojos no son color — son declaración. La llave que cuelga de las perlas no está ahí por azar.
-- **Outfit:** structured black overbust corset with visible boning and dark lace trim at deeply décolleté top edge, black patent leather fitted pencil skirt floor-length with deep side slit, black fishnet stockings with precise back seam garter line taut against bare thigh visible at slit, long matte red leather gloves to upper arm, double-strand pearl necklace with small antique steel key pendant hanging center, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Dominio explícito (4-B) · **Paleta:** Negro corsé + guantes rubí · **Medias de red · Boquilla**
+**Referencia:** Fuente literaria Ch. IV — "vestida en cuero negro opaco, con un corset que delineaba su silueta como un trazo de pluma sobre carne"
+**Cabello:** Moño alto geométrico (variante literaria Ch. IV)
 
-### 📝 Prompts
+**Concepto:** Entra última. La ceremonia empieza cuando ella lo decide. El corsé no es adorno — es arquitectura. Los guantes rojos no son color — son declaración. La llave que cuelga de las perlas no está ahí por azar.
+
+**BLOQUE B:**
+`structured black overbust corset with visible boning and dark lace trim at deeply décolleté top edge, black patent leather fitted pencil skirt floor-length with deep side slit, black fishnet stockings with precise back seam garter line taut against bare thigh visible at slit, long matte red leather gloves to upper arm, double-strand pearl necklace with small antique steel key pendant hanging center, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -437,21 +456,28 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in a precise high sculpted chignon exposing the full aristocratic bone structure of her face, medium shot from mid-chest up, structured black overbust corset deeply décolleté at frame bottom the boning structure and dark lace trim framing an absolute décolleté, long matte red leather gloves to upper arm the matte red visible at lower frame, double-strand pearl necklace with small antique steel key pendant resting at the hollow of bare throat, cold darkly sensual gaze directly into camera — she has already decided and the key around her throat is the proof, beauty mark visible above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above-left deep shadow on right side warm amber rim from behind exposing the nape above the chignon, dark La Voûte ceremony bokeh behind old Hollywood absolute power.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look07_standing.png` |
+| **Seated** | `anais_look07_seated.png` |
+| **Three-Quarter** | `anais_look07_three_quarter.png` |
+| **Close-up** | `anais_look07_closeup.png` |
+
 ---
 
 ## 👑 Look 08: Azul Medianoche — Seducción Calculada
 
-- **Ubicacion:** `05_Imagenes/anais/look08_slug/`
-- **Categoria:** Cóctel / recepción privada (5)
-- **Color:** Zafiro medianoche + plata
-- **Tags:** #anais #look08
-- **Concepto:** El azul medianoche es el color que reserva para cuando no quiere ser encontrada. Y aun así — es imposible no mirarla. El vestido no brilla. Ella sí.
-- **Outfit:** deep midnight sapphire blue bias-cut fitted column dress with elegant draped cowl neckline and deep back slit revealing bare back, long black satin opera gloves to upper arm, antique silver chandelier drop earrings, small black patent leather evening clutch in left gloved hand, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Cóctel / recepción privada (5) · **Paleta:** Zafiro medianoche + plata · **Sin medias · Boquilla**
+**Referencia:** Gene Tierney — el azul profundo que no busca atención y la consigue toda
 
-### 📝 Prompts
+**Concepto:** El azul medianoche es el color que reserva para cuando no quiere ser encontrada. Y aun así — es imposible no mirarla. El vestido no brilla. Ella sí.
+
+**BLOQUE B:**
+`deep midnight sapphire blue bias-cut fitted column dress with elegant draped cowl neckline and deep back slit revealing bare back, long black satin opera gloves to upper arm, antique silver chandelier drop earrings, small black patent leather evening clutch in left gloved hand, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -477,21 +503,29 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted falling over one shoulder, medium shot from mid-chest up, deep midnight sapphire blue bias-cut draped cowl neckline at frame bottom the blue catching spotlight like liquid shadow, long black satin opera gloves visible at lower frame, antique silver chandelier drop earrings, cold darkly sensual gaze directly into camera — the gaze of someone who chose not to be here, and is the only reason anyone stayed, beauty mark visible above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above deep shadow on one side the midnight blue fabric catching the light differently at every angle, luxury penthouse city lights bokeh far behind old Hollywood composed mystery.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look08_standing.png` |
+| **Seated** | `anais_look08_seated.png` |
+| **Three-Quarter** | `anais_look08_three_quarter.png` |
+| **Close-up** | `anais_look08_closeup.png` |
+
 ---
 
 ## 👑 Look 09: La Felina — Leopardo Vintage
 
-- **Ubicacion:** `05_Imagenes/anais/look09_slug/`
-- **Categoria:** 5-B
-- **Color:** Leopardo ámbar/ocre/negro en seda
-- **Tags:** #anais #look09
-- **Concepto:** Entra y el silencio llega antes. No necesita el negro esta noche — el leopardo ya habla por ella. Los guantes de ópera negros son lo único que doma a la fiera. Lo demás es consecuencia.
-- **Outfit:** vintage leopard print silk fitted wiggle dress mid-calf with structured sweetheart strapless neckline boning at bust the classic warm amber ochre black animal print on silk catching candlelight, black satin opera gloves to upper arm, double-strand ivory pearl necklace resting on bare décolleté, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** 5-B · **Paleta:** Leopardo ámbar/ocre/negro en seda · **Sin medias · Boquilla**
+**Referencia:** Ava Gardner, Sophia Loren — el animal print que no pide permiso para ocupar la sala
+**Cabello:** Pin-waves estándar
 
-### 📝 Prompts
+**Concepto:** Entra y el silencio llega antes. No necesita el negro esta noche — el leopardo ya habla por ella. Los guantes de ópera negros son lo único que doma a la fiera. Lo demás es consecuencia.
+
+**BLOQUE B:**
+`vintage leopard print silk fitted wiggle dress mid-calf with structured sweetheart strapless neckline boning at bust the classic warm amber ochre black animal print on silk catching candlelight, black satin opera gloves to upper arm, double-strand ivory pearl necklace resting on bare décolleté, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -517,21 +551,29 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves, medium shot from mid-chest up, vintage leopard print silk wiggle dress the structured sweetheart strapless neckline at frame bottom the warm amber ochre animal print on silk visible at décolleté level, double-strand ivory pearl necklace the ivory against the wild animal print, black satin opera gloves visible at arms, cold darkly sensual gaze directly into camera — she wore the leopard and the leopard agreed, beauty mark above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above the animal print catching warm amber spotlight, dark La Voûte bokeh behind old Hollywood power and primal elegance.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look09_standing.png` |
+| **Seated** | `anais_look09_seated.png` |
+| **Three-Quarter** | `anais_look09_three_quarter.png` |
+| **Close-up** | `anais_look09_closeup.png` |
+
 ---
 
 ## 👑 Look 10: Brocado Aristocrático — La Tela como Joya
 
-- **Ubicacion:** `05_Imagenes/anais/look10_slug/`
-- **Categoria:** 6
-- **Color:** Brocado negro + motivos burdeos/dorado
-- **Tags:** #anais #look10
-- **Concepto:** El brocado no necesita accesorios. El tejido es la joya. Entra y la sala entiende que no está en presencia de glamour — está en presencia de linaje.
-- **Outfit:** floor-length black jacquard brocade fitted column gown with deep burgundy and antique gold woven baroque floral motifs the fabric textured like a living tapestry catching light differently at every angle, structured sweetheart neckline with narrow velvet trim, long black velvet opera gloves to upper arm, black diamond chandelier earrings only — no other jewelry the brocade is the jewel, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** 6 · **Paleta:** Brocado negro + motivos burdeos/dorado · **Sin medias · Boquilla**
+**Referencia:** La gran dama europea de los 40s — no Hollywood, poder real
+**Cabello:** Moño alto geométrico
 
-### 📝 Prompts
+**Concepto:** El brocado no necesita accesorios. El tejido es la joya. Entra y la sala entiende que no está en presencia de glamour — está en presencia de linaje.
+
+**BLOQUE B:**
+`floor-length black jacquard brocade fitted column gown with deep burgundy and antique gold woven baroque floral motifs the fabric textured like a living tapestry catching light differently at every angle, structured sweetheart neckline with narrow velvet trim, long black velvet opera gloves to upper arm, black diamond chandelier earrings only — no other jewelry the brocade is the jewel, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -557,21 +599,29 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in a precise high sculpted chignon the nape exposed, medium shot from mid-chest up, black jacquard brocade sweetheart neckline with narrow velvet trim at frame bottom the baroque floral motifs in deep burgundy and antique gold visible at décolleté the woven pattern catching the spotlight in deep textured relief, black diamond chandelier earrings catching the light, long black velvet opera gloves visible at arms, cold darkly sensual gaze directly into camera — the kind of gaze that comes from knowing something permanent, beauty mark above upper left lip, sculpted cheekbones and exposed nape in dramatic chiaroscuro, dark La Voûte bokeh behind old Hollywood aristocratic linaje absolute.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look10_standing.png` |
+| **Seated** | `anais_look10_seated.png` |
+| **Three-Quarter** | `anais_look10_three_quarter.png` |
+| **Close-up** | `anais_look10_closeup.png` |
+
 ---
 
 ## 👑 Look 11: Pinup de Poder — Terciopelo Rubí
 
-- **Ubicacion:** `05_Imagenes/anais/look11_slug/`
-- **Categoria:** 7
-- **Color:** Rubí terciopelo + seda negra
-- **Tags:** #anais #look11
-- **Concepto:** La falda A-line de terciopelo rubí tiene demasiado vuelo para ser inocente. La blusa de seda negra tucked in no es sumisa — es la trampa. El cinturón ciñe la cintura con la misma precisión con que ella ciñe una conversación.
-- **Outfit:** deep ruby red full-circle A-line swing skirt in velvet high-waist mid-calf with gentle volume and structure, black silk satin blouse with wide elegant collar tucked precisely into the high waist the silk draping perfectly at the bodice, structured black leather belt with gold clasp cinching the waist with absolute precision, short black satin gloves to wrist, antique gold clip-on pearl earrings, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** 7 · **Paleta:** Rubí terciopelo + seda negra · **Sin medias · Boquilla**
+**Referencia:** La pinup que no mira a la cámara porque ya sabe lo que va a ver
+**Cabello:** Pin-waves estándar
 
-### 📝 Prompts
+**Concepto:** La falda A-line de terciopelo rubí tiene demasiado vuelo para ser inocente. La blusa de seda negra tucked in no es sumisa — es la trampa. El cinturón ciñe la cintura con la misma precisión con que ella ciñe una conversación.
+
+**BLOQUE B:**
+`deep ruby red full-circle A-line swing skirt in velvet high-waist mid-calf with gentle volume and structure, black silk satin blouse with wide elegant collar tucked precisely into the high waist the silk draping perfectly at the bodice, structured black leather belt with gold clasp cinching the waist with absolute precision, short black satin gloves to wrist, antique gold clip-on pearl earrings, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -597,21 +647,37 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves, medium shot from mid-chest up, black silk satin blouse wide collar draping at décolleté level at frame bottom the structured black leather belt with gold clasp visible at lower frame the nip of the waist between silk and belt absolute, short black satin gloves visible at lower arms, antique gold clip-on pearl earrings, cold darkly sensual gaze directly into camera — she built this silhouette like a sentence: precise, complete, and impossible to argue with, beauty mark above upper left lip, sculpted cheekbones in dramatic chiaroscuro warm amber spotlight, dark La Voûte bokeh behind old Hollywood retro power and absolute femininity.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look11_standing.png` |
+| **Seated** | `anais_look11_seated.png` |
+| **Three-Quarter** | `anais_look11_three_quarter.png` |
+| **Close-up** | `anais_look11_closeup.png` |
+
+---
+
+## 🖤 — SERIE II DE LENCERÍA RETRO ERÓTICA —
+
+> **Atmósfera:** La Voûte cerrada. Solo ella. La luz sabe dónde mirar.
+> **Regla ADN:** Idéntica para cada prompt. Sin excepciones.
+> **Boquilla:** Ausente en toda la serie II.
+> **Medias:** Solo en L05 (con liguero).
+
 ---
 
 ## 👑 Boudoir L04: Encaje Chantilly — La Poseedora
 
-- **Ubicacion:** `05_Imagenes/anais/lookl04_slug/`
-- **Categoria:** Lencería vintage erótica
-- **Color:** Negro Chantilly
-- **Tags:** #anais #boudoirl04
-- **Concepto:** El encaje Chantilly no es pudor — es declaración. Cada flor bordada en el tejido pasa sobre su piel como una firma. El alto corte de las piernas no es accidente. La delineación de su silueta a través del patrón no es azar. Ella eligió esto.
-- **Outfit:** vintage black Chantilly lace one-piece bodysuit teddy with deep plunging V-neckline to sternum, high-cut legs revealing full hip line, delicate scalloped lace hem, the Chantilly lace pattern sheer enough to reveal the silhouette of mature curves beneath while the floral motifs drift across bare skin, back clasp, 12cm black patent leather stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Lencería vintage erótica · **Paleta:** Negro Chantilly · **Sin medias · Sin boquilla**
+**Referencia:** Vintage French lingerie 1940s — el encaje que cubre todo y no esconde nada
 
-### 📝 Prompts
+**Concepto:** El encaje Chantilly no es pudor — es declaración. Cada flor bordada en el tejido pasa sobre su piel como una firma. El alto corte de las piernas no es accidente. La delineación de su silueta a través del patrón no es azar. Ella eligió esto.
+
+**BLOQUE B:**
+`vintage black Chantilly lace one-piece bodysuit teddy with deep plunging V-neckline to sternum, high-cut legs revealing full hip line, delicate scalloped lace hem, the Chantilly lace pattern sheer enough to reveal the silhouette of mature curves beneath while the floral motifs drift across bare skin, back clasp, 12cm black patent leather stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -619,7 +685,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic intimate boudoir portrait, single dramatic amber spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark commanding gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a smoldering dark half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves mature and precise, composed upright posture with dangerous feminine magnetism, vintage black Chantilly lace one-piece bodysuit teddy with deep plunging V-neckline the lace floral pattern drifting across bare golden skin the high-cut legs revealing the full aristocratic line of hip and thigh the sheer lace following every curve of her mature figure, 12cm black patent leather stiletto heels iconic red sole, full body standing weight on left hip one hand on hip the other at side the Chantilly lace barely there between the spotlight and her skin, smoldering dark commanding gaze locked into camera — she dressed for this room and she owns every shadow in it, private boudoir dark wood antique furniture warm amber candlelight from low position sculpting her silhouette, cinematic intimate depth old Hollywood retro erotica.
 ```
 
-**1. Standing:**
+**3. Seated:**
 
 ```
 8k ultra cinematic intimate boudoir portrait, warm amber candlelight from beside casting long shadows, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark commanding gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted dark smoldering defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves one long wave loosened falling over shoulder, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, vintage black Chantilly lace bodysuit the plunging V-neckline the floral lace pattern transparent against warm porcelain skin the full curve of mature figure visible through the delicate sheer mesh, 12cm black patent leather stiletto heels iconic red sole, half-reclining on a dark velvet chaise longue one leg fully extended the heel visible at the chaise end the other leg bent with foot on chaise revealing the high-cut lace at the hip one arm extended along the chaise back the other hand resting on bare thigh at the lace hem, smoldering dark gaze directly into camera chin slightly lowered making the eye contact heavier, warm amber light from one side carving cheekbones and tracing the Chantilly lace pattern on bare skin, private boudoir deep shadow behind cinematic retro erotica.
@@ -637,21 +703,28 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic intimate boudoir close-up portrait, warm amber candlelight from low, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark commanding gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted dark smoldering barely touching defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves one wave released over bare shoulder, medium shot from mid-chest up, vintage black Chantilly lace bodysuit the deep plunging V-neckline at frame bottom the delicate floral lace pattern drifting across the skin of décolleté the scalloped lace edge at the neckline, the lace so sheer that candlelight passes through it pooling warm gold on the skin beneath the pattern, smoldering dark commanding gaze directly into camera — the gaze of someone who has decided what happens next and it has nothing to do with you deciding, beauty mark above upper left lip, sculpted cheekbones carved by warm amber light from below and one side deep shadow the other side old Hollywood low-key intimate erotica.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_lookL04_standing.png` |
+| **Reclining** | `anais_lookL04_reclining.png` |
+| **Mirror** | `anais_lookL04_mirror.png` |
+| **Close-up** | `anais_lookL04_closeup.png` |
+
 ---
 
 ## 👑 Boudoir L05: Conjunto Champagne Pinup — Jean Harlow
 
-- **Ubicacion:** `05_Imagenes/anais/lookl05_slug/`
-- **Categoria:** Lencería retro erótica estructurada
-- **Color:** Champagne satén + dorado
-- **Tags:** #anais #boudoirl05
-- **Concepto:** El color champagne sobre su piel no es suave — es peligroso. El bustier bullet bra de los 50s no es vintage aquí: es un arma de precisión. El liguero es arquitectura. Las medias con costura son la única línea recta en todo su cuerpo.
-- **Outfit:** strapless vintage bullet bra in champagne satin with structured conical cups and underwire lifting dramatically, matching champagne satin high-waist briefs with gold lace trim at waist, matching champagne satin six-strap garter belt, ivory seamed stockings with precise dark back seam the garter straps taut against bare thigh, 12cm black patent leather stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Lencería retro erótica estructurada · **Paleta:** Champagne satén + dorado · **Con medias · Sin boquilla**
+**Referencia:** Jean Harlow — el champagne que no pide permiso para brillar
 
-### 📝 Prompts
+**Concepto:** El color champagne sobre su piel no es suave — es peligroso. El bustier bullet bra de los 50s no es vintage aquí: es un arma de precisión. El liguero es arquitectura. Las medias con costura son la única línea recta en todo su cuerpo.
+
+**BLOQUE B:**
+`strapless vintage bullet bra in champagne satin with structured conical cups and underwire lifting dramatically, matching champagne satin high-waist briefs with gold lace trim at waist, matching champagne satin six-strap garter belt, ivory seamed stockings with precise dark back seam the garter straps taut against bare thigh, 12cm black patent leather stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -659,7 +732,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic intimate boudoir portrait, warm golden spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, strapless vintage bullet bra in champagne satin with structured conical cups lifting dramatically the satin catching the golden spotlight, matching champagne satin high-waist briefs with delicate gold lace trim at waist, champagne satin six-strap garter belt the straps taut down the line of bare thigh to the stocking tops, ivory seamed stockings with precise dark back seam running from heel to the garter clip, 12cm black patent leather stiletto heels iconic red sole, full body standing weight on left hip hands at sides or one hand on waist the seam of the stockings a perfect vertical line from heel to thigh, smoldering dark knowing gaze locked into camera the champagne satin glowing warm gold in the spotlight, private boudoir antique dark furniture amber candlelight behind, cinematic retro erotica 1950s old Hollywood pinup aristocratic.
 ```
 
-**1. Standing:**
+**3. Seated:**
 
 ```
 8k ultra cinematic intimate boudoir portrait, warm golden candlelight and mirror reflection, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, strapless vintage bullet bra in champagne satin with structured conical cups, matching champagne satin high-waist briefs gold lace trim at waist, champagne satin six-strap garter belt, ivory seamed stockings with precise dark back seam visible the garter straps descending from the belt, 12cm black patent leather stiletto heels iconic red sole, seated at an antique vanity table facing the mirror three-quarter angle legs crossed at knee the back seam of the stocking perfectly aligned up the back of her leg the garter strap pulling taut above the stocking top the champagne satin of the briefs visible at the high waist, one elbow on vanity chin resting on gloved fist the other hand in lap, smoldering dark gaze into the mirror and through it into camera the reflection and the reality the same cold authority, warm golden vanity lights and candlelight private boudoir, retro erotica 1950s aristocratic glamour.
@@ -677,21 +750,28 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic intimate boudoir close-up portrait, warm golden candlelight from low, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark barely touching defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, medium shot from mid-chest up, strapless vintage bullet bra in champagne satin at frame bottom the structured conical cups lifting dramatically the satin glowing warm gold in the candlelight the edge of the gold lace trim of the high-waist briefs just visible below the bullet bra the composition a precise 1950s silhouette, smoldering dark knowing gaze directly into camera — the look of a woman who decided the 1950s were the last century to understand what a woman could do with the right architecture, beauty mark above upper left lip, sculpted cheekbones in warm golden light deep shadow carved old Hollywood glamour champagne satin intimate boudoir retro erotica.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_lookL05_standing.png` |
+| **Vanity** | `anais_lookL05_vanity.png` |
+| **Three-Quarter** | `anais_lookL05_three_quarter.png` |
+| **Close-up** | `anais_lookL05_closeup.png` |
+
 ---
 
 ## 👑 Boudoir L06: Soie Bourguignonne — La Robe Ouverte
 
-- **Ubicacion:** `05_Imagenes/anais/lookl06_slug/`
-- **Categoria:** Lencería íntima de poder
-- **Color:** Burdeos seda + encaje negro
-- **Tags:** #anais #boudoirl06
-- **Concepto:** La robe de chambre de burdeos es la única cosa que se pone después de escribir hasta las tres de la mañana. La dejó abierta. No fue descuido. Bajo la seda borgoña solo hay encaje negro y piel y la mirada de alguien que sabe exactamente lo que acaba de mostrar.
-- **Outfit:** deep burgundy silk kimono-cut robe hip-length worn fully open and not covering anything the heavy silk falling off both shoulders pooling at her sides like liquid wine, beneath it vintage black lace bralette with structured underwire cups and scalloped lace trim low-cut revealing, matching black high-waist vintage lace briefs with scalloped waist trim, bare legs fully exposed from hip to heel, 12cm black patent leather stiletto heels iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Lencería íntima de poder · **Paleta:** Burdeos seda + encaje negro · **Sin medias · Sin boquilla**
+**Referencia:** Lauren Bacall — la robe que se abre sola porque ella lo decidió
 
-### 📝 Prompts
+**Concepto:** La robe de chambre de burdeos es la única cosa que se pone después de escribir hasta las tres de la mañana. La dejó abierta. No fue descuido. Bajo la seda borgoña solo hay encaje negro y piel y la mirada de alguien que sabe exactamente lo que acaba de mostrar.
+
+**BLOQUE B:**
+`deep burgundy silk kimono-cut robe hip-length worn fully open and not covering anything the heavy silk falling off both shoulders pooling at her sides like liquid wine, beneath it vintage black lace bralette with structured underwire cups and scalloped lace trim low-cut revealing, matching black high-waist vintage lace briefs with scalloped waist trim, bare legs fully exposed from hip to heel, 12cm black patent leather stiletto heels iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -717,497 +797,438 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic intimate boudoir close-up portrait, warm amber candlelight from low and to the side, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing desire:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark knowing barely touching defined cupid's bow, honey blonde hair loosely falling in controlled vintage waves over bare shoulder, medium shot from mid-chest up, deep burgundy silk kimono-cut robe open and falling off both bare shoulders framing the upper body the rich wine-colored silk at the edges of the frame, beneath it vintage black lace bralette with structured cups scalloped lace trim décolleté fully visible the black lace on warm golden skin, one hand barely touching the silk lapel not closing it, smoldering dark knowing desire directly into camera — the look of someone who writes the stories and knows exactly which scene this is, beauty mark above upper left lip, warm amber light from low carving cheekbones and the line of clavicle the contrast of deep burgundy silk and black lace and porcelain skin, private boudoir deep dark behind old Hollywood retro erotica intimate.
 ```
 
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_lookL06_standing.png` |
+| **Chaise** | `anais_lookL06_chaise.png` |
+| **Doorway** | `anais_lookL06_doorway.png` |
+| **Close-up** | `anais_lookL06_closeup.png` |
+
+---
 ---
 
-## 👑 Look 15: Midnight Satin Premiere
+## 👑 Look 15: — Midnight Satin Premiere
+`#evening` `#satin` `#ageless` `#femme-fatale` `#40s-glamour`
 
-- **Ubicacion:** `05_Imagenes/anais/look15_slug/`
-- **Categoria:** Anaïs Look
-- **Color:** N/A
-- **Tags:** #anais #look15
-- **Concepto:** N/A
-- **Outfit:** N/A
-- **Calzado:** Footwear description
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+> *Una noche de estreno en La Voûte. El satén negro, las perlas y la mirada de la Regenta.*
 
-### 📝 Prompts
+**BLOQUE A (ADN Inamovible):**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension.`
+
+**BLOQUE B (El Outfit):**
+`Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole.`
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Full body shot. Standing at the foot of a grand theater staircase, weight on one stiletto, hip cocked in dramatic S-curve. One gloved hand resting at the cinched waist, the other lifting her hair off her bare shoulder, looking back over the shoulder with a smouldering gaze. Cinematic chiaroscuro lighting, vintage flashbulbs in the background, 35mm film grain.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Full body shot. Standing at the foot of a grand theater staircase, weight on one stiletto, hip cocked in dramatic S-curve. One gloved hand resting at the cinched waist, the other lifting her hair off her bare shoulder, looking back over the shoulder with a smouldering gaze. Cinematic chiaroscuro lighting, vintage flashbulbs in the background, 35mm film grain.
 ```
 
 **2. Back View:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Rear focus view. Standing with her back to the camera, looking over her shoulder with a sultry direct stare. Emphasizing the dramatic plunging back of the satin gown exposing the entire spine and the extreme hourglass cinch of the waist. Gloved hands resting on the fishtail hem. Chiaroscuro lighting carving sculptural shadows along the spine and the curve of the hip.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Rear focus view. Standing with her back to the camera, looking over her shoulder with a sultry direct stare. Emphasizing the dramatic plunging back of the satin gown exposing the entire spine and the extreme hourglass cinch of the waist. Gloved hands resting on the fishtail hem. Chiaroscuro lighting carving sculptural shadows along the spine and the curve of the hip.
 ```
 
 **3. Seated:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Seated on a vintage crimson velvet theater chair. Legs crossed elegantly, the side slit of her black satin gown riding up to reveal the dark welt of her seamed stockings and a glimpse of the garter clasp. One black satin gloved hand resting on her inner thigh, the other holding a crystal champagne coupe to her parted lips. Back arched, smouldering knowing gaze at the camera. White fur stole pooled around her elbows.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Seated on a vintage crimson velvet theater chair. Legs crossed elegantly, the side slit of her black satin gown riding up to reveal the dark welt of her seamed stockings and a glimpse of the garter clasp. One black satin gloved hand resting on her inner thigh, the other holding a crystal champagne coupe to her parted lips. Back arched, smouldering knowing gaze at the camera. White fur stole pooled around her elbows.
 ```
 
 **4. Side Profile:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Lateral silhouette profile. Standing in a dramatic S-curve, hip pushed back and chest forward. Emphasizing the extreme hourglass silhouette created by the corset beneath the bias-cut satin. One gloved hand trailing along the line of her hip, the other at her throat. The satin fabric catching the rim lighting along the entire profile. High contrast noir aesthetic.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole. Lateral silhouette profile. Standing in a dramatic S-curve, hip pushed back and chest forward. Emphasizing the extreme hourglass silhouette created by the corset beneath the bias-cut satin. One gloved hand trailing along the line of her hip, the other at her throat. The satin fabric catching the rim lighting along the entire profile. High contrast noir aesthetic.
 ```
 
 **5. Sovereign Gaze:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole.  Extreme close-up of her face. Honey blonde hair in a deep Hollywood peek-a-boo wave cascading over one eye. Smouldering half-lidded bedroom eyes looking through the wave. Multi-strand pearl choker tight at her throat. Lips slightly parted around a long silver cigarette holder, smoke curling upward. Soft key lighting to minimize texture and maximize the ageless radiance.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole.  Extreme close-up of her face. Honey blonde hair in a deep Hollywood peek-a-boo wave cascading over one eye. Smouldering half-lidded bedroom eyes looking through the wave. Multi-strand pearl choker tight at her throat. Lips slightly parted around a long silver cigarette holder, smoke curling upward. Soft key lighting to minimize texture and maximize the ageless radiance.
 ```
+
+### 📸 Imágenes (1/5 - ✅ Materializado)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose1_standing_1777314172388.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose2_seated_1777314189663.png) |
+| **Three-Quarter** | ![Three-Quarter](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose3_threequarter_1777314207780.png) |
+| **Closeup** | ![Closeup](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose4_closeup_1777314226210.png) |
+| **Side Profile** | `(Pendiente de materialización)` |
+
 
 ---
 
 ## 👑 Look 16: Emerald Sovereign — Gala Nocturna
+**Arquetipo:** Night Gown / Gala · **Paleta:** Verde Esmeralda + Negro · **Con medias**
+**Referencia:** Estética de George Hurrell, opulencia táctica.
 
-- **Ubicacion:** `05_Imagenes/anais/look16_slug/`
-- **Categoria:** Night Gown / Gala
-- **Color:** Verde Esmeralda + Negro
-- **Tags:** #anais #look16
-- **Concepto:** N/A
-- **Outfit:** floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles
-- **Calzado:** Footwear description
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Full body standing portrait, authoritative presence, emerald satin catching the light along the S-curve silhouette, deep shadows.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Full body standing portrait, authoritative presence, emerald satin catching the light along the S-curve silhouette, deep shadows.
 ```
 
 **2. Back View:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Rear view focusing on the deep bare back, the column of the spine perfectly defined, the emerald satin pooling at the floor, head turned slightly over the shoulder showing her profile.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Rear view focusing on the deep bare back, the column of the spine perfectly defined, the emerald satin pooling at the floor, head turned slightly over the shoulder showing her profile.
 ```
 
 **3. Seated:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Seated on a vintage velvet chaise longue, legs crossed elegantly, the gown draping like liquid emerald, looking directly into the camera with a knowing smile.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Seated on a vintage velvet chaise longue, legs crossed elegantly, the gown draping like liquid emerald, looking directly into the camera with a knowing smile.
 ```
 
 **4. Side Profile:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Lateral silhouette profile emphasizing the extreme waist training and the arch of the back, rim lighting defining the silhouette.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep emerald green heavy silk satin gown, bias-cut silhouette, extreme plunging V-neckline, backless design exposing the spine down to the low back, oversized black orchid brooch at the waist, black faux fox fur stole draped over her arms, long black silk opera gloves, five-strand cream pearl necklace, emerald and diamond chandelier earrings, black silk stiletto sandals with iconic red soles. Lateral silhouette profile emphasizing the extreme waist training and the arch of the back, rim lighting defining the silhouette.
 ```
 
 **5. Sovereign Gaze:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Extreme close-up on the face, perfect porcelain skin texture, emerald earrings catching the light, heavy-lidded eyes gaze full of experience.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. Extreme close-up on the face, perfect porcelain skin texture, emerald earrings catching the light, heavy-lidded eyes gaze full of experience.
 ```
+
+### 📸 Imágenes (0/5 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look16_standing.png` |
+| **Back** | `anais_look16_back.png` |
+| **Seated** | `anais_look16_seated.png` |
+| **Side Profile** | `anais_look16_side.png` |
+| **Close-up** | `anais_look16_closeup.png` |
 
 ---
 
 ## 👑 Look 17: Noir Pearl Gown — Elegancia Suprema
+**Arquetipo:** Night Gown / Boudoir · **Paleta:** Negro + Perlas · **Sin medias**
+**Referencia:** Glamour de los años 30, Marlene Dietrich.
 
-- **Ubicacion:** `05_Imagenes/anais/look17_slug/`
-- **Categoria:** Night Gown / Boudoir
-- **Color:** Negro + Perlas
-- **Tags:** #anais #look17
-- **Concepto:** N/A
-- **Outfit:** sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings
-- **Calzado:** Footwear description
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Full body standing view, the pearl chains glinting over the black silk, fishtail hem pooling around her feet.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Full body standing view, the pearl chains glinting over the black silk, fishtail hem pooling around her feet.
 ```
 
 **2. Back View:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Rear view showing the halter neck tie and the pearl chains draping over the bare back down to the small of the back, fishtail silhouette.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Rear view showing the halter neck tie and the pearl chains draping over the bare back down to the small of the back, fishtail silhouette.
 ```
 
 **3. Seated:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Seated on a grand mahogany chair, the pearls cascading over her lap, one gloved hand resting on the armrest, regal and distant.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Seated on a grand mahogany chair, the pearls cascading over her lap, one gloved hand resting on the armrest, regal and distant.
 ```
 
 **4. Side Profile:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Profile view emphasizing the fishtail curve and the tension of the pearl chain against the body.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Profile view emphasizing the fishtail curve and the tension of the pearl chain against the body.
 ```
 
 **5. Sovereign Gaze:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Closeup on the face, the halter neck visible, pearls reflecting light onto her jawline, direct eye contact.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. sleek black silk charmeuse night gown, high halter neckline, open back, floor-length fishtail hem, massive cascading multi-strand pearl body chain worn over the gown draped across the chest and back, long black satin opera gloves, black satin high-heeled mules with marabou feather trim and red soles, diamond stud earrings. Closeup on the face, the halter neck visible, pearls reflecting light onto her jawline, direct eye contact.
 ```
+
+### 📸 Imágenes (0/5 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look17_standing.png` |
+| **Back** | `anais_look17_back.png` |
+| **Seated** | `anais_look17_seated.png` |
+| **Side Profile** | `anais_look17_side.png` |
+| **Close-up** | `anais_look17_closeup.png` |
 
 ---
 
 ## 👑 Look 18: Vintage Noir Foundation — Lencería Retro
+**Arquetipo:** Retro Lingerie / Foundation · **Paleta:** Negro · **Con medias**
+**Referencia:** Estética Pin-up de los años 50, Vanity Fair Vintage.
 
-- **Ubicacion:** `05_Imagenes/anais/look18_slug/`
-- **Categoria:** Retro Lingerie / Foundation
-- **Color:** Negro
-- **Tags:** #anais #look18
-- **Concepto:** N/A
-- **Outfit:** black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop
-- **Calzado:** Footwear description
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Full body standing pose, hands resting on her cinched waist, back arched, head tilted slightly back, commanding presence.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Full body standing pose, hands resting on her cinched waist, back arched, head tilted slightly back, commanding presence.
 ```
 
 **2. Back View:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Rear view focusing on the silk corset lacing, the 6 garter straps, and the perfectly straight black back-seams of the stockings.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Rear view focusing on the silk corset lacing, the 6 garter straps, and the perfectly straight black back-seams of the stockings.
 ```
 
 **3. Seated:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Seated on a vintage vanity stool, leaning forward slightly, adjusting a garter strap, looking into the camera with a playful yet dominant smirk.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Seated on a vintage vanity stool, leaning forward slightly, adjusting a garter strap, looking into the camera with a playful yet dominant smirk.
 ```
 
 **4. Side Profile:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Lateral profile view, emphasizing the dramatic reduction of the waist by the corset and the high arch of the foot in stiletto heels.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and lace overbust corset with 12 steel bones, tightlaced extreme hourglass waist, matching high-waisted lace girdle with 6 adjustable garter straps, ultra-sheer 15 denier black back-seam stockings with Cuban heels, black lace-trimmed tap pants, black patent leather stiletto pumps with red soles, thin black velvet choker with a single diamond drop. Lateral profile view, emphasizing the dramatic reduction of the waist by the corset and the high arch of the foot in stiletto heels.
 ```
 
 **5. Sovereign Gaze:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and la---
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black silk and la---
 ```
 
----
-
 ## 👑 Look 22: The Predator's Wiggle — Leopardo Clásico
+**Arquetipo:** 50s Femme Fatale · **Paleta:** Leopardo Ámbar + Negro · **Con medias**
+**Referencia:** Elegancia depredadora, estilo Lauren Bacall.
 
-- **Ubicacion:** `05_Imagenes/anais/look22_slug/`
-- **Categoria:** 50s Femme Fatale
-- **Color:** Leopardo Ámbar + Negro
-- **Tags:** #anais #look22
-- **Concepto:** N/A
-- **Outfit:** high-quality heavy silk wiggle dress with classic leopard print (amber/black), mid-calf length, sweetheart neckline, wide black patent leather belt cinching the tightlaced waist, matching leopard print pillbox hat with black birdcage veil, black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`high-quality heavy silk wiggle dress with classic leopard print (amber/black), mid-calf length, sweetheart neckline, wide black patent leather belt cinching the tightlaced waist, matching leopard print pillbox hat with black birdcage veil, black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-quality heavy silk wiggle dress with classic leopard print (amber/black), mid-calf length, sweetheart neckline, wide black patent leather belt cinching the tightlaced waist, matching leopard print pillbox hat with black birdcage veil, black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles. Full body standing, authoritative posture, one hand on hip, leopard print dress molding perfectly to her hourglass curves, veil partially obscuring her dominant gaze.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-quality heavy silk wiggle dress with classic leopard print (amber/black), mid-calf length, sweetheart neckline, wide black patent leather belt cinching the tightlaced waist, matching leopard print pillbox hat with black birdcage veil, black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles. Full body standing, authoritative posture, one hand on hip, leopard print dress molding perfectly to her hourglass curves, veil partially obscuring her dominant gaze.
 ```
 
 **3. Seated:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-quality heavy silk wiggle dress with classic leopard print (amber/black), mid-calf length, sweetheart neckline, wide black patent leather belt cinching the tightlaced waist, matching leopard print pillbox hat with black birdcage veil, black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles. Seated on a vintage velvet sofa, legs crossed, the leopard print dress creating a striking pattern against the dark background, cold superior expression.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-quality heavy silk wiggle dress with classic leopard print (amber/black), mid-calf length, sweetheart neckline, wide black patent leather belt cinching the tightlaced waist, matching leopard print pillbox hat with black birdcage veil, black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles. Seated on a vintage velvet sofa, legs crossed, the leopard print dress creating a striking pattern against the dark background, cold superior expression.`
+---
 ```
 
----
-
 ## 👑 Look 23: Python Sovereign — Poder de Serpiente
+**Arquetipo:** Corporate Power / Exotic · **Paleta:** Pitón Gris + Crema + Oro · **Sin medias**
+**Referencia:** Lujo táctico y autoridad exótica.
 
-- **Ubicacion:** `05_Imagenes/anais/look23_slug/`
-- **Categoria:** Corporate Power / Exotic
-- **Color:** Pitón Gris + Crema + Oro
-- **Tags:** #anais #look23
-- **Concepto:** N/A
-- **Outfit:** two-piece tailored suit in textured grey and cream python snake skin, fitted blazer with sharp shoulders, pencil skirt, black silk pussy-bow blouse, antique gold chandelier earrings, 12cm python skin stiletto pumps with iconic red soles, python skin envelope clutch
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`two-piece tailored suit in textured grey and cream python snake skin, fitted blazer with sharp shoulders, pencil skirt, black silk pussy-bow blouse, antique gold chandelier earrings, 12cm python skin stiletto pumps with iconic red soles, python skin envelope clutch`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. two-piece tailored suit in textured grey and cream python snake skin, fitted blazer with sharp shoulders, pencil skirt, black silk pussy-bow blouse, antique gold chandelier earrings, 12cm python skin stiletto pumps with iconic red soles, python skin envelope clutch. Full body standing, holding the clutch, the python texture appearing incredibly tactile and expensive, cold boardroom authority.`
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. two-piece tailored suit in textured grey and cream python snake skin, fitted blazer with sharp shoulders, pencil skirt, black silk pussy-bow blouse, antique gold chandelier earrings, 12cm python skin stiletto pumps with iconic red soles, python skin envelope clutch. Full body standing, holding the clutch, the python texture appearing incredibly tactile and expensive, cold boardroom authority.`
+---
 ```
 
----
-
 ## 👑 Look 24: Midnight Safari — Cebra Monocromo
+**Arquetipo:** Noir Glamour / High-Contrast · **Paleta:** B&W Cebra + Negro · **Con medias**
+**Referencia:** Cine Noir de alto contraste.
 
-- **Ubicacion:** `05_Imagenes/anais/look24_slug/`
-- **Categoria:** Noir Glamour / High-Contrast
-- **Color:** B&W Cebra + Negro
-- **Tags:** #anais #look24
-- **Concepto:** N/A
-- **Outfit:** oversized faux-fur swing coat with zebra print (B&W), worn open over a black silk bullet bra and high-waisted black satin briefs, black steel-boned underbust corset, black sheer back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, dark cat-eye sunglasses, silver cigarette holder
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`oversized faux-fur swing coat with zebra print (B&W), worn open over a black silk bullet bra and high-waisted black satin briefs, black steel-boned underbust corset, black sheer back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, dark cat-eye sunglasses, silver cigarette holder`
 
-### 📝 Prompts
+---
 
 **4. Side Profile:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. oversized faux-fur swing coat with zebra print (B&W), worn open over a black silk bullet bra and high-waisted black satin briefs, black steel-boned underbust corset, black sheer back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, dark cat-eye sunglasses, silver cigarette holder. Three-quarter view, the zebra coat draped over her shoulders, silver cigarette holder in hand, dramatic high-contrast lighting creating deep black shadows.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. oversized faux-fur swing coat with zebra print (B&W), worn open over a black silk bullet bra and high-waisted black satin briefs, black steel-boned underbust corset, black sheer back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, dark cat-eye sunglasses, silver cigarette holder. Three-quarter view, the zebra coat draped over her shoulders, silver cigarette holder in hand, dramatic high-contrast lighting creating deep black shadows.`
 ---
+```
 
 ## 👑 Look 25: Tiger Empress — Seda y Garra [MATERIALIZADO ✅]
+**Arquetipo:** High-Fashion / Matriarch · **Paleta:** Tigre Clásico + Negro · **Con medias**
+**Referencia:** Autoridad felina en seda pesada.
 
-- **Ubicacion:** `05_Imagenes/anais/look25_slug/`
-- **Categoria:** High-Fashion / Matriarch
-- **Color:** Tigre Clásico + Negro
-- **Tags:** #anais #look25
-- **Concepto:** N/A
-- **Outfit:** floor-length heavy silk gown with realistic tiger print (orange/black), high-neck, long sleeves, tightlaced black silk corset worn over the gown, long black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`floor-length heavy silk gown with realistic tiger print (orange/black), high-neck, long sleeves, tightlaced black silk corset worn over the gown, long black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length heavy silk gown with realistic tiger print (orange/black), high-neck, long sleeves, tightlaced black silk corset worn over the gown, long black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles. Standing in a grand library with dark wood paneling, one hand resting on a leather-bound book, cold gaze of a queen surveying her knowledge, the tiger print silk reflecting the warm light.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length heavy silk gown with realistic tiger print (orange/black), high-neck, long sleeves, tightlaced black silk corset worn over the gown, long black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles. Standing in a grand library with dark wood paneling, one hand resting on a leather-bound book, cold gaze of a queen surveying her knowledge, the tiger print silk reflecting the warm light.`
 ---
+```
 
 ## 👑 Look 26: Crocodile CEO — Piel de Poder
+**Arquetipo:** Corporate Power / Exotic · **Paleta:** Cocodrilo Negro + Oro · **Sin medias**
+**Referencia:** Textura de depredadora en el boardroom.
 
-- **Ubicacion:** `05_Imagenes/anais/look26_slug/`
-- **Categoria:** Corporate Power / Exotic
-- **Color:** Cocodrilo Negro + Oro
-- **Tags:** #anais #look26
-- **Concepto:** N/A
-- **Outfit:** black faux-crocodile leather trench coat worn as a dress, cinched at the waist with a wide gold-buckle belt, high collar, 12cm black patent leather stiletto heels with iconic red soles, gold statement necklace, black leather briefcase
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`black faux-crocodile leather trench coat worn as a dress, cinched at the waist with a wide gold-buckle belt, high collar, 12cm black patent leather stiletto heels with iconic red soles, gold statement necklace, black leather briefcase`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black faux-crocodile leather trench coat worn as a dress, cinched at the waist with a wide gold-buckle belt, high collar, 12cm black patent leather stiletto heels with iconic red soles, gold statement necklace, black leather briefcase. Seated at the head of a massive glass conference table, looking down at the camera with absolute corporate authority, the crocodile texture gleaming under cold office lights.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black faux-crocodile leather trench coat worn as a dress, cinched at the waist with a wide gold-buckle belt, high collar, 12cm black patent leather stiletto heels with iconic red soles, gold statement necklace, black leather briefcase. Seated at the head of a massive glass conference table, looking down at the camera with absolute corporate authority, the crocodile texture gleaming under cold office lights.`
 ---
+```
 
 ## 👑 Look 27: Dalmatian High-Fashion — Noir Editorial
+**Arquetipo:** High-Fashion / Cruella · **Paleta:** B&W Dálmata + Rojo · **Con medias**
+**Referencia:** Estética editorial de alto contraste.
 
-- **Ubicacion:** `05_Imagenes/anais/look27_slug/`
-- **Categoria:** High-Fashion / Cruella
-- **Color:** B&W Dálmata + Rojo
-- **Tags:** #anais #look27
-- **Concepto:** N/A
-- **Outfit:** oversized dalmatian print faux-fur coat, worn over a black latex bodysuit, red leather opera gloves, black fishnet stockings, 12cm black patent leather stiletto heels with iconic red soles, large black brimmed hat, dark red lipstick
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
-
-### 📝 Prompts
-
-**1. Standing:**
-
-```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. oversized dalmatian print faux-fur coat, worn over a black latex bodysuit, red leather opera gloves, black fishnet stockings, 12cm black patent leather stiletto heels with iconic red soles, large black brimmed hat, dark red lipstick. Side profile view, the dalmatian coat creating a massive silhouette, red gloves providing a sharp pop of color, dramatic avant-garde lighting.`
-```
+**BLOQUE B:**
+`oversized dalmatian print faux-fur coat, worn over a black latex bodysuit, red leather opera gloves, black fishnet stockings, 12cm black patent leather stiletto heels with iconic red soles, large black brimmed hat, dark red lipstick`
 
 ---
+
+**4. Side Profile:**
+
+```
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. oversized dalmatian print faux-fur coat, worn over a black latex bodysuit, red leather opera gloves, black fishnet stockings, 12cm black patent leather stiletto heels with iconic red soles, large black brimmed hat, dark red lipstick. Side profile view, the dalmatian coat creating a massive silhouette, red gloves providing a sharp pop of color, dramatic avant-garde lighting.`
+---
+```
 
 ## 👑 Look 28: Midnight Python Lingerie — Intimidad Prohibida
+**Arquetipo:** Retro Lingerie / Exotic · **Paleta:** Pitón Negro/Gris + Plata · **Con medias**
+**Referencia:** Depredación en el boudoir.
 
-- **Ubicacion:** `05_Imagenes/anais/look28_slug/`
-- **Categoria:** Retro Lingerie / Exotic
-- **Color:** Pitón Negro/Gris + Plata
-- **Tags:** #anais #look28
-- **Concepto:** N/A
-- **Outfit:** python skin patterned silk lingerie set (black/grey), matching python silk robe with silver trim, black lace garter belt, black sheer stockings, 12cm silver metallic stiletto heels with iconic red soles, silver choker
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`python skin patterned silk lingerie set (black/grey), matching python silk robe with silver trim, black lace garter belt, black sheer stockings, 12cm silver metallic stiletto heels with iconic red soles, silver choker`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. python skin patterned silk lingerie set (black/grey), matching python silk robe with silver trim, black lace garter belt, black sheer stockings, 12cm silver metallic stiletto heels with iconic red soles, silver choker. Lying on a bed with black silk sheets, supporting herself on one elbow, the python robe slipping off her shoulder, intense predatory bedroom gaze.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. python skin patterned silk lingerie set (black/grey), matching python silk robe with silver trim, black lace garter belt, black sheer stockings, 12cm silver metallic stiletto heels with iconic red soles, silver choker. Lying on a bed with black silk sheets, supporting herself on one elbow, the python robe slipping off her shoulder, intense predatory bedroom gaze.`
 ---
+```
 
 ## 👑 Look 29: Golden Cobra Gala — Majestuosidad Exótica
+**Arquetipo:** Night Gowns / Exotic · **Paleta:** Oro Cromo + Negro · **Sin medias**
+**Referencia:** Lujo escamoso y divinidad.
 
-- **Ubicacion:** `05_Imagenes/anais/look29_slug/`
-- **Categoria:** Night Gowns / Exotic
-- **Color:** Oro Cromo + Negro
-- **Tags:** #anais #look29
-- **Concepto:** N/A
-- **Outfit:** body-con dress made of gold metallic scale-textured fabric, floor-length with a deep slit, black velvet cape with gold embroidery, 12cm black patent leather stiletto heels with iconic red soles, heavy gold snake-shaped jewelry
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`body-con dress made of gold metallic scale-textured fabric, floor-length with a deep slit, black velvet cape with gold embroidery, 12cm black patent leather stiletto heels with iconic red soles, heavy gold snake-shaped jewelry`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. body-con dress made of gold metallic scale-textured fabric, floor-length with a deep slit, black velvet cape with gold embroidery, 12cm black patent leather stiletto heels with iconic red soles, heavy gold snake-shaped jewelry. Standing at the top of a grand marble staircase, the gold scales reflecting the ambient light like a liquid cobra, one hand on the velvet cape.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. body-con dress made of gold metallic scale-textured fabric, floor-length with a deep slit, black velvet cape with gold embroidery, 12cm black patent leather stiletto heels with iconic red soles, heavy gold snake-shaped jewelry. Standing at the top of a grand marble staircase, the gold scales reflecting the ambient light like a liquid cobra, one hand on the velvet cape.`
 ---
+```
 
 ## 👑 Look 30: Velvet Panther — Dominio Nocturno
+**Arquetipo:** Night Gowns / Noir · **Paleta:** Negro Profundo + Plata · **Con medias**
+**Referencia:** Elegancia depredadora y misterio.
 
-- **Ubicacion:** `05_Imagenes/anais/look30_slug/`
-- **Categoria:** Night Gowns / Noir
-- **Color:** Negro Profundo + Plata
-- **Tags:** #anais #look30
-- **Concepto:** N/A
-- **Outfit:** tight black velvet jumpsuit with a plunging neckline, silver leopard-print sequins on the shoulders, wide black leather belt, black sheer gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, silver whip
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`tight black velvet jumpsuit with a plunging neckline, silver leopard-print sequins on the shoulders, wide black leather belt, black sheer gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, silver whip`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. tight black velvet jumpsuit with a plunging neckline, silver leopard-print sequins on the shoulders, wide black leather belt, black sheer gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, silver whip. Walking through a dimly lit mansion hallway, whip in hand, the velvet absorbing the light, a look of focused dominance.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. tight black velvet jumpsuit with a plunging neckline, silver leopard-print sequins on the shoulders, wide black leather belt, black sheer gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, silver whip. Walking through a dimly lit mansion hallway, whip in hand, the velvet absorbing the light, a look of focused dominance.`
 ---
+```
 
 ## 👑 Look 31: Peacock Silk — Opulencia Real
+**Arquetipo:** High-Fashion / Matriarch · **Paleta:** Azul Joya + Esmeralda + Oro · **Sin medias**
+**Referencia:** Lujo barroco y colores reales.
 
-- **Ubicacion:** `05_Imagenes/anais/look31_slug/`
-- **Categoria:** High-Fashion / Matriarch
-- **Color:** Azul Joya + Esmeralda + Oro
-- **Tags:** #anais #look31
-- **Concepto:** N/A
-- **Outfit:** emerald green heavy silk robe with intricate peacock feather embroidery in sapphire and gold, worn over a black satin slip, gold stiletto heels (12cm) with iconic red soles, oversized emerald cocktail ring, heavy gold collar
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
-
-### 📝 Prompts
-
-**1. Standing:**
-
-```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. emerald green heavy silk robe with intricate peacock feather embroidery in sapphire and gold, worn over a black satin slip, gold stiletto heels (12cm) with iconic red soles, oversized emerald cocktail ring, heavy gold collar. Seated in an ornate antique throne-like chair, peacock feathers framing her figure, looking directly at the viewer with cold regal superiority.`
-```
+**BLOQUE B:**
+`emerald green heavy silk robe with intricate peacock feather embroidery in sapphire and gold, worn over a black satin slip, gold stiletto heels (12cm) with iconic red soles, oversized emerald cocktail ring, heavy gold collar`
 
 ---
+
+**3. Seated:**
+
+```
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. emerald green heavy silk robe with intricate peacock feather embroidery in sapphire and gold, worn over a black satin slip, gold stiletto heels (12cm) with iconic red soles, oversized emerald cocktail ring, heavy gold collar. Seated in an ornate antique throne-like chair, peacock feathers framing her figure, looking directly at the viewer with cold regal superiority.`
+---
+```
 
 ## 👑 Look 32: Snow Leopard Executive — Autoridad Fría
+**Arquetipo:** Corporate Power / Exotic · **Paleta:** Leopardo de Nieve (Gris/Blanco) + Plata · **Sin medias**
+**Referencia:** Lujo alpino y poder ejecutivo.
 
-- **Ubicacion:** `05_Imagenes/anais/look32_slug/`
-- **Categoria:** Corporate Power / Exotic
-- **Color:** Leopardo de Nieve (Gris/Blanco) + Plata
-- **Tags:** #anais #look32
-- **Concepto:** N/A
-- **Outfit:** grey and white snow leopard print wool blazer, matching pencil skirt, white silk blouse, silver brooch, 12cm silver stiletto pumps with iconic red soles, platinum watch, silver framed reading glasses
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`grey and white snow leopard print wool blazer, matching pencil skirt, white silk blouse, silver brooch, 12cm silver stiletto pumps with iconic red soles, platinum watch, silver framed reading glasses`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. grey and white snow leopard print wool blazer, matching pencil skirt, white silk blouse, silver brooch, 12cm silver stiletto pumps with iconic red soles, platinum watch, silver framed reading glasses. Standing in front of a floor-to-ceiling window in a skyscraper, snow falling outside, holding the silver glasses, looking intensely at the camera with cold executive precision.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. grey and white snow leopard print wool blazer, matching pencil skirt, white silk blouse, silver brooch, 12cm silver stiletto pumps with iconic red soles, platinum watch, silver framed reading glasses. Standing in front of a floor-to-ceiling window in a skyscraper, snow falling outside, holding the silver glasses, looking intensely at the camera with cold executive precision.`
 ---
+```
 
 ## 👑 Look 33: Obsidian Crow — Matriarca Oscura
+**Arquetipo:** High-Fashion / Noir · **Paleta:** Negro Carbón + Plumas + Plata · **Con medias**
+**Referencia:** Luto aristocrático y poder oscuro.
 
-- **Ubicacion:** `05_Imagenes/anais/look33_slug/`
-- **Categoria:** High-Fashion / Noir
-- **Color:** Negro Carbón + Plumas + Plata
-- **Tags:** #anais #look33
-- **Concepto:** N/A
-- **Outfit:** black satin cocktail dress, oversized cape made of black iridescent crow feathers, black lace veil, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, obsidian jewelry, silver cane
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`black satin cocktail dress, oversized cape made of black iridescent crow feathers, black lace veil, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, obsidian jewelry, silver cane`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black satin cocktail dress, oversized cape made of black iridescent crow feathers, black lace veil, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, obsidian jewelry, silver cane. Standing in a gothic courtyard at night, the feather cape rustling, leaning slightly on the silver cane, a powerful and mourning figure.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black satin cocktail dress, oversized cape made of black iridescent crow feathers, black lace veil, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, obsidian jewelry, silver cane. Standing in a gothic courtyard at night, the feather cape rustling, leaning slightly on the silver cane, a powerful and mourning figure.`
 ---
+```
 
 ## 👑 Look 34: Emerald Reptile — Lujo Venenoso
+**Arquetipo:** Night Gowns / Exotic · **Paleta:** Verde Esmeralda + Negro + Oro · **Sin medias**
+**Referencia:** Textura de reptil y elegancia peligrosa.
 
-- **Ubicacion:** `05_Imagenes/anais/look34_slug/`
-- **Categoria:** Night Gowns / Exotic
-- **Color:** Verde Esmeralda + Negro + Oro
-- **Tags:** #anais #look34
-- **Concepto:** N/A
-- **Outfit:** emerald green iridescent scale-textured latex gown, floor-length, open back, black leather harness over the shoulders, 12cm black patent leather stiletto heels with iconic red soles, heavy gold bracelets, emerald earrings
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**BLOQUE B:**
+`emerald green iridescent scale-textured latex gown, floor-length, open back, black leather harness over the shoulders, 12cm black patent leather stiletto heels with iconic red soles, heavy gold bracelets, emerald earrings`
 
-### 📝 Prompts
+---
 
 **1. Standing:**
 
 ```
-`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. emerald green iridescent scale-textured latex gown, floor-length, open back, black leather harness over the shoulders, 12cm black patent leather stiletto heels with iconic red soles, heavy gold bracelets, emerald earrings. Standing with her back to the camera, looking over her shoulder, the scale texture shimmering like a poisonous snake, intense dominant gaze.`
-```
-
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. emerald green iridescent scale-textured latex gown, floor-length, open back, black leather harness over the shoulders, 12cm black patent leather stiletto heels with iconic red soles, heavy gold bracelets, emerald earrings. Standing with her back to the camera, looking over her shoulder, the scale texture shimmering like a poisonous snake, intense dominant gaze.`
 ---
+```
 
 ## 👑 Look 35: La Soberana de la Noche — Encaje y Sombra
 
-- **Ubicacion:** `05_Imagenes/anais/look35_slug/`
-- **Categoria:** Noche / La Voûte
-- **Color:** Negro Chantilly + Champagne + Azabache
-- **Tags:** #anais #look35
-- **Concepto:** La anfitriona de todo lo que ocurre en La Voûte después de la medianoche. No necesita presentación. El encaje es su piel y el tren que arrastra detrás de ella recuerda que algo se ha ido donde ella estuvo.
-- **Outfit:** floor-length black Chantilly lace column gown over nude champagne silk underlayer with ultra-sheer black organza full-length sleeves, structured black grosgrain 6cm-wide cinch belt with oversized bow at back, chapel-length lace train, black elbow-length kid leather opera gloves, onyx and diamond teardrop drop earrings, triple-strand jet bead choker, long ivory cigarette holder with jet black tip, 12cm black patent leather stiletto pumps iconic red sole
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Noche / La Voûte · **Paleta:** Negro Chantilly + Champagne + Azabache · **Sin medias · Boquilla marfil**
+**Referencia:** Gene Tierney en *Leave Her to Heaven* (1945) — la elegancia que destruye en silencio
 
-### 📝 Prompts
+**Concepto:** La anfitriona de todo lo que ocurre en La Voûte después de la medianoche. No necesita presentación. El encaje es su piel y el tren que arrastra detrás de ella recuerda que algo se ha ido donde ella estuvo.
+
+**BLOQUE B:**
+`floor-length black Chantilly lace column gown over nude champagne silk underlayer with ultra-sheer black organza full-length sleeves, structured black grosgrain 6cm-wide cinch belt with oversized bow at back, chapel-length lace train, black elbow-length kid leather opera gloves, onyx and diamond teardrop drop earrings, triple-strand jet bead choker, long ivory cigarette holder with jet black tip, 12cm black patent leather stiletto pumps iconic red sole`
+
+---
 
 **1. Standing:**
 
@@ -1233,21 +1254,26 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black Chantilly lace column gown over nude champagne silk underlayer with ultra-sheer black organza full-length sleeves, structured black grosgrain 6cm-wide cinch belt with oversized bow at back, chapel-length lace train, black elbow-length kid leather opera gloves, onyx and diamond teardrop drop earrings, triple-strand jet bead choker, long ivory cigarette holder with jet black tip, 12cm black patent leather stiletto pumps iconic red sole. medium shot from chest up cold sovereign gaze directly into camera — the look of a woman who was here before you arrived and will remain after you leave, beauty mark visible above upper left lip, triple-strand jet bead choker against Chantilly lace décolletage organza sleeves framing the shoulders, warm amber candlelight chiaroscuro, old Hollywood dark sovereign power
 ```
 
+### 📸 Imágenes (0/4 — Pendiente generación)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look35_standing.png` |
+| **Seated** | `anais_look35_seated.png` |
+| **Three-Quarter** | `anais_look35_three_quarter.png` |
+| **Close-up** | `anais_look35_closeup.png` |
+
 ---
 
 ## 👑 Look 36: Crimson Sovereignty — Terciopelo Carballeira
 
-- **Ubicacion:** `05_Imagenes/anais/look36_slug/`
-- **Categoria:** Noche / La Voûte
-- **Color:** Carmesí Profundo + Negro Azabache + Oro Imperial
-- **Tags:** #anais #look36
-- **Concepto:** La Soberana en su salón privado. Terciopelo carmesí italiano con corsé underbust de encaje negro sobrepuesto y escote pronunciado.
-- **Outfit:** floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** cigarette holder
-- **Ambientacion:** Setting description
+**Arquetipo:** Noche / La Voûte · **Paleta:** Carmesí Profundo + Negro Azabache + Oro Imperial
+**Concepto:** La Soberana en su salón privado. Terciopelo carmesí italiano con corsé underbust de encaje negro sobrepuesto y escote pronunciado.
 
-### 📝 Prompts
+**BLOQUE B:**
+`floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder`
+
+---
 
 **1. Standing:**
 
@@ -1255,7 +1281,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder. full body standing three-quarter angle weight on left hip cold sovereign gaze locked into camera, dark aristocratic interior of La Voûte deep burgundy velvet drapes dim amber candlelight
 ```
 
-**1. Standing:**
+**2. Back View:**
 
 ```
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder. back view standing in front of large vintage gilt mirror, gloved hand tracing velvet curve of lower back, cold gaze looking into mirror reflection back at lens
@@ -1273,39 +1299,34 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder. three-quarter body angle, posture upright, velvet folds glowing in amber key light, gaze lingering over shoulder
 ```
 
-**1. Standing:**
+**5. Sovereign Gaze:**
 
 ```
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder. sovereign_gaze close portrait from chest up, beauty mark above upper left lip visible, piercing red lips and dark cat-eye liner framing cold gaze into camera
 ```
 
-**1. Standing:**
+**6. POV:**
 
 ```
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder. kneeling_pov low angle looking up, camera positioned as if kneeling before her, her cold sovereign gaze looking straight down into lens, red soles of 12cm heels visible
 ```
 
-**1. Standing:**
+**7. Odalisque:**
 
 ```
 8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length deep crimson Italian velvet gown with plunging sweetheart neckline, black French lace underbust tightlacing corset worn over velvet, black kidskin elbow-length opera gloves, 12cm black patent leather stiletto pumps iconic red sole, gold and ruby drop earrings, ivory cigarette holder. chaise_command pose, reclining on luxury velvet chaise longue, posture upright and regal, velvet gown draped dramatically over chaise edge
-```
-
 ---
+```
 
 ## 👑 Look 37: Obsidian Silk Sovereign — Kimono de Estudio
 
-- **Ubicacion:** `05_Imagenes/anais/look37_slug/`
-- **Categoria:** Sesión Literaria
-- **Color:** Negro Seda + Carmesí + Hilo de Oro
-- **Tags:** #anais #look37
-- **Concepto:** Escritura nocturna y estudio privado. Robe kimono de seda charmeuse negra pesada con bordados en hilo de oro sobre corsé carmesí.
-- **Outfit:** floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Sesión Literaria · **Paleta:** Negro Seda + Carmesí + Hilo de Oro
+**Concepto:** Escritura nocturna y estudio privado. Robe kimono de seda charmeuse negra pesada con bordados en hilo de oro sobre corsé carmesí.
 
-### 📝 Prompts
+**BLOQUE B:**
+`floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves`
+
+---
 
 **1. Standing:**
 
@@ -1313,21 +1334,52 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic intimate portrait, warm amber dramatic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves. standing erect in private library study, desk with antique fountain pen in background, cold sovereign gaze into lens
 ```
 
+**2. Back View:**
+
+```
+8k ultra cinematic intimate portrait, warm amber dramatic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves. back view, gold embroidery gleaming under amber lamp light, looking back over shoulder into study mirror
+```
+
+**3. Seated:**
+
+```
+8k ultra cinematic intimate portrait, warm amber dramatic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves. seated at heavy oak writing desk, legs crossed, hand resting on manuscript, cold gaze into camera
+```
+
+**4. Side Profile:**
+
+```
+8k ultra cinematic intimate portrait, warm amber dramatic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves. three-quarter body shot, silk robe draped elegantly over S-curve silhouette, warm amber lamp light
+```
+
+**5. Sovereign Gaze:**
+
+```
+8k ultra cinematic intimate portrait, warm amber dramatic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves. sovereign_gaze portrait, close-up face and décolletage, crimson lips, mole above upper left lip, warm chiaroscuro
+```
+
+**6. POV:**
+
+```
+8k ultra cinematic intimate portrait, warm amber dramatic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves. kneeling_pov low angle, looking down from desk position, commanding eyes gazing down
+```
+
+**7. Odalisque:**
+
+```
+8k ultra cinematic intimate portrait, warm amber dramatic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length black heavy charmeuse silk kimono robe with gold dragon embroidery along sleeves and hem, crimson silk tightlacing underbust corset worn underneath, black sheer back-seam stockings, 12cm black patent leather stiletto pumps iconic red sole, gold dragon hairpin in vintage pin-waves. chaise_command pose, reclining on leather study daybed, silk robe open revealing crimson corset tightlacing
 ---
+```
 
 ## 👑 Look 38: Imperial Gold Lace — Gala de Ópera
 
-- **Ubicacion:** `05_Imagenes/anais/look38_slug/`
-- **Categoria:** Gala / Premiere
-- **Color:** Oro Imperial + Negro Azabache
-- **Tags:** #anais #look38
-- **Concepto:** Alfombra roja y noche de ópera. Vestido columna en encaje francés oro metálico sobre forro de seda negra.
-- **Outfit:** floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Gala / Premiere · **Paleta:** Oro Imperial + Negro Azabache
+**Concepto:** Alfombra roja y noche de ópera. Vestido columna en encaje francés oro metálico sobre forro de seda negra.
 
-### 📝 Prompts
+**BLOQUE B:**
+`floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings`
+
+---
 
 **1. Standing:**
 
@@ -1335,21 +1387,52 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic glamour portrait, Vogue Paris 1950s editorial, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings. standing on opera house balcony, gold lace shimmering in chandelier light, cold commanding gaze into camera
 ```
 
+**2. Back View:**
+
+```
+8k ultra cinematic glamour portrait, Vogue Paris 1950s editorial, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings. back view standing at gilt foyer mirror, gold lace back pattern, cold glance into mirror reflection
+```
+
+**3. Seated:**
+
+```
+8k ultra cinematic glamour portrait, Vogue Paris 1950s editorial, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings. seated in VIP opera box velvet chair, gloved arms resting on red velvet railing, imperious gaze
+```
+
+**4. Side Profile:**
+
+```
+8k ultra cinematic glamour portrait, Vogue Paris 1950s editorial, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings. three-quarter body angle, gold lace column silhouette catching spotlight
+```
+
+**5. Sovereign Gaze:**
+
+```
+8k ultra cinematic glamour portrait, Vogue Paris 1950s editorial, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings. sovereign_gaze close-up, diamond chandelier earrings framing sharp jawline, beauty mark and crimson lips
+```
+
+**6. POV:**
+
+```
+8k ultra cinematic glamour portrait, Vogue Paris 1950s editorial, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings. kneeling_pov low angle, looking down from grand staircase
+```
+
+**7. Odalisque:**
+
+```
+8k ultra cinematic glamour portrait, Vogue Paris 1950s editorial, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length imperial gold metallic French lace column gown over black silk sheath underlayer, black velvet waist cinch belt with gold buckle, black satin opera gloves to shoulder, 12cm black patent leather stiletto heels iconic red sole, diamond and gold chandelier earrings. chaise_command pose, seated in velvet salon lounger, gold gown pooling dramatically around stiletto heels
 ---
+```
 
 ## 👑 Look 39: Clinical Dominance — Látex de Grado Clínico
 
-- **Ubicacion:** `05_Imagenes/anais/look39_slug/`
-- **Categoria:** Látex / Fetichismo
-- **Color:** Negro Espejo + Burdeos Profundo
-- **Tags:** #anais #look39
-- **Concepto:** Látex de grado clínico en su máxima expresión aristocrática. Catsuit de látex negro espejo de 0.5mm con corsé tightlacing burdeos.
-- **Outfit:** high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Látex / Fetichismo · **Paleta:** Negro Espejo + Burdeos Profundo
+**Concepto:** Látex de grado clínico en su máxima expresión aristocrática. Catsuit de látex negro espejo de 0.5mm con corsé tightlacing burdeos.
 
-### 📝 Prompts
+**BLOQUE B:**
+`high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker`
+
+---
 
 **1. Standing:**
 
@@ -1357,21 +1440,52 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic dark power portrait, high-gloss cinematic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker. full body standing three-quarter angle, latex highlights catching key light, cold dominant gaze into lens, minimalist private vault
 ```
 
+**2. Back View:**
+
+```
+8k ultra cinematic dark power portrait, high-gloss cinematic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker. back view standing, burgundy corset lacing tight on back, gaze in mirror reflection
+```
+
+**3. Seated:**
+
+```
+8k ultra cinematic dark power portrait, high-gloss cinematic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker. seated on chrome and black leather throne chair, erect posture, 8k
+```
+
+**4. Side Profile:**
+
+```
+8k ultra cinematic dark power portrait, high-gloss cinematic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker. three-quarter side profile, clinical latex reflections, 8k
+```
+
+**5. Sovereign Gaze:**
+
+```
+8k ultra cinematic dark power portrait, high-gloss cinematic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker. sovereign_gaze close-up, high gloss latex framing porcelain face, cold gaze
+```
+
+**6. POV:**
+
+```
+8k ultra cinematic dark power portrait, high-gloss cinematic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker. kneeling_pov low angle, looking down with supreme clinical authority, 8k
+```
+
+**7. Odalisque:**
+
+```
+8k ultra cinematic dark power portrait, high-gloss cinematic lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. high-gloss black 0.5mm clinical grade latex turtleneck long sleeve gown, burgundy latex underbust tightlacing corset with steel busk, black latex opera gloves, 12cm black patent leather stiletto pumps iconic red sole, black latex neck choker. chaise_command pose, reclining on black clinical bench, latex gown glistening under spotlight
 ---
+```
 
 ## 👑 Look 40: Snow Leopard Matriarch — Autoridad Aristocrática
 
-- **Ubicacion:** `05_Imagenes/anais/look40_slug/`
-- **Categoria:** Animal Print / Autoridad
-- **Color:** Leopardo de Nieve (Blanco/Gris/Negro) + Carmesí
-- **Tags:** #anais #look40
-- **Concepto:** Autoridad felina aristocrática. Abrigo gown de terciopelo leopardo de nieve sobre corsé de cuero negro cinched.
-- **Outfit:** floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings
-- **Calzado:** 12cm black patent leather stiletto heels iconic red sole
-- **Accesorios:** Accessories description
-- **Ambientacion:** Setting description
+**Arquetipo:** Animal Print / Autoridad · **Paleta:** Leopardo de Nieve (Blanco/Gris/Negro) + Carmesí
+**Concepto:** Autoridad felina aristocrática. Abrigo gown de terciopelo leopardo de nieve sobre corsé de cuero negro cinched.
 
-### 📝 Prompts
+**BLOQUE B:**
+`floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings`
+
+---
 
 **1. Standing:**
 
@@ -1379,4 +1493,42 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 8k ultra cinematic predatory editorial portrait, dramatic noir lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings. standing in private library lounge, hands in leather gloves resting on leather corset, cold predatory stare
 ```
 
+**2. Back View:**
+
+```
+8k ultra cinematic predatory editorial portrait, dramatic noir lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings. back view standing, snow leopard velvet back pattern, glance in mirror
+```
+
+**3. Seated:**
+
+```
+8k ultra cinematic predatory editorial portrait, dramatic noir lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings. seated in leather armchair, trench gown spread open at knee revealing black stiletto heels with red soles
+```
+
+**4. Side Profile:**
+
+```
+8k ultra cinematic predatory editorial portrait, dramatic noir lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings. three-quarter profile, snow leopard texture catching key light
+```
+
+**5. Sovereign Gaze:**
+
+```
+8k ultra cinematic predatory editorial portrait, dramatic noir lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings. sovereign_gaze portrait, close-up face, snow leopard collar framing porcelain neck and mole
+```
+
+**6. POV:**
+
+```
+8k ultra cinematic predatory editorial portrait, dramatic noir lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings. kneeling_pov low angle, looking down with predatory grace, 8k
+```
+
+**7. Odalisque:**
+
+```
+8k ultra cinematic predatory editorial portrait, dramatic noir lighting, sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length snow leopard pattern velvet trench gown with black satin lapels, black leather underbust cincher corset, black kidskin wrist-length gloves, 12cm black patent leather stiletto heels iconic red sole, diamond stud earrings. chaise_command pose, reclining on penthouse sofa, snow leopard gown sweeping down to 12cm stiletto heels with red soles
 ---
+*galeria_looks_anais.md v10.0 — Anaïs Belland — 05/08/2026*
+*40 looks · 161 prompts · ADN Ageless V2.3 · Estructura A+B+C · Protocolo Hard-Sync (7 Poses Universales)*
+*Outfits: 01-11 (Varios) · L01-L06 Lencería · 15-17 Night Gowns · 18-19 Retro Lingerie · 20-21 Latex · 22-24 Animal Print V2.3 · 25-34 Hybrid Authority Collection · 35 Noche/La Voûte · 36-40 Estandarizado 7 Poses Collection*
+```
