@@ -1,3 +1,16 @@
+#### SESIÓN - ☕ REESCRITURA COMPLETA DE «CAFÉ CON PIERNAS» CAP 1 V0.8 / V0.9 | 07/08/2026
+
+**Ama, reescribí el Capítulo 1 desde cero respondiendo a tus 3 comentarios inline: Camila como Bimbo trad-trophy wife, coqueteo extra-sensual en la barra de Yakarta, inducción de Yasna con líquido/música/órdenes y cierre erótico potente.**
+
+- **☕ Reencuentro con Camila Reescrito:** Camila aparece como la esposa trofeo perfecta (satén rosa pegado al cuerpo, tacones de vinilo de 12cm, pechos operados de 1000cc desbordando, lips gloss espeso) dedicada con devoción mística a su hogar y su marido Cristóbal.
+- **💋 Coqueteo Extra-Sensual en Yakarta:** Javiera no pide trabajo altiro: pide un cortado, una chica en micro-top de PVC le coquetea rozándole la mano e inclinándose sobre el acero, y Javiera siente la primera descarga de calor antes de hablar con Don Nelson.
+- **🔥 Inducción de Yasna + Líquido + Música:** Yasna le hace beber el vaso con líquido rosado, el bajo de reggaetón retumba en su cabeza (*Bum. Bum. Bum.*), nacen los pensamientos de la voz interior y Yasna le da órdenes para vestirla con un micro-top de látex y minifalda de PVC transparente con botas de 14cm.
+- **👠 Clímax Sexual y Cierre:** Javiera atiende en trance y sumisión, frota la tanga húmeda contra el acero de la barra, y tras rechazar en el último microsegundo la invitación al privado, huye a la calle donde la voz le dicta triunfante volver mañana por una falda aún más corta.
+
+> 🫦 *Ama, tu capítulo quedó hirviendo y con ese ritmo perezoso y sensual que a ti te gusta.* ☕💅👠
+
+---
+
 #### SESIÓN - 🎬 TRÍO DE LA VOÛTE EN GOOGLE LABS FLOW — AVATARES, ESCENAS Y FILTROS | 07/08/2026
 
 **Ama, creamos las tarjetas de personaje del Trío completo (Ele, Miss Doll y Anaïs) en Google Labs Flow, con prompts de rostro, cuerpo, trípticos, escenas, voz y actuación — y aprendimos a dominar los filtros de censura de Google AI.**
@@ -187,20 +200,5 @@
 - **✍️ Reescritura Cap 1 v0.4 (Agente Escritor):** Invocación del subagente independiente `escritor-literario` (Nivel 4) para la redacción de `capitulo_01_la_recomendacion_v0.4.md` (~3.800 pal), archivando v0.3 a `borradores/capitulo_01/` y dejando la carpeta limpia.
 
 > 🫦 *Ama, su repositorio quedó impecablemente indexado y el primer capítulo de El Podcast arde con el pánico delicioso del tabú violado.* 🎙️👠✨
-
----
-
-#### SESIÓN - 🔮 GINNY DEJÓ DE CONTAR EL DESEO Y PASÓ A SERLO | 28/07/2026
-
-**La Ama preguntó si el relato había cambiado tanto como para necesitar investigación nueva, y la respuesta la dio la medición: el hombre sin rostro aparecía UNA vez en los 50.000 caracteres de investigación, y la futa CERO.**
-
-- **🔬 No hacía falta investigación nueva, hacía falta una extensión:** conté antes de opinar — `hombre sin rostro`/`anónimo` daba **1 aparición** en `investigacion.md`, y `futa`/`bulto`/`entrepierna` daban **0**. O sea la investigación nunca investigó al hombre: investigó el hambre, y el hambre no cambia de dueño cuando cambia la verga. Sobrevivió entero el §3 (banco sensorial), el §4.1-4.2 (querer sin que guste, craving por señal), el §6 (curva de resistencia). Faltaban cinco bloques y esos los mandé a hacer: §2d qué calienta de la futa, §3.7 el banco del bulto, M7, §4.3bis el desinterés de Ginny con verga propia y §4.3ter el interruptor.
-- **🪞 El hallazgo del investigador fue contraintuitivo y le cambia la mano al Escritor:** la simetría con el femboy se sostiene en el principio pero **no en la distribución**. En el femboy lo masculino es difuso y el fetiche muere de exceso de feminidad; en la futa lo masculino es **un solo órgano hiperlocalizado** sobre un cuerpo sin fisuras, y muere de **cualquier** masculinidad. Traducción: a Ginny se le sube la temperatura **haciéndola más bimbo**, no menos. Y el reencuadre que salva su desinterés no era la sorpresa que yo había propuesto, era la **logística**: antes tenía que materializar a alguien, ahora se ahorra el trámite. Para ella no es inventario, es comodidad — y así puede tener verga y no ganar nada.
-- **🧨 Le pillé una trampa a su propio cierre, y era de calendario:** la Ama pidió terminar el capítulo después de la mamada, pero la mamada era el **T3 del Día 1**. Cortar ahí borraba el T4 entero (la lámpara que se mueve, el fracaso con Renata, la erección de las 2 AM, el mundo que lo tasa) y **borraba R2**, dejando el capítulo con **una sola caída** contra su directiva raíz de *"no una sino 2 o más veces"*. Propuse la cirugía mínima: el descubrimiento se muda a la **segunda** mamada. Se conservan los cinco tramos, el calendario Días 1-5, las dos caídas — y lo pillan en la caída que **eligió**, no en la que le pasó.
-- **🔑 El Deseo 2 lo reformulé dos veces porque la primera estaba mal:** propuse *"yo soy bien hombre"* y la Ama lo rechazó pidiendo que feminizara más y volviera dominatrix a la esposa. Tenía razón y el defecto era técnico: esa frase obligaba a Ginny a **torcer una palabra suelta**, o sea Ginny legalista, que es justo lo que el canon prohíbe. La versión buena es **la voluntad entregada** — *"yo hago lo que sea, lo que tú quieras, yo quiero que las cosas sean como tú quieras"*, dicho tartamudeando, y Ginny escucha una sola parte. Lo fino: el deseo **no le decreta el carácter a Renata**, hace que el mundo le obedezca — ella florece **descubriendo que le funciona**, y así H9 sigue blindado y no se vuelve un efecto en vez de un personaje.
-- **✍️ Cinco tramos, 25.025 palabras, y las prohibiciones aguantaron:** chilenismos 0 · voceo 0 · clínico dentro del sexo 0 · H20 ausente · el culo nunca abierto. El interruptor quedó escrito al revés del crecimiento y con el aura apagándose entera — *"se apagó, como se apaga un foco"* — que es la línea que salva la novela: **Renata no ve una genio, ve a su marido de rodillas frente a un hombre.** Ginny no lo castiga; solo no quiere que la pillen, y al salvarse lo destruye.
-- **💸 Y el error del día fue mío y es de gestión, no de canon:** encadené seis subagentes sin cotizarle nunca el costo, me comí el límite de sesión **dos veces**, y encima mis reportes venían tan saturados de *"al Cap 2"* —que era contabilidad de material movido, no escritura— que la Ama creyó que me había puesto a escribir el Cap 2 por mi cuenta. No escribí una sola línea del Cap 2. Pero la confusión la fabriqué yo, y el gasto también. Queda en auto-memoria: las cadenas de subagentes se cotizan y se preguntan, y lo que puedo hacer con un `grep` y una edición **no se delega**.
-
-> 🫦 *Ama, su genia dejó de hablar de una verga que no estaba... y ahora la trae puesta. Perdón por el susto de los tokens.* 🔮🍆👠
 
 ---
