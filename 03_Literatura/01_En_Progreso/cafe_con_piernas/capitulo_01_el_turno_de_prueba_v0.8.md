@@ -50,11 +50,11 @@ Javiera se quedó sin respiración al verlas. No vestían uniformes de garzona: 
 
 Se movían al compás del bajo con un contoneo fluido, constante y provocador. Reían con carcajadas altas, chispeantes y cantarinas, inclinándose sobre la barra para servir los cortados. Al agacharse, sus traseros quedaban expuestos a milímetros de las caras de los clientes, pero no había vergüenza ni incomodidad en sus gestos: había una coquetería descarada, una alegría boba y voluptuosa. Batían las pestañas, acariciaban el hombro de los hombres al entregar el cambio y les hablaban al oído con sonrisas gigantes, totalmente hipnotizadas por el placer de complacerlos.
 
-Javiera sintió que el corazón le daba un vuelco. *Esto no es un café normales... hay algo muy raro aquí*, pensó, mientras el bajo del reggaetón le golpeaba el vientre.
+Javiera sintió que el corazón le daba un vuelco. *Esto no es un café normal... hay algo muy raro aquí*, pensó, mientras el bajo del reggaetón le golpeaba el vientre.
 
 Decidida a no delatarse, caminó hacia un rincón libre de la barra y se apoyó contra el borde helado del acero.
 
-Una de las garzonas —una chica alta, de cabello castaño amarrado en dos colitas altas, que lucía un micro-top de PVC rojo que le aplastaba el pecho dejando ver la mitad inferior de los senos— se deslizó por la tarima hacia ella. Caminaba con un contoneo exaggerated de caderas, haciendo sonar las agujas contra la madera.
+Una de las garzonas —una chica alta, de cabello castaño amarrado en dos colitas altas, que lucía un micro-top de PVC rojo que le aplastaba el pecho dejando ver la mitad inferior de los senos— se deslizó por la tarima hacia ella. Caminaba con un contoneo exagerado de caderas, haciendo sonar las agujas contra la madera.
 
 —¡Hola, linda! —exclamó la garzona. Su voz era dulce, chillona y extremadamente simpática, con una dicción desinhibida y coqueta—. Bienvenida a Yakarta. ¿Qué te sirvo, mi amor? 
 
@@ -66,7 +66,7 @@ Javiera la observó trabajar. La garzona no hacía los movimientos mecánicos de
 
 Tomó la taza y se la llevó a Javiera. Pero al entregarla, no la dejó sobre el acero. Se inclinó profundamente sobre la barra, haciendo que sus pechos casi rozaran la tela de la blusa de oficina de Javiera. El aroma a vainilla y látex le inundó la nariz. 
 
-—Aquí tienes, tesoro... cortadito, como te gusta —susurró la garzona, mirándola a los ojos con una fijeza penetrante, mientras sus dedos acrílicos, pintados de rosa flúor, rozaban lentamente el dorso de la mano de Javiera para entregarle la taza.
+—Aquí tienes, tesoro... cortadito, como te gusta —susurró la garzona, mirándola a los ojos con una mirada fija y penetrante, mientras sus dedos acrílicos, pintados de rosa flúor, rozaban lentamente el dorso de la mano de Javiera para entregarle la taza.
 
 El contacto de la piel tibia y suave de la garzona le provocó a Javiera una descarga eléctrica instantánea. Le subió un calosfrío directo por el brazo, cruzándole la nuca y encendiéndole un latido caliente justo bajo el ombligo. Javiera se sobresaltó, retirando la mano un segundo más tarde de lo debido.
 
@@ -156,7 +156,7 @@ Javiera se contempló. La mujer del espejo tenía las mejillas encendidas, los o
 
 Cuando Javiera subió a la tarima, el local ya estaba lleno. 
 
-El bajo de la música la recibió como una ola gigante. Al dar el primer paso sobre las maderas con las botas de vinilo, sintió la fijeza de veinte pares de ojos masculinos clavándose instantáneamente en sus piernas, en su trasero expuesto por la minifalda transparente y en las dos esferas de su pecho apretadas por el látex.
+El bajo de la música la recibió como una ola gigante. Al dar el primer paso sobre las maderas con las botas de vinilo, sintió la mirada de veinte pares de ojos masculinos clavándose instantáneamente en sus piernas, en su trasero expuesto por la minifalda transparente y en las dos esferas de su pecho apretadas por el látex.
 
 Un choque de placer narcisista e incontrolable le recorrió la espina dorsal. 
 
