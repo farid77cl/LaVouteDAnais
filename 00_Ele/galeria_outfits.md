@@ -22848,11 +22848,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientacion:** on a Capri terrace at brunch, a white pergola, bougainvillea and the blue gulf below
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look514_capri_trophy/ele_514_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look514_capri_trophy/ele_514_standing.png) | [📸 View](../../05_Imagenes/ele/look514_capri_trophy/ele_514_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -23116,11 +23116,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientacion:** at an Ibiza pool party under UV blacklight, foam, neon and a mirrored pool
 
-### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_standing.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_back_view.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_seated.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_side_profile.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_ditzy.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_standing.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_back_view.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_seated.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_side_profile.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_ditzy.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_pov.png) | [📸 View](../../05_Imagenes/ele/look518_ibiza_holo_pool/ele_518_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -23317,11 +23317,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientacion:** in a private mirrored dungeon-penthouse with low red light, a leather throne and chrome restraints on the wall
 
-### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_standing.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_back_view.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_seated.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_side_profile.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_ditzy.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_pov.png) | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_standing.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_back_view.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_seated.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_side_profile.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_ditzy.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_pov.png) | [📸 View](../../05_Imagenes/ele/look521_catsuit_domme_total/ele_521_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -23384,11 +23384,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientacion:** in a floor-to-ceiling mirrored room with hard lateral light multiplying the harness lines
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_standing.png) | [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_back_view.png) | [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_seated.png) | [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_side_profile.png) | [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_ditzy.png) | [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_pov.png) | [📸 View](../../05_Imagenes/ele/look522_arnes_bordelle_integral/ele_522_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -23585,11 +23585,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientacion:** on a smoky strip-club pole stage with a chrome pole, hard spotlights and dark VIP booths behind
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_standing.png) | [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_back_view.png) | [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_seated.png) | [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_side_profile.png) | [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_ditzy.png) | [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_pov.png) | [📸 View](../../05_Imagenes/ele/look525_jaula_chrome/ele_525_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -31917,11 +31917,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, identico x7).
 - **Ambientacion:** in a brutalist industrial gym with concrete pillars, heavy chain link fence in the background, cool fluorescent lighting, and a dark rubber mat floor
 
-### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_seated.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_side_profile.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_ditzy.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_pov.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_standing.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_back_view.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_seated.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_side_profile.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_ditzy.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_pov.png) | [📸 View](../../05_Imagenes/ele/look648_charcoal_sport_mistress/ele_648_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -32386,11 +32386,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, identico x7).
 - **Ambientacion:** en sala de juntas penthouse con vistas al skyline de dia, mesa de cromo y suelo de marmol blanco
 
-### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_standing.png) | ⏳ Pendiente | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_seated.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_side_profile.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_ditzy.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_pov.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_standing.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_back_view.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_seated.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_side_profile.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_ditzy.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_pov.png) | [📸 View](../../05_Imagenes/ele/look655_ivory_power_viper/ele_655_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 

@@ -323,18 +323,18 @@
 | **511** | Yacht Domina | 08/06/2026 | Escort | — | chrome | 4/7 | ⏳ Pendiente |
 | **512** | Azure Beach Club | 08/06/2026 | Bikini | — | chrome, wetlook | 2/7 | ⏳ Pendiente |
 | **513** | Monte Carlo Siren | 08/06/2026 | Nightclub | — | chrome, crystal | 2/7 | ⏳ Pendiente |
-| **514** | Capri Trophy | 08/06/2026 | Domestic | — | vinyl | 1/7 | ⏳ Pendiente |
+| **514** | Capri Trophy | 08/06/2026 | Domestic | — | vinyl | 2/7 | ⏳ Pendiente |
 | **515** | Marina Pin-Up | 08/06/2026 | Pin-Up | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
 | **516** | Villa Boudoir | 08/06/2026 | Lencería | — | vinyl, mesh, crystal | 6/7 | ⏳ Pendiente |
 | **517** | Cannes Gala | 08/06/2026 | High-Fashion Editorial | — | satin, wetlook | 1/7 | ⏳ Pendiente |
-| **518** | Ibiza Holo Pool | 08/06/2026 | Bikini | — | crystal, holographic | 6/7 | ⏳ Pendiente |
+| **518** | Ibiza Holo Pool | 08/06/2026 | Bikini | — | crystal, holographic | 7/7 | — |
 | **519** | Tennis Club | 08/06/2026 | Gym | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
 | **520** | Cote d'Azur Fetish | 08/06/2026 | Lencería | — | chrome | 3/7 | ⏳ Pendiente |
-| **521** | Catsuit Domme Total | 08/06/2026 | Corporate | — | latex, leather, chrome | 6/7 | ⏳ Pendiente |
-| **522** | Arnes Bordelle Integral | 08/06/2026 | Lencería | — | latex, chrome | 1/7 | ⏳ Pendiente |
+| **521** | Catsuit Domme Total | 08/06/2026 | Corporate | — | latex, leather, chrome | 7/7 | — |
+| **522** | Arnes Bordelle Integral | 08/06/2026 | Lencería | — | latex, chrome | 7/7 | — |
 | **523** | Latex Couture Atsuko Kudo | 08/06/2026 | High-Fashion Editorial | — | latex | 1/7 | ⏳ Pendiente |
 | **524** | Officer Domme | 08/06/2026 | Escort | — | latex, leather, chrome | 1/7 | ⏳ Pendiente |
-| **525** | Jaula Chrome | 08/06/2026 | Stripper | — | latex, chrome | 1/7 | ⏳ Pendiente |
+| **525** | Jaula Chrome | 08/06/2026 | Stripper | — | latex, chrome | 7/7 | — |
 | **526** | Rubber Maid Power | 08/06/2026 | Domestic | — | latex, vinyl | 6/7 | ⏳ Pendiente |
 | **527** | Bodysuit de Arnes | 08/06/2026 | Nightclub | — | latex, chrome | 6/7 | ⏳ Pendiente |
 | **528** | Lenceria de Latex | 08/06/2026 | Lencería | — | satin, chrome, latex | 7/7 | — |
@@ -457,14 +457,14 @@
 | **645** | Emerald Lingerie Mistress | 21/06/2026 | Lencería | — | vinyl, leather, crystal, satin | 7/7 | — |
 | **646** | Plum Bondage Corset | 21/06/2026 | Pin-Up | — | vinyl, latex | 7/7 | — |
 | **647** | Vinyl Sling Bikini | 21/06/2026 | Bikini | — | crystal, vinyl | 7/7 | — |
-| **648** | Charcoal Sport Mistress | 21/06/2026 | Gym | — | vinyl, wetlook | 6/7 | ⏳ Pendiente |
+| **648** | Charcoal Sport Mistress | 21/06/2026 | Gym | — | vinyl, wetlook | 7/7 | — |
 | **649** | Violet Latex Maid | 21/06/2026 | Domestic | — | vinyl, latex | 7/7 | — |
 | **650** | Liquid Silver Column Gown | 21/06/2026 | Escort | — | vinyl, leather, lame | 7/7 | — |
 | **651** | Crimson Command | 22/06/2026 | Stripper | Contraste | leather, chrome, vinyl | 7/7 | — |
 | **652** | Black Chrome Cage Mistress | 22/06/2026 | Stripper | Contraste | vinyl, leather, crystal, rhinestone… | 7/7 | — |
 | **653** | Burgundy Fetish Domme | 22/06/2026 | Lencería | Monoblock | latex, vinyl, chrome, leather | 7/7 | — |
 | **654** | Noir Boudoir Sadist | 22/06/2026 | Lencería | Contraste | leather, satin, wetlook, vinyl | 7/7 | — |
-| **655** | Ivory Power Viper | 22/06/2026 | Corporate | Monoblock | leather, chrome, vinyl | 6/7 | ⏳ Pendiente |
+| **655** | Ivory Power Viper | 22/06/2026 | Corporate | Monoblock | leather, chrome, vinyl | 7/7 | — |
 | **656** | Obsidian Crystal Predator | 22/06/2026 | Nightclub | Contraste | vinyl, leather, crystal, rhinestone… | 7/7 | — |
 | **657** | Deep Scarlet Gala | 22/06/2026 | Escort | Contraste | vinyl, crystal, wetlook, satin | 7/7 | — |
 | **658** | Chrome Armure Editorial | 22/06/2026 | High-Fashion Editorial | Monoblock | vinyl, leather, chrome, latex | 7/7 | — |
@@ -861,26 +861,20 @@
 | **511** | Yacht Domina | 4/7 | ⏳ Pendiente |
 | **512** | Azure Beach Club | 2/7 | ⏳ Pendiente |
 | **513** | Monte Carlo Siren | 2/7 | ⏳ Pendiente |
-| **514** | Capri Trophy | 1/7 | ⏳ Pendiente |
+| **514** | Capri Trophy | 2/7 | ⏳ Pendiente |
 | **515** | Marina Pin-Up | 1/7 | ⏳ Pendiente |
 | **516** | Villa Boudoir | 6/7 | ⏳ Pendiente |
 | **517** | Cannes Gala | 1/7 | ⏳ Pendiente |
-| **518** | Ibiza Holo Pool | 6/7 | ⏳ Pendiente |
 | **519** | Tennis Club | 1/7 | ⏳ Pendiente |
 | **520** | Cote d'Azur Fetish | 3/7 | ⏳ Pendiente |
-| **521** | Catsuit Domme Total | 6/7 | ⏳ Pendiente |
-| **522** | Arnes Bordelle Integral | 1/7 | ⏳ Pendiente |
 | **523** | Latex Couture Atsuko Kudo | 1/7 | ⏳ Pendiente |
 | **524** | Officer Domme | 1/7 | ⏳ Pendiente |
-| **525** | Jaula Chrome | 1/7 | ⏳ Pendiente |
 | **526** | Rubber Maid Power | 6/7 | ⏳ Pendiente |
 | **527** | Bodysuit de Arnes | 6/7 | ⏳ Pendiente |
 | **530** | Diosa de Latex Liquido | 1/7 | ⏳ Pendiente |
 | **532** | Belladona | 1/7 | ⏳ Pendiente |
 | **534** | Amapola | 2/7 | ⏳ Pendiente |
 | **595** | Toxic Lime | 1/7 | ⏳ Pendiente |
-| **648** | Charcoal Sport Mistress | 6/7 | ⏳ Pendiente |
-| **655** | Ivory Power Viper | 6/7 | ⏳ Pendiente |
 | **691** | Bubblegum Latex Bombshell | 7/7 | ⏳ Pendiente |
 | **692** | Rose Gold Metallic Vixen | 7/7 | ⏳ Pendiente |
 | **693** | Coral Pink Polkadot Darling | 7/7 | ⏳ Pendiente |
