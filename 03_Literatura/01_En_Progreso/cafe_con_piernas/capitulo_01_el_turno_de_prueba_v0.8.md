@@ -42,7 +42,7 @@ Y luego estaba el sonido.
 
 No era una música de fondo normal. Era un bajo de reggaetón pesado, espeso y sordo, retumbando desde parlantes ocultos. La vibración no entraba por los oídos: subía desde las tablas del suelo directo por la planta de los pies, trepaba por sus pantorrillas y se le instalaba en la pelvis con un golpe seco, constante, que le hacía retumbar los huesos de la cadera.
 
-Javiera avanzó unos pasos, intentando acostumbrarse a la penumbra. En el centro del local había una tarima de madera barnizada de unos treinta centímetros de alto, y sobre ella, una barra de acero inoxidable tan angosta que apenas cabía una taza y un cenicero. Al otro lado de la barra, una docena de hombres de traje —ejecutivos con la cravata suelta, contadores de terno gris, viejos con la camisa desabotonada— bebían café de pie, en silencio, con la mirada clavada hacia arriba.
+Javiera avanzó unos pasos, intentando acostumbrarse a la penumbra. En el centro del local había una tarima de madera barnizada de unos treinta centímetros de alto, y sobre ella, una barra de acero inoxidable tan angosta que apenas cabía una taza y un cenicero. Al otro lado de la barra, una docena de hombres de traje —ejecutivos con la corbata suelta, contadores de terno gris, viejos con la camisa desabotonada— bebían café de pie, en silencio, con la mirada clavada hacia arriba.
 
 Sobre la tarima, tres chicas atendían el mostrador.
 
