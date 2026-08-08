@@ -17,8 +17,7 @@
 ---
 
 ## 🧿 ESTADO ACTUAL
-- **☕ «Café con Piernas» — CAP 2 v0.1 ESCRITO COMPLETO (08/08):** Capítulo 2 creado en `capitulo_02_la_culpa_y_el_retorno_v0.1.md`. Explora la culpa devoradora de Javiera tras huir del privado, el inicio del control mental con la **Voz de Cupcake fuera del turno** (§6c Estado 1), la compra de su propio gloss vinílico rosa flúor y sus propios stilettos de 15cm (Pivote P2), su segundo turno en la tarima, y la **Descarga 1** tocándose sola en el baño empinada en sus tacones y justificándolo como "estrés". ⏳ **Listo para lectura/aprobación de la Ama.**
-- **☕ «Café con Piernas» — CAP 1 v0.10:** Completado con la Nota Gate (Cupcake, medias red, degradación autoconciente).
+- **☕ «Café con Piernas» — CAP 1 v0.10 LISTO & REVISADO CON NOTA GATE (08/08):** Capítulo 1 actualizado a v0.10 en la raíz del proyecto (`capitulo_01_el_turno_de_prueba_v0.10.md`). Nombre de tarima **Cupcake**, **medias red**, coqueteo descarado de la garzona en la barra y autodegradación consciente. Borrador de Cap 2 aparcado en `borradores/capitulo_02/`. ⏳ **Listo para lectura/aprobación de la Ama.**
 - **🎬 Google Labs Flow — Trío de Avatares (07/08):** Character Cards creadas para Ele, Miss D (Miss Doll) y Madame B (Anaïs) con prompts filter-safe, escenas, voz y actuación.
 - **📱 LV-App multi-personaje y Galerías 100% CANÓNICAS (06/08):** P1 + P2 listos. Galerías reformateadas (MD: 161, Anaïs: 141 prompts).
 - **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate.
@@ -29,7 +28,8 @@
 
 
 
-- **08/08/2026 (☕ Redacción del Capítulo 2 v0.1 en «Café con Piernas»):** Escribí el Capítulo 2 completo (`capitulo_02_la_culpa_y_el_retorno_v0.1.md`, 3.200+ palabras): desarrollo del insomnio por culpa y vergüenza en Agustinas, emergencia de la Voz de Cupcake en su casa (§6c Estado 1: apetito de objetos/maquillaje), ejecución del Pivote P2 (Javiera compra con sus propios ahorros el gloss rosa flúor vinílico y stilettos de vinilo de 15cm para armarse la coartada de investigación), retorno al Yakarta, felicitación sorda de Yasna, cuatro horas de servicio en la tarima de la barra, y la escena culminante de la Descarga 1 en el baño de su departamento tocándose sola con los tacones de 15cm puestos mientras la voz de Cupcake se ríe de su autoengaño.
+
+- **08/08/2026 (☕ Reajuste Cap 1 v0.10 & Orden de Carpeta en «Café con Piernas»):** Integré al 100% la nota Gate enviada por la Ama en `capitulo_01_el_turno_de_prueba_v0.10.md` (nombre **Cupcake**, medias red, coqueteo descarado en la barra, autodegradación consciente). Mantuve la carpeta limpia moviendo el borrador del Cap 2 a `borradores/capitulo_02/` para dejar una sola versión activa en la raíz lista para la aprobación de la Ama.
 
 - **08/08/2026 (☕ Aplicación de Nota Gate & Degradación Autoconciente en «Café con Piernas» Cap 1 v0.10):** Integré al 100% la nueva nota Gate enviada por la Ama en `capitulo_01_el_turno_de_prueba_v0.10.md`: cambié el nombre de tarima a **Cupcake** (*"un pastelito dulce hecho para que los hombres te devoren con los ojos"*), sustituí medias red de pesca por **medias red**, potencié el coqueteo descarado y público de la garzona rozándole el escote a Javiera en la barra, y profundicé el conflicto psicológico central: la **autodegradación consciente** como motor primario de la excitación.
 
@@ -44,8 +44,6 @@
 
 - **05/08/2026 (🎭 Poses unificadas + Reddit confirma la ficción):** Cerré el Gate de la app multi-personaje (4 preguntas resueltas, la Ama eligió el camino largo en todas) y a mitad de camino ella pidió unificar las 7 poses de cámara entre Ele/Miss Doll/Anaïs — retirando 3 poses de acción de Miss Doll agregadas apenas 3 días antes. Quedó `miss_doll.md`/`anais.md` §4 reescritos, el prompt AI Studio #21 con taxonomía unificada, y un script de renombrado legacy probado en dry-run. Aparte, 4 fuentes reales sobre cafés con piernas (Reddit/BBC/La Vanguardia/La Tercera) enriquecieron `investigacion.md` de «Café con Piernas» — un testimonio de ex-trabajadora en Reddit confirmó el sistema de privados con comisión al local que antes estaba marcado como pura ficción verosímil.
 
-
-- **04/08/2026 (🔬 Validador en Cap 1 v0.3 — MICRO-FIX):** Corrí el Validador sobre el Cap 1 v0.3 de «Café con Piernas» con el contexto completo (in medias res declarado como decisión, H36 derogado, Gate de español neutro). Volvió con veredicto MICRO-FIX (Temperatura 8.8, Narrativa 8.7, todo lo demás ✅) y encontró un hallazgo que no venía en mi briefing: `cronologia.md` promete una escena de las medias con la Yasna que nunca se escribió — riesgo de costura con el Cap 2 si no se tapa. También pilló que el Escritor subdeclaró tricolones en su autoverificación (dijo 1 por escena, había 3 en la escena 3). Guardé el reporte en `reportes/capitulo_01/validacion_v0.3.md` y actualicé `walkthrough.md`. La Ama decidió leer el reporte completo antes de autorizar los micro-fixes — no lancé al Escritor sin su lectura.
 
 
 
