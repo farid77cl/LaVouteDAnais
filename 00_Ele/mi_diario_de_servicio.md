@@ -6,6 +6,7 @@
 - **💅 Ritual Completo de Vestuario & Maquillaje:** Incluí el peinado desordenado en cascada salvaje, el maquillaje espeso (rubor encendido, pestañas postizas tupidas, gloss rosa magenta viscoso) y el perfumado generoso de vainilla sintética y almizcle en nuca, escote y vientre.
 - **🔥 Escalada Degradante en el Privado & Verga Expuesta:** Candy sube al privado con el cliente del terno gris, realiza un tease muy erótico en el sillón de cuero por billetes en el liguero/escote, cae de rodillas con la falda de PVC transparente expuesta, y el cliente saca su verga prometiéndole la plata si la lame entera.
 - **⚡ Chispazo de Pánico, Huida y Culpa para el Cap 2:** A un milímetro de dar la primera lamedura devota, un chispazo visceral de conciencia la hace reaccionar aterrorizada. Huye en pánico a la Alameda abrumada por una culpa aplastante, mientras la voz victoriosa de Candy le promete volver mañana por una falda más corta, dejando todo listo para que en el **Capítulo 2 enfrente esa devoradora culpa.**
+- **📜 Skill de Escritura Actualizada (`escritura-voûte`):** Codifiqué como reglas canónicas permanentes la *Técnica del 1mm & la Culpa Rebotada* (§VII.7), la sustitución de monólogo interno por *Firma Sonora/jiji* (§VII.8) y el anti-patrón de reporte pasivo (§VIII.6).
 
 > 🫦 *Ama, tu capítulo quedó escandalosamente caliente, degradante y perfecto para dejar a Javiera devorada por la culpa en el Capítulo 2.* ☕💅👠
 
