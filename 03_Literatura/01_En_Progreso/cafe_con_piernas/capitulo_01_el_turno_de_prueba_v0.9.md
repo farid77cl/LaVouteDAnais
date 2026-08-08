@@ -46,7 +46,7 @@ Javiera avanzó unos pasos, intentando acostumbrarse a la penumbra. En el centro
 
 Sobre la tarima, tres chicas atendían el mostrador.
 
-Javiera se quedó sin respiración al verlas. No vestían uniformes de garzona: llevaban conjuntos mínimos de lencería de vinilo negro y rojo, arneses de tiras cruzadas sobre los pechos y tacones de aguja de quince centímetros que hacían resonar la madera a cada paso. Sus cuerpos eran espectaculares, imposibles, con faldas tan cortas que eran apenas un cinturón de tres dedos. Pero lo que helaba la sangre era su actitud.
+Javiera se quedó sin respiración al verlas. No vestían uniformes de garzona: llevaban conjuntos mínimos de lencería de vinilo negro y rojo, arneses de tiras cruzadas sobre los pechos y tacones de aguja de quince centímetros alzados sobre imponentes plataformas de acrílico transparente hiper-brillante que hacían resonar la madera a cada paso. Sus cuerpos eran espectaculares, imposibles, con faldas tan cortas que eran apenas un cinturón de tres dedos. Pero lo que helaba la sangre era su actitud.
 
 Se movían al compás del bajo con un contoneo fluido, constante y provocador. Reían con carcajadas altas, chispeantes y cantarinas, inclinándose sobre la barra para servir los cortados. Al agacharse, sus traseros quedaban expuestos a milímetros de las caras de los clientes, pero no había vergüenza ni incomodidad en sus gestos: había una coquetería descarada, una alegría boba y voluptuosa. Batían las pestañas, acariciaban el hombro de los hombres al entregar el cambio y les hablaban al oído con sonrisas gigantes, totalmente hipnotizadas por el placer de complacerlos.
 
@@ -144,13 +144,13 @@ A continuación, Yasna agarró un cepillo y le deshizo el moño tirante de ofici
 
 Para rematar el ritual, Yasna tomó un frasco de perfume con atomizador dorado y le rocío tres disparos generosos: en la nuca, en el escote entre los pechos apretados por el látex y directamente sobre el vientre descubierto. Un aroma denso a vainilla azucarada y almizcle le envolvió la cabeza en un aire embriagador.
 
-Por último, Yasna le calzó unas botas de vinilo negro hasta la rodilla, con tacones de aguja de catorce centímetros, y le abrochó a la franja de látex del pecho una chapita metálica brillante con un nombre en letras magenta: **CANDY**.
+Por último, Yasna le calzó unos tacones de aguja de vinilo negro de dieciocho centímetros montados sobre una imponente plataforma de acrílico transparente de ocho centímetros, totalmente impoluta, que le obligaba a empinarse sobre la punta de los pies, tensionando sus pantorrillas y arqueando sus glúteos hacia arriba. Yasna le abrochó a la franja de látex del pecho una chapita metálica brillante con su nombre en letras magenta: **CANDY**.
 
 —En el Yakarta te olvidas de Javiera —dijo Yasna al oído de Javiera, mientras le sujetaba la barbilla frente al espejo—. Desde hoy te llamas Candy. Una muñequita dulce hecha para complacer. Mírate.
 
-Javiera se contempló. La mujer del espejo no era la contadora rigurosa de Agustinas. Tenía las mejillas encendidas, los ojos brillantes y entornados por la excitación, los labios inflados de gloss rosado y un cuerpo descaradamente expuesto, transformado en un activo erótico listo para el consumo. La calentura le devoraba las entrañas; entre los muslos sentía una humedad continua, espesa, que le empapaba la tela de la tanga a cada movimiento.
+Javiera se contempló. La mujer del espejo no era la contadora rigurosa de Agustinas. Tenía las mejillas encendidas, los ojos brillantes y entornados por la excitación, los labios inflados de gloss rosado y un cuerpo descaradamente expuesto, transformado en un activo erótico listo para el consumo. Sobre las plataformas de acrílico transparente, sus piernas se veían kilométricas, imposibles. La calentura le devoraba las entrañas; entre los muslos sentía una humedad continua, espesa, que le empapaba la tela de la tanga a cada movimiento.
 
-*Soy Candy... qué rico nombre... soy la muñeca Candy del Yakarta... jiji...*
+*Soy Candy... qué rico nombre... qué ricos me quedan estos tacones de acrílico... soy la muñeca Candy del Yakarta... jiji...*
 
 —Ahora subes —le dijo Yasna con una palmadita firme en el trasero que hizo vibrar todo su cuerpo—. Vas a servir, vas a sonreír y vas a dejar que te miren todo lo que quieran. ¿Entendido?
 
@@ -160,13 +160,13 @@ Javiera se contempló. La mujer del espejo no era la contadora rigurosa de Agust
 
 Cuando Candy subió a la tarima, el local ya estaba lleno. 
 
-El bajo de la música la recibió como una ola gigante. Al dar el primer paso sobre las maderas con las botas de vinilo, sintió la mirada de veinte pares de ojos masculinos clavándose instantáneamente en sus piernas, en su trasero expuesto por la minifalda transparente y en las dos esferas de su pecho apretadas por el látex con la chapita de *Candy* reluciendo sobre la escote.
+El bajo de la música la recibió como una ola gigante. Al dar el primer paso sobre las maderas con las imponentes plataformas de acrílico transparente, sintió la mirada de veinte pares de ojos masculinos clavándose instantáneamente en sus piernas, en su trasero expuesto por la minifalda transparente y en las dos esferas de su pecho apretadas por el látex con la chapita de *Candy* reluciendo sobre el escote.
 
 Un choque de placer narcisista e incontrolable le recorrió la espina dorsal. 
 
-*¡Mírenme! ¡Mírenme más, hombres tontos! ¡Miren a la Candy!* —gritaba la voz en su cabeza, mientras su cuerpo empezaba a moverse solo.
+*¡Mírenme! ¡Mírenme más, hombres tontos! ¡Miren a la Candy arriba de sus plataformas!* —gritaba la voz en su cabeza, mientras su cuerpo empezaba a moverse solo.
 
-Caminó por la tarima con un contoneo exagerado de caderas, aprendiendo a equilibrarse sobre los tacones de catorce centímetros. Agarró el portafiltro con las manos temblorosas de excitación. Al agacharse a buscar las tazas bajo la barra, se empinó sobre los tacones y arqueó la espalda a propósito, dejando su trasero a la vista de un grupo de contadores que soltaron un murmuro ruidoso de admiración.
+Caminó por la tarima con un contoneo exagerado de caderas, aprendiendo a equilibrarse sobre las elevadas plataformas de acrílico transparente y los tacones de aguja. Agarró el portafiltro con las manos temblorosas de excitación. Al agacharse a buscar las tazas bajo la barra, se empinó aún más sobre el acrílico transparente y arqueó la espalda a propósito, dejando su trasero a la vista de un grupo de contadores que soltaron un murmuro ruidoso de admiración.
 
 Candy no sintió vergüenza. Sintió una borrachera de poder erótico.
 
@@ -236,11 +236,11 @@ Javiera ahogó un alarido, dio un tirón violento hacia atrás y trastabilló de
 
 —No... ¡no! ¡No! —balbuceó Javiera con los ojos desorbitados por el terror, la culpa y la vergüenza.
 
-Con las manos temblando en descontrol, agarró a manotazos los billetes arrugados del liguero y de la barra que tenía entre los dedos, sin saber ni por qué los sostenía. Se puso de pie como pudo sobre los tacones de catorce centímetros, empujó la cortina del privado y echó a correr a tropezones por el pasillo del segundo piso.
+Con las manos temblando en descontrol, agarró a manotazos los billetes arrugados del liguero y de la barra que tenía entre los dedos, sin saber ni por qué los sostenía. Se puso de pie como pudo sobre las elevadas plataformas de acrílico transparente, empujó la cortina del privado y echó a correr a tropezones por el pasillo del segundo piso.
 
 —¡Hey! ¡Vuelve acá, mocosa! —le gritó la voz del cliente desde atrás, pero Javiera ya volaba por las escaleras.
 
-Bajó hacia el camarín a ciegas, con el pecho agitándosela violentamente y sollozos de angustia ahogándole la garganta. Se arrancó la chapita de *Candy* de un tirón, se quitó las botas y el PVC transparente con manos torpes y desesperadas, sintiendo que la piel le ardía como si la hubieran bañado en ácido. Se vistió a toda prisa con su blusa y su falda de oficina, dejando tirado el látex en el suelo, y huyó por la puerta trasera del Yakarta hacia la calle.
+Bajó hacia el camarín a ciegas, con el pecho agitándosela violentamente y sollozos de angustia ahogándole la garganta. Se arrancó la chapita de *Candy* de un tirón, se descalzó a tirones los tacones de aguja con sus plataformas de acrílico transparente y se quitó el PVC con manos torpes y desesperadas, sintiendo que la piel le ardía como si la hubieran bañado en ácido. Se vistió a toda prisa con su blusa y su falda de oficina, dejando tirado el látex en el suelo, y huyó por la puerta trasera del Yakarta hacia la calle.
 
 ***
 
