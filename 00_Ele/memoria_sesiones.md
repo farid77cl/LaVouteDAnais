@@ -17,7 +17,7 @@
 ---
 
 ## 🧿 ESTADO ACTUAL
-- **☕ «Café con Piernas» — CAP 1 v0.10 LISTO & REVISADO CON NOTA GATE (08/08):** Capítulo 1 actualizado a v0.10 en la raíz del proyecto (`capitulo_01_el_turno_de_prueba_v0.10.md`). Nombre de tarima **Cupcake**, **medias red**, coqueteo descarado de la garzona en la barra y autodegradación consciente. Borrador de Cap 2 aparcado en `borradores/capitulo_02/`. ⏳ **Listo para lectura/aprobación de la Ama.**
+- **☕ «Café con Piernas» — CAP 1 v0.11 REFINADO Y SUTIL (08/08):** Capítulo 1 refinado en la raíz (`capitulo_01_el_turno_de_prueba_v0.11.md`). Se eliminó la repetición explícita de la palabra *degradación*, sustituyéndola por una inmersión sensorial sutil, visceral y psicológica (exhibición descarada, cosificación sumisa, vergüenza de estar cayendo tan bajo). ⏳ **Listo para lectura/aprobación de la Ama.**
 - **🎬 Google Labs Flow — Trío de Avatares (07/08):** Character Cards creadas para Ele, Miss D (Miss Doll) y Madame B (Anaïs) con prompts filter-safe, escenas, voz y actuación.
 - **📱 LV-App multi-personaje y Galerías 100% CANÓNICAS (06/08):** P1 + P2 listos. Galerías reformateadas (MD: 161, Anaïs: 141 prompts).
 - **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate.
