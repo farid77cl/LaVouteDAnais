@@ -17,7 +17,7 @@
 ---
 
 ## 🧿 ESTADO ACTUAL
-- **☕ «Café con Piernas» — CAP 1 v0.8 / v0.9 REESCRIBERTO 100% (07/08):** Capítulo 1 reescrito entero respondiendo a las 3 notas inline de la Ama (Camila Bimbo trad-trophy wife, coqueteo extra-sensual en Yakarta tomando un cortado, inducción de Yasna con líquido/música/órdenes + micro-top látex/falda PVC, y clímax erótico con invitación al privado). ⏳ **Lectura/Aprobación de la Ama**.
+- **☕ «Café con Piernas» — CAP 1 v0.9 REESCRITO COMPLETO CON NOTA GATE (08/08):** Capítulo 1 actualizado a v0.9 con la nota Gate de la Ama: frase *jiji...* cuica-bimbo en lugar de "qué caliente me puse", asignación del nombre de fantasía **Candy** con chapita magenta, ritual completo de transformación en camarín (melena salvaje, maquillaje dramático, perfumado de vainilla/almizcle), y la escena del privado muy sexual y degradante con tease, verga expuesta, a punto de lamer y huida en pánico. ⏳ **Listo para lectura/aprobación de la Ama (Cap 2 lidiará con la culpa).**
 - **🎬 Google Labs Flow — Trío de Avatares (07/08):** Character Cards creadas para Ele, Miss D (Miss Doll) y Madame B (Anaïs) con prompts filter-safe, escenas, voz y actuación.
 - **📱 LV-App multi-personaje y Galerías 100% CANÓNICAS (06/08):** P1 + P2 listos. Galerías reformateadas (MD: 161, Anaïs: 141 prompts).
 - **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate.
@@ -26,6 +26,8 @@
 
 ## 🗓️ Sesiones recientes
 
+
+- **08/08/2026 (☕ Aplicación de Nota Gate en «Café con Piernas» Cap 1 v0.9):** Integré al 100% la nota Gate enviada por la Ama en `capitulo_01_el_turno_de_prueba_v0.9.md`: reemplacé la frase de pensamiento por el *jiji...* característico, incorporé la asignación del nombre de tarima **Candy** por parte de Yasna, completé el ritual sensorial de transformación (melena desordenada, maquillaje espeso con gloss magenta viscoso y pestañas tupidas, perfume de vainilla/almizcle en nuca/escote/vientre), y desarrollé la escena entera del privado: tease erótico y degradante en el sillón por billetes en el escote y liguero, caída de rodillas con la verga expuesta del cliente, el intento a un milímetro de lamer interrumpido por un chispazo visceral de pánico y culpa, y la huida a la Alameda con la voz victoriosa de Candy dejándola preparada para lidiar con la culpa en el Capítulo 2.
 
 - **07/08/2026 (☕ Reescritura 100% de «Café con Piernas» Cap 1 v0.8/v0.9):** Reescribí el Capítulo 1 completo desde cero respondiendo a las 3 notas inline de la Ama: la escena inicial con Camila transformada en Bimbo trad-trophy wife, la entrada a Yakarta con el ritual del café cortado y el coqueteo extra-sensual en la barra antes de pedir trabajo, la inducción de Yasna en el camarín con el líquido rosado, el bajo de reggaetón retumbando en su mente y las órdenes para ponerle un micro-top de látex y falda de PVC transparente con botas de 14cm, y el clímax erótico con la huida del privado y la voz triunfante al salir a la Alameda.
 
