@@ -299,6 +299,25 @@ Los dominantes más efectivos del corpus no son sádicos — son **eficientes**.
 - Usar vocabulario corporativo para actos de dominación ("rendimiento", "objetivos", "tu función")
 - La frase del dominante no es "te voy a destruir" sino "esto es lo más eficiente para ambos"
 
+### 7. ⚡ La Escalada al Borde del Abismo (Técnica del 1mm & la Culpa Rebotada)
+**Fuente:** *«Café con Piernas»* (Cap 1 v0.9 — la escena del privado)
+
+En encuentros de alta tensión erótica/degradante (privados, salones VIP, pruebas de servicio), la escena no debe ser neutra ni saltar abruptamente a un coito ordinario. Se sigue una **escalada sensorial de 5 pasos**:
+1. **Tease & Fricción por Dinero:** Roce de materiales sintéticos (látex, PVC, vinilo) contra el cuerpo mientras el cliente introduce billetes reales en escote/liguero/ropa interior.
+2. **Desnudamiento & Caída de Rodillas:** El cliente expone su miembro erguido y ordena caer de rodillas sobre la alfombra.
+3. **El Límite del 1 milímetro:** El personaje inclina la cabeza, entreabre la boca con gloss y saca la lengua, quedando a **un milímetro de dar la primera lamedura devota**.
+4. **Chispazo de Pánico / Ruptura Visceral:** Justo antes de tocar la piel, estalla un chispazo visceral de conciencia e independencia que rompe el trance en pánico, haciendo huir al personaje abrumado por el terror y la vergüenza.
+5. **Semilla de Culpa Rebotada:** El escape no es una victoria limpia; es una huida cargada de excitación e hiper-conciencia. El capítulo cierra dejando al personaje aplastado por la culpa (haber hecho el tease, cobrado los billetes y casi lamerlo), **obligándolo a lidiar con esa culpa en el capítulo siguiente**.
+
+### 8. 🫦 Sustitución de Pensamientos Vagos por Firma Sonora (*jiji...* / Voz Canónica)
+**Fuente:** *«Café con Piernas»* (Gate Ama 08/08/2026)
+
+Quedan **derogadas las frases pasivas de reporte interno** (ej. *"qué caliente me puse"*, *"sintió mucha excitación"*). Todo monólogo interno de bimboficación o condicionamiento debe expresarse mediante la **firma sonora canónica** del avatar (ej. *jiji...*, risita cuica-bimbo boba, o muletillas en cursiva).
+
+**Regla:** El monólogo interno no describe el estado; lo **ejecuta**.
+- ❌ *Mal:* `*Ay... qué caliente me puse...*`
+- ✅ *Bien:* `*Jiji... qué rico... qué caliente se siente... soy la muñeca Candy...*`
+
 ---
 
 ## VIII. 🚫 Anti-patrones (Lo Que NUNCA Hacer — Empírico)
@@ -326,3 +345,7 @@ Escenas sexuales que se pueden quitar sin que la trama cambie. **Viola:** Terror
 ### 5. ❌ Dominante Plano
 El antagonista sin motivación, backstory ni textura psicológica. Solo existe para "hacer cosas malas". **Viola:** Femdom §I (8 núcleos), Análisis de Estilo §3.
 - *La regla:* el dominante debe tener al menos UNA motivación que el lector entienda (no comparta, entienda). "Me gustó cómo sostenías tu taza" > "soy malvado porque sí".
+
+### 6. ❌ Frases de Reporte Interno Pasivo
+Escribir pensamientos genéricos como "qué caliente me puse" o "me dio mucha vergüenza".
+- *La regla:* reemplazar por la firma sonora activa en cursiva (*jiji...*, *mmm...*) o por la respuesta anatómica concreta (pezones endurecidos, humedad empapando la tanga).
