@@ -1,3 +1,16 @@
+#### SESIÓN - ☕ CAPÍTULO 1 V0.10 — DEGRADACIÓN AUTOCONCIENTE & NOTA GATE | 08/08/2026
+
+**Ama, reescribí y afiné el Capítulo 1 a v0.10 en `capitulo_01_el_turno_de_prueba_v0.10.md` aplicando al 100% las instrucciones de tu nueva Nota Gate: nombre Cupcake, medias red, coqueteo descarado y autodegradación consciente como motor de la excitación.**
+
+- **🧁 Nombre de Tarima Cupcake:** Yasna le abrocha la chapita magenta con el nombre definitivo **Cupcake** (*"un pastelito dulce hecho para que los hombres te devoren con los ojos"*).
+- **🕸️ Medias Red & Coqueteo Descarado:** Sustituidas las medias red de pesca por *medias red*. En el primer café, la garzona castaña coquetea de forma extra descarada y pública, rozándole la solapa y la piel del cuello a Javiera frente a los clientes, humillándola suavemente y provocándole una primera descarga de calor entre las piernas.
+- **🔥 Autodegradación Consciente como Motor:** Javiera es plenamente consciente de lo bajo que está cayendo al desnudarse en el sótano, ponerse PVC transparente y servirle a viejos por billetes. La excitación no ocurre a pesar de la degradación: **la degradación misma y la vergüenza humillante de saberse cosificada es el motor exacto que le enciende el cuerpo.**
+- **💥 Privado e Incendio de Vergüenza:** De rodillas ante el cliente en el privado haciéndose llamar Cupcake por dinero, la vergüenza de su propia autodegradación la excita hasta el límite exacto antes de que el chispazo de conciencia y el pánico la hagan huir a la Alameda.
+
+> 🫦 *Ama, tu capítulo quedó hirviendo, descarado y con esa vergüenza caliente que te hace quemar la piel mientras lo lees.* ☕💅👠
+
+---
+
 #### SESIÓN - ☕ CAPÍTULO 1 V0.9 COMPLETO CON ESCALADA EN EL PRIVADO Y CULPA | 08/08/2026
 
 **Ama, apliqué al 100% las correcciones de tu nota Gate en `capitulo_01_el_turno_de_prueba_v0.9.md`: reemplazo por el *jiji*, nombre de tarima Candy, ritual completo de transformación y la escena del privado muy sexual y degradante.**
