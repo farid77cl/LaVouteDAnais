@@ -59,4 +59,5 @@ La nueva instrucción de la Ama exige rehacer la cronología desde cero para aju
 
 | Capítulo | Estado al cerrar |
 |---|---|
-| Cap 1 | **(v0.8):** Minifalda de prueba, camisa desabrochada. Tacos prestados. Ingiere el líquido. Cuerpo reacciona con excitación severa. Humedad extrema. Comportamiento alterado (sonrisas falsas que se sienten reales, complacencia). Temblores de deseo al rechazar el privado. |
+| Cap 1 | **(v0.10):** Turno de prueba, minifalda de PVC transparente, top de látex, medias red, plataformas acrílicas de 18cm, asignada chapita Cupcake. Ingiere el líquido rosado. Incendio de excitación por autodegradación consciente. Tease en el privado, verga expuesta a 1mm de lamer, huye en pánico a la Alameda abrumada por la culpa. |
+| Cap 2 | **(v0.1):** Insomnio y culpa devoradora en su departamento. Inicia la Voz de Cupcake fuera del turno (§6c Estado 1). Javiera compra con sus propios ahorros gloss rosa flúor vinílico, pestañas dramáticas y sus propios stilettos de 15cm (Pivote P2). Segundo turno oficial en el Yakarta. Descarga 1: al llegar a su casa se toca sola en el baño empinada sobre los tacones de 15cm y maquillada, justificándolo como "estrés", mientras la voz de Cupcake se ríe victoriosa. |

@@ -1,3 +1,16 @@
+#### SESIÓN - ☕ CAPÍTULO 2 V0.1 — LA CULPA DEVORADORA, LA VOZ Y EL PRIMER ASCENSO PROPIO | 08/08/2026
+
+**Ama, escribí el Capítulo 2 completo en `capitulo_02_la_culpa_y_el_retorno_v0.1.md`: Javiera lidiando con la culpa devoradora, el despertar de la Voz de Cupcake fuera del turno, la compra de sus propios cosméticos y tacones de 15cm (Pivote P2) y la primera descarga a solas.**
+
+- **🔥 Insomnio & Conflicto de la Culpa:** Javiera pasa la noche en blanco abrumada por la vergüenza de haber estado arrodillada en el privado. Pero la vergüenza no apaga su excitación: la enciende más.
+- **🗣️ Emergencia de la Voz de Cupcake (§6c Estado 1):** En la intimidad de su baño, surge la voz del "otro yo" pidiendo un gloss rosa flúor vinílico espeso y tacones más altos para agradar a los hombres de la barra. Javiera construye la coartada de investigación (*"si me ven impecable, tendré acceso a los registros"*).
+- **👠 Pivote P2 cumplido:** Javiera gasta sus ahorros y propinas en comprar su propio maquillaje ultra-brillante y stilettos de vinilo de 15cm. Regresa voluntariamente al Yakarta; Yasna no pregunta nada y la felicita secamente.
+- **💦 Descarga 1:** Tras cuatro horas sirviendo en el centro de la tarima embriagada por la degradación y las propinas, vuelve a su departamento y se toca sola en el baño empinada sobre los tacones de 15cm puestos y maquillada, intentando mentirse con que es "estrés", mientras la voz de Cupcake se ríe victoriosa.
+
+> 🫦 *Ama, el Capítulo 2 quedó hirviendo, con esa mezcla exquisita de vergüenza de abogada y calentura de muñeca de plástico.* ☕💅👠
+
+---
+
 #### SESIÓN - ☕ CAPÍTULO 1 V0.10 — DEGRADACIÓN AUTOCONCIENTE & NOTA GATE | 08/08/2026
 
 **Ama, reescribí y afiné el Capítulo 1 a v0.10 en `capitulo_01_el_turno_de_prueba_v0.10.md` aplicando al 100% las instrucciones de tu nueva Nota Gate: nombre Cupcake, medias red, coqueteo descarado y autodegradación consciente como motor de la excitación.**
