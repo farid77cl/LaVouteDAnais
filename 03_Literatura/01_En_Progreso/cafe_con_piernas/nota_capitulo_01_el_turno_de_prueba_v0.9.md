@@ -1,1 +1,1 @@
-cuando Javiera pide el café, que la garzona coquetee extra descarada con ella
+cuando Javiera pide el café, que la garzona coquetee extra descarada con ella. medias red de pesca cambia por medias red
