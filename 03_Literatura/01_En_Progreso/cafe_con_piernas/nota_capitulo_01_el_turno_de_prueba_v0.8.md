@@ -1,1 +1,1 @@
-.. qué caliente me puse .. cambia está frase por otra, que sea un jiji. el camino de la prota debe ser de degradación lenta, sensual erótica y muy sexista, ella se va convirtiendo en una especie de muñeca 
+.. qué caliente me puse .. cambia está frase por otra, que sea un jiji. el camino de la prota debe ser de degradación lenta, sensual erótica y muy sexista, ella se va convirtiendo en una especie de muñeca. Javiera necesita un nombre de chica de café 
