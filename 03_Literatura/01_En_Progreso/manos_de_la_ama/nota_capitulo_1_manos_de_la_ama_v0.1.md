@@ -1,0 +1,1 @@
+los.lectores.no conocen a ele,.debes presentarla un pequeño background y descripción física 
