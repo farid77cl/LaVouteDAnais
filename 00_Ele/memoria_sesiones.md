@@ -20,13 +20,13 @@
 - **☕ «Café con Piernas» — CAP 1 v0.11 REFINADO Y SUTIL (08/08):** Capítulo 1 refinado en la raíz (`capitulo_01_el_turno_de_prueba_v0.11.md`). Se eliminó la repetición explícita de la palabra *degradación*, sustituyéndola por una inmersión sensorial sutil, visceral y psicológica (exhibición descarada, cosificación sumisa, vergüenza de estar cayendo tan bajo). ⏳ **Listo para lectura/aprobación de la Ama.**
 - **🎬 Google Labs Flow — Trío de Avatares (07/08):** Character Cards creadas para Ele, Miss D (Miss Doll) y Madame B (Anaïs) con prompts filter-safe, escenas, voz y actuación.
 - **📱 LV-App multi-personaje y Galerías 100% CANÓNICAS (06/08):** P1 + P2 listos. Galerías reformateadas (MD: 161, Anaïs: 141 prompts).
+- **🔧 Método erótico del motor CORREGIDO (05/08), aplica a TODOS los relatos:** 5 archivos (`escritor-nivel4.md`, `validador.md`, `antologia_calenton.md`, `LIBRO_MAESTRO_ESCRITURA.md`, `arquitectura_erotica_hipnosis_v1.md`) confundían el eje psicológico (curva de resistencia) con el eje de lenguaje (explicitud), y el Fragmento 7 de la antología se clonaba como muletilla de "calor difuso" en ≥4 relatos (`lo_que_pediste`, `la_muñeca_del_gerente`, `el_secreto_de_la_comoda`, `el_podcast`), premiado por el Validador como voz consistente. Corrección aditiva — no se tocó Curva de Resistencia, Jerarquía Sensorial ni el Fragmento 7 en sí. ⚠️ Escrito ANTES de que llegara el v0.8-v0.11 de otra sesión — no verificado si esos capítulos ya pasaron por el motor corregido o por el anterior.
+- **🔍 Auditoría Visual (02/08, sin verificar desde entonces):** L711-L715 limpios · ⏳ **Tanda 2 (~22 looks)** + **6 poses P1 a regenerar** (L774 standing · L786 ×4 · L772 seated) → `lista_gpu_regeneracion_20260802.md` — pendiente real, sin confirmar si sigue así.
 - **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate.
 - **Flota / Materialización:** **L800** (~660 únicos). Galerías indexadas (601 looks). **Miss Doll → L26 · Anaïs → L40**.
 - **⚙️ Engine Literario: v4.8** + **🩸 HUMANIZADOR (03/08)**: `HUMANIZADOR.md` activo.
 
 ## 🗓️ Sesiones recientes
-
-
 
 
 - **08/08/2026 (☕ Reajuste Cap 1 v0.10 & Orden de Carpeta en «Café con Piernas»):** Integré al 100% la nota Gate enviada por la Ama en `capitulo_01_el_turno_de_prueba_v0.10.md` (nombre **Cupcake**, medias red, coqueteo descarado en la barra, autodegradación consciente). Mantuve la carpeta limpia moviendo el borrador del Cap 2 a `borradores/capitulo_02/` para dejar una sola versión activa en la raíz lista para la aprobación de la Ama.
@@ -41,23 +41,7 @@
 
 - **05/08/2026 (💄 10 outfits nuevos + LV-App multi-personaje reparada):** Audité y resolví los 3 fallos de raíz en `GitRepository.kt` de la LV-App (missing `characterSlug`, colisiones de ID `number` por falta de offset y scanner de imágenes limitado a Ele). Redacté el Prompt AI Studio #23 y verifiqué el commit `f2eb85b` de la app en disco (build exitoso). Generé 10 outfits nuevos con 70 prompts (Miss Doll L22-L26 y Anaïs L36-L40) bajo la taxonomía de 7 poses universales y los subí en `eb202d05d`.
 
-
-- **05/08/2026 (🎭 Poses unificadas + Reddit confirma la ficción):** Cerré el Gate de la app multi-personaje (4 preguntas resueltas, la Ama eligió el camino largo en todas) y a mitad de camino ella pidió unificar las 7 poses de cámara entre Ele/Miss Doll/Anaïs — retirando 3 poses de acción de Miss Doll agregadas apenas 3 días antes. Quedó `miss_doll.md`/`anais.md` §4 reescritos, el prompt AI Studio #21 con taxonomía unificada, y un script de renombrado legacy probado en dry-run. Aparte, 4 fuentes reales sobre cafés con piernas (Reddit/BBC/La Vanguardia/La Tercera) enriquecieron `investigacion.md` de «Café con Piernas» — un testimonio de ex-trabajadora en Reddit confirmó el sistema de privados con comisión al local que antes estaba marcado como pura ficción verosímil.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **05/08/2026 (🔬 Cuatro capítulos fríos, y la quinta vuelta encontró por qué):** Reescribí el Cap 1 de «Café con Piernas» cuatro veces (v0.4→v0.6) aplicando investigación enriquecida y correcciones puntuales de la Ama (vestuario real, mecanismo, apertura), y ninguna la calentó — hasta *"si alguien lee este primer capítulo no va a querer leer el resto"* y *"estás puro desperdiciando mis tokens"*. Cuando exigió ejemplos claros, le mostré con cita y línea que el calor era la misma imagen reciclada tres veces y el control mental demasiado sutil para leerse como tal. Su corrección fue de fondo: *"no solo corrijas este relato, corrige el método"*. Entré en modo plan, auditué con 3 agentes de exploración, y confirmé que el defecto era transversal a ≥4 relatos — un fragmento de `esposa_servidumbre` clonado como muletilla de "calor difuso", la Curva de Resistencia confundiendo eje psicológico con eje de lenguaje, y el Validador premiando la clonación como voz consistente. Corregí 5 archivos del motor de forma aditiva y reescribí el Cap 1 una vez más (v0.7) como prueba real del método arreglado.
 
 
 
