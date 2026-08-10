@@ -104,9 +104,13 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **21** | 🟢 Activo |
-| **Materializados (100%)** | **4** | 🔴 19.0% |
-| **Pendientes de Generación** | **17** | 🟡 Batch 05-21 |
+| **Total Looks Planificados** | **40** (numeración real hasta Look 40) + **6 Boudoir** (L01-L06) | 🟢 Activo |
+| **Materializados** | Sin verificar desde esta máquina (literaria, 0 PNG en disco) | ⚠️ Verificar en máquina visual |
+| **Pendientes de Generación** | Ver detalle abajo | 🟡 |
+
+> **🔎 Auditoría de `galeria_looks_anais.md` (10/08/2026):** el dato "21 planificados" estaba obsoleto — el archivo real llega al Look 40. Se encontraron y corrigieron dos huecos reales:
+> - **13 looks (22-34) tenían solo 1 de sus 4 prompts escritos** (Standing/Seated/Side Profile/Sovereign Gaze) — 38 prompts faltantes, completados el 10/08/2026 siguiendo el estilo ya establecido en cada look (mismo ADN + BLOQUE B, acción nueva por pose).
+> - **Los números Look 12, 13, 14, 19, 20, 21 nunca se crearon** (ni como header) — hueco real, pendiente agendar su diseño en un próximo batch de Anaïs (no confundir con la serie Boudoir L01-L06, que es aparte y está completa).
 
 ---
 
