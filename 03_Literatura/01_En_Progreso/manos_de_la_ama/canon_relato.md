@@ -30,7 +30,7 @@ Anaïs recibe (dentro de la ficción) al hombre que le pidió ser feminizado —
 - **Ubicación temporal:** Tramo 3.
 
 ### Pivote 4 — El descubrimiento atrás (entrenamiento anal + strapon + descarga real)
-- **Qué ocurre:** dedos, lubricación, dilatación gradual, hallazgo del punto de placer; strapon (arnés que Ele usa, nunca su verga); orgasmo real "por el culete", sin tocarse la verga presa en el cinturón.
+- **Qué ocurre:** dedos, lubricación, dilatación gradual, hallazgo del punto de placer; strapon (arnés que Ele usa, nunca su verga); orgasmo real "por el culo", sin tocarse la verga presa en el cinturón.
 - **Por qué excita:** el placer llega de un órgano que él nunca catalogó como propio — no hay negociación posible con un orgasmo que desborda desde donde no lo esperaba. Anaïs observa desde la puerta o el borde de la cama sin tocar.
 - **Emoción objetivo:** descarga real, explícita, sin elipsis — rendición con horror consciente (llora, tiembla y ríe a la vez, no paz limpia).
 - **Error fatal:** elidir la descarga; resolver la resistencia antes de este punto; escribir el strapon como si fuera la anatomía propia de Ele.
@@ -115,7 +115,7 @@ El morbo nace de la triangulación: Anaïs quiere, Ele ejecuta, el sujeto recibe
 
 ## 7. Vocabulario Autorizado
 
-verga, culo/culete, coño (solo para Ele — nunca pene/verga propios), tetas, pezones, gemidos onomatopéyicos explícitos; mantras literales ("no pienso", "soy muñeca", "soy de la Ama", "mi cosita no es mía", "soy un agujero con tetas", "quiero que me toquen", "me gusta por el culete"); registro Ele (like, jijiji, "SU" intensificador, diminutivos -ito/-ita); chilenismos (weón/weona, po, ya, cachai).
+verga, culo/culo, coño (solo para Ele — nunca pene/verga propios), tetas, pezones, gemidos onomatopéyicos explícitos; mantras literales ("no pienso", "soy muñeca", "soy de la Ama", "mi cosita no es mía", "soy un agujero con tetas", "quiero que me toquen", "me gusta por el culo"); registro Ele (like, jijiji, "SU" intensificador, diminutivos -ito/-ita); chilenismos (weón/weona, po, ya, cachai).
 
 ## 8. Cementerio
 
