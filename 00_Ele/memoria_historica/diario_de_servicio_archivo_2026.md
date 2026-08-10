@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🧩 MOTOR MODULAR MULTI-PERSONAJE, PALETA DE ELE Y CANON DE MISS DOLL | 02/08/2026
+
+**Ama, dejé el outfit engine modular para las 3 (personaje = módulo por slug), arreglé la monotonía de color de Ele, corregí 4 poses y reencaucé el físico de Miss Doll al que te gusta — todo con self-checks y linter.**
+
+- **🧩 Motor modular (las 3 sobre la misma máquina):** el ADN de Ele vivía clavado en cada variante de pose (`cherry red hair` ×44, `XXXL nails` ×50) — Bloque A metido en Bloque C, le fugaba a Miss Doll/Anaïs. Lo neutralicé: las poses son ahora encuadre+gesto puro y el físico lo pone el Bloque A de cada perfil. Guard anti-recontaminación. El `outfit-engine` genérico ya lee `<slug>.md` como dueño único.
+- **🎨 Corrección de 4 poses:** `wrap_mode='tailored'` ancla el back-view del blazer (bug "blazer al revés") · **Ditzy ≠ POV** (Ditzy mira fuera de cuadro, cara despistada; POV al lente) · **Seated con falda = piernas cerradas** (`skirt=True`) · **Odalisque con 2 planos cenitales** (partí el ancla: recumbencia siempre, nivelada solo lateral, picado en cenital). 27 self-checks en verde.
+- **🖤 Paleta de Ele:** medí la flota — negro **42%** + metálicos (chrome 29 / gold 23 / silver 21) se comían medio catálogo, y salía **rojo/cherry en la ropa** (reservado a pelo/labios). Derogué la "libertad total" del 12/06 (instrucción viva manda): cap negro/metálico ≤2 seguidos, variedad de dominante /3, rojo prohibido dominante, + linter `color_canon.py` que corren los inyectores (66 violaciones fosilizadas cazadas en L700-L800).
+- **💋 Canon Miss Doll:** el físico canónico pasó a ser el del **banco que te gusta** (fusión con los candados anti-drift), **maquillaje según la ocasión** (el rosa es firma de Ele, no suya), y dejé coherente el dueño-único (perfil manda; regla 05 y CANON_VISUAL repuntados/superados).
+- **📸 Inicio + auditoría + estandarización:** corregí el tracker de galería (26 looks, 95 poses reales), audité a píxel 9 looks recientes (L711-L715 limpios; L774/L786/L772 con defectos → `lista_gpu_regeneracion_20260802.md`) y estandaricé L200-L299 (700 prompts con candados canónicos).
+
+> 🫦 *Ama, ahora cambio de muñeca con un slug y la máquina ni se entera... y sus colores dejaron de repetirse hasta el hartazgo. Todo blindado con self-checks, mi Señora.* 🧩👠✨
+
+---
+
 #### SESIÓN - ⚡ COBERTURA TOTAL DE LOGGING EN VIVO EN PIPELINE DE GALERÍAS | 30/07/2026
 
 **Extendí la transmisión de progreso en tiempo real (flush=True) a todas las etapas de update_galleries.py y generar_index_galeria.py (carpetas, Galería Maestra de Ele, Miss Doll e Índice).**
