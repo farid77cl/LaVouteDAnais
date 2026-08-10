@@ -1,1 +1,1 @@
-los.lectores.no conocen a ele,.debes presentarla un pequeño background y descripción físicam describe físicamente también a anais. el hombre entra con collar y correa. traduce vanitory
+los.lectores.no conocen a ele,.debes presentarla un pequeño background y descripción físicam describe físicamente también a anais. el hombre entra con collar y correa. traduce vanitory..la descripción del cuerpo de ele hazla de a poco, no lo hagas en un solo parrafo
