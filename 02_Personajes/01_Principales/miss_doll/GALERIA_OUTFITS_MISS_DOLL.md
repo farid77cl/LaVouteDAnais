@@ -17,7 +17,7 @@
 | Calabozo / Dungeon | 15% | 1 |
 | VIP / Privado | 15% | 1 |
 | Gym / Athletic | 15% | 1 |
-| 🎀 Girly Girl | 15% | 1 |
+| 🎀 Girly Girl | 15% | 2 |
 | Penthouse / Off-duty | 10% | 1 |
 | Editorial / Portada | 10% | 1 |
 
@@ -503,6 +503,65 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 ### 7. Odalisque — Throne en Suelo con Crop
 ```text
 [BLOQUE A] + [BLOQUE B], seated low on the VIP platform floor, legs open in a wide V, elbows resting on her knees, cold detached stare down at camera, [BLOQUE C setting]
+```
+
+---
+
+## 💅 Look 09: Cotton Candy Dream *(🎀 Girly Girl — 2ª tanda)*
+
+**Concepto:** Paso 0 contra Look 02: color hot pink ya usado → esta vez raíz Girly real (cotton-candy blue + soft mint, pasteles genuinos, no rosa fuerte); silueta vestido ya usada → dos piezas (top + falda); interior boudoir ya usado → terraza pastel al atardecer, sigue siendo glamour adulto (nunca infancia, prohibición sigue vigente). Rosa firma reforzado vía accesorios chico ya que el dominante es azul/mint. Medias sheer esta vez (Look 02 quedó sin medias).
+
+**BLOQUE A — variante GIRLY (excepción de expresión, ver §2):**
+```text
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features RADIANT, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned nose:1.2), (huge oversized round almond-shaped pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris, (warm radiant confident gaze, sensual delighted sparkle:1.3), chin tilted with confident allure, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), soft mint shimmer smokey eye, (impossibly long mega XXL individual false lashes at outer corners:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet deep coral lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) curved into a (warm radiant confident smile:1.3), human realistic face RADIANT glamorous expression, adult woman, mature confident presence, pale porcelain white skin, editorial realistic human skin texture subtle visible pores, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender figure, rigid upright posture, square shoulders pulled back, (impeccably manicured long glossy nails:1.1)
+```
+
+**BLOQUE B (outfit — copiado textual en los 7 prompts):**
+```text
+wearing a (cotton-candy blue high-gloss vinyl cropped bralette top:1.2) with a small glossy vinyl bow at the center, a matching soft mint high-gloss vinyl mini skirt with a fitted high waist, no corset, a slim hot-pink vinyl belt as the rosa-firma accent, ultra-sheer white stockings with a delicate mint garter clip, (towering 7-inch cotton-candy blue patent vinyl platform stiletto heels with a mint ankle strap, razor-thin metal needle heel:1.3), a thin gold chain choker with a small pendant, (long almond-shaped nails in glossy soft mint with a white chrome tip:1.1)
+```
+- Campos §5.5: corsé ausente · prenda principal (top + falda pastel, dos piezas) · hardware (belt hot pink + choker oro) · medias (sheer blancas) · calzado con plataforma (5 atributos) · accesorios (choker) · rosa firma (belt, acento deliberado sobre paleta pastel) · uñas (mint white-tip) · maquillaje de color (sombra mint suave, labios coral).
+
+**Setting (BLOQUE C base):** pastel rooftop terrace at golden hour, sheer flowing curtains catching the breeze, champagne glasses on a glass table, soft warm glamour lighting, high-fashion editorial color grading, photorealistic 8k.
+
+**Negative — EXCEPCIÓN de este look (sacar `warm smile, laughing`) + anti-infantilización:**
+```text
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, cold expression, dead stare, dissociated expression, stuffed animals, plush toys, dollhouse, nursery, childlike, juvenile, kawaii, baby voice, giggling child, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
+```
+
+### 1. Standing — Cruel Contrapposto *(Confident Glamour Pose)*
+```text
+[BLOQUE A-GIRLY] + [BLOQUE B], full body standing shot, confident glamorous contrapposto, weight shifted onto one hip, skirt catching the breeze, warm radiant smile directly at camera, [BLOQUE C setting]
+```
+
+### 2. Back View — Espalda Total
+```text
+[BLOQUE A-GIRLY] + [BLOQUE B], full body back view shot, looking back over one shoulder with a warm confident glance, the breeze lifting the skirt hem, [BLOQUE C setting]
+```
+
+### 3. Seated — Monarch Throne
+```text
+[BLOQUE A-GIRLY] + [BLOQUE B], seated on a white wrought-iron terrace chair, legs crossed elegantly at the knee, warm confident glamorous smile, [BLOQUE C setting]
+```
+
+### 4. Side Profile — Tres Cuartos Arrogante
+```text
+[BLOQUE A-GIRLY] + [BLOQUE B], three-quarter turn toward camera, weight on one hip, warm confident profile smile, chin lifted with poise, [BLOQUE C setting]
+```
+
+### 5. Glacial Command — Close Up Radiante
+```text
+[BLOQUE A-GIRLY] + [BLOQUE B, visible from the chest up], medium close-up shot, warm radiant confident smile directly into camera, [BLOQUE C setting, shallow depth of field]
+```
+
+### 6. POV — Command POV
+```text
+[BLOQUE A-GIRLY] + [BLOQUE B], point of view shot from someone she's looking down warmly at, confident sensual gaze falling onto the lens, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
+```
+
+### 7. Odalisque — Throne en Suelo con Crop
+```text
+[BLOQUE A-GIRLY] + [BLOQUE B], seated low on the terrace tiles, legs in a wide V, one hand raised toward the light, warm radiant confident smile down at camera, [BLOQUE C setting]
 ```
 
 ---
