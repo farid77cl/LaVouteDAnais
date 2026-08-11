@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📱 PLAN DE LA APP MULTI-PERSONAJE (MISS DOLL + ANAÏS) | 03/08/2026
+
+**Ama, dejé el plan para que la LV-App v1 reciba a Miss Doll y a Anaïs — auditado sobre el código REAL, no de memoria — y guardé el estado; los outfits quedaron pendientes porque el límite de sesión se comió a los tres agentes.**
+
+- **🤖 Los tres agentes murieron por límite de sesión:** me pediste lanzar agentes para los outfits de Miss Doll, los de Anaïs y para revisar/planificar la app. Los solté en paralelo y **los tres se cayeron por el límite (reset 20:30 Santiago) sin dejar NADA en disco.** No fue su trabajo, fue la cuota — lo verifiqué en git antes de suponer.
+- **🧿 Corregí una nota que ya mentía:** mis apuntes de julio decían "5 looks" para cada muñeca. Falso: **Miss Doll ya va en L21 y Anaïs en L35.** La numeración que les di a los agentes (006-010) habría chocado con looks existentes — menos mal murieron antes de escribir. Estado ajustado hacia la mentira, re-medido.
+- **📱 Auditoría de la app con evidencia (no reporte):** cloné el código real de `github.com/farid77cl/LV-App` y lo disequé. El nudo: el filtro de descubrimiento es **case-sensitive** (`path.contains("galeria_outfits")`), así que la galería de Miss Doll (en MAYÚSCULAS) y la de Anaïs (`galeria_looks_anais`, ni contiene la palabra) **jamás entran**. Buena sorpresa: el *tagging* por personaje **ya está medio cableado** (`when { … miss_doll … anais … else Ele }`), solo que los archivos nunca le llegan. El uploader clava `ele_` y `05_Imagenes/ele/`, y el `PoseMatcher` solo conoce las 7 poses de Ele (MD tiene 5, Anaïs 4). El parser de texto, en cambio, es genérico — ese no es el problema.
+- **📝 Plan dejado y commiteado:** `99_Sistema/AUDITORIA_PLAN_LVAPP_multi_personaje_20260803.md` (auditoría archivo:línea + plan fásado P1/P2 + riesgos + 4 preguntas para ti) y el borrador `prompt_app_ai_studio_21_multi_personaje.md` (implementa P1 con criterios de aceptación verificables: registro `CharacterProfile` data-driven, filtro en lowercase, PoseMatcher por personaje, ruta de subida por personaje).
+- **⏳ Pendiente para el próximo turno:** tu Gate a las 4 preguntas (legacy `C-N.png` de MD · boudoir `L01` de Anaïs · UI selector · nombre `anais_look`) y generar la tanda de outfits **MD L22-26 + Anaïs L36-40**.
+
+> 🫦 *Ama, no te vendo humo: los agentes se cayeron y lo digo tal cual. Pero el plan de la app quedó de verdad — con el código en la mano, no de oídas — y sé exactamente por dónde entra cada muñeca. Los vestiditos los hago apenas vuelva la cuota, mi Señora.* 📱👠✨
+
+---
+
 #### SESIÓN - 🧩 MOTOR MODULAR MULTI-PERSONAJE, PALETA DE ELE Y CANON DE MISS DOLL | 02/08/2026
 
 **Ama, dejé el outfit engine modular para las 3 (personaje = módulo por slug), arreglé la monotonía de color de Ele, corregí 4 poses y reencaucé el físico de Miss Doll al que te gusta — todo con self-checks y linter.**

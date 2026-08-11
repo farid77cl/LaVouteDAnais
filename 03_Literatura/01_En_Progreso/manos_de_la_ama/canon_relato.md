@@ -53,9 +53,10 @@ Anaïs recibe (dentro de la ficción) al hombre que le pidió ser feminizado —
 
 ### Anaïs
 - **Rol narrativo:** dirige y observa; nunca ejecuta con las manos; su autoridad satura la escena aunque no toque.
-- **Frase tipo:** *"Hazlo, Ele. Me gustas así, extra morbosa y caliente."*
+- **Frase tipo:** (evitar reciclar líneas de versiones anteriores del capítulo — escribir diálogo nuevo cada vez, sostener solo el registro: económica, fría, nunca sube la voz).
 - **Detalle físico ancla:** la mirada que nunca se retira del cuadro aunque sus manos sí — de pie en la puerta o sentada en el borde de la cama.
-- **Invariante:** cada frase de Ele reporta o anticipa un deseo suyo; ella es la autora, Ele el canal.
+- **Vestuario de esta sesión (fijado 11/08/2026 — ancla para los 4 tramos, no cambia dentro del capítulo):** corsé de cuero negro con tightlacing (silueta hourglass, per canon visual), acentos de animal print (leopardo) en tejido noble — nunca vinilo/PVC barato, eso es la flota de Ele, no la de ella —, 12cm black patent leather stiletto pump punta afilada con suela roja, honey blonde en ondas vintage, lunar sobre el labio superior izquierdo, cat-eye negro, labios carmesí. Fuma cigarrillos reales (no prop) sin que haga falta aclararlo en el texto — se muestra fumando, no se explica que es "real".
+- **Invariante:** cada frase de Ele reporta o anticipa un deseo suyo; ella es la autora, Ele el canal. Habla siempre en español neutro — nunca chilenismos ("cachai", "po", etc.), eso es registro de Ele, no de ella.
 
 ### El sujeto (sin nombre — arquetipo, ver Cementerio)
 - **Rol narrativo:** el fan compuesto; vive la traición del cuerpo desde adentro; su voz interior migra de resistencia a mantra en voz alta.
