@@ -1,9 +1,11 @@
 ---
 name: anais-outfit-engine
-description: Motor especializado en la creación y gestión de la identidad visual de Anaïs Belland. Gestiona la generación de prompts bajo el protocolo Vintage Noir Hard-Sync v2.3, asegura la coherencia del ADN aristocrático en las 4 poses canónicas, y mantiene el catálogo de looks actualizado. Úsalo cada vez que se solicite un nuevo Look de Anaïs o una auditoría del repositorio visual.
+description: "DEPRECADO 11/08/2026 — no usar como motor activo. El motor vigente es `.agent/skills/outfit-engine/SKILL.md` (genérico, multi-personaje), que lee el ADN y las reglas de Anaïs desde `02_Personajes/_perfiles_visuales/anais.md`. Esta carpeta se conserva solo porque `anais.md` §1 apunta a `references/dna_v2_3.md` como el archivo operativo de copia del BLOQUE A — ese archivo SÍ está vigente y se mantiene actualizado. El resto de este documento (ADN embebido, conteo de poses, workflow) está desactualizado y NO debe seguirse."
 ---
 
-# 👑 Anaïs Outfit Engine (V2.3 Vintage Noir Hard-Sync)
+> 🔒 **DEPRECADO 11/08/2026.** Mismo tratamiento que recibió `ele-outfit-engine` cuando nació el motor genérico: esta carpeta deja de ser un engine activo. Invocar siempre `outfit-engine` (genérico) + `anais.md` (perfil visual, dueño único). El ADN de abajo dice "4 poses" y trae un BLOQUE A que ya no es el vigente — quedó reemplazado por la revisión del 11/08/2026 en `references/dna_v2_3.md`, que sigue siendo el archivo real de copia (no se mueve, no se duplica). No borrar esta carpeta: `references/dna_v2_3.md` y `references/_plantilla_perfil_visual.md`-equivalentes siguen en uso.
+
+# 👑 Anaïs Outfit Engine (V2.3 Vintage Noir Hard-Sync) — ARCHIVO HISTÓRICO, NO USAR COMO WORKFLOW
 
 Motor central para la coherencia estética y técnica de Anaïs Belland. Garantiza que cada nuevo Look respete el ADN Vintage Noir v2.3 y mantenga el equilibrio arquetipal del repositorio.
 

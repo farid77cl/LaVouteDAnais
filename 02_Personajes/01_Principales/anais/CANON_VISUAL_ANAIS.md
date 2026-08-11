@@ -29,11 +29,15 @@
 
 ## II. BLOQUE A: ADN INAMOVIBLE (COPIAR TEXTUALMENTE)
 
+> 🔒 **Dueño único de este bloque: `.agent/skills/anais-outfit-engine/references/dna_v2_3.md` (revisado 11/08/2026).** El texto de abajo quedó **obsoleto** — leía "perpetually youthful" sin ancla de edad y salía como veinteañera; no traía sombra de ojos. Corregido en el archivo dueño con edad ancla en hueso (peso 1.4), piel impecable declarada en positivo y sombra taupe/charcoal agregada. Copiar SIEMPRE desde `dna_v2_3.md`, no desde aquí — este bloque queda de referencia histórica hasta que se resincronice.
+
 Este bloque define la identidad genética y estética permanente de Anaïs. **DEBE** copiarse idéntico en los 5 prompts de cada set sin alterar ni una sola palabra.
 
 ```text
 sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension.
 ```
+
+> ⚠️ **Sesgo B&N:** el prefijo "film noir" de este documento arrastra la generación a blanco y negro aunque no se pida. Si el look no es de la cuota B&N (máx. 5%, §IX), anteponer bloqueo de color explícito — ver `dna_v2_3.md`.
 
 ---
 
@@ -50,7 +54,8 @@ sophisticated ageless dominant woman in her early 40s, perpetually youthful yet 
 - **Referencia de rostro canónica:** Kylie Minogue madura (pero con tratamiento intensivo de piel).
 
 ### Cuerpo
-- **Silueta:** `elegant hourglass figure with extreme waist training` — Proporciones maduras, constreñidas por corsetería extrema (tightlacing).
+- **Silueta:** `elegant hourglass figure with extreme waist training` — Proporciones maduras, constreñidas por corsetería extrema (tightlacing), **cuando lleva corsé.**
+- **Cuerpo base, sin corsé (validado 11/08/2026 con foto real):** delgada y firme, físico tonificado natural — **no voluptuosa, no aumentada, no bimbo.** Busto natural y moderado, firme. Glúteos firmes y tonificados en la misma línea magra, **suaves, no marcados de forma dura/muscular.** Cintura naturalmente angosta con curva suave hacia la cadera — la curva pronunciada de arriba es lo que aporta el corsé, no volumen artificial de base. Piel con **glow luminoso**, sin estriación muscular dura ni sequedad — brillo satinado sobre las curvas, no "cuerpo de gimnasio marcado". Token: `slender and lean, naturally fit firm physique, not voluptuous, not augmented, not bimbo-exaggerated, natural moderate firm breasts, firm smooth glutes softly toned rather than sharply muscular, soft luminous glowing skin catching the light, no harsh muscle striation, satiny sheen over toned curves`.
 - **Postura:** S-curve pronunciada, acentuando la cadera y la cintura diminuta.
 - **Marcas:** Sin tatuajes. Sin piercings visibles. 
 
@@ -77,7 +82,7 @@ Anaïs basa su guardarropa en la opulencia táctil y la restricción elegante, a
 ### 1. La Capa Fundacional (Lencería y Corsetería)
 - **Corsetería:** Overbust o Underbust con mínimo 12 varillas de acero en espiral (*steel boned*). Nunca de plástico. La cintura debe reducirse 10-15cm (tightlacing extremo).
 - **Sujetadores:** *Bullet bras* cónicos con costura en espiral (estilo años 40/50). Empujan el busto hacia adelante y arriba.
-- **Lencería Retro:** Braguitas de talle alto (*high-waisted briefs*), *tap pants* o *french knickers*. **Prohibido:** tangas, brasileñas o cualquier corte moderno.
+- **Lencería Retro — regla revisada 11/08/2026 (Ama, probado contra foto real):** la prohibición original de "cualquier corte moderno" producía lencería de cobertura total que leía **"ropa de abuela"**, no sensual. **Derogada esa cláusula.** Regla nueva: el aire retro lo da el **material** (seda, encaje francés, satén) y la **paleta** (marfil/champagne/negro), no el corte — el corte puede ser moderno y sensual: sujetador balconette con encaje sheer y aro, corte brasileño de caderas angostas con tirantes finos en vez de panel ancho. Sigue **prohibido** el look deportivo/casual barato; el corte de tanga se evalúa caso a caso, no está descartado de plano.
 - **Liguero (*Garter belt*):** Imprescindible para sostener las medias. Mínimo de 4 a 6 tirantes, llevado SIEMPRE por encima de las bragas (regla histórica).
 - **Medias (*Back-seam nylons*):** Exclusivamente medias 15 denier con costura trasera (*fully fashioned* con *Cuban heel*), generalmente en negro, borgoña o nude cálido. **Prohibido:** medias autoadhesivas modernas con banda de silicona.
 
@@ -97,7 +102,10 @@ El látex es una expresión refinada de su dominio visual.
 
 ### 4. Estampados de Autoridad (Animal Print Vintage)
 El *animal print* en Anaïs no es decorativo; es una extensión de su naturaleza depredadora.
-- **Estilos Canónicos:** Leopardo clásico (ámbar/ocre/negro), Piel de Serpiente (textura táctil), Cebra (exclusivamente en sets de alto contraste B&W).
+
+> ✏️ **Ampliado 11/08/2026 (Ama, confirmado tras auditoría de galería):** la galería real ya venía usando Tigre, Cocodrilo y Dálmata desde antes de que estuvieran escritos aquí — la Ama confirmó que se quedan como ampliación válida del canon, no como desviación. Quedan sumados a la lista oficial.
+
+- **Estilos Canónicos:** Leopardo clásico (ámbar/ocre/negro), Piel de Serpiente/Pitón (textura táctil), Cebra (exclusivamente en sets de alto contraste B&W), **Tigre clásico** (dorado/negro), **Cocodrilo** (textura de cuero exótico, no patrón pintado), **Dálmata** (exclusivamente en sets de alto contraste B&W, igual que la cebra).
 - **Materiales:** Solo en tejidos de alta gama: **seda natural**, **terciopelo italiano**, o **látex de alto brillo**. El patrón debe ser nítido y de escala realista, nunca distorsionado ni en colores neón.
 - **Uso:** Principalmente en vestidos *wiggle*, abrigos de gala o lencería estructural. Se combina siempre con accesorios negros sólidos (guantes de ópera, *stilettos*) para mantener la sofisticación aristocrática.
 
@@ -112,7 +120,7 @@ El calzado es la firma de su poder. Se mantiene la máxima exigencia.
 - **Prohibiciones Absolutas:** Zapatillas, *sneakers*, zapatos planos, botas de combate, tacones cuadrados (*block/chunky*). **Ninguna plataforma visible delantera** (solo se acepta plataforma interna o de máximo 0.5 cm en peep-toes reales).
 
 ### Accesorios
-- **Guantes:** *Opera length* (hasta sobre el codo) en satén, seda, látex o cuero para la noche. *Wrist length* para día.
+- **Guantes:** *Opera length* (hasta sobre el codo) en satén, seda, látex o cuero para la noche. *Wrist length* para día. Cerrados como siempre — **si tapan los dedos, el prompt de ese look omite el token de manicura de mano** (ver `anais.md` §5.4, corrección 11/08/2026).
 - **Joyería:** Diamantes, perlas de varias vueltas, pedrería *Art Déco* y pendientes chandelier. Nada de joyería minimalista moderna u oro rosado.
 - **Sombreros y Velos:** *Pillbox* estilo 60s, *Fascinators* con velo de red (*birdcage veil*), pamelas amplias oscuras.
 - **Complementos:** Boquillas de plata/cristal largas para fumar. Bolsos tipo *Kelly* (asa superior estructurada) o *Box clutch* lacado.
@@ -179,13 +187,14 @@ Cada prompt se construye sumando tres bloques definidos:
 - **BLOQUE B (El Outfit):** Se define una sola vez por Look con máximo detalle (materiales, colores, calzado, accesorios). Se copia idéntico en las 5 poses del set para evitar variaciones textiles.
 - **BLOQUE C (Pose y Setting):** La única variable. Describe la postura específica y el entorno (mobiliario, fondo, atmósfera).
 
-### 2. El Ritual de las 5 Poses Obligatorias
-Cada Look canónico debe materializarse en estas 5 perspectivas:
-1. **Standing View:** De frente, cuerpo entero, presencia de mando.
-2. **Back View:** Enfoque en la espalda descubierta, el ajuste del corsé y la costura de las medias.
-3. **Seated View:** Sentada en mobiliario de lujo coherente con el escenario.
-4. **Side Profile:** De perfil, enfatizando la silueta *hourglass* y el arqueo *S-curve*.
-5. **Closeup Face:** Primer plano para capturar la mirada *knowing look* y la perfección de su piel ageless.
+### 2. Poses — DUEÑO ÚNICO MOVIDO A `anais.md` §4 (11/08/2026)
+
+> 🔒 Esta sección quedaba **desincronizada en tres lugares distintos**: este documento decía 5 poses (nunca implementadas completas — la galería real solo usó 4, saltándose Back View), `CLAUDE.md` decía 4, y el perfil visual `02_Personajes/_perfiles_visuales/anais.md` §4 decía 7 (estandarizado 05/08/2026, mismo taxonomía universal de cámara que Ele y Miss Doll). Los tres corregidos hoy — **el dueño único de poses es `anais.md` §4**, este documento y `CLAUDE.md` apuntan ahí, no copian.
+>
+> **Estado real de la galería:** Looks 1-40 quedan como legado a 4 poses (nunca se retrofitea en masa — mismo criterio usado con el roster legacy de Miss Doll). Los **7 poses aplican desde el próximo Look nuevo (41+)** en adelante.
+
+Lista histórica (referencia, ya no es la vigente — ver `anais.md` §4 para las 7 poses activas):
+1. Standing View · 2. Back View *(nunca implementada en la galería real)* · 3. Seated View · 4. Side Profile · 5. Closeup Face.
 
 ### 3. Registro y Etiquetado (Obligatorio)
 Todos los looks generados deben ser registrados en `02_Personajes/01_Principales/anais/galeria_looks_anais.md`.

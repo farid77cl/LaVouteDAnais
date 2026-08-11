@@ -194,7 +194,9 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 
 Everything that differs per character lives in its **visual profile**, `02_Personajes/_perfiles_visuales/<slug>.md`: **§2 BLOQUE A** (physical DNA) and **§5 BLOQUE B rules** (materials, palette, footwear, absolute prohibitions, mandatory description fields), plus poses, archetype targets, anti-repetition windows and live quotas. Profiles are the **owner** of those fields — the older rules and engines point here rather than copying.
 
-Active: `ele.md` (7 poses, gloves **forbidden**) · `miss_doll.md` (5 poses, corset in every look, signature pink always present) · `anais.md` (4 poses, gloves **allowed**, mole mandatory). New character = copy `references/_plantilla_perfil_visual.md`, fill it **with the Ama** — never a new engine.
+Active: `ele.md` (7 poses, gloves **forbidden**) · `miss_doll.md` (7 poses, corset in every look, signature pink always present) · `anais.md` (7 poses, gloves **allowed**, mole mandatory). New character = copy `references/_plantilla_perfil_visual.md`, fill it **with the Ama** — never a new engine.
+
+> ⚠️ **Pose count corrected 11/08/2026:** this line said Miss Doll=5 and Anaïs=4 — both stale since the 05/08/2026 standardization to 7 poses (universal camera-slot taxonomy, content per character). Miss Doll's 14 looks / 98 prompts already prove 7 in practice. Anaïs's galería (`galeria_looks_anais.md`, Looks 1-40) is **not yet retrofitted** — it's still written at 4 poses and stays that way as legacy; 7 poses apply going forward, same retrofit-on-touch convention used elsewhere in this repo (never a mass migration). See `anais.md` §4 for detail.
 
 **Why:** per-character engines were tried and drifted. Ele's reached ~1,800 lines; copying it for Anaïs produced **147** — the DNA travelled, the machinery didn't (no Step 0, no locked token, no pose rotation). Miss Doll never got an engine at all. Same failure mode as the triplicated fleet counters, same fix: one owner, many pointers. The legacy `ele-outfit-engine` stays as **Ele's sub-archetype library** (10 specs with real-world references) — that is character material, not engine.
 

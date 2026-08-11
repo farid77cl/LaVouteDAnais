@@ -84,23 +84,33 @@
 
 ### 5.1 · Universo de materiales
 
-- **Permitidos:** satén pesado, seda charmeuse, terciopelo italiano, látex de grado clínico, encaje francés, nylon con costura, charol.
+> ✏️ **Ampliado 11/08/2026 (Ama).**
+
+- **Permitidos:** satén pesado, seda charmeuse, terciopelo italiano, látex de grado clínico, encaje francés, nylon con costura, charol, **cuero** (guante fino, cinturón ancho, abrigo — cuero de sastrería/lujo, nunca de motociclista), **látex estándar de alto brillo** (además del de grado clínico, para looks fetish más directos).
 - **Prohibidos:** materiales baratos o deportivos; cualquier cosa que lea "casual" o "joven".
-- **Lente de identidad:** *tejido noble.* Anaïs es aristocracia, no fetiche sintético — la separa de Ele y de Miss Doll. Un látex suyo es de **grado clínico**, no de club.
+- **Lente de identidad:** *tejido noble.* Anaïs es aristocracia, no fetiche sintético — la separa de Ele y de Miss Doll. El látex y el cuero se usan con acabado impecable/pulido, nunca de estética industrial o club barato.
 
 ### 5.2 · Paleta y reglas cromáticas
 
-- **Paleta:** negro dominante, carmesí, oro imperial `#D4AF37`, champagne, marfil, terciopelo profundo.
+> ✏️ **Ampliada 11/08/2026 (Ama) — resuelve el desajuste con `CANON_VISUAL_ANAIS.md` §I, que ya traía azul medianoche/verde esmeralda sin que estuvieran aquí.** Esta tabla queda como dueño único de la paleta; `CANON_VISUAL_ANAIS.md` §I apunta aquí de ahora en más.
+
+- **Paleta:** negro dominante, carmesí, oro imperial `#D4AF37`, dorado clásico, champagne, marfil, terciopelo profundo, gris perla, azul medianoche, verde esmeralda, **borgoña/vino profundo**, **bronce/cobre antiguo**, **plata antigua**, **rosa polvo/dusty rose**.
 - **Reservado al ADN:** el **rojo carmesí de los labios** y el **honey blonde** del pelo.
-- **Animal print:** permitido **solo** en tejido noble (seda, terciopelo, látex). Nunca en material barato.
+- **Animal print:** ya NO es arquetipo (ver §6) — es acabado transversal, permitido **solo** en tejido noble (seda, terciopelo, látex, cuero). Nunca en material barato. Cuota pendiente de definir.
 - **Anti-monoblock:** máx. 2 consecutivos.
 
 ### 5.3 · Calzado (canon inamovible)
 
-- **Regla:** `12cm black patent leather stiletto pump pointed toe iconic red sole`.
-- **Altura exacta:** **12 cm**. Ni más bajo, ni compensado con plataforma.
+> ✏️ **Ampliado 11/08/2026 (Ama) — de un solo modelo a 3 estilos, con la misma regla medias+puntera de Ele (`feedback_medias_calzado_reglas`, auto-memoria).**
+
+- **Altura exacta:** **12 cm**, sin excepción — no se abre a rango (se descarta el "10-12cm" que traía `CANON_VISUAL_ANAIS.md` §VI, ese documento queda desactualizado en esto).
+- **Estilos permitidos (3):**
+  1. `stiletto pump pointed toe` — el original, punta cerrada.
+  2. `peep-toe stiletto pump` — **nuevo.** Punta abierta permitida SOLO si el look no lleva medias (ver regla siguiente).
+  3. `knee-high stiletto boot` (bota bajo rodilla, punta cerrada) — **nuevo.**
+- **🔴 Regla medias + puntera (idéntica a Ele):** si el look lleva medias, el calzado **debe** ser de puntera cerrada (pump o bota). El peep-toe **queda prohibido en cualquier look con medias**, sin excepción.
 - **Prohibido:** tacón bajo, **plataforma delantera visible**, zapatilla, flat, wedge.
-- **Suela roja: obligatoria.**
+- **Suela roja: obligatoria** en los tres estilos.
 - **Atributos obligatorios del token** (los 6): altura en cm · estilo · material · color · forma de puntera · suela roja.
 
 ### 5.4 · Prohibiciones absolutas
@@ -116,6 +126,8 @@
 | Exterior/natural fuera de Viaje | interiores controlados | Coherencia de arquetipo |
 
 > 🧤 **Los guantes SÍ están permitidos en Anaïs** (wrist/elbow/opera, con material y largo especificados). **Esto la distingue de Ele, donde los guantes están derogados.** Es justo el tipo de regla que se corrompía al duplicar motores.
+>
+> ✏️ **Conflicto detectado 11/08/2026, corrección revertida por la Ama — "guantes sin dedos NO".** Los guantes de Anaïs siguen siendo los normales de siempre (opera length hasta el codo, cerrados, sin variante sin-dedos forzada). El error no era el guante — era mío, por meter el token de manicura de todos modos en un prompt donde las manos van tapadas. **Regla correcta: si el look lleva guantes que cubren los dedos, se OMITE el token de uñas de mano en ese prompt** (no se ve, no se describe). El token de manicura solo va cuando las manos están visiblemente desnudas.
 
 ### 5.5 · Campos obligatorios de descripción
 
@@ -133,19 +145,21 @@ Describir **en este orden**:
 
 ## §6 · Arquetipos y Metas
 
+> 🔄 **RESET 11/08/2026 (Ama: "partamos de cero").** Auditoría de los 40 looks existentes encontró que ~20 de ellos usaban etiquetas ad-hoc que no mapean a esta tabla ("High-Fashion/Matriarch", "Corporate Power/Exotic", "Night Gowns/Exotic", etc.) — la regla de déficit llevaba meses siendo inaplicable porque casi la mitad de la galería no se podía contar. **Los Looks 1-40 quedan como legado, sin reclasificar ni retrofitear.** El conteo de cuota **reinicia en cero desde el Look 41**.
+>
+> **Segunda pasada, misma fecha:** la Ama sacó **Gala/Premiere** y **Viaje/Jet Set** de la tabla, y corrigió que **Animal Print no es un arquetipo** — es un acabado/patrón transversal que se aplica sobre cualquier arquetipo (mismo tratamiento que en Ele: cuota "1 de cada 8 looks", no una categoría que compite por el mismo 100%). Sale de esta tabla; su tratamiento como cuota de paleta/materialidad queda **pendiente de definir** en la revisión de §5 que sigue. Las cinco categorías que quedan se reescalaron proporcional a como estaban (misma relación de peso, ahora sumando 100%).
+
 | Arquetipo | Descripción | Meta |
 |---|---|---|
-| **Noche / La Voûte** | La Regenta, negro satén/terciopelo, interior de La Voûte | 25% |
-| **Boudoir / Lencería** | Aposentos privados, negligée, merry widow, peignoir, corsetería | 20% |
-| **Gala / Premiere** | Alfombra roja, vestidos columna | 15% |
-| **Látex / Fetichismo** | Catsuits, corsés overbust de látex, poder fetish refinado | 15% |
-| **Sesión Literaria** | Estudio privado, kimono de seda, escritura nocturna | 10% |
-| **Animal Print / Autoridad** | Leopardo, serpiente, cebra — solo en tejido noble | 7,5% |
-| **Ejecutivo de Poder** | Traje sastre vintage, pencil de cuero, power dressing | 5% |
-| **Viaje / Jet Set** | Abrigo de vuelo, lobby 5★, jet privado, yacht | 2,5% |
+| **Noche / La Voûte** | La Regenta, negro satén/terciopelo, interior de La Voûte. **Medias de red de uso casi regular en este arquetipo (Ama 11/08/2026)** — no en cada look, pero frecuente; puntera cerrada obligatoria cuando aparecen (regla §5.3) | 33% |
+| **Boudoir / Lencería** | Aposentos privados, negligée, merry widow, peignoir, corsetería | 27% |
+| **Látex / Fetichismo** | Catsuits, corsés overbust de látex, poder fetish refinado | 20% |
+| **Sesión Literaria** | Estudio privado, kimono de seda, escritura nocturna | 13% |
+| **Ejecutivo de Poder** | Traje sastre vintage, pencil de cuero, power dressing | 7% |
 
-- **Regla de déficit:** si un arquetipo está bajo meta, el próximo look **debe** ser de esa categoría.
-- **Prioridad de desempate:** Noche > Boudoir > Gala > Látex > resto.
+- **Regla de déficit:** si un arquetipo está bajo meta, el próximo look **debe** ser de esa categoría. Conteo empieza en Look 41, no antes.
+- **Prioridad de desempate:** Noche > Boudoir > Látex > Sesión Literaria > Ejecutivo.
+- **Etiquetado obligatorio:** el campo `**Arquetipo:**` de cada look nuevo debe usar **textualmente** uno de los 5 nombres de esta tabla — nada de variantes ad-hoc ("Exotic", "Noir Glamour", "High-Fashion..."), esa fue la causa raíz del desorden. **Gala/Premiere y Viaje/Jet Set no desaparecen del todo** — si vuelven, es como escenario/paleta dentro de uno de los 5 arquetipos, no como categoría propia; a definir cuando se necesite.
 
 ---
 

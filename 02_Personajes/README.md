@@ -2,14 +2,14 @@
 
 > *Cada ficha es un alma capturada, cada transformación una obra de arte.*
 
-*Última actualización: 27/07/2026 — nacen los perfiles visuales (contratos del `outfit-engine`)*
+*Última actualización: 11/08/2026 — revisión completa del canon visual de Anaïs, corregida la jerarquía de autoridad entre perfil visual y canon profundo*
 
 ## 🗂️ Estructura del Directorio
 
 El archivo de personajes está organizado por categorías para facilitar la gestión del canon:
 
 - **`_perfiles_visuales/`**: 🎭 **Contratos del motor de looks** — un perfil por personaje con su **BLOQUE A** (ADN físico) y sus **reglas de BLOQUE B** (materiales, paleta, calzado, prohibiciones), más poses, arquetipos y ventanas anti-repetición. Ver [`README`](_perfiles_visuales/README.md) · [Ele](_perfiles_visuales/ele.md) · [Miss Doll](_perfiles_visuales/miss_doll.md) · [Anaïs](_perfiles_visuales/anais.md). La **maquinaria** vive una sola vez en [`.agent/skills/outfit-engine/`](../.agent/skills/outfit-engine/SKILL.md) — no se duplica por personaje.
-- **`01_Principales/`**: Figuras centrales del universo. Incluye [`CANON_VISUAL_MISS_DOLL.md`](01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md) y [`CANON_VISUAL_ANAIS.md`](01_Principales/anais/CANON_VISUAL_ANAIS.md) (Máximas Autoridades Visuales — mandan sobre el perfil en caso de conflicto).
+- **`01_Principales/`**: Figuras centrales del universo. Incluye [`CANON_VISUAL_MISS_DOLL.md`](01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md) y [`CANON_VISUAL_ANAIS.md`](01_Principales/anais/CANON_VISUAL_ANAIS.md) — documentos de canon profundo/filosofía, pero **el perfil visual (`_perfiles_visuales/<slug>.md`) es el dueño único operativo** de BLOQUE A, poses, arquetipos y paleta (corregido 11/08/2026 tras encontrar desajustes reales entre ambos para Anaïs — ver nota fechada en `CANON_VISUAL_ANAIS.md` §II).
 - **`02_Secundarios/`**: Aliados, antagonistas menores y víctimas de relatos.
 - **`03_Transformados/`**: Fichas de personajes que han pasado por procesos de feminización o bimboficación (incluye arcos de transición).
 - **`04_Masculinos/`**: Personajes que mantienen su identidad masculina (esposos, depredadores, aliados).
