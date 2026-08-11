@@ -114,14 +114,16 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 ---
 
-## 🎀 ESTADÍSTICAS DE MISS DOLL (V5.0)
+## 🎀 ESTADÍSTICAS DE MISS DOLL (rediseño 11/08/2026)
+
+> 🔎 **Corrección de estado (11/08/2026):** esta sección decía "V5.0, 5 looks disponibles, L01-L03 materializados" — al auditar la galería real (`GALERIA_OUTFITS_MISS_DOLL.md`) se encontraron **26 looks / ~182 prompts bajo canon V3.5**, no 5. El dato viejo estaba desactualizado (ver `feedback_app_verificar_codigo_real` — no confiar en el reporte). Corregido con la medición real.
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Canon Activo** | **V5.0 Realismo Couture** | ✅ Validado |
-| **Looks Disponibles** | **5** | 🟢 Activo |
-| **Materializados** | **3.0** | ✅ L01-L03 (100%) |
-| **Estado Actual** | **Listo L04** | 🟢 Preparada para Batch Zero |
+| **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
+| **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `GALERIA_OUTFITS_MISS_DOLL_ARCHIVO_LEGACY.md` — imágenes ya generadas quedan como material histórico, no se regeneran automáticamente |
+| **Looks bajo canon nuevo** | **1** (Look 01 — Neon Pink Cage, Club/Escenario) | 🟡 Prompts escritos (7/7), 0/7 materializados |
+| **Estado Actual** | Listo para generar Look 01 vía app; próximos looks se agregan on-demand, mismo ritmo que Ele/Anaïs (no se regenera todo el roster legacy de una vez) | 🟢 |
 
 ---
 
