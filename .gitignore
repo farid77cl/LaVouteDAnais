@@ -25,3 +25,18 @@ scratch/
 *.tmp
 *.bak
 *_out.txt
+debug*.txt
+
+# === Espacios de trabajo efímeros de subagentes (11/08/2026) ===
+# OJO: .agents/orchestrator, .agents/sentinel y .agents/victory_verifier SÍ están trackeados.
+# Solo se ignoran los workspaces desechables de corridas puntuales.
+.agents/worker_*/
+.agents/teamwork_*/
+.agents/*_visual_audit/
+.agents/ORIGINAL_REQUEST.md
+
+# === Clones de repos externos (código de la app vive en su propio repo) ===
+99_Sistema/_legacy_lv_app_v4x/LV-App-clone/
+
+# === Scripts de un solo uso ya ejecutados (se conservan en disco, no en la historia) ===
+99_Sistema/scripts/_oneoff/
