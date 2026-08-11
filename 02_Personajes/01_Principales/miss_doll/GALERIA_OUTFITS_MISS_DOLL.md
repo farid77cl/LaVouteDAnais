@@ -14,7 +14,7 @@
 | Arquetipo | Meta | Registrados |
 |-----------|------|-------------|
 | Club / Escenario | 20% | 2 |
-| Calabozo / Dungeon | 15% | 1 |
+| Calabozo / Dungeon | 15% | 2 |
 | VIP / Privado | 15% | 1 |
 | Gym / Athletic | 15% | 1 |
 | 🎀 Girly Girl | 15% | 2 |
@@ -562,6 +562,67 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 ### 7. Odalisque — Throne en Suelo con Crop
 ```text
 [BLOQUE A-GIRLY] + [BLOQUE B], seated low on the terrace tiles, legs in a wide V, one hand raised toward the light, warm radiant confident smile down at camera, [BLOQUE C setting]
+```
+
+---
+
+## 💅 Look 10: Midnight Plum Rite *(Calabozo / Dungeon — 2ª tanda)*
+
+**Concepto:** Paso 0 contra Look 03: corsé oxblood ya usado → esta vez sin corsé, bodysuit con cutouts y anillas; oxblood/gunmetal ya usado → dark plum + gunmetal; medias ya usadas (ventana de 2 aplica) → piernas desnudas bajo el bodysuit.
+
+**BLOQUE A (ADN — copiado textual del perfil §2, NUNCA parafraseado):**
+```text
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features COMMANDING, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned nose:1.2), (huge oversized round almond-shaped cold pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris with sharp dark limbal ring, (fixed dominant professional gaze zero warmth, slow appraising once-over gaze sweeping head to toe with cold superiority:1.3), chin elevated 5 degrees, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), deep plum-smoke shimmer smokey eye, (impossibly long mega XXL individual false lashes at outer corners dramatic cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet black-cherry lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) curved into a (subtle smug smirk, one corner of the mouth raised:1.2), human realistic face DOMINANT smirking expression, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender commanding figure, rigid upright posture, square shoulders pulled back, (impeccably manicured long glossy nails:1.1)
+```
+
+**BLOQUE B (outfit — copiado textual en los 7 prompts, NUNCA parafraseado):**
+```text
+wearing a (dark plum high-gloss latex bodysuit with strategic cutouts at the ribs and hip:1.2), (fine gunmetal rings connecting each cutout edge, jewelry-like refined hardware, NOT industrial rigging:1.2), no corset, bare toned legs visible through the hip cutouts, (towering 8-inch dark plum patent vinyl platform stiletto knee-high boots, gunmetal buckle strap detail, razor-thin metal needle heel:1.3), a fine gunmetal chain choker with a small pendant, a slim black leather riding crop held in one hand, (long stiletto-shaped nails in glossy dark plum gloss:1.1)
+```
+- Campos §5.5: corsé ausente (bodysuit con anillas en vez de corsé) · prenda principal (bodysuit latex plum con cutouts) · hardware (anillas gunmetal) · medias (ninguna, piernas desnudas) · calzado con plataforma (5 atributos) · accesorios (choker + crop) · rosa firma → **ausente, ver nota** · uñas (stiletto plum gloss) · maquillaje de color (sombra plum-smoke, labios black-cherry).
+
+> ⚠️ **Nota de firma rosa:** ausente de nuevo (2 looks seguidos de la tanda sin rosa — Club #2 y este). El siguiente de la tanda (Look 11) debe reforzarla sin falta.
+
+**Setting (BLOQUE C base):** elegant dark dungeon session room, a sculptural chrome cage-chair as the centerpiece furniture (refined, not industrial), deep plum and gunmetal ambient lighting, dramatic single-source side lighting, cinematic 35mm, photorealistic 8k.
+
+**Negative (base del perfil §3, sin excepciones — sin corsé esta vez):**
+```text
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
+```
+
+### 1. Standing — Cruel Contrapposto
+```text
+[BLOQUE A] + [BLOQUE B], full body standing shot, cruel aggressive contrapposto stance, weight shifted hard onto one hip, crop resting against her thigh, smirk and a cold appraising gaze, [BLOQUE C setting]
+```
+
+### 2. Back View — Espalda Total
+```text
+[BLOQUE A] + [BLOQUE B], full body back view shot, back fully turned to camera, the gunmetal rings visible tracing the spine cutouts, looking back over one shoulder, [BLOQUE C setting]
+```
+
+### 3. Seated — Monarch Throne
+```text
+[BLOQUE A] + [BLOQUE B], seated in the chrome cage-chair, legs at 60-90 degrees, crop resting across her knees, regal untouchable smirk, [BLOQUE C setting]
+```
+
+### 4. Side Profile — Tres Cuartos Arrogante
+```text
+[BLOQUE A] + [BLOQUE B], three-quarter turn toward camera, weight on one hip, cold arrogant profile smirk, cutouts catching the low side light, [BLOQUE C setting]
+```
+
+### 5. Glacial Command — Close Up Fría
+```text
+[BLOQUE A] + [BLOQUE B, visible from the chest up], medium close-up shot, direct smirking gaze into camera, lips slightly parted, [BLOQUE C setting, shallow depth of field]
+```
+
+### 6. POV — Command POV
+```text
+[BLOQUE A] + [BLOQUE B], point of view shot from a kneeling submissive looking up at her, crop tilting the viewer's chin into frame, her cold smirking gaze falling down, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
+```
+
+### 7. Odalisque — Throne en Suelo con Crop
+```text
+[BLOQUE A] + [BLOQUE B], seated low on the cage-chair's base, legs open in a wide V, elbows resting on her knees, crop held loosely, cold smirking stare down at camera, [BLOQUE C setting]
 ```
 
 ---
