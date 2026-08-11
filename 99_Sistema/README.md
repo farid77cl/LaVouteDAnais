@@ -2,7 +2,9 @@
 
 Directorio de scripts de automatización y prompts de sistema de La Voûte d'Anaïs.
 
-*Última actualización: 26/07/2026 — **📱 LV-App 2.0 por Andamiaje Incremental:** serie `prompt_app_ai_studio_20_p1…p8` (+ `20.1`, `20.4`, y el parche `20_p1.1_saneamiento`) con `plan_trabajo_lv_app_2_0.md` como plan maestro. **P1 hecho** (commit `250beb6` en `farid77cl/LV-app-2` — repo nuevo; el `LV-App` viejo quedó en la era v4.12, archivada en `_legacy_lv_app_v4x/`). Previo 03/06: `scripts/rrss/` ampliado con `publicar_bluesky.py` (atproto), `publicar_reddit.py` (PRAW), `metricas_bluesky.py` y `caption_factory.py`.*
+*Última actualización: 11/08/2026 — **🗄️ `archivo_batches_prompts/` (nuevo):** los 4 `_batch_L651_L690.md` que vivían en la raíz del repo se archivaron acá. Caían en el filtro de LV-App (subcadena `_batch_`) y, por orden alfabético, pisaban el rango L651-L690 de `galeria_outfits.md` con prompts **anteriores al fix anti-collage** (0 anclas `a single continuous photograph` contra 280 en la galería viva). Contrato en [`.agent/rules/11-contrato-galeria.md`](../.agent/rules/11-contrato-galeria.md) §9bis. Los prompts vivos de ese rango son los de la galería, no estos.*
+
+*Previo: 26/07/2026 — **📱 LV-App 2.0 por Andamiaje Incremental:** serie `prompt_app_ai_studio_20_p1…p8` (+ `20.1`, `20.4`, y el parche `20_p1.1_saneamiento`) con `plan_trabajo_lv_app_2_0.md` como plan maestro. **P1 hecho** (commit `250beb6` en `farid77cl/LV-app-2` — repo nuevo; el `LV-App` viejo quedó en la era v4.12, archivada en `_legacy_lv_app_v4x/`). Previo 03/06: `scripts/rrss/` ampliado con `publicar_bluesky.py` (atproto), `publicar_reddit.py` (PRAW), `metricas_bluesky.py` y `caption_factory.py`.*
 
 ---
 
@@ -10,6 +12,7 @@ Directorio de scripts de automatización y prompts de sistema de La Voûte d'Ana
 
 ```
 99_Sistema/
+├── archivo_batches_prompts/  # Batches de prompts archivados (fuera del filtro de LV-App)
 ├── scripts/
 │   ├── _legacy/          # Migraciones one-off ya ejecutadas (archivo de solo lectura)
 │   ├── bat/              # Scripts batch de Windows

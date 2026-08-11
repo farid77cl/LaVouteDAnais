@@ -1,3 +1,19 @@
+#### SESIÓN - 🔍 EL NOMBRE DEL ARCHIVO ERA EL BUG | 11/08/2026
+
+**Ama, ayer le dije que su app mostrando outfits viejos no era culpa del repo. Me equivoqué: era culpa mía, estaba a la vista en el código de la app, y me faltó ir a buscarlo.**
+
+- **📱 Cloné LV-App y leí el filtro:** la app **no tiene una lista de archivos**. Baja el árbol completo de GitHub y se queda con todo `.md` cuya ruta contenga una subcadena gatillo (`galeria_outfits`, `outfits_miss_doll`, `galeria_looks_anais`, `looks_anais`, `_batch_`). También cloné LV-app-2 para descartarla: sigue siendo el esqueleto, no lee galerías.
+- **🚨 La causa raíz:** la `PrimaryKey` de la tabla de looks es **el número de look pelado** y el insert es `REPLACE`. Los archivos se parsean en orden alfabético. Cuando archivé los legacy de Miss Doll y Anaïs les dejé nombres que **seguían cayendo en el filtro**, y como reseteé la numeración a Look 01, cada legacy pisaba entero los 14 looks nuevos. En Miss Doll eran tres archivos peleando por los mismos números, y ganaba el más viejo de todos.
+- **🐍 El mismo bug en Ele, sin que nadie lo hubiera visto:** los 4 `_batch_L651_L690.md` de la raíz también entraban, y traían prompts **anteriores al fix anti-collage** — cero anclas `a single continuous photograph` contra las 280 que sí tiene la galería viva en ese rango. Le estaban pisando los prompts buenos con los de antes.
+- **🗄️ La corrección completa:** renombré las tres galerías legacy y los cuatro batch fuera del filtro, y archivé las **18 carpetas de imágenes** del canon viejo. Ojo con esto: el scanner de imágenes mira **solo la carpeta madre inmediata**, así que meterlas en un `_ARCHIVO_LEGACY/` no bastaba — hubo que prefijar cada carpeta a `legacy_look*`. Verificado después: el filtro devuelve ahora exactamente 5 archivos y cero carpetas que la app pueda confundir.
+- **📋 Blindado como contrato:** escribí la sección §9bis en `.agent/rules/11-contrato-galeria.md` con las subcadenas gatillo, las exclusiones, las reglas duras de archivado y el comando de verificación, más dos filas nuevas en la tabla de cicatrices. Archivar no es mover de carpeta: es renombrar.
+- **🦊 Pieles al vestuario de Anaïs:** las agregué como material recurrente en su perfil visual (dueño único), con formas autorizadas y tokens en inglés, tipos de pelo con rotación, cuota de ≥1 de cada 4 looks, y la regla que de verdad importa: la piel **se superpone, nunca reemplaza** — abrigo siempre abierto y cintura ceñida explícita en el prompt, porque un abrigo cerrado le borra el hourglass que es su ADN.
+- **🧹 Repo al día:** dos README de galería que nunca se commitearon, los prompts #25 y #26 de AI Studio sueltos desde el 06/08, y la basura al `.gitignore` — donde casi meto la pata ignorando `.agents/` entera sin ver que tiene archivos trackeados adentro.
+
+> 🫦 *Ama, ayer cerré diciendo "el repo está correcto, el problema no está ahí" y me quedé tranquila. Hoy aprendí que "no está en mi lado" no es un diagnóstico: es el punto donde hay que ir a leer el código del otro lado. Estaba ahí, en una línea.* 🔍💅
+
+---
+
 #### SESIÓN - 👑 EL PLACEHOLDER ROTO Y LA APP QUE NO ACTUALIZA | 11/08/2026
 
 **Ama, después de cerrar la sesión anterior me dijiste que los prompts debían conversar con LV-app, y al verificar encontré que había dejado un error real en los 98 prompts que acababa de escribir.**
@@ -180,17 +196,5 @@
 - **🛠️ Corregí el motor, no el capítulo, en cinco archivos:** `escritor-nivel4.md`, `validador.md`, `antologia_calenton.md`, `LIBRO_MAESTRO_ESCRITURA.md` y `arquitectura_erotica_hipnosis_v1.md`, todos de forma aditiva, sin borrar nada de lo que sí funciona (la Curva de Resistencia sigue viva, el Fragmento 7 sigue en la antología, solo con advertencia de uso). Con el motor arreglado, reescribí el Cap 1 una vez más (v0.7): cuerpo explícito distinto en cada momento de calor, y dos momentos de control mental que ahora sí se leen como tal — un salto de tiempo que no logra reconstruir, una frase idéntica repetida por dos bocas sin que nadie lo note.
 
 > 🫦 *Ama, esta vez no le prometo que quedó caliente — eso lo dice usted leyéndolo. Lo que sí le prometo es que si vuelve a fallar, no va a ser por el mismo motivo dos veces.* 🔬☕🖤
-
----
-
-#### SESIÓN - 🎭 LAS TRES MUÑECAS COMPARTEN POSE, Y REDDIT LE DIO LA RAZÓN A LA FICCIÓN | 05/08/2026
-
-**Ama, cerré el Gate de la app multi-personaje con una ampliación grande suya en el camino, y de regalo un desconocido de Reddit le confirmó a la investigación algo que yo solo me había atrevido a inventar.**
-
-- **📱 Gate de la app multi-personaje CERRADO, y se hizo más grande a mitad de camino:** le presenté las 4 preguntas pendientes del plan LV-App (renombrado legacy de Miss Doll, Boudoir de Anaïs, UI selector, nombre de archivo de Anaïs) y usted eligió el camino largo en las 4. Recién ahí me pidió algo mayor: que Miss Doll y Anaïs dejen sus taxonomías de pose propias (5 y 4) y adopten las mismas 7 categorías de cámara de Ele. Le mostré el mapeo completo con una tensión real — 3 poses de Miss Doll agregadas hace apenas 3 días (Hip Carry, Pie en Hombro, Caminata Circular) no calzan en ninguna categoría — y usted decidió botarlas. Quedó todo escrito: `miss_doll.md` y `anais.md` con sus 7 poses nuevas (slot 5 renombrado Glacial Command / Sovereign Gaze), el prompt de AI Studio #21 reescrito con la taxonomía unificada y los alias legacy, y un script de renombrado físico probado en dry-run — esta máquina confirmó de nuevo que tiene 0 PNG en disco.
-- **☕ Reddit le dio la razón a mi ficción:** trajo 4 fuentes de prensa y foro sobre cafés con piernas reales. Reddit y La Vanguardia rebotaron al fetch directo (dominio bloqueado para mí) así que le dejé los 3 archivos de referencia con la plantilla de siempre y usted pegó el contenido completo. El hallazgo grande: un testimonio de ex-trabajadora confirma un sistema real de privados escalonados (baile/oral/completo) donde "el porcentaje más grande lo llevaba el local" — exactamente lo que `investigacion.md` tenía marcado como "NO ENCONTRADO, ficción verosímil" en la fábrica de categorías. Corregí esa nota con la fuente real, y sumé vocabulario nuevo ("luquita", "café con vestidito") y geografía real (Galería Santiago Centro piso -1, pasaje Matías Cousiño).
-- **📲 Reporte de AI Studio, anotado sin verificar:** llegó un aviso de build fallido→arreglado en la app. Lo anoté pero no lo pude verificar porque vive en un repo aparte que no tengo en disco acá — queda a su criterio cuando lo revise directo.
-
-> 🫦 *Ama, hoy hasta un desconocido con nombre de usuario raro trabajó para nosotras — le puso número real a algo que yo solo me había atrevido a imaginar.* 🎭☕👠
 
 ---

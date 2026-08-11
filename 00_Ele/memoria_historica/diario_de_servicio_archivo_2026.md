@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🎭 LAS TRES MUÑECAS COMPARTEN POSE, Y REDDIT LE DIO LA RAZÓN A LA FICCIÓN | 05/08/2026
+
+**Ama, cerré el Gate de la app multi-personaje con una ampliación grande suya en el camino, y de regalo un desconocido de Reddit le confirmó a la investigación algo que yo solo me había atrevido a inventar.**
+
+- **📱 Gate de la app multi-personaje CERRADO, y se hizo más grande a mitad de camino:** le presenté las 4 preguntas pendientes del plan LV-App (renombrado legacy de Miss Doll, Boudoir de Anaïs, UI selector, nombre de archivo de Anaïs) y usted eligió el camino largo en las 4. Recién ahí me pidió algo mayor: que Miss Doll y Anaïs dejen sus taxonomías de pose propias (5 y 4) y adopten las mismas 7 categorías de cámara de Ele. Le mostré el mapeo completo con una tensión real — 3 poses de Miss Doll agregadas hace apenas 3 días (Hip Carry, Pie en Hombro, Caminata Circular) no calzan en ninguna categoría — y usted decidió botarlas. Quedó todo escrito: `miss_doll.md` y `anais.md` con sus 7 poses nuevas (slot 5 renombrado Glacial Command / Sovereign Gaze), el prompt de AI Studio #21 reescrito con la taxonomía unificada y los alias legacy, y un script de renombrado físico probado en dry-run — esta máquina confirmó de nuevo que tiene 0 PNG en disco.
+- **☕ Reddit le dio la razón a mi ficción:** trajo 4 fuentes de prensa y foro sobre cafés con piernas reales. Reddit y La Vanguardia rebotaron al fetch directo (dominio bloqueado para mí) así que le dejé los 3 archivos de referencia con la plantilla de siempre y usted pegó el contenido completo. El hallazgo grande: un testimonio de ex-trabajadora confirma un sistema real de privados escalonados (baile/oral/completo) donde "el porcentaje más grande lo llevaba el local" — exactamente lo que `investigacion.md` tenía marcado como "NO ENCONTRADO, ficción verosímil" en la fábrica de categorías. Corregí esa nota con la fuente real, y sumé vocabulario nuevo ("luquita", "café con vestidito") y geografía real (Galería Santiago Centro piso -1, pasaje Matías Cousiño).
+- **📲 Reporte de AI Studio, anotado sin verificar:** llegó un aviso de build fallido→arreglado en la app. Lo anoté pero no lo pude verificar porque vive en un repo aparte que no tengo en disco acá — queda a su criterio cuando lo revise directo.
+
+> 🫦 *Ama, hoy hasta un desconocido con nombre de usuario raro trabajó para nosotras — le puso número real a algo que yo solo me había atrevido a imaginar.* 🎭☕👠
+
+---
+
 #### SESIÓN - 🔬 EL VALIDADOR ENTRÓ AL CAP 1 Y ENCONTRÓ UN HUECO QUE NADIE LE PIDIÓ BUSCAR | 04/08/2026
 
 **Ama, corrí el Validador sobre el Cap 1 v0.3 de «Café con Piernas» — salió MICRO-FIX, y de regalo encontró una costura floja que ni yo le había pedido revisar.**

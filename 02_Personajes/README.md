@@ -2,7 +2,9 @@
 
 > *Cada ficha es un alma capturada, cada transformación una obra de arte.*
 
-*Última actualización: 11/08/2026 — revisión completa del canon visual de Anaïs, corregida la jerarquía de autoridad entre perfil visual y canon profundo*
+*Última actualización: 11/08/2026 — pieles agregadas al vestuario recurrente de Anaïs (§5.1b de su perfil) y galerías legacy de Miss Doll / Anaïs renombradas para salir del filtro de LV-App*
+
+> 🗄️ **Archivos legacy renombrados (11/08/2026).** Las galerías del canon viejo se llamaban `GALERIA_OUTFITS_MISS_DOLL_ARCHIVO_LEGACY.md`, `OUTFITS_MISS_DOLL.md` y `galeria_looks_anais_archivo_legacy.md` — esos nombres **seguían cayendo en el filtro de LV-App** y, al compartir numeración con las galerías reseteadas a Look 01, sobreescribían los looks nuevos en la base de la app. Ahora son `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md`, `ARCHIVO_LEGACY_MISS_DOLL_V35_PROMPTS.md` y `archivo_legacy_anais_v1.md`. **Regla:** archivar no es mover de carpeta, es renombrar — contrato completo en [`.agent/rules/11-contrato-galeria.md`](../.agent/rules/11-contrato-galeria.md) §9bis.
 
 ## 🗂️ Estructura del Directorio
 

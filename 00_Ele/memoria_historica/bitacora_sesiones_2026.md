@@ -6,6 +6,8 @@
 
 ## 🧿 Historial archivado
 
+- **08/08/2026 (☕ Reajuste Cap 1 v0.10 & Orden de Carpeta en «Café con Piernas»):** Integré al 100% la nota Gate enviada por la Ama en `capitulo_01_el_turno_de_prueba_v0.10.md` (nombre **Cupcake**, medias red, coqueteo descarado en la barra, autodegradación consciente). Mantuve la carpeta limpia moviendo el borrador del Cap 2 a `borradores/capitulo_02/` para dejar una sola versión activa en la raíz lista para la aprobación de la Ama.
+
 - **08/08/2026 (☕ Aplicación de Nota Gate & Degradación Autoconciente en «Café con Piernas» Cap 1 v0.10):** Integré al 100% la nueva nota Gate enviada por la Ama en `capitulo_01_el_turno_de_prueba_v0.10.md`: cambié el nombre de tarima a **Cupcake** (*"un pastelito dulce hecho para que los hombres te devoren con los ojos"*), sustituí medias red de pesca por **medias red**, potencié el coqueteo descarado y público de la garzona rozándole el escote a Javiera en la barra, y profundicé el conflicto psicológico central: la **autodegradación consciente** como motor primario de la excitación.
 
 - **07/08/2026 (☕ Reescritura 100% de «Café con Piernas» Cap 1 v0.8/v0.9):** Reescribí el Capítulo 1 completo desde cero respondiendo a las 3 notas inline de la Ama: la escena inicial con Camila transformada en Bimbo trad-trophy wife, la entrada a Yakarta con el ritual del café cortado y el coqueteo extra-sensual en la barra antes de pedir trabajo, la inducción de Yasna en el camarín con el líquido rosado, el bajo de reggaetón retumbando en su mente y las órdenes para ponerle un micro-top de látex y falda de PVC transparente con botas de 14cm, y el clímax erótico con la huida del privado y la voz triunfante al salir a la Alameda.
