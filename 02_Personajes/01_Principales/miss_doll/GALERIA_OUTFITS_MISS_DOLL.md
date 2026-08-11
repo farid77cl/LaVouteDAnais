@@ -14,14 +14,14 @@
 | Arquetipo | Meta | Registrados |
 |-----------|------|-------------|
 | Club / Escenario | 20% | 1 |
-| Calabozo / Dungeon | 15% | 0 |
+| Calabozo / Dungeon | 15% | 1 |
 | VIP / Privado | 15% | 0 |
 | Gym / Athletic | 15% | 0 |
 | 🎀 Girly Girl | 15% | 1 |
 | Penthouse / Off-duty | 10% | 0 |
 | Editorial / Portada | 10% | 0 |
 
-**Paso 0 (Look 01):** galería vacía, sin looks previos que bloqueen silueta/setting/monoblock. **Paso 1 (Look 01):** todos los arquetipos en déficit 0/7 → desempate por prioridad del perfil → **Club/Escenario**. **Paso 1 (Look 02):** Girly Girl asignado por instrucción viva de la Ama (manda sobre el déficit), arquetipo nuevo agregado el mismo día.
+**Paso 0 (Look 01):** galería vacía, sin looks previos que bloqueen silueta/setting/monoblock. **Paso 1 (Look 01):** todos los arquetipos en déficit 0/7 → desempate por prioridad del perfil → **Club/Escenario**. **Paso 1 (Look 02):** Girly Girl asignado por instrucción viva de la Ama (manda sobre el déficit), arquetipo nuevo agregado el mismo día. **Paso 1 (Look 03):** déficit puro entre los 0/6 restantes → prioridad → **Calabozo/Dungeon**. ⚠️ Cuota rosa (§8) queda vencida tras este look — Look 04 debe reforzarla.
 
 ---
 
@@ -142,6 +142,68 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 ### 7. Odalisque — Throne en Suelo con Crop *(mantiene el crop, sin sustituto infantil)*
 ```text
 [BLOQUE A-GIRLY] + [BLOQUE B], seated low on the plush velvet floor cushions, legs in a wide V, holding a slim rose-gold riding crop across her lap, warm radiant confident smile down at camera, [BLOQUE C setting]
+```
+
+---
+
+## 💅 Look 03: Oxblood Session *(Calabozo / Dungeon)*
+
+**Concepto:** primer look del arquetipo suavizado (§6) — bondage de diseño, hardware fino tipo joyería, mobiliario elegante de sesión en vez de rigging industrial. Corsé SÍ presente aquí (opcional en general, pero encaja de lleno en este arquetipo). Raíz Domme de paleta (§5.2): oxblood + gunmetal.
+
+**BLOQUE A (ADN — copiado textual del perfil §2, NUNCA parafraseado):**
+```text
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features COMMANDING, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (huge oversized doll-like almond-shaped cold pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris with sharp dark limbal ring, (fixed dominant professional gaze zero warmth:1.2), chin elevated 5 degrees, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), intense shimmer smokey eye, (impossibly long mega XXL individual false lashes at outer corners dramatic cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) open giving command, human realistic face DOMINANT expression, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender commanding figure, rigid upright posture, square shoulders pulled back, (impeccably manicured long glossy nails:1.1)
+```
+
+**BLOQUE B (outfit — copiado textual en los 7 prompts, NUNCA parafraseado):**
+```text
+wearing a (deep oxblood high-gloss latex overbust corset:1.2) with fine visible boning structure and a delicate black satin-look lace-up front, (fine black fashion-bondage straps with small refined gunmetal buckles crossing over the shoulders and upper back, jewelry-like refined hardware, NOT industrial rigging:1.2), a matching black high-gloss vinyl high-cut thong, ultra-sheer black stockings with a garter clipped directly to the corset boning, (towering 8-inch black patent vinyl thigh-high platform stiletto boots, gunmetal buckle strap detail, razor-thin metal needle heel:1.3), a fine gunmetal chain choker with a small pendant, a slim black leather riding crop held in one hand, (long stiletto-shaped nails in glossy oxblood gloss:1.1)
+```
+- Campos §5.5: corsé presente (oxblood latex, centro del look) · prenda principal (corsé + thong) · hardware (correas finas gunmetal) · medias (sheer negras) · calzado con plataforma (5 atributos) · accesorios (choker + crop) · rosa firma → **cumplida vía cuota separada, ver nota abajo** · uñas (stiletto oxblood gloss).
+
+> ⚠️ **Nota de firma rosa:** este look NO lleva rosa — es 100% raíz Domme (oxblood/gunmetal) a propósito, coherente con el arquetipo. La cuota de §8 es "todos los looks", así que **Look 04 debe traer rosa reforzado** para no dejar la cuota vencida más de un look seguido.
+
+**Setting (BLOQUE C base):** elegant dark dungeon session room, a black leather bench and a sculptural chrome bondage frame styled as refined furniture (not industrial rigging), deep oxblood and gunmetal ambient lighting, dramatic single-source side lighting, cinematic 35mm, photorealistic 8k, high-fashion editorial composition.
+
+**Negative (base del perfil §3, sin excepciones):**
+```text
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest
+```
+> Este look SÍ lleva corsé — se saca `corset, waist cincher, bustier` del negative base.
+
+### 1. Standing — Cruel Contrapposto
+```text
+[BLOQUE A] + [BLOQUE B], full body standing shot, cruel aggressive contrapposto stance, weight shifted hard onto one hip, crop resting against her thigh, cold predatory gaze locked on camera, [BLOQUE C setting]
+```
+
+### 2. Back View — Espalda Total
+```text
+[BLOQUE A] + [BLOQUE B], full body back view shot, back fully turned to camera, corset lacing and boning fully visible, looking back over one shoulder with a cold detached glance, [BLOQUE C setting]
+```
+
+### 3. Seated — Monarch Throne
+```text
+[BLOQUE A] + [BLOQUE B], seated on the black leather bench, legs at 60-90 degrees, crop resting across her knees, chin tilted, regal untouchable posture, [BLOQUE C setting]
+```
+
+### 4. Side Profile — Tres Cuartos Arrogante
+```text
+[BLOQUE A] + [BLOQUE B], three-quarter turn toward camera, weight on one hip, cold arrogant profile gaze, corset silhouette sharp against the low side light, [BLOQUE C setting]
+```
+
+### 5. Glacial Command — Close Up Fría
+```text
+[BLOQUE A] + [BLOQUE B, visible from the chest up], medium close-up shot, direct cold commanding stare into camera, zero warmth, lips slightly parted giving an order, [BLOQUE C setting, shallow depth of field]
+```
+
+### 6. POV — Command POV
+```text
+[BLOQUE A] + [BLOQUE B], point of view shot from a kneeling submissive looking up at her, crop tilting the viewer's chin up into frame, her cold gaze falling down onto the lens, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
+```
+
+### 7. Odalisque — Throne en Suelo con Crop
+```text
+[BLOQUE A] + [BLOQUE B], seated low on the leather bench's base, legs open in a wide V, elbows resting on her knees, crop held loosely, cold detached stare down at camera, [BLOQUE C setting]
 ```
 
 ---
