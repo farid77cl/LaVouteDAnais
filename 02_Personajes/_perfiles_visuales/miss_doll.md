@@ -139,7 +139,7 @@ El BLOQUE B debe nombrar, sin excepción:
 5. **Calzado con plataforma, sus 5 atributos (§5.3) — esto SÍ es obligatorio siempre.**
 6. Accesorios: cada pieza con su posición.
 7. Dónde aparece el **rosa firma** (§5.2).
-8. **Uñas** (agregado 11/08/2026): forma (stiletto/coffin-ballerina/almond/square), largo y color/acabado — coordinado con la paleta del look. Nunca se omite; la calidad base (largas, impecables, gloss) ya viene en BLOQUE A, esto solo fija la variante del día.
+8. **Uñas** (agregado 11/08/2026): forma (stiletto/coffin-ballerina/almond/square), largo y color/acabado — coordinado con la paleta del look. Nunca se omite; la calidad base (largas, impecables, gloss) ya viene en BLOQUE A, esto solo fija la variante del día. **🔒 Sujeto al mismo Token Bloqueado que el vestuario (Ama 11/08/2026):** la forma/largo/color de uñas se fija UNA vez por look y se copia idéntica en las 7 poses — incluidas Glacial Command y POV, donde las manos quedan más cerca de cámara y es más tentador "afinar" la descripción. Ninguna pose describe las uñas distinto a las otras.
 
 > 🔓 **Corsé derogado como obligatorio (Ama 11/08/2026):** hasta hoy el corsé era "centro del look, ningún outfit de Miss Doll carece de él" (§8, §9 viejos). Con el nuevo abdomen tonificado (§2, rediseño de cuerpo del mismo día) la Ama pidió dejarlo de exhibir sin corsé cuando el look lo pida — el corsé sigue siendo válido y sigue siendo su pieza de firma más reconocible, pero ya no es un campo obligatorio en cada BLOQUE B. **Lo único que sigue siendo 100% inamovible es el calzado con plataforma (§5.3).**
 
