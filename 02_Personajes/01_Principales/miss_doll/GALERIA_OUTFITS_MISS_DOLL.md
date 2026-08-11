@@ -19,7 +19,7 @@
 | Gym / Athletic | 15% | 1 |
 | 🎀 Girly Girl | 15% | 1 |
 | Penthouse / Off-duty | 10% | 1 |
-| Editorial / Portada | 10% | 0 |
+| Editorial / Portada | 10% | 1 |
 
 **Paso 0 (Look 01):** galería vacía, sin looks previos que bloqueen silueta/setting/monoblock. **Paso 1 (Look 01):** todos los arquetipos en déficit 0/7 → desempate por prioridad del perfil → **Club/Escenario**. **Paso 1 (Look 02):** Girly Girl asignado por instrucción viva de la Ama (manda sobre el déficit), arquetipo nuevo agregado el mismo día. **Paso 1 (Look 03):** déficit puro entre los 0/6 restantes → prioridad → **Calabozo/Dungeon**. ⚠️ Cuota rosa (§8) quedó vencida tras ese look. **Paso 1 (Look 04):** déficit → **VIP/Privado**, rosa reforzado (dusty rose dominante) para saldar la cuota vencida.
 
@@ -383,6 +383,65 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 ### 7. Odalisque — Throne en Suelo con Crop
 ```text
 [BLOQUE A] + [BLOQUE B], reclining low across a plush white rug, legs extended in a long elegant line, the robe pooling around her, cold smirking gaze down at camera, [BLOQUE C setting]
+```
+
+---
+
+## 💅 Look 07: Vogue Sovereign *(Editorial / Portada)*
+
+**Concepto:** cierra el roster inicial de los 7 arquetipos. Sesión de foto pura, fondo controlado, sin narrativa de escenario — la prenda y la actitud son el contenido. Rosa firma reforzado (Look 06 no lo llevó). Silueta arquitectónica con estructura de corsé integrada al vestido (no es pieza separada).
+
+**BLOQUE A (ADN — copiado textual del perfil §2, NUNCA parafraseado):**
+```text
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features COMMANDING, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned nose:1.2), (huge oversized round almond-shaped cold pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris with sharp dark limbal ring, (fixed dominant professional gaze zero warmth, slow appraising once-over gaze sweeping head to toe with cold superiority:1.3), chin elevated 5 degrees, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), graphic black-chrome smokey eye, (impossibly long mega XXL individual false lashes at outer corners dramatic cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet blood-orange-red lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) curved into a (subtle smug smirk, one corner of the mouth raised:1.2), human realistic face DOMINANT smirking expression, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender commanding figure, rigid upright posture, square shoulders pulled back, (impeccably manicured long glossy nails:1.1)
+```
+
+**BLOQUE B (outfit — copiado textual en los 7 prompts, NUNCA parafraseado):**
+```text
+wearing a (sculptural hot pink high-gloss vinyl structured gown:1.2) with an architectural asymmetric one-shoulder silhouette, a corseted bodice with visible boning built directly into the gown's structure (not a separate corset piece), a dramatic thigh-high slit, a long fluid vinyl train pooling at her feet, (towering 8-inch hot pink patent vinyl platform stiletto heels with a sculptural ankle strap, razor-thin metal needle heel:1.3), a single oversized chrome cuff bracelet, no other jewelry, (long stiletto-shaped nails in glossy hot pink chrome:1.1)
+```
+- Campos §5.5: corsé → estructural integrado al vestido, no pieza aparte (negative base sin excepción, no hay "corset" como prenda separada) · prenda principal (vestido escultórico rosa) · hardware (cuff cromado) · medias → no aplica (vestido largo) · calzado con plataforma (5 atributos) · accesorios (cuff único, minimalismo deliberado) · rosa firma (vestido dominante, reforzado tras Look 06) · uñas (stiletto hot pink chrome) · maquillaje de color (sombra negro-chrome gráfica, labios rojo-naranja sangre).
+
+**Setting (BLOQUE C base):** pure white seamless studio backdrop, dramatic single hard-light editorial lighting with sharp defined shadow, high-fashion magazine cover composition, sharp focus, photorealistic 8k, Vogue cover energy.
+
+**Negative (base del perfil §3, sin excepciones — corsé es estructural del vestido, no aplica el `no corset`):**
+```text
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
+```
+
+### 1. Standing — Cruel Contrapposto
+```text
+[BLOQUE A] + [BLOQUE B], full body standing shot, sharp architectural contrapposto, weight shifted onto one hip, chin lifted, smirk and a slow appraising gaze directly at camera, [BLOQUE C setting]
+```
+
+### 2. Back View — Espalda Total
+```text
+[BLOQUE A] + [BLOQUE B], full body back view shot, the gown's train fanned out behind her, looking back over one shoulder with a cold appraising glance, [BLOQUE C setting]
+```
+
+### 3. Seated — Monarch Throne
+```text
+[BLOQUE A] + [BLOQUE B], seated on a minimalist white studio block, legs at 60-90 degrees, the train pooling around her, smirking directly at camera, [BLOQUE C setting]
+```
+
+### 4. Side Profile — Tres Cuartos Arrogante
+```text
+[BLOQUE A] + [BLOQUE B], three-quarter turn toward camera, weight on one hip, the slit revealing one leg, smirking profile gaze, [BLOQUE C setting]
+```
+
+### 5. Glacial Command — Close Up Fría
+```text
+[BLOQUE A] + [BLOQUE B, visible from the chest up], medium close-up shot, direct smirking gaze into camera, magazine cover intensity, [BLOQUE C setting, shallow depth of field]
+```
+
+### 6. POV — Command POV
+```text
+[BLOQUE A] + [BLOQUE B], point of view shot from a photographer kneeling below her, her cold smirking gaze sweeping down onto the lens, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
+```
+
+### 7. Odalisque — Throne en Suelo con Crop
+```text
+[BLOQUE A] + [BLOQUE B], seated low on the studio floor, the gown's train arranged in a sculptural spiral around her, one hand grazing the slit, smirking down at camera, [BLOQUE C setting]
 ```
 
 ---
