@@ -135,7 +135,7 @@ El BLOQUE B debe nombrar, sin excepción:
 1. **Corsé — OPCIONAL, no obligatorio** (derogado 11/08/2026, ver nota abajo). Cuando aparece, sigue siendo el centro del look; cuando no, el abdomen tonificado queda al descubierto como el foco.
 2. Prenda principal: material exacto, color exacto, corte, acabado (gloss/matte), fit.
 3. Hardware: chrome, anillas, hebillas, webbing — tipo y posición en el cuerpo.
-4. Medias/hosiery si aplica: denier, tipo, color.
+4. Medias/hosiery **si aplica** — y con frecuencia NO debe aplicar (corrección 11/08/2026: 5 de los primeros 7 looks llevaron medias, la Ama lo notó como repetitivo). **Ventana anti-repetición nueva:** no más de 2 looks consecutivos con medias; alternar con piernas desnudas, fishnet, o tratamiento distinto (leggings, botas altas que cubren la pierna). Cuando sí aplica: denier, tipo, color.
 5. **Calzado con plataforma, sus 5 atributos (§5.3) — esto SÍ es obligatorio siempre.**
 6. Accesorios: cada pieza con su posición.
 7. Dónde aparece el **rosa firma** (§5.2).
