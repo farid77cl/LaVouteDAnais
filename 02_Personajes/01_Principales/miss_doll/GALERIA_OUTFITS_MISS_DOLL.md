@@ -84,62 +84,64 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 ---
 
-## 💅 Look 02: Sweetheart Dollhouse *(🎀 Girly Girl)*
+## 💅 Look 02: Pink Champagne Sovereign *(🎀 Girly Girl — v2, corregido 11/08)*
 
 **Concepto:** el arquetipo pedido directo por la Ama (11/08) — no por déficit, por instrucción viva, que manda sobre el orden de prioridad. Único look del roster con la **excepción de expresión** autorizada en §2: rostro cálido y sonriente en vez de la Face of the Pole. El resto del ADN (forma de cara, ojos, cejas, labios, cuerpo) no cambia.
 
+> 🔴 **v1 REPUDIADO el mismo día:** la primera versión de este look usaba peluches, dollhouse y un tono "playful giggly" que la Ama marcó como infantilización, no hiperfeminidad — corrección de fondo, no de gusto. Ver prohibición dura en §5.4 y nota en §6. Esta v2 es hiperfem **adulta**: glamour de poder, lujo, boudoir de penthouse — nunca cuarto de niña.
+
 **BLOQUE A — variante GIRLY (única excepción de expresión del roster, ver §2; el resto del ADN es idéntico al §2 base):**
 ```text
-hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features SWEET, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (huge oversized doll-like almond-shaped pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris, (warm genuine bright happy gaze, soft joyful sparkle:1.3), chin tilted playfully, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), soft shimmer pink-toned eye, (impossibly long mega XXL individual false lashes at outer corners:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) curved into a (genuine warm bright smile:1.3), human realistic face SWEET joyful expression, pale porcelain white skin, editorial realistic human skin texture subtle visible pores, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender figure, rigid upright posture, square shoulders pulled back
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features RADIANT, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (huge oversized doll-like almond-shaped pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris, (warm radiant confident gaze, sensual delighted sparkle:1.3), chin tilted with confident allure, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), soft shimmer pink-toned eye, (impossibly long mega XXL individual false lashes at outer corners:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) curved into a (warm radiant confident smile:1.3), human realistic face RADIANT glamorous expression, adult woman, mature confident presence, pale porcelain white skin, editorial realistic human skin texture subtle visible pores, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender figure, rigid upright posture, square shoulders pulled back
 ```
-> Cambios vs. BLOQUE A base: `COMMANDING`→`SWEET`, gaze fría→cálida, `DOMINANT expression`→`SWEET joyful expression`, labios "open giving command"→"curved into a genuine warm bright smile", `cold undertone`/`cold porcelain`→se saca la palabra "cold" de piel y expresión (la piel sigue porcelana pálida, solo deja de leerse fría). Postura y cuerpo NO cambian (§2 lo protege).
+> Cambios vs. BLOQUE A base: `COMMANDING`→`RADIANT`, gaze fría→cálida-confiada (no "happy" infantil, "confident/sensual"), `DOMINANT expression`→`RADIANT glamorous expression` + `adult woman, mature confident presence` explícito, labios "open giving command"→"curved into a warm radiant confident smile". Postura y cuerpo NO cambian (§2 lo protege).
 
 **BLOQUE B (outfit — copiado textual en los 7 prompts):**
 ```text
-wearing a (baby pink high-gloss vinyl babydoll mini dress:1.2) with a sweetheart neckline, a large glossy vinyl bow at the center of the bust, tiered ruffle-effect laser-cut vinyl skirt layers, (delicate gold heart-shaped hardware and charms:1.1) at the waistband and choker, a sheer white tulle-look mesh underlayer peeking beneath the ruffled hem, no corset, thigh-high white sheer stockings with a tiny pink bow garter clip, (towering 7-inch baby pink patent vinyl platform Mary Jane stiletto heels with an ankle strap and gold buckle, razor-thin metal needle heel:1.3), a thin gold heart-charm choker, a large pink satin-look vinyl bow hair clip pinned into the platinum bob
+wearing a (structured hot pink high-gloss vinyl mini dress:1.2) with a dramatic sweetheart neckline, an oversized sculptural vinyl bow at the waist as a couture statement piece, a fitted bodice with boning structure visible through the gloss, sheer black ultra-fine mesh panels at the hips, (delicate gold hardware and fine chain drape:1.1) at the neckline, no corset, ultra-sheer black thigh-high stockings with a fine gold garter chain, (towering 7-inch hot pink patent vinyl platform stiletto heels with a gold ankle strap, razor-thin metal needle heel:1.3), a thin gold chain choker, diamond-cut chandelier earrings
 ```
-- Campos §5.5: corsé ausente (opcional) · prenda principal (babydoll vinyl rosa) · hardware (charms dorados corazón) · medias (sheer blancas) · calzado con plataforma (5 atributos) · accesorios (choker + moño de pelo) · rosa firma (vestido dominante — cumple doble, firma + raíz Girly).
+- Campos §5.5: corsé ausente (opcional) · prenda principal (mini vestido vinyl estructurado, moño como pieza de alta costura, no accesorio de pelo infantil) · hardware (cadena de oro fina) · medias (sheer negras) · calzado con plataforma (5 atributos) · accesorios (choker + aros) · rosa firma (vestido dominante).
 
-**Setting (BLOQUE C base):** pastel pink and white bedroom vanity setting, string of warm fairy lights, plush stuffed toys and a soft-focus dollhouse in the background, soft diffused pastel lighting, dreamy cotton-candy color grading, photorealistic 8k, editorial glamour composition.
+**Setting (BLOQUE C base):** luxury pink marble penthouse boudoir, oversized gold-framed vanity mirror, fresh pink roses in a crystal vase, a coupe of pink champagne on the vanity, soft golden-pink ambient lighting, plush pink velvet furniture, high-fashion editorial glamour color grading, photorealistic 8k.
 
-**Negative — EXCEPCIÓN de este look (sacar `warm smile, laughing` del negative base, ver §6):**
+**Negative — EXCEPCIÓN de este look (sacar `warm smile, laughing` del negative base, ver §6) + refuerzo anti-infantilización:**
 ```text
-bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, cold expression, dead stare, dissociated expression
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, cold expression, dead stare, dissociated expression, stuffed animals, plush toys, dollhouse, nursery, childlike, juvenile, kawaii, baby voice, giggling child
 ```
 
-### 1. Standing — Cruel Contrapposto *(suavizada a "Playful Pose" para este look)*
+### 1. Standing — Cruel Contrapposto *(recalibrada a "Confident Glamour Pose")*
 ```text
-[BLOQUE A-GIRLY] + [BLOQUE B], full body standing shot, playful soft contrapposto, weight shifted lightly onto one hip, head tilted, bright happy smile directly at camera, [BLOQUE C setting]
+[BLOQUE A-GIRLY] + [BLOQUE B], full body standing shot, confident glamorous contrapposto, weight shifted onto one hip, chin tilted with allure, warm radiant smile directly at camera, [BLOQUE C setting]
 ```
 
 ### 2. Back View — Espalda Total
 ```text
-[BLOQUE A-GIRLY] + [BLOQUE B], full body back view shot, looking back over one shoulder with a bright playful giggle, the ruffled skirt caught mid-twirl, [BLOQUE C setting]
+[BLOQUE A-GIRLY] + [BLOQUE B], full body back view shot, looking back over one shoulder with a warm confident glance, the gold chain drape catching the light across the back, [BLOQUE C setting]
 ```
 
-### 3. Seated — Monarch Throne *(suavizada a vanity stool)*
+### 3. Seated — Monarch Throne *(recalibrada a vanity chair)*
 ```text
-[BLOQUE A-GIRLY] + [BLOQUE B], seated on a round pink velvet-look vinyl vanity stool, legs crossed sweetly at the knee, hands clasped in her lap, warm delighted smile, [BLOQUE C setting]
+[BLOQUE A-GIRLY] + [BLOQUE B], seated on a pink velvet-look vinyl vanity chair, legs crossed elegantly at the knee, one hand resting near the champagne coupe, warm confident glamorous smile, [BLOQUE C setting]
 ```
 
-### 4. Side Profile — Tres Cuartos Arrogante *(suavizada)*
+### 4. Side Profile — Tres Cuartos Arrogante *(recalibrada)*
 ```text
-[BLOQUE A-GIRLY] + [BLOQUE B], three-quarter turn toward camera, playful bright profile smile, one hand touching the bow hair clip, [BLOQUE C setting]
+[BLOQUE A-GIRLY] + [BLOQUE B], three-quarter turn toward camera, weight on one hip, warm confident profile smile, chin lifted with poise, [BLOQUE C setting]
 ```
 
-### 5. Glacial Command — Close Up Fría *(renombrada en espíritu a "Close Up Dulce" solo en este look)*
+### 5. Glacial Command — Close Up Radiante *(renombrada en espíritu solo en este look)*
 ```text
-[BLOQUE A-GIRLY] + [BLOQUE B, visible from the chest up], medium close-up shot, warm bright genuine smile directly into camera, joyful sparkle in her eyes, [BLOQUE C setting, shallow depth of field]
+[BLOQUE A-GIRLY] + [BLOQUE B, visible from the chest up], medium close-up shot, warm radiant confident smile directly into camera, sensual delighted sparkle in her eyes, [BLOQUE C setting, shallow depth of field]
 ```
 
-### 6. POV — Command POV *(suavizada)*
+### 6. POV — Command POV *(recalibrada)*
 ```text
-[BLOQUE A-GIRLY] + [BLOQUE B], point of view shot from someone she's looking down warmly at, playful happy gaze falling onto the lens, sweet inviting angle, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
+[BLOQUE A-GIRLY] + [BLOQUE B], point of view shot from someone she's looking down warmly at, confident sensual gaze falling onto the lens, inviting adult allure, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
 ```
 
-### 7. Odalisque — Throne en Suelo con Crop *(sin crop en este look, sustituido por un peluche)*
+### 7. Odalisque — Throne en Suelo con Crop *(mantiene el crop, sin sustituto infantil)*
 ```text
-[BLOQUE A-GIRLY] + [BLOQUE B], seated low on the floor amid plush stuffed toys, legs tucked to one side, hugging a plush toy, bright warm giggling smile down at camera, [BLOQUE C setting]
+[BLOQUE A-GIRLY] + [BLOQUE B], seated low on the plush velvet floor cushions, legs in a wide V, holding a slim rose-gold riding crop across her lap, warm radiant confident smile down at camera, [BLOQUE C setting]
 ```
 
 ---

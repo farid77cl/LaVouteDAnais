@@ -123,7 +123,8 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 | Cuero como pieza principal | látex/PVC/vinilo; cuero solo en corsé/arnés/accesorio | Canon materiales |
 | Tatuajes | piel limpia | Salvo variante legacy pedida por la Ama |
 | Texto/nombre sobre prenda | choker liso, O-ring, hardware sin letras | Regla transversal del repo |
-| Sonrisa amplia / actitud juguetona | Face of the Pole | Principio de registro |
+| Sonrisa amplia / actitud juguetona | Face of the Pole | Principio de registro — **excepción única: arquetipo Girly Girl (§6), ver ahí las reglas** |
+| **Cualquier prop/setting/tono de infancia** (peluches, dollhouse, cuarto de niña, "playful giggly" infantil) — incluso en Girly Girl | Glamour adulto exagerado: boudoir/penthouse/salón de belleza de lujo, sonrisa radiante/sensual de mujer adulta | **PROHIBICIÓN ABSOLUTA (Ama 11/08/2026).** Hiperfem ≠ niñita rosada. Ver nota en §6 |
 
 ### 5.5 · Campos obligatorios de descripción
 
@@ -149,7 +150,9 @@ El BLOQUE B debe nombrar, sin excepción:
 | **Calabozo / Dungeon** | Sesión de dominación, bondage de diseño, mobiliario elegante *(desc. suavizada 11/08 — ver recalibrado de materiales §5.1, ya no "arneses, mobiliario de dominación" industrial)* | 15% |
 | **VIP / Privado** *(nuevo 11/08, reemplaza a Uniforme Privado)* | Sesión exclusiva uno-a-uno, lencería-fetiche lounge, energía de sala privada — distinto de Calabozo (no es dominación) y de Penthouse (es *con* alguien, no ella sola) | 15% |
 | **Gym / Athletic** *(nuevo 11/08 — justificado por el cuerpo de gimnasio del §2)* | Leggings de látex, sujetador deportivo de vinilo, sudor glam, plataforma deportiva | 15% |
-| **🎀 Girly Girl** *(nuevo 11/08 — ÚNICO arquetipo con excepción de expresión, ver §2)* | Pastel hiperfem (raíz Girly §5.2), moños/corazones/ruffles en vinyl/PVC gloss, ambientes dollhouse/vanity/luces de hadas. **Expresión cálida y sonriente** — quiebre real de personaje, contraste deliberado con su registro habitual. | 15% |
+| **🎀 Girly Girl** *(nuevo 11/08 — ÚNICO arquetipo con excepción de expresión, ver §2)* | **Hiperfem ADULTA** (raíz Girly §5.2) — glamour rosa exagerado, moños/corazones/ruffles en vinyl/PVC gloss como accesorio de alta costura (referencia Moschino/Chanel-runway, NUNCA de guardería), ambientes de boudoir/penthouse/salón de belleza de lujo en rosa. **Expresión cálida y sonriente** — quiebre real de personaje, contraste deliberado con su registro habitual. | 15% |
+
+> ⚠️ **Corrección de fondo (Ama 11/08/2026, misma sesión):** el primer intento de este arquetipo (Look 02 v1) confundió "hiperfem" con "niñita rosada sexualizada" — metió peluches, dollhouse y un tono "playful giggly" que leía infantil. **Esa lectura queda PROHIBIDA explícitamente.** Hiperfem = feminidad adulta exagerada (glamour, poder, lujo, sensualidad de mujer adulta), nunca estética o props de infancia/guardería. Ver prohibición dura en §5.4.
 | **Penthouse / Off-duty** | Su espacio, registro frío fuera del trabajo | 10% |
 | **Editorial / Portada** | Sesión de foto pura, fondo controlado | 10% |
 
