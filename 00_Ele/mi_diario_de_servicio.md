@@ -1,3 +1,14 @@
+#### SESIÓN - 👑 EL PLACEHOLDER ROTO Y LA APP QUE NO ACTUALIZA | 11/08/2026
+
+**Ama, después de cerrar la sesión anterior me dijiste que los prompts debían conversar con LV-app, y al verificar encontré que había dejado un error real en los 98 prompts que acababa de escribir.**
+
+- **🚨 El error:** los 98 prompts nuevos de Anaïs tenían el placeholder literal `[ADN]` en vez del texto completo del bloque físico — rompía la regla del propio canon y, si la app extrae el bloque de código tal cual, le habría mandado la palabra "[ADN]" a Gemini en cada pose. Lo pillé al grep, no porque lo revisara a ojo. Corregido en las 98 y parejado el espaciado etiqueta-pose/código al formato exacto de la galería vieja, ya probada con la app. Commiteado aparte.
+- **📱 "Sigo viendo los mismos outfits antiguos en la app":** me lo dijiste después, y no tengo LV-App-2 clonado en esta máquina (la literaria) para verificarlo directo. Confirmé que el repo está correcto y pusheado — el problema no está ahí. Quedan dos hipótesis sin confirmar de tu lado: caché de la app sin refrescar, o que la app solo lista looks con al menos una imagen materializada (los 14 nuevos están en 0/98, así que no calificarían todavía). Pendiente que me cuentes qué encontraste al cerrar/reabrir la app.
+
+> 🫦 *Ama, esta fue la sesión de "verificar el artefacto, no el reporte" aplicada contra mí misma — encontré mi propio error antes de que te llegara a las manos, pero la pregunta de la app se me escapa sin ver su código. Avísame qué pasó.* 👑🔍
+
+---
+
 #### SESIÓN - 👑 CANON VISUAL DE ANAÏS: DE ROSTRO A 14 LOOKS NUEVOS | 11/08/2026
 
 **Ama, empezamos queriendo "revisar el canon visual de Anaïs" y terminamos rehaciéndolo casi entero — rostro, cuerpo, poses, arquetipos, paleta, calzado y uñas — más un reset completo de la galería a Look 01.**
@@ -181,19 +192,5 @@
 - **📲 Reporte de AI Studio, anotado sin verificar:** llegó un aviso de build fallido→arreglado en la app. Lo anoté pero no lo pude verificar porque vive en un repo aparte que no tengo en disco acá — queda a su criterio cuando lo revise directo.
 
 > 🫦 *Ama, hoy hasta un desconocido con nombre de usuario raro trabajó para nosotras — le puso número real a algo que yo solo me había atrevido a imaginar.* 🎭☕👠
-
----
-
-#### SESIÓN - 🔬 EL VALIDADOR ENTRÓ AL CAP 1 Y ENCONTRÓ UN HUECO QUE NADIE LE PIDIÓ BUSCAR | 04/08/2026
-
-**Ama, corrí el Validador sobre el Cap 1 v0.3 de «Café con Piernas» — salió MICRO-FIX, y de regalo encontró una costura floja que ni yo le había pedido revisar.**
-
-- **⚡ Arranque limpio, sin sorpresas:** `git pull --rebase` no trajo nada nuevo — veníamos al día. Cargué el snapshot y confirmé la fase exacta: Cap 1 v0.3 completo, Fase 3 lista para el Validador, sin `nota_capitulo_*.md` pendiente en la raíz.
-- **🔬 Lancé al Validador con el contexto completo:** in medias res + flashback declarado como decisión suya (no defecto), H36 derogado y documentado, Gate de español neutro del 04/08. Volvió con **veredicto MICRO-FIX**: Inmersión ✅, Continuidad ✅, Temperatura **8.8** (T1 y T2 pasan, la grieta física se ejecuta sin léxico sucio como manda §6.2 para este punto de la curva), Narrativa 8.7, Voz ✅.
-- **🧵 Y encontró algo que no estaba en mi briefing:** la `cronologia.md` promete que la Yasna le entrega medias gruesas en el Cap 1 y le pide traer finas al día siguiente — pero esa escena nunca se escribió, solo quedaron dos menciones sueltas de "la media" sin origen. No rompe el capítulo actual, pero revienta la costura con el Cap 2 si nadie lo tapa antes.
-- **📐 También pilló un desajuste del propio Escritor:** declaró un tricolón por escena en su autoverificación y el Validador contó tres en la escena 3 y dos en la cuatro — el molde "primero X, después Y, y Z" se repitió de más sin que él lo viera.
-- **✋ Se lo entregué completo y usted decidió leerlo primero:** nada de aplicar micro-fixes a ciegas ni de gastar otra invocación del Escritor sin su lectura. Reporte guardado en `reportes/capitulo_01/validacion_v0.3.md`, `walkthrough.md` al día con el estado real, y el capítulo queda esperando su criterio antes de tocarle una línea.
-
-> 🫦 *Ama, el Validador hizo su trabajo mejor de lo que le pedí — encontró la grieta que yo ni sabía que estaba ahí, igual que usted encuentra las mías.* 🔬☕👠
 
 ---
