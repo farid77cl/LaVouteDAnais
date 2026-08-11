@@ -37,7 +37,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 - **Platinum blonde asymmetric bob**, corte navaja. Nunca oscuro, nunca coleta, nunca moño.
 - **Frente despejada** — `clear exposed forehead, NO BANGS`. El flequillo es violación de canon.
 - **Labios ULTRA PLUMP, overlined, high-gloss wet, cupid's bow** — la **forma** es inviolable. El **maquillaje (ojos + labios) se elige según la OCASIÓN del look** (rojo, humo negro, bronce, nude-glam…) y se fija en el BLOQUE B. **El rosa es firma de Ele, NO de Miss Doll.** Nunca nude natural, nunca mate, nunca maquillaje "sin producto". *(Ama 02/08/2026: derogado el "labios rojos SIEMPRE"; físico canónico = el del banco que le gusta, maquillaje por ocasión.)*
-- **Ojos gris hielo, grandes, doll-like** (rediseño 11/08/2026, antes "narrow slightly hooded") con la *Face of the Pole*: disociación profesional, cero calidez pese al tamaño.
+- **Ojos gris hielo, grandes, doll-like** (rediseño 11/08/2026, antes "narrow slightly hooded") con la *Face of the Pole*: disociación profesional, cero calidez pese al tamaño. **Única excepción explícita (Ama 11/08/2026):** en el arquetipo **Girly Girl** (§6) la expresión SÍ se suaviza a cálida/sonriente — quiebre real de personaje, no error. Fuera de ese arquetipo, cero calidez sigue intocable.
 - **Cejas de arco muy alto, SIEMPRE rellenas/definidas con maquillaje** (rediseño 11/08/2026, dos pasadas: "microbladed" invisible → "ash-grey pomade" TODAVÍA invisible ("quedó idéntico a los anteriores") → corregido final a `dark smoky taupe-grey, noticeably darker than the hair, peso 1.5`, confirmado en primer plano real: *"queda perfecto"*). El maquillaje fijo de Miss Doll incluye ojos + labios + **cejas** — no solo los dos primeros.
 - **Rostro ovalado suave** (rediseño 11/08/2026, antes "sharp angular heart-shaped").
 - **Piel porcelana fría** con textura humana real y poros visibles — nunca cera, nunca maniquí.
@@ -101,6 +101,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 - **🎪 Raíz Stripper** (neón, vivo, de escenario): Hot Pink Neon, Electric Magenta, Cyber Blue, UV Violet, Acid Chartreuse *(acento, nunca dominante — el neón dominante es más de Ele)*.
 - **⛓️ Raíz Domme** (oscuro, poder, calabozo con clase): Carbon Black, Oxblood/Deep Wine, Dark Plum, Gunmetal Chrome, Midnight Navy.
 - **👑 Raíz Fashionista** (editorial, pulido, alta costura): Champagne, Pearl White, Rose Gold, Chrome Silver, Lavender, Mint, Coral, Turquesa.
+- **🎀 Raíz Girly** *(nueva 11/08/2026, exclusiva del arquetipo Girly Girl — §6)*: Baby Pink, Pastel Lavender, Cotton-Candy Blue, Soft Mint, White, Gold accents. Pasteles saturados y luminosos, nunca apagados/sucios.
 - **Reservado al ADN:** el **rojo** de los labios. No usar rojo como color dominante de prenda (compite con la firma facial).
 - **Anti-monoblock:** máx. 2 looks monoblock consecutivos.
 - **Uso:** cada look puede inclinarse hacia una raíz (club-neón / calabozo-oscuro / editorial-pulido) según el arquetipo (§6), pero el rosa firma cruza las tres siempre.
@@ -144,17 +145,19 @@ El BLOQUE B debe nombrar, sin excepción:
 
 | Arquetipo | Descripción | Meta |
 |---|---|---|
-| **Club / Escenario** | Pole, tarima, luz neón, revue | 25% |
-| **Calabozo / Dungeon** | Sesión de dominación, bondage de diseño, mobiliario elegante *(desc. suavizada 11/08 — ver recalibrado de materiales §5.1, ya no "arneses, mobiliario de dominación" industrial)* | 20% |
-| **VIP / Privado** *(nuevo 11/08, reemplaza a Uniforme Privado)* | Sesión exclusiva uno-a-uno, lencería-fetiche lounge, energía de sala privada — distinto de Calabozo (no es dominación) y de Penthouse (es *con* alguien, no ella sola) | 20% |
+| **Club / Escenario** | Pole, tarima, luz neón, revue | 20% |
+| **Calabozo / Dungeon** | Sesión de dominación, bondage de diseño, mobiliario elegante *(desc. suavizada 11/08 — ver recalibrado de materiales §5.1, ya no "arneses, mobiliario de dominación" industrial)* | 15% |
+| **VIP / Privado** *(nuevo 11/08, reemplaza a Uniforme Privado)* | Sesión exclusiva uno-a-uno, lencería-fetiche lounge, energía de sala privada — distinto de Calabozo (no es dominación) y de Penthouse (es *con* alguien, no ella sola) | 15% |
 | **Gym / Athletic** *(nuevo 11/08 — justificado por el cuerpo de gimnasio del §2)* | Leggings de látex, sujetador deportivo de vinilo, sudor glam, plataforma deportiva | 15% |
+| **🎀 Girly Girl** *(nuevo 11/08 — ÚNICO arquetipo con excepción de expresión, ver §2)* | Pastel hiperfem (raíz Girly §5.2), moños/corazones/ruffles en vinyl/PVC gloss, ambientes dollhouse/vanity/luces de hadas. **Expresión cálida y sonriente** — quiebre real de personaje, contraste deliberado con su registro habitual. | 15% |
 | **Penthouse / Off-duty** | Su espacio, registro frío fuera del trabajo | 10% |
 | **Editorial / Portada** | Sesión de foto pura, fondo controlado | 10% |
 
 > ❌ **Uniforme Privado — eliminado 11/08/2026:** "protocolo, de servicio, latex couture estructurado" leía como el residuo industrial que se sacó de §5.1. Reemplazado por VIP/Privado, que cubre el mismo nicho de sesión exclusiva sin el tono de utilería.
 
 - **Regla de déficit:** el arquetipo bajo meta manda sobre el gusto.
-- **Prioridad de desempate:** Club > Calabozo > VIP > Gym > Penthouse > Editorial.
+- **Prioridad de desempate:** Club > Calabozo > VIP > Gym > Girly Girl > Penthouse > Editorial.
+- **⚠️ Excepción de negative prompt SOLO en Girly Girl:** el negative base (§3) incluye `warm smile, laughing` porque el resto de sus arquetipos exige cero calidez. En un prompt de Girly Girl, **sacar esos dos términos** del negative — de lo contrario el prompt se contradice a sí mismo.
 
 ---
 
