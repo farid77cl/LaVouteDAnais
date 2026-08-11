@@ -15,13 +15,13 @@
 |-----------|------|-------------|
 | Club / Escenario | 20% | 1 |
 | Calabozo / Dungeon | 15% | 1 |
-| VIP / Privado | 15% | 0 |
+| VIP / Privado | 15% | 1 |
 | Gym / Athletic | 15% | 0 |
 | 🎀 Girly Girl | 15% | 1 |
 | Penthouse / Off-duty | 10% | 0 |
 | Editorial / Portada | 10% | 0 |
 
-**Paso 0 (Look 01):** galería vacía, sin looks previos que bloqueen silueta/setting/monoblock. **Paso 1 (Look 01):** todos los arquetipos en déficit 0/7 → desempate por prioridad del perfil → **Club/Escenario**. **Paso 1 (Look 02):** Girly Girl asignado por instrucción viva de la Ama (manda sobre el déficit), arquetipo nuevo agregado el mismo día. **Paso 1 (Look 03):** déficit puro entre los 0/6 restantes → prioridad → **Calabozo/Dungeon**. ⚠️ Cuota rosa (§8) queda vencida tras este look — Look 04 debe reforzarla.
+**Paso 0 (Look 01):** galería vacía, sin looks previos que bloqueen silueta/setting/monoblock. **Paso 1 (Look 01):** todos los arquetipos en déficit 0/7 → desempate por prioridad del perfil → **Club/Escenario**. **Paso 1 (Look 02):** Girly Girl asignado por instrucción viva de la Ama (manda sobre el déficit), arquetipo nuevo agregado el mismo día. **Paso 1 (Look 03):** déficit puro entre los 0/6 restantes → prioridad → **Calabozo/Dungeon**. ⚠️ Cuota rosa (§8) quedó vencida tras ese look. **Paso 1 (Look 04):** déficit → **VIP/Privado**, rosa reforzado (dusty rose dominante) para saldar la cuota vencida.
 
 ---
 
@@ -204,6 +204,65 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 ### 7. Odalisque — Throne en Suelo con Crop
 ```text
 [BLOQUE A] + [BLOQUE B], seated low on the leather bench's base, legs open in a wide V, elbows resting on her knees, crop held loosely, cold detached stare down at camera, [BLOQUE C setting]
+```
+
+---
+
+## 💅 Look 04: Champagne Room *(VIP / Privado)*
+
+**Concepto:** primer look del arquetipo VIP — lencería-fetiche lounge, energía de sala exclusiva uno-a-uno, más íntimo que Club, sin la dominación explícita de Calabozo. Rosa firma reforzado (dusty rose dominante) porque Look 03 no lo llevó. Sin corsé — bralette suelto, silueta de lounge en vez de armadura.
+
+**BLOQUE A (ADN — copiado textual del perfil §2, NUNCA parafraseado):**
+```text
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features COMMANDING, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (huge oversized doll-like almond-shaped cold pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris with sharp dark limbal ring, (fixed dominant professional gaze zero warmth, slow appraising once-over gaze sweeping head to toe with cold superiority:1.3), chin elevated 5 degrees, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), warm bronze-champagne shimmer smokey eye, (impossibly long mega XXL individual false lashes at outer corners dramatic cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet deep wine-rose lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) curved into a (subtle smug smirk, one corner of the mouth raised:1.2), human realistic face DOMINANT smirking expression, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender commanding figure, rigid upright posture, square shoulders pulled back, (impeccably manicured long glossy nails:1.1)
+```
+
+**BLOQUE B (outfit — copiado textual en los 7 prompts, NUNCA parafraseado):**
+```text
+wearing a (dusty rose high-gloss vinyl laser-cut lace-effect bralette:1.2) with sheer mesh cups, a matching high-cut dusty rose vinyl laser-cut lace-effect garter set with delicate champagne-gold hardware clasps, no corset, a sheer black mesh robe left open and draped off one shoulder, ultra-sheer black stockings with a dusty rose garter clip, (towering 7-inch dusty rose patent vinyl platform stiletto sandals with delicate ankle straps, razor-thin metal needle heel:1.3), a fine champagne-gold chain choker with a small pendant resting in the cleavage, (long stiletto-shaped nails in glossy dusty rose with a fine gold chrome tip:1.1)
+```
+- Campos §5.5: corsé ausente (opcional, silueta de lounge en vez de armadura) · prenda principal (bralette + garter dusty rose laser-cut) · hardware (clasps champagne-gold) · medias (sheer negras) · calzado con plataforma (5 atributos) · accesorios (choker + robe sheer) · rosa firma (dusty rose dominante, reforzado tras Look 03) · uñas (dusty rose gold-tip) · maquillaje de color (sombra bronce-champagne, labios vino-rosa).
+
+**Setting (BLOQUE C base):** dim exclusive VIP lounge room, low warm gold ambient lighting, a velvet chaise longue, sheer curtains softly diffusing light, a bottle of champagne chilling nearby, moody intimate atmosphere, cinematic 35mm, photorealistic 8k, high-fashion editorial composition.
+
+**Negative (base del perfil §3, sin excepción de corsé — este look no lo lleva):**
+```text
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier
+```
+
+### 1. Standing — Cruel Contrapposto
+```text
+[BLOQUE A] + [BLOQUE B], full body standing shot, confident contrapposto stance, weight shifted onto one hip, robe trailing off the shoulder, smirk and a slow appraising gaze at camera, [BLOQUE C setting]
+```
+
+### 2. Back View — Espalda Total
+```text
+[BLOQUE A] + [BLOQUE B], full body back view shot, looking back over one shoulder, the sheer robe sliding down one arm, garter straps visible across the lower back, [BLOQUE C setting]
+```
+
+### 3. Seated — Monarch Throne
+```text
+[BLOQUE A] + [BLOQUE B], seated on the velvet chaise longue, legs at 60-90 degrees, one arm draped along the backrest, smirking directly at camera, [BLOQUE C setting]
+```
+
+### 4. Side Profile — Tres Cuartos Arrogante
+```text
+[BLOQUE A] + [BLOQUE B], three-quarter turn toward camera, weight on one hip, smirking profile gaze, robe catching the warm gold light, [BLOQUE C setting]
+```
+
+### 5. Glacial Command — Close Up Fría
+```text
+[BLOQUE A] + [BLOQUE B, visible from the chest up], medium close-up shot, direct smirking gaze into camera, appraising and unimpressed, [BLOQUE C setting, shallow depth of field]
+```
+
+### 6. POV — Command POV
+```text
+[BLOQUE A] + [BLOQUE B], point of view shot from a client seated across from her, her cold smirking gaze sweeping down onto the lens, low intimate angle, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
+```
+
+### 7. Odalisque — Throne en Suelo con Crop
+```text
+[BLOQUE A] + [BLOQUE B], reclining low across the chaise longue cushions, legs extended in a long elegant line, one hand trailing along her own thigh, smirking down at camera, [BLOQUE C setting]
 ```
 
 ---
