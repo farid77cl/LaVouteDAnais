@@ -84,11 +84,35 @@
 
 ### 5.1 · Universo de materiales
 
-> ✏️ **Ampliado 11/08/2026 (Ama).**
+> ✏️ **Ampliado 11/08/2026 (Ama).** · ✏️ **Pieles agregadas 11/08/2026 (Ama: "el uso de pieles al vestuario recurrente").**
 
-- **Permitidos:** satén pesado, seda charmeuse, terciopelo italiano, látex de grado clínico, encaje francés, nylon con costura, charol, **cuero** (guante fino, cinturón ancho, abrigo — cuero de sastrería/lujo, nunca de motociclista), **látex estándar de alto brillo** (además del de grado clínico, para looks fetish más directos).
+- **Permitidos:** satén pesado, seda charmeuse, terciopelo italiano, látex de grado clínico, encaje francés, nylon con costura, charol, **cuero** (guante fino, cinturón ancho, abrigo — cuero de sastrería/lujo, nunca de motociclista), **látex estándar de alto brillo** (además del de grado clínico, para looks fetish más directos), **🦊 pieles** (ver 5.1b).
 - **Prohibidos:** materiales baratos o deportivos; cualquier cosa que lea "casual" o "joven".
 - **Lente de identidad:** *tejido noble.* Anaïs es aristocracia, no fetiche sintético — la separa de Ele y de Miss Doll. El látex y el cuero se usan con acabado impecable/pulido, nunca de estética industrial o club barato.
+
+### 5.1b · 🦊 Pieles — material recurrente (Ama 11/08/2026)
+
+La piel es **la materialidad que más literalmente dice "aristocracia de los años 40"**: pesa, se hereda, no se compra en una tienda. Entra como **capa recurrente**, no como novedad ocasional.
+
+**Formas autorizadas** (siempre como capa/accesorio sobre el look, nunca como prenda base):
+
+| Forma | Token en inglés | Notas |
+|---|---|---|
+| Estola al hombro | `fur stole draped over one shoulder` | La forma reina — deja la cintura a la vista |
+| Capa corta / capelet | `short fur capelet` | Cae sobre el escote, no lo tapa |
+| Abrigo abierto | `full-length fur coat worn open` | **Siempre abierto**, ver regla de silueta |
+| Cuello y puños | `fur collar and cuffs` | Sobre abrigo de sastrería o kimono |
+| Ribete | `fur-trimmed peignoir / fur-trimmed opera coat` | La entrada natural al arquetipo Boudoir |
+| Manguito | `fur muff` | Vintage puro; **incompatible con el token de uñas** (manos tapadas, ver §5.4) |
+| Manta sobre mueble | `fur throw over the chaise longue` | La piel como parte del escenario, no del cuerpo |
+
+**Tipos:** visón (`mink`), zorro plateado (`silver fox`), zorro ártico (`arctic fox`), marta (`sable`), astracán / cordero persa (`astrakhan`, `Persian lamb`), chinchilla. Rotarlos: no repetir el mismo tipo en dos looks consecutivos con piel.
+
+**🔴 Regla de silueta (la que importa):** la piel **se superpone, nunca reemplaza**. El ADN de Anaïs es el hourglass de tightlacing en postura en S — un abrigo cerrado lo borra y mata el look. Por eso: abrigo **siempre abierto**, estola **caída del hombro o sostenida en el codo**, y en toda pose donde aparezca piel el prompt debe dejar explícita **la cintura ceñida visible bajo la capa**.
+
+**Diferencia con el animal print (§5.2):** el print es un **acabado estampado sobre tejido noble**; la piel es **pelo real, con volumen y peso**. Son dos cosas distintas y **no cuentan como la misma cuota**. Pueden coexistir en un look, pero no en la misma prenda (leopardo estampado + estola de zorro sí; "piel estampada de leopardo" no).
+
+**Prohibido:** piel que lea deportiva o moderna (parka con capucha de pelo, chaleco de peluche, forro polar), piel sintética de aspecto barato, look 100% cubierto de piel (traje entero), y piel en un arquetipo con escenario exterior/natural (§5.4 lo prohíbe igual).
 
 ### 5.2 · Paleta y reglas cromáticas
 
@@ -137,7 +161,8 @@ Describir **en este orden**:
 2. **Prenda secundaria** (si aplica) — misma especificidad.
 3. **Medias** (si el look las lleva) — denier, tipo (back-seam nylon, fishnet, sheer), color, con o sin costura.
 4. **Calzado** — sus 6 atributos (§5.3).
-5. **Accesorios en orden** — guantes (material + largo), joyería (tipo y material: perlas, diamantes negros, pedrería Art Déco), boquilla (sí/no), bolso (Kelly, clutch lacado), complementos de liguero.
+5. **Capa de piel** (si el look la lleva) — forma (estola/capelet/abrigo abierto/cuello y puños/ribete/manguito), tipo de pelo (visón, zorro plateado, marta, astracán, chinchilla), color, **y cómo cae** (hombro, codo, abierta) dejando la cintura ceñida visible. Ver §5.1b.
+6. **Accesorios en orden** — guantes (material + largo), joyería (tipo y material: perlas, diamantes negros, pedrería Art Déco), boquilla (sí/no), bolso (Kelly, clutch lacado), complementos de liguero.
 
 > **Regla de especificidad:** cada ítem tan preciso que dos modelos generarían la misma imagen leyendo solo el bloque. *"tacones altos"* ❌ → *"12cm black patent leather stiletto pump pointed toe iconic red sole"* ✅.
 
@@ -182,6 +207,7 @@ Describir **en este orden**:
 |---|---|---|
 | **Lunar visible** | **todas las imágenes** | Sin excepción |
 | Suela roja visible | siempre que el calzado se vea | Calzado |
+| **🦊 Pieles** *(nueva 11/08/2026)* | **≥ 1 de cada 4 looks nuevos** | Transversal a todos los arquetipos. Chequeo pre-diseño: si los últimos 3 looks no llevaron piel, el que se está diseñando **debe** llevarla. No repetir el mismo tipo (visón/zorro/marta/astracán/chinchilla) en dos apariciones consecutivas. Ver §5.1b |
 
 ---
 
@@ -195,3 +221,5 @@ Describir **en este orden**:
 - Sonrisa amplia, risa o actitud juguetona.
 - Fondo exterior/natural en un arquetipo que no sea Viaje/Jet Set.
 - **Materialidad prestada de Ele o Miss Doll** (vinilo de club, PVC barato, neón): Anaïs es tejido noble. Si el outfit parece de la flota de Ele, está mal.
+- **Piel que borra la cintura** (abrigo cerrado, look enteramente cubierto de pelo) → rompe el hourglass del ADN, regenerar. La piel va **abierta o caída**, con la cintura ceñida explícita en el prompt (§5.1b).
+- **Piel de registro deportivo o moderno** (capucha con pelo, chaleco de peluche, sintética barata) → materialidad prestada, mismo error que el vinilo de club.

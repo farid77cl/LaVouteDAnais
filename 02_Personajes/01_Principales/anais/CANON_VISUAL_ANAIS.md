@@ -76,7 +76,7 @@ Anaïs basa su guardarropa en la opulencia táctil y la restricción elegante, a
 
 **Las 3 Reglas de Oro:**
 1. **La lencería es la base, no un accesorio:** Sin la faja, el corsé o las medias con costura, la silueta no funciona. Un vestido pencil sin la estructura interna adecuada se ve moderno, no vintage.
-2. **Materiales nobles o nada:** Seda pura, satén pesado, látex de grado clínico, encaje francés. El brillo barato del poliéster rompe el universo.
+2. **Materiales nobles o nada:** el brillo barato del poliéster rompe el universo. **DUEÑO ÚNICO DEL LISTADO MOVIDO A `02_Personajes/_perfiles_visuales/anais.md` §5.1 + §5.1b (11/08/2026)** — ahí viven la lista completa (seda, satén pesado, terciopelo italiano, látex clínico y estándar, encaje francés, nylon con costura, charol, cuero) y las **🦊 pieles**, agregadas como material recurrente el 11/08/2026 con su regla de silueta y su cuota. Este archivo apunta, no copia: la lista corta que vivía acá ya se había quedado atrás dos veces.
 3. **Consistencia Histórica (40s, 50s, 60s):** Cada prenda dialoga con una década concreta. Mezclar estilos o épocas destruye la autoridad estética.
 
 ### 1. La Capa Fundacional (Lencería y Corsetería)
