@@ -13,7 +13,7 @@
 
 | Arquetipo | Meta | Registrados |
 |-----------|------|-------------|
-| Club / Escenario | 20% | 1 |
+| Club / Escenario | 20% | 2 |
 | Calabozo / Dungeon | 15% | 1 |
 | VIP / Privado | 15% | 1 |
 | Gym / Athletic | 15% | 1 |
@@ -442,6 +442,67 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 ### 7. Odalisque — Throne en Suelo con Crop
 ```text
 [BLOQUE A] + [BLOQUE B], seated low on the studio floor, the gown's train arranged in a sculptural spiral around her, one hand grazing the slit, smirking down at camera, [BLOQUE C setting]
+```
+
+---
+
+## 💅 Look 08: Electric Violet Reverie *(Club / Escenario — 2ª tanda)*
+
+**Concepto:** segunda vuelta de arquetipos, Look 08/14. Paso 0: contra Look 01 (mismo arquetipo, único previo) — silueta halter+thong ya usada → esta vez catsuit con cutouts; setting club ya usado → mismo club pero ángulo distinto (zona VIP del escenario, no la pista); color hot pink ya dominante → esta vez violeta UV + azul eléctrico (raíz Stripper, sin repetir). Corsé SÍ esta vez (Look 01 no llevaba). Piernas desnudas (Look 01 llevaba medias — ventana de 2 looks aplica dentro del mismo arquetipo también).
+
+**BLOQUE A (ADN — copiado textual del perfil §2, NUNCA parafraseado):**
+```text
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features COMMANDING, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned nose:1.2), (huge oversized round almond-shaped cold pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris with sharp dark limbal ring, (fixed dominant professional gaze zero warmth, slow appraising once-over gaze sweeping head to toe with cold superiority:1.3), chin elevated 5 degrees, (bold precisely filled brow makeup, dark smoky taupe-grey brow color noticeably darker than the platinum hair for maximum contrast, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, thick clearly visible brow shape:1.5), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), electric violet-chrome shimmer smokey eye, (impossibly long mega XXL individual false lashes at outer corners dramatic cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet deep magenta lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) curved into a (subtle smug smirk, one corner of the mouth raised:1.2), human realistic face DOMINANT smirking expression, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender commanding figure, rigid upright posture, square shoulders pulled back, (impeccably manicured long glossy nails:1.1)
+```
+
+**BLOQUE B (outfit — copiado textual en los 7 prompts, NUNCA parafraseado):**
+```text
+wearing a (UV violet high-gloss PVC catsuit with strategic cutouts at the waist and hip:1.2), a (violet high-gloss vinyl underbust corset:1.1) with fine chrome grommets worn over the catsuit as the centerpiece, electric blue high-gloss vinyl piping along every seam, no stockings, bare toned legs visible through the hip cutouts, (towering 8-inch violet patent vinyl platform knee-high boots, chrome buckle strap detail, razor-thin metal needle heel:1.3), a fine chrome choker with a small pendant, (long coffin-shaped nails in glossy electric violet chrome:1.1)
+```
+- Campos §5.5: corsé presente (violet, sobre el catsuit) · prenda principal (catsuit PVC violeta con cutouts) · hardware (piping azul eléctrico + chrome grommets) · medias (ninguna, piernas desnudas vía cutouts) · calzado con plataforma (5 atributos) · accesorios (choker) · rosa firma → **ausente, ver nota** · uñas (coffin violeta chrome) · maquillaje de color (sombra violeta-chrome, labios magenta).
+
+> ⚠️ **Nota de firma rosa:** este look no lleva rosa (violeta/azul eléctrico dominan a propósito, variedad cromática real). Cuota §8 vencida — el próximo look de la tanda debe reforzarla.
+
+**Setting (BLOQUE C base):** VIP platform overlooking the club stage, dark industrial-luxury architecture, violet and electric blue neon washing the scene, cinematic 35mm, sharp metallic reflections, photorealistic 8k.
+
+**Negative (base del perfil §3, sin excepción de corsé — este look SÍ lo lleva):**
+```text
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
+```
+
+### 1. Standing — Cruel Contrapposto
+```text
+[BLOQUE A] + [BLOQUE B], full body standing shot, cruel aggressive contrapposto stance, weight shifted hard onto one hip, smirk and a slow appraising gaze locked on camera, [BLOQUE C setting]
+```
+
+### 2. Back View — Espalda Total
+```text
+[BLOQUE A] + [BLOQUE B], full body back view shot, back fully turned to camera, the corset lacing visible over the catsuit, looking back over one shoulder, [BLOQUE C setting]
+```
+
+### 3. Seated — Monarch Throne
+```text
+[BLOQUE A] + [BLOQUE B], seated on a violet-lit VIP banquette, legs at 60-90 degrees, one hip cutout catching the light, regal untouchable posture, [BLOQUE C setting]
+```
+
+### 4. Side Profile — Tres Cuartos Arrogante
+```text
+[BLOQUE A] + [BLOQUE B], three-quarter turn toward camera, weight on one hip, cold arrogant profile smirk, [BLOQUE C setting]
+```
+
+### 5. Glacial Command — Close Up Fría
+```text
+[BLOQUE A] + [BLOQUE B, visible from the chest up], medium close-up shot, direct smirking gaze into camera, [BLOQUE C setting, shallow depth of field]
+```
+
+### 6. POV — Command POV
+```text
+[BLOQUE A] + [BLOQUE B], point of view shot from below at the VIP railing, her cold smirking gaze falling down onto the lens, no phone, no smartphone, no device, no screen, [BLOQUE C setting]
+```
+
+### 7. Odalisque — Throne en Suelo con Crop
+```text
+[BLOQUE A] + [BLOQUE B], seated low on the VIP platform floor, legs open in a wide V, elbows resting on her knees, cold detached stare down at camera, [BLOQUE C setting]
 ```
 
 ---
