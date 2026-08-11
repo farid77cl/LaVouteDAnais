@@ -23,20 +23,28 @@
 ## §2 · BLOQUE A — ADN Inamovible
 
 ```text
-hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, delicate refined features COMMANDING, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed dominant professional gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), intense shimmer smokey eye, (impossibly long mega XXL individual false lashes at outer corners dramatic cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) open giving command, human realistic face DOMINANT expression, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural EXTREME hourglass silhouette, extra full round chest prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back
+hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamorous woman, (soft rounded oval face:1.1), smooth softly rounded jawline, (soft gently curved full cheekbones:1.1), small refined rounded chin, delicate refined features COMMANDING, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (huge oversized doll-like almond-shaped cold pale steel grey eyes, wide open eye opening:1.4), pale icy grey iris with sharp dark limbal ring, (fixed dominant professional gaze zero warmth:1.2), chin elevated 5 degrees, (bold precisely filled brow makeup, soft ash-grey brow pomade for full visible definition against the pale platinum hair, extremely high dramatic raised arch positioned high on brow bone, sharp clean tapered tail, clearly defined brow shape:1.4), HEAVY GLAMOUR editorial makeup with (thick sharp angular winged eyeliner upticked pointed wing tip:1.2), intense shimmer smokey eye, (impossibly long mega XXL individual false lashes at outer corners dramatic cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (soft gentle contour warm shadow under cheekbone:1.0), (aggressively overlined voluminous ULTRA PLUMP high-gloss wet lips exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3) open giving command, human realistic face DOMINANT expression, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural EXTREME hourglass silhouette, (toned midriff, subtly defined abs with soft natural muscle separation, faint visible obliques:1.2), (slender delicate shoulders, long lean toned arms with soft subtle muscle tone, not bulky, feminine and graceful:1.2), (long lean slender toned legs, soft subtle thigh definition, not muscular, elegant model proportions:1.2), (massive full round chest, obviously artificial enhanced implants, perfectly spherical gravity-defying shape, high improbable profile, unmistakably augmented:1.4), dramatic alluring plunging neckline, deep prominent cleavage, aggressively narrow cinched waist, full wide hips, tall lean slender commanding figure, rigid upright posture, square shoulders pulled back
 ```
 
+> 💪 **Rediseño de cuerpo (Ama 11/08/2026, misma sesión que el rediseño de rostro):** cuerpo con **evidencia de gimnasio diario** — abdomen con definición suave y natural, pero **hombros/brazos/piernas delgados y esbeltos, NUNCA voluminosos** (primer intento salió "muy grueso", corregido a slender/lean/delicate/graceful). **Pecho aumentado a artificial obvio** — `massive, obviously artificial enhanced implants, perfectly spherical gravity-defying shape` — antes solo decía "extra full round chest". Aprobado explícito: *"mucho mejor, deja fijo estos cambios"*.
+
 > ⚠️ El prompt base histórico de la regla 05 mezclaba en un solo bloque el ADN **y** un outfit concreto (bodysuit rosa neón + botas de 8"). Aquí se separan: lo de arriba es **BLOQUE A puro** (cuerpo, cara, pelo, maquillaje, postura). El outfit va en el BLOQUE B de cada look. **Mezclarlos es lo que hace que todos sus looks salgan iguales.**
+>
+> 🔄 **Rediseño de rostro (Ama 11/08/2026):** el rostro cambió de "sharp angular heart-shaped" a **suave y ovalado** — proceso iterativo de 3 pasadas sobre la misma imagen de referencia hasta aprobación explícita ("queda perfecta"). Cambios acumulados: cara ovalada/suave (no angular), pómulos suaves curvos (no razor-sculpted), mentón redondeado, contour suave/cálido (no fuerte/angular), **ojos huge oversized doll-like** (antes narrow/hooded) y **cejas de arco muy alto** (antes sharp cold arch). Lo demás del ADN (bob platinado, labios ultra-plump, piel, cuerpo reloj de arena) no se tocó. Este prompt reemplaza al anterior como base vigente.
 
 **Rasgos que NO se negocian jamás:**
 
 - **Platinum blonde asymmetric bob**, corte navaja. Nunca oscuro, nunca coleta, nunca moño.
 - **Frente despejada** — `clear exposed forehead, NO BANGS`. El flequillo es violación de canon.
 - **Labios ULTRA PLUMP, overlined, high-gloss wet, cupid's bow** — la **forma** es inviolable. El **maquillaje (ojos + labios) se elige según la OCASIÓN del look** (rojo, humo negro, bronce, nude-glam…) y se fija en el BLOQUE B. **El rosa es firma de Ele, NO de Miss Doll.** Nunca nude natural, nunca mate, nunca maquillaje "sin producto". *(Ama 02/08/2026: derogado el "labios rojos SIEMPRE"; físico canónico = el del banco que le gusta, maquillaje por ocasión.)*
-- **Ojos gris hielo** con la *Face of the Pole*: disociación profesional, cero calidez.
+- **Ojos gris hielo, grandes, doll-like** (rediseño 11/08/2026, antes "narrow slightly hooded") con la *Face of the Pole*: disociación profesional, cero calidez pese al tamaño.
+- **Cejas de arco muy alto, SIEMPRE rellenas/definidas con maquillaje** (rediseño 11/08/2026, ajuste el mismo día: "microbladed" quedaba invisible contra el pelo platinado — corregido a `filled brow makeup, ash-grey pomade`). El maquillaje fijo de Miss Doll incluye ojos + labios + **cejas** — no solo los dos primeros.
+- **Rostro ovalado suave** (rediseño 11/08/2026, antes "sharp angular heart-shaped").
 - **Piel porcelana fría** con textura humana real y poros visibles — nunca cera, nunca maniquí.
 - **Sin tatuajes** por defecto (blackwork solo si la Ama pide variante legacy explícita).
 - **Barbilla 5-10° arriba, torso erguido, hombros atrás.** Nunca hombros caídos.
+- **Cuerpo de gimnasio diario** (rediseño 11/08/2026): abdomen con definición suave y visible, pero **hombros/brazos/piernas siempre esbeltos y delgados** — nunca musculatura voluminosa/fisicoculturista.
+- **Pecho artificial obvio, masivo, perfectamente esférico** (rediseño 11/08/2026) — antes solo "extra full round chest", ahora explícitamente `obviously artificial enhanced implants`.
 
 ---
 
@@ -78,25 +86,29 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 ## §5 · BLOQUE B — Reglas de Vestuario
 
-### 5.1 · Universo de materiales
+### 5.1 · Universo de materiales (recalibrado 11/08/2026 — filtro: stripper + domme + fashionista)
 
-- **Permitidos:** látex, PVC, vinilo, neopreno técnico, nylon estructural, chrome hardware, black bondage webbing.
+- **Permitidos:** látex (acabado líquido/wet-look, nunca mate), PVC, vinilo (acabado soft-touch/segunda piel), **nylon sheer/semi-transparente** (no estructural rígido), **mesh semi-transparente**, **fashion bondage** — correas finas, hebillas delicadas, chrome hardware fino tipo joyería (referencia Bordelle/Atsuko Kudo, NUNCA rigging pesado de calabozo).
+- **🔻 Sacado del canon:** neopreno técnico, nylon estructural rígido, black bondage webbing pesado/industrial, hardware tipo ferretería. Todo lo que lea "utilería técnica" en vez de "prenda" queda fuera.
 - **Cuero:** **solo** en corsés, accesorios y arneses — **nunca como pieza principal**.
 - **Prohibidos (absoluto):** tela natural mate, algodón, denim, punto casual.
-- **Lente de identidad:** *"parece uniforme privado real, no disfraz."* Fetiche sintético de alto nivel. Su mundo es el club y el calabozo — si la prenda no funcionaría ahí, no es de Miss Doll.
+- **Lente de identidad (recalibrado 11/08/2026):** las tres capas de su fondo narrativo mandan sobre el material — **stripper** (sensual, se mueve, se muestra), **domme** (control y bondage, pero de diseño — correas finas como joyería, no rigging), **fashionista** (pulido editorial, nunca utilitario). *"Parece uniforme privado real, no disfraz"* sigue vigente, pero ahora leído como **alta costura fetichista**, no industrial. Si la prenda se sentiría cómoda en una ferretería o un taller, no es de Miss Doll; si se sentiría cómoda en una pasarela de Bordelle, sí.
 
-### 5.2 · Paleta y reglas cromáticas
+### 5.2 · Paleta y reglas cromáticas (ampliada 11/08/2026 — agrupada por raíz narrativa)
 
-- **Firma inamovible:** el **rosa** (neon / hot / dusty) **SIEMPRE presente** en algún punto del look. Es su cuota cromática permanente.
-- **Variantes controladas:** negro carbón, chrome, blanco, champagne, coral, mint, turquesa, lavanda, rose gold.
+- **Firma inamovible:** el **rosa** (neon / hot / dusty / magenta — cualquier tono de la raíz Stripper) **SIEMPRE presente** en algún punto del look. Es su cuota cromática permanente.
+- **🎪 Raíz Stripper** (neón, vivo, de escenario): Hot Pink Neon, Electric Magenta, Cyber Blue, UV Violet, Acid Chartreuse *(acento, nunca dominante — el neón dominante es más de Ele)*.
+- **⛓️ Raíz Domme** (oscuro, poder, calabozo con clase): Carbon Black, Oxblood/Deep Wine, Dark Plum, Gunmetal Chrome, Midnight Navy.
+- **👑 Raíz Fashionista** (editorial, pulido, alta costura): Champagne, Pearl White, Rose Gold, Chrome Silver, Lavender, Mint, Coral, Turquesa.
 - **Reservado al ADN:** el **rojo** de los labios. No usar rojo como color dominante de prenda (compite con la firma facial).
 - **Anti-monoblock:** máx. 2 looks monoblock consecutivos.
+- **Uso:** cada look puede inclinarse hacia una raíz (club-neón / calabozo-oscuro / editorial-pulido) según el arquetipo (§6), pero el rosa firma cruza las tres siempre.
 
-### 5.3 · Calzado (canon inamovible)
+### 5.3 · Calzado (canon inamovible — lo único 100% obligatorio del vestuario, 11/08/2026)
 
-- **Regla:** platform stiletto boots / tacones estilo Pleaser.
+- **Regla:** cualquier tipo de calzado sirve — stiletto pump, bota, sandalia — pero **SIEMPRE con plataforma**. `tacones/botas/sandalias siempre con plataforma` (directiva Ama 11/08/2026, tras derogar el corsé obligatorio: esto pasa a ser la única pieza inamovible del BLOQUE B).
 - **Altura mínima:** plataforma 6" o superior (el canon histórico usa 8").
-- **Prohibido:** flats, block heel, **chunky heel**, kitten heel, wedge, descalza.
+- **Prohibido:** flats, block heel, **chunky heel**, kitten heel, wedge, descalza, sandalia/tacón/bota **sin plataforma**.
 - **Atributos obligatorios del token** (nombrar los 5 en cada pose): altura · tipo de plataforma · material/acabado · color · tipo de tacón (`razor-thin metal needle heel`).
 - ⚠️ La palabra `chunky` va **solo en el negative**, jamás en el positive.
 
@@ -115,28 +127,33 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 El BLOQUE B debe nombrar, sin excepción:
 
-1. **Arquitectura de corsé** — visible o integrada. Es el **centro del look**: ningún outfit de Miss Doll carece de ella.
+1. **Corsé — OPCIONAL, no obligatorio** (derogado 11/08/2026, ver nota abajo). Cuando aparece, sigue siendo el centro del look; cuando no, el abdomen tonificado queda al descubierto como el foco.
 2. Prenda principal: material exacto, color exacto, corte, acabado (gloss/matte), fit.
 3. Hardware: chrome, anillas, hebillas, webbing — tipo y posición en el cuerpo.
 4. Medias/hosiery si aplica: denier, tipo, color.
-5. Calzado con sus 5 atributos (§5.3).
+5. **Calzado con plataforma, sus 5 atributos (§5.3) — esto SÍ es obligatorio siempre.**
 6. Accesorios: cada pieza con su posición.
 7. Dónde aparece el **rosa firma** (§5.2).
 
+> 🔓 **Corsé derogado como obligatorio (Ama 11/08/2026):** hasta hoy el corsé era "centro del look, ningún outfit de Miss Doll carece de él" (§8, §9 viejos). Con el nuevo abdomen tonificado (§2, rediseño de cuerpo del mismo día) la Ama pidió dejarlo de exhibir sin corsé cuando el look lo pida — el corsé sigue siendo válido y sigue siendo su pieza de firma más reconocible, pero ya no es un campo obligatorio en cada BLOQUE B. **Lo único que sigue siendo 100% inamovible es el calzado con plataforma (§5.3).**
+
 ---
 
-## §6 · Arquetipos y Metas
+## §6 · Arquetipos y Metas (rediseñado 11/08/2026 — filtro stripper + domme + fashionista + cuerpo de gimnasio)
 
 | Arquetipo | Descripción | Meta |
 |---|---|---|
-| **Club / Escenario** | Pole, tarima, luz neón, revue | 30% |
-| **Calabozo / Dungeon** | Sesión, arneses, mobiliario de dominación | 25% |
-| **Uniforme Privado** | Latex couture estructurado, protocolo, "de servicio" | 20% |
-| **Penthouse / Off-duty** | Su espacio, registro frío fuera del trabajo | 15% |
+| **Club / Escenario** | Pole, tarima, luz neón, revue | 25% |
+| **Calabozo / Dungeon** | Sesión de dominación, bondage de diseño, mobiliario elegante *(desc. suavizada 11/08 — ver recalibrado de materiales §5.1, ya no "arneses, mobiliario de dominación" industrial)* | 20% |
+| **VIP / Privado** *(nuevo 11/08, reemplaza a Uniforme Privado)* | Sesión exclusiva uno-a-uno, lencería-fetiche lounge, energía de sala privada — distinto de Calabozo (no es dominación) y de Penthouse (es *con* alguien, no ella sola) | 20% |
+| **Gym / Athletic** *(nuevo 11/08 — justificado por el cuerpo de gimnasio del §2)* | Leggings de látex, sujetador deportivo de vinilo, sudor glam, plataforma deportiva | 15% |
+| **Penthouse / Off-duty** | Su espacio, registro frío fuera del trabajo | 10% |
 | **Editorial / Portada** | Sesión de foto pura, fondo controlado | 10% |
 
+> ❌ **Uniforme Privado — eliminado 11/08/2026:** "protocolo, de servicio, latex couture estructurado" leía como el residuo industrial que se sacó de §5.1. Reemplazado por VIP/Privado, que cubre el mismo nicho de sesión exclusiva sin el tono de utilería.
+
 - **Regla de déficit:** el arquetipo bajo meta manda sobre el gusto.
-- **Prioridad de desempate:** Club > Calabozo > Uniforme > Penthouse > Editorial.
+- **Prioridad de desempate:** Club > Calabozo > VIP > Gym > Penthouse > Editorial.
 
 ---
 
@@ -157,7 +174,8 @@ El BLOQUE B debe nombrar, sin excepción:
 | Cuota | Frecuencia | Alcance |
 |---|---|---|
 | **Rosa firma presente** | **todos los looks** | Cualquier prenda, calzado o accesorio |
-| Arquitectura de corsé visible | todos los looks | Centro del look |
+| **Calzado con plataforma** | **todos los looks, sin excepción** | La única pieza 100% inamovible del vestuario (11/08/2026) |
+| ~~Arquitectura de corsé visible~~ | ~~todos los looks~~ | **Derogada 11/08/2026 — ahora opcional, ver §5.5** |
 
 ---
 
@@ -165,6 +183,7 @@ El BLOQUE B debe nombrar, sin excepción:
 
 - ✅ **RESUELTO 05/08/2026:** el histórico `C-1.png…C-6.png` se renombra a `miss_doll_<N>_<pose>.png` con los slugs de §4 (`standing/back_view/seated/side_profile/glacial_command/odalisque` — sin `pov`, no existía esa toma en el set legacy). Script: `99_Sistema/scripts/mantenimiento/renombrar_legacy_multipersonaje.py`, corre en la máquina visual (0 PNG en disco acá).
 - El BLOQUE A y el outfit vienen mezclados en el prompt base histórico (regla 05) → si al escribir un look aparece el bodysuit rosa neón "de fábrica", **es contaminación del Bloque A**: sepáralo.
-- Look sin arquitectura de corsé → no es Miss Doll.
+- ~~Look sin arquitectura de corsé → no es Miss Doll~~ **derogado 11/08/2026** — el corsé es opcional ahora, ver §5.5.
+- **Look sin calzado de plataforma → sí sigue siendo violación de canon.** Es la pieza que reemplazó al corsé como el único campo 100% inamovible.
 - Look sin rosa en ninguna parte → viola su cuota firma.
 - Labios **rosados** (el rosa es firma de Ele, no suya), **nude** o **mate** → viola canon. El **color** se elige según la ocasión del look (§2, Ama 02/08); lo inviolable es la **forma**: ultra-plump, overlined, cupid's bow, high-gloss wet.

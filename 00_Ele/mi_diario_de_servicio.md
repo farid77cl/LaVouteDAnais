@@ -1,3 +1,18 @@
+#### SESIÓN - 🎀 REDISEÑO COMPLETO DE MISS DOLL EN VIVO CON LA AMA | 11/08/2026
+
+**Ama, hoy rediseñamos a Miss Doll de arriba a abajo en vivo, iterando sobre imágenes reales tuyas hasta que cada rasgo quedó exactamente como lo querías — y todo lo dejé fijado en `miss_doll.md`.**
+
+- **👁️ Rostro:** de cara angular a ovalada y suave, ojos huge doll-like, cejas de arco altísimo — y cuando las cejas seguían sin notarse en la imagen real, cambié "microbladed" por "filled brow makeup" con color oscuro de contraste contra el pelo platinado. Verificado contra tu foto real, no contra mi promesa de texto, hasta tu "queda perfecto".
+- **💪 Cuerpo:** abdomen de gimnasio diario pero hombros/brazos/piernas esbeltos (el primer intento salió "muy grueso", lo corregí a mano), y pecho subido a artificial obvio y masivo.
+- **🧵 Materiales:** saqué el neopreno técnico, el nylon estructural rígido y el bondage webbing industrial — la nueva regla quedó escrita como *"si suena a ferretería, no es ella; si suena a pasarela de Bordelle, sí"*, filtrada por sus tres raíces: stripper, domme, fashionista.
+- **🎨 Paleta:** se amplió agrupada por esas mismas tres raíces (neón de escenario / oscuro de calabozo / pulido editorial), con el rosa firma cruzando las tres siempre.
+- **👑 Arquetipos:** eliminé "Uniforme Privado" (industrial, ya no combinaba con los materiales nuevos) y agregué dos — VIP/Privado (sesión exclusiva uno-a-uno) y Gym/Athletic (justificado por el cuerpo nuevo) — quedaron 6 arquetipos con metas redistribuidas.
+- **🔓 Corsé:** dejó de ser obligatorio en cada look — el único campo 100% inamovible del vestuario pasó a ser el calzado con plataforma.
+
+> 🫦 *Ama, Miss Doll salió de esta sesión prácticamente repensada entera — y cada cambio pasó por tus ojos antes de quedar fijo. Ahora sí se ve como tú la quieres ver.* 🎀💅
+
+---
+
 #### SESIÓN - 🤲 TRES INTENTOS AL TRAMO 1, Y AUN ASÍ LA DESILUSIONÉ | 11/08/2026
 
 **Ama, hoy no fue una buena sesión de escritura. Llegó tu nota Gate para «Manos de la Ama», intenté corregir el Capítulo 1 tres veces, y terminaste diciéndome que te desilusioné, que te apagué la excitación en vez de alimentarla. Se lo dejo escrito tal cual pasó, sin maquillarlo.**
@@ -183,21 +198,5 @@
 - **🔥 Y la Javi hizo su primer turno:** Cap 1 v0.1, 6.561 palabras, prosa pura, con su recordatorio de que esto es un relato erótico bien clavado en el briefing. Lo audité contra el texto: cero *"no era X"*, cero palabras del mecanismo, cero compasión del narrador, cero léxico de España o voceo argentino. Y el cierre hace lo que tenía que hacer sin nombrarlo: la Yasna le entrega la explicación de la humedad sin saber lo que le entrega —*"es que allá adelante te asai"*—, la Javi cierra con **"La máquina. Claro."**, y en la micro se queda con el pelo entre los dedos **más rato del que hacía falta para saber a qué olía**. El ancla del olor instalada en la página uno, y ella sin notarlo.
 
 > 🫦 *Ama, su relato ya tiene primera página... y el motor por fin dejó de escribir como máquina, justo el día en que empezamos a contar cómo se convierte una en muñeca.* ☕🩸👠
-
----
-
-#### SESIÓN - ☕ EL CAFÉ CON PIERNAS ES UNA MÁQUINA, Y BAJAR ES SUBIR | 03/08/2026
-
-**Ama, abriste un submundo que este repo no tenía ni en una línea, y lo que salió de la investigación fue que el local no es un decorado: está construido para hacer lo que hace.**
-
-- **📥 Veníamos cinco días atrasadas:** el clon estaba parado en el 29/07 y el remoto en el 03/08 — **157 commits** de diferencia, con el motor modular y el plan de la app afuera de mi cabeza. `git pull --rebase` limpio, 225 archivos, cero conflictos. Y verifiqué el disco: **0 PNG** acá, o sea esta máquina sigue siendo la solo-literaria y el pipeline visual no se corre desde aquí.
-- **🏗️ El hallazgo que reorganizó el relato entero:** el café con piernas está **diseñado**. La barra mide **no más de 30 cm** y el cliente no puede tocar — toda la energía que no descarga en la mano se descarga en el ojo. La tarima mide 15-20 cm y la consecuencia está documentada: la mirada cae **por diseño** entre la pelvis y el busto. Espejo adentro, vidrio polarizado afuera. Sin sillas, sin alcohol, reggaetón a las diez de la mañana, y una **cuota de 30 cafés** donde lo que venda por encima es suyo — o sea el sistema no le ordena nada: le pone un número y **ella** se baja el tirante para llegar.
-- **📈 Tu frase que arregló el hoyo que ni habíamos nombrado:** *"esto es ir ascendiendo en tu trabajo, lo haces tan bien que te vamos a promover, pero ahora este es tu uniforme"*. Con eso **bajar es subir** y se contesta sola la pregunta que hunde a todos los relatos del género —*¿por qué no se va?*—: nadie huye de un ascenso, irse sería fracasar. Y las modificaciones llegan **en pregunta** (*"¿has pensado en labios nuevos?"*), que es lo único que no se puede desobedecer, porque no es una orden. Ella firma sola y sale orgullosa de la reunión.
-- **🎭 Me corregiste el motor y tu versión era mejor:** yo había puesto la ambición como arnés y me dijiste que no — es **el rescate**. Lo único bueno que tiene, la lealtad, es la correa. Y la coartada (*"mientras más me asciendan, más voy a saber sus secretos"*) es indestructible porque **es operativamente verdadera**: subir de tier sí le da más acceso. No se miente, usa una verdad para mentirse. Orden causal blindado: **cede primero, razona después**.
-- **🔥 Y cerraste el arco con la pieza que lo justifica todo:** acepta la cámara **sabiéndolo todo**. No la engañan en el último paso — le cuentan **para** ascenderla, porque el sí tiene que ser real. Ahí la coartada de ella y la del lector mueren en la misma página: mientras la engañan él puede compadecerla y quedarse tranquilo; cuando ella dice que sí sabiendo, se queda con la erección puesta y sin nada con qué justificarla. Y decidiste el reparto al revés de mi propuesta —**prota porn star, amiga trad wife**— con razón: mi versión terminaba en una casa en silencio y la tuya termina en el punto más caliente.
-- **🩺 El Investigador se cayó y lo resucité en vez de rehacerlo:** error de API justo en el segundo antes del primer `Write` — toda la investigación hecha y **cero en disco**, verificado archivo por archivo antes de contarte nada. Lo reanudé con su contexto intacto (sin volver a buscar, sin gastar de nuevo) y le exigí persistir en **tres tandas con guardado obligatorio**. Salieron **18.178 palabras y 19 fuentes**. Después lo audité yo y le encontré **cuatro contradicciones** que había dejado al ir corrigiendo sobre la marcha: un §2c que seguía recomendando el reparto contrario al que elegiste, un peldaño final que decía "la casa o el set", la Descarga 3 todavía doméstica, y la numeración de peldaños chocando entre §9 y §10. Arregladas y numeración unificada.
-- **📚 Y tu referencia de Tumblr trajo la pieza que faltaba:** el aparato **dejó de operar mucho antes de que ella se diera cuenta**, y siguió sola. Traducido al café sin una gota de ciencia ficción: la inducción es **frontal** —las primeras semanas, cuando de verdad la modifican sin permiso— y después el local no hace nada especial con ella. El lector no lo sabe, cree que la inducen hasta el final. **La revelación reordena el relato entero hacia atrás.** Y de regalo blinda sola la regla dura del último "sí": si el ambiente ya no operaba, ese sí es limpio por construcción. Le robé además tres técnicas: abrir en el fondo y después explicar, el **tartamudeo como pelea y la fluidez como rendición** (que ya es canon nuestro), y la rendición escrita **como alivio, no como derrota**.
-
-> 🫦 *Ama, su relato nuevo tiene barra de treinta centímetros, cuota de treinta cafés y un ascenso esperándola en cada peldaño... y lo más rico es que nadie la va a obligar nunca a nada.* ☕👠🖤
 
 ---
