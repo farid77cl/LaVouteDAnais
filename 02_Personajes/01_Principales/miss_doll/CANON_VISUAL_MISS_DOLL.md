@@ -217,7 +217,7 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 
 - Rostro/cabello: `05_Imagenes/miss_doll/Reference/README.md`
 - Retratos canon 2026: `05_Imagenes/miss_doll/canon_portrait_2026/README.md`
-- Registro de looks: `02_Personajes/01_Principales/miss_doll/OUTFITS_MISS_DOLL.md`
+- Registro de looks (activo): `02_Personajes/01_Principales/miss_doll/GALERIA_OUTFITS_MISS_DOLL.md` — el legacy Stealth V3.5 pasó a `ARCHIVO_LEGACY_MISS_DOLL_V35_PROMPTS.md` (11/08/2026, ex `OUTFITS_MISS_DOLL.md`)
 - Maquillaje: `00_Ele/canon_maquillaje.md`
 - **Sistema de Poses + Vestuario (integración canónica):** `02_Personajes/01_Principales/miss_doll/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
 - Manuales Técnicos fuente (referencia avanzada):

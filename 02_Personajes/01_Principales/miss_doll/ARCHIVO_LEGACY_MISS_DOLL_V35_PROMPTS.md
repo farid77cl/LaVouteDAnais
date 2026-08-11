@@ -1,4 +1,8 @@
-# Registro de Outfits: Miss Doll (Stealth V3.5)
+> 🗄️ **ARCHIVO LEGACY — CANON ANTIGUO (archivado 11/08/2026, ex `OUTFITS_MISS_DOLL.md`).** Registro de los Looks 01-06 bajo el canon **Stealth V3.5**, anterior al rediseño del 11/08/2026 (rostro ovalado, ojos grandes, cuerpo de gimnasio, materiales suaves, corsé opcional). Queda de museo: **no se retrofitea ni se regenera**. La galería activa es `GALERIA_OUTFITS_MISS_DOLL.md`, reiniciada desde **Look 01**.
+>
+> ⚠️ **NO renombrar de vuelta a `OUTFITS_MISS_DOLL.md`.** Ese nombre caía en la subcadena gatillo `outfits_miss_doll` del filtro de LV-App y, por orden alfabético, era el **último** en parsearse: sus Looks 01-06 pisaban tanto la galería nueva como la legacy en la base de la app. Contrato: `.agent/rules/11-contrato-galeria.md` §9bis.
+
+# Registro de Outfits: Miss Doll (Stealth V3.5) — 🗄️ LEGACY
 
 Este documento registra los diseños visuales de Miss Doll. Cada look respeta el canon de `CANON_VISUAL_MISS_DOLL.md`.
 **Sistema de prompts:** `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` Parte III.

@@ -4,7 +4,8 @@
 
 > **Canon activo:** Rediseño 11/08/2026 (rostro ovalado + ojos grandes redondos + cuerpo de gimnasio + materiales suaves + paleta por raíces + corsé opcional). Corrección 11/08 tarde: se sacó la palabra "doll" del token de ojos/nariz — generaba cara de muñeca/maniquí real en la imagen.
 > **Fuente de verdad:** `02_Personajes/_perfiles_visuales/miss_doll.md` — este archivo **apunta**, no copia.
-> **Galería legacy (canon antiguo, L01-L26):** `GALERIA_OUTFITS_MISS_DOLL_ARCHIVO_LEGACY.md`
+> **Galería legacy (canon antiguo, L01-L26):** `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` · **prompts legacy Stealth (L01-L06):** `ARCHIVO_LEGACY_MISS_DOLL_V35_PROMPTS.md`
+> ⚠️ **Ambos se renombraron el 11/08 para sacarlos del filtro de LV-App** (`galeria_outfits_miss_doll` / `outfits_miss_doll`): compartían números de look con esta galería y **sobreescribían los 14 looks nuevos** en la base de la app. Ver `.agent/rules/11-contrato-galeria.md` §9bis. Sus imágenes viven ahora en `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`.
 > **Motor:** `.agent/skills/outfit-engine/SKILL.md` (genérico, multi-personaje)
 
 ---

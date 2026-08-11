@@ -790,7 +790,7 @@ bangs, fringe, dark hair, brunette, warm skin tone, golden tan, pink lips, nude 
 
 1. **Concepto** — nombre, arquetipo (de los 5), paleta, escenario.
 2. **Bloque B** — construir outfit con los 7 Pilares (Sección 19) o una Receta (Sección 20).
-3. **Registrar** en `OUTFITS_MISS_DOLL.md` ANTES de generar.
+3. **Registrar** en `GALERIA_OUTFITS_MISS_DOLL.md` ANTES de generar (galería activa; el viejo `OUTFITS_MISS_DOLL.md` es legacy desde 11/08/2026 → `ARCHIVO_LEGACY_MISS_DOLL_V35_PROMPTS.md`).
 4. **Disparar 6 prompts** en orden: C-1 → C-2 → C-3 → C-4 → C-5 → C-6.
 5. **Validar** — Bloque A respetado · labio rojo · NO tacón chunky · NO tatuajes · piel fría · sin sonrisa amplia.
 6. **Archivar** en `05_Imagenes/miss_doll/look[XX]_[nombre]/`.

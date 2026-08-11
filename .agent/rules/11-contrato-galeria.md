@@ -180,6 +180,46 @@ Ningún batch se commitea con el linter en rojo.
 
 ---
 
+## 9bis. 🚨 QUÉ ARCHIVOS LEE LA APP (contrato de NOMBRE — 11/08/2026)
+
+**LV-App no tiene una lista de archivos.** Baja el árbol completo de GitHub y se queda con **todo `.md` cuya ruta en minúsculas CONTENGA** una de estas subcadenas (`CharacterProfile.kt` + `GitRepository.kt:301-310` del repo `farid77cl/LV-App`):
+
+| Personaje | Subcadenas gatillo |
+|---|---|
+| Ele | `galeria_outfits` |
+| Miss Doll | `galeria_outfits_miss_doll` · `outfits_miss_doll` |
+| Anaïs | `galeria_looks_anais` · `looks_anais` |
+| — | ruta que empiece por `_batch_` o contenga `/_batch_` |
+
+**Descarta** lo que contenga: `galeria_index` · `report` · `.bkp` · `03_literatura` · `canon_visual` · `ficha_` · `sistema_poses` · `banco_prompts`.
+
+### 🔴 La consecuencia: el nombre del archivo ES el interruptor
+
+La `@PrimaryKey` de la tabla `looks` es **el número del look pelado** (con offset por personaje: Miss Doll `+20000`, Anaïs `+30000`, Boudoir `+40000`) y el insert es `OnConflictStrategy.REPLACE`. Los archivos se parsean en **orden alfabético del árbol**. Por lo tanto:
+
+> **Dos archivos que caigan en el filtro y compartan número de look ⇒ gana el último alfabéticamente. En silencio.**
+
+**Cicatriz del 11/08/2026:** al resetear la numeración de Miss Doll y Anaïs a Look 01 se archivaron las galerías viejas con nombres que **seguían cayendo en el filtro** (`galeria_looks_anais_archivo_legacy.md`, `GALERIA_OUTFITS_MISS_DOLL_ARCHIVO_LEGACY.md`, `OUTFITS_MISS_DOLL.md`). Resultado: el legacy **sobreescribía los 14 looks nuevos** de cada personaje y la Ama veía los outfits antiguos en la app. No era caché — era el nombre del archivo. Los 4 `_batch_L651_L690.md` de la raíz hacían lo mismo con Ele: prompts **anteriores al fix anti-collage** (0 anclas `a single continuous photograph` contra 280 en la galería viva) pisando el rango refrescado.
+
+### 📏 Reglas duras al archivar
+
+1. **Archivar ≠ mover de carpeta.** El filtro mira la ruta completa: meter el archivo en `archivo/` no lo saca. **Hay que renombrarlo** para que no contenga ninguna subcadena gatillo.
+2. Nombre canónico de archivado: `ARCHIVO_LEGACY_<PERSONAJE>_<CANON>_<TIPO>.md` (ej. `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md`, `archivo_legacy_anais_v1.md`).
+3. **Las imágenes van con la misma lógica.** El scanner ingiere toda imagen cuya **carpeta madre inmediata** empiece por `look` (`GitRepository.kt:761`) — mirar solo el padre inmediato significa que un subdirectorio `_ARCHIVO_LEGACY/` **no basta**. Al archivar, prefijar cada carpeta: `look18_x/` → `_ARCHIVO_LEGACY_V1/legacy_look18_x/`.
+4. **Verificación obligatoria tras archivar** (debe devolver solo las galerías vivas + los archivos de Ele intencionales):
+
+```powershell
+git ls-files | Where-Object { $_ -match '\.md$' } | Where-Object { $l=$_.ToLower();
+  ($l -match 'galeria_outfits' -or $l -match 'outfits_miss_doll' -or $l -match 'galeria_looks_anais' -or
+   $l -match 'looks_anais' -or $l -match '^_batch_' -or $l -match '/_batch_') -and
+  $l -notmatch 'galeria_index|report|\.bkp|03_literatura|canon_visual|ficha_|sistema_poses|banco_prompts' }
+```
+
+5. **Excepciones intencionales de Ele** (NO tocar): `galeria_outfits_archivo.md` (L85-L199) y `memoria_historica/galeria_outfits_era_gotica.md` (L01-L84, era Helena) alimentan la app a propósito y **no colisionan** porque la galería viva arranca en L200.
+6. La app limpia su base en cada sync (`clearLooks()` + `clearPrompts()` en `replaceDataSilent`), así que **no hay que borrarle los datos**: basta con sincronizar.
+
+---
+
 ## 10. ⚠️ POR QUÉ CADA REGLA (las cicatrices)
 
 | Regla | Qué pasó cuando faltó |
@@ -192,3 +232,5 @@ Ningún batch se commitea con el linter en rojo.
 | Fence multilínea | 1.167 prompts mezclados entre poses y looks |
 | Negative Prompt obligatorio | 60 looks / 420 poses generadas **sin negativo** desde el L711 |
 | Contar el disco, no el tracker | 380 poses ya materializadas figuraban como pendientes → cuota quemada |
+| Archivar renombrando (§9bis) | El legacy de Miss Doll y Anaïs pisó los 14 looks nuevos de cada una: la Ama vio outfits antiguos en la app durante días |
+| Prefijar la carpeta de imagen al archivar | `_ARCHIVO_LEGACY/look18_x/` sigue entrando: el scanner solo mira la carpeta madre inmediata |

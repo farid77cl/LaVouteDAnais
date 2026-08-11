@@ -1,11 +1,15 @@
-# 👑 Galería de Looks — Anaïs Belland
+> 🗄️ **ARCHIVO LEGACY — CANON ANTIGUO (archivado 11/08/2026).** Los 40 looks de este archivo se diseñaron **antes** de la revisión de canon del 11/08/2026 (rostro con edad ancla 42, cuerpo delgada-firme, lencería modernizada, uñas incorporadas al ADN, 7 poses, 5 arquetipos, paleta y calzado ampliados). Quedan de museo: **no se retrofitean ni se regeneran**. La galería activa es `galeria_looks_anais.md`, reiniciada desde **Look 01**.
+>
+> ⚠️ **NO renombrar este archivo de vuelta a `galeria_looks_anais_*`.** El nombre viejo caía en la subcadena gatillo del filtro de LV-App y, al compartir números de look con la galería activa (ambas parten en Look 01), **sobreescribía los 14 looks nuevos** en la base de datos de la app. Contrato completo: `.agent/rules/11-contrato-galeria.md` §9bis. Imágenes asociadas: `05_Imagenes/anais/_ARCHIVO_LEGACY_V1/legacy_look*/`.
+
+# 👑 Galería de Looks — Anaïs Belland (v1 — LEGACY)
 *La Regenta de La Voûte d'Anaïs*
 
 > **Canon activo:** CANON_VISUAL_ANAIS.md v1.2 (⚠️ ADN de rostro revisado 11/08/2026 — copiar desde `.agent/skills/anais-outfit-engine/references/dna_v2_3.md`, no desde este header viejo)
 > **Estructura Looks 01-40 (legacy):** ADN Base embebido completo en cada prompt + BLOQUE B (outfit) + 4 poses
 > **Poses Looks 01-40:** `command_standing` · `throne_seated` · `three_quarter` · `domina_closeup` — se quedan así, no se retrofitean en masa
-> **⚡ Poses desde Look 41 en adelante: 7** (taxonomía universal de cámara, ver `02_Personajes/_perfiles_visuales/anais.md` §4 — corrigió el desajuste de conteo 4/5/7 detectado 11/08/2026)
-> **⚡ Arquetipos desde Look 41 en adelante:** usar textualmente uno de los **5** nombres oficiales de `anais.md` §6 (reset 11/08/2026, 2ª pasada — Gala/Viaje salieron de la tabla, Animal Print pasó a ser acabado transversal, no arquetipo. Looks 1-40 usaban etiquetas ad-hoc no auditables, quedan como legado)
+> **⚡ Poses en la galería activa (que reinicia en Look 01): 7** (taxonomía universal de cámara, ver `02_Personajes/_perfiles_visuales/anais.md` §4 — corrigió el desajuste de conteo 4/5/7 detectado 11/08/2026)
+> **⚡ Arquetipos en la galería activa (que reinicia en Look 01):** usar textualmente uno de los **5** nombres oficiales de `anais.md` §6 (reset 11/08/2026, 2ª pasada — Gala/Viaje salieron de la tabla, Animal Print pasó a ser acabado transversal, no arquetipo. Looks 1-40 usaban etiquetas ad-hoc no auditables, quedan como legado)
 > **Regla ADN:** El bloque ADN se copia textualmente en CADA prompt. Sin placeholders. Sin abreviaciones.
 
 ---

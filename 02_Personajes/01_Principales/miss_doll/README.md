@@ -12,8 +12,9 @@ Este directorio contiene el núcleo del canon visual y técnico de **Miss Doll**
 |---------|-----------|
 | [ficha_miss_doll.md](ficha_miss_doll.md) | **Dossier Maestro:** Identidad, psicología, historia y métricas de la Auditora. |
 | [CANON_VISUAL_MISS_DOLL.md](CANON_VISUAL_MISS_DOLL.md) | **Especificaciones Visuales:** ADN Hard-Sync, materiales (Latex/PVC), iluminación y rasgos faciales definitivos. |
-| [OUTFITS_MISS_DOLL.md](OUTFITS_MISS_DOLL.md) | **Catálogo de Vestuario (legacy):** Listado de looks canónicos y prompts de alta fidelidad. |
-| [GALERIA_OUTFITS_MISS_DOLL.md](GALERIA_OUTFITS_MISS_DOLL.md) | **Galería Maestra V3.5:** 21 looks × 6 poses = 126 prompts completos listos para generación. |
+| [GALERIA_OUTFITS_MISS_DOLL.md](GALERIA_OUTFITS_MISS_DOLL.md) | **🟢 GALERÍA ACTIVA (canon 11/08/2026):** Look 01-14 × 7 poses = 98 prompts. **Es el único archivo de looks que lee LV-App.** |
+| [ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md](ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md) | 🗄️ **Legacy — galería canon V3.5** (L01-L26). Renombrada 11/08 para salir del filtro de la app. |
+| [ARCHIVO_LEGACY_MISS_DOLL_V35_PROMPTS.md](ARCHIVO_LEGACY_MISS_DOLL_V35_PROMPTS.md) | 🗄️ **Legacy — registro Stealth V3.5** (L01-L06), ex `OUTFITS_MISS_DOLL.md`. Renombrado por el mismo motivo. |
 | [SISTEMA_POSES_VESTUARIO_MISS_DOLL.md](SISTEMA_POSES_VESTUARIO_MISS_DOLL.md) | **Manual Operativo:** Guía de poses, restricción elegante y protocolos de performance. |
 
 ---

@@ -121,7 +121,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
-| **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `GALERIA_OUTFITS_MISS_DOLL_ARCHIVO_LEGACY.md` — imágenes ya generadas quedan como material histórico, no se regeneran automáticamente |
+| **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
 | **Looks bajo canon nuevo** | **1** (Look 01 — Neon Pink Cage, Club/Escenario) | 🟡 Prompts escritos (7/7), 0/7 materializados |
 | **Estado Actual** | Listo para generar Look 01 vía app; próximos looks se agregan on-demand, mismo ritmo que Ele/Anaïs (no se regenera todo el roster legacy de una vez) | 🟢 |
 
