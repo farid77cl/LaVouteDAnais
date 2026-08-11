@@ -113,6 +113,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 - **Regla:** cualquier tipo de calzado sirve — stiletto pump, bota, sandalia — pero **SIEMPRE con plataforma**. `tacones/botas/sandalias siempre con plataforma` (directiva Ama 11/08/2026, tras derogar el corsé obligatorio: esto pasa a ser la única pieza inamovible del BLOQUE B).
 - **Altura mínima:** plataforma 6" o superior (el canon histórico usa 8").
 - **Prohibido:** flats, block heel, **chunky heel**, kitten heel, wedge, descalza, sandalia/tacón/bota **sin plataforma**.
+- **🔻 Botines/ankle boots — FUERA de la rotación (Ama 11/08/2026):** cuando el calzado elegido es bota, solo **knee-high (bajo rodilla)** o **thigh-high/over-the-knee (sobre rodilla)** — nunca ankle boot corto. Pump/sandalia/mule siguen permitidos como categorías aparte, esta restricción es específica de botas.
 - **Atributos obligatorios del token** (nombrar los 5 en cada pose): altura · tipo de plataforma · material/acabado · color · tipo de tacón (`razor-thin metal needle heel`).
 - ⚠️ La palabra `chunky` va **solo en el negative**, jamás en el positive.
 
