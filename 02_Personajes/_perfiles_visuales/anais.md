@@ -76,7 +76,10 @@
 
 - **Total por look:** 7
 - **Fórmula del prompt (particularidad de Anaïs):** `[PREFIJO CINEMATOGRÁFICO] + [BLOQUE A] + [BLOQUE B] + [BLOQUE C]` — lleva un prefijo cinematográfico que los demás personajes no usan.
-- **Repertorio de variaciones:** las 4 poses originales (command_standing/throne_seated/three_quarter/domina_closeup) ya materializadas en L01-L04 mantienen su nombre y contenido — solo se les asigna categoría universal por alias, no se regeneran. Las 3 nuevas (mirror_back/kneeling_pov/chaise_command) se estrenan desde el próximo look. Rotar al menos el ángulo, el nivel de contacto y la relación con el mobiliario para que looks consecutivos no se vean idénticos.
+- **🎥 Repertorio de variaciones de cámara y escenarios — dueño único:** [`01_Principales/anais/repertorio_camara_anais.md`](../01_Principales/anais/repertorio_camara_anais.md). **7 variaciones por slot** para Back View, Side Profile, Sovereign Gaze y POV, con regla de rotación por número de look, más el **escenario específico de cada uno de los 14 looks** y las anclas de prenda (`BARE_LEGS_LOCK`, `GLOVE_LENGTH_LOCK`, `EMBROIDERY_LOCK`, `CLOSURE_LOCK`).
+  > 🔴 **Por qué se creó (Ama 12/08/2026: *"las imágenes de ditzy de Anaïs salen casi todas iguales"*).** Esta línea decía *"rotar al menos el ángulo, el nivel de contacto y la relación con el mobiliario"* — **pero no existía ningún repertorio del cual rotar.** Ele tenía el suyo; Anaïs no. Medido: la similitud del texto de pose+setting entre los 14 looks era **POV 87% · Side Profile 78% · Sovereign Gaze 59% · Back View 57%**, con tres tríos de prompts **idénticos carácter por carácter** (L05=L06=L07, L08=L09=L10, L11=L12). Con el repertorio aplicado bajó a **9-13% en los cuatro slots**. La Ama vio el síntoma en Ditzy; la medición mostró que POV estaba peor.
+- **📐 El slot Odalisque va APAISADO (Ama 12/08/2026) — no es defecto.** Sus imágenes salen en 1200×669 horizontal contra el 669×1200 del resto porque **la Ama se lo pide así a Gemini: la figura reclinada se aprecia mejor en horizontal.** Es el único slot horizontal de su set y es deliberado. Ninguna auditoría futura debe marcarlo.
+- Las 4 poses originales (command_standing/throne_seated/three_quarter/domina_closeup) ya materializadas en L01-L04 mantienen su nombre y contenido — solo se les asigna categoría universal por alias.
 
 ---
 

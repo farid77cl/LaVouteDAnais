@@ -68,9 +68,31 @@ El escenario cambia de habitación entre poses **cuando el texto del setting es 
 
 En L01 la cara cambia perceptiblemente entre Standing (más redonda y suave), Seated (más enjuta), Side Profile (más angulosa) y POV (mandíbula distinta). El lunar sí aparece en todas las inspeccionadas ✅, y el honey blonde se mantiene ✅ — pero con un matiz más cobrizo en Side Profile de L01 y en Back View de L02.
 
-### 🔵 Formato: las 7 Odalisque salen apaisadas
+### ✅ Formato: las 7 Odalisque apaisadas — RESUELTO, no era defecto
 
-**Las 7 imágenes Odalisque materializadas son 1200×669**; las otras 44, 669×1200. **No es el bug de rotación** — verifiqué: son composiciones horizontales legítimas de una figura reclinada, con el horizonte a nivel. Pero rompe el formato vertical del resto de la flota. **Decisión de la Ama:** dejarlo como firma del slot, o anclar el encuadre vertical en el prompt.
+**Las 7 imágenes Odalisque son 1200×669**; las otras 44, 669×1200. La auditoría lo levantó como posible bug de rotación. **La Ama lo cerró el mismo día: es deliberado** — se lo pide así a Gemini porque la figura reclinada se aprecia mejor en horizontal. Queda en canon (`anais.md` §4 + `repertorio_camara_anais.md`). **Ninguna auditoría futura debe marcarlo.**
+
+### 🔴 El slot 5 (Sovereign Gaze) daba siempre la misma foto — y POV estaba peor
+
+La Ama lo vio en la app: *"las imágenes de ditzy de Anaïs salen casi todas iguales"*. Medido sobre los 98 prompts, **similitud media del texto de pose+setting entre los 14 looks**:
+
+| Slot | Antes | Después |
+|---|---|---|
+| 1 · Standing | 33% | 23% |
+| 2 · Back View | **57%** | **9%** |
+| 3 · Seated | 38% | 11% |
+| 4 · Side Profile | **78%** | **10%** |
+| 5 · Sovereign Gaze | **59%** | **9%** |
+| 6 · POV | **87%** | **12%** |
+| 7 · Odalisque | 63% | 13% |
+
+Los prompts del slot 5 de **L05, L06 y L07 eran idénticos carácter por carácter**; también L08/L09/L10 y L11/L12. Verificado en las imágenes: L01, L03, L12 y L14 son el mismo retrato frontal simétrico recoloreado — misma distancia, mismo ángulo, mismo gesto, el pelo cayendo igual a los dos lados.
+
+**Causa:** el perfil §4 mandaba *"rotar el ángulo, el nivel de contacto y la relación con el mobiliario"* — pero **no existía ningún repertorio del cual rotar**. Ele tiene el suyo desde siempre; Anaïs nunca lo tuvo.
+
+**Y un error aparte del mismo slot:** el **Ditzy del L08 salió en cuerpo entero**, duplicando su propio Standing — el encuadre `chest up` no estaba anclado.
+
+✅ **Corregido:** `repertorio_camara_anais.md` con 7 variaciones por slot y rotación por número de look. Las 7 variaciones del slot 5 nombran su recorte explícitamente.
 
 ---
 
@@ -91,9 +113,13 @@ En L01 la cara cambia perceptiblemente entre Standing (más redonda y suave), Se
 
 | | |
 |---|---|
-| ✅ **Hecho 12/08** | BLOQUE B restituido completo y textual en los 98 prompts (cobertura mínima 100%, 0 sin calzado) |
+| ✅ **Hecho 12/08** | BLOQUE B restituido completo y textual en los 98 prompts (cobertura mínima **100%**, **0** sin calzado) |
 | ✅ **Hecho 12/08** | Anclas anti-defecto + `Negative Prompt` + `Ubicacion`/`Tags` en los 14 looks |
-| ⏳ **Pendiente — regeneración recomendada** | **L01** Seated · POV · Odalisque · **L03** Seated · Side · Odalisque · **L12** Side Profile · **L13** Standing (medias no pedidas) · Back View (dragones) · **L14** Seated. **10 poses.** Los prompts ya están corregidos: basta volver a generarlas |
-| ⏳ **Pendiente — decisión de la Ama** | ¿Odalisque se queda apaisada o se ancla vertical? |
-| ⏳ **Pendiente — mejora de texto** | Especificar los settings genéricos (`dark chamber`, `La Voûte interior`) al nivel de detalle del L14, que es el único que no derivó |
+| ✅ **Hecho 12/08** | `repertorio_camara_anais.md`: 7 variaciones de cámara por slot con rotación — la similitud entre looks bajó de **87/78/59/57%** a **9-13%** |
+| ✅ **Hecho 12/08** | **Escenario específico** para cada uno de los 14 looks (mobiliario nombrado + fuente de luz), reemplazando `dark chamber` / `La Voûte interior` |
+| ✅ **Hecho 12/08** | 4 anclas de prenda nuevas inyectadas en 11 prompts: `BARE_LEGS_LOCK` (L02, L13), `GLOVE_LENGTH_LOCK` (L14), `EMBROIDERY_LOCK` (L13), `CLOSURE_LOCK` (L03) |
+| ✅ **Cerrado por la Ama 12/08** | El Odalisque apaisado es deliberado, no defecto. En canon |
+| ⏳ **Pendiente — regeneración recomendada** | **L01** Seated · POV · Odalisque · **L03** Seated · Side · Odalisque · **L08** Sovereign Gaze (salió en cuerpo entero) · **L12** Side Profile · **L13** Standing · Back View · **L14** Seated. **11 poses.** Los prompts ya están corregidos: basta volver a pedirlas |
 | ⏳ **Sin materializar** | 48 poses: L04, L05, L06, L09, L10, L11 completos · L03 POV · L07 (5 de 7) |
+
+> 💡 **Vale la pena regenerar el slot 5 y el POV de los 8 looks materializados aunque no estén en la lista de errores**: sus prompts eran casi el mismo texto, así que sus imágenes son casi la misma foto. Con el repertorio nuevo saldrían siete encuadres distintos.
