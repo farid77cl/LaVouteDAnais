@@ -104,6 +104,14 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 - **Prohibidos (absoluto):** tela natural mate, algodón, denim, punto casual.
 - **Lente de identidad (recalibrado 11/08/2026):** las tres capas de su fondo narrativo mandan sobre el material — **stripper** (sensual, se mueve, se muestra), **domme** (control y bondage, pero de diseño — correas finas como joyería, no rigging), **fashionista** (pulido editorial, nunca utilitario). *"Parece uniforme privado real, no disfraz"* sigue vigente, pero ahora leído como **alta costura fetichista**, no industrial. Si la prenda se sentiría cómoda en una ferretería o un taller, no es de Miss Doll; si se sentiría cómoda en una pasarela de Bordelle, sí.
 
+### 5.1b · 👘 Bata abierta — silueta recurrente en VIP/Penthouse (Ama 12/08/2026)
+
+Auditado sobre los 4 looks VIP/Privado + Penthouse/Off-duty existentes: **2 de 4 llevan bata abierta** sobre el bralette (L04 mesh negro sobre dusty rose, L06 satén perla sobre pearl white) y **2 de 4 van de slip-dress de una pieza sin bata** (L11, L13 — sus propios conceptos dicen textual *"robe+bralette ya usado → slip dress"*, es Step 0 alternando silueta). **Directiva: ese 50% es un piso, no un promedio — no puede bajar hacia adelante.**
+
+- **Token:** `sheer/satin/mesh <color> robe left open and draped off one shoulder` — material coherente con la paleta del look, bralette+brief o slip a juego debajo.
+- **Regla de silueta:** bata **siempre abierta**, nunca cerrada — el abdomen tonificado (§2) es el foco, una bata cerrada lo tapa igual que un corsé mal puesto.
+- **🟠 Riesgo conocido en Back View:** prenda de frente abierto en Back View tiende a re-decorarse o cerrarse mal (mismo defecto documentado en Anaïs `anais.md` §5.1c/§9) — verificar que el ancla de espalda esté puesta cuando la bata aparezca en esa pose.
+
 ### 5.2 · Paleta y reglas cromáticas (ampliada 11/08/2026 — agrupada por raíz narrativa)
 
 - **Firma inamovible:** el **rosa** (neon / hot / dusty / magenta — cualquier tono de la raíz Stripper) **SIEMPRE presente** en algún punto del look. Es su cuota cromática permanente.
@@ -195,6 +203,7 @@ El BLOQUE B debe nombrar, sin excepción:
 | **Rosa firma presente** | **todos los looks** | Cualquier prenda, calzado o accesorio |
 | **Calzado con plataforma** | **todos los looks, sin excepción** | La única pieza 100% inamovible del vestuario (11/08/2026) |
 | ~~Arquitectura de corsé visible~~ | ~~todos los looks~~ | **Derogada 11/08/2026 — ahora opcional, ver §5.5** |
+| **👘 Bata abierta** *(nueva 12/08/2026)* | **≥ 1 de cada 2 looks nuevos de VIP/Privado y Penthouse/Off-duty** | Exclusiva de esos dos arquetipos — no aplica a Club/Calabozo/Gym/Girly Girl/Editorial. Piso medido sobre el roster actual (2/4); no baja hacia adelante. Alterna con slip-dress de una pieza. Ver §5.1b |
 
 ---
 

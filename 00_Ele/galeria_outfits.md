@@ -24259,11 +24259,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Calzado:** ver BLOQUE B (Token de Calzado Bloqueado, 8 atributos, idéntico ×7).
 - **Ambientacion:** in a white photographic cube with white datura trumpet flowers hanging inverted from thin wires, hard editorial lighting
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (6/7 real — Back View es duplicado, ver nota)
+
+> ⚠️ **Auditoría 12/08/2026:** `ele_535_back_view.png` es **byte-idéntico** a `ele_535_standing.png` (mismo MD5 `b6a1c289939a3438dbfd8f6ef0fe9651`) — dos commits de subida distintos (`af304e494` Standing, `54ddf687e` Back View) con el mismo archivo. El slot de Back View real **no existe**: nunca se ve el cierre del arnés ni la espalda de las copas trompeta de datura. Pendiente: regenerar el Back View real vía app (no confirmado si fue error de subida o de selección de imagen).
 
 | Standing | Back View | Seated | Side Profile | Ditzy (plano 3/4) | POV (single hand) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_standing.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_back_view.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_seated.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_side_profile.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_ditzy.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_pov.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_odalisque.png) |
+| [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_standing.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_back_view.png) ⚠️duplicado | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_seated.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_side_profile.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_ditzy.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_pov.png) | [📸 View](../../05_Imagenes/ele/look535_datura_blanca/ele_535_odalisque.png) |
 
 ### 📝 Prompts V3.5 Hard-Sync
 

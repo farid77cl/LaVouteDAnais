@@ -119,6 +119,14 @@ La piel es **la materialidad que más literalmente dice "aristocracia de los añ
 
 **Prohibido:** piel que lea deportiva o moderna (parka con capucha de pelo, chaleco de peluche, forro polar), piel sintética de aspecto barato, look 100% cubierto de piel (traje entero), y piel en un arquetipo con escenario exterior/natural (§5.4 lo prohíbe igual).
 
+### 5.1c · 👘 Bata abierta — silueta recurrente en Boudoir/Lencería (Ama 12/08/2026)
+
+Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2 de 4 llevan bata abierta** sobre la lencería (L02 látex rosa polvo, L09 seda charmeuse esmeralda) y **2 de 4 van directo** sin bata (L08 sujetador+liguero, L10 corsé+bota). El patrón no es azar — es el Step 0 Anti-Repetición alternando arquitectura de silueta dentro del arquetipo. **Directiva: ese 50% es un piso, no un promedio — no puede bajar hacia adelante.**
+
+- **Token:** `open <material> robe falling loose off one/both shoulder(s) and cinched loosely at the waist with a thin belt` — material coherente con la paleta del look (látex, seda charmeuse, satén).
+- **Regla de silueta:** igual que la piel (§5.1b) — la bata va **siempre abierta**, nunca cerrada, con la cintura ceñida explícita en el prompt debajo de ella.
+- **🟠 Riesgo conocido en Back View** (§9): prenda de frente abierto/cruzado en Back View → el generador la re-decora o la cierra mal (L13 Kimono de Medianoche, defecto real). Verificar el `BACK_ANCHOR` cuando la bata aparezca en esa pose.
+
 ### 5.2 · Paleta y reglas cromáticas
 
 > ✏️ **Ampliada 11/08/2026 (Ama) — resuelve el desajuste con `CANON_VISUAL_ANAIS.md` §I, que ya traía azul medianoche/verde esmeralda sin que estuvieran aquí.** Esta tabla queda como dueño único de la paleta; `CANON_VISUAL_ANAIS.md` §I apunta aquí de ahora en más.
@@ -213,6 +221,7 @@ Describir **en este orden**:
 | **Lunar visible** | **todas las imágenes** | Sin excepción |
 | Suela roja visible | siempre que el calzado se vea | Calzado |
 | **🦊 Pieles** *(nueva 11/08/2026)* | **≥ 1 de cada 4 looks nuevos** | Transversal a todos los arquetipos. Chequeo pre-diseño: si los últimos 3 looks no llevaron piel, el que se está diseñando **debe** llevarla. No repetir el mismo tipo (visón/zorro/marta/astracán/chinchilla) en dos apariciones consecutivas. Ver §5.1b |
+| **👘 Bata abierta** *(nueva 12/08/2026)* | **≥ 1 de cada 2 looks nuevos de Boudoir/Lencería** | Exclusiva de ese arquetipo — no aplica a Noche/Látex/Sesión Literaria/Ejecutivo. Piso medido sobre el reset (2/4 actual); no baja hacia adelante. Alterna con silueta sin bata (sujetador+liguero directo, corsé+bota). Ver §5.1c |
 
 ---
 
