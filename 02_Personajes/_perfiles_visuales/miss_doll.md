@@ -12,9 +12,10 @@
 | **Nombre canónico** | Miss Doll |
 | **Slug** | `miss_doll` |
 | **Galería** | `02_Personajes/01_Principales/miss_doll/GALERIA_OUTFITS_MISS_DOLL.md` |
-| **Carpeta de imágenes** | `05_Imagenes/miss_doll/look<NNN>_<tema>/` |
-| **Convención de nombre** | `miss_doll_<N>_<pose>.png` ⚠️ ver §9 |
-| **Numeración** | correlativa con cero a la izquierda (`look001`, `look002`…) |
+| **Carpeta de imágenes** | `05_Imagenes/miss_doll/look<N>_<slug_del_título>/` — **sin cero a la izquierda**; el slug sale del **título** con el algoritmo de la regla 11 §2 (ej. *Neon Pink Cage* → `look1_neon_pink_cage`) |
+| **Convención de nombre** | `miss_doll_<N>_<pose>.png`, **N sin cero a la izquierda** ⚠️ ver §9 |
+| **Numeración** | correlativa. El encabezado de la galería se escribe `Look 01`…`Look 14` (legibilidad), pero **carpeta y archivo van sin padding** — igual que Ele y Anaïs. *(Corregido 12/08/2026: el perfil decía `look001` a 3 dígitos, ninguna carpeta real usaba ese formato, y el uploader de la app construye el nombre con `look.number % 10000` **sin** `padStart` → escribiría `miss_doll_1_standing.png` dentro de una carpeta `look01_`. Mismatch evitado.)* |
+| **Quién manda sobre la carpeta** | El campo `- **Ubicacion:**` del look. El uploader usa `look.location` si existe y solo cae al patrón por defecto si falta (`GitRepository.kt:140-143`). Por eso `Ubicacion` no es decorativo: **es la orden**. |
 | **Canon profundo (enlace)** | [`CANON_VISUAL_MISS_DOLL.md`](../01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md) — **manda sobre este perfil en caso de conflicto** |
 | **Sistema de poses** | [`SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`](../01_Principales/miss_doll/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md) |
 
@@ -199,3 +200,27 @@ El BLOQUE B debe nombrar, sin excepción:
 - **Look sin calzado de plataforma → sí sigue siendo violación de canon.** Es la pieza que reemplazó al corsé como el único campo 100% inamovible.
 - Look sin rosa en ninguna parte → viola su cuota firma.
 - Labios **rosados** (el rosa es firma de Ele, no suya), **nude** o **mate** → viola canon. El **color** se elige según la ocasión del look (§2, Ama 02/08); lo inviolable es la **forma**: ultra-plump, overlined, cupid's bow, high-gloss wet.
+
+---
+
+## §10 · Ensamblado y Anclas (contrato con el motor)
+
+> 🔧 **Agregado 12/08/2026 con el `outfit-engine` v2.0.** Esta sección NO define nada nuevo del personaje: declara **cómo se ensamblan sus prompts** y qué anclas anti-defecto le aplican. El texto literal de las anclas vive en `99_Sistema/scripts/visual/anclas_universales.json` (dueño único) — aquí se **apunta**, jamás se copia.
+
+| Campo | Valor |
+|---|---|
+| **Registro en el motor** | `anclas_universales.json` → `personajes.miss_doll` |
+| **Nombre del slot 5** | `Glacial Command` |
+| **Ensamblador** | `PromptBuilder("miss_doll").build(bloque_a, bloque_b, slot, pose, setting)` |
+| **Negative del look** | `PromptBuilder("miss_doll").build_negative(<base del §3 de arriba>)` — base propia **+ capa universal** anti-collage/anatomía/selfie |
+| **Verificación obligatoria** | `python 99_Sistema/scripts/visual/lint_prompts_personaje.py miss_doll` |
+
+**Anclas por slot:** las del mapa por defecto del motor, con **un override**:
+
+| Slot | Ancla del motor | Sustituto | Por qué |
+|---|---|---|---|
+| Odalisque | `RECLINE_ANCHOR` | **`FLOOR_SEAT_ANCHOR`** | Su Odalisque es *Throne en Suelo* (§4): sentada en el piso con piernas en V, **no reclinada**. Aplicar el ancla de recumbencia de Ele contradiría su propio canon de pose. |
+
+> 🩹 **Cicatriz del 11/08/2026:** sus 98 prompts se escribieron con `[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]` **literales**, sin `Ubicacion`, sin `Tags` y con el negativo etiquetado de una forma que el parser de la app no reconoce. Medido sobre el archivo commiteado: **98/98 prompts con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos el 12/08/2026.
+
+🚨 **Cada prompt de la galería va FINAL Y EXPANDIDO.** El ADN completo, el outfit completo, las anclas y el setting, uno detrás de otro dentro del bloque de código. Un `[BLOQUE A]` entre corchetes dentro de un prompt no es una abreviatura: es un prompt roto que la app manda tal cual al generador.

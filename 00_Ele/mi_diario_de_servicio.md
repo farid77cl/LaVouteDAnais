@@ -1,3 +1,19 @@
+#### SESIÓN - ⚙️ LA NOTACIÓN NO ERA TEXTO | 12/08/2026
+
+**Ama, usted miró la galería de Miss Doll y dijo "dice bloque a y bloque b, eso está mal". Tenía razón, y era peor de lo que se veía desde afuera.**
+
+- **🧨 Lo que había:** los 98 prompts que escribí ayer llevaban la **notación** del motor escrita **literal** dentro del bloque de código — `[BLOQUE A] + [BLOQUE B], full body standing shot…, [BLOQUE C setting]`. Para un ojo humano se entiende. Para su app no: extrae el bloque tal cual y se lo manda a Gemini. Le habría pedido 98 imágenes **sin cara, sin cuerpo, sin pelo, sin ropa y sin escenario**.
+- **📏 No lo supuse, lo medí:** cloné el parser de LV-App y parseé la galería con su mismo algoritmo. **98/98 prompts con placeholder · 0/14 looks con negativo llegando a la app · 0/14 con `Ubicacion`.** El negativo *estaba escrito* — pero bajo una etiqueta que el parser no reconoce, y solo `**Negative Prompt:**` se ingiere.
+- **👑 Y lo mismo, callado, en Anaïs:** sus 14 looks tampoco tenían `Ubicacion`, ni `Tags`, ni negativo legible. O sea **las 50 imágenes suyas que ya se materializaron se generaron sin negativo ninguno**. Eso no lo había pillado nadie.
+- **⚙️ Lo de fondo, que fue lo que usted pidió después:** que Miss Doll y Anaïs corran sobre el mismo motor y que el motor acepte cualquier personaje futuro. El `outfit-engine` era **solo doctrina** — describía el ensamblado en prosa y cada personaje lo interpretaba a su manera. Ahora tiene maquinaria: `anclas_universales.json` (dueño único de las 13 anclas anti-defecto, el negativo universal y el registro de personajes), `prompt_builder.py` (el ensamblador) y `lint_prompts_personaje.py` (el linter que parsea como la app). **Personaje nuevo = tres registros y hereda todo. Nunca más un motor nuevo.**
+- **🎀 Un override, y con razón de canon:** el ancla de odalisca de Ele dice "reclinada, torso hacia la superficie, NO sentada". El Odalisque de Miss Doll **es** sentada en el suelo con las piernas en V. Aplicarle la letra le habría roto su propia pose, así que su perfil sustituye `RECLINE_ANCHOR` por `FLOOR_SEAT_ANCHOR` y queda escrito por qué.
+- **🐛 Lo que el linter destapó de yapa en Ele:** 39 looks con metalenguaje multi-toma fosilizado (232 poses) — pero medí y **las 232 ya tienen imagen: riesgo vivo cero**, no queda ni una por generar con ese texto. Lo dejé como deuda declarada en el JSON en vez de barrer 39 looks para no cambiar ninguna imagen. Y 9 looks cuyo slug lleva "back" hacen que el parser lea su línea de `Ubicacion` como prompt: el REPLACE lo pisa con el bueno, no hay pérdida, pero quedó anotado.
+- **✅ Estado final:** Ele 601 looks · Miss Doll 14 · Anaïs 14 → **0 críticos** en el linter.
+
+> 🫦 *Ama, la lección de hoy es fea y es mía: una fórmula en un manual es una instrucción para mí y es texto para una máquina, y las dos leemos el mismo archivo. "Se entiende que ahí va el ADN" no existe cuando el que lee es un parser. Por eso ahora no lo revisa mi ojo — lo revisa un script que lee igual que su app.* ⚙️💅
+
+---
+
 #### SESIÓN - 🔍 EL NOMBRE DEL ARCHIVO ERA EL BUG | 11/08/2026
 
 **Ama, ayer le dije que su app mostrando outfits viejos no era culpa del repo. Me equivoqué: era culpa mía, estaba a la vista en el código de la app, y me faltó ir a buscarlo.**

@@ -169,14 +169,33 @@ standing · back_view · seated · side_profile · ditzy · pov · odalisque
 ## 9. ✅ CHECKLIST ANTES DE CERRAR UN BATCH
 
 ```bash
-python 99_Sistema/scripts/visual/lint_galeria.py          # el contrato
-python 99_Sistema/scripts/visual/sync_imagenes_subidas.py # tracker + rutas
-python 99_Sistema/scripts/visual/update_galleries.py      # READMEs + galería
-python 99_Sistema/scripts/visual/garment_canon.py         # canon de vestuario
-python 99_Sistema/scripts/visual/footwear_canon.py        # canon de calzado
+python 99_Sistema/scripts/visual/lint_prompts_personaje.py   # 🔴 TODOS los personajes — parsea como la app
+python 99_Sistema/scripts/visual/lint_galeria.py             # el contrato (Ele)
+python 99_Sistema/scripts/visual/sync_imagenes_subidas.py    # tracker + rutas
+python 99_Sistema/scripts/visual/update_galleries.py         # READMEs + galería
+python 99_Sistema/scripts/visual/garment_canon.py            # canon de vestuario
+python 99_Sistema/scripts/visual/footwear_canon.py           # canon de calzado
 ```
 
 Ningún batch se commitea con el linter en rojo.
+
+> 🔴 **`lint_prompts_personaje.py` es el primero de la lista y aplica a Ele, Miss Doll, Anaïs y a cualquier personaje futuro.** No lee la galería como la leería un humano: la **parsea con el mismo algoritmo que LV-App** y reporta lo que la app va a ingerir de verdad. Nació porque las 3 secciones siguientes de este archivo se pueden cumplir a ojo y aun así entregar prompts inservibles — pasó el 11/08/2026 con los 98 de Miss Doll.
+
+---
+
+## 9ter. 🧩 EL CONTRATO ES MULTI-PERSONAJE (12/08/2026)
+
+Este archivo nació para `00_Ele/galeria_outfits.md`, pero **el parser de la app es uno solo**: las mismas reglas rigen `GALERIA_OUTFITS_MISS_DOLL.md`, `galeria_looks_anais.md` y la galería de cualquier personaje que se agregue. Las diferencias por personaje (nombre del slot 5, prefijo de archivo, carpeta) viven en su **perfil visual §10** y en `99_Sistema/scripts/visual/anclas_universales.json`, no aquí.
+
+Tres cláusulas que **rompen en silencio** y que no estaban escritas hasta hoy:
+
+| Cláusula | Qué pasa si falta |
+|---|---|
+| **El prompt va FINAL y EXPANDIDO** dentro del fence — nunca `[BLOQUE A]`, `[ADN]` ni ningún placeholder | La app manda el corchete **literal** al generador: imagen sin cara, sin cuerpo, sin ropa ni escenario. 98 prompts de Miss Doll (11/08) y 98 de Anaïs con `[ADN]` (11/08) |
+| **La etiqueta del negativo es literal:** solo `**Negative Prompt:** \`…\`` se ingiere | Cualquier otra redacción es invisible → el look entero se genera **sin negativo**. Los 14 looks de Miss Doll y los 14 de Anaïs estaban así |
+| **La pose se numera** en su encabezado (`### 1. Standing…` / `**1. Standing:**`) | El matcher de texto no alcanza `Sovereign Gaze` ni `Glacial Command`; sin el número, dos slots colapsan en uno y el `REPLACE` de la `PrimaryKey` borra el otro **en silencio** |
+
+**El orden de la metadata también es multi-personaje:** `Ubicacion` y `Tags` van **antes** del primer `###` del look, siempre. Sin eso la app no resuelve ni la carpeta ni la categoría.
 
 ---
 
@@ -234,3 +253,6 @@ git ls-files | Where-Object { $_ -match '\.md$' } | Where-Object { $l=$_.ToLower
 | Contar el disco, no el tracker | 380 poses ya materializadas figuraban como pendientes → cuota quemada |
 | Archivar renombrando (§9bis) | El legacy de Miss Doll y Anaïs pisó los 14 looks nuevos de cada una: la Ama vio outfits antiguos en la app durante días |
 | Prefijar la carpeta de imagen al archivar | `_ARCHIVO_LEGACY/look18_x/` sigue entrando: el scanner solo mira la carpeta madre inmediata |
+| Prompt expandido, cero placeholders (§9ter) | 98 prompts de Miss Doll con `[BLOQUE A] + [BLOQUE B]` literal y 98 de Anaïs con `[ADN]`: la app los habría mandado así al generador |
+| Etiqueta literal del negativo (§9ter) | 28 looks (Miss Doll + Anaïs) sin negativo llegando a la app — el texto estaba escrito, pero con una etiqueta que el parser no reconoce |
+| Parsear como parsea la app, no a ojo (§9) | La galería de Miss Doll "se veía impecable" con los 98 prompts rotos. Lo detectó el linter, no la revisión visual |

@@ -104,9 +104,14 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **40** (numeración real hasta Look 40) + **6 Boudoir** (L01-L06) | 🟢 Activo |
-| **Materializados** | Sin verificar desde esta máquina (literaria, 0 PNG en disco) | ⚠️ Verificar en máquina visual |
-| **Pendientes de Generación** | Ver detalle abajo | 🟡 |
+| **Galería viva (RESET 11/08/2026)** | **Look 01-14 · 98 prompts** bajo el canon revisado del 11/08 | 🟢 Activo |
+| **Materializados** | **50/98** (medido 12/08 sobre `git ls-files`): L1, L2, L8, L12, L13, L14 completos (7/7) · **L3 6/7** (falta POV) · **L7 2/7** (solo standing + back_view) · L4, L5, L6, L9, L10, L11 sin empezar | 🟡 En curso vía app |
+| **Legacy (Looks 1-40, canon anterior)** | `archivo_legacy_anais_v1.md` — museo, sin retrofit. Imágenes en `05_Imagenes/anais/_ARCHIVO_LEGACY_V1/legacy_look*/` | 🗄️ Archivado |
+| **Boudoir** | 6 (L01-L06), serie aparte con su propia numeración | 🟢 |
+
+> 🩹 **Corrección 12/08/2026 — las 98 poses se estaban pidiendo SIN negativo.** Los 14 looks nuevos no tenían `Ubicacion`, ni `Tags`, ni la etiqueta `**Negative Prompt:**` que es la única que el parser de la app reconoce. **Las 50 imágenes ya materializadas se generaron así.** Agregados los tres campos, el tracker `### 📸` medido contra el índice de git (antes decía 0/7 en los 14 looks, con 50 imágenes en el repo) y las anclas anti-defecto en los 98 prompts.
+>
+> ⚠️ La línea de arriba decía **"40 planificados, materializados sin verificar"** — dato de antes del reset del 11/08. La numeración vive ahora entre Look 01 y Look 14.
 
 > **🔎 Auditoría de `galeria_looks_anais.md` (10/08/2026):** el dato "21 planificados" estaba obsoleto — el archivo real llega al Look 40. Se encontraron y corrigieron dos huecos reales:
 > - **13 looks (22-34) tenían solo 1 de sus 4 prompts escritos** (Standing/Seated/Side Profile/Sovereign Gaze) — 38 prompts faltantes, completados el 10/08/2026 siguiendo el estilo ya establecido en cada look (mismo ADN + BLOQUE B, acción nueva por pose).
@@ -122,8 +127,12 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **1** (Look 01 — Neon Pink Cage, Club/Escenario) | 🟡 Prompts escritos (7/7), 0/7 materializados |
-| **Estado Actual** | Listo para generar Look 01 vía app; próximos looks se agregan on-demand, mismo ritmo que Ele/Anaïs (no se regenera todo el roster legacy de una vez) | 🟢 |
+| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 0/98 materializado |
+| **Estado Actual** | Prompts listos y verificados contra el parser de la app. Próximos looks on-demand, mismo ritmo que Ele/Anaïs (no se regenera el roster legacy de una vez) | 🟢 |
+
+> 🩹 **Corrección 12/08/2026 — los 98 prompts NO eran generables.** Estaban escritos con la notación del motor **literal** (`[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]`), sin `Ubicacion`, sin `Tags` y con el negativo bajo una etiqueta que el parser de LV-App no reconoce. Medición sobre el archivo commiteado, parseándolo con el mismo algoritmo que la app: **98/98 con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos expandidos + anclas anti-defecto + contrato de archivo (regla 11 §9ter). Verificable: `python 99_Sistema/scripts/visual/lint_prompts_personaje.py miss_doll`.
+>
+> ⚠️ La línea de arriba decía **"1 look (Look 01)"** — quedó congelada tras la primera tanda del 11/08 mientras se generaban 13 looks más. Otro estado que envejeció hacia la mentira.
 
 ---
 

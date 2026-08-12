@@ -179,3 +179,23 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 - **Rojo o cherry como prenda/color dominante** — reservado al pelo/labios; choca con el pelo cereza (Ama 02/08/2026).
 - Estás por revivir una ventana cromática o de material **derogada** el 12/06/2026.
 - El look repite un outfit ya usado.
+
+---
+
+## §10 · Ensamblado y Anclas (contrato con el motor)
+
+> 🔧 **Agregado 12/08/2026 con el `outfit-engine` v2.0.** Esta sección NO define nada nuevo del personaje: declara **cómo se ensamblan sus prompts** y qué anclas anti-defecto le aplican. El texto literal de las anclas vive en `99_Sistema/scripts/visual/anclas_universales.json` (dueño único) — aquí se **apunta**, jamás se copia.
+
+| Campo | Valor |
+|---|---|
+| **Registro en el motor** | `anclas_universales.json` → `personajes.ele` |
+| **Nombre del slot 5** | `Ditzy` |
+| **Ensamblador** | `PromptBuilder("ele").build(bloque_a, bloque_b, slot, pose, setting)` |
+| **Negative del look** | `PromptBuilder("ele").build_negative(<base del §3 de arriba>)` — base propia **+ capa universal** anti-collage/anatomía/selfie |
+| **Verificación obligatoria** | `python 99_Sistema/scripts/visual/lint_prompts_personaje.py ele` |
+
+**Anclas por slot:** las del mapa por defecto del motor, sin overrides.
+
+> ⚠️ **La flota L200-L800 ya lleva texto equivalente** inyectado por el motor histórico de Ele — **no se retrofitea en masa** (convención retrofit-al-tocar del repo). Los looks **nuevos** se ensamblan con esta librería.
+
+🚨 **Cada prompt de la galería va FINAL Y EXPANDIDO.** El ADN completo, el outfit completo, las anclas y el setting, uno detrás de otro dentro del bloque de código. Un `[BLOQUE A]` entre corchetes dentro de un prompt no es una abreviatura: es un prompt roto que la app manda tal cual al generador.

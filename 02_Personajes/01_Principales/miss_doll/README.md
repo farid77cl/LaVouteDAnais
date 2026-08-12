@@ -21,9 +21,13 @@ Este directorio contiene el núcleo del canon visual y técnico de **Miss Doll**
 
 ## 🧿 Estado del Sistema
 
-- **Versión de Canon:** V3.5 (Club + Calabozo — sin estética office)
-- **Estado Visual:** Galería completa — 21 looks / 126 prompts listos ✅
-- **Materialización:** Pendiente (0/21 materializados — prompts ready)
+> ✏️ **Corregido 12/08/2026** — esta sección decía "V3.5 · 21 looks / 126 prompts". El canon V3.5 quedó archivado el 11/08 y la galería real tiene 14 looks / 98 prompts.
+
+- **Versión de Canon:** **Rediseño 11/08/2026** — rostro ovalado + ojos grandes, cuerpo de gimnasio esbelto, pecho artificial masivo, materiales suaves/femeninos (fuera lo industrial), corsé **opcional**, calzado con plataforma como única pieza inamovible. Dueño único: [`02_Personajes/_perfiles_visuales/miss_doll.md`](../../_perfiles_visuales/miss_doll.md).
+- **Estado Visual:** 14 looks × 7 poses = **98 prompts**, dos por cada uno de los 7 arquetipos.
+- **Materialización:** 0/98.
+- **Motor:** `outfit-engine` v2.0 (genérico). Prompts ensamblados con `prompt_builder.py` y verificados con `lint_prompts_personaje.py miss_doll`.
+- **🩹 Fix 12/08/2026:** los 98 prompts estaban escritos con la notación del motor **literal** (`[BLOQUE A] + [BLOQUE B] + [BLOQUE C setting]`) y sin negativo legible por la app. Reescritos expandidos + anclas anti-defecto + contrato de archivo.
 
 ---
 

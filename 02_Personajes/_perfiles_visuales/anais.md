@@ -223,3 +223,27 @@ Describir **en este orden**:
 - **Materialidad prestada de Ele o Miss Doll** (vinilo de club, PVC barato, neón): Anaïs es tejido noble. Si el outfit parece de la flota de Ele, está mal.
 - **Piel que borra la cintura** (abrigo cerrado, look enteramente cubierto de pelo) → rompe el hourglass del ADN, regenerar. La piel va **abierta o caída**, con la cintura ceñida explícita en el prompt (§5.1b).
 - **Piel de registro deportivo o moderno** (capucha con pelo, chaleco de peluche, sintética barata) → materialidad prestada, mismo error que el vinilo de club.
+
+---
+
+## §10 · Ensamblado y Anclas (contrato con el motor)
+
+> 🔧 **Agregado 12/08/2026 con el `outfit-engine` v2.0.** Esta sección NO define nada nuevo del personaje: declara **cómo se ensamblan sus prompts** y qué anclas anti-defecto le aplican. El texto literal de las anclas vive en `99_Sistema/scripts/visual/anclas_universales.json` (dueño único) — aquí se **apunta**, jamás se copia.
+
+| Campo | Valor |
+|---|---|
+| **Registro en el motor** | `anclas_universales.json` → `personajes.anais` |
+| **Nombre del slot 5** | `Sovereign Gaze` |
+| **Ensamblador** | `PromptBuilder("anais").build(bloque_a, bloque_b, slot, pose, setting)` |
+| **Negative del look** | `PromptBuilder("anais").build_negative(<base del §3 de arriba>)` — base propia **+ capa universal** anti-collage/anatomía/selfie |
+| **Verificación obligatoria** | `python 99_Sistema/scripts/visual/lint_prompts_personaje.py anais` |
+
+**Anclas por slot:** las del mapa por defecto del motor, sin overrides.
+
+> 🧤 Su BLOQUE B suele llevar guantes de ópera: el `FOOTWEAR_ECHO` aplica igual, pero el **token de uñas de mano se omite** cuando los guantes cubren los dedos (§5.4).
+>
+> 🩹 **Corregido el 12/08/2026:** sus 14 looks nuevos no tenían `Ubicacion`, ni `Tags`, ni `**Negative Prompt:**` — **las 98 poses se estaban generando sin negativo** (50 imágenes ya materializadas así). Agregados los tres campos, el tracker medido contra el índice de git, y las anclas anti-defecto en los 98 prompts.
+>
+> ⚠️ **Su slot 5 se resuelve por el NÚMERO de la pose**, no por el nombre: el matcher de la app no alcanza `Sovereign Gaze` y sin el `5.` del encabezado colapsaría con POV.
+
+🚨 **Cada prompt de la galería va FINAL Y EXPANDIDO.** El ADN completo, el outfit completo, las anclas y el setting, uno detrás de otro dentro del bloque de código. Un `[BLOQUE A]` entre corchetes dentro de un prompt no es una abreviatura: es un prompt roto que la app manda tal cual al generador.

@@ -152,3 +152,48 @@ bloqueo sino obligaciones periódicas):
 Errores que este personaje en concreto ha sufrido y que hay que vigilar:
 
 - …
+
+---
+
+## §10 · Ensamblado y Anclas (contrato con el motor)
+
+> Esta sección **no define nada del personaje**: declara cómo se ensamblan sus
+> prompts y qué anclas anti-defecto le aplican. El texto literal de las anclas
+> vive en `99_Sistema/scripts/visual/anclas_universales.json` (dueño único).
+> Aquí se **apunta**, jamás se copia.
+
+| Campo | Valor |
+|---|---|
+| **Registro en el motor** | `anclas_universales.json` → `personajes.<slug>` |
+| **Nombre del slot 5** | (Ditzy / Glacial Command / Sovereign Gaze / …) |
+| **Ensamblador** | `PromptBuilder("<slug>").build(bloque_a, bloque_b, slot, pose, setting)` |
+| **Negative del look** | `PromptBuilder("<slug>").build_negative(<base del §3>)` |
+| **Verificación obligatoria** | `python 99_Sistema/scripts/visual/lint_prompts_personaje.py <slug>` |
+
+**Anclas por slot:** las del mapa por defecto del motor, salvo los overrides
+que el canon del personaje exija:
+
+| Slot | Ancla del motor | Sustituto | Por qué |
+|---|---|---|---|
+| | | | |
+
+> Un override se justifica **solo** cuando la letra del ancla contradice el canon
+> del personaje (ej.: un slot Odalisque que es *sentada en el suelo* y no
+> reclinada). Se declara aquí **y** en el JSON. Si no hay razón de canon, no hay
+> override: la divergencia silenciosa es exactamente lo que mató a los motores
+> duplicados.
+
+### 🧩 Alta del personaje — los 3 registros
+
+1. **Este perfil**, relleno con la Ama sección por sección.
+2. **`anclas_universales.json`** → entrada en `personajes` (nombre, slot 5,
+   galería, carpeta e infijo de imagen, overrides).
+3. **`CharacterProfile.ALL`** del repo `farid77cl/LV-App` (subcadenas gatillo de
+   la ruta, carpeta de imágenes, prefijo de archivo, `slot5Name`, alias de pose)
+   + su offset de `PrimaryKey`. **Sin este paso la galería existe pero la app no
+   la ve.**
+
+🚨 **Cada prompt de la galería va FINAL Y EXPANDIDO**: ADN completo + outfit
+completo + anclas + setting, uno detrás de otro dentro del bloque de código.
+Un `[BLOQUE A]` entre corchetes no es una abreviatura — es un prompt roto que la
+app manda tal cual al generador.

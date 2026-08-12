@@ -1,0 +1,126 @@
+{
+  "_dueno_unico": "Este archivo es el DUEÑO ÚNICO del texto literal de las anclas anti-defecto del outfit-engine. La doctrina (cuándo aplica cada una) vive en .agent/skills/outfit-engine/SKILL.md §Ensamblado; el texto operativo vive AQUÍ y nadie más lo copia. prompt_builder.py lo carga, el linter lo verifica.",
+  "version": "1.0",
+  "fecha": "2026-08-12",
+  "idioma": "en",
+
+  "anclas": {
+    "SINGLE_FRAME": {
+      "porque": "El metalenguaje multi-toma y la propia deriva del generador producen hojas de contacto, grillas y marcos con su imagen dentro de la escena. El negative NO basta: Gemini lo ignora. El ancla va afirmativa, en el POSITIVE.",
+      "texto": "a single continuous photograph: one woman alone in one single full-bleed frame that fills the entire image edge to edge, one scene and one moment, NOT a collage, NOT a grid or multi-panel layout, NOT a contact sheet, storyboard, photo strip or split screen, with no internal borders, dividers or picture-in-picture insets, and nothing inside the scene — no mirror, screen, poster, framed picture or light box — showing her image a second time"
+    },
+    "GARMENT_CONSISTENCY": {
+      "porque": "Token de vestuario bloqueado: copiar el BLOQUE B idéntico en las N poses no basta, el generador igual re-estiliza escote, manga y ruedo entre tomas.",
+      "texto": "the outfit is exactly ONE garment ensemble rendered precisely as described: its neckline shape, sleeve length, hemline length, cut, colour and finish follow the description word for word, never re-styled, never lengthened or shortened, never split into a two-piece or cropped version"
+    },
+    "ANATOMY_FULL": {
+      "porque": "Tercera pierna / manos deformes en cuerpo entero. Vetarlo solo en el negative no funciona.",
+      "texto": "anatomically correct with exactly two arms, two hands each with five fingers, two legs and two feet"
+    },
+    "ANATOMY_CLOSE": {
+      "porque": "En primer plano las manos quedan cerca del lente y salen dedos fusionados o una mano extra.",
+      "texto": "anatomically correct hands with exactly five fingers on each visible hand, no extra or malformed hands, no extra or fused fingers"
+    },
+    "FRONT_ANCHOR": {
+      "porque": "Standing era el único slot sin ancla de orientación y salía de espalda.",
+      "texto": "standing upright and facing the camera from the front, the front of the body and the full front of the outfit turned toward the lens with the face to the camera, a FRONT view: NOT a back view, NOT a rear or three-quarter view from behind, the body never turned away from the lens"
+    },
+    "BACK_ANCHOR": {
+      "porque": "Toda prenda de frente abierto (bata, kimono, blazer, abrigo) sale dada vuelta en Back View: el generador rota la prenda para mostrar su frente.",
+      "texto": "seen genuinely from behind, the back of the body and the back of the garment toward the lens, any front-opening piece still worn the right way round with its opening, lacing or fastening at the FRONT of the body and therefore hidden from this angle, never rotated so that the front of the garment faces the camera"
+    },
+    "SEAT_ANCHOR": {
+      "porque": "La figura sentada termina apoyada en una isla/mesa cercana en vez de cargar el peso en el asiento nombrado.",
+      "texto": "the body's full weight supported entirely by the seat itself, both hips and thighs resting directly on it, NOT leaning against, perched on or propped against any nearby table, desk, counter, island or other surface"
+    },
+    "RECLINE_ANCHOR": {
+      "porque": "La odalisca reclinada sale sentada o encaramada en el borde.",
+      "texto": "lying down on the named surface with the whole body low and horizontal, a reclining odalisque with the torso resting down toward the surface, NOT sitting upright and NOT seated, both hips and shoulders down on the surface with the legs stretched along it and both feet off the floor, NOT perched on the edge and NOT leaning against any nearby table, desk, counter or island"
+    },
+    "FLOOR_SEAT_ANCHOR": {
+      "porque": "Variante de RECLINE para personajes cuyo slot Odalisque es sentada EN EL SUELO (no reclinada). Sin esta variante el ancla de recumbencia contradice el canon del personaje.",
+      "texto": "seated directly down on the floor itself, the hips and the backs of the thighs resting on the ground and the whole body low to the floor, NOT standing and NOT perched on any chair, bench, stool, sofa, table or platform"
+    },
+    "LEVEL_HORIZON": {
+      "porque": "Las poses bajas salían con el encuadre rotado 90°.",
+      "texto": "shot with a level upright camera, the floor at the bottom of the frame and the horizon perfectly level, the image never rotated or tilted sideways"
+    },
+    "FOOTWEAR_ECHO": {
+      "porque": "En Back View y en las poses bajas el calzado queda lejos del bloque que lo describe y el generador lo cambia de modelo.",
+      "texto": "the footwear clearly visible and exactly as described above — the same heel type and height, the same platform, the same material, colour and toe shape — never swapped for flats, block heels, wedges or any other shoe style"
+    },
+    "POV_NO_DEVICE": {
+      "porque": "El encuadre POV invita al generador a meter un teléfono y convertir la toma en selfie.",
+      "texto": "the lens itself is the viewer's own eye at that height, her hands empty and nothing held up between her face and the camera, no phone, no smartphone, no device, no screen, no selfie"
+    },
+    "SINGLE_SUBJECT": {
+      "porque": "El POV en primera persona ha generado DOS mujeres en el cuadro.",
+      "texto": "a single woman alone in the frame"
+    }
+  },
+
+  "negative_universal": {
+    "porque": "Segunda capa de los defectos transversales (collage, figura duplicada, anatomía, selfie, texto sobre prenda). NO reemplaza a las anclas afirmativas del positive — Gemini ignora el negative con frecuencia — pero se agrega siempre al negative base de CUALQUIER personaje.",
+    "texto": "collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text"
+  },
+
+  "slots_universales": ["standing", "back_view", "seated", "side_profile", "slot5", "pov", "odalisque"],
+
+  "mapa_por_defecto": {
+    "_todos": ["SINGLE_FRAME", "GARMENT_CONSISTENCY"],
+    "standing": ["ANATOMY_FULL", "FRONT_ANCHOR"],
+    "back_view": ["ANATOMY_FULL", "BACK_ANCHOR", "FOOTWEAR_ECHO"],
+    "seated": ["ANATOMY_FULL", "SEAT_ANCHOR"],
+    "side_profile": ["ANATOMY_FULL"],
+    "slot5": ["ANATOMY_CLOSE"],
+    "pov": ["ANATOMY_FULL", "SINGLE_SUBJECT", "POV_NO_DEVICE"],
+    "odalisque": ["ANATOMY_FULL", "RECLINE_ANCHOR", "LEVEL_HORIZON", "FOOTWEAR_ECHO"]
+  },
+
+  "personajes": {
+    "ele": {
+      "nombre": "Ele",
+      "slot5_nombre": "Ditzy",
+      "slot5_slug": "ditzy",
+      "galeria": "00_Ele/galeria_outfits.md",
+      "carpeta_imagenes": "05_Imagenes/ele",
+      "prefijo_archivo": "ele_",
+      "prefijo_carpeta_look": "look",
+      "overrides": {},
+      "nota": "La flota L200-L800 ya lleva texto equivalente inyectado por el motor histórico. NO se retrofitea en masa: los looks NUEVOS se ensamblan con esta librería (convención retrofit-al-tocar del repo).",
+      "deuda_declarada": {
+        "medida": "2026-08-12",
+        "metalenguaje_multi_toma": {
+          "looks": [711, 715, 720, 721, 722, 723, 728, 729, 731, 761, 762, 763, 764, 765, 766, 767, 768, 770, 771, 772, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 795, 797],
+          "poses_afectadas": 232,
+          "poses_afectadas_sin_imagen": 0,
+          "porque_no_se_toca": "Prompts fosilizados de la era pre-fix anti-collage. Medido 12/08/2026: las 232 poses afectadas YA están materializadas — riesgo vivo CERO, no queda ninguna por generar con ese texto. Reescribirlas no cambia ninguna imagen y solo genera churn. Retrofit al tocar, como el resto del repo. Cualquier look FUERA de esta lista que aparezca con metalenguaje es regresión y bloquea."
+        }
+      }
+    },
+    "miss_doll": {
+      "nombre": "Miss Doll",
+      "slot5_nombre": "Glacial Command",
+      "slot5_slug": "glacial_command",
+      "galeria": "02_Personajes/01_Principales/miss_doll/GALERIA_OUTFITS_MISS_DOLL.md",
+      "carpeta_imagenes": "05_Imagenes/miss_doll",
+      "prefijo_archivo": "miss_doll_",
+      "prefijo_carpeta_look": "look",
+      "overrides": {
+        "odalisque": ["ANATOMY_FULL", "FLOOR_SEAT_ANCHOR", "LEVEL_HORIZON", "FOOTWEAR_ECHO"]
+      },
+      "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon."
+    },
+    "anais": {
+      "nombre": "Anaïs Belland",
+      "slot5_nombre": "Sovereign Gaze",
+      "slot5_slug": "sovereign_gaze",
+      "galeria": "02_Personajes/01_Principales/anais/galeria_looks_anais.md",
+      "carpeta_imagenes": "05_Imagenes/anais",
+      "prefijo_archivo": "anais_",
+      "prefijo_carpeta_look": "look",
+      "overrides": {},
+      "nota": "Su BLOQUE B suele llevar guantes de ópera: el FOOTWEAR_ECHO aplica igual, pero el token de uñas de mano se OMITE cuando los guantes cubren los dedos (perfil §5.4)."
+    }
+  }
+}
