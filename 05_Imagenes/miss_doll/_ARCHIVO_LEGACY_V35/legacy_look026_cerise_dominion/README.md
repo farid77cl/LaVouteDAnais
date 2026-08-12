@@ -1,4 +1,4 @@
-# 🖼️ Galería: look026_cerise_dominion
+# 🖼️ Galería: legacy_look026_cerise_dominion
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 7

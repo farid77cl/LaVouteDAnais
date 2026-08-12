@@ -1,4 +1,4 @@
-# 🖼️ Galería: look02_rubi_de_poder
+# 🖼️ Galería: legacy_look02_rubi_de_poder
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 4

@@ -1,4 +1,4 @@
-# 🖼️ Galería: look003_hot_pink_revue
+# 🖼️ Galería: legacy_look003_hot_pink_revue
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 6

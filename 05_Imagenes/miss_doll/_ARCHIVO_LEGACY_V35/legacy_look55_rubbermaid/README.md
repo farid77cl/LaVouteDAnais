@@ -1,4 +1,4 @@
-# 🖼️ Galería: look55_rubbermaid
+# 🖼️ Galería: legacy_look55_rubbermaid
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 5

@@ -1,4 +1,4 @@
-# 🖼️ Galería: look001_pink_protocol
+# 🖼️ Galería: legacy_look001_pink_protocol
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 6

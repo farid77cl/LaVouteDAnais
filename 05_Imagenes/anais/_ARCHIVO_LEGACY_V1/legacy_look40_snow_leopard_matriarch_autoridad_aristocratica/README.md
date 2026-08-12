@@ -1,4 +1,4 @@
-# 🖼️ Galería: look40_snow_leopard_matriarch_autoridad_aristocratica
+# 🖼️ Galería: legacy_look40_snow_leopard_matriarch_autoridad_aristocratica
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 5

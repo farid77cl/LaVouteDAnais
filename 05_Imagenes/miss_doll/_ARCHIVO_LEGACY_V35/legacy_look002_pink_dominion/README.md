@@ -1,4 +1,4 @@
-# 🖼️ Galería: look002_pink_dominion
+# 🖼️ Galería: legacy_look002_pink_dominion
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 6

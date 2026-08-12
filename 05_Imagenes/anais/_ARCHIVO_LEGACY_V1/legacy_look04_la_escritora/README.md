@@ -1,4 +1,4 @@
-# 🖼️ Galería: look04_la_escritora
+# 🖼️ Galería: legacy_look04_la_escritora
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 4

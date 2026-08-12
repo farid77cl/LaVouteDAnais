@@ -1,4 +1,4 @@
-# 🖼️ Galería: look15_midnight_satin
+# 🖼️ Galería: legacy_look15_midnight_satin
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 4

@@ -1,4 +1,4 @@
-# 🖼️ Galería: look05_verde_esmeralda
+# 🖼️ Galería: legacy_look05_verde_esmeralda
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 4

@@ -1,4 +1,4 @@
-# 🖼️ Galería: look025_magenta_mirage
+# 🖼️ Galería: legacy_look025_magenta_mirage
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 5

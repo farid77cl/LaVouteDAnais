@@ -1,4 +1,4 @@
-# 🖼️ Galería: look01_la_regenta
+# 🖼️ Galería: legacy_look01_la_regenta
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 4

@@ -1,4 +1,4 @@
-# 🖼️ Galería: look03_gala_marfil
+# 🖼️ Galería: legacy_look03_gala_marfil
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
 Total imágenes: 4
