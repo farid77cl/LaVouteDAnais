@@ -223,6 +223,9 @@ Describir **en este orden**:
 - **Materialidad prestada de Ele o Miss Doll** (vinilo de club, PVC barato, neón): Anaïs es tejido noble. Si el outfit parece de la flota de Ele, está mal.
 - **Piel que borra la cintura** (abrigo cerrado, look enteramente cubierto de pelo) → rompe el hourglass del ADN, regenerar. La piel va **abierta o caída**, con la cintura ceñida explícita en el prompt (§5.1b).
 - **Piel de registro deportivo o moderno** (capucha con pelo, chaleco de peluche, sintética barata) → materialidad prestada, mismo error que el vinilo de club.
+- 🔴 **El BLOQUE B abreviado en una pose** (medido 12/08/2026: Standing llevaba 81-100% y el resto de las poses 7-39%; **65 de 98 prompts no nombraban el calzado**). Consecuencias reales fotografiadas: el cierre del catsuit desaparece en 3 de 7 poses del L03; el zapato cambia de negro-suela-roja a bronce en el L12 Side Profile — la única pose del look que no nombraba el calzado; el broche de plata se esfuma en el L14 Seated. **Contraprueba:** los dos looks con prompts más completos (L07 92%, L08 93%) no tienen ni una desviación. Auditoría completa: `99_Sistema/auditoria_visual_anais_20260812.md`.
+- 🔴 **Setting genérico** (`dark chamber`, `La Voûte interior` a secas) → la habitación cambia entre poses del mismo look. El L14, con setting específico (`dark wood-panelled study, mahogany desk, leather-bound bookshelves`), es el único que no derivó. Describir el escenario con el mismo nivel de detalle que el vestuario.
+- 🟠 **Prenda de frente cruzado o abierto** (kimono, bata, blazer) en Back View → el generador la abre o la re-decora por la espalda (L13 Back View salió con dragones dorados inventados y la espalda abierta). El ancla `BACK_ANCHOR` del §10 existe por esto; verificar que esté puesta.
 
 ---
 

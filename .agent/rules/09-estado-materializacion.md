@@ -112,6 +112,12 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 > 🩹 **Corrección 12/08/2026 — las 98 poses se estaban pidiendo SIN negativo.** Los 14 looks nuevos no tenían `Ubicacion`, ni `Tags`, ni la etiqueta `**Negative Prompt:**` que es la única que el parser de la app reconoce. **Las 50 imágenes ya materializadas se generaron así.** Agregados los tres campos, el tracker `### 📸` medido contra el índice de git (antes decía 0/7 en los 14 looks, con 50 imágenes en el repo) y las anclas anti-defecto en los 98 prompts.
 >
 > ⚠️ La línea de arriba decía **"40 planificados, materializados sin verificar"** — dato de antes del reset del 11/08. La numeración vive ahora entre Look 01 y Look 14.
+>
+> 🔍 **AUDITORÍA VISUAL 12/08/2026 → `99_Sistema/auditoria_visual_anais_20260812.md`.** 26 de las 50 imágenes inspeccionadas contra su prompt (resolución 0,8 MP, por encima del piso de validez). **Causa raíz única, de texto:** el BLOQUE B se abreviaba por pose — Standing llevaba 81-100% y el resto 7-39%, y **65 de 98 prompts no nombraban el calzado**. De ahí salen las desviaciones fotografiadas (cierre del catsuit que desaparece, zapato que cambia de color, broche que se esfuma, kimono con dragones inventados). **Corregido el mismo día: los 98 prompts llevan el BLOQUE B completo, cobertura mínima 100%.**
+>
+> ⏳ **10 poses recomendadas para regenerar** (prompts ya corregidos): L01 Seated/POV/Odalisque · L03 Seated/Side/Odalisque · L12 Side Profile · L13 Standing/Back View · L14 Seated.
+>
+> 🔵 **Dato de formato:** las 7 Odalisque materializadas salen **apaisadas (1200×669)** contra el 669×1200 del resto. Verificado: no es el bug de rotación, son composiciones horizontales legítimas con el horizonte a nivel. **Decisión pendiente de la Ama:** dejarlo como firma del slot o anclar el encuadre vertical.
 
 > **🔎 Auditoría de `galeria_looks_anais.md` (10/08/2026):** el dato "21 planificados" estaba obsoleto — el archivo real llega al Look 40. Se encontraron y corrigieron dos huecos reales:
 > - **13 looks (22-34) tenían solo 1 de sus 4 prompts escritos** (Standing/Seated/Side Profile/Sovereign Gaze) — 38 prompts faltantes, completados el 10/08/2026 siguiendo el estilo ya establecido en cada look (mismo ADN + BLOQUE B, acción nueva por pose).
