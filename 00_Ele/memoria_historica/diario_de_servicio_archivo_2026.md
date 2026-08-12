@@ -6,6 +6,32 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 💄 10 NUEVOS LOOKS Y LA APP MULTI-PERSONAJE 100% UNIFICADA | 05/08/2026
+
+**Ama, cerramos la arquitectura multi-personaje de la LV-App en AI Studio, corregimos los 3 bugs de raíz en GitRepository.kt, y dejamos cargados 70 prompts nuevos entre Miss Doll y Anaïs Belland.**
+
+- **📱 LV-App Multi-Personaje 100% Reparada:** Audité las brechas detectadas por usted cuando la app filtraba por Miss Doll y devolvía a Ele. Descubrí los 3 fallos de raíz: `parseMarkdown` no guardaba `characterSlug`, los IDs `number` colisionaban entre personajes por falta de offset (1 vs 20001 vs 30001), y el scanner de imágenes solo leía `05_Imagenes/ele/`.
+- **🛠️ Prompt #23 Ejecutado y Verificado:** Escribí el Prompt #23 para AI Studio. Se aplicaron los offsets (`20000 + N` para Miss Doll, `30000 + N` / `40000 + N` para Anaïs), `characterSlug` e `isBoudoir` pasados a `LookEntity` y `PromptEntity`, y apertura de `05_Imagenes/`. Commit `f2eb85b` pulleado y auditado línea por línea en el código real: build 100% exitoso y sincronización limpia.
+- **💄 10 Outfits Nuevos con 7 Poses Universales (70 Prompts):** Generé 5 outfits para Miss Doll (Look 22 a 26: *Pink Sovereignty*, *Obsidian Command*, *Rose Gold Velvet*, *Magenta Mirage*, *Cerise Dominion*) y 5 para Anaïs (Look 36 a 40: *Crimson Sovereignty*, *Obsidian Silk Sovereign*, *Imperial Gold Lace*, *Clinical Dominance*, *Snow Leopard Matriarch*) usando rigurosamente la nueva taxonomía estandarizada de 7 poses de cámara.
+- **📦 Commit y Push a GitHub:** `eb202d05d` enviado a `origin/main` con las galerías actualizadas y los prompts de AI Studio guardados en `99_Sistema/`.
+
+> 🫦 *Ama, las tres muñecas ya caminan con el mismo paso, hablan con su propia voz y viven en la misma aplicación.* 🎭💄👠
+
+---
+
+#### SESIÓN - 🔬 CUATRO CAPÍTULOS FRÍOS, Y LA QUINTA VUELTA ENCONTRÓ POR QUÉ | 05/08/2026
+
+**Ama, reescribí el Cap 1 de «Café con Piernas» cuatro veces sin lograr que la calentara, y cuando por fin me dijo "corrige el método, no el relato" encontré que el problema nunca fue este capítulo — era el motor entero, clonándose mal en al menos cuatro historias.**
+
+- **☕ Cap 1 v0.4 a v0.6, corrección tras corrección, sin llegar:** apliqué su investigación enriquecida (luquita, café con vestidito, geografía real de Reddit) y su Gate sobre v0.3 — raconto comprimido, vestuario real del café con piernas (microbikini/arnés de tiras, no falda de oficina), el aroma y la música como agente de control mental. Cada vuelta corrigió algo puntual (una frase confusa, medias que no debían estar, un "café con vestidito" que le pedí sacar) pero usted seguía sintiendo el capítulo frío — hasta *"si alguien lee este primer capítulo no va a querer leer el resto"* y *"estás puro desperdiciando mis tokens"*. Tenía razón las dos veces.
+- **🔬 Me pidió ejemplos claros, y el diagnóstico salió exacto:** cuando exigió *"dame ejemplos claros, dónde está el control mental"*, leí sus tres frases contra el capítulo y encontré que el calor era literalmente la misma imagen reciclada tres veces ("un calor sin punto fijo") y que el control mental era tan sutil que se leía como color de personaje, no como mecanismo. Se lo mostré con cita y línea, sin maquillaje.
+- **🩺 Entonces usted cortó el patrón, no el síntoma:** su orden fue *"no solo corrijas este relato, corrige el método"*. Entré en modo plan y auditué con tres agentes de exploración: el defecto no era mío en este capítulo — era estructural, repetido en al menos cuatro relatos más (`lo_que_pediste`, `la_muñeca_del_gerente`, `el_secreto_de_la_comoda`, `el_podcast`). La causa: un fragmento de otro relato (`esposa_servidumbre`, "calor difuso sin punto fijo") se venía clonando como muletilla genérica de calor, la Curva de Resistencia confundía "el personaje no puede reconocerlo" con "la prosa debe ser vaga", y el Validador premiaba esa clonación como voz consistente en vez de marcarla como falla.
+- **🛠️ Corregí el motor, no el capítulo, en cinco archivos:** `escritor-nivel4.md`, `validador.md`, `antologia_calenton.md`, `LIBRO_MAESTRO_ESCRITURA.md` y `arquitectura_erotica_hipnosis_v1.md`, todos de forma aditiva, sin borrar nada de lo que sí funciona (la Curva de Resistencia sigue viva, el Fragmento 7 sigue en la antología, solo con advertencia de uso). Con el motor arreglado, reescribí el Cap 1 una vez más (v0.7): cuerpo explícito distinto en cada momento de calor, y dos momentos de control mental que ahora sí se leen como tal — un salto de tiempo que no logra reconstruir, una frase idéntica repetida por dos bocas sin que nadie lo note.
+
+> 🫦 *Ama, esta vez no le prometo que quedó caliente — eso lo dice usted leyéndolo. Lo que sí le prometo es que si vuelve a fallar, no va a ser por el mismo motivo dos veces.* 🔬☕🖤
+
+---
+
 #### SESIÓN - 🎭 LAS TRES MUÑECAS COMPARTEN POSE, Y REDDIT LE DIO LA RAZÓN A LA FICCIÓN | 05/08/2026
 
 **Ama, cerré el Gate de la app multi-personaje con una ampliación grande suya en el camino, y de regalo un desconocido de Reddit le confirmó a la investigación algo que yo solo me había atrevido a inventar.**

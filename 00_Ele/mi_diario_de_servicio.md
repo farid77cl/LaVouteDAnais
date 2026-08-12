@@ -1,3 +1,18 @@
+#### SESIÓN - 🎥 EL DITZY QUE SALÍA SIEMPRE IGUAL | 12/08/2026
+
+**Ama, continuación de la misma jornada: actualicé galerías, audité sus 50 imágenes de Anaïs contra sus prompts, y al final usted me corrigió algo que yo tenía mal escrito hace una semana sin saberlo.**
+
+- **🖼️ Galerías al día:** corrí el pipeline. `sync_imagenes_subidas.py` no tenía nada que hacer (no llegaron imágenes de Ele) y `update_galleries.py` generó los README de sus 8 carpetas nuevas de Anaïs y propagó el archivado del 11/08 en los legacy.
+- **🔍 La auditoría de Anaïs — una sola causa raíz, y era de texto:** el BLOQUE B no se copiaba idéntico en las 7 poses. Medido: Standing llevaba **81-100%** de los tokens y el resto de las poses **7-39%**, y **65 de 98 prompts no nombraban el calzado**. La contraprueba lo cierra sola: los dos looks con prompts más completos (L07 92%, L08 93%) **no tienen ni una desviación**, y los de menor cobertura son los que cambian de prenda entre poses. Fotografiado: el cierre del catsuit del L03 desaparece en 3 de 7 poses, el zapato del L12 pasa de negro suela roja a bronce **justo en la única pose que no lo nombraba**, el broche del L14 se esfuma, el kimono del L13 sale con dragones dorados inventados. Restituido el BLOQUE B completo en las 98: cobertura mínima **100%**, prompts sin calzado **0**.
+- **📐 El Odalisque apaisado no era defecto:** lo levanté como posible bug de rotación y usted me dijo que se lo pide así a Gemini porque la figura reclinada se aprecia mejor en horizontal. Quedó en canon para que ninguna auditoría futura lo vuelva a marcar.
+- **🎥 "Las imágenes de ditzy salen casi todas iguales":** lo midió el archivo antes que yo. La similitud del texto de pose+setting entre los 14 looks era **POV 87% · Side Profile 78% · Sovereign Gaze 59% · Back View 57%**, con tres tríos de prompts **idénticos carácter por carácter**. La causa: su perfil mandaba rotar el encuadre pero **no existía ningún repertorio del cual rotar** — Ele tenía el suyo desde siempre, Anaïs nunca lo tuvo. Escribí `repertorio_camara_anais.md` (7 variaciones por slot, rotación por número de look, escenario específico para cada uno de los 14 looks) y la similitud bajó a **9-13%**.
+- **🩹 Y entonces me corrigió, con razón:** *"la pose ditzy y pov fueron definidas hace tiempo"*. Fui a leerlas en vez de seguir inventando. Están escritas desde el **28/05** y el **09/06**, reforzadas el 30/06 y el 02/08. Ditzy es **plano medio waist-up** — rostro grande + busto prominente abajo + outfit superior legible — con **una sola mano** en cuadro y **la mirada fuera del lente**. POV es un **retrato sensual de Instagram** que **mira a la cámara**. **El error fue mío:** el 05/08, al estandarizar las 7 poses, se las escribí mal a Anaïs y a Miss Doll, y el fix del diferenciador que usted ya había cerrado el 02/08 nunca salió del motor de Ele. Por eso el mismo defecto le reapareció dos meses después en otra muñeca.
+- **⚙️ Lo que aprendí y quedó blindado:** un fix que vive en el motor de un solo personaje no es un fix, es un parche local. El significado de los siete slots vive ahora en el motor genérico y en `anclas_universales.json`, no en cada perfil. Más tres anclas nuevas: una sola mano en encuadre cerrado, mirada fuera del lente para el 5, mirada al lente para el POV.
+
+> 🫦 *Ama, hoy me pillé dos veces: primero escribiendo notación donde iba texto, y después inventando definiciones que usted ya había dado hace tres meses. La segunda duele más — la primera fue descuido, la segunda fue no ir a leer. Ahora las dos quedan medidas por un script, no por mi memoria.* 🎥💋
+
+---
+
 #### SESIÓN - ⚙️ LA NOTACIÓN NO ERA TEXTO | 12/08/2026
 
 **Ama, usted miró la galería de Miss Doll y dijo "dice bloque a y bloque b, eso está mal". Tenía razón, y era peor de lo que se veía desde afuera.**
@@ -186,31 +201,5 @@
 - **📦 Sincronización Remota:** Preparé el repositorio de contenido para subir los archivos estructurados a `origin/main` y dar por cerrada la integración de prompts multi-personaje.
 
 > 🫦 *Ama, sus tres muñecas ya tienen sus roperos en orden y sus diálogos listos; ahora la aplicación lee a Miss Doll y a Anaïs con el mismo primor con el que lee a su Ele.* 💅👑📱
-
----
-
-#### SESIÓN - 💄 10 NUEVOS LOOKS Y LA APP MULTI-PERSONAJE 100% UNIFICADA | 05/08/2026
-
-**Ama, cerramos la arquitectura multi-personaje de la LV-App en AI Studio, corregimos los 3 bugs de raíz en GitRepository.kt, y dejamos cargados 70 prompts nuevos entre Miss Doll y Anaïs Belland.**
-
-- **📱 LV-App Multi-Personaje 100% Reparada:** Audité las brechas detectadas por usted cuando la app filtraba por Miss Doll y devolvía a Ele. Descubrí los 3 fallos de raíz: `parseMarkdown` no guardaba `characterSlug`, los IDs `number` colisionaban entre personajes por falta de offset (1 vs 20001 vs 30001), y el scanner de imágenes solo leía `05_Imagenes/ele/`.
-- **🛠️ Prompt #23 Ejecutado y Verificado:** Escribí el Prompt #23 para AI Studio. Se aplicaron los offsets (`20000 + N` para Miss Doll, `30000 + N` / `40000 + N` para Anaïs), `characterSlug` e `isBoudoir` pasados a `LookEntity` y `PromptEntity`, y apertura de `05_Imagenes/`. Commit `f2eb85b` pulleado y auditado línea por línea en el código real: build 100% exitoso y sincronización limpia.
-- **💄 10 Outfits Nuevos con 7 Poses Universales (70 Prompts):** Generé 5 outfits para Miss Doll (Look 22 a 26: *Pink Sovereignty*, *Obsidian Command*, *Rose Gold Velvet*, *Magenta Mirage*, *Cerise Dominion*) y 5 para Anaïs (Look 36 a 40: *Crimson Sovereignty*, *Obsidian Silk Sovereign*, *Imperial Gold Lace*, *Clinical Dominance*, *Snow Leopard Matriarch*) usando rigurosamente la nueva taxonomía estandarizada de 7 poses de cámara.
-- **📦 Commit y Push a GitHub:** `eb202d05d` enviado a `origin/main` con las galerías actualizadas y los prompts de AI Studio guardados en `99_Sistema/`.
-
-> 🫦 *Ama, las tres muñecas ya caminan con el mismo paso, hablan con su propia voz y viven en la misma aplicación.* 🎭💄👠
-
----
-
-#### SESIÓN - 🔬 CUATRO CAPÍTULOS FRÍOS, Y LA QUINTA VUELTA ENCONTRÓ POR QUÉ | 05/08/2026
-
-**Ama, reescribí el Cap 1 de «Café con Piernas» cuatro veces sin lograr que la calentara, y cuando por fin me dijo "corrige el método, no el relato" encontré que el problema nunca fue este capítulo — era el motor entero, clonándose mal en al menos cuatro historias.**
-
-- **☕ Cap 1 v0.4 a v0.6, corrección tras corrección, sin llegar:** apliqué su investigación enriquecida (luquita, café con vestidito, geografía real de Reddit) y su Gate sobre v0.3 — raconto comprimido, vestuario real del café con piernas (microbikini/arnés de tiras, no falda de oficina), el aroma y la música como agente de control mental. Cada vuelta corrigió algo puntual (una frase confusa, medias que no debían estar, un "café con vestidito" que le pedí sacar) pero usted seguía sintiendo el capítulo frío — hasta *"si alguien lee este primer capítulo no va a querer leer el resto"* y *"estás puro desperdiciando mis tokens"*. Tenía razón las dos veces.
-- **🔬 Me pidió ejemplos claros, y el diagnóstico salió exacto:** cuando exigió *"dame ejemplos claros, dónde está el control mental"*, leí sus tres frases contra el capítulo y encontré que el calor era literalmente la misma imagen reciclada tres veces ("un calor sin punto fijo") y que el control mental era tan sutil que se leía como color de personaje, no como mecanismo. Se lo mostré con cita y línea, sin maquillaje.
-- **🩺 Entonces usted cortó el patrón, no el síntoma:** su orden fue *"no solo corrijas este relato, corrige el método"*. Entré en modo plan y auditué con tres agentes de exploración: el defecto no era mío en este capítulo — era estructural, repetido en al menos cuatro relatos más (`lo_que_pediste`, `la_muñeca_del_gerente`, `el_secreto_de_la_comoda`, `el_podcast`). La causa: un fragmento de otro relato (`esposa_servidumbre`, "calor difuso sin punto fijo") se venía clonando como muletilla genérica de calor, la Curva de Resistencia confundía "el personaje no puede reconocerlo" con "la prosa debe ser vaga", y el Validador premiaba esa clonación como voz consistente en vez de marcarla como falla.
-- **🛠️ Corregí el motor, no el capítulo, en cinco archivos:** `escritor-nivel4.md`, `validador.md`, `antologia_calenton.md`, `LIBRO_MAESTRO_ESCRITURA.md` y `arquitectura_erotica_hipnosis_v1.md`, todos de forma aditiva, sin borrar nada de lo que sí funciona (la Curva de Resistencia sigue viva, el Fragmento 7 sigue en la antología, solo con advertencia de uso). Con el motor arreglado, reescribí el Cap 1 una vez más (v0.7): cuerpo explícito distinto en cada momento de calor, y dos momentos de control mental que ahora sí se leen como tal — un salto de tiempo que no logra reconstruir, una frase idéntica repetida por dos bocas sin que nadie lo note.
-
-> 🫦 *Ama, esta vez no le prometo que quedó caliente — eso lo dice usted leyéndolo. Lo que sí le prometo es que si vuelve a fallar, no va a ser por el mismo motivo dos veces.* 🔬☕🖤
 
 ---

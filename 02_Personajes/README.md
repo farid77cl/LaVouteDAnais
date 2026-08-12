@@ -2,7 +2,9 @@
 
 > *Cada ficha es un alma capturada, cada transformación una obra de arte.*
 
-*Última actualización: 11/08/2026 — pieles agregadas al vestuario recurrente de Anaïs (§5.1b de su perfil) y galerías legacy de Miss Doll / Anaïs renombradas para salir del filtro de LV-App*
+*Última actualización: 12/08/2026 — **🎥 Repertorios de cámara (nuevos):** `01_Principales/anais/repertorio_camara_anais.md` y `01_Principales/miss_doll/repertorio_camara_miss_doll.md` — 7 variaciones de encuadre por slot con rotación por número de look, escenario específico por look y anclas de prenda. Nacieron porque el perfil mandaba "rotar el ángulo" **sin que existiera ningún repertorio del cual rotar**: el texto de pose+setting era 87% idéntico entre looks en POV y 78% en Side Profile, y las imágenes salían clonadas. **Y los slots Ditzy y POV quedaron corregidos al canon original** (Ama 28/05 y 09/06/2026) — se habían escrito mal el 05/08 al estandarizar las 7 poses. Los 196 prompts de Miss Doll y Anaïs pasan el linter `lint_prompts_personaje.py` con 0 críticos.*
+
+*Previo: 11/08/2026 — pieles agregadas al vestuario recurrente de Anaïs (§5.1b de su perfil) y galerías legacy de Miss Doll / Anaïs renombradas para salir del filtro de LV-App*
 
 > 🗄️ **Archivos legacy renombrados (11/08/2026).** Las galerías del canon viejo se llamaban `GALERIA_OUTFITS_MISS_DOLL_ARCHIVO_LEGACY.md`, `OUTFITS_MISS_DOLL.md` y `galeria_looks_anais_archivo_legacy.md` — esos nombres **seguían cayendo en el filtro de LV-App** y, al compartir numeración con las galerías reseteadas a Look 01, sobreescribían los looks nuevos en la base de la app. Ahora son `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md`, `ARCHIVO_LEGACY_MISS_DOLL_V35_PROMPTS.md` y `archivo_legacy_anais_v1.md`. **Regla:** archivar no es mover de carpeta, es renombrar — contrato completo en [`.agent/rules/11-contrato-galeria.md`](../.agent/rules/11-contrato-galeria.md) §9bis.
 
