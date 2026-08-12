@@ -70,8 +70,10 @@
 | 2 | Back View | mirror_back *(nueva — 05/08)* | `back_view` | De espaldas ante un espejo del set (tocador, salón), guante trazando la curva desnuda de la espalda, mirada por sobre el hombro hacia el reflejo — nunca directo a cámara |
 | 3 | Seated | throne_seated | `seated` | Sentada (silla/chaise/trono coherente con el setting), piernas cruzadas en rodilla, mano en reposabrazos |
 | 4 | Side Profile | three_quarter | `side_profile` | Giro de hombro hacia cámara, mirada fría por encima del hombro, hourglass definida por la luz |
-| 5 | **Sovereign Gaze** *(slot Ditzy de Ele, renombrado — su registro es dominio, no vacío)* | domina_closeup | `sovereign_gaze` | Plano medio desde el pecho, mirada directa, lunar visible, detalle de escote |
-| 6 | POV | kneeling_pov *(nueva — 05/08)* | `pov` | Vista desde abajo, como si el lector estuviera arrodillado ante ella — su mirada fría cae sobre el lente desde ese ángulo |
+| 5 | **Sovereign Gaze** *(slot Ditzy de Ele, renombrado — su registro es dominio, no vacío)* | domina_closeup | `sovereign_gaze` | **WAIST-UP** (cintura arriba): rostro grande y nítido + busto/escote prominente en el frame inferior + detalle del outfit superior legible · **UNA sola mano** en cuadro haciendo el gesto · **mirada FUERA de cuadro** · lunar visible |
+| 6 | POV | kneeling_pov *(nombre histórico)* | `pov` | **RETRATO SENSUAL DE INSTAGRAM** (thirst-trap de influencer): **mira a la cámara**, medio cuerpo, cara protagonista + escote abajo, **una sola mano**, `a single woman alone`. **NO es point-of-view literal** |
+
+> 🩹 **Corregido 12/08/2026 — era una desviación mía, no un cambio de canon.** Estas dos filas decían *"plano medio desde el pecho, mirada directa"* y *"vista desde abajo, como si el lector estuviera arrodillado ante ella"*. **Ditzy y POV están definidos desde el 28/05 y el 09/06/2026** (reforzados el 30/06 y el 02/08) en `.agent/rules/06-generacion-imagenes.md` §5 y §9, `pose_repertoire_v5.md` §5-§6 y `dna_v3_5.md` — Ele los cumple desde entonces. Al estandarizar las 7 poses el **05/08** los escribí mal para Anaïs y Miss Doll, y por eso reapareció en sus imágenes el defecto que la Ama ya había cerrado el 02/08 (*"salen casi iguales el 90%"*): el slot 5 mira **fuera** de cuadro y el POV mira **al lente** — ese es el diferenciador duro entre los dos.
 | 7 | Odalisque | chaise_command *(nueva — 05/08)* | `odalisque` | Reclinada en el chaise longue de su despacho o salón, vestuario de gala/látex de grado clínico — misma arquitectura que su Boudoir pero sin lencería |
 
 - **Total por look:** 7

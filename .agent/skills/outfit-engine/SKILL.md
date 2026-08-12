@@ -116,6 +116,26 @@ Reglas de escritura:
 
 ---
 
+### 🎬 Qué es cada slot de cámara (los 7, para las tres muñecas)
+
+**Dos de los nombres engañan: son históricos.** La pose evolucionó y el nombre se quedó. Renombrar el slot por personaje está permitido (Ditzy → *Glacial Command* → *Sovereign Gaze*); **cambiar su propósito de encuadre, no.**
+
+| Slot | Qué es |
+|---|---|
+| 1 · Standing | Cuerpo entero de pie, de frente. Outfit completo + calzado visibles. |
+| 2 · Back View | Espalda a cámara. Arquitectura trasera de la prenda + calzado. |
+| 3 · Seated | Sentada, con el peso íntegro en el asiento nombrado. |
+| 4 · Side Profile | Perfil o tres cuartos lateral. Se lee la silueta. |
+| **5 · Ditzy** | ⚠️ **NO es "poner cara de ditzy"** — el nombre describía la expresión bimbo original de Ele. Es el **plano medio WAIST-UP**: rostro grande y nítido + **busto/décolleté prominente en el frame inferior, SIEMPRE** + detalle del outfit superior legible · **UNA sola mano** en cuadro · **mirada FUERA de cuadro**. ⛔ NO plano americano knee-up, NO cuerpo entero. |
+| **6 · POV** | ⚠️ **NO es un point-of-view literal** ni una cámara a la altura de alguien arrodillado. Es un **RETRATO SENSUAL DE INSTAGRAM** (thirst-trap de influencer): **mira a la cámara**, medio cuerpo, cara protagonista + décolleté abajo, **una sola mano**, `a single woman alone`. ⛔ Prohibido en el positive: `first-person POV`, `point of view`, `looking down over own body`, `overhead`, `selfie`, `phone` — el generador los lee LITERAL. |
+| 7 · Odalisque | Figura baja: reclinada o sentada en el suelo, según el canon del personaje. |
+
+**🔑 El diferenciador duro Ditzy ≠ POV:** el slot 5 mira **fuera** de cuadro, el slot 6 mira **al lente**. Sin eso las dos tomas salen casi idénticas — la Ama lo levantó el 02/08/2026 (*"salen casi iguales el 90%"*) y se arregló en el motor de Ele.
+
+> 🩹 **Cicatriz doble (12/08/2026).** Estas definiciones son de **mayo y junio de 2026** — `.agent/rules/06-generacion-imagenes.md` §5 y §9 · `pose_repertoire_v5.md` §5-§6 · `dna_v3_5.md`. Ele las cumple desde entonces. Al estandarizar las 7 poses el **05/08** para Miss Doll y Anaïs se escribieron **mal** en sus perfiles ("primer plano frío", "cámara de sub arrodillado"), y el fix del diferenciador del 02/08 **nunca se propagó fuera de Ele**. Resultado medido: el Ditzy de Anaïs volvió a salir casi idéntico entre looks, dos meses después de haberse cerrado el caso. **Lección: un fix que vive en el motor de un solo personaje no es un fix, es un parche local.** Por eso el significado de los slots vive ahora acá y en `anclas_universales.json → significado_de_los_slots`, no en cada perfil.
+
+---
+
 ### 🔒 Anclas anti-defecto universales (el candado del motor)
 
 Cada defecto que este repo pagó con cuota quemada dejó un **ancla afirmativa en el positive** — porque el generador **ignora el negative con frecuencia**. Esas anclas son **maquinaria, no material de personaje**: valen para todos.
@@ -135,6 +155,8 @@ Cada defecto que este repo pagó con cuota quemada dejó un **ancla afirmativa e
 | `FLOOR_SEAT_ANCHOR` | Odalisque *(variante)* | Para personajes cuyo Odalisque es **sentada en el suelo** |
 | `LEVEL_HORIZON` | Odalisque | Encuadre rotado 90° |
 | `FOOTWEAR_ECHO` | Back View · Odalisque | El zapato cambia de modelo cuando queda lejos del bloque que lo describe |
+| `SINGLE_HAND_CLOSE` | Ditzy · POV | En encuadre cerrado solo cabe UNA mano: forzar dos metía una mano fantasma o deformada (Ama 30/06/2026) |
+| `GAZE_OFF_LENS` · `GAZE_TO_LENS` | Ditzy / POV | El diferenciador duro entre los dos slots (Ama 02/08/2026) |
 | `POV_NO_DEVICE` · `SINGLE_SUBJECT` | POV | Aparece un teléfono (selfie) o una segunda mujer |
 
 **Cómo se personaliza sin duplicar el motor:** el perfil declara en su **§10** qué anclas sustituye y por qué; el JSON lo registra en `personajes.<slug>.overrides`. Ejemplo real: el slot Odalisque de Miss Doll es *Throne en Suelo* — sentada en el piso, no reclinada — así que `RECLINE_ANCHOR` se sustituye por `FLOOR_SEAT_ANCHOR`. **Aplicar la letra del ancla de Ele ahí habría contradicho el canon de Miss Doll**: cuando la letra y el propósito divergen, se sirve el propósito y se deja escrito.

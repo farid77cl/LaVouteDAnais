@@ -70,31 +70,50 @@ Desplazamientos vigentes: Back View `+0` · Side Profile `+2` · Sovereign Gaze 
 | S6 | `a side profile leaning with one shoulder against a wall, column or doorframe, the near arm hanging loose, her gaze level and cold out past the lens` |
 | S7 | `a side profile from three-quarters behind the shoulder, the camera reading the back of the arm and the curve of the waist, her profile edge-lit and her lashes lowered` |
 
-## 5 · SOVEREIGN GAZE — 7 variaciones
+## 5 · DITZY / SOVEREIGN GAZE — 7 variaciones
 
-| # | Variación |
-|---|---|
-| G1 | `a tight head-and-shoulders portrait with the face filling the frame, her gaze locked dead into the lens, the key light raking from one side so that half the face falls into shadow` |
-| G2 | `a chest-up portrait at a three-quarter turn, her chin lifted and turned away while only the eyes come back to the lens, the beauty mark catching a highlight` |
-| G3 | `a chest-up portrait from slightly below, her chin dropped so that she looks down the line of her nose into the lens, the throat and jaw drawn long` |
-| G4 | `an extreme close-up on the mouth and the eyes, the lips parted just enough to break the line, the gaze half-lidded and unhurried, the top of the garment only a band of colour at the frame's edge` |
-| G5 | `a chest-up portrait with one hand risen to the jaw or the throat, the fingers deliberate and unhurried, her gaze steady and unimpressed into the lens` |
-| G6 | `a chest-up portrait shot past a foreground element thrown out of focus in front of her — a candle flame, the lip of a glass, the edge of a mirror frame — her face sharp behind it` |
-| G7 | `a chest-up portrait in near profile with the head turned back over the shoulder, her eyes cutting to the lens at the very edge of their range, the neck and décolleté fully lit` |
+> 🧭 **QUÉ ES ESTE SLOT — definido hace tiempo, no ahora.** La Ama lo fijó el **28/05/2026** y lo redefinió el **09/06/2026**; el nombre "Ditzy" es histórico (describía la expresión bimbo original de Ele, **no el encuadre**). Fuentes: `.agent/rules/06-generacion-imagenes.md` §5 y §9 · `.agent/skills/ele-outfit-engine/references/pose_repertoire_v5.md` §5.
+>
+> | Regla | Detalle |
+> |---|---|
+> | **Encuadre** | **PLANO MEDIO, WAIST-UP** (de la cintura hacia arriba). ⛔ NO plano americano knee-up, NO cuerpo entero, NO distante |
+> | **Qué se ve** | **Rostro grande, nítido y detallado** + **busto/décolleté prominente en el frame inferior, SIEMPRE** + el **detalle del outfit superior legible** |
+> | **Manos** | **UNA sola mano en cuadro** haciendo el gesto; la otra baja, pegada al cuerpo y fuera de toma *(fix Ama 30/06: forzar dos manos en encuadre cerrado metía una mano fantasma)* |
+> | **Mirada** | **FUERA de cuadro** — nunca al lente *(diferenciador duro Ama 02/08: "salen casi iguales el 90%"; el slot 5 mira afuera, el POV mira al lente)* |
+>
+> 🩹 **Mi error, no un cambio de canon:** el 05/08, al estandarizar las 7 poses de Anaïs y Miss Doll, escribí este slot como *"plano medio/primer plano, mirada fría de mando directo a cámara"* — que contradice el encuadre waist-up, la mano única y la mirada fuera de cuadro que ya eran canon desde mayo. Ele nunca dejó de cumplirlos. Corregido acá.
 
-> 🔒 **Los siete son de PECHO PARA ARRIBA, sin excepción.** El Ditzy del L08 salió en cuerpo entero por no tener el encuadre anclado. Cada variación nombra su recorte explícitamente.
+| # | Gesto | Variación |
+|---|---|---|
+| G1 | Finger-on-Lip | `a waist-up medium shot with the face large and sharp in the frame and the bust prominent in the lower frame with the bodice detail crisp and legible, a single hand raised with one fingertip resting against the lower lip, her gaze drifting off past the edge of the frame` |
+| G2 | Hair-Twirl | `a waist-up medium shot, the face large and detailed with the décolleté prominent below and the bodice legible, a single hand winding one honey blonde wave slowly beside her cheek, her eyes following it away from the lens` |
+| G3 | Strap-Slip | `a waist-up medium shot with the bust pushed forward and prominent in the lower frame, a single hand easing a strap, glove edge or lapel down off the shoulder, her chin turned away and her gaze low and unfocused off-frame` |
+| G4 | Throat-Trace | `a waist-up medium shot, the face the focus and the neckline of the garment crisp beneath it, a single hand drawn slowly down the line of her own throat toward the neckline, her lashes lowered and her gaze cast down and away from the lens` |
+| G5 | Cheek-Frame | `a waist-up medium shot with the head tilted, the face large in frame and the décolleté prominent below, a single hand framing her own cheekbone, her gaze angled off past the camera into the middle distance` |
+| G6 | Jewel-Touch | `a waist-up medium shot, the bust and the upper garment detail sharp in the lower frame, a single hand at the necklace, brooch or collar detail turning it slowly between two fingers, her eyes down on it and away from the lens` |
+| G7 | Chin-Down Away | `a waist-up medium shot with the chin dropped and the face turned three-quarters away from the lens, the bust prominent and the bodice legible in the lower frame, a single hand resting flat just below the collarbone, her gaze unfocused beyond the edge of frame` |
+
+> 🔒 **Las siete nombran las cuatro reglas**: recorte `waist-up`, rostro grande, busto prominente abajo con el bodice legible, **una sola mano**, **mirada fuera del lente**.
+>
+> Su Ditzy del **L08 salió en cuerpo entero** por no tener el recorte anclado; los de **L01, L03, L12 y L14** salieron en primerísimo plano frontal, sin manos y mirando al lente — o sea, invadiendo el POV. Los dos errores los cubre esta tabla.
 
 ## 6 · POV — 7 variaciones
 
-| # | Variación |
-|---|---|
-| P1 | `a low-angle point of view from the floor as though the viewer kneels at her feet, the camera below her knee looking up the full length of her, her face small and far above with her gaze falling down the frame` |
-| P2 | `a low-angle point of view from hip height as though the viewer kneels close in front of her, the garment filling the lower frame, her chin dropped and her eyes down into the lens` |
-| P3 | `a low-angle point of view from just below her waist with her leaning in over the lens, one hand braced on a surface beside the camera, her face large and close above` |
-| P4 | `a low-angle point of view taken from her side as though the viewer kneels beside her rather than before her, her head turning down and across to find the lens` |
-| P5 | `a low-angle point of view with her seated above the camera on the edge of a desk, chaise or chair, one leg crossed over the other at the level of the lens, her gaze cast down` |
-| P6 | `a low-angle point of view from the floor with one hand extended down toward the lens, palm open and unhurried, her face behind and above it with a level cold gaze` |
-| P7 | `a low-angle point of view from very low and very close, the camera almost at the floor, the vertical of her body rising the full height of the frame with the ceiling behind her head` |
+> 🧭 **QUÉ ES ESTE SLOT — también definido hace tiempo.** La Ama lo redefinió el **09/06/2026** y lo reforzó el **30/06/2026**. Es un **RETRATO SENSUAL DE INSTAGRAM** (thirst-trap de influencer): el sujeto **mira a la cámara**, retrato de medio cuerpo, **cara protagonista + décolleté abajo**, **una sola mano en cuadro**, anclado `a single woman alone`. Fuentes: `.agent/skills/ele-outfit-engine/references/dna_v3_5.md` · `pose_repertoire_v5.md` §6 · `.agent/rules/06-generacion-imagenes.md` §5 y §9.
+>
+> ⛔ **PROHIBIDO en el positive:** `first-person POV` · `point of view` · `looking down over own body` · `overhead` · `selfie` · `phone`. **El generador los lee LITERAL** y sale una cámara mirándose el propio cuerpo hasta los tacones, no el retrato. Auto-memoria: `feedback_pov_retrato_ig_no_literal`.
+>
+> 🩹 **Mi error, no un cambio de canon:** el 05/08 escribí este slot para Anaïs como *"vista desde abajo, como si el lector estuviera arrodillado ante ella"* — que es exactamente el point-of-view literal que el canon prohíbe desde junio. Ele nunca lo tuvo así. Corregido acá.
+
+| # | Gesto | Variación |
+|---|---|---|
+| P1 | Lean-In Thirst-Trap | `a sensual Instagram-influencer portrait of a single woman alone leaning in toward the lens, a single hand in her honey blonde waves, a smoldering half-lidded gaze straight into the camera, the face dominant in the upper-middle frame with the décolleté below` |
+| P2 | Low-Angle Up | `a sensual Instagram-influencer portrait of a single woman alone shot from just below her eye line, a single hand resting flat at the collarbone, her chin lifted and her gaze coming down into the lens, the face dominant with the décolleté below` |
+| P3 | Chin-on-Hand Coy | `a sensual Instagram-influencer portrait of a single woman alone, her chin resting on the back of a single hand with the elbow propped, a coy half-lidded gaze up into the lens, the face filling the upper frame` |
+| P4 | Over-Shoulder Glance | `a sensual Instagram-influencer portrait of a single woman alone turned back over one bare shoulder toward the lens, a single hand drawing the hair away from her cheek, her gaze locked into the camera` |
+| P5 | Lip-Touch Close | `a sensual Instagram-influencer portrait of a single woman alone, a single fingertip drawing the lower lip down a fraction, her gaze smouldering directly into the lens, the face dominant and the décolleté in the lower frame` |
+| P6 | Reclined Up-to-Camera | `a sensual Instagram-influencer portrait of a single woman alone reclining with her head tipped back toward the camera above her, a single hand resting at her throat, her gaze up into the lens` |
+| P7 | Hand-on-Chest Up-Gaze | `a sensual Instagram-influencer portrait of a single woman alone shot from just above her eye line, a single hand laid flat over the heart, her eyes raised into the lens, the face dominant in the frame` |
 
 ---
 

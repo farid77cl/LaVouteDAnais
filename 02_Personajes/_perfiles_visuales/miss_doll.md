@@ -78,8 +78,14 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 | 2 | Back View | Espalda Total | `back_view` | Espalda completa a cámara, arquitectura de corsé visible, mirada por sobre el hombro |
 | 3 | Seated | Monarch Throne | `seated` | Sentada, piernas 60-90°, codos en reposabrazos, barbilla ladeada |
 | 4 | Side Profile | Tres Cuartos Arrogante | `side_profile` | Giro ¾ hacia cámara, peso en una cadera, mirada fría de perfil |
-| 5 | **Glacial Command** *(slot Ditzy de Ele, renombrado — no encaja una mirada vacía en su dominancia)* | Close Up Fría | `glacial_command` | Plano medio/primer plano, mirada fría de mando directo a cámara, cero calidez |
-| 6 | POV | Command POV *(nueva — 05/08)* | `pov` | Cámara a la altura de un sub arrodillado mirando hacia arriba; su mirada fría cae sobre el lente desde ese ángulo |
+| 5 | **Glacial Command** *(slot Ditzy de Ele, renombrado — no encaja una mirada vacía en su dominancia)* | Close Up Fría | `glacial_command` | **WAIST-UP** (cintura arriba): rostro grande y nítido + pecho prominente en el frame inferior + detalle del outfit superior legible · **UNA sola mano** en cuadro haciendo el gesto · **mirada FUERA de cuadro**, fría e indiferente |
+| 6 | POV | Command POV *(nombre histórico)* | `pov` | **RETRATO SENSUAL DE INSTAGRAM** (thirst-trap de influencer): **mira a la cámara**, medio cuerpo, cara protagonista + escote abajo, **una sola mano**, `a single woman alone`. **NO es point-of-view literal** |
+
+> 🎥 **Repertorio de cámara — dueño único:** [`01_Principales/miss_doll/repertorio_camara_miss_doll.md`](../01_Principales/miss_doll/repertorio_camara_miss_doll.md). 7 variaciones para los slots 5 y 6, con rotación por número de look.
+>
+> 🩹 **Corregido 12/08/2026 — era una desviación mía, no un cambio de canon.** Estas dos filas decían *"plano medio/primer plano, mirada fría de mando directo a cámara"* y *"cámara a la altura de un sub arrodillado"*. **Ditzy y POV están definidos desde el 28/05 y el 09/06/2026** (reforzados el 30/06 y el 02/08) en `.agent/rules/06-generacion-imagenes.md` §5 y §9, `pose_repertoire_v5.md` §5-§6 y `dna_v3_5.md`. Al estandarizar las 7 poses el **05/08** los escribí mal, y el POV arrodillado es exactamente el *point-of-view literal* que el canon prohíbe desde junio porque el generador lo lee literal.
+>
+> 🔴 **PENDIENTE:** los otros cinco slots de Miss Doll están **clonados al 79-83%** entre sus 14 looks (medido 12/08). Es el mismo defecto que la Ama detectó en el Ditzy de Anaïs, pero en los siete slots. **No cuesta nada todavía: está 0/98 materializado.** Falta escribir sus 7 variaciones para los slots 1, 2, 3, 4 y 7.
 | 7 | Odalisque | Throne en Suelo con Crop | `odalisque` | Suelo, piernas en V abierta, codos en rodillas, crop en mano |
 
 - **Total por look:** 7

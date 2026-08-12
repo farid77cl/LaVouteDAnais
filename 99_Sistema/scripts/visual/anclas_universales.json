@@ -50,12 +50,24 @@
       "texto": "the footwear clearly visible and exactly as described above — the same heel type and height, the same platform, the same material, colour and toe shape — never swapped for flats, block heels, wedges or any other shoe style"
     },
     "POV_NO_DEVICE": {
-      "porque": "El encuadre POV invita al generador a meter un teléfono y convertir la toma en selfie.",
-      "texto": "the lens itself is the viewer's own eye at that height, her hands empty and nothing held up between her face and the camera, no phone, no smartphone, no device, no screen, no selfie"
+      "porque": "El slot POV NO es un punto de vista literal: es un retrato de influencer sensual de Instagram/RRSS (Ama 12/08/2026 — la pose evolucionó y conservó el nombre). Leerlo literal es la causa registrada de que el generador meta un teléfono y lo convierta en selfie.",
+      "texto": "shot by a photographer with a real camera and never by the subject herself: no phone, no smartphone, no device, no screen and no selfie anywhere in frame, and her hands never raised as though holding a camera"
     },
     "SINGLE_SUBJECT": {
       "porque": "El POV en primera persona ha generado DOS mujeres en el cuadro.",
       "texto": "a single woman alone in the frame"
+    },
+    "SINGLE_HAND_CLOSE": {
+      "porque": "Fix manos close-up (Ama 30/06/2026): en Ditzy y POV el encuadre es cerrado y solo cabe UNA mano. Forzar dos metía una mano fantasma o deformada. Canon: `.agent/rules/06-generacion-imagenes.md` §5 y `pose_repertoire_v5.md` §5-§6.",
+      "texto": "exactly one hand visible in the frame doing the gesture described, the other arm resting down along her body and out of shot, with no second hand and no extra or malformed fingers"
+    },
+    "GAZE_OFF_LENS": {
+      "porque": "Diferenciador duro Ditzy≠POV (Ama 02/08/2026: 'salen casi iguales el 90%'). Ambas eran close-up de cara con mano cerca del rostro y mirada half-lidded. Regla: el slot 5 mira FUERA de cuadro, el slot POV mira AL lente. Canon: `.agent/rules/06-generacion-imagenes.md` §9.",
+      "texto": "her gaze drifting away past the edge of the frame and never at the lens, the eyes unfocused into the middle distance"
+    },
+    "GAZE_TO_LENS": {
+      "porque": "La otra mitad del diferenciador Ditzy≠POV (Ama 02/08/2026): el retrato de influencer mira SIEMPRE a la cámara.",
+      "texto": "her gaze locked directly into the lens, the face dominant in the upper-middle of the frame with the décolleté below it"
     }
   },
 
@@ -66,14 +78,25 @@
 
   "slots_universales": ["standing", "back_view", "seated", "side_profile", "slot5", "pov", "odalisque"],
 
+  "significado_de_los_slots": {
+    "_nota": "Qué es cada slot de cámara, para las TRES muñecas. Dos de los nombres son históricos y engañan: la pose evolucionó y el nombre se quedó (directiva Ama 12/08/2026). Un personaje puede renombrar su slot y cambiar la expresión, pero NO el propósito de encuadre.",
+    "standing": "Cuerpo entero de pie, de frente a cámara. Se ve el outfit completo y el calzado.",
+    "back_view": "Espalda a cámara. Se ve la arquitectura trasera de la prenda y el calzado.",
+    "seated": "Sentada, con el peso íntegro en el asiento nombrado.",
+    "side_profile": "Perfil o tres cuartos lateral. Se lee la silueta.",
+    "slot5": "DITZY — definido por la Ama el 28/05/2026 y redefinido el 09/06/2026; NO es una definición nueva. Plano medio WAIST-UP (de la cintura hacia arriba): rostro grande, nítido y detallado + busto/décolleté prominente en el frame inferior + detalle del outfit superior legible. UNA sola mano en cuadro haciendo el gesto (fix 30/06). Mirada FUERA de cuadro (diferenciador 02/08). NO plano americano knee-up, NO cuerpo entero. El nombre 'ditzy' es histórico: describía la expresión bimbo original de Ele, no el encuadre. Canon: .agent/rules/06-generacion-imagenes.md §5 y §9 · .agent/skills/ele-outfit-engine/references/pose_repertoire_v5.md §5.",
+    "pov": "POV — definido por la Ama el 09/06/2026 y reforzado el 30/06/2026; NO es una definición nueva. RETRATO SENSUAL DE INSTAGRAM (thirst-trap de influencer): el sujeto MIRA A LA CÁMARA, retrato de medio cuerpo, cara protagonista + décolleté abajo, UNA sola mano en cuadro. NO es un point-of-view literal. PROHIBIDO en el positive: 'first-person POV', 'point of view', 'looking down over own body', 'overhead', 'selfie', 'phone' — el generador los lee LITERAL. Anclar siempre 'a single woman alone'. Canon: .agent/skills/ele-outfit-engine/references/dna_v3_5.md · pose_repertoire_v5.md §6 · .agent/rules/06-generacion-imagenes.md §5 y §9.",
+    "odalisque": "Figura baja: reclinada o sentada en el suelo según el canon del personaje. En Anaïs el encuadre es APAISADO por decisión de la Ama (12/08/2026), no es defecto."
+  },
+
   "mapa_por_defecto": {
     "_todos": ["SINGLE_FRAME", "GARMENT_CONSISTENCY"],
     "standing": ["ANATOMY_FULL", "FRONT_ANCHOR"],
     "back_view": ["ANATOMY_FULL", "BACK_ANCHOR", "FOOTWEAR_ECHO"],
     "seated": ["ANATOMY_FULL", "SEAT_ANCHOR"],
     "side_profile": ["ANATOMY_FULL"],
-    "slot5": ["ANATOMY_CLOSE"],
-    "pov": ["ANATOMY_FULL", "SINGLE_SUBJECT", "POV_NO_DEVICE"],
+    "slot5": ["ANATOMY_CLOSE", "SINGLE_HAND_CLOSE", "GAZE_OFF_LENS"],
+    "pov": ["ANATOMY_CLOSE", "SINGLE_HAND_CLOSE", "SINGLE_SUBJECT", "GAZE_TO_LENS", "POV_NO_DEVICE"],
     "odalisque": ["ANATOMY_FULL", "RECLINE_ANCHOR", "LEVEL_HORIZON", "FOOTWEAR_ECHO"]
   },
 
