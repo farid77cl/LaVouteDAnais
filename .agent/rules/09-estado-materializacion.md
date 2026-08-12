@@ -135,7 +135,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 0/98 materializado |
+| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 6/98 materializados (L01: 1/7 · L02: 5/7) |
 | **Estado Actual** | Prompts listos y verificados contra el parser de la app. Próximos looks on-demand, mismo ritmo que Ele/Anaïs (no se regenera el roster legacy de una vez) | 🟢 |
 
 > 🩹 **Corrección 12/08/2026 — los 98 prompts NO eran generables.** Estaban escritos con la notación del motor **literal** (`[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]`), sin `Ubicacion`, sin `Tags` y con el negativo bajo una etiqueta que el parser de LV-App no reconoce. Medición sobre el archivo commiteado, parseándolo con el mismo algoritmo que la app: **98/98 con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos expandidos + anclas anti-defecto + contrato de archivo (regla 11 §9ter). Verificable: `python 99_Sistema/scripts/visual/lint_prompts_personaje.py miss_doll`.
