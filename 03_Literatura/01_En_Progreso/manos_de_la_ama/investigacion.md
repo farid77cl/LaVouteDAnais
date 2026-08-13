@@ -11,6 +11,8 @@
 
 - **Qué tiene que sentir el lector:** *"quiero que el lector sienta la femenizacion en mis manos, atravez de ele, que sienta el morbo contante"*
   La voluntad y la dirección son de Anaïs, pero la ejecución física pasa a través de Ele, alimentada por su **morbosidad exuberante**, excitación abierta y actitud caliente.
+- **Título Definitivo:** «Cartas a Anaïs: Obtuve lo que pedí»
+- **Sinopsis Oficial:** *"Le escribí a La Voûte d'Anaïs confesando mi matrimonio sin deseo y rogando entregar el control de mi vida. Obtuve exactamente lo que pedí... pero jamás imaginé la sorpresa que me esperaba al cruzar esa puerta."*
 - **Dirección emocional del público:** Dirigido a los lectores insatisfechos que fantasean con entregar el control. La historia comienza con un intercambio de correos entre el sujeto y Anaïs tras leer sus relatos, confesando su matrimonio frío sin sexo y su necesidad de sometimiento.
 - **Temperatura y Clímax Sexual:** El pico sexual absoluto se alcanza con el entrenamiento prostático/strapon ejecutado por Ele (orgasmo anal retenido por la castidad), mientras que la llegada de la esposa actúa como el epílogo cargado de resolución doméstica y dominación conyugal.
 
