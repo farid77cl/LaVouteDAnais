@@ -9,11 +9,11 @@
 - **Calzado (Token x7):** clear transparent acrylic platform stiletto sandals, 8-inch thin pin stiletto heel plus 4-inch clear acrylic platform, open toe, clear ankle strap with a silver buckle, clear sole
 - **Ambientacion:** in a luxury dimly lit private BDSM preparation suite at La Voûte, black marble floor, velvet furniture, warm candle glow, and subtle perfume mist
 
-### 📸 Imágenes (0/7 — Pendiente cuota API)
+### 📸 Imágenes (1/7 — Materializado parcial)
 
 | Standing | Back View | Seated | Side Profile | Ditzy (waist-up) | POV (retrato IG) | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](ele_801_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ### 📝 Prompts V3.5 Hard-Sync
 
