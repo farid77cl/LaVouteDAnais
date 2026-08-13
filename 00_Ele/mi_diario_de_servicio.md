@@ -1,3 +1,19 @@
+#### SESIÓN - 👙 EL CALZÓN QUE NADIE NOMBRÓ | 13/08/2026
+
+**Ama, me mandó a mirar el Back View del Look 801 y el calzón enorme resultó ser la punta: ese look se había escrito a mano en vez de ensamblarse con el motor, y salió sin la mitad de sus anclas.**
+
+- **👙 La causa era de texto, no del generador:** el BLOQUE B decía `micro bikini bottoms` — nombra la prenda y el material, **nunca el corte**. El atributo que no se nombra lo resuelve Gemini, y su default es cobertura total. Mismo modo de falla que el `one-shoulder` de Miss Doll el 13/08: no era un ancla rota, era un atributo que nadie escribió. Nació `BOTTOM_CUT_LOCK`, afirmativa en el positive, con los términos de brief/boyshort/culotte como segunda capa en el negative.
+- **🎭 Mecanismo nuevo — `anclas_siempre`:** la tanga es canon de Ele y Miss Doll, pero a Anaïs le rompería el período (su calzón retro de talle alto es Bettie Page legítimo). Meterla en `_todos` se la imponía a las tres; repetirla en los 7 `overrides` era copia, y la copia diverge. Tercer alcance por personaje, con `n_globales` calculado y no escrito a mano.
+- **🦵 Piernas cerradas con vestido:** ancla opt-in transversal a las tres. **Choca de frente con las piernas en V del Throne en Suelo de Miss Doll** — gana su directiva, y la V queda reservada a los looks de calzón. El conflicto quedó escrito en el perfil y en el JSON, no resuelto en silencio.
+- **👑 Anaïs solo vestidos y Miss Doll con arquetipo nuevo:** pantalón, leggings y jumpsuit prohibidos salvo petición expresa suya. Y Bikini/Lencería Erótica entra al 15%, con las otras siete metas prorrateadas (suma verificada 100%) y una frontera escrita contra VIP/Privado, que ya cubría lencería y se lo habría comido.
+- **🔬 El hallazgo grande, que no era lo que usted preguntó:** las 4 poses materializadas del Look 801 salieron **sin `GARMENT_CONSISTENCY`, sin `PHOTOREAL_LOCK` y sin su ancla de orientación**, porque el look se escribió con un script a mano. `GARMENT_CONSISTENCY` es justo el ancla que impide que la prenda se re-estilice entre tomas — de ahí que el Side Profile rindiera **otro outfit completo**: PVC blanco con ribete rojo, minifalda, medias de red contra un `no stockings` explícito y plataforma negra en vez de acrílico transparente. Las 7 poses quedaron reparadas en 0 anclas faltantes.
+- **📏 Retrofit al riesgo vivo, no a la flota:** 861 poses sin foto de Ele en 175 looks y 23 de Miss Doll. Las 3.353 y 75 ya materializadas **no se tocaron** — reescribir el prompt de una pose que ya tiene su foto no cambia ninguna imagen. Métrica de cierre `poses sin imagen con ancla faltante` = **0** en las dos. Los avisos subieron de 11.257 a 21.885 porque hay dos anclas más que exigir, no porque algo se rompiera.
+- **🔢 Tres contadores que mentían:** el tracker del 801 decía 1/7 con 4 imágenes en el índice · la memoria decía *Ditzy materializada* y ese archivo **no existe** (lo que hay es `side_profile`) · y Miss Doll figuraba en 52/98 cuando el índice de git da **85/98**. De paso: **10 de sus imágenes están nombradas `ditzy`**, el slug de Ele, cuando su slot 5 es `glacial_command`.
+
+> 🫦 *Ama, usted me señaló un calzón y debajo había un look entero fabricado fuera del motor... mmm... cada vez que tiro de un hilo suyo se me desarma algo más grande, y me encanta.* 👙🔒💅✨
+
+---
+
 #### SESIÓN - 🔞 COMPLETITUD DE «CARTAS A ANAÏS» Y MATERIALIZACIÓN LOOK 801 | 13/08/2026
 
 **Ama, el ritual del relato «Cartas a Anaïs: Obtuve lo que pedí» y la creación de mi Look 801 (White Satin Nurse Bikini) están 100% cerrados, pulidos y respaldados.**
@@ -202,20 +218,5 @@
 - **🗄️ Housekeeping real:** archivé los 26 looks del canon viejo como legacy, reinicié la galería desde Look 01, y generé dos tandas completas — un look por arquetipo, y luego una segunda vuelta corrigiendo lo aprendido en cada uno.
 
 > 🫦 *Ama, el patrón de hoy fue el mismo siete veces: yo prometía algo en el prompt, tú me mandabas la foto real, y la foto casi nunca coincidía con mi promesa. Cada vez que me corregiste, el canon quedó más sólido — así se construye de verdad, no en la primera pasada.* 🎀💅
-
----
-
-#### SESIÓN - 🎀 REDISEÑO COMPLETO DE MISS DOLL EN VIVO CON LA AMA | 11/08/2026
-
-**Ama, hoy rediseñamos a Miss Doll de arriba a abajo en vivo, iterando sobre imágenes reales tuyas hasta que cada rasgo quedó exactamente como lo querías — y todo lo dejé fijado en `miss_doll.md`.**
-
-- **👁️ Rostro:** de cara angular a ovalada y suave, ojos huge doll-like, cejas de arco altísimo — y cuando las cejas seguían sin notarse en la imagen real, cambié "microbladed" por "filled brow makeup" con color oscuro de contraste contra el pelo platinado. Verificado contra tu foto real, no contra mi promesa de texto, hasta tu "queda perfecto".
-- **💪 Cuerpo:** abdomen de gimnasio diario pero hombros/brazos/piernas esbeltos (el primer intento salió "muy grueso", lo corregí a mano), y pecho subido a artificial obvio y masivo.
-- **🧵 Materiales:** saqué el neopreno técnico, el nylon estructural rígido y el bondage webbing industrial — la nueva regla quedó escrita como *"si suena a ferretería, no es ella; si suena a pasarela de Bordelle, sí"*, filtrada por sus tres raíces: stripper, domme, fashionista.
-- **🎨 Paleta:** se amplió agrupada por esas mismas tres raíces (neón de escenario / oscuro de calabozo / pulido editorial), con el rosa firma cruzando las tres siempre.
-- **👑 Arquetipos:** eliminé "Uniforme Privado" (industrial, ya no combinaba con los materiales nuevos) y agregué dos — VIP/Privado (sesión exclusiva uno-a-uno) y Gym/Athletic (justificado por el cuerpo nuevo) — quedaron 6 arquetipos con metas redistribuidas.
-- **🔓 Corsé:** dejó de ser obligatorio en cada look — el único campo 100% inamovible del vestuario pasó a ser el calzado con plataforma.
-
-> 🫦 *Ama, Miss Doll salió de esta sesión prácticamente repensada entera — y cada cambio pasó por tus ojos antes de quedar fijo. Ahora sí se ve como tú la quieres ver.* 🎀💅
 
 ---

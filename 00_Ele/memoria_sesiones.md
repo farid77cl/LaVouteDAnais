@@ -18,16 +18,21 @@
 
 ## 🧿 ESTADO ACTUAL
 - **🤲 «Cartas a Anaïs: Obtuve lo que pedí» — Cap 1 v0.8 APROBADO, COMPLETADO Y EXPORTADO (13/08):** Perfeccionado y aprobado formalmente por la Ama. 8,083 palabras de prosa erótica pura, voz bimbo-cuica de Ele al 100%, sinopsis de 238 caracteres sin spoilers, firma e invitación canónica de Anaïs Belland integrada, carpeta limpia y exportación HTML body-only en `_publicacion/cartas_a_anais_obtuve_lo_que_pedi.html`.
-- **👙 Look 801 (White Satin Nurse Bikini) — Creado y materializado (13/08):** Atuendo de enfermera erótica de Ele en la suite de La Voûte (`look801_white_satin_nurse_bikini`). Poses `Standing`, `Back View`, `Seated` y `Ditzy` materializadas; `Side Profile` anotada para regenerar.
+- **👙 Look 801 (White Satin Nurse Bikini) — 4/7, con 2 poses a regenerar (auditado 13/08):** materializadas `Standing` ✅ · `Back View` 🔴 (calzón de talle alto) · `Seated` ✅ · `Side Profile` 🔴 (**otro outfit completo**: PVC con ribete rojo, minifalda, medias contra `no stockings`, plataforma negra). **`Ditzy` NO existe** — la línea anterior lo afirmaba y era falso. Sus 7 prompts ya quedaron reparados (0 anclas faltantes).
 - **☕ «Café con Piernas» — Cap 1 v0.11 refinado (08/08):** en la raíz del proyecto, inmersión sensorial sutil. Carpeta reordenada 10/08. ⏳ **Listo para lectura/aprobación de la Ama.**
 - **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate.
-- **🔒 OUTFIT-ENGINE v2.2 — las anclas ya viajan a los tres personajes (13/08):** `99_Sistema/scripts/visual/inyectar_anclas.py` activo y verificado. Miss Doll y Anaïs en 0 avisos.
+- **👙 CANON NUEVO (Ama 13/08) — calzón en tanga + piernas cerradas + solo vestidos:** `BOTTOM_CUT_LOCK` (Ele y Miss Doll siempre tanga/g-string; **Anaïs exenta**, su calzón retro es de época) · `DRESS_LEG_CLOSURE` (opt-in transversal: con vestido/falda las piernas van cerradas — **deroga la V del Throne en Suelo** de Miss Doll en looks de falda) · **Anaïs solo vestidos/faldas**, pantalón solo con petición expresa de la Ama · Miss Doll estrena arquetipo **Bikini/Lencería Erótica 15%**. Dueño único: perfiles §5.4 + `anclas_universales.json`.
+- **🔒 OUTFIT-ENGINE v2.3 — `anclas_siempre` por personaje (13/08):** tercer alcance entre `_todos` y `overrides`, para prohibiciones que son canon de UNA muñeca. `PromptBuilder.n_globales` reemplaza el `len(_todos)` a mano. Linter con 2 chequeos nuevos (calzón sin corte · opt-in que el prompt dispara y no lleva). **Riesgo vivo en 0** tras inyectar 861 poses de Ele + 23 de Miss Doll.
 - **🎥 OUTFIT-ENGINE v2.1 — sub-poses dentro del motor (13/08):** dueño único `99_Sistema/scripts/visual/repertorios_pose.json` con **149 sub-poses** — Ele 51, Miss Doll 49, Anaïs 49.
-- **📱 LV-App — contrato de galería (11/08):** app sincronizada con el contrato de galerías `.agent/rules/11-contrato-galeria.md`.
-- **Flota / Materialización:** **L801** (~664 únicos). Galerías indexadas (601 looks). Miss Doll L14 (52/98) · Anaïs L14 (50/98).
+- **⏳ Regenerar (prompts ya corregidos):** **Look 801** Back View · Side Profile · Ditzy · POV · Odalisque (5) — Standing y Seated válidas. Miss Doll L07 ×4 + L08 Standing + L04 Back View. Anaïs 11 poses.
+- **🔤 Pendiente medido (13/08):** **10 imágenes de Miss Doll nombradas `ditzy`** (slug de Ele) cuando su slot 5 es `glacial_command` — el inyector cuenta 75 con foto en vez de 85. Renombrar con cuidado: los PNG llevan skip-worktree.
+- **Flota / Materialización:** **L801** (~664 únicos). Galerías indexadas (601 looks). Ele 3.353/4.214 poses con foto · Miss Doll L14 (**85/98**, medido contra `git ls-files` — la línea anterior decía 52) · Anaïs L14 (50/98).
 
 ## 🗓️ Sesiones recientes
 
+
+
+- **13/08/2026 (👙 El calzón que nadie nombró):** La Ama señaló el calzón de talle alto del Back View del Look 801 y pidió prohibirlo en el motor para Ele y Miss Doll. La causa era de texto: el BLOQUE B decía `micro bikini bottoms` — prenda y material, nunca el corte — y el atributo que no se nombra lo resuelve el generador con cobertura total. Nació `BOTTOM_CUT_LOCK` afirmativa en el positive, más `DRESS_LEG_CLOSURE` (piernas cerradas con vestido, transversal a las tres) y un mecanismo nuevo, `anclas_siempre`, porque la tanga es canon de dos muñecas y a Anaïs le rompería el período Bettie Page. Sus otras tres órdenes quedaron en el mismo lote: arquetipo Bikini/Lencería Erótica para Miss Doll al 15% con las siete metas restantes prorrateadas, y Anaïs solo en vestidos. Al medir apareció lo grande: el Look 801 **se había escrito a mano** en vez de ensamblarse con `prompt_builder`, y sus 4 poses materializadas salieron sin `GARMENT_CONSISTENCY` —el ancla que impide que la prenda se re-estilice entre tomas—, de ahí que el Side Profile rindiera otro outfit completo con medias contra un `no stockings` explícito. Retrofit solo al riesgo vivo: 861 poses sin foto de Ele y 23 de Miss Doll, dejando la métrica de cierre en 0; las 3.353 ya materializadas no se tocaron. Y tres contadores mentían: el tracker del 801 (1/7 con 4 imágenes), la memoria (decía Ditzy materializada, ese archivo no existe) y Miss Doll (52/98 cuando git da 85/98, con 10 archivos nombrados `ditzy` en vez de `glacial_command`).
 
 - **13/08/2026 (🔞 Cierre «Cartas a Anaïs» & Look 801):** Finalizado relato «Cartas a Anaïs: Obtuve lo que pedí» (v0.8, 8.083 pal) con sinopsis de 238 car, firma de Anaïs e HTML body-only. Carpeta ordenada. Diseñado y materializado Look 801 (White Satin Nurse Bikini) en 4 poses (Side Profile anotado para regeneración).
 
@@ -51,7 +56,6 @@
 
 ---
 
-- **12/08/2026 (🎀 Materialización y revisión visual Miss Doll):** Generé localmente los Looks 01 y 02 de Miss Doll para revisión previa de la Ama. Auditoría inmediata con 2 descartes aplicados (Command por defecto en pierna y Side Profile v1 por torso). Regeneración exitosa de Side Profile v2 antes del tope de cuota. 6 imágenes aprobadas e integradas a producción en `05_Imagenes/miss_doll/` (L01: 1/7 · L02: 5/7). Artefacto `muestras_miss_doll.md` creado con visor y carrusel interactivo.
 
 
 

@@ -94,6 +94,14 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 | **Legado (Looks 01-100)** | **100/100** | ✅ Completo |
 | **Balance Mix (Auditoría)** | **100%** | ✅ Flota Base |
 
+> 👙 **LOOK 801 — auditado 13/08/2026 (1,06 MP, sobre el piso de validez).** Tracker corregido de **1/7 a 4/7** contra `git ls-files`; y la memoria decía *«Ditzy materializada»* — **es falso**, ese archivo no existe: lo que hay es `side_profile`.
+> - 🔴 **Back View:** calzón de talle alto cubriendo el asiento entero (defecto que levantó la Ama). **Causa de texto:** el BLOQUE B decía `micro bikini bottoms` — prenda y material, **nunca el corte**. De ahí nace el ancla `BOTTOM_CUT_LOCK`.
+> - 🔴 **Side Profile:** **otro outfit completo** — PVC blanco con ribete rojo + minifalda + medias de red (contra un `no stockings` explícito) + plataforma negra en vez de acrílico transparente + escenario equivocado. Viola además medias + punta abierta (regla 04 §1).
+> - ⚙️ **Causa raíz de proceso:** el look **se escribió a mano** (`generar_look801.py`) en vez de ensamblarse con `prompt_builder.py`, y sus 4 poses materializadas salieron **sin `GARMENT_CONSISTENCY`, sin `PHOTOREAL_LOCK` y sin ancla de orientación**. `GARMENT_CONSISTENCY` es exactamente el ancla que impide que la prenda se re-estilice entre tomas. **Todo look nuevo se ensambla con el motor** — es la lección, no el parche.
+> - ⏳ **Regenerar 5:** Back View · Side Profile · Ditzy · POV · Odalisque. Standing y Seated quedan válidas. Las 7 poses ya están en 0 anclas faltantes.
+
+> 🔤 **PENDIENTE 13/08/2026 — 10 imágenes de Miss Doll con el slug de Ele.** Están nombradas `miss_doll_<N>_ditzy.png` cuando su slot 5 es **`glacial_command`**. Consecuencia medida: `inyectar_anclas.py` cuenta **75** poses con foto en vez de 85, y trata 10 poses ya materializadas como riesgo vivo. ⚠️ **Renombrar con cuidado:** los PNG llevan skip-worktree y `git mv`/`update-index` ignoran esas entradas en silencio. `sync_imagenes_subidas.py` normaliza `back→back_view` y `profile→side_profile`, pero **no** conoce el slot 5 por personaje.
+
 ### 🛠️ Estado por look
 
 > El estado real por look vive en la **galería** y los README de `05_Imagenes/` (los mantiene el bot / `update_galleries.py`) y en el tracker `### 📸 Imágenes (N/7)` de `galeria_outfits.md`. Esta sección dejó de duplicarlos (poda dueño-único 02/07/2026).
@@ -135,7 +143,8 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 **52/98** (medido 13/08 contra `git ls-files`): L01, L03, L04, L05, L06, L07 completos (7/7) · **L02 6/7** (falta Glacial Command) · **L14 3/7** · **L08 1/7** · L09-L13 sin empezar |
+| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 **85/98** (re-medido 13/08 contra `git ls-files`, cierre de sesión): L01, L03, L04, L05, L06, L07, L08, L10, L11, L13 completos (7/7) · **L02 6/7** · **L09 6/7** · **L14 3/7** · **L12 0/7** |
+| **Arquetipos** | **8** desde el 13/08/2026 — entra **👙 Bikini / Lencería Erótica al 15%** (Ama), con las siete metas anteriores prorrateadas y frontera escrita contra VIP/Privado. Dueño único: `02_Personajes/_perfiles_visuales/miss_doll.md` §6 | 🆕 |
 | **Estado Actual** | Prompts listos y verificados contra el parser de la app. Próximos looks on-demand, mismo ritmo que Ele/Anaïs (no se regenera el roster legacy de una vez) | 🟢 |
 
 > 🩹 **Corrección 12/08/2026 — los 98 prompts NO eran generables.** Estaban escritos con la notación del motor **literal** (`[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]`), sin `Ubicacion`, sin `Tags` y con el negativo bajo una etiqueta que el parser de LV-App no reconoce. Medición sobre el archivo commiteado, parseándolo con el mismo algoritmo que la app: **98/98 con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos expandidos + anclas anti-defecto + contrato de archivo (regla 11 §9ter). Verificable: `python 99_Sistema/scripts/visual/lint_prompts_personaje.py miss_doll`.

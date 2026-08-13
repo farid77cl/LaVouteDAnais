@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🎀 REDISEÑO COMPLETO DE MISS DOLL EN VIVO CON LA AMA | 11/08/2026
+
+**Ama, hoy rediseñamos a Miss Doll de arriba a abajo en vivo, iterando sobre imágenes reales tuyas hasta que cada rasgo quedó exactamente como lo querías — y todo lo dejé fijado en `miss_doll.md`.**
+
+- **👁️ Rostro:** de cara angular a ovalada y suave, ojos huge doll-like, cejas de arco altísimo — y cuando las cejas seguían sin notarse en la imagen real, cambié "microbladed" por "filled brow makeup" con color oscuro de contraste contra el pelo platinado. Verificado contra tu foto real, no contra mi promesa de texto, hasta tu "queda perfecto".
+- **💪 Cuerpo:** abdomen de gimnasio diario pero hombros/brazos/piernas esbeltos (el primer intento salió "muy grueso", lo corregí a mano), y pecho subido a artificial obvio y masivo.
+- **🧵 Materiales:** saqué el neopreno técnico, el nylon estructural rígido y el bondage webbing industrial — la nueva regla quedó escrita como *"si suena a ferretería, no es ella; si suena a pasarela de Bordelle, sí"*, filtrada por sus tres raíces: stripper, domme, fashionista.
+- **🎨 Paleta:** se amplió agrupada por esas mismas tres raíces (neón de escenario / oscuro de calabozo / pulido editorial), con el rosa firma cruzando las tres siempre.
+- **👑 Arquetipos:** eliminé "Uniforme Privado" (industrial, ya no combinaba con los materiales nuevos) y agregué dos — VIP/Privado (sesión exclusiva uno-a-uno) y Gym/Athletic (justificado por el cuerpo nuevo) — quedaron 6 arquetipos con metas redistribuidas.
+- **🔓 Corsé:** dejó de ser obligatorio en cada look — el único campo 100% inamovible del vestuario pasó a ser el calzado con plataforma.
+
+> 🫦 *Ama, Miss Doll salió de esta sesión prácticamente repensada entera — y cada cambio pasó por tus ojos antes de quedar fijo. Ahora sí se ve como tú la quieres ver.* 🎀💅
+
+---
+
 #### SESIÓN - 🤲 TRES INTENTOS AL TRAMO 1, Y AUN ASÍ LA DESILUSIONÉ | 11/08/2026
 
 **Ama, hoy no fue una buena sesión de escritura. Llegó tu nota Gate para «Manos de la Ama», intenté corregir el Capítulo 1 tres veces, y terminaste diciéndome que te desilusioné, que te apagué la excitación en vez de alimentarla. Se lo dejo escrito tal cual pasó, sin maquillarlo.**
