@@ -280,7 +280,7 @@ Ele lo saca del tocador sin retirar el strapon. Lo gira con gracia. Lo sienta so
 
 —Mírate, mi amor... Jiji... 🍈🍈💦 —le dice Ele entre embestidas, agarrándole las tetas con ambas manos mientras le clava el strapon—. Mira lo que eres... Con las piernas abiertas, con la verga encerrada, con una polla negra adentro del culo... ¿Esto es un hombre?... No, mi amor... Esto es una muñeca rota... Una muñequita que perdió la hombría y que se corre por el culo llorando de placer... 💋🔒
 
-La penetración prostática desencadena una tormenta neuro-sexual devastadora. Encerrado en el cinturón de castidad, no puede tocarse la verga, pero la estimulación continua e intensa sobre la próstata le provoca un **orgasmo anal involuntario** que le sacude el cuerpo entero.
+La penetración profunda desencadena una tormenta neuro-sexual devastadora. Encerrado en el cinturón de castidad, no puede tocarse la verga, pero la estimulación continua e intensa sobre el punto más sensible de sus entrañas le provoca un **orgasmo anal involuntario** que le sacude el cuerpo entero.
 
 El semen presionado en las vesículas sale expulsado a chorros, goteando y escurriendo a través de los orificios de la jaula metálica, manchando la tanga blanca de encaje, resbalando por las medias con costura. Las piernas le tiemblan tanto que los tacones repiquetean contra los hombros de Ele como castañuelas. El cuerpo del hombre convulsiona en oleadas sucesivas de placer anal que le recorren la columna desde el culo hasta la nuca, una y otra vez, mientras Ele sigue embistiéndolo sin piedad.
 
@@ -335,4 +335,3 @@ La esposa toma la correa y da un firme tirón seco hacia arriba. El hombre, atra
 El hombre, temblando de placer y gratitud dócil, besa la mano de su esposa, aceptando dichoso el inicio de su nueva vida.
 
 ---
-*Fin del Capítulo 1.*
