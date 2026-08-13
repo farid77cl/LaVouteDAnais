@@ -52,11 +52,11 @@ wearing a (hot pink high-gloss neon vinyl micro halter top:1.2) with a plunging 
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -124,11 +124,11 @@ wearing a (structured hot pink high-gloss vinyl mini dress:1.2) with a dramatic 
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, cold expression, dead stare, dissociated expression, stuffed animals, plush toys, dollhouse, nursery, childlike, juvenile, kawaii, baby voice, giggling child, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (6/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look2_pink_champagne_sovereign/miss_doll_2_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look2_pink_champagne_sovereign/miss_doll_2_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look2_pink_champagne_sovereign/miss_doll_2_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look2_pink_champagne_sovereign/miss_doll_2_side_profile.png) | ⏳ Pendiente | [📸 View](../../../05_Imagenes/miss_doll/look2_pink_champagne_sovereign/miss_doll_2_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look2_pink_champagne_sovereign/miss_doll_2_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto *(recalibrada a "Confident Glamour Pose")*
 ```text
@@ -195,11 +195,11 @@ wearing a (deep oxblood high-gloss latex overbust corset:1.2) with fine visible 
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -264,13 +264,15 @@ wearing a (dusty rose high-gloss vinyl laser-cut lace-effect bralette:1.2) with 
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (6/7 real — Back View viola el "no corset", ver nota)
+### 📸 Imágenes (7/7 en disco · **6/7 útil** — ver la nota de auditoría más abajo)
 
-> ⚠️ **Auditoría 12/08/2026:** `miss_doll_4_back_view.png` muestra un **corsé oxblood completo con lace-up** — la misma prenda del Look 03 (Oxblood Session) — en vez del bralette dusty rose sin corsé de este look. El propio prompt de esta pose dice `no corset` y el **Negative Prompt del look prohíbe explícitamente `corset, waist cincher, bustier`**. Rompe la Ley de Continuidad (Bloque B debe ser idéntico en las 7 poses) y probablemente es contaminación de hilo entre sesiones de Gemini (Look 03 se generó justo antes). Pendiente: regenerar el Back View real vía app.
+> ⚠️ **Auditoría 12/08/2026:** la imagen **miss_doll_4_back_view.png** muestra un **corsé oxblood completo con lace-up** — la misma prenda del Look 03 (Oxblood Session) — en vez del bralette dusty rose sin corsé de este look. El propio prompt de esa pose dice **no corset** y el **Negative Prompt del look prohíbe explícitamente corset, waist cincher y bustier**. Rompe la Ley de Continuidad (Bloque B debe ser idéntico en las 7 poses) y probablemente es contaminación de hilo entre sesiones de Gemini (Look 03 se generó justo antes). Pendiente: regenerarla vía app.
+>
+> 🔒 *Sin backticks a propósito: el parser de LV-App confunde un nombre de archivo entre backticks con un prompt inline del slot (regla 11 §9ter). La nota del 12/08 los llevaba y hacía que el Look 04 resolviera ese slot dos veces.*
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_back_view.png) ⚠️outfit incorrecto | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_back_view.png) ⚠️ outfit incorrecto | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -335,11 +337,11 @@ wearing a (hot pink high-gloss vinyl sports bra:1.2) with fine sheer mesh side p
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -406,11 +408,11 @@ wearing a (pearl white high-gloss liquid-satin vinyl robe:1.2) loosely tied at t
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -475,11 +477,11 @@ wearing a (sculptural hot pink high-gloss vinyl structured gown:1.2) with an arc
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -546,11 +548,11 @@ wearing a (UV violet high-gloss PVC catsuit with strategic cutouts at the waist 
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look8_electric_violet_reverie/miss_doll_8_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -964,11 +966,11 @@ wearing a (hot pink high-gloss vinyl second-skin bodysuit:1.2), a (sculptural go
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (3/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look14_chrome_cathedral/miss_doll_14_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look14_chrome_cathedral/miss_doll_14_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look14_chrome_cathedral/miss_doll_14_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing — Cruel Contrapposto
 ```text

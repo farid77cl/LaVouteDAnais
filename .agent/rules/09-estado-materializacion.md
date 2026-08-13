@@ -135,12 +135,24 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 6/98 materializados (L01: 1/7 · L02: 5/7) |
+| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 **52/98** (medido 13/08 contra `git ls-files`): L01, L03, L04, L05, L06, L07 completos (7/7) · **L02 6/7** (falta Glacial Command) · **L14 3/7** · **L08 1/7** · L09-L13 sin empezar |
 | **Estado Actual** | Prompts listos y verificados contra el parser de la app. Próximos looks on-demand, mismo ritmo que Ele/Anaïs (no se regenera el roster legacy de una vez) | 🟢 |
 
 > 🩹 **Corrección 12/08/2026 — los 98 prompts NO eran generables.** Estaban escritos con la notación del motor **literal** (`[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]`), sin `Ubicacion`, sin `Tags` y con el negativo bajo una etiqueta que el parser de LV-App no reconoce. Medición sobre el archivo commiteado, parseándolo con el mismo algoritmo que la app: **98/98 con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos expandidos + anclas anti-defecto + contrato de archivo (regla 11 §9ter). Verificable: `python 99_Sistema/scripts/visual/lint_prompts_personaje.py miss_doll`.
 >
-> ⚠️ La línea de arriba decía **"1 look (Look 01)"** — quedó congelada tras la primera tanda del 11/08 mientras se generaban 13 looks más. Otro estado que envejeció hacia la mentira.
+> ⚠️ La línea de arriba decía **"1 look (Look 01)"** — quedó congelada tras la primera tanda del 11/08 mientras se generaban 13 looks más. Otro estado que envejeció hacia la mentira. *(Volvió a pasar: el 12/08 decía "6/98" con 44 ya subidas.)*
+>
+> 🔍 **AUDITORÍA VISUAL 13/08/2026 → `99_Sistema/auditoria_visual_miss_doll_20260813.md`.** Las 8 imágenes nuevas del pull (Look 07 completo + Look 08 Standing) inspeccionadas contra su prompt, con recorte ampliado ×3-×5 en cada duda. Resolución 0,80-0,97 MP, sobre el piso de validez. **La causa raíz de Anaïs NO aplica:** la cobertura del BLOQUE B es **100% en las 98** y el linter da `CRITICOS: 0` — el texto está bien y la prenda deriva igual.
+>
+> **El patrón nuevo es la asimetría:** el `architectural asymmetric one-shoulder` del Look 07 se pierde en **3 de 7 poses**, siempre en las que el torso gira o se recorta (Back View → strapless · Side Profile → dos tiras + lace-up inventado en la espalda · POV → V simétrico). `GARMENT_CONSISTENCY` nombra escote, manga, ruedo, corte y color, **pero no la asimetría ni el lado** → no la protege. Fix propuesto: ancla **`ASYMMETRY_LOCK`** en `anclas_universales.json` (no existe entre las 16 actuales), nombrando **qué hombro va desnudo**. Sin ella, regenerar el Look 07 repite la deriva.
+>
+> **Otros hallazgos:** Look 07 Odalisque salió con **dos cuffs cromados** (el BLOQUE B pide uno solo) · **Look 08 Standing salió como render 3D**, no fotografía (piel sin poros, luz de videojuego) contra `editorial realistic human skin texture` y el negative `plastic mannequin skin, doll face` — única de las 8 así, conviene regenerarla **antes** de que la app siga con sus 6 poses restantes. **⏳ 5 poses recomendadas para regenerar:** L07 Back View · Side Profile · POV · Odalisque · L08 Standing. Más el L04 Back View heredado del 12/08.
+>
+> ✅ **Cerrados sin marcar:** botas knee-high del L08 (correctas, ampliadas antes de afirmarlo) · Odalisque apaisado 1200×669 (mismo criterio deliberado que la Ama fijó para Anaïs el 12/08) · **destello ✦ de Gemini** abajo a la derecha — es marca de agua de **toda** la flota (está también en L01/L03/L05/L14), no regresión de este batch. Importa solo para RRSS: es visible sobre fondo claro.
+>
+> ✅ **Verificado y sano:** similitud de pose+setting entre los 14 looks, descontando las anclas comunes: **10-28% por slot, cero pares idénticos**. Miss Doll **no** tiene el problema de "todas las fotos iguales" que sí tenía Anaïs — su repertorio de cámara funciona.
+>
+> 🧹 **Dos arreglos de repo hechos el 13/08:** (1) el tracker `### 📸 Imágenes (N/7)` decía **0/7 en 13 de los 14 looks** con 52 imágenes reales en el índice — corregido contra `git ls-files`, con tabla enlazada donde hay archivo (`update_galleries.py` **no** toca este tracker: es manual y por eso envejece). (2) La nota de auditoría del 12/08 en el Look 04 llevaba el nombre del archivo **entre backticks**, y el parser de LV-App lo tomaba como prompt inline del slot Back View (25 chars) — el `REPLACE` lo salvaba, pero era frágil. Backticks fuera; el linter pasó de **7 avisos a 0**.
 
 ---
 
