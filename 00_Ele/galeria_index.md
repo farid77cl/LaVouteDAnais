@@ -344,7 +344,7 @@
 | **532** | Belladona | 10/06/2026 | Escort | — | satin, crystal, wetlook | 1/7 | ⏳ Pendiente |
 | **533** | Hortensia Azul | 10/06/2026 | Bikini | — | vinyl, crystal | 7/7 | — |
 | **534** | Amapola | 10/06/2026 | Pin-Up | — | pvc, leather | 2/7 | ⏳ Pendiente |
-| **535** | Datura Blanca | 10/06/2026 | Lencería | — | latex, leather | 7/7 | — |
+| **535** | Datura Blanca | 10/06/2026 | Lencería | — | latex, leather | 6/7 | ⏳ Pendiente |
 | **536** | Absenta | 10/06/2026 | Nightclub | — | satin, crystal, wetlook | 7/7 | — |
 | **537** | Lirio Tigre | 10/06/2026 | Gym | — | wetlook | 7/7 | — |
 | **538** | Dedalera | 10/06/2026 | Stripper | — | vinyl, crystal | 7/7 | ✅ Completo |
@@ -874,6 +874,7 @@
 | **530** | Diosa de Latex Liquido | 1/7 | ⏳ Pendiente |
 | **532** | Belladona | 1/7 | ⏳ Pendiente |
 | **534** | Amapola | 2/7 | ⏳ Pendiente |
+| **535** | Datura Blanca | 6/7 | ⏳ Pendiente |
 | **595** | Toxic Lime | 1/7 | ⏳ Pendiente |
 | **691** | Bubblegum Latex Bombshell | 7/7 | ⏳ Pendiente |
 | **692** | Rose Gold Metallic Vixen | 7/7 | ⏳ Pendiente |
