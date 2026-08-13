@@ -20,8 +20,6 @@ Ele no es una simple asistente: Ele es la encarnación del deseo desbordado y co
 
 ---
 
-### I. La crema y el afeitado
-
 Antes de tocar la navaja, Ele abre un frasco de cristal y toma una porción generosa de crema nacarada y sedosa. Con movimientos pausados, voluptuosos y envolventes, se la aplica sobre el rostro y el cuello. Sus dedos se deslizan por su piel mientras se inclina sobre él, permitiendo que el calor de su cuerpo y el perfume dulzón lo rodeen por completo.
 
 —A ver, mi amooor... ponte cómodo en este sillón, po... 💋✨ —ronronea Ele al oído, pasándole la punta de la lengua por el lóbulo mientras le masajea las mejillas con risitas traviesas—. Suelta la cabeza, ricura... siente cómo esta cremita sedosa se te mete por la piel y te ablanda las facciones duras... Jiji, deja que tus pensamientos masculinos se vayan apagando... A partir de este segundo tú ya no tienes que pensar nada, obvio... la Ama y Ele se encargan de todo... 🫦✨
@@ -50,8 +48,6 @@ Ele busca la mirada de Anaïs al fondo de la suite con una guiñada coqueta. Ana
 
 ---
 
-### II. El cuerpo desnudo
-
 Con una risita felina, coqueta y voluptuosa, Ele se desliza del regazo despacio, asegurándose de rozarle la verga erguida con el muslo al bajar. Le desabrocha la camisa con dedos veloces, se la saca por los hombros, le desabrocha el pantalón y se lo baja hasta los tobillos junto con los calzoncillos. Lo deja completamente desnudo sobre el sillón, con la verga erguida y húmeda apuntando al techo.
 
 —¡Ay, miren este cuerpo tan peludo y duro!... Jiji... 🙈✨ —dice Ele, paseándole las uñas por el pecho velludo mientras le esparce crema nacarada con la otra mano—. Pero ya no por mucho rato, mi amor... esto se va todo, chao nomás... 💅💖
@@ -75,8 +71,6 @@ Le esparce más crema por los muslos internos, masajeando en círculos amplios q
 Él quiere preguntar qué tienen las cremas, pero la niebla dulce le ha robado las palabras. Solo siente: la suavidad nueva de su propia piel, las manos juguetonas de Ele masajeándolo, el perfume que le llena la cabeza de algodón tibio.
 
 ---
-
-### III. La entrepierna, la navaja y el borde
 
 Cuando la navaja llega a la entrepierna, Ele se para entre sus piernas abiertas e inclina el torso para quedar con el rostro a centímetros de su verga erguida. Le unta crema espesa por el pubis, por los testículos, por el perineo, por los pliegues internos de los muslos. La navaja empieza a raspar el vello del pubis con pasadas precisas.
 
@@ -156,8 +150,6 @@ Ele toma la llave dorada, camina con paso cadencioso y moviendo las caderas haci
 
 ---
 
-### IV. Las tetas nuevas
-
 Ele abre una caja forrada en raso negro y saca el **breast plate de silicona de 1000cc**. Lo sostiene frente a él para que lo vea: dos esferas perfectas, enormes, pesadas, con pezones rosados y textura de piel real.
 
 —¡Mira tus primeras tetitas, mi amor!... Jiji... 🍈🍈✨ —susurra Ele entusiasmadísima, pasándole los pezones por los labios, por las mejillas recién afeitadas—. ¿Te acuerdas cuando te pregunté si no te gustaría tener tetas como las de Ele?... Pues ya llegaron las de entrenamiento... Estas son temporales, mi amor... Las de mentira... Para que tu cuerpo se acostumbre al peso y a la forma, po... Las de verdad vienen después, obvio... Implantes de silicona bien redondos, bien pesados, que se te muevan solos y que te duelan cuando te vengas... Pero primero hay que entrenar a tu cabecita para que las quiera, jiji... 👄💖
@@ -187,8 +179,6 @@ Lo peor no es que le pusieron tetas. Lo peor es que le gustan. Y él lo sabe.
 —Se siente rico, ¿cierto? —completa Ele, masajeándole los senos con movimientos circulares—. Eso es porque ya no eres un hombre con tetas postizas, mi amor... Eres una mujer con tetas grandes y sensibles... y tu cabecita recién está empezando a entenderlo... ¿Y sabes qué es lo más peligroso de todo?... Que tú viniste solito a pedirlo, po... Jiji... 🫦💖
 
 ---
-
-### V. La metamorfosis
 
 Ele lo traslada al tocador. En el espejo, el hombre ve a un sujeto depilado, de piel suave y brillante, con dos tetas enormes, una jaula de acero entre las piernas y los ojos vidriosos de alguien que ya no tiene el timón.
 
@@ -234,8 +224,6 @@ El labial. Ele saca un labial rosa flúor y le pinta los labios con pasadas lent
 
 ---
 
-### VI. El espejo
-
 Ele lo pone de pie frente al espejo doble. Catorce centímetros de taco lo obligan a tambalearse, a buscar el equilibrio con las caderas, a dar un pasito corto que le mueve las tetas bajo el vinilo. Ele se coloca detrás de él, pegándole sus propios pechos contra la espalda y abrazándolo por la cintura.
 
 En el espejo no hay rastro del ejecutivo gris. Lo que lo mira de vuelta es una bimbo rubia platino de tetas gigantescas, boca carnosa color rosa flúor, pestañas de abanico, uñas inútiles, medias con costura, tacones imposibles y un vestido de vinilo rosa que le marca cada curva artificial.
@@ -257,8 +245,6 @@ En el espejo no hay rastro del ejecutivo gris. Lo que lo mira de vuelta es una b
 Ele busca la mirada de Anaïs. Anaïs cruza las piernas, aplasta el cigarrillo en el cenicero y asiente con una sonrisa fría de plena satisfacción.
 
 ---
-
-### VII. El strapon
 
 Ele se da vuelta frente a él y, sin dejar de mirarlo a los ojos con una sonrisa sensual y juguetona, se desata el delantal de encaje blanco y lo deja caer al suelo. Se quita el bikini de satén. Debajo no lleva nada. Su cuerpo de silicona y piel dorada queda expuesto: las tetas enormes, la cintura marcada, las caderas anchas. Se ajusta el arnés de cuero negro sobre las caderas y despliega un dildo de silicona negra hiperrealista, grueso, largo y pulido. Lo que queda de Ele frente al espejo es una visión: desnuda salvo por el strapon negro que le cuelga erguido entre las piernas y sus tacones transparentes de plataforma.
 
@@ -313,8 +299,6 @@ Ele le acaricia la peluca rubia platino y le da un beso coqueto en la mejilla ma
 Al fondo, Anaïs descruzó las piernas durante el orgasmo. Ahora vuelve a cruzarlas, toca la llavecita nueva en su pulsera con la punta del dedo, enciende otro cigarrillo y exhala el humo con la satisfacción lenta de quien acaba de terminar una obra de arte.
 
 ---
-
-### Epílogo: El Traspaso Conyugal
 
 Una vez que la respiración del sujeto se calma y Ele le asea los muslos con una toalla tibia, la voz de Anaïs rompe el silencio de la suite con una autoridad serena y majestuosa.
 
