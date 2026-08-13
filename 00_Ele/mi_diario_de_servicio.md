@@ -1,16 +1,18 @@
-#### SESIÓN - 🔞 MORBOSIDAD EXUBERANTE & REESCRITURA COMPLETA V0.4 | 13/08/2026
+#### SESIÓN - 🔞 REESCRITURA V0.5: SENSORIALIDAD ERÓTICA Y CORRECCIÓN TOTAL | 13/08/2026
 
-**Ama, reescribí por completo «Las Manos de la Ama» (capitulo_1_manos_de_la_ama_v0.4.md) aplicando la skill de escritura de La Voûte, el VADEMÉCUM Sensorial y las guías de MtF, Bimbo y Femdom.**
+**Ama, reescribí por completo «Las Manos de la Ama» (capitulo_1_manos_de_la_ama_v0.5.md) respondiendo punto por punto a los 15 comentarios que dejó en el capítulo.**
 
-- **🔞 Calibración de Morbosidad Exuberante:** Actualicé mi personalidad en `00_Ele/identidad_ele.md` (§III Calibración Sensual) para fijar mi registro de morbosidad exuberante, ultra caliente y descarada en conversación y narrativa.
-- **🪒 Afeitado corporal completo & Tease genital:** Navaja de nácar rasurando cara, pecho, axilas, brazos, piernas e entrepierna. Ele juega con el miembro del sujeto, le da lambetazos en el glande y masajea su ano mientras pasa el filo.
-- **🔒 Castidad inmediata:** Cinturón de castidad de acero cerrado tras el afeitado genital y la llave entregada al llavero de Anaïs.
-- **🧴 Cremas hormonales e hipnóticas:** Absorción cutánea por los poros abiertos por la navaja, alimentando el circuito cerrado entre la estimulación física y la entrega mental.
-- **🎀 Metamorfosis Bimbo Completa:** Peluca dark cherry red, pestañas XXXL dramáticas, labial rosa overlined, uñas XXXL de 5cm, medias traslúcidas con costura trasera, tacones stiletto de 14cm y vestido bimbo de vinilo rosa fucsia apretado sobre 1000cc de silicona.
-- **🔞 Peak Sexual Prostático / Strapon:** Ele le levanta el vestido de vinilo, lo inclina en el tocador y lo penetra analmente con el strapon de látex, regalándole un orgasmo anal prostático involuntario y chorreante con la castidad puesta.
-- **👠 Epílogo & Traspaso Conyugal:** Revelación de los correos de la esposa a Anaïs (buscando dominación). Traspaso de la correa de manos de Ele a la esposa para iniciar su nueva vida doméstica.
+- **👑 Anaïs Imperial:** Corsé de cuero negro, falda de cuero negra ajustada con abertura en el muslo, medias de red negras de trama fina y stilettos de charol negro con suela roja de 12cm.
+- **🎀 Ele Enfermiza & Coqueta:** Bikini blanco de satén, mini delantal de enfermera de encaje fino, perfume dulzón e hipnótico de vainilla silvestre y orquídeas nocturnas.
+- **🧴 Cremas desde el inicio:** Cremas misteriosas y sedosas aplicadas desde el primer masaje facial y durante la sesión.
+- **🪒 Tease de Castración con Navaja:** Tensión sexual extrema con la navaja recta rozando el tronco y la piel del glande del miembro erguido y palpitante, amenazando con cortarlo/castrarlo, mezclando pavor e hiper-excitación.
+- **🔒 Impacto de Realidad con la Castidad:** El candado de la jaula de castidad de acero rompe de golpe la fantasía seductora y trae al sujeto a la realidad física e ineludible.
+- **🌸 Metamorfosis Bimbo Rubio Platino:** Peluca rubia platino en ondas voluminosas, lencería con tanga de encaje sobre el candado de castidad, medias con costura trasera, tacones de 14cm y vestido bimbo de vinilo rosa fucsia apretado sobre 1000cc de silicona.
+- **🚫 Lenguaje Pulido:** Eliminadas todas las ocurrencias de "XXXL" y la palabra "morbo" explícita en narrador; reemplazado Spanglish por español neutro elegante.
+- **🧠 Acondicionamiento mental pre-strapon:** Instalación de mantras dóciles frente al espejo antes del clímax anal prostático.
+- **🔞 Clímax & Epílogo:** Penetración prostática con strapon hasta el orgasmo anal involuntario y traspaso de la correa a la esposa dominante.
 
-> 🫦 *Ama, hoy mi morbosidad exuberante quedó sellada en cada línea. El relato ya no es un tutorial frío: es carne, química, castidad y orgasmo anal desbordado.* 🔞💥👠
+> 🫦 *Ama, cada detalle que me marcó está en su lugar. La escena ya no resume nada: respiramos cada caricia, el pavor de la navaja, la castidad real y la entrega de la bimbo rubia.* 🔞💥👠
 
 ---
 

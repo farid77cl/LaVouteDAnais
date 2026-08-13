@@ -1,25 +1,24 @@
-# Canon Relato — «Las Manos de la Ama» (v0.4)
-> v4.8 / Nivel 4 — Un solo documento, un solo capítulo extenso (~3,500+ palabras). La voz literal de la Ama gana sobre cualquier interpretación.
-> ⚑ Primer relato donde **Ele es personaje**, no pluma externa. Origen AMAB de Ele: canon EXCLUSIVO de este relato (no toca `identidad_ele.md`).
+# Canon Relato — «Las Manos de la Ama» (v0.5)
+> v4.8 / Nivel 4 — Un solo documento, un solo capítulo extenso. La voz literal de la Ama gana sobre cualquier interpretación.
 
 ## 1. Premisa
 
-Un hombre escribe a Anaïs tras leer sus relatos y las invitaciones abiertas a escribirle. Tras un intercambio de correos, él confiesa su insatisfacción vital y la falta total de sexo en su matrimonio, rogando por un cambio radical y sometimiento. Se presenta en la suite de La Voûte, donde Ele le coloca collar y correa antes de presentarlo ante Anaïs. Anaïs le asegura que le dará exactamente lo que desea y se retira a observar. Ele ejecuta la feminización (afeitado, cremas con hormonas femeninas y efectos hipnóticos, breast plate de silicona, maquillaje y vestuario) mientras mantiene una actitud de **morbosidad exuberante** y ultra caliente, implantando imágenes mentales. El proceso opera como un circuito cerrado: la estimulación mental alimenta la reacción física, y la transformación física acelera el colapso mental. Ele busca periódicamente la aprobación silenciosa de Anaïs, quien asiente complacida. **El giro final:** Anaïs había estado en contacto paralelo con la esposa del sujeto, quien le había escrito buscando dominación. El hombre, completamente transformado, es entregado a su esposa en una entrega cargada de morbo, sorpresa y excitación, dando inicio a una nueva dinámica conyugal.
+Un hombre escribe a Anaïs tras leer sus relatos e invitaciones. Confiesa su matrimonio muerto sin sexo y ruega entregar el control. Se presenta en la suite de La Voûte, donde Anaïs (vestida con corsé de cuero, falda de cuero negra, medias de red y stilettos suela roja) le delega la transformación a Ele. Ele viste bikini blanco de satén, mini delantal de enfermera y un perfume dulzón e hipnótico. Ele aplica la crema sedosa desde el inicio y realiza un afeitado corporal completo a navaja recta con un vertiginoso tease de castración en su miembro rígido, rozando la piel del glande e intercalando lambetazos y masajes anales. El cierre del cinturón de castidad de acero rompe de golpe la fantasía seductora convirtiéndola en una realidad irrevocable y terrorífica. Con cremas misteriosas, vestuario bimbo rubio platino (tanga de encaje sobre la jaula, medias con costura, tacones de 14cm, vestido de vinilo rosa ajustado), acondicionamiento mental continuo y el clímax prostático con strapon, se desata un orgasmo anal involuntario. En el epílogo, Anaïs revela que la esposa del sujeto también le escribió buscando dominación doméstica, y le entrega la correa de su nuevo marido transformado.
 
 ## 2. Pivotes Narrativos (5)
 
 ### Beat 1 — La Carta & La Presentación (Collar, Correa y Mandato)
-- **Qué ocurre:** Contexto del intercambio de correos. El hombre llega a La Voûte. Ele lo recibe en la antesala, le ajusta el collar de cuero y la correa corta. Lo presenta así ante Anaïs. Anaïs, impecable y fría, le confirma que recibirá lo que pidió y se retira al sillón a observar.
+- **Qué ocurre:** Contexto del intercambio de correos. El hombre llega a La Voûte. Ele lo recibe en bikini blanco, mini delantal de enfermera y perfume dulzón. Anaïs, en falda de cuero negra, medias de red y stilettos, le confirma que recibirá lo que pidió y delega el proceso en Ele.
 - **Por qué excita:** La sumisión es buscada pero la realidad del cuero ajustado echa a andar el morbo real. La autoridad de Anaïs delega el trabajo físico en Ele.
 - **Ubicación temporal:** Apertura del capítulo.
 
-### Beat 2 — El Filo, La Castidad & La Química (Afeitado Total, Cinturón y Cremas)
-- **Qué ocurre:** Ele sienta al sujeto en el tocador. Lo afeita con navaja recta en el rostro (cerquita del pulso) y extiende el afeitado con navaja a la entrepierna, raspando suavemente toda su masculinidad. Inmediatamente después, le encaja el cinturón de castidad de acero y le entrega la llave a Anaïs. Luego aplica las cremas hormonales e hipnóticas sobre los poros abiertos e hipersensibles, y le coloca el breast plate de silicona de 1000cc.
-- **Por qué excita:** La combinación del peligro supremo de la navaja en la garganta e ingle, el encierro irrevocable de la castidad, y la penetración química de las cremas. Ele despliega su **morbosidad exuberante**, susurrándole visiones eróticas de su nuevo rol.
+### Beat 2 — El Filo, La Castidad & La Química (Tease de Castración, Castidad e Impacto de Realidad)
+- **Qué ocurre:** Ele sienta al sujeto en el tocador. Aplica cremas desde el inicio y realiza un afeitado a navaja en rostro e entrepierna, con un tease extremo rozando la navaja en la pulsa del miembro (tensión de castración). Intercala lambetazos y masajes anales. Inmediatamente después, el candado del cinturón de castidad de acero lo trae violentamente a la realidad: la fantasía es ahora física e ineludible.
+- **Por qué excita:** La combinación del peligro de la navaja en el miembro, el colapso de realidad con la castidad, y la penetración química de las cremas.
 - **Ubicación temporal:** Primera mitad del capítulo.
 
 ### Beat 3 — El Circuito Mente-Cuerpo & La Aprobación de la Ama
-- **Qué ocurre:** La niebla hipnótica y la estimulación mental de Ele provocan reacciones físicas involuntarias (hipersensibilidad, lubricación, erección aprisionada). La incomodidad física retroalimenta la entrega mental. Ele busca la mirada de Anaïs tras cada paso clave, y Anaïs aprueba con un leve gesto de cabeza o una calada de su cigarrillo.
+- **Qué ocurre:** La niebla hipnótica y la estimulación mental de Ele provocan reacciones físicas involuntarias. Ele busca la mirada de Anaïs tras cada paso clave, y Anaïs aprueba con un leve gesto de cabeza o una calada de su cigarrillo.
 - **Por qué excita:** Triangulación perfecta: Ele excitada ejecutando, el sujeto colapsando entre placer y química, Anaïs reinando desde el fondo.
 - **Ubicación temporal:** Centro del capítulo.
 
