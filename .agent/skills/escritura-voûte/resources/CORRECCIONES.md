@@ -54,8 +54,16 @@
 
 ---
 
-## La Piel que Diseño — Auditoría Termómetro Cap 2
+| LP-T01 | Reporte Termómetro Cap 2 v1.1 marcó 2 déficits léxicos falsos por usar `grep` case-sensitive (omitió capitalizaciones a inicio de oración) | `reporte_termometro_v1.md` Cap 2 | Para conteos de vocabulario en auditorías usar SIEMPRE `grep -i`. Regla en MEMORIA_ERRORES § Auditoría/Conteo. | ✅ |
+
+---
+
+## Las Manos de la Ama — Capítulo 1 (v0.5 -> v0.6)
 
 | ID | Error | Texto afectado | Aprendizaje | Estado |
 |----|-------|---------------|-------------|--------|
-| LP-T01 | Reporte Termómetro Cap 2 v1.1 marcó 2 déficits léxicos falsos por usar `grep` case-sensitive (omitió capitalizaciones a inicio de oración) | `reporte_termometro_v1.md` Cap 2 | Para conteos de vocabulario en auditorías usar SIEMPRE `grep -i`. Regla en MEMORIA_ERRORES § Auditoría/Conteo. | ✅ |
+| C19 | Clímax prostático con strapon comprimido a un párrafo corto y apresurado | Cap 1 v0.5 | Clímax Comprimido (Peak Rush) prohibido — expandido en v0.6 a escena masiva multigrano. SKILL.md §VIII.7 | ✅ |
+| C20 | Fuga de meta-texto e instrucciones descriptivas ("tensión sexual insoportable:") en la narrativa | Cap 1 v0.5 | Fuga de Meta-texto prohibida — todo se demuestra sensorialmente. SKILL.md §VIII.8 | ✅ |
+| C21 | Ele actuando como enfermera/asistente técnica en vez de presencia hiper-sexual desbordada | Cap 1 v0.5 | Ele es Sexo: se sienta a horcajadas desde la barba, frota pechos, huele verga, realiza edging pre-castidad. SKILL.md §VII.9 | ✅ |
+| C22 | Vestuario bimbo y maquillaje narrado como inventario de maniquí sin degradación erótica viva | Cap 1 v0.5 | Vestuario con Degradación Erótica: Ele rompe la masculinidad en cada prenda e instala mantras. SKILL.md §VIII.9 | ✅ |
+

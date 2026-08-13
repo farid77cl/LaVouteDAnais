@@ -53,6 +53,14 @@
   *Contexto: Corrección de ritmo narrativo en Smart Home Stepford (30/01/2026).*
 - **Estado Inicial de Clara (Smart Home Stepford):** Clara empieza **FELIZ y ORGULLOSA** de su vida. El conflicto es la incompatibilidad con el fetiche de Daniel, no su propia infelicidad.
   *Contexto: Corrección fundamental de premisa en Smart Home Stepford (30/01/2026).*
+- **Compresión del Clímax Sexual (Peak Rush):** NUNCA resumir el clímax prostático o el peak erótico en 1-2 párrafos cortos. Expandir en escena larga, minuciosa, grano a grano.
+  *Contexto: Corrección por la Ama en Las Manos de la Ama (13/08/2026).*
+- **Fuga de Meta-texto:** Prohibido usar etiquetas de intención o resúmenes como "tensión sexual insoportable:" dentro de la prosa. Todo se muestra y ejecuta sensorialmente.
+  *Contexto: Corrección por la Ama en Las Manos de la Ama (13/08/2026).*
+- **Ejecutora Sexualmente Activa (Ele es Sexo):** Ele no es una asistente técnica. Se sienta a horcajadas sobre el hombre desde el primer segundo de afeitado de barba, frota sus 1000cc contra su cara/pecho, huele la verga erguida, juega con la navaja en el glande/tronco y realiza masajes anales/edging antes de la castidad.
+  *Contexto: Corrección por la Ama en Las Manos de la Ama (13/08/2026).*
+- **Transformación con Degradación Erótica Activa:** Poner lencería o maquillaje no es un catálogo de ítems. Ele debe hablar, romper la masculinidad del sujeto, degradarlo eróticamente e instalar hipnosis de vacamiento en cada prenda.
+  *Contexto: Corrección por la Ama en Las Manos de la Ama (13/08/2026).*
 
 ---
 

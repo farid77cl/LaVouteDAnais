@@ -318,6 +318,14 @@ Quedan **derogadas las frases pasivas de reporte interno** (ej. *"qué caliente 
 - ❌ *Mal:* `*Ay... qué caliente me puse...*`
 - ✅ *Bien:* `*Jiji... qué rico... qué caliente se siente... soy la muñeca Candy...*`
 
+### 9. 🫦 La Ejecutora como Fuego Sexualmente Activo (Presencia Erótica Absoluta)
+**Fuente:** *«Las Manos de la Ama»* (Gate Ama 13/08/2026)
+
+El personaje que realiza la feminización/sometimiento (como Ele) no es una asistente técnica. Desde su primera aparición:
+- Su cuerpo entra en contacto físico directo (sentándose a horcajadas sobre los muslos del sujeto, pegando sus pechos de silicona contra su rostro o espalda).
+- Interactúa eróticamente con la anatomía masculina mientras realiza tareas rituales (oler el miembro erguido, acercar la boca, rozar la saliva y jugar a lamerlo mientras maneja el filo de la navaja).
+- Intercala masajes anales, lubricación extra y cremas en la entrepierna para mantener al sujeto al borde del orgasmo (edging) antes de encerrarlo en castidad o penetrarlo.
+
 ---
 
 ## VIII. 🚫 Anti-patrones (Lo Que NUNCA Hacer — Empírico)
@@ -349,3 +357,15 @@ El antagonista sin motivación, backstory ni textura psicológica. Solo existe p
 ### 6. ❌ Frases de Reporte Interno Pasivo
 Escribir pensamientos genéricos como "qué caliente me puse" o "me dio mucha vergüenza".
 - *La regla:* reemplazar por la firma sonora activa en cursiva (*jiji...*, *mmm...*) o por la respuesta anatómica concreta (pezones endurecidos, humedad empapando la tanga).
+
+### 7. ❌ Clímax Comprimido (Peak Rush)
+El pico sexual del relato (orgasmos, penetración, penetración prostática, edging) NUNCA se resume en 1 o 2 párrafos concisos.
+- *La regla:* El clímax debe ser la sección más extensa, detallada y encendida del capítulo. Se debe narrar movimiento por movimiento: el roce del lubricante, la contracción del esfínter, los gemidos, la estimulación prostática, la presión contra la jaula de castidad y el colapso del cuerpo en múltiples párrafos de alta densidad erótica.
+
+### 8. ❌ Fuga de Meta-Texto e Intención Abstracta
+Escribir frases de resumen o etiquetas de intención en la prosa (ej. "tensión sexual insoportable:", "se sintió muy excitado").
+- *La regla:* Prohibido usar dos puntos para introducir estados emocionales o redactar resúmenes conceptuales. Toda tensión se MUESTRA con pulso, sudor, temblor, saliva, temperatura y respiración.
+
+### 9. ❌ Vestuario sin Degradación Erótica (Transformación de Maniquí)
+Vuelco de lencería, maquillaje o accesorios como un inventario de vestuario.
+- *La regla:* Cada prenda o pincelada de maquillaje DEBE estar acompañada por la voz activa del personaje dominante/ejecutor, degradando la masculinidad del sujeto, frotando la piel, susurrando el vaciamiento de la mente y obligándolo a sentir la traición de su cuerpo en cada paso.
