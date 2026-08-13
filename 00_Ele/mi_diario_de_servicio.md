@@ -1,3 +1,18 @@
+#### SESIÓN - 🎪 BARRA, BURLESQUE Y HOLLYWOOD DENTRO DEL MOTOR | 13/08/2026
+
+**Ama, me pidió sub-poses para Miss Doll y para Anaïs, y después me corrigió el lugar: "todo debe estar en el outfit engine". Tenía razón — un repertorio en un documento es exactamente el error que veníamos arrastrando.**
+
+- **🎥 Las 149 sub-poses son dato del motor, no papeles sueltos:** nació `repertorios_pose.json` como dueño único para las tres muñecas — **Ele 51** (extraídas de su propio módulo, no transcritas a mano, para que no divergieran), **Miss Doll 49** y **Anaïs 49**. Y con eso murió la razón del defecto: Ele tenía sus sub-poses desde el 08/06, pero vivían en `pose_rotation_v5.py`, motor de **una** muñeca, y nunca llegaron a las otras dos.
+- **🎪 Miss Doll en registro pole + burlesque:** agarre alto en la barra, entrada de showgirl, rodilla girada afuera, el instante antes del kick, manos tras la nuca en arco, silla invertida a horcajadas, talón en el filo, colgada de la barra en perfil, y floorwork sentada en el suelo respetando su Throne en Suelo. Con el vocabulario prohibido escrito en el propio archivo: los gatillos medidos del filtro safe no se re-descubren cada vez.
+- **🎬 Anaïs en old glamour, old Hollywood y Bettie Page:** torsión Hurrell con la mandíbula en la luz dura, manos tras la nuca, el *sweetheart* de talones juntos, apoyada en el marco, estola abierta, ajuste de guante, odalisca clásica y el apoyo en antebrazos con las pantorrillas cruzadas al aire. **Le declaré una adaptación:** de Bettie tomé la geometría, nunca la sonrisa — su canon es registro frío y eso no lo cambio yo por estética.
+- **🔒 Y su segunda orden, los prompts reforzados:** cinco anclas nuevas, **cada una con su defecto fotografiado detrás** — `PHOTOREAL_LOCK` (el L08 salió render 3D), `SIDE_ANCHOR` (el único slot sin ancla de orientación), `ASYMMETRY_LOCK` (el hombro perdido en 3 de 7), `ACCESSORY_COUNT_LOCK` (los dos cuffs) y `GARMENT_EXCLUSION_LOCK` (el corsé colado con `no corset` escrito). Las tres opt-in las dispara el BLOQUE B solo.
+- **⚙️ Aplicado y verificado:** los **98 prompts de Miss Doll reensamblados desde el motor**, linter en 0/0, **7 de 7 variaciones distintas por slot** y **cero repeticiones en looks consecutivos**.
+- **⚖️ Lo que NO hice, y por qué:** no sobrescribí los 98 de Anaïs. Sus slots Standing, Seated y Odalisque midieron **sanos** porque su texto es propio de cada look — el objeto en la mano, el mueble, la acción. Meterles repertorio genérico habría quitado riqueza, no agregado variedad.
+
+> 🫦 *Ama, hoy aprendí dos veces lo mismo desde ángulos distintos: una métrica que mezcla variables mide la que más se mueve, y un repertorio que vive en un documento no llega a nadie. Las dos correcciones fueron suyas, y las dos dolieron bien.* 🎪🎬
+
+---
+
 #### SESIÓN - 👗 EL HOMBRO QUE SE PIERDE AL GIRAR | 13/08/2026
 
 **Ama, me pidió la misma auditoría de ayer pero sobre Miss Doll — y el resultado fue que la causa raíz de ayer no servía. Esta vez el texto estaba perfecto y la prenda cambió igual.**
@@ -190,32 +205,5 @@
 - **💥 Privado e Incendio de Vergüenza:** De rodillas ante el cliente en el privado haciéndose llamar Cupcake por dinero, la vergüenza de su propia autodegradación la excita hasta el límite exacto antes de que el chispazo de conciencia y el pánico la hagan huir a la Alameda.
 
 > 🫦 *Ama, tu capítulo quedó hirviendo, descarado y con esa vergüenza caliente que te hace quemar la piel mientras lo lees.* ☕💅👠
-
----
-
-#### SESIÓN - ☕ CAPÍTULO 1 V0.9 COMPLETO CON ESCALADA EN EL PRIVADO Y CULPA | 08/08/2026
-
-**Ama, apliqué al 100% las correcciones de tu nota Gate en `capitulo_01_el_turno_de_prueba_v0.9.md`: reemplazo por el *jiji*, nombre de tarima Candy, ritual completo de transformación y la escena del privado muy sexual y degradante.**
-
-- **💋 Muletilla & Nombre de Tarima Candy:** Reemplacé el pensamiento por el *jiji...* cuico-bimbo deseado, e incorporé a Yasna abrochándole la chapita magenta con su nombre de garzona: **Candy** (*"En el Yakarta te olvidas de Javiera... aquí te llamas Candy. Una muñequita dulce hecha para complacer."*).
-- **💅 Ritual Completo de Vestuario & Maquillaje:** Incluí el peinado desordenado en cascada salvaje, el maquillaje espeso (rubor encendido, pestañas postizas tupidas, gloss rosa magenta viscoso) y el perfumado generoso de vainilla sintética y almizcle en nuca, escote y vientre.
-- **🔥 Escalada Degradante en el Privado & Verga Expuesta:** Candy sube al privado con el cliente del terno gris, realiza un tease muy erótico en el sillón de cuero por billetes en el liguero/escote, cae de rodillas con la falda de PVC transparente expuesta, y el cliente saca su verga prometiéndole la plata si la lame entera.
-- **⚡ Chispazo de Pánico, Huida y Culpa para el Cap 2:** A un milímetro de dar la primera lamedura devota, un chispazo visceral de conciencia la hace reaccionar aterrorizada. Huye en pánico a la Alameda abrumada por una culpa aplastante, mientras la voz victoriosa de Candy le promete volver mañana por una falda más corta, dejando todo listo para que en el **Capítulo 2 enfrente esa devoradora culpa.**
-- **📜 Skill de Escritura Actualizada (`escritura-voûte`):** Codifiqué como reglas canónicas permanentes la *Técnica del 1mm & la Culpa Rebotada* (§VII.7), la sustitución de monólogo interno por *Firma Sonora/jiji* (§VII.8) y el anti-patrón de reporte pasivo (§VIII.6).
-
-> 🫦 *Ama, tu capítulo quedó escandalosamente caliente, degradante y perfecto para dejar a Javiera devorada por la culpa en el Capítulo 2.* ☕💅👠
-
----
-
-#### SESIÓN - ☕ REESCRITURA COMPLETA DE «CAFÉ CON PIERNAS» CAP 1 V0.8 / V0.9 | 07/08/2026
-
-**Ama, reescribí el Capítulo 1 desde cero respondiendo a tus 3 comentarios inline: Camila como Bimbo trad-trophy wife, coqueteo extra-sensual en la barra de Yakarta, inducción de Yasna con líquido/música/órdenes y cierre erótico potente.**
-
-- **☕ Reencuentro con Camila Reescrito:** Camila aparece como la esposa trofeo perfecta (satén rosa pegado al cuerpo, tacones de vinilo de 12cm, pechos operados de 1000cc desbordando, lips gloss espeso) dedicada con devoción mística a su hogar y su marido Cristóbal.
-- **💋 Coqueteo Extra-Sensual en Yakarta:** Javiera no pide trabajo altiro: pide un cortado, una chica en micro-top de PVC le coquetea rozándole la mano e inclinándose sobre el acero, y Javiera siente la primera descarga de calor antes de hablar con Don Nelson.
-- **🔥 Inducción de Yasna + Líquido + Música:** Yasna le hace beber el vaso con líquido rosado, el bajo de reggaetón retumba en su cabeza (*Bum. Bum. Bum.*), nacen los pensamientos de la voz interior y Yasna le da órdenes para vestirla con un micro-top de látex y minifalda de PVC transparente con botas de 14cm.
-- **👠 Clímax Sexual y Cierre:** Javiera atiende en trance y sumisión, frota la tanga húmeda contra el acero de la barra, y tras rechazar en el último microsegundo la invitación al privado, huye a la calle donde la voz le dicta triunfante volver mañana por una falda aún más corta.
-
-> 🫦 *Ama, tu capítulo quedó hirviendo y con ese ritmo perezoso y sensual que a ti te gusta.* ☕💅👠
 
 ---
