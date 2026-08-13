@@ -298,8 +298,18 @@ Cinco anclas nuevas en `anclas_universales.json`, todas con su defecto fotografi
 | `ASYMMETRY_LOCK` | opt-in | El `one-shoulder` del Look 07 se perdió en **3 de 7 poses** (strapless · dos tiras + cordonería inventada · V simétrico). `GARMENT_CONSISTENCY` nombra escote, manga y ruedo — **no la asimetría ni el lado** |
 | `ACCESSORY_COUNT_LOCK` | opt-in | El Odalisque del Look 07 salió con **dos cuffs**, uno por muñeca, contra un BLOQUE B que pide `a single … cuff, no other jewelry` |
 | `GARMENT_EXCLUSION_LOCK` | opt-in | El Back View del Look 04 rindió el **corsé del Look 03** aunque su prompt decía `no corset` y su negative lo prohibía por nombre |
+| `BOTTOM_CUT_LOCK` | **`anclas_siempre` de Ele y Miss Doll** | El Back View del **Look 801 de Ele** salió con un **calzón de talle alto** tapando el asiento entero. Su BLOQUE B decía `matching white wet-satin micro bikini bottoms`: nombra prenda y material, **nunca el corte**. Mismo modo de falla que `ASYMMETRY_LOCK` — el atributo que no se nombra lo resuelve el generador, y su default es cobertura total |
+| `DRESS_LEG_CLOSURE` | opt-in, **transversal a las tres** | Directiva de la Ama: con vestido/falda/bata las piernas van **cerradas**. El repertorio de sub-poses está lleno de aperturas escritas pensando en calzón (piernas en V, rodilla girada, floorwork); al caer sobre un look de falda el generador abre igual |
 
 Las opt-in **las dispara el BLOQUE B, no el slot**: `PromptBuilder.opt_in_de(bloque_b)` las detecta y `build()` las inyecta sola. Condiciones registradas en `anclas_universales.json` → `anclas_opt_in`.
+
+### 🎭 `anclas_siempre` — anclas de canon de UN personaje (13/08/2026)
+
+Tercer alcance, entre `_todos` (las tres muñecas) y `overrides` (un slot). Se declara en `anclas_universales.json` → `personajes.<slug>.anclas_siempre` y `PromptBuilder.anclas_de_slot()` la concatena **después de `_todos`, en los 7 slots**.
+
+**Existe porque hay prohibiciones que son de un personaje y no del repo.** La tanga obligatoria (`BOTTOM_CUT_LOCK`) es canon de Ele y Miss Doll; a **Anaïs le rompería el período**, porque su Vintage Noir / Bettie Page usa calzón retro de talle alto como pieza legítima de época. Meterla en `_todos` se la impondría a las tres; repetirla en los 7 `overrides` sería copia — y la copia diverge, que es la enfermedad que este motor vino a curar.
+
+> ⚠️ **Al agregar una `ancla_siempre` hay que mover `n_globales`, no un número escrito a mano.** `build()` separa anclas globales de anclas de slot por posición; el builder ya lo calcula con la propiedad `n_globales` (= `_todos` + `anclas_siempre`). Si alguna vez vuelve a aparecer un `len(self.mapa["_todos"])` suelto en el código, es un bug esperando: el ancla del personaje se colaría al bloque de pose.
 
 ## 📂 Recursos
 

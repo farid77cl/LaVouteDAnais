@@ -159,7 +159,10 @@ def anclas_requeridas(pb, slot, prompt, con_opt_in, excluidas=()):
     """Nombres de ancla que este prompt DEBE llevar, en orden de escritura."""
     nombres = list(pb.anclas_de_slot(slot))
     if con_opt_in:
-        n_globales = len(pb.mapa.get("_todos", []))
+        # n_globales = `_todos` + las `anclas_siempre` del personaje (13/08/2026).
+        # Antes era len(mapa["_todos"]) a mano y las opt-in se colaban ANTES de
+        # BOTTOM_CUT_LOCK, desordenando el bloque global.
+        n_globales = pb.n_globales
         for n in pb.opt_in_de(prompt):
             if n not in nombres and n not in excluidas:
                 nombres.insert(n_globales, n)

@@ -29,6 +29,8 @@ VERIFICA (por personaje registrado en anclas_universales.json)
   6. Look sin `- **Ubicacion:**` / `- **Tags:**`            -> AVISO
   7. Poses duplicadas (dos slots resolviendo al mismo)      -> CRITICO
   8. Prompt sospechosamente corto                           -> AVISO
+  9. Calzon nombrado sin corte tanga/g-string (Ele/MD)      -> AVISO
+ 10. Ancla opt-in que el propio prompt dispara y no lleva   -> AVISO
 
 USO
 ---
@@ -269,12 +271,23 @@ def auditar(slug, cfg, verbose=False):
                 if len(pr) < 600:
                     avisos.append("[AVISO]  %s / %s: prompt de %d chars (sospechoso: "
                                   "ADN+outfit+anclas no baja de ~1.500)" % (et, pose, len(pr)))
+                # Calzon sin corte declarado (Ama 13/08/2026): la causa raiz del
+                # calzon de talle alto del Look 801 no fue una ancla ausente sino
+                # un BLOQUE B que nombra la prenda y no su corte.
+                if "BOTTOM_CUT_LOCK" in pb.anclas_siempre and pb.calzon_sin_corte(pr):
+                    avisos.append("[AVISO]  %s / %s: nombra calzon SIN declarar corte "
+                                  "tanga/g-string (BOTTOM_CUT_LOCK)" % (et, pose))
                 slot = slots_por_nombre.get(pose)
                 if slot:
                     for nombre_ancla in pb.anclas_de_slot(slot):
                         frag = pb.anclas[nombre_ancla]["texto"][:45]
                         if frag not in pr:
                             avisos.append("[AVISO]  %s / %s: falta el ancla %s" % (et, pose, nombre_ancla))
+                for nombre_ancla in pb.opt_in_de(pr):
+                    frag = pb.anclas[nombre_ancla]["texto"][:45]
+                    if frag not in pr:
+                        avisos.append("[AVISO]  %s / %s: el look dispara %s (opt-in) y el ancla no esta"
+                                      % (et, pose, nombre_ancla))
 
     if verbose:
         extra = ""

@@ -46,8 +46,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 **Base (siempre):**
 ```text
-red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B), text on clothing, lettering, words, writing, embroidered name, name tag, nameplate, engraved name, name on choker, name on collar, logo text, letters on garment, "ELE", "ASSET", "PET", gloves, opera gloves, elbow gloves
+red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B), text on clothing, lettering, words, writing, embroidered name, name tag, nameplate, engraved name, name on choker, name on collar, logo text, letters on garment, "ELE", "ASSET", "PET", gloves, opera gloves, elbow gloves, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt
 ```
+> 👙🦵 **Términos de calzón y de piernas agregados el 13/08/2026** (directivas de la Ama, sobre el Back View del Look 801). Son la **segunda capa** de `BOTTOM_CUT_LOCK` y `DRESS_LEG_CLOSURE` — la barrera real son las anclas afirmativas del positive, porque Gemini ignora el negative con frecuencia (medido en este repo desde el 12/07).
 
 | Pose | Añadir al negative | Por qué |
 |---|---|---|
@@ -115,12 +116,15 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 | Estética ciber/sci-fi, industrial o gótica | penthouse, estudio minimalista, alta costura | Prohibición estética absoluta |
 | Calzado plano en cualquier contexto | stiletto ≥12cm / Pleaser ≥6" | Footwear Canon |
 | Atribución de diseñador | descripción de la prenda | Estética editorial |
+| **👙 Calzón de cobertura total** — brief de talle alto, boyshort, hipster, culotte, tap pant, bikini bottom que tape el asiento | **tanga o g-string, siempre** (delantero angosto, cintura sobre el hueso de la cadera, atrás una tira fina) | **Ama 13/08/2026**, sobre el Back View del Look 801. Ancla `BOTTOM_CUT_LOCK` en `anclas_siempre`; el corte se **nombra** en el BLOQUE B (§5.5) |
+| **🦵 Piernas abiertas usando vestido, falda o bata** | rodillas y muslos juntos · una pierna cruzada · las dos piernas plegadas a un lado si va baja | **Ama 13/08/2026, transversal a las tres muñecas.** Ancla opt-in `DRESS_LEG_CLOSURE` |
 
 ### 5.5 · Campos obligatorios de descripción
 
 **7 campos por outfit · 8 por tacón** (Canon Outfit v4.6 descriptividad). El BLOQUE B nombra:
 
 1. Cada prenda: material exacto, color exacto, corte, textura, brillo.
+1b. **👙 Corte del calzón — obligatorio nombrarlo (Ama 13/08/2026).** Cuando el look lleva calzón, bikini bottom o la entrepierna de un body/teddy/bañador, el BLOQUE B escribe el corte con todas sus letras: `thong` o `g-string`. **Prohibido dejarlo en `bikini bottoms` / `panties` a secas.** El Look 801 decía `matching white wet-satin micro bikini bottoms` —prenda y material, ningún corte— y su Back View salió con un calzón de talle alto tapando el asiento entero: el atributo que no se nombra lo resuelve el generador, y su default es cobertura total. Lo caza `lint_prompts_personaje.py` (aviso `BOTTOM_CUT_LOCK`).
 2. Calzado: modelo, altura, material, color (+ sus 8 atributos).
 3. Accesorios: cada pieza con su posición en el cuerpo y material.
 4. Fit: tensión, transparencia, arquitectura sobre el cuerpo.

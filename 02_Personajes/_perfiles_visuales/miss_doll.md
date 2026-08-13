@@ -55,9 +55,10 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **Base (siempre) — ampliado 11/08/2026 con los fallos reales detectados en el rediseño de rostro/cuerpo:**
 ```text
-bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt
 ```
 > ⚠️ El `corset/waist cincher/bustier` va en negative BASE porque el corsé ya no es obligatorio (§5.5) — si el look de hoy sí lo lleva, sacar esos 3 términos del negative de ese prompt puntual.
+> 👙🦵 **Los términos de calzón y de piernas se agregaron el 13/08/2026** (directivas de la Ama) como **segunda capa** de `BOTTOM_CUT_LOCK` y `DRESS_LEG_CLOSURE`. La barrera real son las anclas afirmativas del positive: Gemini ignora el negative con frecuencia y ya está medido en este repo. Vetar sin anclar no arregla nada.
 
 | Pose | Añadir al negative | Por qué |
 |---|---|---|
@@ -80,13 +81,15 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 | 4 | Side Profile | Tres Cuartos Arrogante | `side_profile` | Giro ¾ hacia cámara, peso en una cadera, mirada fría de perfil |
 | 5 | **Glacial Command** *(slot Ditzy de Ele, renombrado — no encaja una mirada vacía en su dominancia)* | Close Up Fría | `glacial_command` | **WAIST-UP** (cintura arriba): rostro grande y nítido + pecho prominente en el frame inferior + detalle del outfit superior legible · **UNA sola mano** en cuadro haciendo el gesto · **mirada FUERA de cuadro**, fría e indiferente |
 | 6 | POV | Command POV *(nombre histórico)* | `pov` | **RETRATO SENSUAL DE INSTAGRAM** (thirst-trap de influencer): **mira a la cámara**, medio cuerpo, cara protagonista + escote abajo, **una sola mano**, `a single woman alone`. **NO es point-of-view literal** |
+| 7 | Odalisque | Throne en Suelo con Crop | `odalisque` | Suelo, piernas en V abierta, codos en rodillas, crop en mano. **⚠️ Con vestido/falda/bata la V queda PROHIBIDA (Ama 13/08/2026):** se resuelve con las dos piernas plegadas hacia un lado (sirena), rodillas juntas. Ver §5.4 y el ancla `DRESS_LEG_CLOSURE` |
+
+> 🦵 **Conflicto resuelto el 13/08/2026, no silenciado.** La directiva transversal de la Ama (*piernas cerradas con vestido*) choca de frente con la V abierta que es firma del Throne en Suelo. **Gana la directiva** (instrucción viva > canon de pose). La V no se elimina: queda reservada a los looks de calzón, bikini o catsuit, donde no hay falda que cerrar. Registrado también en `anclas_universales.json` → `personajes.miss_doll.conflicto_resuelto_13_08_2026`.
 
 > 🎥 **Repertorio de cámara — dueño único:** [`01_Principales/miss_doll/repertorio_camara_miss_doll.md`](../01_Principales/miss_doll/repertorio_camara_miss_doll.md). 7 variaciones para los slots 5 y 6, con rotación por número de look.
 >
 > 🩹 **Corregido 12/08/2026 — era una desviación mía, no un cambio de canon.** Estas dos filas decían *"plano medio/primer plano, mirada fría de mando directo a cámara"* y *"cámara a la altura de un sub arrodillado"*. **Ditzy y POV están definidos desde el 28/05 y el 09/06/2026** (reforzados el 30/06 y el 02/08) en `.agent/rules/06-generacion-imagenes.md` §5 y §9, `pose_repertoire_v5.md` §5-§6 y `dna_v3_5.md`. Al estandarizar las 7 poses el **05/08** los escribí mal, y el POV arrodillado es exactamente el *point-of-view literal* que el canon prohíbe desde junio porque el generador lo lee literal.
 >
-> 🔴 **PENDIENTE:** los otros cinco slots de Miss Doll están **clonados al 79-83%** entre sus 14 looks (medido 12/08). Es el mismo defecto que la Ama detectó en el Ditzy de Anaïs, pero en los siete slots. **No cuesta nada todavía: está 0/98 materializado.** Falta escribir sus 7 variaciones para los slots 1, 2, 3, 4 y 7.
-| 7 | Odalisque | Throne en Suelo con Crop | `odalisque` | Suelo, piernas en V abierta, codos en rodillas, crop en mano |
+> ✅ **PENDIENTE CERRADO 13/08/2026 (esta línea decía otra cosa y ya era falsa).** Decía: *"los otros cinco slots están clonados al 79-83%… no cuesta nada todavía: está 0/98 materializado"*. Ambas mitades caducaron el mismo día: los **149 repertorios de sub-pose** se escribieron el 13/08 en `99_Sistema/scripts/visual/repertorios_pose.json` (49 de Miss Doll, pole + burlesque) y sus 98 prompts se reensamblaron con 7/7 variaciones distintas por slot; y la materialización va en **52/98**, no en 0. Otro estado sin fecha de re-medición que envejeció hacia la mentira.
 
 - **Total por look:** 7
 - **Repertorio de variaciones:** el vocabulario completo (de pie / pole / floorwork / silla / con sub) está en `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` §2 — sigue vigente como banco de detalle para redactar cada slot, ya no como poses standalone.
@@ -143,6 +146,8 @@ Auditado sobre los 4 looks VIP/Privado + Penthouse/Off-duty existentes: **2 de 4
 | Texto/nombre sobre prenda | choker liso, O-ring, hardware sin letras | Regla transversal del repo |
 | Sonrisa amplia / actitud juguetona | Face of the Pole | Principio de registro — **excepción única: arquetipo Girly Girl (§6), ver ahí las reglas** |
 | **Cualquier prop/setting/tono de infancia** (peluches, dollhouse, cuarto de niña, "playful giggly" infantil) — incluso en Girly Girl | Glamour adulto exagerado: boudoir/penthouse/salón de belleza de lujo, sonrisa radiante/sensual de mujer adulta | **PROHIBICIÓN ABSOLUTA (Ama 11/08/2026).** Hiperfem ≠ niñita rosada. Ver nota en §6 |
+| **👙 Calzón de cobertura total** — brief de talle alto, boyshort, hipster, culotte, tap pant, bikini bottom que tape el asiento | **tanga o g-string, siempre** (delantero angosto, cintura sobre el hueso de la cadera, atrás una tira fina) | **Ama 13/08/2026.** Ancla `BOTTOM_CUT_LOCK` en `anclas_siempre`. Su corte se **nombra** en el BLOQUE B (§5.5) — no basta con "bikini bottoms" |
+| **🦵 Piernas abiertas usando vestido, falda, bata o túnica** | rodillas y muslos juntos · una pierna cruzada sobre la otra · las dos piernas plegadas a un lado si va baja | **Ama 13/08/2026, transversal a las tres muñecas.** Ancla opt-in `DRESS_LEG_CLOSURE`. **Deroga las piernas en V del Throne en Suelo (§4) cuando el look es de falda** |
 
 ### 5.5 · Campos obligatorios de descripción
 
@@ -151,6 +156,7 @@ El BLOQUE B debe nombrar, sin excepción:
 1. **Corsé — OPCIONAL, no obligatorio** (derogado 11/08/2026, ver nota abajo). Cuando aparece, sigue siendo el centro del look; cuando no, el abdomen tonificado queda al descubierto como el foco.
 2. Prenda principal: material exacto, color exacto, corte, acabado (gloss/matte), fit.
 3. Hardware: chrome, anillas, hebillas, webbing — tipo y posición en el cuerpo.
+3b. **👙 Corte del calzón — obligatorio nombrarlo (Ama 13/08/2026).** Cuando el look lleva calzón, bikini bottom o la entrepierna de un body/teddy/bañador, el BLOQUE B escribe el **corte** con todas sus letras: `thong` o `g-string`. **Prohibido dejarlo en `bikini bottoms` / `panties` a secas** — nombrar la prenda y no su corte es exactamente lo que produjo el calzón de talle alto del Look 801 de Ele (13/08/2026): el atributo que no se nombra lo resuelve el generador, y su default es cobertura total. El linter lo caza (`lint_prompts_personaje.py`, aviso `BOTTOM_CUT_LOCK`).
 4. Medias/hosiery **si aplica** — y con frecuencia NO debe aplicar (corrección 11/08/2026: 5 de los primeros 7 looks llevaron medias, la Ama lo notó como repetitivo). **Ventana anti-repetición nueva:** no más de 2 looks consecutivos con medias; alternar con piernas desnudas, fishnet, o tratamiento distinto (leggings, botas altas que cubren la pierna). Cuando sí aplica: denier, tipo, color.
 5. **Calzado con plataforma, sus 5 atributos (§5.3) — esto SÍ es obligatorio siempre.**
 6. Accesorios: cada pieza con su posición.
@@ -166,20 +172,24 @@ El BLOQUE B debe nombrar, sin excepción:
 
 | Arquetipo | Descripción | Meta |
 |---|---|---|
-| **Club / Escenario** | Pole, tarima, luz neón, revue | 20% |
-| **Calabozo / Dungeon** | Sesión de dominación, bondage de diseño, mobiliario elegante *(desc. suavizada 11/08 — ver recalibrado de materiales §5.1, ya no "arneses, mobiliario de dominación" industrial)* | 15% |
-| **VIP / Privado** *(nuevo 11/08, reemplaza a Uniforme Privado)* | Sesión exclusiva uno-a-uno, lencería-fetiche lounge, energía de sala privada — distinto de Calabozo (no es dominación) y de Penthouse (es *con* alguien, no ella sola) | 15% |
-| **Gym / Athletic** *(nuevo 11/08 — justificado por el cuerpo de gimnasio del §2)* | Sujetador deportivo de vinilo + sudor glam + plataforma deportiva son la base fija; **la pierna NO siempre va en leggings** (corrección 11/08, Look 05 default a leggings sin variar) — rotar entre leggings, bike shorts, unitard con cutouts, piernas desnudas con calcetín corto cromado, etc. | 15% |
-| **🎀 Girly Girl** *(nuevo 11/08 — ÚNICO arquetipo con excepción de expresión, ver §2)* | **Hiperfem ADULTA** (raíz Girly §5.2) — glamour rosa exagerado, moños/corazones/ruffles en vinyl/PVC gloss como accesorio de alta costura (referencia Moschino/Chanel-runway, NUNCA de guardería), ambientes de boudoir/penthouse/salón de belleza de lujo en rosa. **Expresión cálida y sonriente** — quiebre real de personaje, contraste deliberado con su registro habitual. | 15% |
+| **Club / Escenario** | Pole, tarima, luz neón, revue | 18% |
+| **👙 Bikini / Lencería Erótica** *(nuevo 13/08/2026 — Ama)* | **La prenda ES el look.** Conjunto de dos piezas como sujeto de la toma: micro bikini, triangle top, conjunto de lencería (sujetador + tanga + liguero), bodysuit de tiras, teddy, bañador de recortes — en vinilo/PVC/látex/wet-satin/crystal mesh. Escenarios de **piel y agua o de tocador**: borde de piscina, cabana de beach club, spa privado, boudoir, backstage de sesión. **Sin capa que lo tape**: nada de abrigo, blazer ni bata cerrada encima (la bata abierta sí, si deja ver el conjunto entero). **El calzón va SIEMPRE en tanga o g-string** (§5.4). | 15% |
+| **Calabozo / Dungeon** | Sesión de dominación, bondage de diseño, mobiliario elegante *(desc. suavizada 11/08 — ver recalibrado de materiales §5.1, ya no "arneses, mobiliario de dominación" industrial)* | 13% |
+| **VIP / Privado** *(nuevo 11/08, reemplaza a Uniforme Privado)* | Sesión exclusiva uno-a-uno, lencería-fetiche lounge, energía de sala privada — distinto de Calabozo (no es dominación) y de Penthouse (es *con* alguien, no ella sola) | 12% |
+| **Gym / Athletic** *(nuevo 11/08 — justificado por el cuerpo de gimnasio del §2)* | Sujetador deportivo de vinilo + sudor glam + plataforma deportiva son la base fija; **la pierna NO siempre va en leggings** (corrección 11/08, Look 05 default a leggings sin variar) — rotar entre leggings, bike shorts, unitard con cutouts, piernas desnudas con calcetín corto cromado, etc. | 12% |
+| **🎀 Girly Girl** *(nuevo 11/08 — ÚNICO arquetipo con excepción de expresión, ver §2)* | **Hiperfem ADULTA** (raíz Girly §5.2) — glamour rosa exagerado, moños/corazones/ruffles en vinyl/PVC gloss como accesorio de alta costura (referencia Moschino/Chanel-runway, NUNCA de guardería), ambientes de boudoir/penthouse/salón de belleza de lujo en rosa. **Expresión cálida y sonriente** — quiebre real de personaje, contraste deliberado con su registro habitual. | 12% |
 
 > ⚠️ **Corrección de fondo (Ama 11/08/2026, misma sesión):** el primer intento de este arquetipo (Look 02 v1) confundió "hiperfem" con "niñita rosada sexualizada" — metió peluches, dollhouse y un tono "playful giggly" que leía infantil. **Esa lectura queda PROHIBIDA explícitamente.** Hiperfem = feminidad adulta exagerada (glamour, poder, lujo, sensualidad de mujer adulta), nunca estética o props de infancia/guardería. Ver prohibición dura en §5.4.
-| **Penthouse / Off-duty** | Su espacio, registro frío fuera del trabajo | 10% |
-| **Editorial / Portada** | Sesión de foto pura, fondo controlado | 10% |
+| **Penthouse / Off-duty** | Su espacio, registro frío fuera del trabajo | 9% |
+| **Editorial / Portada** | Sesión de foto pura, fondo controlado | 9% |
 
 > ❌ **Uniforme Privado — eliminado 11/08/2026:** "protocolo, de servicio, latex couture estructurado" leía como el residuo industrial que se sacó de §5.1. Reemplazado por VIP/Privado, que cubre el mismo nicho de sesión exclusiva sin el tono de utilería.
 
+> 👙 **Bikini/Lencería Erótica vs. VIP/Privado — dónde está la frontera (13/08/2026).** Los dos usan conjunto de dos piezas, y sin frontera escrita se canibalizan (ya pasó con Uniforme Privado). **VIP es una ESCENA:** hay alguien más implícito, la energía es de sala privada, la bata y el lounge mandan, la lencería es contexto. **Bikini/Lencería Erótica es un OBJETO:** ella sola, el conjunto es el sujeto de la foto, el cuerpo y la prenda ocupan el cuadro, el escenario existe para lucirlos (agua, mármol, tocador). Si la toma funcionaría igual sin el escenario, es Bikini/Lencería; si el escenario es la mitad del morbo, es VIP.
+
 - **Regla de déficit:** el arquetipo bajo meta manda sobre el gusto.
-- **Prioridad de desempate:** Club > Calabozo > VIP > Gym > Girly Girl > Penthouse > Editorial.
+- **Prioridad de desempate:** Club > Bikini/Lencería > Calabozo > VIP > Gym > Girly Girl > Penthouse > Editorial.
+- **Suma verificada 13/08/2026:** 18 + 15 + 13 + 12 + 12 + 12 + 9 + 9 = **100%**. El 15% del arquetipo nuevo salió prorrateado de los siete existentes, no de uno solo.
 - **⚠️ Excepción de negative prompt SOLO en Girly Girl:** el negative base (§3) incluye `warm smile, laughing` porque el resto de sus arquetipos exige cero calidez. En un prompt de Girly Girl, **sacar esos dos términos** del negative — de lo contrario el prompt se contradice a sí mismo.
 
 ---

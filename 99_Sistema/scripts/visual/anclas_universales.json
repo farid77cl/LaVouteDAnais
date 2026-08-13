@@ -47,10 +47,20 @@
       "opt_in": "Todo look cuyo BLOQUE B nombre una cantidad exacta de accesorio (un cuff, un guante, un aro, una tobillera).",
       "texto": "every accessory appears exactly the number of times stated and on the side stated: a single cuff, bracelet, glove, earring or anklet is worn on ONE limb only with the matching limb left completely bare, and no extra jewellery, band, chain or ornament is added anywhere on the body"
     },
+    "BOTTOM_CUT_LOCK": {
+      "porque": "Directiva de la Ama 13/08/2026, sobre evidencia fotográfica: el Back View del Look 801 de Ele salió con un CALZÓN DE TALLE ALTO que le cubre el asiento entero. Su BLOQUE B decía `matching white wet-satin micro bikini bottoms` — nombra la prenda y el material, pero NUNCA el CORTE. Mismo modo de falla que ASYMMETRY_LOCK: el atributo que no se nombra lo resuelve el generador, y su default (reforzado por el sesgo pudoroso del modelo) es cobertura total. GARMENT_CONSISTENCY nombra escote, manga, ruedo, corte y color de la prenda como conjunto, pero no la cobertura del calzón. El negative solo no basta: Gemini lo ignora, así que el ancla va AFIRMATIVA en el positive. Es inerte en looks sin calzón separado (catsuit, vestido, mono).",
+      "aplica_a": "Ele y Miss Doll (vía `anclas_siempre` de su perfil). NO aplica a Anaïs: su canon Vintage Noir / Bettie Page usa calzón retro de talle alto como pieza legítima de época.",
+      "texto": "any bottom garment she wears — knickers, bikini bottom, or the seat of a bodysuit, teddy, leotard or swimsuit — is cut as a thong or g-string: a narrow tapered front panel, a thin waistband sitting high on the hip bones, and at the back a single slim strip following the centre line so the curve of the hips and the seat is left uncovered; it is never a full-seat brief, never a high-waisted or boyshort cut, never a hipster, culotte, tap pant or full-coverage bikini bottom, and the back panel is never widened to cover the seat"
+    },
     "GARMENT_EXCLUSION_LOCK": {
       "porque": "Medido el 12/08/2026: el Back View del Look 04 de Miss Doll rindió el corsé oxblood del Look 03 aunque su propio prompt decía `no corset` y su negative prohibía `corset, waist cincher, bustier` por nombre. Una prenda nombrada como AUSENTE en medio del BLOQUE B se lee como parte del vocabulario del outfit, no como una exclusión.",
       "opt_in": "Todo look cuyo BLOQUE B declare una ausencia (`no corset`, `no stockings`, `no jewelry`, `bare legs`, `no gloves`).",
       "texto": "every garment or item the description names as NOT worn is genuinely absent from the image: it is not added over the outfit, not layered under it, not implied by any other piece and not present anywhere in the frame"
+    },
+    "DRESS_LEG_CLOSURE": {
+      "porque": "Directiva de la Ama 13/08/2026, TRANSVERSAL a las tres muñecas: con vestido, falda, bata o túnica, las piernas van CERRADAS. El repertorio de sub-poses está lleno de aperturas (piernas en V en el suelo, rodilla girada, floorwork sentada, sweetheart) escritas pensando en calzón/bikini; al caer sobre un look de vestido el generador abre igual y el resultado es vulgar en vez de editorial. La regla gobierna la POSE, no la prenda: el ancla se dispara desde el BLOQUE B porque es ahí donde se sabe si hay vestido.",
+      "opt_in": "El BLOQUE B nombra vestido, falda, gown, bata, kimono o túnica. En looks de calzón/bikini/catsuit NO aplica y no se inyecta.",
+      "texto": "wearing a dress, skirt or robe her legs stay closed: knees and thighs held together, or one leg crossed over the other, or both legs folded to one side when she is low — never spread, never opened apart and never parted at the knee, with the hem falling closed over the lap so the line of the skirt stays unbroken"
     },
     "SEAT_ANCHOR": {
       "porque": "La figura sentada termina apoyada en una isla/mesa cercana en vez de cargar el peso en el asiento nombrado.",
@@ -116,7 +126,12 @@
     "_nota": "No se aplican a todo look: se activan cuando el BLOQUE B dispara su condición (13/08/2026). El inyector las agrega; el linter avisa si la condición está y el ancla no.",
     "ASYMMETRY_LOCK": "el BLOQUE B declara prenda asimétrica: one-shoulder · single strap · monotirante · manga única · ruedo asimétrico · un solo guante",
     "ACCESSORY_COUNT_LOCK": "el BLOQUE B nombra una cantidad exacta de accesorio: a single cuff / one glove / a single earring / an anklet",
-    "GARMENT_EXCLUSION_LOCK": "el BLOQUE B declara una ausencia: no corset · no stockings · no jewelry · bare legs · no gloves"
+    "GARMENT_EXCLUSION_LOCK": "el BLOQUE B declara una ausencia: no corset · no stockings · no jewelry · bare legs · no gloves",
+    "DRESS_LEG_CLOSURE": "el BLOQUE B nombra prenda de falda: dress · gown · skirt · robe · kimono · túnica (Ama 13/08/2026, transversal a las tres muñecas)"
+  },
+
+  "anclas_siempre": {
+    "_nota": "Anclas que un personaje lleva en TODOS sus slots, además de `mapa_por_defecto._todos` (13/08/2026). Existe porque hay prohibiciones de canon que son de un personaje y no del repo: meterlas en `_todos` se las impondría a los tres, y repetirlas en los 7 `overrides` sería copia. `prompt_builder.anclas_de_slot()` las concatena después de `_todos`; el linter las exige igual que a las demás. Se declaran en `personajes.<slug>.anclas_siempre`."
   },
 
   "mapa_por_defecto": {
@@ -140,6 +155,7 @@
       "prefijo_archivo": "ele_",
       "prefijo_carpeta_look": "look",
       "overrides": {},
+      "anclas_siempre": ["BOTTOM_CUT_LOCK"],
       "nota": "La flota L200-L800 ya lleva texto equivalente inyectado por el motor histórico. NO se retrofitea en masa: los looks NUEVOS se ensamblan con esta librería (convención retrofit-al-tocar del repo).",
       "deuda_declarada": {
         "medida": "2026-08-12",
@@ -150,9 +166,10 @@
           "porque_no_se_toca": "Prompts fosilizados de la era pre-fix anti-collage. Medido 12/08/2026: las 232 poses afectadas YA están materializadas — riesgo vivo CERO, no queda ninguna por generar con ese texto. Reescribirlas no cambia ninguna imagen y solo genera churn. Retrofit al tocar, como el resto del repo. Cualquier look FUERA de esta lista que aparezca con metalenguaje es regresión y bloquea."
         },
         "anclas_faltantes_en_poses_ya_materializadas": {
-          "medida": "2026-08-13",
-          "avisos_del_linter": 11257,
+          "medida": "2026-08-13 (re-medida el mismo día tras BOTTOM_CUT_LOCK y DRESS_LEG_CLOSURE)",
+          "avisos_del_linter": 21885,
           "poses_sin_imagen_con_ancla_faltante": 0,
+          "segunda_pasada_13_08_2026": "Las dos anclas nuevas de la Ama (calzón en tanga · piernas cerradas con vestido) se inyectaron sobre las 861 poses sin imagen de Ele en 175 looks: BOTTOM_CUT_LOCK 861 · DRESS_LEG_CLOSURE 382 (+9 anclas sueltas del Look 801, que era nuevo). En Miss Doll, 23 poses sin imagen: BOTTOM_CUT_LOCK 23 · ASYMMETRY_LOCK 21 · DRESS_LEG_CLOSURE 7. Los avisos subieron de 11.257 a 21.885 porque hay dos anclas más que exigir y porque el linter ahora también audita las opt-in — NO porque algo se rompiera: la métrica que importa siguió en 0 en las dos muñecas. Las 861 y 3.353 cuadran con las 858/3.349 de la mañana más las 7 poses del Look 801 (4 con foto, 3 sin).",
           "que_se_hizo": "Retrofit de anclas SOLO sobre el riesgo vivo: las 858 poses de 174 looks que NO tenían archivo en el índice de git (`inyectar_anclas.py ele --solo-sin-imagen --opt-in --sin=GARMENT_EXCLUSION_LOCK`). Anclas inyectadas: PHOTOREAL_LOCK 858 · GARMENT_CONSISTENCY 421 · SINGLE_HAND_CLOSE 274 · RECLINE_ANCHOR y LEVEL_HORIZON 156 c/u · ASYMMETRY_LOCK 151 · SINGLE_SUBJECT, GAZE_TO_LENS y POV_NO_DEVICE 144 c/u · SIDE_ANCHOR 140 · FOOTWEAR_ECHO 139 · GAZE_OFF_LENS 130 · BACK_ANCHOR 121 · ANATOMY_CLOSE 11 · SEAT_ANCHOR 10 · FRONT_ANCHOR 1.",
           "porque_no_se_toca": "Los 11.257 avisos que quedan son TODOS de poses con imagen ya materializada (3.349 poses medidas contra `git ls-files`, no contra el disco: los PNG llevan skin-worktree). Reescribir el prompt de una pose que ya tiene su foto no cambia ninguna imagen — solo genera churn en un archivo de 601 looks que además reescribe el bot. La métrica que importa NO es el total de avisos sino `poses_sin_imagen_con_ancla_faltante`, y esa está en 0. Si vuelve a subir, es que entraron looks nuevos sin ensamblar por el motor.",
           "por_que_GARMENT_EXCLUSION_LOCK_queda_fuera": "Su regex se dispara con `no gloves`, y en Ele esa frase aparece en 4.207 prompts porque los guantes le están prohibidos por canon (cláusula universal del ADN, ya cubierta por NO_ARMWEAR). No es una ausencia declarada look por look — que es el caso para el que se escribió el ancla (el `no corset` del Look 04 de Miss Doll). En Anaïs el mismo disparador SÍ es legítimo y ahí se aplicó."
@@ -170,7 +187,9 @@
       "overrides": {
         "odalisque": ["ANATOMY_FULL", "FLOOR_SEAT_ANCHOR", "LEVEL_HORIZON", "FOOTWEAR_ECHO"]
       },
-      "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon."
+      "anclas_siempre": ["BOTTOM_CUT_LOCK"],
+      "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon.",
+      "conflicto_resuelto_13_08_2026": "Las 'piernas en V' de su Throne en Suelo CHOCAN con DRESS_LEG_CLOSURE (Ama 13/08/2026) cuando el look es de vestido/falda/bata. Gana la directiva de la Ama: en esos looks el Odalisque se resuelve con las dos piernas plegadas hacia un lado (sirena), NO en V. La V queda reservada a los looks de calzón/bikini/catsuit. Codificado en el perfil §4 y en repertorios_pose.json."
     },
     "anais": {
       "nombre": "Anaïs Belland",
@@ -181,7 +200,8 @@
       "prefijo_archivo": "anais_",
       "prefijo_carpeta_look": "look",
       "overrides": {},
-      "nota": "Su BLOQUE B suele llevar guantes de ópera: el FOOTWEAR_ECHO aplica igual, pero el token de uñas de mano se OMITE cuando los guantes cubren los dedos (perfil §5.4)."
+      "anclas_siempre": [],
+      "nota": "Su BLOQUE B suele llevar guantes de ópera: el FOOTWEAR_ECHO aplica igual, pero el token de uñas de mano se OMITE cuando los guantes cubren los dedos (perfil §5.4). **BOTTOM_CUT_LOCK NO se le aplica** (Ama 13/08/2026): su canon Vintage Noir / Bettie Page usa calzón retro de talle alto como pieza legítima de época — imponerle la tanga le rompería el período. **Sí lleva DRESS_LEG_CLOSURE en la práctica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda (perfil §5.4): el opt-in se dispara solo."
     }
   }
 }

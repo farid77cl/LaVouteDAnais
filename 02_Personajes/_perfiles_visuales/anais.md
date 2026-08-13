@@ -55,6 +55,7 @@
 |---|---|---|
 | Look de látex canónico | **quitar** `latex` de la lista de negativos | Si no, se pelea con el propio outfit |
 | Cualquier pose | asegurar `tattoos, piercings, young woman, teen, wide smile` en negative | Sus tres derivas registradas |
+| **Cualquier pose** *(nuevo 13/08/2026)* | agregar `trousers, pants, leggings, jeans, shorts, palazzo pants, jumpsuit, catsuit, bifurcated garment, legs spread apart under a dress, legs parted under a skirt` | Solo vestidos + piernas cerradas (§5.4). Segunda capa: la prohibición de pantalón se cumple **al diseñar el look**, no vetando |
 
 ---
 
@@ -161,6 +162,12 @@ Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2
 | Sonrisa amplia / risa / juego | mirada fría de mando | Registro |
 | Léxico `sexy`/`hot`/`seductive`… | vocabulario del canon §VIII | Registro |
 | Exterior/natural fuera de Viaje | interiores controlados | Coherencia de arquetipo |
+| **👗 Pantalón, leggings, jeans, shorts, palazzo, mono/jumpsuit de pierna larga, catsuit** — cualquier prenda que separe las dos piernas | **vestido o falda, siempre** (gown, sheath, slip-dress, pencil skirt, falda de tubo, conjunto falda+corsé) | **Ama 13/08/2026 — PROHIBICIÓN DURA.** Única excepción: **petición expresa de la Ama en la conversación**, look por look. No se autoriza sola "porque el arquetipo lo pedía" |
+| **🦵 Piernas abiertas usando vestido, falda o bata** | rodillas y muslos juntos · una pierna cruzada · las dos piernas plegadas a un lado si va baja | **Ama 13/08/2026, transversal a las tres muñecas.** Ancla opt-in `DRESS_LEG_CLOSURE` — en ella se dispara en **todos** sus looks, porque desde hoy siempre viste falda |
+
+> 👗 **Solo vestidos (Ama 13/08/2026).** Es prohibición de **diseño**, no de defecto: se aplica al elegir el look, antes de escribir el BLOQUE B — no hay ancla que la salve después. La excepción existe pero es de la Ama y solo suya: si un look de pantalón sale sin que ella lo haya pedido con todas sus letras, es violación de canon, no interpretación de arquetipo. **Ojo con `Viaje` y con cualquier arquetipo de acción (§6):** son los que más tiran hacia el pantalón de sastre y el traje de viaje — se resuelven con falda de tubo y abrigo, nunca con pantalón.
+>
+> 👙 **A Anaïs NO se le aplica `BOTTOM_CUT_LOCK`** (la tanga obligatoria de Ele y Miss Doll). Su canon Vintage Noir / Bettie Page usa **calzón retro de talle alto** como pieza legítima de época: imponerle el corte moderno le rompería el período. Registrado en `anclas_universales.json` → `personajes.anais.nota`.
 
 > 🧤 **Los guantes SÍ están permitidos en Anaïs** (wrist/elbow/opera, con material y largo especificados). **Esto la distingue de Ele, donde los guantes están derogados.** Es justo el tipo de regla que se corrompía al duplicar motores.
 >

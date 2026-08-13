@@ -121,10 +121,25 @@ class PromptBuilder(object):
 
     # ------------------------------------------------------------------ anclas
 
+    @property
+    def anclas_siempre(self):
+        """Anclas propias del personaje presentes en TODOS sus slots (13/08/2026).
+
+        Van despues de `_todos` y antes de las de slot. Existen para prohibiciones
+        que son de canon de UN personaje: BOTTOM_CUT_LOCK es de Ele y Miss Doll,
+        y a Anais le romperia su calzon retro de epoca.
+        """
+        return list(self.perfil.get("anclas_siempre", []))
+
+    @property
+    def n_globales(self):
+        """Cuantas anclas de `anclas_de_slot` son globales (no del slot)."""
+        return len(self.mapa.get("_todos", [])) + len(self.anclas_siempre)
+
     def anclas_de_slot(self, slot):
         """Nombres de ancla que aplican a un slot, en orden de escritura."""
         slot = self.normalizar_slot(slot)
-        base = list(self.mapa.get("_todos", []))
+        base = list(self.mapa.get("_todos", [])) + self.anclas_siempre
         especificas = self.overrides.get(slot, self.mapa.get(slot, []))
         return base + list(especificas)
 
@@ -211,7 +226,37 @@ class PromptBuilder(object):
         ("GARMENT_EXCLUSION_LOCK", re.compile(
             r"\bno (corset|stockings|hosiery|tights|jewelry|jewellery|gloves|bra|straps|"
             r"other jewelry|other jewellery)\b|\bbare legs\b", re.I)),
+        # Ama 13/08/2026: con vestido/falda las piernas van cerradas, en las tres.
+        # `sundress`, `shirtdress`, `coatdress` y `miniskirt` entran por el prefijo
+        # [a-z]*; `headdress` (tocado, 35 usos en la galeria de Ele), `undress` y
+        # `nodress` quedan FUERA por el lookahead: no son prendas de falda.
+        # [a-z] y no \w a proposito — con \w el patron se comia slugs enteros de
+        # ruta (`look675_onyx_baroque_coatdress`) en vez del nombre de la prenda.
+        ("DRESS_LEG_CLOSURE", re.compile(
+            r"\b(?!headdress|undress|nodress)[a-z]*dress(es)?\b|\bgown\b|"
+            r"\b[a-z]*skirt(ed|s)?\b|\brobe\b|\bkimono\b|\btunic\b|"
+            r"\bcheongsam\b|\bqipao\b|\bsarong\b", re.I)),
     )
+
+    # Prendas cuyo CORTE debe nombrarse en el BLOQUE B (BOTTOM_CUT_LOCK, Ama 13/08/2026).
+    # `bottom` a secas queda FUERA a proposito: aparece en "bottom of the frame".
+    RX_CALZON = re.compile(
+        r"\b(panty|panties|knicker(s)?|brief(s)?|bikini bottom(s)?|swim bottom(s)?|"
+        r"thong|g-string|gstring|tanga|micro[- ]?short(s)?|hot pant(s)?)\b", re.I)
+    RX_CORTE_OK = re.compile(r"\b(thong|g-string|gstring|tanga)\b", re.I)
+
+    def calzon_sin_corte(self, texto):
+        """True si el texto nombra un calzon SIN declarar corte tanga/g-string.
+
+        Se descuenta el texto de BOTTOM_CUT_LOCK antes de medir: el ancla dice
+        "thong or g-string" y, si no se descontara, se validaria a si misma
+        (mismo error que el clasificador que se leia a si mismo, 19/07/2026).
+        """
+        t = texto or ""
+        ancla = self.anclas.get("BOTTOM_CUT_LOCK", {}).get("texto", "")
+        if ancla:
+            t = t.replace(ancla, " ")
+        return bool(self.RX_CALZON.search(t)) and not self.RX_CORTE_OK.search(t)
 
     def opt_in_de(self, bloque_b):
         """Anclas opt-in que dispara el BLOQUE B de este look (registro: anclas_opt_in)."""
@@ -237,10 +282,11 @@ class PromptBuilder(object):
         setting = self._limpiar(setting)
 
         anclas = self.texto_anclas(slot_n)
-        # SINGLE_FRAME, GARMENT_CONSISTENCY y PHOTOREAL_LOCK van antes de la pose
-        # (contexto global); las de slot van pegadas a la pose porque corrigen ESA toma.
-        globales = anclas[: len(self.mapa.get("_todos", []))]
-        de_slot = anclas[len(self.mapa.get("_todos", [])):]
+        # SINGLE_FRAME, GARMENT_CONSISTENCY, PHOTOREAL_LOCK y las `anclas_siempre`
+        # del personaje van antes de la pose (contexto global); las de slot van
+        # pegadas a la pose porque corrigen ESA toma.
+        globales = anclas[: self.n_globales]
+        de_slot = anclas[self.n_globales:]
 
         # Anclas opt-in: las dispara el BLOQUE B del look, no el slot.
         nombres_extra = list(extra_anclas or [])
@@ -252,7 +298,7 @@ class PromptBuilder(object):
 
         # FOOTWEAR_ECHO cierra siempre (va despues del setting, como en la flota de Ele).
         eco = None
-        nombres_slot = self.anclas_de_slot(slot_n)[len(self.mapa.get("_todos", [])):]
+        nombres_slot = self.anclas_de_slot(slot_n)[self.n_globales:]
         if "FOOTWEAR_ECHO" in nombres_slot:
             eco = self.anclas["FOOTWEAR_ECHO"]["texto"]
             de_slot = [t for t in de_slot if t != eco]
