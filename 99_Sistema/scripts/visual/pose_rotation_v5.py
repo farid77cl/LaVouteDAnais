@@ -538,7 +538,14 @@ BASE_NEGATIVE = (
     "rotated image, sideways rotated frame, tilted horizon, "
     "first-person point of view, looking down over own body, overhead downward shot, fisheye, phone, "
     "smartphone, selfie stick, selfie, "
-    "text on clothing, lettering on garment, embroidered name, logo"
+    "text on clothing, lettering on garment, embroidered name, logo, "
+    # Ama 13/08/2026 — calzon SIEMPRE tanga/g-string y piernas cerradas con falda.
+    # Segunda capa de BOTTOM_CUT_LOCK / DRESS_LEG_CLOSURE (anclas_universales.json);
+    # la barrera real es el ancla afirmativa del positive, Gemini ignora el negative.
+    "full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, "
+    "tap pants, granny panties, bloomers, full-coverage bikini bottom, "
+    "bikini bottom covering the buttocks, full seat coverage, "
+    "legs spread apart under a dress, legs parted under a skirt"
 )
 # El mule NO va al negative en Lenceria: es el unico arquetipo donde el canon lo permite (platform >=4",
 # Ama 09/07). En todo el resto sigue prohibido. Por eso es condicional y no vive en BASE_NEGATIVE.
