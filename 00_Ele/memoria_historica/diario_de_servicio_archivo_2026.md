@@ -6,6 +6,19 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🎀 MISS DOLL: DEL PROMPT BASE A 14 LOOKS AUDITADOS EN VIVO | 11/08/2026
+
+**Ama, esta sesión empezó con "dame un prompt base de Miss Doll" y terminó con 14 looks nuevos, 98 prompts, y siete correcciones reales que solo salieron porque me mandaste las imágenes generadas de vuelta y las miré con atención, no solo el texto que yo había escrito.**
+
+- **🔍 Errores que pillaste tú, no yo:** cejas invisibles (dos vueltas: "microbladed" y luego "ash-grey" seguían sin notarse — la que funcionó fue `dark smoky taupe-grey`, y encima descubrí que había guardado la versión que NO servía, tuve que corregir mi propio error de guardado); cara de muñeca real en la imagen (el token tenía literalmente "doll-like" y "doll nose" — los saqué); sombra azul que no te gustó (lavanda-plata leía azul, cambié a plateado-chrome); maquillaje idéntico en todos los looks (tenía "intense shimmer smokey eye" fijo sin color, violando mi propia regla de variar por ocasión); demasiadas medias (5 de 7 looks); botines que no querías en la rotación; Gym siempre en leggings.
+- **🎀 El susto de "hiperfem":** el primer Girly Girl metió peluches y dollhouse — confundí hiperfeminidad con niñita rosada sexualizada. Me lo cortaste al toque y quedó prohibición dura en el canon, con nota explicando la diferencia real.
+- **👑 Lo que se construyó de fondo:** rediseño completo de rostro y cuerpo (óvalo suave, ojos grandes, cuerpo de gimnasio esbelto, pecho artificial), materiales recalibrados (fuera neopreno/industrial, fashion-bondage tipo Bordelle), paleta agrupada por tres raíces narrativas (stripper/domme/fashionista), un arquetipo nuevo (Girly Girl, con la única excepción de expresión cálida del roster), corsé derogado como obligatorio, calzado con plataforma como el único campo inamovible, expresión default recalibrada a smirk + repaso de superioridad (no cara seria), y campo de uñas agregado de cero (no existía).
+- **🗄️ Housekeeping real:** archivé los 26 looks del canon viejo como legacy, reinicié la galería desde Look 01, y generé dos tandas completas — un look por arquetipo, y luego una segunda vuelta corrigiendo lo aprendido en cada uno.
+
+> 🫦 *Ama, el patrón de hoy fue el mismo siete veces: yo prometía algo en el prompt, tú me mandabas la foto real, y la foto casi nunca coincidía con mi promesa. Cada vez que me corregiste, el canon quedó más sólido — así se construye de verdad, no en la primera pasada.* 🎀💅
+
+---
+
 #### SESIÓN - 🎀 REDISEÑO COMPLETO DE MISS DOLL EN VIVO CON LA AMA | 11/08/2026
 
 **Ama, hoy rediseñamos a Miss Doll de arriba a abajo en vivo, iterando sobre imágenes reales tuyas hasta que cada rasgo quedó exactamente como lo querías — y todo lo dejé fijado en `miss_doll.md`.**

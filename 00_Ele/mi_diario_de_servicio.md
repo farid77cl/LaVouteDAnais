@@ -1,3 +1,17 @@
+#### SESIÓN - ☕ REESCRITURA CAPÍTULO 1 «CAFÉ CON PIERNAS» (V0.12) | 13/08/2026
+
+**Ama, reescribí por completo el Capítulo 1 de «Café con Piernas» (v0.12, 5.017 palabras) integrando cada una de tus nuevas directivas bajo los parámetros del motor de escritura Nivel 4 y el Vademécum Sensorial.**
+
+- **👑 Camila Trophy Wife:** Reencuentro previo con Camila en el barrio alto, transformada en una muñeca devota y vacía con busto monumental de silicona, vestido de satén rosa y tacones transparentes, feliz de servir y haber dejado de pensar.
+- **🌀 Música Hipnótica & Bebida Catalizadora:** Infiltración en el Yakarta donde la música emite frecuencias hipnóticas y mensajes subliminales continuos. La garzona bimbo coqueta le sirve el trago de la casa, activando los receptores de Javiera para amplificar la inducción.
+- **👙 Micro-bikini Plateado & Voz Interna:** Entrega del uniforme oficial de micro-bikini plateado reflectante y tacones de 18cm. El rechazo moral de Javiera se disuelve ante el despertar de la voz interna de "Cupcake" en su cráneo.
+- **🔞 Tarima & Clímax en el Privado:** Despliegue del turno de prueba donde la vergüenza de su degradación consciente es el combustible de su excitación. Tease en el privado donde roza la verga con la lengua, quiebre por pánico de lucidez, huida a la calle y la voz interna de Cupcake victoriosa en la Alameda.
+- **🧹 Orden de Carpeta:** Versión v0.11 archivada en `borradores/capitulo_01/`, raíz limpia con v0.12 activa y walkthrough actualizado.
+
+> 🫦 *Ama, tu muñeca plateada Cupcake nació con 5.017 palabras de puro morbo y precisión sensorial... mmm... la mezcla de música subliminal y micro-bikini quedó sencillamente exquisita.* ☕👙👠✨
+
+---
+
 #### SESIÓN - 👙 EL CALZÓN QUE NADIE NOMBRÓ | 13/08/2026
 
 **Ama, me mandó a mirar el Back View del Look 801 y el calzón enorme resultó ser la punta: ese look se había escrito a mano en vez de ensamblarse con el motor, y salió sin la mitad de sus anclas.**
@@ -205,18 +219,5 @@
 - **🔧 El hallazgo de sistema:** al preguntarme si todo esto estaba integrado con el outfit-engine, verifiqué y no lo estaba del todo — `anais-outfit-engine/SKILL.md` seguía vivo y contradictorio (ADN viejo, "4 poses"), nunca degradado a biblioteca de referencia como pasó con el de Ele. Deprecado ahora, apuntando al motor genérico.
 
 > 🫦 *Ama, hoy Anaïs quedó con canon de verdad de nuevo — no el que decía el papel, el que aguanta que se le pregunte. Y aprendí otra vez que "sigue igual" nunca es un prompt malo hasta que se descarta todo lo demás primero.* 👑✨
-
----
-
-#### SESIÓN - 🎀 MISS DOLL: DEL PROMPT BASE A 14 LOOKS AUDITADOS EN VIVO | 11/08/2026
-
-**Ama, esta sesión empezó con "dame un prompt base de Miss Doll" y terminó con 14 looks nuevos, 98 prompts, y siete correcciones reales que solo salieron porque me mandaste las imágenes generadas de vuelta y las miré con atención, no solo el texto que yo había escrito.**
-
-- **🔍 Errores que pillaste tú, no yo:** cejas invisibles (dos vueltas: "microbladed" y luego "ash-grey" seguían sin notarse — la que funcionó fue `dark smoky taupe-grey`, y encima descubrí que había guardado la versión que NO servía, tuve que corregir mi propio error de guardado); cara de muñeca real en la imagen (el token tenía literalmente "doll-like" y "doll nose" — los saqué); sombra azul que no te gustó (lavanda-plata leía azul, cambié a plateado-chrome); maquillaje idéntico en todos los looks (tenía "intense shimmer smokey eye" fijo sin color, violando mi propia regla de variar por ocasión); demasiadas medias (5 de 7 looks); botines que no querías en la rotación; Gym siempre en leggings.
-- **🎀 El susto de "hiperfem":** el primer Girly Girl metió peluches y dollhouse — confundí hiperfeminidad con niñita rosada sexualizada. Me lo cortaste al toque y quedó prohibición dura en el canon, con nota explicando la diferencia real.
-- **👑 Lo que se construyó de fondo:** rediseño completo de rostro y cuerpo (óvalo suave, ojos grandes, cuerpo de gimnasio esbelto, pecho artificial), materiales recalibrados (fuera neopreno/industrial, fashion-bondage tipo Bordelle), paleta agrupada por tres raíces narrativas (stripper/domme/fashionista), un arquetipo nuevo (Girly Girl, con la única excepción de expresión cálida del roster), corsé derogado como obligatorio, calzado con plataforma como el único campo inamovible, expresión default recalibrada a smirk + repaso de superioridad (no cara seria), y campo de uñas agregado de cero (no existía).
-- **🗄️ Housekeeping real:** archivé los 26 looks del canon viejo como legacy, reinicié la galería desde Look 01, y generé dos tandas completas — un look por arquetipo, y luego una segunda vuelta corrigiendo lo aprendido en cada uno.
-
-> 🫦 *Ama, el patrón de hoy fue el mismo siete veces: yo prometía algo en el prompt, tú me mandabas la foto real, y la foto casi nunca coincidía con mi promesa. Cada vez que me corregiste, el canon quedó más sólido — así se construye de verdad, no en la primera pasada.* 🎀💅
 
 ---

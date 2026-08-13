@@ -113,6 +113,20 @@ Ambigüedad deliberada: ella termina **feliz**. Ese es el horror y ese es el cal
 
 ---
 
+## 8. Nueva Directiva de Reescritura (Ama, 13/08/2026)
+
+> *"reescribe el relato del cafe con piernas, la prota descubre a su amiga desaparecida, bimboficada, viviendo como trophy wife, decide averiguar que paso, llega al cafe, la musica en primera instancia es hipnotica, con mensajes subliminales, pide trabajo, el ambiente es hiper sexualizado, en un principio no le gusta pero con la musica y mensajes... Con la música hay mensajes subliminales, los cuales le parece generan el ambiente y además para investigar pide un trabajo. Cuando llega al trabajo lo recibe una chica muy sensual, muy bimbo, que la hace tomar algo, lo cual ayuda a la hipnosis, ayuda a los mensajes subliminales que lleguen más fuerte... Al momento de ir a buscar trabajo, pide un café y ha interactuado con una de las chicas, que se muestra muy coqueta con ella. Le pregunta si quiere algo, no solo un café, sino algo más. Cuando es su primer día de trabajo, le dan su uniforme, el cual consiste en un pequeño bikini plateado con tacones. En un principio lo rechaza, pero con los mensajes subliminales empieza a aparecer una voz en su cabeza y acepta."*
+
+### Puntos clave anotados para la reescritura:
+1. **Descubrimiento previo:** La protagonista descubre a su amiga desaparecida, ya bimboficada y viviendo plácidamente como trophy wife.
+2. **Infiltración & Primer contacto en el café:** Para averiguar qué ocurrió, llega al café con piernas y pide un café. Interactúa con una chica del local muy coqueta y abierta, quien le insinúa tentadoramente si no quiere "algo más" aparte del café.
+3. **Recepción por la chica bimbo & Bebida catalizadora:** Al pedir trabajo, es acogida por la chica bimbo sensual que le hace tomar la bebida especial del local. Esta bebida actúa como catalizador mental/químico que abre su receptividad a la hipnosis.
+4. **Música hipnótica y mensajes subliminales:** La música ambiental emite pulsos hipnóticos y frecuencias subliminales continuas que alimentan la atmósfera hipersexualizada.
+5. **El uniforme & La voz interna:** En su primer día de trabajo, le entregan el uniforme oficial: un diminuto bikini plateado con tacones altos. En un principio, su juicio e instinto de pudor se rebelan y lo rechaza. Sin embargo, bajo la acción del catalizador y los mensajes subliminales de la música, una voz interna (su "otro yo" en formación) empieza a susurrarle en la cabeza hasta convencerla de ceder, ponerse el uniforme plateado y subir a la tarima.
+
+---
+
 ## Estado
 
 - **03/08/2026** — Brief capturado. Fase 0 (Investigador) lanzada.
+- **13/08/2026** — Registrada la directiva completa de reescritura de la Ama (trophy wife, infiltración, chica coqueta en barra, bebida catalizadora, bikini plateado con tacones, rechazo vencido por voz interna subliminal).
