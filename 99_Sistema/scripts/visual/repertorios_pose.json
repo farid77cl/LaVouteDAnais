@@ -1,0 +1,256 @@
+{
+  "_dueno_unico": "Este archivo es el DUEÑO ÚNICO del texto de las variaciones de pose (sub-poses) de TODOS los personajes del outfit-engine. La doctrina (qué es cada slot, qué ancla lleva) vive en anclas_universales.json; el texto de las sub-poses vive AQUÍ y nadie más lo copia. prompt_builder.py lo carga con PromptBuilder.pose(); lint_prompts_personaje.py mide la similitud contra él. Los .md de repertorio_camara_* pasaron a ser PUNTEROS a este archivo el 13/08/2026.",
+  "version": "1.0",
+  "fecha": "2026-08-13",
+  "idioma": "en",
+  "porque": "Medido el 13/08/2026 sobre los 98 prompts de Miss Doll: la cláusula de pose sola (sin anclas y sin setting) era 41-70% idéntica entre los 14 looks — Standing 68%, Side Profile 70%. El único slot sano era el único con repertorio escrito (Glacial Command 21%). Ele tenía sus 51 sub-poses desde el 08/06/2026 pero vivían en pose_rotation_v5.py, un motor de UN personaje: nunca llegaron a Miss Doll ni a Anaïs. Mismo modo de falla que el diferenciador Ditzy≠POV del 02/08. La regla del repo es una sola: un fix que vive en el motor de un personaje no es un fix. Por eso el repertorio es ahora dato del motor genérico, no documento de personaje.",
+  "props": {
+    "_nota": "Las variaciones con mobiliario usan placeholders. El inyector los rellena POR LOOK con mobiliario REAL del setting (Ama 08/06/2026: 'cada pose debe ser armoniosa con el ambiente'). Una variación con placeholder sin resolver NO se escribe en la galería: prompt_builder.pose() levanta error.",
+    "seat": "El asiento nombrado del setting del look (trono de cuero, banqueta cromada, chaise de terciopelo, taburete del tocador…).",
+    "wall": "Superficie vertical grande del setting (muro, panel, marco de puerta, columna).",
+    "surface": "Superficie horizontal del setting (mesa baja, consola, banco, cama, diván).",
+    "upright": "Elemento vertical AGARRABLE del setting — específico de Miss Doll (barra cromada del escenario, columna, poste de la cama, barrote de la jaula, montante del rack del gym). Si el setting del look no tiene ninguno, la variación NO aplica: el builder salta al siguiente índice."
+  },
+  "rotacion": {
+    "formula": "indice = (numero_de_look - 1 + offset_del_slot) % len(variaciones)",
+    "porque": "Paso 1 con offsets distintos por slot: dos looks consecutivos nunca comparten variación en el mismo slot, y dentro de un mismo look los siete slots caen en índices distintos (el set no se siente como la misma foto siete veces)."
+  },
+  "personajes": {
+    "ele": {
+      "registro_estetico": "High-End Editorial Fetish — modelo fetish que TRABAJA al fotógrafo (§Poses V5). Recalibrado anti-safe el 15/06/2026.",
+      "origen": "Extraídas literalmente de pose_rotation_v5.py el 13/08/2026 (no transcritas a mano). Ese módulo sigue siendo el runtime de los inyectores históricos de Ele; este archivo es el dueño del TEXTO. Deuda declarada: migrar los inyectores de Ele a PromptBuilder.pose() al tocarlos, nunca en masa.",
+      "offsets": {
+        "standing": 0,
+        "back_view": 2,
+        "seated": 4,
+        "side_profile": 1,
+        "slot5": 3,
+        "pov": 5,
+        "odalisque": 2
+      },
+      "slots": {
+        "standing": [
+          "full body from a low angle below the hip, the weight on one stiletto with the other foot forward and pointed, an exaggerated S-curve with the hip jutted to one side and the chest pushed forward, one long-nailed hand sliding down the hip and thigh and the other pulling at the neckline, shoulders dropped, chin lifted, half-lidded predatory gaze, her hair over one shoulder",
+          "full body from a low angle, caught mid-stride walking straight toward the camera with one stiletto forward and the back foot lifting off the floor, hips swinging, one long-nailed hand on the hip and the other arm loose, the face front to the lens with the chin lifted, a fierce runway gaze straight down the camera, her hair in motion",
+          "full body, the shoulders propped against {wall} with one knee bent and that stiletto sole flat against {wall}, the pelvis forward, one long-nailed hand hooked in the waistband and the other trailing up the body, chin down looking up through the lashes, lips parted glossy, her hair spilling against {wall}",
+          "full body from a low angle, both arms raised overhead gathering the her hair off the neck, the torso elongated and the chest lifted high in an extreme lumbar arch, the weight on both stilettos with the hip cocked, the side-body line elongated, the face tilted up with half-lidded eyes",
+          "full body facing the camera with the chest and hips square to the lens, the hip cocked hard to one side in a deep waist-to-hip twist while the bust stays turned to the camera, one long-nailed hand on the jutted hip and the other lifting the her hair off the nape, the chin dropped and the eyes up to the lens in a predatory glance, on towering stilettos",
+          "full body from a low hero angle, standing tall and leaning slightly toward the camera with both long-nailed hands resting on the thighs, the shoulders squared in an elegant lumbar arch, the chin lifted with a commanding direct gaze, lips parted glossy, her hair falling forward framing the face, on stilettos",
+          "full body, standing tall with the legs crossed at the knee in an elegant fashion-model X-stance, the weight balanced on both stilettos, one long-nailed hand on the opposite hip and the other at the collarbone, the spine long with a subtle arch, chin tilted, half-lidded sultry gaze, her hair over one shoulder",
+          "full body from a low hero angle, the feet planted apart and firm on both stilettos, both long-nailed hands on the hips, the shoulders pulled back and the chin dropped for a dominant direct stare down at the camera, a commanding lumbar arch, her hair framing the face",
+          "full body, one long-nailed hand resting at the neckline and the other low on the hip, the weight on one stiletto with a soft knee bend, the chin tilted and a self-aware sultry gaze to the camera, lips parted glossy, an intimate self-aware posture, her hair pushed to one side"
+        ],
+        "back_view": [
+          "full body back view with an elegant hip-pop, the spine in a graceful S-curve, one long-nailed hand on the hip and the other reaching up through the her hair, looking back over the shoulder with a half-lidded sultry gaze, the weight on one stiletto with the other foot pigeon-toed inward, lips parted glossy",
+          "full body back view caught mid-stride walking away from the camera with one stiletto lifting and the hips swinging, the torso twisting to glance back over the shoulder, one long-nailed hand resting at the small of the back, her hair down the spine",
+          "full body back view bent slightly forward with both long-nailed hands flat on {surface}, a deep elegant back arch with the hips angled toward the camera, looking back over the shoulder through the her hair, the weight on both stilettos",
+          "full body back view standing with both long-nailed hands lifting all the her hair up off the nape, exposing the full back and spine line, the head dropped slightly forward, the weight on one hip with the stiletto cocked",
+          "full body back view with the shoulder blades against {wall} facing partly away, the hips off {wall} and angled out, one long-nailed hand pressed on {wall} behind, looking back to the camera over the shoulder, the weight on one stiletto",
+          "full body back view with both long-nailed hands resting on the curve of the hips, a deep lumbar arch, the head thrown back, her hair veiling the turned face, the weight on both stilettos pointed",
+          "full body back view kneeling upright with the spine arched and sitting back toward the heels, one long-nailed hand reaching up the back and the other in the hair, looking over the shoulder, the stilettos visible behind"
+        ],
+        "seated": [
+          "perched on {seat} with one leg crossed over the other and the top stiletto pointed at the camera, an extreme lumbar arch, one long-nailed hand on the top knee and the other fingertip at the bottom lip, the bust angled forward, shoulders rolled back, half-lidded direct gaze, her hair framing one breast",
+          "leaning her torso sharply forward from the hips while perched on the edge of {seat}, both elbows planted firmly on top of both knees, the décolleté angled toward the camera, the stilettos crossed at the ankle, one long-nailed hand under the chin, looking up through the lashes with lips parted, her hair falling forward",
+          "reclined back on {seat} propped on one elbow with the other long-nailed hand trailing down the torso, the spine in a long arch, the legs extended with the stilettos crossed at the ankle and pointed, half-lidded predatory gaze, her hair spilling over the backrest",
+          "seated deep in {seat} with the spine arched back over the top of the backrest and both long-nailed hands draped along the top of the backrest, the chest lifted high and the chin dropped back, her hair spilling over the top of the backrest behind her, a half-lidded gaze rolled toward the camera, lips parted glossy, the stilettos crossed at the ankle",
+          "perched on the edge of {seat} with the spine erect and the knees together, both long-nailed hands resting flat on the thighs, the chest lifted in an imperious arch, the chin raised, a commanding half-lidded gaze to the camera, lips parted glossy, her hair over one shoulder",
+          "seated side-saddle on {seat} with the legs together angled to one side and the top stiletto pointed, the torso twisted back to the camera, one long-nailed hand on the upper thigh and the other at the collarbone, an extreme waist twist, half-lidded gaze, her hair over one breast"
+        ],
+        "side_profile": [
+          "full body side profile standing tall on both towering stilettos, an elegant S-curve with a graceful lumbar arch and the bust lifted high in silhouette, both legs long and straight with the weight balanced, one long-nailed hand resting on the hip and the other trailing up the ribcage, chin lifted, lips parted glossy, her hair cascading down the spine",
+          "full body side profile standing on towering stilettos with one foot pointed forward, the hips angled back and the chest forward tracing the hourglass silhouette, both legs long and straight, one long-nailed hand at the nape lifting the her hair and the other on the thigh, the face in profile with a half-lidded gaze, lips parted glossy",
+          "full body side profile caught mid-stride walking on towering stilettos with one leg forward and the stiletto pointed and the back heel lifting off the floor, the hips swung and the chest forward, one long-nailed hand swinging and the other on the hip, chin lifted in profile, her hair streaming back",
+          "full body side profile standing with the back deeply arched and both stilettos planted, the bust forward and the hips tipped back in an exaggerated hourglass silhouette, both long-nailed hands sliding down the front of the thighs, the head tipped back, lips parted glossy, her hair falling down the arched spine",
+          "full body side profile standing on tiptoe on towering stilettos, one arm raised overhead elongating the side-body line with the bust lifted in silhouette, the spine in a long graceful arch, the other long-nailed hand on the hip, the face in profile with a sultry half-lidded gaze, her hair cascading",
+          "full body side profile standing shoulder-first against {wall}, one long-nailed hand raised high on {wall} and the back deeply arched away from {wall}, the bust forward and the hips angled in silhouette, standing on both stilettos with one heel lifted, lips parted, her hair against {wall}",
+          "full body side profile standing tall with both stilettos together, the torso turned to pure profile showing the bust-to-waist-to-hip silhouette, one long-nailed hand on the lower back accentuating the lumbar arch and the other at the collarbone, chin high, a commanding profile gaze, her hair swept over the far shoulder"
+        ],
+        "slot5": [
+          "waist-up shot framed from the waist up, the torso angled and the augmented bust and bodice presented to the camera, one long-nailed fingertip pressed to her own cheek while the gaze drifts dreamily off to the side away from the lens, a vacant airhead daydreaming expression with glossy parted lips, her hair framing the face, the outfit's bodice and upper detail crisp and legible",
+          "waist-up shot framed from the waist up, one long-nailed fingertip lazily twirling a lock of her hair while the eyes wander up and away from the camera lost in a distracted daydream, a vacant ditzy expression and glossy parted lips, the bust and bodice presented and its detail crisp and legible",
+          "waist-up shot framed from the waist up, the head tilted and the gaze wandering off past the lens as if she forgot the camera was there, one long-nailed hand resting at the neckline, a dreamy empty-headed half-smile with glossy lips, her hair over one shoulder, the outfit's upper detail crisp and legible",
+          "waist-up shot framed from the waist up, glancing down and away at her own bare shoulder with a distracted vacant expression, one long-nailed fingertip grazing the collarbone, glossy parted lips, her hair cascading, the bust and bodice detail presented and legible in the frame",
+          "waist-up shot framed from the waist up, both eyes wandering dreamily to the upper corner away from the lens and the chin tilted up in an empty-headed daydream, one long-nailed hand framing the cheekbone, glossy parted lips, her hair cascading, the bodice and outfit detail crisp and legible",
+          "waist-up shot framed from the waist up, the torso turned and the augmented bust and bodice presented, a soft vacant ditzy gaze drifting off to one side away from the camera, one long-nailed fingertip resting at the glossy bottom lip, her hair forward, the outfit's upper detail crisp and legible"
+        ],
+        "pov": [
+          "intimate medium close-up portrait of a sensual Instagram influencer addressing the camera, the face leaning toward the lens, one long-nailed hand buried in the her hair, a smoldering direct gaze and glossy parted lips, the face dominant in the upper-mid frame, a single woman alone",
+          "sensual Instagram glamour portrait from a low angle, the face turned up to the lens and the chin elevated, one long-nailed hand trailing along the collarbone, a half-lidded seductive gaze, lips parted glossy, the décolleté in the lower frame, a single woman alone",
+          "sensual Instagram-influencer candid portrait, a three-quarter face turned to gaze directly into the lens with one long-nailed hand pushing the her hair back from the temple, lips parted glossy, an intimate seductive mood, the face in the upper-mid frame and the décolleté below, a single woman alone",
+          "sensual Instagram boudoir portrait reclining with the head tipped back toward the camera, the face and bust facing the lens, one long-nailed hand resting on the collarbone, a sultry half-lidded gaze, lips parted glossy, a single woman alone",
+          "intimate sensual Instagram close-up portrait facing the camera, one long-nailed fingertip grazing and pulling the glossy bottom lip, a direct smoldering gaze to the lens, the face dominant in the frame and the décolleté below, a single woman alone",
+          "sensual Instagram influencer portrait at a high three-quarter angle, the chin resting on the back of one long-nailed hand with the elbow propped, a coy half-lidded gaze up to the lens, glossy parted lips, the face dominant in the frame, a single woman alone",
+          "sensual Instagram influencer portrait glancing back over one bare shoulder toward the lens, one long-nailed hand drawing the her hair away from the cheek, a smoldering glance and glossy parted lips, the face and shoulder line filling the frame, a single woman alone",
+          "sensual Instagram influencer portrait from slightly above the eyeline, the face tilted up to the camera, one long-nailed hand pressed flat against the upper chest below the collarbone, a sultry up-gaze and glossy parted lips, the face dominant and the décolleté below, a single woman alone"
+        ],
+        "odalisque": [
+          "full body lying on the side with an exaggerated S-curve, an extreme back arch with the bust pushed up and the hip rolled back, one leg extended with the stiletto pointed and the other bent, one arm under the head with long nails in the hair and the other trailing from the collarbone to the hip, half-lidded predatory gaze, her hair cascading",
+          "full body semi-reclined on one hip propped on one forearm with the legs draped and the top stiletto pointed at the camera, the spine in an elegant arch, the other long-nailed hand resting on the thigh, looking to the camera over the shoulder, lips parted glossy, her hair spilling forward",
+          "full body reclining to one side on one hip with the legs draped and both stilettos visible, one arm extended propping the body and the other long-nailed hand trailing from the collarbone to the waist, the spine in a long arch with the bust forward, a half-lidded gaze toward the camera, lips parted glossy, her hair cascading forward",
+          "full body semi-reclined propped on both elbows with the legs draped and one stiletto pointed at the camera, the bust forward and the spine arched, the chin lifted, a half-lidded predatory gaze, long nails resting on the thigh, her hair over one shoulder",
+          "full body reclining back on both elbows with the legs draped and one stiletto pointed at the camera, a deep elegant back arch with the bust lifted, looking to the camera through the lashes, long nails resting on the thigh, lips parted glossy, her hair falling around the face",
+          "full body side profile reclining on one side with an elegant S-curve, the hip rolled up and the bust forward in silhouette, one long-nailed hand supporting the head and the other trailing along the waist, the top stiletto pointed and the legs elegantly stacked, lips parted glossy, her hair cascading along the surface",
+          "full body seen from directly overhead in a zenithal top-down view, lying flat on the back along {surface} with the spine in a long S-curve, one knee drawn up and the stilettos pointed, both long-nailed hands framing the collarbone and the her hair fanned out around the head across the surface, lips parted glossy, gazing straight up into the overhead lens",
+          "full body seen from directly overhead in a zenithal top-down view, the body lying flat on {surface} twisted into an elegant hip-rolled S-curve with the legs stacked and one stiletto pointed, one long-nailed hand resting on the flat stomach and the other above the head amid the fanned her hair, glossy lips parted, looking up to the overhead camera"
+        ]
+      }
+    },
+    "miss_doll": {
+      "registro_estetico": "POLE DANCE + BURLESQUE (directiva Ama 13/08/2026). El vocabulario de cuerpo sale del escenario: agarre en la barra, arco lumbar largo, rodilla girada afuera, trabajo de silla invertida, floorwork sentada. Principio rector del perfil §4 intacto: dispensa sensualidad como PODER, no como oferta — un movimiento donde otras hacen tres.",
+      "vocabulario_prohibido": "Nunca 'ass out/lifted', 'deep cleavage', 'spilling', 'bursting', 'straddling ... ass out', 'lying face-down ... ass lifted', 'slipping the shoulder strap off'. Son gatillos MEDIDOS del filtro safe de Gemini (recalibración Ama 15/06/2026, auto-memoria feedback_gemini_safe_poses) y bloquean incluso con la prenda cubriendo. Equivalentes que sí pasan: 'elegant lumbar arch', 'hips angled', 'ribcage lifted', 'seated reversed'.",
+      "offsets": {
+        "standing": 0,
+        "back_view": 1,
+        "seated": 2,
+        "side_profile": 3,
+        "slot5": 4,
+        "pov": 6,
+        "odalisque": 5
+      },
+      "slots": {
+        "standing": [
+          "full body from a low angle, one long-nailed hand closed high around {upright} with that arm extended overhead, the weight hung back off the grip in a long elegant lumbar arch, the hips angled toward the lens and the chin lifted in a slow appraising look at camera, both stilettos planted",
+          "full body, a stage-entrance stance with the feet close together and one knee broken forward, both hands opening the line of the outfit out and away from the waist as though presenting it, the shoulders squared to the lens and the chin high",
+          "full body from a low angle, the weight on one stiletto with the other knee lifted and turned out to the side and the toe pointed down, one hand at the crest of the hip and the other trailing along the raised thigh, a cold smirk straight at the lens",
+          "full body caught in the still instant before a high kick, one leg swung forward with the toe pointed and both arms opened wide at shoulder height, the spine long and the ribcage lifted, the face square to the camera",
+          "full body with one stiletto placed up on the edge of {surface} and that knee bent high, the hips squared to the lens, one forearm resting across the raised thigh and the other hand at the waist, the chin dropped for a level stare at camera",
+          "full body from a low hero angle, both hands laced behind the platinum bob with the elbows opened wide, the ribcage lifted in an elegant lumbar arch, the weight rolled onto one stiletto and the hips angled, holding the lens",
+          "full body stopped mid-walk with the front stiletto crossed over the line of the other and the hips stacked, one hand hanging loose and the other closed at the waist, the shoulders pulled back and a cold direct gaze at camera"
+        ],
+        "back_view": [
+          "seen from directly behind at full height, both hands closed one above the other around {upright} with the arms extended, the spine drawn into one long line from nape to heel, her face turned back a quarter over the shoulder",
+          "seen from behind at a low three-quarter angle, the weight rolled onto one stiletto and the hips angled away from the lens, her head turned sharply back over the near shoulder with a cold half-lidded look",
+          "seen from behind in a tight waist-up crop, the camera close enough to read every seam, panel, lacing and buckle across her back, one hand lifting the platinum bob clear of the nape, her profile at the frame's edge",
+          "seen from behind with both forearms braced flat against {wall} and the head dropped between them, the shoulder blades drawn together and the weight high on both stilettos, her face angled back toward the lens",
+          "seen from behind caught mid-stride walking away from the lens with the weight already on the forward stiletto, one hand trailing back along the hip, her head turned back over the shoulder",
+          "seen from behind from a slightly elevated angle looking down the length of her back and along the fall of the garment to her heels, both hands resting at the small of her back, her face tilted up over the shoulder to find the lens",
+          "seen from behind standing square to {wall} with the weight even on both stilettos, one hand raised flat against the surface at shoulder height and the other at the hip, her head turned into profile at the frame's edge"
+        ],
+        "seated": [
+          "seated reversed astride {seat} facing its back with the full weight down on the seat, both forearms folded along the top rail and the chin resting on them, the knees wide and both stilettos planted, a cold smirk at the lens",
+          "seated back into {seat} with the full weight on it, one leg crossed high over the other and the top stiletto pointed at the lens, both elbows spread along the arms or the back of the seat, the chin tilted down",
+          "seated with the hips down on {seat} and one stiletto hooked up on its front edge, that knee drawn up and one hand closed around the ankle, the other arm stretched along the back, her gaze level at camera",
+          "seated sideways across {seat} with the hips fully down on it and both legs draped over one arm, the ankles crossed and pointed, the torso twisted back to the lens, one hand braced on the seat behind her",
+          "seated deep in {seat} with the weight down and the shoulders dropped back against it, the head tipped back and the chin raised, both arms opened wide along the top, the legs long and crossed at the ankle on both stilettos",
+          "seated on the front half of {seat} with the hips and thighs fully down, leaning forward with both elbows on the knees and the fingers laced, the shoulders rolled in and a slow cold look up into the lens",
+          "seated upright on {seat} with the weight fully down, the knees pressed together and both stilettos apart and angled, one hand flat on the thigh and the other at the nape, the spine long and the chin high"
+        ],
+        "side_profile": [
+          "a true side profile at full height with one hand closed high on {upright}, the body hung back off that grip in a long clean arch, her gaze forward and away from the lens, the silhouette unbroken from wrist to heel",
+          "a side profile with the near shoulder rolled back and one hip set out along the line of the frame, one hand resting at that hip crest, her head turned a quarter back to the lens through the lashes",
+          "a side profile with the back stiletto planted and the front leg extended along {surface}, the toe pointed and the knee straight, the torso upright in profile, her chin dropped and her eyes cast down the line of her own leg",
+          "a side profile from a low angle at hip height, the ribcage lifted and the head dropped back so the throat draws a long line, one hand at the base of her own skull and the other at the waist",
+          "a side profile leaning with one shoulder and hip against {wall}, the near knee broken and that stiletto crossed over, the near arm hanging loose, her gaze level and cold out past the lens",
+          "a side profile perched on the front edge of {seat} with the knees together and angled away from the lens, the spine long and the shoulders open, her face turned back a quarter toward the camera",
+          "a three-quarter profile turning IN toward the lens with the weight rolling onto the front stiletto, the far arm swinging back and the near hand at the waist, her chin lifted in a slow appraising look at camera"
+        ],
+        "odalisque": [
+          "seated low on the floor with the knees up and open in a wide V, both elbows resting on the knees and the hands hanging loose between them, the chin dropped for a level stare straight at the lens",
+          "seated down on the floor with both legs folded to one side and the ankles stacked, the torso twisted back square to the lens, one hand planted on the floor behind the hip and the other resting on the top thigh",
+          "seated on the floor with one leg stretched long along the ground and the toe pointed and the other knee drawn up, one forearm draped over that raised knee, her head tilted and her gaze cold at camera",
+          "seated on the floor with both hands planted flat on the ground behind her and the arms straight, the ribcage lifted, the knees up and slightly apart with both stilettos flat, her chin raised and her eyes cast down the line of her nose at the lens",
+          "seated on the floor with both knees drawn up together and the arms wrapped loosely around the shins, the chin resting on the knees, her gaze lifted straight into the lens",
+          "seated on the floor on one hip with both legs angled away and propped on one straight arm, the far hand at the collarbone, the shoulders twisted back to the lens",
+          "seated on the floor with the ankles crossed in front and the knees fallen open, both hands resting palm-down on the floor at her sides, the spine long, the chin high and a cold look down at the camera"
+        ],
+        "slot5": [
+          "a waist-up medium shot with the face large and sharp in the frame and the chest prominent in the lower frame with the outfit detail crisp and legible, a single hand raised with one fingertip resting against the lower lip, her gaze drifting off past the edge of the frame with cold indifference",
+          "a waist-up medium shot, the face large and detailed with the chest prominent below and the neckline legible, a single hand pushing the platinum bob back from her temple, her eyes following it away from the lens",
+          "a waist-up medium shot with the chest pushed forward and prominent in the lower frame, a single hand easing a strap, harness line or lapel down off the shoulder, her chin turned away and her gaze low and unfocused off-frame",
+          "a waist-up medium shot, the face the focus and the neckline crisp beneath it, a single hand drawn slowly down the line of her own throat toward the collar, her lashes lowered and her gaze cast down and away from the lens",
+          "a waist-up medium shot with the head tilted, the face large in frame and the chest prominent below, a single hand framing her own cheekbone with the long glossy nails sharp against the skin, her gaze angled off past the camera",
+          "a waist-up medium shot, the chest and the upper outfit detail sharp in the lower frame, a single hand at the choker, buckle or chain detail turning it slowly between two fingers, her eyes down on it and away from the lens",
+          "a waist-up medium shot with the chin dropped and the face turned three-quarters away from the lens, the chest prominent and the outfit legible in the lower frame, a single hand resting flat just below the collarbone, her gaze unfocused beyond the edge of frame"
+        ],
+        "pov": [
+          "a sensual Instagram-influencer portrait of a single woman alone leaning in toward the lens, a single hand in her platinum bob, a smouldering half-lidded gaze straight into the camera, the face dominant in the upper-middle frame with the décolleté below",
+          "a sensual Instagram-influencer portrait of a single woman alone shot from just below her eye line, a single hand resting flat at the collarbone, her chin lifted and her gaze coming down into the lens with cold superiority",
+          "a sensual Instagram-influencer portrait of a single woman alone, her chin resting on the back of a single hand with the elbow propped, a half-lidded smirking gaze up into the lens, the face filling the upper frame",
+          "a sensual Instagram-influencer portrait of a single woman alone turned back over one bare shoulder toward the lens, a single hand drawing the bob away from her cheek, her gaze locked into the camera",
+          "a sensual Instagram-influencer portrait of a single woman alone, a single fingertip with a long glossy nail drawing the lower lip down a fraction, her gaze smouldering directly into the lens, the décolleté in the lower frame",
+          "a sensual Instagram-influencer portrait of a single woman alone lying back with her head tipped toward the camera above her, a single hand resting at her throat, her gaze up into the lens",
+          "a sensual Instagram-influencer portrait of a single woman alone shot from just above her eye line, a single hand laid flat over the heart, her eyes raised into the lens, the face dominant in the frame"
+        ]
+      }
+    },
+    "anais": {
+      "registro_estetico": "OLD GLAMOUR / OLD HOLLYWOOD / BETTIE PAGE (directiva Ama 13/08/2026). Retrato de estudio años 40-50: luz dura de una sola fuente, mandíbula y clavícula dibujadas, manos protagonistas, estola y guante como material de pose. De Bettie Page se toma la GEOMETRÍA de la pin-up (manos tras la nuca, talones juntos con rodillas quebradas, torsión sobre el hombro, apoyo sobre antebrazos con las pantorrillas al aire), NUNCA su expresión.",
+      "adaptacion_declarada": "Bettie Page sonríe abierta y juega a la cámara; el canon de Anaïs es registro FRÍO, sin sonrisa amplia ni risa (verificado en las 26 imágenes de la auditoría 12/08). Se importa la pose, no el gesto: la geometría pin-up sostenida con su mirada de dueña de casa. Si alguna vez la Ama quiere la sonrisa, es una amendación de canon y va por Gate, no por este archivo.",
+      "offsets": {
+        "standing": 1,
+        "back_view": 0,
+        "seated": 3,
+        "side_profile": 2,
+        "slot5": 4,
+        "pov": 6,
+        "odalisque": 5
+      },
+      "slots": {
+        "standing": [
+          "full body facing the lens with the shoulders angled a few degrees off square, the chin lifted and turned into the key light so the jawline and the beauty mark are drawn clean, one hand resting at the hip and the other loose at her side, the weight rolled onto one heel",
+          "full body from a low angle with both hands laced behind her honey blonde waves and the elbows opened wide, the ribcage lifted in a long clean arch, the weight on one heel and the other knee broken forward, her gaze level and cold at the lens",
+          "full body with the heels placed close together and both knees softly bent the same way, the hips set to one side, one hand at the waist and the other turned palm-out beside the thigh, the chin dropped and the eyes lifted to the lens",
+          "full body standing in the opening of {wall} with one shoulder and hip against it, the front heel crossed over the back one, one hand raised flat against the frame at head height, her face square to the lens",
+          "full body squared to the lens with both hands holding the edges of her wrap, stole or coat open and away from the body, the shoulders back and the chin high, the weight even on both heels",
+          "full body with the hips angled a quarter off the lens and the torso wound back so the chest and the full front of the outfit come square to the camera, one hand at the far hip and the other at the collarbone, her chin turned down over the near shoulder in a cold level gaze",
+          "full body from a slightly low angle, one arm raised across the body with the fingers of the other hand at its wrist adjusting the edge of the glove, sleeve or cuff, both elbows held high and away from the waist, the weight on one heel and the chin lifted to the lens"
+        ],
+        "seated": [
+          "seated with the full weight down on {seat}, the hips angled away and the torso wound back square to the lens, one arm stretched along the back of the seat and the other hand at the base of her own throat, the chin lifted into the key light",
+          "seated back into {seat} with the weight fully on it, one leg crossed high over the other and the top foot pointed, both hands folded in the lap, the shoulders open and the gaze level and cold at camera",
+          "seated upright on {seat} with the hips and thighs fully down, the knees pressed together and both heels apart and angled, one hand flat on the seat beside her and the other at the nape lifting her waves, her eyes turned to the lens",
+          "seated sideways across {seat} with the weight fully down on it and both legs draped over one arm of the seat, the ankles crossed and pointed, the torso twisted back to the lens, one elbow hooked over the seat back",
+          "seated deep in {seat} with the shoulders dropped back against it, the head tipped back and the throat drawn long, both arms resting open along the top, the legs long and crossed at the ankle",
+          "seated on the front half of {seat} with the hips and thighs fully down, leaning in with both elbows on the knees and the chin resting on laced fingers, the shoulders rolled forward, her eyes raised into the lens",
+          "seated on {seat} turned three-quarters away with the weight fully down, one hand resting on {surface} in front of her and the other at her waist, her head turned back over the near shoulder to the lens with a cold half-lidded look"
+        ],
+        "odalisque": [
+          "lying along {surface} on one hip with the legs stretched out and stacked, the torso propped up on the near forearm, the far hand resting on the top thigh, her head turned to the lens with a cold level gaze",
+          "lying back along {surface} with the shoulders and hips down, both arms stretched up over the head and the wrists crossed, the ribcage lifted and the legs long and crossed at the ankle, her face turned to the lens",
+          "lying front-down along {surface} with the hips and chest resting on it and the weight taken on both forearms, the shoulders open and the lower legs lifted and crossed at the ankle behind her, her chin up and her gaze straight into the lens",
+          "lying back along {surface} with the head tipped just past its edge and the throat drawn into a long line, both arms resting loose above the head, the legs stretched out along the surface, her gaze coming back to the lens upside down",
+          "lying on one side along {surface} with both knees drawn up and stacked, the head propped on the near hand with that elbow down, the far hand resting along the thigh, her gaze cold and level at the lens",
+          "lying diagonally across {surface} from the lower corner of the frame to the upper, the body stretched to its full length with the toes pointed, one arm folded under the head and the other resting across the waist, her face turned to the camera",
+          "lying back across {surface} with a cushion or bolster under the small of the back so the ribcage lifts, the shoulders and hips still down, both arms fallen open to the sides and the legs stretched long, her head turned to the lens"
+        ],
+        "back_view": [
+          "seen from directly behind at full height, both shoulders square to the lens, the head turned barely a quarter so that only the line of her cheekbone and the beauty mark catch the light, her honey blonde hair gathered forward over the far shoulder to leave the back bare",
+          "seen from behind at a low three-quarter angle from her right, the camera below the line of her hips, her chin dropped toward the near shoulder in a cold sidelong glance, her hair swept entirely off the back",
+          "seen from behind in a tight waist-up crop, the camera close enough to read the seam, lacing or fastening of the garment across her spine, her face turned in profile at the frame's edge, one hand lifting the weight of her hair off the nape",
+          "seen from behind from an elevated angle looking down the length of her back and along the fall of the garment to the floor, her face tilted up over the shoulder to find the lens with a cold appraising gaze",
+          "seen from behind at a wide three-quarter angle from her left, caught mid-stride with the weight already on the forward foot and the garment trailing, her head turned sharply back over the shoulder",
+          "seen from behind standing in a lit doorway or against a lit window, her silhouette rimmed by the light, the camera at eye level, only a sliver of her cheek and the beauty mark visible past the fall of her hair",
+          "seen from behind leaning forward from the waist against a table, rail or back of a chair, the spine curved and the shoulder blades drawn together, her head turned back and down toward the lens with a cold half-lidded look"
+        ],
+        "side_profile": [
+          "a true side profile at full height, nose and chin drawn as a clean silhouette against the key light, her gaze forward and away from the lens, the hourglass line unbroken from shoulder to ankle",
+          "a side profile cropped from the thigh up, the near shoulder rolled toward the lens, her chin dropped and her eyes lifted back into the camera through the lashes",
+          "a side profile with the torso in true profile and the head turned fully back to the lens over the near shoulder, one hand resting at the crest of the hip",
+          "a side profile from a low angle at hip height looking up the length of her, the jaw and throat drawn long, her gaze cast down the line of her nose at the lens",
+          "a side profile seated or perched, knees together and angled away from the lens, the spine long and the shoulders open, her face turned back a quarter toward the camera",
+          "a side profile leaning with one shoulder against a wall, column or doorframe, the near arm hanging loose, her gaze level and cold out past the lens",
+          "a side profile from three-quarters behind the shoulder, the camera reading the back of the arm and the curve of the waist, her profile edge-lit and her lashes lowered"
+        ],
+        "slot5": [
+          "a waist-up medium shot with the face large and sharp in the frame and the bust prominent in the lower frame with the bodice detail crisp and legible, a single hand raised with one fingertip resting against the lower lip, her gaze drifting off past the edge of the frame",
+          "a waist-up medium shot, the face large and detailed with the décolleté prominent below and the bodice legible, a single hand winding one honey blonde wave slowly beside her cheek, her eyes following it away from the lens",
+          "a waist-up medium shot with the bust pushed forward and prominent in the lower frame, a single hand easing a strap, glove edge or lapel down off the shoulder, her chin turned away and her gaze low and unfocused off-frame",
+          "a waist-up medium shot, the face the focus and the neckline of the garment crisp beneath it, a single hand drawn slowly down the line of her own throat toward the neckline, her lashes lowered and her gaze cast down and away from the lens",
+          "a waist-up medium shot with the head tilted, the face large in frame and the décolleté prominent below, a single hand framing her own cheekbone, her gaze angled off past the camera into the middle distance",
+          "a waist-up medium shot, the bust and the upper garment detail sharp in the lower frame, a single hand at the necklace, brooch or collar detail turning it slowly between two fingers, her eyes down on it and away from the lens",
+          "a waist-up medium shot with the chin dropped and the face turned three-quarters away from the lens, the bust prominent and the bodice legible in the lower frame, a single hand resting flat just below the collarbone, her gaze unfocused beyond the edge of frame"
+        ],
+        "pov": [
+          "a sensual Instagram-influencer portrait of a single woman alone leaning in toward the lens, a single hand in her honey blonde waves, a smoldering half-lidded gaze straight into the camera, the face dominant in the upper-middle frame with the décolleté below",
+          "a sensual Instagram-influencer portrait of a single woman alone shot from just below her eye line, a single hand resting flat at the collarbone, her chin lifted and her gaze coming down into the lens, the face dominant with the décolleté below",
+          "a sensual Instagram-influencer portrait of a single woman alone, her chin resting on the back of a single hand with the elbow propped, a coy half-lidded gaze up into the lens, the face filling the upper frame",
+          "a sensual Instagram-influencer portrait of a single woman alone turned back over one bare shoulder toward the lens, a single hand drawing the hair away from her cheek, her gaze locked into the camera",
+          "a sensual Instagram-influencer portrait of a single woman alone, a single fingertip drawing the lower lip down a fraction, her gaze smouldering directly into the lens, the face dominant and the décolleté in the lower frame",
+          "a sensual Instagram-influencer portrait of a single woman alone reclining with her head tipped back toward the camera above her, a single hand resting at her throat, her gaze up into the lens",
+          "a sensual Instagram-influencer portrait of a single woman alone shot from just above her eye line, a single hand laid flat over the heart, her eyes raised into the lens, the face dominant in the frame"
+        ]
+      }
+    }
+  }
+}

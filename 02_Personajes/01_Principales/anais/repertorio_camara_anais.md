@@ -8,6 +8,25 @@
 
 ---
 
+## 🔢 PUNTERO desde el 13/08/2026 — las sub-poses viven en el motor
+
+El texto de las **49 sub-poses** de Anaïs vive en **`99_Sistema/scripts/visual/repertorios_pose.json`** → `personajes.anais.slots`. **Este archivo ya no es su dueño**: conserva el *porqué*, la regla de rotación y —eso sí— sigue siendo **dueño único de los escenarios por look** (tabla más abajo).
+
+> `python 99_Sistema/scripts/visual/prompt_builder.py --poses anais`
+> `python 99_Sistema/scripts/visual/prompt_builder.py --pose anais seated 5`
+
+### 🎬 Registro estético — OLD GLAMOUR / OLD HOLLYWOOD / BETTIE PAGE (Ama 13/08/2026)
+
+Retrato de estudio años 40-50: **luz dura de una sola fuente**, mandíbula y clavícula dibujadas, **manos protagonistas**, estola y guante como material de pose. De **Bettie Page** se toma la **geometría** de la pin-up —manos tras la nuca, talones juntos con rodillas quebradas, torsión sobre el hombro, apoyo sobre antebrazos con las pantorrillas al aire— y **nunca su expresión**.
+
+> 🩹 **Adaptación declarada, no capricho:** Bettie Page sonríe abierta y juega a la cámara; el canon de Anaïs es **registro frío, sin sonrisa amplia ni risa** (verificado en las 26 imágenes de la auditoría del 12/08). Se importa la pose, no el gesto. Si alguna vez la Ama quiere la sonrisa, eso es **amendar canon** y va por Gate, no por este archivo.
+
+**Los tres slots que faltaban quedaron escritos el 13/08** en ese registro: **1 · Standing** (Hurrell tres cuartos · manos tras la nuca · sweetheart de talones juntos · apoyada en el marco · estola abierta · torsión sobre el hombro · ajuste de guante), **3 · Seated** (torsión Hurrell · pierna cruzada alta · pin-up de rodillas juntas · piernas sobre el brazo del asiento · cabeza atrás · codos en rodillas · vuelta de tocador) y **7 · Odalisque** (odalisca clásica · brazos sobre la cabeza · apoyo en antebrazos con pantorrillas cruzadas al aire · cabeza colgando del filo · de lado con rodillas recogidas · diagonal · arco sobre cojín).
+
+> ⚖️ **Sus 14 looks actuales NO se sobrescribieron, y es a propósito.** Los slots 1, 3 y 7 de Anaïs midieron **sanos** (33% · 38% · 63%) porque su texto era **propio de cada look** — el objeto en la mano, el mueble, la acción. Reemplazarlos por repertorio genérico habría **quitado** riqueza, no agregado variedad. El repertorio nuevo rige **de los looks que vienen hacia adelante**; los 14 existentes se retrofitean al tocarlos, como todo en este repo.
+
+---
+
 ## 🔴 Por qué existe
 
 La Ama lo dijo mirando la app: *"las imágenes de ditzy de Anaïs salen casi todas iguales"*. Tenía razón, y era medible.
@@ -45,6 +64,8 @@ Desplazamientos vigentes: Back View `+0` · Side Profile `+2` · Sovereign Gaze 
 > **Slots 1 (Standing), 3 (Seated) y 7 (Odalisque) NO se rotan desde aquí:** su texto ya es propio de cada look (la acción, el objeto en la mano, el mueble) y midió sano. Lo que sí se les cambió fue el escenario, que sale de la tabla de más abajo.
 
 ---
+
+> 🪞 **Las cuatro tablas que siguen son ESPEJO DE LECTURA.** El dueño es `repertorios_pose.json`. Si hay que cambiar una variación, se cambia allá y este espejo se actualiza — nunca al revés.
 
 ## 2 · BACK VIEW — 7 variaciones
 

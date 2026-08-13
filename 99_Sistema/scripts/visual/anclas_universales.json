@@ -29,6 +29,29 @@
       "porque": "Toda prenda de frente abierto (bata, kimono, blazer, abrigo) sale dada vuelta en Back View: el generador rota la prenda para mostrar su frente.",
       "texto": "seen genuinely from behind, the back of the body and the back of the garment toward the lens, any front-opening piece still worn the right way round with its opening, lacing or fastening at the FRONT of the body and therefore hidden from this angle, never rotated so that the front of the garment faces the camera"
     },
+    "SIDE_ANCHOR": {
+      "porque": "El slot Side Profile era el único sin ancla de orientación — el mismo hueco que tenía Standing antes del 12/07/2026. Medido el 13/08: el Side Profile del Look 07 de Miss Doll pedía `three-quarter turn toward camera` y rindió un tres cuartos DESDE ATRÁS, duplicando el ángulo del Back View en vez de aportar el suyo.",
+      "texto": "turned so the SIDE of the body reads to the lens, a genuine profile or three-quarter angle where the silhouette is drawn from the flank and the side of the outfit stays legible, never collapsing into a plain back view with the front of the body turned away from the camera"
+    },
+    "PHOTOREAL_LOCK": {
+      "porque": "Medido el 13/08/2026: el Standing del Look 08 de Miss Doll salió como render 3D — piel lisa sin poros, pelo modelado, luz de videojuego — con el mismo BLOQUE A fotorrealista que rindió siete fotografías en el Look 07. El escenario oscuro con neón saturado empuja al generador hacia render. El negative ya vetaba `plastic mannequin skin, doll face` y no bastó: el veto describe la piel, no el MEDIO.",
+      "texto": "a real photograph taken with a real camera: true photographic skin with visible pores and fine texture, natural light passing through the skin, real fabric weave and real specular highlights, NOT a 3D render, NOT CGI, NOT a game character, NOT digital art and NOT an illustration, never the smooth poreless plastic surface of a rendered model"
+    },
+    "ASYMMETRY_LOCK": {
+      "porque": "Medido el 13/08/2026 sobre el Look 07 de Miss Doll: el `architectural asymmetric one-shoulder` se perdió en 3 de las 7 poses, y siempre en las que el torso gira o se recorta (Back View salió strapless · Side Profile salió con dos tiras y una cordonería inventada en la espalda · POV salió con V simétrico). No fue por BLOQUE B abreviado — la cobertura era 100%. GARMENT_CONSISTENCY nombra escote, manga, ruedo, corte y color, pero NO la asimetría ni el lado, así que no la protege: al rotar el cuerpo el generador 'resuelve' la asimetría volviéndola simetría. Nombrar el LADO es la mitad del ancla, igual que en BACK_ANCHOR.",
+      "opt_in": "Solo en looks cuyo BLOQUE B declare prenda asimétrica (un hombro, monotirante, manga única, ruedo asimétrico, un solo guante). Sustituir LEFT/RIGHT por el lado real del look.",
+      "texto": "the garment is deliberately ASYMMETRIC exactly as described and stays asymmetric from every angle: the shoulder, strap, sleeve, hem or panel named as single or uneven stays single and uneven here too — seen from behind and in profile as much as from the front — never evened out into a symmetrical two-strap, halter or strapless version, and never given a back lacing, closure or panel that is not described"
+    },
+    "ACCESSORY_COUNT_LOCK": {
+      "porque": "Medido el 13/08/2026: el Odalisque del Look 07 de Miss Doll salió con DOS cuffs cromados, uno en cada muñeca, cuando su BLOQUE B dice `a single oversized chrome cuff bracelet, no other jewelry`. El generador simetriza los accesorios igual que simetriza las prendas.",
+      "opt_in": "Todo look cuyo BLOQUE B nombre una cantidad exacta de accesorio (un cuff, un guante, un aro, una tobillera).",
+      "texto": "every accessory appears exactly the number of times stated and on the side stated: a single cuff, bracelet, glove, earring or anklet is worn on ONE limb only with the matching limb left completely bare, and no extra jewellery, band, chain or ornament is added anywhere on the body"
+    },
+    "GARMENT_EXCLUSION_LOCK": {
+      "porque": "Medido el 12/08/2026: el Back View del Look 04 de Miss Doll rindió el corsé oxblood del Look 03 aunque su propio prompt decía `no corset` y su negative prohibía `corset, waist cincher, bustier` por nombre. Una prenda nombrada como AUSENTE en medio del BLOQUE B se lee como parte del vocabulario del outfit, no como una exclusión.",
+      "opt_in": "Todo look cuyo BLOQUE B declare una ausencia (`no corset`, `no stockings`, `no jewelry`, `bare legs`, `no gloves`).",
+      "texto": "every garment or item the description names as NOT worn is genuinely absent from the image: it is not added over the outfit, not layered under it, not implied by any other piece and not present anywhere in the frame"
+    },
     "SEAT_ANCHOR": {
       "porque": "La figura sentada termina apoyada en una isla/mesa cercana en vez de cargar el peso en el asiento nombrado.",
       "texto": "the body's full weight supported entirely by the seat itself, both hips and thighs resting directly on it, NOT leaning against, perched on or propped against any nearby table, desk, counter, island or other surface"
@@ -89,12 +112,19 @@
     "odalisque": "Figura baja: reclinada o sentada en el suelo según el canon del personaje. En Anaïs el encuadre es APAISADO por decisión de la Ama (12/08/2026), no es defecto."
   },
 
+  "anclas_opt_in": {
+    "_nota": "No se aplican a todo look: se activan cuando el BLOQUE B dispara su condición (13/08/2026). El inyector las agrega; el linter avisa si la condición está y el ancla no.",
+    "ASYMMETRY_LOCK": "el BLOQUE B declara prenda asimétrica: one-shoulder · single strap · monotirante · manga única · ruedo asimétrico · un solo guante",
+    "ACCESSORY_COUNT_LOCK": "el BLOQUE B nombra una cantidad exacta de accesorio: a single cuff / one glove / a single earring / an anklet",
+    "GARMENT_EXCLUSION_LOCK": "el BLOQUE B declara una ausencia: no corset · no stockings · no jewelry · bare legs · no gloves"
+  },
+
   "mapa_por_defecto": {
-    "_todos": ["SINGLE_FRAME", "GARMENT_CONSISTENCY"],
+    "_todos": ["SINGLE_FRAME", "GARMENT_CONSISTENCY", "PHOTOREAL_LOCK"],
     "standing": ["ANATOMY_FULL", "FRONT_ANCHOR"],
     "back_view": ["ANATOMY_FULL", "BACK_ANCHOR", "FOOTWEAR_ECHO"],
     "seated": ["ANATOMY_FULL", "SEAT_ANCHOR"],
-    "side_profile": ["ANATOMY_FULL"],
+    "side_profile": ["ANATOMY_FULL", "SIDE_ANCHOR"],
     "slot5": ["ANATOMY_CLOSE", "SINGLE_HAND_CLOSE", "GAZE_OFF_LENS"],
     "pov": ["ANATOMY_CLOSE", "SINGLE_HAND_CLOSE", "SINGLE_SUBJECT", "GAZE_TO_LENS", "POV_NO_DEVICE"],
     "odalisque": ["ANATOMY_FULL", "RECLINE_ANCHOR", "LEVEL_HORIZON", "FOOTWEAR_ECHO"]

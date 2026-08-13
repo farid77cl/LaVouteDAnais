@@ -14,12 +14,13 @@ La **maquinaria** (Step 0 anti-repetición, token bloqueado, ensamblado de promp
 | 🎀 **Miss Doll** | [`miss_doll.md`](miss_doll.md) | **7** | Glacial Command | Látex/PVC/vinilo/mesh/fashion-bondage fino *(fuera neopreno e industrial, 11/08)* | Corsé **opcional** desde 11/08 · lo único inamovible es el **calzado con plataforma** · rosa firma siempre presente · Odalisque es **sentada en el suelo** (único override de ancla del roster) |
 | 👑 **Anaïs Belland** | [`anais.md`](anais.md) | **7** | Sovereign Gaze | Tejido noble: satén, seda, terciopelo, látex, cuero, **pieles** | Guantes **permitidos** · lunar obligatorio · prefijo cinematográfico · su slot 5 se resuelve por el **número** de pose |
 
-## Personaje nuevo — los 3 registros
+## Personaje nuevo — los 4 registros *(eran 3 hasta el 13/08/2026)*
 
 1. Copiar [`_plantilla_perfil_visual.md`](../../.agent/skills/outfit-engine/references/_plantilla_perfil_visual.md) a `<slug>.md` en esta carpeta y rellenarlo **con la Ama**, sección por sección. El ADN de un personaje no se improvisa.
 2. Registrarlo en `99_Sistema/scripts/visual/anclas_universales.json` → `personajes.<slug>` (nombre, slot 5, galería, carpeta e infijo de imagen, overrides de ancla). Con eso hereda el ensamblador, las anclas y el linter.
-3. Registrarlo en `CharacterProfile.ALL` del repo `farid77cl/LV-App` + su offset de `PrimaryKey`. **Sin este paso la galería existe pero la app no la ve.**
-4. Añadir su fila a la tabla de arriba e invocar el `outfit-engine` con el slug. **No se crea un motor nuevo.**
+3. **Escribirle su repertorio de sub-poses** en `99_Sistema/scripts/visual/repertorios_pose.json` → `personajes.<slug>` — **7 variaciones por cada uno de los 7 slots**, con su registro estético propio y sus offsets. **Sin esto, sus N looks salen con la misma cláusula de cámara y las imágenes se ven iguales** (medido en Miss Doll el 13/08: 41-70% de similitud por slot; el único slot sano era el único con repertorio).
+4. Registrarlo en `CharacterProfile.ALL` del repo `farid77cl/LV-App` + su offset de `PrimaryKey`. **Sin este paso la galería existe pero la app no la ve.**
+5. Añadir su fila a la tabla de arriba e invocar el `outfit-engine` con el slug. **No se crea un motor nuevo.**
 
 ## Por qué existe esta carpeta
 

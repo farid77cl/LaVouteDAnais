@@ -274,6 +274,33 @@ Excusas **PROHIBIDAS**, para cualquier personaje:
 
 ---
 
+## 🎥 Sub-poses: el BLOQUE C no se escribe a mano (v2.1 — 13/08/2026)
+
+La cláusula de pose **sale del repertorio del personaje**, nunca de la inspiración del momento.
+
+- **Dueño único del texto:** `99_Sistema/scripts/visual/repertorios_pose.json` → `personajes.<slug>.slots`. **149 sub-poses** registradas: Ele 51 · Miss Doll 49 · Anaïs 49.
+- **Mecanismo:** `PromptBuilder.pose(slot, look_number, props)`. Rotación `(look - 1 + offset_del_slot) % n`, con offset distinto por slot → dos looks seguidos nunca comparten variación, y dentro de un look los siete slots caen en índices distintos.
+- **Props obligatorios:** `{seat}` `{wall}` `{surface}` `{upright}` se rellenan con **mobiliario real del setting del look** (Ama 08/06/2026: *"cada pose debe ser armoniosa con el ambiente"*). Si el look no tiene ese mueble, el builder **salta a la siguiente variación**; jamás escribe un placeholder sin resolver.
+- **Registro estético por personaje** (vive en el JSON, no acá): Ele *high-end editorial fetish* · Miss Doll **pole dance + burlesque** · Anaïs **old glamour / old Hollywood / Bettie Page**.
+
+> **Por qué está en el motor y no en un documento por personaje:** Ele tenía sus 51 sub-poses desde el 08/06/2026, pero vivían en `pose_rotation_v5.py` — motor de **un** personaje — y nunca llegaron a las otras dos. Medido el 13/08 en Miss Doll: cláusula de pose 41-70% idéntica entre sus 14 looks, y el único slot sano era el único con repertorio escrito. **Un fix que vive en el motor de un personaje no es un fix.**
+
+> ⚠️ **Cómo se audita (y cómo NO):** con repertorio puesto, la **similitud media de texto deja de servir** — con 14 looks y 7 variaciones cada una sale dos veces y esos pares son idénticos por diseño (el promedio se queda en 43-57% aunque todo funcione). Las métricas correctas son **variaciones distintas usadas por slot** y **repeticiones en looks consecutivos**.
+
+## 🔒 Anclas nacidas de defectos medidos (13/08/2026)
+
+Cinco anclas nuevas en `anclas_universales.json`, todas con su defecto fotografiado detrás:
+
+| Ancla | Alcance | El defecto que la parió |
+|---|---|---|
+| `PHOTOREAL_LOCK` | **universal** (`_todos`) | El Standing del Look 08 de Miss Doll salió **render 3D**, no fotografía, con el mismo BLOQUE A que rindió 7 fotos en el Look 07. El negative vetaba la *piel* de maniquí, no el **medio** |
+| `SIDE_ANCHOR` | slot `side_profile` | Era el único slot sin ancla de orientación — mismo hueco que tenía Standing antes del 12/07. El Side Profile del Look 07 pedía tres cuartos hacia cámara y salió tres cuartos **desde atrás** |
+| `ASYMMETRY_LOCK` | opt-in | El `one-shoulder` del Look 07 se perdió en **3 de 7 poses** (strapless · dos tiras + cordonería inventada · V simétrico). `GARMENT_CONSISTENCY` nombra escote, manga y ruedo — **no la asimetría ni el lado** |
+| `ACCESSORY_COUNT_LOCK` | opt-in | El Odalisque del Look 07 salió con **dos cuffs**, uno por muñeca, contra un BLOQUE B que pide `a single … cuff, no other jewelry` |
+| `GARMENT_EXCLUSION_LOCK` | opt-in | El Back View del Look 04 rindió el **corsé del Look 03** aunque su prompt decía `no corset` y su negative lo prohibía por nombre |
+
+Las opt-in **las dispara el BLOQUE B, no el slot**: `PromptBuilder.opt_in_de(bloque_b)` las detecta y `build()` las inyecta sola. Condiciones registradas en `anclas_universales.json` → `anclas_opt_in`.
+
 ## 📂 Recursos
 
 - [`references/_plantilla_perfil_visual.md`](references/_plantilla_perfil_visual.md) — esquema de perfil (para personajes nuevos).

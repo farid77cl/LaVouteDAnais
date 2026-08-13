@@ -1,75 +1,54 @@
 # 🎥 Repertorio de Cámara — Miss Doll
 
-> **Creado 12/08/2026.** Dueño único de las variaciones de encuadre de Miss Doll.
-> El perfil visual (`02_Personajes/_perfiles_visuales/miss_doll.md` §4) **apunta aquí**, no copia.
+> 🔢 **PUNTERO, no dueño (13/08/2026).** El texto de las **49 sub-poses** de Miss Doll vive en
+> **`99_Sistema/scripts/visual/repertorios_pose.json`** → `personajes.miss_doll.slots`.
+> Este archivo conserva el **porqué**; el texto operativo no se copia acá.
 >
-> ⚠️ **Este archivo NO cae en el filtro de LV-App** (no contiene `galeria_outfits_miss_doll` ni `outfits_miss_doll` en la ruta). Verificado contra la regla 11 §9bis. No renombrarlo a algo que sí caiga.
+> Ver: `python 99_Sistema/scripts/visual/prompt_builder.py --poses miss_doll`
+> Probar una: `python 99_Sistema/scripts/visual/prompt_builder.py --pose miss_doll standing 8`
 
 ---
 
-## 🧭 Los dos slots que yo tenía MAL escritos
+## 🎪 Registro estético — POLE DANCE + BURLESQUE (Ama 13/08/2026)
 
-**Ditzy y POV están definidos desde mayo-junio de 2026.** No son definiciones nuevas: la Ama las fijó en su momento, Ele las cumple desde entonces, y **yo las escribí mal el 05/08/2026** al estandarizar las 7 poses de Miss Doll y Anaïs. Esto no es un choque de fuentes ni una derogación — es una desviación mía contra un canon que ya existía.
+El vocabulario de cuerpo sale del escenario: **agarre en la barra, arco lumbar largo, rodilla girada afuera, trabajo de silla invertida, floorwork sentada**. El principio rector del perfil §4 no se toca: *dispensa sensualidad como **poder**, no como oferta* — un movimiento donde otras hacen tres.
+
+**7 sub-poses por slot × 7 slots = 49.**
+
+| Slot | Sub-poses | Offset | Sabor |
+|---|---|---|---|
+| 1 · Standing | 7 | +0 | agarre alto en la barra · entrada de showgirl · rodilla girada · antes del kick · pie en alto · manos tras la nuca · parada a media caminata |
+| 2 · Back View | 7 | +1 | doble agarre en la barra · shoulder-check · crop de corsetería · antebrazos contra el muro · salida caminando · línea de columna desde arriba · palma en el muro |
+| 3 · Seated | 7 | +2 | silla invertida a horcajadas · pierna cruzada alta · talón en el filo · piernas sobre el brazo · echada atrás · codos en rodillas · rodillas juntas |
+| 4 · Side Profile | 7 | +3 | colgada de la barra · cadera afuera · pierna extendida · arco con garganta larga · apoyada en muro · perchada en el filo · girando **hacia** el lente |
+| 5 · Glacial Command | 7 | +4 | *(sin cambios — ya estaban desde el 12/08)* |
+| 6 · Command POV | 7 | +6 | *(sin cambios — ya estaban desde el 12/08)* |
+| 7 · Odalisque | 7 | +5 | V abierta con codos en rodillas *(canon)* · mermaid · una pierna estirada · apoyada atrás con torso alto · rodillas al pecho · sentada de lado · tobillos cruzados |
+
+> 🔒 **Vocabulario prohibido** (gatillos MEDIDOS del filtro safe de Gemini, recalibración Ama 15/06/2026): `ass out/lifted` · `deep cleavage` · `spilling` · `bursting` · `straddling … ass out` · `lying face-down … ass lifted` · `slipping the shoulder strap off`. Bloquean **incluso con la prenda cubriendo**. Equivalentes que sí pasan: `elegant lumbar arch`, `hips angled`, `ribcage lifted`, `seated reversed`. El JSON lo lleva escrito en su propio campo.
+
+---
+
+## 🧭 Los dos slots que yo tenía MAL escritos (12/08/2026 — sigue vigente)
+
+**Ditzy y POV están definidos desde mayo-junio de 2026.** No son definiciones nuevas: la Ama las fijó en su momento, Ele las cumple desde entonces, y **yo las escribí mal el 05/08/2026** al estandarizar las 7 poses de Miss Doll y Anaïs.
 
 | Slot | Lo que yo escribí el 05/08 | El canon real |
 |---|---|---|
-| **5 · Glacial Command** | *"Plano medio/primer plano, mirada fría de mando directo a cámara"* | **WAIST-UP** (Ama 28/05, redef. 09/06): rostro grande y nítido + **busto/décolleté prominente en el frame inferior SIEMPRE** + detalle del outfit superior legible · **UNA sola mano** en cuadro (fix 30/06) · **mirada FUERA de cuadro** (diferenciador 02/08) |
-| **6 · Command POV** | *"Cámara a la altura de un sub arrodillado mirando hacia arriba"* | **RETRATO SENSUAL DE INSTAGRAM** (Ama 09/06, reforzado 30/06): thirst-trap de influencer, **mira a la cámara**, medio cuerpo, cara protagonista + décolleté abajo, **una sola mano**, `a single woman alone`. **NO es point-of-view literal** — está explícitamente prohibido |
+| **5 · Glacial Command** | *"Plano medio/primer plano, mirada fría de mando directo a cámara"* | **WAIST-UP** (Ama 28/05, redef. 09/06): rostro grande y nítido + **busto/décolleté prominente abajo SIEMPRE** + outfit superior legible · **UNA sola mano** (fix 30/06) · **mirada FUERA de cuadro** (diferenciador 02/08) |
+| **6 · Command POV** | *"Cámara a la altura de un sub arrodillado mirando hacia arriba"* | **RETRATO SENSUAL DE INSTAGRAM** (Ama 09/06, reforzado 30/06): **mira a la cámara**, medio cuerpo, cara protagonista + décolleté abajo, **una sola mano**, `a single woman alone`. **NO es point-of-view literal** |
 
-**Fuentes** (las tres anteriores a mi error): `.agent/rules/06-generacion-imagenes.md` §5 y §9 · `.agent/skills/ele-outfit-engine/references/pose_repertoire_v5.md` §5-§6 · `dna_v3_5.md`.
-
-> 🔑 **Y el diferenciador Ditzy≠POV ya estaba resuelto.** La Ama levantó el 02/08/2026 que *"salen casi iguales el 90%"* y se arregló **solo en el motor de Ele**: Ditzy mira **fuera** de cuadro, POV mira **al lente**. Nunca se propagó a Miss Doll ni a Anaïs — por eso reapareció el 12/08 como *"las imágenes de ditzy de Anaïs salen casi todas iguales"*. **Es la misma queja, dos meses después, en los personajes a los que no llegó el fix.**
-
-**El registro de Miss Doll no cambia:** smirk + repaso de superioridad, cero calidez (salvo Girly Girl). Lo que cambia es dónde está la cámara, qué entra en cuadro y adónde mira.
+**Fuentes** (las tres anteriores a mi error): `.agent/rules/06-generacion-imagenes.md` §5 y §9 · `.agent/skills/ele-outfit-engine/references/pose_repertoire_v5.md` §5-§6 · `dna_v3_5.md`. El significado de los 7 slots vive hoy en `anclas_universales.json` → `significado_de_los_slots`.
 
 ---
 
-## 5 · GLACIAL COMMAND — 7 variaciones *(waist-up · una mano · mirada fuera de cuadro)*
+## ✅ El pendiente del 12/08 quedó cerrado el 13/08
 
-| # | Gesto | Variación |
-|---|---|---|
-| M1 | Finger-on-Lip | `a waist-up medium shot with the face large and sharp in the frame and the chest prominent in the lower frame with the outfit detail crisp and legible, a single hand raised with one fingertip resting against the lower lip, her gaze drifting off past the edge of the frame with cold indifference` |
-| M2 | Hair-Push | `a waist-up medium shot, the face large and detailed with the chest prominent below and the neckline legible, a single hand pushing the platinum bob back from her temple, her eyes following it away from the lens` |
-| M3 | Strap-Slip | `a waist-up medium shot with the chest pushed forward and prominent in the lower frame, a single hand easing a strap, harness line or lapel down off the shoulder, her chin turned away and her gaze low and unfocused off-frame` |
-| M4 | Throat-Trace | `a waist-up medium shot, the face the focus and the neckline crisp beneath it, a single hand drawn slowly down the line of her own throat toward the collar, her lashes lowered and her gaze cast down and away from the lens` |
-| M5 | Cheek-Frame | `a waist-up medium shot with the head tilted, the face large in frame and the chest prominent below, a single hand framing her own cheekbone with the long glossy nails sharp against the skin, her gaze angled off past the camera` |
-| M6 | Hardware-Touch | `a waist-up medium shot, the chest and the upper outfit detail sharp in the lower frame, a single hand at the choker, buckle or chain detail turning it slowly between two fingers, her eyes down on it and away from the lens` |
-| M7 | Chin-Down Away | `a waist-up medium shot with the chin dropped and the face turned three-quarters away from the lens, the chest prominent and the outfit legible in the lower frame, a single hand resting flat just below the collarbone, her gaze unfocused beyond the edge of frame` |
+Aquel día quedaron escritos solo los slots 5 y 6, y este archivo declaraba los otros cinco *"clonados al 79-83%"*. Se cerró así:
 
-## 6 · COMMAND POV — 7 variaciones *(retrato sensual de Instagram · mira AL lente · una mano)*
+1. **Se midió bien primero.** El 79-83% mezclaba pose **y** escenario, y el escenario es lo que más varía. La cláusula de pose **sola** daba **Standing 68% · Side Profile 70% · Odalisque 54% · Seated 53% · POV 52% · Back View 41% · Glacial Command 21%** — y el único sano era el único con repertorio.
+2. **Se escribieron los 35 que faltaban** en registro pole/burlesque.
+3. **Se metieron al motor, no a un documento** (orden de la Ama): `repertorios_pose.json` es dueño único para las tres muñecas, `PromptBuilder.pose()` las rota.
+4. **Se reensamblaron los 98 prompts** desde el motor. Verificado: **7/7 variaciones distintas por slot**, **cero repeticiones en looks consecutivos**, y dentro de un mismo look los siete slots caen en índices distintos.
 
-⛔ **Prohibido en el positive:** `first-person POV` · `point of view` · `looking down over own body` · `overhead` · `selfie` · `phone`. El generador los lee **literal**.
-
-| # | Gesto | Variación |
-|---|---|---|
-| N1 | Lean-In Thirst-Trap | `a sensual Instagram-influencer portrait of a single woman alone leaning in toward the lens, a single hand in her platinum bob, a smouldering half-lidded gaze straight into the camera, the face dominant in the upper-middle frame with the décolleté below` |
-| N2 | Low-Angle Up | `a sensual Instagram-influencer portrait of a single woman alone shot from just below her eye line, a single hand resting flat at the collarbone, her chin lifted and her gaze coming down into the lens with cold superiority` |
-| N3 | Chin-on-Hand | `a sensual Instagram-influencer portrait of a single woman alone, her chin resting on the back of a single hand with the elbow propped, a half-lidded smirking gaze up into the lens, the face filling the upper frame` |
-| N4 | Over-Shoulder Glance | `a sensual Instagram-influencer portrait of a single woman alone turned back over one bare shoulder toward the lens, a single hand drawing the bob away from her cheek, her gaze locked into the camera` |
-| N5 | Lip-Touch Close | `a sensual Instagram-influencer portrait of a single woman alone, a single fingertip with a long glossy nail drawing the lower lip down a fraction, her gaze smouldering directly into the lens, the décolleté in the lower frame` |
-| N6 | Reclined Up-to-Camera | `a sensual Instagram-influencer portrait of a single woman alone lying back with her head tipped toward the camera above her, a single hand resting at her throat, her gaze up into the lens` |
-| N7 | Hand-on-Chest Up-Gaze | `a sensual Instagram-influencer portrait of a single woman alone shot from just above her eye line, a single hand laid flat over the heart, her eyes raised into the lens, the face dominant in the frame` |
-
-**Rotación:** `índice = (número_de_look - 1 + desplazamiento) mod 7` · slot 5 `+4` · slot 6 `+6`.
-
----
-
-## 🔴 PENDIENTE — los otros cinco slots están clonados al 79-83%
-
-Medido el 12/08/2026 sobre los 98 prompts, similitud media del tramo pose+setting entre los 14 looks:
-
-| Slot | Similitud | Estado |
-|---|---|---|
-| 1 · Standing | **80%** | 🔴 pendiente |
-| 2 · Back View | **83%** | 🔴 pendiente |
-| 3 · Seated | **80%** | 🔴 pendiente |
-| 4 · Side Profile | **79%** | 🔴 pendiente |
-| 5 · Glacial Command | 80% | ✅ resuelto abajo |
-| 6 · Command POV | 80% | ✅ resuelto abajo |
-| 7 · Odalisque | **81%** | 🔴 pendiente |
-
-**Los 14 looks usan prácticamente la misma frase de cámara en todos los slots; lo único que cambia es el escenario.** Es el mismo defecto que la Ama detectó en el Ditzy de Anaïs (*"salen casi todas iguales"*), pero en Miss Doll está en los siete slots y es más fuerte — su galería es más nueva y se escribió toda de una vez.
-
-**Aún no cuesta nada:** Miss Doll está **0/98 materializado**. Ninguna imagen se generó todavía con estos prompts.
-
-**Qué falta:** escribir sus 7 variaciones para los slots 1, 2, 3, 4 y 7 (mismo formato que arriba) y aplicarlas con la misma regla de rotación. Los slots 5 y 6 se hicieron primero porque además de repetidos estaban **semánticamente equivocados** — no era solo variedad, era la pose incorrecta.
+> ⚠️ **La similitud media de texto ya NO es la métrica.** Con 14 looks y 7 variaciones, cada una sale exactamente dos veces: esos pares son idénticos por diseño y el promedio se queda en 43-57% aunque el repertorio funcione perfecto. Las métricas correctas son **variaciones distintas usadas** y **repeticiones consecutivas**. Auditar con el promedio otra vez es repetir el error de método del 13/08.
