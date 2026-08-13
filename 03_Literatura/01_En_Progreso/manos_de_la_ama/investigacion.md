@@ -1,40 +1,35 @@
-# Investigación — «Las Manos de la Ama» (manos_de_la_ama)
+# Investigación — «Las Manos de la Ama» (manos_de_la_ama) (v0.4)
 
-> **ESTO ES UN RELATO ERÓTICO (+18).** Todo lo que sigue existe para que el texto CALIENTE.
+> **ESTO ES UN RELATO ERÓTICO (+18).** Todo lo que sigue existe para que el texto CALIENTE Y EXCITE AL MÁXIMO.
 > Un capítulo lúcido, correcto y frío es un FRACASO.
 
-> ⚑ **Restricción estructural fijada por la Ama (10/08/2026):** *"esto debe quedar en un solo cap"*. NO es un arco multi-capítulo. El Compositor debe armar un mapa de UNA sola escena/capítulo continua — probablemente larga y en varios tramos de escritura (MODO TRAMO), pero un solo archivo `capitulo_1`, sin `cronologia.md` de arco multi-cap en el sentido clásico. La curva de rendición completa (§6) tiene que comprimirse dentro de esa única escena, no repartirse entre capítulos.
-
-> ⚑ **Ele aparece por primera vez como PERSONAJE dentro de la ficción.** No es la pluma narradora externa: ejecuta, toca, habla, y su propio cuerpo entra en la escena como referencia ("yo fui como tú"). Esto es un caso nuevo para el motor.
+> ⚑ **Restricción estructural v0.4 (13/08/2026):** Relato de un solo capítulo extenso (~3,500+ palabras). Integra el morbo desbordado y la **morbosidad exuberante** de Ele, el afeitado corporal completo con navaja recta (rostro y entrepierna/pubis con teasers eróticos), el encierro inmediato del cinturón de castidad, el ablandamiento por cremas fitoestrogénicas e hipnóticas, la metamorfosis bimbo completa (peluca, pestañas XXXL, maquillaje, uñas XXXL, medias con costura, tacones de 14cm y vestido bimbo de vinilo fucsia), el **clímax sexual desbordado** vía entrenamiento prostático/strapon por parte de Ele, y la revelación del secreto en el **epílogo**, donde el esposo transformado es entregado a su esposa dominante.
 
 ---
 
 ## 1. Declaración de Intención (palabras literales de la Ama)
 
 - **Qué tiene que sentir el lector:** *"quiero que el lector sienta la femenizacion en mis manos, atravez de ele, que sienta el morbo contante"*
-  Lectura operativa (sin reformular la cita, solo señalando la mecánica que describe): la orden y la voluntad son de Anaïs — **"en mis manos"** — pero la ejecución física pasa **a través de Ele**, que es el canal/instrumento, no la autora de la orden. El lector no debe sentir "Ele decide" en ningún momento; debe sentir "Anaïs quiere, Ele hace". Y el morbo es explícitamente **"contante"** [sic, constante]: no picos aislados seguidos de valles fríos — temperatura sostenida de principio a fin, sin tramos de respiro narrativo.
-- **Qué busca de nuevo acá:** *"morbo dirijirme directamente a los que alguna vez me han escrito o que lo haran, hacerlos sentir ese proceso"*
-  El relato apunta, con nombre y apellido de intención, a los fans reales que le escriben a la Ama pidiendo ser feminizados. La novedad no es el fetiche (MtF + bimbo ya están en el catálogo) — es la **dirección**: el texto debe funcionar como si estuviera hablándole directamente a esa persona, haciéndola sentir el proceso desde dentro del hombre feminizado, como si fuera ella. Esto es una intención de **dirección emocional**, no necesariamente un mandato de narración en segunda persona literal — la Ama lo dejó explícito en la corrección: *"no necesariamente narración en segunda persona literal — eso lo decide el Compositor/Escritor"*. Lo que la investigación debe dejar planchado es que **el lector-objetivo tiene que reconocerse a sí mismo en el hombre feminizado**, sea cual sea la persona gramatical elegida.
-- **Temperatura objetivo:** muy alta y **constante**, no ascendente-con-valles. Descarga real explícita en la escena de entrenamiento anal (el orgasmo "por el culo" ya está ensayado en la transcripción de origen como el clímax físico del proceso) — esa es la escena que debe descargar de verdad, sin elipsis.
+  La voluntad y la dirección son de Anaïs, pero la ejecución física pasa a través de Ele, alimentada por su **morbosidad exuberante**, excitación abierta y actitud caliente.
+- **Dirección emocional del público:** Dirigido a los lectores insatisfechos que fantasean con entregar el control. La historia comienza con un intercambio de correos entre el sujeto y Anaïs tras leer sus relatos, confesando su matrimonio frío sin sexo y su necesidad de sometimiento.
+- **Temperatura y Clímax Sexual:** El pico sexual absoluto se alcanza con el entrenamiento prostático/strapon ejecutado por Ele (orgasmo anal retenido por la castidad), mientras que la llegada de la esposa actúa como el epílogo cargado de resolución doméstica y dominación conyugal.
 
 ---
 
-## 2. 🔥 QUÉ CALIENTA DEL TEMA
+## 2. 🔥 QUÉ CALIENTA DEL TEMA (v0.4)
 
-**Directiva Ama 22/07/2026: la investigación existe para ver el TONO y saber qué calienta del tema.**
-
-| # | Punto caliente | Por qué prende | De dónde sale |
-|---|----------------|----------------|---------------|
-| 1 | La navaja recta contra su propia garganta, sostenida por manos ajenas, mientras él no puede moverse ni decidir nada — la primera indefensión total del relato, antes de que nada "erótico" haya pasado todavía | El filo real contra la piel real vuelve literal lo que después será metafórico (entregar el control). El morbo nace de que la vulnerabilidad es física y objetiva, no simbólica, y llega primero que el placer | roleplay_origen_10-08.md líneas 238-264; corpus externo: el afeitado con navaja recta se describe como "ritual" que paraliza y relaja a la vez (ver §3) |
-| 2 | El peso del breast plate cuando cae sobre el pecho por primera vez — no la imagen, el peso | El cuerpo registra la masa antes de que la mente entienda qué significa (orden PESO→PRESIÓN→ANATOMÍA→PULSO de la guía MtF §II). El instante exacto en que algo ajeno empieza a pesar sobre su propio esternón es el primer "esto ya es real" del relato | roleplay líneas 367-379; guía MtF §5.1; testimonios reales de breast forms: "pueden sentirse fríos y pesados al principio, el frío se va con el calor del cuerpo" (ver §3) |
-| 3 | El clic de la cerradura del cinturón de castidad — el sonido exacto, no la imagen del objeto | Es el punto de no retorno sonoro del relato: antes del clic hay negociación implícita, después no. El sonido documenta el instante donde deja de tener acceso a su propio cuerpo | roleplay línea 415 ("¡Click!"); testimonios reales de keyholding: "la sexualidad deja de ser tuya para acceder" (ver §3) |
-| 4 | Repetir la frase en voz alta y **oírse a sí mismo decirla** — no que se la digan a él, que él la pronuncie con su propia voz | La instalación de una creencia por auto-verbalización es más fuerte que la orden recibida pasivamente: el cuerpo reconoce su propia voz diciendo lo que la mente todavía niega. Es el mecanismo real del "no pienso" → "soy muñeca" → "soy de la Ama" de la transcripción | roleplay líneas 316-332, 459-476, 733-747; técnica real de cumplimiento forzado / auto-persuasión (ver §4) |
-| 5 | El dedo que encuentra el punto exacto y el placer llega de un lugar que él nunca había catalogado como propio ("eso no viene de tu cosita... viene de ATRÁS") | Es la traición del cuerpo llevada a su forma más literal: el placer no discute con la identidad, la desborda desde un órgano que él no eligió sentir. No hay negociación posible con un orgasmo que llega de donde no lo esperaba | roleplay líneas 890-906; guía MtF §I.1 (arousal non-concordance) |
-| 6 | Anaïs observando desde la puerta o el borde de la cama, sin tocar, mientras Ele ejecuta — el sujeto sabe que hay una jueza mirando y que Ele solo reporta a ella | El triángulo (ejecutor / observadora / sujeto) multiplica la exposición: no es solo "me están tocando", es "me están tocando para que otra lo evalúe". La mirada de Anaïs nunca se retira del cuadro aunque sus manos sí | roleplay líneas 195-197, 334-346, 489-497, 805-819 — Anaïs siempre presente como destinataria de reporte ("Ama... like...") |
-| 7 | Ele diciéndole "yo fui como tú" y tocándose a sí misma como prueba viviente antes de tocarlo a él | La identificación (guía MtF §1.6 reconocimiento externo, aplicada aquí al revés: la ejecutora es también prueba de destino) hace que la transformación deje de ser abstracta — hay un cuerpo ya consumado en la habitación, mostrando el final del camino antes de empezarlo | roleplay líneas 60, 116-120, 169, 185, 601-616 |
-| 8 | El doble espejo: verse a sí mismo transformado, con Ele al lado, dos figuras iguales en el reflejo | La guía MtF §5.5 lo nombra "variante avanzada" — multiplica el reconocimiento. Verse solo confirma; verse junto a la prueba viviente de que esto ya pasó antes, sella | roleplay líneas 602-616; guía MtF §III Tiempo 3 |
-| 9 | La orden que llega filtrada — Anaïs nunca dice la palabra directamente, Ele la ejecuta y la nombra, y el sujeto entiende que detrás de la voz de Ele hay otra voz que no se ve pero que manda | Esto es exactamente el mecanismo que pide la Declaración de Intención (§1): el morbo "en las manos" de Anaïs "a través de" Ele. El sujeto (y el lector) sienten dos capas de autoridad operando al mismo tiempo | brief_idea.md §3; roleplay pasa esto en cada bloque ("Ama... like... ¿qué hacemos primero?") |
-| 10 | El lector reconociéndose: el arquetipo compuesto está construido para que cualquier hombre que le haya escrito a la Ama vea sus propias palabras en la boca de un personaje que no es él pero podría serlo | Esta es la novedad explícita de la Respuesta 2 (§1). El morbo no es solo el proceso — es que el proceso está dirigido a ti específicamente, lector, si alguna vez se lo pediste a la Ama | brief_idea.md §2; Respuesta 2 de la Ama (10/08/2026); paralelo con el género TG caption, que funciona por autoinserción directa del lector en la transformación (ver §3) |
+| # | Punto caliente | Por qué prende |
+|---|----------------|----------------|
+| 1 | **Intercambio epistolar previo** | El sujeto confiesa en correos su vida gris y falta de sexo, entregando su voluntad a Anaïs antes de llegar a La Voûte. |
+| 2 | **El afeitado a navaja completo (cara y entrepierna) + Tease** | El filo de la navaja en la yugular e ingle produce indefensión física real. Ele juega con su verga ablandada, le da lambetazos y acaricia su ano mientras pasa la navaja. |
+| 3 | **Cinturón de castidad inmediato** | Clic metálico rotundo tras el afeitado genital. La llave va directo al llavero de Anaïs. La virilidad queda inaccesible durante todo el relato. |
+| 4 | **Cremas hormonales e hipnóticas** | Fitoestrógenos y activos de trance absorbiéndose por los poros abiertos por el afeitado, ablandando piel, facciones y resistencia mental. |
+| 5 | **Morbosidad exuberante de Ele** | Ele susurra obscenidades, muestra su propia excitación (coño mojado, pechos de 1000cc rebotando) y disfruta descaradamente la transformación del sujeto. |
+| 6 | **Circuito cerrado Mente-Cuerpo** | La estimulación mental provoca respuestas eróticas físicas que aceleran la absorción de la crema y profundizan el trance. |
+| 7 | **Metamorfosis Bimbo Total** | Peluca dark cherry, pestañas XXXL, labios overlined, uñas de 5cm, medias traslúcidas con costura, tacones de 14cm y vestido bimbo de vinilo rosa fucsia apretado. |
+| 8 | **Aprobación de Anaïs** | Ele busca periódicamente la mirada de Anaïs tras cada logro, recibiendo caladas y asentimientos fríos de aprobación. |
+| 9 | **PEAK SEXUAL: Entrenamiento prostático / Strapon** | Ele le levanta el vestido de vinilo, lo inclina en el tocador y lo penetra analmente con el strapon, regalándole un orgasmo prostático explosivo sin tocar su verga aprisionada. |
+| 10 | **EPÍLOGO: El Traspaso a la Esposa Dominante** | Revelación de que la esposa también escribía a Anaïs buscando dominación. Traspaso de la correa de manos de Ele a la esposa para iniciar un nuevo matrimonio. |
 
 Nada de esto es abstracto: cada punto caliente es un instante localizable en el tiempo del relato, no una descripción de tema.
 
