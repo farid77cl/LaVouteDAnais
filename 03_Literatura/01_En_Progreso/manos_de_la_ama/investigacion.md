@@ -1,4 +1,4 @@
-# Investigación — «Las Manos de la Ama» (manos_de_la_ama) (v0.4)
+# Investigación — «Cartas a Anaïs: Obtuve lo que pedí» (manos_de_la_ama) (v0.8)
 
 > **ESTO ES UN RELATO ERÓTICO (+18).** Todo lo que sigue existe para que el texto CALIENTE Y EXCITE AL MÁXIMO.
 > Un capítulo lúcido, correcto y frío es un FRACASO.

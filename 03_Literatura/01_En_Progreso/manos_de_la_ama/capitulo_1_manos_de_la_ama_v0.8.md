@@ -1,4 +1,4 @@
-# Capítulo 1: Las manos de la Ama (v0.8)
+# Cartas a Anaïs: Obtuve lo que pedí (v0.8)
 
 El cuero del collar le aprieta la garganta con la firmeza justa de una advertencia. La correa cuelga corta, apenas dos vueltas apretadas en los dedos de Ele, antes de cruzar la puerta de la suite de preparación. No hay violencia bruta en el gesto, pero sí una autoridad aplastante: mientras avanza con la mirada fija en el mármol negro del suelo, entiende que cada paso que da en esta habitación ha dejado de pertenecerle.
 

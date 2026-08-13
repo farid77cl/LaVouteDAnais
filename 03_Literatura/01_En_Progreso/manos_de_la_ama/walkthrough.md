@@ -1,4 +1,4 @@
-# Walkthrough — Las Manos de la Ama
+# Walkthrough — Cartas a Anaïs: Obtuve lo que pedí
 
 *Bitácora viva del proyecto. Engine Escritura LV v4.8 · Nivel 4 · Capítulo único extenso.*
 *Slug: `manos_de_la_ama` · Eje: feminización/MtF hipnótico-hormonal + bimboficación + tease de castración + impacto de castidad + giro conyugal (esposa dominante).*

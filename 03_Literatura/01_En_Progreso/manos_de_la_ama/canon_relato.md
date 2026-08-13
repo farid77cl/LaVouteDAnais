@@ -1,4 +1,4 @@
-# Canon Relato — «Las Manos de la Ama» (v0.5)
+# Canon Relato — «Cartas a Anaïs: Obtuve lo que pedí» (v0.8)
 > v4.8 / Nivel 4 — Un solo documento, un solo capítulo extenso. La voz literal de la Ama gana sobre cualquier interpretación.
 
 ## 1. Premisa
