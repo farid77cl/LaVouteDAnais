@@ -148,6 +148,14 @@
           "poses_afectadas": 232,
           "poses_afectadas_sin_imagen": 0,
           "porque_no_se_toca": "Prompts fosilizados de la era pre-fix anti-collage. Medido 12/08/2026: las 232 poses afectadas YA están materializadas — riesgo vivo CERO, no queda ninguna por generar con ese texto. Reescribirlas no cambia ninguna imagen y solo genera churn. Retrofit al tocar, como el resto del repo. Cualquier look FUERA de esta lista que aparezca con metalenguaje es regresión y bloquea."
+        },
+        "anclas_faltantes_en_poses_ya_materializadas": {
+          "medida": "2026-08-13",
+          "avisos_del_linter": 11257,
+          "poses_sin_imagen_con_ancla_faltante": 0,
+          "que_se_hizo": "Retrofit de anclas SOLO sobre el riesgo vivo: las 858 poses de 174 looks que NO tenían archivo en el índice de git (`inyectar_anclas.py ele --solo-sin-imagen --opt-in --sin=GARMENT_EXCLUSION_LOCK`). Anclas inyectadas: PHOTOREAL_LOCK 858 · GARMENT_CONSISTENCY 421 · SINGLE_HAND_CLOSE 274 · RECLINE_ANCHOR y LEVEL_HORIZON 156 c/u · ASYMMETRY_LOCK 151 · SINGLE_SUBJECT, GAZE_TO_LENS y POV_NO_DEVICE 144 c/u · SIDE_ANCHOR 140 · FOOTWEAR_ECHO 139 · GAZE_OFF_LENS 130 · BACK_ANCHOR 121 · ANATOMY_CLOSE 11 · SEAT_ANCHOR 10 · FRONT_ANCHOR 1.",
+          "porque_no_se_toca": "Los 11.257 avisos que quedan son TODOS de poses con imagen ya materializada (3.349 poses medidas contra `git ls-files`, no contra el disco: los PNG llevan skin-worktree). Reescribir el prompt de una pose que ya tiene su foto no cambia ninguna imagen — solo genera churn en un archivo de 601 looks que además reescribe el bot. La métrica que importa NO es el total de avisos sino `poses_sin_imagen_con_ancla_faltante`, y esa está en 0. Si vuelve a subir, es que entraron looks nuevos sin ensamblar por el motor.",
+          "por_que_GARMENT_EXCLUSION_LOCK_queda_fuera": "Su regex se dispara con `no gloves`, y en Ele esa frase aparece en 4.207 prompts porque los guantes le están prohibidos por canon (cláusula universal del ADN, ya cubierta por NO_ARMWEAR). No es una ausencia declarada look por look — que es el caso para el que se escribió el ancla (el `no corset` del Look 04 de Miss Doll). En Anaïs el mismo disparador SÍ es legítimo y ahí se aplicó."
         }
       }
     },
