@@ -335,3 +335,14 @@ La esposa toma la correa y da un firme tirón seco hacia arriba. El hombre, atra
 El hombre, temblando de placer y gratitud dócil, besa la mano de su esposa, aceptando dichoso el inicio de su nueva vida.
 
 ---
+
+Si has llegado hasta aquí, si mi historia y el destino de esta muñeca han provocado algo en ti, entonces esto es para ti.
+
+Yo, Anaïs Belland, te invito a escribirme.
+
+Cuéntame tus fantasías. Cuéntame tus deseos más ocultos de sumisión y feminización.
+
+Escríbeme a: **anais.belland@outlook.com**
+
+*Avec dévotion obscure,*  
+**Anaïs Belland**
