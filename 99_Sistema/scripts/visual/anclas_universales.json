@@ -1,9 +1,8 @@
 {
   "_dueno_unico": "Este archivo es el DUEÑO ÚNICO del texto literal de las anclas anti-defecto del outfit-engine. La doctrina (cuándo aplica cada una) vive en .agent/skills/outfit-engine/SKILL.md §Ensamblado; el texto operativo vive AQUÍ y nadie más lo copia. prompt_builder.py lo carga, el linter lo verifica.",
-  "version": "1.0",
-  "fecha": "2026-08-12",
+  "version": "2.4",
+  "fecha": "2026-08-14",
   "idioma": "en",
-
   "anclas": {
     "SINGLE_FRAME": {
       "porque": "El metalenguaje multi-toma y la propia deriva del generador producen hojas de contacto, grillas y marcos con su imagen dentro de la escena. El negative NO basta: Gemini lo ignora. El ancla va afirmativa, en el POSITIVE.",
@@ -101,16 +100,36 @@
     "GAZE_TO_LENS": {
       "porque": "La otra mitad del diferenciador Ditzy≠POV (Ama 02/08/2026): el retrato de influencer mira SIEMPRE a la cámara.",
       "texto": "her gaze locked directly into the lens, the face dominant in the upper-middle of the frame with the décolleté below it"
+    },
+    "SENSUAL_STATE": {
+      "texto": "her hands never idle — one hand caught mid-gesture against her own body or her clothing, fingertips tracing a seam, hooking a strap, easing an edge open or drawn slowly along her own bare skin, and the fabric under visible tension wherever it meets her: clinging along the hip, drawn taut across the waist, slipping at the shoulder, the light catching and sliding along that line of tension",
+      "motivo": "Ama 14/08/2026: «no transmite sensualidad». CANON_VISUAL_ANAIS §138-139 («Manos Nunca Inactivas», «Tensión Textil») existía escrito y medía 2 y 0 apariciones en 98 prompts. El vocabulario estaba, no estaba cableado.",
+      "fecha": "2026-08-14"
+    },
+    "LIVED_IN_ROOM": {
+      "texto": "the room lived-in and disturbed rather than staged — upholstery or bedding rumpled where a body has just been, a garment discarded across a chair or fallen on the floor, a glass left half-drunk with a crimson lip mark on its rim, a slow curl of cigarette smoke hanging in the still warm air, and the light falling across her body itself: raking along the curve of her hip, sliding down the length of her thigh and catching on the sheen of fabric and bare skin",
+      "motivo": "Ama 14/08/2026: «el entorno no es sensual». Medido en 98 prompts: 547 objetos de mobiliario contra 0 huellas de cuerpo, 0 atmósfera y 0 luz descrita sobre la piel. La regla de setting pedía «espacio + 3 muebles + fuente de luz» y entregó exactamente eso: un inventario.",
+      "fecha": "2026-08-14"
+    },
+    "LEG_CUT_LOCK": {
+      "texto": "her knickers cut high at the waist in true period style but with the leg openings cut sharply upward to the crest of the hip bone, the whole length of hip and thigh left bare, never a full-coverage brief, never a boyshort, culotte or low-leg cut that covers the hip or the top of the thigh",
+      "motivo": "Ama 14/08/2026. Correccion de mi propio diagnostico del 13/08: eximi a Anais de BOTTOM_CUT_LOCK argumentando que su calzon retro de talle alto era Bettie Page legitimo — y nombre el TALLE sin nombrar nunca la PIERNA. Bettie Page usa talle alto CON la pierna cortada a la cadera; eso es lo que lo hace sensual. El atributo que no se nombra lo resuelve el generador con cobertura total (mismo modo de falla que el Look 801).",
+      "fecha": "2026-08-14"
     }
   },
-
   "negative_universal": {
     "porque": "Segunda capa de los defectos transversales (collage, figura duplicada, anatomía, selfie, texto sobre prenda). NO reemplaza a las anclas afirmativas del positive — Gemini ignora el negative con frecuencia — pero se agrega siempre al negative base de CUALQUIER personaje.",
     "texto": "collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text"
   },
-
-  "slots_universales": ["standing", "back_view", "seated", "side_profile", "slot5", "pov", "odalisque"],
-
+  "slots_universales": [
+    "standing",
+    "back_view",
+    "seated",
+    "side_profile",
+    "slot5",
+    "pov",
+    "odalisque"
+  ],
   "significado_de_los_slots": {
     "_nota": "Qué es cada slot de cámara, para las TRES muñecas. Dos de los nombres son históricos y engañan: la pose evolucionó y el nombre se quedó (directiva Ama 12/08/2026). Un personaje puede renombrar su slot y cambiar la expresión, pero NO el propósito de encuadre.",
     "standing": "Cuerpo entero de pie, de frente a cámara. Se ve el outfit completo y el calzado.",
@@ -121,7 +140,6 @@
     "pov": "POV — definido por la Ama el 09/06/2026 y reforzado el 30/06/2026; NO es una definición nueva. RETRATO SENSUAL DE INSTAGRAM (thirst-trap de influencer): el sujeto MIRA A LA CÁMARA, retrato de medio cuerpo, cara protagonista + décolleté abajo, UNA sola mano en cuadro. NO es un point-of-view literal. PROHIBIDO en el positive: 'first-person POV', 'point of view', 'looking down over own body', 'overhead', 'selfie', 'phone' — el generador los lee LITERAL. Anclar siempre 'a single woman alone'. Canon: .agent/skills/ele-outfit-engine/references/dna_v3_5.md · pose_repertoire_v5.md §6 · .agent/rules/06-generacion-imagenes.md §5 y §9.",
     "odalisque": "Figura baja: reclinada o sentada en el suelo según el canon del personaje. En Anaïs el encuadre es APAISADO por decisión de la Ama (12/08/2026), no es defecto."
   },
-
   "anclas_opt_in": {
     "_nota": "No se aplican a todo look: se activan cuando el BLOQUE B dispara su condición (13/08/2026). El inyector las agrega; el linter avisa si la condición está y el ancla no.",
     "ASYMMETRY_LOCK": "el BLOQUE B declara prenda asimétrica: one-shoulder · single strap · monotirante · manga única · ruedo asimétrico · un solo guante",
@@ -129,22 +147,51 @@
     "GARMENT_EXCLUSION_LOCK": "el BLOQUE B declara una ausencia: no corset · no stockings · no jewelry · bare legs · no gloves",
     "DRESS_LEG_CLOSURE": "el BLOQUE B nombra prenda de falda: dress · gown · skirt · robe · kimono · túnica (Ama 13/08/2026, transversal a las tres muñecas)"
   },
-
   "anclas_siempre": {
     "_nota": "Anclas que un personaje lleva en TODOS sus slots, además de `mapa_por_defecto._todos` (13/08/2026). Existe porque hay prohibiciones de canon que son de un personaje y no del repo: meterlas en `_todos` se las impondría a los tres, y repetirlas en los 7 `overrides` sería copia. `prompt_builder.anclas_de_slot()` las concatena después de `_todos`; el linter las exige igual que a las demás. Se declaran en `personajes.<slug>.anclas_siempre`."
   },
-
   "mapa_por_defecto": {
-    "_todos": ["SINGLE_FRAME", "GARMENT_CONSISTENCY", "PHOTOREAL_LOCK"],
-    "standing": ["ANATOMY_FULL", "FRONT_ANCHOR"],
-    "back_view": ["ANATOMY_FULL", "BACK_ANCHOR", "FOOTWEAR_ECHO"],
-    "seated": ["ANATOMY_FULL", "SEAT_ANCHOR"],
-    "side_profile": ["ANATOMY_FULL", "SIDE_ANCHOR"],
-    "slot5": ["ANATOMY_CLOSE", "SINGLE_HAND_CLOSE", "GAZE_OFF_LENS"],
-    "pov": ["ANATOMY_CLOSE", "SINGLE_HAND_CLOSE", "SINGLE_SUBJECT", "GAZE_TO_LENS", "POV_NO_DEVICE"],
-    "odalisque": ["ANATOMY_FULL", "RECLINE_ANCHOR", "LEVEL_HORIZON", "FOOTWEAR_ECHO"]
+    "_todos": [
+      "SINGLE_FRAME",
+      "GARMENT_CONSISTENCY",
+      "PHOTOREAL_LOCK"
+    ],
+    "standing": [
+      "ANATOMY_FULL",
+      "FRONT_ANCHOR"
+    ],
+    "back_view": [
+      "ANATOMY_FULL",
+      "BACK_ANCHOR",
+      "FOOTWEAR_ECHO"
+    ],
+    "seated": [
+      "ANATOMY_FULL",
+      "SEAT_ANCHOR"
+    ],
+    "side_profile": [
+      "ANATOMY_FULL",
+      "SIDE_ANCHOR"
+    ],
+    "slot5": [
+      "ANATOMY_CLOSE",
+      "SINGLE_HAND_CLOSE",
+      "GAZE_OFF_LENS"
+    ],
+    "pov": [
+      "ANATOMY_CLOSE",
+      "SINGLE_HAND_CLOSE",
+      "SINGLE_SUBJECT",
+      "GAZE_TO_LENS",
+      "POV_NO_DEVICE"
+    ],
+    "odalisque": [
+      "ANATOMY_FULL",
+      "RECLINE_ANCHOR",
+      "LEVEL_HORIZON",
+      "FOOTWEAR_ECHO"
+    ]
   },
-
   "personajes": {
     "ele": {
       "nombre": "Ele",
@@ -155,12 +202,54 @@
       "prefijo_archivo": "ele_",
       "prefijo_carpeta_look": "look",
       "overrides": {},
-      "anclas_siempre": ["BOTTOM_CUT_LOCK"],
+      "anclas_siempre": [
+        "BOTTOM_CUT_LOCK"
+      ],
       "nota": "La flota L200-L800 ya lleva texto equivalente inyectado por el motor histórico. NO se retrofitea en masa: los looks NUEVOS se ensamblan con esta librería (convención retrofit-al-tocar del repo).",
       "deuda_declarada": {
         "medida": "2026-08-12",
         "metalenguaje_multi_toma": {
-          "looks": [711, 715, 720, 721, 722, 723, 728, 729, 731, 761, 762, 763, 764, 765, 766, 767, 768, 770, 771, 772, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 795, 797],
+          "looks": [
+            711,
+            715,
+            720,
+            721,
+            722,
+            723,
+            728,
+            729,
+            731,
+            761,
+            762,
+            763,
+            764,
+            765,
+            766,
+            767,
+            768,
+            770,
+            771,
+            772,
+            774,
+            775,
+            776,
+            777,
+            778,
+            779,
+            780,
+            781,
+            782,
+            783,
+            784,
+            785,
+            786,
+            787,
+            788,
+            789,
+            790,
+            795,
+            797
+          ],
           "poses_afectadas": 232,
           "poses_afectadas_sin_imagen": 0,
           "porque_no_se_toca": "Prompts fosilizados de la era pre-fix anti-collage. Medido 12/08/2026: las 232 poses afectadas YA están materializadas — riesgo vivo CERO, no queda ninguna por generar con ese texto. Reescribirlas no cambia ninguna imagen y solo genera churn. Retrofit al tocar, como el resto del repo. Cualquier look FUERA de esta lista que aparezca con metalenguaje es regresión y bloquea."
@@ -185,9 +274,16 @@
       "prefijo_archivo": "miss_doll_",
       "prefijo_carpeta_look": "look",
       "overrides": {
-        "odalisque": ["ANATOMY_FULL", "FLOOR_SEAT_ANCHOR", "LEVEL_HORIZON", "FOOTWEAR_ECHO"]
+        "odalisque": [
+          "ANATOMY_FULL",
+          "FLOOR_SEAT_ANCHOR",
+          "LEVEL_HORIZON",
+          "FOOTWEAR_ECHO"
+        ]
       },
-      "anclas_siempre": ["BOTTOM_CUT_LOCK"],
+      "anclas_siempre": [
+        "BOTTOM_CUT_LOCK"
+      ],
       "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon.",
       "conflicto_resuelto_13_08_2026": "Las 'piernas en V' de su Throne en Suelo CHOCAN con DRESS_LEG_CLOSURE (Ama 13/08/2026) cuando el look es de vestido/falda/bata. Gana la directiva de la Ama: en esos looks el Odalisque se resuelve con las dos piernas plegadas hacia un lado (sirena), NO en V. La V queda reservada a los looks de calzón/bikini/catsuit. Codificado en el perfil §4 y en repertorios_pose.json."
     },
@@ -200,8 +296,11 @@
       "prefijo_archivo": "anais_",
       "prefijo_carpeta_look": "look",
       "overrides": {},
-      "anclas_siempre": [],
-      "nota": "Su BLOQUE B suele llevar guantes de ópera: el FOOTWEAR_ECHO aplica igual, pero el token de uñas de mano se OMITE cuando los guantes cubren los dedos (perfil §5.4). **BOTTOM_CUT_LOCK NO se le aplica** (Ama 13/08/2026): su canon Vintage Noir / Bettie Page usa calzón retro de talle alto como pieza legítima de época — imponerle la tanga le rompería el período. **Sí lleva DRESS_LEG_CLOSURE en la práctica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda (perfil §5.4): el opt-in se dispara solo."
+      "anclas_siempre": [
+        "SENSUAL_STATE",
+        "LIVED_IN_ROOM"
+      ],
+      "nota": "Su BLOQUE B suele llevar guantes de opera: el FOOTWEAR_ECHO aplica igual, pero el token de unas de mano se OMITE cuando los guantes cubren los dedos (perfil 5.4). **BOTTOM_CUT_LOCK sigue sin aplicarsele** (no lleva la tanga de Ele: la convertiria en otra muneca) **pero desde el 14/08/2026 lleva LEG_CUT_LOCK**, su corte propio: talle alto de epoca CON la pierna cortada al filo de la cadera. Deroga la exencion escrita el 13/08, que autorizaba por omision el calzon de cobertura total que la Ama rechazo. Ademas lleva SENSUAL_STATE y LIVED_IN_ROOM en todos sus prompts. **Si lleva DRESS_LEG_CLOSURE en la practica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda."
     }
   }
 }

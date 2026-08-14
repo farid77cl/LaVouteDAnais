@@ -143,6 +143,19 @@ Desplazamientos vigentes: Back View `+0` · Side Profile `+2` · Sovereign Gaze 
 > **Por qué específicos:** en la auditoría, los looks con setting genérico (`dark chamber`, `La Voûte interior`) **cambiaban de habitación entre poses del mismo look** — el L01 pasó de salón de baile a sala de piedra a panelado de madera a arcos góticos. El L14, cuyo setting nombraba mobiliario concreto, **mantuvo la misma habitación en las 7 poses**. El generador no es caprichoso: rellena lo que no se le dice.
 >
 > Regla: **el escenario se describe con el mismo nivel de detalle que el vestuario.** Mínimo: el espacio + tres piezas de mobiliario u objetos nombrados + la fuente de luz.
+>
+> 🔥 **AMPLIADA 14/08/2026 (Ama: *"el entorno no es sensual"*) — la regla vieja pedía un inventario y entregó un inventario.**
+>
+> Medido sobre los 98 prompts: **547 apariciones de mobiliario** (espejo ×147, vela ×78, mesa ×79) contra **0 huellas de cuerpo, 0 atmósfera y 0 luz descrita sobre la piel**. Un cuarto sin huella no es íntimo: es una vitrina de anticuario. El spec cumplió al pie de la letra — el defecto estaba en el spec.
+>
+> **Mínimo nuevo — cinco campos, no tres:**
+> 1. **El espacio** + **3 muebles u objetos** nombrados *(lo que ya había)*
+> 2. **🆕 Una huella de cuerpo** — tapizado hundido, cama deshecha, bata caída en el suelo, copa a medias con marca de labial carmesí, medias sobre el respaldo
+> 3. **🆕 Un elemento de atmósfera** — humo de cigarrillo suspendido, vaho, vapor, aire quieto y tibio
+> 4. **🆕 La luz descrita SOBRE su cuerpo**, no solo como fuente — rozándole la cadera, bajándole por el muslo, prendiéndose en el brillo de la tela y la piel
+> 5. La fuente de luz *(lo que ya había)*
+>
+> Los campos 2-4 van cableados como ancla `LIVED_IN_ROOM` en `anclas_universales.json` y se aplican a **todos** sus prompts (`anclas_siempre`). Los escenarios de la tabla de abajo siguen siendo dueño único del **lugar**; el ancla aporta el **estado**.
 
 | Look | Arquetipo | Escenario |
 |---|---|---|

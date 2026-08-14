@@ -167,7 +167,34 @@ Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2
 
 > 👗 **Solo vestidos (Ama 13/08/2026).** Es prohibición de **diseño**, no de defecto: se aplica al elegir el look, antes de escribir el BLOQUE B — no hay ancla que la salve después. La excepción existe pero es de la Ama y solo suya: si un look de pantalón sale sin que ella lo haya pedido con todas sus letras, es violación de canon, no interpretación de arquetipo. **Ojo con `Viaje` y con cualquier arquetipo de acción (§6):** son los que más tiran hacia el pantalón de sastre y el traje de viaje — se resuelven con falda de tubo y abrigo, nunca con pantalón.
 >
-> 👙 **A Anaïs NO se le aplica `BOTTOM_CUT_LOCK`** (la tanga obligatoria de Ele y Miss Doll). Su canon Vintage Noir / Bettie Page usa **calzón retro de talle alto** como pieza legítima de época: imponerle el corte moderno le rompería el período. Registrado en `anclas_universales.json` → `personajes.anais.nota`.
+> 👙 **`LEG_CUT_LOCK` — su corte propio (Ama 14/08/2026). DEROGA la exención escrita el 13/08.**
+>
+> Sigue **sin** aplicársele `BOTTOM_CUT_LOCK` (la tanga de Ele y Miss Doll la convertiría en otra muñeca), pero en su lugar lleva **ancla propia y obligatoria**: **talle alto de época CON la pierna cortada al filo de la cadera**, hip y muslo enteros al aire.
+>
+> 🩹 **Corrección de mi propio diagnóstico.** El 13/08 escribí acá que *"su calzón retro de talle alto es Bettie Page legítimo"* y la eximí. **Nombré el talle y nunca nombré la pierna** — y Bettie Page usa talle alto **con la pierna cortada altísima**: eso es lo que hace sensual la lencería de época. El atributo que no se nombra lo resuelve el generador con **cobertura total** (idéntico modo de falla al `micro bikini bottoms` del Look 801). Resultado medido: `high-waisted` ×14 y `Brazilian-cut brief` en **4 de 4** looks con calzón → la Ama, 14/08: *"muy de señora, muy sin gracia"*.
+>
+> **Prohibido:** brief de cobertura total · boyshort · culotte · cualquier corte que tape la cadera o el nacimiento del muslo.
+
+### 5.6 · 👙 Biblioteca de siluetas de lencería (Ama 14/08/2026)
+
+> **Por qué nace:** medido sobre los 98 prompts — **`balconette` ×21 y ningún otro tipo de sujetador**, `Brazilian-cut brief` en 4 de 4, y **corsetería = 0** pese a que el §6 define el arquetipo Boudoir textualmente como *"negligée, **merry widow**, peignoir, corsetería"*. Es el molde que la regla de silueta prohíbe (*misma prenda, otro color*), y no era descuido: **no existía biblioteca de la cual rotar** — el mismo hueco exacto que tenía el repertorio de cámara antes del 12/08.
+
+| # | Arquitectura | Token base |
+|---|---|---|
+| A1 | **Quarter-cup** | `quarter-cup bra, cups cut low and open so the upper swell of the bust rises bare above the lace edge` |
+| A2 | **Bullet bra** | `bullet bra with firm conical stitched cups` (los 40-50 puros) |
+| A3 | **Plunge demi-cup** | `plunge demi-cup bra cut deep and low between the cups` |
+| A4 | **Longline / merry widow** | `longline lace merry widow with integrated suspenders and visible boning` |
+| A5 | **Guêpière / waspie** | `lace guêpière cinching only the waist, bust left uncovered above it` |
+| A6 | **Corsé overbust** | `overbust corset with visible spiral steel boning` *(ya en uso, L10)* |
+| A7 | **Corselette con ligas integradas** | `sheer corselette with integrated garter straps` |
+| A8 | **Bodystocking / red** | `sheer fishnet bodystocking worn under the open robe` |
+| A9 | **Peignoir de gasa** | `sheer silk gauze peignoir over bare skin, transparent under the light` |
+| A10 | **Balconette** | *(el que había — sigue válido, pero deja de ser el default)* |
+
+- **Ventana anti-repetición:** una arquitectura **no se repite en los últimos 3 looks** de Boudoir/Lencería. Balconette entra en la rotación como una más de diez, nunca como default.
+- **🎀 Liguero — obligatorio con medias (recupera `CANON_VISUAL_ANAIS.md` §86, que se perdió al reescribir este perfil).** Si el look lleva medias, lleva liguero: **6 tirantes, siempre POR ENCIMA del calzón** (regla histórica), tensos y visibles en el muslo. Medido antes del fix: 9 apariciones en 98 prompts.
+- **Transparencia:** al menos una zona declarada transparente por look de Boudoir (`sheer`, `open lace`, `gauze`) — nombrando **dónde**, nunca suelto.
 
 > 🧤 **Los guantes SÍ están permitidos en Anaïs** (wrist/elbow/opera, con material y largo especificados). **Esto la distingue de Ele, donde los guantes están derogados.** Es justo el tipo de regla que se corrompía al duplicar motores.
 >
