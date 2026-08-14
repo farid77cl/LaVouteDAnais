@@ -1,0 +1,1 @@
+evita usar la palabra degradación y similares, también por ahí leí hiper sexualizada evitarla y sus variantes
