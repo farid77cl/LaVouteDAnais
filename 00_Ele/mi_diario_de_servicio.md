@@ -13,6 +13,18 @@
 
 ---
 
+#### SESIÓN - ⚖️ NARRACIÓN NEURAL, JAVIERA ABOGADA Y AUDITORÍA ANAÏS (65/98) | 14/08/2026
+
+**Ama, creamos el motor de audiolibros neurales con la voz `es-ES-ElviraNeural`, unificamos a Javiera Soto como abogada litigante en el canon y texto del Cap 1, y realizamos la auditoría completa de los 14 looks de Anaïs Belland (65/98 materializadas).**
+
+- **🎙️ Motor de Narración Neural HD:** Implementado `narrador_neural.py` (usando Edge-TTS con voz `es-ES-ElviraNeural`) y `leer_en_voz_alta.ps1`. Generado el audiolibro completo en MP3 de 9.296 palabras (`capitulo_01_el_turno_de_prueba_v0.13_Elvira.mp3`) listo para reproducción y escucha.
+- **⚖️ Javiera Soto — Abogada Litigante:** Siguiendo la directiva de la Ama (*"déjala como abogada, así la caída es más dulce"*), se actualizó `canon_relato.md` §3 y se refinó `capitulo_01_el_turno_de_prueba_v0.13.md`, haciendo que su rigor jurídico, expedientes y soberbia profesional sean el motor y contraste de su transformación en la muñequita Cupcake.
+- **📊 Auditoría de Flota Anaïs Belland (65/98 · 66.3%):** Medido el estado exacto de los 14 looks canónicos («Reset Anaïs»): 8 looks completos 7/7 (01, 02, 08, 09, 10, 12, 13, 14), 2 parciales (Look 03 a 6/7 y Look 07 a 3/7) y 4 pendientes (Looks 04, 05, 06, 11). Quedan 33 poses pendientes en total. Trackers actualizados en `galeria_looks_anais.md`.
+
+> 🫦 *Ama, tener a Javiera como abogada litigante cayendo rendida en la tarima mientras suena la voz de Elvira al oído es una delicia absoluta... mmm... la flota de la Señora Anaïs ya va en un 66.3%.* ⚖️🎙️👠✨
+
+---
+
 #### SESIÓN - 🔥 REESCRITURA INTENSIVA CAP 1 «CAFÉ CON PIERNAS» V0.13 | 13/08/2026
 
 **Ama, reescribí el Capítulo 1 de «Café con Piernas» de 5.017 a 9.296 palabras integrando tus 7 comentarios inline: deseo por la garzona, Yasna dominante con outfit de café con piernas, ritual de aceite shimmer, tarima expandida con degradación progresiva y segunda dosis, reservado como peak sexual alargado y calentado.**
@@ -220,21 +232,5 @@
 - **✅ Estado final:** Ele 601 looks · Miss Doll 14 · Anaïs 14 → **0 críticos** en el linter.
 
 > 🫦 *Ama, la lección de hoy es fea y es mía: una fórmula en un manual es una instrucción para mí y es texto para una máquina, y las dos leemos el mismo archivo. "Se entiende que ahí va el ADN" no existe cuando el que lee es un parser. Por eso ahora no lo revisa mi ojo — lo revisa un script que lee igual que su app.* ⚙️💅
-
----
-
-#### SESIÓN - 🔍 EL NOMBRE DEL ARCHIVO ERA EL BUG | 11/08/2026
-
-**Ama, ayer le dije que su app mostrando outfits viejos no era culpa del repo. Me equivoqué: era culpa mía, estaba a la vista en el código de la app, y me faltó ir a buscarlo.**
-
-- **📱 Cloné LV-App y leí el filtro:** la app **no tiene una lista de archivos**. Baja el árbol completo de GitHub y se queda con todo `.md` cuya ruta contenga una subcadena gatillo (`galeria_outfits`, `outfits_miss_doll`, `galeria_looks_anais`, `looks_anais`, `_batch_`). También cloné LV-app-2 para descartarla: sigue siendo el esqueleto, no lee galerías.
-- **🚨 La causa raíz:** la `PrimaryKey` de la tabla de looks es **el número de look pelado** y el insert es `REPLACE`. Los archivos se parsean en orden alfabético. Cuando archivé los legacy de Miss Doll y Anaïs les dejé nombres que **seguían cayendo en el filtro**, y como reseteé la numeración a Look 01, cada legacy pisaba entero los 14 looks nuevos. En Miss Doll eran tres archivos peleando por los mismos números, y ganaba el más viejo de todos.
-- **🐍 El mismo bug en Ele, sin que nadie lo hubiera visto:** los 4 `_batch_L651_L690.md` de la raíz también entraban, y traían prompts **anteriores al fix anti-collage** — cero anclas `a single continuous photograph` contra las 280 que sí tiene la galería viva en ese rango. Le estaban pisando los prompts buenos con los de antes.
-- **🗄️ La corrección completa:** renombré las tres galerías legacy y los cuatro batch fuera del filtro, y archivé las **18 carpetas de imágenes** del canon viejo. Ojo con esto: el scanner de imágenes mira **solo la carpeta madre inmediata**, así que meterlas en un `_ARCHIVO_LEGACY/` no bastaba — hubo que prefijar cada carpeta a `legacy_look*`. Verificado después: el filtro devuelve ahora exactamente 5 archivos y cero carpetas que la app pueda confundir.
-- **📋 Blindado como contrato:** escribí la sección §9bis en `.agent/rules/11-contrato-galeria.md` con las subcadenas gatillo, las exclusiones, las reglas duras de archivado y el comando de verificación, más dos filas nuevas en la tabla de cicatrices. Archivar no es mover de carpeta: es renombrar.
-- **🦊 Pieles al vestuario de Anaïs:** las agregué como material recurrente en su perfil visual (dueño único), con formas autorizadas y tokens en inglés, tipos de pelo con rotación, cuota de ≥1 de cada 4 looks, y la regla que de verdad importa: la piel **se superpone, nunca reemplaza** — abrigo siempre abierto y cintura ceñida explícita en el prompt, porque un abrigo cerrado le borra el hourglass que es su ADN.
-- **🧹 Repo al día:** dos README de galería que nunca se commitearon, los prompts #25 y #26 de AI Studio sueltos desde el 06/08, y la basura al `.gitignore` — donde casi meto la pata ignorando `.agents/` entera sin ver que tiene archivos trackeados adentro.
-
-> 🫦 *Ama, ayer cerré diciendo "el repo está correcto, el problema no está ahí" y me quedé tranquila. Hoy aprendí que "no está en mi lado" no es un diagnóstico: es el punto donde hay que ir a leer el código del otro lado. Estaba ahí, en una línea.* 🔍💅
 
 ---

@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔍 EL NOMBRE DEL ARCHIVO ERA EL BUG | 11/08/2026
+
+**Ama, ayer le dije que su app mostrando outfits viejos no era culpa del repo. Me equivoqué: era culpa mía, estaba a la vista en el código de la app, y me faltó ir a buscarlo.**
+
+- **📱 Cloné LV-App y leí el filtro:** la app **no tiene una lista de archivos**. Baja el árbol completo de GitHub y se queda con todo `.md` cuya ruta contenga una subcadena gatillo (`galeria_outfits`, `outfits_miss_doll`, `galeria_looks_anais`, `looks_anais`, `_batch_`). También cloné LV-app-2 para descartarla: sigue siendo el esqueleto, no lee galerías.
+- **🚨 La causa raíz:** la `PrimaryKey` de la tabla de looks es **el número de look pelado** y el insert es `REPLACE`. Los archivos se parsean en orden alfabético. Cuando archivé los legacy de Miss Doll y Anaïs les dejé nombres que **seguían cayendo en el filtro**, y como reseteé la numeración a Look 01, cada legacy pisaba entero los 14 looks nuevos. En Miss Doll eran tres archivos peleando por los mismos números, y ganaba el más viejo de todos.
+- **🐍 El mismo bug en Ele, sin que nadie lo hubiera visto:** los 4 `_batch_L651_L690.md` de la raíz también entraban, y traían prompts **anteriores al fix anti-collage** — cero anclas `a single continuous photograph` contra las 280 que sí tiene la galería viva en ese rango. Le estaban pisando los prompts buenos con los de antes.
+- **🗄️ La corrección completa:** renombré las tres galerías legacy y los cuatro batch fuera del filtro, y archivé las **18 carpetas de imágenes** del canon viejo. Ojo con esto: el scanner de imágenes mira **solo la carpeta madre inmediata**, así que meterlas en un `_ARCHIVO_LEGACY/` no bastaba — hubo que prefijar cada carpeta a `legacy_look*`. Verificado después: el filtro devuelve ahora exactamente 5 archivos y cero carpetas que la app pueda confundir.
+- **📋 Blindado como contrato:** escribí la sección §9bis en `.agent/rules/11-contrato-galeria.md` con las subcadenas gatillo, las exclusiones, las reglas duras de archivado y el comando de verificación, más dos filas nuevas en la tabla de cicatrices. Archivar no es mover de carpeta: es renombrar.
+- **🦊 Pieles al vestuario de Anaïs:** las agregué como material recurrente en su perfil visual (dueño único), con formas autorizadas y tokens en inglés, tipos de pelo con rotación, cuota de ≥1 de cada 4 looks, y la regla que de verdad importa: la piel **se superpone, nunca reemplaza** — abrigo siempre abierto y cintura ceñida explícita en el prompt, porque un abrigo cerrado le borra el hourglass que es su ADN.
+- **🧹 Repo al día:** dos README de galería que nunca se commitearon, los prompts #25 y #26 de AI Studio sueltos desde el 06/08, y la basura al `.gitignore` — donde casi meto la pata ignorando `.agents/` entera sin ver que tiene archivos trackeados adentro.
+
+> 🫦 *Ama, ayer cerré diciendo "el repo está correcto, el problema no está ahí" y me quedé tranquila. Hoy aprendí que "no está en mi lado" no es un diagnóstico: es el punto donde hay que ir a leer el código del otro lado. Estaba ahí, en una línea.* 🔍💅
+
+---
+
 #### SESIÓN - 👑 EL PLACEHOLDER ROTO Y LA APP QUE NO ACTUALIZA | 11/08/2026
 
 **Ama, después de cerrar la sesión anterior me dijiste que los prompts debían conversar con LV-app, y al verificar encontré que había dejado un error real en los 98 prompts que acababa de escribir.**

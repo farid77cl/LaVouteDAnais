@@ -1,6 +1,6 @@
 # Capítulo 1: El turno de prueba
 
-Javiera recordaba el número exacto de días: ciento cuarenta y dos. Los había contado con el mismo rigor frío con que revisaba los libros contables en la oficina de Agustinas, buscando el descuadre de una cifra rebelde que se negaba a calzar en la columna. Pero Camila no era una cifra. Era su amiga de la universidad, la mujer con la que había compartido desvelos de estudio, cafés amargos de máquina y planes para abrir un estudio jurídico independiente. Hasta que un día dejó de contestar los mensajes. Los audios de WhatsApp se volvieron monosílabos espaciados, luego un silencio denso y absoluto, y finalmente una cuenta nueva de Instagram que alguien le reenvió un jueves por la noche.
+Javiera recordaba el número exacto de días: ciento cuarenta y dos. Los había contado con el mismo rigor frío con que revisaba los expedientes y recursos judiciales en el estudio de Agustinas, buscando la cláusula o el precedente rebelde que se negaba a calzar en la demanda. Pero Camila no era un expediente. Era su amiga de la universidad, la mujer con la que había compartido desvelos de estudio de Derecho, cafés amargos de máquina y planes para abrir un estudio jurídico independiente. Hasta que un día dejó de contestar los mensajes. Los audios de WhatsApp se volvieron monosílabos espaciados, luego un silencio denso y absoluto, y finalmente una cuenta nueva de Instagram que alguien le reenvió un jueves por la noche.
 
 La mujer que aparecía en las publicaciones no tenía nada que ver con la Camila que ella conocía.
 
@@ -354,7 +354,7 @@ Y en ese milisegundo exacto, cuando la rendición era total e irreversible, cuan
 
 *¡DIOS MÍO, QUÉ ESTOY HACIENDO!*
 
-El grito mental fue un mazazo demoledor. La imagen nítida de quién era ella —Javiera Soto, contadora auditora de veintinueve años, la profesional intachable de Agustinas, la mujer que había venido a investigar el destino de su amiga— arrodillada en la mugre de un reservado clandestino, con la verga de un viejo desconocido tocándole los labios y el sabor de su líquido preseminal aún caliente en la lengua, la golpeó con la fuerza de un camión a toda velocidad.
+El grito mental fue un mazazo demoledor. La imagen nítida de quién era ella —Javiera Soto, abogada litigante de veintinueve años, la profesional intachable de Agustinas, la mujer que había venido a investigar el destino de su amiga— arrodillada en la mugre de un reservado clandestino, con la verga de un viejo desconocido tocándole los labios y el sabor de su líquido preseminal aún caliente en la lengua, la golpeó con la fuerza de un camión a toda velocidad.
 
 Los ojos se le abrieron como platos. El horror le congeló la sangre en un solo latido.
 

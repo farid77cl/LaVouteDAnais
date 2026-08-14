@@ -87,12 +87,12 @@ Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes conver
 
 ## 3. Personajes (voz)
 
-### Javiera Soto — «Javi» · 29 · contadora auditora
-- **Rol narrativo:** la que busca. Tercera persona pegada a su cabeza, siempre.
-- **Frase tipo (antes):** *"Si me dan el turno de abajo voy a poder ver el libro de la caja."*
+### Javiera Soto — «Javi» · 29 · abogada litigante
+- **Rol narrativo:** la que busca e investiga. Tercera persona pegada a su cabeza, siempre. Su intelecto jurídico, su soberbia profesional y su búsqueda de pruebas son la coartada perfecta que la hunden.
+- **Frase tipo (antes):** *"Si me dan el turno voy a poder reunir el testimonio y las pruebas para la denuncia."*
 - **Frase tipo (después):** *"Ya estoy en el número. Todo lo que venga de aquí para arriba es mío."*
-- **Detalle físico ancla:** las uñas. Crecen con el relato y le van sacando las manos: no agarran la taza, no agarran el lápiz, no agarran el cuaderno.
-- **Invariante:** cuenta. Columnas, cafés, lucas, ojos. No deja de contar ni cuando ya no piensa nada más.
+- **Detalle físico ancla:** las uñas. Crecen con el relato y le van sacando las manos: no agarran la taza, no agarran el lápiz, no agarran el cuaderno ni el código.
+- **Invariante:** cuenta y evalúa. Expedientes, argumentos, cafés, lucas, ojos. No deja de evaluar ni cuando ya no piensa nada más.
 
 ### Camila Reyes — «Cami» · la amiga · adentro le decían Ivanna
 > 💄 **Reescrita por el Gate 04/08: producto terminado, mucho más extremo — y con la boca más limpia de todo el relato.**

@@ -417,11 +417,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look7_perla_fria/`
 - **Tags:** #noche #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (2/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_standing.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_standing.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_back_view.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Gris Perla + Diamantes · **Con medias de red**
 
@@ -545,11 +545,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look9_esmeralda_intima/`
 - **Tags:** #boudoir #encaje #seda #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_standing.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_back_view.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_seated.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_pov.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Negro encaje + Esmeralda seda · **Sin medias · Peep-toe**
 
@@ -609,11 +609,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look10_terciopelo_y_boning/`
 - **Tags:** #boudoir #terciopelo #encaje #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_standing.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_back_view.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_seated.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_pov.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Negro terciopelo + encaje · **Sin medias · Bota bajo rodilla**
 
