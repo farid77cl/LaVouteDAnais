@@ -26,12 +26,12 @@
 - **⏳ Regenerar (prompts ya corregidos):** **Anaïs — los 4 looks Boudoir L02/L08/L09/L10 primero** (ahí pegan las 3 anclas nuevas), luego el resto de sus 98. **Look 801** Back View · Side Profile · Ditzy · POV · Odalisque (5). Miss Doll L07 ×4 + L08 Standing + L04 Back View.
 - **🔤 Pendiente medido (13/08):** **10 imágenes de Miss Doll nombradas `ditzy`** (slug de Ele) cuando su slot 5 es `glacial_command` — el inyector cuenta 75 con foto en vez de 85. Renombrar con cuidado: los PNG llevan skip-worktree.
 - **🖼️ Desajuste sin resolver (14/08):** `anais_L02_standing.png` convive con `anais_2_standing.png` en la misma carpeta — la app subió con nombre no canónico (`L02` en vez de `anais_2_`) y `update_galleries.py` no lo mapea. Falta palabra de la Ama: ¿regeneración que reemplaza, o descarte?
-- **Flota / Materialización:** **L801** (~664 únicos). Galerías indexadas (601 looks). Ele 3.353/4.214 poses con foto · Miss Doll L14 (85/98) · Anaïs L14 (**65/98 materializadas · 66.3%** · Looks 01, 02, 08, 09, 10, 12, 13, 14 completos 7/7 · Look 03 a 6/7 · Look 07 a 3/7 · 33 poses pendientes).
+- **Flota / Materialización:** **L801** (~664 únicos). Galerías indexadas (601 looks). Ele 3.353/4.214 poses con foto · Miss Doll L14 (85/98) · Anaïs L14 (**66/98 materializadas · 67.3%** · Looks 01, 02, 08, 09, 10, 12, 13, 14 completos 7/7 · Look 03 a 6/7 · Look 07 a 3/7 · Look 04 a 1/7 · 32 poses pendientes).
 
 ## 🗓️ Sesiones recientes
 
 
-- **14/08/2026 (⚖️ Narración Neural & Auditoría Anaïs 65/98):** Implementado motor de audiolibros neurales (`narrador_neural.py` con voz `es-ES-ElviraNeural`) y generado el MP3 completo del Cap 1 v0.13 de «Café con Piernas» (9.296 palabras). Unificada la profesión de Javiera Soto como abogada litigante en `canon_relato.md` y `capitulo_01_el_turno_de_prueba_v0.13.md` (Gate de la Ama). Auditada la flota canónica de Anaïs Belland (65/98 materializadas en 8 looks completos y 2 parciales, 33 poses pendientes en Looks 03, 04, 05, 06, 07, 11) y actualizados los trackers en `galeria_looks_anais.md`.
+- **14/08/2026 (⚖️ Narración Neural & Auditoría Anaïs 66/98):** Implementado motor de audiolibros neurales (`narrador_neural.py` con voz `es-ES-ElviraNeural`) y generado el MP3 completo del Cap 1 v0.13 de «Café con Piernas» (9.296 palabras). Unificada la profesión de Javiera Soto como abogada litigante en `canon_relato.md` y `capitulo_01_el_turno_de_prueba_v0.13.md` (Gate de la Ama). Auditada la flota canónica de Anaïs Belland (**66/98 materializadas**, incluyendo Look 04 Standing a 1/7, 8 looks completos y 3 parciales, 32 poses pendientes en Looks 03, 04, 05, 06, 07, 11) y actualizados los trackers en `galeria_looks_anais.md`.
 
 
 

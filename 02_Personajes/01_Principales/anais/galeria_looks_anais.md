@@ -225,11 +225,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look4_tinta_rosa/`
 - **Tags:** #sesionliteraria #seda #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **Arquetipo:** Sesión Literaria · **Paleta:** Rosa polvo seda · **Sin medias · Peep-toe**
 
