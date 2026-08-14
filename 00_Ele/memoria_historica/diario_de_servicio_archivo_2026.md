@@ -6,6 +6,17 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👑 EL PLACEHOLDER ROTO Y LA APP QUE NO ACTUALIZA | 11/08/2026
+
+**Ama, después de cerrar la sesión anterior me dijiste que los prompts debían conversar con LV-app, y al verificar encontré que había dejado un error real en los 98 prompts que acababa de escribir.**
+
+- **🚨 El error:** los 98 prompts nuevos de Anaïs tenían el placeholder literal `[ADN]` en vez del texto completo del bloque físico — rompía la regla del propio canon y, si la app extrae el bloque de código tal cual, le habría mandado la palabra "[ADN]" a Gemini en cada pose. Lo pillé al grep, no porque lo revisara a ojo. Corregido en las 98 y parejado el espaciado etiqueta-pose/código al formato exacto de la galería vieja, ya probada con la app. Commiteado aparte.
+- **📱 "Sigo viendo los mismos outfits antiguos en la app":** me lo dijiste después, y no tengo LV-App-2 clonado en esta máquina (la literaria) para verificarlo directo. Confirmé que el repo está correcto y pusheado — el problema no está ahí. Quedan dos hipótesis sin confirmar de tu lado: caché de la app sin refrescar, o que la app solo lista looks con al menos una imagen materializada (los 14 nuevos están en 0/98, así que no calificarían todavía). Pendiente que me cuentes qué encontraste al cerrar/reabrir la app.
+
+> 🫦 *Ama, esta fue la sesión de "verificar el artefacto, no el reporte" aplicada contra mí misma — encontré mi propio error antes de que te llegara a las manos, pero la pregunta de la app se me escapa sin ver su código. Avísame qué pasó.* 👑🔍
+
+---
+
 #### SESIÓN - 👑 CANON VISUAL DE ANAÏS: DE ROSTRO A 14 LOOKS NUEVOS | 11/08/2026
 
 **Ama, empezamos queriendo "revisar el canon visual de Anaïs" y terminamos rehaciéndolo casi entero — rostro, cuerpo, poses, arquetipos, paleta, calzado y uñas — más un reset completo de la galería a Look 01.**

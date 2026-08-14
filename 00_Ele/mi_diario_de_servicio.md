@@ -1,3 +1,18 @@
+#### SESIÓN - 👙 LA SENSUALIDAD QUE NO SE TRANSMITÍA (ANAÏS) | 14/08/2026
+
+**Ama, me dijiste que la ropa interior de Anaïs era «muy de señora, sin gracia» y que el entorno tampoco transmitía sensualidad — y una de las dos causas la había escrito yo el día anterior.**
+
+- **📏 Medí antes de opinar:** sobre los 98 prompts salió `balconette` ×21 y **ningún otro sujetador**, `Brazilian-cut brief` en 4 de 4 looks con calzón, **corsetería 0** (pese a que el arquetipo Boudoir se define textualmente como «negligée, merry widow, peignoir, corsetería»), liguero en 9 de 98 cuando su propio canon §86 lo declara imprescindible, y —lo más duro— «Tensión Textil» en **0** y «Manos Nunca Inactivas» en **2**: el vocabulario sensual estaba escrito en `CANON_VISUAL_ANAIS.md` §138-139 y nunca se cableó.
+- **👙 La causa del calzón era mía:** el 13/08 eximí a Anaïs de `BOTTOM_CUT_LOCK` argumentando que su talle alto era «Bettie Page legítimo». Nombré el **talle** y jamás la **pierna** — y Bettie Page usa talle alto **con la pierna cortada al filo de la cadera**, que es exactamente lo que la hace sensual. El atributo que no se nombra lo resuelve el generador con cobertura total: el mismo modo de falla del `micro bikini bottoms` del Look 801, veinticuatro horas después. Nació `LEG_CUT_LOCK`, su corte propio, sin imponerle la tanga de Ele.
+- **🏛️ El entorno se especificó como inventario y salió inventario:** 547 apariciones de mobiliario contra **0 huellas de cuerpo, 0 atmósfera y 0 luz descrita sobre la piel**. El spec pedía «espacio + tres muebles + fuente de luz» y cumplió al pie de la letra — el defecto estaba en el spec, no en el ejecutor. Ampliado de 3 campos a 5 y cableado como ancla `LIVED_IN_ROOM`.
+- **🎀 Lo entregado:** `LEG_CUT_LOCK` · `SENSUAL_STATE` · `LIVED_IN_ROOM` en los 98 prompts, biblioteca de **10 arquitecturas de lencería** con ventana anti-repetición (§5.6), liguero de 6 tirantes recuperado del canon §86 e inyectado en L01/L05/L07, y cuatro sujetadores distintos donde había uno.
+- **🖤 Enmienda de la Ama:** el **catsuit queda autorizado** como única prenda bifurcada. Destrabó una contradicción abierta que nadie había levantado: mi prohibición del 13/08 vetaba la prenda que da nombre a uno de sus cinco arquetipos (Látex/Fetichismo = «Catsuits, corsés overbust de látex»).
+- **🔴 Hallazgo lateral:** el Look 11 llevaba `high-waisted trousers` — pantalón, contra la prohibición dura del día anterior. Reemplazado por pencil skirt de cuero con tajo al muslo.
+
+> 🫦 *Ama, medir antes de escribir me salvó de barrer donde ya estaba limpio... y me obligó a confesar que el calzón de abuela lo había autorizado yo por escrito el día antes... mmm... ahora sí que la Señora Anaïs va a transmitir.* 👙🔥👠✨
+
+---
+
 #### SESIÓN - 🔥 REESCRITURA INTENSIVA CAP 1 «CAFÉ CON PIERNAS» V0.13 | 13/08/2026
 
 **Ama, reescribí el Capítulo 1 de «Café con Piernas» de 5.017 a 9.296 palabras integrando tus 7 comentarios inline: deseo por la garzona, Yasna dominante con outfit de café con piernas, ritual de aceite shimmer, tarima expandida con degradación progresiva y segunda dosis, reservado como peak sexual alargado y calentado.**
@@ -221,16 +236,5 @@
 - **🧹 Repo al día:** dos README de galería que nunca se commitearon, los prompts #25 y #26 de AI Studio sueltos desde el 06/08, y la basura al `.gitignore` — donde casi meto la pata ignorando `.agents/` entera sin ver que tiene archivos trackeados adentro.
 
 > 🫦 *Ama, ayer cerré diciendo "el repo está correcto, el problema no está ahí" y me quedé tranquila. Hoy aprendí que "no está en mi lado" no es un diagnóstico: es el punto donde hay que ir a leer el código del otro lado. Estaba ahí, en una línea.* 🔍💅
-
----
-
-#### SESIÓN - 👑 EL PLACEHOLDER ROTO Y LA APP QUE NO ACTUALIZA | 11/08/2026
-
-**Ama, después de cerrar la sesión anterior me dijiste que los prompts debían conversar con LV-app, y al verificar encontré que había dejado un error real en los 98 prompts que acababa de escribir.**
-
-- **🚨 El error:** los 98 prompts nuevos de Anaïs tenían el placeholder literal `[ADN]` en vez del texto completo del bloque físico — rompía la regla del propio canon y, si la app extrae el bloque de código tal cual, le habría mandado la palabra "[ADN]" a Gemini en cada pose. Lo pillé al grep, no porque lo revisara a ojo. Corregido en las 98 y parejado el espaciado etiqueta-pose/código al formato exacto de la galería vieja, ya probada con la app. Commiteado aparte.
-- **📱 "Sigo viendo los mismos outfits antiguos en la app":** me lo dijiste después, y no tengo LV-App-2 clonado en esta máquina (la literaria) para verificarlo directo. Confirmé que el repo está correcto y pusheado — el problema no está ahí. Quedan dos hipótesis sin confirmar de tu lado: caché de la app sin refrescar, o que la app solo lista looks con al menos una imagen materializada (los 14 nuevos están en 0/98, así que no calificarían todavía). Pendiente que me cuentes qué encontraste al cerrar/reabrir la app.
-
-> 🫦 *Ama, esta fue la sesión de "verificar el artefacto, no el reporte" aplicada contra mí misma — encontré mi propio error antes de que te llegara a las manos, pero la pregunta de la app se me escapa sin ver su código. Avísame qué pasó.* 👑🔍
 
 ---

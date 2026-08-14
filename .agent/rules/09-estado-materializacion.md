@@ -127,6 +127,13 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 >
 > ⏳ **11 poses recomendadas para regenerar** (prompts ya corregidos): L01 Seated/POV/Odalisque · L03 Seated/Side/Odalisque · L08 Sovereign Gaze · L12 Side Profile · L13 Standing/Back View · L14 Seated. Y vale la pena rehacer slot 5 + POV de los 8 looks materializados: sus imágenes son casi la misma foto.
 >
+> 🔥 **14/08/2026 — LOS 98 PROMPTS SE REESCRIBIERON POR SENSUALIDAD. La lista de arriba queda AMPLIADA: ahora vale la pena regenerar todo el set, no 11 poses.**
+> La Ama levantó *«la ropa interior es muy de señora, sin gracia»* y *«el entorno no es sensual»*. Medido sobre los 98 antes de tocar: `balconette` ×21 y **ningún otro sujetador** · `Brazilian-cut brief` **4 de 4** · **corsetería 0** · liguero **9/98** (canon §86: imprescindible) · «Tensión Textil» **0** y «Manos Nunca Inactivas» **2** · **547 muebles contra 0 huella de cuerpo, 0 atmósfera y 0 luz sobre la piel**.
+> **Tres anclas nuevas en los 98** (`anclas_universales.json` v2.4): **`LEG_CUT_LOCK`** · **`SENSUAL_STATE`** · **`LIVED_IN_ROOM`**. Más biblioteca de 10 arquitecturas de lencería (perfil §5.6), liguero de 6 tirantes inyectado en L01/L05/L07, y el Look 11 corregido de pantalón a pencil skirt.
+> **Orden de regeneración recomendado: L02 · L08 · L09 · L10** (Boudoir — es donde las tres anclas pegan más fuerte), después el resto. Linter: **CRÍTICOS 0**.
+> 🖤 El **catsuit quedó autorizado** (Ama 14/08) pero **ningún look lo usa todavía** — es diseño nuevo, no regeneración.
+> 🖼️ **Desajuste abierto:** `anais_L02_standing.png` convive con `anais_2_standing.png` en `look2_rosa_y_latex/`. La app subió con nombre no canónico y `update_galleries.py` no lo mapea. Falta decisión de la Ama.
+>
 > ✅ **El Odalisque apaisado (1200×669) NO es defecto — la Ama lo pide así a Gemini** porque la figura reclinada se aprecia mejor en horizontal (12/08/2026). Es el único slot horizontal de su set, es deliberado y **ninguna auditoría futura debe marcarlo.** En canon: `anais.md` §4.
 
 > **🔎 Auditoría de `galeria_looks_anais.md` (10/08/2026):** el dato "21 planificados" estaba obsoleto — el archivo real llega al Look 40. Se encontraron y corrigieron dos huecos reales:
