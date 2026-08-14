@@ -55,7 +55,7 @@
 |---|---|---|
 | Look de látex canónico | **quitar** `latex` de la lista de negativos | Si no, se pelea con el propio outfit |
 | Cualquier pose | asegurar `tattoos, piercings, young woman, teen, wide smile` en negative | Sus tres derivas registradas |
-| **Cualquier pose** *(nuevo 13/08/2026)* | agregar `trousers, pants, leggings, jeans, shorts, palazzo pants, jumpsuit, catsuit, bifurcated garment, legs spread apart under a dress, legs parted under a skirt` | Solo vestidos + piernas cerradas (§5.4). Segunda capa: la prohibición de pantalón se cumple **al diseñar el look**, no vetando |
+| **Cualquier pose** *(nuevo 13/08/2026 · ✏️ rev. 14/08/2026)* | agregar `trousers, pants, leggings, jeans, shorts, palazzo pants, jumpsuit, legs spread apart under a dress, legs parted under a skirt` — **`catsuit` y `bifurcated garment` SALEN de la lista (Ama 14/08/2026)** | Solo vestidos + piernas cerradas (§5.4), **con el catsuit ahora permitido**. Segunda capa: la prohibición de pantalón se cumple **al diseñar el look**, no vetando. ✅ Verificado 14/08: `catsuit` nunca llegó a ningún negative de los 98 prompts — la regla vivía solo en este perfil |
 
 ---
 
@@ -162,9 +162,11 @@ Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2
 | Sonrisa amplia / risa / juego | mirada fría de mando | Registro |
 | Léxico `sexy`/`hot`/`seductive`… | vocabulario del canon §VIII | Registro |
 | Exterior/natural fuera de Viaje | interiores controlados | Coherencia de arquetipo |
-| **👗 Pantalón, leggings, jeans, shorts, palazzo, mono/jumpsuit de pierna larga, catsuit** — cualquier prenda que separe las dos piernas | **vestido o falda, siempre** (gown, sheath, slip-dress, pencil skirt, falda de tubo, conjunto falda+corsé) | **Ama 13/08/2026 — PROHIBICIÓN DURA.** Única excepción: **petición expresa de la Ama en la conversación**, look por look. No se autoriza sola "porque el arquetipo lo pedía" |
+| **👗 Pantalón, leggings, jeans, shorts, palazzo, mono/jumpsuit de pierna larga** — cualquier prenda que separe las dos piernas… **excepto el catsuit** | **vestido o falda** (gown, sheath, slip-dress, pencil skirt, falda de tubo, conjunto falda+corsé) **— o catsuit** | **Ama 13/08/2026, ✏️ enmendada por la Ama 14/08/2026: «Anaïs puede usar pantalones, siempre y cuando sea catsuit».** El **catsuit queda AUTORIZADO** y sale de la prohibición. El resto del pantalón sigue prohibido duro; única excepción, petición expresa de la Ama look por look |
 | **🦵 Piernas abiertas usando vestido, falda o bata** | rodillas y muslos juntos · una pierna cruzada · las dos piernas plegadas a un lado si va baja | **Ama 13/08/2026, transversal a las tres muñecas.** Ancla opt-in `DRESS_LEG_CLOSURE` — en ella se dispara en **todos** sus looks, porque desde hoy siempre viste falda |
 
+> 🖤 **CATSUIT AUTORIZADO (Ama 14/08/2026): *"Anaïs puede usar pantalones, siempre y cuando sea catsuit"*.** Es la única prenda bifurcada que se le permite. Y resuelve una contradicción que la prohibición del 13/08 había dejado abierta sin que nadie la levantara: **el §6 define el arquetipo Látex/Fetichismo textualmente como *"Catsuits, corsés overbust de látex"*** — o sea, la prohibición vetaba la prenda que da nombre a uno de sus cinco arquetipos. El catsuit va en látex de grado clínico o látex estándar de alto brillo, ceñido, con la cintura de tightlacing legible bajo él (el ADN hourglass no se negocia). **`DRESS_LEG_CLOSURE` no aplica en look de catsuit** — esa ancla es para vestido, falda o bata.
+>
 > 👗 **Solo vestidos (Ama 13/08/2026).** Es prohibición de **diseño**, no de defecto: se aplica al elegir el look, antes de escribir el BLOQUE B — no hay ancla que la salve después. La excepción existe pero es de la Ama y solo suya: si un look de pantalón sale sin que ella lo haya pedido con todas sus letras, es violación de canon, no interpretación de arquetipo. **Ojo con `Viaje` y con cualquier arquetipo de acción (§6):** son los que más tiran hacia el pantalón de sastre y el traje de viaje — se resuelven con falda de tubo y abrigo, nunca con pantalón.
 >
 > 👙 **`LEG_CUT_LOCK` — su corte propio (Ama 14/08/2026). DEROGA la exención escrita el 13/08.**
