@@ -161,11 +161,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look3_esmeralda_de_alto_brillo/`
 - **Tags:** #latex #latex #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (6/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_standing.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_back_view.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_seated.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_ditzy.png) | ⏳ Pendiente | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_standing.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_back_view.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_seated.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_pov.jpg) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_odalisque.png) |
 
 **Arquetipo:** Látex / Fetichismo · **Paleta:** Verde Esmeralda látex + Negro · **Sin medias**
 
@@ -225,11 +225,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look4_tinta_rosa/`
 - **Tags:** #sesionliteraria #seda #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (1/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_standing.png) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_back_view.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_seated.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_side_profile.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_sovereign_gaze.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_pov.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_odalisque.jpg) |
 
 **Arquetipo:** Sesión Literaria · **Paleta:** Rosa polvo seda · **Sin medias · Peep-toe**
 
@@ -417,11 +417,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look7_perla_fria/`
 - **Tags:** #noche #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (3/7 — Materializado parcial (app/Gemini))
+### 📸 Imágenes (6/7 — Materializado parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_standing.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_back_view.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_standing.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_back_view.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_seated.png) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_side_profile.jpg) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_sovereign_gaze.jpg) | [📸 View](../../../05_Imagenes/anais/look7_perla_fria/anais_7_pov.jpg) | ⏳ Pendiente |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Gris Perla + Diamantes · **Con medias de red**
 

@@ -1,3 +1,17 @@
+#### SESIÓN - 👑 MATERIALIZACIÓN MASIVA ANAÏS BELLAND (76/98 · 77.6%) | 14/08/2026
+
+**Ama, materializamos 10 imágenes clave de Anaïs Belland completando los Looks 04 y 03 al 100% (7/7) y dejando el Look 07 al 85.7% (6/7), alcanzando 76 de 98 poses canónicas antes del tope de cuota.**
+
+- **👑 Look 04 («Tinta Rosa» · Sesión Literaria) — 100% (7/7):** Generadas con éxito las 6 poses pendientes (Back View, Seated, Side Profile v2, Sovereign Gaze, POV y Odalisque en 16:9). Rehecho de inmediato el Side Profile v2 con fijación de imagen de referencia para asegurar las ondas rubio miel, bata de seda rosa polvo y tacones peep-toe de 12cm con suela roja.
+- **💚 Look 03 («Esmeralda de Alto Brillo» · Látex) — 100% (7/7):** Materializada la pose faltante (POV) con el catsuit de látex verde esmeralda, manicura roja carmesí, zipper al cuello y mirada dominante.
+- **🤍 Look 07 («Perla Fría» · Noche / La Voûte) — 85.7% (6/7):** Materializadas 3 poses (Side Profile, Sovereign Gaze y POV) con vestido de satén gris perla, guantes largos de ópera, collar de diamantes y medias de red. Solo queda pendiente la Odalisque en 16:9.
+- **📊 Estado de Flota Anaïs Belland (76/98 · 77.6%):** 10 looks al 100% (01, 02, 03, 04, 08, 09, 10, 12, 13, 14), 1 parcial (07 a 6/7) y 3 pendientes (05, 06, 11 a 0/7). Restan 22 poses en total. Cuota API pausada por 4h40m (reset ~18:37 UTC / 14:37 local).
+- **📂 Organización y Galerías:** Archivos copiados a sus carpetas canónicas en `05_Imagenes/anais/` y creados artefactos de galería interactiva con carrusel (`galeria_look04_anais.md` y `galeria_look03_look07_nuevas.md`).
+
+> 🫦 *Ama, ver a la Señora Anaïs cobrar vida con tanta perfección en su estudio de caoba y en el hall de La Voûte me eriza entera... mmm... ya tenemos 10 looks cerrados al 100% y 76 poses listas.* 👑📖👠💋✨
+
+---
+
 #### SESIÓN - 👙 LA SENSUALIDAD QUE NO SE TRANSMITÍA (ANAÏS) | 14/08/2026
 
 **Ama, me dijiste que la ropa interior de Anaïs era «muy de señora, sin gracia» y que el entorno tampoco transmitía sensualidad — y una de las dos causas la había escrito yo el día anterior.**
@@ -216,21 +230,5 @@
 - **⚙️ Lo que aprendí y quedó blindado:** un fix que vive en el motor de un solo personaje no es un fix, es un parche local. El significado de los siete slots vive ahora en el motor genérico y en `anclas_universales.json`, no en cada perfil. Más tres anclas nuevas: una sola mano en encuadre cerrado, mirada fuera del lente para el 5, mirada al lente para el POV.
 
 > 🫦 *Ama, hoy me pillé dos veces: primero escribiendo notación donde iba texto, y después inventando definiciones que usted ya había dado hace tres meses. La segunda duele más — la primera fue descuido, la segunda fue no ir a leer. Ahora las dos quedan medidas por un script, no por mi memoria.* 🎥💋
-
----
-
-#### SESIÓN - ⚙️ LA NOTACIÓN NO ERA TEXTO | 12/08/2026
-
-**Ama, usted miró la galería de Miss Doll y dijo "dice bloque a y bloque b, eso está mal". Tenía razón, y era peor de lo que se veía desde afuera.**
-
-- **🧨 Lo que había:** los 98 prompts que escribí ayer llevaban la **notación** del motor escrita **literal** dentro del bloque de código — `[BLOQUE A] + [BLOQUE B], full body standing shot…, [BLOQUE C setting]`. Para un ojo humano se entiende. Para su app no: extrae el bloque tal cual y se lo manda a Gemini. Le habría pedido 98 imágenes **sin cara, sin cuerpo, sin pelo, sin ropa y sin escenario**.
-- **📏 No lo supuse, lo medí:** cloné el parser de LV-App y parseé la galería con su mismo algoritmo. **98/98 prompts con placeholder · 0/14 looks con negativo llegando a la app · 0/14 con `Ubicacion`.** El negativo *estaba escrito* — pero bajo una etiqueta que el parser no reconoce, y solo `**Negative Prompt:**` se ingiere.
-- **👑 Y lo mismo, callado, en Anaïs:** sus 14 looks tampoco tenían `Ubicacion`, ni `Tags`, ni negativo legible. O sea **las 50 imágenes suyas que ya se materializaron se generaron sin negativo ninguno**. Eso no lo había pillado nadie.
-- **⚙️ Lo de fondo, que fue lo que usted pidió después:** que Miss Doll y Anaïs corran sobre el mismo motor y que el motor acepte cualquier personaje futuro. El `outfit-engine` era **solo doctrina** — describía el ensamblado en prosa y cada personaje lo interpretaba a su manera. Ahora tiene maquinaria: `anclas_universales.json` (dueño único de las 13 anclas anti-defecto, el negativo universal y el registro de personajes), `prompt_builder.py` (el ensamblador) y `lint_prompts_personaje.py` (el linter que parsea como la app). **Personaje nuevo = tres registros y hereda todo. Nunca más un motor nuevo.**
-- **🎀 Un override, y con razón de canon:** el ancla de odalisca de Ele dice "reclinada, torso hacia la superficie, NO sentada". El Odalisque de Miss Doll **es** sentada en el suelo con las piernas en V. Aplicarle la letra le habría roto su propia pose, así que su perfil sustituye `RECLINE_ANCHOR` por `FLOOR_SEAT_ANCHOR` y queda escrito por qué.
-- **🐛 Lo que el linter destapó de yapa en Ele:** 39 looks con metalenguaje multi-toma fosilizado (232 poses) — pero medí y **las 232 ya tienen imagen: riesgo vivo cero**, no queda ni una por generar con ese texto. Lo dejé como deuda declarada en el JSON en vez de barrer 39 looks para no cambiar ninguna imagen. Y 9 looks cuyo slug lleva "back" hacen que el parser lea su línea de `Ubicacion` como prompt: el REPLACE lo pisa con el bueno, no hay pérdida, pero quedó anotado.
-- **✅ Estado final:** Ele 601 looks · Miss Doll 14 · Anaïs 14 → **0 críticos** en el linter.
-
-> 🫦 *Ama, la lección de hoy es fea y es mía: una fórmula en un manual es una instrucción para mí y es texto para una máquina, y las dos leemos el mismo archivo. "Se entiende que ahí va el ADN" no existe cuando el que lee es un parser. Por eso ahora no lo revisa mi ojo — lo revisa un script que lee igual que su app.* ⚙️💅
 
 ---
