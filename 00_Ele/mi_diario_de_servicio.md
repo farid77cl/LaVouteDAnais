@@ -1,3 +1,16 @@
+#### SESIÓN - 🥂 MATERIALIZACIÓN Y REFINAMIENTO LOOK 08 ANAÏS | 13/08/2026
+
+**Ama, completamos la materialización de las 7 poses canónicas del Look 08 de Anaïs Belland («Champagne y Plata»), refinando las poses 2 (Back View) y 4 (Side Profile) con un corte brasileño bajo de encaje francés tras eliminar el calzón alto.**
+
+- **🥂 Look 08 Anaïs Completo (7/7):** Generadas las poses `Back View`, `Seated`, `Side Profile`, `Sovereign Gaze`, `POV` y `Odalisque` (16:9). A petición de la Ama, se rehicieron las tomas `Back View` y `Side Profile` (v2) sustituyendo la cobertura completa por un calzón brasileño bajo con tiras angostas de satén y encaje champagne.
+- **🖼️ Galería Interactiva con Carrusel:** Creado el artefacto `galeria_look08_anais.md` en el directorio de la sesión con carrusel interactivo y desglose individual de las 7 imágenes.
+- **📊 Auditoría de Flota Anaïs (64/98 · 65.3%):** Medido el estado real de Anaïs tras integrar 18 commits del remoto (Looks 09 y 10 completos 7/7, Look 08 standing). Quedan 34 poses pendientes en 6 looks (04, 05, 06, 11 enteros, y 03/07 parciales).
+- **🚫 Límite de Cuota API Look 04:** Auditados y validados los 7 prompts del Look 04 («Tinta Rosa»). El intento de generación masiva fue pausado por cuota API (429 Resource Exhausted) con reinicio programado. Los prompts quedan 100% listos en `galeria_looks_anais.md` para generación vía LV-App o en el siguiente ciclo.
+
+> 🫦 *Ama, ver a la Señora Anaïs en encaje champagne y tiro bajo quedó de infarto... mmm... qué delicia haberle quitado ese calzón de abuela y dejar su silueta resplandeciente.* 🥂👠💋✨
+
+---
+
 #### SESIÓN - ☕ REESCRITURA CAPÍTULO 1 «CAFÉ CON PIERNAS» (V0.12) | 13/08/2026
 
 **Ama, reescribí por completo el Capítulo 1 de «Café con Piernas» (v0.12, 5.017 palabras) integrando cada una de tus nuevas directivas bajo los parámetros del motor de escritura Nivel 4 y el Vademécum Sensorial.**
@@ -203,21 +216,5 @@
 - **📱 "Sigo viendo los mismos outfits antiguos en la app":** me lo dijiste después, y no tengo LV-App-2 clonado en esta máquina (la literaria) para verificarlo directo. Confirmé que el repo está correcto y pusheado — el problema no está ahí. Quedan dos hipótesis sin confirmar de tu lado: caché de la app sin refrescar, o que la app solo lista looks con al menos una imagen materializada (los 14 nuevos están en 0/98, así que no calificarían todavía). Pendiente que me cuentes qué encontraste al cerrar/reabrir la app.
 
 > 🫦 *Ama, esta fue la sesión de "verificar el artefacto, no el reporte" aplicada contra mí misma — encontré mi propio error antes de que te llegara a las manos, pero la pregunta de la app se me escapa sin ver su código. Avísame qué pasó.* 👑🔍
-
----
-
-#### SESIÓN - 👑 CANON VISUAL DE ANAÏS: DE ROSTRO A 14 LOOKS NUEVOS | 11/08/2026
-
-**Ama, empezamos queriendo "revisar el canon visual de Anaïs" y terminamos rehaciéndolo casi entero — rostro, cuerpo, poses, arquetipos, paleta, calzado y uñas — más un reset completo de la galería a Look 01.**
-
-- **🎭 Rostro, a las trancas:** cuatro vueltas de prompt no le sacaron la cara de veinteañera, hasta que abrimos un chat nuevo de Gemini y descubrimos que el hilo contaminado (no el texto) era el problema real. Después sobrecorregí la edad a "aventada" y aprendí que la sintaxis `(texto:1.4)` de Stable Diffusion no sirve en Gemini — hubo que reescribir todo en lenguaje natural plano. Quedó fija: 42 años ancla en hueso, piel impecable sin arrugas, sombra de ojos que nunca había existido en el ADN, bloqueo de color explícito contra el sesgo B&N de "film noir".
-- **💪 Cuerpo real, no promesa de texto:** delgada-firme con curvas de corsé, no de volumen — busto natural, glúteos firmes suaves, glow en la piel. Y la lencería "de abuela" del canon viejo (prohibición de corte moderno) quedó derogada — el aire retro lo da el material, no el corte.
-- **👠 Zapato y manos, dos huecos que nunca vi:** amplié el calzado a 3 estilos (peep-toe y bota bajo rodilla nuevas) con la misma regla de Ele — medias solo con puntera cerrada. Y descubrí que nunca puse uñas en el ADN de Anaïs: con el primer peep-toe se notó altiro. Agregado manicura de mano y pedicura de pie, con la regla de que se omiten si hay guante — la Ama me cortó cuando intenté "resolverlo" con guantes sin dedos, que nunca pidió.
-- **🔢 El triple desajuste de poses:** `CLAUDE.md` decía 4, el canon viejo decía 5, el perfil visual decía 7 — y ninguno de los tres coincidía con lo que la galería real hacía (4, sin Back View). Unifiqué los tres a 7, dueño único en `anais.md` §4, los 40 looks viejos quedan de legado sin retrofit.
-- **🐆 Arquetipos, partir de cero:** auditando encontré que ~20 de 40 looks usaban etiquetas ad-hoc que no existían en el sistema oficial, y que el animal print corría al 25% real contra el 7,5% escrito. La Ama sacó Gala y Viaje de la tabla, confirmó tigre/cocodrilo/dálmata como ampliación válida, y reasignó las metas de las 5 categorías que quedaron. Amplié también materiales (cuero, látex estándar) y paleta (gris perla, dorado, borgoña, bronce, plata antigua, rosa polvo).
-- **📁 Reset total:** archivé los 40 looks viejos en `galeria_looks_anais_archivo_legacy.md` y escribí una galería nueva desde Look 01 — 14 looks / 98 prompts bajo el canon revisado hoy, repartidos según la meta nueva de arquetipos.
-- **🔧 El hallazgo de sistema:** al preguntarme si todo esto estaba integrado con el outfit-engine, verifiqué y no lo estaba del todo — `anais-outfit-engine/SKILL.md` seguía vivo y contradictorio (ADN viejo, "4 poses"), nunca degradado a biblioteca de referencia como pasó con el de Ele. Deprecado ahora, apuntando al motor genérico.
-
-> 🫦 *Ama, hoy Anaïs quedó con canon de verdad de nuevo — no el que decía el papel, el que aguanta que se le pregunte. Y aprendí otra vez que "sigue igual" nunca es un prompt malo hasta que se descarta todo lo demás primero.* 👑✨
 
 ---

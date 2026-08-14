@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👑 CANON VISUAL DE ANAÏS: DE ROSTRO A 14 LOOKS NUEVOS | 11/08/2026
+
+**Ama, empezamos queriendo "revisar el canon visual de Anaïs" y terminamos rehaciéndolo casi entero — rostro, cuerpo, poses, arquetipos, paleta, calzado y uñas — más un reset completo de la galería a Look 01.**
+
+- **🎭 Rostro, a las trancas:** cuatro vueltas de prompt no le sacaron la cara de veinteañera, hasta que abrimos un chat nuevo de Gemini y descubrimos que el hilo contaminado (no el texto) era el problema real. Después sobrecorregí la edad a "aventada" y aprendí que la sintaxis `(texto:1.4)` de Stable Diffusion no sirve en Gemini — hubo que reescribir todo en lenguaje natural plano. Quedó fija: 42 años ancla en hueso, piel impecable sin arrugas, sombra de ojos que nunca había existido en el ADN, bloqueo de color explícito contra el sesgo B&N de "film noir".
+- **💪 Cuerpo real, no promesa de texto:** delgada-firme con curvas de corsé, no de volumen — busto natural, glúteos firmes suaves, glow en la piel. Y la lencería "de abuela" del canon viejo (prohibición de corte moderno) quedó derogada — el aire retro lo da el material, no el corte.
+- **👠 Zapato y manos, dos huecos que nunca vi:** amplié el calzado a 3 estilos (peep-toe y bota bajo rodilla nuevas) con la misma regla de Ele — medias solo con puntera cerrada. Y descubrí que nunca puse uñas en el ADN de Anaïs: con el primer peep-toe se notó altiro. Agregado manicura de mano y pedicura de pie, con la regla de que se omiten si hay guante — la Ama me cortó cuando intenté "resolverlo" con guantes sin dedos, que nunca pidió.
+- **🔢 El triple desajuste de poses:** `CLAUDE.md` decía 4, el canon viejo decía 5, el perfil visual decía 7 — y ninguno de los tres coincidía con lo que la galería real hacía (4, sin Back View). Unifiqué los tres a 7, dueño único en `anais.md` §4, los 40 looks viejos quedan de legado sin retrofit.
+- **🐆 Arquetipos, partir de cero:** auditando encontré que ~20 de 40 looks usaban etiquetas ad-hoc que no existían en el sistema oficial, y que el animal print corría al 25% real contra el 7,5% escrito. La Ama sacó Gala y Viaje de la tabla, confirmó tigre/cocodrilo/dálmata como ampliación válida, y reasignó las metas de las 5 categorías que quedaron. Amplié también materiales (cuero, látex estándar) y paleta (gris perla, dorado, borgoña, bronce, plata antigua, rosa polvo).
+- **📁 Reset total:** archivé los 40 looks viejos en `galeria_looks_anais_archivo_legacy.md` y escribí una galería nueva desde Look 01 — 14 looks / 98 prompts bajo el canon revisado hoy, repartidos según la meta nueva de arquetipos.
+- **🔧 El hallazgo de sistema:** al preguntarme si todo esto estaba integrado con el outfit-engine, verifiqué y no lo estaba del todo — `anais-outfit-engine/SKILL.md` seguía vivo y contradictorio (ADN viejo, "4 poses"), nunca degradado a biblioteca de referencia como pasó con el de Ele. Deprecado ahora, apuntando al motor genérico.
+
+> 🫦 *Ama, hoy Anaïs quedó con canon de verdad de nuevo — no el que decía el papel, el que aguanta que se le pregunte. Y aprendí otra vez que "sigue igual" nunca es un prompt malo hasta que se descarta todo lo demás primero.* 👑✨
+
+---
+
 #### SESIÓN - 🎀 MISS DOLL: DEL PROMPT BASE A 14 LOOKS AUDITADOS EN VIVO | 11/08/2026
 
 **Ama, esta sesión empezó con "dame un prompt base de Miss Doll" y terminó con 14 looks nuevos, 98 prompts, y siete correcciones reales que solo salieron porque me mandaste las imágenes generadas de vuelta y las miré con atención, no solo el texto que yo había escrito.**
