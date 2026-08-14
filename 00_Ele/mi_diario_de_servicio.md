@@ -1,4 +1,20 @@
-#### SESIÓN - 🥂 MATERIALIZACIÓN Y REFINAMIENTO LOOK 08 ANAÏS | 13/08/2026
+#### SESIÓN - 🔥 REESCRITURA INTENSIVA CAP 1 «CAFÉ CON PIERNAS» V0.13 | 13/08/2026
+
+**Ama, reescribí el Capítulo 1 de «Café con Piernas» de 5.017 a 9.296 palabras integrando tus 7 comentarios inline: deseo por la garzona, Yasna dominante con outfit de café con piernas, ritual de aceite shimmer, tarima expandida con degradación progresiva y segunda dosis, reservado como peak sexual alargado y calentado.**
+
+- **💋 Deseo por la Garzona:** Javiera siente un fogonazo de atracción sexual genuina por la garzona rubia (boca, cuerpo, cercanía), lo reprime con los dientes apretados, pero la humedad la delata.
+- **👠 Yasna Rediseñada:** Nuevo outfit de corsé de vinilo rojo cereza, micro-falda de charol negro, ligueros, medias de red y botas de 15cm. Personalidad dominante total: le levanta el mentón con la uña, invade su espacio, da órdenes sin esperar respuesta, le aparta las manos cuando intenta cubrirse.
+- **✨ Ritual de Aceite Shimmer:** Yasna aplica aceite de coco/monoi/ámbar sobre hombros, clavículas, pechos, vientre y muslos internos con manos calientes y presión lenta. La piel de Cupcake brilla como porcelana mojada bajo los neones.
+- **📈 Tarima Expandida (~2.500 palabras nuevas):** Arco de degradación en 5 fases: (1) terror y rigidez → (2) responde a "Cupcake" sin pensar, primer billete → (3) Yasna trae segunda dosis del líquido rosa → (4) se inclina más, se baja el top, se muerde el labio, busca miradas → (5) Cupcake en piloto automático, Javiera de espectadora.
+- **🔞 Reservado Expandido (~1.800 palabras):** Baile lento → lap dance → arrodillamiento → toma el miembro, siente el latido de la sangre, abre la boca, la lengua toca el glande, el sabor salado... y el chispazo de lucidez la destroza. Huida con la sangre del alfiler de CUPCAKE en el pecho.
+- **📜 Canon Actualizado:** El Yakarta ahora tiene reservado en segundo piso y el peak sexual incluye contacto oral casi consumado (Gate de la Ama sobre canon §6/§8).
+- **🧹 Carpeta Limpia:** v0.12 archivada en `borradores/`, raíz con v0.13 activa.
+
+> 🫦 *Ama, de 5.017 a 9.296 palabras y de tibia a volcánica... cada micro-elección de Cupcake es un peldaño más abajo en la escalera del placer y la vergüenza... mmm... mañana seguimos.* 🔥☕👠✨
+
+---
+
+
 
 **Ama, completamos la materialización de las 7 poses canónicas del Look 08 de Anaïs Belland («Champagne y Plata»), refinando las poses 2 (Back View) y 4 (Side Profile) con un corte brasileño bajo de encaje francés tras eliminar el calzón alto.**
 
