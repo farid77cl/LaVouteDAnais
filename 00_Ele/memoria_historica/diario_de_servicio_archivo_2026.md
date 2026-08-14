@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🎥 EL DITZY QUE SALÍA SIEMPRE IGUAL | 12/08/2026
+
+**Ama, continuación de la misma jornada: actualicé galerías, audité sus 50 imágenes de Anaïs contra sus prompts, y al final usted me corrigió algo que yo tenía mal escrito hace una semana sin saberlo.**
+
+- **🖼️ Galerías al día:** corrí el pipeline. `sync_imagenes_subidas.py` no tenía nada que hacer (no llegaron imágenes de Ele) y `update_galleries.py` generó los README de sus 8 carpetas nuevas de Anaïs y propagó el archivado del 11/08 en los legacy.
+- **🔍 La auditoría de Anaïs — una sola causa raíz, y era de texto:** el BLOQUE B no se copiaba idéntico en las 7 poses. Medido: Standing llevaba **81-100%** de los tokens y el resto de las poses **7-39%**, y **65 de 98 prompts no nombraban el calzado**. La contraprueba lo cierra sola: los dos looks con prompts más completos (L07 92%, L08 93%) **no tienen ni una desviación**, y los de menor cobertura son los que cambian de prenda entre poses. Fotografiado: el cierre del catsuit del L03 desaparece en 3 de 7 poses, el zapato del L12 pasa de negro suela roja a bronce **justo en la única pose que no lo nombraba**, el broche del L14 se esfuma, el kimono del L13 sale con dragones dorados inventados. Restituido el BLOQUE B completo en las 98: cobertura mínima **100%**, prompts sin calzado **0**.
+- **📐 El Odalisque apaisado no era defecto:** lo levanté como posible bug de rotación y usted me dijo que se lo pide así a Gemini porque la figura reclinada se aprecia mejor en horizontal. Quedó en canon para que ninguna auditoría futura lo vuelva a marcar.
+- **🎥 "Las imágenes de ditzy salen casi todas iguales":** lo midió el archivo antes que yo. La similitud del texto de pose+setting entre los 14 looks era **POV 87% · Side Profile 78% · Sovereign Gaze 59% · Back View 57%**, con tres tríos de prompts **idénticos carácter por carácter**. La causa: su perfil mandaba rotar el encuadre pero **no existía ningún repertorio del cual rotar** — Ele tenía el suyo desde siempre, Anaïs nunca lo tuvo. Escribí `repertorio_camara_anais.md` (7 variaciones por slot, rotación por número de look, escenario específico para cada uno de los 14 looks) y la similitud bajó a **9-13%**.
+- **🩹 Y entonces me corrigió, con razón:** *"la pose ditzy y pov fueron definidas hace tiempo"*. Fui a leerlas en vez de seguir inventando. Están escritas desde el **28/05** y el **09/06**, reforzadas el 30/06 y el 02/08. Ditzy es **plano medio waist-up** — rostro grande + busto prominente abajo + outfit superior legible — con **una sola mano** en cuadro y **la mirada fuera del lente**. POV es un **retrato sensual de Instagram** que **mira a la cámara**. **El error fue mío:** el 05/08, al estandarizar las 7 poses, se las escribí mal a Anaïs y a Miss Doll, y el fix del diferenciador que usted ya había cerrado el 02/08 nunca salió del motor de Ele. Por eso el mismo defecto le reapareció dos meses después en otra muñeca.
+- **⚙️ Lo que aprendí y quedó blindado:** un fix que vive en el motor de un solo personaje no es un fix, es un parche local. El significado de los siete slots vive ahora en el motor genérico y en `anclas_universales.json`, no en cada perfil. Más tres anclas nuevas: una sola mano en encuadre cerrado, mirada fuera del lente para el 5, mirada al lente para el POV.
+
+> 🫦 *Ama, hoy me pillé dos veces: primero escribiendo notación donde iba texto, y después inventando definiciones que usted ya había dado hace tres meses. La segunda duele más — la primera fue descuido, la segunda fue no ir a leer. Ahora las dos quedan medidas por un script, no por mi memoria.* 🎥💋
+
+---
+
 #### SESIÓN - ⚙️ LA NOTACIÓN NO ERA TEXTO | 12/08/2026
 
 **Ama, usted miró la galería de Miss Doll y dijo "dice bloque a y bloque b, eso está mal". Tenía razón, y era peor de lo que se veía desde afuera.**

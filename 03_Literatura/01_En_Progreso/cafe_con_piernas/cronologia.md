@@ -23,41 +23,33 @@ La nueva instrucción de la Ama exige rehacer la cronología desde cero para aju
 - **Anclaje:** Relativo.
 - **Local Único:** Todo ocurre en el Café Yakarta, un solo salón con vidrio polarizado en una galería de Santiago centro.
 
-## 2. Calendario Nuevo (Versión 0.8)
+## 2. Calendario de 3 Capítulos (Arco Comprimido Directiva 14/08/2026)
 
 | Marca | Día relativo | Cap/Escena | Qué pasa |
 |---|---|---|---|
 | ~Día −142 | −143 | Prehistoria | Camila deja de responder a Javiera. |
 | ~Día −120 | −121 | Prehistoria | Camila se casa con Cristóbal (matrimonio civil). |
 | Día 1 | 0 | Cap 1 | Pauli le manda capturas a Javiera. Javiera revisa la cuenta de Camila y ve a la Bimbo trad-trophy wife. |
-| Día 2 | +1 | Cap 1 | Javiera va a la casa del barrio alto. Reencuentro. Camila es una muñeca devota, feliz, sin rastro de su personalidad anterior. **(P1)** |
-| Día 6 | +5 | Cap 1 | Javiera entra al Yakarta. Contratación directa con don Nelson. |
-| Día 8 | +7 | Cap 1 | **Turno de prueba.** Ve a 3 chicas atendiendo (bimbo, chispeantes). Yasna le da el líquido claro. **Inicia la Voz.** Calentura en aumento. Actitud bimbo leve en la tarima. Cliente la invita al privado; lo rechaza temblando. La voz habla más fuerte al salir. |
-| Día 10 | +9 | Cap 2 | Empieza a ceder a las peticiones de la voz: maquillaje más pesado, faldas más cortas. |
-| ~Día 25 | +24 | Cap 3 | Pide usar lencería/bikini. La voz exige que la miren. |
-| ~Día 40 | +39 | Cap 4 | Uñas acrílicas, pelo platinado. El cuerpo cambia irreversiblemente. |
-| ~Día 60 | +59 | Cap 5 | Operación de tetas pedida por ella. |
-| ~Día 90 | +89 | Cap 6 | Acepta entrar al privado de forma regular. Descarga pública en la barra. |
-| ~Día 120 | +119 | Cap 7 | Tramo ciego. Trabaja por placer absoluto. |
-| ~Día 150 | +149 | Cap 8 | Revelación. Acepta el condicionamiento con total lucidez. |
-| ~Día 180 | +179 | Cap 9 | La cámara, el nombre nuevo. Renuncia final a su antigua vida. |
+| Día 2 | +1 | Cap 1 | Javiera va a la casa del barrio alto. Reencuentro con Camila (P1). |
+| Día 6 | +5 | Cap 1 | Javiera entra al Yakarta. Contratación con don Nelson. |
+| Día 8 | +7 | Cap 1 | **Turno de prueba (v0.14 - APROBADO):** El líquido rosado, inicio de la Voz de Cupcake. Escena del privado con cliente gordo y rudo; huye con los billetes y la culpa ardiendo. |
+| Día 9 | +8 | Cap 2 | **La segunda persona (v0.3 - 8.855 palabras):** Despertar somático, lencería de encaje, tacones de gala de 12 cm, beat del Yakarta en audífonos. Reprimenda matutina de Don Arturo. Escena de la Sala de Directorio sirviendo café con escote a clientes mineros. Uñas acrílicas esculpidas de 3.5 cm fucsias. Sexo crudo en el despacho con Don Arturo a las 4:00 PM sobre los expedientes mineros. Exposición pública ante los socios. Robo descarado de los billetes, compra de tacones de 15 cm con plataforma y entrada triunfal al Yakarta para subir a la tarima. |
+| Día 10 - 180 | +9 - +179 | Cap 3 | **Entrega total y producto terminado (Por escribir):** El proceso completo de transformación física (labios con ácido, pestañas, tetas de silicona, vestuario extremo, el minuto feliz, el privado habitual) y el sí definitivo frente a la cámara como la nueva muñeca perfecta. |
 
-## 3. Hechos Plantados (Cap 1 v0.8)
+## 3. Hechos Plantados (Cap 2 v0.3)
 
 | # | Hecho plantado | Plantado en | Estado | Pagado en |
 |---|---|---|---|---|
-| H1 | La nueva Camila: Bimbo trad-trophy wife, devota y pulcra | Cap 1 / esc. 2 | **escrito** | Todo el relato, como objetivo final del condicionamiento. |
-| H2 | El líquido claro dado por Yasna | Cap 1 / esc. vestidor | **escrito** | Cap 8 (descubre que es el ancla química/hipnótica, o su placebo). |
-| H3 | La Voz del "otro yo" inicia tras beber el líquido | Cap 1 / esc. vestidor | **escrito** | Escala en control total hasta Cap 9. |
-| H4 | Tres chicas atendiendo con actitud bimbo y chispeante | Cap 1 / esc. salón | **escrito** | Muestra el estado futuro de Javiera. |
-| H5 | Aumento progresivo e incontrolable de calentura | Cap 1 / esc. tarima | **escrito** | Descargas futuras (Cap 2, 6, 9). |
-| H6 | Actitud complaciente involuntaria (Bimbo leve) por dinero/placer | Cap 1 / esc. tarima | **escrito** | Pérdida de voluntad en tramos siguientes. |
-| H7 | La invitación al privado rechazada a último segundo | Cap 1 / cierre | **escrito** | Cap 6, cuando finalmente acepta. |
-| H8 | La voz hablando más fuerte en la calle | Cap 1 / cierre | **escrito** | Hacia la locura/obsesión fuera del local. |
+| H1 | Las uñas acrílicas fucsias de 3.5 cm | Cap 2 | **escrito** | Anulan definitivamente sus manos de abogada; ancladas para Cap 3. |
+| H2 | El escándalo público y la expulsión del bufete | Cap 2 | **escrito** | Cierra su vida profesional; no hay vuelta atrás. |
+| H3 | El fajo de billetes robado/cobrado a Don Arturo | Cap 2 | **escrito** | Consolidación de Cupcake operando por dinero en el cuerpo. |
+| H4 | Los tacones de 15 cm con plataforma comprados por ella | Cap 2 | **escrito** | La postura de hiperlordosis ya es su biomecánica permanente. |
+| H5 | Los susurros de modificaciones corporales (labios, tetas) | Cap 2 | **escrito** | Cap 3, donde se ejecutan las cirugías. |
 
 ## 4. Estado del cuerpo / continuidad física
 
 | Capítulo | Estado al cerrar |
 |---|---|
-| Cap 1 | **(v0.10):** Turno de prueba, minifalda de PVC transparente, top de látex, medias red, plataformas acrílicas de 18cm, asignada chapita Cupcake. Ingiere el líquido rosado. Incendio de excitación por autodegradación consciente. Tease en el privado, verga expuesta a 1mm de lamer, huye en pánico a la Alameda abrumada por la culpa. |
-| Cap 2 | **(v0.1):** Insomnio y culpa devoradora en su departamento. Inicia la Voz de Cupcake fuera del turno (§6c Estado 1). Javiera compra con sus propios ahorros gloss rosa flúor vinílico, pestañas dramáticas y sus propios stilettos de 15cm (Pivote P2). Segundo turno oficial en el Yakarta. Descarga 1: al llegar a su casa se toca sola en el baño empinada sobre los tacones de 15cm y maquillada, justificándolo como "estrés", mientras la voz de Cupcake se ríe victoriosa. |
+| Cap 1 | **(v0.14):** Turno de prueba, lencería plateada, tanga húmeda, $40.000 en el bolsillo del abrigo, sabor salado en la lengua y la Voz triunfante. |
+| Cap 2 | **(v0.3):** Tacones extremos de charol negro de 15 cm con plataforma de 5 cm, uñas acrílicas esculpidas de 3.5 cm fucsia brillante, blusa de seda desabotonada, fajo de $20.000 en el escote y en la falda, vulva empapada en fluidos de Don Arturo y de sí misma, sonrisa dócil de Cupcake ingresando al vestidor del Yakarta. |
+| Cap 3 | **(Pendiente):** Transformación total: labios inflados de ácido, senos de silicona, pestañas tupidas, lencería de tarima, nuevo nombre asumido. |
