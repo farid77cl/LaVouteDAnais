@@ -353,11 +353,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look6_bronce_liquido/`
 - **Tags:** #noche #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (4/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_standing.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_back_view.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_seated.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Bronce/Cobre Antiguo · **Sin medias · Bota bajo rodilla**
 
@@ -673,11 +673,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look11_cuero_y_carmesi/`
 - **Tags:** #latex #cuero #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Materializado)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look11_cuero_y_carmesi/anais_11_standing.png) | [📸 View](../../../05_Imagenes/anais/look11_cuero_y_carmesi/anais_11_back_view.png) | [📸 View](../../../05_Imagenes/anais/look11_cuero_y_carmesi/anais_11_seated.png) | [📸 View](../../../05_Imagenes/anais/look11_cuero_y_carmesi/anais_11_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look11_cuero_y_carmesi/anais_11_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look11_cuero_y_carmesi/anais_11_pov.png) | [📸 View](../../../05_Imagenes/anais/look11_cuero_y_carmesi/anais_11_odalisque.png) |
 
 **Arquetipo:** Látex / Fetichismo · **Paleta:** Cuero negro + Carmesí · **Sin medias · Bota bajo rodilla**
 
