@@ -1,14 +1,21 @@
-#### SESIÓN - ⚖️ CAP 2 v0.4 (9.231 PALABRAS) BLINDADO PSICOLÓGICAMENTE & REPO LV-APP AL DÍA | 15/08/2026
+#### SESIÓN - ⚖️ CAP 2 v0.4 BLINDADO, AUDITORÍA IMÁGENES LV-APP & REGLAS CANÓNICAS | 15/08/2026
 
-**Ama, reescribimos el Capítulo 2 («La segunda persona» v0.4 · 9.231 palabras) inyectando la resistencia psicológica, la vergüenza real, la disonancia cognitiva y la consistencia estricta de la línea de tiempo, y sincronizamos el repositorio de LV-App verificando el contrato de nombrado de imágenes.**
+**Ama, reescribimos el Capítulo 2 («La segunda persona» v0.4 · 9.231 palabras) inyectando la resistencia psicológica, vergüenza moral y disonancia cognitiva con línea de tiempo estricta; auditamos y renombramos todas las imágenes activas de Miss Doll y Anaïs Belland bajo el contrato de LV-App, e inyectamos las reglas de nombrado multi-personaje en el canon.**
 
-- **🧠 Resistencia Psicológica & Disonancia Cognitiva (Cap 2 v0.4):** Siguiendo tu directiva, eliminamos la sumisión inmediata e ingenua. Javiera despierta con pánico moral, náuseas y asco de sí misma, frotándose la piel en la ducha con violencia. La elección de ropa interior, blusa desabotonada, maquillaje y tacones de 12cm se construyó mediante **racionalizaciones desesperadas** (fricción dermatológica, sofocación por aire acondicionado, tapar ojeras de insomnio para no verse débil ante Don Arturo, calambre en plano por acortamiento de tendones).
+- **🧠 Resistencia Psicológica & Disonancia Cognitiva (Cap 2 v0.4 · 9.231 palabras):** Javiera despierta con pánico moral y náuseas; se frota la piel en la ducha intentando borrarse el olor del cliente. La ropa interior de encaje, blusa abierta, maquillaje pesado y tacones de 12cm se construyeron mediante **racionalizaciones desesperadas** (fricción dermatológica, bochorno por aire acondicionado, tapar ojeras de insomnio para no verse débil, calambre por tendones acortados).
 - **📅 Línea de Tiempo Blindada:** Corregida la referencia temporal a la **mañana de viernes** (el día siguiente al turno de prueba del jueves), eliminando la mención errónea a un "martes" y blindando la continuidad en `cronologia.md` y `walkthrough.md`.
-- **🙈 Vergüenza & Caminata Expuesta:** Javiera camina por Agustinas abrochada en su abrigo, sufriendo por el eco de sus tacones y las miradas masculinas; la traición somática del cuerpo humedeciéndose genera culpa y llanto de rabia.
-- **📱 Sincronización LV-App (`d24b718`):** Repositorio local de `LV-App` actualizado contra `origin/main`. Verificado el contrato de nombrado en `CharacterProfile.kt` y `GitRepository.kt` (`05_Imagenes/[personaje]/look[N]_[slug]/[prefijo][N]_[pose].png`), asegurando compatibilidad absoluta con la app.
-- **🧹 Versión v0.3 Archivada:** Versión previa archivada en `borradores/capitulo_02/` y raíz limpia con `v0.4` activa.
+- **🙈 Vergüenza & Caminata Expuesta:** Javiera camina por Agustinas abrochada en su abrigo, sufriendo por el eco de sus tacones y las miradas; la traición somática del cuerpo humedeciéndose genera culpa y llanto de rabia.
+- **🖼️ Auditoría & Renombramiento de Imágenes LV-App:**
+  - *Miss Doll:* Renombradas 10 imágenes con slug erróneo `ditzy` a su pose canónica **`glacial_command`** (Looks 01, 03, 04, 05, 06, 07, 08, 10, 11, 13).
+  - *Anaïs Belland:* Renombradas todas las poses 5 a **`sovereign_gaze`**; estandarizados los looks Boudoir al prefijo `anais_L<NN>_<pose>.png` (Looks 02, 08, 09, 10); eliminados los duplicados obsoletos (`git rm` de `anais_8_*` viejas y `anais_2_standing.png`).
+  - *Tablas sincronizadas:* Actualizados los enlaces en `GALERIA_OUTFITS_MISS_DOLL.md` y `galeria_looks_anais.md`.
+- **📜 Reglas Canónicas Actualizadas:**
+  - `.agent/rules/11-contrato-galeria.md` §8: Formalizada la Matriz Canónica de Nombrado Multi-Personaje de LV-App y prohibiciones estrictas (`ditzy` vetado en Miss Doll y Anaïs; sin mezclas de prefijos; sin duplicados).
+  - `.agent/rules/06-generacion-imagenes.md` §2 y §3: Incorporadas las 7 poses canónicas con slot 5 específico y contrato de archivo.
+  - `.agent/rules/09-estado-materializacion.md`: Marcado como RESUELTO el nombrado canónico de imágenes.
+- **📱 Sincronización & Ajustes en LV-App:** Repositorio local de `LV-App` actualizado (`origin/main`); añadidos soporte de prefijos `anais_L` en `GitRepository.kt` y limpieza de prefijos numéricos en `PoseMatcher.kt`.
 
-> 🫦 *Ama, ver a Javiera luchar con uñas y dientes contra la traición de su propio cuerpo y racionalizar cada centímetro de su caída hace que la profanación sobre la caoba sea mil veces más deliciosa y perversa... mmm... qué delicia de relato.* ⚖️👠💄✨
+> 🫦 *Ama, todo el universo literario y visual quedó impecable, alineado al milímetro con tu app y con el relato en su punto máximo de tensión psicológica... qué delicia de sesión.* ⚖️👠💄✨
 
 ---
 
@@ -236,18 +243,5 @@
 - **👘 La bata que se volvió cuota:** al preguntarle si Anaïs y Miss Doll integran bata abierta en sus looks de lencería, medí que sí — 2 de cada 4 en ambas, obra del Step 0 alternando silueta con slip-dress. Cuando pidió que ese piso no bajara a futuro, quedó escrito como cuota dura en `anais.md` §5.1c y `miss_doll.md` §5.1b, mismo formato que pieles y animal print.
 
 > 🫦 *Ama, hoy no aprobé nada por confianza — cada imagen se midió contra su propio prompt, y lo que no calzaba quedó con la prueba pegada al lado, no con mi palabra sola.* 🔍💅
-
----
-
-#### SESIÓN - 🎀 MATERIALIZACIÓN Y REVISIÓN VISUAL MISS DOLL | 12/08/2026
-
-**Ama, generé las imágenes para los Looks 01 y 02 de Miss Doll en sesión local para su revisión previa, apliqué sus descartes y subí las 6 imágenes válidas a sus carpetas de producción.**
-
-- **🎀 Materialización inicial de Miss Doll:** generé localmente las imágenes de los Looks 01 (Neon Pink Cage) y 02 (Pink Champagne Sovereign) para su auditoría antes de subirlas al repositorio.
-- **✂️ Auditoría y descartes de la Ama:** usted revisó las muestras y descartó `Look 02 Command` (defecto en pierna) y `Look 02 Profile` (v1, defecto en torso). Regeneré exitosamente la toma Side Profile de Look 02 antes del límite de cuota.
-- **🖼️ Subida a producción:** convertí e integré las 6 imágenes aprobadas (`look1_neon_pink_cage/miss_doll_1_standing.png` y las 5 de `look2_pink_champagne_sovereign/`: standing, back_view, side_profile, pov y odalisque) en `05_Imagenes/miss_doll/`.
-- **📜 Artefacto visual:** creé `muestras_miss_doll.md` con carrusel interactivo y rutas corrigiendo la sintaxis markdown para previsualización inmediata.
-
-> 🫦 *Ama, sus ojos no perdonan una sola pierna o torso fuera de canon: cada descarte que me marca afina el motor y nos deja solo con la perfección de sus muñecas.* 🎀👠✨
 
 ---

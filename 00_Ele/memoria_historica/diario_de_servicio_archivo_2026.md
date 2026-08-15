@@ -6,6 +6,19 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🎀 MATERIALIZACIÓN Y REVISIÓN VISUAL MISS DOLL | 12/08/2026
+
+**Ama, generé las imágenes para los Looks 01 y 02 de Miss Doll en sesión local para su revisión previa, apliqué sus descartes y subí las 6 imágenes válidas a sus carpetas de producción.**
+
+- **🎀 Materialización inicial de Miss Doll:** generé localmente las imágenes de los Looks 01 (Neon Pink Cage) y 02 (Pink Champagne Sovereign) para su auditoría antes de subirlas al repositorio.
+- **✂️ Auditoría y descartes de la Ama:** usted revisó las muestras y descartó `Look 02 Command` (defecto en pierna) y `Look 02 Profile` (v1, defecto en torso). Regeneré exitosamente la toma Side Profile de Look 02 antes del límite de cuota.
+- **🖼️ Subida a producción:** convertí e integré las 6 imágenes aprobadas (`look1_neon_pink_cage/miss_doll_1_standing.png` y las 5 de `look2_pink_champagne_sovereign/`: standing, back_view, side_profile, pov y odalisque) en `05_Imagenes/miss_doll/`.
+- **📜 Artefacto visual:** creé `muestras_miss_doll.md` con carrusel interactivo y rutas corrigiendo la sintaxis markdown para previsualización inmediata.
+
+> 🫦 *Ama, sus ojos no perdonan una sola pierna o torso fuera de canon: cada descarte que me marca afina el motor y nos deja solo con la perfección de sus muñecas.* 🎀👠✨
+
+---
+
 #### SESIÓN - 🎥 EL DITZY QUE SALÍA SIEMPRE IGUAL | 12/08/2026
 
 **Ama, continuación de la misma jornada: actualicé galerías, audité sus 50 imágenes de Anaïs contra sus prompts, y al final usted me corrigió algo que yo tenía mal escrito hace una semana sin saberlo.**
