@@ -17,11 +17,11 @@
 ---
 
 ## 🧿 ESTADO ACTUAL
-- **☕ «Café con Piernas» — Cap 1 Aprobado (v0.14 · 10.115 pal) · Cap 2 Completo (v0.3 · 8.855 pal) · Arco de 3 Capítulos:** Cap 1 aprobado con cliente repulsivo. Cap 2 escrito con la profanación en el bufete y el robo del dinero. ⏳ **Listo para lectura/revisión de la Ama antes de iniciar Cap 3 (Transformación final).**
+- **☕ «Café con Piernas» — Cap 1 Aprobado (v0.14 · 10.115 pal) · Cap 2 Completo (v0.4 · 9.231 pal) · Arco de 3 Capítulos:** Cap 1 aprobado con cliente repulsivo. Cap 2 reescrito con profunda resistencia psicológica, vergüenza, racionalización de Javiera, línea de tiempo estricta (mañana de viernes), profanación en el bufete y robo del dinero. ⏳ **Listo para lectura/revisión de la Ama antes de iniciar Cap 3 (Transformación final).**
 - **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate.
 - **👑 ANAÏS BELLAND — Flota al 77.6% (76/98 materializadas):** 10 looks completos 7/7 (01, 02, 03, 04, 08, 09, 10, 12, 13, 14), 1 parcial (Look 07 a 6/7) y 3 pendientes 0/7 (05, 06, 11). Quedan 22 poses pendientes. Cuota API reinicia ~18:37 UTC (14:37 local).
 - **👙 ANAÏS — 98 prompts reescritos por sensualidad (14/08):** `LEG_CUT_LOCK`, `SENSUAL_STATE`, `LIVED_IN_ROOM`. Biblioteca de 10 arquitecturas de lencería (§5.6) + liguero en L01/L05/L07. Catsuit autorizado.
-- **🔒 OUTFIT-ENGINE v2.4:** `anclas_siempre` por personaje · `repertorios_pose.json` con 149 sub-poses.
+- **🔒 OUTFIT-ENGINE v2.4 / LV-App Sincronizada:** LV-App actualizada en `main` (`d24b718`), contrato de nombrado verificado (`05_Imagenes/[personaje]/look[N]_[slug]/[prefijo][N]_[pose].png`).
 - **Flota / Materialización:** **L801** (~664 únicos). Ele 3.353/4.214 poses con foto · Miss Doll L14 (85/98) · Anaïs L14 (**76/98 materializadas · 77.6%** · 10 looks completos 7/7 · Look 07 a 6/7 · 22 poses pendientes).
 
 ## 🗓️ Sesiones recientes

@@ -32,11 +32,11 @@ La nueva instrucción de la Ama exige rehacer la cronología desde cero para aju
 | Día 1 | 0 | Cap 1 | Pauli le manda capturas a Javiera. Javiera revisa la cuenta de Camila y ve a la Bimbo trad-trophy wife. |
 | Día 2 | +1 | Cap 1 | Javiera va a la casa del barrio alto. Reencuentro con Camila (P1). |
 | Día 6 | +5 | Cap 1 | Javiera entra al Yakarta. Contratación con don Nelson. |
-| Día 8 | +7 | Cap 1 | **Turno de prueba (v0.14 - APROBADO):** El líquido rosado, inicio de la Voz de Cupcake. Escena del privado con cliente gordo y rudo; huye con los billetes y la culpa ardiendo. |
-| Día 9 | +8 | Cap 2 | **La segunda persona (v0.3 - 8.855 palabras):** Despertar somático, lencería de encaje, tacones de gala de 12 cm, beat del Yakarta en audífonos. Reprimenda matutina de Don Arturo. Escena de la Sala de Directorio sirviendo café con escote a clientes mineros. Uñas acrílicas esculpidas de 3.5 cm fucsias. Sexo crudo en el despacho con Don Arturo a las 4:00 PM sobre los expedientes mineros. Exposición pública ante los socios. Robo descarado de los billetes, compra de tacones de 15 cm con plataforma y entrada triunfal al Yakarta para subir a la tarima. |
+| Día 8 (Jueves) | +7 | Cap 1 | **Turno de prueba (v0.14 - APROBADO):** El líquido rosado, inicio de la Voz de Cupcake. Escena del privado con cliente gordo y rudo; huye con los billetes y la culpa ardiendo. |
+| Día 9 (Viernes) | +8 | Cap 2 | **La segunda persona (v0.4 - 9.231 palabras):** Mañana de viernes. Despertar en pánico moral y náusea, intento de borrarse en la ducha, disonancia cognitiva y racionalización constante para vestirse (encaje negro, blusa entreabierta, maquillaje y stilettos de gala de 12 cm por calambre plano). Caminata avergonzada por Agustinas en abrigo cerrado. Encuentro con Marcela en recepción. Reprimenda de Don Arturo y choque cognitivo. Escena de la Sala de Directorio sirviendo café con escote a clientes mineros. Uñas acrílicas esculpidas de 3.5 cm fucsias. Sexo crudo en el despacho con Don Arturo a las 4:00 PM sobre los expedientes mineros. Exposición pública ante los socios. Robo descarado de los billetes, compra de tacones de 15 cm con plataforma y entrada triunfal al Yakarta para subir a la tarima. |
 | Día 10 - 180 | +9 - +179 | Cap 3 | **Entrega total y producto terminado (Por escribir):** El proceso completo de transformación física (labios con ácido, pestañas, tetas de silicona, vestuario extremo, el minuto feliz, el privado habitual) y el sí definitivo frente a la cámara como la nueva muñeca perfecta. |
 
-## 3. Hechos Plantados (Cap 2 v0.3)
+## 3. Hechos Plantados (Cap 2 v0.4)
 
 | # | Hecho plantado | Plantado en | Estado | Pagado en |
 |---|---|---|---|---|
@@ -51,5 +51,5 @@ La nueva instrucción de la Ama exige rehacer la cronología desde cero para aju
 | Capítulo | Estado al cerrar |
 |---|---|
 | Cap 1 | **(v0.14):** Turno de prueba, lencería plateada, tanga húmeda, $40.000 en el bolsillo del abrigo, sabor salado en la lengua y la Voz triunfante. |
-| Cap 2 | **(v0.3):** Tacones extremos de charol negro de 15 cm con plataforma de 5 cm, uñas acrílicas esculpidas de 3.5 cm fucsia brillante, blusa de seda desabotonada, fajo de $20.000 en el escote y en la falda, vulva empapada en fluidos de Don Arturo y de sí misma, sonrisa dócil de Cupcake ingresando al vestidor del Yakarta. |
+| Cap 2 | **(v0.4):** Tacones extremos de charol negro de 15 cm con plataforma de 5 cm, uñas acrílicas esculpidas de 3.5 cm fucsia brillante, blusa de seda desabotonada, fajo de $20.000 en el escote y en la falda, vulva empapada en fluidos de Don Arturo y de sí misma, sonrisa dócil de Cupcake ingresando al vestidor del Yakarta. |
 | Cap 3 | **(Pendiente):** Transformación total: labios inflados de ácido, senos de silicona, pestañas tupidas, lencería de tarima, nuevo nombre asumido. |

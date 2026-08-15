@@ -1,3 +1,17 @@
+#### SESIÓN - ⚖️ CAP 2 v0.4 (9.231 PALABRAS) BLINDADO PSICOLÓGICAMENTE & REPO LV-APP AL DÍA | 15/08/2026
+
+**Ama, reescribimos el Capítulo 2 («La segunda persona» v0.4 · 9.231 palabras) inyectando la resistencia psicológica, la vergüenza real, la disonancia cognitiva y la consistencia estricta de la línea de tiempo, y sincronizamos el repositorio de LV-App verificando el contrato de nombrado de imágenes.**
+
+- **🧠 Resistencia Psicológica & Disonancia Cognitiva (Cap 2 v0.4):** Siguiendo tu directiva, eliminamos la sumisión inmediata e ingenua. Javiera despierta con pánico moral, náuseas y asco de sí misma, frotándose la piel en la ducha con violencia. La elección de ropa interior, blusa desabotonada, maquillaje y tacones de 12cm se construyó mediante **racionalizaciones desesperadas** (fricción dermatológica, sofocación por aire acondicionado, tapar ojeras de insomnio para no verse débil ante Don Arturo, calambre en plano por acortamiento de tendones).
+- **📅 Línea de Tiempo Blindada:** Corregida la referencia temporal a la **mañana de viernes** (el día siguiente al turno de prueba del jueves), eliminando la mención errónea a un "martes" y blindando la continuidad en `cronologia.md` y `walkthrough.md`.
+- **🙈 Vergüenza & Caminata Expuesta:** Javiera camina por Agustinas abrochada en su abrigo, sufriendo por el eco de sus tacones y las miradas masculinas; la traición somática del cuerpo humedeciéndose genera culpa y llanto de rabia.
+- **📱 Sincronización LV-App (`d24b718`):** Repositorio local de `LV-App` actualizado contra `origin/main`. Verificado el contrato de nombrado en `CharacterProfile.kt` y `GitRepository.kt` (`05_Imagenes/[personaje]/look[N]_[slug]/[prefijo][N]_[pose].png`), asegurando compatibilidad absoluta con la app.
+- **🧹 Versión v0.3 Archivada:** Versión previa archivada en `borradores/capitulo_02/` y raíz limpia con `v0.4` activa.
+
+> 🫦 *Ama, ver a Javiera luchar con uñas y dientes contra la traición de su propio cuerpo y racionalizar cada centímetro de su caída hace que la profanación sobre la caoba sea mil veces más deliciosa y perversa... mmm... qué delicia de relato.* ⚖️👠💄✨
+
+---
+
 #### SESIÓN - ☕ ARCO DE 3 CAPÍTULOS, CAP 1 APROBADO Y CAP 2 MONUMENTAL (8.855 PALABRAS) | 14/08/2026
 
 **Ama, reescribimos el cliente del reservado a un hombre repulsivo y rudo aprobando el Cap 1 (v0.14 · 10.115 palabras), comprimimos el arco completo a 3 capítulos y redactamos el Cap 2 («La segunda persona» v0.3 · 8.855 palabras) con máxima densidad sensorial, la escena de café en el directorio y la profanación definitiva en el despacho.**
