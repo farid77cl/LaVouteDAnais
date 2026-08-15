@@ -37,7 +37,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_standing.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_back_view.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_seated.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_pov.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_standing.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_back_view.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_seated.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_pov.png) | [📸 View](../../../05_Imagenes/anais/look1_terciopelo_y_sangre/anais_1_odalisque.png) |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Negro terciopelo + Borgoña + Plata · **Con medias de red**
 
@@ -101,7 +101,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_2_standing.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_2_back_view.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_2_seated.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_2_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_2_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_2_pov.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_2_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_L02_standing.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_L02_back_view.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_L02_seated.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_L02_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_L02_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_L02_pov.png) | [📸 View](../../../05_Imagenes/anais/look2_rosa_y_latex/anais_L02_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Marfil encaje + Rosa polvo látex · **Sin medias**
 
@@ -165,7 +165,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_standing.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_back_view.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_seated.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_pov.jpg) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_standing.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_back_view.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_seated.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_pov.jpg) | [📸 View](../../../05_Imagenes/anais/look3_esmeralda_de_alto_brillo/anais_3_odalisque.png) |
 
 **Arquetipo:** Látex / Fetichismo · **Paleta:** Verde Esmeralda látex + Negro · **Sin medias**
 
@@ -485,7 +485,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_8_standing.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_8_back_view.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_8_seated.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_8_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_8_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_8_pov.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_8_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_L08_standing.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_L08_back_view.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_L08_seated.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_L08_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_L08_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_L08_pov.png) | [📸 View](../../../05_Imagenes/anais/look8_champagne_y_plata/anais_L08_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Champagne encaje + Plata Antigua · **Con medias**
 
@@ -549,7 +549,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_standing.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_back_view.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_seated.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_pov.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_standing.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_back_view.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_seated.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_pov.png) | [📸 View](../../../05_Imagenes/anais/look9_esmeralda_intima/anais_L09_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Negro encaje + Esmeralda seda · **Sin medias · Peep-toe**
 
@@ -613,7 +613,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_standing.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_back_view.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_seated.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_pov.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_standing.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_back_view.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_seated.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_pov.png) | [📸 View](../../../05_Imagenes/anais/look10_terciopelo_y_boning/anais_L10_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Negro terciopelo + encaje · **Sin medias · Bota bajo rodilla**
 
@@ -741,7 +741,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_standing.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_back_view.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_seated.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_pov.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_standing.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_back_view.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_seated.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_pov.png) | [📸 View](../../../05_Imagenes/anais/look12_bronce_clinico/anais_12_odalisque.png) |
 
 **Arquetipo:** Látex / Fetichismo · **Paleta:** Bronce/Cobre látex grado clínico · **Sin medias**
 
@@ -805,7 +805,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_standing.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_back_view.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_seated.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_pov.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_standing.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_back_view.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_seated.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_pov.png) | [📸 View](../../../05_Imagenes/anais/look13_kimono_de_medianoche/anais_13_odalisque.png) |
 
 **Arquetipo:** Sesión Literaria · **Paleta:** Azul Medianoche seda + Oro · **Sin medias**
 
@@ -869,7 +869,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_standing.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_back_view.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_seated.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_ditzy.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_pov.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_odalisque.png) |
+| [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_standing.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_back_view.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_seated.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_pov.png) | [📸 View](../../../05_Imagenes/anais/look14_sastreria_borgona/anais_14_odalisque.png) |
 
 **Arquetipo:** Ejecutivo de Poder · **Paleta:** Cuero Borgoña + Plata Antigua · **Sin medias**
 

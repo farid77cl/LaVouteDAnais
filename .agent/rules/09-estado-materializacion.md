@@ -100,7 +100,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 > - ⚙️ **Causa raíz de proceso:** el look **se escribió a mano** (`generar_look801.py`) en vez de ensamblarse con `prompt_builder.py`, y sus 4 poses materializadas salieron **sin `GARMENT_CONSISTENCY`, sin `PHOTOREAL_LOCK` y sin ancla de orientación**. `GARMENT_CONSISTENCY` es exactamente el ancla que impide que la prenda se re-estilice entre tomas. **Todo look nuevo se ensambla con el motor** — es la lección, no el parche.
 > - ⏳ **Regenerar 5:** Back View · Side Profile · Ditzy · POV · Odalisque. Standing y Seated quedan válidas. Las 7 poses ya están en 0 anclas faltantes.
 
-> 🔤 **PENDIENTE 13/08/2026 — 10 imágenes de Miss Doll con el slug de Ele.** Están nombradas `miss_doll_<N>_ditzy.png` cuando su slot 5 es **`glacial_command`**. Consecuencia medida: `inyectar_anclas.py` cuenta **75** poses con foto en vez de 85, y trata 10 poses ya materializadas como riesgo vivo. ⚠️ **Renombrar con cuidado:** los PNG llevan skip-worktree y `git mv`/`update-index` ignoran esas entradas en silencio. `sync_imagenes_subidas.py` normaliza `back→back_view` y `profile→side_profile`, pero **no** conoce el slot 5 por personaje.
+> ✅ **RESUELTO 15/08/2026 — Nombrado canónico LV-App completado.** Las 10 imágenes de Miss Doll fueron renombradas a `miss_doll_<N>_glacial_command.png` y las de Anaïs a `anais_<N>_sovereign_gaze.png` / `anais_L<NN>_...` para Boudoir, alineando 100% las carpetas en disco, las tablas markdown y el contrato de LV-App (`CharacterProfile.kt` y `GitRepository.kt`). Se eliminaron las versiones duplicadas obsoletas.
 
 ### 🛠️ Estado por look
 

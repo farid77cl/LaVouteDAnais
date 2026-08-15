@@ -148,21 +148,25 @@ La **Subcategoría** es libre y descriptiva (`Office Siren (Thigh-High Boots)`),
 
 ---
 
-## 8. 🖼️ NOMBRES DE IMAGEN
+## 8. 🖼️ NOMBRES DE IMAGEN (CONTRATO LV-APP MULTI-PERSONAJE)
 
-```
-ele_<N>_<pose>.png
-```
+> **Directiva Ama (15/08/2026):** Todas las imágenes en disco, tablas markdown y subidas desde la app DEBEN seguir el contrato de nombrado estricto de LV-App (`CharacterProfile.kt` y `GitRepository.kt`). No se permiten slugs de otros personajes (ej. `ditzy` en Miss Doll o Anaïs) ni prefijos inconsistentes.
 
-Las **7 poses canónicas**, escritas exactamente así:
+### 📐 Matriz Canónica de Nombrado por Personaje
 
-```
-standing · back_view · seated · side_profile · ditzy · pov · odalisque
-```
+| Personaje | Carpeta de Look | Formato de Archivo | Slot 5 Específico | Las 7 Poses Canónicas |
+|---|---|---|---|---|
+| **Ele** | `05_Imagenes/ele/look<N>_<slug>/` | `ele_<N>_<pose>.png` | `ditzy` | `standing`, `back_view`, `seated`, `side_profile`, `ditzy`, `pov`, `odalisque` |
+| **Miss Doll** | `05_Imagenes/miss_doll/look<N>_<slug>/` | `miss_doll_<N>_<pose>.png` | `glacial_command` | `standing`, `back_view`, `seated`, `side_profile`, `glacial_command`, `pov`, `odalisque` |
+| **Anaïs (Estándar)** | `05_Imagenes/anais/look<N>_<slug>/` | `anais_<N>_<pose>.png` | `sovereign_gaze` | `standing`, `back_view`, `seated`, `side_profile`, `sovereign_gaze`, `pov`, `odalisque` |
+| **Anaïs (Boudoir / Lencería)** | `05_Imagenes/anais/look<N>_<slug>/` | `anais_L<NN>_<pose>.png` *(ej. `anais_L08_standing.png`)* | `sovereign_gaze` | `standing`, `back_view`, `seated`, `side_profile`, `sovereign_gaze`, `pov`, `odalisque` |
 
-- La app sube `back` y `profile`; `sync_imagenes_subidas.py` los normaliza a `back_view`/`side_profile`. **La normalización no es opcional** — sin ella la pose se mapea mal en la galería.
-- **Sufijo timestamp permitido:** `ele_313_pov_1783817471712.png` (lo pone la generación por API). El conteo lo acepta como la pose. Un sufijo `__v2` marca una versión alternativa conservada.
-- Una carpeta por look. **Nunca dos carpetas para el mismo número.**
+### ⛔ Prohibiciones Absolutas de Nombrado
+1. **PROHIBIDO usar `ditzy` en Miss Doll o Anaïs:** El slot 5 de Miss Doll es **`glacial_command`**; el de Anaïs es **`sovereign_gaze`**. `ditzy` es exclusivo de Ele.
+2. **PROHIBIDO mezclar prefijos en un mismo look:** Si el look es Boudoir de Anaïs (`look.isBoudoir = true`), todas sus poses llevan el prefijo `anais_L<NN>_` (con padding de 2 dígitos, ej. `anais_L02_`, `anais_L08_`, `anais_L09_`, `anais_L10_`). Si es estándar, llevan `anais_<N>_`.
+3. **PROHIBIDO duplicar versiones antiguas en la misma carpeta:** Si se regenera una pose desde la app con el prefijo nuevo, la versión obsoleta previa debe eliminarse (`git rm`) para no duplicar conteos ni corromper el visor de la app.
+4. **Sufijo timestamp / v2:** La app o generación por API puede incluir timestamp (`ele_313_pov_1783817471712.png`) o versión (`__v2`). El extractor de pose de la app los procesa correctamente.
+5. **Una sola carpeta por look:** Nunca dos carpetas para el mismo número de look. Todo en minúsculas y sin acentos.
 
 ---
 

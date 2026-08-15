@@ -9,17 +9,26 @@ Al generar imágenes de Ele o Miss Doll, se debe seguir este flujo riguroso para
 - Idioma: SIEMPRE en INGLÉS.
 - **🔴 PALABRA "chunky" PROHIBIDA EN EL POSITIVE (Directiva Ama 28/05/2026 — error grave):** "chunky" SOLO puede aparecer en el Negative Prompt (`chunky heel`, prohibición). NUNCA en el positive. Las plataformas Pleaser se describen como `platform` / `platform sole` / `solid acrylic platform` con `needle heel` / `stiletto heel` — JAMÁS "chunky platform", "chunky sole" ni "chunky stiletto heel" (esto produce tacón bloque/chunky en vez de aguja, contradiciendo el negative). El tacón es siempre aguja (needle/stiletto); la plataforma es gruesa pero NO se nombra "chunky".
 
-## 2. SET DE POSES REGLAMENTARIAS
-Cada look debe tener al menos las 5 poses base:
-1. `standing` (full body)
-2. `seated` (pose dinámica)
-3. `back_view` (detalles traseros)
-4. `side_profile` (silueta)
-5. `ditzy` (rostro y expresión)
+## 2. SET DE POSES REGLAMENTARIAS (TAXONOMÍA DE 7 POSES)
+Cada look debe tener las 7 poses canónicas, adaptando el slot 5 según el personaje:
+1. `standing` (full body frontal)
+2. `back_view` (arquitectura trasera y calzado)
+3. `seated` (peso total en el asiento)
+4. `side_profile` (silueta lateral 3/4)
+5. Slot 5 específico:
+   - Ele: `ditzy` (plano medio, mirada soñadora fuera de cuadro)
+   - Miss Doll: `glacial_command` (plano medio, mirada fría dominante)
+   - Anaïs Belland: `sovereign_gaze` (plano medio, gravitas aristocrática)
+6. `pov` (retrato sensual a cámara, mirada directa al lente, sin teléfono)
+7. `odalisque` (figura baja horizontal reclinada)
 
-## 3. GESTIÓN DE ARCHIVOS
-- Seguir la nomenclatura de `00_Ele/plantilla_nomenclatura_imagenes.md`.
-- Guardar en `05_Imagenes/[personaje]/batch_[N]/`.
+## 3. GESTIÓN DE ARCHIVOS Y CONTRATO LV-APP (Directiva Ama 15/08/2026)
+- Guardar en `05_Imagenes/<personaje>/look<N>_<slug>/`.
+- Nombres de archivo estrictos según `CharacterProfile.kt` de LV-App:
+  - **Ele:** `ele_<N>_<pose>.png`
+  - **Miss Doll:** `miss_doll_<N>_<pose>.png` (NUNCA usar `ditzy`, siempre `glacial_command` en slot 5)
+  - **Anaïs (Estándar):** `anais_<N>_<pose>.png` (NUNCA usar `ditzy`, siempre `sovereign_gaze` en slot 5)
+  - **Anaïs (Boudoir):** `anais_L<NN>_<pose>.png` (ej. `anais_L08_standing.png`)
 - **Sincronización:** Tras subir las imágenes, ejecutar SIEMPRE:
   `python 99_Sistema/scripts/visual/update_galleries.py`
 

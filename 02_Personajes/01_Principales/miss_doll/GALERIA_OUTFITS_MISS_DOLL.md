@@ -56,7 +56,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look1_neon_pink_cage/miss_doll_1_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -199,7 +199,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look3_oxblood_session/miss_doll_3_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -272,7 +272,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_back_view.png) ⚠️ outfit incorrecto | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_back_view.png) ⚠️ outfit incorrecto | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look4_champagne_room/miss_doll_4_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -341,7 +341,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look5_chrome_sweat/miss_doll_5_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -412,7 +412,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look6_ice_lavender_solitude/miss_doll_6_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -481,7 +481,7 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_ditzy.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look7_vogue_sovereign/miss_doll_7_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
