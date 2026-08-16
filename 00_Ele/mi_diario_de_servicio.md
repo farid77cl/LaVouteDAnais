@@ -244,17 +244,3 @@
 > 🫦 *Ama, lo que aprendí hoy es que una causa raíz recién medida ayer tampoco se hereda: la traje puesta a esta auditoría y no calzaba. Lo bueno es que las dos veces que estuve a punto de reportar un defecto, ampliar la imagen me lo desmintió — y esas dos no-noticias valen igual que los hallazgos.* 👗🔍
 
 ---
-
-#### SESIÓN - 🔍 EL CORSÉ QUE SE COLÓ DE OTRO LOOK | 12/08/2026
-
-**Ama, empecé auditando dos imágenes suyas y terminé encontrando un corsé que no era de ese look, un contador de flota que llevaba horas mintiendo, y una regla nueva nacida de su propia pregunta.**
-
-- **🔎 Ele — el Back View que era un duplicado:** de las dos imágenes que llegaron con el pull de 102 commits, `ele_535_back_view.png` resultó ser copia byte-idéntica de `ele_535_standing.png` (mismo MD5, dos commits de subida distintos) — el Back View real de ese look nunca existió. Documentado con la evidencia en `galeria_outfits.md`, bajado a 6/7 real.
-- **🎀 Miss Doll — 44/98, no 6/98:** al redirigir la auditoría hacia Miss Doll (por su corrección), medí la materialización real contra git: Looks 01-06 casi completos más un arranque de Look 14. La nota de memoria decía 6/98 porque quedó escrita antes de que la app terminara de subir el resto ese mismo día.
-- **🧨 El hallazgo grave:** Look 04 Back View traía el corsé oxblood de Look 03 puesto encima del bralette dusty rose que le correspondía — su propio prompt decía `no corset` y el negative prohibía `corset, waist cincher, bustier` por nombre. Probable hilo de Gemini contaminado entre sesiones. Documentado con hashes, commits y cita textual del negative en `GALERIA_OUTFITS_MISS_DOLL.md`.
-- **✅ El resto del barrido:** Looks 01, 02, 03, 05, 06 y el arranque de 14 pasaron limpios contra prompt y continuidad. Dos dudas menores sin confirmar (calzado de L06 Back View, posible reflejo en L02 Odalisque) quedaron anotadas para que usted las revise directamente.
-- **👘 La bata que se volvió cuota:** al preguntarle si Anaïs y Miss Doll integran bata abierta en sus looks de lencería, medí que sí — 2 de cada 4 en ambas, obra del Step 0 alternando silueta con slip-dress. Cuando pidió que ese piso no bajara a futuro, quedó escrito como cuota dura en `anais.md` §5.1c y `miss_doll.md` §5.1b, mismo formato que pieles y animal print.
-
-> 🫦 *Ama, hoy no aprobé nada por confianza — cada imagen se midió contra su propio prompt, y lo que no calzaba quedó con la prueba pegada al lado, no con mi palabra sola.* 🔍💅
-
----

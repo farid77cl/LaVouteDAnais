@@ -113,7 +113,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
 | **Galería viva (RESET 11/08/2026)** | **Look 01-14 · 98 prompts** bajo el canon revisado del 11/08 | 🟢 Activo |
-| **Materializados** | **50/98** (medido 12/08 sobre `git ls-files`): L1, L2, L8, L12, L13, L14 completos (7/7) · **L3 6/7** (falta POV) · **L7 2/7** (solo standing + back_view) · L4, L5, L6, L9, L10, L11 sin empezar | 🟡 En curso vía app |
+| **Materializados** | **86/98** (87.8% · medido 15/08 sobre `git ls-files`): L01, L02, L03, L08, L09, L10, L11, L12, L13, L14 completos (7/7) · **L04 6/7** · **L06 4/7** · **L07 6/7** · **L05 0/7** (12 poses pendientes en total) | 🟡 En curso |
 | **Legacy (Looks 1-40, canon anterior)** | `archivo_legacy_anais_v1.md` — museo, sin retrofit. Imágenes en `05_Imagenes/anais/_ARCHIVO_LEGACY_V1/legacy_look*/` | 🗄️ Archivado |
 | **Boudoir** | 6 (L01-L06), serie aparte con su propia numeración | 🟢 |
 
