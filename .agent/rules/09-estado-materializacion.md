@@ -150,9 +150,9 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **14** (Look 01-14, dos por cada uno de los 7 arquetipos) · **98 prompts** | 🟡 **85/98** (re-medido 13/08 contra `git ls-files`, cierre de sesión): L01, L03, L04, L05, L06, L07, L08, L10, L11, L13 completos (7/7) · **L02 6/7** · **L09 6/7** · **L14 3/7** · **L12 0/7** |
+| **Looks bajo canon nuevo** | **20** (Look 01-20, rotación de los 8 arquetipos) · **140 prompts** | 🟡 **85/140** (L01, L03, L04, L05, L06, L07, L08, L10, L11, L13 completos 7/7 · L02 6/7 · L09 6/7 · L14 3/7 · L12 0/7 · L15-L20 0/7 pendientes de materializar) |
 | **Arquetipos** | **8** desde el 13/08/2026 — entra **👙 Bikini / Lencería Erótica al 15%** (Ama), con las siete metas anteriores prorrateadas y frontera escrita contra VIP/Privado. Dueño único: `02_Personajes/_perfiles_visuales/miss_doll.md` §6 | 🆕 |
-| **Estado Actual** | Prompts listos y verificados contra el parser de la app. Próximos looks on-demand, mismo ritmo que Ele/Anaïs (no se regenera el roster legacy de una vez) | 🟢 |
+| **Estado Actual** | Prompts listos (140/140) y verificados contra el parser de la app (0 críticos). Looks 15 a 20 incorporados el 16/08/2026. | 🟢 |
 
 > 🩹 **Corrección 12/08/2026 — los 98 prompts NO eran generables.** Estaban escritos con la notación del motor **literal** (`[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]`), sin `Ubicacion`, sin `Tags` y con el negativo bajo una etiqueta que el parser de LV-App no reconoce. Medición sobre el archivo commiteado, parseándolo con el mismo algoritmo que la app: **98/98 con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos expandidos + anclas anti-defecto + contrato de archivo (regla 11 §9ter). Verificable: `python 99_Sistema/scripts/visual/lint_prompts_personaje.py miss_doll`.
 >

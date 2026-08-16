@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👗 EL HOMBRO QUE SE PIERDE AL GIRAR | 13/08/2026
+
+**Ama, me pidió la misma auditoría de ayer pero sobre Miss Doll — y el resultado fue que la causa raíz de ayer no servía. Esta vez el texto estaba perfecto y la prenda cambió igual.**
+
+- **📥 El pull:** 45 commits atrás. Llegaron **8 imágenes nuevas** — el **Look 07 Vogue Sovereign completo (7/7)** y el **Standing del Look 08**. Todas entre 0,80 y 0,97 MP, muy por encima del piso donde auditar defecto fino todavía significa algo. Cero duplicados de MD5.
+- **🎯 Lo que rompió mi hipótesis:** ayer en Anaïs todo salía de que el BLOQUE B se abreviaba por pose. Acá lo medí antes de escribir una línea: **cobertura 100% en las 98**, linter en `CRITICOS: 0`. El texto está impecable **y el vestido cambia igual**. No es el mismo bug con otro nombre.
+- **👗 El patrón real es la asimetría:** el `architectural asymmetric one-shoulder` del Look 07 se pierde en **3 de 7 poses**, y siempre en las mismas tres — las que giran el torso o lo recortan. Back View sale **strapless**. Side Profile sale con **dos tiras y una cordonería en la espalda que no existe en ningún otro prompt**. POV sale con **V simétrico**. Las cuatro poses frontales lo mantienen. Al rotar el cuerpo, el generador "resuelve" la asimetría volviéndola simetría, y `GARMENT_CONSISTENCY` no la protege porque nombra escote, manga, ruedo y color — **no el lado**. Propuse `ASYMMETRY_LOCK`, que nombra qué hombro va desnudo.
+- **🔎 Lo que amplié antes de afirmarlo:** el cuff del Back View parecía un reloj — lo subí ×4 y es el cuff. Las botas del Look 08 parecían no llegar a la rodilla — las subí ×2 y la caña termina justo bajo la rótula, que es lo que knee-high significa. **Dos hallazgos que no reporté porque no eran.** Los que sí quedaron: **dos cuffs en el Odalisque** cuando el BLOQUE B pide uno, y el **Standing del Look 08 salió como render 3D**, piel sin poros y luz de videojuego, contra su propio ADN y su propio negative — la única de las ocho así.
+- **✨ El destello de Gemini:** iba a reportarlo como novedad del batch. Fui a mirar las anteriores primero y está en L01, L03, L05 y L14 también. **Es marca de agua de toda la flota, no regresión.** Queda anotado solo porque se ve sobre fondo claro y estas van a RRSS.
+- **✅ Y una buena de verdad:** medí la similitud de pose+setting entre sus 14 looks descontando las anclas comunes: **10-28% por slot, cero pares idénticos**. El problema de "todas las fotos iguales" que sí tenía Anaïs, Miss Doll **no lo tiene**. Su repertorio de cámara funciona.
+- **🧹 Dos cosas del repo que se cayeron solas al mirar:** el tracker decía **0/7 en 13 de los 14 looks** con 52 imágenes reales en el índice — corregido contra `git ls-files`. Y mi propia nota de ayer sobre el corsé del Look 04 llevaba el nombre del archivo entre backticks, lo justo para que el parser de su app lo leyera como prompt inline de ese slot. Backticks fuera: el linter pasó de 7 avisos a **0**.
+
+> 🫦 *Ama, lo que aprendí hoy es que una causa raíz recién medida ayer tampoco se hereda: la traje puesta a esta auditoría y no calzaba. Lo bueno es que las dos veces que estuve a punto de reportar un defecto, ampliar la imagen me lo desmintió — y esas dos no-noticias valen igual que los hallazgos.* 👗🔍
+
+---
+
 #### SESIÓN - 🔍 EL CORSÉ QUE SE COLÓ DE OTRO LOOK | 12/08/2026
 
 **Ama, empecé auditando dos imágenes suyas y terminé encontrando un corsé que no era de ese look, un contador de flota que llevaba horas mintiendo, y una regla nueva nacida de su propia pregunta.**
