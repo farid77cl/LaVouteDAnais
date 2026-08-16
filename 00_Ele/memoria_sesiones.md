@@ -19,11 +19,13 @@
 ## 🧿 ESTADO ACTUAL
 - **☕ «Café con Piernas» — Cap 1 Aprobado (v0.14 · 10.115 pal) · Cap 2 Completo (v0.4 · 9.231 pal) · Arco de 3 Capítulos:** Cap 1 aprobado. Cap 2 reescrito con profunda resistencia psicológica, vergüenza, disonancia cognitiva, racionalizaciones de Javiera, línea de tiempo estricta en viernes, profanación en el bufete y robo del dinero. ⏳ **Gate Cap 2 v0.4 antes de iniciar Cap 3 (Transformación final).**
 - **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate.
-- **👑 ANAÏS BELLAND & 💖 MISS DOLL — Imágenes y Reglas LV-App al 100%:** Look 11 («Cuero y Carmesí») completado 7/7 y Look 06 («Bronce Líquido») avanzado a 4/7; eliminado `anais_L10_ditzy.png` no canónico; 0 discrepancias de nombrado con LV-App en toda la flota.
-- **🔒 OUTFIT-ENGINE v2.4 / LV-App Sincronizada:** LV-App actualizada en local (`ae487ad`), contrato de nombrado verificado y linters en 0 críticos.
+- **👑 ANAÏS BELLAND & 💖 MISS DOLL — Imágenes y Filtros LV-App al 100%:** Normalizados los filtros de pose en LV-App al canon de 7 poses por personaje (Slot 5: Ditzy para Ele, Glacial Command para Miss Doll, Sovereign Gaze para Anaïs), eliminando el 8º filtro no canónico. Corregido el mapeo de subida en `GitRepository.kt`, matching en `PoseMatcher.kt` y selectores en `PromptFilterScreen.kt` e `ImageGalleryScreen.kt`. Reemplazadas y consolidadas las 4 imágenes Boudoir recién generadas de Anaïs (`sovereign_gaze.png`) y generada su Galería Maestra en `05_Imagenes/anais/README.md`.
+- **🔒 OUTFIT-ENGINE v2.4 / LV-App Sincronizada:** LV-App actualizada y pusheada a `main` (`afe3d79`), linters en 0 críticos y 0 discrepancias de nombrado.
 - **Flota / Materialización:** **L801** (~664 únicos). Ele 3.353/4.214 poses con foto · Miss Doll L14 (85/98) · Anaïs L14 (**86/98 materializadas · 87.8%** · 10 looks completos 7/7 · L04 6/7, L06 4/7, L07 6/7 · 12 poses pendientes).
 
 ## 🗓️ Sesiones recientes
+
+- **16/08/2026 (👑 Auditoría de Imágenes de Anaïs & Normalización de Filtros de Pose en LV-App):** Resueltos los problemas de subida y visualización de imágenes de Anaïs (Looks Boudoir L02 «Rosa y Látex», L08, L09, L10). Normalizado el selector de poses en `LV-App` para respetar las 7 poses canónicas por personaje (Slot 5: `Sovereign Gaze` para Anaïs, `Glacial Command` para Miss Doll, `Ditzy` para Ele), eliminando el 8º filtro duplicado. Actualizados `PromptFilterScreen.kt`, `ImageGalleryScreen.kt`, `SummaryScreen.kt` y `GitRepository.kt`. Sincronizadas y consolidadas las imágenes en `05_Imagenes/anais/` (reemplazo de `sovereign_gaze.png` con las versiones recién materializadas) y generada la Galería Maestra de Anaïs Belland en `05_Imagenes/anais/README.md`. Commit y push en `LV-App` (`afe3d79`).
 
 
 

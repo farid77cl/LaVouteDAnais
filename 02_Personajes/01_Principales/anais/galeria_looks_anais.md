@@ -225,11 +225,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look4_tinta_rosa/`
 - **Tags:** #sesionliteraria #seda #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (6/7 — En curso)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_standing.png) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_back_view.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_seated.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_side_profile.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_sovereign_gaze.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_pov.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_odalisque.jpg) |
+| ⏳ | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_back_view.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_seated.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_side_profile.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_sovereign_gaze.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_pov.jpg) | [📸 View](../../../05_Imagenes/anais/look4_tinta_rosa/anais_4_odalisque.jpg) |
 
 **Arquetipo:** Sesión Literaria · **Paleta:** Rosa polvo seda · **Sin medias · Peep-toe**
 

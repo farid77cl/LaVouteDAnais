@@ -47,16 +47,18 @@ def get_tracked_images(directory):
 # Ahora: alias por pose + match por TOKEN (no subcadena) + la casilla sin imagen
 # muestra ⏳. Una imagen jamás ocupa la casilla de otra pose.
 POSE_ALIASES = {
-    'standing':     ('standing', 'frontal'),
-    'back_view':    ('back_view', 'backview', 'back', 'espalda'),
-    'seated':       ('seated', 'sitting', 'sentada'),
-    'side_profile': ('side_profile', 'sideprofile', 'profile', 'side', 'perfil'),
-    'ditzy':        ('ditzy',),
-    'pov':          ('pov',),
-    'odalisque':    ('odalisque', 'lying'),
+    'standing':         ('standing', 'frontal'),
+    'back_view':        ('back_view', 'backview', 'back', 'espalda'),
+    'seated':           ('seated', 'sitting', 'sentada'),
+    'side_profile':     ('side_profile', 'sideprofile', 'profile', 'side', 'perfil'),
+    'ditzy':            ('ditzy', 'closeup', 'close_up'),
+    'sovereign_gaze':   ('sovereign_gaze', 'sovereign', 'gaze', 'domina_closeup'),
+    'glacial_command':  ('glacial_command', 'glacial', 'command'),
+    'pov':              ('pov',),
+    'odalisque':        ('odalisque', 'lying', 'chaise'),
 }
 
-_POSE_PREFIX_RE = re.compile(r'^(?:ele|helena)_\d+_', re.I)
+_POSE_PREFIX_RE = re.compile(r'^(?:ele|helena|miss_doll|anais)_(?:look|l)?\d+_', re.I)
 
 def pose_de_imagen(img_name):
     """(pose_canónica, rango, sufijo) de un nombre de archivo, o (None, 99, '').
@@ -401,6 +403,67 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
     print("  -> Galería Maestra Miss Doll completada.", flush=True)
 
+def generate_anais_master_gallery(base_path, repo_root):
+    """Genera la Galería Maestra de Looks de Anaïs Belland."""
+    anais_path = os.path.join(base_path, 'anais')
+    output_file = os.path.join(anais_path, 'README.md')
+    if not os.path.exists(anais_path): return
+
+    look_folders = []
+    for d in os.listdir(anais_path):
+        full = os.path.join(anais_path, d)
+        if os.path.isdir(full) and d.lower().startswith('look'):
+            m = re.match(r'look0*(\d+)', d.lower())
+            num = int(m.group(1)) if m else 999
+            look_folders.append((num, d, full))
+    
+    look_folders.sort(key=lambda x: x[0])
+    content = ["# 👑 Galería Maestra: Anaïs Belland\n\n", "> La Regenta de La Voûte d'Anaïs. 🌹✨\n\n", "---\n\n"]
+
+    CANONICAL_POSES = [
+        ('standing',        'De Pie'),
+        ('back_view',       'Espalda'),
+        ('seated',          'Sentada'),
+        ('side_profile',    'Perfil'),
+        ('sovereign_gaze',  'Sovereign Gaze'),
+        ('pov',             'POV'),
+        ('odalisque',       'Odalisca'),
+    ]
+
+    total_looks = len(look_folders)
+    print(f"  -> Procesando {total_looks} looks para la Galería Maestra de Anaïs...", flush=True)
+
+    for idx, (_, folder_name, folder_path) in enumerate(look_folders, start=1):
+        images = get_tracked_images(folder_path)
+        if not images: continue
+        clean_name = folder_name.replace('_', ' ').title()
+        display_title = re.sub(r'Look(\d+)', r'Look \1:', clean_name)
+        content.append(f"## 🌹 {display_title}\n\n")
+
+        pose_map, sobrantes = map_poses(images, [k for k, _ in CANONICAL_POSES])
+
+        def get_md(img_name, folder_path=folder_path):
+            if img_name:
+                url = get_remote_url(os.path.join(folder_path, img_name), repo_root)
+                return f"![{img_name}]({url})"
+            return "⏳"
+
+        headers = ' | '.join(label for _, label in CANONICAL_POSES)
+        separators = ' | '.join([':---:'] * len(CANONICAL_POSES))
+        cells = ' | '.join(get_md(pose_map.get(key)) for key, _ in CANONICAL_POSES)
+        content.append(f"| {headers} |\n| {separators} |\n| {cells} |\n\n")
+
+        if sobrantes:
+            enlaces = ', '.join(
+                f"[{img}]({get_remote_url(os.path.join(folder_path, img), repo_root)})"
+                for img in sobrantes)
+            content.append(f"<sub>📎 Tomas extra ({len(sobrantes)}): {enlaces}</sub>\n\n")
+        content.append("---\n\n")
+
+    content.append("*Galería Anaïs Belland coordinada por Ele.* 👑")
+    with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
+    print("  -> Galería Maestra Anaïs completada.", flush=True)
+
 import sys
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -431,6 +494,9 @@ def main():
     
     print("Actualizando Galería Maestra de Miss Doll...", flush=True)
     generate_miss_doll_master_gallery(base_path, repo_root)
+    
+    print("Actualizando Galería Maestra de Anaïs Belland...", flush=True)
+    generate_anais_master_gallery(base_path, repo_root)
     
     print("Actualizando Índice Rápido de Galería...", flush=True)
     try:
