@@ -80,12 +80,29 @@ Fernanda, secretaria **humillada a diario** durante tres años —el ninguneo de
 
 ## 4. Mecanismo Psicológico Transversal
 
-**[LITERAL AMA]:** *"el cambio y la resistencia, el gozo de la humillación y el cambio, el sometimiento."*
+**[LITERAL AMA 16/08/2026]:** *"debe haber el morbo de la perdida del control, la exitacion del poder sobre alguien que fue muy malo con ella, la humillacion. es un relato de mtf mezclado con control mental."*
+**[LITERAL AMA 16/07/2026]:** *"el cambio y la resistencia, el gozo de la humillación y el cambio, el sometimiento."*
 Cuatro reglas de escena:
 1. **Resistencia ANTES del pliegue.** Ningún hito erótico ocurre sin que Cristóbal pelee primero — y pierda.
 2. **Comprensión tardía.** Él nunca sabe lo que pasa hasta que es tarde; el lector ve la trampa antes que él.
 3. **Inyección por goteo.** Kitty gana terreno en dosis — un pensamiento, una frase, una caminada — nunca de golpe. El "clic" que entregaba el cuerpo entero está DEROGADO.
 4. **Resistencia CONSCIENTE [NOTA AMA 17/07].** Cristóbal se pilla en el acto — el gesto, la palabra, el pensamiento ajeno — y la pelea ocurre EN escena, visible, físicamente (mandíbula, nudillos, contar cifras en voz alta), nunca resumida en una línea.
+
+### 4b. Motivos Permanentes (en CADA escena — v4.8)
+
+1. **La Retención y la Vigilancia de Fernanda:** Fernanda en estado de contabilidad silenciosa; el cuerpo excitado por el secreto del poder; la decisión de retener el estímulo para que la espera madure.
+2. **La Resistencia Física y Desconcierto de Cristóbal:** En cada escena, Cristóbal registra la anomalía (tensión en los nudillos, mandíbula apretada, justificaciones burocráticas) y pelea activamente antes de perder el control.
+3. **La Traición Biológica:** El cuerpo traiciona a la mente en tiempo real (piel de gallina, erección no consentida, boca seca, laringe que cede ante el acento impuesto).
+4. **La Asimetría de Registro:** El lenguaje corporativo chileno de alta gama confrontado con la invasión del producto porno peninsular.
+
+### 4c. Curva de Resistencia (Gradiente Obligatorio — v4.8)
+
+- **Día 1 (Lunes):** Resistencia total del gerente. Cree tener el control; atribuye el primer pulso a bienestar y la apertura de dedos al gimnasio.
+- **Días 2–3:** Desconcierto motor. Pelea físicamente contra los micro-movimientos (el café, el tropiezo); recurre a magnesio y kinesiólogo.
+- **Día 4:** Primera estación: pensamientos intrusivos. Los combate racionalmente con cifras y trabajo duro. Aún no hay voz sonora.
+- **Día 5:** Segunda estación: la voz interna. Invasión sensorial explícita. El cuerpo responde con erección mientras la mente se asquea. Intenta blindarse con diagnóstico de *burnout*.
+- **Días 6–7:** Guerra de desgaste. La aritmética del castigo por omisión. El descubrimiento del broche sellado; la suma tardía de que está atrapado. Rendición nocturna por agotamiento.
+- **Día 8 (Lunes):** Tercera estación: la boca. Intento de blindaje preventivo destruido en público; la voz de Kitty sale en vosotros a mitad de su propia frase.
 
 ## 5. Imágenes Ancla (5) — [v2: #1–#3 y #5 nuevas, PROPUESTAS COMPOSITOR sujetas a Gate; #4 aprobada 16/07]
 
