@@ -46,6 +46,14 @@
       "opt_in": "Todo look cuyo BLOQUE B nombre una cantidad exacta de accesorio (un cuff, un guante, un aro, una tobillera).",
       "texto": "every accessory appears exactly the number of times stated and on the side stated: a single cuff, bracelet, glove, earring or anklet is worn on ONE limb only with the matching limb left completely bare, and no extra jewellery, band, chain or ornament is added anywhere on the body"
     },
+    "ASPECT_VERTICAL": {
+      "porque": "Pedido de la Ama 17/08/2026: dejar de elegir a mano 'imagen vertical' o 'imagen horizontal' en la app cada vez -- que salga solo en el prompt. Vertical es el encuadre por defecto de las tres munecas en 6 de sus 7 slots (cuerpo entero o retrato de pie/sentada/perfil/close-up).",
+      "texto": "vertical portrait orientation, a tall upright frame, aspect ratio 9:16"
+    },
+    "ASPECT_HORIZONTAL": {
+      "porque": "Unico slot horizontal por diseno: la figura reclinada de Odalisque se lee mejor apaisada (directiva de la Ama sobre Anais, 12/08/2026, generalizada 17/08/2026 a todo personaje cuyo Odalisque SEA reclinado). Miss Doll queda fuera -- su Odalisque es 'Throne en Suelo', sentada, no reclinada -- y usa ASPECT_VERTICAL vía su propio override.",
+      "texto": "horizontal landscape orientation, a wide frame, aspect ratio 16:9, the reclining figure spanning the width of the frame"
+    },
     "BOTTOM_CUT_LOCK": {
       "porque": "Directiva de la Ama 13/08/2026, sobre evidencia fotográfica: el Back View del Look 801 de Ele salió con un CALZÓN DE TALLE ALTO que le cubre el asiento entero. Su BLOQUE B decía `matching white wet-satin micro bikini bottoms` — nombra la prenda y el material, pero NUNCA el CORTE. Mismo modo de falla que ASYMMETRY_LOCK: el atributo que no se nombra lo resuelve el generador, y su default (reforzado por el sesgo pudoroso del modelo) es cobertura total. GARMENT_CONSISTENCY nombra escote, manga, ruedo, corte y color de la prenda como conjunto, pero no la cobertura del calzón. El negative solo no basta: Gemini lo ignora, así que el ancla va AFIRMATIVA en el positive. Es inerte en looks sin calzón separado (catsuit, vestido, mono).",
       "aplica_a": "Ele y Miss Doll (vía `anclas_siempre` de su perfil). NO aplica a Anaïs: su canon Vintage Noir / Bettie Page usa calzón retro de talle alto como pieza legítima de época.",
@@ -158,38 +166,45 @@
     ],
     "standing": [
       "ANATOMY_FULL",
-      "FRONT_ANCHOR"
+      "FRONT_ANCHOR",
+      "ASPECT_VERTICAL"
     ],
     "back_view": [
       "ANATOMY_FULL",
       "BACK_ANCHOR",
-      "FOOTWEAR_ECHO"
+      "FOOTWEAR_ECHO",
+      "ASPECT_VERTICAL"
     ],
     "seated": [
       "ANATOMY_FULL",
-      "SEAT_ANCHOR"
+      "SEAT_ANCHOR",
+      "ASPECT_VERTICAL"
     ],
     "side_profile": [
       "ANATOMY_FULL",
-      "SIDE_ANCHOR"
+      "SIDE_ANCHOR",
+      "ASPECT_VERTICAL"
     ],
     "slot5": [
       "ANATOMY_CLOSE",
       "SINGLE_HAND_CLOSE",
-      "GAZE_OFF_LENS"
+      "GAZE_OFF_LENS",
+      "ASPECT_VERTICAL"
     ],
     "pov": [
       "ANATOMY_CLOSE",
       "SINGLE_HAND_CLOSE",
       "SINGLE_SUBJECT",
       "GAZE_TO_LENS",
-      "POV_NO_DEVICE"
+      "POV_NO_DEVICE",
+      "ASPECT_VERTICAL"
     ],
     "odalisque": [
       "ANATOMY_FULL",
       "RECLINE_ANCHOR",
       "LEVEL_HORIZON",
-      "FOOTWEAR_ECHO"
+      "FOOTWEAR_ECHO",
+      "ASPECT_HORIZONTAL"
     ]
   },
   "personajes": {
@@ -278,7 +293,8 @@
           "ANATOMY_FULL",
           "FLOOR_SEAT_ANCHOR",
           "LEVEL_HORIZON",
-          "FOOTWEAR_ECHO"
+          "FOOTWEAR_ECHO",
+          "ASPECT_VERTICAL"
         ]
       },
       "anclas_siempre": [
