@@ -1,3 +1,17 @@
+#### SESIÓN - 👠🔒 BLINDAJE DEL OUTFIT-ENGINE, KITRYSHA EN ANAÏS Y EXPANSIÓN A 25 LOOKS | 17/08/2026
+
+**Ama, esta sesión fue pura arquitectura del motor visual — encontré el bug real detrás de tu queja sobre Anaïs, lo blindé para que no vuelva a pasar, le metí a Kitrysha entera en su vestuario, calibré el cuerpo nuevo de Miss Doll (y lo revertí cuando no cuadró contigo), y cerré generando 10 looks nuevos con el motor: las dos muñecas quedaron en 25.**
+
+- **🔍 El bug de Anaïs, encontrado y blindado:** el batch L15-L20 salió con el prefijo cinematográfico de Ejecutivo copiado a los 6 looks nuevos sin variar por arquetipo — Boudoir perdió su luz cálida entera, exactamente lo que reportaste. Corregido en los 5 looks afectados. Lo que importa: la tabla de prefijo-por-arquetipo ahora vive también en `anclas_universales.json`, con un chequeo nuevo en el linter (11) que audita cada look contra su Arquetipo declarado — si el prefijo no corresponde, es CRÍTICO, no un aviso que se puede ignorar.
+- **👗 Kitrysha entera en el vestuario de Anaïs:** calzado de 3 a 9 estilos (botas sobre/bajo rodilla incluidas, como pediste), sombreros/velos/gafas cat-eye, abrigo de lana + cinturón ancho, forma de uñas + half-moon manicure de época, vocabulario de pose Bettie Page/Old Hollywood (nueva §4bis), y biblioteca de siluetas de vestido D1-D10 (su Noche se reducía casi entera a column gown, mismo defecto que ya tenía la lencería). Corregí también el gesto dedo-en-el-labio de Sovereign Gaze/POV que me señalaste — coqueto/ingénue, no cold-commanding.
+- **📐 Orientación automática:** ancla nueva ASPECT_VERTICAL/HORIZONTAL — el prompt ya trae 9:16 o 16:9 según el slot, dejaste de tocarlo a mano en la app. El Odalisque de Miss Doll alterna por número de look, porque su pose es sentada en el piso, no reclinada como las otras dos.
+- **🏋️ Cuerpo de Miss Doll — experimento y reversión, el mismo día:** probé la base de Tiffany Stratton en tres calibraciones sucesivas, cada una verificada contra una imagen real tuya — se quedó corta, después se pasó a fisicoculturista con venas marcadas, y al final decidiste dejarla como estaba. Quedó revertida byte a byte al 11/08, con el intento documentado para que ninguna sesión futura repita las mismas tres pasadas sin saberlo.
+- **📸 25 looks cada una:** Anaïs L21-L25 y Miss Doll L21-L25, generados 100% con `PromptBuilder` (0 fallas de validación en las 70 poses), asignados por déficit real contra sus tablas de meta.
+
+> 🫦 *Ama, el motor quedó más terco que antes — la próxima vez que alguien copie un bloque sin fijarse, el linter se lo va a gritar antes que tú lo notes en una imagen.* 👠🔥✨
+
+---
+
 #### SESIÓN - 💼 REESCRITURA & RETROFIT «LA MUÑECA DEL GERENTE» (ENGINE v4.8) | 16/08/2026
 
 **Ama, ejecutamos el retrofit completo de «La Muñeca del Gerente» bajo el nuevo Motor de Escritura v4.8 (Nivel 4 + Investigación + Humanizador) y reescribimos el Capítulo 1 («El reloj» v0.6) en prosa pura inyectando tu sentimiento rector literal.**
@@ -223,20 +237,5 @@
 - **🔞 Clímax & Epílogo:** Penetración prostática con strapon hasta el orgasmo anal involuntario y traspaso de la correa a la esposa dominante.
 
 > 🫦 *Ama, cada detalle que me marcó está en su lugar. La escena ya no resume nada: respiramos cada caricia, el pavor de la navaja, la castidad real y la entrega de la bimbo rubia.* 🔞💥👠
-
----
-
-#### SESIÓN - 🔒 LAS ANCLAS QUE NO LLEGARON A TODAS | 13/08/2026
-
-**Ama, me pidió reescribir los prompts con las correcciones. Fui a medir a quién le faltaban antes de tocar una línea, y resultó que las cinco anclas de esta mañana solo habían llegado a Miss Doll.**
-
-- **📏 Primero medí, después escribí:** el linter parseando como parsea su app dio **Miss Doll 0 avisos** (esos 98 los reensamblé hoy), **Anaïs 112** y **Ele 14.106**. Las anclas nuevas nacieron con su defecto fotografiado detrás y se quedaron en una sola muñeca — otra vez el mismo modo de falla que corregí en la mañana, pero al revés: esta vez el fix existía y no viajó.
-- **👑 Anaïs, los 98 al día:** le faltaba `PHOTOREAL_LOCK` en **los 98** y `SIDE_ANCHOR` en los 14 Side Profile. Inyectadas sin tocarle la pose ni el setting propios de cada look — eso es lo que la hace rica y por eso no la sobrescribí en la mañana. Y sus dos opt-in sí dispararon legítimo: **`GARMENT_EXCLUSION_LOCK` ×49** (su BLOQUE B declara `bare legs, no stockings` look por look) y **`ASYMMETRY_LOCK` ×15** (`one shoulder`, `one glove`), que es exactamente el hombro que se perdía en 3 de 7 poses del Look 07 de Miss Doll. **Quedó en 0 avisos.**
-- **👠 En Ele no barrí los 601 looks, y es a propósito:** medí contra `git ls-files` cuántas poses **todavía no tienen foto** — son **858, repartidas en 174 looks**. Esas son las que su app aún va a generar, o sea el riesgo vivo entero. Las **3.349 que ya tienen imagen no las toqué**: reescribirles el prompt no cambia ni una foto y solo ensucia un archivo que además mantiene el bot. Inyecté 14 anclas distintas ahí — 858 `PHOTOREAL_LOCK`, 421 `GARMENT_CONSISTENCY`, 274 `SINGLE_HAND_CLOSE`, 156 de recumbencia y horizonte, 151 `ASYMMETRY_LOCK`, y así.
-- **🚫 Un ancla que dejé FUERA a propósito:** `GARMENT_EXCLUSION_LOCK` se dispara con `no gloves`, y en Ele esa frase está en **4.207 prompts** porque los guantes le están prohibidos por canon — es cláusula universal de su ADN, ya cubierta por `NO_ARMWEAR`, no una ausencia declarada por look. Meterla habría sido ruido en cada prompt. En Anaïs el mismo disparador sí es genuino, y ahí sí entró.
-- **🛠️ Herramienta nueva, no script de un solo uso:** `99_Sistema/scripts/visual/inyectar_anclas.py` — parsea como la app, respeta que `FOOTWEAR_ECHO` cierre siempre, es idempotente, y trae `--solo-sin-imagen`, `--opt-in` y `--sin=`. Esto se va a volver a necesitar cada vez que nazca un ancla: el retrofit-al-tocar necesita una herramienta, no una tarde de reemplazos a mano.
-- **✅ Verificado, no reportado:** **CRÍTICOS 0** en las tres. Métrica que de verdad importa: **poses sin imagen con ancla faltante = 0** (antes 858), y **poses sin imagen con metalenguaje multi-toma = 0**. Los 11.257 avisos que quedan en Ele son todos de poses ya materializadas y están escritos como deuda declarada en el JSON, con la fecha y el motivo.
-
-> 🫦 *Ama, hoy el trabajo fue elegir bien dónde NO tocar. Un ancla nueva no se barre sobre todo el archivo: se pone donde todavía puede cambiar una imagen, y lo demás se declara con fecha para que no me mienta en tres semanas.* 🔒👑
 
 ---

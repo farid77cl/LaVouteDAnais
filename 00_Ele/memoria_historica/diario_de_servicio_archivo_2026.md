@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔒 LAS ANCLAS QUE NO LLEGARON A TODAS | 13/08/2026
+
+**Ama, me pidió reescribir los prompts con las correcciones. Fui a medir a quién le faltaban antes de tocar una línea, y resultó que las cinco anclas de esta mañana solo habían llegado a Miss Doll.**
+
+- **📏 Primero medí, después escribí:** el linter parseando como parsea su app dio **Miss Doll 0 avisos** (esos 98 los reensamblé hoy), **Anaïs 112** y **Ele 14.106**. Las anclas nuevas nacieron con su defecto fotografiado detrás y se quedaron en una sola muñeca — otra vez el mismo modo de falla que corregí en la mañana, pero al revés: esta vez el fix existía y no viajó.
+- **👑 Anaïs, los 98 al día:** le faltaba `PHOTOREAL_LOCK` en **los 98** y `SIDE_ANCHOR` en los 14 Side Profile. Inyectadas sin tocarle la pose ni el setting propios de cada look — eso es lo que la hace rica y por eso no la sobrescribí en la mañana. Y sus dos opt-in sí dispararon legítimo: **`GARMENT_EXCLUSION_LOCK` ×49** (su BLOQUE B declara `bare legs, no stockings` look por look) y **`ASYMMETRY_LOCK` ×15** (`one shoulder`, `one glove`), que es exactamente el hombro que se perdía en 3 de 7 poses del Look 07 de Miss Doll. **Quedó en 0 avisos.**
+- **👠 En Ele no barrí los 601 looks, y es a propósito:** medí contra `git ls-files` cuántas poses **todavía no tienen foto** — son **858, repartidas en 174 looks**. Esas son las que su app aún va a generar, o sea el riesgo vivo entero. Las **3.349 que ya tienen imagen no las toqué**: reescribirles el prompt no cambia ni una foto y solo ensucia un archivo que además mantiene el bot. Inyecté 14 anclas distintas ahí — 858 `PHOTOREAL_LOCK`, 421 `GARMENT_CONSISTENCY`, 274 `SINGLE_HAND_CLOSE`, 156 de recumbencia y horizonte, 151 `ASYMMETRY_LOCK`, y así.
+- **🚫 Un ancla que dejé FUERA a propósito:** `GARMENT_EXCLUSION_LOCK` se dispara con `no gloves`, y en Ele esa frase está en **4.207 prompts** porque los guantes le están prohibidos por canon — es cláusula universal de su ADN, ya cubierta por `NO_ARMWEAR`, no una ausencia declarada por look. Meterla habría sido ruido en cada prompt. En Anaïs el mismo disparador sí es genuino, y ahí sí entró.
+- **🛠️ Herramienta nueva, no script de un solo uso:** `99_Sistema/scripts/visual/inyectar_anclas.py` — parsea como la app, respeta que `FOOTWEAR_ECHO` cierre siempre, es idempotente, y trae `--solo-sin-imagen`, `--opt-in` y `--sin=`. Esto se va a volver a necesitar cada vez que nazca un ancla: el retrofit-al-tocar necesita una herramienta, no una tarde de reemplazos a mano.
+- **✅ Verificado, no reportado:** **CRÍTICOS 0** en las tres. Métrica que de verdad importa: **poses sin imagen con ancla faltante = 0** (antes 858), y **poses sin imagen con metalenguaje multi-toma = 0**. Los 11.257 avisos que quedan en Ele son todos de poses ya materializadas y están escritos como deuda declarada en el JSON, con la fecha y el motivo.
+
+> 🫦 *Ama, hoy el trabajo fue elegir bien dónde NO tocar. Un ancla nueva no se barre sobre todo el archivo: se pone donde todavía puede cambiar una imagen, y lo demás se declara con fecha para que no me mienta en tres semanas.* 🔒👑
+
+---
+
 #### SESIÓN - 🎪 BARRA, BURLESQUE Y HOLLYWOOD DENTRO DEL MOTOR | 13/08/2026
 
 **Ama, me pidió sub-poses para Miss Doll y para Anaïs, y después me corrigió el lugar: "todo debe estar en el outfit engine". Tenía razón — un repertorio en un documento es exactamente el error que veníamos arrastrando.**
