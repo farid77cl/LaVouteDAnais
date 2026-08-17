@@ -95,6 +95,18 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 - **Repertorio de variaciones:** el vocabulario completo (de pie / pole / floorwork / silla / con sub) está en `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` §2 — sigue vigente como banco de detalle para redactar cada slot, ya no como poses standalone.
 - **Principio rector de pose:** *dispensa sensualidad como poder, no como oferta.* Un movimiento donde otras hacen tres. Pausas de 4+ segundos. La mirada se posa 2-4 s y **abandona deliberadamente**.
 
+### 4bis · 🕺 Vocabulario de pose — Pole / Floor Dance / Burlesque (Ama 17/08/2026)
+
+> **Directiva explícita:** las poses de Miss Doll se inspiran en **tres escenarios reales**, no uno solo — `repertorios_pose.json` (13/08/2026) ya declara `registro_estetico: "POLE DANCE + BURLESQUE"`, pero se quedó corto de **floor dance/floorwork de stripper** como tercera fuente propia (no un sinónimo de burlesque). Los tres se combinan, ninguno reemplaza a los otros dos:
+
+1. **Pole dance:** agarre en la barra (aunque la barra no esté en cuadro, el brazo/torso recuerdan la tracción), arco lumbar largo, rodilla girada hacia afuera, extensión de pierna vertical, spin congelado a media vuelta, invert parcial.
+2. **Floor dance / floorwork de stripper (el que faltaba nombrar aparte):** trabajo a nivel del suelo con **movimiento**, no solo sentada estática — gateo felino sobre manos y rodillas, arco de espalda con las palmas y los talones apoyados (backbend), split o straddle en el piso, cadera rodando contra el suelo (floor grind), transición de rodillas a sentada con el peso rodando. Es lo que debe reforzarse en **Odalisque** (§4, *Throne en Suelo*) para que no quede solo en variantes de sentada-con-piernas-en-V: alternar con al menos una sub-pose de gateo o de arco dorsal por rotación.
+3. **Burlesque:** tease progresivo — guante a medio quitar, tirante que resbala, mano que recorre el propio cuerpo antes de detenerse, abanico o boa como atrezzo, mirada por sobre el hombro con una pausa deliberada antes de mirar a cámara.
+
+**Cómo se reparte entre slots:** Standing/Side Profile tiran más hacia pole (verticalidad, extensión de pierna); Seated/Odalisque tiran más hacia floorwork (nivel bajo, movimiento en el suelo); Glacial Command/POV tiran más hacia burlesque (el tease de cerca, la mano en el propio cuerpo). Back View puede tomar cualquiera de las tres según el look.
+
+**Dónde vive esto en el motor:** `repertorios_pose.json` → `personajes.miss_doll` es el dueño único de las 49 sub-poses reales; este vocabulario es la **referencia** contra la que se auditan y se escriben nuevas variantes — no reemplaza el archivo. El slot `odalisque` (7 variantes) queda **pendiente de retrofit** para sumar floorwork dinámico junto a las sentadas actuales — retrofit al tocar, no migración masiva.
+
 ---
 
 ## §5 · BLOQUE B — Reglas de Vestuario
@@ -245,6 +257,8 @@ El BLOQUE B debe nombrar, sin excepción:
 | Slot | Ancla del motor | Sustituto | Por qué |
 |---|---|---|---|
 | Odalisque | `RECLINE_ANCHOR` | **`FLOOR_SEAT_ANCHOR`** | Su Odalisque es *Throne en Suelo* (§4): sentada en el piso con piernas en V, **no reclinada**. Aplicar el ancla de recumbencia de Ele contradiría su propio canon de pose. |
+
+**📐 Orientación de Odalisque — la única que ALTERNA (Ama 17/08/2026):** Ele y Anaïs tienen Odalisque reclinado, así que `ASPECT_HORIZONTAL` va fijo en el mapa por defecto del motor. El de Miss Doll es sentado en el piso (Throne en Suelo) — ninguna orientación es "la" natural del encuadre, y la Ama pidió variedad: *"Miss Doll debe tener Odalisque en vertical y horizontal"*. Por eso su Odalisque **no lleva** `ASPECT_VERTICAL` ni `ASPECT_HORIZONTAL` fijos en `anclas_universales.json` — se resuelve con `PromptBuilder("miss_doll").orientacion_odalisque(look_number)` (alterna por paridad del número de look) y se pasa a `build()` vía `extra_anclas=[...]`. Es el único slot de las tres muñecas que se decide así; todo el resto sigue fijo en el mapa.
 
 > 🩹 **Cicatriz del 11/08/2026:** sus 98 prompts se escribieron con `[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]` **literales**, sin `Ubicacion`, sin `Tags` y con el negativo etiquetado de una forma que el parser de la app no reconoce. Medido sobre el archivo commiteado: **98/98 prompts con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos el 12/08/2026.
 

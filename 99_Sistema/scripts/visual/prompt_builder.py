@@ -264,6 +264,22 @@ class PromptBuilder(object):
             )
         return dict(tabla[arquetipo])
 
+    def orientacion_odalisque(self, look_number):
+        """Ancla de orientacion (ASPECT_VERTICAL/ASPECT_HORIZONTAL) para un
+        Odalisque que ALTERNA por numero de look en vez de ir fija.
+
+        Ela y Anais tienen Odalisque reclinado -> ASPECT_HORIZONTAL fijo en
+        mapa_por_defecto, ninguna alternancia. Miss Doll tiene Odalisque
+        sentada en el piso (Throne en Suelo) -- ninguna orientacion es "la"
+        natural del encuadre, y la Ama pidio variedad (17/08/2026: "Miss Doll
+        debe tener Odalisque en vertical y horizontal"). Por eso NO vive en
+        el mapa estatico de anclas_universales.json (personajes.<slug>.
+        orientacion_alterna documenta el porque) -- se resuelve aqui, con el
+        mismo criterio de rotacion determinista que pose(), y el injector la
+        pasa a build() via extra_anclas=[pb.orientacion_odalisque(look_number)].
+        """
+        return "ASPECT_HORIZONTAL" if look_number % 2 == 0 else "ASPECT_VERTICAL"
+
     def pose_indice(self, slot, look_number):
         """Indice crudo que le toca al look (sin considerar props). Util para auditar rotacion."""
         slot_n = self.normalizar_slot(slot)

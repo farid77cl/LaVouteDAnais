@@ -293,9 +293,11 @@
           "ANATOMY_FULL",
           "FLOOR_SEAT_ANCHOR",
           "LEVEL_HORIZON",
-          "FOOTWEAR_ECHO",
-          "ASPECT_VERTICAL"
+          "FOOTWEAR_ECHO"
         ]
+      },
+      "orientacion_alterna": {
+        "odalisque": "Ama 17/08/2026: 'Miss Doll debe tener Odalisque en vertical y horizontal' -- NO va fija en el mapa (a diferencia de Ele/Anais, donde Odalisque es SIEMPRE horizontal por ser reclinada). Se alterna por numero de look via PromptBuilder.orientacion_odalisque(look_number), pasada a build() como extra_anclas. Motivo: su Odalisque es 'Throne en Suelo' (sentada, no reclinada) -- ninguna de las dos orientaciones es la 'natural' del encuadre, asi que la Ama prefiere variedad en vez de fijar una."
       },
       "anclas_siempre": [
         "BOTTOM_CUT_LOCK"
