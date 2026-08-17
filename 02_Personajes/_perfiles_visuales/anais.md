@@ -144,6 +144,23 @@ Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2
 - **Regla de silueta:** igual que la piel (§5.1b) — la bata va **siempre abierta**, nunca cerrada, con la cintura ceñida explícita en el prompt debajo de ella.
 - **🟠 Riesgo conocido en Back View** (§9): prenda de frente abierto/cruzado en Back View → el generador la re-decora o la cierra mal (L13 Kimono de Medianoche, defecto real). Verificar el `BACK_ANCHOR` cuando la bata aparezca en esa pose.
 
+### 5.1d · 🧥 Abrigo de lana y cinturón ancho — outerwear no-piel (Ama 17/08/2026)
+
+> **Por qué nace:** auditoría de huecos de Kitrysha (§3.4 y §3.6 del estudio) tras el fix de calzado. `estudio_estilo_kitrysha.md` §3.4 nombra "abrigo largo de lana negra con cintura marcada por cinturón" y "trench camel/negro" como piezas firma del registro — Anaïs solo tenía piel como capa exterior (§5.1b); el abrigo de sastrería de lana nunca entró al canon pese a que el cuero ya lo mencionaba de pasada (§5.1, "cinturón ancho" sin token propio).
+
+- **Token de abrigo:** `long wool coat in <color>, nipped at the waist with a wide matching belt, the coat left open` — camel, negro o gris carbón. **Misma regla de silueta que la piel (§5.1b): siempre abierto**, la cintura de tightlacing visible debajo.
+- **Token de cinturón ancho (standalone, sin abrigo):** `wide polished leather belt cinching the waist over the dress` — alternativa a la piel/abrigo para marcar cintura sobre un vestido cuando el look no lleva capa exterior. Cuero de sastrería, nunca grueso/industrial (misma regla que el resto del cuero en §5.1).
+- **Cuándo aplica:** arquetipos Ejecutivo de Poder y Noche (llegada/salida de La Voûte) son los naturales — no reemplaza a la piel (§5.1b) ni compite con su cuota, es una segunda opción de outerwear para cuando el look pide sastrería en vez de glamour de piel.
+- **Sin cuota fija:** a diferencia de pieles y bata abierta, esto no tiene mínimo — es vocabulario disponible, no una pieza obligatoria por rotación.
+
+### 5.1e · 🎩 Sombreros, velos y gafas — accesorios de época (Ama 17/08/2026)
+
+> **Por qué nace:** mismo hueco de Kitrysha §3.6 — sombreros, velos con motas y gafas cat-eye son piezas de firma del registro Old Hollywood y no existían en el canon de Anaïs (que sí tiene guantes, perlas y joyería art déco, §5.5).
+
+- **Sombreros/tocados:** `pillbox hat with a short spotted veil` · `wide-brim hat tilted low over one eye` · `small feathered fascinator pinned into the waves`. **Cuidado con el pelo:** ninguno debe cubrir el volumen de las pin-waves — el velo con motas (`birdcage veil`) es el que menos interfiere, es la opción por defecto cuando se necesita sombrero + rostro legible.
+- **Gafas:** `black cat-eye glasses with a delicate rhinestone-tipped frame` — **distintas del token de Ele** (`Bayonetta narrow rectangular black-frame glasses`, Office Siren): las de Anaïs son de época, con pedrería, nunca minimalistas/modernas. Encajan sobre todo en Sesión Literaria (leyendo) y Ejecutivo.
+- **Sin cuota fija, uso ocasional:** como el abrigo de lana (§5.1d), esto es vocabulario disponible para cuando el concepto del look lo pida — no una pieza obligatoria por rotación. Noche/Ejecutivo/Sesión Literaria son los arquetipos naturales; no aplica a Boudoir ni Látex.
+
 ### 5.2 · Paleta y reglas cromáticas
 
 > ✏️ **Ampliada 11/08/2026 (Ama) — resuelve el desajuste con `CANON_VISUAL_ANAIS.md` §I, que ya traía azul medianoche/verde esmeralda sin que estuvieran aquí.** Esta tabla queda como dueño único de la paleta; `CANON_VISUAL_ANAIS.md` §I apunta aquí de ahora en más.
@@ -216,6 +233,8 @@ Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2
 - **Boudoir en particular — vocabulario de pose (base: `00_Ele/estudio_estilo_kitrysha.md`, estudio de estilo encargado por la Ama para vestuario/maquillaje retro-glamour, NO para el físico):** contrapposto con curva en S (peso en una cadera, nunca los dos talones parejos) · barbilla ligeramente abajo, mirada arriba a través de las pestañas · una mano cerca de la clavícula, el labio o trazando el borde de la bata — nunca las dos manos simétricas sosteniendo la prenda como si fuera un abrigo formal · atrezzo de tocador (espejo con luces cálidas, boquilla, copa de champagne, perlas sueltas) en vez de mobiliario genérico de salón. El objetivo es la **tensión contenida** del cine negro de los 40, no la pose de mando de una ejecutiva.
 - **🦊 Capelet/estola en Back View:** el Look 17 (Visón y Borgoña) confirmó el mismo defecto que ya tenían las batas cruzadas (§5.1c, `BACK_ANCHOR`) pero en una pieza suelta: sin anclar explícitamente cómo cae la piel por detrás, el generador la tuerce (*"el abrigo está para atrás"*, nota real 16/08 21:43). **Regla nueva:** toda pose de Back View con capelet/estola/abrigo abierto debe nombrar explícitamente su caída desde atrás (ej. *"the fur capelet lying flat and unbroken across both shoulder blades, its edge following the same line front and back"*) — no basta con describirlo una vez en el BLOQUE B.
 
+> ⏳ **Hueco grande, pendiente de sesión propia (encontrado 17/08/2026, no resuelto hoy):** los **vestidos** no tienen una biblioteca de siluetas como la lencería (§5.6) — cada gown se escribe ad hoc por look. `estudio_estilo_kitrysha.md` §3.3 ya trae el catálogo base (wiggle dress, pencil dress, cóctel años 50 tea-length, slip dress al bies años 30, gown de noche espalda descubierta, little black dress) y §5 sus siluetas asociadas. Es exactamente el mismo hueco que tenía la lencería antes del 14/08 — "no existía biblioteca de la cual rotar" — y probablemente el mismo síntoma (arquitectura clonada, solo cambia el color) si se audita. Se deja marcado en vez de construirlo apurado: merece su propia pasada, no una entrada de relleno.
+
 ### 5.6 · 👙 Biblioteca de siluetas de lencería (Ama 14/08/2026)
 
 > **Por qué nace:** medido sobre los 98 prompts — **`balconette` ×21 y ningún otro tipo de sujetador**, `Brazilian-cut brief` en 4 de 4, y **corsetería = 0** pese a que el §6 define el arquetipo Boudoir textualmente como *"negligée, **merry widow**, peignoir, corsetería"*. Es el molde que la regla de silueta prohíbe (*misma prenda, otro color*), y no era descuido: **no existía biblioteca de la cual rotar** — el mismo hueco exacto que tenía el repertorio de cámara antes del 12/08.
@@ -250,7 +269,8 @@ Describir **en este orden**:
 3. **Medias** (si el look las lleva) — denier, tipo (back-seam nylon, fishnet, sheer), color, con o sin costura.
 4. **Calzado** — sus 6 atributos (§5.3).
 5. **Capa de piel** (si el look la lleva) — forma (estola/capelet/abrigo abierto/cuello y puños/ribete/manguito), tipo de pelo (visón, zorro plateado, marta, astracán, chinchilla), color, **y cómo cae** (hombro, codo, abierta) dejando la cintura ceñida visible. Ver §5.1b.
-6. **Accesorios en orden** — guantes (material + largo), joyería (tipo y material: perlas, diamantes negros, pedrería Art Déco), boquilla (sí/no), bolso (Kelly, clutch lacado), complementos de liguero.
+6. **Accesorios en orden** — guantes (material + largo), joyería (tipo y material: perlas, diamantes negros, pedrería Art Déco), boquilla (sí/no), bolso (Kelly, clutch lacado), complementos de liguero, y si aplica sombrero/velo/gafas (§5.1e).
+7. **Uñas** (si las manos van visiblemente desnudas — se omite con guantes cerrados, §5.6). Forma + color, no solo color: rotar entre `almond`, `oval` y `moderate stiletto` (**base: `estudio_estilo_kitrysha.md` §10** — nunca cuadrada corta moderna). **Variante de época disponible, sin cuota fija:** `half-moon manicure with the lunula left bare` — manicura luna francesa invertida, callback explícito a los años 30-40 que Kitrysha marca como sello (§10); úsala cuando el concepto del look ya está anclado en esa década (Sesión Literaria, Noche de gala clásica).
 
 > **Regla de especificidad:** cada ítem tan preciso que dos modelos generarían la misma imagen leyendo solo el bloque. *"tacones altos"* ❌ → *"12cm black patent leather stiletto pump pointed toe iconic red sole"* ✅.
 
