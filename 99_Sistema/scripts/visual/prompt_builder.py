@@ -56,6 +56,7 @@ USO COMO CLI (autotest de la libreria)
     python 99_Sistema/scripts/visual/prompt_builder.py --pose anais odalisque 7
 """
 
+import datetime
 import json
 import os
 import re
@@ -67,6 +68,27 @@ if hasattr(sys.stdout, "reconfigure"):
 AQUI = os.path.dirname(os.path.abspath(__file__))
 JSON_ANCLAS = os.path.join(AQUI, "anclas_universales.json")
 JSON_POSES = os.path.join(AQUI, "repertorios_pose.json")
+LOG_PATH = os.path.normpath(os.path.join(AQUI, "..", "..", "logs", "outfit_engine.jsonl"))
+
+
+def _log_evento(entrada):
+    """Escribe una linea JSONL en LOG_PATH. Dueno unico del log del motor.
+
+    Cada build() de cada personaje queda registrado (timestamp, personaje,
+    slot, largo del prompt, anclas opt-in disparadas, fallas de validar()).
+    Nace de la auditoria del 17/08/2026: sin rastro de cuando se genero
+    cada prompt, reconstruir que bloque de codigo se copio de donde (el bug
+    del prefijo "power portrait" copiado del Look 14 al batch L15-L20) fue
+    trabajo manual sobre el historial de git en vez de una consulta directa.
+    """
+    entrada = dict(entrada)
+    entrada["ts"] = datetime.datetime.now().isoformat(timespec="seconds")
+    try:
+        os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
+        with open(LOG_PATH, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entrada, ensure_ascii=False) + "\n")
+    except OSError:
+        pass
 
 # Placeholders de mobiliario ({seat}/{wall}/{surface}/{upright}) que el inyector
 # DEBE resolver con mobiliario real del setting del look antes de escribir el prompt.
@@ -207,6 +229,41 @@ class PromptBuilder(object):
             "armoniosa con el ambiente')." % (n, self.slug, slot_n, sorted(faltantes))
         )
 
+    # ------------------------------------------------------ prefijo por arquetipo
+
+    def prefijo_arquetipo(self, arquetipo):
+        """Prefijo cinematografico + clave de luz que le toca a este arquetipo.
+
+        Blindaje 17/08/2026: el batch L15-L20 de Anais salio con el prefijo
+        de Ejecutivo (`power portrait`) copiado a los 6 looks nuevos sin
+        variar por arquetipo, y Boudoir/Lenceria perdio por completo su
+        `warm amber candlelight chiaroscuro`. La tabla existia en
+        dna_v2_3.md, pero era un documento — nadie la volvia a consultar al
+        copiar un bloque de codigo. Esta funcion es la MISMA tabla, pero
+        hecha de la que el motor puede leer en vez de que un humano recuerde
+        volver a abrir el archivo. Uso: pb.prefijo_arquetipo("Boudoir / Lencería")
+        -> {"prefijo": "...", "luz": "..."}. El linter (chequeo 11) usa esto
+        mismo para verificar cada look contra su Arquetipo declarado.
+        """
+        tabla = self.perfil.get("prefijos_arquetipo")
+        if not tabla:
+            raise KeyError(
+                "Personaje '%s' no tiene tabla de prefijos por arquetipo en "
+                "anclas_universales.json (personajes.%s.prefijos_arquetipo). "
+                "Solo Anais usa prefijo cinematografico por diseno; si esto es "
+                "un personaje nuevo que SI lo necesita, agregar la tabla ahi, "
+                "nunca hardcodear el prefijo en la galeria." % (self.slug, self.slug)
+            )
+        if arquetipo not in tabla:
+            disponibles = [k for k in tabla if not k.startswith("_")]
+            raise KeyError(
+                "Arquetipo '%s' no esta en la tabla de %s. Disponibles: %s. "
+                "Si el arquetipo es real y nuevo, agregarlo a la tabla ANTES "
+                "de escribir el look — nunca copiar el prefijo del look anterior."
+                % (arquetipo, self.slug, ", ".join(disponibles))
+            )
+        return dict(tabla[arquetipo])
+
     def pose_indice(self, slot, look_number):
         """Indice crudo que le toca al look (sin considerar props). Util para auditar rotacion."""
         slot_n = self.normalizar_slot(slot)
@@ -316,7 +373,18 @@ class PromptBuilder(object):
         prompt = prompt.rstrip(" ,")
         if not prompt.endswith("."):
             prompt += "."
-        return self._colapsar(prompt)
+        prompt = self._colapsar(prompt)
+
+        fallas = self.validar(prompt)
+        _log_evento({
+            "evento": "build",
+            "personaje": self.slug,
+            "slot": slot_n,
+            "chars": len(prompt),
+            "anclas_opt_in": nombres_extra,
+            "fallas": fallas,
+        })
+        return prompt
 
     def build_negative(self, base):
         """
@@ -329,7 +397,13 @@ class PromptBuilder(object):
         for t in [x.strip() for x in (base + ", " + universal).split(",")]:
             if t and t.lower() not in [v.lower() for v in vistos]:
                 vistos.append(t)
-        return ", ".join(vistos)
+        negativo = ", ".join(vistos)
+        _log_evento({
+            "evento": "build_negative",
+            "personaje": self.slug,
+            "chars": len(negativo),
+        })
+        return negativo
 
     # ------------------------------------------------------------------ utiles
 
@@ -416,6 +490,15 @@ def _cli():
         print("%s · %s · Look %d -> variacion #%d\n"
               % (pb.perfil["nombre"], slot, look, pb.pose_indice(slot, look)))
         print(pb.pose(slot, look, props))
+        return 0
+    if args[0] == "--prefijo":
+        if len(args) < 3:
+            print("uso: --prefijo <personaje> <arquetipo>")
+            return 1
+        pb = PromptBuilder(args[1], cfg)
+        arquetipo = args[2]
+        p = pb.prefijo_arquetipo(arquetipo)
+        print("%s · %s -> %s, %s" % (pb.perfil["nombre"], arquetipo, p["prefijo"], p["luz"]))
         return 0
     if args[0] == "--anclas":
         slug = args[1] if len(args) > 1 else "ele"

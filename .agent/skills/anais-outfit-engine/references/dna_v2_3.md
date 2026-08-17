@@ -55,6 +55,10 @@ Añadir en todos los looks sin excepción. Para looks de Látex/Fetichismo: quit
 
 ---
 
+> 🔴 **Verificada 17/08/2026 — esta tabla se ignoró al escribir el batch L15-L20 de la galería** (se copió el bloque de Look 14 completo, prefijo incluido, para los 6 looks nuevos sin volver aquí). Consecuencia real: Boudoir/Lencería perdió `warm amber candlelight chiaroscuro` y salió con el prefijo de Ejecutivo. Diagnóstico y corrección: `02_Personajes/_perfiles_visuales/anais.md` §5.7. **Antes de escribir el BLOQUE C de un look nuevo, volver aquí — no copiar del look anterior.**
+>
+> 🔒 **Blindaje 17/08/2026:** esta tabla ya no depende de que alguien la relea. Vive TAMBIÉN en `99_Sistema/scripts/visual/anclas_universales.json` → `personajes.anais.prefijos_arquetipo` (`PromptBuilder.prefijo_arquetipo(arquetipo)` la resuelve en código), y `lint_prompts_personaje.py` (chequeo 11) audita cada look real de la galería contra su propio campo `**Arquetipo:**` — un prefijo que no corresponde ahora es CRÍTICO, no un aviso que se puede ignorar. Si esta tabla cambia, el JSON se actualiza en el mismo commit — son un solo dato con dos copias sincronizadas a mano, no dos dueños.
+
 ## Prefijos Cinematográficos por Arquetipo
 
 | Arquetipo | Prefijo |

@@ -31,6 +31,22 @@ VERIFICA (por personaje registrado en anclas_universales.json)
   8. Prompt sospechosamente corto                           -> AVISO
   9. Calzon nombrado sin corte tanga/g-string (Ele/MD)      -> AVISO
  10. Ancla opt-in que el propio prompt dispara y no lleva   -> AVISO
+ 11. Prefijo cinematografico que no corresponde al          -> CRITICO
+     Arquetipo declarado (solo personajes con tabla de
+     prefijos_arquetipo en anclas_universales.json)
+
+CHEQUEO 11 — POR QUE EXISTE
+----------------------------
+El 16/08/2026 el batch L15-L20 de Anais salio con el prefijo de Ejecutivo
+("power portrait") copiado a los 6 looks nuevos sin variar por arquetipo:
+Boudoir/Lenceria perdio su "warm amber candlelight chiaroscuro" y salio con
+luz plana. La tabla arquetipo->prefijo YA EXISTIA en dna_v2_3.md — nadie la
+releyo al copiar un bloque de codigo de otro look. Un dato correcto en un
+documento que nadie vuelve a abrir no protege nada. Este chequeo lee la
+MISMA tabla desde anclas_universales.json (personajes.<slug>.prefijos_arquetipo)
+y audita cada look real de la galeria contra su propio campo Arquetipo: si no
+coinciden, el commit no debería pasar. Blindaje pedido por la Ama 17/08/2026:
+"siempre pasa que se actualiza algo y cuesta que esa actualizacion se integre".
 
 USO
 ---
@@ -68,6 +84,30 @@ EMOJI = re.compile("[\U0001F300-\U0001FAFF☀-➿]")
 def sin_tildes(s):
     return "".join(c for c in unicodedata.normalize("NFD", s)
                    if unicodedata.category(c) != "Mn")
+
+
+ARQUETIPO_LINEA = re.compile(r"\*\*Arquetipo:\*\*\s*([^·\n]+)")
+
+
+def extraer_arquetipos(texto):
+    """Mapa {numero_de_look: arquetipo_declarado}, leido de la linea
+    `**Arquetipo:** X · **Paleta:** ...` que antecede al concepto de cada
+    look. Independiente del parser de poses: es una pasada aparte porque
+    `parse_como_la_app` deja de leer el bloque de canon antes de llegar a
+    esta linea (corta en el primer `### `, que es la seccion de imagenes)."""
+    arquetipos = {}
+    num_actual = None
+    for linea in texto.split("\n"):
+        t = linea.strip()
+        if t.startswith("#"):
+            m = LOOK_HEADING.match(t)
+            if m:
+                num_actual = int(m.group(1))
+            continue
+        m = ARQUETIPO_LINEA.search(t)
+        if m and num_actual is not None and num_actual not in arquetipos:
+            arquetipos[num_actual] = m.group(1).strip()
+    return arquetipos
 
 
 def detectar_pose(linea, slot5):
@@ -211,6 +251,8 @@ def auditar(slug, cfg, verbose=False):
     texto = io.open(ruta, encoding="utf-8").read()
     slot5 = pb.perfil["slot5_nombre"]
     looks = parse_como_la_app(texto, slot5)
+    arquetipos = extraer_arquetipos(texto)
+    tabla_prefijos = pb.perfil.get("prefijos_arquetipo")
     n_poses = len(cfg["slots_universales"])
     slots_por_nombre = {
         "Standing": "standing", "Back View": "back_view", "Seated": "seated",
@@ -252,6 +294,25 @@ def auditar(slug, cfg, verbose=False):
             avisos.append("[AVISO]  %s: sin `- **Ubicacion:**` (la app no resuelve su carpeta)" % et)
         if not lk["tags"]:
             avisos.append("[AVISO]  %s: sin `- **Tags:**` (no filtrable en la app)" % et)
+
+        # Chequeo 11: prefijo cinematografico vs Arquetipo declarado (blindaje 17/08/2026).
+        if tabla_prefijos:
+            arquetipo = arquetipos.get(lk["num"])
+            if not arquetipo:
+                avisos.append("[AVISO]  %s: sin linea `**Arquetipo:**` -> no se puede "
+                              "verificar su prefijo cinematografico" % et)
+            elif arquetipo not in tabla_prefijos:
+                avisos.append("[AVISO]  %s: Arquetipo '%s' no esta en prefijos_arquetipo "
+                              "de anclas_universales.json -> agregarlo antes del proximo "
+                              "look de ese arquetipo" % (et, arquetipo))
+            else:
+                esperado = tabla_prefijos[arquetipo]["prefijo"]
+                textos_reales = [p for lista in planos.values() for p in lista if len(p) > 600]
+                if textos_reales and not any(esperado in p for p in textos_reales):
+                    criticos.append("[CRITICO] %s: Arquetipo '%s' pide el prefijo '%s' "
+                                    "pero ninguna de sus %d poses lo tiene -> revisar si se "
+                                    "copio el bloque de otro look sin adaptar el prefijo"
+                                    % (et, arquetipo, esperado, len(textos_reales)))
 
         for pose, lista in planos.items():
             for pr in lista:

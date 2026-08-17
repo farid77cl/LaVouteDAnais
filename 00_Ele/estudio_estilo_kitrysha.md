@@ -476,3 +476,16 @@ Una vez controlados esos siete pilares — silueta, paleta, material, maquillaje
 ---
 
 *Documento de estudio elaborado a partir de fuentes públicas de la modelo y bibliografía de moda vintage. Para uso de inspiración estilística, dirección de moda, referencia para photoshoots o construcción de personal branding en el registro Vintage Glam / Old Hollywood / Boudoir.*
+
+---
+
+## 18. Aplicación operativa — Anaïs Belland (Ama 17/08/2026)
+
+Este estudio es la base de **vestuario y maquillaje** de Anaïs Belland en el `outfit-engine`. **El físico de Kitrysha NO se traslada** — el ADN físico de Anaïs (`02_Personajes/_perfiles_visuales/anais.md` §2: rostro ovalado aristocrático, 42 años, hourglass de tightlacing) es la única autoridad sobre cuerpo y rostro y no se toca con este documento.
+
+Lo que sí ya vive en el canon de Anaïs, tomado de aquí:
+- **Maquillaje** (§6 de este estudio → `anais.md` §2 BLOQUE A): cejas arqueadas 1940s, winged liner, labio rojo carmesí — coincide punto por punto.
+- **Siluetas de lencería** (§3.1 y §10 de este estudio → `anais.md` §5.6): bullet bra, quarter-cup, guêpière, peignoir de gasa ya están en la biblioteca de 10 arquitecturas.
+- **Materiales** (§4 de este estudio → `anais.md` §5.1): satén, látex, encaje, terciopelo — ya en el universo permitido.
+
+Lo que **faltaba y se corrigió el 17/08/2026** tras la auditoría del batch L15-L20 (`anais.md` §5.7): el estudio dedica §6.6, §8.6 y §15-bis enteros a que la sensualidad de este registro depende de **luz lateral dura o chiaroscuro cálido** (nunca luz plana difusa) y de **poses de tensión geométrica** (contrapposto en S, barbilla abajo/mirada arriba) — no de exposición. Los prompts de Boudoir de Anaïs habían perdido ambas cosas por un copy-paste; la tabla nueva en `anais.md` §5.7 las fija por arquetipo para que no vuelva a pasar.

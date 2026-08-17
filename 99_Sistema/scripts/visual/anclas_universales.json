@@ -300,6 +300,17 @@
         "SENSUAL_STATE",
         "LIVED_IN_ROOM"
       ],
+      "prefijos_arquetipo": {
+        "_dueno_unico": ".agent/skills/anais-outfit-engine/references/dna_v2_3.md#Prefijos-Cinematograficos-por-Arquetipo — esto es una copia maquina-legible de esa tabla, para que el linter pueda verificarla. Si se edita un lado, editar el otro.",
+        "Noche / La Voûte": { "prefijo": "8k ultra cinematic film noir portrait", "luz": "single dramatic spotlight from above" },
+        "Boudoir / Lencería": { "prefijo": "8k ultra cinematic intimate boudoir portrait", "luz": "warm amber candlelight chiaroscuro" },
+        "Gala / Premiere": { "prefijo": "8k ultra cinematic glamour portrait", "luz": "Vogue Paris 1950s editorial" },
+        "Látex / Fetichismo": { "prefijo": "8k ultra cinematic dark power portrait", "luz": "high-gloss cinematic lighting" },
+        "Sesión Literaria": { "prefijo": "8k ultra cinematic intimate portrait", "luz": "warm amber dramatic lighting" },
+        "Animal Print / Autoridad": { "prefijo": "8k ultra cinematic predatory editorial portrait", "luz": "dramatic noir lighting" },
+        "Ejecutivo de Poder": { "prefijo": "8k ultra cinematic power portrait", "luz": "cool key light from above" },
+        "Viaje / Jet Set": { "prefijo": "8k ultra cinematic luxury lifestyle portrait", "luz": "warm golden afternoon light" }
+      },
       "nota": "Su BLOQUE B suele llevar guantes de opera: el FOOTWEAR_ECHO aplica igual, pero el token de unas de mano se OMITE cuando los guantes cubren los dedos (perfil 5.4). **BOTTOM_CUT_LOCK sigue sin aplicarsele** (no lleva la tanga de Ele: la convertiria en otra muneca) **pero desde el 14/08/2026 lleva LEG_CUT_LOCK**, su corte propio: talle alto de epoca CON la pierna cortada al filo de la cadera. Deroga la exencion escrita el 13/08, que autorizaba por omision el calzon de cobertura total que la Ama rechazo. Ademas lleva SENSUAL_STATE y LIVED_IN_ROOM en todos sus prompts. **Si lleva DRESS_LEG_CLOSURE en la practica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda."
     }
   }
