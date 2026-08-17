@@ -233,7 +233,26 @@ Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2
 - **Boudoir en particular — vocabulario de pose (base: `00_Ele/estudio_estilo_kitrysha.md`, estudio de estilo encargado por la Ama para vestuario/maquillaje retro-glamour, NO para el físico):** contrapposto con curva en S (peso en una cadera, nunca los dos talones parejos) · barbilla ligeramente abajo, mirada arriba a través de las pestañas · una mano cerca de la clavícula, el labio o trazando el borde de la bata — nunca las dos manos simétricas sosteniendo la prenda como si fuera un abrigo formal · atrezzo de tocador (espejo con luces cálidas, boquilla, copa de champagne, perlas sueltas) en vez de mobiliario genérico de salón. El objetivo es la **tensión contenida** del cine negro de los 40, no la pose de mando de una ejecutiva.
 - **🦊 Capelet/estola en Back View:** el Look 17 (Visón y Borgoña) confirmó el mismo defecto que ya tenían las batas cruzadas (§5.1c, `BACK_ANCHOR`) pero en una pieza suelta: sin anclar explícitamente cómo cae la piel por detrás, el generador la tuerce (*"el abrigo está para atrás"*, nota real 16/08 21:43). **Regla nueva:** toda pose de Back View con capelet/estola/abrigo abierto debe nombrar explícitamente su caída desde atrás (ej. *"the fur capelet lying flat and unbroken across both shoulder blades, its edge following the same line front and back"*) — no basta con describirlo una vez en el BLOQUE B.
 
-> ⏳ **Hueco grande, pendiente de sesión propia (encontrado 17/08/2026, no resuelto hoy):** los **vestidos** no tienen una biblioteca de siluetas como la lencería (§5.6) — cada gown se escribe ad hoc por look. `estudio_estilo_kitrysha.md` §3.3 ya trae el catálogo base (wiggle dress, pencil dress, cóctel años 50 tea-length, slip dress al bies años 30, gown de noche espalda descubierta, little black dress) y §5 sus siluetas asociadas. Es exactamente el mismo hueco que tenía la lencería antes del 14/08 — "no existía biblioteca de la cual rotar" — y probablemente el mismo síntoma (arquitectura clonada, solo cambia el color) si se audita. Se deja marcado en vez de construirlo apurado: merece su propia pasada, no una entrada de relleno.
+### 5.6a · 👗 Biblioteca de siluetas de vestido — Noche/Ejecutivo (Ama 17/08/2026)
+
+> **Por qué nace:** auditados los BLOQUE B de los 20 looks — la Noche (33% de la meta, el arquetipo más grande) se reduce casi entera a **column/sheath gown**: L01 *column gown*, L07 *column gown con train*, L17 *sheath gown*, tres veces la misma arquitectura base variando solo escote y color. Exactamente el patrón que la regla de silueta (§7) prohíbe — *"misma prenda, otro color"* — y la misma causa raíz que tenía la lencería antes del 14/08: **no existía biblioteca de la cual rotar**. Base: `00_Ele/estudio_estilo_kitrysha.md` §3.3 y §5.
+
+| # | Arquitectura | Token base |
+|---|---|---|
+| D1 | **Column / Sheath Gown** | `fitted floor-length column gown, close to the body from bust to hem` *(ya en uso, L01/L07/L17 — deja de ser el default)* |
+| D2 | **Wiggle Dress** | `knee-length wiggle dress, fitted sharply through the hip with a narrow pencil skirt hem` |
+| D3 | **Bias-Cut Slip Gown** | `floor-length bias-cut slip gown in liquid-draping fabric, thin straps, the fabric skimming rather than gripping the body` (referencia Jean Harlow, años 30) |
+| D4 | **Halter Backless Gown** | `halter-neck gown with a structural bodice, the entire back bare to the waist` |
+| D5 | **Trumpet / Mermaid Gown** | `fitted trumpet gown, close through the hip and flaring into a dramatic train below the knee` |
+| D6 | **Strapless Sweetheart Gown** | `strapless gown with a boned sweetheart bodice, no straps, the shoulders bare` |
+| D7 | **Cocktail Tea-Length Dress** | `fitted cocktail dress with a nipped waist and a tea-length full skirt falling below the knee` |
+| D8 | **Cape-Sleeve Gown** | `gown with dramatic cape sleeves falling from the shoulder, the bodice fitted beneath them` |
+| D9 | **Cowl-Back Draped Gown** | `gown with a draped cowl neckline at the back, the front structured and fitted` *(ya en uso, L05/L06)* |
+| D10 | **Little Black Dress** | `fitted little black dress, knee-length, with a keyhole or sweetheart neckline` |
+
+- **Ventana anti-repetición:** misma regla que la lencería — una arquitectura **no se repite en los últimos 3 looks de Noche** (ni en Ejecutivo cuando el look es de vestido y no de sastrería separada). Column/Sheath (D1) entra en la rotación como una más de diez, nunca como default.
+- **Alcance:** esta biblioteca es para **Noche** (donde vive el problema medido) y para **Ejecutivo/Sesión Literaria** cuando el concepto pide vestido en vez de traje sastre o bata/kimono — no reemplaza el catsuit/vestido de látex del arquetipo Fetichismo (§6), que tiene su propia lógica de material.
+- **Espalda descubierta:** Kitrysha la marca como rasgo firma del registro (§5) — D4 y D9 ya la incorporan estructuralmente; en el resto de arquitecturas es opcional, se nombra explícita cuando aparece (`the back left bare to the waist`).
 
 ### 5.6 · 👙 Biblioteca de siluetas de lencería (Ama 14/08/2026)
 
