@@ -156,16 +156,29 @@ Auditado sobre los 4 looks Boudoir/Lencería del reset (L02, L08, L09, L10): **2
 ### 5.3 · Calzado (canon inamovible)
 
 > ✏️ **Ampliado 11/08/2026 (Ama) — de un solo modelo a 3 estilos, con la misma regla medias+puntera de Ele (`feedback_medias_calzado_reglas`, auto-memoria).**
+> ✏️ **Reampliado 17/08/2026 (Ama: *"quiero también botas sobre rodilla y bajo rodilla... acá no veo nada del arquetipo de KITRYSHA"*).** El primer catálogo (3 estilos) nunca llegó a incorporar el vocabulario propio de `00_Ele/estudio_estilo_kitrysha.md` §11 — ni una bota, ni un D'Orsay, ni un Mary Jane. Corregido: de 3 a 9 estilos, con las dos alturas de bota nuevas que pidió y el resto del §11 sumado.
 
 - **Altura exacta:** **12 cm**, sin excepción — no se abre a rango (se descarta el "10-12cm" que traía `CANON_VISUAL_ANAIS.md` §VI, ese documento queda desactualizado en esto).
-- **Estilos permitidos (3):**
-  1. `stiletto pump pointed toe` — el original, punta cerrada.
-  2. `peep-toe stiletto pump` — **nuevo.** Punta abierta permitida SOLO si el look no lleva medias (ver regla siguiente).
-  3. `knee-high stiletto boot` (bota bajo rodilla, punta cerrada) — **nuevo.**
-- **🔴 Regla medias + puntera (idéntica a Ele):** si el look lleva medias, el calzado **debe** ser de puntera cerrada (pump o bota). El peep-toe **queda prohibido en cualquier look con medias**, sin excepción.
+- **Estilos permitidos (9) — base: `estudio_estilo_kitrysha.md` §11.1:**
+
+  *Puntera cerrada (compatibles con medias):*
+  1. `stiletto pump pointed toe` — el original.
+  2. `D'Orsay stiletto pump with open sides, closed pointed toe` — **nuevo 17/08.** Los laterales abiertos exponen el arco del pie sin abrir la puntera.
+  3. `stiletto Mary Jane pump with a delicate ankle strap` — **nuevo 17/08.**
+  4. `mid-calf stiletto boot ending below the knee` (bota **bajo rodilla** — corrige el error de la entrada anterior, que llamaba "bajo rodilla" a lo que en realidad es una bota a la rodilla) — **nuevo 17/08.**
+  5. `knee-high stiletto boot ending exactly at the knee` (bota **a la rodilla**) — el estilo que ya existía, renombrado para no chocar con el #4.
+  6. `thigh-high over-the-knee stiletto boot` (bota **sobre rodilla** / cuissard) — **nuevo 17/08**, pedido explícito de la Ama.
+
+  *Puntera abierta (SOLO si el look no lleva medias, ver regla siguiente):*
+  7. `peep-toe stiletto pump` — el original.
+  8. `T-strap stiletto sandal` — **nuevo 17/08.**
+  9. `1940s-style strap stiletto sandal with a slender ankle strap` — **nuevo 17/08.**
+
+- **🔴 Regla medias + puntera (idéntica a Ele):** si el look lleva medias, el calzado **debe** ser de puntera cerrada (estilos 1-6). Los tres estilos abiertos (7-9) **quedan prohibidos en cualquier look con medias**, sin excepción.
 - **Prohibido:** tacón bajo, **plataforma delantera visible**, zapatilla, flat, wedge.
-- **Suela roja: obligatoria** en los tres estilos.
+- **Suela roja: obligatoria** en los nueve estilos.
 - **Atributos obligatorios del token** (los 6): altura en cm · estilo · material · color · forma de puntera · suela roja.
+- **Rotación:** mismo criterio que el resto del vestuario — no repetir estilo de calzado en los últimos 3 looks del mismo arquetipo (§7).
 
 ### 5.4 · Prohibiciones absolutas
 
