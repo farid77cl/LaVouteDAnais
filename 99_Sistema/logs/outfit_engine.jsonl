@@ -108,3 +108,7 @@
 {"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6563, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-17T10:34:51"}
 {"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6566, "anclas_opt_in": ["ASPECT_VERTICAL", "ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-17T10:34:51"}
 {"evento": "build_negative", "personaje": "miss_doll", "chars": 1468, "ts": "2026-08-17T10:34:51"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 3641, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-17T17:21:13"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 3808, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-17T17:21:13"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 3733, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-17T17:21:13"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 3726, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-17T17:21:13"}

@@ -33,9 +33,20 @@ GALERIA = os.path.join(REPO, "00_Ele", "galeria_outfits.md")
 CATEGORIAS = {
     "Stripper", "Corporate", "Escort", "Domestic", "Pin-Up",
     "High-Fashion Editorial", "Nightclub", "Lencería", "Bikini", "Gym",
+    # 11ª categoría, agregada 17/08/2026: la lista estaba VIEJA, no los looks.
+    # El batch 261-270 la usa con Categoria+Subcategoria propias desde el 25/05
+    # y "gala" es material declarado en el canon. Se escribía de 3 formas
+    # ("Alfombra Roja / Gala", "Alfombra Roja", "Gala") — unificadas a una.
+    "Alfombra Roja / Gala",
 }
 NORMALIZAR = {
     "Lenceria": "Lencería",
+    "Alfombra Roja": "Alfombra Roja / Gala",
+    "Gala": "Alfombra Roja / Gala",
+    # "Mix" NO es categoría de vestuario: es la meta cromática, y se había
+    # colado en el campo Categoria de 18 looks (L201-L220) cuya categoría real
+    # vivía en Subcategoria. Corregido 17/08/2026 leyendo el campo, no adivinando.
+    "Mix": "(meta cromática, no categoría — usar la de Subcategoria)",
     "Gym/Athleisure": "Gym",
     "HF Editorial": "High-Fashion Editorial",
 }

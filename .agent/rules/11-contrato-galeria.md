@@ -120,7 +120,12 @@ Se escribe **exactamente así**, en el heading y en el campo. Nada de sinónimos
 ```
 Stripper · Corporate · Escort · Domestic · Pin-Up
 High-Fashion Editorial · Nightclub · Lencería · Bikini · Gym
+Alfombra Roja / Gala
 ```
+
+> 🩹 **17/08/2026 — la lista estaba vieja, no los looks.** El linter marcaba 36 hallazgos C6 y al mirar la dirección del error resultó que **el equivocado era el contrato**: «Alfombra Roja / Gala» la usa el batch 261-270 desde el 25/05 con `Categoria` y `Subcategoria` propias, y «gala» es material declarado en el canon. Entra como **11ª categoría**, con sus 3 grafías (`Alfombra Roja / Gala`, `Alfombra Roja`, `Gala`) unificadas en una.
+>
+> Aparte: **«Mix» no es una categoría de vestuario** — es la meta cromática, y se había colado en el campo `Categoria` de **18 looks (L201-L220)** cuya categoría real estaba escrita en `Subcategoria` (Corporate, Escort, Pin-Up, Stripper, Domestic, Nightclub, High-Fashion). Corregidos **leyendo el campo, no adivinando**. `Professional Stripper` → `Stripper` y `High-Fashion` → `High-Fashion Editorial`.
 
 **Normalizaciones obligatorias** (variantes reales encontradas en el archivo):
 

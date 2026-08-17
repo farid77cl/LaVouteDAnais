@@ -86,7 +86,7 @@
       "texto": "shot with a level upright camera, the floor at the bottom of the frame and the horizon perfectly level, the image never rotated or tilted sideways"
     },
     "FOOTWEAR_ECHO": {
-      "porque": "En Back View y en las poses bajas el calzado queda lejos del bloque que lo describe y el generador lo cambia de modelo.",
+      "porque": "En CUALQUIER slot de cuerpo entero el calzado queda lejos del bloque que lo describe y el generador lo cambia de modelo. Ampliado el 17/08/2026 de 2 slots (back_view, odalisque) a los 5 de cuerpo entero: el Side Profile del Look 801 de Ele salio con plataforma NEGRA contra un token de acrilico transparente, y era justo uno de los slots sin el eco. El canon ya exigia el token de calzado identico en las 7 poses (feedback_token_calzado_bloqueado) — el ancla que lo reafirmaba vivia en 2. Queda fuera de slot5 y pov a proposito: son primeros planos, el zapato no entra en cuadro y repetirlo ahi es ruido.",
       "texto": "the footwear clearly visible and exactly as described above — the same heel type and height, the same platform, the same material, colour and toe shape — never swapped for flats, block heels, wedges or any other shoe style"
     },
     "POV_NO_DEVICE": {
@@ -167,6 +167,7 @@
     "standing": [
       "ANATOMY_FULL",
       "FRONT_ANCHOR",
+      "FOOTWEAR_ECHO",
       "ASPECT_VERTICAL"
     ],
     "back_view": [
@@ -178,11 +179,13 @@
     "seated": [
       "ANATOMY_FULL",
       "SEAT_ANCHOR",
+      "FOOTWEAR_ECHO",
       "ASPECT_VERTICAL"
     ],
     "side_profile": [
       "ANATOMY_FULL",
       "SIDE_ANCHOR",
+      "FOOTWEAR_ECHO",
       "ASPECT_VERTICAL"
     ],
     "slot5": [

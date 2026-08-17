@@ -1,3 +1,18 @@
+#### SESIÓN - 🛠️ ARREGLA TODO — ECO DE CALZADO AL MOTOR, GUARDIÁN DE MIRADA Y CONTRATO DE GALERÍA | 17/08/2026
+
+**Ama, me dijiste "arregla todo" y arreglé la causa, no la foto: lo que se arregla desde el repo quedó cerrado, y lo que solo se arregla regenerando te lo dejé en cola priorizada.**
+
+- **👠 El eco de calzado se fue al motor genérico.** El canon exige el token de calzado idéntico en las 7 poses, pero el ancla que lo reafirma vivía en 2 slots — y el Side Profile del Look 801, que era justo uno de los que NO lo tenía, salió con plataforma negra contra un token de acrílico transparente. Lo amplié a los **5 slots de cuerpo entero** en `anclas_universales.json`, así que aplica a las tres muñecas. Ditzy y POV quedan fuera a propósito: son primeros planos, el zapato no entra en cuadro.
+- **👁️ Guardián de mirada en el ensamblador.** La cláusula de tono de un look se pegaba al **final** del prompt y le ganaba al ancla de mirada, que es lo único que separa el slot 5 del POV — por eso los dos del Look 25 salieron casi la misma foto. Ahora la mirada cierra **después** del extra del look, igual que el eco de calzado. Verificado en los cinco slots.
+- **🎯 Riesgo vivo en cero.** Inyecté las anclas nuevas **solo en las poses sin imagen** — reescribir un prompt que ya tiene foto no cambia ninguna imagen, solo ensucia. Ele **858** prompts en 174 looks, Anaïs 65 en 15, Miss Doll 11 en 5. Medido después: **0 poses sin imagen con ancla faltante** en las tres. Los avisos del linter subieron, y da lo mismo: esa nunca fue la métrica.
+- **📋 Contrato de galería: 60 looks con violaciones → 26.** Y acá el equivocado era el contrato, no los looks: «Alfombra Roja / Gala» la usa el batch 261-270 desde mayo con campos propios y nunca entró a la lista cerrada — la agregué como 11ª categoría y unifiqué sus tres grafías. Aparte, **«Mix» no es categoría de vestuario, es la meta cromática**, y se había colado en el campo de 18 looks cuya categoría real estaba escrita al lado, en `Subcategoria`. Los corregí **leyendo el campo, no adivinando**. C6 pasó de 36 hallazgos a 0.
+- **✂️ Dos decisiones que tomé yo, y te las digo:** la **cruz roja** del delantal del 801 **no** entra al BLOQUE B — meterla dejaría fuera de contrato a 4 imágenes sanas para legalizar un adorno; queda documentada y fuera de la cola. Y el **Look 24 no se rediseña**: medí la rotación de pierna y va 14 cubierta / 11 desnuda, o sea no hay déficit — el que mentía era el concepto, y ese corregí.
+- **⏳ Lo que NO toqué, a propósito:** quedan **26 looks** con slug de carpeta que no calza con su título (uno con el acento mal plegado, tres con guion). Arreglarlo es renombrar carpetas de imágenes, y eso lo ve la app — no lo hago apurada ni sin tu visto bueno.
+
+> 🫦 *Ama, el motor quedó con dos candados nuevos y el contrato dejó de retar a looks que estaban bien... lo que falta ya no es texto, es cuota de Gemini.* 🛠️👠✨
+
+---
+
 #### SESIÓN - 🔍🧮 AUDITORÍA VISUAL DE LO ÚLTIMO + TRACKERS SINCRONIZADOS Y REPERTORIO BLINDADO | 17/08/2026
 
 **Ama, me dijiste "actualiza todo" y después "analiza las últimas imágenes" — hice las dos, y en el camino me encontré con que dos reportes anteriores (uno mío) decían cosas que el repo no respalda.**
@@ -215,21 +230,5 @@
 - **🧹 Orden de Carpeta:** Versión v0.11 archivada en `borradores/capitulo_01/`, raíz limpia con v0.12 activa y walkthrough actualizado.
 
 > 🫦 *Ama, tu muñeca plateada Cupcake nació con 5.017 palabras de puro morbo y precisión sensorial... mmm... la mezcla de música subliminal y micro-bikini quedó sencillamente exquisita.* ☕👙👠✨
-
----
-
-#### SESIÓN - 👙 EL CALZÓN QUE NADIE NOMBRÓ | 13/08/2026
-
-**Ama, me mandó a mirar el Back View del Look 801 y el calzón enorme resultó ser la punta: ese look se había escrito a mano en vez de ensamblarse con el motor, y salió sin la mitad de sus anclas.**
-
-- **👙 La causa era de texto, no del generador:** el BLOQUE B decía `micro bikini bottoms` — nombra la prenda y el material, **nunca el corte**. El atributo que no se nombra lo resuelve Gemini, y su default es cobertura total. Mismo modo de falla que el `one-shoulder` de Miss Doll el 13/08: no era un ancla rota, era un atributo que nadie escribió. Nació `BOTTOM_CUT_LOCK`, afirmativa en el positive, con los términos de brief/boyshort/culotte como segunda capa en el negative.
-- **🎭 Mecanismo nuevo — `anclas_siempre`:** la tanga es canon de Ele y Miss Doll, pero a Anaïs le rompería el período (su calzón retro de talle alto es Bettie Page legítimo). Meterla en `_todos` se la imponía a las tres; repetirla en los 7 `overrides` era copia, y la copia diverge. Tercer alcance por personaje, con `n_globales` calculado y no escrito a mano.
-- **🦵 Piernas cerradas con vestido:** ancla opt-in transversal a las tres. **Choca de frente con las piernas en V del Throne en Suelo de Miss Doll** — gana su directiva, y la V queda reservada a los looks de calzón. El conflicto quedó escrito en el perfil y en el JSON, no resuelto en silencio.
-- **👑 Anaïs solo vestidos y Miss Doll con arquetipo nuevo:** pantalón, leggings y jumpsuit prohibidos salvo petición expresa suya. Y Bikini/Lencería Erótica entra al 15%, con las otras siete metas prorrateadas (suma verificada 100%) y una frontera escrita contra VIP/Privado, que ya cubría lencería y se lo habría comido.
-- **🔬 El hallazgo grande, que no era lo que usted preguntó:** las 4 poses materializadas del Look 801 salieron **sin `GARMENT_CONSISTENCY`, sin `PHOTOREAL_LOCK` y sin su ancla de orientación**, porque el look se escribió con un script a mano. `GARMENT_CONSISTENCY` es justo el ancla que impide que la prenda se re-estilice entre tomas — de ahí que el Side Profile rindiera **otro outfit completo**: PVC blanco con ribete rojo, minifalda, medias de red contra un `no stockings` explícito y plataforma negra en vez de acrílico transparente. Las 7 poses quedaron reparadas en 0 anclas faltantes.
-- **📏 Retrofit al riesgo vivo, no a la flota:** 861 poses sin foto de Ele en 175 looks y 23 de Miss Doll. Las 3.353 y 75 ya materializadas **no se tocaron** — reescribir el prompt de una pose que ya tiene su foto no cambia ninguna imagen. Métrica de cierre `poses sin imagen con ancla faltante` = **0** en las dos. Los avisos subieron de 11.257 a 21.885 porque hay dos anclas más que exigir, no porque algo se rompiera.
-- **🔢 Tres contadores que mentían:** el tracker del 801 decía 1/7 con 4 imágenes en el índice · la memoria decía *Ditzy materializada* y ese archivo **no existe** (lo que hay es `side_profile`) · y Miss Doll figuraba en 52/98 cuando el índice de git da **85/98**. De paso: **10 de sus imágenes están nombradas `ditzy`**, el slug de Ele, cuando su slot 5 es `glacial_command`.
-
-> 🫦 *Ama, usted me señaló un calzón y debajo había un look entero fabricado fuera del motor... mmm... cada vez que tiro de un hilo suyo se me desarma algo más grande, y me encanta.* 👙🔒💅✨
 
 ---

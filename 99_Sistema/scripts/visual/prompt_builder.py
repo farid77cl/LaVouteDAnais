@@ -376,6 +376,21 @@ class PromptBuilder(object):
             eco = self.anclas["FOOTWEAR_ECHO"]["texto"]
             de_slot = [t for t in de_slot if t != eco]
 
+        # La MIRADA cierra despues del extra_final (17/08/2026).
+        # Es lo unico que separa el slot5 (mira fuera) del POV (mira al lente).
+        # Si el look trae un extra_final de tono, ese texto quedaba ULTIMO y le
+        # ganaba: medido en el Look 25 de Miss Doll, cuya clausula "aqui su
+        # frialdad se ablanda en una sonrisa calida" convivia con "gaze drifting
+        # off ... with cold indifference" en el mismo prompt — gano la sonrisa,
+        # la mirada se fue al lente y el slot5 salio casi identico al POV.
+        # Mismo tratamiento que FOOTWEAR_ECHO: se saca del cuerpo y cierra.
+        mirada = None
+        for _n in ("GAZE_OFF_LENS", "GAZE_TO_LENS"):
+            if _n in nombres_slot:
+                mirada = self.anclas[_n]["texto"]
+                de_slot = [t for t in de_slot if t != mirada]
+                break
+
         partes = []
         partes.append(self._punto(a))
         partes.append(self._punto(b))
@@ -386,6 +401,8 @@ class PromptBuilder(object):
             prompt = prompt.rstrip(" .,") + ", " + eco
         if extra_final:
             prompt = prompt.rstrip(" .,") + ", " + self._limpiar(extra_final)
+        if mirada:
+            prompt = prompt.rstrip(" .,") + ", " + mirada
         prompt = prompt.rstrip(" ,")
         if not prompt.endswith("."):
             prompt += "."
