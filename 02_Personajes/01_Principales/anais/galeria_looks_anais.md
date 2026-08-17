@@ -35,7 +35,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look1_terciopelo_y_sangre/`
 - **Tags:** #noche #terciopelo #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -99,7 +99,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look2_rosa_y_latex/`
 - **Tags:** #boudoir #latex #encaje #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -163,7 +163,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look3_esmeralda_de_alto_brillo/`
 - **Tags:** #latex #latex #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -483,7 +483,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look8_champagne_y_plata/`
 - **Tags:** #boudoir #encaje #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -547,7 +547,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look9_esmeralda_intima/`
 - **Tags:** #boudoir #encaje #seda #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -611,7 +611,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look10_terciopelo_y_boning/`
 - **Tags:** #boudoir #terciopelo #encaje #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -675,7 +675,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look11_cuero_y_carmesi/`
 - **Tags:** #latex #cuero #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -739,7 +739,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look12_bronce_clinico/`
 - **Tags:** #latex #latex #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -803,7 +803,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look13_kimono_de_medianoche/`
 - **Tags:** #sesionliteraria #seda #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -867,7 +867,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look14_sastreria_borgona/`
 - **Tags:** #ejecutivo #cuero #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (7/7 — Materializado)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -933,11 +933,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look15_zorro_y_terciopelo/`
 - **Tags:** #noche #terciopelo #piel #zorro #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_standing.png) | [📸 View](../../../05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_back_view.png) | [📸 View](../../../05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_seated.png) | [📸 View](../../../05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_pov.png) | [📸 View](../../../05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_odalisque.png) |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Negro medianoche + Plata antigua + Piel zorro plateado · **Medias nylon costura trasera**
 
@@ -998,11 +998,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look16_latex_obsidiana/`
 - **Tags:** #latex #catsuit #fetish #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look16_latex_obsidiana/anais_016_standing.png) | [📸 View](../../../05_Imagenes/anais/look16_latex_obsidiana/anais_016_back_view.png) | [📸 View](../../../05_Imagenes/anais/look16_latex_obsidiana/anais_016_seated.png) | [📸 View](../../../05_Imagenes/anais/look16_latex_obsidiana/anais_016_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look16_latex_obsidiana/anais_016_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look16_latex_obsidiana/anais_016_pov.png) | [📸 View](../../../05_Imagenes/anais/look16_latex_obsidiana/anais_016_odalisque.png) |
 
 **Arquetipo:** Látex / Fetichismo · **Paleta:** Negro obsidiana de alto brillo + Oro imperial · **Sin medias · Catsuit**
 
@@ -1063,11 +1063,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look17_vison_y_borgona/`
 - **Tags:** #noche #saten #piel #vison #borgona #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (2/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_standing.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Borgoña vino profundo + Piel visón chocolate + Oro · **Medias de red ultra finas de puntera cerrada**
 
@@ -1128,11 +1128,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look18_charmeuse_y_filigrana/`
 - **Tags:** #boudoir #seda #lenceria #liguero #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| ⏳ | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Marfil seda + Oro antiguo + Encaje negro · **Medias nylon marfil costura trasera + Liguero 6 tirantes**
 
@@ -1193,11 +1193,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look19_esmeralda_y_marta/`
 - **Tags:** #sesionliteraria #terciopelo #piel #marta #esmeralda #peeptoe #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 **Arquetipo:** Sesión Literaria · **Paleta:** Verde esmeralda italiano + Piel marta oscura + Oro · **Sin medias · Peep-toe**
 
@@ -1258,11 +1258,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look20_corse_opera_y_diamantes/`
 - **Tags:** #noche #saten #charol #corse #gala #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_standing.png) | [📸 View](../../../05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_back_view.png) | [📸 View](../../../05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_seated.png) | [📸 View](../../../05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_pov.png) | [📸 View](../../../05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_odalisque.png) |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Negro azabache + Diamantes negros + Charol · **Medias nylon negro ultra sheer con costura trasera**
 
@@ -1444,11 +1444,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look23_encaje_rosa_polvo/`
 - **Tags:** #boudoir #latex #red #transparencia #anais #batchL21-L25 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_standing.png) | [📸 View](../../../05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_back_view.png) | [📸 View](../../../05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_seated.png) | [📸 View](../../../05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_pov.png) | [📸 View](../../../05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Negro red + Rosa polvo látex · **Bodystocking (no back-seam)**
 
@@ -1568,11 +1568,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look25_carbon_y_diamante/`
 - **Tags:** #ejecutivo #lana #gafas #cinturon #anais #batchL21-L25 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look25_carbon_y_diamante/anais_025_standing.png) | [📸 View](../../../05_Imagenes/anais/look25_carbon_y_diamante/anais_025_back_view.png) | [📸 View](../../../05_Imagenes/anais/look25_carbon_y_diamante/anais_025_seated.png) | [📸 View](../../../05_Imagenes/anais/look25_carbon_y_diamante/anais_025_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look25_carbon_y_diamante/anais_025_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look25_carbon_y_diamante/anais_025_pov.png) | [📸 View](../../../05_Imagenes/anais/look25_carbon_y_diamante/anais_025_odalisque.png) |
 
 **Arquetipo:** Ejecutivo de Poder · **Paleta:** Gris carbón + Negro · **Sin medias**
 

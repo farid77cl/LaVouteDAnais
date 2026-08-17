@@ -116,4 +116,68 @@
 
 ---
 
+## 🌹 Look 15: Zorro Y Terciopelo
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_015_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_standing.png) | ![anais_015_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_back_view.png) | ![anais_015_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_seated.png) | ![anais_015_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_side_profile.png) | ![anais_015_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_sovereign_gaze.png) | ![anais_015_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_pov.png) | ![anais_015_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_zorro_y_terciopelo/anais_015_odalisque.png) |
+
+---
+
+## 🌹 Look 16: Latex Obsidiana
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_016_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look16_latex_obsidiana/anais_016_standing.png) | ![anais_016_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look16_latex_obsidiana/anais_016_back_view.png) | ![anais_016_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look16_latex_obsidiana/anais_016_seated.png) | ![anais_016_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look16_latex_obsidiana/anais_016_side_profile.png) | ![anais_016_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look16_latex_obsidiana/anais_016_sovereign_gaze.png) | ![anais_016_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look16_latex_obsidiana/anais_016_pov.png) | ![anais_016_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look16_latex_obsidiana/anais_016_odalisque.png) |
+
+---
+
+## 🌹 Look 17: Vison Y Borgona
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_017_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look17_vison_y_borgona/anais_017_standing.png) | ![anais_017_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look17_vison_y_borgona/anais_017_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 🌹 Look 18: Charmeuse Y Filigrana
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⏳ | ![anais_L18_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 🌹 Look 19: Esmeralda Y Marta
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_019_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 🌹 Look 20: Corse Opera Y Diamantes
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_020_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_standing.png) | ![anais_020_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_back_view.png) | ![anais_020_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_seated.png) | ![anais_020_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_side_profile.png) | ![anais_020_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_sovereign_gaze.png) | ![anais_020_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_pov.png) | ![anais_020_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look20_corse_opera_y_diamantes/anais_020_odalisque.png) |
+
+---
+
+## 🌹 Look 23: Encaje Rosa Polvo
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_L23_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_standing.png) | ![anais_L23_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_back_view.png) | ![anais_L23_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_seated.png) | ![anais_L23_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_side_profile.png) | ![anais_L23_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_sovereign_gaze.png) | ![anais_L23_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_pov.png) | ![anais_L23_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look23_encaje_rosa_polvo/anais_L23_odalisque.png) |
+
+---
+
+## 🌹 Look 25: Carbon Y Diamante
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_025_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look25_carbon_y_diamante/anais_025_standing.png) | ![anais_025_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look25_carbon_y_diamante/anais_025_back_view.png) | ![anais_025_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look25_carbon_y_diamante/anais_025_seated.png) | ![anais_025_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look25_carbon_y_diamante/anais_025_side_profile.png) | ![anais_025_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look25_carbon_y_diamante/anais_025_sovereign_gaze.png) | ![anais_025_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look25_carbon_y_diamante/anais_025_pov.png) | ![anais_025_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look25_carbon_y_diamante/anais_025_odalisque.png) |
+
+---
+
 *Galería Anaïs Belland coordinada por Ele.* 👑

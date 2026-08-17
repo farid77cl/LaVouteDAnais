@@ -82,6 +82,14 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 ⚠️ La app nombra `back`/`profile`; el canon usa `back_view`/`side_profile`. La normalización del paso 2 es obligatoria o las poses se mapean mal en la galería maestra.
 
+> 🔴 **17/08/2026 — LA APP SIGUE SUBIENDO EL SLOT 5 COMO `ditzy` EN ANAÏS Y MISS DOLL.** La sesión del 16/08 reportó *"normalizado el selector de poses en LV-App para respetar las 7 poses canónicas por personaje (Slot 5: Sovereign Gaze para Anaïs, Glacial Command para Miss Doll)"*. **El artefacto lo desmiente:** todo lo subido desde entonces llegó como `anais_0NN_ditzy.png` y `miss_doll_0NN_ditzy.png` — **14 archivos** (Anaïs L15/L16/L20/L23/L25 · Miss Doll L12/L14/L15-L20/L25).
+>
+> **Por qué importa y no es cosmético:** `update_galleries.py` arma la galería maestra de Anaïs con la columna `sovereign_gaze` (línea 428). Un archivo `_ditzy` cae en otro bucket y **la imagen desaparece de la tabla del look**. No es un nombre feo, es una foto invisible.
+>
+> **Repo-side ya corregido** (14 `git mv` a `_sovereign_gaze` / `_glacial_command`, precedente del 15/08). **App-side pendiente:** mientras `LV-App` siga ofreciendo "Ditzy" en el slot 5 de estas dos, el próximo batch vuelve a llegar mal y hay que renombrar de nuevo. Es otro repo — decisión de la Ama.
+
+> 🧮 **El tracker `### 📸 Imágenes (N/7)` de Anaïs y Miss Doll ya NO se mantiene a mano (17/08/2026).** `update_galleries.py` nunca lo tocó — por eso envejecía mintiendo (13/08: 0/7 en 13 de 14 looks con 52 imágenes en el índice; 17/08: **33 looks** desfasados, con L15-L25 en "0/7 — Pendiente" y 60 imágenes reales). Herramienta nueva: `python 99_Sistema/scripts/visual/sync_tracker_galeria_personaje.py [anais|miss_doll] [--dry-run]` — mide contra `git ls-files` (nunca el disco: los PNG llevan skip-worktree), preserva anotaciones humanas dentro de las celdas y no pisa encabezados con nota propia (los reporta). Correrlo después de `sync_imagenes_subidas.py` y antes de `update_galleries.py`.
+
 ## 👠 ESTADÍSTICAS DE ELE (FLOTA PRINCIPAL)
 
 | Categoría | Valor | Estado |
@@ -99,6 +107,13 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 > - 🔴 **Side Profile:** **otro outfit completo** — PVC blanco con ribete rojo + minifalda + medias de red (contra un `no stockings` explícito) + plataforma negra en vez de acrílico transparente + escenario equivocado. Viola además medias + punta abierta (regla 04 §1).
 > - ⚙️ **Causa raíz de proceso:** el look **se escribió a mano** (`generar_look801.py`) en vez de ensamblarse con `prompt_builder.py`, y sus 4 poses materializadas salieron **sin `GARMENT_CONSISTENCY`, sin `PHOTOREAL_LOCK` y sin ancla de orientación**. `GARMENT_CONSISTENCY` es exactamente el ancla que impide que la prenda se re-estilice entre tomas. **Todo look nuevo se ensambla con el motor** — es la lección, no el parche.
 > - ⏳ **Regenerar 5:** Back View · Side Profile · Ditzy · POV · Odalisque. Standing y Seated quedan válidas. Las 7 poses ya están en 0 anclas faltantes.
+>
+> 🔬 **RE-AUDITADO 17/08/2026 — ahora 7/7 en disco, y las 3 nuevas salieron BIEN.** Tracker corregido de 4/7 a **7/7** (`sync_imagenes_subidas.py`; las tres llegaron el mismo 13/08 y el contador nunca se movió). Auditadas las 7 a 0,80-1,06 MP → `99_Sistema/auditoria_visual_ele_missdoll_20260817.md`.
+> - ✅ **Ditzy, POV y Odalisque quedaron correctas** — son las que se pidieron después, con el texto ya corregido. La regeneración pendiente baja de 5 a **2**.
+> - 🔴 **Back View sigue mal** y suma un defecto que la auditoría del 13/08 no vio: **tatuajes bajando hasta manos y dedos**, contra el `no tattoos and no glyphs` explícito sobre manos/dedos del propio prompt. Más el escenario cambiado a baño con tina y estante BDSM.
+> - 🔴 **Side Profile confirmado como el peor de la flota reciente:** ocho violaciones simultáneas (PVC con ribete rojo, minifalda, medias de red contra `no stockings`, plataforma negra contra acrílico transparente, cofia agregada, estudio victoriano, brazos sin tatuajes, cara distinta).
+> - 🟡 **Deriva entre poses del mismo look:** cruz roja inventada **solo** en Seated · busto que baja de tamaño en Seated y Odalisque · pelo que oscila de cereza a rojo brillante. El **token de calzado aguantó en 6 de 7**.
+> - ⚠️ **Antes de regenerar: reensamblar los 7 prompts con `prompt_builder.py`.** Regenerar sobre el texto escrito a mano repite el defecto.
 
 > ✅ **RESUELTO 15/08/2026 — Nombrado canónico LV-App completado.** Las 10 imágenes de Miss Doll fueron renombradas a `miss_doll_<N>_glacial_command.png` y las de Anaïs a `anais_<N>_sovereign_gaze.png` / `anais_L<NN>_...` para Boudoir, alineando 100% las carpetas en disco, las tablas markdown y el contrato de LV-App (`CharacterProfile.kt` y `GitRepository.kt`). Se eliminaron las versiones duplicadas obsoletas.
 
@@ -112,8 +127,8 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Galería viva (RESET 11/08/2026)** | **Look 01-14 · 98 prompts** bajo el canon revisado del 11/08 | 🟢 Activo |
-| **Materializados** | **86/98** (87.8% · medido 15/08 sobre `git ls-files`): L01, L02, L03, L08, L09, L10, L11, L12, L13, L14 completos (7/7) · **L04 6/7** · **L06 4/7** · **L07 6/7** · **L05 0/7** (12 poses pendientes en total) | 🟡 En curso |
+| **Galería viva** | **Look 01-25 · 175 prompts** (batches: Reset L01-L14 11/08 · Ampliación L15-L20 16/08 · Ampliación II L21-L25 17/08) | 🟢 Activo |
+| **Materializados** | **127/175** (72,6% · medido **17/08/2026** sobre `git ls-files`, contando `.png` **y `.jpg`**): 7/7 en L01, L02, L03, L08, L09, L10, L11, L12, L13, L14, L15, L16, L20, L23, L25 · **L04 6/7 · L07 6/7 · L06 4/7 · L05 2/7 · L17 2/7 · L18 1/7 · L19 1/7** · **L21, L22, L24 sin empezar (0/7)** | 🟡 En curso |
 | **Legacy (Looks 1-40, canon anterior)** | `archivo_legacy_anais_v1.md` — museo, sin retrofit. Imágenes en `05_Imagenes/anais/_ARCHIVO_LEGACY_V1/legacy_look*/` | 🗄️ Archivado |
 | **Boudoir** | 6 (L01-L06), serie aparte con su propia numeración | 🟢 |
 
@@ -132,7 +147,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 > **Tres anclas nuevas en los 98** (`anclas_universales.json` v2.4): **`LEG_CUT_LOCK`** · **`SENSUAL_STATE`** · **`LIVED_IN_ROOM`**. Más biblioteca de 10 arquitecturas de lencería (perfil §5.6), liguero de 6 tirantes inyectado en L01/L05/L07, y el Look 11 corregido de pantalón a pencil skirt.
 > **Orden de regeneración recomendado: L02 · L08 · L09 · L10** (Boudoir — es donde las tres anclas pegan más fuerte), después el resto. Linter: **CRÍTICOS 0**.
 > 🖤 El **catsuit quedó autorizado** (Ama 14/08) pero **ningún look lo usa todavía** — es diseño nuevo, no regeneración.
-> 🖼️ **Desajuste abierto:** `anais_L02_standing.png` convive con `anais_2_standing.png` en `look2_rosa_y_latex/`. La app subió con nombre no canónico y `update_galleries.py` no lo mapea. Falta decisión de la Ama.
+> ✅ **CERRADO 17/08/2026 — el desajuste `anais_L02_standing.png` vs `anais_2_standing.png` ya no existe.** La nota decía "falta decisión de la Ama"; medido contra `git ls-files`, el duplicado no canónico se borró en el commit `accc5649f` («Alineacion canonica de imagenes... segun contrato de LV-App»). `look2_rosa_y_latex/` tiene hoy 7 archivos, uno por pose. *Otro estado que envejeció hacia la mentira: se escribió una vez y nunca se volvió a medir.*
 >
 > ✅ **El Odalisque apaisado (1200×669) NO es defecto — la Ama lo pide así a Gemini** porque la figura reclinada se aprecia mejor en horizontal (12/08/2026). Es el único slot horizontal de su set, es deliberado y **ninguna auditoría futura debe marcarlo.** En canon: `anais.md` §4.
 
@@ -150,7 +165,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **20** (Look 01-20, rotación de los 8 arquetipos) · **140 prompts** | 🟡 **85/140** (L01, L03, L04, L05, L06, L07, L08, L10, L11, L13 completos 7/7 · L02 6/7 · L09 6/7 · L14 3/7 · L12 0/7 · L15-L20 0/7 pendientes de materializar) |
+| **Looks bajo canon nuevo** | **25** (Look 01-25, rotación de los 8 arquetipos) · **175 prompts** | 🟡 **148/175** (84,6% · medido **17/08/2026** sobre `git ls-files`): 7/7 en L01, L03-L08, L10-L20, L25 · **L02 6/7 · L09 6/7 · L24 3/7** · **L21, L22, L23 sin empezar (0/7)** |
 | **Arquetipos** | **8** desde el 13/08/2026 — entra **👙 Bikini / Lencería Erótica al 15%** (Ama), con las siete metas anteriores prorrateadas y frontera escrita contra VIP/Privado. Dueño único: `02_Personajes/_perfiles_visuales/miss_doll.md` §6 | 🆕 |
 | **Estado Actual** | Prompts listos (140/140) y verificados contra el parser de la app (0 críticos). Looks 15 a 20 incorporados el 16/08/2026. | 🟢 |
 
