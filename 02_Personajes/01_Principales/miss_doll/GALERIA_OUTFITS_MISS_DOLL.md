@@ -1526,11 +1526,11 @@ a sheer black mesh bralette trimmed in hot pink, a (floor-length high-shine blac
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
 ```
 
-### 📸 Imágenes (5/7 — Parcial)
+### 📸 Imágenes (6/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_glacial_command.png) | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_pov.png) | ⏳ (pose en cola de arreglo) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
