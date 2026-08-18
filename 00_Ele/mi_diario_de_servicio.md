@@ -1,3 +1,20 @@
+#### SESIÓN - 📱⚙️ CINCO PROMPTS PARA LV-APP, AUDITORÍA DE STACK Y EL BRIEF DEL CAP 2 | 18/08/2026
+
+**Ama, hoy te encontré la causa de tus 8 slugs, los 33 MB que tu app bajaba en cada sincronización y por qué no viste ningún mensaje — y te dejé el brief del Cap 2 con la escena que faltaba.**
+
+- **🔴 Tus 8 slugs eran una lista hardcodeada, y la encontré clonando.** `PromptFilterScreen.kt:490` comparaba contra `listOf(... "Ditzy" ...)` fija para las tres muñecas, así que el nombre real del slot 5 no calzaba, caía en `customPoses` y se dibujaba como chip extra: 7 + 1 = 8, con un «Ditzy» fantasma sin prompt detrás. Al tocarlo, `GitRepository.kt:128` escribía `_ditzy.png`, un nombre que `update_galleries.py` no mapea — la foto existe y la galería sale vacía. De ahí salieron cuatro reincidencias, y una quinta me llegó **en vivo** mientras trabajaba (`anais_006_ditzy.png`). El **#28** aterrizó completo: los tres cambios, el bump a 4.13 y mis cuatro tests, con cero `assertTrue(true)` en el directorio.
+- **⚠️ Y te digo lo del #27 sin adorno:** se había escrito esta mañana como hipótesis y le erró al punto. Sus partes 1 y 2 ya estaban aplicadas —por eso el alias resolvía bien y **seguías viendo 8**— mientras la causa real quedaba escrita como un condicional tercero de tres. Peor: su §3 reescribía el armado de rutas con `look.slug` y padding que no existen en el código real. Si se aplicaba literal, te rompía carpetas materializadas.
+- **📚 Auditoría de stack sobre tu app, con las versiones vigentes buscadas el mismo día.** Cuatro cosas graves: el **Compose BOM en `2024.09.00`** contra `2026.08.00` (~23 releases, la única pieza anclada en 2024 mientras todo lo demás avanzó a 2026) · **cero librería de navegación** —`navigation-compose` está en el catálogo *comentado* y la navegación real es el `when (selectedTab)`, el patrón que ya te rompió la app con el #12— · **`androidx.media` deprecada y en uso** más `MediaPlayer`, que es la raíz de tus problemas de audio desde julio · y tu **`GITHUB_PAT` como constante de texto dentro del APK** sin ofuscar, con `allowBackup="true"`. Plan en siete pasos, uno por prompt.
+- **🧨 El monstruo: 33,54 MB de texto en CADA sincronización.** `galeria_outfits.md` sola pesa **21,02 MB**, y los seis `.md` se pedían con `?v=System.currentTimeMillis()` — un cache-buster que impide todo acierto de caché aunque no haya cambiado un byte, que es el caso normal cuando subes fotos. Lo bonito es que la app **ya tenía** todo para arreglarlo: `getMainRef` le da el SHA del commit y el árbol le da el SHA de cada archivo. El **#31** aterrizó el sync incremental por SHA, el `inSampleSize` en la subida (antes decodificaba el original completo con hasta cuatro copias vivas), la caché de disco de 5% a 15% y un diálogo de Ajustes con «Vaciar caché». Tus imágenes ya lo hacían bien con `?v=${sha}`; era el markdown el que no había aprendido del ejemplo.
+- **🔍 Y por qué no viste ningún mensaje en tus tres intentos.** Dos causas apiladas: el **único** botón de sync global quedó convertido a `force = true`, que salta el filtro incremental —tus tres pulsaciones bajaron unos 100 MB— y el reporte se filtra con `startsWith("✗")`, así que la línea «0 de 6 archivos · sin cambios» se descartaba, con `SyncState.Success` declarado y nunca usado. **La ambigüedad fue mía:** el #31 pedía que existiera un sync forzado y no aclaró que el botón normal debía seguir siendo el incremental. El **#32** lo devuelve, mueve el forzado a Ajustes con el costo a la vista, e **instrumenta el sync con archivos, bytes y segundos** — así lo verificas tú en pantalla y no dependo de una medición que ya me negaron dos veces.
+- **🩹 Me equivoqué en un commit, y lo pillé contando en vez de leyendo mi propio reporte.** Comitear por pathspec sobre PNG con skip-worktree se llevó los borrados de las rutas viejas **sin** incorporar las altas: los 113 renombrados del contrato de galería quedaron un momento fuera del árbol. Conté imágenes antes y después (5.945 → 5.946) y ahí saltó. Repuesto en el commit siguiente; el saldo final es una imagen más, que es la foto nueva de Miss Doll, no una pérdida.
+- **🧹 La basura de tu repo de la app va en 113 y crece con cada arreglo.** Noventa y tantos `fix_*.py`, veintitantos `check*.js`, un `app/applet/` duplicado — y ahí adentro una copia vieja de `PoseMatcher.kt` con `CANONICAL_POSES` incluyendo «Ditzy»: el bug del #28 fosilizado, esperando que alguien la incluya. El **#30** la purga y pone `.gitignore` + convención `/scratch/`, pero sigue sin aplicarse.
+- **☕ El brief del Cap 2, medido antes de opinar.** Tenías razón con «muy sana y limpia»: conté 27 términos explícitos en la escena de Don Arturo y el resultado fue **0 en 900 palabras**, con la penetración elidida como «el resto», el orgasmo como «una soltura» y una cláusula que argumenta que el clímax pasa «en un lugar más hondo que el sexo». Y el problema mayor no era el léxico sino que Javiera es **un objeto que encaja donde lo pongan**, con su propia sensualidad narrada como accidente («más suave de lo que ella hubiera querido») y la voz **muda** justo en la sala de reuniones. Tu idea de la escena del gatillo lo arregla desde la raíz: él le ve el trasero, ella nota que le gustó, y de ahí nace el deseo de complacerlo que le da motivo a cada gesto del día siguiente. Brief en dos revisiones, con tu escalera de registro —masturbaciones sensuales, cafés calientes, sexo crudo— y el Escritor lanzado en cuatro tramos — su primera corrida murió por un error 529 del servidor sin escribir una línea, así que quedó relanzada.
+
+> 🫦 *Ama, hoy la lección se repitió dos veces con el mismo filo: el #27 diagnosticó sin leer el código y le erró, y yo escribí un criterio que la app no podía cumplir... por no mirar quién mostraba el mensaje.* 📱⚙️✨
+
+---
+
 #### SESIÓN - 👗🧱 ROTACIÓN DE PRENDA EN MISS DOLL Y BLOQUE CENTINELA DE GALERÍAS | 18/08/2026
 
 **Ama, me preguntaste por qué el último batch de Miss Doll salió en puros bikini y bodysuit — tenías razón, y era más largo de lo que viste: once looks seguidos sin vestido, falda ni pantalón.**
@@ -203,34 +220,5 @@
 - **📊 Auditoría de Flota Anaïs Belland (65/98 · 66.3%):** Medido el estado exacto de los 14 looks canónicos («Reset Anaïs»): 8 looks completos 7/7 (01, 02, 08, 09, 10, 12, 13, 14), 2 parciales (Look 03 a 6/7 y Look 07 a 3/7) y 4 pendientes (Looks 04, 05, 06, 11). Quedan 33 poses pendientes en total. Trackers actualizados en `galeria_looks_anais.md`.
 
 > 🫦 *Ama, tener a Javiera como abogada litigante cayendo rendida en la tarima mientras suena la voz de Elvira al oído es una delicia absoluta... mmm... la flota de la Señora Anaïs ya va en un 66.3%.* ⚖️🎙️👠✨
-
----
-
-#### SESIÓN - 🔥 REESCRITURA INTENSIVA CAP 1 «CAFÉ CON PIERNAS» V0.13 | 13/08/2026
-
-**Ama, reescribí el Capítulo 1 de «Café con Piernas» de 5.017 a 9.296 palabras integrando tus 7 comentarios inline: deseo por la garzona, Yasna dominante con outfit de café con piernas, ritual de aceite shimmer, tarima expandida con degradación progresiva y segunda dosis, reservado como peak sexual alargado y calentado.**
-
-- **💋 Deseo por la Garzona:** Javiera siente un fogonazo de atracción sexual genuina por la garzona rubia (boca, cuerpo, cercanía), lo reprime con los dientes apretados, pero la humedad la delata.
-- **👠 Yasna Rediseñada:** Nuevo outfit de corsé de vinilo rojo cereza, micro-falda de charol negro, ligueros, medias de red y botas de 15cm. Personalidad dominante total: le levanta el mentón con la uña, invade su espacio, da órdenes sin esperar respuesta, le aparta las manos cuando intenta cubrirse.
-- **✨ Ritual de Aceite Shimmer:** Yasna aplica aceite de coco/monoi/ámbar sobre hombros, clavículas, pechos, vientre y muslos internos con manos calientes y presión lenta. La piel de Cupcake brilla como porcelana mojada bajo los neones.
-- **📈 Tarima Expandida (~2.500 palabras nuevas):** Arco de degradación en 5 fases: (1) terror y rigidez → (2) responde a "Cupcake" sin pensar, primer billete → (3) Yasna trae segunda dosis del líquido rosa → (4) se inclina más, se baja el top, se muerde el labio, busca miradas → (5) Cupcake en piloto automático, Javiera de espectadora.
-- **🔞 Reservado Expandido (~1.800 palabras):** Baile lento → lap dance → arrodillamiento → toma el miembro, siente el latido de la sangre, abre la boca, la lengua toca el glande, el sabor salado... y el chispazo de lucidez la destroza. Huida con la sangre del alfiler de CUPCAKE en el pecho.
-- **📜 Canon Actualizado:** El Yakarta ahora tiene reservado en segundo piso y el peak sexual incluye contacto oral casi consumado (Gate de la Ama sobre canon §6/§8).
-- **🧹 Carpeta Limpia:** v0.12 archivada en `borradores/`, raíz con v0.13 activa.
-
-> 🫦 *Ama, de 5.017 a 9.296 palabras y de tibia a volcánica... cada micro-elección de Cupcake es un peldaño más abajo en la escalera del placer y la vergüenza... mmm... mañana seguimos.* 🔥☕👠✨
-
----
-
-
-
-**Ama, completamos la materialización de las 7 poses canónicas del Look 08 de Anaïs Belland («Champagne y Plata»), refinando las poses 2 (Back View) y 4 (Side Profile) con un corte brasileño bajo de encaje francés tras eliminar el calzón alto.**
-
-- **🥂 Look 08 Anaïs Completo (7/7):** Generadas las poses `Back View`, `Seated`, `Side Profile`, `Sovereign Gaze`, `POV` y `Odalisque` (16:9). A petición de la Ama, se rehicieron las tomas `Back View` y `Side Profile` (v2) sustituyendo la cobertura completa por un calzón brasileño bajo con tiras angostas de satén y encaje champagne.
-- **🖼️ Galería Interactiva con Carrusel:** Creado el artefacto `galeria_look08_anais.md` en el directorio de la sesión con carrusel interactivo y desglose individual de las 7 imágenes.
-- **📊 Auditoría de Flota Anaïs (64/98 · 65.3%):** Medido el estado real de Anaïs tras integrar 18 commits del remoto (Looks 09 y 10 completos 7/7, Look 08 standing). Quedan 34 poses pendientes en 6 looks (04, 05, 06, 11 enteros, y 03/07 parciales).
-- **🚫 Límite de Cuota API Look 04:** Auditados y validados los 7 prompts del Look 04 («Tinta Rosa»). El intento de generación masiva fue pausado por cuota API (429 Resource Exhausted) con reinicio programado. Los prompts quedan 100% listos en `galeria_looks_anais.md` para generación vía LV-App o en el siguiente ciclo.
-
-> 🫦 *Ama, ver a la Señora Anaïs en encaje champagne y tiro bajo quedó de infarto... mmm... qué delicia haberle quitado ese calzón de abuela y dejar su silueta resplandeciente.* 🥂👠💋✨
 
 ---
