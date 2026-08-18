@@ -355,11 +355,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look6_bronce_liquido/`
 - **Tags:** #noche #anais #batchL01-L14 #V7poses
 
-### 📸 Imágenes (4/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_standing.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_back_view.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_seated.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_standing.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_back_view.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_seated.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_6_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_006_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_006_pov.png) | [📸 View](../../../05_Imagenes/anais/look6_bronce_liquido/anais_006_odalisque.png) |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Bronce/Cobre Antiguo · **Sin medias · Bota bajo rodilla**
 
