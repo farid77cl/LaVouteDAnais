@@ -1779,3 +1779,19 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Negative Prompt:** `bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text`
 
 ---
+
+## Cierre de galeria — bloque centinela (18/08/2026)
+
+Este bloque no es un outfit y el parser de LV-App no lo cuenta como tal: su
+encabezado no contiene la palabra clave seguida de un numero, que es lo unico
+que la app busca para abrir una ficha nueva.
+
+Existe porque la Ama reporto ver **24 outfits de Anais cuando el archivo tiene
+25**, y medido repo-side el 25 esta completo y correcto: encabezado sano (sin
+caracteres invisibles), `Ubicacion`, `Tags`, sus 7 prompts expandidos y su
+`Negative Prompt` legible, con numeracion sin duplicados ni huecos. La unica
+diferencia estructural que lo separaba del resto era ser **el ultimo bloque del
+archivo** — sin nada despues que cerrara su ficha.
+
+Este centinela le da ese cierre. Se mantiene SIEMPRE al final: cuando entre un
+look nuevo, va antes de este bloque, nunca despues.

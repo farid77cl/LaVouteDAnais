@@ -192,6 +192,18 @@ Ningún batch se commitea con el linter en rojo.
 
 ---
 
+## 9quater. 🧱 BLOQUE CENTINELA AL CIERRE DE CADA GALERÍA (18/08/2026)
+
+Toda galería termina con un **bloque centinela** — un encabezado que el parser NO cuenta como look (no lleva la palabra clave seguida de número) y un párrafo que explica para qué está. **Ningún look puede ser el último bloque del archivo.**
+
+**Por qué:** la Ama reportó ver **24 outfits de Anaïs teniendo 25**. Medido repo-side, el Look 25 está intacto: encabezado sano (verificado byte a byte, sin caracteres invisibles), `Ubicacion`, `Tags`, sus 7 prompts expandidos, `Negative Prompt` legible, numeración 1-25 sin duplicados ni huecos, y las 25 carpetas de imágenes existen. Parseado con el algoritmo de la app da **25**. La **única** diferencia estructural entre el Look 25 y los 24 que sí se ven era ser el último bloque, sin nada que cerrara su ficha.
+
+**Cuando entra un look nuevo va ANTES del centinela, nunca después.**
+
+> ⚠️ **Esto es una hipótesis con fundamento, no una causa confirmada** — la confirmación vive en el código de LV-App, que es otro repo. Y hay evidencia en contra que no se esconde: el **Look 801 de Ele** también es el último de su galería y la app **sí** lo ingirió (tiene sus 7 imágenes subidas). Si tras este cambio la app sigue mostrando 24, la causa es otra y el diagnóstico se retoma con el código de la app en mano. El centinela es barato y no rompe nada — el linter sigue leyendo 602/25/25 con él puesto — pero no se declara resuelto hasta que la Ama vea 25.
+
+---
+
 ## 9ter. 🧩 EL CONTRATO ES MULTI-PERSONAJE (12/08/2026)
 
 Este archivo nació para `00_Ele/galeria_outfits.md`, pero **el parser de la app es uno solo**: las mismas reglas rigen `GALERIA_OUTFITS_MISS_DOLL.md`, `galeria_looks_anais.md` y la galería de cualquier personaje que se agregue. Las diferencias por personaje (nombre del slot 5, prefijo de archivo, carpeta) viven en su **perfil visual §10** y en `99_Sistema/scripts/visual/anclas_universales.json`, no aquí.
