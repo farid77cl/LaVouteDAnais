@@ -32,7 +32,9 @@
 
 El Cap 1 v0.14 está **APROBADO y no se reescribe**. Pero el §6b-bis pide que el vaso *"exista y nunca se confirme"*, y este capítulo es el lugar natural para desconfirmarlo — **sin retro-editar nada**:
 
-En algún punto del Movimiento 1, Javiera, sobria y a días de distancia, se ofrece a sí misma la excusa del vaso… **y la descarta.** No porque sepa qué llevaba —no lo sabe y no lo va a saber nunca— sino porque **volvió**. Nadie la hizo volver. Ese párrafo es la Ley 1 puesta en la boca del personaje y le quita la excusa a ella y al lector de una sola vez.
+En algún punto del Movimiento 1, Javiera, sobria y a días de distancia, se ofrece a sí misma la excusa del vaso… **y la descarta.** No porque sepa qué llevaba —no lo sabe y no lo va a saber nunca— sino porque **lo que está haciendo ahora el vaso no lo explica**: no renunció, no llamó a decir que no vuelve, el puesto sigue siendo suyo y ella no ha hecho nada por soltarlo. Guardó los billetes en vez de botarlos, los huele, y con esa misma plata se está comprando cosas. **Nada de eso lo bebió.** Ese párrafo es la Ley 1 puesta en la boca del personaje y le quita la excusa a ella y al lector de una sola vez.
+
+> ⚠️ **Anclaje corregido (lo pilló el Escritor, verificado contra `cronologia.md`):** la rev.3 fundaba esto en que Javiera *"volvió"*, y **eso es un callback sin ancla** — la cronología dice que huye del reservado el **Día 8** y no entra de nuevo al Yakarta hasta el **Día 21**, al cierre del capítulo. El argumento se apoya solo en hechos escritos y anteriores: el puesto que no soltó y la plata que guardó y está gastando. **No inventar un regreso que no ocurrió.**
 
 **Eso convierte la Ley 1 en el motor erótico del capítulo, no en su límite:** el asco y el calor duelen justamente porque **son suyos** y no hay a quién culpar.
 
