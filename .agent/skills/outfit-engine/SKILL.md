@@ -60,11 +60,17 @@ Antes de proponer cualquier look, consultar la galería del personaje y **bloque
 **Protocolo:**
 1. Consultar los últimos N looks **del mismo sub-arquetipo** (N = ventana del perfil §7).
 2. Listar qué **siluetas** y **settings** quedan bloqueados.
-3. Consultar los últimos looks **globales** para las reglas de composición (ej. anti-monoblock: máx. 2 consecutivos).
+3. Consultar los últimos looks **globales** para las reglas de composición (ej. anti-monoblock: máx. 2 consecutivos) **y para la arquitectura de prenda** (ver aviso abajo).
 4. Contar cada **cuota viva** del §8. Si una está vencida → este look **debe** cumplirla.
 5. Recién entonces avanzar.
 
 **El resultado del Paso 0 se escribe explícitamente** antes de diseñar: *"Bloqueadas: siluetas X, Y · settings Z · monoblock NO disponible · cuota animal print VENCIDA → obligatoria"*. Un Paso 0 que no deja rastro escrito es un Paso 0 que no se hizo.
+
+> ⚠️ **Una ventana alcanzada POR ARQUETIPO puede no dispararse nunca (18/08/2026).** Miss Doll acumuló **once looks seguidos sin vestido, falda ni pantalón** (L15-L25) con la ventana de silueta del §7 activa y el déficit de arquetipos en meta: como el batch rota arquetipo en cada look, dos vecinos casi nunca comparten arquetipo, así que la regla **no se disparó ni una vez en 25 looks**. Una regla que no se puede disparar es una regla que no existe.
+>
+> **Qué mirar en un motor nuevo:** ¿el eje que quiero proteger es de arquetipo o del roster completo? Composición, arquitectura de prenda y cromatismo son **globales**; detalle de silueta y setting son **por arquetipo**. Y la contracara: §6 gobierna el **escenario**, nunca la **prenda** — si nadie declara un eje de prenda, la prenda queda a mano alzada y converge sola.
+>
+> **Dónde vive:** `anclas_universales.json` → `arquitecturas_de_prenda` (taxonomía M1-M10 genérica) + `personajes.<slug>.rotacion_prenda` (ventana global · cuota de silueta cubierta · `desde_look`). El **chequeo 12** del linter lo mide. Se clasifica **solo el BLOQUE B**, nunca el prompt ensamblado: sus propias anclas nombran bikini, bodysuit, dress y skirt — clasificar sobre el prompt completo es el clasificador leyéndose a sí mismo.
 
 ---
 

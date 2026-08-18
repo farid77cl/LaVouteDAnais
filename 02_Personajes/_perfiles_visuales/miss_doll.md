@@ -182,6 +182,37 @@ El BLOQUE B debe nombrar, sin excepción:
 
 > 🔓 **Corsé derogado como obligatorio (Ama 11/08/2026):** hasta hoy el corsé era "centro del look, ningún outfit de Miss Doll carece de él" (§8, §9 viejos). Con el nuevo abdomen tonificado (§2, rediseño de cuerpo del mismo día) la Ama pidió dejarlo de exhibir sin corsé cuando el look lo pida — el corsé sigue siendo válido y sigue siendo su pieza de firma más reconocible, pero ya no es un campo obligatorio en cada BLOQUE B. **Lo único que sigue siendo 100% inamovible es el calzado con plataforma (§5.3).**
 
+### 5.6 · 👗 Biblioteca de arquitecturas de prenda (Ama 18/08/2026)
+
+> **Por qué nace, medido antes de escribirla.** La Ama levantó sobre el batch L21-L25: *"¿por qué salieron puros bikini y bodysuit?"*. Se auditaron los 25 looks contra su BLOQUE B y su lectura era correcta y además corta: **desde el Look 15 hasta el 25 van once looks seguidos sin un solo vestido, falda ni pantalón**. Último vestido L13, última falda L09, último pantalón L12 — todo lo cubierto vive en la primera era y nada después. Flota completa: **72% arquitectura de piel** (lencería 8 · bodysuit 5 · bikini 3 · catsuit 2) contra **28% cubierta**, y ese 28% entero está en L01-L14.
+>
+> **La causa NO fue el déficit de arquetipos:** se midió y está impecable (Club 20% vs meta 18 · Bikini 16% vs 15 · Calabozo 12% vs 13 · VIP 12% vs 12 · Gym 12% vs 12 · Girly 12% vs 12 · Penthouse 8% vs 9 · Editorial 8% vs 9). El log del motor (`99_Sistema/logs/outfit_engine.jsonl`) confirma 50 builds el 17/08 con **0 fallas**. Nada falló técnicamente.
+>
+> **Las tres causas reales:**
+> 1. **§6 gobierna el ESCENARIO, no la PRENDA.** Los ocho arquetipos dicen *dónde está*, nunca *qué arquitectura lleva puesta*. La prenda quedaba a mano alzada en cada look, y a mano alzada un personaje de club sale siempre en segunda piel.
+> 2. **§7 tenía la ventana mal alcanzada:** *"silueta ≥3 looks del mismo arquetipo"*. Como el batch rota arquetipo en cada look, **la ventana no se disparaba nunca**. En Ele la misma regla sí ata porque tiene ~50 looks por sub-arquetipo; con 25 repartidos en 8, no.
+> 3. **Cuatro reglas empujaban al mismo lado y ninguna de vuelta:** arquetipo Bikini/Lencería al 15% (13/08) · `BOTTOM_CUT_LOCK` de tanga universal (13/08) · corsé derogado con el abdomen como foco (11/08) · piso de bata abierta en VIP/Penthouse (12/08).
+> 4. **Y la raíz:** Ele tiene `00_Ele/biblioteca_siluetas.md`; Anaïs tiene dos (§5.6a vestidos D1-D10 + §5.6 lencería). **Miss Doll no tenía ninguna.** Su vestuario no rotaba porque no había de dónde rotar — el mismo modo de falla que su repertorio de cámara antes del 13/08 (§4).
+
+**Las diez arquitecturas. La columna que manda es COBERTURA, no el estilo:**
+
+| # | Arquitectura | Cobertura | Descripción | Arquetipos naturales |
+|---|---|---|---|---|
+| **M1** | **Bodysuit segunda piel** | 🔥 piel | Una pieza ceñida de vinilo/látex, cutouts geométricos, escote plunge, fondo en tanga | Club · Editorial · Calabozo |
+| **M2** | **Bikini / micro dos piezas** | 🔥 piel | Triangle top + tanga, crystal mesh o vinilo, la prenda ES el sujeto de la toma | Bikini/Lencería · Gym |
+| **M3** | **Conjunto de lencería** | 🔥 piel | Sujetador (demi/balconette/plunge/halter) + tanga + liguero + medias opcional | Bikini/Lencería · VIP · Girly |
+| **M4** | **Corsetería + tanga** | 🔥 piel | Corsé overbust/underbust estructurado como pieza central, pierna libre | Calabozo · Editorial · VIP |
+| **M5** | **Arnés / fashion-bondage sobre piel** | 🔥 piel | Correas finas tipo joyería como prenda principal, mínima tela | Calabozo · Club |
+| **M6** | **Vestido de segunda piel** | 👗 **cubierta** | Mini o midi de vinilo/látex/wet-satin, ceñido, con tajo alto o espalda descubierta | Penthouse · Editorial · VIP · Club |
+| **M7** | **Minifalda + top** | 👗 **cubierta** | Dos piezas cubiertas: falda de vinilo/PVC + crop top, bralette estructurado o corsé encima | Club · Girly · Editorial |
+| **M8** | **Pantalón / legging + top** | 👗 **cubierta** | Legging de látex, bike short alto, pantalón de vinilo — con top o bra deportivo | Gym · Club · Penthouse |
+| **M9** | **Catsuit / unitard de pierna completa** | 👗 **cubierta** | Cuerpo entero **hasta el tobillo**. El BLOQUE B **debe nombrar el largo de pierna** (`full-length legs to the ankle`) — si no lo nombra, no cuenta como cubierta | Calabozo · Gym · Editorial |
+| **M10** | **Slip dress / vestido de malla sobre lencería** | 👗 **cubierta** | Vestido translúcido o de malla que deja leer el conjunto debajo — cubre la silueta sin tapar el morbo | VIP · Penthouse · Girly |
+
+> 🚫 **La bata abierta y la capa NO son arquitectura cubierta — son capa.** Esto es exactamente lo que pasó en L22 (bralette + capa de vinilo) y L25 (lencería + bata de chiffon): las dos se leen como lencería porque la pieza abierta **enmarca, no cubre**. La bata sigue siendo obligatoria donde §5.1b la manda; simplemente no paga la cuota de §8. Se cuenta lo que hay **debajo**.
+
+> 🔒 **Nombrar el largo es parte del ancla, igual que en `BOTTOM_CUT_LOCK`.** M9 solo cuenta como cubierta si el BLOQUE B escribe el largo de pierna con todas sus letras. El atributo que no se nombra lo resuelve el generador — y su default acá es cortar en la cadera y devolver otro bodysuit.
+
 ---
 
 ## §6 · Arquetipos y Metas (rediseñado 11/08/2026 — filtro stripper + domme + fashionista + cuerpo de gimnasio)
@@ -214,11 +245,15 @@ El BLOQUE B debe nombrar, sin excepción:
 
 | Elemento | Ventana |
 |---|---|
-| Silueta | ≥ 3 looks del mismo arquetipo |
+| **Arquitectura de prenda (§5.6, M1-M10)** | **≥ 3 looks GLOBALES — no por arquetipo** ⚠️ ver nota |
+| Silueta (detalle: escote, corte, estructura) | ≥ 3 looks del mismo arquetipo |
 | Setting / escenario | ≥ 3 looks del mismo arquetipo |
 | Modo cromático monoblock | máx. 2 consecutivos globales |
 
+> ⚠️ **La ventana de arquitectura es GLOBAL a propósito (Ama 18/08/2026).** Las otras dos filas están alcanzadas *por arquetipo*, y ese alcance es exactamente lo que dejó pasar once looks seguidos sin prenda cubierta (§5.6): como el batch rota arquetipo en cada look, dos vecinos casi nunca comparten arquetipo y la ventana no se disparaba **jamás**. La arquitectura de prenda se mide contra los **3 looks anteriores del roster completo**, sin importar dónde esté parada.
+
 - **Outfit único:** sí. Miss Doll no repite outfit.
+- **La rotación aplica también DENTRO de la familia de piel.** La Ama lo dijo explícito (18/08/2026): *"me gusta el bikini y bodysuit, pero quiero ver variedad de outfits"*. La cuota de §8 le pone piso a lo cubierto; **esta ventana obliga a que M1-M5 tampoco se repitan entre sí** — tres bodysuits en cuatro looks viola la regla igual que tres vestidos seguidos. Ninguna de las dos reglas saca el bikini ni el bodysuit del repertorio: los ordena.
 
 ---
 
@@ -229,6 +264,7 @@ El BLOQUE B debe nombrar, sin excepción:
 | **Rosa firma presente** | **todos los looks** | Cualquier prenda, calzado o accesorio |
 | **Calzado con plataforma** | **todos los looks, sin excepción** | La única pieza 100% inamovible del vestuario (11/08/2026) |
 | ~~Arquitectura de corsé visible~~ | ~~todos los looks~~ | **Derogada 11/08/2026 — ahora opcional, ver §5.5** |
+| **👗 Silueta cubierta** *(nueva 18/08/2026)* | **≥ 1 de cada 4 looks nuevos** | Global, cualquier arquetipo. "Cubierta" = **M6-M10** de §5.6 (vestido · falda+top · pantalón/legging · catsuit de pierna completa · slip dress). **La bata abierta y la capa NO pagan esta cuota** — enmarcan, no cubren: se cuenta lo que hay debajo. Vigente **desde el Look 26**; el roster L01-L25 no se retrofitea (convención retrofit-al-tocar) |
 | **👘 Bata abierta** *(nueva 12/08/2026)* | **≥ 1 de cada 2 looks nuevos de VIP/Privado y Penthouse/Off-duty** | Exclusiva de esos dos arquetipos — no aplica a Club/Calabozo/Gym/Girly Girl/Editorial. Piso medido sobre el roster actual (2/4); no baja hacia adelante. Alterna con slip-dress de una pieza. Ver §5.1b |
 
 ---

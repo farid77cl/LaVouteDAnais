@@ -129,6 +129,34 @@
     "porque": "Segunda capa de los defectos transversales (collage, figura duplicada, anatomía, selfie, texto sobre prenda). NO reemplaza a las anclas afirmativas del positive — Gemini ignora el negative con frecuencia — pero se agrega siempre al negative base de CUALQUIER personaje.",
     "texto": "collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text"
   },
+  "arquitecturas_de_prenda": {
+    "_dueno_unico": "Taxonomia maquina-legible de las 10 arquitecturas de prenda. La biblioteca narrada (con que arquetipo va cada una y por que) vive en 02_Personajes/_perfiles_visuales/miss_doll.md §5.6 — esto es su copia operativa para que el linter pueda medir. Si se edita un lado, editar el otro.",
+    "_porque": "Ama 18/08/2026: '¿por que salieron puros bikini y bodysuit?'. Medido sobre los 25 looks de Miss Doll: desde el L15 al L25 van ONCE looks seguidos sin vestido, falda ni pantalon; 72% de la flota es arquitectura de piel y todo lo cubierto vive en L01-L14. La causa no fue el deficit de arquetipos (medido: los 8 en meta) sino que §6 gobierna el ESCENARIO y nadie gobernaba la PRENDA, y que la ventana anti-repeticion estaba alcanzada por arquetipo — con 8 arquetipos rotando, dos looks vecinos casi nunca comparten arquetipo y la ventana no se disparaba jamas.",
+    "_quien_la_usa": "La taxonomia es generica (vive aca, no en un personaje), pero la REGLA se activa solo donde `personajes.<slug>.rotacion_prenda` existe — hoy solo miss_doll. NO se generaliza a las otras dos y el motivo es de canon, no de olvido: Ele tiene su propia biblioteca de siluetas por sub-arquetipo (00_Ele/biblioteca_siluetas.md, 10 specs) y Anais viste SOLO vestido o falda desde el 13/08/2026 — imponerle una cuota de 'silueta cubierta' seria redundante y una de 'variedad de arquitectura' la sacaria de su canon Vintage Noir.",
+    "_como_se_clasifica": "SOLO sobre el BLOQUE B del look. NUNCA sobre el prompt ensamblado ni sobre el titulo: BOTTOM_CUT_LOCK nombra 'bikini bottom', 'bodysuit, teddy, leotard or swimsuit', 'boyshort' y 'culotte'; DRESS_LEG_CLOSURE nombra 'dress, skirt or robe'; GARMENT_CONSISTENCY nombra 'two-piece'. Clasificar sobre el prompt completo seria el clasificador leyendose a si mismo (mismo modo de falla que el barrido de marcas del 19/07/2026, que pinto runas sobre tela por leer el titulo del look).",
+    "_regex_ausencias": "\\bno\\s+(corset|corsets|stockings|bra|bralette|jewelry|jewellery|gloves|skirt|dress|harness|bikini)\\b",
+    "_nota_ausencias": "Se borran del BLOQUE B ANTES de clasificar. Un 'no corset' declarado como ausencia hacia que el look se clasificara como corseteria — la misma frase que GARMENT_EXCLUSION_LOCK existe para neutralizar en el generador.",
+    "orden": [
+      { "codigo": "M10", "nombre": "Slip dress / vestido de malla sobre lenceria", "cobertura": "cubierta", "regex": "slip dress|sheer[^.]{0,30}\\bdress\\b|mesh[^.]{0,25}\\bdress\\b" },
+      { "codigo": "M6", "nombre": "Vestido de segunda piel", "cobertura": "cubierta", "regex": "\\bdress\\b|\\bgown\\b" },
+      { "codigo": "M7", "nombre": "Minifalda + top", "cobertura": "cubierta", "regex": "\\bskirt\\b" },
+      { "codigo": "M8", "nombre": "Pantalon / legging + top", "cobertura": "cubierta", "regex": "\\bleggings?\\b|\\btrousers\\b|\\bpants\\b|bike shorts|hot pants" },
+      { "codigo": "M9", "nombre": "Catsuit / unitard de pierna completa", "cobertura": "cubierta", "regex": "\\bcatsuit\\b|\\bunitard\\b|\\bjumpsuit\\b",
+        "requiere_para_cubierta": "full-length|full length|ankle-length|to the ankle|down to the ankles?|legs fully covered",
+        "si_falta": "El BLOQUE B nombra catsuit/unitard sin declarar el LARGO DE PIERNA -> no paga la cuota de silueta cubierta. Mismo modo de falla que BOTTOM_CUT_LOCK: el atributo que no se nombra lo resuelve el generador, y su default aqui es cortar en la cadera y devolver otro bodysuit." },
+      { "codigo": "M4", "nombre": "Corseteria + tanga", "cobertura": "piel", "regex": "\\bcorset\\b|\\bbustier\\b|waist cincher" },
+      { "codigo": "M1", "nombre": "Bodysuit segunda piel", "cobertura": "piel", "regex": "\\bbodysuit\\b|\\bteddy\\b|\\bleotard\\b" },
+      { "codigo": "M2", "nombre": "Bikini / micro dos piezas", "cobertura": "piel", "regex": "\\bbikini\\b|\\bswimsuit\\b|triangle top" },
+      { "codigo": "M3", "nombre": "Conjunto de lenceria / dos piezas de piel", "cobertura": "piel",
+        "regex": "\\bbralette\\b|\\bbra\\b|lingerie set|demi-cup|balconette|halter top|crop top|micro top|\\bthong\\b",
+        "_nota": "Va ULTIMA de las de piel a proposito, salvo M5: es el cajon de las dos piezas. El Look 01 ('micro halter top' + 'micro thong', sin la palabra bra en ninguna parte) quedaba sin clasificar con el regex original — por eso entran aqui 'halter/crop/micro top' y 'thong' como red de seguridad. Corseteria (M4), bodysuit (M1) y bikini (M2) se evaluan antes, asi que un corse con tanga sigue siendo M4." },
+      { "codigo": "M5", "nombre": "Arnes / fashion-bondage sobre piel", "cobertura": "piel", "regex": "\\bharness\\b" }
+    ],
+    "no_cuentan_como_cubierta": {
+      "piezas": ["robe", "kimono", "cape", "coat", "jacket"],
+      "porque": "La bata abierta y la capa ENMARCAN, no cubren. Medido en el L22 (bralette + capa de vinilo) y el L25 (lenceria + bata de chiffon): los dos se leen como lenceria. Ademas §5.1b del perfil de Miss Doll ordena que la bata sea SIEMPRE abierta y desde el 17/08/2026 semitransparente — o sea esta escrita para no cubrir. Se cuenta lo que hay DEBAJO."
+    }
+  },
   "slots_universales": [
     "standing",
     "back_view",
@@ -305,6 +333,15 @@
       "anclas_siempre": [
         "BOTTOM_CUT_LOCK"
       ],
+      "rotacion_prenda": {
+        "_porque": "Ama 18/08/2026, sobre el batch L21-L25: 'si, quiero variedad, me gusta el bikini y body suit, pero quiero ver variedad de outfits'. No se saca ninguna arquitectura del repertorio: se ordenan. Dueño narrado: perfil §5.6 + §7 + §8.",
+        "ventana_global": 3,
+        "_ventana_porque": "GLOBAL, no por arquetipo. Las ventanas de silueta y setting del perfil §7 estan alcanzadas por arquetipo y por eso no se dispararon nunca: con 8 arquetipos rotando, dos looks vecinos casi nunca comparten arquetipo. Esta se mide contra los 3 looks anteriores del roster completo. Obliga a rotar TAMBIEN dentro de la familia de piel (tres bodysuits en cuatro looks viola igual que tres vestidos).",
+        "cuota_cubierta": { "cada": 4, "minimo": 1 },
+        "_cuota_porque": "25%, elegido por la Ama el 18/08/2026. Cubierta = M6-M10. La bata abierta y la capa NO la pagan (ver arquitecturas_de_prenda.no_cuentan_como_cubierta).",
+        "desde_look": 26,
+        "_desde_look_porque": "El roster L01-L25 NO se retrofitea — convencion retrofit-al-tocar del repo, la misma que se aplico con la bata semitransparente y con las anclas del 17/08. Bajo el L26 el chequeo reporta AVISO (deja ver la deriva historica sin condenar looks ya materializados); desde el L26 es CRITICO y bloquea el commit del batch."
+      },
       "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon.",
       "conflicto_resuelto_13_08_2026": "Las 'piernas en V' de su Throne en Suelo CHOCAN con DRESS_LEG_CLOSURE (Ama 13/08/2026) cuando el look es de vestido/falda/bata. Gana la directiva de la Ama: en esos looks el Odalisque se resuelve con las dos piernas plegadas hacia un lado (sirena), NO en V. La V queda reservada a los looks de calzón/bikini/catsuit. Codificado en el perfil §4 y en repertorios_pose.json."
     },

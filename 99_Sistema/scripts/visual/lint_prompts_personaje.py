@@ -34,6 +34,29 @@ VERIFICA (por personaje registrado en anclas_universales.json)
  11. Prefijo cinematografico que no corresponde al          -> CRITICO
      Arquetipo declarado (solo personajes con tabla de
      prefijos_arquetipo en anclas_universales.json)
+ 12. Rotacion de ARQUITECTURA DE PRENDA: repeticion dentro   -> AVISO / CRITICO
+     de la ventana global + cuota de silueta cubierta
+     (solo personajes con rotacion_prenda)
+
+CHEQUEO 12 — POR QUE EXISTE
+----------------------------
+El 18/08/2026 la Ama pregunto sobre el batch L21-L25 de Miss Doll: "¿por que
+salieron puros bikini y bodysuit?". Medido sobre sus 25 looks: desde el L15 al
+L25 van ONCE looks seguidos sin un solo vestido, falda ni pantalon — 72% de la
+flota es arquitectura de piel y el 28% cubierto vive entero en L01-L14.
+
+La causa NO fue el motor: el log (99_Sistema/logs/outfit_engine.jsonl) da 50
+builds con 0 fallas y el deficit de arquetipos estaba en meta en los 8. La
+causa fue de diseno: §6 del perfil gobierna el ESCENARIO y nadie gobernaba la
+PRENDA, y la ventana anti-repeticion de §7 estaba alcanzada POR ARQUETIPO — con
+8 arquetipos rotando, dos looks vecinos casi nunca comparten arquetipo, asi que
+la ventana no se disparo ni una vez en 25 looks. Una regla que no se puede
+disparar es una regla que no existe.
+
+Se clasifica SOLO el BLOQUE B, jamas el prompt ensamblado: BOTTOM_CUT_LOCK
+nombra "bikini bottom" y "bodysuit, teddy, leotard or swimsuit", y
+DRESS_LEG_CLOSURE nombra "dress, skirt or robe". Clasificar sobre el prompt
+completo seria el clasificador leyendose a si mismo.
 
 CHEQUEO 11 — POR QUE EXISTE
 ----------------------------
@@ -108,6 +131,46 @@ def extraer_arquetipos(texto):
         if m and num_actual is not None and num_actual not in arquetipos:
             arquetipos[num_actual] = m.group(1).strip()
     return arquetipos
+
+
+BLOQUE_B = re.compile(r"\*\*BLOQUE B[^\n]*\n```text\n(.*?)\n```", re.S)
+
+
+def extraer_bloques_b(texto):
+    """Mapa {numero_de_look: texto del BLOQUE B}.
+
+    Pasada aparte, igual que `extraer_arquetipos`: el BLOQUE B es la unica
+    fuente valida para clasificar la arquitectura de prenda. El prompt
+    ensamblado NO sirve — sus propias anclas nombran bikini, bodysuit, dress y
+    skirt (ver el chequeo 12 en el docstring)."""
+    bloques = {}
+    heads = list(re.finditer(r"^#+ .*?\b(?:Look|Boudoir)\s+(?:[A-Za-z]+)?(\d+)\b", texto, re.M))
+    for i, h in enumerate(heads):
+        fin = heads[i + 1].start() if i + 1 < len(heads) else len(texto)
+        num = int(h.group(1))
+        m = BLOQUE_B.search(texto, h.end(), fin)
+        if m and num not in bloques:
+            bloques[num] = m.group(1).strip()
+    return bloques
+
+
+def clasificar_arquitectura(bloque_b, tax):
+    """(codigo, cubierta_bool, aviso_o_None) para un BLOQUE B.
+
+    Primero borra las AUSENCIAS declaradas (`no corset`, `no stockings`): sin
+    eso un look que dice literal "no corset" se clasificaba como corseteria."""
+    b = re.sub(tax["_regex_ausencias"], " ", bloque_b.lower())
+    for regla in tax["orden"]:
+        if not re.search(regla["regex"], b):
+            continue
+        cubierta = regla["cobertura"] == "cubierta"
+        aviso = None
+        req = regla.get("requiere_para_cubierta")
+        if cubierta and req and not re.search(req, b):
+            cubierta = False
+            aviso = regla.get("si_falta", "")
+        return regla["codigo"], cubierta, aviso
+    return None, False, None
 
 
 def detectar_pose(linea, slot5):
@@ -350,6 +413,60 @@ def auditar(slug, cfg, verbose=False):
                         avisos.append("[AVISO]  %s / %s: el look dispara %s (opt-in) y el ancla no esta"
                                       % (et, pose, nombre_ancla))
 
+    # Chequeo 12: rotacion de arquitectura de prenda (Ama 18/08/2026).
+    # Es un chequeo CRUZADO entre looks, no dentro de uno: por eso va aqui y no
+    # en el bucle de arriba.
+    rot = pb.perfil.get("rotacion_prenda")
+    tax = cfg.get("arquitecturas_de_prenda")
+    if rot and tax:
+        bloques = extraer_bloques_b(texto)
+        nums = sorted(bloques)
+        clasif = {}
+        for n in nums:
+            cod, cubierta, aviso = clasificar_arquitectura(bloques[n], tax)
+            clasif[n] = (cod, cubierta)
+            if cod is None:
+                avisos.append("[AVISO]  %s Look %s: no se pudo clasificar la arquitectura de "
+                              "prenda de su BLOQUE B (§5.6) — revisar que nombre la prenda "
+                              "principal" % (pb.perfil["nombre"], n))
+            elif aviso:
+                avisos.append("[AVISO]  %s Look %s: %s" % (pb.perfil["nombre"], n, aviso))
+
+        desde = rot.get("desde_look", 0)
+        vent = rot.get("ventana_global", 3)
+        cada = rot.get("cuota_cubierta", {}).get("cada", 4)
+        minimo = rot.get("cuota_cubierta", {}).get("minimo", 1)
+
+        def reportar(n, msg):
+            if n >= desde:
+                criticos.append("[CRITICO] %s Look %s: %s" % (pb.perfil["nombre"], n, msg))
+            else:
+                avisos.append("[AVISO]  %s Look %s: %s (historico: la regla rige desde el "
+                              "Look %s, no se retrofitea)" % (pb.perfil["nombre"], n, msg, desde))
+
+        for i, n in enumerate(nums):
+            cod = clasif[n][0]
+            if cod is None:
+                continue
+            previos = [clasif[x][0] for x in nums[max(0, i - vent):i]]
+            if cod in previos:
+                reportar(n, "arquitectura de prenda %s repetida dentro de la ventana global "
+                            "de %d looks (previos: %s)" % (cod, vent, ", ".join(p or "?" for p in previos)))
+            if i + 1 >= cada:
+                bloque = nums[i + 1 - cada:i + 1]
+                cubiertos = sum(1 for x in bloque if clasif[x][1])
+                if cubiertos < minimo:
+                    reportar(n, "cuota de silueta cubierta incumplida: %d de los ultimos %d looks "
+                                "(L%s) llevan M6-M10, se exige %d"
+                                % (cubiertos, cada, "-L".join(str(x) for x in (bloque[0], bloque[-1])), minimo))
+
+        n_cub = sum(1 for n in nums if clasif[n][1])
+        resumen_prenda = ("  · PRENDA: %d looks · cubierta %d (%.0f%%) · %s"
+                          % (len(nums), n_cub, (n_cub * 100.0 / len(nums)) if nums else 0,
+                             " ".join("L%s=%s" % (n, clasif[n][0] or "??") for n in nums[-8:])))
+    else:
+        resumen_prenda = ""
+
     if verbose:
         extra = ""
         if deuda:
@@ -360,6 +477,8 @@ def auditar(slug, cfg, verbose=False):
                         d.get("poses_afectadas_sin_imagen", "?"),
                         pb.perfil["deuda_declarada"].get("medida", "?")))
         print("  %-12s looks=%d prompts=%d%s" % (slug, len(looks), total_prompts, extra))
+        if resumen_prenda:
+            print(resumen_prenda)
     return criticos, avisos
 
 
@@ -384,10 +503,14 @@ def main():
     for l in tot_c:
         print(l)
     if verbose or not tot_c:
-        for l in tot_a[:60]:
+        # --verbose imprime TODOS los avisos. Antes topaba en 60 y remataba con
+        # "usar --verbose" incluso estando ya en verbose: el consejo era imposible
+        # de seguir y escondia el resto (corregido 18/08/2026).
+        tope = len(tot_a) if verbose else 60
+        for l in tot_a[:tope]:
             print(l)
-        if len(tot_a) > 60:
-            print("  ... y %d avisos mas (usar --verbose)" % (len(tot_a) - 60))
+        if len(tot_a) > tope:
+            print("  ... y %d avisos mas (usar --verbose)" % (len(tot_a) - tope))
     print("")
     print("-" * 78)
     print("CRITICOS: %d   AVISOS: %d" % (len(tot_c), len(tot_a)))
