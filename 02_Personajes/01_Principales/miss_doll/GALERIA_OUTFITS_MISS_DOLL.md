@@ -1796,11 +1796,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a floor-length burgundy fine-mesh dress with long fitted sleeves to the wrist and a high round neckline, the sheer mesh transparent enough to read the lingerie beneath from every angle, skimming the body from shoulder to ankle, worn over a burgundy latex plunge bra and matching latex thong clearly visible through the mesh, cinched at the waist by a wide steel-boned burgundy latex corset belt with exposed polished steel hardware, thin hot pink patent leather straps crossing the hips as jewellery under the mesh, a slim black leather collar with a hot pink enamel ring, (8-inch black patent platform stiletto boots, razor-thin metal needle heel, ankle height:1.3), (long coffin-shaped nails in glossy hot pink polish:1.1)
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look26_acero_y_rosa_sangre/miss_doll_026_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 ### 1. Standing
 ```text
