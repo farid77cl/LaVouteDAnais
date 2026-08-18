@@ -1,1 +1,1 @@
-sube la sensualidad de la primera mastrubacion de Javiera, quiero calentarme junto con ella, que me dé vergüenza,.asco y exitacion, que los recuerdos del cliente del privado, de la barra del café sean más intenso 
+sube la sensualidad de la primera mastrubacion de Javiera, quiero calentarme junto con ella, que me dé vergüenza,.asco y exitacion, que los recuerdos del cliente del privado, de la barra del café sean más intenso. lo mismo con la segunda masturbacion, dela al lector muy caliente 
