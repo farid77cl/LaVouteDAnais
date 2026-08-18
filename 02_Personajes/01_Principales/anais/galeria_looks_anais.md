@@ -1063,11 +1063,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look17_vison_y_borgona/`
 - **Tags:** #noche #saten #piel #vison #borgona #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (2/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_standing.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_standing.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_back_view.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_seated.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_pov.png) | [📸 View](../../../05_Imagenes/anais/look17_vison_y_borgona/anais_017_odalisque.png) |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Borgoña vino profundo + Piel visón chocolate + Oro · **Medias de red ultra finas de puntera cerrada**
 
@@ -1128,11 +1128,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look18_charmeuse_y_filigrana/`
 - **Tags:** #boudoir #seda #lenceria #liguero #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (3/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_standing.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_back_view.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_seated.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_standing.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_back_view.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_seated.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_pov.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Marfil seda + Oro antiguo + Encaje negro · **Medias nylon marfil costura trasera + Liguero 6 tirantes**
 
