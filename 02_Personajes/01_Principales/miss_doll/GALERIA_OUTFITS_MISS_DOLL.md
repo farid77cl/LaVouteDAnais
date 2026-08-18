@@ -1457,11 +1457,11 @@ a (high-shine chrome silver vinyl bodysuit with geometric cutouts at the ribs an
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look21_mirror_cage_descent/miss_doll_021_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look21_mirror_cage_descent/miss_doll_021_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look21_mirror_cage_descent/miss_doll_021_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look21_mirror_cage_descent/miss_doll_021_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look21_mirror_cage_descent/miss_doll_021_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look21_mirror_cage_descent/miss_doll_021_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look21_mirror_cage_descent/miss_doll_021_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -1526,11 +1526,11 @@ a sheer black mesh bralette trimmed in hot pink, a (floor-length high-shine blac
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (5/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look22_black_cape_overture/miss_doll_022_glacial_command.png) | ⏳ | ⏳ |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -1595,11 +1595,11 @@ a (crystal mesh micro triangle bikini top in hot pink:1.2), a matching crystal m
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look23_crystal_mesh_cabana/miss_doll_023_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look23_crystal_mesh_cabana/miss_doll_023_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look23_crystal_mesh_cabana/miss_doll_023_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look23_crystal_mesh_cabana/miss_doll_023_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look23_crystal_mesh_cabana/miss_doll_023_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look23_crystal_mesh_cabana/miss_doll_023_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look23_crystal_mesh_cabana/miss_doll_023_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text
@@ -1666,11 +1666,11 @@ a (high-shine black vinyl unitard with geometric cutouts at the waist and hip ex
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic
 ```
 
-### 📸 Imágenes (3/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_seated.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look24_cutout_circuit/miss_doll_024_odalisque.png) |
 
 ### 1. Standing — Cruel Contrapposto
 ```text

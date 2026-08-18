@@ -1128,11 +1128,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look18_charmeuse_y_filigrana/`
 - **Tags:** #boudoir #seda #lenceria #liguero #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (1/7 — Parcial)
+### 📸 Imágenes (3/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_standing.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_back_view.png) | [📸 View](../../../05_Imagenes/anais/look18_charmeuse_y_filigrana/anais_L18_seated.png) | ⏳ | ⏳ | ⏳ | ⏳ |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Marfil seda + Oro antiguo + Encaje negro · **Medias nylon marfil costura trasera + Liguero 6 tirantes**
 
@@ -1193,11 +1193,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look19_esmeralda_y_marta/`
 - **Tags:** #sesionliteraria #terciopelo #piel #marta #esmeralda #peeptoe #anais #batchL15-L20 #V7poses
 
-### 📸 Imágenes (1/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_standing.png) | [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_back_view.png) | [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_seated.png) | [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_pov.png) | [📸 View](../../../05_Imagenes/anais/look19_esmeralda_y_marta/anais_019_odalisque.png) |
 
 **Arquetipo:** Sesión Literaria · **Paleta:** Verde esmeralda italiano + Piel marta oscura + Oro · **Sin medias · Peep-toe**
 
@@ -1320,11 +1320,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look21_esmeralda_sirena/`
 - **Tags:** #esmeralda #saten #sirena #anais #batchL21-L25 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look21_esmeralda_sirena/anais_021_standing.png) | [📸 View](../../../05_Imagenes/anais/look21_esmeralda_sirena/anais_021_back_view.png) | [📸 View](../../../05_Imagenes/anais/look21_esmeralda_sirena/anais_021_seated.png) | [📸 View](../../../05_Imagenes/anais/look21_esmeralda_sirena/anais_021_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look21_esmeralda_sirena/anais_021_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look21_esmeralda_sirena/anais_021_pov.png) | [📸 View](../../../05_Imagenes/anais/look21_esmeralda_sirena/anais_021_odalisque.png) |
 
 **Arquetipo:** Noche / La Voûte · **Paleta:** Esmeralda profundo + Oro imperial · **Sin medias**
 
@@ -1382,11 +1382,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look22_champagne_y_perlas/`
 - **Tags:** #boudoir #encaje #champagne #liguero #anais #batchL21-L25 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look22_champagne_y_perlas/anais_L22_standing.png) | [📸 View](../../../05_Imagenes/anais/look22_champagne_y_perlas/anais_L22_back_view.png) | [📸 View](../../../05_Imagenes/anais/look22_champagne_y_perlas/anais_L22_seated.png) | [📸 View](../../../05_Imagenes/anais/look22_champagne_y_perlas/anais_L22_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look22_champagne_y_perlas/anais_L22_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look22_champagne_y_perlas/anais_L22_pov.png) | [📸 View](../../../05_Imagenes/anais/look22_champagne_y_perlas/anais_L22_odalisque.png) |
 
 **Arquetipo:** Boudoir / Lencería · **Paleta:** Champagne encaje + Perlas · **Con medias back-seam**
 
@@ -1506,11 +1506,11 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look24_oxblood_clinico/`
 - **Tags:** #latex #oxblood #vestido #anais #batchL21-L25 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look24_oxblood_clinico/anais_024_standing.png) | [📸 View](../../../05_Imagenes/anais/look24_oxblood_clinico/anais_024_back_view.png) | [📸 View](../../../05_Imagenes/anais/look24_oxblood_clinico/anais_024_seated.png) | [📸 View](../../../05_Imagenes/anais/look24_oxblood_clinico/anais_024_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look24_oxblood_clinico/anais_024_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look24_oxblood_clinico/anais_024_pov.png) | [📸 View](../../../05_Imagenes/anais/look24_oxblood_clinico/anais_024_odalisque.png) |
 
 **Arquetipo:** Látex / Fetichismo · **Paleta:** Oxblood vino profundo · **Sin medias**
 
