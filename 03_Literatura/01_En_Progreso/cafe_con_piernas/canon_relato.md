@@ -282,6 +282,8 @@ Javiera ya no se contagia *chilenismos*: se contagia **la jerga del oficio**. Em
 
 ⛔ **Sigue prohibido:** España (*polla, follar, joder, coche, piso, móvil, bragas, tío, vale*) · voceo argentino (*vos, podés, mirá, sos*) · clínico (*vagina, pene, senos, hacer el amor*) · **las palabras del mecanismo** —*hipnosis, trance, condicionamiento, refuerzo, sugestión, manipulación, programación, objetivación*— y el léxico de denuncia (*precariedad, explotación, cosificación, trata*).
 
+> 🚫 **VETO LÉXICO DE LA AMA (nota Cap 1 v0.13, 14/08/2026):** prohibidas **degradación** e **hipersexualizada** y todas sus variantes, en narración y en diálogo. *"evita usar la palabra degradación y similares, también por ahí leí hiper sexualizada evitarla y sus variantes"*. Verificado en 0 sobre Cap 1 v0.14 y Cap 2 v0.7 (19/08/2026). Vive acá porque la nota ya se archivó como aplicada y la regla es permanente.
+
 ✅ **Léxico sucio (sin cambios, y sigue subiendo en la boca de ella):** **verga · coño · culo · tetas · coger · mojarse**.
 
 ## 8. Cementerio
