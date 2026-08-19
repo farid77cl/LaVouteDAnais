@@ -1857,11 +1857,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a liquid chrome mirror-finish latex mini dress with a high boat neckline at the front and a deep scooped open back exposing the full spine to the waist, long fitted sleeves to the wrist, a sharply nipped waist and a hem finishing high on the thigh, worn with sheer smoke grey stockings, a fine hot pink enamel cuff on one wrist, hot pink lacquered drop earrings, (8-inch clear acrylic platform stiletto sandals with hot pink patent ankle straps, razor-thin metal needle heel:1.3), (long coffin-shaped nails in glossy hot pink polish:1.1)
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (5/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | ⏳ | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) | ⏳ |
 
 ### 1. Standing
 ```text
@@ -1918,11 +1918,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 an Italian red patent PVC high-waisted mini skirt with a sharp architectural A-line and a visible exposed metal zip running the full centre front, worn with a matching Italian red patent PVC corset top featuring extreme sculptural peak shoulders, a structured sweetheart neckline and exposed boning, bare midriff between the two pieces, sheer black stockings, hot pink lacquered statement earrings, (8-inch hot pink patent platform stiletto pumps, razor-thin metal needle heel:1.3), (long coffin-shaped nails in glossy hot pink polish:1.1)
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (5/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look28_rojo_italiano_arquitectonico/miss_doll_028_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look28_rojo_italiano_arquitectonico/miss_doll_028_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look28_rojo_italiano_arquitectonico/miss_doll_028_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look28_rojo_italiano_arquitectonico/miss_doll_028_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look28_rojo_italiano_arquitectonico/miss_doll_028_glacial_command.png) | ⏳ | ⏳ |
 
 ### 1. Standing
 ```text
@@ -1979,11 +1979,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a pearl grey silk and lace lingerie set consisting of an underwired plunge bra with scalloped lace edging, a matching thong and a six-strap suspender belt, worn under a (sheer smoke grey silk chiffon open robe, semi-transparent fabric that reveals the lingerie beneath from every angle including from behind, falling loose off one shoulder, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin sash:1.2), sheer smoke grey stockings clipped to the suspenders, a single strand of pearls at the throat, hot pink enamel stud earrings, (8-inch pearl grey patent platform stiletto mules, razor-thin metal needle heel:1.3), (long coffin-shaped nails in glossy hot pink polish:1.1)
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look29_humo_y_perla/miss_doll_029_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look29_humo_y_perla/miss_doll_029_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look29_humo_y_perla/miss_doll_029_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look29_humo_y_perla/miss_doll_029_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look29_humo_y_perla/miss_doll_029_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look29_humo_y_perla/miss_doll_029_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look29_humo_y_perla/miss_doll_029_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -2040,11 +2040,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 acid neon green latex leggings with full-length legs to the ankle, a high compressive waistband and a mirror-slick surface, worn with a hot pink vinyl racerback sports bra with a deep plunging zip front and sculpted underbust seaming, bare toned midriff between the two pieces, a thin acid neon green elastic band around one wrist, a fine hot pink chain at the throat, (8-inch hot pink and clear acrylic platform stiletto athletic-strap sandals, razor-thin metal needle heel:1.3), (long coffin-shaped nails in glossy hot pink polish:1.1)
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look30_neon_acido/miss_doll_030_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look30_neon_acido/miss_doll_030_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look30_neon_acido/miss_doll_030_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look30_neon_acido/miss_doll_030_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look30_neon_acido/miss_doll_030_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look30_neon_acido/miss_doll_030_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look30_neon_acido/miss_doll_030_odalisque.png) |
 
 ### 1. Standing
 ```text
