@@ -22,18 +22,6 @@ Cerró la llave con un manotazo. El silencio que cayó después fue casi un golp
 
 ***
 
-El espejo estaba empañado por completo, una superficie blanca sin ningún detalle, y Javiera se quedó mirándolo un rato antes de pasar la toalla, como si prefiriera no verse todavía. Cuando por fin limpió un óvalo con el antebrazo, lo que apareció fue una silueta borrosa por los bordes, envuelta en vapor, y tardó un segundo en reconocer que era ella.
-
-Estaba descalza. No tenía nada puesto. Y sin embargo el peso del cuerpo no caía derecho: los hombros iban un poco hacia atrás, la pelvis un poco hacia adelante, como si debajo de los pies hubiera todavía diez centímetros de tacón que ya no estaban. Intentó corregirlo, pararse recta, con el mismo gesto automático con que se hubiera acomodado la corbata antes de entrar a una audiencia. *Igual así te ves mejor.* La postura volvió a torcerse sola en cuanto dejó de pensar en ella.
-
-Se pasó la toalla por los muslos y una descarga corta, filosa, le subió desde la entrepierna hasta la boca del estómago. Se quedó apoyada en el borde del lavamanos hasta que pasó, con los dientes apretados, mirando el óvalo limpio del espejo sin encontrar ahí nada que reconociera como explicación.
-
-*Es la piel irritada*, pensó, con la voz seca y precisa de siempre, la que usaba para desestimar objeciones. *La fricción del material sintético contra piel sin depilar bien. Diez horas de eso. La ropa de vinilo no transpira y el aceite tapa el poro; cualquiera que trabaje con eso te lo dice. Nada más.*
-
-Y era verdad, en parte.
-
-***
-
 Se vistió como se viste alguien que no quiere ser vista.
 
 Sacó del cajón la ropa interior de algodón, blanca, sin nada, y al subírsela sintió que la tela le raspaba como si fuera otro material, más áspero, casi de lija. Se la acomodó dos veces, tironeando de la cintura, y el roce siguió ahí, terco, en un cuerpo que hasta el jueves no le había pedido nunca explicaciones sobre lo que llevaba puesto.
