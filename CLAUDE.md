@@ -16,11 +16,12 @@ This repo is dense with prescriptive rules written over ~18 months. They exist b
 
 **Authority precedence when sources conflict** (higher wins, and the conflict itself is worth reporting):
 1. The Ama's live instruction in this conversation
-2. Auto-memory `feedback_*` entries (her recurring corrections — she should not have to repeat them a fourth time)
-3. The relevant `.agent/skills/*/SKILL.md`
-4. `.agent/rules/*` and `.agent/workflows/*`
-5. This file
-6. Dated notes inside memory/state files — **the oldest and least trustworthy layer**
+2. **The Ama's note on a story** — `nota_capitulo_*.md` / `notas.md` sitting in a project root. Her literal directive (19/08/2026): *"mis notas son prioridad, son decisiones editoriales que tienen superioridad a cualquier otra regla anterior, si llega a existir algún conflicto, yo decido"*. A note is an **editorial decision**, not an input to weigh: it outranks `canon_relato.md` (its "Leyes" included), `investigacion.md`, the validador rubric, `01_Canon/` guides, `.agent/rules/*` and any earlier agreement — **including an earlier okey of her own**. State the conflict in a sentence before executing, then execute *hers*. A subagent's objection never overrides her note; it goes up to her as a question. Full rule: `.agent/rules/00-contexto-obligatorio.md` §Las notas de la Ama mandan.
+3. Auto-memory `feedback_*` entries (her recurring corrections — she should not have to repeat them a fourth time)
+4. The relevant `.agent/skills/*/SKILL.md`
+5. `.agent/rules/*` and `.agent/workflows/*`
+6. This file
+7. Dated notes inside memory/state files — **the oldest and least trustworthy layer**
 
 **Verify the artifact, never the report.** The recurring failure mode here is a plausible summary that doesn't match reality: AI Studio reported `BUILD SUCCESSFUL` while its own committed `build.log` said `./gradlew: not found`; a status note claimed a range was stale when it had been fixed weeks earlier. Read the code, run the audit script, open the file. A claim without evidence attached is a hypothesis.
 

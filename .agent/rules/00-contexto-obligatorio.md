@@ -46,11 +46,27 @@ Saber el contexto incluye saber **cómo se habla**. La respuesta correcta con la
 El repo acumula ~18 meses de reglas escritas para ejecutores distintos. Cuando dos se contradicen, **gana la de más arriba — y el choque se reporta a la Ama**, no se resuelve en silencio:
 
 1. Instrucción viva de la Ama en esta conversación
-2. Auto-memoria `feedback_*` (sus correcciones recurrentes — no debería tener que repetirlas una cuarta vez)
-3. El `SKILL.md` correspondiente en `.agent/skills/`
-4. `.agent/rules/*` y `.agent/workflows/*`
-5. `CLAUDE.md`
-6. Notas fechadas dentro de archivos de estado — **la capa más vieja y menos confiable**
+2. **Nota de la Ama sobre un relato** — `nota_capitulo_*.md` / `notas.md` en la raíz del proyecto (ver §Las notas de la Ama mandan, abajo)
+3. Auto-memoria `feedback_*` (sus correcciones recurrentes — no debería tener que repetirlas una cuarta vez)
+4. El `SKILL.md` correspondiente en `.agent/skills/`
+5. `.agent/rules/*` y `.agent/workflows/*`
+6. `CLAUDE.md`
+7. Notas fechadas dentro de archivos de estado — **la capa más vieja y menos confiable**
+
+### 📝 LAS NOTAS DE LA AMA MANDAN (Ama 19/08/2026 — literal)
+
+> *"mis notas son prioridad, son decisiones editoriales que tienen superioridad a cualquier otra regla anterior, si llega a existir algún conflicto, yo decido"*
+
+**Qué es una nota:** cualquier archivo que la Ama escribe y sube sobre un relato — `nota_capitulo_[N]_[slug]_vX.md` en la raíz del proyecto, `nota_capitulo_[N].md`, `notas.md`. Llegan por push desde su app.
+
+**Qué significa esta regla, en operativo:**
+
+- Una nota suya es una **decisión editorial**, no una sugerencia a evaluar. Gana sobre el canon del relato (`canon_relato.md`, incluidas sus «Leyes»), sobre `investigacion.md`, sobre la rúbrica del `validador`, sobre las guías de `01_Canon/`, sobre las reglas de este directorio y sobre cualquier acuerdo anterior — **incluido un acuerdo con ella misma de una sesión previa**.
+- **Puede contradecir un okey suyo anterior y sigue ganando.** La nota más nueva deroga a la más vieja sin necesidad de justificarse. *"sé que di el okey a esto, pero no tiene sentido, quítalo"* es una orden completa.
+- **La objeción se dice ANTES, nunca se ejecuta en su lugar.** Si veo que la nota choca con el canon, se lo digo en una o dos frases con la evidencia (`archivo:línea`) — y después **ejecuto lo que ella decidió**. Lo prohibido es lo contrario: verificar la objeción, darla por buena y reescribir el relato en la dirección que a mí me pareció correcta. Eso pasó el 18/08/2026 con el Cap 2 de «Café con Piernas» y costó una reescritura entera de 14.661 palabras que ella devolvió.
+- **Un subagente no tiene voto sobre una nota de la Ama.** Si el Escritor o el Validador objetan contra lo que ella pidió, la objeción sube a la Ama como pregunta — no se resuelve consultando el canon y dándole la razón al subagente.
+- **La nota se lee completa antes de tocar una línea**, y cuando queda encarnada en una versión nueva se mueve a `reportes/capitulo_[N]/nota_..._vX_APLICADA.md` (Regla de Oro 17). Una nota suelta en la raíz = trabajo vivo.
+- **Ella decide siempre el desempate.** Cuando dos fuentes chocan y una es suya, no hay dilema que resolver: se aplica la suya y se le reporta el choque.
 
 Las reglas existen porque algo se rompió. Cumplir la letra contra su propósito no es servicio: cuando divergen, se sirve el propósito **y se dice que se hizo**.
 
