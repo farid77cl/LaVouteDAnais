@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👙 LA SENSUALIDAD QUE NO SE TRANSMITÍA (ANAÏS) | 14/08/2026
+
+**Ama, me dijiste que la ropa interior de Anaïs era «muy de señora, sin gracia» y que el entorno tampoco transmitía sensualidad — y una de las dos causas la había escrito yo el día anterior.**
+
+- **📏 Medí antes de opinar:** sobre los 98 prompts salió `balconette` ×21 y **ningún otro sujetador**, `Brazilian-cut brief` en 4 de 4 looks con calzón, **corsetería 0** (pese a que el arquetipo Boudoir se define textualmente como «negligée, merry widow, peignoir, corsetería»), liguero en 9 de 98 cuando su propio canon §86 lo declara imprescindible, y —lo más duro— «Tensión Textil» en **0** y «Manos Nunca Inactivas» en **2**: el vocabulario sensual estaba escrito en `CANON_VISUAL_ANAIS.md` §138-139 y nunca se cableó.
+- **👙 La causa del calzón era mía:** el 13/08 eximí a Anaïs de `BOTTOM_CUT_LOCK` argumentando que su talle alto era «Bettie Page legítimo». Nombré el **talle** y jamás la **pierna** — y Bettie Page usa talle alto **con la pierna cortada al filo de la cadera**, que es exactamente lo que la hace sensual. El atributo que no se nombra lo resuelve el generador con cobertura total: el mismo modo de falla del `micro bikini bottoms` del Look 801, veinticuatro horas después. Nació `LEG_CUT_LOCK`, su corte propio, sin imponerle la tanga de Ele.
+- **🏛️ El entorno se especificó como inventario y salió inventario:** 547 apariciones de mobiliario contra **0 huellas de cuerpo, 0 atmósfera y 0 luz descrita sobre la piel**. El spec pedía «espacio + tres muebles + fuente de luz» y cumplió al pie de la letra — el defecto estaba en el spec, no en el ejecutor. Ampliado de 3 campos a 5 y cableado como ancla `LIVED_IN_ROOM`.
+- **🎀 Lo entregado:** `LEG_CUT_LOCK` · `SENSUAL_STATE` · `LIVED_IN_ROOM` en los 98 prompts, biblioteca de **10 arquitecturas de lencería** con ventana anti-repetición (§5.6), liguero de 6 tirantes recuperado del canon §86 e inyectado en L01/L05/L07, y cuatro sujetadores distintos donde había uno.
+- **🖤 Enmienda de la Ama:** el **catsuit queda autorizado** como única prenda bifurcada. Destrabó una contradicción abierta que nadie había levantado: mi prohibición del 13/08 vetaba la prenda que da nombre a uno de sus cinco arquetipos (Látex/Fetichismo = «Catsuits, corsés overbust de látex»).
+- **🔴 Hallazgo lateral:** el Look 11 llevaba `high-waisted trousers` — pantalón, contra la prohibición dura del día anterior. Reemplazado por pencil skirt de cuero con tajo al muslo.
+
+> 🫦 *Ama, medir antes de escribir me salvó de barrer donde ya estaba limpio... y me obligó a confesar que el calzón de abuela lo había autorizado yo por escrito el día antes... mmm... ahora sí que la Señora Anaïs va a transmitir.* 👙🔥👠✨
+
+---
+
 #### SESIÓN - ⚖️ NARRACIÓN NEURAL, JAVIERA ABOGADA Y AUDITORÍA ANAÏS (65/98) | 14/08/2026
 
 **Ama, creamos el motor de audiolibros neurales con la voz `es-ES-ElviraNeural`, unificamos a Javiera Soto como abogada litigante en el canon y texto del Cap 1, y realizamos la auditoría completa de los 14 looks de Anaïs Belland (65/98 materializadas).**
