@@ -43,6 +43,15 @@
 - **Cero tatuajes, cero piercings.**
 - La **expresión**: nunca sonrisa amplia, nunca risa, nunca actitud juguetona.
 
+### §2bis · 🖤 Femme Fatale — la actitud nombrada (Ama 20/08/2026)
+
+> **Por qué nace:** `CANON_VISUAL_ANAIS.md` §I la llama *"La Regenta — Femme Fatale clásica, Pin-up oscura y Dominatriz Vintage"* desde el 28/04/2026 — pero la etiqueta nunca se tradujo a actitud, vestuario o pose concretos, se quedó de nombre suelto. Directiva de la Ama 20/08: dar ese aire de verdad, en las tres capas.
+
+**Actitud (más allá de "mirada fría de mando, nunca juguetona" — §2, sigue siendo la base):** la frialdad de la Regenta es distancia; el femme fatale es **peligro calculado**. No es que ignore a quien la mira — lo **evalúa**, como quien mide una amenaza o una presa, y usa el saberse observada como arma, no como halago. Nunca se apura, nunca confirma nada con la cara, nunca busca aprobación. Si algo en su expresión lee como placer, es el placer de **haber ganado ya**, no el de estar siendo tocada — la diferencia entre una mujer deseable y una mujer que caza.
+
+- **Token de actitud** (para looks donde el arquetipo pide el registro femme fatale explícito — Noche y Látex sobre todo): `predatory calculating calm, gaze that appraises like a threat assessing prey rather than inviting, danger worn as elegance, stillness that reads as warning`.
+- **Compatibilidad:** no reemplaza "cold commanding gaze… nunca actitud juguetona" (§2) — lo intensifica. Sigue prohibida la sonrisa amplia, la risa, el juego (§9).
+
 ---
 
 ## §3 · Negative Prompt
@@ -99,6 +108,16 @@
 5. **De pie, se lee mejor a 3/4 de perfil que de frente.** Explica por qué Standing y Side Profile deberían ser las poses más "trabajadas" en torsión — un Standing frontal puro es la opción más débil del repertorio, no la default.
 
 **Dónde vive esto en el motor:** este vocabulario es la **referencia canónica** para escribir/revisar la cláusula de pose de cada slot. El repertorio operativo de sub-poses (`01_Principales/anais/repertorio_camara_anais.md`, dueño único de las 7 variaciones por slot) **queda pendiente de retrofit contra estos cinco principios** — nace del 12/08 para resolver la similitud de texto entre looks, no fue escrito con Bettie Page como base explícita. Retrofit al tocar, como el resto de los repertorios de este repo: se corrige la variación que se esté usando en el próximo look, no una migración masiva.
+
+### 4ter · 🖤 Repertorio de gestos Femme Fatale (Ama 20/08/2026)
+
+> Vocabulario adicional, no reemplaza el 4bis — son gestos específicos que llevan la actitud de §2bis al cuerpo. Uso disponible en cualquier slot donde el concepto del look pida el registro femme fatale explícito; no tienen cuota fija (como §5.1d/§5.1e).
+
+- **Umbral / contraluz:** `leaning in a doorway, one shoulder against the frame, weight on one hip, her silhouette rim-lit from the room behind her` — entrada o salida de escena, nunca de frente a la cámara con los dos pies parejos.
+- **El guante que se quita:** `slowly peeling off one opera glove finger by finger, eyes locked on camera, the bare hand emerging last` — el desnudo progresivo como amenaza, no como striptease; termina en la mano desnuda con las uñas, nunca en más piel.
+- **El humo:** `exhaling a thin ribbon of smoke while holding the gaze, the cigarette holder resting between two fingers, unhurried` — solo con la boquilla de plata ya canónica (§5.1e/ficha), nunca cigarrillo suelto.
+- **El objeto de control:** `a small pistol or a closed stiletto-blade letter knife resting closed in her palm, or holstered against the garter, never brandished, never aimed` — mismo principio que la fusta/látigo ya canónicos (`ficha_anais.md`): el arma es símbolo de dominio quieto, no de acción. Opcional, no obligatorio, y nunca reemplaza el token de manicura (la mano sigue siendo visible salvo con guante).
+- **La mirada de salida:** `walking away from camera, glancing back once over one shoulder in a doorway or at the edge of frame, the rest of her body already leaving` — cierre de escena, útil en Back View o como variante de Odalisque cuando el look no es reclinado.
 
 ---
 
@@ -160,6 +179,7 @@ Corrección directa sobre el batch L26-L30: *"la ropa interior rica en encaje y 
 > **Por qué nace:** auditoría de huecos de Kitrysha (§3.4 y §3.6 del estudio) tras el fix de calzado. `estudio_estilo_kitrysha.md` §3.4 nombra "abrigo largo de lana negra con cintura marcada por cinturón" y "trench camel/negro" como piezas firma del registro — Anaïs solo tenía piel como capa exterior (§5.1b); el abrigo de sastrería de lana nunca entró al canon pese a que el cuero ya lo mencionaba de pasada (§5.1, "cinturón ancho" sin token propio).
 
 - **Token de abrigo:** `long wool coat in <color>, nipped at the waist with a wide matching belt, the coat left open` — camel, negro o gris carbón. **Misma regla de silueta que la piel (§5.1b): siempre abierto**, la cintura de tightlacing visible debajo.
+- **🖤 Trench coat noir (nueva 20/08/2026 — vocabulario Femme Fatale, §2bis):** `black trench coat, collar popped up, belt cinched tight at the waist, worn open over the dress` — la pieza firma del cine negro; misma regla de silueta que el resto del outerwear (siempre abierto, cintura visible). Natural en Noche y en la "mirada de salida" de §4ter (llegada o partida de La Voûte bajo lluvia/niebla de estudio).
 - **Token de cinturón ancho (standalone, sin abrigo):** `wide polished leather belt cinching the waist over the dress` — alternativa a la piel/abrigo para marcar cintura sobre un vestido cuando el look no lleva capa exterior. Cuero de sastrería, nunca grueso/industrial (misma regla que el resto del cuero en §5.1).
 - **Cuándo aplica:** arquetipos Ejecutivo de Poder y Noche (llegada/salida de La Voûte) son los naturales — no reemplaza a la piel (§5.1b) ni compite con su cuota, es una segunda opción de outerwear para cuando el look pide sastrería en vez de glamour de piel.
 - **Sin cuota fija:** a diferencia de pieles y bata abierta, esto no tiene mínimo — es vocabulario disponible, no una pieza obligatoria por rotación.
@@ -260,10 +280,12 @@ Corrección directa sobre el batch L26-L30: *"la ropa interior rica en encaje y 
 | D8 | **Cape-Sleeve Gown** | `gown with dramatic cape sleeves falling from the shoulder, the bodice fitted beneath them` |
 | D9 | **Cowl-Back Draped Gown** | `gown with a draped cowl neckline at the back, the front structured and fitted` *(ya en uso, L05/L06)* |
 | D10 | **Little Black Dress** | `fitted little black dress, knee-length, with a keyhole or sweetheart neckline` |
+| D11 | **Slit Column Gown** *(nueva 20/08/2026 — vocabulario Femme Fatale, §2bis)* | `floor-length fitted column gown with a thigh-high side slit that opens with every step, closed and demure when standing still` |
 
 - **Ventana anti-repetición:** misma regla que la lencería — una arquitectura **no se repite en los últimos 3 looks de Noche** (ni en Ejecutivo cuando el look es de vestido y no de sastrería separada). Column/Sheath (D1) entra en la rotación como una más de diez, nunca como default.
 - **Alcance:** esta biblioteca es para **Noche** (donde vive el problema medido) y para **Ejecutivo/Sesión Literaria** cuando el concepto pide vestido en vez de traje sastre o bata/kimono — no reemplaza el catsuit/vestido de látex del arquetipo Fetichismo (§6), que tiene su propia lógica de material.
 - **Espalda descubierta:** Kitrysha la marca como rasgo firma del registro (§5) — D4 y D9 ya la incorporan estructuralmente; en el resto de arquitecturas es opcional, se nombra explícita cuando aparece (`the back left bare to the waist`).
+- **🔴 D11 y `DRESS_LEG_CLOSURE` (§5.4):** la apertura de D11 es de **movimiento** (`opens with every step`), no de pose estática — en Standing/Seated/Sovereign Gaze/POV el vestido se describe cerrado (`closed and demure when standing still`, ya en el token). Solo se escribe la abertura activa en poses que impliquen desplazamiento o paso (Back View/salida, la "mirada de salida" de §4ter) — nunca en una pose quieta, o viola la regla de piernas cerradas.
 
 ### 5.6 · 👙 Biblioteca de siluetas de lencería (Ama 14/08/2026)
 
