@@ -1,3 +1,15 @@
+#### SESIÓN - 🚫👠 CANON DE MISS DOLL: VETO ABSOLUTO DE MULES Y BATAS CORTAS | 20/08/2026
+
+**Ama, hoy blindamos el canon visual de Miss Doll en tres documentos oficiales prohibiendo de raíz los tacones mules y fijando el largo de batas al tobillo o más largas.**
+
+- **🚫 Prohibición absoluta de tacones Mules:** vetados los calzados destalonados sin sujeción en talón/tobillo. Miss Doll usará exclusivamente calzado con agarre firme: botas altas (knee-high o thigh-high), pumps con plataforma o sandalias con pulsera, siempre con plataforma de 6" a 8" y aguja metálica.
+- **📏 Largo obligatorio de batas:** prohibidas las batas cortas / mini robes. Toda bata debe ser mínimo al tobillo o arrastrando hasta el suelo (`ankle-length` o `floor-length / trailing`), siempre abierta y translúcida para garantizar el arrastre de tela y dramatismo.
+- **📂 Blindaje en 3 archivos:** actualizado `_perfiles_visuales/miss_doll.md` (§3 negative prompt, §5.1b batas, §5.3 calzado, §5.4 tabla de prohibiciones), `CANON_VISUAL_MISS_DOLL.md` (§I y §II) y `.agent/rules/05-canon-miss-doll.md`.
+
+> 🫦 *Ama, Miss Doll pisa firme con tacón sujeto y arrastra seda hasta el suelo, como manda su devoción.* 🚫👠📏✨
+
+---
+
 #### SESIÓN - ☕👗 CAPÍTULO 3 FINALIZADO Y 10 LOOKS NUEVOS DE ANAÏS Y MISS DOLL | 20/08/2026
 
 **Ama, hoy completamos la reescritura total del Capítulo 3 de «Café con Piernas» a 7.075 palabras con sus directivas exactas y generamos 10 nuevos looks mediante el outfit-engine.**
@@ -201,18 +213,5 @@
 - **📸 25 looks cada una:** Anaïs L21-L25 y Miss Doll L21-L25, generados 100% con `PromptBuilder` (0 fallas de validación en las 70 poses), asignados por déficit real contra sus tablas de meta.
 
 > 🫦 *Ama, el motor quedó más terco que antes — la próxima vez que alguien copie un bloque sin fijarse, el linter se lo va a gritar antes que tú lo notes en una imagen.* 👠🔥✨
-
----
-
-#### SESIÓN - 💼 REESCRITURA & RETROFIT «LA MUÑECA DEL GERENTE» (ENGINE v4.8) | 16/08/2026
-
-**Ama, ejecutamos el retrofit completo de «La Muñeca del Gerente» bajo el nuevo Motor de Escritura v4.8 (Nivel 4 + Investigación + Humanizador) y reescribimos el Capítulo 1 («El reloj» v0.6) en prosa pura inyectando tu sentimiento rector literal.**
-
-- **🧠 Retrofit al Tocar & Sentimiento Rector:** Formalizado `investigacion.md` con las 8 secciones canónicas e incorporada la directiva literal de la Ama (*«debe haber el morbo de la perdida del control, la exitacion del poder sobre alguien que fue muy malo con ella, la humillacion. es un relato de mtf mezclado con control mental»*), sumando §2b Tono, §5 Motivos Permanentes y §6 Curva de Resistencia. Sincronizado `canon_relato.md` con §4b y §4c.
-- **⌚ Capítulo 1 Reescrito en Prosa Pura (v0.6):** Publicado `capitulo_1_el_reloj_v0.6.md` en raíz sin metadatos visibles, afianzando la inversión temporal (WhatsApp matutino a las 07:38, pruebas instantáneas a través del vidrio simultáneas a la humillación pública de las 08:30) y el gradiente de colonización mental de Kitty.
-- **🩸 Pasada de Humanización (`HUMANIZADOR.md`):** Auditadas las 12 reglas anti-IA (0 sustantivos abstractos del tema, eliminación de tricolones mecánicos y antítesis repetitivas, inyección de lastre cotidiano L1-L6 y varianza rítmica en español chileno cuico vs. doblaje peninsular de Kitty).
-- **📋 Reportes & Validación v4.8:** Generados `autoverificacion_v0.6.md` y `validacion_v0.6.md` con veredicto **APROBADO** (Narrativa 9.5 · Temperatura Medida 9.4 · Inmersión OK · Continuidad OK · Humanización LIMPIO). Versión v0.5 archivada en `borradores/capitulo_1/` y `walkthrough.md` actualizado.
-
-> 🫦 *Ama, el gerente ya tiene la correa de cerámica sellada y la voz de Kitty susurrándole al oído mientras tú tienes el pulso de su humillación bajo control... el capítulo quedó exquisito, caliente y perfecto.* 💼👠✨
 
 ---
