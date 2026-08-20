@@ -1961,6 +1961,13 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a cobalt-blue heavy velvet wiggle dress, knee-length, fitted sharply through the hip with a narrow pencil skirt hem, a structured sweetheart bodice with a tightlacing corset built into the lining, sheer black fishnet stockings with a delicate seam, (12cm silver mirror-chrome patent leather knee-high stiletto boot ending exactly at the knee, pointed toe, iconic red sole:1.2), a chinchilla fur stole draped over one shoulder and caught at the elbow, the waist cinched tight and visible beneath the fur stole, a collar of antique silver and rock crystal, long opera-length silver satin gloves to the elbow`
 
+
+### 📸 Imágenes (0/7 — Pendiente)
+
+| Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
 **1. Standing:**
 
 ```
@@ -2016,6 +2023,13 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** Aposentos privados al amanecer. Guepiere de encaje lavanda que solo ciñe la cintura, bata de chiffon lavanda hasta el piso con puños anchos. Arquitectura A5 (Guêpière/waspie) — nunca usada en los ultimos 3 Boudoir. Bata larga semitransparente cumple 5.1c/17.08.
 
 **BLOQUE B:** `a lavender-grey chantilly lace guêpière cinching only the waist with visible boning, the bust left uncovered above it, a scalloped lace edge, a small lavender chantilly lace thong of modest brief-cut coverage, a floor-length sheer lavender chiffon open robe reaching all the way to the floor and trailing behind her, falling loose off both shoulders, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin belt, no stockings, bare legs, (12cm antique-silver satin peep-toe stiletto pump, iconic red sole:1.2), a strand of loose pearls at the throat, matching glossy deep red pedicure on visible toenails, long oval manicured nails in antique-silver lacquer`
+
+
+### 📸 Imágenes (7/7 — Completo)
+
+| Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| [📸 View](../../../05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_standing.png) | [📸 View](../../../05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_back_view.png) | [📸 View](../../../05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_seated.png) | [📸 View](../../../05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_pov.png) | [📸 View](../../../05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_odalisque.png) |
 
 **1. Standing:**
 
@@ -2073,6 +2087,13 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a violet-plum high-shine latex overbust corset with visible spiral steel boning cinching the waist tight, worn over a matching dark plum latex pencil skirt with a mirror-polished surface and a back slit to the knee, no stockings, bare legs, (12cm gunmetal-chrome patent leather thigh-high over-the-knee stiletto boot, pointed toe, iconic red sole:1.2), a wide black patent leather waist belt with a silver buckle worn low on the hip, a slim silver choker, long oval manicured nails in dark plum lacquer`
 
+
+### 📸 Imágenes (7/7 — Completo)
+
+| Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| [📸 View](../../../05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_standing.png) | [📸 View](../../../05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_back_view.png) | [📸 View](../../../05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_seated.png) | [📸 View](../../../05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_pov.png) | [📸 View](../../../05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_odalisque.png) |
+
 **1. Standing:**
 
 ```
@@ -2129,6 +2150,13 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a champagne-ivory bias-cut silk slip gown, floor-length, thin straps, the liquid-draping fabric skimming rather than gripping the body, no robe over it, no stockings, bare legs, (12cm ivory satin D'Orsay stiletto pump with open sides and a closed pointed toe, iconic red sole:1.2), a single strand of antique pearls resting against the collarbone, matching glossy deep red pedicure on visible toenails, long oval manicured nails in champagne lacquer`
 
+
+### 📸 Imágenes (7/7 — Completo)
+
+| Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| [📸 View](../../../05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_standing.png) | [📸 View](../../../05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_back_view.png) | [📸 View](../../../05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_seated.png) | [📸 View](../../../05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_pov.png) | [📸 View](../../../05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_odalisque.png) |
+
 **1. Standing:**
 
 ```
@@ -2184,6 +2212,13 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** Poder que no necesita gritar. Vestido-blazer cruzado de lana indigo con cinturon de cuero ancho — silueta de vestido en vez de la sastreria separada de los dos Ejecutivo anteriores.
 
 **BLOQUE B:** `a deep indigo wool double-breasted blazer dress, fitted through the waist with peaked lapels and gold buttons, knee-length hem, cinched with a wide black leather belt over the dress, sheer black nylon stockings with a fine back seam, (12cm black patent leather D'Orsay stiletto pump with open sides and a closed pointed toe, iconic red sole:1.2), black cat-eye glasses with a delicate rhinestone-tipped frame, long oval manicured nails in deep indigo lacquer`
+
+
+### 📸 Imágenes (7/7 — Completo)
+
+| Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| [📸 View](../../../05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_standing.png) | [📸 View](../../../05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_back_view.png) | [📸 View](../../../05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_seated.png) | [📸 View](../../../05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_pov.png) | [📸 View](../../../05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_odalisque.png) |
 
 **1. Standing:**
 

@@ -244,11 +244,19 @@
 
 ---
 
+## 🌹 Look 32: Guepiere Lavanda
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_L32_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_standing.png) | ![anais_L32_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_back_view.png) | ![anais_L32_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_seated.png) | ![anais_L32_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_side_profile.png) | ![anais_L32_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_sovereign_gaze.png) | ![anais_L32_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_pov.png) | ![anais_L32_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_odalisque.png) |
+
+---
+
 ## 🌹 Look 33: Ciruela Y Charol Gunmetal
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![anais_033_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_standing.png) | ![anais_033_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_back_view.png) | ![anais_033_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_seated.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![anais_033_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_standing.png) | ![anais_033_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_back_view.png) | ![anais_033_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_seated.png) | ![anais_033_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_side_profile.png) | ![anais_033_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_sovereign_gaze.png) | ![anais_033_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_pov.png) | ![anais_033_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_odalisque.png) |
 
 ---
 

@@ -1,13 +1,13 @@
 # 🖼️ Galería: look27_cromo_liquido
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![miss_doll_027_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | ![miss_doll_027_glacial_command.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png) | ![miss_doll_027_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) |
-| ![miss_doll_027_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) | ![miss_doll_027_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | ![miss_doll_027_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_standing.png) |
+| ![miss_doll_027_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | ![miss_doll_027_glacial_command.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png) | ![miss_doll_027_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_odalisque.png) |
+| ![miss_doll_027_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) | ![miss_doll_027_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) | ![miss_doll_027_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![miss_doll_027_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | ![miss_doll_027_glacial_command.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png) | ![miss_doll_027_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) | ![miss_doll_027_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) |
-| ![miss_doll_027_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | ![miss_doll_027_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_standing.png) |
+| ![miss_doll_027_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | ![miss_doll_027_glacial_command.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png) | ![miss_doll_027_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_odalisque.png) | ![miss_doll_027_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) |
+| ![miss_doll_027_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) | ![miss_doll_027_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | ![miss_doll_027_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_standing.png) |
 
 
 ---
@@ -24,6 +24,7 @@ Total imágenes: 6
 ## 📜 Lista de Archivos (Descarga Directa)
 - [miss_doll_027_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png)
 - [miss_doll_027_glacial_command.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png)
+- [miss_doll_027_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_odalisque.png)
 - [miss_doll_027_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png)
 - [miss_doll_027_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png)
 - [miss_doll_027_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png)
