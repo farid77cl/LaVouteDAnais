@@ -1857,11 +1857,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a liquid chrome mirror-finish latex mini dress with a high boat neckline at the front and a deep scooped open back exposing the full spine to the waist, long fitted sleeves to the wrist, a sharply nipped waist and a hem finishing high on the thigh, worn with sheer smoke grey stockings, a fine hot pink enamel cuff on one wrist, hot pink lacquered drop earrings, (8-inch clear acrylic platform stiletto sandals with hot pink patent ankle straps, razor-thin metal needle heel:1.3), (long coffin-shaped nails in glossy hot pink polish:1.1)
 ```
 
-### 📸 Imágenes (5/7 — Parcial)
+### 📸 Imágenes (6/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | ⏳ | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) | ⏳ |
 
 ### 1. Standing
 ```text

@@ -244,4 +244,28 @@
 
 ---
 
+## 🌹 Look 33: Ciruela Y Charol Gunmetal
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_033_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_standing.png) | ![anais_033_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_back_view.png) | ![anais_033_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look33_ciruela_y_charol_gunmetal/anais_033_seated.png) | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 🌹 Look 34: Slip Champagne A Medianoche
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_034_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_standing.png) | ![anais_034_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_back_view.png) | ![anais_034_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_seated.png) | ![anais_034_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_side_profile.png) | ![anais_034_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_sovereign_gaze.png) | ![anais_034_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_pov.png) | ![anais_034_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look34_slip_champagne_a_medianoche/anais_034_odalisque.png) |
+
+---
+
+## 🌹 Look 35: Blazer Indigo Ejecutivo
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_035_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_standing.png) | ![anais_035_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_back_view.png) | ![anais_035_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_seated.png) | ![anais_035_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_side_profile.png) | ![anais_035_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_sovereign_gaze.png) | ![anais_035_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_pov.png) | ![anais_035_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look35_blazer_indigo_ejecutivo/anais_035_odalisque.png) |
+
+---
+
 *Galería Anaïs Belland coordinada por Ele.* 👑
