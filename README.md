@@ -88,8 +88,8 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **La Piel que Diseño** — Capítulo 1 Maestro v1 publicado en HTML (con firma de Anaïs y gancho). Capítulo 2 v1.7.1 pendiente de Gate de la Ama.
-- **El Secreto de la Cómoda** — Capítulo 2 v2.0 en progreso / pendiente de Gate de la Ama.
+- **Café con Piernas** — Cap 1 y Cap 2 publicados; arco del Cap 3 (final del relato) listo, pendiente de escritura.
+- **El Secreto de la Cómoda** — Capítulo 2 v4.0 en progreso / pendiente de Gate de la Ama.
 
 ### Biblioteca Completa (39 relatos finalizados · Estandarización MD en curso)
 - **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.

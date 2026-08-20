@@ -165,7 +165,7 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **35** (Look 01-35, rotación de los 8 arquetipos) · **245 prompts** | 🟢 **207/245** (84,5% · medido **19/08/2026** sobre `git ls-files`): **7/7 en L01-L25, L28-L30** (28 looks completos) · **L26 6/7 · L27 5/7** · **L31-L35 sin materializar (0/35)** |
+| **Looks bajo canon nuevo** | **35** (Look 01-35, rotación de los 8 arquetipos) · **245 prompts** | 🟢 **208/245** (84,9% · medido **20/08/2026** sobre `git ls-files`): **7/7 en L01-L25, L28-L30** (28 looks completos) · **L26 6/7 · L27 6/7** (subió de 5/7) · **L31-L35 sin materializar (0/35)** |
 | **Arquetipos** | **8** desde el 13/08/2026 — entra **👙 Bikini / Lencería Erótica al 15%** (Ama), con las siete metas anteriores prorrateadas y frontera escrita contra VIP/Privado. Dueño único: `02_Personajes/_perfiles_visuales/miss_doll.md` §6 | 🆕 |
 | **Estado Actual** | Prompts listos (245/245) y verificados contra el parser de la app (0 críticos). Batch L31-L35 incorporado el 19/08/2026. L22 completado al 7/7 con pose Odalisque cenital y L26 avanzado a 6/7. | 🟢 |
 
