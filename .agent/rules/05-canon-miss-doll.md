@@ -24,9 +24,10 @@ Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradi
 ## Vestuario y Materiales
 
 - **Centro del look:** corset visible o arquitectura de corset integrada.
+- **Batas (Ama 20/08/2026):** PROHIBIDAS las batas cortas. Siempre abiertas, translúcidas y mínimo al tobillo o arrastrando hasta el suelo (`ankle-length` o `floor-length`).
 - **Materiales:** latex, PVC, vinilo, neopreno tecnico, nylon estructural, chrome hardware, black bondage webbing. Cuero solo en corsés, accesorios y arneses — nunca como pieza principal.
 - **Paleta:** neon/hot/dusty pink como firma SIEMPRE PRESENTE; negro carbon, chrome, blanco, champagne, coral, mint, turquoise, lavender o rose gold como variantes controladas.
-- **Calzado:** platform stiletto boots / Pleaser-style heels. Nunca flats. Nunca block heels.
+- **Calzado:** platform stiletto boots / Pleaser-style heels con plataforma (6" a 8"). Nunca flats, nunca block heels, **PROHIBICIÓN ABSOLUTA de mules** (calzado destalonado sin sujeción de talón/tobillo, Ama 20/08/2026).
 - **Estilo:** Fetiche sintético de alto nivel — parece uniforme privado real, no disfraz. Su mundo es el club y el calabozo.
 - **Sistema completo de poses + vestuario:** `02_Personajes/01_Principales/miss_doll/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
 

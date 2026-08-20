@@ -55,9 +55,9 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## §3 · Negative Prompt
 
-**Base (siempre) — ampliado 11/08/2026 con los fallos reales detectados en el rediseño de rostro/cuerpo:**
+**Base (siempre) — ampliado 11/08/2026 con los fallos reales detectados en el rediseño de rostro/cuerpo, y 20/08/2026 con veto de mules y batas cortas:**
 ```text
-bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt, mule, mules, platform mule, mule sandals, slide sandals, backless heels, short robe, mini robe
 ```
 > ⚠️ El `corset/waist cincher/bustier` va en negative BASE porque el corsé ya no es obligatorio (§5.5) — si el look de hoy sí lo lleva, sacar esos 3 términos del negative de ese prompt puntual.
 > 🔙 **El experimento de cuerpo "base Tiffany Stratton" (17/08/2026) se revirtió el mismo día** — este negative es el original del 11/08, restaurado sin cambios. Ver nota en §2.
@@ -126,7 +126,9 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 
 Auditado sobre los 4 looks VIP/Privado + Penthouse/Off-duty existentes: **2 de 4 llevan bata abierta** sobre el bralette (L04 mesh negro sobre dusty rose, L06 satén perla sobre pearl white) y **2 de 4 van de slip-dress de una pieza sin bata** (L11, L13 — sus propios conceptos dicen textual *"robe+bralette ya usado → slip dress"*, es Step 0 alternando silueta). **Directiva: ese 50% es un piso, no un promedio — no puede bajar hacia adelante.**
 
-- **Token:** `sheer/satin/mesh <color> robe left open and draped off one shoulder` — material coherente con la paleta del look, bralette+brief o slip a juego debajo.
+> 📏 **Largo obligatorio de bata (Ama 20/08/2026):** **PROHIBIDAS las batas cortas.** Las batas de Miss Doll deben ser **mínimo al tobillo o más largas (ankle-length o floor-length / trailing)** para mantener la elegancia dramática y el arrastre de tela en el suelo.
+
+- **Token:** `sheer/satin/mesh <color> floor-length open robe left open and draped off one shoulder` — material coherente con la paleta del look, bralette+brief o slip a juego debajo.
 - **Regla de silueta:** bata **siempre abierta**, nunca cerrada — el abdomen tonificado (§2) es el foco, una bata cerrada lo tapa igual que un corsé mal puesto.
 - **🟠 Riesgo conocido en Back View:** prenda de frente abierto en Back View tiende a re-decorarse o cerrarse mal (mismo defecto documentado en Anaïs `anais.md` §5.1c/§9) — verificar que el ancla de espalda esté puesta cuando la bata aparezca en esa pose.
 - **🩱 Material por defecto DESDE 17/08/2026: semitransparente, no opaco.** Auditado el Look 25 (Rose Marabou Suite): la bata estaba en `silk charmeuse` (opaco) y el `BACK_ANCHOR` funcionaba perfecto — cerraba bien por detrás — pero la sensualidad seguía muriendo en Back View, porque una bata opaca bien cerrada tapa la lencería igual de bien que una mal cerrada. **El riesgo de arriba no era solo de anclaje: era de material.** Corrección de fondo, no parche: el token por defecto pasa a ser `sheer <material> open robe, semi-transparent fabric that reveals the lingerie beneath from every angle including from behind, falling loose off one/both shoulder(s), dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin sash` — chiffon/georgette/mesh translúcido, nunca satén o charmeuse opacos, y **puños anchos** (`wide bell-shaped cuffs`) como firma nueva de silueta. Con esto la lencería se lee en las 7 poses, back view incluido, sin depender de que el ancla de espalda salga perfecta. Retrofit al tocar (no migración masiva): se aplica a todo look nuevo con bata desde ahora; los looks ya materializados con bata opaca no se regeneran salvo que la Ama lo pida.
@@ -146,10 +148,11 @@ Auditado sobre los 4 looks VIP/Privado + Penthouse/Off-duty existentes: **2 de 4
 
 - **Regla:** cualquier tipo de calzado sirve — stiletto pump, bota, sandalia — pero **SIEMPRE con plataforma**. `tacones/botas/sandalias siempre con plataforma` (directiva Ama 11/08/2026, tras derogar el corsé obligatorio: esto pasa a ser la única pieza inamovible del BLOQUE B).
 - **Altura mínima:** plataforma 6" o superior (el canon histórico usa 8").
-- **Prohibido:** flats, block heel, **chunky heel**, kitten heel, wedge, descalza, sandalia/tacón/bota **sin plataforma**.
-- **🔻 Botines/ankle boots — FUERA de la rotación (Ama 11/08/2026):** cuando el calzado elegido es bota, solo **knee-high (bajo rodilla)** o **thigh-high/over-the-knee (sobre rodilla)** — nunca ankle boot corto. Pump/sandalia/mule siguen permitidos como categorías aparte, esta restricción es específica de botas.
+- **Prohibido:** flats, block heel, **chunky heel**, kitten heel, wedge, descalza, sandalia/tacón/bota **sin plataforma**, **mules / tacones destalonados sin sujeción al talón**.
+- **🔻 Mules — PROHIBICIÓN ABSOLUTA (Ama 20/08/2026):** quedan terminantemente **PROHIBIDOS los tacones/sandalias estilo mule** (destalonados o sin sujeción en el talón/tobillo). Solo calzado con sujeción segura: pumps cerrados con plataforma, sandalias de tiras con pulsera al tobillo o botas altas.
+- **🔻 Botines/ankle boots — FUERA de la rotación (Ama 11/08/2026):** cuando el calzado elegido es bota, solo **knee-high (bajo rodilla)** o **thigh-high/over-the-knee (sobre rodilla)** — nunca ankle boot corto.
 - **Atributos obligatorios del token** (nombrar los 5 en cada pose): altura · tipo de plataforma · material/acabado · color · tipo de tacón (`razor-thin metal needle heel`).
-- ⚠️ La palabra `chunky` va **solo en el negative**, jamás en el positive.
+- ⚠️ La palabra `chunky` y `mule` van **solo en el negative**, jamás en el positive.
 
 ### 5.4 · Prohibiciones absolutas
 
@@ -158,6 +161,8 @@ Auditado sobre los 4 looks VIP/Privado + Penthouse/Off-duty existentes: **2 de 4
 | Flequillo / frente cubierta | frente despejada, `NO BANGS` | Canon V3.5 Stealth |
 | Labios **rosados** (rosa = firma de Ele), nude o mate | maquillaje elegido por la ocasión del look, alto brillo | Lo inviolable es la **forma** (ultra-plump, overlined, cupid's bow, high-gloss wet), no el color — §2 (Ama 02/08) |
 | Cuero como pieza principal | látex/PVC/vinilo; cuero solo en corsé/arnés/accesorio | Canon materiales |
+| **Tacones / sandalias estilo mule** | pumps con plataforma, sandalias con pulsera al tobillo, botas altas | **PROHIBICIÓN ABSOLUTA (Ama 20/08/2026).** Mules prohibidos |
+| **Batas cortas / mini robes** | batas al tobillo o arrastrando hasta el suelo (`floor-length` / `ankle-length`) | **PROHIBICIÓN ABSOLUTA (Ama 20/08/2026).** Mínimo al tobillo |
 | Tatuajes | piel limpia | Salvo variante legacy pedida por la Ama |
 | Texto/nombre sobre prenda | choker liso, O-ring, hardware sin letras | Regla transversal del repo |
 | Sonrisa amplia / actitud juguetona | Face of the Pole | Principio de registro — **excepción única: arquetipo Girly Girl (§6), ver ahí las reglas** |

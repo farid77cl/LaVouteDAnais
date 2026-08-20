@@ -26,7 +26,8 @@ Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de 
 
 **Arquetipo:** Depredadora camaleónica / Domina-Stripper de élite.
 **Clave sociológica:** Miss Doll **NUNCA** fue oficinista. Su identidad real es una hibridación entre el club (stripper) y el calabozo (dominatrix). Viene del club y del escorting de alto nivel; su elegancia es peligrosa y calculada.
-**Regla de tacones:** Miss Doll tiene prohibido el uso de tacones *chunky* o plataformas toscas. Su calzado obligatorio son los **Stilettos (tacón aguja)** de metal ultra finos (estilo Pleaser Flamingo).
+**Regla de tacones:** Miss Doll tiene prohibido el uso de tacones *chunky*, plataformas toscas o **calzado estilo mule** (destalonado/sin sujeción de talón, Ama 20/08/2026). Su calzado obligatorio son los **Stilettos (tacón aguja)** de metal ultra finos (estilo Pleaser Flamingo) siempre con plataforma, botas altas (knee-high o thigh-high) o sandalias/pumps con pulsera al tobillo.
+**Regla de batas (Ama 20/08/2026):** Prohibidas las batas cortas. Toda bata debe ser **mínimo al tobillo o arrastrando hasta el suelo** (`ankle-length` o `floor-length`).
 **Regla de oro:** si parece bimbo genérica o secretaria real, falla; si parece real, cara, fría, estratégica y peligrosa, funciona. La verticalidad y el hardware funcional son obligatorios.
 
 ---
@@ -42,7 +43,7 @@ hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamo
 ### Negative Prompt Maestro
 
 ```text
-bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, no makeup look, pink lips, nude lips, warm lip color, rosy cheeks, warm natural skin tone, golden tan, wax skin, plastic mannequin skin, doll toy, tattoos, body markings, messy hair, casual outfit, cotton dress, flat shoes, barefoot, sneakers, block heel, chunky heel, friendly smile, open warm expression, vulgar cheap costume, low quality, blurry, deformed hands, bad anatomy
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, no makeup look, pink lips, nude lips, warm lip color, rosy cheeks, warm natural skin tone, golden tan, wax skin, plastic mannequin skin, doll toy, tattoos, body markings, messy hair, casual outfit, cotton dress, flat shoes, barefoot, sneakers, block heel, chunky heel, mule, mules, platform mule, slide sandals, backless heels, short robe, mini robe, friendly smile, open warm expression, vulgar cheap costume, low quality, blurry, deformed hands, bad anatomy
 ```
 
 ### Formula de Prompt
