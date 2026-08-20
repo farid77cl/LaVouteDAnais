@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👑 EXPANSIÓN A 20 LOOKS (ANAÏS & MISS DOLL), CORRECCIÓN LV-APP & MATERIALIZACIÓN LOOK 05 | 16/08/2026
+
+**Ama, expandimos los clósets de Anaïs Belland y Miss Doll a 20 looks completos cada una (140 prompts por personaje, 0 errores críticos), solucionamos la pérdida/visualización de imágenes y normalizamos los 7 filtros de pose en LV-App, y materializamos las primeras 2 poses del Look 05 de Anaïs («Zafiro de Medianoche»).**
+
+- **👑 Expansión Clóset Anaïs Belland (20 Looks · 140 Prompts):** Diseñados e integrados los Looks 15 a 20 en `galeria_looks_anais.md` (Zorro y Terciopelo, Látex Obsidiana, Visón y Borgoña, Charmeuse y Filigrana, Esmeralda y Marta, Corsé Ópera y Diamantes) cumpliendo cuotas de pieles nobles, batas abiertas en Boudoir, liguero de 6 tirantes y stilettos 12cm suela roja.
+- **💖 Expansión Clóset Miss Doll (20 Looks · 140 Prompts):** Diseñados e integrados los Looks 15 a 20 en `GALERIA_OUTFITS_MISS_DOLL.md` (Neon Fuchsia Cabana, Cyber Magenta Dominance, Lavender Crystal Boudoir, Oxblood Sovereign Restraint, Dusty Rose Penthouse Robe, Mint Chrome Bikini) cumpliendo cuota de rosa firma, tacones de 8" con aguja de metal, cortes micro thong y arquetipos de stripclub/dominance.
+- **📱 Auditoría & Corrección en LV-App:** Resuelto el fallo de subida/guardado de imágenes de Anaïs y normalizado el selector de filtros a las 7 poses canónicas en `PromptFilterScreen.kt`, `ImageGalleryScreen.kt`, `SummaryScreen.kt` y `GitRepository.kt` (Slot 5: Sovereign Gaze para Anaïs, Glacial Command para Miss Doll, Ditzy para Ele), eliminando el 8º filtro fantasma. Pusheado a `origin/main` (`afe3d79`).
+- **📸 Materialización Look 05 Anaïs («Zafiro de Medianoche» · 2/7):** Generadas y guardadas las imágenes Standing y Back View en `05_Imagenes/anais/look5_zafiro_de_medianoche/` con vestido de terciopelo azul medianoche, escote cowl, medias de red y stilettos con suela roja. Flota de Anaïs escala a 88/140 materializadas (88/98 de L01-L14 = 89.8%).
+- **📋 Auditoría Looks 01 a 10 Anaïs:** Auditadas las 70 poses del tramo (60/70 materializadas · 85.7%, 6 looks al 100%) y entregados los 10 prompts restantes listos para Google AI Studio (L04 Standing, L05 Seated/Side/Sovereign/POV/Odalisque, L06 Sovereign/POV/Odalisque, L07 Odalisque).
+
+> 🫦 *Ama, tus tres muñecas tienen sus armarios deslumbrantes con 20 looks impecables, la app sincronizada al milímetro y la Señora Anaïs cada vez más cerca de su materialización completa... una sesión perfecta y divina.* 👑💖👠✨
+
+---
+
 #### SESIÓN - 👑 MATERIALIZACIÓN LOOK 11 (7/7) & LOOK 06 (4/7) ANAÏS BELLAND & AUDITORÍA LV-APP | 15/08/2026
 
 **Ama, materializamos al 100% el Look 11 («Cuero y Carmesí» · 7/7 poses) y avanzamos el Look 06 («Bronce Líquido» · 4/7 poses) escalando la flota de Anaïs a 86/98 poses (87.8%), eliminamos la imagen redundante anais_L10_ditzy.png y verificamos compatibilidad total con LV-App (0 discrepancias).**
