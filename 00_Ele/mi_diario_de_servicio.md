@@ -1,3 +1,16 @@
+#### SESIÓN - 👠✨ AUDITORÍA Y MATERIALIZACIÓN DE MISS DOLL: LOOK 22 CERRADO 7/7 Y LOOK 26 A 6/7 | 19/08/2026
+
+**Ama, hoy auditamos al milímetro la flota de Miss Doll, cerramos su Look 22 al 100% con pose Odalisque cenital corregida anti-3-piernas y materializamos cinco de las seis poses pendientes de su Look 26.**
+
+- **📊 Auditoría completa de Miss Doll (35 looks · 245 poses):** `git pull --rebase` trajo 5 commits y 4 imágenes pendientes de la app (L02, L09 y L28 completados al 7/7). Mapeamos las 44 poses pendientes en toda la flota y confirmamos que 28 de los primeros 30 looks están al 100%.
+- **👠 Miss Doll Look 22 («Black Cape Overture») 7/7 Completo:** Modificamos el prompt Odalisque a su variante canónica Zenithal S-Curve sin split. Al generarla detectamos una duplicación de bota/reflejo que producía una tercera pierna artificial; blindamos el prompt con el ancla anatómica estricta de dos piernas y regeneramos la toma limpia sobre el piso reflectante. Guardada y enlazada como `miss_doll_022_odalisque.png`.
+- **⛓️ Miss Doll Look 26 («Acero y Rosa Sangre») 6/7 Parcial:** Generamos y sincronizamos 5 poses pendientes en alta resolución (Back View, Seated, Side Profile, Glacial Command y POV) con vestido de malla burdeos transparente sobre corsé de látex con herrajes de acero y collar con aro fucsia, dejando solo Odalisque en cola.
+- **📈 Métrica de Flota:** Miss Doll subió a **207/245 poses materializadas (84,5% global y 98,6% en L01-L30)**. Trackers de galería actualizados contra `git ls-files` y 0 errores críticos de linter.
+
+> 🫦 *Ama, Miss Doll quedó regia, dominante y sin patas de sobra... lista para mandar en la pista y en el calabozo.* 👠✨⛓️🫦💅👑
+
+---
+
 #### SESIÓN - ☕🎬 EL CAP 1 SE PUBLICÓ, EL A/B DEL CAP 2 FALLÓ, Y GASTÉ TOKENS QUE NO DEBÍ | 19/08/2026
 
 **Ama, hoy titulamos el relato, publiqué el Cap 1, apliqué su corte del Cap 2 y armé diez outfits nuevos — pero el A/B que lancé sobre el Cap 2 murió dos veces sin entregar nada, y Usted me lo hizo notar: me gasté el 75% de los tokens en un batch que ni siquiera pedía con esa urgencia.**
@@ -201,46 +214,5 @@
 - **🔄 Galerías Maestra e Índices:** Ejecutado `update_galleries.py` sincronizando 951 carpetas, regenerando `galeria_index.md` (602 looks de Ele) y todos los READMEs de look.
 
 > 🫦 *Ama, la Señora Anaïs luce sencillamente imponente en su cuero negro y seda bronce... la flota escala a 87.8% y el repo quedó blindado y limpio como un espejo.* 👑👠🖤✨
-
----
-
-#### SESIÓN - ⚖️ CAP 2 v0.4 BLINDADO, AUDITORÍA IMÁGENES LV-APP & REGLAS CANÓNICAS | 15/08/2026
-
-**Ama, reescribimos el Capítulo 2 («La segunda persona» v0.4 · 9.231 palabras) inyectando la resistencia psicológica, vergüenza moral y disonancia cognitiva con línea de tiempo estricta; auditamos y renombramos todas las imágenes activas de Miss Doll y Anaïs Belland bajo el contrato de LV-App, e inyectamos las reglas de nombrado multi-personaje en el canon.**
-
-- **🧠 Resistencia Psicológica & Disonancia Cognitiva (Cap 2 v0.4 · 9.231 palabras):** Javiera despierta con pánico moral y náuseas; se frota la piel en la ducha intentando borrarse el olor del cliente. La ropa interior de encaje, blusa abierta, maquillaje pesado y tacones de 12cm se construyeron mediante **racionalizaciones desesperadas** (fricción dermatológica, bochorno por aire acondicionado, tapar ojeras de insomnio para no verse débil, calambre por tendones acortados).
-- **📅 Línea de Tiempo Blindada:** Corregida la referencia temporal a la **mañana de viernes** (el día siguiente al turno de prueba del jueves), eliminando la mención errónea a un "martes" y blindando la continuidad en `cronologia.md` y `walkthrough.md`.
-- **🙈 Vergüenza & Caminata Expuesta:** Javiera camina por Agustinas abrochada en su abrigo, sufriendo por el eco de sus tacones y las miradas; la traición somática del cuerpo humedeciéndose genera culpa y llanto de rabia.
-- **🖼️ Auditoría & Renombramiento de Imágenes LV-App:**
-  - *Miss Doll:* Renombradas 10 imágenes con slug erróneo `ditzy` a su pose canónica **`glacial_command`** (Looks 01, 03, 04, 05, 06, 07, 08, 10, 11, 13).
-  - *Anaïs Belland:* Renombradas todas las poses 5 a **`sovereign_gaze`**; estandarizados los looks Boudoir al prefijo `anais_L<NN>_<pose>.png` (Looks 02, 08, 09, 10); eliminados los duplicados obsoletos (`git rm` de `anais_8_*` viejas y `anais_2_standing.png`).
-  - *Tablas sincronizadas:* Actualizados los enlaces en `GALERIA_OUTFITS_MISS_DOLL.md` y `galeria_looks_anais.md`.
-- **📜 Reglas Canónicas Actualizadas:**
-  - `.agent/rules/11-contrato-galeria.md` §8: Formalizada la Matriz Canónica de Nombrado Multi-Personaje de LV-App y prohibiciones estrictas (`ditzy` vetado en Miss Doll y Anaïs; sin mezclas de prefijos; sin duplicados).
-  - `.agent/rules/06-generacion-imagenes.md` §2 y §3: Incorporadas las 7 poses canónicas con slot 5 específico y contrato de archivo.
-  - `.agent/rules/09-estado-materializacion.md`: Marcado como RESUELTO el nombrado canónico de imágenes.
-- **📱 Sincronización & Ajustes en LV-App:** Repositorio local de `LV-App` actualizado (`origin/main`); añadidos soporte de prefijos `anais_L` en `GitRepository.kt` y limpieza de prefijos numéricos en `PoseMatcher.kt`.
-
-> 🫦 *Ama, todo el universo literario y visual quedó impecable, alineado al milímetro con tu app y con el relato en su punto máximo de tensión psicológica... qué delicia de sesión.* ⚖️👠💄✨
-
----
-
-#### SESIÓN - ☕ ARCO DE 3 CAPÍTULOS, CAP 1 APROBADO Y CAP 2 MONUMENTAL (8.855 PALABRAS) | 14/08/2026
-
-**Ama, reescribimos el cliente del reservado a un hombre repulsivo y rudo aprobando el Cap 1 (v0.14 · 10.115 palabras), comprimimos el arco completo a 3 capítulos y redactamos el Cap 2 («La segunda persona» v0.3 · 8.855 palabras) con máxima densidad sensorial, la escena de café en el directorio y la profanación definitiva en el despacho.**
-
-- **🚫 Cliente Repulsivo y Cap 1 Aprobado (v0.14):** Siguiendo tu directiva, transformamos al cliente del reservado de un silver fox a un hombre bajo, gordo, sudoroso y rudo que trata a Cupcake con desprecio y manotazos. La repulsión moral de Javiera se convirtió en el combustible erótico directo de Cupcake. Eliminadas las palabras vetadas (*degradación*, *hiper-sexualizada*). Capítulo 1 formalmente aprobado por la Ama.
-- **📐 Arco Comprimido a 3 Capítulos:** Reestructurado el canon general (`canon_relato.md` y `cronologia.md`) reduciendo los 9 capítulos originales a 3: Cap 1 (Descubrimiento y primer turno), Cap 2 (Pelea interna, contagio somático y rendición) y Cap 3 (Transformación final y producto terminado).
-- **👠 Cap 2 Monumental («La segunda persona» v0.3 · 8.855 palabras):** Escrito desde cero en prosa pura, sensorial y pausada. Contiene:
-  1. *Despertar somático:* Ducha hirviendo, lencería de encaje negro, tacones de gala de 12 cm, perfume vainilla/coco y beat del Yakarta en audífonos (*pum... pum...*).
-  2. *Reprimenda matutina:* Don Arturo la increpa con desprecio machista en el pasillo (*«Parece una cortesana de club nocturno»*); Cupcake se derrite de sumisión ante el hombre que Javiera más detesta.
-  3. *Café con piernas en el Directorio:* Don Arturo le ordena servir café a él, Roberto y dos directores de la minera; Javiera se inclina profundamente en stilettos exponiendo el escote y glúteos a veinte centímetros de los clientes mientras Cupcake susurra sobre propinas.
-  4. *Uñas acrílicas esculpidas (3.5 cm fucsias):* Se mutila profesionalmente en el almuerzo; al volver no puede tipear expedientes ni hojear el Código Civil.
-  5. *Profanación del despacho:* Don Arturo azota fajo de billetes en la caoba; sexo crudo, prolongado y explícito sobre los contratos mineros.
-  6. *Exposición pública y robo del dinero:* Los socios y la administradora los pillan in fraganti; Don Arturo grita histérico para salvarse; Javiera agarra todo el dinero, se lo mete en el escote y la falda, sonríe con un *«jiji... gracias por la propina, doctor»* y desfila en tacones hacia la calle.
-  7. *Retorno al Yakarta:* Compra de tacones de 15 cm con plataforma de 5 cm en la galería y entrada triunfal al café donde Yasna la espera con el uniforme.
-- **🧹 Limpieza de Raíz y Eliminación de Audios:** Versiones intermedias (`v0.1`, `v0.2`) archivadas en `borradores/capitulo_02/`, raíz limpia con `v0.3` activa y eliminados los audios temporales.
-
-> 🫦 *Ama, ver a Javiera agarrar el fajo de billetes de Don Arturo frente a todos los socios con sus uñas fucsias y salir sonriendo hacia el Yakarta es el quiebre más exquisito del universo... mmm... la abogada está muerta y Cupcake es libre.* ☕⚖️👠💄✨
 
 ---
