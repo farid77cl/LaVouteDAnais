@@ -358,8 +358,6 @@ Cupcake se quedó sola en el cubículo, temblando, empapada de su propio sudor y
 
 Ese era su techo. La carne feliz.
 
-Ese tramo ciego, esa espera desesperada de los doce días por regresar a la vitrina, y esas cuatro subidas al privado en una sola tarde al volver, la delataron más que cualquier jadeo en la tarima. Estaba adicta. La necesitaba para respirar.
-
 ---
 
 ***
@@ -420,7 +418,7 @@ No hubo dudas. No hubo coartada. No quedaba nada de la abogada de Agustinas. La 
 
 —Cupcake será —dijo Don Nelson.
 
-Ella asintió, dio media vuelta y caminó hacia la puerta del camarín. En su mente resonó una frase antigua, un eco de la primera visita a la casona de Vitacura: *Ahora sé lo que soy.*
+Ella asintió, dio media vuelta y caminó hacia la puerta del camarín. *Ahora sé lo que soy.*
 
 —¡Cupcake! —la llamó una de las chicas nuevas, asomándose por la cortina del pasillo.
 
