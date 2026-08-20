@@ -244,11 +244,21 @@
 
 ---
 
+## 🌹 Look 31: Cobalto Y Chinchilla
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_031_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_standing.png) | ![anais_031_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_back_view.png) | ![anais_031_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_seated.png) | ![anais_031_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_side_profile.png) | ![anais_031_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_sovereign_gaze.png) | ![anais_031_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_pov.png) | ![anais_031_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_odalisque.png) |
+
+---
+
 ## 🌹 Look 32: Guepiere Lavanda
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![anais_L32_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_standing.png) | ![anais_L32_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_back_view.png) | ![anais_L32_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_seated.png) | ![anais_L32_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_side_profile.png) | ![anais_L32_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_sovereign_gaze.png) | ![anais_L32_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_pov.png) | ![anais_L32_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_odalisque.png) |
+
+<sub>📎 Tomas extra (5): [anais_L32_anexo_bed_anticipation.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_anexo_bed_anticipation.png), [anais_L32_anexo_chaise_intimate.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_anexo_chaise_intimate.png), [anais_L32_anexo_femme_fatale_smoke.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_anexo_femme_fatale_smoke.png), [anais_L32_anexo_femme_fatale_velvet.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_anexo_femme_fatale_velvet.png), [anais_L32_anexo_vanity_mirror.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look32_guepiere_lavanda/anais_L32_anexo_vanity_mirror.png)</sub>
 
 ---
 

@@ -1861,7 +1861,7 @@ a liquid chrome mirror-finish latex mini dress with a high boat neckline at the 
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_anexo_platform_pumps_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_anexo_platform_pumps_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look27_cromo_liquido/miss_doll_027_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -2186,11 +2186,11 @@ a hot-pink crystal-mesh micro bikini triangle top with fine adjustable straps, a
 ```
 
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look32_perla_en_la_terraza/miss_doll_032_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look32_perla_en_la_terraza/miss_doll_032_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look32_perla_en_la_terraza/miss_doll_032_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look32_perla_en_la_terraza/miss_doll_032_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look32_perla_en_la_terraza/miss_doll_032_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look32_perla_en_la_terraza/miss_doll_032_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look32_perla_en_la_terraza/miss_doll_032_odalisque.png) |
 
 ### 1. Standing
 
@@ -2255,11 +2255,11 @@ a baby-pink satin slip dress with a cowl neckline skimming rather than gripping 
 ```
 
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look33_slip_rosa_bebe/miss_doll_033_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look33_slip_rosa_bebe/miss_doll_033_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look33_slip_rosa_bebe/miss_doll_033_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look33_slip_rosa_bebe/miss_doll_033_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look33_slip_rosa_bebe/miss_doll_033_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look33_slip_rosa_bebe/miss_doll_033_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look33_slip_rosa_bebe/miss_doll_033_odalisque.png) |
 
 ### 1. Standing
 
@@ -2324,11 +2324,11 @@ a gunmetal-grey high-shine vinyl overbust corset with visible spiral steel bonin
 ```
 
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/miss_doll_034_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/miss_doll_034_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/miss_doll_034_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/miss_doll_034_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/miss_doll_034_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/miss_doll_034_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/miss_doll_034_odalisque.png) |
 
 ### 1. Standing
 
@@ -2393,11 +2393,11 @@ a rose-gold satin plunge demi-cup bra with fine lace trim, a matching rose-gold 
 ```
 
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| ⏳ | ⏳ Pendiente | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/miss_doll/look35_bata_champagne_vip/miss_doll_035_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look35_bata_champagne_vip/miss_doll_035_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look35_bata_champagne_vip/miss_doll_035_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look35_bata_champagne_vip/miss_doll_035_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look35_bata_champagne_vip/miss_doll_035_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look35_bata_champagne_vip/miss_doll_035_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look35_bata_champagne_vip/miss_doll_035_odalisque.png) |
 
 ### 1. Standing
 
