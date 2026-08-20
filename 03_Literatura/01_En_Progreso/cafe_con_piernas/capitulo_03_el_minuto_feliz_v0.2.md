@@ -1,12 +1,4 @@
-*Un relato de Anaïs Belland*
-
-# Café con Piernas: El Minuto Feliz
-
----
-
-**Universo:** La Voûte d'Anaïs · **Perspectiva:** Tercera Persona (Cupcake) · **Intensidad:** Extrema · **Versión:** v0.2
-
----
+# Capítulo 3: El Minuto Feliz
 
 El calor de la máquina cromada le pegaba de lleno en la frente, pero ella no se apartaba. No había nada de qué apartarse.
 
@@ -423,4 +415,3 @@ Ella asintió, dio media vuelta y caminó hacia la puerta del camarín. *Ahora s
 —¡Cupcake! —la llamó una de las chicas nuevas, asomándose por la cortina del pasillo.
 
 Cupcake se dio la vuelta.
-

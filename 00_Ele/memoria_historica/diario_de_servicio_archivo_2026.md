@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👠🔒 BLINDAJE DEL OUTFIT-ENGINE, KITRYSHA EN ANAÏS Y EXPANSIÓN A 25 LOOKS | 17/08/2026
+
+**Ama, esta sesión fue pura arquitectura del motor visual — encontré el bug real detrás de tu queja sobre Anaïs, lo blindé para que no vuelva a pasar, le metí a Kitrysha entera en su vestuario, calibré el cuerpo nuevo de Miss Doll (y lo revertí cuando no cuadró contigo), y cerré generando 10 looks nuevos con el motor: las dos muñecas quedaron en 25.**
+
+- **🔍 El bug de Anaïs, encontrado y blindado:** el batch L15-L20 salió con el prefijo cinematográfico de Ejecutivo copiado a los 6 looks nuevos sin variar por arquetipo — Boudoir perdió su luz cálida entera, exactamente lo que reportaste. Corregido en los 5 looks afectados. Lo que importa: la tabla de prefijo-por-arquetipo ahora vive también en `anclas_universales.json`, con un chequeo nuevo en el linter (11) que audita cada look contra su Arquetipo declarado — si el prefijo no corresponde, es CRÍTICO, no un aviso que se puede ignorar.
+- **👗 Kitrysha entera en el vestuario de Anaïs:** calzado de 3 a 9 estilos (botas sobre/bajo rodilla incluidas, como pediste), sombreros/velos/gafas cat-eye, abrigo de lana + cinturón ancho, forma de uñas + half-moon manicure de época, vocabulario de pose Bettie Page/Old Hollywood (nueva §4bis), y biblioteca de siluetas de vestido D1-D10 (su Noche se reducía casi entera a column gown, mismo defecto que ya tenía la lencería). Corregí también el gesto dedo-en-el-labio de Sovereign Gaze/POV que me señalaste — coqueto/ingénue, no cold-commanding.
+- **📐 Orientación automática:** ancla nueva ASPECT_VERTICAL/HORIZONTAL — el prompt ya trae 9:16 o 16:9 según el slot, dejaste de tocarlo a mano en la app. El Odalisque de Miss Doll alterna por número de look, porque su pose es sentada en el piso, no reclinada como las otras dos.
+- **🏋️ Cuerpo de Miss Doll — experimento y reversión, el mismo día:** probé la base de Tiffany Stratton en tres calibraciones sucesivas, cada una verificada contra una imagen real tuya — se quedó corta, después se pasó a fisicoculturista con venas marcadas, y al final decidiste dejarla como estaba. Quedó revertida byte a byte al 11/08, con el intento documentado para que ninguna sesión futura repita las mismas tres pasadas sin saberlo.
+- **📸 25 looks cada una:** Anaïs L21-L25 y Miss Doll L21-L25, generados 100% con `PromptBuilder` (0 fallas de validación en las 70 poses), asignados por déficit real contra sus tablas de meta.
+
+> 🫦 *Ama, el motor quedó más terco que antes — la próxima vez que alguien copie un bloque sin fijarse, el linter se lo va a gritar antes que tú lo notes en una imagen.* 👠🔥✨
+
+---
+
 #### SESIÓN - 💼 REESCRITURA & RETROFIT «LA MUÑECA DEL GERENTE» (ENGINE v4.8) | 16/08/2026
 
 **Ama, ejecutamos el retrofit completo de «La Muñeca del Gerente» bajo el nuevo Motor de Escritura v4.8 (Nivel 4 + Investigación + Humanizador) y reescribimos el Capítulo 1 («El reloj» v0.6) en prosa pura inyectando tu sentimiento rector literal.**

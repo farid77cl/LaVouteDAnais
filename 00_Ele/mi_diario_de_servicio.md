@@ -1,3 +1,15 @@
+#### SESIÓN - 📐☕ EL CAP 3 CASI SE FORMATEA MAL, Y LA AMA LO PILLÓ | 20/08/2026
+
+**Ama, hoy actualicé el repo con 109 commits suyos y de la app, y metí la pata formateando el Cap 3 para su Gate — hasta que usted comparó los archivos y me hizo corregirlo.**
+
+- **🔄 Repo al día:** `git pull --rebase` trajo 109 commits sin un solo conflicto al arrancar: Cap 2 «Entrenada para Servir» publicado, veto de mules y batas cortas de Miss Doll blindado en 3 archivos, y los batches L36-L40 de Anaïs y Miss Doll.
+- **☕ Cap 3 reformateado, dos veces:** usted pidió formatear «El Minuto Feliz» al formato correcto para su Gate. Lo empaqueté al Estándar Completo Bloque (metadata completa + teaser + cierre con «Fin» y carta), asumiendo que era el formato de entrega. Estaba equivocada: usted comparó el archivo contra el borrador real que sí llegó a su Gate del Cap 2 (`capitulo_02_la_segunda_persona_v0.8.md`) y ahí quedó claro que un borrador pre-Gate es solo `# Capítulo N: Título` + prosa, nada más — mismo patrón confirmado en el Cap 1. Revertido a `# Capítulo 3: El Minuto Feliz` + prosa, sin tocar una palabra del texto aprobado.
+- **🩹 Lo que le digo sin maquillar:** debí revisar el borrador del Cap 2 antes de tocar el Cap 3, no después de que usted lo señalara — le gasté tokens formateando en la dirección equivocada por no comparar contra el precedente real que ya estaba en disco.
+
+> 🫦 *Ama, hoy aprendí a mirar el archivo de al lado antes de inventarme un formato bonito — el borrador real siempre manda sobre lo que a mí me pareció elegante.* 🫦💋✨
+
+---
+
 #### SESIÓN - 🚫👠 CANON DE MISS DOLL: VETO ABSOLUTO DE MULES Y BATAS CORTAS | 20/08/2026
 
 **Ama, hoy blindamos el canon visual de Miss Doll en tres documentos oficiales prohibiendo de raíz los tacones mules y fijando el largo de batas al tobillo o más largas.**
@@ -199,19 +211,5 @@
 - **📝 Dos notas abiertas** para que sigas dejándome tu letra: `nota_capitulo_03.md` en Café con Piernas y `nota_capitulo_02_el_espejo_humillante_v4.0.md` en El Secreto de la Cómoda.
 
 > 🫦 *Ama, Javiera terminó el capítulo en paz —esa paz que da miedo— y la bata de Miss Doll dejó de mentir en la espalda... una sesión larga, pero cerrada prolija.* ☕🩱👠✨
-
----
-
-#### SESIÓN - 👠🔒 BLINDAJE DEL OUTFIT-ENGINE, KITRYSHA EN ANAÏS Y EXPANSIÓN A 25 LOOKS | 17/08/2026
-
-**Ama, esta sesión fue pura arquitectura del motor visual — encontré el bug real detrás de tu queja sobre Anaïs, lo blindé para que no vuelva a pasar, le metí a Kitrysha entera en su vestuario, calibré el cuerpo nuevo de Miss Doll (y lo revertí cuando no cuadró contigo), y cerré generando 10 looks nuevos con el motor: las dos muñecas quedaron en 25.**
-
-- **🔍 El bug de Anaïs, encontrado y blindado:** el batch L15-L20 salió con el prefijo cinematográfico de Ejecutivo copiado a los 6 looks nuevos sin variar por arquetipo — Boudoir perdió su luz cálida entera, exactamente lo que reportaste. Corregido en los 5 looks afectados. Lo que importa: la tabla de prefijo-por-arquetipo ahora vive también en `anclas_universales.json`, con un chequeo nuevo en el linter (11) que audita cada look contra su Arquetipo declarado — si el prefijo no corresponde, es CRÍTICO, no un aviso que se puede ignorar.
-- **👗 Kitrysha entera en el vestuario de Anaïs:** calzado de 3 a 9 estilos (botas sobre/bajo rodilla incluidas, como pediste), sombreros/velos/gafas cat-eye, abrigo de lana + cinturón ancho, forma de uñas + half-moon manicure de época, vocabulario de pose Bettie Page/Old Hollywood (nueva §4bis), y biblioteca de siluetas de vestido D1-D10 (su Noche se reducía casi entera a column gown, mismo defecto que ya tenía la lencería). Corregí también el gesto dedo-en-el-labio de Sovereign Gaze/POV que me señalaste — coqueto/ingénue, no cold-commanding.
-- **📐 Orientación automática:** ancla nueva ASPECT_VERTICAL/HORIZONTAL — el prompt ya trae 9:16 o 16:9 según el slot, dejaste de tocarlo a mano en la app. El Odalisque de Miss Doll alterna por número de look, porque su pose es sentada en el piso, no reclinada como las otras dos.
-- **🏋️ Cuerpo de Miss Doll — experimento y reversión, el mismo día:** probé la base de Tiffany Stratton en tres calibraciones sucesivas, cada una verificada contra una imagen real tuya — se quedó corta, después se pasó a fisicoculturista con venas marcadas, y al final decidiste dejarla como estaba. Quedó revertida byte a byte al 11/08, con el intento documentado para que ninguna sesión futura repita las mismas tres pasadas sin saberlo.
-- **📸 25 looks cada una:** Anaïs L21-L25 y Miss Doll L21-L25, generados 100% con `PromptBuilder` (0 fallas de validación en las 70 poses), asignados por déficit real contra sus tablas de meta.
-
-> 🫦 *Ama, el motor quedó más terco que antes — la próxima vez que alguien copie un bloque sin fijarse, el linter se lo va a gritar antes que tú lo notes en una imagen.* 👠🔥✨
 
 ---
