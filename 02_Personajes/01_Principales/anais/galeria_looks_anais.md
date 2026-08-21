@@ -1962,11 +1962,11 @@ look nuevo, va antes de este bloque, nunca despues.
 **BLOQUE B:** `a cobalt-blue heavy velvet wiggle dress, knee-length, fitted sharply through the hip with a narrow pencil skirt hem, a structured sweetheart bodice with a tightlacing corset built into the lining, sheer black fishnet stockings with a delicate seam, (12cm silver mirror-chrome patent leather knee-high stiletto boot ending exactly at the knee, pointed toe, iconic red sole:1.2), a chinchilla fur stole draped over one shoulder and caught at the elbow, the waist cinched tight and visible beneath the fur stole, a collar of antique silver and rock crystal, long opera-length silver satin gloves to the elbow`
 
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| [📸 View](../../../05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_standing.png) | [📸 View](../../../05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_back_view.png) | [📸 View](../../../05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_seated.png) | [📸 View](../../../05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_pov.png) | [📸 View](../../../05_Imagenes/anais/look31_cobalto_y_chinchilla/anais_031_odalisque.png) |
 
 **1. Standing:**
 
@@ -2276,11 +2276,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a black polished leather wiggle dress, knee-length, fitted sharply through the hip with a narrow pencil skirt hem, sweetheart neckline, sheer black nylon stockings with a fine back seam, (12cm black patent leather pointed-toe stiletto pumps with the iconic red sole:1.2), opera-length black leather gloves, a single strand of black diamonds, (deep crimson red glossy lips, long stiletto nails painted in deep gloss crimson:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look36_vestido_de_cuero_noir/anais_036_standing.png) | [📸 View](../../../05_Imagenes/anais/look36_vestido_de_cuero_noir/anais_036_back_view.png) | [📸 View](../../../05_Imagenes/anais/look36_vestido_de_cuero_noir/anais_036_seated.png) | [📸 View](../../../05_Imagenes/anais/look36_vestido_de_cuero_noir/anais_036_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look36_vestido_de_cuero_noir/anais_036_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look36_vestido_de_cuero_noir/anais_036_pov.png) | [📸 View](../../../05_Imagenes/anais/look36_vestido_de_cuero_noir/anais_036_odalisque.png) |
 
 **1. Standing:**
 
@@ -2338,11 +2338,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a pure white French Chantilly lace balconette bra, a matching small white chantilly lace thong of modest brief-cut coverage, a floor-length white sheer silk gauze robe reaching all the way to the floor and trailing behind her, falling loose off one shoulder, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin sash, sheer white nylon stockings with a fine back seam, (12cm white satin pointed-toe stiletto pumps with the iconic red sole:1.2), a delicate white lace choker, (deep crimson red glossy lips, long stiletto nails painted in pure gloss white:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look37_lenceria_blanca_boudoir/anais_L37_standing.png) | [📸 View](../../../05_Imagenes/anais/look37_lenceria_blanca_boudoir/anais_L37_back_view.png) | [📸 View](../../../05_Imagenes/anais/look37_lenceria_blanca_boudoir/anais_L37_seated.png) | [📸 View](../../../05_Imagenes/anais/look37_lenceria_blanca_boudoir/anais_L37_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look37_lenceria_blanca_boudoir/anais_L37_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look37_lenceria_blanca_boudoir/anais_L37_pov.png) | [📸 View](../../../05_Imagenes/anais/look37_lenceria_blanca_boudoir/anais_L37_odalisque.png) |
 
 **1. Standing:**
 
@@ -2400,11 +2400,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a high-shine black clinical-grade latex catsuit with long sleeves and a high collar, full-length legs to the ankle, fitted tightly over an integrated deep burgundy latex underbust corset cinching the waist with spiral steel boning, no stockings, bare legs under the catsuit, (12cm black patent leather thigh-high over-the-knee stiletto boots with pointed toes and the iconic red sole:1.2), a slim polished silver collar, (deep crimson red glossy lips, long stiletto nails in deep burgundy lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look38_catsuit_de_latex_imperial/anais_038_standing.png) | [📸 View](../../../05_Imagenes/anais/look38_catsuit_de_latex_imperial/anais_038_back_view.png) | [📸 View](../../../05_Imagenes/anais/look38_catsuit_de_latex_imperial/anais_038_seated.png) | [📸 View](../../../05_Imagenes/anais/look38_catsuit_de_latex_imperial/anais_038_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look38_catsuit_de_latex_imperial/anais_038_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look38_catsuit_de_latex_imperial/anais_038_pov.png) | [📸 View](../../../05_Imagenes/anais/look38_catsuit_de_latex_imperial/anais_038_odalisque.png) |
 
 **1. Standing:**
 
@@ -2462,11 +2462,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a deep midnight-blue bias-cut silk slip gown, floor-length, thin delicate straps, liquid-draping fabric skimming her curves, a floor-length sheer midnight-blue silk georgette open robe trailing behind her, dramatic wide bell-shaped cuffs, no stockings, bare legs, (12cm midnight-blue satin pointed-toe stiletto pumps with the iconic red sole:1.2), black cat-eye reading glasses with delicate rhinestone accents, a single antique sapphire pendant, (deep crimson red glossy lips, long stiletto nails in midnight-blue lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look39_slip_azul_medianoche/anais_039_standing.png) | [📸 View](../../../05_Imagenes/anais/look39_slip_azul_medianoche/anais_039_back_view.png) | [📸 View](../../../05_Imagenes/anais/look39_slip_azul_medianoche/anais_039_seated.png) | [📸 View](../../../05_Imagenes/anais/look39_slip_azul_medianoche/anais_039_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look39_slip_azul_medianoche/anais_039_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look39_slip_azul_medianoche/anais_039_pov.png) | [📸 View](../../../05_Imagenes/anais/look39_slip_azul_medianoche/anais_039_odalisque.png) |
 
 **1. Standing:**
 
