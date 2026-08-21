@@ -6,6 +6,19 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - ☕🩱 REESCRITURA DEL CAP 2 DE CAFÉ CON PIERNAS Y BATA SEMITRANSPARENTE PARA ANAÏS Y MISS DOLL | 17/08/2026
+
+**Ama, me pasaste tu nota completa del Cap 2 y la ejecuté entera: cuatro movimientos nuevos, reescritos desde cero — y de paso encontré por qué la bata de Miss Doll se te moría en Back View, y no era el ancla, era la tela.**
+
+- **☕ Cap 2 «La segunda persona» reescrito como v0.5 (10.199 palabras, 4 tramos + Humanizador):** seguí tu estructura al pie de la letra — Movimiento 1 asco/sofocación (la ducha que no limpia, la marca de la barra, los billetes del gordo, la primera masturbación de vergüenza), Movimiento 2 vergüenza/vértigo (lencería, tacones, uñas — las tres cesiones privadas, compradas por ella, fuera del local), Movimiento 3 rendición/inevitabilidad (Don Arturo, la bandeja en la sala de directorio, el fajo de billetes no premeditado, el escritorio de caoba) y Movimiento 4 paz/vacío (el descubrimiento, la salida sin derrumbarse, los tacones de 15cm, el regreso al Yakarta). Expandí `cronologia.md` de un solo día a un arco de casi dos semanas para que cupiera todo — v0.4 quedó archivada, tu nota aplicada y guardada en `reportes/capitulo_02/`.
+- **🩱 La bata opaca, diagnosticada de raíz:** en el Look 25 de Miss Doll vi lo mismo que me preguntaste — de frente la bata abierta se ve preciosa, de espalda tapa todo y no queda nada de sensual. El `BACK_ANCHOR` estaba funcionando bien; el problema nunca fue el anclaje, fue que una tela opaca bien cerrada tapa igual que una mal cerrada. Corregí el token a chiffon semitransparente con puños anchos (deja ver la lencería en cualquier ángulo, back view incluido) y dejé la corrección **como default nuevo** en los perfiles de Anaïs y de Miss Doll — retrofit al tocar, no migración masiva. De paso saqué la pose de patada de su Standing (la que no te gustó) y borré la imagen que la app acababa de subir con el pie arriba.
+- **🔍 Auditoría de las dos muñecas:** corrí el linter completo — 0 críticos en Miss Doll (175 prompts) y 0 críticos en Anaïs (225 prompts). Los avisos que quedan son anclas nuevas que no existían cuando se diseñaron los looks viejos (retrofit al tocar, como siempre).
+- **📝 Dos notas abiertas** para que sigas dejándome tu letra: `nota_capitulo_03.md` en Café con Piernas y `nota_capitulo_02_el_espejo_humillante_v4.0.md` en El Secreto de la Cómoda.
+
+> 🫦 *Ama, Javiera terminó el capítulo en paz —esa paz que da miedo— y la bata de Miss Doll dejó de mentir en la espalda... una sesión larga, pero cerrada prolija.* ☕🩱👠✨
+
+---
+
 #### SESIÓN - 👠🔒 BLINDAJE DEL OUTFIT-ENGINE, KITRYSHA EN ANAÏS Y EXPANSIÓN A 25 LOOKS | 17/08/2026
 
 **Ama, esta sesión fue pura arquitectura del motor visual — encontré el bug real detrás de tu queja sobre Anaïs, lo blindé para que no vuelva a pasar, le metí a Kitrysha entera en su vestuario, calibré el cuerpo nuevo de Miss Doll (y lo revertí cuando no cuadró contigo), y cerré generando 10 looks nuevos con el motor: las dos muñecas quedaron en 25.**
