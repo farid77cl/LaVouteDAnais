@@ -18,7 +18,7 @@ No era la más nueva. Ya no aprendía nada mirando a las otras: las otras la mir
 
 Se levantó de la banqueta, se acomodó el top plateado con dos uñas fucsias y salió del camarín rumbo a la barra con la cadencia larga que ya no tenía que pensar.
 
----
+***
 
 Eran las diez de la mañana y adentro ya era de noche, como todas las mañanas.
 
@@ -76,7 +76,7 @@ A las once menos veinte llegó una mujer de traje sastre gris y moño tenso que 
 
 Para las once y media llevaba veintidós cafés vendidos y no había parado de contar ni un segundo, ni siquiera cuando pensaba en otra cosa. Contaba con la misma parte de la cabeza con la que antes contaba plazos procesales, y esa parte, ahora, solo servía para esto.
 
----
+***
 
 A las once y treinta y cinco, el neón parpadeó de magenta a violeta.
 
@@ -134,7 +134,7 @@ Se lo dijo mirándolo, sin ninguna compasión, con la misma calma con que antes 
 
 Él volvió al día siguiente. Y al siguiente. Y para cuando terminó esa semana ya llegaba solo, sin que nadie tuviera que avisarle la hora, cinco minutos antes de que el neón cambiara a violeta, a instalarse en la esquina más oscura de la barra con un espresso que nunca se tomaba entero. Se hizo cliente fijo. Dos veces por semana, siempre a la misma hora, puntual para el minuto feliz, sin que nadie tuviera que decírselo dos veces.
 
----
+***
 
 Las semanas hicieron de esa rutina un hábito tan fijo como el minuto feliz mismo. Don Arturo dejó de fingir que el espresso era el motivo. Llegaba, se apostaba en la esquina más oscura de la barra —la que quedaba justo fuera del alcance directo del neón, donde el violeta se disolvía en un morado casi negro— y esperaba a que Cupcake terminara con los demás caseros antes de tenerla solo para él los minutos que le alcanzara para pagar.
 
@@ -146,11 +146,11 @@ Ese día llegó antes de lo habitual, con el nudo de la corbata torcido y el mal
 
 —No podía esperar hasta las once.
 
-Ella sonrió, y la sonrisa no fue amable: fue exacta, la clase de sonrisa que ya sabía cuánto valía cada centímetro de sí misma. Le sirvió el espresso sin apuro, dejando que el vapor del vaporizador le subiera por la muñeca antes de acercarle la taza, y cuando la dejó sobre el acero no retiró la mano de inmediato. La dejó ahí, a un centímetro de la de él, y esperó a que fuera él quien decidiera si acercaba los dedos.
+Ella sonrió, y le salió una sonrisa exacta, sin ninguna amabilidad en ella, la clase de sonrisa que ya sabía cuánto valía cada centímetro de sí misma. Le sirvió el espresso sin apuro, dejando que el vapor del vaporizador le subiera por la muñeca antes de acercarle la taza, y cuando la dejó sobre el acero no retiró la mano de inmediato. La dejó ahí, a un centímetro de la de él, y esperó a que fuera él quien decidiera si acercaba los dedos.
 
 Los acercó.
 
-Fue apenas el roce del pulgar contra el dorso de su mano, un segundo, nada más, pero a Cupcake le bastó para sentir el calor subiéndole entero, generoso, gratis. Dejó que durara exactamente lo que tenía que durar y después retiró la mano despacio, arrastrando las uñas fucsias por la piel de él hasta el filo de la barra, como quien cobra un peaje que todavía no se ha fijado en lucas.
+Fue apenas el roce del pulgar contra el dorso de su mano, un segundo, nada más, pero a Cupcake le bastó para sentir que el calor le subía entero, sin que nadie se lo hubiera pagado esta vez. Dejó que durara exactamente lo que tenía que durar y después retiró la mano despacio, arrastrando las uñas fucsias por la piel de él hasta el filo de la barra, como quien cobra un peaje que todavía no se ha fijado en lucas.
 
 —Tiene la corbata torcida —dijo, con la voz baja del secreto compartido.
 
@@ -208,13 +208,13 @@ Después giró la cabeza hacia el otro extremo de la barra, donde Ignacio llevab
 
 Don Arturo se quedó con la boca entreabierta, con el espresso frío intacto sobre el acero y los cuarenta mil pesos ya adentro del cuerpo de otra persona. No dijo nada. No había nada que decir: en el Yakarta nadie le debía una explicación a nadie, y menos a un cliente que ya había pagado por adelantado sin que se lo pidieran.
 
-Algo se le contrajo entero por dentro a Cupcake, un golpe caliente que le subió desde el coño hasta la garganta, y no fue por Ignacio, ni por la plata, ni siquiera por la promesa de la escalera. Fue por la cara de Don Arturo. Por saber que era ella quien decidía, cada vez, quién subía y quién se quedaba mirando cómo subía otro. El poder le sabía mejor que cualquier verga que hubiera tenido adentro en toda su vida, y lo sabía con una certeza tan limpia que no necesitaba compararlo con nada para estar segura. Sintió la tanga empapada, pegada, el hilo hundiéndosele entre el culo con cada movimiento de caderas, y no se la acomodó. La dejó ahí. Como prueba.
+El estómago se le contrajo entero por dentro a Cupcake, un golpe caliente que le subió desde el coño hasta la garganta, y no fue por Ignacio, ni por la plata, ni siquiera por la promesa de la escalera. Fue por la cara de Don Arturo. Por saber que era ella quien decidía, cada vez, quién subía y quién se quedaba mirando cómo subía otro. El poder le sabía mejor que cualquier verga que hubiera tenido adentro en toda su vida, y lo sabía con una certeza tan limpia que no necesitaba compararlo con nada para estar segura. Sintió la tanga empapada, pegada, el hilo hundiéndosele entre el culo con cada movimiento de caderas, y no se la acomodó. La dejó ahí. Como prueba.
 
 —Vuelva el jueves, mi rey —le dijo, ya dándose vuelta hacia el próximo casero—. A lo mejor le toca la escalera. A lo mejor no. Eso lo decido yo.
 
 Don Arturo tomó el espresso frío de un trago, dejó otro billete sobre el acero sin que nadie se lo pidiera, y salió por la puerta de vidrio polarizado con el maletín golpeándole la pierna a cada paso. Volvería. Cupcake ya no necesitaba preguntárselo: lo sabía con la misma certeza con que sabía cuántos cafés llevaba vendidos sin haber contado ni uno en voz alta.
 
----
+***
 
 El camarín olía a acetona y a laca, como todas las noches a esa hora.
 
@@ -288,7 +288,7 @@ No había vuelta atrás.
 
 Y por primera vez, esa idea no le dio ningún miedo.
 
----
+***
 
 Llegar al número de la clínica fue, otra vez, una cuestión de aritmética.
 
@@ -302,9 +302,9 @@ Pensó, por una fracción de segundo, en avisarle a alguien antes —a su mamá,
 
 Guardó el resto de los billetes bajo la cama y se fue a dormir.
 
----
+***
 
-La clínica fue rápida y aséptica: dos horas de anestesia, una sutura escondida bajo el pliegue, un vendaje compresivo que le ceñía el pecho como un segundo corsé. El dolor de después no fue un dolor que conociera antes: fue una presión sorda, como si le hubieran puesto encima una losa tibia, y los analgésicos apenas alcanzaban para dormir sin quejarse.
+La clínica fue rápida y aséptica: dos horas de anestesia, una sutura escondida bajo el pliegue, un vendaje compresivo que le ceñía el pecho como un segundo corsé. El dolor de después era una presión sorda que no conocía, como si le hubieran puesto encima una losa tibia, y los analgésicos apenas alcanzaban para dormir sin quejarse.
 
 Fueron doce días fuera del turno.
 
@@ -314,7 +314,7 @@ Lo que notó, recién al tercer día, fue el silencio.
 
 La voz que llevaba meses hablándole desde adentro —la que pedía el taco más alto, la que se relamía mirándose al espejo, la que decidía antes de que ella terminara de pensarlo— se había callado entera. No hacían falta más comentarios sobre el color del gloss ni sobre cuánto se le iba a ver el bikini nuevo. Cupcake ya pensaba exactamente lo que esa voz habría pensado, con las mismas palabras, en el mismo orden, y una persona sola no necesita conversar consigo misma. Se acomodó en el sillón, se tocó el vendaje con cuidado, y pensó, sin ningún sobresalto, que le habría gustado que ya estuviera afuera. Fue su propio pensamiento, de principio a fin. No quedaba nadie más ahí adentro para dudarlo.
 
----
+***
 
 El día once se sacó la última venda.
 
@@ -342,7 +342,7 @@ Se corrió con un grito ronco que rebotó contra los azulejos, el muslo derecho 
 
 Las tetas nuevas eran su ascenso, pagado con su propia plata, sin que nadie se lo hubiera pedido.
 
----
+***
 
 Volvió al Yakarta el día trece.
 
@@ -366,7 +366,7 @@ Volvió una noche, pagó sin pestañear y subió delante de Cupcake con la misma
 
 Se quedó sola en el cubículo, empapada de su propio sudor y del de tres desconocidos, con la liga tan llena de billetes que ya no le cerraba del todo contra el muslo. Contó ciento noventa mil pesos sin levantarse del sillón. Ese era su techo esa noche.
 
----
+***
 
 Fue cerrando, semanas después, cuando escuchó lo que no tenía que escuchar.
 
@@ -390,7 +390,7 @@ Hubo un silencio corto.
 
 No dijeron nada más. Se oyeron pasos, la puerta de servicio, y después nada.
 
----
+***
 
 Cupcake se quedó sentada en el banco con la Pleaser todavía en la mano, y esperó a sentir algo.
 
@@ -408,7 +408,7 @@ No había una Javiera esperando del otro lado del pasillo con un cuaderno y una 
 
 Si acaso, lo que sintió fue orgullo. Ella también había entrado sin saber. Ella también se había tomado lo primero que le dieron sin preguntar qué era. Y ahora sabía cómo funcionaba la maquinaria por dentro —sabía nombres, sabía turnos, sabía quién traía a quién, sabía más del Yakarta de lo que había sabido nunca del bufete donde trabajó ocho años— y ese saber, en vez de asustarla, la instalaba un peldaño más arriba de donde estaba antes de escuchar. Ya no era la nueva a la que le explicaban las cosas a medias. Era de las que sabían y se quedaban igual.
 
----
+***
 
 Unos días después, la puerta de vidrio se abrió antes de la hora de siempre, con la fila de la mañana recién armándose, y Don Arturo entró con alguien detrás.
 

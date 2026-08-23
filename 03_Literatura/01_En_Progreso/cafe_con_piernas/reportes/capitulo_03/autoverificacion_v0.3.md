@@ -73,3 +73,16 @@ Verificado: sin voseo verbal chileno, sin artículo antes de nombre propio (Cupc
 - La escena de la escucha (§6a) conecta deliberadamente con el cierre (§6c): Arturo menciona en la conversación con Yasna que trae a alguien nuevo "la próxima vez", y ese alguien es exactamente quien aparece unas escenas después. Esto tiende la costura pedida por el brief sin que ningún personaje explique nada.
 - Decisión de diseño: mantuve la ejecutiva del cappuccino como cuarta clienta del privado (en vez de inventar un personaje nuevo) porque ya estaba plantada en tramo 1 de este mismo capítulo — reduce personajes nuevos y refuerza que el aparato opera sobre gente ya conocida, no sobre extraños que aparecen para la ocasión.
 - La pasada de humanización sobre el archivo completo tomó más trabajo que el tramo nuevo en sí — quedó registrado arriba como hallazgo para que el Validador y el Orquestador lo tengan presente: los tramos intermedios de este engine acumulan tells sin que nadie los mida hasta el cierre.
+
+## Micro-fixes aplicados post-validación (Validador, `validacion_v0.3.md`, 2026-08-23)
+
+El Validador contó H2 y H5 sobre el archivo cerrado (no sobre lo declarado arriba) y encontró 3 instancias de cada uno donde este reporte declaraba 1 — la corrección previa no se guardó completa sobre esas dos métricas. Se aplicaron los 5 micro-fixes citados con línea exacta en `validacion_v0.3.md` §5, con `Edit` quirúrgico, sin re-narrar ni tocar ningún otro beat:
+
+1. **L149 (H2):** *"la sonrisa no fue amable: fue exacta"* → *"le salió una sonrisa exacta, sin ninguna amabilidad en ella"*. Elimina la antítesis de relleno.
+2. **L307 (H2):** *"El dolor de después no fue un dolor que conociera antes: fue una presión sorda"* → *"El dolor de después era una presión sorda que no conocía"*. Misma corrección, mismo patrón.
+3. **L401 (H2):** conservada sin cambios, tal como recomendó el Validador — es la instancia más cargada temáticamente (cierra la línea de investigación) y con las dos anteriores corregidas, el capítulo queda en 1/cap, dentro de cupo.
+4. **L211 (H5):** *"Algo se le contrajo entero por dentro"* → *"El estómago se le contrajo entero por dentro"*. Nombra el órgano en vez de usar el comodín, sin tocar el resto de la frase (coño, garganta, verga, tanga empapada quedan intactos).
+5. **L153 (H1/tricolon duplicado):** *"sentir el calor subiéndole entero, generoso, gratis"* (idéntica palabra por palabra a la de L131) → *"sentir que el calor le subía entero, sin que nadie se lo hubiera pagado esta vez"*. Conserva el sentido (gratis/no pagado) sin duplicar la tricolonía exacta de L131.
+6. **Formato (todo el archivo):** los 11 separadores de escena `---` → `***`, para consistencia con `capitulo_01_el_turno_de_prueba_v0.14.md` y `capitulo_02_la_segunda_persona_v0.8.md`.
+
+Con L149 y L307 corregidas y L401 conservada, H2 queda en 1/cap. Con L211 corregida, H5 queda en 2/cap (L187 y L395 sin tocar, dentro de cupo ≤2). Ningún otro texto del capítulo fue tocado — no se re-narró ninguna escena, no se agregó ni quitó ningún beat. `cronologia.md` no requiere actualización: estos cambios son cirugía de estilo pura, no tocan hechos, fechas ni objetos plantados.
