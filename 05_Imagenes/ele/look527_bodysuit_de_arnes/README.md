@@ -1,13 +1,13 @@
 # 🖼️ Galería: look527_bodysuit_de_arnes
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_527_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_back_view.png) | ![ele_527_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_ditzy.png) | ![ele_527_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_pov.png) |
-| ![ele_527_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_seated.png) | ![ele_527_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_side_profile.png) | ![ele_527_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_standing.png) |
+| ![ele_527_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_back_view.png) | ![ele_527_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_ditzy.png) | ![ele_527_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_odalisque.png) |
+| ![ele_527_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_pov.png) | ![ele_527_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_seated.png) | ![ele_527_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_527_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_back_view.png) | ![ele_527_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_ditzy.png) | ![ele_527_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_pov.png) | ![ele_527_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_seated.png) |
-| ![ele_527_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_side_profile.png) | ![ele_527_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_standing.png) |
+| ![ele_527_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_back_view.png) | ![ele_527_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_ditzy.png) | ![ele_527_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_odalisque.png) | ![ele_527_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_pov.png) |
+| ![ele_527_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_seated.png) | ![ele_527_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_side_profile.png) | ![ele_527_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_standing.png) |
 
 
 ---
@@ -24,6 +24,7 @@ Total imágenes: 6
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_527_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_back_view.png)
 - [ele_527_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_ditzy.png)
+- [ele_527_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_odalisque.png)
 - [ele_527_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_pov.png)
 - [ele_527_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_seated.png)
 - [ele_527_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look527_bodysuit_de_arnes/ele_527_side_profile.png)

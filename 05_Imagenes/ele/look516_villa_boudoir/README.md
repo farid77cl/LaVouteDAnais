@@ -1,13 +1,13 @@
 # 🖼️ Galería: look516_villa_boudoir
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_516_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_back_view.png) | ![ele_516_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_ditzy.png) | ![ele_516_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_pov.png) |
-| ![ele_516_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_seated.png) | ![ele_516_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_side_profile.png) | ![ele_516_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_standing.png) |
+| ![ele_516_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_back_view.png) | ![ele_516_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_ditzy.png) | ![ele_516_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_odalisque.png) |
+| ![ele_516_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_pov.png) | ![ele_516_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_seated.png) | ![ele_516_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_516_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_back_view.png) | ![ele_516_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_ditzy.png) | ![ele_516_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_pov.png) | ![ele_516_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_seated.png) |
-| ![ele_516_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_side_profile.png) | ![ele_516_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_standing.png) |
+| ![ele_516_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_back_view.png) | ![ele_516_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_ditzy.png) | ![ele_516_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_odalisque.png) | ![ele_516_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_pov.png) |
+| ![ele_516_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_seated.png) | ![ele_516_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_side_profile.png) | ![ele_516_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_standing.png) |
 
 
 ---
@@ -24,6 +24,7 @@ Total imágenes: 6
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_516_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_back_view.png)
 - [ele_516_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_ditzy.png)
+- [ele_516_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_odalisque.png)
 - [ele_516_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_pov.png)
 - [ele_516_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_seated.png)
 - [ele_516_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look516_villa_boudoir/ele_516_side_profile.png)

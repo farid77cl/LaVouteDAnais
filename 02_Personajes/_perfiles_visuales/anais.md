@@ -198,7 +198,7 @@ Corrección directa sobre el batch L26-L30: *"la ropa interior rica en encaje y 
 
 - **Paleta:** negro dominante, carmesí, oro imperial `#D4AF37`, dorado clásico, champagne, marfil, terciopelo profundo, gris perla, azul medianoche, verde esmeralda, **borgoña/vino profundo**, **bronce/cobre antiguo**, **plata antigua**, **rosa polvo/dusty rose**.
 - **Reservado al ADN:** el **rojo carmesí de los labios** y el **honey blonde** del pelo.
-- **Animal print:** ya NO es arquetipo (ver §6) — es acabado transversal, permitido **solo** en tejido noble (seda, terciopelo, látex, cuero). Nunca en material barato. Cuota pendiente de definir.
+- **Animal print** *(cuota fijada 23/08/2026, Ama):* acabado transversal, permitido **solo** en tejido noble (seda, terciopelo, látex, cuero — nunca material barato). **Cuota: ≥ 1 de cada 8 looks nuevos** (mismo tratamiento que en Ele). Tipos autorizados: `leopard print`, `snake/python print`, `tiger print` — siempre como estampado sobre la prenda o como forro/vivo visible, nunca como pieza 100% cubierta. Rota el tipo: no repetir el mismo animal print en dos apariciones consecutivas. Diferencia con la piel (§5.1b): el print es **estampado sobre tejido**, la piel es **pelo real** — no cuentan para la misma cuota y pueden coexistir en el mismo look (nunca en la misma prenda).
 - **Anti-monoblock:** máx. 2 consecutivos.
 
 ### 5.3 · Calzado (canon inamovible)
@@ -340,7 +340,7 @@ Describir **en este orden**:
 | **Boudoir / Lencería** | Aposentos privados, negligée, merry widow, peignoir, corsetería | 27% |
 | **Látex / Fetichismo** | Catsuits, corsés overbust de látex, poder fetish refinado | 20% |
 | **Sesión Literaria** | Estudio privado, kimono de seda, escritura nocturna | 13% |
-| **Ejecutivo de Poder** | Traje sastre vintage, pencil de cuero, power dressing | 7% |
+| **Ejecutivo de Poder** | 🐆 **Reescrito 23/08/2026 (Ama: "está sin gracia").** El poder que seduce, no solo manda — femme fatale de oficina (§2bis), nunca sastrería sobria de manual. Cuero como material protagonista (falda/vestido lápiz de cuero, no solo cinturón), animal print como firma del arquetipo (blusa, forro de blazer abierto, vivo de la falda), escote o pierna que la sastrería anterior tapaba, botón de más abierto, silueta que se ciñe en vez de estructurar. **Deja de ser "power dressing" que no necesita gritar — pasa a ser poder que exhibe y calienta.** | 7% |
 
 - **Regla de déficit:** si un arquetipo está bajo meta, el próximo look **debe** ser de esa categoría. Conteo empieza en Look 41, no antes.
 - **Prioridad de desempate:** Noche > Boudoir > Látex > Sesión Literaria > Ejecutivo.
@@ -369,6 +369,7 @@ Describir **en este orden**:
 | Suela roja visible | siempre que el calzado se vea | Calzado |
 | **🦊 Pieles** *(nueva 11/08/2026)* | **≥ 1 de cada 4 looks nuevos** | Transversal a todos los arquetipos. Chequeo pre-diseño: si los últimos 3 looks no llevaron piel, el que se está diseñando **debe** llevarla. No repetir el mismo tipo (visón/zorro/marta/astracán/chinchilla) en dos apariciones consecutivas. Ver §5.1b |
 | **👘 Bata abierta** *(nueva 12/08/2026)* | **≥ 1 de cada 2 looks nuevos de Boudoir/Lencería** | Exclusiva de ese arquetipo — no aplica a Noche/Látex/Sesión Literaria/Ejecutivo. Piso medido sobre el reset (2/4 actual); no baja hacia adelante. Alterna con silueta sin bata (sujetador+liguero directo, corsé+bota). Ver §5.1c |
+| **🐆 Animal print** *(nueva 23/08/2026)* | **≥ 1 de cada 8 looks nuevos** | Transversal a todos los arquetipos, solo en tejido noble (§5.2). Prioridad de aparición: Ejecutivo de Poder (firma del arquetipo reescrito) > el resto por déficit normal |
 
 ---
 

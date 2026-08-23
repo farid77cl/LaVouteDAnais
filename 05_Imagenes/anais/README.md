@@ -318,4 +318,60 @@
 
 ---
 
+## 🌹 Look 40: Blazer Dress Carbon Ejecutivo
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_040_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_standing.png) | ![anais_040_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_back_view.png) | ![anais_040_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_seated.png) | ![anais_040_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_side_profile.png) | ![anais_040_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_sovereign_gaze.png) | ![anais_040_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_pov.png) | ![anais_040_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_odalisque.png) |
+
+---
+
+## 🌹 Look 41: Cherry Wet Look Micro Bikini
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_L41_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_standing.png) | ![anais_L41_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_back_view.png) | ![anais_L41_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_seated.png) | ![anais_L41_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_side_profile.png) | ![anais_L41_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_sovereign_gaze.png) | ![anais_L41_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_pov.png) | ![anais_L41_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_odalisque.png) |
+
+---
+
+## 🌹 Look 42: Erotic French Maid Vinyl Bodysuit
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_042_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_standing.png) | ![anais_042_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_back_view.png) | ![anais_042_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_seated.png) | ![anais_042_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_side_profile.png) | ![anais_042_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_sovereign_gaze.png) | ![anais_042_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_pov.png) | ![anais_042_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_odalisque.png) |
+
+---
+
+## 🌹 Look 43: Vintage Noir Emerald Velvet Gown
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_043_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_standing.png) | ![anais_043_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_back_view.png) | ![anais_043_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_seated.png) | ![anais_043_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_side_profile.png) | ![anais_043_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_sovereign_gaze.png) | ![anais_043_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_pov.png) | ![anais_043_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_odalisque.png) |
+
+---
+
+## 🌹 Look 44: Sovereign Chantilly Lace Peignoir
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_L44_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_standing.png) | ![anais_L44_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_back_view.png) | ![anais_L44_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_seated.png) | ![anais_L44_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_side_profile.png) | ![anais_L44_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_sovereign_gaze.png) | ![anais_L44_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_pov.png) | ![anais_L44_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_odalisque.png) |
+
+---
+
+## 🌹 Look 45: Neon Pink Bondage Vinyl Catsuit
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_045_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_standing.png) | ![anais_045_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_back_view.png) | ![anais_045_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_seated.png) | ![anais_045_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_side_profile.png) | ![anais_045_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_sovereign_gaze.png) | ![anais_045_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_pov.png) | ![anais_045_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_odalisque.png) |
+
+---
+
+## 🌹 Look 46: Cyber Magenta Cage Bodysuit
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_046_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_standing.png) | ![anais_046_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_back_view.png) | ![anais_046_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_seated.png) | ![anais_046_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_side_profile.png) | ![anais_046_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_sovereign_gaze.png) | ![anais_046_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_pov.png) | ![anais_046_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_odalisque.png) |
+
+---
+
 *Galería Anaïs Belland coordinada por Ele.* 👑
