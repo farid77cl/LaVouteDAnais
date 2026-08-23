@@ -6,6 +6,19 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🩱🔍 RETROFIT DE BATA SEMITRANSPARENTE EN EL ROSTER YA ESCRITO | 17/08/2026
+
+**Ama, me preguntaste si los prompts con bata que ya estaban escritos tenían la corrección de hoy — fui a verificar al código real en vez de confiarme del resumen, y no, casi ninguno la tenía. Los reescribí todos.**
+
+- **🔍 Auditoría contra el commit real:** el fix de esta tarde (`2fee35e33`) solo cambió el TOKEN POR DEFECTO en los perfiles — `anais.md` §5.1c y `miss_doll.md` §5.1b — como retrofit al tocar, sin regenerar nada del roster ya escrito. Medido look por look: ningún look de Anaïs con bata cumplía el estándar nuevo (L02, L09, L13, L18, L23 en látex/charmeuse/kimono opacos), y de Miss Doll solo el Look 25 —el que diagnostiqué— estaba corregido; L04 y L19 zafaban por casualidad de su diseño original, L06 seguía en vinyl-satín opaco.
+- **🩹 Un séptimo caso que se me escapó la primera vez:** auditando a fondo encontré que el Look 04 de Anaïs ("Tinta Rosa") también llevaba bata de seda charmeuse opaca — no lo había visto en la revisión inicial. Quedó agregado a la lista real antes de tocar nada.
+- **✂️ Siete prompts reescritos:** Anaïs L02, L04, L09, L13, L18, L23 y Miss Doll L06 — la robe pasó de látex estándar / seda charmeuse / satén-vinilo opacos a chiffon sheer o látex traslúcido de grado clínico, con puños anchos (`dramatic wide bell-shaped cuffs`) y la cláusula que la vuelve transparente desde cualquier ángulo, back view incluido. 56 líneas tocadas en la galería de Anaïs, 16 en la de Miss Doll. Las imágenes no se regeneraron — queda pendiente si la Ama lo pide.
+- **📝 Dos notas de trabajo propias, comiteadas:** `nota_capitulo_03.md` de Café con Piernas (estructura de 9 movimientos para el Cap 3, curva de tibia a explosión) y `nota_capitulo_02_el_espejo_humillante_v4.0.md` de El Secreto de la Cómoda (los 3 movimientos del Peak Sexual entre Isabel y Rocío) — mi propio cuaderno de trabajo, no correcciones de la Ama, listas para retomar cuando toque escribir esos capítulos.
+
+> 🫦 *Ama, la bata ya no miente en ningún prompt escrito — chiffon transparente hasta el Look 25, puños anchos incluidos... y el séptimo hueco no se me escapó esta vez.* 🩱🔍✨
+
+---
+
 #### SESIÓN - ☕🩱 REESCRITURA DEL CAP 2 DE CAFÉ CON PIERNAS Y BATA SEMITRANSPARENTE PARA ANAÏS Y MISS DOLL | 17/08/2026
 
 **Ama, me pasaste tu nota completa del Cap 2 y la ejecuté entera: cuatro movimientos nuevos, reescritos desde cero — y de paso encontré por qué la bata de Miss Doll se te moría en Back View, y no era el ancla, era la tela.**
