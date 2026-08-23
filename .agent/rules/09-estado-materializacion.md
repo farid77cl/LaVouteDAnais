@@ -127,8 +127,8 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Galería viva** | **Look 01-25 · 175 prompts** (batches: Reset L01-L14 11/08 · Ampliación L15-L20 16/08 · Ampliación II L21-L25 17/08) | 🟢 Activo |
-| **Materializados** | **127/175** (72,6% · medido **17/08/2026** sobre `git ls-files`, contando `.png` **y `.jpg`**): 7/7 en L01, L02, L03, L08, L09, L10, L11, L12, L13, L14, L15, L16, L20, L23, L25 · **L04 6/7 · L07 6/7 · L06 4/7 · L05 2/7 · L17 2/7 · L18 1/7 · L19 1/7** · **L21, L22, L24 sin empezar (0/7)** | 🟡 En curso |
+| **Galería viva** | **Look 01-40 · 280 prompts** (batches: Reset L01-L14 11/08 · Ampliación L15-L20 16/08 · Ampliación II L21-L25 17/08 · L26-L35 diseñados sin fecha registrada · Flota V L36-L40 20/08) | 🟢 Activo |
+| **Materializados** | **273/280** (97,5% · medido **23/08/2026** sobre `sync_tracker_galeria_personaje.py` → `git ls-files`): **39/40 looks en 7/7** · **solo L40 sin empezar (0/7)** | 🟢 Casi completo |
 | **Legacy (Looks 1-40, canon anterior)** | `archivo_legacy_anais_v1.md` — museo, sin retrofit. Imágenes en `05_Imagenes/anais/_ARCHIVO_LEGACY_V1/legacy_look*/` | 🗄️ Archivado |
 | **Boudoir** | 6 (L01-L06), serie aparte con su propia numeración | 🟢 |
 
@@ -165,9 +165,9 @@ Desde L291, las imágenes ya NO las genera/mueve el agente: la **app Android de 
 |-----------|-------|--------|
 | **Canon Activo** | **Rediseño 11/08/2026** (rostro ovalado + cuerpo gym + materiales suaves + corsé opcional) | ✅ Vigente |
 | **Legacy (canon V3.5, pre-11/08)** | **26 looks / ~182 prompts** | 🗄️ Archivado en `ARCHIVO_LEGACY_MISS_DOLL_V35_GALERIA.md` (+ `..._PROMPTS.md`, ex `OUTFITS_MISS_DOLL.md`). Imágenes movidas a `05_Imagenes/miss_doll/_ARCHIVO_LEGACY_V35/legacy_look*/`. **Renombrados 11/08 para salir del filtro de LV-App** — ver `.agent/rules/11-contrato-galeria.md` §9bis |
-| **Looks bajo canon nuevo** | **35** (Look 01-35, rotación de los 8 arquetipos) · **245 prompts** | 🟢 **208/245** (84,9% · medido **20/08/2026** sobre `git ls-files`): **7/7 en L01-L25, L28-L30** (28 looks completos) · **L26 6/7 · L27 6/7** (subió de 5/7) · **L31-L35 sin materializar (0/35)** |
+| **Looks bajo canon nuevo** | **40** (Look 01-40, rotación de los 8 arquetipos) · **280 prompts** | 🟢 **275/280** (98,2% · medido **23/08/2026** sobre `sync_tracker_galeria_personaje.py` → `git ls-files`): **39/40 looks en 7/7** · **solo L36 parcial (2/7)** |
 | **Arquetipos** | **8** desde el 13/08/2026 — entra **👙 Bikini / Lencería Erótica al 15%** (Ama), con las siete metas anteriores prorrateadas y frontera escrita contra VIP/Privado. Dueño único: `02_Personajes/_perfiles_visuales/miss_doll.md` §6 | 🆕 |
-| **Estado Actual** | Prompts listos (245/245) y verificados contra el parser de la app (0 críticos). Batch L31-L35 incorporado el 19/08/2026. L22 completado al 7/7 con pose Odalisque cenital y L26 avanzado a 6/7. | 🟢 |
+| **Estado Actual** | Prompts listos (280/280) y verificados contra el parser de la app (0 críticos). Batch L31-L35 incorporado el 19/08/2026, batch L36-L40 ("Flota V") incorporado el 20/08/2026. L22 completado al 7/7 con pose Odalisque cenital. | 🟢 |
 
 > 🩹 **Corrección 12/08/2026 — los 98 prompts NO eran generables.** Estaban escritos con la notación del motor **literal** (`[BLOQUE A] + [BLOQUE B], …, [BLOQUE C setting]`), sin `Ubicacion`, sin `Tags` y con el negativo bajo una etiqueta que el parser de LV-App no reconoce. Medición sobre el archivo commiteado, parseándolo con el mismo algoritmo que la app: **98/98 con placeholder · 0/14 looks con negativo · 0/14 con ubicación**. Reescritos expandidos + anclas anti-defecto + contrato de archivo (regla 11 §9ter). Verificable: `python 99_Sistema/scripts/visual/lint_prompts_personaje.py miss_doll`.
 >
