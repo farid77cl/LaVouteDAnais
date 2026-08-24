@@ -1,13 +1,13 @@
 # 🖼️ Galería: look482_hooters_badkitty_pole
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_482_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_back_view.png) | ![ele_482_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_ditzy.png) | ![ele_482_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_pov.png) |
-| ![ele_482_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_seated.png) | ![ele_482_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_side_profile.png) | ![ele_482_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_standing.png) |
+| ![ele_482_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_back_view.png) | ![ele_482_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_ditzy.png) | ![ele_482_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_odalisque.png) |
+| ![ele_482_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_pov.png) | ![ele_482_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_seated.png) | ![ele_482_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_482_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_back_view.png) | ![ele_482_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_ditzy.png) | ![ele_482_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_pov.png) | ![ele_482_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_seated.png) |
-| ![ele_482_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_side_profile.png) | ![ele_482_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_standing.png) |
+| ![ele_482_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_back_view.png) | ![ele_482_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_ditzy.png) | ![ele_482_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_odalisque.png) | ![ele_482_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_pov.png) |
+| ![ele_482_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_seated.png) | ![ele_482_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_side_profile.png) | ![ele_482_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_standing.png) |
 
 
 ---
@@ -24,6 +24,7 @@ Total imágenes: 6
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_482_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_back_view.png)
 - [ele_482_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_ditzy.png)
+- [ele_482_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_odalisque.png)
 - [ele_482_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_pov.png)
 - [ele_482_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_seated.png)
 - [ele_482_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look482_hooters_badkitty_pole/ele_482_side_profile.png)

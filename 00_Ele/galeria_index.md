@@ -277,41 +277,41 @@
 | **465** | Hooters Tube Top + Suspenders | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **466** | Hooters Beach Bikini | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **467** | Hooters Apron Server | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
-| **468** | Hooters Latex After-Hours | 06/06/2026 | Domestic | — | chrome, latex | 1/7 | ⏳ Pendiente |
+| **468** | Hooters Latex After-Hours | 06/06/2026 | Domestic | — | chrome, latex | 6/7 | ⏳ Pendiente |
 | **469** | Hooters Pink Edition | 06/06/2026 | Domestic | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
-| **470** | Hooters All-Orange Finale | 06/06/2026 | Domestic | — | chrome, wetlook | 3/7 | ⏳ Pendiente |
+| **470** | Hooters All-Orange Finale | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **471** | Hooters Owl Showgirl | 07/06/2026 | Stripper | — | chrome | 1/7 | ⏳ Pendiente |
 | **472** | Hooters Office Siren | 07/06/2026 | Corporate | — | vinyl, chrome | 7/7 | — |
-| **473** | Hooters Gym Performance | 07/06/2026 | Gym | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
+| **473** | Hooters Gym Performance | 07/06/2026 | Gym | — | chrome, wetlook | 7/7 | — |
 | **474** | Hooters Nightclub Sequin | 07/06/2026 | Nightclub | — | chrome | 1/7 | ⏳ Pendiente |
 | **475** | Hooters Boudoir Lingerie | 07/06/2026 | Lencería | — | chrome | 7/7 | — |
 | **476** | Hooters Pin-Up Diner | 07/06/2026 | Pin-Up | — | pvc, chrome | 6/7 | ⏳ Pendiente |
 | **477** | Hooters Escort Slip | 07/06/2026 | Escort | — | satin, wetlook | 4/7 | ⏳ Pendiente |
 | **478** | Hooters Owl Couture Gown | 07/06/2026 | High-Fashion Editorial | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
 | **479** | Hooters Studio Micro Bikini | 07/06/2026 | Bikini | — | chrome, wetlook | 7/7 | — |
-| **480** | Hooters Owl Pole | 07/06/2026 | Stripper | — | chrome | 0/7 | ⏳ Pendiente |
-| **481** | Hooters Crazy-Horse Stage | 07/06/2026 | Stripper | — | mesh, chrome, crystal | 1/7 | ⏳ Pendiente |
-| **482** | Hooters Bad-Kitty Pole | 07/06/2026 | Stripper | — | chrome | 6/7 | ⏳ Pendiente |
+| **480** | Hooters Owl Pole | 07/06/2026 | Stripper | — | chrome | 7/7 | — |
+| **481** | Hooters Crazy-Horse Stage | 07/06/2026 | Stripper | — | mesh, chrome, crystal | 7/7 | — |
+| **482** | Hooters Bad-Kitty Pole | 07/06/2026 | Stripper | — | chrome | 7/7 | — |
 | **483** | Hooters Bordelle Harness | 07/06/2026 | Lencería | — | chrome | 0/7 | ⏳ Pendiente |
 | **484** | Hooters Latex Cage-Bra | 07/06/2026 | Lencería | — | latex, chrome | 1/7 | ⏳ Pendiente |
-| **485** | Hooters Latex Zip Club | 07/06/2026 | Nightclub | — | chrome, latex | 2/7 | ⏳ Pendiente |
-| **486** | Hooters Backless Bandage | 07/06/2026 | Nightclub | — | vinyl, chrome | 4/7 | ⏳ Pendiente |
+| **485** | Hooters Latex Zip Club | 07/06/2026 | Nightclub | — | chrome, latex | 3/7 | ⏳ Pendiente |
+| **486** | Hooters Backless Bandage | 07/06/2026 | Nightclub | — | vinyl, chrome | 7/7 | — |
 | **487** | Hooters Pro-Dom Escort | 07/06/2026 | Escort | — | latex, leather, chrome | 7/7 | — |
-| **488** | Hooters Mugler Corporate Domme | 07/06/2026 | Corporate | — | latex, chrome | 0/7 | ⏳ Pendiente |
+| **488** | Hooters Mugler Corporate Domme | 07/06/2026 | Corporate | — | latex, chrome | 7/7 | — |
 | **489** | Hooters Owl-Chimera Couture | 07/06/2026 | High-Fashion Editorial | — | latex, chrome | 7/7 | — |
 | **490** | Hooters Editorial Gym Catsuit | 07/06/2026 | Gym | — | mesh, chrome, wetlook | 6/7 | ⏳ Pendiente |
 | **491** | Emerald Schiaparelli Sculpture | 08/06/2026 | High-Fashion Editorial | — | lame | 0/7 | ⏳ Pendiente |
 | **492** | Sapphire Madame Claude Column | 08/06/2026 | Escort | — | vinyl, chrome | 0/7 | ⏳ Pendiente |
 | **493** | Amethyst Crystal Nightclub | 08/06/2026 | Nightclub | — | chrome, crystal | 0/7 | ⏳ Pendiente |
-| **494** | Onyx Mugler Power Domme | 08/06/2026 | Corporate | — | latex | 0/7 | ⏳ Pendiente |
-| **495** | Rose Quartz Boudoir | 08/06/2026 | Lencería | — | vinyl, mesh, satin, crystal | 0/7 | ⏳ Pendiente |
-| **496** | Aquamarine O-Ring Bikini | 08/06/2026 | Bikini | — | chrome, wetlook | 0/7 | ⏳ Pendiente |
+| **494** | Onyx Mugler Power Domme | 08/06/2026 | Corporate | — | latex | 7/7 | — |
+| **495** | Rose Quartz Boudoir | 08/06/2026 | Lencería | — | vinyl, mesh, satin, crystal | 7/7 | — |
+| **496** | Aquamarine O-Ring Bikini | 08/06/2026 | Bikini | — | chrome, wetlook | 7/7 | — |
 | **497** | Champagne Gold Disco | 08/06/2026 | Pin-Up | — | lame | 7/7 | — |
-| **498** | Citrine Tennis Gym | 08/06/2026 | Gym | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
-| **499** | Opal Bordelle Cage | 08/06/2026 | Lencería | — | chrome, crystal, iridescent | 1/7 | ⏳ Pendiente |
-| **500** | Diamond Crystal Showgirl | 08/06/2026 | Stripper | — | mesh, crystal | 1/7 | ⏳ Pendiente |
+| **498** | Citrine Tennis Gym | 08/06/2026 | Gym | — | chrome, wetlook | 7/7 | — |
+| **499** | Opal Bordelle Cage | 08/06/2026 | Lencería | — | chrome, crystal, iridescent | 3/7 | ⏳ Pendiente |
+| **500** | Diamond Crystal Showgirl | 08/06/2026 | Stripper | — | mesh, crystal | 7/7 | — |
 | **501** | Ivory Bridal Night | 08/06/2026 | Lencería | — | vinyl, mesh, satin, crystal | 7/7 | — |
-| **502** | Cathedral White Gown | 08/06/2026 | High-Fashion Editorial | — | vinyl, satin, wetlook | 6/7 | ⏳ Pendiente |
+| **502** | Cathedral White Gown | 08/06/2026 | High-Fashion Editorial | — | vinyl, satin, wetlook | 7/7 | — |
 | **503** | Blush Retro Bride | 08/06/2026 | Pin-Up | — | vinyl | 7/7 | — |
 | **504** | Black Widow Bride | 08/06/2026 | Escort | — | vinyl, satin, wetlook | 7/7 | — |
 | **505** | Champagne Trophy Reception | 08/06/2026 | Domestic | — | vinyl | 6/7 | ⏳ Pendiente |
@@ -320,28 +320,28 @@
 | **508** | Silver City-Hall Power Bride | 08/06/2026 | Corporate | — | vinyl, chrome | 7/7 | — |
 | **509** | Pearl Beach Destination | 08/06/2026 | Bikini | — | vinyl, wetlook, iridescent | 7/7 | — |
 | **510** | Black Bondage Bride | 08/06/2026 | Lencería | — | vinyl, chrome | 7/7 | — |
-| **511** | Yacht Domina | 08/06/2026 | Escort | — | chrome | 4/7 | ⏳ Pendiente |
-| **512** | Azure Beach Club | 08/06/2026 | Bikini | — | chrome, wetlook | 2/7 | ⏳ Pendiente |
-| **513** | Monte Carlo Siren | 08/06/2026 | Nightclub | — | chrome, crystal | 2/7 | ⏳ Pendiente |
+| **511** | Yacht Domina | 08/06/2026 | Escort | — | chrome | 7/7 | — |
+| **512** | Azure Beach Club | 08/06/2026 | Bikini | — | chrome, wetlook | 7/7 | — |
+| **513** | Monte Carlo Siren | 08/06/2026 | Nightclub | — | chrome, crystal | 7/7 | — |
 | **514** | Capri Trophy | 08/06/2026 | Domestic | — | vinyl | 2/7 | ⏳ Pendiente |
 | **515** | Marina Pin-Up | 08/06/2026 | Pin-Up | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
-| **516** | Villa Boudoir | 08/06/2026 | Lencería | — | vinyl, mesh, crystal | 6/7 | ⏳ Pendiente |
-| **517** | Cannes Gala | 08/06/2026 | High-Fashion Editorial | — | satin, wetlook | 1/7 | ⏳ Pendiente |
+| **516** | Villa Boudoir | 08/06/2026 | Lencería | — | vinyl, mesh, crystal | 7/7 | — |
+| **517** | Cannes Gala | 08/06/2026 | High-Fashion Editorial | — | satin, wetlook | 7/7 | — |
 | **518** | Ibiza Holo Pool | 08/06/2026 | Bikini | — | crystal, holographic | 7/7 | — |
-| **519** | Tennis Club | 08/06/2026 | Gym | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
+| **519** | Tennis Club | 08/06/2026 | Gym | — | chrome, wetlook | 7/7 | — |
 | **520** | Cote d'Azur Fetish | 08/06/2026 | Lencería | — | chrome | 3/7 | ⏳ Pendiente |
 | **521** | Catsuit Domme Total | 08/06/2026 | Corporate | — | latex, leather, chrome | 7/7 | — |
 | **522** | Arnes Bordelle Integral | 08/06/2026 | Lencería | — | latex, chrome | 7/7 | — |
 | **523** | Latex Couture Atsuko Kudo | 08/06/2026 | High-Fashion Editorial | — | latex | 1/7 | ⏳ Pendiente |
 | **524** | Officer Domme | 08/06/2026 | Escort | — | latex, leather, chrome | 1/7 | ⏳ Pendiente |
 | **525** | Jaula Chrome | 08/06/2026 | Stripper | — | latex, chrome | 7/7 | — |
-| **526** | Rubber Maid Power | 08/06/2026 | Domestic | — | latex, vinyl | 6/7 | ⏳ Pendiente |
-| **527** | Bodysuit de Arnes | 08/06/2026 | Nightclub | — | latex, chrome | 6/7 | ⏳ Pendiente |
+| **526** | Rubber Maid Power | 08/06/2026 | Domestic | — | latex, vinyl | 7/7 | — |
+| **527** | Bodysuit de Arnes | 08/06/2026 | Nightclub | — | latex, chrome | 7/7 | — |
 | **528** | Lenceria de Latex | 08/06/2026 | Lencería | — | satin, chrome, latex | 7/7 | — |
 | **529** | Gym Fetish | 08/06/2026 | Gym | — | latex, chrome, wetlook | 7/7 | — |
-| **530** | Diosa de Latex Liquido | 08/06/2026 | High-Fashion Editorial | — | latex | 1/7 | ⏳ Pendiente |
+| **530** | Diosa de Latex Liquido | 08/06/2026 | High-Fashion Editorial | — | latex | 2/7 | ⏳ Pendiente |
 | **531** | Orquídea Negra | 10/06/2026 | High-Fashion Editorial | — | latex, leather | 7/7 | — |
-| **532** | Belladona | 10/06/2026 | Escort | — | satin, crystal, wetlook | 1/7 | ⏳ Pendiente |
+| **532** | Belladona | 10/06/2026 | Escort | — | satin, crystal, wetlook | 7/7 | — |
 | **533** | Hortensia Azul | 10/06/2026 | Bikini | — | vinyl, crystal | 7/7 | — |
 | **534** | Amapola | 10/06/2026 | Pin-Up | — | pvc, leather | 2/7 | ⏳ Pendiente |
 | **535** | Datura Blanca | 10/06/2026 | Lencería | — | latex, leather | 7/7 | — |
@@ -611,12 +611,12 @@
 | **799** | Champagne Bandeau Pool | 14/07/2026 | Bikini | Contraste | vinyl | 7/7 | — |
 | **800** | Chrome Hooded Column | 14/07/2026 | High-Fashion Editorial | Monoblock | chrome | 7/7 | — |
 | **801** | White Satin Nurse Bikini | 13/08/2026 | Lencería | Monoblock | — | 7/7 | — |
-| **802** | Cherry Wet Look Micro Bikini | 21/08/2026 | Bikini | — | — | 0/7 | ⏳ Pendiente |
-| **803** | Erotic French Maid Vinyl Bodysuit | 21/08/2026 | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **804** | Vintage Noir Emerald Velvet Gown | 21/08/2026 | — | — | — | 0/7 | ⏳ Pendiente |
-| **805** | Sovereign Chantilly Lace Peignoir | 21/08/2026 | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **806** | Neon Pink Bondage Vinyl Catsuit | 21/08/2026 | — | — | — | 0/7 | ⏳ Pendiente |
-| **807** | Cyber Magenta Cage Bodysuit | 21/08/2026 | — | — | — | 0/7 | ⏳ Pendiente |
+| **802** | Cherry Wet Look Micro Bikini | 21/08/2026 | Bikini | — | — | 7/7 | — |
+| **803** | Erotic French Maid Vinyl Bodysuit | 21/08/2026 | Lencería | — | — | 7/7 | — |
+| **804** | Vintage Noir Emerald Velvet Gown | 21/08/2026 | — | — | — | 7/7 | — |
+| **805** | Sovereign Chantilly Lace Peignoir | 21/08/2026 | Lencería | — | — | 7/7 | — |
+| **806** | Neon Pink Bondage Vinyl Catsuit | 21/08/2026 | — | — | — | 7/7 | — |
+| **807** | Cyber Magenta Cage Bodysuit | 21/08/2026 | — | — | — | 7/7 | — |
 
 ---
 
@@ -826,50 +826,28 @@
 | **459** | Chrome Crucifix Cage Pole | 5/7 | ⏳ Pendiente |
 | **462** | Hooters Black Dolphin Variant | 1/7 | ⏳ Pendiente |
 | **463** | Hooters Halter-Tie Orange | 1/7 | ⏳ Pendiente |
-| **468** | Hooters Latex After-Hours | 1/7 | ⏳ Pendiente |
+| **468** | Hooters Latex After-Hours | 6/7 | ⏳ Pendiente |
 | **469** | Hooters Pink Edition | 1/7 | ⏳ Pendiente |
-| **470** | Hooters All-Orange Finale | 3/7 | ⏳ Pendiente |
 | **471** | Hooters Owl Showgirl | 1/7 | ⏳ Pendiente |
-| **473** | Hooters Gym Performance | 1/7 | ⏳ Pendiente |
 | **474** | Hooters Nightclub Sequin | 1/7 | ⏳ Pendiente |
 | **476** | Hooters Pin-Up Diner | 6/7 | ⏳ Pendiente |
 | **477** | Hooters Escort Slip | 4/7 | ⏳ Pendiente |
 | **478** | Hooters Owl Couture Gown | 1/7 | ⏳ Pendiente |
-| **480** | Hooters Owl Pole | 0/7 | ⏳ Pendiente |
-| **481** | Hooters Crazy-Horse Stage | 1/7 | ⏳ Pendiente |
-| **482** | Hooters Bad-Kitty Pole | 6/7 | ⏳ Pendiente |
 | **483** | Hooters Bordelle Harness | 0/7 | ⏳ Pendiente |
 | **484** | Hooters Latex Cage-Bra | 1/7 | ⏳ Pendiente |
-| **485** | Hooters Latex Zip Club | 2/7 | ⏳ Pendiente |
-| **486** | Hooters Backless Bandage | 4/7 | ⏳ Pendiente |
-| **488** | Hooters Mugler Corporate Domme | 0/7 | ⏳ Pendiente |
+| **485** | Hooters Latex Zip Club | 3/7 | ⏳ Pendiente |
 | **490** | Hooters Editorial Gym Catsuit | 6/7 | ⏳ Pendiente |
 | **491** | Emerald Schiaparelli Sculpture | 0/7 | ⏳ Pendiente |
 | **492** | Sapphire Madame Claude Column | 0/7 | ⏳ Pendiente |
 | **493** | Amethyst Crystal Nightclub | 0/7 | ⏳ Pendiente |
-| **494** | Onyx Mugler Power Domme | 0/7 | ⏳ Pendiente |
-| **495** | Rose Quartz Boudoir | 0/7 | ⏳ Pendiente |
-| **496** | Aquamarine O-Ring Bikini | 0/7 | ⏳ Pendiente |
-| **498** | Citrine Tennis Gym | 1/7 | ⏳ Pendiente |
-| **499** | Opal Bordelle Cage | 1/7 | ⏳ Pendiente |
-| **500** | Diamond Crystal Showgirl | 1/7 | ⏳ Pendiente |
-| **502** | Cathedral White Gown | 6/7 | ⏳ Pendiente |
+| **499** | Opal Bordelle Cage | 3/7 | ⏳ Pendiente |
 | **505** | Champagne Trophy Reception | 6/7 | ⏳ Pendiente |
-| **511** | Yacht Domina | 4/7 | ⏳ Pendiente |
-| **512** | Azure Beach Club | 2/7 | ⏳ Pendiente |
-| **513** | Monte Carlo Siren | 2/7 | ⏳ Pendiente |
 | **514** | Capri Trophy | 2/7 | ⏳ Pendiente |
 | **515** | Marina Pin-Up | 1/7 | ⏳ Pendiente |
-| **516** | Villa Boudoir | 6/7 | ⏳ Pendiente |
-| **517** | Cannes Gala | 1/7 | ⏳ Pendiente |
-| **519** | Tennis Club | 1/7 | ⏳ Pendiente |
 | **520** | Cote d'Azur Fetish | 3/7 | ⏳ Pendiente |
 | **523** | Latex Couture Atsuko Kudo | 1/7 | ⏳ Pendiente |
 | **524** | Officer Domme | 1/7 | ⏳ Pendiente |
-| **526** | Rubber Maid Power | 6/7 | ⏳ Pendiente |
-| **527** | Bodysuit de Arnes | 6/7 | ⏳ Pendiente |
-| **530** | Diosa de Latex Liquido | 1/7 | ⏳ Pendiente |
-| **532** | Belladona | 1/7 | ⏳ Pendiente |
+| **530** | Diosa de Latex Liquido | 2/7 | ⏳ Pendiente |
 | **534** | Amapola | 2/7 | ⏳ Pendiente |
 | **595** | Toxic Lime | 1/7 | ⏳ Pendiente |
 | **691** | Bubblegum Latex Bombshell | 7/7 | ⏳ Pendiente |
@@ -882,12 +860,6 @@
 | **698** | Hot Magenta Crystal Cage | 7/7 | ⏳ Pendiente |
 | **699** | Baby Pink PVC Tease | 7/7 | ⏳ Pendiente |
 | **700** | Cerise Sequin All Nighter | 7/7 | ⏳ Pendiente |
-| **802** | Cherry Wet Look Micro Bikini | 0/7 | ⏳ Pendiente |
-| **803** | Erotic French Maid Vinyl Bodysuit | 0/7 | ⏳ Pendiente |
-| **804** | Vintage Noir Emerald Velvet Gown | 0/7 | ⏳ Pendiente |
-| **805** | Sovereign Chantilly Lace Peignoir | 0/7 | ⏳ Pendiente |
-| **806** | Neon Pink Bondage Vinyl Catsuit | 0/7 | ⏳ Pendiente |
-| **807** | Cyber Magenta Cage Bodysuit | 0/7 | ⏳ Pendiente |
 
 ---
 
