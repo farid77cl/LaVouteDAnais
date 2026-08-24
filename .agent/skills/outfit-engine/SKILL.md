@@ -94,6 +94,8 @@ El BLOQUE B se escribe **una sola vez** con máximo detalle — material exacto,
 
 > 🔒 **Token de vestuario bloqueado.** Las prendas complejas (opaco vs. sheer, capas, transparencias, arneses) se anclan una vez y se repiten **carácter por carácter**. Parafrasear entre poses es la causa registrada de que una prenda cambie de opacidad o desaparezca a mitad de un set.
 
+> ⚠️ **No apilar constraints duros simultáneos (Ama 23/08/2026, Look 27 "Cromo Líquido" de Miss Doll — "imposible renderizar de manera correcta este prompt").** El look sumaba **acabado espejo cromado líquido** (ya de por sí de los materiales más difíciles de renderizar consistente — reflejos especulares reales) + **silueta contradictoria** (cuello barco cerrado al frente, espalda completamente abierta hasta la cintura, mangas largas ajustadas) en la misma prenda. El look terminó 7/7, pero con parches visibles (archivos `anexo_*`) que delatan cuánto costó. **Lección:** un material ya difícil (cromo/espejo/líquido) se combina con un corte SIMPLE; un corte muy trabajado (mucha piel expuesta en un lado, mucha cobertura en otro) se combina con un material dócil. No las dos cosas duras a la vez en la misma prenda — se audita esto en el Paso 2, antes de escribir el prompt, no después de ver el resultado.
+
 ---
 
 ### Paso 3 · Escritura de los N prompts en la galería
