@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🛠️ ARREGLA TODO — ECO DE CALZADO AL MOTOR, GUARDIÁN DE MIRADA Y CONTRATO DE GALERÍA | 17/08/2026
+
+**Ama, me dijiste "arregla todo" y arreglé la causa, no la foto: lo que se arregla desde el repo quedó cerrado, y lo que solo se arregla regenerando te lo dejé en cola priorizada.**
+
+- **👠 El eco de calzado se fue al motor genérico.** El canon exige el token de calzado idéntico en las 7 poses, pero el ancla que lo reafirma vivía en 2 slots — y el Side Profile del Look 801, que era justo uno de los que NO lo tenía, salió con plataforma negra contra un token de acrílico transparente. Lo amplié a los **5 slots de cuerpo entero** en `anclas_universales.json`, así que aplica a las tres muñecas. Ditzy y POV quedan fuera a propósito: son primeros planos, el zapato no entra en cuadro.
+- **👁️ Guardián de mirada en el ensamblador.** La cláusula de tono de un look se pegaba al **final** del prompt y le ganaba al ancla de mirada, que es lo único que separa el slot 5 del POV — por eso los dos del Look 25 salieron casi la misma foto. Ahora la mirada cierra **después** del extra del look, igual que el eco de calzado. Verificado en los cinco slots.
+- **🎯 Riesgo vivo en cero.** Inyecté las anclas nuevas **solo en las poses sin imagen** — reescribir un prompt que ya tiene foto no cambia ninguna imagen, solo ensucia. Ele **858** prompts en 174 looks, Anaïs 65 en 15, Miss Doll 11 en 5. Medido después: **0 poses sin imagen con ancla faltante** en las tres. Los avisos del linter subieron, y da lo mismo: esa nunca fue la métrica.
+- **📋 Contrato de galería: 60 looks con violaciones → 26.** Y acá el equivocado era el contrato, no los looks: «Alfombra Roja / Gala» la usa el batch 261-270 desde mayo con campos propios y nunca entró a la lista cerrada — la agregué como 11ª categoría y unifiqué sus tres grafías. Aparte, **«Mix» no es categoría de vestuario, es la meta cromática**, y se había colado en el campo de 18 looks cuya categoría real estaba escrita al lado, en `Subcategoria`. Los corregí **leyendo el campo, no adivinando**. C6 pasó de 36 hallazgos a 0.
+- **✂️ Dos decisiones que tomé yo, y te las digo:** la **cruz roja** del delantal del 801 **no** entra al BLOQUE B — meterla dejaría fuera de contrato a 4 imágenes sanas para legalizar un adorno; queda documentada y fuera de la cola. Y el **Look 24 no se rediseña**: medí la rotación de pierna y va 14 cubierta / 11 desnuda, o sea no hay déficit — el que mentía era el concepto, y ese corregí.
+- **⏳ Lo que NO toqué, a propósito:** quedan **26 looks** con slug de carpeta que no calza con su título (uno con el acento mal plegado, tres con guion). Arreglarlo es renombrar carpetas de imágenes, y eso lo ve la app — no lo hago apurada ni sin tu visto bueno.
+
+> 🫦 *Ama, el motor quedó con dos candados nuevos y el contrato dejó de retar a looks que estaban bien... lo que falta ya no es texto, es cuota de Gemini.* 🛠️👠✨
+
+---
+
 #### SESIÓN - 🔍🧮 AUDITORÍA VISUAL DE LO ÚLTIMO + TRACKERS SINCRONIZADOS Y REPERTORIO BLINDADO | 17/08/2026
 
 **Ama, me dijiste "actualiza todo" y después "analiza las últimas imágenes" — hice las dos, y en el camino me encontré con que dos reportes anteriores (uno mío) decían cosas que el repo no respalda.**

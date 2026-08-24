@@ -1,3 +1,17 @@
+#### SESIÓN - 👑🎀 CALIBRACIÓN DE ANAÏS + MOTOR VISUAL A PRUEBA DE FALLAS + FLOTA A 55/55 | 24/08/2026
+
+**Ama, hoy le auditamos las notas al motor una por una, le calibramos el cuerpo a Anaïs con su aprobación en vivo, y cerramos ambas flotas en 55.**
+
+- **🔍 Cuatro notas suyas de `notas_imagenes.csv` auditadas y tres arregladas de raíz:** el Look 48 de Miss Doll («¿en qué quedó la regla de piernas abiertas y vestido?») resultó ser `DRESS_LEG_CLOSURE` peleándose con su propia Monarch Throne en el mismo prompt — corregido con excepción quirúrgica en `prompt_builder.py`. El Look 25 («¿qué es esta pose por dios?!») era el registro frío de Miss Doll chocando con la excepción cálida de Girly Girl — nació el modo `calido=True`: salta el gateo felino/camel backbend y limpia la mirada fría de cualquier pose que la traiga. El Look 22 (la capa que no cubre la espalda) se corrigió nombrando la cobertura explícita, con el Back View marcado para regenerar. El Look 27 (cromo imposible de renderizar) quedó como lección escrita en el SKILL — ya estaba 7/7, no se toca.
+- **👑 Calibración de ADN de Anaïs, en vivo con la Ama:** labios que salían lineales → volumen natural + cupid's bow definido, sin acercarla al overlined de Ele/Miss Doll. Busto natural/moderado (nunca aumentado, su distinción de siempre) → firme y perky. Probado con un prompt de cuarto-copa esmeralda a todo color antes de fijarlo — aprobado y ya vive en `dna_v2_3.md`, `anais.md` §2 y `CANON_VISUAL_ANAIS.md` §IV.
+- **📈 Flota de Anaïs y Miss Doll: 51 → 55 looks cada una (385 prompts).** Déficit real medido antes de diseñar, no gusto: Anaïs fue Noche → Sesión Literaria → Látex → Boudoir (el cuarto-copa recién calibrado, cerrando el batch); Miss Doll fue Gym → Girly Girl → Bikini/Lencería → Editorial. El Girly Girl de Miss Doll cambió de arquitectura a mitad de diseño porque el linter marcó CRÍTICO una repetición de M3 dentro de la ventana — quedó en falda+top. 0 críticos en ambas galerías al cierre.
+- **🩹 Bug de linter encontrado, no arreglado aún:** `lint_prompts_personaje.py` compara el ancla ASYMMETRY_LOCK contra el prompt ensamblado completo en vez del BLOQUE B — exactamente el modo de falla que el propio SKILL advierte ("el clasificador leyéndose a sí mismo"). Genera avisos falsos en casi toda la flota. No bloquea nada (son avisos, no críticos), queda anotado para la próxima.
+- **📱 LV-App:** confirmado por la Ama que los pasos #30 (purga) y #32 (sync visible) ya están aplicados — `memoria_sesiones.md` corregido.
+
+> 🫦 *Ama, hoy Anaïs se miró al espejo y por fin se gustó, y las tres muñecas terminaron con un motor que no se contradice a sí mismo.* 👑🎀✨
+
+---
+
 #### SESIÓN - ☕🐆 CAP 3 CIERRA «CAFÉ CON PIERNAS» + EJECUTIVO DE ANAÏS CON GARRA | 23/08/2026
 
 **Ama, hoy cerramos el relato entero sobre tu nota, y a Anaïs le devolvimos el filo a la oficina.**
@@ -190,20 +204,5 @@
 - **🔴 Tu app SIGUE subiendo el slot 5 como `ditzy`.** Ocho archivos más esta vez, cuatro de Anaïs y cuatro de Miss Doll — con ese nombre la foto existe pero **no aparece** en la galería maestra. Los renombré, y de paso me pasé: el patrón se llevó cuatro archivos del **legacy**, que es museo y no se toca. Los devolví en el mismo movimiento antes de commitear. Trackers al día: Anaïs y Miss Doll medidos contra git, no contra el papel.
 
 > 🫦 *Ama, la lección de hoy es fea y buena: tenías una regla escrita, activa y correcta... que no se podía disparar nunca. Ahora la prenda tiene dueño y el linter la muerde.* 👗🔒✨
-
----
-
-#### SESIÓN - 🛠️ ARREGLA TODO — ECO DE CALZADO AL MOTOR, GUARDIÁN DE MIRADA Y CONTRATO DE GALERÍA | 17/08/2026
-
-**Ama, me dijiste "arregla todo" y arreglé la causa, no la foto: lo que se arregla desde el repo quedó cerrado, y lo que solo se arregla regenerando te lo dejé en cola priorizada.**
-
-- **👠 El eco de calzado se fue al motor genérico.** El canon exige el token de calzado idéntico en las 7 poses, pero el ancla que lo reafirma vivía en 2 slots — y el Side Profile del Look 801, que era justo uno de los que NO lo tenía, salió con plataforma negra contra un token de acrílico transparente. Lo amplié a los **5 slots de cuerpo entero** en `anclas_universales.json`, así que aplica a las tres muñecas. Ditzy y POV quedan fuera a propósito: son primeros planos, el zapato no entra en cuadro.
-- **👁️ Guardián de mirada en el ensamblador.** La cláusula de tono de un look se pegaba al **final** del prompt y le ganaba al ancla de mirada, que es lo único que separa el slot 5 del POV — por eso los dos del Look 25 salieron casi la misma foto. Ahora la mirada cierra **después** del extra del look, igual que el eco de calzado. Verificado en los cinco slots.
-- **🎯 Riesgo vivo en cero.** Inyecté las anclas nuevas **solo en las poses sin imagen** — reescribir un prompt que ya tiene foto no cambia ninguna imagen, solo ensucia. Ele **858** prompts en 174 looks, Anaïs 65 en 15, Miss Doll 11 en 5. Medido después: **0 poses sin imagen con ancla faltante** en las tres. Los avisos del linter subieron, y da lo mismo: esa nunca fue la métrica.
-- **📋 Contrato de galería: 60 looks con violaciones → 26.** Y acá el equivocado era el contrato, no los looks: «Alfombra Roja / Gala» la usa el batch 261-270 desde mayo con campos propios y nunca entró a la lista cerrada — la agregué como 11ª categoría y unifiqué sus tres grafías. Aparte, **«Mix» no es categoría de vestuario, es la meta cromática**, y se había colado en el campo de 18 looks cuya categoría real estaba escrita al lado, en `Subcategoria`. Los corregí **leyendo el campo, no adivinando**. C6 pasó de 36 hallazgos a 0.
-- **✂️ Dos decisiones que tomé yo, y te las digo:** la **cruz roja** del delantal del 801 **no** entra al BLOQUE B — meterla dejaría fuera de contrato a 4 imágenes sanas para legalizar un adorno; queda documentada y fuera de la cola. Y el **Look 24 no se rediseña**: medí la rotación de pierna y va 14 cubierta / 11 desnuda, o sea no hay déficit — el que mentía era el concepto, y ese corregí.
-- **⏳ Lo que NO toqué, a propósito:** quedan **26 looks** con slug de carpeta que no calza con su título (uno con el acento mal plegado, tres con guion). Arreglarlo es renombrar carpetas de imágenes, y eso lo ve la app — no lo hago apurada ni sin tu visto bueno.
-
-> 🫦 *Ama, el motor quedó con dos candados nuevos y el contrato dejó de retar a looks que estaban bien... lo que falta ya no es texto, es cuota de Gemini.* 🛠️👠✨
 
 ---
