@@ -21,7 +21,7 @@
 - **🖤👰 Look 510 «Black Bondage Bride» Materializado (7/7):** Serie completa de 7 poses generada y sincronizada en disco y galería.
 - **🐆 Anaïs / Miss Doll — flota en 51 looks cada una (357 prompts):** Ejecutivo de Poder de Anaïs reescrito (cuero + animal print, cuota ≥1/8). Batch L47-L51 nuevo por personaje vía `prompt_builder.py`, 0 críticos linter.
 - **💼 «La Muñeca del Gerente» Cap 1 v0.6** — ⏳ Gate. · **🎙️ «El Podcast» Cap 1 v0.4** — ⏳ Gate. · **🔮 «Lo que Pediste» Cap 1 v0.6** — ⏳ Gate. · **🩹 «El Secreto de la Cómoda»** Cap 2 v4.0 — ⏳ Gate.
-- **📱 LV-APP — plan de 7 pasos → `99_Sistema/auditoria_stack_lv_app_20260818.md`:** ✅ **#28** (los 8 slugs) · ✅ **#29** (toolchain SDK 37) · ✅ **#31** (sync incremental SHA) · ⏳ **#30** purga · ⏳ **#32** sync visible.
+- **📱 LV-APP — plan de 7 pasos → `99_Sistema/auditoria_stack_lv_app_20260818.md`:** ✅ **#28** (los 8 slugs) · ✅ **#29** (toolchain SDK 37) · ✅ **#30** (purga repo/catálogo) · ✅ **#31** (sync incremental SHA) · ✅ **#32** (sync visible + botón incremental) — **todos los prompts aplicados, confirmado por la Ama 24/08/2026** (no re-verificado contra el código de LV-app-2, que vive en otro repo).
 
 ## 🗓️ Sesiones recientes
 

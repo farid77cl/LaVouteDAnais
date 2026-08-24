@@ -367,6 +367,18 @@ class PromptBuilder(object):
             for n in self.opt_in_de(bloque_b):
                 if n not in nombres_extra:
                     nombres_extra.append(n)
+
+        # Excepcion Ama 23/08/2026 (Look 48 "Obsidian Liquid Gown", notas_imagenes.csv):
+        # "en que quedo la regla de piernas abiertas y vestido?". Monarch Throne es
+        # la pose Seated de firma de Miss Doll (SISTEMA_POSES_VESTUARIO_MISS_DOLL.md:
+        # "piernas abiertas 60-90 grados") y sigue vigente CON vestido. DRESS_LEG_CLOSURE
+        # (Ama 13/08) es correcta para el resto de sus poses, pero en Seated queda en
+        # el mismo prompt que la instruccion de pose ("the knees wide") y gana el ancla
+        # por ir repetida en negativo — el tajo alto de vestido disenado para mostrar
+        # pierna queda anulado.
+        if self.slug == "miss_doll" and slot_n == "seated":
+            nombres_extra = [n for n in nombres_extra if n != "DRESS_LEG_CLOSURE"]
+
         globales = globales + [self.anclas[n]["texto"] for n in nombres_extra]
 
         # FOOTWEAR_ECHO cierra siempre (va despues del setting, como en la flota de Ele).
