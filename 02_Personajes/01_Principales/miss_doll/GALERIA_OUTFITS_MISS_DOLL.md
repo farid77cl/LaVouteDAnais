@@ -2457,11 +2457,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **BLOQUE B:** `a high-shine hot pink vinyl catsuit, full-length legs to the ankle, long sleeves, high turtle neckline, a heavy front chrome zipper with an O-ring pull, no corset, no stockings, bare skin under catsuit, (8-inch chrome platform stiletto knee-high boots, razor-thin metal needle heel:1.3), a matching hot pink vinyl collar with a chrome leash ring, long coffin-shaped nails in glossy hot pink polish`
 
-### 📸 Imágenes (2/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look36_catsuit_rosa_neon_calabozo/miss_doll_036_odalisque.png) |
 
 **1. Standing:**
 
@@ -2767,11 +2767,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Concepto:** El micro bikini de vinilo rojo cereza húmedo icónico de Ele. Mínimo, reluciente y audaz.
 **BLOQUE B:** `a cherry red high-gloss wet-look micro string bikini, an ultra-tiny triangle top with chrome O-ring connectors barely covering the bust, a matching ultra-low-rise micro-thong bikini bottom with thin side strings, no stockings, bare legs, (clear transparent acrylic platform stiletto sandals, 8-inch thin pin stiletto heel plus 4-inch clear acrylic platform, open toe, clear ankle strap with a silver buckle, clear sole:1.3), a thin chrome chain choker, long glossy nails in cherry red lacquer`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look41_cherry_wet_look_micro_bikini/miss_doll_041_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look41_cherry_wet_look_micro_bikini/miss_doll_041_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look41_cherry_wet_look_micro_bikini/miss_doll_041_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look41_cherry_wet_look_micro_bikini/miss_doll_041_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look41_cherry_wet_look_micro_bikini/miss_doll_041_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look41_cherry_wet_look_micro_bikini/miss_doll_041_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look41_cherry_wet_look_micro_bikini/miss_doll_041_odalisque.png) |
 
 **1. Standing:**
 
@@ -2829,11 +2829,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Concepto:** El atuendo de sumisión y coquetería bimbo: body de vinilo negro con delantal de encaje blanco transparente y cofia.
 **BLOQUE B:** `a high-gloss black vinyl and white sheer lace erotic French maid bodysuit, sweetheart neckline with white pleated organza trim, extreme high-cut hips, thong back, a tiny sheer white lace maid apron tied at the waist with a satin bow, a matching white lace maid headband, sheer white thigh-high stockings with lace tops, (8-inch glossy black patent platform stiletto Mary Jane pumps with razor-thin metal needle heels:1.3), a black velvet choker with a delicate silver bell, long glossy French-manicured nails`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look42_erotic_french_maid_vinyl_bodysuit/miss_doll_042_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look42_erotic_french_maid_vinyl_bodysuit/miss_doll_042_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look42_erotic_french_maid_vinyl_bodysuit/miss_doll_042_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look42_erotic_french_maid_vinyl_bodysuit/miss_doll_042_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look42_erotic_french_maid_vinyl_bodysuit/miss_doll_042_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look42_erotic_french_maid_vinyl_bodysuit/miss_doll_042_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look42_erotic_french_maid_vinyl_bodysuit/miss_doll_042_odalisque.png) |
 
 **1. Standing:**
 
@@ -2891,11 +2891,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Concepto:** La elegancia imperial y peligrosa de Anaïs: vestido wiggle de terciopelo verde esmeralda con abertura de vértigo y guantes de ópera.
 **BLOQUE B:** `a deep midnight-emerald velvet floor-length wiggle gown, form-fitting silhouette hugging every curve with an off-the-shoulder sweetheart neckline, a dramatic thigh-high slit along one leg, sheer black nylon stockings with a fine back seam, (12cm black patent leather pointed-toe stiletto pumps with iconic red soles:1.2), opera-length black velvet gloves, an opulent vintage diamond necklace, long glossy stiletto nails in dark emerald lacquer`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look43_vintage_noir_emerald_velvet_gown/miss_doll_043_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look43_vintage_noir_emerald_velvet_gown/miss_doll_043_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look43_vintage_noir_emerald_velvet_gown/miss_doll_043_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look43_vintage_noir_emerald_velvet_gown/miss_doll_043_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look43_vintage_noir_emerald_velvet_gown/miss_doll_043_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look43_vintage_noir_emerald_velvet_gown/miss_doll_043_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look43_vintage_noir_emerald_velvet_gown/miss_doll_043_odalisque.png) |
 
 **1. Standing:**
 
@@ -2953,11 +2953,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Concepto:** La intimidad aristocrática de Anaïs: balconette de encaje Chantilly negro, bata de seda transparente arrastrando hasta el suelo y plumas de marabú.
 **BLOQUE B:** `a black French Chantilly lace underwire balconette bra, a matching small sheer black lace thong, a floor-length sheer black silk chiffon open peignoir robe trailing on the floor with wide bell cuffs and trimmed with black marabou feathers, sheer black thigh-high stockings with back seams, (12cm black satin pointed-toe stiletto pumps with iconic red soles:1.2), a delicate black velvet ribbon choker, long glossy stiletto nails in glossy black lacquer`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look44_sovereign_chantilly_lace_peignoir/miss_doll_044_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look44_sovereign_chantilly_lace_peignoir/miss_doll_044_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look44_sovereign_chantilly_lace_peignoir/miss_doll_044_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look44_sovereign_chantilly_lace_peignoir/miss_doll_044_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look44_sovereign_chantilly_lace_peignoir/miss_doll_044_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look44_sovereign_chantilly_lace_peignoir/miss_doll_044_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look44_sovereign_chantilly_lace_peignoir/miss_doll_044_odalisque.png) |
 
 **1. Standing:**
 
@@ -3015,11 +3015,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Concepto:** El fetiche puro y dominante de Miss Doll: catsuit de vinilo rosa neón con arnés corsé de cuero y botas de 8 pulgadas de plataforma cromada.
 **BLOQUE B:** `a high-shine hot pink vinyl catsuit, full-length legs to the ankle, long sleeves, high turtle neckline, a heavy front chrome zipper with an O-ring pull, a structured black leather waist cincher harness with polished chrome buckles, no stockings, bare skin under catsuit, (towering 8-inch chrome-plated platform stiletto knee-high boots with razor-thin metal needle heels:1.3), a matching hot pink vinyl collar with a heavy chrome leash ring, long glossy coffin nails in neon pink polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look45_neon_pink_bondage_vinyl_catsuit/miss_doll_045_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look45_neon_pink_bondage_vinyl_catsuit/miss_doll_045_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look45_neon_pink_bondage_vinyl_catsuit/miss_doll_045_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look45_neon_pink_bondage_vinyl_catsuit/miss_doll_045_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look45_neon_pink_bondage_vinyl_catsuit/miss_doll_045_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look45_neon_pink_bondage_vinyl_catsuit/miss_doll_045_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look45_neon_pink_bondage_vinyl_catsuit/miss_doll_045_odalisque.png) |
 
 **1. Standing:**
 
@@ -3077,11 +3077,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Concepto:** El poder escénico de Miss Doll: body de tiras jaula magenta eléctrico con herrajes cromados, medias de red y botas de plataforma hasta el muslo.
 **BLOQUE B:** `a high-shine electric magenta vinyl strappy cage bodysuit, deep plunging neckline, extreme high-cut thong back, criss-crossing chrome-buckled cage straps across the torso and hips, sheer black micro-fishnet stockings, (towering 8-inch electric magenta patent platform stiletto thigh-high boots with razor-thin metal needle heels:1.3), wide chrome cuff bracelets on both wrists, a high-shine magenta collar with a chrome ring, long glossy coffin nails in electric magenta polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look46_cyber_magenta_cage_bodysuit/miss_doll_046_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look46_cyber_magenta_cage_bodysuit/miss_doll_046_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look46_cyber_magenta_cage_bodysuit/miss_doll_046_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look46_cyber_magenta_cage_bodysuit/miss_doll_046_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look46_cyber_magenta_cage_bodysuit/miss_doll_046_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look46_cyber_magenta_cage_bodysuit/miss_doll_046_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look46_cyber_magenta_cage_bodysuit/miss_doll_046_odalisque.png) |
 
 **1. Standing:**
 
@@ -3138,11 +3138,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **BLOQUE B:** `a baby-pink high-shine vinyl mini skirt with a flared pleated hem, worn with a matching baby-pink vinyl crop top shaped as a structured bralette with gold O-ring center hardware, sheer white fishnet stockings, (8-inch baby-pink patent platform stiletto pump with a razor-thin metal needle heel, pointed toe:1.2), a pink rhinestone choker, gold hoop earrings, soft baby-pink shimmer eyeshadow, vivid coral-red high-gloss lips, long coffin nails in baby-pink chrome polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/miss_doll_047_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/miss_doll_047_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/miss_doll_047_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/miss_doll_047_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/miss_doll_047_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/miss_doll_047_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/miss_doll_047_odalisque.png) |
 
 **1. Standing:**
 
@@ -3200,11 +3200,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **BLOQUE B:** `a floor-length obsidian-black liquid latex gown, a ceiling-high side slit to the hip, a plunging halter neckline, chrome ring hardware at the waist with a hot-pink enamel inlay connecting two structural side panels, sheer black nylon stockings, (8-inch black patent platform stiletto pump with a razor-thin metal needle heel, pointed toe:1.2), a chrome collar with a center O-ring, wide chrome cuff bracelets on both wrists, deep smoky charcoal eyeshadow, vivid blood-red high-gloss lips, long stiletto nails in chrome-mirror polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (6/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look48_obsidian_liquid_gown/miss_doll_048_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look48_obsidian_liquid_gown/miss_doll_048_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look48_obsidian_liquid_gown/miss_doll_048_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look48_obsidian_liquid_gown/miss_doll_048_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look48_obsidian_liquid_gown/miss_doll_048_glacial_command.png) | ⏳ Pendiente | [📸 View](../../../05_Imagenes/miss_doll/look48_obsidian_liquid_gown/miss_doll_048_odalisque.png) |
 
 **1. Standing:**
 
@@ -3262,11 +3262,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **BLOQUE B:** `a high-shine acid-chartreuse vinyl sports bra with chrome ring center hardware, matching high-waisted acid-chartreuse vinyl leggings with sheer mesh side panels running from hip to ankle, a hot-pink chrome-buckled waist belt, (8-inch white patent platform stiletto pump with a razor-thin metal needle heel, pointed toe:1.2), wide chrome cuff bracelets, deep smoky grey eyeshadow with a hint of chartreuse shimmer, vivid blood-red high-gloss lips, long square nails in chrome polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look49_voltage_vinyl_leggings/miss_doll_049_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look49_voltage_vinyl_leggings/miss_doll_049_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look49_voltage_vinyl_leggings/miss_doll_049_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look49_voltage_vinyl_leggings/miss_doll_049_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look49_voltage_vinyl_leggings/miss_doll_049_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look49_voltage_vinyl_leggings/miss_doll_049_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look49_voltage_vinyl_leggings/miss_doll_049_odalisque.png) |
 
 **1. Standing:**
 
@@ -3324,11 +3324,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **BLOQUE B:** `a carbon-black leather overbust corset with visible spiral steel boning and center chrome busk closures, a matching black g-string with fine chrome O-ring side hardware, a black leather harness with fine chrome-buckled straps crossing the chest above the corset, sheer black fishnet stockings, (8-inch carbon-black patent platform ankle-strap stiletto sandal with a razor-thin metal needle heel:1.2), a chrome collar with a hot-pink enamel O-ring, wide chrome cuff bracelets, deep smoky plum eyeshadow, vivid blood-red high-gloss lips, long stiletto nails in gunmetal-chrome polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look50_carbon_wire_corset/miss_doll_050_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look50_carbon_wire_corset/miss_doll_050_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look50_carbon_wire_corset/miss_doll_050_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look50_carbon_wire_corset/miss_doll_050_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look50_carbon_wire_corset/miss_doll_050_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look50_carbon_wire_corset/miss_doll_050_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look50_carbon_wire_corset/miss_doll_050_odalisque.png) |
 
 **1. Standing:**
 
@@ -3386,11 +3386,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **BLOQUE B:** `a sheer champagne mesh slip dress skimming over a matching nude lace bralette and g-string beneath, thin adjustable straps, a hot-pink satin ribbon tied at one hip, bare legs, no stockings, (8-inch champagne satin platform stiletto pump with a razor-thin metal needle heel, pointed toe:1.2), a chrome and pink-crystal anklet on one leg, small chrome hoop earrings, soft rose-gold shimmer eyeshadow, vivid blood-red high-gloss lips, long almond nails in champagne-chrome polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look51_frost_champagne_off_duty/miss_doll_051_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look51_frost_champagne_off_duty/miss_doll_051_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look51_frost_champagne_off_duty/miss_doll_051_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look51_frost_champagne_off_duty/miss_doll_051_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look51_frost_champagne_off_duty/miss_doll_051_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look51_frost_champagne_off_duty/miss_doll_051_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look51_frost_champagne_off_duty/miss_doll_051_odalisque.png) |
 
 **1. Standing:**
 

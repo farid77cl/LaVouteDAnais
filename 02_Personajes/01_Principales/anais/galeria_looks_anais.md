@@ -2524,11 +2524,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a charcoal-grey fine wool double-breasted blazer dress, knee-length, sharply tailored with peaked lapels and matte horn buttons, cinched at the waist with a wide black polished leather belt, sheer black nylon stockings with a fine back seam, (12cm black patent leather D'Orsay stiletto pumps with open sides and closed pointed toes, iconic red sole:1.2), black cat-eye glasses with a rhinestone frame, a slim platinum wristwatch, (deep crimson red glossy lips, long stiletto nails in dark crimson lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_standing.png) | [📸 View](../../../05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_back_view.png) | [📸 View](../../../05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_seated.png) | [📸 View](../../../05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_pov.png) | [📸 View](../../../05_Imagenes/anais/look40_blazer_dress_carbon_ejecutivo/anais_040_odalisque.png) |
 
 **1. Standing:**
 
@@ -2586,11 +2586,11 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** El micro bikini de vinilo rojo cereza húmedo icónico de Ele. Mínimo, reluciente y audaz.
 **BLOQUE B:** `a cherry red high-gloss wet-look micro string bikini, an ultra-tiny triangle top with chrome O-ring connectors barely covering the bust, a matching ultra-low-rise micro-thong bikini bottom with thin side strings, no stockings, bare legs, (clear transparent acrylic platform stiletto sandals, 8-inch thin pin stiletto heel plus 4-inch clear acrylic platform, open toe, clear ankle strap with a silver buckle, clear sole:1.3), a thin chrome chain choker, long glossy nails in cherry red lacquer`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_standing.png) | [📸 View](../../../05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_back_view.png) | [📸 View](../../../05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_seated.png) | [📸 View](../../../05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_pov.png) | [📸 View](../../../05_Imagenes/anais/look41_cherry_wet_look_micro_bikini/anais_L41_odalisque.png) |
 
 **1. Standing:**
 
@@ -2648,11 +2648,11 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** El atuendo de sumisión y coquetería bimbo: body de vinilo negro con delantal de encaje blanco transparente y cofia.
 **BLOQUE B:** `a high-gloss black vinyl and white sheer lace erotic French maid bodysuit, sweetheart neckline with white pleated organza trim, extreme high-cut hips, thong back, a tiny sheer white lace maid apron tied at the waist with a satin bow, a matching white lace maid headband, sheer white thigh-high stockings with lace tops, (8-inch glossy black patent platform stiletto Mary Jane pumps with razor-thin metal needle heels:1.3), a black velvet choker with a delicate silver bell, long glossy French-manicured nails`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_standing.png) | [📸 View](../../../05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_back_view.png) | [📸 View](../../../05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_seated.png) | [📸 View](../../../05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_pov.png) | [📸 View](../../../05_Imagenes/anais/look42_erotic_french_maid_vinyl_bodysuit/anais_042_odalisque.png) |
 
 **1. Standing:**
 
@@ -2710,11 +2710,11 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** La elegancia imperial y peligrosa de Anaïs: vestido wiggle de terciopelo verde esmeralda con abertura de vértigo y guantes de ópera.
 **BLOQUE B:** `a deep midnight-emerald velvet floor-length wiggle gown, form-fitting silhouette hugging every curve with an off-the-shoulder sweetheart neckline, a dramatic thigh-high slit along one leg, sheer black nylon stockings with a fine back seam, (12cm black patent leather pointed-toe stiletto pumps with iconic red soles:1.2), opera-length black velvet gloves, an opulent vintage diamond necklace, long glossy stiletto nails in dark emerald lacquer`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_standing.png) | [📸 View](../../../05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_back_view.png) | [📸 View](../../../05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_seated.png) | [📸 View](../../../05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_pov.png) | [📸 View](../../../05_Imagenes/anais/look43_vintage_noir_emerald_velvet_gown/anais_043_odalisque.png) |
 
 **1. Standing:**
 
@@ -2772,11 +2772,11 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** La intimidad aristocrática de Anaïs: balconette de encaje Chantilly negro, bata de seda transparente arrastrando hasta el suelo y plumas de marabú.
 **BLOQUE B:** `a black French Chantilly lace underwire balconette bra, a matching small sheer black lace thong, a floor-length sheer black silk chiffon open peignoir robe trailing on the floor with wide bell cuffs and trimmed with black marabou feathers, sheer black thigh-high stockings with back seams, (12cm black satin pointed-toe stiletto pumps with iconic red soles:1.2), a delicate black velvet ribbon choker, long glossy stiletto nails in glossy black lacquer`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_standing.png) | [📸 View](../../../05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_back_view.png) | [📸 View](../../../05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_seated.png) | [📸 View](../../../05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_pov.png) | [📸 View](../../../05_Imagenes/anais/look44_sovereign_chantilly_lace_peignoir/anais_L44_odalisque.png) |
 
 **1. Standing:**
 
@@ -2834,11 +2834,11 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** El fetiche puro y dominante de Miss Doll: catsuit de vinilo rosa neón con arnés corsé de cuero y botas de 8 pulgadas de plataforma cromada.
 **BLOQUE B:** `a high-shine hot pink vinyl catsuit, full-length legs to the ankle, long sleeves, high turtle neckline, a heavy front chrome zipper with an O-ring pull, a structured black leather waist cincher harness with polished chrome buckles, no stockings, bare skin under catsuit, (towering 8-inch chrome-plated platform stiletto knee-high boots with razor-thin metal needle heels:1.3), a matching hot pink vinyl collar with a heavy chrome leash ring, long glossy coffin nails in neon pink polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_standing.png) | [📸 View](../../../05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_back_view.png) | [📸 View](../../../05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_seated.png) | [📸 View](../../../05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_pov.png) | [📸 View](../../../05_Imagenes/anais/look45_neon_pink_bondage_vinyl_catsuit/anais_045_odalisque.png) |
 
 **1. Standing:**
 
@@ -2896,11 +2896,11 @@ look nuevo, va antes de este bloque, nunca despues.
 **Concepto:** El poder escénico de Miss Doll: body de tiras jaula magenta eléctrico con herrajes cromados, medias de red y botas de plataforma hasta el muslo.
 **BLOQUE B:** `a high-shine electric magenta vinyl strappy cage bodysuit, deep plunging neckline, extreme high-cut thong back, criss-crossing chrome-buckled cage straps across the torso and hips, sheer black micro-fishnet stockings, (towering 8-inch electric magenta patent platform stiletto thigh-high boots with razor-thin metal needle heels:1.3), wide chrome cuff bracelets on both wrists, a high-shine magenta collar with a chrome ring, long glossy coffin nails in electric magenta polish`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_standing.png) | [📸 View](../../../05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_back_view.png) | [📸 View](../../../05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_seated.png) | [📸 View](../../../05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_pov.png) | [📸 View](../../../05_Imagenes/anais/look46_cyber_magenta_cage_bodysuit/anais_046_odalisque.png) |
 
 **1. Standing:**
 
@@ -2957,11 +2957,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a fitted black leather blazer, sharply tailored with peaked lapels and a nipped waist, worn open over a leopard-print silk charmeuse blouse with a deep plunging neckline, a matching black leather pencil skirt falling to the knee with a single back slit, a wide polished black leather belt cinching the waist over the blouse, sheer black nylon stockings with a fine back seam, (12cm black leather D'Orsay stiletto pumps with open sides and closed pointed toes, iconic red sole:1.2), black cat-eye glasses with a delicate rhinestone-tipped frame, antique gold drop earrings, (deep crimson red glossy lips, long stiletto nails in dark crimson lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look47_cuero_y_leopardo/anais_047_standing.png) | [📸 View](../../../05_Imagenes/anais/look47_cuero_y_leopardo/anais_047_back_view.png) | [📸 View](../../../05_Imagenes/anais/look47_cuero_y_leopardo/anais_047_seated.png) | [📸 View](../../../05_Imagenes/anais/look47_cuero_y_leopardo/anais_047_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look47_cuero_y_leopardo/anais_047_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look47_cuero_y_leopardo/anais_047_pov.png) | [📸 View](../../../05_Imagenes/anais/look47_cuero_y_leopardo/anais_047_odalisque.png) |
 
 **1. Standing:**
 
@@ -3019,11 +3019,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a knee-length black leather wiggle dress, fitted sharply through the hip with a narrow pencil skirt hem and a structured sweetheart neckline, a python-print silk panel inset down the center front from neckline to hem, a wide bronze-buckled leather belt cinching the natural waist, sheer black nylon stockings with a fine back seam, (12cm black patent leather pointed-toe stiletto pump, iconic red sole:1.2), a slim antique gold cigarette holder, a single strand of black onyx beads, (deep crimson red glossy lips, long stiletto nails in bronze-shimmer lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look48_piton_ejecutivo/anais_048_standing.png) | [📸 View](../../../05_Imagenes/anais/look48_piton_ejecutivo/anais_048_back_view.png) | [📸 View](../../../05_Imagenes/anais/look48_piton_ejecutivo/anais_048_seated.png) | [📸 View](../../../05_Imagenes/anais/look48_piton_ejecutivo/anais_048_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look48_piton_ejecutivo/anais_048_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look48_piton_ejecutivo/anais_048_pov.png) | [📸 View](../../../05_Imagenes/anais/look48_piton_ejecutivo/anais_048_odalisque.png) |
 
 **1. Standing:**
 
@@ -3081,11 +3081,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a deep plum silk kimono robe with a wide obi-style sash, wide dramatic sleeves, left open over a matching plum silk slip, sheer black nylon stockings, (12cm black patent leather pointed-toe stiletto pump, iconic red sole:1.2), black cat-eye reading glasses with a delicate rhinestone-tipped frame, a slim silver cigarette holder, a single strand of pearls, (deep crimson red glossy lips, long oval nails in deep plum lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look49_ciruela_y_boquilla_de_plata/anais_049_standing.png) | [📸 View](../../../05_Imagenes/anais/look49_ciruela_y_boquilla_de_plata/anais_049_back_view.png) | [📸 View](../../../05_Imagenes/anais/look49_ciruela_y_boquilla_de_plata/anais_049_seated.png) | [📸 View](../../../05_Imagenes/anais/look49_ciruela_y_boquilla_de_plata/anais_049_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look49_ciruela_y_boquilla_de_plata/anais_049_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look49_ciruela_y_boquilla_de_plata/anais_049_pov.png) | [📸 View](../../../05_Imagenes/anais/look49_ciruela_y_boquilla_de_plata/anais_049_odalisque.png) |
 
 **1. Standing:**
 
@@ -3143,11 +3143,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a floor-length fitted deep bordeaux column gown with a thigh-high side slit that opens with every step, closed and demure when standing still, a plunging back neckline to the waist, a silver fox fur stole draped over one shoulder, the fur lying flat and unbroken across both shoulder blades with its edge following the same line front and back, sheer black nylon stockings with a fine back seam, (12cm black satin pointed-toe stiletto pump, iconic red sole:1.2), a single antique ruby pendant, antique ruby drop earrings, (deep crimson red glossy lips, long almond nails in deep bordeaux lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look50_borgona_y_zorro_plateado/anais_050_standing.png) | [📸 View](../../../05_Imagenes/anais/look50_borgona_y_zorro_plateado/anais_050_back_view.png) | [📸 View](../../../05_Imagenes/anais/look50_borgona_y_zorro_plateado/anais_050_seated.png) | [📸 View](../../../05_Imagenes/anais/look50_borgona_y_zorro_plateado/anais_050_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look50_borgona_y_zorro_plateado/anais_050_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look50_borgona_y_zorro_plateado/anais_050_pov.png) | [📸 View](../../../05_Imagenes/anais/look50_borgona_y_zorro_plateado/anais_050_odalisque.png) |
 
 **1. Standing:**
 
@@ -3205,11 +3205,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a sheer dusty-rose corselette with six integrated garter straps worn above the thong and delicate chantilly lace cups, visible spiral boning at the waist, a small dusty-rose chantilly lace thong of modest brief-cut coverage, a floor-length sheer dusty-rose silk georgette open robe trailing behind her, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin belt, sheer nude stockings with a fine back seam gartered above the thong, (12cm dusty-rose satin pointed-toe stiletto pump, iconic red sole:1.2), a single strand of pearls, a slim silver cigarette holder, (deep crimson red glossy lips, half-moon manicure with the lunula left bare in dusty-rose lacquer:1.1)`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look51_corselette_rosa_antiguo/anais_L51_standing.png) | [📸 View](../../../05_Imagenes/anais/look51_corselette_rosa_antiguo/anais_L51_back_view.png) | [📸 View](../../../05_Imagenes/anais/look51_corselette_rosa_antiguo/anais_L51_seated.png) | [📸 View](../../../05_Imagenes/anais/look51_corselette_rosa_antiguo/anais_L51_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look51_corselette_rosa_antiguo/anais_L51_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look51_corselette_rosa_antiguo/anais_L51_pov.png) | [📸 View](../../../05_Imagenes/anais/look51_corselette_rosa_antiguo/anais_L51_odalisque.png) |
 
 **1. Standing:**
 
@@ -3390,11 +3390,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `an antique-silver liquid-latex overbust corset with visible spiral steel boning cinching an extreme tightlaced waist, worn with a matching antique-silver latex pencil skirt with a thigh-high back slit, black opera-length latex gloves, a slim chrome choker with a center ring, 12cm black patent leather thigh-high over-the-knee stiletto boot, iconic red sole`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 **1. Standing:**
 
@@ -3452,11 +3452,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a quarter-cup demi bra in deep emerald green silk charmeuse with chantilly lace trim, cups cut low and open so the upper swell of the bust rises bare above the lace edge, a matching small emerald chantilly lace thong of modest brief-cut coverage with a scalloped lace edge, a garter belt with six suspender straps in matching lace clipped over sheer black back-seamed stockings, a delicate gold necklace, wearing 12cm black patent leather stiletto pump pointed toe iconic red sole`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look55_esmeralda_cuarto_de_copa/anais_L55_standing.png) | [📸 View](../../../05_Imagenes/anais/look55_esmeralda_cuarto_de_copa/anais_L55_back_view.png) | [📸 View](../../../05_Imagenes/anais/look55_esmeralda_cuarto_de_copa/anais_L55_seated.png) | [📸 View](../../../05_Imagenes/anais/look55_esmeralda_cuarto_de_copa/anais_L55_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look55_esmeralda_cuarto_de_copa/anais_L55_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look55_esmeralda_cuarto_de_copa/anais_L55_pov.png) | [📸 View](../../../05_Imagenes/anais/look55_esmeralda_cuarto_de_copa/anais_L55_odalisque.png) |
 
 **1. Standing:**
 
