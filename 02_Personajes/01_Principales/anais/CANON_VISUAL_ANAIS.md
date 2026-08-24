@@ -65,7 +65,7 @@ sophisticated ageless dominant woman in her early 40s, perpetually youthful yet 
 
 - **Ojos:** *Cat-eye* muy afilado y definido con delineador negro líquido. Pestañas postizas largas y tupidas en el extremo exterior para alargar el ojo. Sombras en tonos neutros fríos o taupe.
 - **Cejas:** Finas, arqueadas y muy oscuras, estilo años 40.
-- **Labios:** El punto focal. Rojo clásico, rojo sangre oscuro o borgoña, siempre perfectamente delineados, con acabado satinado o mate impecable ("Overlined cupid's bow" retro).
+- **Labios:** El punto focal. Rojo clásico, rojo sangre oscuro o borgoña, siempre perfectamente delineados, con acabado satinado o mate impecable, **volumen natural y cupid's bow bien definido** (calibrado 24/08/2026 — reemplaza "overlined": ese registro es de Ele/Miss Doll, no de Anaïs; el suyo es lleno pero contenido, nunca overlined).
 - **Uñas:** Largas, afiladas y puntiagudas (forma *Stiletto* o *Almond* larga). Esmalte siempre brillante y perfecto en rojo pasión, burgundy o negro puro.
 
 ---

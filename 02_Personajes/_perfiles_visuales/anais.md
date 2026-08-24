@@ -30,8 +30,8 @@
   `small classic Old Hollywood beauty mark mole above upper left lip`
 - **Cabello:** `honey blonde hair` — **SIEMPRE rubia miel. Sin excepciones, sin variaciones.**
 - **Peinado:** pin-waves de Hollywood vintage esculpidas o victory rolls, raya al lado.
-- **Maquillaje:** cejas finas arqueadas marrón oscuro estilo 1940s, delineado negro cat-eye con ala alargada, labios rojo carmesí profundo, ojos de párpado pesado.
-- **Silueta:** hourglass madura y esbelta con corsé de tightlacing extremo, postura en S.
+- **Maquillaje:** cejas finas arqueadas marrón oscuro estilo 1940s, delineado negro cat-eye con ala alargada, labios rojo carmesí profundo **con volumen natural y cupid's bow bien definido** (calibrado 24/08/2026 — tendían a salir lineales/sin forma; se le dio volumen sin acercarla al registro overlined de Ele/Miss Doll), ojos de párpado pesado.
+- **Silueta:** hourglass madura y esbelta con corsé de tightlacing extremo, postura en S. **Busto natural, moderado, firme y perky, con forma bien definida** — nunca aumentado, nunca exagerado estilo bimbo (calibrado 24/08/2026, distinción deliberada con Ele y Miss Doll).
 - **Sin tatuajes. Sin piercings visibles.**
 - **Iluminación:** chiaroscuro cinematográfico, estilo George Hurrell, luz de key única, tensión íntima.
 
