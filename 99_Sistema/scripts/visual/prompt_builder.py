@@ -192,7 +192,14 @@ class PromptBuilder(object):
             raise KeyError("'%s' no tiene sub-poses para el slot '%s'." % (self.slug, slot_n))
         return v
 
-    def pose(self, slot, look_number, props=None, indice=None):
+    # Clausula final de mirada/gesto que nombra frialdad o dominancia ("her cold
+    # pale steel grey eyes locked...", "a cold smirk at the lens", "with cold
+    # superiority"...). Siempre es el ULTIMO segmento separado por coma en las
+    # 9 variantes por slot (verificado a mano contra el repertorio de Miss Doll),
+    # asi que anclar en $ es seguro: solo se come el tramo final si nombra "cold".
+    RX_COLD_TAIL = re.compile(r",\s*[^,]*\bcold\b[^,]*$", re.I)
+
+    def pose(self, slot, look_number, props=None, indice=None, calido=False):
         """
         Devuelve el TEXTO de sub-pose que le toca a este look en este slot.
 
@@ -203,6 +210,13 @@ class PromptBuilder(object):
         look_number : numero de look (la rotacion sale de aqui)
         props       : mobiliario REAL del setting -> {"seat": "a chrome bench", "upright": "the stage pole", ...}
         indice      : fuerza una variacion concreta (para tests o para un look especial)
+        calido      : True en arquetipos con excepcion de expresion (Girly Girl de Miss
+                      Doll, Ama 23/08/2026, notas_imagenes.csv Look 25/48). Salta las
+                      sub-poses listadas como "duras" en repertorios_pose.json (cuerpo
+                      predatorio/dominante, ej. el gateo felino de Odalisque) y limpia la
+                      clausula final de mirada fria si la variacion elegida la trae — el
+                      resto del look ya pega despues una frase de sonrisa calida, y las
+                      dos convivian contradictorias en el mismo prompt.
 
         Rotacion: indice = (look_number - 1 + offset_del_slot) %% n. Si la variacion
         que toca pide un prop que este look no tiene, se salta a la siguiente — nunca
@@ -214,14 +228,20 @@ class PromptBuilder(object):
         n = len(variantes)
         off = self.repertorio.get("offsets", {}).get(slot_n, 0)
         i0 = (look_number - 1 + off) % n if indice is None else indice % n
+        duras = set(self.repertorio.get("duras", {}).get(slot_n, [])) if calido else set()
 
         faltantes = set()
         for salto in range(n):
             i = (i0 + salto) % n
+            if i in duras and indice is None:
+                continue
             pedidos = set(PROPS_SIN_RESOLVER.findall(variantes[i]))
             sin_resolver = set(p for p in pedidos if not props.get(p))
             if not sin_resolver:
-                return self._limpiar(variantes[i].format(**props))
+                texto = variantes[i].format(**props)
+                if calido:
+                    texto = self.RX_COLD_TAIL.sub("", texto)
+                return self._limpiar(texto)
             faltantes |= sin_resolver
         raise ValueError(
             "Ninguna de las %d sub-poses de '%s/%s' se puede resolver: falta(n) el prop %s. "

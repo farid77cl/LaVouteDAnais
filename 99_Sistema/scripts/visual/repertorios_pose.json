@@ -108,6 +108,10 @@
         "pov": 6,
         "odalisque": 5
       },
+      "duras": {
+        "_nota": "Indices de cuerpo predatorio/dominante que la rotacion `calido=True` (Ama 23/08/2026, arquetipo Girly Girl) salta — no solo mirada, el CUERPO mismo choca con el registro suave. odalisque[1] = gateo felino a cuatro patas, espalda arqueada, caderas en alto. odalisque[8] = camel backbend agresivo con pelvis empujada al frente. El resto del repertorio (incluida la mirada fria puntual) se limpia via RX_COLD_TAIL, no via exclusion.",
+        "odalisque": [1, 8]
+      },
       "slots": {
         "standing": [
           "full body from a low angle, one long-nailed hand closed high around {upright} with that arm extended overhead, the weight hung back off the grip in a long elegant lumbar arch, the hips angled toward the lens and the chin lifted in a slow appraising look at camera, both stilettos planted",
