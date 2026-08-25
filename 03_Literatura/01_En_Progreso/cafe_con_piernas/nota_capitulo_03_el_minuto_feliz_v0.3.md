@@ -1,1 +1,1 @@
-cupcake más.manipuladora con don Manuel, que lo deje duro
+cupcake más.manipuladora con don Manuel, que lo deje duro. lo mismo con Ignacio, en esos 5 minutos lo deja caliente, le pide más tiempo, cupcake se niega, lo deja caliente 
