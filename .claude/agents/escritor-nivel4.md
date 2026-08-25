@@ -2,6 +2,7 @@
 name: escritor-nivel4
 description: |
   Use this agent for FASE 4 (Escritura) of Engine Escritura LV v4.7 (Nivel 4). Replaces the v4.6 escritor with a leaner, voice-persistent writer. Reads minimal canon (canon_relato.md, ~2,000 words) + voz_autoral.md (accumulated tics from approved chapters) + antología de calentón (textual fragments, NOT abstract M1-M17 lists). Produces ONLY narrative prose in the output file — all metadata/autoverification goes to a SEPARATE report file. Returns ESCRITOR_N4_RESULT.
+model: fable
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---
 

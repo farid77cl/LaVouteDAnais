@@ -1,54 +1,49 @@
 # Cronología — El Secreto de la Cómoda
-> **Blindaje de Continuidad (Centinela documental).** Calendario anclado (relativo, sin días de semana sueltos), tabla de Hechos Plantados y estado del cuerpo por capítulo. El Escritor lo actualiza al cerrar cada capítulo; el Validador lo audita (eje Continuidad → DISCONTINUO si algo no cierra). **Fuente de verdad temporal:** el Cap 1 GOLD MASTER (su prosa manda sobre cualquier tabla vieja).
+> **Blindaje de Continuidad (Centinela documental).** Secuencia de eventos ordenada (sin días marcados, Ama 25/08/2026 — ver nota abajo), tabla de Hechos Plantados y estado del cuerpo por capítulo. El Escritor lo actualiza al cerrar cada capítulo; el Validador lo audita (eje Continuidad → DISCONTINUO si algo no cierra). **Fuente de verdad temporal:** el Cap 1 GOLD MASTER (su prosa manda sobre cualquier tabla vieja).
+
+> 🔴 **REFORMA 25/08/2026: de 6 a 3 capítulos.** Ver `canon_relato.md` para el arco completo. Todo lo que vivía en el viejo Cap 2 v4.0 y en las proyecciones de los viejos Cap 3-6 queda **REEMPLAZADO** por la secuencia de abajo — el v4.0 archivado en `borradores/capitulo_02/` sigue siendo referencia de tono/voz, pero su estructura puntual ya no es canon.
+
+> 🚫 **SIN DÍAS MARCADOS (Ama 25/08/2026): *"no me gusta que estén marcados los días."*** Esta cronología ya no cuenta ni sueltos ni relativos (nada de "+6 días", "Ancla 0"). Lo que queda es **orden**: qué pasa antes de qué. El ritmo temporal interno lo decide el Escritor en la prosa, no una tabla.
 
 ---
 
-## 🕒 Calendario Anclado
+## 🕒 Secuencia de Eventos (sin días marcados)
 
-**Ancla 0 = la noche del sótano de Zapallar** (domingo, clímax del Cap 1). Todo se cuenta relativo a esa noche.
-
-| Ancla | Momento | Evento | Capítulo | Estado |
-|-------|---------|--------|----------|--------|
-| **−3 días** | tarde | Oficina de la Costanera: Ricardo firma sobre Andrés ("voy a estar por encima tuyo"). Llamada "quiero la lencería negra" (red herring). | Cap 1 | ✅ escrito |
-| −3 a 0 | fin de semana | Viaje por Ruta 68 a la casona de Zapallar; cenas frente a la chimenea; Isabel inventaría en secreto. | Cap 1 | ✅ escrito |
-| **Ancla 0** | domingo ~22:00 | Sótano: el baúl de Anaís, las fotos de Camila, el chantaje, el corsé forzado, el orgasmo arruinado (**1º**), el cinturón de castidad cerrado (**CLACK**), "Rocío". | Cap 1 | ✅ escrito |
-| **+1 día** | lunes AM→PM | De vuelta en Vitacura. Oficina en castidad (corsé+tanga bajo el Caraceni); junta con los abogados de Andrés (caso Portales Celis); llamada de Andrés (renegociar cláusula → "el lunes que viene, con tu equipo"); llamada de Isabel ("una de estas noches te voy a mostrar. Entera"). 19:00 revisión de Isabel. | Cap 2 (Mov. I) | ✅ escrito |
-| **+2 días** | martes | Depilación en la tina (piernas). Esa noche, solo, se toca la pantorrilla **sin que nadie lo obligue** (auto-implicación). | Cap 2 (Mov. II) | ✅ escrito |
-| **+4 días** | jueves | Vestido de casa + delantal (aseo doméstico con falda); maquillaje 60s frente al tocador (cara "frontera"); lo remueve pero "Rocío" no se va. | Cap 2 (Mov. II) | ✅ escrito |
-| **+6 días** | sábado ~23:00 | Vestidor de Vitacura: el conjunto negro ("siempre fue para ti"), medias, arnés de cuero de Anaís (**1ª penetración**), el nombre "Rocío" entra al cuerpo, orgasmo arruinado (**2º**, full-body), Andrés amartillado ("el lunes viene… una de estas noches va a volver a otra cosa"). Isabel ordena dejar el conjunto puesto. | Cap 2 (Mov. III) | ✅ escrito |
-| **+~15 días** | noche | Régimen 24/7 (faja+tacones); cintas de audio de Anaís programando a Rocío; Alberto como primer testigo externo. | Cap 3 | ⬜ por escribir |
-| **+~21 días** | 21:00 | **El Banquete:** Andrés invitado a cenar; Rocío sirve vestida de seda; tease terminal ante el enemigo. (Pago P4.) | Cap 4 | ⬜ por escribir |
-| **+~30 días** | — | Quema del traje de hombre en Zapallar; peinado permanente; tatuaje de propiedad en el muslo (bajo el liguero). | Cap 5 | ⬜ por escribir |
-| **+~35 días** | 22:00 | **Entrega Final a Andrés:** posesión consumada; rima maestra del espejo ("Ahora yo voy a estar sobre ti"). (Pago P5.) | Cap 6 | ⬜ por escribir |
-
-> ⚠️ **Discrepancia legacy resuelta:** la vieja `linea_de_tiempo_maestra.md` (archivada en `_legacy_v4.2/`) compactaba la firma de oficina y el sótano en un mismo "Día 1". La prosa del Cap 1 (Gold Master) dice que el viaje fue "**tres días después**" de la firma y el sótano "**la noche del domingo**". Esta cronología ancla al **sótano-domingo = Ancla 0**, que es lo que importa para la continuidad del Cap 2 en adelante.
+1. **Oficina de la Costanera:** Ricardo firma sobre Andrés ("voy a estar por encima tuyo"). Llamada "quiero la lencería negra" (red herring). — Cap 1 ✅ escrito
+2. **Viaje a la casona de Zapallar:** cenas frente a la chimenea; Isabel inventaría en secreto. — Cap 1 ✅ escrito
+3. **El sótano:** el baúl de Anaís, las fotos de Camila, el chantaje, el corsé forzado, el orgasmo arruinado (1º), el cinturón de castidad cerrado (CLACK), "Rocío". — Cap 1 ✅ escrito
+4. **Primera penetración con el arnés** (vestidor de Vitacura): el nombre "Rocío" entra al cuerpo. — Cap 2 (apertura) ⬜ por escribir
+5. **Isabel encuentra y aplica los cuadernos de Anaís:** régimen de domesticación, expediente de chantaje creciendo (H8), alianza en secreto con Andrés (H9). — Cap 2 (cuerpo) ⬜ por escribir. **Un solo tramo de proceso, sin sub-beats idénticos repetidos** — es la misma trampa que hundió el v3.1 (ver Cementerio).
+6. **Humillación privada:** presentación ritual de Rocío a Andrés, examen y servicio sin testigos ajenos; entrega formal como propiedad. — Cap 3 (privado) ⬜ por escribir
+7. **Humillación pública:** el círculo cercano ve lo que Rocío se volvió. — Cap 3 (público) ⬜ por escribir
+8. **Entrega Doble:** Rocío ve a Andrés poseer salvajemente a Isabel; después Andrés también posee a Rocío — rima maestra del espejo. — Cap 3 (cierre) ⬜ por escribir
 
 ---
 
 ## 📌 Hechos Plantados (deben pagar / no contradecirse)
 
+> ✂️ **Recorte 25/08 (pedido de la Ama: que la cronología no infle el relato con obligaciones de más).** Bajado de 13 a 8 hechos. Fusionado H1 (fotos de Camila) dentro de H8-el-expediente — son la misma amenaza, no dos. Sacados de la tabla H-arnés y H-piernas depiladas: son detalle sensorial de continuidad, no compromisos que exijan una escena dedicada — el Escritor los mantiene consistentes sin que cuenten como "pendiente". Camila Vidal como personaje queda en el mecanismo (dentro de H8), no como hilo propio que deba reaparecer.
+
 | # | Hecho | Plantado | Paga / Persiste | Estado |
 |---|-------|----------|-----------------|--------|
-| H1 | **Fotos de Camila Vidal** (Motel Vista Hermosa, pieza 12, taco de charol) en sobre lacrado donde el abogado de Isabel — el chantaje absoluto. | Cap 1 | Amenaza viva todo el arco ("mañana a las ocho"). | 🔒 activo |
-| H2 | **Cinturón de castidad** de acero cerrado; **la llave plateada** en el escote de Isabel, sobre el corazón, inalcanzable. **Cero descarga desde Ancla 0.** | Cap 1 | Persiste; toda calentura queda represada. | 🔒 activo |
-| H3 | **El nombre "Rocío"** (solo existía en la cabeza de Ricardo; Isabel lo sabe todo). | Cap 1 (revelación) | Entra al cuerpo en Cap 2; identidad plena hacia Cap 3-6. | 🔄 en curso |
-| H4 | **Andrés**, rival aplastado. Cláusula pendiente del contrato → "el lunes que viene con tu equipo". Rabia guardada. | Cap 1 / Cap 2 | **Banquete Cap 4** (observa/sirve) → **posesión Cap 6** ("Ahora yo voy a estar sobre ti"). | 🎯 amartillado |
-| H5 | **El conjunto negro** que Ricardo pidió por teléfono ("quiero la lencería negra") — red herring: el lector cree que es para una amante. | Cap 1 | "Nunca hubo amante. Siempre fue para ti." | ✅ pagado (Cap 2) |
-| H6 | **Cintas de audio de la Tía Anaís** (en el baúl del sótano). | Cap 1 (baúl) | Programan a Rocío en Cap 3 (voz muerta sustituye el monólogo interno). | ⬜ pendiente |
-| H7 | **Arnés de cuero de Anaís** (falo de silicona, hebillas de latón). | Cap 2 | Vuelve en régimen 24/7 (Cap 3+). | 🔄 en curso |
-| H8 | **Piernas depiladas** (lisas, permanentes). | Cap 2 | El cuerpo lampiño ya no vuelve atrás; ultra-sensible al nylon (Cap 3). | 🔄 en curso |
-| H9 | Frase-espejo **"El poder es saber quién está debajo"** (Ricardo, corbata, oficina). | Cap 1 | Invierte en Cap 6: "El poder es saber que estoy debajo" (liguero). | ⬜ pendiente |
-| H10 | **La voz de barítono** = último territorio masculino intacto (la maneja perfecto incluso en encaje). | Cap 2 | "La voz es lo último que se cae" — debe caer en el arco tardío. | 🔄 en curso |
-| H11 | **Camila Vidal** (la prostituta del motel que entregó las fotos) como catalizador externo. | Cap 1 | Origen del chantaje; puede reaparecer. | 🔒 activo |
+| H2 | **Cinturón de castidad** de acero cerrado; **la llave plateada** en el escote de Isabel, sobre el corazón, inalcanzable. **Cero descarga desde el sótano.** | Cap 1 | Persiste; toda calentura queda represada. | 🔒 activo |
+| H3 | **El nombre "Rocío"** (solo existía en la cabeza de Ricardo; Isabel lo sabe todo). | Cap 1 (revelación) | Entra al cuerpo en Cap 2; identidad plena hacia el cierre de Cap 3. | 🔄 en curso |
+| H4 | **Andrés**, rival aplastado. Cláusula pendiente del contrato → "el lunes que viene con tu equipo". | Cap 1 / Cap 2 | Isabel la usa para acercarse a él en secreto durante Cap 2 (alianza, H9) → entrega + posesión doble en Cap 3. | 🎯 amartillado |
+| H5 | **El conjunto negro** ("quiero la lencería negra") — red herring: el lector cree que es para una amante. | Cap 1 | "Nunca hubo amante. Siempre fue para ti." | ✅ pagado (apertura Cap 2) |
+| H6 | **Cuadernos manuscritos de la Tía Anaís** (en el fondo de la cómoda). *(Reforma 25/08: reemplazan "cintas de audio" — el Cap 1 GOLD MASTER no nombra el contenido del baúl, no hay contradicción.)* | Cap 1 (baúl, implícito) | Isabel los encuentra y los aplica sobre Rocío en Cap 2 — motor único de la domesticación, no hace falta inventar otro mecanismo. | ⬜ pendiente |
+| H7 | Frase-espejo **"El poder es saber quién está debajo"**. | Cap 1 | Invierte en Cap 3: "El poder es saber que estoy debajo". | ⬜ pendiente |
+| H8 | **El expediente de chantaje** — fusiona las fotos de Camila (motel, sobre lacrado) + el material nuevo que Isabel genera durante el entrenamiento + la cláusula de Andrés. *(Reforma 25/08 — "mucho chantaje" pedido por la Ama.)* | Cap 1 (fotos) / Cap 2 (crece) | Un solo hilo de chantaje, no tres separados. Debe sentirse crecer, no reaparecer como sub-tramas nuevas. Hace irreversible la entrega en Cap 3. | ⬜ pendiente |
+| H9 | **Alianza Isabel-Andrés** — nace del chantaje/cláusula en Cap 2, madura en algo sexual antes del Cap 3. | Cap 2 | Paga en Cap 3: Andrés posee a Isabel delante de Rocío. | ⬜ pendiente |
+| H10 | **La voz de barítono**, último territorio masculino intacto. | Cap 2 | Debe caer en Cap 3 — sin capítulo intermedio donde "descansar" el hecho. | 🔄 en curso |
 
 ---
 
 ## 🩸 Estado del Cuerpo por Capítulo
 
-**Cierre Cap 1 (Ancla 0):**
+**Cierre Cap 1 (el sótano):**
 - Corsé de satén negro de Anaís puesto (ballenas de acero). Cinturón de castidad cerrado, llave con Isabel. Verga congestionada, orgasmo arruinado (1º). De rodillas en el sótano. Manos de seda manicuradas. **Piel aún sin depilar.** Voz masculina intacta. Registro emocional: pánico → humillación → "paz obscena".
 
-**Cierre Cap 2 (+6 días):**
-- **Piernas depiladas** (lisas, permanentes). Maquillaje 60s probado y removido (la cara quedó "frontera", el rosa deja huella psíquica). **Conjunto negro de encaje + medias con costura puesto** (Isabel ordena dejarlo puesto hasta nueva orden). **Arnés estrenado** — el culo "ya sabe abrirse", pide sin que le manden. Cinturón **sigue cerrado** (cero descarga desde Ancla 0). Orgasmo arruinado (2º), esta vez **full-body**, sin punta. El nombre **"Rocío" vive en el cuerpo** (responde a él con física, no con decisión). Voz de barítono **todavía intacta** (último bastión). **Gatillo Andrés amartillado.** Registro: confusión + traición del propio cuerpo + auto-implicación (ya no todo es impuesto: se toca solo).
+**Proyección cierre Cap 2 (por escribir — reforma 25/08, reemplaza el viejo cierre del v4.0 archivado):**
+- Régimen de los cuadernos de Anaís aplicado (cuerpo domesticado, depilado, el gesto ya no le pesa). Cinturón sigue cerrado. El nombre "Rocío" vive en el cuerpo full-time. **Expediente de chantaje enorme** (H8). Voz de barítono empieza a ceder (cae del todo en Cap 3, H10). Isabel y Andrés aliados en secreto (H9) — Ricardo no lo sabe.
 
-**Proyección Cap 3+ (por escribir):** el cuerpo deja de responder a estímulos masculinos; piel ultra-sensible al nylon; la voz empieza a ceder; "Rocío" pasa de nombre-en-el-cuerpo a único habitante.
+**Proyección cierre Cap 3 (por escribir):** el cuerpo deja de responder a estímulos masculinos del todo; la voz de barítono cae (H10 paga); aceptación total; humillación privada y luego pública; entrega formal a Andrés; posesión doble consumada (Isabel primero, delante de Rocío; después Rocío misma) — rima exacta con el Cap 1.

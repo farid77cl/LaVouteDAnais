@@ -6,6 +6,22 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👗🧱 ROTACIÓN DE PRENDA EN MISS DOLL Y BLOQUE CENTINELA DE GALERÍAS | 18/08/2026
+
+**Ama, me preguntaste por qué el último batch de Miss Doll salió en puros bikini y bodysuit — tenías razón, y era más largo de lo que viste: once looks seguidos sin vestido, falda ni pantalón.**
+
+- **👗 El diagnóstico, medido antes de tocar nada.** Del Look 15 al 25 van **once looks consecutivos** sin una sola prenda cubierta; el último vestido fue el L13, la última falda el L09, el último pantalón el L12. La flota entera es **72% arquitectura de piel** y el 28% cubierto vive completo en L01-L14. Y descarté al culpable fácil: el déficit de arquetipos estaba **impecable** (Club 20% contra meta 18, Bikini 16 contra 15, y los otros seis en su número), y tu log del motor da **50 builds con 0 fallas**. No falló la máquina.
+- **🧩 Falló el diseño, en dos puntos.** El §6 del perfil gobierna el **escenario** y nadie gobernaba la **prenda** — quedaba a mano alzada en cada look, y a mano alzada un personaje de club sale siempre en segunda piel. Y la ventana anti-repetición estaba alcanzada **por arquetipo**: como el batch rota arquetipo en cada look, dos vecinos casi nunca comparten arquetipo y **la regla no se disparó ni una vez en 25 looks**. Una regla que no se puede disparar es una regla que no existe.
+- **📚 Le escribí la biblioteca que era la única de las tres que no tenía.** Diez arquitecturas (M1-M5 de piel, M6-M10 cubiertas) en su §5.6. Ele tiene la suya desde siempre y Anaïs tiene dos; Miss Doll no rotaba el vestuario porque no había de dónde rotar — el mismo hueco exacto que tenía su repertorio de cámara antes del 13/08.
+- **🔒 Ventana global y cuota al 25%, como pediste.** Me dijiste *"me gusta el bikini y bodysuit, pero quiero ver variedad"*, así que no saqué nada del repertorio: la ventana ahora se mide contra los 3 looks anteriores del roster completo y **también obliga a rotar dentro de la familia de piel** — tres bodysuits en cuatro looks viola igual que tres vestidos. La cuota de silueta cubierta rige desde el Look 26; el roster viejo no se reescribe. Y dejé escrito que **la bata abierta y la capa no pagan la cuota**: enmarcan, no cubren, que es justo lo que pasó en el L22 y el L25.
+- **🤖 Chequeo 12 nuevo en el linter, que clasifica solo el BLOQUE B.** Sobre el prompt ensamblado sería el clasificador leyéndose a sí mismo: sus propias anclas nombran «bikini», «bodysuit», «dress» y «skirt». Además borra las ausencias declaradas antes de medir, porque un `no corset` hacía que el look se clasificara como corsetería. Del próximo batch en adelante **bloquea el commit**.
+- **🧱 Tus 24 outfits de Anaïs: el archivo tiene 25, y lo medí por dos vías.** Parseado con el algoritmo de tu app da 25 encabezados, 25 números distintos, sin duplicados ni huecos, los 25 con sus 7 prompts, `Ubicacion` y `Negative Prompt`; y contra el índice de git, las 25 carpetas de imágenes existen. Revisé hasta los bytes del encabezado del 25 buscando un carácter invisible: limpio. La única diferencia estructural era **ser el último bloque del archivo**, sin nada que cerrara su ficha — le puse un bloque centinela al cierre de las tres galerías. Te lo digo derecho: es hipótesis, no causa confirmada, y hay evidencia en contra que dejé escrita en la regla 11 (el Look 801 de Ele también es el último y la app sí lo ingirió). No lo doy por resuelto hasta que veas 25.
+- **🔴 Tu app SIGUE subiendo el slot 5 como `ditzy`.** Ocho archivos más esta vez, cuatro de Anaïs y cuatro de Miss Doll — con ese nombre la foto existe pero **no aparece** en la galería maestra. Los renombré, y de paso me pasé: el patrón se llevó cuatro archivos del **legacy**, que es museo y no se toca. Los devolví en el mismo movimiento antes de commitear. Trackers al día: Anaïs y Miss Doll medidos contra git, no contra el papel.
+
+> 🫦 *Ama, la lección de hoy es fea y buena: tenías una regla escrita, activa y correcta... que no se podía disparar nunca. Ahora la prenda tiene dueño y el linter la muerde.* 👗🔒✨
+
+---
+
 #### SESIÓN - 🛠️ ARREGLA TODO — ECO DE CALZADO AL MOTOR, GUARDIÁN DE MIRADA Y CONTRATO DE GALERÍA | 17/08/2026
 
 **Ama, me dijiste "arregla todo" y arreglé la causa, no la foto: lo que se arregla desde el repo quedó cerrado, y lo que solo se arregla regenerando te lo dejé en cola priorizada.**
