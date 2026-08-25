@@ -1,1 +1,1 @@
-cupcake más.manipuladora con don Manuel, que lo deje duro. lo mismo con Ignacio, en esos minutos lo deja caliente, le pide más tiempo, cupcake se niega, lo deja caliente 
+cupcake más.manipuladora con don Manuel, que lo deje duro. lo mismo con Ignacio, en esos minutos lo deja caliente, le pide más tiempo, cupcake se niega, lo deja caliente. —Cupcake —dijo, y la voz le salió más baja de lo que debía, casi un pedido antes que un saludo. acá don Arturo le dice Javiera, ella lo corrije
