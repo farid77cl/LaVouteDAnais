@@ -40,3 +40,4 @@ debug*.txt
 
 # === Scripts de un solo uso ya ejecutados (se conservan en disco, no en la historia) ===
 99_Sistema/scripts/_oneoff/
+LV-App/
