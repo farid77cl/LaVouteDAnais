@@ -847,3 +847,203 @@
 {"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6003, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-24T14:30:28"}
 {"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6200, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-24T14:30:28"}
 {"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-24T14:30:28"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 6018, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 6072, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5980, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 6030, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5838, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6052, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6502, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 6435, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 6433, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 6036, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 6378, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 6246, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6467, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6804, "anclas_opt_in": ["ASPECT_VERTICAL", "GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1843, "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5858, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5866, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5783, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5769, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5664, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 5942, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 5949, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5831, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5804, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5718, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5748, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5631, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 5839, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 5828, "anclas_opt_in": ["ASPECT_VERTICAL"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5965, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5977, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5913, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5958, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5873, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6040, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6092, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:12:00"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 6018, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 6072, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5980, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 6030, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5838, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6052, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6502, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 6435, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 6433, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 6036, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 6378, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 6246, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6467, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6804, "anclas_opt_in": ["ASPECT_VERTICAL", "GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1843, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5858, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5866, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5783, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5769, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5664, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 5942, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 5949, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5831, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5804, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5718, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5748, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5631, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 5839, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 5828, "anclas_opt_in": ["ASPECT_VERTICAL"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5965, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5977, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5913, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5958, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5873, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6040, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6092, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 6588, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 6575, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 6524, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 6473, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 6381, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6582, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6948, "anclas_opt_in": ["ASPECT_HORIZONTAL", "ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 6211, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 6273, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 6139, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 6116, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5999, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6241, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6595, "anclas_opt_in": ["ASPECT_VERTICAL", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 5968, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 5976, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 5880, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 5887, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5784, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6064, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6409, "anclas_opt_in": ["ASPECT_HORIZONTAL", "ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 5974, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 6014, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 5914, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 5902, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5825, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6056, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6326, "anclas_opt_in": ["ASPECT_VERTICAL", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 5909, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 5961, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 5941, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 5862, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5843, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6001, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6356, "anclas_opt_in": ["ASPECT_HORIZONTAL", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:12:11"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:13:18"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 6018, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 6072, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5980, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 6030, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5838, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6052, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6502, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 6435, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 6433, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 6036, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 6378, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 6246, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6467, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6804, "anclas_opt_in": ["ASPECT_VERTICAL", "GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1843, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5858, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5866, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5783, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5769, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5664, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 5942, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 5949, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5831, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5804, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5718, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5748, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5631, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 5839, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 5828, "anclas_opt_in": ["ASPECT_VERTICAL"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 1865, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 5978, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 5990, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 5926, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 5971, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 5886, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 6053, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 6105, "anclas_opt_in": ["ASPECT_HORIZONTAL"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 6588, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 6575, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 6524, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 6473, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 6381, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6582, "anclas_opt_in": ["ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6948, "anclas_opt_in": ["ASPECT_HORIZONTAL", "ASYMMETRY_LOCK", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 6211, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 6273, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 6139, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 6116, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5999, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6241, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6595, "anclas_opt_in": ["ASPECT_VERTICAL", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 5968, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 5976, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 5880, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 5887, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5784, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6064, "anclas_opt_in": ["ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6409, "anclas_opt_in": ["ASPECT_HORIZONTAL", "ASYMMETRY_LOCK"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 5974, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 6014, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 5914, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 5902, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5825, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6056, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6326, "anclas_opt_in": ["ASPECT_VERTICAL", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1497, "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 5909, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 5961, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 5941, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 5862, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5843, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6001, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6356, "anclas_opt_in": ["ASPECT_HORIZONTAL", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}

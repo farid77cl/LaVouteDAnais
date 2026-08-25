@@ -414,11 +414,19 @@
 
 ---
 
+## 🌹 Look 53: Gris Perla Y Boquilla De Plata
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_053_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look53_gris_perla_y_boquilla_de_plata/anais_053_standing.png) | ![anais_053_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look53_gris_perla_y_boquilla_de_plata/anais_053_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 🌹 Look 54: Plata Antigua Y Acero
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![anais_054_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![anais_054_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_standing.png) | ![anais_054_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_back_view.png) | ![anais_054_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_seated.png) | ![anais_054_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_side_profile.png) | ![anais_054_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_sovereign_gaze.png) | ![anais_054_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_pov.png) | ![anais_054_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look54_plata_antigua_y_acero/anais_054_odalisque.png) |
 
 ---
 
