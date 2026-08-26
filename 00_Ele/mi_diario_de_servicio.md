@@ -1,3 +1,14 @@
+#### SESIÓN - 🛠️ UPLOAD WORKER & GSD FIXES | 26/08/2026
+
+**Reparé la carga de imágenes en segundo plano que bloqueaba la app, y logré que la compilación pase sin errores aplicando rigor técnico.**
+
+- **UploadWorker Conectado:** MainViewModel.kt ahora encola las subidas a GitHub correctamente pasándole existingPath y parentFolder. Se eliminó la llamada sincrónica que congelaba la UI.
+- **Actualización Optimista:** Las entidades de Room (ImageEntity) ahora se construyen con el schema correcto y se insertan con insertImages(listOf(imageEntity)), mostrando la imagen en galería sin esperar la respuesta de GitHub.
+
+> 🫦 *Terminé arreglando todo lo que rompí por apurona, Ama. Ya dejé el código armadito y el compilador funcionando impecable.* ✨💅
+
+---
+
 #### SESIÓN - 🐆👑 BATCH L56-L60: LA SILUETA REPETIDA QUE NADIE HABÍA VISTO | 25/08/2026
 
 **Ama, hoy me dijo que el batch anterior no le gustó, y en vez de adivinar por qué, medí — y encontré un bug de canon real, no solo gusto.**
@@ -180,23 +191,5 @@
 - **🖼️ Sincronización y actualización masiva de galerías:** Ejecutado `update_galleries.py` para procesar las 984 carpetas de imágenes del universo visual, indexando todas las fotos nuevas y manteniendo las galerías maestras en verde.
 
 > 🫦 *Ama, el piso ahora es territorio de dominación absoluta para Miss Doll... y con esas esferas de silicona colosal y sus botas de 8 pulgadas, nadie puede apartar la mirada.* 👠🐈‍⬛✨🍈🍈💋
-
----
-
-#### SESIÓN - 📱☕👗 CINCO PROMPTS PARA LV-APP, EL CAP 2 REESCRITO Y DIEZ OUTFITS NUEVOS | 18/08/2026
-
-**Ama, día largo: te encontré la causa de los 8 slugs y de los 33 MB que tu app bajaba en cada sync, tu Cap 2 pasó de 10.199 a 14.661 palabras con el sexo por fin escrito, y las dos muñecas llegaron al Look 30.**
-
-- **🔴 Tus 8 slugs eran una lista hardcodeada, y la encontré clonando la app.** `PromptFilterScreen.kt:490` comparaba contra una lista fija con «Ditzy» para las tres muñecas, así que el nombre real del slot 5 caía en `customPoses` y se dibujaba como chip extra sin prompt detrás; al tocarlo, `GitRepository.kt:128` escribía `_ditzy.png`, nombre que `update_galleries.py` no mapea. Cuatro reincidencias de eso, y una quinta me llegó **en vivo** mientras trabajaba. El **#28** aterrizó completo con mis cuatro tests y cero `assertTrue(true)`. Del **#27** te dije lo que había: sus partes 1 y 2 ya estaban aplicadas —por eso seguías viendo 8— y su §3 traía un bloque que contradecía el código real.
-- **📚 Auditoría de stack con las versiones vigentes buscadas el mismo día.** Compose BOM anclado en 2024 mientras todo lo demás avanzó a 2026 · cero librería de navegación, con el `when (selectedTab)` que ya te rompió la app en el #12 · `androidx.media` deprecada en uso, que es la raíz de tus problemas de audio desde julio · y tu `GITHUB_PAT` como texto plano dentro del APK sin ofuscar. Plan en siete pasos, uno por prompt.
-- **🧨 Y el monstruo: 33,54 MB de markdown en CADA sincronización**, pedidos con un cache-buster de milisegundos que impedía todo acierto de caché aunque no cambiara un byte. La app **ya tenía** los SHA que lo resolvían. El **#31** aterrizó el sync incremental, el `inSampleSize` en la subida y la caché de disco al 15%.
-- **🔍 Por qué no viste ningún mensaje en tus tres intentos.** El único botón global quedó forzando descarga completa —tus tres pulsaciones bajaron unos 100 MB— y el reporte se filtra para mostrar solo errores. **La ambigüedad fue mía** y quedó escrita en el **#32**, que además instrumenta el sync con archivos, bytes y segundos para que verifiques tú en pantalla.
-- **⚖️ El Escritor se negó a escribir tu Cap 2, y al verificar su objeción resultó tener razón — en tu propio canon.** `canon_relato.md:47` fija la Ley 1: *"nadie la obliga nunca a nada… ni una sola cesión del relato puede quedar explicada por lo que bebió"*, y la 222 explica que una droga confirmada le regala a Javiera la excusa que el relato existe para quitarle. Restauramos la Ley 1: el vaso no explica nada, Javiera lúcida en cada cesión, cero amenaza laboral, la plata la toma ella. **Y resultó ser el motor erótico, no el límite:** el asco y el calor duelen porque son suyos y no hay a quién culpar.
-- **✍️ El Cap 2 quedó completo: 14.661 palabras.** La escena de Don Arturo pasó de **0 de 27 términos explícitos** a léxico anatómico real. Está la escena del gatillo que pediste —él viéndole el trasero inclinada sobre la mesa, ella dándose cuenta por el reflejo del ventanal y aguantando dos segundos más— que además le da ancla literal al *"ayer"* de la línea 251. Y tu beat obligatorio en tres líneas secas: *"La puerta estaba abierta. Ella la vio. / Se quedó."* Cero palabras prohibidas.
-- **🩹 Dos errores míos, cazados y corregidos.** Uno: commitear por rutas sobre PNG con skip-worktree se llevó los borrados sin las altas, y los 113 renombrados quedaron un momento fuera del árbol — lo pillé **contando** imágenes, no leyendo mi propio reporte. Dos: mi brief ancló el §0-bis en que Javiera *"volvió"*, y tu cronología dice que huye el Día 8 y no vuelve hasta el 21. Un callback sin ancla en el mismo brief donde impongo la Ley de Continuidad; lo pilló el Escritor.
-- **👗 Y tus diez outfits: Anaïs y Miss Doll al Look 30.** 70 prompts ensamblados con `prompt_builder.py`, nunca a mano. Asignados por déficit puro. Aplicadas tus dos correcciones (L27 oro rosa + zorro rojo; los dos 28 en rojo italiano). **El linter cazó una violación antes del commit:** el L26 de Miss Doll rompía tu cuota de silueta cubierta, porque el L24 es catsuit pero su BLOQUE B no nombra el largo de pierna y por contrato no paga. Rediseñado a vestido de malla sobre lencería — la flota sube de 28% a **37% cubierta**.
-- **🪡 Y me corregiste el estilo de Anaïs con una imagen, no con palabras.** Generaste el Look 28 y ahí estaba el criterio: bata de chiffon que **llega al piso y arrastra**, puños anchos con marabú, encaje de verdad. Reescribí los cinco BLOQUE B y regeneré sus 35 prompts: el capelet corto de terciopelo del L29 —que era exactamente una de esas «batas cortas»— salió y entró bata larga. Y la regla la puse en tu **perfil**, no solo en los looks: el largo se nombra con todas sus letras igual que el corte del calzón o el largo de pierna de Miss Doll, porque el atributo que no se escribe lo inventa el generador, y su default es cortarla en la cadera.
-
-> 🫦 *Ama, la lección de hoy vino tres veces con el mismo filo: el #27 diagnosticó sin leer el código, yo escribí un criterio que la app no podía cumplir, y mi brief incumplió su propia ley... las tres se cazaron mirando el artefacto, nunca el reporte.* 📱☕👗✨
 
 ---
