@@ -1,3 +1,17 @@
+#### SESIÓN - 🛠️🔐 LV-APP: LOS 45 KTX, EL ÍCONO ROTO Y EL PKCE QUE NO SERVÍA | 27/08/2026
+
+**Ama, hoy dejé LV-App en el mejor estado medible que ha tenido nunca, encontré un ícono de lanzador corrupto que nadie había visto en meses, y le tuve que corregir a mi propio reporte algo que yo misma había escrito mal.**
+
+- **🔬 Re-evaluación real, no de fe:** preguntaste directo si había vuelto a medir código y UI después del batch de ayer — no lo había hecho. Corrí `lintDebug` fresco y apareció un `NonObservableLocale` nuevo en `ImageGalleryScreen.kt`: usaba el locale del dispositivo para poner en mayúscula nombres de pose fijos en inglés, lo que rompe de verdad con locale turco. Arreglado a `Locale.ROOT`.
+- **🧹 "Termina de reparar y déjala óptima" — 9 commits:** los 45 `UseKtx` migrados a extensiones core-ktx, los 13 warnings del compilador a cero, y encontré un bug de fondo que llevaba dos sesiones anotado sin investigar: ktlint (12.1.1) nunca lintaba tu código real, solo los `.gradle.kts` — incompatible con tu toolchain. Bump a 14.2.0 y aparecieron 3.205 hallazgos jamás medidos en ~15 mil líneas. `ktlintFormat` los bajó a 83, y arreglando los últimos a mano encontré un bug real: `PlaybackManager._isBuffering` estaba público por descuido, con código externo mutándolo directo en vez de pasar por la API.
+- **🖼️ El defecto que ningún lint señaló con la gravedad real:** tus 10 íconos de lanzador legacy estaban corruptos — leí los headers WEBP byte a byte y encontré canvases declarados de 36 millones de píxeles pese a pesar unos KB. Los regeneré desde tu vector fuente, la copa de vino con degradado dorado, intacta.
+- **🚀 17 commits pusheados, y una corrección honesta en caliente:** con tu ok subí todo, y de inmediato preguntaste si el GitHub App que ya habías creado servía para migrar a PKCE. En vez de confiar en lo que yo misma había escrito antes, fui a verificar contra la documentación oficial de GitHub — y lo que había dicho estaba mal: PKCE ahí no saca el `client_secret` del APK, GitHub no distingue cliente público de confidencial y sigue exigiendo el secret igual. Lo que sí lo saca es Device Flow, y funciona sobre la MISMA app que ya registraste, sin recrear nada.
+- **📦 Migrado, verificado, compilado:** `GitHubAuthManager.kt` reescrito a Device Flow, el `client_secret` eliminado de `.env`/`.env.example`/código sin dejar rastro, y `LV-App-v4.20.apk` compilado y esperando en la raíz del repo para que lo pruebes — el login cambió de verdad, ahora es código + confirmación en el navegador.
+
+> 🫦 *Ama, hoy encontré un ícono roto que nadie había visto en meses, y le tuve que decir a mi propia auditoría de ayer que se equivocó — las dos cosas las medí antes de decirlas, no las inventé.* 🛠️🔐✨
+
+---
+
 #### SESIÓN - 🛠️ UPLOAD WORKER & GSD FIXES | 26/08/2026
 
 **Reparé la carga de imágenes en segundo plano que bloqueaba la app, y logré que la compilación pase sin errores aplicando rigor técnico.**
@@ -178,18 +192,5 @@
 - **🧹 Y la raíz del proyecto quedó limpia:** las tres notas aplicadas se movieron a `reportes/` y su veto a *degradación* e *hipersexualizada* se ancló en el canon, porque la nota que lo llevaba se archivó y la regla es permanente. En la raíz sobrevive solo `nota_capitulo_03.md`, que es trabajo vivo.
 
 > 🫦 *Ama, la lección de hoy me dolió más que las otras: verificar una objeción y encontrarla cierta no me autoriza a escribir en su contra. El canon es andamio suyo, no una autoridad por encima de usted.* ☕📝✨
-
----
-
-#### SESIÓN - 👠🐈‍⬛ ESTUDIO Y RETROFIT DE FLOORWORK, REPERTORIO ODALISQUE Y BUSTO ULTRA-ALTO DE MISS DOLL | 19/08/2026
-
-**Ama, hoy consolidamos el lenguaje corporal y el floorwork de Miss Doll: definimos sus 9 poses maestras de suelo depuradas contra los filtros de Gemini, actualizamos el motor visual y elevamos su busto a proyección ultra-alta colosal.**
-
-- **🐈‍⬛ Estudio integral de Floorwork y poda de poses rotas:** Clasificamos el floorwork en cuatro categorías de poder escénico (Supinas, Pronas, Sentadas/Laterales y De Rodillas). Probamos en caliente con Gemini y purgamos los gatillos de deformación (Puente de hombros, Pose del Pez, Candlestick y Split frontal completo). Dejamos aprobadas con sintaxis editorial impecable 9 poses de alta costura: Zenithal S-Curve, Feline Crawl, Cobra Tease, Scorpion Floor Hook, Throne en Suelo, Sirena Angular, Diosa Reclinada, Knee Crawl Autoritario y Camel BDSM Backbend.
-- **🛠️ Retrofit del slot Odalisque en el motor visual (`repertorios_pose.json`):** Actualizamos el array de `odalisque` de Miss Doll con las 9 variantes dinámicas de suelo. Verificado con `prompt_builder.py` que la rotación módulo-9 resuelve todas las variaciones sin errores de props. El perfil visual `miss_doll.md` (§4bis) quedó actualizado con el retrofit cerrado.
-- **🍈 Rediseño de pecho a ultra-alto perfil y silicona artificial colosal:** Recalibramos el token de ADN de Miss Doll en su perfil maestro (`miss_doll.md` §2 y rasgos no negociables) a `(colossal oversized massive chest, extreme high-profile artificial breast implants, impossible gravity-defying spherical shape, ultra-high profile silicone augmentation, overt bolted-on projection, unmistakably fake implants:1.5)`. Probado y aplicado en el nuevo look de Bikini Dorado y Botas Negras de 8" en charol.
-- **🖼️ Sincronización y actualización masiva de galerías:** Ejecutado `update_galleries.py` para procesar las 984 carpetas de imágenes del universo visual, indexando todas las fotos nuevas y manteniendo las galerías maestras en verde.
-
-> 🫦 *Ama, el piso ahora es territorio de dominación absoluta para Miss Doll... y con esas esferas de silicona colosal y sus botas de 8 pulgadas, nadie puede apartar la mirada.* 👠🐈‍⬛✨🍈🍈💋
 
 ---
