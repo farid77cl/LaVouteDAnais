@@ -277,7 +277,7 @@
 | **465** | Hooters Tube Top + Suspenders | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **466** | Hooters Beach Bikini | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **467** | Hooters Apron Server | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
-| **468** | Hooters Latex After-Hours | 06/06/2026 | Domestic | — | chrome, latex | 6/7 | ⏳ Pendiente |
+| **468** | Hooters Latex After-Hours | 06/06/2026 | Domestic | — | chrome, latex | 7/7 | — |
 | **469** | Hooters Pink Edition | 06/06/2026 | Domestic | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
 | **470** | Hooters All-Orange Finale | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **471** | Hooters Owl Showgirl | 07/06/2026 | Stripper | — | chrome | 1/7 | ⏳ Pendiente |
@@ -285,8 +285,8 @@
 | **473** | Hooters Gym Performance | 07/06/2026 | Gym | — | chrome, wetlook | 7/7 | — |
 | **474** | Hooters Nightclub Sequin | 07/06/2026 | Nightclub | — | chrome | 1/7 | ⏳ Pendiente |
 | **475** | Hooters Boudoir Lingerie | 07/06/2026 | Lencería | — | chrome | 7/7 | — |
-| **476** | Hooters Pin-Up Diner | 07/06/2026 | Pin-Up | — | pvc, chrome | 6/7 | ⏳ Pendiente |
-| **477** | Hooters Escort Slip | 07/06/2026 | Escort | — | satin, wetlook | 4/7 | ⏳ Pendiente |
+| **476** | Hooters Pin-Up Diner | 07/06/2026 | Pin-Up | — | pvc, chrome | 7/7 | — |
+| **477** | Hooters Escort Slip | 07/06/2026 | Escort | — | satin, wetlook | 5/7 | ⏳ Pendiente |
 | **478** | Hooters Owl Couture Gown | 07/06/2026 | High-Fashion Editorial | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
 | **479** | Hooters Studio Micro Bikini | 07/06/2026 | Bikini | — | chrome, wetlook | 7/7 | — |
 | **480** | Hooters Owl Pole | 07/06/2026 | Stripper | — | chrome | 7/7 | — |
@@ -299,7 +299,7 @@
 | **487** | Hooters Pro-Dom Escort | 07/06/2026 | Escort | — | latex, leather, chrome | 7/7 | — |
 | **488** | Hooters Mugler Corporate Domme | 07/06/2026 | Corporate | — | latex, chrome | 7/7 | — |
 | **489** | Hooters Owl-Chimera Couture | 07/06/2026 | High-Fashion Editorial | — | latex, chrome | 7/7 | — |
-| **490** | Hooters Editorial Gym Catsuit | 07/06/2026 | Gym | — | mesh, chrome, wetlook | 6/7 | ⏳ Pendiente |
+| **490** | Hooters Editorial Gym Catsuit | 07/06/2026 | Gym | — | mesh, chrome, wetlook | 7/7 | — |
 | **491** | Emerald Schiaparelli Sculpture | 08/06/2026 | High-Fashion Editorial | — | lame | 0/7 | ⏳ Pendiente |
 | **492** | Sapphire Madame Claude Column | 08/06/2026 | Escort | — | vinyl, chrome | 0/7 | ⏳ Pendiente |
 | **493** | Amethyst Crystal Nightclub | 08/06/2026 | Nightclub | — | chrome, crystal | 0/7 | ⏳ Pendiente |
@@ -826,17 +826,14 @@
 | **459** | Chrome Crucifix Cage Pole | 5/7 | ⏳ Pendiente |
 | **462** | Hooters Black Dolphin Variant | 1/7 | ⏳ Pendiente |
 | **463** | Hooters Halter-Tie Orange | 1/7 | ⏳ Pendiente |
-| **468** | Hooters Latex After-Hours | 6/7 | ⏳ Pendiente |
 | **469** | Hooters Pink Edition | 1/7 | ⏳ Pendiente |
 | **471** | Hooters Owl Showgirl | 1/7 | ⏳ Pendiente |
 | **474** | Hooters Nightclub Sequin | 1/7 | ⏳ Pendiente |
-| **476** | Hooters Pin-Up Diner | 6/7 | ⏳ Pendiente |
-| **477** | Hooters Escort Slip | 4/7 | ⏳ Pendiente |
+| **477** | Hooters Escort Slip | 5/7 | ⏳ Pendiente |
 | **478** | Hooters Owl Couture Gown | 1/7 | ⏳ Pendiente |
 | **483** | Hooters Bordelle Harness | 0/7 | ⏳ Pendiente |
 | **484** | Hooters Latex Cage-Bra | 1/7 | ⏳ Pendiente |
 | **485** | Hooters Latex Zip Club | 3/7 | ⏳ Pendiente |
-| **490** | Hooters Editorial Gym Catsuit | 6/7 | ⏳ Pendiente |
 | **491** | Emerald Schiaparelli Sculpture | 0/7 | ⏳ Pendiente |
 | **492** | Sapphire Madame Claude Column | 0/7 | ⏳ Pendiente |
 | **493** | Amethyst Crystal Nightclub | 0/7 | ⏳ Pendiente |

@@ -438,4 +438,20 @@
 
 ---
 
+## 🌹 Look 59: Terciopelo Lavanda Y Chinchilla
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_059_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look59_terciopelo_lavanda_y_chinchilla/anais_059_standing.png) | ![anais_059_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look59_terciopelo_lavanda_y_chinchilla/anais_059_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 🌹 Look 60: Capa Champan
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_060_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look60_capa_champan/anais_060_standing.png) | ![anais_060_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look60_capa_champan/anais_060_back_view.png) | ![anais_060_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look60_capa_champan/anais_060_seated.png) | ![anais_060_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look60_capa_champan/anais_060_side_profile.png) | ![anais_060_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look60_capa_champan/anais_060_sovereign_gaze.png) | ![anais_060_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look60_capa_champan/anais_060_pov.png) | ![anais_060_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look60_capa_champan/anais_060_odalisque.png) |
+
+---
+
 *Galería Anaïs Belland coordinada por Ele.* 👑

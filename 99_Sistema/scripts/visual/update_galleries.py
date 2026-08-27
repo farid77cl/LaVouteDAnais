@@ -15,22 +15,22 @@ def get_remote_url(local_path, repo_root):
     rel_path = os.path.relpath(local_path, start=repo_root)
     return REMOTE_PREFIX + rel_path.replace("\\", "/")
 
+_GIT_CACHE_BY_DIR = None
 def get_tracked_images(directory):
     """Obtiene la lista de imágenes trackeadas por Git en el directorio."""
+    global _GIT_CACHE_BY_DIR
     try:
-        # Ejecutamos git ls-files para ver qué archivos están en el índice (incluyendo untracked no ignorados)
-        result = subprocess.run(['git', 'ls-files', '-c', '-o', '--exclude-standard', directory], capture_output=True, text=True, check=True)
-        files = result.stdout.splitlines()
-        # Solo imagenes hijas directas, no imagenes de subcarpetas.
-        directory_abs = os.path.abspath(directory)
-        images = []
-        for file_path in files:
-            if not file_path.lower().endswith(('.png', '.jpg', '.jpeg', '.webp')):
-                continue
-            file_abs = os.path.abspath(file_path)
-            if os.path.normcase(os.path.dirname(file_abs)) == os.path.normcase(directory_abs):
-                images.append(os.path.basename(file_path))
-        return sorted(list(set(images)))
+        if _GIT_CACHE_BY_DIR is None:
+            _GIT_CACHE_BY_DIR = {}
+            result = subprocess.run(['git', 'ls-files', '-c', '-o', '--exclude-standard'], capture_output=True, text=True, check=True)
+            for file_path in result.stdout.splitlines():
+                if not file_path.lower().endswith(('.png', '.jpg', '.jpeg', '.webp')):
+                    continue
+                dir_name = os.path.normcase(os.path.abspath(os.path.dirname(file_path)))
+                _GIT_CACHE_BY_DIR.setdefault(dir_name, []).append(os.path.basename(file_path))
+        
+        dir_key = os.path.normcase(os.path.abspath(directory))
+        return sorted(list(set(_GIT_CACHE_BY_DIR.get(dir_key, []))))
     except Exception as e:
         print(f"Error al listar archivos de Git en {directory}: {e}")
         # Fallback a listdir
@@ -149,13 +149,7 @@ def is_top_level_look(directory, ele_path):
 
 def has_readme(directory):
     local_readme = os.path.join(directory, 'README.md')
-    if os.path.exists(local_readme):
-        return True
-    try:
-        result = subprocess.run(['git', 'ls-files', local_readme], capture_output=True, text=True, check=True)
-        return bool(result.stdout.strip())
-    except Exception:
-        return False
+    return os.path.exists(local_readme)
 
 def get_canonical_look_directories(ele_path):
     groups = {}
