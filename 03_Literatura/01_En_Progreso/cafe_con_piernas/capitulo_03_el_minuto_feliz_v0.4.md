@@ -26,17 +26,25 @@ El olor de siempre —café quemado, aceite de coco tibio sobre piel de mujer, u
 
 Trece cafés antes del recreo. Treinta era la cuota. Todo lo que vendiera arriba de eso era suyo.
 
-Don Manuel llegó primero, como siempre, con el mismo chaleco de rombos y el mismo olor a tabaco negro pegado a la ropa que llevaba pegándose diez años, según contaba Yasna.
+Don Manuel llegó primero, como siempre, con el mismo chaleco de rombos y el mismo olor a tabaco negro pegado a la ropa que llevaba pegándose diez años, según contaba Yasna. Sesenta y tantos, manos grandes de albañil jubilado, la vista ya no tan buena. Cupcake lo tenía estudiado hacía meses: a Don Manuel no había que ofrecerle plata fácil ni escote de más. Había que hacerlo sentir el único.
 
 —Cupcake, mi vida. El cortado de siempre.
 
-—Ya te lo tengo, mi rey.
+—Ya te lo tengo, mi rey. —Se lo dijo mirándolo a los ojos, no a la fila vacía detrás de él—. Justo estaba pensando en usted.
 
-Lo preparó sin apuro, dejando que el vapor del vaporizador le subiera por la muñeca y le humedeciera el antebrazo, y cuando se lo llevó se inclinó lo suficiente para que Don Manuel tuviera que decidir entre mirarle la cara o mirarle el escote. Perdió esa pelea sin pelearla, como todas las mañanas. Sacó el billete arrugado del bolsillo del pantalón, tibio de estar ahí guardado desde temprano, y lo dejó sobre el acero. Cupcake lo levantó con dos uñas, dejó que el papel le rozara el filo de acrílico, y se lo metió bajo la liga del liguero, contra la piel del muslo. La luquita de Don Manuel. La primera del día. Le calculó el peso exacto sin mirar el número: mil quinientos.
+No era cierto. No pensaba en Don Manuel más de lo que pensaba en la máquina espresso. Pero la mentira, dicha con esa voz baja y esa sonrisa que ya tenía calculada para él y para nadie más, le cambió la cara al viejo en un segundo: se le enderezó la espalda, se le acomodó el chaleco solo, como si el cuerpo entero se le hubiera puesto más joven con la frase.
+
+Lo preparó sin apuro, dejando que el vapor del vaporizador le subiera por la muñeca y le humedeciera el antebrazo, y cuando se lo llevó se inclinó lo suficiente para que Don Manuel tuviera que decidir entre mirarle la cara o mirarle el escote. Perdió esa pelea sin pelearla, como todas las mañanas. Cupcake dejó pasar dos segundos de más antes de enderezarse, calculados para que el viejo alcanzara a mirar todo lo que quisiera mirar sin que ella se lo reprochara nunca.
+
+Sacó el billete arrugado del bolsillo del pantalón, tibio de estar ahí guardado desde temprano, y lo dejó sobre el acero. Cupcake lo levantó con dos uñas, dejó que el papel le rozara el filo de acrílico, y en vez de guardárselo de inmediato le tomó la mano al viejo —un segundo, no más— y se la apretó como quien agradece un regalo mucho más grande que mil quinientos pesos.
+
+—Usted siempre tan generoso, mi rey. No como los demás.
+
+Se lo metió bajo la liga del liguero, contra la piel del muslo, dejando que él viera exactamente dónde. La luquita de Don Manuel. La primera del día. Le calculó el peso exacto sin mirar el número: mil quinientos, y calculó también, sin ningún esfuerzo, que la próxima vez iban a ser dos mil. Saber exactamente cuánto iba a subir la apuesta, antes de que él mismo lo supiera, le encendió un calor bajo el ombligo que no tenía nada que ver con la plata.
 
 —Que le vaya bien, mi rey.
 
-Él ya se estaba yendo, un poco más lento de lo necesario, mirando hacia atrás una vez antes de cruzar la puerta de vidrio.
+Don Manuel no se fue enseguida. Se quedó un momento de más con la mano todavía tibia de la de ella, como si el gesto fuera a repetirse si esperaba lo suficiente, y cuando por fin caminó hacia la puerta lo hizo con el paso corto de un hombre que hubiera preferido no tener que caminar justo en ese momento, la chaqueta cerrada sobre el pantalón sin que hiciera frío para cerrarla, mirando hacia atrás dos veces antes de perderse detrás del vidrio polarizado. Volvería mañana. Volvería con dos mil, con las mismas ganas, y sin saber jamás que ella ya se lo había calculado todo antes de que cruzara la puerta.
 
 A las diez y veinte entró uno que Cupcake conocía a medias: lo había visto un par de veces en las últimas semanas, siempre en la esquina de la barra, siempre pidiendo lo mismo, siempre demorándose el doble de lo necesario en decidir cuánto dejar de propina. No tendría más de veinticinco años. Camisa recién planchada, el cuello un poco grande para el cuello que tenía, la corbata anudada con el nudo torpe de quien todavía practica frente al espejo antes de salir de la casa.
 
@@ -48,7 +56,7 @@ Pidió un capuchino con la voz más baja de lo que hacía falta, como si hablar 
 
 —Felipe. —Lo dijo despacio, paladeando la ele, y vio cómo al chico se le subía el color al cuello—. Qué lindo nombre.
 
-No era lindo. No era nada. Pero Cupcake sabía que la mentira más chica, dicha con la voz justa, valía más que cualquier verdad. Felipe sacó la billetera con manos que no le respondían del todo bien, contó dos billetes de dos mil, los miró, dudó, y agregó un tercero. Seis mil pesos de propina por un capuchino de mil ochocientos. Cupcake lo supo antes de que él terminara de decidirlo: estaba pagando de más porque en algún lugar de la cabeza, uno que todavía no sabía nombrar, creía que la plata de más significaba otra cosa, distinta a la plata justa. Yasna se lo había dicho una vez, sin mirarla, sacándose las pestañas: el que deja más, o es tonto, o está tratando de ponerla. Cupcake miró a Felipe, con su corbata mal hecha y su color subido hasta las orejas, y decidió que esa mañana no le hacía falta corregirle el error. Se guardó los seis mil bajo la liga, dejó que los dedos de Felipe le rozaran los suyos al recibir el vuelto, y le regaló una sonrisa que él se llevó puesta hasta la puerta.
+No era lindo. No era nada. Pero Cupcake sabía que la mentira más chica, dicha con la voz justa, valía más que cualquier verdad. Felipe sacó la billetera con manos que no le respondían del todo bien, contó dos billetes de dos mil, los miró, dudó, y agregó un tercero. Seis mil pesos de propina por un capuchino de mil ochocientos. Cupcake lo supo antes de que él terminara de decidirlo: estaba pagando de más porque en algún lugar de la cabeza, uno que todavía no sabía nombrar, creía que la plata de más significaba otra cosa, distinta a la plata justa. Yasna se lo había dicho una vez, sin mirarla, sacándose las pestañas: el que deja más, o es tonto, o está tratando de ponerla. Cupcake miró a Felipe, con su corbata mal hecha y su color subido hasta las orejas, y decidió que esa mañana no le hacía falta corregirle el error. Se guardó los seis mil bajo la liga, dejó que los dedos de Felipe le rozaran los suyos al recibir el vuelto, y le regaló una sonrisa que él se llevó puesta hasta la puerta, apretando el paso entre la barra y la calle como si el pantalón le hubiera quedado más chico de un momento a otro.
 
 *Vuelve, chiquito. Vuelve con más.*
 
@@ -72,7 +80,11 @@ Ignacio sonrió, sacó la billetera sin que se lo pidiera, y puso dos billetes d
 
 Los próximos cuatro minutos, mientras Ignacio se tomaba el cortado despacio a propósito, Cupcake no atendió a nadie más. Se quedó ahí, apoyada, dejando que él mirara, cobrándole con la mirada devuelta cada segundo que él pasaba mirándola. Cuando él se fue, caminó hasta el otro extremo de la barra sintiendo el beat subirle por las plantas de los pies y el coño ya mojado desde antes de que llegara el mediodía, empapando la tira fina de la tanga que ni siquiera intentaba acomodarse frente a nadie.
 
-A las once menos veinte llegó una mujer de traje sastre gris y moño tenso que Cupcake reconoció por el perfume antes de verla: la ejecutiva del cappuccino, la que la miraba distinto a los demás, con la calma fría de alguien que ha tasado carne buena antes. Pidió lo de siempre, pagó lo de siempre, y se fue sin apurarse, dejándole a Cupcake, otra vez, esa clase de calor más hondo que el de los caseros. Cupcake se guardó el billete pensando que esa mujer volvería, porque siempre volvía, y ese pensamiento solo la mojó un poco más.
+A las once menos veinte llegó una mujer de traje sastre gris y moño tenso que Cupcake reconoció por el perfume antes de verla: la ejecutiva del cappuccino, la que la miraba distinto a los demás, con la calma fría de alguien que ha tasado carne buena antes. Pidió lo de siempre. Cuando Cupcake le acercó la taza, la mujer no la tomó de inmediato: dejó los dedos apoyados sobre el dorso de la mano de Cupcake un segundo entero, midiéndole el pulso bajo la piel con la misma atención con que antes le había medido el escote, y solo después levantó la taza.
+
+—Un día de estos —dijo, sin que sonara a pregunta ni a promesa— voy a querer más que un café.
+
+Pagó lo de siempre y se fue sin apurarse, dejándole a Cupcake, otra vez, esa clase de calor más hondo que el de los caseros. Cupcake se guardó el billete pensando que esa mujer volvería, porque siempre volvía, y ese pensamiento solo la mojó un poco más.
 
 Para las once y media llevaba veintidós cafés vendidos y no había parado de contar ni un segundo, ni siquiera cuando pensaba en otra cosa. Contaba con la misma parte de la cabeza con la que antes contaba plazos procesales, y esa parte, ahora, solo servía para esto.
 
@@ -114,7 +126,17 @@ Terminó el minuto. Cupcake se abrochó el top con el mismo *clack* seco, guarda
 
 Don Arturo caminó hacia el acero como quien camina hacia un tribunal donde ya sabe que va a perder. Se apoyó contra el filo, sin apartar la vista del escote donde acababan de desaparecer los aros, y sacó la billetera despacio, con las manos que ya no le respondían del todo.
 
-—Cupcake —dijo, y la voz le salió más baja de lo que debía, casi un pedido antes que un saludo.
+—Ja... —Se cortó a media sílaba, como si la palabra hubiera salido antes de que la boca terminara de decidirla, y se corrigió con la voz más baja de lo que debía, casi un pedido antes que un saludo—: Cupcake.
+
+Una frialdad nueva le bajó por la nuca a Cupcake, distinta a cualquier calor de los que conocía de memoria. Javiera. Nadie decía ese nombre ahí adentro. Nadie, hacía meses, tenía ningún motivo para saberlo.
+
+—¿Cómo dijo, don Arturo? —Se lo preguntó con la voz exacta, sin ninguna de la miel de siempre.
+
+—Nada. —Bajó la vista, como quien se equivoca de puerta—. Cupcake. Perdón.
+
+—Aquí adentro no hay nadie con ese otro nombre. —Se lo dijo entera, sosteniéndole la cara con los ojos hasta que fue él quien bajó los suyos primero—. Cupcake. Para que no se le vuelva a olvidar.
+
+—Cupcake —repitió él, dócil, ya corregido.
 
 —Don Arturo. —Ella se apoyó también, dejando que el antebrazo le quedara a un centímetro del suyo sobre el acero frío—. Qué milagro por acá.
 
@@ -216,6 +238,40 @@ Don Arturo tomó el espresso frío de un trago, dejó otro billete sobre el acer
 
 ***
 
+El cubículo del privado quedaba arriba de la escalera angosta, con una sola luz roja en el techo y una alfombra gruesa que ya conocía todos los ruidos que hacía falta ahogar. Cuando Cupcake corrió la cortina, Ignacio ya estaba sentado en el sillón de cuero, la corbata suelta del todo, las dos manos abiertas sobre los muslos, mirándola subir la escalera con la misma calma de los hombres que ya saben que van a ganar. El peso de esa mirada le subió por el cuello antes de que él dijera una palabra, y a ella le gustó sentirlo.
+
+—Quince minutos —le dijo, sin sentarse todavía, calculando el tiempo exacto que él había pagado abajo, en la caja, antes de subir—. Los pagó completos. No me haga perder ni uno.
+
+—No los voy a perder.
+
+Se subió al sillón de rodillas, una pierna a cada lado de él, dejando que la plataforma del Pleaser se le clavara en el empeine con cada movimiento, y se sentó encima sin sacarse el top. Le desabrochó el pantalón con dos dedos, sin apuro, sabiendo que cada segundo que se tomaba para desabrocharlo era un segundo menos de los quince que él ya estaba contando en la cabeza, igual que ella.
+
+Cuando lo tuvo adentro se movió a su propio ritmo, ni más rápido ni más lento de lo que a ella le convenía, con los ojos fijos en el reloj digital que colgaba sobre la puerta del cubículo. Ignacio le clavó las manos en las caderas, tratando de imponer un compás distinto, y Cupcake se lo permitió justo hasta que sintió que él quería quedarse ahí para siempre.
+
+—Un rato más —le pidió él, contra su cuello, con la voz ya rota—. Le pago el doble. Le pago lo que sea.
+
+—No.
+
+Se lo dijo sin dejar de moverse, sin ninguna duda, con la misma calma con que antes le habría dicho que no a un juez que pedía una prórroga que no correspondía. Ignacio insistió, trató de bajarle el ritmo con las manos para estirar el tiempo, y Cupcake, sin perder el compás, le sujetó las dos muñecas contra el respaldo del sillón y las dejó ahí, quietas, con la misma facilidad con que antes le había bajado la mano a Don Arturo del filo de la barra.
+
+—Quince minutos pagó, quince minutos tiene —le dijo, cerca de la oreja—. Ni uno más.
+
+Por un segundo tuvo la certeza extraña de que alguien más la estaba mirando hacer esto, en algún lugar que no alcanzaba a ver, y le dejó, tan rápido como se le ocurrió el pensamiento, una invitación: que se diera una vuelta por la galería, que la fuera a buscar al Yakarta y preguntara por ella en la barra. Se le pasó igual de rápido, y volvió a ser solo el cubículo, el sillón, y un hombre que ya no sabía cuánto tiempo le quedaba.
+
+El reloj marcó el minuto catorce cuando sintió que él se le tensaba entero por debajo, cerca, casi ahí. En el quince exacto, Cupcake se levantó.
+
+Ignacio se quedó con las manos vacías sobre el cuero, duro, con la respiración cortada a la mitad y los ojos todavía cerrados, esperando que ella volviera. Ella se acomodó el top, se subió el calzón, y no le pidió disculpas por eso: él había pagado quince minutos, y esos quince minutos ya habían pasado.
+
+—Ya está, mi rey.
+
+—Cupcake, por favor. Un poco más.
+
+—El privado se acabó cuando se acabó el reloj. —Le pasó la mano por la mejilla, un gesto casi tierno, casi cruel de puro tierno—. La próxima vez pague más tiempo si quiere más tiempo.
+
+Bajó primero la escalera, dejándolo ahí arriba con lo suyo, y sintió el calor subirle entero, bajo el ombligo, más adentro que cualquier plata que le hubieran pagado esa mañana. Parar cuando ella decidía, no cuando él lo necesitaba, era el privado de verdad, el que ningún casero terminaba de pagar nunca: dejarlo con la verga dura y las ganas completas, sabiendo que la próxima vez él iba a pagar el doble solo por la posibilidad de que ella dijera que sí.
+
+***
+
 El camarín olía a acetona y a laca, como todas las noches a esa hora.
 
 Cupcake se sentó en el banco de madera, todavía con el top plateado puesto y los Pleaser sin desabrochar, y empezó a contar. Los cuarenta y uno de Don Arturo. Los que había dejado Don Manuel en la mañana. Los que se le habían quedado enredados en el fondo del bolso desde el privado de la tarde anterior. Las uñas fucsias le hacían más lento el trabajo —cada billete había que despegarlo del siguiente con la punta, nunca con la yema— pero a esa altura ya ni notaba que le costaba.
@@ -266,9 +322,7 @@ No se acordó de cómo terminaba.
 
 Se quedó con la boca abierta y el aire adentro, esperando que la frase le saliera sola como le había salido siempre, y no salió nada. No había nada que averiguar. Camila estaba en una casa con jardín, con un apellido nuevo y una vida que Cupcake nunca iba a tener, y el secreto entero del Yakarta cabía en dos frases dichas por una mujer que se sacaba las pestañas sin mirarla.
 
-No sintió horror.
-
-Sintió un vacío enorme, caliente, y adentro del vacío, sin que pudiera evitarlo, sintió envidia. Envidia de Camila, que había conseguido que alguien la sacara de ahí para siempre, que la mantuviera, que no tuviera que volver a contar billetes ni a leerle la corbata a nadie nunca más. Envidia de que a Camila la hubieran elegido para quedarse quieta, y a ella, en cambio, la estuvieran dejando ahí, contando, cada noche, hasta el número.
+Buscó el horror que se suponía tenía que sentir, y no lo encontró. En su lugar había un vacío enorme, caliente, y adentro del vacío, sin que pudiera evitarlo, envidia. Envidia de Camila, que había conseguido que alguien la sacara de ahí para siempre, que la mantuviera, que no tuviera que volver a contar billetes ni a leerle la corbata a nadie nunca más. Envidia de que a Camila la hubieran elegido para quedarse quieta, y a ella, en cambio, la estuvieran dejando ahí, contando, cada noche, hasta el número.
 
 Se guardó el último billete bajo la liga.
 
@@ -394,7 +448,7 @@ No dijeron nada más. Se oyeron pasos, la puerta de servicio, y después nada.
 
 Cupcake se quedó sentada en el banco con la Pleaser todavía en la mano, y esperó a sentir algo.
 
-No esperó el horror con ganas de sentirlo: esperó que llegara solo, como llegaba siempre que un testigo confesaba de más sin darse cuenta, esa descarga fría en el estómago que conocía de memoria de sus años de tribunales. La esperó un minuto entero, con el pie descalzo todavía caliente dentro del zapato que acababa de sacarse.
+Se quedó esperando esa descarga fría en el estómago que conocía de memoria de sus años de tribunales, la que llegaba siempre que un testigo confesaba de más sin darse cuenta. La esperó un minuto entero, con el pie descalzo todavía caliente dentro del zapato que acababa de sacarse.
 
 No llegó.
 
