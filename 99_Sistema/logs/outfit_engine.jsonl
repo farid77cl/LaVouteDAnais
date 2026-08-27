@@ -1047,3 +1047,43 @@
 {"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 5843, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
 {"evento": "build", "personaje": "anais", "slot": "pov", "chars": 6001, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
 {"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 6356, "anclas_opt_in": ["ASPECT_HORIZONTAL", "DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-25T14:13:19"}
+{"evento": "build", "personaje": "ele", "slot": "standing", "chars": 4520, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "back_view", "chars": 4504, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "seated", "chars": 4483, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "side_profile", "chars": 4515, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "slot5", "chars": 4415, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "pov", "chars": 4529, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "odalisque", "chars": 4790, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build_negative", "personaje": "ele", "chars": 754, "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "standing", "chars": 4313, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "back_view", "chars": 4275, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "seated", "chars": 4254, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "side_profile", "chars": 4339, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "slot5", "chars": 4165, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "pov", "chars": 4375, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "odalisque", "chars": 4671, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build_negative", "personaje": "ele", "chars": 754, "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "standing", "chars": 4383, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "back_view", "chars": 4360, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "seated", "chars": 4410, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "side_profile", "chars": 4429, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "slot5", "chars": 4236, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "pov", "chars": 4444, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "odalisque", "chars": 4652, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build_negative", "personaje": "ele", "chars": 754, "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "standing", "chars": 4591, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "back_view", "chars": 4559, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "seated", "chars": 4437, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "side_profile", "chars": 4532, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "slot5", "chars": 4319, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "pov", "chars": 4579, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "odalisque", "chars": 4785, "anclas_opt_in": [], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build_negative", "personaje": "ele", "chars": 754, "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "standing", "chars": 4747, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "back_view", "chars": 4694, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "seated", "chars": 4633, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "side_profile", "chars": 4757, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "slot5", "chars": 4527, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "pov", "chars": 4765, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build", "personaje": "ele", "slot": "odalisque", "chars": 5022, "anclas_opt_in": ["DRESS_LEG_CLOSURE"], "fallas": [], "ts": "2026-08-27T14:16:15"}
+{"evento": "build_negative", "personaje": "ele", "chars": 754, "ts": "2026-08-27T14:16:15"}
