@@ -188,3 +188,39 @@ La Ama preguntó directamente si había vuelto a evaluar código y UI después d
 **Desglose de warnings de lint sin cambios respecto a ayer** (nada nuevo, nada resuelto, tal como se dejó documentado a propósito): 45 `UseKtx`, 20 `GradleDependency`, 12 `NewerVersionAvailable`, 2 `IconDipSize`, 2 `AndroidGradlePluginVersion`, 1 `UseTomlInstead`, 1 `RedundantLabel`, 1 `OldTargetApi`, 1 `ObsoleteSdkInt`, 1 `IgnoreWithoutReason` — todos ya evaluados ayer y deliberadamente fuera de alcance (cosméticos o bumps de dependencia riesgosos).
 
 **Conclusión honesta de esta re-evaluación:** el batch de ayer sigue sano (0 regresiones, 73/73 tests) y encontré un defecto real que se había escapado del barrido anterior porque `lintDebug` no se había vuelto a correr limpio después del último commit — exactamente el tipo de brecha que "verificar el artefacto, no el reporte" existe para cazar. Repo local: 7 commits sin pushear sobre `origin/main` (los 6 de ayer + `ec9f0e6` de hoy), todavía pendiente de tu aprobación para pushear.
+
+---
+
+## 27/08/2026 (cont.) — "Termina de reparar y deja LV-App en óptimas condiciones": los 45 UseKtx, 13 warnings del compilador, y el ktlint que llevaba dos sesiones sin funcionar de verdad
+
+La Ama pidió explícitamente cerrar todo lo que quedaba abierto en el reporte y dejar código + UI en los mejores estándares medibles. 9 commits nuevos (`3eb8cc8`…`00fb7f7`), cada uno verificado con `testDebugUnitTest` antes de existir.
+
+**Hallazgos chicos, mecánicos (`3eb8cc8`):** `RedundantLabel` (label duplicado en `MainActivity` dentro del manifest), `ObsoleteSdkInt` (guard `SDK_INT >= 23` muerto — minSdk es 24), `UseTomlInstead` (una dependencia con string literal en vez de vivir en `libs.versions.toml`), `IgnoreWithoutReason` (un test con `@Ignore` sin razón que, al revisar contra el código real, **resultó estar correcto y pasar** — se reactivó en vez de solo documentarlo).
+
+**Los 45 `UseKtx` (`1177eb6`, `fc8efc5`, `0c50c1e` — 3 commits por volumen, no por tipo de riesgo):** 40 cadenas `SharedPreferences.edit().putX().apply()` → extensión `edit { }` de core-ktx, y 5 `Bitmap.createScaledBitmap(...)` → `.scale(...)`. Mecánico, sin cambio de comportamiento — la única excepción real fue el crash-handler de `MainActivity`, donde el `.commit()` síncrono documentado se preservó vía `edit(commit = true) { }` en vez de perderse en la migración.
+
+**Los 13 warnings del compilador Kotlin, 0 tocados en sesiones anteriores (`bfcdd64`):** 3 `@OptIn(FlowPreview::class)` faltantes sobre `.debounce()` usado en 3 pantallas, 2 `@OptIn(ExperimentalCoilApi::class)` faltantes sobre `imageLoader.diskCache/memoryCache`, 1 `@OptIn(ExperimentalCoroutinesApi::class)` faltante sobre `flatMapLatest`, 1 override de `TextToSpeech.onError` deprecado sin reconocerlo (`@Suppress("OVERRIDE_DEPRECATION")`, el override vacío es intencional), 1 parámetro de `onNewIntent` que no calzaba con el nombre de la superclase, y 5 safe-calls/`!!` verdaderamente muertos en `PromptFilterScreen` (el compilador ya había probado `selectedLook` no-nulo antes en el mismo scope). Quedó en **0 warnings** el source set principal. En tests, arreglé 2 de 9 (cast innecesario, `ResponseBody.create` deprecado) y dejé **7 `createComposeRule` deprecados sin tocar** — la v2 cambia el dispatcher de test (`Unconfined`→`Standard`), es una migración de comportamiento real, no un rename cosmético.
+
+**El bug de fondo de ktlint, encontrado y arreglado (`018f98d`, `e54f4b4`):** dos sesiones seguidas dejé anotado *"ktlintMainSourceSetCheck nunca se registra, probable incompatibilidad de versión"* sin investigarlo más. Esta vez sí: confirmé con `--info` que el plugin (12.1.1) solo registraba tareas sobre `.kts`, nunca sobre el código Kotlin real — su detección de source-sets no entendía el toolchain Kotlin 2.4.10/AGP 9.3.0 de este proyecto. Bump a **14.2.0** (última estable del Gradle Plugin Portal) y las tareas por source-set aparecieron todas. Resultado: **3.205 hallazgos** reales sobre ~15k líneas jamás lintadas. `ktlintFormat` los bajó a 83; arreglé a mano los 4 que no eran wildcard-imports (comentario mal ubicado, línea de 200+ caracteres, un `INSTANCE` de Room mal detectado como constante, y un hallazgo de verdad: `PlaybackManager._isBuffering` era público por descuido — dos call-sites externos lo mutaban directo en vez de pasar por la API; ahora hay un `setBuffering()` y el campo es privado como el resto de la clase). Quedan **69 wildcard-imports** deliberadamente sin tocar — expandirlos a mano en ~25 archivos es riesgo alto para valor bajo de estilo puro.
+
+**Rendimiento de Compose, 8 hallazgos (`00fb7f7`):** `mutableStateOf(Int/Long/Float)` boxea el primitivo en cada lectura/escritura — cambiados a `mutableIntStateOf`/`mutableLongStateOf`/`mutableFloatStateOf`. Uno de los ocho (el contador de caché de `LaVouteApp`) no usa el patrón `by remember`, así que cambiar el tipo de holder sin cambiar `.value` por `.longValue` dejaba el mismo autoboxing un paso más abajo — lint lo cazó al re-correr y quedó arreglado también. De paso until un `ModifierParameter` real: `ImageCard` tenía `modifier` después de 4 parámetros opcionales y antes del único requerido (`onClick`) — reordenado, seguro porque su único caller usa argumentos nombrados.
+
+**Un defecto real encontrado fuera de lint, por lectura directa del binario:** los 10 iconos de lanzador legacy (`mipmap-*/ic_launcher*.webp`) estaban corruptos — 4 no eran archivos WEBP válidos en absoluto (`mdpi`×2, `xxxhdpi` square) y otros 4 declaraban canvas de **36.803×9.421.313 px** y **49.091×12.567.041 px** en su cabecera VP8X pese a pesar unos pocos KB. Parseando los headers RIFF/VP8X a mano se confirmó (`lint` solo lo señaló como `IconDipSize`, un aviso menor que no transmitía la gravedad real). Impacto práctico bajo — el icono real en API 26+ es el adaptive icon (`mipmap-anydpi-v26`, intacto) — pero de todos modos viajan en cada APK y son lo que se ve en cualquier herramienta que no entienda adaptive icons. Regenerados desde el vector fuente (`ic_launcher_background/foreground.xml`, traducidos a mano a SVG estándar y renderizados con `resvg`) a las 5 densidades correctas, con variante `_round` recortada del mismo compuesto. Commit `6ace2e2`.
+
+### Estado final medido (antes del batch de hoy → después)
+
+| Métrica | Antes | Después |
+|---|---|---|
+| Lint errores reales (no `local.properties`) | 2 (`NonObservableLocale`, ayer) | **0** |
+| Lint warnings | 87 | **34** (100% ruido de versión de dependencia, diferido a propósito) |
+| Lint hints | 8 (`AutoboxingStateCreation`) | **0** |
+| Warnings del compilador (main) | 6+ | **0** |
+| Warnings del compilador (test) | 9 | **7** (createComposeRule, diferido a propósito) |
+| ktlint — tareas registradas sobre código real | 0 (bug de plugin) | **todas** |
+| ktlint — hallazgos | 3.205 (nunca medido antes) | **69** (100% wildcard-imports, diferido a propósito) |
+| Iconos de lanzador legacy corruptos | 10/10 | **0/10** |
+| Tests | 73/73 | **73/73**, verificado después de cada uno de los 9 commits |
+
+**Deliberadamente fuera de alcance, con razón escrita cada vez:** partir `MainViewModel.kt`/Composables gigantes (sin emulador para verlo renderizado), migración PKCE (la Ama la hará ella, requiere una GitHub App nueva de su lado), bump de AGP/Kotlin/Compose BOM (20+11 avisos, toolchain ya "futurista", acoplamiento riesgoso sin testing aislado), 69 wildcard-imports (estilo puro, alto volumen), 7 `createComposeRule` deprecados en tests (cambio real de comportamiento del dispatcher, no cosmético).
+
+**Repo local: 16 commits sin pushear sobre `origin/main`** (desde `ac5ebe7` hasta `00fb7f7`), todos verificados, ninguno pusheado — sigue pendiente tu aprobación.
