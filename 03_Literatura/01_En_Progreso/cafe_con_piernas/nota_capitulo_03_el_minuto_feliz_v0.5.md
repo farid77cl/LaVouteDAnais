@@ -1,1 +1,1 @@
-—¿Este es el que hay que tomarse antes de salir? —preguntó, con la voz baja de quien no quiere que la escuche nadie más. esto no se entiende, cámbialo por otra cotidianidad del local. cuando habla con doan Arturo le dice doctor, elimina eso
+—¿Este es el que hay que tomarse antes de salir? —preguntó, con la voz baja de quien no quiere que la escuche nadie más. esto no se entiende, cámbialo por otra cotidianidad del local. cuando habla con doan Arturo le dice doctor, elimina eso. dónde rompe la 3ta pared mas obvia más directa y el sexo con Felipe, mucho más caliente 
