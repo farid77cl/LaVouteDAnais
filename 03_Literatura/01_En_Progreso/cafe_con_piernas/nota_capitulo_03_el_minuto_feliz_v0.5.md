@@ -1,0 +1,1 @@
+—¿Este es el que hay que tomarse antes de salir? —preguntó, con la voz baja de quien no quiere que la escuche nadie más. esto no se entiende, cámbialo por otra cotidianidad del local
