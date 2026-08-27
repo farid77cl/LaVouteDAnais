@@ -224,3 +224,22 @@ La Ama pidió explícitamente cerrar todo lo que quedaba abierto en el reporte y
 **Deliberadamente fuera de alcance, con razón escrita cada vez:** partir `MainViewModel.kt`/Composables gigantes (sin emulador para verlo renderizado), migración PKCE (la Ama la hará ella, requiere una GitHub App nueva de su lado), bump de AGP/Kotlin/Compose BOM (20+11 avisos, toolchain ya "futurista", acoplamiento riesgoso sin testing aislado), 69 wildcard-imports (estilo puro, alto volumen), 7 `createComposeRule` deprecados en tests (cambio real de comportamiento del dispatcher, no cosmético).
 
 **Repo local: 16 commits sin pushear sobre `origin/main`** (desde `ac5ebe7` hasta `00fb7f7`), todos verificados, ninguno pusheado — sigue pendiente tu aprobación.
+
+---
+
+## 27/08/2026 (cont.) — Los 17 commits pusheados a `origin/main`, y la migración de auth resultó ser Device Flow, no PKCE
+
+Con el ok de la Ama, los 17 commits (`ac5ebe7`…`00fb7f7`) se pushearon a `origin/main` (`20fab44..00fb7f7`).
+
+**Corrección real sobre lo que este mismo reporte decía de PKCE:** este documento venía repitiendo desde el 26/08 que "migrar a PKCE" arreglaba el anti-patrón de tener el `client_secret` embebido en el APK compilado. Verificado contra la documentación oficial de GitHub (no contra memoria vieja): **es falso para GitHub específicamente.** GitHub agregó soporte PKCE en julio 2025 tanto para OAuth Apps como GitHub Apps, pero GitHub **no distingue cliente público de confidencial** — su propia doc dice textual *"si tu app es un cliente público (app nativa, CLI, SPA)... tienes que embeber el client secret en el código de la aplicación, y deberías usar PKCE para asegurar mejor el flujo"*. O sea: PKCE ahí protege solo contra interceptación del código de autorización, **no saca el secret del binario**, que era el problema real señalado desde el 26/08.
+
+**Lo que sí lo saca: Device Flow** (el mismo mecanismo de `gh` CLI). Confirmado también contra doc oficial: funciona sobre OAuth Apps y GitHub Apps por igual, es un toggle ("Enable Device Flow") sobre la app YA registrada — no requiere recrear nada —, y **el `client_secret` genuinamente no se usa en ningún punto del intercambio de token**.
+
+**Migrado hoy mismo, commit `8426669`:**
+- `GitHubAuthManager.kt`: `startOAuthFlow()`/`exchangeCodeForToken()` (browser + deep-link + POST con `client_secret`) reemplazados por `startDeviceFlow()` — pide `device_code`/`user_code` a `github.com/login/device/code`, reporta progreso vía `DeviceFlowStep` (`AwaitingUser`/`Success`/`Failed`), hace polling a `github.com/login/oauth/access_token` manejando `authorization_pending`/`slow_down`/`expired_token`/`access_denied` según el spec OAuth Device Authorization Grant.
+- `AuthScreen.kt`: el botón que abría el navegador y esperaba el deep-link fue reemplazado por una máquina de estados que muestra el código al usuario, un botón para abrir la URL de verificación de GitHub, y un spinner de polling. El fallback de PAT manual sigue intacto.
+- `MainActivity.kt` / `AndroidManifest.xml`: eliminado el manejo muerto del deep-link `lavoute://callback` y su intent-filter — ya nadie redirige de vuelta a la app, el usuario termina en el navegador y la app se entera por polling.
+- `.env` / `.env.example` / comentario en `build.gradle.kts`: `GITHUB_CLIENT_SECRET` eliminado por completo, no reubicado — no queda ningún camino de código que lo lea, así que el campo `BuildConfig` para esa clave deja de generarse también.
+- Detalle operativo: el Client ID que la Ama había registrado (`Ov23li7uK2unfcdiUFiK`) sirvió tal cual, sin recrear nada, confirmando lo que decía la doc. **Nota aparte:** el `client_secret` guardado en `.env` (`e8acfee8...`) no coincidía con el que la Ama pegó en el chat (`af596f5f...`) — irrelevante ahora que ninguno de los dos se usa, pero quedó anotado por si la discrepancia importa para otra cosa.
+
+**Verificado:** `testDebugUnitTest` 73/73 verde, `lintDebug` de vuelta a la línea base de 34 avisos (0 hallazgos nuevos), `ktlintFormat` limpio. Commit `8426669` sin pushear todavía — pendiente probarlo en el celular de la Ama antes de subirlo (el flujo cambia de forma real: ya no es un tap y volver automático, ahora hay que copiar/leer un código y confirmar en el navegador).
