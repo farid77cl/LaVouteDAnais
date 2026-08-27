@@ -6,6 +6,8 @@
 
 ## 🧿 Historial archivado
 
+- **21/08/2026 (⚔️👑 Batch Crossover: La Batalla del Estilo):** Diseñado y ensamblado el batch crossover con 6 diseños idénticos para Ele, Anaïs y Miss Doll (18 looks nuevos y 126 prompts totales): 2 del canon de Ele (micro bikini cherry wet-look, traje maid de vinilo), 2 del canon de Anaïs (vestido terciopelo esmeralda, peignoir Chantilly) y 2 del canon de Miss Doll (catsuit bondage hot pink, bodysuit jaula magenta). Sincronizado en galerías maestras con 0 errores críticos en el linter.
+
 - **20/08/2026 (📐☕ Formato de Gate del Cap 3 corregido):** Actualizado el repo con 109 commits al abrir sesión (`git pull --rebase` limpio, sin conflictos). Formateado el Cap 3 «El Minuto Feliz» al Estándar Completo Bloque por error, pensando que era el formato de entrega para el Gate; la Ama lo corrigió comparándolo contra el borrador real del Cap 2 (`capitulo_02_la_segunda_persona_v0.8.md`, el que sí llegó a su Gate) y quedó revertido a `# Capítulo 3: Título` + prosa, el mismo patrón que usaron el Cap 1 y el Cap 2 antes de su Gate. Prosa sin tocar una palabra. Pendiente: Gate de la Ama sobre el Cap 3.
 
 - **20/08/2026 (🚫👠 Canon Miss Doll: Veto de Mules y Batas Cortas):** Fijadas y blindadas en tres documentos de canon (`_perfiles_visuales/miss_doll.md`, `CANON_VISUAL_MISS_DOLL.md`, `.agent/rules/05-canon-miss-doll.md`) la prohibición absoluta de tacones estilo mule (destalonados sin sujeción) y la obligación de batas al tobillo o arrastrando hasta el suelo (prohibidas batas cortas), con negative prompt reforzado.
