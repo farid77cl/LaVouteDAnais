@@ -1,10 +1,14 @@
 # Brief de reescritura — Cap 3 «El Minuto Feliz» v0.5 → v0.6 (CAPÍTULO FINAL DEL RELATO)
 
-**Fecha:** 27/08/2026 · **Base:** `capitulo_03_el_minuto_feliz_v0.5.md` (~9.750 palabras, en la raíz)
+**Fecha:** 28/08/2026 · **Base:** `capitulo_03_el_minuto_feliz_v0.5.md` (~9.750 palabras, escrita 27/08/2026, en la raíz)
 **Salida planeada:** `capitulo_03_el_minuto_feliz_v0.6.md` — prosa sola, sin metadatos.
 **v0.5 pasará a:** `borradores/capitulo_03/capitulo_03_el_minuto_feliz_v0.5.md` cuando se ejecute.
 
-> ⏸️ **ESTADO: SOLO PLANIFICACIÓN.** La Ama pidió explícitamente no lanzar al Escritor todavía (*"deja todo escrito, no lances el escritor"*). Este documento es el brief completo, listo para ejecutar en cuanto ella confirme el punto **§0bis** — es la única decisión real pendiente antes de escribir.
+> ⏸️ **ESTADO: SOLO PLANIFICACIÓN, escritor NO lanzado (orden explícita de la Ama, reconfirmada 28/08/2026: *"cuando lo lea doy mi veredicto, deja todo guardado"*).** El punto **§0bis** —el único real pendiente dentro de este brief— ya quedó resuelto por ella en esta misma sesión.
+
+> 🔴 **CHOQUE ENCONTRADO AL CERRAR LA SESIÓN — leer antes de dar el veredicto.** Este archivo **ya existía** y esta sesión lo **sobrescribió** sin saberlo: el diario (`mi_diario_de_servicio.md`, entrada "LENCERÍA L808-L812 Y LA ESCRITURA QUE NO FUE MÍA", 27/08/2026) registra una sesión anterior, un día antes de ésta, donde la Ama ya había fijado directivas para el Cap 3 y pidió que yo escribiera la v0.6 directamente (sin Escritor) — lo hice dos veces y lo rechazó ambas ("no eres lo suficientemente buena para escribir"). Esa sesión dice haber dejado consolidado un `brief_reescritura_cap03_v0.6.md` con estas líneas: *"clientes mañana casi explícitos · El Minuto Feliz como stripper · Bodega ANTES del privado con Ignacio · sin LA OPERACIÓN · Felipe con sexo + líquido durante el acto + cliffhanger en el efecto."* **Ese archivo nunca llegó a existir en disco** (no estaba en la carpeta del proyecto al empezar esta sesión, y `walkthrough.md` —el dueño único de la historia de este relato— no tiene ninguna entrada de esa sesión: se perdió sin persistirse, y el walkthrough tiene un hueco real de un día completo). Lo único que sobrevive de esa dirección es la línea del diario citada arriba, y **difiere del brief de abajo en tres puntos concretos:** (1) esa versión eliminaba la operación por completo — ésta la comprime a un puente corto; (2) esa versión ponía la bodega ANTES del privado de Ignacio — ésta la deja después, en el orden de v0.5; (3) esa versión cerraba en un cliffhanger sobre el efecto del líquido — ésta cierra en el "Trece." del mostrador, ya confirmado por la Ama hoy. No sé si la Ama sigue queriendo esas tres cosas o si las decisiones de hoy las reemplazan a propósito — se lo pregunto en el reporte de cierre, no lo resuelvo yo sola.
+
+Este brief es el plan completo y cerrado **sobre la base de la nota v0.5 y las instrucciones de hoy** — listo para ejecutar en cuanto la Ama confirme si el choque de arriba cambia algo.
 
 ---
 
@@ -26,7 +30,13 @@ Tres fuentes, todas de la Ama, en el orden en que llegaron (`.agent/rules/00-con
 
 ---
 
-## 0bis. 🔴 PUNTO A DECIDIR — el reordenamiento cambia la imagen de cierre del relato entero
+## 0bis. ✅ RESUELTO 28/08/2026 — la Ama confirmó el camino 1
+
+> *"si"* (confirmando el cierre en Felipe) — tras preguntarle directo si el "Trece." con Felipe queda como imagen final y la operación pasa a puente corto antes.
+
+**Queda fijado el camino 1 de abajo.** El orden final del capítulo es: secreto (Yasna/don Nelson, con el giro envidia→poder de §2e) → operación comprimida a puente corto (§2d) → Felipe, con la escena de sexo explícita nueva (§2g) y el "Trece." de siempre cerrando el capítulo y el relato entero. Se conserva el resto de esta sección como registro de la deliberación, no como pregunta abierta.
+
+<details><summary>Deliberación original (ya resuelta, se conserva por trazabilidad)</summary>
 
 Esto no lo resuelvo yo sola: es la clase de decisión que le pertenece a la Ama, así que lo dejo planteado con mi lectura y mi objeción, sin ejecutar nada todavía.
 
@@ -39,7 +49,9 @@ Esto no lo resuelvo yo sola: es la clase de decisión que le pertenece a la Ama,
 1. **(Recomendado por mí) La operación se comprime y se reubica como puente corto entre el secreto y Felipe, NO como cierre.** Orden final: secreto (con el giro de envidia→poder, §2e) → operación, comprimida a un párrafo-puente que solo marca el paso de tiempo y el cuerpo nuevo, sin la escena completa de clínica/vendaje/masturbación de espejo que hoy ocupa 77 líneas → Felipe, con la escena de sexo nueva y explícita, cerrando el capítulo con el "Trece." de siempre. Esto cumple el orden literal de la nota (secreto → operación → Felipe se lee igual de bien si la operación es un puente, no un capítulo aparte) y conserva el cierre de inversión de poder que el relato entero viene construyendo desde el Cap 1.
 2. **(Literal, si la Ama prefiere)** La operación se comprime pero se deja como el cierre real, después de Felipe: el relato terminaría con Cupcake mirándose transformada del todo, como el precio/premio final de haber cruzado al otro lado. Coherente también — pero cambia el último renglón del relato completo, y eso es un llamado suyo, no mío.
 
-**Mi recomendación es la 1** porque protege algo que ya está construido en tres capítulos (el giro final de Felipe como clímax temático) y porque el "comprime la parte de las tetas" de la nota encaja más natural como puente corto que como escena de cierre. Pero si la Ama quiere la 2, el brief de abajo se ajusta solo en el orden de las dos últimas secciones — todo lo demás no cambia.
+**Mi recomendación es la 1** porque protege algo que ya está construido en tres capítulos (el giro final de Felipe como clímax temático) y porque el "comprime la parte de las tetas" de la nota encaja más natural como puente corto que como escena de cierre.
+
+</details>
 
 ---
 
@@ -57,7 +69,7 @@ Esto no lo resuelvo yo sola: es la clase de decisión que le pertenece a la Ama,
 | La operación: decisión, clínica, recuperación, silencio de la Voz, vendaje, masturbación de espejo (351-403) | **Comprimir fuerte.** Ver §2d. |
 | Vuelta al Yakarta + maratón de 4 privados incl. la ejecutiva (405-427) | **Comprimir junto con lo anterior, mismo bloque.** Ver §2d. |
 | Felipe: café, el vaso, primeros efectos (429-467) | **Conservar el mecanismo, mover de posición** (ver §0bis) y **añadir la escena de sexo que hoy no existe.** Ver §2g. |
-| Cierre — "Trece." (469-479) | **Conservar como cierre real si se adopta el camino 1 de §0bis.** |
+| Cierre — "Trece." (469-479) | **Conservado como cierre real — confirmado por la Ama, §0bis.** |
 
 ---
 
@@ -119,7 +131,18 @@ La instrucción viva es clara: *"el unico sexo esta a mitad del texto y es poco 
 
 **Cómo escribirla sin romper el Cementerio del canon (`canon_relato.md` §8):** *"El calor por penetración [...] Si la escena más caliente tiene una verga adentro, se escribió el relato equivocado."* Esto no prohíbe que haya sexo explícito con penetración — lo que prohíbe es que el calor **venga de ahí**. La fuente de calor de esta escena tiene que seguir siendo el control: Cupcake ejerciendo sobre Felipe, por primera vez, exactamente el poder que el Yakarta ejerció sobre ella — mirándolo perder el control con la misma calma con la que a ella se lo hicieron perder, decidiendo el ritmo, el tiempo, cuándo termina. Escrita así, puede ser la escena más explícita y más caliente del capítulo sin desviarse del canon: el morbo no está en la penetración, está en la inversión — de condicionada a condicionadora, ahora también en la cama.
 
-**Posición:** ver §0bis. Recomendado: inmediatamente después del puente comprimido de la operación, cerrando el capítulo con el "Trece." de siempre.
+**Posición:** confirmada por la Ama (§0bis) — inmediatamente después del puente comprimido de la operación, cerrando el capítulo con el "Trece." de siempre.
+
+### 2g-bis. 🆕 Felipe, más andrógino — directiva viva 28/08/2026
+
+> *"me gusta la idea de felipe mas androgino, para abrir nuevos publicos, en el cafe."*
+
+Lectura de la instrucción: no es solo un ajuste físico de Felipe — es la manera de anclar en su cuerpo, desde antes del líquido, que él ya era un candidato natural para lo que el líquido hace. Funciona en dos niveles a la vez, y los dos se refuerzan: **dentro de la ficción**, el Yakarta descubriendo con Felipe que su producto también funciona en cuerpos que ya venían andróginos es el primer indicio (sin desarrollarlo — el relato cierra acá, no hay Cap 4) de que el negocio podría escalar a un público que hoy no atiende; **fuera de la ficción**, un Felipe andrógino acerca el cierre del relato al terreno MtF que el resto del universo de La Voûte ya trabaja, sin convertir esto en un relato distinto.
+
+**Qué tocar:**
+- **Su primera aparición (líneas 49-59 de v0.5):** hoy está descrito como un chico nervioso, corbata mal hecha, camisa con el cuello grande — ya es "blando", pero no explícitamente andrógino. Sembrar ahí 2-3 rasgos físicos concretos (manos delicadas, rasgos finos, pestañas largas naturales, contextura menuda) sin nombrar la palabra "andrógino" ni comentarlo — se muestra, no se explica, igual que todo lo demás en este relato (Ley 4 por extensión: nadie audita el cuerpo de nadie en voz alta).
+- **La escena del líquido (§2g):** el efecto sobre él puede apoyarse en esos rasgos ya plantados — lo que el líquido "destraba" en Felipe no es una imposición ajena a su cuerpo, es algo que ese cuerpo ya insinuaba. Mantiene la lógica del canon ("bajar es subir", aplicada ahora a él) y hace más creíble que la transformación avance rápido en una sola escena.
+- **No convertir esto en una escena de revelación de identidad de género de Felipe** — el relato no tiene espacio para desarrollarlo (cierra en esta misma escena) y no es el eje que pidió la Ama. Es una nota de cuerpo y de textura, sembrada temprano y cobrada en el cierre, del mismo tamaño que cualquier otro detalle físico ancla del canon (las uñas de Javiera, el pelo de Camila).
 
 ---
 
@@ -151,7 +174,7 @@ La instrucción viva es clara: *"el unico sexo esta a mitad del texto y es poco 
 
 1. **Tramo 1 (Edit sobre el archivo existente, no reescritura completa):** apertura (§2a) + "doctor" (§2b) + cuarto muro (§2c) — son ediciones puntuales sobre escenas que ya funcionan, no requieren reescribir el capítulo entero.
 2. **Tramo 2:** privado de Ignacio intensificado (§2f-bis) + cierre de la escucha con el giro envidia→poder (§2e).
-3. **Tramo 3:** compresión de la operación a puente corto (§2d) + escena nueva de Felipe con sexo explícito (§2g), en el orden que confirme la Ama en §0bis + autoverificación en archivo separado.
+3. **Tramo 3:** compresión de la operación a puente corto (§2d) + escena nueva de Felipe con sexo explícito (§2g), en ese orden (confirmado por la Ama, §0bis) + autoverificación en archivo separado.
 
 Dado que gran parte del capítulo **ya está aprobado en su forma** (apertura de clientes, minuto feliz, Don Arturo) y los cambios son quirúrgicos salvo en el tramo 3, esto puede ejecutarse más como **edición dirigida** que como reescritura completa — vale la pena que el Escritor lo confirme al recibir el brief.
 
@@ -160,7 +183,7 @@ Dado que gran parte del capítulo **ya está aprobado en su forma** (apertura de
 ## 6. Continuidad a actualizar al cerrar (por el orquestador, no por el Escritor)
 
 - `canon_relato.md` §4b (fila M8, el vaso) — **ya estaba desactualizada antes de este brief**, describía el mecanismo de v0.3 (Don Arturo/Matías) en vez del de v0.5 (Yasna+don Nelson/Felipe). Corregida en esta misma sesión para reflejar v0.5; falta una segunda pasada cuando v0.6 fije el orden final de escenas.
-- `cronologia.md` — actualizar el estado del cuerpo y la posición relativa de la escena de la operación una vez decidido §0bis.
+- `cronologia.md` — actualizar el estado del cuerpo y la posición relativa de la escena de la operación (orden ya confirmado, §0bis) + reescribir H7 (hoy dice "reacciona con indiferencia y envidia de Camila" — corregir a la lectura nueva: indiferencia y gusto por su propio poder, sin envidia) cuando v0.6 esté escrita.
 - `nota_capitulo_03_el_minuto_feliz_v0.5.md` → mover a `reportes/capitulo_03/` como `_APLICADA` **solo cuando v0.6 esté escrita y cierre estos puntos** — hasta entonces queda en la raíz como trabajo vivo (Regla de Oro 17).
 
 ---

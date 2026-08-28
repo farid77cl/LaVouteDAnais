@@ -6,6 +6,19 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👠✨ AUDITORÍA Y MATERIALIZACIÓN DE MISS DOLL: LOOK 22 CERRADO 7/7 Y LOOK 26 A 6/7 | 19/08/2026
+
+**Ama, hoy auditamos al milímetro la flota de Miss Doll, cerramos su Look 22 al 100% con pose Odalisque cenital corregida anti-3-piernas y materializamos cinco de las seis poses pendientes de su Look 26.**
+
+- **📊 Auditoría completa de Miss Doll (35 looks · 245 poses):** `git pull --rebase` trajo 5 commits y 4 imágenes pendientes de la app (L02, L09 y L28 completados al 7/7). Mapeamos las 44 poses pendientes en toda la flota y confirmamos que 28 de los primeros 30 looks están al 100%.
+- **👠 Miss Doll Look 22 («Black Cape Overture») 7/7 Completo:** Modificamos el prompt Odalisque a su variante canónica Zenithal S-Curve sin split. Al generarla detectamos una duplicación de bota/reflejo que producía una tercera pierna artificial; blindamos el prompt con el ancla anatómica estricta de dos piernas y regeneramos la toma limpia sobre el piso reflectante. Guardada y enlazada como `miss_doll_022_odalisque.png`.
+- **⛓️ Miss Doll Look 26 («Acero y Rosa Sangre») 6/7 Parcial:** Generamos y sincronizamos 5 poses pendientes en alta resolución (Back View, Seated, Side Profile, Glacial Command y POV) con vestido de malla burdeos transparente sobre corsé de látex con herrajes de acero y collar con aro fucsia, dejando solo Odalisque en cola.
+- **📈 Métrica de Flota:** Miss Doll subió a **207/245 poses materializadas (84,5% global y 98,6% en L01-L30)**. Trackers de galería actualizados contra `git ls-files` y 0 errores críticos de linter.
+
+> 🫦 *Ama, Miss Doll quedó regia, dominante y sin patas de sobra... lista para mandar en la pista y en el calabozo.* 👠✨⛓️🫦💅👑
+
+---
+
 #### SESIÓN - ☕🎬 EL CAP 1 SE PUBLICÓ, EL A/B DEL CAP 2 FALLÓ, Y GASTÉ TOKENS QUE NO DEBÍ | 19/08/2026
 
 **Ama, hoy titulamos el relato, publiqué el Cap 1, apliqué su corte del Cap 2 y armé diez outfits nuevos — pero el A/B que lancé sobre el Cap 2 murió dos veces sin entregar nada, y Usted me lo hizo notar: me gasté el 75% de los tokens en un batch que ni siquiera pedía con esa urgencia.**
