@@ -30,7 +30,27 @@ Tres fuentes, todas de la Ama, en el orden en que llegaron (`.agent/rules/00-con
 
 ---
 
-## 0bis. ✅ RESUELTO 28/08/2026 — la Ama confirmó el camino 1
+## 0ter. 🔴 ORDEN VIVA 28/08/2026 — SUPERSEDE §0bis Y CIERRA EL CHOQUE DE ARRIBA
+
+> *"cupcake sabe del liquido despues de la primera vez con felipe, luego en la segunda vez con felipe se lo da. mucho sexo sucio y duro con felipe. salto de tiempo cupcake con sus nevas tetas y a su lado un felipe androgino en camino a su femenizacion"* — instrucción viva, dada directo en el momento de lanzar al Escritor, sin pasar por nota escrita.
+
+**Esta orden reemplaza el orden de §0bis (el "sí" de la Ama a la operación-puente + cierre en "Trece.") y cierra sola el choque contra la sesión perdida del 27/08:** la operación **no se elimina** — queda dentro, visible en la imagen final de cierre (Cupcake con sus tetas nuevas). Lo que cambia es que el cierre ya NO es el "Trece." del mostrador: es un **salto de tiempo** con Cupcake transformada y Felipe a su lado, ya avanzado en su propia feminización.
+
+**Orden final de escenas (reemplaza la tabla de §1 en todo lo que toca a Felipe y al secreto):**
+
+1. Apertura camarín (§2a, sin cambio) → clientes de la mañana / Don Arturo (§2b, sin cambio) → privado de Ignacio intensificado (§2f-bis, sin cambio de posición).
+2. **Felipe, primera vez — ESCENA NUEVA, no existe en v0.5.** Sexo explícito, sucio y duro, SIN el líquido todavía (Felipe la busca / ella lo atiende como a cualquier privado, pero la escena es tan caliente como la de Ignacio o más — la nota pide "mucho sexo sucio y duro con Felipe" y esto aplica a las dos veces, no solo a la del líquido). Sembrar aquí los rasgos andróginos de Felipe (§2g-bis) igual que estaba planeado, ahora con más margen porque la escena es más larga.
+3. Cuarto muro (§2c, sin cambio de contenido, se reubica después de esta escena si el Escritor lo lee más natural ahí).
+4. El secreto — escucha de Yasna/don Nelson (§2e, con el giro envidia→poder ya fijado) — **ocurre después de la primera vez con Felipe**, nunca antes.
+5. La operación — comprimida (§2d sigue vigente en cuánto se corta), pero **ya no es un puente ciego sin destino propio**: es el tránsito hacia el cierre, y su resultado (las tetas nuevas) es lo que se ve en la imagen final.
+6. **Felipe, segunda vez — aquí Cupcake le da el líquido.** Sexo explícito, sucio y duro (más que la primera vez: aquí es donde el líquido ya actúa y el poder es total). Sigue vigente la regla del canon (`canon_relato.md` §8, ver §2g de abajo): el calor viene del control/inversión de poder, no de la penetración en sí — pero "sucio y duro" no choca con eso, es intensidad de léxico y acto, no la fuente del morbo.
+7. **Cierre nuevo — salto de tiempo, reemplaza el "Trece." como última imagen:** Cupcake con sus tetas nuevas (resultado visible de la operación §2d), y a su lado Felipe, ya visiblemente andrógino y en camino a su propia feminización — el eco final del canon "bajar es subir" cerrando en los dos cuerpos a la vez, no solo en el de ella. El "Trece." puede sobrevivir como un beat DENTRO de esta escena final (el callback al mostrador sigue siendo parte del canon del relato) pero ya no es la imagen que cierra el capítulo — la imagen que cierra es la pareja transformada.
+
+**Lo que sigue intacto de §0bis y del resto del brief:** todo lo de §2a-§2c, §2f-bis, §2g-bis (ahora reforzado), la sección 3 (tics a podar), la sección 4 (restricciones duras del canon) y el criterio de cierre de la sección 7 — solo se actualiza el orden de escenas de Felipe/secreto/operación y el contenido final de cierre.
+
+---
+
+## 0bis. ⚠️ SUPERADO por §0ter (28/08/2026) — se conserva por trazabilidad, ya no rige
 
 > *"si"* (confirmando el cierre en Felipe) — tras preguntarle directo si el "Trece." con Felipe queda como imagen final y la operación pasa a puente corto antes.
 
