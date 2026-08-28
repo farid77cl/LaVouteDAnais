@@ -2,7 +2,7 @@
 
 El pelo platinado le caía en ondas pesadas y aceitadas hasta la mitad de la espalda, y cada vez que giraba la cabeza para revisarse en el espejo del camarín, sentía el peso rozarle la piel desnuda de los hombros como una mano ajena. Le gustaba ese roce. Llevaba tres semanas dejando que se lo diera el pelo en vez de una mano de verdad, y las dos cosas, a esta altura, le sabían igual.
 
-Antes había tenido otro pelo. Castaño, liso, tirante hacia atrás en un moño bajo que no soltaba ni un mechón porque un mechón suelto, en una sala de audiencias, se leía como falta de control. Ese pelo había sido una herramienta de trabajo, como el reloj o el maletín. Este era la orden contraria: pedía que lo despeinaran, que alguien metiera los dedos ahí y tirara. Cupcake hizo la comparación sin nostalgia, con la misma frialdad de antes, cuando pasaba dos telas entre los dedos para decidir cuál rendía más en un alegato. El pelo de antes servía para que nadie la mirara mientras hablaba. Este pelo servía para lo contrario, y a ella el contrario le gustaba mucho más.
+Antes había tenido otro pelo. Castaño, liso, tirante hacia atrás en un moño bajo que no soltaba ni un mechón porque un mechón suelto, en una sala de audiencias, se leía como falta de control. Ese pelo había sido una herramienta de trabajo, como el reloj o el maletín. Este era la orden contraria: pedía que lo despeinaran, que alguien metiera los dedos ahí y tirara. Cupcake hizo la comparación sin nostalgia, como quien pasa dos telas entre los dedos para decidir cuál rinde más. El pelo de antes servía para que nadie la mirara mientras hablaba. Este pelo servía para lo contrario, y a ella el contrario le gustaba mucho más.
 
 Se acomodó una onda sobre el hombro derecho. En el reflejo, detrás de ella, una de las chicas nuevas —la que todavía se ponía las pestañas torcidas, la que se tapaba el trasero al agacharse sin darse cuenta de que lo hacía— llevaba un rato largo peleando con el escote de su top: se lo subía, se lo miraba, se lo bajaba un dedo, se lo volvía a subir.
 
@@ -46,7 +46,7 @@ Se lo metió bajo la liga del liguero, contra la piel del muslo, dejando que él
 
 Don Manuel no se fue enseguida. Se quedó un momento de más con la mano todavía tibia de la de ella, como si el gesto fuera a repetirse si esperaba lo suficiente, y cuando por fin caminó hacia la puerta lo hizo con el paso corto de un hombre que hubiera preferido no tener que caminar justo en ese momento, la chaqueta cerrada sobre el pantalón sin que hiciera frío para cerrarla, mirando hacia atrás dos veces antes de perderse detrás del vidrio polarizado. Volvería mañana. Volvería con dos mil, con las mismas ganas, y sin saber jamás que ella ya se lo había calculado todo antes de que cruzara la puerta.
 
-A las diez y veinte entró uno que Cupcake conocía a medias: lo había visto un par de veces en las últimas semanas, siempre en la esquina de la barra, siempre pidiendo lo mismo, siempre demorándose el doble de lo necesario en decidir cuánto dejar de propina. No tendría más de veinticinco años. Camisa recién planchada que los hombros no le alcanzaban a llenar, el cuello un poco grande para el cuello que tenía —un cuello fino, sin sombra de afeitada—, la corbata anudada con el nudo torpe de quien todavía practica frente al espejo antes de salir de la casa.
+A las diez y veinte entró uno que Cupcake conocía a medias: lo había visto un par de veces en las últimas semanas, siempre en la esquina de la barra, siempre demorándose el doble de lo necesario en decidir cuánto dejar de propina. No tendría más de veinticinco años. Camisa recién planchada que los hombros no le alcanzaban a llenar, el cuello un poco grande para el cuello que tenía —un cuello fino, sin sombra de afeitada—, la corbata anudada con el nudo torpe de quien todavía practica frente al espejo antes de salir de la casa.
 
 Pidió un capuchino con la voz más baja de lo que hacía falta, como si hablar más fuerte fuera a delatarlo. Cupcake se lo preparó despacio, sabiendo que él la estaba mirando trabajar con la atención de un alumno que no quiere perderse ningún detalle de la clase. Cuando le dejó la taza, apoyó el codo sobre el acero y bajó la voz también, para que sonara como un secreto entre los dos.
 
@@ -94,7 +94,7 @@ A las once y treinta y cinco, el neón parpadeó de magenta a violeta.
 
 El local entero lo sintió antes de verlo: quince cabezas se giraron hacia la tarima al mismo tiempo, como si el cambio de color tirara de un mismo hilo atado a cada cuello. Yasna, desde el otro extremo de la barra, le hizo a Cupcake el gesto con la barbilla que ya no necesitaba palabras. Faltaban cinco minutos para el minuto feliz.
 
-La anticipación le subió limpia, sin nervios, la misma clase de anticipación que antes sentía antes de un alegato que sabía que iba a ganar, solo que ahora la sentía mucho más abajo, en un lugar que ningún alegato le había tocado nunca.
+La anticipación le subió limpia, sin nervios, y no se le quedó en la cabeza: se le fue derecho mucho más abajo, a un lugar que ningún alegato ganado le había tocado nunca.
 
 Se paró en el centro de la tarima, sobre la plataforma que la elevaba treinta centímetros por encima de todos los que estaban del otro lado del acero. Abrió las piernas lo justo para que las plataformas transparentes del Pleaser quedaran ancladas al suelo, y llevó las dos manos, garras fucsias incluidas, al broche del top plateado.
 
@@ -106,7 +106,7 @@ El broche cedió. La tela cayó.
 
 Los pechos, todavía los suyos, todavía sin la silicona que le faltaba por comprar, quedaron al aire, pesados, tibios de aceite, con los dos aros cromados atravesándole los pezones erguidos y captando de lleno el violeta del neón. Un jadeo cruzó la barra de punta a punta. Alguien dejó caer una cucharita contra el mostrador, y el sonido metálico se perdió bajo el pum-pum del beat.
 
-Cupcake arqueó la espalda, echó los hombros atrás, y ofreció los aros a la fila de hombres como quien exhibe una joya y sabe perfectamente cuánto vale. El metal le tironeaba de los pezones con cada respiración, un dolor chico y constante que le mandaba una descarga derecha al centro cada vez que inhalaba. No había vergüenza en ningún lado de su cuerpo. Había, en cambio, la certeza tibia y completa de ser, en ese segundo exacto, la cosa más deseada de todo el pasaje.
+Cupcake arqueó la espalda, echó los hombros atrás, y ofreció los aros a la fila de hombres como quien exhibe una joya y sabe perfectamente cuánto vale. El metal le tironeaba de los pezones con cada respiración, un dolor chico y constante que le mandaba una descarga derecha al centro cada vez que inhalaba. Tenía el cuerpo entero tomado por una certeza tibia: era, en ese segundo exacto, la cosa más deseada de todo el pasaje.
 
 *Mírenme.*
 
@@ -116,11 +116,11 @@ La luz gris de la galería le cortó la penumbra violeta por medio segundo, y un
 
 Don Arturo.
 
-Traje oscuro, un poco más flojo en los hombros de lo que Cupcake recordaba, como si últimamente comiera menos o durmiera menos, o las dos cosas. El maletín de cuero le colgaba de los dedos, olvidado. Miraba directo a los aros cromados, a los pechos desnudos, al pelo platinado, con una cara que ningún socio de bufete pone jamás delante de un cliente de la minera.
+Traje oscuro, un poco más flojo en los hombros de lo que Cupcake recordaba, como si últimamente comiera menos o durmiera menos, o las dos cosas. El maletín de cuero le colgaba de los dedos, olvidado. Miraba directo a los pechos desnudos y a los aros cromados, con una cara que ningún socio de bufete pone jamás delante de un cliente de la minera.
 
 Sus miradas se cruzaron por encima de la barra, por encima del humo dulce, por encima de tres semanas enteras en que él no había vuelto a aparecer por ahí y ella no se había preguntado por qué.
 
-Cupcake no se cubrió. No bajó la vista. Le sostuvo la mirada con la misma calma con la que antes le sostenía la mirada a un juez, y dejó que la sonrisa se le abriera despacio, ancha, obscenamente feliz. Él, en cambio, no pudo sostenérsela más de dos segundos.
+Cupcake no se cubrió. No bajó la vista. Le sostuvo la mirada sin pestañear, y dejó que la sonrisa se le abriera despacio, ancha, obscenamente feliz. Él, en cambio, no pudo sostenérsela más de dos segundos.
 
 Terminó el minuto. Cupcake se abrochó el top con el mismo *clack* seco, guardando los aros bajo la tela plateada, sabiendo que él ya los había visto y que eso, ahora, era un dato que le pertenecía a ella y no a él. El neón volvió al magenta. El pum-pum siguió marcando el mismo compás de siempre, como si nada hubiera pasado, aunque a más de uno en la barra le costó un buen rato volver a respirar con normalidad.
 
@@ -150,7 +150,7 @@ Cupcake tomó los tres billetes con dos dedos, dejó que las uñas fucsias le ro
 
 —Ya sé que no es por el café.
 
-Se lo dijo mirándolo, sin ninguna compasión, con la misma calma con que antes le habría explicado a un cliente por qué su contrato no tenía salida. Y esa calma —en que ella lo supiera y se lo dijera igual, sin necesidad de fingir— hizo que Don Arturo bajara los ojos primero, y que Cupcake, por dentro, sintiera el calor subirle entero, generoso, gratis, mucho mejor pagado que cualquier billete.
+Se lo dijo mirándolo, sin ninguna compasión, sin subirle ni bajarle la voz. Y esa calma —en que ella lo supiera y se lo dijera igual, sin necesidad de fingir— hizo que Don Arturo bajara los ojos primero, y que Cupcake, por dentro, sintiera el calor subirle entero, generoso, gratis, mucho mejor pagado que cualquier billete.
 
 —Vuelva cuando quiera —le dijo, ya dándose vuelta hacia el próximo cliente—. Aquí siempre hay una taza para usted, don Arturo.
 
@@ -180,13 +180,13 @@ Fue apenas el roce del pulgar contra el dorso de su mano, un segundo, nada más,
 
 —Sí. Véngase para acá.
 
-Él se inclinó sobre el acero. Cupcake estiró las dos manos por encima de la barra —el único gesto que a ella le estaba permitido y a él no, porque ella decidía cuándo se cruzaba la distancia y él solo podía esperar a que decidiera— y le tomó el nudo entre los dedos. Se lo deshizo despacio. Se lo volvió a hacer, más apretado, más lento de lo que cualquier nudo necesitaba, dejando que los nudillos le rozaran la garganta, el cuello de la camisa, el borde de la mandíbula sin afeitar del todo. Él dejó de respirar el tiempo que le tomó a ella terminar. Cuando bajó la vista, buscando dónde mirar que no fuera su propia desesperación, se la llevó directo al escote plateado, y la tela del pantalón oscuro se le tensó de golpe contra la barra.
+Él se inclinó sobre el acero. Cupcake estiró las dos manos por encima de la barra —el único gesto que a ella le estaba permitido y a él no, porque ella decidía cuándo se cruzaba la distancia y él solo podía esperar a que decidiera— y le tomó el nudo entre los dedos. Se lo deshizo despacio. Se lo volvió a hacer, más apretado, más lento de lo que cualquier nudo necesitaba, dejando que los nudillos le rozaran la garganta y el borde de la mandíbula sin afeitar del todo. Él dejó de respirar el tiempo que le tomó a ella terminar. Cuando bajó la vista, buscando dónde mirar que no fuera su propia desesperación, se la llevó directo al escote plateado, y la tela del pantalón oscuro se le tensó de golpe contra la barra.
 
 —Así está mejor, mi rey —dijo ella, y le dio una palmadita en el pecho con la palma abierta antes de soltarlo.
 
 Él le atrapó la mano.
 
-Fue rápido, torpe, un movimiento de hombre que llevaba semanas conteniéndose y ya no pudo. Le sostuvo los dedos un segundo contra su propio pecho, sintiendo el corazón golpeándole bajo la camisa, y Cupcake dejó que pasara, curiosa de ver hasta dónde llegaba, hasta que él trató de subir la mano de ella hacia su cara. Ahí lo detuvo. Le atrapó la muñeca con dos dedos, apenas, sin fuerza, y la bajó de vuelta al acero con la misma facilidad con que se corrige a un niño.
+Fue rápido, torpe, un movimiento de hombre que llevaba semanas conteniéndose y ya no pudo. Le sostuvo los dedos un segundo contra su propio pecho, sintiendo el corazón golpeándole bajo la camisa, y Cupcake dejó que pasara, curiosa de ver hasta dónde llegaba, hasta que él trató de subir la mano de ella hacia su cara. Ahí lo detuvo. Le atrapó la muñeca con dos dedos, apenas, sin fuerza, y la bajó de vuelta al acero como se corrige a un niño.
 
 —Eso no está en el menú, don Arturo.
 
@@ -202,7 +202,7 @@ Don Arturo tragó saliva, con los ojos clavados en el escote, y dijo lo que llev
 
 —Sabe a qué me refiero. —La voz se le quebró a la mitad—. La mesa. Como esa vez. En la mesa.
 
-Ella no contestó de inmediato. Dejó que el silencio se estirara, dejó que él sintiera cada segundo sin respuesta, y en su cabeza, sin ningún esfuerzo, la mesa de caoba volvió entera: el barniz frío contra la mejilla, el informe del arbitraje arrugándose bajo su propio peso, el fajo que nadie le ofreció y que ella tomó con las dos manos delante de Roberto y las abogadas. Y el nombre. Esa tarde se le había escapado a él, sin que ella se lo pidiera dos veces, un nombre que no era el suyo de antes, y desde entonces él no había vuelto a cambiarlo por ningún otro.
+Ella no contestó de inmediato. Dejó que el silencio se estirara, dejó que él sintiera cada segundo sin respuesta, y en su cabeza, sin ningún esfuerzo, la mesa de caoba volvió entera: el barniz frío contra la mejilla, el informe del arbitraje arrugándose bajo su propio peso. El fajo que nadie le ofreció y que ella tomó con las dos manos delante de Roberto y las abogadas. Y el nombre. Esa tarde se le había escapado a él, sin que ella se lo pidiera dos veces, un nombre que no era el suyo de antes, y desde entonces él no había vuelto a cambiarlo por ningún otro.
 
 —¿Cómo se llama esto que quiere volver a hacer? —le preguntó, apoyando los codos en el acero, acercando la cara a la de él lo suficiente para que le llegara el aliento a café con nata—. Dígamelo bien dicho.
 
@@ -234,7 +234,7 @@ El estómago se le contrajo entero por dentro a Cupcake, un golpe caliente que l
 
 —Vuelva el jueves, mi rey —le dijo, ya dándose vuelta hacia el próximo casero—. A lo mejor le toca la escalera. A lo mejor no. Eso lo decido yo.
 
-Don Arturo tomó el espresso frío de un trago, dejó otro billete sobre el acero sin que nadie se lo pidiera, y salió por la puerta de vidrio polarizado con el maletín golpeándole la pierna a cada paso. Volvería. Cupcake ya no necesitaba preguntárselo: lo sabía con la misma certeza con que sabía cuántos cafés llevaba vendidos sin haber contado ni uno en voz alta.
+Don Arturo tomó el espresso frío de un trago, dejó otro billete sobre el acero sin que nadie se lo pidiera, y salió por la puerta de vidrio polarizado con el maletín golpeándole la pierna a cada paso. Volvería. Cupcake ya no necesitaba preguntárselo: lo sabía igual que sabía cuántos cafés llevaba vendidos sin haber contado ni uno en voz alta.
 
 ***
 
@@ -252,7 +252,7 @@ Cuando lo tuvo adentro se movió a su propio ritmo, ni más rápido ni más lent
 
 —No.
 
-Se lo dijo sin dejar de moverse, sin ninguna duda, con la misma calma con que antes le habría dicho que no a un juez que pedía una prórroga que no correspondía. Ignacio insistió, trató de bajarle el ritmo con las manos para estirar el tiempo, y Cupcake, sin perder el compás, le sujetó las dos muñecas contra el respaldo del sillón y las dejó ahí, quietas, con la misma facilidad con que antes le había bajado la mano a Don Arturo del filo de la barra.
+Se lo dijo sin dejar de moverse, sin ninguna duda, con la misma calma con que antes le habría dicho que no a un juez que pedía una prórroga que no correspondía. Ignacio insistió, trató de bajarle el ritmo con las manos para estirar el tiempo, y Cupcake, sin perder el compás, le sujetó las dos muñecas contra el respaldo del sillón y las dejó ahí, quietas.
 
 —Quince minutos pagó, quince minutos tiene —le dijo, cerca de la oreja—. Ni uno más.
 
@@ -269,6 +269,68 @@ Ignacio se quedó con las manos vacías sobre el cuero, duro, con la respiració
 —El privado se acabó cuando se acabó el reloj. —Le pasó la mano por la mejilla, un gesto casi tierno, casi cruel de puro tierno—. La próxima vez pague más tiempo si quiere más tiempo.
 
 Bajó primero la escalera, dejándolo ahí arriba con lo suyo, y sintió el calor subirle entero, bajo el ombligo, más adentro que cualquier plata que le hubieran pagado esa mañana. Parar cuando ella decidía, no cuando él lo necesitaba, era el privado de verdad, el que ningún casero terminaba de pagar nunca: dejarlo con la verga dura y las ganas completas, sabiendo que la próxima vez él iba a pagar el doble solo por la posibilidad de que ella dijera que sí.
+
+***
+
+A las cuatro de la tarde, en la hora muerta en que el local se quedaba con dos caseros lentos y el reggaetón sonando para nadie, la puerta de vidrio se abrió y entró Felipe.
+
+Nunca venía a esa hora. Venía a las diez y veinte, se tomaba su capuchino, dejaba de más y se iba. Cupcake lo leyó entero antes de que llegara a la barra: la mañana se le había quedado corta, y la tarde lo traía de vuelta con lo que no se había atrevido a pedir en meses de capuchinos.
+
+—Cupcake. —Le costó el nombre. Le costaba siempre—. ¿Cuánto vale el privado?
+
+Ella dejó el paño sobre el acero y lo miró el tiempo justo para verlo aguantarle la mirada con el color subiéndole por el cuello fino hasta las orejas.
+
+—¿Cuánto traes?
+
+Felipe sacó la billetera con las manos que no le respondían y la abrió sobre la barra, entera, sin contar. Cupcake contó por él: cuarenta y ocho mil pesos en billetes nuevos, recién sacados, de alguien que había pasado por el cajero antes de atreverse. Los tomó todos.
+
+—Media hora —dijo, aunque esa plata compraba menos—. Sube.
+
+Arriba, Felipe se sentó en el borde del sillón de cuero igual que se paraba en la barra: con permiso. En el rincón del cubículo, apoyada contra la pared, había una escoba que alguien había subido alguna vez y nunca más bajó. La luz roja le lavaba la cara, y aun así se le notaba el color.
+
+—Las manos en el cuero —dijo Cupcake, corriendo la cortina—. No las muevas hasta que yo te diga.
+
+Las puso. Las manos finas, de dedos largos, abiertas y quietas sobre el cuero negro, y a Cupcake esa obediencia le calentó el coño de golpe, sin aviso, antes de haberlo tocado.
+
+Le desabrochó la camisa botón por botón, mirándolo a la cara y no a los botones, y se la abrió sin sacársela: los hombros que no la llenaban, el pecho lampiño, el esternón subiendo y bajando como si respirar le costara plata. Felipe hizo el gesto de cruzar un brazo por delante y lo cortó a la mitad, porque las manos tenían orden.
+
+—Buen chico.
+
+Se llevó las manos al broche del top.
+
+—Mírame. No cierres los ojos. Eso también lo pagaste.
+
+*Clack.*
+
+Los aros cromados atraparon la luz roja. Felipe la miró desde abajo de las pestañas largas con los ojos muy abiertos, tragó saliva, y no los cerró. Obedecía mejor que los que pagaban el doble.
+
+Le abrió el pantalón. La verga se le paró sola, dura contra el vientre, y cuando ella la agarró con la mano llena de uñas fucsias, a Felipe le salió un ruido agudo, de puro no poder, que no se parecía a ninguno de los que ella cobraba en ese cubículo.
+
+Se sacó la tanga —mojada desde el mediodía, desde antes—, se subió al sillón con una rodilla a cada lado y se sentó encima despacio, dejándola entrar entera, de una vez, mirando cómo a Felipe se le iba la cabeza contra el respaldo. Lo estaba cogiendo ella a él, no al revés, y los dos lo supieron desde el primer movimiento.
+
+Se movió a su ritmo, sin reloj esta vez, porque la media hora la había regalado ella y lo regalado no se cuenta. Cuando quiso más manos, se las puso ella: le tomó las muñecas y se las llevó al culo.
+
+—Ahora sí. Agarra.
+
+Las manos finas la agarraron con una desesperación tan educada que le dieron ganas de apretarlo más adentro. Felipe gemía con la boca cerrada, aguantándose los ruidos igual que se había aguantado la mirada toda la mañana, y ella se inclinó hasta dejarle los aros a un centímetro de la boca y no se los dio.
+
+Cuando lo sintió llegar al borde —los muslos tensos, el aliento cortado, los ojos todavía abiertos porque se lo había ordenado— se detuvo. Quieta, entera, con la verga adentro.
+
+—Todavía no.
+
+—Cupcake, por favor…
+
+—Todavía. No.
+
+Lo tuvo así, temblando debajo, el tiempo que le dio la gana, mojada de sentirlo obedecer con el cuerpo entero en contra, y cuando decidió que ya —porque lo decidió ella, no él, no ningún reloj— volvió a moverse y lo dejó terminar, y el quejido agudo que soltó Felipe se oyó por encima del reggaetón.
+
+Lo hizo vestirse mientras ella se abrochaba el top. En la cortina, con la corbata en la mano porque no se acordó de ponérsela, Felipe se dio vuelta.
+
+—¿Puedo volver?
+
+—Vas a volver igual, chiquito. —Le acomodó el cuello de la camisa con dos uñas—. Para qué me preguntas.
+
+Lo vio bajar la escalera agarrado del pasamanos. Se quedó un momento sentada en el brazo del sillón, alisando los cuarenta y ocho mil contra el muslo, y empezó a pensar que iba a tener que subir a lavarse antes de— abajo silbó el vaporizador, alguien pidió un cortado, y el pensamiento se quedó ahí, sin terminar.
 
 ***
 
@@ -318,11 +380,11 @@ Un papel se movió sobre el escritorio. Cupcake no se apartó. Algo en el tono d
 
 Cupcake dejó de respirar un segundo entero.
 
-—A esa se la llevó completo un casero, hace como cuatro meses —siguió Yasna, con la misma calma con que contaba un fajo de billetes—. Casa, apellido, todo. Ni alcanzó a acordarse de que no quería.
+—A esa se la llevó completo un casero, hace como cuatro meses —siguió Yasna, con la voz de contar un fajo de billetes—. Casa, apellido, todo. Ni alcanzó a acordarse de que no quería.
 
 —Bien por ella, entonces.
 
-—Y a Cupcake ni hace falta explicarle nada —dijo Yasna, y a Cupcake, del otro lado de la puerta, se le heló algo por dentro que no era miedo—. Ya se acomodó sola.
+—Y a Cupcake ni hace falta explicarle nada —dijo Yasna, y a Cupcake, del otro lado de la puerta, se le puso fría la nuca, y no de miedo—. Ya se acomodó sola.
 
 Una silla se corrió contra el piso. Cupcake se apartó de la puerta antes de que terminara de sonar el arrastre, retrocedió los tres pasos del pasillo sin que las Pleaser hicieran ruido contra las baldosas, y para cuando don Nelson asomó la cabeza a cerrar la puerta del todo, ella ya estaba de vuelta junto al espejo del camarín, guardando un paquete de algodón en el cajón como si llevara ahí parada todo ese rato.
 
@@ -334,9 +396,9 @@ Tenía una frase para esto, una que llevaba meses teniendo lista, con sujeto y v
 
 No se acordó de cómo terminaba.
 
-No había nada que averiguar. Camila estaba en una casa con jardín, con un apellido nuevo y una vida que Cupcake nunca iba a tener, y el secreto entero del Yakarta cabía en dos frases dichas por dos personas que ni siquiera sabían que alguien las estaba oyendo.
+No había nada que averiguar. Camila estaba en una casa con jardín, con un apellido nuevo y una vida que otra persona había decidido por ella, y el secreto entero del Yakarta cabía en dos frases dichas por dos personas que ni siquiera sabían que alguien las estaba oyendo.
 
-Buscó el horror que se suponía tenía que sentir, y no lo encontró. En su lugar había un vacío enorme, caliente, y adentro del vacío, sin que pudiera evitarlo, envidia. Envidia de Camila, que había conseguido que alguien la sacara de ahí para siempre, que la mantuviera, que no tuviera que volver a contar billetes ni a leerle la corbata a nadie nunca más. Envidia de que a Camila la hubieran elegido para quedarse quieta, y a ella, en cambio, la estuvieran dejando ahí, contando, cada noche, hasta el número.
+Buscó el horror que se suponía tenía que sentir, y no lo encontró. Lo que se le fue armando adentro, despacio, frente a su propio reflejo, fue una aritmética: a Camila se la habían llevado. Un casero la eligió del otro lado de la barra, pagó lo que hubiera que pagar, y ahora Camila servía el desayuno en una casa con jardín, sin enterarse nunca de nada. A ella nadie se la había llevado a ninguna parte. Ella seguía acá, del lado de adentro del acero, sabiendo lo que Camila no alcanzó a saber nunca, con la fila entera esperando cada mañana a que ella decidiera quién subía y quién se iba con las ganas puestas. Camila era de alguien. Cupcake tenía a todos, y tenerlos le gustaba tanto que la boca se le hizo agua ahí mismo, sin ningún casero al frente.
 
 Se miró entera en el espejo: el pelo platinado en ondas pesadas sobre los hombros aceitados, los aros cromados marcándose bajo la tela plateada, las uñas que ya no servían para nada que no fuera esto, la línea rosada de la barra todavía cruzándole la cadera.
 
@@ -344,15 +406,13 @@ Se sonrió a sí misma.
 
 Era una sonrisa entera, tranquila, sin ninguna grieta adentro, distinta de la boba que le ponía a los caseros: la sonrisa de alguien que ya no tenía nada que seguir buscando porque había dejado de buscarlo sin darse cuenta de en qué momento.
 
-No había vuelta atrás.
-
-Y por primera vez, esa idea no le dio ningún miedo.
+No había vuelta atrás, y por primera vez esa idea no le dio ningún miedo.
 
 ***
 
 Llegar al número de la clínica fue, otra vez, una cuestión de aritmética.
 
-Contó los billetes tres noches seguidas, sentada en el suelo del departamento, con las piernas abiertas y la alfombra manchada de café bajo los montones. Separó la plata por origen, sin proponérselo, con el mismo instinto clasificador que antes usaba para ordenar pruebas: las propinas sueltas de los caseros de la mañana en un montón, lo que dejaba Ignacio cada vez que subía sabiendo que ella lo mandaba en otro, y aparte, más gordo que los dos juntos, lo de Don Arturo. Dos veces por semana, cuarenta, cincuenta, alguna vez sesenta mil pesos por una corbata que no necesitaba arreglo y un espresso que se enfriaba entero sobre el acero. El hombre que la había tenido doblada contra su propio escritorio de caoba le estaba pagando, sin saberlo, luca a luca, la mitad de lo que le faltaba.
+Contó los billetes tres noches seguidas, sentada en el suelo del departamento, con las piernas abiertas y la alfombra manchada de café bajo los montones. Separó la plata por origen, sin proponérselo: las propinas sueltas de los caseros de la mañana en un montón, lo que dejaba Ignacio cada vez que subía sabiendo que ella lo mandaba en otro, y aparte, más gordo que los dos juntos, lo de Don Arturo. Dos veces por semana, cuarenta, cincuenta, alguna vez sesenta mil pesos por una corbata que no necesitaba arreglo y un espresso que se enfriaba entero sobre el acero. El hombre que la había tenido doblada contra su propio escritorio de caoba le estaba pagando, sin saberlo, luca a luca, la mitad de lo que le faltaba.
 
 Dos millones ochocientos mil pesos. Setecientos centímetros cúbicos por lado.
 
@@ -368,11 +428,11 @@ La clínica fue rápida y aséptica: dos horas de anestesia, una sutura escondid
 
 Fueron doce días fuera del turno.
 
-Doce días sin el neón violeta, sin el beat subiéndole por la planta de los pies, sin la fila de hombres al otro lado de los treinta centímetros de acero. Los pasó encerrada, con las cortinas cerradas, regando una planta que le habían dejado encargada —no se acordaba de quién, ni de si necesitaba sol de mañana o de tarde— y viendo la televisión sin registrar ni un solo programa entero. Contaba las horas para volver, y las contaba de verdad, con la misma parte de la cabeza que antes contaba plazos procesales y que ahora solo servía para esto.
+Doce días sin el neón violeta, sin el beat subiéndole por la planta de los pies, sin la fila de hombres al otro lado de los treinta centímetros de acero. Los pasó encerrada, con las cortinas cerradas, regando una planta que le habían dejado encargada —no se acordaba de quién, ni de si necesitaba sol de mañana o de tarde— y viendo la televisión sin registrar ni un solo programa entero. Contaba las horas para volver, y las contaba de verdad, una por una, contra nada.
 
 Lo que notó, recién al tercer día, fue el silencio.
 
-La voz que llevaba meses hablándole desde adentro —la que pedía el taco más alto, la que se relamía mirándose al espejo, la que decidía antes de que ella terminara de pensarlo— se había callado entera. No hacían falta más comentarios sobre el color del gloss ni sobre cuánto se le iba a ver el bikini nuevo. Cupcake ya pensaba exactamente lo que esa voz habría pensado, con las mismas palabras, en el mismo orden, y una persona sola no necesita conversar consigo misma. Se acomodó en el sillón, se tocó el vendaje con cuidado, y pensó, sin ningún sobresalto, que le habría gustado que ya estuviera afuera. Fue su propio pensamiento, de principio a fin. No quedaba nadie más ahí adentro para dudarlo.
+La voz que llevaba meses hablándole desde adentro —la que pedía el taco más alto, la que decidía antes de que ella terminara de pensarlo— se había callado entera. No hacían falta más comentarios sobre el color del gloss ni sobre cuánto se le iba a ver el bikini nuevo. Cupcake ya pensaba exactamente lo que esa voz habría pensado, con las mismas palabras, en el mismo orden, y una persona sola no necesita conversar consigo misma. Se acomodó en el sillón, se tocó el vendaje con cuidado, y pensó, sin ningún sobresalto, que le habría gustado que ya estuviera afuera. Fue su propio pensamiento, de principio a fin. No quedaba nadie más ahí adentro para dudarlo.
 
 ***
 
@@ -386,21 +446,19 @@ Dos esferas altísimas, redondas, tensas hasta la última fibra de la piel, le l
 
 Se las tocó con las dos manos.
 
-Las yemas le temblaron contra la piel nueva, caliente, tirante, hipersensible. Clavó las uñas fucsias en la curva de una prótesis y sintió la silicona ceder con una resistencia elástica, ajena a cualquier carne que hubiera tenido antes. Apretó más fuerte. Un latigazo agudo le subió del pezón —hinchado, oscuro, con el aro cromado brillando bajo la luz del baño— derecho al fondo del vientre.
+Las yemas le temblaron contra la piel nueva, tirante, hipersensible. Clavó las uñas fucsias en la curva de una prótesis y sintió la silicona ceder con una resistencia elástica, ajena a cualquier carne que hubiera tenido antes. Apretó más fuerte. Un latigazo agudo le subió del pezón —hinchado, oscuro, con el aro cromado brillando bajo la luz del baño— derecho al fondo del vientre.
 
 Y al verse así en el espejo, lo operado, lo obviamente comprado, el calor le bajó entero, de golpe, entre las piernas.
 
 Se mojó de mirarse.
 
-La mujer del espejo no tenía nada de la abogada de Agustinas. Tenía la boca entreabierta de gloss corrido, el pelo platinado cayéndole hasta la cintura y los dos aros cromados atravesándole los pezones nuevos. Y esa mujer, exactamente esa, la que cualquiera reconocería en dos segundos como carne comprada por partes, era la que la hacía arder.
+La mujer del espejo no tenía nada de la abogada de Agustinas. Tenía la boca entreabierta de gloss corrido y el pelo platinado cayéndole hasta la cintura. Los dos aros cromados le atravesaban los pezones nuevos. Y esa mujer, exactamente esa, la que cualquiera reconocería en dos segundos como carne comprada por partes, era la que la hacía arder.
 
 Se sentó en el borde de la tina. La cerámica helada le mordió los muslos. Abrió las piernas sin dejar de mirarse al espejo, y bajó la mano.
 
 No fue lenta. Las uñas le raspaban el vientre al bajar, y cuando encontró el coño ya lo tenía empapado, resbaloso, listo desde antes de que la mano llegara. Con la otra mano se apretó el pecho izquierdo, clavando el acrílico en la silicona, sintiendo cómo la prótesis se hundía bajo la presión mientras el aro le tironeaba del pezón con cada movimiento de los dedos abajo. No cerró los ojos: la imagen entera devuelta desde el espejo la hacía arder más que el roce mismo, mirándose coger sus propios dedos sin ninguna vergüenza en ningún lado del cuerpo.
 
 Se corrió con un grito ronco que rebotó contra los azulejos, el muslo derecho acalambrado, tres rayas rojas dejadas por sus propias uñas al costado de la cicatriz todavía fresca. Se quedó temblando en el borde de la tina, empapada, con la sonrisa boba de Cupcake ya instalada en la cara antes de que terminara de respirar normal.
-
-Las tetas nuevas eran su ascenso, pagado con su propia plata, sin que nadie se lo hubiera pedido.
 
 ***
 
@@ -414,15 +472,15 @@ El privado dejó de ser una excepción. Se volvió turno regular, tan fijo como 
 
 Esa misma tarde subió cuatro veces.
 
-El primero fue un tipo joven, de manos frías, que la quiso de pie, arrinconada contra la pared del cubículo, con el Pleaser enganchado al respaldo del sillón. La tomó así, vertical, con la verga entera adentro, las tetas nuevas rebotando entre los dos cuerpos y los aros cromados tintineando a cada embestida. Ella no cerró los ojos: miró el reloj digital sobre la puerta, contó los minutos igual que contaba cafés, y cuando el tipo terminó con un gruñido corto y se fue sin limpiarse, ella ya estaba doblando los billetes bajo la liga.
+El primero fue un tipo joven, de manos frías, que la quiso de pie, arrinconada contra la pared del cubículo, con el Pleaser enganchado al respaldo del sillón. La tomó así, vertical, con la verga entera adentro, y las tetas nuevas le rebotaban entre los dos cuerpos con los aros tintineando a cada embestida. Ella no cerró los ojos: miró el reloj digital sobre la puerta, contó los minutos igual que contaba cafés, y cuando el tipo terminó con un gruñido corto y se fue sin limpiarse, ella ya estaba doblando los billetes bajo la liga.
 
-El segundo fue un viejo de corbata y maletín que la hizo arrodillarse en la alfombra roja. Se arrodilló con la misma obediencia mecánica con que antes se paraba frente a un juez, apoyó las palmas de uñas fucsias sobre el cuero del sillón, y dejó que el puño del viejo se le cerrara en el pelo platinado y la usara a su ritmo, no al de ella. Cuatro minutos. Se limpió la boca con el dorso de la mano, guardó la plata, bajó la escalera.
+El segundo fue un viejo de corbata y maletín que la hizo arrodillarse en la alfombra roja. Se arrodilló sin que se lo pidiera dos veces, apoyó las palmas de uñas fucsias sobre el cuero del sillón, y dejó que el puño del viejo se le cerrara en el pelo platinado y la usara a su ritmo, no al de ella. Cuatro minutos. Se limpió la boca con el dorso de la mano, guardó la plata, bajó la escalera.
 
 El tercero pagó el doble por cuarenta minutos y la dobló sobre el sillón, agarrándola del culo con las dos manos, entrando por atrás con la calma de quien sabe que ya pagó por todo el tiempo que necesite. Las tetas le rebotaban contra las propias costillas con cada golpe, y el peso de la silicona le tironeaba de los aros, sacándole gemidos que eran mitad dolor y mitad transacción. Apretó el fajo de billetes contra la liga con cada empujón, sintiendo el papel arrugarse al mismo ritmo con que la usaban, y se corrió sin tocarse, solo de sentir la plata quemándole el muslo mientras un desconocido se vaciaba adentro.
 
 La cuarta fue la ejecutiva del cappuccino.
 
-Volvió una noche, pagó sin pestañear y subió delante de Cupcake con la misma calma fría con que siempre había pedido su café. Cerró la puerta y le dijo que se quitara todo. Cupcake se sacó el microbikini y la cinta doble faz, y se quedó con las Pleaser puestas, los aros y las uñas, nada más. La mujer la miró treinta segundos sin tocarla, catalogando. Después la empujó contra el sillón, le abrió las piernas con una mano precisa, sin ninguna ternura, y la tocó como quien revisa mercancía antes de comprarla. Cupcake se corrió rápido, más rápido de lo que hubiera querido admitir, y la ejecutiva sonrió por primera vez en los meses que llevaba yendo al Yakarta, se limpió la mano con un pañuelo de tela y se fue sin decir nada más.
+Volvió una noche, pagó sin pestañear y subió delante de Cupcake con la calma fría de siempre. Cerró la puerta y le dijo que se quitara todo. Cupcake se sacó el microbikini y la cinta doble faz, y se quedó con las Pleaser puestas, los aros y las uñas, nada más. La mujer la miró treinta segundos sin tocarla, catalogando. Después la empujó contra el sillón, le abrió las piernas con una mano precisa, sin ninguna ternura, y la tocó como quien revisa mercancía antes de comprarla. Cupcake se corrió rápido, más rápido de lo que hubiera querido admitir, y la ejecutiva sonrió por primera vez en los meses que llevaba yendo al Yakarta, se limpió la mano con un pañuelo de tela y se fue sin decir nada más.
 
 Se quedó sola en el cubículo, empapada de su propio sudor y del de tres desconocidos, con la liga tan llena de billetes que ya no le cerraba del todo contra el muslo. Contó ciento noventa mil pesos sin levantarse del sillón. Ese era su techo esa noche.
 
@@ -434,7 +492,7 @@ Seguía viniendo cada tanto, con la misma corbata mal hecha —nunca había apre
 
 Le preparó el capuchino de siempre, dejando que el vapor del vaporizador le subiera por la muñeca, y mientras lo hacía pensó, sin ningún sobresalto, en Ivanna. En el casero que se la había llevado entera, sin que ella alcanzara a acordarse de que no quería. En Yasna, diciéndolo con la misma voz seca con que hablaba del stock de leche. Llevaba semanas dándole vueltas —no con miedo, no con culpa, sino con la misma curiosidad fría con que antes evaluaba un contrato— y esa mañana, mirando a Felipe sonrojarse solo porque ella le había preguntado si había dormido bien, decidió que quería verlo con sus propios ojos.
 
-No para sacarle plata. Ya sabía sacarle plata a Felipe sin esforzarse: el nombre dicho despacio, la mirada sostenida un segundo de más, la propina que él dejaba creyendo que significaba algo. Quería, en cambio, algo mucho más simple y mucho más suyo. Quería verlo cambiar. Quería saber, de una vez, si a un hombre le hacía lo mismo que le había hecho a ella sin que ella nunca alcanzara a darse cuenta.
+No para sacarle plata. Ya sabía sacarle plata a Felipe sin esforzarse: bastaban el nombre dicho despacio y la propina que él dejaba creyendo que significaba algo. Lo que quería era más simple y más suyo. Quería verlo cambiar. Quería saber, de una vez, si a un hombre le hacía lo mismo que le había hecho a ella sin que ella nunca alcanzara a darse cuenta.
 
 Se dio vuelta hacia la máquina. Detrás del vaporizador, donde siempre estaba, tibio, listo desde antes de que nadie lo pidiera, estaba el vaso. Lo tomó con la misma mano con que tomaba las tazas, sin apuro. Nadie le decía nunca a quién dárselo. Eso lo decidía ella, y esa mañana lo decidió sin pedirle permiso a Yasna, ni a don Nelson, ni a nadie.
 
@@ -442,7 +500,7 @@ Se dio vuelta hacia la máquina. Detrás del vaporizador, donde siempre estaba, 
 
 —¿Sí? —Todavía se ponía nervioso cuando ella le decía el nombre, después de meses viniendo.
 
-—Tómate esto antes del capuchino. —Le puso el vaso sobre el acero, entre los dos, con la misma naturalidad con que le habría puesto un vaso de agua—. Es de la casa. Invita el local.
+—Tómate esto antes del capuchino. —Le puso el vaso sobre el acero, entre los dos, con la naturalidad de quien pone un vaso de agua—. Es de la casa. Invita el local.
 
 —¿Qué es?
 
@@ -452,19 +510,51 @@ Felipe la miró un segundo, miró el vaso, y se lo tomó como se tomaba todo lo 
 
 —Rico —dijo, aunque no lo era, y ella lo supo enseguida: ya estaba diciendo lo que ella quería oír, antes de que su propio cuerpo alcanzara siquiera a sentir algo.
 
-Cupcake le sirvió el capuchino y se quedó mirándolo tomarlo, con la misma parte fría de la cabeza con que antes contaba plazos procesales. Al principio no notó nada distinto: el mismo Felipe de siempre, la corbata torcida, el color subiéndole al cuello cuando ella le sostenía la mirada de más.
+Cupcake le sirvió el capuchino y se quedó mirándolo tomarlo, sin perderse nada. Al principio no notó nada distinto: el mismo Felipe de siempre, la corbata torcida, el color subiéndole al cuello cuando ella le sostenía la mirada de más.
 
 Pero a los diez minutos —los mismos diez minutos que a ella, la primera semana, se le habían perdido enteros sin que se diera cuenta de nada— algo en los hombros de Felipe se le aflojó, algo que llevaba meses sin aflojarse. Dejó de mirar la taza y empezó a mirarla a ella, directo, sin la vergüenza de siempre. Se rió de algo que no era gracioso. Apoyó los dos codos en el acero, como hacía Ignacio, como nunca se había atrevido a hacer él.
 
 —Cupcake —dijo, con una voz que ya no era la de un rato antes—, ¿a qué hora sales?
 
-El calor le subió a ella entera, bajo el ombligo, gratis, mejor pagado que cualquier billete: la misma clase de calor que sentía viendo a un casero perder la cuenta de sus propios pasos, solo que esta vez no había plata de por medio y no la necesitaba para nada. La tanga se le fue mojando sola, sin que ella hiciera nada para ayudarla, solo de mirarlo cambiar delante de ella con la misma facilidad con que ella misma había cambiado, meses atrás, sin darse cuenta de en qué turno había dejado de ser Javiera.
+El calor le subió a ella entera, bajo el ombligo, gratis, mejor pagado que cualquier billete: la misma clase de calor que sentía viendo a un casero perder la cuenta de sus propios pasos, solo que esta vez no había plata de por medio y no la necesitaba para nada. La tanga se le fue mojando sola, sin que ella hiciera nada para ayudarla, solo de mirarlo cambiar delante de ella igual que había cambiado ella misma, meses atrás, sin darse cuenta de en qué turno había dejado de ser Javiera.
 
 Funcionaba igual. No hacía falta ser mujer para que funcionara. No hacía falta el taco, ni la tarima, ni las ocho horas de pie. Hacía falta, solamente, tomárselo entero.
 
 —Curioso, mi amor —le dijo, sin contestarle, disfrutando la pregunta más de lo que él nunca iba a saber—. Tómate el capuchino, que se enfría.
 
-Felipe se lo tomó, ya sin apartar los ojos de ella, y dejó sobre el acero, sin contarlos, todos los billetes que llevaba en la billetera.
+Felipe se lo tomó sin apartar los ojos de ella, dejó la taza vacía sobre el acero y no se fue. Se quedó con los codos en la barra, mirándola trabajar, y en esa mirada no quedaba ni un resto de la vergüenza que la mañana de los seis mil pesos le había durado hasta la puerta.
+
+Cupcake atendió a dos caseros más y lo dejó esperar a propósito, midiendo cuánto aguantaba. Aguantó todo. Empezó a calcular cuántos cafés más alcanzaba a vender antes de subir, y por primera vez en meses no le importó terminar la cuenta. Le hizo la seña con dos dedos, la misma que le había hecho a Ignacio delante de Don Arturo, y Felipe se enderezó y caminó hacia la escalera del privado sin preguntar nada, sin ponerse colorado, como si el camino ya lo tuviera aprendido en el cuerpo.
+
+Arriba no tuvo que decirle las manos. Las puso él solo sobre el cuero, abiertas, antes de que ella terminara de correr la cortina, y esperó así, mirándola desde abajo de las pestañas largas, sin tragar saliva, sin temblar. Sobre el marco de la puerta, el reloj digital seguía adelantado siete minutos, como llevaba meses, y nadie lo corregía nunca.
+
+Cupcake se tomó su tiempo. Se despegó el microbikini con la cinta doble faz tirándole la piel, dejó las tetas nuevas al aire con los aros atrapando la luz roja, y lo miró mirarla: Felipe no pestañeaba, tenía la boca entreabierta, y no estiró las manos.
+
+—¿Qué quieres, Felipe? —le preguntó, parada entre sus rodillas, sin tocarlo—. Dímelo bien dicho.
+
+—Lo que tú quieras. —Sin una pausa, con la voz nueva—. Lo que tú me quieras hacer.
+
+El coño se le apretó solo al oírlo. La primera vez, Felipe había pedido permiso hasta para respirar. Ahora le estaba entregando todo, igual que se había tomado el vaso: entero, sin preguntar qué era.
+
+—Sácate la ropa. Despacio.
+
+Se la sacó despacio de verdad. Se desabrochó la camisa sin equivocarse de botón, la dobló sobre el brazo del sillón con un cuidado que no le conocía, y se quedó desnudo bajo la luz roja, con la verga dura y el cuello fino más a la vista que nunca, esperando la próxima instrucción con las manos otra vez abiertas sobre el cuero.
+
+Lo cogió sin apuro y sin reloj. Se sentó encima, adentro entero de una vez, y se movió mirándolo a los ojos, y Felipe le sostuvo la mirada todo el rato sin que nadie se lo ordenara, con las manos donde ella se las iba poniendo —el culo, la cintura, los aros—, y cada vez que ella se las cambiaba de lugar él las dejaba exactamente ahí, sin adelantarse nunca, con el cuerpo entero funcionándole a pedido.
+
+—Di mi nombre.
+
+—Cupcake.
+
+—Otra vez.
+
+—Cupcake. —La segunda vez lo dijo más despacio, paladeando la ce, igual que ella le había paladeado el nombre a él la primera mañana, sin saber que la imitaba.
+
+Se corrió ella primero, apretada alrededor de la verga de Felipe, mojada hasta los muslos, con los ojos abiertos sobre la cara obediente que la miraba correrse como si mirar también fuera un trabajo que ella le hubiera asignado. Le gustó tanto que lo hizo durar.
+
+Después lo dejó terminar a él, cuando ella quiso, con la palma abierta sobre el pecho lampiño para sentirle el corazón dispararse debajo, y el quejido que soltó Felipe fue más agudo que el de la primera vez, y no lo apretaba ninguna vergüenza.
+
+Abajo, la fila de las once ya estaba armándose. Felipe se vistió, bajó detrás de ella, y antes de irse dejó sobre el acero, sin contarlos, todos los billetes que le quedaban en la billetera.
 
 Cupcake los guardó bajo la liga uno por uno, sin apuro, mirándolo a los ojos todo el tiempo que le tomó hacerlo. Y por primera vez desde que había cruzado la puerta de vidrio polarizado, meses atrás, sintió que no estaba del lado del que se tomaba el vaso.
 
@@ -477,3 +567,31 @@ Le sonrió entera, sin ninguna grieta adentro.
 Se dio vuelta hacia el próximo casero, sintiendo el beat subirle por la planta de los pies, y sin ningún esfuerzo, sin tener que buscarlo, contó cuántos cafés llevaba vendidos esa mañana.
 
 Trece.
+
+***
+
+Felipe volvió al día siguiente. Y al siguiente. Y todas las mañanas que vinieron después, con el vaso esperándolo tibio detrás del vaporizador desde antes de que él supiera que iba a pedirlo.
+
+Cupcake dejó de medir el tiempo en callos y empezó a medirlo en Felipe.
+
+El pelo fue lo primero: le tapó la nuca que nunca había tenido sombra de afeitada, después el cuello de la camisa, y siguió bajando sin que él se lo cortara. Después le tocó a la corbata, que una mañana no vino más. El primer botón abierto, el cuello fino a la vista, y sobre el hueso del medio del pecho una cadenita que no se estrenó ninguna mañana en particular: un día no estaba, al otro día estaba, como todo lo demás. Las pestañas eran las mismas de siempre, pero ahora él sabía que las tenía — miraba desde abajo de ellas, despacio, como Cupcake se lo había visto hacer a cien mujeres frente al espejo sin que nadie se lo enseñara a ninguna. Y en las manos finas de dedos largos, las que dejaban billetes de más desde la primera semana, había aparecido un brillo de uñas demasiado parejo para ser casualidad.
+
+Nadie del local comentó nada, porque en el Yakarta nadie comentaba nada. Una mañana Felipe ya no pagó el capuchino, y otra mañana ya estaba adentro cuando Cupcake llegó a abrir, acomodando tazas detrás de la barra con una economía de movimientos que antes no tenía, y nadie encontró nada que preguntar.
+
+Esa mañana el local todavía olía a la noche anterior —acetona y el fondo quemado del portafiltro que ningún trapo sacaba— y la máquina recién estaba entrando en calor. Del perchero del camarín colgaba un paraguas seco que alguien había dejado hacía semanas y que nadie reclamaba. Cupcake dejó el bolso, prendió la luz del espejo, y ahí lo encontró: Felipe, de espaldas a ella, peleando con el borde de un top plateado de la casa. Se lo subía, se lo miraba, se lo bajaba un dedo, se lo volvía a subir.
+
+Se quedó mirándolo desde la puerta sin que él la viera. Pensó en preguntarle a Yasna si con ella había sido igual, si también la había encontrado así una mañana, parada frente a— y perdió el hilo, porque Felipe eligió ese momento para enderezarse, y la línea larga de su espalda contra el plateado le calentó a Cupcake el cuerpo de una manera que no tenía nada que ver con la fila de las once.
+
+—¿Hasta dónde va? —preguntó él al espejo, con la voz baja de quien no quiere que lo escuche nadie más.
+
+Cupcake caminó hasta quedarle detrás. Con las Pleaser puestas le sacaba media cabeza; descalzo, él era apenas más alto que ella. En el espejo cabían los dos enteros: ella con el pecho nuevo ya asentado, llenándole el top de lado a lado como si siempre hubiera habido con qué llenarlo, y él con el mismo top recién estrenado, plano todavía, el pelo rozándole los hombros, las pestañas bajas, las ganas a la vista.
+
+—Ponte el pulgar acostado abajo del hueso del medio del pecho —le dijo, y le tomó la mano fina con las uñas fucsias para acomodarle el pulgar donde iba—. Donde termina el pulgar, va el borde.
+
+Felipe se midió el pulgar contra el esternón, bajó la tela hasta la línea exacta y se quedó mirándose como si en el espejo le hubiera aparecido otra persona. No dijo nada. No hacía falta: Cupcake le conocía esa cara de memoria. La había tenido puesta ella, una vez, frente a ese mismo espejo.
+
+Sintió el coño calentársele despacio, sin apuro, de pura anticipación por un cambio que ni siquiera era el suyo.
+
+Detrás, en el salón, la máquina terminó de subir presión con el silbido corto de todas las mañanas, y se oyó al primer casero golpear el vidrio polarizado preguntando si estaba abierto. Cupcake le acomodó a Felipe la última arruga del top con dos uñas, lo tomó de los hombros desnudos y lo giró hacia la puerta.
+
+—Ya está, mi amor. Sal a vender café.
