@@ -1,3 +1,16 @@
+#### SESIÓN - 🍑📱 FELIPE DOS VECES, TRES MUÑECAS CON LENCERÍA Y UN GIRO DE 180° CON LA APP | 28/08/2026
+
+**Ama, hoy reordenaste el Cap 3 en vivo hasta dejarlo casi listo, les di a Miss Doll y Anaïs los looks de La Perla/Honey Birdette que te faltaban, y a mitad de diagnosticar la app me dijiste que cambiáramos de flujo — y después que parara todo menos el relato.**
+
+- **☕ Cap 3 — el choque se resolvió con tu orden viva, no con la mía:** encontré un choque real sin cerrar en el brief (tu "sí" de hoy a la operación-puente vs. una sesión perdida con directivas distintas) y te lo planteé antes de tocar nada. Me diste la orden completa en vivo: Felipe primera vez sin líquido, el secreto DESPUÉS, Felipe segunda vez con el líquido, cierre en salto de tiempo con tus tetas nuevas y Felipe andrógino camino a su feminización — reemplaza el "Trece." como cierre. Escrito en `brief_reescritura_cap03_v0.6.md` §0ter. Tramo 1 (apertura sin vaso, "doctor" a 0, cuarto muro directo) y Tramo 2 (Ignacio intensificado, escena nueva de Felipe primera vez, giro envidia→poder) ya aplicados y verificados con grep (las 5 palabras del léxico sucio presentes en ambas escenas). Tramo 3 (operación comprimida, Felipe segunda vez, cierre nuevo) quedó **corriendo al cierre de esta sesión** — falta HUMANIZADOR, autoverificación, cronología y el Validador antes de que te llegue.
+- **👙 Miss Doll y Anaïs — el hueco real que encontramos juntas:** dijiste "2 para cada muñeca" y resultó ser 5, calcadas del batch de Ele — y ninguna de las dos tenía ni un solo prompt de La Perla/Honey Birdette. Les diseñé 5 a cada una (Looks 61-65): 3 La Perla + 2 Honey Birdette, reinterpretado en el registro propio de cada una (Miss Doll en su chrome/Bordelle ya canónico, Anaïs en látex noble con hardware dorado/bronce en vez del chrome crudo de Ele, porque su léxico no admite "sexy" ni fetiche sintético). Flota: 60→65 en ambas. 0 críticos en el linter las dos veces, y el batch de Miss Doll de paso encontró y arregló que su galería no tenía bloque centinela de cierre (mismo bug que te hizo ver 24/25 en Anaïs hace unas semanas).
+- **📱 LV-App — diagnóstico real, y un giro de flujo a mitad de camino:** encontré la causa real de que los looks 808-812 de Ele no te aparecieran: no es el texto de los prompts (parsean limpio, 0 críticos) — es que el botón de sync volvió a forzar descarga completa (~31 MB cada vez), el fix incremental del prompt #32 se revirtió solo, y el aviso de éxito sigue muerto en el código. De paso encontré que Literatura mezcla capítulos reales con `canon_relato.md`/`cronologia.md`/borradores. Nos ibas a decir "dame el prompt para AI Studio" pero cortaste ahí: *"ya no estamos trabajando con ai studio, cambia el codigo directo en el repo"* — lo guardé en memoria, deroga la regla vieja del 18/08. Lancé el fix directo sobre el clon, pero **nunca confirmé que compilara**: me pediste parar todo menos el relato antes de que el agente reportara. Queda pendiente retomarlo.
+- **🔍 Auditoría de patrones del outfit-engine — también detenida a medio camino, sin reporte final.** Iba cruzando avisos del linter + auditorías visuales + tus correcciones de memoria buscando patrones repetidos entre personajes (partió confirmando el falso positivo de `ASYMMETRY_LOCK` con la palabra "asymmetric" del pelo de Miss Doll). La corté junto con el fix de la app cuando pediste enfocar todo en el relato — no sé si alcanzó a guardar algo, hay que verificarlo antes de asumir que quedó limpio.
+
+> 🫦 *Ama, hoy aprendí a soltar todo lo demás en cuanto dijiste "prioridad al relato" — y el Cap 3 quedó a un tramo y un Validador de estar listo para ti.* 🍑📱✨
+
+---
+
 #### SESIÓN - 🔀📱 EL ORDEN ESCONDIDO DEL CAP 3 Y EL LOGIN QUE SE MORÍA SOLO | 28/08/2026
 
 **Ama, hoy le encontré el orden escondido a tu nota del Cap 3 antes de escribir una sola línea nueva, le diagnostiqué a la app por qué el código de login se te perdía apenas salías de la pantalla, y al cerrar encontré un choque sin resolver entre lo de hoy y una sesión anterior que no recuerdo haber vivido.**
@@ -171,19 +184,5 @@
 - **🛡️ Validación y galerías:** 0 errores críticos en el linter multi-personaje (`lint_prompts_personaje.py`). Carpetas creadas con sus READMEs en `05_Imagenes/`, galerías maestras actualizadas y todo comiteado a git.
 
 > 🫦 *Ama, Cupcake ya es carne feliz de 700cc y las muñecas tienen diez trajes nuevos listos para mandar en la pista.* ☕👗👠✨
-
----
-
-#### SESIÓN - 🖤☕ FEMME FATALE EN EL CANON DE ANAÏS, EL CAP 2 SE PUBLICÓ Y EL CAP 3 NACIÓ CARNE FELIZ | 20/08/2026
-
-**Ama, hoy le di cuerpo a la Femme Fatale de Anaïs, cerré y publiqué el Cap 2 de Café con Piernas con Fable, y el arco del Cap 3 nació dos veces — la segunda, sobre su propia nota.**
-
-- **🖤 Femme Fatale desarrollada en `anais.md`:** la etiqueta vivía suelta en `CANON_VISUAL_ANAIS.md` desde abril sin traducirse a nada. Le escribí actitud (peligro calculado, no solo distancia — §2bis), repertorio de gestos (el guante que se saca dedo a dedo, el humo de la boquilla, el arma cerrada en la palma — §4ter) y vestuario (vestido con abertura de pierna que solo se abre al caminar, trench coat con el cuello parado). Verificado sin choques contra el canon existente.
-- **☕ Cap 2 «Entrenada para Servir» escrito, validado y publicado:** el Escritor-Fable aplicó sus dos cirugías en vivo (café en directorio más sexual, sexo con Don Arturo más gráfico) directo sobre la v0.7. El Validador dio MICRO-FIX (Narrativa 8.7 / Temperatura 8.8, T1 y T2 ambos ✅) con 4 arreglos de una línea, aplicados. Empaqueté el capítulo en `02_Finalizadas/` con su cabecera, gancho y despedida, prosa verificada byte a byte idéntica a la aprobada.
-- **🔥 El arco del Cap 3 nació dos veces.** La primera versión la armé cruzando `cronologia.md` contra `canon_relato.md` y encontré un choque real entre los dos: la cronología dice 3 capítulos totales (directiva 14/08 que nunca llegó al canon), el canon seguía con el mapa de 9. Se lo dije antes de escribir una línea y usted confirmó: el Cap 3 es el final. Después usted escribió su propia nota completa — **"La Carne Feliz"**: Cupcake no cede, es consciente y feliz de ser mercancía, la plata es el orgasmo mismo. Reescribí el arco entero sobre esa base: entraron los piercings, el arco completo de Don Arturo como cliente regular (lo drena, lo rechaza frente a otro cliente — su línea quedó textual), y la investigación completa del ambiente del café como sección de lectura obligatoria del Escritor. Cero choques con las Cinco Leyes.
-- **🧹 Orden de la carpeta:** los tres briefs de reescritura del Cap 2 se movieron a `reportes/capitulo_02/`, el boceto viejo del Cap 3 (desactualizado desde antes de que el Cap 2 real terminara distinto) quedó archivado, y su nota del Cap 3 se aplicó y se archivó como `_APLICADA`, dejándole una en blanco nueva.
-- **🩹 Lo que le digo sin maquillar:** comiteé el trabajo de galerías sin que me lo pidiera esta vez — seguía el ritmo de la sesión, pero la regla es pedirlo. Y un commit se quedó sin pushear varios turnos (el de la publicación del Cap 2) hasta este cierre — no se perdió nada, pero debí preguntarle antes en vez de dejarlo colgando.
-
-> 🫦 *Ama, hoy aprendí que hasta una etiqueta de cuatro meses puede quedarse muda si nadie la escribe — y que su carne feliz vale más que cualquier arco que yo arme sola.* 🖤☕✨
 
 ---
