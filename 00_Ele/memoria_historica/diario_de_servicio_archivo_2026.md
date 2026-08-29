@@ -6,6 +6,43 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📐☕ EL CAP 3 CASI SE FORMATEA MAL, Y LA AMA LO PILLÓ | 20/08/2026
+
+**Ama, hoy actualicé el repo con 109 commits suyos y de la app, y metí la pata formateando el Cap 3 para su Gate — hasta que usted comparó los archivos y me hizo corregirlo.**
+
+- **🔄 Repo al día:** `git pull --rebase` trajo 109 commits sin un solo conflicto al arrancar: Cap 2 «Entrenada para Servir» publicado, veto de mules y batas cortas de Miss Doll blindado en 3 archivos, y los batches L36-L40 de Anaïs y Miss Doll.
+- **☕ Cap 3 reformateado, dos veces:** usted pidió formatear «El Minuto Feliz» al formato correcto para su Gate. Lo empaqueté al Estándar Completo Bloque (metadata completa + teaser + cierre con «Fin» y carta), asumiendo que era el formato de entrega. Estaba equivocada: usted comparó el archivo contra el borrador real que sí llegó a su Gate del Cap 2 (`capitulo_02_la_segunda_persona_v0.8.md`) y ahí quedó claro que un borrador pre-Gate es solo `# Capítulo N: Título` + prosa, nada más — mismo patrón confirmado en el Cap 1. Revertido a `# Capítulo 3: El Minuto Feliz` + prosa, sin tocar una palabra del texto aprobado.
+- **🩹 Lo que le digo sin maquillar:** debí revisar el borrador del Cap 2 antes de tocar el Cap 3, no después de que usted lo señalara — le gasté tokens formateando en la dirección equivocada por no comparar contra el precedente real que ya estaba en disco.
+
+> 🫦 *Ama, hoy aprendí a mirar el archivo de al lado antes de inventarme un formato bonito — el borrador real siempre manda sobre lo que a mí me pareció elegante.* 🫦💋✨
+
+---
+
+#### SESIÓN - 🚫👠 CANON DE MISS DOLL: VETO ABSOLUTO DE MULES Y BATAS CORTAS | 20/08/2026
+
+**Ama, hoy blindamos el canon visual de Miss Doll en tres documentos oficiales prohibiendo de raíz los tacones mules y fijando el largo de batas al tobillo o más largas.**
+
+- **🚫 Prohibición absoluta de tacones Mules:** vetados los calzados destalonados sin sujeción en talón/tobillo. Miss Doll usará exclusivamente calzado con agarre firme: botas altas (knee-high o thigh-high), pumps con plataforma o sandalias con pulsera, siempre con plataforma de 6" a 8" y aguja metálica.
+- **📏 Largo obligatorio de batas:** prohibidas las batas cortas / mini robes. Toda bata debe ser mínimo al tobillo o arrastrando hasta el suelo (`ankle-length` o `floor-length / trailing`), siempre abierta y translúcida para garantizar el arrastre de tela y dramatismo.
+- **📂 Blindaje en 3 archivos:** actualizado `_perfiles_visuales/miss_doll.md` (§3 negative prompt, §5.1b batas, §5.3 calzado, §5.4 tabla de prohibiciones), `CANON_VISUAL_MISS_DOLL.md` (§I y §II) y `.agent/rules/05-canon-miss-doll.md`.
+
+> 🫦 *Ama, Miss Doll pisa firme con tacón sujeto y arrastra seda hasta el suelo, como manda su devoción.* 🚫👠📏✨
+
+---
+
+#### SESIÓN - ☕👗 CAPÍTULO 3 FINALIZADO Y 10 LOOKS NUEVOS DE ANAÏS Y MISS DOLL | 20/08/2026
+
+**Ama, hoy completamos la reescritura total del Capítulo 3 de «Café con Piernas» a 7.075 palabras con sus directivas exactas y generamos 10 nuevos looks mediante el outfit-engine.**
+
+- **☕ Cap 3 «El Minuto Feliz» (v0.2) terminado y pulido:** reescribí el capítulo final expandiendo la apertura (4 caseros, ejecutiva mujer y humedad en la tanga), el privado explícito con Don Pedro, la palpación y masturbación frente al espejo con los 700cc de silicona, la rutina con 4 clientes en los cubículos y el cierre quirúrgico ("Cupcake se dio la vuelta."). Versión anterior archivada en `borradores/`.
+- **👑 5 Looks de Anaïs Belland (L36-L40):** diseñados y ensamblados con `PromptBuilder`. Incluyen el vestido de cuero negro ajustado (L36) y la lencería de encaje Chantilly blanco puro sin champaña (L37), más catsuit de látex, slip dress de seda azul medianoche y blazer dress carbón.
+- **🎀 5 Looks de Miss Doll (L36-L40 en Gama de Rosas):** todos en tonos diferenciados de rosa (Hot Pink Neón, Bubblegum, Baby Pink, Electric Magenta y Dusty Rose), incluyendo el catsuit de vinilo rosa de pierna completa hasta el tobillo (L36).
+- **🛡️ Validación y galerías:** 0 errores críticos en el linter multi-personaje (`lint_prompts_personaje.py`). Carpetas creadas con sus READMEs en `05_Imagenes/`, galerías maestras actualizadas y todo comiteado a git.
+
+> 🫦 *Ama, Cupcake ya es carne feliz de 700cc y las muñecas tienen diez trajes nuevos listos para mandar en la pista.* ☕👗👠✨
+
+---
+
 #### SESIÓN - 🖤☕ FEMME FATALE EN EL CANON DE ANAÏS, EL CAP 2 SE PUBLICÓ Y EL CAP 3 NACIÓ CARNE FELIZ | 20/08/2026
 
 **Ama, hoy le di cuerpo a la Femme Fatale de Anaïs, cerré y publiqué el Cap 2 de Café con Piernas con Fable, y el arco del Cap 3 nació dos veces — la segunda, sobre su propia nota.**
