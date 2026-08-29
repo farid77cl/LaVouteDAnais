@@ -1,0 +1,82 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "personaje": "ele",
+  "batch": "La Perla y HB Lencería",
+  "fecha": "27/08/2026",
+  "categoria": "Lencería",
+  "rango": "808-812",
+  "tags_comunes": [
+    "laperla",
+    "honeybirdette",
+    "batchL808-L812",
+    "V7poses"
+  ],
+  "negative_extra": "cotton lingerie, organic fabric, sleepwear pajamas, granny nightgown, modest robe, bridal innocent virginal, ingenue, daywear, swimwear context, beach setting",
+  "looks": {
+    "808": {
+      "titulo": "Noir Lace La Perla Suite",
+      "codigo": "LA1",
+      "polo": "A Boudoir",
+      "bloque_b": "a La Perla aristocratic four-piece set: longline balconette bra in deep noir vinyl laser-cut lace-pattern with opaque molded underwire cups and a sweetheart neckline, thin vinyl spaghetti straps, hook-and-eye front center, the lace-cut panels revealing small geometric windows of skin at the underbust and sides; matching thong brief in noir vinyl with a laser-cut lace waistband; a noir vinyl suspender belt with six metal garter clips; full-length seamed black stockings with a straight back seam from heel to thigh; pointed-toe stiletto pumps in mirror-black patent, 13cm thin pin stiletto heel, sharp pointed toe, slingback strap, polished chrome heel cap. La Perla aristocratic Italian poise.",
+      "setting": "Suite hotel lujo Paris with a velvet chaise longue, antique vanity mirror, fresh white orchids, and a champagne glass on the side table, warm amber candlelight",
+      "props": {
+        "seat": "the velvet chaise longue",
+        "wall": "the suite wall",
+        "surface": "the chaise longue cushion",
+        "upright": "the vanity mirror frame"
+      }
+    },
+    "809": {
+      "titulo": "Chrome Cage Couture HB",
+      "codigo": "LB2",
+      "polo": "B Fetish",
+      "bloque_b": "a Honey Birdette architectural cage-bra set: a structured chrome silver vinyl cage bra with four rigid horizontal bands crossing the chest and a center front ring hardware closure, fully exposing the underbust and ribcage; a matching micro-G-string in chrome silver vinyl with a single O-ring on each hip; chrome silver platform stiletto sandals, 8-inch thin pin stiletto heel plus 4-inch chrome platform, sharp pointed toe, ankle strap with chrome buckle, mirror-chrome sole. Bordelle architectural strapping discipline, cage geometry deliberate.",
+      "setting": "Floor-to-ceiling mirror studio with directional spotlight from the left, minimal black floor, hard shadows, Helmut Newton noir editorial lighting",
+      "props": {
+        "seat": "the studio floor",
+        "wall": "the mirror wall",
+        "surface": "the studio floor",
+        "upright": "the studio mirror frame"
+      }
+    },
+    "810": {
+      "titulo": "Deep Wine AP Corselette",
+      "codigo": "LA2",
+      "polo": "A Boudoir",
+      "bloque_b": "an Agent Provocateur parisian corselette in deep wine latex: a single-piece longline basque with boned structure, a deep plunging sweetheart neckline, opaque wine latex panels at the bust and hip, sheer PVC crystal-mesh inset panels running vertically from underbust to hip on both sides, four dangling wine vinyl garter clips front and back, a wine latex thong back; full-length nude seamed stockings with a classic straight back seam; ankle-strap stiletto pumps in deep wine patent, 14cm thin pin stiletto heel, sharp pointed toe, ankle strap with gold buckle, gold heel cap. Agent Provocateur parisian confidence.",
+      "setting": "Parisian boudoir vanity room with a triple-mirror 1920s vanity, crystal perfume bottles, a velvet tufted chair, warm golden side lighting",
+      "props": {
+        "seat": "the velvet tufted chair",
+        "wall": "the boudoir wall",
+        "surface": "the vanity stool",
+        "upright": "the vanity mirror"
+      }
+    },
+    "811": {
+      "titulo": "Nude Bordelle Harness Atelier",
+      "codigo": "LB5",
+      "polo": "B Fetish",
+      "bloque_b": "a Bordelle multi-piece architectural harness set: a triangulated torso harness in nude flesh latex elastic strapping with gold metal ring hardware at the sternum, under-bust, and hip points, the straps framing the augmented bust without covering it; a matching micro-G-string in nude flesh latex with a single gold O-ring centered at the front waist; matching thigh harness bands in nude flesh elastic on each outer thigh secured with gold ring hardware; clear transparent acrylic platform stiletto sandals, 8-inch thin pin stiletto heel plus 4-inch clear platform, open toe, ankle strap with gold buckle, crystal-free clear sole. Atsuko Kudo latex couture authority, the harness IS the garment.",
+      "setting": "Atsuko Kudo atelier studio with latex sheets hanging from the ceiling, mannequins in harness poses in the background, clinical white walls, directional hard studio light",
+      "props": {
+        "seat": "the studio floor",
+        "wall": "the atelier wall",
+        "surface": "the studio floor",
+        "upright": "the latex-draped studio pole"
+      }
+    },
+    "812": {
+      "titulo": "Blush Whisper Babydoll",
+      "codigo": "LA4",
+      "polo": "A Boudoir",
+      "bloque_b": "a Honey Birdette Whisper-range babydoll set: a structured molded bra in blush rose wet-satin latex with opaque underwire cups and a lightly ruffled sweetheart neckline, thin spaghetti straps; a sheer PVC blush-pink overlay babydoll skirt falling to mid-thigh with a straight cut, open-front drape revealing the hips; a matching blush rose latex micro-thong with a narrow vinyl waistband; pointed-toe mule stiletto sandals in blush rose patent, 12cm thin pin stiletto heel, pointed almond toe, slide-on no strap, chrome heel cap. Honey Birdette boudoir refinement, soft intimacy luxurious.",
+      "setting": "King bed with blush-champagne satin sheets and silk pillows, soft diffused morning window light, white sheer curtains, fresh pink peonies on the nightstand",
+      "props": {
+        "seat": "the satin bed",
+        "wall": "the bedroom wall",
+        "surface": "the satin sheets",
+        "upright": "the headboard"
+      }
+    }
+  }
+}

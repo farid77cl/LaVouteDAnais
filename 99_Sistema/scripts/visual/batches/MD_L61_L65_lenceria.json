@@ -1,0 +1,99 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_adn": "El BLOQUE A lo lee el motor del perfil visual. `adn_overrides` DECLARA la variación de maquillaje por look (canon de Miss Doll, perfil §5.5) en vez de copiar el ADN entero.",
+  "personaje": "miss_doll",
+  "batch": "La Perla y Honey Birdette Lenceria",
+  "fecha": "28/08/2026",
+  "categoria": "👙 Bikini / Lencería Erótica",
+  "rango": "L61-L65",
+  "emitir_bloque_b": true,
+  "negative_extra": "bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt, mule, mules, platform mule, mule sandals, slide sandals, backless heels, short robe, mini robe",
+  "looks": {
+    "61": {
+      "titulo": "Gunmetal Cage Bodysuit",
+      "tags": "#bikinilenceria #gunmetal #honeybirdette #cage #missdoll #batchL61-L65 #V7poses",
+      "concepto": "Paso 0 contra Look 60: arnes M5 recien usado -> esta vez bodysuit M1 con cutouts de cage y hardware (arquitectura distinta, ventana global de 3 looks respetada); contra Look 57: turquesa/cromo dominante ya usado -> gunmetal + midnight navy con acento hot pink. Honey Birdette architectural cage sobre segunda piel.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "smoky gunmetal eyeshadow with a violet duochrome shimmer",
+        "high-gloss wet lips": "high-gloss wet berry-plum lips"
+      },
+      "bloque_b": "a Honey Birdette-inspired architectural cage bodysuit in high-gloss gunmetal chrome vinyl, form-fitting through the torso with a deep plunging V-neckline, geometric cutout panels at the ribcage and hips edged with fine polished chrome ring hardware, a midnight navy wet-look latex underlay glimpsed through the cutouts, thin adjustable chrome shoulder straps, the seat cut as a narrow g-string baring the hips; a matching gunmetal chrome choker collar with a center O-ring; a hot-pink enamel stud set into the sternum ring as the signature pink accent; (8-inch gunmetal chrome platform ankle-strap sandal, open pointed toe, razor-thin metal needle heel, mirror-chrome sole:1.3); long coffin-shaped nails in glossy gunmetal chrome polish.",
+      "setting": "A mirrored backstage dressing room with a brushed steel garment rail, exposed vanity bulbs framing a full-length floor mirror, black lacquer flooring, cool directional light",
+      "props": {
+        "seat": "the dressing room bench",
+        "wall": "the dressing room wall",
+        "surface": "the vanity counter",
+        "upright": "the floor mirror frame"
+      }
+    },
+    "62": {
+      "titulo": "Ivory Champagne Lace Corset",
+      "tags": "#bikinilenceria #ivorychampagne #laperla #corseteria #missdoll #batchL61-L65 #V7poses",
+      "concepto": "Paso 0 contra Look 54: corseteria M4 en oxblood ya usada -> esta vez ivory champagne lace-pattern (gap de 8 looks, ventana global respetada); contra Look 58: lavanda ya usado -> champagne/oro. La Perla aristocratica italiana, encaje laser-cut sobre boning visible.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "warm champagne-gold shimmer eyeshadow",
+        "high-gloss wet lips": "high-gloss wet copper-bronze lips"
+      },
+      "bloque_b": "a La Perla-inspired aristocratic overbust corset in ivory champagne laser-cut lace-pattern vinyl, gloss finish, tightly structured with visible spiral steel boning and a sweetheart neckline trimmed in scalloped lace edging, gold hook-and-eye front busk closure; a matching thong brief in ivory champagne vinyl with the same laser-cut lace pattern at the waistband; an attached suspender belt with four gold metal garter clips; full-length sheer ivory seamed stockings with a straight back seam from heel to thigh; a small dusty-rose satin bow pinned at the center busk as the signature pink accent; (13cm ivory champagne patent platform pump, closed pointed toe, secured slingback strap, razor-thin metal needle heel, gold heel cap:1.3); long almond-shaped nails in champagne pearl polish.",
+      "setting": "A Parisian-inspired boudoir suite with a cream velvet chaise longue, an antique gilt-framed mirror, sheer ivory drapery at the window, soft golden lamplight",
+      "props": {
+        "seat": "the cream velvet chaise longue",
+        "wall": "the boudoir wall",
+        "surface": "the chaise longue cushion",
+        "upright": "the gilt-framed mirror"
+      },
+      "negative_extra": "bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt, mule, mules, platform mule, mule sandals, slide sandals, backless heels, short robe, mini robe"
+    },
+    "63": {
+      "titulo": "Dusty Rose Lace Boudoir",
+      "tags": "#bikinilenceria #dustyrose #laperla #lenceria #missdoll #batchL61-L65 #V7poses",
+      "concepto": "Paso 0 contra Look 58: conjunto de lenceria M3 en lavanda ya usado -> esta vez slip dress transparente M10 (cubierta) en dusty rose sobre sujetador+tanga+liguero+medias a juego -- la tela es sheer y deja leer la lenceria completa, no tapa el morbo; paga ademas la cuota de silueta cubierta de §8 (0/4 en la ventana L60-L63 sin este fix); contra Look 54/37: oxblood y bubblegum ya usados en esta categoria -> dusty rose satisface la firma rosa sin repetir ninguno de los dos. La Perla en su registro mas clasico: el slip de seda-y-encaje que dejo su firma aristocratica.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "soft rose-taupe shimmer eyeshadow with a pearl sheen",
+        "high-gloss wet lips": "high-gloss wet wine-burgundy lips"
+      },
+      "bloque_b": "a La Perla-inspired dusty rose sheer lace slip dress, gloss-finish laser-cut lace-pattern vinyl mesh falling to mid-thigh in a bias-cut silhouette, thin adjustable straps, a plunging cowl neckline, the sheer fabric revealing a matching dusty rose longline bra and thong beneath from every angle; the bra with sheer ivory lace-pattern inset cups, structured underwire and a sweetheart neckline; the thong with the same lace-pattern trim at the waistband; a dusty rose suspender belt with four pearl-tipped garter clips glimpsed through the slip; full-length sheer blush seamed stockings with a straight back seam from heel to thigh; a small ivory pearl drop pinned at the center bra bridge; (14cm dusty rose patent platform ankle-strap pump, sharp pointed toe, ankle strap with rose-gold buckle, razor-thin metal needle heel, rose-gold heel cap:1.3); long stiletto-shaped nails in dusty rose polish.",
+      "setting": "A blush marble powder room with a round vanity mirror ringed in warm bulbs, fresh peonies in a crystal vase, travertine walls, soft diffused morning light",
+      "props": {
+        "seat": "the vanity stool",
+        "wall": "the powder room wall",
+        "surface": "the marble vanity counter",
+        "upright": "the round vanity mirror"
+      }
+    },
+    "64": {
+      "titulo": "Electric Magenta Chrome Harness",
+      "tags": "#bikinilenceria #magenta #honeybirdette #arnes #missdoll #batchL61-L65 #V7poses",
+      "concepto": "Paso 0 contra Look 60: arnes M5 en negro cromado ya usado -> esta vez electric magenta con cromo (gap de 4 looks, ventana global recien habilitada); contra Look 57: cromo turquesa ya usado -> cromo sobre magenta, paleta distinta. Bota thigh-high en vez de sandalia, rompe tambien el calzado repetido.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "sharp magenta-chrome eyeshadow with a metallic foil finish",
+        "high-gloss wet lips": "high-gloss wet black-plum lips"
+      },
+      "bloque_b": "a Honey Birdette-inspired architectural fashion-bondage harness in electric magenta elastic strapping with polished chrome ring hardware fixed at the sternum, underbust and hip points, the straps framing the augmented bust without covering it, no fabric base beneath; a matching micro g-string in electric magenta elastic with a single chrome O-ring centered at the front waist; a fine chrome collar with a center O-ring; (8-inch electric magenta chrome platform thigh-high boot, over-the-knee rising to mid-thigh, side chrome zip closure, razor-thin metal needle heel, pointed toe, mirror-chrome sole:1.3); long coffin-shaped nails in glossy magenta chrome polish.",
+      "setting": "A private club VIP alcove with a black leather-effect banquette, a low smoked-glass table, magenta neon strip lighting along the ceiling edge, dark mirrored walls",
+      "props": {
+        "seat": "the leather-effect banquette",
+        "wall": "the alcove mirrored wall",
+        "surface": "the smoked-glass table",
+        "upright": "the mirrored wall panel"
+      }
+    },
+    "65": {
+      "titulo": "Mint Ivory Lace Triangle",
+      "tags": "#bikinilenceria #mint #laperla #triangle #missdoll #batchL61-L65 #V7poses",
+      "concepto": "Paso 0 contra Look 57: bikini M2 turquesa-cromo-oro rosa ya usado en esta categoria -> esta vez mint-ivory con oro (gap de 8 looks, ventana global respetada); contra Look 63 de este mismo batch, ya M10 (slip dress) -> aqui vuelve a M2 (triangle top + tanga), sin repetir arquitectura dentro de la ventana de 3; contra Look 37 bubblegum -> paleta menta fresca, acento rosa via lazo dusty-rose puntual. La Perla en clave triangle delicada, no cage.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "icy seafoam-silver duochrome eyeshadow",
+        "high-gloss wet lips": "high-gloss wet vivid terracotta lips"
+      },
+      "bloque_b": "a La Perla-inspired delicate triangle top in soft mint wet-satin latex with sheer ivory lace-pattern vinyl overlay, gloss finish, a thin gold underwire trim and dainty gold link straps; a matching mint micro g-string with ivory lace-pattern trim at the hips; a thin gold body chain draped from the sternum to the hip; a tiny dusty-rose satin bow pinned at the center of the triangle top as the signature pink accent; (12cm mint ivory patent platform pump, closed round-pointed toe, ankle strap with gold buckle, razor-thin metal needle heel, pearl heel cap:1.3); long almond-shaped nails in mint pearl polish.",
+      "setting": "A private thermal spa suite with a sunken stone soaking tub, soft steam haze in the air, backlit alabaster wall panels, warm amber ambient light",
+      "props": {
+        "seat": "the edge of the stone soaking tub",
+        "wall": "the alabaster panel wall",
+        "surface": "the tub's stone ledge",
+        "upright": "the alabaster panel"
+      }
+    }
+  }
+}
