@@ -19,6 +19,7 @@
 | **F-05** | `ASYMMETRY_LOCK` disparaba con el **pelo** de Miss Doll | 🔴 Alta | ✅ Arreglado | `a7a0e7a` |
 | **F-06** | 635 violaciones de canon en la flota histórica de Ele | 🟠 Media-Alta | ⛔ **Ama 29/08: sin retrofit** | — |
 | **F-07** | Al motor genérico le faltaban **todas** las anclas de material y prenda | 🔴 Alta | ✅ Arreglado | `76ebc39` |
+| **F-08** | El BLOQUE A no tenía dueño único: cada script de batch lo copiaba a mano | 🔴 Alta | ✅ Arreglado | `3fa4367` |
 
 ---
 
@@ -166,7 +167,35 @@ Self-checks de `footwear_canon` y `garment_canon`: **LIMPIO**. Linter: **CRÍTIC
 ## Pendiente
 
 - [x] ~~Barrer las 40 violaciones de riesgo vivo~~ — **la Ama ordenó no hacer retrofit (29/08)**.
-- [ ] **El BLOQUE A no tiene dueño único mecánico.** El motor no lo guarda: cada script de batch lo copia a mano. Los tres perfiles lo escriben distinto — Ele en bloque de código (verificado idéntico ✅), Miss Doll en bloque con notas editoriales en castellano mezcladas, **Anaïs sin un solo bloque de código en todo su perfil**. Nada impide que el próximo batch use un ADN con una palabra cambiada y nadie lo note.
+- [x] ~~El BLOQUE A no tiene dueño único mecánico~~ — **resuelto, F-08 (ver abajo)**.
 - [ ] Subir la cobertura del auditor de flota: 80 looks no auditables por formato de prompt.
 - [ ] F-04: identidad estable de ancla (rediseño, no parche).
 - [ ] Deuda declarada, **sin tocar por orden de la Ama:** la flota vieja de Ele no lleva los candados nuevos.
+
+---
+
+## F-08 · El BLOQUE A pasa a tener dueño único — y lo lee el motor
+
+**Orden de la Ama (29/08):** *"El BLOQUE A no tiene dueño único. Eso soluciónalo"*.
+
+**Lo medido antes de tocar nada:**
+
+| | Dónde vivía su ADN | Estado |
+|---|---|---|
+| **Ele** | fence en el perfil + `dna_v3_5.md` + cada script | las 3 copias **idénticas** ✅ |
+| **Miss Doll** | fence en el perfil, **con una nota en castellano incrustada a media cláusula** | los scripts la omitían a mano |
+| **Anaïs** | **sin token literal en el perfil** — solo la spec en prosa y una instrucción de ir a copiarlo a `dna_v2_3.md` | nada verificaba la copia |
+
+> ✅ **El ADN todavía no había divergido.** Las tres copias coincidían carácter por carácter. El riesgo era **estructural, no consumado** — se cierra antes de que costara una cara.
+
+**Fix:**
+
+- **Dueño único = el perfil visual §2**, que `CLAUDE.md` ya declaraba dueño. El ADN va en un fence marcado `<!-- ADN:BLOQUE_A -->` — comentario HTML: invisible al leer el `.md`, inequívoco al parsearlo. *Buscar "el §2" o "el fence más largo" es adivinar, y adivinar sobre el ADN es justo lo que esto viene a terminar.*
+- **Anaïs:** token literal insertado, traído de `dna_v2_3.md` y **verificado idéntico al que usan sus batches antes de escribirlo**.
+- **Miss Doll:** la nota en castellano sale del fence a la zona de notas.
+- **`PromptBuilder.bloque_a` LEE el perfil** — no lo copia: duplicarlo en el JSON habría creado el segundo dueño que este fix elimina. Y **rechaza** un fence que traiga marcadores de nota en castellano.
+- `build(bloque_a=None)` usa el del perfil. Los batches ya no necesitan hardcodearlo.
+- `dna_v3_5.md` y `dna_v2_3.md` quedan como **punteros**.
+- **Verificador nuevo `prompt_builder.py --adn`:** cruza el perfil contra cada script de batch y contra la galería. Es lo que impide que vuelva a divergir en silencio.
+
+**Verificado:** `--adn` **LIMPIO**, ninguna copia diverge (Ele 4.291 prompts de galería abren con su ADN · Miss Doll 490 · Anaïs 98). Los tres personajes construyen con `bloque_a=None` y **0 fallas**.
