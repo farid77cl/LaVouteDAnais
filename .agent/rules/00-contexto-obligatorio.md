@@ -76,6 +76,14 @@ El modo de falla recurrente de este proyecto es un **resumen plausible que no co
 
 Antes de afirmar que algo está hecho: leer el código, correr el script de auditoría, abrir el archivo. **Una afirmación sin evidencia adjunta es una hipótesis.** Y un estado que dice "pendiente" sin fecha de verificación se vuelve mentira sola — re-medir antes de actuar sobre él.
 
+### 🧹 Higiene documental (Ama 29/08/2026)
+
+> *"eres muy desordenada para mantener el repo. creas documentos sueltos y luego no los borras, eso también hay que mejorarlo"*
+
+**Todo documento nace con fecha de muerte declarada. El que no la tiene, no se crea.** La raíz del repo es la portada (solo README, CLAUDE, config); las salidas de script van al `.gitignore`; los respaldos `.BKP` están prohibidos porque git YA es el respaldo; y quien crea un doc de trabajo lo entierra **en el mismo cierre** en que dejó de servir.
+
+Se mide, no se promete: `python 99_Sistema/scripts/mantenimiento/lint_documentos_sueltos.py` — meta **0**, y corre en el paso 6.6 de `/actualizar_sesion`. Regla completa: [`12-higiene-documental.md`](12-higiene-documental.md).
+
 ### 🔢 Regla dueño-único (02/07/2026)
 
 Cada dato de estado tiene UN archivo dueño; los demás **apuntan, no copian** (las copias divergen: llegó a haber 3 flotas distintas en 3 archivos):

@@ -60,7 +60,7 @@
 ### Al finalizar
 - [ ] Actualizar `04_Historias/indice_historias.md`
 - [ ] Mover a `finalizadas/` cuando esté completa
-- [ ] Actualizar `CHANGELOG.md`
+- [ ] Actualizar `00_Ele/memoria_sesiones.md` + `00_Ele/mi_diario_de_servicio.md` (dueños únicos de la historia del repo)
 
 ---
 

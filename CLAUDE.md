@@ -108,13 +108,16 @@ Spec: `.agent/skills/engine-trance-lv/SKILL.md`. Approved trances live in `03_Li
 05_Imagenes/     — Generated image files (organized by look number)
 06_RRSS/         — Social: Bluesky + Reddit playbooks, identidad_social/, cola/ (publish queue), .env (gitignored)
 07_Recursos/     — References, research, legacy agent prompts
-99_Sistema/      — Python/PS automation + LV-App prompt series (prompt_app_ai_studio_*)
-.agent/rules/    — 12 modular rule files (00-11) loaded by all agents
+99_Sistema/      — Python/PS automation. Root holds only README, app_index.json, dated audits
+                   _legacy_prompts_ai_studio/ — the whole prompt_app_ai_studio_* series (#20-#33),
+                   archived 29/08/2026: writing prompts for AI Studio was derogated 28/08
+.agent/rules/    — 13 modular rule files (00-12) loaded by all agents
                    (11 = contrato de galeria_outfits.md: slug único, categorías, tags, prompts)
+                   (12 = higiene documental: dónde nace y dónde muere un .md)
 .agent/skills/   — Skill definitions; .agent/workflows/ — executable protocols
 .claude/agents/  — Active subagents; _legacy_v46/ — archived, must NOT be invoked
 .claude/commands/— Slash-command stubs
-graphify-out/    — Knowledge-graph output (Graphify semantic mapping)
+graphify-out/    — Knowledge-graph output (Graphify). Its caches/chunks are gitignored, not tracked
 ```
 
 Counts (fleet size, story totals, last look) deliberately do **not** appear here — see the dueño-único rule below.
@@ -145,6 +148,7 @@ python 99_Sistema/scripts/visual/count_stats.py               # fleet stats
 # Memory hygiene (session close)
 python 99_Sistema/scripts/mantenimiento/rotar_memoria.py --dry-run   # preview
 python 99_Sistema/scripts/mantenimiento/rotar_memoria.py             # keep 7 sessions / 15 diary entries
+python 99_Sistema/scripts/mantenimiento/lint_documentos_sueltos.py   # loose-document check — target 0 (rule 12)
 
 # Knowledge graph / RRSS
 python 99_Sistema/scripts/grafo/query_graph.py
@@ -177,6 +181,12 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 | A story's history and decisions | its `walkthrough.md` + `cronologia.md` |
 | Old sessions | `memoria_historica/` (rotated by `rotar_memoria.py`) |
 | Stable canon / DNA | `00_Ele/identidad_ele.md` (carries no counters) |
+
+**Every document is born with a declared expiry — one without it doesn't get created (Ama 29/08/2026: *"eres muy desordenada para mantener el repo. creas documentos sueltos y luego no los borras"*).** Measured that day: 20 graphify cache files loose in the root, 8 prompt-scratch files, a **7.35 MB `.BKP3` gallery backup**, a `.agents/` experiment dead since 21/06 and still tracked, 27 prompts from a flow derogated on 28/08, a `CHANGELOG.md` untouched since May duplicating `memoria_sesiones.md` — and a tracked `.env` holding live Wattpad credentials despite `.gitignore` naming it (gitignore never applied: it was already tracked). None of it was hidden. It was invisible **because nothing counted it**.
+
+Four destinations, pick one before writing: **permanent** (canon/contract — has an owner, gets *edited*, never duplicated) · **working** (brief, walkthrough, Gate note — ends in `borradores/` or `reportes/`) · **evidence** (dated audit with `archivo:línea` — never deleted, never in the root) · **ephemeral** (run output, pending list, dump — **never committed**; it regenerates from its script). The root is the cover page: only `README.md`, `CLAUDE.md`, `.gitignore`, `.nojekyll`, the workspace file and the APK the Ama downloads. Script outputs go to `.gitignore` — *except* `README.md` and `galeria_*.md`, which are navigation and LV-App's input, so they must travel. `*.BKP*` is banned outright: git already is the backup.
+
+Measured, not promised: `lint_documentos_sueltos.py` (H1 dirty root · H2 tracked scratch · H3 orphan dated doc · H4 declares itself dead without naming a successor · H5 tracked regenerable output), target **0**, wired into `/actualizar_sesion` step 6.6. Its first calibration returned 1,071 findings of which ~1,064 were the legitimate `README.md`s — the classifier reading itself, the same pattern as `feedback_clasificador_se_lee_a_si_mismo`. Calibrated it landed on 2 real findings, both correct. **A linter that shouts about everything teaches you to ignore it.** Full rule: `.agent/rules/12-higiene-documental.md`.
 
 **State ages toward lying.** A note that says "pending" with no verification date will send you sweeping where it's already clean while the real hole goes untouched (this happened: the "fosilizado 300-760" note was false; the real gap was L200-L299). Re-measure before acting on an undated status claim, and stamp what you write with a date.
 

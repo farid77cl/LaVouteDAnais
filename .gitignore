@@ -27,13 +27,11 @@ scratch/
 *_out.txt
 debug*.txt
 
-# === Espacios de trabajo efímeros de subagentes (11/08/2026) ===
-# OJO: .agents/orchestrator, .agents/sentinel y .agents/victory_verifier SÍ están trackeados.
-# Solo se ignoran los workspaces desechables de corridas puntuales.
-.agents/worker_*/
-.agents/teamwork_*/
-.agents/*_visual_audit/
-.agents/ORIGINAL_REQUEST.md
+# === Espacios de trabajo efímeros de subagentes ===
+# 29/08/2026: el experimento .agents/{orchestrator,sentinel,victory_verifier} murió el 21/06
+# y siguió trackeado dos meses. Ahora la carpeta entera se ignora — los subagentes vivos
+# viven en .claude/agents/, no acá.
+.agents/
 
 # === Clones de repos externos (código de la app vive en su propio repo) ===
 99_Sistema/_legacy_lv_app_v4x/LV-App-clone/
@@ -41,3 +39,32 @@ debug*.txt
 # === Scripts de un solo uso ya ejecutados (se conservan en disco, no en la historia) ===
 99_Sistema/scripts/_oneoff/
 LV-App/
+
+# === Caché y salidas de Graphify (29/08/2026) — regenerables, no van a la historia ===
+.graphify_*
+graphify-out/cache/
+
+# === Salidas de scripts de auditoría (se regeneran corriendo el script) ===
+00_Ele/galeria_audit_report.md
+00_Ele/galeria_link_audit.md
+
+# === Respaldos con timestamp de la galería (git YA es el respaldo) ===
+00_Ele/galeria_outfits.BKP*.md
+*.BKP*.md
+
+# === Binarios de la app (el APK se entrega, no se versiona indefinidamente) ===
+# OJO: LV-App-v4.20.apk sigue trackeado a propósito — es la ruta de descarga de la Ama.
+*.apk
+!LV-App-v4.20.apk
+
+# === Scratch de la raíz (prompts sueltos, extracciones, listas de una corrida) ===
+/temp_prompt.txt
+/look*_raw.txt
+/look*_prompts.txt
+/ditzy_prompts_batch*.txt
+/extracted_prompts.json
+/pending_*.json
+
+
+# Chunks de graphify (regenerables por scripts/grafo/save_chunks*.py)
+graphify-out/.graphify_*.json

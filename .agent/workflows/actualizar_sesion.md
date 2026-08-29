@@ -135,6 +135,16 @@ Memoria (`00_Ele/memoria_sesiones.md`) `## 🗓️ Sesiones recientes` — un bu
     - **Prosa pura**: el `.md` activo del capítulo no lleva metadata visible (ni tabla de versión ni "Conteo de palabras"); eso vive en `reportes/`.
     - Recién con la carpeta ordenada → commit.
 
+6.6 **Higiene documental — recoger lo que ensucie ESTA sesión (Ama 29/08/2026) 🧹**
+    > *"eres muy desordenada para mantener el repo. creas documentos sueltos y luego no los borras"*. El 6.5 ordena las carpetas de relatos; **este ordena todo lo demás**. Regla completa: [`.agent/rules/12-higiene-documental.md`](../rules/12-higiene-documental.md).
+
+    // turbo
+    - `python 99_Sistema/scripts/mantenimiento/lint_documentos_sueltos.py`
+    - **La meta es 0.** H1 raíz sucia · H2 scratch trackeado · H3 doc fechado huérfano · H4 se declara muerto sin sucesor · H5 salida regenerable trackeada.
+    - **Antes de commitear un `.md` nuevo, las tres preguntas del §7:** ¿ya hay un dueño para este dato (entonces se EDITA)? · ¿alguien lo lee mañana, o es el resultado de lo que hago ahora (entonces va al scratchpad, no al repo)? · ¿cuándo muere?
+    - Lo efímero (listas de pendientes, volcados, salidas de una corrida) **no se commitea**: se regenera con su script.
+    - Un doc de trabajo que ya cumplió se entierra **en este mismo cierre**, no en el siguiente.
+
 7.  **Respaldo en GitHub (rutas explícitas — NUNCA `git add .`)**
     > ⚠️ **Directiva Ama (`feedback_eol_bot_readmes`):** un proceso paralelo (bot/app) mantiene `galeria_outfits.md` y los `README.md` de `05_Imagenes/` con su propio EOL (CRLF). `git add .` arrastra ese churn ajeno y normaliza EOL → conflictos masivos. Commitear **solo lo propio**, por ruta.
     - `git status` → identificar SOLO los archivos trabajados en la sesión.

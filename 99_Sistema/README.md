@@ -25,6 +25,8 @@ Directorio de scripts de automatización y prompts de sistema de La Voûte d'Ana
 ```
 99_Sistema/
 ├── archivo_batches_prompts/  # Batches de prompts archivados (fuera del filtro de LV-App)
+├── _legacy_lv_app_v4x/       # 🗄️ Prompts AI Studio #1-#19 (era v4.x) — solo lectura
+├── _legacy_prompts_ai_studio/# 🗄️ Prompts AI Studio #20-#33 — flujo DEROGADO 28/08/2026
 ├── scripts/
 │   ├── _legacy/          # Migraciones one-off ya ejecutadas (archivo de solo lectura)
 │   ├── bat/              # Scripts batch de Windows
@@ -37,8 +39,10 @@ Directorio de scripts de automatización y prompts de sistema de La Voûte d'Ana
 │   │   └── prompt_factory/  # Fábrica de prompts para imágenes
 │   └── prepend_diario.py # Inyección de entradas al diario de servicio
 ├── reportes/             # Reportes de sesión y evaluaciones
+├── logs/                 # Log del outfit-engine (outfit_engine.jsonl)
 ├── temp/                 # Archivos temporales (no commitear)
-└── evaluaciones_v51_seguimiento.md
+├── auditoria_*.md        # Auditorías fechadas (evidencia, no se borran)
+└── app_index.json        # Índice que consume LV-App (regenerar con generar_app_index.py)
 ```
 
 ---
