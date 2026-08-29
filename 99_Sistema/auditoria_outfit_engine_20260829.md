@@ -17,7 +17,8 @@
 | **F-03** | `footwear_canon.py` y `garment_canon.py` nunca auditaron la flota | 🔴 Alta | ✅ Arreglado | `6462562` |
 | **F-04** | La detección de anclas por prefijo de 45 chars da falsos negativos | 🟡 Media | 📋 Documentado, sin fix | — |
 | **F-05** | `ASYMMETRY_LOCK` disparaba con el **pelo** de Miss Doll | 🔴 Alta | ✅ Arreglado | `a7a0e7a` |
-| **F-06** | 635 violaciones de canon en la flota histórica de Ele (40 de riesgo vivo) | 🟠 Media-Alta | 📋 Medido, **decisión de la Ama** | — |
+| **F-06** | 635 violaciones de canon en la flota histórica de Ele | 🟠 Media-Alta | ⛔ **Ama 29/08: sin retrofit** | — |
+| **F-07** | Al motor genérico le faltaban **todas** las anclas de material y prenda | 🔴 Alta | ✅ Arreglado | `76ebc39` |
 
 ---
 
@@ -115,9 +116,57 @@ Tipos más frecuentes en la flota completa: `PRENDA CON DRIFT` 167 · `ARQUETIPO
 
 ---
 
+---
+
+## F-07 · El motor genérico no tenía una sola ancla de material
+
+**Orden de la Ama (29/08):** *"necesito que el outfit engine funcione bien, así que nada de retrofix por ahora"*. La auditoría gira: deja de mirar la flota vieja y mide **lo que el motor produce hoy**.
+
+**Prueba de motor:** 105 prompts generados con `prompt_builder` — 3 personajes × 7 slots × 5 outfits diseñados para estresar el canon (bata · blazer · medias con costura · animal print · asimetría) — auditados contra `footwear_canon` y `garment_canon`.
+
+**Resultado inicial: 84 de 105 con falla.**
+
+**Causa:** el motor genérico nació con 30 anclas de **pose, encuadre, orientación y anatomía**, y **sin una sola de material o prenda**. Éstas vivían únicamente en `pose_rotation_v5.py`, el motor viejo de Ele:
+
+| Ancla ausente | Defecto que dejaba pasar | Memoria |
+|---|---|---|
+| `OPAQUE_LOCK` | Gemini corta la prenda para mostrar ombligo/runas | `feedback_cortes_ropa_runas_ombligo` |
+| `GLOSS_LOCK` | material mate pese al token `vinyl` | `feedback_material_mate_vs_fetish` |
+| `HOSIERY_LOCK` | la media cambia de color/largo entre poses | `feedback_medias_calzado_reglas` |
+| `ANIMAL_PRINT_LOCK` | el leopardo rinde como encaje genérico | bug L764 |
+| `SEAM_FRONT` / `SEAM_BACK` | la raya de la media sale por delante | `feedback_media_raya_frontal` |
+
+Los 130 looks de Miss Doll y Anaïs se construyeron **sin ninguna de las cinco**. Es el patrón de F-01 multiplicado por seis.
+
+> ⚠️ **`CONSISTENCY_LOCK` NO faltaba** — está en el motor con otro nombre (`GARMENT_CONSISTENCY`, texto casi idéntico). Falso positivo de mi primera medición, que auditaba el BLOQUE B crudo en vez del prompt final.
+
+**Fix:** las cinco al JSON como opt-in, cableadas en `prompt_builder`. Notas de diseño:
+
+- **El vocabulario que las dispara no se copia:** se importa de `garment_canon` y `footwear_canon`, que son sus dueños.
+- `ANIMAL_PRINT_LOCK` es la única ancla **paramétrica**: `build()` resuelve `{kind}` con la especie del BLOQUE B; un `{kind}` sin resolver lo caza `validar()`.
+- `SEAM_FRONT`/`SEAM_BACK` son **pose-aware** (`OPT_IN_SOLO_SLOT` acepta conjuntos): frente liso en los slots frontales, costura visible en `back_view`, y **Side Profile sin ninguna** — de perfil la raya trasera cae en el borde posterior, que es lo correcto.
+- `SEAM_*` exige **dos** condiciones (costura **y** hosiery): *"centre-back seam"* también lo dice un blazer — lo dice mi propia ancla `WRAP_BACK_TAILORED` — y sin el segundo filtro la costura de la chaqueta activaba el candado de la media.
+
+**Resultado: 105 prompts, 3 con falla** — las tres el mismo Side Profile del caso "medias", **limpio por canon** (el auditor no conoce el slot desde el que se generó, así que no puede saber que ahí no va ancla).
+
+---
+
+## Estado del motor al cierre
+
+| | antes | después |
+|---|---|---|
+| Prompts de prueba con falla | **84 / 105** | **3 / 105** (y los 3 son correctos) |
+| Anclas del motor genérico | 30 | **36** |
+| Candados de material | **0** | 6 |
+
+Self-checks de `footwear_canon` y `garment_canon`: **LIMPIO**. Linter: **CRÍTICOS 0**.
+
+---
+
 ## Pendiente
 
-- [ ] **Decisión de la Ama:** ¿se barren las 40 violaciones de riesgo vivo de Ele (29 looks)?
-- [ ] Subir la cobertura del auditor: 80 looks no auditables por formato de prompt.
+- [x] ~~Barrer las 40 violaciones de riesgo vivo~~ — **la Ama ordenó no hacer retrofit (29/08)**.
+- [ ] **El BLOQUE A no tiene dueño único mecánico.** El motor no lo guarda: cada script de batch lo copia a mano. Los tres perfiles lo escriben distinto — Ele en bloque de código (verificado idéntico ✅), Miss Doll en bloque con notas editoriales en castellano mezcladas, **Anaïs sin un solo bloque de código en todo su perfil**. Nada impide que el próximo batch use un ADN con una palabra cambiada y nadie lo note.
+- [ ] Subir la cobertura del auditor de flota: 80 looks no auditables por formato de prompt.
 - [ ] F-04: identidad estable de ancla (rediseño, no parche).
-- [ ] Las 114 back-views con solo `BACK_ANCHOR` **que ya tienen foto** siguen con la cláusula corta — retrofit-al-tocar.
+- [ ] Deuda declarada, **sin tocar por orden de la Ama:** la flota vieja de Ele no lleva los candados nuevos.
