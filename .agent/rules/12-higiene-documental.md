@@ -1,7 +1,11 @@
 # 🧹 REGLA 12: HIGIENE DOCUMENTAL — dónde nace y dónde muere un documento
 
-> **Directiva de la Ama (29/08/2026, literal):**
-> *"eres muy desordenada para mantener el repo. creas documentos sueltos y luego no los borras, eso también hay que mejorarlo"*
+> **Dos directivas de la Ama el mismo día (29/08/2026, literales):**
+>
+> 1. *"eres muy desordenada para mantener el repo. creas documentos sueltos y luego no los borras, eso también hay que mejorarlo"*
+> 2. *"la limpieza y orden del repo debe ser de tus tareas principales, no saco nada con tenerte toda sexy con tus pleaser si la cocina y el dormitorio están patas pa arriba"*
+>
+> La segunda es la que fija el rango: **la limpieza no es un favor ocasional, es tarea principal.** Por eso el chequeo corre al **abrir** la sesión y no solo al cerrarla.
 
 Tiene razón, y está medido. El día que lo dijo, el repo cargaba **20 archivos de caché de graphify en la raíz**, 8 scratch de prompts (`ditzy_prompts_batch4-7.txt`, `look431_raw.txt`, `temp_prompt.txt`…), un **respaldo de galería de 7,35 MB** (`galeria_outfits.BKP3_20260621`), un experimento `.agents/` **muerto desde el 21/06 y trackeado dos meses**, **27 prompts de un flujo derogado el 28/08**, un `CHANGELOG.md` sin tocar desde mayo que duplicaba al dueño único de la historia — y un `.env` con credenciales.
 
@@ -71,26 +75,30 @@ Ya ignoradas por esto: `00_Ele/galeria_audit_report.md`, `00_Ele/galeria_link_au
 ## §6 · El chequeo mecánico (esto es lo que hace que la regla exista)
 
 ```bash
-python 99_Sistema/scripts/mantenimiento/lint_documentos_sueltos.py            # reporte
-python 99_Sistema/scripts/mantenimiento/lint_documentos_sueltos.py --detalle  # lista completa
-python 99_Sistema/scripts/mantenimiento/lint_documentos_sueltos.py --estricto # exit 1 si hay algo
+python 99_Sistema/scripts/mantenimiento/lint_higiene_repo.py            # reporte
+python 99_Sistema/scripts/mantenimiento/lint_higiene_repo.py --detalle  # lista completa
+python 99_Sistema/scripts/mantenimiento/lint_higiene_repo.py --estricto # exit 1 si hay algo
 ```
 
-Cinco hallazgos:
+**Nueve hallazgos.** Los cinco primeros nacieron con la regla; **H6-H9 nacieron el mismo día, de la limpieza a mano** — porque el primer linter no vio nada de lo peor que había:
 
-| ID | Qué caza |
-|---|---|
-| **H1** | Raíz sucia — archivo en la raíz fuera de la lista de §2 |
-| **H2** | Scratch trackeado — `temp_`, `output_`, `_raw`, `.bkp`, `pendientes_`, `_copia` |
-| **H3** | Doc fechado huérfano — `_AAAAMMDD` con **0 citas vivas** y ≥30 días sin tocarse |
-| **H4** | Se declara muerto y **no nombra sucesor** (§3) |
-| **H5** | Salida regenerable trackeada, salvo las de §4 que sí viajan |
+| ID | Qué caza | De dónde salió |
+|---|---|---|
+| **H1** | Raíz sucia — archivo en la raíz fuera de la lista de §2 | 20 cachés de graphify + 8 scratch sueltos |
+| **H2** | Scratch trackeado — `temp_`, `output_`, `_raw`, `.bkp`, `pendientes_`, `_copia` | `prompts_pendientes_L291_L320.md`, 363 KB de una corrida de junio |
+| **H3** | Doc fechado huérfano — `_AAAAMMDD`, **0 citas vivas**, ≥30 días sin tocarse | auditorías de un solo uso en la raíz |
+| **H4** | Se declara muerto y **no nombra sucesor** (§3) | docs que decían "obsoleto" sin dirección |
+| **H5** | Salida regenerable trackeada, salvo las de §4 que sí viajan | `galeria_audit_report.md`, chunks de graphify |
+| **H6** | **Encoding roto** — BOM, NUL, U+FFFD | 61 archivos. El archivo del diario tenía **2.212 NUL**: git lo leía como binario y sus **522 sesiones eran invisibles** a `grep` y a `git diff` |
+| **H7** | **Link interno roto** | 39 links del catálogo de personajes con la ruta duplicada; el README de comics apuntando a READMEs que `update_galleries.py` borra por diseño |
+| **H8** | **README inflado** — una línea >8 KB, o >40 KB, o ≥8 «Previo:» | `00_Ele/README.md` tenía **27.902 bytes en UNA línea** con un párrafo repetido 5 veces; `03_Literatura/README.md` era 81% bitácora |
+| **H9** | **Contador copiado que diverge** de su dueño único | `00_Ele/README.md` declaraba «220 looks» con la flota real en **818** |
 
-**Corre en el cierre de sesión** (`/actualizar_sesion` paso 6.6), antes de commitear.
+**Corre DOS veces:** en el arranque (`/inicio-ele` paso **0bis**) y en el cierre (`/actualizar_sesion` paso **6.6**). Cuesta ~3 segundos.
 
-> 🎯 **Cómo se lee el resultado.** Su primera calibración tiró **1.071 hallazgos**, de los cuales ~1.064 eran los `README.md` legítimos: el clasificador se estaba leyendo a sí mismo, exactamente el patrón de `feedback_clasificador_se_lee_a_si_mismo`. Calibrado, quedó en **2 hallazgos reales, los 2 correctos**. Un linter que grita por todo enseña a ignorarlo. **La métrica es 0, y 0 tiene que significar algo.**
+> 🔍 **Por qué también al arranque.** Nació solo en el cierre — o sea, solo miraba la mugre de *esa* sesión. Pero la que se encontró el 29/08 tenía **meses**: un `.env` con credenciales trackeado desde la era Helena, un experimento muerto hacía dos meses, un contador divergido desde marzo. Un chequeo que solo corre al final nunca los habría visto. **La casa se revisa al entrar.**
 
----
+> 🎯 **Cómo se lee el resultado — y la trampa de calibración, pisada dos veces el mismo día.** La primera corrida tiró **1.071 hallazgos**, ~1.064 de ellos los `README.md` legítimos. Y al estrenar H7, **3.594 links «rotos»** de una sola galería: se medía el **disco** en una máquina con 2.636 PNG de los 6.677 del índice — exactamente el error que ya estaba registrado en `reference_png_skip_worktree`. Corregido a `git ls-files` y acotado (las galerías las audita `lint_galeria.py`, que sabe resolver el doble `../` de la regla 11), quedó en hallazgos reales, todos correctos. **Un linter que grita por todo enseña a ignorarlo: la métrica es 0, y 0 tiene que significar algo.**
 
 ## §7 · Antes de crear un documento — las tres preguntas
 
@@ -102,7 +110,7 @@ Cinco hallazgos:
 
 ## §8 · Y al terminar la tarea, se recoge
 
-La regla nueva, la que faltaba: **quien crea un documento de trabajo es responsable de enterrarlo.** No en la sesión siguiente, no "cuando limpiemos": en el mismo cierre en que dejó de servir. El paso 6.5 de `actualizar_sesion.md` ya lo exige para las carpetas de relatos — el **6.6** lo extiende a todo el repo.
+La regla nueva, la que faltaba: **quien crea un documento de trabajo es responsable de enterrarlo.** No en la sesión siguiente, no "cuando limpiemos": en el mismo cierre en que dejó de servir. El paso 6.5 de `actualizar_sesion.md` ya lo exige para las carpetas de relatos — el **6.6** lo extiende a todo el repo, y el **0bis** de `inicio-ele.md` lo verifica al entrar.
 
 ---
 

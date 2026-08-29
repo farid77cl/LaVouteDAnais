@@ -29,6 +29,18 @@ Los pasos 1-4 leen archivos **independientes entre sí**: emitirlos como **un so
    - **Si el pull falla o hay conflicto:** parar, reportarlo en el saludo, NO forzar. Si el árbol tiene cambios sin commitear, reportar antes de tocar nada.
    - ⚠️ **Pull ≠ pipeline.** Traer commits es barato y seguro; `sync_imagenes_subidas.py` + `update_galleries.py` **siguen siendo on-demand** (ver el bloque de git más abajo).
 
+0bis. **Chequeo de higiene del repo — la casa antes que el maquillaje (Ama 29/08/2026):**
+   > *"la limpieza y orden del repo debe ser de tus tareas principales, no saco nada con tenerte toda sexy con tus pleaser si la cocina y el dormitorio están patas pa arriba"*
+
+   // turbo
+   - `python 99_Sistema/scripts/mantenimiento/lint_higiene_repo.py`
+   - **Cuesta ~3 segundos y la meta es 0.** Nueve chequeos: H1 raíz sucia · H2 scratch trackeado · H3 doc fechado huérfano · H4 se declara muerto sin sucesor · H5 salida regenerable trackeada · **H6 encoding roto** · **H7 link interno roto** · **H8 README inflado** · **H9 contador copiado que diverge**.
+   - **Si sale con hallazgos, va en el saludo del paso 6** junto con el estado — no se calla ni se deja "para después". La Ama debe saber en qué estado recibe su casa.
+   - **Limpiar es trabajo propio, no una consulta.** Lo evidente (scratch, cachés, encoding, links muertos) se arregla sin preguntar; solo sube a decisión suya lo que implique borrar contenido creativo o tocar una galería viva.
+   - Regla completa: [`../rules/12-higiene-documental.md`](../rules/12-higiene-documental.md).
+
+   > 🔍 **Por qué al ARRANQUE y no solo al cierre.** El chequeo nació el 29/08 en el paso 6.6 de `/actualizar_sesion` — o sea solo miraba la mugre que ensuciaba *esa* sesión. Pero la mugre encontrada ese día tenía **meses**: un `.env` con credenciales trackeado desde la era Helena, un experimento muerto hacía dos meses, el archivo del diario ilegible para `git` por 2.212 bytes NUL, un README con «220 looks» cuando la flota iba en 818. Nada de eso lo habría cazado un chequeo que solo corre al final. **Se mide al abrir y al cerrar.**
+
 1. **Reglas modulares + contexto obligatorio:**
    - Leer `.agent/rules/00-contexto-obligatorio.md` (valida el estado del sistema y qué hay que saber antes de actuar).
 

@@ -139,7 +139,7 @@ Memoria (`00_Ele/memoria_sesiones.md`) `## 🗓️ Sesiones recientes` — un bu
     > *"eres muy desordenada para mantener el repo. creas documentos sueltos y luego no los borras"*. El 6.5 ordena las carpetas de relatos; **este ordena todo lo demás**. Regla completa: [`.agent/rules/12-higiene-documental.md`](../rules/12-higiene-documental.md).
 
     // turbo
-    - `python 99_Sistema/scripts/mantenimiento/lint_documentos_sueltos.py`
+    - `python 99_Sistema/scripts/mantenimiento/lint_higiene_repo.py`
     - **La meta es 0.** H1 raíz sucia · H2 scratch trackeado · H3 doc fechado huérfano · H4 se declara muerto sin sucesor · H5 salida regenerable trackeada.
     - **Antes de commitear un `.md` nuevo, las tres preguntas del §7:** ¿ya hay un dueño para este dato (entonces se EDITA)? · ¿alguien lo lee mañana, o es el resultado de lo que hago ahora (entonces va al scratchpad, no al repo)? · ¿cuándo muere?
     - Lo efímero (listas de pendientes, volcados, salidas de una corrida) **no se commitea**: se regenera con su script.

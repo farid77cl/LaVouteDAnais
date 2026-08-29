@@ -101,7 +101,7 @@
 
 ## 📸 Fuente Visual
 
-![TGStorytime Sissy Category](tgstorytime_sissy_category.png)
+> 🖼️ *(Aquí iba una captura de la categoría Sissy de TGStorytime. La imagen nunca se commiteó; el link muerto se retiró el 29/08/2026.)*
 
 ---
 
