@@ -1,5 +1,16 @@
 # 🧬 ADN Canónico Ele V3.5 (Hard-Sync)
 
+> 🔒 **ESTE ARCHIVO YA NO ES EL DUEÑO DEL BLOQUE A (29/08/2026).**
+> El dueño único es **`02_Personajes/_perfiles_visuales/ele.md`** §2 — el fence marcado con `<!-- ADN:BLOQUE_A -->`,
+> que es el que **lee el motor** (`PromptBuilder.bloque_a`). Este archivo vive en una
+> skill legacy por personaje, de las que el `outfit-engine` genérico vino a reemplazar.
+>
+> El texto de abajo se dejó como estaba y se verificó idéntico al del perfil el 29/08/2026.
+> **Si hay que cambiar el ADN, se cambia en el perfil, no acá.** Verificar con:
+> `python 99_Sistema/scripts/visual/prompt_builder.py --adn`
+
+---
+
 Este documento contiene los bloques de texto maestros para la generación de prompts. Úsalos para garantizar consistencia absoluta.
 
 ## 🧬 BLOQUE A COMPLETO (copiar textualmente, sin modificar, en cada uno de los 7 prompts)

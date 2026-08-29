@@ -131,6 +131,7 @@ python 99_Sistema/scripts/visual/update_galleries.py          # rebuild master g
 # Audits ("the test suite")
 python 99_Sistema/scripts/visual/auditar_galeria.py           # gallery integrity
 python 99_Sistema/scripts/visual/lint_galeria.py              # galeria_outfits.md contract (rule 11)
+python 99_Sistema/scripts/visual/prompt_builder.py --adn      # BLOQUE A single-owner check: profile vs every batch script vs gallery
 python 99_Sistema/scripts/visual/auditar_canon_flota.py       # footwear + garment canon ON THE REAL FLEET (add --solo-sin-imagen for live risk)
 python 99_Sistema/scripts/visual/footwear_canon.py            # self-test of the stiletto/Pleaser rules — fixtures only, reads no gallery
 python 99_Sistema/scripts/visual/garment_canon.py             # self-test of the garment-token rules — fixtures only, reads no gallery
@@ -199,6 +200,8 @@ Other notable: `visual/auditar_galeria.py`, `visual/count_stats.py`, `grafo/quer
 Everything that differs per character lives in its **visual profile**, `02_Personajes/_perfiles_visuales/<slug>.md`: **§2 BLOQUE A** (physical DNA) and **§5 BLOQUE B rules** (materials, palette, footwear, absolute prohibitions, mandatory description fields), plus poses, archetype targets, anti-repetition windows and live quotas. Profiles are the **owner** of those fields — the older rules and engines point here rather than copying.
 
 Active: `ele.md` (7 poses, gloves **forbidden**) · `miss_doll.md` (7 poses, corset in every look, signature pink always present) · `anais.md` (7 poses, gloves **allowed**, mole mandatory). New character = copy `references/_plantilla_perfil_visual.md`, fill it **with the Ama** — never a new engine.
+
+**§2 BLOQUE A is read by the engine, not copied (29/08/2026).** Each profile's DNA lives in a fence tagged `<!-- ADN:BLOQUE_A -->`, and `PromptBuilder.bloque_a` reads it from there — so `build()` takes `bloque_a=None` and batch scripts no longer hardcode it. Inside that fence goes **prompt text only**; editorial notes live outside it (the builder refuses a fence containing Spanish note markers). Before this, the DNA had no mechanical owner: every batch script copied it by hand, Ele kept it in a fence, Miss Doll in a fence with Spanish notes embedded mid-clause, and **Anaïs had no literal token at all** — only a prose spec plus an instruction to go copy it from the legacy per-character skill. Measured that day the three still matched, so the risk was structural, not yet realized. The legacy `dna_v3_5.md` / `dna_v2_3.md` are now pointers. Verify with `prompt_builder.py --adn`, which diffs the profile against every batch script and the gallery.
 
 > ⚠️ **Pose count corrected 11/08/2026:** this line said Miss Doll=5 and Anaïs=4 — both stale since the 05/08/2026 standardization to 7 poses (universal camera-slot taxonomy, content per character). Miss Doll's 14 looks / 98 prompts already prove 7 in practice. Anaïs's galería (`galeria_looks_anais.md`, Looks 1-40) is **not yet retrofitted** — it's still written at 4 poses and stays that way as legacy; 7 poses apply going forward, same retrofit-on-touch convention used elsewhere in this repo (never a mass migration). See `anais.md` §4 for detail.
 

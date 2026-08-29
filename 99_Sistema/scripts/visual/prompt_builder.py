@@ -143,6 +143,57 @@ class PromptBuilder(object):
 
     # ------------------------------------------------------------------ anclas
 
+    # ------------------------------------------------------------------ BLOQUE A
+
+    # Marcador que abre el fence del ADN dentro del perfil visual. Es un comentario
+    # HTML: invisible al leer el .md, inequivoco al parsearlo. Buscar "el §2" o "el
+    # fence mas largo" es adivinar — y adivinar sobre el ADN es exactamente lo que
+    # esta clase existe para evitar.
+    MARCA_ADN = "<!-- ADN:BLOQUE_A -->"
+    _RX_ADN = re.compile(re.escape(MARCA_ADN) + r"\s*```(?:text)?\n(.*?)\n```", re.S)
+    _CACHE_ADN = {}
+
+    @property
+    def bloque_a(self):
+        """ADN del personaje, leido de su perfil visual (dueño unico).
+
+        Hasta el 29/08/2026 el motor NO guardaba el BLOQUE A: cada script de batch
+        lo copiaba a mano, y los tres perfiles lo escribian distinto — Ele en fence,
+        Miss Doll en fence con notas en castellano incrustadas, Anais sin token
+        literal en absoluto (solo la especificacion por componentes y una instruccion
+        de ir a copiarlo de la skill legacy). Nada verificaba las copias. Medido ese
+        dia: todavia coincidian, o sea el riesgo era estructural y no consumado.
+
+        Se LEE del perfil, no se copia aca: `02_Personajes/_perfiles_visuales/<slug>.md`
+        ya es el dueño declarado en CLAUDE.md. Duplicarlo en el JSON habria creado el
+        segundo dueño que este metodo existe para eliminar.
+        """
+        if self.slug not in self._CACHE_ADN:
+            rel = self.perfil.get("perfil_visual")
+            if not rel:
+                raise KeyError(
+                    "'%s' no declara perfil_visual en anclas_universales.json. Sin el, el "
+                    "BLOQUE A vuelve a copiarse a mano en cada batch." % self.slug)
+            ruta = os.path.normpath(os.path.join(AQUI, "..", "..", "..",
+                                                 rel.replace("/", os.sep)))
+            if not os.path.exists(ruta):
+                raise IOError("no existe el perfil visual de '%s': %s" % (self.slug, rel))
+            m = self._RX_ADN.search(open(ruta, encoding="utf-8").read())
+            if not m:
+                raise ValueError(
+                    "el perfil de '%s' no tiene el marcador %s seguido de un fence. "
+                    "El ADN debe vivir en un fence marcado; si se movio o se borro el "
+                    "marcador, restaurarlo antes de generar nada." % (self.slug, self.MARCA_ADN))
+            texto = self._limpiar(m.group(1))
+            for palabra in ("se fija en", "por look", "ver §", "NUNCA repetir"):
+                if palabra in texto:
+                    raise ValueError(
+                        "el BLOQUE A de '%s' tiene una nota editorial en castellano dentro "
+                        "del fence (%r). Dentro del fence va SOLO texto de prompt en ingles: "
+                        "la nota se mueve fuera." % (self.slug, palabra))
+            self._CACHE_ADN[self.slug] = texto
+        return self._CACHE_ADN[self.slug]
+
     @property
     def anclas_siempre(self):
         """Anclas propias del personaje presentes en TODOS sus slots (13/08/2026).
@@ -464,7 +515,11 @@ class PromptBuilder(object):
         """
         Devuelve el prompt final expandido.
 
-        bloque_a    : ADN literal del perfil §2 (se copia textual, nunca se resume)
+        bloque_a    : ADN. **Pasar None es lo recomendado desde el 29/08/2026** — el
+                      motor lo lee del perfil visual, que es su dueño único (ver la
+                      property `bloque_a`). Se sigue aceptando un texto explícito
+                      para los batches viejos que lo traen hardcodeado, pero eso es
+                      justamente la copia a mano que el dueño único vino a terminar
         bloque_b    : outfit del dia (se copia textual e identico en las N poses)
         slot        : standing | back_view | seated | side_profile | <slot5> | pov | odalisque
         pose_text   : lo UNICO que varia entre poses (encuadre, gesto, mirada)
@@ -473,7 +528,7 @@ class PromptBuilder(object):
                       resuelto aparte, o un refuerzo puntual del look)
         """
         slot_n = self.normalizar_slot(slot)
-        a = self._limpiar(bloque_a)
+        a = self._limpiar(bloque_a if bloque_a is not None else self.bloque_a)
         b = self._limpiar(bloque_b)
         pose = self._limpiar(pose_text)
         setting = self._limpiar(setting)
@@ -655,6 +710,54 @@ def _cli():
         print("\nPara agregar uno nuevo: entrada aqui + perfil visual desde la plantilla.")
         print("NUNCA un motor nuevo (esa fue la falla que dejo a Anais en 147 lineas).")
         return 0
+    if args[0] == "--adn":
+        # Verificador de dueño unico del BLOQUE A (29/08/2026). Sin esto, nada
+        # impide que un batch nuevo escriba un ADN con una palabra cambiada -- otra
+        # cara, otro cuerpo -- y que nadie lo note hasta ver las imagenes.
+        import glob
+        raiz = os.path.normpath(os.path.join(AQUI, "..", "..", ".."))
+
+        def norm(s):
+            return re.sub(r"\s+", " ", s or "").strip().strip(" .,")
+
+        malos = 0
+        for slug in cfg["personajes"]:
+            pb = PromptBuilder(slug, cfg)
+            try:
+                adn = norm(pb.bloque_a)
+            except Exception as e:
+                print("  %-10s  🔴 %s" % (slug, e))
+                malos += 1
+                continue
+            print("\n  %-10s  ADN del perfil: %d chars  (%s)"
+                  % (slug, len(adn), pb.perfil["perfil_visual"]))
+            # 1) contra los scripts de batch que todavia lo llevan hardcodeado
+            for f in sorted(glob.glob(os.path.join(AQUI, "gen_*.py"))):
+                txt = open(f, encoding="utf-8").read()
+                if 'PromptBuilder("%s")' % slug not in txt and "'%s'" % slug not in txt:
+                    continue
+                m = re.search(r"BLOQUE_A\w*\s*=\s*\((.*?)\n\)", txt, re.S)
+                if not m:
+                    continue
+                copia = norm("".join(re.findall(r'"([^"]*)"', m.group(1))))
+                base = os.path.basename(f)
+                if copia == adn:
+                    print("     ok   %-34s copia identica" % base)
+                else:
+                    malos += 1
+                    print("     🔴   %-34s DIVERGE (%d vs %d chars)" % (base, len(copia), len(adn)))
+            # 2) contra la galeria: el ADN abre cada prompt escrito
+            gal = os.path.join(raiz, pb.perfil["galeria"].replace("/", os.sep))
+            if os.path.exists(gal):
+                g = open(gal, encoding="utf-8").read()
+                cabeza = adn[:120]
+                print("     %s galeria: %d prompts abren con este ADN"
+                      % ("ok  " if cabeza in g else "🔎  ", g.count(cabeza)))
+        print("\n" + "-" * 70)
+        print("DUEÑO UNICO DEL BLOQUE A: %s" % ("LIMPIO — ninguna copia diverge" if not malos
+                                                else "🔴 %d divergencia(s)" % malos))
+        print("-" * 70)
+        return 1 if malos else 0
     if args[0] == "--poses":
         slug = args[1] if len(args) > 1 else "ele"
         pb = PromptBuilder(slug, cfg)

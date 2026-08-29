@@ -23,7 +23,22 @@
 
 ## §2 · BLOQUE A — ADN Inamovible (V2.3 Vintage Noir Hard-Sync)
 
-> ⚠️ **Copiar el token literal desde `dna_v2_3.md` o del canon §II. Nunca escribirlo de memoria.** Lo de abajo es la especificación de sus componentes, no un sustituto del token.
+> 🔒 **Este fence es el DUEÑO ÚNICO del BLOQUE A de Anaïs (29/08/2026).** Lo lee el motor —
+> `PromptBuilder.bloque_a` — y ya no se copia a mano en cada script de batch. El marcador
+> `<!-- ADN:BLOQUE_A -->` de abajo es lo que el motor busca: **no lo borres ni lo muevas**.
+>
+> Hasta hoy este perfil **no tenía el token literal**: solo la especificación por componentes que
+> sigue más abajo, y una instrucción de ir a copiarlo a `dna_v2_3.md` (skill legacy). Nada
+> verificaba que la copia coincidiera. El texto de acá se trajo de ese archivo y se comprobó
+> **carácter por carácter** contra el que realmente usan sus batches: idéntico.
+
+<!-- ADN:BLOQUE_A -->
+```text
+(unmistakably 42-year-old aristocratic woman, mature sharp bone structure and commanding severity of expression, never a soft youthful face:1.4), (flawless completely smooth unlined forehead, taut porcelain skin with zero visible creases or fine lines anywhere, the seamless perfection of decades of obsessive cosmetic maintenance:1.4), radiant dewy porcelain skin, luminous flawless medical-grade cosmetic finish, (aristocratic refined oval face, sculpted lifted hollowed mature cheekbones, sharp angular defined jawline:1.3), composed poised expression of a woman who has commanded rooms for decades, quiet mature gravitas in her gaze, small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, deep taupe and charcoal eyeshadow softly sculpted into the crease giving heavy-lidded smoky depth, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, (naturally full lips with soft volume and a well-defined cupid's bow, vivid deep crimson classic Hollywood red, flawlessly defined with a subtle gloss on the inner edge, slightly parted in a knowing look:1.2), honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, extremely long hip-length hair cascading past the shoulders, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, not voluptuous, not augmented, not bimbo-exaggerated, (natural moderate breasts, firm and perky with a well-defined natural shape:1.2), firm smooth glutes softly toned rather than sharply muscular, heavy-lidded bedroom eyes gaze, long stiletto-shaped manicured fingernails with glossy deep red polish, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light flattering her impeccably maintained features, George Hurrell style portraiture, intimate tension.
+```
+
+**Especificación de sus componentes** (lectura humana — el token de arriba es el que manda):
+
 
 - **Físico:** *ageless dominant woman in early 40s*, rostro oval aristocrático, pómulos esculpidos elevados, mandíbula definida. **MILF aristocrática — nunca joven, nunca bimbo.**
 - **Seña definitoria (OBLIGATORIA en toda imagen, sin excepción):**

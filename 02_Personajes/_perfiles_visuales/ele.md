@@ -26,8 +26,13 @@
 
 ## §2 · BLOQUE A — ADN Inamovible (V3.5 Hard-Sync)
 
-> Copiar **textualmente** desde `dna_v3_5.md`. Nunca de memoria.
+> 🔒 **Este fence es el DUEÑO ÚNICO del BLOQUE A de Ele (29/08/2026).** Lo lee el motor —
+> `PromptBuilder.bloque_a` — y ya no se copia a mano en cada script de batch. El marcador
+> `<!-- ADN:BLOQUE_A -->` de abajo es lo que el motor busca: **no lo borres ni lo muevas**.
+> Dentro del fence va SOLO texto de prompt en inglés; toda nota editorial va fuera de él.
+> `dna_v3_5.md` (skill legacy) quedó como puntero a este archivo.
 
+<!-- ADN:BLOQUE_A -->
 ```text
 stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, blackwork arm tattoos shown only on bare uncovered skin, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
 ```

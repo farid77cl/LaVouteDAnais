@@ -1,5 +1,16 @@
 # ADN Anaïs Belland — V2.3 Ageless Hard-Sync
 
+> 🔒 **ESTE ARCHIVO YA NO ES EL DUEÑO DEL BLOQUE A (29/08/2026).**
+> El dueño único es **`02_Personajes/_perfiles_visuales/anais.md`** §2 — el fence marcado con `<!-- ADN:BLOQUE_A -->`,
+> que es el que **lee el motor** (`PromptBuilder.bloque_a`). Este archivo vive en una
+> skill legacy por personaje, de las que el `outfit-engine` genérico vino a reemplazar.
+>
+> El texto de abajo se dejó como estaba y se verificó idéntico al del perfil el 29/08/2026.
+> **Si hay que cambiar el ADN, se cambia en el perfil, no acá.** Verificar con:
+> `python 99_Sistema/scripts/visual/prompt_builder.py --adn`
+
+---
+
 **Autoridad:** CANON_VISUAL_ANAIS.md v2.3 (28/04/2026)
 **Fuente:** `02_Personajes/01_Principales/CANON_VISUAL_ANAIS.md` Sección II y X
 
