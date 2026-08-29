@@ -47,9 +47,37 @@ CHUNKY = "chunky"
 LENCERIA_KEYS = ["lenc", "lingerie", "boudoir"]
 
 
+_RX_CACHE = {}
+
+
+def _rx(needle):
+    """Regex de PALABRA COMPLETA para un termino del vocabulario.
+
+    Antes esto era `needle in texto`, subcadena pura — y con 6 casos de prueba
+    escritos a mano nunca se noto. Corrido por primera vez sobre la flota real
+    (29/08/2026, auditar_canon_flota.py) el termino "ugg" salto en decenas de
+    looks de Ele: la palabra que lo disparaba era **suggestion**. Mismo riesgo
+    latente en "clog" (clogged), "wedge" (wedged) y " media" (immediate).
+
+    Se permite el espacio y el guion internos de los terminos compuestos
+    ("peep-toe", "flat shoe"), y se toleran ambos como separador.
+
+    El sufijo `s?` NO es adorno: el vocabulario esta escrito en singular
+    ("stocking", "sneaker", "wedge") y la galeria escribe en plural. Un `\b`
+    seco al final los mataba — el primer intento de este fix bajo los casos
+    detectados del self-check de 4 a 2 sin tocar una regla de canon. Es el
+    tropiezo registrado en `feedback_fix_que_hace_pasar_puede_corromper`: hay
+    que leer los casos que CAMBIAN de estado, no el contador.
+    """
+    if needle not in _RX_CACHE:
+        cuerpo = r"[\s-]+".join(re.escape(p) for p in needle.strip().lower().split())
+        _RX_CACHE[needle] = re.compile(r"\b%ss?\b" % cuerpo, re.I)
+    return _RX_CACHE[needle]
+
+
 def _has_any(text, needles):
     t = (text or "").lower()
-    return [n.strip() for n in needles if n.lower() in t]
+    return [n.strip() for n in needles if _rx(n).search(t)]
 
 
 def _platform_inches(footwear):
