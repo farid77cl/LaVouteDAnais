@@ -55,6 +55,15 @@ from pose_rotation_v5 import find_forbidden, has_skin_lock, NEG_MARKS_THROUGH
 
 # --- Vocabulario de deteccion -------------------------------------------------
 # Medias CON COSTURA (las que disparan el bug de la raya al frente):
+# Marcadores de que el ancla de orientacion de costura YA esta escrita en el prompt
+# (subcadenas distintivas de STOCKING_SEAM_FRONT / STOCKING_SEAM_BACK):
+SEAM_ANCHOR_MARKERS = ["one single seam and it runs strictly up the centre-back",
+                       "single back-seam of each stocking clearly visible",
+                       "front of each leg is completely smooth and seamless"]
+
+# Contexto que confirma que una "costura trasera" es de MEDIA y no de chaqueta:
+HOSIERY_CONTEXTO = ["stocking", "nylon", "hold-up", "holdup", "hosiery", "pantyhose",
+                    "tights", "bodystocking", "fishnet", "thigh-high", "thigh high"]
 SEAMED = ["back-seam", "back seam", "seamed stocking", "seamed nylon", "seamed hold-up",
           "seamed hosiery", "rht stocking", "cuban heel stocking", "seam stocking", "seamed tights",
           "stockings with a seam", "stockings with back seam", "seamed pantyhose", "seamed bodystocking"]
@@ -204,7 +213,21 @@ def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a=""):
                     f"puede rendir como encaje/enredadera generica. Anade NEG_PRINT_DRIFT al negative.")
 
     # 1) MEDIAS CON COSTURA sin ancla de orientacion (bug raya al frente)
+    # La costura solo es de MEDIA si hay media. "back seam" a secas tambien lo dice
+    # una chaqueta — el ancla WRAP_BACK_TAILORED describe "the smooth continuous back
+    # panel of the jacket with its centre-back seam and vent" — y sin este guardia el
+    # auditor marcaba MEDIAS CON COSTURA en todo look de blazer (medido 29/08/2026).
+    # Los terminos que ya nombran la media ("seamed stocking", "seamed nylon"...) no
+    # necesitan el contexto: se bastan solos.
     seamed = _has_any(og, SEAMED)
+    if seamed and not _has_any(og, HOSIERY_CONTEXTO):
+        seamed = [s for s in seamed if "stocking" in s or "nylon" in s or "hold-up" in s]
+    # `seam=True` era la unica forma de declarar el ancla, porque solo el inyector
+    # de pose_rotation_v5 sabia ponerla. Desde el 29/08/2026 prompt_builder tambien
+    # la escribe (SEAM_FRONT / SEAM_BACK), asi que un prompt ya anclado se reconoce
+    # por su texto y no por un parametro que el motor nuevo no tiene como pasar.
+    if seamed and _has_any(og, SEAM_ANCHOR_MARKERS):
+        seam = True
     if seamed and not seam:
         out.append(f"{pre}MEDIAS CON COSTURA ({', '.join(sorted(set(seamed)))}) sin seam=True: "
                    f"pasa rotate_poses(..., seam=True) o la raya sale por delante. "

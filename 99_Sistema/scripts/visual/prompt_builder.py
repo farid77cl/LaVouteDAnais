@@ -358,7 +358,25 @@ class PromptBuilder(object):
     # Opt-in que NO son globales al look sino de UN slot: el defecto que corrigen
     # solo existe en esa toma. Sin este filtro, el ancla de espalda se escribiria
     # tambien en Standing/POV, donde contradice la pose ("seen from behind").
-    OPT_IN_SOLO_SLOT = {"WRAP_BACK_ROBE": "back_view", "WRAP_BACK_TAILORED": "back_view"}
+    # El valor es el slot (o el conjunto de slots) donde el ancla aplica.
+    # SEAM_FRONT / SEAM_BACK son las dos caras de la misma condicion: la costura de
+    # la media es RELATIVA A LA CAMARA. De frente el generador la corre a la canilla
+    # para poder mostrarla (bug "raya al frente", L691/L748/L752), de espaldas debe
+    # verse. El Side Profile no lleva ninguna: de perfil la raya trasera cae en el
+    # borde posterior, que es lo correcto.
+    OPT_IN_SOLO_SLOT = {
+        "WRAP_BACK_ROBE": "back_view",
+        "WRAP_BACK_TAILORED": "back_view",
+        "SEAM_BACK": {"back_view"},
+        "SEAM_FRONT": {"standing", "seated", "slot5", "pov", "odalisque"},
+    }
+
+    @classmethod
+    def _aplica_en_slot(cls, nombre, slot):
+        permitido = cls.OPT_IN_SOLO_SLOT.get(nombre)
+        if permitido is None:
+            return True
+        return slot in permitido if isinstance(permitido, (set, frozenset)) else slot == permitido
 
     # Prendas cuyo CORTE debe nombrarse en el BLOQUE B (BOTTOM_CUT_LOCK, Ama 13/08/2026).
     # `bottom` a secas queda FUERA a proposito: aparece en "bottom of the frame".
@@ -380,9 +398,66 @@ class PromptBuilder(object):
             t = t.replace(ancla, " ")
         return bool(self.RX_CALZON.search(t)) and not self.RX_CORTE_OK.search(t)
 
+    # Candados de MATERIAL y PRENDA (29/08/2026). El motor generico nacio con las
+    # 30 anclas de pose, encuadre, orientacion y anatomia, y sin una sola de
+    # material: OPAQUE_LOCK, GLOSS_LOCK, HOSIERY_LOCK y animal_print_lock vivian
+    # unicamente en pose_rotation_v5.py, el motor viejo de Ele. Medido: los 130
+    # looks de Miss Doll y Anais se construyeron sin ninguna de las cuatro.
+    # Cada una tapa un defecto fotografiado — prenda cortada para mostrar el
+    # ombligo, material mate pese al token vinyl, media que cambia de color entre
+    # poses, leopardo que rinde como encaje.
+    #
+    # El vocabulario que las dispara NO se copia aqui: se importa de garment_canon
+    # y footwear_canon, que son sus dueños. Copiarlo seria volver a fabricar la
+    # divergencia que este mismo motor existe para evitar.
+    _VOCAB = None
+
+    @classmethod
+    def _vocab(cls):
+        if cls._VOCAB is None:
+            import garment_canon as G
+            import footwear_canon as F
+            cls._VOCAB = {
+                "OPAQUE_LOCK": G.COVERED_ARCHETYPES,
+                "GLOSS_LOCK": G.MATTE_PRONE,
+                "HOSIERY_LOCK": F.HOSIERY,
+                "ANIMAL_PRINT_LOCK": G.ANIMAL_PRINTS,
+            }
+        return cls._VOCAB
+
+    @staticmethod
+    def _nombra(texto, terminos):
+        """Primer termino del vocabulario presente como palabra completa, o None.
+
+        Palabra completa y no subcadena: `footwear_canon` cargaba ese mismo bug
+        ("ugg" dentro de "suggestion", encontrado el 29/08/2026 en la primera
+        corrida sobre la flota real). El `s?` cubre el plural de la galeria.
+        """
+        t = (texto or "").lower()
+        for term in terminos:
+            cuerpo = r"[\s-]+".join(re.escape(p) for p in term.strip().lower().split())
+            if re.search(r"\b%ss?\b" % cuerpo, t):
+                return term
+        return None
+
+    def animal_print_kind(self, bloque_b):
+        """Especie de estampado animal que nombra el BLOQUE B, o None."""
+        return self._nombra(bloque_b, self._vocab()["ANIMAL_PRINT_LOCK"])
+
     def opt_in_de(self, bloque_b):
         """Anclas opt-in que dispara el BLOQUE B de este look (registro: anclas_opt_in)."""
-        return [n for n, rx in self.OPT_IN if rx.search(bloque_b or "")]
+        nombres = [n for n, rx in self.OPT_IN if rx.search(bloque_b or "")]
+        for nombre, terminos in self._vocab().items():
+            if nombre not in nombres and self._nombra(bloque_b, terminos):
+                nombres.append(nombre)
+        # SEAM_* pide DOS condiciones: costura declarada Y que sea de media. Un
+        # blazer tambien tiene "centre-back seam" — el ancla WRAP_BACK_TAILORED lo
+        # dice con esas palabras — y sin el segundo filtro la costura de la chaqueta
+        # activaria el candado de la media (medido 29/08/2026).
+        import garment_canon as G
+        if self._nombra(bloque_b, G.SEAMED) and self._nombra(bloque_b, G.HOSIERY_CONTEXTO):
+            nombres += ["SEAM_FRONT", "SEAM_BACK"]
+        return nombres
 
     def build(self, bloque_a, bloque_b, slot, pose_text, setting,
               extra_final=None, extra_anclas=None, auto_opt_in=True):
@@ -418,8 +493,7 @@ class PromptBuilder(object):
                     nombres_extra.append(n)
 
         # Opt-in de slot: se descartan fuera de la toma que corrigen (ver OPT_IN_SOLO_SLOT).
-        nombres_extra = [n for n in nombres_extra
-                         if self.OPT_IN_SOLO_SLOT.get(n, slot_n) == slot_n]
+        nombres_extra = [n for n in nombres_extra if self._aplica_en_slot(n, slot_n)]
         # Desempate: un look que nombra bata Y chaqueta (kimono sobre blazer) no puede
         # llevar las dos anclas — se contradicen sobre el mismo panel de espalda. Manda
         # la estructurada: es la capa exterior y la que dibuja la silueta desde atras.
@@ -437,7 +511,21 @@ class PromptBuilder(object):
         if self.slug == "miss_doll" and slot_n == "seated":
             nombres_extra = [n for n in nombres_extra if n != "DRESS_LEG_CLOSURE"]
 
-        globales = globales + [self.anclas[n]["texto"] for n in nombres_extra]
+        # ANIMAL_PRINT_LOCK es la unica ancla paramétrica del contrato: su texto
+        # lleva {kind} y hay que resolverlo con la especie que nombra el BLOQUE B
+        # ("the leopard print is a genuine leopard-skin marking texture..."). Un
+        # {kind} sin resolver lo caza validar() como placeholder prohibido, que es
+        # la red de seguridad deliberada.
+        kind = self.animal_print_kind(b) if "ANIMAL_PRINT_LOCK" in nombres_extra else None
+        textos_extra = []
+        for n in nombres_extra:
+            txt = self.anclas[n]["texto"]
+            if "{kind}" in txt:
+                if not kind:
+                    continue  # sin especie no se escribe un candado a medias
+                txt = txt.replace("{kind}", kind)
+            textos_extra.append(txt)
+        globales = globales + textos_extra
 
         # FOOTWEAR_ECHO cierra siempre (va despues del setting, como en la flota de Ele).
         eco = None

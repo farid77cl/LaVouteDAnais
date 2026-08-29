@@ -28,6 +28,30 @@
       "porque": "Toda prenda de frente abierto (bata, kimono, blazer, abrigo) sale dada vuelta en Back View: el generador rota la prenda para mostrar su frente.",
       "texto": "seen genuinely from behind, the back of the body and the back of the garment toward the lens, any front-opening piece still worn the right way round with its opening, lacing or fastening at the FRONT of the body and therefore hidden from this angle, never rotated so that the front of the garment faces the camera"
     },
+    "SEAM_FRONT": {
+      "porque": "OPT-IN POSE-AWARE (slots de frente). `back-seam stockings` es RELATIVO A LA CÁMARA: en una pose de frente el generador pinta la raya en la cara visible — la canilla — para poder mostrarla, y la costura sale por delante (confirmado en L691, L748, L752; auto-memoria feedback_media_raya_frontal). Esta variante fuerza el frente liso. El Side Profile NO la lleva: de perfil la raya trasera cae en el borde posterior, que es lo correcto. Vivía solo en pose_rotation_v5.py.",
+      "texto": "the stockings have ONE single seam and it runs strictly up the centre-BACK of each leg, hidden behind the calf and thigh and NOT visible from the front; the front of each leg is completely smooth and seamless, with no seam, line, stripe or stitching down the shin, the knee or the front of the thigh"
+    },
+    "SEAM_BACK": {
+      "porque": "OPT-IN POSE-AWARE (solo back_view). La contraparte de SEAM_FRONT: vista desde atrás la costura SÍ debe verse, subiendo recta por el centro de la pantorrilla. Sin esta variante el ancla de frente contradiría la toma.",
+      "texto": "the single back-seam of each stocking clearly visible running straight up the centre-back of the calf and thigh, and no seam anywhere on the front of the leg"
+    },
+    "OPAQUE_LOCK": {
+      "porque": "OPT-IN. Sin el, Gemini le abre un keyhole o un cut-out a la prenda cubierta para dejar ver el ombligo y las runas de la cadera — cumple el ADN a costa de romper el vestuario (auto-memoria feedback_cortes_ropa_runas_ombligo). Lo dispara el vocabulario de arquetipo cubierto, cuyo dueño es garment_canon.COVERED_ARCHETYPES. Vivía solo en pose_rotation_v5.py, el motor viejo de Ele: los 130 looks de Miss Doll y Anaïs se construyeron sin él (medido 29/08/2026).",
+      "texto": "the garment is solid and uncut across the bust, midriff, navel and hips with NO keyhole, cutout, underboob window, peekaboo opening or slashing; the navel piercing and the hip rune tattoos stay concealed beneath the fabric wherever the garment covers that area, showing only where the design is genuinely bare and never through a hole cut into a covering garment"
+    },
+    "GLOSS_LOCK": {
+      "porque": "OPT-IN. Tener la palabra `vinyl` en el BLOQUE B NO basta: la silueta manda sobre el material y un blazer o un conjunto de gym salen en tela mate igual (auto-memoria feedback_material_mate_vs_fetish). Lo dispara garment_canon.MATTE_PRONE. Misma procedencia y mismo hueco que OPAQUE_LOCK.",
+      "texto": "rendered in a high-shine liquid latex / wet-look PVC / patent vinyl finish with strong specular highlights and a glossy mirror-like reflective surface, absolutely no matte or natural non-reflective fabric"
+    },
+    "HOSIERY_LOCK": {
+      "porque": "OPT-IN. La media deriva entre poses igual que la prenda — cambia de color, pierde el patrón, se despareja entre las dos piernas o desaparece en piernas desnudas. GARMENT_CONSISTENCY fija la PRENDA y no la nombra. Lo dispara el vocabulario de hosiery de footwear_canon.HOSIERY.",
+      "texto": "the stockings are exactly ONE single pair rendered precisely as described: their colour, their print or pattern, their opacity and their length on the thigh follow the description word for word, never a different colour, never missing their pattern, never mismatched between the two legs and never swapped for bare legs"
+    },
+    "ANIMAL_PRINT_LOCK": {
+      "porque": "OPT-IN PARAMÉTRICA: el marcador {kind} lo resuelve build() con la especie que nombra el BLOQUE B (garment_canon.ANIMAL_PRINTS). Sin el candado el estampado rinde como encaje, enredadera o tela lisa — bug real fotografiado en el Look 764, donde el python-print salió como encaje. Es la única ancla del contrato con placeholder; si quedara sin resolver, PromptBuilder.validar() la caza como placeholder prohibido.",
+      "texto": "the {kind} print is a genuine {kind}-skin scale/marking texture rendered consistently across every visible inch of the printed fabric, NOT a lace pattern, NOT a floral or vine motif, NOT embroidery or filigree, and NOT a plain sheer fabric with no pattern at all"
+    },
     "WRAP_BACK_ROBE": {
       "porque": "OPT-IN de slot (solo back_view). BACK_ANCHOR ya trae UNA cláusula genérica de prenda de frente abierto, pero la Ama reporta el 29/08/2026 que «aún hay problemas con el renderizado de las batas» — y la medición le da la razón: de 186 back-views con prenda abierta, 114 llevaban SOLO esa cláusula corta (el 100% de Miss Doll y de Anaïs) contra 49 de Ele con la versión larga aplicada a mano el 02/08. La cláusula corta afirma la orientación; ésta además niega el defecto exacto (abertura, solapa o costura corriendo por la columna) y nombra el sash. Vivía solo en pose_rotation_v5.py, o sea en el motor viejo de Ele — el caso literal de feedback_fix_en_un_personaje_no_es_fix. Este JSON pasa a ser su dueño único.",
       "texto": "the open-front wrap garment (robe, kimono or peignoir) worn correctly and facing forward, seen from behind as a single continuous closed panel of fabric draping straight down the spine to the hem, its front opening, lapels, neckline and sash knot all on the far side away from the camera and not visible from behind, with no parting, no seam and no neckline down the back"
@@ -190,6 +214,12 @@
     "ACCESSORY_COUNT_LOCK": "el BLOQUE B nombra una cantidad exacta de accesorio: a single cuff / one glove / a single earring / an anklet",
     "GARMENT_EXCLUSION_LOCK": "el BLOQUE B declara una ausencia: no corset · no stockings · no jewelry · bare legs · no gloves",
     "DRESS_LEG_CLOSURE": "el BLOQUE B nombra prenda de falda: dress · gown · skirt · robe · kimono · túnica (Ama 13/08/2026, transversal a las tres muñecas)",
+  "SEAM_FRONT": "el BLOQUE B nombra medias CON COSTURA (back-seam · seamed stocking · seamed nylon). Solo en los slots de frente; el Side Profile queda fuera a propósito",
+  "SEAM_BACK": "misma condición que SEAM_FRONT, solo en back_view: desde atrás la costura sí se muestra",
+  "OPAQUE_LOCK": "el BLOQUE B nombra arquetipo/prenda cubierta (garment_canon.COVERED_ARCHETYPES: gown · bodycon · blazer · corset · corselette · catsuit · bustier · crop top · maid · domme...)",
+  "GLOSS_LOCK": "el BLOQUE B nombra silueta propensa a tela mate (garment_canon.MATTE_PRONE: blazer · suit · pencil skirt · ribbed · sports bra · leggings · hoodie · tracksuit...)",
+  "HOSIERY_LOCK": "el BLOQUE B nombra medias (stocking · fishnet · nylon · hosiery · pantyhose · hold-up · bodystocking)",
+  "ANIMAL_PRINT_LOCK": "el BLOQUE B nombra estampado animal (python · snake · leopard · tiger · zebra). El {kind} lo resuelve build() con la especie detectada",
   "WRAP_BACK_ROBE": "el BLOQUE B nombra prenda envolvente de frente abierto: robe · kimono · peignoir · bata · wrap dress. SOLO se aplica al slot back_view (Ama 29/08/2026)",
   "WRAP_BACK_TAILORED": "el BLOQUE B nombra chaqueta estructurada de frente abierto: blazer · coat · trench · tuxedo · coat-dress · bolero. SOLO se aplica al slot back_view (Ama 02/08/2026, subida al motor genérico 29/08/2026)"
   },

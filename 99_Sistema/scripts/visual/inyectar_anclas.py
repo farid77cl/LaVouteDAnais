@@ -169,7 +169,7 @@ def anclas_requeridas(pb, slot, prompt, con_opt_in, excluidas=()):
             # inyector la escribia tambien en Standing y POV, donde su texto
             # ("seen from behind") contradice la pose. El builder ya lo filtra
             # en build(); esta funcion es la otra mitad de la misma regla.
-            if pb.OPT_IN_SOLO_SLOT.get(n, slot) != slot:
+            if not pb._aplica_en_slot(n, slot):
                 continue
             if n not in nombres and n not in excluidas:
                 nombres.insert(n_globales, n)
