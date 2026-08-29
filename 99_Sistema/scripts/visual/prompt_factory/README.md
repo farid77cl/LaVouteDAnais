@@ -1,6 +1,10 @@
-# 🏭 PromptFactory: Generador Automatizado de Prompt Banks
+# 🏭 PromptFactory — Generador de Bancos Temáticos de Prompts
 
-Sistema modular para la creación masiva de prompts estandarizados y validados para La Voûte d'Anaïs.
+*Última actualización: 29/08/2026 — el ejemplo de configuración nombraba a **Helena**, la era retirada (hoy es Ele). Aclarado además qué relación tiene con el `outfit-engine`, que no es la misma herramienta.*
+
+Sistema modular para crear **bancos temáticos** de prompts en `00_Ele/bancos_prompts/` (74 bancos · 5.032 prompts, medido 29/08/2026).
+
+> ⚠️ **Esto NO es el motor de looks.** Un *banco* es una colección temática exploratoria; un *look* es una pieza de la flota canónica con sus 7 poses, su ADN bloqueado y sus anclas anti-defecto. Los looks se generan **solo** con [`../outfit.py`](../outfit.py) desde un JSON de `batches/` — nunca desde aquí, y nunca a mano.
 
 ## 📂 Estructura
 
@@ -12,7 +16,7 @@ Sistema modular para la creación masiva de prompts estandarizados y validados p
 ## 🚀 Cómo Crear un Nuevo Banco
 
 1.  **Crear Configuración JSON:**
-    Duplica `configs/v70_pilot.json` y renómbralo (ej. `v71_gothic_nurse.json`).
+    Duplica `configs/v70_pilot.json` (o el más reciente, `config_v77_miss_doll_escort.json`) y renómbralo (ej. `v71_gothic_nurse.json`).
 
     ```json
     {
@@ -21,7 +25,7 @@ Sistema modular para la creación masiva de prompts estandarizados y validados p
       "title": "🩸 BANCO V71 - GOTHIC NURSE",
       "theme": "Medical Fetish",
       "target_count": 50,
-      "characters": ["Miss Doll", "Helena"],
+      "characters": ["Miss Doll", "Ele"],
       "variables": {
         "outfits": ["pvc nurse dress", "latex medical apron"],
         "settings": ["gothic hospital", "abandoned ward"],

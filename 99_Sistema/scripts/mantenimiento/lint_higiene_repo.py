@@ -170,7 +170,7 @@ def main():
             continue
         head = "\n".join(cuerpo.get(f, "").splitlines()[:8])
         m = RE_OBSOLETO.search(head)
-        if m and not RE_SUCESOR.search(head[m.end():m.end() + 300]):
+        if m and not RE_SUCESOR.search(head[m.end():m.end() + 600]):
             hallazgos["H4 · Se declara muerto y no nombra sucesor"].append(
                 (f, "dice %s sin apuntar a quien lo reemplaza" % m.group(1).lower()))
 

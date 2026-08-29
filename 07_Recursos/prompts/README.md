@@ -1,6 +1,16 @@
-# 📝 System Prompts — Pipeline Literario
+# 📝 System Prompts — Pipeline Literario (ARCHIVO, era v4.5/v4.6)
 
-System prompts para los agentes que componen el pipeline de escritura de **La Voûte d'Anaïs**, ejecutados como roles dentro de Claude Code.
+> 🔒 **DEPRECADO 29/08/2026 — el pipeline vigente vive en [`../../.agent/skills/engine-escritura-lv/SKILL.md`](../../.agent/skills/engine-escritura-lv/SKILL.md).** Estos 12 prompts describen los agentes del **Engine v4.5/v4.6 (Nivel 3)**, sustituidos el 28/05/2026 por Nivel 4. Este README los presentaba como si siguieran corriendo.
+>
+> **El pipeline vivo es v4.8, con cuatro subagentes:** `investigador` → `compositor` → `escritor-nivel4` → `validador`, definidos en [`../../.claude/agents/`](../../.claude/agents/) y especificados en [`../../.agent/skills/engine-escritura-lv/SKILL.md`](../../.agent/skills/engine-escritura-lv/SKILL.md).
+>
+> Sus antecesores archivados —los mismos roles de aquí, ya como definición de agente— viven en [`../../.claude/agents/_legacy_v46/`](../../.claude/agents/_legacy_v46/) y **no deben invocarse**.
+
+**Qué sigue valiendo de esta carpeta:** son el registro de cómo se pensaba cada rol antes del colapso 9→3. `mentor.md`, `orquestador.md` y `termometro.md` ni siquiera tienen equivalente moderno — el diagnóstico de por qué desaparecieron está en [`../../01_Canon/REDISENO_ENGINE_ESCRITURA_v4.6.md`](../../01_Canon/REDISENO_ENGINE_ESCRITURA_v4.6.md).
+
+---
+
+*Material histórico. Ejecutados como roles dentro de Claude Code en la era v4.5/v4.6.*
 
 > **Histórico:** Estos prompts originalmente alimentaban un pipeline Ollama + `web_interface/server.py`. Esa infraestructura fue desmantelada hace meses. Hoy cada prompt funciona como **definición de rol** que el operador (Claude) asume manualmente al invocar la fase correspondiente.
 

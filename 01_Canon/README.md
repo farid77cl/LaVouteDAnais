@@ -2,7 +2,7 @@
 
 *Las reglas del universo. La guía de quién somos y cómo escribimos.*
 
-*Última actualización: 01/06/2026 — `voz_autoral.md` + `antologia_calenton.md` actualizados con 5 frases validadas del Cap 1 esposa_servidumbre v0.5 (aprobadas por la Ama): 3 frases de Valeria a voz_autoral + Fragmentos 6-7 a la antología ("te dejé un coño" + "un calor de mujer"). Voceo residual corregido a chileno. — Previo (23/05): Guías Especializadas reorganizadas (8 mayo + 3 abril en `legacy/`).*
+*Última actualización: 29/08/2026 — **índice completado.** Faltaban en las tablas seis archivos que sí viven aquí (`voz_autoral.md`, `antologia_calenton.md`, `CALENTON_AMA.md`, el rediseño v4.6 y las dos plantillas de mecanismo), y no se nombraba ninguno de los dos motores que consumen este canon. — Previo (01/06/2026): `voz_autoral.md` + `antologia_calenton.md` actualizados con 5 frases validadas del Cap 1 esposa_servidumbre v0.5 (aprobadas por la Ama): 3 frases de Valeria a voz_autoral + Fragmentos 6-7 a la antología ("te dejé un coño" + "un calor de mujer"). Voceo residual corregido a chileno. — Previo (23/05): Guías Especializadas reorganizadas (8 mayo + 3 abril en `legacy/`).*
 
 ---
 
@@ -12,6 +12,25 @@ Este es el documento supremo que unifica toda la legislación literaria.
 | Archivo | Contenido |
 |---------|-----------| 
 | [LIBRO_MAESTRO_ESCRITURA.md](LIBRO_MAESTRO_ESCRITURA.md) | **FUENTE ÚNICA DE VERDAD** — Filosofía, Teoría del Arousal, Niveles de Transformación, Código Ele y Guías Especializadas. |
+
+---
+
+## ✍️ Lo que leen los motores al escribir
+
+Estos dos archivos son **insumo directo del subagente `escritor-nivel4`** en cada capítulo. No son teoría: son el material que imita.
+
+| Archivo | Contenido |
+|---------|-----------|
+| [voz_autoral.md](voz_autoral.md) | **Voz persistente** — tics acumulados de los capítulos ya aprobados por la Ama |
+| [antologia_calenton.md](antologia_calenton.md) | **Antología textual a imitar** — fragmentos reales, NO listas abstractas de mecanismos |
+| [Guias_Especializadas/CALENTON_AMA.md](Guias_Especializadas/CALENTON_AMA.md) | Qué calienta a la Ama, en sus términos |
+| [plantilla_mecanismo_calenton.md](plantilla_mecanismo_calenton.md) · [plantilla_ritual_calenton_pre_escritura.md](plantilla_ritual_calenton_pre_escritura.md) | Plantillas de diseño previo a escribir |
+| [REDISENO_ENGINE_ESCRITURA_v4.6.md](REDISENO_ENGINE_ESCRITURA_v4.6.md) | 🩺 **Diagnóstico** del colapso 9→3 subagentes. Documento histórico: explica POR QUÉ el motor es como es |
+| [canon_outfit_engine_v46_variedad_descriptividad.md](canon_outfit_engine_v46_variedad_descriptividad.md) | Canon de descriptividad del motor visual (7 campos por outfit, 8 por tacón) |
+
+> 🔧 **Los motores que consumen este canon:**
+> · **Relatos** → [`.agent/skills/engine-escritura-lv/SKILL.md`](../.agent/skills/engine-escritura-lv/SKILL.md) — v4.8, cuatro subagentes: `investigador` → `compositor` → `escritor-nivel4` → `validador`.
+> · **Trances** → [`.agent/skills/engine-trance-lv/SKILL.md`](../.agent/skills/engine-trance-lv/SKILL.md) — v1.2, un fork aparte: `miss-doll` → `validador-trance`, con su propia rúbrica. **No se cruzan los validadores.**
 
 ---
 
@@ -39,6 +58,8 @@ Este es el documento supremo que unifica toda la legislación literaria.
 | [Guias_Especializadas/guia_terror_erotico.md](Guias_Especializadas/guia_terror_erotico.md) | Terror erótico / horror sensual | Atmósferas terror |
 | [Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md](Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md) | Corpus empírico (14 relatos de referencia) | Consulta durante escritura |
 | [Guias_Especializadas/ANÁLISIS_ESTILO_LITERARIO.md](Guias_Especializadas/ANÁLISIS_ESTILO_LITERARIO.md) | Análisis de estilo del corpus | Consulta durante escritura |
+
+> ⚠️ **Las guías son anatomía, no checklist.** Se estudian antes de escribir y se usan para auditar después — jamás se aplican punto por punto. Si la costura se ve, la guía falló. Un relato puede cruzar varios ejes: se cargan las guías que correspondan.
 
 ### Guías Legacy
 | Directorio | Contenido |

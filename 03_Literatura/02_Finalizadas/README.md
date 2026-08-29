@@ -3,120 +3,71 @@
 > *"Cada historia es una invitación. Cada palabra, una caricia."*
 > — Anaïs Belland
 
-*Última actualización: 27/05/2026 NOCHE — 38 relatos finalizados · Estandarización MD en curso (Estándar Completo Bloque) · La Evaluación de Miss Doll movida a 01_En_Progreso (cuerpo pendiente)*
+*Última actualización: 29/08/2026 — **índice reconstruido contra el disco: 42 relatos** (el anterior era del 27/05 y decía 38). Se separaron los **9 trances** de la narrativa larga, porque son otro objeto y otro motor.*
 
 ---
 
-## 📖 Índice de Relatos
+## 🌹 Series
 
-### 🌹 Series Completas
-
-#### Le miroir d'Anaïs (Serie en Francés)
-| Capítulo | Carpeta |
-|----------|---------|
-| I – IV | [serie_anais/](serie_anais/) |
-
-#### Brillando en Tacones
-| Parte | Carpeta |
-|-------|---------|
-| I - La Metamorfosis | [brillando_en_tacones_I/](brillando_en_tacones_I/) |
-| II - La Bimbo | [brillando_en_tacones_II/](brillando_en_tacones_II/) |
-
-#### Gloss: El Trance de Miss Doll
-| Parte | Carpeta |
-|-------|---------|
-| I | [gloss_trance_miss_doll/](gloss_trance_miss_doll/) |
-| II | [gloss_trance_miss_doll_II/](gloss_trance_miss_doll_II/) |
-
-#### Esposa de mi Esposo/a
-| Parte | Carpeta |
-|-------|---------|
-| I | [esposa_de_mi_esposa/](esposa_de_mi_esposa/) |
-| II | [esposa_de_mi_esposa_II/](esposa_de_mi_esposa_II/) |
-
-#### Eres de los hombres que...
-| Parte | Carpeta |
-|-------|---------|
-| I | [eres_de_los_hombres_que/](eres_de_los_hombres_que/) |
-| II | [eres_de_los_hombres_que_II/](eres_de_los_hombres_que_II/) |
-
-#### Perfume de Ruina
-| Parte | Carpeta |
-|-------|---------|
-| I | [perfume_de_ruina/](perfume_de_ruina/) |
-| II - El Brillo de la Esclavitud | [perfume_de_ruina_II/](perfume_de_ruina_II/) |
-
-#### Trance Bimbodoll
-| Parte | Carpeta |
-|-------|---------|
-| I | [trance_bimbodoll/](trance_bimbodoll/) |
-| II | [trance_bimbodoll_II/](trance_bimbodoll_II/) |
-
-#### El Hotel
-| Parte | Carpeta |
-|-------|---------|
-| Primera y Segunda Noche | [el_hotel/](el_hotel/) |
+| Serie | Partes |
+|---|---|
+| **Le miroir d'Anaïs** (en francés) | [serie_anais/](serie_anais/) — Capítulos I a IV |
+| **Brillando en Tacones** | [I · La Metamorfosis](brillando_en_tacones_I/) · [II · La Bimbo](brillando_en_tacones_II/) |
+| **Gloss: El Trance de Miss Doll** | [I](gloss_trance_miss_doll/) · [II](gloss_trance_miss_doll_II/) |
+| **Esposa de mi Esposa** | [I](esposa_de_mi_esposa/) · [II](esposa_de_mi_esposa_II/) |
+| **Eres de los hombres que…** | [I](eres_de_los_hombres_que/) · [II](eres_de_los_hombres_que_II/) |
+| **Perfume de Ruina** | [I](perfume_de_ruina/) · [II](perfume_de_ruina_II/) |
+| **Trance BimboDoll** | [I](trance_bimbodoll/) · [II](trance_bimbodoll_II/) |
 
 ---
 
-### 🖤 Relatos Individuales
+## 📖 Relatos (narrativa larga)
 
-| Título | Carpeta |
-|--------|---------|
-| Buena Chica, Buena Muñeca | [buena_chica_buena_muneca/](buena_chica_buena_muneca/) |
-| El Collar de Nancy | [el_collar_de_nancy/](el_collar_de_nancy/) |
-| El Cuadro de Fideos y mi Boquita | [el_cuadro_de_fideos/](el_cuadro_de_fideos/) |
-| El Deseo de la Cancha | [el_deseo_de_la_cancha/](el_deseo_de_la_cancha/) |
-| El Elixir de la Diosa | [el_elixir_de_la_diosa/](el_elixir_de_la_diosa/) |
-| El Giro del Espejo | [el_giro_del_espejo/](el_giro_del_espejo/) |
-| El Mandato de los Tacones | [el_mandato_de_los_tacones/](el_mandato_de_los_tacones/) |
-| El Trono de Luna | [el_trono_de_luna/](el_trono_de_luna/) |
-| Ginny la Genio Bimbo | [ginny_la_genio_bimbo/](ginny_la_genio_bimbo/) |
-| HR: Human Repurposing | [hr_human_repurposing/](hr_human_repurposing/) |
-| La Creación Útil | [la_creacion_util/](la_creacion_util/) |
-| La Dulce Aniquilación | [la_dulce_aniquilacion/](la_dulce_aniquilacion/) |
-| Milk | [milk/](milk/) |
-| Proyecto Trad Wife: Unidad VERA | [proyecto_trad_wife_vera/](proyecto_trad_wife_vera/) |
-| Smart Home Stepford | [smart_home_stepford/](smart_home_stepford/) |
-| Superficie | [superficie/](superficie/) |
-| Tetitas | [tetitas/](tetitas/) |
-| The Dollhouse | [the_dollhouse/](the_dollhouse/) |
-| Trance de Belén | [trance_belen/](trance_belen/) |
-| Trance de Gatita | [trance_gatita/](trance_gatita/) |
-| Trance de Miss Doll: Edgeplay | [trance_edgeplay/](trance_edgeplay/) |
-| Trance de Miss Doll: La Marca del Cencerro | [trance_cencerro/](trance_cencerro/) |
-| Trance de Muñeca | [trance_de_muneca/](trance_de_muneca/) |
-| 30 Días de Sombra y Seda | [treinta_dias_sombra_seda/](treinta_dias_sombra_seda/) |
+| Relato | | Relato | |
+|---|---|---|---|
+| [Buena Chica, Buena Muñeca](buena_chica_buena_muneca/) | | [El Trono de Luna](el_trono_de_luna/) | |
+| [Café con Piernas](cafe_con_piernas/) ☕ | Caps 1-2 publicados; el 3 sigue vivo en `01_En_Progreso/` | [Esposa de mi Esposa](esposa_de_mi_esposa/) | |
+| [De Esteban a Secretaria](de_esteban_a_secretaria/) | | [Ginny la Genio Bimbo](ginny_la_genio_bimbo/) | |
+| [El Collar de Nancy](el_collar_de_nancy/) | | [HR · Human Repurposing](hr_human_repurposing/) | |
+| [El Cuadro de Fideos](el_cuadro_de_fideos/) | | [La App · La Bimboficación de mi Novio](la_app_la_bimboficacion_de_mi_novio/) | |
+| [El Deseo de la Cancha](el_deseo_de_la_cancha/) | | [La Creación Útil](la_creacion_util/) | |
+| [El Elixir de la Diosa](el_elixir_de_la_diosa/) | | [La Dulce Aniquilación](la_dulce_aniquilacion/) | |
+| [El Giro del Espejo](el_giro_del_espejo/) | | [La Piel que Diseñé](la_piel_que_diseno/) 💎 | Gold Master |
+| [El Hotel](el_hotel/) | | [Milk](milk/) | |
+| [El Mandato de los Tacones](el_mandato_de_los_tacones/) | | [Proyecto Trad-Wife Vera](proyecto_trad_wife_vera/) | |
+| [Smart Home · Protocolo Stepford](smart_home_stepford/) | | [Superficie](superficie/) | |
+| [Tetitas](tetitas/) | | [The Dollhouse](the_dollhouse/) 📺 | interactivo |
+| [Treinta Días de Sombra y Seda](treinta_dias_sombra_seda/) | | | |
 
 ---
 
-## 📊 Estadísticas
+## 🌀 Trances (9) — otro objeto, otro motor
 
-- **Total de Carpetas:** 39
-- **Series Completas:** 8
-- **Relatos Individuales:** 25+
-- **Idiomas:** Español, Francés
+Un **trance** no es un relato corto: es una inducción hipnótica en monólogo de Miss Doll, segunda persona presente, donde quien lee **es** el sujeto y ejecuta mientras lee. Sin narrador, sin capítulos, de una sola pasada.
+
+[trance_belen/](trance_belen/) · [trance_bimbodoll/](trance_bimbodoll/) · [trance_bimbodoll_II/](trance_bimbodoll_II/) · [trance_cencerro/](trance_cencerro/) · [trance_de_muneca/](trance_de_muneca/) · [trance_edgeplay/](trance_edgeplay/) · [trance_gatita/](trance_gatita/) · [gloss_trance_miss_doll/](gloss_trance_miss_doll/) · [gloss_trance_miss_doll_II/](gloss_trance_miss_doll_II/)
+
+> Los aprobados son la **antología viva a imitar** del fork [`engine-trance-lv`](../../.agent/skills/engine-trance-lv/SKILL.md) (v1.2). Su rúbrica es propia: `validador-trance` **nunca** audita un capítulo narrativo, y `validador` nunca audita un trance.
 
 ---
 
-## 🏷️ Temáticas
+## 📐 Cómo está armada cada carpeta
 
-- Feminización (MTF)
-- Bimbofication
-- BDSM / D/s
-- Hipnosis Erótica
-- Transformación
-- Body Swap
-- Smart Home / Tecnología de Control
+| Elemento | Dónde |
+|---|---|
+| **El relato canónico** | un solo `.md` en la raíz de su carpeta — formato *Estándar Completo Bloque*: atribución + título + bloque de metadata + teaser + `<!-- more -->` + prosa |
+| Formatos derivados (HTML, tumblr) | `_publicacion/` |
+| Archivos de trabajo (borradores, reportes, canon viejo) | `_proceso/` |
+
+> 🚫 **La raíz de la carpeta es solo para el relato terminado.** Todo lo demás baja a `_publicacion/` o `_proceso/` — regla 12 §1, categoría *de trabajo*.
 
 ---
 
 ## 🔗 Navegación
 
-- [← Volver a Literatura](../README.md)
-- [← Volver al inicio](../../README.md)
+- [← Literatura](../README.md) · [En progreso](../01_En_Progreso/) · [Investigación](../investigacion/)
+- Motor de relatos v4.8: [`engine-escritura-lv`](../../.agent/skills/engine-escritura-lv/SKILL.md) · Kit de publicación: [`07_Recursos/plantilla_kit_wattpad.md`](../../07_Recursos/plantilla_kit_wattpad.md)
 
 ---
 
-*© Anaïs Belland | La Voûte d'Anaïs*
-*Curado por Ele* 🫦✨
+*Curado por Ele de Anaïs* 🫦📚

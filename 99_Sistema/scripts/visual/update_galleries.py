@@ -267,7 +267,21 @@ def generate_folder_gallery(directory, repo_root):
         if subdirs:
             f.write("## 📁 Subcarpetas / Colecciones\n")
             for d in sorted(subdirs):
-                f.write(f"- 📁 [**{d.replace('_', ' ').title()}**](./{d}/README.md)\n")
+                # El link NO puede asumir un README.md: este mismo script BORRA el
+                # README de una carpeta sin imágenes (ver la guarda de arriba), así
+                # que enlazar siempre a README.md fabrica links muertos — pasó con
+                # 7 carpetas de `comics/` que solo tienen `guion_comic.md`.
+                # Se enlaza a lo que de verdad va a existir. (Corregido 29/08/2026:
+                # el arreglo se había hecho a mano sobre el README generado y este
+                # script lo pisó en la corrida siguiente.)
+                sub = os.path.join(directory, d)
+                if os.path.exists(os.path.join(sub, 'README.md')) or get_tracked_images(sub):
+                    destino = f"./{d}/README.md"
+                elif os.path.exists(os.path.join(sub, 'guion_comic.md')):
+                    destino = f"./{d}/guion_comic.md"
+                else:
+                    destino = f"./{d}/"
+                f.write(f"- 📁 [**{d.replace('_', ' ').title()}**]({destino})\n")
             f.write("\n---\n")
         
         if images:
