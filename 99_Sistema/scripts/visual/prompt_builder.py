@@ -310,8 +310,19 @@ class PromptBuilder(object):
     # ----------------------------------------------------------------- ensamble
 
     OPT_IN = (
+        # `asymmetric` a secas se leia tambien en el PELO. El ADN de Miss Doll dice
+        # "sharp platinum blonde asymmetric angled bob" y viaja literal en sus 455
+        # prompts: la palabra aparece 661 veces en su galeria y disparaba el ancla
+        # en looks de prenda simetrica, donde ASYMMETRY_LOCK ("que hombro va
+        # desnudo") no protege nada — le INVENTA una asimetria al outfit. El
+        # builder lo evita corriendo la regex solo sobre el BLOQUE B; el inyector
+        # la corre sobre el prompt entero (la galeria de Ele no separa BLOQUE B),
+        # asi que el descarte del pelo tiene que vivir en la regex misma.
+        # Confirmado 29/08/2026; sospechado el 28/08 sin cerrarse. Misma familia
+        # que el falso positivo de GARMENT_EXCLUSION_LOCK con "no gloves".
         ("ASYMMETRY_LOCK", re.compile(
-            r"asymmetric|one[- ]shoulder|single shoulder|single strap|one sleeve|"
+            r"asymmetric(?!(?:\s+\w+){0,2}\s+(?:bob|hair|haircut|fringe|bangs|strands|"
+            r"parting|part)\b)|one[- ]shoulder|single shoulder|single strap|one sleeve|"
             r"single sleeve|asymmetric hem|one glove", re.I)),
         ("ACCESSORY_COUNT_LOCK", re.compile(
             r"\ba single (oversized )?(chrome |gold |silver )?"

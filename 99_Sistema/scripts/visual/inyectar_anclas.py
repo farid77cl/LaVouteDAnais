@@ -164,6 +164,13 @@ def anclas_requeridas(pb, slot, prompt, con_opt_in, excluidas=()):
         # BOTTOM_CUT_LOCK, desordenando el bloque global.
         n_globales = pb.n_globales
         for n in pb.opt_in_de(prompt):
+            # Opt-in de slot (29/08/2026): WRAP_BACK_* corrige el defecto de la
+            # prenda de frente abierto vista DESDE ATRAS. Sin este filtro el
+            # inyector la escribia tambien en Standing y POV, donde su texto
+            # ("seen from behind") contradice la pose. El builder ya lo filtra
+            # en build(); esta funcion es la otra mitad de la misma regla.
+            if pb.OPT_IN_SOLO_SLOT.get(n, slot) != slot:
+                continue
             if n not in nombres and n not in excluidas:
                 nombres.insert(n_globales, n)
     # FOOTWEAR_ECHO siempre al final.
