@@ -1,4 +1,4 @@
-﻿# ?? BANCO DE PROMPTS V18: POLE WEAR EDITION
+# ?? BANCO DE PROMPTS V18: POLE WEAR EDITION
 
 > **ENFOQUE:** Ropa de pole dance de **POLE SINS**, **CLEO THE HURRICANE**, y **LUNA POLEWEAR**.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
@@ -6,10 +6,10 @@
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -59,7 +59,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � DARK POLE GODDESS (20 PROMPTS)
+## ?? I. HELENA — DARK POLE GODDESS (20 PROMPTS)
 
 ### Pole Sins Collection
 
@@ -197,7 +197,7 @@ Professional floor work photography of young elegant goth glamour woman woman 23
 
 ---
 
-## ?? II. MISS DOLL � PINK POLE PRINCESS (20 PROMPTS)
+## ?? II. MISS DOLL — PINK POLE PRINCESS (20 PROMPTS)
 
 ### Pole Sins Collection
 
@@ -335,21 +335,21 @@ Professional kiss pole photography of woman with platinum blonde bob haircut WIT
 
 ---
 
-## ?? III. ANA�S � ELEGANT POLE (5 PROMPTS)
+## ?? III. ANAÏS — ELEGANT POLE (5 PROMPTS)
 
-### Prompt 60: 41. Ana�s - Exotic Pole Burgundy
+### Prompt 60: 41. Anaïs - Exotic Pole Burgundy
 
 ```
 Professional elegant pole photography of aristocratic woman with honey blonde hair in Betty Page vintage waves. Bronze skin with pole sheen. Red glossy lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BURGUNDY VELVET SET elegant. Burgundy satin corset. PLEASER AMUSE-20 burgundy 5-inch heel (rare pole in heels). Graceful pole spin, leg extended elegantly. Sensual pose with arched back, bedroom eyes. Expression: exotic elegance. Warm burgundy lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 59: 42. Ana�s - Champagne Pole
+### Prompt 59: 42. Anaïs - Champagne Pole
 
 ```
 Professional champagne pole photography of aristocratic woman with honey blonde hair flowing. Bronze skin golden glow. Gold glossy lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR CHAMPAGNE GOLD SET shimmering. Gold corset. PLEASER CLASSIQUE-20 gold 5-inch heel. Pole descent, floating down. Sensual pose with arched back, bedroom eyes. Expression: golden goddess. Gold lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 58: 43. Ana�s - Mature Instructor
+### Prompt 58: 43. Anaïs - Mature Instructor
 
 ```
 Professional instructor photography of aristocratic woman with honey blonde hair in professional ponytail. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK INSTRUCTOR SET professional. Black corset. PLEASER AMUSE-20 black 5-inch heel. Demonstrating pole technique. Sensual pose with arched back, bedroom eyes. Expression: teaching the art. Pole class studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -368,7 +368,7 @@ Professional duo pole photography. HELENA: black hair flying, pale skin, POLE SI
 ### Prompt 56: 45. All Three - Pole Line-Up
 
 ```
-Professional trio pole photography. ANA�S: honey blonde, burgundy set, gold corset, PLEASER burgundy 5-inch, center pole instructor. HELENA: black hair, black set, black corset, PLEASER black 8-inch, left pole student. MISS DOLL: blonde bob, pink set, pink corset, PLEASER pink 8-inch, right pole student. Class formation. Sensual pose with arched back, bedroom eyes. Expression: the pole class. Professional studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trio pole photography. ANAÏS: honey blonde, burgundy set, gold corset, PLEASER burgundy 5-inch, center pole instructor. HELENA: black hair, black set, black corset, PLEASER black 8-inch, left pole student. MISS DOLL: blonde bob, pink set, pink corset, PLEASER pink 8-inch, right pole student. Class formation. Sensual pose with arched back, bedroom eyes. Expression: the pole class. Professional studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 55: 46. Helena and Miss Doll - Same Pole Share
@@ -386,19 +386,19 @@ Professional teaching photography. HELENA: black hair, black practice clothes, b
 ### Prompt 53: 48. Competition Trio
 
 ```
-Professional competition photography. ANA�S, HELENA, MISS DOLL in competition outfits. ANA�S: gold rhinestone set, gold corset. HELENA: black rhinestone set, black corset. MISS DOLL: pink rhinestone set, pink corset. All PLEASER rhinestone heels. Victory pose together on stage. Sensual pose with arched back, bedroom eyes. Expression: winning trio. Competition stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional competition photography. ANAÏS, HELENA, MISS DOLL in competition outfits. ANAÏS: gold rhinestone set, gold corset. HELENA: black rhinestone set, black corset. MISS DOLL: pink rhinestone set, pink corset. All PLEASER rhinestone heels. Victory pose together on stage. Sensual pose with arched back, bedroom eyes. Expression: winning trio. Competition stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 52: 49. After Practice All Three
 
 ```
-Professional after-practice photography. ANA�S: honey blonde messy, burgundy sweaty outfit, corset off, water bottle. HELENA: black hair wild, black practice clothes, corset loose, toweling off. MISS DOLL: blonde bob messy, pink practice clothes, no corset, sipping smoothie. All heels off, barefoot. Exhausted smiles. Sensual pose with arched back, bedroom eyes. Expression: good session. Pole studio floor collapsed. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional after-practice photography. ANAÏS: honey blonde messy, burgundy sweaty outfit, corset off, water bottle. HELENA: black hair wild, black practice clothes, corset loose, toweling off. MISS DOLL: blonde bob messy, pink practice clothes, no corset, sipping smoothie. All heels off, barefoot. Exhausted smiles. Sensual pose with arched back, bedroom eyes. Expression: good session. Pole studio floor collapsed. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 51: 50. Music Video All Three
 
 ```
-Professional music video pole photography. ANA�S: honey blonde flowing, gold video outfit, gold corset, center pole, smoke behind. HELENA: black hair dramatic, black mesh video outfit, black corset, left pole, backlit. MISS DOLL: blonde bob perfect, pink sparkle video outfit, pink corset, right pole, confetti. All in PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: pole video stars. Music video set. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional music video pole photography. ANAÏS: honey blonde flowing, gold video outfit, gold corset, center pole, smoke behind. HELENA: black hair dramatic, black mesh video outfit, black corset, left pole, backlit. MISS DOLL: blonde bob perfect, pink sparkle video outfit, pink corset, right pole, confetti. All in PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: pole video stars. Music video set. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -715,13 +715,13 @@ Professional duo pole photography. HELENA: wild hair, BLOOD ORANGE sunset set. M
 ### Prompt 1: 100. All Three - Rainbow Pole Performance
 
 ```
-Professional trio pole photography. ANA�S: honey blonde, GOLD instructor set, center supervising. HELENA: black hair, PURPLE dark set, left pole. MISS DOLL: blonde bob, PINK bright set, right pole. Rainbow pole class. Sensual pose with arched back, bedroom eyes. Expression: rainbow pole trio. Colorful pole studio. Photorealistic 8k. Vertical portrait orientation.
+Professional trio pole photography. ANAÏS: honey blonde, GOLD instructor set, center supervising. HELENA: black hair, PURPLE dark set, left pole. MISS DOLL: blonde bob, PINK bright set, right pole. Rainbow pole class. Sensual pose with arched back, bedroom eyes. Expression: rainbow pole trio. Colorful pole studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V18.2 Pole Wear Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V18.2 Pole Wear Edition — 100 prompts*
 *Marcas: Pole Sins, Cleo the Hurricane, Luna Polewear*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*

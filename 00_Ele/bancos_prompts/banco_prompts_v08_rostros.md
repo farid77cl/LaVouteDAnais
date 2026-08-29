@@ -1,4 +1,4 @@
-﻿# 💄 BANCO DE PROMPTS V8: ROSTROS & MAQUILLAJE (Serving Face)
+# 💄 BANCO DE PROMPTS V8: ROSTROS & MAQUILLAJE (Serving Face)
 
 > **Enfoque:** Primeros planos extremos (Extreme Close-up), fotografía macro, detalles de piel y maquillaje, expresiones faciales intensas. Estilo editorial de revista (Vogue, Harper's Bazaar).
 > **Instrucciones:** Copiar el bloque completo. Los modificadores de "Calidad" ya están integrados.

@@ -1,4 +1,4 @@
-﻿# 👰‍♀️ Banco de Prompts V20: WEDDING & HONEYMOON EDITION
+# 👰‍♀️ Banco de Prompts V20: WEDDING & HONEYMOON EDITION
 
 > **ENFOQUE:** Vestidos de novia extremos, lencería de noche de bodas, velos, ligueros y "Just Married" vibes.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

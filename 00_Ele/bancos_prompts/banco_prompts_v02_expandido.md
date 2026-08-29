@@ -1,4 +1,4 @@
-﻿# 🖤 BANCO DE PROMPTS V2 - LA VOÛTE D'ANAÏS
+# 🖤 BANCO DE PROMPTS V2 - LA VOÛTE D'ANAÏS
 
 > **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.
 > **Total:** ~200+ prompts nuevos | **Actualizado:** 2025-12-25

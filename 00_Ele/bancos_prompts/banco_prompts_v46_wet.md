@@ -1,4 +1,4 @@
-﻿# 💧 Banco de Prompts V46: WET & SHOWER EDITION
+# 💧 Banco de Prompts V46: WET & SHOWER EDITION
 
 > **ENFOQUE:** Helena y Miss Doll con estética mojada, gotas de agua, wet look, escenarios de ducha/piscina.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

@@ -1,4 +1,4 @@
-﻿# ⛓️ Banco de Prompts V37: LEATHER FETISH EDITION
+# ⛓️ Banco de Prompts V37: LEATHER FETISH EDITION
 
 > **ENFOQUE:** Cuero negro, dominación, biker chic, bondage aesthetic, BDSM glamour, motorcycle culture, dangerous luxury.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

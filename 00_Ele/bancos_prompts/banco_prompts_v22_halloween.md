@@ -1,4 +1,4 @@
-﻿# 🎃 Banco de Prompts V22: HALLOWEEN & HORROR EDITION
+# 🎃 Banco de Prompts V22: HALLOWEEN & HORROR EDITION
 
 > **ENFOQUE:** Temáticas de Halloween, terror sensual, brujas, vampiras, diablas, monstruos sexy.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

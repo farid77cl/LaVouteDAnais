@@ -1,4 +1,4 @@
-﻿# 🖤 BANCO DE PROMPTS V7 - LUXURY LINGERIE EDITION
+# 🖤 BANCO DE PROMPTS V7 - LUXURY LINGERIE EDITION
 
 > **ENFOQUE:** Lencería de lujo exclusivamente de **Honey Birdette** y **Agent Provocateur**.
 > **Personajes:** Helena, Miss Doll, Anaïs

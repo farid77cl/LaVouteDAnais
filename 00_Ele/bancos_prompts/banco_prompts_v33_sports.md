@@ -1,16 +1,16 @@
-﻿# ?? Banco de Prompts V33: SPORTS & ATHLETIC EDITION
+# ?? Banco de Prompts V33: SPORTS & ATHLETIC EDITION
 
-> **ENFOQUE:** Deportistas glamorosas, cheerleaders, uniformes atl�ticos, gimnastas, tenis, golf, yoga elite.
+> **ENFOQUE:** Deportistas glamorosas, cheerleaders, uniformes atléticos, gimnastas, tenis, golf, yoga elite.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **?? COLOR FREEDOM:** Helena (Black, Silver, Dark Red). Miss Doll (Pink, White, Gold).
 > **Total:** 50 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. MISS DOLL � PINK SPORTS (20 PROMPTS)
+## ?? I. MISS DOLL — PINK SPORTS (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Pink Cheerleader Captain
 
@@ -161,7 +161,7 @@ Professional surf photography of woman 27+ years old glamorous with platinum blo
 ### Prompt 84: 17. Miss Doll - Fencing Femme
 
 ```
-Professional fencing photography of woman 27+ years old glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) competition style. Flawless porcelain skin focused. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE fencing uniform but PINK accents, mask off revealing face. �p�e in hand en garde pose. PLEASER removed, fencing shoes. Fencing piste. Sensual fencer pose. Expression: touch�. Fencing femme. Seductive glamour photography, arena spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fencing photography of woman 27+ years old glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) competition style. Flawless porcelain skin focused. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE fencing uniform but PINK accents, mask off revealing face. épée in hand en garde pose. PLEASER removed, fencing shoes. Fencing piste. Sensual fencer pose. Expression: touché. Fencing femme. Seductive glamour photography, arena spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 83: 18. Miss Doll - Bowling Queen
@@ -173,7 +173,7 @@ Professional bowling photography of woman 27+ years old glamorous with platinum 
 ### Prompt 82: 19. Miss Doll - Ski Bunny
 
 ```
-Professional ski photography of woman 27+ years old glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink helmet. Flawless porcelain skin alpine glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer ski suit ultra fitted, unzipped showing cleavage. Goggles on forehead. Skis crossed behind. PLEASER removed, ski boots pink. Snowy mountain. Sensual ski pose. Expression: apr�s-ski ready. Ski bunny. Seductive glamour photography, mountain bright lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ski photography of woman 27+ years old glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink helmet. Flawless porcelain skin alpine glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer ski suit ultra fitted, unzipped showing cleavage. Goggles on forehead. Skis crossed behind. PLEASER removed, ski boots pink. Snowy mountain. Sensual ski pose. Expression: après-ski ready. Ski bunny. Seductive glamour photography, mountain bright lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 81: 20. Miss Doll - Pilates Perfection
@@ -184,7 +184,7 @@ Professional pilates photography of woman 27+ years old glamorous with platinum 
 
 ---
 
-## ?? II. HELENA � DARK ATHLETIC (15 PROMPTS)
+## ?? II. HELENA — DARK ATHLETIC (15 PROMPTS)
 
 ### Prompt 80: 21. Helena - Gothic Cheerleader
 
@@ -237,7 +237,7 @@ Professional archery photography of young elegant goth glamour woman woman 23+ y
 ### Prompt 72: 29. Helena - Fencing Dark Blade
 
 ```
-Professional fencing photography of young elegant goth glamour woman woman 23+ years old inspired by Sacha Massacre. Voluminous jet black hair severe competition bun. Pale porcelain white skin duelist. Full glossy dark red lips. Wearing BLACK fencing uniform modified elegant, mask removed. �p�e pointed at camera. Aggressive lunge pose. PLEASER removed, fencing shoes black. Dark fencing hall. Sensual duelist pose. Expression: to the death. Dark blade. Seductive glamour photography, dramatic spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fencing photography of young elegant goth glamour woman woman 23+ years old inspired by Sacha Massacre. Voluminous jet black hair severe competition bun. Pale porcelain white skin duelist. Full glossy dark red lips. Wearing BLACK fencing uniform modified elegant, mask removed. épée pointed at camera. Aggressive lunge pose. PLEASER removed, fencing shoes black. Dark fencing hall. Sensual duelist pose. Expression: to the death. Dark blade. Seductive glamour photography, dramatic spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 71: 30. Helena - Dark Equestrian
@@ -278,7 +278,7 @@ Professional wrestling photography of young elegant goth glamour woman woman 23+
 
 ---
 
-## ?? III. DUO � ATHLETIC PAIRS (15 PROMPTS)
+## ?? III. DUO — ATHLETIC PAIRS (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Cheerleader Rivalry
 
@@ -337,13 +337,13 @@ Professional golf duo photography. HELENA: Sacha Massacre look as golfer in blac
 ### Prompt 56: 45. Duo - Ski Lodge
 
 ```
-Professional ski duo photography. HELENA: Sacha Massacre look in black ski suit, skis crossed, apr�s-ski drink, black 8-inch boots. MISS DOLL: platinum blonde in pink ski suit, HEAVY GLAMOUR MAKEUP, hot cocoa, pink boots. Together at ski lodge fireplace. Snowy mountain view. Sensual apr�s-ski pose. Expression: ski vacation queens. Ski duo. Seductive glamour photography, lodge fire lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ski duo photography. HELENA: Sacha Massacre look in black ski suit, skis crossed, après-ski drink, black 8-inch boots. MISS DOLL: platinum blonde in pink ski suit, HEAVY GLAMOUR MAKEUP, hot cocoa, pink boots. Together at ski lodge fireplace. Snowy mountain view. Sensual après-ski pose. Expression: ski vacation queens. Ski duo. Seductive glamour photography, lodge fire lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 55: 46. Duo - Fencing Match
 
 ```
-Professional fencing duo photography. HELENA: Sacha Massacre look in black fencing uniform, �p�e extended, attack pose. MISS DOLL: platinum blonde in white fencing uniform pink accents, HEAVY GLAMOUR MAKEUP, parrying, defense pose. Mid-duel on piste. Fencing arena. Sensual duel pose. Expression: en garde. Fencing duo. Seductive glamour photography, spotlight duel lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fencing duo photography. HELENA: Sacha Massacre look in black fencing uniform, épée extended, attack pose. MISS DOLL: platinum blonde in white fencing uniform pink accents, HEAVY GLAMOUR MAKEUP, parrying, defense pose. Mid-duel on piste. Fencing arena. Sensual duel pose. Expression: en garde. Fencing duo. Seductive glamour photography, spotlight duel lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 54: 47. Duo - Equestrian Show
@@ -372,7 +372,7 @@ Professional podium duo photography. HELENA: Sacha Massacre look on podium secon
 
 ---
 
-## ?? IV. MISS DOLL � PINK SPORTS SENSUAL (15 PROMPTS)
+## ?? IV. MISS DOLL — PINK SPORTS SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Miss Doll - Locker Room Selfie
 
@@ -466,7 +466,7 @@ Professional CrossFit photography of woman 27+ years old glamorous with platinum
 
 ---
 
-## ?? V. HELENA � DARK ATHLETIC SENSUAL (15 PROMPTS)
+## ?? V. HELENA — DARK ATHLETIC SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Helena - Dark Locker Dominance
 
@@ -560,7 +560,7 @@ Professional gymnastics photography of young elegant goth glamour woman woman 23
 
 ---
 
-## ?? VI. DUO � ATHLETIC SENSUAL (20 PROMPTS)
+## ?? VI. DUO — ATHLETIC SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Locker Room Together
 
@@ -684,8 +684,8 @@ Professional champion duo photography. HELENA: Sacha Massacre look in BLACK athl
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V33 Sports & Athletic Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V33 Sports & Athletic Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

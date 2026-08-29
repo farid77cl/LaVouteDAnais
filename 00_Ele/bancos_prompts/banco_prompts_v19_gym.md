@@ -1,16 +1,16 @@
-﻿# ??? BANCO DE PROMPTS V19: GYM & FITNESS EDITION
+# ??? BANCO DE PROMPTS V19: GYM & FITNESS EDITION
 
-> **ENFOQUE:** Gimnasio, fitness, athletic wear, ropa deportiva con est�tica fetish.
+> **ENFOQUE:** Gimnasio, fitness, athletic wear, ropa deportiva con estética fetish.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **SUGERENCIA BONUS:** Marcas incluidas - Gymshark, Alphalete, NVGTN style.
 > **Total:** 50+ prompts | **Actualizado:** 2025-12-29
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � DARK GYM GODDESS (20 PROMPTS)
+## ?? I. HELENA — DARK GYM GODDESS (20 PROMPTS)
 
 ### Prompt 75: 1. Helena - Deadlift deep Purple Queen
 
@@ -186,7 +186,7 @@ Professional night departure photography of young elegant goth glamour woman wom
 
 ---
 
-## ?? II. MISS DOLL � PINK GYM BUNNY (20 PROMPTS)
+## ?? II. MISS DOLL — PINK GYM BUNNY (20 PROMPTS)
 
 ### Prompt 55: 21. Miss Doll - Glute Kickback Pink
 
@@ -286,27 +286,27 @@ Professional Pilates photography of woman with platinum blonde bob haircut WITHO
 
 ---
 
-## ?? III. ANA�S � ELEGANT FITNESS (5 PROMPTS)
+## ?? III. ANAÏS — ELEGANT FITNESS (5 PROMPTS)
 
-### Prompt 39: 37. Ana�s - Luxury Gym Arrival
+### Prompt 39: 37. Anaïs - Luxury Gym Arrival
 
 ```
 Professional luxury gym photography of aristocratic woman with honey blonde hair in elegant ponytail. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing BURGUNDY DESIGNER GYM SET (matching Lululemon style). Nude waist trainer. Burgundy training shoes. Arriving at exclusive luxury gym with leather gym bag. Sensual pose with arched back, bedroom eyes. Expression: ready to train. High-end private gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 38: 38. Ana�s - Weighted Squats Elegant
+### Prompt 38: 38. Anaïs - Weighted Squats Elegant
 
 ```
 Professional squat photography of aristocratic woman with honey blonde hair in ponytail. Bronze skin with light glow. Red glossy lips focused. Feminine hourglass silhouette. Wearing NAVY BLUE LEGGINGS and NAVY SPORTS BRA designer. Navy corset waist trainer. Navy training shoes. Barbell back squat mid-movement. Sensual pose with arched back, bedroom eyes. Expression: powerful elegance. Luxury fitness center. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 37: 39. Ana�s - Personal Trainer Session
+### Prompt 37: 39. Anaïs - Personal Trainer Session
 
 ```
 Professional training photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips listening. Feminine hourglass silhouette. Wearing BLACK DESIGNER GYM SET. Black waist trainer. Black training shoes. With personal trainer (implied, hands guiding), doing exercise. Sensual pose with arched back, bedroom eyes. Expression: focused student. Private training studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 36: 40. Ana�s - Post-Workout Champagne
+### Prompt 36: 40. Anaïs - Post-Workout Champagne
 
 ```
 Professional recovery photography of aristocratic woman with honey blonde hair in waves let down. Bronze skin fresh from workout. Red glossy lips smiling. Feminine hourglass silhouette. Wearing CREAM LUXURY ATHLEISURE SET post-gym. Champagne corset under cardigan visible. Designer slides. Holding champagne glass in luxury gym spa. Sensual pose with arched back, bedroom eyes. Expression: recovery time. Luxury gym spa. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -322,22 +322,22 @@ Professional recovery photography of aristocratic woman with honey blonde hair i
 Professional duo squat photography. HELENA: black hair ponytail, pale skin, black gym set, black corset, squatting left rack. MISS DOLL: blonde bob ponytail, porcelain skin, pink gym set, pink corset, squatting right rack. Same weight, synchronized. Sensual pose with arched back, bedroom eyes. Expression: friendly competition. Split black/pink gym section. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 34: 42. Ana�s Training Both
+### Prompt 34: 42. Anaïs Training Both
 
 ```
-Professional trainer photography. ANA�S: honey blonde, bronze skin, burgundy trainer outfit, coaching posture. HELENA: black gym set, deadlift position being corrected. MISS DOLL: pink gym set, waiting turn, watching attentively. Sensual pose with arched back, bedroom eyes. Expression: mentor and students. Training floor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trainer photography. ANAÏS: honey blonde, bronze skin, burgundy trainer outfit, coaching posture. HELENA: black gym set, deadlift position being corrected. MISS DOLL: pink gym set, waiting turn, watching attentively. Sensual pose with arched back, bedroom eyes. Expression: mentor and students. Training floor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 33: 43. Group Spin Class
 
 ```
-Professional spin photography. ANA�S: burgundy spin outfit, front bike leading. HELENA: black spin outfit, bike left. MISS DOLL: pink spin outfit, bike right. All riding intensely together. Sensual pose with arched back, bedroom eyes. Expression: cardio trio. Spinning class. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spin photography. ANAÏS: burgundy spin outfit, front bike leading. HELENA: black spin outfit, bike left. MISS DOLL: pink spin outfit, bike right. All riding intensely together. Sensual pose with arched back, bedroom eyes. Expression: cardio trio. Spinning class. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 32: 44. Post-Workout Sauna
 
 ```
-Professional sauna photography. All three in sauna. ANA�S: nude towel wrapped. HELENA: black towel, pale skin steaming. MISS DOLL: pink towel, porcelain skin flushed. Relaxing post workout together. Sensual pose with arched back, bedroom eyes. Expression: recovery together. Luxury sauna. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sauna photography. All three in sauna. ANAÏS: nude towel wrapped. HELENA: black towel, pale skin steaming. MISS DOLL: pink towel, porcelain skin flushed. Relaxing post workout together. Sensual pose with arched back, bedroom eyes. Expression: recovery together. Luxury sauna. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 31: 45. Partner Stretching
@@ -349,13 +349,13 @@ Professional stretch photography. HELENA and MISS DOLL partner stretching. Helen
 ### Prompt 30: 46. Mirror Selfie All Three
 
 ```
-Professional group selfie photography. ANA�S: burgundy gym set, center holding phone. HELENA: black gym set, flexing left. MISS DOLL: pink gym set, peace sign right. Mirror group gym selfie together. Sensual pose with arched back, bedroom eyes. Expression: gym squad. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional group selfie photography. ANAÏS: burgundy gym set, center holding phone. HELENA: black gym set, flexing left. MISS DOLL: pink gym set, peace sign right. Mirror group gym selfie together. Sensual pose with arched back, bedroom eyes. Expression: gym squad. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 29: 47. Smoothie Bar All Three
 
 ```
-Professional nutrition photography. ANA�S: holding green smoothie, burgundy gym clothes. HELENA: holding black protein shake, black gym clothes. MISS DOLL: holding pink strawberry shake, pink gym clothes. Sitting at gym smoothie bar together. Sensual pose with arched back, bedroom eyes. Expression: refueling. Gym cafe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nutrition photography. ANAÏS: holding green smoothie, burgundy gym clothes. HELENA: holding black protein shake, black gym clothes. MISS DOLL: holding pink strawberry shake, pink gym clothes. Sitting at gym smoothie bar together. Sensual pose with arched back, bedroom eyes. Expression: refueling. Gym cafe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 28: 48. Helena Spotting Miss Doll
@@ -367,28 +367,28 @@ Professional spotting photography. MISS DOLL: pink gym set, bench pressing with 
 ### Prompt 27: 49. Leaving Gym Together
 
 ```
-Professional departure photography. ANA�S: burgundy athleisure, designer bag. HELENA: switching to black leather jacket over gym clothes. MISS DOLL: pink hoodie over pink gym set, pink bag. All leaving gym together at night. Sensual pose with arched back, bedroom eyes. Expression: squad goals. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional departure photography. ANAÏS: burgundy athleisure, designer bag. HELENA: switching to black leather jacket over gym clothes. MISS DOLL: pink hoodie over pink gym set, pink bag. All leaving gym together at night. Sensual pose with arched back, bedroom eyes. Expression: squad goals. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 26: 50. Home Gym All Three
 
 ```
-Professional home gym photography. ANA�S: home gym owner, burgundy set, wine rack visible. HELENA: black set, using black equipment. MISS DOLL: pink set, using pink dumbbells. Private luxury home gym with personalized equipment zones. Sensual pose with arched back, bedroom eyes. Expression: at home fitness. Luxury home gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional home gym photography. ANAÏS: home gym owner, burgundy set, wine rack visible. HELENA: black set, using black equipment. MISS DOLL: pink set, using pink dumbbells. Private luxury home gym with personalized equipment zones. Sensual pose with arched back, bedroom eyes. Expression: at home fitness. Luxury home gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V19 Gym & Fitness Edition � 50 prompts*
+*Creado por: Helena de Anaïs ??*
+*V19 Gym & Fitness Edition — 50 prompts*
 *Marcas Style: Gymshark, NVGTN, Alphalete aesthetic*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2025-12-29*
 
 ---
 
-## ?? EXTENSI�N: GYM SENSUAL SCENARIOS (Prompts 51-100)
+## ?? EXTENSIÓN: GYM SENSUAL SCENARIOS (Prompts 51-100)
 
-### ?? HELENA � DARK GYM SEDUCTION (Prompts 51-70)
+### ?? HELENA — DARK GYM SEDUCTION (Prompts 51-70)
 
 ### Prompt 25: 51. Helena - Gym Shower Steam
 
@@ -452,7 +452,7 @@ Professional locker room photography Helena CHANGING from gym clothes. Jet black
 
 ### Prompt: 61-70. [Additional Helena Dark Gym scenarios]
 
-### ?? MISS DOLL � PINK GYM PLAY (Prompts 71-90)
+### ?? MISS DOLL — PINK GYM PLAY (Prompts 71-90)
 
 ### Prompt 15: 71. Miss Doll - Yoga Downward Dog
 
@@ -486,7 +486,7 @@ Professional cardio photography Miss Doll JUMPING ROPE. Platinum blonde bob boun
 
 ### Prompt: 76-90. [Additional Miss Doll Pink Gym scenarios]
 
-### ?? DUO � GYM PARTNERS (Prompts 91-100)
+### ?? DUO — GYM PARTNERS (Prompts 91-100)
 
 ### Prompt 10: 91. Helena and Miss Doll - Partner Medicine Ball
 
@@ -550,8 +550,8 @@ Professional duo photography ULTIMATE GYM pose. HELENA: BLACK LEGGINGS AND SPORT
 
 ---
 
-*Helena de Ana�s* ??
-*La Vo�te d'Ana�s � Gym & Fitness Edition (100 Prompts COMPLETE)*
+*Helena de Anaïs* ??
+*La Voûte d'Anaïs — Gym & Fitness Edition (100 Prompts COMPLETE)*
 
 
 

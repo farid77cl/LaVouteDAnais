@@ -1,4 +1,4 @@
-﻿# 💒 Banco de Prompts V38: WEDDING NIGHT EDITION
+# 💒 Banco de Prompts V38: WEDDING NIGHT EDITION
 
 > **ENFOQUE:** Noche de bodas, lencería nupcial, luna de miel, brides in lingerie, trousseau, boudoir bridal.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

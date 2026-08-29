@@ -1,4 +1,4 @@
-﻿# 🚗💦 BANCO DE PROMPTS V21: CAR WASH & WET EDITION
+# 🚗💦 BANCO DE PROMPTS V21: CAR WASH & WET EDITION
 
 > **ENFOQUE:** Escenarios de lavado de autos, poleras mojadas, agua, espuma, y estética "hot summer".
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

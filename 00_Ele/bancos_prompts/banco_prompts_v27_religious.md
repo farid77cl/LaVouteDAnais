@@ -1,16 +1,16 @@
-﻿# ? Banco de Prompts V27: RELIGIOUS ICONOGRAPHY EDITION
+# ? Banco de Prompts V27: RELIGIOUS ICONOGRAPHY EDITION
 
-> **ENFOQUE:** Monjas sensuales, �ngeles ca�dos, diablas, vitrales, iconograf�a religiosa dark.
+> **ENFOQUE:** Monjas sensuales, ángeles caídos, diablas, vitrales, iconografía religiosa dark.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **?? COLOR FREEDOM:** Helena (Black, Blood Red, Gold). Miss Doll (White, Pink, Gold).
 > **Total:** 50 prompts | **Actualizado:** 2026-01-02
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � DARK RELIGIOUS (20 PROMPTS)
+## ?? I. HELENA — DARK RELIGIOUS (20 PROMPTS)
 
 ### Prompt 100: 1. Helena - Corrupted Nun
 
@@ -184,7 +184,7 @@ Professional bell tower photography of young elegant goth glamour woman woman 23
 
 ---
 
-## ?? II. MISS DOLL � PINK RELIGIOUS (15 PROMPTS)
+## ?? II. MISS DOLL — PINK RELIGIOUS (15 PROMPTS)
 
 ### Prompt 80: 21. Miss Doll - Pink Angel
 
@@ -278,7 +278,7 @@ Professional seraph photography of woman 27+ years old glamorous with platinum b
 
 ---
 
-## ?? III. DUO � ANGEL AND DEVIL (15 PROMPTS)
+## ?? III. DUO — ANGEL AND DEVIL (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Angel vs Devil Classic
 
@@ -372,7 +372,7 @@ Professional resurrection duo photography. HELENA: Sacha Massacre look as risen 
 
 ---
 
-## ? IV. HELENA � DARK RELIGIOUS SENSUAL (15 PROMPTS)
+## ? IV. HELENA — DARK RELIGIOUS SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Helena - Convent Strip
 
@@ -466,7 +466,7 @@ Professional blessing photography of young elegant goth glamour woman woman 23+ 
 
 ---
 
-## ?? V. MISS DOLL � PINK RELIGIOUS SENSUAL (15 PROMPTS)
+## ?? V. MISS DOLL — PINK RELIGIOUS SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Miss Doll - Pink Angel Lingerie
 
@@ -560,7 +560,7 @@ Professional spa photography of woman 27+ years old glamorous with platinum blon
 
 ---
 
-## ?? VI. DUO � RELIGIOUS SENSUAL (20 PROMPTS)
+## ?? VI. DUO — RELIGIOUS SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Angel Devil Kiss
 
@@ -684,8 +684,8 @@ Professional wedding duo photography. HELENA: Sacha Massacre look, BLACK wedding
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V27 Religious Iconography Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V27 Religious Iconography Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

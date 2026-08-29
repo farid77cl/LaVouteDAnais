@@ -1,8 +1,8 @@
-﻿# ?? BANCO DE PROMPTS V5 - STORY SCENES EDITION
+# ?? BANCO DE PROMPTS V5 - STORY SCENES EDITION
 
-> **ENFOQUE:** Personajes de los relatos de La Vo�te, escenas espec�ficas recreadas, transformaciones before/after.
+> **ENFOQUE:** Personajes de los relatos de La Voûte, escenas específicas recreadas, transformaciones before/after.
 > **Total:** 200+ prompts | **Actualizado:** 2025-12-27
-> **Versi�n:** 5.0 Narrative Scenes
+> **Versión:** 5.0 Narrative Scenes
 
 ---
 
@@ -10,22 +10,22 @@
 
 | Personaje | Relato | Arquetipo |
 |-----------|--------|-----------|
-| **Nancy** | El Collar de Nancy | Sissy maid con m�scara de silicona |
-| **Vera** | Proyecto Trad-Wife | Mec�nica ? trad-wife 50s |
+| **Nancy** | El Collar de Nancy | Sissy maid con máscara de silicona |
+| **Vera** | Proyecto Trad-Wife | Mecúnica ? trad-wife 50s |
 | **Luna** | El Trono de Luna | Goth glamorous woman Dominatrix |
 | **Roxy** | El Vino del Vecino | MILF Cougar animal print |
 | **Cherry** | El Vino del Vecino | Stripper glamorous woman rubia |
 | **Carmen** | Tetitas | Esposa manipuladora |
 | **Jinx** | El Cuadro de Fideos | glamorous woman detective |
-| **Bel�n** | Trance de Bel�n | T�mida ? exhibicionista |
+| **Belén** | Trance de Belén | Tímida ? exhibicionista |
 | **Bunny** | Trance Bimbodoll | Lectora hipnotizada |
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **Cuando Helena, Miss Doll o Ana�s aparezcan en escenas, DEBEN incluir estos elementos:**
+> **Cuando Helena, Miss Doll o Anaïs aparezcan en escenas, DEBEN incluir estos elementos:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -39,7 +39,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -49,7 +49,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -75,7 +75,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## I. NANCY � EL COLLAR DE NANCY ??
+## I. NANCY — EL COLLAR DE NANCY ??
 
 ### Nancy - Transformation Before/After
 
@@ -85,7 +85,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 Professional photography of young man, 23 years old, average build, slightly overweight, stubble beard, slouched gamer posture. Wearing wrinkled flannel shirt, stained jeans, messy hair. Sitting on gaming chair surrounded by mess and pizza boxes. Sensual pose with arched back, bedroom eyes. Expression: lazy, entitled. Messy apartment. Photorealistic documentary.
 ```
 
-### Prompt 81: Nancy DESPU�S - Maid de Silicona ??
+### Prompt 81: Nancy DESPUÉS - Maid de Silicona ??
 
 ```
 Professional fetish photography. Figure wearing full silicone femmask (blonde, permanent smile, large doll eyes), silicone breastplate (D cup), hip pads creating hourglass figure. PINK COLLAR with LED glow around neck (control device). French maid uniform in black latex with white apron. Pleaser platforms 7-inch clear. Long blonde synthetic wig. French manicure stiletto nails. Perfect posture, hands clasped in service position. Expression behind mask: frozen smile. Clean apartment background. Photorealistic fetish masking.
@@ -133,17 +133,17 @@ Video medium shot. Nancy standing normally. Suddenly collar flashes red. Body se
 
 ---
 
-## II. VERA � PROYECTO TRAD-WIFE ??
+## II. VERA — PROYECTO TRAD-WIFE ??
 
 ### Vera - Transformation Before/After
 
-### Prompt 74: Vera ANTES - La Mec�nica ??
+### Prompt 74: Vera ANTES - La Mecúnica ??
 
 ```
 Professional photography of woman mechanic, 30 years old, athletic muscular build, broad shoulders, hunched posture from manual work. Short messy brown hair, practical cut. No makeup, angular face, hard jaw. Hands calloused with grease under nails. Wearing dirty blue work overalls, old shapeless t-shirt, steel-toe boots. Standing in auto repair shop, oil stains on clothes. Sensual pose with arched back, bedroom eyes. Expression: tough, defensive, anti-feminine. Photorealistic documentary.
 ```
 
-### Prompt 73: Vera DESPU�S - Unidad V.E.R.A. ??
+### Prompt 73: Vera DESPUÉS - Unidad V.E.R.A. ??
 
 ```
 Professional 1950s housewife photography. Same woman transformed: platinum blonde hair in soft waves to waist, perfect makeup with pink shadow and lips, porcelain perfect skin smelling of vanilla. Hourglass figure (extreme curves, DD breasts, tiny waist, wide hips). Wearing 1950s housewife dress in pastel pink with full skirt and cinched waist, frilly apron, pearl necklace. Pleaser nude patent pumps 6-inch (tendons modified, can only wear heels). Hands soft, long pink nails (useless for work). Standing in spotless vintage kitchen holding pie. Sensual pose with arched back, bedroom eyes. Expression: empty beatific smile (Stepford wife). Photorealistic vintage style.
@@ -191,7 +191,7 @@ Video medium shot. Vera in 1950s kitchen wearing apron. Moving mechanically effi
 
 ---
 
-## III. LUNA � EL TRONO DE LUNA ??
+## III. LUNA — EL TRONO DE LUNA ??
 
 ### Luna - Transformation Before/After
 
@@ -201,7 +201,7 @@ Video medium shot. Vera in 1950s kitchen wearing apron. Moving mechanically effi
 Professional photography of woman, 30 years old, normal unremarkable figure, tired posture. Dark hair falling messy over face, paint-stained hands. Wearing old band t-shirt (faded), worn jeans. Sitting in cramped artist studio surrounded by unsold paintings. Sensual pose with arched back, bedroom eyes. Expression: exhausted, frustrated, defeated. Natural lighting. Photorealistic documentary.
 ```
 
-### Prompt 65: Luna DESPU�S - La Diosa Cruel ??
+### Prompt 65: Luna DESPUÉS - La Diosa Cruel ??
 
 ```
 Professional gothic dominatrix photography. Luna transformed: voluminous black hair with side shaved showing lace tattoo from temple to neck. Pale marble skin, dramatic smokey eye makeup, glossy black lips. Exaggerated glamorous woman curves (defying physics). Wearing black leather corset crushing waist impossibly small, black vinyl mini skirt barely covering, black lace thigh-highs, black metal 6-inch stilettos with skull buckles. Black leather gloves. Sitting on throne (actually her couch), legs crossed, metal chain collar in hand. Sensual pose with arched back, bedroom eyes. Expression: cold cruel intelligence, slight smirk. Dark apartment with candles. Photorealistic gothic.
@@ -255,17 +255,17 @@ Video low angle shot of Luna's metal stilettos walking on hard floor. Each step:
 
 ---
 
-## IV. ROXY � EL VINO DEL VECINO ??
+## IV. ROXY — EL VINO DEL VECINO ??
 
 ### Roxy - Transformation Before/After
 
-### Prompt 57: Roxy ANTES - Rosa Mar�a ?????
+### Prompt 57: Roxy ANTES - Rosa María ?????
 
 ```
 Professional photography of conservative housewife, 42 years old, average body hidden under modest clothes. Short brown hair, minimal makeup, kind tired face. Wearing conservative blouse buttoned high, long skirt, sensible flat shoes. Standing in suburban kitchen, wedding photo on wall behind. Sensual pose with arched back, bedroom eyes. Expression: devoted wife, modest mother. Photorealistic documentary.
 ```
 
-### Prompt 56: Roxy DESPU�S - La Cougar ??
+### Prompt 56: Roxy DESPUÉS - La Cougar ??
 
 ```
 Professional glamour photography. Same woman transformed: VOLUMINOUS RED FIRE hair in wild leonine waves. Generous curves proudly displayed - large enhanced breasts, narrow waist, wide hips. Heavy makeup (smokey eyes, filled glossy lips). Deep tan (spray). Wearing LEOPARD PRINT tight dress with plunging neckline, gold stilettos 5-inch, large gold hoop earrings, gold bangles. Champagne glass in hand. Standing at upscale bar. Sensual pose with arched back, bedroom eyes. Expression: predatory cougar, hunting stare. Photorealistic glamour.
@@ -276,13 +276,13 @@ Professional glamour photography. Same woman transformed: VOLUMINOUS RED FIRE ha
 ### Prompt 55: Roxy - First Glass of Wine ??
 
 ```
-Professional photography. Rosa Mar�a (before, conservative outfit) in new house kitchen with husband. Mysterious wine bottle on counter (neighbor's gift). Rosa Mar�a taking hesitant first sip. Husband watching. Suburban kitchen. Sensual pose with arched back, bedroom eyes. Expression: curious, innocent. Photorealistic. The beginning.
+Professional photography. Rosa María (before, conservative outfit) in new house kitchen with husband. Mysterious wine bottle on counter (neighbor's gift). Rosa María taking hesitant first sip. Husband watching. Suburban kitchen. Sensual pose with arched back, bedroom eyes. Expression: curious, innocent. Photorealistic. The beginning.
 ```
 
 ### Prompt 54: Roxy - Third Glass Effect ??
 
 ```
-Professional transformation photography. Rosa Mar�a/Roxy mid-change: hair starting to lighten toward red, makeup intensifying, blouse unbuttoning slightly. Eyes glazed with pleasure. Wine glass in hand, third drink. Husband looking concerned in background. Kitchen. Sensual pose with arched back, bedroom eyes. Expression: awakening hunger. Photorealistic with subtle glow effects.
+Professional transformation photography. Rosa María/Roxy mid-change: hair starting to lighten toward red, makeup intensifying, blouse unbuttoning slightly. Eyes glazed with pleasure. Wine glass in hand, third drink. Husband looking concerned in background. Kitchen. Sensual pose with arched back, bedroom eyes. Expression: awakening hunger. Photorealistic with subtle glow effects.
 ```
 
 ### Prompt 53: Roxy - Hunting at the Bar ??
@@ -302,7 +302,7 @@ Professional retail photography. Roxy surrounded by shopping bags (designer logo
 ### Prompt 51: Video Roxy - "Another Drink?" ??
 
 ```
-Video close-up of Roxy's face - red hair framing, smokey eyes, glossy lips. She holds champagne flute to lips. Sips. Lowers glass. Lips move saying "�Otro trago, cari�o? La noche es joven... y yo soy insaciable." Winks. 4 seconds. Bar lighting. Photorealistic video.
+Video close-up of Roxy's face - red hair framing, smokey eyes, glossy lips. She holds champagne flute to lips. Sips. Lowers glass. Lips move saying "¡Otro trago, cariño? La noche es joven... y yo soy insaciable." Winks. 4 seconds. Bar lighting. Photorealistic video.
 ```
 
 ### Prompt 50: Video Roxy - Hair Flip Cougar ??
@@ -313,7 +313,7 @@ Video medium shot. Roxy at bar. Throws head back, massive red hair flips in slow
 
 ---
 
-## V. CHERRY � EL VINO DEL VECINO ??
+## V. CHERRY — EL VINO DEL VECINO ??
 
 ### Cherry - Transformation Before/After
 
@@ -323,7 +323,7 @@ Video medium shot. Roxy at bar. Throws head back, massive red hair flips in slow
 Professional photography of young woman, 21 years old, natural pretty face, minimal makeup, intelligent eyes. Wearing university sweatshirt, jeans, sneakers, backpack. Sitting in library with textbooks (law/medicine/engineering). Sensual pose with arched back, bedroom eyes. Expression: focused, ambitious, bright future ahead. Campus setting. Photorealistic documentary.
 ```
 
-### Prompt 48: Cherry DESPU�S - La Stripper ??
+### Prompt 48: Cherry DESPUÉS - La Stripper ??
 
 ```
 Professional strip club photography. Same woman transformed: platinum blonde hair with extensions to waist, heavy glitter makeup, false lashes, filled lips. Enhanced breasts (implants visible, financed by dad). Deep tan. Wearing sparkly bikini top barely containing breasts, tiny shorts, clear Pleaser platforms 8-inch with lights. Glitter covering body. Pole gripped behind her. Sensual pose with arched back, bedroom eyes. Expression: vacant happy (classic glamorous woman), brain visibly empty. Strip club stage with pink lighting. Photorealistic.
@@ -371,7 +371,7 @@ Video of Cherry on pole. Grips pole, spins once showing off body. Hair flies. La
 
 ---
 
-## VI. CARMEN � TETITAS ??
+## VI. CARMEN — TETITAS ??
 
 ### Carmen - Character Study
 
@@ -415,10 +415,10 @@ Professional photography. Luis/Lexi now wearing the lingerie - delicate bralette
 
 ### Carmen - Video Prompts
 
-### Prompt 35: Video Carmen - "Qu� Ricas Tetitas" ??
+### Prompt 35: Video Carmen - "Qué Ricas Tetitas" ??
 
 ```
-Video close-up of Carmen's face moving from Luis's chest to look at camera. Lip licking slowly. She smiles. Lips move saying "Qu� ricas tetitas tienes, Luis" in seductive whisper. Hand visible stroking his chest. 4 seconds. Candlelight. Photorealistic video.
+Video close-up of Carmen's face moving from Luis's chest to look at camera. Lip licking slowly. She smiles. Lips move saying "Qué ricas tetitas tienes, Luis" in seductive whisper. Hand visible stroking his chest. 4 seconds. Candlelight. Photorealistic video.
 ```
 
 ### Prompt 34: Video Carmen - Revelation Speech ???
@@ -429,7 +429,7 @@ Video close-up of Carmen speaking directly to camera (Luis's POV). Sensual pose 
 
 ---
 
-## VII. JINX � EL CUADRO DE FIDEOS ??
+## VII. JINX — EL CUADRO DE FIDEOS ??
 
 ### Jinx - Character Study
 
@@ -471,10 +471,10 @@ Professional fetish photography. Jinx on knees before Coleccionista, mouth at wo
 Professional BDSM photography. Jinx grip on Coleccionista is now controlling, dominant. His Sensual pose with arched back, bedroom eyes. Expression: agonized denial, mid-ruined orgasm, humiliation. Her Sensual pose with arched back, bedroom eyes. Expression: ice cold satisfaction. Hand position controlling his completion. Power inversion moment. Photorealistic.
 ```
 
-### Prompt 27: Jinx - Report to Ana�s ??
+### Prompt 27: Jinx - Report to Anaïs ??
 
 ```
-Professional photography. Gallery exterior, night. Jinx (mask back ON, vapid smile) walking out arm-in-arm with Ana�s (honey blonde, elegant). Both heading to waiting car. Inside gallery through window: Coleccionista visible on floor, destroyed. Mission complete. Professional team. Photorealistic.
+Professional photography. Gallery exterior, night. Jinx (mask back ON, vapid smile) walking out arm-in-arm with Anaïs (honey blonde, elegant). Both heading to waiting car. Inside gallery through window: Coleccionista visible on floor, destroyed. Mission complete. Professional team. Photorealistic.
 ```
 
 ### Jinx - Video Prompts
@@ -482,70 +482,70 @@ Professional photography. Gallery exterior, night. Jinx (mask back ON, vapid smi
 ### Prompt 26: Video Jinx - glamorous woman Voice ??
 
 ```
-Video close-up of Jinx in glamorous woman mode - vapid blue eyes, glossy red lips, green PVC reflecting light. Expression vacant. She giggles. Lips move saying "�Mira! �Un gatito volador!" pointing off camera with amazement. Head tilt. Convincing stupidity. 4 seconds. Photorealistic video.
+Video close-up of Jinx in glamorous woman mode - vapid blue eyes, glossy red lips, green PVC reflecting light. Expression vacant. She giggles. Lips move saying "¡Mira! ¡Un gatito volador!" pointing off camera with amazement. Head tilt. Convincing stupidity. 4 seconds. Photorealistic video.
 ```
 
 ### Prompt 25: Video Jinx - Mask Drop Moment ????
 
 ```
-Video close-up of Jinx's face. Starts glamorous woman - vapid, lips parted dumbly. Then SHIFT: eyes go cold, jaw sets, smile becomes cruel. Completely different person in same face. Lips move saying "La firma es tuya, �eh, Coleccionista?" cold steel voice. 4 seconds. Photorealistic video.
+Video close-up of Jinx's face. Starts glamorous woman - vapid, lips parted dumbly. Then SHIFT: eyes go cold, jaw sets, smile becomes cruel. Completely different person in same face. Lips move saying "La firma es tuya, ¿eh, Coleccionista?" cold steel voice. 4 seconds. Photorealistic video.
 ```
 
 ---
 
-## VIII. BEL�N � TRANCE DE BEL�N ??
+## VIII. BELÉN — TRANCE DE BELÉN ??
 
-### Bel�n - Transformation Before/After
+### Belén - Transformation Before/After
 
-### Prompt 24: Bel�n ANTES - La T�mida ??
+### Prompt 24: Belén ANTES - La Tímida ??
 
 ```
 Professional photography of young woman, 25-30 years old, natural curvy figure hidden under baggy clothes. Brown hair with no particular style. No makeup, natural lips, green eyes avoiding camera. Hunched shoulders, arms crossed protectively. Wearing oversized sweater, loose pants, flat shoes. Sensual pose with arched back, bedroom eyes. Expression: shy, embarrassed to be photographed. Plain background. Photorealistic.
 ```
 
-### Prompt 23: Bel�n DESPU�S - La Provocadora ??
+### Prompt 23: Belén DESPUÉS - La Provocadora ??
 
 ```
-Professional provocateur photography. Same woman transformed: same curves now proudly displayed in crop top exposing abdomen, tight skirt. Hair styled with volume and movement. Dramatic makeup with dark eyes. BRIGHT RED LIPSTICK ("labial rojo put�n") as signature. Long red nails. Stilettos 5-inch. Standing center stage, arms open inviting attention. Sensual pose with arched back, bedroom eyes. Expression: confident, seeking gazes, exhibitionist joy. Spotlight on her. Photorealistic.
+Professional provocateur photography. Same woman transformed: same curves now proudly displayed in crop top exposing abdomen, tight skirt. Hair styled with volume and movement. Dramatic makeup with dark eyes. BRIGHT RED LIPSTICK ("labial rojo putón") as signature. Long red nails. Stilettos 5-inch. Standing center stage, arms open inviting attention. Sensual pose with arched back, bedroom eyes. Expression: confident, seeking gazes, exhibitionist joy. Spotlight on her. Photorealistic.
 ```
 
-### Bel�n - Key Story Scenes
+### Belén - Key Story Scenes
 
-### Prompt 22: Bel�n - Trance Induction ??
-
-```
-Professional hypnosis photography. Bel�n (before version, shy) seated, eyes fixed on Miss Doll's pendant or spiral. Miss Doll (platinum bob, pink latex) standing before her. Bel�n's green eyes slightly glazed, fighting but losing. Beginning of reprogramming. Dim pink lighting. Photorealistic.
-```
-
-### Prompt 21: Bel�n - Trigger: Labial Rojo ??
+### Prompt 22: Belén - Trance Induction ??
 
 ```
-Professional mirror photography. Bel�n looking in mirror, applying red lipstick slowly. As the red touches her lips, her expression transforms: shy tension melting, confident smile emerging. Transformation via trigger visualized. Her reflection showing confident Bel�n while she shows mid-change. Photorealistic.
+Professional hypnosis photography. Belén (before version, shy) seated, eyes fixed on Miss Doll's pendant or spiral. Miss Doll (platinum bob, pink latex) standing before her. Belén's green eyes slightly glazed, fighting but losing. Beginning of reprogramming. Dim pink lighting. Photorealistic.
 ```
 
-### Prompt 20: Bel�n - First Exhibition ??
+### Prompt 21: Belén - Trigger: Labial Rojo ??
 
 ```
-Professional party photography. Bel�n (fully transformed) at crowded party/club. Wearing crop top, everyone looking at her exposed abdomen, her confident stance. She's ENJOYING the stares, feeding on attention. Men watching open-mouthed. Women jealous. Sensual pose with arched back, bedroom eyes. Expression: euphoric exhibitionist. Club lighting. Photorealistic.
+Professional mirror photography. Belén looking in mirror, applying red lipstick slowly. As the red touches her lips, her expression transforms: shy tension melting, confident smile emerging. Transformation via trigger visualized. Her reflection showing confident Belén while she shows mid-change. Photorealistic.
 ```
 
-### Bel�n - Video Prompts
-
-### Prompt 19: Video Bel�n - Lipstick Application ??
+### Prompt 20: Belén - First Exhibition ??
 
 ```
-Video close-up of Bel�n applying red lipstick in mirror. Face starts nervous (before). As lipstick completes bottom then top lip, expression shifts to confident. She smiles. Lips move saying "Labial rojo... soy deseada. Labial rojo... me miran." Post-hypnotic trigger active. 5 seconds. Photorealistic video.
+Professional party photography. Belén (fully transformed) at crowded party/club. Wearing crop top, everyone looking at her exposed abdomen, her confident stance. She's ENJOYING the stares, feeding on attention. Men watching open-mouthed. Women jealous. Sensual pose with arched back, bedroom eyes. Expression: euphoric exhibitionist. Club lighting. Photorealistic.
 ```
 
-### Prompt 18: Video Bel�n - Seeking Attention ??
+### Belén - Video Prompts
+
+### Prompt 19: Video Belén - Lipstick Application ??
 
 ```
-Video medium shot. Bel�n in exhibitionist outfit walking through crowd. She moves slowly, deliberately, enjoying looks. Runs hand down her exposed abdomen for people to watch. Smiles at watchers. Lips move saying "Cada mirada me excita." Feeding on attention. 5 seconds. Photorealistic video.
+Video close-up of Belén applying red lipstick in mirror. Face starts nervous (before). As lipstick completes bottom then top lip, expression shifts to confident. She smiles. Lips move saying "Labial rojo... soy deseada. Labial rojo... me miran." Post-hypnotic trigger active. 5 seconds. Photorealistic video.
+```
+
+### Prompt 18: Video Belén - Seeking Attention ??
+
+```
+Video medium shot. Belén in exhibitionist outfit walking through crowd. She moves slowly, deliberately, enjoying looks. Runs hand down her exposed abdomen for people to watch. Smiles at watchers. Lips move saying "Cada mirada me excita." Feeding on attention. 5 seconds. Photorealistic video.
 ```
 
 ---
 
-## X. GINNY � glamorous woman GENIE ??????
+## X. GINNY — glamorous woman GENIE ??????
 
 ### Ginny - Character Study
 
@@ -613,7 +613,7 @@ Video close-up. Ginny's face - pink skin, purple eyes. She smiles mischievously.
 Professional photography of woman, age variable, intelligent face, natural appearance. Furrowed brow from thinking too much. Wearing comfortable practical clothes. Sitting at laptop late at night, reading with focused expression. Cup of coffee, tired bags under eyes. Sensual pose with arched back, bedroom eyes. Expression: stressed professional/student. Home office. Photorealistic documentary.
 ```
 
-### Prompt 8: Bunny DESPU�S - La Mu�eca Perfecta ??
+### Prompt 8: Bunny DESPUÉS - La Muñeca Perfecta ??
 
 ```
 Professional hyper-glamorous woman photography. Same woman transformed: platinum blonde bob cut with asymmetric bangs (Miss Doll style). GIGANTIC breasts (800cc+ profile extra high), wasp waist (corset/lipo), enormous butt (BBL). Face: nose job, forehead smooth (botox), permanently parted glossy lips, false lashes. Skin: plastic-looking, tanned spray, glowing. Wearing PINK NEON LATEX CATSUIT covering body like second skin. PLEASER platforms 8-inch. PINK COLLAR around neck. Sensual pose with arched back, bedroom eyes. Expression: permanently empty, vacant, happy. Eyes unfocused (hypnotized). Luxury pink room. Photorealistic.
@@ -703,7 +703,7 @@ Video close-up of Bunny's face - vacant eyes, full glossy RED lips. She smiles e
 
 ```
 Video compilation of multiple characters having their triggers activated:
-1. Bel�n hearing "labial rojo" - shy?confident shift
+1. Belén hearing "labial rojo" - shy?confident shift
 2. Bunny hearing "PINK" - eyes glazing with pleasure
 3. Nancy's collar glowing - body snapping to attention
 4. Vera hearing "Yes, Fernando" - empty smile activating
@@ -727,8 +727,8 @@ Each 3 seconds. Heels emphasized. Photorealistic video.
 
 ---
 
-*Creado por: Helena de Ana�s - V5 Story Scenes Edition ??*
-*Personajes de: El Collar de Nancy, Proyecto Trad-Wife, El Trono de Luna, El Vino del Vecino, Tetitas, El Cuadro de Fideos, Trance de Bel�n, Trance Bimbodoll*
+*Creado por: Helena de Anaïs - V5 Story Scenes Edition ??*
+*Personajes de: El Collar de Nancy, Proyecto Trad-Wife, El Trono de Luna, El Vino del Vecino, Tetitas, El Cuadro de Fideos, Trance de Belén, Trance Bimbodoll*
 
 
 

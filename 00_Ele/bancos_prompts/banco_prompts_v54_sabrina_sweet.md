@@ -1,4 +1,4 @@
-﻿# 🎀 BANCO DE PROMPTS V54: SABRINA CARPENTER "SHORT N SWEET" STYLE
+# 🎀 BANCO DE PROMPTS V54: SABRINA CARPENTER "SHORT N SWEET" STYLE
 
 > **Enfoque:** Estética ultra-femenina inspirada en Sabrina Carpenter Short n Sweet Tour (2024-2025)
 > **Personaje:** Miss Doll EXCLUSIVO

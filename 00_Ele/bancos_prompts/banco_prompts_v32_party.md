@@ -1,4 +1,4 @@
-﻿# ?? Banco de Prompts V32: PARTY & CLUBWEAR EDITION
+# ?? Banco de Prompts V32: PARTY & CLUBWEAR EDITION
 
 > **ENFOQUE:** Discoteca, VIP, DJ, bottle service, neon, mini vestidos, bodycon, clubbing.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
@@ -7,10 +7,10 @@
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. MISS DOLL � PINK CLUB QUEEN (20 PROMPTS)
+## ?? I. MISS DOLL — PINK CLUB QUEEN (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Disco Ball Dress
 
@@ -184,7 +184,7 @@ Professional VIP photography of woman 27+ years old glamorous with platinum blon
 
 ---
 
-## ?? II. HELENA � DARK CLUB QUEEN (15 PROMPTS)
+## ?? II. HELENA — DARK CLUB QUEEN (15 PROMPTS)
 
 ### Prompt 80: 21. Helena - Industrial Goth Club
 
@@ -278,7 +278,7 @@ Professional mesh photography of young elegant goth glamour woman woman 23+ year
 
 ---
 
-## ?? III. DUO � PARTY PAIRS (15 PROMPTS)
+## ?? III. DUO — PARTY PAIRS (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - VIP Table
 
@@ -680,8 +680,8 @@ Professional finale duo photography. HELENA (black dress, barefoot carrying heel
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V32.2 Party & Clubwear Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V32.2 Party & Clubwear Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2026-01-04*
 

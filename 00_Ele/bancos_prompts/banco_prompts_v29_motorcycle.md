@@ -1,4 +1,4 @@
-﻿# ??? Banco de Prompts V29: MOTORCYCLE & BIKER EDITION
+# ??? Banco de Prompts V29: MOTORCYCLE & BIKER EDITION
 
 > **ENFOQUE:** Chaquetas de cuero, Harleys, garage, cadenas, biker babes.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
@@ -7,10 +7,10 @@
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � DARK RIDER (20 PROMPTS)
+## ?? I. HELENA — DARK RIDER (20 PROMPTS)
 
 ### Prompt 100: 1. Helena - Biker Queen Leather
 
@@ -184,7 +184,7 @@ Professional saloon photography of young elegant goth glamour woman woman 23+ ye
 
 ---
 
-## ?? II. MISS DOLL � PINK RIDER (15 PROMPTS)
+## ?? II. MISS DOLL — PINK RIDER (15 PROMPTS)
 
 ### Prompt 80: 21. Miss Doll - Pink Harley Princess
 
@@ -278,7 +278,7 @@ Professional futuristic photography of woman 27+ years old glamorous with platin
 
 ---
 
-## ?? III. DUO � BIKER PAIRS (15 PROMPTS)
+## ?? III. DUO — BIKER PAIRS (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Midnight Riders
 
@@ -372,7 +372,7 @@ Professional destination duo photography. HELENA: Sacha Massacre look dismountin
 
 ---
 
-## ??? IV. HELENA � DARK RIDER SENSUAL (15 PROMPTS)
+## ??? IV. HELENA — DARK RIDER SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Helena - Outlaw Queen
 
@@ -466,7 +466,7 @@ Professional chrome photography of young elegant goth glamour woman woman 23+ ye
 
 ---
 
-## ?? V. MISS DOLL � PINK RIDER SENSUAL (15 PROMPTS)
+## ?? V. MISS DOLL — PINK RIDER SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Miss Doll - Pink Rally Queen
 
@@ -560,7 +560,7 @@ Professional boulevard photography of woman 27+ years old glamorous with platinu
 
 ---
 
-## ?? VI. DUO � BIKER SENSUAL (20 PROMPTS)
+## ?? VI. DUO — BIKER SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Garage Dance
 
@@ -684,8 +684,8 @@ Professional forever duo photography. HELENA: Sacha Massacre look embracing Miss
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V29 Motorcycle & Biker Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V29 Motorcycle & Biker Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

@@ -1,15 +1,15 @@
-﻿# ?? BANCO DE PROMPTS V17: POV COLLECTION EDITION
+# ?? BANCO DE PROMPTS V17: POV COLLECTION EDITION
 
-> **ENFOQUE:** Primera persona (POV), desde arriba, desde abajo, inmersi�n del espectador.
+> **ENFOQUE:** Primera persona (POV), desde arriba, desde abajo, inmersión del espectador.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 100 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -59,7 +59,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � POV DOMINANCE (20 PROMPTS)
+## ?? I. HELENA — POV DOMINANCE (20 PROMPTS)
 
 ### Prompt 100: 1. Helena - POV Looking Down at You
 
@@ -183,7 +183,7 @@ Professional behind POV photography. First person at mirror, reflection showing 
 
 ---
 
-## ?? II. MISS DOLL � POV RECEIVING (20 PROMPTS)
+## ?? II. MISS DOLL — POV RECEIVING (20 PROMPTS)
 
 ### Prompt 80: 21. Miss Doll - POV Looking Up at Master
 
@@ -307,63 +307,63 @@ Professional performance POV photography. First person seated watching. Woman wi
 
 ---
 
-## ?? III. ANA�S � POV POWER (10 PROMPTS)
+## ?? III. ANAÏS — POV POWER (10 PROMPTS)
 
-### Prompt 60: 41. Ana�s - POV Board Meeting
+### Prompt 60: 41. Anaïs - POV Board Meeting
 
 ```
 Professional boardroom POV photography. First person seated at conference table. Aristocratic woman with honey blonde hair standing at head of table, commanding. Bronze skin. Red glossy lips. Burgundy corset under blazer. PLEASER 5-inch heels. Sensual pose with arched back, bedroom eyes. Expression: any questions. Meeting POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 59: 42. Ana�s - POV Interview
+### Prompt 59: 42. Anaïs - POV Interview
 
 ```
 Professional interview POV photography. First person seated across desk. Aristocratic woman with honey blonde hair interviewing viewer, reviewing resume. Bronze skin. Red glossy lips. Black corset visible under blouse. PLEASER 5-inch heels under glass desk. Sensual pose with arched back, bedroom eyes. Expression: convince me. Interview POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 58: 43. Ana�s - POV Champagne Toast
+### Prompt 58: 43. Anaïs - POV Champagne Toast
 
 ```
 Professional toast POV photography. First person holding champagne glass. Aristocratic woman with honey blonde hair clinking glass toward camera. Bronze skin. Red glossy lips smiling. Gold corset visible. PLEASER gold 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: to us. Celebration toast POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 57: 44. Ana�s - POV She Commands Entry
+### Prompt 57: 44. Anaïs - POV She Commands Entry
 
 ```
 Professional door POV photography. First person at office door. Aristocratic woman with honey blonde hair behind desk gesturing viewer to enter. Bronze skin. Red glossy lips. Power corset suit. Sensual pose with arched back, bedroom eyes. Expression: come in. Executive summons POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 56: 45. Ana�s - POV Dinner Date
+### Prompt 56: 45. Anaïs - POV Dinner Date
 
 ```
 Professional dinner POV photography. First person across elegant dinner table. Aristocratic woman with honey blonde hair dining opposite, wine glass raised. Bronze skin. Red glossy lips. Burgundy evening corset dress. Sensual pose with arched back, bedroom eyes. Expression: enjoying this. Romantic dinner POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 55: 46. Ana�s - POV Morning After
+### Prompt 55: 46. Anaïs - POV Morning After
 
 ```
 Professional intimate POV photography. First person beside in bed. Aristocratic woman with honey blonde hair propped beside viewer, morning light, silk sheet. Bronze skin. Red lips natural. Champagne corset under silk robe. Sensual pose with arched back, bedroom eyes. Expression: good morning. Morning after POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 54: 47. Ana�s - POV She Fixes Your Tie
+### Prompt 54: 47. Anaïs - POV She Fixes Your Tie
 
 ```
 Professional caring POV photography. First person standing. Aristocratic woman with honey blonde hair fixing viewer's tie, close. Bronze skin. Red glossy lips. Power corset suit. Sensual pose with arched back, bedroom eyes. Expression: there, perfect. Tie fixing POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 53: 48. Ana�s - POV Gallery Walk
+### Prompt 53: 48. Anaïs - POV Gallery Walk
 
 ```
 Professional gallery POV photography. First person walking through art gallery. Aristocratic woman with honey blonde hair beside, arm linked with viewer implied. Bronze skin. Red glossy lips. Black elegant corset dress. PLEASER 5-inch heels. Sensual pose with arched back, bedroom eyes. Expression: I love this piece. Gallery walk POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 52: 49. Ana�s - POV She Gives Orders
+### Prompt 52: 49. Anaïs - POV She Gives Orders
 
 ```
 Professional command POV photography. First person standing before. Aristocratic woman with honey blonde hair giving direct orders, finger pointing at viewer. Bronze skin. Red glossy lips firm. Power corset visible. Sensual pose with arched back, bedroom eyes. Expression: understood. Direct order POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 51: 50. Ana�s - POV Balcony Sunset
+### Prompt 51: 50. Anaïs - POV Balcony Sunset
 
 ```
 Professional romantic POV photography. First person on luxury balcony. Aristocratic woman with honey blonde hair beside viewer, both watching sunset. Bronze skin glowing. Red glossy lips. Elegant corset dress. Wine in hand. Sensual pose with arched back, bedroom eyes. Expression: beautiful isn't it. Sunset shared POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -385,7 +385,7 @@ Professional cage POV photography. Camera inside metal cage looking out through 
 Professional picnic POV photography. First person view sitting on blanket. woman 27+ years old glamorous with platinum blonde bob sitting across, offering strawberry. Flawless porcelain skin. Pink gingham outfit with white corset. PLEASER pink 8-inch heels kicked off nearby. Sensual pose with arched back, bedroom eyes. Expression: try this. Sunny park POV. Seductive glamour photography, sunlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 48: 53. Ana�s - POV Signing Contract
+### Prompt 48: 53. Anaïs - POV Signing Contract
 
 ```
 Professional business POV photography. First person view of hand holding pen over contract. Aristocratic woman with honey blonde hair standing over viewer, pointing at signature line. Bronze skin. Red lips. Burgundy power corset. Sensual pose with arched back, bedroom eyes. Expression: sign it. Office desk POV. Seductive glamour photography, office lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -403,7 +403,7 @@ Professional driving POV photography. First person in passenger seat. Young woma
 Professional playful POV photography. First person view on bed. woman 27+ years old glamorous with platinum blonde bob swinging pink pillow at camera. Flawless porcelain skin. Pink lingerie with corset. Feathers flying. Sensual pose with arched back, bedroom eyes. Expression: gotcha. Bedroom playful POV. Seductive glamour photography, soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 45: 56. Ana�s - POV Red Carpet
+### Prompt 45: 56. Anaïs - POV Red Carpet
 
 ```
 Professional paparazzi POV photography. Camera in crowd of photographers. Aristocratic woman with honey blonde hair stopping to look directly at YOUR camera amidst flashes. Bronze skin. Red lips. Gold gown with corset. Sensual pose with arched back, bedroom eyes. Expression: make me look good. Red carpet POV. Seductive glamour photography, flash lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -421,7 +421,7 @@ Professional ritual POV photography. First person lying on stone altar looking u
 Professional medical POV photography. First person in hospital bed. woman 27+ years old glamorous with platinum blonde bob as nurse leaning over. Flawless porcelain skin. Pink nurse uniform with corset. Checking chart. Sensual pose with arched back, bedroom eyes. Expression: heart rate elevated. Hospital POV. Seductive glamour photography, clean lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 42: 59. Ana�s - POV Chess Game
+### Prompt 42: 59. Anaïs - POV Chess Game
 
 ```
 Professional game POV photography. First person view of chessboard. Aristocratic woman with honey blonde hair sitting opposite, moving queen piece. Bronze skin. Red lips smirk. Black elegant dress with corset. Sensual pose with arched back, bedroom eyes. Expression: checkmate. Library game POV. Seductive glamour photography, warm library lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -439,7 +439,7 @@ Professional gothic casual POV photography. First person walking hand in hand (i
 Professional food POV photography. Close up of fork with cake coming toward camera. woman 27+ years old glamorous with platinum blonde bob holding it. Flawless porcelain skin. Pink lips open. Pink outfit with corset. Sensual pose with arched back, bedroom eyes. Expression: open wide. Dessert POV. Seductive glamour photography, cafe lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 39: 62. Ana�s - POV Private Jet
+### Prompt 39: 62. Anaïs - POV Private Jet
 
 ```
 Professional luxury POV photography. First person seated in private jet interact. Aristocratic woman with honey blonde hair sitting opposite with champagne. Bronze skin. Red lips. White luxury suit with corset. Sensual pose with arched back, bedroom eyes. Expression: to finding new worlds. Jet interior POV. Seductive glamour photography, luxury lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -457,7 +457,7 @@ Professional fortune POV photography. First person looking at cards on table. Yo
 Professional fashion POV photography. First person in fitting room chair. woman 27+ years old glamorous with platinum blonde bob coming out of curtain to show outfit. Flawless porcelain skin. New pink dress with corset. Sensual pose with arched back, bedroom eyes. Expression: buy this for me. Fitting room POV. Seductive glamour photography, mirror lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 36: 65. Ana�s - POV Tennis Match
+### Prompt 36: 65. Anaïs - POV Tennis Match
 
 ```
 Professional sports POV photography. First person across net. Aristocratic woman with honey blonde hair in white tennis outfit with corset, ready to serve. Bronze skin. Red lips. Racket raised. Sensual pose with arched back, bedroom eyes. Expression: love zero. Tennis court POV. Seductive glamour photography, outdoor lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -475,7 +475,7 @@ Professional hypnosis POV photography. Young woman 23+ years old elegant goth gl
 Professional beach POV photography. First person looking down at towel. woman 27+ years old glamorous with platinum blonde bob lying on towel looking up at viewer standing. Flawless porcelain skin. Pink bikini with corset. Sunglasses slid down. Sensual pose with arched back, bedroom eyes. Expression: put lotion on me. Beach POV. Seductive glamour photography, sun lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 33: 68. Ana�s - POV Opera Box
+### Prompt 33: 68. Anaïs - POV Opera Box
 
 ```
 Professional theatre POV photography. First person in private box. Aristocratic woman with honey blonde hair beside viewer using opera glasses. Bronze skin. Red lips. Burgundy gown with corset. Turning to whisper to viewer. Sensual pose with arched back, bedroom eyes. Expression: magnificent performance. Opera POV. Seductive glamour photography, theatre lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -493,7 +493,7 @@ Professional gaming POV photography. First person holding controller. Young woma
 Professional spa POV photography. First person with cucumber slices (implied). woman 27+ years old glamorous with platinum blonde bob in robe next to viewer, face mask on. Flawless porcelain skin. Pink towel turban. Pink corset top. Sensual pose with arched back, bedroom eyes. Expression: relax. Spa POV. Seductive glamour photography, zen lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 30: 71. Ana�s - POV Ballroom Dance
+### Prompt 30: 71. Anaïs - POV Ballroom Dance
 
 ```
 Professional dance POV photography. First person holding partner's hand/waist. Aristocratic woman with honey blonde hair dancing with viewer, close up face. Bronze skin. Red lips. Gold ballgown with corset. Whirling background. Sensual pose with arched back, bedroom eyes. Expression: lead me. Ballroom POV. Seductive glamour photography, chandelier lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -511,7 +511,7 @@ Professional tattoo POV photography. First person in chair looking at arm/leg be
 Professional study POV photography. First person behind stack of books. woman 27+ years old glamorous with platinum blonde bob peeking over books from other side of table. Flawless porcelain skin. Reading glasses. Pink sweater with corset. Sensual pose with arched back, bedroom eyes. Expression: shhh. Library POV. Seductive glamour photography, dusty light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 27: 74. Ana�s - POV Wine Tasting
+### Prompt 27: 74. Anaïs - POV Wine Tasting
 
 ```
 Professional wine POV photography. First person holding glass. Aristocratic woman with honey blonde hair swirling her glass, looking at viewer through the wine. Bronze skin. Red lips. Burgundy outfit with corset. Sensual pose with arched back, bedroom eyes. Expression: full bodied. Vineyard POV. Seductive glamour photography, sunset vineyard lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -520,7 +520,7 @@ Professional wine POV photography. First person holding glass. Aristocratic woma
 ### Prompt 26: 75. All Three - POV Judgement Panel
 
 ```
-Professional panel POV photography. First person standing on stage. Table with three judges. ANA�S (center): honey blonde, looking unimpressed. HELENA (left): black hair, looking critical. MISS DOLL (right): platinum bob, looking sympathetic. All in corset power suits. Sensual pose with arched back, bedroom eyes. Expression: show us what you got. Audition POV. Photorealistic 8k. Vertical portrait orientation.
+Professional panel POV photography. First person standing on stage. Table with three judges. ANAÏS (center): honey blonde, looking unimpressed. HELENA (left): black hair, looking critical. MISS DOLL (right): platinum bob, looking sympathetic. All in corset power suits. Sensual pose with arched back, bedroom eyes. Expression: show us what you got. Audition POV. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -539,7 +539,7 @@ Professional color POV photography. First person entering red room. Young woman 
 Professional color POV photography. First person in blue water. woman 27+ years old glamorous with platinum blonde bob floating nearby. Everything blue. Flawless porcelain skin. Blue swimsuit with corset. Sensual pose with arched back, bedroom eyes. Expression: water nymph. Blue aquatic POV. Seductive glamour photography, blue water lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 23: 78. Ana�s - POV Gold Vault
+### Prompt 23: 78. Anaïs - POV Gold Vault
 
 ```
 Professional color POV photography. First person in vault. Aristocratic woman with honey blonde hair surrounded by gold bars. Everything gold. Bronze skin. Gold lips. Gold corset dress. Sensual pose with arched back, bedroom eyes. Expression: pure gold. Gold luxury POV. Seductive glamour photography, golden lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -557,7 +557,7 @@ Professional color POV photography. First person lying in grass. Young woman 23+
 Professional color POV photography. First person in clouds (dream). woman 27+ years old glamorous with platinum blonde bob sitting on pink cloud. Pink theme. Flawless porcelain skin. Pink lips. Pink angel corset. Sensual pose with arched back, bedroom eyes. Expression: dream of me. Pink dream POV. Seductive glamour photography, soft pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 20: 81. Ana�s - POV Silver Skyscraper
+### Prompt 20: 81. Anaïs - POV Silver Skyscraper
 
 ```
 Professional color POV photography. First person on roof edge. Aristocratic woman with honey blonde hair against steel skyline. Silver theme. Bronze skin. Silver lips. Silver corset suit. Sensual pose with arched back, bedroom eyes. Expression: top of the world. Silver city POV. Seductive glamour photography, cool silver lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -575,7 +575,7 @@ Professional color POV photography. First person in smoke filled room. Young wom
 Professional color POV photography. First person in convertible. woman 27+ years old glamorous with platinum blonde bob driving into sunset. Orange theme. Flawless porcelain skin. Orange lips. Orange corset top. Sensual pose with arched back, bedroom eyes. Expression: chasing sun. Orange sunset POV. Seductive glamour photography, warm orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 17: 84. Ana�s - POV Black Tie Event
+### Prompt 17: 84. Anaïs - POV Black Tie Event
 
 ```
 Professional color POV photography. First person at gala. Aristocratic woman with honey blonde hair approaching. Black and white theme (except skin). Bronze skin. Dark lips. Black tuxedo corset dress. Sensual pose with arched back, bedroom eyes. Expression: shall we dance. Black and white elegant POV. Seductive glamour photography, contrast lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -593,7 +593,7 @@ Professional color POV photography. First person in infinite white space. Young 
 Professional color POV photography. First person running through flowers. woman 27+ years old glamorous with platinum blonde bob ahead in field. Yellow theme. Flawless porcelain skin. Yellow lips. Yellow sundress with corset. Sensual pose with arched back, bedroom eyes. Expression: catch me. Yellow field POV. Seductive glamour photography, bright yellow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 14: 87. Ana�s - POV Teal Ocean Yacht
+### Prompt 14: 87. Anaïs - POV Teal Ocean Yacht
 
 ```
 Professional color POV photography. First person on deck. Aristocratic woman with honey blonde hair against teal ocean. Teal theme. Bronze skin. Teal lips. Teal resort wear with corset. Sensual pose with arched back, bedroom eyes. Expression: ocean breeze. Teal yacht POV. Seductive glamour photography, teal ocean lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -611,7 +611,7 @@ Professional color POV photography. First person on rainy street. Young woman 23
 Professional color POV photography. First person entering room. woman 27+ years old glamorous with platinum blonde bob on peach duvet. Peach theme. Flawless porcelain skin. Peach lips. Peach lingerie corset. Sensual pose with arched back, bedroom eyes. Expression: soft comfort. Peach bedroom POV. Seductive glamour photography, soft peach lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 11: 90. Ana�s - POV Burgundy Wine Cellar
+### Prompt 11: 90. Anaïs - POV Burgundy Wine Cellar
 
 ```
 Professional color POV photography. First person in cellar. Aristocratic woman with honey blonde hair selecting vintage bottle. Burgundy theme. Bronze skin. Burgundy lips. Burgundy velvet corset dress. Sensual pose with arched back, bedroom eyes. Expression: aged perfection. Burgundy cellar POV. Seductive glamour photography, dark red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -629,7 +629,7 @@ Professional color POV photography. First person inside simulation. Young woman 
 Professional color POV photography. First person in room with crystals. Beams of rainbow light hitting woman 27+ years old glamorous with platinum blonde bob. Rainbow theme. Flawless porcelain skin. Rainbow highlight. White corset reflecting rainbow. Sensual pose with arched back, bedroom eyes. Expression: spectrum. Rainbow prism POV. Seductive glamour photography, prism lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 8: 93. Ana�s - POV Bronze Statue
+### Prompt 8: 93. Anaïs - POV Bronze Statue
 
 ```
 Professional color POV photography. First person in museum looking at living statue. Aristocratic woman with honey blonde hair posing on pedestal. Bronze theme. Bronze skin metallic body paint. Bronze corset. Sensual pose with arched back, bedroom eyes. Expression: timeless art. Bronze museum POV. Seductive glamour photography, spotlight lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -647,7 +647,7 @@ Professional color POV photography. First person on roof at midnight. Young woma
 Professional color POV photography. First person walking in lavender. woman 27+ years old glamorous with platinum blonde bob surrounded by flowers. Lavender theme. Flawless porcelain skin. Lavender lips. Lavender corset dress. Sensual pose with arched back, bedroom eyes. Expression: scent of spring. Lavender field POV. Seductive glamour photography, purple soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 5: 96. Ana�s - POV Emerald Library
+### Prompt 5: 96. Anaïs - POV Emerald Library
 
 ```
 Professional color POV photography. First person in green reading room. Aristocratic woman with honey blonde hair reading green book. Emerald theme. Bronze skin. Green lips. Emerald green corset gown. Sensual pose with arched back, bedroom eyes. Expression: wisdom. Emerald library POV. Seductive glamour photography, green banker lamp lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -665,7 +665,7 @@ Professional color POV photography. First person on bridge in fog. Young woman 2
 Professional color POV photography. First person underwater (diving). woman 27+ years old glamorous with platinum blonde bob mermaid (implied). Coral theme. Flawless porcelain skin. Coral lips. Coral scale corset. Sensual pose with arched back, bedroom eyes. Expression: under the sea. Coral underwater POV. Seductive glamour photography, underwater refracted lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 2: 99. Ana�s - POV Platinum Lobby
+### Prompt 2: 99. Anaïs - POV Platinum Lobby
 
 ```
 Professional color POV photography. First person entering luxury lobby. Aristocratic woman with honey blonde hair waiting. Platinum theme. Bronze skin. Nude lips. Platinum silver corset suit. Sensual pose with arched back, bedroom eyes. Expression: 5 star life. Platinum lobby POV. Seductive glamour photography, bright cool lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -674,13 +674,13 @@ Professional color POV photography. First person entering luxury lobby. Aristocr
 ### Prompt 1: 100. All Three - POV The Choice
 
 ```
-Professional finale POV photography. First person standing before three doors. HELENA (black door), MISS DOLL (pink door), ANA�S (gold door). Each standing in front of their colored door beckoning viewer. Ultimate choice. Sensual pose with arched back, bedroom eyes. Expression: choose your path. Three doors POV. Photorealistic 8k. Vertical portrait orientation.
+Professional finale POV photography. First person standing before three doors. HELENA (black door), MISS DOLL (pink door), ANAÏS (gold door). Each standing in front of their colored door beckoning viewer. Ultimate choice. Sensual pose with arched back, bedroom eyes. Expression: choose your path. Three doors POV. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V17.2 POV Collection � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V17.2 POV Collection — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2026-01-04*
 

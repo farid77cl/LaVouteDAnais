@@ -1,4 +1,4 @@
-﻿# 🤖 Banco de Prompts V24: CYBERPUNK & FUTURISTIC EDITION
+# 🤖 Banco de Prompts V24: CYBERPUNK & FUTURISTIC EDITION
 
 > **ENFOQUE:** Neón, hologramas, cyber-implantes, Tokyo 2077, Blade Runner aesthetics.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

@@ -1,4 +1,4 @@
-﻿# 🖤 Banco de Prompts V42: HEAVY LATEX & RUBBER EDITION
+# 🖤 Banco de Prompts V42: HEAVY LATEX & RUBBER EDITION
 
 > **ENFOQUE:** Helena y Miss Doll con estética de látex pesado, goma y fetichismo industrial.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

@@ -1,9 +1,9 @@
-﻿# ?? BANCO DE PROMPTS V4 - FETISH EDITION (REVISADO)
+# ?? BANCO DE PROMPTS V4 - FETISH EDITION (REVISADO)
 
 > **ENFOQUE:** Ropa real de marcas fetish. Materiales brillantes. TODOS los colores libres.
-> **Personajes:** Miss Doll, Helena, Ana�s
+> **Personajes:** Miss Doll, Helena, Anaïs
 > **Total:** 200+ prompts | **Actualizado:** 2025-12-27
-> **Versi�n:** 4.1 Real Fetish Wear + Pole Sins
+> **Versión:** 4.1 Real Fetish Wear + Pole Sins
 
 ---
 
@@ -11,19 +11,19 @@
 
 | Tienda | Especialidad | Web |
 |--------|--------------|-----|
-| **Libidex** | L�tex premium custom (London) | libidex.com |
-| **Vex Clothing** | L�tex high-end artesanal (California) | vexclothing.com |
+| **Libidex** | Látex premium custom (London) | libidex.com |
+| **Vex Clothing** | Látex high-end artesanal (California) | vexclothing.com |
 | **Honour/Skin Two** | PVC, maid outfits, hoods | honour.co.uk |
-| **Kink Projects** | L�tex sofisticado, uniformes | kinkprojects.com |
-| **Cleo the Hurricane** | Pole wear met�lico, 80s glam | cleothehurricane.com |
+| **Kink Projects** | Látex sofisticado, uniformes | kinkprojects.com |
+| **Cleo the Hurricane** | Pole wear metálico, 80s glam | cleothehurricane.com |
 | **Pole Sins** | Pole boots, heels, crop jerseys (Australia) | polesins.com.au |
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -37,7 +37,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -47,7 +47,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -147,29 +147,29 @@ Professional witchy photography of adult goth woman woman 23+ years old inspired
 
 ---
 
-## III. ANA�S BELLAND - LIBIDEX COLLECTION ??
+## III. ANAÏS BELLAND - LIBIDEX COLLECTION ??
 
 ### Latex Elegance
 
-### Prompt 54: Ana�s - Libidex Gown Champagne
+### Prompt 54: Anaïs - Libidex Gown Champagne
 
 ```
 Professional glamour photography of woman with honey blonde hair in vintage waves. Aristocratic face with sultry expression. Hourglass figure. Wearing LIBIDEX CHAMPAGNE LATEX EVENING GOWN, floor length, plunging neckline, high leg slit. Nude underbust corset barely visible. PLEASER SO KATE style nude patent 5-inch heel. Red carpet pose, champagne glass in hand. Sensual pose with arched back, bedroom eyes. Expression: sultry old Hollywood. Golden ballroom. Professional photography.
 ```
 
-### Prompt 53: Ana�s - Libidex Dress Bordeaux
+### Prompt 53: Anaïs - Libidex Dress Bordeaux
 
 ```
 Professional boudoir photography of woman with honey blonde hair, soft waves. Aristocratic face with knowing smile. Hourglass figure. Wearing LIBIDEX BORDEAUX LATEX COCKTAIL DRESS, tight fit, off-shoulder. Wine red underbust corset. PLEASER AMUSE-20 bordeaux patent 5-inch heel pump. Seated on antique chair, legs crossed. Sensual pose with arched back, bedroom eyes. Expression: dominant hostess. French salon lighting. Professional photography.
 ```
 
-### Prompt 52: Ana�s - Libidex Catsuit Ivory
+### Prompt 52: Anaïs - Libidex Catsuit Ivory
 
 ```
 Professional art photography of woman with honey blonde hair pinned up elegantly. Aristocratic face, red lips. Hourglass figure. Wearing LIBIDEX IVORY LATEX CATSUIT, full coverage, pristine white. Gold waist corset belt. PLEASER CLASSIQUE-20 gold metallic 4-inch heel pump. Standing at window, silhouette. Sensual pose with arched back, bedroom eyes. Expression: contemplative goddess. White studio. Professional photography.
 ```
 
-### Prompt 51: Ana�s - Libidex Pencil Skirt Navy
+### Prompt 51: Anaïs - Libidex Pencil Skirt Navy
 
 ```
 Professional editorial photography of woman with honey blonde hair in chignon. Aristocratic face, nude pink lips. Hourglass figure. Wearing LIBIDEX NAVY BLUE LATEX PENCIL SKIRT, LIBIDEX NAVY LATEX BLOUSE unbuttoned. Navy underbust corset. PLEASER AMUSE-20 navy patent 5-inch heel. Executive pose at mahogany desk. Sensual pose with arched back, bedroom eyes. Expression: CEO dominance. Corporate office. Professional photography.
@@ -207,15 +207,15 @@ Professional gothic photography of adult goth woman woman 23+ years old inspired
 Professional photography of adult goth woman woman 23+ years old inspired by Sacha Massacre. Voluminous black hair styled. Pale skin, plum lips. Hourglass figure. Wearing VEX CLOTHING PLUM LATEX COCKTAIL DRESS, deep purple, artistic cut. Black corset visible. PLEASER MOON-708 black 7-inch heel. Cocktail party pose. Sensual pose with arched back, bedroom eyes. Expression: dark socialite. Purple ballroom. Professional photography.
 ```
 
-### Ana�s - Vex
+### Anaïs - Vex
 
-### Prompt 46: Ana�s - Vex Bodysuit Nude
+### Prompt 46: Anaïs - Vex Bodysuit Nude
 
 ```
 Professional art photography of woman with honey blonde hair. Aristocratic face, natural makeup. Hourglass figure. Wearing VEX CLOTHING NUDE LATEX BODYSUIT, second skin effect, California craftsmanship. Nude waist cincher. PLEASER CLASSIQUE-20 nude patent 4-inch heel. Artistic pose, minimal set. Sensual pose with arched back, bedroom eyes. Expression: vulnerable power. Cream studio. Professional photography.
 ```
 
-### Prompt 45: Ana�s - Vex Skirt Set Copper
+### Prompt 45: Anaïs - Vex Skirt Set Copper
 
 ```
 Professional editorial photography of woman with honey blonde hair in waves. Aristocratic face, copper eye makeup. Hourglass figure. Wearing VEX CLOTHING COPPER LATEX PENCIL SKIRT, VEX COPPER CROP TOP. Copper corset belt. PLEASER AMUSE-20 copper metallic 5-inch heel. Fashion editorial pose. Sensual pose with arched back, bedroom eyes. Expression: runway dominance. Copper backdrop. Professional photography.
@@ -239,7 +239,7 @@ Professional fetish photography of woman with platinum blonde bob. Realistic hum
 Professional gothic photography of adult goth woman woman 23+ years old inspired by Sacha Massacre. Voluminous black hair under lace cap. Pale skin, black lips. Hourglass figure. Wearing HONOUR PVC MELODY MAID DRESS black with white apron, very short. Black overbust corset. Black PVC long gloves. PLEASER MOON-708 black patent 7-inch heel. Kneeling scrubbing pose. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare. Victorian manor. Professional photography.
 ```
 
-### Prompt 42: Ana�s - Honour Maid Cream
+### Prompt 42: Anaïs - Honour Maid Cream
 
 ```
 Professional photography of woman with honey blonde hair pinned up. Aristocratic face, subtle makeup. Hourglass figure. Wearing HONOUR PVC MELODY MAID DRESS cream with black apron, elegant cut. Cream underbust corset. PLEASER CLASSIQUE-20 cream patent 4-inch heel. Standing with silver tray. Sensual pose with arched back, bedroom eyes. Expression: knowing dominance (she's the mistress playing dress-up). French chateau. Professional photography.
@@ -291,7 +291,7 @@ Professional fantasy photography of woman with platinum blonde bob. Realistic hu
 Professional dark fantasy photography of adult goth woman woman 23+ years old inspired by Sacha Massacre. Voluminous black hair partially covered by habit. Pale skin, black lips. Hourglass figure. Wearing KINK PROJECTS BLACK LATEX NUN HABIT modified, extremely short skirt, corset bodice integrated, wimple included. PLEASER RAPTURE-1020 black patent 8-inch boots. Prayer pose with rosary. Sensual pose with arched back, bedroom eyes. Expression: fallen angel. Gothic church. Professional photography.
 ```
 
-### Prompt 35: Ana�s - Kink Projects Secretary Navy
+### Prompt 35: Anaïs - Kink Projects Secretary Navy
 
 ```
 Professional corporate fantasy photography of woman with honey blonde hair in bun. Aristocratic face, glasses. Hourglass figure. Wearing KINK PROJECTS NAVY LATEX SECRETARY SET, pencil skirt, buttoned blouse, tie. Navy underbust corset under blouse. PLEASER AMUSE-20 navy patent 5-inch heel. Stern pose at filing cabinet. Sensual pose with arched back, bedroom eyes. Expression: HR dominatrix. Executive office. Professional photography.
@@ -299,7 +299,7 @@ Professional corporate fantasy photography of woman with honey blonde hair in bu
 
 ### Sophisticated Latex
 
-### Prompt 34: Ana�s - Kink Projects Evening Gown Black
+### Prompt 34: Anaïs - Kink Projects Evening Gown Black
 
 ```
 Professional gala photography of woman with honey blonde hair in elegant updo. Aristocratic face, red lips. Hourglass figure. Wearing KINK PROJECTS BLACK LATEX EVENING GOWN, floor length, architectural design, plunging back. Invisible corset structure. PLEASER CLASSIQUE-20 black patent 4-inch heel. Grand staircase pose. Sensual pose with arched back, bedroom eyes. Expression: old money elegance. Crystal chandelier ballroom. Professional photography.
@@ -329,7 +329,7 @@ Professional pole photography of woman with platinum blonde bob. Realistic human
 Professional dark pole photography of adult goth woman woman 23+ years old inspired by Sacha Massacre. Voluminous black hair flying with movement. Pale skin glistening. Black lips. Hourglass figure. Wearing CLEO THE HURRICANE HEROINE LIQUID HOT PANTS gunmetal metallic, HEROINE LIQUID CROSS BACK TOP gunmetal. PLEASER FLAMINGO-1020 black matte 8-inch heel boots. Inverted pole pose, legs split, hair hanging. Sensual pose with arched back, bedroom eyes. Expression: inverted predator. Dark stage. Professional photography.
 ```
 
-### Prompt 30: Ana�s - Cleo Heroine Liquid Rose Gold
+### Prompt 30: Anaïs - Cleo Heroine Liquid Rose Gold
 
 ```
 Professional elegant pole photography of woman with honey blonde hair in sleek ponytail. Aristocratic face with performance glow. Hourglass figure. Wearing CLEO THE HURRICANE HEROINE LIQUID HOT PANTS rose gold metallic, HEROINE LIQUID TWIST TOP rose gold. PLEASER AMUSE-20 rose gold 5-inch heel (exotic pole style). Pole spin pose, one leg extended. Sensual pose with arched back, bedroom eyes. Expression: elegant power. Rose gold lights. Professional photography.
@@ -411,7 +411,7 @@ Professional gothic pole photography of adult goth woman woman 23+ years old ins
 Professional burlesque photography of woman with platinum blonde bob. Realistic human face with showgirl makeup. Hourglass figure. Wearing sparkly pink bikini, feather boa, no corset. POLE SINS SHOWGIRL FLIRTINI HEELS pink glitter, platform, ankle strap. Vegas pose, feathers flying. Sensual pose with arched back, bedroom eyes. Expression: showgirl glamour. Las Vegas stage. Professional photography.
 ```
 
-### Prompt 19: Ana�s - Pole Sins Showgirl Sleigh
+### Prompt 19: Anaïs - Pole Sins Showgirl Sleigh
 
 ```
 Professional cabaret photography of woman with honey blonde hair in vintage curls. Aristocratic face with stage makeup. Hourglass figure. Wearing gold sequin bikini, gold waist cincher (not full corset). POLE SINS SHOWGIRL SLEIGH HEELS gold glitter. Burlesque fan dance pose. Sensual pose with arched back, bedroom eyes. Expression: old Hollywood seduction. Gold curtain stage. Professional photography.
@@ -431,18 +431,18 @@ Professional statement photography of woman with platinum blonde bob. Realistic 
 Professional rock photography of adult goth woman woman 23+ years old inspired by Sacha Massacre. Voluminous black hair rockstar style. Pale skin, black glitter lips. Hourglass figure. Wearing black leather bikini, black harness, black corset. POLE SINS UNTAMED ROCK SHOW black matte, platform. Rock pose with guitar prop. Sensual pose with arched back, bedroom eyes. Expression: rock goddess. Concert stage. Professional photography.
 ```
 
-### D�j� Vu Collection
+### Déjà Vu Collection
 
-### Prompt 16: MD - Pole Sins D�j� Vu Clear
-
-```
-Professional modern photography of woman with platinum blonde bob. Realistic human face. Hourglass figure. Wearing white latex bikini, minimal styling. POLE SINS D�J� VU HEELS clear strap, nude platform, modern minimal design. Clean pose, architectural background. Sensual pose with arched back, bedroom eyes. Expression: modern chic. White minimalist studio. Professional photography.
-```
-
-### Prompt 15: Ana�s - Pole Sins D�j� Vu Nude
+### Prompt 16: MD - Pole Sins Déjà Vu Clear
 
 ```
-Professional artistic photography of woman with honey blonde hair. Aristocratic face, natural makeup. Hourglass figure. Wearing nude latex bodysuit, sheer. POLE SINS D�J� VU HEELS nude platform, clear strap. Artistic pose, shadow play. Sensual pose with arched back, bedroom eyes. Expression: sophisticated sensuality. Cream art gallery. Professional photography.
+Professional modern photography of woman with platinum blonde bob. Realistic human face. Hourglass figure. Wearing white latex bikini, minimal styling. POLE SINS DÉJÀ VU HEELS clear strap, nude platform, modern minimal design. Clean pose, architectural background. Sensual pose with arched back, bedroom eyes. Expression: modern chic. White minimalist studio. Professional photography.
+```
+
+### Prompt 15: Anaïs - Pole Sins Déjà Vu Nude
+
+```
+Professional artistic photography of woman with honey blonde hair. Aristocratic face, natural makeup. Hourglass figure. Wearing nude latex bodysuit, sheer. POLE SINS DÉJÀ VU HEELS nude platform, clear strap. Artistic pose, shadow play. Sensual pose with arched back, bedroom eyes. Expression: sophisticated sensuality. Cream art gallery. Professional photography.
 ```
 
 ### Daisy Duke Collection
@@ -485,7 +485,7 @@ Professional corset photography of woman with platinum blonde bob. Realistic hum
 Professional gothic corset photography of adult goth woman woman 23+ years old inspired by Sacha Massacre. Voluminous black hair. Pale skin, black lips. Hourglass figure. Wearing CORSETS UK BLACK LEATHER OVERBUST extreme boning, 6-inch reduction. Black latex pencil skirt. PLEASER RAPTURE-1020 black patent 8-inch boots. Front view, hands on waist. Sensual pose with arched back, bedroom eyes. Expression: constricted pleasure. Dark boudoir. Professional photography.
 ```
 
-### Prompt 9: Ana�s - What Katie Did Leopard
+### Prompt 9: Anaïs - What Katie Did Leopard
 
 ```
 Professional retro photography of woman with honey blonde hair in vintage waves. Aristocratic face with pin-up makeup. Hourglass figure. Wearing WHAT KATIE DID LEOPARD PRINT UNDERBUST CORSET satin. Leopard print high-waisted panties, matching bra. PLEASER CLASSIQUE-20 nude 4-inch heel. Pin-up pose. Sensual pose with arched back, bedroom eyes. Expression: vintage vixen. 1950s set. Professional photography.
@@ -515,20 +515,20 @@ Professional fetish photography of TWO adult women. MISS DOLL: platinum bob, dol
 Professional photography of TWO adult women as maids. MISS DOLL: platinum bob, HONOUR PVC MAID DRESS pink, pink corset, PLEASER FLAMINGO-808 pink 8-inch, holding pink duster. HELENA: voluminous black hair under cap, pale skin, HONOUR PVC MAID DRESS black, black corset, PLEASER MOON-708 black 7-inch, kneeling with brush. Facing each other curtsy. Miss Doll: eager. Helena: devoted. Mansion hallway. Professional photography.
 ```
 
-### Miss Doll + Ana�s
+### Miss Doll + Anaïs
 
 ### Prompt 5: Duo - Pole Sisters
 
 ```
-Professional pole photography of TWO adult women. MISS DOLL: platinum bob, hourglass figure, CLEO THE HURRICANE pink hot pants and top, PLEASER FLAMINGO-808 clear platform 8-inch, mid-climb. ANA�S: honey blonde ponytail, hourglass figure, CLEO THE HURRICANE rose gold hot pants and top, PLEASER ADORE-1020 rose gold 7-inch, floor pose watching. Sensual pose with arched back, bedroom eyes. Expression: student and teacher. Pink and gold stage. Professional photography.
+Professional pole photography of TWO adult women. MISS DOLL: platinum bob, hourglass figure, CLEO THE HURRICANE pink hot pants and top, PLEASER FLAMINGO-808 clear platform 8-inch, mid-climb. ANAÏS: honey blonde ponytail, hourglass figure, CLEO THE HURRICANE rose gold hot pants and top, PLEASER ADORE-1020 rose gold 7-inch, floor pose watching. Sensual pose with arched back, bedroom eyes. Expression: student and teacher. Pink and gold stage. Professional photography.
 ```
 
-### Helena + Ana�s
+### Helena + Anaïs
 
 ### Prompt 4: Duo - Dark and Light
 
 ```
-Professional artistic photography of TWO adult women. HELENA: voluminous black hair, pale skin, black lips, hourglass figure, LIBIDEX BLACK LATEX EVENING GOWN, black corset, PLEASER RAPTURE-1020 black 8-inch boots. ANA�S: honey blonde waves, aristocratic face, hourglass figure, LIBIDEX CHAMPAGNE LATEX EVENING GOWN, nude corset, PLEASER CLASSIQUE-20 nude 4-inch. Standing face to face, slight tension. Sensual pose with arched back, bedroom eyes. Expression: dark and light contrast. Gallery opening. Professional photography.
+Professional artistic photography of TWO adult women. HELENA: voluminous black hair, pale skin, black lips, hourglass figure, LIBIDEX BLACK LATEX EVENING GOWN, black corset, PLEASER RAPTURE-1020 black 8-inch boots. ANAÏS: honey blonde waves, aristocratic face, hourglass figure, LIBIDEX CHAMPAGNE LATEX EVENING GOWN, nude corset, PLEASER CLASSIQUE-20 nude 4-inch. Standing face to face, slight tension. Sensual pose with arched back, bedroom eyes. Expression: dark and light contrast. Gallery opening. Professional photography.
 ```
 
 ### Trio - All Three
@@ -536,19 +536,19 @@ Professional artistic photography of TWO adult women. HELENA: voluminous black h
 ### Prompt 3: Trio - The Hierarchy
 
 ```
-Professional power photography of THREE adult women. ANA�S (center, elevated): honey blonde waves, LIBIDEX BURGUNDY LATEX GOWN, PLEASER AMUSE-20 burgundy 5-inch, throne seated, commanding expression. HELENA (left, standing): voluminous black hair, LIBIDEX BLACK CATSUIT, black corset, PLEASER RAPTURE-1020 black 8-inch, devoted stance. MISS DOLL (right, kneeling): platinum bob, LIBIDEX PINK CATSUIT, pink corset, PLEASER FLAMINGO-808 pink 8-inch, eager submission. Dark throne room with candles. Professional photography.
+Professional power photography of THREE adult women. ANAÏS (center, elevated): honey blonde waves, LIBIDEX BURGUNDY LATEX GOWN, PLEASER AMUSE-20 burgundy 5-inch, throne seated, commanding expression. HELENA (left, standing): voluminous black hair, LIBIDEX BLACK CATSUIT, black corset, PLEASER RAPTURE-1020 black 8-inch, devoted stance. MISS DOLL (right, kneeling): platinum bob, LIBIDEX PINK CATSUIT, pink corset, PLEASER FLAMINGO-808 pink 8-inch, eager submission. Dark throne room with candles. Professional photography.
 ```
 
 ### Prompt 2: Trio - Pole Show
 
 ```
-Professional pole performance photography of THREE adult women on stage. MISS DOLL: platinum bob, CLEO THE HURRICANE hot pink liquid set, PLEASER pink 8-inch, climbing pole. HELENA: voluminous black hair, CLEO THE HURRICANE black mesh set, POLE SINS THE SINNER chrome/black 8-inch, inverted on pole. ANA�S: honey blonde ponytail, CLEO THE HURRICANE rose gold set, PLEASER rose gold 7-inch, floor work center stage. Three poles, three performers. Grand finale energy. Stage lights. Professional photography.
+Professional pole performance photography of THREE adult women on stage. MISS DOLL: platinum bob, CLEO THE HURRICANE hot pink liquid set, PLEASER pink 8-inch, climbing pole. HELENA: voluminous black hair, CLEO THE HURRICANE black mesh set, POLE SINS THE SINNER chrome/black 8-inch, inverted on pole. ANAÏS: honey blonde ponytail, CLEO THE HURRICANE rose gold set, PLEASER rose gold 7-inch, floor work center stage. Three poles, three performers. Grand finale energy. Stage lights. Professional photography.
 ```
 
 ### Prompt 1: Trio - Office Power
 
 ```
-Professional corporate photography of THREE adult women. ANA�S (CEO): honey blonde bun, KINK PROJECTS BURGUNDY LATEX SECRETARY SET, PLEASER AMUSE-20 burgundy 5-inch, seated at desk, commanding. HELENA (HR): voluminous black hair in bun, LIBIDEX BLACK LATEX PENCIL SKIRT SET, black corset, PLEASER MOON-708 black 7-inch, standing with file, predator. MISS DOLL (receptionist): platinum bob, LIBIDEX PINK LATEX SECRETARY SET, pink corset, PLEASER FLAMINGO-808 pink 8-inch, holding phone confused. Corner office. Professional photography.
+Professional corporate photography of THREE adult women. ANAÏS (CEO): honey blonde bun, KINK PROJECTS BURGUNDY LATEX SECRETARY SET, PLEASER AMUSE-20 burgundy 5-inch, seated at desk, commanding. HELENA (HR): voluminous black hair in bun, LIBIDEX BLACK LATEX PENCIL SKIRT SET, black corset, PLEASER MOON-708 black 7-inch, standing with file, predator. MISS DOLL (receptionist): platinum bob, LIBIDEX PINK LATEX SECRETARY SET, pink corset, PLEASER FLAMINGO-808 pink 8-inch, holding phone confused. Corner office. Professional photography.
 ```
 
 ---
@@ -580,7 +580,7 @@ Sensual pose with arched back, bedroom eyes. Expression: hard shine dominance, p
 
 ---
 
-*Creado por: Helena de Ana�s - V4.1 Fetish Edition Revisado ????*
+*Creado por: Helena de Anaïs - V4.1 Fetish Edition Revisado ????*
 *Marcas: Libidex, Vex Clothing, Honour/Skin Two, Kink Projects, Cleo the Hurricane, Pole Sins, Vollers, What Katie Did, Dark Garden, Corsets UK*
 *PLEASER Heels throughout*
 

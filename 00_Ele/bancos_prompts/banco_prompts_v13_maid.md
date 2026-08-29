@@ -1,15 +1,15 @@
-﻿# ?? BANCO DE PROMPTS V13: MAID SERVICE EDITION
+# ?? BANCO DE PROMPTS V13: MAID SERVICE EDITION
 
-> **ENFOQUE:** Sirvientas, uniformes de criada, limpieza, servicio dom�stico, sumisi�n del hogar.
+> **ENFOQUE:** Sirvientas, uniformes de criada, limpieza, servicio domástico, sumisión del hogar.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 50+ prompts | **Actualizado:** 2025-12-29
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -321,16 +321,16 @@ Professional duo maid photography. HELENA: Sacha Massacre black hair, pale skin,
 Professional hierarchy photography. HELENA: black hair, pale skin, black maid dress fancier (head maid), black corset, seated having tea. MISS DOLL: blonde bob, pink maid dress simpler, pink corset, PLEASER pink 8-inch heel, serving Helena tea, curtsy. Sensual pose with arched back, bedroom eyes. Expression: maid serving maid. Servants' quarters. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 58: 43. Both Maids Serving Ana�s
+### Prompt 58: 43. Both Maids Serving Anaïs
 
 ```
-Professional service photography. ANA�S: honey blonde waves, bronze skin, red lips, silk robe on chaise, PLEASER gold 5-inch sandal. HELENA: black maid dress, black corset, kneeling left massaging feet. MISS DOLL: pink maid dress, pink corset, kneeling right offering grapes. Sensual pose with arched back, bedroom eyes. Expression: pampered mistress. Luxury boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional service photography. ANAÏS: honey blonde waves, bronze skin, red lips, silk robe on chaise, PLEASER gold 5-inch sandal. HELENA: black maid dress, black corset, kneeling left massaging feet. MISS DOLL: pink maid dress, pink corset, kneeling right offering grapes. Sensual pose with arched back, bedroom eyes. Expression: pampered mistress. Luxury boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 57: 44. Maid Inspection Line
 
 ```
-Professional inspection photography. ANA�S: honey blonde in power suit, inspecting. HELENA: black maid uniform perfect, at attention, black corset, PLEASER black 7-inch. MISS DOLL: pink maid uniform, pink corset, PLEASER pink 8-inch, nervous at attention. Sensual pose with arched back, bedroom eyes. Expression: passing review. Grand hall lineup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional inspection photography. ANAÏS: honey blonde in power suit, inspecting. HELENA: black maid uniform perfect, at attention, black corset, PLEASER black 7-inch. MISS DOLL: pink maid uniform, pink corset, PLEASER pink 8-inch, nervous at attention. Sensual pose with arched back, bedroom eyes. Expression: passing review. Grand hall lineup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 56: 45. Maids Cleaning Together
@@ -348,13 +348,13 @@ Professional punishment photography. HELENA: black maid dress askew, black corse
 ### Prompt 54: 47. Morning Wake-Up Service
 
 ```
-Professional wake-up photography. HELENA: black maid dress, black corset, opening curtains letting in morning light. MISS DOLL: pink maid dress, pink corset, carrying breakfast tray to bed where Ana�s is waking. ANA�S: honey blonde messy, sleepy smile. Sensual pose with arched back, bedroom eyes. Expression: perfect morning service. Master bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wake-up photography. HELENA: black maid dress, black corset, opening curtains letting in morning light. MISS DOLL: pink maid dress, pink corset, carrying breakfast tray to bed where Anaïs is waking. ANAÏS: honey blonde messy, sleepy smile. Sensual pose with arched back, bedroom eyes. Expression: perfect morning service. Master bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 53: 48. Tea Service Formal
 
 ```
-Professional tea photography. ANA�S: seated elegantly at tea table, burgundy dress, PLEASER heels. HELENA: standing behind chair, black maid attire, pouring tea. MISS DOLL: offering pastry tray, pink maid attire, curtsy. Sensual pose with arched back, bedroom eyes. Expression: formal afternoon tea. Victorian parlor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tea photography. ANAÏS: seated elegantly at tea table, burgundy dress, PLEASER heels. HELENA: standing behind chair, black maid attire, pouring tea. MISS DOLL: offering pastry tray, pink maid attire, curtsy. Sensual pose with arched back, bedroom eyes. Expression: formal afternoon tea. Victorian parlor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 52: 49. Night Shift Maids
@@ -683,13 +683,13 @@ Professional duo maid photography. HELENA: wild black hair, BLOOD ORANGE satin m
 ### Prompt 1: 100. All Three - Rainbow Maid Service
 
 ```
-Professional trio maid photography. ANA�S: honey blonde, GOLD silk robe, being served on chaise. HELENA: black hair, PURPLE velvet maid dress, serving wine left. MISS DOLL: platinum bob, PINK satin maid dress, serving fruit right. All different colors. Sensual pose with arched back, bedroom eyes. Expression: rainbow service. Colorful mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional trio maid photography. ANAÏS: honey blonde, GOLD silk robe, being served on chaise. HELENA: black hair, PURPLE velvet maid dress, serving wine left. MISS DOLL: platinum bob, PINK satin maid dress, serving fruit right. All different colors. Sensual pose with arched back, bedroom eyes. Expression: rainbow service. Colorful mansion. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V13.2 Maid Service Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V13.2 Maid Service Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2025-12-31*

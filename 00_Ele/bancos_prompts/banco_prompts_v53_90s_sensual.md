@@ -1,4 +1,4 @@
-﻿# 🎨 Banco de Prompts V53: 90s SENSUAL EROTICA
+# 🎨 Banco de Prompts V53: 90s SENSUAL EROTICA
 
 > **USO:** Copiar el texto del prompt directamente. CADA PROMPT ES AUTO-CONTENIDO.
 > **Total:** 100 Prompts | **Actualizado:** 2026-01-13

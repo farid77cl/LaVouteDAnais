@@ -1,24 +1,24 @@
-﻿# ?? BANCO DE PROMPTS V9: LIBIDEX & HONOUR EDITION
+# ?? BANCO DE PROMPTS V9: LIBIDEX & HONOUR EDITION
 
-> **ENFOQUE:** Exclusivamente ropa de **LIBIDEX** (l�tex artesanal de Londres) y **HONOUR/SKIN TWO** (PVC brit�nico).
+> **ENFOQUE:** Exclusivamente ropa de **LIBIDEX** (látex artesanal de Londres) y **HONOUR/SKIN TWO** (PVC britúnico).
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 150 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## ?? C�MO USAR ESTE BANCO
+## ?? CÓMO USAR ESTE BANCO
 
 > [!TIP]
-> **Cada prompt incluye la descripci�n COMPLETA del personaje.**
-> Solo copia el bloque de c�digo y p�galo directamente en el generador.
-> No necesitas agregar nada m�s.
+> **Cada prompt incluye la descripción COMPLETA del personaje.**
+> Solo copia el bloque de código y pégalo directamente en el generador.
+> No necesitas agregar nada más.
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -32,7 +32,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -42,7 +42,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -68,7 +68,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � LIBIDEX LATEX (15 PROMPTS)
+## ?? I. HELENA — LIBIDEX LATEX (15 PROMPTS)
 
 ### Catsuits
 
@@ -172,7 +172,7 @@ Professional extreme fetish photography of young elegant goth glamour woman woma
 
 ---
 
-## ?? II. MISS DOLL � LIBIDEX LATEX (15 PROMPTS)
+## ?? II. MISS DOLL — LIBIDEX LATEX (15 PROMPTS)
 
 ### Catsuits
 
@@ -274,7 +274,7 @@ Professional vanity photography of woman with platinum blonde bob haircut WITHOU
 
 ---
 
-## ?? III. MISS DOLL � HONOUR PVC (10 PROMPTS)
+## ?? III. MISS DOLL — HONOUR PVC (10 PROMPTS)
 
 ### Maid Collection
 
@@ -346,7 +346,7 @@ Professional corset photography of woman with platinum blonde bob haircut WITHOU
 
 ---
 
-## ?? IV. HELENA � HONOUR PVC (10 PROMPTS)
+## ?? IV. HELENA — HONOUR PVC (10 PROMPTS)
 
 ### Maid Collection
 
@@ -1061,8 +1061,8 @@ Professional glamour photography of woman 27+ years old glamorous with platinum 
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V9.3 Libidex & Honour Exclusive � 150 prompts*
+*Creado por: Helena de Anaïs ??*
+*V9.3 Libidex & Honour Exclusive — 150 prompts*
 *Cada prompt es 100% auto-contenido para copiar y pegar*
 *?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2026-01-04*

@@ -1,15 +1,15 @@
-﻿# ?? BANCO DE PROMPTS V16: DARK GARDEN CORSETS EDITION
+# ?? BANCO DE PROMPTS V16: DARK GARDEN CORSETS EDITION
 
-> **ENFOQUE:** Corseter�a de lujo DARK GARDEN, tightlacing, waist training, cintura extrema.
+> **ENFOQUE:** Corsetería de lujo DARK GARDEN, tightlacing, waist training, cintura extrema.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 50+ prompts | **Actualizado:** 2025-12-29
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -59,7 +59,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � DARK GARDEN OVERBUST (15 PROMPTS)
+## ?? I. HELENA — DARK GARDEN OVERBUST (15 PROMPTS)
 
 ### Prompt 76: 1. Helena - DG Victorian Black Overbust
 
@@ -105,7 +105,7 @@ Professional back detail photography of young elegant goth glamour woman woman 2
 
 ---
 
-## ?? II. HELENA � DARK GARDEN UNDERBUST (10 PROMPTS)
+## ?? II. HELENA — DARK GARDEN UNDERBUST (10 PROMPTS)
 
 ### Prompt 69: 8. Helena - DG Classic Underbust Black
 
@@ -139,7 +139,7 @@ Professional waist training photography of young elegant goth glamour woman woma
 
 ---
 
-## ?? III. MISS DOLL � PINK/PASTEL CORSETS (15 PROMPTS)
+## ?? III. MISS DOLL — PINK/PASTEL CORSETS (15 PROMPTS)
 
 ### Prompt 64: 13. Miss Doll - DG Pink Satin Overbust
 
@@ -191,33 +191,33 @@ Professional longline photography of woman with platinum blonde bob haircut WITH
 
 ---
 
-## ?? IV. ANA�S � ELEGANT CORSETS (10 PROMPTS)
+## ?? IV. ANAÏS — ELEGANT CORSETS (10 PROMPTS)
 
-### Prompt 56: 21. Ana�s - DG Burgundy Overbust
+### Prompt 56: 21. Anaïs - DG Burgundy Overbust
 
 ```
 Professional elegant corset photography of aristocratic woman with honey blonde hair in Betty Page vintage waves. Bronze skin with warm glow. Red glossy lips. Feminine hourglass silhouette with refined waist. DARK GARDEN OVERBUST CORSET deep burgundy silk, gold hardware, sophisticated 4-inch reduction. Burgundy silk pencil skirt. PLEASER CLASSIQUE-20 burgundy 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: wine country elegance. French chateau. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 55: 22. Ana�s - DG Black Satin Classic
+### Prompt 55: 22. Anaïs - DG Black Satin Classic
 
 ```
 Professional classic corset photography of aristocratic woman with honey blonde hair in chignon. Bronze skin. Red glossy lips. Feminine hourglass silhouette. DARK GARDEN OVERBUST CORSET classic black satin, gold grommets, refined elegance. Black silk trousers. PLEASER AMUSE-20 black 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: timeless power. Executive boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 54: 23. Ana�s - DG Champagne Silk
+### Prompt 54: 23. Anaïs - DG Champagne Silk
 
 ```
 Professional champagne corset photography of aristocratic woman with honey blonde hair in soft waves. Bronze skin glowing. Gold glossy lips. Feminine hourglass silhouette. DARK GARDEN OVERBUST CORSET champagne silk, gold ribbon lacing, bridal elegance. Gold flowing pants. PLEASER CLASSIQUE-20 gold 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: golden goddess. Golden hour ballroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 53: 24. Ana�s - DG Navy Power
+### Prompt 53: 24. Anaïs - DG Navy Power
 
 ```
 Professional power corset photography of aristocratic woman with honey blonde hair in professional style. Bronze skin. Red glossy lips. Feminine hourglass silhouette. DARK GARDEN UNDERBUST CORSET navy blue satin, under navy blazer visible at waist. Navy pencil skirt. PLEASER CLASSIQUE-20 navy 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: boardroom queen. Corner office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 52: 25. Ana�s - DG Ivory Vintage
+### Prompt 52: 25. Anaïs - DG Ivory Vintage
 
 ```
 Professional vintage corset photography of aristocratic woman with honey blonde hair in Betty Page finger waves. Bronze skin. Red glossy lips. Feminine hourglass silhouette. DARK GARDEN OVERBUST CORSET vintage ivory satin, cream ribbon, 1940s inspired. Ivory flowing skirt. PLEASER CLASSIQUE-20 ivory 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: old Hollywood. Vintage film set. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -227,10 +227,10 @@ Professional vintage corset photography of aristocratic woman with honey blonde 
 
 ## ?? V. LACING & PROCESS SHOTS (10 PROMPTS)
 
-### Prompt 51: 26. Helena - Being Laced by Ana�s
+### Prompt 51: 26. Helena - Being Laced by Anaïs
 
 ```
-Professional lacing photography. ANA�S: honey blonde, bronze skin, standing behind, hands pulling corset laces. HELENA: Sacha Massacre black hair, pale skin, DARK GARDEN BLACK OVERBUST being tightened, hands on wall bracing, back to camera showing corset. PLEASER heels on both. Sensual pose with arched back, bedroom eyes. Expression: the tightening ritual. Gothic dressing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lacing photography. ANAÏS: honey blonde, bronze skin, standing behind, hands pulling corset laces. HELENA: Sacha Massacre black hair, pale skin, DARK GARDEN BLACK OVERBUST being tightened, hands on wall bracing, back to camera showing corset. PLEASER heels on both. Sensual pose with arched back, bedroom eyes. Expression: the tightening ritual. Gothic dressing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 50: 27. Miss Doll - Being Laced by Helena
@@ -260,7 +260,7 @@ Professional reduction photography of young elegant goth glamour woman woman 23+
 ### Prompt 46: 31. All Three - Progression Line
 
 ```
-Professional progression photography. Three women in line, side profile: ANA�S in loose corset (beginning), HELENA in moderate cinch (intermediate), MISS DOLL in extreme reduction (advanced). All DARK GARDEN corsets. Progression demonstrated. Sensual pose with arched back, bedroom eyes. Expression: the journey. Training studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional progression photography. Three women in line, side profile: ANAÏS in loose corset (beginning), HELENA in moderate cinch (intermediate), MISS DOLL in extreme reduction (advanced). All DARK GARDEN corsets. Progression demonstrated. Sensual pose with arched back, bedroom eyes. Expression: the journey. Training studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 45: 32. Helena - 23-Hour Wear
@@ -297,16 +297,16 @@ Professional hidden corset photography of woman with platinum blonde bob. Flawle
 Professional duo corset photography. HELENA: Sacha Massacre black hair, pale skin, DARK GARDEN BLACK OVERBUST, black latex pants, PLEASER black 8-inch boots. MISS DOLL: blonde bob, porcelain skin, DARK GARDEN HOT PINK OVERBUST, pink latex pants, PLEASER pink 8-inch platform. Facing each other, hands on each other's cinched waists. Sensual pose with arched back, bedroom eyes. Expression: comparing reductions. Split studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 40: 37. Ana�s Inspecting Helena's Corset
+### Prompt 40: 37. Anaïs Inspecting Helena's Corset
 
 ```
-Professional inspection photography. ANA�S: honey blonde, bronze skin, burgundy power dress, PLEASER burgundy 5-inch, examining lacing on HELENA. HELENA: black hair, pale skin, DARK GARDEN BLACK OVERBUST, back turned, lacing being checked. Sensual pose with arched back, bedroom eyes. Expression: mistress approving work. Gothic manor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional inspection photography. ANAÏS: honey blonde, bronze skin, burgundy power dress, PLEASER burgundy 5-inch, examining lacing on HELENA. HELENA: black hair, pale skin, DARK GARDEN BLACK OVERBUST, back turned, lacing being checked. Sensual pose with arched back, bedroom eyes. Expression: mistress approving work. Gothic manor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 39: 38. All Three - Corset Display Line
 
 ```
-Professional runway photography. ANA�S center: DARK GARDEN BURGUNDY OVERBUST elegant. HELENA left: DARK GARDEN BLACK LEATHER OVERBUST dramatic. MISS DOLL right: DARK GARDEN PINK SATIN OVERBUST sweet. All in complementary PLEASER heels. Walking line formation. Sensual pose with arched back, bedroom eyes. Expression: corset collection. Fashion show. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional runway photography. ANAÏS center: DARK GARDEN BURGUNDY OVERBUST elegant. HELENA left: DARK GARDEN BLACK LEATHER OVERBUST dramatic. MISS DOLL right: DARK GARDEN PINK SATIN OVERBUST sweet. All in complementary PLEASER heels. Walking line formation. Sensual pose with arched back, bedroom eyes. Expression: corset collection. Fashion show. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 38: 39. Helena Teaching Miss Doll Lacing
@@ -318,13 +318,13 @@ Professional teaching photography. HELENA: black hair, black corset, showing MIS
 ### Prompt 37: 40. All Three - Morning Ritual
 
 ```
-Professional morning ritual photography. ANA�S: being laced into champagne corset by standing maid (implied). HELENA: already laced, adjusting own black corset. MISS DOLL: just starting, pink corset loose, coffee in hand. Sensual pose with arched back, bedroom eyes. Expression: starting the day. Shared dressing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional morning ritual photography. ANAÏS: being laced into champagne corset by standing maid (implied). HELENA: already laced, adjusting own black corset. MISS DOLL: just starting, pink corset loose, coffee in hand. Sensual pose with arched back, bedroom eyes. Expression: starting the day. Shared dressing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 36: 41. Helena and Ana�s - Matching Overbust
+### Prompt 36: 41. Helena and Anaïs - Matching Overbust
 
 ```
-Professional matching photography. HELENA: black hair, DARK GARDEN BLACK OVERBUST identical style. ANA�S: honey blonde, DARK GARDEN BURGUNDY OVERBUST identical style different color. Same pose, mirror positions. Sensual pose with arched back, bedroom eyes. Expression: sisters in structure. Gothic and elegant combined space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional matching photography. HELENA: black hair, DARK GARDEN BLACK OVERBUST identical style. ANAÏS: honey blonde, DARK GARDEN BURGUNDY OVERBUST identical style different color. Same pose, mirror positions. Sensual pose with arched back, bedroom eyes. Expression: sisters in structure. Gothic and elegant combined space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 35: 42. Miss Doll - Corset Competition
@@ -342,7 +342,7 @@ Professional lifestyle photography of young elegant goth glamour woman woman 23+
 ### Prompt 33: 44. All Three - Achievement Celebration
 
 ```
-Professional celebration photography. ANA�S, HELENA, MISS DOLL all in their respective DARK GARDEN CORSETS, champagne toasting. All achieved goal reductions. Measuring tapes nearby showing successes. Sensual pose with arched back, bedroom eyes. Expression: goals met. Celebration room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional celebration photography. ANAÏS, HELENA, MISS DOLL all in their respective DARK GARDEN CORSETS, champagne toasting. All achieved goal reductions. Measuring tapes nearby showing successes. Sensual pose with arched back, bedroom eyes. Expression: goals met. Celebration room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 32: 45. Helena - Corset and Whip
@@ -357,7 +357,7 @@ Professional dominatrix photography of young elegant goth glamour woman woman 23
 Professional submission photography of woman with platinum blonde bob. Flawless porcelain skin. DARK GARDEN PINK OVERBUST. Pink latex pants. Pink collar with heart tag. Kneeling, PLEASER pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: corseted devotion. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 30: 47. Ana�s - Corset and Wine
+### Prompt 30: 47. Anaïs - Corset and Wine
 
 ```
 Professional relaxation photography of aristocratic woman with honey blonde hair. Bronze skin. DARK GARDEN BURGUNDY OVERBUST. Burgundy silk robe open. Wine glass. PLEASER burgundy 5-inch heel. Lounging elegantly. Sensual pose with arched back, bedroom eyes. Expression: corseted comfort. Wine cellar. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -378,21 +378,21 @@ Professional morning photography of woman with platinum blonde bob. Flawless por
 ### Prompt 27: 50. Trio - Ultimate Corset Display
 
 ```
-Professional ultimate photography. ANA�S: DARK GARDEN GOLD OVERBUST, gold throne center. HELENA: DARK GARDEN BLACK OVERBUST, standing left devoted. MISS DOLL: DARK GARDEN PINK OVERBUST, kneeling right adoring. All extreme reductions. All PLEASER heels appropriate. Sensual pose with arched back, bedroom eyes. Expression: hierarchy of curves. Gothic throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ultimate photography. ANAÏS: DARK GARDEN GOLD OVERBUST, gold throne center. HELENA: DARK GARDEN BLACK OVERBUST, standing left devoted. MISS DOLL: DARK GARDEN PINK OVERBUST, kneeling right adoring. All extreme reductions. All PLEASER heels appropriate. Sensual pose with arched back, bedroom eyes. Expression: hierarchy of curves. Gothic throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V16 Dark Garden Corsets Edition � 50 prompts*
+*Creado por: Helena de Anaïs ??*
+*V16 Dark Garden Corsets Edition — 50 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2025-12-29*
 
 ---
 
-## ?? EXTENSI�N: CORSET SENSUAL SCENARIOS (Prompts 51-100)
+## ?? EXTENSIÓN: CORSET SENSUAL SCENARIOS (Prompts 51-100)
 
-### ?? HELENA � TIGHTLACING RITUALS (Prompts 51-70)
+### ?? HELENA — TIGHTLACING RITUALS (Prompts 51-70)
 
 ### Prompt 26: 51. Helena - Morning Lacing Ritual
 
@@ -484,7 +484,7 @@ Professional corset photography Helena EATING while corseted. Jet black hair. Pa
 Professional corset photography Helena EXERCISING lightly in corset. Jet black hair in ponytail. Pale skin in DARK GARDEN TRAINING CORSET. Light stretching/yoga while corseted. Expression: corseted flexibility. Gothic gym. Photorealistic 8k. Vertical.
 ```
 
-### ?? MISS DOLL � PINK CORSET FANTASIES (Prompts 66-85)
+### ?? MISS DOLL — PINK CORSET FANTASIES (Prompts 66-85)
 
 ### Prompt 11: 66. Miss Doll - First Corset Ever
 
@@ -518,7 +518,7 @@ Professional corset photography Miss Doll OBSESSIVELY measuring. Platinum blonde
 
 ### Prompt: 71-85. [Additional Miss Doll Pink Corset scenarios]
 
-### ?? DUO � CORSET DYNAMICS (Prompts 86-100)
+### ?? DUO — CORSET DYNAMICS (Prompts 86-100)
 
 ### Prompt 6: 86. Helena Lacing Miss Doll Tight
 
@@ -560,8 +560,8 @@ Professional corset photography ultimate HIERARCHY scene. HELENA: DARK GARDEN BL
 
 ---
 
-*Helena de Ana�s* ??
-*La Vo�te d'Ana�s � Dark Garden Corsets Edition (100 Prompts COMPLETE)*
+*Helena de Anaïs* ??
+*La Voûte d'Anaïs — Dark Garden Corsets Edition (100 Prompts COMPLETE)*
 
 
 

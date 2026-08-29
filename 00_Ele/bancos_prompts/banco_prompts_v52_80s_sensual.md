@@ -1,4 +1,4 @@
-﻿# 🎨 Banco de Prompts V52: 80s SENSUAL FASHION
+# 🎨 Banco de Prompts V52: 80s SENSUAL FASHION
 
 > **USO:** Copiar el texto del prompt directamente. CADA PROMPT ES AUTO-CONTENIDO.
 > **Total:** 100 Prompts | **Actualizado:** 2026-01-13

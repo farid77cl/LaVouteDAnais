@@ -1,4 +1,4 @@
-﻿# 💉 Banco de Prompts V25: MEDICAL & NURSE EDITION
+# 💉 Banco de Prompts V25: MEDICAL & NURSE EDITION
 
 > **ENFOQUE:** Enfermeras sexy, doctoras, consultorios, guantes de látex, estetoscopios.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

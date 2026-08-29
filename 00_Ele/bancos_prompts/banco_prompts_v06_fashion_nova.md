@@ -1,4 +1,4 @@
-﻿# 👗 BANCO DE PROMPTS V6: FASHION NOVA & OH POLLY EDITION 🛍️
+# 👗 BANCO DE PROMPTS V6: FASHION NOVA & OH POLLY EDITION 🛍️
 
 > [!IMPORTANT]
 > **OBJETIVO:** Capturar la estética "Glamour/Insta-Model de Alto Mantenimiento" usando estilos específicos de **Fashion Nova** y **Oh Polly**.

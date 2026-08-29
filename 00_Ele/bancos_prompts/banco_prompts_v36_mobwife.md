@@ -1,4 +1,4 @@
-﻿# 💍 Banco de Prompts V36: MOB WIFE EDITION
+# 💍 Banco de Prompts V36: MOB WIFE EDITION
 
 > **ENFOQUE:** Estética "Mob Wife", Old Money Italian, Mafia Glam, fur coats, gold chains, leopard print, Jersey vibes, Sopranos chic.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

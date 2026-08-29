@@ -1,4 +1,4 @@
-﻿# 🩸 Banco de Prompts V41: VAMPIRE GOTH EDITION
+# 🩸 Banco de Prompts V41: VAMPIRE GOTH EDITION
 
 > **ENFOQUE:** Helena y Miss Doll con estética vampírica gótica en diferentes escenarios y situaciones.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

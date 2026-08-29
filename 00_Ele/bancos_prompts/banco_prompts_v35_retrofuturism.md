@@ -1,16 +1,16 @@
-﻿# ?? Banco de Prompts V35: RETRO FUTURISM EDITION
+# ?? Banco de Prompts V35: RETRO FUTURISM EDITION
 
-> **ENFOQUE:** Est�tica Jetsons, Space Age 60s, Barbarella, retro-futurismo sensual, ciencia ficci�n vintage.
+> **ENFOQUE:** Estética Jetsons, Space Age 60s, Barbarella, retro-futurismo sensual, ciencia ficción vintage.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **?? COLOR FREEDOM:** Helena (Silver, Holographic Black, Electric Purple). Miss Doll (Pink Chrome, Silver, Iridescent).
 > **Total:** 50 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. MISS DOLL � PINK SPACE AGE (20 PROMPTS)
+## ?? I. MISS DOLL — PINK SPACE AGE (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Jetsons Space Wife
 
@@ -184,7 +184,7 @@ Professional retro futurism photography of woman 27+ years old glamorous with pl
 
 ---
 
-## ?? II. HELENA � DARK SPACE AGE (15 PROMPTS)
+## ?? II. HELENA — DARK SPACE AGE (15 PROMPTS)
 
 ### Prompt 80: 21. Helena - Space Gothic Queen
 
@@ -278,7 +278,7 @@ Professional retro futurism photography of young elegant goth glamour woman woma
 
 ---
 
-## ?? III. DUO � RETRO FUTURE PAIRS (15 PROMPTS)
+## ?? III. DUO — RETRO FUTURE PAIRS (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Jetsons Wives
 
@@ -372,7 +372,7 @@ Professional retro futurism duo photography. HELENA: Sacha Massacre look celebra
 
 ---
 
-## ?? IV. MISS DOLL � PINK RETRO FUTURE SENSUAL (15 PROMPTS)
+## ?? IV. MISS DOLL — PINK RETRO FUTURE SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Miss Doll - Space Bedroom
 
@@ -466,7 +466,7 @@ Professional retro futurism photography of woman 27+ years old glamorous with pl
 
 ---
 
-## ?? V. HELENA � DARK RETRO FUTURE SENSUAL (10 PROMPTS)
+## ?? V. HELENA — DARK RETRO FUTURE SENSUAL (10 PROMPTS)
 
 ### Prompt 35: 66. Helena - Dark Space Queen
 
@@ -530,7 +530,7 @@ Professional retro futurism photography of Helena Sacha Massacre look. BLACK seq
 
 ---
 
-## ?? VI. DUO � RETRO FUTURE SENSUAL (25 PROMPTS)
+## ?? VI. DUO — RETRO FUTURE SENSUAL (25 PROMPTS)
 
 ### Prompt 25: 76. Duo - Space Apartment
 
@@ -684,8 +684,8 @@ Professional retro duo photography. HELENA: as dark space empress commanding gal
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V35 Retro Futurism Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V35 Retro Futurism Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

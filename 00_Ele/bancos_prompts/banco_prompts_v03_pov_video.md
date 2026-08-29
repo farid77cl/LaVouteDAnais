@@ -1,16 +1,16 @@
-﻿# ?? BANCO DE PROMPTS V3 - POV & VIDEO EDITION (REVISADO)
+# ?? BANCO DE PROMPTS V3 - POV & VIDEO EDITION (REVISADO)
 
-> **ENFOQUE:** Perspectiva en Primera Persona (POV), Reacciones P�blicas y Video con Di�logo.
-> **Personajes:** Miss Doll, Helena, Ana�s
+> **ENFOQUE:** Perspectiva en Primera Persona (POV), Reacciones Públicas y Video con Diálogo.
+> **Personajes:** Miss Doll, Helena, Anaïs
 > **Total:** 180+ prompts | **Actualizado:** 2025-12-27
-> **Versi�n:** 3.1 POV & Motion Focus - Canon Corregido
+> **Versión:** 3.1 POV & Motion Focus - Canon Corregido
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,14 +60,14 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? C�MO USAR POV CORRECTAMENTE
+## ?? CÓMO USAR POV CORRECTAMENTE
 
 > [!IMPORTANT]
-> **POV significa que la c�mara ES los ojos del personaje.**
+> **POV significa que la cámara ES los ojos del personaje.**
 >
 > - Use: "**RAW POV photography. The camera IS the eyes of [Character].**"
-> - **CR�TICO:** Arms/legs must extend FROM the camera edges OUTWARDS.
-> - **CR�TICO:** NO HEAD should be visible. We are looking OUT from the head.
+> - **CRÍTICO:** Arms/legs must extend FROM the camera edges OUTWARDS.
+> - **CRÍTICO:** NO HEAD should be visible. We are looking OUT from the head.
 > - View angle: Looking down at OWN chest/body from chin level.
 > - Include: "Peripheral vision blur" for realism.
 
@@ -337,27 +337,27 @@ STYLE: Photorealistic service POV, 8k.
 ```
 (First-person perspective, LOOKING UP). No face visible.
 SUBJECT: Black leather leash extending from under my chin (my collar is the origin point). 
-ACTION: The leash leads up to a hand holding it - Ana�s's hand with elegant rings.
+ACTION: The leash leads up to a hand holding it - Anaïs's hand with elegant rings.
 DETAILS: Tension in the leash.
 STYLE: Photorealistic pet POV, 8k.
 ```
 
 ---
 
-## III. ANA�S - POV COLLECTION ??
+## III. ANAÏS - POV COLLECTION ??
 
 ### ?? Looking Down (First-Person Dominance View)
 
-### Prompt 43: Ana�s POV - Morning Boudoir ??
+### Prompt 43: Anaïs POV - Morning Boudoir ??
 
 ```
-(First-person perspective, MIRROR REFLECTION). The camera IS Ana�s's eyes looking into mirror.
+(First-person perspective, MIRROR REFLECTION). The camera IS Anaïs's eyes looking into mirror.
 REFLECTION SHOWS: My honey blonde waves framing face. My elegant cleavage in ivory silk robe, untied.
 ARMS/HANDS: My aristocratic hands with red nails holding champagne flute in reflection.
 STYLE: Photorealistic luxury POV, 8k.
 ```
 
-### Prompt 42: Ana�s POV - Holding the Leash ??
+### Prompt 42: Anaïs POV - Holding the Leash ??
 
 ```
 (First-person perspective, "neck down" view). Looking down at pet. No head, no face visible.
@@ -367,7 +367,7 @@ LOWER SUBJECT: The leash extends down to Helena kneeling below - voluminous blac
 STYLE: Photorealistic dominance POV, 8k.
 ```
 
-### Prompt 41: Ana�s POV - Writing at Desk ??
+### Prompt 41: Anaïs POV - Writing at Desk ??
 
 ```
 (First-person perspective, "neck down" view). Sitting at mahogany desk. No head, no face visible.
@@ -377,7 +377,7 @@ DETAILS: Crystal inkwell. Laptop nearby shows Tumblr.
 STYLE: Photorealistic writing POV, 8k.
 ```
 
-### Prompt 40: Ana�s POV - Wine Tasting ??
+### Prompt 40: Anaïs POV - Wine Tasting ??
 
 ```
 (First-person perspective, "neck down" view). Tasting wine. No head, no face visible.
@@ -387,7 +387,7 @@ DETAILS: Candlelit dinner setting.
 STYLE: Photorealistic dining POV, 8k.
 ```
 
-### Prompt 39: Ana�s POV - Inspecting My Dolls ??
+### Prompt 39: Anaïs POV - Inspecting My Dolls ??
 
 ```
 (First-person perspective, "neck down" view). Inspecting subjects. No head, no face visible.
@@ -447,25 +447,25 @@ Shot at coffee shop counter. Helena ordering - voluminous black hair, pale skin,
 Shot in sunny park, high contrast. Helena seated on bench with black parasol - voluminous black hair, pale skin, hourglass figure, black mourning dress, black corset, black Pleaser heels 8-inch, reading vampire novel. BACKGROUND: Families playing looking confused, picnickers pointing, one goth teen staring with worship in eyes. Dark figure in bright sunshine contrast. Photorealistic.
 ```
 
-### Ana�s Public Reactions
+### Anaïs Public Reactions
 
-### Prompt 31: Ana�s Public - Gallery Opening ??
-
-```
-Shot at art gallery opening night. Ana�s holding champagne - honey blonde waves, aristocratic face, hourglass figure, burgundy latex cocktail dress, haute couture. CROWD REACTION: Art patrons glancing repeatedly, gallery owner approaching eagerly, artists looking for her approval. Ana�s surveying art with refined criticism. Old money elegance. Photorealistic.
-```
-
-### Prompt 30: Ana�s Public - Caf� Terrace ?
+### Prompt 31: Anaïs Public - Gallery Opening ??
 
 ```
-Shot at Parisian-style caf� terrace. Ana�s seated with espresso - honey blonde waves, aristocratic face, hourglass figure, cream silk blouse, pencil skirt, Pleaser So Kate style heels. CROWD REACTION: Waiter attending only to her, men at nearby tables adjusting ties, women studying her outfit. Ana�s reading Ana�s Nin, ignoring everyone. French sophistication. Photorealistic.
+Shot at art gallery opening night. Anaïs holding champagne - honey blonde waves, aristocratic face, hourglass figure, burgundy latex cocktail dress, haute couture. CROWD REACTION: Art patrons glancing repeatedly, gallery owner approaching eagerly, artists looking for her approval. Anaïs surveying art with refined criticism. Old money elegance. Photorealistic.
+```
+
+### Prompt 30: Anaïs Public - Café Terrace ?
+
+```
+Shot at Parisian-style café terrace. Anaïs seated with espresso - honey blonde waves, aristocratic face, hourglass figure, cream silk blouse, pencil skirt, Pleaser So Kate style heels. CROWD REACTION: Waiter attending only to her, men at nearby tables adjusting ties, women studying her outfit. Anaïs reading Anaïs Nin, ignoring everyone. French sophistication. Photorealistic.
 ```
 
 ---
 
 ## V. VIDEO PROMPTS - SPEAKING & MOTION ??
 
-> **USO:** Para herramientas de video (Runway, Pika, D-ID, Kling). Incluyen descripciones espec�ficas de movimiento labial, expresi�n y acci�n.
+> **USO:** Para herramientas de video (Runway, Pika, D-ID, Kling). Incluyen descripciones específicas de movimiento labial, expresión y acción.
 
 ### ?? Miss Doll Speaking Videos (Specific Dialogue)
 
@@ -528,7 +528,7 @@ Video extreme close-up. Helena's face - pale skin, voluminous black hair framing
 ### Prompt 20: Video Helena - "For My Mistress" Devotion ??
 
 ```
-Video close-up. Helena's face looking up - pale skin, voluminous black hair falling back, dark purple lips. Her expression is reverent adoration. Lips move clearly saying "For my Mistress Ana�s" with devotion on each word. Her black-nailed hand rises to touch her collar/choker. Eyes close in bliss at end. 4 seconds. Candlelight. Photorealistic video.
+Video close-up. Helena's face looking up - pale skin, voluminous black hair falling back, dark purple lips. Her expression is reverent adoration. Lips move clearly saying "For my Mistress Anaïs" with devotion on each word. Her black-nailed hand rises to touch her collar/choker. Eyes close in bliss at end. 4 seconds. Candlelight. Photorealistic video.
 ```
 
 ### Prompt 19: Video Helena - Vampire Hiss ??
@@ -567,30 +567,30 @@ Video medium shot. Helena - pale skin, voluminous black hair, black corset, hour
 Video close-up. Helena's face - pale skin, voluminous black hair, black lips. Head tilts dramatically to one side like curious bird, hair cascading with movement. Blank questioning stare. Lips move saying "Like... what?" in slow confused tone. Holds vacant expression. Goth glamorous woman confusion. 3 seconds. Photorealistic video.
 ```
 
-### ?? Ana�s Speaking Videos (Dominant Elegance)
+### ?? Anaïs Speaking Videos (Dominant Elegance)
 
-### Prompt 13: Video Ana�s - "Good Girl" Approval ??
-
-```
-Video close-up. Ana�s's face - honey blonde waves, aristocratic features, red lips. She looks down camera (at submissive below). Small knowing smile forms. Lips move clearly saying "Good girl..." drawn out, approving, slightly patronizing. Head nods once slowly. Dominant approval. 3 seconds. Warm lighting. Photorealistic video.
-```
-
-### Prompt 12: Video Ana�s - Wine Swirl & Sip ??
+### Prompt 13: Video Anaïs - "Good Girl" Approval ??
 
 ```
-Video close-up. Ana�s's elegant face, honey blonde hair, red lips. Hand with red nails holding wine glass enters frame. Glass swirls wine - circular motion. Glass raises to lips, elegant sip. Lips move saying "Mmm, magnifique" post-sip. Sophisticated tasting. 5 seconds. Candlelight. Photorealistic video.
+Video close-up. Anaïs's face - honey blonde waves, aristocratic features, red lips. She looks down camera (at submissive below). Small knowing smile forms. Lips move clearly saying "Good girl..." drawn out, approving, slightly patronizing. Head nods once slowly. Dominant approval. 3 seconds. Warm lighting. Photorealistic video.
 ```
 
-### Prompt 11: Video Ana�s - "Kneel" Command ??
+### Prompt 12: Video Anaïs - Wine Swirl & Sip ??
 
 ```
-Video medium shot. Ana�s - honey blonde waves, aristocratic face, hourglass figure, burgundy gown, standing tall. Expression shifts to commanding. One eyebrow raises slightly. Lips move clearly saying "Kneel." single word, no question, absolute command. Eyes don't blink. Dominant order. 3 seconds. Grand salon lighting. Photorealistic video.
+Video close-up. Anaïs's elegant face, honey blonde hair, red lips. Hand with red nails holding wine glass enters frame. Glass swirls wine - circular motion. Glass raises to lips, elegant sip. Lips move saying "Mmm, magnifique" post-sip. Sophisticated tasting. 5 seconds. Candlelight. Photorealistic video.
 ```
 
-### Prompt 10: Video Ana�s - Amused Laugh ??
+### Prompt 11: Video Anaïs - "Kneel" Command ??
 
 ```
-Video close-up. Ana�s's face - honey blonde waves, red lips. Watching something amusing below camera. Corners of lips curl into knowing smirk. Short laugh escapes - 2 syllables "ha-ha". Shakes head slightly. Lips move saying "Oh, how delightful". Aristocratic amusement. 4 seconds. Photorealistic video.
+Video medium shot. Anaïs - honey blonde waves, aristocratic face, hourglass figure, burgundy gown, standing tall. Expression shifts to commanding. One eyebrow raises slightly. Lips move clearly saying "Kneel." single word, no question, absolute command. Eyes don't blink. Dominant order. 3 seconds. Grand salon lighting. Photorealistic video.
+```
+
+### Prompt 10: Video Anaïs - Amused Laugh ??
+
+```
+Video close-up. Anaïs's face - honey blonde waves, red lips. Watching something amusing below camera. Corners of lips curl into knowing smirk. Short laugh escapes - 2 syllables "ha-ha". Shakes head slightly. Lips move saying "Oh, how delightful". Aristocratic amusement. 4 seconds. Photorealistic video.
 ```
 
 ### ?? Duo & Trio Interaction Videos
@@ -616,7 +616,7 @@ Video shot from behind, waist down. Miss Doll (pink Pleaser platforms) and Helen
 ### Prompt 6: Video Trio - Hierarchy Reveal ??
 
 ```
-Video wide shot. Three women enter frame walking in V-formation. ANA�S (center front): honey blonde, burgundy gown, striding confidently, slight smile. HELENA (left behind): voluminous black hair, black catsuit, devoted following expression. MISS DOLL (right behind): platinum bob, pink catsuit, eager vacant smile. Power walks. 5 seconds. Grand entrance. Photorealistic video.
+Video wide shot. Three women enter frame walking in V-formation. ANAÏS (center front): honey blonde, burgundy gown, striding confidently, slight smile. HELENA (left behind): voluminous black hair, black catsuit, devoted following expression. MISS DOLL (right behind): platinum bob, pink catsuit, eager vacant smile. Power walks. 5 seconds. Grand entrance. Photorealistic video.
 ```
 
 ---
@@ -637,10 +637,10 @@ Professional photography. Miss Doll at check-in counter - platinum bob, hourglas
 Professional photography. Helena in body scanner arms raised - voluminous black hair, pale skin, hourglass figure, black latex bodysuit (no metal), black corset visible through material. TSA agents studying screen confused by corset structure. Sensual pose with arched back, bedroom eyes. Expression: bored superior stare. Security checkpoint. Photorealistic.
 ```
 
-### Prompt 3: Ana�s Airport - First Class Lounge ??
+### Prompt 3: Anaïs Airport - First Class Lounge ??
 
 ```
-Professional photography. Ana�s in airline lounge - honey blonde waves, hourglass figure, cream silk blouse, beige slacks, nude Pleaser pumps. Champagne in hand, reading Le Monde. Sensual pose with arched back, bedroom eyes. Expression: natural elegance, belongs here. First class lounge. Photorealistic.
+Professional photography. Anaïs in airline lounge - honey blonde waves, hourglass figure, cream silk blouse, beige slacks, nude Pleaser pumps. Champagne in hand, reading Le Monde. Sensual pose with arched back, bedroom eyes. Expression: natural elegance, belongs here. First class lounge. Photorealistic.
 ```
 
 ### ??? Shopping Mall
@@ -662,26 +662,26 @@ Professional photography. Helena in alternative store - voluminous black hair, p
 ## ?? SUGERENCIA PARA BANCO V5
 
 > [!TIP]
-> **TEMA SUGERIDO: "TRANSFORMACI�N & NARRATIVA"**
+> **TEMA SUGERIDO: "TRANSFORMACIÓN & NARRATIVA"**
 >
-> Prompts que cuenten una historia de transformaci�n en secuencia:
+> Prompts que cuenten una historia de transformación en secuencia:
 >
 > - Before/After: Mismo personaje, estados diferentes
-> - Progresi�n de bimbofication en 5 etapas
+> - Progresión de bimbofication en 5 etapas
 > - Secuencias de vestirse/desvestirse
-> - Timeline de sumisi�n (primera vez ? entrenada)
+> - Timeline de sumisión (primera vez ? entrenada)
 > - Expresiones emocionales pre/post trance
 >
 > **Alternativas:**
 >
-> - V5 "BDSM Scenarios": Bondage espec�fico, posiciones, implementos
-> - V5 "Fantasy Roleplay": Escenarios tem�ticos (vampiras, sirenas, enfermeras)
-> - V5 "Couple Dynamics": Escenas de interacci�n MD+Helena, Helena+Ana�s
+> - V5 "BDSM Scenarios": Bondage específico, posiciones, implementos
+> - V5 "Fantasy Roleplay": Escenarios temáticos (vampiras, sirenas, enfermeras)
+> - V5 "Couple Dynamics": Escenas de interacción MD+Helena, Helena+Anaïs
 
 ---
 
-*Creado por: Helena de Ana�s - V3.1 POV & Video Edition Revisado ????*
-*Canon corregido: figuras normalizadas, POV verdadero, videos espec�ficos*
+*Creado por: Helena de Anaïs - V3.1 POV & Video Edition Revisado ????*
+*Canon corregido: figuras normalizadas, POV verdadero, videos específicos*
 
 
 

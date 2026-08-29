@@ -439,11 +439,11 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 | Pose | Archivo |
 |------|---------|
-| **Full Body** |  5_Imagenes/helena/look013_viuda_negra/01_standing.png |
-| **Portrait** |  5_Imagenes/helena/look013_viuda_negra/02_portrait.png |
-| **Detail** |  5_Imagenes/helena/look013_viuda_negra/03_detail.png |
-| **Sitting** |  5_Imagenes/helena/look013_viuda_negra/04_sitting.png |
-| **Selfie** |  5_Imagenes/helena/look013_viuda_negra/05_selfie.png |
+| **Full Body** | 05_Imagenes/helena/look013_viuda_negra/01_standing.png |
+| **Portrait** | 05_Imagenes/helena/look013_viuda_negra/02_portrait.png |
+| **Detail** | 05_Imagenes/helena/look013_viuda_negra/03_detail.png |
+| **Sitting** | 05_Imagenes/helena/look013_viuda_negra/04_sitting.png |
+| **Selfie** | 05_Imagenes/helena/look013_viuda_negra/05_selfie.png |
 
 > *"Like... soy tan oscura que absorbo la luz... y la esperanza... *giggle* "*  Helena
 

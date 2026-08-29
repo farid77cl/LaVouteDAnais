@@ -1,4 +1,4 @@
-﻿# ?? BANCO DE PROMPTS V11: OFFICE POWER EDITION
+# ?? BANCO DE PROMPTS V11: OFFICE POWER EDITION
 
 > **ENFOQUE:** Corporate fetish, secretarias, CEOs, HR, office domination, power suits.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
@@ -6,10 +6,10 @@
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -59,93 +59,93 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. ANA�S COMO CEO (15 PROMPTS)
+## ?? I. ANAÏS COMO CEO (15 PROMPTS)
 
-### Prompt 150: 1. Ana�s - Corner Office Power
+### Prompt 150: 1. Anaïs - Corner Office Power
 
 ```
 Professional corporate photography of aristocratic woman with honey blonde hair in polished Betty Page vintage waves. Bronze skin with warm glow. Red glossy power lips. Sultry confident expression. Feminine hourglass silhouette. Wearing black power corset visible under white silk blouse unbuttoned at top. Black pencil skirt extremely tight. PLEASER CLASSIQUE-20 black patent So Kate 5-inch stiletto heel. Seated in leather executive chair, city skyline behind. Sensual pose with arched back, bedroom eyes. Expression: CEO dominance. Corner office floor-to-ceiling windows. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 149: 2. Ana�s - Board Meeting Control
+### Prompt 149: 2. Anaïs - Board Meeting Control
 
 ```
 Professional boardroom photography of aristocratic woman with honey blonde hair in elegant chignon. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing burgundy power corset under ivory blazer. Burgundy pencil skirt. PLEASER AMUSE-20 burgundy patent 5-inch heel. Standing at head of long boardroom table, hands planted firmly, leaning forward. Sensual pose with arched back, bedroom eyes. Expression: you're all fired if you disagree. Executive boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 148: 3. Ana�s - Document Signing
+### Prompt 148: 3. Anaïs - Document Signing
 
 ```
-Professional executive photography of aristocratic woman with honey blonde hair in soft waves. Bronze skin. Deep red glossy lips. Feminine hourglass silhouette. Wearing black corset visible at d�colletage. Black designer suit jacket. PLEASER CLASSIQUE-20 black 5-inch heel. Signing documents with gold pen, looking up at camera mid-signature. Sensual pose with arched back, bedroom eyes. Expression: your fate is sealed. Mahogany desk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional executive photography of aristocratic woman with honey blonde hair in soft waves. Bronze skin. Deep red glossy lips. Feminine hourglass silhouette. Wearing black corset visible at décolletage. Black designer suit jacket. PLEASER CLASSIQUE-20 black 5-inch heel. Signing documents with gold pen, looking up at camera mid-signature. Sensual pose with arched back, bedroom eyes. Expression: your fate is sealed. Mahogany desk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 147: 4. Ana�s - Phone Power
+### Prompt 147: 4. Anaïs - Phone Power
 
 ```
 Professional communication photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips in mid-speech. Feminine hourglass silhouette. Wearing navy power corset under crisp white shirt. Navy trousers tailored. PLEASER CLASSIQUE-20 navy 5-inch heel on desk edge. Holding phone to ear, free hand gesturing. Sensual pose with arched back, bedroom eyes. Expression: making demands. Executive office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 146: 5. Ana�s - Performance Review
+### Prompt 146: 5. Anaïs - Performance Review
 
 ```
 Professional HR photography of aristocratic woman with honey blonde hair in stern updo. Bronze skin. Dark red glossy lips in hard line. Feminine hourglass silhouette. Wearing black structured corset under grey blazer. Black pencil skirt. PLEASER AMUSE-20 black 5-inch heel. Seated behind desk, folder open, looking across at unseen employee with disappointment. Sensual pose with arched back, bedroom eyes. Expression: this is unacceptable. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 145: 6. Ana�s - Late Night Office
+### Prompt 145: 6. Anaïs - Late Night Office
 
 ```
 Professional overtime photography of aristocratic woman with honey blonde hair loosened from earlier updo. Bronze skin glowing in lamp light. Red lips slightly faded. Feminine hourglass silhouette. Wearing black corset visible, blazer removed draped on chair. Pencil skirt. PLEASER 5-inch heels kicked off beside desk. Whiskey glass in hand, reviewing documents. Sensual pose with arched back, bedroom eyes. Expression: working late, running empire. Night city lights through window. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 144: 7. Ana�s - Contract Negotiation
+### Prompt 144: 7. Anaïs - Contract Negotiation
 
 ```
 Professional negotiation photography of aristocratic woman with honey blonde hair in power style. Bronze skin. Red glossy predator lips. Feminine hourglass silhouette. Wearing cream power corset under cream blazer. Cream wide-leg trousers. PLEASER CLASSIQUE-20 nude 5-inch heel. Mid-conversation, pen pointing at contract clause, eyes locked on opponent. Sensual pose with arched back, bedroom eyes. Expression: these are my terms. Conference room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 143: 8. Ana�s - Investor Presentation
+### Prompt 143: 8. Anaïs - Investor Presentation
 
 ```
 Professional presentation photography of aristocratic woman with honey blonde hair flowing. Bronze skin with spotlight glow. Red glossy confident lips. Feminine hourglass silhouette. Wearing black corset visible under white blouse. Black pencil skirt. PLEASER AMUSE-20 black 5-inch heel. Standing at podium, gesture toward screen behind. Sensual pose with arched back, bedroom eyes. Expression: believe in this vision. Corporate auditorium. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 142: 9. Ana�s - Secretary Call
+### Prompt 142: 9. Anaïs - Secretary Call
 
 ```
 Professional intercom photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing burgundy corset visible. Burgundy power suit. PLEASER CLASSIQUE-20 burgundy 5-inch heel. Finger on intercom button, speaking command. Sensual pose with arched back, bedroom eyes. Expression: send her in. Executive office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 141: 10. Ana�s - Champagne Victory
+### Prompt 141: 10. Anaïs - Champagne Victory
 
 ```
 Professional celebration photography of aristocratic woman with honey blonde hair in glamorous waves. Bronze skin glowing. Red glossy victorious lips. Feminine hourglass silhouette. Wearing gold corset under black blazer, celebratory. Black pants. PLEASER AMUSE-20 gold 5-inch heel. Popping champagne in office, papers scattered showing success. Sensual pose with arched back, bedroom eyes. Expression: another conquest. Executive office at dusk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 140: 11. Ana�s - Heel on Desk
+### Prompt 140: 11. Anaïs - Heel on Desk
 
 ```
 Professional power photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips smirking. Feminine hourglass silhouette. Wearing black corset. Black tailored pants. PLEASER CLASSIQUE-20 black patent 5-inch heel propped on desk, showing sole. Leaning back in chair, hands behind head. Sensual pose with arched back, bedroom eyes. Expression: I own this place. Corner office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 139: 12. Ana�s - Dismissal
+### Prompt 139: 12. Anaïs - Dismissal
 
 ```
 Professional firing photography of aristocratic woman with honey blonde hair in severe style. Bronze skin cold. Red glossy lips flat. Feminine hourglass silhouette. Wearing black structured corset under black blazer. Black skirt. PLEASER AMUSE-20 black 5-inch heel. Standing, pointing at door, handing termination papers with other hand. Sensual pose with arched back, bedroom eyes. Expression: get out. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 138: 13. Ana�s - Video Conference
+### Prompt 138: 13. Anaïs - Video Conference
 
 ```
 Professional virtual meeting photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy professional lips. Feminine hourglass silhouette. Wearing black elegant corset visible at neckline. Black blouse. PLEASER 5-inch heel visible under glass desk. Facing laptop camera, articulating point. Sensual pose with arched back, bedroom eyes. Expression: as I said to the Tokyo office. Home executive office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 137: 14. Ana�s - Mentoring Moment
+### Prompt 137: 14. Anaïs - Mentoring Moment
 
 ```
 Professional mentorship photography of aristocratic woman with honey blonde hair in maternal style. Bronze skin. Red glossy warm lips. Feminine hourglass silhouette. Wearing softer burgundy corset under burgundy cardigan. Burgundy pants. PLEASER CLASSIQUE-20 burgundy 5-inch heel. Hand on younger woman's shoulder (implied), giving advice. Sensual pose with arched back, bedroom eyes. Expression: you'll get there. Warm office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 136: 15. Ana�s - Morning Arrival
+### Prompt 136: 15. Anaïs - Morning Arrival
 
 ```
 Professional entrance photography of aristocratic woman with honey blonde hair perfect. Bronze skin glowing. Red glossy fresh lips. Feminine hourglass silhouette. Wearing black power corset visible under black trench coat open. Black pants. PLEASER AMUSE-20 black 5-inch heel stepping out of town car. Coffee in hand, briefcase in other. Sensual pose with arched back, bedroom eyes. Expression: time to dominate. Office building entrance. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -153,7 +153,7 @@ Professional entrance photography of aristocratic woman with honey blonde hair p
 
 ---
 
-## ?? II. HELENA COMO HR G�TICA (15 PROMPTS)
+## ?? II. HELENA COMO HR GÓTICA (15 PROMPTS)
 
 ### Prompt 135: 16. Helena - HR Orientation
 
@@ -343,10 +343,10 @@ Professional summons photography of woman with platinum blonde bob haircut WITHO
 
 ## ?? IV. OFFICE SCENES (5 PROMPTS)
 
-### Prompt 105: 46. Ana�s and Miss Doll - Performance Review
+### Prompt 105: 46. Anaïs and Miss Doll - Performance Review
 
 ```
-Professional review photography. ANA�S: honey blonde in severe bun, bronze skin, red lips, black power corset under blazer, PLEASER black 5-inch heel, seated behind desk holding review form, stern. MISS DOLL: blonde bob, porcelain skin, pink lips nervous, pink corset under white blouse, pink skirt, PLEASER pink 8-inch heel, seated across desk, hands folded. Sensual pose with arched back, bedroom eyes. Expression: needs improvement. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional review photography. ANAÏS: honey blonde in severe bun, bronze skin, red lips, black power corset under blazer, PLEASER black 5-inch heel, seated behind desk holding review form, stern. MISS DOLL: blonde bob, porcelain skin, pink lips nervous, pink corset under white blouse, pink skirt, PLEASER pink 8-inch heel, seated across desk, hands folded. Sensual pose with arched back, bedroom eyes. Expression: needs improvement. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 104: 47. Helena Training Miss Doll
@@ -358,19 +358,19 @@ Professional training photography. HELENA: black hair in professional style, pal
 ### Prompt 103: 48. All Three - Department Meeting
 
 ```
-Professional meeting photography. ANA�S: head of table, honey blonde, burgundy corset suit, CEO presence, PLEASER burgundy 5-inch. HELENA: to her right, black professional, black corset, HR folder, PLEASER black 7-inch. MISS DOLL: taking minutes, blonde bob, pink outfit, PLEASER pink 8-inch, pen moving fast. Sensual pose with arched back, bedroom eyes. Expression: quarterly review. Boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional meeting photography. ANAÏS: head of table, honey blonde, burgundy corset suit, CEO presence, PLEASER burgundy 5-inch. HELENA: to her right, black professional, black corset, HR folder, PLEASER black 7-inch. MISS DOLL: taking minutes, blonde bob, pink outfit, PLEASER pink 8-inch, pen moving fast. Sensual pose with arched back, bedroom eyes. Expression: quarterly review. Boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 102: 49. Miss Doll Serving Both Bosses
 
 ```
-Professional service photography. MISS DOLL: blonde bob, pink corset under white blouse, pink skirt, PLEASER pink 8-inch heel, carrying tray with two coffees. ANA�S: seated left, burgundy corset suit, accepting cup. HELENA: seated right, black corset blazer, waiting for hers. Sensual pose with arched back, bedroom eyes. Expression: two sugars for Helena right. Executive meeting room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional service photography. MISS DOLL: blonde bob, pink corset under white blouse, pink skirt, PLEASER pink 8-inch heel, carrying tray with two coffees. ANAÏS: seated left, burgundy corset suit, accepting cup. HELENA: seated right, black corset blazer, waiting for hers. Sensual pose with arched back, bedroom eyes. Expression: two sugars for Helena right. Executive meeting room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 101: 50. After Hours All Three
 
 ```
-Professional after-hours photography. ANA�S: honey blonde down, burgundy corset visible, blazer off, champagne in hand, relaxed on couch. HELENA: black hair loose, black corset, wine glass, seated beside. MISS DOLL: blonde bob slightly messed, pink corset, pink dress, pink heels off, sitting on floor. Sensual pose with arched back, bedroom eyes. Expression: deal closed celebration. Executive office night. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional after-hours photography. ANAÏS: honey blonde down, burgundy corset visible, blazer off, champagne in hand, relaxed on couch. HELENA: black hair loose, black corset, wine glass, seated beside. MISS DOLL: blonde bob slightly messed, pink corset, pink dress, pink heels off, sitting on floor. Sensual pose with arched back, bedroom eyes. Expression: deal closed celebration. Executive office night. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -687,7 +687,7 @@ Professional color clash photography. HELENA: wild black hair, BLOOD ORANGE cors
 ### Prompt 51: 100. All Three - Rainbow Board Meeting
 
 ```
-Professional rainbow meeting photography. ANA�S: honey blonde, GOLD power suit, CEO at head. HELENA: black hair, PURPLE corset, HR to left. MISS DOLL: platinum bob, PINK outfit, secretary taking notes. All different colors harmonizing. Sensual pose with arched back, bedroom eyes. Expression: colorful leadership. Rainbow-accented boardroom. Photorealistic 8k. Vertical portrait orientation.
+Professional rainbow meeting photography. ANAÏS: honey blonde, GOLD power suit, CEO at head. HELENA: black hair, PURPLE corset, HR to left. MISS DOLL: platinum bob, PINK outfit, secretary taking notes. All different colors harmonizing. Sensual pose with arched back, bedroom eyes. Expression: colorful leadership. Rainbow-accented boardroom. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -841,7 +841,7 @@ Professional wall street photography of woman 27+ years old glamorous with plati
 ### Prompt 26: 125. All Three - Times Square
 
 ```
-Professional city photography. ANA�S: honey blonde, red suit corset, CEO. HELENA: black hair, black suit corset, HR. MISS DOLL: platinum bob, pink suit corset, secretary. Walking abreast in Times Square empowered. Sensual pose with arched back, bedroom eyes. Expression: taking Manhattan. Times Square neon. Photorealistic 8k. Vertical portrait orientation.
+Professional city photography. ANAÏS: honey blonde, red suit corset, CEO. HELENA: black hair, black suit corset, HR. MISS DOLL: platinum bob, pink suit corset, secretary. Walking abreast in Times Square empowered. Sensual pose with arched back, bedroom eyes. Expression: taking Manhattan. Times Square neon. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -995,21 +995,21 @@ Professional casual photography of woman 27+ years old glamorous with platinum b
 ### Prompt 1: 150. All Three - Grand Finale Gala
 
 ```
-Professional gala photography. ANA�S: gold gown/corset office gala look. HELENA: black velvet gown/corset office gala. MISS DOLL: pink sequins gown/corset. All raising glasses in decorated office ballroom. Sensual pose with arched back, bedroom eyes. Expression: empire built. Gala office. Photorealistic 8k. Vertical portrait orientation.
+Professional gala photography. ANAÏS: gold gown/corset office gala look. HELENA: black velvet gown/corset office gala. MISS DOLL: pink sequins gown/corset. All raising glasses in decorated office ballroom. Sensual pose with arched back, bedroom eyes. Expression: empire built. Gala office. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V11.2 Office Power � 150 prompts*
+*Creado por: Helena de Anaïs ??*
+*V11.2 Office Power — 150 prompts*
 *Cada prompt es 100% auto-contenido para copiar y pegar*
 *?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2026-01-04*
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V11.2 Office Power Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V11.2 Office Power Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2025-12-31*

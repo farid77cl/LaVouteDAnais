@@ -1,16 +1,16 @@
-﻿# ?? Banco de Prompts V34: LINGERIE EXCLUSIVE EDITION
+# ?? Banco de Prompts V34: LINGERIE EXCLUSIVE EDITION
 
-> **ENFOQUE:** Lencer�a de lujo extremo, Agent Provocateur, La Perla, Bordelle, Coco de Mer, dise�adores exclusivos.
+> **ENFOQUE:** Lencería de lujo extremo, Agent Provocateur, La Perla, Bordelle, Coco de Mer, diseñadores exclusivos.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **?? COLOR FREEDOM:** Helena (Black, Burgundy, Emerald, Midnight Blue). Miss Doll (Pink, Nude, Ivory, Rose Gold).
 > **Total:** 50 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. MISS DOLL � PINK LUXURY LINGERIE (20 PROMPTS)
+## ?? I. MISS DOLL — PINK LUXURY LINGERIE (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Agent Provocateur Bridal
 
@@ -143,7 +143,7 @@ Professional boudoir photography of woman 27+ years old glamorous with platinum 
 ### Prompt 87: 14. Miss Doll - Simone Perele Romantic
 
 ```
-Professional boudoir photography of woman 27+ years old glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin romantic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing SIMONE PERELE Wish blush pink bra with daisy appliqu�, matching shorty, ultra feminine French. PLEASER FLAMINGO-808 pink 8-inch platform heels. Romantic rose garden room. Sensual romantic pose. Expression: French countryside dream. Simone Perele romantic. Seductive glamour photography, garden room lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of woman 27+ years old glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin romantic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing SIMONE PERELE Wish blush pink bra with daisy appliqué, matching shorty, ultra feminine French. PLEASER FLAMINGO-808 pink 8-inch platform heels. Romantic rose garden room. Sensual romantic pose. Expression: French countryside dream. Simone Perele romantic. Seductive glamour photography, garden room lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 86: 15. Miss Doll - Hanky Panky Signature
@@ -184,7 +184,7 @@ Professional boudoir photography of woman 27+ years old glamorous with platinum 
 
 ---
 
-## ?? II. HELENA � DARK LUXURY LINGERIE (15 PROMPTS)
+## ?? II. HELENA — DARK LUXURY LINGERIE (15 PROMPTS)
 
 ### Prompt 80: 21. Helena - Agent Provocateur Noir
 
@@ -278,7 +278,7 @@ Professional boudoir photography of young elegant goth glamour woman woman 23+ y
 
 ---
 
-## ?? III. DUO � LUXURY LINGERIE (15 PROMPTS)
+## ?? III. DUO — LUXURY LINGERIE (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Agent Provocateur Contrast
 
@@ -372,7 +372,7 @@ Professional boudoir duo photography. HELENA: Sacha Massacre look in Agent Provo
 
 ---
 
-## ?? IV. MISS DOLL � SENSUAL LINGERIE (15 PROMPTS)
+## ?? IV. MISS DOLL — SENSUAL LINGERIE (15 PROMPTS)
 
 ### Prompt 50: 51. Miss Doll - Boudoir Mirror
 
@@ -466,7 +466,7 @@ Professional boudoir photography of woman 27+ years old glamorous with platinum 
 
 ---
 
-## ?? V. HELENA � DARK SENSUAL LINGERIE (10 PROMPTS)
+## ?? V. HELENA — DARK SENSUAL LINGERIE (10 PROMPTS)
 
 ### Prompt 35: 66. Helena - Dungeon Lace
 
@@ -530,7 +530,7 @@ Professional boudoir photography of Helena Sacha Massacre look. BLACK sheer ling
 
 ---
 
-## ?? VI. DUO � LUXURY LINGERIE SENSUAL (25 PROMPTS)
+## ?? VI. DUO — LUXURY LINGERIE SENSUAL (25 PROMPTS)
 
 ### Prompt 25: 76. Duo - Fitting Room
 
@@ -684,8 +684,8 @@ Professional duo photography. HELENA: Agent Provocateur black complete, dominant
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V34 Lingerie Exclusive Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V34 Lingerie Exclusive Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

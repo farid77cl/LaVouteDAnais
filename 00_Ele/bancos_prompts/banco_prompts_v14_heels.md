@@ -1,15 +1,15 @@
-﻿# ?? BANCO DE PROMPTS V14: PLEASER HEELS FOCUS EDITION
+# ?? BANCO DE PROMPTS V14: PLEASER HEELS FOCUS EDITION
 
-> **ENFOQUE:** Close-ups de tacones PLEASER espec�ficos, pies, piernas, fetichismo de calzado.
+> **ENFOQUE:** Close-ups de tacones PLEASER específicos, pies, piernas, fetichismo de calzado.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 50+ prompts | **Actualizado:** 2025-12-29
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -59,7 +59,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � DARK HEEL WORSHIP (20 PROMPTS)
+## ?? I. HELENA — DARK HEEL WORSHIP (20 PROMPTS)
 
 ### Prompt 100: 1. Helena - Rapture 1020 Black Patent
 
@@ -183,7 +183,7 @@ Professional symbolic photography. PLEASER RAPTURE-1020 black patent 8-inch boot
 
 ---
 
-## ?? II. MISS DOLL � PINK HEEL WORSHIP (20 PROMPTS)
+## ?? II. MISS DOLL — PINK HEEL WORSHIP (20 PROMPTS)
 
 ### Prompt 80: 21. Miss Doll - Flamingo 808 Hot Pink
 
@@ -307,63 +307,63 @@ Professional learning photography. woman 27+ years old glamorous with platinum b
 
 ---
 
-## ?? III. ANA�S � ELEGANT HEEL COLLECTION (10 PROMPTS)
+## ?? III. ANAÏS — ELEGANT HEEL COLLECTION (10 PROMPTS)
 
-### Prompt 60: 41. Ana�s - Classique 20 Nude Patent
+### Prompt 60: 41. Anaïs - Classique 20 Nude Patent
 
 ```
 Professional elegant heel photography of aristocratic woman with honey blonde hair in Betty Page vintage waves. Bronze skin. Red glossy lips. Wearing PLEASER CLASSIQUE-20 nude patent So Kate 5-inch stiletto heel. Burgundy silk corset visible above. Standing elegantly, one foot forward. Classic elegance. French salon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 59: 42. Ana�s - Amuse 20 Black Patent
+### Prompt 59: 42. Anaïs - Amuse 20 Black Patent
 
 ```
 Professional power photography of aristocratic woman with honey blonde hair. Bronze skin. Red lips. PLEASER AMUSE-20 black patent 5-inch heel, classic pump. Black power corset under blazer visible. One leg crossed showing shoe. Sensual pose with arched back, bedroom eyes. Expression: power moves. Executive office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 58: 43. Ana�s - Classique Burgundy
+### Prompt 58: 43. Anaïs - Classique Burgundy
 
 ```
 Professional color matching photography. PLEASER CLASSIQUE-20 burgundy patent 5-inch stiletto. Aristocratic woman with honey blonde hair. Bronze skin. Burgundy lips matching shoes. Burgundy corset dress. Elegant crossed legs. Sensual pose with arched back, bedroom eyes. Expression: coordinated elegance. Wine cellar. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 57: 44. Ana�s - Heel to Champagne
+### Prompt 57: 44. Anaïs - Heel to Champagne
 
 ```
 Professional celebration photography. Aristocratic woman with honey blonde hair. PLEASER AMUSE-20 gold patent 5-inch heel resting on champagne bucket edge. Gold silk corset. Bronze skin. Sensual pose with arched back, bedroom eyes. Expression: victory. Penthouse party. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 56: 45. Ana�s - Walking Red Carpet
+### Prompt 56: 45. Anaïs - Walking Red Carpet
 
 ```
 Professional red carpet photography. Aristocratic woman with honey blonde hair. Bronze skin. Red lips. PLEASER CLASSIQUE-20 nude 5-inch heels on red carpet. Black gown with corset bodice. Walking shot, focus on heel and carpet. Sensual pose with arched back, bedroom eyes. Expression: star arrival. Premiere event. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 55: 46. Ana�s - Heel Collection Display
+### Prompt 55: 46. Anaïs - Heel Collection Display
 
 ```
 Professional luxury photography. Aristocratic woman with honey blonde hair in closet. PLEASER CLASSIQUE and AMUSE collection behind: nudes, blacks, burgundies, all 5-inch classic pumps. Wearing one pair. Corset visible. Sensual pose with arched back, bedroom eyes. Expression: quality over quantity. Luxury shoe closet. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 54: 47. Ana�s - Relaxed Heel Dangle
+### Prompt 54: 47. Anaïs - Relaxed Heel Dangle
 
 ```
 Professional relaxation photography. Aristocratic woman with honey blonde hair on chaise. PLEASER CLASSIQUE-20 nude 5-inch dangling from toe. Bronze skin. Silk robe. Corset visible. Wine glass. Sensual pose with arched back, bedroom eyes. Expression: end of day. Luxury boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 53: 48. Ana�s - Heel on Marble
+### Prompt 53: 48. Anaïs - Heel on Marble
 
 ```
 Professional architecture photography. PLEASER AMUSE-20 black patent 5-inch heel on white marble floor. Aristocratic woman with honey blonde hair. Black elegant corset dress. Sensual pose with arched back, bedroom eyes. Expression: owning the space. Marble foyer. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 52: 49. Ana�s - Classic Morning Put-On
+### Prompt 52: 49. Anaïs - Classic Morning Put-On
 
 ```
 Professional morning ritual photography. Aristocratic woman with honey blonde hair. Bronze skin. Silk robe. Bending to put on PLEASER CLASSIQUE-20 nude 5-inch heel. Corset visible under robe. Sensual pose with arched back, bedroom eyes. Expression: ritual start. Luxury bedroom morning light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 51: 50. Ana�s - Heel Authority
+### Prompt 51: 50. Anaïs - Heel Authority
 
 ```
 Professional dominance photography. POV from floor. PLEASER AMUSE-20 black patent 5-inch heel above camera, about to step on viewer implied. Aristocratic woman with honey blonde hair looking down. Red lips. Black corset. Sensual pose with arched back, bedroom eyes. Expression: know your place. Luxury study. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -683,13 +683,13 @@ Professional duo heel photography. HELENA: BLOOD ORANGE metallic heels, sunset s
 ### Prompt 1: 100. All Three - Rainbow Heel Collection
 
 ```
-Professional trio heel photography. ANA�S: honey blonde, GOLD CLASSIQUE heels, gold corset center. HELENA: black hair, PURPLE MOON heels, purple corset left. MISS DOLL: blonde bob, PINK FLAMINGO heels, pink corset right. All showing heels prominently. Sensual pose with arched back, bedroom eyes. Expression: rainbow heel queens. Colorful studio. Photorealistic 8k. Vertical portrait orientation.
+Professional trio heel photography. ANAÏS: honey blonde, GOLD CLASSIQUE heels, gold corset center. HELENA: black hair, PURPLE MOON heels, purple corset left. MISS DOLL: blonde bob, PINK FLAMINGO heels, pink corset right. All showing heels prominently. Sensual pose with arched back, bedroom eyes. Expression: rainbow heel queens. Colorful studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V14.2 Pleaser Heels Focus Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V14.2 Pleaser Heels Focus Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2026-01-01*

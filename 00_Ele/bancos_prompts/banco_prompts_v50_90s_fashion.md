@@ -1,4 +1,4 @@
-﻿# 🎨 Banco de Prompts V50: 1990s SENSUAL & AESTHETIC (VOL. 1)
+# 🎨 Banco de Prompts V50: 1990s SENSUAL & AESTHETIC (VOL. 1)
 
 > **USO:** Copiar el texto del prompt directamente. CADA PROMPT ES AUTO-CONTENIDO.
 > **Total:** 100 Prompts (Completo) | **Actualizado:** 2026-01-12

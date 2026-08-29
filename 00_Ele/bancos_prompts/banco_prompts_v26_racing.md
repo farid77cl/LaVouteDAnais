@@ -1,4 +1,4 @@
-﻿# ??? Banco de Prompts V26: RACING & PIT GIRLS EDITION
+# ??? Banco de Prompts V26: RACING & PIT GIRLS EDITION
 
 > **ENFOQUE:** Grid girls, F1, NASCAR, carreras, banderas, cascos, overoles.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
@@ -7,10 +7,10 @@
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. MISS DOLL � PINK RACING (20 PROMPTS)
+## ?? I. MISS DOLL — PINK RACING (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Pink Grid Girl
 
@@ -124,7 +124,7 @@ Professional garage photography of woman 27+ years old glamorous with platinum b
 
 ---
 
-## ?? II. HELENA � DARK SPEED QUEEN (15 PROMPTS)
+## ?? II. HELENA — DARK SPEED QUEEN (15 PROMPTS)
 
 ### Prompt 90: 11. Helena - Black F1 Grid
 
@@ -158,7 +158,7 @@ Professional ironic photography of young elegant goth glamour woman woman 23+ ye
 
 ---
 
-## ?? III. DUO � RACING PAIRS (10 PROMPTS)
+## ?? III. DUO — RACING PAIRS (10 PROMPTS)
 
 ### Prompt 85: 16. Duo - Grid Girls Side by Side
 
@@ -192,7 +192,7 @@ Professional team photography duo. HELENA: Sacha Massacre look, black team shirt
 
 ---
 
-## ?? IV. HELENA � RACING QUEEN (15 PROMPTS)
+## ?? IV. HELENA — RACING QUEEN (15 PROMPTS)
 
 ### Prompt 80: 21. Helena - NASCAR Grid Girl
 
@@ -242,10 +242,10 @@ Professional karting photography of young elegant goth glamour woman woman 23+ y
 Professional gaming photography of young elegant goth glamour woman woman 23+ years old inspired by Sacha Massacre. Voluminous jet black hair gaming headset on. Pale porcelain white skin screen glow. Full glossy purple lips. Wearing BLACK gaming crop top sponsor logos. Racing simulator setup with triple monitors. Racing wheel in hands. RGB lighting reflecting. PLEASER RAPTURE-1020 black 8-inch boots crossed. Gaming chair setup. Sensual gamer pose. Expression: virtual speed demon. E-sports racer. Seductive glamour photography, RGB neon gaming lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 72: 29. Helena - N�rburgring Queen
+### Prompt 72: 29. Helena - Nürburgring Queen
 
 ```
-Professional N�rburgring photography of young elegant goth glamour woman woman 23+ years old inspired by Sacha Massacre. Voluminous jet black hair Germanic severity. Pale porcelain white skin cold weather. Full glossy dark plum lips. Wearing BLACK N�rburgring staff jacket over racing suit. Holding lap time board. Nordschleife in background fog. German racing checkpoint. PLEASER RAPTURE-1020 black 8-inch boots. Green Hell track. Sensual German precision pose. Expression: respect the Ring. N�rburgring queen. Seductive glamour photography, moody German forest lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Nürburgring photography of young elegant goth glamour woman woman 23+ years old inspired by Sacha Massacre. Voluminous jet black hair Germanic severity. Pale porcelain white skin cold weather. Full glossy dark plum lips. Wearing BLACK Nürburgring staff jacket over racing suit. Holding lap time board. Nordschleife in background fog. German racing checkpoint. PLEASER RAPTURE-1020 black 8-inch boots. Green Hell track. Sensual German precision pose. Expression: respect the Ring. Nürburgring queen. Seductive glamour photography, moody German forest lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 71: 30. Helena - Pit Stop Mechanic
@@ -256,7 +256,7 @@ Professional mechanic photography of young elegant goth glamour woman woman 23+ 
 
 ---
 
-## ?? V. MISS DOLL � PINK RACING (10 PROMPTS)
+## ?? V. MISS DOLL — PINK RACING (10 PROMPTS)
 
 ### Prompt 70: 31. Miss Doll - Pink Dragster
 
@@ -320,7 +320,7 @@ Professional NASCAR photography of woman 27+ years old glamorous with platinum b
 
 ---
 
-## ?? VI. DUO � MORE RACING PAIRS (10 PROMPTS)
+## ?? VI. DUO — MORE RACING PAIRS (10 PROMPTS)
 
 ### Prompt 60: 41. Duo - Grid Walk Interview
 
@@ -384,7 +384,7 @@ Professional celebration duo photography. HELENA: Sacha Massacre look, standing 
 
 ---
 
-## ??? VII. HELENA � RACING SENSUAL (15 PROMPTS)
+## ??? VII. HELENA — RACING SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Helena - Latex Racing Suit
 
@@ -478,7 +478,7 @@ Professional night race photography of young elegant goth glamour woman woman 23
 
 ---
 
-## ?? VIII. MISS DOLL � PINK RACING SENSUAL (15 PROMPTS)
+## ?? VIII. MISS DOLL — PINK RACING SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Miss Doll - Pink Racing Queen
 
@@ -572,7 +572,7 @@ Professional VIP photography of woman 27+ years old glamorous with platinum blon
 
 ---
 
-## ?? IX. DUO � RACING SENSUAL (20 PROMPTS)
+## ?? IX. DUO — RACING SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Grid Girls Umbrella Pose
 
@@ -696,8 +696,8 @@ Professional golden hour duo photography. HELENA: Sacha Massacre look, BLACK rac
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V26 Racing & Pit Girls Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V26 Racing & Pit Girls Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

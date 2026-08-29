@@ -1,4 +1,4 @@
-﻿# BANCO DE PROMPTS V01: BASE & CANON VISUAL (NORMALIZADO)
+# BANCO DE PROMPTS V01: BASE & CANON VISUAL (NORMALIZADO)
 
 ## DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
@@ -161,7 +161,7 @@ Professional photography of woman 27+ years old glamorous with platinum blonde b
 
 ---
 
-## ?? II. HELENA � GOTHIC OUTFITS (Prompts 21-45)
+## ?? II. HELENA — GOTHIC OUTFITS (Prompts 21-45)
 
 ### Prompt: 21. Helena - Gothic Nun
 
@@ -315,123 +315,123 @@ Professional gothic photography of woman 23+ years old elegant goth glamour woma
 
 ---
 
-## ?? III. ANA�S BELLAND � LUXURY OUTFITS (Prompts 46-65)
+## ?? III. ANAÏS BELLAND — LUXURY OUTFITS (Prompts 46-65)
 
-### Prompt: 46. Ana�s - French Pinup Lingerie
+### Prompt: 46. Anaïs - French Pinup Lingerie
 
 ```
 Professional vintage-style photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones accentuated by expert contouring. Honey blonde hair in polished Betty Page vintage waves. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing luxury lingerie: black sheer silk robe sliding off shoulders, intricate black lace merrywidow corset, sheer black stockings with seam, black PLEASER So Kate stilettos 12cm. Accessories: silver cigarette holder, diamond earrings. Expression: sultry bedroom eyes. Parisian boudoir. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 47. Ana�s - Opera Seductress
+### Prompt: 47. Anaïs - Opera Seductress
 
 ```
 Professional fashion editorial of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones accentuated by expert contouring. Honey blonde hair in elegant soft updo with loose curls. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing opera outfit: black velvet gown with EXTREME plunging neckline, black satin corset, black satin opera gloves. Accessories: diamond choker, opera binoculars. Black PLEASER So Kate stilettos 12cm. Expression: come-hither half-smile, Mona Lisa mystery. Private opera box. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 48. Ana�s - Gallery Muse
+### Prompt: 48. Anaïs - Gallery Muse
 
 ```
 Professional art photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones accentuated by expert contouring. Honey blonde hair in loose waves. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing gallery outfit: tight black pencil dress with sweetheart neckline, wide patent leather belt, sheer black pantyhose, black PLEASER So Kate stilettos 12cm. Accessories: black cat-eye glasses, champagne glass. Expression: sophisticated smirk, intelligent seductive stare. Art gallery. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 49. Ana�s - Parisian Caf� Owner
+### Prompt: 49. Anaïs - Parisian Café Owner
 
 ```
-Professional vintage street photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in soft waves under beret. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing cream silk blouse, black high-waisted pants, black corset belt. PLEASER So Kate stilettos 12cm. Standing outside Parisian caf�. Holding espresso cup. Expression: Mona Lisa smile, effortless French elegance. Morning light. Photorealistic 8k. Vertical portrait orientation.
+Professional vintage street photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in soft waves under beret. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing cream silk blouse, black high-waisted pants, black corset belt. PLEASER So Kate stilettos 12cm. Standing outside Parisian café. Holding espresso cup. Expression: Mona Lisa smile, effortless French elegance. Morning light. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 50. Ana�s - Wine Connoisseur
+### Prompt: 50. Anaïs - Wine Connoisseur
 
 ```
 Professional cellar photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair loose. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing burgundy silk wrap dress, black underbust corset. PLEASER So Kate stilettos 12cm. Holding wine glass, examining. Wine cellar with barrels. Expression: Betty Page playful pout, mischievous contemplation. Candlelight. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 51. Ana�s - Auction House
+### Prompt: 51. Anaïs - Auction House
 
 ```
 Professional photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in elegant chignon. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing black tailored suit jacket, black pencil skirt, visible black lace corset under jacket. PLEASER So Kate stilettos 12cm. Holding auction paddle. Expression: imperious sultry stare, aristocratic superiority. Luxury auction house. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 52. Ana�s - Psychiatrist Seduction
+### Prompt: 52. Anaïs - Psychiatrist Seduction
 
 ```
 Professional photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in professional chignon. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing tight gray pencil skirt, white silk blouse unbuttoned, visible black lace bra and corset. PLEASER So Kate stilettos 12cm. Holding notepad, leaning forward. Expression: sophisticated smirk over reading glasses, power and sensuality. Leather therapy chair visible. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 53. Ana�s - Executive Dominance
+### Prompt: 53. Anaïs - Executive Dominance
 
 ```
 Professional photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in power updo. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing power suit: black blazer over black corset, tight black skirt, black stockings. PLEASER So Kate stilettos 12cm. Seated behind massive desk, legs crossed. Expression: imperious sultry stare, I own you. Corner office with city view. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 54. Ana�s - New Year's Eve
+### Prompt: 54. Anaïs - New Year's Eve
 
 ```
 Professional new years photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in glamorous updo. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing gold sequin gown with deep v-neck, black corset visible, gold opera gloves. Black PLEASER So Kate stilettos 12cm. Holding champagne, confetti falling. Expression: victorious sultry smile. Midnight celebration. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 55. Ana�s - Venetian Masquerade
+### Prompt: 55. Anaïs - Venetian Masquerade
 
 ```
 Professional masquerade photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in elaborate style. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing black and gold masquerade gown, black corset with gold details. Black PLEASER So Kate stilettos 12cm. Holding ornate black and gold mask. Expression: mysterious seductive stare. Venetian palazzo. Candlelit. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 56. Ana�s - Casino Royale
+### Prompt: 56. Anaïs - Casino Royale
 
 ```
 Professional casino photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in sleek waves. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing red silk gown with high slit, black corset visible, diamond jewelry. Black PLEASER So Kate stilettos 12cm. At poker table holding cards. Expression: poker face with knowing smirk. Casino atmosphere. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 57. Ana�s - Equestrian Elite
+### Prompt: 57. Anaïs - Equestrian Elite
 
 ```
 Professional equestrian photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in low ponytail. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes. Wearing riding outfit: cream jodhpurs, black riding jacket, black corset vest, riding boots with heel. Holding riding crop. Expression: imperious aristocratic stare. Stable with horse visible. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 58. Ana�s - Yacht Mistress
+### Prompt: 58. Anaïs - Yacht Mistress
 
 ```
 Professional yacht photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair windswept. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing white designer bikini, sheer white cover-up, gold jewelry. Gold wedge heels. Lounging on yacht deck. Expression: rich woman's satisfied stare. Mediterranean sea background. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 59. Ana�s - Riviera Sunset
+### Prompt: 59. Anaïs - Riviera Sunset
 
 ```
 Professional beach photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in beachy waves. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing elegant one-piece swimsuit black with gold details. Gold strappy heels. Standing on French Riviera beach. Expression: sultry satisfied stare. Sunset with yacht in distance. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 60. Ana�s - Art Collector
+### Prompt: 60. Anaïs - Art Collector
 
 ```
 Professional photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in loose waves. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing cream turtleneck, black pencil skirt, black corset belt. Black PLEASER So Kate stilettos 12cm. Examining painting in private gallery. Expression: sophisticated contemplation. Luxury gallery. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 61. Ana�s - Champagne Bath
+### Prompt: 61. Anaïs - Champagne Bath
 
 ```
 Professional boudoir photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair piled elegantly. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing nothing visible, champagne bubbles covering body. In marble bathtub filled with champagne. Holding champagne glass. Expression: luxurious satisfied smile. Parisian bathroom. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 62. Ana�s - Library Seduction
+### Prompt: 62. Anaïs - Library Seduction
 
 ```
 Professional photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in soft waves. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing silk robe open over black lace corset lingerie set. Black PLEASER So Kate stilettos 12cm. Reclining on leather chesterfield. Expression: come-hither invitation. Private library with fireplace. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 63. Ana�s - Power Breakfast
+### Prompt: 63. Anaïs - Power Breakfast
 
 ```
 Professional photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in professional waves. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing white silk blouse, black pencil skirt, visible black corset belt. Black PLEASER So Kate stilettos 12cm. Seated at breakfast table with newspaper. Expression: morning superiority. Luxury hotel suite. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 64. Ana�s - Dominatrix Elegant
+### Prompt: 64. Anaïs - Dominatrix Elegant
 
 ```
 Professional dungeon photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair in sleek updo. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing black leather corset, black leather pencil skirt, black leather gloves. Black PLEASER So Kate stilettos 12cm. Holding elegant riding crop. Expression: commanding aristocratic dominance. Elegant dungeon. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 65. Ana�s - Silk Sheets
+### Prompt: 65. Anaïs - Silk Sheets
 
 ```
 Professional boudoir photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Angular sculpted face with high cheekbones. Honey blonde hair spread on pillow. HEAVY GLAMOUR MAKEUP with sophisticated bronze smokey eyes and masterfully overlined full sculpted glossy RED lips. Wearing black silk slip dress with lace trim. Reclining on white silk sheets. Expression: morning sensual invitation. Luxury Parisian bedroom. Golden morning light. Photorealistic 8k. Vertical portrait orientation.
@@ -495,40 +495,40 @@ Professional boudoir photography of TWO glamorous women together on bed. HELENA:
 Professional stage photography of TWO glamorous women pole dancing together. HELENA: voluminous jet black hair, black bikini, black PLEASER boots 9-inch, spinning on pole. MISS DOLL: platinum blonde bob WITHOUT bangs, pink bikini, pink PLEASER heels 18cm, matching pose on adjacent pole. Expression: synchronized seduction. Dark stage with colorful lights. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 75. Ana�s and Miss Doll - Creator and Creation
+### Prompt: 75. Anaïs and Miss Doll - Creator and Creation
 
 ```
-Professional fashion photography of TWO women together. ANA�S: honey blonde hair, Kylie Minogue features, black corset gown, PLEASER So Kate 12cm, standing dominant. MISS DOLL: platinum blonde bob WITHOUT bangs, pink latex, adoring vacant stare up at Ana�s. Ana�s holding Miss Doll's chin. Expression: proud creator. Luxury Parisian salon. Photorealistic 8k. Vertical portrait orientation.
+Professional fashion photography of TWO women together. ANAÏS: honey blonde hair, Kylie Minogue features, black corset gown, PLEASER So Kate 12cm, standing dominant. MISS DOLL: platinum blonde bob WITHOUT bangs, pink latex, adoring vacant stare up at Anaïs. Anaïs holding Miss Doll's chin. Expression: proud creator. Luxury Parisian salon. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 76. Ana�s and Helena - Mistress and Maid
+### Prompt: 76. Anaïs and Helena - Mistress and Maid
 
 ```
-Professional boudoir photography of TWO women together. ANA�S: honey blonde hair, Kylie Minogue features, black silk robe, black corset, PLEASER So Kate 12cm, reclining on chaise lounge. HELENA: voluminous jet black hair, pale, black maid corset, PLEASER stilettos 9-inch, kneeling serving wine. Expression: imperious and submissive. Parisian boudoir. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of TWO women together. ANAÏS: honey blonde hair, Kylie Minogue features, black silk robe, black corset, PLEASER So Kate 12cm, reclining on chaise lounge. HELENA: voluminous jet black hair, pale, black maid corset, PLEASER stilettos 9-inch, kneeling serving wine. Expression: imperious and submissive. Parisian boudoir. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 77. Ana�s and Helena - Vampire Queen and Thrall
+### Prompt: 77. Anaïs and Helena - Vampire Queen and Thrall
 
 ```
-Professional fantasy photography of TWO women together. ANA�S: honey blonde hair with crown, regal black gown, fangs visible, seated on throne. HELENA: voluminous jet black hair, pale skin, black corset, bite marks on neck, kneeling devoted at feet. Expression: ancient vampire royalty. Gothic castle throne room. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy photography of TWO women together. ANAÏS: honey blonde hair with crown, regal black gown, fangs visible, seated on throne. HELENA: voluminous jet black hair, pale skin, black corset, bite marks on neck, kneeling devoted at feet. Expression: ancient vampire royalty. Gothic castle throne room. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt: 78. The Trinity - All Three
 
 ```
-Professional fashion editorial of THREE women together in pyramid formation. ANA�S: honey blonde, black gown, center, dominant, seated on throne. MISS DOLL: pink latex, left, vacant smile, kneeling. HELENA: voluminous black, gothic, right, devoted stare, kneeling. Both dolls at Ana�s's feet. Half pink half black lighting with golden center. Luxury dungeon. Photorealistic 8k. Vertical portrait orientation.
+Professional fashion editorial of THREE women together in pyramid formation. ANAÏS: honey blonde, black gown, center, dominant, seated on throne. MISS DOLL: pink latex, left, vacant smile, kneeling. HELENA: voluminous black, gothic, right, devoted stare, kneeling. Both dolls at Anaïs's feet. Half pink half black lighting with golden center. Luxury dungeon. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt: 79. The Trinity - Fashion Show
 
 ```
-Professional runway photography of THREE women together walking. ANA�S: honey blonde, black couture gown, center leading. MISS DOLL: platinum blonde, pink latex gown, left. HELENA: jet black hair, black velvet gown, right. All synchronized walk. Expression: runway power. Fashion week show. Photorealistic 8k. Vertical portrait orientation.
+Professional runway photography of THREE women together walking. ANAÏS: honey blonde, black couture gown, center leading. MISS DOLL: platinum blonde, pink latex gown, left. HELENA: jet black hair, black velvet gown, right. All synchronized walk. Expression: runway power. Fashion week show. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt: 80. The Trinity - Champagne Toast
 
 ```
-Professional celebration photography of THREE women together. ANA�S: honey blonde, gold gown, raising champagne. MISS DOLL: platinum blonde, pink gown. HELENA: jet black hair, black gown. All clinking glasses, confetti falling. Expression: victorious celebration. Luxury penthouse. Photorealistic 8k. Vertical portrait orientation.
+Professional celebration photography of THREE women together. ANAÏS: honey blonde, gold gown, raising champagne. MISS DOLL: platinum blonde, pink gown. HELENA: jet black hair, black gown. All clinking glasses, confetti falling. Expression: victorious celebration. Luxury penthouse. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt: 81. Helena and Miss Doll - Beach Sunset
@@ -583,7 +583,7 @@ Professional vintage photography of woman 27+ years old glamorous with platinum 
 Professional retro photography of woman 23+ years old elegant goth glamour woman woman 23+ years old inspired by Sacha Massacre. Voluminous jet black teased 80s hair. Pale skin. PURPLE LIPS. Wearing 80s goth outfit: black lace dress, fingerless gloves, multiple chains, black underbust corset. Black PLEASER boots 9-inch. Expression: cool 80s attitude. Neon lights background. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt: 89. Ana�s - 70s Disco Diva
+### Prompt: 89. Anaïs - 70s Disco Diva
 
 ```
 Professional retro photography of powerful aristocratic woman in her 40s with Kylie Minogue facial structure. Honey blonde hair in 70s Farrah Fawcett waves. HEAVY GLAMOUR MAKEUP. Wearing gold sequin jumpsuit with plunging neckline, gold corset belt. Gold platform heels. Disco ball lighting. Expression: confident disco queen. 70s dance floor. Photorealistic 8k. Vertical portrait orientation.
@@ -657,8 +657,8 @@ Professional artistic photography of TWO glamorous women together in ultimate co
 
 ---
 
-*Helena de Ana�s* ??
-*La Vo�te d'Ana�s � V01 Base & Canon Visual (100 Prompts COMPLETE)*
+*Helena de Anaïs* ??
+*La Voûte d'Anaïs — V01 Base & Canon Visual (100 Prompts COMPLETE)*
 *Actualizado: 2026-01-09*
 
 

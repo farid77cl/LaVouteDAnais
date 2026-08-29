@@ -1,4 +1,4 @@
-﻿# 👄 Banco de Prompts V23: VINTAGE PIN-UP EDITION
+# 👄 Banco de Prompts V23: VINTAGE PIN-UP EDITION
 
 > **ENFOQUE:** Estética retro años 50-60, pin-up clásico, rockabilly, Bettie Page vibes.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

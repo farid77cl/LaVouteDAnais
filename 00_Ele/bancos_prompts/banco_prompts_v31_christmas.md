@@ -1,16 +1,16 @@
-﻿# ?? Banco de Prompts V31: CHRISTMAS & HOLIDAYS EDITION
+# ?? Banco de Prompts V31: CHRISTMAS & HOLIDAYS EDITION
 
-> **ENFOQUE:** Santa sexy, elfa, regalos, nieve, rojo/blanco, esp�ritu navide�o sensual.
+> **ENFOQUE:** Santa sexy, elfa, regalos, nieve, rojo/blanco, espíritu navideño sensual.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **?? COLOR FREEDOM:** Helena (Black, Red, Silver). Miss Doll (Pink, Red, Gold, White).
 > **Total:** 50 prompts | **Actualizado:** 2026-01-02
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. MISS DOLL � PINK CHRISTMAS (20 PROMPTS)
+## ?? I. MISS DOLL — PINK CHRISTMAS (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Sexy Santa Pink
 
@@ -184,7 +184,7 @@ Professional Mrs. Claus photography of woman 27+ years old glamorous with platin
 
 ---
 
-## ?? II. HELENA � DARK CHRISTMAS (15 PROMPTS)
+## ?? II. HELENA — DARK CHRISTMAS (15 PROMPTS)
 
 ### Prompt 80: 21. Helena - Krampus Bride
 
@@ -278,7 +278,7 @@ Professional frozen photography of young elegant goth glamour woman woman 23+ ye
 
 ---
 
-## ?? III. DUO � HOLIDAY PAIRS (15 PROMPTS)
+## ?? III. DUO — HOLIDAY PAIRS (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Under Mistletoe
 
@@ -307,7 +307,7 @@ Professional caroling duo photography. HELENA: Sacha Massacre look in black Vict
 ### Prompt 61: 40. Duo - Ski Lodge Fire
 
 ```
-Professional lodge duo photography. HELENA: Sacha Massacre look in black ski sweater, by fire, hot cocoa, black boots removed. MISS DOLL: platinum blonde in pink ski sweater, HEAVY GLAMOUR MAKEUP, by fire leaning on Helena, pink boots removed. Ski lodge fireplace. Apr�s-ski cozy. Sensual cozy pose. Expression: warm up time. Lodge duo. Seductive glamour photography, fireplace lodge lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lodge duo photography. HELENA: Sacha Massacre look in black ski sweater, by fire, hot cocoa, black boots removed. MISS DOLL: platinum blonde in pink ski sweater, HEAVY GLAMOUR MAKEUP, by fire leaning on Helena, pink boots removed. Ski lodge fireplace. Après-ski cozy. Sensual cozy pose. Expression: warm up time. Lodge duo. Seductive glamour photography, fireplace lodge lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 60: 41. Duo - Gift Exchange
@@ -372,7 +372,7 @@ Professional ball duo photography. HELENA: Sacha Massacre look in BLACK Christma
 
 ---
 
-## ?? IV. MISS DOLL � PINK CHRISTMAS SENSUAL (15 PROMPTS)
+## ?? IV. MISS DOLL — PINK CHRISTMAS SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Miss Doll - Pink Stocking Emerge
 
@@ -466,7 +466,7 @@ Professional cozy photography of woman 27+ years old glamorous with platinum blo
 
 ---
 
-## ?? V. HELENA � DARK CHRISTMAS SENSUAL (15 PROMPTS)
+## ?? V. HELENA — DARK CHRISTMAS SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Helena - Gothic Yule
 
@@ -560,7 +560,7 @@ Professional cemetery photography of young elegant goth glamour woman woman 23+ 
 
 ---
 
-## ?? VI. DUO � HOLIDAY SENSUAL (20 PROMPTS)
+## ?? VI. DUO — HOLIDAY SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Present Unwrapping
 
@@ -684,8 +684,8 @@ Professional midnight duo photography. HELENA: Sacha Massacre look about to kiss
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V31 Christmas & Holidays Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V31 Christmas & Holidays Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

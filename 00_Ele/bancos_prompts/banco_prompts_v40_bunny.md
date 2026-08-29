@@ -1,4 +1,4 @@
-﻿# 🐰 Banco de Prompts V40: MISS DOLL PLAYBOY BUNNY EDITION
+# 🐰 Banco de Prompts V40: MISS DOLL PLAYBOY BUNNY EDITION
 
 > **ENFOQUE:** Miss Doll con outfit Playboy Bunny en diferentes situaciones, escenarios y variaciones de color/material.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

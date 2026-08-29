@@ -1,16 +1,16 @@
-﻿# ?? Banco de Prompts V28: ASIAN INSPIRED EDITION
+# ?? Banco de Prompts V28: ASIAN INSPIRED EDITION
 
-> **ENFOQUE:** Qipao, kimono moderno, geisha g�tica, dragones, estilo asi�tico.
+> **ENFOQUE:** Qipao, kimono moderno, geisha gótica, dragones, estilo asiático.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **?? COLOR FREEDOM:** Helena (Black, Red, Gold). Miss Doll (Pink, Cherry Blossom, White).
 > **Total:** 50 prompts | **Actualizado:** 2026-01-02
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -24,7 +24,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -34,7 +34,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -60,7 +60,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � DARK ASIAN (20 PROMPTS)
+## ?? I. HELENA — DARK ASIAN (20 PROMPTS)
 
 ### Prompt 100: 1. Helena - Gothic Geisha
 
@@ -184,7 +184,7 @@ Professional opium den photography of young elegant goth glamour woman woman 23+
 
 ---
 
-## ?? II. MISS DOLL � PINK ASIAN (15 PROMPTS)
+## ?? II. MISS DOLL — PINK ASIAN (15 PROMPTS)
 
 ### Prompt 80: 21. Miss Doll - Cherry Blossom Princess
 
@@ -278,7 +278,7 @@ Professional maiko photography of woman 27+ years old glamorous with platinum bl
 
 ---
 
-## ?? III. DUO � ASIAN PAIRS (15 PROMPTS)
+## ?? III. DUO — ASIAN PAIRS (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Geisha and Oiran
 
@@ -372,7 +372,7 @@ Professional shrine duo photography. HELENA: Sacha Massacre look as DARK miko pr
 
 ---
 
-## ?? IV. HELENA � DARK ASIAN SENSUAL (15 PROMPTS)
+## ?? IV. HELENA — DARK ASIAN SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Helena - Sukeban Gang Leader
 
@@ -466,7 +466,7 @@ Professional yokai photography of young elegant goth glamour woman woman 23+ yea
 
 ---
 
-## ?? V. MISS DOLL � PINK ASIAN SENSUAL (15 PROMPTS)
+## ?? V. MISS DOLL — PINK ASIAN SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Miss Doll - Pink Idol Dream
 
@@ -560,7 +560,7 @@ Professional school photography of woman 27+ years old glamorous with platinum b
 
 ---
 
-## ?? VI. DUO � ASIAN SENSUAL (20 PROMPTS)
+## ?? VI. DUO — ASIAN SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Japanese Horror Movie
 
@@ -684,8 +684,8 @@ Professional zen duo photography. HELENA: Sacha Massacre look in meditation pose
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V28 Asian Inspired Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V28 Asian Inspired Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*

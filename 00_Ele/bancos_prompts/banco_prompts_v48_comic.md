@@ -1,4 +1,4 @@
-﻿# 🎨 Banco de Prompts V48: ARTISTIC & GRAPHIC STYLES (VOL. 1)
+# 🎨 Banco de Prompts V48: ARTISTIC & GRAPHIC STYLES (VOL. 1)
 
 > **USO:** Copiar el texto del prompt directamente. CADA PROMPT ES AUTO-CONTENIDO Y CANÓNICO.
 > **Total:** 100 Prompts (Completo) | **Actualizado:** 2026-01-12

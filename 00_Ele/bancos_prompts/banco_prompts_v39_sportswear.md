@@ -1,4 +1,4 @@
-﻿# 👟 Banco de Prompts V39: SPORTSWEAR BRAND EDITION
+# 👟 Banco de Prompts V39: SPORTSWEAR BRAND EDITION
 
 > **ENFOQUE:** Outfits de marcas deportivas (Nike, Adidas, Puma, Reebok, Under Armour, Fila, Champion) pero con estética glamurosa y sensual, NO deportes reales.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.

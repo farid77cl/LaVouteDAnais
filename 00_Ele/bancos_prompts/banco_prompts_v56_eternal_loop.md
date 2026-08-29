@@ -1,4 +1,4 @@
-﻿# 🖤 BANCO DE PROMPTS V56 - THE ETERNAL LOOP (EXTREME CANON - Standard v38)
+# 🖤 BANCO DE PROMPTS V56 - THE ETERNAL LOOP (EXTREME CANON - Standard v38)
 
 > **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.
 > **Estado:** Optimizado v2.0 (Sensuality Protocol)

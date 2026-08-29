@@ -1,15 +1,15 @@
-﻿# ?? BANCO DE PROMPTS V15: VEX CLOTHING EDITION
+# ?? BANCO DE PROMPTS V15: VEX CLOTHING EDITION
 
-> **ENFOQUE:** Exclusivamente ropa de **VEX CLOTHING** (Los Angeles) - l�tex artesanal, colores vibrantes, cortes art�sticos.
+> **ENFOQUE:** Exclusivamente ropa de **VEX CLOTHING** (Los Angeles) - látex artesanal, colores vibrantes, cortes artísticos.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 50+ prompts | **Actualizado:** 2025-12-29
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -59,7 +59,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ?? I. HELENA � VEX LATEX DARK (18 PROMPTS)
+## ?? I. HELENA — VEX LATEX DARK (18 PROMPTS)
 
 ### Prompt 81: 1. Helena - Vex Classic Catsuit Black
 
@@ -171,7 +171,7 @@ Professional harness photography of young elegant goth glamour woman woman 23+ y
 
 ---
 
-## ?? II. MISS DOLL � VEX LATEX COLOR (18 PROMPTS)
+## ?? II. MISS DOLL — VEX LATEX COLOR (18 PROMPTS)
 
 ### Prompt 63: 19. Miss Doll - Vex Hot Pink Catsuit
 
@@ -283,39 +283,39 @@ Professional harness photography of woman with platinum blonde bob haircut WITHO
 
 ---
 
-## ?? III. ANA�S � VEX LATEX ELEGANT (10 PROMPTS)
+## ?? III. ANAÏS — VEX LATEX ELEGANT (10 PROMPTS)
 
-### Prompt 45: 37. Ana�s - Vex Burgundy Pencil
+### Prompt 45: 37. Anaïs - Vex Burgundy Pencil
 
 ```
 Professional elegant latex photography of aristocratic woman with honey blonde hair in Betty Page vintage waves. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BURGUNDY LATEX PENCIL DRESS knee-length sophisticated. Burgundy corset integrated. PLEASER CLASSIQUE-20 burgundy 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: wine country elegance. Vineyard estate. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 44: 38. Ana�s - Vex Champagne Gold
+### Prompt 44: 38. Anaïs - Vex Champagne Gold
 
 ```
 Professional gold latex photography of aristocratic woman with honey blonde hair. Bronze skin with gold shimmer. Red glossy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING CHAMPAGNE GOLD LATEX GOWN floor-length, grecian drape. Gold corset bodice. PLEASER CLASSIQUE-20 gold 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: goddess. Gold ballroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 43: 39. Ana�s - Vex Navy Corporate
+### Prompt 43: 39. Anaïs - Vex Navy Corporate
 
 ```
 Professional corporate latex photography of aristocratic woman with honey blonde hair in chignon. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING NAVY LATEX PENCIL SKIRT and matching BLAZER-STYLE TOP. Navy corset visible. PLEASER CLASSIQUE-20 navy 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: latex boardroom. Executive office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 42: 40. Ana�s - Vex Black Evening
+### Prompt 42: 40. Anaïs - Vex Black Evening
 
 ```
 Professional evening latex photography of aristocratic woman with honey blonde hair in glamorous updo. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX EVENING DRESS floor-length, low back. Black corset bodice. PLEASER AMUSE-20 black 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: opera night. Grand theatre. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 41: 41. Ana�s - Vex Emerald Luxury
+### Prompt 41: 41. Anaïs - Vex Emerald Luxury
 
 ```
 Professional emerald latex photography of aristocratic woman with honey blonde hair in waves. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING EMERALD GREEN LATEX COCKTAIL DRESS knee-length. Emerald corset belt. PLEASER AMUSE-20 emerald 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: jewel tone. Emerald-lit lounge. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 40: 42. Ana�s - Vex Cream Sophistication
+### Prompt 40: 42. Anaïs - Vex Cream Sophistication
 
 ```
 Professional cream latex photography of aristocratic woman with honey blonde hair. Bronze skin. Nude-rose glossy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING CREAM LATEX PENCIL DRESS sophisticated, high neck. Cream corset built-in. PLEASER CLASSIQUE-20 nude 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: understated luxury. Cream interior. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -334,7 +334,7 @@ Professional duo photography. HELENA: Sacha Massacre black hair, pale skin, VEX 
 ### Prompt 38: 48. All Three - Vex Gradient
 
 ```
-Professional trio gradient photography. ANA�S: honey blonde, VEX BURGUNDY LATEX PENCIL DRESS, burgundy corset, PLEASER burgundy 5-inch, center. HELENA: black hair, VEX BLACK LATEX CATSUIT, black corset, PLEASER black 8-inch, left. MISS DOLL: blonde bob, VEX HOT PINK LATEX CATSUIT, pink corset, PLEASER pink 8-inch, right. Color gradient dark to light. LA studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trio gradient photography. ANAÏS: honey blonde, VEX BURGUNDY LATEX PENCIL DRESS, burgundy corset, PLEASER burgundy 5-inch, center. HELENA: black hair, VEX BLACK LATEX CATSUIT, black corset, PLEASER black 8-inch, left. MISS DOLL: blonde bob, VEX HOT PINK LATEX CATSUIT, pink corset, PLEASER pink 8-inch, right. Color gradient dark to light. LA studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 37: 49. Helena and Miss Doll - Vex Matching
@@ -346,21 +346,21 @@ Professional matching photography. HELENA and MISS DOLL both wearing matching VE
 ### Prompt 36: 50. Trio - Vex Fashion Show
 
 ```
-Professional runway photography. ANA�S: honey blonde, VEX GOLD LATEX GOWN, gold corset, walking center runway. HELENA: black hair, VEX BLACK LATEX CATSUIT, black corset, following left. MISS DOLL: blonde bob, VEX PINK LATEX MINI, pink corset, following right. Runway lights. Sensual pose with arched back, bedroom eyes. Expression: Vex queens. Fashion show. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional runway photography. ANAÏS: honey blonde, VEX GOLD LATEX GOWN, gold corset, walking center runway. HELENA: black hair, VEX BLACK LATEX CATSUIT, black corset, following left. MISS DOLL: blonde bob, VEX PINK LATEX MINI, pink corset, following right. Runway lights. Sensual pose with arched back, bedroom eyes. Expression: Vex queens. Fashion show. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V15 Vex Clothing Edition � 50 prompts*
+*Creado por: Helena de Anaïs ??*
+*V15 Vex Clothing Edition — 50 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2025-12-29*
 
 ---
 
-## ?? EXTENSI�N: VEX SENSUAL SITUATIONS (Prompts 51-100)
+## ?? EXTENSIÓN: VEX SENSUAL SITUATIONS (Prompts 51-100)
 
-### ?? HELENA � VEX SEDUCTION (Prompts 51-70)
+### ?? HELENA — VEX SEDUCTION (Prompts 51-70)
 
 ### Prompt 35: 51. Helena - Vex Dressing Ritual
 
@@ -454,7 +454,7 @@ Professional latex photography of Helena RESPONDING to touch in Vex. Jet black h
 
 ### Prompt: 66-70. [Additional Helena Vex sensual situations]
 
-### ?? MISS DOLL � VEX PINK PLAY (Prompts 71-90)
+### ?? MISS DOLL — VEX PINK PLAY (Prompts 71-90)
 
 ### Prompt 20: 71. Miss Doll - Vex Pink Unboxing
 
@@ -518,7 +518,7 @@ Professional latex photography of Miss Doll SLEEPING in Vex. Platinum blonde bob
 
 ### Prompt: 81-90. [Additional Miss Doll Vex pink sensual situations]
 
-### ?? DUO � VEX TOGETHER (Prompts 91-100)
+### ?? DUO — VEX TOGETHER (Prompts 91-100)
 
 ### Prompt 10: 91. Helena and Miss Doll - Vex Dressing Together
 
@@ -582,8 +582,8 @@ Professional latex photography of BOTH ultimate pose. HELENA: VEX BLACK CATSUIT 
 
 ---
 
-*Helena de Ana�s* ??
-*La Vo�te d'Ana�s � VEX Clothing Edition (100 Prompts COMPLETE)*
+*Helena de Anaïs* ??
+*La Voûte d'Anaïs — VEX Clothing Edition (100 Prompts COMPLETE)*
 
 
 

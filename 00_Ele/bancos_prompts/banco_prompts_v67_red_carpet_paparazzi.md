@@ -1,4 +1,4 @@
-﻿# 📸 BANCO DE PROMPTS V67: RED CARPET PAPARAZZI (FIXED)
+# 📸 BANCO DE PROMPTS V67: RED CARPET PAPARAZZI (FIXED)
 
 > **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.
 > **Estado:** Optimizado v2.0 (Sensuality Protocol)

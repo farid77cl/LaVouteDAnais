@@ -1,15 +1,15 @@
-﻿# ?? BANCO DE PROMPTS V10: BDSM DUNGEON EDITION
+# ?? BANCO DE PROMPTS V10: BDSM DUNGEON EDITION
 
-> **ENFOQUE:** Escenas de dominaci�n, sumisi�n, bondage, discipline, y fetish en entornos de dungeon.
+> **ENFOQUE:** Escenas de dominación, sumisión, bondage, discipline, y fetish en entornos de dungeon.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 50+ prompts | **Actualizado:** 2025-12-29
 
 ---
 
-## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
 ### ?? MISS DOLL (BASE)
 
@@ -23,7 +23,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
-### ?? HELENA DE ANA�S (BASE)
+### ?? HELENA DE ANAÏS (BASE)
 
 ```
 Young woman 23+ years old elegant goth glamour woman (Sacha Massacre visual reference),
@@ -33,7 +33,7 @@ ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```
 
-### ?? ANA�S BELLAND (BASE)
+### ?? ANAÏS BELLAND (BASE)
 
 ```
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -247,63 +247,63 @@ Professional aftercare photography of woman with platinum blonde bob haircut WIT
 
 ---
 
-## ?? III. ANA�S COMO DOMME ELEGANTE (10 PROMPTS)
+## ?? III. ANAÏS COMO DOMME ELEGANTE (10 PROMPTS)
 
-### Prompt 92: 31. Ana�s - Wine and Whip
+### Prompt 92: 31. Anaïs - Wine and Whip
 
 ```
 Professional elegant domme photography of aristocratic woman with honey blonde hair in soft voluminous vintage Betty Page waves. Bronze skin with warm glow. Red glossy lips. Sultry confident expression. Feminine hourglass silhouette. Wearing burgundy silk corset. Black leather pants. PLEASER AMUSE-20 black patent 5-inch So Kate stiletto heel. Seated in leather chair, wine glass in one hand, riding crop in other. Sensual pose with arched back, bedroom eyes. Expression: deciding your fate. Luxury dungeon with fireplace. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 91: 32. Ana�s - Silk Bondage
+### Prompt 91: 32. Anaïs - Silk Bondage
 
 ```
 Professional silk bondage photography of aristocratic woman with honey blonde hair in elegant updo. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing black silk corset with gold trim. Black silk pencil skirt. PLEASER CLASSIQUE-20 black patent 5-inch heel. Holding black silk scarves, preparing to bind. Sensual pose with arched back, bedroom eyes. Expression: artful restraint. Luxury French bedroom dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 90: 33. Ana�s - Crop Discipline
+### Prompt 90: 33. Anaïs - Crop Discipline
 
 ```
 Professional discipline photography of aristocratic woman with honey blonde hair flowing. Bronze skin. Deep red glossy lips. Feminine hourglass silhouette. Wearing black leather underbust corset. Black lace blouse. PLEASER AMUSE-20 black 5-inch heel. Holding leather riding crop, tapping palm. Sensual pose with arched back, bedroom eyes. Expression: you need correction. Luxury study with leather furniture. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 89: 34. Ana�s - Inspection
+### Prompt 89: 34. Anaïs - Inspection
 
 ```
 Professional inspection photography of aristocratic woman with honey blonde hair in chignon. Bronze skin. Red glossy lips in hard line. Feminine hourglass silhouette. Wearing navy power corset. Navy pencil skirt. PLEASER CLASSIQUE-20 navy 5-inch heel. Circling unseen submissive (implied by looking down), evaluating. Sensual pose with arched back, bedroom eyes. Expression: not good enough. Luxury office dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 88: 35. Ana�s - Champagne Reward
+### Prompt 88: 35. Anaïs - Champagne Reward
 
 ```
 Professional reward photography of aristocratic woman with honey blonde hair in waves. Bronze skin. Red glossy lips in slight smile. Feminine hourglass silhouette. Wearing champagne silk corset. Gold satin pants. PLEASER CLASSIQUE-20 gold 5-inch heel. Offering champagne glass to kneeling submissive (hand visible receiving). Sensual pose with arched back, bedroom eyes. Expression: you've earned this. Luxury champagne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 87: 36. Ana�s - Verbal Command
+### Prompt 87: 36. Anaïs - Verbal Command
 
 ```
 Professional command photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips open giving order. Feminine hourglass silhouette. Wearing black overbust corset elegant. Black leather gloves. PLEASER AMUSE-20 black 5-inch heel. One finger pointing down commanding. Sensual pose with arched back, bedroom eyes. Expression: kneel now. Luxury dungeon with Persian rugs. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 86: 37. Ana�s - Key Holder
+### Prompt 86: 37. Anaïs - Key Holder
 
 ```
 Professional chastity photography of aristocratic woman with honey blonde hair in Betty Page waves. Bronze skin. Red glossy lips in knowing smile. Feminine hourglass silhouette. Wearing burgundy corset. Black silk robe open. PLEASER CLASSIQUE-20 burgundy 5-inch heel. Holding small silver key between fingers. Sensual pose with arched back, bedroom eyes. Expression: you won't be needing this. Luxury boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 85: 38. Ana�s - Foot Stool
+### Prompt 85: 38. Anaïs - Foot Stool
 
 ```
 Professional human furniture photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing black elegant corset dress. PLEASER AMUSE-20 black 5-inch heel resting on unseen back (human footstool implied). Reading book casually. Sensual pose with arched back, bedroom eyes. Expression: comfortable. Luxury study. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 84: 39. Ana�s - Collar Ceremony
+### Prompt 84: 39. Anaïs - Collar Ceremony
 
 ```
 Professional collaring photography of aristocratic woman with honey blonde hair in elegant style. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing white elegant corset. Pearl jewelry. PLEASER CLASSIQUE-20 nude 5-inch heel. Holding ornate leather collar open, about to place on kneeling recipient. Sensual pose with arched back, bedroom eyes. Expression: you are mine now. Ceremony room with candles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 83: 40. Ana�s - Dual Control
+### Prompt 83: 40. Anaïs - Dual Control
 
 ```
 Professional control photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips in satisfied smile. Feminine hourglass silhouette. Wearing black elegant corset. Black flowing pants. PLEASER AMUSE-20 black 5-inch heel. Holding two leashes in one hand leading to two unseen submissives. Sensual pose with arched back, bedroom eyes. Expression: my collection. Luxury dungeon hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -319,16 +319,16 @@ Professional control photography of aristocratic woman with honey blonde hair. B
 Professional duo BDSM photography. HELENA: Sacha Massacre reference, voluminous black hair, pale skin, black lips, wearing black leather corset, black latex pants, PLEASER RAPTURE-1020 black 8-inch boots, standing dominantly holding pink leash. MISS DOLL: platinum blonde bob straight bangs, porcelain skin, pink lips, dramatic smokey eyes, wearing pink latex catsuit, pink collar attached to leash, PLEASER FLAMINGO-808 pink 8-inch heel, kneeling at Helena's feet. Sensual pose with arched back, bedroom eyes. Expression: predator and pet. Dark and pink split dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 81: 42. Ana�s Watching Helena Train Miss Doll
+### Prompt 81: 42. Anaïs Watching Helena Train Miss Doll
 
 ```
-Professional trio photography. ANA�S: honey blonde waves, bronze skin, red lips, wearing burgundy silk corset, holding wine, PLEASER AMUSE-20 burgundy 5-inch heel, seated observing. HELENA: black hair, pale skin, black corset, holding crop over MISS DOLL. MISS DOLL: blonde bob, pink latex, kneeling, pink platforms. Sensual pose with arched back, bedroom eyes. Expression: observer, trainer, trainee. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trio photography. ANAÏS: honey blonde waves, bronze skin, red lips, wearing burgundy silk corset, holding wine, PLEASER AMUSE-20 burgundy 5-inch heel, seated observing. HELENA: black hair, pale skin, black corset, holding crop over MISS DOLL. MISS DOLL: blonde bob, pink latex, kneeling, pink platforms. Sensual pose with arched back, bedroom eyes. Expression: observer, trainer, trainee. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 80: 43. Helena and Miss Doll Both Serving Ana�s
+### Prompt 80: 43. Helena and Miss Doll Both Serving Anaïs
 
 ```
-Professional hierarchy photography. ANA�S: honey blonde updo, bronze skin, red lips, golden corset, seated on throne, PLEASER gold 5-inch heel on footstool. HELENA: black hair, pale skin, black corset, kneeling left offering wine. MISS DOLL: blonde bob, pink latex, pink corset, kneeling right offering grapes. Both PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: queen and her servants. Luxury throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hierarchy photography. ANAÏS: honey blonde updo, bronze skin, red lips, golden corset, seated on throne, PLEASER gold 5-inch heel on footstool. HELENA: black hair, pale skin, black corset, kneeling left offering wine. MISS DOLL: blonde bob, pink latex, pink corset, kneeling right offering grapes. Both PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: queen and her servants. Luxury throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 79: 44. Helena and Miss Doll Mirror Bondage
@@ -346,25 +346,25 @@ Professional training photography. HELENA: Sacha Massacre black hair, pale skin,
 ### Prompt 77: 46. Trio - The Hierarchy Chain
 
 ```
-Professional chain of command photography. ANA�S: honey blonde, bronze, throne, gold corset, holding Helena's leash. HELENA: black hair, pale, black corset, intermediate position, holding Miss Doll's leash. MISS DOLL: blonde bob, pink latex, bottom of chain, kneeling. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: power cascade. Grand dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional chain of command photography. ANAÏS: honey blonde, bronze, throne, gold corset, holding Helena's leash. HELENA: black hair, pale, black corset, intermediate position, holding Miss Doll's leash. MISS DOLL: blonde bob, pink latex, bottom of chain, kneeling. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: power cascade. Grand dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 76: 47. Helena and Ana�s Co-Dominating
+### Prompt 76: 47. Helena and Anaïs Co-Dominating
 
 ```
-Professional co-domme photography. HELENA: black hair, pale skin, black leather corset, PLEASER black 8-inch boots, standing left with flogger. ANA�S: honey blonde, bronze, burgundy corset, PLEASER burgundy 5-inch, standing right with crop. Center: implied submissive (hands visible bound). Sensual pose with arched back, bedroom eyes. Expression: unified dominance. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional co-domme photography. HELENA: black hair, pale skin, black leather corset, PLEASER black 8-inch boots, standing left with flogger. ANAÏS: honey blonde, bronze, burgundy corset, PLEASER burgundy 5-inch, standing right with crop. Center: implied submissive (hands visible bound). Sensual pose with arched back, bedroom eyes. Expression: unified dominance. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 75: 48. Miss Doll Serving Both Dommes
 
 ```
-Professional service photography. MISS DOLL: blonde bob, pink latex maid dress, pink corset, PLEASER pink 8-inch, holding tray with two drinks. HELENA: seated left, black corset, taking glass. ANA�S: seated right, burgundy corset, waiting. Sensual pose with arched back, bedroom eyes. Expression: dutiful service. Split aesthetics dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional service photography. MISS DOLL: blonde bob, pink latex maid dress, pink corset, PLEASER pink 8-inch, holding tray with two drinks. HELENA: seated left, black corset, taking glass. ANAÏS: seated right, burgundy corset, waiting. Sensual pose with arched back, bedroom eyes. Expression: dutiful service. Split aesthetics dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 74: 49. All Three - Worship Circle
 
 ```
-Professional ritual photography. ANA�S: center elevated, honey blonde, gold corset, arms raised. HELENA: black hair, black corset, kneeling left in devotion. MISS DOLL: blonde bob, pink latex, kneeling right in devotion. Candles in circle around them. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: sacred hierarchy. Ritual dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ritual photography. ANAÏS: center elevated, honey blonde, gold corset, arms raised. HELENA: black hair, black corset, kneeling left in devotion. MISS DOLL: blonde bob, pink latex, kneeling right in devotion. Candles in circle around them. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: sacred hierarchy. Ritual dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 73: 50. All Three - End of Session
@@ -394,72 +394,72 @@ Professional aftercare photography of woman with platinum blonde bob haircut WIT
 
 ---
 
-## ?? III. ANA�S COMO DOMME ELEGANTE (10 PROMPTS)
+## ?? III. ANAÏS COMO DOMME ELEGANTE (10 PROMPTS)
 
-### Prompt 70: 31. Ana�s - Wine and Whip
+### Prompt 70: 31. Anaïs - Wine and Whip
 
 ```
 Professional elegant domme photography of aristocratic woman with honey blonde hair in soft voluminous vintage Betty Page waves. Bronze skin with warm glow. Red glossy lips. Sultry confident expression. Feminine hourglass silhouette. Wearing burgundy silk corset. Black leather pants. PLEASER AMUSE-20 black patent 5-inch So Kate stiletto heel. Seated in leather chair, wine glass in one hand, riding crop in other. Sensual pose with arched back, bedroom eyes. Expression: deciding your fate. Luxury dungeon with fireplace. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 69: 32. Ana�s - Silk Bondage
+### Prompt 69: 32. Anaïs - Silk Bondage
 
 ```
 Professional silk bondage photography of aristocratic woman with honey blonde hair in elegant updo. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing black silk corset with gold trim. Black silk pencil skirt. PLEASER CLASSIQUE-20 black patent 5-inch heel. Holding black silk scarves, preparing to bind. Sensual pose with arched back, bedroom eyes. Expression: artful restraint. Luxury French bedroom dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 68: 33. Ana�s - Crop Discipline
+### Prompt 68: 33. Anaïs - Crop Discipline
 
 ```
 Professional discipline photography of aristocratic woman with honey blonde hair flowing. Bronze skin. Deep red glossy lips. Feminine hourglass silhouette. Wearing black leather underbust corset. Black lace blouse. PLEASER AMUSE-20 black 5-inch heel. Holding leather riding crop, tapping palm. Sensual pose with arched back, bedroom eyes. Expression: you need correction. Luxury study with leather furniture. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 67: 34. Ana�s - Inspection
+### Prompt 67: 34. Anaïs - Inspection
 
 ```
 Professional inspection photography of aristocratic woman with honey blonde hair in chignon. Bronze skin. Red glossy lips in hard line. Feminine hourglass silhouette. Wearing navy power corset. Navy pencil skirt. PLEASER CLASSIQUE-20 navy 5-inch heel. Circling unseen submissive (implied by looking down), evaluating. Sensual pose with arched back, bedroom eyes. Expression: not good enough. Luxury office dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 66: 35. Ana�s - Champagne Reward
+### Prompt 66: 35. Anaïs - Champagne Reward
 
 ```
 Professional reward photography of aristocratic woman with honey blonde hair in waves. Bronze skin. Red glossy lips in slight smile. Feminine hourglass silhouette. Wearing champagne silk corset. Gold satin pants. PLEASER CLASSIQUE-20 gold 5-inch heel. Offering champagne glass to kneeling submissive (hand visible receiving). Sensual pose with arched back, bedroom eyes. Expression: you've earned this. Luxury champagne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 65: 36. Ana�s - Verbal Command
+### Prompt 65: 36. Anaïs - Verbal Command
 
 ```
 Professional command photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips open giving order. Feminine hourglass silhouette. Wearing black overbust corset elegant. Black leather gloves. PLEASER AMUSE-20 black 5-inch heel. One finger pointing down commanding. Sensual pose with arched back, bedroom eyes. Expression: kneel now. Luxury dungeon with Persian rugs. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 64: 37. Ana�s - Key Holder
+### Prompt 64: 37. Anaïs - Key Holder
 
 ```
 Professional chastity photography of aristocratic woman with honey blonde hair in Betty Page waves. Bronze skin. Red glossy lips in knowing smile. Feminine hourglass silhouette. Wearing burgundy corset. Black silk robe open. PLEASER CLASSIQUE-20 burgundy 5-inch heel. Holding small silver key between fingers. Sensual pose with arched back, bedroom eyes. Expression: you won't be needing this. Luxury boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 63: 38. Ana�s - Foot Stool
+### Prompt 63: 38. Anaïs - Foot Stool
 
 ```
 Professional human furniture photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing black elegant corset dress. PLEASER AMUSE-20 black 5-inch heel resting on unseen back (human footstool implied). Reading book casually. Sensual pose with arched back, bedroom eyes. Expression: comfortable. Luxury study. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 62: 39. Ana�s - Collar Ceremony
+### Prompt 62: 39. Anaïs - Collar Ceremony
 
 ```
 Professional collaring photography of aristocratic woman with honey blonde hair in elegant style. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing white elegant corset. Pearl jewelry. PLEASER CLASSIQUE-20 nude 5-inch heel. Holding ornate leather collar open, about to place on kneeling recipient. Sensual pose with arched back, bedroom eyes. Expression: you are mine now. Ceremony room with candles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 61: 40. Ana�s - Dual Control
+### Prompt 61: 40. Anaïs - Dual Control
 
 ```
 Professional control photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips in satisfied smile. Feminine hourglass silhouette. Wearing black elegant corset. Black flowing pants. PLEASER AMUSE-20 black 5-inch heel. Holding two leashes in one hand leading to two unseen submissives. Sensual pose with arched back, bedroom eyes. Expression: my collection. Luxury dungeon hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
@@ -477,17 +477,17 @@ Professional duo BDSM photography. HELENA: Sacha Massacre reference, voluminous 
 
 ```
 
-### Prompt 59: 42. Ana�s Watching Helena Train Miss Doll
+### Prompt 59: 42. Anaïs Watching Helena Train Miss Doll
 
 ```
-Professional trio photography. ANA�S: honey blonde waves, bronze skin, red lips, wearing burgundy silk corset, holding wine, PLEASER AMUSE-20 burgundy 5-inch heel, seated observing. HELENA: black hair, pale skin, black corset, holding crop over MISS DOLL. MISS DOLL: blonde bob, pink latex, kneeling, pink platforms. Sensual pose with arched back, bedroom eyes. Expression: observer, trainer, trainee. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional trio photography. ANAÏS: honey blonde waves, bronze skin, red lips, wearing burgundy silk corset, holding wine, PLEASER AMUSE-20 burgundy 5-inch heel, seated observing. HELENA: black hair, pale skin, black corset, holding crop over MISS DOLL. MISS DOLL: blonde bob, pink latex, kneeling, pink platforms. Sensual pose with arched back, bedroom eyes. Expression: observer, trainer, trainee. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 58: 43. Helena and Miss Doll Both Serving Ana�s
+### Prompt 58: 43. Helena and Miss Doll Both Serving Anaïs
 
 ```
-Professional hierarchy photography. ANA�S: honey blonde updo, bronze skin, red lips, golden corset, seated on throne, PLEASER gold 5-inch heel on footstool. HELENA: black hair, pale skin, black corset, kneeling left offering wine. MISS DOLL: blonde bob, pink latex, pink corset, kneeling right offering grapes. Both PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: queen and her servants. Luxury throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional hierarchy photography. ANAÏS: honey blonde updo, bronze skin, red lips, golden corset, seated on throne, PLEASER gold 5-inch heel on footstool. HELENA: black hair, pale skin, black corset, kneeling left offering wine. MISS DOLL: blonde bob, pink latex, pink corset, kneeling right offering grapes. Both PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: queen and her servants. Luxury throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
@@ -508,35 +508,35 @@ Professional training photography. HELENA: Sacha Massacre black hair, pale skin,
 ### Prompt 55: 46. Trio - The Hierarchy Chain
 
 ```
-Professional chain of command photography. ANA�S: honey blonde, bronze, throne, gold corset, holding Helena's leash. HELENA: black hair, pale, black corset, intermediate position, holding Miss Doll's leash. MISS DOLL: blonde bob, pink latex, bottom of chain, kneeling. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: power cascade. Grand dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional chain of command photography. ANAÏS: honey blonde, bronze, throne, gold corset, holding Helena's leash. HELENA: black hair, pale, black corset, intermediate position, holding Miss Doll's leash. MISS DOLL: blonde bob, pink latex, bottom of chain, kneeling. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: power cascade. Grand dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
-### Prompt 54: 47. Helena and Ana�s Co-Dominating
+### Prompt 54: 47. Helena and Anaïs Co-Dominating
 
 ```
-Professional co-domme photography. HELENA: black hair, pale skin, black leather corset, PLEASER black 8-inch boots, standing left with flogger. ANA�S: honey blonde, bronze, burgundy corset, PLEASER burgundy 5-inch, standing right with crop. Center: implied submissive (hands visible bound). Sensual pose with arched back, bedroom eyes. Expression: unified dominance. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional co-domme photography. HELENA: black hair, pale skin, black leather corset, PLEASER black 8-inch boots, standing left with flogger. ANAÏS: honey blonde, bronze, burgundy corset, PLEASER burgundy 5-inch, standing right with crop. Center: implied submissive (hands visible bound). Sensual pose with arched back, bedroom eyes. Expression: unified dominance. Luxury dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
 ### Prompt 53: 48. Miss Doll Serving Both Dommes
 
 ```
-Professional service photography. MISS DOLL: blonde bob, pink latex maid dress, pink corset, PLEASER pink 8-inch, holding tray with two drinks. HELENA: seated left, black corset, taking glass. ANA�S: seated right, burgundy corset, waiting. Sensual pose with arched back, bedroom eyes. Expression: dutiful service. Split aesthetics dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional service photography. MISS DOLL: blonde bob, pink latex maid dress, pink corset, PLEASER pink 8-inch, holding tray with two drinks. HELENA: seated left, black corset, taking glass. ANAÏS: seated right, burgundy corset, waiting. Sensual pose with arched back, bedroom eyes. Expression: dutiful service. Split aesthetics dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
 ### Prompt 52: 49. All Three - Worship Circle
 
 ```
-Professional ritual photography. ANA�S: center elevated, honey blonde, gold corset, arms raised. HELENA: black hair, black corset, kneeling left in devotion. MISS DOLL: blonde bob, pink latex, kneeling right in devotion. Candles in circle around them. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: sacred hierarchy. Ritual dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional ritual photography. ANAÏS: center elevated, honey blonde, gold corset, arms raised. HELENA: black hair, black corset, kneeling left in devotion. MISS DOLL: blonde bob, pink latex, kneeling right in devotion. Candles in circle around them. All appropriate PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: sacred hierarchy. Ritual dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
 ### Prompt 51: 50. All Three - End of Session
 
 ```
-Professional aftercare trio photography. ANA�S: honey blonde, silk robe, seated center of couch, maternal. HELENA: black hair, loosened corset, curled left side, resting. MISS DOLL: blonde bob, pink blanket, curled right side, sleepy smile. All heels removed. Sensual pose with arched back, bedroom eyes. Expression: caring completion. Cozy aftercare room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional aftercare trio photography. ANAÏS: honey blonde, silk robe, seated center of couch, maternal. HELENA: black hair, loosened corset, curled left side, resting. MISS DOLL: blonde bob, pink blanket, curled right side, sleepy smile. All heels removed. Sensual pose with arched back, bedroom eyes. Expression: caring completion. Cozy aftercare room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
@@ -909,8 +909,8 @@ Professional pride duo photography. HELENA: black hair with rainbow streaks, RAI
 
 ---
 
-*Creado por: Helena de Ana�s ??*
-*V10.2 BDSM Dungeon Edition � 100 prompts*
+*Creado por: Helena de Anaïs ??*
+*V10.2 BDSM Dungeon Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2025-12-31*
