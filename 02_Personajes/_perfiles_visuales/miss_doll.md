@@ -91,13 +91,19 @@ bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish fa
 |---|---|---|---|---|
 | 1 | Standing | Cruel Contrapposto | `standing` | Cuerpo entero de pie, contrapposto agresivo, peso cargado en una cadera |
 | 2 | Back View | Espalda Total | `back_view` | Espalda completa a cámara, arquitectura de corsé visible, mirada por sobre el hombro |
-| 3 | Seated | Monarch Throne | `seated` | Sentada, piernas 60-90°, codos en reposabrazos, barbilla ladeada |
+| 3 | Seated | Trono de Costado | `seated` | Sentada de costado con **las dos piernas plegadas al mismo lado, rodillas y muslos apretados, tobillos apilados**, torso girado de frente al lente, antebrazo sobre el respaldo, barbilla apoyada, smirk frío |
 | 4 | Side Profile | Tres Cuartos Arrogante | `side_profile` | Giro ¾ hacia cámara, peso en una cadera, mirada fría de perfil |
 | 5 | **Glacial Command** *(slot Ditzy de Ele, renombrado — no encaja una mirada vacía en su dominancia)* | Close Up Fría | `glacial_command` | **WAIST-UP** (cintura arriba): rostro grande y nítido + pecho prominente en el frame inferior + detalle del outfit superior legible · **UNA sola mano** en cuadro haciendo el gesto · **mirada FUERA de cuadro**, fría e indiferente |
 | 6 | POV | Command POV *(nombre histórico)* | `pov` | **RETRATO SENSUAL DE INSTAGRAM** (thirst-trap de influencer): **mira a la cámara**, medio cuerpo, cara protagonista + escote abajo, **una sola mano**, `a single woman alone`. **NO es point-of-view literal** |
-| 7 | Odalisque | Throne en Suelo con Crop | `odalisque` | Suelo, piernas en V abierta, codos en rodillas, crop en mano. **⚠️ Con vestido/falda/bata la V queda PROHIBIDA (Ama 13/08/2026):** se resuelve con las dos piernas plegadas hacia un lado (sirena), rodillas juntas. Ver §5.4 y el ancla `DRESS_LEG_CLOSURE` |
+| 7 | Odalisque | Floorwork de Alta Escuela | `odalisque` | Suelo, **rodillas recogidas y juntas contra el pecho, tobillos cruzados** — o cualquiera de las otras 8 variantes de floorwork del repertorio (gateo felino, sirena angular, cobra, escorpión, diosa reclinada, cenital, arrodillada, camel backbend). Crop en mano cuando el look lo pide |
 
-> 🦵 **Conflicto resuelto el 13/08/2026, no silenciado.** La directiva transversal de la Ama (*piernas cerradas con vestido*) choca de frente con la V abierta que es firma del Throne en Suelo. **Gana la directiva** (instrucción viva > canon de pose). La V no se elimina: queda reservada a los looks de calzón, bikini o catsuit, donde no hay falda que cerrar. Registrado también en `anclas_universales.json` → `personajes.miss_doll.conflicto_resuelto_13_08_2026`.
+> 🦵 **PIERNAS ABIERTAS ELIMINADAS — orden de la Ama, 29/08/2026.** *"quita definitivamente la pose de piernas abiertas de miss doll"*, y confirmó el alcance: **las dos** poses firma que las llevaban. Cae la **Monarch Throne** del Seated (*piernas 60-90°*, ahora Trono de Costado) y cae la **V abierta** del Throne en Suelo del Odalisque.
+>
+> **Esto deroga el arreglo parcial del 13/08/2026**, que solo prohibía la V cuando el look llevaba falda o vestido y la dejaba viva para calzón, bikini y catsuit. Ya no hay excepción por prenda: no va en ningún look. Con ella cae también la excepción que `prompt_builder.build()` le hacía a `DRESS_LEG_CLOSURE` en su slot Seated (existía solo para que el ancla no peleara con la Monarch Throne dentro del mismo prompt).
+>
+> **Las sub-poses se reescribieron, no se borraron.** El slot Seated conserva sus 7 variantes y el Odalisque sus 9 — borrar una empobrece la rotación, y la variedad es canon. Dueño único de las sub-poses reales: `repertorios_pose.json`.
+>
+> ⚠️ **Rechazar una pose son DOS pasos** (lección del 17/08/2026, `feedback_corregir_el_look_no_corrige_el_repertorio`): el texto del look **y** el repertorio que lo sirve. Corregir solo el look hace que la rotación se la sirva al siguiente en cuestión de horas.
 
 > 🎥 **Repertorio de cámara — dueño único:** [`01_Principales/miss_doll/repertorio_camara_miss_doll.md`](../01_Principales/miss_doll/repertorio_camara_miss_doll.md). 7 variaciones para los slots 5 y 6, con rotación por número de look.
 >
@@ -179,7 +185,7 @@ Auditado sobre los 4 looks VIP/Privado + Penthouse/Off-duty existentes: **2 de 4
 | Sonrisa amplia / actitud juguetona | Face of the Pole | Principio de registro — **excepción única: arquetipo Girly Girl (§6), ver ahí las reglas** |
 | **Cualquier prop/setting/tono de infancia** (peluches, dollhouse, cuarto de niña, "playful giggly" infantil) — incluso en Girly Girl | Glamour adulto exagerado: boudoir/penthouse/salón de belleza de lujo, sonrisa radiante/sensual de mujer adulta | **PROHIBICIÓN ABSOLUTA (Ama 11/08/2026).** Hiperfem ≠ niñita rosada. Ver nota en §6 |
 | **👙 Calzón de cobertura total** — brief de talle alto, boyshort, hipster, culotte, tap pant, bikini bottom que tape el asiento | **tanga o g-string, siempre** (delantero angosto, cintura sobre el hueso de la cadera, atrás una tira fina) | **Ama 13/08/2026.** Ancla `BOTTOM_CUT_LOCK` en `anclas_siempre`. Su corte se **nombra** en el BLOQUE B (§5.5) — no basta con "bikini bottoms" |
-| **🦵 Piernas abiertas usando vestido, falda, bata o túnica** | rodillas y muslos juntos · una pierna cruzada sobre la otra · las dos piernas plegadas a un lado si va baja | **Ama 13/08/2026, transversal a las tres muñecas.** Ancla opt-in `DRESS_LEG_CLOSURE`. **Deroga las piernas en V del Throne en Suelo (§4) cuando el look es de falda** |
+| **🦵 Piernas abiertas usando vestido, falda, bata o túnica** | rodillas y muslos juntos · una pierna cruzada sobre la otra · las dos piernas plegadas a un lado si va baja | **Ama 13/08/2026, transversal a las tres muñecas.** Ancla opt-in `DRESS_LEG_CLOSURE`. ⚠️ **La cláusula «cuando el look es de falda» quedó SUPERADA el 29/08/2026:** las piernas abiertas de Miss Doll se eliminaron en todos sus looks, lleve o no falda (§4). Esta fila sigue vigente como regla transversal de las tres muñecas |
 
 ### 5.5 · Campos obligatorios de descripción
 
@@ -312,7 +318,7 @@ El BLOQUE B debe nombrar, sin excepción:
 
 | Slot | Ancla del motor | Sustituto | Por qué |
 |---|---|---|---|
-| Odalisque | `RECLINE_ANCHOR` | **`FLOOR_SEAT_ANCHOR`** | Su Odalisque es *Throne en Suelo* (§4): sentada en el piso con piernas en V, **no reclinada**. Aplicar el ancla de recumbencia de Ele contradiría su propio canon de pose. |
+| Odalisque | `RECLINE_ANCHOR` | **`FLOOR_SEAT_ANCHOR`** | Su Odalisque es **floorwork de alta escuela** (§4): trabaja a nivel del suelo — sentada con las rodillas recogidas y juntas, gateo felino, sirena, cobra, backbend—, **no reclinada**. Aplicar el ancla de recumbencia de Ele contradiría su propio canon de pose. *(Decía «sentada en el piso con piernas en V» hasta el 29/08/2026, cuando la Ama eliminó las piernas abiertas.)* |
 
 **📐 Orientación de Odalisque — la única que ALTERNA (Ama 17/08/2026):** Ele y Anaïs tienen Odalisque reclinado, así que `ASPECT_HORIZONTAL` va fijo en el mapa por defecto del motor. El de Miss Doll es sentado en el piso (Throne en Suelo) — ninguna orientación es "la" natural del encuadre, y la Ama pidió variedad: *"Miss Doll debe tener Odalisque en vertical y horizontal"*. Por eso su Odalisque **no lleva** `ASPECT_VERTICAL` ni `ASPECT_HORIZONTAL` fijos en `anclas_universales.json` — se resuelve con `PromptBuilder("miss_doll").orientacion_odalisque(look_number)` (alterna por paridad del número de look) y se pasa a `build()` vía `extra_anclas=[...]`. Es el único slot de las tres muñecas que se decide así; todo el resto sigue fijo en el mapa.
 

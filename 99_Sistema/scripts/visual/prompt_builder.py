@@ -555,16 +555,15 @@ class PromptBuilder(object):
         if "WRAP_BACK_TAILORED" in nombres_extra and "WRAP_BACK_ROBE" in nombres_extra:
             nombres_extra.remove("WRAP_BACK_ROBE")
 
-        # Excepcion Ama 23/08/2026 (Look 48 "Obsidian Liquid Gown", notas_imagenes.csv):
-        # "en que quedo la regla de piernas abiertas y vestido?". Monarch Throne es
-        # la pose Seated de firma de Miss Doll (SISTEMA_POSES_VESTUARIO_MISS_DOLL.md:
-        # "piernas abiertas 60-90 grados") y sigue vigente CON vestido. DRESS_LEG_CLOSURE
-        # (Ama 13/08) es correcta para el resto de sus poses, pero en Seated queda en
-        # el mismo prompt que la instruccion de pose ("the knees wide") y gana el ancla
-        # por ir repetida en negativo — el tajo alto de vestido disenado para mostrar
-        # pierna queda anulado.
-        if self.slug == "miss_doll" and slot_n == "seated":
-            nombres_extra = [n for n in nombres_extra if n != "DRESS_LEG_CLOSURE"]
+        # DEROGADA la excepcion de Miss Doll/seated (Ama 29/08/2026: "quita
+        # definitivamente la pose de piernas abiertas de miss doll").
+        #
+        # Existia desde el 23/08 para que DRESS_LEG_CLOSURE no peleara, dentro del
+        # mismo prompt, con la Monarch Throne — su pose Seated de firma, "piernas
+        # 60-90 grados". Al eliminarse la pose ya no hay nada que proteger: la
+        # excepcion solo podria dejar pasar piernas abiertas por la puerta de atras.
+        # Las dos sub-poses (seated[0] y odalisque[0]) se reescribieron con las
+        # piernas cerradas en repertorios_pose.json.
 
         # ANIMAL_PRINT_LOCK es la unica ancla paramétrica del contrato: su texto
         # lleva {kind} y hay que resolverlo con la especie que nombra el BLOQUE B

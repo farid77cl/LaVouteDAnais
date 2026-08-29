@@ -37,7 +37,8 @@ Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradi
 - **Torso:** siempre erguido. Barbilla 5-10° arriba. Nunca hombros caídos.
 - **Mirada:** Face of the Pole — disociación profesional. Se posa 2-4s en objetivo, abandona deliberadamente.
 - **Tempo:** un movimiento donde otros hacen tres. Detenciones bruscas. Pausas de 4+ segundos.
-- **5 poses firma:** Monarch Throne / Hip Carry contra Barra / Pie en Hombro / Throne en Suelo con Crop / Caminata Circular Lenta.
+- **5 poses firma:** Trono de Costado / Hip Carry contra Barra / Pie en Hombro / Floorwork de Alta Escuela con Crop / Caminata Circular Lenta.
+  > 🦵 **Ama 29/08/2026: piernas abiertas eliminadas.** La *Monarch Throne* (sentada, piernas 60-90°) pasa a **Trono de Costado** (piernas plegadas al mismo lado, rodillas juntas) y el *Throne en Suelo* pierde su V abierta. Deroga el arreglo parcial del 13/08, que solo las prohibía con falda. Dueño único de las sub-poses: `repertorios_pose.json`.
 - **Labio rojo siempre.** Es la firma visual inviolable de Miss Doll.
 
 ## Prompt Base Fijo

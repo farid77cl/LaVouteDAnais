@@ -163,14 +163,15 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 - **Verticalidad:** Torso siempre erguido, hombros firmes y barbilla 5-10º arriba. Nunca desplomada.
 - **Basculación Pélvica:** Alterna entre pelvis hacia delante (tease/stripper) y hacia atrás (sentencia/Domme).
 - **Pies:** Posición externa abierta (V abierta), nunca paralelos.
+  > ℹ️ Esta V es de **PIES** (segunda de ballet) y sigue vigente. No confundir con las *piernas* abiertas, eliminadas el 29/08/2026.
 - **Mirada:** [Face of the Pole] — Disociación profesional. Se posa 2-4s y se retira deliberadamente. Parpadeo lento.
 
 ### 2. Vocabulario de Poses Firma
-- **Monarch Throne:** Sentada en silla/trono, piernas abiertas 60-90º, codos en reposabrazos, barbilla alta.
+- **Trono de Costado** *(ex Monarch Throne):* Sentada de costado en silla/trono con **las dos piernas plegadas al mismo lado, rodillas y muslos apretados y los tobillos apilados**, torso girado de frente al lente, antebrazo sobre el respaldo, barbilla apoyada. **Ama 29/08/2026: las piernas abiertas 60-90º quedan eliminadas.**
 - **Hip-Carry against Pole:** Cadera contra la barra, manos libres (en cabello o accesorio), mirada fija.
 - **Cruel Contrapposto:** Peso en una pierna, otra cruzada delante en punta, hombros girados.
 - **Foot on Sub:** Pie con tacón sobre el hombro o muslo del sub, verticalidad absoluta.
-- **Throne en Suelo:** Sentada en V abierta, codos en rodillas, barbilla alta (máxima autoridad desde el suelo).
+- **Floorwork de Alta Escuela** *(ex Throne en Suelo):* Sentada con **las rodillas recogidas y juntas contra el pecho, tobillos cruzados**, un brazo rodeando las espinillas, barbilla alta — o cualquiera de las otras 8 variantes del repertorio (gateo felino, sirena, cobra, escorpión, diosa reclinada, cenital, arrodillada, camel backbend). La autoridad desde el suelo la sostienen la columna y la barbilla, no la apertura. **Ama 29/08/2026: la V abierta queda eliminada.**
 
 ### 3. Tempo y Transiciones
 - **Lento Absoluto:** Un solo movimiento donde otros hacen tres.

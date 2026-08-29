@@ -81,12 +81,12 @@ Estas reglas activan el registro en cualquier contexto, vestuario o escenario:
 - **Diosa Reclinada.** Decúbito lateral, codo apoyado, pierna superior estirada en línea con torso, inferior flexionada. Mano libre toca el cuello o el cabello. Mirada baja pero consciente — no a la audiencia sino al espacio frente a ella.
 - **Gato Altivo.** Cuatro apoyos, espalda en hiperextensión, pelvis baja, hombros arriba. Cabeza alta siempre.
 - **Sentada de Lado Angular.** Sentada con piernas dobladas a un lado, peso en una mano apoyada lejos del cuerpo. Cuerpo se inclina, otra mano libre sobre rodilla o tocando el tobillo del stiletto.
-- **Throne en Suelo.** Sentada con piernas separadas en V abierta, codos apoyados en rodillas, manos colgando. Barbilla alta. La pose de máxima autoridad desde el suelo.
+- **Throne en Suelo.** ~~Sentada con piernas separadas en V abierta~~ → **Sentada con las rodillas recogidas y juntas contra el pecho, tobillos cruzados**, un brazo rodeando las espinillas, barbilla alta. La autoridad desde el suelo se sostiene en la columna y la barbilla, no en la apertura. **Derogado 29/08/2026 (Ama): piernas abiertas eliminadas de Miss Doll en los dos slots.**
 - **Knee Crawl Autoritario.** Avance sobre rodillas hacia un punto fijo, espalda recta, mirada al frente. Miss Doll va de rodillas y sigue siendo la que manda.
 
 ### 2.4 En silla / throne
 
-- **Monarch Throne.** Sentada con piernas abiertas 60–90º, codos en reposabrazos, manos colgando relajadas. Espalda firme. Cabeza ligeramente ladeada. La pose monárquica por definición.
+- **Trono de Costado** *(ex Monarch Throne).* ~~Sentada con piernas abiertas 60–90º~~ → **Sentada de costado, las dos piernas plegadas al mismo lado con rodillas y muslos apretados y los tobillos apilados**, torso girado de frente, antebrazo sobre el respaldo, barbilla apoyada. Espalda firme. **Derogado 29/08/2026 (Ama): piernas abiertas eliminadas de Miss Doll en los dos slots.**
 - **Cruce Alto Cabaret.** Rodilla sobre rodilla, una mano sobre la rodilla superior, otra colgando del reposabrazos. Barbilla arriba.
 - **Sobre Brazo.** Una pierna pasada por encima del reposabrazos, otra al suelo. Cuerpo en S. Mano jugando con el cabello o el borde del corsé.
 - **Torre.** De pie con un solo pie elevado apoyado en el asiento de la silla, otro en suelo. Codo apoyado en la rodilla elevada, mano sostiene barbilla o crop. La silla es escalón, no asiento.
@@ -172,10 +172,10 @@ El tempo es vocabulario tan importante como la postura.
 
 Las cinco posturas que, ejecutadas correctamente, definen a Miss Doll en cualquier escenario:
 
-1. **Monarch Throne** — piernas abiertas 60–90º, codos en reposabrazos, barbilla alta. La pose de identificación inmediata.
+1. **Trono de Costado** — piernas plegadas al mismo lado, rodillas y muslos juntos, torso de frente, barbilla alta. La pose de identificación inmediata. **Derogado 29/08/2026 (Ama): piernas abiertas eliminadas de Miss Doll en los dos slots.**
 2. **Hip Carry contra Barra** — cadera al pole, manos libres en cabello o prop, mirada fija al frente.
 3. **Pie en Hombro de Sub** — verticalidad absoluta, un stiletto sobre el sub, brazo en cadera. La foto de poder.
-4. **Throne en Suelo con Crop** — silueta en V abierta, codos en rodillas, manos sosteniendo crop, mirada al frente.
+4. **Floorwork de Alta Escuela con Crop** — rodillas recogidas y juntas (o gateo felino, sirena, cobra, backbend), crop en mano, mirada al frente. **Derogado 29/08/2026 (Ama): piernas abiertas eliminadas de Miss Doll en los dos slots.**
 5. **Caminata Circular Lenta** — tres pasos por compás alrededor del sub o la barra, sin contacto visual continuo, parada brusca al final.
 
 ---
@@ -425,7 +425,7 @@ Cuando el look permite revelación progresiva, debajo hay una segunda armadura:
 - Corsé overbust + liguero + medias FF costura + bragas alta cintura.
 - Alternativa performática: bodysuit dusty pink + falda lápiz que se extrae en escena.
 - **Calzado:** Pleaser Adore 7" o Pleaser Kiss 5" para registro más íntimo.
-- **Props:** silla bistro o silla industrial sin reposabrazos. Solo throne con reposabrazos para Monarch Throne.
+- **Props:** silla bistro o silla industrial sin reposabrazos. El throne con reposabrazos ya no es obligatorio: el Trono de Costado se apoya en el respaldo, no en los brazos.
 - **Accesorios:** guantes ópera, choker, crop visible.
 
 ### Escenario 4 — Floorwork / exotic

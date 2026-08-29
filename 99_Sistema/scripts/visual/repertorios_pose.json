@@ -110,7 +110,10 @@
       },
       "duras": {
         "_nota": "Indices de cuerpo predatorio/dominante que la rotacion `calido=True` (Ama 23/08/2026, arquetipo Girly Girl) salta — no solo mirada, el CUERPO mismo choca con el registro suave. odalisque[1] = gateo felino a cuatro patas, espalda arqueada, caderas en alto. odalisque[8] = camel backbend agresivo con pelvis empujada al frente. El resto del repertorio (incluida la mirada fria puntual) se limpia via RX_COLD_TAIL, no via exclusion.",
-        "odalisque": [1, 8]
+        "odalisque": [
+          1,
+          8
+        ]
       },
       "slots": {
         "standing": [
@@ -132,7 +135,7 @@
           "seen from behind standing square to {wall} with the weight even on both stilettos, one hand raised flat against the surface at shoulder height and the other at the hip, her head turned into profile at the frame's edge"
         ],
         "seated": [
-          "seated reversed astride {seat} facing its back with the full weight down on the seat, both forearms folded along the top rail and the chin resting on them, the knees wide and both stilettos planted, a cold smirk at the lens",
+          "seated sideways across {seat} with the full weight down on it, both legs folded together to the same side with the knees and thighs pressed shut and the ankles stacked, the torso twisted back square to the lens, one forearm laid along the top rail and the chin resting on it, a cold smirk at the lens",
           "seated back into {seat} with the full weight on it, one leg crossed high over the other and the top stiletto pointed at the lens, both elbows spread along the arms or the back of the seat, the chin tilted down",
           "seated with the hips down on {seat} and one stiletto hooked up on its front edge, that knee drawn up and one hand closed around the ankle, the other arm stretched along the back, her gaze level at camera",
           "seated sideways across {seat} with the hips fully down on it and both legs draped over one arm, the ankles crossed and pointed, the torso twisted back to the lens, one hand braced on the seat behind her",
@@ -150,7 +153,7 @@
           "a three-quarter profile turning IN toward the lens with the weight rolling onto the front stiletto, the far arm swinging back and the near hand at the waist, her chin lifted in a slow appraising look at camera"
         ],
         "odalisque": [
-          "seated low on the floor with the knees up and open in a wide V, both elbows resting on the knees and the hands hanging loose between them, the chin dropped for a level stare straight at the lens",
+          "seated low on the floor with both knees drawn up and held tightly together against the chest, the ankles crossed and the shins closed, one arm wrapped around the shins and the other hand planted on the floor behind the hip, the chin dropped for a level stare straight at the lens",
           "on all fours on the floor in a slow feline crawl toward the lens, the back arched and the hips lifted high, one hand planted ahead of the other, her chin dropped and her eyes locked cold on the camera",
           "seated down on the floor with both legs folded to one side and the ankles stacked, the torso twisted back square to the lens, one hand planted on the floor behind the hip and the other resting on the top thigh",
           "lying prone on the floor in a sensual cobra floor meltdown, the pelvis and thighs resting flat against the reflective floor while the upper torso is pushed high upward by straight arms with both palms planted on the floor, the ribcage lifted in an elegant lumbar curve with the chest prominent, her chin lifted and her cold pale steel grey eyes locked directly onto the camera with an arrogant dominant smirk",
@@ -178,7 +181,8 @@
           "a sensual Instagram-influencer portrait of a single woman alone lying back with her head tipped toward the camera above her, a single hand resting at her throat, her gaze up into the lens",
           "a sensual Instagram-influencer portrait of a single woman alone shot from just above her eye line, a single hand laid flat over the heart, her eyes raised into the lens, the face dominant in the frame"
         ]
-      }
+      },
+      "derogado_29_08_2026": "Piernas abiertas ELIMINADAS de Miss Doll por orden de la Ama (29/08/2026), en los DOS slots donde eran pose firma: seated (Monarch Throne, 'piernas 60-90 grados') y odalisque (Throne en Suelo, 'piernas en V abierta'). Deroga la excepcion parcial del 13/08/2026, que solo las prohibia cuando el look llevaba falda o vestido, y con ella la excepcion de DRESS_LEG_CLOSURE que prompt_builder.build() aplicaba a su slot seated. Las sub-poses se REESCRIBIERON con las piernas cerradas, no se borraron: el slot conserva su cuenta y su variedad."
     },
     "anais": {
       "registro_estetico": "OLD GLAMOUR / OLD HOLLYWOOD / BETTIE PAGE (directiva Ama 13/08/2026). Retrato de estudio años 40-50: luz dura de una sola fuente, mandíbula y clavícula dibujadas, manos protagonistas, estola y guante como material de pose. De Bettie Page se toma la GEOMETRÍA de la pin-up (manos tras la nuca, talones juntos con rodillas quebradas, torsión sobre el hombro, apoyo sobre antebrazos con las pantorrillas al aire), NUNCA su expresión.",
