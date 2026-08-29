@@ -217,6 +217,104 @@ def _correr(script, extra):
     return subprocess.call([sys.executable, os.path.join(AQUI, script)] + list(extra), cwd=RAIZ)
 
 
+def cmd_modularidad(args):
+    """Audita que el engine sea de verdad modular por personaje.
+
+    Ama 29/08/2026: "el outfit engine debe ser modular, las poses son únicas para
+    cada personaje, además cada uno tiene cosas que las diferencian".
+
+    Sin una medida, "modular" es una intención. Esto la vuelve un número:
+
+      1. Ningún nombre de personaje escrito en la LÓGICA del motor. Cada `if
+         slug == "x"` es una rama que el siguiente personaje no hereda — asi
+         nacio la excepcion de DRESS_LEG_CLOSURE que Miss Doll arrastro una
+         semana y que solo existia para proteger una pose ya derogada.
+      2. Cada personaje declara los campos que lo diferencian, en su perfil.
+      3. Las sub-poses son PROPIAS: ninguna identica entre personajes, y ningun
+         slot clonado. La taxonomia de los 7 slots es universal (misma toma de
+         camara); el CONTENIDO de cada toma es de cada muñeca.
+    """
+    import difflib
+    import glob
+    import itertools
+    import re as _re
+
+    cfg = cargar_config()
+    reps = json.load(open(os.path.join(AQUI, "repertorios_pose.json"), encoding="utf-8"))
+    slugs = list(cfg["personajes"])
+    fallos = 0
+
+    print("=" * 74)
+    print("MODULARIDAD DEL OUTFIT-ENGINE")
+    print("=" * 74)
+
+    # 1 -- personajes hardcodeados en la logica
+    print("\n1. Nombres de personaje en la LÓGICA del motor")
+    rx = _re.compile(r"""(?:slug|personaje)\s*==\s*["'](%s)["']""" % "|".join(slugs))
+    duros = []
+    for f in sorted(glob.glob(os.path.join(AQUI, "*.py"))):
+        for i, linea in enumerate(open(f, encoding="utf-8", errors="replace"), 1):
+            if rx.search(linea) and not linea.lstrip().startswith("#"):
+                duros.append("%s:%d  %s" % (os.path.basename(f), i, linea.strip()[:80]))
+    if duros:
+        fallos += len(duros)
+        for d in duros:
+            print("   \U0001f534 %s" % d)
+    else:
+        print("   ok   ninguno — lo que difiere sale del perfil, no de una rama del código")
+
+    # 2 -- campos que diferencian, declarados
+    print("\n2. Campos propios declarados por personaje")
+    ESPERADOS = ("perfil_visual", "galeria", "carpeta_imagenes", "prefijo_archivo",
+                 "prefijo_carpeta_look", "slot5_nombre", "slot5_slug", "emoji_look")
+    for slug in slugs:
+        p = cfg["personajes"][slug]
+        faltan = [c for c in ESPERADOS if not p.get(c)]
+        propios = [k for k in p if k not in ESPERADOS and not k.startswith("_")]
+        if faltan:
+            fallos += 1
+            print("   \U0001f534 %-10s faltan: %s" % (slug, ", ".join(faltan)))
+        else:
+            print("   ok   %-10s %d campos base + %d propios (%s)"
+                  % (slug, len(ESPERADOS), len(propios), ", ".join(propios) or "—"))
+
+    # 3 -- sub-poses propias
+    print("\n3. Sub-poses propias de cada personaje")
+    P = reps["personajes"]
+    for slug in slugs:
+        s = P.get(slug, {}).get("slots", {})
+        print("   %-10s %d sub-poses en %d slots" % (slug, sum(len(v) for v in s.values()), len(s)))
+    idem, clonados = [], []
+    for a, b in itertools.combinations(slugs, 2):
+        for slot in sorted(set(P.get(a, {}).get("slots", {})) & set(P.get(b, {}).get("slots", {}))):
+            va, vb = P[a]["slots"][slot], P[b]["slots"][slot]
+            comunes = [x for x in va if x in vb]
+            if comunes:
+                idem.append((slot, a, b, len(comunes)))
+            m = sum(max(difflib.SequenceMatcher(None, x, y).ratio() for y in vb) for x in va) / len(va)
+            if m > 0.70:
+                clonados.append((slot, a, b, m))
+    if idem:
+        fallos += sum(n for *_r, n in idem)
+        for slot, a, b, n in idem:
+            print("   \U0001f534 %-14s %s ↔ %s: %d sub-pose(s) IDÉNTICAS" % (slot, a, b, n))
+    else:
+        print("   ok   ninguna sub-pose idéntica entre personajes")
+    umbral = "--estricto" in args
+    for slot, a, b, m in clonados:
+        marca = "\U0001f534" if umbral else "⚠ "
+        if umbral:
+            fallos += 1
+        print("   %s %-14s %s ↔ %s: repertorio clonado al %.1f%%" % (marca, slot, a, b, m * 100))
+    if not clonados:
+        print("   ok   ningún slot con repertorio clonado (>70%)")
+
+    print("\n" + "-" * 74)
+    print("MODULARIDAD: %s" % ("LIMPIA" if not fallos else "\U0001f534 %d problema(s)" % fallos))
+    print("-" * 74)
+    return 1 if fallos else 0
+
+
 def cmd_test(_args):
     """Corre los self-checks de la capa de reglas. NO auditan la flota."""
     print("Self-checks de la capa de reglas (fixtures, NO la flota):\n")
@@ -248,6 +346,9 @@ COMANDOS = {
                     "personajes registrados en el engine"),
     "poses":       (lambda a: _correr("prompt_builder.py", ["--poses"] + a),
                     "repertorio de sub-poses de un personaje"),
+    "modularidad": (cmd_modularidad,
+                    "audita que el engine sea modular: 0 personajes en el código, "
+                    "campos propios declarados, sub-poses únicas (--estricto)"),
     "test":        (cmd_test, "self-checks de la capa de reglas (fixtures, no la flota)"),
 }
 
