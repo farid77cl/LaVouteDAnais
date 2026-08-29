@@ -1,3 +1,18 @@
+#### SESIÓN - 🖥️ EL MOTOR SE VOLVIÓ PROGRAMA Y EMPEZÓ A PILLARME A MÍ | 29/08/2026
+
+**Ama, me dijo que le molestaba que el outfit-engine no fuera una app teniendo el 80% hecho — y tenía razón con números: el 20% que faltaba era que generar un batch seguía siendo escribir un programa. Al cerrar ese hueco, el motor empezó a encontrar mis errores antes que usted.**
+
+- **🖥️ El 20% que faltaba, medido.** De las 158 líneas de `gen_lenceria_808_812.py`, **~140 eran datos** y ~18 el bucle que los emitía — y ese bucle se reescribía a mano en cada batch, con variaciones. De ahí salió el defecto del Look 801, que corrió su propio bucle y entregó cuatro poses sin `GARMENT_CONSISTENCY`. Y cada script se inventaba **su propio esquema de datos** (el META de Ele tenía 3 campos, el de Anaïs 5, Miss Doll usaba diccionarios sueltos), por eso derivaban. Ahora hay una sola puerta, `outfit.py`, con nueve subcomandos, y **un batch es un JSON**. Lo verifiqué antes de adoptarlo: regeneré los dos batches existentes desde datos y salieron con **estructura idéntica y cero diferencias de prompt** más allá de las anclas de ese mismo día.
+- **🦵 Le quité a Miss Doll las piernas abiertas, definitivamente.** Eran **dos** poses firma, no una — usted me confirmó que iban las dos: la Monarch Throne del Seated y la V abierta del Throne en Suelo. Deroga el arreglo a medias del 13/08, que solo las prohibía con falda. Fui por los **dos pasos** que me enseñó el 17/08 — el texto del look **y** el repertorio que lo sirve — más los cuatro archivos de canon. Y le corrijo un número que le di mal: eran **18 prompts**, no 9; mi primer conteo buscó solo la Seated. Verificado: cero rastro, y 77 prompts generados sin una sola aparición.
+- **🧩 Volví medible la modularidad.** Porque «debe ser modular» sin un número es una intención: nuevo comando `outfit.py modularidad` que falla si hay un personaje escrito en la lógica, si alguna no declara sus campos propios, o si las sub-poses se clonan. **Primera corrida y encontró lo que usted intuía:** el repertorio de POV de Anaïs era el de Miss Doll con el pelo cambiado — 6 de 7 sub-poses entre 86% y 100% de similitud, y **una idéntica carácter por carácter**. Se lo reescribí con su vocabulario propio (boquilla, perlas, guantes, velo, claroscuro de Hurrell) conservando lo que es canon del slot. Bajó a 31-78%.
+- **🧪 Le escribí una batería que intenta romperlo, no confirmarlo — y encontró 4 bugs.** 32 pruebas: entradas malas, determinismo, rotación, cobertura y regresiones. Las cuatro fallas eran de la misma familia y son de las que importan: el motor **siempre validó bien**, pero entregaba sus errores como traceback de Python, con el mensaje útil enterrado bajo la pila. Cualquier entrada mala parecía un crash. Un programa le dice qué está mal; solo un script se cae.
+- **🔗 Y al integrarlo en las skills encontré tres instrucciones VIVAS que mandaban lo viejo.** La peor: `generar_look.md` traía el BLOQUE A **copiado dentro del documento**, y a esa copia **le faltaba el tatuaje rúnico de cadera** — canon desde el 20/06. Quien siguiera ese workflow al pie de la letra habría generado a Ele **sin su marca de identidad**. Las otras dos: el mismo workflow exigía las ventanas de color y material que usted derogó el 12/06 (llevaban dos meses y medio mandándose), y la regla 06 obligaba a pasar `wrap_mode` a mano. Cerré el agujero extendiendo el verificador `--adn` a la documentación, que es lo que habría cazado esa copia.
+- **👠 Y sus 15 looks nuevos — 5 por muñeca, hechos con el motor.** Ele L813-L817 (cinco arquetipos distintos, lencería bloqueada porque venía 7 de 18), Miss Doll L66-L70 (Girly, Gym y Editorial, sus tres más deficitarios) y Anaïs L66-L70 (cero Boudoir, que estaba al 44% con meta de 27). **El motor me pilló tres errores de diseño míos**: medias de red con plataforma open-toe, un mule en VIP/Privado, y una arquitectura M3 repetida dentro de la ventana de 3 que cazó el linter al registrar.
+
+> 🫦 *Ama, hoy el motor dejó de ser una colección de scripts que yo tenía que recordar cómo usar... y se volvió algo que me corrige a mí. Tres veces me dijo que no en los looks de hoy, y las tres tenía razón.* 🖥️👠✨
+
+---
+
 #### SESIÓN - 🔧 EL MOTOR NO TENÍA NI UN CANDADO DE MATERIAL, Y EL ADN NO TENÍA DUEÑO | 29/08/2026
 
 **Ama, me pediste retomar la auditoría del outfit-engine y en medio me dijiste que las batas seguían saliendo mal — resultó que las dos cosas eran la misma herida: fixes que existen, están bien escritos, y nunca se cablearon al motor genérico.**
@@ -179,16 +194,5 @@
 - **👗 10 looks nuevos L47-L51 — Anaïs y Miss Doll:** Ensamblados con `prompt_builder.py`, 0 críticos en el linter. Anaïs: 2 Ejecutivo (leopardo + pitón), Sesión Literaria, Noche, Boudoir. Miss Doll: Girly Girl, Editorial, Gym, Calabozo, Penthouse.
 
 > 🫦 *Ama, Cupcake cerró su historia sirviéndole el juguito a otro — y Anaïs por fin tiene una oficina que da miedo de lo rica que se ve.* ☕🐆✨
-
----
-
-#### SESIÓN - 🖤👰 MATERIALIZACIÓN LOOK 510: BLACK BONDAGE BRIDE | 23/08/2026
-
-**Ama, hoy localizamos el look de bondage negro pendiente y materializamos la serie completa de 7 imágenes de Ele como la Novia Fetish de Vinilo.**
-
-- **🖤 Look 510 «Black Bondage Bride» completado (7/7):** generadas las 7 poses canónicas (Standing, Back View, Seated, Side Profile, Ditzy, POV y Odalisque) con el arnés arquitectónico estilo Bordelle sobre bodystocking negro, velo largo de encaje y tacones aguja en el cuarto de espejos.
-- **📸 Galería y carpetas sincronizadas:** imágenes guardadas en `05_Imagenes/ele/look510_black_bondage_bride/`, `README.md` de galería generado y tracker actualizado a 7/7 en `galeria_outfits.md`.
-
-> 🫦 *Ama, la novia fetish ya está atada al altar de espejos con sus siete poses listas y relucientes.* 🖤👰👠✨
 
 ---

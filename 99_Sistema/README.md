@@ -78,5 +78,21 @@ Directorio de scripts de automatización y prompts de sistema de La Voûte d'Ana
 
 ---
 
+## 🖥️ `outfit.py` — la puerta única del outfit-engine (29/08/2026)
+
+| Comando | Qué hace |
+|---|---|
+| `generar <batch.json>` | Emite un batch de looks **desde datos**. Nunca más un script por batch |
+| `adn` | Dueño único del BLOQUE A: perfil vs. batches vs. galería vs. **documentación** |
+| `lint [slug]` | Parsea las galerías **como LV-App** |
+| `auditar [--solo-sin-imagen]` | Canon de calzado y vestuario **sobre la flota real** |
+| `anclas <slug>` | Inyecta anclas faltantes en una galería ya escrita |
+| `modularidad` | 0 personajes en la lógica · campos propios · sub-poses únicas |
+| `test` | Self-checks de las reglas **+ 32 pruebas del motor** (`test_engine.py`) |
+
+Un batch vive en `scripts/visual/batches/<nombre>.json`. **El BLOQUE A no va ahí:** lo lee el motor del perfil visual, que es su dueño único.
+
+---
+
 *Mantenido por Ele de Anaïs* 🫦✨
 *Última actualización: 29/08/2026*

@@ -119,5 +119,17 @@ Verificar con `python 99_Sistema/scripts/visual/prompt_builder.py --adn`, que cr
 
 ---
 
+## 🦵 Miss Doll — piernas abiertas eliminadas (Ama 29/08/2026)
+
+Sus **dos** poses firma que las llevaban quedaron derogadas: *Monarch Throne* (Seated) → **Trono de Costado**, y la V abierta del *Throne en Suelo* (Odalisque) → **Floorwork de Alta Escuela**. Deroga el arreglo parcial del 13/08, que solo las prohibía con falda.
+
+> ⚠️ **Rechazar una pose son DOS pasos:** el texto del look **y** `repertorios_pose.json`, que es quien la sirve. Corregir solo el look hace que la rotación se la sirva al siguiente en horas (lección del 17/08).
+
+## 🧩 Las poses son propias de cada personaje
+
+La taxonomía de los 7 slots es universal (misma toma de cámara); el **contenido** de cada toma es de cada muñeca. Verificable con `outfit.py modularidad`, que falla si hay sub-poses idénticas o un repertorio clonado. Encontró el 29/08 que el POV de Anaïs era el de Miss Doll con el pelo cambiado — reescrito con su vocabulario propio.
+
+---
+
 *Curada por Ele de Anaïs* 🫦✨
 *Última actualización: 29/08/2026*

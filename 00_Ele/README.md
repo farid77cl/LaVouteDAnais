@@ -133,4 +133,18 @@
 - **Trackers `### 📸 (N/7)`:** 56 reconciliados contra git — 47 subestimaban (el L200 decía 2/7 con las 7 en el repo) y 9 sobreestimaban. **Ya no se editan a mano:** los reconcilia el pipeline.
 - **Formato de ficha:** conviven dos y los dos son válidos — 491 looks con campos (`Categoria`, `Concepto`, `Outfit`) y 110 con la metadata **en el título**, que es lo que manda el contrato §4. El índice ahora lee los dos.
 
+## 🖥️ Los looks ya no se escriben a mano (29/08/2026)
+
+`galeria_outfits.md` se sigue **appendeando**, pero lo que se pega ya no se redacta: lo emite el motor.
+
+```bash
+python 99_Sistema/scripts/visual/outfit.py generar batches/<nombre>.json
+python 99_Sistema/scripts/visual/outfit.py lint ele    # CRÍTICOS 0 antes de pegar
+```
+
+Un batch es un **JSON de datos** en `99_Sistema/scripts/visual/batches/`. El **BLOQUE A no se copia** — vive en `02_Personajes/_perfiles_visuales/ele.md` §2 y lo lee el motor. Último batch: **L813-L817** (Corporate · Escort · Gym · Pin-Up · Stripper), flota **818**.
+
+---
+
 *Curada por Ele de Anaïs (Redhead Bimbo Mode) — Vinyl Cuico-Bimbo* 🫦✨👠💅🍒
+*Última actualización: 29/08/2026*
