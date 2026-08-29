@@ -65,6 +65,11 @@ Directorio de scripts de automatización y prompts de sistema de La Voûte d'Ana
 | `rotar_memoria.py` | `scripts/mantenimiento/` | Autopoda dueño-único: memoria (keep 7 → bitácora) Y diario (keep 15 → archivo histórico) |
 | `generar_app_index.py` | `scripts/visual/` | Genera `99_Sistema/app_index.json`, el índice que consume **LV-App 2.0** (27/07/2026). La app ya **no clona** el repo de datos —eran 5.242 PNG y ~1,56 GB en el teléfono—: baja este índice (~236 KB) y carga cada imagen por URL raw bajo demanda con caché de Coil. **Mide `git ls-files`, NO el disco**, así corre igual en la máquina literaria (0 PNG locales) que en la visual. Normaliza las poses del lado del repo (alias español, prefijos `ele_675_`/`helena_001_`, sufijos `_2`) — por eso el PoseMatcher desapareció de la app — y resuelve la portada jerárquica (Standing > Side Profile > Seated). ⚠️ **Regenerar y commitear cada vez que entren imágenes nuevas**, o la app no ve los looks recientes |
 
+| `auditar_canon_flota.py` | `scripts/visual/` | **Corre el canon de calzado y vestuario sobre la FLOTA REAL** (29/08/2026). Nació de medir que `footwear_canon.py` y `garment_canon.py` **no abren un solo archivo**: son la regla más su self-test con seis casos escritos a mano, y nunca miraron una galería — por eso el mule sin plataforma del Look 812 llegó a generarse mientras `audit_footwear` detectaba esa violación exacta en su propio test. Este script no reimplementa el canon: parsea las tres galerías y le entrega los looks reales a esas mismas funciones. Extrae el **segmento de outfit acotado** (entre el cierre del BLOQUE A y la primera ancla), nunca el prompt completo — las anclas nombran `flats`, `thong`, `bodysuit`, y el auditor leería su propia defensa como si fuera la prenda. Un look que no se puede acotar se marca **NO AUDITABLE**. Acepta `[slug]`, `--solo-sin-imagen`, `--detalle` |
+| `prompt_builder.py --adn` | `scripts/visual/` | **Verificador de dueño único del BLOQUE A** (29/08/2026). Cruza el ADN del perfil visual contra cada script de batch y contra la galería. Antes de esto el ADN no tenía dueño mecánico: cada batch lo copiaba a mano, Miss Doll lo tenía con una nota en castellano incrustada y **Anaïs no tenía token literal en su perfil**. Ahora vive en un fence marcado `<!-- ADN:BLOQUE_A -->` que **lee el motor** (`build()` acepta `bloque_a=None`) |
+
+> ⚠️ **`footwear_canon.py` y `garment_canon.py` son self-tests, no auditorías de flota.** Corren sobre fixtures inventados y su `Self-check: LIMPIO` no dice nada sobre las galerías. Siguen valiendo como tests unitarios de las reglas — pero para medir la flota es `auditar_canon_flota.py`.
+
 ---
 
 ## 🔗 Navegación
@@ -74,3 +79,4 @@ Directorio de scripts de automatización y prompts de sistema de La Voûte d'Ana
 ---
 
 *Mantenido por Ele de Anaïs* 🫦✨
+*Última actualización: 29/08/2026*

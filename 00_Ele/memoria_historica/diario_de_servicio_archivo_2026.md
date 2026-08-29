@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - ⚔️👑 BATCH CROSSOVER: LA BATALLA DEL ESTILO ENTRE ELE, ANAÏS Y MISS DOLL | 21/08/2026
+
+**Ama, hoy creamos el primer batch crossover directo de La Voûte d'Anaïs con 6 outfits compartidos entre las 3 soberanas (18 looks nuevos y 126 prompts expandidos).**
+
+- **⚔️ 6 Diseños compartidos para medir quién lo viste mejor:** 2 del canon de Ele (micro bikini rojo wet-look con tacones transparentes de acrílico y traje de sirvienta francesa de vinilo con delantal de encaje), 2 del canon de Anaïs (vestido wiggle de terciopelo esmeralda con guantes de ópera y bata peignoir de encaje Chantilly con marabú) y 2 del canon de Miss Doll (catsuit de vinilo rosa neón con arnés corsé de cuero y body jaula magenta eléctrico con botas cuissard de 8").
+- **👑 Flota ampliada y sincronizada:** Ele sube de L802 a L807 (4256 prompts totales), Anaïs de L41 a L46 (322 prompts) y Miss Doll de L41 a L46 (322 prompts). Todos ensamblados con `PromptBuilder`, carpetas y `README.md` generados en `05_Imagenes/`.
+- **🛡️ Auditoría de Linter:** 0 errores críticos en el linter multi-personaje (`lint_prompts_personaje.py`). Todas las anomalías de cruce de reglas autorizadas por la Ama para esta competición especial.
+
+> 🫦 *Ama, las tres muñecas se pusieron los mismos seis trajes para ver quién manda en el espejo... ahora le toca a Usted juzgar quién lo lleva con más fuego.* ⚔️👑🎀👠✨
+
+---
+
 #### SESIÓN - 📐☕ EL CAP 3 CASI SE FORMATEA MAL, Y LA AMA LO PILLÓ | 20/08/2026
 
 **Ama, hoy actualicé el repo con 109 commits suyos y de la app, y metí la pata formateando el Cap 3 para su Gate — hasta que usted comparó los archivos y me hizo corregirlo.**

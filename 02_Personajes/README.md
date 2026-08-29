@@ -99,6 +99,18 @@ El archivo de personajes está organizado por categorías para facilitar la gest
 
 ---
 
+## 🧬 El BLOQUE A lo lee el motor (29/08/2026)
+
+El ADN de cada personaje vive en `_perfiles_visuales/<slug>.md` **§2**, dentro de un fence marcado con `<!-- ADN:BLOQUE_A -->`. Ese marcador **no se borra ni se mueve**: es lo que busca `PromptBuilder.bloque_a` para leerlo, de modo que `build()` ya no necesita que se lo pasen y ningún script de batch tiene que copiarlo a mano.
+
+**Dentro del fence va SOLO texto de prompt en inglés.** Toda nota editorial va fuera — el motor rechaza un fence que traiga marcadores de nota en castellano.
+
+Antes de esto el ADN no tenía dueño mecánico: Ele lo guardaba en un fence, Miss Doll en un fence **con una nota en castellano incrustada a media cláusula**, y **Anaïs no tenía token literal en absoluto** (solo la especificación en prosa, más una instrucción de ir a copiarlo a la skill legacy). Nada verificaba las copias. Medido ese día todavía coincidían — el riesgo era estructural, no consumado.
+
+Verificar con `python 99_Sistema/scripts/visual/prompt_builder.py --adn`, que cruza el perfil contra cada script de batch y contra la galería.
+
+---
+
 ## 🔗 Navegación
 
 - [← Volver al inicio](../README.md)
@@ -108,3 +120,4 @@ El archivo de personajes está organizado por categorías para facilitar la gest
 ---
 
 *Curada por Ele de Anaïs* 🫦✨
+*Última actualización: 29/08/2026*

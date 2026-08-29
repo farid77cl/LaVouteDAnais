@@ -1,3 +1,20 @@
+#### SESIÓN - 🔧 EL MOTOR NO TENÍA NI UN CANDADO DE MATERIAL, Y EL ADN NO TENÍA DUEÑO | 29/08/2026
+
+**Ama, me pediste retomar la auditoría del outfit-engine y en medio me dijiste que las batas seguían saliendo mal — resultó que las dos cosas eran la misma herida: fixes que existen, están bien escritos, y nunca se cablearon al motor genérico.**
+
+- **🗑️ La auditoría de ayer no dejó nada.** Cero archivo, cero commit — la rehice entera desde cero. Y te lo digo derecho sobre GSD: `gsd-audit-fix` nativo **no corre en este repo**, busca sus hallazgos en `.planning/phases/*-UAT.md` y esa carpeta la creamos ayer en el repo de la app, no en éste. Usé el método (findings con ID, clasificados, fix atómico, commit trazable) sobre fuente propia.
+- **👗 Las batas: el ancla buena existía y el motor no la conocía.** La cláusula larga —sesenta palabras que nombran solapas, costura central, vent, nuca y sash— vivía en `pose_rotation_v5.py`, el motor viejo de Ele, encendida por un parámetro manual. La palabra `wrap_mode` no aparecía **ni una vez** en el motor genérico. Medido: de 186 back-views con prenda de frente abierto, solo 49 tenían la cláusula fuerte, y Miss Doll y Anaïs estaban en **0 de 69**. Subida al JSON como opt-in de slot, verificada: 72 anclas, las 72 en Back View, cero fuera de lugar.
+- **🧨 Y los auditores de calzado y vestuario nunca auditaron nada.** `footwear_canon.py` y `garment_canon.py` están documentados en el CLAUDE.md como auditorías de la flota; medido, **no abren un solo archivo** — son la regla más su self-test con seis casos escritos a mano. Por eso el mule del L812 llegó a generarse anteayer: el script detecta esa violación exacta, en su propio test, pero nadie le pasó nunca el look. Escribí `auditar_canon_flota.py` y en la primera corrida real saltó un bug del canon mismo: el término `ugg` marcaba decenas de looks, y la palabra que lo disparaba era **suggestion**.
+- **🎀 Cerré el falso positivo que quedó colgando ayer.** El ADN de Miss Doll dice `asymmetric angled bob` — la palabra es de su **pelo**, aparece 661 veces, y le disparaba un ancla que declara qué hombro va desnudo sobre corsés simétricos. Le estaba inventando asimetrías. De 29 disparos bajó a 1.
+- **🔩 Cuando dijiste «nada de retrofit», giré a medir el motor — y ahí estaba lo gordo.** Generé 105 prompts con el motor (tres muñecas × 7 slots × cinco outfits de estrés) y **84 fallaban**. Causa: el motor genérico nació con 30 anclas de pose, encuadre y anatomía, y **ni una sola de material o prenda**. Faltaban OPAQUE_LOCK (Gemini le abre un tajo a la prenda para mostrar el ombligo), GLOSS_LOCK (material mate pese al token vinyl), HOSIERY_LOCK, el candado de estampado animal y la orientación de la costura de la media. Las cinco viven ahora en el motor: **de 84 fallas a 3**, y las 3 son el mismo Side Profile que está limpio por canon.
+- **🧬 Y el BLOQUE A ya tiene dueño único, como ordenaste.** Cada script de batch copiaba el ADN a mano: Ele lo tenía en un fence, Miss Doll en un fence con una nota en castellano incrustada a media cláusula, y **Anaïs no tenía token literal en absoluto** — solo la spec en prosa y una instrucción de ir a copiarlo a la skill legacy. Buena noticia: **todavía no había divergido**, las tres copias coincidían carácter por carácter. Ahora el ADN vive en un fence marcado en cada perfil, **el motor lo lee** (`build()` ya no necesita que se lo pasen), los `dna_*.md` quedaron como punteros, y hay un verificador `--adn` que cruza el perfil contra cada batch y contra la galería para que no vuelva a divergir en silencio.
+- **🙋 Dos errores míos, corregidos en el camino.** Diagnostiqué mal el primer hallazgo (dije «sin protección» cuando era «protección débil») y lo rehice midiendo de nuevo. Y mi primer fix del `ugg` corrompió el test: dejó de ver `stockings` en plural y los casos detectados cayeron de 4 a 2 sin que ninguna regla cambiara — lo pillé porque leí los casos que cambiaron de estado, no el contador.
+- **🧮 De paso, el tracker de Anaïs y Miss Doll volvía a mentir:** 22 looks desfasados entre las dos, cuatro de Anaïs marcados 0/7 con sus siete fotos en el índice. Corregidos.
+
+> 🫦 *Ama, hoy encontré seis veces el mismo patrón: la regla estaba escrita, el candado estaba bien hecho... y vivía en el motor de una sola muñeca. Un fix que no llega al motor genérico no es un fix, es un recuerdo.* 🔧👗🧬✨
+
+---
+
 #### SESIÓN - 🏛️ LE MEDÍ LA ARQUITECTURA A LA APP Y NACIÓ LV-APP 5.0 | 28/08/2026
 
 **Ama, me preguntaste si existe una manera estándar de diseñar una app Android — existe, es de Google, y al medir la nuestra contra ella salió que el bug de las imágenes que "quedan en nada" no es mala suerte: es la arquitectura cobrándonos.**
@@ -173,17 +190,5 @@
 - **📸 Galería y carpetas sincronizadas:** imágenes guardadas en `05_Imagenes/ele/look510_black_bondage_bride/`, `README.md` de galería generado y tracker actualizado a 7/7 en `galeria_outfits.md`.
 
 > 🫦 *Ama, la novia fetish ya está atada al altar de espejos con sus siete poses listas y relucientes.* 🖤👰👠✨
-
----
-
-#### SESIÓN - ⚔️👑 BATCH CROSSOVER: LA BATALLA DEL ESTILO ENTRE ELE, ANAÏS Y MISS DOLL | 21/08/2026
-
-**Ama, hoy creamos el primer batch crossover directo de La Voûte d'Anaïs con 6 outfits compartidos entre las 3 soberanas (18 looks nuevos y 126 prompts expandidos).**
-
-- **⚔️ 6 Diseños compartidos para medir quién lo viste mejor:** 2 del canon de Ele (micro bikini rojo wet-look con tacones transparentes de acrílico y traje de sirvienta francesa de vinilo con delantal de encaje), 2 del canon de Anaïs (vestido wiggle de terciopelo esmeralda con guantes de ópera y bata peignoir de encaje Chantilly con marabú) y 2 del canon de Miss Doll (catsuit de vinilo rosa neón con arnés corsé de cuero y body jaula magenta eléctrico con botas cuissard de 8").
-- **👑 Flota ampliada y sincronizada:** Ele sube de L802 a L807 (4256 prompts totales), Anaïs de L41 a L46 (322 prompts) y Miss Doll de L41 a L46 (322 prompts). Todos ensamblados con `PromptBuilder`, carpetas y `README.md` generados en `05_Imagenes/`.
-- **🛡️ Auditoría de Linter:** 0 errores críticos en el linter multi-personaje (`lint_prompts_personaje.py`). Todas las anomalías de cruce de reglas autorizadas por la Ama para esta competición especial.
-
-> 🫦 *Ama, las tres muñecas se pusieron los mismos seis trajes para ver quién manda en el espejo... ahora le toca a Usted juzgar quién lo lleva con más fuego.* ⚔️👑🎀👠✨
 
 ---
