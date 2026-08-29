@@ -131,8 +131,9 @@ python 99_Sistema/scripts/visual/update_galleries.py          # rebuild master g
 # Audits ("the test suite")
 python 99_Sistema/scripts/visual/auditar_galeria.py           # gallery integrity
 python 99_Sistema/scripts/visual/lint_galeria.py              # galeria_outfits.md contract (rule 11)
-python 99_Sistema/scripts/visual/footwear_canon.py            # stiletto/Pleaser rule across looks
-python 99_Sistema/scripts/visual/garment_canon.py             # garment-token consistency
+python 99_Sistema/scripts/visual/auditar_canon_flota.py       # footwear + garment canon ON THE REAL FLEET (add --solo-sin-imagen for live risk)
+python 99_Sistema/scripts/visual/footwear_canon.py            # self-test of the stiletto/Pleaser rules — fixtures only, reads no gallery
+python 99_Sistema/scripts/visual/garment_canon.py             # self-test of the garment-token rules — fixtures only, reads no gallery
 python 99_Sistema/scripts/visual/scan_pending.py              # which looks are still missing poses
 python 99_Sistema/scripts/visual/count_stats.py               # fleet stats
 
@@ -146,7 +147,9 @@ python 99_Sistema/scripts/rrss/caption_factory.py --list
 python 99_Sistema/scripts/rrss/caption_factory.py --look <N> --plataformas bluesky --encolar
 ```
 
-The audit scripts take **no arguments** (they sweep the whole fleet) — the exception is `lint_galeria.py --solo-desde <N>`. Only `rotar_memoria.py` uses argparse/`--help`.
+The audit scripts take **no arguments** — the exceptions are `lint_galeria.py --solo-desde <N>` and `auditar_canon_flota.py [slug] [--solo-sin-imagen] [--detalle]`. Only `rotar_memoria.py` uses argparse/`--help`.
+
+> ⚠️ **"No arguments" never meant "sweeps the fleet" (corrected 29/08/2026).** `footwear_canon.py` and `garment_canon.py` were documented here as auditing *across looks*; measured, **neither opens a single file** — each is a validator function plus its own self-test over six hand-written fixtures. They had never read a gallery, which is how the Look 812 mule-without-platform reached generation on 28/08 while `audit_footwear` detected that exact violation in its own test suite. `auditar_canon_flota.py` is the missing cable: it parses the three galleries and feeds the real looks to those same functions. Keep the two originals — they are the rules' unit tests, and running them stays worthwhile; just don't mistake a green self-test for a clean fleet.
 
 ## Automation Scripts
 
