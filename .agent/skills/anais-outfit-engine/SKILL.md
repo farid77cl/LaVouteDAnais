@@ -7,6 +7,21 @@ description: "DEPRECADO 11/08/2026 — no usar como motor activo. El motor vigen
 
 # 👑 Anaïs Outfit Engine (V2.3 Vintage Noir Hard-Sync) — ARCHIVO HISTÓRICO, NO USAR COMO WORKFLOW
 
+> 🔧 **ESTE YA NO ES EL MOTOR (29/08/2026).** La maquinaria vive en
+> **`.agent/skills/outfit-engine/SKILL.md`** — genérica, para las tres muñecas — y se ejecuta por
+> una sola puerta: `python 99_Sistema/scripts/visual/outfit.py`. Lo que diferencia a este personaje
+> (ADN, reglas de vestuario, poses, arquetipos, tabúes) vive en su **perfil visual**,
+> `02_Personajes/_perfiles_visuales/anais.md`, que es su dueño único.
+>
+> **Por qué se retiró:** los motores por personaje derivan. El de Ele llegó a ~1.800 líneas y
+> copiarlo para Anaïs produjo **147** — viajó el ADN, no la maquinaria (sin Step 0, sin token
+> bloqueado, sin rotación de poses); Miss Doll nunca tuvo motor. Y un fix hecho en uno no llega a
+> las otras: el 29/08 se midió que el ancla de bata, que vivía aquí, **nunca llegó a Miss Doll ni a
+> Anaïs — 0 de 69 back-views**.
+>
+> **Qué conserva valor de este archivo:** el material de personaje — sub-arquetipos, referencias
+> del mundo real, estudios de silueta. Eso se lee; la maquinaria, no se invoca.
+
 Motor central para la coherencia estética y técnica de Anaïs Belland. Garantiza que cada nuevo Look respete el ADN Vintage Noir v2.3 y mantenga el equilibrio arquetipal del repositorio.
 
 ## 🧬 ADN V2.3 Vintage Noir (Referencia Rápida)

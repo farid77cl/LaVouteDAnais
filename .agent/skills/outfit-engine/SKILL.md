@@ -15,6 +15,49 @@ description: Motor de looks GENÉRICO y modular, válido para cualquier personaj
 > | Linter (parsea como LV-App) | `99_Sistema/scripts/visual/lint_prompts_personaje.py` |
 > | Contrato de nombre de archivo y formato | `.agent/rules/11-contrato-galeria.md` |
 
+---
+
+## 🖥️ v3.0 (29/08/2026) — el motor es un PROGRAMA, y se entra por una sola puerta
+
+> **Ama, 29/08/2026:** *"me molesta que el outfit engine no sea un programa, una app como tal si ya está en un 80% como app. lo cual está bien porque nos da estabilidad, escalabilidad"*.
+>
+> Tenía razón, y el 20% que faltaba estaba concentrado en un sitio: **generar un batch era escribir un programa.** Medido sobre `gen_lenceria_808_812.py` — de sus 158 líneas, **~140 eran datos** y ~18 el bucle que los emitía, y ese bucle se reescribía a mano en cada batch, con variaciones. De ahí salió el defecto del **Look 801**: corrió su propio bucle y entregó cuatro poses sin `GARMENT_CONSISTENCY`, sin `PHOTOREAL_LOCK` y sin ancla de orientación. Además cada script se inventaba su **propio esquema de datos** (el `META` de Ele tenía 3 campos, el de Anaïs 5, Miss Doll usaba diccionarios sueltos), y por eso derivaban.
+
+**Una sola puerta de entrada — `99_Sistema/scripts/visual/outfit.py`:**
+
+| Comando | Qué hace |
+|---|---|
+| `outfit.py generar <batch.json>` | **Emite un batch de looks desde DATOS.** Nunca más un script por batch |
+| `outfit.py adn` | Verifica el **dueño único del BLOQUE A**: perfil vs. cada batch vs. galería |
+| `outfit.py lint [slug]` | Parsea las galerías **como LV-App** y avisa anclas faltantes |
+| `outfit.py auditar [--solo-sin-imagen]` | Corre el canon de calzado y vestuario **sobre la flota real** |
+| `outfit.py anclas <slug>` | Inyecta anclas faltantes en una galería ya escrita |
+| `outfit.py modularidad` | 0 personajes en la lógica · campos propios declarados · sub-poses únicas |
+| `outfit.py test` | Self-checks de las reglas **+ 32 pruebas del motor** |
+| `outfit.py personajes` · `poses <slug>` · `stats` | Inventario |
+
+**Un batch es un JSON en `99_Sistema/scripts/visual/batches/`**, no un `.py`:
+
+```json
+{ "personaje": "ele", "batch": "La Perla y HB Lencería", "fecha": "27/08/2026",
+  "categoria": "Lencería", "rango": "808-812", "tags_comunes": ["laperla", "V7poses"],
+  "negative_extra": "cotton lingerie, organic fabric",
+  "looks": { "808": {
+      "titulo": "Noir Lace La Perla Suite", "codigo": "LA1", "polo": "A Boudoir",
+      "bloque_b": "<el outfit del día>",
+      "setting":  "<BLOQUE C>",
+      "props":    {"seat": "…", "wall": "…", "surface": "…", "upright": "…"} } } }
+```
+
+- **El BLOQUE A no va ahí.** Lo lee el motor del perfil visual (§2, fence `<!-- ADN:BLOQUE_A -->`), que es su **dueño único** desde el 29/08/2026: `build()` acepta `bloque_a=None`. Antes cada script lo copiaba a mano y **Anaïs ni siquiera tenía token literal** en su perfil.
+- **Lo que difiere por personaje sale del perfil, no del batch:** emoji del encabezado, etiqueta del slot 5, carpeta de imágenes, orientación alterna de la Odalisque.
+- **La variación por look se DECLARA, no se copia:** `adn_overrides` (la rotación de maquillaje de Miss Doll, canon de su perfil §5.5 — falla ruidosamente si el fragmento ya no existe en el ADN), más `tags`, `concepto`, `negative_extra` y `emitir_bloque_b` opcionales.
+- **Campos obligatorios por look:** `titulo`, `bloque_b`, `setting`. Y `props` con el **mobiliario real del setting** — el motor lo exige (Ama 08/06/2026: *"cada pose debe ser armoniosa con el ambiente"*).
+
+> ✅ **Verificado antes de adoptarlo:** se regeneraron los dos batches existentes desde sus JSON y se compararon con el markdown escrito a mano — **estructura idéntica y cero diferencias de prompt** más allá de las anclas agregadas ese mismo día.
+>
+> ⏳ **Anaïs no está migrada a batch-como-datos.** Su formato de emisión difiere en cuatro puntos (encabezado 👑, línea `**Arquetipo:** · **Paleta:**`, `**1. Standing:**` en vez de `### 1.`, y su BLOQUE B **inline entre backticks** — la forma exacta que ya rompió el parser de LV-App). Unificarlo toca su galería viva: es decisión de la Ama, no un refactor silencioso.
+
 Motor **agnóstico de personaje**. Todo lo que aquí se describe es *mecanismo*: vale igual para Ele, Miss Doll, Anaïs o cualquier personaje futuro. Lo que cambia de un personaje a otro — su cuerpo, su ropa, sus poses, sus tabúes — **no vive aquí**: vive en su **perfil visual**.
 
 > 🧬 **La división (directiva Ama 27/07/2026):**
@@ -113,7 +156,9 @@ El BLOQUE B se escribe **una sola vez** con máximo detalle — material exacto,
 >
 > **La cicatriz (11/08/2026):** los 98 prompts nuevos de Miss Doll se escribieron literalmente como `[BLOQUE A] + [BLOQUE B], full body standing shot…, [BLOQUE C setting]`. La galería *se veía impecable*. Pero LV-App extrae el bloque de código tal cual y se lo manda al generador: 98 imágenes se habrían pedido **sin cara, sin cuerpo, sin pelo, sin ropa, sin escenario y sin negativo**. Mismo modo de falla que el placeholder `[ADN]` de Anaïs cuatro días antes. Revisar a ojo no lo detectó — lo detectó parsear el archivo como lo parsea la app.
 >
-> **Herramienta, no fuerza de voluntad:** el ensamblado lo hace `99_Sistema/scripts/visual/prompt_builder.py` (`PromptBuilder(slug).build(...)`), y `lint_prompts_personaje.py` lo verifica. Escribir los prompts a mano está permitido; entregarlos sin pasar el linter, no.
+> **Herramienta, no fuerza de voluntad:** el ensamblado lo hace `prompt_builder.py` (`PromptBuilder(slug).build(...)`), y `outfit.py lint` lo verifica parseando la galería como la parsea la app.
+>
+> 🔴 **Escribir los prompts a mano DEJÓ de estar permitido (29/08/2026).** Esta línea decía *"escribir los prompts a mano está permitido; entregarlos sin pasar el linter, no"*. **Está derogada por evidencia:** el Look 801 se escribió a mano y sus cuatro poses materializadas salieron sin `GARMENT_CONSISTENCY`, sin `PHOTOREAL_LOCK` y sin ancla de orientación — el Side Profile rindió **otro outfit completo**. El linter no lo salvó porque el linter mide lo que está escrito, no lo que faltó escribir. **Todo look se ensambla con el motor:** `outfit.py generar <batch.json>`. Es la lección, no el parche.
 
 Reglas de escritura:
 - El **BLOQUE A se copia del perfil**, nunca se escribe de memoria ni se resume.

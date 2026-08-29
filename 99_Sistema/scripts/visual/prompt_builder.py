@@ -752,6 +752,57 @@ def _cli():
                 cabeza = adn[:120]
                 print("     %s galeria: %d prompts abren con este ADN"
                       % ("ok  " if cabeza in g else "🔎  ", g.count(cabeza)))
+
+            # 3) contra la DOCUMENTACION. Las copias del ADN no solo viven en
+            # codigo: el 29/08/2026 se encontro una en `.agent/workflows/
+            # generar_look.md` a la que le faltaba el tatuaje runico de cadera
+            # (canon desde el 20/06). Quien siguiera ese workflow al pie de la
+            # letra habria generado a Ele sin su marca de identidad. Un .md que
+            # copia el ADN envejece igual que un .py, y nadie lo estaba mirando.
+            firma = adn[:70]
+            duenio = os.path.normpath(os.path.join(raiz, pb.perfil["perfil_visual"]))
+            for base in (".agent", ".claude", "02_Personajes", "00_Ele", "99_Sistema"):
+                for dirpath, _dn, files in os.walk(os.path.join(raiz, base)):
+                    for fn in files:
+                        if not fn.endswith(".md"):
+                            continue
+                        ruta_md = os.path.join(dirpath, fn)
+                        if os.path.normpath(ruta_md) == duenio:
+                            continue
+                        try:
+                            texto = open(ruta_md, encoding="utf-8").read()
+                        except (IOError, UnicodeDecodeError):
+                            continue
+                        if firma not in texto:
+                            continue
+                        rel_md = os.path.relpath(ruta_md, raiz).replace(os.sep, "/")
+                        # Lo histórico está desactualizado A PROPÓSITO y no se
+                        # toca: el archivo legacy es un museo, la memoria vieja
+                        # es un registro de lo que se creía entonces, y los
+                        # `output_*.md` son salidas de un solo uso ya pegadas en
+                        # su galería. Marcarlos seria ruido garantizado — y peor,
+                        # invitaría a "arreglar" un archivo cuyo valor es
+                        # justamente conservar el texto de su época.
+                        bajo = rel_md.lower()
+                        if any(x in bajo for x in ("legacy", "memoria_historica", "archivo_",
+                                                   "/output_", "_archivo", "pendientes_",
+                                                   ".bkp", "backup")):
+                            continue
+                        # Y si el documento SE DECLARA obsoleto en su cabecera, se
+                        # respeta: mas fiable que adivinar por el nombre. Ejemplo
+                        # real: `00_Ele/prompts_ditzy_pendientes.md` abre con
+                        # "WORK-FILE OBSOLETO (poses con esquema viejo)" y dice
+                        # explicitamente que no se usen sus prompts.
+                        if re.search(r"\b(obsoleto|derogad[oa]|archivad[oa]|museo|"
+                                     r"no invocar|sin retrofit)\b", texto[:1200], re.I):
+                            continue
+                        if adn in re.sub(r"\s+", " ", texto):
+                            print("     ok   copia al día en %s" % rel_md)
+                        else:
+                            malos += 1
+                            print("     🔴 COPIA DESACTUALIZADA del ADN en %s" % rel_md)
+                            print("          apunta al perfil en vez de copiarlo, "
+                                  "o actualízala contra el dueño único")
         print("\n" + "-" * 70)
         print("DUEÑO UNICO DEL BLOQUE A: %s" % ("LIMPIO — ninguna copia diverge" if not malos
                                                 else "🔴 %d divergencia(s)" % malos))

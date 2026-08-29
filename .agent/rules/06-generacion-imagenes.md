@@ -52,18 +52,16 @@ Las variantes preservan ADN V3.5 + Footwear Canon. No regenerar batches con plan
 
 Cuando el look use una prenda **envolvente de frente abierto** — robe, kimono, peignoir, **bata**, wrap cardigan, hanbok/qipao abierto — el generador la ponía **AL REVÉS en la pose de espalda**: la abertura/escote corría por la columna (dejando el poto y la lencería al aire por donde va el *paño trasero*), porque el token de vestuario dice *"parted at front revealing X / off the shoulders"* y eso es una instrucción **relativa a la cámara** que, con el cuerpo de espaldas, la IA resuelve abriendo la prenda hacia el lente. Confirmado en **L256** (bata La Perla) y **L703** (kimono peacock). Los que salieron bien (L407) tenían la bata deslizada de los hombros.
 
-**Regla:** todo inyector que genere un look con prenda envolvente **DEBE** pasar `wrap_mode` a `rotate_poses`:
+> 🔧 **AUTOMÁTICO DESDE EL 29/08/2026 — ya no hay nada que recordar.** Esta regla decía *"todo inyector que genere un look con prenda envolvente **DEBE** pasar `wrap_mode` a `rotate_poses`"*, con tres valores a elegir a mano. **Era una regla que dependía de mi memoria, y por eso fallaba:** medido ese día, de **186 back-views con prenda de frente abierto solo 49 llevaban la cláusula fuerte** — y Miss Doll y Anaïs estaban en **0 de 69**, porque el ancla vivía en `pose_rotation_v5.py`, el motor viejo de **un** personaje, y la palabra `wrap_mode` no aparecía ni una vez en `prompt_builder.py`.
+>
+> **Hoy la pone el motor solo.** `WRAP_BACK_ROBE` y `WRAP_BACK_TAILORED` son anclas **opt-in** en `anclas_universales.json` (dueño único), las dispara el BLOQUE B por vocabulario y se aplican **solo al slot `back_view`** (`OPT_IN_SOLO_SLOT`), con desempate a favor de la estructurada cuando el look nombra las dos. No hay parámetro que pasar ni decisión que recordar.
 
-```python
-poses = rotate_poses(look_number, ..., wrap_mode="slip")   # o "closed"
-```
+**Qué hace cada una, para entenderlas — no para elegirlas a mano:**
 
-- `wrap_mode="slip"` → bata **deslizada de los hombros, colgando de los brazos**: espalda + lencería al aire pero prenda físicamente correcta (la abertura va adelante; solo se resbaló). **Default recomendado** para boudoir/lencería (conserva el desnudo sensual).
-- `wrap_mode="closed"` → bata **bien puesta**: paño continuo cerrado cayendo por la columna (espalda cubierta). Para batas cortas/deportivas o cuando no se busca desnudo.
-- `wrap_mode="tailored"` (Ama 02/08/2026) → **prenda de frente abierto ESTRUCTURADA y cerrada** (blazer, chaqueta, abrigo, tuxedo, coat-dress, blazer-dress): ancla el **panel de espalda liso a la cámara**, solapas/abertura/botones al lado lejano, nunca al revés. Es el mismo bug de la bata pero en sastrería — pega en los looks corporate. Usarlo siempre que el outfit lleve blazer/chaqueta cerrada.
-- `wrap_mode=None` → sin prenda envolvente (comportamiento normal). **La elección es caso a caso** (directiva Ama): la decide el inyector según el concepto del look.
+- **`WRAP_BACK_ROBE`** — la dispara `robe · kimono · peignoir · dressing gown · negligee · wrap dress/top`. Afirma la bata **bien puesta**: paño continuo cerrado cayendo por la columna, con la abertura, las solapas y el nudo del sash **al lado lejano de la cámara**, y niega el defecto exacto (abertura o costura corriendo por la espalda).
+- **`WRAP_BACK_TAILORED`** — la dispara `blazer · tuxedo · trench · overcoat · coat-dress · suit jacket · bolero · cardigan`. Es el mismo bug en sastrería (Ama 02/08/2026, *"el blazer corporate sale al revés de espaldas"*): ancla el **panel de espalda liso** con su costura central y su vent, mangas y cuello vistos desde la nuca.
 
-El ancla se inyecta **solo en el slot Back View** (donde ocurre el fallo). Vive en `pose_rotation_v5.py` (`WRAP_BACK_SLIP` / `WRAP_BACK_CLOSED` / `WRAP_BACK_TAILORED`), con self-check en el `__main__`. Ver auto-memoria `feedback_bata_reverso_espalda`. **Los prompts ya escritos (71 back-views de la flota) se blindaron por barrido el 02/08** — esta regla protege los looks NUEVOS.
+> El barrido histórico del 02/08 (71 back-views) sigue siendo válido, y el 29/08 se completó el retrofit sobre el **riesgo vivo** (las poses sin imagen). Verificación: `outfit.py lint` avisa si la condición está y el ancla no. Ver auto-memoria `feedback_bata_reverso_espalda` y `feedback_fix_en_un_personaje_no_es_fix`.
 
 ## 7. ODALISCA RECOSTADA, NO SENTADA (Directiva Ama 09/07/2026 — BUG "odalisca sentada")
 

@@ -178,7 +178,9 @@ La **Subcategoría** es libre y descriptiva (`Office Siren (Thigh-High Boots)`),
 ## 9. ✅ CHECKLIST ANTES DE CERRAR UN BATCH
 
 ```bash
-python 99_Sistema/scripts/visual/lint_prompts_personaje.py   # 🔴 TODOS los personajes — parsea como la app
+python 99_Sistema/scripts/visual/outfit.py lint              # 🔴 TODOS los personajes — parsea como la app
+python 99_Sistema/scripts/visual/outfit.py adn               # el BLOQUE A no divergió en ninguna copia
+python 99_Sistema/scripts/visual/outfit.py auditar --solo-sin-imagen   # canon sobre lo que la app todavía va a generar
 python 99_Sistema/scripts/visual/lint_galeria.py             # el contrato (Ele)
 python 99_Sistema/scripts/visual/sync_imagenes_subidas.py    # tracker + rutas
 python 99_Sistema/scripts/visual/update_galleries.py         # READMEs + galería

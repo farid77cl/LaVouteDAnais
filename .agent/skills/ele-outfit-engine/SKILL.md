@@ -5,6 +5,21 @@ description: Motor especializado en la creación y gestión de la identidad visu
 
 # 👠 Ele Outfit Engine (V3.5)
 
+> 🔧 **ESTE YA NO ES EL MOTOR (29/08/2026).** La maquinaria vive en
+> **`.agent/skills/outfit-engine/SKILL.md`** — genérica, para las tres muñecas — y se ejecuta por
+> una sola puerta: `python 99_Sistema/scripts/visual/outfit.py`. Lo que diferencia a este personaje
+> (ADN, reglas de vestuario, poses, arquetipos, tabúes) vive en su **perfil visual**,
+> `02_Personajes/_perfiles_visuales/ele.md`, que es su dueño único.
+>
+> **Por qué se retiró:** los motores por personaje derivan. El de Ele llegó a ~1.800 líneas y
+> copiarlo para Anaïs produjo **147** — viajó el ADN, no la maquinaria (sin Step 0, sin token
+> bloqueado, sin rotación de poses); Miss Doll nunca tuvo motor. Y un fix hecho en uno no llega a
+> las otras: el 29/08 se midió que el ancla de bata, que vivía aquí, **nunca llegó a Miss Doll ni a
+> Anaïs — 0 de 69 back-views**.
+>
+> **Qué conserva valor de este archivo:** el material de personaje — sub-arquetipos, referencias
+> del mundo real, estudios de silueta. Eso se lee; la maquinaria, no se invoca.
+
 > 🎯 **FUENTE ÚNICA DEL ENGINE VISUAL DE ELE.** Este SKILL es la autoridad del canon de outfit. Complementos vigentes: `00_Ele/identidad_ele.md` (identidad + ADN §II) · `00_Ele/memoria_sesiones.md` (flota + último look — dueño único 02/07/2026) · `00_Ele/biblioteca_siluetas.md` (siluetas por sub-arquetipo) · `.agent/rules/04-estetica-ele.md` (tacones/maquillaje/color) · `.agent/workflows/generar_look.md` (wrapper operativo). Los viejos `CANON_V3_5_MASTER.md`, `canon_visual_ele.md`, `flujo_outfit_diario.md`, `ele_identidad_bolsillo.md`, `prompts_ele_v3_master.md` fueron **archivados como obsoletos** (11/06/2026) en `00_Ele/memoria_historica/_canon_obsoleto_abril2026/` — NO usarlos.
 
 Este Skill es el motor central para mantener la coherencia estética y técnica de Ele. Su objetivo es garantizar que cada nuevo activo visual respete el ADN canónico y mantenga el equilibrio estadístico del repositorio.
