@@ -45,7 +45,12 @@ import re
 import subprocess
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+# La reconfiguración de stdout va SOLO al ejecutarse, nunca al importarse: envolver
+# `sys.stdout` en un TextIOWrapper nuevo a nivel de módulo cierra el original y
+# rompe a cualquiera que use este archivo como librería (medido 29/08/2026 al
+# reutilizar `segmento_outfit` desde otro script: "I/O operation on closed file").
+if __name__ == "__main__":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.abspath(os.path.join(AQUI, "..", "..", ".."))

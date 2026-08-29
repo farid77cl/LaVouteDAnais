@@ -1,0 +1,82 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_step_0": "Los últimos 18 looks traían Lencería 7 veces (batch L808-L812 completo). Arquetipo bloqueado. Estos 5 salen a cinco sub-arquetipos distintos, ninguno repetido entre sí. Anti-monoblock respetado (máx 2 seguidos: L813 y L814 son contraste/triada, L815 neutro+pop, L816 contraste, L817 animal print sobre base). Cuota animal print del 11/07 (1 de cada 8) la paga L817. Calzado desacoplado: cinco modelos distintos.",
+  "personaje": "ele",
+  "batch": "Espectro de Arquetipos",
+  "fecha": "29/08/2026",
+  "categoria": "Mix",
+  "rango": "813-817",
+  "tags_comunes": [
+    "batchL813-L817",
+    "V7poses"
+  ],
+  "negative_extra": "matte natural fabric, cotton, wool, linen, denim, tweed, plain jersey, modest coverage, flat shoes, block heel, wedge",
+  "looks": {
+    "813": {
+      "titulo": "Acid Chartreuse Boardroom",
+      "codigo": "C1",
+      "polo": "Corporate Power",
+      "bloque_b": "an acid chartreuse liquid-latex blazer dress worn as the single garment: a sharp peak-lapel neckline plunging to the sternum, long fitted sleeves to the wrist, a hem cut high on the mid-thigh, the waist cinched by a mirror-chrome buckled belt, worn over a black high-gloss PVC thong; sheer black hold-up stockings with a straight back seam and a visible chrome-clasp suspender belt; a slim chrome choker with no lettering; closed pointed-toe slingback stiletto pumps in acid chartreuse patent vinyl, 13cm thin pin stiletto heel, no platform, sharp pointed closed toe, slingback strap at the heel, chrome heel cap and chrome sole edge",
+      "setting": "a glass-walled penthouse boardroom at dusk, a long slab of black marble table, floor-to-ceiling windows with the city grid lit below, cold architectural downlight raking across the latex",
+      "props": {
+        "seat": "a chrome and black leather executive chair",
+        "wall": "a floor-to-ceiling window wall",
+        "surface": "the black marble boardroom table",
+        "upright": "a polished chrome structural column"
+      }
+    },
+    "814": {
+      "titulo": "Oil-Slick Opera Escort",
+      "codigo": "E4",
+      "polo": "Escort Haute",
+      "bloque_b": "an oil-slick multichrome liquid-lamé gown that shifts violet to teal to bronze with every fold: a one-shoulder asymmetric neckline with the left shoulder bare, a single long sleeve on the right arm only, a floor-sweeping hem split to the hip on the left leg, the bodice moulded to the ribcage; a mirror-silver PVC thong beneath; bare legs, no stockings; a single oversized chrome cuff on the bare left wrist; closed pointed-toe stiletto pumps in mirror-silver chrome vinyl, 14cm thin pin stiletto heel, no platform, sharp pointed closed toe, thin ankle strap with a chrome pin buckle, mirrored chrome heel and sole edge",
+      "setting": "the red-carpeted marble staircase of a private opera house at night, gilt balustrade and crystal sconces, warm gold key light against the cold multichrome of the gown",
+      "props": {
+        "seat": "a gilt velvet bench on the landing",
+        "wall": "a mirrored gilt-framed panel",
+        "surface": "the marble balustrade rail",
+        "upright": "a fluted marble column"
+      }
+    },
+    "815": {
+      "titulo": "Mercury Wet-Look Performance",
+      "codigo": "G2",
+      "polo": "Gym Performance",
+      "bloque_b": "a mercury-silver wet-look spandex sports set rendered in high-shine liquid finish: a halter-neck crop bra top with a deep plunging keyhole-free neckline and no sleeves, cut to sit just under the bust, paired with high-waisted micro shorts cut as a thong at the back with a narrow tapered front panel and a thin waistband high on the hip bones; a single hot-pink neon vinyl stripe running down the outer seam of each short; bare legs, no stockings; a chrome choker with no lettering; platform stiletto trainers in mercury-silver patent vinyl, 16cm heel plus 5-inch chrome platform, closed rounded toe, laced through chrome eyelets with a hot-pink lace, mirrored chrome sole plate",
+      "setting": "a private mirrored gym at night, chrome dumbbell racks and a black rubber floor, hard directional spotlights bouncing off the mirrors and the wet-look fabric",
+      "props": {
+        "seat": "a black leather weight bench",
+        "wall": "a full-height gym mirror",
+        "surface": "a chrome dumbbell rack",
+        "upright": "a chrome squat-rack upright"
+      }
+    },
+    "816": {
+      "titulo": "Bubblegum Vinyl Sweetheart",
+      "codigo": "P3",
+      "polo": "Pin-Up",
+      "bloque_b": "a bubblegum pink patent vinyl wiggle dress: a sweetheart neckline with a moulded structured cup, short cap sleeves capping the shoulder, a pencil hem to just above the knee with a kick pleat at the back, a wide cream vinyl belt cinching the waist; a cream vinyl thong beneath; sheer nude seamed stockings with a straight back seam and a cream suspender belt; a single cream vinyl bow pinned at the hip; closed almond-toe Mary Jane stiletto pumps in cream patent vinyl, 12cm thin pin stiletto heel, no platform, closed almond toe, a single instep strap with a pink enamel button, cream lacquered sole edge",
+      "setting": "a 1950s ice-cream parlour at golden hour, mint-and-cream checkerboard floor, chrome counter stools and a neon sign in the window casting pink onto the vinyl",
+      "props": {
+        "seat": "a chrome and cream counter stool",
+        "wall": "a mint tiled parlour wall",
+        "surface": "the chrome soda counter",
+        "upright": "a chrome pole of the counter stool"
+      }
+    },
+    "817": {
+      "titulo": "Leopard Chrome Pole Predator",
+      "codigo": "S6",
+      "polo": "Stripper Stage",
+      "bloque_b": "a leopard-print high-gloss vinyl two-piece stage set: a triangle bra top with a deep plunging halter neckline and no sleeves, tied at the nape in chrome rings, paired with a matching leopard-print vinyl thong with a narrow tapered front panel, a thin waistband riding high on the hip bones and a single slim strip at the back leaving the seat uncovered; a chrome body chain crossing the ribcage; bare legs, no stockings; platform stiletto sandals in clear transparent acrylic, 18cm heel plus 6-inch clear platform, open toe, two clear acrylic ankle straps with chrome buckles, chrome sole edge",
+      "setting": "the mirrored stage of an upscale club after hours, a chrome pole centre stage, magenta and amber spotlights cutting through low haze, the mirrored floor throwing the leopard print back",
+      "props": {
+        "seat": "the edge of the mirrored stage",
+        "wall": "a mirrored stage backdrop",
+        "surface": "the polished stage floor",
+        "upright": "the chrome dance pole"
+      }
+    }
+  },
+  "_correccion_29_08": "L817: llevaba fishnet hold-up + plataforma open-toe, y con medias la puntera va CERRADA (regla 20/06). Lo caza `outfit.py auditar`. El Pleaser acrilico transparente es canon por default en pole/bikini, asi que se fueron las medias y no el zapato."
+}

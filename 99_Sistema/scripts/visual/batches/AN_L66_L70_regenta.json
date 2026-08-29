@@ -1,0 +1,79 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_step_0": "Sus últimos 18 looks: Boudoir/Lencería 8 · Noche 4 · Sesión Literaria 3 · Látex 2 · Ejecutivo 1. Contra las metas del perfil (Noche 33% · Boudoir 27% · Látex 20% · Literaria 13% · Ejecutivo 7%), Boudoir está saturado (44% real) y los deficitarios son Noche (22% real), Látex (11%) y Ejecutivo (5,5%). Estos 5 corrigen esa curva: 2 Noche, 2 Látex, 1 Ejecutivo. Cero Boudoir.",
+  "_canon": "Calzado 12cm stiletto SIN plataforma (la plataforma delantera es bandera roja en su perfil §7). Puntera CERRADA siempre que haya medias (§5.3). Guantes permitidos — a diferencia de Ele. Sin tatuajes ni piercings. El animal print es firma del arquetipo Ejecutivo de Poder desde el rediseño del 23/08.",
+  "personaje": "anais",
+  "batch": "La Regenta Fuera del Tocador",
+  "fecha": "29/08/2026",
+  "categoria": "Mix",
+  "rango": "L66-L70",
+  "tags_comunes": ["batchL66-L70", "V7poses"],
+  "negative_extra": "modern clothing, contemporary fashion, sneakers, platform sole, chunky heel, bare midriff, neon colours, glitter, tattoos, piercings, bimbo makeup, hot pink lips, playful expression, broad smile",
+  "looks": {
+    "66": {
+      "titulo": "Terciopelo Sangre en La Voûte",
+      "codigo": "N1",
+      "polo": "Noche / La Voûte",
+      "bloque_b": "a blood-red silk-velvet evening gown cut on the bias: a deep V neckline plunging to the sternum with the edges held by a single jet brooch, long fitted sleeves to the wrist, a floor-sweeping hem with a slit opening to mid-thigh on the left when she moves and lying closed and demure when she stands still; black fishnet stockings with a straight back seam held by a six-strap black satin suspender belt; black opera-length silk gloves drawn above the elbow; a triple strand of pearls at the throat and jet drop earrings; closed pointed-toe stiletto pumps in black patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a single thin instep strap, iconic red lacquered sole",
+      "setting": "the private mezzanine of La Voûte after closing, oxblood velvet banquettes and brass rails, a single amber lamp throwing hard chiaroscuro across the velvet, cigarette smoke hanging in the beam",
+      "props": {
+        "seat": "an oxblood velvet banquette",
+        "wall": "a panelled oxblood velvet wall",
+        "surface": "a black lacquer cocktail table",
+        "upright": "a brass balustrade post"
+      }
+    },
+    "67": {
+      "titulo": "Catsuit de Látex Verde Botella",
+      "codigo": "L3",
+      "polo": "Látex / Fetichismo",
+      "bloque_b": "a bottle-green liquid latex catsuit covering the body from throat to ankle: a high mock-neck collar, long sleeves to the wrist, full-length legs moulded to the calf, an antique-bronze zip running the full length of the front and drawn down to just below the sternum; over it a bottle-green latex overbust corset with antique-bronze boning and lacing at the back, cinching the waist in extreme tightlacing; no stockings, the catsuit covers the leg; bronze drop earrings and a thin bronze collar at the throat; closed pointed-toe stiletto pumps in bottle-green patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a bronze buckled instep strap, iconic red lacquered sole",
+      "setting": "a private study lined in dark green leather and mahogany, a single banker's lamp, heavy curtains half drawn and a hard shaft of light across the latex, George Hurrell chiaroscuro",
+      "props": {
+        "seat": "a green leather club armchair",
+        "wall": "a mahogany panelled wall",
+        "surface": "a mahogany writing desk",
+        "upright": "a carved mahogany bedpost"
+      }
+    },
+    "68": {
+      "titulo": "Leopardo y Cuero en el Despacho",
+      "codigo": "X1",
+      "polo": "Ejecutivo de Poder",
+      "bloque_b": "a black leather pencil skirt to mid-calf moulded to the hip with a deep kick pleat at the back, worn with a leopard-print silk blouse open two buttons below the sternum and tucked in, the collar standing; over them a black leather blazer worn open and never buttoned, its lapels wide and its lining showing the same leopard print; a wide black patent belt cinching the waist; black seamed stockings with a straight back seam and a black suspender belt; black opera-length leather gloves to the elbow; pearl button earrings and a thin gold collar; closed pointed-toe slingback stiletto pumps in black patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a slingback strap at the heel, iconic red lacquered sole",
+      "setting": "a corner office at night above the city, venetian blinds throwing hard striped shadows across the leather and the wall, a brass desk lamp and a glass of whisky on the blotter",
+      "props": {
+        "seat": "a black leather executive chair",
+        "wall": "a wall of venetian blinds",
+        "surface": "a mahogany executive desk",
+        "upright": "a brass floor lamp column"
+      }
+    },
+    "69": {
+      "titulo": "Satén Medianoche y Zorro Plata",
+      "codigo": "N4",
+      "polo": "Noche / La Voûte",
+      "bloque_b": "a midnight blue liquid satin column gown: an off-shoulder bardot neckline sitting below the collarbones, long fitted sleeves to the wrist, a floor-length hem falling straight and closed to the floor; a silver fox stole draped across one forearm and the opposite shoulder; sheer smoke-grey stockings with a straight back seam held by a six-strap silver satin suspender belt; midnight blue opera-length satin gloves above the elbow; diamond chandelier earrings and a diamond clip at the neckline; closed pointed-toe stiletto pumps in midnight blue satin, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a satin-covered instep strap, iconic red lacquered sole",
+      "setting": "the marble entrance hall of La Voûte at night, a black lacquer staircase curving upward, a crystal chandelier above and a single hard key light carving the satin, deep shadow behind",
+      "props": {
+        "seat": "a black lacquer bench at the foot of the stair",
+        "wall": "a mirrored art deco panel",
+        "surface": "the marble balustrade rail",
+        "upright": "a fluted black lacquer column"
+      }
+    },
+    "70": {
+      "titulo": "Corsé Borgoña y Guantes Largos",
+      "codigo": "L5",
+      "polo": "Látex / Fetichismo",
+      "bloque_b": "a burgundy latex overbust corset with antique-gold boning and a gold busk down the front, its cups moulded and its edge sitting low under the bust, laced tight at the back; a matching burgundy latex high-waisted pencil skirt to the knee with a gold zip at the side and a vent at the back; burgundy seamed stockings with a straight back seam held by a six-strap gold-clasp suspender belt worn over the skirt's waistband; burgundy opera-length latex gloves drawn above the elbow; gold drop earrings and a thin gold collar at the throat; closed pointed-toe stiletto pumps in burgundy patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a gold buckled instep strap, iconic red lacquered sole",
+      "setting": "a mirrored dressing room in deep burgundy, a gilt-framed cheval mirror and a marble console with cut-crystal decanters, a single warm key light and hard fall-off into shadow",
+      "props": {
+        "seat": "a gilt and burgundy velvet stool",
+        "wall": "a burgundy silk damask wall",
+        "surface": "a marble console top",
+        "upright": "the gilt frame of the cheval mirror"
+      }
+    }
+  }
+}
