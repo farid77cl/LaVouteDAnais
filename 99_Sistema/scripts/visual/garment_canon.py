@@ -170,7 +170,7 @@ def _has_any_word(text, needles):
     return hits
 
 
-def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a=""):
+def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a="", slot=""):
     """Lintea el vestuario de UN look. Devuelve lista de mensajes de violacion (vacia = limpio).
     tag = etiqueta libre (ej. 'L732'). seam = True si el inyector paso seam=True a rotate_poses.
     bloque_a = el Bloque A (ADN fisico) completo del prompt, si el inyector lo tiene disponible por
@@ -227,6 +227,13 @@ def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a=""):
     # la escribe (SEAM_FRONT / SEAM_BACK), asi que un prompt ya anclado se reconoce
     # por su texto y no por un parametro que el motor nuevo no tiene como pasar.
     if seamed and _has_any(og, SEAM_ANCHOR_MARKERS):
+        seam = True
+    # El Side Profile NO lleva ancla de costura, y es deliberado: de perfil la raya
+    # trasera cae en el borde posterior de la pierna, que es justo donde debe estar
+    # (pose_rotation_v5._SEAM_SKIP_SLOTS). Sin este dato el auditor marcaba una
+    # violacion en cada Side Profile con medias -- ruido garantizado, no defecto.
+    # Solo aplica cuando quien llama sabe de que toma viene el prompt.
+    if slot and slot.strip().lower().replace("_", " ") == "side profile":
         seam = True
     if seamed and not seam:
         out.append(f"{pre}MEDIAS CON COSTURA ({', '.join(sorted(set(seamed)))}) sin seam=True: "

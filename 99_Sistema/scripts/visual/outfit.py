@@ -103,15 +103,37 @@ def cmd_generar(args):
         print("no existe el batch: %s" % args[0])
         return 1
 
-    b = json.load(open(ruta, encoding="utf-8"))
-    cfg = cargar_config()
-    pb = PromptBuilder(b["personaje"], cfg)
-    slots, etiquetas = _etiquetas(pb, cfg)
+    # El motor valida bien, pero hasta el 29/08/2026 presentaba sus errores como
+    # un traceback de Python: el mensaje util quedaba enterrado bajo la pila y
+    # cualquier entrada mala parecia un crash. Un programa le dice al usuario que
+    # esta mal; solo un script se cae.
+    try:
+        b = json.load(open(ruta, encoding="utf-8"))
+    except ValueError as e:
+        print("el batch no es JSON valido: %s" % e)
+        return 1
+    if not isinstance(b, dict):
+        print("el batch debe ser un objeto JSON, no %s" % type(b).__name__)
+        return 1
 
+    # Esta comprobacion estaba DESPUES de instanciar el builder, asi que un batch
+    # sin `personaje` moria con KeyError antes de llegar aqui.
     faltan = [k for k in ("personaje", "looks") if k not in b]
     if faltan:
         print("batch invalido, faltan claves: %s" % ", ".join(faltan))
         return 1
+    if not isinstance(b["looks"], dict) or not b["looks"]:
+        print("batch invalido: 'looks' debe ser un objeto con al menos un look")
+        return 1
+
+    cfg = cargar_config()
+    try:
+        pb = PromptBuilder(b["personaje"], cfg)
+    except KeyError as e:
+        print(str(e).strip('"'))
+        print("   personajes registrados: %s" % ", ".join(cfg["personajes"]))
+        return 1
+    slots, etiquetas = _etiquetas(pb, cfg)
 
     out = []
     n_prompts = 0
@@ -183,7 +205,17 @@ def cmd_generar(args):
         # perfil, no se codifica el nombre del personaje.
         alterna = pb.perfil.get("orientacion_alterna") or {}
         for i, (slot, label) in enumerate(zip(slots, etiquetas)):
-            pose = pb.pose(slot, int(num), props=lk.get("props"))
+            # El motor exige que el look nombre el mobiliario real de su setting
+            # (Ama 08/06/2026, "cada pose debe ser armoniosa con el ambiente") y
+            # levanta ValueError si falta. Es la validacion correcta; lo que no
+            # corresponde es entregarsela al usuario como un traceback.
+            try:
+                pose = pb.pose(slot, int(num), props=lk.get("props"))
+            except (ValueError, KeyError) as e:
+                print("  \U0001f534 Look %s / %s: %s" % (num, label, e))
+                print("     agrega el campo \"props\" a ese look en el batch, "
+                      "con el mobiliario real de su setting.")
+                return 1
             extra = [pb.orientacion_odalisque(int(num))] if slot in alterna else None
             prompt = pb.build(adn, lk["bloque_b"], slot, pose, lk["setting"],
                               extra_anclas=extra)
@@ -315,9 +347,15 @@ def cmd_modularidad(args):
     return 1 if fallos else 0
 
 
-def cmd_test(_args):
-    """Corre los self-checks de la capa de reglas. NO auditan la flota."""
-    print("Self-checks de la capa de reglas (fixtures, NO la flota):\n")
+def cmd_test(args):
+    """Suite del engine: self-checks de las reglas + pruebas del motor.
+
+    Los self-checks corren sobre fixtures escritos a mano y NO miran ninguna
+    galeria — un `Self-check: LIMPIO` no dice nada sobre la flota (por eso
+    existe `outfit.py auditar`). Las pruebas del motor sí ejercitan el motor de
+    verdad: entradas malas, determinismo, rotacion, cobertura y regresiones.
+    """
+    print("1. Self-checks de la capa de reglas (fixtures, NO la flota)\n")
     fallo = 0
     for s in ("footwear_canon.py", "garment_canon.py", "color_canon.py"):
         r = subprocess.run([sys.executable, os.path.join(AQUI, s)], cwd=RAIZ,
@@ -327,6 +365,21 @@ def cmd_test(_args):
         malo = "LIMPIO" not in estado
         fallo += malo
         print("  %s %-20s %s" % ("\U0001f534" if malo else "  ok  ", s, estado))
+
+    if "--solo-reglas" in args:
+        return 1 if fallo else 0
+
+    print("\n2. Pruebas del motor\n")
+    r = subprocess.run([sys.executable, os.path.join(AQUI, "test_engine.py")], cwd=RAIZ,
+                       capture_output=True, text=True, encoding="utf-8", errors="replace")
+    salida = (r.stdout or "") + (r.stderr or "")
+    for linea in salida.split("\n"):
+        if linea.startswith("  \U0001f534") or "RESULTADO:" in linea:
+            print("  " + linea.strip())
+    if r.returncode:
+        fallo += 1
+    else:
+        print("  todas las pruebas del motor pasan (detalle: python test_engine.py)")
     print("\n  Para medir la FLOTA (no los fixtures): outfit.py auditar")
     return 1 if fallo else 0
 

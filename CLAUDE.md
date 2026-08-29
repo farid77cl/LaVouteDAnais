@@ -133,6 +133,7 @@ python 99_Sistema/scripts/visual/auditar_galeria.py           # gallery integrit
 python 99_Sistema/scripts/visual/lint_galeria.py              # galeria_outfits.md contract (rule 11)
 python 99_Sistema/scripts/visual/outfit.py                    # the engine's single CLI — generar · adn · lint · auditar · anclas · modularidad · test · stats
 python 99_Sistema/scripts/visual/outfit.py modularidad       # 0 character names in engine logic · own fields declared · sub-poses unique per character
+python 99_Sistema/scripts/visual/outfit.py test              # rule self-checks + 32 engine tests (bad input, determinism, rotation, coverage, regressions)
 python 99_Sistema/scripts/visual/outfit.py generar batches/<batch>.json   # emit a look batch from DATA (never a new script)
 python 99_Sistema/scripts/visual/prompt_builder.py --adn      # BLOQUE A single-owner check: profile vs every batch script vs gallery
 python 99_Sistema/scripts/visual/auditar_canon_flota.py       # footwear + garment canon ON THE REAL FLEET (add --solo-sin-imagen for live risk)
