@@ -329,7 +329,25 @@ class PromptBuilder(object):
             r"\b(?!headdress|undress|nodress)[a-z]*dress(es)?\b|\bgown\b|"
             r"\b[a-z]*skirt(ed|s)?\b|\brobe\b|\bkimono\b|\btunic\b|"
             r"\bcheongsam\b|\bqipao\b|\bsarong\b", re.I)),
+        # Ama 29/08/2026: "aun hay problemas con el renderizado de las batas".
+        # BACK_ANCHOR ya trae UNA clausula de prenda de frente abierto y por eso
+        # el defecto parecia cubierto; medido, no lo estaba: 114 de 186 back-views
+        # con prenda abierta llevaban solo esa clausula corta — el 100% de Miss
+        # Doll y de Anais — contra 49 de Ele con la version larga puesta a mano el
+        # 02/08. La larga vivia en pose_rotation_v5.py, o sea en el motor viejo de
+        # UN personaje (feedback_fix_en_un_personaje_no_es_fix). Sube aca.
+        ("WRAP_BACK_ROBE", re.compile(
+            r"\brobe\b|\bkimono\b|\bpeignoir\b|\bdressing gown\b|\bnegligee\b|"
+            r"\bwrap (dress|top|blouse|coat)\b", re.I)),
+        ("WRAP_BACK_TAILORED", re.compile(
+            r"\bblazer\b|\btuxedo\b|\btrench\b|\bovercoat\b|\bcoat-?dress\b|"
+            r"\bsuit jacket\b|\bjacket-?dress\b|\bbolero\b|\bcardigan\b", re.I)),
     )
+
+    # Opt-in que NO son globales al look sino de UN slot: el defecto que corrigen
+    # solo existe en esa toma. Sin este filtro, el ancla de espalda se escribiria
+    # tambien en Standing/POV, donde contradice la pose ("seen from behind").
+    OPT_IN_SOLO_SLOT = {"WRAP_BACK_ROBE": "back_view", "WRAP_BACK_TAILORED": "back_view"}
 
     # Prendas cuyo CORTE debe nombrarse en el BLOQUE B (BOTTOM_CUT_LOCK, Ama 13/08/2026).
     # `bottom` a secas queda FUERA a proposito: aparece en "bottom of the frame".
@@ -387,6 +405,15 @@ class PromptBuilder(object):
             for n in self.opt_in_de(bloque_b):
                 if n not in nombres_extra:
                     nombres_extra.append(n)
+
+        # Opt-in de slot: se descartan fuera de la toma que corrigen (ver OPT_IN_SOLO_SLOT).
+        nombres_extra = [n for n in nombres_extra
+                         if self.OPT_IN_SOLO_SLOT.get(n, slot_n) == slot_n]
+        # Desempate: un look que nombra bata Y chaqueta (kimono sobre blazer) no puede
+        # llevar las dos anclas — se contradicen sobre el mismo panel de espalda. Manda
+        # la estructurada: es la capa exterior y la que dibuja la silueta desde atras.
+        if "WRAP_BACK_TAILORED" in nombres_extra and "WRAP_BACK_ROBE" in nombres_extra:
+            nombres_extra.remove("WRAP_BACK_ROBE")
 
         # Excepcion Ama 23/08/2026 (Look 48 "Obsidian Liquid Gown", notas_imagenes.csv):
         # "en que quedo la regla de piernas abiertas y vestido?". Monarch Throne es
