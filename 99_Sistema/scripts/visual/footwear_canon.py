@@ -113,11 +113,20 @@ def audit_footwear(footwear, garments="", archetype="", tag=""):
                           garments or "", flags=re.I)
     medias = _has_any(garments_pos, HOSIERY)
     open_toe = _has_any(fw, OPEN_TOE)
+    # 'sandal' ES puntera abierta por naturaleza: escribir "closed pointed toe
+    # sandals" es un oximoron que Gemini resuelve al azar — el Standing de Miss
+    # Doll L70 (29/08) declaraba exactamente eso y salio open-toe con medias.
+    # La palabra manda sobre el atributo. (Nota Ama 29/08: "Open toe nunca con
+    # medias, esa regla es para todas".)
+    sandalia = ["sandal"] if "sandal" in fw.lower() else []
 
-    # 1) MEDIAS + PUNTA ABIERTA (regla Ama 20/06)
-    if medias and open_toe:
-        out.append(f"{pre}MEDIAS + puntera abierta ({', '.join(open_toe)}): con medias "
-                   f"({', '.join(sorted(set(medias)))}) la puntera va CERRADA (regla 20/06).")
+    # 1) MEDIAS + PUNTA ABIERTA (regla Ama 20/06 · universal a toda muñeca 29/08)
+    if medias and (open_toe or sandalia):
+        que = open_toe or sandalia
+        out.append(f"{pre}MEDIAS + puntera abierta ({', '.join(que)}): con medias "
+                   f"({', '.join(sorted(set(medias)))}) la puntera va CERRADA — y "
+                   f"'sandal' cuenta como abierta aunque el texto diga 'closed toe' "
+                   f"(regla 20/06, universal 29/08).")
 
     # 2) MULE fuera de Lenceria (regla Ama 09/07)
     if is_mule and not is_lenceria:
@@ -181,6 +190,9 @@ if __name__ == "__main__":
         dict(tag="L738", category="Lenceria Boudoir",
              outfit="ivory latex corset bodysuit, garter, sheer stockings, bridal veil",
              footwear="ivory peep-toe mule, 12cm stiletto heel"),  # mule OK arquetipo, pero open-toe+medias y sin platform
+        dict(tag="MD70", category="Nightclub",
+             outfit="magenta chrome bodysuit, sheer black hold-up stockings, suspender belt",
+             footwear="platform stiletto sandals in mirror-chrome, 17cm heel, closed pointed toe"),  # 'sandal' gana al 'closed toe' (caso real 29/08)
     ]
     # Casos que DEBEN pasar limpios:
     good = [
@@ -193,6 +205,9 @@ if __name__ == "__main__":
         dict(tag="L739", category="Bikini",
              outfit="white micro bikini, bare legs, veil",
              footwear="white open-toe ankle-strap stiletto sandal 13cm"),  # sin medias -> open toe OK
+        dict(tag="MD70fix", category="Nightclub",
+             outfit="magenta chrome bodysuit, sheer black hold-up stockings, suspender belt",
+             footwear="closed pointed-toe platform stiletto pumps in mirror-chrome, 17cm heel"),  # pump cerrada + medias OK
     ]
     print("=== DEBEN saltar (bad) ===")
     pb = audit_footwear_batch(bad)

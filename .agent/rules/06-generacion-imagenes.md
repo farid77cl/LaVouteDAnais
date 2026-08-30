@@ -63,6 +63,10 @@ Cuando el look use una prenda **envolvente de frente abierto** — robe, kimono,
 
 > El barrido histórico del 02/08 (71 back-views) sigue siendo válido, y el 29/08 se completó el retrofit sobre el **riesgo vivo** (las poses sin imagen). Verificación: `outfit.py lint` avisa si la condición está y el ancla no. Ver auto-memoria `feedback_bata_reverso_espalda` y `feedback_fix_en_un_personaje_no_es_fix`.
 
+### 6bis. LAS BATAS O SON LARGAS, O NADA (Nota Ama 29/08/2026)
+
+Toda prenda tipo bata (`robe · peignoir · kimono · dressing gown · bata`) **declara largo de piso** — `floor-length` / `ankle-length` / `floor-sweeping` — o **no va en el look**. El L69 de Miss Doll declaraba `champagne wet-satin robe worn open` sin UNA palabra de largo, y el generador eligió corto: el atributo que no se nombra lo resuelve la IA (la misma lección del calzón del L801). Dueño mecánico: `garment_canon.py` chequeo 12 (con fixture del caso real), cableado en `outfit.py generar` — **un batch con bata sin largo ya no compila**.
+
 ## 7. ODALISCA RECOSTADA, NO SENTADA (Directiva Ama 09/07/2026 — BUG "odalisca sentada")
 
 La **odalisca** (pose recostada/lánguida) derivaba a **SENTADA**: el generador rendía a Ele *sentada* en el piso o el mueble en vez de recostada (confirmado en L574 sentada sobre el cofre, L638 y L660 sentadas en el piso). Causa: varias variantes arrancan *"semi-reclined propped on both elbows"* y ese *"propped on both elbows"* se lee como torso vertical sentado, sin ancla explícita de cuerpo horizontal. **Mismo patrón que Side Profile** (que se sentaba hasta que forzamos `standing` explícito).
@@ -84,7 +88,7 @@ if problems:
 ```
 
 Reglas que impone (devuelve la lista de violaciones; vacía = limpio):
-1. **Medias + puntera abierta** (`open/peep toe` con `stocking/fishnet/nylon/bodystocking…`) → prohibido (regla medias 20/06: con medias, puntera **cerrada**).
+1. **Medias + puntera abierta** (`open/peep toe` con `stocking/fishnet/nylon/bodystocking…`) → prohibido (regla medias 20/06: con medias, puntera **cerrada**). **Rev. 29/08/2026 (Nota Ama: *"Open toe nunca con medias, esa regla es para todas"*):** la regla es **universal a las tres muñecas**, y la palabra **`sandal` cuenta como puntera abierta aunque el token diga `closed toe`** — el L70 de Miss Doll declaraba `platform stiletto sandals … closed pointed toe` (un oxímoron) y Gemini lo resolvió open-toe sobre las medias. La palabra manda sobre el atributo: con medias, la sandalia no se nombra.
 2. **Mule fuera de Lencería** → prohibido (Ama 09/07: mule EXCLUSIVO de Lencería).
 3. **Mule sin plataforma ≥4"** (~10cm) → prohibido (Ama 09/07: el mule es platform mule ≥4").
 4. **Calzado plano/no-canónico o `chunky` en el positive** (`flat/wedge/block/kitten/sneaker/barefoot/chunky`) → eso va solo en el negative.

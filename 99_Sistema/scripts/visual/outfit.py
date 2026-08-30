@@ -68,6 +68,8 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.normpath(os.path.join(AQUI, "..", "..", ".."))
 sys.path.insert(0, AQUI)
 
+from footwear_canon import audit_footwear  # noqa: E402
+from garment_canon import audit_garment  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
 
@@ -143,6 +145,24 @@ def cmd_generar(args):
             if k not in lk:
                 print("look %s: falta '%s'" % (num, k))
                 return 1
+        # ⚖️ CANON DEL BLOQUE B ANTES DE EMITIR NADA (29/08/2026). Los canones de
+        # calzado y vestuario existian y generar() no los llamaba: por ese hueco
+        # salieron el L69 de Miss Doll (bata sin largo) y el L70 (sandalia con
+        # medias vestida de "closed toe") — la Ama los pillo en la primera foto.
+        # Un fix que no llega a la ruta que genera no es un fix, es un recuerdo.
+        canon = (audit_footwear(lk["bloque_b"], garments=lk["bloque_b"],
+                                archetype=lk.get("codigo") or b.get("categoria", ""),
+                                tag="L%s" % num)
+                 + [v for v in audit_garment(lk["bloque_b"],
+                                             archetype=lk.get("codigo") or b.get("categoria", ""),
+                                             tag="L%s" % num)
+                    # sobre el B crudo solo valen los chequeos de DISEÑO (que
+                    # falta declarar); las anclas/negative las pone build() despues.
+                    if "BATA sin largo" in v or "FRASE-ORDEN" in v])
+        if canon:
+            for v in canon:
+                print("  \U0001f534 Look %s (BLOQUE B): %s" % (num, v))
+            return 1
         # El emoji del encabezado es del personaje (Ele 👗 · Miss Doll 💅 · Anaïs 🌹)
         # y vive en su perfil, como todo lo que difiere entre muñecas.
         cab = "## %s Look %s: %s" % (pb.perfil.get("emoji_look", "\U0001f457"),

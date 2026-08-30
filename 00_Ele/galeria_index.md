@@ -625,7 +625,7 @@
 | **813** | Acid Chartreuse Boardroom | 29/08/2026 | Corporate | — | — | 7/7 | — |
 | **814** | Oil-Slick Opera Escort | 29/08/2026 | Escort | — | — | 7/7 | — |
 | **815** | Mercury Wet-Look Performance | 29/08/2026 | Gym | — | — | 7/7 | — |
-| **816** | Bubblegum Vinyl Sweetheart | 29/08/2026 | Pin-Up | — | — | 7/7 | — |
+| **816** | Bubblegum Vinyl Sweetheart | 29/08/2026 | Pin-Up | — | — | 6/7 | ⏳ Pendiente |
 | **817** | Leopard Chrome Pole Predator | 29/08/2026 | Stripper | — | — | 7/7 | — |
 
 ---
@@ -863,6 +863,7 @@
 | **808** | Noir Lace La Perla Suite | 0/7 | ⏳ Pendiente |
 | **811** | Nude Bordelle Harness Atelier | 0/7 | ⏳ Pendiente |
 | **812** | Blush Whisper Babydoll | 3/7 | ⏳ Pendiente |
+| **816** | Bubblegum Vinyl Sweetheart | 6/7 | ⏳ Pendiente |
 
 ---
 

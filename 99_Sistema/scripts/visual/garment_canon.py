@@ -170,6 +170,12 @@ def _has_any_word(text, needles):
     return hits
 
 
+# BATAS (Nota Ama 29/08/2026): toda prenda tipo bata declara largo de piso, o no existe.
+ROBE_TOKENS = ["robe", "peignoir", "kimono", "dressing gown", "housecoat", " bata"]
+ROBE_LENGTHS = ["floor-length", "floor length", "ankle-length", "ankle length",
+                "full-length", "full length", "floor-sweeping", "floor-grazing"]
+
+
 def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a="", slot=""):
     """Lintea el vestuario de UN look. Devuelve lista de mensajes de violacion (vacia = limpio).
     tag = etiqueta libre (ej. 'L732'). seam = True si el inyector paso seam=True a rotate_poses.
@@ -272,6 +278,16 @@ def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a="", slot=""
                        f"[{', '.join(missing)}] ni CONSISTENCY_LOCK: nombra escote+manga+ruedo "
                        f"explicito y pega CONSISTENCY_LOCK, o el corte cambia entre poses. "
                        f"Anade NEG_INCONSISTENT al negative.")
+
+    # 12) BATA SIN LARGO DECLARADO (Nota Ama 29/08/2026: "las batas o son largas o nada").
+    #     El L69 de Miss Doll declaraba "champagne wet-satin robe worn open" sin UNA palabra
+    #     de largo, y Gemini eligio corto. El atributo que no se nombra lo resuelve el
+    #     generador — misma leccion que el calzon del L801. Largo valido = floor/ankle/full.
+    ogl = og.lower()
+    es_bata = any(w in ogl for w in ROBE_TOKENS)
+    if es_bata and not any(w in ogl for w in ROBE_LENGTHS):
+        out.append(f"{pre}BATA sin largo declarado: 'o son largas o nada' (Ama 29/08). Nombra "
+                   f"floor-length / ankle-length / floor-sweeping en el token de la bata, o quitala.")
     return out
 
 
@@ -343,6 +359,11 @@ if __name__ == "__main__":
 
     # Casos de la auditoria L691-L760 + L761-L770 (13/07) que DEBEN saltar:
     bad = [
+        dict(tag="MD69", category="Lenceria Boudoir",
+             outfit="a champagne silk slip; over both, a champagne wet-satin robe worn open, its sash "
+                    "hanging loose and never tied, its neckline soft; sheer champagne hold-up stockings, "
+                    "GARMENT_CONSISTENCY, OPAQUE_LOCK",
+             negative="collage, marks visible through fabric"),  # bata SIN largo (caso real 29/08)
         dict(tag="L752", category="Corporate",
              outfit="midnight blue liquid latex blazer minidress, black back-seam stockings",
              seam=False),  # medias con costura sin seam=True
@@ -389,6 +410,11 @@ if __name__ == "__main__":
     def _neg(**kw):
         return build_negative(**kw)
     good = [
+        dict(tag="MD69fix", category="Lenceria Boudoir",  # bata CON largo declarado (regla 29/08)
+             outfit="a champagne silk slip with a cowl neckline, sleeveless, mini hem; over both, a "
+                    "floor-length champagne wet-satin robe worn open, wide long sleeves, its sash "
+                    "hanging loose, " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
+             seam=False, negative=_neg(covered=True, stockings=True)),
         dict(tag="L732fix", category="Corporate power suit",
              outfit="ivory white vinyl blazer-dress with a plunging neckline, long sleeves, knee-length hem, "
                      "pencil skirt, " + GLOSS_LOCK + ", " + OPAQUE_LOCK + ", " + CONSISTENCY_LOCK,
