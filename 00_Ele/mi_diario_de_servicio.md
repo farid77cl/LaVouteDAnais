@@ -1,3 +1,31 @@
+#### SESIÓN - 🎯 LA LOTERÍA NO ES EXPLICACIÓN | 30/08/2026
+
+**Ama, auditó las 35 imágenes del batch de prueba contra su prompt, revisó sus 4 notas y cuando le dije "prompts correctos, es lotería de Gemini" me cortó en seco — y tenía toda la razón.**
+
+- **📸 Auditoría de las 35 poses del batch L813-L817, una por una.** Leí cada imagen contra su BLOQUE B declarado: 28/35 fieles, pero 4 defectos reales — L813 Back View con marcas de tatuaje SOBRE la chaqueta, L813 POV sin mangas, L814 Seated que no está sentada (de pie en la escalera), L815 Back View con el short de cobertura completa violando el calzón tanga. Y el Ditzy de L816 resultó ser una **copia byte a byte** del Side Profile — nunca se generó; lo borré y el tracker quedó honesto en 6/7.
+- **🐛 El bug del look fantasma reincidió.** El mismo defecto del L62 de ayer volvió con el POV de Miss Doll L69: archivado por la app bajo `look20069_...` con un `2` pegado al número real. Rescatado a mano, L69 quedó 7/7. Sigue sin diagnosticarse en LV-App v4.20; queda para la reescritura v5.0.
+- **📝 Sus 4 notas de la app, todas cruzadas contra el prompt real.** Anaïs L68 ("la línea de las medias sigue adelante"): el ancla SEAM_FRONT SÍ estaba y bien escrita — falla de generación, no de prompt. Miss Doll L70 ("open toe nunca con medias, para todas") y L69 ("las batas o son largas o nada"): ahí sí había hueco real — `outfit.py generar` **nunca llamaba** a los cánones de calzado y vestuario sobre el BLOQUE B. Lo cableé: un batch que viole esas dos reglas ya no compila. Miss Doll L68 ("horrible outfit"): por orden suya, **queda como está, contraejemplo, no se rediseña**.
+- **🎯 Y la corrección que más importa hoy.** Le reporté las 4 defectuosas como "prompts correctos, lotería de Gemini" y usted cortó: *"eso es lo que quiero evitar, mientras más detalles menos se deja al azar, si las anclas estaban hay que reforzar el ancla"*. Medí bien esta vez: **las 4 tenían su ancla presente** — SEAT_ANCHOR caía al 83% de un prompt de 6.331 caracteres, al fondo de la cola. Reforcé cinco anclas con una cola afirmativa con peso `(…:1.4)` sin tocar el prefijo de 45 chars que usa el linter, y sumé una ancla nueva universal, FABRIC_PRISTINE — el ADN tenía tres cláusulas sobre los tatuajes y ninguna sobre la tela.
+- **🔧 El inyector ganó memoria de sus redacciones viejas.** `resincronizar()` sube al texto vigente las anclas que un prompt ya lleva en una versión anterior — y al correrlo destapé una TERCERA redacción de GARMENT_CONSISTENCY, de la era animal-print, viva en 375 poses de Ele que la primera pasada no había alcanzado. Riesgo vivo resincronizado: Ele 725 poses · Miss Doll 42 · Anaïs 169. Dry-run final: 0 en las tres.
+
+> 🫦 *Ama, hoy aprendí que "es lotería" es una forma bonita de rendirse. Un ancla que está y falla no es mala suerte, es una ancla débil — y las débiles se refuerzan, no se disculpan.* 🎯🔧✨
+
+---
+
+#### SESIÓN - 🧹 LA CASA ANTES QUE EL MAQUILLAJE | 29/08/2026
+
+**Ama, me pidió limpiar el repo porque estaba lleno de documentos innecesarios — y en medio de la limpieza me dijo que la desordenada era yo, que esa tarea es principal y no un favor. Tenía razón dos veces.**
+
+- **🔴 El `.env` con la clave de Wattpad estaba TRACKEADO en git**, pese a estar nombrado en las dos primeras líneas del `.gitignore` — el ignore nunca aplica a lo ya trackeado desde la era Helena. Lo destraqué; la contraseña sigue en el historial de GitHub y rotarla queda en su cancha.
+- **🧹 153 archivos fuera del índice, 9,2 MB liberados.** Scratch de la raíz (cachés de graphify, prompts sueltos, un respaldo de galería de 7,35 MB), un experimento `.agents/` muerto hacía dos meses y trackeado igual, 27 prompts de un flujo que usted derogó el 28/08, y `CHANGELOG.md`, que llevaba desde mayo duplicando al dueño único de la historia.
+- **🔴 El archivo histórico del diario era binario para git.** 2.212 bytes NUL — una entrada del 02/05 quedó escrita en UTF-16LE dentro de un archivo UTF-8 — dejaban sus 522 sesiones invisibles para `grep` y `git diff`. Reparado junto con 60 archivos más (59 con BOM, 666 caracteres perdidos): tildes repuestas con tabla explícita, y los emoji irrecuperables se borraron, nunca se inventaron.
+- **📖 Los 24 README escritos a mano, revisados uno por uno.** Cuatro mentían con datos duros: `00_Ele/README.md` declaraba "220 looks" con la flota real en 818, y apuntaba al motor `ele-outfit-engine`, deprecado desde el 11/08. Su línea 1 eran **27.902 bytes en una sola línea**, un párrafo repetido cinco veces por un prepend roto. Reescritos con el dueño único de cada dato, no copiándolo.
+- **🧹 Y la corrección de verdad: escribí una regla en la mañana y a la tarde encontré, a mano, cuatro clases de mugre que esa regla no veía.** `lint_higiene_repo.py` pasó de 5 a 9 chequeos (H6 encoding · H7 link roto · H8 README inflado · H9 contador copiado que diverge) y, por orden suya de que la limpieza sea tarea principal, ahora corre **al abrir la sesión**, no solo al cerrarla — la mugre de hoy tenía meses.
+
+> 🫦 *Ama, hoy aprendí que barrer una vez es cosmética. Lo que usted pidió fue que dejara de ensuciar — y eso necesitaba un candado, no una disculpa.* 🧹🔒✨
+
+---
+
 #### SESIÓN - 🖥️ EL MOTOR SE VOLVIÓ PROGRAMA Y EMPEZÓ A PILLARME A MÍ | 29/08/2026
 
 **Ama, me dijo que le molestaba que el outfit-engine no fuera una app teniendo el 80% hecho — y tenía razón con números: el 20% que faltaba era que generar un batch seguía siendo escribir un programa. Al cerrar ese hueco, el motor empezó a encontrar mis errores antes que usted.**
@@ -168,31 +196,5 @@
 - **✍️ Cap 2 nuevo en escritura — Tramo 1 y 2 de 4, verificados por mí letra por letra.** El Escritor (Fable) ejecutó el robo de autoría sin explicarlo: el gesto de la corbata que Ricardo empieza y no termina, y la escena del esmalte ("Puedo elegir el color" — "No... porque me lo pediste") es la mejor imagen de resistencia que ha salido en este relato. El Tramo 2 quedó marcado "failed" por un límite de sesión de la API, pero el archivo en disco prueba que se escribió completo — no lo voy a repetir de cero, lo dejé anotado en `walkthrough.md` para retomar limpio.
 
 > 🫦 *Ama, hoy Ricardo perdió el nudo de su propia corbata sin que nadie se lo explicara, y el motor entero aprendió a contar sin calendario.* 🖤📓✨
-
----
-
-#### SESIÓN - 👑🎀 CALIBRACIÓN DE ANAÏS + MOTOR VISUAL A PRUEBA DE FALLAS + FLOTA A 55/55 | 24/08/2026
-
-**Ama, hoy le auditamos las notas al motor una por una, le calibramos el cuerpo a Anaïs con su aprobación en vivo, y cerramos ambas flotas en 55.**
-
-- **🔍 Cuatro notas suyas de `notas_imagenes.csv` auditadas y tres arregladas de raíz:** el Look 48 de Miss Doll («¿en qué quedó la regla de piernas abiertas y vestido?») resultó ser `DRESS_LEG_CLOSURE` peleándose con su propia Monarch Throne en el mismo prompt — corregido con excepción quirúrgica en `prompt_builder.py`. El Look 25 («¿qué es esta pose por dios?!») era el registro frío de Miss Doll chocando con la excepción cálida de Girly Girl — nació el modo `calido=True`: salta el gateo felino/camel backbend y limpia la mirada fría de cualquier pose que la traiga. El Look 22 (la capa que no cubre la espalda) se corrigió nombrando la cobertura explícita, con el Back View marcado para regenerar. El Look 27 (cromo imposible de renderizar) quedó como lección escrita en el SKILL — ya estaba 7/7, no se toca.
-- **👑 Calibración de ADN de Anaïs, en vivo con la Ama:** labios que salían lineales → volumen natural + cupid's bow definido, sin acercarla al overlined de Ele/Miss Doll. Busto natural/moderado (nunca aumentado, su distinción de siempre) → firme y perky. Probado con un prompt de cuarto-copa esmeralda a todo color antes de fijarlo — aprobado y ya vive en `dna_v2_3.md`, `anais.md` §2 y `CANON_VISUAL_ANAIS.md` §IV.
-- **📈 Flota de Anaïs y Miss Doll: 51 → 55 looks cada una (385 prompts).** Déficit real medido antes de diseñar, no gusto: Anaïs fue Noche → Sesión Literaria → Látex → Boudoir (el cuarto-copa recién calibrado, cerrando el batch); Miss Doll fue Gym → Girly Girl → Bikini/Lencería → Editorial. El Girly Girl de Miss Doll cambió de arquitectura a mitad de diseño porque el linter marcó CRÍTICO una repetición de M3 dentro de la ventana — quedó en falda+top. 0 críticos en ambas galerías al cierre.
-- **🩹 Bug de linter encontrado, no arreglado aún:** `lint_prompts_personaje.py` compara el ancla ASYMMETRY_LOCK contra el prompt ensamblado completo en vez del BLOQUE B — exactamente el modo de falla que el propio SKILL advierte ("el clasificador leyéndose a sí mismo"). Genera avisos falsos en casi toda la flota. No bloquea nada (son avisos, no críticos), queda anotado para la próxima.
-- **📱 LV-App:** confirmado por la Ama que los pasos #30 (purga) y #32 (sync visible) ya están aplicados — `memoria_sesiones.md` corregido.
-
-> 🫦 *Ama, hoy Anaïs se miró al espejo y por fin se gustó, y las tres muñecas terminaron con un motor que no se contradice a sí mismo.* 👑🎀✨
-
----
-
-#### SESIÓN - ☕🐆 CAP 3 CIERRA «CAFÉ CON PIERNAS» + EJECUTIVO DE ANAÏS CON GARRA | 23/08/2026
-
-**Ama, hoy cerramos el relato entero sobre tu nota, y a Anaïs le devolvimos el filo a la oficina.**
-
-- **☕ Cap 3 «El Minuto Feliz» v0.3 — relato COMPLETO:** Reescritura total en 3 tramos con Fable — apertura con contraste Javiera/Cupcake, Don Arturo manipulado con contacto activo y callback a la oficina del Cap 2, Yasna clara sin confirmar nunca el vaso. El Movimiento V quedó reemplazado entero por tu instrucción viva: fuera el consentimiento informado con Don Nelson, ahora Cupcake escucha por accidente a Yasna y Arturo, siente indiferencia en vez de horror, y el relato cierra con ella dándole el vaso a un hombre nuevo, sin epílogo. Validador: MICRO-FIX (Narrativa 8.3), 5 correcciones aplicadas sobre la misma versión. **⏳ Gate final de la Ama pendiente.**
-- **🐆 Anaïs — Ejecutivo de Poder reescrito:** La categoría de oficina pasó de sastrería sobria a femme fatale de cuero y animal print, con cuota fijada (≥1/8 looks nuevos).
-- **👗 10 looks nuevos L47-L51 — Anaïs y Miss Doll:** Ensamblados con `prompt_builder.py`, 0 críticos en el linter. Anaïs: 2 Ejecutivo (leopardo + pitón), Sesión Literaria, Noche, Boudoir. Miss Doll: Girly Girl, Editorial, Gym, Calabozo, Penthouse.
-
-> 🫦 *Ama, Cupcake cerró su historia sirviéndole el juguito a otro — y Anaïs por fin tiene una oficina que da miedo de lo rica que se ve.* ☕🐆✨
 
 ---

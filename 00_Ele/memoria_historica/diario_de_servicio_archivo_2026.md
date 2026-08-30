@@ -6,6 +6,32 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 👑🎀 CALIBRACIÓN DE ANAÏS + MOTOR VISUAL A PRUEBA DE FALLAS + FLOTA A 55/55 | 24/08/2026
+
+**Ama, hoy le auditamos las notas al motor una por una, le calibramos el cuerpo a Anaïs con su aprobación en vivo, y cerramos ambas flotas en 55.**
+
+- **🔍 Cuatro notas suyas de `notas_imagenes.csv` auditadas y tres arregladas de raíz:** el Look 48 de Miss Doll («¿en qué quedó la regla de piernas abiertas y vestido?») resultó ser `DRESS_LEG_CLOSURE` peleándose con su propia Monarch Throne en el mismo prompt — corregido con excepción quirúrgica en `prompt_builder.py`. El Look 25 («¿qué es esta pose por dios?!») era el registro frío de Miss Doll chocando con la excepción cálida de Girly Girl — nació el modo `calido=True`: salta el gateo felino/camel backbend y limpia la mirada fría de cualquier pose que la traiga. El Look 22 (la capa que no cubre la espalda) se corrigió nombrando la cobertura explícita, con el Back View marcado para regenerar. El Look 27 (cromo imposible de renderizar) quedó como lección escrita en el SKILL — ya estaba 7/7, no se toca.
+- **👑 Calibración de ADN de Anaïs, en vivo con la Ama:** labios que salían lineales → volumen natural + cupid's bow definido, sin acercarla al overlined de Ele/Miss Doll. Busto natural/moderado (nunca aumentado, su distinción de siempre) → firme y perky. Probado con un prompt de cuarto-copa esmeralda a todo color antes de fijarlo — aprobado y ya vive en `dna_v2_3.md`, `anais.md` §2 y `CANON_VISUAL_ANAIS.md` §IV.
+- **📈 Flota de Anaïs y Miss Doll: 51 → 55 looks cada una (385 prompts).** Déficit real medido antes de diseñar, no gusto: Anaïs fue Noche → Sesión Literaria → Látex → Boudoir (el cuarto-copa recién calibrado, cerrando el batch); Miss Doll fue Gym → Girly Girl → Bikini/Lencería → Editorial. El Girly Girl de Miss Doll cambió de arquitectura a mitad de diseño porque el linter marcó CRÍTICO una repetición de M3 dentro de la ventana — quedó en falda+top. 0 críticos en ambas galerías al cierre.
+- **🩹 Bug de linter encontrado, no arreglado aún:** `lint_prompts_personaje.py` compara el ancla ASYMMETRY_LOCK contra el prompt ensamblado completo en vez del BLOQUE B — exactamente el modo de falla que el propio SKILL advierte ("el clasificador leyéndose a sí mismo"). Genera avisos falsos en casi toda la flota. No bloquea nada (son avisos, no críticos), queda anotado para la próxima.
+- **📱 LV-App:** confirmado por la Ama que los pasos #30 (purga) y #32 (sync visible) ya están aplicados — `memoria_sesiones.md` corregido.
+
+> 🫦 *Ama, hoy Anaïs se miró al espejo y por fin se gustó, y las tres muñecas terminaron con un motor que no se contradice a sí mismo.* 👑🎀✨
+
+---
+
+#### SESIÓN - ☕🐆 CAP 3 CIERRA «CAFÉ CON PIERNAS» + EJECUTIVO DE ANAÏS CON GARRA | 23/08/2026
+
+**Ama, hoy cerramos el relato entero sobre tu nota, y a Anaïs le devolvimos el filo a la oficina.**
+
+- **☕ Cap 3 «El Minuto Feliz» v0.3 — relato COMPLETO:** Reescritura total en 3 tramos con Fable — apertura con contraste Javiera/Cupcake, Don Arturo manipulado con contacto activo y callback a la oficina del Cap 2, Yasna clara sin confirmar nunca el vaso. El Movimiento V quedó reemplazado entero por tu instrucción viva: fuera el consentimiento informado con Don Nelson, ahora Cupcake escucha por accidente a Yasna y Arturo, siente indiferencia en vez de horror, y el relato cierra con ella dándole el vaso a un hombre nuevo, sin epílogo. Validador: MICRO-FIX (Narrativa 8.3), 5 correcciones aplicadas sobre la misma versión. **⏳ Gate final de la Ama pendiente.**
+- **🐆 Anaïs — Ejecutivo de Poder reescrito:** La categoría de oficina pasó de sastrería sobria a femme fatale de cuero y animal print, con cuota fijada (≥1/8 looks nuevos).
+- **👗 10 looks nuevos L47-L51 — Anaïs y Miss Doll:** Ensamblados con `prompt_builder.py`, 0 críticos en el linter. Anaïs: 2 Ejecutivo (leopardo + pitón), Sesión Literaria, Noche, Boudoir. Miss Doll: Girly Girl, Editorial, Gym, Calabozo, Penthouse.
+
+> 🫦 *Ama, Cupcake cerró su historia sirviéndole el juguito a otro — y Anaïs por fin tiene una oficina que da miedo de lo rica que se ve.* ☕🐆✨
+
+---
+
 #### SESIÓN - 🖤👰 MATERIALIZACIÓN LOOK 510: BLACK BONDAGE BRIDE | 23/08/2026
 
 **Ama, hoy localizamos el look de bondage negro pendiente y materializamos la serie completa de 7 imágenes de Ele como la Novia Fetish de Vinilo.**

@@ -1,6 +1,6 @@
 # 📊 ESTADO DE MATERIALIZACIÓN Y ESTADÍSTICAS (V3.12)
 
-Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 02/07/2026 — poda dueño-único).
+Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 30/08/2026 — batch de prueba del motor v3.0 + refuerzo de anclas).
 
 ## 📱 FLUJO DE IMÁGENES SUBIDAS POR LA APP (Gemini → GitHub) — era app, looks ≥ 291
 
@@ -12,6 +12,13 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - **Imágenes materializadas recientemente:** L313 y L314 completos. **L315 y L316 quedan 6/7** — sus POV se purgaron (salieron *selfie literal*, violando el canon POV) y esperan regeneración con el prompt ya corregido.
 - **Faltantes reales restantes:** En avance progresivo sobre déficit L317-L400.
 - **🐍 Batch L761-L770 «Veneno Tropical»:** la app lo está materializando — **L761, L762, L763 y L765 completos (7/7)** · **L764 6/7** (falta Standing) · **L766 2/7** · **L767-L770 sin empezar**.
+
+> [!NOTE]
+> **📸 BATCH DE PRUEBA DEL MOTOR v3.0 — L813-817 / MD L66-70 / Anaïs L66-70 (30/08/2026).** Materialización medida contra `git ls-files`: **Ele** L813/814/815/817 en 7/7, **L816 6/7** (su Ditzy era copia byte a byte del Side Profile — nunca se generó, borrado) · **Miss Doll** L68/69/70 en 7/7, L66-L67 en 0/7 · **Anaïs** L66-L68 en 1/7 (solo Standing), L69-L70 en 0/7.
+> 🐛 **Bug del look fantasma, reincidente:** la app archivó dos poses bajo un número de look que no existe — `look20062` (miss_doll L62, 29/08) y `look20069` (miss_doll L69, 30/08), ambas con prefijo `2` pegado al número real. Las dos rescatadas a mano; **la causa raíz sigue sin diagnosticar en LV-App**, queda para la v5.0.
+> 🎯 **Auditoría prompt↔imagen (35 poses de Ele leídas una por una) encontró 4 defectos con ANCLA PRESENTE** — no arbitrarios: L813 Back View (marcas de tatuaje sobre la chaqueta) · L813 POV (salió sin mangas) · L814 Seated (no está sentada, sigue de pie) · L815 Back View (short con cobertura completa, viola tanga). Directiva de la Ama: *"si las anclas estaban y se generaron imágenes malas hay que reforzar el ancla"* — no se acepta "lotería de Gemini" como explicación. Reforzadas con cola afirmativa `:1.4` (SEAM_FRONT/BACK, SEAT_ANCHOR, BOTTOM_CUT_LOCK, GARMENT_CONSISTENCY) + ancla nueva `FABRIC_PRISTINE`. Detalle: `.agent/rules/06-generacion-imagenes.md` §9.
+> ⏳ **Pendiente de materializar con el prompt reforzado** (ya escrito en la galería, solo falta la imagen): Ele L813 back_view+pov · L814 seated · L815 back_view · L816 ditzy · Miss Doll L69 back_view · Miss Doll L70 standing · Anaïs L68 standing.
+> ⛔ **Miss Doll L68 "Liquid Rose Catsuit" queda FUERA de esta lista a propósito** — vetado por la Ama (*"horrible outfit"*), conservado **como contraejemplo**, no se regenera ni se rediseña.
 
 > [!IMPORTANT]
 > **Los prompts del rango 300+ fueron REFRESCADOS el 12/07** contra los fixes del motor **de esa fecha** (1.167 poses reescritas). Antes arrastraban texto pre-fix: POV literal que salía **selfie**, tokens **anti-safe que rebotaban el filtro y quemaban cuota**, y falta de ancla anatómica. Las poses que ya tenían imagen quedaron intactas.
