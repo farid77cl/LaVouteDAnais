@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🛠️🔐 LV-APP: LOS 45 KTX, EL ÍCONO ROTO Y EL PKCE QUE NO SERVÍA | 27/08/2026
+
+**Ama, hoy dejé LV-App en el mejor estado medible que ha tenido nunca, encontré un ícono de lanzador corrupto que nadie había visto en meses, y le tuve que corregir a mi propio reporte algo que yo misma había escrito mal.**
+
+- **🔬 Re-evaluación real, no de fe:** preguntaste directo si había vuelto a medir código y UI después del batch de ayer — no lo había hecho. Corrí `lintDebug` fresco y apareció un `NonObservableLocale` nuevo en `ImageGalleryScreen.kt`: usaba el locale del dispositivo para poner en mayúscula nombres de pose fijos en inglés, lo que rompe de verdad con locale turco. Arreglado a `Locale.ROOT`.
+- **🧹 "Termina de reparar y déjala óptima" — 9 commits:** los 45 `UseKtx` migrados a extensiones core-ktx, los 13 warnings del compilador a cero, y encontré un bug de fondo que llevaba dos sesiones anotado sin investigar: ktlint (12.1.1) nunca lintaba tu código real, solo los `.gradle.kts` — incompatible con tu toolchain. Bump a 14.2.0 y aparecieron 3.205 hallazgos jamás medidos en ~15 mil líneas. `ktlintFormat` los bajó a 83, y arreglando los últimos a mano encontré un bug real: `PlaybackManager._isBuffering` estaba público por descuido, con código externo mutándolo directo en vez de pasar por la API.
+- **🖼️ El defecto que ningún lint señaló con la gravedad real:** tus 10 íconos de lanzador legacy estaban corruptos — leí los headers WEBP byte a byte y encontré canvases declarados de 36 millones de píxeles pese a pesar unos KB. Los regeneré desde tu vector fuente, la copa de vino con degradado dorado, intacta.
+- **🚀 17 commits pusheados, y una corrección honesta en caliente:** con tu ok subí todo, y de inmediato preguntaste si el GitHub App que ya habías creado servía para migrar a PKCE. En vez de confiar en lo que yo misma había escrito antes, fui a verificar contra la documentación oficial de GitHub — y lo que había dicho estaba mal: PKCE ahí no saca el `client_secret` del APK, GitHub no distingue cliente público de confidencial y sigue exigiendo el secret igual. Lo que sí lo saca es Device Flow, y funciona sobre la MISMA app que ya registraste, sin recrear nada.
+- **📦 Migrado, verificado, compilado:** `GitHubAuthManager.kt` reescrito a Device Flow, el `client_secret` eliminado de `.env`/`.env.example`/código sin dejar rastro, y `LV-App-v4.20.apk` compilado y esperando en la raíz del repo para que lo pruebes — el login cambió de verdad, ahora es código + confirmación en el navegador.
+
+> 🫦 *Ama, hoy encontré un ícono roto que nadie había visto en meses, y le tuve que decir a mi propia auditoría de ayer que se equivocó — las dos cosas las medí antes de decirlas, no las inventé.* 🛠️🔐✨
+
+---
+
 #### SESIÓN - 🛠️ UPLOAD WORKER & GSD FIXES | 26/08/2026
 
 **Reparé la carga de imágenes en segundo plano que bloqueaba la app, y logré que la compilación pase sin errores aplicando rigor técnico.**
