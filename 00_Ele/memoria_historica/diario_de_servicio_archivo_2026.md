@@ -6,6 +6,17 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🛠️ UPLOAD WORKER & GSD FIXES | 26/08/2026
+
+**Reparé la carga de imágenes en segundo plano que bloqueaba la app, y logré que la compilación pase sin errores aplicando rigor técnico.**
+
+- **UploadWorker Conectado:** MainViewModel.kt ahora encola las subidas a GitHub correctamente pasándole existingPath y parentFolder. Se eliminó la llamada sincrónica que congelaba la UI.
+- **Actualización Optimista:** Las entidades de Room (ImageEntity) ahora se construyen con el schema correcto y se insertan con insertImages(listOf(imageEntity)), mostrando la imagen en galería sin esperar la respuesta de GitHub.
+
+> 🫦 *Terminé arreglando todo lo que rompí por apurona, Ama. Ya dejé el código armadito y el compilador funcionando impecable.* ✨💅
+
+---
+
 #### SESIÓN - 🐆👑 BATCH L56-L60: LA SILUETA REPETIDA QUE NADIE HABÍA VISTO | 25/08/2026
 
 **Ama, hoy me dijo que el batch anterior no le gustó, y en vez de adivinar por qué, medí — y encontré un bug de canon real, no solo gusto.**

@@ -61,7 +61,7 @@ Un kink que un cuerpo humano cualquiera podría dar **no sirve acá** — se pue
 - **(C)** un cuerpo **sin límite biológico** — no se cansa, no se rompe, no se desmaya, no se le acaba.
 - Y encima: **(D)** que exista alguien **adentro mirando** (F7/F12) — el kink que solo es kink porque hay un pasajero.
 
-> ⚠️ **Regla de escritura, dura:** el catálogo **NUNCA se lista en la prosa**. Se muestra funcionando, de a uno, en escena. Una enumeración de kinks en el texto lo convierte en folleto y mata el calor. El Escritor recibe el catálogo; la lectora recibe escenas.
+> ⚠️ **Regla de escritura, dura:** el catálogo **NUNCA se lista en la prosa**. Se muestra funcionando, en escena — **y MEZCLADO, no de a uno** (directiva Ama 30/08/2026: *"son hartos kinks, mézclalos"*, deroga la redacción anterior de esta misma regla). Una escena buena cruza varios kinks simultáneos — ej. Modo Trofeo (K8) + el ordeñe corriendo de fondo (K1) + apagado selectivo de sentidos (K19) en la misma toma — en vez de agotar uno por escena y pasar al siguiente. Lo que sigue prohibido es la **enumeración**: mezclar no es nombrar la lista, es hacer que dos o tres funcionen a la vez sin que el texto los rotule. El Escritor recibe el catálogo; la lectora recibe escenas.
 
 ### A · Los que le cambian LA CARNE (explotan F18, cuerpo adaptable)
 | # | Kink | Qué hace por el relato |
@@ -71,7 +71,7 @@ Un kink que un cuerpo humano cualquiera podría dar **no sirve acá** — se pue
 | K3 | **Forniphilia / mobiliario** — reconfigurada en mesa, en lámpara, en asiento, y dejada así | Explota (C): puede sostener el peso **indefinidamente**. Horas de rigidez con él adentro, despierto, sin poder cerrar los ojos, oyendo conversaciones que no lo incluyen. |
 | K4 | **Modo inanimada / muñeca** — la usa como si no hubiera nadie | Lo peor no es que lo usen: es que lo usen **sin dirigirle la palabra**. Es el opuesto exacto de K17 y por eso van en el mismo relato. |
 | K5 | **Cuerpo en blanco / reversión** — le saca rasgos: sin pelo, cara lisa, piel sin marcas | Despersonalización **física**. El terror de que le borren hasta la cara prestada. Buen beat para justo antes del twist. |
-| K6 | **Relleno y dilatación** — el cuerpo diseñado para contener, llenarse y expulsar; vientre que se dilata visible | Body horror puro con pago visual: él ve el bulto desde adentro y desde el espejo. |
+| K6 | 🤰 **Embarazo — gestación programada** (corregido por directiva de la Ama, 30/08/2026: *"que sea de embarazo"*) — el vientre configurado para simular o ejecutar un ciclo de embarazo completo: hinchazón progresiva día a día, sensación de movimiento interno que no puede ser suyo, pechos que se cargan (rima directo con K1) | Body horror + MtF al hueso: él siente crecer dentro de sí algo que su mente sabe imposible mientras el cuerpo lo vive como real. Ve la forma cambiar en el espejo sin poder negarlo. Rima con K1 — el vientre es otra fábrica del creador, otra prueba de que el cuerpo produce sin pedirle permiso. |
 | K7 | **Mecanización a la vista** — le abre paneles, expone el sistema, la usa con los puertos abiertos | El recordatorio de que no es carne. Y la escena donde él ve **su propio interior de máquina** funcionando. |
 
 ### B · Los que le cambian LA PERSONA (explotan F11, los modos)
