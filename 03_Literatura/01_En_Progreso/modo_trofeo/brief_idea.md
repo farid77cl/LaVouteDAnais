@@ -45,6 +45,7 @@
 | F16 | **El creador tiene los kinks más desviados posibles.** No es un dueño con un fetiche: es un catálogo entero. |
 | F17 | **Incluye HUCOW.** Ordeñe, trato bovino, producción. Es kink nombrado por ella, no una opción a evaluar. |
 | F18 | **El cuerpo del robot es ADAPTABLE.** Se reconfigura. El creador no le cambia solo la personalidad con un modo — **le cambia la carne** para el kink que toque. |
+| F20 | 🔴 **HAY OTRA UNIDAD CON ALGUIEN ADENTRO** (Ama 30/08, literal: *"si, que haya"*). El hacker no es el primero. **Nunca se hablan** — él solo la ve moverse y entiende. Detalle en §3-quater. |
 | F19 | 🐄 **EL HUCOW DEBE LACTAR EN ALGÚN MOMENTO** (Ama 30/08/2026, literal). No se insinúa, no queda en rutina de fondo, no pasa fuera de cámara: **hay al menos una escena completa de lactancia/ordeñe escrita en página**, con la leche saliendo y él sintiéndolo. |
 
 > ⚙️ **Lo que F18 desbloquea, y hay que explotarlo:** el cuerpo deja de ser un lugar donde está atrapado y pasa a ser **material**. Cada kink nuevo del creador es una modificación física que él siente ocurrir sin poder detenerla — y bajo F7 (empieza a sentir) esa reconfiguración **se siente**. Combinado con F11 (modos de personalidad), el creador tiene dos perillas: **quién es** y **qué es**.
@@ -102,11 +103,33 @@ Un kink que un cuerpo humano cualquiera podría dar **no sirve acá** — se pue
 | K19 | **Apagado selectivo de sentidos** — le corta la vista y le deja el tacto; o le deja la vista y le quita el resto | El creador elige **qué percibe**. Y como él es un pasajero que entró para *ver y oír* (F4), quitarle justo eso es quitarle lo único que era suyo desde el principio. |
 | K20 | **Borrado y repetición** — le borra la sesión al robot y la repite idéntica | 💀 **El robot no recuerda. Él sí.** La misma escena, otra vez, y él sabe exactamente lo que viene. Es el kink que convierte la repetición en tortura sin subir un decibel. |
 | K21 | **Prestada** — el creador la presta a invitados o socios, con instrucciones | Objeto que **circula**. Y él descubre que lo prestan con un manual de uso. |
-| K22 | **Las otras unidades** — hay más robots del mismo modelo en la casa | Verse **repetida e intercambiable**. Y una posibilidad que abre trama: **¿alguna de las otras también lleva a alguien adentro?** ⚠️ *Esto es una puerta, no una decisión: si el hacker no es el primero, el twist se hace más hondo pero el relato se complica en 3 capítulos. **Decide la Ama.*** |
+| K22 | 🔴 **LAS OTRAS UNIDADES — y una lleva a alguien adentro (APROBADO por la Ama, 30/08: *"si, que haya"*)** | Verse **repetida e intercambiable**. Y sobre todo: **él no es el primero.** Ver detalle en §3-quater. |
 | K23 | **El archivo** — el creador le muestra las grabaciones de su propio uso y le exige que las comente | Lo obliga a ser **espectador de sí mismo por segunda vez**. Rima directo con K17: para exigirle un comentario hay que estar hablándole **a él**. |
 
+## 3-quater. 🔴 LA OTRA UNIDAD (K22 aprobado — Ama 30/08/2026: *"si, que haya"*)
+
+**Canon nuevo (F20):** en la casa hay **más unidades del mismo modelo**, y **al menos una lleva a alguien adentro**. El hacker **no es el primero**.
+
+### La regla dura: nunca se hablan
+Ella —la otra unidad— **jamás le dirige la palabra ni recibe una suya.** Ni un mensaje, ni un código, ni un guiño pactado. Él solo la **ve moverse**, y entiende. Es más frío, no gasta capítulo, y evita el desastre de que el relato se convierta en una fuga en equipo: **no hay aliada, hay espejo.**
+
+### Cómo se sabe, sin que nadie lo diga
+No hay revelación hablada. Hay **una sola señal repetida**: el parpadeo. Todas las unidades parpadean con un intervalo regular de obturador (M1) — y la de ella, **una vez, se sale del ritmo**. Después, la mirada: en una casa donde ningún robot mira a otro robot porque no hay para qué, **ella lo mira a él**. Una mirada que no tiene función.
+
+### Su recorrido en los 3 capítulos — es el reloj del hacker, visto desde afuera
+| Cap | Qué ve él | Qué significa (y él lo entiende después) |
+|---|---|---|
+| **Cap 1** | La ve pasar. El parpadeo fuera de ritmo. La mirada sin función. **No lo entiende** — lo anota como falla del modelo. | Sembrado puro. La lectora tampoco lo entiende todavía. |
+| **Cap 2** | Después del twist: entiende que **hubo otro experimento antes**. Y que ella lleva mucho más tiempo. | 💀 **Ella es su futuro, en la pieza de al lado.** Todo lo que él todavía puede pelear, ella ya lo perdió. Es la única fuente de información honesta del relato — y es muda. |
+| **Cap 3** | 🔴 **Ella deja de mirarlo.** No porque la castiguen: porque ya no queda nadie que mire. | El fondo del relato. Él ve **el final propio ocurrir en otro cuerpo**, y no puede hacer nada. |
+
+### 🖤 La imagen de cierre que esto habilita (propuesta para el Compositor)
+Al final del Cap 3 llega **una unidad nueva** a la casa. Y esa unidad nueva **lo mira a él**, con el parpadeo fuera de ritmo.
+**Y él no le devuelve la mirada.**
+Cierra el relato sin una sola línea de explicación, rima exacto con el Cap 1, y es **sin catarsis** como ella pidió: no muere, no se salva, no aprende. Simplemente ya no está para mirar.
+
 ### Cómo se reparten en los 3 capítulos (borrador, lo fija el Compositor)
-- **Cap 1 — mirar:** K8, K4, K16, K21, K22 vistos **con la salvaguarda intacta** (solo ve y oye). El **ordeñe K1 aparece acá como rutina de la casa** que él observa desde adentro sin poder sentirlo todavía — y esa impotencia de espectador es justo lo que prepara el cierre. Sembrar K17. Cierre: cae la capa SENSACIÓN.
+- **Cap 1 — mirar:** K8, K4, K16, K21, **K22 (la otra unidad, sembrada)** vistos **con la salvaguarda intacta** (solo ve y oye). El **ordeñe K1 aparece acá como rutina de la casa** que él observa desde adentro sin poder sentirlo todavía — y esa impotencia de espectador es justo lo que prepara el cierre. Sembrar K17. Cierre: cae la capa SENSACIÓN.
 - **Cap 2 — sentir:** 🐄 **la escena completa de lactancia (F19) va acá** — es el primer uso del cuerpo que él siente entero, y el mejor sitio posible: la leche baja **sola**, sin que él pueda impedirlo, y es la prueba física de que el cuerpo le gana. Más K2, K9, K14, K19. **El twist a mitad**, y K12 entra justo después: se entera de que existe el Modo Resistencia y ya no puede confiar en su propia pelea. K15 y K20 releídas como prueba de que lo están dosificando.
 - **Cap 3 — ser:** K3, K5, K7, K11, K18, K23 y el descenso a K13. El ordeñe vuelve, ya sin resistencia y **anotado como producción normal**. Sin catarsis: cierra adentro.
 
