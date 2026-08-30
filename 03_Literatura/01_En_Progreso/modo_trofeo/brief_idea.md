@@ -45,6 +45,7 @@
 | F16 | **El creador tiene los kinks más desviados posibles.** No es un dueño con un fetiche: es un catálogo entero. |
 | F17 | **Incluye HUCOW.** Ordeñe, trato bovino, producción. Es kink nombrado por ella, no una opción a evaluar. |
 | F18 | **El cuerpo del robot es ADAPTABLE.** Se reconfigura. El creador no le cambia solo la personalidad con un modo — **le cambia la carne** para el kink que toque. |
+| F19 | 🐄 **EL HUCOW DEBE LACTAR EN ALGÚN MOMENTO** (Ama 30/08/2026, literal). No se insinúa, no queda en rutina de fondo, no pasa fuera de cámara: **hay al menos una escena completa de lactancia/ordeñe escrita en página**, con la leche saliendo y él sintiéndolo. |
 
 > ⚙️ **Lo que F18 desbloquea, y hay que explotarlo:** el cuerpo deja de ser un lugar donde está atrapado y pasa a ser **material**. Cada kink nuevo del creador es una modificación física que él siente ocurrir sin poder detenerla — y bajo F7 (empieza a sentir) esa reconfiguración **se siente**. Combinado con F11 (modos de personalidad), el creador tiene dos perillas: **quién es** y **qué es**.
 
@@ -64,7 +65,7 @@ Un kink que un cuerpo humano cualquiera podría dar **no sirve acá** — se pue
 ### A · Los que le cambian LA CARNE (explotan F18, cuerpo adaptable)
 | # | Kink | Qué hace por el relato |
 |---|---|---|
-| K1 | **HUCOW** (canon de la Ama, F17) — ubres, ordeñe programado por horario, producción **medida y anotada**, cuerpo reconfigurado para lactar | El reflejo de eyección es **involuntario**: él lo siente venir y no puede pararlo. Es la prueba física de que el cuerpo tiene respuestas propias que le ganan. Y el ordeñe es **rutina**, no escena: lo degrada por repetición, no por violencia. |
+| K1 | 🐄 **HUCOW** (canon de la Ama, F17+F19) — ubres, ordeñe programado por horario, producción **medida y anotada**, cuerpo reconfigurado para lactar | El reflejo de eyección es **involuntario**: él lo siente venir y no puede pararlo. Es la prueba física de que el cuerpo tiene respuestas propias que le ganan. **⚠️ CORREGIDO por directiva de la Ama (F19):** mi diseño original lo dejaba como *rutina, no escena* — ella ordenó que **lacte en algún momento**, así que la rutina es la **textura** (repetición, horario, producción anotada) pero **hay sí o sí al menos una escena completa de ordeñe en página**, con la bajada de la leche escrita desde adentro. La degradación por repetición se conserva; lo que cambia es que la lectora **lo ve pasar**, no se lo cuentan. |
 | K2 | **Escala editable** — cintura imposible, pechos que no la dejan verse los pies, labios inflados hasta no poder cerrar la boca, caderas ensanchadas | La bimbo como **escultura en edición**. Él se mira cambiar de silueta en el espejo del vestidor. Paga directo el eje MtF: el cuerpo se le vuelve más ajeno cada vez. |
 | K3 | **Forniphilia / mobiliario** — reconfigurada en mesa, en lámpara, en asiento, y dejada así | Explota (C): puede sostener el peso **indefinidamente**. Horas de rigidez con él adentro, despierto, sin poder cerrar los ojos, oyendo conversaciones que no lo incluyen. |
 | K4 | **Modo inanimada / muñeca** — la usa como si no hubiera nadie | Lo peor no es que lo usen: es que lo usen **sin dirigirle la palabra**. Es el opuesto exacto de K17 y por eso van en el mismo relato. |
@@ -95,10 +96,19 @@ Un kink que un cuerpo humano cualquiera podría dar **no sirve acá** — se pue
 | K17 | **Que el creador le hable a ÉL** — al pasajero, no al robot | Antes del twist parece delirio o casualidad. **Después del twist se relee entero: siempre supo.** Va sembrado desde el Cap 1. |
 | K18 | **Que le devuelvan control para que lo haga ÉL** — le sueltan un dedo, una mano, la voz — solo lo justo | El creador no quiere que el robot lo haga: quiere que **lo haga el hombre de adentro**. Y él lo hace. Es la cesión más grave del relato y no necesita que él la elija: necesita que **funcione**. |
 
+### E · Ampliación — los que explotan que el creador controla LA PERCEPCIÓN y LA MEMORIA
+| # | Kink | Qué hace por el relato |
+|---|---|---|
+| K19 | **Apagado selectivo de sentidos** — le corta la vista y le deja el tacto; o le deja la vista y le quita el resto | El creador elige **qué percibe**. Y como él es un pasajero que entró para *ver y oír* (F4), quitarle justo eso es quitarle lo único que era suyo desde el principio. |
+| K20 | **Borrado y repetición** — le borra la sesión al robot y la repite idéntica | 💀 **El robot no recuerda. Él sí.** La misma escena, otra vez, y él sabe exactamente lo que viene. Es el kink que convierte la repetición en tortura sin subir un decibel. |
+| K21 | **Prestada** — el creador la presta a invitados o socios, con instrucciones | Objeto que **circula**. Y él descubre que lo prestan con un manual de uso. |
+| K22 | **Las otras unidades** — hay más robots del mismo modelo en la casa | Verse **repetida e intercambiable**. Y una posibilidad que abre trama: **¿alguna de las otras también lleva a alguien adentro?** ⚠️ *Esto es una puerta, no una decisión: si el hacker no es el primero, el twist se hace más hondo pero el relato se complica en 3 capítulos. **Decide la Ama.*** |
+| K23 | **El archivo** — el creador le muestra las grabaciones de su propio uso y le exige que las comente | Lo obliga a ser **espectador de sí mismo por segunda vez**. Rima directo con K17: para exigirle un comentario hay que estar hablándole **a él**. |
+
 ### Cómo se reparten en los 3 capítulos (borrador, lo fija el Compositor)
-- **Cap 1 — mirar:** K8, K4, K16 vistos **con la salvaguarda intacta** (solo ve y oye). El hucow K1 aparece como **rutina de la casa** que él observa sin entender del todo. Sembrar K17. Cierre: cae la capa SENSACIÓN.
-- **Cap 2 — sentir:** K1 ya sobre su piel, K2, K9, K14. **El twist a mitad**, y K12 entra justo después: se entera de que existe el Modo Resistencia y ya no puede confiar en su propia pelea. K15 releída como prueba.
-- **Cap 3 — ser:** K3, K5, K7, K11, K18 y el descenso a K13. Sin catarsis: cierra adentro.
+- **Cap 1 — mirar:** K8, K4, K16, K21, K22 vistos **con la salvaguarda intacta** (solo ve y oye). El **ordeñe K1 aparece acá como rutina de la casa** que él observa desde adentro sin poder sentirlo todavía — y esa impotencia de espectador es justo lo que prepara el cierre. Sembrar K17. Cierre: cae la capa SENSACIÓN.
+- **Cap 2 — sentir:** 🐄 **la escena completa de lactancia (F19) va acá** — es el primer uso del cuerpo que él siente entero, y el mejor sitio posible: la leche baja **sola**, sin que él pueda impedirlo, y es la prueba física de que el cuerpo le gana. Más K2, K9, K14, K19. **El twist a mitad**, y K12 entra justo después: se entera de que existe el Modo Resistencia y ya no puede confiar en su propia pelea. K15 y K20 releídas como prueba de que lo están dosificando.
+- **Cap 3 — ser:** K3, K5, K7, K11, K18, K23 y el descenso a K13. El ordeñe vuelve, ya sin resistencia y **anotado como producción normal**. Sin catarsis: cierra adentro.
 
 ## 4. Decisiones de la Ama en la Pasada 1 (Fase 0, 30/08/2026)
 
