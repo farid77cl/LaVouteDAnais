@@ -4130,11 +4130,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/`
 - **Tags:** #mix #noche_la_voute #n1 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
@@ -4180,11 +4180,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/`
 - **Tags:** #mix #latex_fetichismo #l3 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
@@ -4230,11 +4230,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/`
 - **Tags:** #mix #ejecutivo_de_poder #x1 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text

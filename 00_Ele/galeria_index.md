@@ -622,11 +622,11 @@
 | **810** | Deep Wine AP Corselette | 27/08/2026 | Lencería | — | — | 7/7 | — |
 | **811** | Nude Bordelle Harness Atelier | 27/08/2026 | Lencería | — | — | 0/7 | ⏳ Pendiente |
 | **812** | Blush Whisper Babydoll | 27/08/2026 | Lencería | — | — | 3/7 | ⏳ Pendiente |
-| **813** | Acid Chartreuse Boardroom | 29/08/2026 | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **814** | Oil-Slick Opera Escort | 29/08/2026 | Escort | — | — | 0/7 | ⏳ Pendiente |
-| **815** | Mercury Wet-Look Performance | 29/08/2026 | Gym | — | — | 0/7 | ⏳ Pendiente |
-| **816** | Bubblegum Vinyl Sweetheart | 29/08/2026 | Pin-Up | — | — | 0/7 | ⏳ Pendiente |
-| **817** | Leopard Chrome Pole Predator | 29/08/2026 | Stripper | — | — | 0/7 | ⏳ Pendiente |
+| **813** | Acid Chartreuse Boardroom | 29/08/2026 | Corporate | — | — | 7/7 | — |
+| **814** | Oil-Slick Opera Escort | 29/08/2026 | Escort | — | — | 7/7 | — |
+| **815** | Mercury Wet-Look Performance | 29/08/2026 | Gym | — | — | 7/7 | — |
+| **816** | Bubblegum Vinyl Sweetheart | 29/08/2026 | Pin-Up | — | — | 7/7 | — |
+| **817** | Leopard Chrome Pole Predator | 29/08/2026 | Stripper | — | — | 7/7 | — |
 
 ---
 
@@ -863,11 +863,6 @@
 | **808** | Noir Lace La Perla Suite | 0/7 | ⏳ Pendiente |
 | **811** | Nude Bordelle Harness Atelier | 0/7 | ⏳ Pendiente |
 | **812** | Blush Whisper Babydoll | 3/7 | ⏳ Pendiente |
-| **813** | Acid Chartreuse Boardroom | 0/7 | ⏳ Pendiente |
-| **814** | Oil-Slick Opera Escort | 0/7 | ⏳ Pendiente |
-| **815** | Mercury Wet-Look Performance | 0/7 | ⏳ Pendiente |
-| **816** | Bubblegum Vinyl Sweetheart | 0/7 | ⏳ Pendiente |
-| **817** | Leopard Chrome Pole Predator | 0/7 | ⏳ Pendiente |
 
 ---
 

@@ -4,6 +4,46 @@
 
 ---
 
+## 👠 Look 817: Leopard Chrome Pole Predator
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_817_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look817_leopard_chrome_pole_predator/ele_817_standing.png) | ![ele_817_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look817_leopard_chrome_pole_predator/ele_817_back_view.png) | ![ele_817_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look817_leopard_chrome_pole_predator/ele_817_seated.png) | ![ele_817_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look817_leopard_chrome_pole_predator/ele_817_side_profile.png) | ![ele_817_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look817_leopard_chrome_pole_predator/ele_817_ditzy.png) | ![ele_817_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look817_leopard_chrome_pole_predator/ele_817_pov.png) | ![ele_817_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look817_leopard_chrome_pole_predator/ele_817_odalisque.png) |
+
+---
+
+## 👠 Look 816: Bubblegum Vinyl Sweetheart
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_816_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look816_bubblegum_vinyl_sweetheart/ele_816_standing.png) | ![ele_816_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look816_bubblegum_vinyl_sweetheart/ele_816_back_view.png) | ![ele_816_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look816_bubblegum_vinyl_sweetheart/ele_816_seated.png) | ![ele_816_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look816_bubblegum_vinyl_sweetheart/ele_816_side_profile.png) | ![ele_816_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look816_bubblegum_vinyl_sweetheart/ele_816_ditzy.png) | ![ele_816_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look816_bubblegum_vinyl_sweetheart/ele_816_pov.png) | ![ele_816_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look816_bubblegum_vinyl_sweetheart/ele_816_odalisque.png) |
+
+---
+
+## 👠 Look 815: Mercury Wetlook Performance
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_815_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look815_mercury_wetlook_performance/ele_815_standing.png) | ![ele_815_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look815_mercury_wetlook_performance/ele_815_back_view.png) | ![ele_815_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look815_mercury_wetlook_performance/ele_815_seated.png) | ![ele_815_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look815_mercury_wetlook_performance/ele_815_side_profile.png) | ![ele_815_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look815_mercury_wetlook_performance/ele_815_ditzy.png) | ![ele_815_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look815_mercury_wetlook_performance/ele_815_pov.png) | ![ele_815_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look815_mercury_wetlook_performance/ele_815_odalisque.png) |
+
+---
+
+## 👠 Look 814: Oilslick Opera Escort
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_814_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look814_oilslick_opera_escort/ele_814_standing.png) | ![ele_814_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look814_oilslick_opera_escort/ele_814_back_view.png) | ![ele_814_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look814_oilslick_opera_escort/ele_814_seated.png) | ![ele_814_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look814_oilslick_opera_escort/ele_814_side_profile.png) | ![ele_814_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look814_oilslick_opera_escort/ele_814_ditzy.png) | ![ele_814_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look814_oilslick_opera_escort/ele_814_pov.png) | ![ele_814_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look814_oilslick_opera_escort/ele_814_odalisque.png) |
+
+---
+
+## 👠 Look 813: Acid Chartreuse Boardroom
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_813_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look813_acid_chartreuse_boardroom/ele_813_standing.png) | ![ele_813_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look813_acid_chartreuse_boardroom/ele_813_back_view.png) | ![ele_813_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look813_acid_chartreuse_boardroom/ele_813_seated.png) | ![ele_813_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look813_acid_chartreuse_boardroom/ele_813_side_profile.png) | ![ele_813_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look813_acid_chartreuse_boardroom/ele_813_ditzy.png) | ![ele_813_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look813_acid_chartreuse_boardroom/ele_813_pov.png) | ![ele_813_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look813_acid_chartreuse_boardroom/ele_813_odalisque.png) |
+
+---
+
 ## 👠 Look 812: Blush Whisper Babydoll
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy |

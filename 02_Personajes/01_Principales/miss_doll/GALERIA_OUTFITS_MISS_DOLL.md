@@ -4011,11 +4011,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a La Perla-inspired aristocratic overbust corset in ivory champagne laser-cut lace-pattern vinyl, gloss finish, tightly structured with visible spiral steel boning and a sweetheart neckline trimmed in scalloped lace edging, gold hook-and-eye front busk closure; a matching thong brief in ivory champagne vinyl with the same laser-cut lace pattern at the waistband; an attached suspender belt with four gold metal garter clips; full-length sheer ivory seamed stockings with a straight back seam from heel to thigh; a small dusty-rose satin bow pinned at the center busk as the signature pink accent; (13cm ivory champagne patent platform pump, closed pointed toe, secured slingback strap, razor-thin metal needle heel, gold heel cap:1.3); long almond-shaped nails in champagne pearl polish.
 ```
 
-### 📸 Imágenes (6/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_standing.png) | ⏳ Pendiente | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_odalisque.png) |
+| [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/miss_doll_062_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4358,11 +4358,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a dusty rose liquid latex catsuit covering the body from throat to ankle: a high mock-neck collar, long sleeves to the wrist, full-length legs moulded to the calf, a mirror-chrome zip running the full length of the front and drawn down to the sternum, the waist cinched by a hot pink patent vinyl underbust corset belt with chrome boning; no stockings, the catsuit covers the leg; a chrome choker with no lettering; platform stiletto ankle boots in dusty rose patent latex, 16cm heel plus 5-inch chrome platform, closed pointed toe, a mirror-chrome side zip, chrome sole edge
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look68_liquid_rose_catsuit_portrait/miss_doll_068_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look68_liquid_rose_catsuit_portrait/miss_doll_068_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look68_liquid_rose_catsuit_portrait/miss_doll_068_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look68_liquid_rose_catsuit_portrait/miss_doll_068_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look68_liquid_rose_catsuit_portrait/miss_doll_068_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look68_liquid_rose_catsuit_portrait/miss_doll_068_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look68_liquid_rose_catsuit_portrait/miss_doll_068_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4415,11 +4415,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a champagne mesh slip dress worn as the main garment over the lingerie beneath, sheer enough to read the set through it: a bias-cut cowl neckline, no sleeves with fine spaghetti straps, a hem falling to mid-calf with a split to the thigh on one side; beneath it a hot pink liquid latex longline bra and a matching hot pink latex thong with a narrow tapered front panel, a thin waistband high on the hip bones and a single slim strip at the back leaving the seat uncovered; over both, a champagne wet-satin robe worn open, its sash hanging loose and never tied; sheer champagne hold-up stockings with a straight back seam; a chrome choker with no lettering; platform stiletto sandals in champagne patent vinyl, 15cm heel plus 4.5-inch platform, closed pointed toe, two champagne satin ankle straps with chrome pin buckles, chrome sole edge
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look69_champagne_silk_vip_suite/miss_doll_069_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look69_champagne_silk_vip_suite/miss_doll_069_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look69_champagne_silk_vip_suite/miss_doll_069_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look69_champagne_silk_vip_suite/miss_doll_069_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look69_champagne_silk_vip_suite/miss_doll_069_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look69_champagne_silk_vip_suite/miss_doll_069_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look69_champagne_silk_vip_suite/miss_doll_069_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4472,11 +4472,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 an electric magenta high-gloss vinyl mini dress: an architectural one-shoulder asymmetric neckline with the right shoulder bare, a single long sleeve on the left arm only, a hem cut high on the thigh, the body moulded and seamless with a mirror-chrome zip at the side; a magenta vinyl thong beneath; sheer black hold-up stockings with a chrome-clasp suspender belt just visible at the hem; a mirror-chrome choker with no lettering and a single chrome cuff on the bare right wrist; platform stiletto sandals in mirror-chrome, 17cm heel plus 5.5-inch chrome platform, closed pointed toe, two chrome ankle straps with pin buckles, mirrored chrome sole edge
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look70_magenta_chrome_stage_sovereign/miss_doll_070_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look70_magenta_chrome_stage_sovereign/miss_doll_070_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look70_magenta_chrome_stage_sovereign/miss_doll_070_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look70_magenta_chrome_stage_sovereign/miss_doll_070_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look70_magenta_chrome_stage_sovereign/miss_doll_070_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look70_magenta_chrome_stage_sovereign/miss_doll_070_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look70_magenta_chrome_stage_sovereign/miss_doll_070_odalisque.png) |
 
 ### 1. Standing
 ```text
