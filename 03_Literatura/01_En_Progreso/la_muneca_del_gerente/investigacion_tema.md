@@ -10,7 +10,7 @@
 
 | Guía | Qué aporta a ESTE relato |
 |------|--------------------------|
-| `.agent/skills/escritura-voûte/resources/VADEMECUM_SENSORIAL.md` | Siempre obligatorio antes de escribir |
+| `01_Canon/Guias_Especializadas/VADEMECUM_SENSORIAL.md` | Siempre obligatorio antes de escribir *(promovido desde escritura-voûte, 30/08/2026)* |
 | `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` | **Circuito de traición**: el cuerpo responde antes que la mente — es el motor del Pivote 2 y 3 |
 | `01_Canon/Guias_Especializadas/arquitectura_erotica_bimbo_v1.md` | Condicionamiento, Vacío Feliz — el estado terminal de Kitty en horario laboral |
 | `01_Canon/Guias_Especializadas/arquitectura_erotica_femdom_v1.md` | Fernanda: dominación administrativa, poder sin grito |

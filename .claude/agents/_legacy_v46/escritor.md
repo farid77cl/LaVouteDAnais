@@ -1,7 +1,7 @@
 ---
 name: escritor
 description: |
-  Use this agent for FASE 4 (Escritura del Borrador) of Engine Escritura LV v4.6. Writes one chapter in explicit erotic prose. Prioritizes the Ama's LITERAL CONCEPT and the Mecanismo de Calentón over arc/personajes/mapa. Targets the Test del Subrayado — at least N high-charge images per 1000 words depending on declared T°. Returns ESCRITOR_RESULT with file path and self-checked subrayado count.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 4 (Escritura del Borrador) of Engine Escritura LV v4.6. Writes one chapter in explicit erotic prose. Prioritizes the Ama's LITERAL CONCEPT and the Mecanismo de Calentón over arc/personajes/mapa. Targets the Test del Subrayado — at least N high-charge images per 1000 words depending on declared T°. Returns ESCRITOR_RESULT with file path and self-checked subrayado count.
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---
 

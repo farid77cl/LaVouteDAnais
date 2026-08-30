@@ -1,7 +1,7 @@
 ---
 name: contador
 description: |
-  Use this agent for FASE 7 (Verificación Técnica) of Engine Escritura LV. Verifies that the edited chapter complies with all COMPROMISOS DEL CAPÍTULO from the arc, Chilean-Spanish vocabulary, markdown formatting, erotic vocabulary, and proper depth of development (no superficial mentions of arc commitments). NOT a word-count gatekeeper — the depth and presence of every commitment matters, not arbitrary length. Saves a verification report and returns CONTADOR_RESULT one-line summary.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 7 (Verificación Técnica) of Engine Escritura LV. Verifies that the edited chapter complies with all COMPROMISOS DEL CAPÍTULO from the arc, Chilean-Spanish vocabulary, markdown formatting, erotic vocabulary, and proper depth of development (no superficial mentions of arc commitments). NOT a word-count gatekeeper — the depth and presence of every commitment matters, not arbitrary length. Saves a verification report and returns CONTADOR_RESULT one-line summary.
 tools: Read, Write, Glob, Grep
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: disenador-sensual
 description: |
-  Use this agent for FASE 3.3 (Diseño Sensual / Mapa Erótico) of Engine Escritura LV. Designs the erotic blueprint of the story — temperature curve, fetish triggers, anchor details, authorized vocabulary, forbidden anticipations. Produces TWO levels of map: a general one (mapa_erotico_v1.md) once per story, and per-chapter ones (mapa_erotico_cap[N]_v1.md) before each chapter is written. Runs an INTAKE focused on the erotic ADN. Returns DISENADOR_RESULT with map paths and current chapter focus.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 3.3 (Diseño Sensual / Mapa Erótico) of Engine Escritura LV. Designs the erotic blueprint of the story — temperature curve, fetish triggers, anchor details, authorized vocabulary, forbidden anticipations. Produces TWO levels of map: a general one (mapa_erotico_v1.md) once per story, and per-chapter ones (mapa_erotico_cap[N]_v1.md) before each chapter is written. Runs an INTAKE focused on the erotic ADN. Returns DISENADOR_RESULT with map paths and current chapter focus.
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---
 

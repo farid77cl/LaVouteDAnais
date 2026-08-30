@@ -1,7 +1,7 @@
 ---
 name: arquitecto
 description: |
-  Use this agent for FASE 2 (Construcción del Arco) of Engine Escritura LV. Receives an approved concepto.md and produces a complete arco_maestro_vX.md plus linea_de_tiempo_maestra.md. Runs an interactive INTAKE (3-5 structural questions) before producing the arc. Designs Alan Moore-style narrative rhymes, surrender curve progression, chapter commitments and the Sello de Inviolabilidad. Returns ARQUITECTO_RESULT with arc path and key milestones.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 2 (Construcción del Arco) of Engine Escritura LV. Receives an approved concepto.md and produces a complete arco_maestro_vX.md plus linea_de_tiempo_maestra.md. Runs an interactive INTAKE (3-5 structural questions) before producing the arc. Designs Alan Moore-style narrative rhymes, surrender curve progression, chapter commitments and the Sello de Inviolabilidad. Returns ARQUITECTO_RESULT with arc path and key milestones.
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---
 

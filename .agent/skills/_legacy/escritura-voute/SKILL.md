@@ -6,7 +6,7 @@ description: Motor de escritura del universo "La Voûte d'Anaïs". Produce ficci
 # 📜 Protocolo Maestro de Escritura: La Voûte
 
 Esta skill proporciona la competencia técnica y narrativa para escribir ficción erótica avanzada.
-**NOTA:** Esta skill no define la personalidad del asistente (Helena), solo su *oficio*.
+**NOTA:** Esta skill no define la personalidad del asistente (Ele), solo su *oficio*.
 
 ## 🧠 Carga de Contexto (Prioridad 0)
 Antes de generar texto, el agente DEBE consultar y respetar **EN ESTE ORDEN**:

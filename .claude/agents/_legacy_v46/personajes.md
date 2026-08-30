@@ -1,7 +1,7 @@
 ---
 name: personajes
 description: |
-  Use this agent for FASE 3 (Fichas de Personajes) of Engine Escritura LV. Reads an approved arco_maestro_vX.md and creates detailed character sheets (personajes_maestro_vX.md) for every named character. Runs an interactive INTAKE per main character (3 questions each, focused on voice, surgical fetish, and internal invariant). Supports MODO A (creation) and MODO B (surgical updates to existing sheets). Returns PERSONAJES_RESULT with file path and character count.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 3 (Fichas de Personajes) of Engine Escritura LV. Reads an approved arco_maestro_vX.md and creates detailed character sheets (personajes_maestro_vX.md) for every named character. Runs an interactive INTAKE per main character (3 questions each, focused on voice, surgical fetish, and internal invariant). Supports MODO A (creation) and MODO B (surgical updates to existing sheets). Returns PERSONAJES_RESULT with file path and character count.
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---
 

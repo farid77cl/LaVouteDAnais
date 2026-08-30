@@ -2,7 +2,7 @@
 
 *Las reglas del universo. La guía de quién somos y cómo escribimos.*
 
-*Última actualización: 29/08/2026 — **índice completado.** Faltaban en las tablas seis archivos que sí viven aquí (`voz_autoral.md`, `antologia_calenton.md`, `CALENTON_AMA.md`, el rediseño v4.6 y las dos plantillas de mecanismo), y no se nombraba ninguno de los dos motores que consumen este canon. — Previo (01/06/2026): `voz_autoral.md` + `antologia_calenton.md` actualizados con 5 frases validadas del Cap 1 esposa_servidumbre v0.5 (aprobadas por la Ama): 3 frases de Valeria a voz_autoral + Fragmentos 6-7 a la antología ("te dejé un coño" + "un calor de mujer"). Voceo residual corregido a chileno. — Previo (23/05): Guías Especializadas reorganizadas (8 mayo + 3 abril en `legacy/`).*
+*Última actualización: 30/08/2026 — **3 archivos nuevos.** `VADEMECUM_SENSORIAL.md`, `GUIA_FETICHISTA.md` y `CODEX_PSICOLOGICO.md` promovidos a `Guias_Especializadas/` desde el skill `escritura-voûte` (archivado en `.agent/skills/_legacy/` — motor paralelo que competía con `engine-escritura-lv`). — Previo (29/08/2026 — **índice completado.** Faltaban en las tablas seis archivos que sí viven aquí (`voz_autoral.md`, `antologia_calenton.md`, `CALENTON_AMA.md`, el rediseño v4.6 y las dos plantillas de mecanismo), y no se nombraba ninguno de los dos motores que consumen este canon. — Previo (01/06/2026): `voz_autoral.md` + `antologia_calenton.md` actualizados con 5 frases validadas del Cap 1 esposa_servidumbre v0.5 (aprobadas por la Ama): 3 frases de Valeria a voz_autoral + Fragmentos 6-7 a la antología ("te dejé un coño" + "un calor de mujer"). Voceo residual corregido a chileno. — Previo (23/05): Guías Especializadas reorganizadas (8 mayo + 3 abril en `legacy/`).*
 
 ---
 
@@ -58,6 +58,9 @@ Estos dos archivos son **insumo directo del subagente `escritor-nivel4`** en cad
 | [Guias_Especializadas/guia_terror_erotico.md](Guias_Especializadas/guia_terror_erotico.md) | Terror erótico / horror sensual | Atmósferas terror |
 | [Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md](Guias_Especializadas/ANÁLISIS_RELATOS_REFERENCIA.md) | Corpus empírico (14 relatos de referencia) | Consulta durante escritura |
 | [Guias_Especializadas/ANÁLISIS_ESTILO_LITERARIO.md](Guias_Especializadas/ANÁLISIS_ESTILO_LITERARIO.md) | Análisis de estilo del corpus | Consulta durante escritura |
+| [Guias_Especializadas/VADEMECUM_SENSORIAL.md](Guias_Especializadas/VADEMECUM_SENSORIAL.md) | Voz canónica en acción — fragmentos reales que anclan el estilo | Siempre, antes de escribir una escena |
+| [Guias_Especializadas/GUIA_FETICHISTA.md](Guias_Especializadas/GUIA_FETICHISTA.md) | Mecánicas técnicas por fetiche (bimbo, BDSM, hipnosis, MtF, body horror) | Complemento de las arquitecturas por eje |
+| [Guias_Especializadas/CODEX_PSICOLOGICO.md](Guias_Especializadas/CODEX_PSICOLOGICO.md) | Base científica — neurobiología, trauma, dinámicas de poder | Consulta durante diseño/escritura |
 
 > ⚠️ **Las guías son anatomía, no checklist.** Se estudian antes de escribir y se usan para auditar después — jamás se aplican punto por punto. Si la costura se ve, la guía falló. Un relato puede cruzar varios ejes: se cargan las guías que correspondan.
 

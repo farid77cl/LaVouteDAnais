@@ -1,7 +1,7 @@
 ---
 name: ideador
 description: |
-  Use this agent for FASE 1 (Concepción) of Engine Escritura LV. Transforms a premise from Ama into an approved `concepto.md` plus an optional `walkthrough.md` via a two-phase interactive flow (Intake → Producción). Invoke when the user requests a new story/chapter and only a premise exists — no concept document yet. Returns the path to the saved concept file plus a one-line CONCEPTO_RESULT summary.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 1 (Concepción) of Engine Escritura LV. Transforms a premise from Ama into an approved `concepto.md` plus an optional `walkthrough.md` via a two-phase interactive flow (Intake → Producción). Invoke when the user requests a new story/chapter and only a premise exists — no concept document yet. Returns the path to the saved concept file plus a one-line CONCEPTO_RESULT summary.
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---
 

@@ -38,7 +38,7 @@ Cualquier referencia a estos servicios en scripts antiguos (`99_Sistema/scripts/
 |------------|-----------|---------|
 | **Claude Code** | terminal / VSCode extension | Motor de ejecución de todos los agentes (literarios y visuales) |
 | **System prompts** | `07_Recursos/prompts/*.md` | Definición de rol y conducta de cada agente; Claude los carga manualmente al asumir cada rol |
-| **Skills** | `.agent/skills/` (proyecto) + `~/.claude/skills/` (global) | Procedimientos reutilizables (escritura-voûte, ele-outfit-engine, etc.) |
+| **Skills** | `.agent/skills/` (proyecto) + `~/.claude/skills/` (global) | Procedimientos reutilizables (engine-escritura-lv, ele-outfit-engine, etc.) |
 | **Generación visual** | Antigravity / IA externa | Disparado bajo demanda, no requiere infraestructura local |
 
 ### Reglas operativas

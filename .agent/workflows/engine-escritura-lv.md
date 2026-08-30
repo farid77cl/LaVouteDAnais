@@ -18,7 +18,7 @@ En cada proyecto de `03_Literatura/01_En_Progreso/[proyecto]/`:
 - **Raíz del proyecto:** solo archivos vivos y maestros
   - `investigacion.md` — 🆕 v4.8: tono + qué calienta del tema + motivos permanentes + curva de resistencia
   - `canon_relato.md` — documento de canon ÚNICO (~2,000 palabras, Nivel 4)
-  - `cronologia.md` — calendario anclado + Hechos Plantados + estado del cuerpo
+  - `cronologia.md` — secuencia de eventos ordenada (sin días marcados, Ama 25/08/2026) + Hechos Plantados + estado del cuerpo
   - `walkthrough.md` — bitácora viva
   - `capitulo_[N]_[slug]_v0.X.md` activo — **SOLO PROSA, sin metadata**
   - `capitulo_[N]_maestro_vX.md` cuando exista Gold Master
@@ -77,7 +77,7 @@ Al retomar **cualquier** relato de `01_En_Progreso/`, antes de escribir o correg
 - **NO edita texto** — solo veredicto. El Editor NO existe en Nivel 4. **Prohibido aprobar por cortesía.**
 - Veredicto → destino:
   - **APROBADO** (Inm ✅ · Cont ✅ · Temp ≥8.5 con T1·T2 ✅ · Narr ≥9.0) → Gate de la Ama
-  - **DISCONTINUO** (Continuidad ❌) → Escritor planta el ancla / cuadra calendario / repara costura
+  - **DISCONTINUO** (Continuidad ❌) → Escritor planta el ancla / cuadra la secuencia / repara costura
   - **FRÍO** 🆕 (T1 ❌ — es thriller con escenas) → Escritor reescribe con marco erótico explícito
   - **TIBIO** (T2 ❌ o Temp <8.5) → Escritor reescribe con los pasajes fríos citados
   - **MICRO-FIX** (Narr 7.0-8.9) → Escritor aplica las cirugías indicadas

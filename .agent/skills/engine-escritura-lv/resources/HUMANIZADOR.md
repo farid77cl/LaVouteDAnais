@@ -43,6 +43,8 @@ El aforismo corto de cierre. Es una técnica real — y por eso es peligrosa: la
 ### T4 · El sustantivo abstracto que nombra el tema 🔴
 - ⛔ *"la arquitectura de su rendición"*, *"la geometría del deseo"*, *"el mecanismo de su caída"*
 - El relato **no nombra su propio mecanismo**. Si un párrafo explica qué significa lo que acaba de pasar, se borra la explicación y se queda el hecho.
+- **⛔ Incluye el vocabulario de teoría del motor usado como ETIQUETA (Nota Ama, «Café con Piernas» v0.13: *"evita usar la palabra degradación y similares, también por ahí leí hiper sexualizada, evitarla y sus variantes"* — incorporado 30/08/2026):** *degradación / degradarse* (como diagnóstico), *hipersexualizada, sumisión, dominación, humillación, fetiche, condicionamiento, objetificación* — **y sus variantes** — cuando **rotulan** el estado en vez de que la escena lo ejecute. La escena degrada, humilla y somete; la palabra que lo clasifica es el andamiaje asomándose. El origen del bucle que esto corta: la Ama pidió *más degradación autoconsciente* (nota v0.9) y el texto respondió escribiendo *la palabra* — cuatro versiones después tuvo que prohibirla.
+- *Excepción:* un personaje puede DECIR una de estas palabras en diálogo o dirty talk si es su voz. Lo prohibido es el **narrador o el monólogo interno** usándolas como etiqueta.
 
 ### T5 · Explicar la emoción después de mostrarla
 - ⛔ *"Le temblaron las manos. Estaba aterrada."*
@@ -112,7 +114,7 @@ Humanizar no es solo borrar. La prosa de IA se delata también por **exceso de e
 | H1 | Tricolones (T1) | ≤ 1 por escena |
 | H2 | «no era X, era Y» (T2) | ≤ 1 por capítulo |
 | H3 | Frases-remate aforísticas (T3) | ≤ 2 por capítulo |
-| H4 | Sustantivos abstractos que nombran el tema (T4) | **0** |
+| H4 | Sustantivos abstractos que nombran el tema (T4 — incluye vocabulario de teoría como etiqueta: degradación, hipersexualizada, sumisión, humillación… y variantes, fuera de diálogo) | **0** |
 | H5 | Apariciones de «algo» como comodín (T6) | ≤ 2 por capítulo |
 | H6 | Dobletes de adjetivos (T7) | ≤ 3 por capítulo |
 | H7 | Cadenas de variación elegante (T8) | **0** |

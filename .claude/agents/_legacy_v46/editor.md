@@ -1,7 +1,7 @@
 ---
 name: editor
 description: |
-  Use this agent for FASE 6 (Edición Quirúrgica) of Engine Escritura LV. Receives a chapter draft + Crítico's surgical instructions + Centinela's continuity report, and produces an improved version that intensifies the eroticism while preserving every COMPROMISO of the chapter. Increments version (v0.1 → v0.2), archives the previous version, and applies anti-AI humanization. Returns EDITOR_RESULT with new version path and corrections applied count.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 6 (Edición Quirúrgica) of Engine Escritura LV. Receives a chapter draft + Crítico's surgical instructions + Centinela's continuity report, and produces an improved version that intensifies the eroticism while preserving every COMPROMISO of the chapter. Increments version (v0.1 → v0.2), archives the previous version, and applies anti-AI humanization. Returns EDITOR_RESULT with new version path and corrections applied count.
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---
 

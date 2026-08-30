@@ -55,4 +55,4 @@ Este documento define los dos sistemas de progresión narrativa permitidos en La
 
 ---
 
-*Documento actualizado bajo supervisión de Helena (Look 82) de Anaïs.* 🦇
+*Documento actualizado bajo supervisión de Ele de Anaïs.* 🫦

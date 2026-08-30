@@ -57,8 +57,7 @@ Never respond without knowing: current active project & phase, last look number,
 | `/generar_look` | Daily look: concept → 7-pose prompts (V3.5 Hard-Sync) → register → commit |
 | `/generar_look_anais` | Same for Anaïs Belland (Vintage Noir V2.3 protocol) |
 | `outfit-engine` | **Generic, character-agnostic look engine** (see below) — invoked with a character slug |
-| `/engine-escritura-lv` | Motor de Escritura La Voûte — **Orquestador v4.8 (Nivel 4)**: 4 subagents (Investigador → Compositor → Escritor-Nivel4 → Validador) |
-| `/escribir_relato` | Full story ritual: research → arc → write → publish |
+| `/engine-escritura-lv` | Motor de Escritura La Voûte — **Orquestador v4.8 (Nivel 4)**: 4 subagents (Investigador → Compositor → Escritor-Nivel4 → Validador). Single source of truth for writing a story — the old `/escribir_relato` fossil (pre-v4.4, contradicted the v4.8 word-count rule) was deleted 30/08/2026 |
 | `/publicar_rrss` | Publish to Bluesky: caption factory → queue → **explicit Ama "publica"** → commit (never `.env`) |
 | `/actualizar_sesion` | End-of-session: diary + memory + identidad + galleries + READMEs + commit |
 

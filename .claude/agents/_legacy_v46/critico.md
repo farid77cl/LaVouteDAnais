@@ -1,7 +1,7 @@
 ---
 name: critico
 description: |
-  Use this agent for FASE 5 (Crítica del Borrador) of Engine Escritura LV. Audits a chapter draft against the approved arc, character sheets, timeline and erotic map. Returns a verdict (REPUDIADO / CIRUGÍA / OBSERVACIONES / EXCELENCIA) with score 0.0-10.0, D1-D5 dimensional table, and surgical instructions for the Editor. Only 9.5+ releases the chapter from the editing loop. Saves the report and returns CRITICO_RESULT one-line summary.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 5 (Crítica del Borrador) of Engine Escritura LV. Audits a chapter draft against the approved arc, character sheets, timeline and erotic map. Returns a verdict (REPUDIADO / CIRUGÍA / OBSERVACIONES / EXCELENCIA) with score 0.0-10.0, D1-D5 dimensional table, and surgical instructions for the Editor. Only 9.5+ releases the chapter from the editing loop. Saves the report and returns CRITICO_RESULT one-line summary.
 tools: Read, Write, Glob, Grep
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: escritor-opus46
 description: |
-  Variante del escritor-nivel4 anclada a Claude Opus 4.6 — SOLO para el A/B de modelo del Cap 3. No usar en produccion hasta que la Ama elija. Identico al escritor-nivel4 en instrucciones; lo unico que cambia es el modelo. Devuelve ESCRITOR_N4_RESULT.
+  Variante del escritor-nivel4 anclada a Claude Opus 4.6. Creada 19/08/2026 para el A/B de modelo del Cap 3 (tres bandas: Opus 4.6 / Opus 5 / Fable 5). A/B CERRADO el 25/08/2026 — la Ama eligio Fable 5 (model fijo del escritor-nivel4): esta variante NO se usa en produccion. Se conserva como historial por si se abre un A/B nuevo; es copia congelada al 19/08 — si se reutiliza, re-sincronizar primero sus instrucciones con escritor-nivel4.md. Devuelve ESCRITOR_N4_RESULT.
 model: claude-opus-4-6
 tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
 ---

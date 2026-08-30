@@ -220,7 +220,7 @@ Lo que el sujeto valoraba se renombra como prestado/falso; lo que temía, como s
 
 ## 8. CÓMO SE TEJE TODO JUNTO
 
-No son módulos que se apilan — es **una cadena causal** (guía escritura-voûte §0c-2): la orden abre el trance → el trance afloja la mente → la mente floja deja responder al cuerpo → la respuesta entrega al sujeto. Cada técnica **causa** la siguiente:
+No son módulos que se apilan — es **una cadena causal** (concepto §0c-2, archivado en `.agent/skills/_legacy/escritura-voute/SKILL.md`): la orden abre el trance → el trance afloja la mente → la mente floja deja responder al cuerpo → la respuesta entrega al sujeto. Cada técnica **causa** la siguiente:
 
 ```
 Fijación (ojos) → Acompasar la respiración real (pacing) → yes-set → primer comando incrustado

@@ -2,7 +2,8 @@
 
 > **Fase de Investigación Previa (v4.8 / Nivel 4)**
 > **Pregunta Rectoral:** ¿Por qué excita y aterroriza a la vez el miedo de desear a otro hombre (a tu mejor amigo), y cómo el condicionamiento subliminal rompe ese tabú convirtiendo el pánico en rendición sensual y servicio doméstico?
-> **Uso:** Alimenta al `escritor-nivel4` y al motor `escritura-voûte`. NO es material para citar textualmente en la prosa — es la infraestructura psicológica.
+> **Uso:** Alimenta al `escritor-nivel4`. NO es material para citar textualmente en la prosa — es la infraestructura psicológica.
+> ⚠️ *Nota 30/08/2026: el motor `escritura-voûte` que este documento citaba fue archivado (consolidación "un solo skill de escritura"). El VADEMECUM sigue vigente, promovido a `01_Canon/Guias_Especializadas/`.*
 
 ---
 
@@ -10,7 +11,7 @@
 
 | Guía / Documento | Qué aporta a ESTE relato |
 |---|---|
-| `.agent/skills/escritura-voûte/resources/VADEMECUM_SENSORIAL.md` | **OBLIGATORIO.** § I (circuito de traición), § II (ropa/medias/tanga), § IV (rendición), § VI (hipnosis/trance), § IX (anti-patrones). |
+| `01_Canon/Guias_Especializadas/VADEMECUM_SENSORIAL.md` | **OBLIGATORIO.** § I (circuito de traición), § II (ropa/medias/tanga), § IV (rendición), § VI (hipnosis/trance), § IX (anti-patrones). |
 | `01_Canon/Guias_Especializadas/arquitectura_erotica_mtf_v1.md` | **MtF psicológico/conductual (sin magia corporal):** El cuerpo que responde desde adentro antes que la mente acepte; la traición de la libido. |
 | `01_Canon/Guias_Especializadas/arquitectura_erotica_hipnosis_v1.md` | **Eje Trance / Condicionamiento Subliminal:** La inducción invisible de la caja negra; reprogramación de anclas y deseos. |
 | `01_Canon/Guias_Especializadas/arquitectura_erotica_femdom_v1.md` | **Jerarquía y Poder sin Grito:** Rodrigo como polo de autoridad; el trono inmutable que no necesita forzar ni pedir. |

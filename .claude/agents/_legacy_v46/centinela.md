@@ -1,7 +1,7 @@
 ---
 name: centinela
 description: |
-  Use this agent for FASE 5.5 (Auditoría de Continuidad) of Engine Escritura LV. The most rigid QA agent — audits a chapter draft against the approved arco, linea_de_tiempo_maestra and personajes sheets. Verifies COMPROMISOS first (any missing → automatic RECHAZADO), then timeline coherence, arc integrity, character consistency, voice drift and erotic continuity. Cannot pass without ALL compromisos present. Saves report and returns CENTINELA_RESULT one-line summary.
+  ⛔ LEGACY v4.6 — NO invocar. Use this agent for FASE 5.5 (Auditoría de Continuidad) of Engine Escritura LV. The most rigid QA agent — audits a chapter draft against the approved arco, linea_de_tiempo_maestra and personajes sheets. Verifies COMPROMISOS first (any missing → automatic RECHAZADO), then timeline coherence, arc integrity, character consistency, voice drift and erotic continuity. Cannot pass without ALL compromisos present. Saves report and returns CENTINELA_RESULT one-line summary.
 tools: Read, Write, Glob, Grep
 ---
 
