@@ -179,12 +179,41 @@ def anclas_requeridas(pb, slot, prompt, con_opt_in, excluidas=()):
     return nombres
 
 
+def resincronizar(pb, prompt):
+    """Sube al texto del dueño las anclas que el prompt ya lleva en una redacción
+    ANTERIOR. Devuelve (prompt_nuevo, [anclas_resincronizadas]).
+
+    Nació el 30/08/2026 con el refuerzo de anclas (Ama: "mientras más detalles
+    menos se deja al azar"): cinco anclas ganaron una cola afirmativa con peso
+    y conservaron sus primeros 45 chars, así que `inyectar()` las ve como
+    presentes y NO las tocaría. El dueño (`anclas_universales.json`) declara
+    en `texto_previo` la redacción vieja; aquí se reemplaza por la vigente.
+    Idempotente: si el texto vigente ya está, no se toca (evita duplicar la
+    cola, porque el previo es prefijo estricto del nuevo)."""
+    nuevo, hechas = prompt, []
+    for n, anc in pb.anclas.items():
+        previos = anc.get("texto_previo") or []
+        if isinstance(previos, str):
+            previos = [previos]
+        # Puede haber MAS de una redaccion vieja (30/08: 375 poses de Ele
+        # llevaban la version 'cut and print' de la era animal-print, anterior
+        # a la de 'cut, colour and finish'). Se suben todas al texto vigente.
+        for previo in previos:
+            if anc["texto"] in nuevo or previo not in nuevo:
+                continue
+            nuevo = nuevo.replace(previo, anc["texto"])
+            hechas.append(n)
+            break
+    return nuevo, hechas
+
+
 def inyectar(pb, prompt, slot, con_opt_in, excluidas=()):
-    """Devuelve (prompt_nuevo, [anclas_agregadas]). Idempotente."""
+    """Devuelve (prompt_nuevo, [anclas_agregadas_o_resincronizadas]). Idempotente."""
+    prompt, resync = resincronizar(pb, prompt)
     requeridas = anclas_requeridas(pb, slot, prompt, con_opt_in, excluidas)
     faltan = [n for n in requeridas if pb.anclas[n]["texto"][:45] not in prompt]
     if not faltan:
-        return prompt, []
+        return prompt, [r + "↻" for r in resync]
 
     eco = pb.anclas["FOOTWEAR_ECHO"]["texto"]
     eco_falta = "FOOTWEAR_ECHO" in faltan
@@ -201,7 +230,7 @@ def inyectar(pb, prompt, slot, con_opt_in, excluidas=()):
             nuevo = nuevo.rstrip().rstrip(".").rstrip(" ,") + ", " + texto + "."
     if eco_falta:
         nuevo = nuevo.rstrip().rstrip(".").rstrip(" ,") + ", " + eco + "."
-    return nuevo, faltan
+    return nuevo, [r + "↻" for r in resync] + faltan
 
 
 def main():

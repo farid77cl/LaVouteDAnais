@@ -1,7 +1,7 @@
 {
   "_dueno_unico": "Este archivo es el DUEÑO ÚNICO del texto literal de las anclas anti-defecto del outfit-engine. La doctrina (cuándo aplica cada una) vive en .agent/skills/outfit-engine/SKILL.md §Ensamblado; el texto operativo vive AQUÍ y nadie más lo copia. prompt_builder.py lo carga, el linter lo verifica.",
-  "version": "2.4",
-  "fecha": "2026-08-14",
+  "version": "2.5",
+  "fecha": "2026-08-30",
   "idioma": "en",
   "anclas": {
     "SINGLE_FRAME": {
@@ -9,8 +9,12 @@
       "texto": "a single continuous photograph: one woman alone in one single full-bleed frame that fills the entire image edge to edge, one scene and one moment, NOT a collage, NOT a grid or multi-panel layout, NOT a contact sheet, storyboard, photo strip or split screen, with no internal borders, dividers or picture-in-picture insets, and nothing inside the scene — no mirror, screen, poster, framed picture or light box — showing her image a second time"
     },
     "GARMENT_CONSISTENCY": {
-      "porque": "Token de vestuario bloqueado: copiar el BLOQUE B idéntico en las N poses no basta, el generador igual re-estiliza escote, manga y ruedo entre tomas.",
-      "texto": "the outfit is exactly ONE garment ensemble rendered precisely as described: its neckline shape, sleeve length, hemline length, cut, colour and finish follow the description word for word, never re-styled, never lengthened or shortened, never split into a two-piece or cropped version"
+      "porque": "Token de vestuario bloqueado: copiar el BLOQUE B idéntico en las N poses no basta, el generador igual re-estiliza escote, manga y ruedo entre tomas. REFORZADA 30/08/2026 (Ama: 'mientras más detalles menos se deja al azar'): fallo estando presente — cola afirmativa con peso :1.4; el prefijo de 45 chars no cambia, `texto_previo` permite resincronizar galerías. Segunda redacción previa registrada 30/08 ('cut and print', era animal-print): 375 poses del riesgo vivo la llevaban y el primer resync no las alcanzó.",
+      "texto": "the outfit is exactly ONE garment ensemble rendered precisely as described: its neckline shape, sleeve length, hemline length, cut, colour and finish follow the description word for word, never re-styled, never lengthened or shortened, never split into a two-piece or cropped version, (neckline, sleeve length and hem length in THIS frame exactly as written, nothing removed or shortened:1.4)",
+      "texto_previo": [
+        "the outfit is exactly ONE garment ensemble rendered precisely as described: its neckline shape, sleeve length, hemline length, cut, colour and finish follow the description word for word, never re-styled, never lengthened or shortened, never split into a two-piece or cropped version",
+        "the outfit is exactly ONE garment ensemble rendered precisely as described: its neckline shape, sleeve length, hemline length, cut and print follow the description word for word, never re-styled, never lengthened or shortened, never split into a two-piece or cropped version"
+      ]
     },
     "ANATOMY_FULL": {
       "porque": "Tercera pierna / manos deformes en cuerpo entero. Vetarlo solo en el negative no funciona.",
@@ -29,12 +33,14 @@
       "texto": "seen genuinely from behind, the back of the body and the back of the garment toward the lens, any front-opening piece still worn the right way round with its opening, lacing or fastening at the FRONT of the body and therefore hidden from this angle, never rotated so that the front of the garment faces the camera"
     },
     "SEAM_FRONT": {
-      "porque": "OPT-IN POSE-AWARE (slots de frente). `back-seam stockings` es RELATIVO A LA CÁMARA: en una pose de frente el generador pinta la raya en la cara visible — la canilla — para poder mostrarla, y la costura sale por delante (confirmado en L691, L748, L752; auto-memoria feedback_media_raya_frontal). Esta variante fuerza el frente liso. El Side Profile NO la lleva: de perfil la raya trasera cae en el borde posterior, que es lo correcto. Vivía solo en pose_rotation_v5.py.",
-      "texto": "the stockings have ONE single seam and it runs strictly up the centre-BACK of each leg, hidden behind the calf and thigh and NOT visible from the front; the front of each leg is completely smooth and seamless, with no seam, line, stripe or stitching down the shin, the knee or the front of the thigh"
+      "porque": "OPT-IN POSE-AWARE (slots de frente). `back-seam stockings` es RELATIVO A LA CÁMARA: en una pose de frente el generador pinta la raya en la cara visible — la canilla — para poder mostrarla, y la costura sale por delante (confirmado en L691, L748, L752; auto-memoria feedback_media_raya_frontal). Esta variante fuerza el frente liso. El Side Profile NO la lleva: de perfil la raya trasera cae en el borde posterior, que es lo correcto. Vivía solo en pose_rotation_v5.py. REFORZADA 30/08/2026 (Ama: 'mientras más detalles menos se deja al azar'): fallo estando presente — cola afirmativa con peso :1.4; el prefijo de 45 chars no cambia, `texto_previo` permite resincronizar galerías.",
+      "texto": "the stockings have ONE single seam and it runs strictly up the centre-BACK of each leg, hidden behind the calf and thigh and NOT visible from the front; the front of each leg is completely smooth and seamless, with no seam, line, stripe or stitching down the shin, the knee or the front of the thigh, (the front of both legs perfectly smooth bare nylon, zero seam or line:1.4)",
+      "texto_previo": "the stockings have ONE single seam and it runs strictly up the centre-BACK of each leg, hidden behind the calf and thigh and NOT visible from the front; the front of each leg is completely smooth and seamless, with no seam, line, stripe or stitching down the shin, the knee or the front of the thigh"
     },
     "SEAM_BACK": {
-      "porque": "OPT-IN POSE-AWARE (solo back_view). La contraparte de SEAM_FRONT: vista desde atrás la costura SÍ debe verse, subiendo recta por el centro de la pantorrilla. Sin esta variante el ancla de frente contradiría la toma.",
-      "texto": "the single back-seam of each stocking clearly visible running straight up the centre-back of the calf and thigh, and no seam anywhere on the front of the leg"
+      "porque": "OPT-IN POSE-AWARE (solo back_view). La contraparte de SEAM_FRONT: vista desde atrás la costura SÍ debe verse, subiendo recta por el centro de la pantorrilla. Sin esta variante el ancla de frente contradiría la toma. REFORZADA 30/08/2026 (Ama: 'mientras más detalles menos se deja al azar'): fallo estando presente — cola afirmativa con peso :1.4; el prefijo de 45 chars no cambia, `texto_previo` permite resincronizar galerías.",
+      "texto": "the single back-seam of each stocking clearly visible running straight up the centre-back of the calf and thigh, and no seam anywhere on the front of the leg, (one single dark seam centred on the BACK of each leg:1.4)",
+      "texto_previo": "the single back-seam of each stocking clearly visible running straight up the centre-back of the calf and thigh, and no seam anywhere on the front of the leg"
     },
     "OPAQUE_LOCK": {
       "porque": "OPT-IN. Sin el, Gemini le abre un keyhole o un cut-out a la prenda cubierta para dejar ver el ombligo y las runas de la cadera — cumple el ADN a costa de romper el vestuario (auto-memoria feedback_cortes_ropa_runas_ombligo). Lo dispara el vocabulario de arquetipo cubierto, cuyo dueño es garment_canon.COVERED_ARCHETYPES. Vivía solo en pose_rotation_v5.py, el motor viejo de Ele: los 130 looks de Miss Doll y Anaïs se construyeron sin él (medido 29/08/2026).",
@@ -87,9 +93,10 @@
       "texto": "horizontal landscape orientation, a wide frame, aspect ratio 16:9, the reclining figure spanning the width of the frame"
     },
     "BOTTOM_CUT_LOCK": {
-      "porque": "Directiva de la Ama 13/08/2026, sobre evidencia fotográfica: el Back View del Look 801 de Ele salió con un CALZÓN DE TALLE ALTO que le cubre el asiento entero. Su BLOQUE B decía `matching white wet-satin micro bikini bottoms` — nombra la prenda y el material, pero NUNCA el CORTE. Mismo modo de falla que ASYMMETRY_LOCK: el atributo que no se nombra lo resuelve el generador, y su default (reforzado por el sesgo pudoroso del modelo) es cobertura total. GARMENT_CONSISTENCY nombra escote, manga, ruedo, corte y color de la prenda como conjunto, pero no la cobertura del calzón. El negative solo no basta: Gemini lo ignora, así que el ancla va AFIRMATIVA en el positive. Es inerte en looks sin calzón separado (catsuit, vestido, mono).",
+      "porque": "Directiva de la Ama 13/08/2026, sobre evidencia fotográfica: el Back View del Look 801 de Ele salió con un CALZÓN DE TALLE ALTO que le cubre el asiento entero. Su BLOQUE B decía `matching white wet-satin micro bikini bottoms` — nombra la prenda y el material, pero NUNCA el CORTE. Mismo modo de falla que ASYMMETRY_LOCK: el atributo que no se nombra lo resuelve el generador, y su default (reforzado por el sesgo pudoroso del modelo) es cobertura total. GARMENT_CONSISTENCY nombra escote, manga, ruedo, corte y color de la prenda como conjunto, pero no la cobertura del calzón. El negative solo no basta: Gemini lo ignora, así que el ancla va AFIRMATIVA en el positive. Es inerte en looks sin calzón separado (catsuit, vestido, mono). REFORZADA 30/08/2026 (Ama: 'mientras más detalles menos se deja al azar'): fallo estando presente — cola afirmativa con peso :1.4; el prefijo de 45 chars no cambia, `texto_previo` permite resincronizar galerías.",
       "aplica_a": "Ele y Miss Doll (vía `anclas_siempre` de su perfil). NO aplica a Anaïs: su canon Vintage Noir / Bettie Page usa calzón retro de talle alto como pieza legítima de época.",
-      "texto": "any bottom garment she wears — knickers, bikini bottom, or the seat of a bodysuit, teddy, leotard or swimsuit — is cut as a thong or g-string: a narrow tapered front panel, a thin waistband sitting high on the hip bones, and at the back a single slim strip following the centre line so the curve of the hips and the seat is left uncovered; it is never a full-seat brief, never a high-waisted or boyshort cut, never a hipster, culotte, tap pant or full-coverage bikini bottom, and the back panel is never widened to cover the seat"
+      "texto": "any bottom garment she wears — knickers, bikini bottom, or the seat of a bodysuit, teddy, leotard or swimsuit — is cut as a thong or g-string: a narrow tapered front panel, a thin waistband sitting high on the hip bones, and at the back a single slim strip following the centre line so the curve of the hips and the seat is left uncovered; it is never a full-seat brief, never a high-waisted or boyshort cut, never a hipster, culotte, tap pant or full-coverage bikini bottom, and the back panel is never widened to cover the seat, (thong back: a single thin strip, both seat cheeks fully bare:1.4)",
+      "texto_previo": "any bottom garment she wears — knickers, bikini bottom, or the seat of a bodysuit, teddy, leotard or swimsuit — is cut as a thong or g-string: a narrow tapered front panel, a thin waistband sitting high on the hip bones, and at the back a single slim strip following the centre line so the curve of the hips and the seat is left uncovered; it is never a full-seat brief, never a high-waisted or boyshort cut, never a hipster, culotte, tap pant or full-coverage bikini bottom, and the back panel is never widened to cover the seat"
     },
     "GARMENT_EXCLUSION_LOCK": {
       "porque": "Medido el 12/08/2026: el Back View del Look 04 de Miss Doll rindió el corsé oxblood del Look 03 aunque su propio prompt decía `no corset` y su negative prohibía `corset, waist cincher, bustier` por nombre. Una prenda nombrada como AUSENTE en medio del BLOQUE B se lee como parte del vocabulario del outfit, no como una exclusión.",
@@ -102,8 +109,9 @@
       "texto": "wearing a dress, skirt or robe her legs stay closed: knees and thighs held together, or one leg crossed over the other, or both legs folded to one side when she is low — never spread, never opened apart and never parted at the knee, with the hem falling closed over the lap so the line of the skirt stays unbroken"
     },
     "SEAT_ANCHOR": {
-      "porque": "La figura sentada termina apoyada en una isla/mesa cercana en vez de cargar el peso en el asiento nombrado.",
-      "texto": "the body's full weight supported entirely by the seat itself, both hips and thighs resting directly on it, NOT leaning against, perched on or propped against any nearby table, desk, counter, island or other surface"
+      "porque": "La figura sentada termina apoyada en una isla/mesa cercana en vez de cargar el peso en el asiento nombrado. REFORZADA 30/08/2026 (Ama: 'mientras más detalles menos se deja al azar'): fallo estando presente — cola afirmativa con peso :1.4; el prefijo de 45 chars no cambia, `texto_previo` permite resincronizar galerías.",
+      "texto": "the body's full weight supported entirely by the seat itself, both hips and thighs resting directly on it, NOT leaning against, perched on or propped against any nearby table, desk, counter, island or other surface, (genuinely sitting down, buttocks resting on the seat, never standing up:1.4)",
+      "texto_previo": "the body's full weight supported entirely by the seat itself, both hips and thighs resting directly on it, NOT leaning against, perched on or propped against any nearby table, desk, counter, island or other surface"
     },
     "RECLINE_ANCHOR": {
       "porque": "La odalisca reclinada sale sentada o encaramada en el borde.",
@@ -155,6 +163,10 @@
       "texto": "her knickers cut high at the waist in true period style but with the leg openings cut sharply upward to the crest of the hip bone, the whole length of hip and thigh left bare, never a full-coverage brief, never a boyshort, culotte or low-leg cut that covers the hip or the top of the thigh",
       "motivo": "Ama 14/08/2026. Correccion de mi propio diagnostico del 13/08: eximi a Anais de BOTTOM_CUT_LOCK argumentando que su calzon retro de talle alto era Bettie Page legitimo — y nombre el TALLE sin nombrar nunca la PIERNA. Bettie Page usa talle alto CON la pierna cortada a la cadera; eso es lo que lo hace sensual. El atributo que no se nombra lo resuelve el generador con cobertura total (mismo modo de falla que el Look 801).",
       "fecha": "2026-08-14"
+    },
+    "FABRIC_PRISTINE": {
+      "porque": "NUEVA 30/08/2026. El Back View del L813 rindió rayas de tatuaje sobre la chaqueta chartreuse con las 3 cláusulas del ADN presentes ('shown only on bare uncovered skin', 'stay concealed beneath the fabric', 'never through or over any garment'). Todas describen los TATUAJES; ninguna describía LA TELA. Esta la describe, afirmativa y con peso.",
+      "texto": "every fabric surface is pristine and unprinted: no tattoo, rune, glyph, line, scribble or drawing appears on any garment, (all garment surfaces clean, solid-coloured and unmarked:1.4)"
     }
   },
   "negative_universal": {
@@ -169,23 +181,78 @@
     "_regex_ausencias": "\\bno\\s+(corset|corsets|stockings|bra|bralette|jewelry|jewellery|gloves|skirt|dress|harness|bikini)\\b",
     "_nota_ausencias": "Se borran del BLOQUE B ANTES de clasificar. Un 'no corset' declarado como ausencia hacia que el look se clasificara como corseteria — la misma frase que GARMENT_EXCLUSION_LOCK existe para neutralizar en el generador.",
     "orden": [
-      { "codigo": "M10", "nombre": "Slip dress / vestido de malla sobre lenceria", "cobertura": "cubierta", "regex": "slip dress|sheer[^.]{0,30}\\bdress\\b|mesh[^.]{0,25}\\bdress\\b" },
-      { "codigo": "M6", "nombre": "Vestido de segunda piel", "cobertura": "cubierta", "regex": "\\bdress\\b|\\bgown\\b" },
-      { "codigo": "M7", "nombre": "Minifalda + top", "cobertura": "cubierta", "regex": "\\bskirt\\b" },
-      { "codigo": "M8", "nombre": "Pantalon / legging + top", "cobertura": "cubierta", "regex": "\\bleggings?\\b|\\btrousers\\b|\\bpants\\b|bike shorts|hot pants" },
-      { "codigo": "M9", "nombre": "Catsuit / unitard de pierna completa", "cobertura": "cubierta", "regex": "\\bcatsuit\\b|\\bunitard\\b|\\bjumpsuit\\b",
+      {
+        "codigo": "M10",
+        "nombre": "Slip dress / vestido de malla sobre lenceria",
+        "cobertura": "cubierta",
+        "regex": "slip dress|sheer[^.]{0,30}\\bdress\\b|mesh[^.]{0,25}\\bdress\\b"
+      },
+      {
+        "codigo": "M6",
+        "nombre": "Vestido de segunda piel",
+        "cobertura": "cubierta",
+        "regex": "\\bdress\\b|\\bgown\\b"
+      },
+      {
+        "codigo": "M7",
+        "nombre": "Minifalda + top",
+        "cobertura": "cubierta",
+        "regex": "\\bskirt\\b"
+      },
+      {
+        "codigo": "M8",
+        "nombre": "Pantalon / legging + top",
+        "cobertura": "cubierta",
+        "regex": "\\bleggings?\\b|\\btrousers\\b|\\bpants\\b|bike shorts|hot pants"
+      },
+      {
+        "codigo": "M9",
+        "nombre": "Catsuit / unitard de pierna completa",
+        "cobertura": "cubierta",
+        "regex": "\\bcatsuit\\b|\\bunitard\\b|\\bjumpsuit\\b",
         "requiere_para_cubierta": "full-length|full length|ankle-length|to the ankle|down to the ankles?|legs fully covered",
-        "si_falta": "El BLOQUE B nombra catsuit/unitard sin declarar el LARGO DE PIERNA -> no paga la cuota de silueta cubierta. Mismo modo de falla que BOTTOM_CUT_LOCK: el atributo que no se nombra lo resuelve el generador, y su default aqui es cortar en la cadera y devolver otro bodysuit." },
-      { "codigo": "M4", "nombre": "Corseteria + tanga", "cobertura": "piel", "regex": "\\bcorset\\b|\\bbustier\\b|waist cincher" },
-      { "codigo": "M1", "nombre": "Bodysuit segunda piel", "cobertura": "piel", "regex": "\\bbodysuit\\b|\\bteddy\\b|\\bleotard\\b" },
-      { "codigo": "M2", "nombre": "Bikini / micro dos piezas", "cobertura": "piel", "regex": "\\bbikini\\b|\\bswimsuit\\b|triangle top" },
-      { "codigo": "M3", "nombre": "Conjunto de lenceria / dos piezas de piel", "cobertura": "piel",
+        "si_falta": "El BLOQUE B nombra catsuit/unitard sin declarar el LARGO DE PIERNA -> no paga la cuota de silueta cubierta. Mismo modo de falla que BOTTOM_CUT_LOCK: el atributo que no se nombra lo resuelve el generador, y su default aqui es cortar en la cadera y devolver otro bodysuit."
+      },
+      {
+        "codigo": "M4",
+        "nombre": "Corseteria + tanga",
+        "cobertura": "piel",
+        "regex": "\\bcorset\\b|\\bbustier\\b|waist cincher"
+      },
+      {
+        "codigo": "M1",
+        "nombre": "Bodysuit segunda piel",
+        "cobertura": "piel",
+        "regex": "\\bbodysuit\\b|\\bteddy\\b|\\bleotard\\b"
+      },
+      {
+        "codigo": "M2",
+        "nombre": "Bikini / micro dos piezas",
+        "cobertura": "piel",
+        "regex": "\\bbikini\\b|\\bswimsuit\\b|triangle top"
+      },
+      {
+        "codigo": "M3",
+        "nombre": "Conjunto de lenceria / dos piezas de piel",
+        "cobertura": "piel",
         "regex": "\\bbralette\\b|\\bbra\\b|lingerie set|demi-cup|balconette|halter top|crop top|micro top|\\bthong\\b",
-        "_nota": "Va ULTIMA de las de piel a proposito, salvo M5: es el cajon de las dos piezas. El Look 01 ('micro halter top' + 'micro thong', sin la palabra bra en ninguna parte) quedaba sin clasificar con el regex original — por eso entran aqui 'halter/crop/micro top' y 'thong' como red de seguridad. Corseteria (M4), bodysuit (M1) y bikini (M2) se evaluan antes, asi que un corse con tanga sigue siendo M4." },
-      { "codigo": "M5", "nombre": "Arnes / fashion-bondage sobre piel", "cobertura": "piel", "regex": "\\bharness\\b" }
+        "_nota": "Va ULTIMA de las de piel a proposito, salvo M5: es el cajon de las dos piezas. El Look 01 ('micro halter top' + 'micro thong', sin la palabra bra en ninguna parte) quedaba sin clasificar con el regex original — por eso entran aqui 'halter/crop/micro top' y 'thong' como red de seguridad. Corseteria (M4), bodysuit (M1) y bikini (M2) se evaluan antes, asi que un corse con tanga sigue siendo M4."
+      },
+      {
+        "codigo": "M5",
+        "nombre": "Arnes / fashion-bondage sobre piel",
+        "cobertura": "piel",
+        "regex": "\\bharness\\b"
+      }
     ],
     "no_cuentan_como_cubierta": {
-      "piezas": ["robe", "kimono", "cape", "coat", "jacket"],
+      "piezas": [
+        "robe",
+        "kimono",
+        "cape",
+        "coat",
+        "jacket"
+      ],
       "porque": "La bata abierta y la capa ENMARCAN, no cubren. Medido en el L22 (bralette + capa de vinilo) y el L25 (lenceria + bata de chiffon): los dos se leen como lenceria. Ademas §5.1b del perfil de Miss Doll ordena que la bata sea SIEMPRE abierta y desde el 17/08/2026 semitransparente — o sea esta escrita para no cubrir. Se cuenta lo que hay DEBAJO."
     }
   },
@@ -214,14 +281,14 @@
     "ACCESSORY_COUNT_LOCK": "el BLOQUE B nombra una cantidad exacta de accesorio: a single cuff / one glove / a single earring / an anklet",
     "GARMENT_EXCLUSION_LOCK": "el BLOQUE B declara una ausencia: no corset · no stockings · no jewelry · bare legs · no gloves",
     "DRESS_LEG_CLOSURE": "el BLOQUE B nombra prenda de falda: dress · gown · skirt · robe · kimono · túnica (Ama 13/08/2026, transversal a las tres muñecas)",
-  "SEAM_FRONT": "el BLOQUE B nombra medias CON COSTURA (back-seam · seamed stocking · seamed nylon). Solo en los slots de frente; el Side Profile queda fuera a propósito",
-  "SEAM_BACK": "misma condición que SEAM_FRONT, solo en back_view: desde atrás la costura sí se muestra",
-  "OPAQUE_LOCK": "el BLOQUE B nombra arquetipo/prenda cubierta (garment_canon.COVERED_ARCHETYPES: gown · bodycon · blazer · corset · corselette · catsuit · bustier · crop top · maid · domme...)",
-  "GLOSS_LOCK": "el BLOQUE B nombra silueta propensa a tela mate (garment_canon.MATTE_PRONE: blazer · suit · pencil skirt · ribbed · sports bra · leggings · hoodie · tracksuit...)",
-  "HOSIERY_LOCK": "el BLOQUE B nombra medias (stocking · fishnet · nylon · hosiery · pantyhose · hold-up · bodystocking)",
-  "ANIMAL_PRINT_LOCK": "el BLOQUE B nombra estampado animal (python · snake · leopard · tiger · zebra). El {kind} lo resuelve build() con la especie detectada",
-  "WRAP_BACK_ROBE": "el BLOQUE B nombra prenda envolvente de frente abierto: robe · kimono · peignoir · bata · wrap dress. SOLO se aplica al slot back_view (Ama 29/08/2026)",
-  "WRAP_BACK_TAILORED": "el BLOQUE B nombra chaqueta estructurada de frente abierto: blazer · coat · trench · tuxedo · coat-dress · bolero. SOLO se aplica al slot back_view (Ama 02/08/2026, subida al motor genérico 29/08/2026)"
+    "SEAM_FRONT": "el BLOQUE B nombra medias CON COSTURA (back-seam · seamed stocking · seamed nylon). Solo en los slots de frente; el Side Profile queda fuera a propósito",
+    "SEAM_BACK": "misma condición que SEAM_FRONT, solo en back_view: desde atrás la costura sí se muestra",
+    "OPAQUE_LOCK": "el BLOQUE B nombra arquetipo/prenda cubierta (garment_canon.COVERED_ARCHETYPES: gown · bodycon · blazer · corset · corselette · catsuit · bustier · crop top · maid · domme...)",
+    "GLOSS_LOCK": "el BLOQUE B nombra silueta propensa a tela mate (garment_canon.MATTE_PRONE: blazer · suit · pencil skirt · ribbed · sports bra · leggings · hoodie · tracksuit...)",
+    "HOSIERY_LOCK": "el BLOQUE B nombra medias (stocking · fishnet · nylon · hosiery · pantyhose · hold-up · bodystocking)",
+    "ANIMAL_PRINT_LOCK": "el BLOQUE B nombra estampado animal (python · snake · leopard · tiger · zebra). El {kind} lo resuelve build() con la especie detectada",
+    "WRAP_BACK_ROBE": "el BLOQUE B nombra prenda envolvente de frente abierto: robe · kimono · peignoir · bata · wrap dress. SOLO se aplica al slot back_view (Ama 29/08/2026)",
+    "WRAP_BACK_TAILORED": "el BLOQUE B nombra chaqueta estructurada de frente abierto: blazer · coat · trench · tuxedo · coat-dress · bolero. SOLO se aplica al slot back_view (Ama 02/08/2026, subida al motor genérico 29/08/2026)"
   },
   "anclas_siempre": {
     "_nota": "Anclas que un personaje lleva en TODOS sus slots, además de `mapa_por_defecto._todos` (13/08/2026). Existe porque hay prohibiciones de canon que son de un personaje y no del repo: meterlas en `_todos` se las impondría a los tres, y repetirlas en los 7 `overrides` sería copia. `prompt_builder.anclas_de_slot()` las concatena después de `_todos`; el linter las exige igual que a las demás. Se declaran en `personajes.<slug>.anclas_siempre`."
@@ -230,7 +297,8 @@
     "_todos": [
       "SINGLE_FRAME",
       "GARMENT_CONSISTENCY",
-      "PHOTOREAL_LOCK"
+      "PHOTOREAL_LOCK",
+      "FABRIC_PRISTINE"
     ],
     "standing": [
       "ANATOMY_FULL",
@@ -381,7 +449,10 @@
         "_porque": "Ama 18/08/2026, sobre el batch L21-L25: 'si, quiero variedad, me gusta el bikini y body suit, pero quiero ver variedad de outfits'. No se saca ninguna arquitectura del repertorio: se ordenan. Dueño narrado: perfil §5.6 + §7 + §8.",
         "ventana_global": 3,
         "_ventana_porque": "GLOBAL, no por arquetipo. Las ventanas de silueta y setting del perfil §7 estan alcanzadas por arquetipo y por eso no se dispararon nunca: con 8 arquetipos rotando, dos looks vecinos casi nunca comparten arquetipo. Esta se mide contra los 3 looks anteriores del roster completo. Obliga a rotar TAMBIEN dentro de la familia de piel (tres bodysuits en cuatro looks viola igual que tres vestidos).",
-        "cuota_cubierta": { "cada": 4, "minimo": 1 },
+        "cuota_cubierta": {
+          "cada": 4,
+          "minimo": 1
+        },
         "_cuota_porque": "25%, elegido por la Ama el 18/08/2026. Cubierta = M6-M10. La bata abierta y la capa NO la pagan (ver arquitecturas_de_prenda.no_cuentan_como_cubierta).",
         "desde_look": 26,
         "_desde_look_porque": "El roster L01-L25 NO se retrofitea — convencion retrofit-al-tocar del repo, la misma que se aplico con la bata semitransparente y con las anclas del 17/08. Bajo el L26 el chequeo reporta AVISO (deja ver la deriva historica sin condenar looks ya materializados); desde el L26 es CRITICO y bloquea el commit del batch."
@@ -406,14 +477,38 @@
       ],
       "prefijos_arquetipo": {
         "_dueno_unico": ".agent/skills/anais-outfit-engine/references/dna_v2_3.md#Prefijos-Cinematograficos-por-Arquetipo — esto es una copia maquina-legible de esa tabla, para que el linter pueda verificarla. Si se edita un lado, editar el otro.",
-        "Noche / La Voûte": { "prefijo": "8k ultra cinematic film noir portrait", "luz": "single dramatic spotlight from above" },
-        "Boudoir / Lencería": { "prefijo": "8k ultra cinematic intimate boudoir portrait", "luz": "warm amber candlelight chiaroscuro" },
-        "Gala / Premiere": { "prefijo": "8k ultra cinematic glamour portrait", "luz": "Vogue Paris 1950s editorial" },
-        "Látex / Fetichismo": { "prefijo": "8k ultra cinematic dark power portrait", "luz": "high-gloss cinematic lighting" },
-        "Sesión Literaria": { "prefijo": "8k ultra cinematic intimate portrait", "luz": "warm amber dramatic lighting" },
-        "Animal Print / Autoridad": { "prefijo": "8k ultra cinematic predatory editorial portrait", "luz": "dramatic noir lighting" },
-        "Ejecutivo de Poder": { "prefijo": "8k ultra cinematic power portrait", "luz": "cool key light from above" },
-        "Viaje / Jet Set": { "prefijo": "8k ultra cinematic luxury lifestyle portrait", "luz": "warm golden afternoon light" }
+        "Noche / La Voûte": {
+          "prefijo": "8k ultra cinematic film noir portrait",
+          "luz": "single dramatic spotlight from above"
+        },
+        "Boudoir / Lencería": {
+          "prefijo": "8k ultra cinematic intimate boudoir portrait",
+          "luz": "warm amber candlelight chiaroscuro"
+        },
+        "Gala / Premiere": {
+          "prefijo": "8k ultra cinematic glamour portrait",
+          "luz": "Vogue Paris 1950s editorial"
+        },
+        "Látex / Fetichismo": {
+          "prefijo": "8k ultra cinematic dark power portrait",
+          "luz": "high-gloss cinematic lighting"
+        },
+        "Sesión Literaria": {
+          "prefijo": "8k ultra cinematic intimate portrait",
+          "luz": "warm amber dramatic lighting"
+        },
+        "Animal Print / Autoridad": {
+          "prefijo": "8k ultra cinematic predatory editorial portrait",
+          "luz": "dramatic noir lighting"
+        },
+        "Ejecutivo de Poder": {
+          "prefijo": "8k ultra cinematic power portrait",
+          "luz": "cool key light from above"
+        },
+        "Viaje / Jet Set": {
+          "prefijo": "8k ultra cinematic luxury lifestyle portrait",
+          "luz": "warm golden afternoon light"
+        }
       },
       "nota": "Su BLOQUE B suele llevar guantes de opera: el FOOTWEAR_ECHO aplica igual, pero el token de unas de mano se OMITE cuando los guantes cubren los dedos (perfil 5.4). **BOTTOM_CUT_LOCK sigue sin aplicarsele** (no lleva la tanga de Ele: la convertiria en otra muneca) **pero desde el 14/08/2026 lleva LEG_CUT_LOCK**, su corte propio: talle alto de epoca CON la pierna cortada al filo de la cadera. Deroga la exencion escrita el 13/08, que autorizaba por omision el calzon de cobertura total que la Ama rechazo. Ademas lleva SENSUAL_STATE y LIVED_IN_ROOM en todos sus prompts. **Si lleva DRESS_LEG_CLOSURE en la practica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda."
     }

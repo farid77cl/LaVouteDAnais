@@ -106,3 +106,20 @@ Self-check `Diferenciacion Ditzy/POV`: toda variante Ditzy mira fuera de cuadro;
 ## 10. SENTADA CON FALDA — PIERNAS CERRADAS (Directiva Ama 02/08/2026 — "sentada con falda no puede ser abierta de piernas")
 
 Las 6 variantes `SEATED` ya pedían piernas cruzadas/juntas, pero el generador **driftea a piernas abiertas** y con falda eso expone la entrepierna y rompe el canon editorial. **Fix:** parámetro `skirt=True` en `rotate_poses` → inyecta `SEATED_MODESTY` (*"rodillas y muslos apretados juntos, piernas cruzadas o juntas a un lado, nunca abiertas ni en M, ruedo de la falda cerrado sobre el regazo"*) **solo en el slot Seated**. **Todo inyector cuyo look lleve falda o vestido DEBE pasar `skirt=True`.** Self-check `Modestia Seated con falda`. (Con bikini/short no se pasa: ahí no aplica.)
+
+## 9. REFUERZO DE ANCLAS — "LA LOTERÍA" NO ES UNA EXPLICACIÓN (Ama 30/08/2026)
+
+> *"eso es lo que quiero evitar, mientras más detalles menos se deja al azar. si las anclas estaban y se generaron imágenes malas hay que reforzar el ancla de alguna manera"*
+
+Medido sobre el batch L813-L817: **las cuatro poses defectuosas tenían su ancla presente** (SEAT_ANCHOR en una Seated que salió de pie · BOTTOM_CUT_LOCK en un Back View con cobertura completa · GARMENT_CONSISTENCY en un POV sin mangas · SEAM_FRONT en un Standing con la costura adelante). Un ancla presente que falla es un ancla **débil**, y `SEAT_ANCHOR` caía al **83 %** de un prompt de 6.331 caracteres.
+
+**Mecánica del refuerzo (dueño: `anclas_universales.json` v2.5):**
+1. **Cola afirmativa con peso** `(…:1.4)` que describe el **resultado físico** ("buttocks resting on the seat", "both seat cheeks fully bare", "the front of both legs perfectly smooth") — nunca metalenguaje de toma (§ anti-collage).
+2. **El prefijo de 45 caracteres no se toca**: es el criterio de presencia del linter y del inyector. Se refuerza *apendiendo*.
+3. El dueño guarda la redacción anterior en **`texto_previo`**; `inyectar_anclas.py` gana `resincronizar()`, que sube al texto vigente las anclas que el prompt lleva en redacción vieja. Idempotente. Con `--solo-sin-imagen` llega solo al riesgo vivo; las poses defectuosas ya materializadas que se van a regenerar se refrescan una por una.
+4. **Ancla nueva universal `FABRIC_PRISTINE`**: el ADN tenía tres cláusulas sobre los *tatuajes* ("only on bare skin", "concealed beneath the fabric", "never through or over any garment") y ninguna sobre *la tela* — por eso el Back View del L813 salió con rayas sobre la chaqueta. Ahora la tela se describe: pristina, sin dibujo, con peso.
+
+Reforzadas el 30/08: SEAM_FRONT · SEAM_BACK · SEAT_ANCHOR · BOTTOM_CUT_LOCK · GARMENT_CONSISTENCY. Riesgo vivo resincronizado: Ele 725 poses · Miss Doll 42 · Anaïs 169. Auto-memoria: `feedback_reforzar_anclas_no_loteria`.
+
+> ⛔ **Miss Doll L68 (*"horrible outfit"*)** queda **vetado y conservado como contraejemplo** por orden de la Ama — no se rediseña, no se regenera, no sirve de precedente. Anotado en su galería.
+
