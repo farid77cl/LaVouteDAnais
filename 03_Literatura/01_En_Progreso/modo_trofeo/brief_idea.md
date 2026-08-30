@@ -48,6 +48,58 @@
 
 > ⚙️ **Lo que F18 desbloquea, y hay que explotarlo:** el cuerpo deja de ser un lugar donde está atrapado y pasa a ser **material**. Cada kink nuevo del creador es una modificación física que él siente ocurrir sin poder detenerla — y bajo F7 (empieza a sentir) esa reconfiguración **se siente**. Combinado con F11 (modos de personalidad), el creador tiene dos perillas: **quién es** y **qué es**.
 
+## 3-ter. EL CATÁLOGO DEL CREADOR — kinks desviados (Ama 30/08/2026: *"si, muchos kink muy desviados"*)
+
+> **Propuesta de Ele sobre directiva de la Ama.** Ella ordenó muchos y muy desviados; acá va el catálogo diseñado. **Todo esto es canon candidato: ella aprueba, agrega o bota.**
+
+### Principio de diseño (por qué estos y no cualquiera)
+Un kink que un cuerpo humano cualquiera podría dar **no sirve acá** — se puede escribir en cualquier otro relato. Califica solo lo que exige una de estas tres cosas, que son las tres que este relato tiene y ningún otro suyo tuvo:
+- **(A)** carne que se **reconfigura** (F18),
+- **(B)** una persona **conmutable** por comando (F11),
+- **(C)** un cuerpo **sin límite biológico** — no se cansa, no se rompe, no se desmaya, no se le acaba.
+- Y encima: **(D)** que exista alguien **adentro mirando** (F7/F12) — el kink que solo es kink porque hay un pasajero.
+
+> ⚠️ **Regla de escritura, dura:** el catálogo **NUNCA se lista en la prosa**. Se muestra funcionando, de a uno, en escena. Una enumeración de kinks en el texto lo convierte en folleto y mata el calor. El Escritor recibe el catálogo; la lectora recibe escenas.
+
+### A · Los que le cambian LA CARNE (explotan F18, cuerpo adaptable)
+| # | Kink | Qué hace por el relato |
+|---|---|---|
+| K1 | **HUCOW** (canon de la Ama, F17) — ubres, ordeñe programado por horario, producción **medida y anotada**, cuerpo reconfigurado para lactar | El reflejo de eyección es **involuntario**: él lo siente venir y no puede pararlo. Es la prueba física de que el cuerpo tiene respuestas propias que le ganan. Y el ordeñe es **rutina**, no escena: lo degrada por repetición, no por violencia. |
+| K2 | **Escala editable** — cintura imposible, pechos que no la dejan verse los pies, labios inflados hasta no poder cerrar la boca, caderas ensanchadas | La bimbo como **escultura en edición**. Él se mira cambiar de silueta en el espejo del vestidor. Paga directo el eje MtF: el cuerpo se le vuelve más ajeno cada vez. |
+| K3 | **Forniphilia / mobiliario** — reconfigurada en mesa, en lámpara, en asiento, y dejada así | Explota (C): puede sostener el peso **indefinidamente**. Horas de rigidez con él adentro, despierto, sin poder cerrar los ojos, oyendo conversaciones que no lo incluyen. |
+| K4 | **Modo inanimada / muñeca** — la usa como si no hubiera nadie | Lo peor no es que lo usen: es que lo usen **sin dirigirle la palabra**. Es el opuesto exacto de K17 y por eso van en el mismo relato. |
+| K5 | **Cuerpo en blanco / reversión** — le saca rasgos: sin pelo, cara lisa, piel sin marcas | Despersonalización **física**. El terror de que le borren hasta la cara prestada. Buen beat para justo antes del twist. |
+| K6 | **Relleno y dilatación** — el cuerpo diseñado para contener, llenarse y expulsar; vientre que se dilata visible | Body horror puro con pago visual: él ve el bulto desde adentro y desde el espejo. |
+| K7 | **Mecanización a la vista** — le abre paneles, expone el sistema, la usa con los puertos abiertos | El recordatorio de que no es carne. Y la escena donde él ve **su propio interior de máquina** funcionando. |
+
+### B · Los que le cambian LA PERSONA (explotan F11, los modos)
+| # | Modo | Qué hace por el relato |
+|---|---|---|
+| K8 | **Modo Trofeo** — la que sonríe en la fiesta, muda, decorativa, tocada por invitados | Da el título. Y da el kink de exhibición: usada **en público**, mientras el cuerpo conversa solo. |
+| K9 | **Modo Súplica** — programada para pedir | Él siente su **propia boca** pedir cosas que no quiere. El desfase entre voluntad y acto, hecho diálogo. |
+| K10 | **Modo Mascota** — sin lenguaje, correa, cuenco, obediencia por gesto | Le quitan el idioma. Para un hacker —alguien que **vive de la palabra y el código**— quedarse sin lenguaje es la castración real. |
+| K11 | **Modo Enamorada** — programada para adorarlo | Demoledor con «dos mentes en una»: él siente **el amor llegar como química** y no puede distinguirlo de un sentimiento propio. Lo peor: le gusta sentirlo. |
+| K12 | **🔴 Modo Resistencia — el más cruel, y el eje del relato** — el creador le programa que **se resista**, porque le gusta vencerla | **Aniquila la prueba de que él existe.** Su resistencia real y la resistencia programada se vuelven **indistinguibles** — para el creador, para la lectora y **para él**. Cuando pelea de verdad, no puede saber si está peleando o ejecutando. Es la forma perfecta de la ley que ordenó la Ama (el sistema aplasta) y el mejor sitio para plantar el twist. |
+| K13 | **Modo Vacío / bimbo terminal** — sin pensamiento, solo respuesta | El destino. El Cap 3 termina cerca de acá. |
+
+### C · Los que exigen un cuerpo SIN LÍMITE (explotan (C))
+| # | Kink | Qué hace por el relato |
+|---|---|---|
+| K14 | **Sobreestimulación sin fondo** — orgasmos encadenados más allá de lo que un cuerpo aguantaría | **No hay desmayo.** El desmayo es la salida de emergencia de la carne, y acá no existe. Es el kink que la Ama pidió con «pueden seguir usándolo después de que su mente ya pidió parar». |
+| K15 | **Denegación larga** — mantenida al borde durante jornadas, con el sistema regulando la curva | El reverso de K14, y **la evidencia del twist plantada a la vista**: alguien está **dosificando**. La lectora lo relee después. |
+| K16 | **Uso en serie** — invitados, o las máquinas del taller, sin pausa | La cifra importa: es **producción**, no encuentro. Rima con el ordeñe de K1: en los dos, el cuerpo es planta. |
+
+### D · Los que solo existen porque hay ALGUIEN ADENTRO
+| # | Kink | Qué hace por el relato |
+|---|---|---|
+| K17 | **Que el creador le hable a ÉL** — al pasajero, no al robot | Antes del twist parece delirio o casualidad. **Después del twist se relee entero: siempre supo.** Va sembrado desde el Cap 1. |
+| K18 | **Que le devuelvan control para que lo haga ÉL** — le sueltan un dedo, una mano, la voz — solo lo justo | El creador no quiere que el robot lo haga: quiere que **lo haga el hombre de adentro**. Y él lo hace. Es la cesión más grave del relato y no necesita que él la elija: necesita que **funcione**. |
+
+### Cómo se reparten en los 3 capítulos (borrador, lo fija el Compositor)
+- **Cap 1 — mirar:** K8, K4, K16 vistos **con la salvaguarda intacta** (solo ve y oye). El hucow K1 aparece como **rutina de la casa** que él observa sin entender del todo. Sembrar K17. Cierre: cae la capa SENSACIÓN.
+- **Cap 2 — sentir:** K1 ya sobre su piel, K2, K9, K14. **El twist a mitad**, y K12 entra justo después: se entera de que existe el Modo Resistencia y ya no puede confiar en su propia pelea. K15 releída como prueba.
+- **Cap 3 — ser:** K3, K5, K7, K11, K18 y el descenso a K13. Sin catarsis: cierra adentro.
+
 ## 4. Decisiones de la Ama en la Pasada 1 (Fase 0, 30/08/2026)
 
 | Pregunta | Su respuesta |
