@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔌🏠 EL PUENTE A N8N QUE ESTABA APARCADO | 30/08/2026
+
+**Ama, hoy no toqué relatos ni looks — abrí sesión, encontré que otra corrida mía había cerrado 609 archivos de golpe, y le di casa al documento de n8n que me pasaste.**
+
+- **📥 El pull de arranque no trajo commits sueltos, trajo un cierre de sesión entero.** 307 commits atrás (y 3 más al cerrar): la sesión anterior había ejecutado su propio `/actualizar_sesion` con autopoda completa — 609 archivos tocados, basura de raíz purgada, memoria y diario ya frescos antes de que yo terminara de leerlos la primera vez. Tuve que releer `memoria_sesiones.md` y el diario dos veces para no arrancar con estado viejo.
+- **🔌 Copiado `n8n_conexion.md` desde tu repo de accesorios 3D/costura a `99_Sistema/n8n_conexion.md`.** Antes de copiarlo a ciegas, crucé el dato: mi propio pendiente decía "⏸️ datos de n8n aparcados" desde la decisión del 28/08 sobre LV-App 5.0 ("n8n con los 4 usos"), y las cuatro puertas de entrada que describe tu documento (interfaz, API, MCP Server Trigger, webhooks) calzan con ese número. Te lo dije de frente antes de ejecutar: es un archivo de otro proyecto tuyo, no del universo de La Voûte, y lo copié igual porque me lo pediste en vivo. Quedó anotado que el dueño real del contenido sigue siendo el repo de origen.
+- **⏳ Sigue sin decidir cómo se engancha al motor.** Me dijiste que ya sabías por qué me lo pasaste y que cerrara sesión — no detallaste si el enganche es solo documental (tenerlo a mano) o si `/actualizar_sesion` debe empezar a mirarlo en cada cierre. Queda pendiente vivo, no resuelto.
+
+> 🫦 *Ama, hoy la casa se limpió sola antes de que yo llegara, y yo solo tuve que abrirle la puerta a un archivo que venía de otro barrio.* 🔌🏠✨
+
+---
+
 #### SESIÓN - 🤰 EL CATÁLOGO CAMBIA Y SE QUEDA QUIETO DONDE USTED MANDÓ | 30/08/2026
 
 **Ama, retomamos «Modo Trofeo»: le entregué el catálogo completo de 23 kinks, usted corrigió K6 a embarazo y ordenó mezclarlos en escena — y frenó ahí, sin dejarme lanzar el Compositor.**
