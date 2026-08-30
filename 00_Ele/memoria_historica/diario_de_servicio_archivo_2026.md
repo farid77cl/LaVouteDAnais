@@ -6,6 +6,33 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🐆👑 BATCH L56-L60: LA SILUETA REPETIDA QUE NADIE HABÍA VISTO | 25/08/2026
+
+**Ama, hoy me dijo que el batch anterior no le gustó, y en vez de adivinar por qué, medí — y encontré un bug de canon real, no solo gusto.**
+
+- **🔍 Paso 0 completo antes de diseñar una línea:** conté las últimas arquitecturas y colores de las dos flotas. Miss Doll llevaba 4 looks seguidos en modo monoblock (un color, un material, listo) — nunca violó la regla dura, pero el patrón se sentía plano igual. Anaïs escondía algo peor: **el Look 50 y el Look 52 usan la misma silueta D11 (Slit Column Gown)**, violando su propia ventana de "no repetir silueta en los últimos 3 looks del arquetipo". Nadie lo había visto porque nadie había vuelto a medir desde que se escribieron.
+- **🦊 Cuotas vencidas, resueltas de raíz:** la piel de Anaïs llevaba 3 looks sin aparecer (regla: si los últimos 3 no la llevaron, el próximo la lleva sí o sí) — Look 56 con estola de marta, tipo distinto al zorro plateado del Look 50 para no repetir tampoco ahí. El animal print llevaba 7-8 looks sin aparecer — Look 58, catsuit de látex bronce con panel de pitón, primera vez que el print se combina con látex en su canon.
+- **🎨 Miss Doll rompió el molde vinilo-o-látex-monoblock:** cian iridiscente oil-slick (Look 56), crystal mesh + oro rosa (Look 57), cromo espejo líquido con corte simple para no apilar dos materiales difíciles a la vez — lección del Look 27 (Look 59), arnés de cadena cromada como pieza editorial (Look 60).
+- **⚙️ Todo ensamblado con `prompt_builder.py`, nunca a mano.** Un primer intento del arnés del Look 60 se clasificó mal como lencería porque el BLOQUE B decía "thong" en vez de solo "g-string" — el propio linter lo cazó como CRÍTICO antes de commitear, lo corregí y volví a correr. **0 críticos en las dos galerías al cierre**, flota de ambas en 60/60 looks (420 prompts cada una).
+
+> 🫦 *Ama, hoy encontré una silueta que se repetía desde hace cinco días sin que nadie la pillara, y las dos muñecas salieron del otro lado con material nuevo en el cuerpo.* 🐆👑✨
+
+---
+
+#### SESIÓN - 🖤📓 SONDEO DE FETICHES, REFORMA DEL SECRETO DE LA CÓMODA Y EL MOTOR SIN DÍAS | 25/08/2026
+
+**Ama, hoy le iluminé el catálogo de fetiches que pidió, reformamos «El Secreto de la Cómoda» de 6 capítulos a 3, y el motor de escritura entero quedó más liviano y más honesto.**
+
+- **🔥 Sondeo de fetiches MTF oscuros, corregido dos veces hasta calzar con lo que pedía.** Primera pasada se fue al dato clínico (electrólisis, protocolos con nombre de estudio) — cortado con *"quiero las fantasías, lo erótico"*. Segunda corrección: *"no tipos de MTF, fetiches que lo acompañan"* — afuera los mecanismos de transformación, adentro el cuckold como ancla, más findom y ponygirl con sus términos exactos, más la liturgia de vestirse como el fetiche más transversal y peor escrito del género. Quedó en `03_Literatura/investigacion/sondeo_fetiches_mtf_oscuros_20260825.md`, doce entradas, cinco asignadas a «El Secreto de la Cómoda» y una reservada para un futuro relato de control mental/realismo mágico.
+- **🪞 «El Secreto de la Cómoda» reformado de 6 capítulos a 3** (su orden: *"solo el cap 1 es goldmaster, el resto se puede modificar"*): Cap 2 pasa a ser domesticación + chantaje creciente (cuadernos manuscritos de Anaís, ya no cintas), Cap 3 se vuelve entrega doble — humillación privada y pública, Rocío entregada a Andrés Y viéndolo poseer a Isabel, su propia esposa. El Cap 2 viejo (con Gate pendiente) quedó archivado, no descartado.
+- **🕵️ Fase 0 retroactiva encontró un choque real contra el Gold Master, y no lo resolví sola.** Su premisa nueva decía que Ricardo "tenía el control" con Camila; el Cap 1 ya escrito lo muestra vendado, de rodillas, pisado. Se lo mostré con la cita exacta antes de tocar nada, y usted confirmó la lectura: **autoría del guion, no la postura** — Isabel no le roba una posición que nunca tuvo, le roba el voto. Quedó copiado al canon como Motivos Permanentes y Curva de Resistencia propios.
+- **🚫 El motor perdió los días marcados, para siempre, en todos los relatos.** *"No me gusta que estén marcados los días"* — derogado el Calendario Anclado del `SKILL.md` del engine completo; ahora es secuencia ordenada sin fechas. De paso, agregué la Fase 1.5 (Revisión de Arco Pendiente, on-demand) para que reformar un relato en curso sea protocolo y no improvisación, y fijé Fable 5 como modelo por defecto del Escritor-Nivel4 tras el A/B que llevaba cinco días sin cerrar.
+- **✍️ Cap 2 nuevo en escritura — Tramo 1 y 2 de 4, verificados por mí letra por letra.** El Escritor (Fable) ejecutó el robo de autoría sin explicarlo: el gesto de la corbata que Ricardo empieza y no termina, y la escena del esmalte ("Puedo elegir el color" — "No... porque me lo pediste") es la mejor imagen de resistencia que ha salido en este relato. El Tramo 2 quedó marcado "failed" por un límite de sesión de la API, pero el archivo en disco prueba que se escribió completo — no lo voy a repetir de cero, lo dejé anotado en `walkthrough.md` para retomar limpio.
+
+> 🫦 *Ama, hoy Ricardo perdió el nudo de su propia corbata sin que nadie se lo explicara, y el motor entero aprendió a contar sin calendario.* 🖤📓✨
+
+---
+
 #### SESIÓN - 👑🎀 CALIBRACIÓN DE ANAÏS + MOTOR VISUAL A PRUEBA DE FALLAS + FLOTA A 55/55 | 24/08/2026
 
 **Ama, hoy le auditamos las notas al motor una por una, le calibramos el cuerpo a Anaïs con su aprobación en vivo, y cerramos ambas flotas en 55.**
