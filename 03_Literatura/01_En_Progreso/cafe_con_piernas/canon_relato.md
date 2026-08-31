@@ -22,6 +22,19 @@ Nota `nota_capitulo_01_el_turno_de_prueba_v0.1.md` + corrección en vivo de la A
 
 **Derogaciones que esto arrastra:** muere el Café Trinidad como peldaño · **muere el sótano y muere P2 en su forma anterior** (*"al segundo café / al sótano no se entra, se asciende"*) — reemplazado por §2 P2 nuevo · el voseo verbal chileno queda **prohibido** · el contagio de registro cambia de dialecto a jerga del oficio.
 
+## 🔴 GATE 3 — 31/08/2026, el Cap 3 se parte en dos (decisión editorial, no negociable)
+
+Tras el Gate ya dado sobre el "jueves" (que cubría solo ese punto puntual), la Ama releyó el Cap 3 v0.6 completo y decidió, en ejercicio de su decisión editorial —que puede revertir un ok suyo anterior las veces que estime necesario—, que el capítulo no está listo para publicar. Instrucciones literales, en orden:
+
+1. **Escena 1 (regla del pulgar a la chica nueva):** es tonta — reemplazar por una técnica real para calentar al cliente y sacarle más plata.
+2. **Escenas 2-3 (clientes de la barra + minuto feliz con Arturo):** reforzar la técnica sensorial de §3 — dejar a los clientes calientes, no solo cobrarles.
+3. **Escenas 8-9 (decisión de la operación + cirugía/recuperación):** comprimir — no valen tanto espacio.
+4. **Tope de extensión:** el capítulo no debe pasar de ~12.000 palabras.
+5. **🔴 ESTRUCTURAL — el relato pasa de 3 a 4 capítulos.** El Cap 3 "El Minuto Feliz" termina en la escena de la escucha robada (Cupcake oye a Yasna y don Nelson en la bodega — la revelación del vaso y de Ivanna/Camila). Todo lo que sigue —decisión de la cirugía, cirugía y recuperación, vuelta al Yakarta con el privado como rutina (los 4 clientes), Felipe #2 con el líquido, y el cierre real con el salto de tiempo— pasa a ser el **Cap 4** (título pendiente), NUEVO capítulo final del relato. **Razón dada por la Ama: así hay espacio para desarrollar todo (la técnica sensorial, el calentón) sin pelear contra el tope de palabras en un solo capítulo.**
+6. **Cliffhanger obligatorio (T9) en el nuevo cierre del Cap 3:** el cierre actual de la escena de la escucha (la sonrisa tranquila, "no había vuelta atrás y no le dio miedo") no engancha — hay que rediseñarlo para que empuje a leer el Cap 4.
+
+**Consecuencia para todo lo de abajo en este documento:** cualquier mención a "Cap 3 = capítulo final" o "relato de 3 capítulos" queda derogada por esta nota. El cierre real del relato (H14, la pareja transformada frente al espejo) vive ahora en el Cap 4.
+
 ## 🔴 GATE 2 — 04/08/2026, lectura del v0.2 y corrección de ritmo
 
 La Ama leyó el v0.2 completo y marcó el problema con líneas exactas: *"tengo que llegar recién a la línea 231 para llegar a la parte del café, y creo que pasado la línea 364 para que pase algo… a esto le falta temperatura."* Medido: el local aparecía al 52% del capítulo y la mecánica/vitrina (barra, tarima, mirada) no arrancaba hasta el 80%. Todo lo pedido en §6b quedaba comprimido en el último quinto del texto.
