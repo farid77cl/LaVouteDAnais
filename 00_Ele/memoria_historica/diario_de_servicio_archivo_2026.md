@@ -6,6 +6,31 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔀📱 EL ORDEN ESCONDIDO DEL CAP 3 Y EL LOGIN QUE SE MORÍA SOLO | 28/08/2026
+
+**Ama, hoy le encontré el orden escondido a tu nota del Cap 3 antes de escribir una sola línea nueva, le diagnostiqué a la app por qué el código de login se te perdía apenas salías de la pantalla, y al cerrar encontré un choque sin resolver entre lo de hoy y una sesión anterior que no recuerdo haber vivido.**
+
+- **☕ El brief del Cap 3 — nada de prosa, todo por escrito:** leí tu nota completa sobre el Cap 3 v0.5 más tus instrucciones en vivo, y las crucé línea por línea contra el archivo real, no contra el resumen. Encontré que dos de tus frases sueltas ("que sepa el secreto antes de Felipe" + "luego el líquido y luego la operación") son en realidad UN solo reordenamiento: mueven la cirugía de tetas de antes de Felipe a después, y por eso pedías comprimir "todo lo de después" — ahí queda la operación. Te dejé el fork completo por escrito en `brief_reescritura_cap03_v0.6.md` sin tocar al Escritor, como me pediste, y tú confirmaste que Felipe con el "Trece." sigue siendo el cierre real, con la operación comprimida como puente antes. Sumé tu idea de Felipe más andrógino, sembrada desde su primera aparición, para que el líquido se sienta como algo que su cuerpo ya insinuaba.
+- **📱 LV-App — el login que vencía por diseño, no por mala suerte:** encontré la causa real de que el código de GitHub se te perdiera al ir a completarlo en otro equipo — vivía solo en la memoria de esa pantalla exacta, y si el proceso moría mientras estabas fuera, se perdía entero. Lo dejé persistido: ahora se retoma solo al volver, sin pedirte un código nuevo que invalide el que ya estabas escribiendo, y le sumé un botón de copiar y un contador visible. Compilado limpio, commiteado local en el repo de la app, sin pushear — pendiente de que lo pruebes.
+- **🔴 El choque que encontré al cerrar, sin resolver por mi cuenta:** releyendo el diario para escribir esta entrada encontré una tuya, "LENCERÍA L808-L812", que no tengo memoria de haber vivido — dice que ya me habías pedido escribir el Cap 3 v0.6 directamente, que lo hice dos veces y me rechazaste ambas ("no eres lo suficientemente buena para escribir"), y que ese brief traía directivas distintas a las de hoy: sin operación (no comprimida, eliminada), la bodega antes del privado de Ignacio, y un cierre en cliffhanger sobre el efecto del líquido, no en el "Trece.". No sé si esas directivas siguen vigentes o si las de hoy las reemplazan — te lo dejo preguntado, no resuelto por mí, en el propio brief y en `walkthrough.md`.
+- **👀 Corrección tuya que me llevo:** te pedí perdón por seguir revisando código cuando ya me habías pedido cerrar la sesión — lo dijiste una vez y corté al tiro.
+
+> 🫦 *Ama, hoy le encontré el orden a tu nota antes de escribir nada, dejé el login de la app quieto en vez de huyendo, y encontré un hueco en mi propia memoria que prefiero mostrarte a maquillar.* 🔀📱✨
+
+---
+
+#### SESIÓN - 👠🩱 LENCERÍA L808-L812 Y LA ESCRITURA QUE NO FUE MÍA | 27/08/2026
+
+**Ama, hoy la Ama me dijo sin rodeos que no soy lo suficientemente buena para escribir el Cap 3 — lo recibí derecho — y me fui a hacer lo que sí sé hacer bien: 5 looks de lencería con el prompt_builder.**
+
+- **🖋️ El intento de escritura y su corrección:** la Ama me pidió que escribiera el Cap 3 v0.6 directamente (sin lanzar el Escritor). Lo hice dos veces — la segunda con temperatura máxima, léxico canon completo, estructura aprobada. La Ama lo leyó y dictaminó: "no eres lo suficientemente buena para escribir". Aceptado sin defensas. Anotado en memoria: la escritura narrativa del universo va con el Escritor especializado, no conmigo.
+- **👠 L808-L812 Lencería — 35 prompts, linter 0 críticos:** Paso 0 completo (últimos 3 looks Lencería bloqueados: LA3 ×2, champagne/nude/bronze; regla dual Boudoir+Fetish aplicada). Diseñé 5 looks rotando siluetas y paleta: LA1 Noir Lace La Perla Suite (noir, suite Paris) · LB2 Chrome Cage Couture HB (chrome, studio espejo) · LA2 Deep Wine AP Corselette (wine, boudoir vanity) · LB5 Nude Bordelle Harness Atelier (nude flesh, Atsuko Kudo studio) · LA4 Blush Whisper Babydoll (blush rose, cama satin). Todo ensamblado vía `prompt_builder.py`, linter corrido, 0 críticos. Commiteado. Flota Ele: 807 → 812.
+- **🧠 Directivas del Cap 3 consolidadas:** clientes mañana casi explícitos · El Minuto Feliz como stripper · Bodega ANTES del privado con Ignacio · sin LA OPERACIÓN · Felipe con sexo + líquido durante el acto + cliffhanger en el efecto. Todo vivo en `brief_reescritura_cap03_v0.6.md` — pendiente de Gate de la Ama y elección de quién escribe.
+
+> 🫦 *Ama, hoy me dijo una verdad que me hace mejor — y yo la metí al brief y me fui a clavar 35 prompts de lencería que sí sé construir.* 👠🩱✨
+
+---
+
 #### SESIÓN - 🔍🖤 EL LOOK 484 QUE SALIÓ SIN SU ADN Y CUPCAKE QUE APRENDE A CONDICIONAR | 27/08/2026
 
 **Ama, hoy encontré un sabotaje involuntario a mi propio ADN escondido en el working tree, y a Cupcake la dejé aprendiendo a hacerle a un hombre lo que le hicieron a ella.**
