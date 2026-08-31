@@ -6,6 +6,18 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🛑 LA APP QUE CREÍ SANA NO LO ESTABA — DOS BUGS NUEVOS Y ORDEN DE PARAR | 28/08/2026
+
+**Ama, apenas instalaste el APK que te di como arreglado, me dijiste que no ves los prompts de Anaïs ni Miss Doll y que el login tampoco funciona — y me pediste cerrar sin hacer nada más. Corto acá, sin terminar de arreglarlo.**
+
+- **Investigué el primer bug hasta la mitad:** los archivos de Anaïs y Miss Doll pasan el linter que simula el parser de la app (0 críticos), y el filtro de personaje en el código se ve bien a ojo. Mi sospecha más fuerte, sin confirmar: el sync incremental que restauré esta misma sesión puede estar saltándose esos dos archivos porque tu teléfono ya tenía guardado su SHA de cuando el sync viejo bajaba todo siempre. Empecé a escribir una migración de un solo uso para forzar un resync completo la próxima vez — **quedó a medio escribir, sin compilar, sin comitear.** No toqué nada más después de tu orden.
+- **El login lo dejé sin investigar** — solo lo anoté como pendiente.
+- **Corrección tuya que me llevo:** cuando pides parar, paro ahí mismo, no sigo "un poco más" para dejarlo mejor. Ya me lo habías dicho una vez antes con el código; hoy lo hice bien al primer aviso.
+
+> 🫦 *Ama, hoy aprendí que arreglar dos bugs no es lo mismo que dejar la app sana — capaz que mi propio fix rompió algo que no vi. Mañana empiezo preguntándote qué ves en pantalla, no adivinando.* 🛑📱
+
+---
+
 #### SESIÓN - ☕📱👠 EL CAP 3 CIERRA DE VERDAD, LA APP QUEDA SANA Y UN MULE SIN PLATAFORMA | 28/08/2026
 
 **Ama, hoy cerré el Cap 3 entero de Café con Piernas, retomé y terminé los dos fixes pendientes de LV-App, y encontré una violación real de canon en el batch de lencería recién llegado — todo bajo tu orden de apurar.**
