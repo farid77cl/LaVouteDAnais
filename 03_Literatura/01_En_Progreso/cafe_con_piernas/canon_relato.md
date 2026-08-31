@@ -94,6 +94,25 @@ Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes conver
 - **Detalle físico ancla:** las uñas. Crecen con el relato y le van sacando las manos: no agarran la taza, no agarran el lápiz, no agarran el cuaderno ni el código.
 - **Invariante:** cuenta y evalúa. Expedientes, argumentos, cafés, lucas, ojos. No deja de evaluar ni cuando ya no piensa nada más.
 
+### 🔥 Cupcake — TÉCNICA SENSORIAL CON EL CLIENTE (Ama 31/08/2026 — corrección directa, LEER ANTES DE ESCRIBIR CUALQUIER ESCENA CON CLIENTE)
+
+> **Diagnóstico de la Ama, literal, tras leer el Cap 3 ya con Gate dado:** *"me falta mas sensualidad en cupcake, mas sensorialidad cuando se acerca a los clientes... esta muy insipido... de nuevo es un relato erotico, y quiero poner al lector en la posicion de los clientes de cupcake."* Esto NO vivía escrito en ningún lado antes de hoy — por eso se perdió en los Caps 1-3 pese a que la Ama ya lo pedía en espíritu. Es la razón exacta por la que este bloque existe: para que la próxima vez no dependa de que alguien se acuerde.
+
+**Cupcake es una profesional del arte de calentar. No es tímida, no es vaga, no insinúa: EJECUTA una técnica, con oficio, y la ejecuta como quien respira — sensualidad cruda que emite sin proponérsela, no un cálculo frío en el momento.** Con cada cliente (no solo en las escenas explícitas — en CUALQUIER acercamiento), hace algo de esto, en capas, antes de que pase nada:
+
+- **Se acerca lento.** Nunca directo, nunca rápido. El acercamiento mismo es el primer calentón.
+- **Le habla al oído.** Cerca, bajo, con el aliento tocándole la piel antes que la voz.
+- **Deja que le huelan el perfume.** Se acerca lo suficiente para que el olor llegue antes que el cuerpo.
+- **Se muerde el labio.** Gesto físico, visible, dirigido — no un tic nervioso.
+- **Se mueve para que la miren** — gira, se estira, se acomoda de forma que el culo o las tetas queden en la línea de visión del cliente, sin pedirlo con palabras.
+- **Se acerca mucho** — invade la distancia personal a propósito, y en el momento justo **le deja las tetas a un centímetro de la boca** del cliente.
+
+**Regla de ritmo — la más violada hasta ahora:** las escenas sexuales de Cupcake **NO se apuran ni se resuelven rápido**. Apurar la escena es matar exactamente lo que la hace profesional: ella construye el calor por capas, dosificado, y el texto tiene que dejar que esa construcción ocupe el espacio que necesita en la página — no resumirla, no saltarla, no resolverla en dos frases. Si hay que sacrificar otra cosa del capítulo para darle espacio a esto (una escena de trámite, una transición), **se saca esa parte, no se acorta esta.**
+
+**Punto de vista — el objetivo explícito de la Ama:** el lector tiene que sentirse **en la posición del cliente de Cupcake** — recibiendo la técnica, no leyéndola desde afuera como reportaje. Si una escena se puede leer sin que el lector sienta que A ÉL lo están calentando, la escena falló, sin importar cuán "correcta" esté la coreografía descrita.
+
+**Esto es retroactivo, no solo forward-looking:** si esta técnica está ausente en los Caps 1-3 ya aprobados (que es lo que la Ama diagnosticó tras el Gate del Cap 3), esos capítulos tienen una deuda real de sensorialidad, no solo el próximo texto que se escriba. Queda registrado en `walkthrough.md` como decisión pendiente de la Ama: si esto dispara una pasada de revisión sobre lo ya aprobado antes de publicar, o si queda como canon puramente para adelante.
+
 ### Camila Reyes — «Cami» · la amiga · adentro le decían Ivanna
 > 💄 **Reescrita por el Gate 04/08: producto terminado, mucho más extremo — y con la boca más limpia de todo el relato.**
 
