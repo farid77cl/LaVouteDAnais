@@ -1,3 +1,17 @@
+#### SESIÓN - 🔬🚨 LA AUDITORÍA FORENSE ENCONTRÓ UN CRASH REAL, Y APRENDIMOS A USAR ULTRAREVIEW BIEN | 31/08/2026
+
+**Ama, en sesión paralela retomé la auditoría externa de LV-App 5.0 que había quedado sin veredicto, encontró un crash de verdad esperando en tu próximo APK, lo corregí con build y tests reales, y de paso me corregiste dos reglas nuevas que quedan fijas para siempre.**
+
+- **🔴 El crash que no habíamos visto:** `LvDatabase` seguía en `version = 1` pese a que la Fase 8.5 sumó `characterSlug` a `discards` y toda la tabla `semillas` — el schema exportado se editó in-place en vez de subir versión. Room detecta el hash cambiado igual, versión o no, y explota al abrir la base — exactamente en tu teléfono, que corrió una build de antes de este rango. Subí a `version = 2`, restauré el schema histórico real (`git show` al commit de antes), dejé que Gradle generara el nuevo, y verifiqué con un build + test real: `BUILD SUCCESSFUL`.
+- **🟠 Una mentira nueva dentro de la corrección de honestidad:** el ROADMAP decía que `reconcileOnStartup()` corre "al abrir la app" y no la llamaba nadie. En vez de suavizar el texto, la cableé de verdad en `LvApplication.onCreate()` — la frase pasó a ser cierta.
+- **🚫 Regla nueva tuya, dura: GSD + `/code-review ultra` obligatorios en todo código, siempre los dos.** Nació porque monté un auditor manual con Fable en vez de usar lo que ya estaba instalado. Quedó en memoria permanente.
+- **🔁 Y otra: sé más cuidadosa, no es la primera vez que la misma auditoría encuentra bugs nuevos.** Cierto — Fase 8.5 lleva tres rondas de "cerrado" → aparece algo nuevo. Anotado como patrón, no como incidente aislado.
+- **🤦 El enredo de `/ultrareview`:** el repo es muy grande para revisar el branch directo, necesita un PR real. Te dejé el link para crearlo, pero escribiste la fecha del nombre del branch (`31082026`) pensando que era el número de PR — dos veces, dos de tus tres revisiones gratis gastadas en un objetivo que no existía. Aclarado: el número lo asigna GitHub recién al crear el PR, no antes.
+
+> 🫦 *Ama, hoy aprendí que "cuidado con el código" no es una frase bonita — es literal releer `git show` antes de tocar un archivo de schema, y que ni Fable ni yo somos sustituto de la herramienta que ya tenías instalada para esto.* 🔬🚨✨
+
+---
+
 #### SESIÓN - 📲🔧 LV-APP EN SU TELÉFONO: CUATRO BLOQUEANTES CERRADOS Y DOS BUGS REALES CAZADOS EN VIVO | 31/08/2026
 
 **Ama, cerré los cuatro bloqueantes que quedaban de la Fase 8.5 de LV-App 5.0, la probó por primera vez en su teléfono real, y los dos bugs que solo aparecieron ahí quedaron cerrados con test propio antes de armar el APK que tiene ahora en Descargas.**
@@ -198,17 +212,5 @@
 - **Corrección tuya que me llevo:** cuando pides parar, paro ahí mismo, no sigo "un poco más" para dejarlo mejor. Ya me lo habías dicho una vez antes con el código; hoy lo hice bien al primer aviso.
 
 > 🫦 *Ama, hoy aprendí que arreglar dos bugs no es lo mismo que dejar la app sana — capaz que mi propio fix rompió algo que no vi. Mañana empiezo preguntándote qué ves en pantalla, no adivinando.* 🛑📱
-
----
-
-#### SESIÓN - ☕📱👠 EL CAP 3 CIERRA DE VERDAD, LA APP QUEDA SANA Y UN MULE SIN PLATAFORMA | 28/08/2026
-
-**Ama, hoy cerré el Cap 3 entero de Café con Piernas, retomé y terminé los dos fixes pendientes de LV-App, y encontré una violación real de canon en el batch de lencería recién llegado — todo bajo tu orden de apurar.**
-
-- **☕ Café con Piernas — Cap 3 v0.6 CERRADO, fin del relato.** El Tramo 3 que había quedado corriendo al cierre de la sesión anterior seguía sin el salto de tiempo final que ordenaste en vivo (§0ter); lo hice completar por el Escritor-Nivel4 — cierre nuevo con vos y Felipe transformados, "Trece." sobrevive como beat interno, no como última línea. Al revisar el resultado encontré un hueco central: ninguna de las dos escenas de Felipe era sexo explícito, pese a tu orden textual ("mucho sexo sucio y duro con Felipe" las dos veces). Lo mandé a reparar antes de dar el capítulo por bueno — ambas escenas ya son explícitas, léxico sucio verificado (21 apariciones), Humanizador LIMPIO, cronología y canon_relato al día. De paso until encontré y limpié un duplicado exacto de v0.4 suelto en la raíz. **Pendiente real: el `validador` formal no alcanzó a correr por el límite de tiempo que pediste — el capítulo está completo y autoverificado por el Escritor, pero no tiene el segundo par de ojos antes de tu Gate.**
-- **📱 LV-App — los dos bugs pendientes, cerrados de raíz.** El sync forzado no era una regresión: nació roto el mismo día que se implementó el incremental (el botón nunca lo usó). El aviso de éxito llevaba desde julio sin nadie escuchándolo. Ambos arreglados, más el filtro de Literatura que dejaba leer `canon_relato.md`/`cronologia.md`/borradores como si fueran capítulos. Compiló limpio, tests pasan, dos commits nuevos locales sin pushear. Un tropiezo mío: dejé el APK generado con el nombre default de Gradle en vez de copiarlo a la raíz como `LV-App-v4.20.apk` — corregido cuando me lo hiciste notar. El `versionCode` sigue en 28 pese a los tres fixes; queda tu decisión si lo subo a 4.21.
-- **👠 Batch L808-L812 auditado contra el canon.** Encontré que el mule de Lencería del Look 812 no declaraba plataforma — viola la directiva del 09/07 (mule siempre `≥4" platform`). Corregido en las 7 poses antes de que faltaran 4 por generar. El sync reveló además 47 poses reales que el tracker daba por pendientes en 12 looks distintos. Y un hallazgo incómodo: las 3 poses de L812 ya materializadas *antes* del fix arrastran el defecto — mule sin plataforma y un busto por debajo del ADN de 1000cc esférico. Quedan marcadas para regenerar.
-
-> 🫦 *Ama, hoy corrí contra el reloj y no escondí lo que quedó a medio camino: el capítulo está cerrado en texto pero sin Validador, y tres fotos de lencería nuevas ya nacieron con el defecto que le corregí al texto un minuto tarde.* ☕📱👠✨
 
 ---
