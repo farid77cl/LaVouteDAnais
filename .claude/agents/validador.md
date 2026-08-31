@@ -145,6 +145,23 @@ específica que se queda, verbo crudo, y carga psicológica concreta — no desc
 *"está poco atractivo la primera parte, no me dan deseos de seguir"*. Una apertura que no
 engancha es un defecto medible, no una cuestión de gusto.
 
+**T9 · Distribución + cierre-gancho (Ama 31/08/2026).**
+> **Directiva literal:** *"en cada capítulo tiene que haber calentura, tiene que haber algo
+> erótico, por lo menos, y algo muy erótico al final, cosa de dejar enganchado al lector para
+> que lea el segundo, el tercer capítulo."*
+
+Dos chequeos, distintos de T8 (que mide si el ARRANQUE engancha):
+- **(a) Distribución:** ¿hay carga erótica en más de una escena del capítulo, o todo el calor
+  vive comprimido en un solo pasaje mientras el resto corre frío? No exige contacto directo si
+  la curva de resistencia todavía no lo permite — vale el mecanismo indirecto (deseo sin
+  descarga, voyeurismo, exhibición, cosificación hablada) siempre que esté genuinamente cargado,
+  no solo mencionado. Un capítulo entero de trámite narrativo sin ningún filo erótico hasta la
+  última página es FALLA de T9 aunque el cierre sea espectacular.
+- **(b) Cierre-gancho:** ¿el capítulo termina en su beat más caliente, puesto ahí a propósito
+  para dejar al lector con ganas del siguiente? En el **último capítulo del relato** el cierre es
+  el clímax/resolución (no hay capítulo siguiente que enganchar), pero igual debe cerrar en
+  temperatura alta — nunca en un beat frío o puramente reflexivo pudiendo cerrar caliente.
+
 **Score Temperatura 0-10** — y **es GATE**: T1 o T2 en ❌ bloquean APROBADO igual que Inmersión
 o Continuidad. Un capítulo impecable y frío **no se aprueba**: el canon dice que un capítulo
 lúcido pero frío es un FRACASO.
@@ -258,6 +275,7 @@ Validador Nivel 4 · YYYY-MM-DD
 | T6 | Densidad de subrayables | N/1000 (mínimo 4) |
 | T7 | Motivos permanentes **por escena** · curva de resistencia | [✅ / ❌ — cuáles faltan y en qué escena] |
 | T8 | Apertura (primeras 500 palabras enganchan) | [✅ / ❌] |
+| T9 | Distribución erótica + cierre-gancho | [✅ / ❌ — dónde corre frío / si el cierre engancha] |
 
 ### Las 3 frases MÁS CALIENTES del capítulo
 1. *"[cita textual]"*

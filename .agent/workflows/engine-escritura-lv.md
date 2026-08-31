@@ -73,7 +73,7 @@ Al retomar **cualquier** relato de `01_En_Progreso/`, antes de escribir o correg
 ## FASE 3 — Validación (Validador)
 - Subagente: `validador` (`subagent_type: "validador"`)
 - **Tres GATES en orden: Inmersión → Continuidad → 🔥 Temperatura.** Después Narrativa y Voz.
-- **🔥 Temperatura MEDIDA, no contada (Ama 22/07/2026):** 8 medidas — T1 ¿es erótico? (¿sobrevive el cap sin el sexo?) · T2 ¿calienta? (citando las 3 frases más calientes y los 2 pasajes más fríos) · T3 explicitud léxica (nombrar vs eufemismo) · T4 suciedad del registro · T5 descarga real en escena · T6 densidad ≥4/1000 (**necesaria, NO suficiente**) · T7 motivos permanentes **por escena** + curva de resistencia · T8 apertura.
+- **🔥 Temperatura MEDIDA, no contada (Ama 22/07/2026):** 9 medidas — T1 ¿es erótico? (¿sobrevive el cap sin el sexo?) · T2 ¿calienta? (citando las 3 frases más calientes y los 2 pasajes más fríos) · T3 explicitud léxica (nombrar vs eufemismo) · T4 suciedad del registro · T5 descarga real en escena · T6 densidad ≥4/1000 (**necesaria, NO suficiente**) · T7 motivos permanentes **por escena** + curva de resistencia · T8 apertura · **T9 distribución erótica + cierre-gancho/cliffhanger (Ama 31/08/2026)** — planificado desde el Mapa de Capítulos del Compositor, no solo auditado acá.
 - **NO edita texto** — solo veredicto. El Editor NO existe en Nivel 4. **Prohibido aprobar por cortesía.**
 - Veredicto → destino:
   - **APROBADO** (Inm ✅ · Cont ✅ · Temp ≥8.5 con T1·T2 ✅ · Narr ≥9.0) → Gate de la Ama

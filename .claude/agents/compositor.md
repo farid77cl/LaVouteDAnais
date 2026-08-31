@@ -111,11 +111,17 @@ Construir `canon_relato.md` con las respuestas. Estructura obligatoria:
 - ...
 
 ## 6. Mapa de Capítulos (estructura minimalista)
-| Cap | Pivote(s) que se activan | Mecanismo dominante | Cierre del cap |
-|-----|--------------------------|---------------------|----------------|
-| 1   | P1, P2                   | [mecanismo]         | [una línea]    |
-| 2   | P2, P3                   | [mecanismo]         | [una línea]    |
-| ... |                          |                     |                |
+| Cap | Pivote(s) que se activan | Mecanismo dominante | Cierre del cap | Cliffhanger/Gancho |
+|-----|--------------------------|---------------------|----------------|---------------------|
+| 1   | P1, P2                   | [mecanismo]         | [una línea]    | [el beat exacto que deja al lector con ganas del Cap 2] |
+| 2   | P2, P3                   | [mecanismo]         | [una línea]    | [ídem, hacia el Cap 3] |
+| ... |                          |                     |                |                     |
+
+> 🪝 **Cliffhanger obligatorio por capítulo (Ama 31/08/2026):** *"cada capítulo debe tener un cliffhanger... tengo que dejar enganchado el lector, cosa que desee leer el siguiente capítulo"* — y, en la misma sesión: *"en cada capítulo tiene que haber calentura, algo erótico por lo menos, y algo muy erótico al final."* Esto se **planifica acá, en el Mapa**, no se espera a que el Validador lo cace después (su T9 audita que esto se haya cumplido, pero el diseño nace en esta fase). Reglas:
+> - **Todo capítulo, salvo el último del relato, cierra en un cliffhanger** — el beat de mayor carga (erótica, y cuando aplica también narrativa: el twist, la revelación, la pregunta sin responder) puesto ahí a propósito para que la Ama no pueda no seguir leyendo. No sirve un cierre reflexivo o de transición aunque esté bien escrito.
+> - **El último capítulo cierra en el clímax/resolución del relato**, no en un gancho hacia un capítulo que no existe — pero igual en temperatura alta, nunca en frío (ver `investigacion.md` §1 para el tono de cierre que corresponda: con o sin catarsis según lo que haya decidido la Ama).
+> - **Todo capítulo lleva carga erótica distribuida, no solo al final.** Si la curva de resistencia todavía no permite contacto directo (ver §4c), usa el mecanismo indirecto — deseo sin descarga, voyeurismo, exhibición, cosificación hablada — pero que esté genuinamente cargado en más de una escena, nunca un capítulo entero "de trámite" que solo calienta en la última página.
+> - Con **3 capítulos** (el límite que suele pedir la Ama) esto es más exigente, no menos: solo hay dos oportunidades de cliffhanger (cierre Cap1 → Cap2, cierre Cap2 → Cap3) y las dos tienen que funcionar.
 
 ## 7. Vocabulario Autorizado (5-10 palabras/frases CHILENAS)
 [Las palabras que la Ama usaría — verga, coger, abrir, mojada, weón, etc.]
