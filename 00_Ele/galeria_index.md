@@ -148,12 +148,12 @@
 | **336** | Deep Jade Crystal Micro Set | 31/05/2026 | Lencería | — | vinyl, chrome, crystal | 0/7 | ⏳ Pendiente |
 | **337** | Rose Gold Corselette La Perla | 31/05/2026 | Lencería | — | vinyl, satin, chrome, wetlook | 0/7 | ⏳ Pendiente |
 | **338** | Cognac Bordelle Strappy Bodysuit | 31/05/2026 | Lencería | — | latex, vinyl, chrome | 0/7 | ⏳ Pendiente |
-| **339** | Dusty Mauve Belle de Jour Slip | 31/05/2026 | Escort | — | satin, chrome, wetlook | 0/7 | ⏳ Pendiente |
-| **340** | Champagne Morning Robe Trophy Wife | 31/05/2026 | Domestic | — | vinyl, chrome, wetlook, satin | 0/7 | ⏳ Pendiente |
-| **341** | Neon Sakura Akihabara Maid | 31/05/2026 | Domestic | — | vinyl, chrome | 0/7 | ⏳ Pendiente |
+| **339** | Dusty Mauve Belle de Jour Slip | 31/05/2026 | Escort | — | satin, chrome, wetlook | 7/7 | — |
+| **340** | Champagne Morning Robe Trophy Wife | 31/05/2026 | Domestic | — | vinyl, chrome, wetlook, satin | 1/7 | ⏳ Pendiente |
+| **341** | Neon Sakura Akihabara Maid | 31/05/2026 | Domestic | — | vinyl, chrome | 7/7 | — |
 | **342** | Electric Violet Kabukicho Street Viper | 31/05/2026 | Escort | — | vinyl, chrome, pvc | 0/7 | ⏳ Pendiente |
 | **343** | Chrome White Shinjuku Club Night | 31/05/2026 | Nightclub | — | vinyl, chrome | 0/7 | ⏳ Pendiente |
-| **344** | Hot Magenta OL Tokyo Office Siren | 31/05/2026 | Corporate | — | chrome, vinyl | 0/7 | ⏳ Pendiente |
+| **344** | Hot Magenta OL Tokyo Office Siren | 31/05/2026 | Corporate | — | chrome, vinyl | 2/7 | ⏳ Pendiente |
 | **345** | Electric Mint Latex French Maid Tokyo | 31/05/2026 | Domestic | — | latex, vinyl, chrome | 1/7 | ⏳ Pendiente |
 | **346** | Midnight Blue Roppongi After-Party | 31/05/2026 | Nightclub | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper | 31/05/2026 | Escort | — | vinyl, chrome, pvc | 0/7 | ⏳ Pendiente |
@@ -196,11 +196,11 @@
 | **384** | Tangerine Cheetah Studio Micro | 02/06/2026 | Bikini | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
 | **385** | Cobalt Tiger Nightclub Sequin | 02/06/2026 | Nightclub | — | chrome, crystal | 1/7 | ⏳ Pendiente |
 | **386** | Champagne Gold Giraffe Trophy | 02/06/2026 | Domestic | — | vinyl | 7/7 | — |
-| **387** | Oxblood Croco Office Siren | 02/06/2026 | Corporate | — | leather, mesh, crystal | 1/7 | ⏳ Pendiente |
-| **388** | Iridescent Pearl Snow Leopard Boudoir | 02/06/2026 | Lencería | — | — | 2/7 | ⏳ Pendiente |
+| **387** | Oxblood Croco Office Siren | 02/06/2026 | Corporate | — | leather, mesh, crystal | 7/7 | — |
+| **388** | Iridescent Pearl Snow Leopard Boudoir | 02/06/2026 | Lencería | — | — | 7/7 | — |
 | **389** | Bubblegum Cow Print Bombshell | 02/06/2026 | Pin-Up | — | pvc, vinyl, satin, chrome | 1/7 | ⏳ Pendiente |
 | **390** | Toxic Chartreuse Dalmatian Gym | 02/06/2026 | Gym | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
-| **391** | Deep Teal Jaguar Pole Specialist | 02/06/2026 | Stripper | — | chrome | 0/7 | ⏳ Pendiente |
+| **391** | Deep Teal Jaguar Pole Specialist | 02/06/2026 | Stripper | — | chrome | 7/7 | — |
 | **392** | Bronze Tortoiseshell Beach Trikini | 02/06/2026 | Bikini | — | wetlook | 2/7 | ⏳ Pendiente |
 | **393** | Electric Cyan Lizard Sculptural Catsuit | 02/06/2026 | High-Fashion Editorial | — | latex, chrome | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella | 02/06/2026 | Pin-Up | — | chrome | 1/7 | ⏳ Pendiente |
@@ -617,15 +617,15 @@
 | **805** | Sovereign Chantilly Lace Peignoir | 21/08/2026 | Lencería | — | — | 7/7 | — |
 | **806** | Neon Pink Bondage Vinyl Catsuit | 21/08/2026 | — | — | — | 7/7 | — |
 | **807** | Cyber Magenta Cage Bodysuit | 21/08/2026 | — | — | — | 7/7 | — |
-| **808** | Noir Lace La Perla Suite | 27/08/2026 | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **808** | Noir Lace La Perla Suite | 27/08/2026 | Lencería | — | — | 7/7 | — |
 | **809** | Chrome Cage Couture HB | 27/08/2026 | Lencería | — | — | 7/7 | — |
 | **810** | Deep Wine AP Corselette | 27/08/2026 | Lencería | — | — | 7/7 | — |
 | **811** | Nude Bordelle Harness Atelier | 27/08/2026 | Lencería | — | — | 0/7 | ⏳ Pendiente |
-| **812** | Blush Whisper Babydoll | 27/08/2026 | Lencería | — | — | 3/7 | ⏳ Pendiente |
+| **812** | Blush Whisper Babydoll | 27/08/2026 | Lencería | — | — | 7/7 | — |
 | **813** | Acid Chartreuse Boardroom | 29/08/2026 | Corporate | — | — | 7/7 | — |
 | **814** | Oil-Slick Opera Escort | 29/08/2026 | Escort | — | — | 7/7 | — |
 | **815** | Mercury Wet-Look Performance | 29/08/2026 | Gym | — | — | 7/7 | — |
-| **816** | Bubblegum Vinyl Sweetheart | 29/08/2026 | Pin-Up | — | — | 6/7 | ⏳ Pendiente |
+| **816** | Bubblegum Vinyl Sweetheart | 29/08/2026 | Pin-Up | — | — | 7/7 | — |
 | **817** | Leopard Chrome Pole Predator | 29/08/2026 | Stripper | — | — | 7/7 | — |
 
 ---
@@ -752,12 +752,10 @@
 | **336** | Deep Jade Crystal Micro Set | 0/7 | ⏳ Pendiente |
 | **337** | Rose Gold Corselette La Perla | 0/7 | ⏳ Pendiente |
 | **338** | Cognac Bordelle Strappy Bodysuit | 0/7 | ⏳ Pendiente |
-| **339** | Dusty Mauve Belle de Jour Slip | 0/7 | ⏳ Pendiente |
-| **340** | Champagne Morning Robe Trophy Wife | 0/7 | ⏳ Pendiente |
-| **341** | Neon Sakura Akihabara Maid | 0/7 | ⏳ Pendiente |
+| **340** | Champagne Morning Robe Trophy Wife | 1/7 | ⏳ Pendiente |
 | **342** | Electric Violet Kabukicho Street Viper | 0/7 | ⏳ Pendiente |
 | **343** | Chrome White Shinjuku Club Night | 0/7 | ⏳ Pendiente |
-| **344** | Hot Magenta OL Tokyo Office Siren | 0/7 | ⏳ Pendiente |
+| **344** | Hot Magenta OL Tokyo Office Siren | 2/7 | ⏳ Pendiente |
 | **345** | Electric Mint Latex French Maid Tokyo | 1/7 | ⏳ Pendiente |
 | **346** | Midnight Blue Roppongi After-Party | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper | 0/7 | ⏳ Pendiente |
@@ -790,11 +788,8 @@
 | **383** | Mirror Silver Zebra Couture | 1/7 | ⏳ Pendiente |
 | **384** | Tangerine Cheetah Studio Micro | 1/7 | ⏳ Pendiente |
 | **385** | Cobalt Tiger Nightclub Sequin | 1/7 | ⏳ Pendiente |
-| **387** | Oxblood Croco Office Siren | 1/7 | ⏳ Pendiente |
-| **388** | Iridescent Pearl Snow Leopard Boudoir | 2/7 | ⏳ Pendiente |
 | **389** | Bubblegum Cow Print Bombshell | 1/7 | ⏳ Pendiente |
 | **390** | Toxic Chartreuse Dalmatian Gym | 1/7 | ⏳ Pendiente |
-| **391** | Deep Teal Jaguar Pole Specialist | 0/7 | ⏳ Pendiente |
 | **392** | Bronze Tortoiseshell Beach Trikini | 2/7 | ⏳ Pendiente |
 | **393** | Electric Cyan Lizard Sculptural Catsuit | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella | 1/7 | ⏳ Pendiente |
@@ -860,10 +855,7 @@
 | **698** | Hot Magenta Crystal Cage | 7/7 | ⏳ Pendiente |
 | **699** | Baby Pink PVC Tease | 7/7 | ⏳ Pendiente |
 | **700** | Cerise Sequin All Nighter | 7/7 | ⏳ Pendiente |
-| **808** | Noir Lace La Perla Suite | 0/7 | ⏳ Pendiente |
 | **811** | Nude Bordelle Harness Atelier | 0/7 | ⏳ Pendiente |
-| **812** | Blush Whisper Babydoll | 3/7 | ⏳ Pendiente |
-| **816** | Bubblegum Vinyl Sweetheart | 6/7 | ⏳ Pendiente |
 
 ---
 

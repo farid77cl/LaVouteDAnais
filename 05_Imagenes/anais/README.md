@@ -486,6 +486,22 @@
 
 ---
 
+## 🌹 Look 61: Merry Widow Carmesi
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_L61_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_standing.png) | ![anais_L61_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_back_view.png) | ![anais_L61_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_seated.png) | ![anais_L61_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_side_profile.png) | ![anais_L61_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_sovereign_gaze.png) | ![anais_L61_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_pov.png) | ![anais_L61_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_odalisque.png) |
+
+---
+
+## 🌹 Look 62: Corse Medianoche Y Zorro Plateado
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_L62_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_standing.png) | ![anais_L62_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_back_view.png) | ![anais_L62_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_seated.png) | ![anais_L62_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_side_profile.png) | ![anais_L62_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_sovereign_gaze.png) | ![anais_L62_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_pov.png) | ![anais_L62_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_odalisque.png) |
+
+---
+
 ## 🌹 Look 63: Peignoir De Gasa Marfil Y Oro
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
@@ -514,7 +530,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![anais_066_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![anais_066_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_standing.png) | ![anais_066_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_back_view.png) | ![anais_066_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_seated.png) | ![anais_066_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_side_profile.png) | ![anais_066_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_sovereign_gaze.png) | ![anais_066_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_pov.png) | ![anais_066_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_odalisque.png) |
 
 ---
 
@@ -522,7 +538,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![anais_067_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![anais_067_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_standing.png) | ![anais_067_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_back_view.png) | ![anais_067_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_seated.png) | ![anais_067_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_side_profile.png) | ![anais_067_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_sovereign_gaze.png) | ![anais_067_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_pov.png) | ![anais_067_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_odalisque.png) |
 
 ---
 
@@ -530,7 +546,23 @@
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![anais_068_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![anais_068_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_standing.png) | ![anais_068_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_back_view.png) | ![anais_068_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_seated.png) | ![anais_068_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_side_profile.png) | ![anais_068_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_sovereign_gaze.png) | ![anais_068_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_pov.png) | ![anais_068_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_odalisque.png) |
+
+---
+
+## 🌹 Look 69: Saten Medianoche Y Zorro Plata
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_069_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_standing.png) | ![anais_069_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_back_view.png) | ![anais_069_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_seated.png) | ![anais_069_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_side_profile.png) | ![anais_069_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_sovereign_gaze.png) | ![anais_069_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_pov.png) | ![anais_069_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_odalisque.png) |
+
+---
+
+## 🌹 Look 70: Corse Borgona Y Guantes Largos
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_070_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_standing.png) | ![anais_070_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_back_view.png) | ![anais_070_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_seated.png) | ![anais_070_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_side_profile.png) | ![anais_070_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_sovereign_gaze.png) | ![anais_070_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_pov.png) | ![anais_070_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_odalisque.png) |
 
 ---
 

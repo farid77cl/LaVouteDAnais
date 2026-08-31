@@ -3827,11 +3827,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a longline crimson chantilly lace merry widow with integrated suspenders and visible spiral steel boning, a deep sweetheart neckline closed with a row of tiny hook-and-eye fastenings down the front, a small matching crimson chantilly lace thong cut high at the waist in true period style but with the leg openings cut sharply upward to the crest of the hip bone, the whole length of hip and thigh left bare, a scalloped lace edge, a floor-length sheer black chiffon open robe reaching all the way to the floor and trailing behind her, semi-transparent fabric that reveals the merry widow beneath from every angle including from behind, falling loose off one shoulder, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin crimson satin belt, sheer black stockings with a fine back seam gartered above the thong, (12cm black patent leather D'Orsay stiletto pump with open sides and a closed pointed toe, iconic red sole:1.2), a vintage ruby collar necklace, a slim silver cigarette holder, almond-shaped nails in glossy deep crimson lacquer, La Perla aristocratic Italian poise`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_standing.png) | [📸 View](../../../05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_back_view.png) | [📸 View](../../../05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_seated.png) | [📸 View](../../../05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_pov.png) | [📸 View](../../../05_Imagenes/anais/look61_merry_widow_carmesi/anais_L61_odalisque.png) |
 
 **1. Standing:**
 
@@ -3889,11 +3889,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `an overbust corset in midnight-blue silk charmeuse with visible antique-silver spiral steel boning, a deep sweetheart neckline, a small matching midnight-blue chantilly lace thong cut high at the waist in true period style but with the leg openings cut sharply upward to the crest of the hip bone, the whole length of hip and thigh left bare, a scalloped lace edge, sheer graphite-grey stockings with a fine back seam gartered above the thong, (12cm midnight-blue suede knee-high stiletto boot ending exactly at the knee, antique-silver heel cap, iconic red sole:1.2), a silver fox fur stole draped over one shoulder, the fur lying flat and unbroken across both shoulder blades with its edge following the same line front and back, the cinched waist of the corset clearly visible below it, an antique silver Art Déco necklace, a slim silver cigarette holder, oval nails in glossy antique-silver lacquer, La Perla aristocratic Italian poise`
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_standing.png) | [📸 View](../../../05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_back_view.png) | [📸 View](../../../05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_seated.png) | [📸 View](../../../05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_pov.png) | [📸 View](../../../05_Imagenes/anais/look62_corse_medianoche_y_zorro_plateado/anais_L62_odalisque.png) |
 
 **1. Standing:**
 
@@ -4130,11 +4130,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/`
 - **Tags:** #mix #noche_la_voute #n1 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (1/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_standing.png) | [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_back_view.png) | [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_seated.png) | [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_pov.png) | [📸 View](../../../05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/anais_066_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4180,11 +4180,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/`
 - **Tags:** #mix #latex_fetichismo #l3 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (1/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_standing.png) | [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_back_view.png) | [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_seated.png) | [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_pov.png) | [📸 View](../../../05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/anais_067_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4230,11 +4230,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/`
 - **Tags:** #mix #ejecutivo_de_poder #x1 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (1/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_standing.png) | [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_back_view.png) | [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_seated.png) | [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_pov.png) | [📸 View](../../../05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/anais_068_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4280,11 +4280,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/`
 - **Tags:** #mix #noche_la_voute #n4 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_standing.png) | [📸 View](../../../05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_back_view.png) | [📸 View](../../../05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_seated.png) | [📸 View](../../../05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_pov.png) | [📸 View](../../../05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/anais_069_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4330,11 +4330,11 @@ look nuevo, va antes de este bloque, nunca despues.
 - **Ubicacion:** `05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/`
 - **Tags:** #mix #latex_fetichismo #l5 #batchL66-L70 #V7poses
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_standing.png) | [📸 View](../../../05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_back_view.png) | [📸 View](../../../05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_seated.png) | [📸 View](../../../05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_pov.png) | [📸 View](../../../05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/anais_070_odalisque.png) |
 
 ### 1. Standing
 ```text
