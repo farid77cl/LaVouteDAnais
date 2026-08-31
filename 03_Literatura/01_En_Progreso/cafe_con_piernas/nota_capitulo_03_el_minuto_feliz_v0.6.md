@@ -1,1 +1,1 @@
-Se lo dijo entera, humaniza esa frase, suena mal
+Se lo dijo entera, humaniza esa frase, suena mal. Pero gracias por la corbata. también suena raro
