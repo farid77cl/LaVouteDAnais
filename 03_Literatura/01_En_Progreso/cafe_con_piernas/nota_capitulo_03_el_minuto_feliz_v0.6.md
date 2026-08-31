@@ -1,0 +1,1 @@
+Se lo dijo entera, humaniza esa frase, suena mal
