@@ -1,1 +1,1 @@
-Se lo dijo entera, humaniza esa frase, suena mal. Pero gracias por la corbata. también suena raro
+Se lo dijo entera, humaniza esa frase, suena mal. Pero gracias por la corbata. también suena raro. Y tú, que llevas un buen rato mirándola hacer esto sin pagar ni un café: la galería queda en el centro, el local es el del vidrio que no deja ver desde afuera, y en la barra basta con preguntar por Cupcake. Date una vuelta una de estas mañanas, que para los que miran como tú miras siempre hay una taza lista en cursiva
