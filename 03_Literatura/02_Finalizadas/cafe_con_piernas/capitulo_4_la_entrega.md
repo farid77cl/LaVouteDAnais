@@ -1,4 +1,22 @@
-# Capítulo 4: La Entrega
+*Un relato de Anaïs Belland*
+
+# Café con Piernas: La Entrega
+
+---
+
+**Universo:** La Voûte d'Anaïs
+**Temáticas:** #ControlMental #Bimboficación #Sumisión #Degradación #TransformaciónPsicológica #EróticaChilena
+**Palabras:** ~10,200
+**Perspectiva:** Tercera Persona (Javiera → Cupcake)
+**Intensidad:** Extrema
+
+---
+
+**Cupcake vuelve del quirófano con setecientos cc que se pagó sola, luca por luca, sacados de hombres que nunca supieron para qué pagaban. El vaso que probó una sola vez, por gusto, sigue esperando detrás del vaporizador — y esta vez es ella quien decide a quién se lo entrega.**
+
+<!-- more -->
+
+---
 
 Lo primero que aprendió del cuerpo nuevo fue el peso.
 
@@ -581,3 +599,18 @@ Abajo empezó el beat. Era el mismo de siempre.
 Le dio un golpecito en la cadera con la uña.
 
 —Ya. Sal a vender café.
+
+---
+
+**Fin**
+
+¿Sentiste el momento exacto en que dejó de ser Felipe el que pedía permiso y pasó a ser Cupcake la que esperaba que él tomara lo que quisiera? ¿Y la fila de mañana, con Don Manuel todavía preguntando "¿cómo era yo antes, mi rey?", sabiendo que la respuesta ya no la tiene él?
+
+Si esta historia te dejó con ganas de contar tus propios cafés — o de servir el vaso una vez, aunque sea por el puro gusto de ver a alguien cambiar — quiero saberlo. Escríbeme.
+
+*Dis-moi ce que tu désires vraiment.*
+
+📧 anais.belland@outlook.com
+
+*Avec dévotion obscure,*
+**Anaïs Belland**
