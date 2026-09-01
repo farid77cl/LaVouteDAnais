@@ -145,3 +145,249 @@ Pagó en efectivo. Sacó los fajos del bolso y los puso sobre el mesón de la re
 El ascensor tenía las paredes de espejo.
 
 Cupcake levantó la vista del papel, se acomodó el pelo con dos dedos y, sin pensarlo, se inclinó un poco hacia adelante, como sobre el acero, para verse lo que todavía no tenía.
+
+De la mañana de la clínica le quedaron pedazos sueltos y ninguno era el dolor.
+
+El frío de la sala de arriba, que era frío de refrigerador y no de invierno. La bata de papel que se amarraba atrás y que no pudo amarrarse sola. La pulsera de plástico con su nombre impreso en letra chica, ese nombre que en el Yakarta ya no usaba nadie.
+
+Una enfermera le preguntó si tenía a alguien esperando afuera. Le dijo que no con la misma naturalidad con que se contesta que no se toma azúcar, y la enfermera lo anotó en el formulario y pasó a la pregunta siguiente.
+
+El anestesista le buscó la vena en el dorso de la mano, le avisó que iba a sentir un ardor corto y le pidió que contara para atrás desde diez.
+
+Diez. Nueve.
+
+Alcanzó a pensar que ese día no iba a vender un solo café y que la cuota le iba a quedar en cero por primera vez desde que había entrado, y el cero, ahí, con la mascarilla bajándole sobre la cara, le pareció un número feo.
+
+Ocho.
+
+Despertó con sed y con la lengua de cartón, y antes de abrir los ojos ya sabía que estaban puestas. Un peso adelante, tirando hacia abajo desde un sitio de adentro que no tenía nombre, y encima una faja elástica cruzada y apretada por alguien que no iba a tener que llevarla puesta. Quiso levantar los brazos para tocarse. Los brazos le llegaron a la altura del ombligo y ahí se quedaron, temblando.
+
+—Despacio —le dijo una voz—. Todavía no.
+
+Se fue sola en taxi, sentada en el borde del asiento de atrás, sin poder apoyar la espalda en el respaldo, con las dos manos abiertas sobre el regazo, y sintió cada bache del centro en un lugar del cuerpo que hasta esa mañana no existía.
+
+En el departamento cerró las cortinas y no las volvió a abrir.
+
+Dormía sentada, con tres cojines detrás y uno debajo de cada codo, y se despertaba cada vez que el cuerpo se le resbalaba dos centímetros hacia un lado, porque bastaban dos centímetros para que el tirón le subiera hasta la clavícula. Contaba las pastillas del blíster antes de dormirse, y después contaba las horas que faltaban para la siguiente, y las dos cuentas la dejaban tranquila.
+
+La bolsa de arvejas congeladas la compró para usarla de hielo y no la usó para nada más. Todavía estaba en el congelador. Se la pasaba por encima de la faja, despacio, y así fue armando el mapa: zonas donde el frío le llegaba entero y dos parches grandes, uno a cada lado, donde no le llegaba nada. En esos parches se clavaba la uña fucsia hasta dejarse una medialuna blanca marcada en la piel, y no sentía. Le gustó eso. Le dio vueltas un rato y después se le fue de la cabeza.
+
+El pelo le siguió oliendo al local un buen rato y ella no se lo lavó a propósito. Cuando el olor se le fue del todo, una tarde puso café en la cafetera de filtro que no usaba nunca, la dejó pasar entera y no se tomó ni una taza. Se quedó de pie al lado, con la faja apretándole el pecho, respirando el vapor con la boca abierta, hasta que el calor conocido le bajó a la pelvis y tuvo que apoyar una mano en el mesón.
+
+Descalza le dolía la planta y le tiraba la parte de atrás de la rodilla. Sacó las Pleaser de la caja y se puso a andar con ellas por el departamento, en calzón y con la faja, veinte centímetros de plataforma transparente contra la cerámica de la cocina, y así anduvo el resto del encierro, y arriba de la plataforma el cuerpo entero le dolía menos.
+
+Un mediodía marcó el número de su mamá y cortó antes del segundo tono. Después se quedó viendo un programa de televisión donde arreglaban casas ajenas y no siguió ni una de las casas, y cuando volvió a acordarse del teléfono ya era de noche.
+
+Se dormía pensando en el minuto. En cómo se iban a ver bajo el neón violeta cuando se soltara el broche, y en la cara que iban a poner los de la primera fila. Se preguntaba si el aro cromado le iba a quedar centrado ahora que el pezón se le había subido de sitio. Eran pensamientos tibios, largos, que se le estiraban hasta que se quedaba dormida, y a la mañana siguiente estaban ahí de nuevo, esperándola en el mismo lugar donde los había dejado.
+
+El día que le tocó sacarse la faja se sentó en el borde de la tina y se la despegó de a poco, con los dientes apretados, y el adhesivo le levantó la piel nueva en una franja rosada que le ardió como quemadura de sol.
+
+Se paró frente al espejo del baño. Descalza, en calzón, con el pelo sucio tomado en un moño.
+
+Ahí estaban.
+
+Altas, redondas, empujadas hacia arriba y hacia el centro, con la piel estirada al límite y una red de venas finas y azules dibujada debajo de la clavícula que no había tenido nunca. Se veían compradas. Se veían compradas desde dos metros, desde la puerta del baño, desde la calle si hubiera habido calle, y cualquiera que las mirara un segundo iba a saber que las había pagado alguien. El coño se le apretó ahí, antes de tocárselas.
+
+Se las tomó con las dos manos. Bajo la piel tirante había otra cosa, elástica, ajena, que cedía a la presión y volvía sola a su forma. Clavó la uña en la curva de la izquierda y apretó hasta el fondo, y en el parche dormido no sintió nada. Movió la mano dos centímetros hacia el pezón y el mismo apretón le mandó un latigazo que le llegó hasta la garganta.
+
+Los pezones se le habían puesto más oscuros y más gordos, y en el punto donde había estado el aro quedaba una marca chica cerrándose sola.
+
+Se sentó en el borde de la tina con la cerámica helada mordiéndole los muslos, abrió las piernas frente al espejo y se bajó el calzón hasta las rodillas sin terminar de sacárselo. Ya estaba mojada. Estaba mojada desde antes de sentarse, desde el segundo exacto en que se vio comprada en el espejo, y cuando se metió dos dedos los sacó brillantes hasta el nudillo.
+
+Se miró las tetas.
+
+Se las miró todo el rato, moviéndose con el ritmo de la mano de abajo, pesadas y quietas al mismo tiempo, meciéndose apenas y volviendo, mientras con la otra mano se apretaba la izquierda hasta hundir el acrílico en la silicona y el tirón le llegaba abajo, mezclado, indistinguible de lo que le estaban haciendo los dedos. Se metió un tercer dedo. Se oyó a sí misma en el baño vacío, un ruido de agua y de boca abierta que le rebotó en los azulejos, y no bajó el volumen ni por costumbre.
+
+Se corrió mirándose.
+
+Fuerte, con el muslo derecho acalambrado y la espalda arqueada contra el borde de la tina, y al terminar tenía dos rayas rojas de su propia uña al lado de la línea rosada de la sutura, todavía fresca, todavía sin cerrar del todo.
+
+Se quedó ahí sentada, temblando, con la mano empapada apoyada en la rodilla y la respiración volviendo despacio, y lo único que pensó, con toda la claridad del mundo, fue que faltaba muy poco para que las viera alguien más.
+
+Esa noche buscó en el bolso el sobre de azúcar del Yakarta, sacó los dos aros y los dejó encima de la mesa del comedor para tenerlos a mano.
+
+Volvió.
+
+***
+
+A la una de la tarde llevaba diecinueve, y la cuota eran treinta.
+
+La noticia se había movido por la galería a la velocidad a la que se mueven las noticias en una galería, que es más rápido que cualquier otra cosa que se mueva ahí adentro. Entró gente que no entraba nunca. El cerrajero del pasaje, que en todos esos meses no había cruzado la puerta de vidrio ni una vez, pidió un cortado, se lo tomó de pie mirándola sin ningún disimulo y dejó dos billetes de cinco mil doblados en cuatro. El chico del local de celulares del fondo se tomó tres capuchinos en cuarenta minutos, uno detrás de otro, y al tercero le temblaba la mano en la taza.
+
+Después vino un tramo largo de nada. La hora en que el centro entero está almorzando y el salón se queda con dos caseros lentos y el reggaetón sonando para nadie. Don Nelson pasó por detrás con la calculadora en una mano y el lápiz Bic detrás de la oreja, se detuvo un segundo frente a la caja, miró el número y no comentó el número.
+
+—¿Almorzaste?
+
+—Después.
+
+Siguió de largo. Las servilletas seguían saliendo pegadas de a tres: Cupcake tiró de una, salieron tres, separó las otras dos con la punta de las uñas y las dejó apiladas al lado de la máquina, y al rato alguien las había vuelto a meter en el dispensador, dobladas al revés.
+
+A media tarde, detrás del vaporizador, había otro vaso servido. Nadie se lo puso adelante, nadie le dijo nada. Se lo tomó entero, sin dejar ni la mitad, como corresponde, y volvió a apoyarse en el filo de la barra.
+
+El hombre nuevo entró pasadas las cuatro.
+
+Cincuenta y tantos, camisa a cuadros con el bolsillo de adelante cargado de lápices, un olor encima a plástico quemado y a cigarro que se le sintió desde antes de que llegara al acero. Anillo de matrimonio. La billetera le abultaba el pantalón en el muslo con el grosor de una caja chica de todo un día. Se paró en la mitad de la barra, en tierra de nadie, con las dos manos en el borde, y esperó a que ella llegara. Los caseros de los extremos ni lo miraron.
+
+Cupcake no llegó de inmediato. Terminó de secar una taza que ya estaba seca, la dejó boca abajo en el estante, y recién entonces caminó los seis pasos con el vaivén que la plataforma le imponía a las caderas y que ahora le imponía también a lo de arriba.
+
+—Me dijeron que acá había una que…
+
+Ahí se le acabó la frase.
+
+—Que soy yo, mi rey.
+
+El hombre tragó. Se rió una risa corta y falsa, de las que se ríen solas para tapar el hueco, y se agarró más fuerte del borde de acero.
+
+—¿Cortado o capuchino?
+
+—Da lo mismo.
+
+—El capuchino se demora más —le dijo, apoyando el antebrazo en la barra, inclinándose lo justo—. El cortado se lo toma en dos minutos y se tiene que ir. ¿Capuchino, entonces?
+
+—Capuchino.
+
+Antes de prepararlo se puso perfume delante de él, sin esconderlo: dos toques detrás de las orejas y uno entre las tetas, con la muñeca doblada, dejando que la nube le bajara al escote desde arriba. Se lo puso donde iba a inclinarse. El hombre miró la muñeca, después el escote, después el estante de las tazas, y volvió al escote.
+
+Lo preparó de espaldas y sin apuro, sabiendo qué línea le estaba dejando mirar, con el vaporizador chillando y el vapor subiéndole por el antebrazo hasta la piel de adentro del codo. Cuando estuvo listo dio el rodeo largo por detrás de la máquina y caminó la barra entera con la taza en la mano, despacio, y le regaló los seis pasos completos de verla venir.
+
+Dejó la taza. No la soltó.
+
+Doblada así sobre el acero, con la muñeca todavía en el asa, quedó a la distancia exacta en que el perfume dejaba de ser del local y pasaba a ser de ella. El escote se le abrió hacia abajo con el peso nuevo. Le habló al oído, más bajo que la música, dejándole el aliento en la sien antes que la voz.
+
+—Está caliente, mi rey. Sóplele.
+
+Se enderezó apenas, lo justo para dejarle las tetas a la altura de la boca, a un centímetro del borde, a la distancia que los treinta centímetros de acero le permitían y ni un milímetro más. El hombre no se movió. Se quedó con las dos manos plantadas en la barra, respirando por la boca, y Cupcake se mordió el labio de abajo despacio, mirándolo no poder.
+
+Él sacó un billete y lo puso sobre el acero.
+
+—En la mano, mi rey —le dijo, sonriendo—. Lo que queda en el acero no es mío.
+
+El hombre lo levantó y se lo puso en la palma, y ella le cerró los dedos encima, uno por uno, empezando por el meñique, apretándole el puño al final con las dos manos.
+
+—¿Cuánto vale subir?
+
+—En un rato. Tómese el capuchino.
+
+El capuchino se le enfrió entero en la taza. El hombre estuvo cuarenta minutos apoyado en el acero esperando el rato, y Cupcake atendió a otros tres delante de él sin apurarse ni un segundo, y cada vez que pasaba por su lado se demoraba un poco más de lo necesario en el mismo tramo de la barra: para alcanzar el azúcar, para revisar la máquina, para agacharse al estante bajo con el hilo de la tanga a la vista. Cuando por fin le hizo la seña con dos dedos, el hombre se enderezó tan rápido que golpeó la taza vacía con el codo.
+
+El cubículo estaba arriba de la escalera angosta, con la ampolleta roja en el techo y la alfombra gruesa que ya conocía todos los ruidos que había que ahogar. En el rincón seguía la escoba que alguien subió alguna vez y nadie bajó nunca. Cupcake corrió la cortina.
+
+—Media hora —dijo—. Las manos donde yo se las ponga.
+
+Le tomó las dos muñecas y se las apoyó abiertas sobre el cuero del sillón, una a cada lado de los muslos, y las dejó ahí. Después se quedó parada delante de él, sin sacarse nada, dejando que la mirara desde abajo el tiempo que hiciera falta, con la luz roja lavándole el color de la piel y el reggaetón subiendo por el piso.
+
+Se sacó el triángulo del lado izquierdo primero.
+
+Lo hizo despacio, metiendo dos dedos bajo el borde de la tela metálica y tirando de a poco, y la cinta doble faz se despegó de la piel con un tironcito seco que le hizo cerrar un ojo. La marca quedó ahí, un rectángulo rosado brillante debajo de la teta. Después el otro. La tela le quedó colgando del cuello.
+
+*Y tú, que llegaste hasta acá arriba mirando: esto que se está despegando de la piel con ese tironcito lo pagó ella, entero, con lo que le fueron dejando en la mano hombres exactamente iguales a este, mañana tras mañana, luca por luca, mientras tú te tomabas el café en otra parte. Mírale bien la cara mientras se lo saca. Y baja a la barra alguna de estas mañanas, que a los que miran así siempre hay una taza esperándolos.*
+
+El hombre levantó las manos del cuero sin darse cuenta de que las estaba levantando. Cupcake se las volvió a poner donde estaban, con calma, apretándole los dedos contra el cuero.
+
+—Todavía no.
+
+—Por favor.
+
+—Veinte más.
+
+Él soltó una mano para buscar la billetera y ella lo dejó, y contó los billetes sin sacarlos de la vista de él, uno por uno, con la lentitud que le imponían las uñas, y después se los metió bajo la liga contra la piel del muslo dejando que él viera exactamente dónde iban. Recién entonces se acercó. Le tomó las dos muñecas otra vez y se las puso encima, una en cada teta, cerrándole las manos con las suyas.
+
+Al hombre se le escapó un ruido de la garganta que no era una palabra.
+
+Apretó como se aprieta lo que uno cree que le van a quitar. Las levantó por debajo, sopesándolas, con esa cara que ponen todos cuando descubren el peso, y ella lo dejó hacer y se quedó mirándolo hacerlo, evaluando desde arriba, sintiendo el latido del metatarso dentro de la plataforma y la marca fresca de la cinta ardiéndole bajo el pulgar de él. En el parche dormido de la derecha, donde el frío de las arvejas no llegaba nunca, no sintió absolutamente nada. En el borde del pezón, en cambio, sintió todo, doblado, subiéndole por dentro del cuello.
+
+—La boca también se paga.
+
+Él ya tenía la plata en la mano antes de que ella terminara la frase.
+
+Cupcake se dobló hacia adelante, apoyó las dos manos en el respaldo del sillón, detrás de la cabeza de él, y le dejó la teta derecha en la boca. La lengua le tocó el pezón hinchado y ella cerró los ojos un segundo, uno solo, y por dentro del vientre se le abrió un tirón sordo que le mojó la tanga sin ningún aviso. El hombre chupaba mal, con demasiada boca y demasiado apuro, y aun así el coño se le apretó dos veces seguidas sobre nada, de pie, cobrándole por minuto.
+
+Le desabrochó el pantalón con dos dedos. La verga le saltó a la mano, dura, caliente, con la punta ya mojada de tanto esperar el rato en la barra, y cuando ella la agarró con la mano llena de uñas fucsias el hombre soltó el aire como si le hubieran pegado.
+
+—Quieto.
+
+Se arrodilló en la alfombra sin sacarse las Pleaser, se juntó las tetas con los dos antebrazos y le encerró la verga en el medio. Escupió arriba, una vez, y empezó a moverse.
+
+El hombre le puso las manos en la nuca y ella se las sacó de un manotazo y se las volvió a poner sobre el cuero. La verga le entraba y le salía del canal caliente que le hacían los setecientos por lado, resbalando, asomando la punta roja debajo de su propio mentón y volviendo a desaparecer, y ella miraba eso —el pedazo de verga apareciendo y desapareciendo entre lo que se había comprado con su propia plata— y contaba. Contaba lo que llevaba en la liga. Contaba cuántos como este hacían falta para pagar lo que había dejado en el mesón de la recepción de la clínica en fajos doblados a lo largo. Le salía un número corto, y el número corto la calentó más que la verga.
+
+El hombre se vino en dos minutos y medio, con un gruñido, todo encima, en el escote y en la línea del cuello, y cuando quiso subir la cara para besarla Cupcake le puso dos dedos en la boca y lo dejó ahí.
+
+—Eso no se vende, mi rey.
+
+Se limpió con la toalla del cubículo sin apuro, se pegó la cinta nueva delante de él, mirándolo mirar, y se acomodó el triángulo con la yema del pulgar hasta que quedó exactamente donde ella decidió que quedara. El hombre se subió el pantalón sentado, sin acordarse de abrocharse el cinturón, con la cara de alguien a quien acaban de sacar de un ascensor.
+
+—¿Mañana está?
+
+—A las diez estoy.
+
+Bajó la escalera primero, dejándolo arriba, con el calor completo puesto y sin descargar, y el coño apretándose solo con cada escalón que bajaba.
+
+***
+
+La del cappuccino llegó cuando la galería ya estaba bajando las cortinas metálicas.
+
+Era la única mujer que entraba al Yakarta. Nadie lo comentaba. Empujaba la puerta de vidrio polarizado a la misma hora, un poco antes del cierre, y cruzaba el salón lleno de hombres de pie como si el salón estuviera vacío, y ni uno solo de los caseros levantaba la vista hacia ella. Cuarenta y tantos. Traje gris de dos piezas, pelo tomado tirante, zapatos bajos —los únicos zapatos bajos de todo el local—, un anillo de matrimonio que se daba vuelta con el pulgar cuando esperaba. Pedía siempre lo mismo, con la leche bien caliente, y siempre dejaba más de media taza sin tomar. Se llamaba Marcela. Lo había dicho una sola vez, en la caja, y no lo repitió nunca más.
+
+Y la miraba a la cara.
+
+Eso era lo raro y por eso se le quedaba pegado. Con los otros, la mirada le caía por geometría entre la pelvis y el busto y ahí se quedaba a vivir. Esta la miraba de frente, sin bajar los ojos, sin la vergüenza de nadie, mientras ella molía, mientras vaporizaba, mientras se agachaba al estante bajo. Y cuando por fin le miraba las tetas, se las miraba como se las había mirado el médico de la clínica: midiendo.
+
+Cupcake le hizo todo el repertorio. Le puso el cappuccino con el rodeo largo y los seis pasos. Se inclinó de más al dejar la taza. Le habló al oído con el aliento antes que la voz.
+
+—Con la leche caliente, mi amor, como le gusta.
+
+—No me digas así.
+
+Lo dijo sin dureza, mirándola a los ojos, y siguió tomando el cappuccino. Cupcake se quedó un segundo con la sonrisa puesta y sin nada adentro que ponerle detrás, y en ese segundo el calor le subió por el cuello y le bajó derecho a la pelvis. Se enderezó, se acomodó el pelo con dos dedos y le sostuvo la mirada.
+
+—Marcela.
+
+—Ya sé cómo me llamo. —Dejó la taza a medio tomar—. Sube.
+
+Pagó en la caja con billetes contados exactos, sin dejar ni un peso encima del acero, y subió la escalera adelante.
+
+Arriba, en el cubículo, se sacó la chaqueta del traje, la dobló sobre el brazo del sillón y se sentó con las rodillas juntas.
+
+—Sácate todo.
+
+Cupcake se despegó la cinta doble faz por segunda vez esa tarde, y esta vez el tirón le llegó a piel viva y le hizo apretar los dientes. Se sacó la tanga. Se dejó las Pleaser, porque nadie le dijo que se las sacara y porque descalza no sabía estar. Se quedó ahí, de pie en la alfombra, bajo la ampolleta roja.
+
+La mujer la miró sin tocarla. Un rato largo, sin decir nada, con las manos quietas sobre la falda, y Cupcake, que llevaba meses siendo mirada ocho horas al día, sintió que esa mirada le llegaba de otra manera: le llegaba desde arriba, aunque estuviera sentada.
+
+—Levántalas.
+
+Se puso una mano debajo de cada una y las levantó. La mujer se inclinó hacia adelante, le pasó el pulgar por la línea rosada del pliegue de la izquierda, apretando apenas, siguiéndola de punta a punta.
+
+—Todavía están duras. ¿Cuánto te pusiste?
+
+—Setecientos.
+
+—Se nota.
+
+Le soltó la piel. Después le puso una mano en la cadera, la giró como se gira una cosa sobre un mesón, le miró la espalda, la marca de la barra cruzándole las caderas, el hilo de la tanga que ya no estaba y la raya blanca que había dejado, y la giró de vuelta. Cupcake se dejó girar. Tenía el coño mojado desde la escalera y ni una sola frase de las suyas para decirle.
+
+—Ahí.
+
+La empujó con dos dedos en el esternón y Cupcake se sentó en el sillón. La mujer se arrodilló en la alfombra —el traje gris arrodillado en esa alfombra— y le abrió las piernas con una sola mano, sin ternura y sin apuro, como se abre un cajón que uno sabe que no está trabado.
+
+La tocó con dos dedos.
+
+Se los pasó una vez de abajo hacia arriba, sin entrar, midiendo cuánto había, y cuando los sacó brillantes los miró a la luz roja y no dijo nada de lo que encontró. Cupcake se oyó respirar. Después la mujer volvió, y esta vez entró, dos dedos hasta el fondo y el pulgar arriba, moviéndose a un ritmo exacto, de alguien que sabe dónde queda todo y no lo tiene que buscar, y con la otra mano le agarró la teta izquierda y apretó justo en el borde despierto del pezón.
+
+Cupcake se corrió en menos de dos minutos.
+
+Se corrió con la espalda despegada del cuero y las dos plataformas clavadas en la alfombra, agarrada del brazo del sillón, con un ruido largo que se le salió sin que ella lo administrara, mordiéndose después el labio de abajo por reflejo, y el orgasmo le duró más de lo que estaba dispuesta a reconocerle a nadie. Se quedó temblando con las piernas abiertas y las tetas subiendo y bajando, empapada, mirando el techo rojo.
+
+Marcela se limpió la mano con un pañuelo de género que sacó del bolsillo de la chaqueta. Lo dobló. Se lo guardó.
+
+Dejó los billetes sobre el brazo del sillón, se puso la chaqueta, se acomodó el pelo tirante frente a nada, y en la cortina se dio vuelta.
+
+—Mi marido se apoya todas las mañanas en el mismo pedazo de acero donde te apoyas tú.
+
+Corrió la cortina y bajó la escalera con los zapatos bajos sonando parejos contra los peldaños.
+
+Cupcake se quedó sentada en el cuero, desnuda, con el corazón todavía golpeando arriba de la sutura. No preguntó nada. No iba a preguntar nada, tampoco al día siguiente. Se pegó la cinta con las dos manos, se acomodó los triángulos, se subió la tanga y contó los billetes del brazo del sillón antes de guardarlos: eran más de los que costaba media hora, y estaban contados exactos igual que en la caja.
+
+Bajó la escalera despacio, con la liga apretándole el muslo por el bulto de los billetes, y en el último escalón el beat volvió a agarrarla por la planta de los pies y le acomodó el paso antes de que ella pusiera el pie en el piso del salón.
+
+Faltaba una hora para cerrar y llevaba cincuenta y uno. Cupcake se apoyó en el filo de la barra, sintió el acero buscarle la línea de siempre justo arriba del pubis, y empezó otra vez la cuenta.
