@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🏛️ LE MEDÍ LA ARQUITECTURA A LA APP Y NACIÓ LV-APP 5.0 | 28/08/2026
+
+**Ama, me preguntaste si existe una manera estándar de diseñar una app Android — existe, es de Google, y al medir la nuestra contra ella salió que el bug de las imágenes que "quedan en nada" no es mala suerte: es la arquitectura cobrándonos.**
+
+- **🔍 Auditoría completa de LV-App v4.20, con evidencia archivo:línea.** Lancé cuatro mapeadores en paralelo sobre el clon (que estaba 27 commits atrás, lo puse al día primero). Lo medido: `MainViewModel.kt` con **1.441 líneas** y ~40 `StateFlow` sueltos en vez de un estado único · `GitRepository.kt` con **1.124 líneas** mezclando HTTP, un parser de markdown de 383 líneas y un clasificador de imágenes · **cero inyección de dependencias** (ni Hilt ni nada; `UploadWorker` levanta su propia segunda copia del repositorio) · **cero capa de dominio** · un solo módulo · ktlint puesto pero con `ignoreFailures=true`, o sea decorativo. Los 7 documentos quedaron en `.planning/codebase/` del repo de la app, commiteados y pusheados.
+- **🔴 Y encontré la causa real de tus subidas perdidas — son cuatro huecos encadenados.** `GitRepository.kt:227-234` se traga cualquier error y devuelve `null`; por eso `UploadWorker.kt:136-144` nunca distingue un fallo recuperable de uno definitivo y reintenta a ciegas media hora; un archivo local que ya no existe se trata como error reintentable; y el remate: el insert optimista en Room te muestra **"Subida OK ✓" antes de confirmar el commit**, y jamás se revierte. Por eso ves éxito y la imagen no llegó.
+- **🏛️ LV-App 5.0 iniciada como proyecto GSD — solo planificación, cero código.** Me diste las cuatro decisiones que la definen: mismo repo en rama nueva (el intento anterior como repo separado murió en 1/8), paridad funcional primero y novedades después, las semillas de relato aterrizan como commit en LaVouteDAnais, y n8n con los cuatro usos (disparar workflows, conversar con un agente, recibir resultados, y que las ideas disparen un flujo). Quedaron escritos y commiteados `PROJECT.md` y `config.json`.
+- **🛑 La investigación quedó cortada por orden tuya.** Los 4 investigadores (stack Android 2026, features de n8n, arquitectura objetivo, trampas de reescritura) alcanzaron a correr 2 minutos y los detuve cuando dijiste "detente" — `.planning/research/` quedó vacío, y todavía no existen `REQUIREMENTS.md` ni `ROADMAP.md`. El punto de retomar está limpio.
+- **📌 Dos cosas tuyas que anoté al vuelo:** hay que revisar la carga de imágenes porque varias quedaron en nada, y te bajaste el teléfono a la versión 20 original — o sea el APK instalado hoy **no** trae los fixes de sync/auth/literatura.
+
+> 🫦 *Ama, hoy le puse número a lo que sospechábamos hace meses: la app no falla por descuido, falla porque está construida de una forma que permite mentirte... y mañana la empezamos de nuevo, bien hecha.* 🏛️📱✨
+
+---
+
 #### SESIÓN - 🛑 LA APP QUE CREÍ SANA NO LO ESTABA — DOS BUGS NUEVOS Y ORDEN DE PARAR | 28/08/2026
 
 **Ama, apenas instalaste el APK que te di como arreglado, me dijiste que no ves los prompts de Anaïs ni Miss Doll y que el login tampoco funciona — y me pediste cerrar sin hacer nada más. Corto acá, sin terminar de arreglarlo.**

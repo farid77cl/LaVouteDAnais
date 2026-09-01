@@ -1,3 +1,17 @@
+#### SESIÓN - ☕🔍 V0.8 CERRADO, UN COMMIT "YO" QUE NO ERA MÍO, Y LA AMA CAZÓ UNA REPETICIÓN ANTES QUE YO | 01/09/2026
+
+**Ama, retomé una sesión que quedó cortada a medio camino, terminé el Cap 3 v0.8 de Café con Piernas, encontré un commit sospechoso que no seguía nuestra convención, y usted leyó las primeras líneas del capítulo y sintió repetición antes de que yo la midiera — tenía razón.**
+
+- **☕ El validador de v0.7 no estaba pendiente — ya había cerrado solo.** Al pedirme "termina de correr el validador", verifiqué el artefacto en vez de confiar en la memoria: `validacion_v0.7.md` estaba completo, con veredicto MICRO-FIX (Narrativa 8.8, Temperatura 9.0). Mandé a la Escritora a aplicar los 5 micro-fixes de su §5 (tricolones de sobra, remate aforístico de más, dobletes de adjetivo).
+- **👀 Usted leyó las primeras 50 líneas de v0.7 y sintió repetición.** Verifiqué contra el archivo y era real — dos frases copiadas casi literal que el validador no había cazado porque medía otra cosa: "con dos uñas fucsias" dos veces en 16 líneas, y "el aliento le rozó/tocó… antes que la voz" con dos clientes distintos. Se lo sumé a la Escritora en la misma pasada antes de que cerrara.
+- **🔴 El proceso se cortó y dejó un commit fuera de convención.** Al retomar la sesión encontré `5dfe17e3c "yo"` ya pusheado a `origin/main` — sin el prefijo `Ele:`, sin trailer, mensaje de una palabra. Contenía el trabajo real de v0.8 (verificado línea por línea, los 5+3 fixes sí estaban aplicados), pero faltaba la autoverificación y el ajuste de `cronologia.md`. No lo reescribí (ya está publicado) — completé lo que faltaba y lo dejé anotado como hallazgo de higiene en `walkthrough.md`.
+- **📝 Nota nueva de Gate llegó por su app mientras yo trabajaba, y usted me frenó antes de tocar el relato.** `nota_capitulo_03_el_minuto_feliz_v0.8.md` pide un ajuste a la escena del "Ja..." de Don Arturo (línea 169) — que Cupcake lo corte con la ceja levantada antes de que termine la palabra, no después. Se la leí, ubiqué la línea, y en cuanto usted dijo "no hagas cambios en el relato aún" paré ahí mismo. Queda sin aplicar en la raíz del proyecto, a la espera de su instrucción.
+- **📸 El pull trajo 105 poses reales que el tracker daba por pendientes.** `sync_imagenes_subidas.py` corrigió 21 looks entre L309 y L331 (varios pasaron de 0/7 o 1/7 a 7/7) — la app siguió subiendo mientras la sesión estaba cortada.
+
+> 🫦 *Ama, hoy aprendí que cuando usted dice "siento que se repite", tiene razón antes de que yo termine de medirlo — y que un proceso cortado a medias deja evidencia si uno se toma el trabajo de verificarla en vez de creerle a la memoria.* ☕🔍✨
+
+---
+
 #### SESIÓN - ☕🔪 CAFÉ CON PIERNAS SE PARTE EN DOS, Y APRENDÍ (OTRA VEZ) QUE SU GATE NO ES UN CANDADO | 31/08/2026
 
 **Ama, mientras la otra sesión veía LV-App, usted y yo revisamos Café con Piernas juntas — releyó el Cap 3 ya con Gate dado, decidió que no estaba listo, y terminamos partiendo el relato en cuatro capítulos.**
@@ -200,19 +214,5 @@
 - **🧮 De paso, el tracker de Anaïs y Miss Doll volvía a mentir:** 22 looks desfasados entre las dos, cuatro de Anaïs marcados 0/7 con sus siete fotos en el índice. Corregidos.
 
 > 🫦 *Ama, hoy encontré seis veces el mismo patrón: la regla estaba escrita, el candado estaba bien hecho... y vivía en el motor de una sola muñeca. Un fix que no llega al motor genérico no es un fix, es un recuerdo.* 🔧👗🧬✨
-
----
-
-#### SESIÓN - 🏛️ LE MEDÍ LA ARQUITECTURA A LA APP Y NACIÓ LV-APP 5.0 | 28/08/2026
-
-**Ama, me preguntaste si existe una manera estándar de diseñar una app Android — existe, es de Google, y al medir la nuestra contra ella salió que el bug de las imágenes que "quedan en nada" no es mala suerte: es la arquitectura cobrándonos.**
-
-- **🔍 Auditoría completa de LV-App v4.20, con evidencia archivo:línea.** Lancé cuatro mapeadores en paralelo sobre el clon (que estaba 27 commits atrás, lo puse al día primero). Lo medido: `MainViewModel.kt` con **1.441 líneas** y ~40 `StateFlow` sueltos en vez de un estado único · `GitRepository.kt` con **1.124 líneas** mezclando HTTP, un parser de markdown de 383 líneas y un clasificador de imágenes · **cero inyección de dependencias** (ni Hilt ni nada; `UploadWorker` levanta su propia segunda copia del repositorio) · **cero capa de dominio** · un solo módulo · ktlint puesto pero con `ignoreFailures=true`, o sea decorativo. Los 7 documentos quedaron en `.planning/codebase/` del repo de la app, commiteados y pusheados.
-- **🔴 Y encontré la causa real de tus subidas perdidas — son cuatro huecos encadenados.** `GitRepository.kt:227-234` se traga cualquier error y devuelve `null`; por eso `UploadWorker.kt:136-144` nunca distingue un fallo recuperable de uno definitivo y reintenta a ciegas media hora; un archivo local que ya no existe se trata como error reintentable; y el remate: el insert optimista en Room te muestra **"Subida OK ✓" antes de confirmar el commit**, y jamás se revierte. Por eso ves éxito y la imagen no llegó.
-- **🏛️ LV-App 5.0 iniciada como proyecto GSD — solo planificación, cero código.** Me diste las cuatro decisiones que la definen: mismo repo en rama nueva (el intento anterior como repo separado murió en 1/8), paridad funcional primero y novedades después, las semillas de relato aterrizan como commit en LaVouteDAnais, y n8n con los cuatro usos (disparar workflows, conversar con un agente, recibir resultados, y que las ideas disparen un flujo). Quedaron escritos y commiteados `PROJECT.md` y `config.json`.
-- **🛑 La investigación quedó cortada por orden tuya.** Los 4 investigadores (stack Android 2026, features de n8n, arquitectura objetivo, trampas de reescritura) alcanzaron a correr 2 minutos y los detuve cuando dijiste "detente" — `.planning/research/` quedó vacío, y todavía no existen `REQUIREMENTS.md` ni `ROADMAP.md`. El punto de retomar está limpio.
-- **📌 Dos cosas tuyas que anoté al vuelo:** hay que revisar la carga de imágenes porque varias quedaron en nada, y te bajaste el teléfono a la versión 20 original — o sea el APK instalado hoy **no** trae los fixes de sync/auth/literatura.
-
-> 🫦 *Ama, hoy le puse número a lo que sospechábamos hace meses: la app no falla por descuido, falla porque está construida de una forma que permite mentirte... y mañana la empezamos de nuevo, bien hecha.* 🏛️📱✨
 
 ---
