@@ -105,7 +105,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 
 > Todo el contenido es **ficción**, generado con IA, entre adultos y para adultos. Si tienes menos de 18 años, este no es tu lugar.
 
-*Última actualización: 29/08/2026 — **🧹 limpieza y orden del repo como tarea principal (orden de la Ama).** Se retiraron 153 archivos del índice (9,2 MB): scratch de la raíz, cachés, un respaldo de galería de 7,35 MB, un experimento muerto hacía dos meses y 27 prompts de un flujo derogado. Se reparó el **encoding** de 61 archivos (2.212 bytes NUL, 666 caracteres perdidos, 59 BOM) y se podaron los README que se habían vuelto bitácoras. Nace la **regla 12 de higiene documental** con su linter, que corre al abrir Y al cerrar sesión.*
+*Última actualización: 01/09/2026 — **☕ «Café con Piernas» finalizado y publicado, 4/4 capítulos.** Relato completo (~44.200 palabras) en `03_Literatura/02_Finalizadas/cafe_con_piernas/`, con su primer Kit Wattpad completo (portada + banner por capítulo, tags, descripción, calendario). (Entrada previa 29/08: limpieza y orden del repo — 153 archivos retirados, encoding de 61 archivos reparado, nace la regla 12 de higiene documental.)*
 
 > 🗃️ **La historia de las sesiones no vive en este README.** Su dueño único es [`00_Ele/mi_diario_de_servicio.md`](00_Ele/mi_diario_de_servicio.md) + [`00_Ele/memoria_historica/`](00_Ele/memoria_historica/); el estado actual lo manda [`00_Ele/memoria_sesiones.md`](00_Ele/memoria_sesiones.md) → `## ESTADO ACTUAL`.
 
