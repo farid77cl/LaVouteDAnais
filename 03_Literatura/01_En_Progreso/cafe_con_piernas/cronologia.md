@@ -45,6 +45,27 @@ La nueva instrucción de la Ama exige rehacer la cronología desde cero para aju
 >
 > **🔄 v0.7 ESCRITA (31/08/2026, mismo día):** el Cap 3 quedó ejecutado en su nuevo alcance — escenas 1-7, cerrando en la escucha robada + **cliffhanger nuevo**: Cupcake, cerrando sola el salón a oscuras, encuentra el vaso tibio detrás del vaporizador y **se lo toma a sabiendas** — primera vez en página desde el Cap 1 que se lo sirve sola, y primera vez que lo hace sabiendo lo que oyó (la sustancia jamás se confirma, §6b-bis intacta; Ley 1 intacta: el lavadero a un paso y la pericia de abogada nombrada y descartada en página). Última línea: *"Como corresponde."* — eco anclado a la escucha del propio capítulo (ver H15). **La regla del pulgar fue eliminada de la apertura por orden del GATE 3** (reemplazada por la técnica de la entrega, que Cupcake le enseña a la chica nueva): el callback de H14 (Felipe midiéndose el escote con el pulgar frente al espejo) **queda sin ancla de apertura** — el Cap 4 debe replantarla o adaptar su imagen final. *"Vuelva el jueves"* se conserva verbatim (Gate Ama 31/08: *"el jueves queda así"*). v0.6 íntegra archivada en `borradores/capitulo_03/`.
 
+## 2b. 🎬 CAP 4 — ESTRUCTURA (planificación, 01/09/2026 — orden vivo de la Ama, aún sin escribir)
+
+> **Instrucción literal:** *"Creo que es mejor darle un salto temporal. Cupcake ya se hizo la operación. Entonces, [el capítulo] que haga un raconto, un flashback recordando la operación. Y también lo de la apertura, también con un flashback. Ya volvió, y ahí empieza con Felipe."*
+
+Reemplaza el orden lineal que traía la nota 44 (decisión → cirugía → vuelta → Felipe) por una estructura de **salto + flashback**:
+
+| # | Beat | Cómo se cuenta |
+|---|---|---|
+| 1 | **Apertura — salto temporal.** Abre con Cupcake ya operada, ya recuperada, ya de vuelta trabajando en el Yakarta. | Tiempo presente — NO en tiempo real desde el cierre del Cap 3. |
+| 2 | **Flashback — la decisión de operarse.** Autodirigida (H5 ya resuelto sin necesidad de un susurro externo), M7 llegando a su silencio final (étapa 4, fusión completa). | Recuerdo, dentro de la apertura. Comprimido por naturaleza — un raconto no necesita el mismo espacio que una escena en vivo (cumple el pedido de GATE 3 sin forzar el corte). |
+| 3 | **Flashback — la cirugía y recuperación.** ~12 días, 700cc de silicona por lado, pagados por ella misma. | Mismo raconto que el punto 2, sin cortar de vuelta al presente entre medio. |
+| 4 | **Vuelta al presente — "ya volvió".** Cierra el flashback, retoma en el ahora: de regreso en la barra, rutina del privado con la técnica sensorial de Cupcake ya plena (deuda retroactiva del Gate 31/08, §3 canon). | Tiempo presente. |
+| 5 | **Felipe #2 — con el líquido (H13).** Ella se lo da por decisión propia; confirma en escena que funciona igual en un hombre. | Tiempo presente, sigue directo del punto 4. |
+| 6 | **Cierre real — salto de tiempo (H14).** La pareja transformada frente al espejo del camarín. Última línea en el tono de "Sal a vender café." Sin epílogo. | Segundo salto temporal, esta vez hacia adelante. |
+
+**✅ Ambos puntos resueltos por la Ama (01/09/2026):**
+- **Ancla de H14 — RESUELTO:** no se replanta el pulgar. La imagen final cambia de ancla: en vez de Felipe midiéndose el escote con el pulgar, repite el gesto real de **la técnica de la entrega** que abre el Cap 3 v0.9 (cerrarle la mano a alguien con las monedas, dedo por dedo, o el acercamiento lento que Cupcake le enseñó a la chica nueva) — eco de algo que el lector ya leyó de verdad, no de un token perdido.
+- **Roster del beat 4 — RESUELTO:** un regular + alguien nuevo. **El regular es la ejecutiva del cappuccino** (personaje reciclado de un borrador derogado — el nombre existía, nunca se usó en prosa) — mujer, cliente de rutina ya establecida. El nuevo cliente queda a criterio del Escritor, sin nombre puntual pre-decidido.
+
+Listo para lanzar al Escritor.
+
 ## 3. Hechos Plantados (Cap 2 **v0.7 — cerrado 19/08**, pasada de humanización aplicada; v0.6 derogada por la Ama)
 
 | # | Hecho plantado | Plantado en | Estado | Pagado en |
