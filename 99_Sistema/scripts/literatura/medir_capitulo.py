@@ -19,6 +19,11 @@ lo calibran viven en 01_Canon/evals_ama/casos_ama.md (dueño único de los patro
   M8  Varianza de frase (H8)     — por cada 500 palabras: ≥1 frase ≤5 y ≥1 ≥35
   M9  Apertura y cierre          — densidad erótica de las primeras y últimas 500 palabras   (T8 / T9b)
   M10 Distribución por decil     — dónde corre frío el capítulo                             (T9a)
+  M11 Pensamiento en cursiva     — *frases en cursiva* por 1000 palabras                    (voz_autoral.md §3 — referencias 2,3-5,3)
+  M12 La dominante habla largo   — parlamentos de diálogo ≥45 palabras                      (voz_autoral.md §4 — referencias 9-32/cap)
+
+M11/M12 nacen el 02/09/2026 de medir las cinco referencias que la Ama nombró como su estilo contra el Cap 4
+v0.3 rechazado por «poético»: cursivas 0,7/1000 vs 2,3-5,3 · parlamentos largos 0 vs 9-32. Son avisos, no duros.
 
 Uso:
   python 99_Sistema/scripts/literatura/medir_capitulo.py <capitulo.md>
@@ -466,6 +471,34 @@ def m9_m10(sents: list[dict]) -> dict:
     return {"apertura": share(first), "cierre": share(last), "deciles": [share(d) for d in deciles], "palabras": total}
 
 
+RE_BOLD = re.compile(r"\*\*[^*\n]+\*\*")
+RE_ITAL = re.compile(r"\*([^*\n]{12,}?)\*")
+VOZ_CURSIVAS_MIN = 2.0   # por 1000 palabras — referencias de la Ama: 2,3-5,3 (voz_autoral.md §0)
+VOZ_LARGOS_MIN = 6       # parlamentos ≥45 palabras por capítulo — referencias: 9-32
+VOZ_LARGO_PALABRAS = 45
+
+
+def m11_m12_voz(text: str, pars: list[tuple[int, str]], nwords: int) -> dict:
+    """M11 cursivas (pensamiento en primera persona / voz de abajo) · M12 parlamentos largos de diálogo.
+    Perfil medido sobre las referencias que la Ama nombró el 02/09/2026 — ver 01_Canon/voz_autoral.md §0."""
+    sin_bold = RE_BOLD.sub("", text)
+    cursivas = [excerpt(m.group(1), 110) for m in RE_ITAL.finditer(sin_bold)]
+    largos = []
+    for ln, p in pars:
+        if p == "***" or not es_dialogo(p):
+            continue
+        n = len(palabras(p))
+        if n >= VOZ_LARGO_PALABRAS:
+            largos.append({"linea": ln, "palabras": n, "texto": excerpt(p, 120)})
+    return {
+        "cursivas_total": len(cursivas),
+        "cursivas_por_1000": round(len(cursivas) * 1000 / max(nwords, 1), 1),
+        "cursivas_muestra": cursivas[:6],
+        "largos": largos,
+        "largos_total": len(largos),
+    }
+
+
 # ────────────────────────────────────────────────────────────────────────────
 # Reporte
 # ────────────────────────────────────────────────────────────────────────────
@@ -502,6 +535,7 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
     remates = m7_remates(pars)
     var = m8_varianza(sents)
     dist = m9_m10(sents)
+    voz = m11_m12_voz(text, pars, nwords)
 
     duros = []
     clones_duros = [c for c in clones if c["duro"]]
@@ -553,6 +587,10 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
     frios_dec = [i + 1 for i, p in enumerate(dist["deciles"]) if p < 25]
     if frios_dec:
         blandos.append(f"T9a deciles con <25% de narración con cuerpo: {frios_dec}")
+    if voz["cursivas_por_1000"] < VOZ_CURSIVAS_MIN:
+        blandos.append(f"M11 voz: pensamiento en cursiva {voz['cursivas_por_1000']}/1000 (referencias de la Ama 2,3-5,3 — voz_autoral.md §3)")
+    if voz["largos_total"] < VOZ_LARGOS_MIN:
+        blandos.append(f"M12 voz: solo {voz['largos_total']} parlamento(s) de ≥{VOZ_LARGO_PALABRAS} palabras — la dominante no habla largo (referencias 9-32/cap — voz_autoral.md §4)")
 
     return {
         "archivo": str(path), "palabras": nwords, "frases": len(sents), "escenas": escena,
@@ -560,7 +598,7 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
         "duros": duros, "blandos": blandos,
         "m1_ngramas": rep, "m1_tics": tics_cortos, "m1_frases": frases_rep, "m2_clones": clones, "m2_similares": similares,
         "m3": lex, "m4_frios": frios, "m4_share_caliente": hot_share, "m4_share_dialogo": dial_share,
-        "m6": etiq, "m7": tics, "m7_remates": remates, "m8": var, "m9m10": dist,
+        "m6": etiq, "m7": tics, "m7_remates": remates, "m8": var, "m9m10": dist, "m11m12": voz,
     }
 
 
@@ -605,6 +643,15 @@ def render(r: dict) -> str:
     L.append("## M9/M10 · Apertura · cierre · distribución por decil (% de narración con cuerpo)")
     L.append(f"- **Apertura** (primeras 500 palabras): {d['apertura']}% · **Cierre** (últimas 500): {d['cierre']}%")
     L.append("- Deciles: " + " ".join(f"`{i+1}:{barra(p)} {p}%`" for i, p in enumerate(d["deciles"])))
+    L.append("")
+
+    # M11/M12
+    v = r["m11m12"]
+    L.append("## M11/M12 · Voz — perfil de las referencias de la Ama (`voz_autoral.md` §0)")
+    L.append(f"- **M11 pensamiento en cursiva:** {v['cursivas_total']} ({v['cursivas_por_1000']}/1000 · referencias 2,3-5,3)"
+             + ("".join(f"\n  - *{x}*" for x in v["cursivas_muestra"]) if v["cursivas_muestra"] else " — ninguno"))
+    L.append(f"- **M12 parlamentos de ≥{VOZ_LARGO_PALABRAS} palabras:** {v['largos_total']} (referencias 9-32 por capítulo)"
+             + ("".join(f"\n  - línea {x['linea']} ({x['palabras']} pal): {x['texto']}" for x in v["largos"][:6]) if v["largos"] else " — la dominante no habla largo"))
     L.append("")
 
     # M3
@@ -715,7 +762,8 @@ def main() -> int:
             print(f"Reporte → {a.out}")
             print(f"Veredicto: {'🔴 DURO' if r['duros'] else ('🟡' if r['blandos'] else '🟢')} · "
                   f"{r['palabras']} pal · frío {r['m4_share_caliente']}% caliente · {len(r['m4_frios'])} tramos fríos · "
-                  f"{r['m3']['explicito_por_1000']} explícitas/1000")
+                  f"{r['m3']['explicito_por_1000']} explícitas/1000 · voz: {r['m11m12']['cursivas_por_1000']} cursivas/1000, "
+                  f"{r['m11m12']['largos_total']} parlamentos largos")
         else:
             print(md)
     return 1 if r["duros"] else 0
