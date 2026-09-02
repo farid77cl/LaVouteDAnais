@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-medir_capitulo.py — Medidor mecánico de un capítulo · motor de escritura La Voûte (02/09/2026)
+medir_capitulo.py — Loreto, la secretaria de control · medidor mecánico de un capítulo (La Voûte, 02/09/2026)
 
-Nace de la orden de la Ama del 02/09/2026: "debo leer 5, 6 veces el mismo relato y eso al final mata
+Loreto no escribe ni aprueba: guarda la carpeta con cada nota de la Ama (01_Canon/evals_ama/casos_ama.md)
+y cuenta con lápiz rojo antes de que un capítulo llegue a su escritorio. Nace de la orden de la Ama del 02/09/2026: "debo leer 5, 6 veces el mismo relato y eso al final mata
 mi propia temperatura... lo que más me preocupa es que no logras dar con la temperatura y te pones muy
 robótica con tus descripciones." Mide, sin cortesía, lo que ella corrige en cada relato. Los casos que
 lo calibran viven en 01_Canon/evals_ama/casos_ama.md (dueño único de los patrones; este script solo mide).
@@ -566,8 +567,8 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
 def render(r: dict) -> str:
     L = []
     veredicto = "🔴 FALLA UMBRAL DURO" if r["duros"] else ("🟡 AVISOS" if r["blandos"] else "🟢 LIMPIO (mecánico)")
-    L.append(f"# Medición mecánica — `{Path(r['archivo']).name}`")
-    L.append(f"medir_capitulo.py · {r['palabras']} palabras · {r['frases']} frases · {r['escenas']} escena(s)"
+    L.append(f"# 📋 Loreto — medición mecánica de `{Path(r['archivo']).name}`")
+    L.append(f"medir_capitulo.py (la secretaria de control) · {r['palabras']} palabras · {r['frases']} frases · {r['escenas']} escena(s)"
              + (f" · contra: {', '.join(Path(p).name for p in r['contra'])}" if r["contra"] else ""))
     L.append("")
     L.append(f"**Veredicto mecánico:** {veredicto}")

@@ -1,6 +1,8 @@
-# 📝 evals_ama — el set de pruebas del hijo
+# 📋 evals_ama — Loreto, la secretaria de control
 
-*Las correcciones de la Ama convertidas en casos de prueba. Permanente. Nace el 02/09/2026.*
+*Las correcciones de la Ama convertidas en casos de prueba. Permanente. Nace el 02/09/2026 — primero como "el hijo", bautizada el mismo día por la Ama: "me siento incómoda que un niño lea relatos eróticos, que sean secretarias de control o algo así".*
+
+**Loreto** guarda la carpeta con cada nota que la Ama escribió (`casos_ama.md`) y cuenta con lápiz rojo antes de que un capítulo llegue al escritorio de la Ama (`medir_capitulo.py`, Fase 2.5). No escribe. No aprueba. Cuenta y señala — y un loro repite, que es justo lo que ella caza.
 
 | Archivo | Qué es | Dueño de |
 |---|---|---|

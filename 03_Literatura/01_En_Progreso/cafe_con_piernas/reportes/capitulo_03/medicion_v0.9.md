@@ -1,5 +1,5 @@
-# Medición mecánica — `capitulo_03_el_minuto_feliz_v0.9.md`
-medir_capitulo.py · 9908 palabras · 624 frases · 7 escena(s) · contra: capitulo_02_la_segunda_persona_v0.8.md, capitulo_01_el_turno_de_prueba_v0.14.md
+# 📋 Loreto — medición mecánica de `capitulo_03_el_minuto_feliz_v0.9.md`
+medir_capitulo.py (la secretaria de control) · 9908 palabras · 624 frases · 7 escena(s) · contra: capitulo_02_la_segunda_persona_v0.8.md, capitulo_01_el_turno_de_prueba_v0.14.md
 
 **Veredicto mecánico:** 🔴 FALLA UMBRAL DURO
 

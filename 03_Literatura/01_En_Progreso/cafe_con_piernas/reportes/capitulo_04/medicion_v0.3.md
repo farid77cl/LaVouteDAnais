@@ -1,5 +1,5 @@
-# Medición mecánica — `capitulo_04_la_entrega_v0.3.md`
-medir_capitulo.py · 10145 palabras · 621 frases · 6 escena(s) · contra: capitulo_03_el_minuto_feliz_v0.9.md, capitulo_02_la_segunda_persona_v0.8.md
+# 📋 Loreto — medición mecánica de `capitulo_04_la_entrega_v0.3.md`
+medir_capitulo.py (la secretaria de control) · 10145 palabras · 621 frases · 6 escena(s) · contra: capitulo_03_el_minuto_feliz_v0.9.md, capitulo_02_la_segunda_persona_v0.8.md
 
 **Veredicto mecánico:** 🔴 FALLA UMBRAL DURO
 

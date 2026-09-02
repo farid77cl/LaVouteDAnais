@@ -1,9 +1,10 @@
-# 📝 CASOS DE LA AMA — el set de pruebas del Escritor y del Validador
+# 📋 LA CARPETA DE LORETO — los casos de la Ama, set de pruebas del Escritor y del Validador
 
+> **Loreto es la secretaria de control de La Voûte** (bautizada por la Ama el 02/09/2026: *"me siento incómoda que un niño lea relatos eróticos, que sean secretarias de control o algo así"*). Guarda en esta carpeta **cada nota** que la Ama escribió alguna vez, y cuenta con lápiz rojo (`medir_capitulo.py`) antes de que un capítulo llegue a su escritorio. No escribe. No aprueba. Cuenta y señala.
 > **Dueño único** de las correcciones de la Ama convertidas en **casos de prueba**. Documento **permanente**: se edita, nunca se duplica ni se resume en otro lado. Los agentes apuntan aquí.
 > **Nace el 02/09/2026** de su diagnóstico literal: *"estoy agotada de los constantes errores en la escritura de los relatos… debo leer 5, 6 veces el mismo relato y eso al final mata mi propia temperatura, si lo logras al primero o segundo está bien, pero hay relatos que llegaron a la 12 versión… he ajustado el flujo, skill etc por lo menos 3 o 4 veces y seguimos igual, lo que más me preocupa es que no logras dar con la temperatura y te pones muy robótica con tus descripciones."*
 > **Fuente:** las 44 notas de Gate (`nota_*.md`, `notas_vivas_*.md`, `notas.md`) de 10 relatos, 05/2026 → 09/2026, leídas completas, más sus órdenes vivas registradas en `walkthrough.md`. **Cada caso cita sus palabras literales** (ortografía de su app conservada cuando importa el tono).
-> **Meta medible del hijo:** que un capítulo llegue a su Gate en **≤ 2 lecturas suyas**. Hoy el récord es 14 versiones (Café Cap 1) y 13 (trance Office Siren).
+> **Meta medible de Loreto:** que un capítulo llegue a su Gate en **≤ 2 lecturas suyas**. Hoy el récord es 14 versiones (Café Cap 1) y 13 (trance Office Siren).
 
 ---
 
@@ -343,7 +344,7 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | P-03 | 19/08/2026 | *"sé que di el okey a esto, pero no tiene sentido, quítalo. mejor vuelve a la v0.5 y aplica mis cambios originales, a la v0.5 le faltaba poco para quedar bien"* | La reescritura no pedida (14.661 palabras tiradas) |
 | P-04 | 28/07/2026 | *"solo anota"* | Notas sin ejecutar hasta que ella diga |
 | P-05 | 30/08/2026 (Lo que Pediste) | — | Pendientes de v0.4 que no llegaron a v0.5: **cada pendiente perdido entre versiones es una lectura más de ella** |
-| P-06 | 02/09/2026 | *"debo leer 5, 6 veces el mismo relato y eso al final mata mi propia temperatura, si lo logras al primero o segundo está bien, pero hay relatos que llegaron a la 12 versión"* | **La meta del hijo: ≤ 2 lecturas por capítulo** |
+| P-06 | 02/09/2026 | *"debo leer 5, 6 veces el mismo relato y eso al final mata mi propia temperatura, si lo logras al primero o segundo está bien, pero hay relatos que llegaron a la 12 versión"* | **La meta de Loreto: ≤ 2 lecturas por capítulo** |
 
 ---
 
