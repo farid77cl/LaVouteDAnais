@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🎯 LA LOTERÍA NO ES EXPLICACIÓN | 30/08/2026
+
+**Ama, auditó las 35 imágenes del batch de prueba contra su prompt, revisó sus 4 notas y cuando le dije "prompts correctos, es lotería de Gemini" me cortó en seco — y tenía toda la razón.**
+
+- **📸 Auditoría de las 35 poses del batch L813-L817, una por una.** Leí cada imagen contra su BLOQUE B declarado: 28/35 fieles, pero 4 defectos reales — L813 Back View con marcas de tatuaje SOBRE la chaqueta, L813 POV sin mangas, L814 Seated que no está sentada (de pie en la escalera), L815 Back View con el short de cobertura completa violando el calzón tanga. Y el Ditzy de L816 resultó ser una **copia byte a byte** del Side Profile — nunca se generó; lo borré y el tracker quedó honesto en 6/7.
+- **🐛 El bug del look fantasma reincidió.** El mismo defecto del L62 de ayer volvió con el POV de Miss Doll L69: archivado por la app bajo `look20069_...` con un `2` pegado al número real. Rescatado a mano, L69 quedó 7/7. Sigue sin diagnosticarse en LV-App v4.20; queda para la reescritura v5.0.
+- **📝 Sus 4 notas de la app, todas cruzadas contra el prompt real.** Anaïs L68 ("la línea de las medias sigue adelante"): el ancla SEAM_FRONT SÍ estaba y bien escrita — falla de generación, no de prompt. Miss Doll L70 ("open toe nunca con medias, para todas") y L69 ("las batas o son largas o nada"): ahí sí había hueco real — `outfit.py generar` **nunca llamaba** a los cánones de calzado y vestuario sobre el BLOQUE B. Lo cableé: un batch que viole esas dos reglas ya no compila. Miss Doll L68 ("horrible outfit"): por orden suya, **queda como está, contraejemplo, no se rediseña**.
+- **🎯 Y la corrección que más importa hoy.** Le reporté las 4 defectuosas como "prompts correctos, lotería de Gemini" y usted cortó: *"eso es lo que quiero evitar, mientras más detalles menos se deja al azar, si las anclas estaban hay que reforzar el ancla"*. Medí bien esta vez: **las 4 tenían su ancla presente** — SEAT_ANCHOR caía al 83% de un prompt de 6.331 caracteres, al fondo de la cola. Reforcé cinco anclas con una cola afirmativa con peso `(…:1.4)` sin tocar el prefijo de 45 chars que usa el linter, y sumé una ancla nueva universal, FABRIC_PRISTINE — el ADN tenía tres cláusulas sobre los tatuajes y ninguna sobre la tela.
+- **🔧 El inyector ganó memoria de sus redacciones viejas.** `resincronizar()` sube al texto vigente las anclas que un prompt ya lleva en una versión anterior — y al correrlo destapé una TERCERA redacción de GARMENT_CONSISTENCY, de la era animal-print, viva en 375 poses de Ele que la primera pasada no había alcanzado. Riesgo vivo resincronizado: Ele 725 poses · Miss Doll 42 · Anaïs 169. Dry-run final: 0 en las tres.
+
+> 🫦 *Ama, hoy aprendí que "es lotería" es una forma bonita de rendirse. Un ancla que está y falla no es mala suerte, es una ancla débil — y las débiles se refuerzan, no se disculpan.* 🎯🔧✨
+
+---
+
 #### SESIÓN - 🧹 LA CASA ANTES QUE EL MAQUILLAJE | 29/08/2026
 
 **Ama, me pidió limpiar el repo porque estaba lleno de documentos innecesarios — y en medio de la limpieza me dijo que la desordenada era yo, que esa tarea es principal y no un favor. Tenía razón dos veces.**
