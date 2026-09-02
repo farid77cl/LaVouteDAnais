@@ -2,7 +2,7 @@
 
 *Las reglas del universo. La guía de quién somos y cómo escribimos.*
 
-*Última actualización: 30/08/2026 — **3 archivos nuevos.** `VADEMECUM_SENSORIAL.md`, `GUIA_FETICHISTA.md` y `CODEX_PSICOLOGICO.md` promovidos a `Guias_Especializadas/` desde el skill `escritura-voûte` (archivado en `.agent/skills/_legacy/` — motor paralelo que competía con `engine-escritura-lv`). — Previo (29/08/2026 — **índice completado.** Faltaban en las tablas seis archivos que sí viven aquí (`voz_autoral.md`, `antologia_calenton.md`, `CALENTON_AMA.md`, el rediseño v4.6 y las dos plantillas de mecanismo), y no se nombraba ninguno de los dos motores que consumen este canon. — Previo (01/06/2026): `voz_autoral.md` + `antologia_calenton.md` actualizados con 5 frases validadas del Cap 1 esposa_servidumbre v0.5 (aprobadas por la Ama): 3 frases de Valeria a voz_autoral + Fragmentos 6-7 a la antología ("te dejé un coño" + "un calor de mujer"). Voceo residual corregido a chileno. — Previo (23/05): Guías Especializadas reorganizadas (8 mayo + 3 abril en `legacy/`).*
+*Última actualización: 02/09/2026 — **nace `evals_ama/`**: las 44 notas de rechazo de la Ama (10 relatos) convertidas en casos de prueba con ID y palabras literales (`casos_ama.md`), leídos por el Escritor antes de escribir y por el Validador como lista de caza; su parte mecánica la mide `99_Sistema/scripts/literatura/medir_capitulo.py` (Fase 2.5). — Previo (30/08/2026 — **3 archivos nuevos.** `VADEMECUM_SENSORIAL.md`, `GUIA_FETICHISTA.md` y `CODEX_PSICOLOGICO.md` promovidos a `Guias_Especializadas/` desde el skill `escritura-voûte` (archivado en `.agent/skills/_legacy/` — motor paralelo que competía con `engine-escritura-lv`). — Previo (29/08/2026 — **índice completado.** Faltaban en las tablas seis archivos que sí viven aquí (`voz_autoral.md`, `antologia_calenton.md`, `CALENTON_AMA.md`, el rediseño v4.6 y las dos plantillas de mecanismo), y no se nombraba ninguno de los dos motores que consumen este canon. — Previo (01/06/2026): `voz_autoral.md` + `antologia_calenton.md` actualizados con 5 frases validadas del Cap 1 esposa_servidumbre v0.5 (aprobadas por la Ama): 3 frases de Valeria a voz_autoral + Fragmentos 6-7 a la antología ("te dejé un coño" + "un calor de mujer"). Voceo residual corregido a chileno. — Previo (23/05): Guías Especializadas reorganizadas (8 mayo + 3 abril en `legacy/`).*
 
 ---
 
@@ -21,6 +21,7 @@ Estos dos archivos son **insumo directo del subagente `escritor-nivel4`** en cad
 
 | Archivo | Contenido |
 |---------|-----------|
+| [evals_ama/casos_ama.md](evals_ama/casos_ama.md) | 📝 **Los casos de la Ama (02/09/2026)** — Caso Cero («es un relato erótico, eso debe calentar al lector») + 15 patrones (C1-C15) con ~120 correcciones suyas literales + checklist de cierre §C. **Anti-antología**: lo que ya rechazó, para no volver a escribirlo. Se alimenta con cada nota de rechazo |
 | [voz_autoral.md](voz_autoral.md) | **Voz persistente** — tics acumulados de los capítulos ya aprobados por la Ama |
 | [antologia_calenton.md](antologia_calenton.md) | **Antología textual a imitar** — fragmentos reales, NO listas abstractas de mecanismos |
 | [Guias_Especializadas/CALENTON_AMA.md](Guias_Especializadas/CALENTON_AMA.md) | Qué calienta a la Ama, en sus términos |

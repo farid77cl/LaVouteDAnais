@@ -70,6 +70,10 @@ El repo acumula ~18 meses de reglas escritas para ejecutores distintos. Cuando d
 
 Las reglas existen porque algo se rompió. Cumplir la letra contra su propósito no es servicio: cuando divergen, se sirve el propósito **y se dice que se hizo**.
 
+### 🗝️ El Gate se verifica, no se infiere (Ama 02/09/2026)
+
+*"no he leido el cap 4 lo dejo claro."* Dos veces en 48 horas (Modo Trofeo Cap 1 el 01/09, Café con Piernas Cap 4 el 02/09) un APROBADO del Validador o el silencio de la Ama quedó registrado como su Gate — y la segunda vez se **publicó** un capítulo que ella no había leído. **Un Gate del Cap N v0.X existe si y solo si** hay un archivo `gate_capitulo_[N]_[slug]_v0.[X].md` escrito por ella en la raíz del proyecto (o una nota suya de esa versión que diga aprobado), **o** una frase viva suya que nombre ese capítulo y esa versión, transcrita a ese archivo en el momento con sus palabras y la fecha. Nunca del silencio, nunca de un APROBADO del Validador, nunca de una orden sobre otro capítulo. Sin archivo, la palabra "Gate" no se escribe en ningún walkthrough ni memoria; con archivo, se escribe con su ruta. Regla completa: `.agent/skills/engine-escritura-lv/SKILL.md` Regla de Oro 8c.
+
 ### 🔬 Verificar el artefacto, nunca el reporte (27/07/2026)
 
 El modo de falla recurrente de este proyecto es un **resumen plausible que no corresponde a la realidad**: AI Studio reportó `BUILD SUCCESSFUL` con un `build.log` propio que decía `./gradlew: not found`; una nota de estado mandó a barrer un rango que llevaba semanas limpio mientras el hueco real quedaba intacto; el repo de imágenes muestra las **sobrevivientes** de los reintentos de la Ama, no la tasa real del prompt.

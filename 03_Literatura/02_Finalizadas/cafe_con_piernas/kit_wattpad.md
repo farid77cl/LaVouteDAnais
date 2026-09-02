@@ -16,8 +16,8 @@
 | **Categoría** | **Ficción General** |
 | **Rating** | 🔴 **Mature** — obligatorio |
 | **Copyright** | Todos los derechos reservados |
-| **Estado** | Marcar **Completa** al subir la parte 4 |
-| **Partes** | 4 (~44.200 palabras) |
+| **Estado** | Marcar **Completa** al subir la parte 4 — ⚠️ **la parte 4 NO está lista (02/09/2026):** la Ama no ha leído el Cap 4; volvió a `01_En_Progreso/` sin Gate. Publicar solo partes 1-3 hasta que ella lo apruebe. |
+| **Partes** | 4 (~44.200 palabras) — **3 publicables hoy** |
 
 ---
 
@@ -70,7 +70,7 @@ Si sigues: bienvenida a La Voûte.
 | 1 | **Capítulo 1 — Mi Primer Turno** | [capitulo_1_mi_primer_turno.md](capitulo_1_mi_primer_turno.md) | [Banner Cap 1](prompts_portada.md) |
 | 2 | **Capítulo 2 — Entrenada para Servir** | [capitulo_2_entrenada_para_servir.md](capitulo_2_entrenada_para_servir.md) | [Banner Cap 2](prompts_portada.md) |
 | 3 | **Capítulo 3 — El Minuto Feliz** | [capitulo_3_el_minuto_feliz.md](capitulo_3_el_minuto_feliz.md) | [Banner Cap 3](prompts_portada.md) |
-| 4 | **Capítulo 4 — La Entrega** | [capitulo_4_la_entrega.md](capitulo_4_la_entrega.md) | [Banner Cap 4](prompts_portada.md) |
+| 4 | **Capítulo 4 — La Entrega** | ⏳ **EN PROGRESO, SIN GATE** (02/09/2026) → [`01_En_Progreso/cafe_con_piernas/capitulo_04_la_entrega_v0.3.md`](../../01_En_Progreso/cafe_con_piernas/capitulo_04_la_entrega_v0.3.md) — el archivo publicado se retiró de esta carpeta | [Banner Cap 4](prompts_portada.md) (prompt listo, no usar todavía) |
 
 Los cuatro títulos internos son publicables tal cual — ninguno dispara el filtro de listados públicos de Wattpad (a diferencia del caso «De Esteban a Secretaria», donde el título interno del Cap 2 tuvo que cambiarse).
 
