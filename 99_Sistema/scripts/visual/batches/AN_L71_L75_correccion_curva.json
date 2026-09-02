@@ -1,0 +1,85 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_step_0": "Conteo desde Look 41 (reinicio de cuota, perfil §6), cumulativo hasta L70 inclusive = 30 looks: Boudoir/Lenceria 10 (33.3% real vs meta 27% -> SATURADO) · Noche 8 (26.7% vs 33% -> deficit) · Latex 6 (20.0% vs 20% -> en meta) · Ejecutivo 3 (10.0% vs 7% -> superavit) · Sesion Literaria 3 (10.0% vs 13% -> deficit). Asignacion greedy look-a-look (recalculando el deficit tras cada uno, target%*n_acumulado vs conteo real): L71 Noche, L72 Noche, L73 Sesion Literaria, L74 Noche, L75 Latex. Boudoir y Ejecutivo quedan en CERO por estar saturados. Estado final proyectado a n=35: Noche 11 (31.4%) · Boudoir 10 (28.6%) · Latex 7 (20.0%, exacto) · Literaria 4 (11.4%) · Ejecutivo 3 (8.6%) -- converge hacia las cinco metas sin sobrecorregir ninguna.",
+  "_canon": "Calzado 12cm stiletto SIN plataforma, suela roja, uno de los 9 estilos del perfil §5.3; puntera CERRADA obligatoria en todo look con medias. Guantes permitidos (a diferencia de Ele). Solo vestido/gown/catsuit, piernas cerradas en pose estatica (DRESS_LEG_CLOSURE la dispara el motor solo con nombrar dress/gown/skirt/robe). Sin tatuajes ni piercings, honey blonde y lunar los pone el Bloque A. Silueta de Noche tomada de la biblioteca D1-D11 (perfil §5.6a), evitando D8/D11/D1 usadas en L60/L66/L69 (ventana de 3). Pieles: cuota >=1/4 nuevos -- cumplida en L72 (vison, tipo no usado en la aparicion inmediatamente anterior que fue zorro plateado en L69). Animal print NO vencido (aparicion reciente en L68) -- no se fuerza en este batch.",
+  "personaje": "anais",
+  "batch": "Correccion de Curva -- Noche, Literaria y Latex",
+  "fecha": "02/09/2026",
+  "categoria": "Mix",
+  "rango": "L71-L75",
+  "tags_comunes": ["batchL71-L75", "V7poses"],
+  "emitir_bloque_b": true,
+  "negative_extra": "modern clothing, contemporary fashion, sneakers, platform sole, chunky heel, bare midriff, neon colours, glitter, tattoos, piercings, bimbo makeup, hot pink lips, playful expression, broad smile",
+  "looks": {
+    "71": {
+      "titulo": "Granate Strapless en el Comedor Privado",
+      "codigo": "N5",
+      "polo": "Noche / La Voûte",
+      "concepto": "Deficit de Noche (mayor gap de la curva). Silueta D6 Strapless Sweetheart, inedita en la ventana de los ultimos 3 looks de Noche (D8, D11, D1). Bota a la rodilla, fresca frente a D'Orsay/pump usados en L60/L66/L69.",
+      "bloque_b": "a deep garnet red heavy silk-velvet strapless gown with a boned sweetheart bodice, no straps, the shoulders left completely bare, a floor-length fitted skirt with a slim back kick-pleat that opens only when she walks and lies closed and straight when she stands still; sheer black nylon stockings with a fine back seam; 12cm black patent leather knee-high stiletto boot ending exactly at the knee, iconic red sole; black opera-length satin gloves drawn above the elbow; a garnet and antique-gold collar necklace sitting high on the throat and matching drop earrings; a small antique-gold lacquered clutch held at the hip",
+      "setting": "a private dining salon at La Voûte after hours, a long mahogany table still dressed in crystal and silver, dark garnet silk-papered walls, a carved mahogany fireplace at one end of the room, a low brass chandelier throwing warm hard-edged light across the velvet, a decanter left half-empty",
+      "props": {
+        "seat": "a high-backed dining chair upholstered in oxblood velvet",
+        "wall": "the garnet silk-papered dining wall",
+        "surface": "the long mahogany dining table",
+        "upright": "the carved mahogany fireplace mantel"
+      }
+    },
+    "72": {
+      "titulo": "Visón Castaño en la Cava",
+      "codigo": "N6",
+      "polo": "Noche / La Voûte",
+      "concepto": "Segundo look de Noche del lote. Silueta D4 Halter Backless Gown, distinta de la D6 del look anterior. Cumple la cuota de piel (>=1/4 nuevos): vison castano, tipo no repetido respecto a la aparicion inmediatamente anterior (zorro plateado, L69). Bota sobre rodilla, fresca frente al resto de la ventana de Noche.",
+      "bloque_b": "a black liquid-satin halter-neck gown with a structural boned bodice, the entire back left bare to the waist, a floor-length hem falling straight to the floor; no stockings, bare legs; 12cm black patent leather thigh-high over-the-knee stiletto boot, iconic red sole; a chestnut-brown mink stole draped over one shoulder and caught loosely at the opposite elbow, the tightlaced waist and the bare back clearly visible beneath it; a slim diamond collar sitting close at the throat; long stiletto-shaped manicured nails in deep black-cherry lacquer",
+      "setting": "a subterranean wine cellar beneath La Voûte, stone archways receding into shadow, wine racks reaching to the vaulted ceiling, a single hanging lantern throwing hard chiaroscuro across the stone, the cork-and-must smell of old vintages in the air",
+      "props": {
+        "seat": "a wine barrel repurposed as a low stool",
+        "wall": "a stone archway lined with wine racks",
+        "surface": "a rough oak tasting table",
+        "upright": "one of the stone archway's columns"
+      }
+    },
+    "73": {
+      "titulo": "Esmeralda y Pluma de Oro en la Biblioteca",
+      "codigo": "SL1",
+      "polo": "Sesión Literaria",
+      "concepto": "Deficit de Sesion Literaria. Silueta nueva (wrap dress cerrado) distinta de las ultimas tres (kimono abierto L49, gown de cowl trasero L53, wrap robe con punos de piel L59). Rompe tambien la repeticion de boquilla de plata en las tres apariciones previas -- pluma fuente en su lugar. D'Orsay, fresco frente al pump (L49) y la bota a la rodilla repetida en L53/L59.",
+      "bloque_b": "a deep emerald silk-velvet wrap dress with a plunging V neckline, cinched at the waist with a matching self-tie sash that keeps the tightlaced waist visible, a floor-length skirt with a front overlap that stays closed when she stands or sits; sheer black nylon stockings with a fine back seam; 12cm black patent leather D'Orsay stiletto pump with open sides and a closed pointed toe, iconic red sole; black cat-eye reading glasses with a delicate rhinestone-tipped frame low on the nose, a slim gold fountain pen held loosely between two fingers with its nib resting against an open page, a single strand of pearls at the throat; long oval manicured nails in deep emerald lacquer",
+      "setting": "a private library annex off her study at La Voûte, floor-to-ceiling shelves reached by a rolling brass ladder, an antique globe on a stand, a low fire glowing in the hearth, the warm lamplight pooling over an open book",
+      "props": {
+        "seat": "a worn leather wingback chair beside the hearth",
+        "wall": "the floor-to-ceiling library shelves",
+        "surface": "a round reading table stacked with books",
+        "upright": "the rolling brass ladder"
+      }
+    },
+    "74": {
+      "titulo": "Ónix Negro en el Balcón del Salón",
+      "codigo": "N7",
+      "polo": "Noche / La Voûte",
+      "concepto": "Tercer y ultimo look de Noche del lote, cierra el deficit mayor. Silueta D2 Wiggle Dress, distinta de D6/D4 ya usadas en este mismo batch y de D8/D11/D1 de la ventana previa. Mary Jane, fresco frente a los tres estilos ya usados en L71/L72 y en la ventana previa.",
+      "bloque_b": "a black duchesse satin wiggle dress, knee-length, fitted sharply through the hip with a narrow pencil skirt hem, a structured off-the-shoulder neckline baring both shoulders; sheer black nylon stockings with a fine back seam; 12cm black patent leather stiletto Mary Jane pump with a delicate ankle strap, iconic red sole; black elbow-length suede gloves; a triple strand of black onyx beads at the throat and matching drop earrings; a small black lacquer clutch held at the hip",
+      "setting": "the ballroom balcony of La Voûte overlooking the dance floor below, a wrought-iron balustrade, a single chandelier's glow rising up from the room beneath, the murmur of the party carrying up through the dark",
+      "props": {
+        "seat": "a velvet bench set against the balcony rail",
+        "wall": "the balcony's carved stone balustrade",
+        "surface": "a round cocktail table at the balcony's edge",
+        "upright": "a fluted iron column of the balcony"
+      }
+    },
+    "75": {
+      "titulo": "Gris Gunmetal en el Atelier de Pruebas",
+      "codigo": "L6",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Latex en su meta exacta (20%); este look la sostiene sin sobrepasarla. Silueta de vestido sheath integral, distinta de las ultimas tres apariciones de Latex (catsuit con panel de piton L58, catsuit+corse superpuesto L67, corse+falda separada L70). Color gunmetal, inedito en el arquetipo. Bota bajo rodilla, fresca frente a la bota sobre rodilla y los dos pumps de la ventana previa.",
+      "bloque_b": "a fitted gunmetal-grey high-shine clinical-grade latex sheath dress with a structured integrated corset seam cinching the tightlaced waist, a high halter collar, a thigh-high side slit that opens with movement and lies closed and demure when she stands still, a fine silver zipper running the length of the spine; no stockings, bare legs beneath the hem; 12cm black patent leather mid-calf stiletto boot ending below the knee, iconic red sole; black opera-length latex gloves to the elbow; a slim gunmetal choker with a center ring; predatory calculating calm gaze, danger worn as elegance",
+      "setting": "a private fitting atelier at La Voûte, floor-to-ceiling mirrored walls doubling the room, a raised velvet fitting platform at its center, a wrought-iron spiral stair curling up to the mezzanine, a single hard spotlight from directly above",
+      "props": {
+        "seat": "the raised velvet fitting platform",
+        "wall": "a floor-to-ceiling mirrored wall",
+        "surface": "a marble fitting table",
+        "upright": "the wrought-iron spiral stair rail"
+      }
+    }
+  }
+}

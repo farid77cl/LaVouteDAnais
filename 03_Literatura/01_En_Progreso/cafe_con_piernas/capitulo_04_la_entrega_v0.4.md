@@ -144,7 +144,7 @@ Se las apretó una contra la otra y la raya del medio se le hizo honda, y la man
 
 Esa cuenta la dobló. La mano bajó sin que la mandara, por el vientre, bajo el calzón, y el coño estaba empapado desde antes de sacarse la faja, desde la primera vez que las sintió pesar en las palmas. Se metió los dedos y los sacó brillando. Se los volvió a meter. Con la otra mano se agarró el pezón derecho entre el pulgar y la uña, justo en el sitio donde sentía doble, y lo retorció mirándose.
 
-*Quince. Quince pagando de a luca por mirarme un triángulo que no va a aguantar. Esperando que se me salga el pezón. Y se me va a salir. Lo voy a dejar salir. Don Manuel, Felipe, Ignacio, el de la corbata torcida, todos me pagaron esto sin saber, y mañana lo pagan de nuevo, y pasado, y ninguno me las va a tocar gratis nunca.*
+*Quince. Quince pagando de a luca por mirarme un triángulo que no va a aguantar. Esperando que se me salga el pezón. Lo voy a dejar salir yo. Don Manuel, Felipe, Ignacio, el de la corbata torcida, todos me pagaron esto sin saber, y mañana lo pagan de nuevo, y pasado, y ninguno me las va a tocar gratis nunca.*
 
 Tres dedos. Se oyó a sí misma en el baño vacío, un ruido de agua y de boca abierta rebotando en los azulejos, y no bajó el volumen. Las tetas nuevas se le movían apenas con el ritmo de la mano de abajo, duras, torpes, todavía sin saber moverse, y ella no les sacó los ojos de encima. *mías. mías. mírenme.*
 
@@ -344,7 +344,7 @@ Arriba Marcela se sacó la chaqueta, la dobló sobre el respaldo, y se sentó en
 
 —Sácate todo.
 
-Cupcake se llevó las manos a la nuca y deshizo el nudo, y los triángulos cayeron, y se desató el de la espalda, y el bikini se le fue por las piernas hasta las plataformas. Se bajó la tanga. Las Pleaser se las dejó puestas: nadie le dijo que se las sacara, y con los pies planos en esa alfombra no habría sabido qué hacer con el cuerpo. Se quedó de pie en la alfombra, desnuda bajo la ampolleta roja, con la liga cargada en el muslo y la marca del acero cruzándole la cadera, y esperó una frase suya que no llegó, porque no tenía ninguna para esto.
+Cupcake soltó el nudo del cuello con dos dedos, dejó que la tela se le viniera abajo sola, desató el lazo de la espalda con la otra mano, y el bikini entero se le fue por las piernas hasta las plataformas. Se bajó la tanga. Las Pleaser se las dejó puestas: nadie le dijo que se las sacara, y con los pies planos en esa alfombra no habría sabido qué hacer con el cuerpo. Se quedó de pie en la alfombra, desnuda bajo la ampolleta roja, con la liga cargada en el muslo y la marca del acero cruzándole la cadera, y esperó una frase suya que no llegó, porque no tenía ninguna para esto.
 
 *No tengo nada que decirle. Ninguna de las mías le sirve.*
 
@@ -387,3 +387,189 @@ Cupcake no se movió del cuero. Las piernas abiertas todavía, el coño empapado
 Se mojó de nuevo, ahí sentada, con la pura idea, y no se preguntó nada más. Se ató el bikini en la nuca, se subió la tanga sobre el muslo mojado, y el triángulo izquierdo, al enderezarse, se corrió solo y dejó el aro afuera, y lo dejó así. Contó el billete del cuero antes de guardarlo: veinte. Exacto, como la caja.
 
 Bajó con la liga a punto de reventar de billetes contra el muslo y las rodillas sin recuperarse del todo, y en el último escalón el beat le subió por las plataformas y le puso el paso en su sitio antes de pisar el salón. Quedaba una hora para cerrar. Llevaba cincuenta y tres. Apoyó las caderas en el acero, el filo le encontró solo la marca rosada de la mañana, y empezó otra vez a contar.
+
+Felipe entró cuando ya no quedaba nadie apoyado en el acero.
+
+Lo reconoció en el espejo del fondo antes de darse vuelta, porque a Felipe se le reconocía por lo que le faltaba: los hombros que no le llenaban la camisa, el cuello fino saliendo de un nudo de corbata que se había hecho él solo y mal, y esa manera de cruzar el vidrio mirando el piso, como si el local le hubiera dado permiso una vez y él siguiera sin creérselo. Su hora eran las diez y veinte. Capuchino, seis mil por un café de mil ochocientos, y el vuelto que nunca aceptaba. Faltaba menos de una hora para bajar la cortina y ahí estaba, fuera de su hora, con las manos en los bolsillos y los ojos en el piso hasta que los levantó.
+
+Los levantó hasta el escote y ahí se le acabó el camino.
+
+*Vuelve, chiquito. Vuelve con más.* Se lo había dicho al oído la última vez, con las tetas de antes. Y había vuelto.
+
+Cupcake lo dejó mirarla desde la puerta. No se dio vuelta entera: giró el torso lo justo para que la izquierda le quedara por delante, con el triángulo a medias y el aro tomando el magenta, y vio abrirse esas pestañas largas que no le debían nada al rímel, y vio la boca de Felipe moverse para pedir perdón por mirar antes de que nadie se lo reprochara. Nadie se lo reprochó. A ella el pezón le contestó debajo de la tela, y dio el primer paso hacia la máquina dejando que el triángulo se corriera un dedo más con el movimiento del hombro.
+
+No le habló. Se le paró enfrente, del otro lado del acero, y se dobló a buscar la taza del estante bajo despacio, con la raya del medio abierta hacia él, y dejó que el perfume llegara antes que cualquier otra cosa. Lo vio recibirlo. Vio que cerraba la boca y tragaba. Después se enderezó, le dio la espalda entera y se puso a hacerle el capuchino sin preguntarle, porque a Felipe nunca hacía falta preguntarle nada: arqueada, con el elástico de la tanga hundido entre las nalgas y el peso nuevo tirándole la espalda hacia atrás, golpeó el portafiltro y sintió la mirada del chico caerle en el culo y quedarse ahí, sin atreverse a subir.
+
+*Mírame el culo, chiquito. Ahí sí te atreves. Mientras te doy la espalda me miras entero, y cuando me doy vuelta no sabes dónde poner los ojos. Yo sí sé dónde ponértelos.*
+
+La leche chilló. No volvió por el camino corto: dio la vuelta entera por el lado largo, sin apuro, con la taza en la mano y el aro asomando a cada paso de las plataformas, y lo vio seguirla con la cabeza como se sigue una cosa que se va a caer. Le dejó el capuchino delante y no lo soltó. Se dobló. La boca le quedó a un dedo de la oreja de Felipe, y antes que la voz le llegó el aliento, tibio, con el olor de la espuma, y ella lo vio erizarse desde el cuello hasta el nudo mal hecho.
+
+—Viniste fuera de tu hora, mi amor. —Más bajo que la música, con el labio rozándole el borde de la oreja—. A las diez y veinte te habría hecho esperar detrás de tres, y te habrías tomado el capuchino mirándome de reojo, y te habrías ido con la cara roja y el pantalón así como lo tienes ahora. Sí, así. Lo veo desde aquí, chiquito, no tienes que taparlo con la mano. Ahora no hay nadie. Ahora yo tengo todo el tiempo del mundo para dejarte mirar lo que me hice mientras tú venías todas las mañanas a mirar lo otro. Mira. No a mí. A estas.
+
+Se enderezó lo justo para que le quedaran a la altura de la boca, los dos triángulos, el izquierdo con el aro afuera, y las manos finas de dedos largos que ella le había mirado más que la cara se le pusieron blancas en el borde del acero.
+
+—¿Te gustan?
+
+—Sí. —Le salió de la garganta—. Sí. Perdón.
+
+*Perdón. Me pide perdón por mirar lo que me compré para que me mirara. Me lo pagó él, de a seis lucas, y me pide perdón.*
+
+La billetera estaba sobre el acero. La había sacado al llegar, como siempre, cerrada, con el canto de los billetes asomando, lista para dejar seis por mil ochocientos, y la mano fina encima cuidándola. Cupcake la miró y no la tocó. No la quería. Esa noche no quería lo que había adentro.
+
+Lo que quería estaba detrás del vaporizador.
+
+Se estiró a buscarlo. Rosado, tibio todavía en el sitio de siempre, servido desde la mañana sin que ella lo hubiera tocado, y al cerrar los dedos en el vidrio el coño le contestó antes que la cabeza, un golpe hondo, el mismo de cuando el hombre nuevo dijo *me dijeron que acá había una que*. Lo puso delante de Felipe, al lado del capuchino que no había tocado.
+
+—Antes del café. Tómatelo entero, mi amor. Sin dejar ni la mitad.
+
+Felipe miró el vaso y la miró a ella, buscándole en la cara el permiso que buscaba para todo, y ella se lo dio con el mentón. Lo levantó. Se lo tomó en tres tragos largos, con el cuello fino subiendo y bajando, y al dejarlo vacío arrugó la nariz.
+
+—Es dulce.
+
+—Ya sé.
+
+Y ella lo vio bajar.
+
+No tuvo que esperarlo. Antes de que él alcanzara a estirar la mano hacia el capuchino, los dedos le soltaron el borde del acero, uno detrás del otro, y se le quedaron abiertos sobre el metal como si les hubieran sacado el peso de encima. Los hombros le bajaron y por primera vez desde que ella lo conocía la camisa dejó de quedarle grande: se asentó. La cara dejó de trabajar. Toda esa cara que nunca descansaba, pidiendo permiso, calculando dónde poner los ojos, se le quedó quieta, y los ojos le cayeron a las tetas de frente, sin el salto de siempre hacia arriba a ver si ella lo había pillado, y se quedaron en el aro, y no pidieron perdón. Respiró por la boca. Cupcake le vio la lengua pasarle por el labio de abajo, lenta, esa lengua que hasta entonces Felipe no había usado con ella más que para dar las gracias. Y cuando habló le salió la voz de otro: un tono más abajo, sin la subida de pregunta al final.
+
+—Ven para acá.
+
+A Cupcake el cuerpo le contestó antes de que la cabeza terminara de oírlo: la tanga se le pegó de golpe, entera, y el pezón que estaba afuera se le puso tan duro que el aro se levantó solo. La cabeza llegó después y esta vez no le puso número. *Funciona. Así se ve desde este lado. Así me vieron a mí.*
+
+*Y tú. No pongas esa cara, si tú también tienes uno servido, tibio, en el sitio donde te lo dejaron sin decirte nada, y no lo has visto porque nunca lo buscaste. Da lo mismo. El cuerpo ya lo sabe: por eso se te acaba de secar la boca. Cuando ella te diga entero, te lo tomas entero.*
+
+Se inclinó sobre el acero, como él le había dicho. Y Felipe le puso la mano en la nuca. Sin pedir. Los dedos largos se le cerraron en el pelo platinado, firmes, y le bajaron la cara hasta la de él, y la besó en la boca, la boca que no estaba en la carta, con la lengua dulce del vaso y sin apuro, mientras la otra mano le entraba por debajo del triángulo y le tomaba la teta entera, y los dedos le fueron solos al borde del aro, como si el vaso le hubiera dicho dónde, y apretaron ahí.
+
+Cupcake gimió dentro de la boca de él. En la barra, con el vidrio dando al pasaje y la cortina de metal todavía arriba, con la boca de un cliente pegada a la suya y la mano de ese cliente donde la barra no dejaba tocar, y el coño se le cerró de un tirón de solo pensar que cualquiera podía pasar por el pasaje y verla así.
+
+—Sube —dijo Felipe contra sus labios—. Ahora.
+
+—Se paga en la caja, chiquito. Antes.
+
+—Sube.
+
+Recogió la billetera del acero sin mirarla y se la metió en el bolsillo de atrás, y Cupcake pasó por delante de la caja sin detenerse y no miró quién la veía pasar.
+
+En la escalera él subió detrás y no tropezó. Le puso la mano abierta en la nalga en el segundo peldaño, la mano entera, y no la sacó: la subió así, empujándola, con el pulgar metido bajo el elástico de la tanga, y ella sintió cada peldaño en la palma de él y no los contó. Corrió la cortina y no miró el reloj de arriba de la puerta.
+
+La ampolleta roja les lavó el color a los dos y Felipe no se sentó.
+
+Se quedó de pie en la alfombra, con los hombros que ahora sí llenaban la camisa, y la miró de frente, boca con boca gracias a las plataformas, y le dijo:
+
+—Sácatelo.
+
+La voz de abajo se lo contestó antes que ella: *sí.* Encontró el nudo del cuello sin mirarlo y tiró del extremo suelto: los triángulos le cayeron a la cintura y las tetas quedaron en la luz roja, altas, con los aros y la costura de abajo, y Felipe no hizo el ruido que hacían todos. Las miró como se mira lo que ya es de uno. Se acercó, y ella, por costumbre, le tomó la muñeca para llevarle la mano al sitio, al borde del aro derecho donde sentía el doble, y él se dejó llevar, y cuando la mano llegó no la usó: bajó la cara y le puso la boca ahí, exactamente ahí, donde ella le había puesto la mano, y chupó.
+
+Chupó sin apuro. Con la lengua alrededor del aro, tirando del metal despacio, los dientes apenas, sin mirar la cortina, sin preguntar cuánto valía, como si tuviera la noche entera, y la tuvo, porque ella no miró el reloj. Cupcake le hundió las uñas en el pelo. El tirón le bajaba del pezón al coño en una línea derecha, un hilo caliente que la mano de él encontró abajo sin buscar: le corrió la tanga a un lado con el índice y le metió los dedos hasta el fondo, largos, y estaba tan mojada que entraron sin ruido, y ahí sí se oyó ella, un gemido largo, sin adorno, que no era para vender.
+
+*Me está metiendo los dedos Felipe. Felipe, el de las seis lucas, el que me pedía permiso para mirarme el escote. Me tiene abierta con la mano y no me preguntó nada.* Y abajo: *más.*
+
+—Mírame las tetas —le dijo ella, y la voz le salió sin la dulzura de la barra—. Míralas bien, chiquito. Estas se pagan solas.
+
+Felipe levantó la cara del pezón mojado, con el aro brillando entre los labios, y se las miró de frente, largo, con la lengua todavía afuera.
+
+—Se ven compradas.
+
+Se lo dijo así, con la voz nueva, la de un tono más abajo, mirándoselas, sin pedir perdón. Y a ella el coño se le cerró sobre los dedos de él con esa palabra, *compradas*, dicha por la boca que hasta esa tarde le daba las gracias.
+
+—Son compradas —dijo—. Con la plata que me dejaste tú, mi amor. Seis lucas cada mañana por mirármelas chiquitas de reojo y pedirme perdón. Tú las pagaste sin saber, capuchino a capuchino, y mírate ahora: con la boca en el aro y los dedos adentro mío, sin pedir permiso. Así te quería. Así las quería yo: que no le cupieran a nadie en los ojos. Ni a ti.
+
+Él le sacó los dedos y se los llevó a la boca, y los chupó mirándola. Después se desabrochó el cinturón él solo, sin dejar de mirárselas, y se bajó el pantalón, y la verga le salió parada contra el vientre, larga como el resto de él, con la punta oscura brillando en el rojo. Se sentó en el cuero con las piernas abiertas y le tendió la mano, la palma arriba, y no dijo por favor.
+
+—Ven.
+
+Cupcake no se sacó las Pleaser. Se corrió la tanga a un lado con la uña y se subió al sillón con una rodilla a cada lado de él, y no bajó de a poco: se sentó. De una sola vez, hasta el fondo, y el coño se la tragó entera con un ruido mojado y el aire se les fue a los dos al mismo tiempo.
+
+*Adentro. Felipe adentro, hasta el fondo, en el mismo cuero donde hoy hice ochenta y cinco sin que nadie me la metiera.*
+
+Él la agarró de las caderas y no la dejó moverse. La sostuvo abajo, clavada, con los dedos hundidos en la carne, y le habló al pecho con la boca a un dedo del aro:
+
+—Quieta. Así. No te muevas hasta que yo te diga.
+
+Y Cupcake, que llevaba el día entero diciéndoles a todos cuándo, se quedó quieta. Con la verga hasta el fondo latiéndole adentro, con las tetas a la altura de la boca de él y las uñas fucsias clavadas en esos hombros, y el coño cerrándosele solo, sin permiso, alrededor de lo que tenía adentro. Él le puso la boca en el aro y la lengua le dio una vuelta, y otra, y a la tercera le dijo *ahora* contra el pezón, y ella empezó.
+
+Empezó despacio porque él le marcaba el ritmo desde las caderas, subiéndola y bajándola con las manos como si no pesara nada de lo que pesaba, y cada bajada le clavaba la verga en un sitio que no le habían tocado en todo el día, y las tetas nuevas se le movieron solas por primera vez, pesadas, golpeándole la cara a él en cada bajada, y él las recibía con la boca abierta y las iba mordiendo donde caían.
+
+—Más lento —dijo él, y ella fue más lento—. Mírame.
+
+Lo miró.
+
+*Me está mandando. Me está cogiendo Felipe y me está mandando, y yo le hago caso, y estoy más mojada que el día que me lo tomé yo.*
+
+No miró el reloj. No supo cuánto llevaban. Perdió el ritmo de él y encontró el suyo, más rápido, con las rodillas resbalando en el cuero y las plataformas colgando en el aire detrás de él, y él la dejó, la dejó montarlo con las manos abiertas en las nalgas, abriéndoselas, con la lengua en el aro derecho y el pulgar en el izquierdo, retorciéndolo justo en el borde, y el tirón de arriba y el de abajo se le juntaron en el medio como en el espejo del baño, y el coño empezó a cerrársele solo, a golpes, sobre la verga de Felipe, y ella lo oyó venir desde lejos, desde las plantas de los pies dentro de las Pleaser, y no lo aguantó, y no lo contó.
+
+*me estoy corriendo con la verga de Felipe adentro. la de las seis lucas. y no le cobré.*
+
+*sí. sí. dame.*
+
+Se corrió encima de él con un grito que no midió, con las tetas nuevas bailándole delante de la boca y el coño ordeñándole la verga a golpes largos, y siguió moviéndose mientras se corría porque el cuerpo no le pidió permiso para seguir, y él le tomó la cara con la mano fina y la obligó a mirarlo mientras terminaba, y ella lo miró con la boca abierta, sin voz, hasta que las piernas le dejaron de responder y se le cayó encima con la cara en el cuello, contra el nudo mal hecho de la corbata.
+
+No la dejó salirse. La sostuvo clavada con las dos manos en la cintura y empezó a moverse desde abajo, hondo, con la cara metida entre las tetas, y le dijo *quieta* otra vez, y ella no pudo hacer otra cosa que apretarlo, y sintió la verga hincharse adentro, y el gruñido le llegó por el esternón antes que por el oído, y Felipe se vino adentro de ella, hasta el fondo, caliente, con las uñas de ella en la nuca y las de él dejándole en la cintura dos hileras de medialunas que le iban a durar moradas.
+
+Se quedaron así. Ella encima, él adentro ablandándose, los dos respirando el cuero y el café que subía por la escalera, y Cupcake abrió los ojos por encima del hombro de él y vio el reloj de arriba de la puerta. No supo qué número había habido cuando entraron. Era la primera vez en ese cubículo que no lo sabía.
+
+*Perdí la cuenta. Con este perdí la cuenta.*
+
+Se bajó de él con las piernas temblando y lo de él corriéndole muslo abajo, tibio, hasta la liga de los billetes, y no se limpió. Felipe se subió el pantalón de pie, sin apuro, con el efecto todavía en los hombros, y sacó la billetera del bolsillo de atrás. La abrió.
+
+—¿Cuánto es?
+
+Cupcake miró la billetera abierta, gorda, le miró las manos, y se oyó decir la palabra antes de decidirla:
+
+—Nada.
+
+Felipe la miró como la miraba desde el vaso, de frente, y cerró la billetera, y se la guardó.
+
+—Mañana —dijo. No lo preguntó.
+
+*Vuelve con más, le había dicho la última vez, al oído. Volvió con más. Y lo que trajo de más no me lo pagó él: se lo di yo.*
+
+*Esto lo hice yo. Con un vaso y tres frases.*
+
+Bajó detrás de él con lo suyo secándosele en el muslo y el coño todavía abierto, y en el salón vacío no pasó por la caja, y no lo sumó. *Cincuenta y tres. Este no cuenta. A este no lo vendí.* Lo vio cruzar el salón sin mirar el piso, y en la puerta no se dio vuelta a pedir permiso para irse. Se fue con los hombros llenando la camisa.
+
+El capuchino se quedó en el acero, entero, frío. Detrás del vaporizador el sitio quedó vacío. Nunca duraba vacío.
+
+***
+
+El pecho se le bajó solo, como Yasna había dicho.
+
+Lo notó una tarde en el espejo del camarín, agachada a abrocharse la plataforma, cuando las dos se le fueron hacia adelante y se movieron, blandas, y colgaron un segundo antes de volver, y el triángulo, que ahora sí tenía dónde acomodarse, se corrió igual. Se las tomó de abajo. Cabían menos que antes en las palmas. *Ya están. Ahora sirven de verdad.* Y la voz de abajo, mirándoselas: *ricas.*
+
+Yasna, en el espejo de al lado, se pintaba la boca y hablaba de la máquina, que estaba perdiendo presión otra vez y que don Nelson no la iba a arreglar hasta que se muriera del todo, y no miró hacia el otro extremo del espejo, donde Felipe se pintaba las uñas.
+
+Se las pintaba parejas, con un brillo transparente en dos capas, la muñeca apoyada en la madera y la lengua asomada entre los dientes, y cada vez que el pelo le caía hasta rozarle el hombro se lo echaba atrás con el dorso de la mano para no manchar nada.
+
+—Si se queda sin presión a las diez, le tiras vapor antes y la dejas —le dijo Yasna a Cupcake, cerrando el labial—. Ya me voy, que arriba está lleno.
+
+Y salió. Los tacos le sonaron escalera arriba y se perdieron en el beat, y no había dicho nada de Felipe, porque en el Yakarta nadie decía nada de nadie.
+
+Cupcake se sentó frente a su espejo, de espaldas a él, y esperó.
+
+Lo oyó pararse. Lo oyó subir descalzo, las plantas pegándose al cemento frío en cada peldaño, y bajar con la taza, el tintineo chico del plato contra el cortado, y no se dio vuelta. Él no vino por el camino corto: dio la vuelta por detrás de ella, despacio, y ella lo siguió en el espejo: el top plateado de la casa, dos triángulos sobre un pecho liso, con el nudo de la nuca bien hecho; el cuello fino más largo sin la corbata, con una cadenita que se le movía en el hueco de la garganta cuando tragaba; y después lo perdió detrás de su propio hombro y lo sintió llegar. Le dejó el cortado delante, en la madera del espejo, y no lo soltó. Se dobló. Y el aliento le llegó antes que la voz, tibio, a café, en el borde de la oreja.
+
+—¿Con azúcar, mi rey?
+
+El cuerpo le contestó antes de que ella alcanzara a reírse. La tanga se le pegó, el pezón se le paró contra el triángulo, y recién después le ardieron las mejillas, y se quedó quieta en el banco con su propia técnica corriéndole por el cuello, hecha con su voz y su distancia, y funcionando.
+
+*Me lo está haciendo a mí. Lo mío, en mi oreja. Y me moja.*
+
+*sí.*
+
+—Sin azúcar —dijo, y le salió más bajo de lo que quería.
+
+Cerró el puño sobre las monedas que tenía en la mano, como hacen los caseros que pagan con sencillo, y lo dejó en la madera. Felipe soltó la taza por fin, la dejó al lado del puño, y le abrió los dedos con las uñas nuevas, brillantes, metiéndoselas entre los nudillos sin fuerza, le sacó dos monedas de la palma y se la fue cerrando otra vez empezando por el meñique, un dedo y después el otro, apretándole cada uno contra el metal tibio antes de pasar al siguiente, y con el último le dejó el pulgar apoyado en la muñeca, donde late, un segundo entero.
+
+Cupcake dejó pasar el segundo. Después miró la taza sobre la madera.
+
+—Y no me la dejes en la madera —dijo—. En la mano. Siempre en la mano, aunque tengas que esperar a que la abra.
+
+—En la mano.
+
+Se paró. Pasó por encima de las plataformas que esperaban debajo del espejo, sin estrenar, tomó el frasco del perfume de la repisa, el mismo de todas las mañanas, y se puso delante de él, tan cerca que las tetas asentadas le rozaron el top plateado a la altura del pecho liso, y le echó el perfume en la garganta, sobre la cadenita, y después en el hueco del esternón, ahí donde en ella iba la raya y en él el perfume se quedaba a la vista, brillando en la piel plana.
+
+—Esto no es para ti —le dijo, con la boca a la altura de la de él y sin bajarla—. Va donde te inclinas. Cuando te dobles sobre el acero a dejarle la taza, el que está del otro lado lo va a recibir antes que tu voz, y va a cerrar los ojos, y cuando los abra ya no los va a subir de ahí. Ahí le hablas. No antes. Treinta es la cuota, chiquito. Todo lo que vendas arriba de eso es tuyo, y lo guardas donde te lo dejen, contra la piel, no en la caja.
+
+Le corrió el triángulo izquierdo del top un dedo hacia afuera, hasta que el pezón chico le quedó a punto de asomar por la orilla de la tela, y no se lo acomodó. Los miró en el espejo, a los dos, ella con el pecho ya asentado y él con el pecho liso brillando de su perfume, y le puso la mano en la nuca, donde él se la había puesto a ella.
+
+—Ya. Sal a vender café.

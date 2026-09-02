@@ -1,0 +1,107 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_step_0": "Roster real a L70 (70 looks): Club 11 (15.7% vs meta 18%) · Bikini/Lenceria 14 (20% vs meta 15%, SOBRE meta) · Calabozo 8 (11.4% vs 13%) · VIP 8 (11.4% vs 12%) · Gym 8 (11.4% vs 12%) · Girly Girl 8 (11.4% vs 12%) · Penthouse 6 (8.6% vs 9%) · Editorial 7 (10% vs 9%, SOBRE meta). Deficit en conteo real vs meta (70*meta - real): Club +1.6 > Calabozo +1.1 > VIP=Gym=Girly +0.4 (empate) > Penthouse +0.3. Bikini/Lenceria y Editorial estan SOBRE meta: excluidos de este batch pese a que Bikini es prioridad 2 en el desempate -- el desempate solo ordena entre deficitarios, no obliga a elegir un arquetipo en superavit. Con 5 cupos se toman los 5 mayores deficits: Club, Calabozo, VIP, Gym, Girly Girl (Penthouse queda 6to, fuera). Prioridad de desempate usada solo entre VIP/Gym/Girly (empatados en +0.4): VIP > Gym > Girly Girl.",
+  "_arquitectura": "Ventana global (3 looks, TODO el roster): L68=M9 catsuit, L69=M10 slip dress, L70=M6 vestido -- las tres CUBIERTAS. Secuencia nueva: L71=M1 (bodysuit, Club) · L72=M4 (corseteria+arnes de acento, Calabozo -- evita repetir el catsuit M9 que ya llevaron los Looks 36 y 45 de Calabozo) · L73=M3 (lenceria+bata, VIP) · L74=M8 (legging cubierto, Gym) · L75=M7 (minifalda, Girly Girl). Ninguna arquitectura se repite dentro de su ventana de 3 anteriores (verificado a mano contra L68-L74 antes de cada asignacion). Cubierta: 2/5 (M8, M7) = 40%, sobre el minimo de 25% (Ama 18/08). Ademas cada ventana rodante de 4 looks consecutivos entre L68 y L75 tiene al menos 1 cubierta (chequeo 12 del linter).",
+  "_bata": "Cuota de bata abierta (>=1 de 2 looks nuevos VIP/Penthouse): este batch trae un unico look de esos dos arquetipos (L73, VIP) -- lleva bata abierta floor-length semitransparente, paga la cuota sola. Penthouse no entra en este batch (quedo en 6to lugar de deficit).",
+  "_hallazgos_pendientes_de_revision": "(1) El negative realmente emitido por outfit.py generar es SOLO negative_extra + capa universal -- el base extenso del perfil Miss Doll §3 (childish face, teen, natural makeup, tattoos, bikini bottom covering the buttocks, mule, etc.) NO viaja al prompt final pese a que el §10 del perfil dice 'build_negative(<base del §3>)'. Verificado leyendo el Negative Prompt real de los Looks 66-67 ya commiteados: no contienen ninguno de esos terminos. outfit.py cmd_generar linea ~249 solo pasa negative_extra, nunca el §3. Compense en este batch escribiendo un negative_extra mas completo (incluye mule/bata corta/calzon de cobertura total/etc.) pero el gap de fondo esta en outfit.py, no en este batch, y deberia evaluarse aparte. (2) Plataforma: el perfil §5.3 pide 'minimo 6 pulgadas', pero los Looks 66-70 ya commiteados usan 4.5-5.5 pulgadas. Este batch usa 6 pulgadas en los 5 looks (cumpliendo la letra del canon y de la instruccion recibida), lo que lo deja por encima del piso real de la flota reciente -- vale la pena que la Ama decida si el piso sube parejo o si 5 pulgadas pasa a ser el numero vigente.",
+  "personaje": "miss_doll",
+  "batch": "Correccion de Deficit de Arquetipos",
+  "fecha": "02/09/2026",
+  "categoria": "Mix",
+  "rango": "L71-L75",
+  "emitir_bloque_b": true,
+  "tags_comunes": [
+    "batchL71-L75",
+    "V7poses"
+  ],
+  "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, full-coverage bikini bottom, corset, waist cincher, bustier, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest, warm smile, laughing",
+  "looks": {
+    "71": {
+      "titulo": "Cobalt Cage Runway",
+      "tags": "#club #escenario #rosa #vinyl #batchL71-L75 #V7poses",
+      "concepto": "Club/Escenario, mayor deficit del roster (15.7% vs meta 18%). Arquitectura M1 (bodysuit segunda piel) -- ventana global libre (previos L68-70: M9,M10,M6) y silueta distinta del vestido M6 del Look 70. Setting de catwalk/truss en vez del escenario-con-pole ya usado en L70/L56/L46, para variar dentro del mismo arquetipo.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense shimmer cobalt-blue and ice-white smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet cherry-red lips"
+      },
+      "bloque_b": "an electric cobalt-blue high-gloss vinyl bodysuit with sharp geometric cutouts at the ribs and outer hips, a plunging halter neckline secured at the sternum by a hot pink chrome ring, a high-cut leg line rising past the hip bone, the back scooped low to the tailbone with a mirror-chrome zip running to the nape; a hot pink vinyl thong visible through the hip cutouts, a narrow tapered front panel and a thin waistband sitting high on the hip bones; bare legs, no stockings; a hot pink chrome choker with no lettering and matching chrome cuffs on both wrists; nails: long stiletto-shaped acrylics lacquered in glossy cobalt-blue chrome; closed pointed-toe platform stiletto pumps in mirror-chrome patent vinyl, 17cm heel plus 6-inch chrome platform, sharp closed pointed toe, two chrome ankle straps with pin buckles, mirrored chrome sole edge",
+      "setting": "an elevated catwalk runway inside an upscale club, a suspended lighting truss overhead studded with moving cobalt-blue and hot-pink fixtures, the runway extending into haze and dark beyond the light",
+      "props": {
+        "seat": "a low chrome scaffold step at the runway edge",
+        "wall": "the suspended lighting truss backdrop",
+        "surface": "the illuminated runway floor",
+        "upright": "a chrome truss support column"
+      }
+    },
+    "72": {
+      "titulo": "Gunmetal Oxblood Confession",
+      "tags": "#calabozo #dungeon #rosa #fashionbondage #batchL71-L75 #V7poses",
+      "concepto": "Calabozo/Dungeon, segundo mayor deficit (11.4% vs meta 13%). Arquitectura M4 (corseteria+tanga) con arnes fashion-bondage de acento tipo Bordelle -- evita repetir el catsuit M9 que ya llevaron los Looks 36 y 45 de este mismo arquetipo. Negative especifico: se sacan corset/waist cincher/bustier del negative base porque este look SI lleva corse (regla del perfil §5.5).",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense shimmer gunmetal and oxblood smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet oxblood lips"
+      },
+      "bloque_b": "a gunmetal chrome liquid-latex overbust corset with fine chrome boning and a chrome busk down the front, its cups moulded and its edge sitting low under the bust, laced tight at the back with a hot pink silk lacing cord as the single note of signature colour; a delicate gunmetal chrome fashion-bondage harness of fine adjustable straps crossing over both shoulders and looping to the corset's top edge, connected by small polished chrome O-rings, fine jewellery-like hardware rather than industrial rigging; a matching gunmetal thong with a narrow tapered front panel and a thin waistband sitting high on the hip bones; sheer smoke-grey hold-up stockings with a straight back seam; a slim gunmetal chrome collar with no lettering and a single small O-ring at the throat; nails: long coffin-shaped acrylics lacquered in glossy gunmetal chrome; closed pointed-toe platform stiletto boots in gunmetal patent leather rising to the knee, 16cm heel plus 6-inch chrome platform, sharp closed pointed toe, a chrome side-zip, mirrored chrome sole edge",
+      "setting": "a private dungeon chamber with polished concrete floors and a wall of coiled chrome chain, a single cold spotlight cutting through low haze, an oxblood leather bench at the centre",
+      "props": {
+        "seat": "a padded oxblood leather bondage bench",
+        "wall": "a wall hung with coiled chrome chain",
+        "surface": "a chrome instrument tray",
+        "upright": "a floor-to-ceiling chrome restraint frame post"
+      },
+      "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, full-coverage bikini bottom, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest, warm smile, laughing"
+    },
+    "73": {
+      "titulo": "Plum Silk Confidante",
+      "tags": "#vip #privado #rosa #bataabierta #M3 #batchL71-L75 #V7poses",
+      "concepto": "VIP/Privado, empatado en deficit (11.4% vs meta 12%; gana el desempate sobre Gym y Girly Girl). Arquitectura M3 (conjunto de lenceria) con bata abierta floor-length encima -- paga sola la cuota de bata (>=1 de 2 looks VIP/Penthouse del batch; es el unico de esos dos arquetipos aqui).",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense shimmer plum and rose-gold smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet deep-plum lips"
+      },
+      "bloque_b": "a dark plum liquid-satin longline bra with sheer plum lace cups underwired into a deep plunge, a hot pink satin bow at the centre gore; a matching dark plum satin thong with a narrow tapered front panel and a thin waistband sitting high on the hip bones, a single slim strap at the back leaving the seat bare; bare legs, no stockings; over it, a floor-length dark plum sheer chiffon open robe, its hem sweeping the floor, semi-transparent fabric that reveals the lingerie beneath from every angle including from behind, falling loose off both shoulders, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin hot-pink satin sash left untied; a slim gold-chrome choker with no lettering and a single drop pearl; nails: long almond-shaped acrylics lacquered in glossy dark plum with a fine hot-pink cuticle line; closed pointed-toe platform stiletto sandals in dark plum patent vinyl with fine crossing straps and an ankle strap fastened with a small chrome buckle, 15cm heel plus 6-inch platform, sharp closed pointed toe, mirrored chrome sole edge",
+      "setting": "a private VIP lounge behind a velvet curtain, deep plum tufted walls, a low brass table set with a single champagne flute, warm amber lamplight pooling against the dark",
+      "props": {
+        "seat": "a plum velvet tufted armchair",
+        "wall": "a padded plum velvet wall panel",
+        "surface": "a low brass cocktail table",
+        "upright": "a brass floor lamp column"
+      }
+    },
+    "74": {
+      "titulo": "UV Voltage Cutout Set",
+      "tags": "#gym #athletic #rosa #wetlook #siluetacubierta #M8 #batchL71-L75 #V7poses",
+      "concepto": "Gym/Athletic, empatado en deficit. Arquitectura M8 (legging + top) -- paga cuota de silueta cubierta y varia del tratamiento bare-leg+calcetin del Look 67 (rotacion de pierna que pide §5.5). Largo de pierna nombrado explicito ('full-length to the ankle').",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense shimmer UV-violet and silver smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet berry-violet lips"
+      },
+      "bloque_b": "a UV-violet wet-look spandex athletic set: a high-neck racerback sports bra with laser-cut geometric ventilation cutouts across the midriff, no sleeves, cropped to sit just under the bust; matching high-waisted leggings in the same UV-violet wet-look spandex, full-length to the ankle, with a hot pink vinyl side-stripe running the outer seam of each leg and a hot pink chrome ring at the waistband; bare midriff between the bra and the leggings' waistband; a UV-violet chrome choker with no lettering; nails: long square-shaped acrylics lacquered in glossy chrome silver; platform stiletto trainers in UV-violet patent vinyl, 15cm heel plus 6-inch chrome platform, closed rounded toe, laced through chrome eyelets with a hot pink lace, mirrored chrome sole plate",
+      "setting": "a private late-night training studio, UV-violet LED strip lighting along black rubber flooring, a wall of chrome free-weight racks throwing long reflections",
+      "props": {
+        "seat": "a black vinyl weight bench",
+        "wall": "a chrome free-weight rack wall",
+        "surface": "a chrome dumbbell tray",
+        "upright": "a suspended chrome pull-up bar frame"
+      }
+    },
+    "75": {
+      "titulo": "Cotton Candy Bow Skater",
+      "tags": "#girlygirl #rosa #vinyl #siluetacubierta #M7 #batchL71-L75 #V7poses",
+      "concepto": "Girly Girl, empatado en deficit (gana el desempate sobre Penthouse). Hiperfem adulta, registro Moschino-runway, sin ningun tono ni prop de infancia. Arquitectura M7 (minifalda + top), distinta del vestido M6 del Look 66 -- paga cuota de silueta cubierta. Unico arquetipo con expresion calida/sonriente (§2); su negative especifico saca 'warm smile, laughing' del negative base para no contradecir la pose.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense shimmer cotton-candy-blue and pastel-lavender smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet coral lips"
+      },
+      "bloque_b": "a pastel-lavender patent vinyl pleated micro-skirt with a stiff structured pleat and a hot pink grosgrain waistband bow mounted at the centre front; paired with a cotton-candy-blue cropped bustier top in gloss vinyl, a sweetheart neckline with moulded cups, a short boned silhouette ending above the navel, secured at the back with a row of tiny chrome hooks; a pastel-lavender vinyl thong beneath the skirt, a narrow tapered front panel and a thin waistband sitting high on the hip bones; sheer blush hold-up stockings with a delicate lace band; a cream-gold chain choker with a single small pink enamel heart charm and no lettering; nails: long round-tipped acrylics lacquered in glossy pastel lavender with a fine hot-pink French tip; platform Mary Jane stiletto pumps in cotton-candy-blue patent vinyl, 16cm heel plus 6-inch cream platform, closed rounded toe, a single instep strap fastened with a small gold buckle, cream lacquered sole edge",
+      "setting": "a pastel rooftop terrace lounge at golden hour, sheer blush curtains billowing against a soft bokeh skyline, a low gold-rimmed daybed piled with lavender cushions, warm honeyed light",
+      "props": {
+        "seat": "a gold-rimmed pastel daybed",
+        "wall": "a sheer blush curtain backdrop",
+        "surface": "a small marble side table",
+        "upright": "a slender gold curtain-rod post"
+      },
+      "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, full-coverage bikini bottom, corset, waist cincher, bustier, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest"
+    }
+  }
+}
