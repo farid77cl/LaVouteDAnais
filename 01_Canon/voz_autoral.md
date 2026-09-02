@@ -8,6 +8,14 @@
 
 ---
 
+## Declaración de la Ama (02/09/2026 — literal, manda sobre todo lo de abajo)
+
+> *"me gusta ser descriptiva y sensorial, erotica... usando palabras mas crudas en ciertos momentos, pero la idea en general es hacer sentir al lector que esta ahi"*
+
+Tres cosas, en su orden: **(1)** la base es **descripción sensorial** — no descripción de cosas, descripción de lo que el cuerpo recibe; **(2)** la palabra **cruda cae en ciertos momentos** — es el pico de una subida sensorial, no la alfombra; **(3)** el fin de todo es **que el lector esté ahí** — a un centímetro, recibiendo, no mirando desde la puerta. Cuando una regla de las de abajo choque con esta frase, gana esta frase.
+
+---
+
 ## §0 — Perfil medido (lo que una máquina cuenta de esta voz)
 
 Medido sobre las once referencias contra el Cap 4 v0.3 rechazado. Regenerable: `python 99_Sistema/scripts/literatura/medir_capitulo.py <archivo>` (M3, M4, M7) + el perfil de cursivas/diálogo (pendiente de cablear en Loreto como M11-M12).
@@ -85,9 +93,9 @@ Valeria, Daniela, Yasna, Elena, Miss Doll: **todas hablan al oído tres, cinco, 
 
 ---
 
-## §5 — Se nombra: verga, coño, culo, tetas, mojada
+## §5 — Se nombra: verga, coño, culo, tetas, mojada — en el momento
 
-Piso: **≥ 10 palabras explícitas por mil**, y *verga* presente en todo privado. Sus referencias repiten la palabra sin sinónimo elegante: *mojada, empapada, chorreando* vuelven veinte veces y a ella no le sobran. La única perífrasis que es canon y no evasión es la del cuerpo ajeno en body swap (*el hueco*, *la cosa*, *lo que tenía abajo*) — porque **nombra la extrañeza**, no la esquiva.
+*"Usando palabras más crudas en ciertos momentos"* (Declaración). La palabra sucia no es alfombra: es **el pico de una subida sensorial**. La escena se construye descriptiva y sensorial —olor, distancia, aliento, tela, peso— y cuando llega arriba **nombra**: *verga* en todo privado y en toda descarga, *coño/mojada/tetas* donde el cuerpo contesta. Sus referencias repiten la palabra sin sinónimo elegante en esos picos (*mojada, empapada, chorreando* veinte veces y a ella no le sobran) — y entre pico y pico vuelven a la piel. Medida: nunca por debajo de ~8 por mil en un capítulo (el piso de sus referencias), y **cero escenas eróticas donde el pico llegue sin la palabra**. La única perífrasis que es canon y no evasión es la del cuerpo ajeno en body swap (*el hueco*, *la cosa*, *lo que tenía abajo*) — porque **nombra la extrañeza**, no la esquiva.
 
 ⛔ Lo que sí es evasión: la poesía clínica (*"parches dormidos"*, *"el nervio tomó el camino largo"*, *"la piel estirada como la de un durazno demasiado lleno"*) y el estado reportado en vez de ejecutado (*"qué caliente me puse"* → caso C2-07).
 
