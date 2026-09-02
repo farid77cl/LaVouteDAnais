@@ -62,8 +62,9 @@ Al retomar **cualquier** relato de `01_En_Progreso/`, antes de escribir o correg
 ---
 
 ## FASE 2 — Escritura (Escritor-Nivel4)
-- Subagente: `escritor-nivel4` (`subagent_type: "escritor-nivel4"`) — **por TRAMOS** (3-4 por capítulo, una invocación por tramo, anti-truncado).
-- Carga en orden: pendientes de la versión anterior (P0, solo rework) → **`01_Canon/evals_ama/casos_ama.md` (P0.5 — Caso Cero + los casos de la Ama, la carpeta de Loreto)** → `canon_relato.md` → **`investigacion.md`** → `cronologia.md` → `voz_autoral.md` → `antologia_calenton.md` → `HUMANIZADOR.md` → secundarios.
+- Subagente: `escritor-nivel4` (`subagent_type: "escritor-nivel4"`, **Fable**) — **por TRAMOS** (2-3 por capítulo, una invocación por tramo, anti-truncado; probar 2 con Fable y medir).
+- 💸 **Antes del tramo 1 el Orquestador escribe `reportes/capitulo_[N]/brief_v0.[X].md` (≤2.000 palabras, plantilla en `resources/PLANTILLA_BRIEF_TRAMO.md`)**, y el Escritor lee **solo cuatro cosas**: el brief · `voz_autoral.md` · `antologia_calenton.md` · el capítulo en curso. Presupuesto ≤40k tokens de input por tramo; el Escritor no se audita con greps (eso es Loreto). Medido el 02/09: la lista completa de abajo, leída "entera" tres veces, costó 742k tokens por 7.530 palabras. Regla completa: SKILL §Presupuesto de tokens.
+- Lista completa (rige solo sin brief — legado): pendientes de la versión anterior (P0, solo rework) → `casos_ama.md` (P0.5) → `canon_relato.md` → `investigacion.md` (por secciones §2/§2b/§5/§6, nunca entera) → `cronologia.md` → `voz_autoral.md` → `antologia_calenton.md` → `HUMANIZADOR.md` → secundarios.
 - **Al cerrar el tramo N:** pasada del Humanizador + **checklist §C de `casos_ama.md`** sobre el archivo completo → autoverificación (con la sección «Casos de la Ama»).
 - **🔥 MARCO ERÓTICO EN CADA BRIEFING DE TRAMO (Regla de Oro 13):** cada invocación abre con *"ESTO ES UN RELATO ERÓTICO (+18); este tramo tiene que CALENTAR"* + temperatura objetivo. **Prohibido** framear un tramo como "de transición", "sin calor" o "fuego frío".
 - **🚨 REGLA #1 — PROSA PURA:** el archivo del capítulo contiene SOLO prosa. Metadata → `reportes/capitulo_[N]/autoverificacion_v0.[X].md`.
@@ -84,7 +85,7 @@ Al retomar **cualquier** relato de `01_En_Progreso/`, antes de escribir o correg
 ---
 
 ## FASE 3 — Validación (Validador)
-- Subagente: `validador` (`subagent_type: "validador"`)
+- Subagente: `validador` (`subagent_type: "validador"`, **Sonnet** desde el 02/09/2026 — reparto de modelos en SKILL §Presupuesto de tokens punto 7; vuelve a Fable si en dos capítulos deja pasar frío que la Ama caza)
 - **Inputs nuevos (02/09/2026):** `reportes/capitulo_[N]/medicion_v0.[X].md` (los tramos 🔴 de Loreto van obligatoriamente entre los «pasajes más fríos») + `01_Canon/evals_ama/casos_ama.md` como **lista de caza** — cada hallazgo cita el ID del caso que reincide.
 - **Gate 1c — reciclaje en rework:** si el pasaje rechazado en la versión anterior vuelve con retoques cosméticos, el veredicto es el de la versión anterior, sin importar los scores.
 - **Tres GATES en orden: Inmersión → Continuidad → 🔥 Temperatura.** Después Narrativa y Voz.

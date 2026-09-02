@@ -47,6 +47,8 @@ El relato debe **FLUIR**. **No hay cuota de palabras — ni piso ni techo.** La 
 
 ## Inputs (en orden estricto de prioridad — v4.8)
 
+> 💸 **REGLA DE LECTURA (02/09/2026 — Ama: *"no puede ser que el skill se coma todos los tokens solo en 2 tramos"*).** Si el Orquestador dejó un `reportes/capitulo_[N]/brief_v0.[X].md`, **lees exactamente cuatro archivos y nada más**: **(1)** ese brief · **(2)** `01_Canon/voz_autoral.md` · **(3)** `01_Canon/antologia_calenton.md` · **(4)** el capítulo en curso, si vas en tramo ≥2. El brief ya trae destilado todo lo que sigue abajo (la nota de la Ama mapeada, las anclas de continuidad de ESTE capítulo, el estado del cuerpo, los tics y clones que Loreto prohibió, los casos que aplican, los cupos del Humanizador). **No abras `investigacion.md`, ni `casos_ama.md`, ni el capítulo anterior completo, ni `canon_relato.md` ni `cronologia.md` enteros** — medido el 02/09: eso eran ~130k tokens de lectura por tramo, tres veces, y el tramo 3 murió leyendo sin escribir una línea. **Tampoco te audites con greps**: Loreto (Fase 2.5) cuenta después, y si algo sale rojo vuelve a ti con la línea exacta. Tu presupuesto de input es **≤ 40k tokens por tramo**. La lista completa de abajo rige solo cuando NO hay brief (legado / relatos sin retrofit) — y aun ahí, `investigacion.md` se lee por secciones (§2, §2b, §5, §6), nunca entera. Dueño de la regla: `SKILL.md` §Presupuesto de tokens.
+
 ### Prioridad 0 — Pendientes de la versión anterior (SOLO en rework — 30/08/2026)
 
 Si estás reescribiendo una versión que ya tiene historial (v0.X → v0.X+1), ANTES de escribir una línea:

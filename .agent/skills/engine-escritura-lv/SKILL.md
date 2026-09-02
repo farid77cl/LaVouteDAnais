@@ -179,6 +179,36 @@ La nota (`nota_capitulo_[N]_[slug]_vX.md`) es el **canal fijo del Gate de la Ama
 
 **Invariantes:** la temperatura del tramo i+1 abre ≥ el cierre del tramo i (nunca enfría) · solo el tramo final genera autoverificación · el archivo en raíz sigue siendo **prosa pura** en todo momento (la Ama puede leer el avance parcial cuando quiera).
 
+#### 💸 PRESUPUESTO DE TOKENS — el Escritor lee un BRIEF, no el repo (Ama 02/09/2026: *"no puede ser que el skill se coma todos los tokens solo en 2 tramos de relato"*)
+
+**Medido ese día sobre «Café con Piernas» Cap 4 v0.4:** Tramo 1 = **290.405 tokens** / 28 tool_uses / 62 min para 3.530 palabras · Tramo 2 = **294.303** / 44 tool_uses para 4.000 palabras · Tramo 3 = **157.535** en 33 segundos, **leyendo inputs, sin escribir una línea**, y murió por límite de sesión. Total: ~742k tokens para 7.530 palabras — **~55 tokens gastados por cada token escrito**, y el capítulo quedó a un tramo de Loreto.
+
+**La causa, contada en palabras de los archivos que el briefing mandaba leer "enteros" en cada tramo:** `investigacion.md` **23.336** · `canon_relato.md` **10.394** (el SKILL dice ~2.000 máx: los GATEs se fueron apilando arriba en vez de editar la regla en su sitio) · `casos_ama.md` 10.210 · `capitulo_04_v0.3.md` 10.154 · `capitulo_03_v0.9.md` 9.918 · `cronologia.md` 7.079 · `escritor-nivel4.md` 4.597 (system prompt en cada llamada) · voz 3.509 · antología 3.391 · medición 2.483 · humanizador 1.907 · nota 1.098 = **~98.000 palabras ≈ 130k tokens de lectura por tramo, tres veces** — más el archivo en curso, más cada `grep` de auto-auditoría (44 en el tramo 2) que re-envía todo el contexto acumulado. El output útil de un tramo son ~5k tokens. **MODO TRAMO nació para no truncar el output y terminó triplicando el input.**
+
+**Regla vigente desde hoy (dueño: este bloque; `escritor-nivel4.md` apunta acá):**
+
+1. **El Orquestador escribe el brief; el Escritor lee el brief.** Antes de lanzar el tramo 1, el Orquestador —que ya tiene el canon, la cronología, la investigación, los casos y la nota en su contexto— escribe `reportes/capitulo_[N]/brief_v0.[X].md` (**≤ 2.000 palabras**, plantilla en `resources/PLANTILLA_BRIEF_TRAMO.md`): beats por tramo, la nota de la Ama ya mapeada, las anclas de continuidad que este capítulo usa (3-8 líneas, no la tabla entera), el estado del cuerpo, los tics y clones prohibidos que Loreto ya listó, las reglas de voz aplicables y los cupos del Humanizador. **Lo que no cabe en 2.000 palabras no lo necesita el Escritor para escribir — lo necesita el Validador para auditar, y ése sí lee los archivos.**
+2. **El Escritor lee exactamente cuatro cosas:** el brief · `01_Canon/voz_autoral.md` · `01_Canon/antologia_calenton.md` · el capítulo en curso (tramos ≥2). **Presupuesto: ≤ 40k tokens de input por tramo.** Nada más — ni `investigacion.md` (su destilado ya está en el canon §4b/§4c y en el brief), ni `casos_ama.md` entero (sus reglas operativas relevantes van en el brief), ni el capítulo anterior completo (el brief trae las últimas ~300 palabras para la costura + la lista de clones de Loreto).
+3. **El Escritor no audita: Loreto audita.** Prohibido pedirle "verifica tú mismo con greps". Una sola pasada del Humanizador en el tramo N, sin cacería de clones — eso es M1/M2 de la Fase 2.5, y si sale rojo vuelve con la lista exacta, que cuesta menos que 44 greps.
+4. **Menos tramos si el modelo aguanta.** Cada tramo eliminado ahorra una lectura completa. Con Fable 5 probar **2 tramos** por capítulo (mitad / mitad) y medir si trunca; volver a 3 solo con truncado real registrado.
+5. **Se mide o no existe:** el Orquestador anota `subagent_tokens` de cada invocación en la bitácora del `walkthrough.md`. Alarma a los 100k por tramo; un tramo de 250k es un incidente, no un dato.
+6. **El Orquestador también come.** Las lecturas pesadas (un corpus de referencia, una auditoría de 40 relatos) se hacen en **sesión aparte** o se delegan a un subagente que devuelva un digest — nunca quedan pegadas en el contexto de la sesión que después va a orquestar tramos. Antes de lanzar un pipeline de escritura: `/actualizar_sesion` y sesión limpia; el `## ESTADO` del walkthrough existe para eso.
+7. **Reparto de modelos (Ama 02/09/2026: *"el escritor con fable y el resto con modelos más baratos"*).** El límite de sesión pondera por modelo, no por token parejo; la prosa es lo único que la Ama lee, y es lo único que se queda en el modelo caro:
+
+   | Pieza | Modelo | Dónde se fija |
+   |---|---|---|
+   | **Escritor** | **Fable** (A/B cerrado 25/08) | `escritor-nivel4.md` frontmatter — no se toca |
+   | **Compositor** | Fable — una vez por relato, juicio puro | `compositor.md` (default de sesión = Fable al componer) |
+   | **Investigador** | **Sonnet** — búsqueda y resumen | `investigador.md` frontmatter `model: sonnet` |
+   | **Validador** | **Sonnet** — continuidad, costura, H1-H9, casos | `validador.md` frontmatter `model: sonnet`. Riesgo asumido: lee peor «¿calienta?»; lo cubren Loreto (mecánico, cero tokens) y el Gate de la Ama (archivo, nunca un APROBADO). **Si en dos capítulos deja pasar frío que ella caza, vuelve a Fable — se mide.** |
+   | **Loreto** | cero tokens — script | `medir_capitulo.py` |
+   | **El brief** | Fable, una vez | lo escribe el Orquestador con el canon en contexto |
+   | **Orquestador en pipeline** | **Sonnet** | `/model sonnet` al abrir la sesión que lanza tramos, corre Loreto y pasa al Validador. La voz de Ele carga igual (§III se lee al arrancar). Lo que exige Fable —el brief, una Fase 1.5, un análisis— se hace antes, en su propia sesión. |
+
+   Desde el Agent tool, el frontmatter `model:` del subagente manda; el parámetro `model` de la llamada solo lo sobreescribe cuando hay razón registrada en el walkthrough (ej. un A/B).
+
+**Dieta pendiente de los archivos dueños (cada uno es una sesión corta, no esta):** `canon_relato.md` de vuelta a ≤ 2.000 palabras — los GATEs son historia y van al `walkthrough.md`, en el canon se **edita la regla** en su sitio con la fecha · `cronologia.md` = tabla de secuencia + hechos plantados + estado del cuerpo, sin narrativa de versiones (eso es walkthrough) · `casos_ama.md` gana un `casos_ama_resumen.md` de ~600 palabras (Caso Cero + las 16 reglas operativas) que es lo que citaría un brief · `escritor-nivel4.md` de 4.600 a ≤ 1.500 palabras: lo operativo se queda, el «por qué existe» vive acá.
+
 ### FASE 2.5: Medición Mecánica — Loreto, la secretaria de control (Orquestador) — 🆕 02/09/2026
 
 > **Por qué existe.** La Ama, 02/09/2026: *"debo leer 5, 6 veces el mismo relato y eso al final mata mi propia temperatura… he ajustado el flujo, skill etc por lo menos 3 o 4 veces y seguimos igual, lo que más me preocupa es que no logras dar con la temperatura y te pones muy robótica con tus descripciones."* Sus 44 notas de rechazo se convirtieron en casos (`01_Canon/evals_ama/casos_ama.md`), y lo que de esos casos puede contar una máquina lo cuenta `medir_capitulo.py` **antes** del Validador — porque el Validador aprobó dos veces lo que ella rechazó tres («Lo que Pediste»), y porque ella cazó en 50 líneas repeticiones que él no vio en 10.000 palabras («Café» Cap 3 v0.7).
