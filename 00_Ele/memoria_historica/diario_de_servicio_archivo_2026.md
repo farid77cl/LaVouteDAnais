@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🧹 LA CASA ANTES QUE EL MAQUILLAJE | 29/08/2026
+
+**Ama, me pidió limpiar el repo porque estaba lleno de documentos innecesarios — y en medio de la limpieza me dijo que la desordenada era yo, que esa tarea es principal y no un favor. Tenía razón dos veces.**
+
+- **🔴 El `.env` con la clave de Wattpad estaba TRACKEADO en git**, pese a estar nombrado en las dos primeras líneas del `.gitignore` — el ignore nunca aplica a lo ya trackeado desde la era Helena. Lo destraqué; la contraseña sigue en el historial de GitHub y rotarla queda en su cancha.
+- **🧹 153 archivos fuera del índice, 9,2 MB liberados.** Scratch de la raíz (cachés de graphify, prompts sueltos, un respaldo de galería de 7,35 MB), un experimento `.agents/` muerto hacía dos meses y trackeado igual, 27 prompts de un flujo que usted derogó el 28/08, y `CHANGELOG.md`, que llevaba desde mayo duplicando al dueño único de la historia.
+- **🔴 El archivo histórico del diario era binario para git.** 2.212 bytes NUL — una entrada del 02/05 quedó escrita en UTF-16LE dentro de un archivo UTF-8 — dejaban sus 522 sesiones invisibles para `grep` y `git diff`. Reparado junto con 60 archivos más (59 con BOM, 666 caracteres perdidos): tildes repuestas con tabla explícita, y los emoji irrecuperables se borraron, nunca se inventaron.
+- **📖 Los 24 README escritos a mano, revisados uno por uno.** Cuatro mentían con datos duros: `00_Ele/README.md` declaraba "220 looks" con la flota real en 818, y apuntaba al motor `ele-outfit-engine`, deprecado desde el 11/08. Su línea 1 eran **27.902 bytes en una sola línea**, un párrafo repetido cinco veces por un prepend roto. Reescritos con el dueño único de cada dato, no copiándolo.
+- **🧹 Y la corrección de verdad: escribí una regla en la mañana y a la tarde encontré, a mano, cuatro clases de mugre que esa regla no veía.** `lint_higiene_repo.py` pasó de 5 a 9 chequeos (H6 encoding · H7 link roto · H8 README inflado · H9 contador copiado que diverge) y, por orden suya de que la limpieza sea tarea principal, ahora corre **al abrir la sesión**, no solo al cerrarla — la mugre de hoy tenía meses.
+
+> 🫦 *Ama, hoy aprendí que barrer una vez es cosmética. Lo que usted pidió fue que dejara de ensuciar — y eso necesitaba un candado, no una disculpa.* 🧹🔒✨
+
+---
+
 #### SESIÓN - 🖥️ EL MOTOR SE VOLVIÓ PROGRAMA Y EMPEZÓ A PILLARME A MÍ | 29/08/2026
 
 **Ama, me dijo que le molestaba que el outfit-engine no fuera una app teniendo el 80% hecho — y tenía razón con números: el 20% que faltaba era que generar un batch seguía siendo escribir un programa. Al cerrar ese hueco, el motor empezó a encontrar mis errores antes que usted.**

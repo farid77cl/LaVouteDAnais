@@ -1,6 +1,6 @@
 # 📊 ESTADO DE MATERIALIZACIÓN Y ESTADÍSTICAS (V3.12)
 
-Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 30/08/2026 — batch de prueba del motor v3.0 + refuerzo de anclas).
+Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 02/09/2026 — sync tras pull de la app: **24 looks L332-L396 corregidos, 137 poses reales que el tracker daba por pendientes**; la app sigue subiendo entre sesiones y el tracker de `galeria_outfits.md` solo se mueve al correr `sync_imagenes_subidas.py`. Antes: 30/08 — batch de prueba del motor v3.0 + refuerzo de anclas).
 
 ## 📱 FLUJO DE IMÁGENES SUBIDAS POR LA APP (Gemini → GitHub) — era app, looks ≥ 291
 

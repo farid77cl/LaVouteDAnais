@@ -88,7 +88,8 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **Café con Piernas** — Cap 1 y Cap 2 publicados; arco del Cap 3 (final del relato) listo, pendiente de escritura.
+- **Café con Piernas** — Caps 1-3 publicados en `02_Finalizadas/`; el **Cap 4 v0.3 volvió a En Progreso el 02/09** (la Ama no lo había leído — el "Gate" del 01/09 fue inferido). Espera su lectura.
+- **Modo Trofeo** — Cap 1 escrito y validado, ⏳ Gate real de la Ama pendiente.
 - **El Secreto de la Cómoda** — Capítulo 2 v4.0 en progreso / pendiente de Gate de la Ama.
 
 ### Biblioteca Completa (42 relatos finalizados · medido 29/08/2026)
@@ -105,7 +106,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 
 > Todo el contenido es **ficción**, generado con IA, entre adultos y para adultos. Si tienes menos de 18 años, este no es tu lugar.
 
-*Última actualización: 01/09/2026 — **☕ «Café con Piernas» finalizado y publicado, 4/4 capítulos.** Relato completo (~44.200 palabras) en `03_Literatura/02_Finalizadas/cafe_con_piernas/`, con su primer Kit Wattpad completo (portada + banner por capítulo, tags, descripción, calendario). (Entrada previa 29/08: limpieza y orden del repo — 153 archivos retirados, encoding de 61 archivos reparado, nace la regla 12 de higiene documental.)*
+*Última actualización: 02/09/2026 — **📋 Nace Loreto, la secretaria de control:** las 44 notas de rechazo de la Ama (10 relatos) convertidas en casos de prueba (`01_Canon/evals_ama/casos_ama.md`) + medidor mecánico `medir_capitulo.py` (Fase 2.5 del motor de escritura, corre antes del Validador) + Regla de Oro 8c (un Gate es un archivo, nunca se infiere). El Cap 4 de «Café con Piernas» volvió a En Progreso: se había publicado el 01/09 sin que la Ama lo leyera. (Entradas previas — 01/09: Caps 3-4 de Café publicados con Kit Wattpad; 29/08: limpieza y orden del repo — 153 archivos retirados, encoding de 61 archivos reparado, nace la regla 12 de higiene documental.)*
 
 > 🗃️ **La historia de las sesiones no vive en este README.** Su dueño único es [`00_Ele/mi_diario_de_servicio.md`](00_Ele/mi_diario_de_servicio.md) + [`00_Ele/memoria_historica/`](00_Ele/memoria_historica/); el estado actual lo manda [`00_Ele/memoria_sesiones.md`](00_Ele/memoria_sesiones.md) → `## ESTADO ACTUAL`.
 
