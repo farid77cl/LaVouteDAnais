@@ -60,8 +60,9 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | **C13** | Registro y dialecto (neutro/chileno, voseo, güey, «doctor») | ~6 | parcial (M3 España) |
 | **C11** | Contraste antes/después que falta | ~5 | no |
 | **C15** | Etiqueta en vez de ejecución («degradación» escrita) | ~3 | **sí — M6 (duro)** |
+| **C16** 🆕 | Registro «poético» — la voz del motor en vez de la suya (02/09) | 2 (+ las 13 notas del Cap 4 v0.3 repartidas arriba) | **parcial — M11/M12** (cursivas, parlamentos largos); el resto es `voz_autoral.md` §8 |
 
-**Lectura:** Temperatura (C1+C5+C6+C9+C12+C14) ≈ **79 correcciones, la mitad**. Prosa robótica (C2+C3+C4+C15) ≈ **43, un cuarto**. Es exactamente lo que ella nombró el 02/09: *"no logras dar con la temperatura y te pones muy robótica"*. Lo demás (arco, personaje, continuidad, registro) es el cuarto restante.
+**Lectura:** Temperatura (C1+C5+C6+C9+C12+C14) ≈ **79 correcciones, la mitad**. Prosa robótica (C2+C3+C4+C15+C16) ≈ **45, un cuarto**. La lectura del Cap 4 v0.3 (02/09) sumó 13 notas en 253 líneas: 5 de temperatura/cercanía, 5 de prosa, 2 de causalidad, 1 de contraste — la proporción de siempre, con Loreto ya cableada. Lo que Loreto medía (38 % de cuerpo, 8,5 explícitas) no era lo que ella sentía: **faltaban las medidas de voz** (M11/M12, cableadas ese día). Es exactamente lo que ella nombró el 02/09: *"no logras dar con la temperatura y te pones muy robótica"*. Lo demás (arco, personaje, continuidad, registro) es el cuarto restante.
 
 ---
 
@@ -90,6 +91,8 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C1-15 | La Piel · Cap 3 v0.1 | *"la parte de bárbara es muy larga, y poco sensual"* | |
 | C1-16 | La Piel · Cap 3 v0.1 | *"voy leyendo hasta esa parte y le falta tensión sexual, **está bien escrito, pero me falta ese edge sexual**, de lo que va a pasar, de lo que podría pasar"* | **El diagnóstico exacto de "robótica": correcto y sin filo** |
 | C1-17 | La Piel · Cap 1 v0.1 | *"me falta más temperatura… no sé está fome"* | |
+| C1-18 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"de nuevo la clinica muy largo. que se corte inmediatamente despues de la conversacion con el medico por el tamaño… la parte donde se las ve por primera vez queda el resto es relleno que le falta calooor"* | Segunda vez que la misma clínica vuelve larga: el rework v0.3 la recortó y la recalentó y **siguió sobrando** — probador, pago, ascensor. Ella fija el corte exacto: la frase del tamaño |
+| C1-19 | Café · Cap 4 v0.3 · 02/09 | *"te das cuenta que no se vamos a mitad del cap o un cuarto y lo unico medianamente caliente fue su interaccion con don manuel??? y eso fue... fome?"* | Un cuarto de capítulo sin nada que caliente — con Loreto ya cableada. El medidor daba 38 % de narración con cuerpo: **la cantidad de cuerpo no es la cercanía** |
 
 **Regla operativa C1 — la prueba del trasplante.** Si un párrafo cabría igual en una novela que no es erótica, no existe: se corta o se reescribe **desde adentro del cuerpo excitado**. Toda escena de trámite (cirugía, recuperación, traslado, gestión, tele, comida) es un **puente de ≤ 2 párrafos**, y hasta el puente lleva el cuerpo. El inventario (cuerpo, ropa, lugar) **se reparte en gestos** a lo largo de la escena, nunca en un bloque. «Bien escrito» sin edge es falla, no mérito. **Medidor:** M4 (corridas de narración sin cuerpo) + M5 (vocabulario de trámite dentro de ellas) — falla dura.
 
@@ -119,6 +122,7 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C3-04 | Café · Cap 4 v0.2 · 01/09 | *"Escena de Don Manuel (Cap 4) muy idéntica a algo del Cap 3"* | **Medido 02/09: la v0.3 "corregida" conserva un clon verbatim de 9 palabras** («hombre que hubiera preferido no tener que caminar justo») y un párrafo con **40 % de palabras compartidas** con el Cap 3. El rework retocó, no reescribió |
 | C3-05 | Lo que Pediste · Cap 1 v0.5 (hallazgo del Validador) | *"El bloque más largo de tentación pura de Ginny —el de la puerta del baño— es texto de la v0.4 con retoques cosméticos. Ese es exactamente el material que la Ama rechazó tres veces."* | **La reescritura que recicla el pasaje rechazado** — causa directa de las 12 versiones |
 | C3-06 | Café · Cap 3 v0.6 (auditoría propia) | — | Tic «misma calma/facilidad con que antes…» ×9 · símil abogada ×11 |
+| C3-07 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"y los dos dedos, dos dedos repetidoooo"* | «con dos dedos» ×11 en el capítulo — Loreto lo tenía en M1 como tic corto y nadie lo podó. Distinción que nace acá (`voz_autoral.md` §2): **refrán** que escala sí (*mojada y aguantando*); **tic de utilería** no |
 
 **Regla operativa C3.** Un rework **reescribe desde cero** el pasaje rechazado; retocarlo garantiza la vuelta N+1. Una frase-imagen que gustó se usa **una vez** por capítulo — la segunda ya es tic. Antes de cerrar, el propio Escritor busca sus n-gramas. **Medidor:** M1 (interna, ≥9 palabras = duro) + M2 (contra capítulos previos, ≥8 palabras = duro; párrafos con Jaccard ≥ 0.30 = aviso).
 
@@ -151,6 +155,10 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C4-23 | Café · Cap 3 v0.2 | *"insinúa el salto de tiempo, unas 3 semanas"* | El lector no sabía cuánto pasó |
 | C4-24 | Café · Cap 2 v0.5 · 19/08 | *"sé que di el okey a esto, pero no tiene sentido, quítalo"* | Párrafo del narrador racionalizando el vaso («nada de lo que hizo esa noche era normal…») |
 | C4-25 | La Piel · Cap 1 v0.1 | *"hay errores en el texto"* | |
+| C4-26 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"el dialogo de cupcake con don manuel me perece como inconexo, casi sin sentido, le pregunta como yo era antes? a que viene esa pregunta o cuando le cobra le dice mañana se lo tengo? que cosa???"* | Diálogo «con mecanismo» que el Validador celebró (*"memoria del viejo como palanca", "vuelto pendiente como anzuelo"*) y que a la primera lectura **no se entiende**. Una línea de la dominante tiene un objetivo en el cuerpo del otro y se entiende sin exégesis |
+| C4-27 | Café · Cap 4 v0.3 · 02/09 | *"nadie se lo habia pedido, que cosa nadie se lo piedio?? trabajar ahi? las tetas q??"* | Frase de párrafo entero sin referente (*"Nadie se lo había pedido."*) — el remate «literario» que obliga a releer |
+| C4-28 | Café · Cap 4 v0.3 · 02/09 | *"despues de un turno se le quedo puesto... hay que humanizar, despues de un turno se le quedo la idea"* | Ella misma da la corrección: la frase derecha. El «ingenio» (*se le quedó puesto*) por la cosa (*se le quedó la idea*) |
+| C4-29 | Café · Cap 4 v0.3 · 02/09 | *"por que don manuel volveria mañana con mas dinero??? es pq lo dejo mas cliente o pq le gusto mas ahora??? de nuevo algo sin mucho sentido"* | Causalidad no escrita en escena: el texto afirma el efecto (vuelve con más plata) sin mostrar la causa en el cuerpo del hombre |
 
 **Regla operativa C4 — la prueba de la lectura en voz alta.** La frase "ingeniosa" del narrador (elipsis, chiste, palabra inventada, símil que hay que descifrar, remate críptico) es **la marca robótica número uno por volumen**. Si al leerla como la Ama hay que releer, se cae: se dice derecho. En body swap y feminización, **cada pronombre y cada género de adjetivo se verifica contra quién habla y en qué cuerpo** — el error de persona es el más frecuente de todos los errores. Un salto de tiempo o de vestuario se **muestra**, no se asume. **Medidor:** solo lo aproxima (M7 clichés, H2, H6); el resto es oído — por eso el Escritor relee en voz alta y el Validador cita línea.
 
@@ -174,6 +182,9 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C5-14 | De Esteban a Secretaria · Cap 2 v0.8 | *"que no solo toque su coño con tape, también sus pequeñas tetas"* | |
 | C5-15 | Café · Cap 3 · dictado 31/08 | *"la regla del pulgar es tonta. Cambiar por algo más práctico: una técnica real para calentar al cliente y que le dé más plata"* | **Truco inventado ✗ · técnica real ✓** |
 | C5-16 | Café · Cap 1 v0.9 | *"cuando Javiera pide el café, que la garzona coquetee extra descarada con ella"* | |
+| C5-17 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"el momento de ella frente al espejo que se supone que se calienta, es ridiculo, solo piensa y donde estan sus manos??? piensa en la fila de hombre y solo piensa??? su mano no deberia recorrer su cuerpo"* | Espejo sin manos. En sus referencias **toda** escena de espejo tiene las manos sobre las tetas y el coño (`voz_autoral.md` §6, Fragmento 14) |
+| C5-18 | Café · Cap 4 v0.3 · 02/09 | *"esta caliente, mi rey. soplele... y cupcake se agacha queda a centimetros de los labios del cliente estira los suyos como si fuera a besarse y ... ella le sopla el cafe?, se entiende?"* | **Coreografía dictada por ella**: la boca a centímetros de la boca, los labios estirados como para un beso, y el soplido va al café. La técnica es un gesto exacto, no un resumen |
+| C5-19 | Café · Cap 4 v0.3 · 02/09 | *"casi no hay sensorialidad y eso es una marca registrada de mis relatos, el poder estar ahi"* + Declaración: *"la idea en general es hacer sentir al lector que esta ahi"* | La frase-tesis de su voz. Medido ese día: cursivas 0,7/1000 (referencias 2,3-5,3) y **cero** parlamentos largos de Cupcake (referencias 9-32) — la dominante callada deja al lector en la puerta |
 
 **Regla operativa C5.** El lector está **dentro de la escena, a un centímetro**: lentitud · distancia que se cierra · olor · susurro · piel que roza piel · el cuerpo exhibido **en movimiento**. El vestuario se describe **sobre el cuerpo** y con la voz activa de quien lo mira o lo pone. La cabeza del personaje trae **el motor del relato** (poder, plata, humillación, la amenaza), no solo sensación. La técnica es **real** (la que un cuerpo usa de verdad para calentar a otro), nunca un truco inventado. **Medidor:** mide su ausencia (M4), no su presencia — la receta la juzga el Validador citando las 3 frases más calientes.
 
@@ -247,6 +258,7 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C9-16 | Manos de la Ama · Cap 1 v0.1 | *"mejora los pensamientos del hombre"* |
 | C9-17 | La Piel · Cap 1 v0.2 | *"la calentura acumulada en Dani no le permite pensar bien, empieza lentamente a actuar como bimbo"* |
 | C9-18 | La Piel · Cap 3 v0.1 | *"me falta ese edge sexual, de lo que va a pasar, de lo que podría pasar, me entiendes?"* — **la anticipación como estado** |
+| C9-19 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"olvida la cinta doble faz, has que lo intente pero que luego decida sacarla, que llama mas la atencion asi que las tetas grandes bikini pequeño siempre hay posibilidad de que se vea el pezon y eso es exitante para todos, ella incluida"* | **El vestuario que puede fallar calienta más que el que está fijo.** La cinta resolvía el problema; el problema era el motivo permanente. Estado continuo para todo el capítulo |
 
 **Regla operativa C9.** El estado (excitación, amenaza, voz interna, prenda que aprieta, pezón marcado, verga que no responde) es **continuo**: está en cada escena, incluidas las de trámite, y **solo sube**. Un motivo permanente cumplido una vez y dado por hecho es falla (Regla de Oro 14). La escena de sexo lleva la cabeza del sumiso **dentro**, no solo el cuerpo. **Medidor:** M10 (deciles) lo aproxima; T7 lo mide por escena.
 
@@ -263,6 +275,7 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C10-07 | La App · Cap 1 v0.3 | *"«empapaba el calzón», cambia calzón por bóxer"* | Todavía es hombre |
 | C10-08 | Lo que Pediste · Cap 1 v0.5 | *"asco a qué, si aún no sabe el efecto del deseo"* | Causalidad rota |
 | C10-09 | La Muñeca del Gerente · Cap 1 v0.1 | *"porque Francisca decide darle nombre de mujer?"* | Motivación sin plantar |
+| C10-10 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"no entiendo por que abre con cupcake tomando el liquido, si a estas alturas ella ya esta transformada, no necesita mas, ya sabe la verdad... de nuevo... porque??? no tiene sentido"* | La cronología (H15) ordenaba que siguiera bebiéndolo «a sabiendas»; para ella la causalidad del personaje ya no lo justifica. **Un hecho plantado no obliga a repetir un gesto que el arco ya cerró** |
 
 **Regla operativa C10.** Ya es la Ley de Continuidad + `cronologia.md` (Regla de Oro 11). Lo que estos casos agregan: **la corrección de un error de continuidad nunca se hace inventando un ancla nueva** (C10-02) — se planta en su escena de origen o se saca el callback. **Medidor:** no mide. Gate Continuidad del Validador.
 
@@ -275,6 +288,7 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C11-03 | La Piel · Cap 1 v0.2 | *"que sienta el cambio y el contraste del cuerpo"* |
 | C11-04 | De Esteban a Secretaria · Cap 2 v0.6 | *"siempre ese contraste, ella ve a Gabriel le atrae, pero debe haber ese juego con que Estefanía es hombre"* |
 | C11-05 | De Esteban a Secretaria · Cap 2 v0.6 | *"haz hincapié en los cambios, por ejemplo las uñas y el café"* |
+| C11-06 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"cupcake no luce sus nuevas tetas, este cap debe ser sobre eso, sobre el nuevo cuerpo y el aumento de poder de atraccion de sexualidad de cupcake, si antes estaba en nivel 10 ahora es nivel 1000"* — el capítulo posterior a una modificación corporal **es** el contraste, con cada cliente |
 
 **Regla operativa C11.** La transformación se ve **contra lo que había**: cada cambio nuevo se escribe al lado de su versión anterior (el pelo de antes, la mano de antes, el hombre que todavía es). Sin el "antes" en la misma frase, el "después" no calienta.
 
@@ -320,6 +334,8 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C14-09 | Café · Cap 1 v0.9 | *"que la garzona coquetee extra descarada con ella"* |
 | C14-10 | Lo que Pediste · Cap 1 v0.5 | *"Hagamos que la tentación de Ginny sea mayor, que sea ella misma que usando su magia empieza poco a poco a mostrar una verga… Hace mejor la tentación"* |
 | C14-11 | Lo que Pediste · Cap 1 v0.5 (hallazgo del Validador) | *"la sintaxis de Ginny se le desarma cuando tiene cuerpo que enseñar, y se le vuelve a armar cuando solo le queda la voz"* — **sin cuerpo en cuadro, la dominante se vuelve narradora** |
+| C14-12 | Café · Cap 4 v0.3 · 02/09 (en vivo) | *"en la primera interaccion con don manuel, debe ser mas erotica, ella esta tratando de que se acuerde de ella, estuvo tiempo a fuera y cupcake quiere recuperar lo suyo… en ese primer acercamiento porque no le muestra las tetas??? si se opero para que la vean aun mas"* | La dominante con un objetivo (recuperar a su cliente) y un arma nueva (las tetas) que **no usa**. Reincide C14-05 (*"más manipuladora con don Manuel, que lo deje duro"*) dos capítulos después |
+| C14-13 | Café · Cap 4 v0.3 · 02/09 | *"el texto de la rotura de la 4ta pared no me gusta, debe ser sensual, exitante..."* | Las tres cuartas paredes explicaban quién pagó las tetas. La segunda persona de la casa (Mandato de los Tacones) le habla al **cuerpo** del lector y le ordena (`voz_autoral.md` §7) |
 
 **Regla operativa C14.** La dominante **actúa sobre el cuerpo del otro antes de explicar nada**; su propio deseo está en escena (se pone contenta de la erección que provoca, C2-08); tienta con cuerpo, olor y distancia, no con parlamento. Ya está en `escritor-nivel4.md` («fuego sexual activo, no asistente técnica») — y siguió fallando con Validador APROBADO. El Validador cita **qué hace** la dominante en las 3 frases más calientes; si solo habla, T2 ❌.
 
@@ -333,6 +349,15 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 
 **Regla operativa C15.** H4 = 0. La escena degrada, humilla, somete; la palabra que lo clasifica es el andamio asomándose. **Medidor:** M6, falla dura.
 
+### C16 · «La escritura está rara, muy… poética» — registro que no es el suyo 🆕 02/09/2026
+
+| ID | Dónde | Sus palabras | Qué había |
+|---|---|---|---|
+| C16-01 | Café · Cap 4 v0.3 · 02/09 (en vivo, primera nota de la lectura) | *"estoy leyendo el relato, la prosa, la escritura esta rara muy... poetica?!"* | Apertura en fragmentos abstractos (*"Lo primero que aprendió del cuerpo nuevo fue el peso. No el tamaño. El peso."*), poesía clínica del cuerpo (*"parches dormidos"*, *"el nervio hubiera tomado el camino largo"*, *"durazno demasiado lleno"*), utilería inerte por escena, dominante lacónica, cero cursivas. Medido ese día contra sus cinco referencias: cursivas 0,7/1000 vs 2,3-5,3; parlamentos largos 0 vs 9-32 |
+| C16-02 | Café · Cap 4 v0.3 · 02/09 — Declaración | *"me gusta ser descriptiva y sensorial, erotica... usando palabras mas crudas en ciertos momentos, pero la idea en general es hacer sentir al lector que esta ahi"* | **Su definición de voz, literal.** Dueño: `01_Canon/voz_autoral.md` (reescrito ese día sobre sus referencias) |
+
+**Regla operativa C16.** «Poético» = el registro del motor cuando la voz de la casa está delgada: elipsis, aforismo seco como textura, metáfora que hay que descifrar, cuerpo descrito con precisión clínica en vez de nombrado, objetos en vez de piel, dominante que calla. Lo suyo es **descriptivo y sensorial** (la piel, la distancia, el aliento), **hablado** (la dominante al oído), **pensado en cursiva** con la palabra sucia, y **crudo en el pico**. Antes de escribir: `voz_autoral.md` entero. Antes de cerrar: §8 de ese archivo como anti-antología. **Medidor:** M11 (cursivas/1000) y M12 (parlamentos ≥45 palabras) como avisos; H1/H3 recalibrados (2/escena, 6/cap) para no confundir su ritmo con un tell.
+
 ---
 
 ## §0 — PROCESO: lo que no es prosa pero fabrica las 12 versiones
@@ -345,6 +370,8 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | P-04 | 28/07/2026 | *"solo anota"* | Notas sin ejecutar hasta que ella diga |
 | P-05 | 30/08/2026 (Lo que Pediste) | — | Pendientes de v0.4 que no llegaron a v0.5: **cada pendiente perdido entre versiones es una lectura más de ella** |
 | P-06 | 02/09/2026 | *"debo leer 5, 6 veces el mismo relato y eso al final mata mi propia temperatura, si lo logras al primero o segundo está bien, pero hay relatos que llegaron a la 12 versión"* | **La meta de Loreto: ≤ 2 lecturas por capítulo** |
+| P-07 | 02/09/2026 | *"no se si seria bueno que leas mis relatos para saber el estilo de escritura o definirlo juntas?"* | La voz no se infiere de reglas: se lee de sus relatos y se define con ella. `voz_autoral.md` llevaba tres meses y 40 relatos sin actualizarse — **un archivo de voz que no crece se vuelve la voz del motor** |
+| P-08 | 02/09/2026 | *"anota no digas nada"* (leyendo el Cap 4 v0.3) | Notas en vivo se transcriben verbatim y en orden, sin responder, hasta que ella cierre la lectura → `nota_capitulo_04_la_entrega_v0.3.md`. Ya era P-04; reincide y se confirma |
 
 ---
 

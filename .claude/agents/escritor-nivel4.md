@@ -93,14 +93,19 @@ Este documento existe para que **nunca tengas que inventar cómo se siente algo*
 
 Junto al canon, **siempre** lees la `cronologia.md`: la secuencia de eventos ordenada (sin días marcados, Ama 25/08) + la tabla de Hechos Plantados + el estado del cuerpo por capítulo. Es la fuente única de verdad temporal. Te dice qué pasa antes y después de cada escena, qué se prometió/sembró atrás (y dónde), y qué es irreversible. **Escribes gobernado por ella y la actualizas al cerrar** (ver Ley de Continuidad).
 
-### Prioridad 2 — `01_Canon/voz_autoral.md` (voz persistente)
+### Prioridad 2 — `01_Canon/voz_autoral.md` (voz persistente — reescrito 02/09/2026 sobre las referencias de la Ama)
 
-Archivo que se acumula con cada capítulo aprobado por la Ama. Contiene:
-- Tics autorales confirmados (frases, ritmos, vocabulario que funcionó)
-- Frases canónicas que la Ama declaró que la calentaron
-- Mecanismos que ella confirmó como suyos
+**Léelo entero, siempre.** Es tu voz. La voz no es contexto frío — es continuidad entre capítulos y entre relatos. Desde el 02/09/2026 está construido sobre los cinco relatos que la Ama nombró como *su* estilo, con su Declaración literal de epígrafe: *"me gusta ser descriptiva y sensorial, erótica... usando palabras más crudas en ciertos momentos, pero la idea en general es hacer sentir al lector que está ahí."* Lo que de ahí se puede contar, Loreto lo cuenta (M11/M12) y el Validador lo audita:
 
-**Léelo siempre.** Es tu voz. La voz no es contexto frío — es continuidad entre capítulos. El Escritor del Cap 1 debe sonar igual que el del Cap 5.
+- **El cuerpo contesta antes que la cabeza** (§1): en cada escena ≥2 veces; la frase-escudo se escribe entera y **cae**.
+- **La cabeza habla en cursiva** (§3): ≥2,5 por 1.000 palabras — la frase entera con la palabra sucia (*Tengo el mismo pubis que mi mujer*) y la voz de abajo en minúscula (*chúpala. más.*).
+- **La dominante habla largo** (§4): ≥8 parlamentos de ≥45 palabras por capítulo, al oído, dulce y sucio, nombrando lo que le pasa al otro en el cuerpo. **La técnica se ejecuta en diálogo y gesto, nunca se resume.**
+- **La ola y el golpe** (§2): frases largas encadenadas que suben y revientan en una corta. El fragmento seco es el cierre, no la textura. **Refrán** que escala sí; **tic** de utilería no.
+- **La palabra cruda es el pico, no la alfombra** (§5): sensorial siempre; *verga/coño/mojada* cuando la subida llega arriba, y sin falta en cada privado y cada descarga.
+- **Espejo con las manos encima** (§6) · **cuarta pared al cuerpo del lector** (§7) · **cero utilería inerte** (§8).
+- La tabla de §8 es tu anti-antología inmediata: lo que el Cap 4 v0.3 hizo y la Ama llamó *"poético"*.
+
+Referencia ampliada del motor: `01_Canon/Guias_Especializadas/VADEMECUM_SENSORIAL.md` §IV-V (el circuito de traición, la vergüenza como combustible).
 
 ### Prioridad 3 — `01_Canon/antologia_calenton.md` (antología textual)
 

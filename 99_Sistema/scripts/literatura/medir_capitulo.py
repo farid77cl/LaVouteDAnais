@@ -554,15 +554,15 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
     blandos = []
     if len(tics["h2"]) > 1:
         blandos.append(f"H2 «no era X, era Y» ×{len(tics['h2'])} (cupo 1)")
-    if len(remates) > 2:
-        blandos.append(f"H3 remates ×{len(remates)} (cupo 2, greppable aprox.)")
+    if len(remates) > 6:
+        blandos.append(f"H3 remates ×{len(remates)} (cupo 6 desde 02/09/2026, greppable aprox.)")
     if len(tics["h5"]) > 4:
         blandos.append(f"H5 «algo» ×{len(tics['h5'])} (revisar cuáles son comodín; cupo 2)")
     if len(tics["h6"]) > 3:
         blandos.append(f"H6 dobletes ×{len(tics['h6'])} (cupo 3, aprox.)")
-    tri = {k: len(v) for k, v in tics["h1_por_escena"].items() if len(v) > 1}
+    tri = {k: len(v) for k, v in tics["h1_por_escena"].items() if len(v) > 2}
     if tri:
-        blandos.append(f"H1 tricolones sobre cupo en {len(tri)} escena(s) (aprox.)")
+        blandos.append(f"H1 tricolones sobre cupo (2/escena desde 02/09/2026) en {len(tri)} escena(s) (aprox.)")
     if var:
         blandos.append(f"H8 varianza falla en {len(var)} ventana(s) de 500 palabras")
     if lex["eufemismos"]:
@@ -712,11 +712,11 @@ def render(r: dict) -> str:
     t = r["m7"]
     L.append("## M7 · Tics de IA (greppables, aproximados — el Validador afina)")
     L.append(f"- **H2 «no era X, era Y»** ×{len(t['h2'])} (cupo 1)" + ("".join(f"\n  - {x}" for x in t["h2"][:8]) if t["h2"] else ""))
-    L.append(f"- **H3 remates aforísticos** ×{len(r['m7_remates'])} (cupo 2)" + ("".join(f"\n  - línea {x['linea']}: …{x['ctx']} **{x['remate']}**" for x in r["m7_remates"][:8]) if r["m7_remates"] else ""))
+    L.append(f"- **H3 remates aforísticos** ×{len(r['m7_remates'])} (cupo 6 desde 02/09/2026; solo cuentan los de relleno)" + ("".join(f"\n  - línea {x['linea']}: …{x['ctx']} **{x['remate']}**" for x in r["m7_remates"][:8]) if r["m7_remates"] else ""))
     L.append(f"- **H5 «algo»** ×{len(t['h5'])} fuera de diálogo (cupo 2 como comodín)" + ("".join(f"\n  - {x}" for x in t["h5"][:8]) if t["h5"] else ""))
     L.append(f"- **H6 dobletes de adjetivo** ×{len(t['h6'])} (cupo 3): " + (", ".join(f"*{x}*" for x in t["h6"][:12]) if t["h6"] else "ninguno"))
-    tri = {k: v for k, v in t["h1_por_escena"].items() if len(v) > 1}
-    L.append(f"- **H1 tricolones por escena** (cupo 1/escena): " + (", ".join(f"esc.{k}×{len(v)}" for k, v in sorted(tri.items())) if tri else "en cupo"))
+    tri = {k: v for k, v in t["h1_por_escena"].items() if len(v) > 2}
+    L.append(f"- **H1 tricolones por escena** (cupo 2/escena desde 02/09/2026): " + (", ".join(f"esc.{k}×{len(v)}" for k, v in sorted(tri.items())) if tri else "en cupo"))
     for k, v in sorted(tri.items())[:6]:
         L += [f"  - esc.{k}: {x}" for x in v[:3]]
     L.append(f"- **Clichés de IA** ×{len(t['cliches'])}" + ("".join(f"\n  - *{c['texto']}* — …{c['ctx']}…" for c in t["cliches"][:10]) if t["cliches"] else ""))

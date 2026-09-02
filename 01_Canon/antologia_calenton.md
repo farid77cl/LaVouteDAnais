@@ -5,7 +5,7 @@
 >
 > El Escritor Nivel 4 lo lee como **antología literaria a la cual él pertenece**. No es lista de reglas — son ejemplos a IMITAR en estilo, ritmo, vocabulario, lente.
 
-**Última actualización:** 2026-06-05 (Cap 1 esposa_servidumbre v0.6 APROBADO — Gate cerrado. Fragmentos 8 y 9 agregados del MEDIO reescrito: depilación dolor/placer fundidos + tucking "la cosa". Aprobados por la Ama.)
+**Última actualización:** 2026-09-02 — Fragmentos 10-14 agregados de las cinco referencias que la Ama nombró como *su* estilo ese día (Café con Piernas Cap 1-2 · De Esteban a Secretaria · El Mandato de los Tacones · Esposa de mi Esposa · La Piel que Diseñé), propuestos por el Orquestador y aprobados por ella con *"deja todas"*. Antes: 2026-06-05 (Fragmentos 8 y 9, esposa_servidumbre Cap 1 v0.6).
 
 ---
 
@@ -140,6 +140,64 @@
 **Por qué funcionó (Ama):** *"mientras más lo trataba como cosa, más le respondía la cosa"* formula la mecánica central del sumiso en una sola frase pivote. Y el placer SIN descarga —*"un animal contra la jaula"*, el latido que "empuja y vuelve"— instala el motor del calor ascendente de todo el capítulo: el placer que no puede descargarse no se apaga, **crece**. Setup físico del borde negado de la noche del babydoll.
 
 **Lente activado:** Cuerpo que va antes que mente + Sadismo emergente (la cosificación de Valeria que enciende) + el placer-sin-descarga como motor de acumulación.
+
+---
+
+### Fragmento 10 — El calor que llega al revés (Café con Piernas, Cap 2 — zapatería)
+
+> *—Huelen raro estos —dijo, sin mala intención, mirándolos de reojo antes de meterlos en el cajón—. Como a colonia. ¿Los tenía guardados con perfume?*
+>
+> *—Algo así —dijo Javiera.*
+>
+> *Y el calor le subió a la cara con retraso, porque primero le bajó. Fue exacto y fue rápido: le llegó a la entrepierna antes que a las mejillas, como si el cuerpo hubiera decidido de una vez por todas en qué orden reaccionar y ya no estuviera tomando sugerencias.*
+
+**Por qué entra (referencia nombrada por la Ama, 02/09/2026):** el circuito de traición en su forma más limpia — el estímulo es mínimo (una vendedora huele los billetes del gordo), la respuesta es anatómica y va **primero abajo**, y la cabeza registra el orden. Es la frase que define `voz_autoral.md` §1.
+
+**Lente activado:** Cuerpo que va antes que mente.
+
+---
+
+### Fragmento 11 — «Te dejé un coño» (De Esteban a Secretaria, Cap 1 — noche del babydoll)
+
+> *—Mírate. Ni siquiera se te para ya. Se te dobla y se moja, como debe ser. —Volvió a presionar, lento, sintiendo la verga atrapada latir inútil contra el tape—. Esto que tienes acá abajo ya no te sirve para lo que te servía, mi amor. Lo único que sabe hacer ahora es mojarse cuando lo tocan. Igual que el mío. —Acercó los labios a la oreja de Estefanía, el labial burdeos rozándole el lóbulo—. ¿Te das cuenta? Te dejé un coño. Tardé una semana, pero te lo dejé.*
+
+**Por qué entra:** la dominante que **habla largo** al oído — cinco frases, *mi amor*, nombrando en voz alta lo que el cuerpo del otro está haciendo mientras cierra la trampa. Es el modelo de `voz_autoral.md` §4; ya vivía como Fragmento 6 y se reafirma como referencia de voz.
+
+**Lente activado:** Sadismo con cariño + reasignación anatómica dicha por la dominante.
+
+---
+
+### Fragmento 12 — «Cierras las piernas para que no entre» (La Piel que Diseñé, Cap 1)
+
+> *—Ahí está —dijo Daniela, y se le movió algo en la cara, en mi cara, el brillo del que reconoce que el otro acaba de perder algo—. Cierras las piernas para que no entre y lo que haces es apretártelo contra la mano. —No avanzó. Dejó la mano quieta, alta, atrapada, dejándome con las ganas de que avanzara y el horror de tener ganas—. Yo esa me la sé, mi amor. Esa la hacía yo. Apretaba las piernas pensando que me defendía y me estaba dando placer sola. —Bajó la voz—. Tú me enseñaste eso. Sin querer. Cuando me hacías esperar.*
+
+**Por qué entra:** la dominante **lee el cuerpo del otro en voz alta y le devuelve su propia defensa convertida en placer** — la resistencia física se vuelve el mecanismo del calor. Y la mano quieta: no avanza, deja que las ganas trabajen. Modelo de lentitud (caso C5-10) y de dirty talk que explica la trampa mientras la cierra.
+
+**Lente activado:** Cuerpo que va antes que mente + la dominante que habita el cuerpo que somete.
+
+---
+
+### Fragmento 13 — «Soy el cornudo… Y me encanta» (De Esteban a Secretaria, Cap 2 — el sillón verde)
+
+> *El espanto no vino. Ya nunca iba a venir. Lo supo ahí, de rodillas, con el sabor de su mujer en la lengua: que lo había estado esperando un mes entero y que no existía, que se había caído en algún lavamanos hacía semanas y que nadie lo iba a recoger nunca. Y en el lugar donde tendría que haber estado el espanto, llegó la frase —entera, clara, la cosa más cierta que había pensado en su vida, el cuerpo y la cabeza por fin diciendo lo mismo:*
+>
+> *Soy el cornudo. Hormonizado, depilado, de rodillas, mamándole la verga al que se coge a mi mujer. Y me encanta.*
+
+**Por qué entra:** la **cursiva en primera persona con todas las palabras** — el pensamiento que nombra la aberración completa, sin eufemismo, y la cierra con el sí. Es el pico del capítulo y llega como frase mental, no como acción. Modelo de `voz_autoral.md` §3, registro 1.
+
+**Lente activado:** La rendición se declara en la cabeza con la palabra sucia, después de que el cuerpo ya la ejecutó.
+
+---
+
+### Fragmento 14 — «Me acomodé una teta con la mano» (La Piel que Diseñé, Cap 4 — el espejo)
+
+> *Me miré en el espejo y solo pensé, redondo, contento: qué rica que estoy. Las tetas paradas, la cintura chica, el culo alto partido por el rojo, la boca brillante, el pelo largo. Rica. Me di media vuelta para verme el culo y me gustó, y me reí, y me acomodé una teta con la mano para que quedara mejor puesta en el escote.*
+>
+> *Rica, confirmó el hueco, abajo, y esta vez no le peleó nadie.*
+
+**Por qué entra:** toda escena de espejo de la Ama tiene **las manos sobre el cuerpo y narcisismo excitado** — se ve buena, se quiere, se acomoda. Es exactamente lo que faltó en el espejo del Cap 4 v0.3 de Café (*"solo piensa y dónde están sus manos???"*). Modelo de `voz_autoral.md` §6, y de la voz de abajo en minúscula (*Rica.*).
+
+**Lente activado:** El espejo como motor + el cuerpo que se gusta antes de que la cabeza opine.
 
 ---
 

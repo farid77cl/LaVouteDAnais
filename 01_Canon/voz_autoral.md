@@ -75,7 +75,7 @@ Dos registros, y los dos van en cursiva:
 1. **La cabeza nombrando la aberración** — frase entera, con sujeto, con todas las palabras, buscándole el espanto: *"Soy un hombre de treinta y ocho años, de rodillas en el suelo, con la peluca puesta y las tetas que me crecieron, mamándole la verga al que se coge a mi mujer. Y ella mira."*
 2. **La voz de abajo** — una a tres palabras, en minúscula, sin sintaxis, que sube del cuerpo y contesta lo contrario: *chúpala.* · *sí.* · *más. adentro. ahora.* · *que me miren todos.*
 
-**Regla operativa:** ≥ 2,5 cursivas por mil palabras; en cada escena erótica hay al menos una de cada registro. En «Café» esto es la cabeza de Cupcake — desde el Cap 3 ya no hay «otro yo» que marcar (canon §6c), así que la cursiva vuelve a ser suya (ver §10.3).
+**Regla operativa:** ≥ 2,5 cursivas por mil palabras; en cada escena erótica hay al menos una de cada registro. En «Café» esto es la cabeza de Cupcake — desde el Cap 3 ya no hay «otro yo» que marcar, así que la cursiva vuelve a ser suya (canon §6c enmendado por la Ama el 02/09: *"ok"*).
 
 ---
 
@@ -167,14 +167,16 @@ Segunda persona, imperativa, corta, *cariño/muñeca* como marca de propiedad. D
 
 ---
 
-## §10 — Choques con reglas vigentes — DECISIÓN DE LA AMA (abiertos 02/09/2026)
+## §10 — Choques con reglas vigentes — RESUELTOS POR LA AMA (02/09/2026)
 
-Estas cuatro cosas salieron de medir sus referencias contra las reglas que hoy gobiernan al Escritor. No se cambiaron solas: se listan para que ella decida.
+Estas cuatro cosas salieron de medir sus referencias contra las reglas que gobernaban al Escritor. Se le presentaron y respondió *"a.- si derogalo b.- si c.- ok d.- efecto visible"*. Ejecutado el mismo día en cada archivo dueño:
 
-1. **`HUMANIZADOR.md` L1 «objeto inerte por escena» y L6 «lo aburrido».** Sus once referencias tienen ~cero lastre; lo que tienen es cuerpo. El caso C1-10 (*"el relato está muy realista, no tiene ese sentido de relato erótico de control mental más fantasioso"*) apunta exactamente ahí. **Propuesta:** derogar L1 y L6 en escenas eróticas; conservar L2 (pensamiento sin terminar) y L4 (frase que se cansa), que sí están en sus textos.
-2. **`HUMANIZADOR.md` H1 (≤1 tricolon/escena) y H3 (≤2 remates/capítulo).** Sus referencias llevan 2-44 remates y tricolones en todas las escenas. **Propuesta:** H3 ≤6 por capítulo (y ninguno que nombre el tema); H1 ≤2 por escena; que Loreto y el Validador cuenten solo los de relleno, no los que cierran una ola.
-3. **`canon_relato.md` §6c «sin cursivas de voz interior»** (Café). La regla era para el *otro yo*; desde el Cap 3 hay una sola cabeza, y las referencias Cap 1-2 llevan 4 cursivas por mil. **Propuesta:** cursivas obligatorias para el pensamiento propio de Cupcake (§3), sin marcar ninguna «voz».
-4. **`canon_relato.md` §6b-bis «el vaso nunca se confirma».** Su referencia Cap 1 muestra el efecto en página (*"El efecto fue fulminante"*, los susurros del bajo). La regla de ambigüedad es del Compositor, no suya. **Pregunta, no propuesta:** ¿quiere el vaso ambiguo como está escrito en el canon, o con efecto visible como en el Cap 1 que ella nombra como referencia?
+1. ✅ **`HUMANIZADOR.md` L1 «objeto inerte por escena» y L6 «lo aburrido» — DEROGADOS en escenas eróticas** (*"si derogalo"*). Se conservan L2 (pensamiento sin terminar) y L4 (frase que se cansa), que sí están en sus textos. Sus once referencias tenían ~cero lastre; caso C1-10.
+2. ✅ **`HUMANIZADOR.md` H1 → ≤2 tricolones por escena · H3 → ≤6 remates por capítulo**, contando solo los de relleno (*"si"*). Loreto y el Validador recalibrados.
+3. ✅ **`canon_relato.md` §6c (Café) — cursivas obligatorias para el pensamiento propio de Cupcake** (*"ok"*), sin marcar ninguna «voz». ≥2,5 por mil desde el Cap 4 v0.4.
+4. ✅ **`canon_relato.md` §6b-bis (Café) — el vaso con efecto visible** en escena, como en el Cap 1 publicado (*"efecto visible"*). La sustancia sigue sin nombrarse nunca (Ley 4 intacta).
+
+Y los cinco fragmentos propuestos entraron a `antologia_calenton.md` (Fragmentos 10-14) por su orden: *"deja todas"*.
 
 ---
 

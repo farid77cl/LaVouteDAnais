@@ -53,15 +53,15 @@ Auditar contra `.agent/skills/engine-escritura-lv/resources/HUMANIZADOR.md` §Pa
 
 | # | Métrica | Umbral |
 |---|---|---|
-| H1 | Tricolones | ≤1 por escena |
+| H1 | Tricolones (solo relleno; el golpe que cierra una ola no cuenta) | ≤2 por escena *(rev. 02/09/2026)* |
 | H2 | «no era X, era Y» | ≤1 por cap |
-| H3 | Frases-remate aforísticas | ≤2 por cap |
+| H3 | Frases-remate aforísticas (solo relleno) | ≤6 por cap *(rev. 02/09/2026)* |
 | H4 | Abstractos que nombran el tema | **0** |
 | H5 | «algo» como comodín | ≤2 por cap |
 | H6 | Dobletes de adjetivos | ≤3 por cap |
 | H7 | Cadenas de variación elegante | **0** |
 | H8 | Varianza de frase (≥1 de ≤5 y ≥1 de ≥35 por cada 500 palabras) | cumple |
-| H9 | Lastre presente (L1/L2 por escena, L6 por cap) | presente |
+| H9 | Lastre vivo (L2/L4 por escena — L1 y L6 derogados 02/09/2026; un objeto inerte por escena YA NO se exige ni se premia) | presente |
 
 **Veredicto de humanización:** todo en umbral → ✅ LIMPIO · 1-3 fuera → 🟡 MICRO-FIX · **4+ fuera, o H4/H7 ≠ 0 → 🔴 vuelve al Escritor** para pasada completa.
 
@@ -175,6 +175,8 @@ lúcido pero frío es un FRACASO.
 ### 4. VOZ AUTORAL (continuidad)
 
 - ¿La prosa suena al `voz_autoral.md`? Los tics canónicos aparecen?
+- **Perfil medido (voz_autoral.md §0, rev. 02/09/2026) — leé M11/M12 en `medicion_v0.X.md` y contrastá con el texto:** pensamiento en **cursiva ≥2,5 por 1.000 palabras** (referencias de la Ama: 2,3-5,3) · **≥8 parlamentos de ≥45 palabras** en boca de quien domina la escena (referencias: 9-32) · en cada escena erótica el circuito «el cuerpo contesta antes que la cabeza» corre ≥2 veces · la palabra cruda **llega en el pico** de cada privado y cada descarga (*"palabras más crudas en ciertos momentos"*) · espejo con las manos encima · cuarta pared que le habla al cuerpo del lector. Si dos de estas fallan, Voz ❌ → DESALINEADO, sin importar los scores.
+- **La Declaración de la Ama (02/09/2026) es la prueba ácida:** *"hacer sentir al lector que está ahí"*. Si el lector mira la escena desde la puerta —técnica resumida, dominante lacónica, objetos en vez de cuerpo—, Voz ❌.
 - ¿Hay frases NUEVAS que merecen incorporarse a `voz_autoral.md`? (Las identificás como sugerencias)
 - ¿La voz es consistente con capítulos previos aprobados?
 
@@ -240,9 +242,9 @@ Validador Nivel 4 · YYYY-MM-DD
 ## 1b. 🩸 Humanización (anti-prosa-de-IA)
 | # | Métrica | Umbral | Contado por mí | Declaró el Escritor | ¿Coincide? |
 |---|---|---|---|---|---|
-| H1 | Tricolones | ≤1/escena | | | |
+| H1 | Tricolones (relleno) | ≤2/escena | | | |
 | H2 | «no era X, era Y» | ≤1 | | | |
-| H3 | Frases-remate | ≤2 | | | |
+| H3 | Frases-remate (relleno) | ≤6 | | | |
 | H4 | Abstractos del tema | 0 | | | |
 | H5 | «algo» comodín | ≤2 | | | |
 | H6 | Dobletes de adjetivos | ≤3 | | | |
