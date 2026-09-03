@@ -118,7 +118,7 @@ La nota (`nota_capitulo_[N]_[slug]_vX.md`) es el **canal fijo del Gate de la Ama
 
 1. **¿Existe `investigacion.md` en la carpeta?**
    - **No** → correr **Fase 0 retroactiva** primero. Las dos preguntas de la Pasada 1 se le hacen igual, aunque el relato ya tenga capítulos escritos: la Declaración de Intención de un relato a medio andar es más valiosa, no menos.
-   - **Sí** → verificar que tenga **§2 Qué Calienta**, **§2b Tono**, **§5 Motivos Permanentes** y **§6 Curva de Resistencia**. Las investigaciones viejas (pre-22/07) **no las tienen** → completarlas, no rehacer el documento entero.
+   - **Sí** → verificar que tenga **§2.0 El Mecanismo Raíz**, **§2 Qué Calienta**, **§2b Tono**, **§5 Motivos Permanentes** y **§6 Curva de Resistencia**. Las investigaciones viejas (pre-22/07) **no las tienen**; las pre-03/09 no tienen §2.0 → completarlas, no rehacer el documento entero.
 2. **¿El canon tiene §4b Motivos Permanentes y §4c Curva de Resistencia?** Si no, copiarlos desde la investigación (no resumirlos).
 3. Recién entonces continuar con lo que la Ama pidió.
 
