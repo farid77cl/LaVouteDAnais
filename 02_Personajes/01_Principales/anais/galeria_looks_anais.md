@@ -4013,11 +4013,11 @@ look nuevo, va antes de este bloque, nunca despues.
 
 **BLOQUE B:** `a structured harness bodice in deep-wine clinical-grade latex, triangulated straps banding the ribcage and underbust with antique bronze ring hardware at the sternum and hip points, the straps cinching the waist and framing the bust without covering it, the bust left bare above the harness the way a guêpière leaves it bare, visible waist boning beneath the straps, a small matching deep-wine latex thong cut high at the waist in true period style but with the leg openings cut sharply upward to the crest of the hip bone, the whole length of hip and thigh left bare, a single antique bronze O-ring centered at the front waist, matching thigh harness bands in deep-wine latex on each outer thigh secured with antique bronze ring hardware, bare toned legs, (12cm deep-wine patent leather T-strap stiletto sandal, antique bronze buckle, open toe, iconic red sole:1.2), matching glossy deep red pedicure on visible toenails, a wide antique bronze cuff on one wrist, an antique bronze collar necklace, stiletto-shaped nails in glossy deep-wine lacquer, Honey Birdette architectural discipline reinterpreted in noble latex and antique bronze, the harness worn over the body rather than a rigid cage`
 
-### 📸 Imágenes (3/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_standing.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_back_view.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_seated.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_standing.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_back_view.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_seated.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_pov.png) | [📸 View](../../../05_Imagenes/anais/look64_arnes_borgona_de_latex_y_bronce_antiguo/anais_L64_odalisque.png) |
 
 **1. Standing:**
 
@@ -4615,11 +4615,11 @@ a black duchesse satin wiggle dress, knee-length, fitted sharply through the hip
 a fitted gunmetal-grey high-shine clinical-grade latex sheath dress with a structured integrated corset seam cinching the tightlaced waist, a high halter collar, a thigh-high side slit that opens with movement and lies closed and demure when she stands still, a fine silver zipper running the length of the spine; no stockings, bare legs beneath the hem; 12cm black patent leather mid-calf stiletto boot ending below the knee, iconic red sole; black opera-length latex gloves to the elbow; a slim gunmetal choker with a center ring; predatory calculating calm gaze, danger worn as elegance
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (4/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_standing.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_back_view.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_seated.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
