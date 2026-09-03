@@ -41,6 +41,10 @@ No es progresiva en el sentido de "empieza fría". El Cap 1 tiene que calentar *
 > **Directiva Ama 25/08/2026 (regla dura):** *"la investigación nunca debe ser clínica, sino orientada al fetiche, al morbo y a lo que calienta"*.
 > Nada de "la impotencia excita". Acá va el **instante concreto**.
 
+### 2.0 El mecanismo raíz
+
+**El mecanismo raíz: la lucidez total sin ninguna salida es la fantasía — no la sumisión, sino la imposibilidad de dejar de sentirla.** Este fetiche invierte la fórmula habitual del control mental: no vende el alivio de "dejar de pensar" (la niebla piadosa que sí ofrecen la hipnosis o el bimbo suave), sino su contrario exacto — pensar TODO, sentir TODO, y no poder mover un dedo con eso. El morbo no está en una voluntad que cede: está en una conciencia que **no puede ceder aunque quiera**, porque no le dejaron ni la salida involuntaria (no se desmaya, no se disocia, no hay niebla): cada humillación se registra completa, en tiempo real, para siempre. Es lo que la Ama nombró como ley — *"el sistema lo aplasta"* no describe dominación: describe volverlo irrelevante mientras sigue perfectamente despierto para notarlo — y esa combinación exacta (impotencia absoluta + lucidez absoluta, sin catarsis que la cierre) es lo que ningún fetiche de sumisión "normal" puede replicar, porque ahí siempre queda alguien que elige obedecer. Acá no hay elección en ningún punto: el cuerpo actúa, el creador administra, y a la mente solo le queda el permiso de mirar y sentir, nunca el de intervenir — y el calor nace justo donde el horror (no poder parar esto) y la excitación (sentirlo de todos modos, con más nitidez cada vez) dejan de ser dos cosas distintas.
+
 ### 2.A — Una mente humana metida en una muñeca sexual
 
 | # | Punto caliente (el instante exacto) | Por qué prende | De dónde sale |
