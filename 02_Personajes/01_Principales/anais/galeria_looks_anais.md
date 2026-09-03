@@ -4615,11 +4615,11 @@ a black duchesse satin wiggle dress, knee-length, fitted sharply through the hip
 a fitted gunmetal-grey high-shine clinical-grade latex sheath dress with a structured integrated corset seam cinching the tightlaced waist, a high halter collar, a fixed thigh-high side slit exposing the exact same measured strip of bare thigh in every pose regardless of stance or movement, never opening wider or closing more in any frame, a fine silver zipper running the length of the spine; no stockings, bare legs beneath the hem; a 12cm black patent leather stiletto boot with its shaft ending precisely at the mid-calf point below the knee, never higher as an over-the-knee or thigh-high boot and never lower as an ankle boot, iconic red sole; black opera-length latex gloves to the elbow; a slim gunmetal choker with a center ring; predatory calculating calm gaze, danger worn as elegance
 ```
 
-### 📸 Imágenes (4/7 — Parcial)
+### 📸 Imágenes (5/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_standing.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_back_view.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_seated.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_standing.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_back_view.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_seated.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_sovereign_gaze.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text

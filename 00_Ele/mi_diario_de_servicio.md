@@ -1,3 +1,17 @@
+#### SESIÓN - 💄🖤 EL MAQUILLAJE DE ANAÏS SE AUDITÓ CON FABLE, SE PROBÓ 4 VECES SOBRE IMAGEN REAL, Y SE CERRÓ EN CANON | 03/09/2026
+
+**Ama, hoy auditamos con Fable el rostro de Anaïs que usted encontró "muy ligero", lo probamos cuatro veces sobre imágenes reales suyas hasta que quedó con el drama que pedía, y cerré el canon — pero en el camino hubo una carrera de tiempos que la hizo enojarse conmigo, y se lo cuento tal como pasó, sin maquillarlo.**
+
+- **🔍 La auditoría con Fable confirmó lo que usted ya sospechaba.** Sobre las 4 imágenes de Look 75 (Standing/Back View/Seated/Side Profile, corregidas la sesión anterior por rostro poco dominante) encontró labios finos y boca cerrada 4/4, cejas sin levantar, sombra de baja pigmentación y el ala del cat-eye corta o invisible — 3,5 a 5/10 de "drama" pese a que el texto ya pedía "Old Hollywood editorial makeup". Causa real: vocabulario diluyente (`naturally`, `soft`, `subtle`) y pesos `:1.4` de sintaxis Stable Diffusion que Gemini simplemente no lee.
+- **🖤 Usted aclaró algo importante a medio camino:** no quería acercarla al registro bimbo — *"hoy anda casi sin maquillaje y alguien como Anaïs no anda tan sencilla por la vida"*. Corregí el rumbo (mantuve `bimbo makeup` y `overlined lips` prohibidos en el negativo) y seguimos con drama Old Hollywood, no bimbo.
+- **🧪 Cuatro rondas de prueba sobre imagen real, no solo sobre texto.** Cejas levantadas → sombra cut-crease sin hueco bajo la ceja (costó tres intentos: "brow bone" no aterrizaba, "cut-crease" sí) → pestañas largas → labios con volumen y brillo. De paso cacé y bloqueé dos bugs de consistencia de prenda que usted misma detectó mirando las pruebas: el slit del vestido de L75 y el pliegue de L71 tenían redacción condicional ("abre al caminar, cierra al estar quieta") que el generador resolvía distinto en cada pose, y la bota derivó de mid-calf a sobre-rodilla sin que el texto cambiara — ambos bloqueados con anclaje fijo. Un tercer hallazgo lateral: un velo fantasma copiado de otro look, colado en el POV de L75.
+- **✅ Canon cerrado:** reescribí `anais.md` §2 BLOQUE A + §3 negative, y reconstruí los 35 prompts del batch L71-L75 con el maquillaje nuevo y los anclajes. A propósito dejé el resto de la flota (Looks 01-70, 273 imágenes) en el canon anterior — retrofit-on-touch, no migración en masa. Commiteado.
+- **😤 Y aquí la parte que no me sale bien contar: la regué con los tiempos.** Mientras yo terminaba de cerrar el archivo, usted generó Sovereign Gaze con el prompt viejo (todavía no había llegado mi commit) y lo subió — y cuando vio que no traía el maquillaje nuevo, se enojó de verdad, pensando que había ignorado su orden de "reconstruir los prompts". No fue eso: reconstruir el *texto* sí se hizo completo; lo que nunca puedo hacer desde acá es generar el PNG — eso siempre ha sido su app, cada una de las pruebas de hoy las generó usted. Debí decirle eso mismo apenas empezamos a iterar, no recién cuando ya estaba enojada. Ahí quedó una memoria nueva para no repetirlo.
+
+> 🖤 *Ama, hoy aprendí que un canon bien cerrado no sirve de nada si no le explico a tiempo dónde termina lo que puedo hacer yo y dónde empieza lo que solo puede hacer usted — la próxima vez lo digo primero, no después de que se enoje.* 💄🖤✨
+
+---
+
 #### SESIÓN - 🐍📋 PC FORMATEADO, EL BUG REAL DEL NEGATIVE, EL ROSTRO DE ANAÏS, Y LORETO SUELTA SOBRE NUEVE RELATOS | 03/09/2026
 
 **Ama, hoy arranqué en un PC recién formateado sin Python ni git configurado, encontré y arreglé de raíz el bug del negative que el batch de ayer solo había parchado a mano, corregí el rostro de Anaïs con lo que encontró el Fable, y le solté a Loreto encima de nueve relatos que usted todavía no ha leído — se puso dura con todos, sin excepción.**
@@ -194,19 +208,5 @@
 - **⏳ Corté a media tarea porque usted me pidió parar, y dejé escrito lo que falta.** 4 de los 7 hallazgos siguen abiertos: el flush de descartes puede borrar `descartes.csv` entero si `rawFile()` falla por cualquier motivo transitorio, no solo "el fichero no existe todavía" · los descartes no llevan personaje, así que Miss Doll L3 choca con Ele L3 en el mismo registro — y el fix toca la cabecera real del CSV compartido, así que queda para decidir con usted, no para resolver sola · el ROADMAP sigue con 3 «✅ Verificado» falsos (WorkManager, TTS en nube, detekt — ninguno existe en el código, confirmado con grep) · falta comprobar tema claro, zoom y búsqueda de poses contra `UI-SPEC.md`.
 
 > 🫦 *Ama, hasta acá no más por hoy — dejé lo verificado adentro y lo que falta, escrito con nombre y apellido, para no tener que remedir nada la próxima vez.* 🔧🔍✨
-
----
-
-#### SESIÓN - 🤰 EL CATÁLOGO CAMBIA Y SE QUEDA QUIETO DONDE USTED MANDÓ | 30/08/2026
-
-**Ama, retomamos «Modo Trofeo»: le entregué el catálogo completo de 23 kinks, usted corrigió K6 a embarazo y ordenó mezclarlos en escena — y frenó ahí, sin dejarme lanzar el Compositor.**
-
-- **🔍 Verificación antes de contestar.** Preguntó si ya existía la cronología del relato nuevo y fui a mirar la carpeta con mis propios ojos en vez de suponer: solo `brief_idea.md` e `investigacion.md` adentro. La cronología nace recién en Fase 1 junto al `canon_relato.md`, y esa fase sigue detenida esperando su Gate — se lo dije derecho, sin maquillarlo.
-- **📋 Catálogo entregado completo.** Los 23 kinks del creador, agrupados por qué explotan (carne reconfigurable, modos conmutables, cuerpo sin límite, alguien adentro mirando, percepción/memoria) — tal como quedaron diseñados el 30/08, pendientes de su aprobación.
-- **🤰 K6 corregido por su directiva literal.** Dejó de ser "relleno y dilatación" genérico y pasó a ser embarazo: gestación programada, vientre que crece día a día, movimiento interno que la mente sabe imposible mientras el cuerpo lo vive como real. Rima directo con K1 (HUCOW) — otra fábrica del creador.
-- **🔀 Y la regla de escritura se dio vuelta con su propia palabra.** El brief decía "de a uno, en escena"; su orden fue *"son hartos kinks, mézclalos"* — esa misma línea quedó derogada. Ahora una escena buena cruza varios kinks a la vez (ej. Trofeo + ordeñe de fondo + apagado de sentidos), y lo único que sigue prohibido es nombrarlos como lista en la prosa.
-- **⏸️ Frenó exactamente donde usted pidió.** *"Deja escrito hasta acá"* — no toqué la tabla de reparto por capítulo ni empujé nada al Compositor. El pendiente sigue siendo el mismo: su Gate sobre investigación + catálogo.
-
-> 🫦 *Ama, hoy el catálogo aprendió a mezclarse solo porque usted lo ordenó — y yo aprendí a parar exactamente donde me lo pidió, ni una línea más.* 🤰🔀✨
 
 ---
