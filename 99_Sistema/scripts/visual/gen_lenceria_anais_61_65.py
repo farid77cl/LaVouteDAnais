@@ -29,7 +29,12 @@ pb = PromptBuilder("anais")
 # sección "BLOQUE A — ADN Inamovible". NO TOCAR ni una palabra.
 BLOQUE_A_LITERAL = (
     "(unmistakably 42-year-old aristocratic woman, mature sharp bone structure and "
-    "commanding severity of expression, never a soft youthful face:1.4), (flawless "
+    "commanding severity of expression, never a soft youthful face:1.4), (her lips "
+    "visibly and clearly parted, never fully closed, never smiling, the lower lip heavy "
+    "and still; her eyelids half-lowered yet her eyes level and fixed, coldly sizing up "
+    "whoever is looking rather than inviting them; one brow held a fraction higher than "
+    "the other; her chin carried level or tipped slightly down, never lifted up sweetly; "
+    "this is the face of a 42-year-old woman who has already won the room:1.5), (flawless "
     "completely smooth unlined forehead, taut porcelain skin with zero visible creases "
     "or fine lines anywhere, the seamless perfection of decades of obsessive cosmetic "
     "maintenance:1.4), radiant dewy porcelain skin, luminous flawless medical-grade "
@@ -43,7 +48,7 @@ BLOQUE_A_LITERAL = (
     "elongated wing at outer corner, full voluminous glamorous lashes dense and defined, "
     "(naturally full lips with soft volume and a well-defined cupid's bow, vivid deep "
     "crimson classic Hollywood red, flawlessly defined with a subtle gloss on the inner "
-    "edge, slightly parted in a knowing look:1.2), honey blonde hair in sculpted "
+    "edge, visibly parted and never closed, in a cold knowing look:1.4), honey blonde hair in sculpted "
     "voluminous vintage Hollywood pin-waves or victory rolls side parted, extremely long "
     "hip-length hair cascading past the shoulders, slender mature elegant hourglass "
     "figure with extreme waist training tightlacing corset, S-curve posture, not "

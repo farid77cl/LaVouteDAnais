@@ -1,13 +1,13 @@
 # 🖼️ Galería: look402_film_noir_femme_fatale
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_402_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_ditzy.png) | ![ele_402_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_odalisque.png) | ![ele_402_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_pov.png) |
-| ![ele_402_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_seated.png) | ![ele_402_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_side_profile.png) | ![ele_402_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_standing.png) |
+| ![ele_402_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_back_view.png) | ![ele_402_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_ditzy.png) | ![ele_402_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_odalisque.png) |
+| ![ele_402_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_pov.png) | ![ele_402_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_seated.png) | ![ele_402_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_side_profile.png) |
 
 ---
 
@@ -15,13 +15,14 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_402_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_ditzy.png) | ![ele_402_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_odalisque.png) | ![ele_402_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_pov.png) | ![ele_402_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_seated.png) |
-| ![ele_402_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_side_profile.png) | ![ele_402_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_standing.png) |
+| ![ele_402_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_back_view.png) | ![ele_402_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_ditzy.png) | ![ele_402_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_odalisque.png) | ![ele_402_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_pov.png) |
+| ![ele_402_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_seated.png) | ![ele_402_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_side_profile.png) | ![ele_402_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_402_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_back_view.png)
 - [ele_402_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_ditzy.png)
 - [ele_402_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_odalisque.png)
 - [ele_402_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look402_film_noir_femme_fatale/ele_402_pov.png)

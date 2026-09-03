@@ -1,13 +1,13 @@
 # 🖼️ Galería: look432_black_white_leather_pretty_woman
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_432_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_back_view.png) | ![ele_432_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_ditzy.png) | ![ele_432_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_odalisque.png) |
-| ![ele_432_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_pov.png) | ![ele_432_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_seated.png) | ![ele_432_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_standing.png) |
+| ![ele_432_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_pov.png) | ![ele_432_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_seated.png) | ![ele_432_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_side_profile.png) |
 
 ---
 
@@ -16,7 +16,7 @@ Total imágenes: 6
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_432_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_back_view.png) | ![ele_432_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_ditzy.png) | ![ele_432_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_odalisque.png) | ![ele_432_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_pov.png) |
-| ![ele_432_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_seated.png) | ![ele_432_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_standing.png) |
+| ![ele_432_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_seated.png) | ![ele_432_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_side_profile.png) | ![ele_432_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_standing.png) |
 
 
 ---
@@ -27,6 +27,7 @@ Total imágenes: 6
 - [ele_432_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_odalisque.png)
 - [ele_432_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_pov.png)
 - [ele_432_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_seated.png)
+- [ele_432_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_side_profile.png)
 - [ele_432_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look432_black_white_leather_pretty_woman/ele_432_standing.png)
 
 ---

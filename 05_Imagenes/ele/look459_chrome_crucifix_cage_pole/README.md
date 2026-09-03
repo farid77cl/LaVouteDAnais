@@ -1,13 +1,13 @@
 # 🖼️ Galería: look459_chrome_crucifix_cage_pole
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_459_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_back_view.png) | ![ele_459_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_ditzy.png) | ![ele_459_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_seated.png) |
-| ![ele_459_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_side_profile.png) | ![ele_459_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_standing.png) |
+| ![ele_459_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_back_view.png) | ![ele_459_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_ditzy.png) | ![ele_459_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_odalisque.png) |
+| ![ele_459_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_pov.png) | ![ele_459_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_seated.png) | ![ele_459_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_side_profile.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_459_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_back_view.png) | ![ele_459_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_ditzy.png) | ![ele_459_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_seated.png) | ![ele_459_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_side_profile.png) |
-| ![ele_459_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_standing.png) |
+| ![ele_459_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_back_view.png) | ![ele_459_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_ditzy.png) | ![ele_459_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_odalisque.png) | ![ele_459_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_pov.png) |
+| ![ele_459_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_seated.png) | ![ele_459_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_side_profile.png) | ![ele_459_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_standing.png) |
 
 
 ---
@@ -24,6 +24,8 @@ Total imágenes: 5
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_459_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_back_view.png)
 - [ele_459_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_ditzy.png)
+- [ele_459_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_odalisque.png)
+- [ele_459_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_pov.png)
 - [ele_459_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_seated.png)
 - [ele_459_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_side_profile.png)
 - [ele_459_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look459_chrome_crucifix_cage_pole/ele_459_standing.png)

@@ -1,27 +1,33 @@
 # 🖼️ Galería: look395_violet_ocelot_fetish_harness
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 3
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_395_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_ditzy.png) | ![ele_395_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png) | ![ele_395_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) |
+| ![ele_395_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_back_view.png) | ![ele_395_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_ditzy.png) | ![ele_395_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_odalisque.png) |
+| ![ele_395_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_pov.png) | ![ele_395_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png) | ![ele_395_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_side_profile.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
-| ![ele_395_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_ditzy.png) | ![ele_395_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png) | ![ele_395_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_395_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_back_view.png) | ![ele_395_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_ditzy.png) | ![ele_395_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_odalisque.png) | ![ele_395_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_pov.png) |
+| ![ele_395_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png) | ![ele_395_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_side_profile.png) | ![ele_395_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_395_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_back_view.png)
 - [ele_395_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_ditzy.png)
+- [ele_395_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_odalisque.png)
+- [ele_395_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_pov.png)
 - [ele_395_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_seated.png)
+- [ele_395_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_side_profile.png)
 - [ele_395_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look395_violet_ocelot_fetish_harness/ele_395_standing.png)
 
 ---

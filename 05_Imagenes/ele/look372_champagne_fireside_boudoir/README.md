@@ -1,13 +1,13 @@
 # 🖼️ Galería: look372_champagne_fireside_boudoir
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_372_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_ditzy.png) | ![ele_372_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_odalisque.png) | ![ele_372_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_pov.png) |
-| ![ele_372_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_seated.png) | ![ele_372_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_standing.png) |
+| ![ele_372_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_back_view.png) | ![ele_372_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_ditzy.png) | ![ele_372_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_odalisque.png) |
+| ![ele_372_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_pov.png) | ![ele_372_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_seated.png) | ![ele_372_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_side_profile.png) |
 
 ---
 
@@ -15,17 +15,19 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_372_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_ditzy.png) | ![ele_372_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_odalisque.png) | ![ele_372_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_pov.png) | ![ele_372_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_seated.png) |
-| ![ele_372_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_standing.png) |
+| ![ele_372_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_back_view.png) | ![ele_372_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_ditzy.png) | ![ele_372_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_odalisque.png) | ![ele_372_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_pov.png) |
+| ![ele_372_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_seated.png) | ![ele_372_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_side_profile.png) | ![ele_372_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
+- [ele_372_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_back_view.png)
 - [ele_372_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_ditzy.png)
 - [ele_372_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_odalisque.png)
 - [ele_372_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_pov.png)
 - [ele_372_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_seated.png)
+- [ele_372_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_side_profile.png)
 - [ele_372_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look372_champagne_fireside_boudoir/ele_372_standing.png)
 
 ---

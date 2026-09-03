@@ -1,13 +1,13 @@
 # 🖼️ Galería: look373_silver_slope_siren
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![ele_373_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_back_view.png) | ![ele_373_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_ditzy.png) | ![ele_373_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_odalisque.png) |
-| ![ele_373_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_pov.png) | ![ele_373_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_side_profile.png) | ![ele_373_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_standing.png) |
+| ![ele_373_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_pov.png) | ![ele_373_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_seated.png) | ![ele_373_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_side_profile.png) |
 
 ---
 
@@ -16,7 +16,7 @@ Total imágenes: 6
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
 | ![ele_373_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_back_view.png) | ![ele_373_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_ditzy.png) | ![ele_373_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_odalisque.png) | ![ele_373_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_pov.png) |
-| ![ele_373_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_side_profile.png) | ![ele_373_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_standing.png) |
+| ![ele_373_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_seated.png) | ![ele_373_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_side_profile.png) | ![ele_373_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_standing.png) |
 
 
 ---
@@ -26,6 +26,7 @@ Total imágenes: 6
 - [ele_373_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_ditzy.png)
 - [ele_373_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_odalisque.png)
 - [ele_373_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_pov.png)
+- [ele_373_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_seated.png)
 - [ele_373_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_side_profile.png)
 - [ele_373_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look373_silver_slope_siren/ele_373_standing.png)
 
