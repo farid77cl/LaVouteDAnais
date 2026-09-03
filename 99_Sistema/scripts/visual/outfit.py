@@ -246,7 +246,8 @@ def cmd_generar(args):
             n_prompts += 1
             out += ["### %d. %s" % (i + 1, label), "```text", prompt, "```", ""]
         out += ["**Negative Prompt:** `%s`"
-                % pb.build_negative(lk.get("negative_extra", b.get("negative_extra", ""))),
+                % pb.build_negative(lk.get("negative_extra", b.get("negative_extra", "")),
+                                    excluir=lk.get("negative_excluir", b.get("negative_excluir"))),
                 "", "---", ""]
 
     texto = "\n".join(out)

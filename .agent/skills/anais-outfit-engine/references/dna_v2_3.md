@@ -36,6 +36,8 @@ Copiar textualmente en CADA prompt, sin modificar ni una sola palabra:
 
 ## NEGATIVE PROMPT BASE
 
+> 🔒 **ESTE BLOQUE YA NO ES EL DUEÑO (03/09/2026).** El dueño único es **`02_Personajes/_perfiles_visuales/anais.md`** §3 — el fence marcado con `<!-- NEGATIVO:BASE -->`, que es el que lee `PromptBuilder.negativo_base`. Hasta hoy este archivo era la única copia real: el perfil solo decía "copiar desde dna_v2_3.md" y nada la copiaba — `PromptBuilder.build_negative()` nunca leía ni este archivo ni el perfil, armaba el negative SOLO con `negative_extra` del look. Bug real, cazado 02/09/2026 en batch de Miss Doll, corregido 03/09/2026.
+
 Añadir en todos los looks sin excepción. Para looks de Látex/Fetichismo: quitar `latex` de la lista si es un look de látex canónico.
 
 ```text

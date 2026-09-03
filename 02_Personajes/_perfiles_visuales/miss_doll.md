@@ -67,6 +67,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 ## §3 · Negative Prompt
 
 **Base (siempre) — ampliado 11/08/2026 con los fallos reales detectados en el rediseño de rostro/cuerpo, y 20/08/2026 con veto de mules y batas cortas:**
+<!-- NEGATIVO:BASE -->
 ```text
 bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt, mule, mules, platform mule, mule sandals, slide sandals, backless heels, short robe, mini robe
 ```

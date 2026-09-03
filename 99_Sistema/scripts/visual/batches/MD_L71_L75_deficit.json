@@ -86,14 +86,14 @@
       }
     },
     "75": {
-      "titulo": "Cotton Candy Bow Skater",
-      "tags": "#girlygirl #rosa #vinyl #siluetacubierta #M7 #batchL71-L75 #V7poses",
-      "concepto": "Girly Girl, empatado en deficit (gana el desempate sobre Penthouse). Hiperfem adulta, registro Moschino-runway, sin ningun tono ni prop de infancia. Arquitectura M7 (minifalda + top), distinta del vestido M6 del Look 66 -- paga cuota de silueta cubierta. Unico arquetipo con expresion calida/sonriente (§2); su negative especifico saca 'warm smile, laughing' del negative base para no contradecir la pose.",
+      "titulo": "Cotton Candy Bow Playsuit",
+      "tags": "#girlygirl #rosa #vinyl #siluetacubierta #M11 #batchL71-L75 #V7poses",
+      "concepto": "Girly Girl, empatado en deficit (gana el desempate sobre Penthouse). Hiperfem adulta, registro Moschino-runway, sin ningun tono ni prop de infancia. REDISEÑADA 03/09/2026: la version original (M7, minifalda plisada + top corto) clonaba la arquitectura exacta de los Looks 47 y 53 -- ambos tambien 'minifalda plisada + top corto', solo cambiaba el color (hallazgo de la Ama, 'los girly girl de miss doll suelen repetir el mismo outfit con falda tableada'). Nueva arquitectura M11 (romper de una sola pieza + peto tipo pinafore superpuesto) -- sin falda, geneticamente distinta de M7 (Look 47/53) y de M6 (vestido, Look 66). Paga cuota de silueta cubierta igual que la version anterior.",
       "adn_overrides": {
         "intense shimmer smokey eye technique": "intense shimmer cotton-candy-blue and pastel-lavender smokey eye technique",
         "high-gloss wet lips": "high-gloss wet coral lips"
       },
-      "bloque_b": "a pastel-lavender patent vinyl pleated micro-skirt with a stiff structured pleat and a hot pink grosgrain waistband bow mounted at the centre front; paired with a cotton-candy-blue cropped bustier top in gloss vinyl, a sweetheart neckline with moulded cups, a short boned silhouette ending above the navel, secured at the back with a row of tiny chrome hooks; a pastel-lavender vinyl thong beneath the skirt, a narrow tapered front panel and a thin waistband sitting high on the hip bones; sheer blush hold-up stockings with a delicate lace band; a cream-gold chain choker with a single small pink enamel heart charm and no lettering; nails: long round-tipped acrylics lacquered in glossy pastel lavender with a fine hot-pink French tip; platform Mary Jane stiletto pumps in cotton-candy-blue patent vinyl, 16cm heel plus 6-inch cream platform, closed rounded toe, a single instep strap fastened with a small gold buckle, cream lacquered sole edge",
+      "bloque_b": "a cotton-candy-blue high-gloss vinyl playsuit cut as a single fitted romper: a sweetheart bustier bodice with moulded cups ending above the navel, secured at the back with a row of tiny chrome hooks, and short puffed above-the-hip shorts replacing any skirt; over it, a pastel-lavender vinyl pinafore-style bib panel overlaid at the front and clipped at each shoulder with a small gold buckle, a hot pink grosgrain bow mounted at the centre of the bib; a narrow tapered thong visible at the leg opening of the shorts, sitting high on the hip bones; sheer blush hold-up stockings with a delicate lace band; a cream-gold chain choker with a single small pink enamel heart charm and no lettering; nails: long round-tipped acrylics lacquered in glossy pastel lavender with a fine hot-pink French tip; platform Mary Jane stiletto pumps in cotton-candy-blue patent vinyl, 16cm heel plus 6-inch cream platform, closed rounded toe, a single instep strap fastened with a small gold buckle, cream lacquered sole edge",
       "setting": "a pastel rooftop terrace lounge at golden hour, sheer blush curtains billowing against a soft bokeh skyline, a low gold-rimmed daybed piled with lavender cushions, warm honeyed light",
       "props": {
         "seat": "a gold-rimmed pastel daybed",
@@ -101,7 +101,8 @@
         "surface": "a small marble side table",
         "upright": "a slender gold curtain-rod post"
       },
-      "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, full-coverage bikini bottom, corset, waist cincher, bustier, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest"
+      "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, full-coverage bikini bottom, corset, waist cincher, bustier, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest",
+      "negative_excluir": ["warm smile", "laughing", "bustier"]
     }
   }
 }

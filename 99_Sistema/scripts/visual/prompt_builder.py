@@ -194,6 +194,45 @@ class PromptBuilder(object):
             self._CACHE_ADN[self.slug] = texto
         return self._CACHE_ADN[self.slug]
 
+    # ------------------------------------------------------------------ NEGATIVO base
+
+    # Mismo patron que MARCA_ADN: un fence marcado en el perfil, dueño unico,
+    # nunca copiado a mano. Nace 03/09/2026 al cazar el bug real de
+    # `build_negative()`: el metodo solo ensamblaba `negative_extra` del look
+    # mas la capa universal, nunca la base del §3 del perfil (childish face,
+    # mule, calzon de cobertura total, etc.) — asi generaron looks completos
+    # sin la mitad del negative (encontrado en Miss Doll, probablemente todos
+    # los batches desde el 29/08).
+    MARCA_NEG = "<!-- NEGATIVO:BASE -->"
+    _RX_NEG = re.compile(re.escape(MARCA_NEG) + r"\s*```(?:text)?\n(.*?)\n```", re.S)
+    _CACHE_NEG = {}
+
+    @property
+    def negativo_base(self):
+        """Negative base del personaje (§3 del perfil), dueño unico.
+
+        Se LEE del perfil, igual que `bloque_a` — nunca se copia aca ni se
+        deja en manos del llamador. `build_negative()` la inyecta sola.
+        """
+        if self.slug not in self._CACHE_NEG:
+            rel = self.perfil.get("perfil_visual")
+            if not rel:
+                raise KeyError(
+                    "'%s' no declara perfil_visual en anclas_universales.json. Sin el, el "
+                    "negative base vuelve a copiarse a mano en cada batch." % self.slug)
+            ruta = os.path.normpath(os.path.join(AQUI, "..", "..", "..",
+                                                 rel.replace("/", os.sep)))
+            if not os.path.exists(ruta):
+                raise IOError("no existe el perfil visual de '%s': %s" % (self.slug, rel))
+            m = self._RX_NEG.search(open(ruta, encoding="utf-8").read())
+            if not m:
+                raise ValueError(
+                    "el perfil de '%s' no tiene el marcador %s seguido de un fence. "
+                    "El negative base debe vivir en un fence marcado; si se movio o se "
+                    "borro el marcador, restaurarlo antes de generar nada." % (self.slug, self.MARCA_NEG))
+            self._CACHE_NEG[self.slug] = self._limpiar(m.group(1))
+        return self._CACHE_NEG[self.slug]
+
     @property
     def anclas_siempre(self):
         """Anclas propias del personaje presentes en TODOS sus slots (13/08/2026).
@@ -631,16 +670,40 @@ class PromptBuilder(object):
         })
         return prompt
 
-    def build_negative(self, base):
+    def build_negative(self, extra="", excluir=None):
         """
-        Fuente unica del negative de un look: el base del perfil §3 + la capa
-        universal anti-collage/anatomia/selfie. Nunca se escribe a mano.
+        Fuente unica del negative de un look: la base del perfil §3
+        (`negativo_base`, auto-leida — YA NO hay que pasarla) + lo que el
+        look agregue puntual (`extra`, tipicamente `negative_extra` del
+        look/perfil) + la capa universal anti-collage/anatomia/selfie,
+        menos lo que el look declare en `excluir` (ver abajo).
+
+        Hasta el 03/09/2026 este metodo tomaba `base` como el ÚNICO
+        argumento y no leia el perfil — outfit.py le pasaba `negative_extra`
+        creyendo que era la base completa, y el §3 del perfil (childish
+        face, mule, calzon de cobertura total...) nunca llegaba al negative
+        real. Bug cazado en un batch de Miss Doll el 02/09/2026. La
+        deduplicacion de abajo hace que pasar `extra` con texto ya incluido
+        en `negativo_base` (scripts viejos que lo copiaban a mano) sea
+        inofensivo — no se repite.
+
+        `excluir`: lista opcional de terminos a sacar del negative ya
+        ensamblado (comparacion exacta, insensible a mayusculas, por
+        token completo separado por comas). Existe porque algunos looks
+        puntuales contradicen la base — ej. Miss Doll Girly Girl saca
+        `warm smile, laughing` porque ese arquetipo es el unico con
+        expresion calida (perfil §6) — y antes del 03/09 esa excepcion
+        nunca se probaba de verdad porque la base ni siquiera llegaba al
+        prompt.
         """
-        base = self._limpiar(base).rstrip(",")
+        base = self._limpiar(self.negativo_base).rstrip(",")
+        extra = self._limpiar(extra).rstrip(",")
         universal = self._limpiar(self.cfg["negative_universal"]["texto"])
+        excluir_low = set(t.strip().lower() for t in (excluir or []) if t.strip())
         vistos = []
-        for t in [x.strip() for x in (base + ", " + universal).split(",")]:
-            if t and t.lower() not in [v.lower() for v in vistos]:
+        capas = base + (", " + extra if extra else "") + ", " + universal
+        for t in [x.strip() for x in capas.split(",")]:
+            if t and t.lower() not in excluir_low and t.lower() not in [v.lower() for v in vistos]:
                 vistos.append(t)
         negativo = ", ".join(vistos)
         _log_evento({

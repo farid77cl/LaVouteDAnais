@@ -71,7 +71,12 @@
 
 ## §3 · Negative Prompt
 
-**Base:** copiar desde `dna_v2_3.md`.
+**Base (siempre) — migrada desde `dna_v2_3.md` el 03/09/2026 (mismo hueco que tenía el BLOQUE A antes del 29/08: cero token literal en el perfil, solo la instrucción de ir a copiarlo de la skill legacy — nadie lo copiaba, y `PromptBuilder.build_negative()` nunca la leía):**
+<!-- NEGATIVO:BASE -->
+```text
+(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie, sexy, hot, horny, naked, nude, seductive, provocative, tempting, naughty, open mouth, tongue, explicit nude, (distorted animal print, neon leopard:1.2), cheap fabric texture
+```
+Para looks de Látex/Fetichismo: quitar `latex` de la lista si es un look de látex canónico (nota original de `dna_v2_3.md`, sigue vigente).
 
 **Léxico prohibido en el POSITIVE** (degrada el registro — canon §VIII):
 `sexy` · `hot` · `seductive` · `naked` · `nude` (como desnudez; vale como color) · `provocative` · `tempting`

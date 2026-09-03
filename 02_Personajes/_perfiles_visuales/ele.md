@@ -50,6 +50,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ## §3 · Negative Prompt
 
 **Base (siempre):**
+<!-- NEGATIVO:BASE -->
 ```text
 red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B), text on clothing, lettering, words, writing, embroidered name, name tag, nameplate, engraved name, name on choker, name on collar, logo text, letters on garment, "ELE", "ASSET", "PET", gloves, opera gloves, elbow gloves, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt
 ```
