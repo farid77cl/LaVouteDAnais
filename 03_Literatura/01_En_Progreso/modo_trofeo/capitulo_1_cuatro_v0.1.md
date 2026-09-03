@@ -114,7 +114,7 @@ El ruido exacto de lo mojado.
 
 Por la cresta.
 
-Se mojó en el momento en que el dedo cruzó el borde. Ni antes ni después: la llave se abrió cuando tocaron el timbre. Yo estaba acá, en primera fila, la única fila, y juro que no hubo aviso — ni un cambio en la respiración de vitrina, ni un temblor, nada de esa marea previa que uno aprende a leerle a una mujer—. Cero. Y de un segundo al otro, mojada, gimiendo afinado, con el coño ofreciéndole al dedo del viejo la humedad justa que la escena pedía.
+Se mojó en el momento en que el dedo cruzó el borde. Ni antes ni después: la llave se abrió cuando tocaron el timbre. Yo estaba acá, en primera fila, la única fila, y juro que no hubo aviso — ni un cambio en la respiración de vitrina, ni un temblor, nada de esa marea previa que uno aprende a leerle a una mujer—. Cero. Y de un segundo al otro, mojada, gimiendo afinado, con el coño ofreciéndole al dedo del viejo exactamente lo mojado que la escena pedía.
 
 Este cuerpo lo hace bien. Se moja mejor que las minas que se mojan de verdad, y no hay nadie adentro. Nadie salvo yo, que no cuento, que estoy de allegado. La perfección no me necesita. A eso tampoco sé dónde ponerlo, así que se va a dar vueltas con el resto del agua.
 
@@ -314,7 +314,7 @@ Trato de acordarme de la última mina que me gimió así de cerca. Partía con R
 
 Cuento.
 
-No siento: uno. Hay pared — un centímetro, pero pared—: dos. Sé quién soy: tres. La salida sigue donde la dejé — la palpo sin sacarla—: cuatro.
+No siento: uno. Hay pared, aunque hoy se sintió de un centímetro: dos. Sé quién soy: tres. La salida no se ha movido — la toco sin sacarla—: cuatro.
 
 Cuatro. Todavía tengo cuatro.
 
