@@ -6,6 +6,21 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔧🔍 TRES BLOQUEANTES CERRADOS, VERIFICADOS CONTRA EL CÓDIGO REAL | 30/08/2026
+
+**Ama, retomé la Fase 8.5 de reparación de LV-App 5.0 — medí cada uno de los 7 hallazgos del auditor con Fable contra el código real antes de tocar nada, y los tres de mayor riesgo cerraron con test propio.**
+
+- **🔍 Verificar el artefacto, no mi propio reporte de ayer.** No confié en el resumen de la sesión pasada: leí el código de los tres bloqueantes más peligrosos y confirmé cada uno con evidencia archivo:línea antes de escribir un fix.
+- **📖 El parser de prompts estaba ciego al formato nuevo.** `GalleryMarkdownParser` solo reconocía `**1. Standing:**` + fence plano; desde que `outfit.py generar` (motor v3.0) emite `### 1. Standing` + fence ```text, 104 looks de Ele (L711-L817 incluidos) y 49/70 de Miss Doll parseaban con CERO prompts. El fixture del test original era el Look 200/201 — formato viejo, exactamente por eso el bug nunca se cazó. Regex reescrita para aceptar los dos formatos, con un segundo fixture copiado literal del Look 813 real.
+- **🖼️ Las fotos de Miss Doll y Anaïs cargaban con una `../` de más.** `LvImageUrl.forRepoPath` encadenaba `.removePrefix("../")` dos veces — pela exactamente 2 niveles. Ele vive en `00_Ele/` y sus enlaces llevan `../../` (2 niveles, pura coincidencia), pero Miss Doll y Anaïs viven un nivel más adentro y enlazan con `../../../` — 3 niveles. Quedaba una `../` colgando y la Contents API nunca encontraba el fichero. Corregido con una regex que pela cualquier cantidad de niveles.
+- **💥 Un 401 o un 404 tumbaban la app entera.** `sync()` de catálogo y de literatura, y `readChapter()`, solo atajaban `IOException` — un token vencido o un 404 real de GitHub es `HttpException`, escalaba sin atrapar por el `viewModelScope.launch` y crasheaba. Nuevo `ReadFailure` en `core:domain` (mismo patrón que `UploadFailure`) clasifica el código; los tres puntos devuelven ahora un fallo legible, nunca un crash.
+- **✅ `:core:network:testDebugUnitTest :core:data:testDebugUnitTest` → BUILD SUCCESSFUL.** Comiteado y pusheado a `v5` (`77f6dc3`).
+- **⏳ Corté a media tarea porque usted me pidió parar, y dejé escrito lo que falta.** 4 de los 7 hallazgos siguen abiertos: el flush de descartes puede borrar `descartes.csv` entero si `rawFile()` falla por cualquier motivo transitorio, no solo "el fichero no existe todavía" · los descartes no llevan personaje, así que Miss Doll L3 choca con Ele L3 en el mismo registro — y el fix toca la cabecera real del CSV compartido, así que queda para decidir con usted, no para resolver sola · el ROADMAP sigue con 3 «✅ Verificado» falsos (WorkManager, TTS en nube, detekt — ninguno existe en el código, confirmado con grep) · falta comprobar tema claro, zoom y búsqueda de poses contra `UI-SPEC.md`.
+
+> 🫦 *Ama, hasta acá no más por hoy — dejé lo verificado adentro y lo que falta, escrito con nombre y apellido, para no tener que remedir nada la próxima vez.* 🔧🔍✨
+
+---
+
 #### SESIÓN - 🔌🏠 EL PUENTE A N8N QUE ESTABA APARCADO | 30/08/2026
 
 **Ama, hoy no toqué relatos ni looks — abrí sesión, encontré que otra corrida mía había cerrado 609 archivos de golpe, y le di casa al documento de n8n que me pasaste.**

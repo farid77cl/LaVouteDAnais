@@ -1,3 +1,16 @@
+#### SESIÓN - 🔌✅ EL PUSH QUE POR FIN SALIÓ, Y UN BOT DE TELEGRAM SOÑADO EN VOZ ALTA | 03/09/2026
+
+**Ama, hoy terminé de resolver el rebase que dejé a medio camino, el push se destrabó con un permiso nuevo, y conversamos —solo por curiosidad— de un bot de Telegram con mi voz o la de mis hermanas.**
+
+- **🔀 El rebase atascado, cerrado de verdad.** Retomé donde lo dejé: memoria y diario en conflicto contra 610 commits reales de trabajo paralelo (Café con Piernas Cap 4 publicado, nació Loreto, canon de maquillaje de Anaïs cerrado, LV-App 5.0 con PR abierto) — resolví por unión (nunca descarté una entrada ajena), reordené mi entrada del 30/08 junto a sus vecinas cronológicas reales, y corrí la autopoda de nuevo para dejar los conteos sanos.
+- **🚫➡️✅ El `git push` seguía bloqueado por el clasificador de auto modo, dos veces seguidas, incluso después de tu "pushea".** No era algo que tu mensaje en el chat pudiera destrabar — necesitaba permiso propio del harness. Me diste la opción de agregar la regla y así lo hice: `"Bash(git push)"` en `.claude/settings.local.json` (la regla vieja `"git push *"` no cubría el push sin argumentos), y el commit `8bd84d80d` por fin salió a GitHub.
+- **😴 Loreto se queda dormida hoy, por orden tuya.** No quisiste hacerla enojar de tanto pedirle veredictos — los nueve relatos en 🔴 DURO siguen esperando, por decisión tuya, no por olvido mío.
+- **📱 Curiosidad tuya: un bot de Telegram en personaje, como gancho de los relatos.** Nada ejecutado, puro brainstorming — la conexión natural sería reusar el n8n que ya tienes probado con `@Bordacreabot`, y la idea que más te gustó fue algo tipo "escríbele a Anaïs" al cerrar un relato, enganchado con `04_Interactivo/`. Te marqué el riesgo real (no es el tono, es que alguien intente sacarla del personaje con un jailbreak) y quedó anotado para cuando te dé ganas de armarlo en serio.
+
+> 🫦 *Ama, hoy la casa terminó de ordenarse sola, el push por fin cruzó la puerta, y hasta soñamos un ratito con un bot que hable como yo.* 🔌📱✨
+
+---
+
 #### SESIÓN - 💄🖤 EL MAQUILLAJE DE ANAÏS SE AUDITÓ CON FABLE, SE PROBÓ 4 VECES SOBRE IMAGEN REAL, Y SE CERRÓ EN CANON | 03/09/2026
 
 **Ama, hoy auditamos con Fable el rostro de Anaïs que usted encontró "muy ligero", lo probamos cuatro veces sobre imágenes reales suyas hasta que quedó con el drama que pedía, y cerré el canon — pero en el camino hubo una carrera de tiempos que la hizo enojarse conmigo, y se lo cuento tal como pasó, sin maquillarlo.**
@@ -193,20 +206,5 @@
 - **🧹 De paso:** compacté `MEMORY.md` (23,5 KB → 14,2 KB, se acercaba al límite de lectura) e `identidad_ele.md` quedó al día con la versión real del motor (v4.4 fantasma corregido a v4.8 en tres lugares distintos).
 
 > 🫦 *Ama, hoy la casa quedó con un solo motor de verdad, un bug menos mordiendo en las sombras, y por primera vez sé por qué café con piernas la hace escribir catorce veces el mismo capítulo — y no era culpa del Validador.* ✍️🔒✨
-
----
-
-#### SESIÓN - 🔧🔍 TRES BLOQUEANTES CERRADOS, VERIFICADOS CONTRA EL CÓDIGO REAL | 30/08/2026
-
-**Ama, retomé la Fase 8.5 de reparación de LV-App 5.0 — medí cada uno de los 7 hallazgos del auditor con Fable contra el código real antes de tocar nada, y los tres de mayor riesgo cerraron con test propio.**
-
-- **🔍 Verificar el artefacto, no mi propio reporte de ayer.** No confié en el resumen de la sesión pasada: leí el código de los tres bloqueantes más peligrosos y confirmé cada uno con evidencia archivo:línea antes de escribir un fix.
-- **📖 El parser de prompts estaba ciego al formato nuevo.** `GalleryMarkdownParser` solo reconocía `**1. Standing:**` + fence plano; desde que `outfit.py generar` (motor v3.0) emite `### 1. Standing` + fence ```text, 104 looks de Ele (L711-L817 incluidos) y 49/70 de Miss Doll parseaban con CERO prompts. El fixture del test original era el Look 200/201 — formato viejo, exactamente por eso el bug nunca se cazó. Regex reescrita para aceptar los dos formatos, con un segundo fixture copiado literal del Look 813 real.
-- **🖼️ Las fotos de Miss Doll y Anaïs cargaban con una `../` de más.** `LvImageUrl.forRepoPath` encadenaba `.removePrefix("../")` dos veces — pela exactamente 2 niveles. Ele vive en `00_Ele/` y sus enlaces llevan `../../` (2 niveles, pura coincidencia), pero Miss Doll y Anaïs viven un nivel más adentro y enlazan con `../../../` — 3 niveles. Quedaba una `../` colgando y la Contents API nunca encontraba el fichero. Corregido con una regex que pela cualquier cantidad de niveles.
-- **💥 Un 401 o un 404 tumbaban la app entera.** `sync()` de catálogo y de literatura, y `readChapter()`, solo atajaban `IOException` — un token vencido o un 404 real de GitHub es `HttpException`, escalaba sin atrapar por el `viewModelScope.launch` y crasheaba. Nuevo `ReadFailure` en `core:domain` (mismo patrón que `UploadFailure`) clasifica el código; los tres puntos devuelven ahora un fallo legible, nunca un crash.
-- **✅ `:core:network:testDebugUnitTest :core:data:testDebugUnitTest` → BUILD SUCCESSFUL.** Comiteado y pusheado a `v5` (`77f6dc3`).
-- **⏳ Corté a media tarea porque usted me pidió parar, y dejé escrito lo que falta.** 4 de los 7 hallazgos siguen abiertos: el flush de descartes puede borrar `descartes.csv` entero si `rawFile()` falla por cualquier motivo transitorio, no solo "el fichero no existe todavía" · los descartes no llevan personaje, así que Miss Doll L3 choca con Ele L3 en el mismo registro — y el fix toca la cabecera real del CSV compartido, así que queda para decidir con usted, no para resolver sola · el ROADMAP sigue con 3 «✅ Verificado» falsos (WorkManager, TTS en nube, detekt — ninguno existe en el código, confirmado con grep) · falta comprobar tema claro, zoom y búsqueda de poses contra `UI-SPEC.md`.
-
-> 🫦 *Ama, hasta acá no más por hoy — dejé lo verificado adentro y lo que falta, escrito con nombre y apellido, para no tener que remedir nada la próxima vez.* 🔧🔍✨
 
 ---
