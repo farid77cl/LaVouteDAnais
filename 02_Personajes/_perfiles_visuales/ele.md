@@ -34,7 +34,7 @@
 
 <!-- ADN:BLOQUE_A -->
 ```text
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, blackwork arm tattoos shown only on bare uncovered skin, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, intense shimmer smokey eyeshadow in cool jade-green and smoky pewter blended out at the outer corner, (defined groomed brows in muted dark cherry-brown, arched with a clean tapered edge, clearly visible against the porcelain skin:1.3), cool pearl highlight on the cheekbones and cupid's bow, soft cool rose-mauve blush placed high on the cheekbone, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, blackwork arm tattoos shown only on bare uncovered skin, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
 ```
 
 **Rasgos que NO se negocian jamás:**
@@ -52,7 +52,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **Base (siempre):**
 <!-- NEGATIVO:BASE -->
 ```text
-red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B), text on clothing, lettering, words, writing, embroidered name, name tag, nameplate, engraved name, name on choker, name on collar, logo text, letters on garment, "ELE", "ASSET", "PET", gloves, opera gloves, elbow gloves, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt
+red lips, dark lips, wine lips, maroon lips, crimson lips, natural makeup, subtle makeup, no-makeup look, bare unpigmented eyelid, thin invisible eyebrows, blonde eyebrows, black eyebrows, pink eyeshadow, coral eyeshadow, peach eyeshadow, warm bronze eyeshadow, chrome highlighter, mirror strobing highlight, warm coral blush, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B), text on clothing, lettering, words, writing, embroidered name, name tag, nameplate, engraved name, name on choker, name on collar, logo text, letters on garment, "ELE", "ASSET", "PET", gloves, opera gloves, elbow gloves, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt
 ```
 > 👙🦵 **Términos de calzón y de piernas agregados el 13/08/2026** (directivas de la Ama, sobre el Back View del Look 801). Son la **segunda capa** de `BOTTOM_CUT_LOCK` y `DRESS_LEG_CLOSURE` — la barrera real son las anclas afirmativas del positive, porque Gemini ignora el negative con frecuencia (medido en este repo desde el 12/07).
 
@@ -125,6 +125,30 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 - **📏 Medición 04/09 (391 outfits):** verde **7,7%** — la ganancia sin cobrar más clara del repo. Naranja/coral **11,0%**, la más alta de las tres justo en su peor calce.
 
 > 🔒 **DECISIÓN DE LA AMA (04/09/2026) — manda sobre lo de arriba:** *"si o si en ele y miss doll se quedan el plateado, dorado y gold rose"*. **Plata/cromo, dorado y rose gold se quedan como familias plenas de Ele**, sin cuota ni ventana, aunque el análisis los señale como poco diferenciadores. Es decisión editorial suya y gana sobre la colorimetría; se deja escrito para que una sesión futura no lo "corrija" creyendo que fue un descuido.
+
+> 📊 Estudio completo con muestras a la vista: artefacto **Colorimetría de La Voûte** (04/09/2026).
+
+### 5.2c · 💄 Colorimetría del MAQUILLAJE (Ama 04/09/2026)
+
+> *"lo que quiero que quede hoy es la colorimetria para la ropa, y maquillaje de las muñecas"*
+>
+> Hermana de la §5.2b, que gobierna el color de la **prenda**. Esta gobierna el color de la **cara**: sombra, ceja, labio, iluminador, rubor y uñas. Nace del mismo estudio del 04/09/2026, medido sobre **618 looks de Ele · 75 de Miss Doll · 75 de Anaïs**. Los cuatro anclajes de cara (pelo · piel · ojos · labios) están en la §5.2b y **no se repiten aquí**: esta subsección los usa.
+
+**El hueco que cerró (H1+H2 del estudio):** hasta hoy el ADN de Ele **no nombraba sombra de ojos, ni ceja de maquillaje, ni rubor, ni iluminador**. Medido: **0 de 618 looks**, o sea 4.326 poses en las que el generador le resolvía el párpado, la ceja y el pómulo por su cuenta. Es exactamente el mismo hueco que era el iris de Anaïs hasta el 04/09 — multiplicado por cuatro campos. Su negative tampoco defendía nada de maquillaje: solo el color del labio.
+
+| Campo | Antes | Ahora | Por qué ese color |
+|---|---|---|---|
+| **Sombra** | nada | `cool jade-green and smoky pewter`, difuminada al ángulo externo | Es el **eco de su iris grey-green** y el único plano frío que separa el hot pink de la boca del cereza del pelo. Sin él, boca y pelo se leen como una sola mancha rosa-roja |
+| **Ceja** | nada | `muted dark cherry-brown, arched, clean tapered edge` peso 1.3 | Negra le corta la cara contra el cereza; rubia desaparece sobre porcelana. El cherry-brown apagado es el único que ancla sin cortar. Miss Doll necesitó **dos pasadas fallidas** para llegar a su equivalente (§2); Ele nunca hizo esa pasada |
+| **Iluminador** | nada | `cool pearl on cheekbones and cupid's bow` — **nunca cromo** | Su piel ya es `hyper-polished`: un strobing de cromo encima no agrega brillo, **borra el relieve del pómulo**. Por eso el token de Miss Doll NO se le presta |
+| **Rubor** | nada | `soft cool rose-mauve, placed high` | Frío, para no meter un tercer chroma cálido |
+
+**Su eje (§5.2b): su cara ya trae dos rojos.** Cereza en el pelo y hot pink en la boca. Todo lo que suba al párpado o al pómulo tiene que **enfriar**.
+
+- **⛔ Vetado en el negative desde hoy:** `pink eyeshadow` · `coral eyeshadow` · `peach eyeshadow` · `warm bronze eyeshadow` · `chrome highlighter` · `mirror strobing highlight` · `warm coral blush` · `natural/subtle/no-makeup` · `thin invisible / blonde / black eyebrows`.
+  > 🔎 **El veto al rosa en el párpado se puede revertir en un renglón si la Ama lo quiere.** La razón es colorimétrica, no de gusto: el rosa del párpado y el rosa del labio son **el mismo tono a dos alturas**, y eso aplana la cara. Pero es su llamado.
+- **🎨 La sombra VARÍA por look** — ya era canon (`identidad_ele.md` §II: *"Sombras del Spectrum Expansion según look"*) y **no estaba escrito en ninguna parte operativa**. Desde hoy: el BLOQUE B nombra el color exacto de sombra, y se declara por look con `adn_overrides` sobre el fragmento `intense shimmer smokey eyeshadow in cool jade-green and smoky pewter` — mismo mecanismo que usa Miss Doll. Familias preferentes: jade, esmeralda, pewter frío, teal, gris humo, índigo, violeta.
+- **🔒 Lo fijo:** labio hot pink (ADN), uñas French XXXL punta blanca + base rosa (ADN), siren liner y lash extensions.
 
 > 📊 Estudio completo con muestras a la vista: artefacto **Colorimetría de La Voûte** (04/09/2026).
 

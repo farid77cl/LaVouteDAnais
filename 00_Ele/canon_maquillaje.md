@@ -1,142 +1,36 @@
-# 💄 CANON DE MAQUILLAJE — ESTÁNDARES VISUALES
+# 💄 Canon de Maquillaje — DOCUMENTO DEROGADO, ES UN PUNTERO (04/09/2026)
 
-> **Propósito:** Definir el maquillaje correcto para cada personaje en TODOS los prompts
-> **Actualizado:** 2026-04-29
-> **IMPORTANTE:** Usar estas descripciones exactas en todos los prompts
+> ➡️ **Sucesor:** `02_Personajes/_perfiles_visuales/ele.md`, `miss_doll.md` y `anais.md` — sus **§2** (maquillaje fijo), **§3** (vetos) y **§5.2c** (colorimetría del maquillaje). Ahí vive ahora todo lo que este archivo intentaba definir.
 
----
+> ⛔ **Este archivo ya no define nada.** Estaba fechado el **29/04/2026**, nunca se actualizó, y
+> al medirlo el 04/09/2026 resultó que **mandaba lo contrario de lo vigente en tres de los cuatro
+> puntos que tocaba** — que es exactamente el modo de falla que la regla de dueño único existe para
+> matar (este repo ya pagó lo mismo con tres flotas distintas en tres archivos).
 
-## 🦇 HELENA — GOTH GLAM HEAVY
+## Qué decía que ya era falso
 
-### Descripción para Prompts
+| Decía | Realidad vigente |
+|---|---|
+| «LABIOS ROJOS (NO pink)» para Miss Doll | **Derogado el 02/08/2026**: su maquillaje se elige por la
+ocasión del look (`miss_doll.md` §2 y §5.5.8). El documento mandaba lo contrario |
+| «❌ Pink eyeshadow» para Miss Doll | Contradicho por la práctica real: **28 de 74 looks (37%)**
+llevan sombra rosa/magenta |
+| Token de Miss Doll con `blonde brows` | Su ceja vigente es explícitamente **más oscura que el pelo**
+(`dark smoky taupe-grey`, peso 1.5) — no coincide en ningún punto |
+| Para Anaïs, `warm-toned smokey eyes` | Su ADN vigente pide `charcoal + deep taupe cut-crease` |
+| Definía a **HELENA** | Era cerrada (Looks 001-084). Vive en `memoria_historica/` |
 
-```
-HEAVY GOTH GLAM MAKEUP: dramatic black smokey eyes with thick winged eyeliner, extra long false lashes, high arched defined brows, pale matte foundation, strong cheekbone contour, full glossy BLACK or DARK CHERRY lips
-```
+## Dueño único del maquillaje, por muñeca
 
-### Variantes de Labios Helena
+| Qué | Dónde |
+|---|---|
+| Maquillaje **fijo** de cada muñeca | `02_Personajes/_perfiles_visuales/<slug>.md` **§2**, dentro del
+fence `<!-- ADN:BLOQUE_A -->` |
+| Qué le **prohíbe** el generador | el **§3** de ese mismo perfil |
+| **Colorimetría** del maquillaje: qué le favorece, qué le pelea y por qué | el **§5.2c** de ese perfil
+*(hermana de la §5.2b, que gobierna el color de la prenda)* |
+| Maquillaje **variable por look** | el BLOQUE B del look, declarado con `adn_overrides` |
 
-- **Negro:** `full glossy BLACK lips`
-- **Cereza oscura:** `full glossy DARK CHERRY lips`
-- **Vino:** `full glossy WINE lips`
-- **Púrpura oscuro:** `full glossy DARK PURPLE lips`
+Verificable con `python 99_Sistema/scripts/visual/outfit.py adn`.
 
-### Elementos Obligatorios
-
-- ✅ Dramatic black smokey eyes
-- ✅ Thick winged eyeliner
-- ✅ Extra long false lashes
-- ✅ High arched defined brows
-- ✅ Pale matte foundation
-- ✅ Strong cheekbone contour
-- ✅ Labios oscuros (negro, cereza, vino, púrpura)
-
----
-
-## 💖 MISS DOLL — GLAMOUR DOLL HEAVY
-
-> **Fuente de verdad:** `02_Personajes/01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md`
-
-### Descripción para Prompts (NUEVO ESTÁNDAR)
-
-```
-HEAVY GLAMOUR DOLL MAKEUP: dramatic bronze and black smokey eyes, champagne shimmer inner corners, thick black winged eyeliner, extra long dramatic false lashes, high arched sharply defined blonde brows, pale porcelain full-coverage base with realistic human skin texture, strong sculpted contour and controlled highlight, classic red satin lipstick with a crisp editorial lip line
-```
-
-### Variantes de Labios Miss Doll
-
-- **Rojo (PRINCIPAL):** `classic red satin lipstick`
-- **Rojo cereza:** `cherry red satin lipstick`
-- **Rojo oscuro:** `deep red satin lipstick`
-
-### Elementos Obligatorios
-
-- ✅ Dramatic smokey eyes (bronze, champagne, browns and blacks; NOT pink)
-- ✅ Thick black winged eyeliner
-- ✅ Extra long dramatic false lashes
-- ✅ High arched sharply defined blonde brows
-- ✅ Heavy contour Kim K style (capas y capas)
-- ✅ Pale porcelain full-coverage base with realistic human skin texture
-- ✅ **LABIOS ROJOS** (NO pink)
-
-### ❌ PROHIBIDO para Miss Doll
-
-- ❌ Pink eyeshadow
-- ❌ Pink lips
-- ❌ "Rosy cheeks"
-- ❌ "Natural makeup"
-- ❌ "Light makeup"
-- ❌ Cara lavada
-
----
-
-## 👑 ANAÏS — SOPHISTICATED GLAM
-
-### Descripción para Prompts
-
-```
-SOPHISTICATED GLAM MAKEUP: perfectly blended warm-toned smokey eyes, defined winged eyeliner, long elegant lashes, sculpted arched brows, warm bronze contour, luminous skin, full glossy RED POWER lips
-```
-
-### Variantes de Labios Anaïs
-
-- **Rojo power:** `full glossy RED POWER lips`
-- **Burgundy:** `full glossy BURGUNDY lips`
-- **Deep red:** `full glossy DEEP RED lips`
-
----
-
-## 🎨 COLORES — ROMPER RESTRICCIONES
-
-### Miss Doll: Más allá del Rosa
-
-Puede usar:
-
-- **Rojos** — Vestidos, lencería, tacones rojos
-- **Negros** — Combinar con rosa
-- **Blancos** — Pureza bimbo
-- **Nudes/Champagne** — Elegancia
-- **Lavanda** — Variación pastel
-
-### Helena: Más allá del Negro
-
-Puede usar:
-
-- **Burgundy/Wine** — Borgoña imperial
-- **Purple oscuro** — Violetas
-- **Emerald** — Verde esmeralda
-- **Silver** — Metálicos
-
----
-
-## 🔥 SENSUALIDAD — ELEMENTOS OBLIGATORIOS
-
-### Poses Sensuales
-
-- Arched back (espalda arqueada)
-- Looking over shoulder (mirada sobre el hombro)
-- Lips slightly parted (labios entreabiertos)
-- Bedroom eyes (mirada seductora)
-- Hip pop (cadera pronunciada)
-- Showing curves (mostrando curvas)
-
-### Expresiones Sensuales
-
-- `seductive gaze`
-- `bedroom eyes`
-- `sultry expression`
-- `inviting look`
-- `confident allure`
-- `smoldering stare`
-
-### Ambiente Sensual
-
-- Dramatic lighting
-- Moody shadows
-- Warm golden or cool blue tones
-- Intimate setting
-
----
-
-*Canon definido por: Helena de Anaïs 🦇*
-*Para uso en TODOS los bancos de prompts*
+*Sucesor declarado: las §2 / §3 / §5.2c de los tres perfiles visuales. Su contenido histórico vive en el git log de este archivo.*

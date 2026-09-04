@@ -69,7 +69,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Base (siempre) — ampliado 11/08/2026 con los fallos reales detectados en el rediseño de rostro/cuerpo, y 20/08/2026 con veto de mules y batas cortas:**
 <!-- NEGATIVO:BASE -->
 ```text
-bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, grey eyes, steel grey iris, pale washed-out iris, colourless iris, white eyes, blank white iris, glowing white eyes, albino eyes, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt, mule, mules, platform mule, mule sandals, slide sandals, backless heels, short robe, mini robe
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, coral eyeshadow, peach eyeshadow, terracotta lips, coral lips, pastel eyeshadow, low-pigment eyeshadow, washed-out eyeshadow, grey eyes, steel grey iris, pale washed-out iris, colourless iris, white eyes, blank white iris, glowing white eyes, albino eyes, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt, mule, mules, platform mule, mule sandals, slide sandals, backless heels, short robe, mini robe
 ```
 > ⚠️ El `corset/waist cincher/bustier` va en negative BASE porque el corsé ya no es obligatorio (§5.5) — si el look de hoy sí lo lleva, sacar esos 3 términos del negative de ese prompt puntual.
 > 🔙 **El experimento de cuerpo "base Tiffany Stratton" (17/08/2026) se revirtió el mismo día** — este negative es el original del 11/08, restaurado sin cambios. Ver nota en §2.
@@ -186,6 +186,37 @@ Auditado sobre los 4 looks VIP/Privado + Penthouse/Off-duty existentes: **2 de 4
 - **📏 Medición 04/09 (59 outfits):** rosa **78,0%** + cromo **74,6%** — su ventaja de lienzo se estaba gastando en **una sola combinación**, y cromo en la prenda + strobing de cromo en la cara + pelo platinado funden el look en una masa plateada. Azul solo **8,5%**: su jugada más barata desde hoy.
 
 > 🔒 **DECISIÓN DE LA AMA (04/09/2026) — manda sobre lo de arriba:** *"si o si en ele y miss doll se quedan el plateado, dorado y gold rose"*. **Plata/cromo, dorado y rose gold se quedan como familias plenas de Miss Doll**, incluido el dorado que el análisis marca como su peor calce. Es decisión editorial suya y gana; lo único que se conserva del análisis es la **recomendación técnica** de preferir el dorado oscurecido al champán pálido — recomendación, no regla.
+
+> 📊 Estudio completo con muestras a la vista: artefacto **Colorimetría de La Voûte** (04/09/2026).
+
+### 5.2c · 💄 Colorimetría del MAQUILLAJE (Ama 04/09/2026)
+
+> *"lo que quiero que quede hoy es la colorimetria para la ropa, y maquillaje de las muñecas"*
+>
+> Hermana de la §5.2b, que gobierna el color de la **prenda**. Esta gobierna el color de la **cara**: sombra, ceja, labio, iluminador, rubor y uñas. Nace del mismo estudio del 04/09/2026, medido sobre **618 looks de Ele · 75 de Miss Doll · 75 de Anaïs**. Los cuatro anclajes de cara (pelo · piel · ojos · labios) están en la §5.2b y **no se repiten aquí**: esta subsección los usa.
+
+**Su eje (§5.2b):** subtono **frío declarado**, platinado, e iris cobalto desde el 04/09. Es la única con **labio variable** de las tres — tiene 3 grados de libertad de maquillaje (sombra · labio · uñas) contra 1 de Anaïs y 1 de Ele.
+
+**🪞 Su colisión real es de CARA CONTRA PRENDA, no de vestuario.** Medido el 04/09:
+
+| Plano plateado | Frecuencia |
+|---|---|
+| `blinding chrome strobing` en el ADN | **75/75 looks** |
+| Sombra gris / cromo / plata | **41%** (31 de 74) |
+| Cromo/plata en la prenda (§5.2b) | **74,6%** |
+| Pelo platinado | siempre |
+
+Cuatro planos del mismo metal sobre la misma cara: **el ojo desaparece dentro del strobing.** La §5.2b midió tres y no contó el cuarto, que es el maquillaje.
+
+- **🔒 REGLA DE DOS PARTES (nueva, 04/09/2026)** — no es un token, es un candado:
+  1. Si la **sombra** del look es gris / cromo / plata → el iluminador baja a `soft pearl strobing highlight on cheekbones and brow bone` (se declara con `adn_overrides` sobre `blinding chrome strobing highlight`).
+  2. Si la **prenda dominante** es cromo / plata → la sombra **no** puede ser gris / cromo / plata.
+- **✅ Le favorece:** frío saturado — magenta eléctrico, UV violeta, gunmetal — y sobre todo **el azul cobalto y el zafiro, eco de su iris nuevo**. Sombra azul hoy: **4 de 74 looks (5%)**. Es su jugada más barata, igual que el 8,5% de azul en vestuario. Labio **vino / oxblood / berry / rojo azulado**: el 43% de vino que ya lleva es su mejor calce — sobre subtono frío, el rojo azulado es el único que no amarillea la piel.
+- **⛔ Vetado desde hoy:** `coral eyeshadow` · `peach eyeshadow` · `terracotta lips` · `coral lips` · `pastel eyeshadow` · `low-pigment eyeshadow` · `washed-out eyeshadow`. La baja pigmentación entraba **por el positive** pese a que su negative ya prohibía `natural/subtle makeup`: seis looks seguidos (L25-L30, 55 poses) con `soft pastel pink shimmer`.
+  > 🔒 **El dorado NO está vetado**, aunque el análisis lo marque como su peor calce cálido. Decisión de la Ama del 04/09 (*"si o si en ele y miss doll se quedan el plateado, dorado y gold rose"*). Recomendación técnica que sí se conserva: si va dorado, **oscurecido** (antique gold), nunca champán pálido.
+- **✅ Bien tomado, no tocar:** la ceja `dark smoky taupe-grey` deliberadamente **más oscura que el pelo** es la mejor decisión colorimétrica de las tres — es lo único que le da estructura a una cara sin contraste natural.
+
+**⚠️ Incumplimientos medidos de su propia §5.5.8, sin corregir (looks materializados):** tres labios violan la prohibición dura de §5.4 — **L14** `hot pink magenta` y **L66** `bubblegum pink` (el rosa es firma de Ele, no suya) y **L23** `nude-glam` (el nude está prohibido). Y **10 pares consecutivos** repiten tono de labio (L25-L31 `deep red`, L48-L51 `blood-red`) más 5 de sombra. No se regeneran; quedan como registro de que **la regla existía y nadie la medía**.
 
 > 📊 Estudio completo con muestras a la vista: artefacto **Colorimetría de La Voûte** (04/09/2026).
 
