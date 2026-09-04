@@ -1,0 +1,116 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_origen": "REDISENO TOTAL 04/09/2026. La Ama rechazo el batch L71-L75 anterior (MD_L71_L75_deficit.json, 02/09) marcando LAS CUATRO causas a la vez: formula clonada, arquetipos elegidos por matematica de deficit, siluetas demasiado tapadas y paleta apagada. El batch viejo se borro entero; ninguna imagen suya llego a existir (trackers en 0/7 desde el 03/09, verificado con git ls-files). Este archivo lo reemplaza desde cero.",
+  "_diagnostico_del_batch_muerto": "Medido antes de rediseñar, no supuesto: 5/5 llevaban choker de chrome sin lettering; 5/5 plataforma con suela chrome; 5/5 un color dominante mas el rosa firma degradado a UN detalle decorativo; y 3/5 (L71-L72-L73) repetian la clausula de tanga VERBATIM: 'a narrow tapered front panel and a thin waistband sitting high on the hip bones'. Era el mismo look cinco veces con el color cambiado, que es exactamente lo que el perfil §2 advierte que pasa cuando el BLOQUE A y el outfit se mezclan.",
+  "_step_0": "Roster real a L70 (70 looks; L71-L75 no existen): Club 11 (15.7% vs meta 18%, deficit +1.6); Bikini/Lenceria 14 (20% vs 15%, SOBRE meta); Calabozo 8 (11.4% vs 13%, +1.1); VIP 8 (11.4% vs 12%, +0.4); Gym 8 (11.4% vs 12%, +0.4); Girly Girl 8 (11.4% vs 12%, +0.4); Penthouse 6 (8.6% vs 9%, +0.3); Editorial 7 (10% vs 9%, SOBRE meta). SELECCION: Club, Calabozo, Bikini/Lenceria, VIP, Penthouse. Cuatro de los cinco son deficitarios; Bikini/Lenceria entra SOBRE meta por decision explicita de la Ama (04/09: derogo la regla de deficit para este batch al marcar 'los arquetipos elegidos' como causa de rechazo). FUERA a proposito: Gym y Girly Girl, que son justo los dos que produjeron el legging full-length y el playsuit con peto que ella llamo demasiado tapados, y Girly Girl ademas ya lleva dos derivas infantilizantes documentadas (11/08 props, 03/09 vestuario).",
+  "_arquitectura": "Ventana global de arquitectura (>=3 looks, TODO el roster): L68=M9 catsuit, L69=M10 slip dress, L70=M6 vestido. Bloqueadas para L71: M9, M10, M6. Secuencia nueva, verificada deslizando la ventana look por look: L71=M7 minifalda+top (Club, bloq M9/M10/M6); L72=M4 corseteria+tanga (Calabozo, bloq M10/M6/M7); L73=M2 micro dos piezas (Bikini, bloq M6/M7/M4); L74=M3 lenceria+bata (VIP, bloq M7/M4/M2); L75=M6 vestido segunda piel (Penthouse, bloq M4/M2/M3). M5 (arnes) se DESCARTO a proposito pese a estar libre en la ventana: la flota ya lleva dos arneses recientes (L60 Obsidian Chrome Harness y L64 Electric Magenta Chrome Harness) y un tercero seria el clon del que la Ama se esta quejando. M7 se eligio para L71 ademas porque la flota no lleva una falda desde el Look 09.",
+  "_cuota_cubierta": "Cuota de silueta cubierta (>=1 de cada 4 looks nuevos, global): L71=M7 CUBIERTA y L75=M6 CUBIERTA. La ventana [71,72,73,74] la paga L71; la ventana [72,73,74,75] la paga L75. Solo 2 de 5 cubiertas y las dos en los extremos, a proposito: el centro del batch (L72-L73-L74) es piel corrida, que es lo que la Ama pidio al marcar 'muy tapadas, poco calientes'.",
+  "_bata": "Cuota de bata abierta (>=1 de cada 2 looks nuevos de VIP/Privado y Penthouse/Off-duty): este batch trae dos looks de esos arquetipos, L74 (VIP) y L75 (Penthouse). L74 lleva bata abierta floor-length semitransparente con puños campana (§5.1b: material sheer por defecto desde el 17/08, porque una bata opaca tapa la lenceria en Back View igual de bien que una mal cerrada). L75 no lleva. Ratio 1/2, cuota pagada.",
+  "_paleta_y_monoblock": "Cinco familias cromaticas distintas, ninguna de las cinco que la Ama rechazo (cobalto, gunmetal, plum, UV-violeta, cotton candy): L71 Hot Pink Neon + Carbon Black; L72 Oxblood + Antique Gold; L73 Chrome Silver espejo + Crystal; L74 Coral saturado + Pearl White; L75 Midnight Navy + Hot Pink. ANTI-MONOBLOCK (§5.2 linea 162 y §7 linea 277 del perfil: max 2 monoblock consecutivos, alcance global): NINGUNO de los cinco es monoblock, los cinco son bicolor o mas, asi que la ventana ni se roza. Y EL ROSA FIRMA CAMBIA DE ROL EN CADA LOOK, que es la correccion de fondo del batch muerto: en L71 es el color DOMINANTE del look entero; en L72 son las medias; en L73 el ribete de todos los cordones; en L74 el encaje fucsia de las copas y del borde de la tanga; en L75 el zapato completo. El hardware tambien rota y deja de ser chrome en todos: matte black-nickel, antique gold, cristal/rhinestone, rose gold, chrome minimo.",
+  "_variacion_verificada": "Cuello: L71 garganta desnuda sin choker; L72 posture collar de oro viejo; L73 body chain sin choker; L74 collar de cadenas rose gold bajo, no choker; L75 garganta desnuda. Uñas (forma, sin repetir consecutiva): square, coffin, almond, stiletto, coffin. Sombra (§5.5.8, sin repetir consecutiva): neon pink/negro, oro viejo/oxblood, plata hielo/acero, coral/cobre, navy/peltre. Labios (nunca rosado, nunca nude, nunca mate): black-cherry, oxblood, chrome-plum, escarlata, bronce-cobre. Medias (§5.5.4, max 2 consecutivos): NO, SI, NO, SI, NO. Calzado (5 atributos cada uno, todos con plataforma >=6 pulgadas, cero mule, cero Mary Jane, cero botin): bota thigh-high, bota knee-high, sandalia de tiras con pulsera, pump con pulsera, sandalia con pulsera. Tanga: las cinco redactadas distinto, cero clausula copiada entre looks.",
+  "_dificultad": "Regla de no apilar constraints duros (Ama 23/08, Look 27 'Cromo Liquido'): L73 usa el material mas dificil del batch (espejo cromado) y por eso lleva el corte MAS simple posible, triangulos de cordones anudados sin estructura. L75 usa latex liquido wet-shine y por eso se le quito el tajo lateral que tenia en borrador: espalda abierta mas halter alto y nada mas. Ningun look combina material dificil con silueta contradictoria.",
+  "personaje": "miss_doll",
+  "batch": "Rediseno Total -- Piel, Color Saturado y Arquitectura Nueva",
+  "fecha": "04/09/2026",
+  "categoria": "Mix",
+  "rango": "L71-L75",
+  "emitir_bloque_b": true,
+  "tags_comunes": [
+    "batchL71-L75",
+    "V7poses"
+  ],
+  "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, mary jane shoes, ankle boots, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, hipster brief, culotte, full-coverage bikini bottom, bikini bottom covering the buttocks, corset, waist cincher, bustier, decorative bows, heart charms, puffed sleeves, ruffled ankle socks, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest, warm smile, laughing",
+  "looks": {
+    "71": {
+      "titulo": "Hot Pink Laser Riser",
+      "tags": "#club #escenario #rosa #vinyl #siluetacubierta #M7 #batchL71-L75 #V7poses",
+      "concepto": "Club/Escenario, el mayor deficit del roster (15.7% vs meta 18%). Arquitectura M7 (minifalda + top): la flota no lleva una falda desde el Look 09, y M7 estaba libre en la ventana global (previos L68=M9, L69=M10, L70=M6). Paga ademas la cuota de silueta cubierta de la ventana [71-74] sin costar calor: micro falda a la cadera mas bandeau que deja todo el abdomen fuera. El rosa firma deja de ser un detalle y pasa a ser EL color del look. Setting nuevo: tarima de vidrio retroiluminado en medio de la pista, sin barra y sin jaula (el escenario-con-pole lo llevan L70, L56 y L46).",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense neon hot-pink and carbon-black shimmer smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet black-cherry lips"
+      },
+      "bloque_b": "a hot pink neon high-gloss vinyl micro miniskirt, a hard A-line cut sitting low on the hip bones and ending high on the thigh, a flat matte black-nickel zip running the full length of the left hip seam, the hem edged with a narrow band of carbon black vinyl; above it a carbon black high-gloss vinyl bandeau top, a single moulded band cut straight across beneath the collarbones and ending just under the bust so the whole midriff and the defined abdomen stay bare, held by a thin black elastic strap across the upper back and fastened between the shoulder blades with two flat matte black-nickel hooks; a hot pink neon vinyl thong beneath the skirt, its front cut as a narrow inverted triangle, its sides reduced to two fine cords riding over the hip crests, its back a single cord; bare thighs above the boots, no stockings; the throat left completely bare with no collar and no choker, long faceted matte black drop earrings as the only jewellery, and one wide hot pink vinyl cuff on the right wrist; nails: long square-shaped acrylics lacquered in glossy neon hot pink; thigh-high platform boots in carbon black patent latex, 18cm razor-thin metal needle heel plus a 7-inch carbon black platform, closed sharply pointed toe, a matte black-nickel zip running the inner calf and a narrow hot pink piping along the boot's top edge",
+      "setting": "an elevated backlit glass bottle-service riser in the middle of an upscale club floor, ribbons of hot pink laser light cutting through low haze above it, the dark dance floor falling away below the platform edge",
+      "props": {
+        "seat": "a low black lacquer bench at the edge of the glass riser",
+        "wall": "a hanging curtain of hot pink laser haze behind the riser",
+        "surface": "the backlit glass platform floor",
+        "upright": "a chrome guardrail post at the riser's edge"
+      }
+    },
+    "72": {
+      "titulo": "Oxblood Gold Punishment Study",
+      "tags": "#calabozo #dungeon #rosa #corseteria #M4 #batchL71-L75 #V7poses",
+      "concepto": "Calabozo/Dungeon, segundo mayor deficit (11.4% vs meta 13%). Arquitectura M4 (corseteria + tanga, pierna libre): evita los dos catsuits que ya llevaron los Looks 36 y 45 en este mismo arquetipo, y recupera la pieza de firma de Miss Doll sin volverla obligatoria. Hardware de ORO VIEJO, no chrome: es el primer quiebre real de la formula del batch muerto. El rosa firma vive en las medias fucsia, no en un adorno. Setting nuevo: un salon-biblioteca de castigo con escritorio de caoba y lampara de banquero, en la linea elegante que el canon pidio el 11/08 (los previos eran camaras de dungeon con cadena y banco).",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense antique-gold and oxblood shimmer smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet oxblood lips"
+      },
+      "bloque_b": "a deep oxblood liquid-latex overbust corset as the central piece of the look, heavily boned with fine antique-gold boning channels visible on the outside, moulded cups lifting the bust high, a row of antique-gold busk clasps down the centre front and a wide flat antique-gold lacing panel down the back drawn tight over an oxblood satin modesty panel, its lower edge cut to a deep point over the hip bones so the leg reads long and unbroken; below it an oxblood latex g-string, its waistband a single flat cord sitting well above the hip bone, its front a slim shield-shaped panel and its back nothing but the cord itself; sheer fuchsia hold-up stockings, 15 denier, with a fine dark seam running the back of each leg and a plain flat fuchsia band at the top of the thigh; a wide antique-gold posture collar with no lettering closing at the nape, a single antique-gold ring set at the hollow of the throat; nails: long coffin-shaped acrylics lacquered in glossy oxblood with a fine antique-gold line at each tip; knee-high platform boots in oxblood patent latex, 17cm razor-thin metal needle heel plus a 6-inch oxblood platform, closed almond toe, laced up the front through antique-gold eyelets with an oxblood cord, an antique-gold plate capping the heel",
+      "setting": "a private punishment study lined floor to ceiling with dark walnut bookshelves, a leather-topped mahogany desk at its centre, a single brass banker's lamp throwing a low warm pool of light, an oxblood velvet kneeler set at the desk's foot",
+      "props": {
+        "seat": "a carved walnut desk chair upholstered in oxblood velvet",
+        "wall": "a wall of dark walnut bookshelves",
+        "surface": "the leather-topped mahogany desk",
+        "upright": "a carved walnut bookcase column"
+      },
+      "negative_excluir": [
+        "corset",
+        "waist cincher",
+        "bustier"
+      ]
+    },
+    "73": {
+      "titulo": "Mirror Chrome Poolside String",
+      "tags": "#bikinilenceria #cromo #rosa #M2 #batchL71-L75 #V7poses",
+      "concepto": "Bikini/Lenceria Erotica: entra SOBRE meta (20% vs 15%) por decision de la Ama, que derogo la regla de deficit para este batch. La prenda ES el sujeto de la toma (frontera §6 con VIP: esta foto funciona sin el escenario). Arquitectura M2 (micro dos piezas de cordones). El material es el mas dificil del batch (espejo cromado) asi que el corte va DELIBERADAMENTE simple, triangulos anudados y cero estructura, por la regla de no apilar constraints duros (Ama 23/08). Setting nuevo: piscina infinita de azotea de noche; los ultimos cinco de este arquetipo fueron camerino, boudoir parisino, tocador de marmol, alcoba VIP y spa termal, y la cabana la llevo el L57. NOTA DE CLASIFICACION: el BLOQUE B dice 'micro bikini' y 'triangle top' a proposito -- el clasificador de arquitectura (anclas_universales.json, orden M2 antes que M3) matchea M2 con bikini/swimsuit/triangle top y M3 con bra/thong. El borrador decia 'string triangle bra' y el linter lo clasifico M3, chocando con el M3 del L74 dentro de la ventana global de 3. Se corrigio el DATO para que diga lo que la arquitectura es, no la regla.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense icy silver-white and steel shimmer smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet chrome-plum lips"
+      },
+      "bloque_b": "a mirror-chrome silver micro bikini as a two-piece: the top a classic string triangle top in mirror-finish chrome-silver vinyl, two small triangles joined by a fine chrome-silver cord knotted at the centre of the back and a second cord knotted behind the neck, no padding, no underwire and no additional structure; the bottom a matching string thong, two sliding mirror-chrome triangles joined by fine chrome-silver cords knotted at each hip and reduced at the back to one thin cord; every cord on both pieces edged with a narrow line of hot pink neon piping as the signature colour; no stockings, bare legs; a fine silver body chain set with clear rhinestones running from the nape, crossing between the shoulder blades and looping loosely around the waist, worn instead of any collar or choker; small clear rhinestone stud earrings; nails: long almond-shaped acrylics lacquered in mirror-chrome silver; strappy platform sandals in clear acrylic with rhinestone-encrusted straps, 18cm razor-thin metal needle heel plus a 7-inch clear acrylic platform, open pointed toe, a rhinestone toe strap and a locking rhinestone ankle strap fastened with a chrome pin buckle",
+      "setting": "a rooftop infinity pool at night, the water lit from beneath in electric turquoise, the city skyline glittering beyond the pool's far edge, wet black stone decking reflecting the light",
+      "props": {
+        "seat": "a white stone pool ledge at the water's edge",
+        "wall": "a frameless glass balustrade at the roof's edge",
+        "surface": "the wet black stone pool decking",
+        "upright": "a slim brushed-steel pergola post"
+      }
+    },
+    "74": {
+      "titulo": "Coral Lace Midnight Suite",
+      "tags": "#vip #privado #rosa #bataabierta #M3 #batchL71-L75 #V7poses",
+      "concepto": "VIP/Privado (11.4% vs meta 12%, deficit +0.4). Arquitectura M3 (conjunto de lenceria + liguero + medias) bajo bata abierta: paga la cuota de bata del §8 para el par VIP/Penthouse de este batch. Es una ESCENA, no un objeto: la energia de sala privada manda y la lenceria es contexto (frontera §6). Coral saturado como dominante es familia nueva en su roster reciente; el rosa firma vive en el encaje fucsia de las copas y del borde de la tanga. Hardware rose gold y perla, cero chrome. Bata sheer floor-length con puños campana segun §5.1b. Setting nuevo: suite de hotel privada frente al ventanal; el lounge de members club lo llevaron L69 y L64.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense warm coral and copper shimmer smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet scarlet red lips"
+      },
+      "bloque_b": "a saturated coral liquid-satin longline bra, its cups faced in fine fuchsia lace worked to a scalloped edge running along the top of each cup, deeply plunged and underwired, the band continuing down over the ribs and closing at the back with three flat rose-gold hooks; a matching coral silk-satin thong finished with the same scalloped fuchsia lace along the top edge of its front panel, its hip straps thin coral elastic resting on the hip bones, its back open but for one narrow strap; a coral satin suspender belt worn over the thong, four thin coral straps clipped to sheer blush hold-up stockings, 10 denier, with a plain wide band at the top of each thigh; over all of it a floor-length pearl white sheer chiffon open robe, its hem sweeping the floor, semi-transparent fabric that reveals the lingerie beneath from every angle including from behind, falling loose off both shoulders, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin coral satin sash left untied; a layered rose-gold chain necklace of three fine strands with a single drop pearl, sitting low on the collarbones rather than at the throat, and one pearl drop earring in each ear; nails: long stiletto-shaped acrylics lacquered in glossy saturated coral; platform pumps in pearl white patent vinyl, 16cm razor-thin metal needle heel plus a 6-inch pearl white platform, closed pointed toe, a slim coral patent ankle strap fastened with a rose-gold pin buckle",
+      "setting": "a private hotel suite at night, one deep-buttoned velvet armchair turned to face a floor-to-ceiling window, a silver champagne trolley standing beside it, the city's lights the only colour in the dark room",
+      "props": {
+        "seat": "a deep-buttoned pearl velvet armchair",
+        "wall": "a floor-to-ceiling window pane with the night city beyond",
+        "surface": "the mirrored top of a silver champagne trolley",
+        "upright": "a slender brass floor lamp column"
+      }
+    },
+    "75": {
+      "titulo": "Midnight Navy Liquid Dawn",
+      "tags": "#penthouse #offduty #rosa #latex #siluetacubierta #M6 #batchL71-L75 #V7poses",
+      "concepto": "Penthouse/Off-duty (8.6% vs meta 9%, deficit +0.3): su espacio, registro frio fuera del trabajo. Arquitectura M6 (vestido de segunda piel): paga la cuota de silueta cubierta de la ventana [72-75] y estaba libre recien en este slot (el L70 la llevo y la ventana global la bloqueaba hasta L73). Midnight navy es raiz Domme saturada, familia ausente de su roster reciente. El rosa firma es EL ZAPATO ENTERO, quinta ubicacion distinta del rosa en cinco looks. Al vestido se le quito el tajo lateral que tenia en borrador: el latex liquido wet-shine ya es material dificil y no se le apila una silueta contradictoria encima (Ama 23/08). Setting nuevo: su propio vestidor al amanecer; los previos de este arquetipo fueron L51, L44 y L38.",
+      "adn_overrides": {
+        "intense shimmer smokey eye technique": "intense midnight-navy and pewter shimmer smokey eye technique",
+        "high-gloss wet lips": "high-gloss wet deep bronze-copper lips"
+      },
+      "bloque_b": "a midnight navy liquid-latex mini dress cut as a true second skin, a high halter neckline fastened behind the neck with a single flat chrome hook, the entire back left open to the base of the spine, the hem ending high on the thigh, the latex polished to a deep wet shine with no visible seam anywhere on the front; a midnight navy seamless thong worn beneath the dress, its front a smooth tapered panel with no visible edge and its back a single flat strap; bare legs, no stockings; the throat bare apart from the dress's own halter band, one wide midnight navy vinyl cuff on the left wrist, no necklace and no choker; nails: long coffin-shaped acrylics lacquered in glossy midnight navy chrome; platform sandals in hot pink patent vinyl as the single note of signature colour in the look, 17cm razor-thin metal needle heel plus a 6-inch hot pink platform, closed pointed toe, doubled hot pink ankle straps fastened with chrome pin buckles",
+      "setting": "her own penthouse dressing room at dawn, a wall of backlit glass wardrobes, a long white marble island scattered with jewellery, cold blue first light coming through a bare window",
+      "props": {
+        "seat": "a white marble bench at the end of the island",
+        "wall": "a wall of backlit glass wardrobe doors",
+        "surface": "the long white marble dressing island",
+        "upright": "a slim brushed-steel wardrobe frame post"
+      }
+    }
+  },
+  "_negative": "El corse va en el negative BASE del perfil §3 porque dejo de ser obligatorio (§5.5). L72 SI lleva corse, asi que declara negative_excluir ['corset','waist cincher','bustier'] -- que borra del negative YA ENSAMBLADO, no solo del extra. Ningun look es Girly Girl en este batch, asi que 'warm smile, laughing' se mantiene en los cinco."
+}
