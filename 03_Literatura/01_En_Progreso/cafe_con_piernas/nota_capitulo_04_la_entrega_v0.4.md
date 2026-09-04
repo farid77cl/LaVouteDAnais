@@ -98,3 +98,4 @@ Sacar el bloque del espejo **deja dos huecos que hay que coser**, no solo borrar
 5. **Sin Gate no se publica** — y el Cap 4 v0.4 sigue sin Gate (Regla de Oro 8c).
 
 > ⏳ **Pendiente además, de antes de esta nota:** los 5 micro-fixes de una línea del Validador sobre v0.4 (`reportes/capitulo_04/validacion_v0.4.md`) y la nota v0.3 que sigue suelta en esta misma raíz.
+el final con Felipe ya en el café más fuerte, más intenso Felipe más amanerado, usando tacones. el humanizador aún le falta cariño, las frases aún salen un poco raras
