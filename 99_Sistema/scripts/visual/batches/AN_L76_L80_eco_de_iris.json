@@ -1,0 +1,87 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_origen": "Ama 04/09/2026: 'dame 5 looks nuevos por cada muñeca, con las nuevas reglas de colorimetria aplicadas'. Primer batch de Anais posterior a su iris miel, a la §5.2b (color de prenda) y a la §5.2c (color de maquillaje).",
+  "_step_0": "Roster a L75. Ventana global de arquitectura: L73=M6, L74=M6, L75=M6 -- CUATRO M6 seguidos contando el L72, o sea vestido tras vestido tras vestido. Su `rotacion_prenda` arranca justo en el L76, asi que aqui la regla muerde por primera vez y M6 queda BLOQUEADA. Secuencia verificada deslizando la ventana: L76=M9 catsuit (CUBIERTA) · L77=M7 falda+top (CUBIERTA) · L78=M3 lenceria+peignoir · L79=M10 slip de malla sobre lenceria (CUBIERTA) · L80=M4 corseteria. Ninguna se repite dentro de sus 3 previas. Deficit de arquetipos medido sobre los 35 looks desde el L41: Latex +4,0 > Ejecutivo +1,5 > Literaria +0,5 > Boudoir -0,6 > Noche -1,6. Se toman los tres deficitarios, con Latex dos veces por ser el hueco mas grande, y Boudoir una porque su cuota de bata lo pide.",
+  "_colorimetria": "§5.2b — Anais es la unica CALIDA y la unica con piel DEWY (la luz la atraviesa en vez de rebotar), asi que este batch va en joya profunda y neutro calido: esmeralda, chocolate/camel, marfil/oro viejo, midnight navy y berenjena. CERO neon frio. Y ninguno lleva rojo ni vino como dominante a proposito: los llevaba el 55,4% de sus outfits con los labios crimson FIJOS en el ADN, o sea la prenda le estaba compitiendo a la boca. El L76 abre con ESMERALDA, que era su ganancia sin cobrar (10,8%): es el complementario de libro del rubio miel sobre piel calida y le devuelve al pelo el oro que el negro le quita.",
+  "_maquillaje": "§5.2c — su sombra charcoal + taupe cut-crease es FIJA y esta bien elegida: no se toca. Lo que cambia por look es el color de UÑA, que desde el 04/09 es campo del BLOQUE B y ya no colisiona con el ADN (antes su ADN fijaba `glossy deep red polish` y el BLOQUE B fijaba otro color: 7 looks con los dos en el mismo prompt y el generador eligiendo). Los cinco colores de uña de este batch evitan el rojo a proposito, para bajar el eco cuadruple que tenia con su propia boca.",
+  "personaje": "anais",
+  "batch": "Eco de Iris -- Joya Calida y Cero Rojo",
+  "fecha": "04/09/2026",
+  "categoria": "Mix",
+  "rango": "L76-L80",
+  "emitir_bloque_b": true,
+  "tags_comunes": ["batchL76-L80", "V7poses"],
+  "negative_extra": "modern clothing, casual outfit, neon colors, acid colors, electric cyan, hot pink outfit, chartreuse, cool pink blush, chrome highlighter, silver strobing, frosted highlighter, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, bimbo makeup, hot pink lips, childish face, teenager",
+  "looks": {
+    "76": {
+      "titulo": "Esmeralda Latex en la Sala de Pruebas",
+      "codigo": "L7",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Latex / Fetichismo, su mayor deficit (+4,0). Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- rompe la racha de cuatro vestidos M6 seguidos justo donde su ventana empieza a regir. Abre el batch con ESMERALDA, el complementario de libro de su rubio miel sobre piel calida y su familia mas desaprovechada (10,8%): le devuelve al pelo el oro que el negro le quita. Uñas en oro viejo, no rojo.",
+      "bloque_b": "a deep emerald green high-shine latex catsuit fitted as a second skin, full-length legs to the ankle, a high collar closing at the throat, long sleeves ending at the wrist, a heavy antique-gold zip running from the collar down the centre front and stopping open at the sternum, the latex polished to a wet shine with sculpted seams tracing the waist and the hip line; an emerald latex thong worn beneath, its front a narrow tapered panel and its back a single cord; long emerald latex opera gloves to above the elbow; no stockings, the catsuit covers the leg to the ankle; a slim antique-gold chain at the throat with a single emerald drop, and antique-gold drop earrings; nails: long stiletto-shaped fingernails lacquered in glossy antique gold; closed pointed-toe knee-high boots in emerald patent latex, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip and an antique-gold heel cap",
+      "setting": "a private fitting salon at night, walls panelled in dark green silk, a tall triple mirror in an antique-gold frame, a single warm brass lamp and a deep shadow beyond the light",
+      "props": {
+        "seat": "a dark green silk upholstered fitting stool",
+        "wall": "a panel of dark green silk wallcovering",
+        "surface": "a low antique-gold console table",
+        "upright": "the antique-gold column of the triple mirror"
+      }
+    },
+    "77": {
+      "titulo": "Chocolate y Camel en el Despacho",
+      "codigo": "X2",
+      "polo": "Ejecutivo de Poder",
+      "concepto": "Ejecutivo de Poder (+1,5), en el registro que la Ama pidio el 23/08: el poder que seduce, no el que solo manda. Arquitectura M7 (falda + top, CUBIERTA) -- bloqueadas M6 y M9. Chocolate y camel son neutro calido puro: la unica combinacion de la §5.2b que trabaja CON su rubio miel en vez de contra el, y que ninguna de sus hermanas puede usar sin apagarse. Uñas en bronce.",
+      "bloque_b": "a chocolate brown high-shine latex pencil skirt cut to just below the knee, moulded tight over the hips with a deep slit up the back seam to mid-thigh and a wide moulded waistband sitting on the natural waist; above it a sheer camel silk-georgette pussy-bow blouse, fully transparent so the lingerie beneath reads clearly, the bow tied loose at the throat and the tails falling over the bust, cuffs buttoned at the wrist; beneath the blouse a camel silk-satin longline bra with fine tonal lace cups underwired into a deep plunge, and a matching camel silk thong; sheer smoke-brown hold-up stockings, 15 denier, with a fine dark seam up the back of each leg; a slim antique-gold chain belt sitting on the hips; small pearl studs and a single antique-gold cuff on one wrist; nails: long stiletto-shaped fingernails lacquered in glossy deep bronze; closed pointed-toe court shoes in chocolate patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole",
+      "setting": "a private executive study at dusk, walls of dark walnut shelving, a broad leather-topped desk with a brass banker's lamp, tall windows with the last warm light coming in low",
+      "props": {
+        "seat": "a walnut and oxblood leather desk chair",
+        "wall": "a wall of dark walnut shelving",
+        "surface": "the leather-topped walnut desk",
+        "upright": "a carved walnut window column"
+      }
+    },
+    "78": {
+      "titulo": "Marfil y Oro Viejo en el Tocador",
+      "codigo": "B1",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Boudoir / Lenceria. Arquitectura M3 (conjunto de lenceria + liguero + medias) bajo peignoir abierto -- bloqueadas M6, M9, M7 -- y cumple su piso de bata del §5.1c: floor-length y SEMITRANSPARENTE, que es el default desde el 17/08 porque una bata opaca tapa la lenceria en Back View igual de bien que una mal cerrada. Marfil y oro viejo: el oro es el eco de su iris ambar nuevo. Uñas en oro viejo palido.",
+      "bloque_b": "an ivory silk and fine French lace longline bra, its sheer lace cups cut low into a deep plunge with a scalloped edge and a small antique-gold clasp at the centre gore; a matching ivory silk thong with the same scalloped lace along the top edge of its front panel, its hip straps thin ivory elastic and its back open but for one narrow strap; an ivory silk suspender belt worn over the thong, six thin straps clipped to ultra-sheer ivory hold-up stockings, 10 denier, with a wide lace band at the top of each thigh; over all of it a floor-length old-gold sheer silk-chiffon open peignoir, its hem sweeping the floor, semi-transparent fabric that reveals the lingerie beneath from every angle including from behind, falling loose off both shoulders, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin old-gold sash left untied; a single strand of pearls sitting low on the collarbones and pearl drop earrings; nails: long almond-shaped fingernails lacquered in glossy pale antique gold; closed pointed-toe court shoes in ivory patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole",
+      "setting": "a private dressing room at first light, walls in warm ivory silk, an antique-gold framed vanity crowded with cut-glass bottles, cold morning light coming through a tall window and warming as it lands",
+      "props": {
+        "seat": "an ivory silk upholstered vanity stool",
+        "wall": "a panel of warm ivory silk wallcovering",
+        "surface": "the marble top of an antique-gold vanity",
+        "upright": "the carved column of a tall window frame"
+      }
+    },
+    "79": {
+      "titulo": "Midnight Navy en la Sesión de las Tres",
+      "codigo": "SL2",
+      "polo": "Sesión Literaria",
+      "concepto": "Sesion Literaria (+0,5): estudio privado, escritura nocturna. Arquitectura M10 (slip de malla sobre lenceria, CUBIERTA) -- bloqueadas M9, M7, M3. Midnight navy es raiz profunda de la §5.2b y no aparece en su roster reciente; sobre rubio miel funciona como el negro pero sin apagarle el oro del pelo. Uñas en berenjena casi negro, otro color que no le compite a la boca.",
+      "bloque_b": "a midnight navy sheer silk-mesh slip dress falling to mid-calf, cut on the bias with a thin strap over each shoulder and a low straight neckline, the mesh transparent enough that the lingerie beneath reads clearly from every angle including from behind, a deep slit up the left side to mid-thigh; beneath it a midnight navy silk-satin bra with fine tonal lace cups underwired into a plunge, and a matching midnight navy silk thong with a narrow tapered front panel and a single slim strap at the back; sheer navy-tinted hold-up stockings, 15 denier, with a fine seam up the back of each leg; long midnight navy silk opera gloves to above the elbow; a slim antique-gold chain at the throat with a single navy sapphire drop, and antique-gold drop earrings; nails: long almond-shaped fingernails lacquered in glossy near-black aubergine; closed pointed-toe court shoes in midnight navy patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole",
+      "setting": "a private writing study deep in the night, a single green-shaded brass desk lamp lighting a leather blotter and a fountain pen, walls of dark bookshelves fading into black, a tall dark window with no view",
+      "props": {
+        "seat": "a deep navy velvet reading chair",
+        "wall": "a wall of dark bookshelves",
+        "surface": "the leather blotter of a mahogany writing desk",
+        "upright": "a slim brass floor lamp column"
+      }
+    },
+    "80": {
+      "titulo": "Berenjena Latex y Guantes de Ópera",
+      "codigo": "L8",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Latex / Fetichismo otra vez, porque con +4,0 era el hueco mas grande y un solo look no lo cierra. Arquitectura M4 (corseteria overbust + tanga, pierna libre) -- bloqueadas M7, M3, M10. Berenjena profundo: joya calida oscura de la §5.2b, prima del ciruela pero sin caer en el vino, que es justo lo que le compite a los labios crimson fijos. Uñas en plata vieja.",
+      "bloque_b": "a deep aubergine high-shine latex overbust corset as the central piece, heavily boned with fine antique-silver boning channels visible on the outside, moulded cups lifting the bust high, a row of antique-silver busk clasps down the centre front and a wide flat antique-silver lacing panel down the back drawn tight over an aubergine satin modesty panel, its lower edge cut to a deep point over the hip bones so the leg reads long; below it an aubergine latex thong, its waistband a single flat cord sitting above the hip bone, its front a slim shield-shaped panel and its back a single cord; sheer smoke-plum hold-up stockings, 15 denier, with a fine dark seam up the back of each leg, held by four thin aubergine latex suspender straps with antique-silver clips; long aubergine latex opera gloves to above the elbow; a slim antique-silver collar at the throat with a single small ring, and antique-silver drop earrings; nails: long stiletto-shaped fingernails lacquered in glossy antique silver; closed pointed-toe knee-high boots in aubergine patent latex, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip and an antique-silver heel cap",
+      "setting": "a private salon of La Voûte after closing, walls in deep plum damask, a single low chandelier throwing warm light onto a dark parquet floor, velvet curtains drawn against the night",
+      "props": {
+        "seat": "a deep plum velvet chaise longue",
+        "wall": "a panel of deep plum damask wallcovering",
+        "surface": "a low marquetry side table",
+        "upright": "a carved column beside the drawn velvet curtain"
+      }
+    }
+  }
+}

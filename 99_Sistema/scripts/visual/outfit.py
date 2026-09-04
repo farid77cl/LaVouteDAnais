@@ -192,11 +192,19 @@ def cmd_generar(args):
             out += ["- **Tags:** %s" % " ".join(tags), ""]
         if lk.get("concepto"):
             out += ["**Concepto:** %s" % lk["concepto"], ""]
-        # El fence `**BLOQUE B:**` no es decorativo: es lo que lee
-        # `lint_prompts_personaje.extraer_bloques_b()` para clasificar la
-        # arquitectura de prenda y medir la cuota de silueta cubierta. La galeria
-        # de Ele no lo tiene y por eso su rotacion de prenda no se puede auditar.
-        if b.get("emitir_bloque_b"):
+        # El outfit tiene que quedar declarado FUERA de los prompts: es lo que lee
+        # `lint_prompts_personaje.extraer_bloques_b()` para clasificar la arquitectura
+        # de prenda y medir la cuota de silueta cubierta. Sin el, el chequeo 12 no ve
+        # el look — y eso es lo que tenia a Ele en 0 de 618 hasta el 04/09/2026.
+        #
+        # Hay DOS formas validas y la galeria decide cual, no el gusto (regla 11
+        # §9quinquies): el bloque con fence ```text, y el campo de UNA LINEA. La
+        # galeria de Ele **no tolera el fence** — medido: le hace ingerir a LV-App 8
+        # prompts donde hay 7 y el slot Standing recibe dos, o sea PrimaryKey REPLACE
+        # y una toma perdida en silencio. Por eso su perfil declara `outfit_inline`.
+        if pb.perfil.get("outfit_inline"):
+            out += ["- **Outfit (BLOQUE B):** `%s`" % lk["bloque_b"].replace("`", "'").strip(), ""]
+        elif b.get("emitir_bloque_b"):
             out += ["**BLOQUE B (outfit -- copiado textual e identico en los %d prompts):**"
                     % len(slots), "```text", lk["bloque_b"], "```", ""]
         out += ["### \U0001f4f8 Imágenes (0/7 — Pendiente)", ""]

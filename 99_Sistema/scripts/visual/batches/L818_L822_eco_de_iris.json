@@ -1,0 +1,102 @@
+{
+  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+  "_origen": "Ama 04/09/2026: 'dame 5 looks nuevos por cada muñeca, con las nuevas reglas de colorimetria aplicadas'. Primer batch de Ele posterior a la §5.2b (color de prenda) y la §5.2c (color de maquillaje).",
+  "_step_0": "Ultimo look real: L817. Ventana global de arquitectura (3 previos leibles): L815=M3, L816=M6, L817=M3 -> bloqueadas M3 y M6 para el L818. Secuencia verificada deslizando la ventana: L818=M9 catsuit (CUBIERTA) · L819=M2 micro dos piezas · L820=M4 corseteria · L821=M7 minifalda+top (CUBIERTA) · L822=M1 bodysuit. Cuota de silueta cubierta (>=1 de cada 4): la ventana [818-821] la paga el L818 y la [819-822] el L821. IMPORTANTE: el `rotacion_prenda` de Ele tiene desde_look=818, asi que este es el PRIMER batch suyo en el que la regla es CRITICA y no aviso.",
+  "_colorimetria": "§5.2b — el eje de Ele es que su cara YA trae dos chromas calidos (cereza en el pelo, hot pink fijo en la boca), asi que la prenda tiene que ENFRIAR. Los cinco van en frio saturado y el batch lo lidera el VERDE, que es el eco de su iris grey-green y la ganancia sin cobrar mas clara del repo: 7,7% de uso en 391 outfits medidos. Cero naranja, cero coral, cero fucsia como dominante -- serian un tercer rojo sobre una cara que ya tiene dos. El L822 lleva rose gold porque la Ama decidio el 04/09 que plata, dorado y rose gold se quedan como familias plenas suyas.",
+  "_maquillaje": "§5.2c — hasta el 04/09 Ele no tenia sombra, ceja, rubor ni iluminador escritos en 618 looks. Ya estan en su ADN; lo que VARIA por look es el color de sombra (canon viejo de identidad_ele.md §II que nunca se habia escrito en parte operativa), y se declara aqui con adn_overrides sobre el fragmento `intense shimmer smokey eyeshadow in cool jade-green and smoky pewter`. Labio hot pink y uñas French XXXL son fijos del ADN y no se tocan. El iluminador es de PERLA en los cinco: su piel es hyper-polished y un strobing de cromo le borraria el relieve del pomulo.",
+  "_anti_monoblock": "Los cinco son bicolor o mas. Ninguno es monoblock, asi que la ventana de max 2 consecutivos ni se roza.",
+  "personaje": "ele",
+  "batch": "Eco de Iris -- Verde y Frio Saturado",
+  "fecha": "04/09/2026",
+  "categoria": "Mix",
+  "rango": "818-822",
+  "tags_comunes": ["batchL818-L822", "V7poses"],
+  "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, gloves, opera gloves, elbow gloves, coral outfit, orange outfit, tattoos over clothing, text on clothing, lettering on garment",
+  "looks": {
+    "818": {
+      "titulo": "Jade Liquid Catsuit",
+      "codigo": "HF1",
+      "polo": "High-Fashion Editorial",
+      "concepto": "Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- libre en la ventana, que bloqueaba M3 y M6. Abre el batch con el VERDE, eco de su iris grey-green y la familia mas desaprovechada de su flota (7,7%). Jade profundo sobre porcelana pulida: el unico color que le enciende el ojo y a la vez enfria los dos rojos de la cara.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in deep jade-green and cool graphite"
+      },
+      "bloque_b": "a deep jade-green liquid latex catsuit cut as a single piece, full-length legs to the ankle, a high funnel neckline closed at the front by a mirror-chrome zip pull resting at the sternum, long sleeves ending at the wrist, the latex polished to a deep wet shine with sculpted seams tracing the waist and following the hip line, a mirror-chrome zip running the full length of the spine to the tailbone; a jade-green latex thong worn beneath, its front a narrow tapered panel and its back a single cord; bare hands, no gloves; no stockings, the catsuit covers the leg to the ankle; a slim mirror-chrome choker with no lettering, and no other jewellery; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe stiletto pumps in jade-green mirror patent latex, 13cm razor-thin chrome pin heel with no platform, sharp closed pointed toe, a single thin jade ankle strap fastened with a chrome pin buckle, mirror-chrome sole edge and a chrome heel cap",
+      "setting": "a seamless editorial cyclorama in cold graphite grey, a single hard key light from the left and a jade gel rim from behind, a polished concrete floor with nothing else in frame",
+      "props": {
+        "seat": "a low graphite lacquer editorial cube",
+        "wall": "the seamless graphite cyclorama sweep",
+        "surface": "the polished concrete studio floor",
+        "upright": "a matte black lighting stand column"
+      }
+    },
+    "819": {
+      "titulo": "Emerald Mirror Pool Two-Piece",
+      "codigo": "B2",
+      "polo": "Bikini Studio",
+      "concepto": "Arquitectura M2 (micro dos piezas) -- bloqueadas M6, M3, M9. Segundo verde del batch, esta vez esmeralda contra plata espejo: la prenda ES el sujeto de la toma. El espejo cromado es material dificil de renderizar, asi que el corte va deliberadamente simple (triangulos de cordones anudados) segun la regla de no apilar constraints duros.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in emerald green and icy silver"
+      },
+      "bloque_b": "an emerald-green high-gloss vinyl micro bikini as a two-piece: the top a string triangle top of two small emerald triangles joined by fine mirror-silver cords knotted at the centre of the back and again behind the neck, no padding and no underwire; the bottom a matching string thong, two sliding emerald triangles joined by mirror-silver cords knotted at each hip and reduced at the back to a single thin cord; every cord edged with a narrow line of mirror-silver piping; bare legs, no stockings; bare hands, no gloves; a fine mirror-silver body chain running from the nape and looping loosely around the waist, worn instead of any choker; the navel piercing and both nipple piercings visible on bare skin, and the blackwork rune-glyph tattoo showing along the hip crease above the thong; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; open-toe strappy platform sandals in clear acrylic with emerald-green vinyl straps, 18cm razor-thin chrome pin heel plus a 6-inch clear acrylic platform, sharp open pointed toe, a locking emerald ankle strap with a chrome pin buckle, mirror-chrome sole plate",
+      "setting": "a private indoor pool studio at dusk, the water lit from beneath in cold emerald, black slate decking wet and reflecting, a wall of dark glass beyond the water",
+      "props": {
+        "seat": "a black slate pool ledge at the water's edge",
+        "wall": "a wall of dark tinted glass",
+        "surface": "the wet black slate decking",
+        "upright": "a slim brushed-steel column at the pool corner"
+      }
+    },
+    "820": {
+      "titulo": "Deep Indigo Corsetry Boudoir",
+      "codigo": "LA2",
+      "polo": "Lencería Boudoir",
+      "concepto": "Arquitectura M4 (corseteria + tanga, pierna libre) -- bloqueadas M3, M9, M2. Indigo profundo, familia fria que no aparece en sus ultimos batches, con cromo espejo como hardware. Corse de vinilo arquitectonico: su pieza de firma couture, sin repetir la silueta de los ultimos tres de Lenceria.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in deep indigo and cool pewter"
+      },
+      "bloque_b": "a deep indigo high-gloss vinyl overbust corset as the central piece, architectural with a conical moulded cup, fine mirror-chrome boning channels visible on the outside, a row of mirror-chrome busk clasps down the centre front and a wide flat mirror-chrome lacing panel down the back drawn tight over an indigo satin modesty panel, its lower edge cut to a deep point over the hip bones so the leg reads long; a deep indigo vinyl g-string beneath, its waistband a single flat cord riding well above the hip bone, its front a slim shield-shaped panel and its back nothing but the cord; a matching indigo suspender belt worn over the g-string with four thin straps clipped to ultra-sheer smoke-grey stockings, 10 denier, with a fine dark seam up the back of each leg; bare hands, no gloves; a mirror-chrome collar with no lettering and a single chrome O-ring at the throat; the navel and nipple piercings visible on bare skin; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe thigh-high stiletto boots in deep indigo mirror patent vinyl, 14cm razor-thin chrome pin heel with no platform, sharp closed pointed toe, a mirror-chrome zip running the inner calf, chrome heel cap and mirror-chrome sole edge",
+      "setting": "a private boudoir suite at night, deep indigo velvet walls, a low chrome-framed vanity mirror ringed with cold bulbs, a single steel-blue lamp pooling light onto a dark lacquer floor",
+      "props": {
+        "seat": "a chrome-framed indigo velvet vanity stool",
+        "wall": "a padded indigo velvet wall panel",
+        "surface": "the mirrored top of a chrome vanity table",
+        "upright": "a slim chrome floor lamp column"
+      }
+    },
+    "821": {
+      "titulo": "Electric Cyan Nightclub Skirt",
+      "codigo": "N3",
+      "polo": "Nightclub",
+      "concepto": "Arquitectura M7 (minifalda + top, CUBIERTA) -- bloqueadas M9, M2, M4. Paga la cuota de silueta cubierta de la ventana [819-822] sin costar calor: micro falda a la cadera y top que deja el abdomen entero fuera. Cyan electrico contra negro carbon, el frio mas agresivo de su paleta.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in electric cyan and cool steel"
+      },
+      "bloque_b": "an electric cyan high-gloss PVC micro miniskirt with a hard A-line cut sitting low on the hip bones and ending high on the thigh, a flat mirror-chrome zip running the full length of the right hip seam and the hem edged with a narrow band of carbon black vinyl; above it a carbon black high-gloss vinyl bandeau top, a single moulded band cut straight across beneath the collarbones and ending just under the bust so the whole midriff and the navel piercing stay bare, held by a thin black elastic strap across the upper back and fastened between the shoulder blades with two flat chrome hooks; an electric cyan PVC thong beneath the skirt, cut as a narrow inverted triangle at the front with two fine cords riding over the hip crests and a single cord at the back; bare thighs above the boots, no stockings; bare hands, no gloves; a mirror-chrome choker with no lettering and one wide cyan vinyl cuff on the left wrist; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe knee-high stiletto boots in carbon black mirror patent vinyl, 14cm razor-thin chrome pin heel with no platform, sharp closed pointed toe, laced up the front through chrome eyelets with a cyan cord, chrome heel cap and mirror-chrome sole edge",
+      "setting": "a mirrored nightclub mezzanine above the floor, cyan laser lines cutting through low haze, black glass railings doubling the light, the crowd far below and out of focus",
+      "props": {
+        "seat": "a low black glass banquette on the mezzanine",
+        "wall": "a mirrored mezzanine wall panel",
+        "surface": "a black glass cocktail ledge",
+        "upright": "a chrome mezzanine railing post"
+      }
+    },
+    "822": {
+      "titulo": "Violet Rose-Gold Escort Bodysuit",
+      "codigo": "E5",
+      "polo": "Escort Haute",
+      "concepto": "Arquitectura M1 (bodysuit segunda piel) -- bloqueadas M2, M4, M7. Cierra el batch con violeta saturado y rose gold: la Ama decidio el 04/09 que plata, dorado y rose gold se quedan como familias plenas de Ele, asi que el rose gold entra como hardware pleno y no como acento pedido de permiso.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in saturated violet and warm-toned rose gold"
+      },
+      "bloque_b": "a saturated violet high-gloss latex bodysuit cut as a second skin, a deep plunging halter neckline fastened behind the neck by a rose-gold ring, sharp geometric cut-outs at the ribs and outer hips, a high-cut leg line rising past the hip bone, the back scooped low to the tailbone with a rose-gold zip running to the nape, the seat cut as a thong so the hips stay bare; ultra-sheer violet-tinted stockings, 10 denier, held by a violet latex suspender belt with four thin straps and rose-gold clips; bare hands, no gloves; a rose-gold chain choker with no lettering and long faceted rose-gold drop earrings; the blackwork rune-glyph tattoo visible along the hip crease inside the hip cut-out, and the navel piercing visible in the rib cut-out; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe slingback stiletto pumps in violet mirror patent latex, 13cm razor-thin rose-gold pin heel with no platform, sharp closed pointed toe, a thin violet slingback strap with a rose-gold pin buckle, rose-gold sole edge and heel cap",
+      "setting": "a private hotel penthouse landing at night, a wall of violet-lit onyx, a rose-gold framed mirror set into the stone, the city glittering through a tall window beyond",
+      "props": {
+        "seat": "a rose-gold framed violet velvet bench",
+        "wall": "a violet-lit polished onyx wall",
+        "surface": "a rose-gold console table top",
+        "upright": "a slender rose-gold floor lamp column"
+      }
+    }
+  }
+}

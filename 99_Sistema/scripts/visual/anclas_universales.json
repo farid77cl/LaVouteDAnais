@@ -431,7 +431,9 @@
         "_cuota_porque": "Misma cuota que miss_doll (1 de cada 4). Ele tiene 618 looks y una historia cromatica propia, pero el eje que esta cuota protege -- que no se encadenen arquitecturas de pura piel -- es identico para las tres.",
         "desde_look": 818,
         "_desde_look_porque": "Ele iba en 818 looks el 04/09/2026: la ventana arranca en el PROXIMO look nuevo y no juzga retroactivamente 618 looks ya materializados. Misma convencion retrofit-al-tocar que uso miss_doll con su desde_look 26."
-      }
+      },
+      "outfit_inline": true,
+      "_outfit_inline_porque": "Ama 04/09/2026. La galeria de Ele declara el outfit en un campo de UNA LINEA (`- **Outfit (BLOQUE B):** `...``), no en un bloque con fence ```text como Miss Doll y Anais. No es desprolijidad: medido ese dia, meterle el bloque con fence hace que LV-App ingiera 8 prompts donde hay 7 y que el slot Standing reciba dos -> PrimaryKey REPLACE y una toma perdida en silencio. Sus prompts usan fences desnudos y su galeria no tolera uno mas. 27 de sus looks ya usaban este campo y tenian razon. Contrato completo: regla 11 §9quinquies."
     },
     "miss_doll": {
       "nombre": "Miss Doll",
