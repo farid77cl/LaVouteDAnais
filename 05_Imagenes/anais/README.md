@@ -606,4 +606,12 @@
 
 ---
 
+## 🌹 Look 80: Berenjena Latex Y Guantes De Opera
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_080_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 *Galería Anaïs Belland coordinada por Ele.* 👑

@@ -4919,11 +4919,11 @@ a midnight navy sheer silk-mesh slip dress falling to mid-calf, cut on the bias 
 a deep aubergine high-shine latex overbust corset as the central piece, heavily boned with fine antique-silver boning channels visible on the outside, moulded cups lifting the bust high, a row of antique-silver busk clasps down the centre front and a wide flat antique-silver lacing panel down the back drawn tight over an aubergine satin modesty panel, its lower edge cut to a deep point over the hip bones so the leg reads long; below it an aubergine latex thong, its waistband a single flat cord sitting above the hip bone, its front a slim shield-shaped panel and its back a single cord; sheer smoke-plum hold-up stockings, 15 denier, with a fine dark seam up the back of each leg, held by four thin aubergine latex suspender straps with antique-silver clips; long aubergine latex opera gloves to above the elbow; a slim antique-silver collar at the throat with a single small ring, and antique-silver drop earrings; nails: long stiletto-shaped fingernails lacquered in glossy antique silver; closed pointed-toe knee-high boots in aubergine patent latex, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip and an antique-silver heel cap
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
