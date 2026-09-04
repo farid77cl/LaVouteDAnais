@@ -103,6 +103,31 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, different person, dif
 - **Sigue derogado (no revivir):** cero-solapamiento en batch, cuota de Amarillos 1/6, cuota de Cherry dominante 1/8, ventana de material ≥2.
 - 🔧 **Enforcement:** `99_Sistema/scripts/visual/color_canon.py` — todo inyector de Ele corre `audit_color_batch(LOOKS)` **antes de escribir la galería** (como `footwear_canon`). Caza rojo/cherry dominante, racha negro/metálico ≥3 y repetición de familia dominante en 3 looks. *(Auto-audit 02/08: 66 violaciones en L700-L800 — fosilizadas; el linter blinda los looks nuevos.)*
 
+### 5.2b · 🎨 Colorimetría — el color contra la CARA, no contra el escenario (Ama 04/09/2026)
+
+> *"cada una de las 3 muñecas tiene pelo, piel, maquillaje estilo distintos, cierto? porque no me haces un estudio de colores, cuales le viene mas a una que a otra teniendo en cuenta eso"*
+>
+> **Por qué nace.** Hasta hoy la §5.2 de las tres agrupaba el color por **raíz narrativa** (Stripper / Domme / Fashionista / Girly / Vintage Noir) — o sea por *dónde está parada*, nunca por *qué le queda*. Ningún perfil decía una palabra sobre subtono, contraste ni acabado de piel. Resultado medido sobre las tres galerías el 04/09: **plata/cromo es la familia más usada de las tres a la vez** (Ele 39,6% · Miss Doll 74,6% · Anaïs 38,5%) — el único color que no diferencia a nadie. Esta subsección **no deroga ni duplica la §5.2**: la §5.2 sigue siendo dueña de qué colores existen; esto agrega **por qué** unos calzan mejor que otros en esta cara concreta.
+
+**Los cuatro anclajes (leídos del fence `<!-- ADN:BLOQUE_A -->`, §2):**
+
+| Anclaje | Token literal | Lectura |
+|---|---|---|
+| Pelo | `dark cherry red hair` | cálido, y es la masa de color más grande del cuadro |
+| Piel | `flawless white porcelain skin, hyper-polished smooth` | **pulida** — rebota la luz |
+| Ojos | `large almond-shaped grey-green eyes` | **eco de iris = verde** |
+| Labios | `overlined glossy hot pink lips` — **fijos** | segundo rojo de la cara |
+
+**El eje:** su cara **ya trae dos chromas cálidos peleando entre sí** (cereza en el pelo, hot pink en la boca), sostenidos a propósito. La prenda no tiene que aportar calor: tiene que **enfriar** para que esos dos rojos se lean.
+
+- **✅ Le favorece:** frío saturado — cyan, cobalto, índigo, violeta — y sobre todo **el verde (jade, esmeralda), que es el eco de su iris**.
+- **⚠️ Le pelea como DOMINANTE:** toda la banda rojo–naranja–coral–fucsia. Mete un **tercer rojo** en una cara que ya tiene dos y el cuadro se aplana. No queda prohibido — baja a **acento**.
+- **📏 Medición 04/09 (391 outfits):** verde **7,7%** — la ganancia sin cobrar más clara del repo. Naranja/coral **11,0%**, la más alta de las tres justo en su peor calce.
+
+> 🔒 **DECISIÓN DE LA AMA (04/09/2026) — manda sobre lo de arriba:** *"si o si en ele y miss doll se quedan el plateado, dorado y gold rose"*. **Plata/cromo, dorado y rose gold se quedan como familias plenas de Ele**, sin cuota ni ventana, aunque el análisis los señale como poco diferenciadores. Es decisión editorial suya y gana sobre la colorimetría; se deja escrito para que una sesión futura no lo "corrija" creyendo que fue un descuido.
+
+> 📊 Estudio completo con muestras a la vista: artefacto **Colorimetría de La Voûte** (04/09/2026).
+
 ### 5.3 · Calzado (canon inamovible — ABSOLUTO)
 
 - **Regla:** stiletto **≥12 cm** o plataforma Pleaser **≥6"**. **Siempre.**
