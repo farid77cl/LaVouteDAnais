@@ -4114,6 +4114,13 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/`
 - **Tags:** #mix #noche_la_voute #n1 #batchL66-L70 #V7poses
 
+**Concepto:** (sin concepto declarado en el batch)
+
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a blood-red silk-velvet evening gown cut on the bias: a deep V neckline plunging to the sternum with the edges held by a single jet brooch, long fitted sleeves to the wrist, a floor-sweeping hem with a slit opening to mid-thigh on the left when she moves and lying closed and demure when she stands still; black fishnet stockings with a straight back seam held by a six-strap black satin suspender belt; black opera-length silk gloves drawn above the elbow; a triple strand of pearls at the throat and jet drop earrings; closed pointed-toe stiletto pumps in black patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a single thin instep strap, iconic red lacquered sole
+```
+
 ### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
@@ -4163,6 +4170,13 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 - **Ubicacion:** `05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/`
 - **Tags:** #mix #latex_fetichismo #l3 #batchL66-L70 #V7poses
+
+**Concepto:** (sin concepto declarado en el batch)
+
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a bottle-green liquid latex catsuit covering the body from throat to ankle: a high mock-neck collar, long sleeves to the wrist, full-length legs moulded to the calf, an antique-bronze zip running the full length of the front and drawn down to just below the sternum; over it a bottle-green latex overbust corset with antique-bronze boning and lacing at the back, cinching the waist in extreme tightlacing; no stockings, the catsuit covers the leg; bronze drop earrings and a thin bronze collar at the throat; closed pointed-toe stiletto pumps in bottle-green patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a bronze buckled instep strap, iconic red lacquered sole
+```
 
 ### 📸 Imágenes (7/7 — Completo)
 
@@ -4214,6 +4228,13 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/`
 - **Tags:** #mix #ejecutivo_de_poder #x1 #batchL66-L70 #V7poses
 
+**Concepto:** (sin concepto declarado en el batch)
+
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a black leather pencil skirt to mid-calf moulded to the hip with a deep kick pleat at the back, worn with a leopard-print silk blouse open two buttons below the sternum and tucked in, the collar standing; over them a black leather blazer worn open and never buttoned, its lapels wide and its lining showing the same leopard print; a wide black patent belt cinching the waist; black seamed stockings with a straight back seam and a black suspender belt; black opera-length leather gloves to the elbow; pearl button earrings and a thin gold collar; closed pointed-toe slingback stiletto pumps in black patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a slingback strap at the heel, iconic red lacquered sole
+```
+
 ### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
@@ -4264,6 +4285,13 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 - **Ubicacion:** `05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/`
 - **Tags:** #mix #noche_la_voute #n4 #batchL66-L70 #V7poses
 
+**Concepto:** (sin concepto declarado en el batch)
+
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a midnight blue liquid satin column gown: an off-shoulder bardot neckline sitting below the collarbones, long fitted sleeves to the wrist, a floor-length hem falling straight and closed to the floor; a silver fox stole draped across one forearm and the opposite shoulder; sheer smoke-grey stockings with a straight back seam held by a six-strap silver satin suspender belt; midnight blue opera-length satin gloves above the elbow; diamond chandelier earrings and a diamond clip at the neckline; closed pointed-toe stiletto pumps in midnight blue satin, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a satin-covered instep strap, iconic red lacquered sole
+```
+
 ### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
@@ -4313,6 +4341,13 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 
 - **Ubicacion:** `05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/`
 - **Tags:** #mix #latex_fetichismo #l5 #batchL66-L70 #V7poses
+
+**Concepto:** (sin concepto declarado en el batch)
+
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a burgundy latex overbust corset with antique-gold boning and a gold busk down the front, its cups moulded and its edge sitting low under the bust, laced tight at the back; a matching burgundy latex high-waisted pencil skirt to the knee with a gold zip at the side and a vent at the back; burgundy seamed stockings with a straight back seam held by a six-strap gold-clasp suspender belt worn over the skirt's waistband; burgundy opera-length latex gloves drawn above the elbow; gold drop earrings and a thin gold collar at the throat; closed pointed-toe stiletto pumps in burgundy patent leather, 12cm slim stiletto heel, no platform, sharp closed pointed toe, a gold buckled instep strap, iconic red lacquered sole
+```
 
 ### 📸 Imágenes (7/7 — Completo)
 

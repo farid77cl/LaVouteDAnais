@@ -78,5 +78,6 @@
       }
     }
   },
-  "_correccion_29_08": "L817: llevaba fishnet hold-up + plataforma open-toe, y con medias la puntera va CERRADA (regla 20/06). Lo caza `outfit.py auditar`. El Pleaser acrilico transparente es canon por default en pole/bikini, asi que se fueron las medias y no el zapato."
+  "_correccion_29_08": "L817: llevaba fishnet hold-up + plataforma open-toe, y con medias la puntera va CERRADA (regla 20/06). Lo caza `outfit.py auditar`. El Pleaser acrilico transparente es canon por default en pole/bikini, asi que se fueron las medias y no el zapato.",
+  "_emitir_bloque_b_porque": "Ama 04/09/2026. NO se activa en Ele. Se probo y se midio: el bloque `**BLOQUE B ...:**` seguido de un fence ```text hace que el parser de LV-App cuente 8 prompts donde hay 7 y que el slot Standing reciba dos, o sea PrimaryKey REPLACE y una toma perdida en silencio. En la galeria de Ele el outfit se declara en su campo de UNA LINEA `- **Outfit (BLOQUE B):**`, que ya usan 27 de sus looks. Esta es la razon real por la que su formato difiere del de Miss Doll, y no es desprolijidad: es una restriccion del parser."
 }

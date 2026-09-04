@@ -133,7 +133,25 @@ def extraer_arquetipos(texto):
     return arquetipos
 
 
-BLOQUE_B = re.compile(r"\*\*BLOQUE B[^\n]*\n```text\n(.*?)\n```", re.S)
+# Las TRES galerias escriben el outfit en formas distintas, y hasta el 04/09/2026
+# este chequeo solo sabia leer la primera. Medido ese dia: Ele 0 de 618 looks
+# clasificados y Anais 5 de 70 — o sea la regla estaba cableada y no podia
+# dispararse, que es el mismo modo de falla que la ventana por arquetipo del
+# 18/08 ("una regla que no se puede disparar es una regla que no existe").
+# Se prueban en orden y gana la primera que exista dentro del bloque del look.
+BLOQUE_B_FORMAS = (
+    # 1. Fence ```text  — Miss Doll completa + Anais L71-L75
+    re.compile(r"\*\*BLOQUE B[^\n]*\n```text\n(.*?)\n```", re.S),
+    # 2. Inline entre backticks — Anais L01-L70
+    re.compile(r"\*\*BLOQUE B[^\n]*?:\*\*\s*`([^`]{40,})`"),
+    # 3. Campo `- **Outfit...:**` en prosa — Ele. Es su formato declarado en la
+    #    regla 11 y no se migra: se aprende a leerlo. El sufijo es libre porque
+    #    Ele nombra el MISMO campo de tres formas segun la era del look:
+    #    `Outfit:` (391), `Outfit canonico (7 campos):` (100) y
+    #    `Outfit (BLOQUE B):` (27). Medido el 04/09/2026.
+    re.compile(r"^- \*\*Outfit[^:*\n]*:\*\*\s*(.+)$", re.M),
+)
+BLOQUE_B = BLOQUE_B_FORMAS[0]  # se conserva el nombre por compatibilidad
 
 
 def extraer_bloques_b(texto):
@@ -148,10 +166,23 @@ def extraer_bloques_b(texto):
     for i, h in enumerate(heads):
         fin = heads[i + 1].start() if i + 1 < len(heads) else len(texto)
         num = int(h.group(1))
-        m = BLOQUE_B.search(texto, h.end(), fin)
-        if m and num not in bloques:
-            bloques[num] = m.group(1).strip()
+        if num in bloques:
+            continue
+        for rx in BLOQUE_B_FORMAS:
+            m = rx.search(texto, h.end(), fin)
+            if m:
+                bloques[num] = m.group(1).strip()
+                break
     return bloques
+
+
+def total_looks(texto):
+    """Cuantos looks tiene la galeria, contados igual que extraer_bloques_b.
+
+    Existe para que el resumen pueda decir 'lei N de M': hasta el 04/09/2026 el
+    chequeo 12 imprimia solo N, asi que un 0 de 618 se leia igual que un 'no
+    aplica' y paso meses sin que nadie lo notara."""
+    return len(set(re.findall(r"^#+ .*?\b(?:Look|Boudoir)\s+(?:[A-Za-z]+)?(\d+)\b", texto, re.M)))
 
 
 def clasificar_arquitectura(bloque_b, tax):
@@ -437,8 +468,17 @@ def auditar(slug, cfg, verbose=False):
         cada = rot.get("cuota_cubierta", {}).get("cada", 4)
         minimo = rot.get("cuota_cubierta", {}).get("minimo", 1)
 
+        # Looks materializados cuya violacion es real pero inarreglable, declarados
+        # uno por uno con motivo en anclas_universales.json. No suben desde_look
+        # (eso taparia tambien lo que venga despues) ni quedan en rojo permanente.
+        historicos = set(rot.get("historicos_declarados", []))
+
         def reportar(n, msg):
-            if n >= desde:
+            if n in historicos:
+                avisos.append("[AVISO]  %s Look %s: %s (HISTORICO DECLARADO: look ya "
+                              "materializado, ver rotacion_prenda._historicos_porque)"
+                              % (pb.perfil["nombre"], n, msg))
+            elif n >= desde:
                 criticos.append("[CRITICO] %s Look %s: %s" % (pb.perfil["nombre"], n, msg))
             else:
                 avisos.append("[AVISO]  %s Look %s: %s (historico: la regla rige desde el "
@@ -461,8 +501,11 @@ def auditar(slug, cfg, verbose=False):
                                 % (cubiertos, cada, "-L".join(str(x) for x in (bloque[0], bloque[-1])), minimo))
 
         n_cub = sum(1 for n in nums if clasif[n][1])
-        resumen_prenda = ("  · PRENDA: %d looks · cubierta %d (%.0f%%) · %s"
-                          % (len(nums), n_cub, (n_cub * 100.0 / len(nums)) if nums else 0,
+        n_total = total_looks(texto)
+        cobertura = ("leidos %d/%d looks" % (len(nums), n_total)
+                     + ("  ⚠ %d SIN LEER" % (n_total - len(nums)) if len(nums) < n_total else ""))
+        resumen_prenda = ("  · PRENDA: %s · cubierta %d (%.0f%%) · %s"
+                          % (cobertura, n_cub, (n_cub * 100.0 / len(nums)) if nums else 0,
                              " ".join("L%s=%s" % (n, clasif[n][0] or "??") for n in nums[-8:])))
     else:
         resumen_prenda = ""

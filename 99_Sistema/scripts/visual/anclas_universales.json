@@ -419,6 +419,18 @@
           "porque_no_se_toca": "Los 11.257 avisos que quedan son TODOS de poses con imagen ya materializada (3.349 poses medidas contra `git ls-files`, no contra el disco: los PNG llevan skin-worktree). Reescribir el prompt de una pose que ya tiene su foto no cambia ninguna imagen — solo genera churn en un archivo de 601 looks que además reescribe el bot. La métrica que importa NO es el total de avisos sino `poses_sin_imagen_con_ancla_faltante`, y esa está en 0. Si vuelve a subir, es que entraron looks nuevos sin ensamblar por el motor.",
           "por_que_GARMENT_EXCLUSION_LOCK_queda_fuera": "Su regex se dispara con `no gloves`, y en Ele esa frase aparece en 4.207 prompts porque los guantes le están prohibidos por canon (cláusula universal del ADN, ya cubierta por NO_ARMWEAR). No es una ausencia declarada look por look — que es el caso para el que se escribió el ancla (el `no corset` del Look 04 de Miss Doll). En Anaïs el mismo disparador SÍ es legítimo y ahí se aplicó."
         }
+      },
+      "rotacion_prenda": {
+        "_porque": "Ama 04/09/2026: 'en algun momento te pedi que el outfit engine fuera modular y que las 3 muñecas funcionaran igual en el proceso de punta a cabo'. Medido ese dia: la ventana de arquitectura de prenda existia SOLO en miss_doll, o sea la unica regla que caza clones de silueta por maquina protegia a una de las tres. Aqui se cablea a Ele con la misma maquinaria. Su biblioteca narrada sigue siendo 00_Ele/biblioteca_siluetas.md; esto no la reemplaza, la hace medible.",
+        "ventana_global": 3,
+        "_ventana_porque": "GLOBAL, no por arquetipo. Las ventanas de silueta y setting del perfil §7 estan alcanzadas por arquetipo y por eso no se dispararon nunca: con 8 arquetipos rotando, dos looks vecinos casi nunca comparten arquetipo. Esta se mide contra los 3 looks anteriores del roster completo. Obliga a rotar TAMBIEN dentro de la familia de piel (tres bodysuits en cuatro looks viola igual que tres vestidos).",
+        "cuota_cubierta": {
+          "cada": 4,
+          "minimo": 1
+        },
+        "_cuota_porque": "Misma cuota que miss_doll (1 de cada 4). Ele tiene 618 looks y una historia cromatica propia, pero el eje que esta cuota protege -- que no se encadenen arquitecturas de pura piel -- es identico para las tres.",
+        "desde_look": 818,
+        "_desde_look_porque": "Ele iba en 818 looks el 04/09/2026: la ventana arranca en el PROXIMO look nuevo y no juzga retroactivamente 618 looks ya materializados. Misma convencion retrofit-al-tocar que uso miss_doll con su desde_look 26."
       }
     },
     "miss_doll": {
@@ -455,7 +467,11 @@
         },
         "_cuota_porque": "25%, elegido por la Ama el 18/08/2026. Cubierta = M6-M10. La bata abierta y la capa NO la pagan (ver arquitecturas_de_prenda.no_cuentan_como_cubierta).",
         "desde_look": 26,
-        "_desde_look_porque": "El roster L01-L25 NO se retrofitea — convencion retrofit-al-tocar del repo, la misma que se aplico con la bata semitransparente y con las anclas del 17/08. Bajo el L26 el chequeo reporta AVISO (deja ver la deriva historica sin condenar looks ya materializados); desde el L26 es CRITICO y bloquea el commit del batch."
+        "_desde_look_porque": "El roster L01-L25 NO se retrofitea — convencion retrofit-al-tocar del repo, la misma que se aplico con la bata semitransparente y con las anclas del 17/08. Bajo el L26 el chequeo reporta AVISO (deja ver la deriva historica sin condenar looks ya materializados); desde el L26 es CRITICO y bloquea el commit del batch.",
+        "historicos_declarados": [
+          42
+        ],
+        "_historicos_porque": "Ama 04/09/2026. Al enseñarle al chequeo 12 a leer los tres formatos de galeria, Miss Doll paso de 59 a 75 looks clasificados y afloraron 2 violaciones reales del Look 42 (M1 repetida en la ventana + cuota cubierta 0/4 en L39-L42). Son de verdad, pero el look esta materializado 7/7 desde el 21/08/2026 y no se regenera: la ventana nunca lo goberno porque el lector no sabia leerlo. Se declara aqui, con numero y motivo, en vez de subir desde_look (que habria tapado tambien lo que venga despues) y en vez de dejarlo en rojo permanente (un linter que grita por lo inarreglable enseña a ignorarlo). Cualquier violacion NUEVA sigue siendo CRITICO."
       },
       "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon.",
       "conflicto_resuelto_13_08_2026": "Las 'piernas en V' de su Throne en Suelo CHOCAN con DRESS_LEG_CLOSURE (Ama 13/08/2026) cuando el look es de vestido/falda/bata. Gana la directiva de la Ama: en esos looks el Odalisque se resuelve con las dos piernas plegadas hacia un lado (sirena), NO en V. La V queda reservada a los looks de calzón/bikini/catsuit. Codificado en el perfil §4 y en repertorios_pose.json."
@@ -510,7 +526,19 @@
           "luz": "warm golden afternoon light"
         }
       },
-      "nota": "Su BLOQUE B suele llevar guantes de opera: el FOOTWEAR_ECHO aplica igual, pero el token de unas de mano se OMITE cuando los guantes cubren los dedos (perfil 5.4). **BOTTOM_CUT_LOCK sigue sin aplicarsele** (no lleva la tanga de Ele: la convertiria en otra muneca) **pero desde el 14/08/2026 lleva LEG_CUT_LOCK**, su corte propio: talle alto de epoca CON la pierna cortada al filo de la cadera. Deroga la exencion escrita el 13/08, que autorizaba por omision el calzon de cobertura total que la Ama rechazo. Ademas lleva SENSUAL_STATE y LIVED_IN_ROOM en todos sus prompts. **Si lleva DRESS_LEG_CLOSURE en la practica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda."
+      "nota": "Su BLOQUE B suele llevar guantes de opera: el FOOTWEAR_ECHO aplica igual, pero el token de unas de mano se OMITE cuando los guantes cubren los dedos (perfil 5.4). **BOTTOM_CUT_LOCK sigue sin aplicarsele** (no lleva la tanga de Ele: la convertiria en otra muneca) **pero desde el 14/08/2026 lleva LEG_CUT_LOCK**, su corte propio: talle alto de epoca CON la pierna cortada al filo de la cadera. Deroga la exencion escrita el 13/08, que autorizaba por omision el calzon de cobertura total que la Ama rechazo. Ademas lleva SENSUAL_STATE y LIVED_IN_ROOM en todos sus prompts. **Si lleva DRESS_LEG_CLOSURE en la practica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda.",
+      "rotacion_prenda": {
+        "_porque": "Ama 04/09/2026, misma orden que en Ele. Antes se habia declarado que a Anais no le aplicaba porque 'viste SOLO vestido o falda desde el 13/08/2026' -- pero eso no es razon para no medirla: es razon para esperar que su distribucion se concentre en M6/M7/M10, y la ventana lo hace visible en vez de asumirlo. Si la concentracion resulta deliberada, se sube su cuota aqui; lo que no puede pasar es que no se mida.",
+        "ventana_global": 3,
+        "_ventana_porque": "GLOBAL, no por arquetipo. Las ventanas de silueta y setting del perfil §7 estan alcanzadas por arquetipo y por eso no se dispararon nunca: con 8 arquetipos rotando, dos looks vecinos casi nunca comparten arquetipo. Esta se mide contra los 3 looks anteriores del roster completo. Obliga a rotar TAMBIEN dentro de la familia de piel (tres bodysuits en cuatro looks viola igual que tres vestidos).",
+        "cuota_cubierta": {
+          "cada": 4,
+          "minimo": 1
+        },
+        "_cuota_porque": "Anais es la mas cubierta de las tres por canon (vestido/falda). La cuota le queda holgada a proposito: no esta ahi para forzarla a cubrirse, sino para que la ventana de arquitectura tenga con que comparar.",
+        "desde_look": 76,
+        "_desde_look_porque": "Anais iba en 75 looks el 04/09/2026. Arranca en el proximo. No se retrofitea el roster L01-L75, igual que en las otras dos."
+      }
     }
   }
 }

@@ -1,4 +1,4 @@
-# 📋 REGLA 11 — CONTRATO DE `galeria_outfits.md`
+# 📋 REGLA 11 — CONTRATO DE LAS GALERÍAS (Ele · Miss Doll · Anaïs)
 
 > **Para qué existe:** `00_Ele/galeria_outfits.md` lo leen **tres** actores distintos — la **app Android** de la Ama (genera las imágenes y las sube), el **bot paralelo** (mantiene READMEs/galerías) y el **agente** (diseña los looks). Cuando cada uno interpreta el archivo a su manera, el resultado no es un desacuerdo de estilo: son **carpetas duplicadas, contadores que mienten y cuota API quemada regenerando imágenes que ya existían**.
 >
@@ -219,6 +219,55 @@ Tres cláusulas que **rompen en silencio** y que no estaban escritas hasta hoy:
 | **La pose se numera** en su encabezado (`### 1. Standing…` / `**1. Standing:**`) | El matcher de texto no alcanza `Sovereign Gaze` ni `Glacial Command`; sin el número, dos slots colapsan en uno y el `REPLACE` de la `PrimaryKey` borra el otro **en silencio** |
 
 **El orden de la metadata también es multi-personaje:** `Ubicacion` y `Tags` van **antes** del primer `###` del look, siempre. Sin eso la app no resuelve ni la carpeta ni la categoría.
+
+---
+
+## 9quinquies. 📐 PARIDAD ENTRE LAS TRES GALERÍAS — MEDIDA, NO DECLARADA (04/09/2026)
+
+> **Ama:** *"en algun momento te pedi que el outfit engine fuera modular y que las 3 muñecas funcionaran igual en el proceso de punta a cabo… realmente se cumplio?"*
+>
+> **No se cumplía, y el §9ter de arriba lo declara desde el 12/08/2026.** Ahí está la lección: **una regla escrita que nadie mide no rige.** El chequeo que decía `MODULARIDAD: LIMPIA` verificaba tres cosas del *código* (cero nombres de personaje en la lógica, campos propios declarados, sub-poses únicas) y **ninguna del proceso** — así que el número decía verde mientras el pipeline estaba torcido.
+
+### Lo que se midió el 04/09/2026 y estaba roto
+
+| Defecto | Medida | Estado |
+|---|---|---|
+| Looks **después** del bloque centinela (o sea invisibles para LV-App) | Ele **16** · Miss Doll 0 · Anaïs **45** | ✅ los tres en 0 |
+| Encabezado de pose **sin número** (§9ter: colapsa dos slots y el `REPLACE` borra uno en silencio) | Ele **630 poses** en 90 looks (L711+) · Miss Doll 0 · Anaïs 0 | ✅ los tres en 0 |
+| Looks legibles por el chequeo 12 (rotación de arquitectura de prenda) | Ele **0/618** · Miss Doll 59/75 · Anaïs **5/75** | ✅ 528/618 · 75/75 · 75/75 |
+| `rotacion_prenda` cableada en `anclas_universales.json` | **solo miss_doll** | ✅ las tres |
+| Scripts de batch escritos a mano vivos | 1 (`gen_lenceria_anais_61_65.py`) | ✅ 0 |
+| Copias literales del BLOQUE A que divergen | 2 preexistentes + 35 en la galería de Miss Doll | ✅ `outfit.py adn` LIMPIO |
+| `auditar_galeria.py` | ruta absoluta rota, script muerto | ✅ corre |
+
+### Lo que DEBE ser idéntico en las tres
+
+1. **El bloque centinela es el último bloque del archivo.** Ningún look después. Se mide contando encabezados de look posteriores a él — meta **0**.
+2. **Todo encabezado de pose lleva su número** (`### N. Nombre` o `**N. Nombre:**` — las dos formas son válidas, ver §9ter).
+3. **El outfit se declara en un campo legible por máquina**, fuera de los prompts. Sin él el chequeo 12 no puede clasificar el look y la ventana anti-repetición de silueta no se dispara.
+4. **`rotacion_prenda` existe para el personaje** en `anclas_universales.json`, con su `desde_look` propio (retrofit-al-tocar: nunca juzga retroactivamente lo ya materializado).
+5. **Cero copias literales del BLOQUE A.** Se apunta al perfil; no se copia. Verificable con `outfit.py adn`.
+6. **Un batch es un JSON en `batches/`.** Cero scripts `gen_*.py`.
+
+### Lo que PUEDE diferir, y por qué (medido, no asumido)
+
+| Diferencia | Personaje | Razón real |
+|---|---|---|
+| **Forma del campo de outfit:** bloque `**BLOQUE B …:**` + fence ```` ```text ```` vs. campo de una línea `- **Outfit (BLOQUE B):** \`…\`` | fence en Miss Doll y Anaïs · **una línea en Ele** | **No es desprolijidad: es una restricción del parser.** Medido el 04/09: al insertarle a Ele el bloque con fence, LV-App pasó a ingerir **8 prompts donde hay 7** y el slot `Standing` recibió dos → `PrimaryKey REPLACE`, una toma perdida en silencio. Su galería usa fences desnudos para los prompts y no tolera uno más. Los 27 looks de Ele que ya usaban el campo de una línea tenían razón. |
+| Nombre del campo de outfit (`Outfit`, `Outfit canónico (7 campos)`, `Outfit (BLOQUE B)`) | Ele, por era | Histórico. El lector acepta cualquier sufijo tras `Outfit`; no se migran 618 looks materializados. |
+| Emoji del encabezado, nombre del slot 5, prefijo de archivo y de carpeta | los tres | Ya vivían en el perfil §10 y en `anclas_universales.json`. Es variación **declarada**, no deriva. |
+
+### Deuda que queda declarada, no tapada
+
+**90 looks de Ele (L711–L800) no declaran outfit en ningún campo** — su ropa vive solo dentro de los prompts, de donde no se puede clasificar sin que el clasificador se lea a sí mismo (las anclas nombran `bikini`, `dress` y `skirt`). Están **materializados 7/7** y por debajo de su `desde_look` (818), así que la ventana no los necesita: la del próximo look de Ele mira L815–L817, que sí se leen. **Lo que cambió es que ahora se cuentan a la vista** — el resumen del chequeo 12 imprime `leidos N/M` y marca `⚠ N SIN LEER`. Antes imprimía solo `N`, así que un **0 de 618** se leía igual que un "no aplica" y pasó meses sin que nadie lo notara.
+
+**Verificable, y es la prueba de esta sección:**
+
+```bash
+python 99_Sistema/scripts/visual/outfit.py lint ele        # y miss_doll, y anais
+python 99_Sistema/scripts/visual/outfit.py adn             # meta: LIMPIO
+python 99_Sistema/scripts/visual/outfit.py modularidad
+```
 
 ---
 

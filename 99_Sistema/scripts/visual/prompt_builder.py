@@ -824,6 +824,21 @@ def _cli():
             # copia el ADN envejece igual que un .py, y nadie lo estaba mirando.
             firma = adn[:70]
             duenio = os.path.normpath(os.path.join(raiz, pb.perfil["perfil_visual"]))
+            # Se mide el INDICE DE GIT, no el disco (Ama 04/09/2026). `os.walk` veia
+            # tambien las salidas regenerables y gitignoradas: `00_Ele/galeria_audit_report.md`
+            # aparecio como "copia desactualizada del ADN" siendo un output de
+            # auditar_galeria.py que se rehace en cada corrida y que el .gitignore ya
+            # excluye (linea 48). Es el mismo error que este repo ya pago dos veces
+            # — el H7 del lint de higiene reportando 3.594 links rotos por leer el
+            # disco de un clon sparse, y la auditoria de PNG del mismo origen.
+            try:
+                import subprocess as _sp
+                _tracked = set(
+                    os.path.normpath(os.path.join(raiz, p))
+                    for p in _sp.check_output(["git", "ls-files", "*.md"], cwd=raiz,
+                                              text=True, encoding="utf-8").splitlines() if p)
+            except Exception:
+                _tracked = None   # sin git disponible se cae al comportamiento anterior
             for base in (".agent", ".claude", "02_Personajes", "00_Ele", "99_Sistema"):
                 for dirpath, _dn, files in os.walk(os.path.join(raiz, base)):
                     for fn in files:
@@ -831,6 +846,17 @@ def _cli():
                             continue
                         ruta_md = os.path.join(dirpath, fn)
                         if os.path.normpath(ruta_md) == duenio:
+                            continue
+                        if _tracked is not None and os.path.normpath(ruta_md) not in _tracked:
+                            continue   # no trackeado = salida regenerable, no es una copia del ADN
+                        # La galeria del propio personaje YA tiene su chequeo dedicado
+                        # arriba ("N prompts abren con este ADN") y ademas jamas puede
+                        # contener el ADN literal: cada look le aplica sus `adn_overrides`
+                        # de maquillaje (§5.5.8), asi que el string exacto no existe ahi.
+                        # Auditarla dos veces con criterios incompatibles daba un rojo
+                        # permanente e inarreglable — Ama 04/09/2026.
+                        if os.path.normpath(ruta_md) == os.path.normpath(
+                                os.path.join(raiz, pb.perfil["galeria"])):
                             continue
                         try:
                             texto = open(ruta_md, encoding="utf-8").read()
