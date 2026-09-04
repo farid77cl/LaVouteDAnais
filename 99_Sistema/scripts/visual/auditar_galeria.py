@@ -15,7 +15,11 @@ import re, subprocess, sys, os
 from pathlib import Path
 from collections import defaultdict
 
-REPO_ROOT  = Path(r"c:\Users\farid\LaVouteDAnais")
+# Ruta absoluta hardcodeada hasta el 04/09/2026: apuntaba a c:\Users\farid\LaVouteDAnais
+# (sin el segmento "Git"), asi que el script moria con FileNotFoundError en esta maquina
+# pese a estar listado en CLAUDE.md como parte de la suite de auditorias. Ahora se resuelve
+# desde la ubicacion del propio archivo, igual que outfit.py (AQUI/RAIZ).
+REPO_ROOT  = Path(__file__).resolve().parents[3]
 GALERIA    = REPO_ROOT / "00_Ele" / "galeria_outfits.md"
 REPORT_OUT = REPO_ROOT / "00_Ele" / "galeria_audit_report.md"
 REMOTE_BASE = "https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/"

@@ -1935,22 +1935,6 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 **Negative Prompt:** `(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie, sexy, hot, horny, naked, nude, seductive, provocative, tempting, naughty, open mouth, tongue, explicit nude, (distorted animal print, neon leopard:1.2), cheap fabric texture, tattoos, visible piercings, young woman, wide smile, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text`
 
 ---
-## Cierre de galeria — bloque centinela (18/08/2026)
-
-Este bloque no es un outfit y el parser de LV-App no lo cuenta como tal: su
-encabezado no contiene la palabra clave seguida de un numero, que es lo unico
-que la app busca para abrir una ficha nueva.
-
-Existe porque la Ama reporto ver **24 outfits de Anais cuando el archivo tiene
-25**, y medido repo-side el 25 esta completo y correcto: encabezado sano (sin
-caracteres invisibles), `Ubicacion`, `Tags`, sus 7 prompts expandidos y su
-`Negative Prompt` legible, con numeracion sin duplicados ni huecos. La unica
-diferencia estructural que lo separaba del resto era ser **el ultimo bloque del
-archivo** — sin nada despues que cerrara su ficha.
-
-Este centinela le da ese cierre. Se mantiene SIEMPRE al final: cuando entre un
-look nuevo, va antes de este bloque, nunca despues.
-
 ## 👑 Look 31: Cobalto y Chinchilla (19/08/2026 · batch L31-L35 "Ampliacion Flota IV" · Noche / La Voûte)
 - **Ubicacion:** `05_Imagenes/anais/look31_cobalto_y_chinchilla/`
 - **Tags:** #noche #cobalto #chinchilla #wiggledress #anais #batchL31-L35 #V7poses
@@ -4659,3 +4643,21 @@ a fitted gunmetal-grey high-shine clinical-grade latex sheath dress with a struc
 **Negative Prompt:** `(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, blue eyes, grey eyes, green eyes, pale washed-out iris, colourless iris, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie, sexy, hot, horny, naked, nude, provocative, naughty, tongue, explicit nude, closed mouth, pursed lips, smiling, grinning, (distorted animal print, neon leopard:1.2), cheap fabric texture, contemporary fashion, platform sole, bare midriff, neon colours, tattoos, piercings, broad smile, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text`
 
 ---
+
+---
+
+## Cierre de galeria — bloque centinela (18/08/2026)
+
+Este bloque no es un outfit y el parser de LV-App no lo cuenta como tal: su
+encabezado no contiene la palabra clave seguida de un numero, que es lo unico
+que la app busca para abrir una ficha nueva.
+
+Existe porque la Ama reporto ver **24 outfits de Anais cuando el archivo tiene
+25**, y medido repo-side el 25 esta completo y correcto: encabezado sano (sin
+caracteres invisibles), `Ubicacion`, `Tags`, sus 7 prompts expandidos y su
+`Negative Prompt` legible, con numeracion sin duplicados ni huecos. La unica
+diferencia estructural que lo separaba del resto era ser **el ultimo bloque del
+archivo** — sin nada despues que cerrara su ficha.
+
+Este centinela le da ese cierre. Se mantiene SIEMPRE al final: cuando entre un
+look nuevo, va antes de este bloque, nunca despues.
