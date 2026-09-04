@@ -606,6 +606,14 @@
 
 ---
 
+## 🌹 Look 79: Midnight Navy En La Sesion De Las Tres
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_079_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_standing.png) | ![anais_079_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_back_view.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 🌹 Look 80: Berenjena Latex Y Guantes De Opera
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |

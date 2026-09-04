@@ -4862,11 +4862,11 @@ an ivory silk and fine French lace longline bra, its sheer lace cups cut low int
 a midnight navy sheer silk-mesh slip dress falling to mid-calf, cut on the bias with a thin strap over each shoulder and a low straight neckline, the mesh transparent enough that the lingerie beneath reads clearly from every angle including from behind, a deep slit up the left side to mid-thigh; beneath it a midnight navy silk-satin bra with fine tonal lace cups underwired into a plunge, and a matching midnight navy silk thong with a narrow tapered front panel and a single slim strap at the back; sheer navy-tinted hold-up stockings, 15 denier, with a fine seam up the back of each leg; long midnight navy silk opera gloves to above the elbow; a slim antique-gold chain at the throat with a single navy sapphire drop, and antique-gold drop earrings; nails: long almond-shaped fingernails lacquered in glossy near-black aubergine; closed pointed-toe court shoes in midnight navy patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (2/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_standing.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
