@@ -16,7 +16,7 @@
 |---------|-----------|---------------------|
 | [identidad_ele.md](identidad_ele.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
 | [../.agent/skills/outfit-engine/SKILL.md](../.agent/skills/outfit-engine/SKILL.md) | **Motor de looks vigente** — genérico, multi-personaje. Su CLI es `99_Sistema/scripts/visual/outfit.py`; el ADN de cada muñeca vive en su perfil (`02_Personajes/_perfiles_visuales/`). ⚠️ `ele-outfit-engine` quedó **deprecado** (hoy es su biblioteca de sub-arquetipos, no un motor) | Generar imágenes de Ele |
-| [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
+| [canon_maquillaje.md](canon_maquillaje.md) | ⛔ **DEROGADO 04/09/2026 — es un puntero.** Mandaba lo contrario de lo vigente en 3 de sus 4 puntos | El maquillaje vive en `02_Personajes/_perfiles_visuales/<slug>.md` §2 (fijo), §3 (vetos) y §5.2c (colorimetría) |
 | [galeria_outfits.md](galeria_outfits.md) | **Galería viva de Ele** (desde el Look 200; los anteriores en [`galeria_outfits_archivo.md`](galeria_outfits_archivo.md)). 🔢 **El número de flota NO se copia aquí** — decía «220 looks» y llevaba meses divergido. Dueño único: [`memoria_sesiones.md`](memoria_sesiones.md) → `## ESTADO ACTUAL` | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
 | [Estudio_Domme_Complementos_y_RRSS.md](Estudio_Domme_Complementos_y_RRSS.md) | **Estrategia RRSS y Complementos** | Gestión de imagen pública y activos |

@@ -12,6 +12,8 @@
 
 > *"otra nota, marcela esta muy fria, arriba luego de la escalera mas sensual mas feme fatale, como si fuera anais de domiante"*
 
+> *"cuando le da el liquido a felipe, debe ser cuando esten follando ahi ella le dice que es un liquido maravilloso, que hara que todo sea mejor, el tipo esta caliente, con la verga dentro del coño de cupcake a punto de correrse y se toma el liquido y se corre junto con cupcake"*
+
 ---
 
 ## 1. Cortar L133-L141
@@ -64,6 +66,26 @@ Sacar el bloque del espejo **deja dos huecos que hay que coser**, no solo borrar
 ⚠️ **No confundir fría con distante.** Hoy está fría porque no desea nada visible; la corrección **no** es darle calidez, es **darle deseo con control encima**. Si sale simpática, se pasó de largo por el otro lado.
 
 📌 Referencia interna: el principio rector de pose de Miss Doll (*"dispensa sensualidad como poder, no como oferta"*) y el registro de Anaïs en `02_Personajes/_perfiles_visuales/anais.md` §2 — sirven de calibración de **actitud**, no de voz.
+
+## 5. El líquido a Felipe se toma FOLLANDO, no antes ni después
+
+**Reubicación de escena, no un ajuste de línea.** Hoy la entrega del líquido ocurre fuera del acto; la Ama la mueve **al centro del polvo**.
+
+**La coreografía que ella fija, en su orden:**
+
+1. Felipe está **dentro de Cupcake**, follando, y está **caliente y a punto de correrse**.
+2. Es ahí — y no antes — cuando ella le ofrece el líquido: *"un líquido maravilloso, que hará que todo sea mejor"*.
+3. Él **se lo toma sin salir**, en ese estado.
+4. **Se corre junto con Cupcake.** El líquido y el orgasmo son el mismo instante.
+
+**Por qué esto es mejor y qué hay que cuidar al escribirlo:**
+
+- **El consentimiento se lo saca la calentura, no un engaño frío.** Con la verga adentro y a un segundo de correrse, un tipo dice que sí a cualquier cosa. Eso es exactamente el mecanismo del relato — la entrega es *suya*, tomada en el peor momento para pensar — y es mucho más caliente que dárselo con la ropa puesta.
+- **La promesa va en boca de ella, en presente y sin explicar.** *"que hará que todo sea mejor"* es una frase corta dicha encima de él. Nada de párrafo explicativo: si el texto aclara qué es el líquido, mata la escena.
+- **El clímax es simultáneo y es el ancla.** Los dos se corren en el mismo latido, y el líquido entra justo ahí. Ese es el beat que el capítulo tiene que sostener.
+- **Se escribe explícito.** Es la escena de temperatura del tramo: verga, coño, correrse — con las palabras, no con eufemismos.
+
+⚠️ **Continuidad al mover la escena:** verificar contra `cronologia.md` que el líquido no esté ya **plantado ni referido** en su ubicación anterior. Si algún beat posterior lo da por entregado antes, hay callback sin ancla y eso es FALLO de la puerta de Continuidad. Y actualizar `cronologia.md` en el mismo movimiento.
 
 ---
 
