@@ -20,8 +20,12 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-GALERIA_PATH = Path(r"c:\Users\farid\LaVouteDAnais\00_Ele\galeria_outfits.md")
-INDEX_PATH   = Path(r"c:\Users\farid\LaVouteDAnais\00_Ele\galeria_index.md")
+# Ruta absoluta hardcodeada hasta el 04/09/2026: apuntaba a c:\Users\farid\LaVouteDAnais
+# (sin el segmento "Git"), asi que el script moria con FileNotFoundError en esta maquina.
+# Ahora se resuelve desde la ubicacion del propio archivo, igual que auditar_galeria.py.
+REPO_ROOT    = Path(__file__).resolve().parents[3]
+GALERIA_PATH = REPO_ROOT / "00_Ele" / "galeria_outfits.md"
+INDEX_PATH   = REPO_ROOT / "00_Ele" / "galeria_index.md"
 
 # ── Metadata del TÍTULO (contrato §4) ───────────────────────────────────────
 # El contrato manda la metadata en el heading, no en campos:

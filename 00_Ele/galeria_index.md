@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente desde la galería — **618 looks registrados**  
+> Generado automáticamente desde la galería — **623 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -118,43 +118,43 @@
 | **306** | Electric Cyan Cabana Club Night | 28/05/2026 | Nightclub | — | crystal | 7/7 | — |
 | **307** | Toxic Yellow Sports Bikini Crossfit | 28/05/2026 | Gym | — | latex, chrome | 7/7 | — |
 | **308** | Hot Magenta Chain Bikini Studio | 28/05/2026 | Bikini | — | mesh, chrome, wetlook | 7/7 | — |
-| **309** | Mirror Silver Yacht Liquid Goddess | 28/05/2026 | Escort | — | leather, chrome, crystal, lame | 5/7 | ⏳ Pendiente |
-| **310** | Champagne Gold Poolside Hostess | 28/05/2026 | Domestic | — | satin, wetlook | 4/7 | ⏳ Pendiente |
-| **311** | Blush Powder Barre Discipline | 30/05/2026 | Gym | — | satin | 1/7 | ⏳ Pendiente |
+| **309** | Mirror Silver Yacht Liquid Goddess | 28/05/2026 | Escort | — | leather, chrome, crystal, lame | 7/7 | — |
+| **310** | Champagne Gold Poolside Hostess | 28/05/2026 | Domestic | — | satin, wetlook | 7/7 | — |
+| **311** | Blush Powder Barre Discipline | 30/05/2026 | Gym | — | satin | 7/7 | — |
 | **312** | Ivory Cream Performance Bodysuit | 30/05/2026 | Lencería | — | mesh, satin, crystal | 7/7 | ⏳ Pendiente |
 | **313** | Polished Gold Bolshoi Gala | 30/05/2026 | Alfombra Roja / Gala | — | satin, crystal, wetlook | 7/7 | ⏳ Pendiente |
 | **314** | Powder Lilac Degas Pinup | 30/05/2026 | Pin-Up | — | satin | 7/7 | ⏳ Pendiente |
-| **315** | Peach Satin Studio Rehearsal | 30/05/2026 | Gym | — | satin | 6/7 | ⏳ Pendiente |
-| **316** | Satin Silver After-Show Diva | 30/05/2026 | Nightclub | — | satin, crystal | 6/7 | ⏳ Pendiente |
-| **317** | Antique Rose Tutu Boudoir | 30/05/2026 | Lencería | — | satin, crystal | 1/7 | ⏳ Pendiente |
-| **318** | Pearl Grey Cooldown Stretch | 30/05/2026 | Gym | — | mesh, satin | 1/7 | ⏳ Pendiente |
-| **319** | Sage Powder Avant-Garde Gala | 30/05/2026 | Alfombra Roja / Gala | — | satin, wetlook | 1/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal | 30/05/2026 | Gym | — | satin | 7/7 | ⏳ Pendiente |
+| **316** | Satin Silver After-Show Diva | 30/05/2026 | Nightclub | — | satin, crystal | 7/7 | — |
+| **317** | Antique Rose Tutu Boudoir | 30/05/2026 | Lencería | — | satin, crystal | 7/7 | ⏳ Pendiente |
+| **318** | Pearl Grey Cooldown Stretch | 30/05/2026 | Gym | — | mesh, satin | 7/7 | ⏳ Pendiente |
+| **319** | Sage Powder Avant-Garde Gala | 30/05/2026 | Alfombra Roja / Gala | — | satin, wetlook | 7/7 | ⏳ Pendiente |
 | **320** | Dark Burgundy Private Boudoir | 30/05/2026 | Domestic | — | satin | 7/7 | ⏳ Pendiente |
-| **321** | Emerald Mugler Power Domme | 31/05/2026 | Corporate | — | vinyl, chrome, latex | 1/7 | ⏳ Pendiente |
-| **322** | Crystal Nude Illusion Dita Couture | 31/05/2026 | Stripper | — | pvc, mesh, chrome, crystal, rhinest… | 6/7 | ⏳ Pendiente |
-| **323** | Oxblood Secretary Bondage | 31/05/2026 | Corporate | — | chrome, vinyl | 0/7 | ⏳ Pendiente |
-| **324** | Chrome White Versace SM | 31/05/2026 | Corporate | — | vinyl, latex, chrome | 0/7 | ⏳ Pendiente |
-| **325** | Deep Plum Newton Hotel | 31/05/2026 | Escort | — | latex, chrome, pvc | 0/7 | ⏳ Pendiente |
-| **326** | Terracotta Severance Repression | 31/05/2026 | Corporate | — | mesh, chrome, vinyl | 1/7 | ⏳ Pendiente |
-| **327** | UV Cyan Bad Kitty Spider Back | 31/05/2026 | Stripper | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
-| **328** | Royal Purple Trench Domme | 31/05/2026 | Corporate | — | latex, chrome, vinyl | 0/7 | ⏳ Pendiente |
-| **329** | Oil Slick Oh Polly After Hours | 31/05/2026 | Nightclub | — | vinyl, chrome, crystal, iridescent | 0/7 | ⏳ Pendiente |
-| **330** | Neon Tangerine Julia Fox Y2K | 31/05/2026 | Escort | — | vinyl, chrome, pvc | 0/7 | ⏳ Pendiente |
-| **331** | Sapphire Atsuko Kudo Laser Cut | 31/05/2026 | Lencería | — | latex, vinyl, chrome | 0/7 | ⏳ Pendiente |
-| **332** | Blood Red Bordelle Cage Bra | 31/05/2026 | Lencería | — | chrome, vinyl | 0/7 | ⏳ Pendiente |
-| **333** | Champagne La Perla Longline Set | 31/05/2026 | Lencería | — | vinyl, satin, chrome, crystal, wetl… | 0/7 | ⏳ Pendiente |
-| **334** | Midnight Black MARIEMUR Bondage Harness | 31/05/2026 | Lencería | — | vinyl, chrome | 0/7 | ⏳ Pendiente |
-| **335** | Pearl White Teddy Vinyl Lace | 31/05/2026 | Lencería | — | vinyl, chrome | 0/7 | ⏳ Pendiente |
+| **321** | Emerald Mugler Power Domme | 31/05/2026 | Corporate | — | vinyl, chrome, latex | 7/7 | — |
+| **322** | Crystal Nude Illusion Dita Couture | 31/05/2026 | Stripper | — | pvc, mesh, chrome, crystal, rhinest… | 7/7 | — |
+| **323** | Oxblood Secretary Bondage | 31/05/2026 | Corporate | — | chrome, vinyl | 7/7 | — |
+| **324** | Chrome White Versace SM | 31/05/2026 | Corporate | — | vinyl, latex, chrome | 7/7 | — |
+| **325** | Deep Plum Newton Hotel | 31/05/2026 | Escort | — | latex, chrome, pvc | 7/7 | — |
+| **326** | Terracotta Severance Repression | 31/05/2026 | Corporate | — | mesh, chrome, vinyl | 7/7 | — |
+| **327** | UV Cyan Bad Kitty Spider Back | 31/05/2026 | Stripper | — | vinyl, chrome | 7/7 | — |
+| **328** | Royal Purple Trench Domme | 31/05/2026 | Corporate | — | latex, chrome, vinyl | 7/7 | — |
+| **329** | Oil Slick Oh Polly After Hours | 31/05/2026 | Nightclub | — | vinyl, chrome, crystal, iridescent | 7/7 | — |
+| **330** | Neon Tangerine Julia Fox Y2K | 31/05/2026 | Escort | — | vinyl, chrome, pvc | 7/7 | — |
+| **331** | Sapphire Atsuko Kudo Laser Cut | 31/05/2026 | Lencería | — | latex, vinyl, chrome | 7/7 | — |
+| **332** | Blood Red Bordelle Cage Bra | 31/05/2026 | Lencería | — | chrome, vinyl | 7/7 | — |
+| **333** | Champagne La Perla Longline Set | 31/05/2026 | Lencería | — | vinyl, satin, chrome, crystal, wetl… | 7/7 | — |
+| **334** | Midnight Black MARIEMUR Bondage Harness | 31/05/2026 | Lencería | — | vinyl, chrome | 7/7 | — |
+| **335** | Pearl White Teddy Vinyl Lace | 31/05/2026 | Lencería | — | vinyl, chrome | 7/7 | — |
 | **336** | Deep Jade Crystal Micro Set | 31/05/2026 | Lencería | — | vinyl, chrome, crystal | 0/7 | ⏳ Pendiente |
-| **337** | Rose Gold Corselette La Perla | 31/05/2026 | Lencería | — | vinyl, satin, chrome, wetlook | 0/7 | ⏳ Pendiente |
+| **337** | Rose Gold Corselette La Perla | 31/05/2026 | Lencería | — | vinyl, satin, chrome, wetlook | 7/7 | — |
 | **338** | Cognac Bordelle Strappy Bodysuit | 31/05/2026 | Lencería | — | latex, vinyl, chrome | 0/7 | ⏳ Pendiente |
 | **339** | Dusty Mauve Belle de Jour Slip | 31/05/2026 | Escort | — | satin, chrome, wetlook | 7/7 | — |
 | **340** | Champagne Morning Robe Trophy Wife | 31/05/2026 | Domestic | — | vinyl, chrome, wetlook, satin | 1/7 | ⏳ Pendiente |
 | **341** | Neon Sakura Akihabara Maid | 31/05/2026 | Domestic | — | vinyl, chrome | 7/7 | — |
 | **342** | Electric Violet Kabukicho Street Viper | 31/05/2026 | Escort | — | vinyl, chrome, pvc | 0/7 | ⏳ Pendiente |
-| **343** | Chrome White Shinjuku Club Night | 31/05/2026 | Nightclub | — | vinyl, chrome | 0/7 | ⏳ Pendiente |
-| **344** | Hot Magenta OL Tokyo Office Siren | 31/05/2026 | Corporate | — | chrome, vinyl | 2/7 | ⏳ Pendiente |
-| **345** | Electric Mint Latex French Maid Tokyo | 31/05/2026 | Domestic | — | latex, vinyl, chrome | 1/7 | ⏳ Pendiente |
+| **343** | Chrome White Shinjuku Club Night | 31/05/2026 | Nightclub | — | vinyl, chrome | 7/7 | — |
+| **344** | Hot Magenta OL Tokyo Office Siren | 31/05/2026 | Corporate | — | chrome, vinyl | 7/7 | — |
+| **345** | Electric Mint Latex French Maid Tokyo | 31/05/2026 | Domestic | — | latex, vinyl, chrome | 7/7 | — |
 | **346** | Midnight Blue Roppongi After-Party | 31/05/2026 | Nightclub | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper | 31/05/2026 | Escort | — | vinyl, chrome, pvc | 0/7 | ⏳ Pendiente |
 | **348** | Acid Lime Tokyo Gym Editorial | 31/05/2026 | Gym | — | latex, vinyl, chrome, wetlook | 1/7 | ⏳ Pendiente |
@@ -181,37 +181,37 @@
 | **369** | Carbon Fiber Couture | 01/06/2026 | High-Fashion Editorial | — | chrome | 1/7 | ⏳ Pendiente |
 | **370** | Violet Team Principal | 01/06/2026 | Corporate | — | latex, chrome | 1/7 | ⏳ Pendiente |
 | **371** | White Fur Snow Bunny | 01/06/2026 | Domestic | — | latex, vinyl, chrome | 7/7 | — |
-| **372** | Champagne Fireside Boudoir | 01/06/2026 | Lencería | — | satin, wetlook | 5/7 | ⏳ Pendiente |
-| **373** | Silver Slope Siren | 01/06/2026 | Gym | — | chrome, wetlook | 6/7 | ⏳ Pendiente |
-| **374** | Snow Queen Crystal Gala | 01/06/2026 | Alfombra Roja / Gala | — | latex, crystal, iridescent | 1/7 | ⏳ Pendiente |
-| **375** | Lilac Ice Skater | 01/06/2026 | Pin-Up | — | latex, chrome, crystal | 1/7 | ⏳ Pendiente |
-| **376** | Glühwein Red Après | 01/06/2026 | Nightclub | — | latex, chrome | 1/7 | ⏳ Pendiente |
-| **377** | Pearl Steam Spa | 01/06/2026 | Lencería | — | latex | 1/7 | ⏳ Pendiente |
-| **378** | Pine Green Heli Ski | 01/06/2026 | High-Fashion Editorial | — | latex, chrome | 1/7 | ⏳ Pendiente |
-| **379** | Sapphire Ice Escort | 01/06/2026 | Escort | — | crystal, lame | 1/7 | ⏳ Pendiente |
-| **380** | Cream Cashmere Hostess | 01/06/2026 | Domestic | — | latex | 1/7 | ⏳ Pendiente |
-| **381** | Hot Magenta Leopard Power Domme | 02/06/2026 | Corporate | — | latex, chrome | 1/7 | ⏳ Pendiente |
-| **382** | Emerald Python Madame Claude | 02/06/2026 | Escort | — | latex, chrome, crystal | 1/7 | ⏳ Pendiente |
-| **383** | Mirror Silver Zebra Couture | 02/06/2026 | High-Fashion Editorial | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
-| **384** | Tangerine Cheetah Studio Micro | 02/06/2026 | Bikini | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
-| **385** | Cobalt Tiger Nightclub Sequin | 02/06/2026 | Nightclub | — | chrome, crystal | 1/7 | ⏳ Pendiente |
+| **372** | Champagne Fireside Boudoir | 01/06/2026 | Lencería | — | satin, wetlook | 7/7 | — |
+| **373** | Silver Slope Siren | 01/06/2026 | Gym | — | chrome, wetlook | 7/7 | — |
+| **374** | Snow Queen Crystal Gala | 01/06/2026 | Alfombra Roja / Gala | — | latex, crystal, iridescent | 7/7 | — |
+| **375** | Lilac Ice Skater | 01/06/2026 | Pin-Up | — | latex, chrome, crystal | 7/7 | — |
+| **376** | Glühwein Red Après | 01/06/2026 | Nightclub | — | latex, chrome | 7/7 | — |
+| **377** | Pearl Steam Spa | 01/06/2026 | Lencería | — | latex | 7/7 | — |
+| **378** | Pine Green Heli Ski | 01/06/2026 | High-Fashion Editorial | — | latex, chrome | 7/7 | — |
+| **379** | Sapphire Ice Escort | 01/06/2026 | Escort | — | crystal, lame | 7/7 | — |
+| **380** | Cream Cashmere Hostess | 01/06/2026 | Domestic | — | latex | 7/7 | — |
+| **381** | Hot Magenta Leopard Power Domme | 02/06/2026 | Corporate | — | latex, chrome | 7/7 | — |
+| **382** | Emerald Python Madame Claude | 02/06/2026 | Escort | — | latex, chrome, crystal | 7/7 | — |
+| **383** | Mirror Silver Zebra Couture | 02/06/2026 | High-Fashion Editorial | — | vinyl, chrome | 7/7 | — |
+| **384** | Tangerine Cheetah Studio Micro | 02/06/2026 | Bikini | — | chrome, wetlook | 7/7 | — |
+| **385** | Cobalt Tiger Nightclub Sequin | 02/06/2026 | Nightclub | — | chrome, crystal | 7/7 | — |
 | **386** | Champagne Gold Giraffe Trophy | 02/06/2026 | Domestic | — | vinyl | 7/7 | — |
 | **387** | Oxblood Croco Office Siren | 02/06/2026 | Corporate | — | leather, mesh, crystal | 7/7 | — |
 | **388** | Iridescent Pearl Snow Leopard Boudoir | 02/06/2026 | Lencería | — | — | 7/7 | — |
 | **389** | Bubblegum Cow Print Bombshell | 02/06/2026 | Pin-Up | — | pvc, vinyl, satin, chrome | 1/7 | ⏳ Pendiente |
 | **390** | Toxic Chartreuse Dalmatian Gym | 02/06/2026 | Gym | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
 | **391** | Deep Teal Jaguar Pole Specialist | 02/06/2026 | Stripper | — | chrome | 7/7 | — |
-| **392** | Bronze Tortoiseshell Beach Trikini | 02/06/2026 | Bikini | — | wetlook | 2/7 | ⏳ Pendiente |
+| **392** | Bronze Tortoiseshell Beach Trikini | 02/06/2026 | Bikini | — | wetlook | 7/7 | — |
 | **393** | Electric Cyan Lizard Sculptural Catsuit | 02/06/2026 | High-Fashion Editorial | — | latex, chrome | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella | 02/06/2026 | Pin-Up | — | chrome | 1/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness | 02/06/2026 | Lencería | — | latex | 3/7 | ⏳ Pendiente |
-| **396** | Mercury Silver Anaconda Athleisure | 02/06/2026 | Gym | — | wetlook | 1/7 | ⏳ Pendiente |
-| **397** | Peacock Teal Feather Nightclub | 02/06/2026 | Nightclub | — | mesh, crystal | 1/7 | ⏳ Pendiente |
-| **398** | Oil-Slick Iridescent Viper Stage | 02/06/2026 | Stripper | — | mesh, chrome, crystal | 1/7 | ⏳ Pendiente |
+| **395** | Violet Ocelot Fetish Harness | 02/06/2026 | Lencería | — | latex | 7/7 | — |
+| **396** | Mercury Silver Anaconda Athleisure | 02/06/2026 | Gym | — | wetlook | 7/7 | — |
+| **397** | Peacock Teal Feather Nightclub | 02/06/2026 | Nightclub | — | mesh, crystal | 7/7 | — |
+| **398** | Oil-Slick Iridescent Viper Stage | 02/06/2026 | Stripper | — | mesh, chrome, crystal | 7/7 | — |
 | **399** | Hot Pink Neon Leopard French Maid | 02/06/2026 | Domestic | — | latex | 7/7 | — |
 | **400** | Burnt Orange Fire Tiger Officer Domme | 02/06/2026 | Escort | — | latex, leather, chrome | 3/7 | ⏳ Pendiente |
 | **401** | Marlene Dietrich Tuxedo Domme | 03/06/2026 | Corporate | — | latex, mesh, satin, chrome, crystal… | 7/7 | — |
-| **402** | Film Noir Femme Fatale | 03/06/2026 | Corporate | — | vinyl, mesh, chrome, crystal | 6/7 | ⏳ Pendiente |
+| **402** | Film Noir Femme Fatale | 03/06/2026 | Corporate | — | vinyl, mesh, chrome, crystal | 7/7 | — |
 | **403** | Rita Hayworth Gilda Strapless | 03/06/2026 | Escort | — | latex, satin, chrome | 7/7 | — |
 | **404** | Silver Screen Diva Domme | 03/06/2026 | Escort | — | latex | 7/7 | — |
 | **405** | Champagne Premiere Goddess | 03/06/2026 | High-Fashion Editorial | — | lame | 5/7 | ⏳ Pendiente |
@@ -220,7 +220,7 @@
 | **408** | 1930s Screen Siren Noir Harness | 03/06/2026 | Lencería | — | vinyl, chrome | 7/7 | — |
 | **409** | Cocoanut Grove Emerald Sequin | 03/06/2026 | Nightclub | — | — | 7/7 | — |
 | **410** | Stork Club Liquid Gold | 03/06/2026 | Nightclub | — | chrome | 7/7 | — |
-| **411** | Marilyn Subway White Halter | 03/06/2026 | Pin-Up | — | wetlook | 6/7 | ⏳ Pendiente |
+| **411** | Marilyn Subway White Halter | 03/06/2026 | Pin-Up | — | wetlook | 7/7 | — |
 | **412** | Mae West Hourglass Diamonds | 03/06/2026 | Pin-Up | — | latex, satin | 7/7 | — |
 | **413** | Norma Desmond Sunset Gold | 03/06/2026 | Domestic | — | latex, lame | 7/7 | — |
 | **414** | Hollywood Hostess Cocktail | 03/06/2026 | Domestic | — | latex, vinyl, satin, wetlook | 7/7 | — |
@@ -231,8 +231,8 @@
 | **419** | Hollywood Athletic Club Figure | 03/06/2026 | Gym | — | latex, satin, chrome, wetlook | 7/7 | — |
 | **420** | Golden Age Glam Athleisure | 03/06/2026 | Gym | — | satin, wetlook | 7/7 | — |
 | **421** | Hot Pink Scrunch Leggings Gym | 03/06/2026 | Gym | — | chrome, wetlook | 7/7 | — |
-| **422** | Electric Cyan Hoodie Leggings Street | 03/06/2026 | Gym | — | wetlook | 2/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings | 03/06/2026 | Nightclub | — | chrome, wetlook | 5/7 | ⏳ Pendiente |
+| **422** | Electric Cyan Hoodie Leggings Street | 03/06/2026 | Gym | — | wetlook | 7/7 | — |
+| **423** | Liquid Silver Disco-Pant Leggings | 03/06/2026 | Nightclub | — | chrome, wetlook | 7/7 | — |
 | **424** | Tangerine Aerobics Leotard Leggings | 03/06/2026 | Pin-Up | — | satin, wetlook | 7/7 | — |
 | **425** | Rose Gold Yoga Room Trophy Leggings | 03/06/2026 | Domestic | — | latex, wetlook | 7/7 | — |
 | **426** | Violet Vinyl Y2K Street Leggings | 03/06/2026 | Escort | — | pvc, vinyl, chrome, wetlook | 7/7 | — |
@@ -241,38 +241,38 @@
 | **429** | Toxic Chartreuse Synth-Power Leggings | 03/06/2026 | Pin-Up | — | vinyl, wetlook | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym | 03/06/2026 | Gym | — | chrome, wetlook | 3/7 | ⏳ Pendiente |
 | **431** | Bettie Page Black Patent Bondage | 05/06/2026 | Pin-Up | — | chrome, cuero, leather | 6/7 | ⏳ Pendiente |
-| **432** | Black & White Leather Pretty Woman | 05/06/2026 | Escort | Contraste | chrome, cuero, leather | 6/7 | ⏳ Pendiente |
-| **433** | Black Leather Cage Stage Showgirl | 05/06/2026 | Stripper | — | chrome, cuero, leather | 4/7 | ⏳ Pendiente |
-| **434** | White Leather Spider-Back Pole | 05/06/2026 | Stripper | — | chrome, cuero, leather | 6/7 | ⏳ Pendiente |
+| **432** | Black & White Leather Pretty Woman | 05/06/2026 | Escort | Contraste | chrome, cuero, leather | 7/7 | — |
+| **433** | Black Leather Cage Stage Showgirl | 05/06/2026 | Stripper | — | chrome, cuero, leather | 7/7 | — |
+| **434** | White Leather Spider-Back Pole | 05/06/2026 | Stripper | — | chrome, cuero, leather | 7/7 | — |
 | **435** | Black & White Moto Athleisure | 05/06/2026 | Gym | Contraste | chrome, cuero, leather | 0/7 | ⏳ Pendiente |
-| **436** | White Leather Skort Performance | 05/06/2026 | Gym | — | chrome, cuero, leather | 1/7 | ⏳ Pendiente |
+| **436** | White Leather Skort Performance | 05/06/2026 | Gym | — | chrome, cuero, leather | 7/7 | — |
 | **437** | Black Leather Bandage Backless Nightclub | 05/06/2026 | Nightclub | — | chrome, cuero, leather | 7/7 | — |
 | **438** | Black Leather Bordelle Harness | 05/06/2026 | Lencería | — | chrome, cuero, leather | 7/7 | — |
 | **439** | Black & White Leather French Maid | 05/06/2026 | Domestic | Contraste | chrome, cuero, leather | 7/7 | — |
 | **440** | Black Sculptural Leather Corset Gown | 05/06/2026 | High-Fashion Editorial | — | chrome, cuero, leather | 7/7 | — |
-| **441** | Chrome Body-Chain Pole | 06/06/2026 | Stripper | — | vinyl, chrome, crystal | 1/7 | ⏳ Pendiente |
-| **442** | Diamond Glass Illusion | 06/06/2026 | Stripper | — | pvc, chrome, crystal | 3/7 | ⏳ Pendiente |
+| **441** | Chrome Body-Chain Pole | 06/06/2026 | Stripper | — | vinyl, chrome, crystal | 7/7 | — |
+| **442** | Diamond Glass Illusion | 06/06/2026 | Stripper | — | pvc, chrome, crystal | 7/7 | — |
 | **443** | Liquid Gold V-Front Pole | 06/06/2026 | Stripper | — | vinyl, chrome, crystal | 7/7 | — |
-| **444** | Emerald Gecko Grip Pole | 06/06/2026 | Stripper | — | chrome, crystal | 6/7 | ⏳ Pendiente |
+| **444** | Emerald Gecko Grip Pole | 06/06/2026 | Stripper | — | chrome, crystal | 7/7 | — |
 | **445** | Ruby Showgirl Plume | 06/06/2026 | Stripper | — | chrome, crystal | 7/7 | — |
 | **446** | Fluor Pink Cleo Pole | 06/06/2026 | Stripper | — | vinyl, leather, chrome, crystal | 7/7 | — |
 | **447** | Cobalt Magic City Pole | 06/06/2026 | Stripper | — | vinyl, chrome, crystal | 1/7 | ⏳ Pendiente |
-| **448** | Oil-Slick Cutout Stage | 06/06/2026 | Stripper | — | vinyl, chrome, iridescent | 1/7 | ⏳ Pendiente |
-| **449** | UV Cyan Grip Pole | 06/06/2026 | Stripper | — | chrome | 1/7 | ⏳ Pendiente |
+| **448** | Oil-Slick Cutout Stage | 06/06/2026 | Stripper | — | vinyl, chrome, iridescent | 7/7 | — |
+| **449** | UV Cyan Grip Pole | 06/06/2026 | Stripper | — | chrome | 7/7 | — |
 | **450** | Mercury Chrome Cage Pole | 06/06/2026 | Stripper | — | vinyl, chrome | 7/7 | — |
 | **451** | Lime Y2K Strip Stage | 06/06/2026 | Stripper | — | vinyl, chrome, crystal | 1/7 | ⏳ Pendiente |
-| **452** | UV Magenta Chains Pole | 06/06/2026 | Stripper | — | vinyl, chrome | 1/7 | ⏳ Pendiente |
+| **452** | UV Magenta Chains Pole | 06/06/2026 | Stripper | — | vinyl, chrome | 7/7 | — |
 | **453** | Coral Spider-Back Pole | 06/06/2026 | Stripper | — | vinyl, chrome, crystal | 1/7 | ⏳ Pendiente |
 | **454** | Violet Crazy Horse | 06/06/2026 | Stripper | — | mesh, chrome, crystal | 7/7 | — |
 | **455** | Crystal Fishnet Harness Pole | 06/06/2026 | Stripper | — | chrome, crystal | 7/7 | — |
 | **456** | Rose Gold Halter Pole | 06/06/2026 | Stripper | — | vinyl, mesh, chrome, crystal | 7/7 | — |
 | **457** | Teal Dita Couture | 06/06/2026 | Stripper | — | mesh, chrome, crystal | 7/7 | — |
 | **458** | Holo Diamond Chains Pole | 06/06/2026 | Stripper | — | vinyl, chrome, crystal, holographic | 7/7 | — |
-| **459** | Chrome Crucifix Cage Pole | 06/06/2026 | Stripper | — | vinyl, chrome | 5/7 | ⏳ Pendiente |
+| **459** | Chrome Crucifix Cage Pole | 06/06/2026 | Stripper | — | vinyl, chrome | 7/7 | — |
 | **460** | Blood Ruby Burlesque Finale | 06/06/2026 | Stripper | — | mesh, chrome, crystal | 7/7 | — |
 | **461** | Hooters Classic Orange | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
-| **462** | Hooters Black Dolphin Variant | 06/06/2026 | Domestic | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
-| **463** | Hooters Halter-Tie Orange | 06/06/2026 | Domestic | — | chrome, wetlook | 1/7 | ⏳ Pendiente |
+| **462** | Hooters Black Dolphin Variant | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
+| **463** | Hooters Halter-Tie Orange | 06/06/2026 | Domestic | — | chrome, wetlook | 2/7 | ⏳ Pendiente |
 | **464** | Hooters Camo Edition | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **465** | Hooters Tube Top + Suspenders | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
 | **466** | Hooters Beach Bikini | 06/06/2026 | Domestic | — | chrome, wetlook | 7/7 | — |
@@ -627,6 +627,11 @@
 | **815** | Mercury Wet-Look Performance | 29/08/2026 | Gym | — | — | 7/7 | — |
 | **816** | Bubblegum Vinyl Sweetheart | 29/08/2026 | Pin-Up | — | — | 7/7 | — |
 | **817** | Leopard Chrome Pole Predator | 29/08/2026 | Stripper | — | — | 7/7 | — |
+| **818** | Jade Liquid Catsuit | 04/09/2026 | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **819** | Emerald Mirror Pool Two-Piece | 04/09/2026 | Bikini | — | — | 0/7 | ⏳ Pendiente |
+| **820** | Deep Indigo Corsetry Boudoir | 04/09/2026 | Lencería | — | — | 0/7 | ⏳ Pendiente |
+| **821** | Electric Cyan Nightclub Skirt | 04/09/2026 | Nightclub | — | — | 0/7 | ⏳ Pendiente |
+| **822** | Violet Rose-Gold Escort Bodysuit | 04/09/2026 | Escort | — | — | 0/7 | ⏳ Pendiente |
 
 ---
 
@@ -635,8 +640,8 @@
 ### Alfombra Roja / Gala (18 looks)
 **261**, **262**, **263**, **264**, **271**, **272**, **286**, **291**, **295**, **300**, **313**, **319**, **350**, **364**, **374**, **670**, **671**, **681**
 
-### Bikini (51 looks)
-**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**, **609**, **619**, **623**, **629**, **631**, **635**, **647**, **660**, **664**, **679**, **689**, **708**, **717**, **727**, **739**, **749**, **758**, **769**, **779**, **789**, **799**, **802**
+### Bikini (52 looks)
+**257**, **267**, **268**, **275**, **276**, **299**, **301**, **302**, **304**, **308**, **365**, **384**, **392**, **417**, **418**, **479**, **496**, **509**, **512**, **518**, **533**, **543**, **544**, **557**, **577**, **585**, **589**, **594**, **599**, **609**, **619**, **623**, **629**, **631**, **635**, **647**, **660**, **664**, **679**, **689**, **708**, **717**, **727**, **739**, **749**, **758**, **769**, **779**, **789**, **799**, **802**, **819**
 
 ### Corporate (49 looks)
 **201**, **208**, **215**, **216**, **259**, **260**, **296**, **321**, **323**, **324**, **326**, **328**, **344**, **360**, **361**, **370**, **381**, **387**, **401**, **402**, **472**, **488**, **494**, **508**, **521**, **545**, **562**, **588**, **592**, **597**, **605**, **615**, **624**, **644**, **655**, **668**, **675**, **685**, **713**, **723**, **732**, **742**, **752**, **763**, **764**, **772**, **782**, **791**, **813**
@@ -644,20 +649,20 @@
 ### Domestic (51 looks)
 **207**, **217**, **218**, **234**, **235**, **250**, **251**, **280**, **288**, **310**, **320**, **340**, **341**, **345**, **371**, **380**, **386**, **399**, **413**, **414**, **425**, **439**, **461**, **462**, **463**, **464**, **465**, **466**, **467**, **468**, **469**, **470**, **505**, **514**, **526**, **539**, **568**, **575**, **590**, **649**, **663**, **707**, **718**, **728**, **734**, **744**, **754**, **768**, **774**, **784**, **797**
 
-### Escort (60 looks)
-**202**, **223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**, **432**, **477**, **487**, **492**, **504**, **511**, **524**, **532**, **549**, **551**, **567**, **574**, **581**, **593**, **628**, **636**, **641**, **650**, **657**, **662**, **673**, **683**, **696**, **697**, **702**, **715**, **725**, **733**, **743**, **753**, **767**, **773**, **783**, **793**, **814**
+### Escort (61 looks)
+**202**, **223**, **228**, **238**, **239**, **247**, **248**, **249**, **283**, **293**, **309**, **325**, **330**, **339**, **342**, **347**, **353**, **356**, **366**, **379**, **382**, **400**, **403**, **404**, **426**, **432**, **477**, **487**, **492**, **504**, **511**, **524**, **532**, **549**, **551**, **567**, **574**, **581**, **593**, **628**, **636**, **641**, **650**, **657**, **662**, **673**, **683**, **696**, **697**, **702**, **715**, **725**, **733**, **743**, **753**, **767**, **773**, **783**, **793**, **814**, **822**
 
 ### Gym (61 looks)
 **205**, **222**, **225**, **236**, **237**, **241**, **242**, **243**, **265**, **266**, **273**, **274**, **289**, **290**, **303**, **305**, **307**, **311**, **315**, **318**, **348**, **363**, **373**, **390**, **396**, **419**, **420**, **421**, **422**, **430**, **435**, **436**, **473**, **490**, **498**, **519**, **529**, **537**, **553**, **564**, **595**, **600**, **601**, **602**, **611**, **612**, **626**, **638**, **648**, **667**, **694**, **695**, **710**, **716**, **726**, **740**, **750**, **759**, **780**, **790**, **815**
 
-### High-Fashion Editorial (42 looks)
-**206**, **213**, **214**, **258**, **369**, **378**, **383**, **393**, **405**, **406**, **440**, **478**, **489**, **491**, **502**, **517**, **523**, **530**, **531**, **541**, **546**, **555**, **560**, **563**, **566**, **572**, **579**, **583**, **658**, **676**, **686**, **701**, **721**, **736**, **746**, **756**, **761**, **762**, **776**, **786**, **796**, **800**
+### High-Fashion Editorial (43 looks)
+**206**, **213**, **214**, **258**, **369**, **378**, **383**, **393**, **405**, **406**, **440**, **478**, **489**, **491**, **502**, **517**, **523**, **530**, **531**, **541**, **546**, **555**, **560**, **563**, **566**, **572**, **579**, **583**, **658**, **676**, **686**, **701**, **721**, **736**, **746**, **756**, **761**, **762**, **776**, **786**, **796**, **800**, **818**
 
-### Lencería (89 looks)
-**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**, **438**, **475**, **483**, **484**, **495**, **499**, **501**, **510**, **516**, **520**, **522**, **528**, **535**, **540**, **542**, **550**, **558**, **561**, **570**, **571**, **580**, **584**, **596**, **598**, **606**, **607**, **616**, **617**, **621**, **630**, **632**, **637**, **645**, **653**, **654**, **669**, **672**, **680**, **682**, **690**, **703**, **704**, **730**, **738**, **748**, **760**, **765**, **766**, **778**, **788**, **792**, **798**, **801**, **803**, **805**, **808**, **809**, **810**, **811**, **812**
+### Lencería (90 looks)
+**200**, **209**, **256**, **269**, **270**, **277**, **278**, **287**, **292**, **298**, **312**, **317**, **331**, **332**, **333**, **334**, **335**, **336**, **337**, **338**, **351**, **354**, **359**, **372**, **377**, **388**, **395**, **407**, **408**, **438**, **475**, **483**, **484**, **495**, **499**, **501**, **510**, **516**, **520**, **522**, **528**, **535**, **540**, **542**, **550**, **558**, **561**, **570**, **571**, **580**, **584**, **596**, **598**, **606**, **607**, **616**, **617**, **621**, **630**, **632**, **637**, **645**, **653**, **654**, **669**, **672**, **680**, **682**, **690**, **703**, **704**, **730**, **738**, **748**, **760**, **765**, **766**, **778**, **788**, **792**, **798**, **801**, **803**, **805**, **808**, **809**, **810**, **811**, **812**, **820**
 
-### Nightclub (58 looks)
-**211**, **212**, **230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**, **603**, **604**, **613**, **614**, **627**, **642**, **656**, **661**, **674**, **684**, **700**, **705**, **712**, **722**, **737**, **747**, **757**, **777**, **787**, **795**
+### Nightclub (59 looks)
+**211**, **212**, **230**, **244**, **245**, **246**, **279**, **284**, **294**, **306**, **316**, **329**, **343**, **346**, **357**, **368**, **376**, **385**, **397**, **409**, **410**, **423**, **427**, **437**, **474**, **485**, **486**, **493**, **506**, **513**, **527**, **536**, **548**, **556**, **565**, **576**, **582**, **591**, **603**, **604**, **613**, **614**, **627**, **642**, **656**, **661**, **674**, **684**, **700**, **705**, **712**, **722**, **737**, **747**, **757**, **777**, **787**, **795**, **821**
 
 ### Pin-Up (60 looks)
 **203**, **210**, **221**, **224**, **227**, **231**, **232**, **233**, **254**, **255**, **285**, **297**, **314**, **349**, **358**, **367**, **375**, **389**, **394**, **411**, **412**, **424**, **429**, **431**, **476**, **497**, **503**, **515**, **534**, **547**, **554**, **559**, **569**, **573**, **586**, **587**, **610**, **620**, **625**, **634**, **640**, **646**, **659**, **666**, **677**, **687**, **691**, **692**, **693**, **709**, **719**, **729**, **735**, **745**, **755**, **770**, **775**, **785**, **794**, **816**
@@ -681,17 +686,17 @@
 ### Magenta / Fucsia (21 looks)
 **211**, **219**, **240**, **245**, **279**, **308**, **344**, **368**, **381**, **452**, **608**, **633**, **684**, **694**, **698**, **717**, **724**, **781**, **784**, **790**, **807**
 
-### Violeta / Lila (19 looks)
-**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **547**, **600**, **626**, **649**, **674**, **725**, **785**, **788**, **790**, **795**
+### Violeta / Lila (20 looks)
+**203**, **314**, **328**, **342**, **370**, **375**, **395**, **426**, **454**, **547**, **600**, **626**, **649**, **674**, **725**, **785**, **788**, **790**, **795**, **822**
 
-### Azul / Cyan / Zafiro (36 looks)
-**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **533**, **593**, **602**, **631**, **635**, **636**, **678**, **683**, **687**, **718**, **722**, **723**, **796**
+### Azul / Cyan / Zafiro (38 looks)
+**202**, **221**, **225**, **228**, **233**, **255**, **262**, **270**, **278**, **294**, **306**, **327**, **331**, **346**, **379**, **385**, **393**, **422**, **428**, **447**, **449**, **492**, **506**, **533**, **593**, **602**, **631**, **635**, **636**, **678**, **683**, **687**, **718**, **722**, **723**, **796**, **820**, **821**
 
-### Verde / Esmeralda (36 looks)
-**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **595**, **622**, **638**, **645**, **673**, **682**, **716**, **727**, **761**, **763**, **764**, **765**, **766**, **768**, **793**, **804**
+### Verde / Esmeralda (38 looks)
+**204**, **236**, **242**, **244**, **247**, **274**, **293**, **303**, **321**, **336**, **348**, **358**, **366**, **378**, **382**, **409**, **430**, **444**, **451**, **491**, **595**, **622**, **638**, **645**, **673**, **682**, **716**, **727**, **761**, **763**, **764**, **765**, **766**, **768**, **793**, **804**, **818**, **819**
 
-### Dorado / Bronce (50 looks)
-**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **594**, **619**, **623**, **628**, **632**, **672**, **679**, **692**, **696**, **715**, **728**, **782**, **787**, **799**
+### Dorado / Bronce (51 looks)
+**205**, **207**, **209**, **223**, **232**, **239**, **251**, **257**, **259**, **261**, **271**, **280**, **292**, **299**, **310**, **313**, **333**, **337**, **340**, **349**, **359**, **364**, **372**, **386**, **392**, **405**, **410**, **413**, **417**, **418**, **420**, **425**, **443**, **456**, **497**, **505**, **594**, **619**, **623**, **628**, **632**, **672**, **679**, **692**, **696**, **715**, **728**, **782**, **787**, **799**, **822**
 
 ### Plateado / Plata (50 looks)
 **212**, **224**, **226**, **246**, **249**, **295**, **302**, **309**, **316**, **324**, **343**, **350**, **353**, **373**, **383**, **396**, **404**, **406**, **407**, **423**, **441**, **450**, **459**, **508**, **525**, **591**, **604**, **613**, **627**, **630**, **635**, **637**, **650**, **652**, **658**, **660**, **688**, **715**, **729**, **751**, **754**, **757**, **758**, **779**, **786**, **795**, **800**, **809**, **815**, **817**
@@ -722,41 +727,18 @@
 | **293** | Emerald Belle de Jour Slip | 7/7 | ⏳ Pendiente |
 | **295** | Mirror Silver Liquid Lamé Column | 7/7 | ⏳ Pendiente |
 | **297** | Oxblood Harlow Bombshell Halter | 7/7 | ⏳ Pendiente |
-| **309** | Mirror Silver Yacht Liquid Goddess | 5/7 | ⏳ Pendiente |
-| **310** | Champagne Gold Poolside Hostess | 4/7 | ⏳ Pendiente |
-| **311** | Blush Powder Barre Discipline | 1/7 | ⏳ Pendiente |
 | **312** | Ivory Cream Performance Bodysuit | 7/7 | ⏳ Pendiente |
 | **313** | Polished Gold Bolshoi Gala | 7/7 | ⏳ Pendiente |
 | **314** | Powder Lilac Degas Pinup | 7/7 | ⏳ Pendiente |
-| **315** | Peach Satin Studio Rehearsal | 6/7 | ⏳ Pendiente |
-| **316** | Satin Silver After-Show Diva | 6/7 | ⏳ Pendiente |
-| **317** | Antique Rose Tutu Boudoir | 1/7 | ⏳ Pendiente |
-| **318** | Pearl Grey Cooldown Stretch | 1/7 | ⏳ Pendiente |
-| **319** | Sage Powder Avant-Garde Gala | 1/7 | ⏳ Pendiente |
+| **315** | Peach Satin Studio Rehearsal | 7/7 | ⏳ Pendiente |
+| **317** | Antique Rose Tutu Boudoir | 7/7 | ⏳ Pendiente |
+| **318** | Pearl Grey Cooldown Stretch | 7/7 | ⏳ Pendiente |
+| **319** | Sage Powder Avant-Garde Gala | 7/7 | ⏳ Pendiente |
 | **320** | Dark Burgundy Private Boudoir | 7/7 | ⏳ Pendiente |
-| **321** | Emerald Mugler Power Domme | 1/7 | ⏳ Pendiente |
-| **322** | Crystal Nude Illusion Dita Couture | 6/7 | ⏳ Pendiente |
-| **323** | Oxblood Secretary Bondage | 0/7 | ⏳ Pendiente |
-| **324** | Chrome White Versace SM | 0/7 | ⏳ Pendiente |
-| **325** | Deep Plum Newton Hotel | 0/7 | ⏳ Pendiente |
-| **326** | Terracotta Severance Repression | 1/7 | ⏳ Pendiente |
-| **327** | UV Cyan Bad Kitty Spider Back | 1/7 | ⏳ Pendiente |
-| **328** | Royal Purple Trench Domme | 0/7 | ⏳ Pendiente |
-| **329** | Oil Slick Oh Polly After Hours | 0/7 | ⏳ Pendiente |
-| **330** | Neon Tangerine Julia Fox Y2K | 0/7 | ⏳ Pendiente |
-| **331** | Sapphire Atsuko Kudo Laser Cut | 0/7 | ⏳ Pendiente |
-| **332** | Blood Red Bordelle Cage Bra | 0/7 | ⏳ Pendiente |
-| **333** | Champagne La Perla Longline Set | 0/7 | ⏳ Pendiente |
-| **334** | Midnight Black MARIEMUR Bondage Harness | 0/7 | ⏳ Pendiente |
-| **335** | Pearl White Teddy Vinyl Lace | 0/7 | ⏳ Pendiente |
 | **336** | Deep Jade Crystal Micro Set | 0/7 | ⏳ Pendiente |
-| **337** | Rose Gold Corselette La Perla | 0/7 | ⏳ Pendiente |
 | **338** | Cognac Bordelle Strappy Bodysuit | 0/7 | ⏳ Pendiente |
 | **340** | Champagne Morning Robe Trophy Wife | 1/7 | ⏳ Pendiente |
 | **342** | Electric Violet Kabukicho Street Viper | 0/7 | ⏳ Pendiente |
-| **343** | Chrome White Shinjuku Club Night | 0/7 | ⏳ Pendiente |
-| **344** | Hot Magenta OL Tokyo Office Siren | 2/7 | ⏳ Pendiente |
-| **345** | Electric Mint Latex French Maid Tokyo | 1/7 | ⏳ Pendiente |
 | **346** | Midnight Blue Roppongi After-Party | 1/7 | ⏳ Pendiente |
 | **347** | Blood Orange Harajuku Y2K Viper | 0/7 | ⏳ Pendiente |
 | **348** | Acid Lime Tokyo Gym Editorial | 1/7 | ⏳ Pendiente |
@@ -774,56 +756,21 @@
 | **368** | Magenta Trophy Sequins | 1/7 | ⏳ Pendiente |
 | **369** | Carbon Fiber Couture | 1/7 | ⏳ Pendiente |
 | **370** | Violet Team Principal | 1/7 | ⏳ Pendiente |
-| **372** | Champagne Fireside Boudoir | 5/7 | ⏳ Pendiente |
-| **373** | Silver Slope Siren | 6/7 | ⏳ Pendiente |
-| **374** | Snow Queen Crystal Gala | 1/7 | ⏳ Pendiente |
-| **375** | Lilac Ice Skater | 1/7 | ⏳ Pendiente |
-| **376** | Glühwein Red Après | 1/7 | ⏳ Pendiente |
-| **377** | Pearl Steam Spa | 1/7 | ⏳ Pendiente |
-| **378** | Pine Green Heli Ski | 1/7 | ⏳ Pendiente |
-| **379** | Sapphire Ice Escort | 1/7 | ⏳ Pendiente |
-| **380** | Cream Cashmere Hostess | 1/7 | ⏳ Pendiente |
-| **381** | Hot Magenta Leopard Power Domme | 1/7 | ⏳ Pendiente |
-| **382** | Emerald Python Madame Claude | 1/7 | ⏳ Pendiente |
-| **383** | Mirror Silver Zebra Couture | 1/7 | ⏳ Pendiente |
-| **384** | Tangerine Cheetah Studio Micro | 1/7 | ⏳ Pendiente |
-| **385** | Cobalt Tiger Nightclub Sequin | 1/7 | ⏳ Pendiente |
 | **389** | Bubblegum Cow Print Bombshell | 1/7 | ⏳ Pendiente |
 | **390** | Toxic Chartreuse Dalmatian Gym | 1/7 | ⏳ Pendiente |
-| **392** | Bronze Tortoiseshell Beach Trikini | 2/7 | ⏳ Pendiente |
 | **393** | Electric Cyan Lizard Sculptural Catsuit | 1/7 | ⏳ Pendiente |
 | **394** | Coral Neon Coral-Snake Barbarella | 1/7 | ⏳ Pendiente |
-| **395** | Violet Ocelot Fetish Harness | 3/7 | ⏳ Pendiente |
-| **396** | Mercury Silver Anaconda Athleisure | 1/7 | ⏳ Pendiente |
-| **397** | Peacock Teal Feather Nightclub | 1/7 | ⏳ Pendiente |
-| **398** | Oil-Slick Iridescent Viper Stage | 1/7 | ⏳ Pendiente |
 | **400** | Burnt Orange Fire Tiger Officer Domme | 3/7 | ⏳ Pendiente |
-| **402** | Film Noir Femme Fatale | 6/7 | ⏳ Pendiente |
 | **405** | Champagne Premiere Goddess | 5/7 | ⏳ Pendiente |
-| **411** | Marilyn Subway White Halter | 6/7 | ⏳ Pendiente |
-| **422** | Electric Cyan Hoodie Leggings Street | 2/7 | ⏳ Pendiente |
-| **423** | Liquid Silver Disco-Pant Leggings | 5/7 | ⏳ Pendiente |
 | **427** | Oil-Slick Iridescent Cage Leggings | 6/7 | ⏳ Pendiente |
 | **429** | Toxic Chartreuse Synth-Power Leggings | 1/7 | ⏳ Pendiente |
 | **430** | Emerald Croco Bomber Leggings Gym | 3/7 | ⏳ Pendiente |
 | **431** | Bettie Page Black Patent Bondage | 6/7 | ⏳ Pendiente |
-| **432** | Black & White Leather Pretty Woman | 6/7 | ⏳ Pendiente |
-| **433** | Black Leather Cage Stage Showgirl | 4/7 | ⏳ Pendiente |
-| **434** | White Leather Spider-Back Pole | 6/7 | ⏳ Pendiente |
 | **435** | Black & White Moto Athleisure | 0/7 | ⏳ Pendiente |
-| **436** | White Leather Skort Performance | 1/7 | ⏳ Pendiente |
-| **441** | Chrome Body-Chain Pole | 1/7 | ⏳ Pendiente |
-| **442** | Diamond Glass Illusion | 3/7 | ⏳ Pendiente |
-| **444** | Emerald Gecko Grip Pole | 6/7 | ⏳ Pendiente |
 | **447** | Cobalt Magic City Pole | 1/7 | ⏳ Pendiente |
-| **448** | Oil-Slick Cutout Stage | 1/7 | ⏳ Pendiente |
-| **449** | UV Cyan Grip Pole | 1/7 | ⏳ Pendiente |
 | **451** | Lime Y2K Strip Stage | 1/7 | ⏳ Pendiente |
-| **452** | UV Magenta Chains Pole | 1/7 | ⏳ Pendiente |
 | **453** | Coral Spider-Back Pole | 1/7 | ⏳ Pendiente |
-| **459** | Chrome Crucifix Cage Pole | 5/7 | ⏳ Pendiente |
-| **462** | Hooters Black Dolphin Variant | 1/7 | ⏳ Pendiente |
-| **463** | Hooters Halter-Tie Orange | 1/7 | ⏳ Pendiente |
+| **463** | Hooters Halter-Tie Orange | 2/7 | ⏳ Pendiente |
 | **469** | Hooters Pink Edition | 1/7 | ⏳ Pendiente |
 | **471** | Hooters Owl Showgirl | 1/7 | ⏳ Pendiente |
 | **474** | Hooters Nightclub Sequin | 1/7 | ⏳ Pendiente |
@@ -856,6 +803,11 @@
 | **699** | Baby Pink PVC Tease | 7/7 | ⏳ Pendiente |
 | **700** | Cerise Sequin All Nighter | 7/7 | ⏳ Pendiente |
 | **811** | Nude Bordelle Harness Atelier | 0/7 | ⏳ Pendiente |
+| **818** | Jade Liquid Catsuit | 0/7 | ⏳ Pendiente |
+| **819** | Emerald Mirror Pool Two-Piece | 0/7 | ⏳ Pendiente |
+| **820** | Deep Indigo Corsetry Boudoir | 0/7 | ⏳ Pendiente |
+| **821** | Electric Cyan Nightclub Skirt | 0/7 | ⏳ Pendiente |
+| **822** | Violet Rose-Gold Escort Bodysuit | 0/7 | ⏳ Pendiente |
 
 ---
 

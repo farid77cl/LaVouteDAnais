@@ -4517,11 +4517,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a mirror-chrome silver micro bikini as a two-piece: the top a classic string triangle top in mirror-finish chrome-silver vinyl, two small triangles joined by a fine chrome-silver cord knotted at the centre of the back and a second cord knotted behind the neck, no padding, no underwire and no additional structure; the bottom a matching string thong, two sliding mirror-chrome triangles joined by fine chrome-silver cords knotted at each hip and reduced at the back to one thin cord; every cord on both pieces edged with a narrow line of hot pink neon piping as the signature colour; no stockings, bare legs; a fine silver body chain set with clear rhinestones running from the nape, crossing between the shoulder blades and looping loosely around the waist, worn instead of any collar or choker; small clear rhinestone stud earrings; nails: long almond-shaped acrylics lacquered in mirror-chrome silver; strappy platform sandals in clear acrylic with rhinestone-encrusted straps, 18cm razor-thin metal needle heel plus a 7-inch clear acrylic platform, open pointed toe, a rhinestone toe strap and a locking rhinestone ankle strap fastened with a chrome pin buckle
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (5/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look73_mirror_chrome_poolside_string/miss_doll_073_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look73_mirror_chrome_poolside_string/miss_doll_073_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look73_mirror_chrome_poolside_string/miss_doll_073_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look73_mirror_chrome_poolside_string/miss_doll_073_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look73_mirror_chrome_poolside_string/miss_doll_073_glacial_command.png) | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
@@ -4574,11 +4574,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a saturated coral liquid-satin longline bra, its cups faced in fine fuchsia lace worked to a scalloped edge running along the top of each cup, deeply plunged and underwired, the band continuing down over the ribs and closing at the back with three flat rose-gold hooks; a matching coral silk-satin thong finished with the same scalloped fuchsia lace along the top edge of its front panel, its hip straps thin coral elastic resting on the hip bones, its back open but for one narrow strap; a coral satin suspender belt worn over the thong, four thin coral straps clipped to sheer blush hold-up stockings, 10 denier, with a plain wide band at the top of each thigh; over all of it a floor-length pearl white sheer chiffon open robe, its hem sweeping the floor, semi-transparent fabric that reveals the lingerie beneath from every angle including from behind, falling loose off both shoulders, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin coral satin sash left untied; a layered rose-gold chain necklace of three fine strands with a single drop pearl, sitting low on the collarbones rather than at the throat, and one pearl drop earring in each ear; nails: long stiletto-shaped acrylics lacquered in glossy saturated coral; platform pumps in pearl white patent vinyl, 16cm razor-thin metal needle heel plus a 6-inch pearl white platform, closed pointed toe, a slim coral patent ankle strap fastened with a rose-gold pin buckle
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look74_coral_lace_midnight_suite/miss_doll_074_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look74_coral_lace_midnight_suite/miss_doll_074_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look74_coral_lace_midnight_suite/miss_doll_074_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look74_coral_lace_midnight_suite/miss_doll_074_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look74_coral_lace_midnight_suite/miss_doll_074_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look74_coral_lace_midnight_suite/miss_doll_074_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look74_coral_lace_midnight_suite/miss_doll_074_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4631,11 +4631,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 a midnight navy liquid-latex mini dress cut as a true second skin, a high halter neckline fastened behind the neck with a single flat chrome hook, the entire back left open to the base of the spine, the hem ending high on the thigh, the latex polished to a deep wet shine with no visible seam anywhere on the front; a midnight navy seamless thong worn beneath the dress, its front a smooth tapered panel with no visible edge and its back a single flat strap; bare legs, no stockings; the throat bare apart from the dress's own halter band, one wide midnight navy vinyl cuff on the left wrist, no necklace and no choker; nails: long coffin-shaped acrylics lacquered in glossy midnight navy chrome; platform sandals in hot pink patent vinyl as the single note of signature colour in the look, 17cm razor-thin metal needle heel plus a 6-inch hot pink platform, closed pointed toe, doubled hot pink ankle straps fastened with chrome pin buckles
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (6/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| ⏳ Pendiente | [📸 View](../../../05_Imagenes/miss_doll/look75_midnight_navy_liquid_dawn/miss_doll_075_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look75_midnight_navy_liquid_dawn/miss_doll_075_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look75_midnight_navy_liquid_dawn/miss_doll_075_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look75_midnight_navy_liquid_dawn/miss_doll_075_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look75_midnight_navy_liquid_dawn/miss_doll_075_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look75_midnight_navy_liquid_dawn/miss_doll_075_odalisque.png) |
 
 ### 1. Standing
 ```text

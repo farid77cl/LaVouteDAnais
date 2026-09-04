@@ -38,6 +38,54 @@ def get_tracked_images(directory):
             return sorted([f for f in os.listdir(directory) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.webp'))])
         return []
 
+_GIT_SUBDIRS_BY_DIR = None
+_GIT_FILES_BY_DIR = None
+def _cargar_indice_arbol():
+    """Cachea, desde el INDICE DE GIT, las subcarpetas y archivos hijos de cada carpeta.
+
+    Por que existe (04/09/2026): en un clon sparse (esta maquina excluye
+    `05_Imagenes/` a proposito) las carpetas no estan en disco, asi que el viejo
+    `os.listdir` devolvia [] y el README de la carpeta se regeneraba VACIO,
+    borrando enlaces reales. Medido: `05_Imagenes/comics/` perdio 4 enlaces a
+    `guion_comic.md` y `look66_bubblegum_bow_couture/` perdio 30 lineas.
+    La fuente de verdad es el indice, igual que en get_tracked_images.
+    """
+    global _GIT_SUBDIRS_BY_DIR, _GIT_FILES_BY_DIR
+    if _GIT_SUBDIRS_BY_DIR is not None:
+        return
+    _GIT_SUBDIRS_BY_DIR, _GIT_FILES_BY_DIR = {}, {}
+    try:
+        result = subprocess.run(['git', 'ls-files', '-c', '-o', '--exclude-standard'],
+                                capture_output=True, text=True, check=True)
+    except Exception as e:
+        print(f"Aviso: no se pudo leer el arbol del indice de git: {e}")
+        return
+    for file_path in result.stdout.splitlines():
+        parts = file_path.split('/')
+        # parts[-1] es el archivo; parts[:-1] son las carpetas que lo contienen.
+        for d in range(len(parts) - 1):
+            padre = os.path.normcase(os.path.abspath('/'.join(parts[:d + 1])))
+            hijo = parts[d + 1]
+            if d + 1 == len(parts) - 1:
+                _GIT_FILES_BY_DIR.setdefault(padre, set()).add(hijo)
+            else:
+                _GIT_SUBDIRS_BY_DIR.setdefault(padre, set()).add(hijo)
+
+
+def get_tracked_subdirs(directory):
+    """Subcarpetas hijas segun el indice de git (no segun el disco)."""
+    _cargar_indice_arbol()
+    return _GIT_SUBDIRS_BY_DIR.get(os.path.normcase(os.path.abspath(directory)), set())
+
+
+def existe_en_repo(path):
+    """True si el archivo esta en disco O en el indice de git (clon sparse)."""
+    if os.path.exists(path):
+        return True
+    _cargar_indice_arbol()
+    padre = os.path.normcase(os.path.abspath(os.path.dirname(path)))
+    return os.path.basename(path) in _GIT_FILES_BY_DIR.get(padre, set())
+
 # ── Mapeo de poses (Ama 22/07/2026) ─────────────────────────────────────────
 # El mapeo viejo era `next(img for img in images if key in img.lower())`: buscaba
 # la pose como SUBCADENA suelta y, si no encontraba, un fallback rellenaba la
@@ -221,7 +269,10 @@ def generate_folder_gallery(directory, repo_root):
     os.makedirs(directory, exist_ok=True)
     images = get_tracked_images(directory)
     all_local = os.listdir(directory) if os.path.exists(directory) else []
-    subdirs = [d for d in all_local if os.path.isdir(os.path.join(directory, d)) and not d.startswith('.')]
+    subdirs_disco = {d for d in all_local
+                     if os.path.isdir(os.path.join(directory, d)) and not d.startswith('.')}
+    # Union disco + indice de git: en clon sparse el disco esta vacio a proposito.
+    subdirs = sorted(subdirs_disco | {d for d in get_tracked_subdirs(directory) if not d.startswith('.')})
     
     gallery_path = os.path.join(directory, 'README.md')
     rel_dir_name = os.path.basename(directory)
@@ -275,9 +326,9 @@ def generate_folder_gallery(directory, repo_root):
                 # el arreglo se había hecho a mano sobre el README generado y este
                 # script lo pisó en la corrida siguiente.)
                 sub = os.path.join(directory, d)
-                if os.path.exists(os.path.join(sub, 'README.md')) or get_tracked_images(sub):
+                if existe_en_repo(os.path.join(sub, 'README.md')) or get_tracked_images(sub):
                     destino = f"./{d}/README.md"
-                elif os.path.exists(os.path.join(sub, 'guion_comic.md')):
+                elif existe_en_repo(os.path.join(sub, 'guion_comic.md')):
                     destino = f"./{d}/guion_comic.md"
                 else:
                     destino = f"./{d}/"

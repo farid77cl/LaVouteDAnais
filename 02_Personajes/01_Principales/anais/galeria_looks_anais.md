@@ -4406,11 +4406,11 @@ a burgundy latex overbust corset with antique-gold boning and a gold busk down t
 a deep garnet red heavy silk-velvet strapless gown with a boned sweetheart bodice, no straps, the shoulders left completely bare, a floor-length fitted skirt with a slim back kick-pleat of a fixed, consistent width in every pose regardless of stance or movement, never opening wider or lying flatter in any frame; sheer black nylon stockings with a fine back seam; a 12cm black patent leather stiletto boot with its shaft ending exactly at the knee in every pose, never lower as a mid-calf boot and never higher as an over-the-knee or thigh-high boot, iconic red sole; black opera-length satin gloves drawn above the elbow; a garnet and antique-gold collar necklace sitting high on the throat and matching drop earrings; a small antique-gold lacquered clutch held at the hip
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/anais_071_standing.png) | [📸 View](../../../05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/anais_071_back_view.png) | [📸 View](../../../05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/anais_071_seated.png) | [📸 View](../../../05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/anais_071_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/anais_071_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/anais_071_pov.png) | [📸 View](../../../05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/anais_071_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4463,11 +4463,11 @@ a deep garnet red heavy silk-velvet strapless gown with a boned sweetheart bodic
 a black liquid-satin halter-neck gown with a structural boned bodice, the entire back left bare to the waist, a floor-length hem falling straight to the floor; no stockings, bare legs; a 12cm black patent leather stiletto boot with its shaft ending consistently thigh-high above the knee in every pose, never lower as a knee-high or mid-calf boot, iconic red sole; a chestnut-brown mink stole draped over one shoulder and caught loosely at the opposite elbow, the tightlaced waist and the bare back clearly visible beneath it; a slim diamond collar sitting close at the throat; long stiletto-shaped manicured nails in deep black-cherry lacquer
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look72_vison_castano_en_la_cava/anais_072_standing.png) | [📸 View](../../../05_Imagenes/anais/look72_vison_castano_en_la_cava/anais_072_back_view.png) | [📸 View](../../../05_Imagenes/anais/look72_vison_castano_en_la_cava/anais_072_seated.png) | [📸 View](../../../05_Imagenes/anais/look72_vison_castano_en_la_cava/anais_072_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look72_vison_castano_en_la_cava/anais_072_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look72_vison_castano_en_la_cava/anais_072_pov.png) | [📸 View](../../../05_Imagenes/anais/look72_vison_castano_en_la_cava/anais_072_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4520,11 +4520,11 @@ a black liquid-satin halter-neck gown with a structural boned bodice, the entire
 a deep emerald silk-velvet wrap dress with a plunging V neckline, cinched at the waist with a matching self-tie sash that keeps the tightlaced waist visible, a floor-length skirt with a front overlap that stays closed when she stands or sits; sheer black nylon stockings with a fine back seam; 12cm black patent leather D'Orsay stiletto pump with open sides and a closed pointed toe, iconic red sole; black cat-eye reading glasses with a delicate rhinestone-tipped frame low on the nose, a slim gold fountain pen held loosely between two fingers with its nib resting against an open page, a single strand of pearls at the throat; long oval manicured nails in deep emerald lacquer
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/anais_073_standing.png) | [📸 View](../../../05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/anais_073_back_view.png) | [📸 View](../../../05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/anais_073_seated.png) | [📸 View](../../../05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/anais_073_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/anais_073_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/anais_073_pov.png) | [📸 View](../../../05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/anais_073_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4577,11 +4577,11 @@ a deep emerald silk-velvet wrap dress with a plunging V neckline, cinched at the
 a black duchesse satin wiggle dress, knee-length, fitted sharply through the hip with a narrow pencil skirt hem, a structured off-the-shoulder neckline baring both shoulders; sheer black nylon stockings with a fine back seam; 12cm black patent leather stiletto Mary Jane pump with a delicate ankle strap, iconic red sole; black elbow-length suede gloves; a triple strand of black onyx beads at the throat and matching drop earrings; a small black lacquer clutch held at the hip
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/anais_074_standing.png) | [📸 View](../../../05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/anais_074_back_view.png) | [📸 View](../../../05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/anais_074_seated.png) | [📸 View](../../../05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/anais_074_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/anais_074_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/anais_074_pov.png) | [📸 View](../../../05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/anais_074_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4634,11 +4634,11 @@ a black duchesse satin wiggle dress, knee-length, fitted sharply through the hip
 a fitted gunmetal-grey high-shine clinical-grade latex sheath dress with a structured integrated corset seam cinching the tightlaced waist, a high halter collar, a fixed thigh-high side slit exposing the exact same measured strip of bare thigh in every pose regardless of stance or movement, never opening wider or closing more in any frame, a fine silver zipper running the length of the spine; no stockings, bare legs beneath the hem; a 12cm black patent leather stiletto boot with its shaft ending precisely at the mid-calf point below the knee, never higher as an over-the-knee or thigh-high boot and never lower as an ankle boot, iconic red sole; black opera-length latex gloves to the elbow; a slim gunmetal choker with a center ring; predatory calculating calm gaze, danger worn as elegance
 ```
 
-### 📸 Imágenes (5/7 — Parcial)
+### 📸 Imágenes (6/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_standing.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_back_view.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_seated.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_sovereign_gaze.png) | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_standing.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_back_view.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_seated.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/anais_075_pov.png) | ⏳ Pendiente |
 
 ### 1. Standing
 ```text

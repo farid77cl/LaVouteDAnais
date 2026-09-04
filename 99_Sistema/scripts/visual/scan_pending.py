@@ -3,7 +3,10 @@ import subprocess, sys
 from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8')
 
-REPO = Path(r'c:\Users\farid\LaVouteDAnais')
+# Ruta absoluta hardcodeada hasta el 04/09/2026: apuntaba a c:\Users\farid\LaVouteDAnais
+# (sin el segmento "Git"), asi que el script moria con FileNotFoundError en esta maquina.
+# Ahora se resuelve desde la ubicacion del propio archivo, igual que auditar_galeria.py.
+REPO = Path(__file__).resolve().parents[3]
 git_files = subprocess.run(['git', 'ls-files', '05_Imagenes/ele'], capture_output=True, text=True, cwd=REPO).stdout.splitlines()
 
 POSES = ['standing', 'back', 'seated', 'side_profile', 'ditzy', 'pov', 'odalisque']
