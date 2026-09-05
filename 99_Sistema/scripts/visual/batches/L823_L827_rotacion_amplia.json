@@ -1,0 +1,106 @@
+{
+ "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/ele.md §2). Las poses salen del contrato.",
+ "_origen": "Ama 05/09/2026: 'genera 5 nuevos outfit por muñeca'. Primer batch de Ele bajo las reglas nuevas del mismo dia: tope de familia cromatica (max 2 por ventana de 5, nunca pegadas, desde_look 823) y anti-safe del BLOQUE B.",
+ "_step_0": "Arquitecturas del batch anterior L818-L822 = M9, M2, M4, M7, M1 -> este usa M6, M8, M3, M10, M5, cero repeticion. Deficit de arquetipo medido el 05/09 sobre 600 looks: High-Fashion Editorial 7,2% vs meta 9,4% (el mayor), Corporate 8,2%; Stripper viene +2,9 SOBRE meta y por eso no aparece.",
+ "_colorimetria": "Cinco familias distintas: rojo (oxblood, que NO es el cherry reservado al ADN) - amarillo - naranja - azul - metal. Cero repeticion, o sea ni siquiera se usa el cupo de 2. Se rota deliberadamente FUERA del verde: el batch anterior gasto verde x2 y azul x2 pegados, que es lo que la Ama marco.",
+ "_cuota_animal_print": "L825 lleva python. La cuota es 1 de cada 8 looks y el ultimo fue el L817 (leopard): sin este, L818-L827 serian diez looks seguidos sin print.",
+ "_anti_monoblock": "Contraste (L823) - Neutro+Pop (L824) - Monoblock (L825) - Monoblock (L826) - Triada (L827). Maximo 2 monoblock seguidos, cumplido.",
+ "personaje": "ele",
+ "batch": "Rotacion Amplia -- Cinco Familias, Cinco Arquitecturas",
+ "fecha": "05/09/2026",
+ "categoria": "Mix",
+ "rango": "823-827",
+ "tags_comunes": [
+  "rotacion",
+  "V7poses",
+  "batchL823-L827"
+ ],
+ "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, sneakers, barefoot, kitten heel, wedge, block heel, gloves, opera gloves, lace gloves",
+ "looks": {
+  "823": {
+   "titulo": "Oxblood Lacquer Column",
+   "codigo": "HF1",
+   "polo": "High-Fashion Editorial",
+   "concepto": "High-Fashion Editorial, el mayor deficit del roster (7,2% contra 9,4%). Arquitectura M6 (vestido de segunda piel, CUBIERTA) -- libre en la ventana, que bloqueaba M9, M2, M4, M7 y M1. Oxblood profundo: es de la familia del rojo pero NO es el cherry del ADN, asi que la boca y el pelo siguen siendo el unico cereza del cuadro. Modo Contraste con el hueso del hardware.",
+   "adn_overrides": {
+    "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in cold graphite and deep pewter"
+   },
+   "bloque_b": "a deep oxblood high-gloss latex column dress fitted as a second skin from the collarbone to just below the knee, a high funnel collar closed at the throat, long sleeves ending at the wrist, sculpted vertical seams running from the underbust to the hip, a single mirror-chrome zip set into the left side seam from the underarm to the hem, and a narrow slit at the back hem cut only as far as the knee; beneath it an oxblood latex thong, its front a slim tapered panel and its back a single fine cord; bare hands, no gloves; no stockings, the dress covers the leg to below the knee; a slim mirror-chrome collar with no lettering and no other jewellery; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe stiletto pumps in oxblood mirror patent latex, 13cm razor-thin chrome pin heel with no platform, sharp closed pointed toe, a single thin oxblood ankle strap fastened with a chrome pin buckle, mirror-chrome sole edge and a chrome heel cap",
+   "setting": "a seamless editorial cyclorama in bone white, one hard key light from high left throwing a single sharp shadow, a polished bone-white floor and nothing else in frame",
+   "props": {
+    "seat": "a low bone lacquer editorial cube",
+    "wall": "the seamless bone-white cyclorama sweep",
+    "surface": "the polished bone-white studio floor",
+    "upright": "a matte white lighting stand column"
+   }
+  },
+  "824": {
+   "titulo": "Acid Chartreuse Boardroom Trouser",
+   "codigo": "C4",
+   "polo": "Corporate",
+   "concepto": "Corporate, segundo deficit (8,2% contra 9,4%). Arquitectura M8 (pantalon + top, CUBIERTA) -- la unica de las diez que no aparecia en ninguno de los dos batches anteriores. Amarillo acido, familia estrenada en el L190 y casi sin uso desde entonces. Modo Neutro+Pop: base grafito, el acido manda en la pierna.",
+   "adn_overrides": {
+    "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in smoky pewter and cold slate"
+   },
+   "bloque_b": "acid chartreuse high-gloss vinyl cigarette trousers cut high on the natural waist, moulded close over the hip and tapering to a cropped ankle, with a flat mirror-chrome zip at the centre back and a narrow chrome-buckled waistband; above them a graphite mirror-vinyl cropped shell top with a boat neckline, structural peaked shoulders and elbow-length sleeves, its hem ending at the ribs; beneath it an acid chartreuse vinyl thong, its front a slim tapered panel and its back a single fine cord; bare hands, no gloves; no stockings, the trousers cover the leg to the ankle; narrow rectangular black-frame glasses, a slim mirror-chrome collar with no lettering and small chrome stud earrings; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe slingback stiletto pumps in acid chartreuse patent vinyl, 12cm razor-thin chrome pin heel with no platform, sharp closed pointed toe, a thin chartreuse elastic slingback strap at the heel, mirror-chrome sole edge and a chrome heel cap",
+   "setting": "a corner office at night, floor-to-ceiling glass with the city grid far below, a long graphite lacquer meeting table with nothing on it, one low warm lamp and the rest of the room dark",
+   "props": {
+    "seat": "a graphite leather executive chair",
+    "wall": "the floor-to-ceiling office glass",
+    "surface": "the long graphite lacquer meeting table",
+    "upright": "a black steel structural column"
+   }
+  },
+  "825": {
+   "titulo": "Tangerine Python Domestic Set",
+   "codigo": "D4",
+   "polo": "Domestic",
+   "concepto": "Domestic (8,5%, en meta pero el tercero mas bajo). Arquitectura M3 (conjunto de lenceria de dos piezas, piel) -- libre en la ventana. Naranja tangerina, familia de las expandidas V3.5 y de las menos usadas. PAGA LA CUOTA DE ANIMAL PRINT: el ultimo print fue el L817 (leopard) y sin este el tramo L818-L827 serian diez looks seguidos sin ninguno; se usa python para no repetir depredador. Modo Monoblock.",
+   "adn_overrides": {
+    "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in burnt copper and smoky pewter"
+   },
+   "bloque_b": "a tangerine python-print high-gloss vinyl bralette with moulded triangle cups underwired and set close together, a narrow chrome ring at the centre gore and fine chrome-tipped straps crossing wide over the shoulders; a matching tangerine python-print vinyl thong, its front a slim tapered panel and its back a single fine cord, worn with a matching tangerine python-print vinyl suspender belt sitting on the natural waist with four chrome clips; the python print is a genuine python-skin scale/marking texture rendered consistently across every visible inch of the printed fabric, NOT a lace pattern, NOT a floral or vine motif, NOT embroidery or filigree, and NOT a plain sheer fabric with no pattern at all; sheer tangerine-tinted stockings, 15 denier, held by the four clips of the suspender belt; bare hands, no gloves; a slim mirror-chrome collar with no lettering and small chrome hoop earrings; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe stiletto ankle boots in tangerine patent vinyl, 13cm razor-thin chrome pin heel with no platform, sharp closed pointed toe, a concealed inner zip at the ankle, mirror-chrome sole edge and a chrome heel cap",
+   "setting": "a white marble kitchen at midday, a long island of veined white stone, brushed chrome fittings, a tall window pouring flat cold daylight and nothing else on the counters",
+   "props": {
+    "seat": "a chrome and white leather counter stool",
+    "wall": "the veined white marble splashback",
+    "surface": "the long white stone island",
+    "upright": "the tall chrome-framed window jamb"
+   }
+  },
+  "826": {
+   "titulo": "Deep Teal Mesh Nightclub Slip",
+   "codigo": "N4",
+   "polo": "Nightclub",
+   "concepto": "Nightclub (9,8%, en meta). Arquitectura M10 (slip de malla sobre lenceria, CUBIERTA) -- libre en la ventana y paga la cuota de silueta cubierta del tramo. Teal profundo, familia expandida V3.5 poco usada. REDACCION ANTI-FILTRO: la malla se describe por su CONSTRUCCION (sin forro, tejido abierto, capa exterior), nunca por lo que deja ver -- es la correccion del Miss Doll L80, que quedo en 0/7 por escribir el efecto en vez de la tela. Modo Monoblock (segundo seguido, el maximo).",
+   "adn_overrides": {
+    "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in deep teal and smoky pewter"
+   },
+   "bloque_b": "a deep teal crystal-mesh slip dress falling to mid-thigh, cut on the bias with a fine strap over each shoulder and a straight neckline, the mesh an unlined fine open weave worn as the outer layer of the styling, with a chrome-weighted hem and a single chrome ring at the centre front; beneath it a deep teal high-gloss vinyl bralette with moulded triangle cups and a chrome ring at the centre gore, and a matching deep teal vinyl thong with a slim tapered front panel and a single fine cord at the back; bare legs, no stockings; bare hands, no gloves; a slim mirror-chrome collar with no lettering and long faceted teal crystal drop earrings; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe platform stiletto sandals in deep teal patent vinyl, 16cm razor-thin chrome pin heel plus a 6-inch teal platform, closed pointed toe, doubled teal ankle straps with chrome pin buckles, mirror-chrome sole edge",
+   "setting": "a dark club mezzanine after midnight, black mirrored walls, a low teal neon strip running along the floor line, a single glass table catching the light and the room falling away into black",
+   "props": {
+    "seat": "a low black leather banquette",
+    "wall": "the black mirrored club wall",
+    "surface": "the low smoked-glass table",
+    "upright": "a black lacquer mezzanine post"
+   }
+  },
+  "827": {
+   "titulo": "Mirror Silver Harness Editorial",
+   "codigo": "E6",
+   "polo": "Escort",
+   "concepto": "Escort Haute (10,2%). Arquitectura M5 (arnes / fashion-bondage sobre piel) -- la mas escasa del roster y libre en toda la ventana. Plata espejo: el metal cierra el batch sin repetir ninguna de las cuatro familias anteriores. Las correas se leen como JOYERIA ESTRUCTURAL de alta costura, nunca como utileria industrial (prohibicion §I). Modo Triada con el negro del cuero y el hueso de la piel. Corregido el 05/09 por el chequeo 12: la primera version llevaba bandeau + tanga y el clasificador la leia M3, repitiendo la del L825 dentro de la ventana de 3. Ahora el arnes va sobre un bodysuit (M1), libre en la ventana.",
+   "adn_overrides": {
+    "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in mirror silver and cold graphite"
+   },
+   "bloque_b": "a mirror silver liquid-lame harness worn over the body as sculptural couture jewellery, a wide moulded band closing under the bust and lifting it high, fine silver bands rising over each shoulder and meeting a flat silver ring at the sternum, further bands tracing the ribs and closing on a low silver band at the hip, every fitting a polished silver bar or ring with no buckles showing; beneath the harness a black high-gloss vinyl bodysuit cut as a second skin with a straight bandeau neckline, sharp geometric cut-outs at each side of the waist and a high-cut leg line rising past the hip bone, finishing as a thong at the back; sheer black-tinted stockings, 15 denier, held by a black vinyl suspender belt with four silver clips; bare hands, no gloves; a slim mirror-silver collar with no lettering and long silver bar earrings; nails: French XXXL 5cm acrylics with sharp white tips over a translucent pink base; closed pointed-toe stiletto thigh-high boots in mirror silver patent vinyl reaching mid-thigh, 13cm razor-thin silver pin heel with no platform, sharp closed pointed toe, a concealed inner zip along the calf, mirror-silver sole edge and a silver heel cap",
+   "setting": "a private penthouse gallery at night, walls of brushed silver panelling, one lit plinth of white stone, a single hard spotlight from above and the rest of the room in shadow",
+   "props": {
+    "seat": "a white stone gallery bench",
+    "wall": "the brushed silver panelled wall",
+    "surface": "the lit white stone plinth",
+    "upright": "a polished silver structural column"
+   }
+  }
+ }
+}

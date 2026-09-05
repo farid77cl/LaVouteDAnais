@@ -1,5 +1,7 @@
 # 📁 Personajes de La Voûte d'Anaïs
 
+> 👑💅 **05/09/2026 — Miss Doll L81-L85 y Anaïs L81-L85 registrados.** Diseñados contra el déficit medido ese día: Miss Doll lleva **dos** Club/Escenario (su mayor déficit, -2,8) y Anaïs **tres** Noche/La Voûte (-5,5, el peor de las tres). Cero rojo dominante en Anaïs a propósito — su §5.2b midió que el 55,4% de sus outfits competía con su labio crimson fijo. Además, los arquetipos de Miss Doll L66-L80 se transcribieron al campo `polo` desde su propio `concepto`, donde ya estaban escritos en prosa: sin ese campo, 64 de sus 80 looks quedaban fuera del conteo de cuota.
+
 > *Cada ficha es un alma capturada, cada transformación una obra de arte.*
 
 *Última actualización: 20/08/2026 — **🖤 Anaïs: Femme Fatale desarrollada en actitud, poses y vestuario.** La etiqueta *"Femme Fatale clásica"* vivía suelta en `CANON_VISUAL_ANAIS.md` §I desde el 28/04 sin traducirse a nada operativo. Nuevo en `anais.md`: **§2bis** (actitud — peligro calculado, no solo distancia fría: evalúa a quien la mira como quien mide una amenaza), **§4ter** (repertorio de gestos — el guante que se saca dedo a dedo, el humo de la boquilla sosteniendo la mirada, un arma o daga cerrada en la palma como símbolo de dominio, la mirada de salida sobre el hombro) y vestuario (**D11** vestido con abertura de pierna que solo se abre al caminar, compatible con `DRESS_LEG_CLOSURE`; trench coat noir con el cuello parado en §5.1d). Verificado sin choques contra el canon existente.*

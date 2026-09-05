@@ -1,106 +1,121 @@
 {
-  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
-  "_origen": "Ama 04/09/2026: 'dame 5 looks nuevos por cada muñeca, con las nuevas reglas de colorimetria aplicadas'. Primer batch de Miss Doll posterior a su iris azul, a la §5.2b (color de prenda) y a la §5.2c (color de maquillaje).",
-  "_step_0": "Roster a L75. Ventana global de arquitectura: L73=M2, L74=M3, L75=M6 -> bloqueadas M2, M3 y M6 para el L76. Secuencia verificada deslizando la ventana: L76=M1 bodysuit · L77=M7 minifalda+top (CUBIERTA) · L78=M4 corseteria · L79=M2 micro dos piezas · L80=M10 slip dress sobre lenceria (CUBIERTA). Cuota de silueta cubierta (>=1 de cada 4): la ventana [76-79] la paga el L77 y la [77-80] la pagan el L77 y el L80. Deficit de arquetipos medido sobre los 61 looks etiquetados: Club +3,5 > Bikini/Lenceria +3,2 > Calabozo +2,8 > Girly Girl +2,0 > VIP +1,0. Se toman los cinco mayores.",
-  "_girly_girl": "El Girly Girl del L77 entra a sabiendas de que los dos anteriores de ese arquetipo se rechazaron (L66 el 03/09 por vestuario infantilizante, L75 el 04/09 dentro del batch entero). Se ejecuta con el canon REDEFINIDO el 03/09: hiperfem ADULTA -- curva extrema, gloss saturado, silueta bodycon, hardware de joyeria. CERO moños, cero charms de corazon, cero mangas abullonadas, cero Mary Jane, cero pastel. Si igual no le gusta a la Ama, es un solo look y se rehace barato.",
-  "_colorimetria": "§5.2b — Miss Doll era la unica sin ancla de color hasta el 04/09; con el iris cobalto nuevo gana un eco propio, y el AZUL estaba en 8,5% de sus prendas y 5% de sus sombras. Este batch lo lidera: L76 cobalto dominante y L80 zafiro. El rosa firma cambia de rol en cada look, que es la correccion de fondo del batch rechazado (donde 5 de 5 lo tenian degradado a un detalle decorativo). El dorado del L78 va OSCURECIDO (antique gold): la Ama decidio que el dorado se queda, y la unica recomendacion tecnica que sobrevive del analisis es preferir el oro viejo al champan palido, que sobre subtono frio y platinado tira el pelo a laton.",
-  "_maquillaje": "§5.2c — candado de dos partes respetado en los cinco: ninguno lleva prenda dominante de cromo/plata, asi que la sombra queda libre; y ninguno lleva sombra gris/cromo, asi que el `blinding chrome strobing` del ADN se conserva sin bajarlo a perla. Sombra y labio se declaran por look con adn_overrides (§5.5.8) y NO se repite tono en looks consecutivos -- la regla que se incumplio 5 veces en sombra y 10 en labio sin que nadie la midiera. Cero coral, cero durazno, cero baja pigmentacion: vetados en el negative el 04/09.",
-  "_anti_monoblock": "Los cinco son bicolor o mas. Ninguno monoblock.",
-  "personaje": "miss_doll",
-  "batch": "Eco de Iris -- El Azul que le Faltaba",
-  "fecha": "04/09/2026",
-  "categoria": "Mix",
-  "rango": "L76-L80",
-  "emitir_bloque_b": true,
-  "tags_comunes": ["batchL76-L80", "V7poses"],
-  "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, mary jane shoes, ankle boots, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, hipster brief, culotte, full-coverage bikini bottom, bikini bottom covering the buttocks, corset, waist cincher, bustier, decorative bows, heart charms, puffed sleeves, ruffled ankle socks, coral eyeshadow, peach eyeshadow, pastel eyeshadow, low-pigment eyeshadow, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest, warm smile, laughing",
-  "looks": {
-    "76": {
-      "titulo": "Cobalt Iris Stage Bodysuit",
-      "tags": "#club #escenario #azul #rosa #vinyl #M1 #batchL76-L80 #V7poses",
-      "concepto": "Club/Escenario, el mayor deficit del roster (+3,5). Arquitectura M1 (bodysuit segunda piel) -- bloqueadas M2, M3 y M6. Es el look que estrena su eco de iris: cobalto dominante contra el azul cobalto nuevo de sus ojos, la jugada que el estudio del 04/09 midio como la mas barata que tiene (8,5% de azul en prenda, 5% en sombra). El rosa firma va en el hardware y en la boca, no en un adorno perdido.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense saturated cobalt-blue and electric sapphire shimmer smokey eye technique, blue pigment echoing the iris",
-        "high-gloss wet lips": "high-gloss wet oxblood lips"
-      },
-      "bloque_b": "a saturated cobalt-blue high-gloss vinyl bodysuit cut as a second skin, a deep plunging V neckline held at the sternum by a hot pink chrome ring, sharp geometric cut-outs at the waist on both sides, a high-cut leg line rising well past the hip bone, the back scooped low to the tailbone with a hot pink chrome zip running to the nape; the seat cut as a thong, a single narrow strip following the centre line so both hips stay bare; bare legs, no stockings; a hot pink chrome collar with no lettering and matching hot pink chrome cuffs on both wrists; nails: long stiletto-shaped acrylics lacquered in glossy cobalt-blue chrome; closed pointed-toe platform stiletto pumps in cobalt-blue patent vinyl, 17cm razor-thin metal needle heel plus a 6-inch cobalt platform, sharp closed pointed toe, two hot pink chrome ankle straps with pin buckles, mirrored chrome sole edge",
-      "setting": "a mirrored club stage lit only in cobalt and sapphire, a low bank of blue floor lights throwing the shadow long behind her, haze catching the beams, the room beyond gone black",
-      "props": {
-        "seat": "a low cobalt-lit chrome stage step",
-        "wall": "a mirrored stage wall doubling the blue light",
-        "surface": "the mirrored stage floor",
-        "upright": "a chrome stage light column"
-      }
-    },
-    "77": {
-      "titulo": "Fuchsia Chrome Bombshell",
-      "tags": "#girlygirl #fucsia #vinyl #siluetacubierta #M7 #batchL76-L80 #V7poses",
-      "concepto": "Girly Girl (+2,0), ejecutado con el canon REDEFINIDO el 03/09: hiperfem de MUJER ADULTA -- curva extrema, gloss saturado, silueta bodycon, hardware cromado como joyeria. Fucsia y magenta saturados, nunca pastel. Arquitectura M7 (minifalda + top, CUBIERTA) -- bloqueadas M3, M6, M1 -- y paga la cuota de silueta cubierta del batch. Cero moños, cero charms de corazon, cero mangas abullonadas, cero Mary Jane: son los cuatro elementos que la Ama identifico el 03/09 como los que empujan el arquetipo hacia disfraz infantil.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense hot fuchsia and warm rose-gold shimmer smokey eye technique",
-        "high-gloss wet lips": "high-gloss wet deep berry lips"
-      },
-      "negative_excluir": ["warm smile", "laughing"],
-      "bloque_b": "a saturated fuchsia high-gloss vinyl pencil miniskirt moulded tight over the hips and ending high on the thigh, a rose-gold chrome zip running the full length of the back seam and a wide moulded waistband sitting on the natural waist; above it a matching fuchsia vinyl longline bralette with deep moulded plunge cups and a rose-gold chrome ring at the centre gore, its band ending just under the bust so the whole toned midriff stays bare, straps crossing wide over the shoulders; a fuchsia vinyl thong beneath the skirt, its front a slim tapered panel and its back a single narrow strip leaving the seat bare; bare legs, no stockings; a heavy rose-gold chrome collar with no lettering, wide rose-gold chrome cuffs on both wrists and long faceted rose-gold drop earrings, all read as jewellery hardware; nails: long almond-shaped acrylics lacquered in glossy magenta chrome; closed pointed-toe platform stiletto pumps in fuchsia patent vinyl, 16cm razor-thin metal needle heel plus a 6-inch fuchsia platform, sharp closed pointed toe, a single rose-gold chrome ankle strap with a pin buckle, mirrored rose-gold sole edge",
-      "setting": "a luxury beauty salon at golden hour, mirrored vanity walls framed in warm bulbs, rose-gold fittings and a cream marble counter, the light warm and flattering",
-      "props": {
-        "seat": "a rose-gold framed cream velvet salon chair",
-        "wall": "a mirrored vanity wall ringed with warm bulbs",
-        "surface": "the cream marble salon counter",
-        "upright": "a slender rose-gold salon column"
-      }
-    },
-    "78": {
-      "titulo": "Carbon Antique Gold Restraint",
-      "tags": "#calabozo #dungeon #negro #oro #rosa #corseteria #M4 #batchL76-L80 #V7poses",
-      "concepto": "Calabozo/Dungeon (+2,8). Arquitectura M4 (corseteria + tanga, pierna libre) -- bloqueadas M6, M1, M7. Negro carbon con hardware de ORO VIEJO, no cromo: es la recomendacion tecnica que sobrevive del estudio (la Ama decidio que el dorado se queda, y el oro oscurecido es el unico calido que no le tira el platinado a laton). El rosa firma vive en las medias, tercera ubicacion distinta del batch.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense antique-gold and deep bronze shimmer smokey eye technique",
-        "high-gloss wet lips": "high-gloss wet blackened plum lips"
-      },
-      "negative_excluir": ["corset", "waist cincher", "bustier"],
-      "bloque_b": "a carbon black liquid-latex overbust corset as the central piece, heavily boned with fine antique-gold boning channels visible on the outside, moulded cups lifting the bust high, a row of antique-gold busk clasps down the centre front and a wide flat antique-gold lacing panel down the back drawn tight over a black satin modesty panel, its lower edge cut to a deep point over the hip bones so the leg reads long and unbroken; below it a carbon black latex g-string, its waistband a single flat cord sitting well above the hip bone, its front a slim shield-shaped panel and its back nothing but the cord; sheer hot pink hold-up stockings, 15 denier, with a fine black seam running the back of each leg and a plain flat hot pink band at the top of the thigh; a wide antique-gold posture collar with no lettering closing at the nape and a single antique-gold ring set at the hollow of the throat; nails: long coffin-shaped acrylics lacquered in glossy blackened gold; closed almond-toe platform stiletto boots in carbon black patent latex, 17cm razor-thin metal needle heel plus a 6-inch black platform, closed almond toe, laced up the front through antique-gold eyelets with a black cord, an antique-gold plate capping the heel",
-      "setting": "a private dungeon salon of dark stone and black oak, a single warm brass lantern throwing a low pool of light, an antique-gold suspension ring set into the ceiling beam, deep shadow beyond",
-      "props": {
-        "seat": "a black oak bench upholstered in dark leather-effect vinyl",
-        "wall": "a wall of dark dressed stone",
-        "surface": "an antique-gold instrument tray on a black oak stand",
-        "upright": "a black oak ceiling post with an antique-gold ring"
-      }
-    },
-    "79": {
-      "titulo": "Electric Magenta Gunmetal String",
-      "tags": "#bikinilenceria #magenta #gunmetal #M2 #batchL76-L80 #V7poses",
-      "concepto": "Bikini/Lenceria Erotica (+3,2). Arquitectura M2 (micro dos piezas) -- bloqueadas M1, M7, M4. La prenda ES el sujeto de la toma (frontera §6 con VIP: la foto funciona sin el escenario). Magenta electrico dominante contra gunmetal, dos frios saturados; el rosa firma es el color principal del look, no un detalle. Corte simple a proposito: el vinilo espejado ya es material exigente.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense electric magenta and deep violet shimmer smokey eye technique",
-        "high-gloss wet lips": "high-gloss wet wine red lips"
-      },
-      "bloque_b": "an electric magenta high-gloss vinyl micro two-piece: the top a string triangle top of two magenta triangles joined by fine gunmetal chain at the centre of the back and again behind the neck, no padding and no underwire; the bottom a matching string thong, two sliding magenta triangles joined by gunmetal chain knotted at each hip and reduced at the back to one thin strip; the edges of both pieces finished with a fine gunmetal trim; bare legs, no stockings; a fine gunmetal body chain running from the nape, crossing between the shoulder blades and looping loosely around the waist, worn instead of any collar or choker, and small gunmetal hoop earrings; nails: long square-shaped acrylics lacquered in glossy electric magenta; open pointed-toe platform stiletto sandals in gunmetal mirror-chrome, 17cm razor-thin metal needle heel plus a 6-inch gunmetal platform, sharp open pointed toe, a locking gunmetal ankle strap with a pin buckle, mirrored gunmetal sole plate",
-      "setting": "a private spa plunge room in dark grey stone, steam hanging low over black water, magenta light strips set into the pool edge, wet slate underfoot",
-      "props": {
-        "seat": "a dark grey stone plunge ledge",
-        "wall": "a wall of dark honed stone",
-        "surface": "the wet slate floor beside the plunge pool",
-        "upright": "a gunmetal steam pipe column"
-      }
-    },
-    "80": {
-      "titulo": "Sapphire Mesh Private Slip",
-      "tags": "#vip #privado #zafiro #rosa #siluetacubierta #M10 #batchL76-L80 #V7poses",
-      "concepto": "VIP/Privado (+1,0). Arquitectura M10 (slip dress de malla sobre lenceria, CUBIERTA) -- bloqueadas M7, M4, M2 -- y paga la cuota de silueta cubierta de la ventana [77-80]. Es una ESCENA, no un objeto: la energia de sala privada manda. Cierra el batch volviendo al azul, ahora en zafiro, para que el eco de iris abra y cierre. Sin bata: la cuota del §8 la pago el L74 y el ratio queda 1 de 2.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense sapphire blue and pearl white shimmer smokey eye technique, blue pigment echoing the iris",
-        "high-gloss wet lips": "high-gloss wet deep crimson lips"
-      },
-      "bloque_b": "a sapphire-blue sheer crystal-mesh slip dress falling to mid-thigh, cut on the bias with a thin strap over each shoulder and a straight neckline, the mesh transparent enough that the lingerie beneath reads clearly from every angle including from behind, a small hot pink crystal set at the centre of the neckline; beneath it a sapphire satin longline bra with sheer sapphire lace cups underwired into a deep plunge, and a matching sapphire satin thong with a narrow tapered front panel and a single slim strap at the back leaving the seat bare; bare legs, no stockings; no collar and no choker, the throat left bare, with a single sapphire crystal drop earring in each ear and a slim hot pink enamel bangle on one wrist; nails: long almond-shaped acrylics lacquered in glossy sapphire blue; closed pointed-toe platform stiletto sandals in sapphire patent vinyl, 16cm razor-thin metal needle heel plus a 6-inch sapphire platform, closed pointed toe, doubled sapphire ankle straps with chrome pin buckles, mirrored chrome sole edge",
-      "setting": "a private members lounge behind a heavy curtain, deep navy velvet walls, a single low brass table set with cut crystal, cold blue light from a recessed strip and nothing else lit",
-      "props": {
-        "seat": "a deep navy velvet tufted armchair",
-        "wall": "a padded navy velvet wall panel",
-        "surface": "a low brass and glass cocktail table",
-        "upright": "a slim brass floor lamp column"
-      }
-    }
+ "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+ "_origen": "Ama 04/09/2026: 'dame 5 looks nuevos por cada muñeca, con las nuevas reglas de colorimetria aplicadas'. Primer batch de Miss Doll posterior a su iris azul, a la §5.2b (color de prenda) y a la §5.2c (color de maquillaje).",
+ "_step_0": "Roster a L75. Ventana global de arquitectura: L73=M2, L74=M3, L75=M6 -> bloqueadas M2, M3 y M6 para el L76. Secuencia verificada deslizando la ventana: L76=M1 bodysuit · L77=M7 minifalda+top (CUBIERTA) · L78=M4 corseteria · L79=M2 micro dos piezas · L80=M10 slip dress sobre lenceria (CUBIERTA). Cuota de silueta cubierta (>=1 de cada 4): la ventana [76-79] la paga el L77 y la [77-80] la pagan el L77 y el L80. Deficit de arquetipos medido sobre los 61 looks etiquetados: Club +3,5 > Bikini/Lenceria +3,2 > Calabozo +2,8 > Girly Girl +2,0 > VIP +1,0. Se toman los cinco mayores.",
+ "_girly_girl": "El Girly Girl del L77 entra a sabiendas de que los dos anteriores de ese arquetipo se rechazaron (L66 el 03/09 por vestuario infantilizante, L75 el 04/09 dentro del batch entero). Se ejecuta con el canon REDEFINIDO el 03/09: hiperfem ADULTA -- curva extrema, gloss saturado, silueta bodycon, hardware de joyeria. CERO moños, cero charms de corazon, cero mangas abullonadas, cero Mary Jane, cero pastel. Si igual no le gusta a la Ama, es un solo look y se rehace barato.",
+ "_colorimetria": "§5.2b — Miss Doll era la unica sin ancla de color hasta el 04/09; con el iris cobalto nuevo gana un eco propio, y el AZUL estaba en 8,5% de sus prendas y 5% de sus sombras. Este batch lo lidera: L76 cobalto dominante y L80 zafiro. El rosa firma cambia de rol en cada look, que es la correccion de fondo del batch rechazado (donde 5 de 5 lo tenian degradado a un detalle decorativo). El dorado del L78 va OSCURECIDO (antique gold): la Ama decidio que el dorado se queda, y la unica recomendacion tecnica que sobrevive del analisis es preferir el oro viejo al champan palido, que sobre subtono frio y platinado tira el pelo a laton.",
+ "_maquillaje": "§5.2c — candado de dos partes respetado en los cinco: ninguno lleva prenda dominante de cromo/plata, asi que la sombra queda libre; y ninguno lleva sombra gris/cromo, asi que el `blinding chrome strobing` del ADN se conserva sin bajarlo a perla. Sombra y labio se declaran por look con adn_overrides (§5.5.8) y NO se repite tono en looks consecutivos -- la regla que se incumplio 5 veces en sombra y 10 en labio sin que nadie la midiera. Cero coral, cero durazno, cero baja pigmentacion: vetados en el negative el 04/09.",
+ "_anti_monoblock": "Los cinco son bicolor o mas. Ninguno monoblock.",
+ "personaje": "miss_doll",
+ "batch": "Eco de Iris -- El Azul que le Faltaba",
+ "fecha": "04/09/2026",
+ "categoria": "Mix",
+ "rango": "L76-L80",
+ "emitir_bloque_b": true,
+ "tags_comunes": [
+  "batchL76-L80",
+  "V7poses"
+ ],
+ "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, sneakers, barefoot, kitten heel, block heel, chunky heel, wedge, heels without platform, mule, mules, platform mule, backless heels, mary jane shoes, ankle boots, short robe, mini robe, bangs, fringe over the forehead, high-waisted panty, boyshort, hipster brief, culotte, full-coverage bikini bottom, bikini bottom covering the buttocks, corset, waist cincher, bustier, decorative bows, heart charms, puffed sleeves, ruffled ankle socks, coral eyeshadow, peach eyeshadow, pastel eyeshadow, low-pigment eyeshadow, nude lips, matte lips, rosy pink lips, natural makeup, tattoos, childish face, teen, doll face, mannequin face, bodybuilder physique, overly muscular, natural breasts, small chest, warm smile, laughing",
+ "looks": {
+  "76": {
+   "titulo": "Cobalt Iris Stage Bodysuit",
+   "polo": "Club / Escenario",
+   "tags": "#club #escenario #azul #rosa #vinyl #M1 #batchL76-L80 #V7poses",
+   "concepto": "Club/Escenario, el mayor deficit del roster (+3,5). Arquitectura M1 (bodysuit segunda piel) -- bloqueadas M2, M3 y M6. Es el look que estrena su eco de iris: cobalto dominante contra el azul cobalto nuevo de sus ojos, la jugada que el estudio del 04/09 midio como la mas barata que tiene (8,5% de azul en prenda, 5% en sombra). El rosa firma va en el hardware y en la boca, no en un adorno perdido.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense saturated cobalt-blue and electric sapphire shimmer smokey eye technique, blue pigment echoing the iris",
+    "high-gloss wet lips": "high-gloss wet oxblood lips"
+   },
+   "bloque_b": "a saturated cobalt-blue high-gloss vinyl bodysuit cut as a second skin, a deep plunging V neckline held at the sternum by a hot pink chrome ring, sharp geometric cut-outs at the waist on both sides, a high-cut leg line rising well past the hip bone, the back scooped low to the tailbone with a hot pink chrome zip running to the nape; the seat cut as a thong, a single narrow strip following the centre line so both hips stay bare; bare legs, no stockings; a hot pink chrome collar with no lettering and matching hot pink chrome cuffs on both wrists; nails: long stiletto-shaped acrylics lacquered in glossy cobalt-blue chrome; closed pointed-toe platform stiletto pumps in cobalt-blue patent vinyl, 17cm razor-thin metal needle heel plus a 6-inch cobalt platform, sharp closed pointed toe, two hot pink chrome ankle straps with pin buckles, mirrored chrome sole edge",
+   "setting": "a mirrored club stage lit only in cobalt and sapphire, a low bank of blue floor lights throwing the shadow long behind her, haze catching the beams, the room beyond gone black",
+   "props": {
+    "seat": "a low cobalt-lit chrome stage step",
+    "wall": "a mirrored stage wall doubling the blue light",
+    "surface": "the mirrored stage floor",
+    "upright": "a chrome stage light column"
+   }
+  },
+  "77": {
+   "titulo": "Fuchsia Chrome Bombshell",
+   "polo": "Girly Girl",
+   "tags": "#girlygirl #fucsia #vinyl #siluetacubierta #M7 #batchL76-L80 #V7poses",
+   "concepto": "Girly Girl (+2,0), ejecutado con el canon REDEFINIDO el 03/09: hiperfem de MUJER ADULTA -- curva extrema, gloss saturado, silueta bodycon, hardware cromado como joyeria. Fucsia y magenta saturados, nunca pastel. Arquitectura M7 (minifalda + top, CUBIERTA) -- bloqueadas M3, M6, M1 -- y paga la cuota de silueta cubierta del batch. Cero moños, cero charms de corazon, cero mangas abullonadas, cero Mary Jane: son los cuatro elementos que la Ama identifico el 03/09 como los que empujan el arquetipo hacia disfraz infantil.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense hot fuchsia and warm rose-gold shimmer smokey eye technique",
+    "high-gloss wet lips": "high-gloss wet deep berry lips"
+   },
+   "negative_excluir": [
+    "warm smile",
+    "laughing"
+   ],
+   "bloque_b": "a saturated fuchsia high-gloss vinyl pencil miniskirt moulded tight over the hips and ending high on the thigh, a rose-gold chrome zip running the full length of the back seam and a wide moulded waistband sitting on the natural waist; above it a matching fuchsia vinyl longline bralette with deep moulded plunge cups and a rose-gold chrome ring at the centre gore, its band ending just under the bust so the whole toned midriff stays bare, straps crossing wide over the shoulders; a fuchsia vinyl thong beneath the skirt, its front a slim tapered panel and its back a single narrow strip; bare legs, no stockings; a heavy rose-gold chrome collar with no lettering, wide rose-gold chrome cuffs on both wrists and long faceted rose-gold drop earrings, all read as jewellery hardware; nails: long almond-shaped acrylics lacquered in glossy magenta chrome; closed pointed-toe platform stiletto pumps in fuchsia patent vinyl, 16cm razor-thin metal needle heel plus a 6-inch fuchsia platform, sharp closed pointed toe, a single rose-gold chrome ankle strap with a pin buckle, mirrored rose-gold sole edge",
+   "setting": "a luxury beauty salon at golden hour, mirrored vanity walls framed in warm bulbs, rose-gold fittings and a cream marble counter, the light warm and flattering",
+   "props": {
+    "seat": "a rose-gold framed cream velvet salon chair",
+    "wall": "a mirrored vanity wall ringed with warm bulbs",
+    "surface": "the cream marble salon counter",
+    "upright": "a slender rose-gold salon column"
+   }
+  },
+  "78": {
+   "titulo": "Carbon Antique Gold Restraint",
+   "polo": "Calabozo / Dungeon",
+   "tags": "#calabozo #dungeon #negro #oro #rosa #corseteria #M4 #batchL76-L80 #V7poses",
+   "concepto": "Calabozo/Dungeon (+2,8). Arquitectura M4 (corseteria + tanga, pierna libre) -- bloqueadas M6, M1, M7. Negro carbon con hardware de ORO VIEJO, no cromo: es la recomendacion tecnica que sobrevive del estudio (la Ama decidio que el dorado se queda, y el oro oscurecido es el unico calido que no le tira el platinado a laton). El rosa firma vive en las medias, tercera ubicacion distinta del batch.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense antique-gold and deep bronze shimmer smokey eye technique",
+    "high-gloss wet lips": "high-gloss wet blackened plum lips"
+   },
+   "negative_excluir": [
+    "corset",
+    "waist cincher",
+    "bustier"
+   ],
+   "bloque_b": "a carbon black liquid-latex overbust corset as the central piece, heavily boned with fine antique-gold boning channels visible on the outside, moulded cups lifting the bust high, a row of antique-gold busk clasps down the centre front and a wide flat antique-gold lacing panel down the back drawn tight over a black satin modesty panel, its lower edge cut to a deep point over the hip bones so the leg reads long and unbroken; below it a carbon black latex g-string, its waistband a single flat cord sitting well above the hip bone, its front a slim shield-shaped panel and its back nothing but the cord; sheer hot pink hold-up stockings, 15 denier, with a fine black seam running the back of each leg and a plain flat hot pink band at the top of the thigh; a wide antique-gold posture collar with no lettering closing at the nape and a single antique-gold ring set at the hollow of the throat; nails: long coffin-shaped acrylics lacquered in glossy blackened gold; closed almond-toe platform stiletto boots in carbon black patent latex, 17cm razor-thin metal needle heel plus a 6-inch black platform, closed almond toe, laced up the front through antique-gold eyelets with a black cord, an antique-gold plate capping the heel",
+   "setting": "a private dungeon salon of dark stone and black oak, a single warm brass lantern throwing a low pool of light, an antique-gold suspension ring set into the ceiling beam, deep shadow beyond",
+   "props": {
+    "seat": "a black oak bench upholstered in dark leather-effect vinyl",
+    "wall": "a wall of dark dressed stone",
+    "surface": "an antique-gold instrument tray on a black oak stand",
+    "upright": "a black oak ceiling post with an antique-gold ring"
+   }
+  },
+  "79": {
+   "titulo": "Electric Magenta Gunmetal String",
+   "polo": "Bikini / Lencería Erótica",
+   "tags": "#bikinilenceria #magenta #gunmetal #M2 #batchL76-L80 #V7poses",
+   "concepto": "Bikini/Lenceria Erotica (+3,2). Arquitectura M2 (micro dos piezas) -- bloqueadas M1, M7, M4. La prenda ES el sujeto de la toma (frontera §6 con VIP: la foto funciona sin el escenario). Magenta electrico dominante contra gunmetal, dos frios saturados; el rosa firma es el color principal del look, no un detalle. Corte simple a proposito: el vinilo espejado ya es material exigente.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense electric magenta and deep violet shimmer smokey eye technique",
+    "high-gloss wet lips": "high-gloss wet wine red lips"
+   },
+   "bloque_b": "an electric magenta high-gloss vinyl micro two-piece: the top a string triangle top of two magenta triangles joined by fine gunmetal chain at the centre of the back and again behind the neck, no padding and no underwire; the bottom a matching string thong, two sliding magenta triangles joined by gunmetal chain knotted at each hip and reduced at the back to one thin strip; the edges of both pieces finished with a fine gunmetal trim; bare legs, no stockings; a fine gunmetal body chain running from the nape, crossing between the shoulder blades and looping loosely around the waist, worn instead of any collar or choker, and small gunmetal hoop earrings; nails: long square-shaped acrylics lacquered in glossy electric magenta; open pointed-toe platform stiletto sandals in gunmetal mirror-chrome, 17cm razor-thin metal needle heel plus a 6-inch gunmetal platform, sharp open pointed toe, a locking gunmetal ankle strap with a pin buckle, mirrored gunmetal sole plate",
+   "setting": "a private spa plunge room in dark grey stone, steam hanging low over black water, magenta light strips set into the pool edge, wet slate underfoot",
+   "props": {
+    "seat": "a dark grey stone plunge ledge",
+    "wall": "a wall of dark honed stone",
+    "surface": "the wet slate floor beside the plunge pool",
+    "upright": "a gunmetal steam pipe column"
+   }
+  },
+  "80": {
+   "titulo": "Sapphire Mesh Private Slip",
+   "polo": "VIP / Privado",
+   "tags": "#vip #privado #zafiro #rosa #siluetacubierta #M10 #batchL76-L80 #V7poses",
+   "concepto": "VIP/Privado (+1,0). Arquitectura M10 (slip dress de malla sobre lenceria, CUBIERTA) -- bloqueadas M7, M4, M2 -- y paga la cuota de silueta cubierta de la ventana [77-80]. Es una ESCENA, no un objeto: la energia de sala privada manda. Cierra el batch volviendo al azul, ahora en zafiro, para que el eco de iris abra y cierre. Sin bata: la cuota del §8 la pago el L74 y el ratio queda 1 de 2.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense sapphire blue and pearl white shimmer smokey eye technique, blue pigment echoing the iris",
+    "high-gloss wet lips": "high-gloss wet deep crimson lips"
+   },
+   "bloque_b": "a sapphire-blue sheer crystal-mesh slip dress falling to mid-thigh, cut on the bias with a thin strap over each shoulder and a straight neckline, the mesh an unlined fine open weave, worn as the outer layer of the styling over the set beneath, a small hot pink crystal set at the centre of the neckline; beneath it a sapphire satin longline bra with sheer sapphire lace cups underwired into a deep plunge, and a matching sapphire satin thong with a narrow tapered front panel and a single slim strap at the back; bare legs, no stockings; no collar and no choker, the throat left bare, with a single sapphire crystal drop earring in each ear and a slim hot pink enamel bangle on one wrist; nails: long almond-shaped acrylics lacquered in glossy sapphire blue; closed pointed-toe platform stiletto sandals in sapphire patent vinyl, 16cm razor-thin metal needle heel plus a 6-inch sapphire platform, closed pointed toe, doubled sapphire ankle straps with chrome pin buckles, mirrored chrome sole edge",
+   "setting": "a private members lounge behind a heavy curtain, deep navy velvet walls, a single low brass table set with cut crystal, cold blue light from a recessed strip and nothing else lit",
+   "props": {
+    "seat": "a deep navy velvet tufted armchair",
+    "wall": "a padded navy velvet wall panel",
+    "surface": "a low brass and glass cocktail table",
+    "upright": "a slim brass floor lamp column"
+   }
   }
+ }
 }

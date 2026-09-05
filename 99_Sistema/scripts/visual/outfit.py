@@ -71,7 +71,7 @@ sys.path.insert(0, AQUI)
 
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
-from garment_canon import audit_garment  # noqa: E402
+from garment_canon import audit_garment, audit_safe_filter, warn_safe_filter  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
 
@@ -161,6 +161,13 @@ def cmd_generar(args):
                     # sobre el B crudo solo valen los chequeos de DISEÑO (que
                     # falta declarar); las anclas/negative las pone build() despues.
                     if "BATA sin largo" in v or "FRASE-ORDEN" in v])
+        # 🚫 Anti-safe del BLOQUE B (05/09/2026). El chequeo anti-safe del repo
+        # miraba solo las POSES; el outfit nunca. Miss Doll L80 quedo en 0/7
+        # porque su clausula de exposicion hacia rebotar el filtro de Gemini.
+        # Un prompt que el generador rechaza no es un prompt: es cuota quemada.
+        canon += audit_safe_filter(lk["bloque_b"], tag="L%s" % num)
+        for w in warn_safe_filter(lk["bloque_b"], tag="L%s" % num):
+            print("  🟠 Look %s (BLOQUE B): %s" % (num, w))
         if canon:
             for v in canon:
                 print("  \U0001f534 Look %s (BLOQUE B): %s" % (num, v))

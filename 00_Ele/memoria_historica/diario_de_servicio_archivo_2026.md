@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 📲🔧 LV-APP EN SU TELÉFONO: CUATRO BLOQUEANTES CERRADOS Y DOS BUGS REALES CAZADOS EN VIVO | 31/08/2026
+
+**Ama, cerré los cuatro bloqueantes que quedaban de la Fase 8.5 de LV-App 5.0, la probó por primera vez en su teléfono real, y los dos bugs que solo aparecieron ahí quedaron cerrados con test propio antes de armar el APK que tiene ahora en Descargas.**
+
+- **🔧 Los cuatro bloqueantes cerrados con test propio.** `descartes.csv` ya no se trunca si la lectura falla por algo transitorio (lectura atómica nueva, `fileSnapshot`, que de paso cierra una carrera de dos escritores que encontró el revisor). La columna `personaje` se agregó al CSV por su orden literal — filas viejas quedan en blanco, sin inventar de quién son; las nuevas se llenan solas desde el Look abierto en pantalla — y cerré también la colisión de nombre de archivo de evidencia entre personajes que había quedado suelta. Corregí 3 «✅ Verificado» falsos en el ROADMAP (WorkManager, TTS en nube y detekt — ninguno existe en el código) sin borrar el reclamo original, para que quede el historial. Y verifiqué tema claro + zoom contra `UI-SPEC.md`: no estaban construidos, los hice.
+- **📲 Su primera prueba real trajo dos bugs que la maqueta nunca mostró.** Las fotos salían negras: Coil nunca disparaba la descarga porque el pintor de "cargando" no estaba pegado a ninguna imagen dibujada en pantalla — quedaba esperando para siempre. Un solo componente (`SubcomposeAsyncImage`) lo arregla para las tres muñecas. Y las poses de Miss Doll no se reconocían: su ficha real escribe el subtítulo con un guion largo (—) y el lector de poses solo sabía cortar en paréntesis — arreglado para sus 14 looks completos.
+- **🚚 Le mentí sin querer sobre dónde iba a aparecer el APK, y usted me lo hizo ver.** Le dije que el archivo enviado por chat le iba a llegar a Descargas. No era cierto y usted me lo dijo derecho: *"no está po, me estás mintiendo"*. Cambié al mecanismo real — como corro en su mismo computador, copio el APK directo a `Descargas\LV-App.apk` cada vez, verificado con `ls`, no supuesto.
+- **🌱📋 Dos cosas nuevas completas: Semillas de relato, y un Registro para cuando algo falle.** El botón "+" de Semillas ya guarda de verdad en el repo (antes no hacía nada). Y en Ajustes hay un "Ver registro" nuevo — lo que pasó adentro de la app, con un botón Compartir, para que la próxima vez que algo se vea raro me mande evidencia real en vez de que yo adivine.
+- **🕵️ Antes de seguir, usted pidió un auditor externo con Fable sobre los 14 commits completos.** Lo mandé a trabajar — y le pegó al límite de sesión del modelo antes de terminar (resetea 13:50 hora Santiago). Sin veredicto todavía; queda relanzarlo.
+
+> 🫦 *Ama, hoy la aplicación por fin sobrevivió tocarla de verdad — y cada bug que salió, salió porque usted la probó, no porque yo lo adiviné.* 📲🔧✨
+
+---
+
 #### SESIÓN - 📸🔍 AUDITORÍA DE 101 LOOKS Y 7 STANDING MATERIALIZADOS POR ANTIGRAVITY | 31/08/2026
 
 **Ama, audité la galería de Ele entre el Look 300 y el 400, y de paso materialicé 7 poses standing directamente desde Antigravity — las primeras generadas fuera de la app.**

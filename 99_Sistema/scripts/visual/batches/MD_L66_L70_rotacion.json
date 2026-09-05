@@ -1,101 +1,104 @@
 {
-  "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
-  "_step_0": "Sus últimos 16 looks: Calabozo 3 · Penthouse 3 · Club 3 · Bikini/Lencería 2 · VIP 2 · Girly 1 · Editorial 1 · Gym 1. Contra las metas del perfil §6, los deficitarios son Girly Girl (6% vs 12%), Gym (6% vs 12%) y Editorial (6% vs 9%). Estos 5 los cubren y salen del bloque de lencería del batch anterior.",
-  "_cuotas": "Rosa firma presente en los 5 (obligatorio). Calzado CON PLATAFORMA en los 5, sin excepción (la única pieza 100% inamovible). Silueta cubierta ≥1 de cada 4: la pagan L68 (catsuit, M9) y L70 (vestido, M6). Bata abierta ≥1 de cada 2 en VIP/Penthouse: la paga L69, el único VIP del batch.",
-  "personaje": "miss_doll",
-  "batch": "Rotación de Arquetipos",
-  "fecha": "29/08/2026",
-  "categoria": "Mix",
-  "rango": "L66-L70",
-  "emitir_bloque_b": true,
-  "tags_comunes": [
-    "batchL66-L70",
-    "V7poses"
-  ],
-  "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, block heel, wedge, heels without platform, bangs, fringe over the forehead",
-  "looks": {
-    "66": {
-      "titulo": "Bubblegum Bow Couture",
-      "tags": "#girlygirl #rosa #vinyl #batchL66-L70 #V7poses",
-      "concepto": "Girly Girl adulta en registro Moschino de pasarela — el rosa exagerado como alta costura, nunca de guardería. Único arquetipo donde su expresión se ablanda a cálida y sonriente (§2, quiebre deliberado de personaje).",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense shimmer rose-quartz and champagne smokey eye technique",
-        "high-gloss wet lips": "high-gloss wet bubblegum pink lips"
-      },
-      "bloque_b": "a bubblegum pink patent vinyl couture mini dress: a structured sweetheart neckline with moulded cups, short puffed cap sleeves, a hem cut high on the thigh with a stiff flared peplum, an oversized architectural bow in cream patent vinyl mounted at the left hip; a bubblegum pink vinyl thong beneath; sheer blush hold-up stockings with a cream satin band; a cream vinyl choker with no lettering and a single pink enamel heart charm; platform Mary Jane stiletto pumps in bubblegum pink patent vinyl, 16cm heel plus 5-inch cream platform, closed rounded toe, a single instep strap with a cream enamel button, cream lacquered sole edge",
-      "setting": "a pink lacquered luxury salon with a cream velvet chaise, gilded mirrors and a wall of fresh peonies, warm diffused key light",
-      "props": {
-        "seat": "a cream velvet tufted chaise",
-        "wall": "a pink lacquered panelled wall",
-        "surface": "a gilded vanity console",
-        "upright": "a fluted cream lacquer column"
-      }
-    },
-    "67": {
-      "titulo": "Chrome Sweat Athletic",
-      "tags": "#gym #athletic #rosa #wetlook #batchL66-L70 #V7poses",
-      "concepto": "Gym en el registro frío de siempre — sudor glam sobre wet-look, cuerpo de gimnasio a la vista. La pierna NO va en leggings (corrección 11/08): aquí va desnuda con calcetín corto cromado.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense shimmer gunmetal and steel smokey eye technique"
-      },
-      "bloque_b": "a gunmetal chrome wet-look spandex athletic set: a high-neck zip-front sports bra with a chrome ring pull, no sleeves, cut to sit just under the bust, paired with high-cut wet-look micro shorts cut as a thong at the back with a narrow tapered front panel and a thin waistband high on the hip bones; a hot pink neon vinyl stripe down the outer seam of each short and a hot pink chrome ring at the zip pull; bare legs, no stockings, with short chrome-lamé socks folded at the ankle; a gunmetal chrome choker with no lettering; platform stiletto trainers in gunmetal chrome patent, 15cm heel plus 5-inch chrome platform, closed rounded toe, laced through chrome eyelets with a hot pink lace, mirrored chrome sole plate",
-      "setting": "a private mirrored training studio at night, chrome racks and black rubber flooring, hard directional spots bouncing off the mirrored wall and the wet-look fabric",
-      "props": {
-        "seat": "a black leather weight bench",
-        "wall": "a full-height studio mirror",
-        "surface": "a chrome dumbbell rack",
-        "upright": "a chrome squat-rack upright"
-      }
-    },
-    "68": {
-      "titulo": "Liquid Rose Catsuit Portrait",
-      "tags": "#editorial #portada #rosa #latex #siluetacubierta #batchL66-L70 #V7poses",
-      "concepto": "Editorial de portada: fondo controlado, la silueta lo es todo. Paga la cuota de silueta cubierta (M9, catsuit de pierna completa) — la primera de las dos del batch.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense shimmer rose-gold and copper smokey eye technique"
-      },
-      "bloque_b": "a dusty rose liquid latex catsuit covering the body from throat to ankle: a high mock-neck collar, long sleeves to the wrist, full-length legs moulded to the calf, a mirror-chrome zip running the full length of the front and drawn down to the sternum, the waist cinched by a hot pink patent vinyl underbust corset belt with chrome boning; no stockings, the catsuit covers the leg; a chrome choker with no lettering; platform stiletto ankle boots in dusty rose patent latex, 16cm heel plus 5-inch chrome platform, closed pointed toe, a mirror-chrome side zip, chrome sole edge",
-      "setting": "a seamless editorial cyclorama in cold pearl grey, a single hard key light and a rose gel rim from behind, nothing else in frame",
-      "props": {
-        "seat": "a minimalist chrome cube stool",
-        "wall": "the seamless cyclorama wall",
-        "surface": "a low chrome plinth",
-        "upright": "a chrome studio light stand"
-      }
-    },
-    "69": {
-      "titulo": "Champagne Silk VIP Suite",
-      "tags": "#vip #privado #rosa #bataabierta #siluetacubierta #M10 #batchL66-L70 #V7poses",
-      "concepto": "VIP/Privado: sala privada, uno a uno, sin dominación. Arquitectura M10 (slip dress de malla sobre lencería) — cubre la silueta sin tapar el morbo. Paga además la cuota de bata abierta del arquetipo (§5.1b): la bata enmarca, el slip dress es la prenda.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense shimmer champagne and bronze smokey eye technique"
-      },
-      "bloque_b": "a champagne mesh slip dress worn as the main garment over the lingerie beneath, sheer enough to read the set through it: a bias-cut cowl neckline, no sleeves with fine spaghetti straps, a hem falling to mid-calf with a split to the thigh on one side; beneath it a hot pink liquid latex longline bra and a matching hot pink latex thong with a narrow tapered front panel, a thin waistband high on the hip bones and a single slim strip at the back leaving the seat uncovered; over both, a floor-length champagne wet-satin robe worn open, its hem sweeping the floor, its sash hanging loose and never tied; sheer champagne hold-up stockings with a straight back seam; a chrome choker with no lettering; closed pointed-toe platform stiletto pumps in champagne patent vinyl, 15cm heel plus 4.5-inch platform, sharp closed pointed toe, two champagne satin ankle straps with chrome pin buckles, chrome sole edge",
-      "setting": "a private VIP lounge of a members club, deep champagne velvet banquettes, a low smoked-glass table with cut crystal, amber lamplight and a curtain of beads at the entrance",
-      "props": {
-        "seat": "a champagne velvet banquette",
-        "wall": "a padded champagne velvet wall panel",
-        "surface": "a smoked-glass low table",
-        "upright": "a brass lounge column"
-      }
-    },
-    "70": {
-      "titulo": "Magenta Chrome Stage Sovereign",
-      "tags": "#club #escenario #rosa #vinyl #siluetacubierta #batchL66-L70 #V7poses",
-      "concepto": "Club/Escenario, su arquetipo de mayor peso (18%). Segunda silueta cubierta del batch (M6, vestido) — el escenario no obliga a dos piezas.",
-      "adn_overrides": {
-        "intense shimmer smokey eye technique": "intense shimmer magenta and violet smokey eye technique"
-      },
-      "bloque_b": "an electric magenta high-gloss vinyl mini dress: an architectural one-shoulder asymmetric neckline with the right shoulder bare, a single long sleeve on the left arm only, a hem cut high on the thigh, the body moulded and seamless with a mirror-chrome zip at the side; a magenta vinyl thong beneath; sheer black hold-up stockings with a chrome-clasp suspender belt just visible at the hem; a mirror-chrome choker with no lettering and a single chrome cuff on the bare right wrist; closed pointed-toe platform stiletto pumps in mirror-chrome, 17cm heel plus 5.5-inch chrome platform, sharp closed pointed toe, two chrome ankle straps with pin buckles, mirrored chrome sole edge",
-      "setting": "the mirrored stage of an upscale club, a chrome pole to one side, magenta and cold white spotlights cutting through low haze, the mirrored floor doubling the gloss",
-      "props": {
-        "seat": "the edge of the mirrored stage",
-        "wall": "a mirrored stage backdrop",
-        "surface": "the polished stage floor",
-        "upright": "the chrome dance pole"
-      }
-    }
+ "_dueno_unico": "Un batch de looks es DATOS. El programa que los emite es outfit.py.",
+ "_step_0": "Sus últimos 16 looks: Calabozo 3 · Penthouse 3 · Club 3 · Bikini/Lencería 2 · VIP 2 · Girly 1 · Editorial 1 · Gym 1. Contra las metas del perfil §6, los deficitarios son Girly Girl (6% vs 12%), Gym (6% vs 12%) y Editorial (6% vs 9%). Estos 5 los cubren y salen del bloque de lencería del batch anterior.",
+ "_cuotas": "Rosa firma presente en los 5 (obligatorio). Calzado CON PLATAFORMA en los 5, sin excepción (la única pieza 100% inamovible). Silueta cubierta ≥1 de cada 4: la pagan L68 (catsuit, M9) y L70 (vestido, M6). Bata abierta ≥1 de cada 2 en VIP/Penthouse: la paga L69, el único VIP del batch.",
+ "personaje": "miss_doll",
+ "batch": "Rotación de Arquetipos",
+ "fecha": "29/08/2026",
+ "categoria": "Mix",
+ "rango": "L66-L70",
+ "emitir_bloque_b": true,
+ "tags_comunes": [
+  "batchL66-L70",
+  "V7poses"
+ ],
+ "negative_extra": "matte natural fabric, cotton, wool, tweed, denim, flat shoes, block heel, wedge, heels without platform, bangs, fringe over the forehead",
+ "looks": {
+  "66": {
+   "titulo": "Bubblegum Bow Couture",
+   "polo": "Girly Girl",
+   "tags": "#girlygirl #rosa #vinyl #batchL66-L70 #V7poses",
+   "concepto": "Girly Girl adulta en registro Moschino de pasarela — el rosa exagerado como alta costura, nunca de guardería. Único arquetipo donde su expresión se ablanda a cálida y sonriente (§2, quiebre deliberado de personaje).",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense shimmer rose-quartz and champagne smokey eye technique",
+    "high-gloss wet lips": "high-gloss wet bubblegum pink lips"
+   },
+   "bloque_b": "a bubblegum pink patent vinyl couture mini dress: a structured sweetheart neckline with moulded cups, short puffed cap sleeves, a hem cut high on the thigh with a stiff flared peplum, an oversized architectural bow in cream patent vinyl mounted at the left hip; a bubblegum pink vinyl thong beneath; sheer blush hold-up stockings with a cream satin band; a cream vinyl choker with no lettering and a single pink enamel heart charm; platform Mary Jane stiletto pumps in bubblegum pink patent vinyl, 16cm heel plus 5-inch cream platform, closed rounded toe, a single instep strap with a cream enamel button, cream lacquered sole edge",
+   "setting": "a pink lacquered luxury salon with a cream velvet chaise, gilded mirrors and a wall of fresh peonies, warm diffused key light",
+   "props": {
+    "seat": "a cream velvet tufted chaise",
+    "wall": "a pink lacquered panelled wall",
+    "surface": "a gilded vanity console",
+    "upright": "a fluted cream lacquer column"
+   }
   },
-  "_correccion_29_08": "L69: llevaba `platform mule` y su arquetipo es VIP/Privado. El mule es EXCLUSIVO de Lenceria (Ama 09/07/2026) -- lo caza `outfit.py auditar`. Cambiado a sandalia de plataforma con tobilleras.",
-  "_correccion_29_08_step0": "L69 salió primero como M3 (conjunto de lencería) y el linter lo cazó: M3 ya estaba dentro de la ventana global de 3 arquitecturas (previos M6, M3, M9). Rediseñado a M10, que además está en la lista de VIP del perfil §5.6 y suma una tercera silueta cubierta al batch."
+  "67": {
+   "titulo": "Chrome Sweat Athletic",
+   "tags": "#gym #athletic #rosa #wetlook #batchL66-L70 #V7poses",
+   "concepto": "Gym en el registro frío de siempre — sudor glam sobre wet-look, cuerpo de gimnasio a la vista. La pierna NO va en leggings (corrección 11/08): aquí va desnuda con calcetín corto cromado.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense shimmer gunmetal and steel smokey eye technique"
+   },
+   "bloque_b": "a gunmetal chrome wet-look spandex athletic set: a high-neck zip-front sports bra with a chrome ring pull, no sleeves, cut to sit just under the bust, paired with high-cut wet-look micro shorts cut as a thong at the back with a narrow tapered front panel and a thin waistband high on the hip bones; a hot pink neon vinyl stripe down the outer seam of each short and a hot pink chrome ring at the zip pull; bare legs, no stockings, with short chrome-lamé socks folded at the ankle; a gunmetal chrome choker with no lettering; platform stiletto trainers in gunmetal chrome patent, 15cm heel plus 5-inch chrome platform, closed rounded toe, laced through chrome eyelets with a hot pink lace, mirrored chrome sole plate",
+   "setting": "a private mirrored training studio at night, chrome racks and black rubber flooring, hard directional spots bouncing off the mirrored wall and the wet-look fabric",
+   "props": {
+    "seat": "a black leather weight bench",
+    "wall": "a full-height studio mirror",
+    "surface": "a chrome dumbbell rack",
+    "upright": "a chrome squat-rack upright"
+   }
+  },
+  "68": {
+   "titulo": "Liquid Rose Catsuit Portrait",
+   "tags": "#editorial #portada #rosa #latex #siluetacubierta #batchL66-L70 #V7poses",
+   "concepto": "Editorial de portada: fondo controlado, la silueta lo es todo. Paga la cuota de silueta cubierta (M9, catsuit de pierna completa) — la primera de las dos del batch.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense shimmer rose-gold and copper smokey eye technique"
+   },
+   "bloque_b": "a dusty rose liquid latex catsuit covering the body from throat to ankle: a high mock-neck collar, long sleeves to the wrist, full-length legs moulded to the calf, a mirror-chrome zip running the full length of the front and drawn down to the sternum, the waist cinched by a hot pink patent vinyl underbust corset belt with chrome boning; no stockings, the catsuit covers the leg; a chrome choker with no lettering; platform stiletto ankle boots in dusty rose patent latex, 16cm heel plus 5-inch chrome platform, closed pointed toe, a mirror-chrome side zip, chrome sole edge",
+   "setting": "a seamless editorial cyclorama in cold pearl grey, a single hard key light and a rose gel rim from behind, nothing else in frame",
+   "props": {
+    "seat": "a minimalist chrome cube stool",
+    "wall": "the seamless cyclorama wall",
+    "surface": "a low chrome plinth",
+    "upright": "a chrome studio light stand"
+   }
+  },
+  "69": {
+   "titulo": "Champagne Silk VIP Suite",
+   "polo": "VIP / Privado",
+   "tags": "#vip #privado #rosa #bataabierta #siluetacubierta #M10 #batchL66-L70 #V7poses",
+   "concepto": "VIP/Privado: sala privada, uno a uno, sin dominación. Arquitectura M10 (slip dress de malla sobre lencería) — cubre la silueta sin tapar el morbo. Paga además la cuota de bata abierta del arquetipo (§5.1b): la bata enmarca, el slip dress es la prenda.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense shimmer champagne and bronze smokey eye technique"
+   },
+   "bloque_b": "a champagne mesh slip dress worn as the main garment over the lingerie beneath, sheer enough to read the set through it: a bias-cut cowl neckline, no sleeves with fine spaghetti straps, a hem falling to mid-calf with a split to the thigh on one side; beneath it a hot pink liquid latex longline bra and a matching hot pink latex thong with a narrow tapered front panel, a thin waistband high on the hip bones and a single slim strip at the back leaving the seat uncovered; over both, a floor-length champagne wet-satin robe worn open, its hem sweeping the floor, its sash hanging loose and never tied; sheer champagne hold-up stockings with a straight back seam; a chrome choker with no lettering; closed pointed-toe platform stiletto pumps in champagne patent vinyl, 15cm heel plus 4.5-inch platform, sharp closed pointed toe, two champagne satin ankle straps with chrome pin buckles, chrome sole edge",
+   "setting": "a private VIP lounge of a members club, deep champagne velvet banquettes, a low smoked-glass table with cut crystal, amber lamplight and a curtain of beads at the entrance",
+   "props": {
+    "seat": "a champagne velvet banquette",
+    "wall": "a padded champagne velvet wall panel",
+    "surface": "a smoked-glass low table",
+    "upright": "a brass lounge column"
+   }
+  },
+  "70": {
+   "titulo": "Magenta Chrome Stage Sovereign",
+   "polo": "Club / Escenario",
+   "tags": "#club #escenario #rosa #vinyl #siluetacubierta #batchL66-L70 #V7poses",
+   "concepto": "Club/Escenario, su arquetipo de mayor peso (18%). Segunda silueta cubierta del batch (M6, vestido) — el escenario no obliga a dos piezas.",
+   "adn_overrides": {
+    "intense shimmer smokey eye technique": "intense shimmer magenta and violet smokey eye technique"
+   },
+   "bloque_b": "an electric magenta high-gloss vinyl mini dress: an architectural one-shoulder asymmetric neckline with the right shoulder bare, a single long sleeve on the left arm only, a hem cut high on the thigh, the body moulded and seamless with a mirror-chrome zip at the side; a magenta vinyl thong beneath; sheer black hold-up stockings with a chrome-clasp suspender belt just visible at the hem; a mirror-chrome choker with no lettering and a single chrome cuff on the bare right wrist; closed pointed-toe platform stiletto pumps in mirror-chrome, 17cm heel plus 5.5-inch chrome platform, sharp closed pointed toe, two chrome ankle straps with pin buckles, mirrored chrome sole edge",
+   "setting": "the mirrored stage of an upscale club, a chrome pole to one side, magenta and cold white spotlights cutting through low haze, the mirrored floor doubling the gloss",
+   "props": {
+    "seat": "the edge of the mirrored stage",
+    "wall": "a mirrored stage backdrop",
+    "surface": "the polished stage floor",
+    "upright": "the chrome dance pole"
+   }
+  }
+ },
+ "_correccion_29_08": "L69: llevaba `platform mule` y su arquetipo es VIP/Privado. El mule es EXCLUSIVO de Lenceria (Ama 09/07/2026) -- lo caza `outfit.py auditar`. Cambiado a sandalia de plataforma con tobilleras.",
+ "_correccion_29_08_step0": "L69 salió primero como M3 (conjunto de lencería) y el linter lo cazó: M3 ya estaba dentro de la ventana global de 3 arquitecturas (previos M6, M3, M9). Rediseñado a M10, que además está en la lista de VIP del perfil §5.6 y suma una tercera silueta cubierta al batch."
 }

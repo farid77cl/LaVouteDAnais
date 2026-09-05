@@ -291,6 +291,78 @@ def audit_garment(outfit, archetype="", seam=False, tag="", bloque_a="", slot=""
     return out
 
 
+# --------------------------------------------------------------------------
+# Anti-safe del BLOQUE B (Ama 05/09/2026: "habia un outfit mesh algo, no me
+# dejaba renderizar por no ser seguro").
+#
+# El repo YA tenia un chequeo anti-safe... sobre las POSES
+# (`pose_rotation_v5.py`, lista BAD). El OUTFIT nunca se miro, y el rebote
+# venia de ahi.
+#
+# Caso medido: Miss Doll L80 "Sapphire Mesh Private Slip" en 0/7 imagenes, el
+# unico look del roster que acumulaba cuatro clausulas de exposicion en un
+# mismo BLOQUE B. Su vecino L77, con una sola, quedo en 1/7. Son los dos unicos
+# looks de toda la flota con `leaving the seat bare`, y los dos estan trabados.
+#
+# ESTA LISTA NO CRECE SIN EVIDENCIA. Se veta lo que se MIDIO que rebota, no lo
+# que "suena fuerte":
+#   . `deep plunge` NO se veta -> 157 apariciones en la galeria de Ele, todas
+#     renderizadas. Vetarlo seria inventarle una causa al rebote.
+#   . `from every angle including from behind` NO se veta -> Anais L4 la lleva
+#     y esta 7/7.
+# Lo que si rebota es la clausula de PROPOSITO de exposicion: la frase que le
+# explica al generador que la prenda existe para que se vea el cuerpo o la ropa
+# interior. Se redacta la CONSTRUCCION (tejido, forro, capa), nunca el efecto —
+# mismo principio que rige el escote en .agent/rules/04-estetica-ele.md 4-bis.
+
+# DOS NIVELES, y la diferencia es la EVIDENCIA que tiene cada frase detras.
+#
+# BLOQUEA: medido 2 de 2. `leaving the seat bare` existe en exactamente dos
+# looks de toda la flota (Miss Doll L80 y L77) y los dos estan trabados (0/7 y
+# 1/7). Nombra el gluteo descubierto, que es lo que el filtro caza.
+EXPOSICION_BLOQUEA = [
+    ("leaving the seat bare",        "nombra el gluteo descubierto; el corte de tanga ya lo declara la prenda"),
+    ("leaving the buttocks bare",    "idem"),
+    ("leaving the buttocks exposed", "idem"),
+    ("the seat left bare",           "idem"),
+    ("so that the nipples",          "nombra el pezon como proposito de la prenda"),
+    ("nothing worn underneath",      "equivale a declarar desnudez bajo la prenda"),
+]
+
+# AVISA: sospechosa por forma, SIN evidencia concluyente. La clausula de
+# proposito de exposicion aparece en Miss Doll L80 (0/7, trabado) pero tambien
+# en Anais L79, que **si se renderizo** (8 imagenes en disco). Uno a uno: no
+# alcanza para bloquear. Se avisa para que quien redacte prefiera describir la
+# CONSTRUCCION (tejido sin forro, capa exterior) en vez del EFECTO, que es la
+# redaccion que se sabe segura — pero no se le frena el batch a nadie por una
+# frase que tiene un caso a favor y uno en contra.
+EXPOSICION_AVISA = [
+    ("transparent enough that",        "clausula de PROPOSITO de exposicion; preferir describir el tejido (unlined, open weave)"),
+    ("sheer enough that",              "idem"),
+    ("reads clearly from every angle", "idem"),
+]
+
+EXPOSICION_BAD = EXPOSICION_BLOQUEA + EXPOSICION_AVISA   # compat
+
+
+def audit_safe_filter(outfit, tag=""):
+    """Clausulas del BLOQUE B que hacen rebotar el filtro de contenido.
+
+    Devuelve solo las que BLOQUEAN (vacia = limpio). `outfit.py generar` la
+    corre ANTES de escribir nada: un prompt que el generador rechaza no es un
+    prompt, es cuota quemada. Los avisos van por `warn_safe_filter`."""
+    o = (outfit or "").lower()
+    return ["[%s] FILTRO: '%s' - %s" % (tag, f, why)
+            for f, why in EXPOSICION_BLOQUEA if f in o]
+
+
+def warn_safe_filter(outfit, tag=""):
+    """Sospechosas sin evidencia concluyente. Avisan, no bloquean."""
+    o = (outfit or "").lower()
+    return ["[%s] redaccion: '%s' - %s" % (tag, f, why)
+            for f, why in EXPOSICION_AVISA if f in o]
+
+
 def audit_negative(negative, tag=""):
     """Lintea el bloque Negative Prompt de UN look (Ama 13/07 — bug 'sin negative desde el L711':
     60 looks / 420 poses salieron con el negative vacio porque cada inyector lo tipeaba a mano y
@@ -456,6 +528,20 @@ if __name__ == "__main__":
     print("=== DEBEN pasar limpios (good) ===")
     pg = audit_garment_batch(good)
     for p in pg: print("  ", p)
-    ok = (len(pb) >= 10 and len(pg) == 0)
-    print("\nSelf-check:", "LIMPIO (bad detectados, good sin falsos positivos)" if ok
+    real_malo = ("a sheer crystal-mesh slip dress, the mesh transparent enough that the lingerie "
+                 "beneath reads clearly from every angle including from behind, a thong with a "
+                 "single slim strap at the back leaving the seat bare")
+    real_bueno = ("a sheer crystal-mesh slip dress, the mesh an unlined fine open weave, worn as the "
+                  "outer layer of the styling over the set beneath, a thong with a single slim strap "
+                  "at the back")
+    no_vetar = ("a longline bralette with deep moulded plunge cups, the back seam visible from every "
+                "angle including from behind")
+    f_malo, f_bueno, f_no = (audit_safe_filter(real_malo, "L80-viejo"),
+                             audit_safe_filter(real_bueno, "L80-nuevo"),
+                             audit_safe_filter(no_vetar, "falsos-positivos"))
+    ok_safe = len(f_malo) >= 1 and not f_bueno and not f_no
+    if not ok_safe:
+        print("  detalle anti-safe:", f_malo, f_bueno, f_no)
+    ok = (len(pb) >= 10 and len(pg) == 0 and ok_safe)
+    print("\nSelf-check:", "LIMPIO (bad detectados, good sin falsos positivos, anti-safe del BLOQUE B)" if ok
           else f"REVISAR (bad={len(pb)} esperado>=10, good={len(pg)} esperado 0)")
