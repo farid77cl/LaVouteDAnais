@@ -69,6 +69,7 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.normpath(os.path.join(AQUI, "..", "..", ".."))
 sys.path.insert(0, AQUI)
 
+from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
 from garment_canon import audit_garment  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
@@ -177,6 +178,32 @@ def cmd_generar(args):
         if ctx:
             cab += " (%s)" % " · ".join(ctx)
         out += [cab, ""]
+
+        # 🏷️ ARQUETIPO COMO CAMPO — no solo entre parentesis (05/09/2026).
+        #
+        # `generar` metia el arquetipo UNICAMENTE en el parentesis del
+        # encabezado. Pero la regla de deficit (§6 de cada perfil, Paso 1 del
+        # engine) cuenta el CAMPO `**Categoria:**` / `**Arquetipo:**`, y el §6
+        # de Anais lo exige literal. Medido el 05/09, con la Ama pidiendo el
+        # balance de arquetipos: **Miss Doll tenia 64 de 80 looks sin etiqueta**
+        # y sus L66-L80 no la traen ni en el encabezado, porque su batch JSON
+        # tampoco declara `polo`. O sea que desde que los batches pasaron a
+        # JSON (29/08) la regla de deficit dejo de ser medible sobre lo nuevo.
+        #
+        # Un arquetipo que no se escribe como campo es un arquetipo que no se
+        # puede contar, y una cuota que no se cuenta no existe.
+        arquetipo = (lk.get("polo") or lk.get("arquetipo") or b.get("categoria") or "").strip()
+        # "Mix" es el paraguas que el §6 de Ele derogo explicitamente ("el
+        # paraguas Mix ya no existe"): pasa el chequeo de presencia y no dice
+        # nada. Es lo que traian los batches de Miss Doll — por eso sus L66-L80
+        # quedaron fuera del conteo aunque el campo existiera.
+        if arquetipo.lower() in ("", "mix", "varios", "-", "n/a"):
+            print("  \U0001f534 Look %s: arquetipo ausente o generico (%r). Declara \"polo\" "
+                  "en el look con uno de los nombres del §6 de %s — un arquetipo que no se "
+                  "puede contar no cumple ninguna cuota."
+                  % (num, arquetipo, pb.perfil.get("nombre", b["personaje"])))
+            return 1
+        out += ["**%s:** %s" % (pb.perfil.get("campo_arquetipo", "Categoria"), arquetipo), ""]
         # carpeta_imagenes + prefijo_carpeta_look + numero + slug. Los tres campos
         # salen del perfil: la ruta es contrato con LV-App, que filtra por subcadena.
         out.append("- **Ubicacion:** `%s/%s%s_%s/`"
@@ -258,6 +285,36 @@ def cmd_generar(args):
                 % pb.build_negative(lk.get("negative_extra", b.get("negative_extra", "")),
                                     excluir=lk.get("negative_excluir", b.get("negative_excluir"))),
                 "", "---", ""]
+
+    # ------------------------------------------------------------------
+    # Canon de color — CABLEADO EL 05/09/2026. Antes era letra muerta.
+    #
+    # `color_canon.py` decia en su propio docstring que "todo inyector DEBE
+    # correr audit_color_batch antes de escribir la galeria". Medido: nadie lo
+    # llamaba. La unica referencia del repo era `outfit.py test`, que corre su
+    # SELF-CHECK sobre fixtures. Cuando los batches pasaron a ser JSON +
+    # `generar` (29/08), el inyector que debia llamarlo dejo de existir y la
+    # regla se quedo sin ejecutor — habria cazado 4 colisiones del batch de
+    # colorimetria del 04/09, y no cazo ninguna hasta que la Ama las vio a ojo.
+    #
+    # Va DESPUES de armar los prompts y ANTES de escribir: si el color esta
+    # mal, no se escribe nada. El color se lee del BLOQUE B, nunca del prompt
+    # ensamblado (mismo criterio que la arquitectura de prenda: las anclas
+    # nombran colores y el clasificador se leeria a si mismo).
+    orden = sorted(b["looks"].items(), key=lambda kv: int(kv[0]))
+    entrada = [{"look": n, "garment": lk["bloque_b"]} for n, lk in orden]
+    duros, avisos = audit_rotacion_familia(entrada, pb.perfil.get("rotacion_color"))
+    for a in avisos:
+        print("  \U0001f7e0 %s" % a)
+    if duros:
+        print("\n  \U0001f534 CANON DE COLOR — el batch no se escribe:")
+        for d in duros:
+            print("     %s" % d)
+        print("\n     Ama 05/09/2026: \"no puedo tener 3 outfit con el mismo color\".")
+        print("     Hay libertad de color; lo que hay es un tope de %s por familia en %s looks."
+              % ((pb.perfil.get("rotacion_color") or {}).get("max_por_familia", 2),
+                 (pb.perfil.get("rotacion_color") or {}).get("ventana", 5)))
+        return 1
 
     texto = "\n".join(out)
     if "--stdout" in args:

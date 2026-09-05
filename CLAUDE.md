@@ -138,6 +138,11 @@ python 99_Sistema/scripts/visual/lint_galeria.py              # galeria_outfits.
 python 99_Sistema/scripts/visual/outfit.py                    # the engine's single CLI — generar · adn · lint · auditar · anclas · modularidad · test · stats
 python 99_Sistema/scripts/visual/outfit.py modularidad       # 0 character names in engine logic · own fields declared · sub-poses unique per character
 python 99_Sistema/scripts/visual/outfit.py cruce             # clones of outfit ACROSS the three dolls + against the previous batch
+#   Also enforces the colour cap (Ama 05/09): max 2 per chromatic family per 5-look window AND never
+#   back-to-back. Colour freedom (12/06) stands — the cap exists because the 04/09 colorimetry narrowed
+#   each doll's practical range. Owner: `rotacion_color` in anclas_universales.json; families live in
+#   `color_canon.FAMILY` (single owner). `color_canon.py` had NO caller until 05/09 — its own docstring
+#   claimed every injector ran it; only `outfit.py test` did, over fixtures. `generar` now runs and blocks.
 #   ⚠️ The gap every other check was blind to (Ama 05/09): `rotacion_prenda` compares a doll to herself,
 #   and its window is 3 looks while a batch is 5. On the 04/09 colorimetry batch all four auditors were
 #   green while 5 pairs shared an identical garment architecture across dolls (up to 39 verbatim 8-word

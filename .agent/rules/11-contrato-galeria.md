@@ -243,6 +243,43 @@ El 04/09 se midió que las tres muñecas **funcionan igual** (§9quinquies). El 
 
 ---
 
+## 9septies. 🎨 TOPE DE COLOR Y CAMPO DE ARQUETIPO — las dos reglas que existían sin ejecutor (05/09/2026)
+
+### A · El tope de familia cromática
+
+> **Ama:** *"hay libertad de color, pero con la colorimetría ahora se limitó, pero no puedo tener 3 outfit con el mismo color, así que dale balance y restricciones."*
+
+**La libertad del 12/06/2026 NO se repone ni se deroga.** No hay familias vetadas, no vuelven las cuotas ni el cero-solapamiento de batch. Lo que cambió es el **contexto**: la colorimetría del 04/09 ancló a cada muñeca a un eco de iris (verde · cobalto · ámbar), y con el rango de hecho más angosto **la misma libertad produce más colisiones**. Por eso un tope, no una prohibición.
+
+**Dos restricciones, y juntas son el balance:**
+
+| | Regla | Bloquea |
+|---|---|---|
+| 1 | **máx. 2 por familia** en una ventana de 5 looks | sí — el **tercero** es la violación, el segundo no |
+| 2 | **los 2 permitidos no van pegados** | sí |
+
+**La segunda existe porque sin ella la regla no caza lo que la Ama vio.** Medido: Ele salió `verde·verde·azul·azul·violeta` — eso **cumple** el tope de 2 y es exactamente *"repitiendo los mismos colores muy seguido"*. El tope limita la **cantidad**; lo que faltaba era gobernar la **distribución**. Con las dos, `verde·azul·verde·azul·violeta` pasa y `verde·verde·azul·azul·violeta` no.
+
+**El balance no necesita regla propia:** con máx. 2 por familia en 5 looks, el peor caso posible es 2+2+1 — **siempre ≥3 familias distintas por batch**.
+
+**Dueño:** `personajes.<slug>.rotacion_color` en `anclas_universales.json` (ventana · tope · `desde_look`). Taxonomía de familias: **`color_canon.FAMILY`, dueño único** — `auditar_cruce_batches.py` la importa, no la copia. `desde_look`: Ele 823 · Miss Doll 81 · Anaïs 81 (retrofit-al-tocar; **la Ama eligió la opción (a) el 05/09: el batch del 04/09 no se regenera**, sus imágenes ya están subidas).
+
+> ⚠️ **`color_canon.py` era letra muerta y nadie lo sabía.** Su propio docstring mandaba: *"todo inyector DEBE correr `audit_color_batch` antes de escribir la galería"*. Medido el 05/09: **la única referencia en todo el repo era `outfit.py test`**, que corre su *self-check* sobre seis fixtures. Cuando los batches pasaron a JSON + `generar` (29/08), el inyector que debía llamarlo dejó de existir y la regla se quedó **sin ejecutor**. Su regla 3 habría cazado **4 colisiones reales** del batch del 04/09 y no cazó ninguna. Ahora `cmd_generar` lo corre y **bloquea el batch**. Mismo patrón que `footwear_canon`/`garment_canon` en CLAUDE.md: **un self-test verde no es una flota limpia.**
+
+### B · El arquetipo tiene que ser un CAMPO, no un paréntesis
+
+La regla de déficit (§6 de cada perfil · Paso 1 del engine) cuenta el campo `**Categoria:**` / `**Arquetipo:**`, y el §6 de Anaïs lo exige literal. **`generar` nunca lo emitió**: metía el arquetipo solo entre paréntesis en el encabezado. Consecuencia medida el 05/09, al pedir la Ama el balance de arquetipos:
+
+| Muñeca | Looks con el campo | Sin etiqueta legible |
+|---|---|---|
+| Ele | 497 de 623 | 23 |
+| **Miss Doll** | **16 de 80** | **14 (L66-L80)** — sus batches ni declaran `polo` |
+| Anaïs | 65 de 80 | 0 *(el encabezado la salva)* |
+
+**Un arquetipo que no se escribe como campo es un arquetipo que no se puede contar, y una cuota que no se cuenta no existe.** Desde hoy `generar` **escribe el campo y bloquea si falta** — y rechaza también `Mix`, el paraguas que el §6 de Ele derogó explícitamente y que era justo lo que traían los batches de Miss Doll. El nombre del campo es propio de cada muñeca (`campo_arquetipo` en `anclas_universales.json`): Ele conserva `Categoria` sin tilde porque así están escritos sus 497 looks y renombrarlo rompería su parseo.
+
+---
+
 ## 9quinquies. 📐 PARIDAD ENTRE LAS TRES GALERÍAS — MEDIDA, NO DECLARADA (04/09/2026)
 
 > **Ama:** *"en algun momento te pedi que el outfit engine fuera modular y que las 3 muñecas funcionaran igual en el proceso de punta a cabo… realmente se cumplio?"*

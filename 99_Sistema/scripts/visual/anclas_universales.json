@@ -349,6 +349,8 @@
   "personajes": {
     "ele": {
       "nombre": "Ele",
+      "campo_arquetipo": "Categoria",
+      "_campo_arquetipo_porque": "Nombre del campo de arquetipo que `generar` escribe en la galeria. Es propio de cada muñeca porque su galeria ya esta escrita: Ele lleva '**Categoria:**' (sin tilde) en 497 looks y renombrarlo romperia su parseo; el §6 de Anais exige literalmente '**Arquetipo:**'. Añadido 05/09/2026 al descubrir que `generar` NUNCA emitio este campo — metia el arquetipo solo entre parentesis en el encabezado —, y que por eso el balance de arquetipos (Paso 1 · regla de deficit) era inmedible para todo lo generado desde el 29/08: Miss Doll tenia 64 de 80 looks sin etiqueta y sus L66-L80 no la tienen ni en el encabezado.",
       "slot5_nombre": "Ditzy",
       "slot5_slug": "ditzy",
       "galeria": "00_Ele/galeria_outfits.md",
@@ -432,11 +434,28 @@
         "desde_look": 818,
         "_desde_look_porque": "Ele iba en 818 looks el 04/09/2026: la ventana arranca en el PROXIMO look nuevo y no juzga retroactivamente 618 looks ya materializados. Misma convencion retrofit-al-tocar que uso miss_doll con su desde_look 26."
       },
+      "rotacion_color": {
+        "_porque": "Ama 05/09/2026: 'hay libertad de color, pero con la colorimetria ahora se limito, pero no puedo tener 3 outfit con el mismo color, asi que dale balance y restricciones'. NO repone la derogacion del 12/06 (libertad total de color y materiales): no hay familias vetadas ni cuotas obligatorias. Lo que cambio es el CONTEXTO — la colorimetria del 04/09 anclo a cada muñeca a un eco de iris y eso estrecha de hecho el rango que usa, asi que la misma libertad produce mas colisiones. Por eso un TOPE, no una prohibicion.",
+        "ventana": 5,
+        "_ventana_porque": "5 = el tamaño real de un batch. La ventana de silueta es de 3 y ese fue justamente su punto ciego (las repeticiones caian a distancia 5-6, fuera de la ventana). Aca se mide contra el batch entero.",
+        "max_por_familia": 2,
+        "_max_porque": "Literal: 'no puedo tener 3 outfit con el mismo color'. El TERCERO es la violacion, el segundo no.",
+        "_balance_porque": "El balance sale del tope y no necesita regla propia: con max 2 por familia en una ventana de 5, el peor caso posible es 2+2+1, o sea SIEMPRE >=3 familias distintas por batch.",
+        "prohibir_consecutivos": true,
+        "_consecutivos_porque": "Segunda mitad del 'balance'. Sin esto la regla NO caza lo que la Ama vio: Ele salio verde-verde-azul-azul-violeta, que CUMPLE el tope de 2 y aun asi es exactamente 'repitiendo los mismos colores muy seguido'. El tope limita la cantidad; esto gobierna la distribucion. Con las dos, verde-azul-verde-azul-violeta pasa y verde-verde-azul-azul-violeta no.",
+        "eco_de_iris": "green — eco de su iris grey-green",
+        "_eco_porque": "Informativo, NO es cuota. Se anota para que quien diseñe sepa cual es la familia firma de esta muñeca y no la gaste sin querer en dos looks de relleno.",
+        "desde_look": 823,
+        "_desde_look_porque": "Retrofit-al-tocar, misma convencion que rotacion_prenda. La Ama eligio la opcion (a) el 05/09: el batch de colorimetria del 04/09 NO se regenera — sus imagenes ya estan subidas — y la regla gobierna desde el proximo look.",
+        "_taxonomia": "Las familias las define color_canon.FAMILY (dueño unico). No duplicar la tabla aca."
+      },
       "outfit_inline": true,
       "_outfit_inline_porque": "Ama 04/09/2026. La galeria de Ele declara el outfit en un campo de UNA LINEA (`- **Outfit (BLOQUE B):** `...``), no en un bloque con fence ```text como Miss Doll y Anais. No es desprolijidad: medido ese dia, meterle el bloque con fence hace que LV-App ingiera 8 prompts donde hay 7 y que el slot Standing reciba dos -> PrimaryKey REPLACE y una toma perdida en silencio. Sus prompts usan fences desnudos y su galeria no tolera uno mas. 27 de sus looks ya usaban este campo y tenian razon. Contrato completo: regla 11 §9quinquies."
     },
     "miss_doll": {
       "nombre": "Miss Doll",
+      "campo_arquetipo": "Arquetipo",
+      "_campo_arquetipo_porque": "Nombre del campo de arquetipo que `generar` escribe en la galeria. Es propio de cada muñeca porque su galeria ya esta escrita: Ele lleva '**Categoria:**' (sin tilde) en 497 looks y renombrarlo romperia su parseo; el §6 de Anais exige literalmente '**Arquetipo:**'. Añadido 05/09/2026 al descubrir que `generar` NUNCA emitio este campo — metia el arquetipo solo entre parentesis en el encabezado —, y que por eso el balance de arquetipos (Paso 1 · regla de deficit) era inmedible para todo lo generado desde el 29/08: Miss Doll tenia 64 de 80 looks sin etiqueta y sus L66-L80 no la tienen ni en el encabezado.",
       "slot5_nombre": "Glacial Command",
       "slot5_slug": "glacial_command",
       "galeria": "02_Personajes/01_Principales/miss_doll/GALERIA_OUTFITS_MISS_DOLL.md",
@@ -475,11 +494,28 @@
         ],
         "_historicos_porque": "Ama 04/09/2026. Al enseñarle al chequeo 12 a leer los tres formatos de galeria, Miss Doll paso de 59 a 75 looks clasificados y afloraron 2 violaciones reales del Look 42 (M1 repetida en la ventana + cuota cubierta 0/4 en L39-L42). Son de verdad, pero el look esta materializado 7/7 desde el 21/08/2026 y no se regenera: la ventana nunca lo goberno porque el lector no sabia leerlo. Se declara aqui, con numero y motivo, en vez de subir desde_look (que habria tapado tambien lo que venga despues) y en vez de dejarlo en rojo permanente (un linter que grita por lo inarreglable enseña a ignorarlo). Cualquier violacion NUEVA sigue siendo CRITICO."
       },
+      "rotacion_color": {
+        "_porque": "Ama 05/09/2026: 'hay libertad de color, pero con la colorimetria ahora se limito, pero no puedo tener 3 outfit con el mismo color, asi que dale balance y restricciones'. NO repone la derogacion del 12/06 (libertad total de color y materiales): no hay familias vetadas ni cuotas obligatorias. Lo que cambio es el CONTEXTO — la colorimetria del 04/09 anclo a cada muñeca a un eco de iris y eso estrecha de hecho el rango que usa, asi que la misma libertad produce mas colisiones. Por eso un TOPE, no una prohibicion.",
+        "ventana": 5,
+        "_ventana_porque": "5 = el tamaño real de un batch. La ventana de silueta es de 3 y ese fue justamente su punto ciego (las repeticiones caian a distancia 5-6, fuera de la ventana). Aca se mide contra el batch entero.",
+        "max_por_familia": 2,
+        "_max_porque": "Literal: 'no puedo tener 3 outfit con el mismo color'. El TERCERO es la violacion, el segundo no.",
+        "_balance_porque": "El balance sale del tope y no necesita regla propia: con max 2 por familia en una ventana de 5, el peor caso posible es 2+2+1, o sea SIEMPRE >=3 familias distintas por batch.",
+        "prohibir_consecutivos": true,
+        "_consecutivos_porque": "Segunda mitad del 'balance'. Sin esto la regla NO caza lo que la Ama vio: Ele salio verde-verde-azul-azul-violeta, que CUMPLE el tope de 2 y aun asi es exactamente 'repitiendo los mismos colores muy seguido'. El tope limita la cantidad; esto gobierna la distribucion. Con las dos, verde-azul-verde-azul-violeta pasa y verde-verde-azul-azul-violeta no.",
+        "eco_de_iris": "blue — eco de su iris cobalto (04/09)",
+        "_eco_porque": "Informativo, NO es cuota. Se anota para que quien diseñe sepa cual es la familia firma de esta muñeca y no la gaste sin querer en dos looks de relleno.",
+        "desde_look": 81,
+        "_desde_look_porque": "Retrofit-al-tocar, misma convencion que rotacion_prenda. La Ama eligio la opcion (a) el 05/09: el batch de colorimetria del 04/09 NO se regenera — sus imagenes ya estan subidas — y la regla gobierna desde el proximo look.",
+        "_taxonomia": "Las familias las define color_canon.FAMILY (dueño unico). No duplicar la tabla aca."
+      },
       "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon.",
       "conflicto_resuelto_13_08_2026": "Las 'piernas en V' de su Throne en Suelo CHOCAN con DRESS_LEG_CLOSURE (Ama 13/08/2026) cuando el look es de vestido/falda/bata. Gana la directiva de la Ama: en esos looks el Odalisque se resuelve con las dos piernas plegadas hacia un lado (sirena), NO en V. La V queda reservada a los looks de calzón/bikini/catsuit. Codificado en el perfil §4 y en repertorios_pose.json."
     },
     "anais": {
       "nombre": "Anaïs Belland",
+      "campo_arquetipo": "Arquetipo",
+      "_campo_arquetipo_porque": "Nombre del campo de arquetipo que `generar` escribe en la galeria. Es propio de cada muñeca porque su galeria ya esta escrita: Ele lleva '**Categoria:**' (sin tilde) en 497 looks y renombrarlo romperia su parseo; el §6 de Anais exige literalmente '**Arquetipo:**'. Añadido 05/09/2026 al descubrir que `generar` NUNCA emitio este campo — metia el arquetipo solo entre parentesis en el encabezado —, y que por eso el balance de arquetipos (Paso 1 · regla de deficit) era inmedible para todo lo generado desde el 29/08: Miss Doll tenia 64 de 80 looks sin etiqueta y sus L66-L80 no la tienen ni en el encabezado.",
       "slot5_nombre": "Sovereign Gaze",
       "slot5_slug": "sovereign_gaze",
       "galeria": "02_Personajes/01_Principales/anais/galeria_looks_anais.md",
@@ -540,6 +576,21 @@
         "_cuota_porque": "Anais es la mas cubierta de las tres por canon (vestido/falda). La cuota le queda holgada a proposito: no esta ahi para forzarla a cubrirse, sino para que la ventana de arquitectura tenga con que comparar.",
         "desde_look": 76,
         "_desde_look_porque": "Anais iba en 75 looks el 04/09/2026. Arranca en el proximo. No se retrofitea el roster L01-L75, igual que en las otras dos."
+      },
+      "rotacion_color": {
+        "_porque": "Ama 05/09/2026: 'hay libertad de color, pero con la colorimetria ahora se limito, pero no puedo tener 3 outfit con el mismo color, asi que dale balance y restricciones'. NO repone la derogacion del 12/06 (libertad total de color y materiales): no hay familias vetadas ni cuotas obligatorias. Lo que cambio es el CONTEXTO — la colorimetria del 04/09 anclo a cada muñeca a un eco de iris y eso estrecha de hecho el rango que usa, asi que la misma libertad produce mas colisiones. Por eso un TOPE, no una prohibicion.",
+        "ventana": 5,
+        "_ventana_porque": "5 = el tamaño real de un batch. La ventana de silueta es de 3 y ese fue justamente su punto ciego (las repeticiones caian a distancia 5-6, fuera de la ventana). Aca se mide contra el batch entero.",
+        "max_por_familia": 2,
+        "_max_porque": "Literal: 'no puedo tener 3 outfit con el mismo color'. El TERCERO es la violacion, el segundo no.",
+        "_balance_porque": "El balance sale del tope y no necesita regla propia: con max 2 por familia en una ventana de 5, el peor caso posible es 2+2+1, o sea SIEMPRE >=3 familias distintas por batch.",
+        "prohibir_consecutivos": true,
+        "_consecutivos_porque": "Segunda mitad del 'balance'. Sin esto la regla NO caza lo que la Ama vio: Ele salio verde-verde-azul-azul-violeta, que CUMPLE el tope de 2 y aun asi es exactamente 'repitiendo los mismos colores muy seguido'. El tope limita la cantidad; esto gobierna la distribucion. Con las dos, verde-azul-verde-azul-violeta pasa y verde-verde-azul-azul-violeta no.",
+        "eco_de_iris": "warm gold/amber — eco de su iris miel; ojo con su colision cuadruple de rojo (perfil §5.2b)",
+        "_eco_porque": "Informativo, NO es cuota. Se anota para que quien diseñe sepa cual es la familia firma de esta muñeca y no la gaste sin querer en dos looks de relleno.",
+        "desde_look": 81,
+        "_desde_look_porque": "Retrofit-al-tocar, misma convencion que rotacion_prenda. La Ama eligio la opcion (a) el 05/09: el batch de colorimetria del 04/09 NO se regenera — sus imagenes ya estan subidas — y la regla gobierna desde el proximo look.",
+        "_taxonomia": "Las familias las define color_canon.FAMILY (dueño unico). No duplicar la tabla aca."
       }
     }
   }

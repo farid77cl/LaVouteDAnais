@@ -82,30 +82,17 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.abspath(os.path.join(AQUI, "..", "..", ".."))
 sys.path.insert(0, AQUI)
 
+from color_canon import audit_rotacion_familia, detect_dominant, familia_de  # noqa: E402
 from lint_prompts_personaje import clasificar_arquitectura  # noqa: E402
 from prompt_builder import cargar_config  # noqa: E402
 
 BATCHES = os.path.join(AQUI, "batches")
 
-# Familias cromaticas. Es la paleta declarada en identidad_ele.md §II
-# (Spectrum Expansion) agrupada por familia, mas los neutros/tierra que usa
-# Anais. Los metales NO son familia: son acabado y se combinan sobre cualquier
-# base (mismo criterio que el iridiscente en el canon).
-FAMILIAS = {
-    "verde":        ["green", "jade", "emerald", "olive", "lime", "chartreuse", "esmeralda"],
-    "azul":         ["blue", "cobalt", "sapphire", "navy", "cyan", "teal", "indigo", "turquoise", "peacock"],
-    "rosa/magenta": ["pink", "fuchsia", "magenta", "flamingo", "bubblegum", "rose "],
-    "violeta":      ["violet", "purple", "aubergine", "berenjena", "plum", "lilac", "lavender"],
-    "rojo":         ["red", "crimson", "cherry", "oxblood", "wine", "burgundy", "scarlet"],
-    "naranja":      ["orange", "tangerine", "coral", "apricot"],
-    "amarillo":     ["yellow", "acid ", "gold-lime"],
-    "negro":        ["black", "carbon", "onyx", "jet "],
-    "neutro/tierra": ["ivory", "cream", "white", "chocolate", "camel", "brown", "beige",
-                      "nude", "tan ", "marfil", "taupe", "sand"],
-}
-# Acabados metalicos: se ignoran como familia dominante.
-METALES = ["gold", "silver", "chrome", "bronze", "copper", "pewter", "gunmetal",
-           "graphite", "steel", "mercury", "brass"]
+# ⚠️ La taxonomia de familias cromaticas NO vive aca: es `color_canon.FAMILY`,
+# su dueño unico, y de ahi salen `detect_dominant` y `familia_de`. La primera
+# version de este archivo (05/09/2026, mismo dia) traia su propia tabla de
+# familias — o sea el mismo error que este auditor existe para cazar: dos
+# criterios distintos midiendo lo mismo. Corregido antes de commitear.
 
 UMBRAL_LEXICO_ROJO = 45.0     # % de lexico compartido -> 🔴
 UMBRAL_LEXICO_NARANJA = 35.0
@@ -132,14 +119,10 @@ def cargar_batches(nombres=None, desde=None):
     return salida
 
 
-def familia_de(texto):
-    t = texto.lower()
-    for m in METALES:                       # el metal es acabado, no familia
-        t = t.replace(m, " ")
-    for fam, palabras in FAMILIAS.items():
-        if any(w in t for w in palabras):
-            return fam
-    return None
+def familia_del_look(bloque_b):
+    """Familia cromatica dominante de un BLOQUE B, via color_canon (dueño unico)."""
+    dom = detect_dominant(bloque_b)
+    return familia_de(dom) if dom else None
 
 
 def palabras(t):
@@ -180,8 +163,7 @@ def main(argv):
         for num, lk in sorted(j.get("looks", {}).items(), key=lambda kv: int(kv[0])):
             b = lk.get("bloque_b", "")
             cod, _cub, _av = clasificar_arquitectura(b, tax) if tax else (None, None, None)
-            fam = familia_de(lk.get("titulo", "") + " " + b[:220])
-            looks.append((pj, base, num, lk.get("titulo", ""), b, cod, fam))
+            looks.append((pj, base, num, lk.get("titulo", ""), b, cod, familia_del_look(b)))
 
     print("=" * 78)
     print("🔀 AUDITOR CRUZADO — %d looks de %d batches" % (len(looks), len(lote)))
@@ -218,22 +200,34 @@ def main(argv):
     if not pares:
         print("   ✅ ninguna arquitectura compartida entre muñecas")
 
-    # ---- X3 : familia cromatica repetida dentro del batch -------------------
-    print("\nX3 · FAMILIA CROMATICA REPETIDA DENTRO DEL MISMO BATCH")
+    # ---- X3 : tope de familia cromatica (Ama 05/09/2026) --------------------
+    # "hay libertad de color, pero con la colorimetria ahora se limito, pero no
+    #  puedo tener 3 outfit con el mismo color, asi que dale balance y
+    #  restricciones". El tope y la ventana viven en `rotacion_color` de cada
+    #  personaje (anclas_universales.json) — aca solo se aplican.
+    print("\nX3 · TOPE DE FAMILIA CROMATICA (máx. por familia en la ventana)")
+    perfiles = cfg.get("personajes", {})
     for base, _j in lote:
         deste = [l for l in looks if l[1] == base]
-        cuenta = {}
-        for l in deste:
-            cuenta.setdefault(l[6] or "?", []).append("L" + l[2])
-        rep = {f: ns for f, ns in cuenta.items() if f != "?" and len(ns) > 1}
+        if not deste:
+            continue
+        rot = (perfiles.get(deste[0][0]) or {}).get("rotacion_color")
+        entrada = [{"look": l[2], "garment": l[4]} for l in deste]
+        duros_c, avisos_c = audit_rotacion_familia(entrada, rot)
         detalle = " · ".join("L%s=%s" % (l[2], l[6] or "?") for l in deste)
-        if rep:
-            msg = "%s: %s   (%s)" % (base, ", ".join("%s×%d (%s)" % (f, len(n), ",".join(n))
-                                                     for f, n in rep.items()), detalle)
-            avisos.append(("X3", msg))
-            print("   🟠 " + msg)
-        else:
-            print("   ✅ %s: %d familias distintas   (%s)" % (base, len(cuenta), detalle))
+        distintas = len({l[6] for l in deste if l[6]})
+        for d in duros_c:
+            rojos.append(("X3", "%s · %s" % (base, d)))
+            print("   🔴 %s · %s" % (base, d))
+        for a in avisos_c:
+            avisos.append(("X3", "%s · %s" % (base, a)))
+            print("   🟠 %s · %s" % (base, a))
+        if not duros_c and not avisos_c:
+            print("   ✅ %s: %d familias distintas   (%s)" % (base, distintas, detalle))
+        elif not duros_c:
+            print("      %s → %d familias distintas   (%s)" % (base, distintas, detalle))
+        if not rot:
+            print("      ⚠️  %s no declara `rotacion_color` en anclas_universales.json" % deste[0][0])
 
     # ---- X4 : arquitectura repetida contra el batch anterior del personaje --
     print("\nX4 · ARQUITECTURA REPETIDA CONTRA EL BATCH ANTERIOR DEL MISMO PERSONAJE")
