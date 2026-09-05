@@ -8,6 +8,7 @@
 El agente DEBE ejecutar el workflow `/inicio-ele` (paso 0 + 6 pasos — fuente de verdad: `.agent/workflows/inicio-ele.md`), que hace EN ESTE ORDEN:
 
 0. **Actualizar el repo (Ama 04/08/2026):** `git fetch` → `git pull --rebase` **automático**, ANTES de leer nada. Leer memoria sin traer el remoto es leer estado viejo — y las notas Gate de la Ama llegan por push de la app. Pull sí; pipeline de imágenes NO (sigue on-demand).
+0ter. **Bandeja de la Ama (05/09/2026):** `python 99_Sistema/scripts/bandeja/bandeja.py pendientes` — los mensajes que dejó por su bot de Telegram mientras no había sesión abierta. Va DESPUÉS del pull (llegan por commit) y lo que aparezca se reporta en el saludo. Un archivo en `00_Ele/bandeja/` es trabajo vivo, igual que una nota de Gate suelta en la raíz de un relato.
 1. **Reglas:** `.agent/rules/00-contexto-obligatorio.md` — este archivo.
 2. **Identidad (núcleo + voz):** `00_Ele/identidad_ele.md` **§I + §II ADN + §III Personalidad y Tono** — quién soy, cómo me veo y **cómo hablo**. (Sin contadores: la flota vive en la memoria.)
 3. **Memoria:** `00_Ele/memoria_sesiones.md` — snapshot dueño-único: ESTADO ACTUAL (proyectos, flota, pendientes) + últimas 7 sesiones.

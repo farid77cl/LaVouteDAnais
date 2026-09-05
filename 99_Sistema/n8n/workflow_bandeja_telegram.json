@@ -1,0 +1,136 @@
+{
+  "name": "La Voute — Bandeja de la Ama (Telegram -> repo)",
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "nodes": [
+    {
+      "parameters": {
+        "updates": [
+          "message"
+        ],
+        "additionalFields": {}
+      },
+      "id": "trigger-telegram",
+      "name": "La Ama escribe",
+      "type": "n8n-nodes-base.telegramTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        -120,
+        0
+      ],
+      "webhookId": "bandeja-ele",
+      "credentials": {
+        "telegramApi": {
+          "id": "REEMPLAZAR",
+          "name": "Bot de La Voute"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Bandeja de la Ama — arma el archivo .md que se commitea al repo.\n//\n// SEGURIDAD: el repo es PUBLICO y este flujo escribe en el. Sin este filtro,\n// cualquiera que encuentre el bot puede commitear. AUTORIZADO debe ser el id\n// numerico de Telegram de la Ama; mientras valga 0 el flujo no escribe nada.\nconst AUTORIZADO = 0;   // <-- REEMPLAZAR por el id de la Ama (lo da @userinfobot)\n\nconst salida = [];\nfor (const item of $input.all()) {\n  const m = (item.json.message || item.json.channel_post || {});\n  const from = m.from || {};\n  const texto = (m.text || m.caption || '').trim();\n\n  if (!AUTORIZADO || Number(from.id) !== Number(AUTORIZADO)) continue;\n  if (!texto) continue;\n\n  // Hora de Chile. n8n corre en UTC dentro del contenedor: sin esto el sello\n  // del archivo queda 4 horas adelantado y el orden de la bandeja miente.\n  const d = new Date(((m.date || 0) * 1000) - (4 * 60 * 60 * 1000));\n  const p = (n) => String(n).padStart(2, '0');\n  const sello = `${d.getUTCFullYear()}-${p(d.getUTCMonth() + 1)}-${p(d.getUTCDate())}` +\n                `_${p(d.getUTCHours())}${p(d.getUTCMinutes())}`;\n\n  const slug = texto.toLowerCase()\n    .normalize('NFD').replace(/[\\u0300-\\u036f]/g, '')\n    .replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '').slice(0, 40) || 'mensaje';\n\n  const nombre = `${sello}_${slug}.md`;\n  const iso = new Date((m.date || 0) * 1000).toISOString();\n\n  const contenido =\n    '---\\n' +\n    'origen: telegram\\n' +\n    `de: ${(from.first_name || 'Ama')}${from.username ? ' (@' + from.username + ')' : ''}\\n` +\n    `chat_id: ${m.chat ? m.chat.id : from.id}\\n` +\n    `message_id: ${m.message_id || ''}\\n` +\n    `fecha: ${iso}\\n` +\n    'estado: pendiente\\n' +\n    '---\\n\\n' +\n    texto + '\\n';\n\n  salida.push({ json: {\n    ruta: `00_Ele/bandeja/${nombre}`,\n    nombre,\n    contenido,\n    commit: `Ama: mensaje por Telegram (${sello})`,\n    chat_id: m.chat ? m.chat.id : from.id,\n  }});\n}\nreturn salida;\n"
+      },
+      "id": "code-armar",
+      "name": "Filtra y arma el .md",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        120,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "operation": "create",
+        "owner": {
+          "__rl": true,
+          "value": "farid77cl",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "LaVouteDAnais",
+          "mode": "name"
+        },
+        "filePath": "={{ $json.ruta }}",
+        "binaryData": false,
+        "fileContent": "={{ $json.contenido }}",
+        "commitMessage": "={{ $json.commit }}"
+      },
+      "id": "github-commit",
+      "name": "Deja el archivo en el repo",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1,
+      "position": [
+        360,
+        0
+      ],
+      "credentials": {
+        "githubApi": {
+          "id": "REEMPLAZAR",
+          "name": "GitHub La Voute"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "chatId": "={{ $('Filtra y arma el .md').item.json.chat_id }}",
+        "text": "=Anotado, Ama. Queda en su bandeja: {{ $('Filtra y arma el .md').item.json.nombre }} 🦦💄",
+        "additionalFields": {
+          "appendAttribution": false
+        }
+      },
+      "id": "telegram-acuse",
+      "name": "Acuse a la Ama",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [
+        600,
+        0
+      ],
+      "credentials": {
+        "telegramApi": {
+          "id": "REEMPLAZAR",
+          "name": "Bot de La Voute"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "La Ama escribe": {
+      "main": [
+        [
+          {
+            "node": "Filtra y arma el .md",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filtra y arma el .md": {
+      "main": [
+        [
+          {
+            "node": "Deja el archivo en el repo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Deja el archivo en el repo": {
+      "main": [
+        [
+          {
+            "node": "Acuse a la Ama",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

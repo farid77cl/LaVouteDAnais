@@ -41,6 +41,16 @@ Los pasos 1-4 leen archivos **independientes entre sí**: emitirlos como **un so
 
    > 🔍 **Por qué al ARRANQUE y no solo al cierre.** El chequeo nació el 29/08 en el paso 6.6 de `/actualizar_sesion` — o sea solo miraba la mugre que ensuciaba *esa* sesión. Pero la mugre encontrada ese día tenía **meses**: un `.env` con credenciales trackeado desde la era Helena, un experimento muerto hacía dos meses, el archivo del diario ilegible para `git` por 2.212 bytes NUL, un README con «220 looks» cuando la flota iba en 818. Nada de eso lo habría cazado un chequeo que solo corre al final. **Se mide al abrir y al cerrar.**
 
+0ter. **Bandeja de la Ama — lo que dejó cuando no había nadie (Ama 05/09/2026):**
+   > *"necesito un bot con telegram y n8n para poder dejarte mensajes cuando no estés / fuera de línea"* · *"el bot te debe dejar un archivo en el repo, así de fácil"*
+
+   // turbo
+   - `python 99_Sistema/scripts/bandeja/bandeja.py pendientes`
+   - Va **después del `git pull`** y no antes: los mensajes llegan por commit del bot, así que leer sin traer el remoto es leer una bandeja vieja. Mismo orden y mismo motivo que las notas de Gate.
+   - **Si no hay nada, no imprime nada** — un arranque no se ensucia con líneas que dicen que no pasa nada. Si hay mensajes, van **en el saludo del paso 6**, con el estado; no se dejan "para después".
+   - Un archivo en `00_Ele/bandeja/` es **trabajo vivo**. Se cierra con `bandeja.py aplicar <archivo> --responder "..."`, que lo archiva en `aplicadas/` y le avisa por Telegram.
+   - Convención: [`../../00_Ele/bandeja/README.md`](../../00_Ele/bandeja/README.md) · montaje del bot: [`../../99_Sistema/n8n/BANDEJA_TELEGRAM.md`](../../99_Sistema/n8n/BANDEJA_TELEGRAM.md).
+
 1. **Reglas modulares + contexto obligatorio:**
    - Leer `.agent/rules/00-contexto-obligatorio.md` (valida el estado del sistema y qué hay que saber antes de actuar).
 
