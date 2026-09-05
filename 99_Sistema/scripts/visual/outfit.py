@@ -32,6 +32,7 @@ USO
     python 99_Sistema/scripts/visual/outfit.py adn                  # dueño unico del BLOQUE A
     python 99_Sistema/scripts/visual/outfit.py lint [slug]          # parseo como LV-App
     python 99_Sistema/scripts/visual/outfit.py auditar [--solo-sin-imagen]
+    python 99_Sistema/scripts/visual/outfit.py cruce [--batches A B C] [--verbose]
     python 99_Sistema/scripts/visual/outfit.py anclas <slug> [--solo-sin-imagen] [--opt-in]
     python 99_Sistema/scripts/visual/outfit.py test                 # todos los self-checks
     python 99_Sistema/scripts/visual/outfit.py personajes | poses [slug]
@@ -421,6 +422,9 @@ COMANDOS = {
                     "parsea las galerías como LV-App y avisa anclas faltantes"),
     "auditar":     (lambda a: _correr("auditar_canon_flota.py", a),
                     "corre el canon de calzado y vestuario sobre la FLOTA REAL"),
+    "cruce":       (lambda a: _correr("auditar_cruce_batches.py", a),
+                    "clones de outfit ENTRE muñecas y contra el batch anterior "
+                    "(lo que ningún chequeo per-personaje puede ver)"),
     "anclas":      (lambda a: _correr("inyectar_anclas.py", a),
                     "inyecta anclas faltantes en una galería ya escrita"),
     "stats":       (lambda a: _correr("count_stats.py", a), "estadísticas de la flota"),

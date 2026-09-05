@@ -115,6 +115,16 @@ Antes de proponer cualquier look, consultar la galería del personaje y **bloque
 >
 > **Dónde vive:** `anclas_universales.json` → `arquitecturas_de_prenda` (taxonomía M1-M10 genérica) + `personajes.<slug>.rotacion_prenda` (ventana global · cuota de silueta cubierta · `desde_look`). El **chequeo 12** del linter lo mide. Se clasifica **solo el BLOQUE B**, nunca el prompt ensamblado: sus propias anclas nombran bikini, bodysuit, dress y skirt — clasificar sobre el prompt completo es el clasificador leyéndose a sí mismo.
 
+> 🔀 **Y esa ventana tiene DOS puntos ciegos, medidos el 05/09/2026 — corre `outfit.py cruce`.**
+> La Ama, mirando el batch de colorimetría: *"estás repitiendo los mismos colores muy seguido, a Miss Doll le diste el mismo outfit con colores distintos, y a las 3 les diste el mismo outfit."* Tenía razón en los tres cargos, y **los cuatro auditores estaban en verde** (`auditar` 0 violaciones · `adn` LIMPIO · `modularidad` LIMPIA · `lint` CRÍTICOS 0). Las dos causas son estructurales, no descuido:
+>
+> 1. **`rotacion_prenda` es PER-PERSONAJE.** Compara a Ele con Ele. **Nada en el motor comparaba a Ele con Anaïs**, así que las tres muñecas podían salir el mismo día con el mismo corset y las tres pasaban limpias. Medido: 5 pares con arquitectura idéntica entre muñecas, hasta **39 n-gramas de 8 palabras clonados verbatim** (Miss Doll L78 ↔ Anaïs L80).
+> 2. **La `ventana_global` es de 3 y los batches son de 5.** Miss Doll repitió **3 de 5** arquitecturas del batch inmediatamente anterior, todas a distancia 5-6 — fuera de la ventana, invisibles. Eso es literalmente "el mismo outfit con otro color". Anaïs venía peor: **5 de 5** (todas M6) contra su batch previo.
+>
+> **La lección del método, que es la de siempre acá:** un chequeo verde solo prueba que miró donde miró. La ventana existía, estaba cableada a las tres desde el 04/09 y no era suficiente — **el eje que faltaba no era per-personaje sino entre personajes.** Mismo patrón que `modularidad` reportando LIMPIA con 630 poses de Ele sin numerar.
+>
+> **`outfit.py cruce`** mide los cuatro ejes: **X1** arquitectura idéntica entre muñecas · **X2** cláusulas clonadas verbatim (n-gramas ≥8 palabras) · **X3** familia cromática repetida dentro de un batch · **X4** arquitectura repetida contra el batch anterior del mismo personaje. Reutiliza `clasificar_arquitectura` y la taxonomía M1-M10 a propósito: un segundo clasificador con criterio propio es exactamente como nació el problema de auditar la misma galería dos veces con reglas incompatibles. **Se corre ANTES de `generar`, no después.**
+
 ---
 
 ### Paso 1 · Arquetipo por déficit

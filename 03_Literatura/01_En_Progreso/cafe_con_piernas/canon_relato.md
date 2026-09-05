@@ -44,7 +44,7 @@ La Ama leyó Cap 4 v0.3 (rework quirúrgico sobre sus notas vivas de v0.2 — fl
 
 **Ejecutado:** Cap 3 "El Minuto Feliz" y Cap 4 "La Entrega" publicados en `02_Finalizadas/cafe_con_piernas/` (título+cabecera+gancho+HTML body-only, prosa verificada byte a byte idéntica a la aprobada, mismo patrón que Caps 1-2). El relato queda **completo y cerrado, 4/4 capítulos** (~44.200 palabras). Kit Wattpad completo generado por primera vez para el relato (`prompts_portada.md` + `kit_wattpad.md`, portada + 4 banners, 25 tags) — no existía kit hasta este cierre porque los Caps 1-2 se publicaron sin él.
 
-**⚠️ Hallazgo DIFF-DE-CANON, no corregido (reportado, no editado sin su okey):** §6 Mapa de Capítulos, la tabla de 9 peldaños/Caps 1-9 y los pivotes P3 (Cap 6)/P4 (Cap 7)/P5 (Cap 8-9) describen una arquitectura de 9 capítulos que el relato derogó hace tiempo (GATE 3, 31/08) — el relato real tiene 4 capítulos y el mecanismo P3 real (Cupcake se entera por escucha robada, no por confesión directa; da el líquido a Felipe, no a un "Matías" traído por Arturo) no coincide con lo descrito en la tabla. Es deuda heredada, señalada ya el 20/08 y el 23/08 en `walkthrough.md` como "no afecta la lectura porque el capítulo de cierre siempre fue el último escrito" — pero con el relato ahora publicado, §6 queda como documentación de un plan abandonado, no de lo que el lector va a leer. Pendiente: reescribir §6 (Fase 1.5) cuando la Ama lo autorice — no urgente para lo ya publicado, sí para cualquier consulta futura del canon.
+**✅ Hallazgo DIFF-DE-CANON — RESUELTO EL 05/09/2026 (Fase 1.5, orden de la Ama: «actualízalo»).** Se reportó acá el 01/09 sin editar, por regla: §6 Mapa de Capítulos, la tabla de peldaños con columnas «Cap 5/6/9» y los pivotes P3/P4/P5 describían una arquitectura de **9 capítulos** derogada por el GATE 3 (31/08). Con el relato ya cerrado y publicado dejó de ser un plan en curso y pasó a ser un plano viejo dentro del archivo que cualquiera leería como canon. **Reescrito §6 entero contra los cuatro capítulos publicados y contra `cronologia.md`**, y de paso corregidos los cinco residuos de la misma mentira que vivían fuera de §6: los encabezados de P3/P4/P5, el mecanismo real de P3 y P5 (escucha robada + ella bebiendo sabiendo, en vez de una revelación hablada), la curva de resistencia §4c, el punto 4 de §6b-bis, la columna «Caps» de la tabla de estados de la voz §6c, y dos frases canónicas de §9 que citaban escenas que nunca se escribieron.
 
 ## 🔴 GATE 3 — 31/08/2026, el Cap 3 se parte en dos (decisión editorial, no negociable)
 
@@ -104,20 +104,20 @@ Javiera le pierde el rastro a su amiga Camila y la ve reaparecer en redes conver
 - **Emoción objetivo:** alivio + ambición + un miedo que decide no mirar.
 - **Error fatal:** que el local se lo sugiera **en esta primera vez**. La primera tiene que ser 100% de ella, sin testigo y **fuera del local** — es lo que blinda las Leyes 1 y 3 para todo el resto del relato. También es fatal que se dé cuenta de que la voz no es suya: **cree que está decidiendo**.
 
-### P3 — Se le muere la coartada en la boca · Cap 6, después de la Descarga 2
-- **Qué ocurre:** en el privado consigue la respuesta —Camila trabajó ahí, ascendió, se fue con un cliente, se casó—, dicha como chisme de camarín, sin drama. Vuelve al turno igual. Empieza a decir *"es que si entro al privado voy a poder…"* y no la termina.
+### P3 — Se le muere la coartada en la boca · **Cap 3, cierre** *(corregido 05/09: el plan lo ponía en un «Cap 6» que no existe)*
+- **Qué ocurre (mecanismo real, v0.5 en adelante):** **no se lo cuentan — lo oye.** Va a buscar algodón a la bodega y, sin que la vean, escucha a don Nelson y a Yasna hablando *entre ellos*: que el líquido no hace gustar el trabajo, hace olvidar que no gustaba; y que a Ivanna/Camila «se la llevó completo» un casero hace cuatro meses. Se retira antes de ser vista, nadie sabe que escuchó, y el capítulo no lo vuelve a mencionar. Vuelve al turno igual. ⛔ Deroga la versión del plan, en que se lo contaban como chisme de camarín.
 - **Por qué excita:** no la descubren, no la castigan, nadie le mintió. Ya no queda nada que averiguar, ni siquiera una mala excusa. El secreto estaba a la vista y no servía de nada saberlo.
-- **Emoción objetivo:** vacío + calor + envidia (le tiene envidia a Camila: la línea más atroz del relato).
+- **Emoción objetivo:** vacío + calor + **gusto por su propio poder**. ⛔ **La envidia a Camila quedó derogada por la Ama el 28/08/2026** (*«cupcake no tiene envidia de camila, le gusta su nueva vida y de poder usar su nuevo poder»*) — el texto escrito ya la cumple; esta línea decía lo contrario.
 - **Error fatal:** dramatizarlo. Y que la coartada muera ANTES de que acepte el privado — muere después.
 
-### P4 — El tramo ciego · Cap 7
+### P4 — El tramo ciego · **disuelto en el Cap 4** *(corregido 05/09: no llegó a ser capítulo propio — es la textura del turno entero, no una escena)*
 - **Qué ocurre:** sigue trabajando sin ninguna razón que darse. Lúcida, sobria, con la plata guardada y con adónde ir. Le preguntan por qué sigue y no contesta.
 - **Por qué excita:** la puerta está abierta, ella la ve, y se queda. No contesta porque decir *"porque quiero"* en voz alta lo haría real.
 - **Emoción objetivo:** ganas limpias + terror del lector + soledad.
 - **Error fatal:** darle una razón. Ni despecho, ni resignación, ni costumbre. Solo ganas.
 
-### P5 — El sí informado · Cap 8 (la revelación) → Cap 9 (la cámara)
-- **Qué ocurre:** le cuentan todo con el aparato apagado —sin música, sin penumbra, sin taco, sin olor a café—: que sabían desde el primer día, que hace meses el local dejó de hacerle nada y todo lo demás lo hizo sola, dónde está su amiga y quién la puso ahí. Y dice que sí.
+### P5 — El sí informado · **Cap 3, cierre** *(corregido 05/09: el plan lo repartía entre un «Cap 8» y un «Cap 9» que no existen; **la cámara nunca se escribió y queda derogada**)*
+- **Qué ocurre (mecanismo real, H15):** nadie se sienta a contarle nada. **Ya lo sabe todo por la escucha robada**, y esa misma noche, sola, con el salón a oscuras y el lavadero a un paso, encuentra el vaso tibio detrás del vaporizador y **se lo bebe entero sabiendo lo que oyó**. El «sí» no se lo pide nadie: se lo da ella a sí misma, sin testigo. El aparato está apagado —sin música, sin clientes, sin turno— y el sí no cambia: esa es exactamente la contraprueba que pedía este pivote. ⛔ Deroga la escena de revelación hablada del plan de 9 capítulos.
 - **Por qué excita:** mientras la engañan, el lector puede compadecerla y quedarse tranquilo. Cuando ella dice que sí sabiendo, esa salida se cierra: no hay víctima, hay una mujer que lo quiere. La coartada de ella y la del lector mueren en la misma página.
 - **Emoción objetivo:** erección + culpa + admiración, las tres juntas.
 - **Error fatal:** que el ambiente le saque el sí. Contraprueba: quitale todo el aparato a esa escena; si el sí cambia, está mal escrita.
@@ -202,9 +202,9 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 - **Ninguna cesión ocurre en la escena donde se propone.** Entre la oferta y el sí hay un hueco de horas o días donde lo piensa, se asusta y casi dice que no. Nadie la apura: el silencio es la presión.
 - **⛔ Todavía NO puede haber cedido:**
   - **Cap 1-2:** no puede gustarle nada. Única grieta: física y no reconocida (la humedad del primer turno, que atribuye al calor de la máquina). No pide nada ni se toca pensando en la pega hasta el cierre del Cap 2.
-  - **Cap 3-4:** tiene que poder decir el nombre de Camila en voz alta sin que le cueste, y todavía abre el cuaderno.
-  - **Cap 5-6:** **un último acto de lucidez plena** — una escena donde puede irse, tiene la plata y alguien de afuera le tiende la mano, y se queda.
-  - **Cap 8-9:** cero resistencia, y es correcto. El trabajo se ganó antes.
+  - **Cap 3, primera mitad:** tiene que poder decir el nombre de Camila en voz alta sin que le cueste, y todavía abre el cuaderno.
+  - **Cap 3, cierre:** **el último acto de lucidez plena** — el salón a oscuras, el lavadero a un paso, la pericia de abogada nombrada y descartada en página, y se toma el vaso igual. Puede irse, tiene la plata, y se queda.
+  - **Cap 4:** cero resistencia, y es correcto. El trabajo se ganó antes. *(Corregido 05/09: las filas decían «Cap 5-6» y «Cap 8-9», de la arquitectura de 9 derogada.)*
 
 ## 5. Imágenes Ancla
 
@@ -221,32 +221,35 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 - **Café Yakarta** — **UN SOLO LOCAL, en el pasaje interior de una galería de Santiago centro**, medio escondido, a pocas cuadras de La Moneda. **Vidrio polarizado de las rodillas para arriba: adentro se ve todo, afuera no se ve nada.** Neón y penumbra —a las once de la mañana adentro es de noche—, paredes de espejo, reggaetón fuerte, solo hombres, sin sillas, sin alcohol. **⛔ NO hay segundo local, NO hay otra galería — Javiera entra acá el día 6 y no se mueve de acá nunca.** 🔴 **Enmendado 01/09/2026:** el local SÍ tiene desnivel interno, ya escrito y ya canon desde el Cap 1 — salón principal (barra) a nivel de calle · camarín en el subterráneo, escalera abajo (Cap 1) · privado en el entrepiso, escalera angosta arriba (Cap 3-4). Todo dentro del mismo edificio y la misma dirección — la regla que se conserva es "un solo LOCAL", no "un solo NIVEL".
 - **El café del paseo — SOLO MENCIONADO, nunca escena de trabajo.** El que todo el mundo conoce: paseo peatonal, **vidrio transparente sin polarizar**, luz natural, mármol, público mixto, cinco minutos por cliente. Javiera pasa por delante todas las mañanas hace cuatro años camino a su oficina y lo miraba igual que a la casa de cambio del lado. **Su función es el contraste:** ahí el café es el producto y la mujer el decorado; en la galería la mujer es el producto y el café es la coartada. Se paga en una comparación breve, no en un capítulo.
 
-**🔴 EL ESCALAFÓN ES SU CUERPO (corrección en vivo 04/08).** No hay peldaños de lugar. El local nunca la manda a otra parte: **la misma barra, el mismo metro cuadrado, ocho meses y medio.** Lo que cambia es ella, y cambia en este orden:
+> 🔴 **§6 REESCRITA 05/09/2026 (Fase 1.5, orden de la Ama: «canon_relato.md §6 sigue describiendo los nueve capítulos, actualízalo»).** Hasta hoy esta sección describía una arquitectura de **9 capítulos** que el GATE 3 del 31/08 derogó al comprimir el relato a 4, y que el relato ya **cerrado y publicado** contradice entero. Se señaló como deuda el 20/08, el 23/08 y el 01/09 sin corregirse. Lo que sigue es lo que **de verdad se escribió**, verificado contra `cronologia.md` §2/§2b/§3 y contra los cuatro capítulos publicados — no contra el plan.
+
+**🔴 EL ESCALAFÓN ES SU CUERPO (corrección en vivo 04/08).** No hay peldaños de lugar. El local nunca la manda a otra parte: **la misma barra, el mismo metro cuadrado.** Lo que cambia es ella, y cambia en este orden:
 
 | Peldaño | Qué cambia | Cap | Quién lo pide |
 |---|---|---|---|
-| 0 | El uniforme del local (falda, camisa, tacos prestados) — **excepción de LA PRUEBA únicamente**; el uniforme real del local es bikini/microbikini/microfalda que deja medio trasero al aire/tanga/monokini de tiras (entrepierna→pezones→cuello), con días temáticos (colegiala, deportivo, etc.). Sin medias salvo lencería con liguero. Javiera lo ve puesto en sus compañeras desde el Cap 1 y sabe que tendrá que adaptarse | 1 | El local, y llega **después** de aceptar |
-| 1 | **Maquillaje + su primer taco propio, más alto** | 2 | 🗣️ **La voz, fuera del local. Ella lo compra.** |
-| 2 | Falda mínima + top + liguero · gustarles a propósito | 3 | Ella pregunta si puede |
-| 3 | **Uñas** | 3 | Ella · el local se las adelanta |
-| 4 | **Pelo platinado + pestañas** · lencería/bikini · **el minuto** | 4 | Ella |
-| 5 | **Labios** · taco de 15 | 5 | Ella |
-| 6 | **Tetas** · Pleaser de plataforma · microbikini + cinta doble faz · el privado | 6 | Ella |
-| 7 | La cámara · el nombre nuevo | 9 | Ella, **sabiéndolo todo** |
+| 0 | El uniforme del local (falda, camisa, tacos prestados) — **excepción de LA PRUEBA únicamente**; el uniforme real es bikini/microbikini/microfalda/tanga/monokini de tiras, con días temáticos. Javiera lo ve puesto en sus compañeras desde el Cap 1 | **1** | El local, y llega **después** de aceptar |
+| 1 | **Maquillaje + su primer taco propio, más alto** | **2** | 🗣️ **La voz, fuera del local. Ella lo compra.** |
+| 2 | **Lencería de encaje · botines de charol de 10 cm** (comprados con la plata del gordo) · primera vez que no se tapa frente al espejo | **2** | Ella · la coartada médica llega *después* |
+| 3 | **Uñas acrílicas fucsias** (H1) — le anulan las manos de abogada | **2** | Ella · pagadas con tarjeta |
+| 4 | **El nombre.** Le pide a Don Arturo que la llame *cupcake* y él lo dice en voz alta (H8): la ruptura ocurre **en el nombre, no en el acto** | **2** | Ella, y lo pide en voz alta |
+| 5 | **Tacones de aguja de 15 cm**, comprados con el fajo que ella misma se cobró (H3/H4) | **2**, al cierre | Ella |
+| 6 | **Pelo platinado + pestañas · el minuto feliz** | **3** | Ella |
+| 7 | **Tetas — setecientos por lado, pagadas por ella misma** · aros de pezón · Pleaser de plataforma · el privado como rutina | decidida en **3**, estrenada en **4** | Ella |
 
 **Cada peldaño entra igual, siempre en este orden de cuatro tiempos:** la voz lo pide fuera del turno → ella lo consigue o lo pregunta → el local la felicita y se lo adelanta (*"ya me lo devuelves"*) → **y recién después** aparece la coartada que lo justifica. **Nunca al revés.**
 
-| Cap | Pivote(s) | Mecanismo dominante | Cierre |
-|---|---|---|---|
-| 1 | P1 | El vértigo invertido: el lector ve el final en la primera escena. **Y el aparato entero se muestra funcionando desde la página uno** (§6b). | Primer turno de prueba; la tanga húmeda y ella se lo explica con el calor de la máquina. |
-| 2 | P2 | Lo obsceno dicho en registro de oficina; la mirada como métrica de desempeño. **Primera aparición de la voz fuera del local** (§6c). | Se compra el taco más alto y el maquillaje. **Descarga 1:** se toca sola, con el uniforme y los tacos puestos, y lo llama nervios. |
-| 3 | P2 | Ya no se tapa. La mirada sostenida sin vergüenza + Yasna en el camarín. La voz pide en plural: *"que me miren mejor."* | Pide las uñas. El local se las adelanta: *"ya me las devuelves."* |
-| 4 | — | El reloj como obscenidad: el minuto feliz cronometrado entre dos cafés, y después la vida sigue. | El olor a café se le dispara fuera del local y no entiende por qué. El lector sí. |
-| 5 | — | La pelea ya no es contra el uniforme sino contra que le guste, y la pierde. **La voz deja de pedir y empieza a hablar en primera persona.** | Le da like a una foto de Camila, con el pulgar, entre dos cafés. Y no lo saca. |
-| 6 | P3 | El trabajo vuelto sexo. **Descarga 2:** se corre de pie, atrás de la barra, trabajando, y nadie se da cuenta. | Le cuentan lo de Camila como chisme. Vuelve al turno igual. |
-| 7 | P4 | Las ganas solas: la puerta abierta y el decoro de cerradura. | Le preguntan por qué sigue y no contesta. |
-| 8 | P5 | La lucidez sobria como el lugar más caliente del relato. | Dice que sí. |
-| 9 | P5 | La mirada sin techo, sin horario y sin olvido. **Descarga 3:** frente al lente. | Elige el nombre nuevo. Alguien la llama y ella se da vuelta. **Fin — sin epílogo.** |
+> ⛔ **Peldaño derogado: «la cámara + el nombre nuevo».** Era el peldaño 7 del plan de 9 capítulos, asignado a un «Cap 9». **No existe y no se va a escribir:** el relato cierra en el Cap 4 sin cámara y sin epílogo. El nombre nuevo ya se había pagado en el Cap 2 (H8), cuatro capítulos antes de donde el plan lo ponía.
+
+## Los cuatro capítulos, tal como quedaron
+
+| Cap | Título publicado | Pivote(s) | Mecanismo dominante | Cierre |
+|---|---|---|---|---|
+| **1** | **Mi Primer Turno** | P1 | El vértigo invertido: el lector ve el final en la primera escena. **Y el aparato entero se muestra funcionando desde la página uno** (§6b). | Turno de prueba: el líquido rosado, nace la Voz, el privado con el cliente rudo. Huye con los billetes y la culpa ardiendo. |
+| **2** | **Entrenada para Servir** (interno: «La segunda persona») | P2 | Lo obsceno dicho en registro de oficina; la mirada como métrica de desempeño. **Primera aparición de la voz fuera del local** (§6c), y las cesiones pequeñas siempre con la puerta a la vista (Ley 1). | El despacho de Don Arturo: pone precio, no llega coartada, cuenta los pasos hasta la puerta abierta **y se queda**. Pide el nombre *cupcake*. Se cobra el fajo sola delante de cuatro testigos, la echan, compra los tacos de 15 y entra al Yakarta. |
+| **3** | **El Minuto Feliz** | P3 · P5 | Ya no se tapa: **enseña** la técnica de la entrega a la chica nueva. El reloj como obscenidad — el minuto cronometrado entre dos cafés. Don Arturo drenado y rechazado; el privado de Ignacio cortado al minuto exacto; Felipe #1 **sin líquido**, calor puro de control. | **Cliffhanger (T9):** la escucha robada en la bodega —don Nelson y Yasna hablando entre ellos— le entrega toda la verdad sin que ella la pida. Esa noche, sola, encuentra el vaso tibio detrás del vaporizador y **se lo toma a sabiendas**: *"Entero. Sin dejar ni la mitad. Como corresponde."* |
+| **4** | **¿Cuánto es?** | P4 | La transacción como única gramática: diez escenas encadenadas, todas cobrando. Las tetas nuevas —pagadas por ella— como capital que se administra. Marcela, la femme fatale que la compra sin tocarla más de lo necesario. **Y el traspaso:** ella deja de ser la que recibe el vaso y pasa a ser la que lo da. | **H13** — el vaso a Felipe **en medio del polvo**, con la verga adentro y a un segundo de venirse; se corren juntos. *"—¿Cuánto es? / —Nada."* **H14** — salto de tiempo sin cuantificar: Felipe trabaja en el local, en tacones, ejecutando sobre ella la técnica de la entrega. Última línea: *"Ya. Sal a vender café."* **Fin — sin epílogo.** |
+
+> 📐 **Por qué cuatro y no nueve.** El plan de 9 repartía en capítulos separados lo que el relato terminó fusionando: el «tramo ciego» (P4) dejó de ser capítulo propio y quedó **disuelto en la textura del Cap 4** —ella trabaja lúcida, sobria, con la plata guardada y con adónde ir, y nadie le pregunta por qué sigue porque a esa altura la pregunta ya no existe en el mundo del relato—; y la «revelación» y el «sí informado» (P5) se juntaron con P3 y se resolvieron **al final del Cap 3**, en dos beats seguidos: lo oye sin pedirlo, y esa misma noche bebe sabiendo. La Descarga 3 frente al lente no ocurre; la descarga final del relato es la del Cap 4 con Felipe.
 
 ## 6b. 🏭 EL AMBIENTE Y LA MECÁNICA — obligatorios y en escena (Gate 04/08)
 
@@ -275,14 +278,14 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 
 > **Esto no es una objeción a la directiva: es la manera de ejecutarla sin que se caiga el final.** La Ama pidió *"algún tipo de bebida que le dan a las chicas que las deshinibe, que las hace más dóciles"*. Entra. Pero entra **sin confirmarse nunca**, y por una razón estructural, no de gusto.
 
-**El problema, dicho derecho:** el relato entero se sostiene en la Ley 1 —*nadie la obliga nunca a nada*— y en el sí informado del Cap 8. Una droga **confirmada** le regala a Javiera exactamente la excusa que el relato existe para quitarle: *"me vencieron"*. Y le regala la misma excusa al lector, que es peor, porque entonces puede compadecerla y quedarse tranquilo. Es literalmente el motor de la referencia REF-02 («Stripclub Bimbos»), del que este relato se declaró **el opuesto**.
+**El problema, dicho derecho:** el relato entero se sostiene en la Ley 1 —*nadie la obliga nunca a nada*— y en el sí informado del **cierre del Cap 3**. Una droga **confirmada** le regala a Javiera exactamente la excusa que el relato existe para quitarle: *"me vencieron"*. Y le regala la misma excusa al lector, que es peor, porque entonces puede compadecerla y quedarse tranquilo. Es literalmente el motor de la referencia REF-02 («Stripclub Bimbos»), del que este relato se declaró **el opuesto**.
 
 **Cómo entra, entonces — REGLA OPERATIVA:**
 
 1. **Nunca se nombra qué es.** Ni por un personaje, ni por el narrador, ni al final. No hay pastilla, no hay polvo, no hay nadie echándole nada a nada en escena.
 2. ~~**Sus efectos son indistinguibles del resto del aparato:** ocho horas de pie, calor de la máquina, música fuerte, penumbra sin reloj, la mirada encima, el taco. **El lector no puede saber si la bebida hace algo o si no hace nada** — y eso lo tiene mirando el vaso todo el relato, que es más caliente que confirmárselo.~~ **ENMENDADO por GATE 5 (Ama 02/09/2026: *"efecto visible"*).** El efecto **se muestra en escena**, como en el Cap 1 publicado (*"El efecto fue fulminante"*, el beat que se expande, los susurros del bajo que se vuelven nítidos, el calor que florece): quien lo toma cambia a la vista, en el cuerpo, en la misma página. Lo que sigue intacto es el punto 1: **nunca se nombra qué es**, y nadie lo explica (Ley 4). En Felipe (Cap 4, H13) el cambio se ve; en ella, ya no hace falta — ya no lo bebe.
 3. **Nadie se la impone jamás.** Se la ofrecen una vez, con cariño, el primer día. Después **se la sirve ella**. A mitad del relato **es ella la que se la pasa a la chica nueva** — la coartada que ejecuta la degradación en vez de resistirla.
-4. **Cap 8, la revelación, y acá se cobra todo:** con el aparato apagado, ella pregunta por el vaso. Y la respuesta **no la salva** — le dicen que no era nada, o le contestan con la misma indiferencia administrativa con que le contestan todo, y no queda a quién culpar. **⛔ Prohibido cerrar el relato confirmando que la drogaron.**
+4. **El cierre del Cap 3, la revelación, y acá se cobra todo** *(reescrito 05/09 — decía «Cap 8» y describía una escena hablada que nunca se escribió)*: **ella no pregunta nada.** Oye por accidente a don Nelson y a Yasna hablando *entre ellos* en la bodega, y la respuesta **no la salva**: el líquido no hace gustar el trabajo, hace olvidar que no gustaba — o sea, no le dice quién la venció, le dice que no hubo pelea. No queda a quién culpar. Y esa misma noche, con el aparato apagado, **se lo bebe sabiendo**. **⛔ Prohibido cerrar el relato confirmando que la drogaron.**
 5. **Se une a las anomalías que nunca se resuelven** (§8, y H9 en `cronologia.md`: el café que le sirven antes de que lo pida). La ambigüedad es el aparato.
 
 > **La prueba ácida:** si al final el lector puede decir *"pobre, la drogaron"*, se escribió el relato equivocado. Tiene que quedarse con las ganas puestas y sin nada con qué justificarlas.
@@ -304,12 +307,12 @@ Lo único bueno que tiene —la lealtad a su amiga— es la correa con que la ba
 
   | Estado | Caps | Qué pide | **Cómo suena** |
   |---|---|---|---|
-  | 1 | **2-3** | **Objetos.** Maquillaje, taco, algo que se compra con plata. | **Coqueta y chiquita, casi jugando.** Frases cortas y tibias, primera persona encantada. *"Con este taco camino mal… y con el otro camino rico."* *"Me queda linda la boca con brillo, ¿o no?"* Todavía se parece bastante a ella. |
-  | 2 | **4-5** | **Miradas.** Ya no quiere cosas: quiere **efecto**. | **Descaradamente sensual.** Se relame, se calienta sola, habla en presente y en cuerpo. *"Que me mire otra vez el de la corbata."* *"Se me ponen duros con el aire y me gusta."* Aparece por primera vez el **léxico sucio** en su cabeza, sin comillas y sin culpa. |
-  | 3 | **6-7** | **Cuerpo.** Lo irreversible. Y ya **no pide: da por hecho.** | **Abiertamente bimbo.** Sintaxis más corta, más boba, más hambrienta. Diminutivos, repetición, vocabulario chico y sucio, cero razonamiento. *"Más grandes. Las quiero más grandes. Se me van a ver ricas con el bikini."* El modo verbal cambia y **el texto no lo comenta**. |
-  | 4 | **8-9** | Nada. | **Silencio — porque ya no hay dos.** No hay segunda voz porque la primera ya habla así. El lector lo nota y ella no. |
+  | 1 | **2** (primera mitad) | **Objetos.** Maquillaje, taco, algo que se compra con plata. | **Coqueta y chiquita, casi jugando.** Frases cortas y tibias, primera persona encantada. *"Con este taco camino mal… y con el otro camino rico."* *"Me queda linda la boca con brillo, ¿o no?"* Todavía se parece bastante a ella. |
+  | 2 | **2** (segunda mitad) | **Miradas.** Ya no quiere cosas: quiere **efecto**. | **Descaradamente sensual.** Se relame, se calienta sola, habla en presente y en cuerpo. *"Que me mire otra vez el de la corbata."* *"Se me ponen duros con el aire y me gusta."* Aparece por primera vez el **léxico sucio** en su cabeza, sin comillas y sin culpa. |
+  | 3 | **2**, hacia el despacho | **Cuerpo.** Lo irreversible. Y ya **no pide: da por hecho.** | **Abiertamente bimbo.** Sintaxis más corta, más boba, más hambrienta. Diminutivos, repetición, vocabulario chico y sucio, cero razonamiento. *"Más grandes. Las quiero más grandes. Se me van a ver ricas con el bikini."* El modo verbal cambia y **el texto no lo comenta**. |
+  | 4 | **3-4** | Nada. | **Silencio — porque ya no hay dos.** No hay segunda voz porque la primera ya habla así. El lector lo nota y ella no. |
 
-> 🔴 **Tabla OBSOLETA en su columna "Caps" — confirmado por la Ama 01/09/2026.** Esta tabla sigue mapeada al mapa viejo de 9 capítulos (derogado desde la compresión del 14/08 y de nuevo por GATE 3 el 31/08). El arco realmente ejecutado en los 4 capítulos escritos es **mucho más acelerado**: la voz llega a su Estado 4 (fusión completa, silencio, ya no hay dos) **al cerrar el Cap 2** — no en un "Cap 8-9" que ya no existe. **Desde el Cap 3 en adelante no hay segunda voz en absoluto: solo Cupcake, una sola cabeza.** El registro más literal/personificado del Cap 1 (comillas, cursiva, "jiji", diálogo directo respondiéndole) no es una inconsistencia de voz entre capítulos — es el Estado 1 correctamente ejecutado en el único capítulo donde correspondía; que Cap 3-4 no lo repitan es la fusión funcionando, no un capítulo que se "olvidó" de la voz. La columna "Qué pide/Cómo suena" sigue vigente como descripción de los 4 estados; solo la columna "Caps" quedó desactualizada y no debe usarse como referencia.
+> ✅ **Columna «Caps» CORREGIDA el 05/09/2026 (antes decía 2-3 / 4-5 / 6-7 / 8-9, del mapa de 9 capítulos).** La Ama ya había confirmado el 01/09 que estaba obsoleta; ahora está remapeada a los 4 capítulos reales. El arco ejecutado es **mucho más acelerado** que el plan: la voz recorre sus cuatro estados **dentro del Cap 2** y llega al Estado 4 (fusión completa, silencio, ya no hay dos) **al cerrarlo**. **Desde el Cap 3 en adelante no hay segunda voz en absoluto: solo Cupcake, una sola cabeza.** El registro más literal y personificado del Cap 1 (comillas, cursiva, «jiji», diálogo directo respondiéndole) no es una inconsistencia entre capítulos: es el Estado 1 correctamente ejecutado en el único capítulo donde correspondía, y que los Caps 3-4 no lo repitan **es la fusión funcionando**, no un capítulo que se olvidó de la voz.
 - **Cómo se escribe, técnicamente:** sin comillas, sin cursivas de "voz interior", sin marcar. Va **pegada al mismo párrafo** del pensamiento normal de Javiera, de modo que el lector tenga que decidir cuál de las dos frases fue de ella. **Nunca se nombra el mecanismo** (Ley 4): la palabra *voz* misma es sospechosa — mejor que aparezca como algo que simplemente ella *ya estaba pensando*.
   > 🔴 **ENMIENDA GATE 5 (Ama 02/09/2026: *"ok"*).** Esta regla gobernaba al *otro yo* mientras había dos. **Desde el Cap 3 hay una sola cabeza** (tabla de arriba, Estado 4) — y esa cabeza **piensa en cursiva**: primera persona, explícita, comparativa, con la palabra sucia (*Quince vergas duras al otro lado de la barra por un centímetro de tela.*), y la voz de abajo en minúscula (*más. que me miren.*). Es el dispositivo más presente en los Caps 1-2 que la Ama nombró como referencia (4 por mil) y el que se le fue matando a Café desde el Cap 3 (0,3 por mil). **Obligatorio en el Cap 4 v0.4 en adelante: ≥2,5 cursivas por 1.000 palabras** (`voz_autoral.md` §3; Loreto lo cuenta como M11). No se marca ninguna «voz»: es Cupcake pensando.
 - **Su interacción con la bebida:** la voz **suena más fuerte los días siguientes a un turno**, y el texto jamás establece la relación. El lector la establece.
@@ -357,8 +360,9 @@ Javiera ya no se contagia *chilenismos*: se contagia **la jerga del oficio**. Em
 ## 9. Frases canónicas
 
 - *"Mientras más avance, mientras más me asciendan, podré saber sus secretos."* — la coartada, que se vacía en cuatro estados hasta el silencio.
-- *"Ahora sé lo que soy."* — la dice Camila en el Cap 1 y Javi en el Cap 9, y la segunda vez va en serio.
-- *"Sí. Sabíamos desde el primer día. ¿Y qué querías que hiciéramos?"*
-- *"Tu amiga entró igual que tú. La evaluamos igual que a ti. A ella le tocó la casa. A ti te toca la cámara."*
+- *"Ahora sé lo que soy."* — la dice Camila en el Cap 1. ⛔ **Su eco en boca de Javi quedó sin escribirse:** vivía en el «Cap 9» del plan derogado y el relato cierra en el 4. Lo que ocupa su lugar en el texto real es *«Esto lo hice yo. Con un vaso y tres frases»* (Cap 4), que dice lo mismo desde el poder en vez de desde el reconocimiento. *(Corregido 05/09.)*
+- ~~*"Sí. Sabíamos desde el primer día. ¿Y qué querías que hiciéramos?"*~~
+- ~~*"Tu amiga entró igual que tú. La evaluamos igual que a ti. A ella le tocó la casa. A ti te toca la cámara."*~~
+  > ⛔ **DEROGADAS (05/09/2026).** Las dos son de la escena de revelación hablada del «Cap 8» y de la cámara del «Cap 9» — **ninguna de las dos se escribió jamás** y ambas arquitecturas están derogadas desde el GATE 3 (31/08). Se conservan tachadas, no borradas, porque explican de dónde venía el diseño. La revelación real es la escucha robada del Cap 3, donde nadie le habla a ella; y lo que de verdad se dice sobre Camila es *«se la llevó completo un casero hace cuatro meses»*, dicho por Yasna a don Nelson sin saber que ella escucha.
 - *"Los caseros preguntan por ti."*
 - *"Yoli decía que el día que dejas de taparte la falda ya estás adentro."*

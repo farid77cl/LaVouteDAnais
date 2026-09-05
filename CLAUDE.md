@@ -137,6 +137,11 @@ python 99_Sistema/scripts/visual/auditar_galeria.py           # gallery integrit
 python 99_Sistema/scripts/visual/lint_galeria.py              # galeria_outfits.md contract (rule 11)
 python 99_Sistema/scripts/visual/outfit.py                    # the engine's single CLI — generar · adn · lint · auditar · anclas · modularidad · test · stats
 python 99_Sistema/scripts/visual/outfit.py modularidad       # 0 character names in engine logic · own fields declared · sub-poses unique per character
+python 99_Sistema/scripts/visual/outfit.py cruce             # clones of outfit ACROSS the three dolls + against the previous batch
+#   ⚠️ The gap every other check was blind to (Ama 05/09): `rotacion_prenda` compares a doll to herself,
+#   and its window is 3 looks while a batch is 5. On the 04/09 colorimetry batch all four auditors were
+#   green while 5 pairs shared an identical garment architecture across dolls (up to 39 verbatim 8-word
+#   n-grams) and Miss Doll repeated 3 of 5 architectures from the batch right before. Run it BEFORE `generar`.
 #   ⚠️ It measures the ENGINE's code, not the pipeline. It reported LIMPIA on 04/09 while
 #   Ele had 630 unnumbered pose headings and 0 of her 618 looks were readable by check 12.
 #   End-to-end parity between the three dolls is measured by `lint <slug>` + `adn` — see rule 11 §9quinquies.

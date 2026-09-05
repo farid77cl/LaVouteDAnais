@@ -222,6 +222,27 @@ Tres cláusulas que **rompen en silencio** y que no estaban escritas hasta hoy:
 
 ---
 
+## 9sexies. 🔀 LA PARIDAD NO BASTA: HAY QUE MEDIR EL CRUCE (05/09/2026)
+
+> **Ama:** *"a miss doll le diste el mismo outfit con colores distintos. y a las 3 les diste el mismo outfit."*
+
+El 04/09 se midió que las tres muñecas **funcionan igual** (§9quinquies). El 05/09 la Ama mostró el defecto que esa paridad no cubre: **funcionar igual no es vestirse distinto.** Con los cuatro auditores en verde, el batch de colorimetría tenía 5 pares de looks con **arquitectura de prenda idéntica entre muñecas distintas** y Miss Doll repetía 3 de 5 arquitecturas de su batch anterior.
+
+**Las dos causas, ambas estructurales:**
+
+| # | Punto ciego | Por qué no se veía |
+|---|---|---|
+| 1 | `rotacion_prenda` es **per-personaje** | Compara a Ele con Ele. Ningún chequeo comparaba a Ele con Anaïs — las tres podían salir con el mismo corset el mismo día y pasar limpias las tres. |
+| 2 | `ventana_global` = **3 looks**, batch = **5** | Las repeticiones caen a distancia 5-6: fuera de la ventana. Literalmente invisibles. |
+
+**Chequeo:** `python 99_Sistema/scripts/visual/outfit.py cruce` — X1 arquitectura idéntica entre muñecas · X2 cláusulas verbatim (n-gramas ≥8) · X3 familia cromática repetida dentro del batch · X4 arquitectura repetida contra el batch anterior. **Corre ANTES de `generar`.** Exit 1 con cualquier 🔴.
+
+**Qué es 🔴 y qué es 🟠.** 🔴 = mismo outfit con otro color: se **rediseña la silueta**, jamás se le cambia el color y se da por resuelto. 🟠 = coincidencia de familia cromática o solape parcial: se mira, no bloquea.
+
+> ⚖️ **X3 (color) es AVISO y no regla dura, a propósito.** La Ama derogó en bloque las ventanas cromáticas el 12/06/2026 (*libertad total de color y materiales*). Su comentario del 05/09 apunta al mismo eje pero **no es una derogación de aquella derogación**: hasta que ella lo diga, el color se mide y se reporta, no se bloquea. Lo que sí bloquea es la **silueta**, que nunca estuvo liberada.
+
+---
+
 ## 9quinquies. 📐 PARIDAD ENTRE LAS TRES GALERÍAS — MEDIDA, NO DECLARADA (04/09/2026)
 
 > **Ama:** *"en algun momento te pedi que el outfit engine fuera modular y que las 3 muñecas funcionaran igual en el proceso de punta a cabo… realmente se cumplio?"*
