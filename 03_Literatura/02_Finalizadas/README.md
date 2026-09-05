@@ -26,7 +26,7 @@
 | Relato | | Relato | |
 |---|---|---|---|
 | [Buena Chica, Buena Muñeca](buena_chica_buena_muneca/) | | [El Trono de Luna](el_trono_de_luna/) | |
-| [Café con Piernas](cafe_con_piernas/) ☕ | Caps 1-2 publicados; el 3 sigue vivo en `01_En_Progreso/` | [Esposa de mi Esposa](esposa_de_mi_esposa/) | |
+| [Café con Piernas](cafe_con_piernas/) ☕ | **Completo 4/4 (05/09/2026)** — Gate de la Ama sobre el Cap 4 | [Esposa de mi Esposa](esposa_de_mi_esposa/) | |
 | [De Esteban a Secretaria](de_esteban_a_secretaria/) | | [Ginny la Genio Bimbo](ginny_la_genio_bimbo/) | |
 | [El Collar de Nancy](el_collar_de_nancy/) | | [HR · Human Repurposing](hr_human_repurposing/) | |
 | [El Cuadro de Fideos](el_cuadro_de_fideos/) | | [La App · La Bimboficación de mi Novio](la_app_la_bimboficacion_de_mi_novio/) | |

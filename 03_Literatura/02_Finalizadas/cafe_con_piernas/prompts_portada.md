@@ -26,7 +26,7 @@
 ### Capítulo 3 — El Minuto Feliz
 `#ControlMental` `#Bimboficación` `#Degradación` `#StripteaseRitual` `#PoderYPlata`
 
-### Capítulo 4 — La Entrega
+### Capítulo 4 — ¿Cuánto es?
 `#ControlMental` `#Bimboficación` `#TransformaciónPsicológica` `#Cierre` `#DeCondicionadaACondicionadora`
 
 ---
@@ -144,7 +144,7 @@ Photo-realistic, cinematic, high-contrast neon color grade, silhouette and backl
 
 ---
 
-### Capítulo 4 — La Entrega
+### Capítulo 4 — ¿Cuánto es?
 
 > Escena elegida: **el espejo del camarín, dos figuras** — Cupcake detrás, Felipe adelante mirándose al espejo con el top plateado nuevo puesto, ella con las manos en sus hombros. Horizontal por naturaleza: dos figuras + el espejo entre ellas, composición de traspaso sin ningún contacto explícito.
 
@@ -159,7 +159,7 @@ THE MIRROR RETURNS BOTH THEIR FACES: his reflection shows a focused, adjusting e
 
 EDGES: left, a worn wooden bench with a scattered array of false eyelash cases and a small perfume bottle; right, a narrow doorway with the venue's violet neon glow bleeding in from the salon beyond.
 
-TYPOGRAPHY (rendered in image, upper right over the dark doorway edge, right-aligned, stacked): elegant serif in deep gold, one line: "Café con Piernas". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capítulo 4 · La Entrega". Bottom right corner, tiny small-caps in warm gold: "ANAÏS BELLAND".
+TYPOGRAPHY (rendered in image, upper right over the dark doorway edge, right-aligned, stacked): elegant serif in deep gold, one line: "Café con Piernas". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capitulo 4 - Cuanto es". Bottom right corner, tiny small-caps in warm gold: "ANAÏS BELLAND".
 
 COMPOSITION NOTE: keep the mirror, both figures and all typography inside the central horizontal band; top and bottom 20% empty for a clean 3:1 crop.
 
@@ -167,6 +167,8 @@ Photo-realistic, cinematic, warm bulb-lit editorial color grade, 8k.
 ```
 
 **VARIANTE SIN TEXTO** — reemplazar TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every label blank. Keep the upper right doorway edge dark and clean for typography to be added later.`
+
+> ⚠️ **Título renombrado 04/09/2026: «La Entrega» → «¿Cuánto es?».** El escenario del banner sigue siendo válido (es el cierre real de la v0.5 aprobada: Felipe en el espejo con el top plateado). **Recomendado usar la variante SIN TEXTO y componer la tipografía después:** el título nuevo lleva `¿` y `á`, y los acentos y signos de apertura se rompen al renderizarse (regla dura del kit). Si se renderiza igual, el prompt ya va sin acentos a propósito.
 
 ---
 ---

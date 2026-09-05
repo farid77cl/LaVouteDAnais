@@ -199,6 +199,22 @@
 
 **Lente activado:** El espejo como motor + el cuerpo que se gusta antes de que la cabeza opine.
 
+### Fragmento 15 — «Se lo tomó adentro mío» (Café con Piernas, Cap 4 — el vaso en medio del polvo)
+
+> *Ahora.*
+>
+> Lo sintió desde adentro antes de que él lo dijera: la verga hinchándosele, el latido cambiando de ritmo, los muslos de él tensándose bajo los de ella, las manos cerrándosele en las tetas hasta que el apretón le llegó doble, y él con los ojos apretados y la boca contra el esternón de ella diciendo *perdón, perdón* como si se estuviera disculpando por adelantado. Cupcake se estiró sin salirse. Sin sacársela, con el coño clavado hasta el fondo y cerrándosele solo alrededor de él, estiró el brazo hasta el brazo del sillón y el vaso vino a la mano. Se lo puso en los labios.
+>
+> —Tómate esto, mi amor. Ahora. —Con la voz de la barra, dulce, encima de él—. Es un líquido maravilloso. Va a hacer que todo sea mejor. Entero.
+>
+> Felipe abrió la boca contra el vidrio y se lo tomó. Se lo tomó así, con la verga adentro del coño y a un segundo de venirse, mirándola por encima del borde con esos ojos que no sabían decirle que no a nada, tres tragos largos con el cuello fino subiendo y bajando, y ella le sostuvo el vaso y le sostuvo la nuca y se movió encima de él mientras tragaba, un golpe hondo por trago, y el último trago y el último golpe fueron el mismo.
+>
+> Se corrieron juntos.
+>
+> *Se lo tomó adentro mío. Con la verga adentro y viniéndose. Me dijo que sí sin que yo preguntara.*
+
+**Por qué está acá (lente: el sí que lo saca la calentura, no el engaño).** La Ama fijó el orden exacto de esta escena en su nota viva del 04/09 y el capítulo lo ejecuta literal: el vaso llega **en el medio del polvo**, no antes ni después, y el consentimiento se lo saca el cuerpo de él, no una mentira fría de ella. La sustancia **jamás se nombra** (Ley 4 del relato, intacta). Lo que hay que imitar: la dominante que **no se sale** para dar la orden — sigue cogiendo mientras la da, y el trago y el golpe se sincronizan hasta ser el mismo. Y el remate no es el orgasmo: es la cursiva contable de después, la cabeza de ella cobrando lo que acaba de conseguir.
+
 ---
 
 ## 🎯 Cómo usa el Escritor Nivel 4 esta antología

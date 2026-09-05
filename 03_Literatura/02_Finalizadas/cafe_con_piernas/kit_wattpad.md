@@ -16,8 +16,8 @@
 | **Categoría** | **Ficción General** |
 | **Rating** | 🔴 **Mature** — obligatorio |
 | **Copyright** | Todos los derechos reservados |
-| **Estado** | Marcar **Completa** al subir la parte 4 — ⚠️ **la parte 4 NO está lista (02/09/2026):** la Ama no ha leído el Cap 4; volvió a `01_En_Progreso/` sin Gate. Publicar solo partes 1-3 hasta que ella lo apruebe. |
-| **Partes** | 4 (~44.200 palabras) — **3 publicables hoy** |
+| **Estado** | Marcar **Completa** al subir la parte 4. ✅ **Las 4 partes están listas (05/09/2026):** la Ama dio su Gate sobre el Cap 4 v0.5 (*«cap aprobado»*, `01_En_Progreso/cafe_con_piernas/reportes/capitulo_04/gate_capitulo_04_cuanto_es_v0.5.md`). Relato completo y publicable entero. |
+| **Partes** | 4 (~48.200 palabras) — **las 4 publicables** |
 
 ---
 
@@ -70,7 +70,7 @@ Si sigues: bienvenida a La Voûte.
 | 1 | **Capítulo 1 — Mi Primer Turno** | [capitulo_1_mi_primer_turno.md](capitulo_1_mi_primer_turno.md) | [Banner Cap 1](prompts_portada.md) |
 | 2 | **Capítulo 2 — Entrenada para Servir** | [capitulo_2_entrenada_para_servir.md](capitulo_2_entrenada_para_servir.md) | [Banner Cap 2](prompts_portada.md) |
 | 3 | **Capítulo 3 — El Minuto Feliz** | [capitulo_3_el_minuto_feliz.md](capitulo_3_el_minuto_feliz.md) | [Banner Cap 3](prompts_portada.md) |
-| 4 | **Capítulo 4 — ¿Cuánto es?** | ⏳ **EN PROGRESO, SIN GATE** (v0.5, 04/09/2026) → [`01_En_Progreso/cafe_con_piernas/capitulo_04_cuanto_es_v0.5.md`](../../01_En_Progreso/cafe_con_piernas/capitulo_04_cuanto_es_v0.5.md) — el archivo publicado se retiró de esta carpeta | [Banner Cap 4](prompts_portada.md) (prompt listo, no usar todavía) |
+| 4 | **Capítulo 4 — ¿Cuánto es?** | [capitulo_4_cuanto_es.md](capitulo_4_cuanto_es.md) ✅ aprobado 05/09/2026 (~14.000 palabras) | [Banner Cap 4](prompts_portada.md) |
 
 Los cuatro títulos internos son publicables tal cual — ninguno dispara el filtro de listados públicos de Wattpad (a diferencia del caso «De Esteban a Secretaria», donde el título interno del Cap 2 tuvo que cambiarse).
 
@@ -95,7 +95,7 @@ Prompts: [prompts_portada.md](prompts_portada.md) · doctrina de escritura de pr
 | 1 — Mi Primer Turno | Publicar ahora |
 | 2 — Entrenada para Servir | +4 días |
 | 3 — El Minuto Feliz | +8 días (+4 desde la Parte 2) |
-| 4 — La Entrega | +12 días (+4 desde la Parte 3) → y ahí marcar **Completa** |
+| 4 — ¿Cuánto es? | +12 días (+4 desde la Parte 3) → y ahí marcar **Completa** |
 
 Cuatro partes con el mismo espaciado dejan que cada una retenga por su cuenta antes de soltar la siguiente — subir todo el mismo día quema el único repunte que tiene la historia.
 
