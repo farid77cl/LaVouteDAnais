@@ -1,95 +1,95 @@
 {
- "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/miss_doll.md §2).",
- "_origen": "Ama 05/09/2026: 'genera 5 nuevos outfit por muñeca'. Primer batch de Miss Doll con arquetipo DECLARADO en el campo `polo` desde el diseño -- hasta hoy sus batches no lo traian y por eso 64 de sus 80 looks quedaban fuera del conteo de cuota.",
- "_step_0": "Arquitecturas del batch anterior L76-L80 = M1, M7, M4, M2, M10. Este usa M9, M8, M6, M1, M4: solo M1 y M4 se repiten (2 de 5, bajo el umbral duro de 3 del chequeo X4) y ninguna cae dentro de la ventana de 3.",
- "_deficit": "Balance medido el 05/09 sobre 66 looks clasificados: Club/Escenario 15,2% vs meta 18% (el mayor deficit), Girly Girl y Gym 10,6% vs 12%. Bikini/Lenceria Erotica viene +6,2 SOBRE meta y por eso no aparece en este batch.",
- "_colorimetria": "Fucsia - violeta UV - rosa shocking - esmeralda - gunmetal. El rosa firma es DOMINANTE en dos (L81, L83) y esta presente como firma en los otros tres, que es su canon. Las dos apariciones de la familia rosa NO van pegadas: L82 las separa. Azul cobalto descansa este batch -- lo gasto entero el anterior (L76 y L80).",
- "_anti_monoblock": "Monoblock (L81) - Contraste (L82) - Monoblock (L83) - Triada (L84) - Contraste (L85).",
- "personaje": "miss_doll",
- "batch": "Deficit de Escenario -- El Club que le Faltaba",
- "fecha": "05/09/2026",
- "categoria": "Mix",
- "rango": "81-85",
- "tags_comunes": [
-  "deficit",
-  "V7poses",
-  "batchL81-L85"
- ],
- "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, no platform, kitten heel, bangs, fringe",
- "looks": {
-  "81": {
-   "titulo": "Fuchsia Liquid Stage Catsuit",
-   "codigo": "CL5",
-   "polo": "Club / Escenario",
-   "concepto": "Club/Escenario, el mayor deficit del roster (15,2% contra 18%). Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- ausente de sus ultimos dos batches y la unica silueta cubierta que todavia no le habia tocado en escenario. El fucsia firma va DOMINANTE, no de adorno: es la correccion del 04/09, cuando la Ama midio que el rosa venia degradado a detalle en 5 de 5 looks. Modo Monoblock, hardware en cromo negro para que el fucsia no compita.",
-   "adn_overrides": {
-    "blinding chrome strobing highlight": "soft pearl strobing highlight on cheekbones and brow bone"
-   },
-   "bloque_b": "a shocking fuchsia liquid-latex catsuit cut as a single piece, full-length legs to the ankle, a deep V neckline dropping to the sternum and held there by a black chrome ring, long sleeves ending at the wrist, the latex polished to a wet shine with sculpted seams tracing the waist and following the hip line, and a black chrome zip running the full length of the spine to the tailbone; beneath it a fuchsia latex thong, its front a slim tapered panel and its back a single fine cord; no stockings, the catsuit covers the leg to the ankle; a wide black chrome collar with no lettering, black chrome cuffs on both wrists and long faceted fuchsia drop earrings; nails: long almond-shaped acrylics lacquered in glossy shocking fuchsia; closed pointed-toe platform stiletto knee boots in fuchsia patent vinyl reaching just below the knee, 16cm razor-thin black chrome needle heel plus a 6-inch fuchsia platform, sharp closed pointed toe, a concealed inner zip along the calf, mirrored black chrome sole edge",
-   "setting": "a club stage after the doors open, a mirrored back wall throwing the room back at itself, a single hard fuchsia spotlight from the front and deep magenta wash from above, the floor a black lacquer riser",
-   "props": {
-    "seat": "a black lacquer stage riser step",
-    "wall": "the mirrored stage back wall",
-    "surface": "the black lacquer stage floor",
-    "upright": "the polished chrome pole"
-   }
-  },
-  "82": {
-   "titulo": "UV Violet Gym Performance",
-   "codigo": "GY4",
-   "polo": "Gym / Athletic",
-   "concepto": "Gym/Athletic, segundo deficit junto con Girly Girl (10,6% contra 12%). Arquitectura M8 (legging + top, CUBIERTA) -- la unica de las diez que no aparecia en ninguno de sus dos batches anteriores. Violeta UV, uno de los frios saturados que su §5.2b declara como su mejor calce. La pierna va en legging esta vez, rotando contra el bike short del ultimo gym. Modo Contraste con el gunmetal del hardware. El rosa firma vive en la suela y en la boca.",
-   "bloque_b": "UV violet high-gloss vinyl high-waisted leggings moulded to the leg and ending at the ankle, with a wide moulded waistband sitting above the natural waist and a flat gunmetal zip at the centre back; above them a UV violet vinyl sports bra with a high round neckline, moulded cups underwired and set close together, a gunmetal ring at the centre gore and wide racer straps crossing over the shoulder blades; beneath the leggings a UV violet vinyl thong with a slim tapered front panel and a single fine cord at the back; a gunmetal chain choker with no lettering, gunmetal cuffs on both wrists and small gunmetal hoop earrings; nails: long almond-shaped acrylics lacquered in glossy UV violet; closed pointed-toe platform stiletto trainers in UV violet patent vinyl, 15cm razor-thin gunmetal needle heel plus a 5-inch violet platform, closed pointed toe, doubled violet ankle straps with gunmetal pin buckles, and a hot pink mirrored sole edge",
-   "setting": "a private gym at night, black rubber flooring, a rack of chrome dumbbells against a dark wall, one cold overhead strip and a violet uplight from the floor line",
-   "props": {
-    "seat": "a black leather weight bench",
-    "wall": "the dark gym wall with its chrome rack",
-    "surface": "the black rubber gym floor",
-    "upright": "a polished chrome squat-rack upright"
-   }
-  },
-  "83": {
-   "titulo": "Shocking Pink Bombshell Second Skin",
-   "codigo": "GG4",
-   "polo": "Girly Girl",
-   "concepto": "Girly Girl, ejecutado con el canon REDEFINIDO el 03/09: hiperfem de MUJER ADULTA -- curva extrema, gloss saturado, silueta bodycon, hardware como joyeria. Arquitectura M6 (vestido de segunda piel, CUBIERTA) -- libre en la ventana. Rosa shocking saturado, nunca pastel. CERO moños, cero charms de corazon, cero mangas abullonadas, cero Mary Jane: las cinco prohibiciones duras que la Ama fijo el 03/09 sobre el L66. La feminidad exagerada vive en la silueta y en el color, no en la merceria. Modo Monoblock.",
-   "bloque_b": "a shocking pink high-gloss vinyl second-skin dress moulded to the body from the bust to just above the knee, a deep sweetheart neckline with a structured underwired edge cut low and pressing in under the bust, thin rose-gold chrome straps over the shoulders, sculpted panel seams drawing the waist in hard, and a rose-gold chrome zip running the full length of the centre back; beneath it a shocking pink vinyl thong, its front a slim tapered panel and its back a single fine cord; no stockings, bare legs; a heavy rose-gold chrome collar with no lettering, wide rose-gold chrome cuffs on both wrists and long faceted pink crystal drop earrings, all read as jewellery hardware; nails: long almond-shaped acrylics lacquered in glossy shocking pink; closed pointed-toe platform stiletto pumps in shocking pink patent vinyl, 16cm razor-thin rose-gold chrome needle heel plus a 6-inch pink platform, sharp closed pointed toe, a single rose-gold chrome ankle strap with a pin buckle, mirrored rose-gold sole edge",
-   "setting": "a luxury salon of pale rose marble at golden hour, tall gilt mirrors, a low velvet chaise in dusty rose, warm light raking across the stone and nothing cluttering the frame",
-   "props": {
-    "seat": "the low dusty-rose velvet chaise",
-    "wall": "the pale rose marble wall with its gilt mirror",
-    "surface": "the pale rose marble console",
-    "upright": "a fluted gilt mirror frame"
-   }
-  },
-  "84": {
-   "titulo": "Emerald Chrome Stage Bodysuit",
-   "codigo": "CL6",
-   "polo": "Club / Escenario",
-   "concepto": "Segundo Club/Escenario del batch: con -2,8 de deficit, uno solo no lo cierra. Arquitectura M1 (bodysuit segunda piel, piel) -- se repite del batch anterior pero fuera de la ventana de 3 y con silueta completamente distinta (aquel era plunge en V con anillo; este es halter de cuello alto y espalda abierta). Esmeralda: familia que no aparece en ninguno de sus dos batches anteriores. Modo Triada -- esmeralda, cromo y el rosa firma en la boca y las uñas. Calzado cerrado (pump, no sandalia) porque el look lleva medias: con media la puntera va cerrada, y 'sandal' cuenta como abierta aunque el texto diga closed toe.",
-   "bloque_b": "an emerald green high-gloss vinyl bodysuit cut as a second skin, a high halter neckline fastened behind the neck by a mirror-chrome ring, the back scooped open to the waist with two fine chrome chains crossing it, sharp geometric cut-outs at each side of the waist, and a high-cut leg line rising past the hip bone; the bodysuit finishes as a thong at the back, its front a slim tapered panel; sheer emerald-tinted stockings, 15 denier, held by an emerald vinyl suspender belt with four chrome clips; a slim mirror-chrome collar with no lettering, mirror-chrome cuffs on both wrists and long faceted emerald drop earrings; nails: long almond-shaped acrylics lacquered in glossy hot pink; closed pointed-toe platform stiletto pumps in emerald patent vinyl, 16cm razor-thin chrome needle heel plus a 6-inch emerald platform, sharp closed pointed toe, a single emerald ankle strap with a chrome pin buckle, and a hot pink mirrored sole edge",
-   "setting": "a revue stage seen from the wings, heavy emerald velvet drapes pulled back, a lit runway of black lacquer, cold chrome footlights along its edge and the house beyond it dark",
-   "props": {
-    "seat": "a black lacquer runway step",
-    "wall": "the heavy emerald velvet drape",
-    "surface": "the black lacquer runway floor",
-    "upright": "a chrome wing-light stand"
-   }
-  },
-  "85": {
-   "titulo": "Gunmetal Editorial Corsetry",
-   "codigo": "ED4",
-   "polo": "Editorial / Portada",
-   "concepto": "Editorial/Portada (9,1%, en meta -- cierra el batch con la unica categoria de sesion pura). Arquitectura M4 (corseteria + tanga, piel) -- se repite del batch anterior pero fuera de la ventana de 3 y en registro opuesto: aquel era calabozo en negro carbon con oro viejo, este es sesion de portada en gunmetal con luz de estudio. Metal: quinta familia distinta del batch. Modo Contraste con el rosa firma, que aca es el UNICO color saturado del cuadro.",
-   "negative_excluir": "corset, waist cincher, bustier",
-   "bloque_b": "a gunmetal liquid-lame overbust corset as the central piece, architectural with conical moulded cups lifting the bust high, fine chrome boning channels visible on the outside, a row of chrome busk clasps down the centre front and a wide flat chrome lacing panel down the back drawn tight over the waist, its hem cut high on the hip; a hot pink high-gloss vinyl thong worn beneath, its front a slim tapered panel and its back a single fine cord; sheer gunmetal-tinted stockings, 15 denier, held by four chrome clips on suspenders hanging from the corset hem; a slim chrome collar with no lettering, chrome cuffs on both wrists and long chrome bar earrings; nails: long almond-shaped acrylics lacquered in glossy hot pink; closed pointed-toe platform stiletto ankle boots in gunmetal patent vinyl, 16cm razor-thin chrome needle heel plus a 6-inch gunmetal platform, sharp closed pointed toe, a concealed inner zip at the ankle, and a hot pink mirrored sole edge",
-   "setting": "a photographic studio stripped bare, a seamless gunmetal grey cyclorama, one hard key light from high right and a single silver reflector just out of frame, the floor swept and empty",
-   "props": {
-    "seat": "a low gunmetal lacquer studio cube",
-    "wall": "the seamless gunmetal cyclorama sweep",
-    "surface": "the swept studio floor",
-    "upright": "a matte black lighting stand column"
-   }
+  "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/miss_doll.md §2).",
+  "_origen": "Ama 05/09/2026: 'genera 5 nuevos outfit por muñeca'. Primer batch de Miss Doll con arquetipo DECLARADO en el campo `polo` desde el diseño -- hasta hoy sus batches no lo traian y por eso 64 de sus 80 looks quedaban fuera del conteo de cuota.",
+  "_step_0": "Arquitecturas del batch anterior L76-L80 = M1, M7, M4, M2, M10. Este usa M9, M8, M6, M1, M4: solo M1 y M4 se repiten (2 de 5, bajo el umbral duro de 3 del chequeo X4) y ninguna cae dentro de la ventana de 3.",
+  "_deficit": "Balance medido el 05/09 sobre 66 looks clasificados: Club/Escenario 15,2% vs meta 18% (el mayor deficit), Girly Girl y Gym 10,6% vs 12%. Bikini/Lenceria Erotica viene +6,2 SOBRE meta y por eso no aparece en este batch.",
+  "_colorimetria": "Fucsia - violeta UV - rosa shocking - esmeralda - gunmetal. El rosa firma es DOMINANTE en dos (L81, L83) y esta presente como firma en los otros tres, que es su canon. Las dos apariciones de la familia rosa NO van pegadas: L82 las separa. Azul cobalto descansa este batch -- lo gasto entero el anterior (L76 y L80).",
+  "_anti_monoblock": "Monoblock (L81) - Contraste (L82) - Monoblock (L83) - Triada (L84) - Contraste (L85).",
+  "personaje": "miss_doll",
+  "batch": "Deficit de Escenario -- El Club que le Faltaba",
+  "fecha": "05/09/2026",
+  "categoria": "Mix",
+  "rango": "81-85",
+  "tags_comunes": [
+    "deficit",
+    "V7poses",
+    "batchL81-L85"
+  ],
+  "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, no platform, kitten heel, bangs, fringe",
+  "looks": {
+    "81": {
+      "titulo": "Fuchsia Liquid Stage Catsuit",
+      "codigo": "CL5",
+      "polo": "Club / Escenario",
+      "concepto": "Club/Escenario, el mayor deficit del roster (15,2% contra 18%). Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- ausente de sus ultimos dos batches y la unica silueta cubierta que todavia no le habia tocado en escenario. El fucsia firma va DOMINANTE, no de adorno: es la correccion del 04/09, cuando la Ama midio que el rosa venia degradado a detalle en 5 de 5 looks. Modo Monoblock, hardware en cromo negro para que el fucsia no compita.",
+      "adn_overrides": {
+        "blinding chrome strobing highlight": "soft pearl strobing highlight on cheekbones and brow bone"
+      },
+      "bloque_b": "a shocking fuchsia liquid-latex catsuit cut as a single piece, full-length legs to the ankle, a deep V neckline dropping to the sternum and held there by a black chrome ring, long sleeves ending at the wrist, the latex polished to a wet shine with sculpted seams tracing the waist and following the hip line, and a black chrome zip running the full length of the spine to the tailbone; beneath it a fuchsia latex thong, its front a slim tapered panel and its back a single fine cord; no stockings, the catsuit covers the leg to the ankle; a wide black chrome collar with no lettering, black chrome cuffs on both wrists and long faceted fuchsia drop earrings; nails: long almond-shaped acrylics lacquered in glossy shocking fuchsia; closed pointed-toe platform stiletto knee boots in fuchsia patent vinyl reaching just below the knee, 16cm razor-thin black chrome needle heel plus a 6-inch fuchsia platform, sharp closed pointed toe, a concealed inner zip along the calf, mirrored black chrome sole edge",
+      "setting": "a club stage after the doors open, a mirrored back wall throwing the room back at itself, a single hard fuchsia spotlight from the front and deep magenta wash from above, the floor a black lacquer riser",
+      "props": {
+        "seat": "a black lacquer stage riser step",
+        "wall": "the mirrored stage back wall",
+        "surface": "the black lacquer stage floor",
+        "upright": "the polished chrome pole"
+      }
+    },
+    "82": {
+      "titulo": "UV Violet Gym Performance",
+      "codigo": "GY4",
+      "polo": "Gym / Athletic",
+      "concepto": "Gym/Athletic, segundo deficit junto con Girly Girl (10,6% contra 12%). Arquitectura M8 (legging + top, CUBIERTA) -- la unica de las diez que no aparecia en ninguno de sus dos batches anteriores. Violeta UV, uno de los frios saturados que su §5.2b declara como su mejor calce. La pierna va en legging esta vez, rotando contra el bike short del ultimo gym. Modo Contraste con el gunmetal del hardware. El rosa firma vive en la suela y en la boca.",
+      "bloque_b": "UV violet high-gloss vinyl high-waisted leggings moulded to the leg and ending at the ankle, with a wide moulded waistband sitting above the natural waist and a flat gunmetal zip at the centre back; above them a UV violet vinyl sports bra with a high round neckline, moulded cups underwired and set close together, a gunmetal ring at the centre gore and wide racer straps crossing over the shoulder blades; beneath the leggings a UV violet vinyl thong with a slim tapered front panel and a single fine cord at the back; a gunmetal chain choker with no lettering, gunmetal cuffs on both wrists and small gunmetal hoop earrings; nails: long almond-shaped acrylics lacquered in glossy UV violet; closed pointed-toe platform stiletto trainers in UV violet patent vinyl, 15cm razor-thin gunmetal needle heel plus a 5-inch violet platform, closed pointed toe, doubled violet ankle straps with gunmetal pin buckles, and a hot pink mirrored sole edge",
+      "setting": "a private gym at night, black rubber flooring, a rack of chrome dumbbells against a dark wall, one cold overhead strip and a violet uplight from the floor line",
+      "props": {
+        "seat": "a black leather weight bench",
+        "wall": "the dark gym wall with its chrome rack",
+        "surface": "the black rubber gym floor",
+        "upright": "a polished chrome squat-rack upright"
+      }
+    },
+    "83": {
+      "titulo": "Rosa Shocking y Cristal, Dos Piezas de Boudoir",
+      "codigo": "GG5",
+      "polo": "Girly Girl",
+      "concepto": "REDISEÑADO 05/09 por el auditor de clon intra-personaje, que lo pillo el dia que nacio: la version anterior compartia 50,5% de lexico y 29 n-gramas de ocho palabras VERBATIM con el L77 -- mismo arquetipo, mismo rosa, mismo trio de collar+puños+aros de chrome rose-gold, misma bomba de plataforma, mismo salon de lujo a hora dorada. Era el L77 con la falda cambiada por vestido. Se conserva el arquetipo Girly Girl y se conserva el ROSA -- la Ama ordeno el 04/09 que su firma vaya dominante y no de adorno, y desde hoy la familia firma tiene techo propio (3 en ventana de 5) para que esa orden y el tope de color dejen de contradecirse. Lo que cambia es la PRENDA, que es lo que ella reclamo: arquitectura M3 (dos piezas) en vez de M6 (vestido de segunda piel); medias y liguero donde el L77 iba de pierna desnuda; joyeria de cristal en vez del trio de chrome; sandalia de plataforma con pulsera en vez de bomba cerrada; y boudoir de penthouse de noche en vez de salon de belleza a hora dorada. Canon Girly Girl del 03/09 intacto: hiperfem de mujer adulta, saturado y brillo, cero moño, cero charm de corazon, cero Mary Jane. · El propio candado de generar lo freno una vez antes de escribir: la sandalia de plataforma choca con las medias (con media, puntera CERRADA -- y 'sandal' cuenta como abierta aunque el texto diga 'closed toe', regla del 20/06). Cambiada a bomba de plataforma SIN correa, que ademas la separa del L77, cuya bomba lleva pulsera de chrome rose-gold.",
+      "bloque_b": "a shocking pink liquid latex bra top with firm moulded cups underwired into a deep plunge, a narrow band beneath the bust and thin straps crossing high over the shoulders, the latex polished to a wet shine; below it a matching shocking pink liquid latex thong cut high over the hip bone, its front a slim tapered panel and its back a single fine cord, worn beneath a wide moulded pink latex waist band with six suspender straps hanging from its lower edge; sheer pink-tinted stockings, 15 denier, clipped to the six straps and reaching mid-thigh; a single strand of faceted pink crystal beads sitting close at the throat and long faceted pink crystal drop earrings, no collar and no cuffs; nails: long almond-shaped acrylics lacquered in glossy shocking pink; closed pointed-toe platform stiletto court pumps in shocking pink patent vinyl, 16cm razor-thin metal needle heel plus a 6-inch pink platform, sharp closed pointed toe, a plain uncut vamp with no strap at all, mirrored silver sole edge",
+      "setting": "a penthouse boudoir at night, black lacquer panelling and tall mirrored screens, a low pink velvet bench, one warm lamp throwing a soft pool of light and the rest of the room falling into deep shadow",
+      "props": {
+        "seat": "the low pink velvet bench",
+        "wall": "a tall mirrored screen against black lacquer panelling",
+        "surface": "a black lacquer console with a crystal tray",
+        "upright": "a slim black lacquer column"
+      }
+    },
+    "84": {
+      "titulo": "Emerald Chrome Stage Bodysuit",
+      "codigo": "CL6",
+      "polo": "Club / Escenario",
+      "concepto": "Segundo Club/Escenario del batch: con -2,8 de deficit, uno solo no lo cierra. Arquitectura M1 (bodysuit segunda piel, piel) -- se repite del batch anterior pero fuera de la ventana de 3 y con silueta completamente distinta (aquel era plunge en V con anillo; este es halter de cuello alto y espalda abierta). Esmeralda: familia que no aparece en ninguno de sus dos batches anteriores. Modo Triada -- esmeralda, cromo y el rosa firma en la boca y las uñas. Calzado cerrado (pump, no sandalia) porque el look lleva medias: con media la puntera va cerrada, y 'sandal' cuenta como abierta aunque el texto diga closed toe.",
+      "bloque_b": "an emerald green high-gloss vinyl bodysuit cut as a second skin, a high halter neckline fastened behind the neck by a mirror-chrome ring, the back scooped open to the waist with two fine chrome chains crossing it, sharp geometric cut-outs at each side of the waist, and a high-cut leg line rising past the hip bone; the bodysuit finishes as a thong at the back, its front a slim tapered panel; sheer emerald-tinted stockings, 15 denier, held by an emerald vinyl suspender belt with four chrome clips; a slim mirror-chrome collar with no lettering, mirror-chrome cuffs on both wrists and long faceted emerald drop earrings; nails: long almond-shaped acrylics lacquered in glossy hot pink; closed pointed-toe platform stiletto pumps in emerald patent vinyl, 16cm razor-thin chrome needle heel plus a 6-inch emerald platform, sharp closed pointed toe, a single emerald ankle strap with a chrome pin buckle, and a hot pink mirrored sole edge",
+      "setting": "a revue stage seen from the wings, heavy emerald velvet drapes pulled back, a lit runway of black lacquer, cold chrome footlights along its edge and the house beyond it dark",
+      "props": {
+        "seat": "a black lacquer runway step",
+        "wall": "the heavy emerald velvet drape",
+        "surface": "the black lacquer runway floor",
+        "upright": "a chrome wing-light stand"
+      }
+    },
+    "85": {
+      "titulo": "Gunmetal Editorial Corsetry",
+      "codigo": "ED4",
+      "polo": "Editorial / Portada",
+      "concepto": "Editorial/Portada (9,1%, en meta -- cierra el batch con la unica categoria de sesion pura). Arquitectura M4 (corseteria + tanga, piel) -- se repite del batch anterior pero fuera de la ventana de 3 y en registro opuesto: aquel era calabozo en negro carbon con oro viejo, este es sesion de portada en gunmetal con luz de estudio. Metal: quinta familia distinta del batch. Modo Contraste con el rosa firma, que aca es el UNICO color saturado del cuadro.",
+      "negative_excluir": "corset, waist cincher, bustier",
+      "bloque_b": "a gunmetal liquid-lame overbust corset as the central piece, architectural with conical moulded cups lifting the bust high, fine chrome boning channels visible on the outside, a row of chrome busk clasps down the centre front and a wide flat chrome lacing panel down the back drawn tight over the waist, its hem cut high on the hip; a hot pink high-gloss vinyl thong worn beneath, its front a slim tapered panel and its back a single fine cord; sheer gunmetal-tinted stockings, 15 denier, held by four chrome clips on suspenders hanging from the corset hem; a slim chrome collar with no lettering, chrome cuffs on both wrists and long chrome bar earrings; nails: long almond-shaped acrylics lacquered in glossy hot pink; closed pointed-toe platform stiletto ankle boots in gunmetal patent vinyl, 16cm razor-thin chrome needle heel plus a 6-inch gunmetal platform, sharp closed pointed toe, a concealed inner zip at the ankle, and a hot pink mirrored sole edge",
+      "setting": "a photographic studio stripped bare, a seamless gunmetal grey cyclorama, one hard key light from high right and a single silver reflector just out of frame, the floor swept and empty",
+      "props": {
+        "seat": "a low gunmetal lacquer studio cube",
+        "wall": "the seamless gunmetal cyclorama sweep",
+        "surface": "the swept studio floor",
+        "upright": "a matte black lighting stand column"
+      }
+    }
   }
- }
 }

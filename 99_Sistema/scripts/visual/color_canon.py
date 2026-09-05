@@ -165,9 +165,21 @@ def audit_rotacion_familia(looks, rot):
     if not rot:
         return duros, avisos
     ventana = rot.get("ventana", 5)
-    tope = rot.get("max_por_familia", 2)
+    tope_base = rot.get("max_por_familia", 2)
     desde = rot.get("desde_look", 0)
     sin_consecutivos = rot.get("prohibir_consecutivos", True)
+    # FAMILIA FIRMA (Ama 05/09/2026). Dos ordenes suyas chocaban de frente:
+    #   04/09 — "el rosa venia degradado a detalle en 5 de 5", o sea el rosa de
+    #           Miss Doll DEBE aparecer dominante, no de adorno.
+    #   05/09 — "no puedo tener 3 outfit con el mismo color".
+    # Con un tope unico para todas las familias, cumplir la primera violaba la
+    # segunda: su batch L81-L85 salio rojo por rosa en L77/L79/L81/L83. La firma
+    # de una muñeca no es un color mas de la paleta — es ADN, igual que el
+    # cherry red del pelo de Ele. Asi que tiene su propio techo, mas alto, y
+    # sigue sometida a la regla de no-consecutivos: puede aparecer mas seguido,
+    # NUNCA dos veces pegada. Su libertad de color del 12/06 no se toca.
+    firma = (rot.get("familia_firma") or "").strip().lower() or None
+    tope_firma = rot.get("max_familia_firma", tope_base)
 
     hist = []                       # [(look, familia)]
     for it in looks:
@@ -182,10 +194,12 @@ def audit_rotacion_familia(looks, rot):
             historico = int(n) < desde
         except (TypeError, ValueError):
             historico = False
+        tope = tope_firma if (firma and fam == firma) else tope_base
         if len(mismos) + 1 > tope:
             msg = ("L%s: familia '%s' aparece %d veces en una ventana de %d looks "
-                   "(ya en L%s) — el tope es %d. Rediseña el COLOR de este look."
-                   % (n, fam, len(mismos) + 1, ventana, ", L".join(mismos), tope))
+                   "(ya en L%s) — el tope es %d%s. Rediseña el COLOR de este look."
+                   % (n, fam, len(mismos) + 1, ventana, ", L".join(mismos), tope,
+                      " (familia FIRMA, techo propio)" if tope != tope_base else ""))
             (avisos if historico else duros).append(
                 msg + (" (HISTORICO: la regla rige desde el L%s)" % desde if historico else ""))
         elif sin_consecutivos and prev and prev[-1][1] == fam:
