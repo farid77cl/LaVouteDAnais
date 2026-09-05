@@ -60,6 +60,7 @@ unico (29/08/2026). Los slots y sus etiquetas tampoco: salen del contrato.
 import io
 import json
 import os
+import re
 import subprocess
 import sys
 
@@ -71,7 +72,8 @@ sys.path.insert(0, AQUI)
 
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
-from garment_canon import audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict  # noqa: E402
+from garment_canon import audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
+from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
 
@@ -321,10 +323,117 @@ def cmd_generar(args):
     # mal, no se escribe nada. El color se lee del BLOQUE B, nunca del prompt
     # ensamblado (mismo criterio que la arquitectura de prenda: las anclas
     # nombran colores y el clasificador se leeria a si mismo).
+    # ------------------------------------------------------------------
+    # LA HISTORIA REAL ENTRA ACA (05/09/2026, tercera pasada del mismo dia).
+    #
+    # Ama: "cada vez que me generas un batch sale algun error... como evitamos
+    # eso?". Medido sobre los 13 batches del repo: 11 llevan marca de arreglo
+    # posterior. Y la causa no era que los outfits estuvieran mal pensados —
+    # era que las ventanas cruzadas se median SOLO contra el propio batch:
+    # `entrada` se armaba con `b["looks"]` y nada mas, asi que una ventana de 5
+    # nunca cruzaba el borde entre lotes. Su Anais L80 (aubergine) y su L84
+    # (ciruela) estan a CUATRO looks, los dos 'purple', y el generador los dejo
+    # pasar porque uno cerraba un batch y el otro abria el siguiente.
+    #
+    # Ademas la ROTACION DE ARQUITECTURA no corria aca en absoluto: vivia solo
+    # en `lint`, o sea DESPUES de escribir la galeria. Un chequeo que corre
+    # despues no evita el defecto, lo documenta.
+    #
+    # Ahora `generar` lee la galeria del personaje, pega los ultimos looks
+    # reales delante del batch y mide sobre la secuencia completa. Los looks ya
+    # materializados que violan una regla se declaran en
+    # `rotacion_*.historicos_declarados` y bajan a aviso: rediseñarlos no es
+    # posible, y un linter que grita lo inarreglable enseña a ignorarlo.
     orden = sorted(b["looks"].items(), key=lambda kv: int(kv[0]))
-    entrada = [{"look": n, "garment": lk["bloque_b"]} for n, lk in orden]
-    duros, avisos = audit_rotacion_familia(entrada, pb.perfil.get("rotacion_color"))
-    for a in avisos:
+    nums_batch = {int(n) for n, _ in orden}
+    historia = []
+    ruta_gal = os.path.join(RAIZ, pb.perfil.get("galeria", "").replace("/", os.sep))
+    if pb.perfil.get("galeria") and os.path.exists(ruta_gal):
+        try:
+            gal_b = extraer_bloques_b(io.open(ruta_gal, encoding="utf-8").read())
+            historia = [(n, gal_b[n]) for n in sorted(gal_b)
+                        if n not in nums_batch and n < min(nums_batch)][-12:]
+        except Exception as e:                                   # pragma: no cover
+            print("  \U0001f7e0 no se pudo leer la galeria para la historia (%s): "
+                  "las ventanas se miden SOLO contra el batch" % e)
+    if historia:
+        print("  historia real cargada: L%s..L%s (%d looks de la galeria)"
+              % (historia[0][0], historia[-1][0], len(historia)))
+    else:
+        print("  \U0001f7e0 sin historia previa en la galeria: las ventanas cruzadas "
+              "solo ven este batch")
+
+    def _historicos(rot):
+        return {int(x) for x in (rot or {}).get("historicos_declarados", [])}
+
+    def _num(msg):
+        m = re.match(r"L(\d+)\b", msg.strip())
+        return int(m.group(1)) if m else None
+
+    def _partir(duros_, rot):
+        """Baja a aviso lo que este declarado como historico inarreglable."""
+        hist_ok, quedan = [], []
+        for d in duros_:
+            if _num(d) in _historicos(rot):
+                hist_ok.append(d + "   (HISTORICO DECLARADO: look ya materializado)")
+            else:
+                quedan.append(d)
+        return quedan, hist_ok
+
+    # ---- rotacion de ARQUITECTURA de prenda sobre historia + batch ----------
+    rotp = pb.perfil.get("rotacion_prenda") or {}
+    tax = cfg.get("arquitecturas_de_prenda")
+    if rotp and tax:
+        seq = list(historia) + [(int(n), lk["bloque_b"]) for n, lk in orden]
+        cods = [(n, clasificar_arquitectura(g, tax)[0]) for n, g in seq]
+        vent = rotp.get("ventana_global", 3)
+        desde = rotp.get("desde_look", 0)
+        duros_a, avisos_a = [], []
+        for i, (n, cod) in enumerate(cods):
+            if cod is None or n not in nums_batch:
+                continue
+            choque = [m for m, c in cods[max(0, i - vent):i] if c == cod]
+            if not choque:
+                continue
+            msg = ("L%s: arquitectura %s repetida dentro de la ventana de %d looks "
+                   "(ya en L%s)" % (n, cod, vent, ", L".join(str(x) for x in choque)))
+            (duros_a if n >= desde else avisos_a).append(msg)
+        duros_a, hist_a = _partir(duros_a, rotp)
+        for a in avisos_a + hist_a:
+            print("  \U0001f7e0 %s" % a)
+        if duros_a:
+            print("\n  \U0001f534 ROTACION DE ARQUITECTURA — el batch no se escribe:")
+            for d in duros_a:
+                print("     %s" % d)
+            print("\n     Ama 05/09/2026: \"debes darme variedad en vestuario\".")
+            print("     No se le cambia el color: se rediseña la SILUETA.")
+            return 1
+
+    # ---- clon de outfit DENTRO del mismo personaje --------------------------
+    # El auditor cruzado compara a cada muñeca contra las OTRAS DOS; contra si
+    # misma no la comparaba nadie. Asi vivio el Miss Doll L72 <-> L78: 106
+    # n-gramas verbatim, el mismo outfit escrito dos veces.
+    seq_clon = list(historia) + [(int(n), lk["bloque_b"]) for n, lk in orden]
+    duros_k, avisos_k = audit_clon_intra(seq_clon, nums_batch)
+    duros_k, hist_k = _partir(duros_k, rotp)
+    for a in avisos_k + hist_k:
+        print("  🟠 %s" % a)
+    if duros_k:
+        print("\n  🔴 CLON DE OUTFIT — el batch no se escribe:")
+        for d in duros_k:
+            print("     %s" % d)
+        print("\n     Dos looks distintos no pueden ser el mismo parrafo con otro")
+        print("     color. Se rediseña la PRENDA, no la paleta.")
+        return 1
+
+    # ---- canon de color sobre historia + batch ------------------------------
+    entrada = ([{"look": str(n), "garment": g} for n, g in historia]
+               + [{"look": n, "garment": lk["bloque_b"]} for n, lk in orden])
+    rotc = pb.perfil.get("rotacion_color")
+    duros, avisos = audit_rotacion_familia(entrada, rotc)
+    duros = [d for d in duros if _num(d) in nums_batch]
+    duros, hist_c = _partir(duros, rotc)
+    for a in avisos + hist_c:
         print("  \U0001f7e0 %s" % a)
     if duros:
         print("\n  \U0001f534 CANON DE COLOR — el batch no se escribe:")

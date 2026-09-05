@@ -197,6 +197,53 @@ check("ASYMMETRY_LOCK no lo dispara el pelo",
 check("ASYMMETRY_LOCK sí lo dispara una prenda",
       "ASYMMETRY_LOCK" in pbm.opt_in_de("asymmetric one-shoulder latex gown"))
 
+
+# E7 clon de outfit DENTRO del mismo personaje (05/09/2026)
+#     Ama: "cada vez que me generas un batch sale algun error... como evitamos
+#     eso?". Un chequeo sin prueba esta a un paso de ser una regla sin ejecutor,
+#     que es la causa raiz que se repitio cuatro veces ese mismo dia.
+from garment_canon import audit_clon_intra, _cuerpo_sin_calzado   # noqa: E402
+
+_A = ("a deep aubergine high-shine latex overbust corset, heavily boned with fine "
+      "antique-silver boning channels visible on the outside, moulded cups lifting the "
+      "bust high; beneath it an aubergine latex thong with a slim shield-shaped front "
+      "panel; sheer smoke-plum stockings; closed pointed-toe boots, 12cm stiletto heel")
+_B = _A.replace("aubergine", "emerald").replace("smoke-plum", "smoke-green")
+_C = ("a champagne silk-satin pencil miniskirt cut high on the natural waist with a "
+      "concealed hook closure; above it a pussy-bow blouse with long full sleeves; a "
+      "silver fox stole across the shoulders; closed pointed-toe slingback, 12cm heel")
+
+d, _a = audit_clon_intra([(1, _A), (2, _B)], {2})
+check("clon intra: el mismo parrafo con otro color sale DURO", len(d) == 1)
+d2, _a2 = audit_clon_intra([(1, _A), (2, _C)], {2})
+check("clon intra: dos outfits de verdad distintos pasan limpios", not d2)
+d3, _a3 = audit_clon_intra([(1, _A), (2, _B)], {1})
+check("clon intra: solo mide los looks NUEVOS, no la historia contra si misma",
+      len(d3) == 1)
+check("clon intra: el calzado se excluye antes de comparar",
+      "heel" not in _cuerpo_sin_calzado(_A))
+
+# E8 guante cerrado + token de uñas (regla de la Ama del 11/08, sin ejecutor hasta el 05/09)
+from garment_canon import warn_glove_nail_conflict                # noqa: E402
+check("guantes: opera + token de uñas avisa",
+      bool(warn_glove_nail_conflict("long latex opera gloves to above the elbow; "
+                                    "nails: long stiletto-shaped fingernails")))
+check("guantes: sin guante + uñas NO avisa",
+      not warn_glove_nail_conflict("bare hands, no gloves; nails: oval manicured "
+                                   "glossy fingernails"))
+check("guantes: guante sin dedos + uñas NO avisa",
+      not warn_glove_nail_conflict("fingerless lace gloves to the elbow; nails: almond acrylics"))
+
+# E9 la corseteria de epoca ya no es invisible para la taxonomia
+from lint_prompts_personaje import clasificar_arquitectura        # noqa: E402
+_tax = cfg["arquitecturas_de_prenda"]
+for _pieza, _sub in (("a black silk-velvet longline merry widow, boned, with six suspender tabs", "A4"),
+                     ("a deep plum latex guepiere in the 1950s cut, boned", "A5"),
+                     ("an emerald silk-satin waspie cinching the waist alone, boned", "A2"),
+                     ("a deep aubergine latex overbust corset as the central piece", "A6")):
+    _cod = clasificar_arquitectura(_pieza + "; a matching thong", _tax)[0]
+    check("taxonomia: %s clasifica M4/%s" % (_sub, _sub), _cod == "M4/" + _sub)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

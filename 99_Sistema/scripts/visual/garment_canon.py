@@ -389,6 +389,83 @@ def warn_glove_nail_conflict(outfit, tag=""):
     return []
 
 
+# Clon de outfit DENTRO del mismo personaje (05/09/2026).
+#
+# Ama: "cada vez que me generas un batch sale algun error... como evitamos eso?".
+# El auditor cruzado (`outfit.py cruce`) compara el texto de una muñeca contra
+# LAS OTRAS DOS, nunca contra ella misma. Y el chequeo de arquitectura compara
+# codigos (M4, M6...), que es una etiqueta gruesa: dos looks pueden caer en
+# codigos distintos y aun asi ser el mismo parrafo con otro color.
+#
+# Medido el dia que se escribio, sobre los ultimos 14 looks de cada una:
+#   Miss Doll L72 <-> L78: 106 n-gramas de 8 palabras VERBATIM, 88.9% de lexico
+#   comun. Es el mismo outfit escrito dos veces. Nadie lo habia visto nunca.
+#   Anais, en cambio, no tiene ningun par sobre 37% — o sea el umbral no la
+#   castiga por su vocabulario de epoca, que se repite por canon.
+#
+# El calzado se EXCLUYE antes de comparar: su token es verbatim en las 7 poses
+# y en todos los looks por regla (Token de Calzado Bloqueado), asi que dejarlo
+# dentro hacia que cualquier par de looks compartiera 7 n-gramas de arranque.
+CALZADO_FUERA = re.compile(r"\bheel\b", re.I)
+UMBRAL_CLON_ROJO = 45.0        # % de lexico compartido
+UMBRAL_CLON_NARANJA = 40.0   # mas alto que el 35 del auditor CRUZADO a proposito:
+#                              dentro de una misma muñeca el vocabulario base se
+#                              repite por canon (su ADN, sus materiales, su liguero),
+#                              asi que 35 producia 6 avisos por batch de puro ruido.
+#                              Calibrado sobre los ultimos 14 looks de las tres: a 40
+#                              solo quedan los pares que de verdad se parecen.
+UMBRAL_NGRAMAS_ROJO = 20
+
+
+def _cuerpo_sin_calzado(bloque_b):
+    return "; ".join(s for s in (bloque_b or "").split(";")
+                     if not CALZADO_FUERA.search(s))
+
+
+def _ngramas(texto, k=8):
+    w = re.findall(r"[a-z']+", (texto or "").lower())
+    return set(tuple(w[i:i + k]) for i in range(len(w) - k + 1))
+
+
+def _lexico_comun(a, b):
+    A = set(re.findall(r"[a-z']{4,}", (a or "").lower()))
+    B = set(re.findall(r"[a-z']{4,}", (b or "").lower()))
+    return 100.0 * len(A & B) / max(1, len(A | B))
+
+
+def audit_clon_intra(looks, nuevos):
+    """Compara cada look NUEVO contra los demas del mismo personaje.
+
+    `looks`  : [(numero, bloque_b)] — historia real + batch, en orden.
+    `nuevos` : set de numeros que se estan por escribir.
+
+    Devuelve (duros, avisos). Un duro significa: este look y aquel son el mismo
+    outfit redactado dos veces. Se rediseña la prenda, no se le cambia el color.
+    """
+    cuerpos = {n: _cuerpo_sin_calzado(g) for n, g in looks}
+    grams = {n: _ngramas(c) for n, c in cuerpos.items()}
+    duros, avisos = [], []
+    vistos = set()
+    for n in sorted(nuevos):
+        if n not in cuerpos:
+            continue
+        for m, _ in looks:
+            if m == n or (min(n, m), max(n, m)) in vistos:
+                continue
+            vistos.add((min(n, m), max(n, m)))
+            com = len(grams[n] & grams[m])
+            sim = _lexico_comun(cuerpos[n], cuerpos[m])
+            if sim < UMBRAL_CLON_NARANJA and com < 8:
+                continue
+            msg = ("L%s: mismo outfit que L%s con otro color — %.1f%% de lexico "
+                   "comun y %d n-gramas de 8 palabras verbatim" % (n, m, sim, com))
+            if sim >= UMBRAL_CLON_ROJO or com >= UMBRAL_NGRAMAS_ROJO:
+                duros.append(msg)
+            else:
+                avisos.append(msg)
+    return duros, avisos
+
+
 def audit_negative(negative, tag=""):
     """Lintea el bloque Negative Prompt de UN look (Ama 13/07 — bug 'sin negative desde el L711':
     60 looks / 420 poses salieron con el negative vacio porque cada inyector lo tipeaba a mano y

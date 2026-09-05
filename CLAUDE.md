@@ -152,6 +152,20 @@ python 99_Sistema/scripts/visual/outfit.py cruce             # clones of outfit 
 #   End-to-end parity between the three dolls is measured by `lint <slug>` + `adn` — see rule 11 §9quinquies.
 python 99_Sistema/scripts/visual/outfit.py test              # rule self-checks + 32 engine tests (bad input, determinism, rotation, coverage, regressions)
 python 99_Sistema/scripts/visual/outfit.py generar batches/<batch>.json   # emit a look batch from DATA (never a new script)
+#   ⚠️ **`generar` IS the gate, since 05/09/2026** (Ama: *"cada vez que me generas un batch sale
+#   algun error... como evitamos eso?"* — measured: 11 of the 13 batches in the repo carry an
+#   after-the-fact fix marker). It used to run only PER-LOOK checks (footwear, garment, safe
+#   filter), while every cross-look rule lived in `lint`/`cruce` — i.e. AFTER the gallery was
+#   written. A check that runs after does not prevent the defect, it documents it. It now loads
+#   the character's last 12 real looks FROM THE GALLERY and blocks on: architecture repeated in
+#   the window (crossing batch borders — the window used to see only the batch, which is how
+#   Anaïs L80 and L84 passed four looks apart), colour family cap, and **clone of outfit inside
+#   the same doll** (verbatim 8-word n-grams + shared lexicon, footwear excluded because its
+#   token is identical by canon). That last one found `miss_doll L72 ↔ L78`: **106 verbatim
+#   n-grams, 88.9% shared lexicon** — the same outfit written twice, never seen by any check,
+#   because `cruce` compares each doll against the OTHER TWO and never against herself.
+#   Looks already materialized that violate a rule go in `rotacion_*.historicos_declarados`
+#   and drop to a warning: a linter that shouts about the unfixable teaches you to ignore it.
 python 99_Sistema/scripts/visual/prompt_builder.py --adn      # BLOQUE A single-owner check: profile vs every batch script vs gallery
 python 99_Sistema/scripts/visual/auditar_canon_flota.py       # footwear + garment canon ON THE REAL FLEET (add --solo-sin-imagen for live risk)
 python 99_Sistema/scripts/visual/footwear_canon.py            # self-test of the stiletto/Pleaser rules — fixtures only, reads no gallery
