@@ -438,12 +438,20 @@ Describir **en este orden**:
 
 | Elemento | Ventana |
 |---|---|
-| Silueta | ≥ 3 looks del mismo arquetipo |
+| **Silueta** | **≥ 5 looks, TRANSVERSAL a los arquetipos** *(rev. 05/09/2026 — antes era «≥3 del mismo arquetipo»)* |
 | Setting / escenario | ≥ 3 looks del mismo arquetipo |
 | Modo cromático monoblock | máx. 2 consecutivos |
 
 - **Outfit único:** sí.
 - ⚠️ **Esto es nuevo para Anaïs.** Su motor anterior no tenía Step 0: los looks se elegían solo por déficit de arquetipo, sin bloquear siluetas ni settings. Aplicar hacia adelante.
+
+> 🕳️ **Por qué la ventana de silueta dejó de estar atada al arquetipo (Ama 05/09/2026).** Ella lo vio en las imágenes antes que cualquier auditor: *«me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el nuevo batch»*.
+>
+> **Medido:** el **L84** (guêpière de látex ciruela + tanga) repetía el **L80** (corsé overbust de látex aubergine + tanga) — misma corsetería de látex high-shine, misma tanga a juego, mismas medias tintadas, mismos guantes de ópera de látex, y **la misma familia cromática** (el propio `outfit.py cruce` X3 los clasifica a los dos como `purple`). Y el **L85** (falda lápiz + blusa de lazada champán) repetía el **L77** (falda lápiz + blusa de lazada chocolate/camel): *misma prenda, otro color*, que es literal lo que prohíbe la regla de silueta.
+>
+> **Por qué ningún chequeo lo vio:** la ventana estaba **scopeada por arquetipo**. El L78 es Boudoir y el L84 es Látex; el L77 es Ejecutivo y el L85 es Noche. **Arquetipos distintos ⇒ la regla nunca los comparó.** Una arquitectura podía pasear entre las cinco categorías indefinidamente y salir limpia de las cinco. Es el mismo modo de falla que `rotacion_prenda` (que compara a cada muñeca consigo misma) y que el tope de color pre-05/09: la regla existía, su **alcance** la dejaba ciega.
+>
+> **Ahora:** la arquitectura de prenda no se repite en los **últimos 5 looks**, sea cual sea el arquetipo. Las bibliotecas §5.6 (lencería, 10 arquitecturas) y §5.6a (vestido, 11) existen justamente para tener de dónde rotar.
 
 ---
 
@@ -456,6 +464,7 @@ Describir **en este orden**:
 | **🦊 Pieles** *(nueva 11/08/2026)* | **≥ 1 de cada 4 looks nuevos** | Transversal a todos los arquetipos. Chequeo pre-diseño: si los últimos 3 looks no llevaron piel, el que se está diseñando **debe** llevarla. No repetir el mismo tipo (visón/zorro/marta/astracán/chinchilla) en dos apariciones consecutivas. Ver §5.1b |
 | **👘 Bata abierta** *(nueva 12/08/2026)* | **≥ 1 de cada 2 looks nuevos de Boudoir/Lencería** | Exclusiva de ese arquetipo — no aplica a Noche/Látex/Sesión Literaria/Ejecutivo. Piso medido sobre el reset (2/4 actual); no baja hacia adelante. Alterna con silueta sin bata (sujetador+liguero directo, corsé+bota). Ver §5.1c |
 | **🐆 Animal print** *(nueva 23/08/2026)* | **≥ 1 de cada 8 looks nuevos** | Transversal a todos los arquetipos, solo en tejido noble (§5.2). Prioridad de aparición: Ejecutivo de Poder (firma del arquetipo reescrito) > el resto por déficit normal |
+| **🖤 Corsé + tanga** *(nueva 05/09/2026 — gusto declarado de la Ama)* | **≥ 2 de cada 5 looks nuevos** | Transversal a los cinco arquetipos: la corsetería no es exclusiva de Boudoir — la dueña de La Voûte en corsé es Noche de pleno derecho, y el arquetipo Látex la nombra explícitamente. **Corsetería VISIBLE como pieza central** (overbust, merry widow, guêpière, waspie, corselette — §5.6 A4-A7), no una costura integrada dentro de un vestido. **Cada aparición con una arquitectura distinta de §5.6:** dos corsés seguidos de la misma familia son el mismo look con otro color, que es justo el reclamo que creó esta cuota |
 
 ---
 
@@ -468,6 +477,8 @@ Describir **en este orden**:
 - Tatuaje o piercing visible.
 - Sonrisa amplia, risa o actitud juguetona.
 - Fondo exterior/natural en un arquetipo que no sea Viaje/Jet Set.
+- **Guante cerrado + token de uñas de mano en el mismo prompt** → choque con §5.6 (corrección de la Ama del 11/08/2026: si los dedos van tapados, el token de manicura **se omite**). Medido el 05/09: iba en **8 de sus últimos 10 looks** (L76, L79, L80, L81, L82, L83, L84, L85) — la regla estaba escrita y **no tenía ejecutor**. `outfit.py generar` ahora lo avisa; L84 y L85 lo arrastran y no se corrigen porque ya están materializados (retrofit-al-tocar).
+- **Guantes de ópera en más de 3 de cada 5 looks** → monotonía de accesorio. Medido el 05/09: **8 de los últimos 10**, y los **5** del batch L81-L85. Es la mitad de lo que la Ama lee como "el mismo vestuario", junto con el herraje `antique gold/silver` en **9 de 10**. Rotar: manos desnudas (y ahí sí, manicura visible), guante corto de muñeca, o sin guante con joya en la muñeca.
 - **Materialidad prestada de Ele o Miss Doll** (vinilo de club, PVC barato, neón): Anaïs es tejido noble. Si el outfit parece de la flota de Ele, está mal.
 - **Piel que borra la cintura** (abrigo cerrado, look enteramente cubierto de pelo) → rompe el hourglass del ADN, regenerar. La piel va **abierta o caída**, con la cintura ceñida explícita en el prompt (§5.1b).
 - **Piel de registro deportivo o moderno** (capucha con pelo, chaleco de peluche, sintética barata) → materialidad prestada, mismo error que el vinilo de club.

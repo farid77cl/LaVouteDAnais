@@ -4972,6 +4972,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **Concepto:** Club/Escenario, el mayor deficit del roster (15,2% contra 18%). Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- ausente de sus ultimos dos batches y la unica silueta cubierta que todavia no le habia tocado en escenario. El fucsia firma va DOMINANTE, no de adorno: es la correccion del 04/09, cuando la Ama midio que el rosa venia degradado a detalle en 5 de 5 looks. Modo Monoblock, hardware en cromo negro para que el fucsia no compita.
 
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a shocking fuchsia liquid-latex catsuit cut as a single piece, full-length legs to the ankle, a deep V neckline dropping to the sternum and held there by a black chrome ring, long sleeves ending at the wrist, the latex polished to a wet shine with sculpted seams tracing the waist and following the hip line, and a black chrome zip running the full length of the spine to the tailbone; beneath it a fuchsia latex thong, its front a slim tapered panel and its back a single fine cord; no stockings, the catsuit covers the leg to the ankle; a wide black chrome collar with no lettering, black chrome cuffs on both wrists and long faceted fuchsia drop earrings; nails: long almond-shaped acrylics lacquered in glossy shocking fuchsia; closed pointed-toe platform stiletto knee boots in fuchsia patent vinyl reaching just below the knee, 16cm razor-thin black chrome needle heel plus a 6-inch fuchsia platform, sharp closed pointed toe, a concealed inner zip along the calf, mirrored black chrome sole edge
+```
+
 ### 📸 Imágenes (0/7 — Pendiente)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
@@ -5025,6 +5030,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 - **Tags:** #mix #gym_athletic #gy4 #deficit #V7poses #batchL81-L85
 
 **Concepto:** Gym/Athletic, segundo deficit junto con Girly Girl (10,6% contra 12%). Arquitectura M8 (legging + top, CUBIERTA) -- la unica de las diez que no aparecia en ninguno de sus dos batches anteriores. Violeta UV, uno de los frios saturados que su §5.2b declara como su mejor calce. La pierna va en legging esta vez, rotando contra el bike short del ultimo gym. Modo Contraste con el gunmetal del hardware. El rosa firma vive en la suela y en la boca.
+
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+UV violet high-gloss vinyl high-waisted leggings moulded to the leg and ending at the ankle, with a wide moulded waistband sitting above the natural waist and a flat gunmetal zip at the centre back; above them a UV violet vinyl sports bra with a high round neckline, moulded cups underwired and set close together, a gunmetal ring at the centre gore and wide racer straps crossing over the shoulder blades; beneath the leggings a UV violet vinyl thong with a slim tapered front panel and a single fine cord at the back; a gunmetal chain choker with no lettering, gunmetal cuffs on both wrists and small gunmetal hoop earrings; nails: long almond-shaped acrylics lacquered in glossy UV violet; closed pointed-toe platform stiletto trainers in UV violet patent vinyl, 15cm razor-thin gunmetal needle heel plus a 5-inch violet platform, closed pointed toe, doubled violet ankle straps with gunmetal pin buckles, and a hot pink mirrored sole edge
+```
 
 ### 📸 Imágenes (0/7 — Pendiente)
 
@@ -5080,6 +5090,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **Concepto:** Girly Girl, ejecutado con el canon REDEFINIDO el 03/09: hiperfem de MUJER ADULTA -- curva extrema, gloss saturado, silueta bodycon, hardware como joyeria. Arquitectura M6 (vestido de segunda piel, CUBIERTA) -- libre en la ventana. Rosa shocking saturado, nunca pastel. CERO moños, cero charms de corazon, cero mangas abullonadas, cero Mary Jane: las cinco prohibiciones duras que la Ama fijo el 03/09 sobre el L66. La feminidad exagerada vive en la silueta y en el color, no en la merceria. Modo Monoblock.
 
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a shocking pink high-gloss vinyl second-skin dress moulded to the body from the bust to just above the knee, a deep sweetheart neckline with a structured underwired edge cut low and pressing in under the bust, thin rose-gold chrome straps over the shoulders, sculpted panel seams drawing the waist in hard, and a rose-gold chrome zip running the full length of the centre back; beneath it a shocking pink vinyl thong, its front a slim tapered panel and its back a single fine cord; no stockings, bare legs; a heavy rose-gold chrome collar with no lettering, wide rose-gold chrome cuffs on both wrists and long faceted pink crystal drop earrings, all read as jewellery hardware; nails: long almond-shaped acrylics lacquered in glossy shocking pink; closed pointed-toe platform stiletto pumps in shocking pink patent vinyl, 16cm razor-thin rose-gold chrome needle heel plus a 6-inch pink platform, sharp closed pointed toe, a single rose-gold chrome ankle strap with a pin buckle, mirrored rose-gold sole edge
+```
+
 ### 📸 Imágenes (0/7 — Pendiente)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
@@ -5133,6 +5148,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 - **Tags:** #mix #club_escenario #cl6 #deficit #V7poses #batchL81-L85
 
 **Concepto:** Segundo Club/Escenario del batch: con -2,8 de deficit, uno solo no lo cierra. Arquitectura M1 (bodysuit segunda piel, piel) -- se repite del batch anterior pero fuera de la ventana de 3 y con silueta completamente distinta (aquel era plunge en V con anillo; este es halter de cuello alto y espalda abierta). Esmeralda: familia que no aparece en ninguno de sus dos batches anteriores. Modo Triada -- esmeralda, cromo y el rosa firma en la boca y las uñas. Calzado cerrado (pump, no sandalia) porque el look lleva medias: con media la puntera va cerrada, y 'sandal' cuenta como abierta aunque el texto diga closed toe.
+
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+an emerald green high-gloss vinyl bodysuit cut as a second skin, a high halter neckline fastened behind the neck by a mirror-chrome ring, the back scooped open to the waist with two fine chrome chains crossing it, sharp geometric cut-outs at each side of the waist, and a high-cut leg line rising past the hip bone; the bodysuit finishes as a thong at the back, its front a slim tapered panel; sheer emerald-tinted stockings, 15 denier, held by an emerald vinyl suspender belt with four chrome clips; a slim mirror-chrome collar with no lettering, mirror-chrome cuffs on both wrists and long faceted emerald drop earrings; nails: long almond-shaped acrylics lacquered in glossy hot pink; closed pointed-toe platform stiletto pumps in emerald patent vinyl, 16cm razor-thin chrome needle heel plus a 6-inch emerald platform, sharp closed pointed toe, a single emerald ankle strap with a chrome pin buckle, and a hot pink mirrored sole edge
+```
 
 ### 📸 Imágenes (0/7 — Pendiente)
 
@@ -5188,6 +5208,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 **Concepto:** Editorial/Portada (9,1%, en meta -- cierra el batch con la unica categoria de sesion pura). Arquitectura M4 (corseteria + tanga, piel) -- se repite del batch anterior pero fuera de la ventana de 3 y en registro opuesto: aquel era calabozo en negro carbon con oro viejo, este es sesion de portada en gunmetal con luz de estudio. Metal: quinta familia distinta del batch. Modo Contraste con el rosa firma, que aca es el UNICO color saturado del cuadro.
 
+**BLOQUE B (outfit -- copiado textual e identico en los 7 prompts):**
+```text
+a gunmetal liquid-lame overbust corset as the central piece, architectural with conical moulded cups lifting the bust high, fine chrome boning channels visible on the outside, a row of chrome busk clasps down the centre front and a wide flat chrome lacing panel down the back drawn tight over the waist, its hem cut high on the hip; a hot pink high-gloss vinyl thong worn beneath, its front a slim tapered panel and its back a single fine cord; sheer gunmetal-tinted stockings, 15 denier, held by four chrome clips on suspenders hanging from the corset hem; a slim chrome collar with no lettering, chrome cuffs on both wrists and long chrome bar earrings; nails: long almond-shaped acrylics lacquered in glossy hot pink; closed pointed-toe platform stiletto ankle boots in gunmetal patent vinyl, 16cm razor-thin chrome needle heel plus a 6-inch gunmetal platform, sharp closed pointed toe, a concealed inner zip at the ankle, and a hot pink mirrored sole edge
+```
+
 ### 📸 Imágenes (0/7 — Pendiente)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
@@ -5232,13 +5257,3 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 **Negative Prompt:** `bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, coral eyeshadow, peach eyeshadow, terracotta lips, coral lips, pastel eyeshadow, low-pigment eyeshadow, washed-out eyeshadow, grey eyes, steel grey iris, pale washed-out iris, colourless iris, white eyes, blank white iris, glowing white eyes, albino eyes, childish face, teen, natural makeup, subtle makeup, nude lips, matte lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, block heel, chunky heel, vulgar cheap costume, slouched shoulders, warm smile, laughing, sharp angular face, angular jawline, thin invisible eyebrows, sparse pale blonde eyebrows, barely visible brows, faint eyebrows, eyebrows blending into skin, bodybuilder physique, overly muscular, bulky muscles, veiny muscles, grotesque six-pack, masculine muscle mass, thick bulky arms, thick muscular shoulders, wide muscular legs, thick calves, muscular bulky thighs, small chest, natural breasts, flat chest, corset, waist cincher, bustier, doll face, mannequin face, uncanny doll-like appearance, glassy doll eyes, porcelain doll aesthetic, full brief, high-waist brief, high-waisted panty, boyshort, boy shorts, hipster brief, culotte, tap pants, granny panties, bloomers, full-coverage bikini bottom, bikini bottom covering the buttocks, full seat coverage, legs spread apart under a dress, legs parted under a skirt, mule, mules, platform mule, mule sandals, slide sandals, backless heels, short robe, mini robe, cotton, denim, wool, linen, matte natural fabric, no platform, kitten heel, collage, grid of images, multi-panel layout, contact sheet, photo strip, storyboard, image divided into panels, borders dividing the image, split image, duplicate figure, two women, mirror reflection showing a second copy of the same woman, framed picture of the same woman inside the scene, inset photo, rotated image, tilted horizon, extra hands, third hand, extra arms, extra fingers, fused fingers, missing fingers, deformed hands, mutated hands, three legs, extra leg, extra foot, phone, smartphone, selfie stick, selfie, text on clothing, lettering on garment, embroidered name, logo text`
 
 ---
-
----
-
-## Cierre de galeria -- bloque centinela (02/09/2026, relocado)
-
-Este bloque no es un outfit y el parser de LV-App no lo cuenta como tal: su encabezado no contiene la palabra clave seguida de un numero, que es lo unico que la app busca para abrir una ficha nueva.
-
-Existian dos copias de este cierre, del 18/08/2026 y del 28/08/2026, ambas enterradas a mitad del archivo -- la primera antes del Look 31, la segunda antes del Look 66 porque el batch L66-L70 se agrego DESPUES de ella sin moverla. Las dos habian dejado de cumplir su funcion: el Look 70 quedaba como ultimo bloque real del archivo, exactamente el defecto que el centinela existe para evitar (la Ama reporto antes ver menos outfits de los que el archivo realmente tenia, confirmado en Anais: 24 vistos vs 25 reales). Esta copia unica se relocaliza aqui, al final real, y absorbe el historial de ambas.
-
-Se mantiene SIEMPRE al final: cuando entre un look nuevo, va antes de este bloque, nunca despues.

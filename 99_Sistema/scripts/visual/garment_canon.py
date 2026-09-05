@@ -363,6 +363,32 @@ def warn_safe_filter(outfit, tag=""):
             for f, why in EXPOSICION_AVISA if f in o]
 
 
+# Guante cerrado + token de uñas de mano en el mismo BLOQUE B. Es una regla
+# generica de redaccion, no de un personaje: si los dedos van tapados, la
+# manicura NO se ve, y describirla igual es pedirle al generador dos cosas
+# incompatibles en la misma mano. La Ama la fijo el 11/08/2026 sobre Anais
+# ("el error no era el guante -- era mio, por meter el token de manicura de
+# todos modos en un prompt donde las manos van tapadas") y quedo escrita en su
+# perfil §5.6 SIN EJECUTOR: medido el 05/09/2026, iba en 8 de sus ultimos 10
+# looks. Avisa, no bloquea -- hay lotes ya materializados que la arrastran y
+# rediseñarlos no es posible.
+GUANTE_CERRADO = re.compile(
+    r"\bopera gloves\b|\bgloves?\b[^;.]{0,40}\b(?:to|above|past)\s+the\s+elbow"
+    r"|\belbow-length\b[^;.]{0,25}\bgloves?\b|\bwrist-length\b[^;.]{0,25}\bgloves?\b")
+SIN_DEDOS = re.compile(r"fingerless|open-finger|\bmitts?\b")
+TOKEN_UNAS = re.compile(r"\bnails\s*:|manicured\s+(?:glossy\s+)?fingernails|\bacrylics\b")
+
+
+def warn_glove_nail_conflict(outfit, tag=""):
+    """Avisa si el look tapa los dedos y aun asi describe la manicura."""
+    o = (outfit or "").lower()
+    if GUANTE_CERRADO.search(o) and not SIN_DEDOS.search(o) and TOKEN_UNAS.search(o):
+        return ["[%s] guante cerrado + token de uñas en el mismo BLOQUE B: con los "
+                "dedos tapados la manicura no se ve, se OMITE el token (perfil §5.6, "
+                "correccion de la Ama del 11/08/2026)" % tag]
+    return []
+
+
 def audit_negative(negative, tag=""):
     """Lintea el bloque Negative Prompt de UN look (Ama 13/07 — bug 'sin negative desde el L711':
     60 looks / 420 poses salieron con el negative vacio porque cada inyector lo tipeaba a mano y

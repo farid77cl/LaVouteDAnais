@@ -205,29 +205,39 @@ def main(argv):
     #  puedo tener 3 outfit con el mismo color, asi que dale balance y
     #  restricciones". El tope y la ventana viven en `rotacion_color` de cada
     #  personaje (anclas_universales.json) — aca solo se aplican.
-    print("\nX3 · TOPE DE FAMILIA CROMATICA (máx. por familia en la ventana)")
+    # (!) La ventana es RODANTE POR PERSONAJE, no por batch (corregido 05/09/2026,
+    # segunda pasada del mismo dia). Calculada batch por batch, una ventana de 5
+    # nunca cruza el borde entre lotes -- y ahi vivia justo lo que la Ama vio: su
+    # Anais L80 (aubergine) y su L84 (ciruela) estan a CUATRO looks, los dos
+    # 'purple', y salieron limpios porque el L80 cerraba un batch y el L84 abria
+    # el siguiente. Misma ceguera de ALCANCE que la ventana de silueta atada al
+    # arquetipo: la regla estaba bien, su recorte la dejaba mirando al lado
+    # equivocado. Se conserva el detalle por batch, que es como se leen.
+    print("\nX3 . TOPE DE FAMILIA CROMATICA (ventana RODANTE por personaje, cruza batches)")
     perfiles = cfg.get("personajes", {})
-    for base, _j in lote:
-        deste = [l for l in looks if l[1] == base]
-        if not deste:
-            continue
-        rot = (perfiles.get(deste[0][0]) or {}).get("rotacion_color")
-        entrada = [{"look": l[2], "garment": l[4]} for l in deste]
-        duros_c, avisos_c = audit_rotacion_familia(entrada, rot)
-        detalle = " · ".join("L%s=%s" % (l[2], l[6] or "?") for l in deste)
-        distintas = len({l[6] for l in deste if l[6]})
+    por_pj_c = {}
+    for l in looks:
+        por_pj_c.setdefault(l[0], []).append(l)
+    for pj, ls in sorted(por_pj_c.items()):
+        ls = sorted(ls, key=lambda x: int(x[2]))
+        rot = (perfiles.get(pj) or {}).get("rotacion_color")
+        duros_c, avisos_c = audit_rotacion_familia(
+            [{"look": l[2], "garment": l[4]} for l in ls], rot)
         for d in duros_c:
-            rojos.append(("X3", "%s · %s" % (base, d)))
-            print("   🔴 %s · %s" % (base, d))
+            rojos.append(("X3", "%s . %s" % (pj, d)))
+            print("   🔴 %s . %s" % (pj, d))
         for a in avisos_c:
-            avisos.append(("X3", "%s · %s" % (base, a)))
-            print("   🟠 %s · %s" % (base, a))
+            avisos.append(("X3", "%s . %s" % (pj, a)))
+            print("   🟠 %s . %s" % (pj, a))
         if not duros_c and not avisos_c:
-            print("   ✅ %s: %d familias distintas   (%s)" % (base, distintas, detalle))
-        elif not duros_c:
-            print("      %s → %d familias distintas   (%s)" % (base, distintas, detalle))
+            print("   ✅ %s: sin colision de familia en la ventana rodante" % pj)
+        for base, _j in lote:
+            deste = [l for l in ls if l[1] == base]
+            if deste:
+                print("      %s -> %s" % (base, " . ".join("L%s=%s" % (l[2], l[6] or "?")
+                                                           for l in deste)))
         if not rot:
-            print("      ⚠️  %s no declara `rotacion_color` en anclas_universales.json" % deste[0][0])
+            print("      ⚠️  %s no declara `rotacion_color` en anclas_universales.json" % pj)
 
     # ---- X4 : arquitectura repetida contra el batch anterior del personaje --
     print("\nX4 · ARQUITECTURA REPETIDA CONTRA EL BATCH ANTERIOR DEL MISMO PERSONAJE")
@@ -250,8 +260,29 @@ def main(argv):
                 msg = ("%s · %s repite %d de %d arquitecturas de %s: %s"
                        % (pj, b_nue, len(repetidas), len(nue), b_ant,
                           ", ".join("L%s=%s (ya en L%s)" % (n, a, v) for n, a, v in repetidas)))
-                (rojos if len(repetidas) >= 3 else avisos).append(("X4", msg))
-                print("   %s %s" % ("🔴" if len(repetidas) >= 3 else "🟠", msg))
+                # 🔴 DESDE EL 05/09/2026: UNA sola repeticion contra el batch
+                # inmediatamente anterior ya es dura. Antes el umbral era >=3 y dos
+                # repeticiones salian 🟠 -- que es exactamente lo que paso con
+                # AN_L81_L85 (L84 repetia el L78, L85 repetia el L77): el auditor
+                # AVISO, y la excusa quedo escrita dentro del propio batch ("fuera
+                # de la ventana de 3 y en registro opuesto"). La Ama lo vio en la
+                # primera imagen. Un aviso que se puede argumentar no es un control,
+                # y el batch anterior es lo ultimo que ella tiene en el ojo: ahi la
+                # vara es cero.
+                #
+                # `cross_batch_desde_look` evita el grito retroactivo: los lotes ya
+                # materializados quedan en 🟠 HISTORICO, porque rediseñarlos no es
+                # posible y un linter que grita lo inarreglable enseña a ignorarlo.
+                rotp = (cfg.get("personajes", {}).get(pj) or {}).get("rotacion_prenda") or {}
+                desde = rotp.get("cross_batch_desde_look")
+                vivo = desde is not None and min(int(x[2]) for x in nue) >= desde
+                if not vivo:
+                    msg += ("   (HISTORICO: la vara dura rige desde el Look %s)" % desde
+                            if desde is not None
+                            else "   (%s no declara cross_batch_desde_look)" % pj)
+                duro = vivo or len(repetidas) >= 3
+                (rojos if duro else avisos).append(("X4", msg))
+                print("   %s %s" % ("🔴" if duro else "🟠", msg))
     if not hubo:
         print("   ✅ ningún batch repite arquitecturas del anterior del mismo personaje")
 

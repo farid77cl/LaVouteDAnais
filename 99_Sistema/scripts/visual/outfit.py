@@ -71,7 +71,7 @@ sys.path.insert(0, AQUI)
 
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
-from garment_canon import audit_garment, audit_safe_filter, warn_safe_filter  # noqa: E402
+from garment_canon import audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
 
@@ -166,7 +166,8 @@ def cmd_generar(args):
         # porque su clausula de exposicion hacia rebotar el filtro de Gemini.
         # Un prompt que el generador rechaza no es un prompt: es cuota quemada.
         canon += audit_safe_filter(lk["bloque_b"], tag="L%s" % num)
-        for w in warn_safe_filter(lk["bloque_b"], tag="L%s" % num):
+        for w in (warn_safe_filter(lk["bloque_b"], tag="L%s" % num)
+                  + warn_glove_nail_conflict(lk["bloque_b"], tag="L%s" % num)):
             print("  🟠 Look %s (BLOQUE B): %s" % (num, w))
         if canon:
             for v in canon:
@@ -237,9 +238,21 @@ def cmd_generar(args):
         # galeria de Ele **no tolera el fence** — medido: le hace ingerir a LV-App 8
         # prompts donde hay 7 y el slot Standing recibe dos, o sea PrimaryKey REPLACE
         # y una toma perdida en silencio. Por eso su perfil declara `outfit_inline`.
+        #
+        # 🐛 CORREGIDO 05/09/2026 (segunda pasada). El fence era **opt-in por
+        # batch** (`emitir_bloque_b`) con default silencioso en FALSE, o sea la
+        # auditabilidad de un look dependia de que quien escribiera el JSON se
+        # acordara de una llave. Los dos batches de ese mismo dia se olvidaron —
+        # `AN_L81_L85` y `MD_L81_L85` — y sus **10 looks quedaron invisibles para
+        # el chequeo 12**, justo los que la Ama vio clonados con sus propios ojos
+        # ("la volviste a poner con el mismo vestuario"). El linter no la
+        # contradijo: no los estaba mirando. Ahora el fence es el DEFAULT y solo
+        # se apaga declarandolo (`emitir_bloque_b: false`); quien decide la FORMA
+        # es el perfil del personaje (`outfit_inline`), que es su dueño, no el
+        # batch de turno.
         if pb.perfil.get("outfit_inline"):
             out += ["- **Outfit (BLOQUE B):** `%s`" % lk["bloque_b"].replace("`", "'").strip(), ""]
-        elif b.get("emitir_bloque_b"):
+        elif b.get("emitir_bloque_b", True):
             out += ["**BLOQUE B (outfit -- copiado textual e identico en los %d prompts):**"
                     % len(slots), "```text", lk["bloque_b"], "```", ""]
         out += ["### \U0001f4f8 Imágenes (0/7 — Pendiente)", ""]

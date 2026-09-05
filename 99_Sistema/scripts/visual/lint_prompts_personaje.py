@@ -200,7 +200,17 @@ def clasificar_arquitectura(bloque_b, tax):
         if cubierta and req and not re.search(req, b):
             cubierta = False
             aviso = regla.get("si_falta", "")
-        return regla["codigo"], cubierta, aviso
+        # SUBFAMILIA (05/09/2026). Sin esto, "corseteria" es UNA arquitectura y la
+        # orden de la Ama se vuelve imposible de cumplir: pidio corse+tanga mas
+        # seguido (perfil §8, >=2 de cada 5) y ADEMAS variedad, y a granularidad
+        # M4 cada corse marcaria repeticion del corse anterior. Lo que no puede
+        # repetirse en la ventana no es "corseteria" — es LA MISMA corseteria.
+        cod = regla["codigo"]
+        for sub in regla.get("subfamilias", []):
+            if re.search(sub["regex"], b):
+                cod = "%s/%s" % (cod, sub["codigo"])
+                break
+        return cod, cubierta, aviso
     return None, False, None
 
 

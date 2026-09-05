@@ -1,92 +1,93 @@
 {
- "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/anais.md §2).",
- "_origen": "Ama 05/09/2026: 'genera 5 nuevos outfit por muñeca'.",
- "_step_0": "Arquitecturas del batch anterior L76-L80 = M9, M7, M3, M10, M4. Este usa M6, M1, M8, M5, M7: solo M7 se repite (1 de 5) y queda fuera de la ventana de 3.",
- "_deficit": "Balance medido el 05/09 sobre 40 looks (conteo desde el L41, reset del 11/08): Noche/La Voute 27,5% vs meta 33% -- el mayor deficit y por lejos. Ejecutivo de Poder viene +3,0 SOBRE meta y por eso no aparece. Tres de los cinco son Noche: con -5,5 puntos, uno solo no cierra la brecha.",
- "_colorimetria": "Negro - esmeralda - oro viejo - ciruela - champan. Cero rojo dominante en los cinco, deliberado: su §5.2b midio que el rojo/vino llevaba el 55,4% de sus outfits con los labios crimson FIJOS, o sea la ropa le competia a la boca. Las dos apariciones de la familia metal (L83, L85) NO van pegadas: el ciruela del L84 las separa.",
- "_su_canon": "Vintage Noir V2.3. Guantes PERMITIDOS (a diferencia de Ele), lunar obligatorio, iris miel ambar, labio crimson fijo. Calzado 12cm exactos, SIN plataforma, suela roja -- su firma, y la unica de las tres sin plataforma.",
- "personaje": "anais",
- "batch": "La Regenta -- Tres Noches y Cero Rojo",
- "fecha": "05/09/2026",
- "categoria": "Mix",
- "rango": "81-85",
- "tags_comunes": [
-  "deficit",
-  "V7poses",
-  "batchL81-L85"
- ],
- "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush",
- "looks": {
-  "81": {
-   "titulo": "Terciopelo Negro en el Salon de La Voute",
-   "codigo": "N6",
-   "polo": "Noche / La Voûte",
-   "concepto": "Noche/La Voute, el mayor deficit del roster (27,5% contra 33%). Arquitectura M6 (vestido de segunda piel, CUBIERTA) -- libre en la ventana, que bloqueaba M9, M7, M3, M10 y M4. Terciopelo negro: el material y el color mas suyos, y el unico que su §6 nombra explicitamente para este arquetipo. Las medias de red van, que en Noche son de uso casi regular. Puntera CERRADA porque hay media.",
-   "bloque_b": "a black silk-velvet second-skin gown falling to the ankle, cut on the bias and moulded to the body from the bust to the hip, a deep V neckline dropping to the sternum, long fitted sleeves ending in a point over the back of the hand, a covered hook-and-eye closure down the centre back, and a slit up the left side to just above the knee; beneath it a black silk thong with a narrow tapered front panel; sheer black fishnet stockings with a fine seam up the back of each leg, held by a black silk suspender belt; long black silk opera gloves to above the elbow; a single strand of graduated pearls at the throat and pearl drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in deep aubergine; closed pointed-toe court shoes in black patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole",
-   "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, the main salon of La Voute after closing, deep burgundy velvet banquettes, a black lacquer bar with cut crystal, one low brass lamp and the far end of the room falling into shadow",
-   "props": {
-    "seat": "a deep burgundy velvet banquette",
-    "wall": "the panelled salon wall with its gilt mirror",
-    "surface": "the black lacquer bar top",
-    "upright": "a fluted black lacquer column"
-   }
+  "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/anais.md §2).",
+  "_origen": "Ama 05/09/2026: 'genera 5 nuevos outfit por muñeca'.",
+  "_step_0": "Arquitecturas del batch anterior L76-L80 = M9, M7, M3, M10, M4. Tras el rediseño del 05/09 este usa A4 (merry widow), A2 (bullet bra + waspie), M8 (esmoquin), A5 (guepiere, L84 ya materializado) y M7 (L85 ya materializado): cero repeticion contra el batch anterior salvo el M7 del L85, que ya tiene sus 7 imagenes y no se toca.",
+  "_deficit": "Balance medido el 05/09 sobre 40 looks (conteo desde el L41, reset del 11/08): Noche/La Voute 27,5% vs meta 33% -- el mayor deficit y por lejos. Ejecutivo de Poder viene +3,0 SOBRE meta y por eso no aparece. Tres de los cinco son Noche: con -5,5 puntos, uno solo no cierra la brecha.",
+  "_colorimetria": "Negro - esmeralda - oro viejo - ciruela - champan. Cero rojo dominante en los cinco, deliberado: su §5.2b midio que el rojo/vino llevaba el 55,4% de sus outfits con los labios crimson FIJOS, o sea la ropa le competia a la boca. Las dos apariciones de la familia metal (L83, L85) NO van pegadas: el ciruela del L84 las separa.",
+  "_su_canon": "Vintage Noir V2.3. Guantes PERMITIDOS (a diferencia de Ele), lunar obligatorio, iris miel ambar, labio crimson fijo. Calzado 12cm exactos, SIN plataforma, suela roja -- su firma, y la unica de las tres sin plataforma.",
+  "personaje": "anais",
+  "batch": "La Regenta -- Tres Noches y Cero Rojo",
+  "fecha": "05/09/2026",
+  "categoria": "Mix",
+  "rango": "81-85",
+  "tags_comunes": [
+    "deficit",
+    "V7poses",
+    "batchL81-L85"
+  ],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush",
+  "looks": {
+    "81": {
+      "titulo": "Merry Widow de Terciopelo en el Salon de La Voute",
+      "codigo": "A4",
+      "polo": "Noche / La Voûte",
+      "concepto": "REDISEÑADO 05/09 por orden de la Ama: *\"me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el nuevo batch\"*. La version anterior era un vestido de segunda piel (M6) -- tapada, y la cuarta vez seguida que su corseteria no aparecia. Arquitectura A4 (merry widow longline, biblioteca §5.6). CORRECCION medida sobre la galeria entera, no sobre los batches: NO es inedita -- la lleva en L22, L28, L61 y L62, la ultima el 28/08, o sea 20 looks atras y muy fuera de la ventana transversal de 5. Lo que si es cierto y es lo que importa: no repite ninguna de las otras corseterias vivas de la ventana (A6 overbust en el L80, A5 guepiere en el L84). Noche/La Voute se conserva -- era el mayor deficit del roster (27,5% contra 33%) y la corseteria de la duena del local es Noche de pleno derecho. Medias de RED, casi regulares en este arquetipo. Herrajes en ganchos forrados y perlas, NO oro/plata viejos: ese acabado iba en 9 de sus ultimos 10 looks. Guantes cerrados, asi que el token de uñas se OMITE (§5.6).",
+      "bloque_b": "a black silk-velvet longline merry widow cut on the 1950s line, boned through fourteen spiral panels running from the cups to below the hip bone, its cups moulded and underwired into a deep sweetheart edge finished with a narrow band of black Chantilly lace, a placket of small covered hooks down the centre front, a flat black satin lacing panel drawn tight across the back, and six suspender tabs hanging from its scalloped hem; beneath it a black silk thong, its front a deep-pointed panel edged in the same Chantilly lace and its back a single flat cord, worn under the six suspender straps; sheer black fishnet stockings in a fine gauge, drawn taut by the six tabs of the merry widow; long black silk opera gloves drawn above the elbow; a single strand of graduated pearls sitting high at the throat and pearl drop earrings; closed pointed-toe Mary Jane pumps in black patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a delicate ankle strap fastened with a small covered button and a lacquered red sole",
+      "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, the main salon of La Voute after closing, deep burgundy velvet banquettes, a black lacquer bar with cut crystal, one low brass lamp and the far end of the room falling into shadow",
+      "props": {
+        "seat": "a deep burgundy velvet banquette",
+        "wall": "the panelled salon wall with its gilt mirror",
+        "surface": "the black lacquer bar top",
+        "upright": "a fluted black lacquer column"
+      }
+    },
+    "82": {
+      "titulo": "Cono de Esmeralda en el Tocador",
+      "codigo": "A2",
+      "polo": "Boudoir / Lencería",
+      "concepto": "REDISEÑADO 05/09 por la misma orden. La version anterior era un teddy de segunda piel (M1) que ademas venia 🟠 contra el L84 de Miss Doll. Arquitectura A2 (bullet bra + waspie, biblioteca §5.6). CORRECCION igual que en el L81: el waspie ya aparecio en L32 y L57, el ultimo 24 looks atras -- fuera de la ventana. Es la mas 1950 de las diez -- que es SU decada, no el arnes editorial moderno. Waspie = corseteria de cintura sola: tercera familia distinta de la ventana (A4 en el L81, A5 guepiere en el L84), no la misma prenda con otro color. SIN guantes a proposito: iban en 8 de sus ultimos 10 looks y en los 5 de este batch, asi que aqui las manos van desnudas y se ve la manicura media luna de epoca (§5.5). Esmeralda intacto -- su §5.2b lo llama 'la ganancia sin cobrar'. Zona transparente declarada (tul de seda en los costados del waspie), liguero de 6 tirantes POR ENCIMA del calzon.",
+      "bloque_b": "a deep emerald green silk-satin bullet bra with firm conical stitched cups, the stitching spiralling tight to the point of each cup, narrow satin straps over the shoulder and a plain banded underband; below it a matching emerald silk-satin waspie cinching the waist alone, boned through eight short spiral panels, its side panels in sheer emerald silk tulle, closed by a placket of small hooks at the centre front and cut to end well above the hip bone, with six suspender straps hanging from its lower edge; beneath it an emerald silk thong, its front a small rounded panel and its back a single narrow strap, worn under the six suspender straps; sheer emerald-tinted stockings with a fine dark seam up the back of each leg and a reinforced welt at the top of each thigh, clipped to the six straps; bare hands, no gloves; a pair of emerald drop earrings and the throat left without a necklace; nails: oval impeccably manicured glossy fingernails in a half-moon manicure with the lunula left bare, lacquered in deep emerald; closed pointed-toe d'Orsay pumps in emerald patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a cut-away arch on the inner side and a lacquered red sole",
+      "setting": "8k ultra cinematic intimate boudoir portrait, warm amber candlelight chiaroscuro, a private dressing room at night, a triple mirror in gilt, a marble-topped vanity with crystal bottles, warm amber candlelight raking across the skin and the corners of the room dark",
+      "props": {
+        "seat": "a low gilt vanity stool in emerald velvet",
+        "wall": "the gilt triple mirror",
+        "surface": "the marble vanity top",
+        "upright": "a tall brass candelabra"
+      }
+    },
+    "83": {
+      "titulo": "Esmoquin de Oro Viejo, Medianoche en el Palco",
+      "codigo": "N7",
+      "polo": "Noche / La Voûte",
+      "concepto": "Segundo Noche/La Voute. Arquitectura M8 (pantalon + top, CUBIERTA) -- la unica de las diez que no aparece en NINGUNO de sus batches anteriores, y la mas femme fatale que le queda sin usar: el esmoquin de mujer es Marlene, no sastreria de manual. Oro viejo oscurecido, nunca champan palido -- la recomendacion tecnica que sobrevive del estudio del 04/09. Sin medias porque el pantalon cubre hasta el tobillo. · AJUSTE 05/09: se le quitan los guantes de opera (se conserva la arquitectura -- es la unica de las diez que no aparece en NINGUNO de sus batches, o sea rediseñarla RESTARIA variedad). Los guantes iban en los 5 looks del batch y en 8 de sus ultimos 10; sacarlos aqui baja la ventana a 3 de 5 y ademas resuelve el choque de §5.6 (guante cerrado + token de uñas en el mismo prompt, que estaba en 8 de 10).",
+      "bloque_b": "antique gold silk-satin tuxedo trousers cut high on the natural waist, moulded close over the hip and falling straight to the ankle with a sharp pressed crease and a fine tonal satin stripe down each outer seam, closed at the side by a concealed hook; above them an antique gold silk-satin bustier top with a straight strapless neckline, boned and moulded to the ribs, its hem ending at the natural waist beneath the trouser band; over both an oversized black silk-satin dinner jacket worn open off one shoulder, its shawl lapel in black satin; beneath the trousers an antique gold silk thong with a narrow tapered front panel; no stockings, the trousers cover the leg to the ankle; bare hands, no gloves; a slim antique-gold collar necklace and long antique-gold drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in deep bronze; closed pointed-toe court shoes in antique gold patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole",
+      "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, a theatre box above a dark auditorium, brass rail along the front, deep red velvet at the back, one warm spill of light from the stage below and the seats beyond it lost in black",
+      "props": {
+        "seat": "a red velvet theatre box chair",
+        "wall": "the deep red velvet box curtain",
+        "surface": "the polished brass box rail",
+        "upright": "a fluted gilt box column"
+      }
+    },
+    "84": {
+      "titulo": "Ciruela y Latex, Guepiere de la Casa",
+      "codigo": "L9",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Latex/Fetichismo (22,5%). Arquitectura de guepiere -- corseteria de epoca en latex, no arnes moderno: la version de ella del fetiche es 1950, ballenas y corchetes, no correas y anillos. REESCRITA el 05/09 tras el auditor cruzado: la primera version compartia 37 tramos de ocho palabras con el arnes del Ele L827 del mismo dia -- o sea el mismo outfit con otro color, justo lo que la Ama reclamo. Ciruela profunda: violeta calido coherente con su subtono, y separa las dos apariciones de metal del batch.",
+      "bloque_b": "a deep plum high-shine latex guepiere in the 1950s cut, boned through eighteen spiral panels that draw the waist in hard, its cups moulded and underwired into a sweetheart edge, a placket of small antique-gold hook-and-eye closures running the length of the centre front and six suspender tabs hanging from its scalloped hem, the latex polished to a wet shine; beneath it a deep plum latex thong, its front a narrow tapered panel and its back a single fine cord; sheer plum-tinted stockings, 15 denier, with a fine seam up the back of each leg, held by the six tabs of the guepiere; long plum latex opera gloves to above the elbow; a black velvet ribbon tied at the throat with a single antique-gold drop, and antique-gold drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in near-black plum; closed pointed-toe knee boots in plum patent leather-effect reaching just below the knee, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip along the calf and a lacquered red sole",
+      "setting": "8k ultra cinematic dark power portrait, high-gloss cinematic lighting, a private studio behind La Voute, walls of dark polished wood, a single leather chaise, one hard lamp on a brass stand throwing a hard-edged pool of light and the rest in deep shadow",
+      "props": {
+        "seat": "the dark leather chaise",
+        "wall": "the polished dark wood panelling",
+        "surface": "a low black lacquer side table",
+        "upright": "the brass lamp stand"
+      }
+    },
+    "85": {
+      "titulo": "Champan y Zorro Plateado, La Regenta Recibe",
+      "codigo": "N8",
+      "polo": "Noche / La Voûte",
+      "concepto": "Tercer Noche/La Voute: con -5,5 puntos de deficit hacen falta los tres para mover la aguja. Arquitectura M7 (minifalda + top, CUBIERTA) -- se repite del batch anterior pero fuera de la ventana de 3 y en registro opuesto (aquel era despacho ejecutivo en chocolate y camel; este es la duena recibiendo en su salon). Champan: la quinta familia del batch y la segunda del metal, separada del oro viejo por el ciruela. La piel de zorro plateado es material recurrente suyo (§5.1b).",
+      "bloque_b": "a champagne silk-satin pencil miniskirt cut high on the natural waist, moulded close over the hip and ending high on the thigh, with a concealed hook closure and a short slit at the centre back; above it a champagne silk-satin blouse with a pussy-bow tied at the throat and long full sleeves gathered into a narrow cuff, tucked into the skirt; over both a silver fox fur stole draped across the shoulders and falling over one arm; beneath the skirt a champagne silk thong with a narrow tapered front panel; sheer champagne-tinted hold-up stockings, 15 denier, with a fine seam up the back of each leg; long champagne silk opera gloves to above the elbow; long antique-silver drop earrings and a fine antique-silver chain at the throat; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in deep bronze; closed pointed-toe slingback pumps in champagne patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a fine slingback strap at the heel and a lacquered red sole",
+      "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, the entrance hall of La Voute at the hour it opens, a black and white marble floor, a curved staircase in dark wood, one crystal chandelier lit low and the doors still closed",
+      "props": {
+        "seat": "a gilt hall chair in champagne silk",
+        "wall": "the panelled entrance-hall wall",
+        "surface": "the black and white marble floor",
+        "upright": "the carved newel post of the staircase"
+      }
+    }
   },
-  "82": {
-   "titulo": "Esmeralda de Encaje en el Tocador",
-   "codigo": "B3",
-   "polo": "Boudoir / Lencería",
-   "concepto": "Boudoir/Lenceria (27,5%, en meta). Arquitectura M1 (bodysuit / teddy de segunda piel, piel) -- ausente de sus dos batches anteriores. Esmeralda: su §5.2b lo llama 'la ganancia sin cobrar' -- el verde profundo es lo que mejor le sienta al rubio miel y al iris ambar, y casi no lo usa. Luz de vela calida, que es la clave de este arquetipo y la que se perdio en el batch L15-L20.",
-   "bloque_b": "a deep emerald green silk-satin and fine French lace teddy fitted as a second skin, its sheer lace cups underwired into a plunge with a scalloped edge and a small antique-gold clasp at the centre gore, sculpted panel seams drawing the waist in, a high-cut leg line rising past the hip bone, and a scalloped lace edge across the low back; the teddy finishes as a thong at the back, its front a narrow tapered panel; sheer emerald-tinted hold-up stockings, 15 denier, with a fine seam up the back of each leg; long emerald silk opera gloves to above the elbow; a fine antique-gold chain at the throat with a single emerald drop, and antique-gold drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in antique gold; closed pointed-toe d'Orsay pumps in emerald patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a cut-away arch on the inner side and a lacquered red sole",
-   "setting": "8k ultra cinematic intimate boudoir portrait, warm amber candlelight chiaroscuro, a private dressing room at night, a triple mirror in gilt, a marble-topped vanity with crystal bottles, warm amber candlelight raking across the skin and the corners of the room dark",
-   "props": {
-    "seat": "a low gilt vanity stool in emerald velvet",
-    "wall": "the gilt triple mirror",
-    "surface": "the marble vanity top",
-    "upright": "a tall brass candelabra"
-   }
-  },
-  "83": {
-   "titulo": "Esmoquin de Oro Viejo, Medianoche en el Palco",
-   "codigo": "N7",
-   "polo": "Noche / La Voûte",
-   "concepto": "Segundo Noche/La Voute. Arquitectura M8 (pantalon + top, CUBIERTA) -- la unica de las diez que no aparece en NINGUNO de sus batches anteriores, y la mas femme fatale que le queda sin usar: el esmoquin de mujer es Marlene, no sastreria de manual. Oro viejo oscurecido, nunca champan palido -- la recomendacion tecnica que sobrevive del estudio del 04/09. Sin medias porque el pantalon cubre hasta el tobillo.",
-   "bloque_b": "antique gold silk-satin tuxedo trousers cut high on the natural waist, moulded close over the hip and falling straight to the ankle with a sharp pressed crease and a fine tonal satin stripe down each outer seam, closed at the side by a concealed hook; above them an antique gold silk-satin bustier top with a straight strapless neckline, boned and moulded to the ribs, its hem ending at the natural waist beneath the trouser band; over both an oversized black silk-satin dinner jacket worn open off one shoulder, its shawl lapel in black satin; beneath the trousers an antique gold silk thong with a narrow tapered front panel; no stockings, the trousers cover the leg to the ankle; long black silk opera gloves to above the elbow; a slim antique-gold collar necklace and long antique-gold drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in deep bronze; closed pointed-toe court shoes in antique gold patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole",
-   "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, a theatre box above a dark auditorium, brass rail along the front, deep red velvet at the back, one warm spill of light from the stage below and the seats beyond it lost in black",
-   "props": {
-    "seat": "a red velvet theatre box chair",
-    "wall": "the deep red velvet box curtain",
-    "surface": "the polished brass box rail",
-    "upright": "a fluted gilt box column"
-   }
-  },
-  "84": {
-   "titulo": "Ciruela y Latex, Guepiere de la Casa",
-   "codigo": "L9",
-   "polo": "Látex / Fetichismo",
-   "concepto": "Latex/Fetichismo (22,5%). Arquitectura de guepiere -- corseteria de epoca en latex, no arnes moderno: la version de ella del fetiche es 1950, ballenas y corchetes, no correas y anillos. REESCRITA el 05/09 tras el auditor cruzado: la primera version compartia 37 tramos de ocho palabras con el arnes del Ele L827 del mismo dia -- o sea el mismo outfit con otro color, justo lo que la Ama reclamo. Ciruela profunda: violeta calido coherente con su subtono, y separa las dos apariciones de metal del batch.",
-   "bloque_b": "a deep plum high-shine latex guepiere in the 1950s cut, boned through eighteen spiral panels that draw the waist in hard, its cups moulded and underwired into a sweetheart edge, a placket of small antique-gold hook-and-eye closures running the length of the centre front and six suspender tabs hanging from its scalloped hem, the latex polished to a wet shine; beneath it a deep plum latex thong, its front a narrow tapered panel and its back a single fine cord; sheer plum-tinted stockings, 15 denier, with a fine seam up the back of each leg, held by the six tabs of the guepiere; long plum latex opera gloves to above the elbow; a black velvet ribbon tied at the throat with a single antique-gold drop, and antique-gold drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in near-black plum; closed pointed-toe knee boots in plum patent leather-effect reaching just below the knee, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip along the calf and a lacquered red sole",
-   "setting": "8k ultra cinematic dark power portrait, high-gloss cinematic lighting, a private studio behind La Voute, walls of dark polished wood, a single leather chaise, one hard lamp on a brass stand throwing a hard-edged pool of light and the rest in deep shadow",
-   "props": {
-    "seat": "the dark leather chaise",
-    "wall": "the polished dark wood panelling",
-    "surface": "a low black lacquer side table",
-    "upright": "the brass lamp stand"
-   }
-  },
-  "85": {
-   "titulo": "Champan y Zorro Plateado, La Regenta Recibe",
-   "codigo": "N8",
-   "polo": "Noche / La Voûte",
-   "concepto": "Tercer Noche/La Voute: con -5,5 puntos de deficit hacen falta los tres para mover la aguja. Arquitectura M7 (minifalda + top, CUBIERTA) -- se repite del batch anterior pero fuera de la ventana de 3 y en registro opuesto (aquel era despacho ejecutivo en chocolate y camel; este es la duena recibiendo en su salon). Champan: la quinta familia del batch y la segunda del metal, separada del oro viejo por el ciruela. La piel de zorro plateado es material recurrente suyo (§5.1b).",
-   "bloque_b": "a champagne silk-satin pencil miniskirt cut high on the natural waist, moulded close over the hip and ending high on the thigh, with a concealed hook closure and a short slit at the centre back; above it a champagne silk-satin blouse with a pussy-bow tied at the throat and long full sleeves gathered into a narrow cuff, tucked into the skirt; over both a silver fox fur stole draped across the shoulders and falling over one arm; beneath the skirt a champagne silk thong with a narrow tapered front panel; sheer champagne-tinted hold-up stockings, 15 denier, with a fine seam up the back of each leg; long champagne silk opera gloves to above the elbow; long antique-silver drop earrings and a fine antique-silver chain at the throat; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in deep bronze; closed pointed-toe slingback pumps in champagne patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a fine slingback strap at the heel and a lacquered red sole",
-   "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, the entrance hall of La Voute at the hour it opens, a black and white marble floor, a curved staircase in dark wood, one crystal chandelier lit low and the doors still closed",
-   "props": {
-    "seat": "a gilt hall chair in champagne silk",
-    "wall": "the panelled entrance-hall wall",
-    "surface": "the black and white marble floor",
-    "upright": "the carved newel post of the staircase"
-   }
-  }
- },
- "_prefijo_cinematografico": "Cada setting abre con el prefijo y la luz que su arquetipo exige (personajes.anais.prefijos_arquetipo, copia maquina-legible de dna_v2_3.md). El chequeo 11 del linter lo audita -- y hasta el 05/09 no podia auditarlo porque los looks generados no escribian el campo Arquetipo, asi que la tabla existia y nadie la verificaba sobre lo nuevo."
+  "_prefijo_cinematografico": "Cada setting abre con el prefijo y la luz que su arquetipo exige (personajes.anais.prefijos_arquetipo, copia maquina-legible de dna_v2_3.md). El chequeo 11 del linter lo audita -- y hasta el 05/09 no podia auditarlo porque los looks generados no escribian el campo Arquetipo, asi que la tabla existia y nadie la verificaba sobre lo nuevo.",
+  "_ama_05_09": "Ama, literal: \"me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el muevo bacth\" + \"debes darme variedad en vestuario\". Medido antes de tocar: corseteria visible + tanga aparecia en 2 de sus ultimos 10 looks (L80 y L84) y las DOS eran la misma receta -- latex high-shine + tanga de latex + medias tintadas + guantes de opera de latex, en aubergine y ciruela, o sea la misma familia cromatica (el propio X3 los da los dos como 'purple'). Causa raiz: su ventana de silueta (§7) estaba atada al ARQUETIPO, y el L78 era Boudoir contra el L84 Latex, el L77 Ejecutivo contra el L85 Noche -- la regla nunca los comparo. Corregido a ventana transversal."
 }

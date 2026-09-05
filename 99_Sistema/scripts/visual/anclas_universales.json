@@ -217,7 +217,41 @@
         "codigo": "M4",
         "nombre": "Corseteria + tanga",
         "cobertura": "piel",
-        "regex": "\\bcorset\\b|\\bbustier\\b|waist cincher"
+        "regex": "\\bcorset\\b|\\bcorsetry\\b|\\bbustier\\b|waist cincher|merry widow|gu[eê]pi[eè]re|\\bwaspie\\b|\\bcorselette\\b|\\bbasque\\b",
+        "_regex_porque": "Ampliado 05/09/2026. El regex nombraba SOLO corset/bustier/waist cincher, o sea era ciego a la mitad del vocabulario de corseteria de epoca — merry widow, guepiere, waspie, corselette, basque — que es justo el de Anais (§5.6 A2/A4/A5/A7). Consecuencia medida ese dia: su L84 (guepiere de latex ciruela + tanga) se clasificaba M3 y su L80 (corse overbust de latex aubergine + tanga) M4, asi que la maquina veia DOS arquitecturas distintas donde la Ama vio el mismo outfit con otro color. La regla existia; su vocabulario la dejaba ciega.",
+        "subfamilias": [
+          {
+            "codigo": "A6",
+            "nombre": "Corse overbust",
+            "regex": "overbust|\\bcorset\\b(?![a-z])"
+          },
+          {
+            "codigo": "A4",
+            "nombre": "Merry widow / longline",
+            "regex": "merry widow|longline (?:lace )?(?:merry widow|corset)"
+          },
+          {
+            "codigo": "A5",
+            "nombre": "Guepiere",
+            "regex": "gu[eê]pi[eè]re"
+          },
+          {
+            "codigo": "A2",
+            "nombre": "Waspie / cincher de cintura sola",
+            "regex": "\\bwaspie\\b|waist cincher"
+          },
+          {
+            "codigo": "A7",
+            "nombre": "Corselette con ligas integradas",
+            "regex": "\\bcorselette\\b|\\bbasque\\b"
+          },
+          {
+            "codigo": "A8",
+            "nombre": "Bustier (top rigido sin faldon)",
+            "regex": "\\bbustier\\b"
+          }
+        ],
+        "_subfamilias_porque": "Ama 05/09/2026: quiere corse y tanga MAS seguido (§8 de anais.md, ≥2 de cada 5) Y variedad. A granularidad M4 esas dos ordenes se contradicen: cada corse marcaria repeticion del corse anterior. La subfamilia es lo que las hace compatibles — lo que no puede repetirse dentro de la ventana no es 'corseteria', es LA MISMA corseteria. Los codigos son los de la biblioteca narrada §5.6 de su perfil (dueño narrado)."
       },
       {
         "codigo": "M1",
@@ -432,7 +466,9 @@
         },
         "_cuota_porque": "Misma cuota que miss_doll (1 de cada 4). Ele tiene 618 looks y una historia cromatica propia, pero el eje que esta cuota protege -- que no se encadenen arquitecturas de pura piel -- es identico para las tres.",
         "desde_look": 818,
-        "_desde_look_porque": "Ele iba en 818 looks el 04/09/2026: la ventana arranca en el PROXIMO look nuevo y no juzga retroactivamente 618 looks ya materializados. Misma convencion retrofit-al-tocar que uso miss_doll con su desde_look 26."
+        "_desde_look_porque": "Ele iba en 818 looks el 04/09/2026: la ventana arranca en el PROXIMO look nuevo y no juzga retroactivamente 618 looks ya materializados. Misma convencion retrofit-al-tocar que uso miss_doll con su desde_look 26.",
+        "cross_batch_desde_look": 828,
+        "_cross_batch_porque": "Ama 05/09/2026: 'me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el nuevo batch' + 'debes darme variedad en vestuario'. X4 del auditor cruzado pasa de avisar a BLOQUEAR con UNA sola arquitectura repetida contra el batch inmediatamente anterior. El ancla es el PROXIMO lote y no el actual a proposito: los looks ya materializados no se pueden rediseñar, y un linter que grita lo inarreglable enseña a ignorarlo (misma disciplina que `desde_look` en rotacion_color)."
       },
       "rotacion_color": {
         "_porque": "Ama 05/09/2026: 'hay libertad de color, pero con la colorimetria ahora se limito, pero no puedo tener 3 outfit con el mismo color, asi que dale balance y restricciones'. NO repone la derogacion del 12/06 (libertad total de color y materiales): no hay familias vetadas ni cuotas obligatorias. Lo que cambio es el CONTEXTO — la colorimetria del 04/09 anclo a cada muñeca a un eco de iris y eso estrecha de hecho el rango que usa, asi que la misma libertad produce mas colisiones. Por eso un TOPE, no una prohibicion.",
@@ -492,7 +528,9 @@
         "historicos_declarados": [
           42
         ],
-        "_historicos_porque": "Ama 04/09/2026. Al enseñarle al chequeo 12 a leer los tres formatos de galeria, Miss Doll paso de 59 a 75 looks clasificados y afloraron 2 violaciones reales del Look 42 (M1 repetida en la ventana + cuota cubierta 0/4 en L39-L42). Son de verdad, pero el look esta materializado 7/7 desde el 21/08/2026 y no se regenera: la ventana nunca lo goberno porque el lector no sabia leerlo. Se declara aqui, con numero y motivo, en vez de subir desde_look (que habria tapado tambien lo que venga despues) y en vez de dejarlo en rojo permanente (un linter que grita por lo inarreglable enseña a ignorarlo). Cualquier violacion NUEVA sigue siendo CRITICO."
+        "_historicos_porque": "Ama 04/09/2026. Al enseñarle al chequeo 12 a leer los tres formatos de galeria, Miss Doll paso de 59 a 75 looks clasificados y afloraron 2 violaciones reales del Look 42 (M1 repetida en la ventana + cuota cubierta 0/4 en L39-L42). Son de verdad, pero el look esta materializado 7/7 desde el 21/08/2026 y no se regenera: la ventana nunca lo goberno porque el lector no sabia leerlo. Se declara aqui, con numero y motivo, en vez de subir desde_look (que habria tapado tambien lo que venga despues) y en vez de dejarlo en rojo permanente (un linter que grita por lo inarreglable enseña a ignorarlo). Cualquier violacion NUEVA sigue siendo CRITICO.",
+        "cross_batch_desde_look": 86,
+        "_cross_batch_porque": "Ama 05/09/2026: 'me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el nuevo batch' + 'debes darme variedad en vestuario'. X4 del auditor cruzado pasa de avisar a BLOQUEAR con UNA sola arquitectura repetida contra el batch inmediatamente anterior. El ancla es el PROXIMO lote y no el actual a proposito: los looks ya materializados no se pueden rediseñar, y un linter que grita lo inarreglable enseña a ignorarlo (misma disciplina que `desde_look` en rotacion_color)."
       },
       "rotacion_color": {
         "_porque": "Ama 05/09/2026: 'hay libertad de color, pero con la colorimetria ahora se limito, pero no puedo tener 3 outfit con el mismo color, asi que dale balance y restricciones'. NO repone la derogacion del 12/06 (libertad total de color y materiales): no hay familias vetadas ni cuotas obligatorias. Lo que cambio es el CONTEXTO — la colorimetria del 04/09 anclo a cada muñeca a un eco de iris y eso estrecha de hecho el rango que usa, asi que la misma libertad produce mas colisiones. Por eso un TOPE, no una prohibicion.",
@@ -567,15 +605,17 @@
       "nota": "Su BLOQUE B suele llevar guantes de opera: el FOOTWEAR_ECHO aplica igual, pero el token de unas de mano se OMITE cuando los guantes cubren los dedos (perfil 5.4). **BOTTOM_CUT_LOCK sigue sin aplicarsele** (no lleva la tanga de Ele: la convertiria en otra muneca) **pero desde el 14/08/2026 lleva LEG_CUT_LOCK**, su corte propio: talle alto de epoca CON la pierna cortada al filo de la cadera. Deroga la exencion escrita el 13/08, que autorizaba por omision el calzon de cobertura total que la Ama rechazo. Ademas lleva SENSUAL_STATE y LIVED_IN_ROOM en todos sus prompts. **Si lleva DRESS_LEG_CLOSURE en la practica en todos sus looks**, porque desde el 13/08/2026 solo viste vestido o falda.",
       "rotacion_prenda": {
         "_porque": "Ama 04/09/2026, misma orden que en Ele. Antes se habia declarado que a Anais no le aplicaba porque 'viste SOLO vestido o falda desde el 13/08/2026' -- pero eso no es razon para no medirla: es razon para esperar que su distribucion se concentre en M6/M7/M10, y la ventana lo hace visible en vez de asumirlo. Si la concentracion resulta deliberada, se sube su cuota aqui; lo que no puede pasar es que no se mida.",
-        "ventana_global": 3,
-        "_ventana_porque": "GLOBAL, no por arquetipo. Las ventanas de silueta y setting del perfil §7 estan alcanzadas por arquetipo y por eso no se dispararon nunca: con 8 arquetipos rotando, dos looks vecinos casi nunca comparten arquetipo. Esta se mide contra los 3 looks anteriores del roster completo. Obliga a rotar TAMBIEN dentro de la familia de piel (tres bodysuits en cuatro looks viola igual que tres vestidos).",
+        "ventana_global": 5,
+        "_ventana_porque": "Subida de 3 a 5 el 05/09/2026, en espejo con el perfil §7, que ese dia dejo de estar alcanzada por ARQUETIPO y paso a ser transversal. Con ventana de 3 y batches de 5, las repeticiones caen justo afuera: el L84 repetia el registro del L80 a cuatro looks de distancia y ninguna regla los comparo. La granularidad fina (que corseteria, no si hay corseteria) la aporta `subfamilias` de M4 — sin eso, la cuota de corse+tanga del §8 y esta ventana se contradicen.",
         "cuota_cubierta": {
           "cada": 4,
           "minimo": 1
         },
         "_cuota_porque": "Anais es la mas cubierta de las tres por canon (vestido/falda). La cuota le queda holgada a proposito: no esta ahi para forzarla a cubrirse, sino para que la ventana de arquitectura tenga con que comparar.",
         "desde_look": 76,
-        "_desde_look_porque": "Anais iba en 75 looks el 04/09/2026. Arranca en el proximo. No se retrofitea el roster L01-L75, igual que en las otras dos."
+        "_desde_look_porque": "Anais iba en 75 looks el 04/09/2026. Arranca en el proximo. No se retrofitea el roster L01-L75, igual que en las otras dos.",
+        "cross_batch_desde_look": 86,
+        "_cross_batch_porque": "Ama 05/09/2026: 'me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el nuevo batch' + 'debes darme variedad en vestuario'. X4 del auditor cruzado pasa de avisar a BLOQUEAR con UNA sola arquitectura repetida contra el batch inmediatamente anterior. El ancla es el PROXIMO lote y no el actual a proposito: los looks ya materializados no se pueden rediseñar, y un linter que grita lo inarreglable enseña a ignorarlo (misma disciplina que `desde_look` en rotacion_color)."
       },
       "rotacion_color": {
         "_porque": "Ama 05/09/2026: 'hay libertad de color, pero con la colorimetria ahora se limito, pero no puedo tener 3 outfit con el mismo color, asi que dale balance y restricciones'. NO repone la derogacion del 12/06 (libertad total de color y materiales): no hay familias vetadas ni cuotas obligatorias. Lo que cambio es el CONTEXTO — la colorimetria del 04/09 anclo a cada muñeca a un eco de iris y eso estrecha de hecho el rango que usa, asi que la misma libertad produce mas colisiones. Por eso un TOPE, no una prohibicion.",
