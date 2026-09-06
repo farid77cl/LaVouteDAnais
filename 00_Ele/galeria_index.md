@@ -632,11 +632,11 @@
 | **820** | Deep Indigo Corsetry Boudoir | 04/09/2026 | Lencería | — | — | 7/7 | — |
 | **821** | Electric Cyan Nightclub Skirt | 04/09/2026 | Nightclub | — | — | 7/7 | — |
 | **822** | Violet Rose-Gold Escort Bodysuit | 04/09/2026 | Escort | — | — | 7/7 | — |
-| **823** | Oxblood Lacquer Column | 05/09/2026 | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **823** | Oxblood Lacquer Column | 05/09/2026 | High-Fashion Editorial | — | — | 7/7 | — |
 | **824** | Acid Chartreuse Boardroom Trouser | 05/09/2026 | Corporate | — | — | 0/7 | ⏳ Pendiente |
-| **825** | Tangerine Python Domestic Set | 05/09/2026 | Domestic | — | — | 0/7 | ⏳ Pendiente |
-| **826** | Deep Teal Mesh Nightclub Slip | 05/09/2026 | Nightclub | — | — | 0/7 | ⏳ Pendiente |
-| **827** | Mirror Silver Harness Editorial | 05/09/2026 | Escort | — | — | 0/7 | ⏳ Pendiente |
+| **825** | Tangerine Python Domestic Set | 05/09/2026 | Domestic | — | — | 7/7 | — |
+| **826** | Deep Teal Mesh Nightclub Slip | 05/09/2026 | Nightclub | — | — | 7/7 | — |
+| **827** | Mirror Silver Harness Editorial | 05/09/2026 | Escort | — | — | 7/7 | — |
 
 ---
 
@@ -809,11 +809,7 @@
 | **700** | Cerise Sequin All Nighter | 7/7 | ⏳ Pendiente |
 | **811** | Nude Bordelle Harness Atelier | 0/7 | ⏳ Pendiente |
 | **818** | Jade Liquid Catsuit | 2/7 | ⏳ Pendiente |
-| **823** | Oxblood Lacquer Column | 0/7 | ⏳ Pendiente |
 | **824** | Acid Chartreuse Boardroom Trouser | 0/7 | ⏳ Pendiente |
-| **825** | Tangerine Python Domestic Set | 0/7 | ⏳ Pendiente |
-| **826** | Deep Teal Mesh Nightclub Slip | 0/7 | ⏳ Pendiente |
-| **827** | Mirror Silver Harness Editorial | 0/7 | ⏳ Pendiente |
 
 ---
 

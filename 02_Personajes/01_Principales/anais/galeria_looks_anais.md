@@ -4980,11 +4980,11 @@ a deep aubergine high-shine latex overbust corset as the central piece, heavily 
 a black silk-velvet longline merry widow cut on the 1950s line, boned through fourteen spiral panels running from the cups to below the hip bone, its cups moulded and underwired into a deep sweetheart edge finished with a narrow band of black Chantilly lace, a placket of small covered hooks down the centre front, a flat black satin lacing panel drawn tight across the back, and six suspender tabs hanging from its scalloped hem; beneath it a black silk thong, its front a deep-pointed panel edged in the same Chantilly lace and its back a single flat cord, worn under the six suspender straps; sheer black fishnet stockings in a fine gauge, drawn taut by the six tabs of the merry widow; long black silk opera gloves drawn above the elbow; a single strand of graduated pearls sitting high at the throat and pearl drop earrings; closed pointed-toe Mary Jane pumps in black patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a delicate ankle strap fastened with a small covered button and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (4/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_standing.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_back_view.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_seated.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_side_profile.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
