@@ -1,6 +1,16 @@
 # 📊 ESTADO DE MATERIALIZACIÓN Y ESTADÍSTICAS (V3.12)
 
-Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 03/09/2026 — sync `sync_imagenes_subidas.py` + `sync_tracker_galeria_personaje.py`: **19 looks de Ele L397-L463 corregidos, 70 poses reales que el tracker daba por pendientes** · Anaïs L64 recuperado a 7/7 y **L75 subió a 4/7 real** (Standing/Back View/Seated/Side Profile ya generados con el prompt de rostro corregido — ver nota del mismo día abajo) · Miss Doll ya sincronizado, 0 correcciones. Antes: 02/09 — 24 looks L332-L396 corregidos, 137 poses.
+Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: **06/09/2026** — sync completo de las tres muñecas: **24 looks corregidos, 109 poses reales que el tracker daba por pendientes** (Ele L818-L822 = 30 · Anaïs L77-L80 + L83-L85 = 40 · Miss Doll L66/L71/L72/L76-L79/L81-L85 = 39). Ver nota del 06/09 abajo. Antes: 03/09/2026 — sync `sync_imagenes_subidas.py` + `sync_tracker_galeria_personaje.py`: **19 looks de Ele L397-L463 corregidos, 70 poses reales que el tracker daba por pendientes** · Anaïs L64 recuperado a 7/7 y **L75 subió a 4/7 real** (Standing/Back View/Seated/Side Profile ya generados con el prompt de rostro corregido — ver nota del mismo día abajo) · Miss Doll ya sincronizado, 0 correcciones. Antes: 02/09 — 24 looks L332-L396 corregidos, 137 poses.
+
+> 🧾 **06/09/2026 — el tracker volvió a envejecer hacia la mentira, y esta vez en las tres a la vez.** El arranque trajo 2 PNG por push de la app y al medir contra `git ls-files` aparecieron **109 poses** ya subidas que las galerías contaban como `0/7 — Pendiente`. **Deroga toda línea anterior que diga «siguen en 0/7» sobre estos looks:** los batches del 05/09 de Miss Doll y Anaïs están casi enteros generados, y los de Ele L819-L822 completos.
+>
+> · **Ele:** L818 → 2/7 · **L819, L820, L821, L822 → 7/7**. (L823-L827, batch del 05/09: siguen en 0/7 de verdad, cero poses.)
+> · **Anaïs:** L77 → 1/7 · **L78, L79, L80 → 7/7** · **L83, L84, L85 → 7/7**. (L81 y L82 en 0/7 real.)
+> · **Miss Doll:** L66 → 2/7 · L71 → 1/7 · L72 → 2/7 · L76, L77, L78 → 1/7 · **L79 → 7/7** · L81 → 1/7 · **L82, L83, L84, L85 → 7/7**. (L80 en 0/7 real — es el del rebote de filtro reescrito el 05/09.)
+>
+> ⚠️ **Detalle de método que cuesta si se olvida:** `sync_imagenes_subidas.py` reescribe `galeria_outfits.md` con terminadores LF, y ese archivo es **CRLF mixto** — el diff salió con **41.847 líneas de churn de EOL** sobre 15 cambios reales. Se reconstruyó preservando el terminador original línea a línea antes de commitear. Quien corra este script en un clon con CRLF tiene que repetir ese paso o revisar el `--numstat` antes de commitear.
+>
+> 🧹 De paso: `05_Imagenes/ele/collection_latex_fetish/Readme.md` era un duplicado por mayúsculas del `README.md` que genera `update_galleries.py` (contenido idéntico byte a byte) — eliminado. Era el único caso de la flota.
 
 > 👁️🍯 **04/09/2026 — cambio de IRIS en dos de las tres muñecas, y por qué el retrofit es de seis looks y no de la flota.** Ama: *"anais ojos color miel, miss doll que sean azules solamente, el steel grey a veces le salen los ojos blancos, como un white walker"*.
 >
