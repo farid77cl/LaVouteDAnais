@@ -4112,6 +4112,7 @@ a sophisticated 42-year-old aristocratic woman with an unmistakably mature, comm
 ## 👑 Look 66: Terciopelo Sangre en La Voûte (29/08/2026 · batch L66-L70 "La Regenta Fuera del Tocador" · Mix · N1 Noche / La Voûte)
 
 - **Ubicacion:** `05_Imagenes/anais/look66_terciopelo_sangre_en_la_voute/`
+- **Arquetipo:** Noche / La Voute
 - **Tags:** #mix #noche_la_voute #n1 #batchL66-L70 #V7poses
 
 **Concepto:** (sin concepto declarado en el batch)
@@ -4169,6 +4170,7 @@ a blood-red silk-velvet evening gown cut on the bias: a deep V neckline plunging
 ## 👑 Look 67: Catsuit de Látex Verde Botella (29/08/2026 · batch L66-L70 "La Regenta Fuera del Tocador" · Mix · L3 Látex / Fetichismo)
 
 - **Ubicacion:** `05_Imagenes/anais/look67_catsuit_de_latex_verde_botella/`
+- **Arquetipo:** Latex / Fetichismo
 - **Tags:** #mix #latex_fetichismo #l3 #batchL66-L70 #V7poses
 
 **Concepto:** (sin concepto declarado en el batch)
@@ -4226,6 +4228,7 @@ a bottle-green liquid latex catsuit covering the body from throat to ankle: a hi
 ## 👑 Look 68: Leopardo y Cuero en el Despacho (29/08/2026 · batch L66-L70 "La Regenta Fuera del Tocador" · Mix · X1 Ejecutivo de Poder)
 
 - **Ubicacion:** `05_Imagenes/anais/look68_leopardo_y_cuero_en_el_despacho/`
+- **Arquetipo:** Ejecutivo de Poder
 - **Tags:** #mix #ejecutivo_de_poder #x1 #batchL66-L70 #V7poses
 
 **Concepto:** (sin concepto declarado en el batch)
@@ -4283,6 +4286,7 @@ a black leather pencil skirt to mid-calf moulded to the hip with a deep kick ple
 ## 👑 Look 69: Satén Medianoche y Zorro Plata (29/08/2026 · batch L66-L70 "La Regenta Fuera del Tocador" · Mix · N4 Noche / La Voûte)
 
 - **Ubicacion:** `05_Imagenes/anais/look69_saten_medianoche_y_zorro_plata/`
+- **Arquetipo:** Noche / La Voute
 - **Tags:** #mix #noche_la_voute #n4 #batchL66-L70 #V7poses
 
 **Concepto:** (sin concepto declarado en el batch)
@@ -4340,6 +4344,7 @@ a midnight blue liquid satin column gown: an off-shoulder bardot neckline sittin
 ## 👑 Look 70: Corsé Borgoña y Guantes Largos (29/08/2026 · batch L66-L70 "La Regenta Fuera del Tocador" · Mix · L5 Látex / Fetichismo)
 
 - **Ubicacion:** `05_Imagenes/anais/look70_corse_borgona_y_guantes_largos/`
+- **Arquetipo:** Latex / Fetichismo
 - **Tags:** #mix #latex_fetichismo #l5 #batchL66-L70 #V7poses
 
 **Concepto:** (sin concepto declarado en el batch)
@@ -4397,6 +4402,7 @@ a burgundy latex overbust corset with antique-gold boning and a gold busk down t
 ## 👑 Look 71: Granate Strapless en el Comedor Privado (02/09/2026 · batch L71-L75 "Correccion de Curva -- Noche, Literaria y Latex" · Mix · N5 Noche / La Voûte)
 
 - **Ubicacion:** `05_Imagenes/anais/look71_granate_strapless_en_el_comedor_privado/`
+- **Arquetipo:** Noche / La Voute
 - **Tags:** #mix #noche_la_voute #n5 #batchL71-L75 #V7poses
 
 **Concepto:** Deficit de Noche (mayor gap de la curva). Silueta D6 Strapless Sweetheart, inedita en la ventana de los ultimos 3 looks de Noche (D8, D11, D1). Bota a la rodilla, fresca frente a D'Orsay/pump usados en L60/L66/L69.
@@ -4454,6 +4460,7 @@ a deep garnet red heavy silk-velvet strapless gown with a boned sweetheart bodic
 ## 👑 Look 72: Visón Castaño en la Cava (02/09/2026 · batch L71-L75 "Correccion de Curva -- Noche, Literaria y Latex" · Mix · N6 Noche / La Voûte)
 
 - **Ubicacion:** `05_Imagenes/anais/look72_vison_castano_en_la_cava/`
+- **Arquetipo:** Noche / La Voute
 - **Tags:** #mix #noche_la_voute #n6 #batchL71-L75 #V7poses
 
 **Concepto:** Segundo look de Noche del lote. Silueta D4 Halter Backless Gown, distinta de la D6 del look anterior. Cumple la cuota de piel (>=1/4 nuevos): vison castano, tipo no repetido respecto a la aparicion inmediatamente anterior (zorro plateado, L69). Bota sobre rodilla, fresca frente al resto de la ventana de Noche.
@@ -4511,6 +4518,7 @@ a black liquid-satin halter-neck gown with a structural boned bodice, the entire
 ## 👑 Look 73: Esmeralda y Pluma de Oro en la Biblioteca (02/09/2026 · batch L71-L75 "Correccion de Curva -- Noche, Literaria y Latex" · Mix · SL1 Sesión Literaria)
 
 - **Ubicacion:** `05_Imagenes/anais/look73_esmeralda_y_pluma_de_oro_en_la_biblioteca/`
+- **Arquetipo:** Sesion Literaria
 - **Tags:** #mix #sesion_literaria #sl1 #batchL71-L75 #V7poses
 
 **Concepto:** Deficit de Sesion Literaria. Silueta nueva (wrap dress cerrado) distinta de las ultimas tres (kimono abierto L49, gown de cowl trasero L53, wrap robe con punos de piel L59). Rompe tambien la repeticion de boquilla de plata en las tres apariciones previas -- pluma fuente en su lugar. D'Orsay, fresco frente al pump (L49) y la bota a la rodilla repetida en L53/L59.
@@ -4568,6 +4576,7 @@ a deep emerald silk-velvet wrap dress with a plunging V neckline, cinched at the
 ## 👑 Look 74: Ónix Negro en el Balcón del Salón (02/09/2026 · batch L71-L75 "Correccion de Curva -- Noche, Literaria y Latex" · Mix · N7 Noche / La Voûte)
 
 - **Ubicacion:** `05_Imagenes/anais/look74_onix_negro_en_el_balcon_del_salon/`
+- **Arquetipo:** Noche / La Voute
 - **Tags:** #mix #noche_la_voute #n7 #batchL71-L75 #V7poses
 
 **Concepto:** Tercer y ultimo look de Noche del lote, cierra el deficit mayor. Silueta D2 Wiggle Dress, distinta de D6/D4 ya usadas en este mismo batch y de D8/D11/D1 de la ventana previa. Mary Jane, fresco frente a los tres estilos ya usados en L71/L72 y en la ventana previa.
@@ -4625,6 +4634,7 @@ a black duchesse satin wiggle dress, knee-length, fitted sharply through the hip
 ## 👑 Look 75: Gris Gunmetal en el Atelier de Pruebas (02/09/2026 · batch L71-L75 "Correccion de Curva -- Noche, Literaria y Latex" · Mix · L6 Látex / Fetichismo)
 
 - **Ubicacion:** `05_Imagenes/anais/look75_gris_gunmetal_en_el_atelier_de_pruebas/`
+- **Arquetipo:** Latex / Fetichismo
 - **Tags:** #mix #latex_fetichismo #l6 #batchL71-L75 #V7poses
 
 **Concepto:** Latex en su meta exacta (20%); este look la sostiene sin sobrepasarla. Silueta de vestido sheath integral, distinta de las ultimas tres apariciones de Latex (catsuit con panel de piton L58, catsuit+corse superpuesto L67, corse+falda separada L70). Color gunmetal, inedito en el arquetipo. Bota bajo rodilla, fresca frente a la bota sobre rodilla y los dos pumps de la ventana previa.
@@ -4682,6 +4692,7 @@ a fitted gunmetal-grey high-shine clinical-grade latex sheath dress with a struc
 ## 👑 Look 76: Esmeralda Latex en la Sala de Pruebas (04/09/2026 · batch L76-L80 "Eco de Iris -- Joya Calida y Cero Rojo" · Mix · L7 Látex / Fetichismo)
 
 - **Ubicacion:** `05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/`
+- **Arquetipo:** Latex / Fetichismo
 - **Tags:** #mix #latex_fetichismo #l7 #batchL76-L80 #V7poses
 
 **Concepto:** Latex / Fetichismo, su mayor deficit (+4,0). Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- rompe la racha de cuatro vestidos M6 seguidos justo donde su ventana empieza a regir. Abre el batch con ESMERALDA, el complementario de libro de su rubio miel sobre piel calida y su familia mas desaprovechada (10,8%): le devuelve al pelo el oro que el negro le quita. Uñas en oro viejo, no rojo.
@@ -4739,6 +4750,7 @@ a deep emerald green high-shine latex catsuit fitted as a second skin, full-leng
 ## 👑 Look 77: Chocolate y Camel en el Despacho (04/09/2026 · batch L76-L80 "Eco de Iris -- Joya Calida y Cero Rojo" · Mix · X2 Ejecutivo de Poder)
 
 - **Ubicacion:** `05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/`
+- **Arquetipo:** Ejecutivo de Poder
 - **Tags:** #mix #ejecutivo_de_poder #x2 #batchL76-L80 #V7poses
 
 **Concepto:** Ejecutivo de Poder (+1,5), en el registro que la Ama pidio el 23/08: el poder que seduce, no el que solo manda. Arquitectura M7 (falda + top, CUBIERTA) -- bloqueadas M6 y M9. Chocolate y camel son neutro calido puro: la unica combinacion de la §5.2b que trabaja CON su rubio miel en vez de contra el, y que ninguna de sus hermanas puede usar sin apagarse. Uñas en bronce.
@@ -4796,6 +4808,7 @@ a chocolate brown high-shine latex pencil skirt cut to just below the knee, moul
 ## 👑 Look 78: Marfil y Oro Viejo en el Tocador (04/09/2026 · batch L76-L80 "Eco de Iris -- Joya Calida y Cero Rojo" · Mix · B1 Boudoir / Lencería)
 
 - **Ubicacion:** `05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/`
+- **Arquetipo:** Boudoir / Lenceria
 - **Tags:** #mix #boudoir_lenceria #b1 #batchL76-L80 #V7poses
 
 **Concepto:** Boudoir / Lenceria. Arquitectura M3 (conjunto de lenceria + liguero + medias) bajo peignoir abierto -- bloqueadas M6, M9, M7 -- y cumple su piso de bata del §5.1c: floor-length y SEMITRANSPARENTE, que es el default desde el 17/08 porque una bata opaca tapa la lenceria en Back View igual de bien que una mal cerrada. Marfil y oro viejo: el oro es el eco de su iris ambar nuevo. Uñas en oro viejo palido.
@@ -4853,6 +4866,7 @@ an ivory silk and fine French lace longline bra, its sheer lace cups cut low int
 ## 👑 Look 79: Midnight Navy en la Sesión de las Tres (04/09/2026 · batch L76-L80 "Eco de Iris -- Joya Calida y Cero Rojo" · Mix · SL2 Sesión Literaria)
 
 - **Ubicacion:** `05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/`
+- **Arquetipo:** Sesion Literaria
 - **Tags:** #mix #sesion_literaria #sl2 #batchL76-L80 #V7poses
 
 **Concepto:** Sesion Literaria (+0,5): estudio privado, escritura nocturna. Arquitectura M10 (slip de malla sobre lenceria, CUBIERTA) -- bloqueadas M9, M7, M3. Midnight navy es raiz profunda de la §5.2b y no aparece en su roster reciente; sobre rubio miel funciona como el negro pero sin apagarle el oro del pelo. Uñas en berenjena casi negro, otro color que no le compite a la boca.
@@ -4910,6 +4924,7 @@ a midnight navy sheer silk-mesh slip dress falling to mid-calf, cut on the bias 
 ## 👑 Look 80: Berenjena Latex y Guantes de Ópera (04/09/2026 · batch L76-L80 "Eco de Iris -- Joya Calida y Cero Rojo" · Mix · L8 Látex / Fetichismo)
 
 - **Ubicacion:** `05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/`
+- **Arquetipo:** Latex / Fetichismo
 - **Tags:** #mix #latex_fetichismo #l8 #batchL76-L80 #V7poses
 
 **Concepto:** Latex / Fetichismo otra vez, porque con +4,0 era el hueco mas grande y un solo look no lo cierra. Arquitectura M4 (corseteria overbust + tanga, pierna libre) -- bloqueadas M7, M3, M10. Berenjena profundo: joya calida oscura de la §5.2b, prima del ciruela pero sin caer en el vino, que es justo lo que le compite a los labios crimson fijos. Uñas en plata vieja.

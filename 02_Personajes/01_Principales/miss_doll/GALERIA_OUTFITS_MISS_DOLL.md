@@ -33,6 +33,7 @@
 
 ## 💅 Look 01: Neon Pink Cage (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Club / Escenario · 1ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look1_neon_pink_cage/`
+- **Arquetipo:** Club / Escenario
 - **Tags:** #club #vinyl #mesh #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** debut del canon nuevo. Corsé deliberadamente ausente para que el abdomen de gimnasio sea el centro del look (opcional desde el rediseño de hoy); fashion-bondage de correas finas y hardware cromado tipo joyería (nunca rigging de calabozo); rosa neón dominante cumpliendo la firma cromática.
@@ -99,6 +100,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 02: Pink Champagne Sovereign (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Girly Girl · 1ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look2_pink_champagne_sovereign/`
+- **Arquetipo:** Girly Girl
 - **Tags:** #girlygirl #vinyl #mesh #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** el arquetipo pedido directo por la Ama (11/08) — no por déficit, por instrucción viva, que manda sobre el orden de prioridad. Único look del roster con la **excepción de expresión** autorizada en §2: rostro cálido y sonriente en vez de la Face of the Pole. El resto del ADN (forma de cara, ojos, cejas, labios, cuerpo) no cambia.
@@ -168,6 +170,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 03: Oxblood Session (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Calabozo / Dungeon · 1ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look3_oxblood_session/`
+- **Arquetipo:** Calabozo / Dungeon
 - **Tags:** #calabozo #vinyl #latex #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** primer look del arquetipo suavizado (§6) — bondage de diseño, hardware fino tipo joyería, mobiliario elegante de sesión en vez de rigging industrial. Corsé SÍ presente aquí (opcional en general, pero encaja de lleno en este arquetipo). Raíz Domme de paleta (§5.2): oxblood + gunmetal.
@@ -236,6 +239,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 04: Champagne Room (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · VIP / Privado · 1ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look4_champagne_room/`
+- **Arquetipo:** VIP / Privado
 - **Tags:** #vip #vinyl #mesh #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** primer look del arquetipo VIP — lencería-fetiche lounge, energía de sala exclusiva uno-a-uno, más íntimo que Club, sin la dominación explícita de Calabozo. Rosa firma reforzado (dusty rose dominante) porque Look 03 no lo llevó. Sin corsé — bralette suelto, silueta de lounge en vez de armadura.
@@ -306,6 +310,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 05: Chrome Sweat (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Gym / Athletic · 1ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look5_chrome_sweat/`
+- **Arquetipo:** Gym / Athletic
 - **Tags:** #gym #vinyl #latex #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** primer look del arquetipo justificado por el cuerpo de gimnasio del §2 — leggings de látex, sujetador deportivo, sudor glam, plataforma deportiva (nunca sneaker plana). Maquillaje nuevo (cyan-chrome + berry-red), sin repetir los 4 tonos anteriores.
@@ -372,6 +377,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 06: Ice Lavender Solitude (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Penthouse / Off-duty · 1ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look6_ice_lavender_solitude/`
+- **Arquetipo:** Penthouse / Off-duty
 - **Tags:** #penthouse #vinyl #chrome #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** su espacio, sola, fuera de servicio — registro frío pero relajado, no performativo. Raíz Fashionista pura (perla + lavanda + plata). Maquillaje nuevo (lavanda-plata + ciruela), sin repetir los 5 tonos anteriores.
@@ -440,6 +446,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 07: Vogue Sovereign (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Editorial / Portada · 1ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look7_vogue_sovereign/`
+- **Arquetipo:** Editorial / Portada
 - **Tags:** #editorial #vinyl #chrome #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** cierra el roster inicial de los 7 arquetipos. Sesión de foto pura, fondo controlado, sin narrativa de escenario — la prenda y la actitud son el contenido. Rosa firma reforzado (Look 06 no lo llevó). Silueta arquitectónica con estructura de corsé integrada al vestido (no es pieza separada).
@@ -506,6 +513,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 08: Electric Violet Reverie (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Club / Escenario · 2ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look8_electric_violet_reverie/`
+- **Arquetipo:** Club / Escenario
 - **Tags:** #club #vinyl #pvc #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** segunda vuelta de arquetipos, Look 08/14. Paso 0: contra Look 01 (mismo arquetipo, único previo) — silueta halter+thong ya usada → esta vez catsuit con cutouts; setting club ya usado → mismo club pero ángulo distinto (zona VIP del escenario, no la pista); color hot pink ya dominante → esta vez violeta UV + azul eléctrico (raíz Stripper, sin repetir). Corsé SÍ esta vez (Look 01 no llevaba). Piernas desnudas (Look 01 llevaba medias — ventana de 2 looks aplica dentro del mismo arquetipo también).
@@ -574,6 +582,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 09: Cotton Candy Dream (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Girly Girl · 2ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look9_cotton_candy_dream/`
+- **Arquetipo:** Girly Girl
 - **Tags:** #girlygirl #vinyl #chrome #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** Paso 0 contra Look 02: color hot pink ya usado → esta vez raíz Girly real (cotton-candy blue + soft mint, pasteles genuinos, no rosa fuerte); silueta vestido ya usada → dos piezas (top + falda); interior boudoir ya usado → terraza pastel al atardecer, sigue siendo glamour adulto (nunca infancia, prohibición sigue vigente). Rosa firma reforzado vía accesorios chico ya que el dominante es azul/mint. Medias sheer esta vez (Look 02 quedó sin medias).
@@ -640,6 +649,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 10: Midnight Plum Rite (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Calabozo / Dungeon · 2ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look10_midnight_plum_rite/`
+- **Arquetipo:** Calabozo / Dungeon
 - **Tags:** #calabozo #vinyl #latex #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** Paso 0 contra Look 03: corsé oxblood ya usado → esta vez sin corsé, bodysuit con cutouts y anillas; oxblood/gunmetal ya usado → dark plum + gunmetal; medias ya usadas (ventana de 2 aplica) → piernas desnudas bajo el bodysuit.
@@ -708,6 +718,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 11: Rose Gold Affair (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · VIP / Privado · 2ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look11_rose_gold_affair/`
+- **Arquetipo:** VIP / Privado
 - **Tags:** #vip #vinyl #chrome #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** Paso 0 contra Look 04: bralette+garter ya usado → slip-dress de una pieza; dusty rose ya usado → rose gold + champagne; sin medias en Look 04 → esta vez SÍ medias (rompe la racha de 2 looks sin rosa: la cuota estaba vencida desde Look 10, este la satura).
@@ -774,6 +785,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 12: Chrome Circuit (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Gym / Athletic · 2ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look12_chrome_circuit/`
+- **Arquetipo:** Gym / Athletic
 - **Tags:** #gym #vinyl #mesh #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** Paso 0 contra Look 05 — leggings ya usados → **bike shorts cortos, piernas al descubierto** (corrección directa de la Ama, la pierna en Gym no siempre va en leggings). Cyan ya usado → coral-bronce. Setting interior ya usado → terraza de entrenamiento exterior.
@@ -840,6 +852,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 13: Onyx Nightcap (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Penthouse / Off-duty · 2ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look13_onyx_nightcap/`
+- **Arquetipo:** Penthouse / Off-duty
 - **Tags:** #penthouse #vinyl #chrome #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** Paso 0 contra Look 06: perla/lavanda ya usado → esta vez negro carbón (raíz Domme, contraste real); robe+bralette ya usado → slip dress satén; sala de estar de día ya usada → dormitorio de noche con la ciudad iluminada; medias ya usadas → piernas desnudas.
@@ -908,6 +921,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 14: Chrome Cathedral (11/08/2026 · batch L01-L14 "Rediseño Miss Doll" · Editorial / Portada · 2ª tanda)
 - **Ubicacion:** `05_Imagenes/miss_doll/look14_chrome_cathedral/`
+- **Arquetipo:** Editorial / Portada
 - **Tags:** #editorial #vinyl #mesh #missdoll #batchL01-L14 #V7poses
 
 **Concepto:** Paso 0 contra Look 07: vestido rosa con slit ya usado → esta vez arnés escultórico sobre bodysuit (silueta distinta); negro-chrome gráfico ya usado → sombra dorada; rosa reforzado (venía vencido desde Look 13).
@@ -976,6 +990,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 15: Neon Fuchsia Cabana (16/08/2026 · batch L15-L20 "Ampliación Flota" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look15_neon_fuchsia_cabana/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikini #lenceria #neon #fuchsia #vinyl #missdoll #batchL15-L20 #V7poses
 
 **Concepto:** Debut del arquetipo Bikini/Lencería Erótica. Micro bikini triangular en vinilo fucsia neón de alto brillo con tiras finas de bondage y micro hebillas cromadas, tanga micro thong con tiras altas sobre los huesos de la cadera, sandalias stiletto de 8 pulgadas de plataforma cromada espejo con pulsera al tobillo, gargantilla de cromo con anilla O-ring, uñas coffin en fucsia cromado.
@@ -1043,6 +1058,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 16: Cyber Magenta Dominance (16/08/2026 · batch L15-L20 "Ampliación Flota" · Club / Escenario)
 - **Ubicacion:** `05_Imagenes/miss_doll/look16_cyber_magenta_dominance/`
+- **Arquetipo:** Club / Escenario
 - **Tags:** #club #bodysuit #asymmetric #vinyl #mesh #missdoll #batchL15-L20 #V7poses
 
 **Concepto:** Pole show de alta tensión. Bodysuit asimétrico de un solo hombro en vinilo magenta eléctrico con panel de mesh negro semi-transparente en el torso, corte thong alto, bota knee-high de vinilo negro con plataforma de 8 pulgadas cromada y tacón de aguja, arnés de un solo brazo con correas finas de cromo.
@@ -1110,6 +1126,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 17: Lavender Crystal Boudoir (16/08/2026 · batch L15-L20 "Ampliación Flota" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look17_lavender_crystal_boudoir/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #lenceria #crystal #mesh #lavender #liguero #missdoll #batchL15-L20 #V7poses
 
 **Concepto:** Lencería erótica de tocador de lujo. Sujetador plunge demi-cup en satén wet-look lavanda con recubrimiento de crystal mesh brillante y lazo hot pink miniatura, tanga micro g-string a juego, liguero de satén lavanda con hebillas cromadas, medias sheer cristalinas con sandalias stiletto de 8 pulgadas de plataforma cromada.
@@ -1177,6 +1194,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 18: Oxblood Sovereign Restraint (16/08/2026 · batch L15-L20 "Ampliación Flota" · Calabozo / Dungeon)
 - **Ubicacion:** `05_Imagenes/miss_doll/look18_oxblood_sovereign_restraint/`
+- **Arquetipo:** Calabozo / Dungeon
 - **Tags:** #dungeon #corse #bondage #oxblood #thighhigh #missdoll #batchL15-L20 #V7poses
 
 **Concepto:** Sesión de dominación de alta costura. Corset overbust de vinilo oxblood ajustando la cintura con ballenas de acero, arnés collar de correas de cuero negro fino con herrajes de joyería cromados y forro interior rosa neón visible, tanga oxblood de vinilo, medias de red ultra-finas negras y botas de 8 pulgadas sobre la rodilla (thigh-high) en vinilo oxblood con plataforma cromada.
@@ -1244,6 +1262,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 19: Dusty Rose Penthouse Robe (16/08/2026 · batch L15-L20 "Ampliación Flota" · VIP / Privado)
 - **Ubicacion:** `05_Imagenes/miss_doll/look19_dusty_rose_penthouse_robe/`
+- **Arquetipo:** VIP / Privado
 - **Tags:** #vip #privado #bata #dustyrose #seda #mule #missdoll #batchL15-L20 #V7poses
 
 **Concepto:** Suite VIP privada tras el show. Bata abierta de seda transparente rosa empolvado cayendo de los hombros dejando el torso y abdomen de gimnasio completamente a la vista, bralette de microfibra negra con tiras cruzadas, micro tanga negra, sin medias (piernas desnudas) y sandalias mule de 8 pulgadas de plataforma oro rosa con tacón de aguja. Cumple la cuota de bata abierta ≥ 50%.
@@ -1311,6 +1330,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 20: Mint Chrome Bikini (16/08/2026 · batch L15-L20 "Ampliación Flota" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look20_mint_chrome_bikini/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikini #mint #chrome #poolside #vinyl #missdoll #batchL15-L20 #V7poses
 
 **Concepto:** Sesión de piscina privada. Micro bikini de vinilo verde menta pastel suave con ribetes contrastantes en rosa neón de alto brillo, copa triangular con aros cromados, tanga micro thong con tiras laterales dobles, sin medias (piernas desnudas tonificadas), sandalias stiletto de 8 pulgadas de plataforma cromada transparente con tacón de aguja.
@@ -1375,6 +1395,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 21: Mirror Cage Descent (17/08/2026 · batch L21-L25 "Ampliación Flota II" · Club / Escenario)
 - **Ubicacion:** `05_Imagenes/miss_doll/look21_mirror_cage_descent/`
+- **Arquetipo:** Club / Escenario
 - **Tags:** #club #vinyl #chrome #missdoll #batchL21-L25 #V7poses
 
 **Concepto:** Debut de temporada en la tarima — cuerpo entero de vinilo cromado con recortes geométricos, la barra como firma.
@@ -1441,6 +1462,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 22: Black Cape Overture (17/08/2026 · batch L21-L25 "Ampliación Flota II" · Club / Escenario)
 - **Ubicacion:** `05_Imagenes/miss_doll/look22_black_cape_overture/`
+- **Arquetipo:** Club / Escenario
 - **Tags:** #club #mesh #cape #missdoll #batchL21-L25 #V7poses
 
 **Concepto:** Entrada de escenario con una capa de vinilo negro que cae y un bralette de malla debajo — el striptease empieza antes de tocar la barra.
@@ -1509,6 +1531,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 23: Crystal Mesh Cabana (17/08/2026 · batch L21-L25 "Ampliación Flota II" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look23_crystal_mesh_cabana/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikini #crystalmesh #cabana #missdoll #batchL21-L25 #V7poses
 
 **Concepto:** Conjunto de bikini de crystal mesh sobre piel — la prenda es la protagonista, sin capa que la tape.
@@ -1575,6 +1598,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 24: Cutout Circuit (17/08/2026 · batch L21-L25 "Ampliación Flota II" · Gym / Athletic)
 - **Ubicacion:** `05_Imagenes/miss_doll/look24_cutout_circuit/`
+- **Arquetipo:** Gym / Athletic
 - **Tags:** #gym #unitard #vinyl #missdoll #batchL21-L25 #V7poses
 
 **Concepto:** Unitard de vinilo con recortes geométricos, sudor glam bajo luz fría de gimnasio — la piel se muestra por los recortes de cintura y cadera, no por la pierna.
@@ -1643,6 +1667,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 25: Rose Marabou Suite (17/08/2026 · batch L21-L25 "Ampliación Flota II" · 🎀 Girly Girl)
 - **Ubicacion:** `05_Imagenes/miss_doll/look25_rose_marabou_suite/`
+- **Arquetipo:** Girly Girl
 - **Tags:** #girlygirl #pastel #marabou #missdoll #batchL21-L25 #V7poses
 
 **Concepto:** Bata de chiffon rosa pastel semitransparente, de puños anchos, abierta sobre bralette a juego, salón de belleza de lujo — glamour adulto en su registro más dulce, con la sonrisa real que es la única excepción de su registro. **17/08/2026 — corregido:** la bata original era seda charmeuse opaca (`silk charmeuse`), que en Back View tapaba la lencería entera y perdía toda sensualidad aunque el `BACK_ANCHOR` funcionara perfecto — el problema no era de anclaje, era de material. Pasó a chiffon semitransparente: la lencería se sigue viendo a través de la tela en cualquier ángulo. Pose Standing corregida también (tenía una pierna alzada tipo patada que no gustó — reemplazada por contrapposto).
@@ -1709,6 +1734,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 26: Acero y Rosa Sangre (18/08/2026 · batch L26-L30 "Ampliacion Flota III" · Calabozo / Dungeon)
 - **Ubicacion:** `05_Imagenes/miss_doll/look26_acero_y_rosa_sangre/`
+- **Arquetipo:** Calabozo / Dungeon
 - **Tags:** #calabozo #corseteria #acero #rosasangre #missdoll #batchL26-L30 #V7poses
 
 **Concepto:** Sesion de dominacion en mobiliario elegante. Vestido largo de malla burdeos sobre conjunto de latex y corse-cinturon de acero: cubre la silueta sin tapar el morbo. Arquitectura M10 — paga la cuota de silueta cubierta de §8, que arranca justo en el Look 26, y no choca con el M2/M9/M3 de los tres looks anteriores.
@@ -1767,6 +1793,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 27: Cromo Liquido (18/08/2026 · batch L26-L30 "Ampliacion Flota III" · Penthouse / Off-duty)
 - **Ubicacion:** `05_Imagenes/miss_doll/look27_cromo_liquido/`
+- **Arquetipo:** Penthouse / Off-duty
 - **Tags:** #penthouse #vestido #cromo #latex #missdoll #batchL26-L30 #V7poses
 
 **Concepto:** Su espacio, registro frio fuera del trabajo. Mini vestido de latex espejo cromado con espalda enteramente descubierta. Arquitectura M6 — paga la cuota de silueta cubierta de §8.
@@ -1825,6 +1852,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 28: Rojo Italiano Arquitectonico (18/08/2026 · batch L26-L30 "Ampliacion Flota III" · Editorial / Portada)
 - **Ubicacion:** `05_Imagenes/miss_doll/look28_rojo_italiano_arquitectonico/`
+- **Arquetipo:** Editorial / Portada
 - **Tags:** #editorial #rojoitaliano #pvc #minifalda #missdoll #batchL26-L30 #V7poses
 
 **Concepto:** Sesion de foto pura, fondo controlado. Minifalda de PVC rojo italiano y corse-top de hombro pico en el mismo rojo. Correccion de la Ama 18/08: rojo italiano. Arquitectura M7 — paga cuota cubierta.
@@ -1883,6 +1911,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 29: Humo y Perla (18/08/2026 · batch L26-L30 "Ampliacion Flota III" · VIP / Privado)
 - **Ubicacion:** `05_Imagenes/miss_doll/look29_humo_y_perla/`
+- **Arquetipo:** VIP / Privado
 - **Tags:** #vip #lenceria #perla #bata #missdoll #batchL26-L30 #V7poses
 
 **Concepto:** Sesion exclusiva uno-a-uno. Conjunto de lenceria gris perla con liguero y bata abierta de chiffon semitransparente (§5.1b — piso de bata en VIP). La bata NO paga la cuota cubierta: enmarca, no cubre.
@@ -1941,6 +1970,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 30: Neon Acido (18/08/2026 · batch L26-L30 "Ampliacion Flota III" · Gym / Athletic)
 - **Ubicacion:** `05_Imagenes/miss_doll/look30_neon_acido/`
+- **Arquetipo:** Gym / Athletic
 - **Tags:** #gym #legging #neon #vinilo #missdoll #batchL26-L30 #V7poses
 
 **Concepto:** Base fija del arquetipo (bra deportivo de vinilo + sudor glam + plataforma deportiva) con la pierna ENTERAMENTE cubierta en legging de latex — rotacion explicita respecto del unitard del L24. Arquitectura M8, paga cuota cubierta.
@@ -1999,6 +2029,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 31: Arnes de Cromo (19/08/2026 · batch L31-L35 "Ampliacion Flota IV" · Club / Escenario)
 - **Ubicacion:** `05_Imagenes/miss_doll/look31_arnes_de_cromo/`
+- **Arquetipo:** Club / Escenario
 - **Tags:** #club #arnes #cromo #rosaneon #missdoll #batchL31-L35 #V7poses
 
 **Concepto:** Debut de arquitectura M5 (arnes fashion-bondage sobre piel) — rompe la racha de minifalda(M7)/lenceria(M3)/legging(M8) de los ultimos 3 looks. Cubre el deficit real del arquetipo Club (5/30 vs meta 18%).
@@ -2065,6 +2096,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 32: Perla en la Terraza (19/08/2026 · batch L31-L35 "Ampliacion Flota IV" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look32_perla_en_la_terraza/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikini #perla #coral #missdoll #batchL31-L35 #V7poses
 
 **Concepto:** Debut de M2 (micro bikini) en esta tanda. Cubre el deficit real del arquetipo Bikini/Lenceria (4/30 vs meta 15%).
@@ -2131,6 +2163,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 33: Slip Rosa Bebe (19/08/2026 · batch L31-L35 "Ampliacion Flota IV" · 🎀 Girly Girl)
 - **Ubicacion:** `05_Imagenes/miss_doll/look33_slip_rosa_bebe/`
+- **Arquetipo:** Girly Girl
 - **Tags:** #girly #rosa #slipdress #missdoll #batchL31-L35 #V7poses
 
 **Concepto:** Debut de M10 (slip dress) — paga la cuota de silueta cubierta de §8. Cubre el deficit real del arquetipo Girly Girl (3/30 vs meta 12%). Expresion calida/sonriente (excepcion unica del arquetipo, §2) — sacar `warm smile, laughing` del negative.
@@ -2197,6 +2230,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 34: Gunmetal de Calabozo (19/08/2026 · batch L31-L35 "Ampliacion Flota IV" · Calabozo / Dungeon)
 - **Ubicacion:** `05_Imagenes/miss_doll/look34_gunmetal_de_calabozo/`
+- **Arquetipo:** Calabozo / Dungeon
 - **Tags:** #calabozo #gunmetal #corset #missdoll #batchL31-L35 #V7poses
 
 **Concepto:** Corseteria M4 en gunmetal — rompe con el oxblood/acero recien usado en L26. Cubre el deficit real del arquetipo Calabozo (4/30 vs meta 13%).
@@ -2263,6 +2297,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 35: Bata Champagne VIP (19/08/2026 · batch L31-L35 "Ampliacion Flota IV" · VIP / Privado)
 - **Ubicacion:** `05_Imagenes/miss_doll/look35_bata_champagne_vip/`
+- **Arquetipo:** VIP / Privado
 - **Tags:** #vip #champagne #bataabierta #missdoll #batchL31-L35 #V7poses
 
 **Concepto:** Lenceria M3 + bata abierta — cumple el piso de bata en VIP (§8). Cubre el deficit real del arquetipo VIP (4/30 vs meta 12%).
@@ -3319,6 +3354,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 ---
 ## 💅 Look 52: Voltaje Chrome Unitard (24/08/2026 · batch L52-L55 "Calibración de ADN" · Gym / Athletic)
 - **Ubicacion:** `05_Imagenes/miss_doll/look52_voltaje_chrome_unitard/`
+- **Arquetipo:** Gym / Athletic
 - **Tags:** #gym #unitard #cromo #missdoll #batchL52-L55 #V7poses
 
 **Concepto:** Sesion de gimnasio privada. Unitard de vinilo rosa neon con cutouts geometricos y cadena de cuerpo cromada -- arquitectura M9, distinta al legging del Look 49 (ventana global de arquitectura).
@@ -3375,6 +3411,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 53: Cotton Candy Liguero (24/08/2026 · batch L52-L55 "Calibración de ADN" · 🎀 Girly Girl)
 - **Ubicacion:** `05_Imagenes/miss_doll/look53_cotton_candy_liguero/`
+- **Arquetipo:** Girly Girl
 - **Tags:** #girlygirl #cottoncandy #liguero #missdoll #batchL52-L55 #V7poses
 
 **Concepto:** Salon de belleza rosa, registro calido unico de este arquetipo. Minifalda + top de vinilo azul algodon de azucar -- arquitectura M7, evita repetir M3/M4/M9 de los 3 looks anteriores (ventana global de arquitectura).
@@ -3431,6 +3468,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 54: Oxblood Corsetería VIP (24/08/2026 · batch L52-L55 "Calibración de ADN" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look54_oxblood_corseteria_vip/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikinilenceria #oxblood #corseteria #missdoll #batchL52-L55 #V7poses
 
 **Concepto:** La prenda ES el look. Corse overbust de latex oxblood con tanga a juego -- arquitectura M4, rompe la racha de bikinis M2 repetidos en este arquetipo.
@@ -3487,6 +3525,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 55: Perla Corte Diagonal (24/08/2026 · batch L52-L55 "Calibración de ADN" · Editorial / Portada)
 - **Ubicacion:** `05_Imagenes/miss_doll/look55_perla_corte_diagonal/`
+- **Arquetipo:** Editorial / Portada
 - **Tags:** #editorial #perla #vinilo #missdoll #batchL52-L55 #V7poses
 
 **Concepto:** Sesion de portada, material unico (vinilo, sin cromo espejo -- leccion del Look 27). Vestido de vinilo perla con un solo cutout diagonal.
@@ -3546,6 +3585,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 56: Iridescent Cyan Cage (25/08/2026 · batch L56-L60 "Rediseño de Silueta y Color" · Club / Escenario)
 - **Ubicacion:** `05_Imagenes/miss_doll/look56_iridescent_cyan_cage/`
+- **Arquetipo:** Club / Escenario
 - **Tags:** #club #cyan #iridiscente #missdoll #batchL56-L60 #V7poses
 
 **Concepto:** Bodysuit de segunda piel (M1, piel) rompiendo la racha de monoblock: cian electrico + panel iridiscente oil-slick, nunca usado antes en la flota.
@@ -3602,6 +3642,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 57: Turquoise Chrome Cabana (25/08/2026 · batch L56-L60 "Rediseño de Silueta y Color" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look57_turquoise_chrome_cabana/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikinilenceria #turquesa #cromo #missdoll #batchL56-L60 #V7poses
 
 **Concepto:** Bikini micro dos piezas (M2, piel) en turquesa-cromo y oro rosa, sarong de crystal mesh como accesorio abierto -- rompe el molde vinilo/latex de los ultimos looks.
@@ -3658,6 +3699,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 58: Lavender Bow Boudoir (25/08/2026 · batch L56-L60 "Rediseño de Silueta y Color" · 🎀 Girly Girl)
 - **Ubicacion:** `05_Imagenes/miss_doll/look58_lavender_bow_boudoir/`
+- **Arquetipo:** Girly Girl
 - **Tags:** #girlygirl #lavanda #liguero #missdoll #batchL56-L60 #V7poses
 
 **Concepto:** Conjunto de lenceria (M3, piel) en lavanda pastel -- silueta nueva para el arquetipo, que hasta ahora solo habia usado falda+top (M7). Expresion calida propia de Girly Girl.
@@ -3714,6 +3756,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 59: Mirror Chrome Unitard (25/08/2026 · batch L56-L60 "Rediseño de Silueta y Color" · Gym / Athletic)
 - **Ubicacion:** `05_Imagenes/miss_doll/look59_mirror_chrome_unitard/`
+- **Arquetipo:** Gym / Athletic
 - **Tags:** #gym #cromo #unitard #missdoll #batchL56-L60 #V7poses
 
 **Concepto:** Unitard de cuerpo completo (M9, cubierta) en cromo espejo liquido -- material unico, corte simple (leccion Look 27: no apilar dos constraints duros).
@@ -3770,6 +3813,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 60: Obsidian Chrome Harness (25/08/2026 · batch L56-L60 "Rediseño de Silueta y Color" · Editorial / Portada)
 - **Ubicacion:** `05_Imagenes/miss_doll/look60_obsidian_chrome_harness/`
+- **Arquetipo:** Editorial / Portada
 - **Tags:** #editorial #negro #arnes #missdoll #batchL56-L60 #V7poses
 
 **Concepto:** Arnes de fashion-bondage (M5, piel) en cadena de cromo y vinilo negro, acento holografico confinado a un solo accesorio -- pieza couture editorial, no de calabozo.
@@ -3826,6 +3870,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 61: Gunmetal Cage Bodysuit (28/08/2026 · batch L61-L65 "La Perla y Honey Birdette Lenceria" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look61_gunmetal_cage_bodysuit/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikinilenceria #gunmetal #honeybirdette #cage #missdoll #batchL61-L65 #V7poses
 
 **Concepto:** Paso 0 contra Look 60: arnes M5 recien usado -> esta vez bodysuit M1 con cutouts de cage y hardware (arquitectura distinta, ventana global de 3 looks respetada); contra Look 57: turquesa/cromo dominante ya usado -> gunmetal + midnight navy con acento hot pink. Honey Birdette architectural cage sobre segunda piel.
@@ -3882,6 +3927,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 62: Ivory Champagne Lace Corset (28/08/2026 · batch L61-L65 "La Perla y Honey Birdette Lenceria" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look62_ivory_champagne_lace_corset/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikinilenceria #ivorychampagne #laperla #corseteria #missdoll #batchL61-L65 #V7poses
 
 **Concepto:** Paso 0 contra Look 54: corseteria M4 en oxblood ya usada -> esta vez ivory champagne lace-pattern (gap de 8 looks, ventana global respetada); contra Look 58: lavanda ya usado -> champagne/oro. La Perla aristocratica italiana, encaje laser-cut sobre boning visible.
@@ -3938,6 +3984,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 63: Dusty Rose Lace Boudoir (28/08/2026 · batch L61-L65 "La Perla y Honey Birdette Lenceria" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look63_dusty_rose_lace_boudoir/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikinilenceria #dustyrose #laperla #lenceria #missdoll #batchL61-L65 #V7poses
 
 **Concepto:** Paso 0 contra Look 58: conjunto de lenceria M3 en lavanda ya usado -> esta vez slip dress transparente M10 (cubierta) en dusty rose sobre sujetador+tanga+liguero+medias a juego -- la tela es sheer y deja leer la lenceria completa, no tapa el morbo; paga ademas la cuota de silueta cubierta de §8 (0/4 en la ventana L60-L63 sin este fix); contra Look 54/37: oxblood y bubblegum ya usados en esta categoria -> dusty rose satisface la firma rosa sin repetir ninguno de los dos. La Perla en su registro mas clasico: el slip de seda-y-encaje que dejo su firma aristocratica.
@@ -3994,6 +4041,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 64: Electric Magenta Chrome Harness (28/08/2026 · batch L61-L65 "La Perla y Honey Birdette Lenceria" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look64_electric_magenta_chrome_harness/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikinilenceria #magenta #honeybirdette #arnes #missdoll #batchL61-L65 #V7poses
 
 **Concepto:** Paso 0 contra Look 60: arnes M5 en negro cromado ya usado -> esta vez electric magenta con cromo (gap de 4 looks, ventana global recien habilitada); contra Look 57: cromo turquesa ya usado -> cromo sobre magenta, paleta distinta. Bota thigh-high en vez de sandalia, rompe tambien el calzado repetido.
@@ -4050,6 +4098,7 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 
 ## 💅 Look 65: Mint Ivory Lace Triangle (28/08/2026 · batch L61-L65 "La Perla y Honey Birdette Lenceria" · 👙 Bikini / Lencería Erótica)
 - **Ubicacion:** `05_Imagenes/miss_doll/look65_mint_ivory_lace_triangle/`
+- **Arquetipo:** Bikini / Lenceria Erotica
 - **Tags:** #bikinilenceria #mint #laperla #triangle #missdoll #batchL61-L65 #V7poses
 
 **Concepto:** Paso 0 contra Look 57: bikini M2 turquesa-cromo-oro rosa ya usado en esta categoria -> esta vez mint-ivory con oro (gap de 8 looks, ventana global respetada); contra Look 63 de este mismo batch, ya M10 (slip dress) -> aqui vuelve a M2 (triangle top + tanga), sin repetir arquitectura dentro de la ventana de 3; contra Look 37 bubblegum -> paleta menta fresca, acento rosa via lazo dusty-rose puntual. La Perla en clave triangle delicada, no cage.
