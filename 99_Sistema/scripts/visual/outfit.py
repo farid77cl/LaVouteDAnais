@@ -363,6 +363,26 @@ def cmd_generar(args):
         print("  \U0001f7e0 sin historia previa en la galeria: las ventanas cruzadas "
               "solo ven este batch")
 
+    # ROTACION DE SUB-POSES (06/09/2026). Va como AVISO y no como bloqueo a
+    # proposito: con repertorios de 7 y ventanas de 12, la repeticion es
+    # INEVITABLE por aritmetica — bloquear haria imposible emitir un batch de
+    # Anais. Sube a bloqueo cuando los repertorios crezcan (Task 9 del plan).
+    try:
+        from rotacion_poses import colisiones as _colis, periodo_por_slot as _per
+        _rep = json.load(io.open(os.path.join(AQUI, "repertorios_pose.json"),
+                                 encoding="utf-8")).get("personajes", {}).get(b["personaje"])
+        if _rep:
+            _ventana = [n for n, _ in historia] + sorted(nums_batch)
+            _total = len(_rep.get("slots", {}))
+            _duros = [c for c in _colis(_ventana, _rep)
+                      if c["n"] >= _total - 1 and c["b"] in nums_batch]
+            for c in _duros:
+                print("  🟠 L%d repite %d/%d sub-poses de L%d — repertorio mas "
+                      "chico: %d variantes (ver plan de correccion, Task 9)"
+                      % (c["b"], c["n"], _total, c["a"], min(_per(_rep).values())))
+    except Exception as _e:                                      # pragma: no cover
+        print("  🟠 no se pudo medir la rotacion de sub-poses (%s)" % _e)
+
     def _historicos(rot):
         return {int(x) for x in (rot or {}).get("historicos_declarados", [])}
 
@@ -618,6 +638,9 @@ COMANDOS = {
                     "personajes registrados en el engine"),
     "poses":       (lambda a: _correr("prompt_builder.py", ["--poses"] + a),
                     "repertorio de sub-poses de un personaje"),
+    "rotacion":    (lambda a: _correr("rotacion_poses.py", a),
+                    "repeticion de sub-poses ENTRE looks (lo que el chequeo 7 de "
+                    "lint no puede ver: el mide DENTRO de un look)"),
     "modularidad": (cmd_modularidad,
                     "audita que el engine sea modular: 0 personajes en el código, "
                     "campos propios declarados, sub-poses únicas (--estricto)"),

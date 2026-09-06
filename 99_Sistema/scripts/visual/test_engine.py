@@ -344,6 +344,31 @@ check("mojibake: texto sano con emojis y acentos NO dispara",
 check("mojibake: acento correcto solo NO dispara",
       secuencias_mojibake("Anais Belland, la regenta: cómo, qué, mañana") == [])
 
+# G. ROTACION DE SUB-POSES ENTRE LOOKS (06/09/2026)
+#    El chequeo 7 de lint_prompts_personaje detecta poses duplicadas DENTRO de
+#    un look y jamas ENTRE looks. Con indice = (look-1+off) %% n, cada slot se
+#    repite cada n looks; como los 7 repertorios de Anais miden 7, sus L83/L84/
+#    L85 repiten la postura completa de L76/L77/L78 — verbatim, 47 palabras
+#    identicas en Standing. El defecto no vivio porque un chequeo fallara: vivio
+#    porque NO EXISTIA.
+from rotacion_poses import indice_de, colisiones                     # noqa: E402
+check("rotacion: la formula espeja prompt_builder.pose()",
+      indice_de("standing", 817, {"standing": 5}, 9) == (817 - 1 + 5) % 9)
+_rep7 = {"offsets": {"standing": 0, "pov": 3},
+         "slots": {"standing": ["a"] * 7, "pov": ["b"] * 7}}
+_col = colisiones([76, 83], _rep7)
+check("rotacion: caza el par a distancia n en los dos slots",
+      len(_col) == 1 and _col[0]["a"] == 76 and _col[0]["b"] == 83
+      and _col[0]["slots"] == ["pov", "standing"])
+check("rotacion: looks consecutivos NO colisionan (paso 1, n>1)",
+      colisiones([76, 77], _rep7) == [])
+_rep9 = {"offsets": {"odalisque": 0}, "slots": {"odalisque": ["x"] * 9}}
+check("rotacion: con 9 variantes el par a distancia 7 se salva",
+      colisiones([75, 82], _rep9) == [])
+check("rotacion: el orden pone primero al par que mas comparte",
+      [c["n"] for c in colisiones([76, 83, 84], _rep7)] == sorted(
+          [c["n"] for c in colisiones([76, 83, 84], _rep7)], reverse=True))
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
