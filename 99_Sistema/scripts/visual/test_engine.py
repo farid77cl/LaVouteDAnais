@@ -386,6 +386,21 @@ check("medias: el maximo es parametro, no constante",
       audit_racha_medias([_CON, _CON], maximo=1) is not None
       and audit_racha_medias([_CON, _CON], maximo=2) is None)
 
+# G3 el ancla de costura no viaja en un look SIN medias.
+# miss_doll L77 declara `bare legs, no stockings` en su BLOQUE B y sus prompts
+# traen igual "the stockings have ONE single seam...". El disparador ya pedia dos
+# condiciones (costura declarada Y contexto de media) pero ninguna miraba la
+# AUSENCIA: la cadena "no stockings" CONTIENE la palabra "stockings".
+_pb_seam = PromptBuilder("miss_doll")
+_SIN_MEDIAS = ("a fuchsia vinyl pencil miniskirt with a fine back seam up the centre; "
+               "bare legs, no stockings; closed pointed-toe platform stilettos")
+_CON_MEDIAS = ("a fuchsia vinyl pencil miniskirt; sheer black stockings with a fine "
+               "back seam up each leg; closed pointed-toe platform stilettos")
+check("costura: look SIN medias no dispara SEAM_*",
+      not [n for n in _pb_seam.opt_in_de(_SIN_MEDIAS) if n.startswith("SEAM_")])
+check("costura: look CON medias SI dispara SEAM_*",
+      [n for n in _pb_seam.opt_in_de(_CON_MEDIAS) if n.startswith("SEAM_")])
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

@@ -545,7 +545,15 @@ class PromptBuilder(object):
         # dice con esas palabras — y sin el segundo filtro la costura de la chaqueta
         # activaria el candado de la media (medido 29/08/2026).
         import garment_canon as G
-        if self._nombra(bloque_b, G.SEAMED) and self._nombra(bloque_b, G.HOSIERY_CONTEXTO):
+        # TERCERA condicion (06/09/2026): que el look LLEVE medias de verdad.
+        # Las dos anteriores no miraban la AUSENCIA declarada, y la cadena
+        # "no stockings" CONTIENE la palabra "stockings" — asi es como el L77
+        # de una de las munecas, cuyo BLOQUE B dice `bare legs, no stockings`,
+        # se llevo el ancla de costura en sus 7 prompts: texto que se
+        # contradice a si mismo y le roba atencion al generador en cada pose.
+        if (self._nombra(bloque_b, G.SEAMED)
+                and self._nombra(bloque_b, G.HOSIERY_CONTEXTO)
+                and G.lleva_medias(bloque_b)):
             nombres += ["SEAM_FRONT", "SEAM_BACK"]
         return nombres
 
