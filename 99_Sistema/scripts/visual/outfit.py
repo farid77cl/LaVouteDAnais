@@ -72,7 +72,7 @@ sys.path.insert(0, AQUI)
 
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
-from garment_canon import audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
+from garment_canon import audit_racha_medias, lleva_medias, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
 from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
@@ -445,6 +445,38 @@ def cmd_generar(args):
         print("\n     Dos looks distintos no pueden ser el mismo parrafo con otro")
         print("     color. Se rediseña la PRENDA, no la paleta.")
         return 1
+
+    # ---- racha de medias (06/09/2026) --------------------------------------
+    # Regla del perfil, no del motor: el maximo vive en
+    # `anclas_universales.json -> personajes.<slug>.rotacion_medias.maximo`.
+    # Los personajes que no la declaran no la tienen, y el motor no sabe de
+    # nadie en particular — cablear `if slug == "miss_doll"` aqui es la rama que
+    # el proximo personaje no hereda, justo lo que `modularidad` prohibe.
+    rotm = pb.perfil.get("rotacion_medias")
+    if rotm and rotm.get("maximo") is not None:
+        hist_m = {int(x) for x in (rotm.get("historicos_declarados") or [])}
+        secuencia = [g for _, g in historia] + [lk["bloque_b"] for _, lk in orden]
+        nums_seq = [n for n, _ in historia] + [int(n) for n, _ in orden]
+        msg_m = audit_racha_medias(secuencia, rotm["maximo"])
+        if msg_m:
+            # la racha termina en el ultimo look que la cierra; si ese look esta
+            # declarado historico, baja a aviso en vez de frenar un batch por algo
+            # ya materializado que no se puede rehacer
+            culpable = None
+            for i in range(len(secuencia) - 1, -1, -1):
+                if lleva_medias(secuencia[i]):
+                    culpable = nums_seq[i]
+                    break
+            if culpable in hist_m or culpable not in nums_batch:
+                print("  \U0001f7e0 %s (L%s, historico declarado o fuera del batch)"
+                      % (msg_m, culpable))
+            else:
+                print("\n  \U0001f534 RACHA DE MEDIAS — el batch no se escribe:")
+                print("     L%s: %s" % (culpable, msg_m))
+                print("\n     Perfil de %s §5.3: no mas de %d looks consecutivos con"
+                      % (b["personaje"], rotm["maximo"]))
+                print("     medias. Se cambia la pierna de UN look, no la regla.")
+                return 1
 
     # ---- canon de color sobre historia + batch ------------------------------
     entrada = ([{"look": str(n), "garment": g} for n, g in historia]

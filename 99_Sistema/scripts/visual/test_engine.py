@@ -369,6 +369,23 @@ check("rotacion: el orden pone primero al par que mas comparte",
       [c["n"] for c in colisiones([76, 83, 84], _rep7)] == sorted(
           [c["n"] for c in colisiones([76, 83, 84], _rep7)], reverse=True))
 
+# G2 tope de racha de medias. Regla de miss_doll.md:258, violada en el ULTIMO
+# batch (L83, L84 y L85, tres seguidas) y encontrada por revision externa despues
+# de que mi propia auditoria no la mirara.
+from garment_canon import lleva_medias, audit_racha_medias           # noqa: E402
+_CON = "sheer black stockings held by a suspender belt"
+_SIN = "bare legs, no stockings"
+check("medias: 'no stockings' NO cuenta como que lleva medias",
+      not lleva_medias(_SIN) and lleva_medias(_CON))
+check("medias: dos seguidas pasan", audit_racha_medias([_SIN, _CON, _CON, _SIN]) is None)
+check("medias: tres seguidas fallan", audit_racha_medias([_SIN, _CON, _CON, _CON]) is not None)
+check("medias: cuatro sin medias pasan", audit_racha_medias([_SIN] * 4) is None)
+check("medias: el mensaje dice el largo de la racha",
+      "3" in (audit_racha_medias([_CON, _CON, _CON]) or ""))
+check("medias: el maximo es parametro, no constante",
+      audit_racha_medias([_CON, _CON], maximo=1) is not None
+      and audit_racha_medias([_CON, _CON], maximo=2) is None)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

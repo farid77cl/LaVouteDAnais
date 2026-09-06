@@ -551,7 +551,18 @@
         "_familia_firma_porque": "Ama 05/09/2026, desempatando dos ordenes suyas que chocaban: el 04/09 pidio que el rosa firma fuera DOMINANTE y no un detalle decorativo (lo midio: degradado a adorno en 5 de 5 looks), y el 05/09 puso el tope de 2 por familia. Con tope unico, cumplir la primera violaba la segunda -- su L77/L79/L81/L83 salieron rojos. El rosa de Miss Doll no es un color de la paleta: es su ADN, como el cherry red del pelo de Ele. Techo propio de 3 en la ventana de 5, y SIGUE sin poder ir en dos looks pegados: aparece mas seguido, nunca repetida al hilo."
       },
       "nota": "Su slot Odalisque es 'Throne en Suelo' — sentada en el piso con piernas en V, NO reclinada (perfil §4). Por eso RECLINE_ANCHOR se sustituye por FLOOR_SEAT_ANCHOR: aplicar la letra del ancla de Ele aquí contradiría su canon.",
-      "conflicto_resuelto_13_08_2026": "Las 'piernas en V' de su Throne en Suelo CHOCAN con DRESS_LEG_CLOSURE (Ama 13/08/2026) cuando el look es de vestido/falda/bata. Gana la directiva de la Ama: en esos looks el Odalisque se resuelve con las dos piernas plegadas hacia un lado (sirena), NO en V. La V queda reservada a los looks de calzón/bikini/catsuit. Codificado en el perfil §4 y en repertorios_pose.json."
+      "conflicto_resuelto_13_08_2026": "Las 'piernas en V' de su Throne en Suelo CHOCAN con DRESS_LEG_CLOSURE (Ama 13/08/2026) cuando el look es de vestido/falda/bata. Gana la directiva de la Ama: en esos looks el Odalisque se resuelve con las dos piernas plegadas hacia un lado (sirena), NO en V. La V queda reservada a los looks de calzón/bikini/catsuit. Codificado en el perfil §4 y en repertorios_pose.json.",
+      "rotacion_medias": {
+        "maximo": 2,
+        "_porque": "Perfil de Miss Doll §5.3 (linea 258): no mas de 2 looks consecutivos con medias. La regla estaba escrita desde el 11/08/2026 y no tenia ejecutor; la violo su propio batch del 05/09 (L83, L84 y L85, tres seguidas) y la encontro una revision externa el 06/09.",
+        "_dueno": "el numero vive AQUI, no en garment_canon.py: cablearlo en el motor seria una rama por personaje, que es lo que outfit.py modularidad prohibe.",
+        "historicos_declarados": [
+          83,
+          84,
+          85
+        ],
+        "_historicos_porque": "Los tres estan materializados; rediseñar uno es decision editorial de la Ama. Bajan a aviso para no gritar por lo inarreglable — un linter asi enseña a ignorarlo."
+      }
     },
     "anais": {
       "nombre": "Anaïs Belland",

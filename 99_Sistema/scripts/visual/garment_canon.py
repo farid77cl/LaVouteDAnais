@@ -648,3 +648,43 @@ if __name__ == "__main__":
     ok = (len(pb) >= 10 and len(pg) == 0 and ok_safe)
     print("\nSelf-check:", "LIMPIO (bad detectados, good sin falsos positivos, anti-safe del BLOQUE B)" if ok
           else f"REVISAR (bad={len(pb)} esperado>=10, good={len(pg)} esperado 0)")
+
+
+# ---------------------------------------------------------------------------
+# RACHA DE MEDIAS (06/09/2026). Regla escrita en el perfil de Miss Doll (§5.3,
+# linea 258) y violada en su ULTIMO batch: medias en L83, L84 y L85, tres
+# seguidas. La encontro una revision externa despues de que mi propia auditoria
+# de reglas no la mirara — estaba escrita y no tenia ejecutor, igual que
+# color_canon.py entre el 29/08 y el 05/09.
+# ---------------------------------------------------------------------------
+# La AUSENCIA se declara antes de buscar la prenda. Sin esto, un BLOQUE B que
+# dice literal "no stockings" contaba como que lleva medias — el mismo error que
+# `clasificar_arquitectura` ya cerro con su `_regex_ausencias`.
+_MEDIAS_NO = re.compile(r"\bno stockings\b|\bbare legs\b|\bno hosiery\b|\bno tights\b", re.I)
+_MEDIAS_SI = re.compile(r"\bstockings?\b|\bhosiery\b|\btights\b|\bhold-ups?\b|\bnylons?\b", re.I)
+
+
+def lleva_medias(bloque_b):
+    """True si el BLOQUE B declara medias puestas."""
+    b = bloque_b or ""
+    if _MEDIAS_NO.search(b):
+        return False
+    return bool(_MEDIAS_SI.search(b))
+
+
+def audit_racha_medias(bloques_b, maximo=2):
+    """None si cumple; mensaje si hay mas de `maximo` looks SEGUIDOS con medias.
+
+    `bloques_b` va en orden de look. `maximo` es parametro y no constante a
+    proposito: el dueño del numero es el perfil del personaje
+    (`anclas_universales.json -> personajes.<slug>.rotacion_medias.maximo`), no
+    este archivo. Cablear aqui un `if slug == "miss_doll"` es exactamente lo que
+    `outfit.py modularidad` prohibe: una rama que el proximo personaje no hereda.
+    """
+    racha = 0
+    for i, b in enumerate(bloques_b):
+        racha = racha + 1 if lleva_medias(b) else 0
+        if racha > maximo:
+            return ("%d looks seguidos con medias (posiciones %d-%d de la ventana) — "
+                    "el maximo es %d" % (racha, i - racha + 2, i + 1, maximo))
+    return None
