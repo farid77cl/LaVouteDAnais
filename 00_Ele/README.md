@@ -32,6 +32,7 @@
 |---------|-----------|---------------------|
 | [memoria_sesiones.md](memoria_sesiones.md) | **Snapshot dueño-único** (02/07/2026): ESTADO ACTUAL que se REESCRIBE en cada cierre + últimas 7 sesiones — aquí viven flota, último look y pendientes | Continuación de proyectos |
 | [mi_diario_de_servicio.md](mi_diario_de_servicio.md) | Registro diario de trabajo (prepend, lo nuevo arriba; rota a 15 entradas vivas) | Al final de cada sesión |
+| [bandeja/](bandeja/) | 📥 **Bandeja de la Ama** (05/09/2026) — lo que deja por su bot de Telegram cuando no hay sesión abierta. Un archivo en la raíz de esa carpeta es **trabajo vivo**; lo aplicado va a `aplicadas/` | Se lee en el paso 0ter de `/inicio-ele` |
 | [memoria_historica/](memoria_historica/) | Bitácora de sesiones + archivo del diario (rotados por `rotar_memoria.py`) | Consultas históricas on-demand |
 
 ### Protocolos de Imagen

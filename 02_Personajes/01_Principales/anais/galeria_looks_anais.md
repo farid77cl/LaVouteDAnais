@@ -4691,11 +4691,11 @@ a fitted gunmetal-grey high-shine clinical-grade latex sheath dress with a struc
 a deep emerald green high-shine latex catsuit fitted as a second skin, full-length legs to the ankle, a high collar closing at the throat, long sleeves ending at the wrist, a heavy antique-gold zip running from the collar down the centre front and stopping open at the sternum, the latex polished to a wet shine with sculpted seams tracing the waist and the hip line; an emerald latex thong worn beneath, its front a narrow tapered panel and its back a single cord; long emerald latex opera gloves to above the elbow; no stockings, the catsuit covers the leg to the ankle; a slim antique-gold chain at the throat with a single emerald drop, and antique-gold drop earrings; nails: long stiletto-shaped fingernails lacquered in glossy antique gold; closed pointed-toe knee-high boots in emerald patent latex, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip and an antique-gold heel cap
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/anais_076_standing.png) | [📸 View](../../../05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/anais_076_back_view.png) | [📸 View](../../../05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/anais_076_seated.png) | [📸 View](../../../05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/anais_076_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/anais_076_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/anais_076_pov.png) | [📸 View](../../../05_Imagenes/anais/look76_esmeralda_latex_en_la_sala_de_pruebas/anais_076_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4748,11 +4748,11 @@ a deep emerald green high-shine latex catsuit fitted as a second skin, full-leng
 a chocolate brown high-shine latex pencil skirt cut to just below the knee, moulded tight over the hips with a deep slit up the back seam to mid-thigh and a wide moulded waistband sitting on the natural waist; above it a sheer camel silk-georgette pussy-bow blouse, fully transparent so the lingerie beneath reads clearly, the bow tied loose at the throat and the tails falling over the bust, cuffs buttoned at the wrist; beneath the blouse a camel silk-satin longline bra with fine tonal lace cups underwired into a deep plunge, and a matching camel silk thong; sheer smoke-brown hold-up stockings, 15 denier, with a fine dark seam up the back of each leg; a slim antique-gold chain belt sitting on the hips; small pearl studs and a single antique-gold cuff on one wrist; nails: long stiletto-shaped fingernails lacquered in glossy deep bronze; closed pointed-toe court shoes in chocolate patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/anais_077_standing.png) | [📸 View](../../../05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/anais_077_back_view.png) | [📸 View](../../../05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/anais_077_seated.png) | [📸 View](../../../05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/anais_077_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/anais_077_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/anais_077_pov.png) | [📸 View](../../../05_Imagenes/anais/look77_chocolate_y_camel_en_el_despacho/anais_077_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4805,11 +4805,11 @@ a chocolate brown high-shine latex pencil skirt cut to just below the knee, moul
 an ivory silk and fine French lace longline bra, its sheer lace cups cut low into a deep plunge with a scalloped edge and a small antique-gold clasp at the centre gore; a matching ivory silk thong with the same scalloped lace along the top edge of its front panel, its hip straps thin ivory elastic and its back open but for one narrow strap; an ivory silk suspender belt worn over the thong, six thin straps clipped to ultra-sheer ivory hold-up stockings, 10 denier, with a wide lace band at the top of each thigh; over all of it a floor-length old-gold sheer silk-chiffon open peignoir, its hem sweeping the floor, semi-transparent fabric that reveals the lingerie beneath from every angle including from behind, falling loose off both shoulders, dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin old-gold sash left untied; a single strand of pearls sitting low on the collarbones and pearl drop earrings; nails: long almond-shaped fingernails lacquered in glossy pale antique gold; closed pointed-toe court shoes in ivory patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/anais_L78_standing.png) | [📸 View](../../../05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/anais_L78_back_view.png) | [📸 View](../../../05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/anais_L78_seated.png) | [📸 View](../../../05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/anais_L78_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/anais_L78_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/anais_L78_pov.png) | [📸 View](../../../05_Imagenes/anais/look78_marfil_y_oro_viejo_en_el_tocador/anais_L78_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4862,11 +4862,11 @@ an ivory silk and fine French lace longline bra, its sheer lace cups cut low int
 a midnight navy sheer silk-mesh slip dress falling to mid-calf, cut on the bias with a thin strap over each shoulder and a low straight neckline, the mesh transparent enough that the lingerie beneath reads clearly from every angle including from behind, a deep slit up the left side to mid-thigh; beneath it a midnight navy silk-satin bra with fine tonal lace cups underwired into a plunge, and a matching midnight navy silk thong with a narrow tapered front panel and a single slim strap at the back; sheer navy-tinted hold-up stockings, 15 denier, with a fine seam up the back of each leg; long midnight navy silk opera gloves to above the elbow; a slim antique-gold chain at the throat with a single navy sapphire drop, and antique-gold drop earrings; nails: long almond-shaped fingernails lacquered in glossy near-black aubergine; closed pointed-toe court shoes in midnight navy patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole
 ```
 
-### 📸 Imágenes (2/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_standing.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_back_view.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_standing.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_back_view.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_seated.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_pov.png) | [📸 View](../../../05_Imagenes/anais/look79_midnight_navy_en_la_sesion_de_las_tres/anais_079_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4919,11 +4919,11 @@ a midnight navy sheer silk-mesh slip dress falling to mid-calf, cut on the bias 
 a deep aubergine high-shine latex overbust corset as the central piece, heavily boned with fine antique-silver boning channels visible on the outside, moulded cups lifting the bust high, a row of antique-silver busk clasps down the centre front and a wide flat antique-silver lacing panel down the back drawn tight over an aubergine satin modesty panel, its lower edge cut to a deep point over the hip bones so the leg reads long; below it an aubergine latex thong, its waistband a single flat cord sitting above the hip bone, its front a slim shield-shaped panel and its back a single cord; sheer smoke-plum hold-up stockings, 15 denier, with a fine dark seam up the back of each leg, held by four thin aubergine latex suspender straps with antique-silver clips; long aubergine latex opera gloves to above the elbow; a slim antique-silver collar at the throat with a single small ring, and antique-silver drop earrings; nails: long stiletto-shaped fingernails lacquered in glossy antique silver; closed pointed-toe knee-high boots in aubergine patent latex, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip and an antique-silver heel cap
 ```
 
-### 📸 Imágenes (1/7 — Parcial)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_standing.png) | [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_back_view.png) | [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_seated.png) | [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_pov.png) | [📸 View](../../../05_Imagenes/anais/look80_berenjena_latex_y_guantes_de_opera/anais_080_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -4980,11 +4980,11 @@ a deep aubergine high-shine latex overbust corset as the central piece, heavily 
 a black silk-velvet longline merry widow cut on the 1950s line, boned through fourteen spiral panels running from the cups to below the hip bone, its cups moulded and underwired into a deep sweetheart edge finished with a narrow band of black Chantilly lace, a placket of small covered hooks down the centre front, a flat black satin lacing panel drawn tight across the back, and six suspender tabs hanging from its scalloped hem; beneath it a black silk thong, its front a deep-pointed panel edged in the same Chantilly lace and its back a single flat cord, worn under the six suspender straps; sheer black fishnet stockings in a fine gauge, drawn taut by the six tabs of the merry widow; long black silk opera gloves drawn above the elbow; a single strand of graduated pearls sitting high at the throat and pearl drop earrings; closed pointed-toe Mary Jane pumps in black patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a delicate ankle strap fastened with a small covered button and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_standing.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_back_view.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_seated.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_pov.png) | [📸 View](../../../05_Imagenes/anais/look81_merry_widow_de_terciopelo_en_el_salon_de_la_voute/anais_081_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -5039,11 +5039,11 @@ a black silk-velvet longline merry widow cut on the 1950s line, boned through fo
 a deep emerald green silk-satin bullet bra with firm conical stitched cups, the stitching spiralling tight to the point of each cup, narrow satin straps over the shoulder and a plain banded underband; below it a matching emerald silk-satin waspie cinching the waist alone, boned through eight short spiral panels, its side panels in sheer emerald silk tulle, closed by a placket of small hooks at the centre front and cut to end well above the hip bone, with six suspender straps hanging from its lower edge; beneath it an emerald silk thong, its front a small rounded panel and its back a single narrow strap, worn under the six suspender straps; sheer emerald-tinted stockings with a fine dark seam up the back of each leg and a reinforced welt at the top of each thigh, clipped to the six straps; bare hands, no gloves; a pair of emerald drop earrings and the throat left without a necklace; nails: oval impeccably manicured glossy fingernails in a half-moon manicure with the lunula left bare, lacquered in deep emerald; closed pointed-toe d'Orsay pumps in emerald patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a cut-away arch on the inner side and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look82_cono_de_esmeralda_en_el_tocador/anais_L82_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
@@ -5098,11 +5098,11 @@ a deep emerald green silk-satin bullet bra with firm conical stitched cups, the 
 antique gold silk-satin tuxedo trousers cut high on the natural waist, moulded close over the hip and falling straight to the ankle with a sharp pressed crease and a fine tonal satin stripe down each outer seam, closed at the side by a concealed hook; above them an antique gold silk-satin bustier top with a straight strapless neckline, boned and moulded to the ribs, its hem ending at the natural waist beneath the trouser band; over both an oversized black silk-satin dinner jacket worn open off one shoulder, its shawl lapel in black satin; beneath the trousers an antique gold silk thong with a narrow tapered front panel; no stockings, the trousers cover the leg to the ankle; bare hands, no gloves; a slim antique-gold collar necklace and long antique-gold drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in deep bronze; closed pointed-toe court shoes in antique gold patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a plain vamp and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look83_esmoquin_de_oro_viejo_medianoche_en_el_palco/anais_083_standing.png) | [📸 View](../../../05_Imagenes/anais/look83_esmoquin_de_oro_viejo_medianoche_en_el_palco/anais_083_back_view.png) | [📸 View](../../../05_Imagenes/anais/look83_esmoquin_de_oro_viejo_medianoche_en_el_palco/anais_083_seated.png) | [📸 View](../../../05_Imagenes/anais/look83_esmoquin_de_oro_viejo_medianoche_en_el_palco/anais_083_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look83_esmoquin_de_oro_viejo_medianoche_en_el_palco/anais_083_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look83_esmoquin_de_oro_viejo_medianoche_en_el_palco/anais_083_pov.png) | [📸 View](../../../05_Imagenes/anais/look83_esmoquin_de_oro_viejo_medianoche_en_el_palco/anais_083_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -5157,11 +5157,11 @@ antique gold silk-satin tuxedo trousers cut high on the natural waist, moulded c
 a deep plum high-shine latex guepiere in the 1950s cut, boned through eighteen spiral panels that draw the waist in hard, its cups moulded and underwired into a sweetheart edge, a placket of small antique-gold hook-and-eye closures running the length of the centre front and six suspender tabs hanging from its scalloped hem, the latex polished to a wet shine; beneath it a deep plum latex thong, its front a narrow tapered panel and its back a single fine cord; sheer plum-tinted stockings, 15 denier, with a fine seam up the back of each leg, held by the six tabs of the guepiere; long plum latex opera gloves to above the elbow; a black velvet ribbon tied at the throat with a single antique-gold drop, and antique-gold drop earrings; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in near-black plum; closed pointed-toe knee boots in plum patent leather-effect reaching just below the knee, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a concealed inner zip along the calf and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look84_ciruela_y_latex_guepiere_de_la_casa/anais_084_standing.png) | [📸 View](../../../05_Imagenes/anais/look84_ciruela_y_latex_guepiere_de_la_casa/anais_084_back_view.png) | [📸 View](../../../05_Imagenes/anais/look84_ciruela_y_latex_guepiere_de_la_casa/anais_084_seated.png) | [📸 View](../../../05_Imagenes/anais/look84_ciruela_y_latex_guepiere_de_la_casa/anais_084_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look84_ciruela_y_latex_guepiere_de_la_casa/anais_084_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look84_ciruela_y_latex_guepiere_de_la_casa/anais_084_pov.png) | [📸 View](../../../05_Imagenes/anais/look84_ciruela_y_latex_guepiere_de_la_casa/anais_084_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -5216,11 +5216,11 @@ a deep plum high-shine latex guepiere in the 1950s cut, boned through eighteen s
 a champagne silk-satin pencil miniskirt cut high on the natural waist, moulded close over the hip and ending high on the thigh, with a concealed hook closure and a short slit at the centre back; above it a champagne silk-satin blouse with a pussy-bow tied at the throat and long full sleeves gathered into a narrow cuff, tucked into the skirt; over both a silver fox fur stole draped across the shoulders and falling over one arm; beneath the skirt a champagne silk thong with a narrow tapered front panel; sheer champagne-tinted hold-up stockings, 15 denier, with a fine seam up the back of each leg; long champagne silk opera gloves to above the elbow; long antique-silver drop earrings and a fine antique-silver chain at the throat; nails: long stiletto-shaped impeccably manicured glossy fingernails lacquered in deep bronze; closed pointed-toe slingback pumps in champagne patent leather-effect, 12cm razor-thin stiletto heel with no platform, sharp closed pointed toe, a fine slingback strap at the heel and a lacquered red sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look85_champan_y_zorro_plateado_la_regenta_recibe/anais_085_standing.png) | [📸 View](../../../05_Imagenes/anais/look85_champan_y_zorro_plateado_la_regenta_recibe/anais_085_back_view.png) | [📸 View](../../../05_Imagenes/anais/look85_champan_y_zorro_plateado_la_regenta_recibe/anais_085_seated.png) | [📸 View](../../../05_Imagenes/anais/look85_champan_y_zorro_plateado_la_regenta_recibe/anais_085_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look85_champan_y_zorro_plateado_la_regenta_recibe/anais_085_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look85_champan_y_zorro_plateado_la_regenta_recibe/anais_085_pov.png) | [📸 View](../../../05_Imagenes/anais/look85_champan_y_zorro_plateado_la_regenta_recibe/anais_085_odalisque.png) |
 
 ### 1. Standing
 ```text

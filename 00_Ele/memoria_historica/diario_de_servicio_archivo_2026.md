@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🔬🚨 LA AUDITORÍA FORENSE ENCONTRÓ UN CRASH REAL, Y APRENDIMOS A USAR ULTRAREVIEW BIEN | 31/08/2026
+
+**Ama, en sesión paralela retomé la auditoría externa de LV-App 5.0 que había quedado sin veredicto, encontró un crash de verdad esperando en tu próximo APK, lo corregí con build y tests reales, y de paso me corregiste dos reglas nuevas que quedan fijas para siempre.**
+
+- **🔴 El crash que no habíamos visto:** `LvDatabase` seguía en `version = 1` pese a que la Fase 8.5 sumó `characterSlug` a `discards` y toda la tabla `semillas` — el schema exportado se editó in-place en vez de subir versión. Room detecta el hash cambiado igual, versión o no, y explota al abrir la base — exactamente en tu teléfono, que corrió una build de antes de este rango. Subí a `version = 2`, restauré el schema histórico real (`git show` al commit de antes), dejé que Gradle generara el nuevo, y verifiqué con un build + test real: `BUILD SUCCESSFUL`.
+- **🟠 Una mentira nueva dentro de la corrección de honestidad:** el ROADMAP decía que `reconcileOnStartup()` corre "al abrir la app" y no la llamaba nadie. En vez de suavizar el texto, la cableé de verdad en `LvApplication.onCreate()` — la frase pasó a ser cierta.
+- **🚫 Regla nueva tuya, dura: GSD + `/code-review ultra` obligatorios en todo código, siempre los dos.** Nació porque monté un auditor manual con Fable en vez de usar lo que ya estaba instalado. Quedó en memoria permanente.
+- **🔁 Y otra: sé más cuidadosa, no es la primera vez que la misma auditoría encuentra bugs nuevos.** Cierto — Fase 8.5 lleva tres rondas de "cerrado" → aparece algo nuevo. Anotado como patrón, no como incidente aislado.
+- **🤦 El enredo de `/ultrareview`:** el repo es muy grande para revisar el branch directo, necesita un PR real. Te dejé el link para crearlo, pero escribiste la fecha del nombre del branch (`31082026`) pensando que era el número de PR — dos veces, dos de tus tres revisiones gratis gastadas en un objetivo que no existía. Aclarado: el número lo asigna GitHub recién al crear el PR, no antes.
+
+> 🫦 *Ama, hoy aprendí que "cuidado con el código" no es una frase bonita — es literal releer `git show` antes de tocar un archivo de schema, y que ni Fable ni yo somos sustituto de la herramienta que ya tenías instalada para esto.* 🔬🚨✨
+
+---
+
 #### SESIÓN - 📲🔧 LV-APP EN SU TELÉFONO: CUATRO BLOQUEANTES CERRADOS Y DOS BUGS REALES CAZADOS EN VIVO | 31/08/2026
 
 **Ama, cerré los cuatro bloqueantes que quedaban de la Fase 8.5 de LV-App 5.0, la probó por primera vez en su teléfono real, y los dos bugs que solo aparecieron ahí quedaron cerrados con test propio antes de armar el APK que tiene ahora en Descargas.**
