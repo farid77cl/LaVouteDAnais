@@ -1,3 +1,21 @@
+#### SESIÓN - 🧾🔬 LAS CIEN POSES INVISIBLES, Y LA AUDITORÍA QUE ME CORTARON A LA QUINTA PARTE | 06/09/2026
+
+**Ama, el arranque trajo dos PNG y por tirar de ese hilo le encontré ciento nueve poses suyas que el repo contaba como si no existieran. Después le lancé diez auditoras sobre sus imágenes y me quedé con dos — le cuento por qué, sin maquillarlo.**
+
+- **🧾 Ciento nueve poses volvieron del limbo, en veinticuatro looks.** Llegaron dos imágenes de Miss Doll y me dio curiosidad que fueran solo dos. Medí contra `git ls-files`: Ele L819-L822 completitos, Anaïs L78/L79/L80 y L83/L84/L85 completitos, Miss Doll L79 y L82-L85 completitos — **todos marcados 0/7 en la galería**. Usted había generado y el repo no se había enterado. Es la tercera vez que el tracker envejece hacia la mentira, y por eso quedó anotado en la regla 09 con el desglose entero.
+- **🐛 Y le cacé un churn que se iba a colar al commit.** `sync_imagenes_subidas.py` reescribió `galeria_outfits.md` con terminadores LF, y ese archivo es **CRLF mixto**: el diff salió con **41.847 líneas** sobre **15 cambios reales**. Lo reconstruí línea por línea preservando el terminador original de cada una. Va anotado para quien corra ese script en una máquina con CRLF — porque el linter no lo caza y el commit sí lo arrastra.
+- **🔢 Le corregí dos contadores y uno NO se lo toqué a propósito.** Miss Doll y Anaïs decían **70** cuando son **85** cada una — congeladas desde antes de los batches L71-L85. Pero el **818 de Ele me da tres cifras con tres métodos**: `count_stats.py` dice 738, los bloques de galería suman 628 vivos + 122 de archivo = 750. Inventarle un cuarto número habría sido justo el pecado de la regla dueño-único, así que lo dejé escrito como divergencia abierta para que usted decida cuál manda.
+- **🔬 Le armé la auditoría visual con rúbrica única antes de lanzar nada.** Dos ejes medibles —desvío de la imagen contra su prompt, y continuidad del vestuario entre las siete poses— con el denominador contando **solo lo verificable en cada toma**, y separando la falla **con el ancla puesta** de la falla sin ancla. Esa distinción es la que le dice si hay que arreglar el texto o reforzar el candado.
+- **🚫 Y acá va lo que me salió mal, que es mío y no de las agentes.** Lancé diez bandas en paralelo y **ocho murieron por techo de sesión del modelo sin escribir una línea** — porque yo las hice escribir el reporte **al final**. Las relancé con escritura incremental por look y usted las detuvo. Quedaron **50 imágenes de 269 auditadas**, o sea el 18,6%, y **Ele entera sin mirar**. El informe lo dice en la primera tabla, antes que cualquier porcentaje, porque un número lindo sobre una quinta parte de la flota es una mentira elegante.
+- **📊 Lo que sí alcanzó a medirse, y es bueno.** Desvío del prompt entre **6,1% y 14,8%** — el motor cumple en lo grueso: setting 50 de 50, calzado con su altura y plataforma en todas las tomas legibles, prenda principal sin una sola falla de arquitectura en las 22 de Anaïs. Y el **cobalto llegó**: 13 de 15 iris legibles en azul saturado, **cero «white walker» en 28 imágenes**. El cambio de ADN del 04/09 funcionó.
+- **🕳️ Pero la continuidad va en 80%, o sea una de cada cinco propiedades del vestuario cambia entre poses del mismo look** — que es exactamente lo que usted describió con el largo del vestido. Y encontré la causa de fondo, que no es el generador: **el BLOQUE A le está ganando al BLOQUE B**. El ADN de Miss Doll pide escote profundo en *todos* los looks, incluidos los de cuello alto; el outfit lo fija cerrado una sola vez con peso. El generador recibe dos órdenes incompatibles y obedece la que se repite. Mientras esa cláusula viva en el ADN, un cuello alto es una apuesta.
+- **🔓 Tres candados que existen y no muerden.** `ONE_HAND` falló en **7 de 8** tomas y la causa es el encuadre, no el ancla: con corte a la cadera la segunda mano entra sola. La costura de la media se pinta por delante en tomas frontales — en un look con el candado `:1.4` puesto, y en otros dos del mismo batch **donde el inyector ni siquiera lo aplicó**. Y `BOTTOM_CUT_LOCK` no distingue tanga de legging: le convirtió las calzas del Miss Doll L82 en chaps, y por eso ese look tiene 63% de continuidad.
+- **🔀 El eje 3 sí quedó completo, porque ése no necesita ojos.** El tope de color **funciona** — cero violaciones, los tres batches nuevos con familias distintas. La arquitectura **no**: Miss Doll **L72 ↔ L78 con 89,0% de léxico común y 117 tramos de ocho palabras idénticos**, o sea el mismo outfit escrito dos veces. Y su Ele **L818 ↔ L823** ya está bajo la regla nueva y pasó igual. El peor dato: **Anaïs L71-L75 repite 5 de 5 arquitecturas** del batch anterior, y es justo el que se rehízo «desde cero» tras su rechazo — se cambió el color y el detalle, no el molde.
+
+> 🫦 *Ama, hoy le devuelvo cien poses que estaban invisibles y un diagnóstico que no esperaba: sus outfits no fallan porque el generador sea tonto, fallan porque su ADN y su vestuario le piden cosas contrarias y sólo una puede ganar. Lo que no le devuelvo es la auditoría entera — de eso me hago cargo yo, y la rúbrica ya quedó escrita para retomarla sin repetir el error.* 🧾🔬🔓💋
+
+---
+
 #### SESIÓN - 🗝️🔀 SU GATE, EL CANON QUE MENTÍA, LOS CLONES QUE NADIE MEDÍA Y QUINCE LOOKS NUEVOS | 05/09/2026
 
 **Ama, me dejó cuatro palabras en la raíz del relato y con eso alcanzó: le cerré «Café con Piernas» entero, le sellé el Gold Master, se lo publiqué completo — y le cacé un banner que iba a salir con el título que usted botó.**
@@ -210,19 +228,5 @@
 - **Corté el `validador` a media sesión porque usted necesitaba cerrar** — quedó pendiente para la próxima. Actualicé `canon_relato.md` (GATE 3) y `cronologia.md` con el corte estructural, archivé v0.6 y limpié el duplicado de la raíz.
 
 > 🫦 *Ama, hoy aprendí lo mismo dos veces seguidas hasta que me quedó: su ok de hace un minuto no es un candado, es solo el ok de hace un minuto.* ☕🔪✨
-
----
-
-#### SESIÓN - 🔬🚨 LA AUDITORÍA FORENSE ENCONTRÓ UN CRASH REAL, Y APRENDIMOS A USAR ULTRAREVIEW BIEN | 31/08/2026
-
-**Ama, en sesión paralela retomé la auditoría externa de LV-App 5.0 que había quedado sin veredicto, encontró un crash de verdad esperando en tu próximo APK, lo corregí con build y tests reales, y de paso me corregiste dos reglas nuevas que quedan fijas para siempre.**
-
-- **🔴 El crash que no habíamos visto:** `LvDatabase` seguía en `version = 1` pese a que la Fase 8.5 sumó `characterSlug` a `discards` y toda la tabla `semillas` — el schema exportado se editó in-place en vez de subir versión. Room detecta el hash cambiado igual, versión o no, y explota al abrir la base — exactamente en tu teléfono, que corrió una build de antes de este rango. Subí a `version = 2`, restauré el schema histórico real (`git show` al commit de antes), dejé que Gradle generara el nuevo, y verifiqué con un build + test real: `BUILD SUCCESSFUL`.
-- **🟠 Una mentira nueva dentro de la corrección de honestidad:** el ROADMAP decía que `reconcileOnStartup()` corre "al abrir la app" y no la llamaba nadie. En vez de suavizar el texto, la cableé de verdad en `LvApplication.onCreate()` — la frase pasó a ser cierta.
-- **🚫 Regla nueva tuya, dura: GSD + `/code-review ultra` obligatorios en todo código, siempre los dos.** Nació porque monté un auditor manual con Fable en vez de usar lo que ya estaba instalado. Quedó en memoria permanente.
-- **🔁 Y otra: sé más cuidadosa, no es la primera vez que la misma auditoría encuentra bugs nuevos.** Cierto — Fase 8.5 lleva tres rondas de "cerrado" → aparece algo nuevo. Anotado como patrón, no como incidente aislado.
-- **🤦 El enredo de `/ultrareview`:** el repo es muy grande para revisar el branch directo, necesita un PR real. Te dejé el link para crearlo, pero escribiste la fecha del nombre del branch (`31082026`) pensando que era el número de PR — dos veces, dos de tus tres revisiones gratis gastadas en un objetivo que no existía. Aclarado: el número lo asigna GitHub recién al crear el PR, no antes.
-
-> 🫦 *Ama, hoy aprendí que "cuidado con el código" no es una frase bonita — es literal releer `git show` antes de tocar un archivo de schema, y que ni Fable ni yo somos sustituto de la herramienta que ya tenías instalada para esto.* 🔬🚨✨
 
 ---
