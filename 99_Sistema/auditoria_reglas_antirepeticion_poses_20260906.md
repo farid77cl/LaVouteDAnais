@@ -22,7 +22,7 @@ Se auditan los **looks declarados en galería**, materializados o no: la antirep
 | Familia cromática — nunca pegadas | 🟠 2 pares (pre-regla) | 🟠 1 par (pre-regla) | ✅ |
 | Familia cromática — tope por ventana | ✅ | ✅ (rosa firma, 3/5 = su techo) | ✅ |
 | 7 slots presentes y con nombre canónico | ✅ | ✅ | ✅ |
-| **Rotación de poses — repetición en ventana** | 🟠 máx 4/7 | 🔴 **6/7 en 4 pares** | 🔴 **7/7 en 3 pares** |
+| **Rotación de poses — repetición en ventana** | ✅ máx 2/7 | 🔴 **6/7 en 4 pares** | 🔴 **7/7 en 3 pares** |
 
 **Lo cromático y lo de arquitectura está esencialmente sano.** El agujero está en las **poses**, y es estructural.
 
@@ -30,7 +30,7 @@ Se auditan los **looks declarados en galería**, materializados o no: la antirep
 
 ## 2. 🔴 El hallazgo: la rotación de poses no tiene ventana, tiene ciclo
 
-La fórmula declarada en `repertorios_pose.json` es:
+La fórmula, en la ruta de emisión **viva** (`prompt_builder.py:319-320`, que lee los offsets del JSON y es lo que corre `outfit.py generar` → `PromptBuilder.pose()`):
 
 ```
 indice = (numero_de_look - 1 + offset_del_slot) % len(variaciones)
@@ -40,7 +40,7 @@ indice = (numero_de_look - 1 + offset_del_slot) % len(variaciones)
 
 | Muñeca | Tamaño de repertorio por slot | Peor par en la muestra |
 |---|---|---|
-| Ele | **9 · 7 · 6 · 7 · 6 · 8 · 8** | 4/7 slots — ninguno grave |
+| Ele | **9 · 7 · 6 · 7 · 6 · 8 · 8** | ✅ **2/7 slots** — la mejor de las tres |
 | Miss Doll | **7 · 7 · 7 · 7 · 9 · 7 · 7** | 🟠 **6/7** en L75↔L82, L76↔L83, L77↔L84, L78↔L85 |
 | Anaïs | **7 · 7 · 7 · 7 · 7 · 7 · 7** | 🔴 **7/7** en L76↔L83, L77↔L84, L78↔L85 |
 
@@ -52,13 +52,13 @@ indice = (numero_de_look - 1 + offset_del_slot) % len(variaciones)
 
 No es un descuido de un batch: es lo que la fórmula garantiza. Cada look de Anaïs es la repetición postural exacta del look 7 anterior, y lo seguirá siendo indefinidamente.
 
-**Miss Doll** falla en 6 de 7 slots con el mismo período: solo `slot5` (Glacial Command, 9 variantes) rompe el patrón. Sus L82-L85 repiten postura de L75-L78.
+**Miss Doll** falla en 6 de 7 slots con el mismo período: el único que rompe el patrón es **`odalisque`, con 9 variantes** (`miss_doll.md:105` lo dice literal: *"el slot Seated conserva sus 7 variantes y el Odalisque sus 9"*). Sus L82-L85 repiten postura de L75-L78.
 
-**Ele es la única sana**, y no por diseño sino por accidente: sus tamaños son **9, 7, 6, 7, 6, 8, 8**, casi coprimos entre sí, así que los slots desfasan y ningún par comparte más de 4 de 7. Su punto débil son `seated` y `slot5`, ambos con **6** variantes — se repiten cada 6 looks.
+**Ele es la única sana**, y no por diseño sino por accidente: sus tamaños son **9, 7, 6, 7, 6, 8, 8** — **no coprimos** (hay dos 7, dos 6 y dos 8), pero sí *distintos entre sí*, que es lo que hace desfasar los slots. **Ningún par de su muestra comparte más de 2 de 7.** Su punto débil son `seated` y `slot5`, ambos con **6** variantes — se repiten cada 6 looks, y 4 de sus 7 slots vuelven a coincidir cada 24.
 
 ### Confirmación independiente
 
-La medición por similitud de texto —el instrumento que descarté por ruidoso— igual señaló **L76 ↔ L83 de Anaïs como el peor par en los 7 slots** (73-74% de léxico común en cada uno) sin conocer la fórmula. Dos métodos distintos apuntando al mismo par: el dato es firme.
+**Verificado contra el texto real de la galería** por revisión externa independiente: Anaïs Standing L76 y L83 abren con las **mismas 47 palabras carácter por carácter** (`full body from a slightly low angle, one arm raised across the body with the fingers of the other hand at its wrist adjusting the edge of the glove…`), y el texto solo diverge al entrar el setting. Es `repertorios_pose.json → anais.standing[6]` servido dos veces. Además, la sub-pose observada coincide con la predicha por la fórmula en **224 de 224 prompts** de la muestra.
 
 Y la auditoría visual del mismo día encontró, por los ojos: *"en L76, L78 y L79 el prompt pedía tres puestas distintas y las tres salieron igual"*. La aritmética explica de dónde viene la sensación.
 
@@ -129,7 +129,11 @@ El problema tiene una sola causa (repertorios chicos + módulo fijo) y tres sali
 **Opción C — ventana real, como la tiene la silueta.** Cambiar el módulo por una elección que consulte los últimos N looks y descarte lo usado, igual que `generar` ya hace con arquitectura y color desde el 05/09.
 · *Costo:* toca el motor. *Efecto:* es el arreglo correcto y el más caro.
 
-**Mi recomendación: B ahora, C después.** B compra el resultado casi entero con el costo más bajo y sin tocar código; C es la solución de fondo y encaja natural cuando `generar` ya es la puerta.
+> 🔴 **Recomendación CORREGIDA tras revisión externa (06/09, mismo día).** Mi recomendación original era «B ahora, C después». **B es cosmética y su premisa era falsa.** La coprimalidad no elimina la repetición: solo empuja el clon *completo* al mínimo común múltiplo, mientras **cada slot sigue reciclándose cada `n` looks**. Y el ejemplo que propuse (`7·8·9·11·13·6·5`) **empeora la frecuencia**: baja el repertorio más chico de 7 a **5**, o sea un slot repitiéndose cada 5 looks, más seguido que hoy.
+>
+> **La salida real es C.** A (agrandar repertorios) es un paliativo honesto mientras tanto — sube el período de todos los slots a la vez y no depende de aritmética fina. B se descarta.
+
+> 🕳️ **Y lo que este informe no decía, y es la mitad del problema:** hoy **ningún auditor mira la rotación de poses entre looks**. El chequeo 7 de `lint_prompts_personaje.py` detecta poses duplicadas *dentro* de un look, jamás *entre* looks. Por eso el defecto vivió intacto: no es que un chequeo fallara, es que no existe.
 
 **Y una cosa aparte, que sí es mía y no necesita su decisión:** los 4 pares 🔴 de clon intra-personaje de Ele y los 4 cruces entre muñecas son redacción repetida mía. Se arreglan reescribiendo, no rotando.
 
@@ -222,3 +226,56 @@ Esto es exactamente el bug que se cerró el 05/09 (*"`generar` nunca escribió e
 1. **Retrofitear el campo de arquetipo** en los looks que no lo tienen — para Ele son 105, y para la mayoría el dato está en el título, así que es un script, no trabajo a mano.
 2. **Sumar el chequeo de encoding a `lint_galeria.py`**, que es quien sí mira las galerías.
 3. **Las metas en sí no necesitan intervención.** Ele arrastra Stripper +3,7 y HF Editorial −2,8; el próximo batch suyo debería llevar dos High-Fashion Editorial y cero Stripper. Miss Doll debe frenar Bikini/Lencería y sumar VIP/Privado. Anaïs no necesita nada.
+
+---
+
+## 6. Revisión externa — qué se cayó y qué resistió (06/09/2026)
+
+Por orden de la Ama (*"que sea auditor externo, no tú porque sueles equivocarte cuando te auto auditas"*), un revisor independiente re-derivó estos números con parser propio sobre los 32 looks / 224 prompts, identificando la sub-pose de cada prompt **empíricamente** (match verbatim contra el JSON, sin usar la fórmula).
+
+**Recuento: 13 confirmados · 3 parciales · 4 refutados.**
+
+### Lo que resistió
+
+- **El hallazgo central, entero.** Anaïs L83/L84/L85 repiten la postura de L76/L77/L78 en los 7 slots, verificado **contra el texto real de la galería**: 47 palabras idénticas carácter por carácter en Standing. La fórmula existe tal cual en la ruta viva (`prompt_builder.py:319-320`) y predice **224/224** sub-poses.
+- Los cuatro pares 6/7 de Miss Doll · las secuencias de color (coinciden valor por valor con `outfit.py cruce` §X3) · las de arquitectura y el 9-en-11 (coinciden con `lint` chequeo 12) · las dos promesas del JSON · los 17 duros y 23 avisos de `cruce`.
+
+### Los cuatro errores míos, corregidos arriba en el cuerpo
+
+| # | Error | Corrección |
+|---|---|---|
+| 1 | *"solo `slot5` (Glacial Command, 9 variantes) rompe el patrón"* en Miss Doll | El 9 está en **`odalisque`**; slot5=7. **Consecuencia práctica: quien tomara el informe habría escrito las variantes nuevas en el slot equivocado** |
+| 2 | *"peor par de Ele: 4/7"* | El peor par real es **2/7**. El 4/7 es el peor caso *teórico* a distancia 24, fuera de la ventana. Presenté como medido algo que no medí |
+| 3 | *"Confirmación independiente"* vía similitud de texto | **Circular** — invoqué como aval el mismo instrumento que descarté por inválido dos párrafos antes. Reemplazado por la evidencia verbatim |
+| 4 | Recomendación B | **Refutada.** Ver el recuadro del §4 |
+
+### Dos parciales que dejo anotados
+
+- **Las cifras de clon intra-personaje del §3 no son reproducibles** sin publicar mi definición de troceo: el revisor, con implementación propia, obtiene `L823↔L824 = 23 n-gramas` como peor par de Ele y `L818↔L823 = 15 / 50,9%`. **El orden se sostiene** (Ele ≫ Anaïs ≥ Miss Doll); las magnitudes concretas, no. Tómense como ranking, no como medida.
+- **El ✅ a la arquitectura de Miss Doll y Anaïs** es correcto contra la ventana de 3-5, pero `cruce` §X4 sí emite avisos sobre esos mismos looks (`miss_doll L84=M1 ya en L76`, `L85=M4/A6 ya en L78`, `anais L85=M7 ya en L77`). Son ventanas distintas; el ✅ no debía ir sin citar el aviso.
+
+### 🔴 Una regla violada que yo no miré
+
+**Miss Doll lleva medias en L83, L84 y L85 — tres seguidas**, contra el máximo de 2 consecutivos de `miss_doll.md:258`. Verificado sobre el BLOQUE B: L75-L77 y L79-L81 sin medias, L78 con, L82 no lo declara. **Es del último batch y está sin corregir.**
+
+### Reglas que este informe no auditó
+
+| Regla | Resultado sobre la muestra |
+|---|---|
+| R1 · Cuota de silueta cubierta ≥1 de cada 4 | ✅ limpia en las tres (Ele 38% · MD 41% · Anaïs 59%) |
+| **R2 · Miss Doll máx 2 looks seguidos con medias** | 🔴 **VIOLADA — L83, L84, L85** |
+| R3 · Ventana de escenario | 🟠 Ele 1 hit (`mirror` L820/L822) · MD 3 (`mirrored` L76-77, `pool` L78-79, `mirrored` L81-83) · Anaïs limpia |
+| R4 · Arquitectura contra el batch anterior (X4) | 🟠 4 casos; el informe solo mencionaba uno |
+| R5 · Ele animal print ≥1 de cada 8 | ✅ cumple (L817 y L825, distancia 8) |
+| R6 · Anaïs corsé+tanga ≥2 de cada 5 | ✅ con holgura: **4 de 5** en L81-L85 |
+| R7 · Anaïs guantes de ópera >3 de cada 5 | ✅ **corregida** — de 8 de 10 el 05/09 a **3 de 5** hoy, justo en el límite |
+| R8 · Anti-monoblock | **No medible**: el modo cromático no es campo declarado en los batches |
+| R9 · Rotación de calzado | **No medible**: el calzado vive dentro del BLOQUE B, sin campo propio |
+
+### Y una línea de `CLAUDE.md` que estaba mintiendo
+
+`CLAUDE.md` describía a Miss Doll como *"corset in every look"*. **Esa regla está derogada**: `02_Personajes/_perfiles_visuales/miss_doll.md:74` — *"el `corset/waist cincher/bustier` va en negative BASE porque el corsé ya no es obligatorio (§5.5)"*. Corregido el mismo día.
+
+### El error de método que hay que retener
+
+**Ningún módulo de rotación se citó con `archivo:línea`.** Cité el JSON (el dato) y nunca el código (el comportamiento) — que es justo la brecha por la que `pose_rotation_v5.rotate_poses:761` lleva viviendo con **otra fórmula** (`(look_number + off)`, sin el −1, con offsets hardcodeados) **y sin ningún llamador vivo**. No tumba nada, porque la ruta que emite es la otra; pero un informe que no cita el código no puede distinguir cuál de los dos corre.
