@@ -112,12 +112,15 @@ Spec: `.agent/skills/engine-trance-lv/SKILL.md`. Approved trances live in `03_Li
 99_Sistema/      — Python/PS automation. Root holds only README, app_index.json, dated audits
                    _legacy_prompts_ai_studio/ — the whole prompt_app_ai_studio_* series (#20-#33),
                    archived 29/08/2026: writing prompts for AI Studio was derogated 28/08
-.agent/rules/    — 13 modular rule files (00-12) loaded by all agents
+.agent/rules/    — 14 modular rule files (00-13) loaded by all agents
                    (11 = contrato de galeria_outfits.md: slug único, categorías, tags, prompts)
                    (12 = higiene documental: dónde nace y dónde muere un .md)
+                   (13 = alcance de superpowers: gobierna el código, nunca la creación)
 .agent/skills/   — Skill definitions; .agent/workflows/ — executable protocols
 .claude/agents/  — Active subagents; _legacy_v46/ — archived, must NOT be invoked
 .claude/commands/— Slash-command stubs
+.claude/skills/  — superpowers v6.3.0 vendorizada (obra/superpowers, 06/09/2026) — disciplina de
+                   código: TDD, debugging sistemático, planes, verificación. Alcance: regla 13
 graphify-out/    — Knowledge-graph output (Graphify). Its caches/chunks are gitignored, not tracked
 ```
 
