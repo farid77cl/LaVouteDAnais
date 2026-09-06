@@ -244,6 +244,88 @@ for _pieza, _sub in (("a black silk-velvet longline merry widow, boned, with six
     _cod = clasificar_arquitectura(_pieza + "; a matching thong", _tax)[0]
     check("taxonomia: %s clasifica M4/%s" % (_sub, _sub), _cod == "M4/" + _sub)
 
+# ---------------------------------------------------------------------------
+# F. INTEGRIDAD DE IMAGENES (06/09/2026 — auditoria visual de las tres munecas)
+#    Funciones PURAS a proposito: reciben bytes y medidas, no abren archivos ni
+#    llaman a git. Asi corren en el clon sparse, que tiene 0 PNG en disco.
+# ---------------------------------------------------------------------------
+
+# F1 poses duplicadas por md5 dentro de un mismo look.
+# Medido ese dia: ele L819 y anais L83 tenian un archivo byte-a-byte duplicado
+# haciendose pasar por dos poses, y los dos figuraban 7/7 con 6 poses reales.
+from integridad_imagenes import duplicados_por_look                  # noqa: E402
+_pack = {"ele_819_seated.png": b"AAA", "ele_819_side_profile.png": b"AAA",
+         "ele_819_standing.png": b"BBB"}
+check("integridad: caza el par byte-identico",
+      duplicados_por_look(_pack) == [("ele_819_seated.png", "ele_819_side_profile.png")])
+check("integridad: no inventa duplicados",
+      duplicados_por_look({"a.png": b"1", "b.png": b"2"}) == [])
+check("integridad: tres iguales dan los tres pares",
+      len(duplicados_por_look({"a.png": b"X", "b.png": b"X", "c.png": b"X"})) == 3)
+
+# F2 orientacion por slot. El septimo slot (Odalisque) es el unico apaisado del
+# set; cuatro de Miss Doll (L75, L79, L83, L85) salieron verticales y ningun
+# control lo miraba.
+from integridad_imagenes import orientacion_correcta                 # noqa: E402
+check("orientacion: odalisque apaisada es correcta",
+      orientacion_correcta("miss_doll_083_odalisque.png", 1200, 669))
+check("orientacion: odalisque vertical NO es correcta",
+      not orientacion_correcta("miss_doll_083_odalisque.png", 669, 1200))
+check("orientacion: standing vertical es correcta",
+      orientacion_correcta("ele_827_standing.png", 669, 1200))
+check("orientacion: standing apaisada NO es correcta",
+      not orientacion_correcta("ele_827_standing.png", 1200, 669))
+check("orientacion: el slot 5 se llama distinto en cada muneca y todos van verticales",
+      all(orientacion_correcta(f"x_{p}.png", 669, 1200)
+          for p in ("ditzy", "glacial_command", "sovereign_gaze")))
+
+# F3 duplicado por blob SHA del indice de git — la version barata del F1.
+# Leer los bytes de las 8.504 imagenes toma minutos por corrida; el indice ya
+# trae el SHA de cada blob y dos SHA iguales SON el mismo contenido.
+from integridad_imagenes import duplicados_por_sha                   # noqa: E402
+check("integridad: caza el duplicado por SHA sin leer bytes",
+      duplicados_por_sha({"a.png": "563d79d8", "b.png": "563d79d8", "c.png": "0f1e2d3c"})
+      == [("a.png", "b.png")])
+check("integridad: SHA distintos no son duplicado",
+      duplicados_por_sha({"a.png": "111", "b.png": "222"}) == [])
+check("integridad: SHA y bytes dan el mismo veredicto",
+      len(duplicados_por_sha({"a.png": "h1", "b.png": "h1"}))
+      == len(duplicados_por_look({"a.png": b"Z", "b.png": b"Z"})))
+
+# F4 veredicto de orientacion en TRES estados, no en dos.
+# Medido el 06/09/2026 al cablear el chequeo: 18 odalisques de Miss Doll PIDEN
+# vertical en su propio prompt y 30 no declaran nada. La imagen obedecio. Un
+# chequeo binario los habria marcado a los 37 como defecto de render y habria
+# mandado a regenerar imagenes correctas — el linter que grita por lo que no se
+# puede arreglar es el que enseña a ignorarlo.
+from integridad_imagenes import veredicto_orientacion                # noqa: E402
+check("veredicto: apaisada y el prompt pedia apaisada -> ok",
+      veredicto_orientacion("x_odalisque.png", 1200, 669, "16:9") == "ok")
+check("veredicto: vertical con prompt que pedia apaisada -> defecto de RENDER",
+      veredicto_orientacion("x_odalisque.png", 669, 1200, "16:9") == "render")
+check("veredicto: vertical y el prompt tambien pedia vertical -> defecto de PROMPT",
+      veredicto_orientacion("x_odalisque.png", 669, 1200, "9:16") == "prompt")
+check("veredicto: el prompt no declara orientacion -> hueco, no defecto",
+      veredicto_orientacion("x_odalisque.png", 669, 1200, None) == "sin_declarar")
+check("veredicto: standing vertical con prompt vertical -> ok",
+      veredicto_orientacion("x_standing.png", 669, 1200, "9:16") == "ok")
+check("veredicto: standing apaisada -> defecto de render",
+      veredicto_orientacion("x_standing.png", 1200, 669, "9:16") == "render")
+
+# F5 el parser de orientacion no se estrecha en silencio.
+# Historia: la primera version exigia `### N. Odalisque` + fence ```text y
+# parseaba 20 de 628 looks de Ele, reportando 86 "sin declarar" que eran su
+# propio hueco. La segunda acepto `**N. Odalisque:**` y subio a 21. Recien
+# cortando por tramo entre encabezados (sin mirar el fence) llego a 624.
+# Este check existe para que nadie vuelva a estrecharlo sin que la bateria grite.
+import sync_imagenes_subidas as _sync                                # noqa: E402
+_orient = _sync.orientacion_pedida("00_Ele/galeria_outfits.md")
+check("orientacion: el parser cubre casi toda la galeria de Ele",
+      len(_orient) >= 600, "parsea %d looks" % len(_orient))
+check("orientacion: distingue declarado de no declarado",
+      sum(1 for v in _orient.values() if v == "16:9") > 100
+      and sum(1 for v in _orient.values() if v is None) > 0)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

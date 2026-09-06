@@ -29,6 +29,7 @@ Uso:  python 99_Sistema/scripts/visual/sync_imagenes_subidas.py [MIN_LOOK]
       python 99_Sistema/scripts/visual/sync_imagenes_subidas.py --archivo
       (MIN_LOOK por defecto = 291, primer batch generado por la app)
 """
+import io
 import os, re, subprocess, sys
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -267,6 +268,154 @@ def actualizar_galeria():
             f.write(nuevo)
     return actualizados, rutas_corregidas
 
+# ---------------------------------------------------------------------------
+# INTEGRIDAD (06/09/2026). Dos defectos llegaron a la galeria sin que nadie los
+# mirara: un archivo byte-a-byte duplicado haciendose pasar por dos poses
+# (ele L819, anais L83 -> tracker en 7/7 con 6 poses reales) y odalisques con la
+# orientacion equivocada. El tracker mentia hacia ARRIBA, que es la direccion
+# cara: manda a NO regenerar lo que si falta.
+# ---------------------------------------------------------------------------
+from integridad_imagenes import duplicados_por_sha, veredicto_orientacion  # noqa: E402
+
+
+def sha_por_carpeta(prefijo):
+    """{carpeta: {archivo: blob_sha}} leido de `git ls-files -s`.
+
+    El SHA sale del indice: no se lee un solo byte de imagen. Leer las 8.504 de
+    la flota tomaria minutos en cada corrida del sync; esto es instantaneo y da
+    el mismo veredicto, porque dos blobs con el mismo SHA SON el mismo contenido.
+    """
+    out = {}
+    res = subprocess.run(["git", "ls-files", "-s", prefijo], cwd=REPO,
+                         capture_output=True, text=True, encoding="utf-8")
+    patron = re.compile(re.escape(prefijo) + r"/([^/]+)/([^/]+\.png)$", re.I)
+    for linea in res.stdout.splitlines():
+        try:
+            meta, ruta = linea.split("\t", 1)
+            sha = meta.split()[1]
+        except (ValueError, IndexError):
+            continue
+        m = patron.match(ruta)
+        if m:
+            out.setdefault(m.group(1), {})[m.group(2)] = sha
+    return out
+
+
+def _tam_png(prefijo, carpeta, archivo):
+    """(ancho, alto) leyendo SOLO la cabecera IHDR del PNG (bytes 16-24).
+
+    No se instancia Pillow ni se materializa el archivo: en este clon sparse el
+    PNG no existe en disco, asi que abrirlo por ruta nunca fue opcion.
+    """
+    r = subprocess.run(["git", "cat-file", "-p", "HEAD:%s/%s/%s" % (prefijo, carpeta, archivo)],
+                       cwd=REPO, capture_output=True)
+    b = r.stdout[:24]
+    if len(b) < 24 or b[12:16] != b"IHDR":
+        return None
+    return (int.from_bytes(b[16:20], "big"), int.from_bytes(b[20:24], "big"))
+
+
+ENCABEZADO_POSE = re.compile(r"^(?:#{2,4}\s*\d+\.|\*\*\d+\.)\s*([A-Za-zÀ-ÿ][^\n:*]*)", re.M)
+
+
+def orientacion_pedida(galeria_path):
+    """{look: "16:9" | "9:16" | None} — lo que el prompt de Odalisque DECLARA.
+
+    Sin esto el chequeo confunde dos defectos que se arreglan distinto: la
+    imagen que desobedecio a su prompt (se regenera) y el prompt que contradice
+    al canon del slot (se reescribe el texto; regenerar no sirve).
+
+    NO se parsea con una regex de fence. Se probaron tres y las tres dejaban
+    cientos de looks como "sin declarar" sobre su propio hueco: la galeria de
+    Ele tiene 628 looks escritos a lo largo de 18 meses y el encabezado convive
+    en `### 7. Odalisque` y `**7. Odalisque:**`, con fence ```text, ``` pelado,
+    y variantes. Reportar el limite del parser como hallazgo del dato es
+    exactamente el error del clasificador que se lee a si mismo.
+
+    En vez de eso: se corta desde el encabezado de la pose hasta el encabezado
+    siguiente y se busca la orientacion en TODO ese tramo. El formato del fence
+    deja de importar.
+    """
+    out = {}
+    try:
+        with io.open(os.path.join(REPO, galeria_path), encoding="utf-8") as fh:
+            txt = fh.read()
+    except OSError:
+        return out
+    for b in re.split(r"\n(?=## )", txt):
+        m = re.match(r"## .*?Look 0*(\d+)\s*[:·]", b)
+        if not m:
+            continue
+        marcas = [(x.start(), x.group(1).strip().lower()) for x in ENCABEZADO_POSE.finditer(b)]
+        tramo = None
+        for k, (pos, nombre) in enumerate(marcas):
+            if not nombre.startswith("odalisque"):
+                continue
+            fin = marcas[k + 1][0] if k + 1 < len(marcas) else len(b)
+            tramo = b[pos:fin].lower()
+            break
+        if tramo is None:
+            continue
+        if "16:9" in tramo or "horizontal orientation" in tramo or "landscape orientation" in tramo:
+            out[int(m.group(1))] = "16:9"
+        elif "9:16" in tramo or "vertical portrait" in tramo:
+            out[int(m.group(1))] = "9:16"
+        else:
+            out[int(m.group(1))] = None
+    return out
+
+
+def auditar_integridad(prefijo="05_Imagenes/ele", etiqueta="ele", galeria_path=None,
+                       min_look=None):
+    """Duplicados (toda la flota, gratis) + orientacion de Odalisque.
+
+    Separa lo que se arregla distinto:
+      · duplicado en carpeta `look<N>_` -> el tracker cuenta de mas
+      · duplicado en carpeta historica  -> informativo: son los reintentos que la
+        Ama guardo lado a lado en la era pre-app, no una pose fantasma
+      · orientacion -> defecto de render / defecto de prompt / sin declarar
+    """
+    idx = sha_por_carpeta(prefijo)
+    pedida = orientacion_pedida(galeria_path) if galeria_path else {}
+    piso = MIN_LOOK if min_look is None else min_look
+    dup, dup_hist = 0, 0
+    v = {"render": 0, "prompt": 0, "sin_declarar": 0}
+    for carpeta in sorted(idx):
+        n = look_num(carpeta)
+        pares = duplicados_por_sha(idx[carpeta])
+        if n is None:
+            dup_hist += len(pares)
+            continue
+        for a, b in pares:
+            print("   [DUP] L%d: %s y %s son el MISMO archivo — esa pose no existe, "
+                  "el tracker cuenta de mas" % (n, a, b))
+            dup += 1
+        if n < piso:
+            continue
+        for archivo in sorted(idx[carpeta]):
+            if "odalisque" not in archivo.lower():
+                continue
+            tam = _tam_png(prefijo, carpeta, archivo)
+            if not tam:
+                continue
+            r = veredicto_orientacion(archivo, tam[0], tam[1], pedida.get(n))
+            if r == "ok":
+                continue
+            v[r] += 1
+            if r == "render":
+                print("   [RENDER] L%d: %s sale %dx%d y su prompt pedia apaisada — "
+                      "desobedecio. Se regenera" % (n, archivo, tam[0], tam[1]))
+            elif r == "prompt":
+                print("   [PROMPT] L%d: %s sale %dx%d y su prompt TAMBIEN pedia vertical "
+                      "— el defecto es del texto, no del render" % (n, archivo, tam[0], tam[1]))
+    print("   -- %s: %d duplicado(s) en look canonico%s · orientacion: %d de render · "
+          "%d de prompt · %d sin declarar"
+          % (etiqueta, dup,
+             (" (%d mas en carpetas historicas, esperados)" % dup_hist) if dup_hist else "",
+             v["render"], v["prompt"], v["sin_declarar"]))
+    return dup + v["render"]
+
+
 def main():
     destino = os.path.basename(GALERIA)
     alcance = "ARCHIVO histórico (era por nombre ele_*)" if MODO_ARCHIVO else f"era app: looks >= {MIN_LOOK}"
@@ -291,6 +440,8 @@ def main():
     if rutas:
         print(f"   🔗 {len(rutas)} look(s) con links re-apuntados a la carpeta correcta: "
               f"{', '.join('L'+str(n) for n in sorted(rutas)[:12])}{' …' if len(rutas)>12 else ''}")
+    print("2bis) Integridad: duplicados por SHA + orientacion de Odalisque...")
+    auditar_integridad(galeria_path=os.path.relpath(GALERIA, REPO))
     print("3) Ejecuta luego: python 99_Sistema/scripts/visual/update_galleries.py")
 
 if __name__ == "__main__":
