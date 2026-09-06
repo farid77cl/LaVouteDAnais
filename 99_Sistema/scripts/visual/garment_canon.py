@@ -651,8 +651,8 @@ if __name__ == "__main__":
 
 
 # ---------------------------------------------------------------------------
-# RACHA DE MEDIAS (06/09/2026). Regla escrita en el perfil de Miss Doll (§5.3,
-# linea 258) y violada en su ULTIMO batch: medias en L83, L84 y L85, tres
+# RACHA DE MEDIAS (06/09/2026). Regla escrita en el perfil visual de un
+# personaje (§5.3, linea 258) y violada en su ULTIMO batch: medias en L83, L84 y L85, tres
 # seguidas. La encontro una revision externa despues de que mi propia auditoria
 # de reglas no la mirara — estaba escrita y no tenia ejecutor, igual que
 # color_canon.py entre el 29/08 y el 05/09.
@@ -678,8 +678,11 @@ def audit_racha_medias(bloques_b, maximo=2):
     `bloques_b` va en orden de look. `maximo` es parametro y no constante a
     proposito: el dueño del numero es el perfil del personaje
     (`anclas_universales.json -> personajes.<slug>.rotacion_medias.maximo`), no
-    este archivo. Cablear aqui un `if slug == "miss_doll"` es exactamente lo que
-    `outfit.py modularidad` prohibe: una rama que el proximo personaje no hereda.
+    este archivo. Cablear aqui una rama por slug es exactamente lo que
+    `outfit.py modularidad` prohibe: un `if` que el proximo personaje no hereda.
+    (Este comentario nombraba el slug de ejemplo y el chequeo 1 lo marco en rojo,
+    con razon: si acepta la excepcion en un comentario, manana la acepta en el
+    `if` de al lado.)
     """
     racha = 0
     for i, b in enumerate(bloques_b):
