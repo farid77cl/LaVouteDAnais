@@ -66,6 +66,60 @@ def slugify(titulo: str) -> str:
     return t
 
 
+# ---------------------------------------------------------------------------
+# ENCODING (06/09/2026). El hueco que no era de nadie: se midieron 11 looks de
+# Ele (L690-L700) con el encoding roto mientras `lint_higiene_repo.py` daba el
+# repo LIMPIO. No fallaba el linter de higiene — su chequeo H6 excluye las
+# galerias A PROPOSITO ("son de lint_galeria.py"), y lint_galeria.py no miraba
+# encoding. Cada uno pensaba que lo cubria el otro.
+# ---------------------------------------------------------------------------
+# El patron NO se escribe a mano. Se GENERA desde los caracteres correctos:
+# mojibake = los bytes UTF-8 de un caracter, leidos como cp1252. Escribir las
+# secuencias rotas a mano en un archivo fuente es pedir que se rompan al
+# guardarlo en otra maquina — un detector de mojibake escrito en mojibake seria
+# una broma cara. Generarlo tambien lo hace auto-documentado: la tabla de abajo
+# se lee en caracteres normales.
+_CARACTERES_VIGILADOS = (
+    "·"      # · punto medio, el separador de los titulos de look
+    "«»"        # « » comillas angulares
+    "¡¿"        # ¡ ¿
+    "–—"        # – — raya corta y larga
+    "“”‘’"    # “ ” ‘ ’ comillas tipograficas
+    "áéíóúñü"  # á é í ó ú ñ ü
+    "ÁÉÍÓÚÑ"        # Á É Í Ó Ú Ñ
+    "\U0001fae6\U0001f485\U0001f460\U0001f5a4\U0001f9db"  # 🫦 💅 👠 🖤 🧛
+)
+
+
+def _roto(ch):
+    """La forma MOJIBAKE de `ch`: sus bytes UTF-8 interpretados como cp1252."""
+    try:
+        return ch.encode("utf-8").decode("cp1252")
+    except UnicodeDecodeError:
+        # algun byte no existe en cp1252; latin-1 nunca falla y es el otro
+        # camino tipico por el que se rompe un archivo en Windows
+        return ch.encode("utf-8").decode("latin-1")
+
+
+MOJIBAKE = re.compile(
+    "|".join(sorted((re.escape(_roto(c)) for c in _CARACTERES_VIGILADOS),
+                    key=len, reverse=True))     # los mas largos primero
+    + "|" + chr(0xFFFD)   # el caracter de reemplazo: ya irrecuperable.
+    # Va por codepoint y no literal: escrito literal, este archivo se convierte
+    # en un hallazgo de su propio chequeo (paso, 06/09/2026).
+)
+
+
+def secuencias_mojibake(texto):
+    """Secuencias de encoding roto encontradas. Lista vacia = limpio.
+
+    No repara: solo declara. La reparacion es un cambio de DATO, va aparte y con
+    su propia verificacion — un linter que arregla lo que mide se queda sin quien
+    lo audite.
+    """
+    return MOJIBAKE.findall(texto)
+
+
 def es_ascii_limpio(s: str) -> bool:
     return all(ord(c) < 128 for c in s)
 
@@ -132,6 +186,16 @@ def main():
         if n < SOLO_DESDE:
             continue
         looks += 1
+
+        # --- C11: encoding roto (06/09/2026) ---
+        # Nadie miraba esto: H6 de lint_higiene_repo excluye las galerias
+        # porque "son de este linter", y este linter no las miraba.
+        malas = secuencias_mojibake(blk)
+        if malas:
+            muestra = sorted(set(malas))[:4]
+            fallas[n].append(
+                "C11 encoding roto: %d secuencia(s) %s — UTF-8 leido como cp1252"
+                % (len(malas), muestra))
 
         # --- C5: clave del campo en ASCII ---
         if "**Ubicación:**" in blk:

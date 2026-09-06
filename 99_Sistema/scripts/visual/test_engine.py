@@ -326,6 +326,24 @@ check("orientacion: distingue declarado de no declarado",
       sum(1 for v in _orient.values() if v == "16:9") > 100
       and sum(1 for v in _orient.values() if v is None) > 0)
 
+# F6 mojibake en la galeria — el hueco que no era de nadie.
+# Medido el 06/09/2026: 11 looks de Ele (L690-L700) con el encoding roto
+# mientras lint_higiene_repo.py daba el repo LIMPIO. Su chequeo H6 excluye las
+# galerias a proposito (son de lint_galeria) y lint_galeria no miraba encoding.
+from lint_galeria import secuencias_mojibake                        # noqa: E402
+check("mojibake: caza el punto medio roto",
+      secuencias_mojibake("batch L691 Â· Gym") == ["Â·"])
+_roto = lambda c: c.encode("utf-8").decode("cp1252")
+check("mojibake: caza la raya larga rota",
+      secuencias_mojibake("dusty rose " + _roto("—") + " Contraste")
+      == [_roto("—")])
+check("mojibake: caza el emoji roto",
+      secuencias_mojibake(_roto("🫦") + " atroz") == [_roto("🫦")])
+check("mojibake: texto sano con emojis y acentos NO dispara",
+      secuencias_mojibake("Look 827 · Lencería 🫦 atroz de regio 💅") == [])
+check("mojibake: acento correcto solo NO dispara",
+      secuencias_mojibake("Anais Belland, la regenta: cómo, qué, mañana") == [])
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
