@@ -1,6 +1,6 @@
-# Auditoría de Reglas — antirepetición y poses · 06/09/2026
+# Auditoría de Reglas — antirepetición, poses y metas de arquetipo · 06/09/2026
 
-**Encargo de la Ama:** *"quiero saber si se están cumpliendo las reglas de antirepetición y poses, en la misma muestra de 10 outfits cada muñeca. Con más información tomaré decisiones."*
+**Encargo de la Ama:** *"quiero saber si se están cumpliendo las reglas de antirepetición y poses, en la misma muestra de 10 outfits cada muñeca. Con más información tomaré decisiones."* · ampliado en la misma sesión: *"audita también que se estén cumpliendo los porcentajes de los arquetipos por muñeca"* (§5).
 
 **Muestra:** Ele L817-L827 (11 looks declarados) · Miss Doll L75-L85 (11) · Anaïs L76-L85 (10).
 Se auditan los **looks declarados en galería**, materializados o no: la antirepetición es una regla de texto y rige desde que el look se escribe.
@@ -132,3 +132,93 @@ El problema tiene una sola causa (repertorios chicos + módulo fijo) y tres sali
 **Mi recomendación: B ahora, C después.** B compra el resultado casi entero con el costo más bajo y sin tocar código; C es la solución de fondo y encaja natural cuando `generar` ya es la puerta.
 
 **Y una cosa aparte, que sí es mía y no necesita su decisión:** los 4 pares 🔴 de clon intra-personaje de Ele y los 4 cruces entre muñecas son redacción repetida mía. Se arreglan reescribiendo, no rotando.
+
+---
+
+## 5. Metas de arquetipo por muñeca
+
+**Fuente de las metas (dueño único):** `02_Personajes/_perfiles_visuales/<slug>.md` §6.
+**Alcance del conteo:** Ele y Miss Doll sobre la galería completa; **Anaïs desde el Look 41**, como manda su §6 (*"el conteo de cuota reinicia en cero desde el Look 41"*).
+
+> ⚠️ **Dos errores míos de parser, cazados antes de reportar.** La primera pasada leyó el campo con la cola `· **Paleta:** …` pegada y me tiró 8 de 10 arquetipos de Miss Doll como "fuera de tabla"; la segunda ignoraba la variante `**Categoria / Subcategoria:**` que usan los looks viejos de Ele. Los dos corregidos. Sin eso le habría reportado a Miss Doll con 7 arquetipos en rojo profundo, que era falso.
+
+### Ele — 628 looks · 512 clasificables (81,5%)
+
+| Arquetipo | Meta | Real | n | Desvío |
+|---|---:|---:|---:|---:|
+| 🟠 High-Fashion Editorial | 9,4% | 6,6% | 34 | **−2,8** |
+| Corporate | 9,4% | 7,8% | 40 | −1,6 |
+| Bikini | 9,4% | 8,4% | 43 | −1,0 |
+| Domestic | 9,4% | 8,4% | 43 | −1,0 |
+| Lencería | 15,0% | 14,6% | 75 | −0,4 |
+| Pin-Up | 9,4% | 10,0% | 51 | +0,6 |
+| Nightclub | 9,4% | 10,2% | 52 | +0,8 |
+| Escort | 9,4% | 10,4% | 53 | +1,0 |
+| Gym | 9,4% | 10,5% | 54 | +1,1 |
+| 🟠 Stripper | 9,4% | 13,1% | 67 | **+3,7** |
+
+**Manda el déficit: High-Fashion Editorial.** Ocho de diez arquetipos dentro de ±2 puntos. Los dos extremos son los mismos de siempre: sobra Stripper, falta editorial.
+
+### Miss Doll — 85 looks · 70 clasificables (82,4%)
+
+| Arquetipo | Meta | Real | n | Desvío |
+|---|---:|---:|---:|---:|
+| 🔴 Bikini / Lencería Erótica | 15,0% | 20,0% | 14 | **+5,0** |
+| 🟠 VIP / Privado | 12,0% | 10,0% | 7 | −2,0 |
+| Calabozo / Dungeon | 13,0% | 11,4% | 8 | −1,6 |
+| Club / Escenario | 18,0% | 17,1% | 12 | −0,9 |
+| Girly Girl | 12,0% | 11,4% | 8 | −0,6 |
+| Gym / Athletic | 12,0% | 11,4% | 8 | −0,6 |
+| Penthouse / Off-duty | 9,0% | 8,6% | 6 | −0,4 |
+| Editorial / Portada | 9,0% | 10,0% | 7 | +1,0 |
+
+**Un solo rojo: le sobra Bikini/Lencería.** Manda el déficit de VIP/Privado. 15 looks quedan fuera del conteo porque su única etiqueta es `Mix`, del paraguas viejo.
+
+### Anaïs — 45 looks desde L41 · 45 clasificables (100%)
+
+| Arquetipo | Meta | Real | n | Desvío |
+|---|---:|---:|---:|---:|
+| 🟠 Látex / Fetichismo | 20,0% | 22,2% | 10 | +2,2 |
+| Ejecutivo de Poder | 7,0% | 8,9% | 4 | +1,9 |
+| Boudoir / Lencería | 27,0% | 26,7% | 12 | −0,3 |
+| Sesión Literaria | 13,0% | 11,1% | 5 | −1,9 |
+| Noche / La Voûte | 33,0% | 31,1% | 14 | −1,9 |
+
+**La más sana de las tres, y por lejos.** Ningún desvío pasa de 2,2 puntos y el 100% de sus looks es contable — porque su reset del 11/08 obligó al etiquetado textual y ella arrancó de cero con la regla puesta.
+
+### La regla de déficit funciona — está medido
+
+Los mismos números medidos el 05/09, antes de los batches correctivos, contra los de hoy:
+
+| | 05/09 | 06/09 | |
+|---|---:|---:|---|
+| Miss Doll · Bikini/Lencería | +6,2 | **+5,0** | ↓ corrigiendo |
+| Miss Doll · Club/Escenario | −2,8 | **−0,9** | ↓ casi cerrada |
+| Anaïs · Noche/La Voûte | −5,5 | **−1,9** | ↓ corrigiendo |
+| Ele · High-Fashion Editorial | −2,2 | −2,8 | ↑ (11 looks nuevos diluyen) |
+
+Los batches del 05/09 se diseñaron contra el déficit medido —Ele abre en High-Fashion Editorial, Miss Doll lleva **dos** Club/Escenario, Anaïs lleva **tres** Noche— y las tres brechas que apuntaban se cerraron. **La regla muerde cuando se aplica.**
+
+### 🔴 El problema real no son las metas: es que casi no se pueden medir
+
+El campo `**Arquetipo:**` / `**Categoría:**` existe **solo en los batches del 05/09 en adelante**. En la muestra de 10:
+
+| Muñeca | Looks con campo | Looks sin campo |
+|---|---|---|
+| Ele | L823-L827 (5) | **L817-L822 (6)** |
+| Miss Doll | L81-L85 (5) | **L75-L80 (6)** |
+| Anaïs | L81-L85 (5) | **L76-L80 (5)** |
+
+Los batches del **04/09 no lo llevan**. A escala de flota: Ele tiene **105 de 628 looks sin el campo**, y Miss Doll solo **21 de 85 lo traen (24,7%)** — el resto se lee del título, y 15 de ellos dicen literalmente `Mix`, que no mapea a ninguna categoría.
+
+Esto es exactamente el bug que se cerró el 05/09 (*"`generar` nunca escribió el campo de arquetipo"*): **la corrección quedó puesta hacia adelante y nunca se retrofiteó.** Mientras tanto los porcentajes se calculan sobre el 81-82% de la flota en dos de las tres muñecas, y la regla de déficit es ciega sobre el resto.
+
+### 🔴 Hallazgo colateral: mojibake que ningún linter mira
+
+**11 looks de Ele (L690-L700)** tienen el encoding roto en la galería — `Â·`, `â€"`, `ðŸ§›`, `Ã©` — y `lint_higiene_repo.py` da el repo **LIMPIO**. No es un fallo del linter: su chequeo H6 **excluye las galerías a propósito** (pertenecen a `lint_galeria.py`), y `lint_galeria.py` **no chequea encoding**. La galería más grande del repo no tiene a nadie mirándole el encoding. Miss Doll y Anaïs están limpias.
+
+### Qué propongo
+
+1. **Retrofitear el campo de arquetipo** en los looks que no lo tienen — para Ele son 105, y para la mayoría el dato está en el título, así que es un script, no trabajo a mano.
+2. **Sumar el chequeo de encoding a `lint_galeria.py`**, que es quien sí mira las galerías.
+3. **Las metas en sí no necesitan intervención.** Ele arrastra Stripper +3,7 y HF Editorial −2,8; el próximo batch suyo debería llevar dos High-Fashion Editorial y cero Stripper. Miss Doll debe frenar Bikini/Lencería y sumar VIP/Privado. Anaïs no necesita nada.
