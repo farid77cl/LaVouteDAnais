@@ -401,6 +401,54 @@ check("costura: look SIN medias no dispara SEAM_*",
 check("costura: look CON medias SI dispara SEAM_*",
       [n for n in _pb_seam.opt_in_de(_CON_MEDIAS) if n.startswith("SEAM_")])
 
+# G4 ninguna sub-pose IMPONE una prenda concreta.
+# La sub-pose describe el CUERPO y la CAMARA; la prenda vive en el BLOQUE B, que
+# es su dueño unico. Una sub-pose que nombra una prenda se la impone a TODOS los
+# looks a los que les toque esa variante, la tengan o no. Medido el 06/09/2026
+# por auditoria visual externa: el POV de Anais nombraba `the strand of pearls`
+# (L77), `the clasp of the fur at her throat` (L80, en un look que NO lleva piel)
+# y `the ring turned to the light` (L78 — de ahi el solitario que aparece en UNA
+# sola pose y en ninguna otra).
+#
+# La regla distingue dos formas, porque no son el mismo defecto:
+#   · IMPONE  -> "a single hand at the strand of pearls"      (prohibido)
+#   · OFRECE  -> "a single hand at the choker, buckle or chain detail"  (valido:
+#     le da alternativas al generador y funciona lleve lo que lleve el look)
+# Marcar las dos igual seria un linter que grita por lo correcto.
+#
+# El patron se compila con `\b` de verdad y se auto-verifica antes de usarse: la
+# primera version se escribio con un heredoc que convirtio el `\b` en un
+# BACKSPACE literal (0x08) dentro de la r-string. El patron quedo
+# '\x08(pearls?|...)\x08', no matcheo nunca, y el check paso EN VERDE sobre 8
+# hallazgos reales. Invisible al leer el archivo — misma familia que el mojibake.
+import json as _json                                                 # noqa: E402
+_rep_all = _json.load(io.open(os.path.join(V, "repertorios_pose.json"), encoding="utf-8"))
+_PRENDA_RX = re.compile(
+    r"\b(pearls?|fur|gloves?|veil|corset|stockings?|necklace|bra|thong|garter"
+    r"|choker|cuffs?)\b", re.I)
+assert _PRENDA_RX.search("a hand at the strand of pearls"), \
+    "el patron de prenda no compila (revisa que los \\b sean escapes y no bytes)"
+assert not _PRENDA_RX.search("a hand at her collarbone"), "el patron matchea de mas"
+
+
+def _impone(texto, m):
+    """True si la prenda se impone; False si la clausula ofrece alternativas."""
+    ini = max(0, m.start() - 60)
+    fin = min(len(texto), m.end() + 60)
+    return " or " not in texto[ini:fin]
+
+
+_sucias = []
+for _slug, _p in _rep_all.get("personajes", {}).items():
+    for _slot, _vars in _p.get("slots", {}).items():
+        for _i, _v in enumerate(_vars):
+            for _m in _PRENDA_RX.finditer(_v):
+                if _impone(_v, _m):
+                    _sucias.append("%s/%s[%d]:%s" % (_slug, _slot, _i, _m.group(1)))
+                    break
+check("repertorio: ninguna sub-pose IMPONE una prenda concreta",
+      not _sucias, "%d hallazgo(s): %s" % (len(_sucias), "; ".join(_sucias[:8])))
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
