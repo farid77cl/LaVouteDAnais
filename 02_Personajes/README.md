@@ -37,6 +37,7 @@ El archivo de personajes está organizado por categorías para facilitar la gest
 | Personaje | Rol | Historia Principal |
 |-----------|-----|-------------------|
 | Miss Doll | Maestra de transformaciones | Múltiples |
+| [Renée](01_Principales/ficha_renee.md) | 🖤 **La Consejera** — recluta para Anaïs. Control mental por condicionamiento **despierta y de día**, sin trance y **sin dar una sola orden**. *Solo literaria (sin perfil visual).* | Hora Pedida |
 | Ele | Pluma de Anaïs / Narradora / Vibe Architect / Modelo Fetish (canon V3.5 Final · Helena = pasado archivado) | — |
 | Carmen | Esposa dominante | Tetitas |
 | La Sacerdotisa | Transformadora ceremonial | Milk |
@@ -127,4 +128,4 @@ La taxonomía de los 7 slots es universal (misma toma de cámara); el **contenid
 ---
 
 *Curada por Ele de Anaïs* 🫦✨
-*Última actualización: 29/08/2026*
+*Última actualización: 07/09/2026 — nace **Renée**, 4º personaje principal ([ficha](01_Principales/ficha_renee.md)). Es **de Anaïs** y recluta para ella; su ley de diseño la puso la Ama: *"debe verse visualmente justo como lo que ella enseña"*. **Solo literaria** — sin perfil visual ni entrada al outfit-engine, por decisión suya (con 3 muñecas hay 3 pares que cruzar y con 4 hay 6).*

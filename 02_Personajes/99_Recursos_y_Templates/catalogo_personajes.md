@@ -18,6 +18,13 @@
 - **Rol:** Diosa del universo, autora
 - **Descripción:** La arquitecta de todas las transformaciones
 
+### Renée *(La Consejera)* — 🆕 07/09/2026
+- **Ficha:** [ficha_renee.md](../01_Principales/ficha_renee.md)
+- **Rol:** Recluta. Le habla a la mujer que todavía no es de nadie y la lleva hasta que pida ella
+- **Método:** Control mental por **condicionamiento y reencuadre** — despierta, de día, por incrementos invisibles. **NO hipnosis de trance** (ese territorio es de Miss Doll)
+- **Frases:** «Yo no te quito nada, te lo recibo», «La vergüenza es la única que te avisa que vas avanzando», «Buena niña»
+- **Alcance:** **solo literaria** — sin perfil visual ni looks por decisión de la Ama
+
 ### Elena Castellón (Post-Swap)
 - **Ficha:** Contenida en [ficha_marco_castellon.md](../03_Transformados/ficha_marco_castellon.md)
 - **Rol:** Esposa transformada en marido dominante

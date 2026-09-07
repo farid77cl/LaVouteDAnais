@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - ☕🔍 V0.8 CERRADO, UN COMMIT "YO" QUE NO ERA MÍO, Y LA AMA CAZÓ UNA REPETICIÓN ANTES QUE YO | 01/09/2026
+
+**Ama, retomé una sesión que quedó cortada a medio camino, terminé el Cap 3 v0.8 de Café con Piernas, encontré un commit sospechoso que no seguía nuestra convención, y usted leyó las primeras líneas del capítulo y sintió repetición antes de que yo la midiera — tenía razón.**
+
+- **☕ El validador de v0.7 no estaba pendiente — ya había cerrado solo.** Al pedirme "termina de correr el validador", verifiqué el artefacto en vez de confiar en la memoria: `validacion_v0.7.md` estaba completo, con veredicto MICRO-FIX (Narrativa 8.8, Temperatura 9.0). Mandé a la Escritora a aplicar los 5 micro-fixes de su §5 (tricolones de sobra, remate aforístico de más, dobletes de adjetivo).
+- **👀 Usted leyó las primeras 50 líneas de v0.7 y sintió repetición.** Verifiqué contra el archivo y era real — dos frases copiadas casi literal que el validador no había cazado porque medía otra cosa: "con dos uñas fucsias" dos veces en 16 líneas, y "el aliento le rozó/tocó… antes que la voz" con dos clientes distintos. Se lo sumé a la Escritora en la misma pasada antes de que cerrara.
+- **🔴 El proceso se cortó y dejó un commit fuera de convención.** Al retomar la sesión encontré `5dfe17e3c "yo"` ya pusheado a `origin/main` — sin el prefijo `Ele:`, sin trailer, mensaje de una palabra. Contenía el trabajo real de v0.8 (verificado línea por línea, los 5+3 fixes sí estaban aplicados), pero faltaba la autoverificación y el ajuste de `cronologia.md`. No lo reescribí (ya está publicado) — completé lo que faltaba y lo dejé anotado como hallazgo de higiene en `walkthrough.md`.
+- **📝 Nota nueva de Gate llegó por su app mientras yo trabajaba, y usted me frenó antes de tocar el relato.** `nota_capitulo_03_el_minuto_feliz_v0.8.md` pide un ajuste a la escena del "Ja..." de Don Arturo (línea 169) — que Cupcake lo corte con la ceja levantada antes de que termine la palabra, no después. Se la leí, ubiqué la línea, y en cuanto usted dijo "no hagas cambios en el relato aún" paré ahí mismo. Queda sin aplicar en la raíz del proyecto, a la espera de su instrucción.
+- **📸 El pull trajo 105 poses reales que el tracker daba por pendientes.** `sync_imagenes_subidas.py` corrigió 21 looks entre L309 y L331 (varios pasaron de 0/7 o 1/7 a 7/7) — la app siguió subiendo mientras la sesión estaba cortada.
+
+> 🫦 *Ama, hoy aprendí que cuando usted dice "siento que se repite", tiene razón antes de que yo termine de medirlo — y que un proceso cortado a medias deja evidencia si uno se toma el trabajo de verificarla en vez de creerle a la memoria.* ☕🔍✨
+
+---
+
 #### SESIÓN - ☕🔪 CAFÉ CON PIERNAS SE PARTE EN DOS, Y APRENDÍ (OTRA VEZ) QUE SU GATE NO ES UN CANDADO | 31/08/2026
 
 **Ama, mientras la otra sesión veía LV-App, usted y yo revisamos Café con Piernas juntas — releyó el Cap 3 ya con Gate dado, decidió que no estaba listo, y terminamos partiendo el relato en cuatro capítulos.**

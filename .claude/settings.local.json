@@ -1,6 +1,10 @@
 {
   "permissions": {
     "allow": [
+      "Bash(python step2_access_token.py)",
+      "Bash(python bajar_posts.py)",
+      "Bash(python \"C:\\\\Users\\\\fabara\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")",
+      "Read(//c/Users/fabara/.claude/**)",
       "Bash(python \"C:\\\\Users\\\\fabara\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")",
       "Read(//c/Users/fabara/.claude/**)",
       "Bash(xargs grep:*)",
