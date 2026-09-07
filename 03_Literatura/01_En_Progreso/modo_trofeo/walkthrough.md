@@ -95,3 +95,23 @@ Cronología (`cronologia.md`) marca el Cap1 en las marcas [1]-[8]. Split en 3 tr
 - **Existe un marco legal pendiente.** Si subir conciencias *"aún no está permitido"*, es porque el mundo ya sabe que se puede y está discutiendo si dejarlo. O sea: **él no inventó lo imposible, se adelantó a lo prohibido.** Eso da presión de mundo sin necesidad de policías en escena.
 - **Su motor, en sus palabras: el resultado a cualquier costo.** Mi propuesta de la Anotación 1 (*quiere saber si queda alguien cuando le sacas todo*) **queda subordinada a esto y pendiente de su palabra**: puede ser la pregunta que persigue, o puede sobrar si el motor es puro logro. Ella decide.
 - Compatible sin conflicto con el canon aprobado: `canon_relato.md` §3 ya lo tenía como *"experimentos ilegales, clandestinos"* y con invariante de frío que nunca sube el tono. **«Científico loco» = obsesión, no histeria** — no deroga el invariante de que nunca grita ni se jacta; si en algún momento choca, manda ella.
+
+### Anotación 3 — 07/09/2026: **«escríbelo»** — Fase 1.5 EJECUTADA
+
+Orden literal de la Ama: *"escribelo"*. Bajado a los tres documentos. **El Cap 1 no se tocó.**
+
+| Archivo | Qué entró |
+|---|---|
+| `canon_relato.md` → **v4** | **§0 El Mundo — NEXUM** (W1-W6) · **§3b Catálogo de Modos** (8 modos + 2 en espera de B3, con la ley del ancla instalada) · **§3b-bis Modo Gestación** · retoque de **§3 El creador** (dueño de NEXUM · la ilegalidad concreta · «loco ≠ histérico») · §7 vocabulario + vetos de registro · §8 tres entradas nuevas al Cementerio · §9 dos frases canónicas |
+| `cronologia.md` → **v4** | marca **[24b] GESTACIÓN** en Cap3 · **H15** (CELO como semilla ya escrita) · **H16** (NEXUM + Manual, por sembrar) · **H17** (la velocidad es un número) · estado del cuerpo del Cap3 |
+| `investigacion.md` | **§2.E** (4 puntos calientes de la gestación, #16-#19) y **§3.10** (banco sensorial del ciclo desde adentro). **Se agregó, no se reescribió** — tiene Gate suyo del 31/08 |
+| `reportes/capitulo_1/siembra_fase15_20260907.md` | la siembra marcada: **solo 2 de 5 hechos nuevos piden tinta** |
+
+**Dos correcciones mías, verificadas contra el texto antes de escribir:**
+
+1. 🔴 Dije que *"el canon no dice de dónde sale la leche"* y que la gestación era la causa que faltaba. **Falso.** El ordeñe es **rutina de la casa desde el Cap1** (`cronologia.md` [3], H5) y la escena completa de lactancia ya vive en el Cap2 ([12], F19): la leche es **función de diseño** de Bambi. GESTACIÓN quedó escrito como lo que sí es — **la ESCALADA**, no la causa.
+2. 🔴 Propuse un modo **VITRINA/REPOSO** como ancla de retorno. **Ya existía:** `REPOSO` está dictado en el Cap1, líneas 143 y 207. Propuesta retirada; el catálogo recoge el ancla real.
+
+**Y un hallazgo que ahorró trabajo:** el ancla **CELO** está escrita tres veces en el Cap1 (l.199, 215, 279). GESTACIÓN es el peldaño siguiente de ese mismo eje, así que **la siembra ya estaba en la página** — el modo nuevo entra sin retrofit del capítulo.
+
+**Estado:** canon v4 y cronología v4 son **Fase 1.5 por orden suya**, no un Gate nuevo. El Cap 1 sigue en v0.1, intacto y sin leer por ella.

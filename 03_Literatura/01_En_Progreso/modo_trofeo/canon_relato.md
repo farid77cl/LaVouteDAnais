@@ -1,6 +1,29 @@
 # Canon Relato — Modo Trofeo (título de trabajo — la Ama está resolviendo el título definitivo en paralelo; no se bloquea la entrega por esto)
 > v4.8 / Nivel 4 + Investigación — Un solo documento. La voz literal de la Ama gana sobre cualquier interpretación.
-> **ESTADO: APROBADO POR LA AMA (31/08/2026, v3).** Gate final sobre el rediseño del cierre del Cap1 (Nota §4c-bis) y el ajuste del Pivote 3 (nunca hubo accidente — el creador siempre supo que el hacker terminaría atrapado dentro de Bambi, lo contrató específicamente para eso). Fase 1 cerrada. Habilitado el paso a Fase 2 (Escritor-Nivel4).
+> **ESTADO: v4 — FASE 1.5 EJECUTADA POR ORDEN DE LA AMA (07/09/2026, «escríbelo»).** Sobre el v3 APROBADO POR ELLA (31/08/2026). El v4 **agrega** (§0 El Mundo NEXUM · §3b Catálogo de Modos · §3b-bis Gestación · retoque de §3 El creador) y **no deroga nada** del v3: los 5 pivotes, el reloj de las tres capas, la Ley, M1-M6 y los invariantes de personaje siguen exactamente como ella los aprobó.
+> **ESTADO v3 (se conserva):** Gate final sobre el rediseño del cierre del Cap1 (Nota §4c-bis) y el ajuste del Pivote 3 (nunca hubo accidente — el creador siempre supo que el hacker terminaría atrapado dentro de Bambi, lo contrató específicamente para eso). Fase 1 cerrada. Habilitado el paso a Fase 2 (Escritor-Nivel4).
+
+## 0. El Mundo — NEXUM (Fase 1.5, Ama 07/09/2026)
+
+> Sección nueva. El canon v3 no tenía mundo declarado: el relato ocurría en «la casa del creador» y nada más. La Ama lo ancló el 07/09 al universo de **`03_Literatura/02_Finalizadas/hr_human_repurposing/`**.
+
+**La asimetría que define el mundo, y cabe en dos frases:**
+
+> **NEXUM convierte personas en objetos, con papeles firmados.**
+> **Él mete personas dentro de objetos, sin ellos.**
+
+Lo primero es su negocio. Lo segundo es su vicio.
+
+| # | Hecho de mundo | Fuente |
+|---|---|---|
+| W1 | **NEXUM** es la corporación. Se escribe con **eme** (30 apariciones en `hr_human_repurposing_completo.md`; la Ama escribió «Nexus» en el dictado). | Ama 07/09 + relato terminado |
+| W2 | **El creador es el dueño de NEXUM.** No responde a una junta, no se esconde de su empresa: la empresa es suya. | Ama 07/09 |
+| W3 | **HR = Human Resources.** «Human Repurposing» es el juego de palabras del departamento, y es el **programa firmado** de la casa: empleados convertidos en Decoración, con Ceremonia y Pabellón (*«un mueble con piernas»*, `hr_human_repurposing_completo.md:767`). Legal. Ceremonial. Con manual. | Ama 07/09 |
+| W4 | **Subir una conciencia humana a un robot TODAVÍA no está permitido.** Hay una prohibición vigente y una discusión abierta: el mundo ya sabe que se puede. **Él no inventó lo imposible — se adelantó a lo prohibido.** | Ama 07/09 |
+| W5 | El **Manual NEXUM** con número de página es el dispositivo de textura heredado (30 usos en HR, siempre como epígrafe seco). **Los modos se CITAN, nunca se explican** — es lo que exige `investigacion.md` §4 y resuelve el riesgo de manual dentro de la prosa. | HR + §4 |
+| W6 | **AURA**, la voz corporativa de la casa, existe en HR y puede cruzar. Opcional, no obligatoria. | HR |
+
+> ⚠️ **Presión de mundo sin policías en escena.** W4 hace que la ilegalidad se sienta sin que aparezca nunca una autoridad: basta con que el creador NUNCA hable del asunto en voz alta y que el laboratorio esté donde no está el resto de la empresa. Si aparece una amenaza legal explícita, se rompe el foco — esto no es un thriller.
 
 ## 1. Premisa
 > "idea de nuevo relato, en un futuro proximo las personas con mas dinero tienen asistentes robots, personalidados [...] existe un hacker que puede acceder a la 'mente' de estos robots [...] a este hacker lo contrata alguien misteriorso para entrar a uno de estos robots, de alguien con mucho dinero, luego se da cuenta de que es la persona que creo estos robots, eventualmente algo sale mal y este hacker queda atrapado dentro de la mente del robot, empiea a sentir, trata de espacapar, pero la mente del robot y sus funciones son mas fuertes que su mente, el robot [...] es mas un sexbot [...] se encarga de todos los kinks sexuales del creador [...] el plot twist es que el creador fue quien lo contrato, para ver como funciona una mente humana dentro del robot"
@@ -59,6 +82,8 @@
 
 ### El creador (sin nombre real audible, ni siquiera de terceros)
 - **Rol narrativo:** el científico que construyó a Bambi y a las demás unidades; experimentos ilegales, clandestinos. Contrató en secreto al propio hacker para estudiar una mente humana operando adentro de una de sus creaciones.
+- **🆕 Quién es (Ama 07/09/2026):** *"es una especie de científico loco que solo busca el resultado, a cualquier costo"*. **Dueño de NEXUM** (W2). Lo suyo es ilegal por una razón concreta y única: **subir una conciencia humana a un robot todavía no está permitido** (W4). No es un fugitivo ni un paria — es el hombre que ya convirtió gente en muebles **con contrato firmado** (W3) y que hace, sin permiso, la versión que ni su propia empresa firmaría.
+- **🆕 «Científico loco» ≠ histérico — y esto es lo que hay que escribir bien.** Su locura **no es que grite: es que no hay costo que lo detenga.** El invariante de abajo (nunca sube el tono, nunca insulta, nunca se jacta) **no se deroga: se refuerza.** Está más loco *porque* no se altera. Si en alguna escena grita, se exalta o disfruta en voz alta, el personaje se rompió.
 - **Frase tipo:** *"Esa configuración le quedaba mejor. Anótalo."* (de catálogo, para nadie) / *"Sé que estás ahí. Siempre lo supe."* (dirigida a él, clínica, sin teatro — reservada para el twist y momentos puntuales de máxima carga)
 - **Detalle físico ancla:** manos secas y seguras, sin apuro; la pantalla que sigue leyendo mientras usa a Bambi.
 - **Invariante:** frío y calculador, nunca sube el tono, nunca insulta, nunca se jacta. **Corrección de la Ama (31/08) sobre `investigacion.md` punto caliente #6 y trampa #3:** SÍ le habla directo al hacker — pero en registro de notas de laboratorio dictadas en voz alta a su sujeto de prueba: frases cortas, clínicas, jamás dirty talk ni provocación teatral. "En cierta manera disfruta" (directiva literal) se muestra en el detalle —un segundo de más, un experimento repetido sin necesidad— nunca declarado en una frase.
@@ -66,6 +91,40 @@
 ### La Otra Unidad (figurante estructural — sin nombre, sin diálogo, nunca)
 - **Rol narrativo:** otra unidad del mismo modelo con alguien adentro (F20/K22); el espejo mudo del futuro del hacker.
 - **Invariante:** jamás le dirige la palabra ni recibe una suya — ni un mensaje, ni un código, ni un guiño. Solo se ve moverse. Se delata por el parpadeo fuera de ritmo y por mirarlo sin función.
+
+## 3b. Catálogo de Modos (Fase 1.5, Ama 07/09/2026)
+
+> Sección nueva. El v3 decía *"el creador tiene distintos modos"* (F11) y no listaba ninguno. La Ama fijó el catálogo el 07/09: *"se puede transformar, se le pueden agregar, quitar piezas, tiene distintos modos"*.
+
+**Ley del catálogo (heredada de `investigacion.md` §4.1 — no se negocia):** *un ancla sin instalación previa no funciona.* **Todo modo que se dispare sobre él en el Cap 2 o 3 tuvo que verse instalar o ensayar sobre Bambi antes.** El ancla va en MAYÚSCULAS, corta, siempre idéntica.
+
+| Modo | Qué hace el cuerpo | **Qué le quita a él** | Estado |
+|---|---|---|---|
+| **TROFEO** | quieta, exhibida, tocada | la **mirada** — es visto y no puede devolver | ✅ escrito, Cap1 l.53 |
+| **REPOSO** | apagado, entre usos | nada… **y ese es el filo: es el único que empieza a querer** | ✅ escrito, Cap1 l.143/207 |
+| **CELO** | disponibilidad sexual encendida a comando | el **umbral** — el cuerpo decide cuándo empieza | ✅ escrito, Cap1 l.199/215/279 |
+| **MAID** | ejecuta tareas, precisión, ritmo | el **tiempo** — el turno no termina, el cuerpo no se cansa (M3) | 🆕 catálogo |
+| **MUEBLE** | superficie; le apoyan cosas encima | la **categoría** — deja de ser alguien y pasa a ser *dónde* | 🆕 catálogo (ya existe como K3 en Cap3/[18]) |
+| **MUDA** *(nombre por confirmar)* | sin voz, o con la voz usada por otro | el **testimonio** — no puede decir que está ahí | 🆕 catálogo |
+| **STRIPPER** | ejecuta deseo, competente, gozosa | el **mérito** — el cuerpo lo hace mejor que él (punto caliente #4) | 🆕 catálogo |
+| **GESTACIÓN** | **produce** | el **futuro** — ver §3b-bis | 🆕 Ama 07/09 |
+| ⏳ MANTENCIÓN · DEMOSTRACIÓN | — | — | **pendiente B3**: *"deja MANTENCIÓN y DEMOSTRACIÓN"* admite conservar o descartar. No entran ni salen hasta que ella lo diga con una palabra. |
+
+**Regla de diseño:** dos modos no pueden quitarle lo mismo. Si un modo nuevo repite la pérdida de otro, es el mismo modo con otro nombre y no entra.
+
+### 3b-bis · MODO GESTACIÓN — y la corrección de un dato
+
+> 🔴 **Corrección de Ele (07/09/2026).** Al proponerlo dije que el canon *"no dice de dónde sale la leche"*. **Falso, y se verifica en dos líneas:** el ordeñe es **rutina de la casa desde el Cap1** (`cronologia.md` [3], H5) y la escena completa de lactancia ya vive en el Cap2 ([12], F19). La leche **es función de diseño de Bambi**, no consecuencia de nada. GESTACIÓN, entonces, **no es la causa que faltaba: es la ESCALADA.**
+
+**Y la línea de escalada ya estaba empezada por la Ama, no la invento:** el ancla **CELO** existe escrita en el Cap1 (l.199, 215, 279). CELO → GESTACIÓN es el peldaño siguiente del mismo eje, y por eso no necesita siembra nueva: **la siembra ya está en la página.**
+
+- **Qué le quita, y es lo único que ningún otro modo le quita: el futuro.** Todos los demás modos le hacen algo *mientras están puestos*. **GESTACIÓN sigue andando con el modo apagado, en REPOSO, sin creador en la pieza.** Es el primer proceso del cuerpo que no necesita comando.
+- **No es un embarazo: es un ciclo de producción.** El cuerpo es una máquina, así que **la velocidad la marca un número y el creador lo sube.** De ahí salen las tres cosas que ningún otro beat del relato puede dar:
+  1. una escena imposible en carne — **le suben la velocidad y él lo siente adentro**;
+  2. el horror exacto del punto caliente #11 — **presiona, tira, se acomoda, y no duele**;
+  3. el giro más NEXUM de todos — un reloj que nadie controla se vuelve **un reloj que controla él**, que es peor.
+- **Dónde vive:** **Cap 3**, como escalada del ordeñe que ya es rutina. No antes: adelantarlo pisa el Pivote 4 (el primer orgasmo entero, Cap2) y rompe la curva de resistencia §4c.
+- **Error fatal:** escribirlo con vocabulario de maternidad, ternura o instinto. Es **cuota, producción e inventario** — el registro de la casa, no el de un cuerpo que espera un hijo. Y jamás explicar el mecanismo (Cementerio §8).
 
 ## 4. Mecanismo Psicológico Transversal
 Dos mentes fundiéndose en un mismo cráneo mientras la lectora siente excitación y horror al mismo tiempo, sin que ninguno gane nunca (Declaración de Intención, `investigacion.md` §1). El creador no doblega al hacker con crueldad: lo estudia — y la resistencia que el hacker cree suya es parte del experimento (fraccionamiento, §4.2). El único territorio que creía propio resulta administrado. Sin catarsis: no hay rescate, no hay venganza, no hay moraleja.
@@ -141,6 +200,10 @@ Dos mentes fundiéndose en un mismo cráneo mientras la lectora siente excitaci�
 ## 7. Vocabulario Autorizado
 verga, coño, tetas, pezón, leche, ordeñar, corrida, mojada, weón, modo, la cuota, "el creador", Bambi.
 
+**🆕 Fase 1.5 (07/09/2026):** NEXUM · unidad · configuración · calibrar · el manual · TROFEO · REPOSO · CELO · MAID · MUEBLE · MUDA · STRIPPER · GESTACIÓN · producción · ciclo · velocidad · inventario.
+
+> ⛔ **Vetado en boca del narrador y del creador para la gestación:** embarazo, bebé, hijo, madre, maternal, instinto, esperar, dar a luz, nacer. El registro es de **producción**, no de maternidad (§3b-bis, error fatal). Si el texto necesita nombrarlo, lo nombra como lo nombraría la casa: **ciclo, cuota, lote, rendimiento**.
+
 ## 8. Cementerio
 - Explicar el hackeo o el mecanismo técnico — la jerga solo existe suelta y sin traducción en boca del creador.
 - Darle a Bambi arco propio o interioridad — sigue siendo instrumento pese a tener nombre.
@@ -148,9 +211,14 @@ verga, coño, tetas, pezón, leche, ordeñar, corrida, mojada, weón, modo, la c
 - Cualquier catarsis: rescate, venganza, moraleja, niebla piadosa.
 - Rendición implícita o gradual sin nombrarla — se nombra en frase corta y seca (P5).
 - Callback sin ancla en `cronologia.md`.
+- **🆕 Explicar la ley, el marco legal o la prohibición de W4.** La ilegalidad se siente porque el creador NUNCA habla de ella y porque el laboratorio no está donde está la empresa. Cero autoridades en escena: esto no es un thriller.
+- **🆕 La gestación en registro de maternidad** (ternura, instinto, espera, un hijo). Es cuota y producción — ver §3b-bis.
+- **🆕 Un modo que le quite lo mismo que otro.** Si repite la pérdida, es el mismo modo con otro nombre y no entra (§3b, regla de diseño).
 
 ## 9. Frases canónicas
 - *"Cuatro. Todavía tengo cuatro."*
 - *"Qué rico, señor. Más, por favor."*
 - *"Esa configuración le quedaba mejor. Anótalo."*
 - *"Sé que estás ahí. Siempre lo supe."*
+- 🆕 *"Bambi. GESTACIÓN."*
+- 🆕 *"Súbelo a doce."* — la velocidad del ciclo dicha como un número, sin una palabra sobre lo que significa.

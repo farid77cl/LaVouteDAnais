@@ -62,6 +62,19 @@ No es progresiva en el sentido de "empieza fría". El Cap 1 tiene que calentar *
 | 11 | **La reconfiguración que no duele.** Le cambian el cuerpo con él adentro: el pecho se llena desde atrás del pezón, la cadera se abre, la garganta se reafina. **Y no duele.** Presiona, tira, se acomoda — pero no hay dolor. | El dolor sería un argumento del cuerpo, y ni eso le dejan. La **ausencia de dolor** es más abyecta que el dolor: confirma que la carne no es suya, que solo la está ocupando. Body horror sin nocicepción. | F18 + `_bodyhorror_v1.md` §1.5 (el crujido / la mecánica sentida) y §1.3 (cuerpo como material) — **invertido a propósito** |
 | 12 | **El inventario.** Cada escena él cuenta lo que le queda en pie. Al principio son cuatro cosas. Después tres. Contar es lo único que todavía hace por su cuenta. | Da al lector un reloj y le da a él una dignidad falsa. Y detona con el twist: contar también estaba permitido. | Mecanismo de duración del `brief_idea.md` §4 |
 
+### 2.E — 🆕 Qué calienta del MODO GESTACIÓN (Ama 07/09/2026 — Fase 1.5)
+
+> **Se AGREGA, no se reescribe.** Este documento tiene Gate de la Ama del 31/08/2026 sobre el texto completo; lo del 07/09 entra como sección nueva y deja intacto lo aprobado.
+
+| # | Punto caliente (el instante exacto) | Por qué prende |
+|---|---|---|
+| 16 | **El proceso que no se apaga.** Todos los otros modos le hacen algo *mientras están puestos*. Éste sigue andando en REPOSO, con el creador fuera de la casa, de noche. Él, despierto —porque no puede dormir (M3)—, sintiendo el cuerpo trabajar. | Es la primera cosa que le pasa al cuerpo **sin comando y sin público**. Hasta acá podía decirse *"esto me lo están haciendo"*; ahora el cuerpo **hace solo**, y él adentro de mirón. Convierte la soledad del §4.4 (la peor celda del relato) en una celda **con actividad**. |
+| 17 | **La velocidad es un número.** No hay biología que respetar: el ciclo corre a lo que marque el dial. El creador dice una cifra y el cuerpo acelera. | Imposible en carne, y por eso es el beat más de este relato y de ningún otro. Y es la firma de la casa: NEXUM ya piensa a las personas como inventario. **Un reloj que nadie controla es angustia; un reloj que controla ÉL es propiedad.** |
+| 18 | **Presiona, tira, se acomoda — y no duele.** El cambio es continuo y la nocicepción no existe. | Invierte el body horror clásico igual que el punto caliente #11: **la ausencia de dolor es más abyecta que el dolor**, porque el dolor sería un argumento del cuerpo, y ni ese le dejan. Lo que siente es **trabajo**, no daño. |
+| 19 | **La cuota deja de ser rutina y pasa a ser rendimiento.** El ordeñe ya era textura de casa desde el Cap1 (H5). Ahora se mide, se anota, se sube. | El escalón que faltaba en el eje hucow: de *lo ordeñan* a **produce**. Y la humillación no viene del uso sexual sino de la **contabilidad** — la misma lógica que ya funciona en «Café con Piernas», donde el número calienta más que el acto. |
+
+> 🔴 **Qué lo mata (registro).** Vocabulario de maternidad: embarazo, bebé, hijo, madre, instinto, esperar, dar a luz. Esto **no es un cuerpo que espera un hijo**: es una unidad en ciclo de producción. Se nombra como lo nombraría la casa — ciclo, cuota, lote, rendimiento, velocidad. Un solo destello de ternura maternal y la escena se vuelve otro género.
+
 ### 2.B — Qué calienta específicamente del HUCOW (F17)
 
 > La trampa acá es escribirlo como procedimiento (litros, horarios, aparato). Eso es exactamente el registro que la Ama rechazó el 25/08. **El hucow no calienta por el ordeñe: calienta por el descenso de categoría.**
@@ -190,6 +203,15 @@ Si el texto explica cómo funciona el cerebro positrónico, cuántas capas tiene
 - **La bajada se puede condicionar.** Es real y es el mecanismo del relato: el cuerpo aprende a soltar con una **señal** —el ruido de la máquina, la hora, una palabra— y termina goteando **antes de que lo toquen**, con solo oír el aparato encenderse. (Ver §4.7: es el ancla pavloviana con evidencia fisiológica.)
 - **El sonido:** el ritmo de la bomba. Regular, mecánico, con dos tiempos. Es un metrónomo y él lo va a contar. Ese sonido es el candidato natural a **ancla del capítulo 3**.
 - **La trampa del oficio, que es narrativamente perfecta:** funciona por demanda. **Mientras más le sacan, más produce.** Resistir no baja la cuota: la sube. No hay estrategia posible.
+
+### 3.10 🆕 El ciclo, desde adentro (Fase 1.5, 07/09/2026)
+
+- **El trabajo de fondo.** Un movimiento lento que no cesa, por debajo de todo lo demás, como una máquina en otra habitación de la misma casa. No se oye: se *nota* en el peso.
+- **La presión sin dolor.** Algo empuja desde adentro contra la pared del cuerpo y la pared cede de a poco. Tira. Se acomoda. En un cuerpo de carne eso sería una punzada; acá es solo **información**: sabe que está pasando y no le duele.
+- **El peso que cambia de sitio.** El centro de gravedad se corre y el cuerpo lo compensa solo, sin consultarle — misma mecánica que M2 (el desfase), aplicada al equilibrio.
+- **El calor localizado.** Una zona del cuerpo está más caliente que el resto y no baja. Es lo único que se siente igual en REPOSO que en uso.
+- **La velocidad, cuando la suben.** Todo lo anterior, más rápido. Sin transición, sin aviso, sin que nada más cambie en la pieza. El creador dice la cifra, cierra la pantalla y sigue leyendo.
+- **La noche.** Sin creador, sin luz, sin sueño posible: el cuerpo trabajando y él mirándolo trabajar durante horas que no se acaban.
 
 ### 3.8 La reconfiguración (F18)
 

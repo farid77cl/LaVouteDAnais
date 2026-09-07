@@ -1,7 +1,8 @@
 # Cronología & Hechos Plantados — Modo Trofeo
 > Centinela documental del Nivel 4. Fuente única de verdad temporal y de continuidad.
 > Lo CREA el Compositor (esqueleto) · lo ACTUALIZA el Escritor (cada capítulo/tramo) · lo AUDITA el Validador (eje Continuidad).
-> **ESTADO: APROBADA POR LA AMA (31/08/2026, v3).** Gate final sobre el rediseño del cierre del Cap1 (marcas [7]-[9]) y el ajuste de H2/[13] (nunca hubo accidente — el creador siempre supo que el hacker terminaría atrapado dentro de Bambi). Fase 1 cerrada. Habilitado el paso a Fase 2 (Escritor-Nivel4).
+> **ESTADO: v4 — Fase 1.5 por orden de la Ama (07/09/2026, «escríbelo»).** Agrega [24b] GESTACIÓN, H15-H17 y el estado de cuerpo del Cap3; **no toca ninguna marca del v3**.
+> **ESTADO v3 (se conserva): APROBADA POR LA AMA (31/08/2026).** Gate final sobre el rediseño del cierre del Cap1 (marcas [7]-[9]) y el ajuste de H2/[13] (nunca hubo accidente — el creador siempre supo que el hacker terminaría atrapado dentro de Bambi). Fase 1 cerrada. Habilitado el paso a Fase 2 (Escritor-Nivel4).
 
 ## 1. Marco temporal
 - 🚫 **Sin días marcados (Ama 25/08/2026).** No hay día-cero ni conteo de días — solo orden de eventos. El ritmo temporal (cuánto dura cada tramo, si son horas o "un rato") lo decide el Escritor en la prosa.
@@ -34,6 +35,7 @@
 | [22] | Cap3 | Le devuelven control parcial —un dedo, una mano, la voz— para que LO HAGA ÉL (K18). La cesión más grave del relato. |
 | [23] | Cap3 | El archivo (K23) — el creador le muestra grabaciones de su propio uso y le exige que las comente, dirigiéndose a él de nuevo en registro clínico (tercera instancia de habla directa, tras Cap1/[7] y Cap2/[13]). |
 | [24] | Cap3 | Descenso hacia el Modo Vacío / bimbo terminal (K13). |
+| **[24b]** | **Cap3** | 🆕 **MODO GESTACIÓN (Fase 1.5, Ama 07/09).** El creador dicta el ancla y sube la velocidad del ciclo con un número, sin una palabra sobre lo que significa. Escalada del eje que **CELO** abrió en el Cap1 (l.199/215/279): de disponibilidad a **producción**. El cuerpo empieza a cambiar **y no se detiene cuando el modo se apaga** — sigue andando en REPOSO, sin el creador en la pieza. Presiona, tira, se acomoda, **y no duele** (punto caliente #11). Es el primer proceso del cuerpo que **no necesita comando**. |
 | [25] | Cap3 | El ordeñe vuelve, ya sin resistencia, anotado como producción normal. La congestión aprieta con las horas. |
 | [26] | Cap3 / último tercio | **PIVOTE 5 — El primer pedido.** Pide, a través de Bambi, que lo ordeñen. Rendición nombrada, frase corta y seca. |
 | [27] | Cap3 | La Otra Unidad deja de mirarlo — no porque la castiguen: porque ya no queda nadie que mire (cierra H3). |
@@ -60,10 +62,14 @@
 | H13 | El del reloj de oro (invitado de [2], usuario del préstamo en [6]): «Voy a tener que traer a mi hermano. No me va a creer.» — uso en serie sembrado | Cap1 / [6] | plantado | abierto (Cap2/Cap3, opcional) |
 | H14 | **Frases para relectura post-twist (sin comentario del narrador):** «Mirar es el trabajo» (la misión) · «No armo por encargo» · «Si te aburres, avisa» (la nota clínica de H2, escrita en [4]) · «Entiendo que llegó justo cuando estaba saliendo» | Cap1 / [1], [2], [4], [8] | plantado | Cap2 / [13]-[14]: releídas como guion del creador de punta a punta |
 
+| **H15** | 🆕 **El ancla CELO como semilla de GESTACIÓN.** El eje ya está abierto en la página: CELO se dicta tres veces en el Cap1. GESTACIÓN es su peldaño siguiente y **no necesita siembra nueva** | Cap1 / l.199, 215, 279 (✅ ya escrito) | plantado sin saberlo | Cap3 / [24b] |
+| **H16** | 🆕 **NEXUM y el Manual.** El mundo se nombra una vez y se sostiene con epígrafes del Manual con número de página (W5). Ningún personaje explica la empresa ni la prohibición (W4) | Cap1 / siembra pendiente — ver `reportes/capitulo_1/siembra_fase15_20260907.md` | **por sembrar** | transversal |
+| **H17** | 🆕 **La velocidad del ciclo es un número que el creador sube.** Dicho como cifra seca, nunca explicado. Hereda la mecánica de H11 («Retardo al doce» → «doce y medio») | Cap3 / [24b] | por plantar | Cap3 / [25]-[26] |
+
 ## 4. Estado del cuerpo / continuidad física (por capítulo)
 
 | Capítulo | Estado al cerrar |
 |---|---|
 | Cap 1 | **(v0.1 escrita)** Bambi en configuración base: pelo color miel hasta la cadera, ojos de cierva, sonrisa de fábrica, parpadeo base cada 6 segundos exactos; vestido corto champagne + tacos de clic para exhibición; bata para revisión. Sin reconfiguración corporal; **da leche desde antes del relato** — el ordeñe corre como rutina no sentida (dos copas, frasco graduado). El hacker sin ninguna sensación propia (solo ver/oír; sin olfato) hasta el cierre: la fuga dispara la primera sensación real (peso de tetas, costura del pelo, arco de los tacos, huella térmica en la mandíbula, olfato, el coño despierto) como recaptura — **sin resolverse si escapó; corta con él todavía tirando**. Inventario: cuatro → tres (cae NO SIENTO). El dueño ya sabe que hay una mente adentro («Ahí estás.»); el hacker todavía no sabe que fue él quien lo contrató, aunque ya dedujo que el dueño fabrica las unidades. La Otra Unidad: mismo modelo/misma cara, pelo negro liso tomado atrás, delantal gris, vista una sola vez con sábanas. Cuerpo real del hacker: a ~30 km, en una silla, departamento con cortinas cerradas. |
 | Cap 2 | Al abrir, confirmado que no pudo escapar (el enlace es más fuerte que él). Reconfiguración de escala (K2) en curso; congestión y lactancia completa ya ejecutadas una vez; el hacker pasa de sensación parcial/intermitente a un orgasmo entero al cierre. Desde la mitad del capítulo sabe que el creador lo contrató específicamente para esto y que siempre supo que terminaría atrapado dentro de Bambi — nunca hubo accidente, el "algo salió mal" del Cap1 era el plan ejecutándose. Modo Resistencia (K12) conocido pero no necesariamente disparado en escena todavía. |
-| Cap 3 | Cuerpo expuesto puntualmente como mueble/mecanismo (K3/K7) pero devuelto a estado usable entre escenas; congestión hucow crónica y recurrente; el hacker fundido con Bambi — ya no distingue con certeza de quién es cada pensamiento; deja de contar el inventario. |
+| Cap 3 | Cuerpo expuesto puntualmente como mueble/mecanismo (K3/K7) pero devuelto a estado usable entre escenas; congestión hucow crónica y recurrente; el hacker fundido con Bambi — ya no distingue con certeza de quién es cada pensamiento; deja de contar el inventario. | **🆕 Fase 1.5 (07/09):** ciclo de GESTACIÓN corriendo desde [24b] — **no se apaga con el modo**, sigue en REPOSO y sin el creador presente. Cambio físico continuo, sin dolor: presiona, tira, se acomoda. La congestión hucow deja de ser rutina y pasa a ser **cuota con velocidad ajustable** (H17). |
