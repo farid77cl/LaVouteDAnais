@@ -68,6 +68,22 @@ def test_el_indice_no_lleva_prompts():
     assert "prompt de pie" not in crudo
 
 
+def test_la_fecha_del_encabezado_llega_al_campo_emitido():
+    """El campo `f` del índice, no `meta`.
+
+    La prueba vieja miraba `look["meta"]` — que lo llena el parser — y por eso
+    no vio nunca que `_fecha_de` no calzaba: la función rota era la que ningún
+    test llamaba. El encabezado de Anaïs 9 lleva `11/08/2026`.
+    """
+    look = next(l for l in _indice()["looks"] if l["p"] == "anais")
+    assert look["f"] == "11/08/2026"
+
+
+def test_todos_los_looks_de_las_fixtures_traen_fecha():
+    for look in _indice()["looks"]:
+        assert look["f"] is not None, look
+
+
 def test_np_cuenta_solo_imagenes_reales():
     look = next(l for l in _indice()["looks"] if l["p"] == "ele")
     assert look["np"] == 1

@@ -63,7 +63,11 @@ SALIDA_PROMPTS = REPO_ROOT / "app" / "prompts"
 
 POSES_CANON = galeria_parser.POSES_CANON
 
-RE_FECHA = re.compile(r"\((\d{2}/\d{2}/\d{4})")
+# Sin paréntesis de apertura: `_fecha_de` recibe el grupo 3 de `LOOK_HEADING`,
+# que es lo que va DENTRO de los paréntesis del encabezado — ya vienen
+# consumidos. Exigir un `(` literal aquí dejaba `"f": null` en 795 de 798
+# looks, y los 3 que sobrevivían eran encabezados con paréntesis anidados.
+RE_FECHA = re.compile(r"(\d{2}/\d{2}/\d{4})")
 
 # Alias históricos → canónica. Cubre lo que sube la app (back/profile), el
 # español y los nombres viejos de la flota pre-convención (`helena_...`).
