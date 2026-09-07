@@ -1,6 +1,8 @@
 # ⚙️ Sistema — Scripts y Automatización Interna
 
-> 📮✂️ **Actualizado 07/09/2026 — la maquinaria del blog de Tumblr: el adaptador de posts (23 pruebas antes del código) y el recortador de header que mide en vez de pedirle al generador que cuente.**
+> 🐛👠 **Actualizado 07/09/2026 — el auditor de racha de medias culpaba al look equivocado, y por eso bloqueaba todo batch nuevo.** `audit_racha_medias` devolvía solo el texto y `outfit.py generar` reconstruía el culpable **barriendo la ventana hacia atrás hasta el último look CON medias**. No es lo mismo: con la racha infractora ya escrita en la galería (Miss Doll L83-L85) y un lote nuevo cuyo único look con medias va al final y aislado, el motor frenaba el batch culpando a ese último look, que no forma racha con nadie — y mientras la racha vieja siguiera dentro de la ventana de 12, **ningún batch nuevo con una sola media podía volver a pasar**. Nuevo `garment_canon.racha_medias_detalle()` devuelve el índice que **cierra** la racha, que se conoce en el momento de detectarla; `generar` culpa a ese y baja a aviso si quedó fuera del lote. Dos pruebas de regresión. Autochequeos **97/0** (eran 95).
+>
+> 📮✂️ **Previo 07/09/2026 — la maquinaria del blog de Tumblr: el adaptador de posts (23 pruebas antes del código) y el recortador de header que mide en vez de pedirle al generador que cuente.**
 >
 > 🔬👁️🔒 **Previo 07/09/2026 — auditoría visual con ojos ajenos, y el motor cerrado con 95 autochequeos (eran 43).**
 >
