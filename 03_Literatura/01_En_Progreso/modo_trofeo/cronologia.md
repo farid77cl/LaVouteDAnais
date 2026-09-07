@@ -63,7 +63,7 @@
 | H14 | **Frases para relectura post-twist (sin comentario del narrador):** «Mirar es el trabajo» (la misión) · «No armo por encargo» · «Si te aburres, avisa» (la nota clínica de H2, escrita en [4]) · «Entiendo que llegó justo cuando estaba saliendo» | Cap1 / [1], [2], [4], [8] | plantado | Cap2 / [13]-[14]: releídas como guion del creador de punta a punta |
 
 | **H15** | 🆕 **El ancla CELO como semilla de GESTACIÓN.** El eje ya está abierto en la página: CELO se dicta tres veces en el Cap1. GESTACIÓN es su peldaño siguiente y **no necesita siembra nueva** | Cap1 / l.199, 215, 279 (✅ ya escrito) | plantado sin saberlo | Cap3 / [24b] |
-| **H16** | 🆕 **NEXUM y el Manual.** El mundo se nombra una vez y se sostiene con epígrafes del Manual con número de página (W5). Ningún personaje explica la empresa ni la prohibición (W4) | Cap1 / siembra pendiente — ver `reportes/capitulo_1/siembra_fase15_20260907.md` | **por sembrar** | transversal |
+| **H16** | 🆕 **NEXUM y el Manual.** El mundo se nombra una vez y se sostiene con epígrafes del Manual con número de página (W5). Ningún personaje explica la empresa ni la prohibición (W4) | Cap1 / **✅ sembrado en la v0.2** — «una NEXUM» (l.11) + dos epígrafes del *Manual de Operación NEXUM* (pág. 47 antes de la exhibición, pág. 203 antes del préstamo) | **pagado** | transversal |
 | **H17** | 🆕 **La velocidad del ciclo es un número que el creador sube.** Dicho como cifra seca, nunca explicado. Hereda la mecánica de H11 («Retardo al doce» → «doce y medio») | Cap3 / [24b] | por plantar | Cap3 / [25]-[26] |
 
 ## 4. Estado del cuerpo / continuidad física (por capítulo)

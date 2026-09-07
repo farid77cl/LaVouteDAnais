@@ -115,3 +115,33 @@ Orden literal de la Ama: *"escribelo"*. Bajado a los tres documentos. **El Cap 1
 **Y un hallazgo que ahorró trabajo:** el ancla **CELO** está escrita tres veces en el Cap1 (l.199, 215, 279). GESTACIÓN es el peldaño siguiente de ese mismo eje, así que **la siembra ya estaba en la página** — el modo nuevo entra sin retrofit del capítulo.
 
 **Estado:** canon v4 y cronología v4 son **Fase 1.5 por orden suya**, no un Gate nuevo. El Cap 1 sigue en v0.1, intacto y sin leer por ella.
+
+### Anotación 4 — 07/09/2026: siembra aplicada · **Cap 1 v0.2**
+
+Segunda orden de *"escríbelo"*. La prosa la escribió el **`escritor-nivel4`** (regla estructural: la Ama la fijó así — el Orquestador diseña y audita, no escribe), con brief de input único (`reportes/capitulo_1/brief_v0.2_siembra.md`).
+
+**Verificado con `diff`, no con el reporte del subagente:** 3 inserciones, **+45 palabras**, y una sola línea tocada (la 11, que solo *gana* «una NEXUM,» dentro de una frase existente). Cero frases reescritas.
+
+| # | Inserción | Línea |
+|---|---|---|
+| 1 | `…tiene una unidad de las caras, **una NEXUM**, de las que no salen en catálogo.` — pasa la prueba del borrado: si se quita, la frase vuelve a ser la v0.1 exacta | 11 |
+| 2 | *Una unidad en TROFEO admite manipulación por terceros sin límite de tiempo. No admite conversación.* —Manual de Operación NEXUM, pág. 47 | 45 |
+| 3 | *Una unidad cedida a terceros no requiere instrucciones. La sesión termina cuando el usuario la termina.* —Manual de Operación NEXUM, pág. 203 | 266 |
+
+v0.1 archivada en `borradores/capitulo_01/`. **H16 pagado** en `cronologia.md`.
+
+### 🔴 Y lo que destapó la medición (Fase 2.5, `medicion_v0.2.md`)
+
+Loreto corrió con las medidas de firma de IA estrenadas ese mismo día (M13-M17) y el Cap 1 sale **DURO**:
+
+| Medida | Cap 1 v0.2 | Referencia |
+|---|---|---|
+| **M14 · dos puntos revelatorios** | **81 reales = 11,9 por 1.000** | los 4 capítulos publicados de «Café con Piernas»: 2,7-4,9 |
+| M15 · símil-molde «como si/como quien» | 1,62/1000 (×11) | cupo 1,0 |
+| M17 · habla real en el diálogo | **0 % de 39 parlamentos** | piso 10 % |
+
+**El 81 está verificado a mano, descontando los 6 dos puntos que introducen diálogo** (legítimos) y los 0 de los epígrafes nuevos. Es **2,4 veces peor que el peor capítulo publicado** de Café. La cadencia del capítulo entero está construida sobre ese golpe: *enunciado neutro → dos puntos → revelación*.
+
+> ⚠️ **Dos avisos que NO aplican acá, y por eso no se cuentan como defecto.** **M11** (cursivas 0,3/1000) y **M12** (0 parlamentos de ≥45 palabras) están calibrados sobre referencias en **tercera persona** con una dominante que habla largo. Este capítulo es **primera persona presente** —todo el texto ES voz interior, no necesita cursiva— y el creador es **lacónico y clínico por invariante aprobado por la Ama** (§3). Un medidor que dispara contra el diseño no es un hallazgo.
+
+**Nada de esto se corrige sin su orden.** El arreglo, si lo pide, es una pasada del Escritor sobre los 81 dos puntos — punto seguido, coma, o borrar la mitad izquierda — sin tocar una escena.
