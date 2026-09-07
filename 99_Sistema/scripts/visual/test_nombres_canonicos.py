@@ -53,6 +53,20 @@ def test_el_slot5_usa_el_slug_de_cada_muneca_en_el_archivo():
     assert N.nombre_archivo(10, "slot5", CFG["miss_doll"]) == "miss_doll_010_glacial_command.png"
 
 
+def test_una_pose_que_no_existe_revienta():
+    """Sin esto, un typo emitia `ele_800_stnading.png` al contrato en silencio
+    y la app pedia una imagen inexistente sin nada que la avisara."""
+    import pytest
+    with pytest.raises(ValueError):
+        N.nombre_archivo(800, "stnading", CFG["ele"])
+
+
+def test_las_siete_poses_canonicas_pasan():
+    import galeria_parser
+    for pose in galeria_parser.POSES_CANON:
+        assert N.nombre_archivo(800, pose, CFG["ele"]).endswith(".png")
+
+
 def test_carpeta_del_look():
     assert N.carpeta_look(800, "chrome_hooded_column", CFG["ele"]) == \
         "05_Imagenes/ele/look800_chrome_hooded_column/"

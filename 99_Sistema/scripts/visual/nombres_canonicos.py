@@ -14,9 +14,17 @@ Miss Doll, `L{n:02d}` en Anaïs) y dos de los tres estaban mal contra
 from __future__ import annotations
 
 import sys
+from pathlib import Path
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
+
+sys.path.insert(0, str(Path(__file__).parent))
+
+# La lista de poses tiene UN dueño, `galeria_parser`, y este módulo la importa
+# en vez de re-declararla. Importarla no crea un segundo dueño: crea el
+# validador que faltaba.
+import galeria_parser  # noqa: E402
 
 
 def _numero(numero, cfg):
@@ -29,7 +37,17 @@ def nombre_archivo(numero, pose, cfg):
     No recibe el slug del personaje: todo lo suyo viaja en cfg. Un slug
     aparte que nadie usa dejaría pasar en silencio una llamada con el cfg
     equivocado, que es la deriva que este módulo existe para impedir.
+
+    Revienta con `ValueError` si la pose no es una de las siete canónicas. Sin
+    esa guarda un typo emitía `ele_800_stnading.png` al contrato, y como la
+    app no lleva parser defensivo (spec §2.5) el defecto sólo aparecía como
+    una imagen que no carga en el teléfono.
     """
+    if pose not in galeria_parser.POSES_CANON:
+        raise ValueError(
+            f"pose desconocida: {pose!r}. Las canónicas son "
+            f"{', '.join(galeria_parser.POSES_CANON)}."
+        )
     sufijo = cfg["slot5_slug"] if pose == "slot5" else pose
     return f"{cfg['prefijo_archivo']}{_numero(numero, cfg)}_{sufijo}.png"
 
