@@ -20,7 +20,7 @@ Chequea, por look:
 Uso:  python 99_Sistema/scripts/visual/lint_galeria.py [--solo-desde N]
 Salida: exit 1 si hay violaciones (rompe el cierre de batch).
 """
-import os, re, sys, subprocess, unicodedata
+import io, json, os, re, sys, subprocess, unicodedata
 from collections import defaultdict
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -30,15 +30,23 @@ REPO = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "..", ".."))
 ELE = os.path.join(REPO, "05_Imagenes", "ele")
 GALERIA = os.path.join(REPO, "00_Ele", "galeria_outfits.md")
 
-CATEGORIAS = {
-    "Stripper", "Corporate", "Escort", "Domestic", "Pin-Up",
-    "High-Fashion Editorial", "Nightclub", "Lencería", "Bikini", "Gym",
-    # 11ª categoría, agregada 17/08/2026: la lista estaba VIEJA, no los looks.
-    # El batch 261-270 la usa con Categoria+Subcategoria propias desde el 25/05
-    # y "gala" es material declarado en el canon. Se escribía de 3 formas
-    # ("Alfombra Roja / Gala", "Alfombra Roja", "Gala") — unificadas a una.
-    "Alfombra Roja / Gala",
-}
+# 🔢 DUEÑO UNICO (07/09/2026): la lista cerrada vive en
+# `anclas_universales.json -> personajes.ele.categorias_validas.nombres`, que es
+# de donde tambien la lee `outfit.py generar` para validarla ANTES de escribir.
+#
+# Hasta hoy este set estaba CABLEADO aqui y era el unico ejecutor, o sea la
+# categoria se verificaba DESPUES de que la galeria ya estaba escrita: el 07/09
+# los L828 y L829 salieron con "Lencería Boudoir" y "Bikini Studio" y el error
+# aparecio al lintear el archivo, no al emitirlo. Dos copias de la misma lista
+# divergen — es la regla dueño-unico del 02/07/2026 — asi que aqui se APUNTA.
+def _categorias_ele():
+    ruta = os.path.join(os.path.dirname(os.path.abspath(__file__)), "anclas_universales.json")
+    with io.open(ruta, encoding="utf-8") as fh:
+        cfg = json.load(fh)
+    return set(cfg["personajes"]["ele"]["categorias_validas"]["nombres"])
+
+
+CATEGORIAS = _categorias_ele()
 NORMALIZAR = {
     "Lenceria": "Lencería",
     "Alfombra Roja": "Alfombra Roja / Gala",

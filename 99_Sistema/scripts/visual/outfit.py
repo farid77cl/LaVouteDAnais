@@ -59,6 +59,7 @@ unico (29/08/2026). Los slots y sus etiquetas tampoco: salen del contrato.
 """
 import io
 import json
+import unicodedata
 import os
 import re
 import subprocess
@@ -73,7 +74,7 @@ sys.path.insert(0, AQUI)
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
 from garment_canon import racha_medias_detalle, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
-from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura  # noqa: E402
+from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura, plano as _plano  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
 
@@ -214,6 +215,24 @@ def cmd_generar(args):
                   "en el look con uno de los nombres del §6 de %s — un arquetipo que no se "
                   "puede contar no cumple ninguna cuota."
                   % (num, arquetipo, pb.perfil.get("nombre", b["personaje"])))
+            return 1
+        # Y ademas tiene que ser UNO DE LOS SUYOS (07/09/2026).
+        #
+        # Ama: "la idea era que el outfit engine corriera sin problema". Medido
+        # ese dia sobre los tres lotes: la lista cerrada de arquetipos existia
+        # SOLO para Ele y SOLO dentro de `lint_galeria.py`, o sea se verificaba
+        # DESPUES de escribir la galeria. Los L828 y L829 salieron con "Lencería
+        # Boudoir" y "Bikini Studio" y el error aparecio al lintear el archivo ya
+        # escrito, no al emitirlo. Miss Doll y Anais no tenian lista ejecutable en
+        # ninguna parte. Un chequeo que corre despues no evita el defecto: lo
+        # documenta -- que es literal lo que esta puerta existe para no hacer.
+        cats = (pb.perfil.get("categorias_validas") or {}).get("nombres")
+        if cats and _plano(arquetipo) not in {_plano(c) for c in cats}:
+            print("  \U0001f534 Look %s: arquetipo %r no esta en la lista cerrada de %s."
+                  % (num, arquetipo, pb.perfil.get("nombre", b["personaje"])))
+            print("     validos: %s" % " · ".join(cats))
+            print("     Un arquetipo escrito de dos formas es un arquetipo que no se")
+            print("     puede contar, y una cuota que no se cuenta no existe.")
             return 1
         out += ["**%s:** %s" % (pb.perfil.get("campo_arquetipo", "Categoria"), arquetipo), ""]
         # carpeta_imagenes + prefijo_carpeta_look + numero + slug. Los tres campos
@@ -408,7 +427,8 @@ def cmd_generar(args):
     tax = cfg.get("arquitecturas_de_prenda")
     if rotp and tax:
         seq = list(historia) + [(int(n), lk["bloque_b"]) for n, lk in orden]
-        cods = [(n, clasificar_arquitectura(g, tax)[0]) for n, g in seq]
+        clasif = [(n,) + clasificar_arquitectura(g, tax)[:2] for n, g in seq]
+        cods = [(n, c) for n, c, _cub in clasif]
         vent = rotp.get("ventana_global", 3)
         desde = rotp.get("desde_look", 0)
         duros_a, avisos_a = [], []
@@ -431,6 +451,62 @@ def cmd_generar(args):
             print("\n     Ama 05/09/2026: \"debes darme variedad en vestuario\".")
             print("     No se le cambia el color: se rediseña la SILUETA.")
             return 1
+
+        # ---- CUOTA DE SILUETA CUBIERTA (07/09/2026) ----
+        # Vivia SOLO en `lint_prompts_personaje` (chequeo 12), que lee la galeria
+        # YA ESCRITA. El 07/09 freno el L86 de Miss Doll despues de insertarlo:
+        # sus L83-L85 son tres arquitecturas de piel seguidas y la ventana se
+        # cerraba justo en ese slot. Se detecto bien y se detecto tarde -- hubo
+        # que revertir la galeria y reordenar el lote. Aca se mide antes, sobre
+        # la misma secuencia historia+batch que ya esta armada.
+        cq = rotp.get("cuota_cubierta") or {}
+        cada, minimo = cq.get("cada"), cq.get("minimo")
+        if cada and minimo:
+            duros_c = []
+            for i, (n, _cod, _cub) in enumerate(clasif):
+                if n not in nums_batch or i + 1 < cada:
+                    continue
+                bloque = clasif[i + 1 - cada:i + 1]
+                cubiertos = sum(1 for _x, _c, cu in bloque if cu)
+                if cubiertos < minimo:
+                    duros_c.append("L%s: %d de los ultimos %d looks (L%s-L%s) llevan silueta "
+                                   "cubierta, se exige %d"
+                                   % (n, cubiertos, cada, bloque[0][0], bloque[-1][0], minimo))
+            duros_c, hist_c = _partir(duros_c, rotp)
+            for a in hist_c:
+                print("  \U0001f7e0 %s" % a)
+            if duros_c:
+                print("\n  \U0001f534 CUOTA DE SILUETA CUBIERTA — el batch no se escribe:")
+                for d in duros_c:
+                    print("     %s" % d)
+                print("\n     Cubierta = M6-M10 (vestido · falda+top · pantalon · catsuit de")
+                print("     pierna completa · slip). La bata abierta NO paga: enmarca, no cubre.")
+                return 1
+
+        # ---- ARQUITECTURA REPETIDA CONTRA EL LOTE ANTERIOR (07/09/2026) ----
+        # Vivia SOLO en `outfit.py cruce`, un comando aparte que hay que acordarse
+        # de correr y que ademas compara JSON contra JSON. El 07/09 marco en rojo
+        # el L832 de Ele y el L86/L88 de Miss Doll DESPUES de que los tres lotes
+        # ya estaban escritos como datos. El lote anterior son, sencillamente, los
+        # `len(batch)` looks reales que preceden al primero de este.
+        desde_cb = rotp.get("cross_batch_desde_look")
+        if desde_cb and len(historia) >= len(nums_batch):
+            previos = clasif[len(historia) - len(nums_batch):len(historia)]
+            cods_prev = {c: n for n, c, _cu in previos if c}
+            duros_x = ["L%s: arquitectura %s ya usada por el lote anterior (L%s)" % (n, cod, cods_prev[cod])
+                       for n, cod, _cu in clasif
+                       if n in nums_batch and n >= desde_cb and cod in cods_prev]
+            duros_x, hist_x = _partir(duros_x, rotp)
+            for a in hist_x:
+                print("  \U0001f7e0 %s" % a)
+            if duros_x:
+                print("\n  \U0001f534 ARQUITECTURA REPETIDA CONTRA EL LOTE ANTERIOR "
+                      "(L%s-L%s) — el batch no se escribe:" % (previos[0][0], previos[-1][0]))
+                for d in duros_x:
+                    print("     %s" % d)
+                print("\n     Dos lotes seguidos no pueden compartir silueta. Las subfamilias")
+                print("     de M4 cuentan como distintas: A5 no es A6.")
+                return 1
 
     # ---- clon de outfit DENTRO del mismo personaje --------------------------
     # El auditor cruzado compara a cada muñeca contra las OTRAS DOS; contra si

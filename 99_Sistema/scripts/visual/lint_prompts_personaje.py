@@ -83,6 +83,7 @@ Salida != 0 si hay CRITICOS. Ningun batch se commitea con el linter en rojo.
 import io
 import os
 import re
+import unicodedata
 import sys
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -182,6 +183,23 @@ def total_looks(texto):
     chequeo 12 imprimia solo N, asi que un 0 de 618 se leia igual que un 'no
     aplica' y paso meses sin que nadie lo notara."""
     return len(set(re.findall(r"^#+ .*?\b(?:Look|Boudoir)\s+(?:[A-Za-z]+)?(\d+)\b", texto, re.M)))
+
+
+def plano(s):
+    """minusculas y sin acentos, para comparar nombres de arquetipo.
+
+    Vive aca y no en `outfit.py` por una razon medida el 07/09/2026: importar
+    `outfit` re-envuelve `sys.stdout` en su linea 68, asi que cualquier modulo
+    que lo importe pierde su propio stdout (la prueba que lo intento murio con
+    "I/O operation on closed file"). Un helper de texto no puede vivir detras de
+    ese efecto secundario.
+
+    Las galerias vivas escriben "Noche / La Voute" y "Latex / Fetichismo" sin
+    tilde y no son errores: son la misma categoria. Lo que se rechaza es un
+    nombre que NO esta en la lista, no una tilde de menos.
+    """
+    s = unicodedata.normalize("NFD", (s or "").strip().lower())
+    return "".join(c for c in s if unicodedata.category(c) != "Mn")
 
 
 def clasificar_arquitectura(bloque_b, tax):

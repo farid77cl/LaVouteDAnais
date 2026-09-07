@@ -423,6 +423,36 @@ check("calzado vetado: la bota a la rodilla pasa aunque el veto este puesto",
 check("calzado vetado: el mensaje nombra el sustituto",
       any("knee-high" in v for v in audit_footwear(_BOTIN, vetados=_VETO)))
 
+# LOS TRES CHEQUEOS QUE VIVIAN FUERA DE LA PUERTA (07/09/2026).
+# Ama: "la idea era que el outfit engine corriera sin problema". Medido ese dia
+# sobre los tres lotes nuevos: de los seis frenos, TRES vinieron de chequeos que
+# corren DESPUES de `generar` — la lista cerrada de arquetipos (solo en
+# lint_galeria, y solo para Ele), la cuota de silueta cubierta (solo en
+# lint_prompts_personaje, que lee la galeria ya escrita) y la arquitectura contra
+# el lote anterior (solo en `cruce`, un comando aparte). Es el mismo defecto que
+# el 05/09 declaro cerrado: un chequeo que corre despues documenta el error, no
+# lo evita. Aca se prueba el DATO que los tres necesitan para poder correr en la
+# puerta; el bloqueo end-to-end se verifico reinyectando los tres errores reales.
+import json as _json                                                 # noqa: E402
+_CFG = _json.load(io.open(os.path.join(V, "anclas_universales.json"), encoding="utf-8"))
+for _slug in ("ele", "miss_doll", "anais"):
+    _p = _CFG["personajes"][_slug]
+    check("categorias: %s declara su lista cerrada" % _slug,
+          bool((_p.get("categorias_validas") or {}).get("nombres")))
+    check("cuota cubierta: %s declara cada/minimo" % _slug,
+          bool((_p.get("rotacion_prenda") or {}).get("cuota_cubierta", {}).get("cada"))
+          and bool((_p.get("rotacion_prenda") or {}).get("cuota_cubierta", {}).get("minimo")))
+    check("cross-batch: %s declara desde que look rige la vara dura" % _slug,
+          (_p.get("rotacion_prenda") or {}).get("cross_batch_desde_look") is not None)
+
+from lint_prompts_personaje import plano as _plano                   # noqa: E402
+check("categorias: la comparacion ignora acentos (las galerias vivas escriben 'Voute')",
+      _plano("Noche / La Voute") == _plano("Noche / La Voûte"))
+check("categorias: un nombre inventado NO cuela por parecerse",
+      _plano("Lencería Boudoir") not in {_plano(c) for c in _CFG["personajes"]["ele"]["categorias_validas"]["nombres"]})
+check("categorias: lint_galeria y el motor leen la MISMA lista (dueño unico)",
+      __import__("lint_galeria").CATEGORIAS == set(_CFG["personajes"]["ele"]["categorias_validas"]["nombres"]))
+
 # G3 el ancla de costura no viaja en un look SIN medias.
 # miss_doll L77 declara `bare legs, no stockings` en su BLOQUE B y sus prompts
 # traen igual "the stockings have ONE single seam...". El disparador ya pedia dos

@@ -493,7 +493,25 @@
         "_taxonomia": "Las familias las define color_canon.FAMILY (dueño unico). No duplicar la tabla aca."
       },
       "outfit_inline": true,
-      "_outfit_inline_porque": "Ama 04/09/2026. La galeria de Ele declara el outfit en un campo de UNA LINEA (`- **Outfit (BLOQUE B):** `...``), no en un bloque con fence ```text como Miss Doll y Anais. No es desprolijidad: medido ese dia, meterle el bloque con fence hace que LV-App ingiera 8 prompts donde hay 7 y que el slot Standing reciba dos -> PrimaryKey REPLACE y una toma perdida en silencio. Sus prompts usan fences desnudos y su galeria no tolera uno mas. 27 de sus looks ya usaban este campo y tenian razon. Contrato completo: regla 11 §9quinquies."
+      "_outfit_inline_porque": "Ama 04/09/2026. La galeria de Ele declara el outfit en un campo de UNA LINEA (`- **Outfit (BLOQUE B):** `...``), no en un bloque con fence ```text como Miss Doll y Anais. No es desprolijidad: medido ese dia, meterle el bloque con fence hace que LV-App ingiera 8 prompts donde hay 7 y que el slot Standing reciba dos -> PrimaryKey REPLACE y una toma perdida en silencio. Sus prompts usan fences desnudos y su galeria no tolera uno mas. 27 de sus looks ya usaban este campo y tenian razon. Contrato completo: regla 11 §9quinquies.",
+      "categorias_validas": {
+        "_dueno_unico": "Lista cerrada de arquetipos de ESTE personaje. Fuente narrada: lint_galeria.py CATEGORIAS (que hasta hoy era el dueño y vivia cableado en el linter). Si se edita un lado, editar el otro.",
+        "_porque": "Ama 07/09/2026: 'la idea era que el outfit engine corriera sin problema'. La lista existia SOLO para Ele y SOLO dentro de lint_galeria.py, o sea se verificaba DESPUES de escribir la galeria: el 07/09 los L828 y L829 salieron con 'Lencería Boudoir' y 'Bikini Studio' y el error se vio recien al lintear el archivo ya escrito. Miss Doll y Anais no tenian lista cerrada en ninguna parte ejecutable. Ahora la valida `generar` ANTES de emitir, y `lint_galeria` lee de aca en vez de su copia cableada.",
+        "_comparacion": "La membresia se mide SIN acentos y sin mayusculas, porque las galerias vivas escriben 'Noche / La Voute' y 'Latex / Fetichismo' sin tilde y no son errores: son la misma categoria. Lo que se rechaza es un nombre que no esta en la lista.",
+        "nombres": [
+          "Stripper",
+          "Corporate",
+          "Escort",
+          "Domestic",
+          "Pin-Up",
+          "High-Fashion Editorial",
+          "Nightclub",
+          "Lencería",
+          "Bikini",
+          "Gym",
+          "Alfombra Roja / Gala"
+        ]
+      }
     },
     "miss_doll": {
       "nombre": "Miss Doll",
@@ -596,6 +614,21 @@
             "sustituto": "bota knee-high (a la rodilla) o thigh-high (sobre rodilla)"
           }
         ]
+      },
+      "categorias_validas": {
+        "_dueno_unico": "Lista cerrada de arquetipos de ESTE personaje. Fuente narrada: 02_Personajes/_perfiles_visuales/miss_doll.md §6. Si se edita un lado, editar el otro.",
+        "_porque": "Ama 07/09/2026: 'la idea era que el outfit engine corriera sin problema'. La lista existia SOLO para Ele y SOLO dentro de lint_galeria.py, o sea se verificaba DESPUES de escribir la galeria: el 07/09 los L828 y L829 salieron con 'Lencería Boudoir' y 'Bikini Studio' y el error se vio recien al lintear el archivo ya escrito. Miss Doll y Anais no tenian lista cerrada en ninguna parte ejecutable. Ahora la valida `generar` ANTES de emitir, y `lint_galeria` lee de aca en vez de su copia cableada.",
+        "_comparacion": "La membresia se mide SIN acentos y sin mayusculas, porque las galerias vivas escriben 'Noche / La Voute' y 'Latex / Fetichismo' sin tilde y no son errores: son la misma categoria. Lo que se rechaza es un nombre que no esta en la lista.",
+        "nombres": [
+          "Club / Escenario",
+          "Bikini / Lencería Erótica",
+          "Calabozo / Dungeon",
+          "VIP / Privado",
+          "Gym / Athletic",
+          "Girly Girl",
+          "Penthouse / Off-duty",
+          "Editorial / Portada"
+        ]
       }
     },
     "anais": {
@@ -681,6 +714,18 @@
         "desde_look": 81,
         "_desde_look_porque": "Retrofit-al-tocar, misma convencion que rotacion_prenda. La Ama eligio la opcion (a) el 05/09: el batch de colorimetria del 04/09 NO se regenera — sus imagenes ya estan subidas — y la regla gobierna desde el proximo look.",
         "_taxonomia": "Las familias las define color_canon.FAMILY (dueño unico). No duplicar la tabla aca."
+      },
+      "categorias_validas": {
+        "_dueno_unico": "Lista cerrada de arquetipos de ESTE personaje. Fuente narrada: 02_Personajes/_perfiles_visuales/anais.md §6. Si se edita un lado, editar el otro.",
+        "_porque": "Ama 07/09/2026: 'la idea era que el outfit engine corriera sin problema'. La lista existia SOLO para Ele y SOLO dentro de lint_galeria.py, o sea se verificaba DESPUES de escribir la galeria: el 07/09 los L828 y L829 salieron con 'Lencería Boudoir' y 'Bikini Studio' y el error se vio recien al lintear el archivo ya escrito. Miss Doll y Anais no tenian lista cerrada en ninguna parte ejecutable. Ahora la valida `generar` ANTES de emitir, y `lint_galeria` lee de aca en vez de su copia cableada.",
+        "_comparacion": "La membresia se mide SIN acentos y sin mayusculas, porque las galerias vivas escriben 'Noche / La Voute' y 'Latex / Fetichismo' sin tilde y no son errores: son la misma categoria. Lo que se rechaza es un nombre que no esta en la lista.",
+        "nombres": [
+          "Noche / La Voûte",
+          "Boudoir / Lencería",
+          "Látex / Fetichismo",
+          "Sesión Literaria",
+          "Ejecutivo de Poder"
+        ]
       }
     }
   }
