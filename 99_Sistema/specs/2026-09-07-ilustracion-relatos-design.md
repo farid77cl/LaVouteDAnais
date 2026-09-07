@@ -42,7 +42,7 @@ Todo lo de esta sección se midió antes de diseñar. Es la evidencia, no la hip
 
 | Activo | Medida | Ruta |
 |---|---|---|
-| Formato Tumblr por relato | **40 archivos** `*_tumblr.md`, solo **1** con placeholders sin llenar | `03_Literatura/02_Finalizadas/*/_publicacion/` |
+| Formato Tumblr por relato | **38 archivos** `*_tumblr.md` — pero ⚠️ ver 3.2bis: **32 son teasers, no adaptaciones** | `03_Literatura/02_Finalizadas/*/_publicacion/` |
 | Plantilla oficial | Ya contempla **2 slots de imagen** (`URL_IMAGEN_1` portada, `URL_IMAGEN_2` intermedia) | `07_Recursos/plantilla_tumblr_md.md` |
 | Portadas de relato | **18 PNG** | `05_Imagenes/portadas/` |
 | Imágenes internas de relato | **5 relatos** con carpeta propia | `05_Imagenes/historias/<slug>/` |
@@ -58,6 +58,19 @@ Todo lo de esta sección se midió antes de diseñar. Es la evidencia, no la hip
 - **Relatos con portada duplicada:** «Brillando en Tacones» tiene 2 (`brillando_en_tacones_cover.png` + `portada_brillando_en_tacones.png`); «Smart Home Stepford» tiene **3** (`smart_home_stepford_cover.png`, `smart_home_stepford_cover_v1.png`, `portada_smart_home_stepford.png`).
 - **Sin contrato de nombres en `historias/`:** conviven `imagen1_eli.png`, `roxy_cougar_hunt.jpg` y `clara_bimbo_pose_3_seated_vinyl_leopard_1773862485028.png`.
 - **El estilo pop-art no tiene dueño.** `00_Ele/bancos_prompts/banco_prompts_v48_comic.md` (100 prompts) es **era Helena** — pelo negro azabache, gótico, Sin City, Junji Ito; no contiene el halftone rosa sesentero. Las dos guías de cómic están en `01_Canon/Guias_Especializadas/legacy/`.
+
+### 3.2bis 🩹 Corrección a 3.1 — la adaptación a Tumblr NO está hecha (medido 07/09/2026)
+
+La primera versión de este spec afirmó que los archivos Tumblr estaban listos *"solo 1 con placeholders sin llenar"*. **Es falso.** El dato salió de un `grep` de tres frases concretas; una frase que no aparece no prueba que el archivo esté completo. Medición correcta, contando palabras de cada archivo contra `HEAD`:
+
+| Estado | Cuántos |
+|---|---|
+| **Teasers de <450 palabras** — gancho + primeras escenas + *"[CONTENIDO COMPLETO DISPONIBLE EN EL ARCHIVO MAESTRO]"* | **32 de 38** |
+| Adaptaciones reales (>1.600 palabras) | **6** — `trance_bimbodoll_ii` (8.374), `gloss_trance_miss_doll` (2.088), `brillando_en_tacones_I` (2.054), `tetitas` (1.810), `la_creacion_util` (1.809), `esposa_de_mi_esposa_II` (1.632) |
+
+Caso testigo: «El Collar de Nancy» son **~8.500 palabras** de relato y su archivo Tumblr tiene **425**.
+
+**Consecuencia para este diseño:** las imágenes se cablean a un archivo Tumblr que en 32 de 38 casos **todavía no existe como adaptación**. Este spec cubre la ilustración; la adaptación del texto es un subproyecto hermano y **es prerrequisito suyo**.
 
 ### 3.3 Restricciones duras del entorno
 
