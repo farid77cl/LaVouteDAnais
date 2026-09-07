@@ -127,6 +127,141 @@ posibles, en orden de probabilidad:
 
 ---
 
+## 3bis · Estado re-medido el 07-sep-2026 — **el Funnel cambió de forma**
+
+> ⚠️ **Esto deroga la tabla del §3 (30-ago).** Aquella decía `GET /` → 200 y la API de
+> administración viva y respondiendo 401 desde fuera. **Hoy es falso**, y no porque n8n se
+> haya caído: el Funnel dejó de publicar la instancia entera y ahora publica **una sola
+> ruta**. Medido con curl contra la URL pública, no deducido.
+
+| Prueba (desde fuera de la casa) | Hoy | 30-ago |
+|---|---|---|
+| `GET /` | **404** `404 page not found` (texto plano, `nosniff` → es el 404 **de Tailscale**, no de n8n) | 200 |
+| `GET /api/v1/workflows` **con** API key válida | **404** (mismo 404 de Tailscale) | 401 «header required» |
+| `GET /mcp/` | **200** — HTML de la interfaz de n8n (**v2.30.8**), servido por el *fallback* de la SPA | — |
+| `GET /assets/…`, `/static/…`, `/rest/login` | **404** | — |
+| `GET /mcp/ayunka/sse` + `Authorization: Bearer …` | **200** + `event: endpoint` con `sessionId` | — |
+
+**Lectura:** el Funnel monta **solo el prefijo `/mcp`** y lo pasa **sin recortarlo**
+(si lo recortara, `/mcp/ayunka/sse` llegaría a n8n como `/ayunka/sse` y devolvería el HTML
+de la SPA en vez de un stream SSE real — devuelve el stream, luego no recorta). Todo lo que
+cuelga fuera de `/mcp` lo contesta Tailscale con su propio 404.
+
+**Consecuencia dura, y es la que importa:** la **puerta 2 (API de administración con
+`X-N8N-API-KEY`) ya NO existe desde internet.** La sección 4.3 de este documento —
+«por API, sin conectores (siempre funciona)» — **dejó de funcionar desde fuera de la casa**.
+Sigue sirviendo desde la red local (`192.168.1.200:5678`) o por VPN de Tailscale.
+
+### El MCP `/mcp/ayunka/sse` — vivo, con dos defectos
+
+Comprobado el 07-sep con un apretón de manos MCP hecho a mano (GET SSE → `initialize` →
+`tools/list` → `tools/call`):
+
+- ✅ `initialize` responde `n8n-mcp-server v0.1.0`.
+- ✅ Expone **5 herramientas**: `listar_flujos`, `activar_flujo`, `desactivar_flujo`,
+  `ver_ejecuciones`, `detalle_ejecucion`.
+- 🔴 **Las 5 devuelven `Request failed with status code 401`.** El nodo HTTP que llevan
+  adentro le pega a la API de n8n con una **credencial guardada dentro de n8n que está
+  rechazada**. Se arregla **desde la interfaz de n8n**, no desde fuera: pegar una API key
+  vigente en esa credencial. Ninguna key que se pase por fuera puede sustituirla.
+- 🐛 **Cada herramienta declara un segundo parámetro requerido con el nombre en blanco (`""`).**
+  Un cliente MCP normal muere ahí con `ZodError` antes de llegar a n8n. Se pasa a mano
+  mandando `{"limite":"50","":""}`. Es un campo de parámetro que quedó sin nombre en el nodo.
+- 🔌 **Por qué el conector de Claude da 404 y no es del servidor:** la ruta sirve **SSE
+  legacy** (GET → `event: endpoint` → POST a `/mcp/ayunka/messages?sessionId=…`), y el
+  conector le está haciendo POST directo estilo *streamable HTTP*. La URL y el Bearer están
+  bien; lo que hay que elegir al registrarlo es el transporte **SSE**.
+
+## 3ter · Dónde guarda de verdad el flujo «todo relatos» (07-sep-2026)
+
+**n8n no es el dueño de esos datos — es quien los escribe.** El flujo que sigue las
+publicaciones de la Ama en `todorelatos.com` persiste en **Supabase, proyecto `ayunka`**
+(`ncuvdpydwnepbysadoux`, us-east-1). Se llega ahí con el conector de Supabase, **sin
+depender del Funnel ni de la API key de n8n** — que es como se pudo analizar el 07-sep
+con el MCP de n8n en 401.
+
+| Tabla | Filas | Qué guarda |
+|---|---|---|
+| `tr_relatos` | 59 | los relatos propios (título, categoría, fecha de publicación) |
+| `tr_mediciones` | 113 | toma global: totales + deltas · `tipo` = `cierre` \| `parcial` |
+| `tr_relato_mediciones` | 6.469 | la toma, relato por relato (lecturas, votos, nota, comentarios) |
+| `tr_comentarios` | 72 | texto y autor de cada comentario |
+| `tr_rankings` | 169 | tamaño y corte de cada lista + posición propia cuando aplica |
+| `tr_cat_relatos` | 1.073 | catálogo de la competencia (`propio` marca los propios) |
+| `tr_cat_mediciones` | 5.597 | la serie del catálogo |
+
+Cadencia medida: **4 tomas diarias** (1 `cierre` + 3 `parcial`), **27 días de 27 sin un
+solo hueco** entre el 12-ago y el 07-sep. El catálogo arrancó el 24-ago.
+
+### Los dos defectos reales (y los dos que NO lo eran)
+
+> ⚠️ Los cuatro se reportaron primero como defectos. **Dos se cayeron al medirlos**, y
+> quedan escritos acá con el número que los desmiente — un defecto inventado manda a
+> arreglar lo que funciona.
+
+| # | Estado | Qué pasa |
+|---|---|---|
+| 1 | 🔴 **real** | `pct_terrible…pct_excelente` llenos en **468 de 6.469 filas (7,2 %)**, y solo en tomas de `cierre`, donde llegan al 30,3 %. Es la distribución de notas y se está perdiendo. **Arreglo: en n8n**, no desde la base |
+| 2 | 🔴 **real** | `delta_comentarios` nulo en **87 filas** (86 `parcial` + 1 `cierre`) mientras `delta_lecturas` y `delta_votos` sí se calculan. **Arreglo abajo** |
+| 3 | ✅ **no era** | Se dijo que el flag `propio` estaba sin marcar (7 de 1.073). Medido: hay **exactamente 7 relatos con autor `AnaisBelland`** en el catálogo y **los 7 están marcados** — 0 falsos negativos, 0 falsos positivos. Lo corto es la **cobertura** del catálogo (sigue listados recientes), no el flag |
+| 4 | ✅ **por diseño** | Se dijo que `relato_id` nulo en 148 de 169 rankings era un bug. No lo es: la tabla guarda **siempre** el tamaño y el corte de cada lista y rellena `relato_id` **solo cuando hay un relato propio dentro**. La limitación real es otra: **nunca registra quién ocupa los primeros puestos**, así que no hay inteligencia competitiva |
+
+### El arreglo del defecto 2 — **backfill APLICADO 07-sep-2026**, disparador pendiente
+
+Autorizado por la Ama (*"UPDATE ok"*) y ejecutado contra la base de producción.
+
+```sql
+with s as (
+  select id, total_comentarios - lag(total_comentarios) over (order by medido_en) d
+  from tr_mediciones
+)
+update tr_mediciones m set delta_comentarios = s.d
+from s where s.id = m.id and m.delta_comentarios is null and s.d is not null;
+-- 86 filas actualizadas
+```
+
+**Verificado después, no dado por hecho:** `tr_mediciones` queda en **112 de 113 filas con
+delta**, deltas entre **0 y 3**, **ninguno negativo**. La única nula es `id = 1` — la primera
+medición de todas, que no tiene anterior de dónde restar, y ahí el nulo es correcto.
+
+> ⏸️ **El disparador NO está puesto.** El `create function` + `create trigger` es un cambio
+> de **esquema**, no un arreglo de datos, y el permiso que dio la Ama fue para el `UPDATE`.
+> Queda escrito acá para cuando ella lo autorice — mientras tanto, **cada fila nueva que
+> inserte n8n vuelve a llegar con `delta_comentarios` nulo**, así que el backfill hay que
+> repetirlo o poner el disparador.
+
+```sql
+create or replace function tr_fill_delta_comentarios() returns trigger
+language plpgsql security invoker set search_path = public as $$
+begin
+  if new.delta_comentarios is null and new.total_comentarios is not null then
+    select new.total_comentarios - m.total_comentarios into new.delta_comentarios
+    from public.tr_mediciones m
+    where m.medido_en < new.medido_en and m.total_comentarios is not null
+    order by m.medido_en desc limit 1;
+  end if;
+  return new;
+end $$;
+
+drop trigger if exists tr_mediciones_delta_comentarios on public.tr_mediciones;
+create trigger tr_mediciones_delta_comentarios
+  before insert on public.tr_mediciones
+  for each row execute function tr_fill_delta_comentarios();
+
+-- deshacer:
+-- drop trigger tr_mediciones_delta_comentarios on public.tr_mediciones;
+-- drop function tr_fill_delta_comentarios();
+```
+
+### Hallazgo lateral: el flujo se disparó dos veces una vez
+
+`tr_mediciones` id **60 y 61** llevan el mismo `medido_en` con **84 ms de diferencia**
+(2026-08-23 08:51:09.201 y .285), las dos de tipo `parcial`. Es un doble disparo del
+workflow, no un dato malo — los totales coinciden. Los **cierres están limpios**: cero días
+con dos. Anotado, no tocado; si se repite, revisar el trigger del cron en n8n.
+
+---
+
 ## 4 · Cómo se conecta cada cosa, paso a paso
 
 ### 4.1 · El conector oficial de n8n (el importante)
@@ -213,7 +348,7 @@ Ninguna vive en el repositorio. Todas están en `credenciales-privadas.txt`, que
 
 | Credencial | Dónde | Vence |
 |---|---|---|
-| **API key de n8n** (`X-N8N-API-KEY`) | `credenciales-privadas.txt` | ⚠️ **27-sep-2026** |
+| **API key de n8n** (`X-N8N-API-KEY`) | `credenciales-privadas.txt` | ⚠️ **07-oct-2026** (key nueva emitida el 07-sep-2026 14:23 UTC; deroga el 27-sep) |
 | Contraseña de la interfaz de n8n | gestor de contraseñas del navegador | no |
 | `N8N_ENCRYPTION_KEY` | `docker-compose.yml` + `credenciales-privadas.txt` | no |
 | Token del MCP Server Trigger | dentro del workflow, en n8n | no |
