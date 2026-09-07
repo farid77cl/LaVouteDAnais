@@ -58,6 +58,16 @@ Este texto viaja **dentro** del prompt que la Ama pega en Gemini, donde no hay c
 
 Los prompts se escriben **en inglés**, como todo prompt de imagen del repo. Calibración anti-filtro v4.5/v4.6, ya canon.
 
+### 4.1 ⚠️ Sin pesos `:1.4` — acá son texto inerte
+
+Los BLOQUE A de las tres muñecas están cuajados de pesos de sintaxis Stable Diffusion (`(…:1.4)`). **En Gemini no hacen nada.** No es una sospecha: es el diagnóstico escrito en `02_Personajes/_perfiles_visuales/anais.md`, tras cuatro rondas de prueba sobre imagen real el 03/09/2026 —
+
+> *"vocabulario diluyente (`naturally`, `soft`, `subtle`) y pesos `:1.4` de sintaxis Stable Diffusion que **Gemini no interpreta** (texto inerte)"*
+
+**Consecuencia para este estilo:** el BLOQUE PERSONAJE de una publicación **no se copia del BLOQUE A de la muñeca**. Se **reescribe en inglés declarativo plano**, sin paréntesis de peso, conservando solo los rasgos de identidad (pelo, ojos, boca, lunar, edad, estructura ósea) y **descartando el vocabulario fotográfico** (`dewy skin`, `medical-grade cosmetic finish`, `visible pores`), que además contradice §7: acá se ilustra, no se fotografía.
+
+Lo que en fotografía se consigue subiendo un peso, acá se consigue **diciéndolo una vez y bien**, o girando la cámara (CAMERA_FIRST).
+
 ---
 
 ## 5. Formatos y ratios

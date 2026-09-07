@@ -199,7 +199,53 @@ El blog necesita, antes de publicar nada:
 | **Header** | panorámico (~3:1) | Composición horizontal de las tres muñecas o un motivo de La Voûte, con **20% superior e inferior vacíos** por el recorte, misma disciplina que el banner de Wattpad |
 | **Post fijado** | post normal | Índice del catálogo + qué es La Voûte + advertencia +18 |
 
-**Los prompts se escriben con el mismo BLOQUE ESTILO** del spec hermano §4.3, con sus tres candados afirmativos (GARMENT_DECLARED · CAMERA_FIRST · sin texto) y **sin bloque negativo**, porque este texto viaja dentro del prompt que la Ama pega en Gemini.
+**Los prompts usan el BLOQUE ESTILO** de [`estilo_comic_pop_v1.md`](../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md), con sus tres candados afirmativos y **sin bloque negativo**, porque este texto viaja dentro del prompt que la Ama pega en Gemini.
+
+### 6.1 🔴 Decisión suya: ¿quién es la cara del blog?
+
+El blog se llama **«La Voûte d'Anaïs»**, así que la recomendación es **Anaïs** — es la regenta, el lugar lleva su nombre y es la única de las tres que **no** es una modelo sino la dueña. La alternativa es **Miss Doll**, que es la de la imagen de referencia que la Ama entregó y la más reconocible del catálogo. Los prompts de abajo están escritos para Anaïs; cambiarla es reemplazar el bloque de identidad, nada más.
+
+### 6.2 Prompts listos (Anaïs) — pendientes de que la Ama congele el BLOQUE ESTILO (A2)
+
+**Identidad de Anaïs en registro ilustración** — reescrita en inglés declarativo plano, sin pesos `:1.4` (§4.1 del estilo) y sin vocabulario fotográfico:
+
+```
+a 42-year-old aristocratic woman, never young and never girlish: mature sharp bone
+structure, sculpted lifted cheekbones, a defined angular jawline, refined oval face.
+Honey-blonde hair worn sleek. Warm honey amber eyes, lids half-lowered, the gaze level
+and cold, sizing up whoever is looking. High thinly arched dark brown brows, one held a
+fraction higher than the other. Charcoal cut-crease smoky eye. Deep red lips, the lower
+lip heavy, visibly parted, never smiling. A small beauty mark above her upper left lip.
+Chin carried level, never lifted sweetly.
+```
+
+**AVATAR — 1:1, legible a 64 px**
+```
+[BLOQUE ESTILO]
+[identidad de Anaïs, arriba]
+Head-and-shoulders portrait, tightly cropped, her face filling most of the frame,
+turned three-quarters toward the lens with her eyes to the camera. SHE IS WEARING a
+high-necked black gown — worn on her body, closed, opaque — covering her chest and
+shoulders completely from the base of her throat downward. Flat bubblegum pink
+background field with halftone dots, no scene and no props. Square 1:1 composition.
+```
+
+**HEADER — 16:9, recortable a 3:1**
+```
+[BLOQUE ESTILO]
+[identidad de Anaïs, arriba]
+Wide horizontal composition. She stands at the left third of the frame, full body,
+turned toward the camera. SHE IS WEARING a floor-length black column gown — worn on her
+body, closed, opaque — covering her from the base of her throat to the floor, with long
+sleeves. Behind her, to the right, the empty interior of a cabaret: rows of small round
+tables, a low stage, heavy drawn curtains, all rendered flat with halftone shading in
+pink and cream. The upper fifth and lower fifth of the frame are empty background so the
+image can be cropped to a narrow band without cutting her. Aspect ratio 16:9.
+```
+
+> **Por qué la gala cerrada y no la lente fetish:** el avatar y el header son **la portada de la casa** y los ve todo el que llega, incluido el filtro de Tumblr. Es el mismo criterio que ya rige las portadas de Wattpad: *la lente fetish vive en material, silueta y luz, nunca en piel*. El calor va adentro, en las internas de cada capítulo.
+
+**Falta el post fijado** (índice del catálogo + qué es La Voûte + advertencia +18): es texto, no imagen, y se escribe cuando exista la lista de relatos publicados.
 
 ---
 
