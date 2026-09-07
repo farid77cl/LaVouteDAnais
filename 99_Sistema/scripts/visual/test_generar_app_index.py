@@ -108,6 +108,33 @@ def test_pose_canonica_irreconocible_es_none():
     assert GEN.pose_canonica("ele_800_calzado_extra.png", 800, CFG["ele"]) is None
 
 
+# --- construir_prompts: los 7 prompts de cada look en un archivo JSON
+# descargado bajo demanda por la app -----------------------------------------
+
+
+def _prompts():
+    return GEN.construir_prompts(CFG, GALERIAS)
+
+
+def test_hay_un_archivo_de_prompts_por_look():
+    assert set(_prompts()) == {"ele/800", "miss_doll/10", "anais/9"}
+
+
+def test_los_prompts_van_bajo_su_llave_canonica():
+    p = _prompts()["anais/9"]["prompts"]
+    assert p["standing"] == "prompt de pie para anais look 9"
+    assert p["slot5"] == "prompt de mirada soberana para anais look 9"
+    assert "sovereign_gaze" not in p
+
+
+def test_el_negative_viaja_con_el_look():
+    assert "flat shoes" in _prompts()["ele/800"]["neg"]
+
+
+def test_una_pose_sin_prompt_escrito_no_aparece():
+    assert "pov" not in _prompts()["ele/800"]["prompts"]
+
+
 if __name__ == "__main__":
     import pytest
     raise SystemExit(pytest.main([__file__, "-v"]))

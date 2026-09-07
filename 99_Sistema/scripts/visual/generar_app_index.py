@@ -223,6 +223,33 @@ def construir_indice(cfg_personajes, imagenes_por_personaje, galerias):
     }
 
 
+def construir_prompts(cfg_personajes, galerias):
+    """{"<slug>/<n>": {v, p, n, neg, prompts:{pose: texto}}}
+
+    Un prompt promedia 5,8 KB: todos en un índice serían ~30 MB. En vez de eso,
+    el índice navega y cada look descarga su archivo de prompts bajo demanda.
+    """
+    salida = {}
+    for slug, cfg in cfg_personajes.items():
+        slot5 = cfg["slot5_nombre"]
+        for parsed in galeria_parser.parse_como_la_app(galerias[slug], slot5):
+            prompts = {}
+            for display, textos in parsed["prompts"].items():
+                pose = galeria_parser.slug_de_pose(display, slot5)
+                if pose and textos:
+                    # Si el mismo slot aparece dos veces, gana el primero:
+                    # el segundo es un remiendo pegado abajo.
+                    prompts.setdefault(pose, textos[0])
+            salida[f"{slug}/{parsed['num']}"] = {
+                "v": 2,
+                "p": slug,
+                "n": parsed["num"],
+                "neg": parsed["negative"],
+                "prompts": {p: prompts[p] for p in POSES_CANON if p in prompts},
+            }
+    return salida
+
+
 def _cargar():
     cfg = json.loads(
         (Path(__file__).parent / "anclas_universales.json").read_text(encoding="utf-8")
@@ -243,6 +270,7 @@ def main():
 
     cfg, galerias, imagenes = _cargar()
     indice = construir_indice(cfg, imagenes, galerias)
+    prompts = construir_prompts(cfg, galerias)
 
     if args.pretty:
         texto = json.dumps(indice, ensure_ascii=False, indent=2)
@@ -258,6 +286,7 @@ def main():
     print(f"Completos (7/7):  {completos}")
     print(f"Con título:       {sum(1 for l in indice['looks'] if l['t'])}")
     print(f"Tamaño índice:    {kb:.1f} KB")
+    print(f"Archivos prompts: {len(prompts)}")
 
     if args.dry_run:
         print("\n--dry-run: no se escribió nada.")
@@ -266,6 +295,15 @@ def main():
     SALIDA_INDICE.parent.mkdir(parents=True, exist_ok=True)
     SALIDA_INDICE.write_text(texto, encoding="utf-8", newline="\n")
     print(f"\nEscrito: {SALIDA_INDICE.relative_to(REPO_ROOT)}")
+
+    for llave, contenido in prompts.items():
+        destino = SALIDA_PROMPTS / f"{llave}.json"
+        destino.parent.mkdir(parents=True, exist_ok=True)
+        destino.write_text(
+            json.dumps(contenido, ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8", newline="\n",
+        )
+    print(f"Escrito: {SALIDA_PROMPTS.relative_to(REPO_ROOT)}/ ({len(prompts)} archivos)")
 
 
 if __name__ == "__main__":
