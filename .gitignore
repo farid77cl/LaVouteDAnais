@@ -68,3 +68,6 @@ graphify-out/cache/
 
 # Chunks de graphify (regenerables por scripts/grafo/save_chunks*.py)
 graphify-out/.graphify_*.json
+
+# Scratch de superpowers (SDD): efímero, nunca se commitea
+.superpowers/
