@@ -19,12 +19,17 @@ def _numero(numero, cfg):
     return cfg.get("formato_numero_archivo", "{n}").format(n=numero)
 
 
-def nombre_archivo(slug_personaje, numero, pose, cfg):
-    """`("ele", 800, "standing", cfg)` -> `"ele_800_standing.png"`."""
+def nombre_archivo(numero, pose, cfg):
+    """(800, "standing", cfg) -> "ele_800_standing.png".
+
+    No recibe el slug del personaje: todo lo suyo viaja en cfg. Un slug
+    aparte que nadie usa dejaría pasar en silencio una llamada con el cfg
+    equivocado, que es la deriva que este módulo existe para impedir.
+    """
     sufijo = cfg["slot5_slug"] if pose == "slot5" else pose
     return f"{cfg['prefijo_archivo']}{_numero(numero, cfg)}_{sufijo}.png"
 
 
-def carpeta_look(slug_personaje, numero, slug_titulo, cfg):
-    """`("ele", 800, "chrome_hooded_column", cfg)` -> carpeta con barra final."""
+def carpeta_look(numero, slug_titulo, cfg):
+    """(800, "chrome_hooded_column", cfg) -> carpeta con barra final."""
     return f"{cfg['carpeta_imagenes']}/{cfg['prefijo_carpeta_look']}{numero}_{slug_titulo}/"
