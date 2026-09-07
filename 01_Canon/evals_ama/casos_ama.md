@@ -61,6 +61,7 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | **C11** | Contraste antes/después que falta | ~5 | no |
 | **C15** | Etiqueta en vez de ejecución («degradación» escrita) | ~3 | **sí — M6 (duro)** |
 | **C16** 🆕 | Registro «poético» — la voz del motor en vez de la suya (02/09) | 2 (+ las 13 notas del Cap 4 v0.3 repartidas arriba) | **parcial — M11/M12** (cursivas, parlamentos largos); el resto es `voz_autoral.md` §8 |
+| **C17** 🆕 | **Firma de máquina — «se nota demasiado que es escrito por IA» (07/09)** | 1 nota suya + 5 tells medidos sobre 48.057 palabras | **sí — M13-M17** (cláusula, dos puntos, símil-molde, recibo, habla real). El **desperdicio** no se mide |
 
 **Lectura:** Temperatura (C1+C5+C6+C9+C12+C14) ≈ **79 correcciones, la mitad**. Prosa robótica (C2+C3+C4+C15+C16) ≈ **45, un cuarto**. La lectura del Cap 4 v0.3 (02/09) sumó 13 notas en 253 líneas: 5 de temperatura/cercanía, 5 de prosa, 2 de causalidad, 1 de contraste — la proporción de siempre, con Loreto ya cableada. Lo que Loreto medía (38 % de cuerpo, 8,5 explícitas) no era lo que ella sentía: **faltaban las medidas de voz** (M11/M12, cableadas ese día). Es exactamente lo que ella nombró el 02/09: *"no logras dar con la temperatura y te pones muy robótica"*. Lo demás (arco, personaje, continuidad, registro) es el cuarto restante.
 
@@ -357,6 +358,30 @@ La prueba que todo párrafo tiene que pasar antes de existir: **¿esto calienta 
 | C16-02 | Café · Cap 4 v0.3 · 02/09 — Declaración | *"me gusta ser descriptiva y sensorial, erotica... usando palabras mas crudas en ciertos momentos, pero la idea en general es hacer sentir al lector que esta ahi"* | **Su definición de voz, literal.** Dueño: `01_Canon/voz_autoral.md` (reescrito ese día sobre sus referencias) |
 
 **Regla operativa C16.** «Poético» = el registro del motor cuando la voz de la casa está delgada: elipsis, aforismo seco como textura, metáfora que hay que descifrar, cuerpo descrito con precisión clínica en vez de nombrado, objetos en vez de piel, dominante que calla. Lo suyo es **descriptivo y sensorial** (la piel, la distancia, el aliento), **hablado** (la dominante al oído), **pensado en cursiva** con la palabra sucia, y **crudo en el pico**. Antes de escribir: `voz_autoral.md` entero. Antes de cerrar: §8 de ese archivo como anti-antología. **Medidor:** M11 (cursivas/1000) y M12 (parlamentos ≥45 palabras) como avisos; H1/H3 recalibrados (2/escena, 6/cap) para no confundir su ritmo con un tell.
+
+---
+
+### C17 · «se está notando demasiado que es escrito por IA» — firma de máquina 🆕 07/09/2026
+
+| ID | Dónde | Sus palabras | Qué había |
+|---|---|---|---|
+| C17-01 | «Café con Piernas» · los 4 capítulos publicados · 07/09 | *"analiza la prosa de los 4 capitulos del café con piernas, dime porque suena rara para mí"* → y al recibir el diagnóstico: *"me referia a la prosa extraña, por que escribe de manera que un humano no lo haria, se esta notando demasiado que es escrito por ia"* | Auditoría con **cinco auditores externos ciegos** sobre 48.057 palabras: `99_Sistema/auditoria_prosa_cafe_con_piernas_20260907.md` |
+
+**Los cinco tells medidos, y por qué ninguno se veía.**
+
+| # | Qué es | Medido en Café | Quién lo mide ahora |
+|---|---|---|---|
+| 1 | **La cláusula congelada.** La respiración mide siempre lo mismo; la variedad de frase se consigue apilando cláusulas idénticas con comas y «y». | media 7,16-7,82 · mediana **6 en los cuatro** · JSD 0,008-0,013 entre capítulos escritos por **modelos distintos** | M13 / H10 |
+| 2 | **Dos puntos revelatorios.** Enunciado neutro : revelación. | **178** en total (2,7-4,9/1000; la prosa española ronda 0,5-1) | M14 / H11 |
+| 3 | **El símil-molde** «como si / como quien». La única figura entra siempre por la misma puerta. | **109** en total | M15 / H12 |
+| 4 | **El recibo de excitación.** El párrafo cierra certificando que se mojó, como el total de una boleta. | **26 en el Cap 4** | M16 / H13 |
+| 5 | **Nadie habla mal.** Cero interrupciones, una marca de duda y tres frases cortadas en **257 parlamentos** (1,6 %). | 0,0 % de habla real en 3 de 4 capítulos | M17 / H14 |
+
+**Y lo que ninguna métrica arregla, dicho por el auditor E y confirmado leyendo el texto:** un modelo **optimiza cada oración hacia el objetivo de la escena**; una persona **desperdicia**. El contraejemplo que los cinco marcaron por separado es el mismo — `capitulo_3:139`, el rato de nada: el troquel corrido de las servilletas *no vuelve, no significa, no calienta, no cierra ningún arco*, y por eso el local existe. También `capitulo_2:23` («*Lo primero que no se fue fue el coco*»): un tropiezo sintáctico que cualquier pasada de modelo habría alisado, y que es justo lo que da la voz.
+
+> ⚠️ **Ojo con el L1/L6 derogado.** Esto **no** reabre el objeto inerte ni el tramo aburrido que la Ama derogó el 02/09. Lo que vuelve no es *frío*: es **desperdicio dentro de lo caliente** — la frase que se corta porque abajo silbó el vaporizador, la palabra repetida tres veces porque es la que hay, el pensamiento que no se retoma. Si el desperdicio enfría, estaba mal puesto.
+
+**Regla operativa C17.** Antes de cerrar el tramo, el Escritor se pregunta lo que se preguntaría la Ama: *¿esta frase la escribió alguien, o la resolvió un modelo?* Tres pruebas concretas: **(1)** ¿varía el largo de la CLÁUSULA, o solo el de la frase? **(2)** ¿hay algún párrafo que termine explicando lo que la escena ya mostró — dos puntos, símil, o comprobante de calentura? **(3)** ¿alguien en este capítulo se interrumpe, titubea o dice una muletilla? Si las tres respuestas son las cómodas, no lo escribió nadie. **`medir_capitulo.py` mide las cinco (M13-M17) y Fase 2.5 corre siempre** — pero la medición es el piso, no el techo: el desperdicio no se mide.
 
 ---
 

@@ -23,7 +23,9 @@ Y la regla que la protege de sí misma:
 
 ---
 
-## PARTE 1 — Los doce tells (qué se saca)
+## PARTE 1 — Los quince tells (qué se saca)
+
+> 🆕 **T13, T14 y T15 nacen el 07/09/2026** de la Ama: *"me refería a la prosa extraña, por qué escribe de manera que un humano no lo haría, se está notando demasiado que es escrito por IA"*. Salen de la auditoría de los cuatro capítulos de «Café con Piernas» con cinco auditores externos ciegos — `99_Sistema/auditoria_prosa_cafe_con_piernas_20260907.md`. **Los tres eran invisibles para este archivo**, que ya tenía doce tells escritos y se leía en cada capítulo.
 
 ### T1 · El tricolon
 La IA enumera de a tres. Es su tic más viejo.
@@ -81,6 +83,24 @@ Todos contestan exactamente lo que se les preguntó, en el orden en que se pregu
 ### T12 · El ritmo uniforme
 Todas las frases entre 12 y 18 palabras.
 - ✅ **Medible:** en cada 500 palabras tiene que existir al menos **una frase de ≤5 palabras** y **una de ≥35**.
+- 🔴 **Corrección 07/09/2026 — la unidad estaba mal elegida.** La respiración no es la oración: es la **cláusula** (lo que va entre coma, punto, punto y coma, dos puntos o raya). Se puede cumplir T12 perfecto y sonar plano igual, encadenando cláusulas de seis palabras con comas y «y» hasta armar una frase de treinta. Es lo que pasó en los cuatro capítulos de «Café con Piernas». **Lo que hay que variar es el largo de la CLÁUSULA, no el de la frase** — H10 (`medir_capitulo.py` M13).
+
+### T13 · Los dos puntos revelatorios 🔴 *(07/09/2026)*
+Enunciado neutro **:** revelación. *"Y no caminó derecho: dio el rodeo largo."* · *"El cuerpo contestó primero: el coño se le cerró."*
+- Es el único tell que sobrevivió a todas las correcciones aplicadas en «Café con Piernas»: **178 en 48.000 palabras**, 2,7-4,9 por mil (la prosa narrativa en español ronda 0,5-1).
+- Invisible de a uno, agotador de a ciento setenta y ocho. Es el golpe de efecto sintáctico del modelo: **siempre la misma cadencia de revelación.**
+- ✅ Se opera con punto seguido, con coma, o borrando la mitad izquierda — casi siempre es andamiaje.
+
+### T14 · El símil-molde «como si / como quien» 🔴 *(07/09/2026)*
+La única figura del texto entra siempre por la misma puerta: **109 en «Café con Piernas»**.
+- *"Le abrió las rodillas como quien abre una carpeta"* · *"como quien cobra un peaje"* · *"como quien camina hacia un tribunal"*.
+- El molde es de **registro culto-escrito** y choca de frente con el chileno oral del diálogo.
+- ✅ Cada gesto tiene que **bastarse**. Si necesita compararse con otro gesto para significar, es que no está bien escrito.
+
+### T15 · El recibo de excitación 🔴 *(07/09/2026)*
+El párrafo cierra **certificando** que se mojó, como el total de una boleta: *"y eso también la mojó"*, *"el número chico la mojó más que la verga"*. **26 casos en un solo capítulo.**
+- Es el caso C1 con otra ropa: la calentura se **informa** en vez de ejecutarse. Y lo informado no calienta a nadie.
+- ✅ El cuerpo responde **dentro** de la escena, mientras pasa, sin frase de cierre que lo resuma.
 
 ---
 
@@ -122,6 +142,15 @@ Humanizar no es solo borrar. La prosa de IA se delata también por **exceso de e
 | H7 | Cadenas de variación elegante (T8) | **0** |
 | H8 | Varianza de frase (T12) | ≥1 frase ≤5 palabras y ≥1 de ≥35, **por cada 500 palabras** |
 | H9 | Lastre vivo (L2 / L4 por escena — L1 y L6 derogados 02/09/2026) | presente |
+| **H10** | **Ritmo de cláusula (T12, unidad corregida)** — `medir_capitulo.py` **M13** | JSD ≥ 0,02 contra los capítulos previos |
+| **H11** | **Dos puntos revelatorios** — M14 | ≤ 1,5 por 1.000 palabras |
+| **H12** | **Símil-molde «como si / como quien»** — M15 | ≤ 1,0 por 1.000 palabras |
+| **H13** | **Recibo de excitación al cierre de párrafo** — M16 | ≤ 2 por capítulo |
+| **H14** | **Habla real en el diálogo (T11, ahora medible)** — M17 | ≥ 10 % de los parlamentos con interrupción o muletilla |
+
+> ⚠️ **Por qué H10 existe y H8 no bastaba (07/09/2026).** H8 mide la **oración**; el defecto vive en la **cláusula**. Medido sobre los cuatro capítulos publicados de «Café con Piernas»: H8 salía verde en tres de cuatro capítulos **mientras la cláusula medía lo mismo en los cuatro** (media 7,16-7,82, mediana 6 en todos, JSD 0,008-0,013 entre ellos). O sea: la variedad de largo de frase era **aparente** — se apilaban cláusulas idénticas con comas y «y» en vez de cambiar la forma de la cláusula. Un chequeo sobre la unidad equivocada pasa en verde sobre el defecto que busca.
+>
+> ⚠️ **Y por qué T11 no tenía métrica.** Estaba escrito desde su nacimiento y nunca se midió: en 257 parlamentos de «Café con Piernas» hay **cero interrupciones**, una marca de duda y tres frases cortadas — 1,6 %. Una regla sin medidor es un recuerdo.
 
 **Veredicto de humanización:**
 - Todos dentro de umbral → ✅ **LIMPIO**

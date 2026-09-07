@@ -21,6 +21,18 @@ lo calibran viven en 01_Canon/evals_ama/casos_ama.md (dueño único de los patro
   M10 Distribución por decil     — dónde corre frío el capítulo                             (T9a)
   M11 Pensamiento en cursiva     — *frases en cursiva* por 1000 palabras                    (voz_autoral.md §3 — referencias 2,3-5,3)
   M12 La dominante habla largo   — parlamentos de diálogo ≥45 palabras                      (voz_autoral.md §4 — referencias 9-32/cap)
+  ── firma de IA (07/09/2026) ──
+  M13 Ritmo de cláusula          — largo de la UNIDAD DE RESPIRACIÓN + clon rítmico vs previos (caso C17)
+  M14 Dos puntos revelatorios    — enunciado neutro : revelación, por 1000 palabras          (caso C17)
+  M15 Símil-molde                — «como si / como quien», por 1000 palabras                 (caso C17)
+  M16 Recibo de excitación       — el párrafo CIERRA certificando la calentura               (caso C17)
+  M17 Habla real en el diálogo   — interrupciones y muletillas por parlamento                (caso C17)
+
+M13-M17 nacen el 07/09/2026 de la Ama: "me refería a la prosa extraña, por qué escribe de manera que un
+humano no lo haría, se está notando demasiado que es escrito por IA". Salen de la auditoría de los cuatro
+capítulos de «Café con Piernas» con cinco auditores externos ciegos (48.057 palabras) —
+99_Sistema/auditoria_prosa_cafe_con_piernas_20260907.md. Ninguna de las cinco la veía ningún control del
+repo. Probadas en 99_Sistema/scripts/literatura/test_medir_capitulo.py (16 tests).
 
 M11/M12 nacen el 02/09/2026 de medir las cinco referencias que la Ama nombró como su estilo contra el Cap 4
 v0.3 rechazado por «poético»: cursivas 0,7/1000 vs 2,3-5,3 · parlamentos largos 0 vs 9-32. Son avisos, no duros.
@@ -500,6 +512,177 @@ def m11_m12_voz(text: str, pars: list[tuple[int, str]], nwords: int) -> dict:
 
 
 # ────────────────────────────────────────────────────────────────────────────
+# M13-M17 · FIRMA DE IA (Ama 07/09/2026)
+#
+#   "me refería a la prosa extraña, por qué escribe de manera que un humano no
+#    lo haría, se está notando demasiado que es escrito por IA"
+#
+# Loreto medía temperatura, repetición y voz. Nunca midió **firma de máquina**.
+# Las cinco medidas de abajo salen de la auditoría del 07/09/2026 sobre los
+# cuatro capítulos publicados de «Café con Piernas» (48.057 palabras, cinco
+# auditores externos ciegos): 99_Sistema/auditoria_prosa_cafe_con_piernas_20260907.md
+#
+# Ninguna de las cinco la veía ningún control del repo.
+# ────────────────────────────────────────────────────────────────────────────
+
+RITMO_JSD_CLON = 0.02          # bajo esto, dos capítulos respiran igual
+RITMO_MIN_CLAUSULAS = 300      # menos que esto no es medible: no se opina
+DOS_PUNTOS_POR_1000 = 1.5      # medido en Café: 2,7-4,9 en los cuatro
+SIMIL_POR_1000 = 1.0           # medido en Café: 1,0-1,8 (109 en total)
+RECIBO_CUPO = 2                # medido en Café: 26 en el Cap 4
+DIALOGO_MIN_PARLAMENTOS = 4
+DIALOGO_DISFLUENCIA_MIN = 0.10  # medido en Café: 4 marcas en 257 parlamentos = 1,6%
+
+RE_CLAUSULA = re.compile(r"[,.;:—…!?()]+")
+# Dos puntos revelatorios: enunciado neutro → dos puntos → revelación. No es la
+# hora (10:20) ni una proporción (1:3).
+RE_DOSPUNTOS = re.compile(r"(?<!\d):(?!\d)")
+# El símil-molde: la única figura del texto entra siempre por la misma puerta.
+RE_SIMIL_MOLDE = re.compile(r"\bcomo\s+(?:si|quien|quienes|el\s+que|la\s+que|los\s+que|las\s+que)\b", re.I)
+# El recibo de excitación: el párrafo cierra CERTIFICANDO la calentura, como el
+# total de una boleta, en vez de ejecutarla dentro de la escena.
+RE_RECIBO = re.compile(
+    r"\b(?:la|le|lo)\s+(?:volvió\s+a\s+)?moj\w*"
+    r"|\bse\s+(?:le\s+)?moj\w*"
+    r"|\b(?:la|le)\s+calent\w*"
+    r"|\ble\s+encendió\b"
+    r"|\bla\s+puso\s+a\s+mil\b", re.I)
+# Habla real: el desorden que un modelo alisa. Interrupción, muletilla chilena,
+# autocorrección. Su ausencia total es la firma.
+RE_DISFLUENCIA = re.compile(
+    r"—\s*$|--\s*$"                                   # parlamento cortado
+    r"|\bpo\b|\bcachai\b|\bwe[oó]n(?:es|á)?\b|\bo\s+sea\b"
+    r"|\bmm+\b|\beh+\b|\beste[…\.]{2,}|\bpucha\b|\bya\s+po\b"
+    r"|\bdigamos\b|\bcomo\s+que\b|\bno\s+sé\s+po\b", re.I)
+
+
+def _clausulas(sents: list[dict]) -> list[int]:
+    """Largos de cláusula de la NARRACIÓN (el diálogo tiene su propia prosodia)."""
+    out = []
+    for s in sents:
+        if s["dial"]:
+            continue
+        for c in RE_CLAUSULA.split(s["text"]):
+            n = len(palabras(c))
+            if n:
+                out.append(n)
+    return out
+
+
+def _hist(lens: list[int], k: int = 25) -> list[float]:
+    h = [0] * (k + 1)
+    for x in lens:
+        h[min(x, k)] += 1
+    s = sum(h) or 1
+    return [v / s for v in h]
+
+
+def _jsd(p: list[float], q: list[float]) -> float:
+    import math
+    m = [(a + b) / 2 for a, b in zip(p, q)]
+
+    def kl(a, b):
+        return sum(x * math.log2(x / y) for x, y in zip(a, b) if x > 0 and y > 0)
+
+    return 0.5 * kl(p, m) + 0.5 * kl(q, m)
+
+
+def m13_ritmo_clausula(sents: list[dict], previos_sents: list[list[dict]]) -> dict:
+    """M13 · La cláusula es la unidad de respiración; si mide siempre lo mismo, la
+    variedad de la ORACIÓN es falsa (se apilan ladrillos idénticos con comas y «y»).
+
+    Medido en «Café con Piernas»: media 7,45-8,01 y mediana 6-7 en los cuatro
+    capítulos, escritos por modelos distintos, con JSD 0,008-0,023 entre ellos."""
+    L = _clausulas(sents)
+    L_ord = sorted(L)
+    n = len(L)
+    mediana = L_ord[n // 2] if n else 0
+    jsds = []
+    if n >= RITMO_MIN_CLAUSULAS:
+        p = _hist(L)
+        for prev in previos_sents:
+            Q = _clausulas(prev)
+            if len(Q) >= RITMO_MIN_CLAUSULAS:
+                jsds.append(round(_jsd(p, _hist(Q)), 4))
+    medible = bool(jsds)
+    jsd_min = min(jsds) if jsds else None
+    return {
+        "n": n,
+        "media": round(sum(L) / n, 2) if n else 0.0,
+        "mediana": mediana,
+        "p_hasta3": round(100 * sum(1 for x in L if x <= 3) / n, 1) if n else 0.0,
+        "p_15_o_mas": round(100 * sum(1 for x in L if x >= 15) / n, 1) if n else 0.0,
+        "histograma": [["1-3", sum(1 for x in L if x <= 3)],
+                       ["4-6", sum(1 for x in L if 4 <= x <= 6)],
+                       ["7-9", sum(1 for x in L if 7 <= x <= 9)],
+                       ["10-14", sum(1 for x in L if 10 <= x <= 14)],
+                       ["15+", sum(1 for x in L if x >= 15)]],
+        "jsd": jsds,
+        "jsd_min": jsd_min,
+        "medible": medible,
+        "clon_ritmico": bool(medible and jsd_min is not None and jsd_min < RITMO_JSD_CLON),
+    }
+
+
+def m14_dos_puntos(sents: list[dict]) -> list[dict]:
+    """M14 · Dos puntos revelatorios en narración. 178 en «Café con Piernas»; es el
+    único tic que sobrevivió a todas las correcciones aplicadas hasta el 07/09/2026."""
+    out = []
+    for s in sents:
+        if s["dial"]:
+            continue
+        for _ in RE_DOSPUNTOS.finditer(s["text"]):
+            out.append({"linea": s["linea"], "texto": excerpt(s["text"], 150)})
+    return out
+
+
+def m15_simil_molde(sents: list[dict]) -> list[dict]:
+    """M15 · «como si / como quien / como el que». 109 en «Café con Piernas».
+    Cuando la única figura del texto entra siempre por la misma puerta, el oído la
+    empieza a oír como puntuación y no como imagen."""
+    out = []
+    for s in sents:
+        for m in RE_SIMIL_MOLDE.finditer(s["text"]):
+            out.append({"linea": s["linea"], "molde": m.group(0).lower(),
+                        "texto": excerpt(s["text"], 150)})
+    return out
+
+
+def m16_recibo_excitacion(pars: list[tuple[int, str]]) -> list[dict]:
+    """M16 · El párrafo cierra certificando que se mojó, como el total de una boleta.
+    26 casos en el Cap 4 de «Café con Piernas». La calentura se EJECUTA dentro de la
+    escena; certificarla al final es informarla, y lo informado no calienta."""
+    out = []
+    for ln, p in pars:
+        if p == "***" or es_dialogo(p):
+            continue
+        cls = [c for c in RE_CLAUSULA.split(p) if palabras(c)]
+        if not cls:
+            continue
+        ultima = cls[-1]
+        if RE_RECIBO.search(ultima):
+            out.append({"linea": ln, "cierre": excerpt(ultima, 120)})
+    return out
+
+
+def m17_disfluencia(pars: list[tuple[int, str]]) -> dict:
+    """M17 · Nadie habla mal. En «Café con Piernas»: 0 interrupciones, 1 marca de duda
+    y 3 frases cortadas en 257 parlamentos. El habla real se atropella; su ausencia
+    total es lo que delata que los parlamentos los escribió una máquina."""
+    parl = [(ln, p) for ln, p in pars if p != "***" and es_dialogo(p)]
+    con = [(ln, p) for ln, p in parl if RE_DISFLUENCIA.search(p)]
+    n = len(parl)
+    ratio = (len(con) / n) if n else 0.0
+    return {
+        "parlamentos": n,
+        "con_disfluencia": len(con),
+        "ratio": round(100 * ratio, 1),
+        "muestra": [{"linea": ln, "texto": excerpt(p, 110)} for ln, p in con[:5]],
+        "marca": bool(n >= DIALOGO_MIN_PARLAMENTOS and ratio < DIALOGO_DISFLUENCIA_MIN),
+    }
+
+
+# ────────────────────────────────────────────────────────────────────────────
 # Reporte
 # ────────────────────────────────────────────────────────────────────────────
 
@@ -536,6 +719,30 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
     var = m8_varianza(sents)
     dist = m9_m10(sents)
     voz = m11_m12_voz(text, pars, nwords)
+    # M13-M17 · firma de IA. Los capítulos previos se re-parsean para comparar RITMO,
+    # no palabras: dos capítulos pueden no compartir una frase y respirar idéntico.
+    previos_sents = []
+    for pv in previos:
+        tp = cargar(pv)
+        sp = []
+        for lnp, pp in parrafos_con_linea(tp):
+            if pp == "***":
+                continue
+            for sp_ in oraciones(pp):
+                wsp = palabras(sp_)
+                if wsp:
+                    sp.append({"text": sp_, "words": wsp, "linea": lnp, "escena": 1,
+                               "hot": False, "dial": es_dialogo(sp_)})
+        previos_sents.append(sp)
+    firma = {
+        "ritmo": m13_ritmo_clausula(sents, previos_sents),
+        "dos_puntos": m14_dos_puntos(sents),
+        "simil": m15_simil_molde(sents),
+        "recibo": m16_recibo_excitacion(pars),
+        "dialogo": m17_disfluencia(pars),
+    }
+    firma["dos_puntos_por_1000"] = round(len(firma["dos_puntos"]) * 1000 / max(nwords, 1), 2)
+    firma["simil_por_1000"] = round(len(firma["simil"]) * 1000 / max(nwords, 1), 2)
 
     duros = []
     clones_duros = [c for c in clones if c["duro"]]
@@ -591,6 +798,18 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
         blandos.append(f"M11 voz: pensamiento en cursiva {voz['cursivas_por_1000']}/1000 (referencias de la Ama 2,3-5,3 — voz_autoral.md §3)")
     if voz["largos_total"] < VOZ_LARGOS_MIN:
         blandos.append(f"M12 voz: solo {voz['largos_total']} parlamento(s) de ≥{VOZ_LARGO_PALABRAS} palabras — la dominante no habla largo (referencias 9-32/cap — voz_autoral.md §4)")
+    # ── firma de IA (07/09/2026) ──
+    rit = firma["ritmo"]
+    if rit["clon_ritmico"]:
+        blandos.append(f"M13 firma: el ritmo de cláusula es el mismo del capítulo previo (JSD {rit['jsd_min']} < {RITMO_JSD_CLON}) — la variedad de frase es falsa, se apilan ladrillos iguales")
+    if firma["dos_puntos_por_1000"] > DOS_PUNTOS_POR_1000:
+        blandos.append(f"M14 firma: dos puntos revelatorios {firma['dos_puntos_por_1000']}/1000 (cupo {DOS_PUNTOS_POR_1000}; ×{len(firma['dos_puntos'])}) — enunciado neutro + dos puntos + revelación")
+    if firma["simil_por_1000"] > SIMIL_POR_1000:
+        blandos.append(f"M15 firma: símil-molde «como si/como quien» {firma['simil_por_1000']}/1000 (cupo {SIMIL_POR_1000}; ×{len(firma['simil'])}) — la única figura entra siempre por la misma puerta")
+    if len(firma["recibo"]) > RECIBO_CUPO:
+        blandos.append(f"M16 firma: {len(firma['recibo'])} recibo(s) de excitación al cierre de párrafo (cupo {RECIBO_CUPO}) — la calentura se ejecuta, no se certifica")
+    if firma["dialogo"]["marca"]:
+        blandos.append(f"M17 firma: solo {firma['dialogo']['ratio']}% de {firma['dialogo']['parlamentos']} parlamentos tiene habla real (interrupción/muletilla) — nadie habla mal, y hablar mal es lo que suena a persona")
 
     return {
         "archivo": str(path), "palabras": nwords, "frases": len(sents), "escenas": escena,
@@ -599,6 +818,7 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
         "m1_ngramas": rep, "m1_tics": tics_cortos, "m1_frases": frases_rep, "m2_clones": clones, "m2_similares": similares,
         "m3": lex, "m4_frios": frios, "m4_share_caliente": hot_share, "m4_share_dialogo": dial_share,
         "m6": etiq, "m7": tics, "m7_remates": remates, "m8": var, "m9m10": dist, "m11m12": voz,
+        "m13_m17": firma,
     }
 
 
@@ -729,6 +949,43 @@ def render(r: dict) -> str:
     else:
         L.append("Cumple en todas las ventanas. ✅")
     L.append("")
+
+    # M13-M17 · firma de IA
+    f = r.get("m13_m17", {})
+    if f:
+        rit, dia = f["ritmo"], f["dialogo"]
+        L.append("## 🤖 M13-M17 · FIRMA DE IA — «que no se note que lo escribió una máquina» (Ama 07/09/2026)")
+        L.append("")
+        L.append("### M13 · Ritmo de cláusula (la unidad de respiración, no la oración)")
+        L.append(f"- {rit['n']} cláusulas de narración · media **{rit['media']}** · mediana **{rit['mediana']}** · ≤3 palabras {rit['p_hasta3']}% · ≥15 palabras {rit['p_15_o_mas']}%")
+        L.append("- histograma: " + " · ".join(f"{b}: {n}" for b, n in rit["histograma"]))
+        if rit["clon_ritmico"]:
+            L.append(f"- 🔴 **clon rítmico**: JSD {rit['jsd_min']} contra un capítulo previo (umbral {RITMO_JSD_CLON}). "
+                     "Este capítulo respira igual que el anterior: la variedad de largo de frase es aparente — "
+                     "se apilan cláusulas idénticas con comas y «y» en vez de cambiar la forma de la cláusula.")
+        elif rit["medible"]:
+            L.append(f"- ✅ ritmo propio (JSD {rit['jsd_min']} ≥ {RITMO_JSD_CLON})")
+        else:
+            L.append("- (sin capítulo previo con muestra suficiente: el clon rítmico no se mide)")
+        L.append("")
+        L.append(f"### M14 · Dos puntos revelatorios — ×{len(f['dos_puntos'])} ({f['dos_puntos_por_1000']}/1000, cupo {DOS_PUNTOS_POR_1000})")
+        L += [f"- L{x['linea']}: {x['texto']}" for x in f["dos_puntos"][:8]] or ["- ninguno ✅"]
+        L.append("")
+        L.append(f"### M15 · Símil-molde «como si / como quien» — ×{len(f['simil'])} ({f['simil_por_1000']}/1000, cupo {SIMIL_POR_1000})")
+        L += [f"- L{x['linea']} «{x['molde']}»: {x['texto']}" for x in f["simil"][:8]] or ["- ninguno ✅"]
+        L.append("")
+        L.append(f"### M16 · Recibo de excitación al cierre de párrafo — ×{len(f['recibo'])} (cupo {RECIBO_CUPO})")
+        L += [f"- L{x['linea']}: …{x['cierre']}" for x in f["recibo"][:8]] or ["- ninguno ✅"]
+        L.append("")
+        L.append(f"### M17 · Habla real en el diálogo — {dia['con_disfluencia']}/{dia['parlamentos']} parlamentos ({dia['ratio']}%)")
+        if dia["marca"]:
+            L.append(f"- 🔴 bajo el piso de {int(DIALOGO_DISFLUENCIA_MIN * 100)}%: nadie se interrumpe, nadie titubea, nadie usa muletilla. "
+                     "Todos terminan sus frases con la sintaxis ordenada — y hablar mal es lo que hace que un diálogo suene a persona.")
+        else:
+            L.append("- ✅ el diálogo se atropella como se atropella el habla")
+        L += [f"  - L{x['linea']}: {x['texto']}" for x in dia["muestra"]]
+        L.append("")
+
     L.append("---")
     L.append("*Salida efímera de `99_Sistema/scripts/literatura/medir_capitulo.py`. Los patrones que mide viven en `01_Canon/evals_ama/casos_ama.md`.*")
     return "\n".join(L)
