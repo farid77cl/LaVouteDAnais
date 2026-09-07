@@ -1,0 +1,49 @@
+name: Regenerar índice de LV-App
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '00_Ele/galeria_outfits.md'
+      - '02_Personajes/01_Principales/miss_doll/GALERIA_OUTFITS_MISS_DOLL.md'
+      - '02_Personajes/01_Principales/anais/galeria_looks_anais.md'
+      - '05_Imagenes/**'
+      - '99_Sistema/scripts/visual/generar_app_index.py'
+      - '99_Sistema/scripts/visual/galeria_parser.py'
+      - '99_Sistema/scripts/visual/nombres_canonicos.py'
+      - '99_Sistema/scripts/visual/anclas_universales.json'
+
+permissions:
+  contents: write
+
+jobs:
+  regenerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Pruebas del generador
+        run: |
+          pip install pytest
+          python -m pytest 99_Sistema/scripts/visual/test_galeria_parser.py \
+                           99_Sistema/scripts/visual/test_nombres_canonicos.py \
+                           99_Sistema/scripts/visual/test_generar_app_index.py -v
+
+      - name: Generar
+        run: python 99_Sistema/scripts/visual/generar_app_index.py
+
+      - name: Commitear si cambió
+        run: |
+          git config user.name  "Ele de Anaïs"
+          git config user.email "Ele.de.Anais@proton.me"
+          git add app/index.json app/prompts
+          if git diff --cached --quiet; then
+            echo "El índice no cambió."
+          else
+            git commit -m "Ele: indice regenerado automaticamente"
+            git push
+          fi
