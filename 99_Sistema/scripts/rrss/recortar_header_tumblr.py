@@ -82,6 +82,10 @@ def main():
                     help="donde se apoya la banda. 'arriba' protege la cabeza y es el default a proposito")
     ap.add_argument("--desde", type=float, default=0.0,
                     help="con --anclaje fraccion: borde superior de la banda como fraccion del alto (0.0-1.0)")
+    ap.add_argument("--recorte-lateral", type=int, default=0, metavar="PX",
+                    help="quita PX de cada costado ANTES de calcular la banda. Sirve para comerse el "
+                         "marco de viñeta que el BLOQUE ESTILO obliga a dibujar: un header con borde "
+                         "impreso a un lado y cortado al otro se ve mal")
     ap.add_argument("--ancho-final", type=int, default=None,
                     help="si se pasa, reescala la banda a este ancho conservando la proporcion")
     ap.add_argument("--salida", default=None, help="ruta de salida (por defecto <entrada>_<ratio>.png)")
@@ -94,7 +98,11 @@ def main():
         sys.exit("--ratio tiene que ser mayor que 0")
 
     with Image.open(src) as im:
-        ancho, alto = im.size
+        ancho_src, alto = im.size
+        lat = max(0, args.recorte_lateral)
+        if 2 * lat >= ancho_src:
+            sys.exit("--recorte-lateral %d se come la imagen entera (ancho %d)" % (lat, ancho_src))
+        ancho = ancho_src - 2 * lat
         alto_banda = int(round(ancho / args.ratio))
 
         if alto_banda > alto:
@@ -108,14 +116,16 @@ def main():
         print("=" * 66)
         print("RECORTE DE HEADER — %s" % src.name)
         print("=" * 66)
-        print("  origen        : %d x %d  (ratio %.3f)" % (ancho, alto, ancho / alto))
+        print("  origen        : %d x %d  (ratio %.3f)" % (ancho_src, alto, ancho_src / alto))
+        if lat:
+            print("  recorte lat.  : %d px por lado  ->  ancho util %d" % (lat, ancho))
         print("  banda pedida  : ratio %.3f  ->  %d x %d" % (args.ratio, ancho, alto_banda))
         print("  anclaje       : %s" % args.anclaje)
         print("  corte en Y    : %d .. %d   (se descarta %d px arriba y %d px abajo)"
               % (y0, y1, y0, alto - y1))
         print("  conserva      : %.1f%% del alto original" % (100.0 * alto_banda / alto))
 
-        out = im.crop((0, y0, ancho, y1))
+        out = im.crop((lat, y0, lat + ancho, y1))
 
         if args.ancho_final:
             nuevo_alto = int(round(args.ancho_final / args.ratio))

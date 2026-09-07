@@ -224,11 +224,28 @@ números** — [`99_Sistema/scripts/rrss/recortar_header_tumblr.py`](../scripts/
 Su anclaje por defecto es **arriba** y no al centro, por el criterio que sale de estas tres rondas:
 **una cabeza cortada arruina un header; unos pies cortados no los echa de menos nadie.**
 
+**Ejecutado el 07/09/2026 sobre el header real.** Medido antes de cortar: la figura ocupa
+**y 53..730 de 768 = 88% del alto**, así que una banda centrada le corta la cabeza — confirmado con
+números, no a ojo. El corte que quedó:
+
 ```bash
-python 99_Sistema/scripts/rrss/recortar_header_tumblr.py 05_Imagenes/blog_tumblr/header_lavoutedeanais_v1.png --ratio 2.844 --ancho-final 3000
+python 99_Sistema/scripts/rrss/recortar_header_tumblr.py 05_Imagenes/blog_tumblr/header_lavoutedeanais_v1.jpg   --ratio 2.844 --recorte-lateral 24 --anclaje fraccion --desde 0.0508 --ancho-final 3000   --salida 05_Imagenes/blog_tumblr/header_lavoutedeanais_v1_tumblr.jpg
 ```
 
-(2.844 y 3000 px son la medida que recomienda Tumblr: **3000 × 1055**.)
+- `--ratio 2.844` + `--ancho-final 3000` = la medida que recomienda Tumblr, **3000 × 1055**.
+- `--recorte-lateral 24` se come el **marco de viñeta** que el BLOQUE ESTILO obliga a dibujar. Sin
+  eso el header sale con borde impreso a los costados y cortado arriba y abajo, que se ve peor que
+  no tener marco.
+- `--desde 0.0508` apoya la banda **14 px sobre su pelo**: cabeza entera, y se pierden los pies y el
+  piso vacío. Conserva el 60,8% del alto.
+
+**Piezas del blog, con sus rutas:**
+
+| Pieza | Archivo | Medida |
+|---|---|---|
+| Avatar | `05_Imagenes/blog_tumblr/avatar_lavoutedeanais_v1.jpg` | 1024 × 1024 |
+| Header (fuente 16:9) | `05_Imagenes/blog_tumblr/header_lavoutedeanais_v1.jpg` | 1376 × 768 |
+| **Header para subir** | `05_Imagenes/blog_tumblr/header_lavoutedeanais_v1_tumblr.jpg` | **3000 × 1055** |
 
 ---
 
