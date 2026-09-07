@@ -79,8 +79,12 @@ RE_SUCESOR = re.compile(
     r"[\w./-]+\.md|_perfiles_visuales|outfit-engine|memoria_sesiones|vive ahora|reemplaza")
 
 # Salidas de script que SI deben viajar en git: son navegacion o insumo de LV-App.
+# `99_Sistema/app_index.json` (LV-App 2.0, murio 27/07/2026) esta borrado —
+# lo reemplaza `app/` (indice + prompts por look de `generar_app_index.py`,
+# 07/09/2026), que se excepciona entero por la misma razon: regenerable pero
+# es el insumo real de la app.
 REGENERABLES_QUE_VIAJAN = re.compile(
-    r"(^|/)readme\.md$|galeria_|app_index\.json|_index\.md$", re.I)
+    r"(^|/)readme\.md$|galeria_|^app/|_index\.md$", re.I)
 
 RE_LINK = re.compile(r"\]\(([^)\s]+)\)")
 

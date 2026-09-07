@@ -292,6 +292,12 @@ def main():
         print("\n--dry-run: no se escribió nada.")
         return
 
+    if kb > 2048:
+        raise SystemExit(
+            f"El índice pesa {kb:.1f} KB, sobre el techo de 2 MB del spec §2.1.\n"
+            "Partirlo por personaje antes de que la app lo consuma."
+        )
+
     SALIDA_INDICE.parent.mkdir(parents=True, exist_ok=True)
     SALIDA_INDICE.write_text(texto, encoding="utf-8", newline="\n")
     print(f"\nEscrito: {SALIDA_INDICE.relative_to(REPO_ROOT)}")
