@@ -3,7 +3,7 @@
 """
 generar_app_index.py
 ====================
-Genera `99_Sistema/app_index.json` — el índice que consume LV-App 2.0.
+Genera `app/index.json` — el índice que consume LV-App-3.
 
 POR QUÉ EXISTE (decisión de la Ama, 27/07/2026):
     La app NO clona el repo. Un `git clone --depth 1` de LaVouteDAnais son
@@ -17,203 +17,196 @@ FUENTE DE VERDAD:
     no existe para la app, que es exactamente el criterio correcto: la app
     lee del repo remoto.
 
-POSES CANÓNICAS:
-    standing · back_view · seated · side_profile · ditzy · pov · odalisque
-    Se normalizan alias y formatos viejos (`pose5_ditzy`, `_2`, `back`,
-    `profile`) con la misma lógica que el PoseMatcher de la app.
+TRES MUÑECAS:
+    Ele, Miss Doll y Anaïs comparten este índice. Cada una numera distinto
+    (`ele_800_`, `miss_doll_10_`, `anais_L09_`) y esa diferencia vive en
+    `nombres_canonicos.py`, no aquí. El parseo de galería vive en
+    `galeria_parser.py`. Este módulo solo junta las dos piezas por personaje
+    y escribe el JSON — no reimplementa ninguna de las dos.
 
-PORTADA JERÁRQUICA:
-    Standing > Side Profile > Seated > primera disponible.
+POSES CANÓNICAS (orden fijo, es también la prioridad de portada):
+    standing · back_view · seated · side_profile · slot5 · pov · odalisque
+    La quinta pose se llama distinto por personaje (Ditzy / Glacial Command /
+    Sovereign Gaze); en el índice viaja siempre como `slot5` — el nombre
+    bonito vive una sola vez, en la cabecera de `personajes`.
+
+CADA LOOK DECLARA LAS 7 POSES, TENGA O NO IMAGEN:
+    La app sube con el nombre que el índice le dicta y deja de inventarlo:
+    `img[pose] = {"a": nombre_archivo, "hay": bool}`.
 
 Uso:
     python 99_Sistema/scripts/visual/generar_app_index.py
     python 99_Sistema/scripts/visual/generar_app_index.py --dry-run
     python 99_Sistema/scripts/visual/generar_app_index.py --pretty   # legible, pesa más
 """
+from __future__ import annotations
 
 import argparse
 import json
 import re
 import subprocess
 import sys
+import unicodedata
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
+sys.path.insert(0, str(Path(__file__).parent))
+
+import galeria_parser  # noqa: E402
+import nombres_canonicos  # noqa: E402
+
 REPO_ROOT = Path(__file__).resolve().parents[3]
-SALIDA = REPO_ROOT / "99_Sistema" / "app_index.json"
-GALERIA = REPO_ROOT / "00_Ele" / "galeria_outfits.md"
+SALIDA_INDICE = REPO_ROOT / "app" / "index.json"
+SALIDA_PROMPTS = REPO_ROOT / "app" / "prompts"
 
-RAW_BASE = "https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/"
+POSES_CANON = galeria_parser.POSES_CANON
 
-# Orden canónico. El índice es también la prioridad de portada para las 3 primeras.
-POSES_CANON = [
-    "standing",
-    "side_profile",
-    "seated",
-    "back_view",
-    "ditzy",
-    "pov",
-    "odalisque",
-]
-PRIORIDAD_PORTADA = ["standing", "side_profile", "seated"]
-
-# Alias → canónica. Cubre lo que sube la app (back/profile), el español y
-# los nombres viejos de la flota histórica.
-ALIAS = {
-    "back": "back_view",
-    "backview": "back_view",
-    "espalda": "back_view",
-    "profile": "side_profile",
-    "sideprofile": "side_profile",
-    "perfil": "side_profile",
-    "sentada": "seated",
-    "frontal": "standing",
-    "depie": "standing",
-    "acostada": "odalisque",
-    "odalisca": "odalisque",
-}
-
-# `05_Imagenes/ele/look675_slug/ele_675_standing.png`
-RE_RUTA_ELE = re.compile(r"^05_Imagenes/ele/look(\d+)_([^/]+)/(.+\.png)$", re.IGNORECASE)
-# `## Look 221: Título (21/05/2026 — batch 221-230 · Pin-Up ...)`
-# Muchos headings llevan emoji delante (`## 👰 Look 200: ...`), así que se
-# admite cualquier cosa entre `##` y `Look`.
-# La fecha y el paréntesis de metadata NO siempre están: el título se captura
-# igual y la fecha queda en None cuando falta.
+# `## 👗 Look 800: Título (05/09/2026 · batch 796-800)` — el mismo heading
+# que reconoce galeria_parser, usado aquí solo para leer la fecha del
+# paréntesis (campo `meta` de parse_como_la_app).
 RE_HEADING = re.compile(r"^#{2,3}\s*\S*\s*Look (\d+):\s*(.+?)\s*$")
 RE_FECHA = re.compile(r"\((\d{2}/\d{2}/\d{4})")
 
 
-def archivos_trackeados():
-    """Lista de PNG de Ele según git. Falla ruidosamente si git no responde."""
-    out = subprocess.run(
-        ["git", "-C", str(REPO_ROOT), "ls-files", "05_Imagenes/ele/"],
-        capture_output=True,
-        text=True,
-        encoding="utf-8",
-        errors="replace",
-    )
-    if out.returncode != 0:
-        raise SystemExit(f"git ls-files falló:\n{out.stderr}")
-    return [l for l in out.stdout.splitlines() if l.lower().endswith(".png")]
+def pose_canonica(nombre_archivo, numero_look, cfg):
+    """`ele_800_standing.png` → `standing`. `miss_doll_10_glacial_command.png` → `slot5`.
 
-
-def pose_canonica(nombre_archivo, numero_look):
-    """`ele_675_back.png` → `back_view`. Devuelve None si no reconoce la pose."""
+    Devuelve None si no reconoce la pose. Cuando el tallo resuelto coincide
+    con `cfg["slot5_slug"]` de este personaje, devuelve `"slot5"` — la
+    quinta pose se llama distinto por muñeca y en el índice viaja siempre
+    bajo esa única llave.
+    """
     tallo = Path(nombre_archivo).stem.lower()
-    # Prefijo del personaje + número: `ele_675_`, y también `helena_001_`
-    # (la era pre-V3.5 archivada; sus archivos siguen en el repo).
-    tallo = re.sub(rf"^[a-z]+[_-]0*{numero_look}[_-]", "", tallo)
+    # Prefijo del personaje + número: `ele_800_`, `miss_doll_10_`, `anais_L09_`.
+    tallo = re.sub(rf"^[a-z_]+[_-]0*{numero_look}[_-]", "", tallo)
     tallo = re.sub(r"^pose\d+[_-]", "", tallo)                   # legado pose5_ditzy
     tallo = re.sub(r"[_-](\d+|v\d+)$", "", tallo)                # sufijos _2 / _v1
     tallo = tallo.strip("_-")
 
+    if tallo == cfg.get("slot5_slug"):
+        return "slot5"
     if tallo in POSES_CANON:
         return tallo
-    plano = tallo.replace("_", "").replace("-", "")
-    if plano in ALIAS:
-        return ALIAS[plano]
-    if tallo in ALIAS:
-        return ALIAS[tallo]
-    # Último recurso: la pose aparece embebida (`ele_159_pose5_ditzy_final`)
-    for canon in POSES_CANON:
-        if canon.replace("_", "") in plano:
-            return canon
     return None
 
 
-def titulos_de_galeria():
-    """{numero_look: (titulo, fecha)} leído de galeria_outfits.md (19 MB, streaming)."""
-    titulos = {}
-    if not GALERIA.exists():
-        return titulos
-    with GALERIA.open(encoding="utf-8") as f:
-        for linea in f:
-            # Filtro barato antes del regex, pero SIN exigir `## Look` literal:
-            # muchos headings llevan emoji en medio (`## 👰 Look 200:`).
-            if not (linea.startswith("#") and "Look" in linea):
-                continue
-            m = RE_HEADING.match(linea)
-            if not m:
-                continue
-            crudo = m.group(2)
-            fecha_m = RE_FECHA.search(crudo)
-            # El título es lo que va antes del paréntesis de metadata.
-            titulo = crudo.split("(")[0].strip(" —-·") if "(" in crudo else crudo.strip()
-            titulos[int(m.group(1))] = (titulo, fecha_m.group(1) if fecha_m else None)
-    return titulos
+def _slug_titulo(t):
+    if not t:
+        return ""
+    s = "".join(c for c in unicodedata.normalize("NFD", t) if unicodedata.category(c) != "Mn")
+    s = s.lower()
+    return re.sub(r"[^a-z0-9]+", "_", s).strip("_")
 
 
-def construir():
-    titulos = titulos_de_galeria()
+def _fecha_de(meta):
+    if not meta:
+        return None
+    m = RE_FECHA.search(meta)
+    return m.group(1) if m else None
 
-    por_look = defaultdict(lambda: {"carpeta": None, "poses": {}, "extras": 0})
-    sin_reconocer = []
 
-    for ruta in archivos_trackeados():
-        m = RE_RUTA_ELE.match(ruta)
+def imagenes_trackeadas(slug, cfg):
+    """{numero_look: {pose_canonica: nombre_archivo}} desde git ls-files."""
+    out = subprocess.run(
+        ["git", "-C", str(REPO_ROOT), "ls-files", cfg["carpeta_imagenes"] + "/"],
+        capture_output=True, text=True, encoding="utf-8", errors="replace",
+    )
+    if out.returncode != 0:
+        raise SystemExit(f"git ls-files falló para {slug}:\n{out.stderr}")
+
+    patron = re.compile(
+        rf"^{re.escape(cfg['carpeta_imagenes'])}/{cfg['prefijo_carpeta_look']}(\d+)_[^/]+/(.+\.png)$",
+        re.IGNORECASE,
+    )
+    por_look = defaultdict(dict)
+    for ruta in out.stdout.splitlines():
+        if not ruta.lower().endswith(".png"):
+            continue
+        m = patron.match(ruta)
         if not m:
             continue
         numero = int(m.group(1))
-        entrada = por_look[numero]
-        entrada["carpeta"] = f"05_Imagenes/ele/look{m.group(1)}_{m.group(2)}/"
+        pose = pose_canonica(m.group(2), numero, cfg)
+        if pose:
+            # Dos archivos para la misma pose: gana el primero alfabético.
+            # Los `_2` son reintentos, no la toma buena.
+            por_look[numero].setdefault(pose, Path(ruta).name)
+    return dict(por_look)
 
-        pose = pose_canonica(m.group(3), numero)
-        if pose is None:
-            entrada["extras"] += 1
-            sin_reconocer.append(ruta)
-            continue
-        # Si hay dos archivos para la misma pose, gana el primero (alfabético):
-        # los `_2` son reintentos, no la toma buena.
-        entrada["poses"].setdefault(pose, Path(ruta).name)
 
+def construir_indice(cfg_personajes, imagenes_por_personaje, galerias):
+    """El JSON completo del índice. No toca disco ni git a propósito:
+    recibe todo por parámetro, así que se puede probar con fixtures sin
+    montar un repo falso.
+    """
     looks = []
-    for numero in sorted(por_look):
-        entrada = por_look[numero]
-        poses = entrada["poses"]
-        if not poses:
-            continue
+    cabecera_personajes = {}
 
-        portada = next((p for p in PRIORIDAD_PORTADA if p in poses), None)
-        if portada is None:
-            portada = next(p for p in POSES_CANON if p in poses)
+    for slug, cfg in cfg_personajes.items():
+        cabecera_personajes[slug] = {
+            "nombre": cfg["nombre"],
+            "slot5": cfg["slot5_nombre"],
+            "carpeta": cfg["carpeta_imagenes"],
+        }
+        imagenes = imagenes_por_personaje.get(slug, {})
+        for parsed in galeria_parser.parse_como_la_app(galerias[slug], cfg["slot5_nombre"]):
+            numero = parsed["num"]
+            presentes = imagenes.get(numero, {})
+            img = {}
+            for pose in POSES_CANON:
+                nombre = presentes.get(pose) or nombres_canonicos.nombre_archivo(numero, pose, cfg)
+                img[pose] = {"a": nombre, "hay": pose in presentes}
 
-        titulo, fecha = titulos.get(numero, (None, None))
-        looks.append(
-            {
+            carpeta = parsed["ubicacion"] or nombres_canonicos.carpeta_look(
+                numero, _slug_titulo(parsed["titulo"]), cfg)
+            portada = next((p for p in ("standing", "side_profile", "seated") if img[p]["hay"]), None)
+            if portada is None:
+                portada = next((p for p in POSES_CANON if img[p]["hay"]), "standing")
+
+            looks.append({
+                "p": slug,
                 "n": numero,
-                "t": titulo,
-                "f": fecha,
-                "d": entrada["carpeta"],
-                # {pose: nombre_archivo} — la app arma la URL con raw + d + archivo
-                "p": {k: poses[k] for k in POSES_CANON if k in poses},
+                "t": parsed["titulo"] or None,
+                "f": _fecha_de(parsed["meta"]),
+                "d": carpeta if carpeta.endswith("/") else carpeta + "/",
+                "img": img,
                 "c": portada,
-                "np": len(poses),
-                "x": entrada["extras"],
-            }
-        )
+                "np": sum(1 for p in POSES_CANON if img[p]["hay"]),
+            })
 
+    looks.sort(key=lambda l: (l["p"], l["n"]))
     return {
-        "v": 1,
+        "v": 2,
         "generado": date.today().isoformat(),
-        "raw": RAW_BASE,
         "poses": POSES_CANON,
-        "total_looks": len(looks),
-        "total_imagenes": sum(l["np"] for l in looks),
+        "personajes": cabecera_personajes,
         "looks": looks,
-    }, sin_reconocer
+    }
+
+
+def _cargar():
+    cfg = json.loads(
+        (Path(__file__).parent / "anclas_universales.json").read_text(encoding="utf-8")
+    )["personajes"]
+    galerias = {
+        slug: (REPO_ROOT / c["galeria"]).read_text(encoding="utf-8")
+        for slug, c in cfg.items()
+    }
+    imagenes = {slug: imagenes_trackeadas(slug, c) for slug, c in cfg.items()}
+    return cfg, galerias, imagenes
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Genera el índice que consume LV-App 2.0.")
+    ap = argparse.ArgumentParser(description="Genera el índice que consume LV-App-3.")
     ap.add_argument("--dry-run", action="store_true", help="no escribe, solo reporta")
     ap.add_argument("--pretty", action="store_true", help="JSON indentado (pesa más)")
     args = ap.parse_args()
 
-    indice, sin_reconocer = construir()
+    cfg, galerias, imagenes = _cargar()
+    indice = construir_indice(cfg, imagenes, galerias)
 
     if args.pretty:
         texto = json.dumps(indice, ensure_ascii=False, indent=2)
@@ -221,27 +214,22 @@ def main():
         texto = json.dumps(indice, ensure_ascii=False, separators=(",", ":"))
 
     kb = len(texto.encode("utf-8")) / 1024
-    completos = sum(1 for l in indice["looks"] if l["np"] == 7)
+    completos = sum(1 for l in indice["looks"] if l["np"] == len(POSES_CANON))
 
-    print(f"Looks:            {indice['total_looks']}")
-    print(f"Imágenes:         {indice['total_imagenes']}")
+    print(f"Muñecas:          {len(indice['personajes'])}")
+    print(f"Looks:            {len(indice['looks'])}")
+    print(f"Imágenes:         {sum(l['np'] for l in indice['looks'])}")
     print(f"Completos (7/7):  {completos}")
     print(f"Con título:       {sum(1 for l in indice['looks'] if l['t'])}")
-    print(f"Sin reconocer:    {len(sin_reconocer)} archivo(s)")
     print(f"Tamaño índice:    {kb:.1f} KB")
-
-    if sin_reconocer:
-        print("\nMuestra de archivos cuya pose no se reconoció:")
-        for r in sin_reconocer[:10]:
-            print(f"  {r}")
 
     if args.dry_run:
         print("\n--dry-run: no se escribió nada.")
         return
 
-    SALIDA.parent.mkdir(parents=True, exist_ok=True)
-    SALIDA.write_text(texto, encoding="utf-8", newline="\n")
-    print(f"\nEscrito: {SALIDA.relative_to(REPO_ROOT)}")
+    SALIDA_INDICE.parent.mkdir(parents=True, exist_ok=True)
+    SALIDA_INDICE.write_text(texto, encoding="utf-8", newline="\n")
+    print(f"\nEscrito: {SALIDA_INDICE.relative_to(REPO_ROOT)}")
 
 
 if __name__ == "__main__":
