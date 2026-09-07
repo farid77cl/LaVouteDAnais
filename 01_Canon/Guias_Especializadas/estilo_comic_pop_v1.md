@@ -8,14 +8,32 @@
 
 ## 1. De dónde sale
 
+> 📌 **El original va acá:** `01_Canon/Guias_Especializadas/referencia_estilo_comic_pop_v1.png`, al lado de este archivo, para que el estilo y su referencia viajen juntos. ⏳ **La sube la Ama** (comprometida el 07/09/2026). Mientras no esté, este estilo está congelado sobre un original que no se puede volver a verificar. (La ruta va en código y no como enlace **a propósito**: un enlace a un archivo que todavía no existe es un link roto, y la meta de `lint_higiene_repo.py` es 0. Se convierte en enlace cuando la imagen entre.)
+
 De una imagen de referencia que la Ama entregó el 07/09/2026: una viñeta de Miss Doll en clave **portada de cómic romántico de los años 60** — halftone rosa, contorno negro grueso, color plano, cartucho «ROMANCE COMICS presents…» y bocadillo.
 
-**Lo que se toma de ella:** el tratamiento gráfico entero — trama de puntos, tinta, planitud del color, paleta rosa-crema, encuadre de viñeta.
+**Lo que se toma de ella:** el tratamiento gráfico entero — trama de puntos, tinta, planitud del color, encuadre de viñeta.
+**Lo que se cambió (Ama, 07/09/2026):** la **paleta**. La de la referencia es la de Miss Doll; el blog lleva la cara de Anaïs, así que la paleta pasó a la suya (§2).
 **Lo que NO se toma:** el texto quemado. Decisión de la Ama el mismo día: **ninguna imagen lleva letras adentro**; el título lo pone Tumblr en el post, donde además es buscable.
 
 ---
 
 ## 2. El BLOQUE ESTILO
+
+> 🔒 **CONGELADO 07/09/2026** por okey de la Ama. Se copia verbatim; **no se edita sin orden suya**.
+
+> 🍯 **La paleta se ajustó a Anaïs el 07/09/2026, por decisión de la Ama.** El bloque nació de una
+> viñeta de **Miss Doll** y traía su familia (`hot pink, bubblegum, pale blush over warm cream`).
+> Pero la Ama eligió a **Anaïs como cara del blog** (§6.1 del spec de publicación) y este bloque
+> pinta **todas** las publicaciones: el blog entero se habría leído rosa chicle con una cara miel y
+> ámbar que viene de Vintage Noir. Los cinco colores nuevos **no se inventaron** — salen textuales
+> de [`anais.md` §5.2](../../02_Personajes/_perfiles_visuales/anais.md), que es la dueña de su
+> paleta: oro imperial, bronce/cobre antiguo, rosa polvo, borgoña/vino profundo, marfil. El
+> *dusty rose* conserva a propósito un eco del rosa de la referencia.
+>
+> ⚠️ **Lo que este ajuste cuesta, dicho una vez:** el bloque ya **no** es transcripción literal de la
+> imagen de referencia. Se aleja de ella en el color y solo se sostiene en el papel — por eso la
+> imagen tiene que entrar al repo (§1).
 
 Se copia **verbatim** al inicio de todo prompt de publicación, idéntico en las tres imágenes de un mismo relato. Dentro de la valla va **solo texto de prompt** — las notas editoriales viven fuera, como en los perfiles visuales de las muñecas.
 
@@ -24,10 +42,11 @@ Se copia **verbatim** al inicio de todo prompt de publicación, idéntico en las
 1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
 outlines of even confident weight around every figure and object, flat cel-shaded
 colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
-carried through the shadows and the background field, limited palette built on hot
-pink, bubblegum and pale blush over a warm cream ground, slight off-register print
-misalignment, clean single comic panel with a thin dark border, NO TEXT ANYWHERE,
-every label, sign, poster and garment surface completely blank
+carried through the shadows and the background field, limited palette built on old
+gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, clean single comic panel with a thin
+dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
+completely blank
 ```
 <!-- /ADN:BLOQUE_ESTILO -->
 
