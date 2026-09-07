@@ -126,6 +126,32 @@ def test_m14_cuenta_los_dos_puntos_revelatorios():
     check("M14 cuenta el enunciado neutro + dos puntos + revelación", len(r) == 2, f"n={len(r)}")
 
 
+def test_m14_no_cuenta_la_enumeracion():
+    # El inventario de salvaguardas («Uno: no siento.») es un motivo permanente del
+    # canon, no un tell. Medido en Modo Trofeo Cap1: 11 de los 32 que M14 contaba.
+    t = ("Uno: no siento. Lo que le pase a este cuerpo se queda en este cuerpo.\n\n"
+         "Dos: hay pared. Tres: sé quién soy.\n")
+    r = M.m14_dos_puntos(_sents(t))
+    check("M14 no cuenta los dos puntos de enumeración", len(r) == 0, f"n={len(r)} {r}")
+
+
+def test_m14_no_cuenta_el_dos_puntos_que_abre_dialogo():
+    # Párrafo que termina en «:» y abajo viene un parlamento. Es puntuación de
+    # diálogo, no el golpe de revelación.
+    t = ("Y después, al cuerpo, con el mismo tono con que se le habla a un ascensor:\n\n"
+         "—Bambi. TROFEO.\n")
+    pars = M.parrafos_con_linea(t)
+    r = M.m14_dos_puntos(_sents(t), pars)
+    check("M14 no cuenta el dos puntos que abre un parlamento", len(r) == 0, f"n={len(r)} {r}")
+
+
+def test_m14_sigue_cazando_el_revelatorio_con_izquierda_corta():
+    # El filtro de enumeración no puede tragarse un revelatorio de verdad.
+    t = "El problema: no puedo cerrar los ojos ni un segundo.\n"
+    r = M.m14_dos_puntos(_sents(t))
+    check("M14 no se traga un revelatorio de izquierda corta", len(r) == 1, f"n={len(r)}")
+
+
 def test_m14_no_cuenta_la_hora_ni_el_dialogo():
     t = ("A las 10:20 llegó el primero de la mañana.\n\n"
          "—Mire, mi rey: se le nota en la cara lo que está pensando.\n")
@@ -241,6 +267,9 @@ def main() -> int:
     test_m13_no_marca_clon_cuando_el_ritmo_cambia()
     test_m13_no_opina_con_muestra_chica()
     test_m14_cuenta_los_dos_puntos_revelatorios()
+    test_m14_no_cuenta_la_enumeracion()
+    test_m14_no_cuenta_el_dos_puntos_que_abre_dialogo()
+    test_m14_sigue_cazando_el_revelatorio_con_izquierda_corta()
     test_m14_no_cuenta_la_hora_ni_el_dialogo()
     test_m15_cuenta_el_simil_molde()
     test_m15_no_cuenta_la_comparacion_directa()

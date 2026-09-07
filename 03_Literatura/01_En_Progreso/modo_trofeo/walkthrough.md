@@ -145,3 +145,27 @@ Loreto corrió con las medidas de firma de IA estrenadas ese mismo día (M13-M17
 > ⚠️ **Dos avisos que NO aplican acá, y por eso no se cuentan como defecto.** **M11** (cursivas 0,3/1000) y **M12** (0 parlamentos de ≥45 palabras) están calibrados sobre referencias en **tercera persona** con una dominante que habla largo. Este capítulo es **primera persona presente** —todo el texto ES voz interior, no necesita cursiva— y el creador es **lacónico y clínico por invariante aprobado por la Ama** (§3). Un medidor que dispara contra el diseño no es un hallazgo.
 
 **Nada de esto se corrige sin su orden.** El arreglo, si lo pide, es una pasada del Escritor sobre los 81 dos puntos — punto seguido, coma, o borrar la mitad izquierda — sin tocar una escena.
+
+### Anotación 5 — 07/09/2026: **«procede»** — pasada anti-firma-de-IA · **Cap 1 v0.3**
+
+Dos tramos del `escritor-nivel4` (A: l.1-215 · B: l.216-429), con brief e inventario de los 81 casos como input único. 58 ediciones, **solo `Edit`**.
+
+| Medida | v0.2 | **v0.3** | Referencia |
+|---|---|---|---|
+| Dos puntos revelatorios | 75 (**11,02**/1000) | **22 (3,24/1000)** | los 4 caps publicados de «Café»: 2,7-4,9 |
+| Símil-molde «como si/como quien» | 11 (1,62/1000) | **7 (1,03/1000)** | cupo 1,0 |
+| Palabras | 6.820 | 6.800 (**−20**) | ±40 |
+
+**La trampa NO se activó, y era el riesgo real.** Reemplazar 81 dos puntos por 81 puntos seguidos habría creado el tell nuevo (cláusula congelada, T12/H10). Medido: **cláusula media 5,79 → 5,81 · mediana 5 → 5 · ≤3 palabras 37,5 % → 37,5 %** e histograma prácticamente idéntico. Los escritores repartieron las tres operaciones como pedía el brief (24 punto seguido · 26 coma/conector · 5 borrado de la izquierda).
+
+**Invariantes verificados a mano contra el archivo, no contra el reporte:** las 5 anclas dictadas (`TROFEO`/`REPOSO`/`CELO`) intactas · los 2 epígrafes del Manual intactos · el inventario de salvaguardas intacto (*«Uno: no siento»*) · el cierre idéntico (*«Tres. Me quedan tres.»*) · cero escenas, datos o imágenes tocados.
+
+### 🔧 Y un defecto propio, encontrado y corregido en el camino
+
+Los escritores reportaron **10 dos puntos vivos** y mi medidor decía **32**. El que contaba mal era el medidor: de esos 32, **11 eran enumeración** (*«Uno:»*, *«Dos:»*, *«Tres:»* — el inventario M6, que es **canon** y hay que proteger) y **6 abrían un parlamento** (puntuación de diálogo, legítima). **M14 estaba mandando a corregir justo lo que el canon manda conservar.**
+
+Recalibrado con test primero en `99_Sistema/scripts/literatura/test_medir_capitulo.py` (3 pruebas nuevas, **20 verdes**), incluida la que impide que el filtro nuevo se trague un revelatorio de izquierda corta (*«El problema: no puedo cerrar los ojos»* sí cuenta).
+
+> ⚠️ **Honestidad sobre el cupo.** El umbral de **1,5 por 1.000** lo tomé de la afirmación de un auditor (*«la prosa narrativa española ronda 0,5-1»*) que **no verifiqué contra un corpus real**. Con 3,24 el capítulo queda **mejor que 2 de los 4 capítulos publicados** de «Café con Piernas». Que siga marcado en rojo es una hipótesis mía, no un hecho medido.
+
+v0.2 archivada en `borradores/capitulo_01/`. **El Cap 1 sigue sin su Gate.**

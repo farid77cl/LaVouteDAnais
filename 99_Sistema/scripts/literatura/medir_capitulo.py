@@ -537,6 +537,11 @@ RE_CLAUSULA = re.compile(r"[,.;:—…!?()]+")
 # Dos puntos revelatorios: enunciado neutro → dos puntos → revelación. No es la
 # hora (10:20) ni una proporción (1:3).
 RE_DOSPUNTOS = re.compile(r"(?<!\d):(?!\d)")
+# Falsos positivos medidos sobre «Modo Trofeo» Cap1 v0.3 (07/09/2026): de 32 que
+# contaba M14, 11 eran ENUMERACION («Uno: no siento.» — el inventario de salvaguardas,
+# motivo permanente M6 del canon) y 6 ABRIAN UN PARLAMENTO. Revelatorios de verdad: 15.
+# Un medidor que cuenta el canon como defecto manda a corregir lo que hay que proteger.
+RE_ENUMERACION = re.compile(r"(?:\d{1,2}|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez)\.?", re.I)
 # El símil-molde: la única figura del texto entra siempre por la misma puerta.
 RE_SIMIL_MOLDE = re.compile(r"\bcomo\s+(?:si|quien|quienes|el\s+que|la\s+que|los\s+que|las\s+que)\b", re.I)
 # El recibo de excitación: el párrafo cierra CERTIFICANDO la calentura, como el
@@ -624,14 +629,29 @@ def m13_ritmo_clausula(sents: list[dict], previos_sents: list[list[dict]]) -> di
     }
 
 
-def m14_dos_puntos(sents: list[dict]) -> list[dict]:
+def m14_dos_puntos(sents: list[dict], pars: list[tuple[int, str]] | None = None) -> list[dict]:
     """M14 · Dos puntos revelatorios en narración. 178 en «Café con Piernas»; es el
-    único tic que sobrevivió a todas las correcciones aplicadas hasta el 07/09/2026."""
+    único tic que sobrevivió a todas las correcciones aplicadas hasta el 07/09/2026.
+
+    NO cuenta dos casos que no son el tell (calibrado 07/09/2026 sobre Modo Trofeo):
+    la ENUMERACIÓN («Uno: no siento.») y el dos puntos que ABRE UN PARLAMENTO.
+    Para lo segundo hacen falta los párrafos; sin ellos ese chequeo se omite."""
+    abre_dialogo = set()
+    if pars:
+        seq = [(ln, p) for ln, p in pars if p != "***"]
+        for k, (ln, p) in enumerate(seq):
+            if p.rstrip().endswith(":") and k + 1 < len(seq) and es_dialogo(seq[k + 1][1]):
+                abre_dialogo.add(ln)
     out = []
     for s in sents:
         if s["dial"]:
             continue
-        for _ in RE_DOSPUNTOS.finditer(s["text"]):
+        cuerpo = s["text"].rstrip()
+        for m in RE_DOSPUNTOS.finditer(s["text"]):
+            if RE_ENUMERACION.fullmatch(s["text"][:m.start()].strip()):
+                continue
+            if s["linea"] in abre_dialogo and m.end() == len(cuerpo):
+                continue
             out.append({"linea": s["linea"], "texto": excerpt(s["text"], 150)})
     return out
 
@@ -736,7 +756,7 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
         previos_sents.append(sp)
     firma = {
         "ritmo": m13_ritmo_clausula(sents, previos_sents),
-        "dos_puntos": m14_dos_puntos(sents),
+        "dos_puntos": m14_dos_puntos(sents, pars),
         "simil": m15_simil_molde(sents),
         "recibo": m16_recibo_excitacion(pars),
         "dialogo": m17_disfluencia(pars),
