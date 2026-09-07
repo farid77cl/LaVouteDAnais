@@ -73,6 +73,41 @@ def test_np_cuenta_solo_imagenes_reales():
     assert look["np"] == 1
 
 
+# --- pose_canonica: camino canónico (reusa nombres_canonicos) y camino
+# histórico (alias/prefijos de la flota vieja) ------------------------------
+
+def test_pose_canonica_anais_standing_via_su_propia_numeracion():
+    assert GEN.pose_canonica("anais_L09_standing.png", 9, CFG["anais"]) == "standing"
+
+
+def test_pose_canonica_anais_slot5_via_su_propia_numeracion():
+    assert GEN.pose_canonica("anais_L09_sovereign_gaze.png", 9, CFG["anais"]) == "slot5"
+
+
+def test_pose_canonica_ele_standing():
+    assert GEN.pose_canonica("ele_800_standing.png", 800, CFG["ele"]) == "standing"
+
+
+def test_pose_canonica_ele_slot5():
+    assert GEN.pose_canonica("ele_800_ditzy.png", 800, CFG["ele"]) == "slot5"
+
+
+def test_pose_canonica_miss_doll_slot5():
+    assert GEN.pose_canonica("miss_doll_10_glacial_command.png", 10, CFG["miss_doll"]) == "slot5"
+
+
+def test_pose_canonica_alias_historico_back():
+    assert GEN.pose_canonica("helena_001_back.png", 1, CFG["ele"]) == "back_view"
+
+
+def test_pose_canonica_alias_historico_profile():
+    assert GEN.pose_canonica("helena_001_profile.png", 1, CFG["ele"]) == "side_profile"
+
+
+def test_pose_canonica_irreconocible_es_none():
+    assert GEN.pose_canonica("ele_800_calzado_extra.png", 800, CFG["ele"]) is None
+
+
 if __name__ == "__main__":
     import pytest
     raise SystemExit(pytest.main([__file__, "-v"]))

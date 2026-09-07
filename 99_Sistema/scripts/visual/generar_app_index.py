@@ -46,7 +46,6 @@ import json
 import re
 import subprocess
 import sys
-import unicodedata
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
@@ -64,41 +63,78 @@ SALIDA_PROMPTS = REPO_ROOT / "app" / "prompts"
 
 POSES_CANON = galeria_parser.POSES_CANON
 
-# `## 👗 Look 800: Título (05/09/2026 · batch 796-800)` — el mismo heading
-# que reconoce galeria_parser, usado aquí solo para leer la fecha del
-# paréntesis (campo `meta` de parse_como_la_app).
-RE_HEADING = re.compile(r"^#{2,3}\s*\S*\s*Look (\d+):\s*(.+?)\s*$")
 RE_FECHA = re.compile(r"\((\d{2}/\d{2}/\d{4})")
+
+# Alias históricos → canónica. Cubre lo que sube la app (back/profile), el
+# español y los nombres viejos de la flota pre-convención (`helena_...`).
+# Sólo entra en juego en el camino histórico de `pose_canonica`, cuando el
+# archivo no calza con lo que `nombres_canonicos.py` generaría hoy.
+ALIAS = {
+    "back": "back_view",
+    "backview": "back_view",
+    "espalda": "back_view",
+    "profile": "side_profile",
+    "sideprofile": "side_profile",
+    "perfil": "side_profile",
+    "sentada": "seated",
+    "frontal": "standing",
+    "depie": "standing",
+    "acostada": "odalisque",
+    "odalisca": "odalisque",
+}
 
 
 def pose_canonica(nombre_archivo, numero_look, cfg):
     """`ele_800_standing.png` → `standing`. `miss_doll_10_glacial_command.png` → `slot5`.
 
-    Devuelve None si no reconoce la pose. Cuando el tallo resuelto coincide
-    con `cfg["slot5_slug"]` de este personaje, devuelve `"slot5"` — la
-    quinta pose se llama distinto por muñeca y en el índice viaja siempre
-    bajo esa única llave.
+    Devuelve None si no reconoce la pose.
+
+    Camino canónico primero: compara el archivo contra lo que
+    `nombres_canonicos.nombre_archivo()` generaría para cada pose — reusa al
+    dueño único de la convención de numeración en vez de re-derivarla aquí
+    (Anaïs numera `L{n:02d}`, y un regex propio sobre el número la deja sin
+    resolver: la misma trampa de dueño único que `color_canon.py`).
+
+    Camino histórico después, sólo si el canónico no calzó: prefijo viejo
+    (`helena_001_`), sufijos de reintento (`_2`/`_v1`), legado `pose5_ditzy`
+    y alias en español/inglés (`back`, `profile`...) de antes de que
+    existiera esta convención.
     """
+    for pose in POSES_CANON:
+        if nombre_archivo == nombres_canonicos.nombre_archivo(numero_look, pose, cfg):
+            return pose
+
+    slot5_slug = cfg.get("slot5_slug")
+
     tallo = Path(nombre_archivo).stem.lower()
-    # Prefijo del personaje + número: `ele_800_`, `miss_doll_10_`, `anais_L09_`.
+    # Prefijo del personaje + número: `ele_800_`, `miss_doll_10_`, `helena_001_`.
     tallo = re.sub(rf"^[a-z_]+[_-]0*{numero_look}[_-]", "", tallo)
     tallo = re.sub(r"^pose\d+[_-]", "", tallo)                   # legado pose5_ditzy
     tallo = re.sub(r"[_-](\d+|v\d+)$", "", tallo)                # sufijos _2 / _v1
     tallo = tallo.strip("_-")
 
-    if tallo == cfg.get("slot5_slug"):
+    if tallo == slot5_slug:
         return "slot5"
     if tallo in POSES_CANON:
         return tallo
+    plano = tallo.replace("_", "").replace("-", "")
+    if plano in ALIAS:
+        return ALIAS[plano]
+    if tallo in ALIAS:
+        return ALIAS[tallo]
+    # Último recurso: la pose aparece embebida (`ele_159_pose5_ditzy_final`).
+    if slot5_slug and slot5_slug.replace("_", "") in plano:
+        return "slot5"
+    for canon in POSES_CANON:
+        if canon.replace("_", "") in plano:
+            return canon
     return None
 
 
 def _slug_titulo(t):
     if not t:
         return ""
-    s = "".join(c for c in unicodedata.normalize("NFD", t) if unicodedata.category(c) != "Mn")
-    s = s.lower()
-    return re.sub(r"[^a-z0-9]+", "_", s).strip("_")
+    return re.sub(r"[^a-z0-9]+", "_", galeria_parser.sin_tildes(t).lower()).strip("_")
 
 
 def _fecha_de(meta):
