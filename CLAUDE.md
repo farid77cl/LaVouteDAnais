@@ -109,7 +109,7 @@ Spec: `.agent/skills/engine-trance-lv/SKILL.md`. Approved trances live in `03_Li
 05_Imagenes/     — Generated image files (organized by look number)
 06_RRSS/         — Social: Bluesky + Reddit playbooks, identidad_social/, cola/ (publish queue), .env (gitignored)
 07_Recursos/     — References, research, legacy agent prompts
-99_Sistema/      — Python/PS automation. Root holds only README, app_index.json, dated audits
+99_Sistema/      — Python/PS automation. Root holds only README, dated audits
                    _legacy_prompts_ai_studio/ — the whole prompt_app_ai_studio_* series (#20-#33),
                    archived 29/08/2026: writing prompts for AI Studio was derogated 28/08
 .agent/rules/    — 14 modular rule files (00-13) loaded by all agents

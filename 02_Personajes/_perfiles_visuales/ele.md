@@ -20,7 +20,7 @@
 | **Numeración** | correlativa · flota y último look → `00_Ele/memoria_sesiones.md` (**dueño único, no anotar aquí**) |
 | **Canon profundo (enlace)** | `00_Ele/identidad_ele.md` §I + §II |
 | **ADN listo para copiar** | `.agent/skills/ele-outfit-engine/references/dna_v3_5.md` |
-| **Índice para la app** | `99_Sistema/app_index.json` (regenerar con `generar_app_index.py`) |
+| **Índice para la app** | `app/index.json` + `app/prompts/ele/<n>.json` (regenerar con `generar_app_index.py`) |
 
 ---
 
