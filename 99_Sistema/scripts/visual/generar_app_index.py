@@ -9,7 +9,10 @@ POR QUÉ EXISTE (decisión de la Ama, 27/07/2026):
     La app NO clona el repo. Un `git clone --depth 1` de LaVouteDAnais son
     ~1,56 GB y 5.242 PNG en el teléfono antes de pintar la primera foto.
     En vez de eso la app baja ESTE índice (cientos de KB) y carga cada
-    imagen por URL raw bajo demanda, con caché de Coil.
+    imagen bajo demanda por la API autenticada de GitHub, con caché de Coil.
+    Nada por URL raw: el spec §3 + la decisión D5 dejan este repo privado al
+    implementarse la app — por eso el índice v2 ya no emite el campo `raw`
+    que llevaba el v1.
 
 FUENTE DE VERDAD:
     `git ls-files` — NO el disco. Así corre igual en la máquina literaria

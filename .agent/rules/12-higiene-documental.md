@@ -64,7 +64,7 @@ Ya ignoradas por esto: `00_Ele/galeria_audit_report.md`, `00_Ele/galeria_link_au
 
 > ⚠️ **La excepción que importa:** los `README.md` y las `galeria_*.md` **sí viajan** aunque los escriba `update_galleries.py` — son la navegación del repo y el insumo que LV-App parsea. Regenerable **no** es sinónimo de desechable: la pregunta es *¿alguien externo lo lee?*
 >
-> **`app/` (07/09/2026) es la misma excepción.** `app/index.json` + `app/prompts/**` los escribe `generar_app_index.py` — son regenerables, pero son el insumo real que LV-App-3 descarga por URL raw; sin ellos commiteados la app no tiene nada que pintar. Reemplaza a `99_Sistema/app_index.json` (LV-App 2.0, murió el mismo día que nació, 27/07/2026), que sí se borró — un índice de una app muerta no tenía excepción que lo salvara. `lint_higiene_repo.py` los excepciona en `REGENERABLES_QUE_VIAJAN`.
+> **`app/` (07/09/2026) es la misma excepción.** `app/index.json` + `app/prompts/**` los escribe `generar_app_index.py` — son regenerables, pero son el insumo real que LV-App-3 descarga **por la API autenticada de GitHub** (spec §3 + decisión D5: este repo pasa a privado al implementarse la app, y ahí `raw.githubusercontent.com` deja de servir — la app usa la API con token *siempre*, para repo público y privado por igual, así que privatizar no le cambia una línea); sin ellos commiteados la app no tiene nada que pintar. Reemplaza a `99_Sistema/app_index.json` (LV-App 2.0, murió el mismo día que nació, 27/07/2026), que sí se borró — un índice de una app muerta no tenía excepción que lo salvara. `lint_higiene_repo.py` los excepciona en `REGENERABLES_QUE_VIAJAN`.
 
 ---
 

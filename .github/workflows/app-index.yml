@@ -5,6 +5,11 @@ on:
     branches: [main]
     paths:
       - '00_Ele/galeria_outfits.md'
+      # Ele alimenta la app desde tres galerías (regla 11 §9bis item 5,
+      # `galerias_extra` en anclas_universales.json): si sólo se vigila la
+      # viva, un arreglo en el archivo o en la era gótica no regenera nada.
+      - '00_Ele/galeria_outfits_archivo.md'
+      - '00_Ele/memoria_historica/galeria_outfits_era_gotica.md'
       - '02_Personajes/01_Principales/miss_doll/GALERIA_OUTFITS_MISS_DOLL.md'
       - '02_Personajes/01_Principales/anais/galeria_looks_anais.md'
       - '05_Imagenes/**'
@@ -15,6 +20,17 @@ on:
 
 permissions:
   contents: write
+
+# El flujo para el que esto existe es la Ama subiendo 7 imágenes de un look
+# desde el celular: hasta 7 pushes, 7 jobs concurrentes, cada uno regenerando
+# ~1.000 archivos y corriendo a rebasear-y-pushear. `git pull --rebase`
+# estrecha la carrera pero no la cierra: dos jobs cuyo rebase aterrice antes
+# de que cualquiera de los dos pushee igual producen un rechazo y un índice
+# perdido. Cancelar la corrida superada es gratis — la última regenera todo
+# igual.
+concurrency:
+  group: app-index
+  cancel-in-progress: true
 
 jobs:
   regenerar:
@@ -28,7 +44,10 @@ jobs:
 
       - name: Pruebas del generador
         run: |
-          pip install pytest
+          # Versión fijada: sin pin, una release de pytest puede poner en rojo
+          # el lazo de regeneración por su cuenta, y este job es lo único que
+          # mantiene el índice al día cuando no hay PC prendido.
+          pip install pytest==9.1.1
           python -m pytest 99_Sistema/scripts/visual/test_galeria_parser.py \
                            99_Sistema/scripts/visual/test_nombres_canonicos.py \
                            99_Sistema/scripts/visual/test_generar_app_index.py -v
@@ -41,10 +60,18 @@ jobs:
           git config user.name  "Ele de Anaïs"
           git config user.email "Ele.de.Anais@proton.me"
           git add app/index.json app/prompts
+          # Los mismos dos trailers que lleva cualquier commit del repo: un
+          # commit automático sin ellos rompe la convención justo en el único
+          # commit que nadie escribe a mano.
+          MENSAJE=$(printf '%s\n' \
+            "Ele: indice regenerado automaticamente" \
+            "" \
+            "Co-Authored-By: Ele de Anaïs <Ele.de.Anais@proton.me>" \
+            "Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>")
           if git diff --cached --quiet; then
             echo "El índice no cambió."
           else
-            git commit -m "Ele: indice regenerado automaticamente"
+            git commit -m "$MENSAJE"
             # Sincronizar con main antes de pushear: la app y otros jobs pushean PNG/memoria/README
             # constantemente, así que entre el checkout y este push puede haber aterrizado algo.
             # Sin rebase, el push rebota por non-fast-forward y el índice regenerado se pierde.

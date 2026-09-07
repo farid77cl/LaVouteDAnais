@@ -92,7 +92,12 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.abspath(os.path.join(AQUI, "..", "..", ".."))
 sys.path.insert(0, AQUI)
 from prompt_builder import PromptBuilder, cargar_config, PLACEHOLDERS_PROHIBIDOS  # noqa: E402
-from galeria_parser import (  # noqa: E402
+# ⚠️ NO PODAR ESTE BLOQUE. `EMOJI`, `detectar_pose` y `sin_tildes` parecen sin
+# uso dentro de este archivo, pero `inyectar_anclas.py:83` hace
+# `from lint_prompts_personaje import LOOK_HEADING, detectar_pose`: este linter
+# los RE-EXPORTA para un tercer script. Una pasada rutinaria de "sacar imports
+# no usados" rompe `inyectar_anclas` en tiempo de import, no en tiempo de uso.
+from galeria_parser import (  # noqa: E402,F401
     EMOJI,
     LOOK_HEADING,
     detectar_pose,
