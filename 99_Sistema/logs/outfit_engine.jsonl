@@ -3626,3 +3626,11 @@
 {"evento": "build", "personaje": "ele", "slot": "slot5", "chars": 4994, "anclas_opt_in": ["OPAQUE_LOCK", "HOSIERY_LOCK", "SEAM_FRONT"], "fallas": [], "ts": "2026-09-03T09:59:15"}
 {"evento": "build", "personaje": "ele", "slot": "pov", "chars": 5203, "anclas_opt_in": ["OPAQUE_LOCK", "HOSIERY_LOCK", "SEAM_FRONT"], "fallas": [], "ts": "2026-09-03T09:59:15"}
 {"evento": "build", "personaje": "ele", "slot": "odalisque", "chars": 5499, "anclas_opt_in": ["OPAQUE_LOCK", "HOSIERY_LOCK", "SEAM_FRONT"], "fallas": [], "ts": "2026-09-03T09:59:15"}
+{"evento": "build", "personaje": "miss_doll", "slot": "standing", "chars": 7926, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-07T09:52:48"}
+{"evento": "build", "personaje": "miss_doll", "slot": "back_view", "chars": 7908, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-07T09:52:48"}
+{"evento": "build", "personaje": "miss_doll", "slot": "seated", "chars": 7892, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-07T09:52:48"}
+{"evento": "build", "personaje": "miss_doll", "slot": "side_profile", "chars": 7855, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-07T09:52:48"}
+{"evento": "build", "personaje": "miss_doll", "slot": "slot5", "chars": 8054, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-07T09:52:48"}
+{"evento": "build", "personaje": "miss_doll", "slot": "pov", "chars": 8274, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-07T09:52:48"}
+{"evento": "build", "personaje": "miss_doll", "slot": "odalisque", "chars": 8185, "anclas_opt_in": ["ASPECT_HORIZONTAL", "GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-07T09:52:48"}
+{"evento": "build_negative", "personaje": "miss_doll", "chars": 2365, "ts": "2026-09-07T09:52:48"}
