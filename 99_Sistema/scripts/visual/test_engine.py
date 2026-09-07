@@ -505,6 +505,77 @@ _ori2["standing"] = _ori2["standing"].replace("9:16", "16:9")
 check("cierre: A5 caza una pose vertical pedida apaisada",
       any("A5" in h for h in auditar_batch({1: _ori2})))
 
+# I. ECO DE BUSTO EN LOS PLANOS CERRADOS (Ama 07/09/2026)
+#    Decision suya tras la auditoria visual: "si, solo escote y busto".
+#
+#    El defecto medido en las 3 muñecas: Ditzy, POV, Sovereign Gaze y Glacial
+#    Command REINVENTAN la prenda de arriba. L820 POV saca el busto FUERA de la
+#    copa; L821 Ditzy le pone tirante a un bandeau declarado strapless; L819
+#    cambia la construccion de las copas; en Miss Doll el volumen de busto es
+#    mayor en los planos medios en 4 de 4 looks multipose. Sin cuerpo entero que
+#    ancle la construccion, el generador la inventa.
+#
+#    El repo ya tiene exactamente este mecanismo para el calzado
+#    (`footwear_echo`) desde que la Ama reporto el "zapato que muta". Esto es su
+#    hermano para el busto, y solo para el busto: repetir el outfit entero
+#    alargaria un prompt que YA esta saturado (clausulas con peso 1.4 que se
+#    ignoran).
+from garment_canon import eco_busto                                  # noqa: E402
+
+check("eco: extrae la construccion de la copa",
+      "moulded balconette cups" in (eco_busto(
+          "a jade vinyl mini dress with moulded balconette cups and a straight "
+          "bandeau neckline, closed pointed-toe stiletto pumps") or ""))
+check("eco: extrae el escote strapless y lo afirma",
+      "strapless" in (eco_busto(
+          "an emerald satin strapless bustier, boned, with a sweetheart neckline; "
+          "a matching thong") or "").lower())
+check("eco: un look sin prenda de arriba no genera eco",
+      eco_busto("sheer black stockings and closed pointed-toe stiletto pumps, bare torso")
+      is None)
+check("eco: el eco NO nombra el calzado (de eso se encarga footwear_echo)",
+      "stiletto" not in (eco_busto(
+          "a jade vinyl mini dress with moulded balconette cups, closed "
+          "pointed-toe stiletto pumps with a 12cm pin heel") or "").lower())
+check("eco: es CORTO — el prompt ya esta saturado",
+      len(eco_busto("an emerald satin strapless bustier, boned, with a sweetheart "
+                    "neckline and moulded cups; a matching thong") or "") < 260)
+check("eco: el override declarado en el batch manda sobre la extraccion",
+      eco_busto("cualquier cosa", declarado="the cups exactly as described above")
+      == "the cups exactly as described above")
+
+# J. NINGUN FUENTE LLEVA CARACTERES DE CONTROL INVISIBLES (07/09/2026)
+#
+#    Pasó DOS VECES el mismo dia. Al escribir codigo desde un heredoc, un `\b`
+#    destinado a ser el "limite de palabra" de una regex termino como el BYTE
+#    0x08 (backspace) dentro de la r-string. El patron quedaba
+#    '\x08(pearls?|...)\x08' y '\x08(stiletto|...)\x08': **no matcheaban nada**.
+#
+#    Lo grave no es el error, es que es INVISIBLE. El archivo se lee normal, el
+#    linter no dice nada, y el check pasa EN VERDE sobre 8 hallazgos reales la
+#    primera vez y sobre un eco que nunca se generaba la segunda. Misma familia
+#    que el mojibake de las galerias: caracteres que no se ven y mienten.
+#
+#    Este check barre TODO `99_Sistema/scripts` y es la unica defensa que no
+#    depende de que yo me acuerde.
+_CTRL_OK = "\r\n\t"
+_sucios = []
+for _raiz, _dirs, _files in os.walk(os.path.join(RAIZ, "99_Sistema", "scripts")):
+    _dirs[:] = [d for d in _dirs if d not in ("__pycache__", ".git")]
+    for _f in _files:
+        if not _f.endswith((".py", ".json")):
+            continue
+        _ruta = os.path.join(_raiz, _f)
+        try:
+            _t = io.open(_ruta, encoding="utf-8", newline="").read()
+        except (OSError, UnicodeDecodeError):
+            continue
+        _mal = sorted({hex(ord(c)) for c in _t if ord(c) < 32 and c not in _CTRL_OK})
+        if _mal:
+            _sucios.append("%s %s" % (os.path.relpath(_ruta, RAIZ), _mal))
+check("fuentes: ningun script lleva caracteres de control invisibles",
+      not _sucios, "; ".join(_sucios[:5]))
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

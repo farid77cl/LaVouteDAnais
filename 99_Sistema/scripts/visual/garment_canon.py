@@ -691,3 +691,77 @@ def audit_racha_medias(bloques_b, maximo=2):
             return ("%d looks seguidos con medias (posiciones %d-%d de la ventana) — "
                     "el maximo es %d" % (racha, i - racha + 2, i + 1, maximo))
     return None
+
+
+# ---------------------------------------------------------------------------
+# ECO DE BUSTO (Ama 07/09/2026, decision tras la auditoria visual de las tres
+# muñecas: "si, solo escote y busto").
+#
+# El defecto, medido en las tres: los slots de plano cerrado — Ditzy, POV,
+# Sovereign Gaze, Glacial Command — REINVENTAN la prenda de arriba. L820 POV
+# saca el busto fuera de la copa; L821 Ditzy le pone tirante a un bandeau
+# declarado strapless; en Miss Doll el volumen de busto es mayor en los planos
+# medios en 4 de 4 looks multipose. Sin cuerpo entero que ancle la construccion,
+# el generador la inventa.
+#
+# El repo YA tiene este mecanismo para el calzado (`footwear_echo`), nacido del
+# "zapato que muta". Esto es su hermano, y solo para el busto: repetir el outfit
+# entero alargaria un prompt que ya esta saturado — hay evidencia medida de
+# clausulas con peso :1.4 que se ignoran.
+# ---------------------------------------------------------------------------
+# Vocabulario de construccion de la prenda superior. Deliberadamente NO incluye
+# palabras de calzado ni de pierna: ese territorio tiene su propio eco y
+# duplicarlo seria la misma regla en dos lugares con dos varas.
+_BUSTO_PIEZA = (r"balconette|bandeau|bustier|corset|corselet|bralette|bra\b|cups?|"
+                r"merry widow|gu[eê]pi[eè]re|waspie|basque|halter|plunge|"
+                r"neckline|d[eé]collet[age]*|bodice|triangle top")
+_BUSTO_RX = re.compile(r"\b(?:" + _BUSTO_PIEZA + r")\b", re.I)
+# Cierres afirmativos que hay que conservar: son los que el generador rompe
+# (el strapless que sale con tirante, la copa que no contiene el pecho).
+_MATICES = re.compile(r"\b(strapless|underwired|underwire|moulded|molded|padded|boned|"
+                      r"sweetheart|straight|square|scoop|halter|off-the-shoulder|"
+                      r"plunging|structured|conical)\b", re.I)
+# Territorio ajeno: el calzado tiene su propio eco y la prenda inferior no es lo
+# que se rompe en un plano cerrado. Duplicar una regla en dos ecos es la misma
+# vara repetida — el modo de falla que este repo ya conoce.
+_AJENO_RX = re.compile(r"\b(stiletto|pump|boot|sandal|mule|platform|pleaser|heel|"
+                       r"toe|sole|thong|g-string|knicker|skirt|stockings?|"
+                       r"suspender|garter|hosiery|nails?)\b", re.I)
+
+
+def eco_busto(bloque_b, declarado=None, limite=250):
+    """Clausula corta que RE-AFIRMA la construccion del busto, o None.
+
+    `declarado` (campo opcional del batch) manda sobre la extraccion: cuando el
+    look tiene una construccion que el regex no sabe leer, se escribe a mano en
+    vez de dejar que el motor adivine. Mismo criterio que `adn_overrides`.
+
+    Devuelve None si el look no declara prenda superior — un eco vacio seria
+    texto muerto, y de eso ya hubo bastante (el ancla de costura en un look sin
+    medias, corregido el 06/09).
+    """
+    if declarado:
+        return declarado.strip()
+    b = (bloque_b or "").strip()
+    if not b:
+        return None
+    # Se trocea por comas y punto y coma y se filtra parte por parte. La
+    # primera version capturaba tramos `[^;]*` y descartaba el tramo ENTERO si
+    # arrastraba una palabra de calzado — con lo cual un BLOQUE B sin punto y
+    # coma devolvia None y el eco no salia nunca. Medido al correr la bateria.
+    partes = [x.strip(" ,;") for x in re.split(r"[;,]", b) if x.strip(" ,;")]
+    trozos = []
+    for parte in partes:
+        if _AJENO_RX.search(parte):
+            continue
+        if _BUSTO_RX.search(parte) or (trozos and _MATICES.search(parte)):
+            trozos.append(parte)
+        if sum(len(x) + 2 for x in trozos) > limite:
+            break
+    if not trozos:
+        return None
+    texto = "; ".join(trozos)[:limite].rstrip(" ,;")
+    matices = sorted({m.group(1).lower() for m in _MATICES.finditer(texto)})
+    cola = (", and it stays %s" % " and ".join(matices)) if matices else ""
+    return ("the upper garment in THIS frame exactly as described: %s%s"
+            % (texto, cola))

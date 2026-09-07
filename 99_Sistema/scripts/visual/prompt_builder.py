@@ -66,8 +66,13 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
+from garment_canon import eco_busto   # noqa: E402
+
 JSON_ANCLAS = os.path.join(AQUI, "anclas_universales.json")
 JSON_POSES = os.path.join(AQUI, "repertorios_pose.json")
+# Los cuatro slots de plano cerrado. El slot 5 se llama distinto en cada
+# muñeca (ditzy / glacial_command / sovereign_gaze) y por eso va normalizado.
+ECO_BUSTO_SLOTS = frozenset(("slot5", "pov"))
 LOG_PATH = os.path.normpath(os.path.join(AQUI, "..", "..", "logs", "outfit_engine.jsonl"))
 
 
@@ -558,7 +563,8 @@ class PromptBuilder(object):
         return nombres
 
     def build(self, bloque_a, bloque_b, slot, pose_text, setting,
-              extra_final=None, extra_anclas=None, auto_opt_in=True):
+              extra_final=None, extra_anclas=None, auto_opt_in=True,
+              eco_busto_declarado=None):
         """
         Devuelve el prompt final expandido.
 
@@ -662,6 +668,18 @@ class PromptBuilder(object):
             prompt = prompt.rstrip(" .,") + ", " + self._limpiar(extra_final)
         if mirada:
             prompt = prompt.rstrip(" .,") + ", " + mirada
+        # ECO DE BUSTO en los planos cerrados (Ama 07/09/2026).
+        # Ditzy / POV / Sovereign Gaze / Glacial Command reinventan la prenda de
+        # arriba: sin cuerpo entero que ancle la construccion, el generador la
+        # inventa (L820 POV con el busto FUERA de la copa; L821 Ditzy con tirante
+        # en un bandeau declarado strapless; en Miss Doll, busto mayor en los
+        # planos medios en 4 de 4 looks multipose). Es el hermano del
+        # `footwear_echo`, que ya existe por el mismo motivo con el zapato.
+        # Solo escote y busto — decision suya: el prompt ya esta saturado.
+        if slot_n in ECO_BUSTO_SLOTS:
+            _eb = eco_busto(b, declarado=eco_busto_declarado)
+            if _eb:
+                prompt = prompt.rstrip(" .,") + ", " + self._limpiar(_eb)
         prompt = prompt.rstrip(" ,")
         if not prompt.endswith("."):
             prompt += "."
