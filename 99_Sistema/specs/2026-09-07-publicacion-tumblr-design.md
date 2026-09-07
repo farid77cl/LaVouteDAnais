@@ -177,6 +177,8 @@ Verificado hoy contra las guías oficiales de Tumblr:
 
 **Antes de publicar nada hay que capturar la línea base del blog**: seguidores, posts, notas medianas. Sin línea base no hay medición, hay opinión.
 
+> ⏭️ **Premisa superada — 07/09/2026.** La Ama confirmó que **el Cap 1 de «Café con Piernas» ya está publicado** en el blog. O sea: el blog **no** está virgen y la línea base que capturemos ya no es pre-publicación, es **el piso después del primer post**. Se captura igual —es el único piso que vamos a tener— pero se **rotula como tal**, no se le llama línea base virgen. Y hay una ganancia: la prueba de §5.5, que era la que decidía la misión entera, **ya no espera a nada**: hay un post real que mirar en su tag hoy mismo.
+
 | Métrica | Por qué esa |
 |---|---|
 | **Notas medianas por post**, separadas por corriente A y B | Es la unidad real de difusión de Tumblr |
@@ -201,7 +203,9 @@ El blog necesita, antes de publicar nada:
 
 **Los prompts usan el BLOQUE ESTILO** de [`estilo_comic_pop_v1.md`](../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md), con sus tres candados afirmativos y **sin bloque negativo**, porque este texto viaja dentro del prompt que la Ama pega en Gemini.
 
-### 6.1 🔴 Decisión suya: ¿quién es la cara del blog?
+### 6.1 ✅ La cara del blog: Anaïs (decidido 07/09/2026)
+
+> ✅ **DECIDIDO 07/09/2026 — Anaïs.** La Ama eligió la recomendación; los prompts de §6.2 ya están escritos para ella y no hay que cambiar el bloque de identidad.
 
 El blog se llama **«La Voûte d'Anaïs»**, así que la recomendación es **Anaïs** — es la regenta, el lugar lleva su nombre y es la única de las tres que **no** es una modelo sino la dueña. La alternativa es **Miss Doll**, que es la de la imagen de referencia que la Ama entregó y la más reconocible del catálogo. Los prompts de abajo están escritos para Anaïs; cambiarla es reemplazar el bloque de identidad, nada más.
 
@@ -253,7 +257,7 @@ image can be cropped to a narrow band without cutting her. Aspect ratio 16:9.
 
 | # | Qué | Depende de |
 |---|---|---|
-| 1 | **Línea base del blog** — capturarla antes de tocar nada (§5.6) | Acceso al blog |
+| 1 | **Línea base del blog** — piso post-primer-post, ya no virgen (§5.6) **+ la prueba de tag de §5.5 sobre el post de Café que ya está arriba** | B4 (las 4 llaves de OAuth) |
 | 2 | Avatar + header + post fijado (§6) | BLOQUE ESTILO congelado |
 | 3 | `estilo_comic_pop_v1.md` + activar la §10 de la ficha del personaje | — |
 | 4 | Adaptador de post: el `_tumblr.md` completo del capítulo (P1 §4.1) | 3 |
@@ -287,6 +291,6 @@ image can be cropped to a narrow band without cutting her. Aspect ratio 16:9.
 |---|---|---|
 | A1 | **Frecuencia de publicación** (D11, ella la dejó por definir) | No — el disparador es el Gate, no un calendario |
 | A2 | **BLOQUE ESTILO definitivo** — calibrar contra su imagen de referencia | Sí para producir |
-| A3 | ¿Estrena con «¿Cuánto es?» (47,8% de sus lecturas, ya publicado, ya tiene `prompts_portada.md`)? | No |
+| A3 | ✅ **CERRADA 07/09/2026 — ya estrenó.** La Ama: *«ya esta el cap 1 del cafe»*, publicado en el blog. El adaptador de §4.1 se escribe **contra ese post real**, no contra un envase teórico | — |
 | A4 | **Corriente B: ¿cuánto es «alta cadencia»?** El referente postea a diario hace 4 años | No, pero define la meta |
 | A5 | Los 63 lemas **hay que inventarlos en chileno, no traducirlos** (el análisis lo advierte). ¿Los escribe un subagente? | No |
