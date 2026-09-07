@@ -143,6 +143,7 @@ def cmd_generar(args):
 
     out = []
     n_prompts = 0
+    _expandidos = {}   # {look: {slot: prompt}} para el auditor de cierre
     for num in sorted(b["looks"], key=int):
         lk = b["looks"][num]
         for k in ("titulo", "bloque_b", "setting"):
@@ -301,6 +302,7 @@ def cmd_generar(args):
             if fallas:
                 print("  \U0001f534 Look %s / %s: %s" % (num, label, "; ".join(fallas)))
                 return 1
+            _expandidos.setdefault(num, {})[pb.normalizar_slot(slot)] = prompt
             n_prompts += 1
             out += ["### %d. %s" % (i + 1, label), "```text", prompt, "```", ""]
         out += ["**Negative Prompt:** `%s`"
@@ -505,6 +507,13 @@ def cmd_generar(args):
         os.path.join(AQUI, "output_%s.md" % os.path.splitext(os.path.basename(ruta))[0])
     open(destino, "w", encoding="utf-8", newline="\n").write(texto)
     print("✅ %d looks · %d prompts · 0 fallas de validación" % (len(b["looks"]), n_prompts))
+    # ---- AUDITOR DE CIERRE (Ama 07/09/2026) --------------------------------
+    # Corre sobre los prompts YA EXPANDIDOS, que es lo unico que llega al
+    # generador. Todo lo de arriba mide las ENTRADAS; esto mide el artefacto.
+    from auditor_cierre import auditar_batch as _audc, imprimir as _impc
+    if _impc(_audc(_expandidos, bool(pb.perfil.get("orientacion_alterna"))), len(_expandidos)):
+        print("     el batch NO se escribe.")
+        return 1
     print("   escrito: %s" % destino)
     print("   verificar antes de pegar en la galería:")
     print("     python %s lint %s" % (os.path.basename(__file__), b["personaje"]))

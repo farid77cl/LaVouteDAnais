@@ -526,9 +526,11 @@
         "desde_look": 26,
         "_desde_look_porque": "El roster L01-L25 NO se retrofitea — convencion retrofit-al-tocar del repo, la misma que se aplico con la bata semitransparente y con las anclas del 17/08. Bajo el L26 el chequeo reporta AVISO (deja ver la deriva historica sin condenar looks ya materializados); desde el L26 es CRITICO y bloquea el commit del batch.",
         "historicos_declarados": [
-          42
+          42,
+          72,
+          78
         ],
-        "_historicos_porque": "Ama 04/09/2026. Al enseñarle al chequeo 12 a leer los tres formatos de galeria, Miss Doll paso de 59 a 75 looks clasificados y afloraron 2 violaciones reales del Look 42 (M1 repetida en la ventana + cuota cubierta 0/4 en L39-L42). Son de verdad, pero el look esta materializado 7/7 desde el 21/08/2026 y no se regenera: la ventana nunca lo goberno porque el lector no sabia leerlo. Se declara aqui, con numero y motivo, en vez de subir desde_look (que habria tapado tambien lo que venga despues) y en vez de dejarlo en rojo permanente (un linter que grita por lo inarreglable enseña a ignorarlo). Cualquier violacion NUEVA sigue siendo CRITICO.",
+        "_historicos_porque": "L42: declarado antes del 05/09/2026. L72 y L78 (Ama 07/09/2026): son el MISMO outfit escrito dos veces — 106 n-gramas de 8 palabras verbatim y 88,9% de lexico comun, el hallazgo mas gordo del candado de clon intra-personaje del 05/09. Los dos estan materializados y rehacerlos costaria cuota de generacion sin arreglar lo que ya se publico. Bajan a AVISO: un linter que grita por lo inarreglable enseña a ignorarlo, y la regla sigue dura de aqui en adelante.",
         "cross_batch_desde_look": 86,
         "_cross_batch_porque": "Ama 05/09/2026: 'me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el nuevo batch' + 'debes darme variedad en vestuario'. X4 del auditor cruzado pasa de avisar a BLOQUEAR con UNA sola arquitectura repetida contra el batch inmediatamente anterior. El ancla es el PROXIMO lote y no el actual a proposito: los looks ya materializados no se pueden rediseñar, y un linter que grita lo inarreglable enseña a ignorarlo (misma disciplina que `desde_look` en rotacion_color)."
       },

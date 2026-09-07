@@ -449,6 +449,62 @@ for _slug, _p in _rep_all.get("personajes", {}).items():
 check("repertorio: ninguna sub-pose IMPONE una prenda concreta",
       not _sucias, "%d hallazgo(s): %s" % (len(_sucias), "; ".join(_sucias[:8])))
 
+# H. AUDITOR DE CIERRE DEL MOTOR (Ama 07/09/2026: "mete al final del outfit
+#    engine un pequeño auditor").
+#
+#    Por que al FINAL y no en la puerta. `generar` ya bloquea ANTES de escribir,
+#    y eso mide las ENTRADAS: el BLOQUE B, el color, la arquitectura. Lo que
+#    nadie miraba es el ARTEFACTO — los prompts ya expandidos, que es lo unico
+#    que llega al generador. La regla del repo es literal: verificar el
+#    artefacto, nunca el reporte. Un batch puede pasar todas las validaciones de
+#    entrada y salir con el zapato distinto en la pose 4 porque el token se
+#    expandio mal.
+#
+#    Chequea lo que solo se puede ver DESPUES de expandir, y nada mas — es un
+#    auditor pequeño a proposito:
+#      A1 los 7 slots presentes, sin faltantes ni repetidos
+#      A2 el token de calzado IDENTICO en las 7 poses (Ley de Continuidad)
+#      A3 el BLOQUE B IDENTICO en las 7 poses
+#      A4 ningun placeholder sin resolver ({seat}, [BLOQUE A]) sobrevivio
+#      A5 la Odalisque pide apaisada y ninguna otra pose lo hace
+from auditor_cierre import auditar_batch                             # noqa: E402
+
+_BB = "a jade vinyl mini dress; closed pointed-toe stiletto pumps, 12cm pin heel"
+_OK = {n: _BB + " ... " + n + (" aspect ratio 16:9" if n == "odalisque"
+                               else " aspect ratio 9:16")
+       for n in ("standing", "back_view", "seated", "side_profile", "ditzy", "pov",
+                 "odalisque")}
+check("cierre: un batch sano no tiene hallazgos", auditar_batch({1: _OK}) == [])
+
+_falta = {1: {k: v for k, v in _OK.items() if k != "pov"}}
+check("cierre: A1 caza un slot faltante",
+      any("A1" in h for h in auditar_batch(_falta)))
+
+_zap = dict(_OK)
+_zap["seated"] = _zap["seated"].replace("12cm pin heel", "10cm block heel")
+check("cierre: A2 caza el zapato que cambia entre poses",
+      any("A2" in h for h in auditar_batch({1: _zap})))
+
+_out = dict(_OK)
+_out["ditzy"] = _out["ditzy"].replace("jade vinyl mini dress", "jade vinyl catsuit")
+check("cierre: A3 caza el BLOQUE B que cambia entre poses",
+      any("A3" in h for h in auditar_batch({1: _out})))
+
+_ph = dict(_OK)
+_ph["seated"] = _ph["seated"] + " perched on {seat}"
+check("cierre: A4 caza un placeholder sin resolver",
+      any("A4" in h for h in auditar_batch({1: _ph})))
+
+_ori = dict(_OK)
+_ori["odalisque"] = _ori["odalisque"].replace("16:9", "9:16")
+check("cierre: A5 caza la Odalisque pedida en vertical",
+      any("A5" in h for h in auditar_batch({1: _ori})))
+
+_ori2 = dict(_OK)
+_ori2["standing"] = _ori2["standing"].replace("9:16", "16:9")
+check("cierre: A5 caza una pose vertical pedida apaisada",
+      any("A5" in h for h in auditar_batch({1: _ori2})))
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
