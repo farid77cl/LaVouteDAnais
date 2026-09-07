@@ -392,7 +392,8 @@
       "emoji_look": "👗",
       "carpeta_imagenes": "05_Imagenes/ele",
       "prefijo_archivo": "ele_",
-      "formato_numero_archivo": "{n}",
+      "formato_numero_archivo": "{n:03d}",
+      "_formato_numero_archivo_porque": "Convencion UNICA para las tres muñecas desde el 07/09/2026: tres digitos con ceros a la izquierda. Antes cada una declaraba lo suyo y dos de las tres estaban MAL. Medido contra `git ls-files`, cuantos PNG trackeados calzaban con lo declarado: ele 4603 de 5318, miss_doll 96 de 585 (declaraba `{n}`), anais 154 de 585 (declaraba `L{n:02d}`, correcto solo hasta el look 82). El resto se resolvia de milagro por el camino historico de `pose_canonica`, que existe para la flota vieja y no para tapar una convencion mal declarada. La forma dominante y la que emite el productor vivo es `miss_doll_085_back_view.png` / `anais_085_back_view.png`. En Ele es identica a la declaracion anterior porque su galeria viva arranca en el look 200. Dueño de la convencion: nombres_canonicos.py; este es su unico parametro.",
       "prefijo_carpeta_look": "look",
       "overrides": {},
       "anclas_siempre": [
@@ -500,7 +501,8 @@
       "emoji_look": "💅",
       "carpeta_imagenes": "05_Imagenes/miss_doll",
       "prefijo_archivo": "miss_doll_",
-      "formato_numero_archivo": "{n}",
+      "formato_numero_archivo": "{n:03d}",
+      "_formato_numero_archivo_porque": "Convencion UNICA para las tres muñecas desde el 07/09/2026: tres digitos con ceros a la izquierda. Antes cada una declaraba lo suyo y dos de las tres estaban MAL. Medido contra `git ls-files`, cuantos PNG trackeados calzaban con lo declarado: ele 4603 de 5318, miss_doll 96 de 585 (declaraba `{n}`), anais 154 de 585 (declaraba `L{n:02d}`, correcto solo hasta el look 82). El resto se resolvia de milagro por el camino historico de `pose_canonica`, que existe para la flota vieja y no para tapar una convencion mal declarada. La forma dominante y la que emite el productor vivo es `miss_doll_085_back_view.png` / `anais_085_back_view.png`. En Ele es identica a la declaracion anterior porque su galeria viva arranca en el look 200. Dueño de la convencion: nombres_canonicos.py; este es su unico parametro.",
       "prefijo_carpeta_look": "look",
       "overrides": {
         "odalisque": [
@@ -579,7 +581,8 @@
       "emoji_look": "👑",
       "carpeta_imagenes": "05_Imagenes/anais",
       "prefijo_archivo": "anais_",
-      "formato_numero_archivo": "L{n:02d}",
+      "formato_numero_archivo": "{n:03d}",
+      "_formato_numero_archivo_porque": "Convencion UNICA para las tres muñecas desde el 07/09/2026: tres digitos con ceros a la izquierda. Antes cada una declaraba lo suyo y dos de las tres estaban MAL. Medido contra `git ls-files`, cuantos PNG trackeados calzaban con lo declarado: ele 4603 de 5318, miss_doll 96 de 585 (declaraba `{n}`), anais 154 de 585 (declaraba `L{n:02d}`, correcto solo hasta el look 82). El resto se resolvia de milagro por el camino historico de `pose_canonica`, que existe para la flota vieja y no para tapar una convencion mal declarada. La forma dominante y la que emite el productor vivo es `miss_doll_085_back_view.png` / `anais_085_back_view.png`. En Ele es identica a la declaracion anterior porque su galeria viva arranca en el look 200. Dueño de la convencion: nombres_canonicos.py; este es su unico parametro.",
       "prefijo_carpeta_look": "look",
       "overrides": {},
       "anclas_siempre": [

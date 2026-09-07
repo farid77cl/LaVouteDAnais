@@ -52,9 +52,9 @@ def test_una_pose_sin_imagen_igual_declara_su_nombre_de_destino():
     assert look["img"]["pov"] == {"a": "ele_800_pov.png", "hay": False}
 
 
-def test_anais_declara_su_numeracion_propia():
+def test_anais_declara_el_numero_de_tres_digitos():
     look = next(l for l in _indice()["looks"] if l["p"] == "anais")
-    assert look["img"]["standing"]["a"] == "anais_L09_standing.png"
+    assert look["img"]["standing"]["a"] == "anais_009_standing.png"
 
 
 def test_el_nombre_de_la_quinta_pose_viaja_en_la_cabecera():

@@ -3,9 +3,13 @@
 """Construye carpeta y nombre de archivo canónicos de una pose.
 
 Dueño único de la convención de nombres de imagen. La app NO la replica:
-recibe el nombre ya resuelto en el índice. Existe porque las tres muñecas
-numeran distinto (`ele_800_`, `miss_doll_10_`, `anais_L09_`) y esa diferencia
-sólo vivía en la costumbre.
+recibe el nombre ya resuelto en el índice. Existe porque la convención sólo
+vivía en la costumbre, y la costumbre se había partido: hasta el 07/09/2026
+el config declaraba un formato de número distinto por muñeca (`{n}` en Ele y
+Miss Doll, `L{n:02d}` en Anaïs) y dos de los tres estaban mal contra
+`git ls-files`. Hoy es UNO solo para las tres: `{n:03d}` — `ele_800_`,
+`miss_doll_085_`, `anais_009_`. Lo que difiere por muñeca sigue viviendo en
+`anclas_universales.json` (prefijo, carpeta, slug del slot5), no aquí.
 """
 from __future__ import annotations
 

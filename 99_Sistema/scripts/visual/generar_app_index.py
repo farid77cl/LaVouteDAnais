@@ -18,9 +18,9 @@ FUENTE DE VERDAD:
     lee del repo remoto.
 
 TRES MUÑECAS:
-    Ele, Miss Doll y Anaïs comparten este índice. Cada una numera distinto
-    (`ele_800_`, `miss_doll_10_`, `anais_L09_`) y esa diferencia vive en
-    `nombres_canonicos.py`, no aquí. El parseo de galería vive en
+    Ele, Miss Doll y Anaïs comparten este índice. Lo que cambia entre ellas
+    (prefijo de archivo, carpeta, slug del slot5) vive en
+    `nombres_canonicos.py` + `anclas_universales.json`, no aquí. El parseo de galería vive en
     `galeria_parser.py`. Este módulo solo junta las dos piezas por personaje
     y escribe el JSON — no reimplementa ninguna de las dos.
 
