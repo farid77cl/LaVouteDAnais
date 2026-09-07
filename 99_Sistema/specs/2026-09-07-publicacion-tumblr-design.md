@@ -263,15 +263,17 @@ image can be cropped to a narrow band without cutting her. Aspect ratio 16:9.
 
 ---
 
-## 8. 🔴 Bloqueadores — cuatro de cinco son clics que solo puede dar la Ama
+## 8. 🔴 Bloqueadores — B1 resuelto 07/09; quedan cuatro, todos clics que solo puede dar la Ama
 
 | # | Bloqueador | Medido |
 |---|---|---|
-| B1 | **¿`bdsmeros-cl` es suya?** El fetch del blog reporta contenido publicado por ese usuario. Hay que saber si es su identidad de posteo o material ajeno reblogueado | Verificado hoy contra el blog |
+| B1 | ✅ **RESUELTO 07/09/2026 — sí es suya.** La Ama: *«si, pero hay que darla de baja»*. ⇒ `bdsmeros-cl` **no** es el destino: el destino es `@lavoutedeanais`. Queda una acción suya, fuera de este flujo: **dar de baja `bdsmeros-cl`** | Respondido por ella en el arranque del 07/09 |
 | B2 | **El Funnel de Tailscale publica solo `/mcp`.** No llego a la API de administración de n8n ⇒ **no puedo importar ni verificar el flujo yo.** Ella lo importa a mano, como la bandeja (§2.3 de su doc) | Su API key nueva da **404**, no 401 — la diferencia lo es todo |
 | B3 | La credencial **dentro** del workflow MCP está en **401**; solo se arregla en su interfaz | Las 5 herramientas MCP rebotan |
-| B4 | **Credenciales de app de Tumblr (OAuth)** para que n8n publique | Tumblr no aparece en `checklist_cuentas.md` ni en `.env.example` |
+| B4 | **Credenciales de app de Tumblr (OAuth)** — ahora con nombres y origen declarados en [`06_RRSS/.env.example`](../../06_RRSS/.env.example): las **cuatro** patas (`TUMBLR_CONSUMER_KEY/SECRET` + `TUMBLR_OAUTH_TOKEN/TOKEN_SECRET`). Sirven para la línea base **y** para que n8n publique | El conteo de seguidores solo lo devuelve la API firmando como **dueña** del blog; con sola `api_key` no viene |
 | B5 | **Token de GitHub** para que n8n commitee de vuelta | Mismo que ya necesita la bandeja (§2.4) |
+
+> ✅ **El blog ya existe y ya está marcado maduro** (confirmado por la Ama, 07/09/2026). ⇒ la prueba de §5.5 (¿un blog maduro sale en la búsqueda por tags?) es medible en cuanto haya un post etiquetado.
 
 > 🔐 **El repo es público** (decisión suya del 05/09, tomada sabiéndolo). Ningún token entra acá: viven en n8n o en `06_RRSS/.env`, que está en `.gitignore`.
 
