@@ -24,11 +24,14 @@ TRES MUÑECAS:
     `galeria_parser.py`. Este módulo solo junta las dos piezas por personaje
     y escribe el JSON — no reimplementa ninguna de las dos.
 
-POSES CANÓNICAS (orden fijo, es también la prioridad de portada):
+POSES CANÓNICAS (orden fijo del contrato):
     standing · back_view · seated · side_profile · slot5 · pov · odalisque
     La quinta pose se llama distinto por personaje (Ditzy / Glacial Command /
     Sovereign Gaze); en el índice viaja siempre como `slot5` — el nombre
     bonito vive una sola vez, en la cabecera de `personajes`.
+    NO es la prioridad de portada: la portada prefiere standing ·
+    side_profile · seated (los tres encuadres que se ven bien en miniatura) y
+    sólo después cae a este orden. Si ninguna pose tiene imagen, `c` es null.
 
 CADA LOOK DECLARA LAS 7 POSES, TENGA O NO IMAGEN:
     La app sube con el nombre que el índice le dicta y deja de inventarlo:
@@ -182,7 +185,7 @@ def looks_de(galeria, slot5_nombre, hallazgos=None, slug=""):
     return list(vistos.values())
 
 
-def imagenes_trackeadas(slug, cfg):
+def imagenes_trackeadas(slug, cfg, diag=None):
     """{numero_look: {"carpeta": str, "poses": {pose: nombre_archivo}}} desde git ls-files.
 
     La carpeta viaja junto a las poses a propósito: es la carpeta REAL donde
@@ -191,7 +194,16 @@ def imagenes_trackeadas(slug, cfg):
     renombrado en la galería y no en la carpeta), y con él el índice mandaba a
     la app a 7 rutas inexistentes — y una subida habría aterrizado en una
     carpeta fantasma.
+
+    `diag` es un dict opcional donde se anota TODO lo que se descarta: PNG
+    fuera del patrón de carpeta, poses irreconocibles y duplicados. Descartar
+    en silencio ~2.000 imágenes commiteadas mientras la corrida imprime
+    "Escrito" es como el defecto de las 754 poses llegó a producción.
     """
+    def anotar(clave, valor):
+        if diag is not None:
+            diag.setdefault(clave, []).append(valor)
+
     out = subprocess.run(
         ["git", "-C", str(REPO_ROOT), "ls-files", cfg["carpeta_imagenes"] + "/"],
         capture_output=True, text=True, encoding="utf-8", errors="replace",
@@ -207,17 +219,21 @@ def imagenes_trackeadas(slug, cfg):
     for ruta in out.stdout.splitlines():
         if not ruta.lower().endswith(".png"):
             continue
+        anotar("png_trackeados", ruta)
         m = patron.match(ruta)
         if not m:
+            anotar("fuera_de_patron", ruta)
             continue
         numero = int(m.group(2))
         pose = pose_canonica(m.group(3), numero, cfg)
         if not pose:
+            anotar("pose_no_reconocida", ruta)
             continue
         entrada = por_look[numero]
         # Dos archivos para la misma pose: gana el primero alfabético.
         # Los `_2` son reintentos, no la toma buena.
         if pose in entrada["poses"]:
+            anotar("duplicados", ruta)
             continue
         entrada["poses"][pose] = Path(ruta).name
         if entrada["carpeta"] is None:
@@ -318,7 +334,7 @@ def construir_prompts(cfg_personajes, galerias):
     return salida
 
 
-def _cargar():
+def _cargar(diagnosticos=None):
     cfg = json.loads(
         (Path(__file__).parent / "anclas_universales.json").read_text(encoding="utf-8")
     )["personajes"]
@@ -327,8 +343,54 @@ def _cargar():
                for ruta in [c["galeria"], *c.get("galerias_extra", [])]]
         for slug, c in cfg.items()
     }
-    imagenes = {slug: imagenes_trackeadas(slug, c) for slug, c in cfg.items()}
+    imagenes = {}
+    for slug, c in cfg.items():
+        diag = {} if diagnosticos is not None else None
+        imagenes[slug] = imagenes_trackeadas(slug, c, diag)
+        if diagnosticos is not None:
+            diagnosticos[slug] = diag
     return cfg, galerias, imagenes
+
+
+def _reportar_descartes(diagnosticos, indice, imagenes, hallazgos):
+    """Lo que la corrida DESCARTA, por muñeca, con muestra.
+
+    El generador anterior imprimía `Sin reconocer: N archivo(s)`; la reescritura
+    lo borró — en la misma pasada que introdujo el defecto de las 754 poses
+    resolviendo a "sin imagen". Ese contador lo habría mostrado en la primera
+    corrida en seco en vez de exigir una auditoría a mano. Los números de hoy
+    son preexistentes y NINGUNO hace fallar la corrida: son diagnóstico.
+    """
+    en_galeria = defaultdict(set)
+    for l in indice["looks"]:
+        en_galeria[l["p"]].add(l["n"])
+
+    print("\n--- Descartes por muñeca (diagnóstico, no bloquean) ---")
+    for slug, diag in diagnosticos.items():
+        png = len(diag.get("png_trackeados", []))
+        huerfanos = sorted(set(imagenes.get(slug, {})) - en_galeria[slug])
+        print(f"\n{slug}: {png} PNG trackeados")
+        for clave, etiqueta in (
+            ("fuera_de_patron", "fuera del patrón de carpeta"),
+            ("pose_no_reconocida", "con pose no reconocida"),
+            ("duplicados", "descartados por pose duplicada"),
+        ):
+            rutas = diag.get(clave, [])
+            if rutas:
+                muestra = ", ".join(Path(r).name for r in rutas[:3])
+                print(f"  {len(rutas):5d} {etiqueta:32s} ej.: {muestra}")
+        if huerfanos:
+            print(f"  {len(huerfanos):5d} {'looks con imagen y sin galería':32s} "
+                  f"ej.: {', '.join(str(n) for n in huerfanos[:6])}")
+
+    carpetas = [h for h in hallazgos if "manda git" in h]
+    repetidos = [h for h in hallazgos if "dos veces" in h]
+    print(f"\n{len(carpetas):5d} looks con la carpeta de la galería distinta de la de git")
+    for h in carpetas[:3]:
+        print(f"        {h}")
+    print(f"{len(repetidos):5d} números de look declarados en más de una galería")
+    for h in repetidos[:3]:
+        print(f"        {h}")
 
 
 def main():
@@ -337,8 +399,10 @@ def main():
     ap.add_argument("--pretty", action="store_true", help="JSON indentado (pesa más)")
     args = ap.parse_args()
 
-    cfg, galerias, imagenes = _cargar()
-    indice = construir_indice(cfg, imagenes, galerias)
+    diagnosticos = {}
+    hallazgos = []
+    cfg, galerias, imagenes = _cargar(diagnosticos)
+    indice = construir_indice(cfg, imagenes, galerias, hallazgos)
     prompts = construir_prompts(cfg, galerias)
 
     if args.pretty:
@@ -357,28 +421,46 @@ def main():
     print(f"Tamaño índice:    {kb:.1f} KB")
     print(f"Archivos prompts: {len(prompts)}")
 
-    if args.dry_run:
-        print("\n--dry-run: no se escribió nada.")
-        return
+    _reportar_descartes(diagnosticos, indice, imagenes, hallazgos)
 
+    # El techo se verifica ANTES de la salida temprana: `--dry-run` es
+    # justamente el modo hecho para medir, y tenerlo debajo del `return`
+    # significaba que el único modo pensado para eso nunca lo comprobaba.
     if kb > 2048:
         raise SystemExit(
             f"El índice pesa {kb:.1f} KB, sobre el techo de 2 MB del spec §2.1.\n"
             "Partirlo por personaje antes de que la app lo consuma."
         )
 
+    if args.dry_run:
+        print("\n--dry-run: no se escribió nada.")
+        return
+
     SALIDA_INDICE.parent.mkdir(parents=True, exist_ok=True)
     SALIDA_INDICE.write_text(texto, encoding="utf-8", newline="\n")
     print(f"\nEscrito: {SALIDA_INDICE.relative_to(REPO_ROOT)}")
 
+    esperados = set()
     for llave, contenido in prompts.items():
         destino = SALIDA_PROMPTS / f"{llave}.json"
+        esperados.add(destino.resolve())
         destino.parent.mkdir(parents=True, exist_ok=True)
         destino.write_text(
             json.dumps(contenido, ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8", newline="\n",
         )
     print(f"Escrito: {SALIDA_PROMPTS.relative_to(REPO_ROOT)}/ ({len(prompts)} archivos)")
+
+    # El spec §2.6 hace a este script el DUEÑO de `app/prompts/**`, y un dueño
+    # que sólo agrega no lo es: un look renumerado o borrado dejaba su JSON ahí
+    # para siempre, y `git add app/prompts` no puede preparar un borrado que
+    # nunca ocurrió. Hoy hay 0 huérfanos — esto es prevención.
+    borrados = 0
+    for viejo in SALIDA_PROMPTS.glob("*/*.json"):
+        if viejo.resolve() not in esperados:
+            viejo.unlink()
+            borrados += 1
+    print(f"Huérfanos borrados: {borrados}")
 
 
 if __name__ == "__main__":
