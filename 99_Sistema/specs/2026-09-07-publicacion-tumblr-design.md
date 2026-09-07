@@ -203,6 +203,35 @@ El blog necesita, antes de publicar nada:
 
 **Los prompts usan el BLOQUE ESTILO** de [`estilo_comic_pop_v1.md`](../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md), con sus tres candados afirmativos y **sin bloque negativo**, porque este texto viaja dentro del prompt que la Ama pega en Gemini.
 
+### 6.0 📐 El encuadre del header NO se le pide al generador — se corta después (07/09/2026)
+
+Tres generaciones seguidas se le pidió a Gemini que dejara el quinto superior e inferior vacíos y
+que la figura cupiera en los tres quintos centrales. Las tres fallaron, y **cada una de una forma
+distinta**, lo que prueba que no era la redacción:
+
+| v | Qué devolvió |
+|---|---|
+| v1 | La sala como **panel inset** con marfil arriba y abajo, y la figura **saliéndose** de él |
+| v2 | Entendió «franjas vacías» como **viñetas**: tres paneles apilados, cada uno con su marco. La figura seguía cruzando los dos bordes |
+| v3 | **Un solo marco** — lo único que sí se arregló por texto — pero la figura seguía ocupando **~85% del alto** en vez del 60% pedido |
+
+**El diagnóstico es geométrico, no de prompt.** Un generador de imágenes no cuenta quintos. Y
+encima el pedido era casi imposible: una figura **de cuerpo entero y de pie** dentro de una banda
+3:1 obliga a dibujarla diminuta, y un header con una mujer chiquitita al fondo es un header débil.
+
+**Regla que queda:** la composición se le pide al generador; **el encuadre se resuelve después, con
+números** — [`99_Sistema/scripts/rrss/recortar_header_tumblr.py`](../scripts/rrss/recortar_header_tumblr.py).
+Su anclaje por defecto es **arriba** y no al centro, por el criterio que sale de estas tres rondas:
+**una cabeza cortada arruina un header; unos pies cortados no los echa de menos nadie.**
+
+```bash
+python 99_Sistema/scripts/rrss/recortar_header_tumblr.py 05_Imagenes/blog_tumblr/header_lavoutedeanais_v1.png --ratio 2.844 --ancho-final 3000
+```
+
+(2.844 y 3000 px son la medida que recomienda Tumblr: **3000 × 1055**.)
+
+---
+
 ### 6.1 ✅ La cara del blog: Anaïs (decidido 07/09/2026)
 
 > ✅ **DECIDIDO 07/09/2026 — Anaïs.** La Ama eligió la recomendación; los prompts de §6.2 ya están escritos para ella y no hay que cambiar el bloque de identidad.
