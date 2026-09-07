@@ -45,8 +45,9 @@
 | **[identidad_social/perfiles_reddit.md](identidad_social/perfiles_reddit.md)** 🆔 | **Los 2 perfiles Reddit listos (copy-paste):** Ele (imágenes, `u/ele_de_anais`) + Anaïs (relatos, `u/LaVouteDAnais`). Bio, NSFW, avatar, subs, credenciales por cuenta. |
 | **[playbook_engagement.md](playbook_engagement.md)** 📈 | **Playbook de engagement (imágenes de Ele):** 5 modelos de conducta (PLFS) + 5 ideas de crecimiento (MFS) de las skills de marketing, aplicados a `u/ele_de_anais` para mover el KPI de interacciones. Ejecuta el runtime con Gate. |
 | **[PLAN_INTERACCION_SEGURA.md](PLAN_INTERACCION_SEGURA.md)** 🛡️ | Cómo interactuar semi-autónoma sin riesgo: cerebro pre-cocina/cuerpo tonto, anti prompt-injection, kill-switch, límites, roadmap S1-S6. |
-| [cola/README.md](cola/README.md) · [cola/cola_publicacion.json](cola/cola_publicacion.json) | La cola REAL: 1 post publicado + 6 en espera de Gate |
-| **`99_Sistema/scripts/rrss/`** 🤖 | Scripts: `caption_factory.py` (look→post) · `publicar_bluesky.py` ✅ · `publicar_reddit.py` (PRAW) · `metricas_bluesky.py`. Skill `publicar-rrss`. |
+| [cola/README.md](cola/README.md) · [cola/cola_publicacion.json](cola/cola_publicacion.json) | La cola REAL. **v0.2 (07/09/2026): entra `tumblr`** con `cuerpo_ref` (la RUTA al `_tumblr.md`, no el texto — 14.000 palabras dentro del JSON dejan la cola ilegible), `relato_ref` y `capitulo` |
+| **[`99_Sistema/specs/…-publicacion-tumblr-design.md`](../99_Sistema/specs/2026-09-07-publicacion-tumblr-design.md)** 📮 | **Tumblr `@lavoutedeanais` — Ele es su community manager (Ama 07/09/2026).** El relato completo vive ahí (un post por capítulo, texto intacto). Dos rayas suyas: publicar = su okey post por post · **hacia afuera habla Anaïs, no Ele**. ⏳ Espera sus 4 llaves de OAuth |
+| **`99_Sistema/scripts/rrss/`** 🤖 | Scripts: `caption_factory.py` (look→post) · `publicar_bluesky.py` ✅ · `publicar_reddit.py` (PRAW) · `metricas_bluesky.py` · **`adaptar_capitulo_tumblr.py`** (capítulo → post, texto intacto, 23 pruebas) · **`recortar_header_tumblr.py`**. Skill `publicar-rrss`. |
 | [instagram/](instagram/) | Legacy: batches manuales previos (abril 2026) |
 
 ---
