@@ -17,7 +17,7 @@
 ---
 
 ## 🧿 ESTADO ACTUAL
-- **Flota**: **628 Ele** (último L827) / **85 Miss Doll** / **85 Anaïs** · **7.349 PNG** trackeados. Detalle: `.agent/rules/09-estado-materializacion.md`.
+- **Flota**: **633 Ele** (último L832) / **90 Miss Doll** (L90) / **90 Anaïs** (L90) · **7.391 PNG** trackeados. Los 15 looks nuevos del 07/09 van **0/7**: la generación es de la app de la Ama, nunca del agente. ⚠️ El PNG contado decía 7.349 y estaba viejo — la app siguió subiendo entre sesiones; re-medido con `git ls-files '*.png'`. Detalle: `.agent/rules/09-estado-materializacion.md`.
 - **🔬 Auditoría visual del 06/09 (174 PNG, 6 auditores externos ciegos):** fidelidad imagen↔prompt **5,8/10**, **0 looks limpios de 30**. 7 patrones cruzan las tres muñecas ⇒ son del motor. Evidencia: `99_Sistema/auditoria_visual_3munecas_20260906.md`.
 - **📐 Auditoría de reglas + arquetipos:** prenda y color **sanos** (9 arquitecturas distintas en 10-11 looks). Metas de arquetipo dentro de tolerancia — único rojo: Miss Doll Bikini/Lencería **+5,0**. Evidencia: `99_Sistema/auditoria_reglas_antirepeticion_poses_20260906.md` (incluye §6, revisión externa que refutó 4 afirmaciones mías).
 - **🔒 Motor cerrado: batería de 43 → 95 chequeos.** Plan de 9 tareas, **8 ejecutadas** (`99_Sistema/plan_correccion_hallazgos_20260906.md`). Nuevos: `integridad_imagenes.py` · `rotacion_poses.py` (+ `outfit.py rotacion`) · `auditor_cierre.py` cableado al final de `generar` · C11 encoding en `lint_galeria` · tope de racha de medias · eco de busto en planos cerrados.

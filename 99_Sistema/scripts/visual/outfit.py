@@ -72,7 +72,7 @@ sys.path.insert(0, AQUI)
 
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
-from garment_canon import audit_racha_medias, lleva_medias, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
+from garment_canon import racha_medias_detalle, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
 from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
@@ -459,16 +459,17 @@ def cmd_generar(args):
         hist_m = {int(x) for x in (rotm.get("historicos_declarados") or [])}
         secuencia = [g for _, g in historia] + [lk["bloque_b"] for _, lk in orden]
         nums_seq = [n for n, _ in historia] + [int(n) for n, _ in orden]
-        msg_m = audit_racha_medias(secuencia, rotm["maximo"])
+        msg_m, idx_m = racha_medias_detalle(secuencia, rotm["maximo"])
         if msg_m:
-            # la racha termina en el ultimo look que la cierra; si ese look esta
-            # declarado historico, baja a aviso en vez de frenar un batch por algo
-            # ya materializado que no se puede rehacer
-            culpable = None
-            for i in range(len(secuencia) - 1, -1, -1):
-                if lleva_medias(secuencia[i]):
-                    culpable = nums_seq[i]
-                    break
+            # El culpable es el look que CIERRA la racha detectada, y ese indice
+            # lo devuelve el propio auditor. Antes se reconstruia barriendo la
+            # ventana hacia atras hasta el ultimo look con medias — que no es lo
+            # mismo: el 07/09/2026 la racha infractora era L83-L85 (ya en la
+            # galeria) y el motor freno el batch nuevo culpando al L90, el unico
+            # con medias del lote y sin racha ninguna detras. Si el que cierra
+            # esta declarado historico o quedo fuera del batch, baja a aviso: no
+            # se frena un lote por algo ya materializado que no se puede rehacer.
+            culpable = nums_seq[idx_m]
             if culpable in hist_m or culpable not in nums_batch:
                 print("  \U0001f7e0 %s (L%s, historico declarado o fuera del batch)"
                       % (msg_m, culpable))

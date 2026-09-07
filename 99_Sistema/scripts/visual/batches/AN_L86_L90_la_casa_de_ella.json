@@ -1,0 +1,98 @@
+{
+  "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/anais.md §2).",
+  "_origen": "Ama 07/09/2026: 'revisa los prompts de prueba y genera 5 nuevos outfit para cada muñeca'.",
+  "_step_0": "Siluetas del batch anterior L81-L85 = M4/A4 (merry widow), M4/A2 (waspie), M8 (esmoquin), M4/A5 (guepiere), M7 (falda + top). Este usa M6, M10, M4/A7, M3 y M4/A6: ninguna se repite contra ese lote ni dentro de la ventana de 3 del propio batch. Las dos corseterias son A7 (corselette con ligas integradas) y A6 (corse overbust con ballenas de acero) -- subfamilias distintas entre si y distintas de las tres del lote anterior, que es literalmente lo que su §8 exige: 'cada aparicion con una arquitectura distinta de §5.6'.",
+  "_deficit": "Balance medido el 07/09 sobre los 45 looks del conteo (desde el L41, reset del 11/08): Noche/La Voute 31,1% vs meta 33% (-1,9) y Sesion Literaria 11,1% vs 13% (-1,9) empatan como mayor deficit; Boudoir 26,7% vs 27% (-0,3). Latex/Fetichismo viene +2,2 SOBRE meta y Ejecutivo de Poder +1,9: ninguno de los dos aparece. Dos Noche y dos Sesion Literaria cierran ambos huecos de una pasada.",
+  "_cuota_corse": "L88 (A7 corselette con ligas integradas) y L90 (A6 corse overbust) pagan la cuota de corse+tanga del §8, que pide 2 de cada 5 con arquitectura DISTINTA de la §5.6. Las otras dos corseterias vivas -- A4 del L81 y A5 del L84 -- no se repiten.",
+  "_cuota_piel": "L89 lleva marta cibelina en cuello y puños del kimono. El ultimo fue el L85 (zorro plateado) y antes el L72 (vison): se rota el tipo, no se repite.",
+  "_cuota_animal_print": "🔴 CUOTA VENCIDA Y ATRASADA, corregida aca. Su §8 pide animal print 1 de cada 8 looks nuevos y el ultimo fue el L68 (leopardo): L69-L85 son DIECISIETE looks seguidos sin ninguno, o sea dos ventanas enteras incumplidas. El L86 lo paga con python sobre terciopelo de seda -- tejido noble, que es la unica materialidad que su §5.2 autoriza para el print -- y rota el depredador respecto del leopardo.",
+  "_medias": "Medido el 07/09 sobre sus veinte looks de batch: L66-L85 llevan medias en 16 de 20 y ninguna regla suya lo limita, pero es un molde. L86 y L87 van sin medias; L88, L89 y L90 con ellas y su liguero de seis tirantes por encima del calzon (§5.6).",
+  "_guantes": "Sus ultimos cinco looks llevan guantes los cinco. Aca van solo en dos (L86 opera, L89 hasta la muñeca) y en esos dos se OMITE el token de uñas, que es su regla del §5.6 desde el 11/08: con los dedos tapados la manicura no se ve.",
+  "_colorimetria": "Azul medianoche - marfil - rosa polvo - bronce antiguo - negro. Cinco familias distintas y cero rojo/vino dominante, deliberado: su §5.2b midio que el rojo llevaba el 55,4% de sus outfits con los labios crimson FIJOS, o sea la ropa le competia a la boca.",
+  "_su_canon": "Vintage Noir V2.3. Guantes PERMITIDOS (a diferencia de Ele), lunar obligatorio, iris miel ambar, labio crimson fijo. Calzado 12cm exactos, SIN plataforma, suela roja -- su firma, y la unica de las tres sin plataforma.",
+  "_anti_monoblock": "Contraste (L86) - Monoblock (L87) - Contraste (L88) - Triada (L89) - Monoblock (L90).",
+  "personaje": "anais",
+  "batch": "La Casa de Ella -- Dos Noches, Dos Sesiones y el Print que Debia",
+  "fecha": "07/09/2026",
+  "categoria": "Mix",
+  "rango": "86-90",
+  "tags_comunes": [
+    "deficit",
+    "V7poses",
+    "batchL86-L90"
+  ],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush, platform sole, visible platform",
+  "looks": {
+    "86": {
+      "titulo": "Piton de Medianoche en la Escalera de La Voute",
+      "codigo": "N9",
+      "polo": "Noche / La Voûte",
+      "concepto": "Noche/La Voute, uno de los dos mayores deficit (31,1% contra meta 33%). Arquitectura D5 (vestido trompeta/sirena) de la biblioteca §5.6a -- libre en su ventana transversal de 5, que bloqueaba A4, A2, M8, A5 y M7. PAGA LA CUOTA DE ANIMAL PRINT del §8, vencida desde el L68: python estampado sobre terciopelo de seda, que es tejido noble -- la unica materialidad que su §5.2 autoriza para el print -- y rota el depredador respecto del leopardo. Azul medianoche con bronce antiguo: sobre rubio miel funciona como el negro pero sin apagarle el oro del pelo. Modo Contraste. Guantes de opera, asi que se omite el token de uñas.",
+      "bloque_b": "a floor-length fitted trumpet gown in midnight navy silk velvet printed all over with a genuine python marking in navy and antique bronze, close through the bust, waist and hip and flaring into a dramatic sweeping train below the knee, a high square neckline cut straight across beneath the collarbones, long fitted sleeves ending at the wrist, the whole back left bare to the waist and closed with a single line of covered navy buttons from the small of the back to the hem; beneath the gown a midnight navy silk thong, its front a slim tapered panel and its back a single fine cord; no stockings, the gown covers the leg to the floor; midnight navy satin opera gloves reaching above the elbow, closed at the fingers; an antique bronze collar of flat linked plates with no lettering and long faceted smoky quartz drop earrings; 12cm stiletto pump with a pointed toe, in midnight navy patent leather, closed pointed toe, a red lacquered sole",
+      "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, the mirrored stair landing of La Voute, black marble treads underfoot, a tall gilt-framed mirror on the half-landing, one crystal sconce throwing warm light up the wall and the floor below already dark",
+      "props": {
+        "seat": "the low velvet bench on the half-landing",
+        "wall": "the tall gilt-framed mirror",
+        "surface": "the black marble tread",
+        "upright": "the carved newel post of the stair"
+      }
+    },
+    "87": {
+      "titulo": "Gasa de Marfil, Antes del Amanecer",
+      "codigo": "SL3",
+      "polo": "Sesión Literaria",
+      "concepto": "Sesion Literaria, el otro mayor deficit (11,1% contra meta 13%). Arquitectura M10 (vestido de gasa translucida sobre chemise, CUBIERTA) -- bloqueadas M6 (el L86), M7 y M4/A5 de la ventana. Marfil puro sobre gasa de seda: la capa exterior cae sin agarrarse y se lee la chemise debajo, que es la diferencia real contra el vestido columna que su galeria usaba de default. Modo Monoblock. SIN MEDIAS y SIN GUANTES: dos rachas suyas cortadas de una vez -- 16 de sus ultimos 20 looks llevan medias y los ultimos cinco llevan guantes los cinco. Con las manos desnudas el token de manicura si corresponde (§5.6).",
+      "bloque_b": "a floor-length sheer ivory silk-gauze dress worn as the outer layer, its fabric an unlined translucent weave falling straight from a fine strap over each shoulder, a straight neckline across the collarbones, long full sleeves gathered into a narrow cuff at the wrist, and the back left open to the waist and closed at the nape with a single covered ivory button; beneath it an ivory silk charmeuse chemise cut on the bias to mid-thigh, the fabric skimming rather than gripping the body, with a low draped cowl neckline; beneath that an ivory silk thong, its front a slim tapered panel and its back a single fine cord; no stockings, the gauze covers the leg to the floor; bare hands, no gloves; a single strand of graduated pearls sitting close at the throat and matching pearl drop earrings, nothing else; fingernails: almond-shaped, filed short of the fingertip and lacquered in pale antique gold; 12cm D'Orsay stiletto pump with open sides, in ivory patent leather, closed pointed toe, a red lacquered sole",
+      "setting": "8k ultra cinematic intimate portrait, warm amber dramatic lighting, her private study before dawn, walls of dark walnut shelving floor to ceiling, a leather-topped desk with an open notebook and a brass lamp burning on it, the window behind still completely black",
+      "props": {
+        "seat": "the buttoned leather desk chair",
+        "wall": "the dark walnut shelving",
+        "surface": "the leather-topped desk",
+        "upright": "the carved walnut end of the bookcase"
+      }
+    },
+    "88": {
+      "titulo": "Rosa Polvo y Gasa, El Vestidor a Medianoche",
+      "codigo": "B4",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Boudoir/Lenceria (26,7% contra meta 27%). Arquitectura A7 (corselette con ligas integradas) de la biblioteca §5.6 -- bloqueadas M6, M10 y M7 en la ventana de 3, y distinta de las tres corseterias del lote anterior (A4, A2, A5). PAGA LA PRIMERA MITAD DE LA CUOTA DE CORSE+TANGA del §8 y tambien la de bata abierta del §5.1c, con peignoir de gasa al suelo y semitransparente, que es el default desde el 17/08 porque una bata opaca tapa la lenceria en Back View igual de bien que una mal cerrada. Rosa polvo, familia de su paleta que no aparece en su roster reciente. Modo Contraste con el oro viejo del herraje. Manos desnudas, asi que va el token de manicura.",
+      "bloque_b": "a dusty rose sheer corselette in French lace over fine silk tulle as the central piece, boned with fine antique gold channels visible on the outside, cut to a plunge between the cups with the lace panel over each cup left as open work, closing at the centre front with a row of small antique gold hooks and shaping the waist to a deep point over each hip bone, with six integrated garter straps hanging from its lower edge; beneath it a dusty rose silk thong, its front a slim tapered panel of lace and its back a single fine cord, worn UNDER the six straps; sheer rose-tinted seamed stockings, 15 denier, with a straight back seam, clipped to the six straps at mid-thigh; over both a floor-length open peignoir in dusty rose silk gauze, left open and falling loose off one shoulder, its fabric an unlined translucent weave, with wide bell-shaped cuffs at the wrist and a thin sash tied loosely at the waist so the peignoir never closes; bare hands, no gloves; a fine antique gold chain at the throat with a single baroque pearl and matching pearl drop earrings; fingernails: almond-shaped, filed short of the fingertip and lacquered in pale rose; 12cm stiletto Mary Jane pump with a delicate ankle strap, in dusty rose patent leather, closed pointed toe, a red lacquered sole",
+      "setting": "8k ultra cinematic intimate boudoir portrait, warm amber candlelight chiaroscuro, her dressing room at midnight, ivory silk walls, a low bench in dusty rose velvet standing before a triple mirror, a single beaded lamp on the vanity and the rest of the room unlit",
+      "props": {
+        "seat": "the low dusty rose velvet bench",
+        "wall": "the ivory silk wall beside the triple mirror",
+        "surface": "the marble top of the vanity",
+        "upright": "the carved frame of the triple mirror"
+      }
+    },
+    "89": {
+      "titulo": "Marta Cibelina y Bronce en la Biblioteca",
+      "codigo": "SL4",
+      "polo": "Sesión Literaria",
+      "concepto": "Segunda Sesion Literaria: con -1,9 puntos, una sola no mueve la aguja. Arquitectura A10 (balconette) -- bloqueadas M6, M10 y M4/A7 -- bajo capelet corto de piel, que segun el §5.1b cae sobre el escote sin taparlo. PAGA LA CUOTA DE PIELES del §8 con marta cibelina: el ultimo fue zorro plateado en el L85 y antes vison en el L72, o sea que ninguno de los tres se repite. Bronce/cobre antiguo, familia de su paleta que no usa desde hace tiempo. Modo Triada -- bronce, marron de la piel y el negro del fondo. Guantes hasta la muñeca, asi que se omite el token de uñas.",
+      "bloque_b": "an antique bronze silk-satin balconette bra with wide-set moulded cups cut low and horizontal across the bust, a narrow band beneath and fine bronze straps set wide on the shoulder, the upper edge of each cup finished with a band of bronze French lace; a matching antique bronze silk thong, its front a slim tapered panel and its back a single fine cord, worn UNDER a bronze silk suspender belt sitting on the natural waist with six taut straps; sheer bronze-tinted stockings, 15 denier, clipped to the six straps at mid-thigh; over the shoulders a short capelet of dark sable fur fastened at the throat with a single bronze clasp, falling to just below the collarbone and leaving the bust and waist entirely in view; bronze silk gloves reaching the wrist, closed at the fingers; a fine bronze chain at the throat and long faceted citrine drop earrings; 12cm mid-calf stiletto boot ending below the knee, in dark bronze patent leather, closed pointed toe, a red lacquered sole",
+      "setting": "8k ultra cinematic intimate portrait, warm amber dramatic lighting, the corner library at first light, floor-to-ceiling shelves in oxblood-stained oak, a deep wing chair drawn up to the tall window, a low fire almost out in the grate and the first grey light coming through the panes",
+      "props": {
+        "seat": "the deep leather wing chair",
+        "wall": "the oxblood-stained oak shelving",
+        "surface": "the low marble hearthstone",
+        "upright": "the carved oak upright of the bookcase"
+      }
+    },
+    "90": {
+      "titulo": "Corse Negro en el Umbral del Salon",
+      "codigo": "N10",
+      "polo": "Noche / La Voûte",
+      "concepto": "Segunda Noche/La Voute, para cerrar el deficit mayor. Arquitectura A6 (corse overbust con ballenas de acero) -- bloqueadas M10, M4/A7 y M3; el A6 anterior es el L80, diez looks atras y muy fuera de su ventana transversal de 5. PAGA LA SEGUNDA MITAD DE LA CUOTA DE CORSE+TANGA del §8, y con una arquitectura distinta de la del L88, que es lo que la cuota exige textualmente. Negro, familia que no aparece desde el L81. MEDIAS DE RED, que su §6 marca como casi regulares en este arquetipo, y por eso el calzado va de puntera cerrada. Modo Monoblock. Manos desnudas, token de manicura puesto.",
+      "bloque_b": "a black patent leather overbust corset as the central piece, with visible spiral steel boning channels stitched down the outside, cut straight across the top of the bust and shaped to a deep point over each hip bone, a row of jet busk clasps down the centre front and a wide flat black satin lacing panel down the back drawn tight over a black silk modesty panel; beneath it a black silk thong, its front a slim tapered panel and its back a single fine cord, worn UNDER a black satin suspender belt sitting on the natural waist with six taut straps; black fishnet stockings in a fine open diamond weave, clipped to the six straps at mid-thigh; bare hands, no gloves; a black velvet ribbon collar with no lettering and a single jet drop at the throat, long faceted jet drop earrings; fingernails: almond-shaped, filed short of the fingertip and lacquered in deep aubergine; 12cm thigh-high over-the-knee stiletto boot in black patent leather reaching mid-thigh, closed pointed toe, a red lacquered sole",
+      "setting": "8k ultra cinematic film noir portrait, single dramatic spotlight from above, the doorway of the private salon, a heavy black velvet portiere drawn back on brass rings, black and white marble underfoot, one hard light falling from the corridor behind her and the salon beyond in shadow",
+      "props": {
+        "seat": "the gilt hall chair beside the doorway",
+        "wall": "the drawn-back black velvet portiere",
+        "surface": "the black and white marble floor",
+        "upright": "the moulded doorframe of the salon"
+      }
+    }
+  },
+  "_prefijo_cine": "Cada setting abre con el prefijo y la clave de luz de SU arquetipo, copiados de la tabla maquina-legible `anclas_universales.json -> personajes.anais.prefijos_arquetipo` (dueño unico: dna_v2_3.md). Su §5.7 lo exige y el linter lo verifica look por look: el defecto que la creo fue un batch entero que copio el prefijo de Ejecutivo de Poder a seis looks de otros arquetipos."
+}

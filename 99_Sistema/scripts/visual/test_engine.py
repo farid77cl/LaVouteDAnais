@@ -386,6 +386,21 @@ check("medias: el maximo es parametro, no constante",
       audit_racha_medias([_CON, _CON], maximo=1) is not None
       and audit_racha_medias([_CON, _CON], maximo=2) is None)
 
+# REGRESION 07/09/2026 — a QUIEN se culpa por la racha.
+# `audit_racha_medias` devolvia solo el texto y `outfit.py generar` reconstruia
+# el culpable barriendo la ventana hacia atras hasta el ultimo look CON medias.
+# No es lo mismo: con la racha infractora ya escrita en la galeria (L83-L85 de
+# Miss Doll) y un batch nuevo cuyo unico look con medias va al final y aislado,
+# el motor frenaba el lote culpando a ese ultimo look, que no forma racha con
+# nadie. Con la racha vieja dentro de la ventana de 12, ningun batch nuevo con
+# una sola media podia volver a pasar.
+from garment_canon import racha_medias_detalle                      # noqa: E402
+_msg_r, _idx_r = racha_medias_detalle([_CON, _CON, _CON] + [_SIN] * 4 + [_CON])
+check("medias: el culpable es el look que CIERRA la racha, no el ultimo con medias",
+      _msg_r is not None and _idx_r == 2)
+check("medias: sin racha, el detalle no devuelve indice",
+      racha_medias_detalle([_SIN, _CON, _CON, _SIN]) == (None, None))
+
 # G3 el ancla de costura no viaja en un look SIN medias.
 # miss_doll L77 declara `bare legs, no stockings` en su BLOQUE B y sus prompts
 # traen igual "the stockings have ONE single seam...". El disparador ya pedia dos

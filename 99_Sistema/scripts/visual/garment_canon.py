@@ -684,13 +684,30 @@ def audit_racha_medias(bloques_b, maximo=2):
     con razon: si acepta la excepcion en un comentario, manana la acepta en el
     `if` de al lado.)
     """
+    return racha_medias_detalle(bloques_b, maximo)[0]
+
+
+def racha_medias_detalle(bloques_b, maximo=2):
+    """(mensaje, indice_del_look_que_CIERRA la racha) — (None, None) si cumple.
+
+    Existe porque `audit_racha_medias` devolvia solo el texto, y quien lo llama
+    tenia que adivinar a que look culpar. `outfit.py generar` adivinaba mal:
+    barria la ventana hacia atras buscando el ultimo look CON medias y culpaba a
+    ese. Medido el 07/09/2026 sobre el batch L86-L90 de Miss Doll — la racha
+    infractora era L83-L84-L85, ya escrita en la galeria, y el motor freno el
+    batch culpando al L90, que es el unico con medias del lote y que NO forma
+    parte de ninguna racha (los cuatro anteriores van con la pierna desnuda).
+    Con la racha vieja dentro de la ventana de 12, ningun batch nuevo con una
+    sola media podia volver a pasar. El indice que cierra la racha se conoce en
+    el momento de detectarla: se devuelve en vez de reconstruirse mal despues.
+    """
     racha = 0
     for i, b in enumerate(bloques_b):
         racha = racha + 1 if lleva_medias(b) else 0
         if racha > maximo:
             return ("%d looks seguidos con medias (posiciones %d-%d de la ventana) — "
-                    "el maximo es %d" % (racha, i - racha + 2, i + 1, maximo))
-    return None
+                    "el maximo es %d" % (racha, i - racha + 2, i + 1, maximo), i)
+    return None, None
 
 
 # ---------------------------------------------------------------------------

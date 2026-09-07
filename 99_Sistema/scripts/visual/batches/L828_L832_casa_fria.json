@@ -1,0 +1,106 @@
+{
+  "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/ele.md §2). Las poses salen del contrato.",
+  "_origen": "Ama 07/09/2026: 'revisa los prompts de prueba y genera 5 nuevos outfit para cada muñeca'.",
+  "_step_0": "Arquitecturas del batch anterior L823-L827 = M6, M8, M3, M10, M1. Este usa M4/A8, M2, M9, M7 y M4/A2: cero repeticion contra ese batch y cero contra la ventana global de 3. ⚠️ Las DOS corseterias del batch no son un descuido: con la taxonomia en 10 codigos, un lote de 5 contra el lote anterior de 5 deja exactamente 5 libres, y M5 (arnes) es INALCANZABLE por construccion -- su regex es `\\bharness\\b` y va ultima en el orden, detras de M3, cuyo regex incluye `\\bthong\\b`, que BOTTOM_CUT_LOCK obliga a nombrar en todo look. O sea que en la practica hay 9 codigos usables y uno de los cinco tiene que doblar subfamilia. Se dobla en M4, que es justamente donde la subfamilia existe: A8 (bustier, busto estructurado, termina en la cintura) y A2 (waist cincher, solo cintura, con el busto vestido aparte) son dos siluetas realmente distintas, no el mismo corse de otro color. El hueco de M5 queda reportado, no parcheado a mano.",
+  "_deficit": "Balance medido el 07/09 por tag sobre 613 looks clasificables de 628: High-Fashion Editorial 6,4% vs meta 9,4% (el mayor deficit por lejos) · Corporate 8,2% · Bikini 8,5% · Lenceria 13,9% vs meta 15%. Stripper viene +4,1 SOBRE meta y Escort +1,5, por eso ninguno de los dos aparece.",
+  "_colorimetria": "Esmeralda - ciruela - iridiscente oil-slick - zafiro - cebra sobre blanco vinilo. Cinco familias distintas, ninguna repetida contra las tres anteriores (L825 naranja, L826 teal, L827 metal). El verde abre el batch porque su §5.2b lo mide como su ganancia sin cobrar mas clara (7,7%) y es el eco de su iris grey-green. Cero rojo/cherry dominante: reservados al ADN.",
+  "_cuota_animal_print": "L832 lleva cebra. El ultimo print fue el L825 (python) y antes el L817 (leopard): se rota el depredador, no se repite. La cuota es 1 de cada 8 y sin este el tramo L826-L833 se quedaba sin ninguno.",
+  "_anti_monoblock": "Monoblock (L828) - Contraste (L829) - Gradiente (L830) - Neutro+Pop (L831) - Contraste (L832). Maximo 2 monoblock seguidos, cumplido con holgura.",
+  "_medias": "Con medias L828 y L831; sin medias L829, L830 y L832. Ele no declara tope de racha, pero el batch anterior cerro con medias (L827) y tres seguidas seria molde.",
+  "personaje": "ele",
+  "batch": "La Casa Fria -- Cinco Arquitecturas y el Verde que le Faltaba",
+  "fecha": "07/09/2026",
+  "categoria": "Mix",
+  "rango": "828-832",
+  "tags_comunes": [
+    "deficit",
+    "V7poses",
+    "batchL828-L832"
+  ],
+  "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, sneakers, barefoot, kitten heel, wedge, block heel, gloves, opera gloves, lace gloves",
+  "looks": {
+    "828": {
+      "titulo": "Emerald Bustier de Casa de Baños",
+      "codigo": "LB6",
+      "polo": "Lencería",
+      "concepto": "Lenceria (13,9% contra meta 15%). Arquitectura M4/A8 (bustier estructurado + tanga) -- libre en la ventana global de 3, que bloqueaba M3, M10 y M1, y libre tambien contra el lote anterior completo. Abre el batch con ESMERALDA, que su §5.2b mide como la ganancia sin cobrar mas clara de su flota (verde 7,7%) y es el eco de su iris grey-green: el unico plano frio que separa el hot pink de la boca del cereza del pelo. Modo Monoblock. El bustier estructura el busto y muere en la cintura -- es la silueta opuesta al cincher del L832, que deja el busto vestido aparte y solo ciñe.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in smoky charcoal and cold steel blue"
+      },
+      "bloque_b": "a deep emerald green high-gloss latex bustier holding the centre of the look, its cups moulded firm and seamed in three vertical panels, mirror-chrome bones showing on the outside of every seam, closing at the centre front on a column of small mirror-chrome hooks, emerald straps set wide on the outer shoulder, and its lower edge stopping exactly at the natural waist; an emerald latex g-string beneath it, narrow triangular front, one thin strand behind, its band resting on the hip bone; a separate emerald latex hip belt carrying six suspender straps down to sheer emerald-tinted seamed stockings at 15 denier, back seam straight, clipped at mid-thigh; hands uncovered, no gloves; one plain mirror-chrome band at the throat without lettering and long faceted emerald drops at the ears, nothing more; fingernails French XXXL at 5cm, crisp white tip on a sheer pink bed; closed pointed-toe platform stiletto pumps in emerald mirror patent latex, 15cm razor-thin mirror-chrome pin heel plus a 4-inch emerald platform, sharp closed pointed toe, a single thin emerald ankle strap fastened with a chrome pin buckle, mirror-chrome sole edge and a chrome heel cap",
+      "setting": "a marble bathhouse antechamber at night, pale grey veined marble walls, a long emerald velvet banquette against one of them, a single row of frosted glass sconces throwing low even light, the air still warm",
+      "props": {
+        "seat": "the long emerald velvet banquette",
+        "wall": "the pale grey veined marble wall",
+        "surface": "the polished marble floor",
+        "upright": "a fluted marble column"
+      }
+    },
+    "829": {
+      "titulo": "Dark Plum Cord Rooftop Two-Piece",
+      "codigo": "B3",
+      "polo": "Bikini",
+      "concepto": "Bikini (8,3% contra meta 9,4%). Arquitectura M2 (micro dos piezas) -- bloqueadas M10, M1 y M4/A8. Ciruela oscuro, familia de los Morados que no aparece en ninguno de sus dos batches anteriores. Modo Contraste con la plata espejo de los cordones. Corte deliberadamente simple (triangulos anudados con cordon) porque el latex de alto brillo ya es material exigente y apilar constraints duros es lo que devuelve poses fallidas.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in deep indigo and violet-grey"
+      },
+      "bloque_b": "a dark plum high-gloss latex micro bikini in two pieces: above, two moulded plum triangles set wide apart and linked at the centre by a single mirror-silver O-ring, each triangle carried straight up to the nape on a flat plum band with no knot anywhere; below, a plum thong whose narrow front meets a mirror-silver O-ring at each hip, the back reduced to one thin strand; legs bare, no stockings anywhere; no gloves, the hands left bare; a fine mirror-silver chain lying across the ribcage and small mirror-silver hoops at the ears; French XXXL nails 5cm long, white tips over translucent pink; open-toe platform stiletto sandals in clear transparent acrylic, 16cm razor-thin clear acrylic heel plus a 6-inch clear platform, open square toe, a clear acrylic ankle strap with a mirror-silver pin buckle, and a mirror-silver mirrored sole edge",
+      "setting": "a private rooftop plunge pool at dusk, black granite coping around still water, the moving line of reflected light thrown up onto a pale concrete wall, a single low sunbed of dark teak set back from the edge",
+      "props": {
+        "seat": "the low dark teak sunbed",
+        "wall": "the pale concrete pool wall",
+        "surface": "the black granite pool coping",
+        "upright": "a slim steel pergola post"
+      }
+    },
+    "830": {
+      "titulo": "Oil-Slick Gallery Catsuit",
+      "codigo": "HF2",
+      "polo": "High-Fashion Editorial",
+      "concepto": "High-Fashion Editorial, el mayor deficit del roster (6,4% contra 9,4%, medido por tag el 07/09). Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- bloqueadas M1, M4/A8 y M2. Iridiscente oil-slick: familia de ACABADO multichrome, no de tono, y la menos usada de su paleta desde que se estreno en el L193. Modo Gradiente, que es literalmente lo que hace la superficie. El escenario cambia a proposito contra el L823, el HF anterior: alli era ciclorama de estudio, aca es galeria de noche -- la ventana de setting de su sub-arquetipo lo exige.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in iridescent teal-green and gunmetal"
+      },
+      "bloque_b": "an oil-slick multichrome high-gloss latex catsuit in one piece, full-length legs to the ankle, its surface turning from petrol green through violet to gunmetal as the light moves across it; a mock neck closed at the throat, no sleeves at all and the armhole cut high and clean, the body built in vertical panels seamed from the shoulder down to the ankle, one gunmetal ring pull at the sternum opening a zip that runs as far as the navel; an oil-slick latex thong worn under it, a narrow front panel and a single thread at the back; the leg is covered to the ankle by the catsuit itself, so no hosiery; bare hands throughout, no gloves; long faceted gunmetal bars at the ears and nothing at the throat; the nails French XXXL, 5cm, white points on a clear pink base; closed pointed-toe stiletto ankle boots in oil-slick multichrome patent latex, 13cm razor-thin gunmetal pin heel with no platform, sharp closed pointed toe, a concealed inner zip at the ankle, gunmetal sole edge and a gunmetal heel cap",
+      "setting": "a gallery after hours, one vast blank wall in cool white plaster, a polished black terrazzo floor, a single narrow beam of gallery light falling across it and everything beyond that beam dark",
+      "props": {
+        "seat": "a low black terrazzo plinth",
+        "wall": "the vast blank white plaster wall",
+        "surface": "the polished black terrazzo floor",
+        "upright": "a slim white gallery column"
+      }
+    },
+    "831": {
+      "titulo": "Sapphire Graphite Corner Office",
+      "codigo": "C5",
+      "polo": "Corporate",
+      "concepto": "Corporate (9,0% contra meta 9,4%, segundo deficit). Arquitectura M7 (minifalda + top, CUBIERTA) -- bloqueadas M4/A8, M2 y M9. Zafiro saturado contra grafito: azul frio, familia que no aparece como dominante desde el cyan del L821 y que su §5.2b nombra entre las que le favorecen. Modo Neutro+Pop, base grafito y el zafiro mandando en la falda. Setting nocturno de oficina en esquina, distinto del sala de directorio del L824.",
+      "bloque_b": "a sapphire blue high-gloss vinyl wrap miniskirt, its outer panel crossing over the front and fastening on the left hip under a flat gunmetal plate, the band sitting on the natural waist and the hem finishing high on the thigh; above it a graphite mirror-vinyl halter blouse tied behind the neck, a deep V opening at the front held by two gunmetal loops, the whole back open to the shoulder blades and the hem knotted just under the ribs; a sapphire vinyl g-string under the skirt, cut narrow at the front and down to one cord behind; ultra-sheer graphite-tinted hosiery at 10 denier on a sapphire vinyl suspender belt with four thin straps clipped at mid-thigh; no gloves at any point, hands bare; narrow rectangular black-framed glasses, small gunmetal bars at the ears and nothing at the throat; XXXL French manicure at 5cm, sharp white tips with translucent pink underneath; closed pointed-toe stiletto court pumps in sapphire mirror patent vinyl, 13cm razor-thin gunmetal pin heel with no platform, sharp closed pointed toe, a single thin sapphire ankle strap fastened with a gunmetal pin buckle, gunmetal sole edge and a gunmetal heel cap",
+      "setting": "a corner office at night, floor-to-ceiling glass with the city grid laid out below it, a long slab of graphite stone serving as the desk, one low desk lamp and the cold spill of the city as the only other light",
+      "props": {
+        "seat": "the graphite leather desk chair",
+        "wall": "the floor-to-ceiling office glass",
+        "surface": "the graphite stone desk slab",
+        "upright": "a slim steel window mullion"
+      }
+    },
+    "832": {
+      "titulo": "Zebra Cincher de Cocina",
+      "codigo": "D5",
+      "polo": "Domestic",
+      "concepto": "Domestic (9,9%, en meta). Arquitectura M4/A2 (waist cincher, ciñe solo la cintura con el busto vestido aparte) -- libre en la ventana global de 3, que bloqueaba M2, M9 y M7, y distinta de la A8 del L828: aquella estructura el busto y termina en la cintura, esta empieza ahi. PAGA LA CUOTA DE ANIMAL PRINT: el ultimo fue el L825 (python) y antes el L817 (leopard), asi que se rota a CEBRA -- no se repite depredador. La cebra es monocroma, o sea que carga el print sin meter un tercer rojo en una cara que ya tiene dos. Modo Contraste, blanco vinilo contra negro carbon.",
+      "adn_overrides": {
+        "intense shimmer smokey eyeshadow in cool jade-green and smoky pewter": "intense shimmer smokey eyeshadow in smoky graphite and cold silver-grey"
+      },
+      "bloque_b": "a zebra-print high-gloss vinyl waist cincher as the centre of the look, its marking a true zebra stripe in vinyl white over carbon black, cut broad from under the bust to the top of the hip bone, flat black lacquer bones showing on the outside and a column of black lacquer hooks closing it down the centre back; above it a carbon black vinyl bandeau of two moulded cups joined by a flat black lacquer bar, held by one band running straight across the collarbones; a carbon black vinyl thong under the cincher, front panel tapered, back a single thin band; legs uncovered, no hosiery; the hands left bare, no gloves; a plain black lacquer band at the throat without lettering and small black lacquer discs at the ears; 5cm French XXXL nails, white tip on a sheer pink bed; open-toe platform stiletto sandals in carbon black patent vinyl, 15cm razor-thin black lacquer pin heel plus a 4-inch black platform, open square toe, doubled black ankle straps with black pin buckles, and a black lacquer sole edge",
+      "setting": "a bright modern kitchen in the late afternoon, bone-white lacquer cabinetry along one wall and a long island of pale quartz, low sun coming in flat across the floor",
+      "props": {
+        "seat": "a white lacquer counter stool",
+        "wall": "the bone-white lacquer cabinetry",
+        "surface": "the pale quartz island",
+        "upright": "the tall lacquered pantry column"
+      }
+    }
+  },
+  "_categorias": "El campo `polo` usa TEXTUAL uno de los 10 nombres de la lista cerrada de `lint_galeria.CATEGORIAS` -- 'Lencería' y 'Bikini', no 'Lencería Boudoir' ni 'Bikini Studio'. El chequeo C6 los rebota, y con razon: una categoria que se escribe de dos formas es una categoria que no se puede contar."
+}
