@@ -22,6 +22,8 @@ GALERIAS = {
     "anais": (FIXTURES / "anais_min.md").read_text(encoding="utf-8"),
 }
 
+ELE_ARCHIVO = (FIXTURES / "ele_archivo_min.md").read_text(encoding="utf-8")
+
 # Sólo Ele tiene una imagen subida, y sólo la standing.
 IMAGENES = {
     "ele": {800: {"standing": "ele_800_standing.png"}},
@@ -61,6 +63,39 @@ def test_el_nombre_de_la_quinta_pose_viaja_en_la_cabecera():
     idx = _indice()
     assert idx["personajes"]["anais"]["slot5"] == "Sovereign Gaze"
     assert idx["personajes"]["ele"]["slot5"] == "Ditzy"
+
+
+# --- varias galerías por personaje (regla 11 §9bis: el archivo de Ele y la era
+# gótica alimentan la app a propósito) --------------------------------------
+
+
+def _galerias_con_archivo():
+    g = dict(GALERIAS)
+    g["ele"] = [GALERIAS["ele"], ELE_ARCHIVO]
+    return g
+
+
+def test_un_personaje_puede_declarar_mas_de_una_galeria():
+    idx = GEN.construir_indice(CFG, IMAGENES, _galerias_con_archivo())
+    assert sorted(l["n"] for l in idx["looks"] if l["p"] == "ele") == [42, 800]
+
+
+def test_la_galeria_viva_gana_el_numero_repetido():
+    idx = GEN.construir_indice(CFG, IMAGENES, _galerias_con_archivo())
+    look = next(l for l in idx["looks"] if l["p"] == "ele" and l["n"] == 800)
+    assert look["t"] == "Chrome Hooded Column"
+
+
+def test_el_numero_repetido_se_reporta_como_hallazgo():
+    hallazgos = []
+    GEN.construir_indice(CFG, IMAGENES, _galerias_con_archivo(), hallazgos)
+    assert any("800" in h for h in hallazgos), hallazgos
+
+
+def test_los_prompts_tambien_salen_de_las_galerias_extra():
+    p = GEN.construir_prompts(CFG, _galerias_con_archivo())
+    assert "ele/42" in p
+    assert p["ele/800"]["prompts"]["standing"] == "prompt de pie para ele look 800"
 
 
 def test_el_indice_no_lleva_prompts():

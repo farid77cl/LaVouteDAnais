@@ -148,6 +148,35 @@ def _fecha_de(meta):
     return m.group(1) if m else None
 
 
+def looks_de(galeria, slot5_nombre, hallazgos=None, slug=""):
+    """Parsea UNA o VARIAS galerías del mismo personaje y devuelve sus looks.
+
+    Un personaje puede alimentar la app desde más de un archivo: la regla 11
+    §9bis declara que `00_Ele/galeria_outfits_archivo.md` (L85-L199) y
+    `00_Ele/memoria_historica/galeria_outfits_era_gotica.md` (L01-L84, era
+    Helena) entran a propósito. Leer sólo la galería viva dejaba fuera 178
+    looks de Ele que el índice anterior sí publicaba.
+
+    Orden = prioridad: la primera es la VIVA. Si un número se repite —entre
+    galerías o dentro de una misma— gana la primera aparición y la repetida se
+    anota en `hallazgos`, porque una colisión silenciosa es exactamente la
+    cicatriz que la regla 11 §9bis documenta.
+    """
+    textos = [galeria] if isinstance(galeria, str) else list(galeria)
+    vistos = {}
+    for texto in textos:
+        for parsed in galeria_parser.parse_como_la_app(texto, slot5_nombre):
+            if parsed["num"] in vistos:
+                if hallazgos is not None:
+                    hallazgos.append(
+                        f"{slug} look {parsed['num']}: numero declarado dos veces; gana la "
+                        f"galeria de mayor prioridad "
+                        f"({vistos[parsed['num']]['titulo'] or 'sin titulo'})")
+                continue
+            vistos[parsed["num"]] = parsed
+    return list(vistos.values())
+
+
 def imagenes_trackeadas(slug, cfg):
     """{numero_look: {pose_canonica: nombre_archivo}} desde git ls-files."""
     out = subprocess.run(
@@ -177,7 +206,7 @@ def imagenes_trackeadas(slug, cfg):
     return dict(por_look)
 
 
-def construir_indice(cfg_personajes, imagenes_por_personaje, galerias):
+def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos=None):
     """El JSON completo del índice. No toca disco ni git a propósito:
     recibe todo por parámetro, así que se puede probar con fixtures sin
     montar un repo falso.
@@ -192,7 +221,7 @@ def construir_indice(cfg_personajes, imagenes_por_personaje, galerias):
             "carpeta": cfg["carpeta_imagenes"],
         }
         imagenes = imagenes_por_personaje.get(slug, {})
-        for parsed in galeria_parser.parse_como_la_app(galerias[slug], cfg["slot5_nombre"]):
+        for parsed in looks_de(galerias[slug], cfg["slot5_nombre"], hallazgos, slug):
             numero = parsed["num"]
             presentes = imagenes.get(numero, {})
             img = {}
@@ -236,7 +265,7 @@ def construir_prompts(cfg_personajes, galerias):
     salida = {}
     for slug, cfg in cfg_personajes.items():
         slot5 = cfg["slot5_nombre"]
-        for parsed in galeria_parser.parse_como_la_app(galerias[slug], slot5):
+        for parsed in looks_de(galerias[slug], slot5):
             prompts = {}
             for display, textos in parsed["prompts"].items():
                 pose = galeria_parser.slug_de_pose(display, slot5)
@@ -259,7 +288,8 @@ def _cargar():
         (Path(__file__).parent / "anclas_universales.json").read_text(encoding="utf-8")
     )["personajes"]
     galerias = {
-        slug: (REPO_ROOT / c["galeria"]).read_text(encoding="utf-8")
+        slug: [(REPO_ROOT / ruta).read_text(encoding="utf-8")
+               for ruta in [c["galeria"], *c.get("galerias_extra", [])]]
         for slug, c in cfg.items()
     }
     imagenes = {slug: imagenes_trackeadas(slug, c) for slug, c in cfg.items()}
