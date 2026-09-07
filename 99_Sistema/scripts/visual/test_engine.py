@@ -401,6 +401,28 @@ check("medias: el culpable es el look que CIERRA la racha, no el ultimo con medi
 check("medias: sin racha, el detalle no devuelve indice",
       racha_medias_detalle([_SIN, _CON, _CON, _SIN]) == (None, None))
 
+# VETO DE CALZADO PROPIO DEL PERSONAJE (07/09/2026).
+# La §5.3 de Miss Doll saco el botin de la rotacion el 11/08/2026 y la regla
+# quedo SIN EJECUTOR: audit_footwear comprobaba plataforma y jamas la altura de
+# la caña. Por ese hueco su L85 (05/09) paso la puerta con `platform stiletto
+# ankle boots` en sus 7 poses. El veto es DATO del perfil, no una lista cableada
+# aqui: Ele no lo tiene (su L830 usa botin legitimamente) y por eso el mismo
+# token pasa limpio cuando no se pasan vetados.
+from footwear_canon import audit_footwear                            # noqa: E402
+_BOTIN = ("closed pointed-toe platform stiletto ankle boots in gunmetal patent vinyl, "
+          "16cm razor-thin chrome needle heel plus a 6-inch gunmetal platform")
+_RODILLA = ("closed pointed-toe platform stiletto knee-high boots in gunmetal patent vinyl "
+            "ending exactly at the knee, 16cm razor-thin chrome needle heel plus a 6-inch platform")
+_VETO = [{"termino": "ankle boot", "sustituto": "bota knee-high o thigh-high"}]
+check("calzado vetado: el botin se caza cuando el perfil lo veta",
+      any("CALZADO VETADO" in v for v in audit_footwear(_BOTIN, vetados=_VETO)))
+check("calzado vetado: SIN veto declarado el mismo token pasa limpio",
+      not any("CALZADO VETADO" in v for v in audit_footwear(_BOTIN)))
+check("calzado vetado: la bota a la rodilla pasa aunque el veto este puesto",
+      not any("CALZADO VETADO" in v for v in audit_footwear(_RODILLA, vetados=_VETO)))
+check("calzado vetado: el mensaje nombra el sustituto",
+      any("knee-high" in v for v in audit_footwear(_BOTIN, vetados=_VETO)))
+
 # G3 el ancla de costura no viaja en un look SIN medias.
 # miss_doll L77 declara `bare legs, no stockings` en su BLOQUE B y sus prompts
 # traen igual "the stockings have ONE single seam...". El disparador ya pedia dos

@@ -157,7 +157,8 @@ def cmd_generar(args):
         # Un fix que no llega a la ruta que genera no es un fix, es un recuerdo.
         canon = (audit_footwear(lk["bloque_b"], garments=lk["bloque_b"],
                                 archetype=lk.get("codigo") or b.get("categoria", ""),
-                                tag="L%s" % num)
+                                tag="L%s" % num,
+                                vetados=(pb.perfil.get("calzado_vetado") or {}).get("terminos"))
                  + [v for v in audit_garment(lk["bloque_b"],
                                              archetype=lk.get("codigo") or b.get("categoria", ""),
                                              tag="L%s" % num)

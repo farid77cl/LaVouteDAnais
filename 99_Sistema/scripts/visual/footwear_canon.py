@@ -100,7 +100,7 @@ def _platform_inches(footwear):
     return best
 
 
-def audit_footwear(footwear, garments="", archetype="", tag=""):
+def audit_footwear(footwear, garments="", archetype="", tag="", vetados=None):
     """Lintea UN look. Devuelve lista de mensajes de violacion (vacia = limpio).
     tag = etiqueta libre para el mensaje (ej. 'L734')."""
     pre = f"[{tag}] " if tag else ""
@@ -149,6 +149,30 @@ def audit_footwear(footwear, garments="", archetype="", tag=""):
     if CHUNKY in fw.lower():
         out.append(f"{pre}'chunky' en el token de calzado (positive): produce tacon bloque. "
                    f"Solo va en el negative ('chunky heel').")
+
+    # 5) VETO DE CALZADO PROPIO DEL PERSONAJE (07/09/2026)
+    #
+    # `vetados` llega del perfil del personaje
+    # (`anclas_universales.json -> personajes.<slug>.calzado_vetado.terminos`),
+    # NUNCA de una lista cableada aqui: el botin esta vetado en Miss Doll (§5.3,
+    # Ama 11/08/2026) y NO lo esta en Ele, cuyo L830 lo usa legitimamente. Un
+    # `if slug == ...` en este archivo seria la rama que el proximo personaje no
+    # hereda -- exactamente lo que `outfit.py modularidad` prohibe.
+    #
+    # Por que nace: la regla de Miss Doll llevaba desde el 11/08 escrita y sin
+    # ejecutor. Este auditor comprobaba que el calzado tuviera plataforma y
+    # jamas la ALTURA DE LA CAÑA, asi que su L85 (05/09/2026) paso la puerta con
+    # `platform stiletto ankle boots` repetido en sus 7 poses y nadie lo vio
+    # hasta que se leyo la galeria a mano. Una regla que ningun script corre no
+    # es una regla: es una intencion.
+    for veto in (vetados or []):
+        termino = veto.get("termino") if isinstance(veto, dict) else veto
+        if not termino or termino.lower() not in fw.lower():
+            continue
+        sust = veto.get("sustituto", "") if isinstance(veto, dict) else ""
+        out.append(f"{pre}CALZADO VETADO ('{termino}') en el positive"
+                   + (f": usa {sust}." if sust else ".")
+                   + " El veto es del perfil del personaje, no del motor.")
     return out
 
 

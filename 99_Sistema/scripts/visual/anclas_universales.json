@@ -573,6 +573,29 @@
           85
         ],
         "_historicos_porque": "Los tres estan materializados; rediseñar uno es decision editorial de la Ama. Bajan a aviso para no gritar por lo inarreglable — un linter asi enseña a ignorarlo."
+      },
+      "calzado_vetado": {
+        "_dueno_unico": "02_Personajes/_perfiles_visuales/miss_doll.md §5.3 -- esto es su copia maquina-legible, para que el linter pueda verificarla. Si se edita un lado, editar el otro.",
+        "_porque": "Ama 11/08/2026: cuando el calzado elegido es bota, solo knee-high o thigh-high, nunca ankle boot corto. La regla estaba escrita desde entonces y NO TENIA EJECUTOR: audit_footwear verificaba que hubiera plataforma, jamas la altura de la caña. Por ese hueco el L85 (05/09/2026) paso la puerta con `platform stiletto ankle boots` en sus 7 poses. Corregido el 07/09 con el okey de la Ama.",
+        "_alcance": "SOLO de Miss Doll: Ele no veta el botin (su L830 lo usa legitimamente) y la §5.3 de Anais tampoco lo nombra. Por eso vive en su perfil y no en el codigo -- un `if slug == ...` en footwear_canon seria la rama que el proximo personaje no hereda, justo lo que `outfit.py modularidad` prohibe.",
+        "terminos": [
+          {
+            "termino": "ankle boot",
+            "sustituto": "bota knee-high (a la rodilla) o thigh-high (sobre rodilla)"
+          },
+          {
+            "termino": "ankle-boot",
+            "sustituto": "bota knee-high (a la rodilla) o thigh-high (sobre rodilla)"
+          },
+          {
+            "termino": "bootie",
+            "sustituto": "bota knee-high (a la rodilla) o thigh-high (sobre rodilla)"
+          },
+          {
+            "termino": "short boot",
+            "sustituto": "bota knee-high (a la rodilla) o thigh-high (sobre rodilla)"
+          }
+        ]
       }
     },
     "anais": {
