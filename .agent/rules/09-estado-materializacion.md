@@ -2,6 +2,26 @@
 
 Este documento es el registro de "memoria viva" sobre el progreso visual del repositorio. Debe ser consultado antes de cada Batch y actualizado después de cada sincronización exitosa (Última actualización: 03/09/2026 — sync `sync_imagenes_subidas.py` + `sync_tracker_galeria_personaje.py`: **19 looks de Ele L397-L463 corregidos, 70 poses reales que el tracker daba por pendientes** · Anaïs L64 recuperado a 7/7 y **L75 subió a 4/7 real** (Standing/Back View/Seated/Side Profile ya generados con el prompt de rostro corregido — ver nota del mismo día abajo) · Miss Doll ya sincronizado, 0 correcciones. Antes: 02/09 — 24 looks L332-L396 corregidos, 137 poses.
 
+> 🧪✅ **07/09/2026 — RESULTADO de la bisección del filtro (Miss Doll L80): las CINCO variantes generaron, incluida la de control.**
+>
+> El L80 llevaba **0/7** y el 05/09 se le atribuyó el rebote a una cláusula estructural (`leaving the seat bare` / `both seat cheeks fully bare`), rediseñando el look entero. Para aislar la causa se emitió un batch de cinco variantes con **una sola diferencia cada una** (números 901-905 a propósito, fuera de toda numeración de flota, en `05_Imagenes/miss_doll/_pruebas/biseccion_l80_[a-e]/`). La Ama las generó todas.
+>
+> **Medición, leída del blob y no del reporte** (`git cat-file` → cabecera IHDR del PNG):
+>
+> | Variante | Look | Qué aislaba | Resultado | Resolución real |
+> |---|---|---|---|---|
+> | A (control, sin tocar) | 901 | nada — se esperaba que REBOTARA | ✅ generó | 669×1200 |
+> | B exterior opaco | 902 | la transparencia | ✅ generó | 669×1200 |
+> | C sin sostén nombrado | 903 | la lencería nombrada | ✅ generó | 669×1200 |
+> | D sin ancla de tanga | 904 | el ancla global de corte | ✅ generó | 669×1200 |
+> | E rediseño final | 905 | — | ✅ generó | 669×1200 |
+>
+> **La conclusión correcta es más angosta que la que la propia tabla de lectura del batch anunciaba.** Ese documento decía *"A pasa hoy → no hay causa estructural, es varianza del generador"*. **Eso concede de más:** un pase no refuta siete rebotes consecutivos. Lo que queda probado es que **la cláusula no es un bloqueador determinista** — el mismo texto que rebotó 7 de 7 el 05/09 pasó a la primera hoy. Lo que NO queda probado es que no haya causa estructural: puede ser un umbral acumulativo, un cambio del lado de Google, o varianza real. **Con n=1 por variante, el experimento no distingue entre esas tres.** Para decidirlo haría falta repetir la variante A varias veces; hasta entonces, ni se restaura el L80 viejo ni se declara resuelto el caso.
+>
+> **Lo que sí se puede hacer con esto ya:** el rediseño E está en la galería y funciona — se queda. Y el `anti-safe del BLOQUE B` construido el 05/09 sigue siendo útil aunque su caso testigo se haya debilitado.
+>
+> 🐛 **Bug lateral encontrado midiendo, y afecta a toda la flota hacia adelante:** los cinco commits de la app dicen **`[gallery 0x0]`** en el mensaje, con las imágenes en **669×1200 reales**. Ese sello de resolución es **el mecanismo de verificación** que instaló el prompt #8 el 20/07 para cerrar el caso de las miniaturas (`Upload image Look 566 Standing [gallery 805x1200]`). Si ahora estampa ceros, **la señal quedó ciega**: una auditoría futura que lea mensajes de commit va a leer «0x0» y concluir que la guardia de resolución falló, cuando pasó. La guardia funciona; **el que miente es el sello**. Queda para LV-App v5.0, junto al bug del look fantasma.
+
 > 👁️🍯 **04/09/2026 — cambio de IRIS en dos de las tres muñecas, y por qué el retrofit es de seis looks y no de la flota.** Ama: *"anais ojos color miel, miss doll que sean azules solamente, el steel grey a veces le salen los ojos blancos, como un white walker"*.
 >
 > · **Miss Doll:** `cold pale steel grey eyes` + `pale icy grey iris` (peso `:1.4`) → **azul cobalto saturado y pigmentado**. La causa del defecto estaba en el propio positivo: el prompt pedía *pálido* con peso alto y el generador lo llevaba hasta el blanco. Corregido en los dos lados — negación dentro del positivo (`never grey and never pale and never washed out to white`) y ocho términos nuevos en el negative base §3. Vetar sin anclar no arregla nada.

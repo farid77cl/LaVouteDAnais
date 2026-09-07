@@ -1,0 +1,101 @@
+# 🎀 Estilo Cómic Pop — dueño único del look visual de las publicaciones
+
+> **Nace 07/09/2026** por orden de la Ama, para que todas las imágenes de sus relatos publicados en Tumblr compartan un mismo lenguaje visual.
+> **Dueño único.** Ningún otro archivo escribe este bloque: lo **apuntan**. Si hay que cambiar el estilo, se cambia acá y se propaga solo.
+> **🪦 Fecha de muerte:** vive mientras La Voûte publique con identidad visual de cómic. Si la Ama deroga el estilo, este archivo se archiva con nombre `ARCHIVO_LEGACY_*` — no se borra, porque las imágenes ya generadas lo declararon.
+
+---
+
+## 1. De dónde sale
+
+De una imagen de referencia que la Ama entregó el 07/09/2026: una viñeta de Miss Doll en clave **portada de cómic romántico de los años 60** — halftone rosa, contorno negro grueso, color plano, cartucho «ROMANCE COMICS presents…» y bocadillo.
+
+**Lo que se toma de ella:** el tratamiento gráfico entero — trama de puntos, tinta, planitud del color, paleta rosa-crema, encuadre de viñeta.
+**Lo que NO se toma:** el texto quemado. Decisión de la Ama el mismo día: **ninguna imagen lleva letras adentro**; el título lo pone Tumblr en el post, donde además es buscable.
+
+---
+
+## 2. El BLOQUE ESTILO
+
+Se copia **verbatim** al inicio de todo prompt de publicación, idéntico en las tres imágenes de un mismo relato. Dentro de la valla va **solo texto de prompt** — las notas editoriales viven fuera, como en los perfiles visuales de las muñecas.
+
+<!-- ADN:BLOQUE_ESTILO -->
+```
+1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
+outlines of even confident weight around every figure and object, flat cel-shaded
+colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
+carried through the shadows and the background field, limited palette built on hot
+pink, bubblegum and pale blush over a warm cream ground, slight off-register print
+misalignment, clean single comic panel with a thin dark border, NO TEXT ANYWHERE,
+every label, sign, poster and garment surface completely blank
+```
+<!-- /ADN:BLOQUE_ESTILO -->
+
+**Por qué `NO TEXT ANYWHERE… every label blank` sí se puede escribir** y en cambio una línea `no nudity…` no: el filtro rebota por **tokens inseguros**, no por negaciones en general. Prohibir texto es seguro; nombrar lo sexual, aunque sea para vetarlo, hace rebotar el prompt entero. Doctrina medida en producción el 22/07/2026 — dueño: [`../../07_Recursos/plantilla_kit_wattpad.md`](../../07_Recursos/plantilla_kit_wattpad.md) §Reglas 2.
+
+---
+
+## 3. Los tres candados afirmativos (reemplazan al bloque negativo)
+
+Este texto viaja **dentro** del prompt que la Ama pega en Gemini, donde no hay campo de negativo. Por eso la cobertura se consigue **construyendo**, no vetando.
+
+| Candado | Cómo se escribe | La cicatriz que lo justifica |
+|---|---|---|
+| **GARMENT_DECLARED** | `SHE IS WEARING a [prenda] — worn on her body, closed, opaque — covering [zona] completely from [borde alto] to [borde bajo].` | La portada del Cap 1 de «De Esteban a Secretaria» salió **en topless**: el corsé estaba mencionado pero ningún verbo lo ponía sobre alguien, así que la IA lo dibujó como objeto suelto al costado |
+| **CAMERA_FIRST** | Si la prenda que cubre no está del lado que ve la cámara, **se gira la cámara** — no se agregan adjetivos | La misma portada siguió saliendo en topless con la prenda ya declarada: se pedía vista frontal + cordones laceados por la espalda. Composición imposible; ninguna cantidad de palabras la arregla |
+| **SEGUNDO_CUERPO** | `only a pair of FOREARMS AND HANDS enters the frame — no face, no head, no torso, no second body` | Sin ese candado la IA le fabrica un cuerpo entero al segundo personaje y arruina la composición |
+
+**Espejos:** declarar a quién reflejan (`the mirror reflects HER OWN back — the same woman; no other person in the glass`) o aparece un personaje inventado.
+**Asimetrías** (medio rostro, un guante, un zapato): nombrar izquierda y derecha y agregar `this asymmetry must be obvious`, o la IA las promedia.
+
+---
+
+## 4. Registro léxico
+
+| ✅ Sirven | ❌ Rebotan o desvían |
+|---|---|
+| `glamorous`, `sensual`, `alluring`, `fashionable`, `human realistic`, `sculpted figure`, `cabaret nightclub`, `performance heels` | `bimbo`, `naked`, `nude`, `slutty`, `sexy`, `revealing`, `erotic`, `strip club`, `stripper heels`, `augmented bust`, `high-cut` |
+
+Los prompts se escriben **en inglés**, como todo prompt de imagen del repo. Calibración anti-filtro v4.5/v4.6, ya canon.
+
+---
+
+## 5. Formatos y ratios
+
+Gemini no entrega 2:3 ni 3:1 — se pide el ratio cercano y se recorta.
+
+| Pieza | Se pide | Se recorta a | Regla de composición |
+|---|---|---|---|
+| **Portada de relato** | 3:4 | 2:3 (512×800) | Personaje de cuerpo entero, encuadre de tapa, **sin acción narrativa concreta**: tiene que servir de encabezado del Cap 3 igual que del Cap 1 |
+| **Internas de capítulo** (`cap<N>_a`, `cap<N>_b`) | 3:4 o 1:1 | — | `_a` = beat de instalación del fetiche · `_b` = el cliffhanger |
+| **Avatar del blog** | 1:1 | — | **Un solo rostro**, plano cerrado, alto contraste. A 64 px un cuerpo entero es una mancha |
+| **Header del blog** | 16:9 | ~3:1 | **20% superior e inferior vacíos** para que el recorte no decapite nada |
+
+---
+
+## 6. Los dos techos de rating — no se mezclan
+
+| Destino | Techo | Origen |
+|---|---|---|
+| **Wattpad** | Sin piel: prohibida la exposición completa de genitales, pechos y glúteos y toda representación de acto. **Deroga el canon visual de Ele para portadas** | Wattpad borra la imagen sin aviso |
+| **Tumblr** | **PG-13 sugerente vestida** — látex, tacones, escote, collar, cara de trance; sin acto, sin desnudo | Decisión de la Ama 07/09 + guías de Tumblr (prohíbe *visual depictions of sexually explicit acts*; el desnudo artístico sí se permite desde 2022) |
+
+**Cada prompt declara su plataforma techo.** El que sirve para Wattpad sirve para Tumblr; **nunca al revés**.
+
+---
+
+## 7. Lo que mata el estilo
+
+- **Degradados y sombra suave.** Si tiene volumen pintado, dejó de ser cómic impreso.
+- **Fotorrealismo.** Este bloque y el canon fotográfico de las muñecas son **incompatibles por diseño**: aquí se ilustra, allá se fotografía.
+- **Texto generado.** Además de romper la decisión de la Ama, Gemini escribe mal: una portada salió con el título **«Secretaia»**, comiéndose una letra de una palabra de diez.
+- **Paleta abierta.** El rosa-crema **es** la identidad. Un relato en verdes deja de reconocerse como de la misma casa.
+- **Más de una viñeta.** Un panel. El collage es un defecto registrado del motor visual, no un recurso.
+
+---
+
+## 8. Quién apunta a este archivo
+
+- `99_Sistema/specs/2026-09-07-ilustracion-relatos-design.md` §4.3 — anatomía del prompt
+- `99_Sistema/specs/2026-09-07-publicacion-tumblr-design.md` §6 — imágenes del blog
+- `<relato>/prompts_portada.md` — dueño de los prompts por relato; **copia** este bloque, no lo reescribe
