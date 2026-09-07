@@ -454,10 +454,10 @@ No other person is in the frame — the tables and chairs are empty.
 | # | Qué | Depende de |
 |---|---|---|
 | 1 | **Línea base del blog** — piso post-primer-post, ya no virgen (§5.6) **+ la prueba de tag de §5.5 sobre el post de Café que ya está arriba** | B4 (las 4 llaves de OAuth) |
-| 2 | Avatar + header + post fijado (§6) | BLOQUE ESTILO congelado |
+| 2 | ✅ **Avatar + header hechos 07/09** (`05_Imagenes/blog_tumblr/`, header ya cortado a 3000×1055). Falta el post fijado | — |
 | 3 | `estilo_comic_pop_v1.md` + activar la §10 de la ficha del personaje | — |
-| 4 | Adaptador de post: el `_tumblr.md` completo del capítulo (P1 §4.1) | 3 |
-| 5 | Extender `cola_publicacion.json` con `plataforma: "tumblr"` + `cuerpo_ref` | — |
+| 4 | ✅ **Adaptador hecho 07/09** — `99_Sistema/scripts/rrss/adaptar_capitulo_tumblr.py`, 23 pruebas en verde, escritas antes del código | — |
+| 5 | ✅ **Cola ampliada 07/09** — `tumblr` + `cuerpo_ref`/`relato_ref`/`capitulo` documentados en `06_RRSS/cola/README.md` v0.2 | — |
 | 6 | Workflow n8n `repo → Tumblr → repo` | B2-B5 de §8 |
 | 7 | Corriente B: generador de posts cortos desde la flota + los lemas | 1, 3 |
 

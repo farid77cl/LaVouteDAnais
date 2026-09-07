@@ -22,7 +22,7 @@ Ele encola (acá) ──► cola_publicacion.json ──► git push ──► r
 |---|---|
 | `id` | Identificador único (ej. `L431-reddit-01`) |
 | `estado` | `pendiente` / `publicado` / `vetado` / `error` |
-| `plataforma` | `reddit` / `pixiv` / `bluesky` / `deviantart` / `x` |
+| `plataforma` | `reddit` / `pixiv` / `bluesky` / `deviantart` / `x` / **`tumblr`** |
 | `destino` | subreddit / tags / etc. específicos de la plataforma |
 | `look_ref` | look de origen (ej. `L431`) para trazabilidad |
 | `titulo` | título del post (Reddit/Pixiv/DA lo usan; adaptado por sub) |
@@ -34,6 +34,29 @@ Ele encola (acá) ──► cola_publicacion.json ──► git push ──► r
 | `publicar_desde` | timestamp ISO; el runtime no publica antes |
 | `gate` | `aprobado` / `pendiente_gate` — en Nivel 2 la Ama aprueba antes |
 
+### Campos que agrega Tumblr (07/09/2026)
+
+Tumblr entró como **destino de relatos**, no de imágenes (D9: *el relato completo vive en
+Tumblr*), y eso rompe dos supuestos que la cola traía desde junio.
+
+| Campo | Qué es |
+|---|---|
+| `cuerpo_ref` | **Ruta al `_tumblr.md`**, no el texto. Un capítulo son 10.000-14.000 palabras: meterlo dentro del JSON convierte la cola en un archivo ilegible y hace que cualquier `git diff` sea inservible. El runtime lee el archivo y publica su contenido |
+| `relato_ref` | slug del relato (el equivalente de `look_ref` para literatura) |
+| `capitulo` | número de capítulo — decide la navegación entre posts |
+
+> ⚠️ **`caption` dice «texto en voz Ele» y para Tumblr eso NO aplica.** El blog lleva la cara
+> y el nombre de Anaïs, así que **hacia afuera habla ella** (Ama 07/09/2026: *"debes responder
+> como si fueras anais"*). En una entrada de Tumblr, `caption` va en voz de Anaïs. Regla
+> completa: `.agent/rules/00-contexto-obligatorio.md` §La voz, Excepción 2.
+
+> 🏷️ **`destino` de Tumblr** lleva `{"blog": "lavoutedeanais", "content_label": "mature"}`.
+> Etiquetar el contenido maduro **es obligatorio** en Tumblr, no opcional.
+
+> 🗝️ **Dos llaves, no una.** Para un capítulo, `gate: aprobado` exige las dos: el **Gate de la
+> Ama sobre ese capítulo** (Regla de Oro 8c — archivo, nunca inferencia) **y** su okey de
+> publicación post por post. Un capítulo aprobado no es un post autorizado.
+
 ## Reglas
 
 - 🔐 La cola NO contiene tokens ni credenciales (esos viven en GitHub Secrets / VPS vault).
@@ -43,4 +66,4 @@ Ele encola (acá) ──► cola_publicacion.json ──► git push ──► r
 
 ---
 
-*Formato v0.1 · 03/06/2026 · plantilla en `cola_publicacion.json`*
+*Formato v0.2 · 03/06/2026, ampliado 07/09/2026 con Tumblr · plantilla en `cola_publicacion.json`*
