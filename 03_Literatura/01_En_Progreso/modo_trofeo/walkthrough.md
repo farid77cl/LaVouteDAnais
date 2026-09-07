@@ -76,3 +76,22 @@ Cronología (`cronologia.md`) marca el Cap1 en las marcas [1]-[8]. Split en 3 tr
 6. Si TROFEO es un modo, ¿el título del relato pasa a ser otro?
 
 > **Impacto si esto entra:** el modo gestación y la cara del ítem 5 piden **siembra en el Cap 1**, que ya está escrito (`capitulo_1_cuatro_v0.1.md`) y **sin Gate suyo**. Sería Fase 1.5 sobre canon aprobado + retoque del Cap 1, nunca reescritura.
+
+### Anotación 2 — 07/09/2026 (sigue «solo anota»)
+
+> *"HR is human resources, la empresa es nexum, o lo que sea, el es el dueño, el experimento es ilegal porque aun no esta permitido subir conciencias humanas a robot, es una especie de cientifico loco que solo busca el resultado, a cualquier costo. sigue anotnato te aviso"*
+
+| # | Decisión | Estado |
+|---|---|---|
+| B6 | **HR = Human Resources.** El «Human Repurposing» del relato terminado es el juego de palabras del departamento, no otra sigla. | ✅ suya |
+| B7 | **La empresa es NEXUM** (*"o lo que sea"* — el nombre queda abierto a su decisión final). | ✅ suya |
+| B8 | **El creador es el DUEÑO de la empresa.** | ✅ suya |
+| B9 | **Por qué el experimento es ilegal, en concreto: todavía no está permitido subir conciencias humanas a un robot.** No es clandestino por secreto industrial: hay una prohibición vigente y él la está pasando por encima. | ✅ suya |
+| B10 | **El creador es «una especie de científico loco que solo busca el resultado, a cualquier costo».** | ✅ suya |
+
+**Consecuencias que se desprenden (anotadas, no ejecutadas):**
+
+- 🔴 **Deroga una hipótesis mía de la Anotación 1.** Yo había propuesto que *"no se esconde de la ley, se esconde de su propia empresa"*. **Falso: es el dueño.** Se esconde de la ley y nada más — y siendo dueño de NEXUM, tiene el laboratorio, las unidades y el dinero para hacerlo sin pedirle permiso a nadie. Queda tachada, no borrada.
+- **Existe un marco legal pendiente.** Si subir conciencias *"aún no está permitido"*, es porque el mundo ya sabe que se puede y está discutiendo si dejarlo. O sea: **él no inventó lo imposible, se adelantó a lo prohibido.** Eso da presión de mundo sin necesidad de policías en escena.
+- **Su motor, en sus palabras: el resultado a cualquier costo.** Mi propuesta de la Anotación 1 (*quiere saber si queda alguien cuando le sacas todo*) **queda subordinada a esto y pendiente de su palabra**: puede ser la pregunta que persigue, o puede sobrar si el motor es puro logro. Ella decide.
+- Compatible sin conflicto con el canon aprobado: `canon_relato.md` §3 ya lo tenía como *"experimentos ilegales, clandestinos"* y con invariante de frío que nunca sube el tono. **«Científico loco» = obsesión, no histeria** — no deroga el invariante de que nunca grita ni se jacta; si en algún momento choca, manda ella.
