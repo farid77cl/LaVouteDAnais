@@ -209,7 +209,7 @@ El blog necesita, antes de publicar nada:
 
 El blog se llama **«La Voûte d'Anaïs»**, así que la recomendación es **Anaïs** — es la regenta, el lugar lleva su nombre y es la única de las tres que **no** es una modelo sino la dueña. La alternativa es **Miss Doll**, que es la de la imagen de referencia que la Ama entregó y la más reconocible del catálogo. Los prompts de abajo están escritos para Anaïs; cambiarla es reemplazar el bloque de identidad, nada más.
 
-### 6.2 ✅ Prompts finales (Anaïs) — listos para pegar en Gemini
+### 6.2 ✅ Prompts finales v2 (Anaïs) — listos para pegar en Gemini
 
 > 🔒 Usan el **BLOQUE ESTILO congelado** el 07/09/2026 (paleta de Anaïs) — dueño único:
 > [`estilo_comic_pop_v1.md`](../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md) §2.
@@ -220,16 +220,24 @@ El blog se llama **«La Voûte d'Anaïs»**, así que la recomendación es **Ana
 > prompt. Pero si el bloque cambia alguna vez, **estas dos se regeneran desde el dueño**, no se editan
 > a mano acá.
 >
-> **Detalle alto por decisión de la Ama (07/09/2026):** *«altos en detalles para que Gemini no
-> invente»*. Todo lo que el generador podría rellenar solo está dicho: lado del peinado, lado del
-> lunar, dirección de la mirada, qué NO se lleva puesto, color exacto del fondo y de los puntos,
-> qué hay dentro de las bandas vacías del header, y que cada superficie de la sala va en blanco.
-> Sin pesos `:1.4` (§4.1 del estilo: en Gemini son texto inerte) y sin vocabulario fotográfico
-> (acá se ilustra, no se fotografía).
->
-> 🖤 **Por qué el vestido es negro con paleta miel:** el negro es el **primer color de su §5.2** y
-> el que sostiene el avatar a 64 px — a ese tamaño lo único que se lee es el contraste entre dos
-> masas. Oro/bronce/marfil viven en el fondo y en la sala; ella es la mancha oscura.
+> **Detalle alto por decisión de la Ama (07/09/2026):** *«altos en detalles para que gemini no
+> invente»*. Todo lo que el generador rellenaría solo está dicho: lado del peinado, lado del lunar,
+> dirección de la mirada, qué NO se lleva puesto, color exacto del fondo y de los puntos, qué hay
+> dentro de las bandas vacías del header, y que cada superficie de la sala va en blanco. Sin pesos
+> `:1.4` (§4.1 del estilo: en Gemini son texto inerte) y sin vocabulario fotográfico.
+
+#### 🩹 Qué cambió de la v1 a la v2 — medido sobre la primera generación real (07/09/2026)
+
+La v1 se generó y el estilo salió perfecto (tinta, plano, Ben-Day, off-register, cero letras en las
+dos). Estos cinco son los defectos que sí aparecieron, **leídos de la imagen, no supuestos**:
+
+| # | Qué salió mal | Arreglo en v2 |
+|---|---|---|
+| 1 | 🔴 **Header inservible para su puesto.** Gemini dibujó la sala como **panel inset** con marfil arriba y abajo, y la dejó **salirse** del panel: cabeza sobre la banda superior, tacones bajo la inferior. Recortado a banda angosta, **le corta la cabeza y los pies** — que es exactamente lo que las bandas vacías existían para evitar | Prohibido el cuadro dentro del cuadro (`the room fills the entire width and height, edge to edge`) y ella confinada al **tercio medio de la altura**, dicho como regla y no como sugerencia |
+| 2 | 🔴 **El avatar no mira.** Vista corrida a un costado pese a `eyes look straight out at the viewer` | Reescrito como el elemento más importante de la imagen: pupilas centradas, apuntando al lente, `not off to one side and not downward` |
+| 3 | 🔴 **El avatar se desarma a 64 px, y la culpa es del prompt.** Cara pálida sobre fondo marfil: casi sin contraste, y el negro que lo sostenía vivía solo en el borde inferior | Fondo **borgoña profundo saturado** con puntos oro. Tres masas separadas: cara clara, vestido negro, campo oscuro |
+| 4 | 🟡 **Se ve de treinta, no de 42** — la deriva histórica de Anaïs | Bloque de edad explícito: mejillas magras sin grasa de bebé, la edad se lee en el hueso y en la expresión, **nunca en arrugas** (su canon exige frente lisa: la edad no podía pedirse por líneas) |
+| 5 | 🟡 **Cejas gruesas y bajas** y ala del delineado corta · **busto más marcado** que su canon (*natural, no aumentado*) | Cejas `THIN and sharply arched... never thick, never straight, never low-set`; ala como `long hard spike`; y campo FIGURE nuevo: `natural moderate bust — never exaggerated` |
 
 **AVATAR — cuadrado 1:1, legible a 64 px**
 
@@ -244,44 +252,56 @@ dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
 completely blank
 
 A single woman, 42 years old, aristocratic and severe, never young and never girlish.
+She is unmistakably in her early forties and must NOT be drawn as a woman in her
+twenties: lean hollowed cheeks with no baby fat anywhere in the face, the composed
+face of someone who has commanded rooms for decades. Her skin is smooth and unlined —
+her age reads in the bone structure and in the expression, never in wrinkles.
 Mature sharp bone structure: high sculpted cheekbones hollowed underneath, a defined
-angular jawline, a refined oval face, a completely smooth unlined forehead.
+angular jawline, a refined oval face, a completely smooth unlined forehead, a long
+slender neck.
 HAIR: honey-blonde, warm golden honey, never platinum and never brown and never red,
 set in sculpted vintage Hollywood pin-waves with a deep side parting on her right, the
-waves rolled back off her forehead and falling long past her shoulders.
+waves rolled back off her forehead and falling well below her shoulders.
 EYES: medium almond eyes with a warm honey amber iris, clearly golden-honey coloured
 with a dark ring around the iris, never blue and never grey and never washed out. Lids
-half-lowered, the gaze level and cold, fixed on whoever is looking.
-BROWS: high thinly arched dark brown brows lifted well above the eye socket, the right
-one held a fraction higher than the left.
+half-lowered, the gaze level and cold.
+BROWS: high, THIN and sharply arched dark brown brows lifted well above the eye socket,
+the right one held a fraction higher than the left — never thick, never straight,
+never low-set, never soft-edged.
 EYE MAKEUP: charcoal and deep taupe smoky shadow in a full cut-crease carried all the
 way up into the brow with no bare skin left between, a warm old-gold shimmer laid on
-the lid inside the cut-crease, a sharp black winged liner with a long wing extending
-well past the outer corner, a thin dark line along the lower lash line, extremely long
-dense lashes weighted at the outer corners.
+the lid inside the cut-crease, a sharp black winged liner drawn as a long hard spike
+extending well past the outer corner of the eye, a thin dark line along the lower lash
+line, extremely long dense lashes weighted at the outer corners.
 LIPS: full plump lips with a well-defined cupid's bow, painted a vivid deep crimson
 red with a high-shine finish, the lower lip heavy, the lips visibly parted, never
 closed and never smiling.
 A small dark beauty mark sits above her upper LEFT lip — this asymmetry must be obvious.
 Warm peach-bronze blush swept along the top of the cheekbone.
 Chin carried level or tipped slightly down, never lifted sweetly.
+FIGURE: slender and elegant, a narrow waist and a natural moderate bust — never
+exaggerated, never inflated, never a pin-up silhouette.
 
 Single comic panel, square 1:1 composition, built to stay readable when it is shrunk
 to a 64-pixel square: very large simple shapes, strong contrast, no fine detail
 anywhere, nothing important near the corners.
 Head-and-shoulders portrait, cropped tight: her head fills roughly three quarters of
 the frame height, the top of her hair just touching the upper border, her shoulders cut
-off by the lower border. Her head is turned three quarters toward the camera and her
-eyes look straight out at the viewer.
+off by the lower border. Her head is turned three quarters toward the camera.
+HER EYES LOOK STRAIGHT INTO THE LENS. Both pupils are centred in her eyes and aimed at
+the viewer, not off to one side and not downward — she is staring directly out of the
+picture at whoever is looking at it. This eye contact is the most important element of
+the image.
 SHE IS WEARING a high-necked long-sleeved black gown — worn on her body, closed,
 opaque — covering her throat, chest and shoulders completely from directly under her
 chin down past the bottom edge of the frame. The neckline is a plain closed band at the
 base of her jaw. Nothing else is worn: no necklace, no earrings, no hat, no veil, no
 hands in frame.
-BACKGROUND: one single flat field of warm ivory behind her, filled evenly with old-gold
-Ben-Day halftone dots. No scene, no furniture, no props, no window, no second person,
-no cast shadow.
-Her black gown and the ivory background must read as two clean separate shapes.
+BACKGROUND: one single flat field of DEEP BURGUNDY behind her, dark and saturated,
+filled evenly with old-gold Ben-Day halftone dots. No scene, no furniture, no props, no
+window, no second person, no cast shadow.
+The image must read as three clean separate masses even at thumbnail size: her pale
+face and honey-blonde hair light, her gown black, the field behind her dark burgundy.
 ```
 
 **HEADER — 16:9, recortable a una banda angosta**
@@ -297,49 +317,60 @@ dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
 completely blank
 
 A single woman, 42 years old, aristocratic and severe, never young and never girlish.
+She is unmistakably in her early forties and must NOT be drawn as a woman in her
+twenties: lean hollowed cheeks with no baby fat anywhere in the face, the composed
+face of someone who has commanded rooms for decades. Her skin is smooth and unlined —
+her age reads in the bone structure and in the expression, never in wrinkles.
 Mature sharp bone structure: high sculpted cheekbones hollowed underneath, a defined
-angular jawline, a refined oval face, a completely smooth unlined forehead.
+angular jawline, a refined oval face, a completely smooth unlined forehead, a long
+slender neck.
 HAIR: honey-blonde, warm golden honey, never platinum and never brown and never red,
 set in sculpted vintage Hollywood pin-waves with a deep side parting on her right, the
-waves rolled back off her forehead and falling long past her shoulders.
+waves rolled back off her forehead and falling well below her shoulders.
 EYES: medium almond eyes with a warm honey amber iris, clearly golden-honey coloured
 with a dark ring around the iris, never blue and never grey and never washed out. Lids
-half-lowered, the gaze level and cold, fixed on whoever is looking.
-BROWS: high thinly arched dark brown brows lifted well above the eye socket, the right
-one held a fraction higher than the left.
+half-lowered, the gaze level and cold.
+BROWS: high, THIN and sharply arched dark brown brows lifted well above the eye socket,
+the right one held a fraction higher than the left — never thick, never straight,
+never low-set, never soft-edged.
 EYE MAKEUP: charcoal and deep taupe smoky shadow in a full cut-crease carried all the
 way up into the brow with no bare skin left between, a warm old-gold shimmer laid on
-the lid inside the cut-crease, a sharp black winged liner with a long wing extending
-well past the outer corner, a thin dark line along the lower lash line, extremely long
-dense lashes weighted at the outer corners.
+the lid inside the cut-crease, a sharp black winged liner drawn as a long hard spike
+extending well past the outer corner of the eye, a thin dark line along the lower lash
+line, extremely long dense lashes weighted at the outer corners.
 LIPS: full plump lips with a well-defined cupid's bow, painted a vivid deep crimson
 red with a high-shine finish, the lower lip heavy, the lips visibly parted, never
 closed and never smiling.
 A small dark beauty mark sits above her upper LEFT lip — this asymmetry must be obvious.
 Warm peach-bronze blush swept along the top of the cheekbone.
 Chin carried level or tipped slightly down, never lifted sweetly.
+FIGURE: slender and elegant, a narrow waist and a natural moderate bust — never
+exaggerated, never inflated, never a pin-up silhouette.
 
 Single comic panel, wide horizontal composition, aspect ratio 16:9, built so that it
 can later be cropped down to a narrow horizontal band.
-THE TOP FIFTH of the image and THE BOTTOM FIFTH of the image are empty background only:
-nothing there but the ivory ground and its halftone dots — no part of her body, no
-furniture, no lettering, no decorative border inside those two bands.
+THE CABARET ROOM FILLS THE ENTIRE WIDTH AND HEIGHT OF THE PICTURE, edge to edge. Do
+NOT draw the scene as a smaller framed panel sitting inside the image, and do NOT leave
+a border of background colour around the scene — there is no picture within the picture.
+SHE STANDS ENTIRELY INSIDE THE MIDDLE THREE FIFTHS OF THE FRAME HEIGHT. Nothing of her
+— no hair, no head, no hand, no heel — reaches into the top fifth or the bottom fifth of
+the image, so that a narrow horizontal crop through the centre never cuts her head or
+her feet. The top fifth holds only the upper wall of the room and the bottom fifth only
+the empty floor: no furniture, no lettering, no decoration in either band.
 She stands in the left third of the frame, full body, head to floor, weight carried on
 one hip in an S-curve, turned three quarters toward the camera, her eyes to the viewer.
-Her head sits below the empty top band and her shoes sit above the empty bottom band,
-so a narrow crop never cuts her head or her feet.
 SHE IS WEARING a floor-length black column gown — worn on her body, closed, opaque —
 covering her from the base of her throat to the floor, with long sleeves reaching the
 wrist, and one black opera glove on each hand. On her feet, black patent stiletto heels
 with a slim 12 cm pin heel and no platform, closed toes.
 BEHIND HER, to the right, the empty interior of an elegant cabaret drawn flat: three
-rows of small round tables with chairs, a low stage on the right, heavy deep-burgundy
-curtains drawn closed behind the stage, a row of round wall lamps along the back wall.
-Every surface in that room is blank: no sign, no poster, no marquee, no menu, no
-lettering of any kind anywhere.
-The room is drawn smaller and lighter than she is, in old gold and antique bronze
-halftone over the warm ivory ground, so she stays the darkest and strongest shape in
-the frame.
+rows of small round tables with bentwood chairs, a low stage on the right, heavy
+deep-burgundy curtains drawn closed behind the stage, a row of round wall lamps along
+the back wall. Every surface in that room is blank: no sign, no poster, no marquee, no
+menu, no lettering of any kind anywhere.
+The room is drawn lighter and less contrasted than she is, in old gold and antique
+bronze halftone over the warm ivory ground, so she stays the darkest and strongest
+shape in the frame.
 No other person is in the frame — the tables and chairs are empty.
 ```
 
