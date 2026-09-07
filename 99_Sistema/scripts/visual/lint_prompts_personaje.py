@@ -84,7 +84,6 @@ import io
 import os
 import re
 import sys
-import unicodedata
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
@@ -93,21 +92,16 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.abspath(os.path.join(AQUI, "..", "..", ".."))
 sys.path.insert(0, AQUI)
 from prompt_builder import PromptBuilder, cargar_config, PLACEHOLDERS_PROHIBIDOS  # noqa: E402
+from galeria_parser import (  # noqa: E402
+    EMOJI,
+    LOOK_HEADING,
+    detectar_pose,
+    parse_como_la_app,
+    sin_tildes,
+)
 
 METALENGUAJE = ["in every shot", "identical across all", "in all poses",
                 "in each pose", "across all poses", "contact sheet of"]
-
-# --- puerto del parser de la app -------------------------------------------
-
-LOOK_HEADING = re.compile(
-    r"(?i).*?\b(?:Look|Boudoir)\s+(?:[A-Za-z]+)?(\d+)\b[:\s]*(.*?)(?:\((.*)\))?\s*$")
-EMOJI = re.compile("[\U0001F300-\U0001FAFF☀-➿]")
-
-
-def sin_tildes(s):
-    return "".join(c for c in unicodedata.normalize("NFD", s)
-                   if unicodedata.category(c) != "Mn")
-
 
 ARQUETIPO_LINEA = re.compile(r"\*\*Arquetipo:\*\*\s*([^·\n]+)")
 
@@ -212,137 +206,6 @@ def clasificar_arquitectura(bloque_b, tax):
                 break
         return cod, cubierta, aviso
     return None, False, None
-
-
-def detectar_pose(linea, slot5):
-    """Mismo arbol de decision que el parser de la app (orden incluido)."""
-    t = linea.lower()
-    m = re.match(r"^(?:\*\*)?(?:PROMPT\s+)?(\d+)[.\s—]+(?:[A-Za-z0-9-]+\s+)?(.*?)(?:[:\*]+|$)", linea)
-    if m:
-        t = m.group(2).strip().lower()
-        num = int(m.group(1))
-    else:
-        num = None
-    orden = [
-        (["standing", "cruel contrapposto", "cruel_contrapposto", "c-1", "c1"], "Standing"),
-        (["back view", "back_view", "espalda", "c-3", "c3"], "Back View"),
-        (["seated", "monarch throne", "monarch_throne", "c-2", "c2"], "Seated"),
-        (["side profile", "profile", "tres cuartos", "three_quarter", "three-quarter", "c-4", "c4"], "Side Profile"),
-        (["ditzy", "glacial command", "glacial_command", "sovereign gaze", "sovereign_gaze",
-          "close up fria", "close_up_fria", "c-5", "c5"], slot5),
-        (["pov", "close up", "intimate", "c-6", "c6"], "POV"),
-        (["odalisque", "throne en suelo", "throne_suelo", "throne_en_suelo", "c-7", "c7"], "Odalisque"),
-    ]
-    for i, (claves, nombre) in enumerate(orden):
-        for k in claves:
-            if k in t:
-                if i == 1 and k == "back view" or k != "back view":
-                    pass
-                return nombre
-        if i == 1 and "back" in t and "background" not in t:
-            return "Back View"
-    if m and num is not None:
-        return {1: "Standing", 2: "Back View", 3: "Seated", 4: "Side Profile",
-                5: slot5, 6: "POV", 7: "Odalisque"}.get(num)
-    return None
-
-
-def parse_como_la_app(texto, slot5):
-    """Devuelve [{num, titulo, ubicacion, tags, negative, prompts:{pose:txt}}]."""
-    looks = []
-    cur = None
-    pose = None
-    leyendo_codigo = False
-    leyendo_canon = False
-    buf = []
-    canon = []
-
-    def cerrar_prompt():
-        nonlocal pose, buf
-        txt = "\n".join(buf).strip()
-        if txt and pose and cur is not None:
-            cur["prompts"][pose] = cur["prompts"].get(pose, [])
-            cur["prompts"][pose].append(txt)
-            pose = None
-        buf = []
-
-    def cerrar_canon():
-        if cur is None:
-            return
-        for l in canon:
-            s = l.strip()
-            if s.startswith("- **"):
-                clave = sin_tildes(s.split(":**")[0][4:].strip()).lower()
-                valor = s.split(":**", 1)[1].strip().strip("`").strip() if ":**" in s else ""
-                if clave == "ubicacion":
-                    cur["ubicacion"] = valor
-                elif clave == "tags":
-                    cur["tags"] = valor
-
-    for linea in texto.split("\n"):
-        t = linea.strip()
-        m = LOOK_HEADING.match(t) if t.startswith("#") else None
-        if m:
-            if leyendo_codigo:
-                leyendo_codigo = False
-                cerrar_prompt()
-            cerrar_canon()
-            canon = []
-            leyendo_canon = True
-            cur = {"num": int(m.group(1)), "titulo": (m.group(2) or "").strip(),
-                   "ubicacion": None, "tags": None, "negative": None, "prompts": {}}
-            looks.append(cur)
-            pose = None
-            continue
-        if cur is None:
-            continue
-
-        if leyendo_canon:
-            if t.startswith("### "):
-                leyendo_canon = False
-            else:
-                canon.append(linea)
-
-        es_pose_header = t.startswith("**") and t.endswith(":**")
-        es_negative = t.startswith("**Negative Prompt:**") or t.startswith("**Negative prompt:**")
-
-        if leyendo_codigo and (es_pose_header or t.startswith("###") or es_negative):
-            leyendo_codigo = False
-            cerrar_prompt()
-
-        if es_negative:
-            mm = re.search(r"`([^`]+)`", t)
-            if mm:
-                cur["negative"] = mm.group(1).strip()
-            continue
-
-        if leyendo_codigo:
-            if t.startswith("```"):
-                leyendo_codigo = False
-                cerrar_prompt()
-            else:
-                buf.append(linea)
-            continue
-
-        if not t.startswith("`") and (len(t) < 100 or "prompt" in t.lower()):
-            p = detectar_pose(t, slot5)
-            if p:
-                pose = p
-                inline = re.search(r"`(.*?)`", t)
-                if inline and inline.group(1).strip():
-                    cur["prompts"].setdefault(pose, []).append(inline.group(1).strip())
-                    pose = None
-                continue
-
-        if t.startswith("```"):
-            if pose:
-                leyendo_codigo = True
-            continue
-
-    if leyendo_codigo:
-        cerrar_prompt()
-    cerrar_canon()
-    return looks
 
 
 # --- auditoria --------------------------------------------------------------
