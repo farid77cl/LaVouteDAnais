@@ -141,6 +141,11 @@ def _slug_titulo(t):
     return re.sub(r"[^a-z0-9]+", "_", galeria_parser.sin_tildes(t).lower()).strip("_")
 
 
+def _norm_carpeta(ruta):
+    """Compara rutas de carpeta sin castigar la barra final ni el case."""
+    return (ruta or "").rstrip("/").lower()
+
+
 def _fecha_de(meta):
     if not meta:
         return None
@@ -178,7 +183,15 @@ def looks_de(galeria, slot5_nombre, hallazgos=None, slug=""):
 
 
 def imagenes_trackeadas(slug, cfg):
-    """{numero_look: {pose_canonica: nombre_archivo}} desde git ls-files."""
+    """{numero_look: {"carpeta": str, "poses": {pose: nombre_archivo}}} desde git ls-files.
+
+    La carpeta viaja junto a las poses a propósito: es la carpeta REAL donde
+    git tiene las imágenes, y el índice la prefiere por sobre el `Ubicacion:`
+    escrito a mano en la galería. Ese campo ya divergió en vivo (miss_doll 80
+    renombrado en la galería y no en la carpeta), y con él el índice mandaba a
+    la app a 7 rutas inexistentes — y una subida habría aterrizado en una
+    carpeta fantasma.
+    """
     out = subprocess.run(
         ["git", "-C", str(REPO_ROOT), "ls-files", cfg["carpeta_imagenes"] + "/"],
         capture_output=True, text=True, encoding="utf-8", errors="replace",
@@ -187,22 +200,28 @@ def imagenes_trackeadas(slug, cfg):
         raise SystemExit(f"git ls-files falló para {slug}:\n{out.stderr}")
 
     patron = re.compile(
-        rf"^{re.escape(cfg['carpeta_imagenes'])}/{cfg['prefijo_carpeta_look']}(\d+)_[^/]+/(.+\.png)$",
+        rf"^{re.escape(cfg['carpeta_imagenes'])}/({cfg['prefijo_carpeta_look']}(\d+)_[^/]+)/(.+\.png)$",
         re.IGNORECASE,
     )
-    por_look = defaultdict(dict)
+    por_look = defaultdict(lambda: {"carpeta": None, "poses": {}})
     for ruta in out.stdout.splitlines():
         if not ruta.lower().endswith(".png"):
             continue
         m = patron.match(ruta)
         if not m:
             continue
-        numero = int(m.group(1))
-        pose = pose_canonica(m.group(2), numero, cfg)
-        if pose:
-            # Dos archivos para la misma pose: gana el primero alfabético.
-            # Los `_2` son reintentos, no la toma buena.
-            por_look[numero].setdefault(pose, Path(ruta).name)
+        numero = int(m.group(2))
+        pose = pose_canonica(m.group(3), numero, cfg)
+        if not pose:
+            continue
+        entrada = por_look[numero]
+        # Dos archivos para la misma pose: gana el primero alfabético.
+        # Los `_2` son reintentos, no la toma buena.
+        if pose in entrada["poses"]:
+            continue
+        entrada["poses"][pose] = Path(ruta).name
+        if entrada["carpeta"] is None:
+            entrada["carpeta"] = f"{cfg['carpeta_imagenes']}/{m.group(1)}/"
     return dict(por_look)
 
 
@@ -223,17 +242,33 @@ def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos
         imagenes = imagenes_por_personaje.get(slug, {})
         for parsed in looks_de(galerias[slug], cfg["slot5_nombre"], hallazgos, slug):
             numero = parsed["num"]
-            presentes = imagenes.get(numero, {})
+            entrada = imagenes.get(numero) or {}
+            presentes = entrada.get("poses", {})
             img = {}
             for pose in POSES_CANON:
                 nombre = presentes.get(pose) or nombres_canonicos.nombre_archivo(numero, pose, cfg)
                 img[pose] = {"a": nombre, "hay": pose in presentes}
 
-            carpeta = parsed["ubicacion"] or nombres_canonicos.carpeta_look(
+            # La carpeta la manda git cuando hay al menos una imagen: el
+            # `Ubicacion:` de la galería es texto a mano y puede haber quedado
+            # atrás en un renombre. Sólo se cae a él cuando el look todavía no
+            # tiene ninguna foto y por lo tanto git no sabe nada del look.
+            carpeta_git = entrada.get("carpeta")
+            carpeta_md = parsed["ubicacion"] or nombres_canonicos.carpeta_look(
                 numero, _slug_titulo(parsed["titulo"]), cfg)
+            carpeta = carpeta_git or carpeta_md
+            if (carpeta_git and hallazgos is not None
+                    and _norm_carpeta(carpeta_git) != _norm_carpeta(carpeta_md)):
+                hallazgos.append(
+                    f"{slug} look {numero}: la galeria dice {carpeta_md} y git tiene "
+                    f"{carpeta_git} — manda git")
+
             portada = next((p for p in ("standing", "side_profile", "seated") if img[p]["hay"]), None)
             if portada is None:
-                portada = next((p for p in POSES_CANON if img[p]["hay"]), "standing")
+                # `None` y no "standing": sin parser defensivo en la app, una
+                # portada que apunta a `hay:false` es una petición garantizada
+                # de una imagen que no existe.
+                portada = next((p for p in POSES_CANON if img[p]["hay"]), None)
 
             looks.append({
                 "p": slug,

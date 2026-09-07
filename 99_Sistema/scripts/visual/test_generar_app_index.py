@@ -24,9 +24,12 @@ GALERIAS = {
 
 ELE_ARCHIVO = (FIXTURES / "ele_archivo_min.md").read_text(encoding="utf-8")
 
-# Sólo Ele tiene una imagen subida, y sólo la standing.
+# Sólo Ele tiene una imagen subida, y sólo la standing. La carpeta viaja con
+# las imágenes porque el índice la toma de git, no del markdown (ver
+# `test_la_carpeta_sale_de_git_y_no_del_markdown`).
 IMAGENES = {
-    "ele": {800: {"standing": "ele_800_standing.png"}},
+    "ele": {800: {"carpeta": "05_Imagenes/ele/look800_chrome_hooded_column/",
+                  "poses": {"standing": "ele_800_standing.png"}}},
     "miss_doll": {},
     "anais": {},
 }
@@ -117,6 +120,48 @@ def test_la_fecha_del_encabezado_llega_al_campo_emitido():
 def test_todos_los_looks_de_las_fixtures_traen_fecha():
     for look in _indice()["looks"]:
         assert look["f"] is not None, look
+
+
+def test_la_carpeta_sale_de_git_y_no_del_markdown():
+    """El `Ubicacion:` de la galería es texto a mano y ya divergió en vivo:
+    miss_doll 80 apuntaba a `look80_sapphire_liquid_private_slip/` mientras git
+    tenía `look80_sapphire_mesh_private_slip/`, con lo que las 7 entradas
+    `hay:true` de ese look apuntaban a rutas inexistentes."""
+    imgs = {"ele": {800: {"carpeta": "05_Imagenes/ele/look800_otro_slug/",
+                          "poses": {"standing": "ele_800_standing.png"}}},
+            "miss_doll": {}, "anais": {}}
+    look = next(l for l in GEN.construir_indice(CFG, imgs, GALERIAS)["looks"]
+                if l["p"] == "ele")
+    assert look["d"] == "05_Imagenes/ele/look800_otro_slug/"
+
+
+def test_la_carpeta_discrepante_se_reporta_como_hallazgo():
+    imgs = {"ele": {800: {"carpeta": "05_Imagenes/ele/look800_otro_slug/",
+                          "poses": {"standing": "ele_800_standing.png"}}},
+            "miss_doll": {}, "anais": {}}
+    hallazgos = []
+    GEN.construir_indice(CFG, imgs, GALERIAS, hallazgos)
+    assert any("look800_otro_slug" in h and "look800_chrome_hooded_column" in h
+               for h in hallazgos), hallazgos
+
+
+def test_sin_imagen_trackeada_la_carpeta_sale_del_markdown():
+    look = next(l for l in _indice()["looks"] if l["p"] == "miss_doll")
+    assert look["d"] == "05_Imagenes/miss_doll/look10_midnight_plum_rite/"
+
+
+def test_un_look_sin_ninguna_imagen_no_declara_portada():
+    """Sin parser defensivo en la app, un `c` apuntando a `hay:false` es una
+    peticion garantizada de una imagen que no existe."""
+    look = next(l for l in _indice()["looks"] if l["p"] == "miss_doll")
+    assert look["np"] == 0
+    assert look["c"] is None
+
+
+def test_con_imagen_la_portada_es_una_pose_presente():
+    look = next(l for l in _indice()["looks"] if l["p"] == "ele")
+    assert look["c"] == "standing"
+    assert look["img"][look["c"]]["hay"] is True
 
 
 def test_np_cuenta_solo_imagenes_reales():
