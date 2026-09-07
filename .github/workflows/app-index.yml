@@ -45,5 +45,9 @@ jobs:
             echo "El índice no cambió."
           else
             git commit -m "Ele: indice regenerado automaticamente"
+            # Sincronizar con main antes de pushear: la app y otros jobs pushean PNG/memoria/README
+            # constantemente, así que entre el checkout y este push puede haber aterrizado algo.
+            # Sin rebase, el push rebota por non-fast-forward y el índice regenerado se pierde.
+            git pull --rebase origin main
             git push
           fi
