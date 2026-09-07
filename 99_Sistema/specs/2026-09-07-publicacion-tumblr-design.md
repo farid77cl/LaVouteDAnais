@@ -203,6 +203,29 @@ El blog necesita, antes de publicar nada:
 
 **Los prompts usan el BLOQUE ESTILO** de [`estilo_comic_pop_v1.md`](../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md), con sus tres candados afirmativos y **sin bloque negativo**, porque este texto viaja dentro del prompt que la Ama pega en Gemini.
 
+### 6.-1 🚧 Lo que NO se puede automatizar nunca — verificado en la API (07/09/2026)
+
+La Ama preguntó si Ele podía hacerlo todo. Medido contra la documentación oficial de la API v2, no
+de memoria:
+
+| Acción | ¿Por API? | Quién |
+|---|---|---|
+| **Subir el avatar del blog** | ❌ **No existe endpoint.** Solo hay `/avatar` de **lectura** | La Ama, en la web |
+| **Subir el header / cambiar el tema** | ❌ **No existe endpoint.** `/info` *devuelve* el tema pero no lo modifica | La Ama, en la web |
+| Crear la app de Tumblr y autorizarla | ❌ Necesita su sesión de navegador | La Ama |
+| Contar seguidores | ✅ `/blog/{id}/followers` → `total_users` — **exige OAuth como dueña** | Ele, con B4 |
+| Posts, títulos, notas | ✅ `/blog/{id}/info` y `/posts` | Ele, con B4 |
+| Prueba de visibilidad por tag (§5.5) | ✅ `/tagged` | Ele, con B4 |
+| Publicar un capítulo | ✅ `/posts` (NPF) | Ele, **con su okey por post** |
+
+**Conclusión para no volver a prometer de más:** la identidad visual del blog **se sube a mano y
+siempre**, no es un pendiente que se resuelva consiguiendo llaves. Todo lo demás —medir, publicar,
+leer asks— sí se automatiza en cuanto exista B4.
+
+Fuentes: [API v2 de Tumblr](https://www.tumblr.com/docs/en/api/v2) · [`total_users` en followers](https://github.com/tumblr/pytumblr/issues/12).
+
+---
+
 ### 6.0 📐 El encuadre del header NO se le pide al generador — se corta después (07/09/2026)
 
 Tres generaciones seguidas se le pidió a Gemini que dejara el quinto superior e inferior vacíos y
