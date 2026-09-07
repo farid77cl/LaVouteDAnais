@@ -94,7 +94,11 @@ Regla dueño-único (02/07/2026): cada dato tiene UN archivo dueño; el resto **
 |---|---|---|---|
 | **El estilo pop-art** | `01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md` | 🆕 **único archivo de canon nuevo** | Fence `<!-- ADN:BLOQUE_ESTILO -->`, copiado **verbatim** en las 3 imágenes |
 | **El personaje del relato** | `02_Personajes/01_Principales/ficha_<slug>.md` **§10** | ✅ ya existe (Renée) | Fence `<!-- ADN:BLOQUE_PERSONAJE -->`, copiado **verbatim** en las 3 |
-| **Los prompts de un relato** | `03_Literatura/01_En_Progreso/<slug>/imagenes_prompts.md` | 🆕 documento vivo, crece por capítulo | Es el entregable que la Ama pega en Gemini |
+| **Los prompts de un relato** | `<carpeta del relato>/prompts_portada.md` — **ya existe, ya es el dueño declarado** | ✅ 4 de 43 relatos lo tienen | Es el entregable que la Ama pega en Gemini |
+
+> 🩹 **Corrección del 07/09 — este spec había inventado un archivo que le pisaba el dueño.** La v1 proponía un `imagenes_prompts.md` nuevo. Falso problema: `07_Recursos/plantilla_kit_wattpad.md` §«Los dos archivos y quién es dueño de qué» ya declara que **`prompts_portada.md` es dueño de «prompts de imagen (portada + un banner por capítulo) + tags Tumblr/RRSS + tags Wattpad»**, y el de «Café con Piernas» ya trae una sección literal *«Tags (Tumblr/RRSS, con `#`, **por capítulo**)»*. Crear un hermano habría sido exactamente la falla dueño-único que este repo lleva un año cerrando. **Este sistema EXTIENDE `prompts_portada.md` con las dos internas de Tumblr por capítulo; no crea nada.**
+>
+> Lo que sí falta es cobertura: **4 de 43** relatos finalizados tienen `prompts_portada.md` y **5 de 43** tienen `kit_wattpad.md`. La convención existe y está sin aplicar en el 90% del catálogo.
 
 **Por qué fences y no prosa:** es el patrón que ya funciona. `PromptBuilder.bloque_a` lee el ADN desde `<!-- ADN:BLOQUE_A -->` en el perfil visual, y por eso `build()` toma `bloque_a=None` y ningún batch lo hardcodea. Antes de eso el ADN se copiaba a mano en cada script y derivaba. Dentro del fence va **solo texto de prompt**; las notas editoriales van fuera.
 
@@ -132,17 +136,21 @@ dot texture in the shadows and background, limited palette dominated by pinks an
 cream, off-register print feel, clean single panel, portrait orientation
 ```
 
-**Negativo base** (obligatorio en las 3):
+> 🩹 **Corrección del 07/09 — el «negativo base» que decía esta sección era un error, y de los que rebotan.** La primera versión cerraba cada prompt con una lista negativa que incluía `barefoot`, `flat shoes`, `deformed hands`. **Ese texto viaja DENTRO del prompt** — la Ama lo pega en el chat de Gemini (D6), donde **no hay campo de negativo**, a diferencia de su app. Y el dueño único de esta doctrina, `07_Recursos/plantilla_kit_wattpad.md` §Reglas 2, ya lo tenía medido en producción el 22/07/2026:
+>
+> *"NUNCA nombrar lo prohibido, ni para prohibirlo. La primera versión de esta plantilla mandaba cerrar cada prompt con `STRICTLY: no nudity, no exposed nipples…` — y eso hace rebotar el prompt: «Sorry, I can't generate unsafe images». El filtro **no procesa la negación, lee los tokens**. La lista `STRICTLY` es un checklist mío antes de entregar el prompt, jamás texto que se le manda al generador."*
 
-```
-text, lettering, speech bubble, caption box, watermark, signature, logo,
-multiple panels, collage, split frame, photorealistic, 3d render, blurry,
-extra fingers, deformed hands, flat shoes, sneakers, barefoot
-```
+**Lo que reemplaza al negativo — tres candados afirmativos**, tomados de esa misma doctrina:
 
-`text, lettering, speech bubble, caption box` implementan D4. El cierre de calzado se hereda del Footwear Canon cuando el personaje lo tenga declarado en su ficha.
+| Candado | Cómo se escribe |
+|---|---|
+| **GARMENT_DECLARED** | `SHE IS WEARING a [prenda] — worn on her body, closed, opaque — covering [zona] completely from [borde alto] to [borde bajo].` Nunca una prenda sin verbo que la ponga sobre alguien: la portada del Cap 1 de «De Esteban a Secretaria» salió **en topless** porque el corsé estaba mencionado pero no puesto |
+| **CAMERA_FIRST** | Si la prenda que cubre no está del lado que ve la cámara, **se gira la cámara, no se agregan adjetivos**. Vestida por construcción > vestida por adjetivo |
+| **Sin texto (D4)** | `NO TEXT ANYWHERE… every label blank` — **esta sí se puede escribir**: el filtro rebota por tokens *unsafe*, no por «no text». Sin `every label blank`, los objetos de la escena traen palabras inventadas |
 
-**Vocabulario anti-filtro obligatorio** (calibración v4.5/v4.6, ya canon en el repo): `glamorous woman` (no *bimbo*), `sensual` (no *sexy*), `alluring` (no *slutty*), `fashionable` (no *revealing*), `human realistic` (no *plastic*). Los prompts se escriben **en inglés**, como todo prompt de imagen del repo.
+**Registro léxico en clave editorial, no erótica:** sirven `cabaret nightclub`, `sculpted figure`, `glamorous`, `sensual`, `alluring`, `fashionable`, `human realistic`. Quedan fuera `erotic`, `strip club`, `stripper heels`, `augmented bust`, `high-cut`, `bimbo`, `naked`, `slutty`. Los prompts se escriben **en inglés**, como todo prompt de imagen del repo.
+
+**⚠️ Los techos de rating son DOS y no se mezclan.** La regla 1 de esa doctrina (*"sin piel: prohibida la exposición completa… esto deroga el canon visual de Ele para portadas"*) es de **Wattpad**, que borra la imagen sin aviso. Tumblr es más permisivo (R4) y la Ama fijó **PG-13 sugerente vestida** (D3). Un mismo archivo puede alojar prompts de los dos destinos: **cada prompt declara su plataforma techo**, y el que sirve para Wattpad sirve para Tumblr, nunca al revés.
 
 ### 4.4 El flujo (Opción A + cliffhanger)
 
