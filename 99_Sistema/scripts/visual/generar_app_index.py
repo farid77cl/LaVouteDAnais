@@ -23,9 +23,9 @@ FUENTE DE VERDAD:
 TRES MUÑECAS:
     Ele, Miss Doll y Anaïs comparten este índice. Lo que cambia entre ellas
     (prefijo de archivo, carpeta, slug del slot5) vive en
-    `nombres_canonicos.py` + `anclas_universales.json`, no aquí. El parseo de galería vive en
-    `galeria_parser.py`. Este módulo solo junta las dos piezas por personaje
-    y escribe el JSON — no reimplementa ninguna de las dos.
+    `nombres_canonicos.py` + `anclas_universales.json`, no aquí. El parseo de
+    galería vive en `galeria_parser.py`. Este módulo solo junta las dos piezas
+    por personaje y escribe el JSON — no reimplementa ninguna de las dos.
 
 POSES CANÓNICAS (orden fijo del contrato):
     standing · back_view · seated · side_profile · slot5 · pov · odalisque
@@ -188,6 +188,20 @@ def looks_de(galeria, slot5_nombre, hallazgos=None, slug=""):
     return list(vistos.values())
 
 
+def carpeta_dominante(carpetas):
+    """{nombre_carpeta: {pose: archivo}} -> la carpeta que se declara en `d`.
+
+    14 looks de Ele tienen sus imágenes repartidas en DOS carpetas (el 88 vive
+    en `look088_gallery_opening/` y en `look088_highgloss_gallery_opening/`).
+    El índice declara UNA sola, y la app arma la URL como carpeta + archivo:
+    una pose de la carpeta perdedora sería un 404 garantizado, y la app no
+    lleva parser defensivo que lo amortigüe (spec §2.5). Gana la que tiene más
+    poses; empate, la primera alfabéticamente — el desempate existe para que
+    dos corridas den el mismo índice, no porque una carpeta valga más.
+    """
+    return min(carpetas, key=lambda c: (-len(carpetas[c]), c))
+
+
 def imagenes_trackeadas(slug, cfg, diag=None):
     """{numero_look: {"carpeta": str, "poses": {pose: nombre_archivo}}} desde git ls-files.
 
@@ -215,10 +229,19 @@ def imagenes_trackeadas(slug, cfg, diag=None):
         raise SystemExit(f"git ls-files falló para {slug}:\n{out.stderr}")
 
     patron = re.compile(
-        rf"^{re.escape(cfg['carpeta_imagenes'])}/({cfg['prefijo_carpeta_look']}(\d+)_[^/]+)/(.+\.png)$",
+        # `[^/]+` en el nombre de archivo, NO `.+`: con `.+` el punto se comía
+        # la barra y entraban los PNG de subcarpetas (`look110_.../con_trench/
+        # ele_look110_standing.png`). `Path(...).name` les borraba el
+        # `con_trench/` y el índice terminaba declarando `hay:true` sobre una
+        # ruta que no existe — 4 entradas rotas, medidas. Un archivo bajo una
+        # subcarpeta no es direccionable por el contrato carpeta+nombre, así
+        # que queda fuera y se reporta.
+        rf"^{re.escape(cfg['carpeta_imagenes'])}/({cfg['prefijo_carpeta_look']}(\d+)_[^/]+)/([^/]+\.png)$",
         re.IGNORECASE,
     )
-    por_look = defaultdict(lambda: {"carpeta": None, "poses": {}})
+    # {numero: {nombre_carpeta: {pose: archivo}}} — la carpeta se resuelve
+    # después, cuando ya se sabe cuál tiene más poses.
+    crudo = defaultdict(lambda: defaultdict(dict))
     for ruta in out.stdout.splitlines():
         if not ruta.lower().endswith(".png"):
             continue
@@ -232,16 +255,26 @@ def imagenes_trackeadas(slug, cfg, diag=None):
         if not pose:
             anotar("pose_no_reconocida", ruta)
             continue
-        entrada = por_look[numero]
-        # Dos archivos para la misma pose: gana el primero alfabético.
-        # Los `_2` son reintentos, no la toma buena.
-        if pose in entrada["poses"]:
+        # Dos archivos para la misma pose en la misma carpeta: gana el primero
+        # alfabético. Los `_2` son reintentos, no la toma buena.
+        if pose in crudo[numero][m.group(1)]:
             anotar("duplicados", ruta)
             continue
-        entrada["poses"][pose] = Path(ruta).name
-        if entrada["carpeta"] is None:
-            entrada["carpeta"] = f"{cfg['carpeta_imagenes']}/{m.group(1)}/"
-    return dict(por_look)
+        crudo[numero][m.group(1)][pose] = Path(ruta).name
+
+    por_look = {}
+    for numero, carpetas in crudo.items():
+        gana = carpeta_dominante(carpetas)
+        por_look[numero] = {
+            "carpeta": f"{cfg['carpeta_imagenes']}/{gana}/",
+            "poses": carpetas[gana],
+        }
+        for otra, poses in carpetas.items():
+            if otra == gana:
+                continue
+            for archivo in poses.values():
+                anotar("carpeta_secundaria", f"{cfg['carpeta_imagenes']}/{otra}/{archivo}")
+    return por_look
 
 
 def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos=None):
@@ -377,6 +410,7 @@ def _reportar_descartes(diagnosticos, indice, imagenes, hallazgos):
             ("fuera_de_patron", "fuera del patrón de carpeta"),
             ("pose_no_reconocida", "con pose no reconocida"),
             ("duplicados", "descartados por pose duplicada"),
+            ("carpeta_secundaria", "en la carpeta perdedora del look"),
         ):
             rutas = diag.get(clave, [])
             if rutas:

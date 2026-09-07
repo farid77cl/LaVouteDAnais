@@ -145,6 +145,50 @@ def test_la_carpeta_discrepante_se_reporta_como_hallazgo():
                for h in hallazgos), hallazgos
 
 
+def test_carpeta_dominante_gana_la_que_tiene_mas_poses():
+    """14 looks de Ele tienen imágenes repartidas en DOS carpetas (el look 88
+    vive en `look088_gallery_opening/` y en `look088_highgloss_gallery_opening/`).
+    El índice declara UNA carpeta, así que una pose de la otra daría 404 en la
+    app, que no lleva parser defensivo."""
+    assert GEN.carpeta_dominante({
+        "look088_gallery_opening": {"standing": "a.png", "seated": "b.png"},
+        "look088_highgloss_gallery_opening": {
+            "pov": "c.png", "odalisque": "d.png", "back_view": "e.png"},
+    }) == "look088_highgloss_gallery_opening"
+
+
+def test_carpeta_dominante_empata_por_orden_alfabetico():
+    """Determinismo: la misma entrada tiene que dar siempre el mismo índice."""
+    assert GEN.carpeta_dominante({
+        "look093_highgloss_cherry": {"standing": "a.png"},
+        "look093_high_gloss_cherry": {"pov": "b.png"},
+    }) == "look093_high_gloss_cherry"
+
+
+def test_un_png_en_una_subcarpeta_del_look_no_entra(monkeypatch):
+    """`look110_.../con_trench/ele_look110_standing.png` no es direccionable
+    por el contrato carpeta+nombre: `Path(...).name` le borraba el
+    `con_trench/` y el índice declaraba `hay:true` sobre una ruta inexistente.
+    Queda fuera y se reporta."""
+    salida = "\n".join([
+        "05_Imagenes/ele/look110_cherry/ele_110_pov.png",
+        "05_Imagenes/ele/look110_cherry/con_trench/ele_look110_standing.png",
+    ])
+
+    class Falso:
+        returncode = 0
+        stdout = salida
+        stderr = ""
+
+    monkeypatch.setattr(GEN.subprocess, "run", lambda *a, **k: Falso())
+    diag = {}
+    res = GEN.imagenes_trackeadas("ele", CFG["ele"], diag)
+    assert set(res[110]["poses"]) == {"pov"}
+    assert res[110]["carpeta"] == "05_Imagenes/ele/look110_cherry/"
+    assert diag["fuera_de_patron"] == [
+        "05_Imagenes/ele/look110_cherry/con_trench/ele_look110_standing.png"]
+
+
 def test_sin_imagen_trackeada_la_carpeta_sale_del_markdown():
     look = next(l for l in _indice()["looks"] if l["p"] == "miss_doll")
     assert look["d"] == "05_Imagenes/miss_doll/look10_midnight_plum_rite/"
